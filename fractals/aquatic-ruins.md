@@ -1,5 +1,20 @@
 # Aquatic Ruins Fractal
 
+<Grid>
+    <Column>
+        <Youtube id="cRKap-6_W48"/>
+    </Column>    
+    <Column>    
+        | | |
+        | --- | --- |
+        | **Cycle** | Day |
+        | **Potions** | <Item id="8891" inline=true/> or <Item id="50082" inline=true/> (only for the Krait at the  beginning) |
+        | **Sigils** | <Item id="24658" inline=true/> for the Krait at the beginning, otherwise <Item id="24868" inline=true/> and <Item id="24615" inline=true/> |
+        | **Consumables** | <Item id="78978" inline=true/> |
+        | **Instabilities** | <Instability name="afflicted"/> |
+    b</Column>
+</Grid>
+
 ## Save the villagers
 You can stack <Boon name="might"/> on the rack before entering the water. Kill the three groups of Krait and open the cages. Use <Command name="gg"/> after the last cage to instantly teleport to the tunnel part.
 
