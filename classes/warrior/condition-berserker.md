@@ -5,3 +5,14 @@ Besides providing the group with strong damage buffs (<Skill id="14405" inline=t
 
 As Berserker your focus is first and foremost providing the group with aforementioned damage buffs, secondly breaking the defiance bar while following your optimized damage rotation.
 
+<Tabs>
+<Tab name="Build">
+Content
+</Tab>
+<Tab name="Equipment">
+Content 2
+</Tab>
+<Tab name="Skills & Rotation">
+Content 3
+</Tab>
+</Tabs>
