@@ -20,7 +20,7 @@
 | Enemy type | Potion | Sigil |
 | --- | --- | --- |
 | Any mob during Night | None | <Item id="36053" inline=true/> |
-| Demon & Elemental | <Item id="8886" inline=true/> <Item id="8885" inline=true/> | <Item id="24664" inline=true/> <Item id="24661" inline=true/> |
+| Demon & Elemental | <Item id="8886" inline=true/><br/><Item id="8885" inline=true/> | <Item id="24664" inline=true/><br/><Item id="24661" inline=true/> |
 | Dredge | <Item id="8892" inline=true/> | <Item id="24684" inline=true/> |
 | Grawl | <Item id="8890" inline=true/> | <Item id="24648" inline=true/> |
 | Flame Legion | <Item id="8879" inline=true/> | <Item id="24675" inline=true/> |
