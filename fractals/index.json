@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Challenge Mode Fractals",
+    "itemsPerRow": 2,
+    "items": {
+      "nightmare": {
+        "header": "[99CM] Nightmare",
+        "meta": "8:36 by Snow Crows [SC]"
+      },
+      "shattered-observatory": {
+        "header": "[100CM] Shattered Observatory",
+        "meta": "9:45 by Snow Crows [SC]"
+      }
+    }
+  },
+  {
+    "name": "T4 Fractals",
+    "itemsPerRow": 5,
+    "items": {
+      "aquatic-ruins": {
+        "header": "[76] Aquatic Ruins",
+        "meta": "2:13 by Happens [hP]"
+      },
+      "swampland": {
+        "header": "[77,89] Swampland",
+        "meta": "6:03 by Quantify [qT]"
+      },
+      "urban-battlegrounds": {
+        "header": "[78,85] Urban Battlegrounds",
+        "meta": "4:50 by Happens [hP]"
+      },
+      "uncategorized": {
+        "header": "[79,91] Uncategorized",
+        "meta": "3:16 by Happens [hP]"
+      },
+      "solid-ocean": {
+        "header": "[80] Solid Ocean"
+      },
+      "underground-facility": {
+        "header": "[81] Underground Facility",
+        "meta": "3:52 by Happens [hP]"
+      },
+      "cliffside": {
+        "header": "[82,94] Cliffside",
+        "meta": "4:29 by Happens [hP]"
+      },
+      "molten-furnace": {
+        "header": "[83] Molten Furnace"
+      },
+      "thaumanova-reactor": {
+        "header": "[84,97] Thaumanova Reactor",
+        "meta": "3:33 by Happens [hP]"
+      },
+      "snowblind": {
+        "header": "[86,93] Snowblind",
+        "meta": "3:32 by Snow Crows [SC]"
+      },
+      "volcanic": {
+        "header": "[87,92] Volcanic",
+        "meta": "3:48 by Quantify [qT]"
+      },
+      "chaos-isles": {
+        "header": "[88,98] Chaos Isles",
+        "meta": "5:11 by Quantify [qT]"
+      },
+      "molten-boss": {
+        "header": "[90] Molten Boss"
+      },
+      "captain-mai-trin-boss": {
+        "header": "[95] Captain Mai Trin Boss"
+      },
+      "aetherblade": {
+        "header": "[96] Aetherblade",
+        "meta": "3:10 by Quantify [qT]"
+      }
+    }
+  }
+]

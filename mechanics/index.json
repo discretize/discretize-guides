@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Mechanics Guide",
+    "itemsPerRow": 2,
+    "items": {
+      "fractal-basics": {
+        "header": "Fractal Basics",
+        "description": "Learn the meta team composition, usage of /gg and about Mistlock Instabilities"
+      },
+      "consumables": {
+        "header": "Consumables",
+        "description": ""
+      },
+      "damage-mitigation": {
+        "header": "Damage Mitigation",
+        "description": ""
+      },
+      "blast-stacking": {
+        "header": "Blast Stacking",
+        "description": ""
+      }
+    }
+  }
+]
