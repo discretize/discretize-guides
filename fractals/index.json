@@ -4,10 +4,12 @@
     "itemsPerRow": 2,
     "items": {
       "nightmare": {
+        "image": "fractals/images/nightmare.jpg",
         "header": "[99CM] Nightmare",
         "meta": "8:36 by Snow Crows [SC]"
       },
       "shattered-observatory": {
+        "image": "fractals/images/shattered-observatory.jpg",
         "header": "[100CM] Shattered Observatory",
         "meta": "9:45 by Snow Crows [SC]"
       }
@@ -18,58 +20,73 @@
     "itemsPerRow": 5,
     "items": {
       "aquatic-ruins": {
+        "image": "fractals/images/aquatic-ruins.jpg",
         "header": "[76] Aquatic Ruins",
         "meta": "2:13 by Happens [hP]"
       },
       "swampland": {
+        "image": "fractals/images/swampland.jpg",
         "header": "[77,89] Swampland",
         "meta": "6:03 by Quantify [qT]"
       },
       "urban-battlegrounds": {
+        "image": "fractals/images/urban-battlegrounds.jpg",
         "header": "[78,85] Urban Battlegrounds",
         "meta": "4:50 by Happens [hP]"
       },
       "uncategorized": {
+        "image": "fractals/images/uncategorized.jpg",
         "header": "[79,91] Uncategorized",
         "meta": "3:16 by Happens [hP]"
       },
       "solid-ocean": {
+        "image": "fractals/images/solid-ocean.jpg",
         "header": "[80] Solid Ocean"
       },
       "underground-facility": {
+        "image": "fractals/images/underground-facility.jpg",
         "header": "[81] Underground Facility",
         "meta": "3:52 by Happens [hP]"
       },
       "cliffside": {
+        "image": "fractals/images/cliffside.jpg",
         "header": "[82,94] Cliffside",
         "meta": "4:29 by Happens [hP]"
       },
       "molten-furnace": {
+        "image": "fractals/images/molten-furnace.jpg",
         "header": "[83] Molten Furnace"
       },
       "thaumanova-reactor": {
+        "image": "fractals/images/thaumanova-reactor.jpg",
         "header": "[84,97] Thaumanova Reactor",
         "meta": "3:33 by Happens [hP]"
       },
       "snowblind": {
+        "image": "fractals/images/snowblind.jpg",
         "header": "[86,93] Snowblind",
         "meta": "3:32 by Snow Crows [SC]"
       },
       "volcanic": {
+        "image": "fractals/images/volcanic.jpg",
         "header": "[87,92] Volcanic",
         "meta": "3:48 by Quantify [qT]"
       },
       "chaos-isles": {
+        "image": "fractals/images/chaos-isles.jpg",
         "header": "[88,98] Chaos Isles",
         "meta": "5:11 by Quantify [qT]"
       },
       "molten-boss": {
+        "image": "fractals/images/molten-boss.jpg",
         "header": "[90] Molten Boss"
       },
       "captain-mai-trin-boss": {
+        "image": "fractals/images/captain-mai-trin-boss.jpg",
         "header": "[95] Captain Mai Trin Boss"
       },
       "aetherblade": {
+        "image": "fractals/images/aetherblade.jpg",
         "header": "[96] Aetherblade",
         "meta": "3:10 by Quantify [qT]"
       }
