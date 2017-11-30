@@ -10,9 +10,9 @@
     | --- | --- |
     | **Cycle** | Night |
     | **Potions** | None |
-    | **Sigils** | <Item id="36053" inline=true/> and <Item id="24868" inline=true/> and <Item id="24615" inline=true/> |
-    | **Consumables** | <Item id="78978" inline=true/> |
-    | **Instabilities** | **77:** <Instability name="Adrenaline Rush"/>, <Instability name="Afflicted"/>, <Instability name="Mists Convergence"/><br/>**89:** <Instability name="Adrenaline Rush"/>, <Instability name="Flux Bomb"/>, <Instability name="Social Awkwardness"/> |
+    | **Sigils** | <Item id="36053"/> and <Item id="24868"/> and <Item id="24615"/> |
+    | **Consumables** | <Item id="78978"/> |
+    | **Instabilities** |**77:** <Instability name="Adrenaline Rush"/>, <Instability name="Afflicted"/>, <Instability name="Mists Convergence"/><br/>**89:** <Instability name="Adrenaline Rush"/>, <Instability name="Flux Bomb"/>, <Instability name="Social Awkwardness"/> |
 </Column>
 </Grid>
 
@@ -29,19 +29,18 @@ If you are really desparate, you can download a [GW2 TacO](http://gw2taco.blogsp
 
 <Column>
 <Tips>
-    <Tip specialization="mesmer">You can place a <Skill id="10197" inline=true/> between a Wisp and the Clefts to instantly deliver it or place it in the middle of the map to make it easier for your comrades. Otherwise use <Skill id="10200" inline=true/> with <Skill id="29578" inline=true/> to cover your fails.</Tip>
-    <Tip specialization="warrior">Use <Skill id="14516" inline=true/> for better mobility.</Tip>
-    <Tip specialization="elementalist">Equip <Skill id="5536" inline=true/> for mobility and <Skill id="5507" inline=true/> for a condition cleanse.</Tip>
-    <Tip specialization="thief">Use <Skill id="13038" inline=true/> or <Skill id="13002" inline=true/> for fast delivery.</Tip>
-    <Tip specialization="guardian">Take <Skill id="9153" inline=true/> for party <Boon name="stability"/> and <Skill id="9084" inline=true/> for party <Boon name="swiftness"/> and <Boon name="aegis"/>. <Skill id="30083" inline=true/> is obviously very good to move faster.</Tip>
+    <Tip specialization="mesmer">You can place a <Skill id="10197"/> between a Wisp and the Clefts to instantly deliver it or place it in the middle of the map to make it easier for your comrades. Otherwise use <Skill id="10200"/> with <Skill id="29578"/> to cover your fails.</Tip>
+    <Tip specialization="warrior">Use <Skill id="14516"/> for better mobility.</Tip>
+    <Tip specialization="elementalist">Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cleanse.</Tip>
+    <Tip specialization="thief">Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.</Tip>
+    <Tip specialization="guardian">Take <Skill id="9153"/> for party <Boon name="stability"/> and <Skill id="9084"/> for party <Boon name="swiftness"/> and <Boon name="aegis"/>. <Skill id="30083"/> is obviously very good to move faster.</Tip>
 </Tips>
 </Column>
 </Grid>
 
 ---
 
-## The Mossman
-You can break his defiance bar while he is in <Effect name="stealth"/> to force a reveal, just do not waste all your cooldowns on him. If you need a <Command name="gg"/> to reset them, do it either before taking the Wisp at Bloomhunger or after activating him or you will bug the entire fractal and have to restart.
+## The Mossman You can break his defiance bar while he is in <Effect name="stealth"/> to force a reveal, just do not waste all your cooldowns on him. If you need a <Command name="gg"/> to reset them, do it either before taking the Wisp at Bloomhunger or after activating him or you will bug the entire fractal and have to restart.
 
 ---
 
@@ -62,9 +61,9 @@ As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again
 
 <Column width=6>
 <Tips>
-    <Tip specialization="chronomancer">Take <Skill id="29526" inline=true/> if you have trouble with mechanics.</Tip>
-    <Tip specialization="dragonhunter">Activate <Skill id="30029" inline=true/> when Bloomhunger jumps to block the initial damage.</Tip>
-    <Tip specialization="ranger">If you're doing the fractal on 77, take a <Skill id="12489" inline=true/> traited with <Trait id="1075" inline=true/> against the <Instability name="Afflicted"/> instability.</Tip>
+    <Tip specialization="chronomancer">Take <Skill id="29526"/> if you have trouble with mechanics.</Tip>
+    <Tip specialization="dragonhunter">Activate <Skill id="30029"/> when Bloomhunger jumps to block the initial damage.</Tip>
+    <Tip specialization="ranger">If you're doing the fractal on 77, take a <Skill id="12489"/> traited with <Trait id="1075"/> against the <Instability name="Afflicted"/> instability.</Tip>
 </Tips>
 </Column>
 </Grid>
