@@ -4,86 +4,143 @@
     "itemsPerRow": 2,
     "items": {
       "nightmare": {
-        "header": "[99CM] Nightmare",
-        "meta": "8:36 by Snow Crows [SC]"
+        "header": "Nightmare",
+        "meta": "99CM",
+        "record": {
+          "time": "8:36",
+          "by": "Snow Crows [SC]"
+        }
       },
       "shattered-observatory": {
-        "header": "[100CM] Shattered Observatory",
-        "meta": "9:45 by Snow Crows [SC]"
+        "header": "Shattered Observatory",
+        "meta": "100CM",
+        "record": {
+          "time": "9:45",
+          "by": "Snow Crows [SC]"
+        }
       }
     }
   },
   {
     "name": "T4 Fractals",
-    "itemsPerRow": 5,
+    "itemsPerRow": 4,
     "items": {
       "aquatic-ruins": {
         "image": "fractals/images/aquatic-ruins.jpg",
-        "header": "[76] Aquatic Ruins",
-        "meta": "2:13 by Happens [hP]"
+        "header": "Aquatic Ruins",
+        "meta": "76",
+        "record": {
+          "time": "2:13",
+          "by": "Happens [hP]"
+        }
       },
       "swampland": {
-        "header": "[77,89] Swampland",
-        "meta": "6:03 by Quantify [qT]"
+        "header": "Swampland",
+        "meta": "77, 89",
+        "record": {
+          "time": "6:03",
+          "by": "Quantify [qT]"
+        }
       },
       "urban-battlegrounds": {
         "image": "fractals/images/urban-battlegrounds.jpg",
-        "header": "[78,85] Urban Battlegrounds",
-        "meta": "4:50 by Happens [hP]"
+        "header": "Urban Battlegrounds",
+        "meta": "78, 85",
+        "record": {
+          "time": "4:50",
+          "by": "Happens [hP]"
+        }
       },
       "uncategorized": {
         "image": "fractals/images/uncategorized.jpg",
-        "header": "[79,91] Uncategorized",
-        "meta": "3:16 by Happens [hP]"
+        "header": "Uncategorized",
+        "meta": "79, 91",
+        "record": {
+          "time": "3:16",
+          "by": "Happens [hP]"
+        }
       },
       "solid-ocean": {
-        "header": "[80] Solid Ocean"
+        "header": "Solid Ocean",
+        "meta": "80"
       },
       "underground-facility": {
-        "header": "[81] Underground Facility",
-        "meta": "3:52 by Happens [hP]"
+        "header": "Underground Facility",
+        "meta": "81",
+        "record": {
+          "time": "3:52",
+          "by": "Happens [hP]"
+        }
       },
       "cliffside": {
         "image": "fractals/images/cliffside.jpg",
-        "header": "[82,94] Cliffside",
-        "meta": "4:29 by Happens [hP]"
+        "header": "Cliffside",
+        "meta": "82, 94",
+        "record": {
+          "time": "4:29",
+          "by": "Happens [hP]"
+        }
       },
       "molten-furnace": {
-        "header": "[83] Molten Furnace"
+        "header": "Molten Furnace",
+        "meta": "83"
       },
       "thaumanova-reactor": {
         "image": "fractals/images/thaumanova-reactor.jpg",
-        "header": "[84,97] Thaumanova Reactor",
-        "meta": "3:33 by Happens [hP]"
+        "header": "Thaumanova Reactor",
+        "meta": "84, 97",
+        "record": {
+          "time": "3:33",
+          "by": "Happens [hP]"
+        }
       },
       "snowblind": {
         "image": "fractals/images/snowblind.jpg",
-        "header": "[86,93] Snowblind",
-        "meta": "3:32 by Snow Crows [SC]"
+        "header": "Snowblind",
+        "meta": "86, 93",
+        "record": {
+          "time": "3:32",
+          "by": "Snow Crows [SC]"
+        }
       },
       "twilight-oasis": {
-        "header": "[87] Twilight Oasis"
+        "header": "Twilight Oasis",
+        "meta": "87"
       },
       "chaos-isles": {
         "image": "fractals/images/chaos-isles.jpg",
-        "header": "[88,98] Chaos Isles",
-        "meta": "5:11 by Quantify [qT]"
+        "header": "Chaos Isles",
+        "meta": "88, 98",
+        "record": {
+          "time": "5:11",
+          "by": "Quantify [qT]"
+        }
       },
       "molten-boss": {
-        "header": "[90] Molten Boss"
+        "header": "Molten Boss",
+        "meta": "90"
       },
       "volcanic": {
-        "header": "[92] Volcanic",
-        "meta": "3:48 by Quantify [qT]"
+        "header": "Volcanic",
+        "meta": "92",
+        "record": {
+          "time": "3:48",
+          "by": "Quantify [qT]"
+        }
       },
       "captain-mai-trin-boss": {
         "image": "fractals/images/captain-mai-trin-boss.jpg",
-        "header": "[95] Captain Mai Trin Boss"
+        "header": "Captain Mai Trin Boss",
+        "meta": "95"
       },
       "aetherblade": {
         "image": "fractals/images/aetherblade.jpg",
-        "header": "[96] Aetherblade",
-        "meta": "3:10 by Quantify [qT]"
+        "header": "Aetherblade",
+        "meta": "96",
+        "record": {
+          "time": "3:10",
+          "by": "Quantify [qT]"
+        }
       }
     }
   }
