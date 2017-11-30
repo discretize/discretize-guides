@@ -4,12 +4,10 @@
     "itemsPerRow": 2,
     "items": {
       "nightmare": {
-        "image": "fractals/images/nightmare.jpg",
         "header": "[99CM] Nightmare",
         "meta": "8:36 by Snow Crows [SC]"
       },
       "shattered-observatory": {
-        "image": "fractals/images/shattered-observatory.jpg",
         "header": "[100CM] Shattered Observatory",
         "meta": "9:45 by Snow Crows [SC]"
       }
@@ -25,7 +23,6 @@
         "meta": "2:13 by Happens [hP]"
       },
       "swampland": {
-        "image": "fractals/images/swampland.jpg",
         "header": "[77,89] Swampland",
         "meta": "6:03 by Quantify [qT]"
       },
@@ -40,11 +37,9 @@
         "meta": "3:16 by Happens [hP]"
       },
       "solid-ocean": {
-        "image": "fractals/images/solid-ocean.jpg",
         "header": "[80] Solid Ocean"
       },
       "underground-facility": {
-        "image": "fractals/images/underground-facility.jpg",
         "header": "[81] Underground Facility",
         "meta": "3:52 by Happens [hP]"
       },
@@ -54,7 +49,6 @@
         "meta": "4:29 by Happens [hP]"
       },
       "molten-furnace": {
-        "image": "fractals/images/molten-furnace.jpg",
         "header": "[83] Molten Furnace"
       },
       "thaumanova-reactor": {
@@ -67,10 +61,8 @@
         "header": "[86,93] Snowblind",
         "meta": "3:32 by Snow Crows [SC]"
       },
-      "volcanic": {
-        "image": "fractals/images/volcanic.jpg",
-        "header": "[87,92] Volcanic",
-        "meta": "3:48 by Quantify [qT]"
+      "twilight-oasis": {
+        "header": "[87] Twilight Oasis"
       },
       "chaos-isles": {
         "image": "fractals/images/chaos-isles.jpg",
@@ -78,8 +70,11 @@
         "meta": "5:11 by Quantify [qT]"
       },
       "molten-boss": {
-        "image": "fractals/images/molten-boss.jpg",
         "header": "[90] Molten Boss"
+      },
+      "volcanic": {
+        "header": "[92] Volcanic",
+        "meta": "3:48 by Quantify [qT]"
       },
       "captain-mai-trin-boss": {
         "image": "fractals/images/captain-mai-trin-boss.jpg",

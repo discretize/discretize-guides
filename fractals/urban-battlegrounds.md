@@ -10,9 +10,9 @@
     | --- | --- |
     | **Cycle** | Day |
     | **Potions** | None |
-    | **Sigils** | <Item id="24868" inline=true/> and <Item id="24868" inline=true/> and <Item id="24615" inline=true/> |
-    | **Consumables** | <Item id="49940" inline=true/>, <Item id="8764" inline=true/>, <Item id="8801"/> |
-    | **Instabilities** | **78:** <Instability name="Afflicted"/>, <Instability name="Flux Bomb"/>, <Instability name="Social Awkwardness"/><br/>**85:** <Instability name="Mists Convergence"/>, <Instability name="Social Awkwardness"/>, <Instability name="Toxic Trail"/> |
+    | **Sigils** | <Item id="24868"/> and <Item id="24868"/> and <Item id="24615"/> |
+    | **Consumables** | <Item id="49940"/>, <Item id="8764"/>, <Item id="8801"/> |
+    | **Instabilities** |**78:** <Instability name="Afflicted"/>, <Instability name="Flux Bomb"/>, <Instability name="Social Awkwardness"/><br/>**85:** <Instability name="Mists Convergence"/>, <Instability name="Social Awkwardness"/>, <Instability name="Toxic Trail"/> |
 </Column>
 </Grid>
 
@@ -22,8 +22,8 @@
 Stack <Effect name="stealth"/> in the tent and run towards Dulfy. Focus the *Burning Oil* above her before walking below, control and cleave the trash mobs and utilize reflects and blocks while nuking her down. Destroy the gate after finishing her and gather on the other side of the wall.
 
 <Tips>
-    <Tip specialization="mesmer">Protect your party with <Skill id="29526" inline=true/> or <Skill id="10302" inline=true/> and control enemies with <Skill id="30359" inline=true/>. You can run <Trait id="751" inline=true/> for the entire fractal to grab more often and for even more reflects.</Tip>
-    <Tip specialization="elementalist">Cast <Skill id="5737" inline=true/>, <Skill id="5692"/> and <Skill id="5638"/> to destroy the Burning Oil above Dulfy.</Tip>
+    <Tip specialization="mesmer">Protect your party with <Skill id="29526"/> or <Skill id="10302"/> and control enemies with <Skill id="30359"/>. You can run <Trait id="751"/> for the entire fractal to grab more often and for even more reflects.</Tip>
+    <Tip specialization="elementalist">Cast <Skill id="5737"/>, <Skill id="5692"/> and <Skill id="5638"/> to destroy the Burning Oil above Dulfy.</Tip>
     <Tip specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> (also useful for reflects) or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tip>
     <Tip specialization="guardian">Run <Skill id="9251"/> to reflect the projectiles.</Tip>
     <Tip specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/> at the beginning.</Tip>
@@ -31,31 +31,39 @@ Stack <Effect name="stealth"/> in the tent and run towards Dulfy. Focus the *Bur
 
 ---
 
-## The Mossman
-You can break his defiance bar while he is in <Effect name="stealth"/> to force a reveal, just do not waste all your cooldowns on him. If you need a <Command name="gg"/> to reset them, do it either before taking the Wisp at Bloomhunger or after activating him or you will bug the entire fractal and have to restart.
-
----
-
-## Bloomhunger
+## The town
 <Grid>
 <Column>
-Activate the encounter by placing the nearby Wisp into an empty Wisp Cleft. Bloomhunger (and all trash mobs) are only vulnerable inside the active Wisp Cleft area, additionally all players gain 100% increased endurance regeneration from it. The active area switches clockwise, move to the next position as soon as it decreases in size.    
-When Bloomhunger casts *Poison Rain*, immediately break his defiance bar (especially at the start of the fight) and nuke him to 75%/50%/25% life. Avoid his *Leap* and *Charge* attacks to prevent knockdowns.
-
-### Spirit Onslaught *75%, 50%*
-At 75% and 50% health, Bloomhunger will teleport to the middle and become immune to damage. You will have to kill trash mobs inside the active Wisp Cleft to make him vulnerable again. Keep your pets, illusions and spirits close to prevent mobs from getting stuck and kill the spawning Oakheart to avoid boredom. Do not waste your time on Oakhearts while Bloomhunger is vulnerable.    
-Make sure to position yourself close to Bloomhunger before the phase ends to maximize the chance of him immediately jumping on you instead of charging around.
-
-### Running the wisps *25%*
-Try to position yourself before Bloomhunger reaches 25% health. Again, he will teleport to the middle and become immune, but this time you have to carry four Wisps from northwest, northeast, southeast and southwest to their associated empty Wisp Cleft in the center area within 30 seconds. If you are near a Wisp before the phase begins, you can easily carry two Wisps before the time expires.    
-As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again and you can finish him off to complete the fractal.
+Again, stack <Effect name="stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
 </Column>
 
-<Column width=6>
+<Column>
 <Tips>
-    <Tip specialization="chronomancer">Take <Skill id="29526" inline=true/> if you have trouble with mechanics.</Tip>
-    <Tip specialization="dragonhunter">Activate <Skill id="30029" inline=true/> when Bloomhunger jumps to block the initial damage.</Tip>
-    <Tip specialization="ranger">If you're doing the fractal on 77, take a <Skill id="12489" inline=true/> traited with <Trait id="1075" inline=true/> against the <Instability name="Afflicted"/> instability.</Tip>
+    <Tip specialization="mesmer">You can give easy party <Effect name="stealth"/> with <Skill id="10245"/>.</Tip>
+    <Tip specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tip>
+    <Tip specialization="guardian">If you are not stealthing, equip <Skill id="9153"/> for party <Boon name="stability"/> against the Ballistas.</Tip>
+    <Tip specialization="ranger"></Tip>
 </Tips>
 </Column>
 </Grid>
+
+---
+
+## Courtyard
+<Grid>
+<Column>
+To capture the courtyard, you have to kill (or kite away) four groups of *Veteran Ascalonians*. Be careful with pulling to little enemies.
+
+As soon as you capture the courtyard, the *Fire Caller* will start a ritual and enemy groups spawn at the gates (clockwise starting north). Stay in the middle and wait for them to come to you. If you kill them too fast, they will respawn shortly (Bug).
+</Column>
+
+<Column>
+<Tips>
+    <Tip specialization="chronomancer"><Skill id="10363"/>, <Skill id="29526"/> and <Skill id="30359"/> are very valuable here.</Tip>
+    <Tip specialization="elementalist"><Skill id="5738"/> is very strong against the groups of mobs during the capture event.<br/>Stay in <Skill id="5492" text=false/> before Ashym for <Boon name="might"/> stacking.</Tip>
+</Tips>
+</Column>
+</Grid>
+
+## Captain Ashym
+Stack <Effect name="might"/> while Captain Ashym runs towards you. Break his defiance bar as fast as possible and be careful with his *Meteor Shower* AoE skill. He also tends to block multiple times during the fight, stop wasting your skills in that case. At 25% health, he will equip a Fiery Greatsword and gain additional skills, just make sure to end the fight quickly.

@@ -4,33 +4,33 @@ A lot of projectiles in fractals can be reflected or destroyed to prevent variou
 Below is a list of currently used projectile reflect or absorb skills and traits:
 
 ## Mesmer
-* <Skill id="10302" inline=true/>, best used during <Skill id="29830" inline=true/> (<Specialization name="chronomancer"/>)
-* <Skill id="10186" inline=true/> (Focus 4) traited with <Trait id="751" inline=true/>
-* <Skill id="10282" inline=true/> (Focus 5), rather inconsistent
-* <Skill id="30643" inline=true/> (Shield 5, <Specialization name="chronomancer"/>)
+* <Skill id="10302"/>, best used during <Skill id="29830"/> (<Specialization name="chronomancer"/>)
+* <Skill id="10186"/> (Focus 4) traited with <Trait id="751"/>
+* <Skill id="10282"/> (Focus 5), rather inconsistent
+* <Skill id="30643"/> (Shield 5, <Specialization name="chronomancer"/>)
 
 ## Elementalist
-* <Skill id="5685" inline=true/> (Staff 3, <Skill id="5495" inline=true/>) and any other skill that applies it
-* <Skill id="5530" inline=true/> (Focus 4, <Skill id="5494" inline=true/>)
-* <Skill id="30432" inline=true/> (<Specialization name="tempest"/>)
-* <Skill id="29453" inline=true/> (Warhorn 4, <Skill id="5495" inline=true/>, <Specialization name="tempest"/>)
+* <Skill id="5685"/> (Staff 3, <Skill id="5495"/>) and any other skill that applies it
+* <Skill id="5530"/> (Focus 4, <Skill id="5494"/>)
+* <Skill id="30432"/> (<Specialization name="tempest"/>)
+* <Skill id="29453"/> (Warhorn 4, <Skill id="5495"/>, <Specialization name="tempest"/>)
 
 ## Ranger
-* <Skill id="31496" inline=true/> (Staff 5, <Specialization name="druid"/>
-* <Skill id="12639" inline=true/> (Axe 5)
+* <Skill id="31496"/> (Staff 5, <Specialization name="druid"/>
+* <Skill id="12639"/> (Axe 5)
 
 ## Guardian
-* <Skill id="9251" inline=true/>
-* <Skill id="9107" inline=true/> (Sword 3)
-* <Skill id="41836" inline=true/> (<Skill id="42259" inline=true/>, <Specialization name="firebrand"/>)
+* <Skill id="9251"/>
+* <Skill id="9107"/> (Sword 3)
+* <Skill id="41836"/> (<Skill id="42259"/>, <Specialization name="firebrand"/>)
 
 ## Thief
-* <Skill id="14184" inline=true/>
-* <Skill id="30434" inline=true/> (Staff 2, <Specialization name="daredevil"/>)
+* <Skill id="14184"/>
+* <Skill id="30434"/> (Staff 2, <Specialization name="daredevil"/>)
 
 ## Warior
-* <Skill id="30074" inline=true/> (<Specialization name="berserker"/>)
-* <Skill id="30682" inline=true/> (Sword F1, <Specialization name="berserker"/>
+* <Skill id="30074"/> (<Specialization name="berserker"/>)
+* <Skill id="30682"/> (Sword F1, <Specialization name="berserker"/>
 
 ---
 
@@ -40,36 +40,36 @@ Certain mechanics can be bypassed by using block, <Effect name="invulnerability"
 Below is a list of commonly used defensive skills:
 
 ## Mesmer
-* <Skill id="10192" inline=true/> (F4), trait <Trait id="1852" inline=true/> to share any distortion you gain with allies (5 seconds internal cooldown)
-* Any signet with <Trait id="713" inline=true/> and phantasm with <Trait id="1866" inline=true/>
-* <Skill id="30769" inline=true/> and <Skill id="29649" inline=true/> (Shield 4, <Specialization name="chronomancer"/>
-* <Skill id="10280" inline=true/> (Sword 4), you can block more by jumping
-* <Skill id="10334" inline=true/> (Sword 2)
-* <Skill id="29526" inline=true/> with <Boon name="aegis"/>
+* <Skill id="10192"/> (F4), trait <Trait id="1852"/> to share any distortion you gain with allies (5 seconds internal cooldown)
+* Any signet with <Trait id="713"/> and phantasm with <Trait id="1866"/>
+* <Skill id="30769"/> and <Skill id="29649"/> (Shield 4, <Specialization name="chronomancer"/>
+* <Skill id="10280"/> (Sword 4), you can block more by jumping
+* <Skill id="10334"/> (Sword 2)
+* <Skill id="29526"/> with <Boon name="aegis"/>
 
 ## Warrior
-* <Skill id="30074" inline=true/> (<Specialization name="berserker"/>)
-* <Skill id="14507" inline=true/> (Mace 2)
-* <Skill id="14362" inline=true/> (Shield 5)
-* <Skill id="21815" inline=true/>, also heals you for incoming damage but does not prevent conditions or control effects
-* <Skill id="14392" inline=true/>, does not prevent conditions or control effects
+* <Skill id="30074"/> (<Specialization name="berserker"/>)
+* <Skill id="14507"/> (Mace 2)
+* <Skill id="14362"/> (Shield 5)
+* <Skill id="21815"/>, also heals you for incoming damage but does not prevent conditions or control effects
+* <Skill id="14392"/>, does not prevent conditions or control effects
 
 ## Guardian
-* <Skill id="9102" inline=true/>
-* <Skill id="9154" inline=true/>
+* <Skill id="9102"/>
+* <Skill id="9154"/>
 * Any Aegis skill:
-    * <Skill id="9118" inline=true/> and <Skill id="42259" inline=true/> (<Specialization name="firebrand"/>) (periodically)
-    * <Skill id="9084" inline=true/>
-    * <Skill id="41475" inline=true/> (<Specialization name="firebrand"/>)
-    * <Skill id="42986" inline=true/> (<Skill id="42259" inline=true/> skill 1, <Specialization name="firebrand"/>)
-    * <Skill id="44455" inline=true/> (<Skill id="42259" inline=true/> skill 5, <Specialization name="firebrand"/>)
-* <Skill id="30029" inline=true/> (F3, <Specialization name="dragonhunter"/>)
+    * <Skill id="9118"/> and <Skill id="42259"/> (<Specialization name="firebrand"/>) (periodically)
+    * <Skill id="9084"/>
+    * <Skill id="41475"/> (<Specialization name="firebrand"/>)
+    * <Skill id="42986"/> (<Skill id="42259"/> skill 1, <Specialization name="firebrand"/>)
+    * <Skill id="44455"/> (<Skill id="42259"/> skill 5, <Specialization name="firebrand"/>)
+* <Skill id="30029"/> (F3, <Specialization name="dragonhunter"/>)
 
 ## Elementalist
-* <Skill id="5641" inline=true/>
-* <Skill id="5554" inline=true/> and <Skill id="5564" inline=true/> (Downed state)
-* <Skill id="5521" inline=true/> (Focus 5, <Skill id="5495" inline=true/>
+* <Skill id="5641"/>
+* <Skill id="5554"/> and <Skill id="5564"/> (Downed state)
+* <Skill id="5521"/> (Focus 5, <Skill id="5495"/>
 
 ## Thief
-* <Skill id="30661" inline=true/> (<Specialization name="daredevil"/>)
-* <Skill id="30597" inline=true/> (Staff 5, <Specialization name="daredevil"/>)
+* <Skill id="30661"/> (<Specialization name="daredevil"/>)
+* <Skill id="30597"/> (Staff 5, <Specialization name="daredevil"/>)
