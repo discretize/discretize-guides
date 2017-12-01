@@ -40,7 +40,8 @@ If you are really desparate, you can download a [GW2 TacO](http://gw2taco.blogsp
 
 ---
 
-## The Mossman You can break his defiance bar while he is in <Effect name="stealth"/> to force a reveal, just do not waste all your cooldowns on him. If you need a <Command name="gg"/> to reset them, do it either before taking the Wisp at Bloomhunger or after activating him or you will bug the entire fractal and have to restart.
+## The Mossman
+You can break his defiance bar while he is in <Effect name="stealth"/> to force a reveal, just do not waste all your cooldowns on him. If you need a <Command name="gg"/> to reset them, do it either before taking the Wisp at Bloomhunger or after activating him or you will bug the entire fractal and have to restart.
 
 ---
 
