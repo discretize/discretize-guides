@@ -1,6 +1,6 @@
-[
-  {
-    "name": "Challenge Mode Fractals",
+{
+  "challenge-mode": {
+    "header": "Challenge Mode Fractals",
     "itemsPerRow": 2,
     "items": {
       "nightmare": {
@@ -21,8 +21,8 @@
       }
     }
   },
-  {
-    "name": "T4 Fractals",
+  "t4": {
+    "header": "T4 Fractals",
     "itemsPerRow": 4,
     "items": {
       "aquatic-ruins": {
@@ -144,4 +144,4 @@
       }
     }
   }
-]
+}
