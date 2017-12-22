@@ -1,6 +1,6 @@
-[
-  {
-    "name": "Mechanics Guide",
+{
+  "advanced": {
+    "header": "Advanced Mechanics",
     "itemsPerRow": 2,
     "items": {
       "fractal-basics": {
@@ -21,4 +21,4 @@
       }
     }
   }
-]
+}
