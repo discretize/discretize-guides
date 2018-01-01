@@ -5,11 +5,40 @@
     "items": {
       "power-weaver": {
         "header": "Power Weaver",
-        "meta": "DPS"
+        "meta": "Damage",
+        "profession": "elementalist",
+        "dps": {
+          "large": {
+            "value": 45715,
+            "person": "Derpy Moa [SC]"
+          },
+          "small": {
+            "value": 37169,
+            "person": "Derpy Moa [SC]"
+          }
+        }
       },
       "condition-berserker": {
         "header": "Condition Berserker",
-        "meta": "DPS"
+        "meta": "Damage",
+        "profession": "warrior",
+        "dps": {
+          "small": {
+            "value": 30700,
+            "person": "Goku [SC]"
+          }
+        }
+      },
+      "power-chronomancer": {
+        "header": "Power Chronomancer",
+        "meta": "Support",
+        "profession": "mesmer",
+        "dps": {
+          "small": {
+            "value": 14216,
+            "person": "muiem [SC]"
+          }
+        }
       }
     }
   }
