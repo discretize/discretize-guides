@@ -1,1 +1,16 @@
-{}
+{
+  "meta": {
+    "header": "Meta Builds",
+    "itemsPerRow": 5,
+    "items": {
+      "power-weaver": {
+        "header": "Power Weaver",
+        "meta": "DPS"
+      },
+      "condition-berserker": {
+        "header": "Condition Berserker",
+        "meta": "DPS"
+      }
+    }
+  }
+}
