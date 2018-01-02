@@ -1,24 +1,30 @@
-{
-  "advanced": {
+[
+  {
+    "id": "advanced-mechanics",
     "header": "Advanced Mechanics",
+    "description": "Advanced mechanics game guide",
     "itemsPerRow": 2,
-    "items": {
-      "fractal-basics": {
+    "items": [
+      {
+        "id": "fractal-basics",
         "header": "Fractal Basics",
         "description": "Learn the meta team composition, usage of /gg and about Mistlock Instabilities"
       },
-      "consumables": {
+      {
+        "id": "consumables",
         "header": "Consumables",
         "description": ""
       },
-      "damage-mitigation": {
+      {
+        "id": "damage-mitigation",
         "header": "Damage Mitigation",
         "description": ""
       },
-      "blast-stacking": {
+      {
+        "id": "blast-stacking",
         "header": "Blast Stacking",
         "description": ""
       }
-    }
+    ]
   }
-}
+]

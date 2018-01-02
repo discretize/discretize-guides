@@ -1,9 +1,11 @@
-{
-  "challenge-mode": {
+[
+  {
+    "id": "challenge-mode-fractals",
     "header": "Challenge Mode Fractals",
     "itemsPerRow": 2,
-    "items": {
-      "nightmare": {
+    "items": [
+      {
+        "id": "nightmare",
         "header": "Nightmare",
         "meta": "99CM",
         "record": {
@@ -11,7 +13,8 @@
           "by": "Snow Crows [SC]"
         }
       },
-      "shattered-observatory": {
+      {
+        "id": "shattered-observatory",
         "header": "Shattered Observatory",
         "meta": "100CM",
         "record": {
@@ -19,13 +22,15 @@
           "by": "Snow Crows [SC]"
         }
       }
-    }
+    ]
   },
-  "t4": {
+  {
+    "id": "t4-fractals",
     "header": "T4 Fractals",
     "itemsPerRow": 4,
-    "items": {
-      "aquatic-ruins": {
+    "items": [
+      {
+        "id": "aquatic-ruins",
         "image": "fractals/images/aquatic-ruins.jpg",
         "header": "Aquatic Ruins",
         "meta": "76",
@@ -34,7 +39,8 @@
           "by": "Happens [hP]"
         }
       },
-      "swampland": {
+      {
+        "id": "swampland",
         "header": "Swampland",
         "meta": "77, 89",
         "record": {
@@ -42,7 +48,8 @@
           "by": "Quantify [qT]"
         }
       },
-      "urban-battlegrounds": {
+      {
+        "id": "urban-battlegrounds",
         "image": "fractals/images/urban-battlegrounds.jpg",
         "header": "Urban Battlegrounds",
         "meta": "78, 85",
@@ -51,7 +58,8 @@
           "by": "Happens [hP]"
         }
       },
-      "uncategorized": {
+      {
+        "id": "uncategorized",
         "image": "fractals/images/uncategorized.jpg",
         "header": "Uncategorized",
         "meta": "79, 91",
@@ -60,11 +68,13 @@
           "by": "Happens [hP]"
         }
       },
-      "solid-ocean": {
+      {
+        "id": "solid-ocean",
         "header": "Solid Ocean",
         "meta": "80"
       },
-      "underground-facility": {
+      {
+        "id": "underground-facility",
         "header": "Underground Facility",
         "meta": "81",
         "record": {
@@ -72,7 +82,8 @@
           "by": "Happens [hP]"
         }
       },
-      "cliffside": {
+      {
+        "id": "cliffside",
         "image": "fractals/images/cliffside.jpg",
         "header": "Cliffside",
         "meta": "82, 94",
@@ -81,11 +92,13 @@
           "by": "Happens [hP]"
         }
       },
-      "molten-furnace": {
+      {
+        "id": "molten-furnace",
         "header": "Molten Furnace",
         "meta": "83"
       },
-      "thaumanova-reactor": {
+      {
+        "id": "thaumanova-reactor",
         "image": "fractals/images/thaumanova-reactor.jpg",
         "header": "Thaumanova Reactor",
         "meta": "84, 97",
@@ -94,7 +107,8 @@
           "by": "Happens [hP]"
         }
       },
-      "snowblind": {
+      {
+        "id": "snowblind",
         "image": "fractals/images/snowblind.jpg",
         "header": "Snowblind",
         "meta": "86, 93",
@@ -103,11 +117,13 @@
           "by": "Snow Crows [SC]"
         }
       },
-      "twilight-oasis": {
+      {
+        "id": "twilight-oasis",
         "header": "Twilight Oasis",
         "meta": "87"
       },
-      "chaos-isles": {
+      {
+        "id": "chaos-isles",
         "image": "fractals/images/chaos-isles.jpg",
         "header": "Chaos Isles",
         "meta": "88, 98",
@@ -116,11 +132,13 @@
           "by": "Quantify [qT]"
         }
       },
-      "molten-boss": {
+      {
+        "id": "molten-boss",
         "header": "Molten Boss",
         "meta": "90"
       },
-      "volcanic": {
+      {
+        "id": "volcanic",
         "header": "Volcanic",
         "meta": "92",
         "record": {
@@ -128,12 +146,14 @@
           "by": "Quantify [qT]"
         }
       },
-      "captain-mai-trin-boss": {
+      {
+        "id": "captain-mai-trin-boss",
         "image": "fractals/images/captain-mai-trin-boss.jpg",
         "header": "Captain Mai Trin Boss",
         "meta": "95"
       },
-      "aetherblade": {
+      {
+        "id": "aetherblade",
         "image": "fractals/images/aetherblade.jpg",
         "header": "Aetherblade",
         "meta": "96",
@@ -142,6 +162,6 @@
           "by": "Quantify [qT]"
         }
       }
-    }
+    ]
   }
-}
+]

@@ -1,1 +1,0 @@
-**This** *is* a markdown description for advanced category
