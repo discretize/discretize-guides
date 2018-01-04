@@ -1,23 +1,3 @@
-# Cliffside Fractal
-<Grid>
-<Column>
-    ### Current Record *4:29 by Happens [hP]*
-    <Youtube id="05wgY9N_pdc"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Day |
-    | **Potions** | <Item id="8881"/> |
-    | **Sigils** | <Item id="24615"/> and <Item id="24678"/> |
-    | **Consumables** | <Item id="78978"/> |
-    | **Instabilities** | **82:** <Instability name="Afflicted"/>, <Instability name="Mists Convergence"/>, <Instability name="Social Awkwardness"/><br/>**94:** <Instability name="Adrenaline Rush"/>, <Instability name="Flux Bomb"/>, <Instability name="Social Awkwardness"/> |
-</Column>
-</Grid>
-
----
-
 ## Disclaimer
 You will need an experienced Mesmer for this fractal or take double the time. The Mesmer should run <Skill id="10200"/>, <Skill id="29578"/>, <Skill id="10197"/>, <Skill id="10377"/> and <Trait id="752"/> until the end fight.
 

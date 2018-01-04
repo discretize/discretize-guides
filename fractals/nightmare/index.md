@@ -1,23 +1,3 @@
-# Nightmare Fractal
-<Grid>
-<Column>
-    ### Current Record *8:36 by Snow Crows [SC]*
-    <Youtube id="WS3chFLSyiM"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Day |
-    | **Potions** | <Item id="50082"/> |
-    | **Sigils** | <Item id="24615"/> and <Item id="24868"/>, <Item id="24658"/> after MAMA |
-    | **Consumables** | <Item id="78978"/>, <Item id="8764"/>, <Item id="8801"/> |
-    | **Instabilities** | <Instability name="No Pain, No Gain"/>, <Instability name="Social Awkwardness"/>, <Instability name="Adrenaline Rush"/> |
-</Column>
-</Grid>
-
----
-
 ## Assault Knights
 Stack <Boon name="might"/> before jumping down. Kill the three *Assault Knights* (Red, Blue and Green), each of them has the same set of abilities: a PBAoE knockdown and an AoE pull which covers the entire room except the knight's position.
 

@@ -1,23 +1,3 @@
-# Aquatic Ruins Fractal
-<Grid>
-<Column>
-    ### Current Record *3:10 by Happens [hP]*
-    <Youtube id="cRKap-6_W48"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Day |
-    | **Potions** | <Item id="8891"/> or <Item id="50082"/> (only for the Krait at the beginning) |
-    | **Sigils** | <Item id="24658"/> for the Krait at the beginning, otherwise <Item id="24868"/> and <Item id="24615"/> |
-    | **Consumables** | <Item id="78978"/> |
-    | **Instabilities** | <Instability name="Afflicted"/> |
-</Column>
-</Grid>
-
----
-
 ## Save the villagers
 <Grid>
 <Column>
@@ -28,7 +8,7 @@
 </Column>
 
 <Column width=3>
-    <Image src="fractals/aquatic-ruins-1.jpg" floated="right"/>
+    <Image src="fractals/aquatic-ruins/villagers.jpg" floated="right"/>
 </Column>
 </Grid>
 

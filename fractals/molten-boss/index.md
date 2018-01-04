@@ -1,22 +1,3 @@
-# Molten Boss Fractal
-<Grid>
-<Column>
-    ### Current Record *None*
-    <Youtube id=""/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Day |
-    | **Potions** | <Item id="50082"/> |
-    | **Sigils** | <Item id="24615"/> and <Item id="24868"/> |
-    | **Consumables** | None |
-    | **Instabilities** | <Instability name="Adrenaline Rush"/>, <Instability name="Afflicted"/>, <Instability name="Mists Convergence"/> |
-</Column>
-</Grid>
-
----
 ## Molten Effigy
 Due to good game design, this boss is immune to <Condition name="burning"/> (*clap*) which renders most condition-based classes useless (like Condition Berserker or Condition Firebrand). Use interrupts or reflects against the *Firestorm* attack and kill the spawning group of mobs afterwards.
 

@@ -1,23 +1,3 @@
-# Shattered Observatory Fractal
-<Grid>
-<Column>
-    ### Current Record *9:45 by Snow Crows [SC]*
-    <Youtube id="cRKap-6_W48"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Day |
-    | **Potions** | <Item id="50082"/> (only for Arkk) |
-    | **Sigils** | <Item id="24615"/> and <Item id="24868"/> |
-    | **Consumables** | <Item id="78978"/>, <Item id="8759"/>, <Item id="8678"/>, <Item id="8732"/> |
-    | **Instabilities** | <Instability name="No Pain, No Gain"/>, <Instability name="Social Awkwardness"/>, <Instability name="Adrenaline Rush"/> |
-</Column>
-</Grid>
-
----
-
 ## Skorvald the Shattered
 Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the *Mistlock Singularity* after accepting the Harbringer's challenge, stack <Boon name="might"/> on the platform below and start the encounter by activating the orb in the center of the platform.
 

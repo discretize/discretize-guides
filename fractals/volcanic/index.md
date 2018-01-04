@@ -1,23 +1,3 @@
-# Volcanic Fractal
-<Grid>
-<Column>
-    ### Current Record *3:10 by Happens [hP]*
-    <Youtube id="cRKap-6_W48"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Night |
-    | **Potions** | <Item id="8890"/> and <Item id="8886"/> for the Imbued Shaman endboss |
-    | **Sigils** | <Item id="36053"/> and <Item id="24648"/> or <Item id="24664"/> for the Imbued Shaman endboss |
-    | **Consumables** | <Item id="78978"/>, <Item id="49940"/> |
-    | **Instabilities** | <Instability name="Mists Convergence"/>, <Instability name="Toxic Trail"/>, <Instability name="Social Awkwardness"/> |
-</Column>
-</Grid>
-
----
-
 ## Start
 <Grid>
 <Column>

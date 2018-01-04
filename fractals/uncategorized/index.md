@@ -1,23 +1,3 @@
-# Uncategorized Fractal
-<Grid>
-<Column>
-    ### Current Record *3:16 by Happens [hP]*
-    <Youtube id="qmjxIirNai8"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Day |
-    | **Potions** | <Item id="8887"/> for Old Tom and the Raving Asura |
-    | **Sigils** | <Item id="24868"/> and <Item id="24615"/> |
-    | **Consumables** | <Item id="78978"/>, <Item id="49940"/>, <Item id="8764"/>, <Item id="8801"/> |
-    | **Instabilities** | **79:** <Instability name="Afflicted"/>, <Instability name="Mists Convergence"/>, <Instability name="Toxic Trail"/><br/>**91:** <Instability name="Adrenaline Rush"/>, <Instability name="Flux Bomb"/>, <Instability name="Social Awkwardness"/> |
-</Column>
-</Grid>
-
----
-
 <Grid>
 <Column>
 ## Start

@@ -1,23 +1,3 @@
-# Snowblind Fractal
-<Grid>
-<Column>
-    ### Current Record *3:32 by Snow Crows [SC]*
-    <Youtube id="vvW8-vlCAjI"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Night |
-    | **Potions** | <Item id="8883"/> and <Item id="8885"/> for the Elemental Source Boss |
-    | **Sigils** | <Item id="36053"/> and <Item id="24667"/> or <Item id="24661"/> for the Elemental Source Boss |
-    | **Consumables** | <Item id="78978"/>, <Item id="49940"/> |
-    | **Instabilities** | **86:** <Instability name="Afflicted"/>, <Instability name="Mists Convergence"/>, <Instability name="Toxic Trail"/><br/>**93:** <Instability name="Adrenaline Rush"/>, <Instability name="Flux Bomb"/>, <Instability name="Social Awkwardness"/> |
-</Column>
-</Grid>
-
----
-
 ## Ice Wall
 Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* to prevent them from extinguishing it and throw *Firewood* into it to keep it burning. After around 75 seconds, the ice wall will melt.    
 If you gain too many stacks of *Hypothermia* (one every 5 seconds), reset them at the bonfire.

@@ -8,18 +8,128 @@
         "id": "nightmare",
         "header": "Nightmare",
         "meta": "99CM",
+        "bosses": 3,
+        "difficulties": {
+          "levels": [
+            99
+          ],
+          "tiers": [
+            "CM",
+            "T4"
+          ]
+        },
         "record": {
           "time": "8:36",
-          "by": "Snow Crows [SC]"
+          "by": {
+            "name": "Snow Crows",
+            "tag": "[SC]"
+          },
+          "youtube": [
+            {
+              "id": "WS3chFLSyiM",
+              "name": "Van Gherwen",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "potions": [
+            {
+              "id": 50082
+            }
+          ],
+          "sigils": [
+            {
+              "id": 24615
+            },
+            {
+              "id": 24868
+            },
+            {
+              "id": 24658,
+              "description": "after MAMA"
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            },
+            {
+              "id": 8764
+            },
+            {
+              "id": 8801
+            }
+          ],
+          "instabilities": {
+            "99": [
+              "No Pain, No Gain",
+              "Social Awkwardness",
+              "Adrenaline Rush"
+            ]
+          }
         }
       },
       {
         "id": "shattered-observatory",
         "header": "Shattered Observatory",
         "meta": "100CM",
+        "bosses": 3,
+        "difficulties": {
+          "levels": [
+            100
+          ],
+          "tiers": [
+            "CM",
+            "T4"
+          ]
+        },
         "record": {
           "time": "9:45",
-          "by": "Snow Crows [SC]"
+          "by": {
+            "name": "Snow Crows",
+            "tag": "[SC]"
+          },
+          "youtube": [
+            {
+              "id": "cRKap-6_W48",
+              "name": "Van Gherwen",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "sigils": [
+            {
+              "id": 24615
+            },
+            {
+              "id": 24868
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            },
+            {
+              "id": 8759
+            },
+            {
+              "id": 8678
+            },
+            {
+              "id": 8732
+            }
+          ],
+          "instabilities": {
+            "100": [
+              "No Pain, No Gain",
+              "Social Awkwardness",
+              "Adrenaline Rush"
+            ]
+          }
         }
       }
     ]
@@ -34,18 +144,120 @@
         "image": "fractals/images/aquatic-ruins.jpg",
         "header": "Aquatic Ruins",
         "meta": "76",
+        "bosses": 1,
+        "difficulties": {
+          "levels": [
+            76
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
         "record": {
-          "time": "2:13",
-          "by": "Happens [hP]"
+          "time": "3:10",
+          "by": {
+            "name": "Happens",
+            "tag": "[hP]"
+          },
+          "youtube": [
+            {
+              "id": "cRKap-6_W48",
+              "name": "Van Gherwen",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "potions": [
+            {
+              "id": 8891
+            },
+            {
+              "id": 50082,
+              "description": "both only work on the Krait at the beginning"
+            }
+          ],
+          "sigils": [
+            {
+              "id": 24658,
+              "description": "only for the Krait at the beginning"
+            },
+            {
+              "id": 24868
+            },
+            {
+              "id": 24615
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            }
+          ],
+          "instabilities": {
+            "76": [
+              "Afflicted",
+              "Adrenaline Rush"
+            ]
+          }
         }
       },
       {
         "id": "swampland",
         "header": "Swampland",
         "meta": "77, 89",
+        "bosses": 1,
+        "difficulties": {
+          "levels": [
+            77,
+            89
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
         "record": {
           "time": "6:03",
-          "by": "Quantify [qT]"
+          "by": {
+            "name": "Quantify",
+            "tag": "[qT]"
+          },
+          "youtube": [
+            {
+              "id": "cRKap-6_W48",
+              "name": "Van Gherwen",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Night",
+          "sigils": [
+            {
+              "id": 36053
+            },
+            {
+              "id": 24868
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            }
+          ],
+          "instabilities": {
+            "77": [
+              "Afflicted",
+              "Adrenaline Rush",
+              "Mists Convergence"
+            ],
+            "89": [
+              "Adrenaline Rush",
+              "Flux Bomb",
+              "Social Awkwardness"
+            ]
+          }
         }
       },
       {
@@ -53,9 +265,63 @@
         "image": "fractals/images/urban-battlegrounds.jpg",
         "header": "Urban Battlegrounds",
         "meta": "78, 85",
+        "bosses": 2,
+        "difficulties": {
+          "levels": [
+            78,
+            85
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
         "record": {
           "time": "4:50",
-          "by": "Happens [hP]"
+          "by": {
+            "name": "Happens",
+            "tag": "[hP]"
+          },
+          "youtube": [
+            {
+              "id": "vBuC5qwHmTk",
+              "name": "Whoever",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "sigils": [
+            {
+              "id": 24868
+            },
+            {
+              "id": 24615
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            },
+            {
+              "id": 8764
+            },
+            {
+              "id": 8801
+            }
+          ],
+          "instabilities": {
+            "78": [
+              "Hamstrung",
+              "Flux Bomb",
+              "Social Awkwardness"
+            ],
+            "85": [
+              "Mists Convergence",
+              "Social Awkwardness",
+              "Last Laugh"
+            ]
+          }
         }
       },
       {
@@ -63,23 +329,186 @@
         "image": "fractals/images/uncategorized.jpg",
         "header": "Uncategorized",
         "meta": "79, 91",
+        "bosses": 3,
+        "difficulties": {
+          "levels": [
+            79,
+            91
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
         "record": {
           "time": "3:16",
-          "by": "Happens [hP]"
+          "by": {
+            "name": "Happens",
+            "tag": "[hP]"
+          },
+          "youtube": [
+            {
+              "id": "qmjxIirNai8",
+              "name": "Van Gherwen",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "potions": [
+            {
+              "id": 8887,
+              "description": "for Old Tom and the Raving Asura"
+            }
+          ],
+          "sigils": [
+            {
+              "id": 24868
+            },
+            {
+              "id": 24658
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            },
+            {
+              "id": 49940
+            },
+            {
+              "id": 8764
+            },
+            {
+              "id": 8801
+            }
+          ],
+          "instabilities": {
+            "79": [
+              "Afflicted",
+              "Fractal Vindicators",
+              "Mists Convergence"
+            ],
+            "91": [
+              "Afflicted",
+              "Social Awkwardness",
+              "Adrenaline Rush"
+            ]
+          }
         }
       },
       {
         "id": "solid-ocean",
         "header": "Solid Ocean",
-        "meta": "80"
+        "meta": "80",
+        "bosses": 1,
+        "difficulties": {
+          "levels": [
+            80
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "potions": [
+            {
+              "id": 8885,
+              "description": "for the Jade enemies"
+            }
+          ],
+          "sigils": [
+            {
+              "id": 24868
+            },
+            {
+              "id": 24554
+            }
+          ],
+          "instabilities": {
+            "80": [
+              "Afflicted",
+              "Hamstrung",
+              "Mists Convergence"
+            ]
+          }
+        }
       },
       {
         "id": "underground-facility",
         "header": "Underground Facility",
         "meta": "81",
+        "bosses": 2,
+        "difficulties": {
+          "levels": [
+            81
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
         "record": {
           "time": "3:52",
-          "by": "Happens [hP]"
+          "by": {
+            "name": "Happens",
+            "tag": "[hP]"
+          },
+          "youtube": [
+            {
+              "id": "OMUxEYbtnWE",
+              "name": "Van Gherwen",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Night",
+          "potions": [
+            {
+              "id": 8892,
+              "description": "for all Dredge enemies"
+            },
+            {
+              "id": 8885,
+              "description": "for the Ice ELemental endboss"
+            }
+          ],
+          "sigils": [
+            {
+              "id": 36053
+            },
+            {
+              "id": 24868
+            },
+            {
+              "id": 24684
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            },
+            {
+              "id": 49940
+            },
+            {
+              "id": 8764
+            },
+            {
+              "id": 8801
+            },
+            {
+              "id": 8686
+            }
+          ],
+          "instabilities": {
+            "81": [
+              "Afflicted",
+              "Adrenaline Rush",
+              "Mists Convergence"
+            ]
+          }
         }
       },
       {
@@ -87,24 +516,155 @@
         "image": "fractals/images/cliffside.jpg",
         "header": "Cliffside",
         "meta": "82, 94",
+        "bosses": 1,
+        "difficulties": {
+          "levels": [
+            82,
+            94
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
         "record": {
           "time": "4:29",
-          "by": "Happens [hP]"
+          "by": {
+            "name": "Happens",
+            "tag": "[hP]"
+          },
+          "youtube": [
+            {
+              "id": "05wgY9N_pdc",
+              "name": "Van Gherwen",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "potions": [
+            {
+              "id": 8881
+            }
+          ],
+          "sigils": [
+            {
+              "id": 24678
+            },
+            {
+              "id": 24615
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            }
+          ],
+          "instabilities": {
+            "82": [
+              "Social Awkwardness",
+              "Afflicted",
+              "Mists Convergence"
+            ],
+            "94": [
+              "Adrenaline Rush",
+              "Social Awkwardness",
+              "Flux Bomb"
+            ]
+          }
         }
       },
       {
         "id": "molten-furnace",
         "header": "Molten Furnace",
-        "meta": "83"
+        "meta": "83",
+        "bosses": 1,
+        "difficulties": {
+          "levels": [
+            83
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "potions": [
+            {
+              "id": 50082
+            }
+          ],
+          "sigils": [
+            {
+              "id": 24868
+            },
+            {
+              "id": 24554
+            }
+          ],
+          "instabilities": {
+            "83": [
+              "Mists Convergence",
+              "Afflicted",
+              "Toxic Trail"
+            ]
+          }
+        }
       },
       {
         "id": "thaumanova-reactor",
         "image": "fractals/images/thaumanova-reactor.jpg",
         "header": "Thaumanova Reactor",
         "meta": "84, 97",
+        "bosses": 2,
+        "difficulties": {
+          "levels": [
+            84,
+            97
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
         "record": {
           "time": "3:33",
-          "by": "Happens [hP]"
+          "by": {
+            "name": "Happens",
+            "tag": "[hP]"
+          },
+          "youtube": [
+            {
+              "id": "VB3H_A-tkF0",
+              "name": "Van Gherwen",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "sigils": [
+            {
+              "id": 24868
+            },
+            {
+              "id": 24615
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            },
+            {
+              "id": 49940
+            }
+          ],
+          "instabilities": {
+            "84": [
+              "Adrenaline Rush",
+              "Social Awkwardness",
+              "Afflicted"
+            ]
+          }
         }
       },
       {
@@ -112,54 +672,404 @@
         "image": "fractals/images/snowblind.jpg",
         "header": "Snowblind",
         "meta": "86, 93",
+        "bosses": 2,
+        "difficulties": {
+          "levels": [
+            86,
+            93
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
         "record": {
           "time": "3:32",
-          "by": "Snow Crows [SC]"
+          "by": {
+            "name": "Snow Crows",
+            "tag": "[SC]"
+          },
+          "youtube": [
+            {
+              "id": "vvW8-vlCAjI",
+              "name": "Yui",
+              "specialization": "chronomancer"
+            },
+            {
+              "id": "5rJTZVRhEqQ",
+              "name": "Derpy",
+              "specialization": "tempest"
+            },
+            {
+              "id": "WKvibVHOjsY",
+              "name": "Roul",
+              "specialization": "daredevil"
+            },
+            {
+              "id": "5OW6VHot8WQ",
+              "name": "Cheezy",
+              "specialization": "druid"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Night",
+          "potions": [
+            {
+              "id": 8883
+            },
+            {
+              "id": 8885,
+              "description": "for the Elemental Source boss"
+            }
+          ],
+          "sigils": [
+            {
+              "id": 36053
+            },
+            {
+              "id": 24667
+            },
+            {
+              "id": 24661
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            },
+            {
+              "id": 49940
+            }
+          ],
+          "instabilities": {
+            "86": [
+              "Afflicted",
+              "Mists Convergence",
+              "Toxic Trail"
+            ],
+            "93": [
+              "Fractal Vindicators",
+              "Flux Bomb",
+              "Adrenaline Rush"
+            ]
+          }
         }
       },
       {
         "id": "twilight-oasis",
         "header": "Twilight Oasis",
-        "meta": "87"
+        "meta": "87",
+        "bosses": 3,
+        "difficulties": {
+          "levels": [
+            87
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
+        "details": {
+          "cycle": "Night",
+          "sigils": [
+            {
+              "id": 36053
+            },
+            {
+              "id": 24868
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            },
+            {
+              "id": 8764
+            },
+            {
+              "id": 8801
+            }
+          ],
+          "instabilities": {
+            "87": [
+              "Fractal Vindicators",
+              "Hamstrung",
+              "Adrenaline Rush"
+            ]
+          }
+        }
       },
       {
         "id": "chaos-isles",
         "image": "fractals/images/chaos-isles.jpg",
         "header": "Chaos Isles",
         "meta": "88, 98",
+        "bosses": 2,
+        "difficulties": {
+          "levels": [
+            88,
+            98
+          ],
+          "tiers": [
+            "CM"
+          ]
+        },
         "record": {
           "time": "5:11",
-          "by": "Quantify [qT]"
+          "by": {
+            "name": "Quantify",
+            "tag": "[qT]"
+          },
+          "youtube": [
+            {
+              "id": "MV2Byim0PWU",
+              "name": "Van Gherwen",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "sigils": [
+            {
+              "id": 24554
+            },
+            {
+              "id": 24615
+            },
+            {
+              "id": 24868
+            }
+          ],
+          "consumables": [
+            {
+              "id": 49940
+            }
+          ],
+          "instabilities": {
+            "88": [
+              "Afflicted",
+              "Mists Convergence",
+              "Toxic Trail"
+            ],
+            "98": [
+              "Mists Convergence",
+              "Fractal Vindicators",
+              "Adrenaline Rush"
+            ]
+          }
         }
       },
       {
         "id": "molten-boss",
         "header": "Molten Boss",
-        "meta": "90"
+        "meta": "90",
+        "bosses": 2,
+        "difficulties": {
+          "levels": [
+            90
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "potions": [
+            {
+              "id": 50082
+            }
+          ],
+          "sigils": [
+            {
+              "id": 24615
+            },
+            {
+              "id": 24868
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            },
+            {
+              "id": 49940
+            },
+            {
+              "id": 8764
+            },
+            {
+              "id": 8801
+            }
+          ],
+          "instabilities": {
+            "90": [
+              "Adrenaline Rush",
+              "Mists Convergence",
+              "Afflicted"
+            ]
+          }
+        }
       },
       {
         "id": "volcanic",
         "header": "Volcanic",
         "meta": "92",
+        "bosses": 2,
+        "difficulties": {
+          "levels": [
+            92
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
         "record": {
-          "time": "3:48",
-          "by": "Quantify [qT]"
+          "time": "3:10",
+          "by": {
+            "name": "Snow Crows",
+            "tag": "[SC]"
+          },
+          "youtube": [
+            {
+              "id": "cRKap-6_W48",
+              "name": "Van Gherwen",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Night",
+          "potions": [
+            {
+              "id": 8890
+            },
+            {
+              "id": 8886,
+              "description": "for the Imbued Shaman endboss"
+            }
+          ],
+          "sigils": [
+            {
+              "id": 36053
+            },
+            {
+              "id": 24648
+            },
+            {
+              "id": 24664,
+              "description": "for the Imbued Shaman endboss"
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
+            },
+            {
+              "id": 49940
+            }
+          ],
+          "instabilities": {
+            "92": [
+              "Mists Convergence",
+              "Social Awkwardness",
+              "Fractal Vindicators"
+            ]
+          }
         }
       },
       {
         "id": "captain-mai-trin-boss",
         "image": "fractals/images/captain-mai-trin-boss.jpg",
         "header": "Captain Mai Trin Boss",
-        "meta": "95"
+        "meta": "95",
+        "bosses": 1,
+        "difficulties": {
+          "levels": [
+            95
+          ],
+          "tiers": [
+            "CM",
+            "T4"
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "potions": [
+            {
+              "id": 50082
+            }
+          ],
+          "sigils": [
+            {
+              "id": 24615
+            },
+            {
+              "id": 24868
+            }
+          ],
+          "instabilities": {
+            "95": [
+              "Afflicted",
+              "Social Awkwardness",
+              "Adrenaline Rush"
+            ]
+          }
+        }
       },
       {
         "id": "aetherblade",
         "image": "fractals/images/aetherblade.jpg",
         "header": "Aetherblade",
         "meta": "96",
+        "bosses": 1,
+        "difficulties": {
+          "levels": [
+            96
+          ],
+          "tiers": [
+            "T4"
+          ]
+        },
         "record": {
           "time": "3:10",
-          "by": "Quantify [qT]"
+          "by": {
+            "name": "Happens",
+            "tag": "[hP]"
+          },
+          "youtube": [
+            {
+              "id": "VkfhMuvB4a0",
+              "name": "Van Gherwen",
+              "specialization": "chronomancer"
+            }
+          ]
+        },
+        "details": {
+          "cycle": "Day",
+          "potions": [
+            {
+              "id": 50082
+            },
+            {
+              "id": 8887,
+              "description": "against the golems in the final room"
+            }
+          ],
+          "sigils": [
+            {
+              "id": 24615
+            },
+            {
+              "id": 24868
+            }
+          ],
+          "instabilities": {
+            "96": [
+              "Mists Convergence",
+              "Adrenaline Rush",
+              "Hamstrung"
+            ]
+          }
         }
       }
     ]

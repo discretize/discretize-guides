@@ -1,23 +1,3 @@
-# Captain Mai Trin Boss Fractal
-<Grid>
-<Column>
-    ### Current Record *None*
-    <Youtube id=""/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Day |
-    | **Potions** | <Item id="50082"/> |
-    | **Sigils** | <Item id="24615"/> and <Item id="24868"/> |
-    | **Consumables** | None |
-    | **Instabilities** | <Instability name="Flux Bomb"/>, <Instability name="Last Laugh"/>, <Instability name="Social Awkwardness"/> |
-</Column>
-</Grid>
-
----
-
 ## Start
 Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="daze"/> with his stunning shield, use <Boon name="stability"/>, Blocks or invulnerables against it.
 
