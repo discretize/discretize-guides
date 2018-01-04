@@ -1,23 +1,3 @@
-# Thaumanova Reactor Fractal
-<Grid>
-<Column>
-    ### Current Record *3:33 by Happens [hP]*
-    <Youtube id="VB3H_A-tkF0"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Day |
-    | **Potions** | None |
-    | **Sigils** | <Item id="24868"/> and <Item id="24615"/> |
-    | **Consumables** | <Item id="78978"/>, <Item id="49940"/> |
-    | **Instabilities** | **84:** <Instability name="Afflicted"/>, <Instability name="Flux Bomb"/>, <Instability name="Toxic Trail"/><br/>**97:** <Instability name="Adrenaline Rush"/>, <Instability name="Mists Convergence"/>, <Instability name="Social Awkwardness"/> |
-</Column>
-</Grid>
-
----
-
 ## Start
 <Grid>
 <Column>

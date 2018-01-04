@@ -1,23 +1,3 @@
-# Swampland Fractal
-<Grid>
-<Column>
-    ### Current Record *6:03 by Quantify [qT]*
-    <Youtube id="cRKap-6_W48"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Night |
-    | **Potions** | None |
-    | **Sigils** | <Item id="36053"/> and <Item id="24868"/> and <Item id="24615"/> |
-    | **Consumables** | <Item id="78978"/> |
-    | **Instabilities** |**77:** <Instability name="Adrenaline Rush"/>, <Instability name="Afflicted"/>, <Instability name="Mists Convergence"/><br/>**89:** <Instability name="Adrenaline Rush"/>, <Instability name="Flux Bomb"/>, <Instability name="Social Awkwardness"/> |
-</Column>
-</Grid>
-
----
-
 ## Running the wisps
 <Grid>
 <Column>

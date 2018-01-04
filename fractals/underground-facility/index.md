@@ -1,23 +1,3 @@
-# Underground Facility Fractal
-<Grid>
-<Column>
-    ### Current Record *3:52 by Happens [hP]*
-    <Youtube id="OMUxEYbtnWE"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Night |
-    | **Potions** | <Item id="8892"/> for all Dredge mobs & the Dredge endboss, <Item id="8885"/> for the Ice Elemental endboss |
-    | **Sigils** | <Item id="36053"/> and <Item id="24684"/> or <Item id="24661"/> for the Ice Elemental endboss |
-    | **Consumables** | <Item id="78978"/>, <Item id="49940"/>, <Item id="8764"/>, <Item id="8801"/>, <Item id="8686"/> |
-    | **Instabilities** | <Instability name="Afflicted"/>, <Instability name="Mists Convergence"/>, <Instability name="Adrenaline Rush"/> |
-</Column>
-</Grid>
-
----
-
 ## Locked Gates
 <Grid>
 <Column>

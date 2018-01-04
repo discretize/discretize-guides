@@ -1,23 +1,3 @@
-# Aetherblade Fractal
-<Grid>
-<Column>
-    ### Current Record *3:10 by Happens [hP]*
-    <Youtube id="VkfhMuvB4a0"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Day |
-    | **Potions** | <Item id="50082"/> and <Item id="8887"/> for the golems in the final room |
-    | **Sigils** | <Item id="24615"/> and <Item id="24868"/> |
-    | **Consumables** | None |
-    | **Instabilities** | <Instability name="Adrenaline Rush"/>, <Instability name="Mists Convergence"/>, <Instability name="Social Awkwardness"/> |
-</Column>
-</Grid>
-
----
-
 ## Start (Water tunnel)
 <Grid>
 <Column>

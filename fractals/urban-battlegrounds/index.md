@@ -1,23 +1,3 @@
-# Urban Battlegrounds Fractal
-<Grid>
-<Column>
-    ### Current Record *4:50 by Happens [hP]*
-    <Youtube id="vBuC5qwHmTk"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Day |
-    | **Potions** | None |
-    | **Sigils** | <Item id="24868"/> and <Item id="24868"/> and <Item id="24615"/> |
-    | **Consumables** | <Item id="49940"/>, <Item id="8764"/>, <Item id="8801"/> |
-    | **Instabilities** |**78:** <Instability name="Afflicted"/>, <Instability name="Flux Bomb"/>, <Instability name="Social Awkwardness"/><br/>**85:** <Instability name="Mists Convergence"/>, <Instability name="Social Awkwardness"/>, <Instability name="Toxic Trail"/> |
-</Column>
-</Grid>
-
----
-
 ## Siegemaster Dulfy
 Stack <Effect name="stealth"/> in the tent and run towards Dulfy. Focus the *Burning Oil* above her before walking below, control and cleave the trash mobs and utilize reflects and blocks while nuking her down. Destroy the gate after finishing her and gather on the other side of the wall.
 

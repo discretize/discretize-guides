@@ -1,23 +1,3 @@
-# Chaos Isles Fractal
-<Grid>
-<Column>
-    ### Current Record *5:11 by Quantify [qT]*
-    <Youtube id="MV2Byim0PWU"/>
-</Column>
-  
-<Column>    
-    | | |
-    | --- | --- |
-    | **Cycle** | Day |
-    | **Potions** | None |
-    | **Sigils** | <Item id="24554"/> and <Item id="24615"/>, <Item id="24868"/> for the endboss |
-    | **Consumables** | <Item id="49940"/> |
-    | **Instabilities** | **88:** <Instability name="Afflicted"/>, <Instability name="Mists Convergence"/>, <Instability name="Toxic Trail"/><br/>**99:** <Instability name="Mists Convergence"/>, <Instability name="Social Awkwardness"/>, [TODO] |
-</Column>
-</Grid>
-
----
-
 ## Start
 Kill the four *Veteran Chanters* at the beginning to open the gate. The fastest person can rush ahead and move to the next checkpoint at the *Chaos Anomaly*, everyone else can <Command name="gg"/> and resurrect at the checkpoint there.
 
