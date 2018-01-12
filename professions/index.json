@@ -5,6 +5,45 @@
     "itemsPerRow": 5,
     "items": [
       {
+        "id": "power-chronomancer",
+        "header": "Power Chronomancer",
+        "meta": "Support",
+        "category": "mesmer",
+        "specialization": "chronomancer",
+        "benchmark": {
+          "small": {
+            "dps": 14216,
+            "by": "muiem [SC]"
+          }
+        }
+      },
+      {
+        "id": "power-spellbreaker",
+        "header": "Power Spellbreaker",
+        "meta": "Support",
+        "category": "warrior",
+        "specialization": "spellbreaker",
+        "benchmark": {
+          "small": {
+            "dps": 30700,
+            "by": "Goku [SC]"
+          }
+        }
+      },
+      {
+        "id": "condition-berserker",
+        "header": "Condition Berserker",
+        "meta": "Support",
+        "category": "warrior",
+        "specialization": "berserker",
+        "benchmark": {
+          "small": {
+            "dps": 30700,
+            "by": "Goku [SC]"
+          }
+        }
+      },
+      {
         "id": "power-weaver",
         "header": "Power Weaver",
         "meta": "Damage",
@@ -22,11 +61,61 @@
         }
       },
       {
-        "id": "Condition Berserker",
-        "header": "Condition Berserker",
+        "id": "boon-druid",
+        "header": "Boon Druid",
+        "meta": "Support",
+        "category": "ranger",
+        "specialization": "druid",
+        "benchmark": {
+          "small": {
+            "dps": 30700,
+            "by": "Goku [SC]"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "great-builds",
+    "header": "Great Builds",
+    "itemsPerRow": 4,
+    "items": [
+      {
+        "id": "condition-druid",
+        "header": "Condition Druid",
+        "meta": "Support",
+        "category": "ranger",
+        "specialization": "druid",
+        "benchmark": {
+          "small": {
+            "dps": 14216,
+            "by": "muiem [SC]"
+          }
+        }
+      },
+      {
+        "id": "power-holosmith",
+        "header": "Power Holosmith",
         "meta": "Damage",
-        "category": "warrior",
-        "specialization": "berserker",
+        "category": "engineer",
+        "specialization": "holosmith",
+        "benchmark": {
+          "large": {
+            "dps": 45715,
+            "by": "Derpy Moa [SC]"
+          },
+          "small": {
+            "dps": 37169,
+            "by": "Derpy Moa [SC]"
+          }
+        }
+      },
+      {
+        "id": "power-dragonhunter",
+        "header": "Power Dragonhunter",
+        "meta": "Damage",
+        "category": "guardian",
+        "specialization": "dragonhunter",
         "benchmark": {
           "small": {
             "dps": 30700,
@@ -35,15 +124,67 @@
         }
       },
       {
-        "id": "power-chronomancer",
-        "header": "Power Chronomancer",
-        "meta": "Support",
-        "category": "mesmer",
-        "specialization": "chronomancer",
+        "id": "condition-soulbeast",
+        "header": "Condition Soulbeast",
+        "meta": "Damage",
+        "category": "ranger",
+        "specialization": "soulbeast",
         "benchmark": {
           "small": {
-            "dps": 14216,
-            "by": "muiem [SC]"
+            "dps": 30700,
+            "by": "Goku [SC]"
+          }
+        }
+      },
+      {
+        "id": "condition-firebrand",
+        "header": "Condition Firebrand",
+        "meta": "Damage",
+        "category": "guardian",
+        "specialization": "firebrand",
+        "benchmark": {
+          "small": {
+            "dps": 30700,
+            "by": "Goku [SC]"
+          }
+        }
+      },
+      {
+        "id": "condition-renegade",
+        "header": "Condition Renegade",
+        "meta": "Damage",
+        "category": "revenant",
+        "specialization": "renegade",
+        "benchmark": {
+          "small": {
+            "dps": 30700,
+            "by": "Goku [SC]"
+          }
+        }
+      },
+      {
+        "id": "condition-mirage",
+        "header": "Condition Mirage",
+        "meta": "Damage",
+        "category": "mesmer",
+        "specialization": "mirage",
+        "benchmark": {
+          "small": {
+            "dps": 30700,
+            "by": "Goku [SC]"
+          }
+        }
+      },
+      {
+        "id": "power-daredevil",
+        "header": "Power Daredevil",
+        "meta": "Damage",
+        "category": "thief",
+        "specialization": "daredevil",
+        "benchmark": {
+          "small": {
+            "dps": 30700,
+            "by": "Goku [SC]"
           }
         }
       }
