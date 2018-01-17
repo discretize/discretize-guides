@@ -162,8 +162,23 @@
           "youtube": [
             {
               "id": "cRKap-6_W48",
-              "name": "Van Gherwen",
+              "name": "Guts",
               "specialization": "chronomancer"
+            },
+            {
+              "id": "5rJTZVRhEqQ",
+              "name": "Derpy",
+              "specialization": "tempest"
+            },
+            {
+              "id": "WKvibVHOjsY",
+              "name": "Roul",
+              "specialization": "daredevil"
+            },
+            {
+              "id": "5OW6VHot8WQ",
+              "name": "Cheezy",
+              "specialization": "druid"
             }
           ]
         },
