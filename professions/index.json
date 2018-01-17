@@ -25,8 +25,9 @@
         "specialization": "spellbreaker",
         "benchmark": {
           "small": {
-            "dps": 30700,
-            "by": "Goku [SC]"
+            "dps": 23181,
+            "by": "Moorbazan [qT]",
+            "youtube": "gmbkqGjnMTc"
           }
         }
       },
@@ -52,11 +53,11 @@
         "benchmark": {
           "large": {
             "dps": 45715,
-            "by": "Derpy Moa [SC]"
+            "by": "Derpy [SC]"
           },
           "small": {
             "dps": 37169,
-            "by": "Derpy Moa [SC]"
+            "by": "Derpy [SC]"
           }
         }
       },
@@ -65,13 +66,7 @@
         "header": "Boon Druid",
         "meta": "Support",
         "category": "ranger",
-        "specialization": "druid",
-        "benchmark": {
-          "small": {
-            "dps": 30700,
-            "by": "Goku [SC]"
-          }
-        }
+        "specialization": "druid"
       }
     ]
   },
@@ -88,8 +83,9 @@
         "specialization": "druid",
         "benchmark": {
           "small": {
-            "dps": 14216,
-            "by": "muiem [SC]"
+            "dps": 18500,
+            "by": "Aeriel [SC]",
+            "youtube": "eer3LHQpPww"
           }
         }
       },
@@ -100,13 +96,10 @@
         "category": "engineer",
         "specialization": "holosmith",
         "benchmark": {
-          "large": {
-            "dps": 45715,
-            "by": "Derpy Moa [SC]"
-          },
           "small": {
-            "dps": 37169,
-            "by": "Derpy Moa [SC]"
+            "dps": 34129,
+            "by": "hint [SC]",
+            "youtube": "A0JnJ9Gsw7w"
           }
         }
       },
@@ -117,9 +110,14 @@
         "category": "guardian",
         "specialization": "dragonhunter",
         "benchmark": {
+          "large": {
+            "dps": 33850,
+            "by": "Nightmare [SC]",
+            "youtube": "4-XmkzkjDtc"
+          },
           "small": {
-            "dps": 30700,
-            "by": "Goku [SC]"
+            "dps": 31800,
+            "by": "Nightmare [SC]"
           }
         }
       },
@@ -131,8 +129,9 @@
         "specialization": "soulbeast",
         "benchmark": {
           "small": {
-            "dps": 30700,
-            "by": "Goku [SC]"
+            "dps": 34250,
+            "by": "Nightmare [SC]",
+            "youtube": "_Grwt9doSow"
           }
         }
       },
@@ -144,8 +143,9 @@
         "specialization": "firebrand",
         "benchmark": {
           "small": {
-            "dps": 30700,
-            "by": "Goku [SC]"
+            "dps": 35900,
+            "by": "Nightmare [SC]",
+            "youtube": "9dlfeeouJI8"
           }
         }
       },
@@ -156,9 +156,15 @@
         "category": "revenant",
         "specialization": "renegade",
         "benchmark": {
+          "large": {
+            "dps": 37300,
+            "by": "Nightmare [SC]",
+            "youtube": "NDl0uCRMYAk"
+          },
           "small": {
-            "dps": 30700,
-            "by": "Goku [SC]"
+            "dps": 33500,
+            "by": "Nightmare [SC]",
+            "youtube": "3tLqnBx-62M"
           }
         }
       },
@@ -170,8 +176,9 @@
         "specialization": "mirage",
         "benchmark": {
           "small": {
-            "dps": 30700,
-            "by": "Goku [SC]"
+            "dps": 35644,
+            "by": "Van Gherwen [SC]",
+            "youtube": "zyQgvgMrEno"
           }
         }
       },
@@ -183,8 +190,9 @@
         "specialization": "daredevil",
         "benchmark": {
           "small": {
-            "dps": 30700,
-            "by": "Goku [SC]"
+            "dps": 30419,
+            "by": "NeoVaris [SC]",
+            "youtube": "q5yTSEexMVY"
           }
         }
       }
