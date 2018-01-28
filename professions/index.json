@@ -15,7 +15,18 @@
             "dps": 14216,
             "by": "muiem [SC]"
           }
-        }
+        },
+        "perks": [
+          "<Boon name='quickness' text='false'/>",
+          "<Boon name='regeneration' text='false'/>",
+          "<Boon name='aegis' text='false'/>",
+          "<Effect name='alacrity' text='false'/>",
+          "<Effect name='stealth' text='false'/>",
+          "<Skill id='10302' size='24' text='false'/>",
+          "<Skill id='10197' size='24' text='false'/>",
+          "<Skill id='10236' size='24' text='false'/>",
+          "<Skill id='29519' size='24' text='false'/>"
+        ]
       },
       {
         "id": "power-spellbreaker",
