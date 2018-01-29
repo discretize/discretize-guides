@@ -1,10 +1,18 @@
 ## Ice Wall
+<Grid>
+<Column width="10">
 Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* to prevent them from extinguishing it and throw *Firewood* into it to keep it burning. After around 75 seconds, the ice wall will melt.    
 If you gain too many stacks of *Hypothermia* (one every 5 seconds), reset them at the bonfire.
+</Column>
+<Column width="6">
+    <Image src="fractals/snowblind/images/Kjiusdk.jpg" fluid/>
+</Column>
+</Grid>
 
 ---
-
+ 
 ## Elemental Source
+
 <Grid>
 <Column>
 At the start of the fight, light up the five bonfires to remove the 10 stacks of *Rime Shield* from the boss. Each stack reduces its damage taken by 10%.    
@@ -19,6 +27,8 @@ Simply do enough damage and utilize reflects before letting all bonfires expire.
 </Tips>
 </Column>
 </Grid>
+
+<Image src="fractals/snowblind/images/0lwCtjL.jpg"/>
 
 ---
 
