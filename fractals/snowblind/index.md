@@ -4,8 +4,8 @@
 Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* to prevent them from extinguishing it and throw *Firewood* into it to keep it burning. After around 75 seconds, the ice wall will melt.    
 If you gain too many stacks of *Hypothermia* (one every 5 seconds), reset them at the bonfire.
 </Column>
-<Column width="6">
-    <Image src="fractals/snowblind/images/Kjiusdk.jpg" fluid/>
+<Column width="6" compact>
+    <Image src="fractals/snowblind/images/Kjiusdk.jpg" title="The Ice Wall" compact/>
 </Column>
 </Grid>
 
@@ -28,12 +28,20 @@ Simply do enough damage and utilize reflects before letting all bonfires expire.
 </Column>
 </Grid>
 
-<Image src="fractals/snowblind/images/0lwCtjL.jpg"/>
+<Image src="fractals/snowblind/images/0lwCtjL.jpg" title="The Elemental Source"/>
 
 ---
 
 ## Forest
+
+<Grid>
+<Column width="11">
 After the Elemental Source is destroyed, everyone except the fastest player can <Command name="gg"/> and wait for the next checkpoint at the cave to trigger. Mobility skills and <Item id="49940"/> are very good here.
+</Column>
+<Column width="5" compact>
+    <Image src="fractals/snowblind/images/3P6sP2q.jpg" title="The Icy Forest" compact/>
+</Column>
+</Grid>
 
 ## Shaman Lornarr Dragonseeker
 <Grid>
@@ -49,3 +57,5 @@ Stack <Boon name="might"/> before the final boss. He gains 3 stacks of *Rime Shi
 </Tips>
 </Column>
 </Grid>
+
+<Image src="fractals/snowblind/images/9E9MaCU.jpg" title="Shaman Lornarr Dragonseekers Cozy Home"/>
