@@ -9,15 +9,21 @@
         "header": "Nightmare",
         "meta": "99CM",
         "bosses": 3,
-        "difficulties": {
-          "levels": [
-            99
-          ],
-          "tiers": [
-            "CM",
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 99,
+            "ar": 150,
+            "instabilities": [
+              "No Pain, No Gain",
+              "Social Awkwardness",
+              "Adrenaline Rush"
+            ]
+          }
+        ],
+        "tiers": [
+          "CM",
+          "T4"
+        ],
         "record": {
           "time": "8:36",
           "by": {
@@ -61,14 +67,7 @@
             {
               "id": 8801
             }
-          ],
-          "instabilities": {
-            "99": [
-              "No Pain, No Gain",
-              "Social Awkwardness",
-              "Adrenaline Rush"
-            ]
-          }
+          ]
         }
       },
       {
@@ -76,15 +75,21 @@
         "header": "Shattered Observatory",
         "meta": "100CM",
         "bosses": 3,
-        "difficulties": {
-          "levels": [
-            100
-          ],
-          "tiers": [
-            "CM",
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 100,
+            "ar": 150,
+            "instabilities": [
+              "No Pain, No Gain",
+              "Social Awkwardness",
+              "Adrenaline Rush"
+            ]
+          }
+        ],
+        "tiers": [
+          "CM",
+          "T4"
+        ],
         "record": {
           "time": "9:45",
           "by": {
@@ -122,14 +127,7 @@
             {
               "id": 8732
             }
-          ],
-          "instabilities": {
-            "100": [
-              "No Pain, No Gain",
-              "Social Awkwardness",
-              "Adrenaline Rush"
-            ]
-          }
+          ]
         }
       }
     ]
@@ -145,14 +143,19 @@
         "header": "Aquatic Ruins",
         "meta": "76",
         "bosses": 1,
-        "difficulties": {
-          "levels": [
-            76
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 76,
+            "ar": 107,
+            "instabilities": [
+              "Afflicted",
+              "Adrenaline Rush"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "record": {
           "time": "3:10",
           "by": {
@@ -209,13 +212,7 @@
             {
               "id": 78978
             }
-          ],
-          "instabilities": {
-            "76": [
-              "Afflicted",
-              "Adrenaline Rush"
-            ]
-          }
+          ]
         }
       },
       {
@@ -223,15 +220,29 @@
         "header": "Swampland",
         "meta": "77, 89",
         "bosses": 1,
-        "difficulties": {
-          "levels": [
-            77,
-            89
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 77,
+            "ar": 109,
+            "instabilities": [
+              "Afflicted",
+              "Adrenaline Rush",
+              "Mists Convergence"
+            ]
+          },
+          {
+            "level": 89,
+            "ar": 131,
+            "instabilities": [
+              "Adrenaline Rush",
+              "Flux Bomb",
+              "Social Awkwardness"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "record": {
           "time": "6:03",
           "by": {
@@ -260,19 +271,7 @@
             {
               "id": 78978
             }
-          ],
-          "instabilities": {
-            "77": [
-              "Afflicted",
-              "Adrenaline Rush",
-              "Mists Convergence"
-            ],
-            "89": [
-              "Adrenaline Rush",
-              "Flux Bomb",
-              "Social Awkwardness"
-            ]
-          }
+          ]
         }
       },
       {
@@ -281,15 +280,29 @@
         "header": "Urban Battlegrounds",
         "meta": "78, 85",
         "bosses": 2,
-        "difficulties": {
-          "levels": [
-            78,
-            85
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 78,
+            "ar": 111,
+            "instabilities": [
+              "Hamstrung",
+              "Flux Bomb",
+              "Social Awkwardness"
+            ]
+          },
+          {
+            "level": 85,
+            "ar": 123,
+            "instabilities": [
+              "Mists Convergence",
+              "Social Awkwardness",
+              "Last Laugh"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "record": {
           "time": "4:50",
           "by": {
@@ -324,19 +337,7 @@
             {
               "id": 8801
             }
-          ],
-          "instabilities": {
-            "78": [
-              "Hamstrung",
-              "Flux Bomb",
-              "Social Awkwardness"
-            ],
-            "85": [
-              "Mists Convergence",
-              "Social Awkwardness",
-              "Last Laugh"
-            ]
-          }
+          ]
         }
       },
       {
@@ -345,15 +346,29 @@
         "header": "Uncategorized",
         "meta": "79, 91",
         "bosses": 3,
-        "difficulties": {
-          "levels": [
-            79,
-            91
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 79,
+            "ar": 113,
+            "instabilities": [
+              "Afflicted",
+              "Fractal Vindicators",
+              "Mists Convergence"
+            ]
+          },
+          {
+            "level": 91,
+            "ar": 134,
+            "instabilities": [
+              "Afflicted",
+              "Social Awkwardness",
+              "Adrenaline Rush"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "record": {
           "time": "3:16",
           "by": {
@@ -397,19 +412,7 @@
             {
               "id": 8801
             }
-          ],
-          "instabilities": {
-            "79": [
-              "Afflicted",
-              "Fractal Vindicators",
-              "Mists Convergence"
-            ],
-            "91": [
-              "Afflicted",
-              "Social Awkwardness",
-              "Adrenaline Rush"
-            ]
-          }
+          ]
         }
       },
       {
@@ -417,14 +420,20 @@
         "header": "Solid Ocean",
         "meta": "80",
         "bosses": 1,
-        "difficulties": {
-          "levels": [
-            80
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 80,
+            "ar": 115,
+            "instabilities": [
+              "Afflicted",
+              "Hamstrung",
+              "Mists Convergence"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "details": {
           "cycle": "Day",
           "potions": [
@@ -440,14 +449,7 @@
             {
               "id": 24554
             }
-          ],
-          "instabilities": {
-            "80": [
-              "Afflicted",
-              "Hamstrung",
-              "Mists Convergence"
-            ]
-          }
+          ]
         }
       },
       {
@@ -455,14 +457,20 @@
         "header": "Underground Facility",
         "meta": "81",
         "bosses": 2,
-        "difficulties": {
-          "levels": [
-            81
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 81,
+            "ar": 116,
+            "instabilities": [
+              "Afflicted",
+              "Adrenaline Rush",
+              "Mists Convergence"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "record": {
           "time": "3:52",
           "by": {
@@ -516,14 +524,7 @@
             {
               "id": 8686
             }
-          ],
-          "instabilities": {
-            "81": [
-              "Afflicted",
-              "Adrenaline Rush",
-              "Mists Convergence"
-            ]
-          }
+          ]
         }
       },
       {
@@ -532,15 +533,29 @@
         "header": "Cliffside",
         "meta": "82, 94",
         "bosses": 1,
-        "difficulties": {
-          "levels": [
-            82,
-            94
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 82,
+            "ar": 118,
+            "instabilities": [
+              "Social Awkwardness",
+              "Afflicted",
+              "Mists Convergence"
+            ]
+          },
+          {
+            "level": 94,
+            "ar": 139,
+            "instabilities": [
+              "Adrenaline Rush",
+              "Social Awkwardness",
+              "Flux Bomb"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "record": {
           "time": "4:29",
           "by": {
@@ -574,19 +589,7 @@
             {
               "id": 78978
             }
-          ],
-          "instabilities": {
-            "82": [
-              "Social Awkwardness",
-              "Afflicted",
-              "Mists Convergence"
-            ],
-            "94": [
-              "Adrenaline Rush",
-              "Social Awkwardness",
-              "Flux Bomb"
-            ]
-          }
+          ]
         }
       },
       {
@@ -594,14 +597,20 @@
         "header": "Molten Furnace",
         "meta": "83",
         "bosses": 1,
-        "difficulties": {
-          "levels": [
-            83
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 83,
+            "ar": 120,
+            "instabilities": [
+              "Mists Convergence",
+              "Afflicted",
+              "Toxic Trail"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "details": {
           "cycle": "Day",
           "potions": [
@@ -616,14 +625,7 @@
             {
               "id": 24554
             }
-          ],
-          "instabilities": {
-            "83": [
-              "Mists Convergence",
-              "Afflicted",
-              "Toxic Trail"
-            ]
-          }
+          ]
         }
       },
       {
@@ -632,15 +634,29 @@
         "header": "Thaumanova Reactor",
         "meta": "84, 97",
         "bosses": 2,
-        "difficulties": {
-          "levels": [
-            84,
-            97
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 84,
+            "ar": 122,
+            "instabilities": [
+              "Adrenaline Rush",
+              "Social Awkwardness",
+              "Afflicted"
+            ]
+          },
+          {
+            "level": 97,
+            "ar": 145,
+            "instabilities": [
+              "Mists Convergence",
+              "Social Awkwardness",
+              "Adrenaline Rush"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "record": {
           "time": "3:33",
           "by": {
@@ -672,31 +688,38 @@
             {
               "id": 49940
             }
-          ],
-          "instabilities": {
-            "84": [
-              "Adrenaline Rush",
-              "Social Awkwardness",
-              "Afflicted"
-            ]
-          }
+          ]
         }
       },
       {
         "id": "snowblind",
-        "image": "fractals/images/snowblind.jpg",
+        "image": "fractals/snowblind/images/iwQRWqf.jpg",
         "header": "Snowblind",
         "meta": "86, 93",
         "bosses": 2,
-        "difficulties": {
-          "levels": [
-            86,
-            93
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 86,
+            "ar": 125,
+            "instabilities": [
+              "Afflicted",
+              "Mists Convergence",
+              "Toxic Trail"
+            ]
+          },
+          {
+            "level": 93,
+            "ar": 138,
+            "instabilities": [
+              "Fractal Vindicators",
+              "Flux Bomb",
+              "Adrenaline Rush"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "record": {
           "time": "3:32",
           "by": {
@@ -755,19 +778,7 @@
             {
               "id": 49940
             }
-          ],
-          "instabilities": {
-            "86": [
-              "Afflicted",
-              "Mists Convergence",
-              "Toxic Trail"
-            ],
-            "93": [
-              "Fractal Vindicators",
-              "Flux Bomb",
-              "Adrenaline Rush"
-            ]
-          }
+          ]
         }
       },
       {
@@ -775,14 +786,20 @@
         "header": "Twilight Oasis",
         "meta": "87",
         "bosses": 3,
-        "difficulties": {
-          "levels": [
-            87
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 87,
+            "ar": 127,
+            "instabilities": [
+              "Fractal Vindicators",
+              "Hamstrung",
+              "Adrenaline Rush"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "details": {
           "cycle": "Night",
           "sigils": [
@@ -803,14 +820,7 @@
             {
               "id": 8801
             }
-          ],
-          "instabilities": {
-            "87": [
-              "Fractal Vindicators",
-              "Hamstrung",
-              "Adrenaline Rush"
-            ]
-          }
+          ]
         }
       },
       {
@@ -819,15 +829,29 @@
         "header": "Chaos Isles",
         "meta": "88, 98",
         "bosses": 2,
-        "difficulties": {
-          "levels": [
-            88,
-            98
-          ],
-          "tiers": [
-            "CM"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 88,
+            "ar": 129,
+            "instabilities": [
+              "Afflicted",
+              "Mists Convergence",
+              "Toxic Trail"
+            ]
+          },
+          {
+            "level": 98,
+            "ar": 147,
+            "instabilities": [
+              "Mists Convergence",
+              "Fractal Vindicators",
+              "Adrenaline Rush"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "record": {
           "time": "5:11",
           "by": {
@@ -859,19 +883,7 @@
             {
               "id": 49940
             }
-          ],
-          "instabilities": {
-            "88": [
-              "Afflicted",
-              "Mists Convergence",
-              "Toxic Trail"
-            ],
-            "98": [
-              "Mists Convergence",
-              "Fractal Vindicators",
-              "Adrenaline Rush"
-            ]
-          }
+          ]
         }
       },
       {
@@ -879,14 +891,20 @@
         "header": "Molten Boss",
         "meta": "90",
         "bosses": 2,
-        "difficulties": {
-          "levels": [
-            90
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 90,
+            "ar": 132,
+            "instabilities": [
+              "Adrenaline Rush",
+              "Mists Convergence",
+              "Afflicted"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "details": {
           "cycle": "Day",
           "potions": [
@@ -915,14 +933,7 @@
             {
               "id": 8801
             }
-          ],
-          "instabilities": {
-            "90": [
-              "Adrenaline Rush",
-              "Mists Convergence",
-              "Afflicted"
-            ]
-          }
+          ]
         }
       },
       {
@@ -930,14 +941,20 @@
         "header": "Volcanic",
         "meta": "92",
         "bosses": 2,
-        "difficulties": {
-          "levels": [
-            92
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 92,
+            "ar": 136,
+            "instabilities": [
+              "Mists Convergence",
+              "Social Awkwardness",
+              "Fractal Vindicators"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "record": {
           "time": "3:10",
           "by": {
@@ -982,14 +999,7 @@
             {
               "id": 49940
             }
-          ],
-          "instabilities": {
-            "92": [
-              "Mists Convergence",
-              "Social Awkwardness",
-              "Fractal Vindicators"
-            ]
-          }
+          ]
         }
       },
       {
@@ -998,15 +1008,20 @@
         "header": "Captain Mai Trin Boss",
         "meta": "95",
         "bosses": 1,
-        "difficulties": {
-          "levels": [
-            95
-          ],
-          "tiers": [
-            "CM",
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 95,
+            "ar": 141,
+            "instabilities": [
+              "Afflicted",
+              "Social Awkwardness",
+              "Adrenaline Rush"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "details": {
           "cycle": "Day",
           "potions": [
@@ -1021,14 +1036,7 @@
             {
               "id": 24868
             }
-          ],
-          "instabilities": {
-            "95": [
-              "Afflicted",
-              "Social Awkwardness",
-              "Adrenaline Rush"
-            ]
-          }
+          ]
         }
       },
       {
@@ -1037,14 +1045,20 @@
         "header": "Aetherblade",
         "meta": "96",
         "bosses": 1,
-        "difficulties": {
-          "levels": [
-            96
-          ],
-          "tiers": [
-            "T4"
-          ]
-        },
+        "difficulties": [
+          {
+            "level": 96,
+            "ar": 143,
+            "instabilities": [
+              "Mists Convergence",
+              "Adrenaline Rush",
+              "Hamstrung"
+            ]
+          }
+        ],
+        "tiers": [
+          "T4"
+        ],
         "record": {
           "time": "3:10",
           "by": {
@@ -1077,14 +1091,7 @@
             {
               "id": 24868
             }
-          ],
-          "instabilities": {
-            "96": [
-              "Mists Convergence",
-              "Adrenaline Rush",
-              "Hamstrung"
-            ]
-          }
+          ]
         }
       }
     ]
