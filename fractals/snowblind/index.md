@@ -11,7 +11,7 @@ If you gain too many stacks of *Hypothermia* (one every 5 seconds), reset them a
 
 ---
  
-## Elemental Source
+## <Boss/> Elemental Source <Item id="8885" text="false" size="24"/><Item id="24661" text="false" size="24"/>
 
 <Grid>
 <Column>
@@ -43,7 +43,7 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 </Column>
 </Grid>
 
-## Shaman Lornarr Dragonseeker
+## <Boss red/> Shaman Lornarr Dragonseeker <Item id="8883" text="false" size="24"/><Item id="24667" text="false" size="24"/>
 <Grid>
 <Column>
 Stack <Boon name="might"/> before the final boss. He gains 3 stacks of *Rime Shield* reducing his incoming damage from the three respawning *Corrupted Ice Crystals*, destroy them before focusing the Shaman. At 75%, 50% and 25% you will need to kill a summoned *Icebrood Effigy*. Basically dodge every red circle during the fight and break the defiance bars immediately to prevent mechanics.

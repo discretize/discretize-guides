@@ -81,7 +81,7 @@
             "ar": 150,
             "instabilities": [
               "No Pain, No Gain",
-              "Social Awkwardness",
+              "Fractal Vindicators",
               "Adrenaline Rush"
             ]
           }
@@ -435,7 +435,7 @@
           "T4"
         ],
         "details": {
-          "cycle": "Day",
+          "cycle": "Night",
           "potions": [
             {
               "id": 8885,
@@ -494,7 +494,7 @@
             },
             {
               "id": 8885,
-              "description": "for the Ice ELemental endboss"
+              "description": "for the Ice Elemental endboss"
             }
           ],
           "sigils": [
@@ -1035,6 +1035,11 @@
             },
             {
               "id": 24868
+            }
+          ],
+          "consumables": [
+            {
+              "id": 78978
             }
           ]
         }
