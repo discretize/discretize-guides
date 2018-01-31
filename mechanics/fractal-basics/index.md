@@ -1,14 +1,13 @@
 # Team Composition
 
-The current "meta" group setup for fractals consists of the following classes:
+The current "meta" group setup for fractals consists of the following professions:
 
 | | |
 | --- | --- |
-| Chronomancer (1) | The Chronomancer's role consists of providing 100% <Boon name="quickness"/> uptime, good <Effect name="alacrity"/> uptime, strong utilities in terms of heavy crowd control, reflects, shared <Skill id="10192"/>, <Skill id="10197"/> skips, group <Effect name="stealth"/> and medium power DPS. It is by far the most important class in the team offering a combination of abilities like no other profession does. |
-| Berserker (1) | The Condition Berserker provides strong party buffs in the form of <Skill id="14405"/>, <Skill id="14407"/> and <Trait id="1482"/>. It is also capable of providing strong CC and deals high condition DPS. |
-| Druid (1) | The Druid significantly buffs the group's damage output with Frost Spirit, Sun Spirit, Glyph of Empowerement, 25x <Boon name="might"/>, <Boon name="fury"/> and Spotter while also providing party heals and condition cleanses. If required, it can even provide permanent <Boon name="protection"/> and Stability. |
-| Weaver (1-2) | The Weaver is the typical damage dealer. Its main purpose is to deal as much damage as possible while providing minor utilities with Vulnerability, AoE Blind, a teleport and <Boon name="might"/> pre-stacking. Due to the immense damage increase from Tempest Defense, Elementalists are very strong in fractals as defiance bars are broken much more frequently than in raids. |
-| Mirage (0-1) | The Mirage is another strong DPS option for longer fights like Arkk with access to the popular Mesmer utility skills, but doesn't do well with multiple targets. |
+| <Icon name="chronomancer"/> | The Chronomancer's role consists of providing 100% <Boon name="quickness"/> uptime, good <Effect name="alacrity"/> uptime, strong utilities in terms of heavy crowd control, reflects, shared <Boon name="aegis"/>, <Skill id="10197"/> skips, group <Effect name="stealth"/> and medium power DPS. It is by far the most important profession in the team offering a combination of abilities like no other profession does. |
+| <Icon name="warrior"/> | The Warrior is still essential to any team, providing strong party buffs in the form of <Skill id="14405"/>, <Skill id="14407"/> and <Trait id="1482"/>. It can either go for a Power <Icon name="spellbreaker"/> setup with boonstrip capabilities or a Condition <Icon name="berserker"/> build with higher DPS for longer fights. |
+| <Icon name="druid"/> | The Druid significantly buffs the group's damage output with <Skill id="12493"/>, <Skill id="12497"/>, <Skill id="31582"/>, 25x <Boon name="might"/>, <Boon name="fury"/> and <Trait id="1016"/> while also providing party heals and condition cleanses. If required, it can even provide permanent <Boon name="protection"/> and <Boon name="stability"/>. |
+| <Icon name="weaver"/> | The Weaver is the typical damage dealer. Its main purpose is to deal as much damage as possible while providing minor utilities with AoE <Condition name="blind"/>, a <Skill id="5536"/> and <Boon name="might"/> pre-stacking. Due to the immense damage increase from <Trait id="1502"/>, Elementalists are very strong in fractals as defiance bars are broken much more frequently than in raids. |
 
 The only interchangeable slots in the prevailing team composition are the two DPS slots, which may be swapped with any other profession. While condition-based team setups are perfectly viable, power setups tend to outperform them in fractals due to <Item id="24868"/> and Slaying Potions like <Item id="50082"/>. Fights are also shorter than in raids and power classes usually benefit more from the additional precision from the <Item id="79722"/>.
 
@@ -16,10 +15,10 @@ The only interchangeable slots in the prevailing team composition are the two DP
 
 # Usage of <Command name="gg"/>
 
-As of late, it is possible to use the chat command <Command name="gg"/> within fractals to immediately kill your character (dead, not downed). This can be used generously in fractal skips, as it allows the entire party to teleport to a checkpoint once one player activates it.
+You can use the chat command <Command name="gg"/> within fractals to immediately kill your character (dead, not downed). This can be used generously in fractal skips, as it allows the entire party to teleport to a checkpoint once one player activates it.
 If everyone in the party is dead at the same time, cooldowns will reset for all players. Therefore it is advised for the entire group to use <Command name="gg"/> at certain key positions to reset long cooldowns, like between Siax (2nd boss) and Ensolyss (3rd boss) in 99CM. Never resurrect as long as another player is still alive.
 
-The command can also be used to recharge the Druid's <Skill id="31869"/> by having one player <Command name="gg"/> in front of a boss and letting the Druid resurrect him.
+Note that the Druid's <Skill id="31869"/> will fully recharge after the resurrection.
 
 ---
 
@@ -39,3 +38,5 @@ Below is a list of all current instabilities and their possible countermeasures.
 | <Instability name="No Pain, No Gain"/> | Enemies receive <Boon name="protection"/>, <Boon name="might"/> and <Boon name="fury"/> when you hit them. Has a 20 second internal cooldown per enemy, conveniently lining up with the Mesmer's <Skill id="10267"/>. |
 | <Instability name="Social Awkwardness"/> | Players receive 1 stack of <Effect name="agony"/> and 10% health damage when they attack enemies while an ally is within a 44 unit range. This is the most annoying instability and active in almost all relevant T4 fractals. Spread out to prevent killing each other, but stay in melee range to keep benefiting from group buffs. |
 | <Instability name="Toxic Trail"/> | Enemies leave a trail of poison behind them which inflicts direct damage and the <Condition name="poison"/> condition. Can be very dangerous when fighting multiple mobs. |
+| <Instability name="Fractal Vindicators"/> | Fractal Avengers are replaced by hard-hitting Fractal Vindicators. Those need to be killed as fast as possible to prevent further chaos. |
+| <Instability name="Hamstrung"/> | The lower your health, the slower you move. Heal yourself! |

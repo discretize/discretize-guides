@@ -1,6 +1,6 @@
 # Power Weaver (DPS)
 
-The current optimal build for Elementalists in fractals is the <Specialization name="weaver"/>. It offers both the highest burst and consistent DPS in the game on large, stationary hitboxes and very good DPS on small hitboxes. The trait <Trait id="1502"/> in combination with <Item id="24868"/> and Slaying Potions like <Item id="50082"/> put it ahead of other DPS professions. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
+The current optimal build for Elementalists in fractals is the <Icon name="weaver"/>. It offers both the highest burst and consistent DPS in the game on large, stationary hitboxes and very good DPS on small hitboxes. The trait <Trait id="1502"/> in combination with <Item id="24868"/> and Slaying Potions like <Item id="50082"/> put it ahead of other DPS professions. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
 
 Weaver has some utilities in the form of good <Condition name="vulnerability"/> output, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver is really squishy compared to the old Tempest, it has no reflects, no crowd control skills apart from <Skill id="5721"/> and looses access to <Boon name="stability"/> and <Boon name="protection"/> from Overloads.
 
