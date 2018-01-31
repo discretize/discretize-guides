@@ -2,11 +2,11 @@
 Stack <Boon name="might"/> before jumping down. Kill the three *Assault Knights* (Red, Blue and Green), each of them has the same set of abilities: a PBAoE knockdown and an AoE pull which covers the entire room except the knight's position. Break their bar, kill them, MAMA will arise when the three knights are dead, do <Command name="gg"/> to reset fight.
 
 ## MAMA
-Stack <Boon name="might"/> before jumping down.
+Stack <Boon name="might"/> before jumping down.<br/>     
 MAMA will arise, her first atack is a spin, which a Mesmer blocks by sharing <Boon name="aegis"/>. Learn to dodge the spinning attacks after the first and turn away from your party members shortly before the *Vomit Toxin* hits (orange cone), otherwise you will 'infect' party members in front of you with it.    
-Every 25%, MAMA becomes invulnerable and an *Assault Knight* (similar to the knights before) will spawn. Quickly break their breakbar then kill them as MAMA will continue it's attacks.    
+Every 25%, MAMA gets <Effect name="invulnerability"/> and an *Assault Knight* (similar to the knights before) will spawn. Quickly break their breakbar then kill them as MAMA will continue it's attacks.    
 When MAMA reaches 33%, it conjures a large *Nightmare Miasma* field around it which deals enormous damage. It will also become mobile, start jumping to players, offloading shockwaves and hitting with <Control name="stun"/> cone attacks.    
-At the last 25% of the boss, kill the knight as fast as possible, since MAMA can wipe your party easily with the combined attacks of the knight.
+At the last 25% of the boss, kill the knight as fast as possible, since MAMA can wipe your party easily with the combined attacks of the knight.<br/>
 Fast crowd control and animation knowledge are the keys to this fight, especially at around 25%.
 
 <Tips>
@@ -40,7 +40,7 @@ After the interaction with the red orb in the center of the area. Quickly move b
 
 During the fight, break his defiance bar (2000 CC damage) as fast as possible to interrupt his *Caustic Explosion* skill. Siax will wipe your party if you fail to interrupt it with enough crowd control. Pay attention to his bouncing orb barrages, the *Vomit Toxin* and the exploding *Volatile Hallucinations* (at &lt;75%). Do not stand in the PBAoE when the inner circle reaches the outer to avoid spawning a *Nightmare Hallucination*.
 
-When Siax reaches 66%, four *Echoes of the Unclean* will spawn in the North, East, South and West which need to be killed quickly to interrupt his *Caustic Explosions*. The same occurs at 33%, though the adds will have their spawning positions shifted clockwise.
+When Siax reaches 66%, he gains <Effect name="invulnerability"/> and four *Echoes of the Unclean* will spawn in the North, East, South and West which need to be killed quickly to interrupt his *Caustic Explosions*. The same occurs at 33%, though the adds will have their spawning positions shifted clockwise.
 
 Assign players to each add before the fight by setting waypoints. The Mesmer and Druid will usually focus on one mob together due to their lower DPS.
 
