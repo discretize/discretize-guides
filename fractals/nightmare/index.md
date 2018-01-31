@@ -48,7 +48,6 @@ Assign players to each add before the fight by setting waypoints. The Mesmer and
     <Tip specialization="chronomancer">Share <Skill id="10192"/> with your party when the *Nightmare Hallucination* PBAoE goes off or too many *Volatile Hallucinations* explode on the party.<br/>With <Skill id="21750"/> you can recast your phantasms on the *Echo of the Unclean* to deal more damage.</Tip>
     <Tip specialization="druid">If you have problems with the incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.<br/>If you have trouble with the orbs leaving toxic trails, position yourself away from the boss to keep them from the melee area as he throws them on the furthest player (this is especially useful if you do not have enough damage).</Tip>
     <Tip specialization="weaver">On the East and South *Echoes of the Unclean*, you can use <Skill id="5697"/> from <Skill id="5516"/> against the wall to deal enormous damage.</Tip>
-    </Tip>
 </Tips>
 
 ---
