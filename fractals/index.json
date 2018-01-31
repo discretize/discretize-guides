@@ -8,6 +8,7 @@
         "id": "nightmare",
         "header": "Nightmare",
         "meta": "99CM",
+        "api": 3177,
         "bosses": 3,
         "difficulties": [
           {
@@ -74,6 +75,7 @@
         "id": "shattered-observatory",
         "header": "Shattered Observatory",
         "meta": "100CM",
+        "api": 3458,
         "bosses": 3,
         "difficulties": [
           {
@@ -142,6 +144,7 @@
         "image": "fractals/images/aquatic-ruins.jpg",
         "header": "Aquatic Ruins",
         "meta": "76",
+        "api": 2956,
         "bosses": 1,
         "difficulties": [
           {
@@ -219,6 +222,7 @@
         "id": "swampland",
         "header": "Swampland",
         "meta": "77, 89",
+        "api": 2892,
         "bosses": 1,
         "difficulties": [
           {
@@ -279,6 +283,7 @@
         "image": "fractals/images/urban-battlegrounds.jpg",
         "header": "Urban Battlegrounds",
         "meta": "78, 85",
+        "api": 2941,
         "bosses": 2,
         "difficulties": [
           {
@@ -345,6 +350,7 @@
         "image": "fractals/images/uncategorized.jpg",
         "header": "Uncategorized",
         "meta": "79, 91",
+        "api": 2939,
         "bosses": 3,
         "difficulties": [
           {
@@ -419,6 +425,7 @@
         "id": "solid-ocean",
         "header": "Solid Ocean",
         "meta": "80",
+        "api": 2923,
         "bosses": 1,
         "difficulties": [
           {
@@ -456,6 +463,7 @@
         "id": "underground-facility",
         "header": "Underground Facility",
         "meta": "81",
+        "api": 2947,
         "bosses": 2,
         "difficulties": [
           {
@@ -532,6 +540,7 @@
         "image": "fractals/images/cliffside.jpg",
         "header": "Cliffside",
         "meta": "82, 94",
+        "api": 2930,
         "bosses": 1,
         "difficulties": [
           {
@@ -596,6 +605,7 @@
         "id": "molten-furnace",
         "header": "Molten Furnace",
         "meta": "83",
+        "api": 2903,
         "bosses": 1,
         "difficulties": [
           {
@@ -633,6 +643,7 @@
         "image": "fractals/images/thaumanova-reactor.jpg",
         "header": "Thaumanova Reactor",
         "meta": "84, 97",
+        "api": 2967,
         "bosses": 2,
         "difficulties": [
           {
@@ -696,6 +707,7 @@
         "image": "fractals/snowblind/images/iwQRWqf.jpg",
         "header": "Snowblind",
         "meta": "86, 93",
+        "api": 2952,
         "bosses": 2,
         "difficulties": [
           {
@@ -828,6 +840,7 @@
         "image": "fractals/images/chaos-isles.jpg",
         "header": "Chaos Isles",
         "meta": "88, 98",
+        "api": 3038,
         "bosses": 2,
         "difficulties": [
           {
@@ -890,6 +903,7 @@
         "id": "molten-boss",
         "header": "Molten Boss",
         "meta": "90",
+        "api": 2966,
         "bosses": 2,
         "difficulties": [
           {
@@ -940,6 +954,7 @@
         "id": "volcanic",
         "header": "Volcanic",
         "meta": "92",
+        "api": 2989,
         "bosses": 2,
         "difficulties": [
           {
@@ -1007,6 +1022,7 @@
         "image": "fractals/images/captain-mai-trin-boss.jpg",
         "header": "Captain Mai Trin Boss",
         "meta": "95",
+        "api": 2932,
         "bosses": 1,
         "difficulties": [
           {
@@ -1049,6 +1065,7 @@
         "image": "fractals/images/aetherblade.jpg",
         "header": "Aetherblade",
         "meta": "96",
+        "api": 2948,
         "bosses": 1,
         "difficulties": [
           {
