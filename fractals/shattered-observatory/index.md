@@ -18,18 +18,16 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 
 <Tips>
     <Tip specialization="chronomancer">Due to the <Instability name="No Pain, No Gain"/> mistlock instability, run <Skill id="10267"/> for the entire fractal. Alternatively you can use <Skill id="10185"/> which also grants permanent <Boon name="protection"/> to the party upon sharing, but don't use it before a <Skill id="29830"/>, otherwise the cooldown will be too long for the next set of boons.<br/>Take <Skill id="29519"/> for the strong defiance bars.</Tip>
-    <Tip specialization="druid">You can use the Nature Magic trait line with <Trait id="1038"/>,
-                                                   <Skill id="12569"/> and <Skill id="12495"/> for party <Boon name="stability"/> and <Boon name="vigor"/>.</Tip>
-    <Tip specialization="firebrand">Take <Skill id="43357"/> for additional party <Boon name="stability"/>.</Tip>
+    <Tip specialization="druid">Use the Nature Magic trait line with <Trait id="1038"/>, <Skill id="12569"/> for party <Boon name="stability"/> <33%.</Tip>
 </Tips>
 
-### Tactic<
+### Tactic
 The key to the fight is fast crowd control, as breaking Skorvald's defiance bar prevents most of the mechanics. Immediately break it at the begin and bring him down to 66% health.    
 At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four *Elite Flux Anomalies* to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use an air turbulence to travel between the islands. The Anomalies dont have much health (170k) but knock players back with shockwaves. Pay attention to the emotes and position yourself between the Anomaly and a wall.
 
 It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately after the 4th Anomaly is dead to deal more damage to Skorvald before he continues his attacks, especially at 33%.
 
-Below 33% health, Skorvald goes berserk and starts his *Solar Cyclone* attack. Practice the safe spots and keep the *Solar Blooms* away from the party, a Druid is the perfect candidate for this job. After about 30 seconds, Skorvald starts a huge laser beam attack (*Beaming Smile*) and regains his defiance bar, if he is not dead yet break the bar and finish him.
+Below 33% health, Skorvald goes berserk and starts his *Solar Cyclone* attack. Practice the safe spots and keep the *Solar Blooms* away from the party, a Druid is the perfect candidate for this job with staff autoattack, but a Berserker Warrior can also help with Longbow F1. After about 30 seconds, Skorvald starts a huge laser beam attack (*Beaming Smile*) and regains his defiance bar, if he is not dead yet break the bar and finish him.
 
 ---
 
@@ -78,8 +76,7 @@ After the fight is over, take the portal in the North and move forward to get to
 
 <Tips>
     <Tip specialization="chronomancer">Try to at least summon a <Skill id="10267"/> before you leave for marble bouncing.<br/>Time your invulnerables for *Slam* and remember your many crowd control skills for the intermediate phases.<br/>From here on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics.</Tip>
-    <Tip specialization="druid">Use <Skill id="31496"/> against the multitude of projectiles.</Tip>
-    <Tip specialization="firebrand">Block Artsariiv's *Slam* for you and nearby allies with <Skill id="41475"/></Tip>
+    <Tip specialization="druid">Use <Skill id="31496"/> against the multitude of projectiles. Like the orb attacks on start from the two elites on start and from Artsariiv before her Slam attack.</Tip>
 </Tips>
 
 ---
@@ -130,5 +127,5 @@ The most important thing is to keep calm. Remember that every single ability can
     <Tip specialization="chronomancer">Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. You can alternate between reflects and invulnerables to completely negate mechanics. Remembed to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and bypass mechanics like *Solar Fury*.</Tip>
     <Tip specialization="thief">Use <Skill id="14184"/> against the *Solar Orbs*.</Tip>
     <Tip specialization="firebrand">Use <Skill id="9251"/> against the orbs.<br/>Killing a *Temporal Anomaly* or any of the Elite Boss adds recharges your <Skill id="44364"/>.</Tip>
-    <Tip specialization="druid">Consider running a more defensive setup with <Trait id="1038"/> for <Boon name="protection"/> and <Boon name="vigor"/> from spirits.</Tip>
+    <Tip specialization="druid">You can consider running a more defensive setup with <Trait id="12495"/> for <Boon name="protection"/> from spirits.</Tip>
 </Tips>
