@@ -27,7 +27,7 @@ At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four
 
 It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately after the 4th Anomaly is dead to deal more damage to Skorvald before he continues his attacks, especially at 33%.
 
-Below 33% health, Skorvald goes berserk and starts his *Solar Cyclone* attack. Practice the safe spots and keep the *Solar Blooms* away from the party, a Druid is the perfect candidate for this job with staff autoattack, but a Berserker Warrior can also help with Longbow F1. After about 30 seconds, Skorvald starts a huge laser beam attack (*Beaming Smile*) and regains his defiance bar, if he is not dead yet break the bar and finish him.
+Below 33% health, Skorvald goes berserk and starts his *Solar Cyclone* attack. Druid spawns <Skill id="12569"/> for party <Boon name="stability"/>. Practice the safe spots and keep the *Solar Blooms* away from the party, a Druid is the perfect candidate for this job with staff autoattack, but a Berserker Warrior can also help with Longbow F1. After about 30 seconds, Skorvald starts a huge laser beam attack (*Beaming Smile*) and regains his defiance bar, if he is not dead yet break the bar and finish him.
 
 ---
 
@@ -127,5 +127,5 @@ The most important thing is to keep calm. Remember that every single ability can
     <Tip specialization="chronomancer">Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. You can alternate between reflects and invulnerables to completely negate mechanics. Remembed to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and bypass mechanics like *Solar Fury*.</Tip>
     <Tip specialization="thief">Use <Skill id="14184"/> against the *Solar Orbs*.</Tip>
     <Tip specialization="firebrand">Use <Skill id="9251"/> against the orbs.<br/>Killing a *Temporal Anomaly* or any of the Elite Boss adds recharges your <Skill id="44364"/>.</Tip>
-    <Tip specialization="druid">You can consider running a more defensive setup with <Trait id="12495"/> for <Boon name="protection"/> from spirits.</Tip>
+    <Tip specialization="druid">You can consider running a more defensive setup with <Skill id="12495"/> for <Boon name="protection"/>.</Tip>
 </Tips>
