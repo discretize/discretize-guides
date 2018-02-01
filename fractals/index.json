@@ -451,10 +451,10 @@
           ],
           "sigils": [
             {
-              "id": 24868
+              "id": 36053
             },
             {
-              "id": 24554
+              "id": 36054
             }
           ]
         }
@@ -511,6 +511,9 @@
             },
             {
               "id": 24868
+            },
+            {
+              "id": 24661
             },
             {
               "id": 24684
@@ -765,11 +768,12 @@
           "cycle": "Night",
           "potions": [
             {
-              "id": 8883
+              "id": 8885,    
+              "description": "for the Elemental Source boss"
             },
             {
-              "id": 8885,
-              "description": "for the Elemental Source boss"
+              "id": 8883,    
+              "description": "for the boss"
             }
           ],
           "sigils": [
