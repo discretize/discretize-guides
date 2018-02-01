@@ -4,6 +4,12 @@
     You can stack <Boon name="might"/> on the rack before entering the water. Kill the three groups of Krait and open the cages. Use <Command name="gg"/> after the last cage to instantly teleport to the tunnel part.
     <Tips>
         <Tip specialization="mesmer">Use <Skill id="10255"/> to group up Krait. You can place a <Skill id="10197"/> on the rack and open it with <Skill id="29578"/> underwater to not loose time while the others stack <Boon name="might"/>. You can place another one at the 2nd cage, swim ahead and open it at the 3rd cage. Place a <Skill id="10325"/> to give a speed bost the the whole party.</Tip>
+        <Tip specialization="ranger">Druid can retrait to Ranger and take the Marksmanship traitline for <Trait id="986"/>.    
+            If you don't want to retrait just swap <Trait id="965"/> instead of <Trait id="964"/>.    
+            For this fractal, you can use 5 spirits (Water,Air,Sun,Frost,Nature) for easy boon application, <Skill id="12569"/> (with <Trait id="1038"/>)  is escpecially good for the Jellyfish boss.</Tip>
+        <Tip specialization="warrior">Take <Skill id="14403"/> for <Boon name="fury"/> and <Boon name="might"/>.    
+            Also trait <Trait id="1711"/> to give might, since Druid can't get into <Skill id="33557"/> as often as on land.</Tip>
+        <Tip specialization="tempest">Retrait to Tempest for this fractal, as it is one of the best choices for underwater combat. Trait <Trait id="1503"/> to maximize dps.
     </Tips>
 </Column>
 
@@ -43,8 +49,8 @@ Pull the Jellyfish Beast to the electrified cage at the bottom by LoSing him to 
     <Tips>
         <Tip specialization="chronomancer">Use a combination of <Skill id="29830"/>, <Skill id="10377"/>, <Skill id="29578"/>, <Skill id="10236"/> and <Trait id="1866"/> to easily keep up <Boon name="quickness"/> for the whole fight. <Skill id="10192"/> works perfectly against his electric spin <Control name="stun"/>.</Tip>
         <Tip specialization="warrior">Cast <Skill id="14480"/> against a cage for high damage.</Tip>
-        <Tip specialization="elementalist">Cast <Skill id="5607"/> against a cage for high damage.</Tip>
-        <Tip specialization="guardian">Use <Skill id="9152"/> for party <Boon name="stability"/> during his electric spin.</Tip>
+        <Tip specialization="tempest">Cast <Skill id="5607"/> against a cage for high damage.</Tip>
+        <Tip specialization="ranger">Use 5 spirits (Water,Air,Sun,Frost,Nature) for easy boon application, <Skill id="12569"/> (with <Trait id="1038"/>).</Tip>
     </Tips>
 </Column>
 </Grid>
