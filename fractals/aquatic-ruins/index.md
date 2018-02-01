@@ -1,7 +1,7 @@
 ## Save the villagers
 <Grid>
 <Column>
-    You can stack <Boon name="might"/> on the rack before entering the water. Kill the three groups of Krait and open the cages. Use <Command name="gg"/> after the last cage to instantly teleport to the tunnel part.
+    You can stack <Boon name="might"/> on the rack before entering the water. Kill the three groups of Krait and open the cages. Use `/gg` after the last cage to instantly teleport to the tunnel part.
     <Tips>
         <Tip specialization="mesmer">Use <Skill id="10255"/> to group up Krait. You can place a <Skill id="10197"/> on the rack and open it with <Skill id="29578"/> underwater to not loose time while the others stack <Boon name="might"/>. You can place another one at the 2nd cage, swim ahead and open it at the 3rd cage. Place a <Skill id="10325"/> to give a speed bost the the whole party.</Tip>
         <Tip specialization="ranger">Druid can retrait to Ranger and take the Marksmanship traitline for <Trait id="986"/>.    
@@ -23,7 +23,7 @@
 ## Dark Path
 <Grid>
 <Column>
-Swim together and take the *Luminous Plants* on the way to protect you and nearby players from dying. If you are able to survive it, take the shortcut to the left after entering the larger cave. Use dodges or <Effect name="invulnerability"/> for the last group of Krait. If someone reaches the end boss, use <Command name="gg"/> to immediately resurrect there.
+Swim together and take the *Luminous Plants* on the way to protect you and nearby players from dying. If you are able to survive it, take the shortcut to the left after entering the larger cave. Use dodges or <Effect name="invulnerability"/> for the last group of Krait. If someone reaches the end boss, use `/gg` to immediately resurrect there.
 </Column>
 
 <Column width=7>
@@ -35,7 +35,7 @@ Swim together and take the *Luminous Plants* on the way to protect you and nearb
 </Grid>
 
 ## *or* Dolphin Path
-Spam Skill 1 during swimming to reveal nearby hidden Krait and keep to the right. You can use Skill 2 to create a distraction and Skill 3 to get a short speed boost. Skill 5 can be used to instantly revive nearby dead allies. Always dodge **twice** when you anticipate a Krait attack. As soon as someone reaches the end boss, use <Command name="gg"/> to immediately resurrect there.
+Spam Skill 1 during swimming to reveal nearby hidden Krait and keep to the right. You can use Skill 2 to create a distraction and Skill 3 to get a short speed boost. Skill 5 can be used to instantly revive nearby dead allies. Always dodge **twice** when you anticipate a Krait attack. As soon as someone reaches the end boss, use `/gg` to immediately resurrect there.
 
 ---
 

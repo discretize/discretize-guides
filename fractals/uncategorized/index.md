@@ -42,6 +42,6 @@ Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful w
 ---
 
 ## Raving Asura
-If noone did a portal to above, stack <Effect name="stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use <Command name="gg"/> and resurrect at the checkpoint there. Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal.
+If noone did a portal to above, stack <Effect name="stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal.
     
 Note that with the 17/09/22 update the four golems gained a defiance bar which makes it impossible to pull them anymore.

@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | <Item id="49940"/> | Offers improved movement by holding *Skill 2* and cancelling the final hit through the *drop bundle* skill. Can be boosted by <Boon name="swiftness"/> and even <Effect name="superspeed"/> to achieve stellar speed. |
-| <Item id="78978"/> | Can be used to create a portal between two locations, similar to the Mesmer's <Skill id="10197"/> skill. The 30 minute cooldown can be reset by using <Command name="gg"/> two times. |
+| <Item id="78978"/> | Can be used to create a portal between two locations, similar to the Mesmer's <Skill id="10197"/> skill. The 30 minute cooldown can be reset by using `/gg` two times. |
 | <Item id="44642"/> | Also creates a portal, but can not be dropped between the start and end location. Consumed upon use. |
 | <Item id="78786"/> | If you activate the notice before an unskippable cutscene (like after Skorvald in the [Shattered Observatory Fractal](http://discretize.eu/fractals/shattered-observatory)), you will be able to move and cast during the video, though it will still cover your main view. |
 | <Item id="8764"/> | Provides 3 seconds of <Effect name="stealth"/> on a 6s cooldown. |

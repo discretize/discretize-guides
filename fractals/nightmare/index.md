@@ -1,5 +1,5 @@
 ## Assault Knights
-Stack <Boon name="might"/> before jumping down. Kill the three *Assault Knights* (Red, Blue and Green), each of them has the same set of abilities: a PBAoE knockdown and an AoE pull which covers the entire room except the knight's position. Break their bar, kill them, MAMA will arise when the three knights are dead, do <Command name="gg"/> to reset fight.
+Stack <Boon name="might"/> before jumping down. Kill the three *Assault Knights* (Red, Blue and Green), each of them has the same set of abilities: a PBAoE knockdown and an AoE pull which covers the entire room except the knight's position. Break their bar, kill them, MAMA will arise when the three knights are dead, do `/gg` to reset fight.
 
 ## MAMA
 Stack <Boon name="might"/> before jumping down.<br/>     
@@ -11,7 +11,7 @@ Fast crowd control and animation knowledge are the keys to this fight, especiall
 
 <Tips>
     <Tip specialization="chronomancer">Due to the <Instability name="No Pain, No Gain"/> mistlock instability, run <Skill id="10267"/> for the entire fractal or you can use a Spellbraker.<br/>Also run <Skill id="29519"/> for the stronger defiance bars. Use it immediately on the last assault knight spawning at 25% of MAMA's health.<br/>Time your distortions for key attacks like MAMA's spinning and triple shockwave (&lt;33%), but remember the internal 5s cooldown and 300 yard range of group distortion on <Trait id="1852"/>.<br/>Take <Skill id="21750"/> to immediately recharge your phantasms for the adds, especially for <Skill id="10267"/> to immediately remove the boons.</Tip> 
-    <Tip specialization="warrior">For the entire fractal, remember to place your banners at the boss before doing <Command name="gg"/> as they will continue to exist through death. This way, you can keep them up permanently even without <Effect name="alacrity"/>.</Tip>
+    <Tip specialization="warrior">For the entire fractal, remember to place your banners at the boss before doing `/gg` as they will continue to exist through death. This way, you can keep them up permanently even without <Effect name="alacrity"/>.</Tip>
     <Tip specialization="druid">If you have problems with incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.<br/><Skill id="31639"/> from your Electric Wyvern pet deals enormous defiance bar damage to the bosses, they all have a large hitbox.</Tip>
 </Tips>
 
@@ -26,7 +26,7 @@ On a side note, more players do not cap an altar faster. More than one person st
 Again, pull all enemies to the center (Mesmer focus <Skill id="10186"/> pulls all) and kill them there. The mobs at the left altar (West on minimap) can be aggroed with a simple projectile, the mobs on the right side (East on minimap) need to be pulled with Warrior Longbow 3 <Skill id="14381"/> or Weaver autoattack <Skill id="5491"/> or just by teleporting up and jumping down.    
 Both side altars can easily be capped by a single person (usually Mesmer or Warrior) after another player has pulled down the mobs.    
 Contrary to the first set of altars, respawning *Veteran Hallucinations* counteract capping here. Use pulls to grab them out of the central altar and always have a positive amount of players inside.    
-After you capped all three altars use <Command name="gg"/> if somebody in the party needs it, then you can continue up to the 2nd boss. Before the ramp up, a group of Krait will attack you - simply keep walking to skip them. Use dodges, evades or invulnerables to get through the cascading orbs and disable them by activating the orb at the top of the ramp. Please note that advanced groups do not <Command name="gg"/> before Siax, instead stack <Boon name="might"/> before they get in combat, then proceed into the fight, saving some time.
+After you capped all three altars use `/gg` if somebody in the party needs it, then you can continue up to the 2nd boss. Before the ramp up, a group of Krait will attack you - simply keep walking to skip them. Use dodges, evades or invulnerables to get through the cascading orbs and disable them by activating the orb at the top of the ramp. Please note that advanced groups do not `/gg` before Siax, instead stack <Boon name="might"/> before they get in combat, then proceed into the fight, saving some time.
 
 <Tips>
     <Tip specialization="chronomancer">Use <Skill id="10363"/> to pull mobs together.<br/>You can <Skill id="10200"/> and aggro the Krait at the eastern altar during <Skill id="29830"/> if you're fast. Afterwards teleport up to one of the altars as soon as someone pulled the mobs down.</Tip>
@@ -53,7 +53,7 @@ Assign players to each add before the fight by setting waypoints. The Mesmer and
 ---
 
 ## Ensolyss of the Endless Torment
-Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use <Command name="gg"/> to reset all cooldowns. Stack <Boon name="might"/> before you activate the fight. Don't stand in the center area of the platform on activation or you will get a <Control name="knockback"/>.
+Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="might"/> before you activate the fight. Don't stand in the center area of the platform on activation or you will get a <Control name="knockback"/>.
 
 Nearly all of Ensolyss' attacks do a <Control name="knockback"/> or <Control name="pull"/>, learn to dodge or walk out of every attack. The most dangerous one is his shockwave-shatter combo, he smashes down a stunning yellow shockwave (like MAMA &lt;33%), spawns hallucinations on each players position and shatters them after two seconds.    
 Again, the key to this fight is fast crowd control. Break his defiance bar quickly to interrupt his high damage attacks. Always stack around the center area and do not try to follow him to the edge as he will simply teleport back most of the time.
@@ -69,7 +69,7 @@ Below 66%, Ensolyss gains a new ability where he smashes two quarters of the pla
 Below 33%, he may summon a special shockwave which travels inwards to him (contrary to the ones before) and deal enormous damage to everyone near him. With enough crowd control and DPS this should never occur.
 
 ### Final phase *<15%*
-When Ensolyss reaches 15% health, he will stop using his usual attacks, but only a small bubble in the middle will protect you from his deathly rain. Krait will charge through the middle (indicated by large arrows on the ground) and make positioning harder, kill Ensolyss quickly to finish the fractal. If needed, use <Command name="gg"/> to reset cooldowns after the fractal finished.
+When Ensolyss reaches 15% health, he will stop using his usual attacks, but only a small bubble in the middle will protect you from his deathly rain. Krait will charge through the middle (indicated by large arrows on the ground) and make positioning harder, kill Ensolyss quickly to finish the fractal. If needed, use `/gg` to reset cooldowns after the fractal finished.
 
 <Tips>
     <Tip specialization="chronomancer">If you party damage is high enough, swap the Domination traitline for Illusions to reduce the cooldown for <Trait id="731"/> you are able to use <Skill id="29830"/>, this way you can use it at 100%, 66% and 33%. You lose the <Effect name="invulnerability"/> on signets from <Trait id="713"/> but gain more <Effect name="alacrity"/> and faster boonstrip with <Trait id="723"/> and <Trait id="729"/>.<br/>Time your distortions for the shockwave-shatter combo.</Tip>

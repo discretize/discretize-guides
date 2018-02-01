@@ -1,33 +1,40 @@
-## Start
+## Start <Item id="8890" text="false" size="24"/><Item id="36053" text="false" size="24"/><Item id="24648" text="false" size="24"/>
 <Grid>
 <Column>
-Kill the respawning Grawls to fill the progress bar. Afterwards, use the Mesmer's portal or walk through the Boulders to the Grawl Shaman.
+While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Icon name="warrior"/> **Warrior** after placing banners) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can `/gg` after the section is completed and resurrect to skip the Boulder passage.
 </Column>
 
-<Column>
-<Tips>
-    <Tip specialization="mesmer">While the others kill the Grawls, open a <Skill id="10197"/> at <a href="/_/img/fractals/volcanic-1.jpg">this location</a> and walk to the next area. Wait for the others to finish (recognizable by the experience gain and the video sequence) and open the portal <a href="/_/img/fractals/volcanic-2.jpg">here</a>.</Tip>
-</Tips>
+<Column width="6">
+<Image src="fractals/volcanic/images/the_start_area.jpg" title="The start area"/>
 </Column>
 </Grid>
 
 ---
 
-## Grawl Shaman
-Kill the spawning *Veteran Grawl Shamans* to prevent them from sacrificing the captives.    
-You will need to throw eight *Infused Stones* at the bubble protecting the Grawl Shaman boss to break it. The stones spawn on rockfalls, wait until the falling animation finishes and dodge into it to collect it.    
-After the bubble is broken, stand <a href="/_/img/fractals/volcanic-3.jpg">here</a> to LoS the boss. He will come down immediately. Throw another *Infused Stone* at him if his bubble reappears.
+## <Boss/> Grawl Shaman <Item id="8890" text="false" size="24"/><Item id="36053" text="false" size="24"/><Item id="24648" text="false" size="24"/>
+Kill the *Veteran Grawl Shamans* to prevent them from sacrificing the captives. Control effects like <Control name="stun"/> and <Condition name="immobile"/> hinder them from reaching the edge.
+
+You will need to throw eight *Infused Stones* at the bubble protecting the Grawl Shaman boss to break it and make him vulnerable. The stones spawn on rockfalls, wait until the falling animation finishes and dodge into it to collect it. You can ping the Grawl Shaman (`Ctrl + T`) for easy targeting.
+
+After the bubble is broken, stand below the boss to LoS him and he will come down immediately. Throw another *Infused Stone* at him if his bubble reappears during the fight.
+
+<Tips>
+    <Tip specialization="mesmer">If you still have your *Mistlock Singularity*, you can place a <Skill id="10197"/> during the fight and jump down into the lava. The singularity will prevent the death from falling, keep jumping afterwards (the lava doesn't harm you if you jump repeatedly) to reach the final platform and open the portal there once the Grawl Shaman is finished. Keep in mind that you have to reach the platform before he reaches 25% health, otherwise you will die during the following cutscene.</Tip>
+</Tips>
+
+<Image src="fractals/volcanic/images/the_grawl_shaman.jpg" title="The Grawl Shaman"/>
 
 ---
 
-## Imbued Shaman
+## <Boss red/> Imbued Shaman <Item id="8885" text="false" size="24"/><Item id="36053" text="false" size="24"/><Item id="24661" text="false" size="24"/>
 <Grid>
 <Column>
-Take <a href="/_/img/fractals/volcanic-4.jpg">this shortcut</a> to trigger the next checkpoint, then everyone uses <Command name="gg"/> to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="might"/> and jump down to the Imbued Shaman.
+Take the shortcut on the right-hand side down to the final platform to trigger the next checkpoint, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="might"/> and jump down to the Imbued Shaman.
 
-Every 25%, he gains a protective bubble and starts moving to a random villager. He will heal for about 20% health if he reaches his target, so break the bubble quickly by hitting him 40 times and try to keep him in the center as the villagers are located at the edge of the area.    
-He will also spawn 10-30 *Lava Elementals* during this phase, kill them fast as they cast a lot of projectiles and inflict high <Condition name="burning"/> stacks on the team.    
-Note that jumping prevents the application of <Condition name="burning"/> from the floor.    
+Every 25% health, he gains a protective bubble and starts moving to a random villager. He will heal for about 20% health if he reaches his target, so break the bubble quickly by casting 40 offensive abilities while targeting the Imbued Shaman (you actually don't have to hit him). Try to keep him in the center as the villagers are located at the edge of the area.
+    
+He will also spawn 10-30 *Lava Elementals* during this phase, kill them fast as they cast a lot of projectiles and inflict high <Condition name="burning"/> stacks on the team. Note that repeated jumping prevents the application of <Condition name="burning"/> from the floor.
+
 Avoid the *Bash* and *Wing Buffer* attacks (they <Control name="knockback"/>) and utilize conditions clears & reflects to finish the fractal successfully.
 </Column>
 
@@ -35,8 +42,9 @@ Avoid the *Bash* and *Wing Buffer* attacks (they <Control name="knockback"/>) an
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="10302"/> against the Lava Elementals. A <Skill id="10186"/> traited with <Trait id="751"/> is also worth it, though you lose the personal condition cleanse from <Trait id="740"/>.</Tip>
     <Tip specialization="elementalist">Take <Skill id="5507"/> for an additional condition cleanse.</Tip>
-    <Tip specialization="guardian">Take <Skill id="9251"/> for reflection and <Skill id="31159"/> against the <Condition name="burning"/>.</Tip>
-    <Tip specialization="ranger">Trait <Trait id="1075"/> and use <Skill id="12489"/> for additional condition clears.</Tip>
+    <Tip specialization="ranger">Trait <Trait id="1075"/> and use <Skill id="12489"/> for a stronger periodical condition clear.</Tip>
 </Tips>
 </Column>
 </Grid>
+
+<Image src="fractals/volcanic/images/the_imbued_shaman.jpg" title="The Imbued Shaman"/>

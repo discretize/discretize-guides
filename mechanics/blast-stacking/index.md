@@ -17,19 +17,18 @@ Below is a list of frequently used blast finishers among all professions. Note t
 ---
 
 ## <Boon name="might"/> stacking if you are alone
-
 * <Icon name="weaver"/> Weaver:    
-    * Start on Scepter/Dagger <Skill id="5492" text="false" size="24"/>/<Skill id="5492" text="false" size="24"/>    
-    * <Skill id="5692"/> (Scepter 2)    
-    * <Skill id="5691"/> (Dagger 4)    
-    * <Skill id="5675"/> (Scepter 3)    
-    * Swap to earth and Sword <Skill id="5495" text="false" size="24"/>/<Skill id="5492" text="false" size="24"/>    
-    * <Skill id="40709"/> (Sword 2)    
-    * Swap to earth <Skill id="5495" text="false" size="24"/> / <Skill id="5495" text="false" size="24"/>    
-    * <Skill id="5690"/> (Dagger 4)    
-    * <Skill id="5522"/> (Dagger 5)    
-    * Swap to Focus   
-    * <Skill id="5555"/> (Focus 4)
+  * Start on Scepter/Dagger <Skill id="5492" text="false" size="24"/>/<Skill id="5492" text="false" size="24"/>    
+  * <Skill id="5692"/> (Scepter 2)    
+  * <Skill id="5691"/> (Dagger 4)    
+  * <Skill id="5675"/> (Scepter 3)    
+  * Swap to earth and Sword <Skill id="5495" text="false" size="24"/>/<Skill id="5492" text="false" size="24"/>    
+  * <Skill id="40709"/> (Sword 2)    
+  * Swap to earth <Skill id="5495" text="false" size="24"/> / <Skill id="5495" text="false" size="24"/>    
+  * <Skill id="5690"/> (Dagger 4)    
+  * <Skill id="5522"/> (Dagger 5)    
+  * Swap to Focus   
+  * <Skill id="5555"/> (Focus 4)
 * <Icon name="warrior"/> Warrior:      
     * <Skill id="14394"/> (Warhorn 5)   
     * <Skill id="14381"/> (Longbow 3)    
@@ -43,7 +42,6 @@ Below is a list of frequently used blast finishers among all professions. Note t
     * <Skill id="9082"/> (Focus 5)
 * <Icon name="thief"/> Thief:    
     * <Skill id="13041"/> (Shortbow 2)
-
 ---
 
 ## Fire fields <Label><Boon name="might"/> stacking</Label>
@@ -75,7 +73,7 @@ Below is a list of regularly used *Smoke Field* skills. Be careful not to aggro 
 * <Icon name="engineer"/> Engineer:    
     * <Skill id="5824"/> (Bomb kit)
 
-### Other skill that grant party <Effect name="stealth"/>
+### Other skills that grant party <Effect name="stealth"/>
 * <Icon name="mesmer"/> Mesmer:    
     * <Skill id="10245"/>    
     * <Skill id="10187"/>    
