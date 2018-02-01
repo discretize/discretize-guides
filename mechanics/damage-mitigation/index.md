@@ -1,5 +1,5 @@
 # Projectiles Destruction
-A lot of projectiles in fractals can be reflected or destroyed to prevent various boss mechanics, like the expiration of *Bonfires* in the Snowblind Fractal or the emergence of burning fields from *Solar Orbs* at Arkk in the Shattered Observatory.
+A lot of projectiles in fractals can be reflected or destroyed to prevent various boss mechanics, like the expiration of *Bonfires* in the [Snowblind Fractal](http://discretize.eu/fractals/snowblind) or the emergence of burning fields from *Solar Orbs* at Arkk in the [Shattered Observatory Fractal](http://discretize.eu/fractals/shattered-observatory).
 
 Below is a list of currently used projectile reflect or absorb skills and traits:
 
@@ -7,7 +7,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <Card color="mesmer">
 <CardHeader>
-Mesmer
+<Icon name="mesmer"/> Mesmer
 </CardHeader>
 <CardContent>
 * <Skill id="10302"/>, best used during <Skill id="29830"/> (<Icon name="chronomancer"/>)
@@ -17,21 +17,21 @@ Mesmer
 </CardContent>
 </Card>
 
-<Card>
+<Card color="elementalist">
 <CardHeader>
-Elementalist
+<Icon name="elementalist"/> Elementalist
 </CardHeader>
 <CardContent>
-* <Skill id="5685"/> (Staff 3, <Skill id="5495"/>) and any other skill that applies it
-* <Skill id="5530"/> (Focus 4, <Skill id="5494"/>)
+* <Skill id="5685"/> (Staff 3, <Skill id="5495" text="false" size="24"/>) and any other skill that applies it
+* <Skill id="5530"/> (Focus 4, <Skill id="5494" text="false" size="24"/>)
 * <Skill id="30432"/> (<Icon name="tempest"/>)
-* <Skill id="29453"/> (Warhorn 4, <Skill id="5495"/>, <Icon name="tempest"/>)
+* <Skill id="29453"/> (Warhorn 4, <Skill id="5495" text="false" size="24"/>, <Icon name="tempest"/>)
 </CardContent>
 </Card>
 
-<Card>
+<Card color="ranger">
 <CardHeader>
-Ranger
+<Icon name="ranger"/> Ranger
 </CardHeader>
 <CardContent>
 * <Skill id="31496"/> (Staff 5, <Icon name="druid"/>
@@ -39,20 +39,20 @@ Ranger
 </CardContent>
 </Card>
 
-<Card>
+<Card color="guardian">
 <CardHeader>
-Guardian
+<Icon name="guardian"/> Guardian
 </CardHeader>
 <CardContent>
 * <Skill id="9251"/>
 * <Skill id="9107"/> (Sword 3)
-* <Skill id="41836"/> (<Skill id="42259"/>, <Icon name="firebrand"/>)
+* <Skill id="41836"/> (<Skill id="42259" text="false" size="24"/>, <Icon name="firebrand"/>)
 </CardContent>
 </Card>
 
-<Card>
+<Card color="thief">
 <CardHeader>
-Thief
+<Icon name="thief"/> Thief
 </CardHeader>
 <CardContent>
 * <Skill id="14184"/>
@@ -60,9 +60,9 @@ Thief
 </CardContent>
 </Card>
 
-<Card>
+<Card color="warrior">
 <CardHeader>
-Warior
+<Icon name="warrior"/> Warrior
 </CardHeader>
 <CardContent>
 * <Skill id="30074"/> (<Icon name="berserker"/>)
@@ -75,41 +75,76 @@ Warior
 ---
 
 # Blocks, Evades and Invulnerables
-Certain mechanics can be bypassed by using block, <Effect name="invulnerabilisty"/> or <Boon name="aesgis"/> skills. Those ward against any attack (including projectiles) and usually prevent the application of conditions and control effects. Note that some abilities are unblockable!
+Certain mechanics can be bypassed by using block, <Effect name="invulnerability"/> or <Boon name="aegis"/> skills. Those ward against any attack (including projectiles) and usually prevent the application of conditions and control effects. Note that some abilities are unblockable!
 
 Below is a list of commonly used defensive skills:
 
-## Mesmer
+<CardGroup itemsPerRow="3">
+
+<Card color="mesmer">
+<CardHeader>
+<Icon name="mesmer"/> Mesmer
+</CardHeader>
+<CardContent>
 * <Skill id="10192"/> (F4), trait <Trait id="1852"/> to share any distortion you gain with allies (5 seconds internal cooldown)
 * Any signet with <Trait id="713"/> and phantasm with <Trait id="1866"/>
-* <Skill id="30769"/> and <Skill id="29649"/> (Shield 4, <Icon name="chronomancer"/>
+* <Skill id="30769"/> and <Skill id="29649"/> (Shield 4, <Icon name="chronomancer"/>)
 * <Skill id="10280"/> (Sword 4), you can block more by jumping
 * <Skill id="10334"/> (Sword 2)
 * <Skill id="29526"/> with <Boon name="aegis"/>
+</CardContent>
+</Card>
 
-## Warrior
+<Card color="warrior">
+<CardHeader>
+<Icon name="warrior"/> Warrior
+</CardHeader>
+<CardContent>
 * <Skill id="30074"/> (<Icon name="berserker"/>)
 * <Skill id="14507"/> (Mace 2)
 * <Skill id="14362"/> (Shield 5)
 * <Skill id="21815"/>, also heals you for incoming damage but does not prevent conditions or control effects
 * <Skill id="14392"/>, does not prevent conditions or control effects
+</CardContent>
+</Card>
 
-## Guardian
+<Card color="guardian">
+<CardHeader>
+<Icon name="guardian"/> Guardian
+</CardHeader>
+<CardContent>
 * <Skill id="9102"/>
 * <Skill id="9154"/>
 * Any Aegis skill:
     * <Skill id="9118"/> and <Skill id="42259"/> (<Icon name="firebrand"/>) (periodically)
     * <Skill id="9084"/>
     * <Skill id="41475"/> (<Icon name="firebrand"/>)
-    * <Skill id="42986"/> (<Skill id="42259"/> skill 1, <Icon name="firebrand"/>)
-    * <Skill id="44455"/> (<Skill id="42259"/> skill 5, <Icon name="firebrand"/>)
+    * <Skill id="42986"/> (<Skill id="42259" text="false" size="24"/> skill 1, <Icon name="firebrand"/>)
+    * <Skill id="44455"/> (<Skill id="42259" text="false" size="24"/> skill 5, <Icon name="firebrand"/>)
 * <Skill id="30029"/> (F3, <Icon name="dragonhunter"/>)
+</CardContent>
+</Card>
 
-## Elementalist
+<Card color="elementalist">
+<CardHeader>
+<Icon name="elementalist"/> Elementalist
+</CardHeader>
+<CardContent>
 * <Skill id="5641"/>
 * <Skill id="5554"/> and <Skill id="5564"/> (Downed state)
-* <Skill id="5521"/> (Focus 5, <Skill id="5495"/>
+* <Skill id="5521"/> (Focus 5, <Skill id="5495" text="false" size="24"/>
+</CardContent>
+</Card>
 
-## Thief
+<Card color="thief">
+<CardHeader>
+<Icon name="thief"/> Thief
+</CardHeader>
+<CardContent>
 * <Skill id="30661"/> (<Icon name="daredevil"/>)
 * <Skill id="30597"/> (Staff 5, <Icon name="daredevil"/>)
+</CardContent>
+</Card>
+
+
+</CardGroup>
