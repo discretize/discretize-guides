@@ -23,7 +23,7 @@ The second area is filled with *spinning lasers*. In exactly the same way as bef
 There are two options for completing the area:
 **Option 1:** Someone (usually a Tempest) teleports up to the first console room using <a href="/_/img/fractals/aetherblade-1.jpg">this spot</a> and disables the four consoles using condition cleanses. Meanwhile, the Mesmer places a portal at the ground level, teleports two times to the second level and opens the portal for the remaining party.    
 If you are fast enough, you can disable the consoles in the second room together before the spinning lasers become active.    
-**Option 2:** Everyone except the console activator does <Command name="gg"/>. The activator teleports to the first level and activates the four consoles, then he does <Command name="gg"/> too. The party resurrects directly on the way up to the second level and activates the second set of consoles before the spinning lasers become active.
+**Option 2:** Everyone except the console activator does `/gg`. The activator teleports to the first level and activates the four consoles, then he does `/gg` too. The party resurrects directly on the way up to the second level and activates the second set of consoles before the spinning lasers become active.
 
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="29578"/>, <Skill id="10200"/> and <Skill id="10197"/> to teleport everyone up to the second level. Cast <Skill id="30305"/> or any Shatter skill with <Trait id="740"/> to remove <Condition name="immobile"/>.</Tip>

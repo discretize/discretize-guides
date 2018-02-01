@@ -222,6 +222,7 @@
         "id": "swampland",
         "header": "Swampland",
         "meta": "77, 89",
+        "image": "fractals/swampland/images/header.jpg",
         "api": 2892,
         "bosses": 1,
         "difficulties": [
@@ -707,7 +708,7 @@
       },
       {
         "id": "snowblind",
-        "image": "fractals/snowblind/images/iwQRWqf.jpg",
+        "image": "fractals/snowblind/images/header.jpg",
         "header": "Snowblind",
         "meta": "86, 93",
         "api": 2952,
@@ -768,11 +769,11 @@
           "cycle": "Night",
           "potions": [
             {
-              "id": 8885,    
+              "id": 8885,
               "description": "for the Elemental Source boss"
             },
             {
-              "id": 8883,    
+              "id": 8883,
               "description": "for the boss"
             }
           ],
@@ -958,6 +959,7 @@
         "id": "volcanic",
         "header": "Volcanic",
         "meta": "92",
+        "image": "fractals/volcanic/images/header.jpg",
         "api": 2989,
         "bosses": 2,
         "difficulties": [

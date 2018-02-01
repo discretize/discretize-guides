@@ -66,7 +66,7 @@ Requires high damage and depends on RNG as the blocking occurs at random times.
 ## Thaumanova Anomaly
 <Grid>
 <Column>
-After all four colliders are disabled, use <Command name="gg"/> to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="might"/>.    
+After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="might"/>.    
 During the fight, try to stack as much as possible on a single platform and alternate the special *Hex Shield* skill between players for her *Gaze* attack (the beam dissolving the platforms) and the *Cosmic Instability* debuff (occuring at 50%). The *Flux Bomb* debuff will also cause nearby platforms to disappear.
 </Column>
 

@@ -1,5 +1,5 @@
 ## Start
-Kill the four *Veteran Chanters* at the beginning to open the gate. The fastest person can rush ahead and move to the next checkpoint at the *Chaos Anomaly*, everyone else can <Command name="gg"/> and resurrect at the checkpoint there.
+Kill the four *Veteran Chanters* at the beginning to open the gate. The fastest person can rush ahead and move to the next checkpoint at the *Chaos Anomaly*, everyone else can `/gg` and resurrect at the checkpoint there.
 
 ---
 
