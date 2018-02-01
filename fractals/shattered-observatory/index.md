@@ -70,7 +70,7 @@ The central clone has the highest priority as it shoots additional damaging orbs
 
 After the CC phases are over, Artsariiv reappears in the middle of the platform and conjures an *Obliterate* attack and multiple orange void zones which need to be dodged. She also does her *Beaming Smile* attack similar to the start of the fight. Kill the respawned *Temporal Anomaly* and clones (optional) before switching to her again.
 
-Below 66% health, Artsariiv throws a large *Globolla Marble* from time to time which needs to be bounced back to her over nine locations. Failing to bounce usually results in a party wipe, choose a reliable player beforehand to solo this.
+Below 66% health, Artsariiv throws a large *Globolla Marble* from time to time which needs to be bounced back to her over nine locations. Failing to bounce usually results in a party wipe, choose a reliable player beforehand to solo this (usually a Warrior).
 
 After the fight is over, take the portal in the North and move forward to get to Arkk.
 
@@ -116,7 +116,8 @@ After every Solar Bloom phase, Arkk's defiance bar has to be broken immediately 
 
 #### Elite Bosses *70%, 40%*
 At 70% and 40% of Arkk's health, the party gets teleported to another dimension where you have to fight the *Elite Archdiviner* from the Cliffside fractal and the *Elite Brazen Gladiator* from the Chaos fractal respectively.    
-Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Try to kill the adds before finishing the boss as they follow you back to Arkk. Remember the party-wide <Control name="daze"/> if the third auto-attack of the Gladiator hits someone.
+Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Try to kill the adds before finishing the boss as they follow you back to Arkk. Remember the party-wide <Control name="daze"/> if the third auto-attack of the Gladiator hits someone. The *Elite Brazen Gladiator* does his huge pull, then swirl skill after 50%, so prepare your `Nova Launch` skill to break his breakbar.    
+
 
 #### Final phase *<40%*
 Below 40% health, random platforms start disappearing temporarily. Due to this mechanic, space is very limited and resurrecting a downed player is nearly impossible.
@@ -124,8 +125,7 @@ Sometimes *Temporal Anomalies* spawn on vanished platforms which makes the fight
 The most important thing is to keep calm. Remember that every single ability can be avoided, reflect and jump over the *Solar Fury* orbs, jump or dodge through the *Starburst Cascade* and *Solar Stomp *attacks, turn away from the *Blinding Radiance* and move accordingly to the *Horizon Strike* pattern. If you dont have any dodges left, use your `Nova Launch` skill to counter mechanics. Keep a cool head and finish the fight!
 
 <Tips>
-    <Tip specialization="chronomancer">Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. You can alternate between reflects and invulnerables to completely negate mechanics. Remembed to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and bypass mechanics like *Solar Fury*.</Tip>
-    <Tip specialization="thief">Use <Skill id="14184"/> against the *Solar Orbs*.</Tip>
-    <Tip specialization="firebrand">Use <Skill id="9251"/> against the orbs.<br/>Killing a *Temporal Anomaly* or any of the Elite Boss adds recharges your <Skill id="44364"/>.</Tip>
-    <Tip specialization="druid">You can consider running a more defensive setup with <Skill id="12495"/> for <Boon name="protection"/>.</Tip>
+    <Tip specialization="chronomancer">Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. You can alternate between reflects and invulnerables to completely negate mechanics. Remembed to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and bypass mechanics like *Solar Fury*.<br>Use <Skill id="10363"/> to pull mobs together at 70% and 40% (other party member use `Nova Launch` skill to pull mobs closer so mesmer can pull all 4 of them).</Tip>
+    <Tip specialization="weaver">Both Weavers must focus on anomalies, putting a <Skill id="5548"/> under them is usually enough.</Tip>
+    <Tip specialization="druid">You can consider running a more defensive setup with <Skill id="12595"/> for <Boon name="protection"/>,, but not even that can help if you ignore mechanics.</Tip>
 </Tips>
