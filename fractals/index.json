@@ -181,7 +181,7 @@
     "items": [
       {
         "id": "aquatic-ruins",
-        "image": "fractals/images/aquatic-ruins.jpg",
+        "image": "fractals/aquatic-ruins/images/header.jpg",
         "header": "Aquatic Ruins",
         "meta": "76",
         "api": 2956,
