@@ -9,7 +9,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
 
 ## <Boon name="might"/> stacking for advanced groups
 
-* <Icon name="weaver"/> Weaver: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" text="false" size="24"/>/<Skill id="5492" text="false" size="24"/>
+* <Icon name="weaver"/> Weaver: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" text="false" size="24"/> / <Skill id="5492" text="false" size="24"/>
 * <Icon name="warrior"/> Warrior: <Skill id="14405"/> and <Skill id="14407"/> (Druid picks up one)   
 * <Icon name="druid"/> Druid: <Skill id="12621"/> (Warhorn 5) and <Skill id="31535"/> (Staff 3)    
 * <Icon name="mesmer"/> Mesmer: <Skill id="10285"/> (Torch 4)
@@ -18,11 +18,11 @@ Below is a list of frequently used blast finishers among all professions. Note t
 
 ## <Boon name="might"/> stacking if you are alone
 * <Icon name="weaver"/> Weaver:    
-  * Start on Scepter/Dagger <Skill id="5492" text="false" size="24"/>/<Skill id="5492" text="false" size="24"/>    
+  * Start on Scepter/Dagger <Skill id="5492" text="false" size="24"/>/ <Skill id="5492" text="false" size="24"/>    
   * <Skill id="5692"/> (Scepter 2)    
   * <Skill id="5691"/> (Dagger 4)    
   * <Skill id="5675"/> (Scepter 3)    
-  * Swap to earth and Sword <Skill id="5495" text="false" size="24"/>/<Skill id="5492" text="false" size="24"/>    
+  * Swap to earth and Sword <Skill id="5495" text="false" size="24"/> / <Skill id="5492" text="false" size="24"/>    
   * <Skill id="40709"/> (Sword 2)    
   * Swap to earth <Skill id="5495" text="false" size="24"/> / <Skill id="5495" text="false" size="24"/>    
   * <Skill id="5690"/> (Dagger 4)    
@@ -78,3 +78,5 @@ Below is a list of regularly used *Smoke Field* skills. Be careful not to aggro 
     * <Skill id="10245"/>    
     * <Skill id="10187"/>    
     * Double any skill with <Skill id="29830"/> (<Icon name="chronomancer"/>)
+* <Icon name="thief"/>:    
+    * <Skill id="13117"/>  
