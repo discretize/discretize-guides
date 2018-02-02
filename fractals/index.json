@@ -37,33 +37,26 @@
               "name": "Van Gherwen",
               "specialization": "Chronomancer"
             },
-          
-
             {
               "id": "gP1yv1Pffzg",
               "name": "Derpy Moa",
               "specialization": "Druid"
             },
-          
-
             {
               "id": "TOautynEh6o",
               "name": "Muto",
               "specialization": "Berserker"
             },
-
             {
               "id": "E6695pbGu8",
               "name": "Roul",
               "specialization": "Tempest"
             },
-
             {
               "id": "CsTSgY5gyUI",
               "name": "Breke",
               "specialization": "Tempest"
-            },
-
+            }
           ]
         },
         "details": {
@@ -131,33 +124,26 @@
               "name": "Van Gherwen",
               "specialization": "Chronomancer"
             },
-          
-
             {
               "id": "gP1yv1Pffzg",
               "name": "Derpy Moa",
               "specialization": "Druid"
             },
-          
-
             {
               "id": "phbHkROKlm8",
               "name": "Muto",
               "specialization": "Berserker"
             },
-
             {
               "id": "ME2QF0X_NJo",
               "name": "hint",
               "specialization": "Tempest"
             },
-
             {
               "id": "RLkDIlMEx8U",
               "name": "Roul",
               "specialization": "Dragonhunter"
-            },
-
+            }
           ]
         },
         "details": {
@@ -276,6 +262,7 @@
         "id": "swampland",
         "header": "Swampland",
         "meta": "77, 89",
+        "image": "fractals/swampland/images/header.jpg",
         "api": 2892,
         "bosses": 1,
         "difficulties": [
@@ -366,7 +353,7 @@
           "time": "4:50",
           "by": {
             "name": "Happens",
-            "tag": "[hp]"
+            "tag": "[hP]"
           },
           "youtube": [
             {
@@ -448,7 +435,7 @@
           "time": "3:16",
           "by": {
             "name": "Happens",
-            "tag": "[hp]"
+            "tag": "[hP]"
           },
           "youtube": [
             {
@@ -551,8 +538,8 @@
         "record": {
           "time": "3:52",
           "by": {
-            "name": "quanTify",
-            "tag": "[qt]"
+            "name": "Quantify",
+            "tag": "[qT]"
           },
           "youtube": [
             {
@@ -569,7 +556,8 @@
               "id": "GsPXlgXHAZI",
               "name": "Fennec",
               "specialization": "berserker"
-            },
+            }
+          ]
         },
         "details": {
           "cycle": "Night",
@@ -650,7 +638,7 @@
           "time": "4:29",
           "by": {
             "name": "Happens",
-            "tag": "[hp]"
+            "tag": "[hP]"
           },
           "youtube": [
             {
@@ -662,7 +650,7 @@
               "id": "3iqOCAT23S8",
               "name": "Simon BFH",
               "specialization": "tempest"
-            },
+            }
           ]
         },
         "details": {
@@ -758,7 +746,7 @@
           "time": "3:33",
           "by": {
             "name": "Happens",
-            "tag": "[hp]"
+            "tag": "[hP]"
           },
           "youtube": [
             {
@@ -805,7 +793,7 @@
       },
       {
         "id": "snowblind",
-        "image": "fractals/snowblind/images/iwQRWqf.jpg",
+        "image": "fractals/snowblind/images/header.jpg",
         "header": "Snowblind",
         "meta": "86, 93",
         "api": 2952,
@@ -866,11 +854,11 @@
           "cycle": "Night",
           "potions": [
             {
-              "id": 8885,    
+              "id": 8885,
               "description": "for the Elemental Source boss"
             },
             {
-              "id": 8883,    
+              "id": 8883,
               "description": "for the boss"
             }
           ],
@@ -971,14 +959,14 @@
           "time": "5:20",
           "by": {
             "name": "Quantify",
-            "tag": "[qt]"
+            "tag": "[qT]"
           },
           "youtube": [
             {
               "id": "MV2Byim0PWU",
               "name": "Deathlyhearts",
               "specialization": "chronomancer"
-            },
+            }
           ]
         },
         "details": {
@@ -1056,6 +1044,7 @@
         "id": "volcanic",
         "header": "Volcanic",
         "meta": "92",
+        "image": "fractals/volcanic/images/header.jpg",
         "api": 2989,
         "bosses": 2,
         "difficulties": [
@@ -1076,14 +1065,14 @@
           "time": "3:48",
           "by": {
             "name": "Quantify",
-            "tag": "[qt]"
+            "tag": "[qT]"
           },
           "youtube": [
             {
               "id": "MV2Byim0PWU",
               "name": "Deathlyhearts",
               "specialization": "chronomancer"
-            },
+            }
           ]
         },
         "details": {
@@ -1194,7 +1183,7 @@
               "id": "VkfhMuvB4a0",
               "name": "Guts",
               "specialization": "Chronomancer"
-            },
+            }
           ]
         },
         "details": {
