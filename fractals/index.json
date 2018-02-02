@@ -403,7 +403,7 @@
       },
       {
         "id": "uncategorized",
-        "image": "fractals/images/uncategorized.jpg",
+        "image": "fractals/uncategorized/images/header.jpg",
         "header": "Uncategorized",
         "meta": "79, 91",
         "api": 2939,
