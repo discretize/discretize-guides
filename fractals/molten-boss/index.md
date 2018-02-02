@@ -4,7 +4,7 @@ Since the 2017. november 28th patch, this fractal has been reworked and now you 
 ---
 
 ## Molten Effigy
-Since the 2017. november 28th patch, this boss is not immune to <Condition name="burning"/> anymore.  Use interrupts or reflects against the *Firestorm* attack and cleave the group of mobs around it. The moment you killed the Effigy, you can move on to the next two Elites, kill them and the steam blocking the path is no longer there. Kill the group of mobs before the gate to open it, then kill the 6 mob before the boss platform to move the bridge up. Move into the arena, then use `/gg` to reset cooldowns, move into the arena again. 
+Since the 2017. november 28th patch, this boss is not immune to <Condition name="burning"/> anymore.  Use interrupts or reflects against the *Firestorm* attack and cleave the group of mobs around it. The moment you killed the Effigy, you can move on to the next two Elites, kill them and the steam blocking the path is no longer there. Kill the group of mobs before the gate to open it, then kill the 6 mob before the boss platform to move the bridge up. Get into the arena, then use `/gg` to reset cooldowns, walk into the arena again. 
 
 ---
 
