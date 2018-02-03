@@ -262,7 +262,7 @@
         "id": "swampland",
         "header": "Swampland",
         "meta": "77, 89",
-        "image": "fractals/swampland/images/header.jpg",
+        "image": "fractals/swampland/images/bloomhunger_spirit_onslaught.jpg",
         "api": 2892,
         "bosses": 1,
         "difficulties": [
@@ -606,7 +606,7 @@
       },
       {
         "id": "cliffside",
-        "image": "fractals/images/cliffside.jpg",
+        "image": "fractals/cliffside/images/header.jpg",
         "header": "Cliffside",
         "meta": "82, 94",
         "api": 2930,

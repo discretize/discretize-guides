@@ -1,5 +1,6 @@
 ## Running the wisps
 <Grid>
+<Row>
 <Column>
 Trigger the start event by walking to the three *Wisp Clefts* in the South. Wait for three players to be ready at each of the randomly spawned Wisps, usually indicated by typing `ready` in chat. Count down to go and deliver the Wisps to the Clefts within 30 seconds while avoiding <Condition name="stun"/>, <Condition name="immobile"/> and <Condition name="crippled"/> from the spike, wire and hunting traps on the ground.
 
@@ -11,6 +12,7 @@ The remaining two players can take the *Invigorator Rifle Prototypes* from the g
 <Column width="6" compact>
 <Image src="fractals/swampland/images/the_three_wisp_clefts.jpg" title="The three wisp clefts" compact/>
 </Column>
+</Row>
 </Grid>
 
 <Tips>
