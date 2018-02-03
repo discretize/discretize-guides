@@ -18,7 +18,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
 
 ## <Boon name="might"/> stacking if you are alone
 * <Icon name="weaver"/> Weaver:    
-  * Start on Scepter/Dagger <Skill id="5492" text="false" size="24"/>/ <Skill id="5492" text="false" size="24"/>    
+  * Start on Scepter/Dagger <Skill id="5492" text="false" size="24"/> / <Skill id="5492" text="false" size="24"/>    
   * <Skill id="5692"/> (Scepter 2)    
   * <Skill id="5691"/> (Dagger 4)    
   * <Skill id="5675"/> (Scepter 3)    
@@ -78,5 +78,5 @@ Below is a list of regularly used *Smoke Field* skills. Be careful not to aggro 
     * <Skill id="10245"/>    
     * <Skill id="10187"/>    
     * Double any skill with <Skill id="29830"/> (<Icon name="chronomancer"/>)
-* <Icon name="thief"/>:    
+* <Icon name="thief"/> Thief:   
     * <Skill id="13117"/>  
