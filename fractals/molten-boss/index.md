@@ -1,4 +1,4 @@
-## De Way to Molten Effigy
+## The way to the Molten Effigy
 Since the 2017. november 28th patch, this fractal has been reworked and now you have to walk alot, skipping the groups of mobs on your way. When u reach the first path block (a firewall maintained by the Elite Smoke Shaman). Kill the Shaman to destroy the firewall blocking the way, then progress to the next Elite Flame Shaman, he is <Effect name="invulnerability"/> until you kill the Resonator it is connected to, then he gains a breakbar, break it, kill him. Stack <Boon name="might"/> on the bridge and move on to the Effigy.
 
 ---
