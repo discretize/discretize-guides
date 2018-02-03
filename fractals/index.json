@@ -321,7 +321,7 @@
       },
       {
         "id": "urban-battlegrounds",
-        "image": "fractals/images/urban-battlegrounds.jpg",
+        "image": "fractals/urban-battlegrounds/images/header.jpg",
         "header": "Urban Battlegrounds",
         "meta": "78, 85",
         "api": 2941,
@@ -648,7 +648,12 @@
             },
             {
               "id": "3iqOCAT23S8",
-              "name": "Simon BFH",
+              "name": "Simon",
+              "specialization": "tempest"
+            },
+            {
+              "id": "fqK7UO-6R7M",
+              "name": "Goni",
               "specialization": "tempest"
             }
           ]
