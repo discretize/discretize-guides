@@ -1,0 +1,25 @@
+[
+  {
+    "name": "The Newbro Corner",
+    "itemsPerRow": 1,
+    "items": {
+      "fractal-basics": {
+        "header": "Welcome to the newbros' corner!",
+        "description": "This is some example description text that doesn't belong to a guide",
+        "isGuide": false
+      },
+      "consumables": {
+        "header": "Consumables",
+        "description": ""
+      },
+      "damage-mitigation": {
+        "header": "Damage Mitigation",
+        "description": ""
+      },
+      "blast-stacking": {
+        "header": "Blast Stacking",
+        "description": ""
+      }
+    }
+  }
+]
