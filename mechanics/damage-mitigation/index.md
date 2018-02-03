@@ -46,7 +46,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 <CardContent>
 * <Skill id="9251"/>
 * <Skill id="9107"/> (Sword 3)
-* <Skill id="41836"/> (<Skill id="42259" text="false" size="24"/>, <Icon name="firebrand"/>)
+* <Skill id="42259"/> Skill 3 (<Icon name="firebrand"/>)
 </CardContent>
 </Card>
 
@@ -119,8 +119,8 @@ Below is a list of commonly used defensive skills:
     * <Skill id="9118"/> and <Skill id="42259"/> (<Icon name="firebrand"/>) (periodically)
     * <Skill id="9084"/>
     * <Skill id="41475"/> (<Icon name="firebrand"/>)
-    * <Skill id="42986"/> (<Skill id="42259" text="false" size="24"/> skill 1, <Icon name="firebrand"/>)
-    * <Skill id="44455"/> (<Skill id="42259" text="false" size="24"/> skill 5, <Icon name="firebrand"/>)
+    * <Skill id="42259"/> Skill 1 (Icon name="firebrand"/>)
+    * <Skill id="42259"/> Skill 5 (Icon name="firebrand"/>)
 * <Skill id="30029"/> (F3, <Icon name="dragonhunter"/>)
 </CardContent>
 </Card>
