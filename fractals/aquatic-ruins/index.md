@@ -7,7 +7,7 @@ This is an underwater fractal. Make sure you have approriate underwater equipmen
 
 ---
 
-## Save the villagers <Item id="50082" text="false" size="24"/><Item id="24658" text="false" size="24"/>
+## Save the villagers <Item id="50082" text="false"/><Item id="24658" text="false"/>
 <Grid>
 <Column>
 You can stack <Boon name="might"/> on the rack before entering the water. Kill the three groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
@@ -16,7 +16,7 @@ You can stack <Boon name="might"/> on the rack before entering the water. Kill t
     <Tip specialization="mesmer">Use <Skill id="10255"/> to group up Krait. You can place a <Skill id="10197"/> on the rack and open it with <Skill id="29578"/> underwater to not loose time while the others stack <Boon name="might"/>. You can place another one at the 2nd cage, swim ahead and open it at the 3rd cage. Place a <Skill id="10325"/> to give a speed bost the the whole party.</Tip>
     <Tip specialization="warrior">Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="fury"/> and <Boon name="might"/>, since the Druid can't get into <Skill id="33557"/> as often as on land.</Tip>
     <Tip specialization="tempest">Retrait to Tempest for this fractal, as it is one of the best choices for underwater combat. Trait <Trait id="1503"/> to maximize dps.</Tip>
-    <Tip specialization="ranger">Retrait Druid to Marksmanship for <Trait id="986"/> and swap to <Trait id="965"/> in Nature Magic. Run five spirits (<Skill id="21773" text="false" size="24"/><Skill id="12497" text="false" size="24"/><Skill id="12493" text="false" size="24"/><Skill id="12498" text="false" size="24"/><Skill id="12569" text="false" size="24"/>) for easy boon application with <Trait id="1038"/>.</Tip>
+    <Tip specialization="ranger">Retrait Druid to Marksmanship for <Trait id="986"/> and swap to <Trait id="965"/> in Nature Magic. Run five spirits (<Skill id="21773" text="false"/><Skill id="12497" text="false"/><Skill id="12493" text="false"/><Skill id="12498" text="false"/><Skill id="12569" text="false"/>) for easy boon application with <Trait id="1038"/>.</Tip>
 </Tips>
 
 </Column>

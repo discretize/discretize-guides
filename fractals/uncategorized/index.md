@@ -42,7 +42,7 @@ Walk past the three Harpies (no <Effect name="stealth"/> needed) and run up the 
 
 <Row>
 <Column>
-## <Boss/> Old Tom <Item id="8887" text="false" size="24"/><Item id="24672" text="false" size="24"/>
+## <Boss/> Old Tom <Item id="8887" text="false"/><Item id="24672" text="false"/>
 
 Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken.
 
@@ -60,7 +60,7 @@ Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful w
 
 ---
 
-## <Boss red/> Raving Asura <Item id="8887" text="false" size="24"/><Item id="24672" text="false" size="24"/>
+## <Boss red/> Raving Asura <Item id="8887" text="false"/><Item id="24672" text="false"/>
 <Grid>
 <Column>
 If noone did a portal to above, stack <Effect name="stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal.

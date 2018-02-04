@@ -9,7 +9,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
 
 ## <Boon name="might"/> stacking for advanced groups
 
-* <Icon name="weaver"/> Weaver: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" text="false" size="24"/> / <Skill id="5492" text="false" size="24"/>
+* <Icon name="weaver"/> Weaver: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" text="false"/> / <Skill id="5492" text="false"/>
 * <Icon name="warrior"/> Warrior: <Skill id="14405"/> and <Skill id="14407"/> (Druid picks up one)   
 * <Icon name="druid"/> Druid: <Skill id="12621"/> (Warhorn 5) and <Skill id="31535"/> (Staff 3)    
 * <Icon name="mesmer"/> Mesmer: <Skill id="10285"/> (Torch 4)
@@ -18,13 +18,13 @@ Below is a list of frequently used blast finishers among all professions. Note t
 
 ## <Boon name="might"/> stacking if you are alone
 * <Icon name="weaver"/> Weaver:    
-  * Start on Scepter/Dagger <Skill id="5492" text="false" size="24"/> / <Skill id="5492" text="false" size="24"/>    
+  * Start on Scepter/Dagger <Skill id="5492" text="false"/> / <Skill id="5492" text="false"/>    
   * <Skill id="5692"/> (Scepter 2)    
   * <Skill id="5691"/> (Dagger 4)    
   * <Skill id="5675"/> (Scepter 3)    
-  * Swap to earth and Sword <Skill id="5495" text="false" size="24"/> / <Skill id="5492" text="false" size="24"/>    
+  * Swap to earth and Sword <Skill id="5495" text="false"/> / <Skill id="5492" text="false"/>    
   * <Skill id="40709"/> (Sword 2)    
-  * Swap to earth <Skill id="5495" text="false" size="24"/> / <Skill id="5495" text="false" size="24"/>    
+  * Swap to earth <Skill id="5495" text="false"/> / <Skill id="5495" text="false"/>    
   * <Skill id="5690"/> (Dagger 4)    
   * <Skill id="5522"/> (Dagger 5)    
   * Swap to Focus   
@@ -48,10 +48,10 @@ Below is a list of frequently used blast finishers among all professions. Note t
 Below is a list of commonly used *Fire Field* skills. **Make sure that everyone is back on their main weapon set before starting a fight.**
 
 * <Icon name="elementalist"/> Elementalist:    
-    * <Skill id="5548"/> (Staff 2, <Skill id="5492" text="false" size="24"/>)    
-    * <Skill id="5691"/> (Dagger 4, <Skill id="5492" text="false" size="24"/>)     
-    * <Skill id="5497"/> (Focus 4, <Skill id="5492" text="false" size="24"/>)    
-    * <Skill id="29533"/> (Warhorn 5, <Skill id="5492" text="false" size="24"/>, <Icon name="tempest"/>)
+    * <Skill id="5548"/> (Staff 2, <Skill id="5492" text="false"/>)    
+    * <Skill id="5691"/> (Dagger 4, <Skill id="5492" text="false"/>)     
+    * <Skill id="5497"/> (Focus 4, <Skill id="5492" text="false"/>)    
+    * <Skill id="29533"/> (Warhorn 5, <Skill id="5492" text="false"/>, <Icon name="tempest"/>)
 
 * <Icon name="berserker"/> Warrior:    
     * <Skill id="29940"/> (Torch 5)

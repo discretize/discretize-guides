@@ -55,12 +55,12 @@ Situational
 <CardContent>
 | | |
 | -- | -- |
-| <Trait id="2115" text="false"/> | Can be considered for some extra health if you are at 100% critical chance without <Trait id="2177"/>. |
-| <Skill id="5536" text="false"/> | A 900 range teleport, sufficient for most blink spots. |
-| <Skill id="5507" text="false"/> | An alternative healing skill providing a stronger condition cleanse. |
-| <Skill id="5624" text="false"/> | Is better on small hitboxes compared to <Skill id="5567"/>. |
-| <Skill id="5539" text="false"/> | Another strong DPS option on small hitboxes, especially if the fight is too short to make use of additional conjured weapons. |
-| <Skill id="5638" text="false"/> | Deals the same damage as <Skill id="5539"/> with a higher cooldown and less charges, but affects up to five targets. Useful in short fights with adds. |
+| <Trait id="2115" size="big" text="false"/> | Can be considered for some extra health if you are at 100% critical chance without <Trait id="2177"/>. |
+| <Skill id="5536" size="big" text="false"/> | A 900 range teleport, sufficient for most blink spots. |
+| <Skill id="5507" size="big" text="false"/> | An alternative healing skill providing a stronger condition cleanse. |
+| <Skill id="5624" size="big" text="false"/> | Is better on small hitboxes compared to <Skill id="5567"/>. |
+| <Skill id="5539" size="big" text="false"/> | Another strong DPS option on small hitboxes, especially if the fight is too short to make use of additional conjured weapons. |
+| <Skill id="5638" size="big" text="false"/> | Deals the same damage as <Skill id="5539"/> with a higher cooldown and less charges, but affects up to five targets. Useful in short fights with adds. |
 </CardContent>
 </Card>
 </Column>
