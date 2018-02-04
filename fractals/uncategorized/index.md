@@ -4,7 +4,7 @@
 
 **Option 1 (recommended):** The whole party stacks <Effect name="stealth"/> and skips together until the holding area. If a single Harpy spawned immediately at the begin, you can kill it before stealthing.
 
-**Option 2:** The Mesmer (or anyone with a <Item id="78978"/>) skips alone and teleports the team to the holding area.
+**Option 2:** The <Specialization name="mesmer"/> (or anyone with a <Item id="78978"/>) skips alone and teleports the team to the holding area.
 
 ## <Boss/> Holding Area
 Stack <Boon name="might"/> before destroying the *Power Generator*, then kill the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's *Massive Smash* attack. Reflects are strong here as well, especially against the Fire Shaman's projectiles.
@@ -17,7 +17,8 @@ Stack <Boon name="might"/> before destroying the *Power Generator*, then kill th
 <Column width="7" compact>
 <Tips>
     <Tip specialization="mesmer">You can give easy party <Effect name="stealth"/> with <Skill id="10245"/> and <Trait id="674"/> at the cost of a elite skill slot.</Tip>    
-    <Tip specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.<br/><Skill id="14184"/> is also useful against the Holding Area bosses.</Tip>
+    <Tip specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.    
+        <Skill id="14184"/> is also useful against the Holding Area bosses.</Tip>
     <Tip specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.</Tip>
 </Tips>
 
@@ -50,9 +51,11 @@ Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful w
 </Column>
 <Column>
 <Tips>
-    <Tip specialization="mesmer">**Pro tip**: Immediately after the holding area, use <Item id="49940"/> and <Skill id="10200"/> up to the upper level from below. Take [this shortcut](https://youtu.be/xFfz0Erv-5c?t=34s) to the Raving Asura and place a portal before jumping down and killing Old Tom. Open the portal afterwards and don't forget to trigger the "Reach the top" checkpoint to prevent the fractal from bugging.<br/>**Actually, anyone can do this and trigger the checkpoint.**</Tip>
+    <Tip specialization="mesmer">**Pro tip**: Immediately after the holding area, use <Item id="49940"/> and <Skill id="10200"/> up to the upper level from below. Take [this shortcut](https://youtu.be/xFfz0Erv-5c?t=34s) to the Raving Asura and place a portal before jumping down and killing Old Tom. Open the portal afterwards and don't forget to trigger the "Reach the top" checkpoint to prevent the fractal from bugging.    
+        **Actually, anyone can do this and trigger the checkpoint.**</Tip>
     <Tip specialization="ranger">A <Skill id="12489"/> traited with <Trait id="1075"/> almost nullifies the Poison from the green projectiles, it also helps against <Instability name="Afflicted"/>.</Tip>
-    <Tip specialization="guardian">You can use <Skill id="30783"/> to bypass the jumping puzzle.<br/>Other skills that work are <Skill id="9080"/>, <Skill id="14366"/> or <Skill id="45230"/> but those require some aiming.</Tip>
+    <Tip specialization="guardian">You can use <Skill id="30783"/> to bypass the jumping puzzle.    
+        Other skills that work are <Skill id="9080"/>, <Skill id="14366"/> or <Skill id="45230"/> but those require some aiming.</Tip>
 </Tips>
 </Column>
 </Row>

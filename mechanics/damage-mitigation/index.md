@@ -7,7 +7,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <Card color="mesmer">
 <CardHeader>
-<Icon name="mesmer"/> Mesmer
+<Specialization name="mesmer"/>
 </CardHeader>
 <CardContent>
 * <Skill id="10302"/>, best used during <Skill id="29830"/> (<Icon name="chronomancer"/>)
@@ -19,7 +19,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <Card color="elementalist">
 <CardHeader>
-<Icon name="elementalist"/> Elementalist
+<Specialization name="elementalist"/>
 </CardHeader>
 <CardContent>
 * <Skill id="5685"/> (Staff 3, <Skill id="5495" text="false"/>) and any other skill that applies it
@@ -31,7 +31,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <Card color="ranger">
 <CardHeader>
-<Icon name="ranger"/> Ranger
+<Specialization name="ranger"/>
 </CardHeader>
 <CardContent>
 * <Skill id="31496"/> (Staff 5, <Icon name="druid"/>
@@ -41,7 +41,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <Card color="guardian">
 <CardHeader>
-<Icon name="guardian"/> Guardian
+<Specialization name="guardian"/>
 </CardHeader>
 <CardContent>
 * <Skill id="9251"/>
@@ -52,7 +52,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <Card color="thief">
 <CardHeader>
-<Icon name="thief"/> Thief
+<Specialization name="thief"/>
 </CardHeader>
 <CardContent>
 * <Skill id="14184"/>
@@ -62,7 +62,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <Card color="warrior">
 <CardHeader>
-<Icon name="warrior"/> Warrior
+<Specialization name="warrior"/>
 </CardHeader>
 <CardContent>
 * <Skill id="30074"/> (<Icon name="berserker"/>)
@@ -83,7 +83,7 @@ Below is a list of commonly used defensive skills:
 
 <Card color="mesmer">
 <CardHeader>
-<Icon name="mesmer"/> Mesmer
+<Specialization name="mesmer"/>
 </CardHeader>
 <CardContent>
 * <Skill id="10192"/> (F4), trait <Trait id="1852"/> to share any distortion you gain with allies (5 seconds internal cooldown)
@@ -97,7 +97,7 @@ Below is a list of commonly used defensive skills:
 
 <Card color="warrior">
 <CardHeader>
-<Icon name="warrior"/> Warrior
+<Specialization name="warrior"/>
 </CardHeader>
 <CardContent>
 * <Skill id="30074"/> (<Icon name="berserker"/>)
@@ -110,7 +110,7 @@ Below is a list of commonly used defensive skills:
 
 <Card color="guardian">
 <CardHeader>
-<Icon name="guardian"/> Guardian
+<Specialization name="guardian"/>
 </CardHeader>
 <CardContent>
 * <Skill id="9102"/>
@@ -127,7 +127,7 @@ Below is a list of commonly used defensive skills:
 
 <Card color="elementalist">
 <CardHeader>
-<Icon name="elementalist"/> Elementalist
+<Specialization name="elementalist"/>
 </CardHeader>
 <CardContent>
 * <Skill id="5641"/>
@@ -138,7 +138,7 @@ Below is a list of commonly used defensive skills:
 
 <Card color="thief">
 <CardHeader>
-<Icon name="thief"/> Thief
+<Specialization name="thief"/>
 </CardHeader>
 <CardContent>
 * <Skill id="30661"/> (<Icon name="daredevil"/>)

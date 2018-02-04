@@ -1,10 +1,10 @@
 ## Start <Item id="8890" text="false"/><Item id="36053" text="false"/><Item id="24648" text="false"/>
 <Grid>
 <Column>
-While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Icon name="warrior"/> **Warrior** after placing banners) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can `/gg` after the section is completed and resurrect to skip the Boulder passage.
+While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="warrior"/> after placing banners) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can `/gg` after the section is completed and resurrect to skip the Boulder passage.
 
 <Tips>
-    <Tip specialization="elementalist">Time your <Skill id="5738"/> with the other Elementalist to reduce incoming damage.</Tip>
+    <Tip specialization="elementalist">Time your <Skill id="5738"/> with the other <Specialization name="elementalist"/> to reduce incoming damage.</Tip>
 </Tips>
 
 </Column>
@@ -25,7 +25,8 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 
 <Tips>
     <Tip specialization="mesmer">If you still have your *Mistlock Singularity*, you can place a <Skill id="10197"/> during the fight and jump down into the lava. The singularity will prevent the death from falling, keep jumping afterwards (the lava doesn't harm you if you jump repeatedly) to reach the final platform and open the portal there once the Grawl Shaman is finished. Keep in mind that you have to reach the platform before he reaches 25% health, otherwise you will die during the following cutscene.</Tip>
-    <Tip specialization="weaver">Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the *Veteran Grawl Shamans* in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>.<br/>If everybone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on. </Tip>
+    <Tip specialization="weaver">Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the *Veteran Grawl Shamans* in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>.    
+        If everybone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.</Tip>
 
 </Tips>
 

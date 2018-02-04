@@ -17,7 +17,7 @@ Every 25%, Mai Trin disappears and additional enemies will spawn while fiery can
 <Column>
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="10267"/> for a strong periodic party condition clear.</Tip>
-    <Tip specialization="druid">Trait <Trait id="1075"/> and use <Skill id="12489"/> for additional condition clears.    
+    <Tip specialization="druid">Trait <Trait id="1075"/> and use <Skill id="12489"/> for additional condition clears.        
     Also change <Skill id="12497"/> to <Skill id="12495"/> to reduce incoming damage from spawning mobs every phase.    
     Use <Skill id="31496"/> (Staff 5) to absorbs Horrik's cannon aoe.</Tip>
 </Tips>

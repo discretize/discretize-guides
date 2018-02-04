@@ -65,7 +65,8 @@ At 75%, 50% and 25% you will need to kill a summoned *Icebrood Effigy*. Basicall
 
 <Column>
 <Tips>
-    <Tip specialization="chronomancer">Use <Skill id="29526"/> if you have trouble with incoming damage. <Skill id="10302"/> is also a valid option.<br/>Pull all mobs together <Skill id="10363"/> whenever possible, usually when the *Icebrood Effigy* spawns.</Tip>
+    <Tip specialization="chronomancer">Use <Skill id="29526"/> if you have trouble with incoming damage. <Skill id="10302"/> is also a valid option.    
+        Pull all mobs together <Skill id="10363"/> whenever possible, usually when the *Icebrood Effigy* spawns.</Tip>
     <Tip specialization="druid">Cast <Skill id="31496"/> against the projectiles.</Tip>
 </Tips>
 </Column>
