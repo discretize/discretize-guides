@@ -2,7 +2,7 @@
 <MessageHeader>
 Disclaimer
 </MessageHeader>
-You will need an experienced Mesmer for this fractal or take double the time. The Mesmer should run <Skill id="10200"/>, <Skill id="29578"/>, <Skill id="10197"/>, <Skill id="10377"/> and <Trait id="752"/> until the end fight.
+You will need an experienced <Specialization name="mesmer"/> for this fractal or take double the time. The Mesmer should run <Skill id="10200"/>, <Skill id="29578"/>, <Skill id="10197"/>, <Skill id="10377"/> and <Trait id="752"/> until the end fight.
 </Message>
 
 ---
@@ -13,7 +13,7 @@ You will need an experienced Mesmer for this fractal or take double the time. Th
 
 Kill the Cultists but take the *Cultist Hammer* before finishing the last one to get a hammer charge.    
 Take the portal to above (...or walk) and destroy the two *Ankle Seals* using hammer `Skill 4`. Both sigils have to get hit two times, do not finish mobs unless you need a charge.    
-Use `/gg` afterwards and stay dead until the Mesmer reaches the Chest Seal.
+Use `/gg` afterwards and stay dead until the <Specialization name="mesmer"/> reaches the Chest Seal.
 </Column>
 
 <Column width="6" compact>
@@ -22,7 +22,9 @@ Use `/gg` afterwards and stay dead until the Mesmer reaches the Chest Seal.
 </Grid>
 
 <Tips>
-    <Tip specialization="mesmer">At the start, immediately blink forward and use <Effect name="stealth"/> to prevent aggro from the mobs. Place a <Skill id="10197"/>, walk upstairs while the others kill the mobs and open the portal in front of the *Ankle Seals*.<br/>Afterwards, wait at the gate for the others to finish the two seals, then rush ahead and use <Skill id="29578"/> with <Skill id="10200"/> and teleport twice to reach the next level.<br/>Keep walking until you reach the last wooden board, then `/gg` as well.</Tip>
+    <Tip specialization="mesmer">At the start, immediately blink forward and use <Effect name="stealth"/> to prevent aggro from the mobs. Place a <Skill id="10197"/>, walk upstairs while the others kill the mobs and open the portal in front of the *Ankle Seals*.    
+        Afterwards, wait at the gate for the others to finish the two seals, then rush ahead and use <Skill id="29578"/> with <Skill id="10200"/> and teleport twice to reach the next level.    
+        Keep walking until you reach the last wooden board, then `/gg` as well.</Tip>
     <Tip specialization="elementalist">Place a <Skill id="5516"/> near the next corridor to speed things up for the Mesmer.</Tip>
 </Tips>
 
@@ -50,7 +52,7 @@ It will take five hits to break the chest seal. If you see your Mesmer running a
 ## Arm Seals <Item id="8881" text="false"/><Item id="24678" text="false"/>
 <Grid>
 <Column>
-This is a matter of timing, so look out for the Mesmer and the hammer carrier. In a perfect world you have a charge left from below, then hit the *Right Arm Seal* once before killing the Veteran Cultist to gain another charge. Run to the *Left Arm Seal*.
+This is a matter of timing, so look out for the <Specialization name="mesmer"/> and the hammer carrier. In a perfect world you have a charge left from below, then hit the *Right Arm Seal* once before killing the Veteran Cultist to gain another charge. Run to the *Left Arm Seal*.
 
 During the portal jumping, keep Cultist's health as low as possible but **only finish them when a hammer charge is needed**. If the Mesmer runs out of portals and more are needed, use a <Item id="78978"/>. Ideally, both seals take three hits to be destroyed—two portals are more than enough.
 
@@ -63,7 +65,8 @@ Type `/gg` after finishing both seals and stay dead. If you wipe before both sea
 </Grid>
 
 <Tips>
-    <Tip specialization="chronomancer">Place a <Skill id="10197"/> at the *Right Arm Seal*. After walking to the *Left Arm Seal* together and hitting it, take the hammer and collect a charge before opening the portal. It is possible to hit the seals four times during one portal and destroy them both. Position the portal in front of the Seals and try to take it back during the <Control name="stun"/> after hitting a seal. You can use <Skill id="10200"/> as a stunbreak.</Tip>
+    <Tip specialization="chronomancer">Place a <Skill id="10197"/> at the *Right Arm Seal*. After walking to the *Left Arm Seal* together and hitting it, take the hammer and collect a charge before opening the portal.    
+        It is possible to hit the seals four times during one portal and destroy them both. Position the portal in front of the Seals and try to take it back during the <Control name="stun"/> after hitting a seal. You can use <Skill id="10200"/> as a stunbreak.</Tip>
     <Tip specialization="warrior">You can take the *Cultist Hammer* and use <Skill id="21815"/> during the Portal jumping to nullify the high incoming damage.</Tip>
     <Tip specialization="ranger">Again, <Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you.</Tip>
 </Tips>
@@ -74,12 +77,14 @@ Type `/gg` after finishing both seals and stay dead. If you wipe before both sea
 <Row>
 <Column width="6">
 ## The way up
-Do not resurrect yourself yet, wait for the Mesmer to finish his portal and do `/gg` himself again or you will be stuck with an useless Mesmer for the entire end fight.
+Do not resurrect yourself yet, wait for the <Specialization name="mesmer"/> to finish his portal and do `/gg` himself again or you will be stuck with an useless Mesmer for the entire end fight.
 </Column>
 
 <Column>
 <Tips>
-    <Tip specialization="mesmer">After the whole party `/gg`'ed, resurrect yourself and place a <Skill id="10197"/> at the revival position.<br/>Blink up to the Arch Diviner, open the portal and **walk away from it** before doing `/gg` again to reset your cooldowns. If you kill yourself on the portal it bugs and you'll have to keep <Skill id="10200"/> in your bar to follow your comrades.<br/>Now the whole party can resurrect and use the portal, type `go` in chat to indicate that. Before taking the portal on your own, switch your skills and traits back. This takes some timing to get right.</Tip>
+    <Tip specialization="mesmer">After the whole party `/gg`'ed, resurrect yourself and place a <Skill id="10197"/> at the revival position.    
+    Blink up to the Arch Diviner, open the portal and **walk away from it** before doing `/gg` again to reset your cooldowns. If you kill yourself on the portal it bugs and you'll have to keep <Skill id="10200"/> in your bar to follow your comrades.    
+    Now the whole party can resurrect and use the portal, type `go` in chat to indicate that. Before taking the portal on your own, switch your skills and traits back. This takes some timing to get right.</Tip>
 </Tips>
 </Column>
 </Row>>
