@@ -15,7 +15,7 @@ You can stack <Boon name="might"/> on the rack before entering the water. Kill t
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="10255"/> to group up Krait. You can place a <Skill id="10197"/> on the rack and open it with <Skill id="29578"/> underwater to not loose time while the others stack <Boon name="might"/>. You can place another one at the 2nd cage, swim ahead and open it at the 3rd cage. Place a <Skill id="10325"/> to give a speed bost the the whole party.</Tip>
     <Tip specialization="warrior">Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="fury"/> and <Boon name="might"/>, since the Druid can't get into <Skill id="33557"/> as often as on land.</Tip>
-    <Tip specialization="tempest">Retrait to Tempest for this fractal, as it is one of the best choices for underwater combat. Trait <Trait id="1503"/> to maximize dps.</Tip>
+    <Tip specialization="tempest">Retrait to Tempest for this fractal, as it is one of the best choices for underwater combat. Trait <Trait id="1503"/> and alternate between <Skill id="29719"/> (<Skill id="5494" text="false"/>) and <Skill id="5597"/> (<Skill id="5492" text="false"/>) to maximize dps.<br/>Use <Skill id="5602"/> to pull the Krait together.</Tip>
     <Tip specialization="ranger">Retrait Druid to Marksmanship for <Trait id="986"/> and swap to <Trait id="965"/> in Nature Magic. Run five spirits (<Skill id="21773" text="false"/><Skill id="12497" text="false"/><Skill id="12493" text="false"/><Skill id="12498" text="false"/><Skill id="12569" text="false"/>) for easy boon application with <Trait id="1038"/>.</Tip>
 </Tips>
 
@@ -55,7 +55,7 @@ Pull the Jellyfish Beast to the electrified cage at the bottom by LoSing him to 
     <Tips>
         <Tip specialization="chronomancer">Use a combination of <Skill id="29830"/>, <Skill id="10377"/>, <Skill id="29578"/>, <Skill id="10236"/> and <Trait id="1866"/> to easily keep up <Boon name="quickness"/> for the whole fight.<br/>Cast <Skill id="10318"/> against a cage for high damage.</Tip>
         <Tip specialization="warrior">Cast <Skill id="14480"/> against a cage for high damage.</Tip>
-        <Tip specialization="tempest">Cast <Skill id="5607"/> against a cage for high damage.</Tip>
+        <Tip specialization="elementalist">Cast <Skill id="5607"/> against a cage for high damage.</Tip>
     </Tips>
 </Column>
 </Grid>
