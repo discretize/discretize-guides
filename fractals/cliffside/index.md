@@ -9,7 +9,7 @@ You will need an experienced Mesmer for this fractal or take double the time. Th
 
 <Grid>
 <Column>
-## Start & Ankle Seals <Item id="8881" text="false" size="24"/><Item id="24678" text="false" size="24"/>
+## Start & Ankle Seals <Item id="8881" text="false"/><Item id="24678" text="false"/>
 
 Kill the Cultists but take the *Cultist Hammer* before finishing the last one to get a hammer charge.    
 Take the portal to above (...or walk) and destroy the two *Ankle Seals* using hammer `Skill 4`. Both sigils have to get hit two times, do not finish mobs unless you need a charge.    
@@ -28,7 +28,7 @@ Use `/gg` afterwards and stay dead until the Mesmer reaches the Chest Seal.
 
 ---
 
-## Chest Seal <Item id="8881" text="false" size="24"/><Item id="24678" text="false" size="24"/>
+## Chest Seal <Item id="8881" text="false"/><Item id="24678" text="false"/>
 <Grid>
 <Column>
 As soon as the Mesmer did `/gg` too, everyone can resurrect and will respawn in front of the *Chest Seal* with a new *Cultist Hammer* ahead of you.    
@@ -47,7 +47,7 @@ It will take five hits to break the chest seal. If you see your Mesmer running a
 
 ---
 
-## Arm Seals <Item id="8881" text="false" size="24"/><Item id="24678" text="false" size="24"/>
+## Arm Seals <Item id="8881" text="false"/><Item id="24678" text="false"/>
 <Grid>
 <Column>
 This is a matter of timing, so look out for the Mesmer and the hammer carrier. In a perfect world you have a charge left from below, then hit the *Right Arm Seal* once before killing the Veteran Cultist to gain another charge. Run to the *Left Arm Seal*.
@@ -86,7 +86,7 @@ Do not resurrect yourself yet, wait for the Mesmer to finish his portal and do `
 
 <Row>
 <Column>
-## <Boss red/> Arch Diviner <Item id="8881" text="false" size="24"/><Item id="24678" text="false" size="24"/>
+## <Boss red/> Arch Diviner <Item id="8881" text="false"/><Item id="24678" text="false"/>
 After the Mesmer indicates you to resurrect, take the portal to above and combat the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Trait id="1502"/>.
 
 Every 25% of his health, you will need to collect a *Cultist Hammer* charge similar to before by killing one of the four spawned Cultists and hit the final Seal to make the Arch Diviner vulnerable again. Cultists apply a lot of conditions so kill them fast and try to stay out of their aggro range.

@@ -22,10 +22,10 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 <Icon name="elementalist"/> Elementalist
 </CardHeader>
 <CardContent>
-* <Skill id="5685"/> (Staff 3, <Skill id="5495" text="false" size="24"/>) and any other skill that applies it
-* <Skill id="5530"/> (Focus 4, <Skill id="5494" text="false" size="24"/>)
+* <Skill id="5685"/> (Staff 3, <Skill id="5495" text="false"/>) and any other skill that applies it
+* <Skill id="5530"/> (Focus 4, <Skill id="5494" text="false"/>)
 * <Skill id="30432"/> (<Icon name="tempest"/>)
-* <Skill id="29453"/> (Warhorn 4, <Skill id="5495" text="false" size="24"/>, <Icon name="tempest"/>)
+* <Skill id="29453"/> (Warhorn 4, <Skill id="5495" text="false"/>, <Icon name="tempest"/>)
 </CardContent>
 </Card>
 
@@ -132,7 +132,7 @@ Below is a list of commonly used defensive skills:
 <CardContent>
 * <Skill id="5641"/>
 * <Skill id="5554"/> and <Skill id="5564"/> (Downed state)
-* <Skill id="5521"/> (Focus 5, <Skill id="5495" text="false" size="24"/>
+* <Skill id="5521"/> (Focus 5, <Skill id="5495" text="false"/>
 </CardContent>
 </Card>
 

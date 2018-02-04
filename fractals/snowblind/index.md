@@ -19,7 +19,7 @@ When there are only a few percent remaining, go near the fire to leave combat an
 
 ---
  
-## <Boss/> Elemental Source <Item id="8885" text="false" size="24"/><Item id="24661" text="false" size="24"/>
+## <Boss/> Elemental Source <Item id="8885" text="false"/><Item id="24661" text="false"/>
 
 <Grid>
 <Column>
@@ -54,7 +54,7 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 </Column>
 </Grid>
 
-## <Boss red/> Shaman Lornarr Dragonseeker <Item id="8883" text="false" size="24"/><Item id="24667" text="false" size="24"/>
+## <Boss red/> Shaman Lornarr Dragonseeker <Item id="8883" text="false"/><Item id="24667" text="false"/>
 
 <Grid>
 <Column>

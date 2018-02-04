@@ -22,10 +22,10 @@
           "<Boon name='aegis' text='false'/>",
           "<Effect name='alacrity' text='false'/>",
           "<Effect name='stealth' text='false'/>",
-          "<Skill id='10302' size='24' text='false'/>",
-          "<Skill id='10197' size='24' text='false'/>",
-          "<Skill id='10236' size='24' text='false'/>",
-          "<Skill id='29519' size='24' text='false'/>"
+          "<Skill id='10302' text='false'/>",
+          "<Skill id='10197' text='false'/>",
+          "<Skill id='10236' text='false'/>",
+          "<Skill id='29519' text='false'/>"
         ]
       },
       {
