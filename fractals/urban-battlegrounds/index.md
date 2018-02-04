@@ -52,7 +52,7 @@ As soon as you capture the courtyard, the *Fire Caller* will start a ritual and 
 <Column>
 <Tips>
     <Tip specialization="chronomancer"><Skill id="10363"/>, <Skill id="29526"/> and <Skill id="30359"/> are very valuable here.</Tip>
-    <Tip specialization="elementalist"><Skill id="5738"/> is very strong against the groups of mobs during the capture event.<br/>Stay in <Skill id="5492" text="false"/> before Ashym for <Boon name="might"/> stacking.</Tip>
+    <Tip specialization="elementalist"><Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors *Rush* attack.<br/>Stay in <Skill id="5492" text="false"/> before Ashym for <Boon name="might"/> stacking.</Tip>
 </Tips>
 </Column>
 </Grid>
@@ -60,4 +60,6 @@ As soon as you capture the courtyard, the *Fire Caller* will start a ritual and 
 <Image src="fractals/urban-battlegrounds/images/the_courtyard.jpg" title="The courtyard"/>
 
 ## <Boss red/> Captain Ashym
-Stack <Effect name="might"/> while Captain Ashym runs towards you. Break his defiance bar as frequent as possible and be careful with his *Meteor Shower* AoE skill. He also tends to block multiple times during the fight, stop wasting your skills in that case. At 25% health, he will equip a *Fiery Greatsword* and gain additional skills, just make sure to end the fight quickly.
+Stack <Effect name="might"/> while Captain Ashym runs towards you. Break his defiance bar as frequent as possible and be careful with his *Meteor Shower* AoE skill. He also tends to block multiple times during the fight, stop wasting your skills in that case.
+
+Also pay attention to his boons as <Boon name="retaliation"/> deals high damage to yourself. At 25% health, he will equip a *Fiery Greatsword* and gain additional skills, just make sure to end the fight quickly.

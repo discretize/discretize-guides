@@ -2,7 +2,7 @@
 
 <Grid>
 <Column>
-Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. After around 75 seconds, the ice wall will melt.
+Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
 
 If you gain too many stacks of *Hypothermia* (one every 5 seconds), reset them at the bonfire.
 
