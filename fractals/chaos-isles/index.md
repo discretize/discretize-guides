@@ -36,7 +36,8 @@ Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <I
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.    
 He will also apply a group-wide <Control name="daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and invulnerables or simply do not stand in front of him when it hits. Learn to recognize the animation.
 
-Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.
+Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.    
+Another trick is to bypass the damage from purple zones by repeated jumping.
 
 Starting at 50% health, he will randomly start a *pulling attack* which can be prevented by breaking his defiance bar. Save your crowd control skills for this.
 
@@ -46,7 +47,7 @@ Also pay attention to the small *JT-12* golems and their AoEs as they apply <Con
 <Column>
 <Tips>
     <Tip specialization="chronomancer">Use a combination of <Skill id="29578"/>, <Skill id="29526"/>, <Skill id="10377"/>, <Skill id="10236"/> and <Skill id="29830"/> to keep up <Boon name="quickness"/> and block every single dazing auto-attack with <Boon name="aegis"/>.</Tip>
-    <Tip specialization="ranger">Use <Skill id="12638"/> to pull the small JT-12 golems closer.
+    <Tip specialization="ranger">Use <Skill id="12638"/> to pull the small JT-12 golems closer.    
         <Skill id="12569"/> with <Trait id="1038"/> grants the whole party <Boon name="stability"/>.</Tip>
 </Tips>
 </Column>
