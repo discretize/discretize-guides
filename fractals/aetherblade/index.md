@@ -9,8 +9,11 @@ Clear the group of *Elite Aetherblades* to open the door.
 <Tips>
     <Tip specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tip>
     <Tip specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/> at the beginning.</Tip>
+    <Tip specialization="weaver"> Use <Skill id="22572"/> for more burst against the first trash group. </Tip>
+
 </Tips>
 </Column>
+
 </Grid>
 
 ---
@@ -27,7 +30,7 @@ If you are fast enough, you can disable the consoles in the second room together
 
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="29578"/>, <Skill id="10200"/> and <Skill id="10197"/> to teleport everyone up to the second level. Cast <Skill id="30305"/> or any Shatter skill with <Trait id="740"/> to remove <Condition name="immobile"/>.</Tip>
-    <Tip specialization="tempest">Teleport up to the first level with <Skill id="5536"/>. Trait <Trait id="2033"/> and cast <Skill id="29415"/> (does not aggro enemies) for conditions cleanse during the console activation.</Tip>
+    <Tip specialization="weaver">Teleport up to the first level with <Skill id="5536"/>. Take <Skill id="5507"/> for condition cleanse. You can solo all four on your own, but if both weaver port it is faster and safer.</Tip>
     <Tip specialization="daredevil">You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> to cleanse the <Condition name="immobile"/>.</Tip>
 </Tips>
 
@@ -42,7 +45,7 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 <Column>
 <Tips>
     <Tip specialization="mesmer">Trait <Trait id="751"/> to use <Skill id="10363"/> more often.</Tip>
-    <Tip specialization="elementalist">Stay in <Skill id="5492"/> after the last trash group for <Boon name="might"/> stacking at Frizz.</Tip>
+    <Tip specialization="Weaver">Use <Skill id="22572"/> for more burst. Stay in <Skill id="5492"/> after the last trash group for <Boon name="might"/> stacking at Frizz.</Tip>
 </Tips>
 </Column>
 </Grid>
@@ -66,6 +69,7 @@ If a golem walks through a laser, he powers up and blocks all attacks for a shor
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="10363"/> and <Skill id="30359"/> to grab the golems together. <Skill id="10192"/> makes you immune against both the small and large lasers.</Tip>
     <Tip specialization="ranger">Run an offhand axe and use <Skill id="12638"/> to pull golems closer.</Tip>
+    <Tip specialization="Weaver">Use <Skill id="5539"/> for more burst. </Tip>
 </Tips>
 </Column>
 </Grid>
