@@ -53,7 +53,7 @@ As soon as you capture the courtyard, the *Fire Caller* will start a ritual and 
 <Tips>
     <Tip specialization="chronomancer"><Skill id="10363"/>, <Skill id="29526"/> and <Skill id="30359"/> are very valuable here.</Tip>
     <Tip specialization="elementalist"><Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors *Rush* attack.    
-        Stay in <Skill id="5492" text="false"/> before Ashym for <Boon name="might"/> stacking.</Tip>
+        Stay in <Skill id="5492"/> before Ashym for <Boon name="might"/> stacking.</Tip>
 </Tips>
 </Column>
 </Grid>
