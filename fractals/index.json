@@ -684,6 +684,7 @@
         "id": "molten-furnace",
         "header": "Molten Furnace",
         "meta": "83",
+        "image": "fractals/molten-furnace/images/header.jpg",
         "api": 2903,
         "bosses": 1,
         "difficulties": [

@@ -5,10 +5,10 @@
 | <Item id="49940"/> | Offers improved movement by holding *Skill 2* and cancelling the final hit through the *drop bundle* skill. Can be boosted by <Boon name="swiftness"/> and even <Effect name="superspeed"/> to achieve stellar speed. |
 | <Item id="78978"/> | Can be used to create a portal between two locations, similar to the Mesmer's <Skill id="10197"/> skill. The 30 minute cooldown can be reset by using `/gg` two times. |
 | <Item id="44642"/> | Also creates a portal, but can not be dropped between the start and end location. Consumed upon use. |
-| <Item id="78786"/> | If you activate the notice before an unskippable cutscene (like after Skorvald in the [Shattered Observatory Fractal](http://discretize.eu/fractals/shattered-observatory)), you will be able to move and cast during the video, though it will still cover your main view. |
+| <Item id="78786"/> | If you activate the notice before an unskippable cutscene (like after Skorvald in the [Shattered Observatory Fractal](https://discretize.eu/fractals/shattered-observatory)), you will be able to move and cast during the video, though it will still cover your main view. |
 | <Item id="8764"/> | Provides 3 seconds of <Effect name="stealth"/> on a 6s cooldown. |
 | <Item id="8801"/> | Provides 3 seconds of <Effect name="stealth"/> on a 60s cooldown. |
-| <Item id="8686"/> | Provides 10 seconds of <Effect name="stealth"/>, ends if you move. Useful to activate the console in the [Underground Facility Fractal](http://discretize.eu/fractals/underground-facility). |
+| <Item id="8686"/> | Provides 10 seconds of <Effect name="stealth"/>, ends if you move. Useful to activate the console in the [Underground Facility Fractal](https://discretize.eu/fractals/underground-facility). |
 | <Item id="8759"/> | The *Plank Buster* skill (4s cooldown) causes 332 defiance bar damage and is available to all professions. Warriors also have access to *Plank Smash* (400 Defiance Bar damage) and *Plank Spin* (150 defiance bar damage).|
 | <Item id="8678"/> | Throw it to cause 200 defiance bar damage. Has no cooldown and can be used from range. |
 | <Item id="8732"/> | Causes 200 defiance bar damage in an area around you upon detonation. |

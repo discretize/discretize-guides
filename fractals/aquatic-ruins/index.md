@@ -38,7 +38,7 @@ Swim together and take the *Luminous Plants* on the way to protect you and nearb
 </Column>
 
 <Column>
-## *or* Dolphin Path
+## *or* Dolphin Path <Label>Random</Label>
 
 Spam `Skill 1` during swimming to reveal nearby hidden Krait and keep to the right. You can use `Skill 2` to create a distraction and `Skill 3` to get a short speed boost. `Skill 5` can be used to instantly revive nearby dead allies. Always dodge **twice** when you anticipate a Krait attack. As soon as someone reaches the end boss, use `/gg` to immediately resurrect there.
 </Column>

@@ -6,7 +6,7 @@ Kill the four *Veteran Chanters* at the beginning to open the gate on the right-
 ## <Boss/> Chaos Anomaly
 <Grid>
 <Column>
-Stack <Boon name="might"/> before the four *K1T-A golems* and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health will have a lot of health.
+Stack <Boon name="might"/> before the four *K1T-A golems* and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health.
 
 Pay attention to the <Control name="knockback"/> zones from the small JT-12 golems and look out for *Flux Bombs*, the debuff can be hard to notice on the mosaic ground.
 </Column>

@@ -1,4 +1,4 @@
-## Skorvald the Shattered
+## Skorvald the Shattered <Label>5,551,340 HP</Label>
 Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the *Mistlock Singularity* after accepting the Harbringer's challenge, stack <Boon name="might"/> on the platform below and start the encounter by activating the orb in the center of the platform.
 
 ### Mechanics
@@ -23,7 +23,7 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 
 ### Tactic
 The key to the fight is fast crowd control, as breaking Skorvald's defiance bar prevents most of the mechanics. Immediately break it at the begin and bring him down to 66% health.    
-At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four *Elite Flux Anomalies* to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use an air turbulence to travel between the islands. The Anomalies dont have much health (170k) but knock players back with shockwaves. Pay attention to the emotes and position yourself between the Anomaly and a wall.
+At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four *Elite Flux Anomalies* to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use an air turbulence to travel between the islands. The Anomalies dont have much health (170.244) but knock players back with shockwaves. Pay attention to the emotes and position yourself between the Anomaly and a wall.
 
 It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately after the 4th Anomaly is dead to deal more damage to Skorvald before he continues his attacks, especially at 33%.
 
@@ -40,7 +40,7 @@ You will encounter several glass mobs on the way to the second boss, there are n
 
 ---
 
-## Artsariiv
+## Artsariiv <Label>5,962,266 HP</Label>
 The second boss of the fractal is Artsariiv. The encounter gets activated by bouncing a *Globolla Marble* into her, be sure to prepare <Boon name="might"/> and skills in the northwest beforehand.
 
 Artsariiv summons copies which split into smaller clones upon death, they use martial art skills, <Control name="knockdown"/>, shoot shocking projectiles and apply a lot of damaging conditions. Discuss whether you kill all adds (safe tactic) or not.    
@@ -81,7 +81,7 @@ After the fight is over, take the portal in the North and move forward to get to
 
 ---
 
-## Arkk
+## Arkk <Label>9,942,250 HP</Label>
 Arkk is the third and final boss of the fractal. An attentive player may have noticed the `Nova Launch` special action key became even stronger now, doing medium damage, a 200 <Control name="launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.    
 In contrast to the other enemies in the fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him.
 

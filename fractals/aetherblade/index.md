@@ -22,15 +22,14 @@ The first one consists of a *moving laser square pattern* and can be disabled by
 
 The second area is filled with *spinning lasers*. In exactly the same way as before, four consoles around the area have to be activated to disable the traps.
 
-There are two options for completing the area:
+You don't need to kill a single mob and can bypass all traps with the following steps:
 
-**Option 1:** Someone (usually an <Specialization name="elementalist"/>) teleports up to the first console room and disables the four consoles using condition cleanses. Meanwhile, the <Specialization name="mesmer"/> places a portal at the ground level, teleports two times to the second level and opens the portal for the remaining party.    
-If you are fast enough, you can disable the consoles in the second room together before the spinning lasers become active.
-
-**Option 2 (recommended):** Everyone except the console activator does `/gg`. The activator teleports to the first level and activates the four consoles, then he does `/gg` too. The party resurrects directly on the way up to the second level and activates the second set of consoles before the spinning lasers become active.
+1. One person (or more) teleports up to the first level and activates all four consoles using condition cleanses
+2. Everyone does `/gg` and resurrects immediately (you will spawn on the ramp up after the first console room)
+3. The team splits up to activate the second set of consoles (the spinning lasers won't be active if you're fast enough)
 
 <Tips>
-    <Tip specialization="mesmer">Use <Skill id="29578"/>, <Skill id="10200"/> and <Skill id="10197"/> to teleport everyone up to the second level. Cast <Skill id="30305"/> or any Shatter skill with <Trait id="740"/> to remove <Condition name="immobile"/>.</Tip>
+    <Tip specialization="mesmer">Use <Skill id="29578"/> to teleport up and cast <Skill id="30305"/> or any Shatter skill with <Trait id="740"/> to remove <Condition name="immobile"/>.</Tip>
     <Tip specialization="elementalist">Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles.</Tip>
     <Tip specialization="daredevil">You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> as condition clears.</Tip>
 </Tips>
