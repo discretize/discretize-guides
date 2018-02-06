@@ -1,16 +1,26 @@
-## The way to the Molten Effigy
-Since the 2017. november 28th patch, this fractal has been reworked and now you have to walk alot, skipping the groups of mobs on your way. When u reach the first path block (a firewall maintained by the Elite Smoke Shaman). Kill the Shaman to destroy the firewall blocking the way, then progress to the next Elite Flame Shaman, he is <Effect name="invulnerability"/> until you kill the Resonator it is connected to, then he gains a breakbar, break it, kill him. Stack <Boon name="might"/> on the bridge and move on to the Effigy.
+## Start area
+Skip the first two bridges, you can use <Effect name="stealth"/> but since it is difficult to reapply just stay together while moving.
+
+You will reach an area with two *Molten Protectors*, drag them with you to the next group of mobs where you can't proceed. Kill everything there and the bridge to the Molten Effigy will come down.
+
+Note that the Molten Protectors cast a zone which grants enemies inside <Effect name="invulnerability"/> (recognizable by an electric beam). Therefore, killing and controlling the Molten Protectors is your highest priority throughout the entire fractal.
 
 ---
 
-## Molten Effigy
-Since the 2017. november 28th patch, this boss is not immune to <Condition name="burning"/> anymore.  Use interrupts or reflects against the *Firestorm* attack and cleave the group of mobs around it. The moment you killed the Effigy, you can move on to the next two Elites, kill them and the steam blocking the path is no longer there. Kill the group of mobs before the gate to open it, then kill the 6 mob before the boss platform to move the bridge up. Get into the arena, then use `/gg` to reset cooldowns, walk into the arena again. 
+## <Boss/> Molten Effigy <Item id="50082" text="false"/>
+Stack <Boon name="might"/> before moving on to the Molten Effigy.
+
+There is another single Molten Protector which needs to be focused before switching to the boss. Use interrupts or reflects against the Effigy's *Firestorm* attack, pay attention to the *Charge* (large arrow) and *Shockwave* attacks and cleave mobs around if possible.
+
+The moment you killed the Effigy, you can continue to the next trash group. All following groups of mobs are progress-blocking, clear them to make it to the final area. Molten Protectors have the highest priority and Smoke Shamans are second to them (they apply <Effect name="stealth"/> to surrounding enemies). You can `/gg` once directly before the end boss if necessary.
 
 ---
 
-## Molten Berserker & Molten Firestorm
+## <Boss red/> Molten Berserker & Molten Firestorm <Item id="50082" text="false"/>
 When you walk onto the end boss area, a group-wide <Effect name="agony"/> effect will be applied and put you in combat. As soon as it ends, use the small time before boss starts to stack <Boon name="might"/>.
 
-Kill the *Molten Berserker* first and pay attention to the AoEs and triple shockwave attack. Reflects are useful here as well. The *Molten Firestorm* will heal to full health after his comrade is dead, kill him afterwards to finish the fractal.    
-Do not walk into the hitboxes of the two bosses to prevent them from moving into the outer, inaccessible area.    
-Note that since the rework, you are no longer knocked on the outside ring of the arena (resonating part), it simply works as a soft pull towards the edge, to push you off. If needed you can go to the boss outside of the safe zone to kill, just make sure to always move inwards the arena and dodge the *Molten Firestorm*'s knockback AoE (big orange circle) so you do not fall off.
+Kill the *Molten Berserker* first and pay attention to the AoEs and *Shockwave* attack. Reflects are useful here as well. The *Molten Firestorm* will heal to full health after his comrade is dead, kill him afterwards to finish the fractal.
+
+Do not walk into the hitboxes of the two bosses to prevent them from moving into the outer, inaccessible area.
+
+Note that since the rework, you are no longer <Control name="knockback"/>ed on the outer ring of the arena (resonating part), it simply works as a continuous pull towards the edge. If needed you can follow the boss inside, just make sure to always move inwards the arena and dodge the *Molten Firestorm*'s knockback AoE (big orange circle) so you do not fall off.

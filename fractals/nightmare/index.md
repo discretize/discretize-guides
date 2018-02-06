@@ -1,7 +1,7 @@
-## Assault Knights
+## Assault Knights <Label>426,071 HP</Label>
 Stack <Boon name="might"/> before jumping down. Kill the three *Assault Knights* (Red, Blue and Green), each of them has the same set of abilities: a PBAoE knockdown and an AoE pull which covers the entire room except the knight's position. Break their bar, kill them, MAMA will arise when the three knights are dead, do `/gg` to reset fight.
 
-## MAMA
+## MAMA <Label>5,200,519 HP</Label>
 Stack <Boon name="might"/> before jumping down.<br/>     
 MAMA will arise, her first atack is a spin, which a Mesmer blocks by sharing <Boon name="aegis"/>. Learn to dodge the spinning attacks after the first and turn away from your party members shortly before the *Vomit Toxin* hits (orange cone), otherwise you will 'infect' party members in front of you with it.    
 Every 25%, MAMA gets <Effect name="invulnerability"/> and an *Assault Knight* (similar to the knights before) will spawn. Quickly break their breakbar then kill them as MAMA will continue it's attacks.    
@@ -35,7 +35,7 @@ After you capped all three altars use `/gg` if somebody in the party needs it, t
 
 ---
 
-## Siax the Corrupted
+## Siax the Corrupted <Label>6,138,797 HP</Label>
 After the interaction with the red orb in the center of the area. Quickly move back to the *Mistlock Singularity* to avoid aggro from the spawning enemies and stack <Boon name="might"/>.
 
 During the fight, break his defiance bar (2000 CC damage) as fast as possible to interrupt his *Caustic Explosion* skill. Siax will wipe your party if you fail to interrupt it with enough crowd control. Pay attention to his bouncing orb barrages, the *Vomit Toxin* and the exploding *Volatile Hallucinations* (at &lt;75%). Do not stand in the PBAoE when the inner circle reaches the outer to avoid spawning a *Nightmare Hallucination*.
@@ -52,7 +52,7 @@ Assign players to each add before the fight by setting waypoints. The Mesmer and
 
 ---
 
-## Ensolyss of the Endless Torment
+## Ensolyss of the Endless Torment <Label>14,059,890 HP</Label>
 Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="might"/> before you activate the fight. Don't stand in the center area of the platform on activation or you will get a <Control name="knockback"/>.
 
 Nearly all of Ensolyss' attacks do a <Control name="knockback"/> or <Control name="pull"/>, learn to dodge or walk out of every attack. The most dangerous one is his shockwave-shatter combo, he smashes down a stunning yellow shockwave (like MAMA &lt;33%), spawns hallucinations on each players position and shatters them after two seconds.    
