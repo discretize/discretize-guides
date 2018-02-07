@@ -25,12 +25,12 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 | **Combustion Rush** | **Only below 33% health.** Elite Flux Anomalies start charging through players and <Control name="knockback"/>, indicated by a large arrow on the platform. |
 </Mechanics>
 
-### Tactic
 <Grid>
 <Column width="4" compact>
-<Image src="fractals/shattered-observatory/images/elite-flux-anomaly.jpg" title="An Elite Flux Anomaly"/>
+<Image src="fractals/shattered-observatory/images/elite-flux-anomaly.jpg" title="An Elite Flux Anomaly" compact/>
 </Column>
 <Column>
+### Tactic
 The key to the fight is fast crowd control, as breaking Skorvald's defiance bar prevents most of the mechanics. Immediately break it at the begin and bring him down to 66% health.
 
 At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four *Elite Flux Anomalies* to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies dont have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the emotes and position yourself between the Anomaly and a wall.
@@ -165,9 +165,9 @@ Stack <Boon name="might"/> (you can use `Nova Launch`) and renew your *Mistlock 
 </Column>
 
 <Column width="4" compact>
-<Image src="fractals/shattered-observatory/images/so-arkk-eye.jpg" title="A player doomed to explode"/>
-<Image src="fractals/shattered-observatory/images/so-arkk-solar.jpg" title="A Temporal Anomaly"/>
-<Image src="fractals/shattered-observatory/images/so-arkk-green.jpg" title="A Temporal Anomaly"/>
+<Image src="fractals/shattered-observatory/images/so-arkk-eye.jpg" title="The Blinding Radiance ability"/>
+<Image src="fractals/shattered-observatory/images/so-arkk-solar.jpg" title="Arkk preparing Solar Fury"/>
+<Image src="fractals/shattered-observatory/images/so-arkk-green.jpg" title="Temporal Realignment"/>
 </Column>
 </Grid>
 </Mechanics>
@@ -179,7 +179,7 @@ A lot of the mechanics can occur at the same time, practice to avoid every singl
 
 Before triggering the Solar Bloom phases, you might want to wait for another Temporal Anomaly/Corporal Reassignment combination to prevent chaos during the intermediate phase.
 
-#### Solar Blooms *80%, 50%, 30%*
+#### Solar Blooms <Label>80%, 50%, 30%</Label>
 When Arkk reaches 80% health, he gains <Effect name="invulnerability"/> and players have to kite four *Solar Blooms* into the pillars in the corners to destroy them.
 
 A common strategy is to assign four players to the spawning locations in the North, East, South and West, as the Solar Blooms fixate on the closest player a few seconds after their spawn. Players take aggro of their designated Solar Bloom and kite them clockwise to the next pillar on the right. You can also use direct damage skills to push back the Blooms.
@@ -190,13 +190,13 @@ The fifth, remaining player should be a DPS ready to take out a possibly spawnin
 
 After every Solar Bloom phase, Arkk's defiance bar has to be broken immediately or he kills all players. Use your `Nova Launch` ability for an additional <Control name="launch"/> if you are short of crowd control skills.
 
-#### Elite Bosses *70%, 40%*
+#### Elite Bosses <Label>70%, 40%</Label>
 At 70% and 40% of Arkk's health, the party gets teleported to another dimension where you have to fight the *Elite Archdiviner* from the [Cliffside Fractal](https://discretize.eu/fractals/cliffside) and the *Elite Brazen Gladiator* from the [Chaos Isles Fractal](https://discretize.eu/fractals/chaos-isles) respectively.
 
 Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Try to kill the adds before finishing the boss as they follow you back to Arkk. Remember the party-wide <Control name="daze"/> if the third auto-attack of the Gladiator hits someone. The *Elite Brazen Gladiator* also does his huge pull attack below 50% health, prepare your `Nova Launch` skill to break his breakbar then.
 
 
-#### Final phase *<40%*
+#### Final phase <Label><40%</Label>
 Below 40% health, random platforms start disappearing temporarily. Due to this mechanic, space is very limited and resurrecting a downed player is nearly impossible.
 Sometimes *Temporal Anomalies* spawn on vanished platforms which makes the fight even more challenging.
 
