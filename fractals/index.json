@@ -93,6 +93,7 @@
       },
       {
         "id": "shattered-observatory",
+        "image": "fractals/shattered-observatory/images/header.jpg",
         "header": "Shattered Observatory",
         "meta": "100CM",
         "api": 3458,
@@ -893,6 +894,7 @@
         "id": "twilight-oasis",
         "header": "Twilight Oasis",
         "meta": "87",
+        "api": 3973,
         "bosses": 3,
         "difficulties": [
           {

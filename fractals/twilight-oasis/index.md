@@ -101,7 +101,7 @@ The Priestess of Dwayna only has one attack which cannot be interrupted: a diffe
 ### Grenth <Label>45%-25%</Label>
 Amala will periodically gain <Boon name="swiftness"/> and <Boon name="might"/> (15x) during this phase while dealing <Condition name="poison"/>, <Condition name="torment"/> and <Condition name="chilled"/> with her scythe attack chain.
 
-This is another phase that for the most part can be stacked and healed through, as it has very little CC involved. The biggest danger of this phase however is the *Claim Soul* attack, recognizable by a small orange AoE (similar to *Slam* on Artsariiv) - it is unblockable and will immediately send you into downed state.
+This is another phase that for the most part can be stacked and healed through, as it has very little CC involved. The biggest danger of this phase however is the *Claim Soul* attack, recognizable by a small orange AoE - it is unblockable and will immediately send you into downed state.
 
 At 40% health, Amala summons an arrangement of *Spectral Walls* that box you into the middle. Touching these walls will <Condition name="fear"/> you away from Amala.
 
