@@ -4,7 +4,7 @@
 <Image src="fractals/molten-furnace/images/start_area.jpg" compact/>
 </Column>
 <Column compact>
-<Image src="fractals/molten-furnace/images/header.jpg" compact/>
+<Image src="fractals/molten-furnace/images/portal.jpg" compact/>
 </Column>
 </Row>
 
