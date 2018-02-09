@@ -77,7 +77,7 @@ Details
 Rotation
 </CardHeader>
 <CardContent>
-The rotation is very complex and highly depends on a good <Effect name="alacrity"/> uptime. Below is a descending list of priorities:
+The rotation is very complex and highly depends on a good <Boon name="alacrity"/> uptime. Below is a descending list of priorities:
 
 * Don't cancel any auto-attacks like <Skill id="5491"/>
 * Use <Skill id="40183"/> (and <Skill id="5539"/> or <Skill id="5638"/>) off recharge, if possible while double-attuned to <Skill id="5492"/>

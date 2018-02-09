@@ -5,28 +5,45 @@
     "itemsPerRow": 5,
     "items": [
       {
-        "id": "power-chronomancer",
-        "header": "Power Chronomancer",
+        "id": "boon-chronomancer",
+        "header": "Boon Chronomancer",
         "meta": "Support",
         "category": "mesmer",
         "specialization": "chronomancer",
         "benchmark": {
           "small": {
-            "dps": 14216,
-            "by": "muiem [SC]"
+            "dps": 12345,
+            "by": "place [holder]",
+            "youtube": "abc"
           }
         },
-        "perks": [
-          "<Boon name='quickness' text='false'/>",
-          "<Boon name='regeneration' text='false'/>",
-          "<Boon name='aegis' text='false'/>",
-          "<Effect name='alacrity' text='false'/>",
-          "<Effect name='stealth' text='false'/>",
-          "<Skill id='10302' text='false'/>",
-          "<Skill id='10197' text='false'/>",
-          "<Skill id='10236' text='false'/>",
-          "<Skill id='29519' text='false'/>"
-        ]
+        "perks": {
+          "skills": [
+            {
+              "id": 10302
+            }
+          ],
+          "traits": [
+            {
+              "id": 1016
+            }
+          ],
+          "boons": [
+            {
+              "name": "Quickness"
+            }
+          ],
+          "conditions": [
+            {
+              "name": "Vulnerability"
+            }
+          ],
+          "effects": [
+            {
+              "name": "Stealth"
+            }
+          ]
+        }
       },
       {
         "id": "power-spellbreaker",
