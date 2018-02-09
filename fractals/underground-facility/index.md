@@ -1,5 +1,4 @@
 ## Locked Gates
-
 | | |
 | --- | --- |
 | **Preparation** | The best way - as usual - is to stack <Effect name="stealth"/> on the platform before jumping down and not killing a single mob. Clarify this before running ahead and assign people for the roles below.<br/>Standing on the first pressure plate grants access to the second pressure plate, the second pressure plate grants access to the console room and the two pressure plates in the console room grant access to the console locker. A player needs about 20 seconds to activate the final console without interruption.<br/>There is also [this skip](https://www.youtube.com/watch?v=N2hH0X8TDeg) in case you want to speed things up. |
@@ -19,8 +18,9 @@
 </Tips>
 </Column>
 
-<Column width="6">
-
+<Column width="5" compact>
+<Image src="fractals/underground-facility/images/start.jpg" title="The starting area"/>
+<Image src="fractals/underground-facility/images/console_locker.jpg" title="The console locker" compact/>
 </Column>
 </Grid>
 
@@ -36,15 +36,19 @@ On the **guns** path, any equipped gun near the door will break when the door re
 On the **bombs** path, be sure to take the *Concealing Dust* at the begin **and** at the end to permanently keep <Effect name="stealth"/> up on yourself. Same applies if you gain aggro of any mob, just walk into a <Effect name="stealth"/> zone.
 </Column>
 
-<Column>
+<Column width="6" compact>
+<Image src="fractals/underground-facility/images/gun_path.jpg" title="The gun path" compact/>
+</Column>
+</Grid>
+
 <Tips>
     <Tip specialization="chronomancer">Immediately cast <Skill id="10245"/> twice with <Skill id="29830"/> after resurrecting to skip past the mobs.
         Use <Skill id="29578"/> with <Skill id="10197"/> to quickly port back to the Bombs/Guns.    
         **Note that teleporting while carrying a Gun or Bomb does not work.**</Tip>
     <Tip specialization="thief">Cast <Skill id="13117"/> for immediate <Effect name="stealth"/>.</Tip>
 </Tips>
-</Column>
-</Grid>
+
+---
 
 ## <Boss/> Champion Rabsovich
 When you destroy the door, you will reach the most annoying boss ingame, have fun casting half of your skills into his shield. There's really no trick with him apart from breaking his defiance bar as often as possible. If needed, do `/gg` afterwards to reset your wasted cooldowns.
@@ -61,10 +65,12 @@ After loosing potential aggro of the mobs from the corridor, pull the boss to th
 The most deadly skills here are the *Bombs* from the Dredge Powersuit (they spawn slightly away from him) and *Shatterstone* (dropping ice shards on every player) and *Freeze Row* from the Ice Elemental (small delayed Ice-AoEs in a V-Shape which explode after 2.75s - unblockable).
 </Column>
 
-<Column>
+<Column width="6">
 <Tips>
     <Tip specialization="chronomancer">You can take <Skill id="29526"/> against the Dredge Powersuit boss.</Tip>
     <Tip specialization="thief">Teleport to the lava buckets from below with <Skill id="13025"/>.</Tip>
 </Tips>
 </Column>
 </Grid>
+
+<Image src="fractals/underground-facility/images/ice_elemental.jpg" title="The Rampaging Ice Elemental"/>

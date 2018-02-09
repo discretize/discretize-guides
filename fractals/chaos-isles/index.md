@@ -1,5 +1,12 @@
 ## Start
+<Grid>
+<Column>
 Kill the four *Veteran Chanters* at the beginning to open the gate on the right-hand side. The fastest person can rush ahead and move to the next checkpoint at the *Chaos Anomaly*, everyone else can `/gg` and resurrect at the checkpoint there.
+</Column>
+<Column width="5" compact>
+<Image src="fractals/chaos-isles/images/start.jpg" title="The starting area" compact/>
+</Column>
+</Grid>
 
 ---
 
@@ -20,13 +27,22 @@ Pay attention to the <Control name="knockback"/> zones from the small JT-12 gole
 </Column>
 </Grid>
 
+<Image src="fractals/chaos-isles/images/kitty_golems.jpg" title="The four K1T-A golems before the Chaos Anomaly"/>
+
 ---
 
 ## Blizzard path (Forest)
+<Grid>
+<Column>
 You will need to enlighten four *bonfires* on the path to progress to the end boss while every player only has **one** *Enlighten* charge.
 
 You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. Do not assign a bonfire to each player, simply lighten them up as soon as you reach them.    
 Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
+</Column>
+<Column width="6" compact>
+<Image src="fractals/chaos-isles/images/forest.jpg" title="The blizzard forest" compact/>
+</Column>
+</Grid>
 
 ---
 
@@ -44,7 +60,7 @@ Starting at 50% health, he will randomly start a *pulling attack* which can be p
 Also pay attention to the small *JT-12* golems and their AoEs as they apply <Control name="knockback"/> and can shove you off the platform.
 </Column>
 
-<Column>
+<Column width="6">
 <Tips>
     <Tip specialization="chronomancer">Use a combination of <Skill id="29578"/>, <Skill id="29526"/>, <Skill id="10377"/>, <Skill id="10236"/> and <Skill id="29830"/> to keep up <Boon name="quickness"/> and block every single dazing auto-attack with <Boon name="aegis"/>.</Tip>
     <Tip specialization="ranger">Use <Skill id="12638"/> to pull the small JT-12 golems closer.    
@@ -52,3 +68,5 @@ Also pay attention to the small *JT-12* golems and their AoEs as they apply <Con
 </Tips>
 </Column>
 </Grid>
+
+<Image src="fractals/chaos-isles/images/legendary_brazen_gladiator.jpg" title="The Legendary Brazen Gladiator"/>

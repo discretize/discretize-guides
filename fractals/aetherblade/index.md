@@ -3,19 +3,23 @@
 <Column>
 You can stack <Effect name="stealth"/> before entering the water to cheat the exploding mines.    
 Clear the group of *Elite Aetherblades* to open the door.
-</Column>
 
-<Column>
 <Tips>
     <Tip specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tip>
     <Tip specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/> at the beginning.</Tip>
 </Tips>
+</Column>
+
+<Column width="5" compact>
+<Image src="fractals/aetherblade/images/start.jpg" title="Mines in the water tunnel" compact/>
 </Column>
 </Grid>
 
 ---
 
 ## Lasers <Item id="50082" text="false"/>
+<Grid>
+<Column>
 After the door opens, you enter a large area with two deathly laser puzzles.
 
 The first one consists of a *moving laser square pattern* and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="immobile"/> to you.
@@ -33,6 +37,14 @@ You don't need to kill a single mob and can bypass all traps with the following 
     <Tip specialization="elementalist">Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles.</Tip>
     <Tip specialization="daredevil">You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> as condition clears.</Tip>
 </Tips>
+</Column>
+
+<Column width="6" compact>
+<Image src="fractals/aetherblade/images/moving_lasers.jpg" title="The moving laser pattern"/>
+<Image src="fractals/aetherblade/images/spinning_lasers.jpg" title="The spinning lasers"/>
+</Column>
+</Grid>
+
 
 ---
 
@@ -68,7 +80,9 @@ As soon as the two golems are dead, the two *Small Lasers* will join the two lar
 If a golem walks through a laser, he powers up and blocks all attacks for a short time. Pay attention to their <Control name="pull"/> attack, though it should not be a problem with high damage.
 </Column>
 
-<Column>
+<Column compact>
+<Image src="fractals/aetherblade/images/frizz.jpg" title="Frizz"/>
+
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="10363"/> and <Skill id="30359"/> to grab the golems together. <Skill id="10192"/> makes yourself immune against both the small and large lasers.</Tip>
     <Tip specialization="ranger">Run an offhand axe and use <Skill id="12638"/> to pull golems closer.</Tip>
