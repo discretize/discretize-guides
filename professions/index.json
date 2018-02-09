@@ -121,14 +121,10 @@
         "category": "guardian",
         "specialization": "dragonhunter",
         "benchmark": {
-          "large": {
-            "dps": 33850,
-            "by": "Nightmare [SC]",
-            "youtube": "4-XmkzkjDtc"
-          },
           "small": {
-            "dps": 31800,
-            "by": "Nightmare [SC]"
+            "dps": 31409,
+            "by": "Nightmare [SC]",
+            "youtube": "BuTUNNlY_6Q"
           }
         }
       },
@@ -154,9 +150,9 @@
         "specialization": "firebrand",
         "benchmark": {
           "small": {
-            "dps": 35900,
+            "dps": 36000,
             "by": "Nightmare [SC]",
-            "youtube": "9dlfeeouJI8"
+            "youtube": "uxFZbaNYsP0"
           }
         }
       },
