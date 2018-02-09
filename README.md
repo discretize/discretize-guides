@@ -8,7 +8,7 @@ You can contribute either directly by forking, editing pages and submitting pull
 All our guides are written using an extended version of the [Markdown Language](http://commonmark.org/). You can try it out yourself using the [Discretize Markdown Editor](http://d2aixolucmz3zk.cloudfront.net/editor)!
 
 ### Guide index files
-You'll notice that each of our guide sections (Mechanics, Professions, Fractals) have an `index.json` file inside their root directory. This file stores an **array of guide groups** (like *Meta Builds*, *Great Builds*, *Challenge Mode Fractals*) where each group contains the **guide items** (like *Power Weaver*, *Cliffside Fractal*).
+You'll notice that each of our guide sections (Mechanics, Builds, Fractals) have an `index.json` file inside their root directory. This file stores an **array of guide groups** (like *Meta Builds*, *Great Builds*, *Challenge Mode Fractals*) where each group contains the **guide items** (like *Power Weaver*, *Cliffside Fractal*).
 
 #### Below is a full list of possible fields for the guide group object:
 
