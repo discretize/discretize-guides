@@ -7,6 +7,7 @@
       {
         "id": "nightmare",
         "header": "Nightmare",
+        "image": "fractals/nightmare/images/altars.jpg",
         "meta": "99CM",
         "api": 3177,
         "bosses": 3,
@@ -519,6 +520,7 @@
       {
         "id": "underground-facility",
         "header": "Underground Facility",
+        "image": "fractals/underground-facility/images/start.jpg",
         "meta": "81",
         "api": 2947,
         "bosses": 2,
@@ -935,7 +937,7 @@
       },
       {
         "id": "chaos-isles",
-        "image": "fractals/images/chaos-isles.jpg",
+        "image": "fractals/chaos-isles/images/legendary_brazen_gladiator.jpg",
         "header": "Chaos Isles",
         "meta": "88, 98",
         "api": 3038,
@@ -1000,6 +1002,7 @@
       {
         "id": "molten-boss",
         "header": "Molten Boss",
+        "image": "fractals/molten-boss/images/header.jpg",
         "meta": "90",
         "api": 2966,
         "bosses": 2,
@@ -1161,7 +1164,7 @@
       },
       {
         "id": "aetherblade",
-        "image": "fractals/images/aetherblade.jpg",
+        "image": "fractals/aetherblade/images/header.jpg",
         "header": "Aetherblade",
         "meta": "96",
         "api": 2948,

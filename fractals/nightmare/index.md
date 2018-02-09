@@ -3,6 +3,8 @@ Stack <Boon name="might"/> before jumping down. Kill the three *Assault Knights*
 
 Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your cooldowns.
 
+<Image src="fractals/nightmare/images/mama.jpg" title="MAMA: The first boss"/>
+
 ## <Boss/> MAMA <Item id="50082" text="false"/><Label>5,200,519 HP</Label>
 Stack <Boon name="might"/> before jumping down.
 
@@ -18,19 +20,27 @@ Fast crowd control and animation knowledge are the keys to this fight.
 
 <Tips>
     <Tip specialization="chronomancer">If you don't have a <Specialization name="spellbreaker"/>, run <Skill id="10267"/> for the entire fractal due to the <Instability name="No Pain, No Gain"/> mistlock instability.<br/>Keep in mind that the third hit of you auto-attack chain (and from your <Skill id="10173"/> clone) remove a boon as well.<br/>Also run <Skill id="29519"/> for the stronger defiance bars. Use it immediately on the last assault knight spawning at 25% of MAMA's health.<br/>Time your distortions for key attacks like MAMA's spinning and triple shockwave.</Tip> 
-    <Tip specialization="specialization">For the entire fractal, remember to place your banners at the boss before doing `/gg` as they will continue to exist through death. This way, you can keep them up permanently even without <Effect name="alacrity"/>.<br/>Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.<br/>You can also use <Skill id="43123"/> for the adds.</Tip>
+    <Tip specialization="spellbreaker">For the entire fractal, remember to place your banners at the boss before doing `/gg` as they will continue to exist through death. This way, you can keep them up permanently even without <Effect name="alacrity"/>.<br/>Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.<br/>You can also use <Skill id="43123"/> for the adds.</Tip>
     <Tip specialization="druid">If you have problems with incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.<br/><Skill id="31639"/> from your Electric Wyvern pet deals enormous defiance bar damage to the bosses, they all have a large hitbox.</Tip>
 </Tips>
 
 ---
 
+<Grid>
+<Column>
 ## First set of altars <Item id="50082" text="false"/>
 You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.    
 Learn the *Red Orb* patterns as they can quickly kill you, *Blue Orbs* will heal you for a large amount of health (even with Agony).    
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
+</Column>
+<Column width="6" compact>
+<Image src="fractals/nightmare/images/altars.jpg" title="The altars" compact/>
+</Column>
+</Grid>
+
 
 ## Second set of altars <Item id="50082" text="false"/>
-Again, pull all enemies to the center (wait for the <Specialization name="mesmer"/> to cast <Skill id="101862/>) and kill them there. The mobs at the left altar (West) can be aggroed with a simple projectile, the mobs on the right side (East) need to be pulled with <Skill id="14381"/> (Longbow), <Skill id="5491"/> (Staff) or by teleporting up and jumping down.
+Again, pull all enemies to the center (wait for the <Specialization name="mesmer"/> to cast <Skill id="10186"/>) and kill them there. The mobs at the left altar (West) can be aggroed with a simple projectile, the mobs on the right side (East) need to be pulled with <Skill id="14381"/> (Longbow), <Skill id="5491"/> (Staff) or by teleporting up and jumping down.
 
 Both side altars can easily be capped by a single person after another player has pulled down the mobs.
 
@@ -54,6 +64,8 @@ When Siax reaches 66% health, he gains <Effect name="invulnerability"/> and four
 
 Assign players to each add before the fight starts by setting waypoints. The <Specialization name="mesmer"/> and <Specialization name="druid"/> will usually focus on one mob together due to their lower DPS.
 
+<Image src="fractals/nightmare/images/siax.jpg" title="Siax the Corrupted"/>
+
 <Tips>
     <Tip specialization="chronomancer">Share <Boon name="aegis"/> with your party when the *Nightmare Hallucination* PBAoE goes off or too many *Volatile Hallucinations* explode on the party.<br/>With <Skill id="21750"/> you can recast your phantasms on the *Echo of the Unclean* to deal more damage.</Tip>
     <Tip specialization="elementalist">On the East and South *Echoes of the Unclean*, you can use <Skill id="5697"/> from <Skill id="5516"/> against the wall to deal enormous damage.</Tip>
@@ -63,11 +75,18 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
 ---
 
 ## Ensolyss of the Endless Torment <Item id="50082" text="false"/><Item id="24658" text="false"/><Label>14,059,890 HP</Label>
+<Grid>
+<Column>
 Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="might"/> before you activate the fight. Don't stand in the center area of the platform on activation or you will receive a <Control name="knockback"/>.
 
 Nearly all of Ensolyss' attacks do a <Control name="knockback"/> or <Control name="pull"/>, learn to dodge or walk out of every attack. The most dangerous one is his shockwave-shatter combo, he smashes down a stunning yellow shockwave (like MAMA below 33% health), spawns hallucinations on each players position and shatters them after two seconds.
 
 Again, the key to this fight is fast crowd control. Break his defiance bar quickly to interrupt his high damage attacks. Always stack around the center area and do not try to follow him to the edge as he will simply teleport back most of the time.
+</Column>
+<Column compact>
+<Image src="fractals/nightmare/images/ensolyss.jpg" title="Ensolyss: The final boss" compact/>
+</Column>
+</Grid>
 
 ### Orb phases <Label>66%, 33%</Label>
 At 66% and 33%, Ensolyss will teleport to the middle and gain <Effect name="invulnerability"/>. Your party will need to split up and cap five altars, similar to the ones before.    
