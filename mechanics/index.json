@@ -1,29 +1,32 @@
 [
   {
-    "id": "advanced-mechanics",
-    "header": "Advanced Mechanics",
-    "description": "**Advanced** mechanics *game* guide",
+    "id": "gw2-mechanics",
+    "header": "Guild Wars 2 Mechanics",
     "itemsPerRow": 2,
     "items": [
       {
         "id": "fractal-basics",
         "header": "Fractal Basics",
-        "description": "Learn the meta team composition, usage of /gg and about Mistlock Instabilities"
+        "image": "mechanics/fractal-basics/images/instabilities.jpg",
+        "description": "Get to know the meta 5-man team composition, learn about the `/gg` command and Mistlock Instabilities."
       },
       {
         "id": "consumables",
         "header": "Consumables",
-        "description": ""
+        "image": "mechanics/consumables/images/consumables.jpg",
+        "description": "Learn how to use various consumables to greatly simplify otherwise challenging content."
       },
       {
         "id": "damage-mitigation",
         "header": "Damage Mitigation",
-        "description": ""
+        "image": "mechanics/damage-mitigation/images/reflect.jpg",
+        "description": "Learn which skills and traits your profession can use to avoid damaging mechanics."
       },
       {
         "id": "blast-stacking",
         "header": "Blast Stacking",
-        "description": ""
+        "image": "mechanics/blast-stacking/images/stacking.jpg",
+        "description": "Use blasts and combo fields to stack large durations of <Boon name=\"might\"/>, <Boon name=\"fury\"/> and <Effect name=\"stealth\"/> on your party."
       }
     ]
   }
