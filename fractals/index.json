@@ -7,7 +7,7 @@
       {
         "id": "nightmare",
         "header": "Nightmare",
-        "image": "fractals/nightmare/images/altars.jpg",
+        "image": "fractals/nightmare/images/ensolyss_crazy.jpg",
         "meta": "99CM",
         "api": 3177,
         "bosses": 3,
@@ -895,6 +895,7 @@
       {
         "id": "twilight-oasis",
         "header": "Twilight Oasis",
+        "image": "fractals/twilight-oasis/images/header.jpg",
         "meta": "87",
         "api": 3973,
         "bosses": 3,
@@ -1121,7 +1122,7 @@
       },
       {
         "id": "captain-mai-trin-boss",
-        "image": "fractals/images/captain-mai-trin-boss.jpg",
+        "image": "fractals/captain-mai-trin-boss/images/header.jpg",
         "header": "Captain Mai Trin Boss",
         "meta": "95",
         "api": 2932,

@@ -2,7 +2,7 @@
   {
     "id": "meta-builds",
     "header": "Meta Builds",
-    "itemsPerRow": 5,
+    "itemsPerRow": 3,
     "items": [
       {
         "id": "boon-chronomancer",
@@ -117,19 +117,6 @@
         }
       },
       {
-        "id": "condition-berserker",
-        "header": "Condition Berserker",
-        "meta": "Support",
-        "category": "warrior",
-        "specialization": "berserker",
-        "benchmark": {
-          "small": {
-            "dps": 30700,
-            "by": "Goku [SC]"
-          }
-        }
-      },
-      {
         "id": "power-weaver",
         "header": "Power Weaver",
         "meta": "Damage",
@@ -144,14 +131,42 @@
             "dps": 37169,
             "by": "Derpy [SC]"
           }
+        },
+        "perks": {
+          "skills": [
+            {
+              "id": 5536
+            }
+          ],
+          "boons": [
+            {
+              "name": "Might",
+              "quantity": 7
+            },
+            {
+              "name": "Fury"
+            },
+            {
+              "name": "Swiftness",
+              "percentage": 50
+            },
+            {
+              "name": "Protection",
+              "percentage": 33
+            }
+          ],
+          "conditions": [
+            {
+              "name": "Weakness"
+            },
+            {
+              "name": "Vulnerability"
+            },
+            {
+              "name": "Blind"
+            }
+          ]
         }
-      },
-      {
-        "id": "boon-druid",
-        "header": "Boon Druid",
-        "meta": "Support",
-        "category": "ranger",
-        "specialization": "druid"
       }
     ]
   },
