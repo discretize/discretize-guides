@@ -1,6 +1,6 @@
 # Team Composition
 
-The current "meta" group setup for fractals consists of the following professions:
+The current "meta" group setup for fractals consists of the following builds:
 
 | | |
 | --- | --- |
