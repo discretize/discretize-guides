@@ -1,0 +1,1 @@
+Yes, you've read right - the <Specialization prefix="boon" name="chronomancer"/> is capable of permanently providing **every single boon** in the game to the party.

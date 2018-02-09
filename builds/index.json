@@ -20,17 +20,74 @@
         "perks": {
           "skills": [
             {
+              "id": 10186
+            },
+            {
               "id": 10302
+            },
+            {
+              "id": 10197
+            },
+            {
+              "id": 10200
+            },
+            {
+              "id": 29578
+            },
+            {
+              "id": 29830
+            },
+            {
+              "id": 10267
+            },
+            {
+              "id": 10236
+            },
+            {
+              "id": 29519
             }
           ],
           "traits": [
             {
-              "id": 1016
+              "id": 1852
             }
           ],
           "boons": [
             {
               "name": "Quickness"
+            },
+            {
+              "name": "Alacrity"
+            },
+            {
+              "name": "Might"
+            },
+            {
+              "name": "Fury"
+            },
+            {
+              "name": "Retaliation"
+            },
+            {
+              "name": "Protection"
+            },
+            {
+              "name": "Swiftness"
+            },
+            {
+              "name": "Regeneration"
+            },
+            {
+              "name": "Aegis"
+            },
+            {
+              "name": "Vigor"
+            },
+            {
+              "name": "Stability"
+            },
+            {
+              "name": "Resistance"
             }
           ],
           "conditions": [
