@@ -26,7 +26,7 @@
         "id": "blast-stacking",
         "header": "Blast Stacking",
         "image": "mechanics/blast-stacking/images/stacking.jpg",
-        "description": "Use blasts and combo fields to stack large durations of <Boon name=\"might\"/>, <Boon name=\"fury\"/> and <Effect name=\"stealth\"/> on your party."
+        "description": "Use blasts and combo fields to stack large amounts of <Boon name=\"might\"/>, <Boon name=\"fury\"/> and <Effect name=\"stealth\"/> on your party."
       }
     ]
   }
