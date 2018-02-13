@@ -37,6 +37,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
     * <Skill id="10285"/> (Torch 4), hits after 3 seconds (even if you swap out the torch)
 * <Specialization name="ranger"/>:    
     * <Skill id="12621"/> (Warhorn 5)    
+    * <Skill id="31535"/> (Staff 3)    
 * <Specialization name="guardian"/>:    
     * <Skill id="9194"/> (Hammer 2)    
     * <Skill id="9082"/> (Focus 5)
