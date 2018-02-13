@@ -28,7 +28,7 @@ Fast crowd control and animation knowledge are the keys to this fight.
 
 <Grid>
 <Column>
-## First set of altars <Item id="50082" text="false"/>
+## First set of altars <Item id="50082" text="false"/><Item id="24658" text="false"/>
 You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.    
 Learn the *Red Orb* patterns as they can quickly kill you, *Blue Orbs* will heal you for a large amount of health (even with Agony).    
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
@@ -39,7 +39,7 @@ On a side note, more players do not cap an altar faster. More than one person st
 </Grid>
 
 
-## Second set of altars <Item id="50082" text="false"/>
+## Second set of altars <Item id="50082" text="false"/><Item id="24658" text="false"/>
 Again, pull all enemies to the center (wait for the <Specialization name="mesmer"/> to cast <Skill id="10186"/>) and kill them there. The mobs at the left altar (West) can be aggroed with a simple projectile, the mobs on the right side (East) need to be pulled with <Skill id="14381"/> (Longbow), <Skill id="5491"/> (Staff) or by teleporting up and jumping down.
 
 Both side altars can easily be capped by a single person after another player has pulled down the mobs.

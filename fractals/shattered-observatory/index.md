@@ -201,7 +201,7 @@ Both bosses behave similar to their real version and are surrounded by four mobs
 Below 40% health, random platforms start disappearing temporarily. Due to this mechanic, space is very limited and resurrecting a downed player is nearly impossible.
 Sometimes *Temporal Anomalies* spawn on vanished platforms which makes the fight even more challenging.
 
-The most important thing is to keep calm. Remember that every single ability can be avoided, `Nova Launch` the *Solar Fury* orbs, jump or dodge through the *Starburst Cascade* and *Solar Stomp *attacks, turn away from the *Blinding Radiance* and move accordingly to the *Horizon Strike* pattern. Keep a cool head and finish the fight!
+The most important thing is to keep calm. Remember that every single ability can be avoided, `Nova Launch` the *Solar Fury* orbs, jump or dodge through the *Starburst Cascade* and *Solar Stomp* attacks, turn away from the *Blinding Radiance* and move accordingly to the *Horizon Strike* pattern. Keep a cool head and finish the fight!
 
 <Tips>
     <Tip specialization="mesmer">Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. Remember to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and help against mechanics like *Solar Fury*.<br/>Use <Skill id="10363"/> to pull mobs together at 70% and 40% (other party members can use `Nova Launch` to <Control name="launch"/> mobs closer to the center).</Tip>

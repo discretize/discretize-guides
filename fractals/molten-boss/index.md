@@ -1,4 +1,4 @@
-## Start area
+## Start area <Item id="50082" text="false"/>
 <Grid>
 <Column>
 Skip the first two bridges, you can use <Effect name="stealth"/> but since it is difficult to reapply just stay together while moving.

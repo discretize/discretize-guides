@@ -64,7 +64,7 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 
 --- 
 
-## <Boss red/> Final room (Frizz) <Item id="8887" text="false"/>
+## <Boss red/> Final room (Frizz) <Item id="8887" text="false"/><Item id="24672" text="false"/>
 <Grid>
 <Column>
 Talk to *Inspector Ellen Kiel* to teleport your party into the final room. Stack <Boon name="might"/> as soon as you are in.

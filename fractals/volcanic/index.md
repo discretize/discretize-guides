@@ -1,4 +1,4 @@
-## Start <Item id="8890" text="false"/><Item id="36053" text="false"/><Item id="24648" text="false"/>
+## Start <Item id="8890" text="false"/><Item id="24648" text="false"/>
 <Grid>
 <Column>
 While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="warrior"/> after placing banners) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can `/gg` after the section is completed and resurrect to skip the Boulder passage.
@@ -16,7 +16,7 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
 
 ---
 
-## <Boss/> Grawl Shaman <Item id="8890" text="false"/><Item id="36053" text="false"/><Item id="24648" text="false"/>
+## <Boss/> Grawl Shaman <Item id="8890" text="false"/><Item id="24648" text="false"/>
 Kill the *Veteran Grawl Shamans* to prevent them from sacrificing the captives. Control effects like <Control name="stun"/> and <Condition name="immobile"/> hinder them from reaching the edge.
 
 You will need to throw eight *Infused Stones* at the bubble protecting the Grawl Shaman boss to break it and make him vulnerable. The stones spawn on rockfalls, wait until the falling animation finishes and dodge into it to collect it. You can ping the Grawl Shaman (`Ctrl + T`) for easy targeting.
@@ -34,7 +34,7 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 
 ---
 
-## <Boss red/> Imbued Shaman <Item id="8885" text="false"/><Item id="36053" text="false"/><Item id="24661" text="false"/>
+## <Boss red/> Imbued Shaman <Item id="8885" text="false"/><Item id="24661" text="false"/>
 <Grid>
 <Column>
 Take the shortcut on the right-hand side down to the final platform to trigger the next checkpoint, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="might"/> and jump down to the Imbued Shaman (Since the November patch, the bat follows you to the end of the walkway, but it takes here 10 or more seconds to reach it. Make sure you have the might stacked and are on the correct weapon before she flies in you firefield and brings you infight.).
@@ -46,7 +46,7 @@ He will also spawn 10-30 *Lava Elementals* during this phase, kill them fast as 
 Avoid the *Bash* and *Wing Buffer* attacks (they <Control name="knockback"/>) and utilize conditions clears & reflects to finish the fractal successfully.
 </Column>
 
-<Column>
+<Column width="6">
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="10302"/> against the Lava Elementals. A <Skill id="10186"/> traited with <Trait id="751"/> is also worth it, though you lose the personal condition cleanse from <Trait id="740"/>.</Tip>
     <Tip specialization="weaver">Take <Skill id="5507"/> for an additional condition cleanse. Use <Skill id="22572"/> to cleave the Lava Elementals faster.</Tip>

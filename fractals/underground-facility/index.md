@@ -1,4 +1,4 @@
-## Locked Gates
+## Locked Gates <Item id="8892" text="false"/><Item id="24684" text="false"/>
 | | |
 | --- | --- |
 | **Preparation** | The best way - as usual - is to stack <Effect name="stealth"/> on the platform before jumping down and not killing a single mob. Clarify this before running ahead and assign people for the roles below.<br/>Standing on the first pressure plate grants access to the second pressure plate, the second pressure plate grants access to the console room and the two pressure plates in the console room grant access to the console locker. A player needs about 20 seconds to activate the final console without interruption.<br/>There is also [this skip](https://www.youtube.com/watch?v=N2hH0X8TDeg) in case you want to speed things up. |
@@ -26,7 +26,7 @@
 
 ---
 
-## Guns *or* Bombs path <Label>Random</Label>
+## Guns *or* Bombs path <Item id="8892" text="false"/><Item id="24684" text="false"/><Label>Random</Label>
 <Grid>
 <Column>
 After resurrecting, skip the mobs with <Effect name="stealth"/> and either use three guns four times (simultaneously) or nine bombs to destroy the gate.
@@ -50,12 +50,12 @@ On the **bombs** path, be sure to take the *Concealing Dust* at the begin **and*
 
 ---
 
-## <Boss/> Champion Rabsovich
+## <Boss/> Champion Rabsovich <Item id="8892" text="false"/><Item id="24684" text="false"/>
 When you destroy the door, you will reach the most annoying boss ingame, have fun casting half of your skills into his shield. There's really no trick with him apart from breaking his defiance bar as often as possible. If needed, do `/gg` afterwards to reset your wasted cooldowns.
 
 ---
 
-## <Boss red/> Dredge Powersuit *or* Rampaging Ice Elemental <Label>Random</Label>
+## <Boss red/> Dredge Powersuit <Item id="8892" text="false"/><Item id="24684" text="false"/> *or* Rampaging Ice Elemental <Item id="8885" text="false"/><Item id="24661" text="false"/><Label>Random</Label>
 <Grid>
 <Column>
 You can either stack <Effect name="stealth"/> and skip towards the Endboss together or let the Mesmer teleport ahead and do a <Skill id="10197"/>. In the latter case, `/gg` after placing the portal to reset cooldowns and take it together. Keep in mind the maximum range.
