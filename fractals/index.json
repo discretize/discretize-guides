@@ -39,17 +39,12 @@
               "specialization": "Chronomancer"
             },
             {
-              "id": "gP1yv1Pffzg",
-              "name": "Derpy Moa",
-              "specialization": "Druid"
-            },
-            {
               "id": "TOautynEh6o",
               "name": "Muto",
               "specialization": "Berserker"
             },
             {
-              "id": "E6695pbGu8",
+              "id": "_E6695pbGu8",
               "name": "Roul",
               "specialization": "Tempest"
             },
@@ -57,6 +52,11 @@
               "id": "CsTSgY5gyUI",
               "name": "Breke",
               "specialization": "Tempest"
+            },
+            {
+              "id": "gP1yv1Pffzg",
+              "name": "Derpy",
+              "specialization": "Druid"
             }
           ]
         },
@@ -81,13 +81,22 @@
           ],
           "consumables": [
             {
-              "id": 78978
+              "id": 43360
+            },
+            {
+              "id": 8759
+            },
+            {
+              "id": 8678
             },
             {
               "id": 8764
             },
             {
               "id": 8801
+            },
+            {
+              "id": 78978
             }
           ]
         }
@@ -125,11 +134,6 @@
               "id": "cLTNHl_A28I",
               "name": "Van Gherwen",
               "specialization": "Chronomancer"
-            },
-            {
-              "id": "gP1yv1Pffzg",
-              "name": "Derpy Moa",
-              "specialization": "Druid"
             },
             {
               "id": "phbHkROKlm8",
@@ -202,7 +206,7 @@
           "T4"
         ],
         "record": {
-          "time": "3:10",
+          "time": "2:13",
           "by": {
             "name": "Happens",
             "tag": "[hP]"
@@ -212,21 +216,6 @@
               "id": "cRKap-6_W48",
               "name": "Guts",
               "specialization": "chronomancer"
-            },
-            {
-              "id": "5rJTZVRhEqQ",
-              "name": "Derpy",
-              "specialization": "tempest"
-            },
-            {
-              "id": "WKvibVHOjsY",
-              "name": "Roul",
-              "specialization": "daredevil"
-            },
-            {
-              "id": "5OW6VHot8WQ",
-              "name": "Cheezy",
-              "specialization": "druid"
             }
           ]
         },
@@ -234,11 +223,8 @@
           "cycle": "Day",
           "potions": [
             {
-              "id": 8891
-            },
-            {
               "id": 50082,
-              "description": "both only work on the Krait at the beginning"
+              "description": "only for the Krait at the beginning"
             }
           ],
           "sigils": [
@@ -291,16 +277,26 @@
           "T4"
         ],
         "record": {
-          "time": "6:03",
+          "time": "5:09",
           "by": {
-            "name": "Quantify",
-            "tag": "[qT]"
+            "name": "Lucky Noobs",
+            "tag": "[LN]"
           },
           "youtube": [
             {
-              "id": "cRKap-6_W48",
-              "name": "Van Gherwen",
+              "id": "2NeDItrX44I",
+              "name": "Nightmare",
               "specialization": "chronomancer"
+            },
+            {
+              "id": "XTynF47Ekz4",
+              "name": "Flaschor",
+              "specialization": "tempest"
+            },
+            {
+              "id": "W3shEwUN0hU",
+              "name": "Roca",
+              "specialization": "Druid"
             }
           ]
         },
@@ -360,7 +356,7 @@
           "youtube": [
             {
               "id": "vBuC5qwHmTk",
-              "name": "Simon BFH",
+              "name": "Elo Quentz",
               "specialization": "chronomancer"
             },
             {
@@ -372,11 +368,6 @@
               "id": "LrUdzjbZQoQ",
               "name": "Goni",
               "specialization": "tempest"
-            },
-            {
-              "id": "J3q8gIixPjo",
-              "name": "frode",
-              "specialization": "druid"
             }
           ]
         },
@@ -441,9 +432,14 @@
           },
           "youtube": [
             {
-              "id": "qmjxIirNai8",
-              "name": "frode",
-              "specialization": "druid"
+              "id": "fMB69jScHWg",
+              "name": "Never Moa",
+              "specialization": "tempest"
+            },
+            {
+              "id": "1HptYqPzPZE",
+              "name": "Midnightz",
+              "specialization": "tempest"
             }
           ]
         },
@@ -460,7 +456,11 @@
               "id": 24868
             },
             {
-              "id": 24658
+              "id": 24615
+            },
+            {
+              "id": 24672,
+              "description": "for Old Tom and the Raving Asura"
             }
           ],
           "consumables": [
@@ -482,6 +482,7 @@
       {
         "id": "solid-ocean",
         "header": "Solid Ocean",
+        "image": "fractals/solid-ocean/images/header.jpg",
         "meta": "80",
         "api": 2923,
         "bosses": 1,
@@ -512,7 +513,8 @@
               "id": 36053
             },
             {
-              "id": 36054
+              "id": 24661,
+              "description": "for the Jade enemies"
             }
           ]
         }
@@ -551,14 +553,14 @@
               "specialization": "chronomancer"
             },
             {
-              "id": "OMUxEYbtnWE",
-              "name": "Deathlyhearts",
-              "specialization": "daredevil"
-            },
-            {
               "id": "GsPXlgXHAZI",
               "name": "Fennec",
               "specialization": "berserker"
+            },
+            {
+              "id": "OMUxEYbtnWE",
+              "name": "Deathly",
+              "specialization": "daredevil"
             }
           ]
         },
@@ -579,13 +581,12 @@
               "id": 36053
             },
             {
-              "id": 24868
+              "id": 24684,
+              "description": "for all Dredge enemies"
             },
             {
-              "id": 24661
-            },
-            {
-              "id": 24684
+              "id": 24661,
+              "description": "for the Ice Elemental endboss"
             }
           ],
           "consumables": [
@@ -651,7 +652,7 @@
             },
             {
               "id": "3iqOCAT23S8",
-              "name": "Simon",
+              "name": "Never Moa",
               "specialization": "tempest"
             },
             {
@@ -723,7 +724,7 @@
       },
       {
         "id": "thaumanova-reactor",
-        "image": "fractals/images/thaumanova-reactor.jpg",
+        "image": "fractals/thaumanova-reactor/images/header.jpg",
         "header": "Thaumanova Reactor",
         "meta": "84, 97",
         "api": 2967,
@@ -760,11 +761,11 @@
           "youtube": [
             {
               "id": "VB3H_A-tkF0",
-              "name": "Simon BFH",
+              "name": "Elo Quentz",
               "specialization": "chronomancer"
             },
             {
-              "id": "DTKSHipGO50&t",
+              "id": "DTKSHipGO50",
               "name": "Guts",
               "specialization": "tempest"
             },
@@ -772,11 +773,6 @@
               "id": "hsiFZF01Gfo",
               "name": "Goni",
               "specialization": "tempest"
-            },
-            {
-              "id": "cflGvw6NHcY",
-              "name": "frode",
-              "specialization": "druid"
             }
           ]
         },
@@ -784,10 +780,10 @@
           "cycle": "Day",
           "sigils": [
             {
-              "id": 24868
+              "id": 24615
             },
             {
-              "id": 24615
+              "id": 24868
             }
           ],
           "consumables": [
@@ -868,7 +864,7 @@
             },
             {
               "id": 8883,
-              "description": "for the boss"
+              "description": "for the Svanir & end boss"
             }
           ],
           "sigils": [
@@ -876,10 +872,12 @@
               "id": 36053
             },
             {
-              "id": 24667
+              "id": 24661,
+              "description": "for the Elemental Source boss"
             },
             {
-              "id": 24661
+              "id": 24667,
+              "description": "for the Svanir & end boss"
             }
           ],
           "consumables": [
@@ -921,6 +919,10 @@
             },
             {
               "id": 24868
+            },
+            {
+              "id": 36054,
+              "description": "for Amala"
             }
           ],
           "consumables": [
@@ -967,7 +969,7 @@
           "T4"
         ],
         "record": {
-          "time": "5:20",
+          "time": "5:11",
           "by": {
             "name": "Quantify",
             "tag": "[qT]"
@@ -975,7 +977,7 @@
           "youtube": [
             {
               "id": "MV2Byim0PWU",
-              "name": "Deathlyhearts",
+              "name": "Deathly",
               "specialization": "chronomancer"
             }
           ]
@@ -984,10 +986,11 @@
           "cycle": "Day",
           "sigils": [
             {
-              "id": 24554
+              "id": 24615
             },
             {
-              "id": 24615
+              "id": 24554,
+              "description": "for the Chaos Anomaly"
             },
             {
               "id": 24868
@@ -1081,8 +1084,8 @@
           },
           "youtube": [
             {
-              "id": "MV2Byim0PWU",
-              "name": "Deathlyhearts",
+              "id": "un7xbSP-7KI",
+              "name": "Deathly",
               "specialization": "chronomancer"
             }
           ]
@@ -1091,10 +1094,11 @@
           "cycle": "Night",
           "potions": [
             {
-              "id": 8890
+              "id": 8890,
+              "description": "for all Grawl enemies"
             },
             {
-              "id": 8886,
+              "id": 8885,
               "description": "for the Imbued Shaman endboss"
             }
           ],
@@ -1103,10 +1107,11 @@
               "id": 36053
             },
             {
-              "id": 24648
+              "id": 24648,
+              "description": "for all Grawl enemies"
             },
             {
-              "id": 24664,
+              "id": 24661,
               "description": "for the Imbued Shaman endboss"
             }
           ],
@@ -1215,6 +1220,10 @@
             },
             {
               "id": 24868
+            },
+            {
+              "id": 24672,
+              "description": "against the golems in the final room"
             }
           ]
         }

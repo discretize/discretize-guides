@@ -1,4 +1,4 @@
-## Ice Wall
+## Ice Wall <Item id="8883" text="false"/><Item id="24667" text="false"/>
 
 <Grid>
 <Column>
@@ -43,7 +43,7 @@ With reflects and high DPS you can simply burst the boss before any bonfire expi
 
 ---
 
-## Forest
+## Forest <Item id="8883" text="false"/><Item id="24667" text="false"/>
 
 <Grid>
 <Column>
