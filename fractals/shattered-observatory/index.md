@@ -47,6 +47,9 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (*Beaming Smile
     <Tip specialization="chronomancer">If you don't have a <Specialization name="spellbreaker"/>, run <Skill id="10267"/> for the entire fractal due to the <Instability name="No Pain, No Gain"/> mistlock instability. Alternatively you can use <Skill id="10185"/> which also grants permanent <Boon name="protection"/> to the party upon sharing, but don't use it before a <Skill id="29830"/>, otherwise the cooldown will be too long for the next set of boons.<br/>Keep in mind that the third hit of you auto-attack chain (and from your <Skill id="10173"/> clone) remove a boon as well.</Tip>
     <Tip specialization="spellbreaker">Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.</Tip>
     <Tip specialization="druid">Combine <Trait id="1038"/> with <Skill id="12569"/> for party <Boon name="stability"/> below 33% health.</Tip>
+    <Tip specialization="weaver">Start in <Skill id="5495"/>/<Skill id="5492"/> with <Skill id="5528"/> and <Skill id="43638"/> if your group does not plan to nuke the second phase with a portal. Make sure that you have three charges of <Skill id="5539"/>, when you reopen on the boss. </Tip>
+    
+    
 </Tips>
 
 ---
@@ -128,6 +131,7 @@ After the fight is over, take the portal in the North and move forward to get to
     <Tip specialization="chronomancer">From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics.</Tip>
     <Tip specialization="spellbreaker">Leave a <Skill id="45333"/> and place your banners before you leave for marble bouncing.</Tip>
     <Tip specialization="druid">Use <Skill id="31496"/> against the multitude of projectiles, especially against the the orb attacks from the two Elites at the beginning and from Artsariiv before her *Slam* attack.</Tip>
+    <Tip specialization="weaver">If you Group damage is low you can use <Skill id="5501"/> two times per phase by precasting it first in  the middle in <Skill id="5495"/>/<Skill id="5492"/>. **Always** place at least a <Skill id="5548"/> on the anomaly before using `Nova Launch` to the boss. You can additionally already attune to air at the anomaly and burst with <Skill id="41125"/> on it, before starting on the boss with <Skill id="5737"/>. </Tip>
 </Tips>
 
 ---
@@ -206,6 +210,6 @@ The most important thing is to keep calm. Remember that every single ability can
 <Tips>
     <Tip specialization="mesmer">Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. Remember to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and help against mechanics like *Solar Fury*.<br/>Use <Skill id="10363"/> to pull mobs together at 70% and 40% (other party members can use `Nova Launch` to <Control name="launch"/> mobs closer to the center).</Tip>
     <Tip specialization="spellbreaker"><Skill id="45160"/> can be used to reflect the orbs from *Solar Fury* if timed correctly.</Tip>
-    <Tip specialization="weaver">Both Weavers must focus on anomalies, putting a <Skill id="5548"/> under them is usually enough.</Tip>
+    <Tip specialization="weaver"> Start in <Skill id="5492"/>/<Skill id="5495"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494"/>/<Skill id="5492"/> and cast <Skill id="5737"/>. At this point the fear will come so take two steps foreward, so that your <Skill id="5737"/> is cast behind you. Continue with <Skill id="5501"/>. While casting attune to <Skill id="5492"/>/<Skill id="5494"/>, at this point the first anomaly will spawn. Place your with <Skill id="5548"/> on the boss and aim your <Skill id="41125"/> so that it hits the boss and anomaly. If all three weavers hit the anomaly with <Skill id="41125"/> it will die. If the anomaly is not dead when you summon your <Skill id="5624"/> kill it with <Skill id="5539"/>. If your damage is good you can skip the second anomaly by nuking the boss to 70%. On the third and fourth place a <Skill id="5548"/>, since at this point at least one of the other weavers will be busy with mechanics. If an anomaly does not die fast enough and you are out of <Skill id="5539"/> attune to <Skill id="5494"/> and use <Skill id="41125"/> as additional burst (this should normally be not necessary). Do not use either <Skill id="5737"/> or <Skill id="5501"/> against the small adds and wait instead to reopen with them against arkk.</Tip>
     <Tip specialization="druid">You can consider running a more defensive setup with <Skill id="12495"/> for <Boon name="protection"/>, but not even that can help if you ignore mechanics.</Tip>
 </Tips>
