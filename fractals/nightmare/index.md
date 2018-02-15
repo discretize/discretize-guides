@@ -19,10 +19,17 @@ When MAMA reaches 33%, it conjures a large *Nightmare Miasma* field around it wh
 Fast crowd control and animation knowledge are the keys to this fight.
 
 <Tips>
-    <Tip specialization="chronomancer">If you don't have a <Specialization name="spellbreaker"/>, run <Skill id="10267"/> for the entire fractal due to the <Instability name="No Pain, No Gain"/> mistlock instability.<br/>Keep in mind that the third hit of you auto-attack chain (and from your <Skill id="10173"/> clone) remove a boon as well.<br/>Also run <Skill id="29519"/> for the stronger defiance bars. Use it immediately on the last assault knight spawning at 25% of MAMA's health.<br/>Time your distortions for key attacks like MAMA's spinning and triple shockwave.</Tip> 
-    <Tip specialization="spellbreaker">For the entire fractal, remember to place your banners at the boss before doing `/gg` as they will continue to exist through death. This way, you can keep them up permanently even without <Boon name="alacrity"/>.<br/>Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.<br/>You can also use <Skill id="43123"/> for the adds.</Tip>
-    <Tip specialization="druid">If you have problems with incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.<br/><Skill id="31639"/> from your Electric Wyvern pet deals enormous defiance bar damage to the bosses, they all have a large hitbox.</Tip>
-    <Tip specialization="weaver">Depending on your group composition and damage start either in <Skill id="5494"/>/<Skill id="5492"/> with <Skill id="5737"/> (high damage, high cc) or in <Skill id="5495"/>/<Skill id="5492"/> with <Skill id="5528"/>. Depending on your group damage and opener you should either carry or summon <Skill id="5624"/> when MAMA goes immune the first time. Hit the add with <Skill id="5733"/> and <Skill id="5725"/> if ready (Do not use <Skill id="5725"/> on MAMA if she is only 2-3% before she phases.). Continue the normal rotation and slightly before or around the time you pick up <Skill id="5624"/> MAMA should be at 50%. Hit the add with <Skill id="5733"/> and <Skill id="5725"/>. Make sure that you can summon your third (or pick up your fourth if the damage is low) <Skill id="5624"/> for the last add. </Tip>
+    <Tip specialization="chronomancer">If you don't have a <Specialization name="spellbreaker"/>, run <Skill id="10267"/> for the entire fractal due to the <Instability name="No Pain, No Gain"/> mistlock instability.    
+        Keep in mind that the third hit of you auto-attack chain (and from your <Skill id="10173"/> clone) remove a boon as well.    
+        Also run <Skill id="29519"/> for the stronger defiance bars. Use it immediately on the last assault knight spawning at 25% of MAMA's health.    
+        Time your distortions for key attacks like MAMA's spinning and triple shockwave.</Tip> 
+    <Tip specialization="spellbreaker">For the entire fractal, remember to place your banners at the boss before doing `/gg` as they will continue to exist through death. This way, you can keep them up permanently even without <Boon name="alacrity"/>.    
+        Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.    
+        You can also use <Skill id="43123"/> for the adds.</Tip>
+    <Tip specialization="weaver">Depending on your group composition and damage start either in <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5737"/> (high damage, fast CC) or in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> (low damage).    
+        You should have a <Skill id="5624"/> available for each knight, hit them with <Skill id="5733"/> and <Skill id="5725"/> if ready (do not use <Skill id="5725"/> on MAMA if she is only 2-3% away from becoming invulnerable).</Tip>
+    <Tip specialization="druid">If you have problems with incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.    
+        <Skill id="31639"/> from your Electric Wyvern pet deals enormous defiance bar damage to the bosses, they all have a large hitbox.</Tip>
 </Tips>
 
 ---
@@ -50,7 +57,8 @@ Contrary to the first set of altars, respawning *Veteran Hallucinations* counter
 After you capped all three altars, use `/gg` immediately if someone in the party needs it, then you can continue up to the 2nd boss. Before the ramp up, a group of Krait will attack you - simply keep walking to skip them. Use dodges, evades or invulnerables to get through the cascading orbs and disable them by walking through the orb at the top of the ramp.
 
 <Tips>
-    <Tip specialization="chronomancer">Use <Skill id="10363"/> to pull mobs together.<br/>You can <Skill id="10200"/> and aggro the Krait at the eastern altar during <Skill id="29830"/> if you're fast. Afterwards teleport up to one of the altars as soon as someone pulled the mobs down.</Tip>
+    <Tip specialization="chronomancer">Use <Skill id="10363"/> to pull mobs together.    
+        You can <Skill id="10200"/> and aggro the Krait at the eastern altar during <Skill id="29830"/> if you're fast. Afterwards teleport up to one of the altars as soon as someone pulled the mobs down.</Tip>
     <Tip specialization="weaver"><Skill id="5738"/> is very strong against the groups of Krait. Use <Skill id="5536"/> to teleport up to the altars.</Tip>
 </Tips>
 
@@ -68,9 +76,16 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
 <Image src="fractals/nightmare/images/siax.jpg" title="Siax the Corrupted"/>
 
 <Tips>
-    <Tip specialization="chronomancer">Share <Boon name="aegis"/> with your party when the *Nightmare Hallucination* PBAoE goes off or too many *Volatile Hallucinations* explode on the party.<br/>With <Skill id="21750"/> you can recast your phantasms on the *Echo of the Unclean* to deal more damage.</Tip>
-    <Tip specialization="weaver"> Start in <Skill id="5495"/>/<Skill id="5492"/> with <Skill id="5528"/> while the last Illusions turn hostile. On the East and South *Echoes of the Unclean*, you can use <Skill id="5697"/> from <Skill id="5516"/> against the wall to deal enormous damage. On the second add spawn you can <Skill id="5697"/> everywhere. With normal damage Siax should turn invulnerable at the end of your first <Skill id="5624"/>. Place a <Skill id="13339"/> on your add and <Skill id="5697"/> this should kill your add in around 2 seconds. Cast <Skill id="5531"/> on siax and resart in fire. If your group damage was to low to pick up your second <Skill id="5516"/>, attune to <Skill id="5494"/>/<Skill id="5492"/> and use <Skill id="41125"/> for additional burst to kill you add quickly. If you need to help somebody out reattune to <Skill id="5492"/>/<Skill id="5494"/> and place a <Skill id="13339"/> on their add. Restart the fight in <Skill id="5494"/>/<Skill id="5492"/> with <Skill id="5737"/>.  </Tip>
-    <Tip specialization="druid">If you have problems with the incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.<br/>If you have trouble with the orbs leaving toxic trails, position yourself away from the boss to keep them from the melee area as he throws them on the furthest player (especially recommended if you party has low DPS).</Tip>    
+    <Tip specialization="chronomancer">Share <Boon name="aegis"/> with your party when the *Nightmare Hallucination* PBAoE goes off or too many *Volatile Hallucinations* explode on the party.    
+        With <Skill id="21750"/> you can recast your phantasms on the *Echo of the Unclean* to deal more damage.</Tip>
+    <Tip specialization="weaver"> Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> while the last Illusions despawn.    
+        On the East and South *Echoes of the Unclean*, you can use <Skill id="5697"/> from <Skill id="5516"/> against the wall to deal enormous damage. On the second add spawn you can <Skill id="5697"/> at any location.    
+        With normal group damage Siax should turn invulnerable at the end of your first <Skill id="5624"/>. Place a <Skill id="13339"/> and use <Skill id="5697"/> to kill your add in about two seconds.    
+        Continue with <Skill id="5531"/> on Siax and restart in <Skill id="5492"/>.    
+        If your group damage is too low to pick up your second <Skill id="5516"/> for the second add, attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and use <Skill id="41125"/> to kill it quickly.    
+        Continue with <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and <Skill id="5737"/>.</Tip>
+    <Tip specialization="druid">If you have problems with the incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.    
+        If you have trouble with the orbs leaving toxic trails, position yourself away from the boss to keep them from the melee area as he throws them on the furthest player (especially recommended if you party has low DPS).</Tip>    
 </Tips>
 
 ---
@@ -104,6 +119,10 @@ When Ensolyss reaches 15% health, he will stop using his usual attacks, but only
 
 <Tips>
     <Tip specialization="chronomancer">Use <Skill id="29519"/> with <Skill id="29830"/> at 100%, 66% and 33%.</Tip>
-    <Tip specialization="weaver">Start in <Skill id="5495"/>/<Skill id="5492"/> with <Skill id="5528"/> while Ensolyss spawns, make sure that your <Skill id="13339"/> and <Skill id="43762"/> hit in the same second as Ensolyss becomes vulnerable. Use <Skill id="5733"/> from your Lightning Hammer for CC.<br/>You can share <Skill id="5516"/> with the other <Specialization name="weaver"/> as you can only use one per phase anyway. Cast your second <Skill id="5501"/> in the middle of the platfrom after you have dodged his first charge. If all five players stand there he will teleport back into it. Reopen after the orb phases in <Skill id="5495"/>/<Skill id="5492"/>, while casting <Skill id="5528"/> about a second before the orb phase ends. Make sure to have your <Skill id="5501"/> either finished before the first knockback or start it after you know that you don't stand in the first knockback (Use <Skill id="5552"/> to bridge the time in which you reposition.).</Tip>
+    <Tip specialization="weaver">Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> while Ensolyss spawns, make sure that your <Skill id="13339"/> and <Skill id="43762"/> hit in the same second as Ensolyss becomes vulnerable.    
+        Use <Skill id="5733"/> from your <Skill id="5624"/> for CC.    
+        You can share <Skill id="5516"/> with another <Specialization name="weaver"/> as you can only use one per phase anyway.    
+        Cast your second <Skill id="5501"/> in the middle of the platform after dodging his first charge. If all five players stand there he will teleport back into it.    
+        After the orb phases, reopen in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5528"/> about a second before the orb phase ends. Make sure to have your <Skill id="5501"/> either finished before the first <Control name="knockback"/> zone goes off or start it after making sure you won't get hit.</Tip>
     <Tip specialization="druid">Use <Skill id="43636"/> from your Rock Gazelle for the first defiance bar and <Skill id="31639"/> from your Electric Wyvern pet for the second defiance bar. Use consumables if your team is short of CC.</Tip>    
 </Tips>
