@@ -173,21 +173,28 @@
   {
     "id": "great-builds",
     "header": "Great Builds",
-    "itemsPerRow": 4,
+    "itemsPerRow": 5,
     "items": [
       {
-        "id": "condition-druid",
-        "header": "Condition Druid",
+        "id": "hybrid-chronomancer",
+        "header": "Hybrid Chronomancer",
+        "meta": "Support",
+        "category": "mesmer",
+        "specialization": "chronomancer"
+      },
+      {
+        "id": "power-druid",
+        "header": "Power Druid",
         "meta": "Support",
         "category": "ranger",
-        "specialization": "druid",
-        "benchmark": {
-          "small": {
-            "dps": 18500,
-            "by": "Aeriel [SC]",
-            "youtube": "eer3LHQpPww"
-          }
-        }
+        "specialization": "druid"
+      },
+      {
+        "id": "boon-druid",
+        "header": "Boon Druid",
+        "meta": "Support",
+        "category": "ranger",
+        "specialization": "druid"
       },
       {
         "id": "power-holosmith",
@@ -216,7 +223,14 @@
             "youtube": "BuTUNNlY_6Q"
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "good-builds",
+    "header": "Good Builds",
+    "itemsPerRow": 5,
+    "items": [
       {
         "id": "condition-soulbeast",
         "header": "Condition Soulbeast",
