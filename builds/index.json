@@ -187,14 +187,156 @@
         "header": "Power Druid",
         "meta": "Support",
         "category": "ranger",
-        "specialization": "druid"
+        "specialization": "druid",
+        "perks": {
+          "skills": [
+            {
+              "id": 31869
+            },
+            {
+              "id": 12495
+            },
+            {
+              "id": 12493
+            },
+            {
+              "id": 12497
+            },
+            {
+              "id": 12498
+            },
+            {
+              "id": 12569
+            },
+            {
+              "id": 31582
+            }
+          ],
+          "traits": [
+            {
+              "id": 2057
+            },
+            {
+              "id": 1016
+            }
+          ],
+          "boons": [
+            {
+              "name": "Might",
+              "quantity": 10
+            },
+            {
+              "name": "Fury"
+            },
+            {
+              "name": "Regeneration"
+            },
+            {
+              "name": "Swiftness"
+            },
+            {
+              "name": "Protection"
+            },
+            {
+              "name": "Stability"
+            }
+          ],
+          "conditions": [
+            {
+              "name": "Vulnerability",
+              "quantity": 15
+            },
+            {
+              "name": "Blind"
+            }
+          ],
+          "effects": [
+            {
+              "name": "Stealth"
+            }
+          ]
+        }
       },
       {
         "id": "boon-druid",
         "header": "Boon Druid",
         "meta": "Support",
         "category": "ranger",
-        "specialization": "druid"
+        "specialization": "druid",
+        "perks": {
+          "skills": [
+            {
+              "id": 31869
+            },
+            {
+              "id": 12495
+            },
+            {
+              "id": 12493
+            },
+            {
+              "id": 12497
+            },
+            {
+              "id": 12498
+            },
+            {
+              "id": 12569
+            },
+            {
+              "id": 31582
+            }
+          ],
+          "traits": [
+            {
+              "id": 2057
+            },
+            {
+              "id": 1016
+            }
+          ],
+          "boons": [
+            {
+              "name": "Might",
+              "quantity": 25
+            },
+            {
+              "name": "Fury"
+            },
+            {
+              "name": "Regeneration"
+            },
+            {
+              "name": "Swiftness"
+            },
+            {
+              "name": "Protection"
+            },
+            {
+              "name": "Vigor"
+            },
+            {
+              "name": "Stability"
+            }
+          ],
+          "conditions": [
+            {
+              "name": "Vulnerability",
+              "quantity": 25
+            },
+            {
+              "name": "Blind"
+            },
+            {
+              "name": "Weakness"
+            }
+          ],
+          "effects": [
+            {
+              "name": "Stealth"
+            }
+          ]
+        }
       },
       {
         "id": "power-holosmith",
@@ -234,6 +376,7 @@
       {
         "id": "condition-soulbeast",
         "header": "Condition Soulbeast",
+        "unavailable": true,
         "meta": "Damage",
         "category": "ranger",
         "specialization": "soulbeast",
@@ -251,6 +394,7 @@
         "meta": "Damage",
         "category": "guardian",
         "specialization": "firebrand",
+        "unavailable": true,
         "benchmark": {
           "small": {
             "dps": 36000,
@@ -265,6 +409,7 @@
         "meta": "Damage",
         "category": "revenant",
         "specialization": "renegade",
+        "unavailable": true,
         "benchmark": {
           "large": {
             "dps": 37300,
@@ -281,6 +426,7 @@
       {
         "id": "condition-mirage",
         "header": "Condition Mirage",
+        "unavailable": true,
         "meta": "Damage",
         "category": "mesmer",
         "specialization": "mirage",
@@ -298,6 +444,7 @@
         "meta": "Damage",
         "category": "thief",
         "specialization": "daredevil",
+        "unavailable": true,
         "benchmark": {
           "small": {
             "dps": 30419,
