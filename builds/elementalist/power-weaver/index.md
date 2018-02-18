@@ -47,7 +47,7 @@ Build
 
 <Grid>
 <Column width="9">
-<Traits traits1Id="31" traits1="Fire" traits1Selected="296,325,1510" traits2Id="37" traits2="Arcane" traits2Selected="253,2572,1511" traits3Id="56" traits3="Weaver" traits3Selected="2177,2061,2131"/>
+<Traits traits1Id="31" traits1="Fire" traits1Selected="296,325,1510" traits2Id="37" traits2="Arcane" traits2Selected="253,257,1511" traits3Id="56" traits3="Weaver" traits3Selected="2177,2061,2131"/>
 
 <Skills weapon1Skill1="" weapon1Skill2="" weapon1Skill3="" weapon1Skill4="" weapon1Skill5="" utilitySkill1="5569" utilitySkill2="5624" utilitySkill3="5734" utilitySkill4="5539" utilitySkill5="5516"/>
 </Column>
@@ -88,12 +88,12 @@ Rotation
 The rotation is very complex and highly depends on a good <Boon name="alacrity"/> uptime. Below is a descending list of priorities:
 
 * Use <Skill id="5501"/> whenever possible and immediately switch to <Skill id="5495"/> while casting. Cast <Skill id="5528"/> before switching back to <Skill id="5492"/>, cast <Skill id="43762"/> and finally another <Skill id="5548"/>
-* If <Skill id="5737"/> is of cooldown attune to <Skill id="5494"/>/<Skill id="5492"/>. Use <Skill id="5552"/> and <Skill id="41125"/> dirst so your <Skill id="5737"/> can profit from the better modifier in <Skill id="5492"/>.
+* If <Skill id="5737"/> is of cooldown attune to <Skill id="5494"/>/<Skill id="5492"/>. Use <Skill id="5552"/> and <Skill id="41125"/> first so your <Skill id="5737"/> can profit from the better modifier in <Skill id="5492"/>.
     * If <Skill id="5501"/> is ready use <Skill id="5737"/> 	immediately followed by <Skill id="5501"/> and attune back to <Skill id="5492"/>/<Skill id="5494"/> 
     * If the boss fight will end before another <Skill id="5737"/> will be ready, use <Skill id="5736"/>. This is ideally done while attuning to <Skill id="5495"/>/<Skill id="5492"/>, followed by <Skill id="5528"/>, <Skill id="5501"/>, <Skill id="5492"/>/<Skill id="5495"/>, <Skill id="5548"/>, <Skill id="43762"/> and so on.
 * While attuned to <Skill id="5492"/>/<Skill id="5495"/> or  <Skill id="5492"/>/<Skill id="5494"/> and <Skill id="5548"/>, <Skill id="41125"/> and <Skill id="43762"/> are on cooldown before you switch to <Skill id="5492"/>/<Skill id="5492"/> to profit from <Trait id="2131"/>(You will fully attune to <Skill id="5492"/>/<Skill id="5492"/> while using the first skill.): 
     * In <Skill id="5624"/>:
-        * <Skill id="5725"/>
+        * Use <Skill id="5725"/> in the middle of the hitbox for better rng.
         * 2x auto-attack chain
     * Or in <Skill id="5516"/>:
         * Only when you can whirl against a wall <Skill id="5697"/> 
