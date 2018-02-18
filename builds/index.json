@@ -20,25 +20,22 @@
         "perks": {
           "skills": [
             {
-              "id": 10186
-            },
-            {
-              "id": 10302
-            },
-            {
               "id": 10197
             },
             {
               "id": 10200
             },
             {
-              "id": 29578
-            },
-            {
               "id": 29830
             },
             {
               "id": 10267
+            },
+            {
+              "id": 10186
+            },
+            {
+              "id": 10302
             },
             {
               "id": 10236
@@ -54,13 +51,16 @@
           ],
           "boons": [
             {
-              "name": "Quickness"
+              "name": "Quickness",
+              "percentage": 100
             },
             {
-              "name": "Alacrity"
+              "name": "Alacrity",
+              "percentage": 100
             },
             {
-              "name": "Might"
+              "name": "Might",
+              "quantity": 18
             },
             {
               "name": "Fury"
@@ -78,10 +78,10 @@
               "name": "Regeneration"
             },
             {
-              "name": "Aegis"
+              "name": "Vigor"
             },
             {
-              "name": "Vigor"
+              "name": "Aegis"
             },
             {
               "name": "Stability"
@@ -92,7 +92,8 @@
           ],
           "conditions": [
             {
-              "name": "Vulnerability"
+              "name": "Vulnerability",
+              "quantity": 15
             }
           ],
           "effects": [
@@ -108,6 +109,7 @@
         "meta": "Support",
         "category": "warrior",
         "specialization": "spellbreaker",
+        "unavailable": true,
         "benchmark": {
           "small": {
             "dps": 23181,
@@ -180,7 +182,8 @@
         "header": "Hybrid Chronomancer",
         "meta": "Support",
         "category": "mesmer",
-        "specialization": "chronomancer"
+        "specialization": "chronomancer",
+        "unavailable": true
       },
       {
         "id": "power-druid",
