@@ -2,7 +2,7 @@
   {
     "id": "meta-builds",
     "header": "Meta Builds",
-    "itemsPerRow": 3,
+    "itemsPerRow": 5,
     "items": [
       {
         "id": "boon-chronomancer",
@@ -104,8 +104,92 @@
         }
       },
       {
-        "id": "power-spellbreaker",
-        "header": "Power Spellbreaker",
+        "id": "hybrid-chronomancer",
+        "header": "Hybrid Chronomancer",
+        "meta": "Support",
+        "category": "mesmer",
+        "specialization": "chronomancer",
+        "benchmark": {
+          "small": {
+            "dps": 19071,
+            "by": "Van Gherwen [SC]",
+            "youtube": "T4q1e8jmGqM"
+          }
+        },
+        "perks": {
+          "skills": [
+            {
+              "id": 10197
+            },
+            {
+              "id": 10200
+            },
+            {
+              "id": 29830
+            },
+            {
+              "id": 10267
+            },
+            {
+              "id": 10186
+            },
+            {
+              "id": 10302
+            },
+            {
+              "id": 10236
+            },
+            {
+              "id": 29519
+            }
+          ],
+          "traits": [
+            {
+              "id": 1852
+            }
+          ],
+          "boons": [
+            {
+              "name": "Quickness",
+              "percentage": 100
+            },
+            {
+              "name": "Alacrity",
+              "percentage": 100
+            },
+            {
+              "name": "Might",
+              "quantity": 10
+            },
+            {
+              "name": "Fury"
+            },
+            {
+              "name": "Swiftness"
+            },
+            {
+              "name": "Vigor"
+            },
+            {
+              "name": "Aegis"
+            }
+          ],
+          "conditions": [
+            {
+              "name": "Vulnerability",
+              "quantity": 15
+            }
+          ],
+          "effects": [
+            {
+              "name": "Stealth"
+            }
+          ]
+        }
+      },
+      {
+        "id": "hybrid-spellbreaker",
+        "header": "Hybrid Spellbreaker",
         "meta": "Support",
         "category": "warrior",
         "specialization": "spellbreaker",
@@ -126,12 +210,14 @@
         "specialization": "weaver",
         "benchmark": {
           "large": {
-            "dps": 45715,
-            "by": "Derpy [SC]"
+            "dps": 46732,
+            "by": "hint [SC]",
+            "youtube": "kOQogr6wT-o"
           },
           "small": {
-            "dps": 37169,
-            "by": "Derpy [SC]"
+            "dps": 37301,
+            "by": "Depy [SC]",
+            "youtube": "kwTiXVsQ4BQ"
           }
         },
         "perks": {
@@ -166,96 +252,6 @@
             },
             {
               "name": "Blind"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "id": "great-builds",
-    "header": "Great Builds",
-    "itemsPerRow": 5,
-    "items": [
-      {
-        "id": "hybrid-chronomancer",
-        "header": "Hybrid Chronomancer",
-        "meta": "Support",
-        "category": "mesmer",
-        "specialization": "chronomancer",
-        "unavailable": true
-      },
-      {
-        "id": "power-druid",
-        "header": "Power Druid",
-        "meta": "Support",
-        "category": "ranger",
-        "specialization": "druid",
-        "perks": {
-          "skills": [
-            {
-              "id": 31869
-            },
-            {
-              "id": 12495
-            },
-            {
-              "id": 12493
-            },
-            {
-              "id": 12497
-            },
-            {
-              "id": 12498
-            },
-            {
-              "id": 12569
-            },
-            {
-              "id": 31582
-            }
-          ],
-          "traits": [
-            {
-              "id": 2057
-            },
-            {
-              "id": 1016
-            }
-          ],
-          "boons": [
-            {
-              "name": "Might",
-              "quantity": 10
-            },
-            {
-              "name": "Fury"
-            },
-            {
-              "name": "Regeneration"
-            },
-            {
-              "name": "Swiftness"
-            },
-            {
-              "name": "Protection"
-            },
-            {
-              "name": "Stability"
-            }
-          ],
-          "conditions": [
-            {
-              "name": "Vulnerability",
-              "quantity": 15
-            },
-            {
-              "name": "Blind"
-            }
-          ],
-          "effects": [
-            {
-              "name": "Stealth"
             }
           ]
         }
@@ -340,6 +336,125 @@
             }
           ]
         }
+      }
+    ]
+  },
+  {
+    "id": "great-builds",
+    "header": "Great Builds",
+    "itemsPerRow": 5,
+    "items": [
+      {
+        "id": "power-druid",
+        "header": "Power Druid",
+        "meta": "Support",
+        "category": "ranger",
+        "specialization": "druid",
+        "benchmark": {
+          "small": {
+            "dps": 15794,
+            "by": "Roca [SC]",
+            "youtube": "ocysUU1zRjQ"
+          }
+        },
+        "perks": {
+          "skills": [
+            {
+              "id": 31869
+            },
+            {
+              "id": 12495
+            },
+            {
+              "id": 12493
+            },
+            {
+              "id": 12497
+            },
+            {
+              "id": 12498
+            },
+            {
+              "id": 12569
+            },
+            {
+              "id": 31582
+            }
+          ],
+          "traits": [
+            {
+              "id": 2057
+            },
+            {
+              "id": 1016
+            }
+          ],
+          "boons": [
+            {
+              "name": "Might",
+              "quantity": 10
+            },
+            {
+              "name": "Fury"
+            },
+            {
+              "name": "Regeneration"
+            },
+            {
+              "name": "Swiftness"
+            },
+            {
+              "name": "Protection"
+            },
+            {
+              "name": "Stability"
+            }
+          ],
+          "conditions": [
+            {
+              "name": "Vulnerability",
+              "quantity": 15
+            },
+            {
+              "name": "Blind"
+            }
+          ],
+          "effects": [
+            {
+              "name": "Stealth"
+            }
+          ]
+        }
+      },
+      {
+        "id": "power-chronomancer",
+        "header": "Power Chronomancer",
+        "meta": "Damage",
+        "category": "mesmer",
+        "specialization": "chronomancer",
+        "unavailable": true,
+        "benchmark": {
+          "small": {
+            "dps": 33990,
+            "by": "Van Gherwen [SC]",
+            "youtube": "TmPlXZ-cg9s"
+          }
+        }
+      },
+      {
+        "id": "hybrid-spellbreaker",
+        "header": "Power Spellbreaker",
+        "meta": "Damage",
+        "category": "warrior",
+        "specialization": "spellbreaker",
+        "unavailable": true,
+        "benchmark": {
+          "small": {
+            "dps": 35875,
+            "by": "Sangi [SC]",
+            "youtube": "GaenYgxkSkk"
+          }
+        }
       },
       {
         "id": "power-holosmith",
@@ -349,9 +464,9 @@
         "specialization": "holosmith",
         "benchmark": {
           "small": {
-            "dps": 34129,
+            "dps": 33923,
             "by": "hint [SC]",
-            "youtube": "A0JnJ9Gsw7w"
+            "youtube": "M133xcW4fpk"
           }
         }
       },
@@ -362,10 +477,15 @@
         "category": "guardian",
         "specialization": "dragonhunter",
         "benchmark": {
-          "small": {
-            "dps": 31409,
+          "large": {
+            "dps": 33078,
             "by": "Nightmare [SC]",
-            "youtube": "BuTUNNlY_6Q"
+            "youtube": "uPP3eEjnqUE"
+          },
+          "small": {
+            "dps": 32814,
+            "by": "Nightmare [SC]",
+            "youtube": "uPP3eEjnqUE"
           }
         }
       }
@@ -385,9 +505,8 @@
         "specialization": "soulbeast",
         "benchmark": {
           "small": {
-            "dps": 34250,
-            "by": "Nightmare [SC]",
-            "youtube": "_Grwt9doSow"
+            "dps": 33328,
+            "by": "Nightmare [SC]"
           }
         }
       },
@@ -401,8 +520,7 @@
         "benchmark": {
           "small": {
             "dps": 36000,
-            "by": "Nightmare [SC]",
-            "youtube": "uxFZbaNYsP0"
+            "by": "Nightmare [SC]"
           }
         }
       },
@@ -415,14 +533,12 @@
         "unavailable": true,
         "benchmark": {
           "large": {
-            "dps": 37300,
-            "by": "Nightmare [SC]",
-            "youtube": "NDl0uCRMYAk"
+            "dps": 36369,
+            "by": "Nightmare [SC]"
           },
           "small": {
-            "dps": 33500,
-            "by": "Nightmare [SC]",
-            "youtube": "3tLqnBx-62M"
+            "dps": 31877,
+            "by": "Nightmare [SC]"
           }
         }
       },
@@ -435,24 +551,22 @@
         "specialization": "mirage",
         "benchmark": {
           "small": {
-            "dps": 35644,
-            "by": "Van Gherwen [SC]",
-            "youtube": "zyQgvgMrEno"
+            "dps": 35999,
+            "by": "Van Gherwen [SC]"
           }
         }
       },
       {
-        "id": "power-daredevil",
-        "header": "Power Daredevil",
+        "id": "power-deadeye",
+        "header": "Power Deadeye",
         "meta": "Damage",
         "category": "thief",
-        "specialization": "daredevil",
+        "specialization": "deadeye",
         "unavailable": true,
         "benchmark": {
           "small": {
-            "dps": 30419,
-            "by": "NeoVaris [SC]",
-            "youtube": "q5yTSEexMVY"
+            "dps": 32847,
+            "by": "NeoVaris [SC]"
           }
         }
       }
