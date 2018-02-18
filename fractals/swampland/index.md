@@ -16,9 +16,9 @@ The remaining two players can take the *Invigorator Rifle Prototypes* from the g
 </Grid>
 
 <Tips>
-    <Tip specialization="mesmer">You can place a <Skill id="10197"/> between a Wisp and the Clefts to instantly deliver it or place it in the middle of the map to make it easier for your comrades. Otherwise use <Skill id="10200"/> with <Skill id="29578"/> to cover your fails.</Tip>
+    <Tip specialization="chronomancer">You can place a <Skill id="10197"/> between a Wisp and the Clefts to instantly deliver it or place it in the middle of the map to make it easier for your comrades. Otherwise use <Skill id="10200"/> with <Skill id="29578"/> to cover your fails.</Tip>
     <Tip specialization="warrior">Use <Skill id="14516"/> for better mobility.</Tip>
-    <Tip specialization="elementalist">Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cleanse.</Tip>
+    <Tip specialization="weaver">Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cleanse.</Tip>
     <Tip specialization="thief">Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.</Tip>
 </Tips>
 
@@ -59,6 +59,7 @@ As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again
 <Tips>
     <Tip specialization="chronomancer">Take <Skill id="29526"/> if you have trouble with mechanics. Keep in mind that keeping up <Boon name="quickness"/> during the Spirit Onslaught phases is important as well.</Tip>
     <Tip specialization="ranger">If you're doing the fractal on level 77, take <Skill id="12489"/> traited with <Trait id="1075"/> against the <Instability name="Afflicted"/> instability.</Tip>
+    <Tip specialization="weaver">Use <Skill id="22572"/> for better cleave during the Spirit Onslaught phases..</Tip>
 </Tips>
 </Column>
 </Grid>
