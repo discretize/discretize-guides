@@ -82,8 +82,8 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
         On the East and South *Echoes of the Unclean*, you can use <Skill id="5697"/> from <Skill id="5516"/> against the wall to deal enormous damage. On the second add spawn you can <Skill id="5697"/> at any location.    
         With normal group damage Siax should turn invulnerable at the end of your first <Skill id="5624"/>. Place a <Skill id="13339"/> and use <Skill id="5697"/> to kill your add in about two seconds.    
         Continue with <Skill id="5531"/> on Siax and restart in <Skill id="5492"/>.    
-        If your group damage is too low to pick up your second <Skill id="5516"/> for the second add, attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and use <Skill id="41125"/> to kill it quickly.    
-        Continue with <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and <Skill id="5737"/>.</Tip>
+        If your group damage is too low to pick up your second <Skill id="5516"/> for the second add, place a <Skill id="13339"/> on it and attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> to use <Skill id="41125"/> for additional burst.    
+        Continue with <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and restart on Siax with <Skill id="5737"/>.</Tip>
     <Tip specialization="druid">If you have problems with the incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.    
         If you have trouble with the orbs leaving toxic trails, position yourself away from the boss to keep them from the melee area as he throws them on the furthest player (especially recommended if you party has low DPS).</Tip>    
 </Tips>
