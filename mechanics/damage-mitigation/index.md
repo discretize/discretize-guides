@@ -67,6 +67,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 <CardContent>
 * <Skill id="30074"/> (<Icon name="berserker"/>)
 * <Skill id="30682"/> (Sword F1, <Icon name="berserker"/>
+* <Skill id="45333"/> (<Icon name="spellbreaker"/>
 </CardContent>
 </Card>
 
