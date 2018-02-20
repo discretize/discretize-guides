@@ -1,9 +1,6 @@
-# Power Holosmith (DPS)
-
-The engineer build that currently fares best in fractals is the Power <Specialization name = "holosmith"/>, offering a mix of high damage and a good amount of CC and utility in form of <Condition name="vulnerability"/> and <Condition name="Blind"/>. It can also provide soft CC in form of <Condition name="Cripple"/> and <Condition name="Immobilize"/>. As a power class it benefits from Slaying Potions like <Item id="50082"/> and <Item id ="24868"/>. 
+The engineer build that currently fares best in fractals is the <Specialization prefix="power" name="holosmith"/>, offering a mix of high damage and a good amount of CC and utility in form of <Condition name="vulnerability"/> and <Condition name="Blind"/>. It can also provide soft CC in form of <Condition name="crippled"/> and <Condition name="immobile"/>. As a power class it benefits from slaying potions like <Item id="50082"/> and <Item id ="24868"/>. 
 
 It has two weapon sets that perform equally well when only looking at raw DPS while the rifle variant usually has a little higher burst and doesn't necessarily has to stay as close as the sword variant.
-
 
 <Divider>
 Equipment
@@ -19,11 +16,11 @@ Equipment
 
 <Card>
 <CardHeader>
-Alternative Weapon
+Alternative weapons
 </CardHeader>
 <CardContent>
-* Rifle with Night and Slaying Sigils
-* Sword/Pistol as an alternative to rifle with a bit less damage over all and lower burst as well as loosing some range. Sigils identical to Rifle variants.
+* Rifle with <Item id="36053"/>/<Item id="36054"/> and slaying sigils
+* Sword/Pistol as an alternative to Rifle with a bit less damage over all and lower burst as well as loosing some range. Sigils identical to rifle variants.
 </CardContent>
 </Card>
 </Column>
@@ -42,6 +39,18 @@ Build
 <Grid>
 <Column width="9">
 <Traits traits1Id="38" traits1="Firearms" traits1Selected="1914,2006,526" traits2Id="6" traits2="Explosives" traits2Selected="1882,1892,1541" traits3Id="57" traits3="Holomsith" traits3Selected="2106,2152,2064"/>
+
+<Card>
+<CardHeader>
+Situational Traits
+</CardHeader>
+<CardContent>
+| | |
+| -- | -- |
+| <Trait id="1923" size="big" text="false"/> | If lacking fury, consider swapping out <Trait id="2006"/>. |
+| <Trait id="505" size="big" text="false"/> | On longer fights without adds, this may pull slightly ahead of <Trait id="1541"/>. |
+</CardContent>
+</Card>
 </Column>
 
 <Column>
@@ -49,50 +58,27 @@ Build
 
 <Card>
 <CardHeader>
-Corresponding Toolbelt Skills
-</CardHeader>
-<CardContent>
-|||
-| -- | -- |
-|<Skill id="43845" size="big" text= "false"/> |<Skill id="5813" size="big" text= "false"/> <Skill id="6172" size="big" text= "false"/> <Skill id="42163" size="big" text= "false"/>
-</CardContent>
-</Card>
-
-<Card>
-<CardHeader>
-Bomb Kit Skills
-</CardHeader>
-<CardContent>
-|||
-| -- | -- |
-|<Skill id="5842" size="big" text= "false"/> <Skill id="5823" size="big" text= "false"/> <Skill id="5822" size="big" text= "false"/> <Skill id="5824" size="big" text= "false"/> <Skill id="5939" size="big" text= "false"/>
-</CardContent>
-</Card>
-
-<Card>
-<CardHeader>
-Grenade Kit Skills
-</CardHeader>
-<CardContent>
-|||
-| -- | -- |
-|<Skill id="5806" size="big" text= "false"/> <Skill id="5807" size="big" text= "false"/> <Skill id="5808" size="big" text= "false"/> <Skill id="5809" size="big" text= "false"/> <Skill id="5810" size="big" text= "false"/>
-</CardContent>
-</Card>
-
-<Card>
-<CardHeader>
-Situational
+Additional Skills
 </CardHeader>
 <CardContent>
 | | |
 | -- | -- |
-| <Trait id="1923" size="big" text="false"/> | If lacking fury, consider swapping out <Trait id="2006"/>.|
-| <Trait id="505" size="big" text="false"/> | On longer fights without adds, this may pull slightly ahead of <Trait id="1541"/>.|
+| Toolbelt | <Skill id="43845" size="big" text="false"/><Skill id="5813" size="big" text="false"/><Skill id="6172" size="big" text="false"/><Skill id="42163" size="big" text="false"/> |
+| <Skill id="5812" size="big" text="false"/> |<Skill id="5842" size="big" text="false"/><Skill id="5823" size="big" text="false"/><Skill id="5822" size="big" text="false"/><Skill id="5824" size="big" text="false"/><Skill id="5939" size="big" text="false"/> |
+| <Skill id="6020" size="big" text="false"/> |<Skill id="5806" size="big" text="false"/><Skill id="5807" size="big" text="false"/><Skill id="5808" size="big" text="false"/><Skill id="5809" size="big" text="false"/><Skill id="5810" size="big" text="false"/> |
+</CardContent>
+</Card>
+
+<Card>
+<CardHeader>
+Situational Skills
+</CardHeader>
+<CardContent>
+| | |
+| -- | -- |
 | <Skill id="5977" size="big" text="false"/> | You can equip <Skill id="5927"/> shortly before the fight and precast its toolbelt skill if you want to go the extra mile. |
 | <Skill id="5857" size="big" text="false"/> | An alternative healing skill if condition cleanse is needed. |
 | <Skill id="21659" size="big" text="false"/> | Provides additional CC with the toolbelt skill <Skill id="21661"/>. |
-
 </CardContent>
 </Card>
 </Column>
@@ -112,22 +98,17 @@ Skill Usage and Tips
 * Don't interrupt your auto attack chain in Photon Forge
 * Use your hardest hitting skills under the effect of the <Trait id="2106"/> (and possibly <Trait id="2122"/>) buff. These include the landing damage from <Skill id="6005"/>, <Skill id="6153"/> and <Skill id="42009"/>. Keep in mind that <Trait id="2106"/> consumes its charges while <Trait id="2122"/> is a duration buff.
 * Try to utilize your toolbelt skills off cooldown with <Skill id="42163"/> only being used above 50 heat.
-* Make sure to use Corona Burst <Skill id="44530"/> towards the end of your <Skill id ="42938"/> in order to have the <Boon name ="stability"/> from <Trait id="2152"/> avoiding knockback from <Skill id="6154"/>.
+* Make sure to use Corona Burst (<Skill id="44530" text="false"/>) towards the end of your <Skill id ="42938"/> in order to have the <Boon name ="stability"/> from <Trait id="2152"/> avoiding knockback from <Skill id="6154"/>.
 * Make use of <Skill id="5808"/> and <Skill id="5824"/> to mitigate damage in add heavy fights.
 * <Skill id="5939"/> can help in controlling movement of enemies without breakbar. 
 * Even though <Trait id="2064"/> counters the initial damage of overheating, it still does almost 4k damage over time so consider leaving Photon Forge early if you are at low health even at the cost of some DPS.
-
-
-
 </CardContent>
 </Card>
+
+<Video videoId="-M133xcW4fpk" videoTitle="Rifle: 33.9k DPS by hint [SC]"/>
 </Column>
 
 <Column>
-<Video videoId="-M133xcW4fpk" videoTitle="Rifle: 33.9k DPS by hint [SC]"/>
-
-<Video videoId="-UtdI_PSXR_8" videoTitle="Sword: 33.8k DPS by hint [SC]"/>
-
 <Card>
 <CardHeader>
 CC skills
@@ -135,15 +116,15 @@ CC skills
 <CardContent>
 | | |
 | -- | -- |
+| <Skill id="5813"/> | 332 damage |
 | <Skill id="6154"/> | 232 damage |
 | <Skill id="42009"/> | 232 damage |
-| <Skill id="42521"/> | 232 damage |
-| Holographic Shockwave | 232 damage |
-| <Skill id="5813"/> | 332 damage |
+| Holographic Shockwave (<Skill id="42521" text="false"/>) | 232 damage |
 | <Skill id="21661"/> | 100 damage |
-
 </CardContent>
 </Card>
+
+<Video videoId="-UtdI_PSXR_8" videoTitle="Sword: 33.8k DPS by hint [SC]"/>
 </Column>
 </Grid>
 

@@ -134,10 +134,12 @@ After the fight is over, take the portal in the North and move forward to get to
 
 ---
 
-## <Boss red/> Arkk <Label>9,942,250 HP</Label>
+## <Boss red/> Arkk <Item id="50082" text="false"/><Label>9,942,250 HP</Label>
 <Grid>
 <Column>
 Arkk is the third and final boss of the fractal. An attentive player may have noticed the `Nova Launch` special action key became even stronger now, doing medium damage, a 200 <Control name="launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
+
+In contrast to the other enemies in this fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him (*confirmed as of 2018/02/06 patch*).
 
 Arkk himself has no melee attacks, but a lot of abilities which can make the fight rather chaotic for inexperienced groups. However, all damage can be avoided and therefore a healer is not mandatory. More party DPS means less boss mechanics.
 

@@ -13,7 +13,7 @@ Equipment (150 AR)
 <Grid>
 <Row>
 <Column>
-Keep in mind that the setup below is optimized for healing in fractals and is not recommended for raid content due to the high Toughness amount from Minstrel (and Cleric) items. If you don't care about optimizing and want to use one set for everything, simply run a full Harrier setup instead.
+Keep in mind that the setup below is optimized for healing in fractals and is not recommended for raid content due to the high Toughness amount from Minstrel and Cleric items. If you don't care about optimizing and want to use one set for everything, simply run a full Harrier setup instead.
 </Column>
 </Row>
 

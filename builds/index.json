@@ -12,9 +12,9 @@
         "specialization": "chronomancer",
         "benchmark": {
           "small": {
-            "dps": 12345,
-            "by": "place [holder]",
-            "youtube": "abc"
+            "dps": 9687,
+            "by": "Van Gherwen [SC]",
+            "youtube": "ubpK_srQYSg"
           }
         },
         "perks": {
@@ -193,13 +193,42 @@
         "meta": "Support",
         "category": "warrior",
         "specialization": "spellbreaker",
-        "unavailable": true,
         "benchmark": {
           "small": {
-            "dps": 23181,
+            "dps": 23318,
             "by": "Moorbazan [qT]",
             "youtube": "gmbkqGjnMTc"
           }
+        },
+        "perks": {
+          "skills": [
+            {
+              "id": 14407
+            },
+            {
+              "id": 14405
+            },
+            {
+              "id": 45252
+            },
+            {
+              "id": 45333
+            },
+            {
+              "id": 43123
+            }
+          ],
+          "traits": [
+            {
+              "id": 1482
+            }
+          ],
+          "conditions": [
+            {
+              "name": "vulnerability",
+              "quantity": 10
+            }
+          ]
         }
       },
       {
@@ -442,7 +471,7 @@
         }
       },
       {
-        "id": "hybrid-spellbreaker",
+        "id": "power-spellbreaker",
         "header": "Power Spellbreaker",
         "meta": "Damage",
         "category": "warrior",
