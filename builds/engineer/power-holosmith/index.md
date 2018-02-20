@@ -79,6 +79,7 @@ Situational Skills
 | <Skill id="5977" size="big" text="false"/> | You can equip <Skill id="5927"/> shortly before the fight and precast its toolbelt skill if you want to go the extra mile. |
 | <Skill id="5857" size="big" text="false"/> | An alternative healing skill if condition cleanse is needed. |
 | <Skill id="21659" size="big" text="false"/> | Provides additional CC with the toolbelt skill <Skill id="21661"/>. |
+| <Skill id="43739" size="big" text="false"/> | Is another (group) block skill which even reflects projectiles above 50 heat. |
 </CardContent>
 </Card>
 </Column>
@@ -102,6 +103,8 @@ Skill Usage and Tips
 * Make use of <Skill id="5808"/> and <Skill id="5824"/> to mitigate damage in add heavy fights.
 * <Skill id="5939"/> can help in controlling movement of enemies without breakbar. 
 * Even though <Trait id="2064"/> counters the initial damage of overheating, it still does almost 4k damage over time so consider leaving Photon Forge early if you are at low health even at the cost of some DPS.
+
+You can switch to <Specialization name="scrapper"/> and equip <Skill id="30815"/> if you need <Effect name="stealth"/> for longer passages (e.g. [Twilight Oasis Fractal](https://discretize.eu/fractals/twilight-oasis)). It provides >40 seconds for the whole group. A smoke field can also be provided by <Skill id="5824"/> to blast <Effect name="stealth"/>.
 </CardContent>
 </Card>
 
@@ -127,4 +130,3 @@ CC skills
 <Video videoId="-UtdI_PSXR_8" videoTitle="Sword: 33.8k DPS by hint [SC]"/>
 </Column>
 </Grid>
-
