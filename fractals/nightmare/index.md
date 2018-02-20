@@ -24,8 +24,7 @@ Fast crowd control and animation knowledge are the keys to this fight.
         Also run <Skill id="29519"/> for the stronger defiance bars. Use it immediately on the last assault knight spawning at 25% of MAMA's health.    
         Time your distortions for key attacks like MAMA's spinning and triple shockwave.</Tip> 
     <Tip specialization="spellbreaker">For the entire fractal, remember to place your banners at the boss before doing `/gg` as they will continue to exist through death. This way, you can keep them up permanently even without <Boon name="alacrity"/>.    
-        Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.    
-        You can also use <Skill id="43123"/> for the adds.</Tip>
+        Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.</Tip>
     <Tip specialization="weaver">Depending on your group composition and damage start either in <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5737"/> (high damage, fast CC) or in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> (low damage).    
         You should have a <Skill id="5624"/> available for each knight, hit them with <Skill id="5733"/> and <Skill id="5725"/> if ready (do not use <Skill id="5725"/> on MAMA if she is only 2-3% away from becoming invulnerable).</Tip>
     <Tip specialization="druid">If you have problems with incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.    

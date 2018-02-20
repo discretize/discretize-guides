@@ -37,7 +37,7 @@ Swap Weapons
 <Column>
 <Trinkets backItemId="49384" backItemStatId="584" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="79710" ring2StatId="1128" ring2Affix="Assassin"/>
 
-<Consumables foodId="12467" utilityId="77569" infusionId="37131"/>
+<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </Column>
 </Row>
 
@@ -73,7 +73,6 @@ Situational
 | -- | -- |
 | <Trait id="2000" size="big" text="false"/> | If you don't run a Greatsword. |
 | <Skill id="14483" size="big" text="false"/> | If there are no boons to be removed or projectiles to be destroyed. |
-| <Skill id="43123" size="big" text="false"/> | Another boon removal at the cost of DPS. |
 </CardContent>
 </Card>
 </Column>
@@ -107,7 +106,7 @@ The rotation varies depending on weapon set, the encounter-specific mechanics an
     * Have 1-5 stacks of <Trait id="2130"/> adding 60 Power and Ferocity per stack
   * On **Greatsword**:
     * Don't cancel your auto-attack as the third hit deals the most damage
-    * <Skill id="14447"/> is a DPS increase, especially against a wall
+    * <Skill id="14447"/> is a DPS increase, especially against a wall (cancel it with stow weapon after you leave the target's hitbox)
     * <Skill id="14510"/> is worth using between auto-attack chains
   * On **Axe**:
     * <Skill id="14421"/>, <Skill id="14398"/> and <Skill id="14418"/> are a DPS increase

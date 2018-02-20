@@ -213,9 +213,6 @@
             },
             {
               "id": 45333
-            },
-            {
-              "id": 43123
             }
           ],
           "traits": [
@@ -245,7 +242,7 @@
           },
           "small": {
             "dps": 37301,
-            "by": "Depy [SC]",
+            "by": "Derpy [SC]",
             "youtube": "kwTiXVsQ4BQ"
           }
         },
@@ -253,6 +250,14 @@
           "skills": [
             {
               "id": 5536
+            }
+          ],
+          "traits": [
+            {
+              "id": 264
+            },
+            {
+              "id": 1502
             }
           ],
           "boons": [
@@ -264,12 +269,10 @@
               "name": "Fury"
             },
             {
-              "name": "Swiftness",
-              "percentage": 50
+              "name": "Swiftness"
             },
             {
-              "name": "Protection",
-              "percentage": 33
+              "name": "Protection"
             }
           ],
           "conditions": [
@@ -497,6 +500,41 @@
             "by": "hint [SC]",
             "youtube": "M133xcW4fpk"
           }
+        },
+        "perks": {
+          "skills": [
+            {
+              "id": 30815
+            },
+            {
+              "id": 43739
+            }
+          ],
+          "traits": [
+            {
+              "id": 517
+            }
+          ],
+          "conditions": [
+            {
+              "name": "vulnerability",
+              "quantity": 20
+            },
+            {
+              "name": "blind"
+            },
+            {
+              "name": "crippled"
+            },
+            {
+              "name": "immobile"
+            }
+          ],
+          "effects": [
+            {
+              "name": "stealth"
+            }
+          ]
         }
       },
       {
@@ -516,6 +554,42 @@
             "by": "Nightmare [SC]",
             "youtube": "uPP3eEjnqUE"
           }
+        },
+        "perks": {
+          "skills": [
+            {
+              "id": 30783
+            },
+            {
+              "id": 30039
+            },
+            {
+              "id": 9153
+            },
+            {
+              "id": 9251
+            }
+          ],
+          "boons": [
+            {
+              "name": "retaliation"
+            },
+            {
+              "name": "aegis"
+            }
+          ],
+          "conditions": [
+            {
+              "name": "vulnerability",
+              "quantity": 15
+            },
+            {
+              "name": "blind"
+            },
+            {
+              "name": "crippled"
+            }
+          ]
         }
       }
     ]
