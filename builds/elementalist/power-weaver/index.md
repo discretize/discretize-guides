@@ -94,10 +94,10 @@ The rotation is very complex and highly depends on a good <Boon name="alacrity"/
 5. Switch to <Skill id="5494" text="false"/> when <Skill id="5737"/> is ready. <Skill id="41125"/> (and <Skill id="5552"/>) is a DPS increase over auto-attacking while waiting to go back in <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/>
 6. Use <Skill id="5501"/> whenever possible and immediately switch to <Skill id="5495" text="false"/> while casting. Cast <Skill id="5528"/> before switching back to <Skill id="5492" text="false"/>, cast <Skill id="43762"/> and finally another <Skill id="5548"/>
 7. While attuned to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> or <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> and <Skill id="5548"/>, <Skill id="41125"/> and <Skill id="43762"/> are on cooldown use a conjured weapon and switch back to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> during the first attack: 
-    * In <Skill id="5624"/>: <Skill id="5725"/> => 2x auto-attack chain
+    * In <Skill id="5624"/>: <Skill id="5725"/> (inside the bosses hitbox) => 2x auto-attack chain
     * Or in <Skill id="5516"/>: Only when you can whirl against a wall <Skill id="5697"/> => <Skill id="5517"/> => <Skill id="5531"/> 
     * Or in <Skill id="5567"/>: <Skill id="5568"/> => <Skill id="5723"/> => <Skill id="5720"/>
-8. If the boss fight will end before you can use another , use <Skill id="5736"/> instead (ideally during <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> cycle)
+8. If the boss fight will end before you can use another <Skill id="5737"/>, use <Skill id="5736"/> instead (ideally during <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> cycle)
 9. If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> to get a last burst with <Skill id="41125"/> in
 </CardContent>
 </Card>

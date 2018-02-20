@@ -58,6 +58,7 @@ As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again
 <Image src="fractals/swampland/images/bloomhunger.jpg" title="Bloomhunger" compact/>
 <Tips>
     <Tip specialization="chronomancer">Take <Skill id="29526"/> if you have trouble with mechanics. Keep in mind that keeping up <Boon name="quickness"/> during the Spirit Onslaught phases is important as well.</Tip>
+    <Tip specialization="elementalist">Use <Skill id="22572"/> for better cleave during the Spirit Onslaught phases.</Tip>
     <Tip specialization="ranger">If you're doing the fractal on level 77, take <Skill id="12489"/> traited with <Trait id="1075"/> against the <Instability name="Afflicted"/> instability.</Tip>
 </Tips>
 </Column>

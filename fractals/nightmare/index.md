@@ -49,7 +49,7 @@ On a side note, more players do not cap an altar faster. More than one person st
 ## Second set of altars <Item id="50082" text="false"/><Item id="24658" text="false"/>
 Again, pull all enemies to the center (wait for the <Specialization name="mesmer"/> to cast <Skill id="10186"/>) and kill them there. The mobs at the left altar (West) can be aggroed with a simple projectile, the mobs on the right side (East) need to be pulled with <Skill id="14381"/> (Longbow), <Skill id="5491"/> (Staff) or by teleporting up and jumping down.
 
-Both side altars can easily be capped by a single person after another player has pulled down the mobs.
+Both side altars can easily be capped by a single person after another player has pulled down the mobs. Please note that you have to wait until the mobs are down before teleporting elsewhere to prevent them from running back.
 
 Contrary to the first set of altars, respawning *Veteran Hallucinations* counteract capping here. Use <Control name="pull"/> to grab them out of the central altar and always have a positive amount of players inside.
 
@@ -81,8 +81,8 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
         On the East and South *Echoes of the Unclean*, you can use <Skill id="5697"/> from <Skill id="5516"/> against the wall to deal enormous damage. On the second add spawn you can <Skill id="5697"/> at any location.    
         With normal group damage Siax should turn invulnerable at the end of your first <Skill id="5624"/>. Place a <Skill id="13339"/> and use <Skill id="5697"/> to kill your add in about two seconds.    
         Continue with <Skill id="5531"/> on Siax and restart in <Skill id="5492"/>.    
-        If your group damage is too low to pick up your second <Skill id="5516"/> for the second add, attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and use <Skill id="41125"/> to kill it quickly.    
-        Continue with <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and <Skill id="5737"/>.</Tip>
+        If your group damage is too low to pick up your second <Skill id="5516"/> for the second add, place a <Skill id="13339"/> on it, attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and use <Skill id="41125"/> to kill it quickly.    
+        Continue with <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and <Skill id="5737"/> on Siax.</Tip>
     <Tip specialization="druid">If you have problems with the incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.    
         If you have trouble with the orbs leaving toxic trails, position yourself away from the boss to keep them from the melee area as he throws them on the furthest player (especially recommended if you party has low DPS).</Tip>    
 </Tips>
