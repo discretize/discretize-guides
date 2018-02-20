@@ -162,6 +162,12 @@
               "id": 24868
             }
           ],
+          "potions": [
+            {
+              "id": 50082,
+              "description": "against Arkk"
+            }
+          ],
           "consumables": [
             {
               "id": 78978

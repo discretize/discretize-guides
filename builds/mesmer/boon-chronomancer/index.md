@@ -1,13 +1,19 @@
-Yes, you've read right - the <Specialization prefix="boon" name="chronomancer"/> is capable of permanently providing **every single boon** in the game (ok, minus <Boon name="resistance"/>) to the party.
+Yes, you've read right - the <Specialization prefix="boon" name="chronomancer"/> is capable of providing **every single boon** in the game to the party. You can permanently keep up ten boons plus <Boon name="aegis"/> and some <Boon name="resistance"/> which has great synergy with your own trait <Trait id="1865"/>, the <Specialization name="spellbreaker" prefix="hybrid"/>'s <Trait id="1471" profession="warrior"/> and the <Specialization name="weaver" prefix="arcane"/>'s <Trait id="1511"/>.
+
+This is the recommended build variant if you plan to play **without a <Specialization name="druid"/> and a third <Specialization name="weaver" prefix="arcane"/> instead**, as one <Trait id="264" profession="elementalist"/> is enough to keep up 25x <Boon name="might"/> in combination with your own might output - making <Skill id="31582" profession="ranger"/>, <Skill id="12497" profession="ranger"/> and <Trait id="1016" profession="ranger"/> (redundant with <Trait id="2177" profession="elementalist"/> in fractals) the only loss while you gain much more DPS. The slow ramp-up time for <Boon name="might"/> is compensated by pre-stacking.
+
+On top of all that the build has access to the usual mesmer utilities being <Skill id="10197"/> and <Effect name="stealth"/> skips, strong reflects, boon stripping and amazing crowd control skills such as <Skill id="29519"/>.
+
+While the sheer amount of possibilities are nice to look at, the Chronomancer is one of the harder builds to play as the skills require timing and good dynamic decision-making.
 
 <Divider>
-Equipment (150 AR)
+Equipment (150 AR + 11 boons avg)
 </Divider>
 
 <Grid>
 <Row>
 <Column>
-As you overcap 100% boon duration with <Item id="70600"/> in fractals, <Item id="24836"/> is the recommended alternative. Another option is to aim for 100% without <Item id="72339"/> and keep your (raid) boon duration runes.
+As you overcap 100% boon duration with <Trait id="1865"/>, <Item id="72339"/>, <Item id="79722"/> and <Item id="70600"/> in fractals, <Item id="24836"/> is the recommended alternative. Another option is to aim for 100% without <Item id="72339"/> and keep your (raid) boon duration runes.
 </Column>
 </Row>
 
@@ -17,7 +23,7 @@ As you overcap 100% boon duration with <Item id="70600"/> in fractals, <Item id=
 </Column>
 
 <Column>
-<Weapons weapon1MainId="46774" weapon1MainSigil1Id="24615" weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffId="46770" weapon1OffSigilId="72339" weapon1OffAffix="Berserker" weapon1OffType="Shield" weapon1OffSigil="Concentration" weapon2MainId="46773" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="72339" weapon2MainType="Staff" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Concentration"/>
+<Weapons weapon1MainId="46774" weapon1MainSigil1Id="72339" weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Concentration" weapon1OffId="46770" weapon1OffSigilId="42615" weapon1OffAffix="Berserker" weapon1OffType="Shield" weapon1OffSigil="Force" weapon2OffId="46774" weapon2OffSigilId="24615" weapon2OffType="Sword" weapon2OffAffix="Berserker" weapon2OffSigil="Force"/>
 
 ---
 
@@ -56,7 +62,7 @@ Situational Traits
 | | |
 | -- | -- |
 | <Trait id="1987" size="big" text="false"/> | A very slight DPS loss but adds quite some healing. |
-| <Trait id="751" size="big" text="false"/> | Use it together with a focus for <Control name="pull"/>s and reflects. Swap out your shield in that case. |
+| <Trait id="751" size="big" text="false"/> | Use it together with a focus for <Control name="pull"/>s and reflects. Swap out your offhand sword in that case, but keep in mind the <Skill id="10282"/> takes much longer to turn into a clone for your first <Skill id="29830"/>. |
 | <Trait id="674" size="big" text="false"/> | Increases the duration of all your <Effect name="stealth"/> skills by 50%. |
 | <Trait id="752" size="big" text="false"/> | Two seconds longer duration for Glamour skills like <Skill id="10197"/>. |
 </CardContent>
@@ -96,19 +102,28 @@ Details
 <Column>
 <Card>
 <CardHeader>
-Opener
+Written Opener
 </CardHeader>
 <CardContent>
-- Start on Staff with <Skill id="10169"/>, <Skill id="10331"/>, <Skill id="10216"/> and <Skill id="10310"/>
-- Swap to Sword/Shield and use <Skill id="10173"/>
-- Cast <Skill id="30643"/> and use <Skill id="29830"/> at the end of the cast which grants yourself <Boon name="quickness"/> due to <Trait id="2022"/>
-- Cast all four shatter skills while continueing with the skills below, if a defiance bar is up use <Skill id="10287"/> first, otherwise <Skill id="49068"/>
-- <Skill id="10236"/>
-- <Skill id="29519"/> if a defiance bar is up
-- <Skill id="29856"/>
-- <Skill id="30814"/>
-- <Skill id="30747"/> ends
-- <Skill id="30643"/>, <Skill id="29856"/>, <Skill id="30814"/>, <Skill id="10236"/> and all shatters again
+1. Start on Sword/Shield with <Skill id="30769"/> and cast <Skill id="10190"/> before it completes (<Boon name="quickness" text="false"/><Boon name="alacrity" text="false"/><Boon name="vigor" text="false"/><Boon name="stability" text="false"/><Boon name="protection" text="false"/>)
+2. <Skill id="30643"/> and <Skill id="10173"/>
+3. Swap to Sword/Sword and cast <Skill id="10174"/>
+4. <Skill id="21750"/> and use <Skill id="29830"/> during the aftercast (practice the timing!)
+    1. Use the remaining three shatters while continueing with the skills below (<Boon name="might" text="false"/><Boon name="fury" text="false"/><Boon name="regeneration" text="false"/>)
+    2. <Skill id="29519"/> if a defiance bar is up
+    3. <Skill id="10236"/>
+    4. <Skill id="29856"/> and <Skill id="30814"/>
+    5. <Skill id="10174"/>
+5. <Skill id="30747"/> ends
+6. <Skill id="10174"/> and <Skill id="21750"/>
+7. <Skill id="29856"/> and <Skill id="30814"/>
+8. <Skill id="10174"/>
+9. Swap back to Sword/Shield
+10. Shatter everything again while continueing
+11. <Skill id="10236"/>
+12. <Skill id="10334"/>
+13. <Skill id="30769"/>
+14. <Skill id="10173"/>
 </CardContent>
 </Card>
 
@@ -123,6 +138,7 @@ CC skills
 | <Skill id="30643"/> | 200-1200 damage |
 | <Skill id="10287"/> | 100-400 damage |
 | <Skill id="30814"/> | 150 damage (with <Condition name="slow"/>) |
+| <Skill id="10358"/> | 100 damage |
 | <Skill id="29856"/> | 99 damage (with <Condition name="chilled"/>) |
 </CardContent>
 </Card>
@@ -134,22 +150,22 @@ CC skills
 Skill priority
 </CardHeader>
 <CardContent>
-As really every skill you have is worth using, you should simply cast everything whenever it is off recharge.
+As really every skill you have is worth using, you should simply cast everything whenever it is off recharge after following the opener sequence to the left.
 
 If you're running a setup with <Item id="72339"/>, remember to weapon swap as often as possible and use <Skill id="10236"/> and phantasms triggering <Trait id="1866"/> in the 7 seconds afterwards.
 
 ### Boons
 * <Boon name="quickness"/> with <Skill id="30814"/> and <Trait id="2022"/>
 * <Boon name="alacrity"/> with <Skill id="30643"/>, <Skill id="29856"/> and <Trait id="1927"/>
-* 15-20x <Boon name="might"/> with <Skill id="49068"/> (<Trait id="1687" text="false"/>), <Trait id="1866"/> and <Skill id="10273"/>
-* <Boon name="fury"/> with <Skill id="10287"/> (<Trait id="1687" text="false"/>) and <Skill id="10273"/>
-* <Boon name="protection"/> with <Skill id="30769"/>, <Skill id="10331"/> (<Trait id="669" text="false"/>) and <Trait id="667"/>
+* 15-20x <Boon name="might"/> with <Skill id="49068"/> (<Trait id="1687" text="false"/>) and <Trait id="1866"/>
+* <Boon name="fury"/> with <Skill id="10287"/> (<Trait id="1687" text="false"/>)
+* <Boon name="protection"/> with <Skill id="30769"/> and (<Trait id="669" text="false"/>) and <Trait id="667"/>
 * <Boon name="vigor"/> with <Skill id="10190"/> (<Trait id="1687" text="false"/>)
-* <Boon name="retaliation"/> with <Skill id="10169"/> and <Trait id="670"/>
-* <Boon name="swiftness"/> with <Skill id="10169"/>, <Trait id="670"/>, <Skill id="10331"/> and <Skill id="10236"/>
-* <Boon name="aegis"/> with <Trait id="1852"/>
-* <Boon name="regeneration"/> with <Skill id="10192"/> (<Trait id="1687" text="false"/>), <Skill id="10331"/> and <Trait id="666"/>
+* <Boon name="retaliation"/> with any healing skill and <Trait id="670"/>
+* <Boon name="swiftness"/> with <Trait id="670"/> and <Skill id="10236"/>
+* <Boon name="regeneration"/> with <Skill id="10192"/> (<Trait id="1687" text="false"/>) and <Trait id="666"/>
 * <Boon name="stability"/> with every shatter (<Trait id="1687" text="false"/>)
+* <Boon name="aegis"/> with <Trait id="1852"/>
 * <Boon name="resistance"/> with <Skill id="29830"/> (<Trait id="1687" text="false"/>)
 
 Are we done yet? No!
@@ -158,10 +174,10 @@ Are we done yet? No!
 Break any defiance bar with <Skill id="29519"/>, <Skill id="30643"/> and <Skill id="10287"/>. You can also run <Item id="24639"/> on your shield.
 
 ### Conditions
-You can put out between 10-25x <Condition name="vulnerability"/> with <Skill id="10216"/> and your sword auto-attack (the clones from <Skill id="10173"/> and <Skill id="30769"/> execute the sword chain as well!). You can run <Item id="24567"/> on your staff for additional ~3 stacks.
+You can put out around 15x <Condition name="vulnerability"/> with your sword auto-attack (the clones from <Skill id="10173"/>, <Skill id="30769"/> and <Skill id="10174"/> execute the sword chain as well!).
 
 ### DPS
-Use <Skill id="10334"/>, your phantasms and <Skill id="21750"/> whenever they are ready. As soon as you get three illusions up cast <Skill id="49068"/> (plus all other shatters afterwards). You will end up doing around 8-10k DPS on fractal bosses with optimized gear.
+Use <Skill id="10334"/>, your phantasms and <Skill id="21750"/> whenever they are ready. Don't cancel your auto-attacks as the third hit deals the most damage. As soon as you get three illusions up cast <Skill id="49068"/> (plus all other shatters afterwards). You will end up doing around 9-11k DPS on fractal bosses with optimized gear.
 </CardContent>
 </Card>
 </Column>

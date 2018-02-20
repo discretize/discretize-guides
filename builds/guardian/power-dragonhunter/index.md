@@ -1,6 +1,4 @@
-# Power Gaurdian (DPS)
-
-Intro text bla bla
+The <Specialization name="dragonhunter" prefix="power"/> is...
 
 <Divider>
 Equipment
@@ -12,7 +10,17 @@ Equipment
 </Column>
 
 <Column>
-<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24554" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Air" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46775" weapon2OffSigilId="24554" weapon2OffType="Torch" weapon2OffAffix="Berserker" weapon2OffSigil="Air"/>
+<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Scepter" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46775" weapon2OffSigilId="24868" weapon2OffType="Torch" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
+
+<Card>
+<CardHeader>
+Alternative weapons
+</CardHeader>
+<CardContent>
+- Weapons with <Item id="36053"/>/<Item id="36054"/> and slaying sigils
+- Hammer for <Boon name="might"/> stacking
+</CardContent>
+</Card>
 </Column>
 
 <Column>
@@ -41,9 +49,10 @@ Situational
 <CardContent>
 | | |
 | -- | -- |
-| <Skill id="9246" size="big" text="false"/> | A 1,200 range teleport (to an ally), sufficient for most blink spots. |
-| <Skill id="9153" size="big" text="false"/> | Can be used where <Boon name="stability"/> or <Control name="stun"/> break needed. |
-| <Skill id="9125" size="big" text="false"/> | Can be used for extra CC (200 damage) |
+| <Skill id="9246" size="big" text="false"/> | A 1,200 range teleport to an ally. |
+| <Skill id="9153" size="big" text="false"/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
+| <Skill id="9125" size="big" text="false"/> | Deals additional 200 defiance bar damage. |
+| <Skill id="9251" size="big" text="false"/> | A stationary reflect lasting for 10 seconds. |
 </CardContent>
 </Card>
 </Column>
@@ -60,45 +69,24 @@ Details
 Rotation
 </CardHeader>
 <CardContent>
-* Start with Greatsword
-* Make sure both your <Skill id="29887"/> and <Skill id="30364"/> are off cooldown, then get ready for Weapon Swap:
+* Start on Greatsword:
+  * Don't interrupt your auto-attack chain as the last hit deals the most damage
+  * Use <Skill id="9146"/> and <Skill id="9081"/> off cooldown (stand inside the enemy's hitbox)
+  * Align <Skill id="9146"/> with <Skill id="30364"/> and <Skill id="29887"/> if possible
+* on Scepter:
+  * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
+  * Use <Skill id="9104"/> => <Skill id="9089"/> whenever ready
+  * Align <Skill id="9090"/> with <Skill id="30364"/> and <Skill id="29887"/> if possible
+* Apart from that, use the following skills off recharge in combination with a symbol:
   * <Skill id="30364"/>
   * <Skill id="29887"/>
-  * if swaping from Greatsword to Scepter:
-    * <Skill id="9147"/> (skip on first swap)
-    * <Skill id="9146"/>
-    * <Skill id="30273"/> (if not under cooldown)
-    * <Skill id="9168"/>
-    * <Skill id="9081"/>
-    * Weapon Swap
-    * <Skill id="9090"/>
-    * <Skill id="9104"/> => <Skill id="9089"/>
-  * if Swapping from Scepter to Greatsword:
-    * <Skill id="9168"/> (only if Icon states 2 uses left)
-    * <Skill id="9104"/> => <Skill id="9089"/>
-    * <Skill id="30273"/> (if not under cooldown)
-    * <Skill id="9168"/>
-    * <Skill id="9090"/>
-    * Weapon Swap
-    * <Skill id="9146"/>
-    * <Skill id="9081"/>
-
-* on Scepter:
-  * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel aftercast.
-  * Use <Skill id="9104"/> => <Skill id="9089"/> and <Skill id="9104"/> off cooldown.
-  * Your 4th <Skill id="9090"/> should be aligned with <Skill id="30364"/> and  <Skill id="29887"/> cooldowns.
-* on Greatsword:
-  * Make sure to finish Greatsword auto-attack chain before casting anything else.
-  * When using <Skill id="9081"/> do not cast auto as it will interrupt the cast.
-  * Use <Skill id="9146"/> and <Skill id="9081"/> off cooldown.
-  * Your 2ed <Skill id="9146"/> should be aligned with <Skill id="30364"/> and  <Skill id="29887"/> cooldowns.
+  * <Skill id="30273"/>
+  * <Skill id="9168"/>
 </CardContent>
 </Card>
 </Column>
 
 <Column>
-<Video videoId="BuTUNNlY_6Q" videoTitle="Small Hitbox: 31.4k DPS by Nightmare [SC]"/>
-
 <Card>
 <CardHeader>
 CC skills
@@ -107,9 +95,9 @@ CC skills
 | | |
 | -- | -- |
 | <Skill id="9093"/> | 300 damage |
-| <Skill id="9226"/> | (after <Skill id="9147"/>) 150 damage |
-| <Skill id="33134"/>| (after <Skill id="29887"/>) 150 damage |
-| <Skill id="30273"/>| 150 damage |
+| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage |
+| <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
+| <Skill id="30273"/> | 150 damage |
 </CardContent>
 </Card>
 </Column>
