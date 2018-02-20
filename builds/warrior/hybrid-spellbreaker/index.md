@@ -12,7 +12,7 @@ Equipment (150 AR and <Trait id="1016" profession="ranger"/>)
 <Grid>
 <Row>
 <Column>
-**Note:** Without <Trait id="1016" profession="ranger"/> from a druid <Specialization name="druid"/> you have to run more Assassin's pieces to reach 100% critical chance. It is highly recommended to aim higher than the minimum required Agony Resistance (e.g. <Item id="70596"/>, 18x <Item id="37131"/> and Agony Impedance as well as Mist Attunement). To determine the optimal gear for your personal Agony Resistance please use our [gear optimizer]().
+**Note:** Without <Trait id="1016" profession="ranger"/> from a druid <Specialization name="druid"/> you have to run more Assassin's pieces to reach 100% critical chance. It is highly recommended to aim higher than the minimum required Agony Resistance (e.g. <Item id="70596"/>, 18x <Item id="37131"/> and Agony Impedance as well as Mist Attunement). To determine the optimal gear for your personal Agony Resistance please use our [gear optimizer](http://old.discretize.eu/#mechanics/gear-optimizer).
 </Column>
 </Row>
 

@@ -1,5 +1,5 @@
 # Projectiles Destruction
-A lot of projectiles in fractals can be reflected or destroyed to prevent various boss mechanics, like the expiration of *Bonfires* in the [Snowblind Fractal](https://discretize.eu/fractals/snowblind) or the emergence of burning fields from *Solar Orbs* at Arkk in the [Shattered Observatory Fractal](http://discretize.eu/fractals/shattered-observatory).
+A lot of projectiles in fractals can be reflected or destroyed to prevent various boss mechanics, like the expiration of *Bonfires* in the [Snowblind Fractal](https://discretize.eu/fractals/snowblind) or the emergence of burning fields from *Solar Orbs* at Arkk in the [Shattered Observatory Fractal](https://discretize.eu/fractals/shattered-observatory).
 
 Below is a list of currently used projectile reflect or absorb skills and traits:
 
