@@ -2,6 +2,7 @@
   {
     "id": "challenge-mode-fractals",
     "header": "Challenge Mode Fractals",
+    "lastUpdate": "Feb 20, 2018",
     "itemsPerRow": 2,
     "items": [
       {
@@ -189,6 +190,7 @@
   {
     "id": "t4-fractals",
     "header": "T4 Fractals",
+    "lastUpdate": "Feb 20, 2018",
     "itemsPerRow": 4,
     "items": [
       {
