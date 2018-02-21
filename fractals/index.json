@@ -269,7 +269,8 @@
               "Afflicted",
               "Adrenaline Rush",
               "Mists Convergence"
-            ]
+            ],
+            "positive": true
           },
           {
             "level": 89,
@@ -278,7 +279,8 @@
               "Adrenaline Rush",
               "Flux Bomb",
               "Social Awkwardness"
-            ]
+            ],
+            "negative": true
           }
         ],
         "tiers": [
@@ -340,7 +342,8 @@
               "Hamstrung",
               "Flux Bomb",
               "Social Awkwardness"
-            ]
+            ],
+            "positive": true
           },
           {
             "level": 85,
@@ -349,7 +352,8 @@
               "Mists Convergence",
               "Social Awkwardness",
               "Last Laugh"
-            ]
+            ],
+            "negative": true
           }
         ],
         "tiers": [
@@ -417,7 +421,8 @@
               "Afflicted",
               "Fractal Vindicators",
               "Mists Convergence"
-            ]
+            ],
+            "positive": true
           },
           {
             "level": 91,
@@ -426,7 +431,8 @@
               "Afflicted",
               "Social Awkwardness",
               "Adrenaline Rush"
-            ]
+            ],
+            "negative": true
           }
         ],
         "tiers": [
@@ -631,7 +637,8 @@
               "Social Awkwardness",
               "Afflicted",
               "Mists Convergence"
-            ]
+            ],
+            "positive": true
           },
           {
             "level": 94,
@@ -640,7 +647,8 @@
               "Adrenaline Rush",
               "Social Awkwardness",
               "Flux Bomb"
-            ]
+            ],
+            "negative": true
           }
         ],
         "tiers": [
@@ -745,7 +753,8 @@
               "Adrenaline Rush",
               "Social Awkwardness",
               "Afflicted"
-            ]
+            ],
+            "positive": true
           },
           {
             "level": 97,
@@ -754,7 +763,8 @@
               "Mists Convergence",
               "Social Awkwardness",
               "Adrenaline Rush"
-            ]
+            ],
+            "negative": true
           }
         ],
         "tiers": [
@@ -819,7 +829,8 @@
               "Afflicted",
               "Mists Convergence",
               "Toxic Trail"
-            ]
+            ],
+            "negative": true
           },
           {
             "level": 93,
@@ -828,7 +839,8 @@
               "Fractal Vindicators",
               "Flux Bomb",
               "Adrenaline Rush"
-            ]
+            ],
+            "positive": true
           }
         ],
         "tiers": [
@@ -961,7 +973,8 @@
               "Afflicted",
               "Mists Convergence",
               "Toxic Trail"
-            ]
+            ],
+            "negative": true
           },
           {
             "level": 98,
@@ -970,7 +983,8 @@
               "Mists Convergence",
               "Fractal Vindicators",
               "Adrenaline Rush"
-            ]
+            ],
+            "positive": true
           }
         ],
         "tiers": [
