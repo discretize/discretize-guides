@@ -7,7 +7,7 @@ On top of all that the build has access to the usual mesmer utilities being <Ski
 While the sheer amount of possibilities are nice to look at, the Chronomancer is one of the harder builds to play as the skills require timing and good dynamic decision-making.
 
 <Divider>
-Equipment (150 AR + 11 boons avg)
+Equipment (150 AR + 10 boons avg)
 </Divider>
 
 <Grid>
@@ -23,7 +23,7 @@ As you overcap 100% boon duration with <Trait id="1865"/>, <Item id="72339"/>, <
 </Column>
 
 <Column>
-<Weapons weapon1MainId="46774" weapon1MainSigil1Id="72339" weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Concentration" weapon1OffId="46770" weapon1OffSigilId="42615" weapon1OffAffix="Berserker" weapon1OffType="Shield" weapon1OffSigil="Force" weapon2OffId="46774" weapon2OffSigilId="24615" weapon2OffType="Sword" weapon2OffAffix="Berserker" weapon2OffSigil="Force"/>
+<Weapons weapon1MainId="46774" weapon1MainSigil1Id="72339" weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Concentration" weapon1OffId="46770" weapon1OffSigilId="24615" weapon1OffAffix="Berserker" weapon1OffType="Shield" weapon1OffSigil="Force" weapon2OffId="46774" weapon2OffSigilId="24615" weapon2OffSigil="Force" weapon2OffType="Sword" weapon2OffAffix="Berserker"/>
 
 ---
 
@@ -39,7 +39,7 @@ Swap Weapons
 </Column>
 
 <Column>
-<Trinkets backItemId="79830" backItemStatId="1125" backItemAffix="Commander" accessory1Id="80002" accessory1StatId="1125" accessory1Affix="Commander" accessory2Id="79745" accessory2StatId="1125" accessory2Affix="Commander" amuletId="79980" amuletStatId="1125" amuletAffix="Commander" ring1Id="80793" ring1StatId="1125" ring1Affix="Commander" ring2Id="79710" ring2StatId="1125" ring2Affix="Commander"/>
+<Trinkets backItemId="79830" backItemStatId="1125" backItemAffix="Commander" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="79745" accessory2StatId="1125" accessory2Affix="Commander" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="79710" ring2StatId="1125" ring2Affix="Commander"/>
 
 <Consumables foodId="43550" utilityId="77569" infusionId="86180"/>
 </Column>
