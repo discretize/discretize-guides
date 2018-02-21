@@ -45,7 +45,7 @@ Next up you will encounter Priestess Amala for the first time, bring her to 75% 
 
 She uses the *Scythe Slash* attack (causes <Control name="knockback"/>) and a basic version of her 9-part attack chain applying <Condition name="bleeding"/> with each AoE.
 
-You can freely use `/gg` after the downs the party to reset cooldowns, just wait until you get resurrected.
+You can freely use `/gg` after she downs the party to reset cooldowns, just wait until you get resurrected.
 </Column>
 </Grid>
 
@@ -58,7 +58,7 @@ Now that you're awakened, you gain access to a new special action skill which la
 
 Jump up to the roof on the right-hand side and kill the three Sandbinders on the roofs. The first two are copies of the Sandbinder you fought at the beginning, the third one also uses Dwayna's *Lightning Storm* (strafe sideways from allies to avoid it).
 
-You can assign one player to trigger the checkpoint before the second Sandbinder using [this route](https://gfycat.com/ShrillVictoriousAbalone), `/gg` after the first one and resurrect to reset cooldowns. It is also possible to skip the tornado between the second and third Sandbinder using [this portal skip](https://gfycat.com/ShrillVictoriousAbalone).
+You can assign one player to trigger the checkpoint before the second Sandbinder using [this route](https://gfycat.com/ShrillVictoriousAbalone), `/gg` after the first one and resurrect to reset cooldowns. It is also possible to skip the tornado between the second and third Sandbinder using [this portal skip](https://gfycat.com/UnnaturalThirstyIcelandicsheepdog).
 
 Use `/gg` after killing all three Sandbinders to resurrect at end area. Clear the mobs there and Priestess Amala will spawn. 
 </Column>

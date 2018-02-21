@@ -12,7 +12,7 @@ Equipment
 </Column>
 
 <Column>
-<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Scepter" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46775" weapon2OffSigilId="24868" weapon2OffType="Torch" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
+<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46775" weapon2OffSigilId="24868" weapon2OffType="Torch" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
 
 <Card>
 <CardHeader>
