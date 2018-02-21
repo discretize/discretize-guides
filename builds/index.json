@@ -2,6 +2,7 @@
   {
     "id": "meta-builds",
     "header": "Meta Builds",
+    "lastUpdate": "Feb 20, 2018",
     "itemsPerRow": 5,
     "items": [
       {
@@ -374,6 +375,7 @@
   {
     "id": "great-builds",
     "header": "Great Builds",
+    "lastUpdate": "Feb 20, 2018",
     "itemsPerRow": 5,
     "items": [
       {
