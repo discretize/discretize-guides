@@ -106,7 +106,7 @@ The rotation varies depending on weapon set, the encounter-specific mechanics an
     * Have 1-5 stacks of <Trait id="2130"/> adding 60 Power and Ferocity per stack
   * On **Greatsword**:
     * Don't cancel your auto-attack as the third hit deals the most damage
-    * <Skill id="14447"/> is a DPS increase, especially against a wall (cancel it with stow weapon after you leave the target's hitbox)
+    * <Skill id="14447"/> is a DPS increase, especially against a wall
     * <Skill id="14510"/> is worth using between auto-attack chains
   * On **Axe**:
     * <Skill id="14421"/>, <Skill id="14398"/> and <Skill id="14418"/> are a DPS increase

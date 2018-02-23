@@ -120,7 +120,7 @@ Below is a list of commonly used defensive skills:
     * <Skill id="9118"/> and <Skill id="42259"/> (<Icon name="firebrand"/>) (periodically)
     * <Skill id="9084"/>
     * <Skill id="41475"/> (<Icon name="firebrand"/>)
-    * <Skill id="42259"/> Skill 1 (<Icon name="firebrand"/>)
+    * <Skill id="42259"/> Skill 2 (<Icon name="firebrand"/>)
     * <Skill id="42259"/> Skill 5 (<Icon name="firebrand"/>)
 * <Skill id="30029"/> (F3, <Icon name="dragonhunter"/>)
 </CardContent>
