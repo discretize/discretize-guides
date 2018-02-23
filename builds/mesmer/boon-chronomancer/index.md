@@ -13,13 +13,15 @@ Equipment (150 AR + 10 boons avg)
 <Grid>
 <Row>
 <Column>
-As you overcap 100% boon duration with <Trait id="1865"/>, <Item id="72339"/>, <Item id="79722"/> and <Item id="70600"/> in fractals, <Item id="24836"/> is the recommended alternative. Another option is to aim for 100% without <Item id="72339"/> and keep your (raid) boon duration runes.
+As you overcap 100% boon duration with <Trait id="1865"/>, <Item id="72339"/>, <Item id="79722"/> and <Item id="70600"/> in fractals, <Item id="24836"/> is the recommended alternative. Another option is to aim for 100% without <Item id="72339"/> and keep your (raid) boon duration runes. You can also keep your [Hybrid Chronomancer](http://localhost:3000/builds/mesmer/hybrid-chronomancer) gear and just swap runes to Scholar which trades exactly 30% boon duration.
+
+Especially for a Chrono it is highly recommended to aim higher than the minimum required Agony Resistance (e.g. <Item id="70596"/>, 18x <Item id="86180"/> and Agony Impedance as well as Mist Attunement) as you gain additional Boon Duration from the <Item id="79722"/>. To determine the optimal gear for your personal Agony Resistance please use our [gear optimizer](http://old.discretize.eu/#mechanics/gear-optimizer).
 </Column>
 </Row>
 
 <Row>
 <Column>
-<Armor helmId="48081" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48083" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48079" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48080" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="84926" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Harrier" leggingsRune="Scholar" bootsId="48078" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor helmId="75727" helmRuneId="24836" helmRuneCount="6" helmAffix="Commander" helmRune="Scholar" shouldersId="48083" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48079" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48080" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48082" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48078" bootsRuneId="85317" bootsRuneCount="6" bootsAffix="Harrier" bootsRune="Scholar"/>
 </Column>
 
 <Column>
@@ -39,9 +41,15 @@ Swap Weapons
 </Column>
 
 <Column>
-<Trinkets backItemId="79830" backItemStatId="1125" backItemAffix="Commander" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="79745" accessory2StatId="1125" accessory2Affix="Commander" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="79710" ring2StatId="1125" ring2Affix="Commander"/>
+<Trinkets backItemId="79830" backItemStatId="1125" backItemAffix="Commander" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="80793" ring1StatId="1125" ring1Affix="Commander" ring2Id="79710" ring2StatId="1125" ring2Affix="Commander"/>
 
-<Consumables foodId="43550" utilityId="77569" infusionId="86180"/>
+<Consumables foodId="43550" utilityId="67530" infusionId="86180"/>
+</Column>
+</Row>
+
+<Row>
+<Column>
+Note that you can also run a **Staff** instead of offhand Sword for better <Boon name="retaliation"/> and <Boon name="aegis"/> uptime, as your only other source is <Trait id="670"/> without it. This is recommended for fights with lots of movement (e.g. Artsariiv).
 </Column>
 </Row>
 </Grid>
@@ -52,7 +60,7 @@ Build
 
 <Grid>
 <Column width="9">
-<Traits traits1Id="23" traits1="Inspiration" traits1Selected="756,740,1866" traits2Id="45" traits2="Chaos" traits2Selected="670,669,1687" traits3Id="40" traits3="Chronomancer" traits3Selected="1995,1978,2022"/>
+<Traits traits1Id="23" traits1="Inspiration" traits1Selected="756,740,1866" traits2Id="45" traits2="Chaos" traits2Selected="670,669,1687" traits3Id="40" traits3="Chronomancer" traits3Selected="1987,1978,2022"/>
 
 <Card>
 <CardHeader>
@@ -61,7 +69,7 @@ Situational Traits
 <CardContent>
 | | |
 | -- | -- |
-| <Trait id="1987" size="big" text="false"/> | A very slight DPS loss but adds quite some healing. |
+| <Trait id="1995" size="big" text="false"/> | A very slight DPS increase in case you don't need the healing from <Trait id="1987"/>. |
 | <Trait id="751" size="big" text="false"/> | Use it together with a focus for <Control name="pull"/>s and reflects. Swap out your offhand sword in that case, but keep in mind the <Skill id="10282"/> takes much longer to turn into a clone for your first <Skill id="29830"/>. |
 | <Trait id="674" size="big" text="false"/> | Increases the duration of all your <Effect name="stealth"/> skills by 50%. |
 | <Trait id="752" size="big" text="false"/> | Two seconds longer duration for Glamour skills like <Skill id="10197"/>. |
