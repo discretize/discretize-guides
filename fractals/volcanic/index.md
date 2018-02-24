@@ -4,7 +4,7 @@
 While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="warrior"/> after placing banners) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can `/gg` after the section is completed and resurrect to skip the Boulder passage.
 
 <Tips>
-    <Tip specialization="elementalist">Time your <Skill id="5738"/> with the other <Specialization name="elementalist"/> to reduce incoming damage.</Tip>
+    <Tip specialization="weaver">Use <Skill id="22572"/> to cleave the adds faster. Pre cast your skills on their spawn locations, to kill them before they can use any ability.</Tip>
 </Tips>
 
 </Column>
@@ -24,7 +24,7 @@ You will need to throw eight *Infused Stones* at the bubble protecting the Grawl
 After the bubble is broken, stand below the boss to LoS him and he will come down immediately. Throw another *Infused Stone* at him if his bubble reappears during the fight.
 
 <Tips>
-    <Tip specialization="mesmer">If you still have your *Mistlock Singularity*, you can place a <Skill id="10197"/> during the fight and jump down into the lava. The singularity will prevent the death from falling, keep jumping afterwards (the lava doesn't harm you if you jump repeatedly) to reach the final platform and open the portal there once the Grawl Shaman is finished. Keep in mind that you have to reach the platform before he reaches 25% health, otherwise you will die during the following cutscene.</Tip>
+    <Tip specialization="chronomancer">If you still have your *Mistlock Singularity*, you can place a <Skill id="10197"/> during the fight and jump down into the lava. The singularity will prevent the death from falling, keep jumping afterwards (the lava doesn't harm you if you jump repeatedly) to reach the final platform and open the portal there once the Grawl Shaman is finished. Keep in mind that you have to reach the platform before he reaches 25% health, otherwise you will die during the following cutscene.</Tip>
     <Tip specialization="weaver">Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the *Veteran Grawl Shamans* in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>.    
         If everybone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.</Tip>
 
@@ -34,7 +34,7 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 
 ---
 
-## <Boss red/> Imbued Shaman <Item id="8885" text="false"/><Item id="24661" text="false"/>
+## <Boss red/> Imbued Shaman <Item id="8886" text="false"/><Item id="24664" text="false"/>
 <Grid>
 <Column>
 Take the shortcut on the right-hand side down to the final platform to trigger the next checkpoint, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="might"/> and jump down to the Imbued Shaman (Since the November patch, the bat follows you to the end of the walkway, but it takes here 10 or more seconds to reach it. Make sure you have the might stacked and are on the correct weapon before she flies in you firefield and brings you infight.).
