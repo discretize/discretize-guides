@@ -56,7 +56,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </CardHeader>
 <CardContent>
 * <Skill id="14184"/>
-* <Skill id="30434"/> (Staff 2, <Icon name="daredevil"/>)
+* <Skill id="30434"/> (Staff 1, <Icon name="daredevil"/>)
 </CardContent>
 </Card>
 
