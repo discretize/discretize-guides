@@ -237,9 +237,9 @@
         "specialization": "weaver",
         "benchmark": {
           "large": {
-            "dps": 46732,
-            "by": "hint [SC]",
-            "youtube": "kOQogr6wT-o"
+            "dps": 47338,
+            "by": "Simbah [Sy]",
+            "youtube": "6O5lZ_8XxVQ"
           },
           "small": {
             "dps": 37301,
