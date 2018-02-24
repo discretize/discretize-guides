@@ -77,7 +77,7 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
 <Tips>
     <Tip specialization="chronomancer">Share <Boon name="aegis"/> with your party when the *Nightmare Hallucination* PBAoE goes off or too many *Volatile Hallucinations* explode on the party.    
         With <Skill id="21750"/> you can recast your phantasms on the *Echo of the Unclean* to deal more damage.</Tip>
-    <Tip specialization="weaver"> Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> while the last Illusions despawn.    
+    <Tip specialization="weaver"> Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> while the last Illusions turn hostile.    
         On the East and South *Echoes of the Unclean*, you can use <Skill id="5697"/> from <Skill id="5516"/> against the wall to deal enormous damage. On the second add spawn you can <Skill id="5697"/> at any location.    
         With normal group damage Siax should turn invulnerable at the end of your first <Skill id="5624"/>. Place a <Skill id="13339"/> and use <Skill id="5697"/> to kill your add in about two seconds.    
         Continue with <Skill id="5531"/> on Siax and restart in <Skill id="5492"/>.    
