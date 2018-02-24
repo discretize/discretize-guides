@@ -4,7 +4,8 @@
 While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="warrior"/> after placing banners) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can `/gg` after the section is completed and resurrect to skip the Boulder passage.
 
 <Tips>
-    <Tip specialization="elementalist">Time your <Skill id="5738"/> with the other <Specialization name="elementalist"/> to reduce incoming damage.</Tip>
+    <Tip specialization="elementalist">Time your <Skill id="5738"/> with the other <Specialization name="elementalist"/> to reduce incoming damage.    
+        Take <Skill id="22572"/> to cleave the adds faster. Precast your skills on the grawl spawn locations to kill them before they can use any ability.</Tip>
 </Tips>
 
 </Column>
@@ -34,7 +35,7 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 
 ---
 
-## <Boss red/> Imbued Shaman <Item id="8885" text="false"/><Item id="24661" text="false"/>
+## <Boss red/> Imbued Shaman <Item id="8885" text="false"/><Item id="8886" text="false"/><Item id="24661" text="false"/>
 <Grid>
 <Column>
 Take the shortcut on the right-hand side down to the final platform to trigger the next checkpoint, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="might"/> and jump down to the Imbued Shaman (Since the November patch, the bat follows you to the end of the walkway, but it takes here 10 or more seconds to reach it. Make sure you have the might stacked and are on the correct weapon before she flies in you firefield and brings you infight.).
