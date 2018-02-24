@@ -1,10 +1,10 @@
-The current optimal build for Elementalists in fractals is the <Specialization prefix="power" name="weaver"/>. It offers both the highest burst and consistent DPS in the game on large, stationary hitboxes and very good DPS on small hitboxes. The trait <Trait id="1502"/> in combination with <Item id="24868"/> and slaying ootions like <Item id="50082"/> put it ahead of other DPS professions. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
+The current optimal build for Elementalists in fractals is the <Specialization prefix="power" name="weaver"/>. It offers both the highest burst and consistent DPS in the game on large, stationary hitboxes and very good DPS on small hitboxes. The trait <Trait id="1502"/> in combination with <Item id="24868"/> and slaying potions like <Item id="50082"/> put it ahead of other DPS professions. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
 
 Additionally with the <Specialization name="chronomancer" prefix="boon"/> and an average uptime of at least ten boons, <Specialization name="weaver" prefix="arcane"/> with <Trait id="1511"/> has become extremly strong.
 
 Weaver has some utilities in the form of burst <Condition name="vulnerability"/>, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver is really squishy compared to the old Tempest, it has no reflects, no crowd control skills apart from <Skill id="5733"/> and looses access to <Boon name="stability"/> and <Boon name="protection"/> from Overloads.
 
-Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and providing good <Boon name="protection"/> uptimes with <Trait id="264"/>. It also provides around <Boon name="might"/> uptime the party, even more with around 30% boon duration from <Item id="79722"/> and <Trait id="2004"/>. This allows a replacement of the <Specialization name="druid"/> with another <Specialization name="weaver"/> as there is enough <Boon name="might"/> on the party and you "only" loose <Skill id="31582" profession="ranger"/>, <Skill id="12497" profession="ranger"/> and <Trait id="1016" profession="ranger"/> (redundant with <Trait id="2177"/>) but gain much more DPS.
+Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and providing good <Boon name="protection"/> uptimes with <Trait id="264"/>. It also provides around 7 stacks <Boon name="might"/> uptime the party, even more with around 30% boon duration from <Item id="79722"/> and <Trait id="2004"/>. This allows a replacement of the <Specialization name="druid"/> with another <Specialization name="weaver"/> as there is enough <Boon name="might"/> on the party and you "only" loose <Skill id="31582" profession="ranger"/>, <Skill id="12497" profession="ranger"/> and <Trait id="1016" profession="ranger"/> (redundant with <Trait id="2177"/>) but gain much more DPS.
 
 <Divider>
 Equipment
@@ -63,6 +63,7 @@ Situational
 | | |
 | -- | -- |
 | <Skill id="5638" size="big" text="false"/> | Deals the same damage as <Skill id="5539"/> with a higher cooldown and less charges but affects up to five targets. Useful to cleave adds faster. |
+| <Trait id="1673" size="big" text="false"/> | If you have no problems with survivability, you can take this trait for a higher <Boon name="retaliation"/> uptime. |
 | <Skill id="5536" size="big" text="false"/> | A 900 range teleport, sufficient for most blink spots. |
 | <Skill id="5507" size="big" text="false"/> | An alternative healing skill providing a stronger condition cleanse. |
 | <Skill id="43638" size="big" text="false"/> | Used for a stronger burst opener when you can't make use of <Skill id="5516"/> (e.g. Skorvald). |
@@ -87,22 +88,24 @@ Skill priority
 <CardContent>
 The rotation is very complex and highly depends on a good <Boon name="alacrity"/> uptime. Below is a descending list of priorities:
 
-3. Use <Skill id="5548"/> whenever possible (basically every 6s) and fill the gaps inbetween with the skills listed below
-5. Switch to <Skill id="5494" text="false"/> when <Skill id="5737"/> is ready. <Skill id="41125"/> (and <Skill id="5552"/>) is a DPS increase over auto-attacking while waiting to go back in <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/>
-6. Use <Skill id="5501"/> whenever possible and immediately switch to <Skill id="5495" text="false"/> while casting. Cast <Skill id="5528"/> before switching back to <Skill id="5492" text="false"/>, cast <Skill id="43762"/> and finally a new <Skill id="5548"/>
-7. While attuned to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> or <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> and <Skill id="5548"/>, <Skill id="41125"/> and <Skill id="43762"/> are on cooldown use a conjured weapon and switch back to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> during the first attack: 
+1. Use <Skill id="5548"/> whenever possible (basically every 6s) and fill the gaps inbetween with the skills listed below. Any delay on using it will delay your important DPS skills, thus always use <Skill id="5548"/> first.
+2. Use <Skill id="5501"/> whenever possible and immediately switch to <Skill id="5495" text="false"/> while casting. Cast <Skill id="5528"/> before switching back to <Skill id="5492" text="false"/>, cast <Skill id="43762"/> and finally a new <Skill id="5548"/>.
+3. While attuned to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> or <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> and <Skill id="5548"/>, <Skill id="41125"/> and <Skill id="43762"/> are on cooldown use a conjured weapon and switch back to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> during the first attack: 
     * In <Skill id="5624"/>: <Skill id="5725"/> (inside the bosses hitbox) => 2x auto-attack chain
     * Or in <Skill id="5516"/>: Only when you can whirl against a wall <Skill id="5697"/> => <Skill id="5517"/> => <Skill id="5531"/> 
     * Or in <Skill id="5567"/>: <Skill id="5568"/> => <Skill id="5723"/> => <Skill id="5720"/>
-2. Use <Skill id="5539"/> (or <Skill id="5638"/>) three times while double-attuned with <Trait id="2131"/> and holding <Skill id="5624"/> (Ferocity boost), preferably while the defiance bar is broken
-4. Use <Skill id="5679"/> if you can't finish another <Skill id="5491"/> before leaving <Skill id="5492" text="false"/>
-1. Don't start casting <Skill id="5491"/> if you can't finish it
+4. Switch to <Skill id="5494" text="false"/> when <Skill id="5737"/> is ready or will be in <4 seconds. Cast <Skill id="41125"/> and <Skill id="5552"/> first and switch back to <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> while casting <Skill id="5737"/> to profit from the better modifiers in <Skill id="5492"/>
+    * If <Skill id="5501"/> is ready skip <Skill id="41125"/> and <Skill id="5552"/> and cast <Skill id="5737"/> immediately followed by <Skill id="5501"/> while switching back to <Skill id="5492" text="false"/>
+5. Use <Skill id="5539"/> (or <Skill id="5638"/>) three times while double-attuned with <Trait id="2131"/> and holding <Skill id="5624"/> (Ferocity boost), preferably while the defiance bar is broken
+6. Use <Skill id="5679"/> if you can't finish another <Skill id="5491"/> before leaving <Skill id="5492" text="false"/>
+7. Don't start casting <Skill id="5491"/> if you can't finish it
 8. If the boss fight will end before you can use another <Skill id="5737"/>, use <Skill id="5736"/> instead (ideally during <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> cycle)
+    * Ideally during the <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> cycle (<Skill id="5736"/> => <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> => <Skill id="5528"/> => <Skill id="5501"/> => <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/>)
 9. If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> to get a last burst with <Skill id="41125"/> in
 </CardContent>
 </Card>
 
-<Video videoId="kOQogr6wT-o" videoTitle="Large Hitbox: 46.7k DPS by hint [SC]"/>
+<Video videoId="6O5lZ_8XxVQ" videoTitle="Large Hitbox: 47.3k DPS by Simbah [Sy]"/>
 </Column>
 
 <Column>
@@ -136,7 +139,7 @@ Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and pre
 11. Continue with the usual priority list
 
 ### Situational
-Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and continue with the rotation above. This is useful for fights like Arkk where you can't precast.
+Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and continue with the rotation above. This is useful for fights like Arkk where you can't precast and have to avoid mechanics.
 </CardContent>
 </Card>
 
