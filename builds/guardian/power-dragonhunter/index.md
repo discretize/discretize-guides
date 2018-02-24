@@ -38,7 +38,7 @@ Build
 
 <Grid>
 <Column width="9">
-<Traits traits1Id="16" traits1="Radiance" traits1Selected="574,565,1683" traits2Id="27" traits2="Zeal" traits2Selected="1898,1835,1955" traits3Id="42" traits3="Dragonhunter" traits3Selected="634,653,2017"/>
+<Traits traits1Id="16" traits1="Radiance" traits1Selected="574,565,579" traits2Id="42" traits2="Zeal" traits2Selected="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3Selected="1898,1835,1955"/>
 </Column>
 
 <Column>
