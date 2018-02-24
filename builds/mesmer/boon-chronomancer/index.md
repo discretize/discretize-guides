@@ -21,7 +21,7 @@ Especially for a Chrono it is highly recommended to aim higher than the minimum 
 
 <Row>
 <Column>
-<Armor helmId="75727" helmRuneId="24836" helmRuneCount="6" helmAffix="Commander" helmRune="Scholar" shouldersId="48083" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48079" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48080" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48082" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48078" bootsRuneId="85317" bootsRuneCount="6" bootsAffix="Harrier" bootsRune="Scholar"/>
+<Armor helmId="75727" helmRuneId="24836" helmRuneCount="6" helmAffix="Commander" helmRune="Scholar" shouldersId="48083" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48079" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48080" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48082" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="85317" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Harrier" bootsRune="Scholar"/>
 </Column>
 
 <Column>
