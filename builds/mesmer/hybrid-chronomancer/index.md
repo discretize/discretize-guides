@@ -112,8 +112,8 @@ Situational Skills
 | <Skill id="30305" size="big" text="false"/> | A stronger group heal and condition cleanse if your party has problems with incoming damage. |
 | <Skill id="34326" size="big" text="false"/> | One of the strongest reflect skills, protecting everyone inside from projectiles for 6 seconds. |
 | <Skill id="10197" size="big" text="false"/> | Party escort service. |
-| <Skill id="10200" size="big" text="false"/> | A 1200 range teleport. It breaks <Control name="stun"/> on use, which means it gets executed even if there is no valid path your mouse target -keep this in mind. |
-| <Skill id="29578" size="big" text="false"/> | Enables you to use key utilites twice. If you use <Skill id="29830"/> at the end of the cast, you get a "free" mimic and can do stuff like triple <Skill id="10200"/> without the need for any illusions. |
+| <Skill id="10200" size="big" text="false"/> | A 1200 range teleport. It breaks <Control name="stun"/> on use, which means it gets executed even if there is no valid path your mouse target - keep this in mind. |
+| <Skill id="29578" size="big" text="false"/> | Enables you to use key utilities twice. If you use <Skill id="29830"/> at the end of the cast, you get a "free" mimic and can do stuff like triple <Skill id="10200"/> without the need for any illusions. |
 | <Skill id="10267" size="big" text="false"/> | Necessary if you need to remove boons and have no <Specialization name="spellbreaker"/>. |
 | <Skill id="10245" size="big" text="false"/> | Useful for party skipping. Provides 15 seconds of <Effect name="stealth"/> with <Trait id="674"/> and <Skill id="29830"/>. |
 </CardContent>
