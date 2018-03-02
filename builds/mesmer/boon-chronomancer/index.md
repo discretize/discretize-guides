@@ -13,7 +13,7 @@ Equipment (150 AR + 10 boons avg)
 <Grid>
 <Row>
 <Column>
-As you overcap 100% boon duration with <Trait id="1865"/>, <Item id="72339"/>, <Item id="79722"/> and <Item id="70600"/> in fractals, <Item id="24836"/> is the recommended alternative. Another option is to aim for 100% without <Item id="72339"/> and keep your (raid) boon duration runes. You can also keep your [Hybrid Chronomancer](http://localhost:3000/builds/mesmer/hybrid-chronomancer) gear and just swap runes to Scholar which trades exactly 30% boon duration.
+As you overcap 100% boon duration with <Trait id="1865"/>, <Item id="72339"/>, <Item id="79722"/> and <Item id="70600"/> in fractals, <Item id="69370"/> is the recommended alternative to increase <Boon name="resistance"/> uptime (remember, it's another 2% DPS boost for your Weavers). Another option is to aim for 100% without <Item id="72339"/> and keep your (raid) boon duration runes. You can also keep your [Hybrid Chronomancer](https://discretize.eu/builds/mesmer/hybrid-chronomancer) gear and just swap runes to Revenant which trades exactly 30% boon duration.
 
 Especially for a Chrono it is highly recommended to aim higher than the minimum required Agony Resistance (e.g. <Item id="70596"/>, 18x <Item id="86180"/> and Agony Impedance as well as Mist Attunement) as you gain additional Boon Duration from the <Item id="79722"/>. To determine the optimal gear for your personal Agony Resistance please use our [gear optimizer](http://old.discretize.eu/#mechanics/gear-optimizer).
 </Column>
@@ -141,10 +141,9 @@ CC skills
 | | |
 | -- | -- |
 | <Skill id="29519"/> | 1000 damage |
-| <Skill id="30643"/> | 200-1200 damage |
+| <Skill id="30643"/> | 200-1200 damage (+30% with <Item id="24639" text="false"/>) |
 | <Skill id="10287"/> | 100-400 damage |
 | <Skill id="30814"/> | 150 damage (with <Condition name="slow"/>) |
-| <Skill id="10358"/> | 100 damage |
 | <Skill id="29856"/> | 99 damage (with <Condition name="chilled"/>) |
 </CardContent>
 </Card>

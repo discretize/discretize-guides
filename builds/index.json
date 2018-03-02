@@ -472,6 +472,50 @@
             "by": "Van Gherwen [SC]",
             "youtube": "TmPlXZ-cg9s"
           }
+        },
+        "perks": {
+          "skills": [
+            {
+              "id": 10267
+            },
+            {
+              "id": 10186
+            },
+            {
+              "id": 10197
+            },
+            {
+              "id": 10200
+            },
+            {
+              "id": 10302
+            },
+            {
+              "id": 29830
+            },
+            {
+              "id": 30359
+            },
+            {
+              "id": 29519
+            }
+          ],
+          "traits": [
+            {
+              "id": 1852
+            }
+          ],
+          "conditions": [
+            {
+              "name": "Vulnerability",
+              "quantity": 15
+            }
+          ],
+          "effects": [
+            {
+              "name": "Stealth"
+            }
+          ]
         }
       },
       {
