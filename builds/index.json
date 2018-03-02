@@ -466,7 +466,6 @@
         "meta": "Damage",
         "category": "mesmer",
         "specialization": "chronomancer",
-        "unavailable": true,
         "benchmark": {
           "small": {
             "dps": 33990,
@@ -662,15 +661,15 @@
         }
       },
       {
-        "id": "power-deadeye",
-        "header": "Power Deadeye",
+        "id": "power-daredevil",
+        "header": "Power Daredevil",
         "meta": "Damage",
         "category": "thief",
-        "specialization": "deadeye",
+        "specialization": "daredevil",
         "unavailable": true,
         "benchmark": {
           "small": {
-            "dps": 32847,
+            "dps": 31133,
             "by": "NeoVaris [SC]"
           }
         }

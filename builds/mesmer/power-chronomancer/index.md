@@ -1,0 +1,154 @@
+The <Specialization prefix="power" name="chronomancer"/> is a good DPS option for fights without a lot of target switching. It does high burst damage and does not suffer from smaller hitboxes while periodically removing boons with <Skill id="10267"/> and applying 10-15x <Condition name="vulnerability"/>.
+
+Being a <Specialization name="chronomancer"/>, the build has access to <Skill id="29830"/> which enables the doubled usage of strong Mesmer utility skills like <Skill id="29519"/>, <Skill id="34326"/> and <Skill id="10197"/> or <Effect name="stealth"/> skips.
+
+As Focus is used as a main weapon, <Skill id="10363"/> can <Control name="pull"/> trash mobs together and CC skills like <Skill id="30359"/>, <Skill id="10287"/> and <Skill id="10341"/> can break any defiance bar.
+
+The build unfolds its full strength in fights with medium to long interphases, it excels at encounters like Arkk ([Shattered Observatory Fractal](https://discretize.eu/fractals/shattered-observatory)) but is not as good on short-lived fights with target switching like MAMA ([Nightmare Fractal](https://discretize.eu/fractals/nightmare)). 
+
+<Divider>
+Equipment (150 AR and <Trait id="1016" profession="ranger"/>)
+</Divider>
+
+<Grid>
+<Row>
+<Column>
+<Armor helmId="48081" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48083" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48079" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48080" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48136" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Assassin" leggingsRune="Scholar" bootsId="48078" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
+</Column>
+
+<Column>
+<Weapons weapon1MainId="46774" weapon1MainSigil1Id="24615" weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffId="46761" weapon1OffSigilId="24868" weapon1OffAffix="Berserker" weapon1OffType="Focus" weapon1OffSigil="Impact" weapon2OffId="46774" weapon2OffSigilId="24868" weapon2OffSigil="Impact" weapon2OffType="Sword" weapon2OffAffix="Berserker"/>
+
+---
+
+<Card>
+<CardHeader>
+Swap Weapons
+</CardHeader>
+<CardContent>
+* Weapons with <Item id="36053"/>/<Item id="36054"/>
+* Torch for <Boon name="might"/> stacking
+</CardContent>
+</Card>
+</Column>
+
+<Column>
+<Trinkets backItemId="49384" backItemStatId="584" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="79710" ring2StatId="1128" ring2Affix="Assassin"/>
+
+<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
+</Column>
+</Row>
+</Grid>
+
+<Divider>
+Build
+</Divider>
+
+<Grid>
+<Column width="9">
+<Traits traits1Id="1" traits1="Dueling" traits1Selected="701,708,692" traits2Id="24" traits2="Illusions" traits2Selected="721,1690,733" traits3Id="40" traits3="Chronomancer" traits3Selected="1995,1978,1890"/>
+
+<Card>
+<CardHeader>
+Situational Elite Skills
+</CardHeader>
+<CardContent>
+| | |
+| -- | -- |
+| <Skill id="29519" size="big" text="false"/> | The best CC skill out there in case <Skill id="30359"/> is not enough. |
+| <Skill id="10245" size="big" text="false"/> | Useful for party skipping. Provides 15 seconds of <Effect name="stealth"/> with <Trait id="674"/> and <Skill id="29830"/>. |
+| <Skill id="10311" size="big" text="false"/> | If you need additional <Boon name="quickness"/>. |
+</CardContent>
+</Card>
+</Column>
+
+<Column>
+<Skills weapon1Skill1="" weapon1Skill2="" weapon1Skill3="" weapon1Skill4="" weapon1Skill5="" utilitySkill1="21750" utilitySkill2="10267" utilitySkill3="10341" utilitySkill4="30525" utilitySkill5="30359"/>
+
+<Card>
+<CardHeader>
+Situational
+</CardHeader>
+<CardContent>
+| | |
+| -- | -- |
+| <Trait id="729" size="big" text="false"/> | Minor DPS loss but increases your personal <Boon name="quickness"/> uptime. |
+| <Skill id="10211" size="big" text="false"/> | Alternative to <Skill id="10341"/> if the phases are too short for you to get your full burst rotation done. Also increases <Condition name="vulnerability"/> uptime. |
+| <Skill id="34326" size="big" text="false"/> | One of the strongest reflect skills, protecting everyone inside from projectiles for 6 seconds. |
+| <Skill id="10197" size="big" text="false"/> | Party escort service. |
+| <Skill id="10200" size="big" text="false"/> | A 1200 range teleport. It breaks <Control name="stun"/> on use, which means it gets executed even if there is no valid path your mouse target - keep this in mind. |
+| <Skill id="29578" size="big" text="false"/> | Enables you to use key utilities twice. If you use <Skill id="29830"/> at the end of the cast, you get a "free" mimic and can do stuff like triple <Skill id="10200"/> without the need for any illusions. |
+</CardContent>
+</Card>
+</Column>
+</Grid>
+
+<Divider>
+Situational
+</Divider>
+
+<Divider>
+Details
+</Divider>
+
+<Grid>
+<Column>
+<Card>
+<CardHeader>
+Skill priority
+</CardHeader>
+<CardContent>
+1. Cast your phantasms whenever ready
+    * <Skill id="10174"/>
+    * <Skill id="10267"/>
+    * <Skill id="10341"/>
+    * <Skill id="10282"/>
+2. Use <Skill id="21750"/> to recharge them all
+    * If available, cast <Skill id="29830"/> during the aftercast - this way, all phantasms are recharged but <Skill id="21750" text="false"/> does not go on cooldown
+3. Use <Skill id="10191"/> and <Skill id="10190"/> whenever you have three illusions up
+4. Use <Skill id="10334"/> and <Skill id="30525"/> off recharge
+5. <Skill id="30359"/> can be used for additional DPS if no CC is needed
+
+Apart from doing DPS, you have access to a wide range of utilities like <Skill id="29519"/> or <Skill id="34326"/> which can all be used twice with <Skill id="29830"/> if needed. Cast <Skill id="10173"/> to quickly get up another illusion.
+</CardContent>
+</Card>
+
+<Video videoId="TmPlXZ-cg9s" videoTitle="Small Hitbox: 33.9k DPS by Van Gherwen [SC]"/>
+</Column>
+
+<Column width="7">
+<Card>
+<CardHeader>
+Written Opener
+</CardHeader>
+<CardContent>
+1. Start on Sword/Focus with <Skill id="10282"/>
+2. Swap to Sword/Sword and use <Skill id="10174"/>, <Skill id="10267"/> and <Skill id="10341"/>
+3. Cast <Skill id="21750"/> and use <Skill id="29830"/> during the aftercast
+4. <Skill id="10174"/> and <Skill id="10267"/> (<Skill id="30747" text="false"/> ends)
+5. <Skill id="10174"/> and <Skill id="10341"/>
+6. <Skill id="21750"/>, <Skill id="10174"/>, <Skill id="10267"/> and <Skill id="10341"/>
+7. <Skill id="10334"/>, <Skill id="30525"/> and <Skill id="30359"/>
+8. One more <Skill id="10174"/>
+9. Swap to Sword/Focus
+10. <Skill id="10282"/> and continue with the priority list
+</CardContent>
+</Card>
+
+<Card>
+<CardHeader>
+CC skills
+</CardHeader>
+<CardContent>
+| | |
+| -- | -- |
+| <Skill id="29519"/> | 1000 damage |
+| <Skill id="30359"/> | 550 damage |
+| <Skill id="10341"/> | 225 damage (with <Condition name="taunt"/>) |
+| <Skill id="10287"/> | 100-400 damage |
+| <Skill id="10363"/> | 150 damage |
+| <Skill id="10358"/> | 100 damage |
+</CardContent>
+</Card>
+</Column>
+</Grid>
