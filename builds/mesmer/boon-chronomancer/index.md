@@ -115,9 +115,9 @@ Details
 Written Opener
 </CardHeader>
 <CardContent>
-1. Start on Staff with <Skill id="10169"/> (<Boon name="retaliation" text="false"/><Boon name="aegis" text="false"/><Boon name="swiftness" text="false"/>), <Skill id="10331"/> and <Skill id="10310"/> (1st illusion)
+1. Start on Staff with <Skill id="10169"/> (<Boon name="retaliation" text="false"/><Boon name="aegis" text="false"/><Boon name="swiftness" text="false"/>) and <Skill id="10331"/>
 2. Use <Skill id="10190"/> (<Boon name="quickness" text="false"/><Boon name="alacrity" text="false"/><Boon name="vigor" text="false"/><Boon name="stability" text="false"/>) and <Skill id="10214"/> (<Boon name="resistance" text="false"/>)
-3. Cast <Skill id="10216"/> (<Trait id="1866" text="false"/>) and swap to Sword/Shield
+3. Cast <Skill id="10216"/> (<Trait id="1866" text="false"/>), <Skill id="10310"/> (1st illusion) and swap to Sword/Shield
 4. <Skill id="10173"/> (2nd illusion) and <Skill id="30769"/> (<Boon name="protection" text="false"/>)
 5. <Skill id="30643"/> and <Skill id="29830"/> at the end of the cast
     1. Use the remaining three shatters while continueing with the skills below - if a defiance bar is up, use <Skill id="10287"/> first, otherwise <Skill id="49068"/>(<Boon name="might" text="false"/><Boon name="fury" text="false"/><Boon name="regeneration" text="false"/>)
