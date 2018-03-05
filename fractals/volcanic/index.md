@@ -4,8 +4,8 @@
 While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="warrior"/> after placing banners) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can `/gg` after the section is completed and resurrect to skip the Boulder passage.
 
 <Tips>
-    <Tip specialization="elementalist">Time your <Skill id="5738"/> with the other <Specialization name="elementalist"/> to reduce incoming damage.    
-        Take <Skill id="22572"/> to cleave the adds faster. Precast your skills on the grawl spawn locations to kill them before they can use any ability.</Tip>
+    <Tip specialization="weaver"> Precast your strong dps skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually spawn. If coordinated correctly with the other <Specialization name="weaver"/>, you can kill every single group except the first before they spawn.   
+    Take <Skill id="22572"/> to cleave the adds faster. </Tip>
 </Tips>
 
 </Column>
