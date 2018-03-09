@@ -54,7 +54,9 @@ You can freely use `/gg` after she downs the party to reset cooldowns, just wait
 ## "Storm the Rooftops!"
 <Grid>
 <Column>
-Now that you're awakened, you gain access to a new special action skill which launches you high into the air and breaks <Control name="stun"/>. It doesn't have a cooldown out of combat so do not get infight during skips if possible. Any skill that requires you to stand still, can be cast during this jump, as long as you do not move in any direction (<Skill id="5501" text="false"/> and similar skills).
+Now that you're awakened, you gain access to a new special action skill which launches you high into the air and breaks <Control name="stun"/>. It doesn't have a cooldown out of combat so do not get infight during skips if possible.
+    
+It can also be used to jump while casting any skill that requires you to stand still otherwise, as long as you do not move in any direction (<Skill id="5501" profession="elementalist"/> and similar skills).
 
 Jump up to the roof on the right-hand side and kill the three Sandbinders on the roofs. The first two are copies of the Sandbinder you fought at the beginning, the third one also uses Dwayna's *Lightning Storm* (strafe sideways from allies to avoid it).
 
