@@ -5,7 +5,7 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
 
 <Tips>
     <Tip specialization="elementalist">Precast your strong dps skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear.    
-    Take <Skill id="22572"/> to cleave the adds faster. </Tip>
+    You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster. </Tip>
 </Tips>
 
 </Column>
