@@ -58,7 +58,7 @@ After you capped all three altars, use `/gg` immediately if someone in the party
 <Tips>
     <Tip specialization="chronomancer">Use <Skill id="10363"/> to pull mobs together.    
         You can <Skill id="10200"/> and aggro the Krait at the eastern altar during <Skill id="29830"/> if you're fast. Afterwards teleport up to one of the altars as soon as someone pulled the mobs down.</Tip>
-    <Tip specialization="weaver"><Skill id="5738"/> is very strong against the groups of Krait. Use <Skill id="5536"/> to teleport up to the altars. You can pull the left **and** **right** side with <Skill id="5491"/>. (For the right side cast from the middle altar and then jump at the end of your cast.) </Tip>
+    <Tip specialization="weaver"><Skill id="5738"/> is very strong against the groups of Krait. Use <Skill id="5536"/> to teleport up to the altars. You can pull both sides with <Skill id="5491"/> (for the right side, jump at the end of your cast).</Tip>
 </Tips>
 
 ---
@@ -80,7 +80,7 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
     <Tip specialization="weaver"> Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> while the last Illusions turn hostile.    
         On the East and South *Echoes of the Unclean*, you can use <Skill id="5697"/> from <Skill id="5516"/> against the wall to deal enormous damage. On the second add spawn you can <Skill id="5697"/> at any location.    
         With normal group damage Siax should turn invulnerable at the end of your first <Skill id="5624"/>. Place a <Skill id="13339"/> and use <Skill id="5697"/> to kill your add in about two seconds.    
-        Continue with <Skill id="5531"/> on Siax and restart in <Skill id="5492"/> (If your <Skill id="5501" text="false"/>, still has cd after placing a <Skill id="13339" text="false"/>, attune to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and use <Skill id="5528" text="false"/> and <Skill id="43762" text="false"/> while waiting for <Skill id="5501" text="false"/>).    
+        Continue with <Skill id="5531"/> on Siax and restart in <Skill id="5492"/>.    
         If your group damage is too low to pick up your second <Skill id="5516"/> for the second add, place a <Skill id="13339"/> on it, attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and use <Skill id="41125"/> to kill it quickly.    
         Continue with <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and <Skill id="5737"/> on Siax.</Tip>
     <Tip specialization="druid">If you have problems with the incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.    
