@@ -6,8 +6,8 @@ Stack <Effect name="stealth"/> in the tent and run towards Dulfy.
 Killing the *Burning Oil* above her is your highest priority. Control and cleave the trash mobs and utilize reflects and blocks while nuking her down. Destroy the gate after finishing her and gather on the other side of the wall.
 
 <Tips>
-    <Tip specialization="chronomancer">Protect your party with <Skill id="29526"/> or <Skill id="10302"/> and control enemies with <Skill id="30359"/>. You can run <Trait id="751"/> for the entire fractal to grab more often and for even more reflects.</Tip>
-    <Tip specialization="weaver"> If you are the first weaver at the gate and still have stealth, cast <Skill id="5501"/> on the Burning Oil above Dulfy. At least one weaver should use <Skill id="5738"/> on the mobs and Dulfy. You can use <Skill id="5697"/> against the door for more damage. Use <Skill id="22572"/> for better cleave.</Tip>
+    <Tip specialization="mesmer">Protect your party with <Skill id="29526"/> or <Skill id="10302"/> and control enemies with <Skill id="30359"/>. You can run <Trait id="751"/> for the entire fractal to grab more often and for even more reflects.</Tip>
+    <Tip specialization="elementalist"> If you are the first Weaver at the gate and still have <Effect name="stealth"/>, cast <Skill id="5501"/> on the Burning Oil above Dulfy. At least one weaver should use <Skill id="5738"/> on the mobs and Dulfy. You can use <Skill id="5697"/> against the door for more damage. Use <Skill id="22572"/> for better cleave.</Tip>
     <Tip specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> (also useful for reflects) or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tip>
     <Tip specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/> at the beginning.</Tip>
 </Tips>
@@ -25,14 +25,14 @@ Killing the *Burning Oil* above her is your highest priority. Control and cleave
 <Column>
 Again, stack <Effect name="stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
 
-Note that there is a little jumping puzzle in case you are unlucky with barricades spawning.
+Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference.
 
 <Image src="fractals/urban-battlegrounds/images/the_town.jpg" title="A barricade in the town"/>
 </Column>
 
 <Column>
 <Tips>
-    <Tip specialization="chronomancer">You can give easy party <Effect name="stealth"/> with <Skill id="10245"/>.</Tip>
+    <Tip specialization="mesmer">You can give easy party <Effect name="stealth"/> with <Skill id="10245"/>.</Tip>
     <Tip specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tip>
     <Tip specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.</Tip>
 </Tips>
@@ -52,7 +52,7 @@ As soon as you capture the courtyard, the *Fire Caller* will start a ritual and 
 <Column>
 <Tips>
     <Tip specialization="chronomancer"><Skill id="10363"/>, <Skill id="29526"/> and <Skill id="30359"/> are very valuable here.</Tip>
-    <Tip specialization="weaver"><Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors *Rush* attack.    
+    <Tip specialization="elementalist"><Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors *Rush* attack.    
         Stay in <Skill id="5492"/> before Ashym for <Boon name="might"/> stacking.</Tip>
 </Tips>
 </Column>
