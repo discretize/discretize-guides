@@ -11,7 +11,7 @@
 <Tips>
     <Tip specialization="chronomancer">Use <Skill id="10200"/> to teleport and <Skill id="10245"/> with <Skill id="29830"/> and <Trait id="674"/> for long party <Effect name="stealth"/>.    
         You can block the console locker <Control name="knockback"/> with <Skill id="29526"/>, <Skill id="10192"/> or a lucky <Trait id="713"/> signet cast.</Tip>
-    <Tip specialization="elementalist">Take <Skill id="5777"/> or <Skill id="5641"/> when activating the console.</Tip>
+    <Tip specialization="elementalist">Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.</Tip>
     <Tip specialization="guardian"><Skill id="30029"/>, <Skill id="9084"/> and <Skill id="9253"/> block the console <Control name="knockback"/>.</Tip>
     <Tip specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> to stack <Effect name="stealth"/>. <Skill id="13027"/> and <Skill id="13117"/> combined with <Trait id="1136"/> provide enough <Effect name="stealth"/> to completely activate the console.</Tip>
     <Tip specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.</Tip>
