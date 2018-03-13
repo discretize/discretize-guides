@@ -211,8 +211,8 @@ The most important thing is to keep calm. Remember that every single ability can
     <Tip specialization="mesmer">Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. Remember to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and help against mechanics like *Solar Fury*.<br/>Use <Skill id="10363"/> to pull mobs together at 70% and 40% (other party members can use `Nova Launch` to <Control name="launch"/> mobs closer to the center).</Tip>
     <Tip specialization="spellbreaker"><Skill id="45160"/> and <Skill id="45333"/> can be used to reflect the orbs from *Solar Fury* if timed correctly.</Tip>
     <Tip specialization="weaver"> Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5737"/> while turned away to avoid the *Blinding Radiance* <Condition name="fear"/>. Continue with <Skill id="5501"/>.    
-        **Always** place a <Skill id="5548"/> on the Temporal Anomaly and use <Skill id="5539"/> or <Skill id="41125"/> as backup.    
-        If your damage is good enough, you can skip the second anomaly by nuking the boss to 70%.    
+        Always place a <Skill id="5548"/> on the Temporal Anomaly and use <Skill id="5539"/> as backup. If you aim your <Skill id="41125"/> correctly, it hits the boss and the anomaly.    
+        If your damage is good enough, you can skip the second and fourth anomaly by nuking the boss to 70% and 40%. With good damage and fast Orb phases you can also skip the fifth anomaly by nuking the boss from 30% to zero.  
         Never cast <Skill id="5737"/> or <Skill id="5501"/> during the intermediate phases, instead wait and reopen with them on Arkk.</Tip>
     <Tip specialization="druid">You can consider running a more defensive setup with <Skill id="12495"/> for <Boon name="protection"/>, but not even that can help if you ignore mechanics.</Tip>
 </Tips>
