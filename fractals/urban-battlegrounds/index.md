@@ -7,7 +7,7 @@ Killing the *Burning Oil* above her is your highest priority. Control and cleave
 
 <Tips>
     <Tip specialization="mesmer">Protect your party with <Skill id="29526"/> or <Skill id="10302"/> and control enemies with <Skill id="30359"/>. You can run <Trait id="751"/> for the entire fractal to grab more often and for even more reflects.</Tip>
-    <Tip specialization="elementalist">Cast <Skill id="5737"/> and <Skill id="5638"/> to destroy the Burning Oil above Dulfy. You can use <Skill id="5697"/> against the wall afterwards.</Tip>
+    <Tip specialization="elementalist"> If you are the first Weaver at the gate and still have <Effect name="stealth"/>, cast <Skill id="5501"/> on the Burning Oil above Dulfy. At least one weaver should use <Skill id="5738"/> on the mobs and Dulfy. You can use <Skill id="5697"/> against the door for more damage. Use <Skill id="22572"/> for better cleave.</Tip>
     <Tip specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> (also useful for reflects) or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tip>
     <Tip specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/> at the beginning.</Tip>
 </Tips>
@@ -25,7 +25,7 @@ Killing the *Burning Oil* above her is your highest priority. Control and cleave
 <Column>
 Again, stack <Effect name="stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
 
-Note that there is a little jumping puzzle in case you are unlucky with barrices spawning.
+Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference.
 
 <Image src="fractals/urban-battlegrounds/images/the_town.jpg" title="A barricade in the town"/>
 </Column>
