@@ -58,7 +58,7 @@ After you capped all three altars, use `/gg` immediately if someone in the party
 <Tips>
     <Tip specialization="chronomancer">Use <Skill id="10363"/> to pull mobs together.    
         You can <Skill id="10200"/> and aggro the Krait at the eastern altar during <Skill id="29830"/> if you're fast. Afterwards teleport up to one of the altars as soon as someone pulled the mobs down.</Tip>
-    <Tip specialization="weaver"><Skill id="5738"/> is very strong against the groups of Krait. Use <Skill id="5536"/> to teleport up to the altars.</Tip>
+    <Tip specialization="weaver"><Skill id="5738"/> is very strong against the groups of Krait. Use <Skill id="5536"/> to teleport up to the altars. You can pull both sides with <Skill id="5491"/> (for the right side, jump at the end of your cast).</Tip>
 </Tips>
 
 ---
