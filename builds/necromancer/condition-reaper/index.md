@@ -105,6 +105,26 @@ Tips & skill usage
 Written Opener
 </CardHeader>
 <CardContent>
+### Precast
+1. Start on Greatsword
+2. <Skill id="10590"/>
+3. <Skill id="10549"/>
+
+### Opener
+1. <Skill id="30792"/>
+2. <Skill id="29958"/> => <Skill id="29709"/>
+3. <Skill id="30557"/>
+4. <Skill id="47590"/> inside the Ice Field
+5. Exit <Skill id="30792"/>
+6. <Skill id="30163"/>
+7. <Skill id="29855"/>
+8. <Skill id="29740"/>
+9. Weapon Swap
+10. <Skill id="10709"/>
+11. <Skill id="10532"/>
+12. <Skill id="10706"/>
+13. <Skill id="10544"/>
+14. <Skill id="10705"/>
 </CardContent>
 </Card>
 
@@ -116,7 +136,7 @@ CC skills
 | | |
 | -- | -- |
 | <Skill id="29740"/> | 150 damage |
-| <Skill id="29958"/> -> <Skill id="29709"/> | 100 damage with <Condition name="fear"/> (increased by condition duration) |
+| <Skill id="29958"/> => <Skill id="29709"/> | 100 damage with <Condition name="fear"/> (increased by condition duration) |
 | <Skill id="30557"/> | 150 damage |
 | <Skill id="10647"/> | 100 damage per hit (more on large hitboxes) and extra 332 if the target is hit by the end of the charge |
 </CardContent>
