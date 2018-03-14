@@ -642,7 +642,7 @@
   {
     "id": "good-builds",
     "header": "Good Builds",
-    "itemsPerRow": 3,
+    "itemsPerRow": 6,
     "items": [
       {
         "id": "condition-reaper",
