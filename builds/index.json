@@ -650,6 +650,10 @@
         "meta": "Damage",
         "category": "necromancer",
         "specialization": "reaper",
+        "author": {
+          "name": "AmerikaJinn",
+          "url": "https://reddit.com/u/Amerika-jinn"
+        },
         "benchmark": {
           "small": {
             "dps": 29504,
