@@ -687,7 +687,7 @@
             },
             {
               "name": "Vulnerability",
-              "amount": 15
+              "quantity": 15
             },
             {
               "name": "Crippled"
