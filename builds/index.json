@@ -642,8 +642,64 @@
   {
     "id": "good-builds",
     "header": "Good Builds",
-    "itemsPerRow": 5,
+    "itemsPerRow": 3,
     "items": [
+      {
+        "id": "condition-reaper",
+        "header": "Condition Reaper",
+        "meta": "Damage",
+        "category": "necromancer",
+        "specialization": "reaper",
+        "benchmark": {
+          "small": {
+            "dps": 29504,
+            "by": "Farbstoff [LN]",
+            "youtube": "Y-NDFMLL5is"
+          }
+        },
+        "perks": {
+          "skills": [
+            {
+              "id": 10689
+            },
+            {
+              "id": 10602
+            },
+            {
+              "id": 10606
+            }
+          ],
+          "traits": [
+            {
+              "id": 816
+            },
+            {
+              "id": 875
+            }
+          ],
+          "conditions": [
+            {
+              "name": "Chilled"
+            },
+            {
+              "name": "Vulnerability",
+              "amount": 15
+            },
+            {
+              "name": "Crippled"
+            },
+            {
+              "name": "Blind"
+            },
+            {
+              "name": "Weakness"
+            },
+            {
+              "name": "Immobile"
+            }
+          ]
+        }
+      },
       {
         "id": "condition-soulbeast",
         "header": "Condition Soulbeast",
