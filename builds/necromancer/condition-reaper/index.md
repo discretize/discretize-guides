@@ -21,9 +21,7 @@ Equipment
 Swap Weapons
 </CardHeader>
 <CardContent>
-* Staff with <Item id="36053"/>/<Item id="36054"/>
-* Staff with <Item id="24658"/>/<Item id="24868"/>
-* At least a Scepter and Dagger for <Boon name="might"/> stacking, Sword if you want to go the extra mile
+You can also run <Item id="44944"/> instead of <Item id="24605"/> if you are heavily using <Skill id="10606"/> for an encounter.
 </CardContent>
 </Card>
 </Column>
