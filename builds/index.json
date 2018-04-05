@@ -716,6 +716,52 @@
             "dps": 33328,
             "by": "Nightmare [SC]"
           }
+        },
+          "perks": {
+          "skills": [
+            {
+              "id": 45717
+            },
+            {
+              "id": 40498
+            },
+            {
+              "id": 44948
+            }
+          ],
+          "traits": [
+            {
+              "id": 2128
+            },
+          ],
+           "boons": [
+            {
+              "name": "Might"
+            }0
+          ],
+          "conditions": [
+            {
+              "name": "Vulnerability",
+            },
+            {
+              "name": "Crippled"
+            },
+            {
+              "name": "Blind"
+            },
+            {
+              "name": "Bleeding"
+            },
+            {
+              "name": "Burning"
+            },
+            {
+              "name": "Immobile"
+            },
+            {
+              "name": "Weakness"
+            }
+          ]
         }
       },
       {
@@ -730,6 +776,79 @@
             "dps": 36000,
             "by": "Nightmare [SC]"
           }
+        },
+          "perks": {
+          "skills": [
+            {
+              "id": 41714
+            },
+            {
+              "id": 9187
+            },
+            {
+              "id": 44364
+            },
+            {
+              "id": 9154
+            },
+            {
+              "id": 29965
+            },
+            {
+              "id": 40915
+            }
+          ],
+          "traits": [
+            {
+              "id": 5710
+            },
+          ],
+           "boons": [
+            {
+              "name": "Quickness",
+            },
+            {
+              "name": "Might",
+            },
+            {
+              "name": "Fury"
+            },
+            {
+              "name": "Retaliation"
+            },
+            {
+              "name": "Protection"
+            },
+            {
+              "name": "Swiftness"
+            },
+            {
+              "name": "Regeneration"
+            },
+            {
+              "name": "Vigor"
+            },
+            {
+              "name": "Aegis"
+            },
+            {
+              "name": "Stability"
+            },
+            {
+              "name": "Resistance"
+            }
+          ],
+          "conditions": [
+            {
+              "name": "Burning"
+            },
+            {
+              "name": "Immobile"
+            },
+            {
+              "name": "Crippled"
+            },
+          ]
         }
       },
       {
@@ -776,6 +895,50 @@
             "dps": 31133,
             "by": "NeoVaris [SC]"
           }
+        },
+          "perks": {
+          "skills": [
+            {
+              "id": 13132
+            },
+            {
+              "id": 13014
+            },
+            {
+              "id": 13044
+            },
+            {
+              "id": 13065
+            },
+            {
+              "id": 13025
+            }
+          ],
+          "traits": [
+            {
+              "id": 2047
+            },
+          ],
+          "conditions": [
+            {
+              "name": "Vulnerability",
+              "quantity": 10-20
+            },
+            {
+              "name": "Crippled"
+            },
+            {
+              "name": "Blind"
+            },
+            {
+              "name": "Weakness"
+            }
+          ],
+           "effects": [
+            {
+              "name": "stealth"
+            }
+          ]
         }
       }
     ]
