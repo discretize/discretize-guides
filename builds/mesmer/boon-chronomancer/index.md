@@ -1,3 +1,8 @@
+---
+title: "Boon Chronomancer"
+date: "2018-04-17"
+---
+
 Yes, you've read right - the <Specialization prefix="boon" name="chronomancer"/> is capable of providing **every single boon** in the game to the party. You can permanently keep up ten boons plus <Boon name="aegis"/> and some <Boon name="resistance"/> which has great synergy with your own trait <Trait id="1865"/>, the <Specialization name="spellbreaker" prefix="hybrid"/>'s <Trait id="1471" profession="warrior"/> and the <Specialization name="weaver" prefix="arcane"/>'s <Trait id="1511" profession="elementalist"/>.
 
 This is the recommended build variant if you plan to play **without a <Specialization name="druid"/> and a third <Specialization name="weaver" prefix="arcane"/> instead**, as one <Trait id="264" profession="elementalist"/> is enough to keep up 25x <Boon name="might"/> in combination with your own might output - making <Skill id="31582" profession="ranger"/>, <Skill id="12497" profession="ranger"/> and <Trait id="1016" profession="ranger"/> (redundant with <Trait id="2177" profession="elementalist"/> in fractals) the only loss while you gain much more DPS. The slow ramp-up time for <Boon name="might"/> is compensated by pre-stacking.
@@ -160,6 +165,7 @@ As really every skill you have is worth using, you should simply cast everything
 If you're running a setup with <Item id="72339"/>, remember to weapon swap as often as possible and use <Skill id="10236"/> and phantasms triggering <Trait id="1866"/> in the 7 seconds afterwards.
 
 ### Boons
+
 * <Boon name="quickness"/> with <Skill id="30814"/> and <Trait id="2022"/>
 * <Boon name="alacrity"/> with <Skill id="30643"/>, <Skill id="29856"/> and <Trait id="1927"/>
 * 15-20x <Boon name="might"/> with <Skill id="49068"/> (<Trait id="1687" text="false"/>), <Trait id="1866"/> and <Skill id="10273"/>
@@ -176,12 +182,15 @@ If you're running a setup with <Item id="72339"/>, remember to weapon swap as of
 Are we done yet? No!
 
 ### Crowd Control
+
 Break any defiance bar with <Skill id="29519"/>, <Skill id="30643"/> and <Skill id="10287"/>. <Item id="24639"/> on your shield helps as well.
 
 ### Conditions
+
 You can put out around 15x <Condition name="vulnerability"/> with <Skill id="10216"/> and your sword auto-attack (the clones from <Skill id="10173"/> and <Skill id="30769"/> execute the sword chain as well!). You can run <Item id="24567"/> instead of <Item id="24615"/> on your staff for additional ~3 stacks.
 
 ### DPS
+
 Use <Skill id="10334"/>, your phantasms and <Skill id="21750"/> (optional) whenever they are ready. Don't cancel your auto-attacks as the third hit deals the most damage. As soon as you get three illusions up cast <Skill id="49068"/> (plus all other shatters afterwards). You will end up doing around 6-8k DPS on fractal bosses with optimized gear.
 </CardContent>
 </Card>

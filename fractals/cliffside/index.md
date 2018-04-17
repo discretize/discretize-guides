@@ -1,3 +1,8 @@
+---
+title: "Cliffside"
+date: "2018-04-17"
+---
+
 <Message icon="warning circle">
 <MessageHeader>
 Disclaimer
@@ -11,13 +16,13 @@ You will need an experienced <Specialization name="mesmer"/> for this fractal or
 <Column>
 ## Start & Ankle Seals <Item id="8881" text="false"/><Item id="24678" text="false"/>
 
-Kill the Cultists but take the *Cultist Hammer* before finishing the last one to get a hammer charge.    
-Take the portal to above (...or walk) and destroy the two *Ankle Seals* using hammer `Skill 4`. Both sigils have to get hit two times, do not finish mobs unless you need a charge.    
+Kill the Cultists but take the _Cultist Hammer_ before finishing the last one to get a hammer charge.  
+Take the portal to above (...or walk) and destroy the two _Ankle Seals_ using hammer `Skill 4`. Both sigils have to get hit two times, do not finish mobs unless you need a charge.  
 Use `/gg` afterwards and stay dead until the <Specialization name="mesmer"/> reaches the Chest Seal.
 </Column>
 
 <Column width="6" compact>
-<Image src="fractals/cliffside/images/ankle_seals.jpg" title="The ankle seals" compact/>
+<Image src="./images/ankle_seals.jpg" title="The ankle seals" compact/>
 </Column>
 </Grid>
 
@@ -31,6 +36,7 @@ Use `/gg` afterwards and stay dead until the <Specialization name="mesmer"/> rea
 ---
 
 ## Chest Seal <Item id="8881" text="false"/><Item id="24678" text="false"/>
+
 <Grid>
 <Column>
 As soon as the Mesmer did `/gg` too, everyone can resurrect and will respawn in front of the *Chest Seal* with a new *Cultist Hammer* ahead of you.    
@@ -45,11 +51,12 @@ It will take five hits to break the chest seal. If you see your Mesmer running a
 </Column>
 </Grid>
 
-<Image src="fractals/cliffside/images/chest_seal.jpg" title="The chest seal"/>
+<Image src="./images/chest_seal.jpg" title="The chest seal"/>
 
 ---
 
 ## Arm Seals <Item id="8881" text="false"/><Item id="24678" text="false"/>
+
 <Grid>
 <Column>
 This is a matter of timing, so look out for the <Specialization name="mesmer"/> and the hammer carrier. In a perfect world you have a charge left from below, then hit the *Right Arm Seal* once before killing the Veteran Cultist to gain another charge. Run to the *Left Arm Seal*.
@@ -60,7 +67,7 @@ Type `/gg` after finishing both seals and stay dead. If you wipe before both sea
 </Column>
 
 <Column width="6" compact>
-<Image src="fractals/cliffside/images/arm_seal.jpg" title="One of the arm seals" compact/>
+<Image src="./images/arm_seal.jpg" title="One of the arm seals" compact/>
 </Column>
 </Grid>
 
@@ -94,16 +101,16 @@ Do not resurrect yourself yet, wait for the <Specialization name="mesmer"/> to f
 ## <Boss red/> Arch Diviner <Item id="8881" text="false"/><Item id="24678" text="false"/>
 After the Mesmer indicates you to resurrect, take the portal to above and combat the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Trait id="1502"/>.
 
-Every 25% of his health, you will need to collect a *Cultist Hammer* charge similar to before by killing one of the four spawned Cultists and hit the final Seal to make the Arch Diviner vulnerable again. Cultists apply a lot of conditions so kill them fast and try to stay out of their aggro range.
+Every 25% of his health, you will need to collect a _Cultist Hammer_ charge similar to before by killing one of the four spawned Cultists and hit the final Seal to make the Arch Diviner vulnerable again. Cultists apply a lot of conditions so kill them fast and try to stay out of their aggro range.
 
 Do not get caught in any of the Arch Diviner's voidzones, otherwise you will be teleported and trapped inside a distant cage which messes up positioning. Also, try to stack on him as he teleports to the furthermost person.
 </Column>
 <Column width="6">
 <Tips>
-    <Tip specialization="mesmer">You can <Skill id="10363"/> all four Cultists during the Seal phase to the center.</Tip>
+<Tip specialization="mesmer">You can <Skill id="10363"/> all four Cultists during the Seal phase to the center.</Tip>
 </Tips>
 </Column>
 </Row>
 </Grid>
 
-<Image src="fractals/cliffside/images/arch_diviner.jpg" title="The arch diviner and the final seal"/>
+<Image src="./images/arch_diviner.jpg" title="The arch diviner and the final seal"/>

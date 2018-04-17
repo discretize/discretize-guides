@@ -1,4 +1,10 @@
+---
+title: "Captain Mai Trin Boss"
+date: "2018-04-17"
+---
+
 ## Start
+
 <Grid>
 <Column>  
 Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="daze"/> with his stunning shield, use <Boon name="stability"/>, blocks or invulnerables against it.
@@ -10,13 +16,14 @@ After you killed the mobs, use the teleporter to enter the boss area. If someone
 </Tips>
 </Column>
 <Column width="6" compact>
-<Image src="fractals/captain-mai-trin-boss/images/start.jpg" title="The start area" compact/>
+<Image src="./images/start.jpg" title="The start area" compact/>
 </Column>
 </Grid>
 
 ---
 
 ## <Boss red/> Mai Trin <Item id="50082" text="false"/>
+
 <Grid>
 <Column>
 Mai Trin is protected by ten stacks of *Captain's Shield*, each stack reducing her incoming damage by 10%. The only way to remove stacks is by pulling her into electric fields from Horriks alternating projectiles. Standing in the electric field will remove one stack per second from her. The fire field projectile from Horrik can be reflected and absorbed. You can easily recognize the projectile type from the icon above the targeted player.
@@ -27,11 +34,11 @@ Your <Specialization name="druid"/> should be able to stay in <Skill id="31869"/
 
 Every 25% health, Mai Trin disappears and additional enemies will spawn while fiery cannons start shooting. Switch your damage to Horrik and deal 25% of his health to make Mai Trin return. Cleave the spawning mobs during downtimes.
 
-Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily Mai Trin won't have any protecting stacks below 25%, so make sure to finish her quickly. 
+Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily Mai Trin won't have any protecting stacks below 25%, so make sure to finish her quickly.
 </Column>
 
 <Column width="7" compact>
-<Image src="fractals/captain-mai-trin-boss/images/horrik.jpg" title="First Mate Horrik"/>
+<Image src="./images/horrik.jpg" title="First Mate Horrik"/>
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="10302"/> against the multitude of projectiles.</Tip>
     <Tip specialization="druid">Trait <Trait id="1075"/> and use <Skill id="12489"/> for additional condition clears.    
@@ -40,5 +47,4 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 </Column>
 </Grid>
 
-
-<Image src="fractals/captain-mai-trin-boss/images/mai_trin.jpg" title="Captain Mai Trin"/>
+<Image src="./images/mai_trin.jpg" title="Captain Mai Trin"/>

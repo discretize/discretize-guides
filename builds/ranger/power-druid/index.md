@@ -1,8 +1,13 @@
+---
+title: "Power Druid"
+date: "2018-04-17"
+---
+
 If you want to run a more offensive healer, <Specialization name="druid" prefix="power"/> is currently the optimal choice. It provides the party with smaller healings to keep up <Item id="24836"/> in addition to the usual druid utilities like <Skill id="12497"/>, <Skill id="12498"/>, <Skill id="31582"/>, <Trait id="2057"/> and <Trait id="1016"/>. As you don't have additional boon duration and can't get into <Skill id="31869"/> that often your party will need at least one additional <Boon name="might"/> source.
 
-The Power Druid has access to a lot of CC with offhand Axe, Longbow and its pets. <Skill id="12638"/>, <Skill id="12511"/>, <Skill id="31639"/> (*Electric Wyvern*), <Skill id="43636"/> (*Rock Gazelle*) and <Skill id="31746"/> (optional) quickly deal between 1000-2000 defiance bar damage, together with <Skill id="31582"/> it can really boost the team damage in fights like MAMA ([Nightmare Fractal](https://discretize.eu/fractals/nightmare)). 
- 
-Thanks to the *Smokescale* pet <Effect name="stealth"/> stacking is also possible with <Skill id="31568"/>, additionally the power druid keeps up quite some <Condition name="vulnerability"/> on its own.
+The Power Druid has access to a lot of CC with offhand Axe, Longbow and its pets. <Skill id="12638"/>, <Skill id="12511"/>, <Skill id="31639"/> (_Electric Wyvern_), <Skill id="43636"/> (_Rock Gazelle_) and <Skill id="31746"/> (optional) quickly deal between 1000-2000 defiance bar damage, together with <Skill id="31582"/> it can really boost the team damage in fights like MAMA ([Nightmare Fractal](https://discretize.eu/fractals/nightmare)).
+
+Thanks to the _Smokescale_ pet <Effect name="stealth"/> stacking is also possible with <Skill id="31568"/>, additionally the power druid keeps up quite some <Condition name="vulnerability"/> on its own.
 
 <Divider>
 Equipment (150 AR)

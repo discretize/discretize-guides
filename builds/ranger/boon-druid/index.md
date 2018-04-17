@@ -1,10 +1,15 @@
+---
+title: "Boon Druid"
+date: "2018-04-17"
+---
+
 At the moment <Specialization name="druid" prefix="boon"/> is a great build for fractals, primarily providing the group with heals. Aside from keeping up the health bars (<Item id="24836"/> uptime), it also facilitates a bunch of utilities and strong offensive party support in form of <Skill id="12497"/>, <Skill id="31582"/>, <Trait id="2057"/>, <Trait id="1016"/> and <Condition name="vulnerability"/>.
 
 The Druid's main source of healing comes from <Skill id="31869"/>, which is replenished by acquiring Astral Force from healing allies and damaging foes (<Trait id="1874"/>). Using CA replaces your weapon skills with strong AoE healing skills.
 
 Besides healing, the <Skill id="31869"/> skills (and any glyph outside of CA like <Skill id="31582"/> due to <Trait id="2001"/>) trigger <Trait id="2057"/> which generates 25x <Boon name="might"/> for up to 10 people with a boon duration setup.
 
-With the help of its pets, the druid also has access to heavy defiance bar damage with <Skill id="31639"/> (*Electric Wyvern*) and <Skill id="43636"/> (*Rock Gazelle*). Moreover, the *Smokescale* pet can be used to stack party <Effect name="stealth"/> with its <Skill id="31568"/> smoke field.
+With the help of its pets, the druid also has access to heavy defiance bar damage with <Skill id="31639"/> (_Electric Wyvern_) and <Skill id="43636"/> (_Rock Gazelle_). Moreover, the _Smokescale_ pet can be used to stack party <Effect name="stealth"/> with its <Skill id="31568"/> smoke field.
 
 <Divider>
 Equipment (150 AR)

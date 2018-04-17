@@ -1,10 +1,15 @@
+---
+title: "Power Chronomancer"
+date: "2018-04-17"
+---
+
 The <Specialization prefix="power" name="chronomancer"/> is a good DPS option for fights without a lot of target switching. It does high burst damage and does not suffer from smaller hitboxes while periodically removing boons with <Skill id="10267"/> and applying 10-15x <Condition name="vulnerability"/>.
 
 Being a <Specialization name="chronomancer"/>, the build has access to <Skill id="29830"/> which enables the doubled usage of strong Mesmer utility skills like <Skill id="29519"/>, <Skill id="34326"/> and <Skill id="10197"/> or <Effect name="stealth"/> skips.
 
 As Focus is used as a main weapon, <Skill id="10363"/> can <Control name="pull"/> trash mobs together and CC skills like <Skill id="30359"/>, <Skill id="10287"/> and <Skill id="10341"/> can break any defiance bar.
 
-The build unfolds its full strength in fights with medium to long interphases, it excels at encounters like Arkk ([Shattered Observatory Fractal](https://discretize.eu/fractals/shattered-observatory)) but is not as good on short-lived fights with target switching like MAMA ([Nightmare Fractal](https://discretize.eu/fractals/nightmare)). 
+The build unfolds its full strength in fights with medium to long interphases, it excels at encounters like Arkk ([Shattered Observatory Fractal](https://discretize.eu/fractals/shattered-observatory)) but is not as good on short-lived fights with target switching like MAMA ([Nightmare Fractal](https://discretize.eu/fractals/nightmare)).
 
 <Divider>
 Equipment (150 AR and <Trait id="1016" profession="ranger"/>)

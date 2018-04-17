@@ -1,4 +1,9 @@
-The engineer build that currently fares best in fractals is the <Specialization prefix="power" name="holosmith"/>, offering a mix of high damage and a good amount of CC and utility in form of <Condition name="vulnerability"/> and <Condition name="Blind"/>. It can also provide soft CC in form of <Condition name="crippled"/> and <Condition name="immobile"/>. As a power class it benefits from slaying potions like <Item id="50082"/> and <Item id ="24868"/>. 
+---
+title: "Power Holosmith"
+date: "2018-04-17"
+---
+
+The engineer build that currently fares best in fractals is the <Specialization prefix="power" name="holosmith"/>, offering a mix of high damage and a good amount of CC and utility in form of <Condition name="vulnerability"/> and <Condition name="Blind"/>. It can also provide soft CC in form of <Condition name="crippled"/> and <Condition name="immobile"/>. As a power class it benefits from slaying potions like <Item id="50082"/> and <Item id ="24868"/>.
 
 It has two weapon sets that perform equally well when only looking at raw DPS while the rifle variant usually has a little higher burst and doesn't necessarily has to stay as close as the sword variant.
 
