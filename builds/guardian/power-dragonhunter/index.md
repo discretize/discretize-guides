@@ -1,3 +1,8 @@
+---
+title: "Power Dragonhunter"
+date: "2018-04-17"
+---
+
 The <Specialization name="dragonhunter" prefix="power"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
 
 The build also offers strong on-demand party support with <Skill id="30039"/> and reflects like <Skill id="9251"/>.

@@ -1,3 +1,8 @@
+---
+title: "Condition Reaper"
+date: "2018-04-17"
+---
+
 Though their two builds are similar enough to swap between easily, <Specialization name="reaper" prefix="Condition"/> will most likely fair better in fractals than <Specialization name="scourge" prefix="condition"/> due to Reaper having the superior burst damage (though if you’re dealing with a lot of mobs like in the [Molten Boss Fractal](https://discretize.eu/fractals/molten-boss) it may be worth swapping to Scourge for the superior cleave).
 
 Offering a good mix of damage, CC and utility this build can adapt well to fit most situations you’ll come across in fractals, though it is held back a bit by the reliance on hitting ice fields for a significant part of your rotation; as well as being a condition build in a power-burst oriented part of the game; but it also comes back strong with good baseline survivability as well as amazing sustain you can trait in for emergencies (or to enable a cushier/more aggressive playstyle).
@@ -111,6 +116,7 @@ Written Opener
 3. <Skill id="10549"/>
 
 ### Opener
+
 1. <Skill id="30792"/>
 2. <Skill id="29958"/> => <Skill id="29709"/>
 3. <Skill id="30557"/>

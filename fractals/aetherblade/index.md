@@ -1,4 +1,10 @@
+---
+title: "Aetherblade"
+date: "2018-04-17"
+---
+
 ## Start (Water tunnel) <Item id="50082" text="false"/>
+
 <Grid>
 <Column>
 You can stack <Effect name="stealth"/> before entering the water to cheat the exploding mines.    
@@ -11,20 +17,21 @@ Clear the group of *Elite Aetherblades* to open the door.
 </Column>
 
 <Column width="5" compact>
-<Image src="fractals/aetherblade/images/start.jpg" title="Mines in the water tunnel" compact/>
+<Image src="./images/start.jpg" title="Mines in the water tunnel" compact/>
 </Column>
 </Grid>
 
 ---
 
 ## Lasers <Item id="50082" text="false"/>
+
 <Grid>
 <Column>
 After the door opens, you enter a large area with two deathly laser puzzles.
 
-The first one consists of a *moving laser square pattern* and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="immobile"/> to you.
+The first one consists of a _moving laser square pattern_ and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="immobile"/> to you.
 
-The second area is filled with *spinning lasers*. In exactly the same way as before, four consoles around the area have to be activated to disable the traps.
+The second area is filled with _spinning lasers_. In exactly the same way as before, four consoles around the area have to be activated to disable the traps.
 
 You don't need to kill a single mob and can bypass all traps with the following steps:
 
@@ -40,15 +47,15 @@ You don't need to kill a single mob and can bypass all traps with the following 
 </Column>
 
 <Column width="6" compact>
-<Image src="fractals/aetherblade/images/moving_lasers.jpg" title="The moving laser pattern"/>
-<Image src="fractals/aetherblade/images/spinning_lasers.jpg" title="The spinning lasers"/>
+<Image src="./images/moving_lasers.jpg" title="The moving laser pattern"/>
+<Image src="./images/spinning_lasers.jpg" title="The spinning lasers"/>
 </Column>
 </Grid>
-
 
 ---
 
 ## Breach the gate <Item id="50082" text="false"/>
+
 <Grid>
 <Column>
 Kill the respawning enemies to fill the progress bar and open the gate. Avoid the dazing cannon shots and switch back your skills & traits if needed.
@@ -62,26 +69,27 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 </Column>
 </Grid>
 
---- 
+---
 
 ## <Boss red/> Final room (Frizz) <Item id="8887" text="false"/><Item id="24672" text="false"/>
+
 <Grid>
 <Column>
 Talk to *Inspector Ellen Kiel* to teleport your party into the final room. Stack <Boon name="might"/> as soon as you are in.
 
 Initially, there are Frizz and two Inquest enemies to fight. As soon as Frizz reaches 75%, he teleports to the middle and becomes invulnerable.
 
-After about five seconds, the first *Aetherblade Golem* wakes up and two *Small Lasers* start spinning. You can jump over the small lasers by utilizing the elevated boxes around.
+After about five seconds, the first _Aetherblade Golem_ wakes up and two _Small Lasers_ start spinning. You can jump over the small lasers by utilizing the elevated boxes around.
 
-When the first golem dies, the two *Small Lasers* will disappear and two more *Aetherblade Golems* wake up. *Large Lasers* start spinning which you cannot bypass without <Effect name="invulnerability"/>.
+When the first golem dies, the two _Small Lasers_ will disappear and two more _Aetherblade Golems_ wake up. _Large Lasers_ start spinning which you cannot bypass without <Effect name="invulnerability"/>.
 
-As soon as the two golems are dead, the two *Small Lasers* will join the two large lasers again and two final golems wake up. Kill those to finish the fight.
+As soon as the two golems are dead, the two _Small Lasers_ will join the two large lasers again and two final golems wake up. Kill those to finish the fight.
 
 If a golem walks through a laser, he powers up and blocks all attacks for a short time. Pay attention to their <Control name="pull"/> attack, though it should not be a problem with high damage.
 </Column>
 
 <Column compact>
-<Image src="fractals/aetherblade/images/frizz.jpg" title="Frizz"/>
+<Image src="./images/frizz.jpg" title="Frizz"/>
 
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="10363"/> and <Skill id="30359"/> to grab the golems together. <Skill id="10192"/> makes yourself immune against both the small and large lasers.</Tip>

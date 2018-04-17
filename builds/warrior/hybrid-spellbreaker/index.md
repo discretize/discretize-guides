@@ -1,6 +1,11 @@
+---
+title: "Hybrid Spellbreaker"
+date: "2018-04-17"
+---
+
 The <Specialization prefix="hybrid" name="spellbreaker"/> is the superior build for warriors in fractals.
 
-Besides providing the group with strong unique damage buffs (<Skill id="14405"/>, <Skill id="14407"/> and <Trait id="1482"/>) as well as removing boons on demand if necessary (<Skill id="45252" text="false"/><Skill id="45333" text="false"/><Trait id="2162" text="false"/>) and moderate to excellent defiance bar damage depending on your choice of weapon set (<Skill id="14502" text="false"/><Skill id="44937" text="false"/><Skill id="14415" text="false"/><Skill id="44165" text="false"/>) the Spellbreaker also has a relatively high burst damage potential on both small and large hitboxes for a support role. 
+Besides providing the group with strong unique damage buffs (<Skill id="14405"/>, <Skill id="14407"/> and <Trait id="1482"/>) as well as removing boons on demand if necessary (<Skill id="45252" text="false"/><Skill id="45333" text="false"/><Trait id="2162" text="false"/>) and moderate to excellent defiance bar damage depending on your choice of weapon set (<Skill id="14502" text="false"/><Skill id="44937" text="false"/><Skill id="14415" text="false"/><Skill id="44165" text="false"/>) the Spellbreaker also has a relatively high burst damage potential on both small and large hitboxes for a support role.
 
 The reliable removal of boons not only adds to your personal burst DPS due to direct damage (<Trait id="2126"/>) and the indirect damage modifier (<Trait id="2130"/>) but allows the <Specialization name="chronomancer"/> to use an offensive or defensive utility skill other than <Skill id="10267"/>.
 
@@ -45,12 +50,12 @@ Swap Weapons
 <Column>
 You will also need another **Axe**, **Dagger** and a **Mace** for the following situations:
 
-- If additional <Condition name="vulnerability"/> and defiance bar damage is needed: Dagger/Mace and Axe/Axe (e.g. MAMA)
-- If additional <Condition name="vulnerability"/> is needed and you fight a non-stationary boss: Dagger/Dagger and Axe/Axe (e.g. Mai Trin, Amala and Arkk)
-- If there are no boons to be removed and no lack of <Condition name="vulnerability"/> nor defiance bar damage: Axe/Axe and Greatsword
-</Column>
-</Row>
-</Grid>
+* If additional <Condition name="vulnerability"/> and defiance bar damage is needed: Dagger/Mace and Axe/Axe (e.g. MAMA)
+* If additional <Condition name="vulnerability"/> is needed and you fight a non-stationary boss: Dagger/Dagger and Axe/Axe (e.g. Mai Trin, Amala and Arkk)
+* If there are no boons to be removed and no lack of <Condition name="vulnerability"/> nor defiance bar damage: Axe/Axe and Greatsword
+  </Column>
+  </Row>
+  </Grid>
 
 <Divider>
 Build
@@ -118,9 +123,9 @@ The rotation varies depending on weapon set, the encounter-specific mechanics an
     * <Skill id="14518"/> inflicts 10x <Condition name="vulnerability"/>
     * <Skill id="14415"/> deals 200 defiance bar damage
   * Use <Skill id="45333"/> when there are multiple targets with boons (e.g. MAMA and Assault Knight at 25%), you are not at the target to remove boons in time (e.g. Artsariiv after the split 66% and 33%) or to destroy projectiles (e.g. Imbued Shaman initial Lava Elemental spawn at 75% and final 25%)
-</CardContent>
-</Card>
-</Column>
+    </CardContent>
+    </Card>
+    </Column>
 
 <Column>
 <Card>
@@ -138,12 +143,13 @@ CC skills
 
 If using <Skill id="14483"/>:
 
-| | |
-| -- | -- |
+|                     |            |
+| ------------------- | ---------- |
 | <Skill id="14487"/> | 100 damage |
 | <Skill id="14488"/> | 150 damage |
 | <Skill id="14556"/> | 200 damage |
 | <Skill id="14490"/> | 200 damage |
+
 </CardContent>
 </Card>
 

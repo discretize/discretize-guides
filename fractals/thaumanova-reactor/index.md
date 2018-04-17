@@ -1,3 +1,8 @@
+---
+title: "Thaumanova Reactor"
+date: "2018-04-17"
+---
+
 <Grid>
 <Column>
 ## Start
@@ -9,7 +14,7 @@ Activate the *Detonator* and wait for the <Specialization name="mesmer"/> to ope
 </Column>
 
 <Column width="6" compact>
-<Image src="fractals/thaumanova-reactor/images/fire_shaman.jpg" title="The Elite Flame Legion Fire Shaman"/>
+<Image src="./images/fire_shaman.jpg" title="The Elite Flame Legion Fire Shaman"/>
 </Column>
 </Grid>
 
@@ -17,7 +22,7 @@ Activate the *Detonator* and wait for the <Specialization name="mesmer"/> to ope
 
 <Grid>
 <Column width="6" compact>
-<Image src="fractals/thaumanova-reactor/images/turret_room.jpg" title="Golems patrol in the turret room"/>
+<Image src="./images/turret_room.jpg" title="Golems patrol in the turret room"/>
 </Column>
 
 <Column>
@@ -43,7 +48,7 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 </Column>
 
 <Column width="6" compact>
-<Image src="fractals/thaumanova-reactor/images/researcher_dormitories.jpg" title="The Researcher Dormitories"/>
+<Image src="./images/researcher_dormitories.jpg" title="The Researcher Dormitories"/>
 </Column>
 </Grid>
 
@@ -51,7 +56,7 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 
 <Grid>
 <Column width="6" compact>
-<Image src="fractals/thaumanova-reactor/images/superheated_room.jpg" title="The Superheated Room"/>
+<Image src="./images/superheated_room.jpg" title="The Superheated Room"/>
 </Column>
 
 <Column>
@@ -71,14 +76,14 @@ Gather at Subject 6 after finishing the other three colliders. During the fight,
 
 There are two main tactics for killing it:
 
-**Option 1 (easy):** Everyone goes AFK until Subject 6 blocks for the first time. After the blocking is over, nuke him without killing any Oozes.    
+**Option 1 (easy):** Everyone goes AFK until Subject 6 blocks for the first time. After the blocking is over, nuke him without killing any Oozes.  
 Requires high damage and you may have to wait a while as the blocking occurs at random times.
 
 **Option 2 (coordinated):** The team nukes from the beginning ignoring the Oozes, but refrains from using crowd control effects and breaking his defiance bar. If Subject 6 starts blocking, immediately break the defiance bar using **unblockable** CC skills to bypass the Overload mechanic.
 </Column>
 
 <Column compact>
-<Image src="fractals/thaumanova-reactor/images/subject_6_block.jpg" title="Subject 6 in block mode"/>
+<Image src="./images/subject_6_block.jpg" title="Subject 6 in block mode"/>
 
 <Tips>
     <Tip specialization="warrior">Equip <Skill id="14404"/> to make your CC skills unblockable.</Tip>
@@ -90,12 +95,13 @@ Requires high damage and you may have to wait a while as the blocking occurs at 
 ---
 
 ## <Boss red/> Thaumanova Anomaly
+
 <Grid>
 <Column>
 After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="might"/>.    
 During the fight, try to stack as much as possible on one or two adjacent platforms but don't die from <Instability name="Social Awkwardness"/> (present on both difficulties).
 
-Alternate the special *Hex Shield* skill between players for her *Gaze* attack (the beam dissolving the platforms) and the *Cosmic Instability* debuff (occuring after 50% health). The *Flux Bomb* debuff will also cause nearby platforms to disappear.
+Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (the beam dissolving the platforms) and the _Cosmic Instability_ debuff (occuring after 50% health). The _Flux Bomb_ debuff will also cause nearby platforms to disappear.
 </Column>
 
 <Column width="6">
@@ -105,4 +111,4 @@ Alternate the special *Hex Shield* skill between players for her *Gaze* attack (
 </Column>
 </Grid>
 
-<Image src="fractals/thaumanova-reactor/images/thaumanova_anomaly.jpg" title="The Thaumanova Anomaly"/>
+<Image src="./images/thaumanova_anomaly.jpg" title="The Thaumanova Anomaly"/>
