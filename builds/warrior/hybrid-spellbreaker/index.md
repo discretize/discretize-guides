@@ -123,9 +123,9 @@ The rotation varies depending on weapon set, the encounter-specific mechanics an
     * <Skill id="14518"/> inflicts 10x <Condition name="vulnerability"/>
     * <Skill id="14415"/> deals 200 defiance bar damage
   * Use <Skill id="45333"/> when there are multiple targets with boons (e.g. MAMA and Assault Knight at 25%), you are not at the target to remove boons in time (e.g. Artsariiv after the split 66% and 33%) or to destroy projectiles (e.g. Imbued Shaman initial Lava Elemental spawn at 75% and final 25%)
-    </CardContent>
-    </Card>
-    </Column>
+</CardContent>
+</Card>
+</Column>
 
 <Column>
 <Card>
