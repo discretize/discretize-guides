@@ -1,6 +1,7 @@
 ---
 title: "Underground Facility"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2947
 bosses: 2
 difficulties: [{ level: 81, ar: 116 }]

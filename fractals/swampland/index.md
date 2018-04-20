@@ -1,6 +1,7 @@
 ---
 title: "Swampland"
 date: "2018-04-17"
+image: "./images/bloomhunger_spirit_onslaught.jpg"
 api: 2892
 bosses: 1
 difficulties: [{ level: 77, ar: 109 }, { level: 89, ar: 131 }]

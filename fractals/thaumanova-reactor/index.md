@@ -1,6 +1,7 @@
 ---
 title: "Thaumanova Reactor"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2967
 bosses: 2
 difficulties: [{ level: 84, ar: 122 }, { level: 97, ar: 145 }]

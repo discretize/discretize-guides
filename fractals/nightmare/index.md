@@ -1,6 +1,7 @@
 ---
 title: "Nightmare"
 date: "2018-04-17"
+image: "./images/ensolyss_crazy.jpg"
 api: 3177
 bosses: 3
 difficulties: [{ level: 99, ar: 150 }]

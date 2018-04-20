@@ -1,6 +1,7 @@
 ---
 title: "Volcanic"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2989
 bosses: 2
 difficulties: [{ level: 92, ar: 136 }]

@@ -1,6 +1,7 @@
 ---
 title: "Solid Ocean"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2923
 bosses: 1
 difficulties: [{ level: 80, ar: 115 }]
