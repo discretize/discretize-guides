@@ -1,6 +1,14 @@
 ---
 title: "Thaumanova Reactor"
 date: "2018-04-17"
+api: 2967
+bosses: 2
+difficulties: [{ level: 84, ar: 122 }, { level: 97, ar: 145 }]
+tiers: ["T4"]
+record: { time: "3:33", by: { name: "Happens", tag: "hP" }, youtube: [{ id: "VB3H_A-tkF0", name: "Elo Quentz", specialization: "Chronomancer" }, { id: "DTKSHipGO50", name: "Guts", specialization: "Tempest" }, { id: "hsiFZF01Gfo", name: "Goni", specialization: "Tempest" }]}
+cycle: "Day"
+sigils: [{ id: 24615 }, { id: 24868 }]
+consumables: [78978, 49940]
 ---
 
 <Grid>

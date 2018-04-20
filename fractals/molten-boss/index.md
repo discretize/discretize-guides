@@ -1,6 +1,15 @@
 ---
 title: "Molten Boss"
 date: "2018-04-17"
+api: 2966
+bosses: 2
+difficulties: [{ level: 90, ar: 132 }]
+tiers: ["T4"]
+record: { time: "5:11", by: { name: "Quantify", tag: "qT" }, youtube: [{ id: "MV2Byim0PWU", name: "Deathly", specialization: "Chronomancer" }]}
+cycle: "Day"
+potions: [{ id: 50082 }]
+sigils: [{ id: 24615 }, { id: 24868 }]
+consumables: [78978, 48849, 8764, 8801]
 ---
 
 ## Start area <Item id="50082" text="false"/>

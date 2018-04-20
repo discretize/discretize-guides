@@ -1,6 +1,15 @@
 ---
 title: "Volcanic"
 date: "2018-04-17"
+api: 2989
+bosses: 2
+difficulties: [{ level: 92, ar: 136 }]
+tiers: ["T4"]
+record: { time: "3:48", by: { name: "Quantify", tag: "qT" }, youtube: [{ id: "un7xbSP-7KI", name: "Deathly", specialization: "Chronomancer" }]}
+cycle: "Night"
+potions: [{ id: 8890, description: "for all the Grawl enemies" }, { id: 8885, description: "for the Imbued Shaman endboss" }]
+sigils: [{ id: 36053 }, { id: 24648, description: "for the Grawl enemies" }, { id: 24661, description: "for the Imbued Shaman endboss" }]
+consumables: [78978, 49940]
 ---
 
 ## Start <Item id="8890" text="false"/><Item id="24648" text="false"/>

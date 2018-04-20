@@ -1,6 +1,15 @@
 ---
 title: "Underground Facility"
 date: "2018-04-17"
+api: 2947
+bosses: 2
+difficulties: [{ level: 81, ar: 116 }]
+tiers: ["T4"]
+record: { time: "3:52", by: { name: "Quantify", tag: "qT" }, youtube: [{ id: "jQCKegeS3DI", name: "Subi", specialization: "Chronomancer" }, { id: "GsPXlgXHAZI", name: "Fennec", specialization: "Berserker" }, { id: "OMUxEYbtnWE", name: "Deathly", specialization: "Daredevil" }]}
+cycle: "Night"
+potions: [{ id: 8892, description: "for all the Dredge enemies" }, { id: 8885, description: "for the Ice Elemental endboss" }]
+sigils: [{ id: 36053 }, { id: 24684, description: "for all Dredge enemies" }, { id: 24661, description: "for the Ice Elemental endboss" }]
+consumables: [78978, 49940, 8764, 8801, 8686]
 ---
 
 ## Locked Gates <Item id="8892" text="false"/><Item id="24684" text="false"/>

@@ -1,6 +1,15 @@
 ---
 title: "Power Druid"
 date: "2018-04-17"
+role: "Support"
+profession: "Ranger"
+specialization: "Druid"
+benchmark: { small: { dps: 15794, by: "Roca [SC]", youtube: "ocysUU1zRjQ"}}
+skills: [31869, 12495, 12493, 12497, 12498, 12569, 31582]
+traits: [2957, 1016]
+boons: ["Might", "Fury", "Regeneration",  "Swiftness", "Protection", "Stability"]
+conditions: ["Vulnerability", "Blind"]
+effects: ["Stealth"]
 ---
 
 If you want to run a more offensive healer, <Specialization name="druid" prefix="power"/> is currently the optimal choice. It provides the party with smaller healings to keep up <Item id="24836"/> in addition to the usual druid utilities like <Skill id="12497"/>, <Skill id="12498"/>, <Skill id="31582"/>, <Trait id="2057"/> and <Trait id="1016"/>. As you don't have additional boon duration and can't get into <Skill id="31869"/> that often your party will need at least one additional <Boon name="might"/> source.

@@ -1,6 +1,14 @@
 ---
 title: "Chaos Isles"
 date: "2018-04-17"
+api: 3038
+bosses: 2
+difficulties: [{ level: 88, ar: 129 }]
+tiers: ["T4"]
+record: { time: "5:11", by: { name: "Quantify", tag: "qT" }, youtube: [{ id: "MV2Byim0PWU", name: "Deathly", specialization: "Chronomancer" }]}
+cycle: "Day"
+sigils: [{ id: 24615 }, { id: 24554, description: "for the Chaos Anomaly" }, { id: 24868}]
+consumables: [49940]
 ---
 
 ## Start

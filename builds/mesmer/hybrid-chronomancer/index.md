@@ -1,6 +1,15 @@
 ---
 title: "Hybrid Chronomancer"
 date: "2018-04-17"
+role: "Support"
+profession: "Mesmer"
+specialization: "Chronomancer"
+benchmark: { small: { dps: 19071, by: "Van Gherwen [SC]", youtube: "T4q1e8jmGqM" }}
+skills: [10197, 10200, 29830, 10267, 10186, 10302, 10236, 29519]
+traits: [1852]
+boons: ["Quickness", "Alacrity", "Might", "Fury", "Swiftness",  "Vigor", "Aegis"]
+conditions: ["Vulnerability"]
+effects: ["Stealth"]
 ---
 
 The <Specialization prefix="hybrid" name="chronomancer"/> is the ideal support variant if you're playing with a <Specialization name="druid"/> and <Specialization name="weaver" prefix="air"/>s. It provides permanent <Boon name="quickness"/>, <Boon name="alacrity"/> and around 10x <Boon name="might"/> while dealing relatively high personal DPS.
