@@ -1,6 +1,7 @@
 ---
 title: "Molten Boss"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2966
 bosses: 2
 difficulties: [{ level: 90, ar: 132 }]

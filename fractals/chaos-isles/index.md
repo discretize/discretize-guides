@@ -1,6 +1,7 @@
 ---
 title: "Chaos Isles"
 date: "2018-04-17"
+image: "./images/legendary_brazen_gladiator.jpg"
 api: 3038
 bosses: 2
 difficulties: [{ level: 88, ar: 129 }]

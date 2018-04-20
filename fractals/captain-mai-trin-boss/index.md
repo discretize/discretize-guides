@@ -1,6 +1,7 @@
 ---
 title: "Captain Mai Trin Boss"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2932
 bosses: 1
 difficulties: [{ level: 95, ar: 141 }]

@@ -1,6 +1,7 @@
 ---
 title: "Aquatic Ruins"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2956
 bosses: 1
 difficulties: [{ level: 76, ar: 110 }]

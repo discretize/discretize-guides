@@ -1,6 +1,7 @@
 ---
 title: "Uncategorized"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2939
 bosses: 3
 difficulties: [{ level: 79, ar: 113 }, { level: 91, ar: 134 }]

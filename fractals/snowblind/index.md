@@ -1,6 +1,7 @@
 ---
 title: "Snowblind"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2952
 bosses: 2
 difficulties: [{ level: 86, ar: 125 }, { level: 93, ar: 138 }]

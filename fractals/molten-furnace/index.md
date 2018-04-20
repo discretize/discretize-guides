@@ -1,6 +1,7 @@
 ---
 title: "Molten Furnace"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2903
 bosses: 1
 difficulties: [{ level: 83, ar: 120 }]

@@ -1,6 +1,7 @@
 ---
 title: "Urban Battlegrounds"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2941
 bosses: 2
 difficulties: [{ level: 78, ar: 111 }, { level: 85, ar: 123 }]

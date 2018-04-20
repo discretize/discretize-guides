@@ -1,6 +1,7 @@
 ---
 title: "Cliffside"
 date: "2018-04-17"
+image: "./images/header.jpg"
 api: 2930
 bosses: 1
 difficulties: [{ level: 82, ar: 118 }, { level: 94, ar: 139 }]
