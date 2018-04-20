@@ -1,6 +1,7 @@
 ---
 title: "Blast Stacking"
 date: "2018-04-17"
+image: "./images/stacking.jpg"
 description: "Use blasts and combo fields to stack large amounts of <Boon name=\"might\"/>, <Boon name=\"fury\"/> and <Effect name=\"stealth\"/> on your party."
 ---
 
