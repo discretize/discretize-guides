@@ -1,6 +1,13 @@
 ---
 title: "Twilight Oasis"
 date: "2018-04-17"
+api: 3973
+bosses: 3
+difficulties: [{ level: 87, ar: 127 }]
+tiers: ["T4"]
+cycle: "Night"
+sigils: [{ id: 36053 }, { id: 36054 }]
+consumables: [78978, 8764, 8801]
 ---
 
 ### Start

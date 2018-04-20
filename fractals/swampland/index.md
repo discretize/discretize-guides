@@ -1,6 +1,14 @@
 ---
 title: "Swampland"
 date: "2018-04-17"
+api: 2892
+bosses: 1
+difficulties: [{ level: 77, ar: 109 }, { level: 89, ar: 131 }]
+tiers: ["T4"]
+record: { time: "5:09", by: { name: "Lucky Noobs", tag: "LN" }, youtube: [{ id: "2NeDItrX44I", name: "Nightmare", specialization: "Chronomancer" }, { id: "XTynF47Ekz4", name: "Flaschor", specialization: "Tempest" }, { id: "W3shEwUN0hU", name: "Roca", specialization: "Druid" }]}
+cycle: "Night"
+sigils: [{ id: 36053 }, { id: 24868 }]
+consumables: [78978]
 ---
 
 ## Running the wisps

@@ -1,6 +1,15 @@
 ---
 title: "Boon Chronomancer"
 date: "2018-04-17"
+role: "Support"
+profession: "Mesmer"
+specialization: "Chronomancer"
+benchmark: { small: { dps: 9687, by: "Van Gherwen [SC]", youtube: "ubpK_srQYSg" }}
+skills: [10197, 10200, 29830, 10267, 10186, 10302, 10236, 29519]
+traits: [1852]
+boons: ["Quickness", "Alacrity", "Might", "Fury", "Retaliation", "Protection", "Swiftness", "Regeneration", "Vigor", "Aegis", "Stability", "Resistance"]
+conditions: ["Vulnerability"]
+effects: ["Stealth"]
 ---
 
 Yes, you've read right - the <Specialization prefix="boon" name="chronomancer"/> is capable of providing **every single boon** in the game to the party. You can permanently keep up ten boons plus <Boon name="aegis"/> and some <Boon name="resistance"/> which has great synergy with your own trait <Trait id="1865"/>, the <Specialization name="spellbreaker" prefix="hybrid"/>'s <Trait id="1471" profession="warrior"/> and the <Specialization name="weaver" prefix="arcane"/>'s <Trait id="1511" profession="elementalist"/>.

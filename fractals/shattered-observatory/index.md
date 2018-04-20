@@ -1,6 +1,15 @@
 ---
 title: "Shattered Observatory"
 date: "2018-04-17"
+api: 3458
+bosses: 3
+difficulties: [{ level: 100, ar: 150 }]
+tiers: ["T4", "CM"]
+record: { time: "9:56", by: { name: "Snow Crows", tag: "SC" }, youtube: [{ id: "cLTNHl_A28I", name: "Van Gherwen", specialization: "Chronomancer" }, { id: "phbHkROKlm8", name: "Muto", specialization: "Berserker" }, { id: "ME2QF0X_NJo", name: "hint", specialization: "Tempest" }, { id: "RLkDIlMEx8U", name: "Roul", specialization: "Dragonhunter" }]}
+cycle: "Day"
+potions: [{ id: 50082, description: "against Arkk" }]
+sigils: [{ id: 24615 }, { id: 24868 }]
+consumables: [78978, 8759, 8678, 8732]
 ---
 
 ## <Boss/> Skorvald the Shattered <Label>5,551,340 HP</Label>

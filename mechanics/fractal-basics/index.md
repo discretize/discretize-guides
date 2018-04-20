@@ -1,6 +1,8 @@
 ---
 title: "Fractal Basics"
 date: "2018-04-17"
+image: "mechanics/fractal-basics/instabilities.jpg"
+description: "Get to know the meta 5-man team composition, learn about the `/gg` command and Mistlock Instabilities."
 ---
 
 # Team Composition

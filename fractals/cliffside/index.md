@@ -1,6 +1,15 @@
 ---
 title: "Cliffside"
 date: "2018-04-17"
+api: 2930
+bosses: 1
+difficulties: [{ level: 82, ar: 118 }, { level: 94, ar: 139 }]
+tiers: ["T4"]
+record: { time: "4:29", by: { name: "Happens", tag: "hP" }, youtube: [{ id: "05wgY9N_pdc", name: "Guts", specialization: "Chronomancer" }, { id: "3iqOCAT23S8", name: "Never Moa", specialization: "Tempest" }, { id: "fqK7UO-6R7M", name: "Goni", specialization: "Tempest" }]}
+cycle: "Day"
+potions: [{ id: 8881 }]
+sigils: [{ id: 24678 }, { id: 24615 }]
+consumables: [78978]
 ---
 
 <Message icon="warning circle">

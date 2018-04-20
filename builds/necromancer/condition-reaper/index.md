@@ -1,6 +1,13 @@
 ---
 title: "Condition Reaper"
 date: "2018-04-17"
+role: "Damage"
+profession: "Necromancer"
+specialization: "Reaper"
+benchmark: { small: { dps: 29504, by: "Farbstoff [LN]", youtube: "Y-NDFMLL5is"}}
+skills: [10689, 10602, 10606]
+traits: [816, 875]
+conditions: ["Chilled", "Vulnerability", "Crippled", "Blind", "Weakness", "Immobile"]
 ---
 
 Though their two builds are similar enough to swap between easily, <Specialization name="reaper" prefix="Condition"/> will most likely fair better in fractals than <Specialization name="scourge" prefix="condition"/> due to Reaper having the superior burst damage (though if you’re dealing with a lot of mobs like in the [Molten Boss Fractal](https://discretize.eu/fractals/molten-boss) it may be worth swapping to Scourge for the superior cleave).

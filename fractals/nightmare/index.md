@@ -1,6 +1,15 @@
 ---
 title: "Nightmare"
 date: "2018-04-17"
+api: 3177
+bosses: 3
+difficulties: [{ level: 99, ar: 150 }]
+tiers: ["T4", "CM"]
+record: { time: "8:36", by: { name: "Snow Crows", tag: "SC" }, youtube: [{ id: "WS3chFLSyiM", name: "Van Gherwen", specialization: "Chronomancer" }, { id: "TOautynEh6o", name: "Muto", specialization: "Berserker" }, { id: "_E6695pbGu8", name: "Roul", specialization: "Tempest" }, { id: "CsTSgY5gyUI", name: "Breke", specialization: "Tempest" }, { id: "gP1yv1Pffzg", name: "Derpy", specialization: "Druid" }]}
+cycle: "Day"
+potions: [{ id: 50082}]
+sigils: [{ id: 24615 }, { id: 24868 }, { id: 24658, description: "after MAMA" }]
+consumables: [43360, 8759, 8678, 8764, 8801, 78978]
 ---
 
 ## Assault Knights <Item id="50082" text="false"/><Label>426,071 HP</Label>

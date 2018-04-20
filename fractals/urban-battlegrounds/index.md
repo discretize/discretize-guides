@@ -1,6 +1,14 @@
 ---
 title: "Urban Battlegrounds"
 date: "2018-04-17"
+api: 2941
+bosses: 2
+difficulties: [{ level: 78, ar: 111 }, { level: 85, ar: 123 }]
+tiers: ["T4"]
+record: { time: "4:50", by: { name: "Happens", tag: "hP" }, youtube: [{ id: "vBuC5qwHmTk", name: "Elo Quentz", specialization: "Chronomancer" }, { id: "xgY2-9wtxS8", name: "Guts", specialization: "Tempest" }, { id: "LrUdzjbZQoQ", name: "Goni", specialization: "Tempest" }]}
+cycle: "Day"
+sigils: [{ id: 24868 }, { id: 24615 }]
+consumables: [78978, 8764, 8801]
 ---
 
 ## <Boss/> Siegemaster Dulfy

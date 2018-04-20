@@ -1,6 +1,15 @@
 ---
 title: "Snowblind"
 date: "2018-04-17"
+api: 2952
+bosses: 2
+difficulties: [{ level: 86, ar: 125 }, { level: 93, ar: 138 }]
+tiers: ["T4"]
+record: { time: "3:32", by: { name: "Snow Crows", tag: "SC" }, youtube: [{ id: "vvW8-vlCAjI", name: "Yui", specialization: "Chronomancer" }, { id: "5rJTZVRhEqQ", name: "Derpy", specialization: "Tempest" }, { id: "WKvibVHOjsY", name: "Roul", specialization: "Daredevil" }, { id: "5OW6VHot8WQ", name: "Cheezy", specialization: "Druid" }]}
+cycle: "Day"
+potions: [{ id: 8883, description: "for the Svanir & end boss" }]
+sigils: [{ id: 36053 }, { id: 24667, description: "for the Svanir & end boss" }]
+consumables: [78978, 49940]
 ---
 
 ## Ice Wall <Item id="8883" text="false"/><Item id="24667" text="false"/>

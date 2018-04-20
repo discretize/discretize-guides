@@ -1,6 +1,14 @@
 ---
 title: "Power Chronomancer"
 date: "2018-04-17"
+role: "Damage"
+profession: "Mesmer"
+specialization: "Chronomancer"
+benchmark: { small: { dps: 33990, by: "Van Gherwen [SC]", youtube: "TmPlXZ-cg9s"}}
+skills: [10267, 10186, 10197, 10200, 10302, 29830, 30359, 29519]
+traits: [1852]
+conditions: ["Vulnerability"]
+effects: ["Stealth"]
 ---
 
 The <Specialization prefix="power" name="chronomancer"/> is a good DPS option for fights without a lot of target switching. It does high burst damage and does not suffer from smaller hitboxes while periodically removing boons with <Skill id="10267"/> and applying 10-15x <Condition name="vulnerability"/>.

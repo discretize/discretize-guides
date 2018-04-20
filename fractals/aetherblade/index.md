@@ -1,6 +1,14 @@
 ---
 title: "Aetherblade"
 date: "2018-04-17"
+api: 2948
+bosses: 1
+difficulties: [{ level: 96, ar: 143 }]
+tiers: ["T4"]
+record: { time: "3:10", by: { name: "Happens", tag: "hP" }, youtube: [{ id: "VkfhMuvB4a0", name: "Guts", specialization: "Chronomancer" }]}
+cycle: "Day"
+potions: [{ id: 50082}, { id: 8887, description: "against the golems in the final room" }]
+sigils: [{ id: 24615 }, { id: 24868 }, { id: 24672, description: "against the golems in the final room" }]
 ---
 
 ## Start (Water tunnel) <Item id="50082" text="false"/>

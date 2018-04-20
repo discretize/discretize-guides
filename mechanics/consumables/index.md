@@ -1,6 +1,7 @@
 ---
 title: "Consumables"
 date: "2018-04-17"
+description: "Learn how to use various consumables to greatly simplify otherwise challenging content."
 ---
 
 # Fractal Consumables

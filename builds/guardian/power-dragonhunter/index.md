@@ -1,6 +1,14 @@
 ---
 title: "Power Dragonhunter"
 date: "2018-04-17"
+role: "Damage"
+profession: "Guardian"
+specialization: "Dragonhunter"
+benchmark: { small: { dps: 32814, by: "Nightmare [SC]", youtube: "uPP3eEjnqUE"}, large: { dps: 33078, by: "Nightmare [SC]", youtube: "uPP3eEjnqUE"}}
+skills: [30783, 30039, 9153, 9251]
+boons: ["Retaliation", "Aegis"]
+conditions: ["Vulnerability", "Blind", "Crippled"]
+effects: ["Stealth"]
 ---
 
 The <Specialization name="dragonhunter" prefix="power"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
