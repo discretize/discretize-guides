@@ -2,10 +2,10 @@
 title: "Aquatic Ruins"
 date: "2018-04-17"
 image: "./images/header.jpg"
+group: "T4"
 api: 2956
 bosses: 1
 difficulties: [{ level: 76, ar: 110 }]
-tiers: ["T4"]
 record: { time: "2:13", by: { name: "Happens", tag: "hP" }, youtube: [{ id: "cRKap-6_W48", name: "Guts", specialization: "Chronomancer" }]}
 cycle: "Day"
 potions: [{ id: 50082, description: "only for the Krait at the beginning" }]

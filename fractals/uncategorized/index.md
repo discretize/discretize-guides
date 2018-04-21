@@ -2,10 +2,10 @@
 title: "Uncategorized"
 date: "2018-04-17"
 image: "./images/header.jpg"
+group: "T4"
 api: 2939
 bosses: 3
 difficulties: [{ level: 79, ar: 113 }, { level: 91, ar: 134 }]
-tiers: ["T4"]
 record: { time: "3:16", by: { name: "Happens", tag: "hP" }, youtube: [{ id: "fMB69jScHWg", name: "Never Moa", specialization: "Tempest" }, { id: "1HptYqPzPZE", name: "Midnightz", specialization: "Tempest" }]}
 cycle: "Day"
 potions: [{ id: 8887, description: "for Old Tom and the Raving Asura" }]
