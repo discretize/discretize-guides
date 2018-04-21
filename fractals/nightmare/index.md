@@ -2,10 +2,10 @@
 title: "Nightmare"
 date: "2018-04-17"
 image: "./images/ensolyss_crazy.jpg"
+group: "Challenge Mode"
 api: 3177
 bosses: 3
 difficulties: [{ level: 99, ar: 150 }]
-tiers: ["T4", "CM"]
 record: { time: "8:36", by: { name: "Snow Crows", tag: "SC" }, youtube: [{ id: "WS3chFLSyiM", name: "Van Gherwen", specialization: "Chronomancer" }, { id: "TOautynEh6o", name: "Muto", specialization: "Berserker" }, { id: "_E6695pbGu8", name: "Roul", specialization: "Tempest" }, { id: "CsTSgY5gyUI", name: "Breke", specialization: "Tempest" }, { id: "gP1yv1Pffzg", name: "Derpy", specialization: "Druid" }]}
 cycle: "Day"
 potions: [{ id: 50082}]

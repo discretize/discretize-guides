@@ -2,10 +2,10 @@
 title: "Captain Mai Trin Boss"
 date: "2018-04-17"
 image: "./images/header.jpg"
+group: "T4"
 api: 2932
 bosses: 1
 difficulties: [{ level: 95, ar: 141 }]
-tiers: ["T4"]
 cycle: "Day"
 potions: [{ id: 50082 }]
 sigils: [{ id: 24615 }, { id: 24868 }]

@@ -2,10 +2,10 @@
 title: "Shattered Observatory"
 date: "2018-04-17"
 image: "./images/header.jpg"
+group: "Challenge Mode"
 api: 3458
 bosses: 3
 difficulties: [{ level: 100, ar: 150 }]
-tiers: ["T4", "CM"]
 record: { time: "9:56", by: { name: "Snow Crows", tag: "SC" }, youtube: [{ id: "cLTNHl_A28I", name: "Van Gherwen", specialization: "Chronomancer" }, { id: "phbHkROKlm8", name: "Muto", specialization: "Berserker" }, { id: "ME2QF0X_NJo", name: "hint", specialization: "Tempest" }, { id: "RLkDIlMEx8U", name: "Roul", specialization: "Dragonhunter" }]}
 cycle: "Day"
 potions: [{ id: 50082, description: "against Arkk" }]

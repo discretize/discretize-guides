@@ -2,10 +2,10 @@
 title: "Underground Facility"
 date: "2018-04-17"
 image: "./images/start.jpg"
+group: "T4"
 api: 2947
 bosses: 2
 difficulties: [{ level: 81, ar: 116 }]
-tiers: ["T4"]
 record: { time: "3:52", by: { name: "Quantify", tag: "qT" }, youtube: [{ id: "jQCKegeS3DI", name: "Subi", specialization: "Chronomancer" }, { id: "GsPXlgXHAZI", name: "Fennec", specialization: "Berserker" }, { id: "OMUxEYbtnWE", name: "Deathly", specialization: "Daredevil" }]}
 cycle: "Night"
 potions: [{ id: 8892, description: "for all the Dredge enemies" }, { id: 8885, description: "for the Ice Elemental endboss" }]
