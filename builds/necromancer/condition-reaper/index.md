@@ -1,6 +1,7 @@
 ---
 title: "Condition Reaper"
 date: "2018-04-17"
+group: "Good Builds"
 role: "Damage"
 profession: "Necromancer"
 specialization: "Reaper"

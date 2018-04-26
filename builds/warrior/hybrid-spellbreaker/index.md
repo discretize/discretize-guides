@@ -1,6 +1,7 @@
 ---
 title: "Hybrid Spellbreaker"
 date: "2018-04-17"
+group: "Meta Builds"
 role: "Support"
 profession: "Warrior"
 specialization: "Spellbreaker"

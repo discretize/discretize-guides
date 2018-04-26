@@ -1,6 +1,7 @@
 ---
 title: "Power Chronomancer"
 date: "2018-04-17"
+group: "Great Builds"
 role: "Damage"
 profession: "Mesmer"
 specialization: "Chronomancer"
