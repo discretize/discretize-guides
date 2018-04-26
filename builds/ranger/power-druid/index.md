@@ -1,6 +1,7 @@
 ---
 title: "Power Druid"
 date: "2018-04-17"
+group: "Great Builds"
 role: "Support"
 profession: "Ranger"
 specialization: "Druid"

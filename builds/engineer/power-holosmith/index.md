@@ -1,6 +1,7 @@
 ---
 title: "Power Holosmith"
 date: "2018-04-17"
+group: "Great Builds"
 role: "Damage"
 profession: "Engineer"
 specialization: "Holosmith"
