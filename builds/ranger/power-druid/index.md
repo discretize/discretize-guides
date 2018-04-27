@@ -7,7 +7,7 @@ profession: "Ranger"
 specialization: "Druid"
 benchmark: { small: { dps: 15794, by: "Roca [SC]", youtube: "ocysUU1zRjQ"}}
 skills: [31869, 12495, 12493, 12497, 12498, 12569, 31582]
-traits: [2957, 1016]
+traits: [2057, 1016]
 boons: ["Might", "Fury", "Regeneration",  "Swiftness", "Protection", "Stability"]
 conditions: ["Vulnerability", "Blind"]
 effects: ["Stealth"]
