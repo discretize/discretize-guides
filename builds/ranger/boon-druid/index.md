@@ -6,7 +6,7 @@ role: "Support"
 profession: "Ranger"
 specialization: "Druid"
 skills: [31869, 12495, 12493, 12497, 12498, 12569, 31582]
-traits: [2957, 1016]
+traits: [2057, 1016]
 boons: ["Might", "Fury", "Regeneration",  "Swiftness", "Protection", "Vigor", "Stability"]
 conditions: ["Weakness", "Vulnerability", "Blind"]
 effects: ["Stealth"]
