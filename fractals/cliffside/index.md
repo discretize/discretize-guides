@@ -115,9 +115,10 @@ Every 25% of his health, you will need to collect a _Cultist Hammer_ charge simi
 
 Do not get caught in any of the Arch Diviner's voidzones, otherwise you will be teleported and trapped inside a distant cage which messes up positioning. Also, try to stack on him as he teleports to the furthermost person.
 </Column>
+
 <Column width="6">
 <Tips>
-<Tip specialization="mesmer">You can <Skill id="10363"/> all four Cultists during the Seal phase to the center.</Tip>
+    <Tip specialization="mesmer">You can <Skill id="10363"/> all four Cultists during the Seal phase to the center.</Tip>
 </Tips>
 </Column>
 </Row>

@@ -5,7 +5,7 @@ image: "./images/reflect.jpg"
 description: "Learn which skills and traits your profession can use to avoid damaging mechanics."
 ---
 
-# Projectiles Destruction
+## Projectiles Destruction
 
 A lot of projectiles in fractals can be reflected or destroyed to prevent various boss mechanics, like the expiration of _Bonfires_ in the [Snowblind Fractal](https://discretize.eu/fractals/snowblind) or the emergence of burning fields from _Solar Orbs_ at Arkk in the [Shattered Observatory Fractal](https://discretize.eu/fractals/shattered-observatory).
 
@@ -83,7 +83,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 ---
 
-# Blocks, Evades and Invulnerables
+## Blocks, Evades and Invulnerables
 
 Certain mechanics can be bypassed by using block, <Effect name="invulnerability"/> or <Boon name="aegis"/> skills. Those ward against any attack (including projectiles) and usually prevent the application of conditions and control effects. Note that some abilities are unblockable!
 
