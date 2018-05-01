@@ -8,7 +8,7 @@ bosses: 1
 difficulties: [{ level: 83, ar: 120 }]
 cycle: "Day"
 potions: [{ id: 50082 }]
-sigils: [{ id: 24868 }, { id: 24552 }]
+sigils: [{ id: 24868 }, { id: 24554 }]
 ---
 
 <Grid>

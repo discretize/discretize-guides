@@ -5,7 +5,7 @@ image: "./images/consumables.jpg"
 description: "Learn how to use various consumables to greatly simplify otherwise challenging content."
 ---
 
-# Fractal Consumables
+## Fractal Consumables
 
 |                    |                                                                                                                                                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ description: "Learn how to use various consumables to greatly simplify otherwise
 
 ---
 
-# Mob-specific enhancements
+## Mob-specific enhancements
 
 | Enemy type           | Potion                                  | Sigil                                                   |
 | -------------------- | --------------------------------------- | ------------------------------------------------------- |

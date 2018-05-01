@@ -5,7 +5,7 @@ image: "./images/instabilities.jpg"
 description: "Get to know the meta 5-man team composition, learn about the /gg command and Mistlock Instabilities."
 ---
 
-# Team Composition
+## Team Composition
 
 The current "meta" group setup for fractals consists of the following builds:
 
@@ -20,7 +20,7 @@ The only interchangeable slots in the prevailing team composition are the two DP
 
 ---
 
-# Usage of `/gg`
+## Usage of `/gg`
 
 <Grid>
 <Column>
@@ -36,7 +36,7 @@ Note that the Druid's <Skill id="31869"/> will fully recharge after the resurrec
 
 ---
 
-# Mistlock Instabilities
+## Mistlock Instabilities
 
 Tier 4 fractals always have three Mistlock Instabilities active which add additional mechanics to the fights. The selection is fixed for each difficulty level and specified in the top panel of each fractal guide.
 
