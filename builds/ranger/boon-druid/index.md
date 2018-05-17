@@ -1,6 +1,6 @@
 ---
 title: "Boon Druid"
-date: "2018-04-17"
+date: "2018-05-16"
 group: "Meta Builds"
 role: "Support"
 profession: "Ranger"
@@ -27,7 +27,7 @@ Equipment (150 AR)
 <Grid>
 <Row>
 <Column>
-Keep in mind that the setup below is optimized for healing in fractals and is not recommended for raid content due to the high Toughness amount from Minstrel and Cleric items. If you don't care about optimizing and want to use one set for everything, simply run a full Harrier setup instead.
+Keep in mind that the setup below is optimized for healing in fractals and is not recommended for raid content due to the high Toughness amount from Minstrel and Cleric items. **If you don't care about optimizing and want to use one set for everything, simply run a full Harrier setup instead.**
 </Column>
 </Row>
 
@@ -74,9 +74,10 @@ Pets
 <CardContent>
 | | | |
 | -- | -- | -- |
-| <Skill id="31639" size="big" text="false"/> | [Electric Wyvern](https://wiki.guildwars2.com/wiki/Juvenile_Electric_Wyvern) | Best CC pet for large hitboxes, also does defiance bar damage with its auto-attack. |
 | <Skill id="43636" size="big" text="false"/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) | Best CC pet for small hitboxes, also does defiance bar damage with its auto-attack. |
 | <Skill id="44980" size="big" text="false"/> | [Jacaranda](https://wiki.guildwars2.com/wiki/Juvenile_Jacaranda) | Recommended if you want to replace <Skill id="12493"/> but are missing <Condition name="vulnerability"/> without it. |
+| <Skill id="12708" size="big" text="false"/> | [Pink Moa](https://wiki.guildwars2.com/wiki/Juvenile_Pink_Moa) | Hits one time for 200 Defiance bar damage. |
+| <Skill id="12709" size="big" text="false"/> | [Black Moa](https://wiki.guildwars2.com/wiki/Juvenile_Black_Moa) | Hits three times for 100 Defiance bar damage. |
 | <Skill id="31568" size="big" text="false"/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) | Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
 </CardContent>
 </Card>
@@ -134,10 +135,12 @@ CC skills
 <CardContent>
 | | |
 | -- | -- |
-| <Skill id="31639"/> | 232-928 damage (*Electric Wyvern*) |
 | <Skill id="43636"/> | 232 damage (*Rock Gazelle*) |
-| <Skill id="31318"/> | 200 damage (*<Skill id="31869"/>*) |
-| <Skill id="12490"/> | 132 damage (with <Condition name="chilled"/>) |
+| <Skill id="12708"/> | 200 damage (*Pink Moa*) |
+| <Skill id="12709"/> | 300 damage (*Black Moa*) |
+| <Skill id="43636"/> | 232 damage with *Rock Gazelle* |
+| <Skill id="31318"/> | 200 damage (in *<Skill id="31869"/>*) |
+| <Skill id="12490"/> | 132 damage with <Condition name="chilled"/> |
 </CardContent>
 </Card>
 </Column>

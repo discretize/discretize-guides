@@ -5,7 +5,7 @@ group: "Great Builds"
 role: "Damage"
 profession: "Guardian"
 specialization: "Dragonhunter"
-benchmark: { small: { dps: 32814, by: "Nightmare [SC]", youtube: "uPP3eEjnqUE"}, large: { dps: 33078, by: "Nightmare [SC]", youtube: "uPP3eEjnqUE"}}
+benchmark: { large: { dps: 31805, by: "Nightmare [SC]", youtube: "3D5AodiyTdk"}}
 skills: [30783, 30039, 9153, 9251]
 boons: ["Retaliation", "Aegis"]
 conditions: ["Vulnerability", "Blind", "Crippled"]
@@ -116,5 +116,7 @@ CC skills
 | <Skill id="30273"/> | 150 damage |
 </CardContent>
 </Card>
+
+<Video videoId="3D5AodiyTdk" videoTitle="Large Hitbox: 31.8k DPS by Nightmare [SC]"/>
 </Column>
 </Grid>
