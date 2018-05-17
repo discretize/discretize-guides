@@ -5,7 +5,7 @@ group: "Great Builds"
 role: "Damage"
 profession: "Engineer"
 specialization: "Holosmith"
-benchmark: { small: { dps: 33923, by: "hint [SC]", youtube: "M133xcW4fpk"}}
+benchmark: { small: { dps: 33450, by: "hint [SC]", youtube: "ph1FOgcM43s"}}
 skills: [30815, 43739]
 traits: [517]
 conditions: ["Vulnerability", "Blind", "Crippled", "Immobile"]
@@ -34,7 +34,6 @@ Alternative weapons
 </CardHeader>
 <CardContent>
 * Rifle with <Item id="36053"/>/<Item id="36054"/> and slaying sigils
-* Sword/Pistol as an alternative to Rifle with a bit less damage over all and lower burst as well as loosing some range. Sigils identical to rifle variants.
 </CardContent>
 </Card>
 </Column>
@@ -122,7 +121,7 @@ You can switch to <Specialization name="scrapper"/> and equip <Skill id="30815"/
 </CardContent>
 </Card>
 
-<Video videoId="-M133xcW4fpk" videoTitle="Rifle: 33.9k DPS by hint [SC]"/>
+<Video videoId="6_agFDypu-o" videoTitle="Solo Rotation by hint [SC]"/>
 </Column>
 
 <Column>
