@@ -60,11 +60,11 @@ Build
 <Column width="9">
 <Traits title="Standard Arcane Variant" traits1Id="31" traits1="Fire" traits1Selected="296,325,1510" traits2Id="37" traits2="Arcane" traits2Selected="253,257,1511" traits3Id="56" traits3="Weaver" traits3Selected="2177,2061,2131"/>
 
-Use the **Arcane variant** **if you have a <Specialization name="chronomancer" prefix="boon"/>** and spend less than 50% of the fight with a broken defiance bar (e.g. Artsariiv, Arkk).
+Use the **Arcane variant** if you have a <Specialization name="chronomancer" prefix="boon"/> and spend less than 75% of the fight with a broken defiance bar (e.g. Artsariiv, Arkk).
 
 <Traits title="Air Variant" traits1Id="41" traits1="Air" traits1Selected="232,1502,226"/>
 
-Use the **Air variant** if you don't need <Boon name="might"/> and have less than seven boons on average or spend **more than 50% of the fight with a broken defiance bar** (e.g. MAMA, Ensolyss).
+Use the **Air variant** if you don't need <Boon name="might"/>, have less than six boons on average and spend more than 75% of the fight with a broken defiance bar (e.g. MAMA, Ensolyss).
 </Column>
 
 <Column>
@@ -114,9 +114,7 @@ The rotation is very complex and highly depends on a good <Boon name="alacrity"/
 5.  Use <Skill id="5539"/> (or <Skill id="5638"/>) three times while double-attuned with <Trait id="2131"/> and holding <Skill id="5624"/> (Ferocity boost), preferably while the defiance bar is broken
 6.  Use <Skill id="5679"/> if you can't finish another <Skill id="5491"/> before leaving <Skill id="5492" text="false"/>
 7.  Don't start casting <Skill id="5491"/> if you can't finish it
-8.  If the boss fight will end before you can use another <Skill id="5737"/>, use <Skill id="5736"/> instead (ideally during <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> cycle)
-    1. Ideally during the <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> cycle (<Skill id="5736"/> => <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> => <Skill id="5528"/> => <Skill id="5501"/> => <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/>)
-9.  If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> to get a last burst with <Skill id="41125"/> in
+8.  If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> to get a last burst with <Skill id="41125"/> in
 </CardContent>
 </Card>
 

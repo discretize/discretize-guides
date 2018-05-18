@@ -96,8 +96,9 @@ Below is a list of commonly used defensive skills:
 <Specialization name="mesmer"/>
 </CardHeader>
 <CardContent>
-* <Skill id="10192"/> (F4), trait <Trait id="1852"/> to share any distortion you gain with allies (5 seconds internal cooldown)
-* Any signet with <Trait id="713"/> and phantasm with <Trait id="1866"/>
+* <Skill id="10192"/> (F4) is a personal invulnerable 
+    * You can trait <Trait id="1852"/> to share <Boon name="aegis"/> with allies (5 seconds internal cooldown) when you gain distortion
+    * Any signet with <Trait id="713"/> and phantasm with <Trait id="1866"/> apply distortion as well
 * <Skill id="30769"/> and <Skill id="29649"/> (Shield 4, <Icon name="chronomancer"/>)
 * <Skill id="10280"/> (Sword 4), you can block more by jumping
 * <Skill id="10334"/> (Sword 2)

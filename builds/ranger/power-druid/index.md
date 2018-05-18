@@ -91,7 +91,7 @@ Situational
 | <Skill id="12493" size="big" text="false"/> | Useful if you need 25x <Condition name="vulnerability"/> from a single source. |
 | <Skill id="12569" size="big" text="false"/> | Combine with Nature Magic and <Trait id="1038"/> to grant <Boon name="stability"/>. |
 | <Trait id="1000" size="big" text="false"/> | If you run with a Longbow. |
-| <Skill id="1064" size="big" text="false"/> | Can reduce the cooldown of skills like <Skill id="12621"/> and <Skill id="12628"/> if you have trouble with <Boon name="might"/> or CC. Also better if you use a Longbow. |
+| <Trait id="1064" size="big" text="false"/> | Can reduce the cooldown of skills like <Skill id="12621"/> and <Skill id="12638"/> if you have trouble with <Boon name="might"/> or CC. Also better if you use a Longbow. |
 </CardContent>
 </Card>
 </Column>
@@ -109,7 +109,8 @@ Rotation
 </CardHeader>
 <CardContent>
 * Use <Skill id="12638"/> for DPS and CC
-* Cast <Skill id="12639"/> whenever of recharge or reflects are necessary
+* Use <Skill id="12620"/> for DPS and Vulnerability
+* Cast <Skill id="12639"/> whenever off recharge or reflects are necessary
 * Cast <Skill id="31582"/> whenever you break a defiance bar to gain the most out of it
 * Use <Skill id="31869"/> whenever more healing or <Boon name="might"/> are needed
 * Swap to Warhorn to trigger <Item id="72339"/> and use <Skill id="12621"/> before going into <Skill id="31869"/> for <Boon name="might"/>
@@ -133,6 +134,6 @@ CC skills
 </CardContent>
 </Card>
 
-<Video videoId="pNe7r2qecf0" videoTitle="Small Hitbox: 36.7k DPS by Tempys [SC]"/>
+<Video videoId="pNe7r2qecf0" videoTitle="Small Hitbox: 16.1k DPS by muiem [SC]"/>
 </Column>
 </Grid>
