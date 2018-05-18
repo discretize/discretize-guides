@@ -90,7 +90,7 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 </Column>
 
 <Column>
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Minstrel" weapon1MainId="76730" weapon1MainSigil1="Transference" weapon1MainSigil1Id="74326" weapon1OffType="Shield" weapon1OffAffix="Minstrel" weapon1OffId="74748" weapon1OffSigil="Paralyzation" weapon1OffSigilId="24639" weapon2MainType="Staff" weapon2MainAffix="Minstrel" weapon2MainId="75200" weapon2MainSigil1="Transference" weapon2MainSigil1Id="74326" weapon2MainSigil2="Transference" weapon2MainSigil2Id="24551"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Minstrel" weapon1MainId="76730" weapon1MainSigil1="Transference" weapon1MainSigil1Id="74326" weapon1OffType="Shield" weapon1OffAffix="Minstrel" weapon1OffId="74748" weapon1OffSigil="Paralyzation" weapon1OffSigilId="24639" weapon2MainType="Staff" weapon2MainAffix="Minstrel" weapon2MainId="75200" weapon2MainSigil1="Transference" weapon2MainSigil1Id="74326" weapon2MainSigil2="Water" weapon2MainSigil2Id="24551"/>
 </Column>
 
 <Column>

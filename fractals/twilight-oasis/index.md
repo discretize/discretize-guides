@@ -40,6 +40,7 @@ Treat each Sandbinder like any immobile boss and attack accordingly. Keep in min
 
 <Column>
 <Tips>
+    <Tip specialization="spellbreaker">As a lot of boons are present in this fractal, Spellbreaker is the recommended build for warriors.</Tip>
     <Tip specialization="mesmer">Use <Skill id="10363"/> to cancel the Sanderbiner's attacks.</Tip>
     <Tip specialization="ranger">Run an offhand axe for the <Control name="pull"/> from <Skill id="12638"/>.</Tip>
 </Tips>

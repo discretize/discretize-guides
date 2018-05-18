@@ -1,6 +1,6 @@
 ---
 title: "Power Dragonhunter"
-date: "2018-04-17"
+date: "2018-05-16"
 group: "Great Builds"
 role: "Damage"
 profession: "Guardian"
@@ -89,6 +89,7 @@ Rotation
   * Don't interrupt your auto-attack chain as the last hit deals the most damage
   * Use <Skill id="9146"/> and <Skill id="9081"/> off cooldown (stand inside the enemy's hitbox)
   * Align <Skill id="9146"/> with <Skill id="30364"/> and <Skill id="29887"/> if possible
+  * <Skill id="9080"/> and <Skill id="9147"/> are worth using instead of an auto-attack chain if you don't have a symbol up
 * on Scepter:
   * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
   * Use <Skill id="9104"/> => <Skill id="9089"/> whenever ready
