@@ -89,7 +89,7 @@ Spellbreaker Variant
 <Grid>
 <Row>
 <Column>
-With enemy boons present (<Instability name="No Pain, No Gain"/>) you will have to take the <Specialization name="spellbreaker"/> specialization.
+With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Molten Boss, Twilight Oasis) you will have to take the <Specialization name="spellbreaker"/> specialization.
 
 <Traits traits1Id="4" traits1="Strength" traits1Selected="1444,1338,1437" traits2Id="11" traits2="Tactics" traits2Selected="1471,1482,1667" traits3Id="61" traits3="Spellbreaker" traits3Selected="2107,2126,2060"/>
 </Column>
