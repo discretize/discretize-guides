@@ -1,3 +1,17 @@
+---
+title: "Power Dragonhunter"
+date: "2018-05-16"
+group: "Great Builds"
+role: "Damage"
+profession: "Guardian"
+specialization: "Dragonhunter"
+benchmark: { large: { dps: 31805, by: "Nightmare [SC]", youtube: "3D5AodiyTdk"}}
+skills: [30783, 30039, 9153, 9251]
+boons: ["Retaliation", "Aegis"]
+conditions: ["Vulnerability", "Blind", "Crippled"]
+effects: ["Stealth"]
+---
+
 The <Specialization name="dragonhunter" prefix="power"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
 
 The build also offers strong on-demand party support with <Skill id="30039"/> and reflects like <Skill id="9251"/>.
@@ -75,6 +89,7 @@ Rotation
   * Don't interrupt your auto-attack chain as the last hit deals the most damage
   * Use <Skill id="9146"/> and <Skill id="9081"/> off cooldown (stand inside the enemy's hitbox)
   * Align <Skill id="9146"/> with <Skill id="30364"/> and <Skill id="29887"/> if possible
+  * <Skill id="9080"/> and <Skill id="9147"/> are worth using instead of an auto-attack chain if you don't have a symbol up
 * on Scepter:
   * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
   * Use <Skill id="9104"/> => <Skill id="9089"/> whenever ready
@@ -102,5 +117,7 @@ CC skills
 | <Skill id="30273"/> | 150 damage |
 </CardContent>
 </Card>
+
+<Video videoId="3D5AodiyTdk" videoTitle="Large Hitbox: 31.8k DPS by Nightmare [SC]"/>
 </Column>
 </Grid>

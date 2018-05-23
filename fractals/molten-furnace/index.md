@@ -1,19 +1,32 @@
+---
+title: "Molten Furnace"
+date: "2018-04-17"
+image: "./images/header.jpg"
+group: "T4"
+api: 2903
+bosses: 1
+difficulties: [{ level: 83, ar: 120 }]
+cycle: "Day"
+potions: [{ id: 50082 }]
+sigils: [{ id: 24868 }, { id: 24554 }]
+---
+
 <Grid>
 <Row>
 <Column compact>
-<Image src="fractals/molten-furnace/images/start_area.jpg" compact/>
+<Image src="./images/start_area.jpg" compact/>
 </Column>
 <Column compact>
-<Image src="fractals/molten-furnace/images/portal.jpg" compact/>
+<Image src="./images/portal.jpg" compact/>
 </Column>
 </Row>
 
 <Row>
 <Column compact>
-<Image src="fractals/molten-furnace/images/drill.jpg" compact/>
+<Image src="./images/drill.jpg" compact/>
 </Column>
 <Column compact>
-<Image src="fractals/molten-furnace/images/testing_area.jpg" compact/>
+<Image src="./images/testing_area.jpg" compact/>
 </Column>
 </Row>
 </Grid>

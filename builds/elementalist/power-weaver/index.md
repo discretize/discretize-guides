@@ -1,3 +1,17 @@
+---
+title: "Power Weaver"
+date: "2018-05-16"
+group: "Meta Builds"
+role: "Damage"
+profession: "Elementalist"
+specialization: "Weaver"
+benchmark: { small: { dps: 35898, by: "Not Divorus", youtube: "rbwIUGc64Qc" }, large: { dps: 41024, by: "Tolgon [eS]", youtube: "030SDq7y0gE" }}
+skills: [5536]
+traits: [264, 1502]
+boons: ["Might", "Fury", "Swiftness",  "Protection"]
+conditions: ["Weakness", "Vulnerability", "Blind"]
+---
+
 The current optimal build for Elementalists in fractals is the <Specialization prefix="power" name="weaver"/>. It offers both the highest burst and consistent DPS in the game on large, stationary hitboxes and very good DPS on small hitboxes. The trait <Trait id="1502"/> in combination with <Item id="24868"/> and slaying potions like <Item id="50082"/> put it ahead of other DPS professions. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
 
 Additionally with the <Specialization name="chronomancer" prefix="boon"/> and an average uptime of at least ten boons, <Specialization name="weaver" prefix="arcane"/> with <Trait id="1511"/> has become extremly strong.
@@ -26,6 +40,7 @@ Swap Weapons
 * Staff with <Item id="36053"/>/<Item id="36054"/>
 * Staff with <Item id="24658"/>/<Item id="24868"/>
 * At least a Scepter and Dagger for <Boon name="might"/> stacking, Sword if you want to go the extra mile
+* Note that the Gear with and without <Trait id="1016"/> is identical.
 </CardContent>
 </Card>
 </Column>
@@ -45,11 +60,11 @@ Build
 <Column width="9">
 <Traits title="Standard Arcane Variant" traits1Id="31" traits1="Fire" traits1Selected="296,325,1510" traits2Id="37" traits2="Arcane" traits2Selected="253,257,1511" traits3Id="56" traits3="Weaver" traits3Selected="2177,2061,2131"/>
 
-Use the **Arcane variant** if you have a **<Specialization name="chronomancer" prefix="boon"/>** and spend less than 50% of the fight with a broken defiance bar (e.g. Artsariiv, Arkk).
+Use the **Arcane variant** if you have a <Specialization name="chronomancer" prefix="boon"/> and spend less than 75% of the fight with a broken defiance bar (e.g. Artsariiv, Arkk).
 
 <Traits title="Air Variant" traits1Id="41" traits1="Air" traits1Selected="232,1502,226"/>
 
-Use the **Air variant** if you don't need <Boon name="might"/> and have less than ten boons on average or spend **more than 50% of the fight with a broken defiance bar** (e.g. MAMA, Ensolyss).
+Use the **Air variant** if you don't need <Boon name="might"/>, have less than six boons on average and spend more than 75% of the fight with a broken defiance bar (e.g. MAMA, Ensolyss).
 </Column>
 
 <Column>
@@ -88,24 +103,22 @@ Skill priority
 <CardContent>
 The rotation is very complex and highly depends on a good <Boon name="alacrity"/> uptime. Below is a descending list of priorities:
 
-1. Use <Skill id="5548"/> whenever possible (basically every 6s) and fill the gaps inbetween with the skills listed below. Any delay on using it will delay your important DPS skills, thus always use <Skill id="5548"/> first.
-2. Use <Skill id="5501"/> whenever possible and immediately switch to <Skill id="5495" text="false"/> while casting. Cast <Skill id="5528"/> before switching back to <Skill id="5492" text="false"/>, cast <Skill id="43762"/> and finally a new <Skill id="5548"/>.
-3. While attuned to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> or <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> and <Skill id="5548"/>, <Skill id="41125"/> and <Skill id="43762"/> are on cooldown use a conjured weapon and switch back to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> during the first attack: 
-    * In <Skill id="5624"/>: <Skill id="5725"/> (inside the bosses hitbox) => 2x auto-attack chain
-    * Or in <Skill id="5516"/>: Only when you can whirl against a wall <Skill id="5697"/> => <Skill id="5517"/> => <Skill id="5531"/> 
-    * Or in <Skill id="5567"/>: <Skill id="5568"/> => <Skill id="5723"/> => <Skill id="5720"/>
-4. Switch to <Skill id="5494" text="false"/> when <Skill id="5737"/> is ready or will be in <4 seconds. Cast <Skill id="41125"/> and <Skill id="5552"/> first and switch back to <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> while casting <Skill id="5737"/> to profit from the better modifiers in <Skill id="5492"/>
-    * If <Skill id="5501"/> is ready skip <Skill id="41125"/> and <Skill id="5552"/> and cast <Skill id="5737"/> immediately followed by <Skill id="5501"/> while switching back to <Skill id="5492" text="false"/>
-5. Use <Skill id="5539"/> (or <Skill id="5638"/>) three times while double-attuned with <Trait id="2131"/> and holding <Skill id="5624"/> (Ferocity boost), preferably while the defiance bar is broken
-6. Use <Skill id="5679"/> if you can't finish another <Skill id="5491"/> before leaving <Skill id="5492" text="false"/>
-7. Don't start casting <Skill id="5491"/> if you can't finish it
-8. If the boss fight will end before you can use another <Skill id="5737"/>, use <Skill id="5736"/> instead (ideally during <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> cycle)
-    * Ideally during the <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> cycle (<Skill id="5736"/> => <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> => <Skill id="5528"/> => <Skill id="5501"/> => <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/>)
-9. If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> to get a last burst with <Skill id="41125"/> in
+1.  Use <Skill id="5548"/> whenever possible (basically every 6s) and fill the gaps inbetween with the skills listed below. Any delay on using it will delay your important DPS skills, thus always use <Skill id="5548"/> first.
+2.  Use <Skill id="5501"/> whenever possible and immediately switch to <Skill id="5495" text="false"/> while casting. Cast <Skill id="5528"/> before switching back to <Skill id="5492" text="false"/>, cast <Skill id="43762"/> and finally a new <Skill id="5548"/>.
+3.  While attuned to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> or <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> and <Skill id="5548"/>, <Skill id="41125"/> and <Skill id="43762"/> are on cooldown use a conjured weapon and switch back to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> during the first attack:
+    1. In <Skill id="5624"/>: <Skill id="5725"/> (inside the bosses hitbox) => 2x auto-attack chain
+    2. Or in <Skill id="5516"/>: Only when you can whirl against a wall <Skill id="5697"/> => <Skill id="5517"/> => <Skill id="5531"/>
+    3. Or in <Skill id="5567"/>: <Skill id="5568"/> => <Skill id="5723"/> => <Skill id="5720"/>
+4.  Switch to <Skill id="5494" text="false"/> when <Skill id="5737"/> is ready or will be in <4 seconds. Cast <Skill id="41125"/> and <Skill id="5552"/> first and switch back to <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> while casting <Skill id="5737"/> to profit from the better modifiers in <Skill id="5492"/>
+    1. If <Skill id="5501"/> is ready skip <Skill id="41125"/> and <Skill id="5552"/> and cast <Skill id="5737"/> immediately followed by <Skill id="5501"/> while switching back to <Skill id="5492" text="false"/>
+5.  Use <Skill id="5539"/> (or <Skill id="5638"/>) three times while double-attuned with <Trait id="2131"/> and holding <Skill id="5624"/> (Ferocity boost), preferably while the defiance bar is broken
+6.  Use <Skill id="5679"/> if you can't finish another <Skill id="5491"/> before leaving <Skill id="5492" text="false"/>
+7.  Don't start casting <Skill id="5491"/> if you can't finish it
+8.  If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> to get a last burst with <Skill id="41125"/> in
 </CardContent>
 </Card>
 
-<Video videoId="6O5lZ_8XxVQ" videoTitle="Large Hitbox: 47.3k DPS by Simbah [Sy]"/>
+<Video videoId="030SDq7y0gE" videoTitle="Large Hitbox: 41k DPS by Tolgon [eS]"/>
 </Column>
 
 <Column>
@@ -118,28 +131,31 @@ Opener
 Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and pre-cast <Skill id="5528"/> three seconds before the fight starts. Switch to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and use <Skill id="5548"/> and <Skill id="43762"/> a moment before <Skill id="5528"/> triggers. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and continue with the normal opener below.
 
 ### Normal opener
+
 1. Start in <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5737"/> and <Skill id="5501"/>
 2. Switch to <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/>
 3. <Skill id="5548"/> and <Skill id="41125"/>
 4. <Skill id="5624"/>
-    * <Skill id="5725"/>
-    * <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>
-    * <Skill id="5539"/> x3
-    * 2x <Skill id="5726"/> chain
+    1. <Skill id="5725"/>
+    2. <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>
+    3. <Skill id="5539"/> x3
+    4. 2x <Skill id="5726"/> chain
 5. <Skill id="5548"/> and <Skill id="5679"/>
-5. Switch to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>
-6. <Skill id="5528"/>
-7. <Skill id="5516"/>
-    * <Skill id="5517"/>
-    * <Skill id="5531"/>
-    * <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/>
-8. <Skill id="5548"/>
-9. <Skill id="43762"/>
-10. <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>
-11. Continue with the usual priority list
+6. Switch to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>
+7. <Skill id="5528"/>
+8. <Skill id="5516"/>
+    1. <Skill id="5517"/>
+    2. <Skill id="5531"/>
+    3. <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/>
+9. <Skill id="5548"/>
+10. <Skill id="43762"/>
+11. <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>
+12. Continue with the usual priority list
 
 ### Situational
+
 Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and continue with the rotation above. This is useful for fights like Arkk where you can't precast and have to avoid mechanics.
+
 </CardContent>
 </Card>
 

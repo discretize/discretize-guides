@@ -1,4 +1,18 @@
-The engineer build that currently fares best in fractals is the <Specialization prefix="power" name="holosmith"/>, offering a mix of high damage and a good amount of CC and utility in form of <Condition name="vulnerability"/> and <Condition name="Blind"/>. It can also provide soft CC in form of <Condition name="crippled"/> and <Condition name="immobile"/>. As a power class it benefits from slaying potions like <Item id="50082"/> and <Item id ="24868"/>. 
+---
+title: "Power Holosmith"
+date: "2018-05-16"
+group: "Great Builds"
+role: "Damage"
+profession: "Engineer"
+specialization: "Holosmith"
+benchmark: { small: { dps: 33450, by: "hint [SC]", youtube: "ph1FOgcM43s"}}
+skills: [30815, 43739]
+traits: [517]
+conditions: ["Vulnerability", "Blind", "Crippled", "Immobile"]
+effects: ["Stealth"]
+---
+
+The engineer build that currently fares best in fractals is the <Specialization prefix="power" name="holosmith"/>, offering a mix of high damage and a good amount of CC and utility in form of <Condition name="vulnerability"/> and <Condition name="Blind"/>. It can also provide soft CC in form of <Condition name="crippled"/> and <Condition name="immobile"/>. As a power class it benefits from slaying potions like <Item id="50082"/> and <Item id ="24868"/>.
 
 It has two weapon sets that perform equally well when only looking at raw DPS while the rifle variant usually has a little higher burst and doesn't necessarily has to stay as close as the sword variant.
 
@@ -20,7 +34,6 @@ Alternative weapons
 </CardHeader>
 <CardContent>
 * Rifle with <Item id="36053"/>/<Item id="36054"/> and slaying sigils
-* Sword/Pistol as an alternative to Rifle with a bit less damage over all and lower burst as well as loosing some range. Sigils identical to rifle variants.
 </CardContent>
 </Card>
 </Column>
@@ -99,7 +112,7 @@ Skill Usage and Tips
 * Don't interrupt your auto attack chain in Photon Forge
 * Use your hardest hitting skills under the effect of the <Trait id="2106"/> (and possibly <Trait id="2122"/>) buff. These include the landing damage from <Skill id="6005"/>, <Skill id="6153"/> and <Skill id="42009"/>. Keep in mind that <Trait id="2106"/> consumes its charges while <Trait id="2122"/> is a duration buff.
 * Try to utilize your toolbelt skills off cooldown with <Skill id="42163"/> only being used above 50 heat.
-* Make sure to use Corona Burst (<Skill id="44530" text="false"/>) towards the end of your <Skill id ="42938"/> in order to have the <Boon name ="stability"/> from <Trait id="2152"/> avoiding knockback from <Skill id="6154"/>.
+* Make sure to use Corona Burst towards the end of your <Skill id ="42938"/> in order to have the <Boon name ="stability"/> from <Trait id="2152"/> avoiding knockback from <Skill id="6154"/>.
 * Make use of <Skill id="5808"/> and <Skill id="5824"/> to mitigate damage in add heavy fights.
 * <Skill id="5939"/> can help in controlling movement of enemies without breakbar. 
 * Even though <Trait id="2064"/> counters the initial damage of overheating, it still does almost 4k damage over time so consider leaving Photon Forge early if you are at low health even at the cost of some DPS.
@@ -108,7 +121,6 @@ You can switch to <Specialization name="scrapper"/> and equip <Skill id="30815"/
 </CardContent>
 </Card>
 
-<Video videoId="-M133xcW4fpk" videoTitle="Rifle: 33.9k DPS by hint [SC]"/>
 </Column>
 
 <Column>
@@ -122,11 +134,11 @@ CC skills
 | <Skill id="5813"/> | 332 damage |
 | <Skill id="6154"/> | 232 damage |
 | <Skill id="42009"/> | 232 damage |
-| Holographic Shockwave (<Skill id="42521" text="false"/>) | 232 damage |
+| Holographic Shockwave | 232 damage |
 | <Skill id="21661"/> | 100 damage |
 </CardContent>
 </Card>
 
-<Video videoId="-UtdI_PSXR_8" videoTitle="Sword: 33.8k DPS by hint [SC]"/>
+<Video videoId="6_agFDypu-o" videoTitle="Solo Rotation by hint [SC]"/>
 </Column>
 </Grid>
