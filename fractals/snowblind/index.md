@@ -73,16 +73,19 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 
 <Grid>
 <Column>
-Stack <Boon name="might"/> before the final boss. He gains 3 stacks of *Rime Shield* reducing his incoming damage from the three respawning *Corrupted Ice Crystals*, destroy them before focusing the Shaman.
+Stack <Boon name="might"/> before the final boss. Make sure to dodge into the boss room to avoid getting <Condition name="chilled"/> from the icy bolts.
+
+He gains 3 stacks of _Rime Shield_ reducing his incoming damage from the three respawning _Corrupted Ice Crystals_, destroy them before focusing the Shaman.
 
 At 75%, 50% and 25% you will need to kill a summoned _Icebrood Effigy_. Basically dodge every red circle during the fight and break the defiance bars immediately to prevent mechanics.
 </Column>
 
 <Column>
 <Tips>
-    <Tip specialization="chronomancer">Use <Skill id="29526"/> if you have trouble with incoming damage. <Skill id="10302"/> is also a valid option.    
+    <Tip specialization="chronomancer">Use <Skill id="29526"/> if you have trouble with incoming damage. <Skill id="10302"/> is also a valid option.
         Pull all mobs together <Skill id="10363"/> whenever possible, usually when the *Icebrood Effigy* spawns.</Tip>
     <Tip specialization="druid">Cast <Skill id="31496"/> against the projectiles.</Tip>
+    <Tip specialization="elementalist">Use <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.</Tip>
 </Tips>
 </Column>
 </Grid>

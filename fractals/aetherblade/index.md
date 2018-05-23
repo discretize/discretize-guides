@@ -16,7 +16,7 @@ sigils: [{ id: 24615 }, { id: 24868 }, { id: 24672, description: "against the go
 
 <Grid>
 <Column>
-You can stack <Effect name="stealth"/> before entering the water to cheat the exploding mines.    
+You can stack <Effect name="stealth"/> before entering the water to cheat the exploding mines.
 Clear the group of *Elite Aetherblades* to open the door.
 
 <Tips>
@@ -44,13 +44,13 @@ The second area is filled with _spinning lasers_. In exactly the same way as bef
 
 You don't need to kill a single mob and can bypass all traps with the following steps:
 
-1. One person (or more) teleports up to the first level and activates all four consoles using condition cleanses
-2. Everyone does `/gg` and resurrects immediately (you will spawn on the ramp up after the first console room)
-3. The team splits up to activate the second set of consoles (the spinning lasers won't be active if you're fast enough)
+1.  One person (or more) teleports up to the first level and activates all four consoles using condition cleanses
+2.  Everyone does `/gg` and resurrects immediately (you will spawn on the ramp up after the first console room)
+3.  The team splits up to activate the second set of consoles (the spinning lasers won't be active if you're fast enough)
 
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="29578"/> to teleport up and cast <Skill id="30305"/> or any Shatter skill with <Trait id="740"/> to remove <Condition name="immobile"/>.</Tip>
-    <Tip specialization="elementalist">Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles.</Tip>
+    <Tip specialization="elementalist">Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" text="false"/> for additional condition clear with <Skill id="5551"/>.</Tip>
     <Tip specialization="daredevil">You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> as condition clears.</Tip>
 </Tips>
 </Column>
@@ -103,6 +103,7 @@ If a golem walks through a laser, he powers up and blocks all attacks for a shor
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="10363"/> and <Skill id="30359"/> to grab the golems together. <Skill id="10192"/> makes yourself immune against both the small and large lasers.</Tip>
     <Tip specialization="ranger">Run an offhand axe and use <Skill id="12638"/> to pull golems closer.</Tip>
+    <Tip specialization="elementalist">Start with pre-casting <Skill id="5528"/> on the first golem. Use <Skill id="5697"/> against the second and fourth golem, while the other elementalist kill the third and fifth golem.</Tip>
 </Tips>
 </Column>
 </Grid>
