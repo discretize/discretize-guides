@@ -128,10 +128,10 @@ Skill usage
   * If there is a defiance bar present immediately at the start of the fight, start on your Mace/Mace set - otherwise swap to it when necessary
   * With <Item id="24639"/>, you will deal over 940 defiance bar damage with the following skill order:
     * <Skill id="14503"/>
-    * <Skill id="14415"/>
     * <Skill id="14414"/>
+    * <Skill id="14415"/>
     * <Skill id="14502"/>
-  * This also triggers <Item id="84505"/> and <Trait id="1444"/>
+  * This also grants 1-3 stacks of <Trait id="1437"/>, <Item id="84505"/> and <Trait id="1444"/>
 * DPS:
   * Camp Axe/Axe if there is no CC needed
   * Damage modifiers:
