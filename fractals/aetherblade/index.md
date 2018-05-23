@@ -50,7 +50,7 @@ You don't need to kill a single mob and can bypass all traps with the following 
 
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="29578"/> to teleport up and cast <Skill id="30305"/> or any Shatter skill with <Trait id="740"/> to remove <Condition name="immobile"/>.</Tip>
-    <Tip specialization="elementalist">Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles.</Tip>
+    <Tip specialization="elementalist">Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles. Attune to x/<Skill id="5493"/> for additional contition clear with <Skill id="5551"/></Tip>
     <Tip specialization="daredevil">You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> as condition clears.</Tip>
 </Tips>
 </Column>
@@ -103,6 +103,7 @@ If a golem walks through a laser, he powers up and blocks all attacks for a shor
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="10363"/> and <Skill id="30359"/> to grab the golems together. <Skill id="10192"/> makes yourself immune against both the small and large lasers.</Tip>
     <Tip specialization="ranger">Run an offhand axe and use <Skill id="12638"/> to pull golems closer.</Tip>
+    <Tip specialization="elementalist">Start with pre casting <Skill id="5528"/> on the first golem. Use <Skill id="5697"/> against the second and fourth golem, while the other elementalists kill the third and fifth golem (split here).</Tip>
 </Tips>
 </Column>
 </Grid>
