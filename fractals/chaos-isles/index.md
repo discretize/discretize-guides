@@ -1,21 +1,37 @@
+---
+title: "Chaos Isles"
+date: "2018-04-17"
+image: "./images/legendary_brazen_gladiator.jpg"
+group: "T4"
+api: 3038
+bosses: 2
+difficulties: [{ level: 88, ar: 129 }]
+record: { time: "5:11", by: { name: "Quantify", tag: "qT" }, youtube: [{ id: "MV2Byim0PWU", name: "Deathly", specialization: "Chronomancer" }]}
+cycle: "Day"
+sigils: [{ id: 24615 }, { id: 24554, description: "for the Chaos Anomaly" }, { id: 24868}]
+consumables: [49940]
+---
+
 ## Start
+
 <Grid>
 <Column>
 Kill the four *Veteran Chanters* at the beginning to open the gate on the right-hand side. The fastest person can rush ahead and move to the next checkpoint at the *Chaos Anomaly*, everyone else can `/gg` and resurrect at the checkpoint there.
 </Column>
 <Column width="5" compact>
-<Image src="fractals/chaos-isles/images/start.jpg" title="The starting area" compact/>
+<Image src="./images/start.jpg" title="The starting area" compact/>
 </Column>
 </Grid>
 
 ---
 
 ## <Boss/> Chaos Anomaly
+
 <Grid>
 <Column>
 Stack <Boon name="might"/> before the four *K1T-A golems* and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health.
 
-Pay attention to the <Control name="knockback"/> zones from the small JT-12 golems and look out for *Flux Bombs*, the debuff can be hard to notice on the mosaic ground.
+Pay attention to the <Control name="knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
 </Column>
 
 <Column>
@@ -27,37 +43,39 @@ Pay attention to the <Control name="knockback"/> zones from the small JT-12 gole
 </Column>
 </Grid>
 
-<Image src="fractals/chaos-isles/images/kitty_golems.jpg" title="The four K1T-A golems before the Chaos Anomaly"/>
+<Image src="./images/kitty_golems.jpg" title="The four K1T-A golems before the Chaos Anomaly"/>
 
 ---
 
 ## Blizzard path (Forest)
+
 <Grid>
 <Column>
 You will need to enlighten four *bonfires* on the path to progress to the end boss while every player only has **one** *Enlighten* charge.
 
-You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. Do not assign a bonfire to each player, simply lighten them up as soon as you reach them.    
+You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. Do not assign a bonfire to each player, simply lighten them up as soon as you reach them.  
 Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
 </Column>
 <Column width="6" compact>
-<Image src="fractals/chaos-isles/images/forest.jpg" title="The blizzard forest" compact/>
+<Image src="./images/forest.jpg" title="The blizzard forest" compact/>
 </Column>
 </Grid>
 
 ---
 
 ## <Boss red/> Legendary Brazen Gladiator
+
 <Grid>
 <Column>
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.    
 He will also apply a group-wide <Control name="daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and invulnerables or simply do not stand in front of him when it hits. Learn to recognize the animation.
 
-Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.    
+Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.  
 Another trick is to bypass the damage from purple zones by repeated jumping.
 
-Starting at 50% health, he will randomly start a *pulling attack* which can be prevented by breaking his defiance bar. Save your crowd control skills for this.
+Starting at 50% health, he will randomly start a _pulling attack_ which can be prevented by breaking his defiance bar. Save your crowd control skills for this.
 
-Also pay attention to the small *JT-12* golems and their AoEs as they apply <Control name="knockback"/> and can shove you off the platform.
+Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Control name="knockback"/> and can shove you off the platform.
 </Column>
 
 <Column width="6">
@@ -69,4 +87,4 @@ Also pay attention to the small *JT-12* golems and their AoEs as they apply <Con
 </Column>
 </Grid>
 
-<Image src="fractals/chaos-isles/images/legendary_brazen_gladiator.jpg" title="The Legendary Brazen Gladiator"/>
+<Image src="./images/legendary_brazen_gladiator.jpg" title="The Legendary Brazen Gladiator"/>

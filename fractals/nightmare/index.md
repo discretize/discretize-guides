@@ -1,20 +1,37 @@
+---
+title: "Nightmare"
+date: "2018-04-17"
+image: "./images/ensolyss_crazy.jpg"
+group: "Challenge Mode"
+api: 3177
+bosses: 3
+difficulties: [{ level: 99, ar: 150 }]
+record: { time: "8:36", by: { name: "Snow Crows", tag: "SC" }, youtube: [{ id: "WS3chFLSyiM", name: "Van Gherwen", specialization: "Chronomancer" }, { id: "TOautynEh6o", name: "Muto", specialization: "Berserker" }, { id: "_E6695pbGu8", name: "Roul", specialization: "Tempest" }, { id: "CsTSgY5gyUI", name: "Breke", specialization: "Tempest" }, { id: "gP1yv1Pffzg", name: "Derpy", specialization: "Druid" }]}
+cycle: "Day"
+potions: [{ id: 50082}]
+sigils: [{ id: 24615 }, { id: 24868 }, { id: 24658, description: "after MAMA" }]
+consumables: [43360, 8759, 8678, 8764, 8801, 78978]
+---
+
 ## Assault Knights <Item id="50082" text="false"/><Label>426,071 HP</Label>
-Stack <Boon name="might"/> before jumping down. Kill the three *Assault Knights* (Red, Blue and Green), each of them has the same set of abilities: a PBAoE <Control name="knockdown"/> and an AoE <Control name="pull"/> which covers the entire room except the knight's position, both can be dodged.
+
+Stack <Boon name="might"/> before jumping down. Kill the three _Assault Knights_ (Red, Blue and Green), each of them has the same set of abilities: a PBAoE <Control name="knockdown"/> and an AoE <Control name="pull"/> which covers the entire room except the knight's position, both can be dodged.
 
 Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your cooldowns.
 
-<Image src="fractals/nightmare/images/mama.jpg" title="MAMA: The first boss"/>
+<Image src="./images/mama.jpg" title="MAMA: The first boss"/>
 
 ## <Boss/> MAMA <Item id="50082" text="false"/><Label>5,200,519 HP</Label>
+
 Stack <Boon name="might"/> before jumping down.
 
-MAMA will arise, after being invulnerable for a few seconds its first attack will be a *spinning <Control name="knockback"/>*. The first one should be blocked with <Boon name="aegis"/> from the <Specialization name="mesmer"/> as the <Specialization name="elementalist"/>s will be busy casting <Skill id="5501"/>, learn to dodge the consecutive spinning attacks. It always hits on the *second* spin animation.
- 
-Apart from that, turn away from your party members shortly before the *Vomit Toxin* hits (orange cone), otherwise you will 'infect' party members in front of you with it.
+MAMA will arise, after being invulnerable for a few seconds its first attack will be a _spinning <Control name="knockback"/>_. The first one should be blocked with <Boon name="aegis"/> from the <Specialization name="mesmer"/> as the <Specialization name="elementalist"/>s will be busy casting <Skill id="5501"/>, learn to dodge the consecutive spinning attacks. It always hits on the _second_ spin animation.
 
-Every 25%, MAMA gets <Effect name="invulnerability"/> and an *Assault Knight* (similar to the knights before) will spawn. Quickly break their defiance bar and burst them down as MAMA will continue it's attacks.
+Apart from that, turn away from your party members shortly before the _Vomit Toxin_ hits (orange cone), otherwise you will 'infect' party members in front of you with it.
 
-When MAMA reaches 33%, it conjures a large *Nightmare Miasma* field around it which deals enormous damage. It will also become mobile, start jumping to players, offloading shockwaves which <Control name="knockdown"/> and attacking with <Control name="stun"/> cones. It is especially important to immediately kill the last *Assault Knight* at 25% health.
+Every 25%, MAMA gets <Effect name="invulnerability"/> and an _Assault Knight_ (similar to the knights before) will spawn. Quickly break their defiance bar and burst them down as MAMA will continue it's attacks.
+
+When MAMA reaches 33%, it conjures a large _Nightmare Miasma_ field around it which deals enormous damage. It will also become mobile, start jumping to players, offloading shockwaves which <Control name="knockdown"/> and attacking with <Control name="stun"/> cones. It is especially important to immediately kill the last _Assault Knight_ at 25% health.
 
 Fast crowd control and animation knowledge are the keys to this fight.
 
@@ -41,17 +58,17 @@ Learn the *Red Orb* patterns as they can quickly kill you, *Blue Orbs* will heal
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
 </Column>
 <Column width="6" compact>
-<Image src="fractals/nightmare/images/altars.jpg" title="The altars" compact/>
+<Image src="./images/altars.jpg" title="The altars" compact/>
 </Column>
 </Grid>
 
-
 ## Second set of altars <Item id="50082" text="false"/><Item id="24658" text="false"/>
+
 Again, pull all enemies to the center (wait for the <Specialization name="mesmer"/> to cast <Skill id="10186"/>) and kill them there. The mobs at the left altar (West) can be aggroed with a simple projectile, the mobs on the right side (East) need to be pulled with <Skill id="14381"/> (Longbow), <Skill id="5491"/> (Staff) or by teleporting up and jumping down.
 
 Both side altars can easily be capped by a single person after another player has pulled down the mobs. Please note that you have to wait until the mobs are down before teleporting elsewhere to prevent them from running back.
 
-Contrary to the first set of altars, respawning *Veteran Hallucinations* counteract capping here. Use <Control name="pull"/> to grab them out of the central altar and always have a positive amount of players inside.
+Contrary to the first set of altars, respawning _Veteran Hallucinations_ counteract capping here. Use <Control name="pull"/> to grab them out of the central altar and always have a positive amount of players inside.
 
 After you capped all three altars, use `/gg` immediately if someone in the party needs it, then you can continue up to the 2nd boss. Before the ramp up, a group of Krait will attack you - simply keep walking to skip them. Use dodges, evades or invulnerables to get through the cascading orbs and disable them by walking through the orb at the top of the ramp.
 
@@ -64,15 +81,16 @@ After you capped all three altars, use `/gg` immediately if someone in the party
 ---
 
 ## <Boss/> Siax the Corrupted <Item id="50082" text="false"/><Item id="24658" text="false"/><Label>6,138,797 HP</Label>
-After the interaction with the red orb in the center of the area, quickly move back to the *Mistlock Singularity* to avoid aggro from the spawning enemies and stack <Boon name="might"/>.
 
-During the fight, break his defiance bar (2000 CC damage) as fast as possible to interrupt his *Caustic Explosion* skill. Siax will wipe your party if you fail to interrupt it with enough crowd control. Pay attention to his bouncing orb barrages, the *Vomit Toxin* and the exploding *Volatile Hallucinations* (below 75% health). Do not stand in the red PBAoE when the inner circle reaches the outer to avoid spawning a *Nightmare Hallucination*.
+After the interaction with the red orb in the center of the area, quickly move back to the _Mistlock Singularity_ to avoid aggro from the spawning enemies and stack <Boon name="might"/>.
 
-When Siax reaches 66% health, he gains <Effect name="invulnerability"/> and four *Echoes of the Unclean* will spawn in the North, East, South and West which need to be killed quickly to interrupt his *Caustic Explosions*. The same occurs at 33%, though the adds will have their spawning positions shifted clockwise.
+During the fight, break his defiance bar (2000 CC damage) as fast as possible to interrupt his _Caustic Explosion_ skill. Siax will wipe your party if you fail to interrupt it with enough crowd control. Pay attention to his bouncing orb barrages, the _Vomit Toxin_ and the exploding _Volatile Hallucinations_ (below 75% health). Do not stand in the red PBAoE when the inner circle reaches the outer to avoid spawning a _Nightmare Hallucination_.
+
+When Siax reaches 66% health, he gains <Effect name="invulnerability"/> and four _Echoes of the Unclean_ will spawn in the North, East, South and West which need to be killed quickly to interrupt his _Caustic Explosions_. The same occurs at 33%, though the adds will have their spawning positions shifted clockwise.
 
 Assign players to each add before the fight starts by setting waypoints. The <Specialization name="mesmer"/> and <Specialization name="druid"/> will usually focus on one mob together due to their lower DPS.
 
-<Image src="fractals/nightmare/images/siax.jpg" title="Siax the Corrupted"/>
+<Image src="./images/siax.jpg" title="Siax the Corrupted"/>
 
 <Tips>
     <Tip specialization="chronomancer">Share <Boon name="aegis"/> with your party when the *Nightmare Hallucination* PBAoE goes off or too many *Volatile Hallucinations* explode on the party.    
@@ -90,6 +108,7 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
 ---
 
 ## Ensolyss of the Endless Torment <Item id="50082" text="false"/><Item id="24658" text="false"/><Label>14,059,890 HP</Label>
+
 <Grid>
 <Column>
 Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="might"/> before you activate the fight. Don't stand in the center area of the platform on activation or you will receive a <Control name="knockback"/>.
@@ -99,13 +118,14 @@ Nearly all of Ensolyss' attacks do a <Control name="knockback"/> or <Control nam
 Again, the key to this fight is fast crowd control. Break his defiance bar quickly to interrupt his high damage attacks. Always stack around the center area and do not try to follow him to the edge as he will simply teleport back most of the time.
 </Column>
 <Column compact>
-<Image src="fractals/nightmare/images/ensolyss.jpg" title="Ensolyss: The final boss" compact/>
+<Image src="./images/ensolyss.jpg" title="Ensolyss: The final boss" compact/>
 </Column>
 </Grid>
 
 ### Orb phases <Label>66%, 33%</Label>
-At 66% and 33%, Ensolyss will teleport to the middle and gain <Effect name="invulnerability"/>. Your party will need to split up and cap five altars, similar to the ones before.    
-*Red Orbs* and stunning shockwaves emerge from the middle, learn the patterns to avoid any damage. Try to catch the *Blue Orbs* as they heal you for a significant amount. Note that *Blue Orbs* only spawn at 66% if all altars are capped as fast as possible.
+
+At 66% and 33%, Ensolyss will teleport to the middle and gain <Effect name="invulnerability"/>. Your party will need to split up and cap five altars, similar to the ones before.  
+_Red Orbs_ and stunning shockwaves emerge from the middle, learn the patterns to avoid any damage. Try to catch the _Blue Orbs_ as they heal you for a significant amount. Note that _Blue Orbs_ only spawn at 66% if all altars are capped as fast as possible.
 
 After the orb phases, the defiance bar needs to be broken immediately to prevent Ensolyss from knocking everyone off the platform. His defiance bar will recover shortly after being broken for the first time, break it a second time (especially at 33% health) to further prevent his attacks and deal more damage thanks to <Item id="24868"/> and <Trait id="1502"/>.
 
@@ -114,6 +134,7 @@ Below 66%, Ensolyss gains a new ability where he smashes two quarters of the pla
 Below 33%, he may summon a special shockwave which travels inwards to him (contrary to the ones before) and deal enormous damage to everyone near him. With enough crowd control and DPS this should never occur.
 
 ### Final phase <Label><15%</Label>
+
 When Ensolyss reaches 15% health, he will stop using his usual attacks, but only a small bubble in the middle will protect you from his deathly rain. Krait will charge through the middle (indicated by large arrows on the ground) and make positioning harder, kill Ensolyss quickly to finish the fractal.
 
 <Tips>

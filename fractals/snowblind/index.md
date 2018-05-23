@@ -1,15 +1,30 @@
+---
+title: "Snowblind"
+date: "2018-04-17"
+image: "./images/header.jpg"
+group: "T4"
+api: 2952
+bosses: 2
+difficulties: [{ level: 86, ar: 125 }, { level: 93, ar: 138 }]
+record: { time: "3:32", by: { name: "Snow Crows", tag: "SC" }, youtube: [{ id: "vvW8-vlCAjI", name: "Yui", specialization: "Chronomancer" }, { id: "5rJTZVRhEqQ", name: "Derpy", specialization: "Tempest" }, { id: "WKvibVHOjsY", name: "Roul", specialization: "Daredevil" }, { id: "5OW6VHot8WQ", name: "Cheezy", specialization: "Druid" }]}
+cycle: "Day"
+potions: [{ id: 8883, description: "for the Svanir & end boss" }]
+sigils: [{ id: 36053 }, { id: 24667, description: "for the Svanir & end boss" }]
+consumables: [78978, 49940]
+---
+
 ## Ice Wall <Item id="8883" text="false"/><Item id="24667" text="false"/>
 
 <Grid>
 <Column>
 Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
 
-If you gain too many stacks of *Hypothermia* (one every 5 seconds), reset them at the bonfire.
+If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them at the bonfire.
 
 When there are only a few percent remaining, go near the fire to leave combat and pre-equip <Item id="49940"/> to be faster on the bridge.
 </Column>
 <Column width="6" compact>
-    <Image src="fractals/snowblind/images/the_start_area.jpg" title="The start area" compact/>
+<Image src="./images/the_start_area.jpg" title="The start area" compact/>
 </Column>
 </Grid>
 
@@ -18,14 +33,14 @@ When there are only a few percent remaining, go near the fire to leave combat an
 </Tips>
 
 ---
- 
+
 ## <Boss/> Elemental Source <Item id="8885" text="false"/><Item id="24661" text="false"/>
 
 <Grid>
 <Column>
 At the start of the fight, light up the five bonfires to remove the 10 stacks of *Rime Shield* from the boss. Each stack reduces its damage taken by 10%.
 
-Every 25%, the Elemental Source casts *Wind Gust* (icy projectiles) which makes the bonfires loose health. If a bonfire goes down, you will need to throw firewood into it and light it up again using your special action key.
+Every 25%, the Elemental Source casts _Wind Gust_ (icy projectiles) which makes the bonfires loose health. If a bonfire goes down, you will need to throw firewood into it and light it up again using your special action key.
 
 With reflects and high DPS you can simply burst the boss before any bonfire expires.
 </Column>
@@ -39,7 +54,7 @@ With reflects and high DPS you can simply burst the boss before any bonfire expi
 </Column>
 </Grid>
 
-<Image src="fractals/snowblind/images/the_elemental_source.jpg" title="The Elemental Source"/>
+<Image src="./images/the_elemental_source.jpg" title="The Elemental Source"/>
 
 ---
 
@@ -50,7 +65,7 @@ With reflects and high DPS you can simply burst the boss before any bonfire expi
 After the Elemental Source is destroyed, everyone except the fastest player can `/gg` and wait for the next checkpoint at the cave to trigger. Mobility skills and <Item id="49940"/> are very good here.
 </Column>
 <Column width="5" compact>
-    <Image src="fractals/snowblind/images/the_icy_forest.jpg" title="The icy forest" compact/>
+    <Image src="./images/the_icy_forest.jpg" title="The icy forest" compact/>
 </Column>
 </Grid>
 
@@ -60,7 +75,7 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 <Column>
 Stack <Boon name="might"/> before the final boss. He gains 3 stacks of *Rime Shield* reducing his incoming damage from the three respawning *Corrupted Ice Crystals*, destroy them before focusing the Shaman.
 
-At 75%, 50% and 25% you will need to kill a summoned *Icebrood Effigy*. Basically dodge every red circle during the fight and break the defiance bars immediately to prevent mechanics.
+At 75%, 50% and 25% you will need to kill a summoned _Icebrood Effigy_. Basically dodge every red circle during the fight and break the defiance bars immediately to prevent mechanics.
 </Column>
 
 <Column>
@@ -72,4 +87,4 @@ At 75%, 50% and 25% you will need to kill a summoned *Icebrood Effigy*. Basicall
 </Column>
 </Grid>
 
-<Image src="fractals/snowblind/images/shaman_lornarr_dragonseeker.jpg" title="Shaman Lornarr Dragonseekers cave"/>
+<Image src="./images/shaman_lornarr_dragonseeker.jpg" title="Shaman Lornarr Dragonseekers cave"/>

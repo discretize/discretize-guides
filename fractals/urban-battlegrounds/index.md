@@ -1,9 +1,24 @@
+---
+title: "Urban Battlegrounds"
+date: "2018-04-17"
+image: "./images/header.jpg"
+group: "T4"
+api: 2941
+bosses: 2
+difficulties: [{ level: 78, ar: 111 }, { level: 85, ar: 123 }]
+record: { time: "4:50", by: { name: "Happens", tag: "hP" }, youtube: [{ id: "vBuC5qwHmTk", name: "Elo Quentz", specialization: "Chronomancer" }, { id: "xgY2-9wtxS8", name: "Guts", specialization: "Tempest" }, { id: "LrUdzjbZQoQ", name: "Goni", specialization: "Tempest" }]}
+cycle: "Day"
+sigils: [{ id: 24868 }, { id: 24615 }]
+consumables: [78978, 8764, 8801]
+---
+
 ## <Boss/> Siegemaster Dulfy
+
 <Grid>
 <Column>
 Stack <Effect name="stealth"/> in the tent and run towards Dulfy.
 
-Killing the *Burning Oil* above her is your highest priority. Control and cleave the trash mobs and utilize reflects and blocks while nuking her down. Destroy the gate after finishing her and gather on the other side of the wall.
+Killing the _Burning Oil_ above her is your highest priority. Control and cleave the trash mobs and utilize reflects and blocks while nuking her down. Destroy the gate after finishing her and gather on the other side of the wall.
 
 <Tips>
     <Tip specialization="mesmer">Protect your party with <Skill id="29526"/> or <Skill id="10302"/> and control enemies with <Skill id="30359"/>. You can run <Trait id="751"/> for the entire fractal to grab more often and for even more reflects.</Tip>
@@ -14,20 +29,21 @@ Killing the *Burning Oil* above her is your highest priority. Control and cleave
 </Column>
 
 <Column width="5" compact>
-<Image src="fractals/urban-battlegrounds/images/siegemaster_dulfy.jpg" title="Siegemaster Dulfy" compact/>
+<Image src="./images/siegemaster_dulfy.jpg" title="Siegemaster Dulfy" compact/>
 </Column>
 </Grid>
 
 ---
 
 ## The town
+
 <Grid>
 <Column>
 Again, stack <Effect name="stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
 
 Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference.
 
-<Image src="fractals/urban-battlegrounds/images/the_town.jpg" title="A barricade in the town"/>
+<Image src="./images/the_town.jpg" title="A barricade in the town"/>
 </Column>
 
 <Column>
@@ -42,11 +58,12 @@ Note that there is a little jumping puzzle in case you are unlucky with barricad
 ---
 
 ## Courtyard
+
 <Grid>
 <Column>
 To capture the courtyard, you have to kill (or kite away) four groups of *Veteran Ascalonians*. Usually the Mesmer and Druid both pull two groups into contrarious directions while the other three people clear the remaining ballistas.
 
-As soon as you capture the courtyard, the *Fire Caller* will start a ritual and enemy groups spawn at the gates (clockwise starting north). Stay in the middle and wait for them to come to you. If you kill them too fast, they will respawn shortly (-> Bug).
+As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and enemy groups spawn at the gates (clockwise starting north). Stay in the middle and wait for them to come to you. If you kill them too fast, they will respawn shortly (-> Bug).
 </Column>
 
 <Column>
@@ -58,9 +75,10 @@ As soon as you capture the courtyard, the *Fire Caller* will start a ritual and 
 </Column>
 </Grid>
 
-<Image src="fractals/urban-battlegrounds/images/the_courtyard.jpg" title="The courtyard"/>
+<Image src="./images/the_courtyard.jpg" title="The courtyard"/>
 
 ## <Boss red/> Captain Ashym
-Stack <Boon name="might"/> while Captain Ashym runs towards you. Break his defiance bar as frequent as possible and be careful with his *Meteor Shower* AoE skill. He also tends to block multiple times during the fight, stop wasting your skills in that case.
 
-Also pay attention to his boons as <Boon name="retaliation"/> deals high damage to yourself. At 25% health, he will equip a *Fiery Greatsword* and gain additional skills, just make sure to end the fight quickly.
+Stack <Boon name="might"/> while Captain Ashym runs towards you. Break his defiance bar as frequent as possible and be careful with his _Meteor Shower_ AoE skill. He also tends to block multiple times during the fight, stop wasting your skills in that case.
+
+Also pay attention to his boons as <Boon name="retaliation"/> deals high damage to yourself. At 25% health, he will equip a _Fiery Greatsword_ and gain additional skills, just make sure to end the fight quickly.

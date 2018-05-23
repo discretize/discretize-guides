@@ -1,3 +1,18 @@
+---
+title: "Aquatic Ruins"
+date: "2018-04-17"
+image: "./images/header.jpg"
+group: "T4"
+api: 2956
+bosses: 1
+difficulties: [{ level: 76, ar: 110 }]
+record: { time: "2:13", by: { name: "Happens", tag: "hP" }, youtube: [{ id: "cRKap-6_W48", name: "Guts", specialization: "Chronomancer" }]}
+cycle: "Day"
+potions: [{ id: 50082, description: "only for the Krait at the beginning" }]
+sigils: [{ id: 24658, description: "only for the Krait at the beginning" }, { id: 24615 }, { id: 24868 }]
+consumables: [78978]
+---
+
 <Message icon="warning circle">
 <MessageHeader>
 Disclaimer
@@ -8,6 +23,7 @@ This is an underwater fractal. Make sure you have approriate underwater equipmen
 ---
 
 ## Save the villagers <Item id="50082" text="false"/><Item id="24658" text="false"/>
+
 <Grid>
 <Column>
 You can stack <Boon name="might"/> on the rack before entering the water. Kill the three groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
@@ -23,8 +39,8 @@ You can stack <Boon name="might"/> on the rack before entering the water. Kill t
 </Column>
 
 <Column width="6" compact>
-    <Image src="fractals/aquatic-ruins/images/wooden_rack.jpg" title="The wooden rack"/>
-    <Image src="fractals/aquatic-ruins/images/trapped_villagers.jpg" title="Villagers are trapped in cages"/>
+    <Image src="./images/wooden_rack.jpg" title="The wooden rack"/>
+    <Image src="./images/trapped_villagers.jpg" title="Villagers are trapped in cages"/>
 </Column>
 </Grid>
 
@@ -34,7 +50,7 @@ You can stack <Boon name="might"/> on the rack before entering the water. Kill t
 <Column>
 ## Dark Path
 
-Swim together and take the *Luminous Plants* on the way to protect you and nearby players from dying. If you are able to survive it, take the shortcut to the left after entering the larger cave. Use dodges or <Effect name="invulnerability"/> for the last group of Krait. If someone reaches the end boss, use `/gg` to immediately resurrect there.
+Swim together and take the _Luminous Plants_ on the way to protect you and nearby players from dying. If you are able to survive it, take the shortcut to the left after entering the larger cave. Use dodges or <Effect name="invulnerability"/> for the last group of Krait. If someone reaches the end boss, use `/gg` to immediately resurrect there.
 </Column>
 
 <Column>
@@ -47,6 +63,7 @@ Spam `Skill 1` during swimming to reveal nearby hidden Krait and keep to the rig
 ---
 
 ## <Boss red="true"/> Jellyfish Beast
+
 <Grid>
 <Column>
 Pull the Jellyfish Beast to the electrified cage at the bottom by LoSing him to immediately break his defiance bar and deal more damage. If he eats you, use any kind of stunbreak to break free. Try to break his defiance bar as often as possible to benefit from <Item id="24868"/> and <Trait id="1502"/>.
@@ -62,4 +79,4 @@ Pull the Jellyfish Beast to the electrified cage at the bottom by LoSing him to 
 </Column>
 </Grid>
 
-<Image src="fractals/aquatic-ruins/images/the_jellyfish_beast.jpg" title="The Jellyfish Beast"/>
+<Image src="./images/the_jellyfish_beast.jpg" title="The Jellyfish Beast"/>

@@ -1,3 +1,18 @@
+---
+title: "Uncategorized"
+date: "2018-04-17"
+image: "./images/header.jpg"
+group: "T4"
+api: 2939
+bosses: 3
+difficulties: [{ level: 79, ar: 113 }, { level: 91, ar: 134 }]
+record: { time: "3:16", by: { name: "Happens", tag: "hP" }, youtube: [{ id: "fMB69jScHWg", name: "Never Moa", specialization: "Tempest" }, { id: "1HptYqPzPZE", name: "Midnightz", specialization: "Tempest" }]}
+cycle: "Day"
+potions: [{ id: 8887, description: "for Old Tom and the Raving Asura" }]
+sigils: [{ id: 24868 }, { id: 24615 }, { id: 24672, description: "for Old Tom and the Raving Asura" }]
+consumables: [78978, 49940, 8764, 8801]
+---
+
 <Grid>
 <Column>
 ## Start
@@ -7,7 +22,8 @@
 **Option 2:** The <Specialization name="mesmer"/> (or anyone with a <Item id="78978"/>) skips alone and teleports the team to the holding area.
 
 ## <Boss/> Holding Area
-Stack <Boon name="might"/> before destroying the *Power Generator*, then kill the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's *Massive Smash* attack. Reflects are strong here as well, especially against the Fire Shaman's projectiles.
+
+Stack <Boon name="might"/> before destroying the _Power Generator_, then kill the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's _Massive Smash_ attack. Reflects are strong here as well, especially against the Fire Shaman's projectiles.
 
 <Tips>
     <Tip specialization="elementalist">If positioned correctly, you can <Skill id="5697"/> against the wall.</Tip>
@@ -22,7 +38,7 @@ Stack <Boon name="might"/> before destroying the *Power Generator*, then kill th
     <Tip specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.</Tip>
 </Tips>
 
-<Image src="fractals/uncategorized/images/harpies_jp.jpg" title="Harpies protect their jumping puzzle"/>
+<Image src="./images/harpies_jp.jpg" title="Harpies protect their jumping puzzle"/>
 </Column>
 </Grid>
 
@@ -37,7 +53,7 @@ Walk past the three Harpies (no <Effect name="stealth"/> needed) and run up the 
 </Column>
 
 <Column width="5" compact>
-<Image src="fractals/uncategorized/images/pulsing_orbs.jpg" title="The ramp up" compact/>
+<Image src="./images/pulsing_orbs.jpg" title="The ramp up" compact/>
 </Column>
 </Row>
 
@@ -47,7 +63,7 @@ Walk past the three Harpies (no <Effect name="stealth"/> needed) and run up the 
 
 Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken.
 
-<Image src="fractals/uncategorized/images/old_tom.jpg" title="Old Tom"/>
+<Image src="./images/old_tom.jpg" title="Old Tom"/>
 </Column>
 <Column>
 <Tips>
@@ -64,6 +80,7 @@ Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful w
 ---
 
 ## <Boss red/> Raving Asura <Item id="8887" text="false"/><Item id="24672" text="false"/>
+
 <Grid>
 <Column>
 If noone did a portal to above, stack <Effect name="stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal.
@@ -71,6 +88,6 @@ If noone did a portal to above, stack <Effect name="stealth"/> before the Harpie
 Note that with the 17/09/22 update the four golems gained a defiance bar which makes it impossible to pull them anymore.
 </Column>
 <Column width="7" compact>
-<Image src="fractals/uncategorized/images/raving_asura.jpg" title="The Raving Asura and his entourage" compact/>
+<Image src="./images/raving_asura.jpg" title="The Raving Asura and his entourage" compact/>
 </Column>
 </Grid>
