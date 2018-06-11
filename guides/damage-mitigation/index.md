@@ -30,10 +30,10 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 <Specialization name="elementalist"/>
 </CardHeader>
 <CardContent>
-* <Skill id="5685"/> (Staff 3, <Skill id="5495" text="false"/>) and any other skill that applies it
-* <Skill id="5530"/> (Focus 4, <Skill id="5494" text="false"/>)
+* <Skill id="5685"/><br/>(Staff 3, <Skill id="5495" text="false"/>)
+* <Skill id="5530"/><br/>(Focus 4, <Skill id="5494" text="false"/>)
 * <Skill id="30432"/> (<Icon name="tempest"/>)
-* <Skill id="29453"/> (Warhorn 4, <Skill id="5495" text="false"/>, <Icon name="tempest"/>)
+* <Skill id="29453"/><br/>(Warhorn 4, <Skill id="5495" text="false"/>, <Icon name="tempest"/>)
 </CardContent>
 </Card>
 
@@ -42,7 +42,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 <Specialization name="ranger"/>
 </CardHeader>
 <CardContent>
-* <Skill id="31496"/> (Staff 5, <Icon name="druid"/>
+* <Skill id="31496"/><br/>(Staff 5, <Icon name="druid"/>)
 * <Skill id="12639"/> (Axe 5)
 </CardContent>
 </Card>
@@ -53,8 +53,8 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </CardHeader>
 <CardContent>
 * <Skill id="9251"/>
-* <Skill id="9107"/> (Sword 3)
-* <Skill id="42259"/> Skill 3 (<Icon name="firebrand"/>)
+* <Skill id="9107"/><br/>(Sword 3)
+* <Skill id="42259"/><br/>Skill 3 (<Icon name="firebrand"/>)
 </CardContent>
 </Card>
 
@@ -64,7 +64,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </CardHeader>
 <CardContent>
 * <Skill id="14184"/>
-* <Skill id="30434"/> (Staff 1, <Icon name="daredevil"/>)
+* <Skill id="30434"/><br/>(Staff 1, <Icon name="daredevil"/>)
 </CardContent>
 </Card>
 
@@ -74,8 +74,8 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </CardHeader>
 <CardContent>
 * <Skill id="30074"/> (<Icon name="berserker"/>)
-* <Skill id="30682"/> (Sword F1, <Icon name="berserker"/>
-* <Skill id="45333"/> (<Icon name="spellbreaker"/>
+* <Skill id="30682"/><br/>(Sword F1, <Icon name="berserker"/>)
+* <Skill id="45333"/> (<Icon name="spellbreaker"/>)
 </CardContent>
 </Card>
 
@@ -127,12 +127,13 @@ Below is a list of commonly used defensive skills:
 * <Skill id="9102"/>
 * <Skill id="9154"/>
 * Any Aegis skill:
-    * <Skill id="9118"/> and <Skill id="42259"/> (<Icon name="firebrand"/>) (periodically)
+    * <Skill id="9118"/>
+    * <Skill id="42259"/><br/>(<Icon name="firebrand"/>) (periodically)
     * <Skill id="9084"/>
-    * <Skill id="41475"/> (<Icon name="firebrand"/>)
+    * <Skill id="41475"/><br/>Heal skill(<Icon name="firebrand"/>)
     * <Skill id="42259"/> Skill 2 (<Icon name="firebrand"/>)
     * <Skill id="42259"/> Skill 5 (<Icon name="firebrand"/>)
-* <Skill id="30029"/> (F3, <Icon name="dragonhunter"/>)
+* <Skill id="30029"/><br/>(F3, <Icon name="dragonhunter"/>)
 </CardContent>
 </Card>
 
@@ -142,8 +143,9 @@ Below is a list of commonly used defensive skills:
 </CardHeader>
 <CardContent>
 * <Skill id="5641"/>
-* <Skill id="5554"/> and <Skill id="5564"/> (Downed state)
-* <Skill id="5521"/> (Focus 5, <Skill id="5495" text="false"/>
+* <Skill id="5554"/>
+* <Skill id="5564"/><br/>(Downed state)
+* <Skill id="5521"/><br/>(Focus 5, <Skill id="5495" text="false"/>
 </CardContent>
 </Card>
 
