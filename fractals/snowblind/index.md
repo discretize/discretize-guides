@@ -7,7 +7,7 @@ api: 2952
 bosses: 2
 difficulties: [{ level: 86, ar: 125 }, { level: 93, ar: 138 }]
 record: { time: "3:32", by: { name: "Snow Crows", tag: "SC" }, youtube: [{ id: "vvW8-vlCAjI", name: "Yui", specialization: "Chronomancer" }, { id: "5rJTZVRhEqQ", name: "Derpy", specialization: "Tempest" }, { id: "WKvibVHOjsY", name: "Roul", specialization: "Daredevil" }, { id: "5OW6VHot8WQ", name: "Cheezy", specialization: "Druid" }]}
-cycle: "Day"
+cycle: "Night"
 potions: [{ id: 8883, description: "for the Svanir & end boss" }]
 sigils: [{ id: 36053 }, { id: 24667, description: "for the Svanir & end boss" }]
 consumables: [78978, 49940]
@@ -42,7 +42,7 @@ At the start of the fight, light up the five bonfires to remove the 10 stacks of
 
 Every 25%, the Elemental Source casts _Wind Gust_ (icy projectiles) which makes the bonfires loose health. If a bonfire goes down, you will need to throw firewood into it and light it up again using your special action key.
 
-With reflects and high DPS you can simply burst the boss before any bonfire expires.
+With reflects and high DPS you can simply burst the boss before any bonfire expires. Note that the Elemental Source is a structure so no potion will work on it.
 </Column>
 
 <Column>
