@@ -6,7 +6,7 @@ group: "T4"
 api: 2967
 bosses: 2
 difficulties: [{ level: 84, ar: 122 }, { level: 97, ar: 145 }]
-record: { time: "3:33", by: { name: "Happens", tag: "hP" }, youtube: [{ id: "VB3H_A-tkF0", name: "Elo Quentz", specialization: "Chronomancer" }, { id: "DTKSHipGO50", name: "Guts", specialization: "Tempest" }, { id: "hsiFZF01Gfo", name: "Goni", specialization: "Tempest" }]}
+record: { time: "2:43", by: { name: "Discretize", tag: "dT" }, youtube: [{ id: "QCele6YZeow", name: "Metagame", specialization: "Chronomancer" }, { id: "KP5bbAK9Dqs", name: "Nimajeb", specialization: "Warrior" }, { id: "8jPj3qhxSek", name: "Xarlor", specialization: "Weaver" }, { id: "VErPFTieTk8", name: "Hyperiel", specialization: "Weaver" }, { id: "4xRc7pEAfv8", name: "The Way To God", specialization: "Weaver" }]}
 cycle: "Day"
 sigils: [{ id: 24615 }, { id: 24868 }]
 consumables: [78978, 49940]
