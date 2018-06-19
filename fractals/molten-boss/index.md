@@ -10,6 +10,7 @@ cycle: "Day"
 potions: [{ id: 50082 }]
 sigils: [{ id: 24615 }, { id: 24868 }]
 consumables: [78978, 49940, 8764, 8801]
+record: { time: "4:24", by: { name: "Discretize", tag: "dT" }, youtube: [{ id: "1IwsZyYrjmA", name: "Metagame", specialization: "Chronomancer" }, { id: "uS1gDsdXrh8", name: "Nimajeb", specialization: "Spellbreaker" }, { id: "1DiIqiNB69A", name: "Hyperiel", specialization: "Holosmith" }, { id: "-0eOZUOaYz8", name: "Xarlor", specialization: "Weaver" }, { id: "uOLhW3wIVoU", name: "Hutselflutsje", specialization: "Weaver" }]}
 ---
 
 ## Start area <Item id="50082" text="false"/>
