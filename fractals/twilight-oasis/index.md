@@ -9,7 +9,7 @@ difficulties: [{ level: 87, ar: 127 }]
 cycle: "Night"
 sigils: [{ id: 36053 }, { id: 24615 }]
 consumables: [78978, 8764, 8801]
-record: { time: "2:43", by: { name: "Discretize", tag: "dT" }, youtube: [{ id: "N0dwuUeFoNo", name: "Metagame", specialization: "Chronomancer" }, { id: "-oH2DE07cKY", name: "Nimajeb", specialization: "Spellbreaker" }, { id: "-BA76INzsxw", name: "Hyperiel", specialization: "Holosmith" }, { id: "BtfjQbzRg5E", name: "Hutselflutsje", specialization: "Weaver" }]}
+record: { time: "6:50", by: { name: "Discretize", tag: "dT" }, youtube: [{ id: "N0dwuUeFoNo", name: "Metagame", specialization: "Chronomancer" }, { id: "-oH2DE07cKY", name: "Nimajeb", specialization: "Spellbreaker" }, { id: "-BA76INzsxw", name: "Hyperiel", specialization: "Holosmith" }, { id: "BtfjQbzRg5E", name: "Hutselflutsje", specialization: "Weaver" }]}
 ---
 
 ### Start
