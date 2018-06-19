@@ -34,7 +34,7 @@ Alternative weapons
 </CardHeader>
 <CardContent>
 - <Item id="36053" text="false"/> / <Item id="24615" text="false"/> and slaying sigils  
-  (Doesn't stack anymore ! :<Item id="36053" text="false"/> / <Item id="36054" text="false"/>)
+  (<Item id="36054"/> doesn't stack anymore)
 - Hammer for <Boon name="might"/> stacking
 </CardContent>
 </Card>
