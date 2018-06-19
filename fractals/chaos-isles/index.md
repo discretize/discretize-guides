@@ -6,7 +6,7 @@ group: "T4"
 api: 3038
 bosses: 2
 difficulties: [{ level: 88, ar: 129 }]
-record: { time: "5:11", by: { name: "Quantify", tag: "qT" }, youtube: [{ id: "MV2Byim0PWU", name: "Deathly", specialization: "Chronomancer" }]}
+record: { time: "3:48", by: { name: "Discretize", tag: "dT" }, youtube: [{ id: "WN_ohtdzUEY", name: "Hyperiel", specialization: "Chronomancer" }, { id: "W0heJU1YHRs", name: "Metagame", specialization: "Warrior" }, { id: "p4Swksv1-To", name: "Nimajeb", specialization: "Holosmith" }, { id: "uCu_f50blpc", name: "Xarlor", specialization: "Weaver" }]}
 cycle: "Day"
 sigils: [{ id: 24615 }, { id: 24554, description: "for the Chaos Anomaly" }, { id: 24868}]
 consumables: [49940]
