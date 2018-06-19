@@ -36,7 +36,7 @@ Equipment (150 AR and <Trait id="1016" profession="ranger"/>)
 Swap Weapons
 </CardHeader>
 <CardContent>
-* All weapons with <Item id="36053"/>/<Item id="36054"/> and slaying sigils
+* All weapons with <Item id="36053" text="false"/> / <Item id="24615" text="false"/> and slaying sigils  (<Item id="36054"/> doesn't stack anymore)
 * A warhorn for pre-stacking
 </CardContent>
 </Card>
