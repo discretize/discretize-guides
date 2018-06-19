@@ -33,7 +33,8 @@ Equipment
 Alternative weapons
 </CardHeader>
 <CardContent>
-* Rifle with <Item id="36053"/>/<Item id="36054"/> and slaying sigils
+* Rifle with <Item id="36053" text="false"/> / <Item id="24615" text="false"/> and slaying sigils  
+  (<Item id="36054"/> doesn't stack anymore)
 </CardContent>
 </Card>
 </Column>
