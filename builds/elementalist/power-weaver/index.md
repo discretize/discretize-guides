@@ -37,11 +37,10 @@ Equipment
 Swap Weapons
 </CardHeader>
 <CardContent>
-* Staff with <Item id="36053" text="false"/> / <Item id="24615" text="false"/>  
-    (Doesn't stack anymore ! :<Item id="36053" text="false"/> / <Item id="36054" text="false"/>)
-* Staff with <Item id="24658" text="false"/> / <Item id="24868" text="false"/>
+* Staff with <Item id="36053" text="false"/> / <Item id="24615" text="false"/> (<Item id="36054"/> doesn't stack anymore)
+* Staff with <Item id="24658" text="false"/> / <Item id="24868" text="false"/> for the [Nightmare Fractal](https://discretize.eu/fractals/nightmare)
 * At least a Scepter and Dagger for <Boon name="might"/> stacking, Sword if you want to go the extra mile.
-* Note that the Gear with and without <Trait id="1016"/> is identical.
+* Note that the Gear with and without <Trait id="1016" profession="ranger"/> is identical.
 </CardContent>
 </Card>
 </Column>
