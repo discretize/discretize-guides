@@ -18,7 +18,7 @@ consumables: [78978]
 <Column>  
 Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="daze"/> with his stunning shield, use <Boon name="stability"/>, blocks or invulnerables against it.
 
-After you killed the mobs, use the teleporter to enter the boss area. If someone placed a portal at the start where you spawn (<Specialization name="mesmer"/> or <Item id="78978" text="false"/>), use `/gg` and take it to get back to the boss before the fight starts. With <Item id="78978" text="false"/> always walk out of the area of the portal placement so it can not bug for you.
+After you killed the mobs, use the teleporter to enter the boss area. If someone placed a portal at the start where you spawn (<Specialization name="mesmer"/> or <Item id="78978"/>), use `/gg` and take it to get back to the boss before the fight starts (this also skips the initial dialogue). If you do a portal on your own, always walk out of the interaction area after placing - otherwise it bugs and you can't take it yourself.
 
 <Tips>
     <Tip specialization="mesmer">Put down a <Skill id="10197"/> at the start and open it after triggering Mai Trin before you `/gg`.</Tip>
