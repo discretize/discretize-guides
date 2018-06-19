@@ -146,7 +146,7 @@ Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time w
 After the fight is over, take the portal in the North and move forward to get to Arkk.
 
 <Tips>
-    <Tip specialization="chronomancer">From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics.</Tip>
+    <Tip specialization="chronomancer">From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics. Note that you can pre-stack clones on Artsariiv with <Skill id="10173"/>.</Tip>
     <Tip specialization="spellbreaker">Leave a <Skill id="45333"/> and place your banners before you leave for marble bouncing.</Tip>
     <Tip specialization="weaver">If your group damage is low you can use <Skill id="5501"/> two times per phase, precast the first one in the middle in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>. **Always** place at least a <Skill id="5548"/> on the *Temporaly Anomaly* before using `Nova Launch` to the boss. You can already attune to <Skill id="5494"/> at the Anomaly and burst it with <Skill id="41125"/> before resuming on the boss with <Skill id="5737"/>.</Tip>
     <Tip specialization="druid">Use <Skill id="31496"/> against the multitude of projectiles, especially against the the orb attacks from the two Elites at the beginning and from Artsariiv before her *Slam* attack.</Tip>
