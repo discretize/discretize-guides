@@ -26,7 +26,7 @@ description: "Learn how to use various consumables to greatly simplify otherwise
 
 | Enemy type           | Potion                                  | Sigil                                                   |
 | -------------------- | --------------------------------------- | ------------------------------------------------------- |
-| Any mob during Night | None                                    | <Item id="36053"/><br/>(doesn't stack with <Item id="36054" text="false"/> anymore)|
+| Any mob during Night | None                                    | <Item id="36053"/><br/>(doesn't stack with <Item id="36054" text="false"/> anymore) |
 | Demon & Elemental    | <Item id="8886"/><br/><Item id="8885"/> | <Item id="24664"/><br/><Item id="24661"/>               |
 | Dredge               | <Item id="8892"/>                       | <Item id="24684"/>                                      |
 | Grawl                | <Item id="8890"/>                       | <Item id="24648"/>                                      |
