@@ -9,6 +9,6 @@ benchmark: { small: { dps: 32378, by: "Nightmare [SC]", youtube: "Sl-bWbM2Vko" }
 skills: [45717, 40498, 44948]
 traits: [2128]
 boons: ["Might",]
-conditions: ["Vulnerability", "Cripple", "Blind", "Bleeding", "Burning", "Immobile", "Weakness"]
+conditions: ["Vulnerability", "Crippled", "Blind", "Bleeding", "Burning", "Immobile", "Weakness"]
 released: false
 ---
