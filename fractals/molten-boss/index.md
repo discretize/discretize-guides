@@ -50,10 +50,8 @@ The moment you killed the Effigy, you can continue to the next trash group. All 
 
 When you walk onto the end boss area, a group-wide <Effect name="agony"/> effect will be applied and put you in combat. As soon as it ends, use the small time before boss starts to stack <Boon name="might"/>.
 
-Kill the _Molten Berserker_ first and pay attention to the AoEs and _Shockwave_ attack. Reflects are useful here as well. The _Molten Firestorm_ will heal to full health after his comrade is dead, kill him afterwards to finish the fractal.
+Kill the _Molten Firestorm_ first and pay attention to the AoEs and _Shockwave_ attack. Reflects are useful here as well (especially if you're running without a healer). The _Molten Berserker_ will heal to full health after his comrade is dead, kill him afterwards to finish the fractal.
 
-Do not walk into the hitboxes of the two bosses to prevent them from moving into the outer, inaccessible area.
-
-Note that since the rework, you are no longer <Control name="knockback"/>ed on the outer ring of the arena (resonating part), it simply works as a continuous pull towards the edge. If needed you can follow the boss inside, just make sure to always move inwards the arena and dodge the _Molten Firestorm_'s knockback AoE (big orange circle) so you do not fall off.
+Do not walk into the hitboxes of the two bosses to prevent them from moving out of damaging fields.
 
 <Image src="./images/endboss.jpg" title="The Molten Berserker & Molten Firestorm"/>
