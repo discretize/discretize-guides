@@ -50,9 +50,9 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 <Image src="./images/horrik.jpg" title="First Mate Horrik"/>
 <Tips>
     <Tip specialization="mesmer">Use <Skill id="10302"/> against the multitude of projectiles.</Tip>
-    <Tip specialization="druid">Trait <Trait id="1075"/> and use <Skill id="12489"/> for additional condition clears.    
+    <Tip specialization="druid">Trait <Trait id="1075"/> and use <Skill id="12489"/> for additional condition clears.
     Also change <Skill id="12497"/> to <Skill id="12495"/> to reduce incoming damage from spawning mobs every phase and use <Skill id="31496"/> against the cannons.</Tip>
-    <Tip specialization="spellbreaker">You can run Spellbreaker to counter the enemy boons.</Tip>
+    <Tip specialization="spellbreaker">You can run Spellbreaker to counter the enemy boons and destroy the snipers projectiles at 25% with <Skill id="45333"/>.</Tip>
 </Tips>
 </Column>
 </Grid>
