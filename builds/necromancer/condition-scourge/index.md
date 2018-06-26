@@ -9,7 +9,6 @@ benchmark: { small: { dps: 30057, by: "Nightmare [SC]", youtube: "55C2a5ITXfo"}}
 skills: [10689, 10602, 10606]
 traits: [816, 875]
 conditions: ["Vulnerability", "Crippled", "Blind", "Weakness", "Immobile"]
-released: false
 ---
 
 A good complimentary build to the <Specialization name="reaper" prefix="Condition"/> one, <Specialization name="Scourge" prefix="Condition"/> excels at providing supplementary defensive support abilities for a group whilst still going full damage, as well as superior area damage to its <Specialization name="reaper" prefix="Condition"/> counterpart. Because both builds are so similar in terms of their equipment (minus infusions) it allows for an experienced Necromancer player to swap between the two on the fly as a situation requires it. 
