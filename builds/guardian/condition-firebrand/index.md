@@ -27,7 +27,7 @@ Equipment
 </Column>
 
 <Column>
-<Weapons weapon1MainId="76688" weapon1MainSigil1Id="24624" weapon1MainSigil2Id="" weapon1MainType="Scepter" weapon1MainAffix="Viper" weapon1MainSigil1="Smoldering" weapon1MainSigil2="" weapon1OffId="76271" weapon1OffSigilId="44944" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Smoldering" weapon2MainId="77122" weapon2MainSigil1Id="24624" weapon2MainType="Axe" weapon2MainAffix="Viper" weapon2MainSigil1="Smoldering" weapon2OffId="" weapon2OffSigilId="" weapon2OffType="" weapon2OffAffix="" weapon2OffSigil=""/>
+<Weapons weapon1MainId="76688" weapon1MainSigil1Id="24624" weapon1MainSigil2Id="" weapon1MainType="Scepter" weapon1MainAffix="Viper" weapon1MainSigil1="Smoldering" weapon1MainSigil2="" weapon1OffId="76271" weapon1OffSigilId="44950" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Smoldering" weapon2MainId="77122" weapon2MainSigil1Id="24624" weapon2MainType="Axe" weapon2MainAffix="Viper" weapon2MainSigil1="Smoldering" weapon2OffId="" weapon2OffSigilId="" weapon2OffType="" weapon2OffAffix="" weapon2OffSigil=""/>
 
 <Card>
 <CardHeader>
