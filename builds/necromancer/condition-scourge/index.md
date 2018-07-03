@@ -11,14 +11,13 @@ traits: [816, 875]
 conditions: ["Vulnerability", "Crippled", "Blind", "Weakness", "Immobile"]
 ---
 
-A good complimentary build to the <Specialization name="reaper" prefix="Condition"/> one, <Specialization name="Scourge" prefix="Condition"/> excels at providing supplementary defensive support abilities for a group whilst still going full damage, as well as superior area damage to its <Specialization name="reaper" prefix="Condition"/> counterpart. Because both builds are so similar in terms of their equipment (minus infusions) it allows for an experienced Necromancer player to swap between the two on the fly as a situation requires it. 
+A good complimentary build to <Specialization name="reaper" prefix="Condition"/> one, <Specialization name="Scourge" prefix="Condition"/> excels at providing supplementary defensive support abilities for a group whilst still going full damage, as well as superior area damage to its <Specialization name="reaper" prefix="Condition"/> counterpart. Because both builds are so similar in terms of their equipment (minus infusions) it allows for an experienced Necromancer player to swap between the two on the fly as a situation requires it. 
 
-Scourge has a simplistic "rotation" in that you have less skills overall to use, but it is counterbalanced by the need to "maintain" parts of your kit for your damage output to excel; namely keeping up two sand sahdes, using punishment skill in tandem with said shades and maintaining life force to allows for use of your Shroud skills.
+Scourge has a simplistic "rotation" in that you have less skills overall to use, but it is counterbalanced by the need to "maintain" parts of your kit for your damage output to excel; namely keeping up two sand shades, using punishment skill in tandem with said shades and maintaining life force to allow for use of your Shroud skills.
 
-If you keep on top of this, <Specialization name="Scourge" prefix="Condition"/> can also adapt itself to utilize tools to assist a team, be it a requirement for more condi cleanses, barriers, portals, boon corruption, etc. all packed into a build that will not have its damage disrupted should the group be forced out of melee range.
+If you keep on top of this, <Specialization name="Scourge" prefix="Condition"/> can also adapt itself to utilize tools to assist a team, be it a requirement for more condi cleanses, barriers, portals, boon corruption, etc; with all of this packed into a build that will not have its damage disrupted should the group be forced out of melee range.
 
-This build is recommended for situations where boon corruption may be needed for the team, extra forms of projectile mitigation are required, large scale cleaving damage via
-Epidemic is desired (and can also allow you to solo/carry most fractals should you gain enough mastery over it).
+This build is recommended for situations where boon corruption may be needed for the team, extra forms of projectile mitigation are required, or if large scale cleaving damage via <Skill id="10606"/> is desired (and can also allow you to solo/carry most fractals should you gain enough mastery over it).
 
 <Divider>
 Equipment
@@ -44,7 +43,9 @@ Equipment
 Swap Weapons
 </CardHeader>
 <CardContent>
-You can also run <Item id="44944"/> instead of <Item id="24605"/> if you are heavily using <Skill id="10606"/> for an encounter. You also don't need to weapon swap if you run <Item id="44944"/>. Can run a Dagger for more condi cleanse, or a Warhorn for more CC (for the former geomancy is fine but for Warhorn you would just run bursting)
+You can also run <Item id="44944"/> instead of <Item id="24605"/> if you are heavily using <Skill id="10606"/> for an encounter. You also don't need to weapon swap if you run <Item id="44944"/>. Can run a Dagger for more condi cleanse, or a Warhorn for more CC (for the former geomancy is fine but for Warhorn you would just run bursting). 
+
+(Placing your Scepter and Torch in your weapon slots as shown above will allow you to weaponswap despite only having one torch).
 </CardContent>
 </Card>
 </Grid>
@@ -69,7 +70,7 @@ Situational Skills
 <CardContent>
 | | |
 | -- | -- |
-| <Skill id="40274" size="big" text="false"/> | For higher single target dps if your group is getting 25 stacks of poison or isn't utilizing Epidemic. |
+| <Skill id="40274" size="big" text="false"/> | For higher single target dps if your group is getting 25 stacks of poison or isn't utilizing <Skill id="10606"/>. |
 | <Skill id="42917" size="big" text="false"/> | For the extra teleport and portal combination (though it is difficult to apply to many situations due to the two-fold limitations of line of sight and path finding to cast). |
 | <Skill id="40813" size="big" text="false"/> | Small dps increase due to the extra procc of <Skill id="44946"/>'s "auto attack" as well as condi cleanse for the group. |
 | <Skill id="43448" size="big" text="false"/> | Small dps increase due to the extra procc of <Skill id="44946"/>s "auto attack" as well as an emergency barrier source to help survive large damage. |
