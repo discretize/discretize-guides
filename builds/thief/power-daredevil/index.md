@@ -10,7 +10,6 @@ skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
 conditions: ["Vulnerability","Crippled","Blind","Weakness"]
 effects: ["Stealth"]
-released: false
 ---
 
 This build is really behind the other power based builds, like <Specialization name="dragonhunter" prefix="power"/> and <Specialization name="weaver" prefix="power"/> dps wise, but if you really have nothing else it is fine for off-meta groups. It has a very simple rotation and can be very mobile for skips, also gives a lot of <Effect name="stealth"/> for skips (though <Specialization name="druid"/> fills this role perfectly).
@@ -123,5 +122,6 @@ CC skills
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
 </CardContent>
 </Card>
+<Video videoId="25FSua-l9wM" videoTitle="Daredevil Staff 30.1k (with Allies) by Neovaris [SC]"/>
 </Column>
 </Grid>
