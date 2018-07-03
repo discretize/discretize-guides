@@ -10,12 +10,11 @@ skills: [41714, 9187, 44364, 9154, 29965, 40915]
 traits: [571]
 boons: ["Quickness", "Might", "Fury", "Retaliation", "Protection", "Swiftness", "Regeneration", "Vigor", "Aegis", "Stability", "Resistance"]
 conditions: ["Burning", "Immobile", "Crippled"]
-released: false
 ---
 
 The <Specialization name="firebrand" prefix="condition"/> was hit hard by nerfs, but still a good condition class to play in fractals. Offers so much support it really helps players with little experience in fractals. Has everything from reflects, CC to condition cleanse and boonspam.
 
-This is the Viper alternative of the build. Ideally Griveing stats would be the best for fractals (short fights, strong bursts needed), but since Grieving is only acquireable through raids I went with Viper so everyone can use the build, even if they dont raid. So if you want to go with high-end build go with full Grieving (armor,weapons,trinkets).
+This is the Viper alternative of the build. Ideally Griveing stats would be the best for fractals (short fights, strong bursts needed), but since Grieving is only acquireable through raids I went with Viper so everyone can use the build, even if they do not raid. So if you want to go with high-end build go with full Grieving (armor,weapons,trinkets).
 
 <Divider>
 Equipment
@@ -23,11 +22,11 @@ Equipment
 
 <Grid>
 <Column>
-<Armor helmId="74412" helmRuneId="83502" helmRuneCount="6" helmAffix="Viper" helmRune="Renegade" shouldersId="72557" shouldersRuneId="83502" shouldersRuneCount="6" shouldersAffix="Viper" shouldersRune="Renegade" coatId="76377" coatRuneId="83502" coatRuneCount="6" coatAffix="Viper" coatRune="Renegade" glovesId="76776" glovesRuneId="83502" glovesRuneCount="6" glovesAffix="Viper" glovesRune="Renegade" leggingsId="48076" leggingsRuneId="83502" leggingsRuneCount="6" leggingsAffix="Viper" leggingsRune="Renegade" bootsId="72548" bootsRuneId="83502" bootsRuneCount="6" bootsAffix="Viper" bootsRune="Renegade"/>
+<Armor helmId="74412" helmRuneId="83502" helmRuneCount="6" helmAffix="Viper" helmRune="Renegade" shouldersId="72557" shouldersRuneId="83502" shouldersRuneCount="6" shouldersAffix="Viper" shouldersRune="Renegade" coatId="76377" coatRuneId="83502" coatRuneCount="6" coatAffix="Viper" coatRune="Renegade" glovesId="76776" glovesRuneId="83502" glovesRuneCount="6" glovesAffix="Viper" glovesRune="Renegade" leggingsId="77143" leggingsRuneId="83502" leggingsRuneCount="6" leggingsAffix="Viper" leggingsRune="Renegade" bootsId="72548" bootsRuneId="83502" bootsRuneCount="6" bootsAffix="Viper" bootsRune="Renegade"/>
 </Column>
 
 <Column>
-<Weapons weapon1MainId="76688" weapon1MainSigil1Id="24624" weapon1MainSigil2Id="" weapon1MainType="Scepter" weapon1MainAffix="Viper" weapon1MainSigil1="Smoldering" weapon1MainSigil2="" weapon1OffId="76271" weapon1OffSigilId="44950" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Smoldering" weapon2MainId="77122" weapon2MainSigil1Id="24624" weapon2MainType="Axe" weapon2MainAffix="Viper" weapon2MainSigil1="Smoldering" weapon2OffId="" weapon2OffSigilId="" weapon2OffType="" weapon2OffAffix="" weapon2OffSigil=""/>
+<Weapons weapon1MainId="76688" weapon1MainSigil1Id="24624" weapon1MainSigil2Id="" weapon1MainType="Scepter" weapon1MainAffix="Viper" weapon1MainSigil1="Smoldering" weapon1MainSigil2="" weapon1OffId="76271" weapon1OffSigilId="44950" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Malice" weapon2MainId="77122" weapon2MainSigil1Id="24624" weapon2MainType="Axe" weapon2MainAffix="Viper" weapon2MainSigil1="Smoldering" weapon2OffId="" weapon2OffSigilId="" weapon2OffType="" weapon2OffAffix="" weapon2OffSigil=""/>
 
 <Card>
 <CardHeader>
@@ -113,7 +112,7 @@ CC skills
 <CardContent>
 | | |
 | -- | -- |
-| <Skill id="45402"/> | 150 damage |
+| F1 Skill 3 | 150 damage |
 | <Skill id="45402"/> | 150 damage |
 | <Skill id="9093"/> | 300 damage |
 </CardContent>
