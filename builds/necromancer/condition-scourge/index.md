@@ -29,7 +29,7 @@ Equipment
 </Column>
 
 <Column>
-<Weapons weapon1MainId="76688" weapon1MainSigil1Id="44950" weapon1MainSigil2Id="" weapon1MainType="Scepter" weapon1MainAffix="Viper" weapon1MainSigil1="Malice" weapon1MainSigil2="" weapon1OffId="empty" weapon1OffSigilId="" weapon1OffType="" weapon1OffAffix="Empty" weapon1OffSigil="" weapon2MainId="empty" weapon2MainSigil1Id="" weapon2MainType="" weapon2MainAffix="Empty" weapon2MainSigil1="" weapon2OffId="76271" weapon2OffSigilId="24605" weapon2OffType="Torch" weapon2OffAffix="Viper" weapon2OffSigil="Geomancy"/>
+<Weapons weapon1MainId="76688" weapon1MainSigil1Id="44950" weapon1MainType="Scepter" weapon1MainAffix="Viper" weapon1MainSigil1="Malice" weapon2OffId="76271" weapon2OffSigilId="24605" weapon2OffType="Torch" weapon2OffAffix="Viper" weapon2OffSigil="Geomancy"/>
 
 </Column>
 
@@ -57,7 +57,7 @@ Build
 <Grid>
 <Column width="9">
 <Traits traits1Id="39" traits1="Curses" traits1Selected="815,816,801" traits2Id="50" traits2="Soul Reaping" traits2Selected="875,861,905" traits3Id="60" traits3="Scourge" traits3Selected="2074,2067,2164"/>
-<Skills weapon1Skill1="" weapon1Skill2="" weapon1Skill3="" weapon1Skill4="" weapon1Skill5="" utilitySkill1="43148" utilitySkill2="10689" utilitySkill3="10544" utilitySkill4="10606" utilitySkill5="10549"/>
+<Skills utilitySkill1="43148" utilitySkill2="10689" utilitySkill3="10544" utilitySkill4="10606" utilitySkill5="10549"/>
 <Video videoId="55C2a5ITXfo" videoTitle="30057 DPS by Nightmare [SC]"/>
 </Column>
 <Column>
