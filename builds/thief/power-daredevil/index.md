@@ -12,7 +12,7 @@ conditions: ["Vulnerability","Crippled","Blind","Weakness"]
 effects: ["Stealth"]
 ---
 
-This build is really behind the other power based builds, like <Specialization name="dragonhunter" prefix="power"/> and <Specialization name="weaver" prefix="power"/> dps wise, but if you really have nothing else it is fine for off-meta groups. It has a very simple rotation and can be very mobile for skips, also gives a lot of <Effect name="stealth"/> for skips (though <Specialization name="druid"/> fills this role perfectly).
+The <Specialization name="thief"/> profession is really behind the other power based builds like <Specialization name="dragonhunter" prefix="power"/> and <Specialization name="weaver" prefix="power"/> dps wise, but if you really have nothing else it is fine for off-meta groups. It has a very simple rotation and offers great mobility for skips, as well as endless party <Effect name="stealth"/> (though even a <Specialization name="druid"/> fills this role perfectly).
 
 While <Specialization name="deadeye" prefix="power"/> is more efficient in raids, <Specialization name="daredevil" prefix="power"/> is better in fractals.
 
@@ -69,7 +69,7 @@ Situational
 | <Skill id="13117" size="big" text="false"/> | Group stealth. |
 | <Skill id="13065" size="big" text="false"/> | Drop it to blast <Effect name="stealth"/> for skips or destroy projectiles. |
 | <Skill id="13002" size="big" text="false"/> | 1200 range teleport, use it again to teleport back. |
-| <Skill id="13044" size="big" text="false"/> | 3 seconds AoE <Effect name="stealth"/> . |
+| <Skill id="13044" size="big" text="false"/> | 3 seconds AoE <Effect name="stealth"/> (also another blast). |
 </CardContent>
 </Card>
 </Column>
@@ -107,6 +107,8 @@ Rotation
 * Dodge
 * <Skill id="30434"/> (Staff 1)
 * Repeat
+
+You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 </CardContent>
 </Card>
 </Column>
@@ -119,6 +121,7 @@ CC skills
 <CardContent>
 | | |
 | -- | -- |
+| <Skill id="30693"/> | 200 damage |
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
 </CardContent>
 </Card>
