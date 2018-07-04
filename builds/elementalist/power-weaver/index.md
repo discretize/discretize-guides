@@ -60,7 +60,7 @@ Build
 <Column width="9">
 <Traits title="Standard Arcane Variant" traits1Id="31" traits1="Fire" traits1Selected="296,325,1510" traits2Id="37" traits2="Arcane" traits2Selected="253,257,1511" traits3Id="56" traits3="Weaver" traits3Selected="2177,2061,2131"/>
 
-Use the **Arcane variant** if you have a <Specialization name="chronomancer" prefix="boon"/> (If you do not have a <Specialization name="chronomancer" prefix="boon"/> look for another group.). The only places where you want to play **Air** <Specialization name="weaver"/> are speedkills of Skorvald, Siax and Ensolyss. The damage in these fights is similar over the whole fight, but slightly worse in the beginning and better at the end. Another point of **Air** is to allow the <Specialization name="mesmer"/> to play inspiration domi for better <Boon name="alacrity"/> uptime.
+Use the **Arcane variant** if you have a <Specialization name="chronomancer" prefix="boon"/> (If you do not have a <Specialization name="chronomancer" prefix="boon"/> look for another group.). The only places where you want to play **Air** <Specialization name="weaver"/> are speedkills of Skorvald, Siax and Ensolyss. The damage in these fights is similar over the whole fight, but slightly worse in the beginning and better at the end. Another point of **Air** is to allow the <Specialization name="mesmer"/> to play the [Hybrid variant](https://discretize.eu/builds/mesmer/hybrid-chronomancer] for higher DPS and <Boon name="alacrity"/> uptime.
 
 <Traits title="Air Variant" traits1Id="41" traits1="Air" traits1Selected="232,1502,226"/>
 
@@ -83,7 +83,7 @@ Situational
 | <Skill id="5536" size="big" text="false"/> | A 900 range teleport, sufficient for most blink spots. |
 | <Skill id="44239" size="big" text="false"/> | An alternative healing skill providing additional group heal. | 
 | <Skill id="5507" size="big" text="false"/> | An alternative healing skill providing a strong condition cleanse. | 
-| <Skill id="44926" size="big" text="false"/> | Strong defence against pullsing damage (e.g. Heat Room Thaumanova Reactor).  |
+| <Skill id="44926" size="big" text="false"/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
 | <Skill id="5641" size="big" text="false"/> | Provides three blocks (e.g. Aether blade console room, Underground Facility).|
 | <Trait id="1673" size="big" text="false"/> | If you have no problems with survivability, you can take this trait for a higher <Boon name="retaliation"/> uptime. |
 | <Skill id="5639" size="big" text="false"/> | Used for personal <Boon name="stability"/> (e.g. Aether blade console room, Underground Facility). |
