@@ -96,9 +96,9 @@ Situational
 <CardContent>
 | | |
 | -- | -- |
-| <Skill id="29965" size="big" text="false"/> | If your group struggles with quickness. |
+| <Skill id="29965" size="big" text="false"/> | If your group struggles with <Boon name="quickness"/>. |
 | <Skill id="45460" size="big" text="false"/> | Extra group cleanse. |
-| <Skill id="43357" size="big" text="false"/> | When group stability is needed. |
+| <Skill id="43357" size="big" text="false"/> | When group <Boon name="stability"/> is needed. |
 | <Skill id="9246" size="big" text="false"/> | A 1,200 range teleport to an ally. |
 | <Skill id="9153" size="big" text="false"/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
 | <Skill id="9251" size="big" text="false"/> | A stationary reflect lasting for 10 seconds. |
