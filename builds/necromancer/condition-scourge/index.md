@@ -11,7 +11,7 @@ traits: [816, 875]
 conditions: ["Vulnerability", "Crippled", "Blind", "Weakness", "Immobile"]
 ---
 
-A good complimentary build to <Specialization name="reaper" prefix="Condition"/> one, <Specialization name="Scourge" prefix="Condition"/> excels at providing supplementary defensive support abilities for a group whilst still going full damage, as well as superior area damage to its <Specialization name="reaper" prefix="Condition"/> counterpart. Because both builds are so similar in terms of their equipment (minus infusions) it allows for an experienced Necromancer player to swap between the two on the fly as a situation requires it. 
+As a good complimentary build to the <Specialization name="reaper" prefix="Condition"/> one, the <Specialization name="Scourge" prefix="Condition"/> excels at providing supplementary defensive support abilities for a group whilst still going full damage, as well as superior area damage to its <Specialization name="reaper" prefix="Condition"/> counterpart. Because both builds are so similar in terms of their equipment (minus infusions) it allows for an experienced Necromancer player to swap between the two on the fly as a situation requires it. 
 
 Scourge has a simplistic "rotation" in that you have less skills overall to use, but it is counterbalanced by the need to "maintain" parts of your kit for your damage output to excel; namely keeping up two sand shades, using punishment skill in tandem with said shades and maintaining life force to allow for use of your Shroud skills.
 
@@ -136,5 +136,3 @@ Written Opener
 
 </Column>
 </Grid>
-
-  
