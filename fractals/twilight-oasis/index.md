@@ -61,7 +61,7 @@ Next up you will encounter Priestess Amala for the first time, bring her to 75% 
 
 She uses the _Scythe Slash_ attack (causes <Control name="knockback"/>) and a basic version of her 9-part attack chain applying <Condition name="bleeding"/> with each AoE.
 
-You can freely use `/gg` after she downs the party to reset cooldowns, just wait until you get resurrected.
+You can freely use `/gg` after she downs the party to reset cooldowns, just wait until you get resurrected. (If you decide to respawn please not that certain class/race/gender combos cannot move until Joko resurrects Amala)
 </Column>
 </Grid>
 
@@ -80,6 +80,10 @@ Jump up to the roof on the right-hand side and kill the three Sandbinders on the
 You can assign one player to trigger the checkpoint before the second Sandbinder using [this route](https://gfycat.com/ShrillVictoriousAbalone), `/gg` after the first one and resurrect to reset cooldowns. It is also possible to skip the tornado between the second and third Sandbinder using [this portal skip](https://gfycat.com/UnnaturalThirstyIcelandicsheepdog).
 
 Use `/gg` after killing all three Sandbinders to resurrect at end area. Clear the mobs there and Priestess Amala will spawn.
+
+Alternative route:
+
+While the party is killing the first Sandbinder a person with portal skip to the next Sandbinder (not triggering any checkpoint so you have to do it first try, else it is a time loss) and opens portal next to it. After you killed the second Sandbinder a second person opens a new portal at the second Sandbinder's location and skips to the third using [this route](https://gfycat.com/ShrillVictoriousAbalone). Please note that you can't `/gg` after any Sandbinder, because you get spawned behind the ideal checkpoints. The checkpoints were mixed up in the June 26th patch.
 </Column>
 
 <Column width="7" compact>
