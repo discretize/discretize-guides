@@ -94,14 +94,14 @@ Type `/gg` after finishing both seals and stay dead. If you wipe before both sea
 <Row>
 <Column width="6">
 ## The way up
-Do not resurrect yourself yet, wait for the <Specialization name="mesmer"/> to finish his portal and do `/gg` himself again or you will be stuck with an useless Mesmer for the entire end fight.
+Do not resurrect yourself yet, wait for the <Specialization name="mesmer"/> to finish his portal (by skipping on the normal route since July 10th) and do `/gg` himself again or you will be stuck with an useless Mesmer for the entire end fight.
 </Column>
 
 <Column>
 <Tips>
-    <Tip specialization="mesmer">After the whole party `/gg`'ed, resurrect yourself and place a <Skill id="10197"/> at the revival position.    
+    <Tip specialization="mesmer">~~After the whole party `/gg`'ed, resurrect yourself and place a <Skill id="10197"/> at the revival position.    
     Blink up to the Arch Diviner, open the portal and **walk away from it** before doing `/gg` again to reset your cooldowns. If you kill yourself on the portal it bugs and you'll have to keep <Skill id="10200"/> in your bar to follow your comrades.    
-    Now the whole party can resurrect and use the portal, type `go` in chat to indicate that. Before taking the portal on your own, switch your skills and traits back. This takes some timing to get right.</Tip>
+    Now the whole party can resurrect and use the portal, type `go` in chat to indicate that. Before taking the portal on your own, switch your skills and traits back. This takes some timing to get right.~~ As of July 10th Balance Update, this skip does not work due to new pathing.</Tip>
 </Tips>
 </Column>
 </Row>>
