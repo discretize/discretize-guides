@@ -23,7 +23,7 @@ Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your 
 
 ## <Boss/> MAMA <Item id="50082" text="false"/><Label>5,200,519 HP</Label>
 
-Stack <Boon name="might"/> before jumping down.
+Stack <Boon name="might"/> before jumping down. ( Now that the mistlock gives cooldown, <Specialization name="chronomancer"/> can prestack boons and use the mistlock )
 
 MAMA will arise, after being invulnerable for a few seconds its first attack will be a _spinning <Control name="knockback"/>_. The first one should be blocked with <Boon name="aegis"/> from the <Specialization name="mesmer"/> as the <Specialization name="elementalist"/>s will be busy casting <Skill id="5501"/>, learn to dodge the consecutive spinning attacks. It always hits on the _second_ spin animation.
 
@@ -82,7 +82,7 @@ After you capped all three altars, use `/gg` immediately if someone in the party
 
 ## <Boss/> Siax the Corrupted <Item id="50082" text="false"/><Item id="24658" text="false"/><Label>6,138,797 HP</Label>
 
-After the interaction with the red orb in the center of the area, quickly move back to the _Mistlock Singularity_ to avoid aggro from the spawning enemies and stack <Boon name="might"/>.
+After the interaction with the red orb in the center of the area, quickly move back to the _Mistlock Singularity_ to avoid aggro from the spawning enemies and stack <Boon name="might"/>. ( Now that the mistlock gives cooldown, <Specialization name="chronomancer"/> can prestack boons and use the mistlock )
 
 During the fight, break his defiance bar (2000 CC damage) as fast as possible to interrupt his _Caustic Explosion_ skill. Siax will wipe your party if you fail to interrupt it with enough crowd control. Pay attention to his bouncing orb barrages, the _Vomit Toxin_ and the exploding _Volatile Hallucinations_ (below 75% health). Do not stand in the red PBAoE when the inner circle reaches the outer to avoid spawning a _Nightmare Hallucination_.
 
@@ -111,7 +111,7 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
 
 <Grid>
 <Column>
-Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="might"/> before you activate the fight. Don't stand in the center area of the platform on activation or you will receive a <Control name="knockback"/>.
+Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="might"/> next to the mistlock. ( Now that the mistlock gives cooldown, <Specialization name="chronomancer"/> can prestack boons and use the mistlock ). Go into the arena, when you start the fight don't stand in the center area of the platform on activation or you will receive a <Control name="knockback"/>.
 
 Nearly all of Ensolyss' attacks do a <Control name="knockback"/> or <Control name="pull"/>, learn to dodge or walk out of every attack. The most dangerous one is his shockwave-shatter combo, he smashes down a stunning yellow shockwave (like MAMA below 33% health), spawns hallucinations on each players position and shatters them after two seconds.
 
