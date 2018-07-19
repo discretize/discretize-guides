@@ -34,7 +34,7 @@ Use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any 
 
 <Grid>
 <Column>
-Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="pull"/> abilities will cancel any attack it is currently executing. After you killed the Sandbinder youcan use `/gg` to reset the <Specialization name="chronomancer"/>'s and <Specialization name="warrior"/>'s cooldowns for the Amala fight.
+Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="pull"/> abilities will cancel any attack it is currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Specialization name="chronomancer"/>'s and <Specialization name="warrior"/>'s cooldowns for the Amala fight.
 
 <Boon name="aegis"/> is not really helpful here as the _Tornadoes_ quickly remove it.
 </Column>
