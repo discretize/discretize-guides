@@ -40,7 +40,7 @@ Equipment (150 AR and <Trait id="1016" profession="ranger"/>)
 Swap Weapons
 </CardHeader>
 <CardContent>
-* Weapons with <Item id="36053"/>/<Item id="36054"/>
+* Weapons with <Item id="36053"/>/<Item id="24615"/> (<Item id="36054"/> doesn't stack anymore)
 * Torch for <Boon name="might"/> stacking
 </CardContent>
 </Card>
