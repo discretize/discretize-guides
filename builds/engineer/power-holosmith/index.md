@@ -1,11 +1,11 @@
 ---
 title: "Power Holosmith"
-date: "2018-05-16"
+date: "2018-07-01"
 group: "Great Builds"
 role: "Damage"
 profession: "Engineer"
 specialization: "Holosmith"
-benchmark: { small: { dps: 33450, by: "hint [SC]", youtube: "ph1FOgcM43s"}}
+benchmark: { small: { dps: 33097, by: "hint [SC]", youtube: "rVVBwpQOXaU"}}
 skills: [30815, 43739]
 traits: [517]
 conditions: ["Vulnerability", "Blind", "Crippled", "Immobile"]
@@ -140,6 +140,5 @@ CC skills
 </CardContent>
 </Card>
 
-<Video videoId="6_agFDypu-o" videoTitle="Solo Rotation by hint [SC]"/>
 </Column>
 </Grid>
