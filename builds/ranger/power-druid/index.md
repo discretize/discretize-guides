@@ -1,11 +1,11 @@
 ---
 title: "Power Druid"
-date: "2018-05-16"
+date: "2018-07-01"
 group: "Great Builds"
 role: "Support"
 profession: "Ranger"
 specialization: "Druid"
-benchmark: { small: { dps: 16100, by: "muiem [SC]", youtube: "pNe7r2qecf0"}}
+benchmark: { small: { dps: 13808, by: "Target [SC]", youtube: "XBSNtyo_BL8"}}
 skills: [31869, 12495, 12493, 12497, 12498, 12569, 31582]
 traits: [2057, 1016]
 boons: ["Might", "Fury", "Regeneration",  "Swiftness", "Protection", "Stability"]
@@ -134,6 +134,6 @@ CC skills
 </CardContent>
 </Card>
 
-<Video videoId="pNe7r2qecf0" videoTitle="Small Hitbox: 16.1k DPS by muiem [SC]"/>
+<Video videoId="XBSNtyo_BL8" videoTitle="Small Hitbox: 13.8k DPS by Target [SC]"/>
 </Column>
 </Grid>
