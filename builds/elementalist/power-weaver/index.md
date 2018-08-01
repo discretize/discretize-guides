@@ -1,11 +1,11 @@
 ---
 title: "Power Weaver"
-date: "2018-06-30"
+date: "2018-07-01"
 group: "Meta Builds"
 role: "Damage"
 profession: "Elementalist"
 specialization: "Weaver"
-benchmark: { small: { dps: 35898, by: "Not Divorus", youtube: "rbwIUGc64Qc" }, large: { dps: 41024, by: "Tolgon [eS]", youtube: "030SDq7y0gE" }}
+benchmark: { small: { dps: 30746, by: "Roul [SC]", youtube: "TPF1Ur8OVZI" }, large: { dps: 34677, by: "Roul [SC]", youtube: "4OgPFRiDaMI" }}
 skills: [5536]
 traits: [264, 1502]
 boons: ["Might", "Fury", "Swiftness",  "Protection"]
@@ -123,7 +123,7 @@ The rotation is very complex and highly depends on a good <Boon name="alacrity"/
 </CardContent>
 </Card>
 
-<Video videoId="030SDq7y0gE" videoTitle="Large Hitbox: 41k DPS by Tolgon [eS]"/>
+<Video videoId="4OgPFRiDaMI" videoTitle="Huge Hitbox: 34.5k DPS by Roul [SC]"/>
 </Column>
 
 <Column>
