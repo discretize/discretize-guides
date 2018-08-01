@@ -1,11 +1,11 @@
 ---
 title: "Power Daredevil"
-date: "2018-05-16"
+date: "2018-07-01"
 group: "Good Builds"
 role: "Damage"
 profession: "Thief"
 specialization: "Daredevil"
-benchmark: { small: { dps: 30098, by: "NeoVaris [SC]", youtube: "25FSua-l9wM" }}
+benchmark: { small: { dps: 34815, by: "Ramirez [SC]", youtube: "v503BIZmaME" }}
 skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
 conditions: ["Vulnerability","Crippled","Blind","Weakness"]
@@ -125,6 +125,6 @@ CC skills
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
 </CardContent>
 </Card>
-<Video videoId="25FSua-l9wM" videoTitle="Daredevil Staff 30.1k (with Allies) by Neovaris [SC]"/>
+<Video videoId="v503BIZmaME" videoTitle="Daredevil Staff 34.8k by Ramirez [SC]"/>
 </Column>
 </Grid>
