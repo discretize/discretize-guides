@@ -51,7 +51,7 @@ The key to the fight is fast crowd control, as breaking Skorvald's defiance bar 
 
 At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four _Elite Flux Anomalies_ to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies dont have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the emotes and position yourself between the Anomaly and a wall.
 
-It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately after the 4th Anomaly is dead to deal more damage to Skorvald before he continues his attacks, especially at 33%.
+It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately when you reach the 4th Anomaly  to deal more damage to Skorvald before he continues his attacks, especially at 33%.
 
 Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, a Druid is the perfect candidate for this job with staff auto-attack but be ready to dodge if it explodes in party range.
 
@@ -59,13 +59,44 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 </Column>
 </Grid>
 
-<Tips>
-    <Tip specialization="chronomancer">If you don't have a <Specialization name="spellbreaker"/>, run <Skill id="10267"/> for the entire fractal due to the <Instability name="No Pain, No Gain"/> mistlock instability. Alternatively you can use <Skill id="10185"/> which also grants permanent <Boon name="protection"/> to the party upon sharing, but don't use it before a <Skill id="29830"/>, otherwise the cooldown will be too long for the next set of boons.<br/>Keep in mind that the third hit of you auto-attack chain (and from your <Skill id="10173"/> clone) remove a boon as well.</Tip>
-    <Tip specialization="spellbreaker">Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.</Tip>
-    <Tip specialization="weaver">Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> and <Skill id="43638"/> if your group does not plan to nuke the second phase with a portal. Make sure that you have all charges of <Skill id="5539"/> when you reopen on the boss.  
-    If you did not nuke the second phase per portal, you will have to delay your <Skill id="5501"/> until after the **Radiant Fury** to avoid getting <Control name="knockback"/> and 20 stacks of <Condition name="burning"/>.</Tip>
-    <Tip specialization="druid">Combine <Trait id="1038"/> with <Skill id="12569"/> for party <Boon name="stability"/> below 33% health.</Tip>
-</Tips>
+<Tabs>
+<Tab name="Mesmer">
+If you don't have a <Specialization name="spellbreaker"/>, run <Skill id="10267"/> for the entire fractal due to the <Instability name="No Pain, No Gain"/> mistlock instability. Alternatively you can use <Skill id="10185"/> which also grants permanent <Boon name="protection"/> to the party upon sharing, but don't use it before a <Skill id="29830"/>, otherwise the cooldown will be too long for the next set of boons.<br/>Keep in mind that the third hit of you auto-attack chain (and from your <Skill id="10173"/> clone) remove a boon as well.
+</Tab>
+
+<Tab name="spellbreaker">
+Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.
+</Tab>
+
+<Tab name="weaver">
+Use <Skill id="21656"/> if you have less than two weavers, run air to try hard or have might troubles, then make sure to blast on the first and fourth island.  
+
+Use the standard Air Opener with a precast <Skill id="5516"/> from the mistlock. If you group damage is normal you should finish the first phase in <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> with a <Skill id="5624"/> in hand. Drop the hammer, use <Skill id="5680"/> to get faster to the air tubulence. Attune <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and start casting <Skill id="5528"/> before jumping in the air turbulence, you will finish casting it mid air. Attune <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and use <Skill id="5548"/>. Stay in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and finish the anomaly with <Skill id="5491"/> if it is not dead already.
+
+NEVER cast <Skill id="5548"/> on the first anomaly before at least one player is on the island, since the anomaly will then cast the fire aoe, that might kill players before they can move after the air turbulence.
+
+Cast <Skill id="5548"/> and <Skill id="43762"/> on the second anomaly while she evades, attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and begin to cast <Skill id="5552"/> so that it instantly hits, when the evade ends. You will have to jump above the shockwave. Hit the anomaly with <Skill id="41125"/>. If it is not dead attune <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> and cast a new <Skill id="5548"/>. Attune to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> before taking the next air turbulence.
+
+Start with <Skill id="5528"/> on the third anomaly followed by <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and <Skill id="5548"/>. If the mesmer places his wells on this island follow this by two dodge to avoid getting knocked out of the wells. Attune to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> before leaving the island.
+
+If all might blasts were correct and you group fast enough you should have 25 stacks of might now, all boons and elements of rage for 8 secs. 
+
+Place a <Skill id="5548"/> on the last anomaly and take the portal back to Skorvald while summening your <Skill id="5516"/>. The warrior will kill the last anomaly with the weaver fonts. Keep the last anomaly in your target to time your burst according to how fast it dies. Start your cast in this order: <Skill id="5531"/> => <Skill id="5501"/> => <Skill id="5737"/>. Ideally <Skill id="5737"/> finishes casting in the second Skorvald becomes vulnerable again. Continue with <Skill id="5548"/>, <Skill id="41125"/>, <Skill id="5624"/>, <Skill id="5725"/>, <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>, <Skill id="5539"/> x3, 1x <Skill id="5726"/> chain. You can place a <Skill id="5548"/> and cast maybe two additional <Skill id="5491"/> before Skorvald ports. 
+
+If everything went well Skorvald will be at 33% and you can repeat from <Skill id="5680"/>. If you didn't have enough damage start with pre casting <Skill id="5528"/> and so on in the middle after the second charge.
+
+One of the most important things in this fight is to keep up might and boons at the four anomalies. To achieve this you need to be fast enough with your damage, hit your blasts correct and not get hit by the knockdowns.
+
+For the try hard version take three air weavers. The advantage of this composition is that your mesmer can run inspiration domination, which increases alacrity uptime and allows you to nuke again 3-5 seconds faster, with the disadvantage that you really have to look after might. But for daily runs you will probably lose those seconds at the adds or to the nerfed weaver damage and have your cds ready for the nuke anyway. The time difference is maybe 8-10 seconds under ideal circumstances.
+
+</Tab>
+
+<Tab name="druid">
+Combine <Trait id="1038"/> with <Skill id="12569"/> for party <Boon name="stability"/> below 33% health.
+</Tab>
+
+</Tabs>
+
 
 ---
 
@@ -145,12 +176,48 @@ Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time w
 
 After the fight is over, take the portal in the North and move forward to get to Arkk.
 
-<Tips>
-    <Tip specialization="chronomancer">From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics. Note that you can pre-stack clones on Artsariiv with <Skill id="10173"/>.</Tip>
-    <Tip specialization="spellbreaker">Leave a <Skill id="45333"/> and place your banners before you leave for marble bouncing.</Tip>
-    <Tip specialization="weaver">If your group damage is low you can use <Skill id="5501"/> two times per phase, precast the first one in the middle in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>. **Always** place at least a <Skill id="5548"/> on the *Temporaly Anomaly* before using `Nova Launch` to the boss. You can already attune to <Skill id="5494"/> at the Anomaly and burst it with <Skill id="41125"/> before resuming on the boss with <Skill id="5737"/>.</Tip>
-    <Tip specialization="druid">Use <Skill id="31496"/> against the multitude of projectiles, especially against the the orb attacks from the two Elites at the beginning and from Artsariiv before her *Slam* attack.</Tip>
-</Tips>
+<Tabs>
+<Tab name="Mesmer">
+From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics. Note that you can pre-stack clones on Artsariiv with <Skill id="10173"/>.
+</Tab>
+
+<Tab name="spellbreaker">
+Leave a <Skill id="45333"/> and place your banners before you leave for marble bouncing.
+</Tab>
+
+<Tab name="weaver">
+**Nuke**
+
+For the nuke strategy you want to damage Artsariiv to 66% life before the first doom explodes. To achieve this you stack might in the middle and pull from the other side from which she will go, to make sure the **Beaming Smile** will be away from that spot.
+
+Pre cast <Skill id="5528"/> and <Skill id="5548"/> in the middle. You can hit Artsariiv with one <Skill id="5491"/> before you have to `Nova Launch` to the first spot, to avoid being hit by the **Beaming Smile**.
+
+Now summon your <Skill id="5516"/> followed by <Skill id="5531"/>, then cast <Skill id="5548"/> and <Skill id="43762"/>  on Artsariivs landing spot followed by attuning to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/>. Follow this with <Skill id="5737"/> and your normal air opener. You can use <Skill id="5567"/> here for more burst and better range options (<Instability name="Social Akwardness"/>). You want to time <Skill id="5548"/> here so that you finish your <Skill id="5737"/> cast, the instant after you land having jumped over Artsariivs shockwave.
+
+After all the nerfs the nuke window is pretty tight and you will only succeed if your whole party does everything correct. If either the boons the cc or damage is late slightly, the doom will explode.
+
+Advanced groups can let the second anomaly explode and gg the third to save time. But if you failed the first nuke always make sure to kill the second anomaly. Also sometimes there are communication issues, so if you have the third doom always look, if someone killed the anomaly, before killing yourself.
+
+**Normal**
+
+If your group damage is low you can use <Skill id="5501"/> two times per phase, precast the first one in the middle in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>. **Always** place at least a <Skill id="5548"/> on the *Temporaly Anomaly* before using `Nova Launch` to the boss. You can already attune to <Skill id="5494"/> at the Anomaly and burst it with <Skill id="41125"/> before resuming on the boss with <Skill id="5737"/>.
+
+**CC Consumables are strongly adviced for this fight.**
+
+In the first phase three <Item id="8749"/>s or one <Item id="8749"/> and a <Item id="8664"/> will break an add. In the second Phase one <Item id="8664"/> or two <Item id="8749"/>s will break an add. The reason you want the consumables for fast cc is this: If your cc phase is fast enough, your boons will still be up when the boss becomes vulnerable again, leading to much higher damage, shorter fights and less chance to wipe to bad instabilites.
+
+So use `Nova Launch` to either your assigned add or the add no is at and break it fast. Switch to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and pre cast in the middle <Skill id="5528"/>, <Skill id="5501"/>, <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/>, <Skill id="5548"/>, <Skill id="43762"/> and so on.
+
+Also keep in mind if you do not go for the nuke in phase one that this is the first boss where you can use the `Nova Launch` to get all <Skill id="5697"/> in the bosses hitbox.
+
+</Tab>
+
+<Tab name="druid">
+se <Skill id="31496"/> against the multitude of projectiles, especially against the the orb attacks from the two Elites at the beginning and from Artsariiv before her *Slam* attack.
+</Tab>
+
+</Tabs>
+
 
 ---
 
@@ -231,14 +298,39 @@ Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight
 
 The most important thing is to keep calm. Remember that every single ability can be avoided, `Nova Launch` the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!
 
-<Tips>
-    <Tip specialization="mesmer">Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. Remember to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and help against mechanics like *Solar Fury*.<br/>Use <Skill id="10363"/> to pull mobs together at 70% and 40% (other party members can use `Nova Launch` to <Control name="launch"/> mobs closer to the center).</Tip>
-    <Tip specialization="spellbreaker"><Skill id="45160"/> and <Skill id="45333"/> can be used to reflect the orbs from *Solar Fury* if timed correctly.</Tip>
-    <Tip specialization="weaver"> Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5737"/> while turned away to avoid the *Blinding Radiance* <Condition name="fear"/>. Continue with <Skill id="5501"/>.  
-        Always place a <Skill id="5548"/> on the Temporal Anomaly and use <Skill id="5539"/> as backup. If you aim your <Skill id="41125"/> correctly, it hits the boss and the anomaly.  
-        If your damage is good enough, you can skip the second and fourth anomaly by nuking the boss to 70% and 40%. With good damage and fast Orb phases you can also skip the fifth anomaly by nuking the boss from 30% to zero.  
-        Never cast <Skill id="5737"/> or <Skill id="5501"/> during the intermediate phases, instead wait and reopen with them on Arkk.  
-        Precast <Skill id="5528"/> at the end of the orb phases on Arkk, followed by <Skill id="5548"/> and <Skill id="43762"/> half a second before the cc bar appears.  
-        Note that you can abuse <Skill id="5697"/> and get all hits into Arkk by using `Nova Launch` on yourself immediately after starting the whirl.</Tip>
-    <Tip specialization="druid">You can consider running a more defensive setup with <Skill id="12495"/> for <Boon name="protection"/>, but not even that can help if you ignore mechanics.</Tip>
-</Tips>
+<Tabs>
+<Tab name="Mesmer">
+Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. Remember to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and help against mechanics like *Solar Fury*.<br/>Use <Skill id="10363"/> to pull mobs together at 70% and 40% (other party members can use `Nova Launch` to <Control name="launch"/> mobs closer to the center).
+</Tab>
+
+<Tab name="spellbreaker">
+<Skill id="45160"/> and <Skill id="45333"/> can be used to reflect the orbs from *Solar Fury* if timed correctly.
+</Tab>
+
+<Tab name="weaver">
+Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5531"/> followed <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5737"/> while turned away to avoid the *Blinding Radiance* <Condition name="fear"/>. Continue with <Skill id="5501"/>.  
+
+Always place a <Skill id="5548"/> on the Temporal Anomaly and use <Skill id="5539"/> as backup. If you aim your <Skill id="41125"/> correctly, it hits the boss and the anomaly. The same is true for <Skill id="5528"/> in half the spawn positions.
+
+If your damage is good enough, you can skip the second and fourth anomaly by nuking the boss to 70% and 40%. With good damage and fast Orb phases you can also skip the fifth anomaly by nuking the boss from 30% to zero. Never cast <Skill id="5737"/> or <Skill id="5501"/> during the intermediate phases, instead wait and reopen with them on Arkk.
+
+The ideal way to finish your orb fast, is by standing at 45 degrees to it and hitting it with two auto attacks.
+
+Precast <Skill id="5548"/> and <Skill id="43762"/> at the end of the orb phases on Arkk, followed by <Skill id="5501"/>. 
+
+If you have a <Condition name="vulnerability"/> source you will be able to also pre cast <Skill id="5736"/> each phase before the <Skill id="5501"/>.
+
+If you have no <Condition name="vulnerability"/> the cast order is <Skill id="5737"/>,  from 100-80%, <Skill id="5737"/> from 70-50%, <Skill id="5736"/> 40-30% and <Skill id="5737"/> 30-0% (With lower damage this might vary.).
+
+Note that you can abuse <Skill id="5697"/> and get all hits into Arkk by using `Nova Launch` on yourself immediately after starting the whirl.
+
+Keep in mind that your `Nova Launch` does damage now, so make sure you always hit the boss and or adds if you are forced to use it.
+</Tab>
+
+<Tab name="druid">
+You can consider running a more defensive setup with <Skill id="12495"/> for <Boon name="protection"/>, but not even that can help if you ignore mechanics.
+</Tab>
+
+</Tabs>
+
+
