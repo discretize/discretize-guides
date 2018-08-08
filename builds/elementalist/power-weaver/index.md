@@ -12,13 +12,14 @@ boons: ["Might", "Fury", "Swiftness",  "Protection"]
 conditions: ["Weakness", "Vulnerability", "Blind"]
 ---
 
-The current optimal build for Elementalists in fractals is the <Specialization prefix="power" name="weaver"/>. It offers both the highest burst and consistent DPS in the game on large, stationary hitboxes and very good DPS on small hitboxes. The trait <Trait id="1502"/> in combination with <Item id="24868"/> and slaying potions like <Item id="50082"/> put it ahead of other DPS professions. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
+The current optimal build for Elementalists in fractals is the <Specialization prefix="power" name="weaver"/>. It offers a high burst and consistent DPS on large, stationary hitboxes and some DPS on small hitboxes. The trait <Trait id="1502"/> in combination with <Item id="24868"/> and slaying potions like <Item id="50082"/> put it ahead of other DPS professions. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage. 
 
-Additionally with the <Specialization name="chronomancer" prefix="boon"/> and an average uptime of at least ten boons, <Specialization name="weaver" prefix="arcane"/> with <Trait id="1511"/> has become extremly strong.
+Additionally with the <Specialization name="chronomancer" prefix="boon"/> and an average uptime of at least ten boons, <Specialization name="weaver" prefix="arcane"/> with <Trait id="1511"/> has become good against big hitbox and average against small.
 
 Weaver has some utilities in the form of burst <Condition name="vulnerability"/>, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver is really squishy compared to the old Tempest, it has no reflects, no  fast reachable crowd control skills apart from <Skill id="5733"/> and looses access to <Boon name="stability"/> and <Boon name="protection"/> from Overloads.
 
-Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and providing good <Boon name="protection"/> uptimes with <Trait id="264"/>. It also provides around 7 stacks <Boon name="might"/> uptime for the party, even more with around 30% boon duration from <Item id="79722"/> and <Trait id="2004"/>. This allows a replacement of the <Specialization name="druid"/> with another <Specialization name="weaver"/> as there is enough <Boon name="might"/> on the party and you "only" loose <Skill id="31582" profession="ranger"/>, <Skill id="12497" profession="ranger"/> and <Trait id="1016" profession="ranger"/> (redundant with <Trait id="2177"/>) but gain much more DPS.
+Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and providing good <Boon name="protection"/> uptimes with <Trait id="264"/>. It also provides around 7 stacks <Boon name="might"/> uptime for the party, even more with around 30% boon duration from <Item id="79722"/> and <Trait id="2004"/>. This allows a replacement of the <Specialization name="druid"/> with another <Specialization name="weaver"/> as there is enough <Boon name="might"/> on the party and you "only" loose <Skill id="31582" profession="ranger"/>, <Skill id="12497" profession="ranger"/> and <Trait id="1016" profession="ranger"/> (redundant with <Trait id="2177"/>) but gain much more DPS. This realiable might creation combined with the precast power of weaver, makes it the most consistent dps choice in fractals. Meaning you want at least two in a triple dps composition.
+
 
 <Divider>
 Equipment
@@ -110,20 +111,47 @@ The rotation is very complex and highly depends on a good <Boon name="alacrity"/
 2.  Use <Skill id="5501"/> whenever possible and immediately switch to <Skill id="5495" text="false"/> while casting. Cast <Skill id="5528"/> before switching back to <Skill id="5492" text="false"/>, cast <Skill id="43762"/> and finally a new <Skill id="5548"/>.
     1. You can also start in <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>, use <Skill id="5548"/>, <Skill id="5679"/>, attune to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> use <Skill id="5528"/> and cast <Skill id="5501"/> while attuning back to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/>.      
 3.  While attuned to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> or <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> and <Skill id="5548"/>, <Skill id="41125"/> and <Skill id="43762"/> are on cooldown use a conjured weapon and switch back to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> during the first attack:
-    1. In <Skill id="5624"/>: <Skill id="5725"/> (inside the bosses hitbox) => 2x auto-attack chain.
+    1. In <Skill id="5624"/>: <Skill id="5725"/> (inside the bosses hitbox) => 1x auto-attack chain. If the breakbar is not broken after you summond your <Skill id="5624"/> use <Skill id="5733"/> before <Skill id="5725"/>.
     2. Or in <Skill id="5516"/>: Only when you can whirl against a wall <Skill id="5697"/> => <Skill id="5517"/> => <Skill id="5531"/>. In the standard rotation this weapon is used in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> to skip <Skill id="5519" text="false"/>.
-    3. Or in <Skill id="5567"/>: <Skill id="5568"/> => <Skill id="5723"/> => <Skill id="5720"/>.
+    3. Or in <Skill id="5567"/>: <Skill id="5568"/> => <Skill id="5723"/> => <Skill id="5720"/>. Skip <Skill id="5720"/> if no breakbar is up.
 4.  Switch to <Skill id="5494" text="false"/> when <Skill id="5737"/> is ready or will be in <4 seconds. Cast <Skill id="41125"/> and <Skill id="5552"/> first and switch back to <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> while casting <Skill id="5737"/> to profit from the better modifiers in <Skill id="5492"/>
-    1. If <Skill id="5501"/> is ready skip <Skill id="41125"/> and <Skill id="5552"/> and cast <Skill id="5737"/> immediately followed by <Skill id="5501"/> while switching back to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>
+    1. If <Skill id="5501"/> is ready skip <Skill id="41125"/> and <Skill id="5552"/> and cast <Skill id="5737"/> immediately followed by <Skill id="5501"/> while switching back to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>. 
     2. You can also use this rotation to cast <Skill id="5737"/>: Start in <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>, <Skill id="5548" text="false"/>, <Skill id="5679" text="false"/>, <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>,  <Skill id="5528" text="false"/>,<Skill id="43762" text="false"/> , <Skill id="5501" text="false"/>, <Skill id="5494" text="false"/>/<Skill id="5495" text="false"/>, <Skill id="42321" text="false"/>, <Skill id="5737" text="false"/>, <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/>, <Skill id="5548" text="false"/>, <Skill id="41125" text="false"/> and continue with a weapon.
+    3. If you have a source for <Condition name="vulnerability"/> only use <Skill id="5737"/> on bosses where you will only cast one storm per phase, like Skorvald and Ensolyss, or as last storm if the boss is close to death, otherwise cast <Skill id="5736"/>.
 5.  Use <Skill id="5539"/> (or <Skill id="5638"/>) three times while double-attuned with <Trait id="2131"/> and holding <Skill id="5624"/> (Ferocity boost), preferably while the defiance bar is broken.
-6.  Use <Skill id="5679"/> if you can't finish another <Skill id="5491"/> before leaving <Skill id="5492" text="false"/>
-7.  Don't start casting <Skill id="5491"/> if you can't finish it
+6.  Use <Skill id="5679"/> to cancel aftercast from auto attacks.
+7.  If you are in <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> and all relevant skills are on cd attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/>. Cast <Skill id="5552"/>, <Skill id="41125"/> and one <Skill id="5518"/> while attuning back to <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/>.
 8.  If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> to get a last burst with <Skill id="41125"/> in.
 </CardContent>
 </Card>
 
-<Video videoId="030SDq7y0gE" videoTitle="Large Hitbox: 41k DPS by Tolgon [eS]"/>
+<Card>
+<CardHeader>
+Fire Opener only if you have a <Condition name="vulnerability"/> source.
+</CardHeader>
+<CardContent>
+
+### Rotation
+
+1. Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>. If you had a mistlock use <Skill id="5531"/> followed by <Skill id="5528"/>. Otherwise start with <Skill id="5528"/> before the fight starts.
+2. Attune to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and cast <Skill id="5548"/> and <Skill id="43762"/>.
+3. Cast <Skill id="5736"/> while attuning to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> followed by <Skill id="5501"/>.
+4. Cast <Skill id="5548"/>, <Skill id="5624"/>=><Skill id="5725"/> (inside the bosses hitbox) => 1x <Skill id="5726"/> chain. Use <Skill id="5539"/> x3 while you have the <Skill id="5624"/> in hand. 
+    1. If the breakbar is not broken after you summond your <Skill id="5624"/> use <Skill id="5733"/> before <Skill id="5725"/>.
+5. Cast <Skill id="5679"/>, <Skill id="5548"/>  and attune <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>.
+6. Use <Skill id="5528"/> and summon your <Skill id="5516"/>, <Skill id="5517"/> => <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> => <Skill id="5531"/>.
+7. Cast <Skill id="5548"/> and <Skill id="43762"/>. Attune <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>
+8. Use <Skill id="5491"/> x3, <Skill id="5679"/>, <Skill id="5548"/>, Attune <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/>.
+9. Cast <Skill id="5552"/>, <Skill id="41125"/> and one <Skill id="5518"/> while attuning back to <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/>.
+
+</CardContent>
+</Card>
+
+<Video videoId="4OgPFRiDaMI" videoTitle="Large Hitbox: 34.677k DPS by Roul [SC]"/>
+
+
+
+
 </Column>
 
 <Column>
@@ -133,7 +161,9 @@ Opener
 </CardHeader>
 <CardContent>
 ### Pre-casting
-Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and pre-cast <Skill id="5528"/> three seconds before the fight starts. Switch to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and use <Skill id="5548"/> and <Skill id="43762"/> a moment before <Skill id="5528"/> triggers. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and continue with the normal opener below.
+Keep in mind you can use mistlocks to precast your <Skill id="5516"/> and precast one <Skill id="5531"/> before starting your opener.
+
+Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and pre-cast <Skill id="5528"/> three seconds before the fight starts. Switch to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and use <Skill id="5548"/> and <Skill id="43762"/> a moment before <Skill id="5528"/> triggers. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and continue with the normal opener below if you have no <Condition name="vulnerability"/> source. If you have a  <Condition name="vulnerability"/> cast <Skill id="5736"/> and continue with the fire opener.
 
 ### Normal opener
 
@@ -144,7 +174,7 @@ Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and pre
     1. <Skill id="5725"/>
     2. <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>
     3. <Skill id="5539"/> x3
-    4. 2x <Skill id="5726"/> chain
+    4. 1x <Skill id="5726"/> chain
 5. <Skill id="5548"/> and <Skill id="5679"/>
 6. Switch to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>
 7. <Skill id="5528"/>
