@@ -85,6 +85,7 @@ Situational
 | <Skill id="44239" size="big" text="false"/> | An alternative healing skill providing additional group heal. | 
 | <Skill id="5507" size="big" text="false"/> | An alternative healing skill providing a strong condition cleanse. | 
 | <Skill id="44926" size="big" text="false"/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
+| <Skill id="21656" size="big" text="false"/> | Alternative blast heal. Useful if might uptime is low.  |
 | <Skill id="5641" size="big" text="false"/> | Provides three blocks (e.g. Aether blade console room, Underground Facility).|
 | <Trait id="1673" size="big" text="false"/> | If you have no problems with survivability, you can take this trait for a higher <Boon name="retaliation"/> uptime. |
 | <Skill id="5639" size="big" text="false"/> | Used for personal <Boon name="stability"/> (e.g. Aether blade console room, Underground Facility). |
