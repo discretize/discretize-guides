@@ -1,11 +1,11 @@
 ---
 title: "Condition Scourge"
-date: "2018-04-17"
+date: "2018-07-01"
 group: "Good Builds"
 role: "Damage"
 profession: "Necromancer"
 specialization: "Scourge"
-benchmark: { small: { dps: 30057, by: "Nightmare [SC]", youtube: "55C2a5ITXfo"}}
+benchmark: { small: { dps: 28593, by: "Nightmare [SC]", youtube: "eWKDAG1gXnM"}}
 skills: [10689, 10602, 10606]
 traits: [816, 875]
 conditions: ["Vulnerability", "Crippled", "Blind", "Weakness", "Immobile"]
@@ -58,7 +58,7 @@ Build
 <Column width="9">
 <Traits traits1Id="39" traits1="Curses" traits1Selected="815,816,801" traits2Id="50" traits2="Soul Reaping" traits2Selected="875,861,905" traits3Id="60" traits3="Scourge" traits3Selected="2074,2067,2164"/>
 <Skills utilitySkill1="43148" utilitySkill2="10689" utilitySkill3="10544" utilitySkill4="10606" utilitySkill5="10549"/>
-<Video videoId="55C2a5ITXfo" videoTitle="30057 DPS by Nightmare [SC]"/>
+<Video videoId="eWKDAG1gXnM" videoTitle="28.6 DPS by Nightmare [SC]"/>
 </Column>
 <Column>
 
