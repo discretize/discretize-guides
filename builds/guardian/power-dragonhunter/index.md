@@ -1,11 +1,11 @@
 ---
 title: "Power Dragonhunter"
-date: "2018-05-16"
+date: "2018-07-01"
 group: "Great Builds"
 role: "Damage"
 profession: "Guardian"
 specialization: "Dragonhunter"
-benchmark: { large: { dps: 31805, by: "Nightmare [SC]", youtube: "3D5AodiyTdk"}}
+benchmark: { large: { dps: 32695, by: "Nightmare [SC]", youtube: "oG4jaq3g9pM"}}
 skills: [30783, 30039, 9153, 9251]
 boons: ["Retaliation", "Aegis"]
 conditions: ["Vulnerability", "Blind", "Crippled"]
@@ -119,6 +119,6 @@ CC skills
 </CardContent>
 </Card>
 
-<Video videoId="3D5AodiyTdk" videoTitle="Large Hitbox: 31.8k DPS by Nightmare [SC]"/>
+<Video videoId="oG4jaq3g9pM" videoTitle="Large Hitbox: 32.7k DPS by Nightmare [SC]"/>
 </Column>
 </Grid>
