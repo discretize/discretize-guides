@@ -1,11 +1,11 @@
 ---
 title: "Condition Firebrand"
-date: "2018-05-16"
+date: "2018-07-01"
 group: "Good Builds"
 role: "Damage"
 profession: "Guardian"
 specialization: "Firebrand"
-benchmark: { small: { dps: 34005, by: "Nightmare [SC]", youtube: "00-DS9GbzeE" }}
+benchmark: { small: { dps: 32803, by: "Nightmare [SC]", youtube: "z3DZ3VnXD2Q" }}
 skills: [41714, 9187, 44364, 9154, 29965, 40915]
 traits: [571]
 boons: ["Quickness", "Might", "Fury", "Retaliation", "Protection", "Swiftness", "Regeneration", "Vigor", "Aegis", "Stability", "Resistance"]
@@ -15,6 +15,8 @@ conditions: ["Burning", "Immobile", "Crippled"]
 The <Specialization name="firebrand" prefix="condition"/> was hit hard by nerfs, but still a good condition class to play in fractals. Offers so much support it really helps players with little experience in fractals. Has everything from reflects, CC to condition cleanse and boonspam.
 
 This is the Viper alternative of the build. Ideally Griveing stats would be the best for fractals (short fights, strong bursts needed), but since Grieving is only acquireable through raids I went with Viper so everyone can use the build, even if they do not raid. So if you want to go with high-end build go with full Grieving (armor,weapons,trinkets).
+
+We use the old Zeal/Radiance since unlike raids we have a lot of trash mobs in fractals , so you benefit more from this traitline duo.
 
 <Divider>
 Equipment
@@ -104,7 +106,6 @@ Situational
 | <Skill id="9251" size="big" text="false"/> | A stationary reflect lasting for 10 seconds. |
 </CardContent>
 </Card>
-<Video videoId="3D5AodiyTdk" videoTitle="Large Hitbox: 31.8k DPS by Nightmare [SC]"/>
 <Card>
 <CardHeader>
 CC skills
