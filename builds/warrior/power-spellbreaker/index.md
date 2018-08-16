@@ -1,11 +1,11 @@
 ---
 title: "Power Spellbreaker"
-date: "2018-05-16"
+date: "2018-07-01"
 group: "Great Builds"
 role: "Damage"
 profession: "Warrior"
 specialization: "Spellbreaker"
-benchmark: { small: { dps: 36790, by: "Tempys [SC]", youtube: "6H4kDruLOeg" }}
+benchmark: { small: { dps: 33000, by: "Tempys [SC]", youtube: "6rjkKOCRmv4" }}
 skills: [45333]
 conditions: ["Weakness", "Vulnerability"]
 ---
@@ -167,6 +167,6 @@ If using <Skill id="14483"/>:
 </CardContent>
 </Card>
 
-<Video videoId="6H4kDruLOeg" videoTitle="Small Hitbox: 36.7k DPS by Tempys [SC]"/>
+<Video videoId="6rjkKOCRmv4" videoTitle="Small Hitbox: 33k DPS by Tempys [SC]"/>
 </Column>
 </Grid>
