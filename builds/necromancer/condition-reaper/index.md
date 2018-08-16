@@ -1,11 +1,11 @@
 ---
 title: "Condition Reaper"
-date: "2018-04-17"
+date: "2018-07-01"
 group: "Good Builds"
 role: "Damage"
 profession: "Necromancer"
 specialization: "Reaper"
-benchmark: { small: { dps: 29504, by: "Farbstoff [LN]", youtube: "Y-NDFMLL5is"}}
+benchmark: { small: { dps: 28295, by: "Target [SC]", youtube: "hs8_79bWlBw"}}
 skills: [10689, 10602, 10606]
 traits: [816, 875]
 conditions: ["Chilled", "Vulnerability", "Crippled", "Blind", "Weakness", "Immobile"]
@@ -109,7 +109,7 @@ Tips & skill usage
 </CardContent>
 </Card>
 
-<Video videoId="Y-NDFMLL5is" videoTitle="29.5k DPS by Farbstoff [LN]"/>
+<Video videoId="hs8_79bWlBw" videoTitle="29.2k DPS by Target [SC]"/>
 </Column>
 
 <Column>
