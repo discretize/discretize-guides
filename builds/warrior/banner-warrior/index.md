@@ -1,11 +1,11 @@
 ---
 title: "Banner Warrior"
-date: "2018-05-17"
+date: "2018-07-01"
 group: "Meta Builds"
 role: "Support"
 profession: "Warrior"
 specialization: "Warrior"
-benchmark: { small: { dps: 27490, by: "Moorbazan [qT]", youtube: "rl2pLwgabyU" }}
+benchmark: { small: { dps: 26475, by: "", youtube: "" }}
 skills: [14407, 14405, 45252, 45333]
 traits: [1482]
 conditions: ["Vulnerability"]
@@ -204,8 +204,8 @@ WIth mainhand dagger on <Specialization name="spellbreaker"/>:
 </CardContent>
 </Card>
 
-<Video videoId="rl2pLwgabyU" videoTitle="Axe/Axe by Moorbazan [qT]"/>
 
-<Video videoId="PqFXnxm8L1s" videoTitle="Greatsword + Mace/Axe by Moorbazan [qT]"/>
+
+<Video videoId="TKiTXjFYxEI" videoTitle="Greatsword + Axe/Axe by Helli [SC]"/>
 </Column>
 </Grid>
