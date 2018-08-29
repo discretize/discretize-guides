@@ -1,14 +1,29 @@
 ---
-title: "Shattered Observatory"
-date: "2018-04-17"
-image: "./images/header.jpg"
-group: "Challenge Mode"
+title: 'Shattered Observatory'
+date: '2018-04-17'
+image: './images/header.jpg'
+group: 'Challenge Mode'
 api: 3458
 bosses: 3
 difficulties: [{ level: 100, ar: 150 }]
-record: { time: "9:56", by: { name: "Snow Crows", tag: "SC" }, youtube: [{ id: "cLTNHl_A28I", name: "Van Gherwen", specialization: "Chronomancer" }, { id: "phbHkROKlm8", name: "Muto", specialization: "Berserker" }, { id: "ME2QF0X_NJo", name: "hint", specialization: "Tempest" }, { id: "RLkDIlMEx8U", name: "Roul", specialization: "Dragonhunter" }]}
-cycle: "Day"
-potions: [{ id: 50082, description: "against Arkk" }]
+record:
+  {
+    time: '9:56',
+    by: { name: 'Snow Crows', tag: 'SC' },
+    youtube:
+      [
+        {
+          id: 'cLTNHl_A28I',
+          name: 'Van Gherwen',
+          specialization: 'Chronomancer',
+        },
+        { id: 'phbHkROKlm8', name: 'Muto', specialization: 'Berserker' },
+        { id: 'ME2QF0X_NJo', name: 'hint', specialization: 'Tempest' },
+        { id: 'RLkDIlMEx8U', name: 'Roul', specialization: 'Dragonhunter' },
+      ],
+  }
+cycle: 'Day'
+potions: [{ id: 50082, description: 'against Arkk' }]
 sigils: [{ id: 24615 }, { id: 24868 }]
 consumables: [78978, 8759, 8678, 8732]
 ---
@@ -16,12 +31,12 @@ consumables: [78978, 8759, 8678, 8732]
 ## <Boss/> Skorvald the Shattered <Label>5,551,340 HP</Label>
 
 <Grid>
-<Column>
+<GridItem>
 Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the *Mistlock Singularity* after accepting the Harbringer's challenge, stack <Boon name="might"/> on the platform below and start the encounter by activating the orb in the center of the platform.
-</Column>
-<Column width="5" compact>
-<Image src="./images/skorvald.jpg" title="Skorvald the Shattered" compact/>
-</Column>
+</GridItem>
+<GridItem sm="4">
+<Image src="./images/skorvald.jpg" caption="Skorvald the Shattered" compact/>
+</GridItem>
 </Grid>
 
 <Mechanics>
@@ -42,10 +57,10 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 </Mechanics>
 
 <Grid>
-<Column width="4" compact>
-<Image src="./images/elite-flux-anomaly.jpg" title="An Elite Flux Anomaly" compact/>
-</Column>
-<Column>
+<GridItem sm="3">
+<Image src="./images/elite-flux-anomaly.jpg" caption="An Elite Flux Anomaly" compact/>
+</GridItem>
+<GridItem>
 ### Tactic
 The key to the fight is fast crowd control, as breaking Skorvald's defiance bar prevents most of the mechanics. Immediately break it at the begin and bring him down to 66% health.
 
@@ -56,23 +71,23 @@ It is worth placing a <Item id="78978"/> portal on the main platform and opening
 Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, a Druid is the perfect candidate for this job with staff auto-attack but be ready to dodge if it explodes in party range.
 
 After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his defiance bar, if he is not dead yet break the bar and finish him.
-</Column>
+</GridItem>
 </Grid>
 
-<Tips>
-    <Tip specialization="chronomancer">If you don't have a <Specialization name="spellbreaker"/>, run <Skill id="10267"/> for the entire fractal due to the <Instability name="No Pain, No Gain"/> mistlock instability. Alternatively you can use <Skill id="10185"/> which also grants permanent <Boon name="protection"/> to the party upon sharing, but don't use it before a <Skill id="29830"/>, otherwise the cooldown will be too long for the next set of boons.<br/>Keep in mind that the third hit of you auto-attack chain (and from your <Skill id="10173"/> clone) remove a boon as well.</Tip>
-    <Tip specialization="spellbreaker">Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.</Tip>
-    <Tip specialization="weaver">Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> and <Skill id="43638"/> if your group does not plan to nuke the second phase with a portal. Make sure that you have all charges of <Skill id="5539"/> when you reopen on the boss.  
-    If you did not nuke the second phase per portal, you will have to delay your <Skill id="5501"/> until after the **Radiant Fury** to avoid getting <Control name="knockback"/> and 20 stacks of <Condition name="burning"/>.</Tip>
-    <Tip specialization="druid">Combine <Trait id="1038"/> with <Skill id="12569"/> for party <Boon name="stability"/> below 33% health.</Tip>
-</Tips>
+<Tabs>
+    <Tab specialization="chronomancer">If you don't have a <Specialization name="spellbreaker"/>, run <Skill id="10267"/> for the entire fractal due to the <Instability name="No Pain, No Gain"/> mistlock instability. Alternatively you can use <Skill id="10185"/> which also grants permanent <Boon name="protection"/> to the party upon sharing, but don't use it before a <Skill id="29830"/>, otherwise the cooldown will be too long for the next set of boons.<br/>Keep in mind that the third hit of you auto-attack chain (and from your <Skill id="10173"/> clone) remove a boon as well.</Tab>
+    <Tab specialization="spellbreaker">Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.</Tab>
+    <Tab specialization="weaver">Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> and <Skill id="43638"/> if your group does not plan to nuke the second phase with a portal. Make sure that you have all charges of <Skill id="5539"/> when you reopen on the boss.  
+    If you did not nuke the second phase per portal, you will have to delay your <Skill id="5501"/> until after the **Radiant Fury** to avoid getting <Control name="knockback"/> and 20 stacks of <Condition name="burning"/>.</Tab>
+    <Tab specialization="druid">Combine <Trait id="1038"/> with <Skill id="12569"/> for party <Boon name="stability"/> below 33% health.</Tab>
+</Tabs>
 
 ---
 
 ## Intermediate part
 
 <Grid>
-<Column>
+<GridItem>
 After Skorvald is dead, take the portal to the East and take the left portal in the control center area. You can activate a <Item id="78786"/> to walk during the cutscene and save some time.
 
 You gain a new special action key: `Nova Launch`. For the moment, it is a 2100-range teleport with stunbreak that blocks the next attack (1.75s <Boon name="aegis"/>). Its cooldown refreshes after you bounce a _Globolla Marble_.
@@ -80,10 +95,10 @@ You gain a new special action key: `Nova Launch`. For the moment, it is a 2100-r
 You will encounter several glass mobs on the way to the second boss, there are no differences to the regular Shattered Observatory. After the first group of mobs, you will have to bounce a white _Globolla Marble_ nine times with your head to progress.
 
 If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip directly to Artsarriv using [this cut](https://www.youtube.com/watch?v=QBvKQu9EqEc), otherwise use your `Nova Launch` on the next platform to jump to the elite mob and kill it to proceed to Artsariiv.
-</Column>
-<Column width="6" compact>
-<Image src="./images/way_to_artsariiv.jpg" title="The way to Artsariiv" compact/>
-</Column>
+</GridItem>
+<GridItem sm="4">
+<Image src="./images/way_to_artsariiv.jpg" caption="The way to Artsariiv" compact/>
+</GridItem>
 </Grid>
 
 ---
@@ -91,7 +106,7 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 ## <Boss/> Artsariiv <Label>5,962,266 HP</Label>
 
 <Grid>
-<Column>
+<GridItem>
 The second boss of the fractal is Artsariiv. The encounter gets activated by bouncing a *Globolla Marble* into her, be sure to prepare <Boon name="might"/> and skills in the northwest beforehand.
 
 Artsariiv summons copies which split into smaller clones upon death, they use martial art skills, <Control name="knockdown"/>, shoot shocking projectiles and apply a lot of damaging conditions. Discuss whether you kill all adds (safe tactic) or not.
@@ -101,15 +116,15 @@ Assign a player for the _Globolla Marble_ bouncing (typically the <Specializatio
 You will need a lot of crowd control skills, consumables like <Item id="8759"/> and <Item id="8678"/> are very strong here.
 
 **Use your `Nova Launch` special action key to quickly move around the platform, the <Boon name="aegis"/> from it counters nearly all mechanics.**
-</Column>
-<Column width="6" compact>
-<Image src="./images/artsariiv.jpg" title="Artsariiv: The second boss" compact/>
-</Column>
+</GridItem>
+<GridItem sm="4">
+<Image src="./images/artsariiv.jpg" caption="Artsariiv: The second boss" compact/>
+</GridItem>
 </Grid>
 
 <Mechanics>
 <Grid>
-<Column>
+<GridItem>
 | | |
 | --- | --- |
 | **Beaming Smile** | Similar to Skorvald below 50% health, Artsariiv generates three large laser beams and projects a white beam onto players which inflicts high damage, <Condition name="blind"/> and <Condition name="fear"/>. Turn away from the source to prevent application. |
@@ -120,12 +135,12 @@ You will need a lot of crowd control skills, consumables like <Item id="8759"/> 
 | **Slam** | Deals <Control name="knockback"/> and deals damage in a short range around Artsariiv. Recognizable by an orange circle around her, simply dodge it. |
 | **Mib Ring** | Artsariiv herself and all her clones during the intermediate phases create a purple miasma field inside their hitboxes, dont stand too close to avoid damage. |
 | **Globolla Marble** | **Only below 66% health.** Artsariiv throws a huge, white *Globolla Marble* which needs to be bounced back to her. The next position of the marble is always indicated by a large white circle, the next but one position by a smaller white circle.<br/>Use `Nova Launch` to travel between the locations as it refreshes after each bounce. Usually the <Specialization name="warrior"/> soloes this mechanic, but other players should keep an eye on it and serve as a backup in case the main bouncer gets *Corporal Reassignment*.
-</Column>
+</GridItem>
 
-<Column width="4" compact>
-<Image src="./images/so-doom.jpg" title="A player doomed to explode"/>
-<Image src="./images/so-temporal-anomaly.jpg" title="A Temporal Anomaly"/>
-</Column>
+<GridItem sm="3">
+<Image src="./images/so-doom.jpg" caption="A player doomed to explode"/>
+<Image src="./images/so-temporal-anomaly.jpg" caption="A Temporal Anomaly"/>
+</GridItem>
 </Mechanics>
 </Grid>
 
@@ -145,19 +160,19 @@ Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time w
 
 After the fight is over, take the portal in the North and move forward to get to Arkk.
 
-<Tips>
-    <Tip specialization="chronomancer">From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics. Note that you can pre-stack clones on Artsariiv with <Skill id="10173"/>.</Tip>
-    <Tip specialization="spellbreaker">Leave a <Skill id="45333"/> and place your banners before you leave for marble bouncing.</Tip>
-    <Tip specialization="weaver">If your group damage is low you can use <Skill id="5501"/> two times per phase, precast the first one in the middle in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>. **Always** place at least a <Skill id="5548"/> on the *Temporaly Anomaly* before using `Nova Launch` to the boss. You can already attune to <Skill id="5494"/> at the Anomaly and burst it with <Skill id="41125"/> before resuming on the boss with <Skill id="5737"/>.</Tip>
-    <Tip specialization="druid">Use <Skill id="31496"/> against the multitude of projectiles, especially against the the orb attacks from the two Elites at the beginning and from Artsariiv before her *Slam* attack.</Tip>
-</Tips>
+<Tabs>
+    <Tab specialization="chronomancer">From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics. Note that you can pre-stack clones on Artsariiv with <Skill id="10173"/>.</Tab>
+    <Tab specialization="spellbreaker">Leave a <Skill id="45333"/> and place your banners before you leave for marble bouncing.</Tab>
+    <Tab specialization="weaver">If your group damage is low you can use <Skill id="5501"/> two times per phase, precast the first one in the middle in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>. **Always** place at least a <Skill id="5548"/> on the *Temporaly Anomaly* before using `Nova Launch` to the boss. You can already attune to <Skill id="5494"/> at the Anomaly and burst it with <Skill id="41125"/> before resuming on the boss with <Skill id="5737"/>.</Tab>
+    <Tab specialization="druid">Use <Skill id="31496"/> against the multitude of projectiles, especially against the the orb attacks from the two Elites at the beginning and from Artsariiv before her *Slam* attack.</Tab>
+</Tabs>
 
 ---
 
 ## <Boss red/> Arkk <Item id="50082" text="false"/><Label>9,942,250 HP</Label>
 
 <Grid>
-<Column>
+<GridItem>
 Arkk is the third and final boss of the fractal. An attentive player may have noticed the `Nova Launch` special action key became even stronger now, doing medium damage, a 200 <Control name="launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
 
 In contrast to the other enemies in this fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him (_confirmed as of 2018/02/06 patch_).
@@ -166,15 +181,15 @@ Arkk himself has no melee attacks, but a lot of abilities which can make the fig
 
 Stack <Boon name="might"/> (you can use `Nova Launch`) and renew your _Mistlock Singularity_ before activating the orb to teleport to Arkk.
 
-</Column>
-<Column width="6" compact>
-<Image src="./images/arkk.jpg" title="Arkk: The final boss" compact/>
-</Column>
+</GridItem>
+<GridItem sm="4">
+<Image src="./images/arkk.jpg" caption="Arkk: The final boss" compact/>
+</GridItem>
 </Grid>
 
 <Mechanics>
 <Grid>
-<Column>
+<GridItem>
 | | |
 | --- | --- |
 | **Blinding Radiance** | Similar to the other bosses, Arkk has the white beam ability which damages players facing him and inflicts <Condition name="blind"/> and <Condition name="fear"/>. It is easily recognizable by a large eye icon above Arkk. If you have problems receiving damage despite looking away, try to wiggle left/right while turned away to minimize the risk. |
@@ -188,13 +203,13 @@ Stack <Boon name="might"/> (you can use `Nova Launch`) and renew your _Mistlock 
 | **Solar Stomp** | **Only below 40% health.** Arkk vanishes in dust evading all attacks, when he reappears he stomps the ground, damages nearby enemies, executes a <Control name="knockback"/> and sends out a volley of bolts. Be careful to not let it push you off the platform. |
 | **Rolling Chaos** | **Only below 40% health.** Recognizable by a small red arrow emanating from Arkk. Launches a rolling red marble in the designated direction which deals high damage. |
 | **Beaming Smile / DDR** | **Only below 30% health.** Similar to the previous bosses, Arkk summons three large laser beams while simultaneously projecting the white beams onto players. Move out and turn away. |
-</Column>
+</GridItem>
 
-<Column width="4" compact>
-<Image src="./images/so-arkk-eye.jpg" title="The Blinding Radiance ability"/>
-<Image src="./images/so-arkk-solar.jpg" title="Arkk preparing Solar Fury"/>
-<Image src="./images/so-arkk-green.jpg" title="Temporal Realignment"/>
-</Column>
+<GridItem sm="3">
+<Image src="./images/so-arkk-eye.jpg" caption="The Blinding Radiance ability"/>
+<Image src="./images/so-arkk-solar.jpg" caption="Arkk preparing Solar Fury"/>
+<Image src="./images/so-arkk-green.jpg" caption="Temporal Realignment"/>
+</GridItem>
 </Grid>
 </Mechanics>
 
@@ -212,7 +227,7 @@ When Arkk reaches 80% health, he gains <Effect name="invulnerability"/> and play
 
 A common strategy is to assign four players to the spawning locations in the North, East, South and West, as the Solar Blooms fixate on the closest player a few seconds after their spawn. Players take aggro of their designated Solar Bloom and kite them clockwise to the next pillar on the right. You can also use direct damage skills to push back the Blooms.
 
-<Image src="./images/so-solar-bloom.jpg" title="Solar Blooms fixate on the closest player"/>
+<Image src="./images/so-solar-bloom.jpg" caption="Solar Blooms fixate on the closest player"/>
 
 The fifth, remaining player should be a DPS ready to take out a possibly spawning _Temporal Anomaly_ during the phase. This player must also be ready to join the player with the green circle.
 
@@ -231,14 +246,14 @@ Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight
 
 The most important thing is to keep calm. Remember that every single ability can be avoided, `Nova Launch` the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!
 
-<Tips>
-    <Tip specialization="mesmer">Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. Remember to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and help against mechanics like *Solar Fury*.<br/>Use <Skill id="10363"/> to pull mobs together at 70% and 40% (other party members can use `Nova Launch` to <Control name="launch"/> mobs closer to the center).</Tip>
-    <Tip specialization="spellbreaker"><Skill id="45160"/> and <Skill id="45333"/> can be used to reflect the orbs from *Solar Fury* if timed correctly.</Tip>
-    <Tip specialization="weaver"> Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5737"/> while turned away to avoid the *Blinding Radiance* <Condition name="fear"/>. Continue with <Skill id="5501"/>.  
+<Tabs>
+    <Tab specialization="mesmer">Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. Remember to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and help against mechanics like *Solar Fury*.<br/>Use <Skill id="10363"/> to pull mobs together at 70% and 40% (other party members can use `Nova Launch` to <Control name="launch"/> mobs closer to the center).</Tab>
+    <Tab specialization="spellbreaker"><Skill id="45160"/> and <Skill id="45333"/> can be used to reflect the orbs from *Solar Fury* if timed correctly.</Tab>
+    <Tab specialization="weaver"> Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5737"/> while turned away to avoid the *Blinding Radiance* <Condition name="fear"/>. Continue with <Skill id="5501"/>.  
         Always place a <Skill id="5548"/> on the Temporal Anomaly and use <Skill id="5539"/> as backup. If you aim your <Skill id="41125"/> correctly, it hits the boss and the anomaly.  
         If your damage is good enough, you can skip the second and fourth anomaly by nuking the boss to 70% and 40%. With good damage and fast Orb phases you can also skip the fifth anomaly by nuking the boss from 30% to zero.  
         Never cast <Skill id="5737"/> or <Skill id="5501"/> during the intermediate phases, instead wait and reopen with them on Arkk.  
         Precast <Skill id="5528"/> at the end of the orb phases on Arkk, followed by <Skill id="5548"/> and <Skill id="43762"/> half a second before the cc bar appears.  
-        Note that you can abuse <Skill id="5697"/> and get all hits into Arkk by using `Nova Launch` on yourself immediately after starting the whirl.</Tip>
-    <Tip specialization="druid">You can consider running a more defensive setup with <Skill id="12495"/> for <Boon name="protection"/>, but not even that can help if you ignore mechanics.</Tip>
-</Tips>
+        Note that you can abuse <Skill id="5697"/> and get all hits into Arkk by using `Nova Launch` on yourself immediately after starting the whirl.</Tab>
+    <Tab specialization="druid">You can consider running a more defensive setup with <Skill id="12495"/> for <Boon name="protection"/>, but not even that can help if you ignore mechanics.</Tab>
+</Tabs>
