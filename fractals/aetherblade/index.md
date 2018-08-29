@@ -35,8 +35,13 @@ You can stack <Effect name="stealth"/> before entering the water to cheat the ex
 Clear the group of *Elite Aetherblades* to open the door.
 
 <Tabs>
-    <Tab specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tab>
-    <Tab specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/> at the beginning.</Tab>
+<Tab specialization="thief">
+Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+</Tab>
+
+<Tab specialization="ranger">
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/> at the beginning.
+</Tab>
 </Tabs>
 </GridItem>
 
@@ -64,9 +69,17 @@ You don't need to kill a single mob and can bypass all traps with the following 
 3.  The team splits up to activate the second set of consoles (the spinning lasers won't be active if you're fast enough)
 
 <Tabs>
-    <Tab specialization="mesmer">Use <Skill id="29578"/> to teleport up and cast <Skill id="30305"/> or any Shatter skill with <Trait id="740"/> to remove <Condition name="immobile"/>.</Tab>
-    <Tab specialization="elementalist">Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" text="false"/> for additional condition clear with <Skill id="5551"/>.</Tab>
-    <Tab specialization="daredevil">You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> as condition clears.</Tab>
+<Tab specialization="mesmer">
+Use <Skill id="29578"/> to teleport up and cast <Skill id="30305"/> or any Shatter skill with <Trait id="740"/> to remove <Condition name="immobile"/>.
+</Tab>
+
+<Tab specialization="elementalist">
+Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" text="false"/> for additional condition clear with <Skill id="5551"/>.
+</Tab>
+
+<Tab specialization="daredevil">
+You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> as condition clears.
+</Tab>
 </Tabs>
 </GridItem>
 
@@ -87,8 +100,13 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 
 <GridItem>
 <Tabs>
-    <Tab specialization="mesmer">Trait <Trait id="751"/> to use <Skill id="10363"/> more often.</Tab>
-    <Tab specialization="elementalist">Stay in <Skill id="5492"/> after the last trash group for <Boon name="might"/> stacking at Frizz.</Tab>
+<Tab specialization="mesmer">
+Trait <Trait id="751"/> to use <Skill id="10363"/> more often.
+</Tab>
+
+<Tab specialization="elementalist">
+Stay in <Skill id="5492"/> after the last trash group for <Boon name="might"/> stacking at Frizz.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>
@@ -116,9 +134,17 @@ If a golem walks through a laser, he powers up and blocks all attacks for a shor
 <Image src="./images/frizz.jpg" caption="Frizz"/>
 
 <Tabs>
-    <Tab specialization="mesmer">Use <Skill id="10363"/> and <Skill id="30359"/> to grab the golems together. <Skill id="10192"/> makes yourself immune against both the small and large lasers.</Tab>
-    <Tab specialization="ranger">Run an offhand axe and use <Skill id="12638"/> to pull golems closer.</Tab>
-    <Tab specialization="elementalist">Start with pre-casting <Skill id="5528"/> on the first golem. Use <Skill id="5697"/> against the second and fourth golem, while the other elementalist kill the third and fifth golem.</Tab>
+<Tab specialization="mesmer">
+Use <Skill id="10363"/> and <Skill id="30359"/> to grab the golems together. <Skill id="10192"/> makes yourself immune against both the small and large lasers.
+</Tab>
+
+<Tab specialization="ranger">
+Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
+</Tab>
+
+<Tab specialization="elementalist">
+Start with pre-casting <Skill id="5528"/> on the first golem. Use <Skill id="5697"/> against the second and fourth golem, while the other elementalist kill the third and fifth golem.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>

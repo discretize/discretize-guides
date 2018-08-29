@@ -30,7 +30,9 @@ consumables: [78978, 49940]
 Activate the *Detonator* and wait for the <Specialization name="mesmer"/> to open a portal (in this case, stack <Boon name="might"/> in the vestibule) or walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
 
 <Tabs>
-    <Tab specialization="chronomancer">Lay down a <Skill id="10197"/>, cast <Skill id="29578"/> with <Skill id="10200"/>, teleport up to the central area and open the portal.</Tab>
+<Tab specialization="chronomancer">
+Lay down a <Skill id="10197"/>, cast <Skill id="29578"/> with <Skill id="10200"/>, teleport up to the central area and open the portal.
+</Tab>
 </Tabs>
 </GridItem>
 
@@ -64,7 +66,9 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 **Both DPS** should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
 
 <Tabs>
-    <Tab specialization="elementalist">Stack <Boon name="might"/> before the door opens and use <Skill id="5697"/> against the walls.</Tab>
+<Tab specialization="elementalist">
+Stack <Boon name="might"/> before the door opens and use <Skill id="5697"/> against the walls.
+</Tab>
 </Tabs>
 </GridItem>
 
@@ -107,8 +111,13 @@ Requires high damage and you may have to wait a while as the blocking occurs at 
 <Image src="./images/subject_6_block.jpg" caption="Subject 6 in block mode"/>
 
 <Tabs>
-    <Tab specialization="warrior">Equip <Skill id="14404"/> to make your CC skills unblockable.</Tab>
-    <Tab specialization="thief">Share <Skill id="13132"/> with 5 allies to deal 750 unblockable defiance bar damage.</Tab>
+<Tab specialization="warrior">
+Equip <Skill id="14404"/> to make your CC skills unblockable.
+</Tab>
+
+<Tab specialization="thief">
+Share <Skill id="13132"/> with 5 allies to deal 750 unblockable defiance bar damage.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>
@@ -127,7 +136,9 @@ Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (
 
 <GridItem sm="4">
 <Tabs>
-    <Tab specialization="chronomancer">You can freely cast *Hex Shield* during <Skill id="29830"/> for an extra safe spot.</Tab>
+<Tab specialization="chronomancer">
+You can freely cast *Hex Shield* during <Skill id="29830"/> for an extra safe spot.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>

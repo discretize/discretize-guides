@@ -35,8 +35,10 @@ consumables: [78978, 49940]
 While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="warrior"/> after placing banners) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can `/gg` after the section is completed and resurrect to skip the Boulder passage.
 
 <Tabs>
-    <Tab specialization="elementalist">Precast your strong dps skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear.    
-    You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster. </Tab>
+<Tab specialization="elementalist">
+Precast your strong dps skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear.    
+    You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster. 
+</Tab>
 </Tabs>
 
 </GridItem>
@@ -57,9 +59,14 @@ You will need to throw eight _Infused Stones_ at the bubble protecting the Grawl
 After the bubble is broken, stand below the boss to LoS him and he will come down immediately. Throw another _Infused Stone_ at him if his bubble reappears during the fight.
 
 <Tabs>
-    <Tab specialization="mesmer">If you still have your *Mistlock Singularity*, you can place a <Skill id="10197"/> during the fight and jump down into the lava. The singularity will prevent the death from falling, keep jumping afterwards (the lava doesn't harm you if you jump repeatedly) to reach the final platform and open the portal there once the Grawl Shaman is finished. Keep in mind that you have to reach the platform before he reaches 25% health, otherwise you will die during the following cutscene.</Tab>
-    <Tab specialization="weaver">Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the *Veteran Grawl Shamans* in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>.    
-        If everybone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.</Tab>
+<Tab specialization="mesmer">
+If you still have your *Mistlock Singularity*, you can place a <Skill id="10197"/> during the fight and jump down into the lava. The singularity will prevent the death from falling, keep jumping afterwards (the lava doesn't harm you if you jump repeatedly) to reach the final platform and open the portal there once the Grawl Shaman is finished. Keep in mind that you have to reach the platform before he reaches 25% health, otherwise you will die during the following cutscene.
+</Tab>
+
+<Tab specialization="weaver">
+Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the *Veteran Grawl Shamans* in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>.    
+        If everybone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.
+</Tab>
 
 </Tabs>
 
@@ -82,9 +89,17 @@ Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="knockback"/>) an
 
 <GridItem sm="4">
 <Tabs>
-    <Tab specialization="mesmer">Use <Skill id="10302"/> against the Lava Elementals. A <Skill id="10186"/> traited with <Trait id="751"/> is also worth it, though you lose the personal condition cleanse from <Trait id="740"/>.</Tab>
-    <Tab specialization="weaver">Take <Skill id="5507"/> for an additional condition cleanse. Use <Skill id="22572"/> to cleave the Lava Elementals faster.</Tab>
-    <Tab specialization="ranger">Trait <Trait id="1075"/> and use <Skill id="12489"/> for a stronger periodical condition clear.</Tab>
+<Tab specialization="mesmer">
+Use <Skill id="10302"/> against the Lava Elementals. A <Skill id="10186"/> traited with <Trait id="751"/> is also worth it, though you lose the personal condition cleanse from <Trait id="740"/>.
+</Tab>
+
+<Tab specialization="weaver">
+Take <Skill id="5507"/> for an additional condition cleanse. Use <Skill id="22572"/> to cleave the Lava Elementals faster.
+</Tab>
+
+<Tab specialization="ranger">
+Trait <Trait id="1075"/> and use <Skill id="12489"/> for a stronger periodical condition clear.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>

@@ -44,12 +44,26 @@ consumables: [78978, 49940, 8764, 8801, 8686]
 <Grid>
 <GridItem>
 <Tabs>
-    <Tab specialization="chronomancer">Use <Skill id="10200"/> to teleport and <Skill id="10245"/> with <Skill id="29830"/> and <Trait id="674"/> for long party <Effect name="stealth"/>.    
-        You can block the console locker <Control name="knockback"/> with <Skill id="29526"/>, <Skill id="10192"/> or a lucky <Trait id="713"/> signet cast.</Tab>
-    <Tab specialization="elementalist">Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.</Tab>
-    <Tab specialization="guardian"><Skill id="30029"/>, <Skill id="9084"/> and <Skill id="9253"/> block the console <Control name="knockback"/>.</Tab>
-    <Tab specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> to stack <Effect name="stealth"/>. <Skill id="13027"/> and <Skill id="13117"/> combined with <Trait id="1136"/> provide enough <Effect name="stealth"/> to completely activate the console.</Tab>
-    <Tab specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.</Tab>
+<Tab specialization="chronomancer">
+Use <Skill id="10200"/> to teleport and <Skill id="10245"/> with <Skill id="29830"/> and <Trait id="674"/> for long party <Effect name="stealth"/>.    
+        You can block the console locker <Control name="knockback"/> with <Skill id="29526"/>, <Skill id="10192"/> or a lucky <Trait id="713"/> signet cast.
+</Tab>
+
+<Tab specialization="elementalist">
+Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.
+</Tab>
+
+<Tab specialization="guardian">
+<Skill id="30029"/>, <Skill id="9084"/> and <Skill id="9253"/> block the console <Control name="knockback"/>.
+</Tab>
+
+<Tab specialization="thief">
+Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> to stack <Effect name="stealth"/>. <Skill id="13027"/> and <Skill id="13117"/> combined with <Trait id="1136"/> provide enough <Effect name="stealth"/> to completely activate the console.
+</Tab>
+
+<Tab specialization="ranger">
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
+</Tab>
 </Tabs>
 </GridItem>
 
@@ -78,10 +92,15 @@ On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and*
 </Grid>
 
 <Tabs>
-    <Tab specialization="chronomancer">Immediately cast <Skill id="10245"/> twice with <Skill id="29830"/> after resurrecting to skip past the mobs.
+<Tab specialization="chronomancer">
+Immediately cast <Skill id="10245"/> twice with <Skill id="29830"/> after resurrecting to skip past the mobs.
         Use <Skill id="29578"/> with <Skill id="10197"/> to quickly port back to the Bombs/Guns.    
-        **Note that teleporting while carrying a Gun or Bomb does not work.**</Tab>
-    <Tab specialization="thief">Cast <Skill id="13117"/> for immediate <Effect name="stealth"/>.</Tab>
+        **Note that teleporting while carrying a Gun or Bomb does not work.**
+</Tab>
+
+<Tab specialization="thief">
+Cast <Skill id="13117"/> for immediate <Effect name="stealth"/>.
+</Tab>
 </Tabs>
 
 ---
@@ -105,8 +124,13 @@ The most deadly skills here are the _Bombs_ from the Dredge Powersuit (they spaw
 
 <GridItem sm="4">
 <Tabs>
-    <Tab specialization="chronomancer">You can take <Skill id="29526"/> against the Dredge Powersuit boss.</Tab>
-    <Tab specialization="thief">Teleport to the lava buckets from below with <Skill id="13025"/>.</Tab>
+<Tab specialization="chronomancer">
+You can take <Skill id="29526"/> against the Dredge Powersuit boss.
+</Tab>
+
+<Tab specialization="thief">
+Teleport to the lava buckets from below with <Skill id="13025"/>.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>

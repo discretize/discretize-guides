@@ -21,7 +21,9 @@ Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* a
 After you killed the mobs, use the teleporter to enter the boss area. If someone placed a portal at the start where you spawn (<Specialization name="mesmer"/> or <Item id="78978"/>), use `/gg` and take it to get back to the boss before the fight starts (this also skips the initial dialogue). If you do a portal on your own, always walk out of the interaction area after placing - otherwise it bugs and you can't take it yourself.
 
 <Tabs>
-    <Tab specialization="mesmer">Put down a <Skill id="10197"/> at the start and open it after triggering Mai Trin before you `/gg`.</Tab>
+<Tab specialization="mesmer">
+Put down a <Skill id="10197"/> at the start and open it after triggering Mai Trin before you `/gg`.
+</Tab>
 </Tabs>
 </GridItem>
 <GridItem sm="4">
@@ -49,10 +51,18 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 <GridItem sm="5">
 <Image src="./images/horrik.jpg" caption="First Mate Horrik"/>
 <Tabs>
-    <Tab specialization="mesmer">Use <Skill id="10302"/> against the multitude of projectiles.</Tab>
-    <Tab specialization="druid">Trait <Trait id="1075"/> and use <Skill id="12489"/> for additional condition clears.
-    Also change <Skill id="12497"/> to <Skill id="12495"/> to reduce incoming damage from spawning mobs every phase and use <Skill id="31496"/> against the cannons.</Tab>
-    <Tab specialization="spellbreaker">You can run Spellbreaker to counter the enemy boons and destroy the snipers projectiles at 25% with <Skill id="45333"/>.</Tab>
+<Tab specialization="mesmer">
+Use <Skill id="10302"/> against the multitude of projectiles.
+</Tab>
+
+<Tab specialization="druid">
+Trait <Trait id="1075"/> and use <Skill id="12489"/> for additional condition clears.
+    Also change <Skill id="12497"/> to <Skill id="12495"/> to reduce incoming damage from spawning mobs every phase and use <Skill id="31496"/> against the cannons.
+</Tab>
+
+<Tab specialization="spellbreaker">
+You can run Spellbreaker to counter the enemy boons and destroy the snipers projectiles at 25% with <Skill id="45333"/>.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>
