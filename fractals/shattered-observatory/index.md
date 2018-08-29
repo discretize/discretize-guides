@@ -75,11 +75,22 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 </Grid>
 
 <Tabs>
-    <Tab specialization="chronomancer">If you don't have a <Specialization name="spellbreaker"/>, run <Skill id="10267"/> for the entire fractal due to the <Instability name="No Pain, No Gain"/> mistlock instability. Alternatively you can use <Skill id="10185"/> which also grants permanent <Boon name="protection"/> to the party upon sharing, but don't use it before a <Skill id="29830"/>, otherwise the cooldown will be too long for the next set of boons.<br/>Keep in mind that the third hit of you auto-attack chain (and from your <Skill id="10173"/> clone) remove a boon as well.</Tab>
-    <Tab specialization="spellbreaker">Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.</Tab>
-    <Tab specialization="weaver">Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> and <Skill id="43638"/> if your group does not plan to nuke the second phase with a portal. Make sure that you have all charges of <Skill id="5539"/> when you reopen on the boss.  
-    If you did not nuke the second phase per portal, you will have to delay your <Skill id="5501"/> until after the **Radiant Fury** to avoid getting <Control name="knockback"/> and 20 stacks of <Condition name="burning"/>.</Tab>
-    <Tab specialization="druid">Combine <Trait id="1038"/> with <Skill id="12569"/> for party <Boon name="stability"/> below 33% health.</Tab>
+<Tab specialization="chronomancer">
+If you don't have a <Specialization name="spellbreaker"/>, run <Skill id="10267"/> for the entire fractal due to the <Instability name="No Pain, No Gain"/> mistlock instability. Alternatively you can use <Skill id="10185"/> which also grants permanent <Boon name="protection"/> to the party upon sharing, but don't use it before a <Skill id="29830"/>, otherwise the cooldown will be too long for the next set of boons.<br/>Keep in mind that the third hit of you auto-attack chain (and from your <Skill id="10173"/> clone) remove a boon as well.
+</Tab>
+
+<Tab specialization="spellbreaker">
+Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.
+</Tab>
+
+<Tab specialization="weaver">
+Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> and <Skill id="43638"/> if your group does not plan to nuke the second phase with a portal. Make sure that you have all charges of <Skill id="5539"/> when you reopen on the boss.  
+    If you did not nuke the second phase per portal, you will have to delay your <Skill id="5501"/> until after the **Radiant Fury** to avoid getting <Control name="knockback"/> and 20 stacks of <Condition name="burning"/>.
+</Tab>
+
+<Tab specialization="druid">
+Combine <Trait id="1038"/> with <Skill id="12569"/> for party <Boon name="stability"/> below 33% health.
+</Tab>
 </Tabs>
 
 ---
@@ -161,10 +172,21 @@ Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time w
 After the fight is over, take the portal in the North and move forward to get to Arkk.
 
 <Tabs>
-    <Tab specialization="chronomancer">From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics. Note that you can pre-stack clones on Artsariiv with <Skill id="10173"/>.</Tab>
-    <Tab specialization="spellbreaker">Leave a <Skill id="45333"/> and place your banners before you leave for marble bouncing.</Tab>
-    <Tab specialization="weaver">If your group damage is low you can use <Skill id="5501"/> two times per phase, precast the first one in the middle in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>. **Always** place at least a <Skill id="5548"/> on the *Temporaly Anomaly* before using `Nova Launch` to the boss. You can already attune to <Skill id="5494"/> at the Anomaly and burst it with <Skill id="41125"/> before resuming on the boss with <Skill id="5737"/>.</Tab>
-    <Tab specialization="druid">Use <Skill id="31496"/> against the multitude of projectiles, especially against the the orb attacks from the two Elites at the beginning and from Artsariiv before her *Slam* attack.</Tab>
+<Tab specialization="chronomancer">
+From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics. Note that you can pre-stack clones on Artsariiv with <Skill id="10173"/>.
+</Tab>
+
+<Tab specialization="spellbreaker">
+Leave a <Skill id="45333"/> and place your banners before you leave for marble bouncing.
+</Tab>
+
+<Tab specialization="weaver">
+If your group damage is low you can use <Skill id="5501"/> two times per phase, precast the first one in the middle in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>. **Always** place at least a <Skill id="5548"/> on the *Temporaly Anomaly* before using `Nova Launch` to the boss. You can already attune to <Skill id="5494"/> at the Anomaly and burst it with <Skill id="41125"/> before resuming on the boss with <Skill id="5737"/>.
+</Tab>
+
+<Tab specialization="druid">
+Use <Skill id="31496"/> against the multitude of projectiles, especially against the the orb attacks from the two Elites at the beginning and from Artsariiv before her *Slam* attack.
+</Tab>
 </Tabs>
 
 ---
@@ -247,13 +269,24 @@ Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight
 The most important thing is to keep calm. Remember that every single ability can be avoided, `Nova Launch` the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!
 
 <Tabs>
-    <Tab specialization="mesmer">Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. Remember to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and help against mechanics like *Solar Fury*.<br/>Use <Skill id="10363"/> to pull mobs together at 70% and 40% (other party members can use `Nova Launch` to <Control name="launch"/> mobs closer to the center).</Tab>
-    <Tab specialization="spellbreaker"><Skill id="45160"/> and <Skill id="45333"/> can be used to reflect the orbs from *Solar Fury* if timed correctly.</Tab>
-    <Tab specialization="weaver"> Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5737"/> while turned away to avoid the *Blinding Radiance* <Condition name="fear"/>. Continue with <Skill id="5501"/>.  
+<Tab specialization="mesmer">
+Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the orbs from *Solar Fury*. Remember to use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and help against mechanics like *Solar Fury*.<br/>Use <Skill id="10363"/> to pull mobs together at 70% and 40% (other party members can use `Nova Launch` to <Control name="launch"/> mobs closer to the center).
+</Tab>
+
+<Tab specialization="spellbreaker">
+<Skill id="45160"/> and <Skill id="45333"/> can be used to reflect the orbs from *Solar Fury* if timed correctly.
+</Tab>
+
+<Tab specialization="weaver">
+ Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5737"/> while turned away to avoid the *Blinding Radiance* <Condition name="fear"/>. Continue with <Skill id="5501"/>.  
         Always place a <Skill id="5548"/> on the Temporal Anomaly and use <Skill id="5539"/> as backup. If you aim your <Skill id="41125"/> correctly, it hits the boss and the anomaly.  
         If your damage is good enough, you can skip the second and fourth anomaly by nuking the boss to 70% and 40%. With good damage and fast Orb phases you can also skip the fifth anomaly by nuking the boss from 30% to zero.  
         Never cast <Skill id="5737"/> or <Skill id="5501"/> during the intermediate phases, instead wait and reopen with them on Arkk.  
         Precast <Skill id="5528"/> at the end of the orb phases on Arkk, followed by <Skill id="5548"/> and <Skill id="43762"/> half a second before the cc bar appears.  
-        Note that you can abuse <Skill id="5697"/> and get all hits into Arkk by using `Nova Launch` on yourself immediately after starting the whirl.</Tab>
-    <Tab specialization="druid">You can consider running a more defensive setup with <Skill id="12495"/> for <Boon name="protection"/>, but not even that can help if you ignore mechanics.</Tab>
+        Note that you can abuse <Skill id="5697"/> and get all hits into Arkk by using `Nova Launch` on yourself immediately after starting the whirl.
+</Tab>
+
+<Tab specialization="druid">
+You can consider running a more defensive setup with <Skill id="12495"/> for <Boon name="protection"/>, but not even that can help if you ignore mechanics.
+</Tab>
 </Tabs>

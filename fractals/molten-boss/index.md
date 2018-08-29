@@ -36,7 +36,9 @@ You will reach an area with two _Molten Protectors_, drag them with you to the n
 Note that the Molten Protectors cast a zone which grants enemies inside <Effect name="invulnerability"/> (recognizable by an electric beam). Therefore, killing and controlling the Molten Protectors is your highest priority throughout the entire fractal.
 
 <Tabs>
-    <Tab specialization="spellbreaker">As a lot of boons are present in this fractal, Spellbreaker is the recommended build for warriors.</Tab>
+<Tab specialization="spellbreaker">
+As a lot of boons are present in this fractal, Spellbreaker is the recommended build for warriors.
+</Tab>
 </Tabs>
 </GridItem>
 <GridItem sm="4">

@@ -40,7 +40,9 @@ When there are only a few percent remaining, go near the fire to leave combat an
 </Grid>
 
 <Tabs>
-    <Tab specialization="chronomancer">As you don't need crowd control for the next boss, you can take <Skill id="10311"/> for <Boon name="quickness"/> and use <Skill id="10197"/> with <Skill id="10200"/> to teleport the team ahead through the cold.</Tab>
+<Tab specialization="chronomancer">
+As you don't need crowd control for the next boss, you can take <Skill id="10311"/> for <Boon name="quickness"/> and use <Skill id="10197"/> with <Skill id="10200"/> to teleport the team ahead through the cold.
+</Tab>
 </Tabs>
 
 ---
@@ -58,9 +60,17 @@ With reflects and high DPS you can simply burst the boss before any bonfire expi
 
 <GridItem>
 <Tabs>
-    <Tab specialization="chronomancer">Cast double <Skill id="10302"/> with <Skill id="29830"/> into the hitbox of the Elemental Source.</Tab>
-    <Tab specialization="spellbreaker">Use <Skill id="45333"/> at 76% to reflect the *Wind Gust* attack.</Tab>
-    <Tab specialization="elementalist">With the right angle, you can <Skill id="5697"/> against the Elemental Source.</Tab>
+<Tab specialization="chronomancer">
+Cast double <Skill id="10302"/> with <Skill id="29830"/> into the hitbox of the Elemental Source.
+</Tab>
+
+<Tab specialization="spellbreaker">
+Use <Skill id="45333"/> at 76% to reflect the *Wind Gust* attack.
+</Tab>
+
+<Tab specialization="elementalist">
+With the right angle, you can <Skill id="5697"/> against the Elemental Source.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>
@@ -93,10 +103,18 @@ At 75%, 50% and 25% you will need to kill a summoned _Icebrood Effigy_. Basicall
 
 <GridItem>
 <Tabs>
-    <Tab specialization="chronomancer">Use <Skill id="29526"/> if you have trouble with incoming damage. <Skill id="10302"/> is also a valid option.
-        Pull all mobs together <Skill id="10363"/> whenever possible, usually when the *Icebrood Effigy* spawns.</Tab>
-    <Tab specialization="druid">Cast <Skill id="31496"/> against the projectiles.</Tab>
-    <Tab specialization="elementalist">Use <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.</Tab>
+<Tab specialization="chronomancer">
+Use <Skill id="29526"/> if you have trouble with incoming damage. <Skill id="10302"/> is also a valid option.
+        Pull all mobs together <Skill id="10363"/> whenever possible, usually when the *Icebrood Effigy* spawns.
+</Tab>
+
+<Tab specialization="druid">
+Cast <Skill id="31496"/> against the projectiles.
+</Tab>
+
+<Tab specialization="elementalist">
+Use <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>

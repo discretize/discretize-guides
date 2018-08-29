@@ -52,9 +52,17 @@ Pay attention to the <Control name="knockback"/> zones from the small JT-12 gole
 
 <GridItem>
 <Tabs>
-    <Tab specialization="mesmer">Trait <Trait id="751"/> and use <Skill id="10363"/> at 75%/50%/25% to grab the golems together.</Tab>
-    <Tab specialization="spellbreaker">You can <Skill id="14502"/> golems towards the center area.</Tab>
-    <Tab specialization="ranger">Run an offhand axe and use <Skill id="12638"/> to pull golems closer.</Tab>
+<Tab specialization="mesmer">
+Trait <Trait id="751"/> and use <Skill id="10363"/> at 75%/50%/25% to grab the golems together.
+</Tab>
+
+<Tab specialization="spellbreaker">
+You can <Skill id="14502"/> golems towards the center area.
+</Tab>
+
+<Tab specialization="ranger">
+Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>
@@ -96,9 +104,14 @@ Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Con
 
 <GridItem sm="4">
 <Tabs>
-    <Tab specialization="chronomancer">Use a combination of <Skill id="29578"/>, <Skill id="29526"/>, <Skill id="10377"/>, <Skill id="10236"/> and <Skill id="29830"/> to keep up <Boon name="quickness"/> and block every single dazing auto-attack with <Boon name="aegis"/>.</Tab>
-    <Tab specialization="ranger">Use <Skill id="12638"/> to pull the small JT-12 golems closer.    
-        <Skill id="12569"/> with <Trait id="1038"/> grants the whole party <Boon name="stability"/>.</Tab>
+<Tab specialization="chronomancer">
+Use a combination of <Skill id="29578"/>, <Skill id="29526"/>, <Skill id="10377"/>, <Skill id="10236"/> and <Skill id="29830"/> to keep up <Boon name="quickness"/> and block every single dazing auto-attack with <Boon name="aegis"/>.
+</Tab>
+
+<Tab specialization="ranger">
+Use <Skill id="12638"/> to pull the small JT-12 golems closer.    
+        <Skill id="12569"/> with <Trait id="1038"/> grants the whole party <Boon name="stability"/>.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>

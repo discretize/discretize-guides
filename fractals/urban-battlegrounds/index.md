@@ -35,10 +35,21 @@ Stack <Effect name="stealth"/> in the tent and run towards Dulfy.
 Killing the _Burning Oil_ above her is your highest priority. Control and cleave the trash mobs and utilize reflects and blocks while nuking her down. Destroy the gate after finishing her and gather on the other side of the wall.
 
 <Tabs>
-    <Tab specialization="mesmer">Protect your party with <Skill id="29526"/> or <Skill id="10302"/> and control enemies with <Skill id="30359"/>. You can run <Trait id="751"/> for the entire fractal to grab more often and for even more reflects.</Tab>
-    <Tab specialization="elementalist"> If you are the first Weaver at the gate and still have <Effect name="stealth"/>, cast <Skill id="5501"/> on the Burning Oil above Dulfy. At least one weaver should use <Skill id="5738"/> on the mobs and Dulfy. You can use <Skill id="5697"/> against the door for more damage. Use <Skill id="22572"/> for better cleave.</Tab>
-    <Tab specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> (also useful for reflects) or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tab>
-    <Tab specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/> at the beginning.</Tab>
+<Tab specialization="mesmer">
+Protect your party with <Skill id="29526"/> or <Skill id="10302"/> and control enemies with <Skill id="30359"/>. You can run <Trait id="751"/> for the entire fractal to grab more often and for even more reflects.
+</Tab>
+
+<Tab specialization="elementalist">
+ If you are the first Weaver at the gate and still have <Effect name="stealth"/>, cast <Skill id="5501"/> on the Burning Oil above Dulfy. At least one weaver should use <Skill id="5738"/> on the mobs and Dulfy. You can use <Skill id="5697"/> against the door for more damage. Use <Skill id="22572"/> for better cleave.
+</Tab>
+
+<Tab specialization="thief">
+Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> (also useful for reflects) or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+</Tab>
+
+<Tab specialization="ranger">
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/> at the beginning.
+</Tab>
 </Tabs>
 </GridItem>
 
@@ -62,9 +73,17 @@ Note that there is a little jumping puzzle in case you are unlucky with barricad
 
 <GridItem>
 <Tabs>
-    <Tab specialization="mesmer">You can give easy party <Effect name="stealth"/> with <Skill id="10245"/>.</Tab>
-    <Tab specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tab>
-    <Tab specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.</Tab>
+<Tab specialization="mesmer">
+You can give easy party <Effect name="stealth"/> with <Skill id="10245"/>.
+</Tab>
+
+<Tab specialization="thief">
+Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+</Tab>
+
+<Tab specialization="ranger">
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>
@@ -82,9 +101,14 @@ As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and 
 
 <GridItem>
 <Tabs>
-    <Tab specialization="chronomancer"><Skill id="10363"/>, <Skill id="29526"/> and <Skill id="30359"/> are very valuable here.</Tab>
-    <Tab specialization="elementalist"><Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors *Rush* attack.    
-        Stay in <Skill id="5492"/> before Ashym for <Boon name="might"/> stacking.</Tab>
+<Tab specialization="chronomancer">
+<Skill id="10363"/>, <Skill id="29526"/> and <Skill id="30359"/> are very valuable here.
+</Tab>
+
+<Tab specialization="elementalist">
+<Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors *Rush* attack.    
+        Stay in <Skill id="5492"/> before Ashym for <Boon name="might"/> stacking.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>

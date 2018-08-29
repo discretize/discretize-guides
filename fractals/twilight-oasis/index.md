@@ -30,9 +30,17 @@ record:
 Use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head for the first of the Sand Binders.
 
 <Tabs>
-    <Tab specialization="mesmer">You can give easy party <Effect name="stealth"/> with <Skill id="10245"/> and <Trait id="674"/> at the cost of a elite skill slot.</Tab>    
-    <Tab specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tab>
-    <Tab specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.</Tab>
+<Tab specialization="mesmer">
+You can give easy party <Effect name="stealth"/> with <Skill id="10245"/> and <Trait id="674"/> at the cost of a elite skill slot.
+</Tab>
+
+<Tab specialization="thief">
+Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+</Tab>
+
+<Tab specialization="ranger">
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
+</Tab>
 </Tabs>
 </GridItem>
 
@@ -52,9 +60,17 @@ Treat each Sandbinder like any immobile boss and attack accordingly. Keep in min
 
 <GridItem>
 <Tabs>
-    <Tab specialization="spellbreaker">As a lot of boons are present in this fractal, Spellbreaker is the recommended build for warriors.</Tab>
-    <Tab specialization="mesmer">Use <Skill id="10363"/> to cancel the Sanderbiner's attacks.</Tab>
-    <Tab specialization="ranger">Run an offhand axe for the <Control name="pull"/> from <Skill id="12638"/>.</Tab>
+<Tab specialization="spellbreaker">
+As a lot of boons are present in this fractal, Spellbreaker is the recommended build for warriors.
+</Tab>
+
+<Tab specialization="mesmer">
+Use <Skill id="10363"/> to cancel the Sanderbiner's attacks.
+</Tab>
+
+<Tab specialization="ranger">
+Run an offhand axe for the <Control name="pull"/> from <Skill id="12638"/>.
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>
