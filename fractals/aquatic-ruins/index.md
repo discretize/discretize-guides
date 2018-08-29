@@ -28,7 +28,7 @@ consumables: [78978]
 <MessageHeader>
 Disclaimer
 </MessageHeader>
-This is an underwater fractal. Make sure you have approriate underwater equipment with enough <Icon name="agonyResistance"/> Agony Resistance.
+This is an underwater fractal. Make sure you have approriate underwater equipment with enough Agony Resistance.
 </Message>
 
 ---
