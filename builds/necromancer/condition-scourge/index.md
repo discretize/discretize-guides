@@ -1,17 +1,18 @@
 ---
-title: "Condition Scourge"
-date: "2018-07-01"
-group: "Good Builds"
-role: "Damage"
-profession: "Necromancer"
-specialization: "Scourge"
-benchmark: { small: { dps: 28593, by: "Nightmare [SC]", youtube: "eWKDAG1gXnM"}}
+title: 'Condition Scourge'
+date: '2018-07-01'
+group: 'Good Builds'
+role: 'Damage'
+profession: 'Necromancer'
+specialization: 'Scourge'
+benchmark:
+  { small: { dps: 28593, by: 'Nightmare [SC]', youtube: 'eWKDAG1gXnM' } }
 skills: [10689, 10602, 10606]
 traits: [816, 875]
-conditions: ["Vulnerability", "Crippled", "Blind", "Weakness", "Immobile"]
+conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness', 'Immobile']
 ---
 
-As a good complimentary build to the <Specialization name="reaper" prefix="Condition"/> one, the <Specialization name="Scourge" prefix="Condition"/> excels at providing supplementary defensive support abilities for a group whilst still going full damage, as well as superior area damage to its <Specialization name="reaper" prefix="Condition"/> counterpart. Because both builds are so similar in terms of their equipment (minus infusions) it allows for an experienced Necromancer player to swap between the two on the fly as a situation requires it. 
+As a good complimentary build to the <Specialization name="reaper" prefix="Condition"/> one, the <Specialization name="Scourge" prefix="Condition"/> excels at providing supplementary defensive support abilities for a group whilst still going full damage, as well as superior area damage to its <Specialization name="reaper" prefix="Condition"/> counterpart. Because both builds are so similar in terms of their equipment (minus infusions) it allows for an experienced Necromancer player to swap between the two on the fly as a situation requires it.
 
 Scourge has a simplistic "rotation" in that you have less skills overall to use, but it is counterbalanced by the need to "maintain" parts of your kit for your damage output to excel; namely keeping up two sand shades, using punishment skill in tandem with said shades and maintaining life force to allow for use of your Shroud skills.
 
@@ -19,55 +20,41 @@ If you keep on top of this, <Specialization name="Scourge" prefix="Condition"/> 
 
 This build is recommended for situations where boon corruption may be needed for the team, extra forms of projectile mitigation are required, or if large scale cleaving damage via <Skill id="10606"/> is desired (and can also allow you to solo/carry most fractals should you gain enough mastery over it).
 
-<Divider>
-Equipment
-</Divider>
+<Divider text="Equipment"/>
 
 <Grid>
-<Column>
+<GridItem>
 <Armor helmId="75770" helmRuneId="83502" helmRuneCount="6" helmAffix="Viper" helmRune="Renegade" shouldersId="73225" shouldersRuneId="83502" shouldersRuneCount="6" shouldersAffix="Viper" shouldersRune="Renegade" coatId="71436" coatRuneId="83502" coatRuneCount="6" coatAffix="Viper" coatRune="Renegade" glovesId="73852" glovesRuneId="83502" glovesRuneCount="6" glovesAffix="Viper" glovesRune="Renegade" leggingsId="75378" leggingsRuneId="83502" leggingsRuneCount="6" leggingsAffix="Viper" leggingsRune="Renegade" bootsId="74264" bootsRuneId="83502" bootsRuneCount="6" bootsAffix="Viper" bootsRune="Renegade"/>
-</Column>
+</GridItem>
 
-<Column>
+<GridItem>
 <Weapons weapon1MainId="76688" weapon1MainSigil1Id="44950" weapon1MainType="Scepter" weapon1MainAffix="Viper" weapon1MainSigil1="Malice" weapon2OffId="76271" weapon2OffSigilId="24605" weapon2OffType="Torch" weapon2OffAffix="Viper" weapon2OffSigil="Geomancy"/>
 
-</Column>
+</GridItem>
 
-<Column>
+<GridItem>
 <Trinkets backItemId="79830" backItemStatId="1113" backItemAffix="Viper" accessory1Id="80002" accessory1StatId="1113" accessory1Affix="Viper" accessory2Id="79745" accessory2StatId="1113" accessory2Affix="Viper" amuletId="79980" amuletStatId="1113" amuletAffix="Viper" ring1Id="80793" ring1StatId="1113" ring1Affix="Viper" ring2Id="79710" ring2StatId="1113" ring2Affix="Viper"/>
 
 <Consumables foodId="84550" utilityId="77567" infusionId="37130"/>
-</Column>
-<Card>
-<CardHeader>
-Swap Weapons
-</CardHeader>
-<CardContent>
-You can also run <Item id="44944"/> instead of <Item id="24605"/> if you are heavily using <Skill id="10606"/> for an encounter. You also don't need to weapon swap if you run <Item id="44944"/>. Can run a Dagger for more condi cleanse, or a Warhorn for more CC (for the former geomancy is fine but for Warhorn you would just run bursting). 
+</GridItem>
+<Card title="Swap Weapons">
+You can also run <Item id="44944"/> instead of <Item id="24605"/> if you are heavily using <Skill id="10606"/> for an encounter. You also don't need to weapon swap if you run <Item id="44944"/>. Can run a Dagger for more condi cleanse, or a Warhorn for more CC (for the former geomancy is fine but for Warhorn you would just run bursting).
 
 (Placing your Scepter and Torch in your weapon slots as shown above will allow you to weaponswap despite only having one torch).
-</CardContent>
 </Card>
 </Grid>
 
-<Divider>
-Build
-</Divider>
+<Divider text="Build"/>
 
 <Grid>
-<Column width="9">
+<GridItem sm="7">
 <Traits traits1Id="39" traits1="Curses" traits1Selected="815,816,801" traits2Id="50" traits2="Soul Reaping" traits2Selected="875,861,905" traits3Id="60" traits3="Scourge" traits3Selected="2074,2067,2164"/>
-<Skills utilitySkill1="43148" utilitySkill2="10689" utilitySkill3="10544" utilitySkill4="10606" utilitySkill5="10549"/>
+<Skills heal="43148" utility1="10689" utility2="10544" utility3="10606" elite="10549"/>
 <Video videoId="eWKDAG1gXnM" videoTitle="28.6 DPS by Nightmare [SC]"/>
-</Column>
-<Column>
+</GridItem>
+<GridItem>
 
-
-<Card>
-<CardHeader>
-Situational Skills
-</CardHeader>
-<CardContent>
+<Card title="Situational Skills">
 | | |
 | -- | -- |
 | <Skill id="40274" size="big" text="false"/> | For higher single target dps if your group is getting 25 stacks of poison or isn't utilizing <Skill id="10606"/>. |
@@ -81,38 +68,26 @@ Situational Skills
 | <Skill id="10589" size="big" text="false"/> | Extra DPS and Life Force. |
 | <Skill id="10547" size="big" text="false"/> | For higher single target damage if you don't need the utility of the sand flare barrier. |
 | <Skill id="10646" size="big" text="false"/> | Strong CC in form of <Control name="knockdown"/> or <Control name="launch"/>. |
-</CardContent>
 </Card>
-</Column>
+</GridItem>
 </Grid>
 
-<Divider>
-Details
-</Divider>
+<Divider text="Details"/>
 
 <Grid>
-<Column width="9">
-<Card>
-<CardHeader>
-CC skills
-</CardHeader>
-<CardContent>
+<GridItem sm="7">
+<Card title="CC skills">
 | | |
 | -- | -- |
 | <Skill id="44428"/> | 100 damage (longer with expertise) |
 | <Skill id="44296"/> | 200 damage |
 | <Skill id="10556"/> | 200 damage |
 | <Skill id="10647"/> | 100 damage per hit (more on large hitboxes) and extra 332 if the target is hit by the end of the charge |
-</CardContent>
 </Card>
-</Column>
+</GridItem>
 
-<Column>
-<Card>
-<CardHeader>
-Written Opener
-</CardHeader>
-<CardContent>
+<GridItem>
+<Card title="Written Opener">
 ### Precast
 1. <Skill id="43148"/> about 5-6 seconds in advance and then Manifest
 3. <Skill id="44946"/> on your target as your group is about to engage
@@ -130,9 +105,8 @@ Written Opener
 9. <Skill id="44663"/> (proc trait <Trait id="2013" text="false"/>)
 10. <Skill id="10709"/>
 11. <Skill id="10532"/>
-</CardContent>
+
 </Card>
 
-
-</Column>
+</GridItem>
 </Grid>

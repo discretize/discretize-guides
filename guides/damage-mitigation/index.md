@@ -12,7 +12,6 @@ A lot of projectiles in fractals can be reflected or destroyed to prevent variou
 Below is a list of currently used projectile reflect or absorb skills and traits:
 
 <CardGroup itemsPerRow="3">
-
 <Card color="mesmer">
 <CardHeader>
 <Specialization name="mesmer"/>
@@ -26,7 +25,6 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 (Focus 5, rather inconsistent)
 * <Skill id="30643"/> <Icon name="chronomancer"/>  
 (Shield 5) 
-</CardContent>
 </Card>
 
 <Card color="elementalist">
@@ -42,7 +40,6 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 (Utility skill)
 * <Skill id="29453"/> <Icon name="tempest"/>  
 (Warhorn 4, <Skill id="5495" text="false"/>)
-</CardContent>
 </Card>
 
 <Card color="ranger">
@@ -54,7 +51,6 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 (Staff 5)
 * <Skill id="12639"/> <Icon name="ranger"/>  
 (Axe 5)
-</CardContent>
 </Card>
 
 <Card color="guardian">
@@ -68,7 +64,6 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 (Sword 3)
 * <Skill id="42259"/> <Icon name="firebrand"/>  
 (Tome Skill 3) 
-</CardContent>
 </Card>
 
 <Card color="thief">
@@ -80,7 +75,6 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 (Utility skill)
 * <Skill id="30434"/> <Icon name="daredevil"/>  
 (Auto attack chain)
-</CardContent>
 </Card>
 
 <Card color="warrior">
@@ -94,7 +88,6 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 (Sword F1)
 * <Skill id="45333"/> <Icon name="spellbreaker"/>  
 (Elite skill)
-</CardContent>
 </Card>
 
 </CardGroup>
@@ -108,7 +101,6 @@ Certain mechanics can be bypassed by using block, <Effect name="invulnerability"
 Below is a list of commonly used defensive skills:
 
 <CardGroup itemsPerRow="3">
-
 <Card color="mesmer">
 <CardHeader>
 <Specialization name="mesmer"/>
@@ -128,7 +120,6 @@ Below is a list of commonly used defensive skills:
 (Sword 2)
 * <Skill id="29526"/> <Icon name="chronomancer"/>  
 (Utiltiy skill, provides <Boon name="aegis" text="false"/>)
-</CardContent>
 </Card>
 
 <Card color="warrior">
@@ -144,7 +135,6 @@ Below is a list of commonly used defensive skills:
 (Heal skill, also heals you for incoming damage but does not prevent conditions or control effects)
 * <Skill id="14392"/> <Icon name="warrior"/>  
 (Utility skill, does not prevent conditions or control effects)
-</CardContent>
 </Card>
 
 <Card color="guardian">
@@ -168,7 +158,6 @@ Below is a list of commonly used defensive skills:
     (Heal skill)
     * <Skill id="30029"/> <Icon name="dragonhunter"/>  
 (F3)
-</CardContent>
 </Card>
 
 <Card color="elementalist">
@@ -184,7 +173,6 @@ Below is a list of commonly used defensive skills:
 (Downed state skill)
 * <Skill id="5521"/> <Icon name="elementalist"/>  
 (Focus 5, <Skill id="5495" text="false"/>)
-</CardContent>
 </Card>
 
 <Card color="thief">
@@ -196,7 +184,6 @@ Below is a list of commonly used defensive skills:
 (Utility skill)
 * <Skill id="30597"/> <Icon name="daredevil"/>  
 (Staff 5)
-</CardContent>
 </Card>
 
 </CardGroup>
