@@ -18,7 +18,7 @@ consumables: [78978]
 <GridItem>  
 Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="daze"/> with his stunning shield, use <Boon name="stability"/>, blocks or invulnerables against it.
 
-After you killed the mobs, use the teleporter to enter the boss area. If someone placed a portal at the start where you spawn (<Specialization name="mesmer"/> or <Item id="78978"/>), use `/gg` and take it to get back to the boss before the fight starts (this also skips the initial dialogue). If you do a portal on your own, always walk out of the interaction area after placing - otherwise it bugs and you can't take it yourself.
+After you killed the mobs, use the Mistlock Singularity to reset cooldown then the teleporter to enter the boss area.
 
 <Tabs>
 <Tab specialization="mesmer">
@@ -45,7 +45,7 @@ Your <Specialization name="druid"/> should be able to stay in <Skill id="31869"/
 
 Every 25% health, Mai Trin disappears and additional enemies will spawn while fiery cannons start shooting. Switch your damage to Horrik and deal 25% of his health to make Mai Trin return. Cleave the spawning mobs during downtimes.
 
-Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily Mai Trin won't have any protecting stacks below 25%, so make sure to finish her quickly.
+Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily Mai Trin won't have any protecting stacks below 25%, so make sure to finish her rather than Horrik (Killing Mai Trin finishes the fractal).
 </GridItem>
 
 <GridItem sm="5">
@@ -57,7 +57,7 @@ Use <Skill id="10302"/> against the multitude of projectiles.
 
 <Tab specialization="druid">
 Trait <Trait id="1075"/> and use <Skill id="12489"/> for additional condition clears.
-    Also change <Skill id="12497"/> to <Skill id="12495"/> to reduce incoming damage from spawning mobs every phase and use <Skill id="31496"/> against the cannons.
+    Also change <Skill id="12493"/> to <Skill id="12495"/> to reduce incoming damage from spawning mobs every phase and use <Skill id="31496"/> (Staff 5) against the cannons.
 </Tab>
 
 <Tab specialization="spellbreaker">
