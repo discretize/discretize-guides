@@ -1,7 +1,7 @@
 ---
 title: 'Power Dragonhunter'
 date: '2018-07-01'
-group: 'Great Builds'
+rating: 'Great'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
