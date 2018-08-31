@@ -1,7 +1,7 @@
 ---
 title: 'Power Daredevil'
 date: '2018-07-01'
-group: 'Good Builds'
+rating: 'Good'
 role: 'Damage'
 profession: 'Thief'
 specialization: 'Daredevil'

@@ -1,7 +1,7 @@
 ---
 title: 'Banner Warrior'
 date: '2018-07-01'
-group: 'Meta Builds'
+rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
 specialization: 'Warrior'

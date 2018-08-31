@@ -1,7 +1,7 @@
 ---
 title: 'Boon Chronomancer'
 date: '2018-05-16'
-group: 'Meta Builds'
+rating: 'Meta'
 role: 'Support'
 profession: 'Mesmer'
 specialization: 'Chronomancer'

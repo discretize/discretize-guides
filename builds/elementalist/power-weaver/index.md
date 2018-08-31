@@ -1,7 +1,7 @@
 ---
 title: 'Power Weaver'
 date: '2018-07-01'
-group: 'Meta Builds'
+rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'

@@ -1,7 +1,7 @@
 ---
 title: 'Boon Druid'
 date: '2018-05-16'
-group: 'Meta Builds'
+rating: 'Meta'
 role: 'Support'
 profession: 'Ranger'
 specialization: 'Druid'
