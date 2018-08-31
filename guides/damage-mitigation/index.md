@@ -13,7 +13,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <Grid>
 <GridItem sm="4">
-<Card specialization="mesmer" title="Mesmer">
+<Card theme="mesmer" title="Mesmer">
 * <Skill id="10302"/> <Specialization text="false" name="mesmer"/>   
 (Utility, best used during <Skill id="29830" text="false"/>, <Specialization text="false" name="chronomancer" />)
 * <Skill id="10186"/> <Specialization text="false" name="mesmer"/>  
@@ -26,7 +26,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </GridItem>
 
 <GridItem sm="4">
-<Card specialization="elementalist" title="Elementalist">
+<Card theme="elementalist" title="Elementalist">
 * <Skill id="5685"/> <Specialization text="false" name="elementalist"/>  
 (Staff 3, <Skill id="5495" text="false"/>)
 * <Skill id="5530"/> <Specialization text="false" name="elementalist"/>  
@@ -39,7 +39,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </GridItem>
 
 <GridItem sm="4">
-<Card specialization="ranger" title="Ranger">
+<Card theme="ranger" title="Ranger">
 * <Skill id="31496"/> <Specialization text="false" name="druid"/>  
 (Staff 5)
 * <Skill id="12639"/> <Specialization text="false" name="ranger"/>  
@@ -48,7 +48,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </GridItem>
 
 <GridItem sm="4">
-<Card specialization="guardian" title="Guardian">
+<Card theme="guardian" title="Guardian">
 * <Skill id="9251"/> <Specialization text="false" name="guardian"/>  
 (Utility skill)
 * <Skill id="9107"/> <Specialization text="false" name="guardian"/>  
@@ -59,7 +59,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </GridItem>
 
 <GridItem sm="4">
-<Card specialization="thief" title="Thief">
+<Card theme="thief" title="Thief">
 * <Skill id="14184"/> <Specialization text="false" name="thief"/>  
 (Utility skill)
 * <Skill id="30434"/> <Specialization text="false" name="daredevil"/>  
@@ -68,7 +68,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </GridItem>
 
 <GridItem sm="4">
-<Card specialization="warrior" title="Warrior">
+<Card theme="warrior" title="Warrior">
 * <Skill id="30074"/> <Specialization text="false" name="berserker"/>  
 (Utility skill)
 * <Skill id="30682"/> <Specialization text="false" name="berserker"/>  
@@ -91,7 +91,7 @@ Below is a list of commonly used defensive skills:
 <Grid>
 
 <GridItem sm="4">
-<Card specialization="mesmer" title="Mesmer">
+<Card theme="mesmer" title="Mesmer">
 * <Skill id="10192"/> <Specialization text="false" name="mesmer"/>  
    (F4, is a personal invulnerable)
     * You can trait <Trait id="1852"/> to share <Boon name="aegis" text="false"/> with allies (5 seconds internal cooldown) when you gain distortion
@@ -110,7 +110,7 @@ Below is a list of commonly used defensive skills:
 </GridItem>
 
 <GridItem sm="4">
-<Card specialization="warrior" title="Warrior">
+<Card theme="warrior" title="Warrior">
 * <Skill id="14507"/> <Specialization text="false" name="warrior"/>  
 (Mace 2)
 * <Skill id="14362"/> <Specialization text="false" name="warrior"/>   
@@ -123,7 +123,7 @@ Below is a list of commonly used defensive skills:
 </GridItem>
 
 <GridItem sm="4">
-<Card specialization="guardian" title="Guardian">
+<Card theme="guardian" title="Guardian">
 * <Skill id="9102"/> <Specialization text="false" name="guardian"/>  
 (Heal skill)
 * <Skill id="9154"/> <Specialization text="false" name="guardian"/>  
@@ -144,7 +144,7 @@ Below is a list of commonly used defensive skills:
 </GridItem>
 
 <GridItem sm="4">
-<Card specialization="elementalist" title="Elementalist">
+<Card theme="elementalist" title="Elementalist">
 * <Skill id="5641"/> <Specialization text="false" name="elementalist"/>  
 (Utility skill)
 * <Skill id="5554"/> <Specialization text="false" name="elementalist"/>  
@@ -157,7 +157,7 @@ Below is a list of commonly used defensive skills:
 </GridItem>
 
 <GridItem sm="4">
-<Card specialization="thief" title="Thief">
+<Card theme="thief" title="Thief">
 * <Skill id="30661"/> <Specialization text="false" name="daredevil"/>  
 (Utility skill)
 * <Skill id="30597"/> <Specialization text="false" name="daredevil"/>  
