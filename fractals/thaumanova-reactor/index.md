@@ -96,7 +96,7 @@ This is usually solo'ed by the <Specialization name="mesmer"/> using <Skill id="
 
 <Grid>
 <GridItem>
-## <Boss/> Ooze Room: Subject 6 <Label>Northwest</Label>
+## Ooze Room: Subject 6 <Label>Northwest</Label>
 Gather at Subject 6 after finishing the other three colliders. During the fight, small and large (at 75%/50/25% health) Oozes will spawn and move toward it slowly, restoring its health when they reach it. Subject 6 also has a easily distinguishable *Shield Form*, hitting him then will give him stacks of *Overload*. Reaching 20 stacks results in a party wipe.
 
 There are two main tactics for killing it:
@@ -124,7 +124,7 @@ Share <Skill id="13132"/> with 5 allies to deal 750 unblockable defiance bar dam
 
 ---
 
-## <Boss red/> Thaumanova Anomaly
+## Thaumanova Anomaly
 
 <Grid>
 <GridItem>

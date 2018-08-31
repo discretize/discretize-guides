@@ -35,7 +35,7 @@ consumables: [78978, 49940, 8764, 8801]
 
 **Option 2:** The <Specialization name="mesmer"/> (or anyone with a <Item id="78978"/>) skips alone and teleports the team to the holding area.
 
-## <Boss/> Holding Area
+## Holding Area
 
 Stack <Boon name="might"/> before destroying the _Power Generator_, then kill the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's _Massive Smash_ attack. Reflects are strong here as well, especially against the Fire Shaman's projectiles.
 
@@ -80,7 +80,7 @@ Walk past the three Harpies (no <Effect name="stealth"/> needed) and run up the 
 </GridItem>
 
 <GridItem>
-## <Boss/> Old Tom <Item id="8887" text="false"/><Item id="24672" text="false"/>
+## Old Tom <Item id="8887" text="false"/><Item id="24672" text="false"/>
 
 Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken.
 
@@ -107,7 +107,7 @@ You can use <Skill id="30783"/> to bypass the jumping puzzle.
 
 ---
 
-## <Boss red/> Raving Asura <Item id="8887" text="false"/><Item id="24672" text="false"/>
+## Raving Asura <Item id="8887" text="false"/><Item id="24672" text="false"/>
 
 <Grid>
 <GridItem>

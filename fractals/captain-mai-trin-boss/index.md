@@ -33,7 +33,7 @@ Put down a <Skill id="10197"/> at the start and open it after triggering Mai Tri
 
 ---
 
-## <Boss red/> Mai Trin <Item id="50082" text="false"/>
+## Mai Trin <Item id="50082" text="false"/>
 
 <Grid>
 <GridItem>

@@ -41,7 +41,7 @@ Kill the four *Veteran Chanters* at the beginning to open the gate on the right-
 
 ---
 
-## <Boss/> Chaos Anomaly
+## Chaos Anomaly
 
 <Grid>
 <GridItem>
@@ -87,7 +87,7 @@ Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <I
 
 ---
 
-## <Boss red/> Legendary Brazen Gladiator
+## Legendary Brazen Gladiator
 
 <Grid>
 <GridItem>

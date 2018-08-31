@@ -86,7 +86,7 @@ If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Kra
 
 ---
 
-## <Boss red="true"/> Jellyfish Beast
+## Jellyfish Beast
 
 <Grid>
 <GridItem>

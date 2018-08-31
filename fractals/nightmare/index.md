@@ -37,7 +37,7 @@ Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your 
 
 <Image src="./images/mama.jpg" caption="MAMA: The first boss"/>
 
-## <Boss/> MAMA <Item id="50082" text="false"/><Label>5,200,519 HP</Label>
+## MAMA <Item id="50082" text="false"/><Label>5,200,519 HP</Label>
 
 Stack <Boon name="might"/> before jumping down. (Now that the mistlock resets cooldowns, <Specialization name="chronomancer"/> can prestack boons and use the mistlock)
 
@@ -112,7 +112,7 @@ Use <Skill id="10363"/> to pull mobs together.
 
 ---
 
-## <Boss/> Siax the Corrupted <Item id="50082" text="false"/><Item id="24658" text="false"/><Label>6,138,797 HP</Label>
+## Siax the Corrupted <Item id="50082" text="false"/><Item id="24658" text="false"/><Label>6,138,797 HP</Label>
 
 After the interaction with the red orb in the center of the area, quickly move back to the _Mistlock Singularity_ to avoid aggro from the spawning enemies and stack <Boon name="might"/>. (Now that the mistlock resets cooldowns, <Specialization name="chronomancer"/> can prestack boons and use the mistlock)
 
