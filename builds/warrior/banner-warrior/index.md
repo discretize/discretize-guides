@@ -165,6 +165,6 @@ WIth mainhand dagger on <Specialization name="spellbreaker"/>:
 
 </Card>
 
-<Video videoId="TKiTXjFYxEI" videoTitle="Greatsword + Axe/Axe by Helli [SC]"/>
+<Video youtube="TKiTXjFYxEI" title="Greatsword + Axe/Axe by Helli [SC]"/>
 </GridItem>
 </Grid>

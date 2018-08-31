@@ -99,6 +99,6 @@ You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 | <Skill id="30693"/> | 200 damage |
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
 </Card>
-<Video videoId="v503BIZmaME" videoTitle="Daredevil Staff 34.8k by Ramirez [SC]"/>
+<Video youtube="v503BIZmaME" title="Daredevil Staff 34.8k by Ramirez [SC]"/>
 </GridItem>
 </Grid>

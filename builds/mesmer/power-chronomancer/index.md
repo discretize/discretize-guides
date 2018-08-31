@@ -97,7 +97,7 @@ The build unfolds its full strength in fights with medium to long interphases, i
 Apart from doing DPS, you have access to a wide range of utilities like <Skill id="29519"/> or <Skill id="34326"/> which can all be used twice with <Skill id="29830"/> if needed. Cast <Skill id="10173"/> to quickly get up another illusion.
 </Card>
 
-<Video videoId="PMNK7_Ky6tI" videoTitle="Small Hitbox: 33.6k DPS by Strider [FUN]"/>
+<Video youtube="PMNK7_Ky6tI" title="Small Hitbox: 33.6k DPS by Strider [FUN]"/>
 </GridItem>
 
 <GridItem sm="4">

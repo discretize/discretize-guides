@@ -63,7 +63,7 @@ Note that the optimal gear uses <Item id="86180"/> infusions, please use our [ge
 <GridItem>
 <Skills heal="21750" utility1="30814" utility2="29856" utility3="10236" elite="10311"/>
 
-<Video videoId="Nze8ccCs8lo" videoTitle="Duel/Illu by Van Gherwen [SC] - 15.9k DPS"/>
+<Video youtube="Nze8ccCs8lo" title="Duel/Illu by Van Gherwen [SC] - 15.9k DPS"/>
 
 This build variant has the highest personal DPS but needs <Skill id="10311"/> to keep up permanent <Boon name="quickness"/> and can't share <Boon name="aegis"/>.
 </GridItem>
@@ -79,7 +79,7 @@ This build variant has the highest personal DPS but needs <Skill id="10311"/> to
 <GridItem>
 <Skills heal="21750" utility1="30814" utility2="29856" utility3="10236" elite="29519"/>
 
-<Video videoId="2_-aKb6VQd8" videoTitle="Illu/Insp by Van Gherwen [SC] - 11.6k DPS"/>
+<Video youtube="2_-aKb6VQd8" title="Illu/Insp by Van Gherwen [SC] - 11.6k DPS"/>
 
 Use this build variant if you need the CC from <Skill id="29519"/> and <Boon name="aegis"/> sharing from <Trait id="1852"/> to prevent mechanics like the spinning <Control name="knockback"/> from MAMA ([Nightmare Fractal](https://discretize.eu/fractals/nightmare)).
 
