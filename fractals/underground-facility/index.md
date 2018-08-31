@@ -105,13 +105,13 @@ Cast <Skill id="13117"/> for immediate <Effect name="stealth"/>.
 
 ---
 
-## <Boss/> Champion Rabsovich <Item id="8892" text="false"/><Item id="24684" text="false"/>
+## Champion Rabsovich <Item id="8892" text="false"/><Item id="24684" text="false"/>
 
 When you destroy the door, you will reach the most annoying boss ingame, have fun casting half of your skills into his shield. There's really no trick with him apart from breaking his defiance bar as often as possible. If needed, do `/gg` afterwards to reset your wasted cooldowns.
 
 ---
 
-## <Boss red/> Dredge Powersuit <Item id="8892" text="false"/><Item id="24684" text="false"/> _or_ Rampaging Ice Elemental <Item id="8885" text="false"/><Item id="24661" text="false"/><Label>Random</Label>
+## Dredge Powersuit <Item id="8892" text="false"/><Item id="24684" text="false"/> _or_ Rampaging Ice Elemental <Item id="8885" text="false"/><Item id="24661" text="false"/><Label>Random</Label>
 
 <Grid>
 <GridItem>

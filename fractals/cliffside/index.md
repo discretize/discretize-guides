@@ -133,7 +133,7 @@ After the whole party `/gg`'ed, resurrect yourself and place a <Skill id="10197"
 </Row>>
 
 <GridItem>
-## <Boss red/> Arch Diviner <Item id="8881" text="false"/><Item id="24678" text="false"/>
+## Arch Diviner <Item id="8881" text="false"/><Item id="24678" text="false"/>
 After the Mesmer indicates you to resurrect, take the portal to above and combat the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Trait id="1502"/>.
 
 Every 25% of his health, you will need to collect a _Cultist Hammer_ charge similar to before by killing one of the four spawned Cultists and hit the final Seal to make the Arch Diviner vulnerable again. Cultists apply a lot of conditions so kill them fast and try to stay out of their aggro range.

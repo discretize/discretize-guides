@@ -28,7 +28,7 @@ sigils: [{ id: 24615 }, { id: 24868 }]
 consumables: [78978, 8759, 8678, 8732]
 ---
 
-## <Boss/> Skorvald the Shattered <Label>5,551,340 HP</Label>
+## Skorvald the Shattered <Label>5,551,340 HP</Label>
 
 <Grid>
 <GridItem>
@@ -39,7 +39,6 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 </GridItem>
 </Grid>
 
-<Mechanics>
 | | |
 | --- | --- |
 | **Solar Bolt** | Skorvald often throws a red orb which splits into three after each bounce. Every orb leaves a <Condition name="burning"/> field which deals high damage. |
@@ -54,7 +53,6 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 | **Beaming Smile** | **Only below 50% health.** Skorvald teleports to a random location and summons three large and deadly laser beams. Move out to prevent instant death. He also projects a white beam onto players inflicting <Condition name="fear"/> and <Condition name="blind"/> if you face him upon triggering - simply turn away to avoid it. |
 | **Solar Cyclone** | **Only below 33% health.** Skorvald starts spinning counter-clockwise and releases conical shockwaves similar to *Cranial Cascade *. There are small safe-spots between each shockwave, learn to stand inside them to avoid the high damage and interrupts. |
 | **Combustion Rush** | **Only below 33% health.** Elite Flux Anomalies start charging through players and <Control name="knockback"/>, indicated by a large arrow on the platform. |
-</Mechanics>
 
 <Grid>
 <GridItem sm="3">
@@ -114,7 +112,7 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 
 ---
 
-## <Boss/> Artsariiv <Label>5,962,266 HP</Label>
+## Artsariiv <Label>5,962,266 HP</Label>
 
 <Grid>
 <GridItem>
@@ -133,7 +131,6 @@ You will need a lot of crowd control skills, consumables like <Item id="8759"/> 
 </GridItem>
 </Grid>
 
-<Mechanics>
 <Grid>
 <GridItem>
 | | |
@@ -152,7 +149,6 @@ You will need a lot of crowd control skills, consumables like <Item id="8759"/> 
 <Image src="./images/so-doom.jpg" caption="A player doomed to explode"/>
 <Image src="./images/so-temporal-anomaly.jpg" caption="A Temporal Anomaly"/>
 </GridItem>
-</Mechanics>
 </Grid>
 
 ### Tactic
@@ -191,7 +187,7 @@ Use <Skill id="31496"/> against the multitude of projectiles, especially against
 
 ---
 
-## <Boss red/> Arkk <Item id="50082" text="false"/><Label>9,942,250 HP</Label>
+## Arkk <Item id="50082" text="false"/><Label>9,942,250 HP</Label>
 
 <Grid>
 <GridItem>
@@ -209,7 +205,6 @@ Stack <Boon name="might"/> (you can use `Nova Launch`) and renew your _Mistlock 
 </GridItem>
 </Grid>
 
-<Mechanics>
 <Grid>
 <GridItem>
 | | |
@@ -233,7 +228,6 @@ Stack <Boon name="might"/> (you can use `Nova Launch`) and renew your _Mistlock 
 <Image src="./images/so-arkk-green.jpg" caption="Temporal Realignment"/>
 </GridItem>
 </Grid>
-</Mechanics>
 
 ### Tactic
 

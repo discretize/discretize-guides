@@ -62,7 +62,7 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 
 ---
 
-## <Boss/> The Mossman
+## The Mossman
 
 <Grid>
 <GridItem>
@@ -75,7 +75,7 @@ In the passage, the Mossman is waiting to fight you. You can break his defiance 
 
 ---
 
-## <Boss red/> Bloomhunger
+## Bloomhunger
 
 <Grid>
 <GridItem>

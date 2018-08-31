@@ -50,7 +50,7 @@ Precast your strong dps skills like <Skill id="5737"/> and <Skill id="5501"/> on
 
 ---
 
-## <Boss/> Grawl Shaman <Item id="8890" text="false"/><Item id="24648" text="false"/>
+## Grawl Shaman <Item id="8890" text="false"/><Item id="24648" text="false"/>
 
 Kill the _Veteran Grawl Shamans_ to prevent them from sacrificing the captives. Control effects like <Control name="stun"/> and <Condition name="immobile"/> hinder them from reaching the edge.
 
@@ -74,7 +74,7 @@ Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to ke
 
 ---
 
-## <Boss red/> Imbued Shaman <Item id="8885" text="false"/><Item id="8886" text="false"/><Item id="24661" text="false"/>
+## Imbued Shaman <Item id="8885" text="false"/><Item id="8886" text="false"/><Item id="24661" text="false"/>
 
 <Grid>
 <GridItem>

@@ -47,7 +47,7 @@ As you don't need crowd control for the next boss, you can take <Skill id="10311
 
 ---
 
-## <Boss/> Elemental Source <Item id="8885" text="false"/><Item id="24661" text="false"/>
+## Elemental Source <Item id="8885" text="false"/><Item id="24661" text="false"/>
 
 <Grid>
 <GridItem>
@@ -90,7 +90,7 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 </GridItem>
 </Grid>
 
-## <Boss red/> Shaman Lornarr Dragonseeker <Item id="8883" text="false"/><Item id="24667" text="false"/>
+## Shaman Lornarr Dragonseeker <Item id="8883" text="false"/><Item id="24667" text="false"/>
 
 <Grid>
 <GridItem>

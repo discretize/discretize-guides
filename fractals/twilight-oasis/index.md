@@ -49,7 +49,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 </GridItem>
 </Grid>
 
-## <Boss/> First Sandbinder
+## First Sandbinder
 
 <Grid>
 <GridItem>
@@ -83,7 +83,7 @@ Run an offhand axe for the <Control name="pull"/> from <Skill id="12638"/>.
 </GridItem>
 
 <GridItem>
-## <Boss/> Priestess Amala (Basic)
+## Priestess Amala (Basic)
 Next up you will encounter Priestess Amala for the first time, bring her to 75% health and she wipes your party to praise Joko.
 
 She uses the _Scythe Slash_ attack (causes <Control name="knockback"/>) and a basic version of her 9-part attack chain applying <Condition name="bleeding"/> with each AoE.
@@ -122,7 +122,7 @@ While the party is killing the first Sandbinder a person with portal skip to the
 
 ---
 
-## <Boss red/> Priestess Amala
+## Priestess Amala
 
 Stack <Boon name="might"/> and be ready to dodge the initial <Control name="knockback"/> after activating the encounter.
 

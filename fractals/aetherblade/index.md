@@ -113,7 +113,7 @@ Stay in <Skill id="5492"/> after the last trash group for <Boon name="might"/> s
 
 ---
 
-## <Boss red/> Final room (Frizz) <Item id="8887" text="false"/><Item id="24672" text="false"/>
+## Final room (Frizz) <Item id="8887" text="false"/><Item id="24672" text="false"/>
 
 <Grid>
 <GridItem>

@@ -26,7 +26,7 @@ sigils: [{ id: 24868 }, { id: 24615 }]
 consumables: [78978, 8764, 8801]
 ---
 
-## <Boss/> Siegemaster Dulfy
+## Siegemaster Dulfy
 
 <Grid>
 <GridItem>
@@ -115,7 +115,7 @@ As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and 
 
 <Image src="./images/the_courtyard.jpg" caption="The courtyard"/>
 
-## <Boss red/> Captain Ashym
+## Captain Ashym
 
 Stack <Boon name="might"/> while Captain Ashym runs towards you. Break his defiance bar as frequent as possible and be careful with his _Meteor Shower_ AoE skill. He also tends to block multiple times during the fight, stop wasting your skills in that case.
 
