@@ -23,10 +23,7 @@ sigils: [{ id: 24678 }, { id: 24615 }]
 consumables: [78978]
 ---
 
-<Message icon="warning circle">
-<MessageHeader>
-Disclaimer
-</MessageHeader>
+<Message>
 You will need an experienced <Specialization name="mesmer"/> for this fractal or take double the time. The Mesmer should run <Skill id="10200"/>, <Skill id="29578"/>, <Skill id="10197"/>, <Skill id="10377"/> and <Trait id="752"/> until the end fight.
 </Message>
 

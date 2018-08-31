@@ -24,10 +24,7 @@ sigils:
 consumables: [78978]
 ---
 
-<Message icon="warning circle">
-<MessageHeader>
-Disclaimer
-</MessageHeader>
+<Message>
 This is an underwater fractal. Make sure you have approriate underwater equipment with enough Agony Resistance.
 </Message>
 
