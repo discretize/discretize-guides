@@ -106,7 +106,7 @@ The rotation is very complex and highly depends on a good <Boon name="alacrity"/
 
 </Card>
 
-<Video videoId="4OgPFRiDaMI" videoTitle="Huge Hitbox: 34.5k DPS by Roul [SC]"/>
+<Video youtube="4OgPFRiDaMI" title="Huge Hitbox: 34.5k DPS by Roul [SC]"/>
 </GridItem>
 
 <GridItem>

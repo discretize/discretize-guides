@@ -166,7 +166,7 @@ Keep in mind that you usually want to replace <Skill id="30814"/> first and use 
 | <Skill id="29856"/> | 99 damage with <Condition name="chilled"/> |
 </Card>
 
-<Video videoId="SKD6K-zCUx4" videoTitle="No Staff Rotation by Yui [SC]"/>
+<Video youtube="SKD6K-zCUx4" title="No Staff Rotation by Yui [SC]"/>
 </GridItem>
 
 <GridItem sm="7">

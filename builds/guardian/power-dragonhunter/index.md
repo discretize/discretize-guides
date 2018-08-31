@@ -94,6 +94,6 @@ The build also offers strong on-demand party support with <Skill id="30039"/> an
 | <Skill id="30273"/> | 150 damage |
 </Card>
 
-<Video videoId="oG4jaq3g9pM" videoTitle="Large Hitbox: 32.7k DPS by Nightmare [SC]"/>
+<Video youtube="oG4jaq3g9pM" title="Large Hitbox: 32.7k DPS by Nightmare [SC]"/>
 </GridItem>
 </Grid>
