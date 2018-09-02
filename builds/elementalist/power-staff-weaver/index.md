@@ -1,5 +1,5 @@
 ---
-title: 'Power Weaver'
+title: 'Power Staff Weaver'
 date: '2018-07-01'
 rating: 'Meta'
 role: 'Damage'
