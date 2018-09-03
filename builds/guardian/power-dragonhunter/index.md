@@ -28,7 +28,7 @@ The build also offers strong on-demand party support with <Skill id="30039"/> an
 <Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46775" weapon2OffSigilId="24868" weapon2OffType="Torch" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
 
 <Card title="Alternative weapons">
-- <Item id="36053" text="false"/> / <Item id="24615" text="false"/> and slaying sigils  
+- <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
   (<Item id="36054"/> doesn't stack anymore)
 - Hammer for <Boon name="might"/> stacking
 </Card>
@@ -54,10 +54,10 @@ The build also offers strong on-demand party support with <Skill id="30039"/> an
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Skill id="9246" size="big" text="false"/> | A 1,200 range teleport to an ally. |
-| <Skill id="9153" size="big" text="false"/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
-| <Skill id="9125" size="big" text="false"/> | Deals additional 200 defiance bar damage. |
-| <Skill id="9251" size="big" text="false"/> | A stationary reflect lasting for 10 seconds. |
+| <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
+| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
+| <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
+| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
 </Card>
 </GridItem>
 </Grid>

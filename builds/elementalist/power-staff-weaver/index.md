@@ -35,8 +35,8 @@ Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and
 <Weapons weapon1MainId="46773" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact"/>
 
 <Card title="Swap Weapons">
-* Staff with <Item id="36053" text="false"/> / <Item id="24615" text="false"/> (<Item id="36054"/> doesn't stack anymore)
-* Staff with <Item id="24658" text="false"/> / <Item id="24868" text="false"/> for the [Nightmare Fractal](https://discretize.eu/fractals/nightmare)
+* Staff with <Item id="36053" disableText/> / <Item id="24615" disableText/> (<Item id="36054"/> doesn't stack anymore)
+* Staff with <Item id="24658" disableText/> / <Item id="24868" disableText/> for the [Nightmare Fractal](https://discretize.eu/fractals/nightmare)
 * At least a Scepter and Dagger for <Boon name="might"/> stacking, Sword if you want to go the extra mile.
 * Note that the Gear with and without <Trait id="1016" profession="ranger"/> is identical.
 </Card>
@@ -67,17 +67,17 @@ Use the **Arcane variant** if you have a <Specialization name="chronomancer" pre
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Skill id="5638" size="big" text="false"/> | Deals the same damage as <Skill id="5539"/> with a higher cooldown and less charges but affects up to five targets. Useful to cleave adds faster or if you need adittional blast finisher. |
-| <Skill id="5567" size="big" text="false"/> | Can be used on big hitboxes. Has more burst than  <Skill id="5624"/>. Can be used from range with the disadvantage of not being able to move. Mostly used as a third weapon or to swap with another weaver. |
-| <Skill id="40183" size="big" text="false"/> | An alternative damage skill for long burst phases. | 
-| <Skill id="5536" size="big" text="false"/> | A 900 range teleport, sufficient for most blink spots. |
-| <Skill id="44239" size="big" text="false"/> | An alternative healing skill providing additional group heal. | 
-| <Skill id="5507" size="big" text="false"/> | An alternative healing skill providing a strong condition cleanse. | 
-| <Skill id="44926" size="big" text="false"/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
-| <Skill id="5641" size="big" text="false"/> | Provides three blocks (e.g. Aether blade console room, Underground Facility).|
-| <Trait id="1673" size="big" text="false"/> | If you have no problems with survivability, you can take this trait for a higher <Boon name="retaliation"/> uptime. |
-| <Skill id="5639" size="big" text="false"/> | Used for personal <Boon name="stability"/> (e.g. Aether blade console room, Underground Facility). |
-| <Trait id="2115" size="big" text="false"/> | Can be considered for some extra health if you are at 100% critical chance without <Trait id="2177"/>. |
+| <Skill id="5638" size="big" disableText/> | Deals the same damage as <Skill id="5539"/> with a higher cooldown and less charges but affects up to five targets. Useful to cleave adds faster or if you need adittional blast finisher. |
+| <Skill id="5567" size="big" disableText/> | Can be used on big hitboxes. Has more burst than  <Skill id="5624"/>. Can be used from range with the disadvantage of not being able to move. Mostly used as a third weapon or to swap with another weaver. |
+| <Skill id="40183" size="big" disableText/> | An alternative damage skill for long burst phases. | 
+| <Skill id="5536" size="big" disableText/> | A 900 range teleport, sufficient for most blink spots. |
+| <Skill id="44239" size="big" disableText/> | An alternative healing skill providing additional group heal. | 
+| <Skill id="5507" size="big" disableText/> | An alternative healing skill providing a strong condition cleanse. | 
+| <Skill id="44926" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
+| <Skill id="5641" size="big" disableText/> | Provides three blocks (e.g. Aether blade console room, Underground Facility).|
+| <Trait id="1673" size="big" disableText/> | If you have no problems with survivability, you can take this trait for a higher <Boon name="retaliation"/> uptime. |
+| <Skill id="5639" size="big" disableText/> | Used for personal <Boon name="stability"/> (e.g. Aether blade console room, Underground Facility). |
+| <Trait id="2115" size="big" disableText/> | Can be considered for some extra health if you are at 100% critical chance without <Trait id="2177"/>. |
 </Card>
 </GridItem>
 </Grid>
@@ -90,19 +90,19 @@ Use the **Arcane variant** if you have a <Specialization name="chronomancer" pre
 The rotation is very complex and highly depends on a good <Boon name="alacrity"/> uptime. Below is a descending list of priorities:
 
 1.  Use <Skill id="5548"/> whenever possible (basically every 6s) and fill the gaps in between with the skills listed below. Any delay on using it will delay your important DPS skills, thus always use <Skill id="5548"/> first.
-2.  Use <Skill id="5501"/> whenever possible and immediately switch to <Skill id="5495" text="false"/> while casting. Cast <Skill id="5528"/> before switching back to <Skill id="5492" text="false"/>, cast <Skill id="43762"/> and finally a new <Skill id="5548"/>.
-    1. You can also start in <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>, use <Skill id="5548"/>, <Skill id="5679"/>, attune to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> use <Skill id="5528"/> and cast <Skill id="5501"/> while attuning back to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/>.
-3.  While attuned to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> or <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> and <Skill id="5548"/>, <Skill id="41125"/> and <Skill id="43762"/> are on cooldown use a conjured weapon and switch back to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> during the first attack:
+2.  Use <Skill id="5501"/> whenever possible and immediately switch to <Skill id="5495" disableText/> while casting. Cast <Skill id="5528"/> before switching back to <Skill id="5492" disableText/>, cast <Skill id="43762"/> and finally a new <Skill id="5548"/>.
+    1. You can also start in <Skill id="5492" disableText/>/<Skill id="5492" disableText/>, use <Skill id="5548"/>, <Skill id="5679"/>, attune to <Skill id="5495" disableText/>/<Skill id="5492" disableText/> use <Skill id="5528"/> and cast <Skill id="5501"/> while attuning back to <Skill id="5492" disableText/>/<Skill id="5495" disableText/>.
+3.  While attuned to <Skill id="5492" disableText/>/<Skill id="5495" disableText/> or <Skill id="5492" disableText/>/<Skill id="5494" disableText/> and <Skill id="5548"/>, <Skill id="41125"/> and <Skill id="43762"/> are on cooldown use a conjured weapon and switch back to <Skill id="5492" disableText/>/<Skill id="5492" disableText/> during the first attack:
     1. In <Skill id="5624"/>: <Skill id="5725"/> (inside the bosses hitbox) => 2x auto-attack chain.
-    2. Or in <Skill id="5516"/>: Only when you can whirl against a wall <Skill id="5697"/> => <Skill id="5517"/> => <Skill id="5531"/>. In the standard rotation this weapon is used in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> to skip <Skill id="5519" text="false"/>.
+    2. Or in <Skill id="5516"/>: Only when you can whirl against a wall <Skill id="5697"/> => <Skill id="5517"/> => <Skill id="5531"/>. In the standard rotation this weapon is used in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> to skip <Skill id="5519" disableText/>.
     3. Or in <Skill id="5567"/>: <Skill id="5568"/> => <Skill id="5723"/> => <Skill id="5720"/>.
-4.  Switch to <Skill id="5494" text="false"/> when <Skill id="5737"/> is ready or will be in <4 seconds. Cast <Skill id="41125"/> and <Skill id="5552"/> first and switch back to <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> while casting <Skill id="5737"/> to profit from the better modifiers in <Skill id="5492"/>
-    1. If <Skill id="5501"/> is ready skip <Skill id="41125"/> and <Skill id="5552"/> and cast <Skill id="5737"/> immediately followed by <Skill id="5501"/> while switching back to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>
-    2. You can also use this rotation to cast <Skill id="5737"/>: Start in <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>, <Skill id="5548" text="false"/>, <Skill id="5679" text="false"/>, <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>, <Skill id="5528" text="false"/>,<Skill id="43762" text="false"/> , <Skill id="5501" text="false"/>, <Skill id="5494" text="false"/>/<Skill id="5495" text="false"/>, <Skill id="42321" text="false"/>, <Skill id="5737" text="false"/>, <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/>, <Skill id="5548" text="false"/>, <Skill id="41125" text="false"/> and continue with a weapon.
+4.  Switch to <Skill id="5494" disableText/> when <Skill id="5737"/> is ready or will be in <4 seconds. Cast <Skill id="41125"/> and <Skill id="5552"/> first and switch back to <Skill id="5492" disableText/>/<Skill id="5494" disableText/> while casting <Skill id="5737"/> to profit from the better modifiers in <Skill id="5492"/>
+    1. If <Skill id="5501"/> is ready skip <Skill id="41125"/> and <Skill id="5552"/> and cast <Skill id="5737"/> immediately followed by <Skill id="5501"/> while switching back to <Skill id="5492" disableText/>/<Skill id="5492" disableText/>
+    2. You can also use this rotation to cast <Skill id="5737"/>: Start in <Skill id="5492" disableText/>/<Skill id="5492" disableText/>, <Skill id="5548" disableText/>, <Skill id="5679" disableText/>, <Skill id="5495" disableText/>/<Skill id="5492" disableText/>, <Skill id="5528" disableText/>,<Skill id="43762" disableText/> , <Skill id="5501" disableText/>, <Skill id="5494" disableText/>/<Skill id="5495" disableText/>, <Skill id="42321" disableText/>, <Skill id="5737" disableText/>, <Skill id="5492" disableText/>/<Skill id="5494" disableText/>, <Skill id="5548" disableText/>, <Skill id="41125" disableText/> and continue with a weapon.
 5.  Use <Skill id="5539"/> (or <Skill id="5638"/>) three times while double-attuned with <Trait id="2131"/> and holding <Skill id="5624"/> (Ferocity boost), preferably while the defiance bar is broken.
-6.  Use <Skill id="5679"/> if you can't finish another <Skill id="5491"/> before leaving <Skill id="5492" text="false"/>
+6.  Use <Skill id="5679"/> if you can't finish another <Skill id="5491"/> before leaving <Skill id="5492" disableText/>
 7.  Don't start casting <Skill id="5491"/> if you can't finish it
-8.  If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> to get a last burst with <Skill id="41125"/> in.
+8.  If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> to get a last burst with <Skill id="41125"/> in.
 
 </Card>
 
@@ -112,33 +112,33 @@ The rotation is very complex and highly depends on a good <Boon name="alacrity"/
 <GridItem>
 <Card title="Opener">
 ### Pre-casting
-Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and pre-cast <Skill id="5528"/> three seconds before the fight starts. Switch to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and use <Skill id="5548"/> and <Skill id="43762"/> a moment before <Skill id="5528"/> triggers. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and continue with the normal opener below.
+Start in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and pre-cast <Skill id="5528"/> three seconds before the fight starts. Switch to <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and use <Skill id="5548"/> and <Skill id="43762"/> a moment before <Skill id="5528"/> triggers. Attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and continue with the normal opener below.
 
 ### Normal opener
 
-1. Start in <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5737"/> and <Skill id="5501"/>
-2. Switch to <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/>
+1. Start in <Skill id="5494" disableText/>/<Skill id="5492" disableText/> with <Skill id="5737"/> and <Skill id="5501"/>
+2. Switch to <Skill id="5492" disableText/>/<Skill id="5494" disableText/>
 3. <Skill id="5548"/> and <Skill id="41125"/>
 4. <Skill id="5624"/>
    1. <Skill id="5725"/>
-   2. <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>
+   2. <Skill id="5492" disableText/>/<Skill id="5492" disableText/>
    3. <Skill id="5539"/> x3
    4. 2x <Skill id="5726"/> chain
 5. <Skill id="5548"/> and <Skill id="5679"/>
-6. Switch to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>
+6. Switch to <Skill id="5495" disableText/>/<Skill id="5492" disableText/>
 7. <Skill id="5528"/>
 8. <Skill id="5516"/>
    1. <Skill id="5517"/>
    2. <Skill id="5531"/>
-   3. <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/>
+   3. <Skill id="5492" disableText/>/<Skill id="5495" disableText/>
 9. <Skill id="5548"/>
 10. <Skill id="43762"/>
-11. <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>
+11. <Skill id="5492" disableText/>/<Skill id="5492" disableText/>
 12. Continue with the usual priority list
 
 ### Situational
 
-Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and continue with the rotation above. This is useful for fights where the breakbar is delayed or you are moving to the boss initially.
+Start in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and continue with the rotation above. This is useful for fights where the breakbar is delayed or you are moving to the boss initially.
 </Card>
 
 <Card title="Hard CC skills">

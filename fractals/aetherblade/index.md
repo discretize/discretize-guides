@@ -27,7 +27,7 @@ sigils:
   ]
 ---
 
-## Start (Water tunnel) <Item id="50082" text="false"/>
+## Start (Water tunnel) <Item id="50082" disableText/>
 
 <Grid>
 <GridItem>
@@ -52,7 +52,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 
 ---
 
-## Lasers <Item id="50082" text="false"/>
+## Lasers <Item id="50082" disableText/>
 
 <Grid>
 <GridItem>
@@ -74,7 +74,7 @@ Use <Skill id="29578"/> to teleport up and cast <Skill id="30305"/> or any Shatt
 </Tab>
 
 <Tab specialization="elementalist">
-Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" text="false"/> for additional condition clear with <Skill id="5551"/>.
+Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>.
 </Tab>
 
 <Tab specialization="daredevil">
@@ -91,7 +91,7 @@ You can solo both the first and second room if you are fast enough. Use <Skill i
 
 ---
 
-## Breach the gate <Item id="50082" text="false"/>
+## Breach the gate <Item id="50082" disableText/>
 
 <Grid>
 <GridItem>
@@ -113,7 +113,7 @@ Stay in <Skill id="5492"/> after the last trash group for <Boon name="might"/> s
 
 ---
 
-## Final room (Frizz) <Item id="8887" text="false"/><Item id="24672" text="false"/>
+## Final room (Frizz) <Item id="8887" disableText/><Item id="24672" disableText/>
 
 <Grid>
 <GridItem>

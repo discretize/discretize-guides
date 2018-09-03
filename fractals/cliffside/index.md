@@ -31,7 +31,7 @@ You will need an experienced <Specialization name="mesmer"/> for this fractal or
 
 <Grid>
 <GridItem>
-## Start & Ankle Seals <Item id="8881" text="false"/><Item id="24678" text="false"/>
+## Start & Ankle Seals <Item id="8881" disableText/><Item id="24678" disableText/>
 
 Kill the Cultists but take the _Cultist Hammer_ before finishing the last one to get a hammer charge.  
 Take the portal to above (...or walk) and destroy the two _Ankle Seals_ using hammer `Skill 4`. Both sigils have to get hit two times, do not finish mobs unless you need a charge.  
@@ -57,7 +57,7 @@ Place a <Skill id="5516"/> near the next corridor to speed things up for the Mes
 
 ---
 
-## Chest Seal <Item id="8881" text="false"/><Item id="24678" text="false"/>
+## Chest Seal <Item id="8881" disableText/><Item id="24678" disableText/>
 
 <Grid>
 <GridItem>
@@ -82,7 +82,7 @@ After 2-3 hits against the Seal, place a <Skill id="10197"/>, use <Skill id="295
 
 ---
 
-## Arm Seals <Item id="8881" text="false"/><Item id="24678" text="false"/>
+## Arm Seals <Item id="8881" disableText/><Item id="24678" disableText/>
 
 <Grid>
 <GridItem>
@@ -133,7 +133,7 @@ After the whole party `/gg`'ed, resurrect yourself and place a <Skill id="10197"
 </Row>>
 
 <GridItem>
-## Arch Diviner <Item id="8881" text="false"/><Item id="24678" text="false"/>
+## Arch Diviner <Item id="8881" disableText/><Item id="24678" disableText/>
 After the Mesmer indicates you to resurrect, take the portal to above and combat the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Trait id="1502"/>.
 
 Every 25% of his health, you will need to collect a _Cultist Hammer_ charge similar to before by killing one of the four spawned Cultists and hit the final Seal to make the Arch Diviner vulnerable again. Cultists apply a lot of conditions so kill them fast and try to stay out of their aggro range.

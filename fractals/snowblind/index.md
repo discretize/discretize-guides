@@ -24,7 +24,7 @@ sigils: [{ id: 36053 }, { id: 24667, description: 'for the Svanir & end boss' }]
 consumables: [78978, 49940]
 ---
 
-## Ice Wall <Item id="8883" text="false"/><Item id="24667" text="false"/>
+## Ice Wall <Item id="8883" disableText/><Item id="24667" disableText/>
 
 <Grid>
 <GridItem>
@@ -47,7 +47,7 @@ As you don't need crowd control for the next boss, you can take <Skill id="10311
 
 ---
 
-## Elemental Source <Item id="8885" text="false"/><Item id="24661" text="false"/>
+## Elemental Source <Item id="8885" disableText/><Item id="24661" disableText/>
 
 <Grid>
 <GridItem>
@@ -79,7 +79,7 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 
 ---
 
-## Forest <Item id="8883" text="false"/><Item id="24667" text="false"/>
+## Forest <Item id="8883" disableText/><Item id="24667" disableText/>
 
 <Grid>
 <GridItem>
@@ -90,7 +90,7 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 </GridItem>
 </Grid>
 
-## Shaman Lornarr Dragonseeker <Item id="8883" text="false"/><Item id="24667" text="false"/>
+## Shaman Lornarr Dragonseeker <Item id="8883" disableText/><Item id="24667" disableText/>
 
 <Grid>
 <GridItem>

@@ -9,7 +9,7 @@ description: 'Use blasts and combo fields to stack large amounts of Might, Fury 
 
 Blast finishers can be used to stack group buffs on certain Combo Fields. The most common applications are <Boon name="might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds) and <Effect name="stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
-The <Specialization name="elementalist"/> trait <Trait id="1510"/> also makes them grant <Boon name="fury"/> with each blast finisher, which can be shared by the <Specialization text="false" name="chronomancer"/> Chronomancer using <Skill id="10236"/>. Due to this, skills like <Skill id="14403"/> or <Skill id="31451"/> (Tiger pet) are usually redundant in fractals.
+The <Specialization name="elementalist"/> trait <Trait id="1510"/> also makes them grant <Boon name="fury"/> with each blast finisher, which can be shared by the <Specialization disableText name="chronomancer"/> Chronomancer using <Skill id="10236"/>. Due to this, skills like <Skill id="14403"/> or <Skill id="31451"/> (Tiger pet) are usually redundant in fractals.
 
 Below is a list of frequently used blast finishers among all professions. Note that it is often required to swap to different weapons, make sure to swap back before you enter combat.
 
@@ -17,7 +17,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
 
 ### <Boon name="might"/> stacking for advanced groups
 
-- <Specialization name="weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" text="false"/> / <Skill id="5492" text="false"/>
+- <Specialization name="weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
 - <Specialization name="warrior"/>: <Skill id="14405"/> and <Skill id="14407"/> (Druid picks up one)
 - <Specialization name="druid"/>: <Skill id="12621"/> (Warhorn 5) and <Skill id="31535"/> (Staff 3)
 - <Specialization name="mesmer"/>: <Skill id="10285"/> (Torch 4)
@@ -27,13 +27,13 @@ Below is a list of frequently used blast finishers among all professions. Note t
 ### <Boon name="might"/> stacking if you are alone
 
 - <Specialization name="weaver"/>:
-  - Start on Scepter/Dagger <Skill id="5492" text="false"/> / <Skill id="5492" text="false"/>
+  - Start on Scepter/Dagger <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
   - <Skill id="5692"/> (Scepter 2)
   - <Skill id="5691"/> (Dagger 4)
   - <Skill id="5675"/> (Scepter 3)
-  - Swap to earth and Sword <Skill id="5495" text="false"/> / <Skill id="5492" text="false"/>
+  - Swap to earth and Sword <Skill id="5495" disableText/> / <Skill id="5492" disableText/>
   - <Skill id="40709"/> (Sword 2)
-  - Swap to earth <Skill id="5495" text="false"/> / <Skill id="5495" text="false"/>
+  - Swap to earth <Skill id="5495" disableText/> / <Skill id="5495" disableText/>
   - <Skill id="5690"/> (Dagger 4)
   - <Skill id="5522"/> (Dagger 5)
   - Swap to Focus
@@ -60,10 +60,10 @@ Below is a list of frequently used blast finishers among all professions. Note t
 Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone is back on their main weapon set before starting a fight.**
 
 - <Specialization name="elementalist"/>:
-  - <Skill id="5548"/> (Staff 2, <Skill id="5492" text="false"/>)
-  - <Skill id="5691"/> (Dagger 4, <Skill id="5492" text="false"/>)
-  - <Skill id="5497"/> (Focus 4, <Skill id="5492" text="false"/>)
-  - <Skill id="29533"/> (Warhorn 5, <Skill id="5492" text="false"/>, <Specialization text="false" name="tempest"/>)
+  - <Skill id="5548"/> (Staff 2, <Skill id="5492" disableText/>)
+  - <Skill id="5691"/> (Dagger 4, <Skill id="5492" disableText/>)
+  - <Skill id="5497"/> (Focus 4, <Skill id="5492" disableText/>)
+  - <Skill id="29533"/> (Warhorn 5, <Skill id="5492" disableText/>, <Specialization disableText name="tempest"/>)
 - <Specialization name="berserker"/>:
   - <Skill id="29940"/> (Torch 5)
 - <Specialization name="ranger"/>:
@@ -88,6 +88,6 @@ Below is a list of regularly used _Smoke Field_ skills. Be careful not to aggro 
 - <Specialization name="mesmer"/>:
   - <Skill id="10245"/>
   - <Skill id="10187"/>
-  - Double any skill with <Skill id="29830"/> (<Specialization text="false" name="chronomancer"/>)
+  - Double any skill with <Skill id="29830"/> (<Specialization disableText name="chronomancer"/>)
 - <Specialization name="thief"/>:
   - <Skill id="13117"/>

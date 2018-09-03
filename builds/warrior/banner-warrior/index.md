@@ -32,7 +32,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 <GridItem>
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainId="46759" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainId="46766" weapon2MainSigil1="Severance" weapon2MainSigil1Id="84505" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffId="46766" weapon2OffSigil="Paralyzation" weapon2OffSigilId="24639"/>
 <Card title="Swap Weapons">
-* All weapons with <Item id="36053" text="false"/> / <Item id="24615" text="false"/> and slaying sigils  
+* All weapons with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
   (<Item id="36054"/> doesn't stack anymore)
 * A warhorn for pre-stacking
 </Card>
@@ -58,9 +58,9 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Skill id="14354" size="big" text="false"/> | Please use this instead of <Skill id="14502"/> for situations where you should not <Control name="knockback"/> foes (especially trash mobs). |
-| <Trait id="1338" size="big" text="false"/> | If you don't need the Mace/Mace CC, you can use a Greatsword and this trait instead. |
-| <Skill id="14419" size="big" text="false"/> | A niche skill if you expect people do go down from incoming damage. |
+| <Skill id="14354" size="big" disableText/> | Please use this instead of <Skill id="14502"/> for situations where you should not <Control name="knockback"/> foes (especially trash mobs). |
+| <Trait id="1338" size="big" disableText/> | If you don't need the Mace/Mace CC, you can use a Greatsword and this trait instead. |
+| <Skill id="14419" size="big" disableText/> | A niche skill if you expect people do go down from incoming damage. |
 </Card>
 </GridItem>
 </Grid>
@@ -93,7 +93,7 @@ A good countermeasure is to use Assassin's weapons instead of Beserker on this b
 <GridItem sm="7">
 <Card title="Skill usage">
 * Pre-fight:
-  * Use <Skill id="14394"/> and <Skill id="14393"/> on warhorn (<Boon name="vigor" text="false"/><Boon name="swiftness" text="false"/>)
+  * Use <Skill id="14394"/> and <Skill id="14393"/> on warhorn (<Boon name="vigor" disableText/><Boon name="swiftness" disableText/>)
   * Place <Skill id="14407"/> and <Skill id="14405"/> close to the boss (do not place banners directly at or next to boss, that place is reserved for conjured weapons!)
   * If its an encounter where you have to move out of banner radius, have another player pick up the second banner to help you move it
   * Use <Skill id="14402"/> to charge up Adrenaline immediately before the fight starts
