@@ -27,7 +27,7 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 <Weapons weapon1MainId="46768" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Rifle" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact"/>
 
 <Card title="Alternative weapons">
-* Rifle with <Item id="36053" text="false"/> / <Item id="24615" text="false"/> and slaying sigils  
+* Rifle with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
   (<Item id="36054"/> doesn't stack anymore)
 </Card>
 </GridItem>
@@ -48,8 +48,8 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait id="1923" size="big" text="false"/> | If lacking fury, consider swapping out <Trait id="2006"/>. |
-| <Trait id="505" size="big" text="false"/> | On longer fights without adds, this may pull slightly ahead of <Trait id="1541"/>. |
+| <Trait id="1923" size="big" disableText/> | If lacking fury, consider swapping out <Trait id="2006"/>. |
+| <Trait id="505" size="big" disableText/> | On longer fights without adds, this may pull slightly ahead of <Trait id="1541"/>. |
 </Card>
 </GridItem>
 
@@ -59,18 +59,18 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 <Card title="Additional Skills">
 | | |
 | -- | -- |
-| Toolbelt | <Skill id="43845" size="big" text="false"/><Skill id="5813" size="big" text="false"/><Skill id="6172" size="big" text="false"/><Skill id="42163" size="big" text="false"/> |
-| <Skill id="5812" size="big" text="false"/> |<Skill id="5842" size="big" text="false"/><Skill id="5823" size="big" text="false"/><Skill id="5822" size="big" text="false"/><Skill id="5824" size="big" text="false"/><Skill id="5939" size="big" text="false"/> |
-| <Skill id="6020" size="big" text="false"/> |<Skill id="5806" size="big" text="false"/><Skill id="5807" size="big" text="false"/><Skill id="5808" size="big" text="false"/><Skill id="5809" size="big" text="false"/><Skill id="5810" size="big" text="false"/> |
+| Toolbelt | <Skill id="43845" size="big" disableText/><Skill id="5813" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="42163" size="big" disableText/> |
+| <Skill id="5812" size="big" disableText/> |<Skill id="5842" size="big" disableText/><Skill id="5823" size="big" disableText/><Skill id="5822" size="big" disableText/><Skill id="5824" size="big" disableText/><Skill id="5939" size="big" disableText/> |
+| <Skill id="6020" size="big" disableText/> |<Skill id="5806" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5810" size="big" disableText/> |
 </Card>
 
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill id="5977" size="big" text="false"/> | You can equip <Skill id="5927"/> shortly before the fight and precast its toolbelt skill if you want to go the extra mile. |
-| <Skill id="5857" size="big" text="false"/> | An alternative healing skill if condition cleanse is needed. |
-| <Skill id="21659" size="big" text="false"/> | Provides additional CC with the toolbelt skill <Skill id="21661"/>. |
-| <Skill id="43739" size="big" text="false"/> | Is another (group) block skill which even reflects projectiles above 50 heat. |
+| <Skill id="5977" size="big" disableText/> | You can equip <Skill id="5927"/> shortly before the fight and precast its toolbelt skill if you want to go the extra mile. |
+| <Skill id="5857" size="big" disableText/> | An alternative healing skill if condition cleanse is needed. |
+| <Skill id="21659" size="big" disableText/> | Provides additional CC with the toolbelt skill <Skill id="21661"/>. |
+| <Skill id="43739" size="big" disableText/> | Is another (group) block skill which even reflects projectiles above 50 heat. |
 </Card>
 </GridItem>
 </Grid>

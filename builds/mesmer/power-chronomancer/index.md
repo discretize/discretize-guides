@@ -55,9 +55,9 @@ The build unfolds its full strength in fights with medium to long interphases, i
 <Card title="Situational Elite Skills">
 | | |
 | -- | -- |
-| <Skill id="29519" size="big" text="false"/> | The best CC skill out there in case <Skill id="30359"/> is not enough. |
-| <Skill id="10245" size="big" text="false"/> | Useful for party skipping. Provides 15 seconds of <Effect name="stealth"/> with <Trait id="674"/> and <Skill id="29830"/>. |
-| <Skill id="10311" size="big" text="false"/> | If you need additional <Boon name="quickness"/>. |
+| <Skill id="29519" size="big" disableText/> | The best CC skill out there in case <Skill id="30359"/> is not enough. |
+| <Skill id="10245" size="big" disableText/> | Useful for party skipping. Provides 15 seconds of <Effect name="stealth"/> with <Trait id="674"/> and <Skill id="29830"/>. |
+| <Skill id="10311" size="big" disableText/> | If you need additional <Boon name="quickness"/>. |
 </Card>
 </GridItem>
 
@@ -67,12 +67,12 @@ The build unfolds its full strength in fights with medium to long interphases, i
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Trait id="729" size="big" text="false"/> | Minor DPS loss but increases your personal <Boon name="quickness"/> uptime. |
-| <Skill id="30525" size="big" text="false"/> | Alternative to <Skill id="10211"/> with more cleave damage. |
-| <Skill id="34326" size="big" text="false"/> | One of the strongest reflect skills, protecting everyone inside from projectiles for 6 seconds. |
-| <Skill id="10197" size="big" text="false"/> | Party escort service. |
-| <Skill id="10200" size="big" text="false"/> | A 1200 range teleport. It breaks <Control name="stun"/> on use, which means it gets executed even if there is no valid path your mouse target - keep this in mind. |
-| <Skill id="29578" size="big" text="false"/> | Enables you to use key utilities twice. If you use <Skill id="29830"/> at the end of the cast, you get a "free" mimic and can do stuff like triple <Skill id="10200"/> without the need for any illusions. |
+| <Trait id="729" size="big" disableText/> | Minor DPS loss but increases your personal <Boon name="quickness"/> uptime. |
+| <Skill id="30525" size="big" disableText/> | Alternative to <Skill id="10211"/> with more cleave damage. |
+| <Skill id="34326" size="big" disableText/> | One of the strongest reflect skills, protecting everyone inside from projectiles for 6 seconds. |
+| <Skill id="10197" size="big" disableText/> | Party escort service. |
+| <Skill id="10200" size="big" disableText/> | A 1200 range teleport. It breaks <Control name="stun"/> on use, which means it gets executed even if there is no valid path your mouse target - keep this in mind. |
+| <Skill id="29578" size="big" disableText/> | Enables you to use key utilities twice. If you use <Skill id="29830"/> at the end of the cast, you get a "free" mimic and can do stuff like triple <Skill id="10200"/> without the need for any illusions. |
 </Card>
 </GridItem>
 </Grid>
@@ -88,7 +88,7 @@ The build unfolds its full strength in fights with medium to long interphases, i
     * <Skill id="10341"/>
     * <Skill id="10282"/>
 2. Use <Skill id="21750"/> to recharge them all
-    * If available, cast <Skill id="29830"/> during the aftercast - this way, all phantasms are recharged but <Skill id="21750" text="false"/> does not go on cooldown
+    * If available, cast <Skill id="29830"/> during the aftercast - this way, all phantasms are recharged but <Skill id="21750" disableText/> does not go on cooldown
 3. Use <Skill id="10211"/> but always keep one charge except at the end of the fight (if possible during <Skill id="29830"/>)
 4. Use <Skill id="10191"/> and <Skill id="10190"/> whenever you have three illusions up
 5. Use <Skill id="10334"/> and <Skill id="30525"/> off recharge
@@ -108,7 +108,7 @@ Apart from doing DPS, you have access to a wide range of utilities like <Skill i
 4. Cast <Skill id="21750"/> and use <Skill id="29830"/> during the aftercast
 5. <Skill id="10212"/>, <Skill id="10191"/> and <Skill id="10190"/>
 6. <Skill id="10174"/>, <Skill id="10267"/> and <Skill id="10341"/>
-7. Start <Skill id="10334"/> (<Skill id="30747" text="false"/> ends)
+7. Start <Skill id="10334"/> (<Skill id="30747" disableText/> ends)
 8. <Skill id="10212"/>
 9. <Skill id="10174"/>, <Skill id="10267"/> and <Skill id="10341"/>
 10. <Skill id="21750"/>

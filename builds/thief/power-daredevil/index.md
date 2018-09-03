@@ -27,7 +27,7 @@ While <Specialization name="deadeye" prefix="power"/> is more efficient in raids
 <Weapons weapon1MainId="46773" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact"/>
 
 <Card title="Alternative weapons">
-* Staff with <Item id="36053" text="false"/> / <Item id="24615" text="false"/> and slaying sigils  
+* Staff with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
   (<Item id="36054"/> doesn't stack anymore)
 * A Shortbow to blast <Boon name="might"/>
 </Card>
@@ -53,10 +53,10 @@ While <Specialization name="deadeye" prefix="power"/> is more efficient in raids
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Skill id="13117" size="big" text="false"/> | Group stealth. |
-| <Skill id="13065" size="big" text="false"/> | Drop it to blast <Effect name="stealth"/> for skips or destroy projectiles. |
-| <Skill id="13002" size="big" text="false"/> | 1200 range teleport, use it again to teleport back. |
-| <Skill id="13044" size="big" text="false"/> | 3 seconds AoE <Effect name="stealth"/> (also another blast). |
+| <Skill id="13117" size="big" disableText/> | Group stealth. |
+| <Skill id="13065" size="big" disableText/> | Drop it to blast <Effect name="stealth"/> for skips or destroy projectiles. |
+| <Skill id="13002" size="big" disableText/> | 1200 range teleport, use it again to teleport back. |
+| <Skill id="13044" size="big" disableText/> | 3 seconds AoE <Effect name="stealth"/> (also another blast). |
 </Card>
 </GridItem>
 </Grid>

@@ -94,13 +94,13 @@ It also has access to reflects and more frequent <Control name="pull"/>s on focu
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait id="1987" size="big" text="false"/> | A slight DPS loss but adds some party healing. |
-| <Trait id="751" size="big" text="false"/> | Use it together with a focus for <Control name="pull"/>s and reflects. Swap out your offhand sword in that case. |
-| <Trait id="674" size="big" text="false"/> | Increases the duration of all your <Effect name="stealth"/> skills by 50%. |
-| <Trait id="740" size="big" text="false"/> | Heals and removes conditions on every Shatter skill. |
-| <Trait id="744" size="big" text="false"/> | A strong personal condition cleanse. |
-| <Trait id="721" size="big" text="false"/> | A minor DPS increase, if you don't run <Trait id="1980"/> you can trait it anyway. |
-| <Trait id="752" size="big" text="false"/> | Two seconds longer duration for Glamour skills like <Skill id="10197"/>. |
+| <Trait id="1987" size="big" disableText/> | A slight DPS loss but adds some party healing. |
+| <Trait id="751" size="big" disableText/> | Use it together with a focus for <Control name="pull"/>s and reflects. Swap out your offhand sword in that case. |
+| <Trait id="674" size="big" disableText/> | Increases the duration of all your <Effect name="stealth"/> skills by 50%. |
+| <Trait id="740" size="big" disableText/> | Heals and removes conditions on every Shatter skill. |
+| <Trait id="744" size="big" disableText/> | A strong personal condition cleanse. |
+| <Trait id="721" size="big" disableText/> | A minor DPS increase, if you don't run <Trait id="1980"/> you can trait it anyway. |
+| <Trait id="752" size="big" disableText/> | Two seconds longer duration for Glamour skills like <Skill id="10197"/>. |
 </Card>
 </GridItem>
 
@@ -108,13 +108,13 @@ It also has access to reflects and more frequent <Control name="pull"/>s on focu
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill id="30305" size="big" text="false"/> | A stronger group heal and condition cleanse if your party has problems with incoming damage. |
-| <Skill id="34326" size="big" text="false"/> | One of the strongest reflect skills, protecting everyone inside from projectiles for 6 seconds. |
-| <Skill id="10197" size="big" text="false"/> | Party escort service. |
-| <Skill id="10200" size="big" text="false"/> | A 1200 range teleport. It breaks <Control name="stun"/> on use, which means it gets executed even if there is no valid path to your mouse target - keep this in mind. |
-| <Skill id="29578" size="big" text="false"/> | Enables you to use key utilities twice. If you use <Skill id="29830"/> at the end of the cast, you get a "free" mimic and can do stuff like triple <Skill id="10200"/> without the need for any illusions. |
-| <Skill id="10267" size="big" text="false"/> | Necessary if you need to remove boons and have no <Specialization name="spellbreaker"/>. |
-| <Skill id="10245" size="big" text="false"/> | Useful for party skipping. Provides 15 seconds of <Effect name="stealth"/> with <Trait id="674"/> and <Skill id="29830"/>. |
+| <Skill id="30305" size="big" disableText/> | A stronger group heal and condition cleanse if your party has problems with incoming damage. |
+| <Skill id="34326" size="big" disableText/> | One of the strongest reflect skills, protecting everyone inside from projectiles for 6 seconds. |
+| <Skill id="10197" size="big" disableText/> | Party escort service. |
+| <Skill id="10200" size="big" disableText/> | A 1200 range teleport. It breaks <Control name="stun"/> on use, which means it gets executed even if there is no valid path to your mouse target - keep this in mind. |
+| <Skill id="29578" size="big" disableText/> | Enables you to use key utilities twice. If you use <Skill id="29830"/> at the end of the cast, you get a "free" mimic and can do stuff like triple <Skill id="10200"/> without the need for any illusions. |
+| <Skill id="10267" size="big" disableText/> | Necessary if you need to remove boons and have no <Specialization name="spellbreaker"/>. |
+| <Skill id="10245" size="big" disableText/> | Useful for party skipping. Provides 15 seconds of <Effect name="stealth"/> with <Trait id="674"/> and <Skill id="29830"/>. |
 </Card>
 </GridItem>
 </Grid>

@@ -80,7 +80,7 @@ Walk past the three Harpies (no <Effect name="stealth"/> needed) and run up the 
 </GridItem>
 
 <GridItem>
-## Old Tom <Item id="8887" text="false"/><Item id="24672" text="false"/>
+## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>
 
 Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken.
 
@@ -107,7 +107,7 @@ You can use <Skill id="30783"/> to bypass the jumping puzzle.
 
 ---
 
-## Raving Asura <Item id="8887" text="false"/><Item id="24672" text="false"/>
+## Raving Asura <Item id="8887" disableText/><Item id="24672" disableText/>
 
 <Grid>
 <GridItem>

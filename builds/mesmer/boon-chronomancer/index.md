@@ -105,11 +105,11 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait id="756" size="big" text="false"/> | Can be taken for faster revive speed and emergency reflects if you don't run <Skill id="10213"/>. |
-| <Trait id="1995" size="big" text="false"/> | A very slight DPS increase in case you don't need the healing from <Trait id="1987"/>. |
-| <Trait id="751" size="big" text="false"/> | Use it together with a focus for frequent <Control name="pull"/>s and reflects. |
-| <Trait id="674" size="big" text="false"/> | Increases the duration of all your <Effect name="stealth"/> skills by 50%. |
-| <Trait id="752" size="big" text="false"/> | Two seconds longer duration for Glamour skills like <Skill id="10197"/>. |
+| <Trait id="756" size="big" disableText/> | Can be taken for faster revive speed and emergency reflects if you don't run <Skill id="10213"/>. |
+| <Trait id="1995" size="big" disableText/> | A very slight DPS increase in case you don't need the healing from <Trait id="1987"/>. |
+| <Trait id="751" size="big" disableText/> | Use it together with a focus for frequent <Control name="pull"/>s and reflects. |
+| <Trait id="674" size="big" disableText/> | Increases the duration of all your <Effect name="stealth"/> skills by 50%. |
+| <Trait id="752" size="big" disableText/> | Two seconds longer duration for Glamour skills like <Skill id="10197"/>. |
 </Card>
 </GridItem>
 
@@ -119,15 +119,15 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill id="10311" size="big" text="false"/> | If you don't need CC, this a is a higher DPS option combined with <Trait id="1890"/>. |
-| <Skill id="30305" size="big" text="false"/> | A stronger single group heal with lower <Boon name="resistance"/> uptime. |
-| <Skill id="21750" size="big" text="false"/> | A personal DPS increase at the cost of less <Boon name="resistance"/>. |
-| <Skill id="34326" size="big" text="false"/> | One of the strongest reflect skills, protecting everyone inside from projectiles for 6 seconds. |
-| <Skill id="10197" size="big" text="false"/> | Party escort service. |
-| <Skill id="10200" size="big" text="false"/> | A 1200 range teleport. It breaks <Control name="stun"/> on use, which means it gets executed even if there is no valid path to your mouse target - keep this in mind. |
-| <Skill id="29578" size="big" text="false"/> | Enables you to use key utilities twice. If you use <Skill id="29830"/> at the end of the cast, you get a "free" mimic and can do stuff like triple <Skill id="10200"/> without the need for any illusions. |
-| <Skill id="10267" size="big" text="false"/> | Necessary if you need to remove boons and have no <Specialization name="spellbreaker"/>. |
-| <Skill id="10245" size="big" text="false"/> | Useful for party skipping. Provides 15 seconds of <Effect name="stealth"/> with <Trait id="674"/> and <Skill id="29830"/>. |
+| <Skill id="10311" size="big" disableText/> | If you don't need CC, this a is a higher DPS option combined with <Trait id="1890"/>. |
+| <Skill id="30305" size="big" disableText/> | A stronger single group heal with lower <Boon name="resistance"/> uptime. |
+| <Skill id="21750" size="big" disableText/> | A personal DPS increase at the cost of less <Boon name="resistance"/>. |
+| <Skill id="34326" size="big" disableText/> | One of the strongest reflect skills, protecting everyone inside from projectiles for 6 seconds. |
+| <Skill id="10197" size="big" disableText/> | Party escort service. |
+| <Skill id="10200" size="big" disableText/> | A 1200 range teleport. It breaks <Control name="stun"/> on use, which means it gets executed even if there is no valid path to your mouse target - keep this in mind. |
+| <Skill id="29578" size="big" disableText/> | Enables you to use key utilities twice. If you use <Skill id="29830"/> at the end of the cast, you get a "free" mimic and can do stuff like triple <Skill id="10200"/> without the need for any illusions. |
+| <Skill id="10267" size="big" disableText/> | Necessary if you need to remove boons and have no <Specialization name="spellbreaker"/>. |
+| <Skill id="10245" size="big" disableText/> | Useful for party skipping. Provides 15 seconds of <Effect name="stealth"/> with <Trait id="674"/> and <Skill id="29830"/>. |
 
 Keep in mind that you usually want to replace <Skill id="30814"/> first and use <Skill id="10311"/> instead if you need to swap an utility skill.
 </Card>
@@ -139,12 +139,12 @@ Keep in mind that you usually want to replace <Skill id="30814"/> first and use 
 <Grid>
 <GridItem>
 <Card title="Written Opener">
-1. Start on Staff with <Skill id="10169"/> (<Boon name="retaliation" text="false"/><Boon name="aegis" text="false"/><Boon name="swiftness" text="false"/>) and <Skill id="10331"/> (<Boon name="protection" text="false"/>)
-2. Use <Skill id="10190"/> (<Boon name="quickness" text="false"/><Boon name="alacrity" text="false"/><Boon name="vigor" text="false"/><Boon name="stability" text="false"/>) and <Skill id="10214"/> (<Boon name="resistance" text="false"/>)
-3. Cast <Skill id="10216"/> (<Trait id="1866" text="false"/>), <Skill id="10310"/> (1st illusion) and swap to Sword/Shield
+1. Start on Staff with <Skill id="10169"/> (<Boon name="retaliation" disableText/><Boon name="aegis" disableText/><Boon name="swiftness" disableText/>) and <Skill id="10331"/> (<Boon name="protection" disableText/>)
+2. Use <Skill id="10190"/> (<Boon name="quickness" disableText/><Boon name="alacrity" disableText/><Boon name="vigor" disableText/><Boon name="stability" disableText/>) and <Skill id="10214"/> (<Boon name="resistance" disableText/>)
+3. Cast <Skill id="10216"/> (<Trait id="1866" disableText/>), <Skill id="10310"/> (1st illusion) and swap to Sword/Shield
 4. <Skill id="10173"/> (2nd illusion)
 5. <Skill id="30643"/> and <Skill id="29830"/> at the end of the cast
-    1. Use the remaining three shatters while continueing with the skills below - if a defiance bar is up, use <Skill id="10287"/> first, otherwise <Skill id="49068"/>(<Boon name="might" text="false"/><Boon name="fury" text="false"/><Boon name="regeneration" text="false"/>)
+    1. Use the remaining three shatters while continueing with the skills below - if a defiance bar is up, use <Skill id="10287"/> first, otherwise <Skill id="49068"/>(<Boon name="might" disableText/><Boon name="fury" disableText/><Boon name="regeneration" disableText/>)
     2. <Skill id="29519"/> if a defiance bar is up
     3. <Skill id="10236"/>
     4. <Skill id="29856"/> and <Skill id="30814"/>
@@ -160,7 +160,7 @@ Keep in mind that you usually want to replace <Skill id="30814"/> first and use 
 | | |
 | -- | -- |
 | <Skill id="29519"/> | 1000 damage |
-| <Skill id="30643"/> | 200-1200 damage (+30% while <Item id="24639" text="false"/> is active) |
+| <Skill id="30643"/> | 200-1200 damage (+30% while <Item id="24639" disableText/> is active) |
 | <Skill id="10287"/> | 100-400 damage |
 | <Skill id="30814"/> | 150 damage with <Condition name="slow"/> |
 | <Skill id="29856"/> | 99 damage with <Condition name="chilled"/> |
@@ -179,16 +179,16 @@ If you're running a setup with <Item id="72339"/>, remember to weapon swap as of
 
 - <Boon name="quickness"/> with <Skill id="30814"/> and <Trait id="2022"/>
 - <Boon name="alacrity"/> with <Skill id="30643"/>, <Skill id="29856"/> and <Trait id="1927"/>
-- 15-20x <Boon name="might"/> with <Skill id="49068"/> (<Trait id="1687" text="false"/>), <Trait id="1866"/> and <Skill id="10273"/>
-- <Boon name="fury"/> with <Skill id="10287"/> (<Trait id="1687" text="false"/>) and <Skill id="10273"/>
-- <Boon name="protection"/> with <Skill id="30769"/>, <Skill id="10331"/> (<Trait id="669" text="false"/>) and <Trait id="667"/>
-- <Boon name="vigor"/> with <Skill id="10190"/> (<Trait id="1687" text="false"/>)
+- 15-20x <Boon name="might"/> with <Skill id="49068"/> (<Trait id="1687" disableText/>), <Trait id="1866"/> and <Skill id="10273"/>
+- <Boon name="fury"/> with <Skill id="10287"/> (<Trait id="1687" disableText/>) and <Skill id="10273"/>
+- <Boon name="protection"/> with <Skill id="30769"/>, <Skill id="10331"/> (<Trait id="669" disableText/>) and <Trait id="667"/>
+- <Boon name="vigor"/> with <Skill id="10190"/> (<Trait id="1687" disableText/>)
 - <Boon name="retaliation"/> with <Skill id="10169"/> and <Trait id="670"/>
 - <Boon name="swiftness"/> with <Skill id="10169"/>, <Trait id="670"/>, <Skill id="10331"/> and <Skill id="10236"/>
 - <Boon name="aegis"/> with <Trait id="1852"/>, <Skill id="10169"/> and <Trait id="670"/>
-- <Boon name="regeneration"/> with <Skill id="10192"/> (<Trait id="1687" text="false"/>), <Skill id="10331"/> and <Trait id="666"/>
-- <Boon name="stability"/> with every shatter (<Trait id="1687" text="false"/>)
-- <Boon name="resistance"/> with <Skill id="29830"/> (<Trait id="1687" text="false"/>) and <Skill id="10214"/> (<Item id="69370" text="false"/>)
+- <Boon name="regeneration"/> with <Skill id="10192"/> (<Trait id="1687" disableText/>), <Skill id="10331"/> and <Trait id="666"/>
+- <Boon name="stability"/> with every shatter (<Trait id="1687" disableText/>)
+- <Boon name="resistance"/> with <Skill id="29830"/> (<Trait id="1687" disableText/>) and <Skill id="10214"/> (<Item id="69370" disableText/>)
 
 Are we done yet? No!
 

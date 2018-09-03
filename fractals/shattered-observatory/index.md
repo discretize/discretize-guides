@@ -82,7 +82,7 @@ Time <Skill id="45252"/> to remove two boons from the bosses every 20 seconds.
 </Tab>
 
 <Tab specialization="weaver">
-Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> and <Skill id="43638"/> if your group does not plan to nuke the second phase with a portal. Make sure that you have all charges of <Skill id="5539"/> when you reopen on the boss.  
+Start in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> with <Skill id="5528"/> and <Skill id="43638"/> if your group does not plan to nuke the second phase with a portal. Make sure that you have all charges of <Skill id="5539"/> when you reopen on the boss.  
     If you did not nuke the second phase per portal, you will have to delay your <Skill id="5501"/> until after the **Radiant Fury** to avoid getting <Control name="knockback"/> and 20 stacks of <Condition name="burning"/>.
 </Tab>
 
@@ -177,7 +177,7 @@ Leave a <Skill id="45333"/> and place your banners before you leave for marble b
 </Tab>
 
 <Tab specialization="weaver">
-If your group damage is low you can use <Skill id="5501"/> two times per phase, precast the first one in the middle in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>. **Always** place at least a <Skill id="5548"/> on the *Temporaly Anomaly* before using `Nova Launch` to the boss. You can already attune to <Skill id="5494"/> at the Anomaly and burst it with <Skill id="41125"/> before resuming on the boss with <Skill id="5737"/>.
+If your group damage is low you can use <Skill id="5501"/> two times per phase, precast the first one in the middle in <Skill id="5495" disableText/>/<Skill id="5492" disableText/>. **Always** place at least a <Skill id="5548"/> on the *Temporaly Anomaly* before using `Nova Launch` to the boss. You can already attune to <Skill id="5494"/> at the Anomaly and burst it with <Skill id="41125"/> before resuming on the boss with <Skill id="5737"/>.
 </Tab>
 
 <Tab specialization="druid">
@@ -187,7 +187,7 @@ Use <Skill id="31496"/> against the multitude of projectiles, especially against
 
 ---
 
-## Arkk <Item id="50082" text="false"/><Label>9,942,250 HP</Label>
+## Arkk <Item id="50082" disableText/><Label>9,942,250 HP</Label>
 
 <Grid>
 <GridItem>
@@ -272,7 +272,7 @@ Trait <Trait id="751"/> and place <Skill id="10186"/> inside Arkk to reflect the
 </Tab>
 
 <Tab specialization="weaver">
- Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5737"/> while turned away to avoid the *Blinding Radiance* <Condition name="fear"/>. Continue with <Skill id="5501"/>.  
+ Start in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and cast <Skill id="5737"/> while turned away to avoid the *Blinding Radiance* <Condition name="fear"/>. Continue with <Skill id="5501"/>.  
         Always place a <Skill id="5548"/> on the Temporal Anomaly and use <Skill id="5539"/> as backup. If you aim your <Skill id="41125"/> correctly, it hits the boss and the anomaly.  
         If your damage is good enough, you can skip the second and fourth anomaly by nuking the boss to 70% and 40%. With good damage and fast Orb phases you can also skip the fifth anomaly by nuking the boss from 30% to zero.  
         Never cast <Skill id="5737"/> or <Skill id="5501"/> during the intermediate phases, instead wait and reopen with them on Arkk.  

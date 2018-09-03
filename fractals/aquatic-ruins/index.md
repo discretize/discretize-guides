@@ -30,7 +30,7 @@ This is an underwater fractal. Make sure you have approriate underwater equipmen
 
 ---
 
-## Save the villagers <Item id="50082" text="false"/><Item id="24658" text="false"/>
+## Save the villagers <Item id="50082" disableText/><Item id="24658" disableText/>
 
 <Grid>
 <GridItem>
@@ -46,17 +46,17 @@ Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="fury"
 </Tab>
 
 <Tab specialization="weaver">
-You can stay Weaver for this fractal and trait Air with <Trait id="232" text="false"/>, <Trait id="214" text="false"/> and most importantly <Trait id="1503"/> or retrait to Tempest. For utility, use <Skill id="5638" text="false"/>, <Skill id="40183" text="false"/>, <Skill id="5539" text="false"/> and <Skill id="43638"/> as Elite skill.
+You can stay Weaver for this fractal and trait Air with <Trait id="232" disableText/>, <Trait id="214" disableText/> and most importantly <Trait id="1503"/> or retrait to Tempest. For utility, use <Skill id="5638" disableText/>, <Skill id="40183" disableText/>, <Skill id="5539" disableText/> and <Skill id="43638"/> as Elite skill.
 </Tab>
 
 <Tab specialization="tempest">
 You can retrait to Tempest for this fractal as it is one of the best choices for underwater combat (because of cleave and vulnerability uptime).     
-        Trait Air with <Trait id="232" text="false"/>, <Trait id="214" text="false"/> and most importantly <Trait id="1503"/>. For utility, use <Skill id="5638" text="false"/>, <Skill id="5539" text="false"/>, <Skill id="30662" text="false"/> and <Skill id="29968" text="false"/> as Elite skill.     
-        As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" text="false"/>) and <Skill id="5597"/> (<Skill id="5492" text="false"/>) and <Skill id="5655"/> and Air autoattack (<Skill id="5494" text="false"/>) to maximize dps. 
+        Trait Air with <Trait id="232" disableText/>, <Trait id="214" disableText/> and most importantly <Trait id="1503"/>. For utility, use <Skill id="5638" disableText/>, <Skill id="5539" disableText/>, <Skill id="30662" disableText/> and <Skill id="29968" disableText/> as Elite skill.     
+        As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" disableText/>) and <Skill id="5597"/> (<Skill id="5492" disableText/>) and <Skill id="5655"/> and Air autoattack (<Skill id="5494" disableText/>) to maximize dps. 
 </Tab>
 
 <Tab specialization="ranger">
-Retrait Druid to Marksmanship for <Trait id="986"/> and swap to <Trait id="965"/> in Nature Magic. Run five spirits (<Skill id="21773" text="false"/><Skill id="12497" text="false"/><Skill id="12493" text="false"/><Skill id="12498" text="false"/><Skill id="12569" text="false"/>) for easy boon application with <Trait id="1038"/>.
+Retrait Druid to Marksmanship for <Trait id="986"/> and swap to <Trait id="965"/> in Nature Magic. Run five spirits (<Skill id="21773" disableText/><Skill id="12497" disableText/><Skill id="12493" disableText/><Skill id="12498" disableText/><Skill id="12569" disableText/>) for easy boon application with <Trait id="1038"/>.
 </Tab>
 </Tabs>
 

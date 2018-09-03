@@ -29,7 +29,7 @@ sigils: [{ id: 24615 }, { id: 24868 }, { id: 24658, description: 'after MAMA' }]
 consumables: [43360, 8759, 8678, 8764, 8801, 78978]
 ---
 
-## Assault Knights <Item id="50082" text="false"/><Label>426,071 HP</Label>
+## Assault Knights <Item id="50082" disableText/><Label>426,071 HP</Label>
 
 Stack <Boon name="might"/> before jumping down. Kill the three _Assault Knights_ (Red, Blue and Green), each of them has the same set of abilities: a PBAoE <Control name="knockdown"/> and an AoE <Control name="pull"/> which covers the entire room except the knight's position, both can be dodged.
 
@@ -37,7 +37,7 @@ Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your 
 
 <Image src="./images/mama.jpg" caption="MAMA: The first boss"/>
 
-## MAMA <Item id="50082" text="false"/><Label>5,200,519 HP</Label>
+## MAMA <Item id="50082" disableText/><Label>5,200,519 HP</Label>
 
 Stack <Boon name="might"/> before jumping down. (Now that the mistlock resets cooldowns, <Specialization name="chronomancer"/> can prestack boons and use the mistlock)
 
@@ -65,7 +65,7 @@ For the entire fractal, remember to place your banners at the boss before doing 
 </Tab>
 
 <Tab specialization="weaver">
-Depending on your group composition and damage start either in <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5737"/> (high damage, fast CC) or in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> (low damage).    
+Depending on your group composition and damage start either in <Skill id="5494" disableText/>/<Skill id="5492" disableText/> with <Skill id="5737"/> (high damage, fast CC) or in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> with <Skill id="5528"/> (low damage).    
         You should have a <Skill id="5624"/> available for each knight, hit them with <Skill id="5733"/> and <Skill id="5725"/> if ready (do not use <Skill id="5725"/> on MAMA if she is only 2-3% away from becoming invulnerable).
 </Tab>
 
@@ -79,7 +79,7 @@ If you have problems with incoming damage, swap <Skill id="12497"/> with <Skill 
 
 <Grid>
 <GridItem>
-## First set of altars <Item id="50082" text="false"/><Item id="24658" text="false"/>
+## First set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
 You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.    
 Learn the *Red Orb* patterns as they can quickly kill you, *Blue Orbs* will heal you for a large amount of health (even with Agony).    
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
@@ -89,7 +89,7 @@ On a side note, more players do not cap an altar faster. More than one person st
 </GridItem>
 </Grid>
 
-## Second set of altars <Item id="50082" text="false"/><Item id="24658" text="false"/>
+## Second set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
 
 Again, pull all enemies to the center (wait for the <Specialization name="mesmer"/> to cast <Skill id="10186"/>) and kill them there. The mobs at the left altar (West) can be aggroed with a simple projectile, the mobs on the right side (East) need to be pulled with <Skill id="14381"/> (Longbow), <Skill id="5491"/> (Staff) or by teleporting up and jumping down.
 
@@ -112,7 +112,7 @@ Use <Skill id="10363"/> to pull mobs together.
 
 ---
 
-## Siax the Corrupted <Item id="50082" text="false"/><Item id="24658" text="false"/><Label>6,138,797 HP</Label>
+## Siax the Corrupted <Item id="50082" disableText/><Item id="24658" disableText/><Label>6,138,797 HP</Label>
 
 After the interaction with the red orb in the center of the area, quickly move back to the _Mistlock Singularity_ to avoid aggro from the spawning enemies and stack <Boon name="might"/>. (Now that the mistlock resets cooldowns, <Specialization name="chronomancer"/> can prestack boons and use the mistlock)
 
@@ -131,12 +131,12 @@ Share <Boon name="aegis"/> with your party when the *Nightmare Hallucination* PB
 </Tab>
 
 <Tab specialization="weaver">
- Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> while the last Illusions turn hostile.    
+ Start in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> with <Skill id="5528"/> while the last Illusions turn hostile.    
         On the East and South *Echoes of the Unclean*, you can use <Skill id="5697"/> from <Skill id="5516"/> against the wall to deal enormous damage. On the second add spawn you can <Skill id="5697"/> at any location.    
         With normal group damage Siax should turn invulnerable at the end of your first <Skill id="5624"/>. Place a <Skill id="13339"/> and use <Skill id="5697"/> to kill your add in about two seconds.    
         Continue with <Skill id="5531"/> on Siax and restart in <Skill id="5492"/>.    
-        If your group damage is too low to pick up your second <Skill id="5516"/> for the second add, place a <Skill id="13339"/> on it, attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and use <Skill id="41125"/> to kill it quickly.    
-        Continue with <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and <Skill id="5737"/> on Siax.
+        If your group damage is too low to pick up your second <Skill id="5516"/> for the second add, place a <Skill id="13339"/> on it, attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and use <Skill id="41125"/> to kill it quickly.    
+        Continue with <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and <Skill id="5737"/> on Siax.
 </Tab>
 
 <Tab specialization="druid">
@@ -147,7 +147,7 @@ If you have problems with the incoming damage, swap <Skill id="12497"/> with <Sk
 
 ---
 
-## Ensolyss of the Endless Torment <Item id="50082" text="false"/><Item id="24658" text="false"/><Label>14,059,890 HP</Label>
+## Ensolyss of the Endless Torment <Item id="50082" disableText/><Item id="24658" disableText/><Label>14,059,890 HP</Label>
 
 <Grid>
 <GridItem>
@@ -183,11 +183,11 @@ Use <Skill id="29519"/> with <Skill id="29830"/> at 100%, 66% and 33%.
 </Tab>
 
 <Tab specialization="weaver">
-Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5528"/> while Ensolyss spawns, make sure that your <Skill id="13339"/> and <Skill id="43762"/> hit in the same second as Ensolyss becomes vulnerable.    
+Start in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> with <Skill id="5528"/> while Ensolyss spawns, make sure that your <Skill id="13339"/> and <Skill id="43762"/> hit in the same second as Ensolyss becomes vulnerable.    
         Use <Skill id="5733"/> from your <Skill id="5624"/> for CC.    
         You can share <Skill id="5516"/> with another <Specialization name="weaver"/> as you can only use one per phase anyway.    
         Cast your second <Skill id="5501"/> in the middle of the platform after dodging his first charge. If all five players stand there he will teleport back into it.    
-        After the orb phases, reopen in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5528"/> about a second before the orb phase ends. Make sure to have your <Skill id="5501"/> either finished before the first <Control name="knockback"/> zone goes off or start it after making sure you won't get hit.
+        After the orb phases, reopen in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and cast <Skill id="5528"/> about a second before the orb phase ends. Make sure to have your <Skill id="5501"/> either finished before the first <Control name="knockback"/> zone goes off or start it after making sure you won't get hit.
 </Tab>
 
 <Tab specialization="druid">

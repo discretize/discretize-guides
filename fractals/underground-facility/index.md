@@ -32,7 +32,7 @@ sigils:
 consumables: [78978, 49940, 8764, 8801, 8686]
 ---
 
-## Locked Gates <Item id="8892" text="false"/><Item id="24684" text="false"/>
+## Locked Gates <Item id="8892" disableText/><Item id="24684" disableText/>
 
 |                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +75,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 
 ---
 
-## Guns _or_ Bombs path <Item id="8892" text="false"/><Item id="24684" text="false"/><Label>Random</Label>
+## Guns _or_ Bombs path <Item id="8892" disableText/><Item id="24684" disableText/><Label>Random</Label>
 
 <Grid>
 <GridItem>
@@ -105,13 +105,13 @@ Cast <Skill id="13117"/> for immediate <Effect name="stealth"/>.
 
 ---
 
-## Champion Rabsovich <Item id="8892" text="false"/><Item id="24684" text="false"/>
+## Champion Rabsovich <Item id="8892" disableText/><Item id="24684" disableText/>
 
 When you destroy the door, you will reach the most annoying boss ingame, have fun casting half of your skills into his shield. There's really no trick with him apart from breaking his defiance bar as often as possible. If needed, do `/gg` afterwards to reset your wasted cooldowns.
 
 ---
 
-## Dredge Powersuit <Item id="8892" text="false"/><Item id="24684" text="false"/> _or_ Rampaging Ice Elemental <Item id="8885" text="false"/><Item id="24661" text="false"/><Label>Random</Label>
+## Dredge Powersuit <Item id="8892" disableText/><Item id="24684" disableText/> _or_ Rampaging Ice Elemental <Item id="8885" disableText/><Item id="24661" disableText/><Label>Random</Label>
 
 <Grid>
 <GridItem>

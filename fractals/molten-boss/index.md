@@ -25,7 +25,7 @@ record:
   }
 ---
 
-## Start area <Item id="50082" text="false"/>
+## Start area <Item id="50082" disableText/>
 
 <Grid>
 <GridItem>
@@ -52,7 +52,7 @@ You can place a <Item id="78978"/> / <Skill id="10197"/>  on the way in middle o
 
 ---
 
-## Molten Effigy <Item id="50082" text="false"/>
+## Molten Effigy <Item id="50082" disableText/>
 
 Stack <Boon name="might"/> if possible before moving on to the Molten Effigy.
 
@@ -64,7 +64,7 @@ The moment you killed the Effigy you can `/gg` if necessary so you don't have to
 
 ---
 
-## Molten Berserker & Molten Firestorm <Item id="50082" text="false"/>
+## Molten Berserker & Molten Firestorm <Item id="50082" disableText/>
 
 When you walk onto the end boss area, a group-wide <Effect name="agony"/> effect will be applied and put you in combat. As soon as it ends, use the small time (4-5 seconds) before boss starts to stack <Boon name="might"/>.
 

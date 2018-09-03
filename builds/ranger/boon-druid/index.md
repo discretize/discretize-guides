@@ -66,11 +66,11 @@ Keep in mind that the setup below is optimized for healing in fractals and is no
 <Card title="Pets">
 | | | |
 | -- | -- | -- |
-| <Skill id="43636" size="big" text="false"/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) | Best CC pet for small hitboxes, also does defiance bar damage with its auto-attack. |
-| <Skill id="44980" size="big" text="false"/> | [Jacaranda](https://wiki.guildwars2.com/wiki/Juvenile_Jacaranda) | Recommended if you want to replace <Skill id="12493"/> but are missing <Condition name="vulnerability"/> without it. |
-| <Skill id="12708" size="big" text="false"/> | [Pink Moa](https://wiki.guildwars2.com/wiki/Juvenile_Pink_Moa) | Hits one time for 200 Defiance bar damage. |
-| <Skill id="12709" size="big" text="false"/> | [Black Moa](https://wiki.guildwars2.com/wiki/Juvenile_Black_Moa) | Hits three times for 100 Defiance bar damage. |
-| <Skill id="31568" size="big" text="false"/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) | Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
+| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) | Best CC pet for small hitboxes, also does defiance bar damage with its auto-attack. |
+| <Skill id="44980" size="big" disableText/> | [Jacaranda](https://wiki.guildwars2.com/wiki/Juvenile_Jacaranda) | Recommended if you want to replace <Skill id="12493"/> but are missing <Condition name="vulnerability"/> without it. |
+| <Skill id="12708" size="big" disableText/> | [Pink Moa](https://wiki.guildwars2.com/wiki/Juvenile_Pink_Moa) | Hits one time for 200 Defiance bar damage. |
+| <Skill id="12709" size="big" disableText/> | [Black Moa](https://wiki.guildwars2.com/wiki/Juvenile_Black_Moa) | Hits three times for 100 Defiance bar damage. |
+| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) | Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
 </Card>
 </GridItem>
 
@@ -80,13 +80,13 @@ Keep in mind that the setup below is optimized for healing in fractals and is no
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Skill id="12489" size="big" text="false"/> | A better condition clear, use it in combination with <Trait id="1075"/>. |
-| <Skill id="31746" size="big" text="false"/> | Instant 200 defiance bar damage in case you need more CC. |
-| <Skill id="12495" size="big" text="false"/> | Grants <Boon name="protection"/> to the party. |
-| <Skill id="12498" size="big" text="false"/> | Adds about 200 DPS per affected target (for non-condition builds). |
-| <Skill id="31888" size="big" text="false"/> | If you can't profit from <Boon name="stability"/>, this provides more consistent healing and some <Boon name="might"/>. |
-| <Trait id="978" size="big" text="false"/> | If you don't need improved resurrecting, this adds quite a bit of healing power. |
-| <Trait id="1935" size="big" text="false"/> | Mainly a matter of taste, useful if you need more frequent projectiles absorption from <Skill id="31496"/> and a little bit more CC (<Skill id="31869"/> counts as Staff weapon swap as well). |
+| <Skill id="12489" size="big" disableText/> | A better condition clear, use it in combination with <Trait id="1075"/>. |
+| <Skill id="31746" size="big" disableText/> | Instant 200 defiance bar damage in case you need more CC. |
+| <Skill id="12495" size="big" disableText/> | Grants <Boon name="protection"/> to the party. |
+| <Skill id="12498" size="big" disableText/> | Adds about 200 DPS per affected target (for non-condition builds). |
+| <Skill id="31888" size="big" disableText/> | If you can't profit from <Boon name="stability"/>, this provides more consistent healing and some <Boon name="might"/>. |
+| <Trait id="978" size="big" disableText/> | If you don't need improved resurrecting, this adds quite a bit of healing power. |
+| <Trait id="1935" size="big" disableText/> | Mainly a matter of taste, useful if you need more frequent projectiles absorption from <Skill id="31496"/> and a little bit more CC (<Skill id="31869"/> counts as Staff weapon swap as well). |
 
 Note that you should replace <Skill id="12493"/> if you have 25x <Condition name="vulnerability"/> without it, otherwise replace <Skill id="12497"/>.
 </Card>
