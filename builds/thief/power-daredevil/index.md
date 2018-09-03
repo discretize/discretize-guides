@@ -1,20 +1,18 @@
 ---
 title: 'Power Daredevil'
-date: '2018-07-01'
+date: '2018-09-01'
 rating: 'Good'
 role: 'Damage'
 profession: 'Thief'
 specialization: 'Daredevil'
-benchmark: { small: { dps: 34815, by: 'Ramirez [SC]', youtube: 'v503BIZmaME' } }
+benchmark: { small: { dps: 35366, by: 'Derpy Moa [SC]', youtube: 'POHMLGFY3xU' } }
 skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
 conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness']
 effects: ['Stealth']
 ---
 
-The <Specialization name="thief"/> profession is really behind the other power based builds like <Specialization name="dragonhunter" prefix="power"/> and <Specialization name="weaver" prefix="power"/> dps wise, but if you really have nothing else it is fine for off-meta groups. It has a very simple rotation and offers great mobility for skips, as well as endless party <Effect name="stealth"/> (though even a <Specialization name="druid"/> fills this role perfectly).
-
-While <Specialization name="deadeye" prefix="power"/> is more efficient in raids, <Specialization name="daredevil" prefix="power"/> is better in fractals.
+The <Specialization name="thief"/>  is fine power dps for off-meta groups. It has the simplest rotation and offers great mobility for skips, as well as endless party <Effect name="stealth"/> (even though a <Specialization name="druid"/> fills this role perfectly).
 
 <Divider text="Equipment"/>
 
@@ -66,27 +64,20 @@ While <Specialization name="deadeye" prefix="power"/> is more efficient in raids
 <Grid>
 <GridItem sm="7">
 <Card title="Rotation">
-* Dodge
-* <Skill id="30868"/> => <Skill id="30693"/> (repeat from here)
-* <Skill id="29911"/> (Staff 2)
-* <Skill id="30614"/> => <Skill id="30135"/> (Staff 1)
-* <Skill id="29911"/> (Staff 2)
-* <Skill id="30614"/> => <Skill id="30135"/> (Staff 1)
-* Dodge
-* <Skill id="30434"/> (Staff 1)
-* <Skill id="29911"/> (Staff 2)
-* <Skill id="30614"/> => <Skill id="30135"/> => <Skill id="30434"/>
-* <Skill id="29911"/> (Staff 2)
-* <Skill id="30614"/> => <Skill id="30135"/> (Staff 1)
-* Dodge
-* <Skill id="30434"/> (Staff 1)
+(Before fight, lose endurance)
+* Dodge 
+* <Skill id="13014"/> (F1 mid Dodge)
+* <Skill id="29911"/> 2x (Staff 2)
+* <Skill id="13046"/> (Utility mid Staff 2)
+* <Skill id="30868"/> => <Skill id="30693"/> (Utility)
+* Dodge (Repeat from here)
 * <Skill id="29911"/> (Staff 2)
 * <Skill id="30614"/> => <Skill id="30135"/> => <Skill id="30434"/>
-* <Skill id="29911"/> (Staff 2)
-* <Skill id="30614"/> => <Skill id="30135"/> (Staff 1)
-* Dodge
-* <Skill id="30434"/> (Staff 1)
 * Repeat
+</CardContent>
+</Card>
+</Column>
+
 
 You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 </Card>
@@ -99,6 +90,6 @@ You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 | <Skill id="30693"/> | 200 damage |
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
 </Card>
-<Video youtube="v503BIZmaME" title="Daredevil Staff 34.8k by Ramirez [SC]"/>
+<Video youtube="POHMLGFY3xU" title="Daredevil Staff 35.3k by Derpy Moa [SC]"/>
 </GridItem>
 </Grid>
