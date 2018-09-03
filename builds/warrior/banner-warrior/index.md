@@ -39,7 +39,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 </GridItem>
 
 <GridItem>
-<Trinkets backItemAffix="Berserker" backItemId="49384" backItemStatId="161" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Berserker" amuletId="39273" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
+<Trinkets backItemAffix="Berserker" backItemId="49390" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Berserker" amuletId="39273" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </GridItem>

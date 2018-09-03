@@ -5,14 +5,15 @@ rating: 'Good'
 role: 'Damage'
 profession: 'Thief'
 specialization: 'Daredevil'
-benchmark: { small: { dps: 35366, by: 'Derpy Moa [SC]', youtube: 'POHMLGFY3xU' } }
+benchmark:
+  { small: { dps: 35366, by: 'Derpy Moa [SC]', youtube: 'POHMLGFY3xU' } }
 skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
 conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness']
 effects: ['Stealth']
 ---
 
-The <Specialization name="thief"/>  is fine power dps for off-meta groups. It has the simplest rotation and offers great mobility for skips, as well as endless party <Effect name="stealth"/> (even though a <Specialization name="druid"/> fills this role perfectly).
+The <Specialization name="thief"/> is fine power dps for off-meta groups. It has the simplest rotation and offers great mobility for skips, as well as endless party <Effect name="stealth"/> (even though a <Specialization name="druid"/> fills this role perfectly).
 
 <Divider text="Equipment"/>
 
@@ -32,7 +33,7 @@ The <Specialization name="thief"/>  is fine power dps for off-meta groups. It ha
 </GridItem>
 
 <GridItem>
-<Trinkets backItemId="49384" backItemStatId="584" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
 </GridItem>
@@ -74,10 +75,6 @@ The <Specialization name="thief"/>  is fine power dps for off-meta groups. It ha
 * <Skill id="29911"/> (Staff 2)
 * <Skill id="30614"/> => <Skill id="30135"/> => <Skill id="30434"/>
 * Repeat
-</CardContent>
-</Card>
-</Column>
-
 
 You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 </Card>
