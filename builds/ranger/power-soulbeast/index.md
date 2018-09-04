@@ -1,15 +1,12 @@
 ---
 title: 'Power Soulbeast'
-date: '2018-07-01'
+date: '2018-09-01'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
-  {
-    small: { dps: 30746, by: 'Roul [SC]', youtube: 'TPF1Ur8OVZI' },
-    large: { dps: 34677, by: 'Roul [SC]', youtube: '4OgPFRiDaMI' },
-  }
+  { small: { dps: 33,918, by: 'Casual [SC]', youtube: 'u7KdYSBxQVg' } }
 skills: [5536]
 traits: [264, 1502]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection']
@@ -96,5 +93,6 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 | <Skill id="12475"/> | 150 damage (Greatsword 5) |
 | <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>) |
 </Card>
+<Video videoId="u7KdYSBxQVg" videoTitle="Power Soulbeast 33.9k by Casual [SC]"/>
 </GridItem>
 </Grid>
