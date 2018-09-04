@@ -62,7 +62,28 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 <Grid>
 <GridItem sm="7">
 <Card title="Rotation">
-
+* Enter <Skill id="42944"/> with Gazelle
+* Cast <Skill id="12497"/>
+* <Skill id="12633"/> (Utility)
+* <Skill id="12525"/> (Greatsword 2)
+* <Skill id="12475"/> (Greatsword 5)
+* <Skill id="12525"/> (Greatsword 2)
+* <Skill id="40729"/> (F3)  
+* **Swap to sword**
+* <Skill id="45717"/> (Elite) 
+* <Skill id="12638"/> (Axe 4)
+* <Skill id="12639"/> (Axe 5)
+* <Skill id="41524"/> (F1)
+* <Skill id="45743"/> (F2)
+* <Skill id="12638"/> (Axe 4)
+* **Swap to greatsword**
+* <Skill id="12522"/> -> <Skill id="12624"/> (Greatsword 4 2x)  
+* Autoattack chain 1x
+* <Skill id="12525"/> (Greatsword 2)
+* <Skill id="41524"/> (F1)
+* <Skill id="45743"/> (F2)
+* Autoattack chain 2x  
+* Repeat 
 </Card>
 </GridItem>
 
