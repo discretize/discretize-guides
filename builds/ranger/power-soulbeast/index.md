@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
-  { small: { dps: 33,918, by: 'Casual [SC]', youtube: 'u7KdYSBxQVg' } }
+  { small: { dps: 33, 918, by: 'Casual [SC]', youtube: 'u7KdYSBxQVg' } }
 skills: [5536]
 traits: [264, 1502]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection']
@@ -28,10 +28,10 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 <Card title="Swap Weapons">
 * Warhorn when <Boon name="might"/> is blasted.
 </Card>
-</GridItem> 
+</GridItem>
 
 <GridItem>
-<Trinkets backItemId="49384" backItemStatId="584" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
 </GridItem>

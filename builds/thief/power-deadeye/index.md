@@ -6,12 +6,14 @@ role: 'Damage'
 profession: 'Thief'
 specialization: 'Deadeye'
 rating: 'Great'
-benchmark: { small: { dps: 36939, by: 'Derpy Moa [SC]', youtube: 'WmvH1QH9xe0' } }
+benchmark:
+  { small: { dps: 36939, by: 'Derpy Moa [SC]', youtube: 'WmvH1QH9xe0' } }
 skills: [13132, 43390]
 conditions: ['Vulnerability']
 effects: ['Stealth']
 ---
-The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but it's lack of cleave and being hard to stay alive with  makes it more off-meta in fractals. It has an extremely simple rotation and offers great mobility for skips, as well as endless party <Effect name="stealth"/> (though a <Specialization name="druid"/> fills this role perfectly).
+
+The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but it's lack of cleave and being hard to stay alive with makes it more off-meta in fractals. It has an extremely simple rotation and offers great mobility for skips, as well as endless party <Effect name="stealth"/> (though a <Specialization name="druid"/> fills this role perfectly).
 
 <Divider text="Equipment"/>
 
@@ -32,7 +34,7 @@ The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but
 </GridItem>
 
 <GridItem>
-<Trinkets backItemId="49384" backItemStatId="584" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
 </GridItem>
@@ -91,9 +93,10 @@ The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but
 * **Repeat**
 
 **After 25% some extra steps (look at the video)**
-* <Skill id="13097"/> 2x (Dagger 2)
-* <Skill id="43390"/> (F2 for <Effect name="stealth"/>)
-* <Skill id="50481"/> (Dagger 1 in <Effect name="stealth"/>)
+
+- <Skill id="13097"/> 2x (Dagger 2)
+- <Skill id="43390"/> (F2 for <Effect name="stealth"/>)
+- <Skill id="50481"/> (Dagger 1 in <Effect name="stealth"/>)
 
 </Card>
 </GridItem>
