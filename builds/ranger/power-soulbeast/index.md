@@ -5,8 +5,7 @@ rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-benchmark:
-  { small: { dps: 33, 918, by: 'Casual [SC]', youtube: 'u7KdYSBxQVg' } }
+benchmark: { small: { dps: 33918, by: 'Casual [SC]', youtube: 'u7KdYSBxQVg' } }
 skills: [5536]
 traits: [264, 1502]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection']
@@ -61,28 +60,30 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 <Grid>
 <GridItem sm="7">
 <Card title="Rotation">
-1. Enter <Skill id="42944"/> with Gazelle
-2. Cast <Skill id="12497"/>
-3. <Skill id="12633"/> (Utility)
-4. <Skill id="12525"/> (Greatsword 2)
-5. <Skill id="12475"/> (Greatsword 5)
-6. <Skill id="12525"/> (Greatsword 2)
-7. <Skill id="40729"/> (F3)  
-8. **Swap to sword**
-9. <Skill id="45717"/> (Elite) 
-10. <Skill id="12638"/> (Axe 4)
-11. <Skill id="12639"/> (Axe 5)
-12. <Skill id="41524"/> (F1)
-13. <Skill id="45743"/> (F2)
-14. <Skill id="12638"/> (Axe 4)
-15. **Swap to greatsword**
-16. <Skill id="12522"/> -> <Skill id="12624"/> (Greatsword 4 2x)  
-17. Autoattack chain 1x
-18. <Skill id="12525"/> (Greatsword 2)
-19. <Skill id="41524"/> (F1)
-20. <Skill id="45743"/> (F2)
-21. Autoattack chain 2x  
-22. Repeat 
+* Enter <Skill id="42944"/> with Gazelle
+* Cast <Skill id="12497"/>
+* <Skill id="12633"/> (Utility)
+* <Skill id="12525"/> (Greatsword 2)
+* <Skill id="12475"/> (Greatsword 5)
+* <Skill id="12525"/> (Greatsword 2)
+* <Skill id="40729"/> (F3)  
+* **Swap to sword**
+* <Skill id="45717"/> (Elite) 
+* <Skill id="12638"/> (Axe 4)
+* <Skill id="12639"/> (Axe 5)
+* <Skill id="41524"/> (F1)
+* <Skill id="45743"/> (F2)
+* Autoattack chain 4x
+* <Skill id="12638"/> (Axe 4)
+* **Swap to greatsword**
+* <Skill id="12522"/> -> <Skill id="12624"/> (Greatsword 4 2x)  
+* Autoattack chain 1x
+* <Skill id="12525"/> (Greatsword 2)
+* <Skill id="41524"/> (F1)
+* <Skill id="45743"/> (F2)
+* Autoattack chain 2x  
+* Repeat
+
 </Card>
 </GridItem>
 
