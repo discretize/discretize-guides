@@ -72,6 +72,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 * <Skill id="12639"/> (Axe 5)
 * <Skill id="41524"/> (F1)
 * <Skill id="45743"/> (F2)
+* Autoattack chain 4x
 * <Skill id="12638"/> (Axe 4)
 * **Swap to greatsword**
 * <Skill id="12522"/> -> <Skill id="12624"/> (Greatsword 4 2x)  
