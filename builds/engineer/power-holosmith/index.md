@@ -19,11 +19,11 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 <Divider text="Equipment"/>
 
 <Grid>
-<GridItem>
+<GridItem sm="4">
 <Armor helmId="48087" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48089" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48085" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48086" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48088" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48084" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainId="46768" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Rifle" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact"/>
 
 <Card title="Alternative weapons">
@@ -32,7 +32,7 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
@@ -53,7 +53,7 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Skills heal="40507" utility1="5812" utility2="6020" utility3="42842" elite="42009"/>
 
 <Card title="Additional Skills">
@@ -93,7 +93,7 @@ You can switch to <Specialization name="scrapper"/> and equip <Skill id="30815"/
 
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Card title="CC skills">
 | | |
 | -- | -- |

@@ -31,26 +31,22 @@ With the help of its pets, the druid also has access to heavy defiance bar damag
 
 <Divider text="Equipment (150 AR)"/>
 
-<Grid>
-<GridItem>
 Keep in mind that the setup below is optimized for healing in fractals and is not recommended for raid content due to the high Toughness amount from Minstrel and Cleric items. **If you don't care about optimizing and want to use one set for everything, simply run a full Harrier setup instead.**
-</GridItem>
 
-<GridItem>
+<Grid>
+<GridItem sm="4">
 <Armor helmId="75022" helmRuneId="24842" helmRuneCount="6" helmAffix="Minstrel" helmRune="Monk" shouldersId="48017" shouldersRuneId="24842" shouldersRuneCount="6" shouldersAffix="Cleric" shouldersRune="Monk" coatId="70834" coatRuneId="24842" coatRuneCount="6" coatAffix="Minstrel" coatRune="Monk" glovesId="48014" glovesRuneId="24842" glovesRuneCount="6" glovesAffix="Cleric" glovesRune="Monk" leggingsId="75340" leggingsRuneId="24842" leggingsRuneCount="6" leggingsAffix="Minstrel" leggingsRune="Monk" bootsId="48012" bootsRuneId="24842" bootsRuneCount="6" bootsAffix="Cleric" bootsRune="Monk"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainId="74905" weapon1MainSigil1Id="74326" weapon1MainType="Axe" weapon1MainAffix="Minstrel" weapon1MainSigil1="Transference" weapon1OffId="71116" weapon1OffSigilId="72339" weapon1OffAffix="Minstrel" weapon1OffType="Warhorn" weapon1OffSigil="Concentration" weapon2MainId="75200" weapon2MainSigil1Id="74326" weapon2MainSigil2Id="24551" weapon2MainType="Staff" weapon2MainAffix="Minstrel" weapon2MainSigil1="Transference" weapon2MainSigil2="Water"/>
-
----
 
 <Card title="Swap Weapons">
 * Offhand axe when <Skill id="12638"/> is needed to <Control name="pull"/>
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Trinkets backItemId="79830" backItemStatId="155" backItemAffix="Cleric" accessory1Id="39547" accessory1Affix="Cleric" accessory2Id="39546" accessory2Affix="Cleric" amuletId="39566" amuletAffix="Cleric" ring1Id="39597" ring1Affix="Cleric" ring2Id="79446" ring2StatId="1134" ring2Affix="Minstrel"/>
 
 <Consumables foodId="68634" utilityId="67528" infusionId="37125"/>
@@ -74,7 +70,7 @@ Keep in mind that the setup below is optimized for healing in fractals and is no
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Skills heal="31407" utility1="31582" utility2="12497" utility3="12493" elite="12569"/>
 
 <Card title="Situational">
@@ -96,7 +92,7 @@ Note that you should replace <Skill id="12493"/> if you have 25x <Condition name
 <Divider text="Details"/>
 
 <Grid>
-<GridItem sm="7">
+<GridItem>
 <Card title="Rotation">
 * To keep up your strong <Boon name="regeneration"/>, swap to your Warhorn set and <Trait id="1064"/> <Skill id="12621"/> with <Item id="72339"/>. Go into <Skill id="31869"/> and stay there for 9 seconds, leave it and <Trait id="1064"/> <Skill id="12621"/> again before switching back to Staff.
 * Use your glyphs like <Skill id="31582"/> whenever they are off cooldown to proc <Trait id="2057"/> and generate <Boon name="might"/> through <Trait id="2001"/>, but don't overwrite stacks from <Skill id="31869"/>

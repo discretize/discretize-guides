@@ -29,7 +29,7 @@ consumables: [78978]
 ## Running the wisps
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 Trigger the start event by walking to the three *Wisp Clefts* in the South. Wait for three players to be ready at each of the randomly spawned Wisps, usually indicated by typing `ready` in chat. Count down to go and deliver the Wisps to the Clefts within 30 seconds while avoiding <Condition name="stun"/>, <Condition name="immobile"/> and <Condition name="crippled"/> from the spike, wire and hunting traps on the ground.
 
 Learn and practice to jump over the emerging walls, for nearly every wall there is an easy spot to skip over it.
@@ -38,7 +38,7 @@ The remaining two players can take the _Invigorator Rifle Prototypes_ from the g
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/the_three_wisp_clefts.jpg" caption="The three wisp clefts" compact/>
+<Image src="./images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
 </GridItem>
 </Grid>
 
@@ -65,11 +65,12 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 ## The Mossman
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="stealth"/> to force a reveal, just do not waste all your cooldowns on him. If you need a `/gg` to reset them, do it either before taking the Wisp at Bloomhunger or after activating him or you will bug the entire fractal and have to restart.
 </GridItem>
+
 <GridItem sm="4">
-<Image src="./images/the_mossman.jpg" caption="The Mossman" compact/>
+<Image src="./images/the_mossman.jpg" caption="The Mossman"/>
 </GridItem>
 </Grid>
 
@@ -78,7 +79,7 @@ In the passage, the Mossman is waiting to fight you. You can break his defiance 
 ## Bloomhunger
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 Activate the encounter by placing the nearby Wisp into an empty Wisp Cleft. Bloomhunger (and all trash mobs) are only vulnerable inside the active Wisp Cleft area, additionally all players gain 100% increased endurance regeneration from it. The active area switches clockwise, move to the next position as soon as it decreases in size.
 
 When Bloomhunger casts _Poison Rain_, immediately break his defiance bar (especially at the start of the fight) and nuke him to 75%/50%/25% life. Avoid his _Leap_ and _Charge_ attacks to prevent being <Control name="knockdown"/>ed.
@@ -97,7 +98,7 @@ As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/bloomhunger.jpg" caption="Bloomhunger" compact/>
+<Image src="./images/bloomhunger.jpg" caption="Bloomhunger"/>
 <Tabs>
 <Tab specialization="chronomancer">
 Take <Skill id="29526"/> if you have trouble with mechanics. Keep in mind that keeping up <Boon name="quickness"/> during the Spirit Onslaught phases is important as well.

@@ -26,7 +26,7 @@ record:
 ### Start
 
 <Grid>
-<GridItem>
+<GridItem sm="7">
 Use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head for the first of the Sand Binders.
 
 <Tabs>
@@ -45,7 +45,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 </GridItem>
 
 <GridItem sm="5">
-<Image src="./images/start.jpg" caption="The starting area" compact/>
+<Image src="./images/start.jpg" caption="The starting area"/>
 </GridItem>
 </Grid>
 
@@ -82,7 +82,7 @@ Run an offhand axe for the <Control name="pull"/> from <Skill id="12638"/>.
 <Image src="./images/header.jpg" caption="Entry to Amala"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="8">
 ## Priestess Amala (Basic)
 Next up you will encounter Priestess Amala for the first time, bring her to 75% health and she wipes your party to praise Joko.
 
@@ -97,7 +97,7 @@ You can freely use `/gg` after she downs the party to reset cooldowns, just wait
 ## "Storm the Rooftops!"
 
 <Grid>
-<GridItem>
+<GridItem sm="7">
 Now that you're awakened, you gain access to a new special action skill which launches you high into the air and breaks <Control name="stun"/>. It doesn't have a cooldown out of combat so do not get infight during skips if possible.
     
 It can also be used to jump while casting any skill that requires you to stand still otherwise, as long as you do not move in any direction (<Skill id="5501" profession="elementalist"/> and similar skills).
@@ -114,7 +114,7 @@ While the party is killing the first Sandbinder a person with portal skip to the
 </GridItem>
 
 <GridItem sm="5">
-<Image src="./images/first_sandbinder.jpg" caption="The First Sandbinder on the roof" compact/>
+<Image src="./images/first_sandbinder.jpg" caption="The First Sandbinder on the roof"/>
 </GridItem>
 </Grid>
 
@@ -127,7 +127,7 @@ While the party is killing the first Sandbinder a person with portal skip to the
 Stack <Boon name="might"/> and be ready to dodge the initial <Control name="knockback"/> after activating the encounter.
 
 <Grid>
-<GridItem>
+<GridItem sm="9">
 ### Permanent Mechanics
 | | |
 | -- | -- |
@@ -138,7 +138,7 @@ Stack <Boon name="might"/> and be ready to dodge the initial <Control name="knoc
 </GridItem>
 
 <GridItem sm="3">
-<Image src="./images/praise_joko.jpg" caption="Praise Joko." compact/>
+<Image src="./images/praise_joko.jpg" caption="Praise Joko."/>
 </GridItem>
 </Grid>
 

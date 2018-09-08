@@ -24,14 +24,12 @@ The build unfolds its full strength in fights with medium to long interphases, i
 <Divider text="Equipment (150 AR and Spotter)"/>
 
 <Grid>
-<GridItem>
+<GridItem sm="4">
 <Armor helmAffix="Assassin" helmId="48135" helmRune="Scholar" helmRuneId="24836" helmRuneCount="6" shouldersAffix="Assassin" shouldersId="48137" shouldersRune="Scholar" shouldersRuneId="24836" shouldersRuneCount="6" coatAffix="Assassin" coatId="48133" coatRune="Scholar" coatRuneId="24836" coatRuneCount="6" glovesAffix="Assassin" glovesId="48134" glovesRune="Scholar" glovesRuneId="24836" glovesRuneCount="6" leggingsAffix="Berserker" leggingsId="48088" leggingsRune="Scholar" leggingsRuneId="24836" leggingsRuneCount="6" bootsAffix="Berserker" bootsId="48084" bootsRune="Scholar" bootsRuneId="24836" bootsRuneCount="6"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Assassin" weapon1MainId="47059" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Focus" weapon1OffAffix="Berserker" weapon1OffId="46761" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2OffType="Sword" weapon2OffAffix="Berserker" weapon2OffId="46774" weapon2OffSigil="Impact" weapon2OffSigilId="24868"/>
-
----
 
 <Card title="Swap Weapons">
 * Weapons with <Item id="36053"/>/<Item id="24615"/> (<Item id="36054"/> doesn't stack anymore)
@@ -39,7 +37,7 @@ The build unfolds its full strength in fights with medium to long interphases, i
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Trinkets backItemAffix="Berserker" backItemId="49390" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Berserker" amuletId="39273" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
@@ -61,7 +59,7 @@ The build unfolds its full strength in fights with medium to long interphases, i
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Skills heal="21750" utility1="10267" utility2="10341" utility3="10211" elite="30359"/>
 
 <Card title="Situational">
@@ -100,7 +98,7 @@ Apart from doing DPS, you have access to a wide range of utilities like <Skill i
 <Video youtube="PMNK7_Ky6tI" title="Small Hitbox: 33.6k DPS by Strider [FUN]"/>
 </GridItem>
 
-<GridItem sm="4">
+<GridItem>
 <Card title="Written Opener">
 1. Start on Sword/Focus with <Skill id="10282"/>
 2. Swap to Sword/Sword and use <Skill id="10174"/>, <Skill id="10267"/> and <Skill id="10341"/>

@@ -18,11 +18,11 @@ The <Specialization name="thief"/> is fine power dps for off-meta groups. It has
 <Divider text="Equipment"/>
 
 <Grid>
-<GridItem>
+<GridItem sm="4">
 <Armor helmId="48087" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48089" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48085" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48086" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48088" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48084" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainId="46773" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact"/>
 
 <Card title="Alternative weapons">
@@ -32,7 +32,7 @@ The <Specialization name="thief"/> is fine power dps for off-meta groups. It has
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
@@ -46,7 +46,7 @@ The <Specialization name="thief"/> is fine power dps for off-meta groups. It has
 <Traits title="" traits1Id="28" traits1="Dreadly Arts" traits1Selected="1276,1292,1269" traits2Id="35" traits2="Critical Strikes" traits2Selected="1268,1272,1904" traits3Id="7" traits3="Daredevil" traits3Selected="1933,1884,2047"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Skills heal="30400" utility1="13037" utility2="30868" utility3="13046" elite="13132"/>
 
 <Card title="Situational">
@@ -80,13 +80,14 @@ You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Card title="CC skills">
 | | |
 | -- | -- |
 | <Skill id="30693"/> | 200 damage |
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
 </Card>
+
 <Video youtube="POHMLGFY3xU" title="Daredevil Staff 35.3k by Derpy Moa [SC]"/>
 </GridItem>
 </Grid>

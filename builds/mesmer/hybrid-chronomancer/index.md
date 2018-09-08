@@ -24,21 +24,17 @@ While the sheer amount of possibilities are nice to look at, the Chronomancer is
 
 <Divider text="Equipment (150 AR + no Spotter)"/>
 
-<Grid>
-<GridItem>
 Especially for a Chrono it is highly recommended to aim higher than the minimum required Agony Resistance (e.g. <Item id="70596"/>, 18x <Item id="86180"/> and Agony Impedance as well as Mist Attunement) as you gain additional Boon Duration from the <Item id="79722"/>.
 
 Note that the optimal gear uses <Item id="86180"/> infusions, please use our [gear optimizer](http://old.discretize.eu/) to determine the optimal gear for your needs.
-</GridItem>
 
-<GridItem>
+<Grid>
+<GridItem sm="4">
 <Armor helmAffix="Commander" helmId="75727" helmRune="Leadership" helmRuneId="70600" helmRuneCount="6" shouldersAffix="Berserker" shouldersId="48083" shouldersRune="Leadership" shouldersRuneId="70600" shouldersRuneCount="6" coatAffix="Berserker" coatId="48079" coatRune="Leadership" coatRuneId="70600" coatRuneCount="6" glovesAffix="Berserker" glovesId="48080" glovesRune="Leadership" glovesRuneId="70600" glovesRuneCount="6" leggingsAffix="Commander" leggingsId="76139" leggingsRune="Leadership" leggingsRuneId="70600" leggingsRuneCount="6" bootsAffix="Berserker" bootsId="48078" bootsRune="Leadership" bootsRuneId="70600" bootsRuneCount="6"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Commander" weapon1MainId="73724" weapon1MainSigil1="Concentration" weapon1MainSigil1Id="72339" weapon1OffType="Shield" weapon1OffAffix="Commander" weapon1OffId="76075" weapon1OffSigil="Force" weapon1OffSigilId="24615" weapon2OffType="Sword" weapon2OffAffix="Commander" weapon2OffId="73724" weapon2OffSigil="Force" weapon2OffSigilId="24615"/>
-
----
 
 <Card title="Swap Weapons">
 * Focus when reflects or pulls are needed
@@ -46,7 +42,7 @@ Note that the optimal gear uses <Item id="86180"/> infusions, please use our [ge
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Trinkets backItemAffix="Commander" backItemId="79830" backItemStatId="1125" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Commander" amuletId="80241" amuletStatId="1125" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
 
 <Consumables foodId="43550" utilityId="67530" infusionId="37131"/>
@@ -60,7 +56,7 @@ Note that the optimal gear uses <Item id="86180"/> infusions, please use our [ge
 <Traits traits1Id="1" traits1="Dueling" traits1Selected="701,708,692" traits2Id="24" traits2="Illusions" traits2Selected="721,729,733" traits3Id="40" traits3="Chronomancer" traits3Selected="1995,1978,1890"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Skills heal="21750" utility1="30814" utility2="29856" utility3="10236" elite="10311"/>
 
 <Video youtube="Nze8ccCs8lo" title="Duel/Illu by Van Gherwen [SC] - 15.9k DPS"/>
@@ -76,7 +72,7 @@ This build variant has the highest personal DPS but needs <Skill id="10311"/> to
 <Traits traits1Id="23" traits1="Inspiration" traits1Selected="756,1980,1866" traits2Id="24" traits2="Illusions" traits2Selected="1869,729,733" traits3Id="40" traits3="Chronomancer" traits3Selected="1995,1978,1890"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Skills heal="21750" utility1="30814" utility2="29856" utility3="10236" elite="29519"/>
 
 <Video youtube="2_-aKb6VQd8" title="Illu/Insp by Van Gherwen [SC] - 11.6k DPS"/>
@@ -122,7 +118,7 @@ It also has access to reflects and more frequent <Control name="pull"/>s on focu
 <Divider text="Details"/>
 
 <Grid>
-<GridItem>
+<GridItem sm="7">
 <Card title="Written Opener">
 1. Open on Sword/Sword with <Skill id="10173"/> and <Skill id="10174"/>
 2. Cast <Skill id="29830"/> during the aftercast of one of the following skills:
@@ -151,7 +147,7 @@ It also has access to reflects and more frequent <Control name="pull"/>s on focu
 </Card>
 </GridItem>
 
-<GridItem sm="4">
+<GridItem sm="5">
 <Card title="Skill priority">
 As it is near impossible to follow a fixed rotation in fractals, try to keep to the following list of priorities:
 
@@ -160,6 +156,7 @@ As it is near impossible to follow a fixed rotation in fractals, try to keep to 
 3. With Inspiration you have another <Skill id="29724"/> on every phantasm summon due to <Trait id="1866"/>
 4. Break any defiance bar as fast as possible using <Skill id="30643"/>, <Skill id="10287"/> and <Skill id="29519"/>
 5. Do as much DPS as possible 1. Use <Skill id="10174"/> with <Skill id="21750"/> whenever ready 2. Use <Skill id="10334"/> off recharge, possibly twice with <Skill id="29830"/> (with three illusions) 3. Don't interrupt your auto-attack chains as the third hit (<Skill id="10172"/>) deals the most damage 4. Cast <Skill id="49068"/> (twice if traited) followed by <Skill id="10190"/> whenever you have three illusions up and don't plan to use <Skill id="29830"/> in the next 15 seconds 5. <Skill id="30769"/> is not worth using over auto-attack for DPS but grants <Boon name="protection"/>
-   </Card>
-   </GridItem>
-   </Grid>
+
+</Card>
+</GridItem>
+</Grid>

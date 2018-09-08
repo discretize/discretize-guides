@@ -13,7 +13,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <Grid>
 <GridItem sm="4">
-<Card theme="mesmer" title="Mesmer">
+<Card specialization="Mesmer">
 * <Skill id="10302"/> <Specialization disableText name="mesmer"/>   
 (Utility, best used during <Skill id="29830" disableText/>, <Specialization disableText name="chronomancer" />)
 * <Skill id="10186"/> <Specialization disableText name="mesmer"/>  
@@ -26,7 +26,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </GridItem>
 
 <GridItem sm="4">
-<Card theme="elementalist" title="Elementalist">
+<Card specialization="Elementalist">
 * <Skill id="5685"/> <Specialization disableText name="elementalist"/>  
 (Staff 3, <Skill id="5495" disableText/>)
 * <Skill id="5530"/> <Specialization disableText name="elementalist"/>  
@@ -39,7 +39,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </GridItem>
 
 <GridItem sm="4">
-<Card theme="ranger" title="Ranger">
+<Card specialization="Ranger">
 * <Skill id="31496"/> <Specialization disableText name="druid"/>  
 (Staff 5)
 * <Skill id="12639"/> <Specialization disableText name="ranger"/>  
@@ -48,7 +48,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </GridItem>
 
 <GridItem sm="4">
-<Card theme="guardian" title="Guardian">
+<Card specialization="Guardian">
 * <Skill id="9251"/> <Specialization disableText name="guardian"/>  
 (Utility skill)
 * <Skill id="9107"/> <Specialization disableText name="guardian"/>  
@@ -59,7 +59,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </GridItem>
 
 <GridItem sm="4">
-<Card theme="thief" title="Thief">
+<Card specialization="Thief">
 * <Skill id="14184"/> <Specialization disableText name="thief"/>  
 (Utility skill)
 * <Skill id="30434"/> <Specialization disableText name="daredevil"/>  
@@ -68,7 +68,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 </GridItem>
 
 <GridItem sm="4">
-<Card theme="warrior" title="Warrior">
+<Card specialization="Warrior">
 * <Skill id="30074"/> <Specialization disableText name="berserker"/>  
 (Utility skill)
 * <Skill id="30682"/> <Specialization disableText name="berserker"/>  
@@ -91,7 +91,7 @@ Below is a list of commonly used defensive skills:
 <Grid>
 
 <GridItem sm="4">
-<Card theme="mesmer" title="Mesmer">
+<Card specialization="Mesmer">
 * <Skill id="10192"/> <Specialization disableText name="mesmer"/>  
    (F4, is a personal invulnerable)
     * You can trait <Trait id="1852"/> to share <Boon name="aegis" disableText/> with allies (5 seconds internal cooldown) when you gain distortion
@@ -110,7 +110,7 @@ Below is a list of commonly used defensive skills:
 </GridItem>
 
 <GridItem sm="4">
-<Card theme="warrior" title="Warrior">
+<Card specialization="Warrior">
 * <Skill id="14507"/> <Specialization disableText name="warrior"/>  
 (Mace 2)
 * <Skill id="14362"/> <Specialization disableText name="warrior"/>   
@@ -123,7 +123,7 @@ Below is a list of commonly used defensive skills:
 </GridItem>
 
 <GridItem sm="4">
-<Card theme="guardian" title="Guardian">
+<Card specialization="Guardian">
 * <Skill id="9102"/> <Specialization disableText name="guardian"/>  
 (Heal skill)
 * <Skill id="9154"/> <Specialization disableText name="guardian"/>  
@@ -144,7 +144,7 @@ Below is a list of commonly used defensive skills:
 </GridItem>
 
 <GridItem sm="4">
-<Card theme="elementalist" title="Elementalist">
+<Card specialization="Elementalist">
 * <Skill id="5641"/> <Specialization disableText name="elementalist"/>  
 (Utility skill)
 * <Skill id="5554"/> <Specialization disableText name="elementalist"/>  
@@ -157,7 +157,7 @@ Below is a list of commonly used defensive skills:
 </GridItem>
 
 <GridItem sm="4">
-<Card theme="thief" title="Thief">
+<Card specialization="Thief">
 * <Skill id="30661"/> <Specialization disableText name="daredevil"/>  
 (Utility skill)
 * <Skill id="30597"/> <Specialization disableText name="daredevil"/>  

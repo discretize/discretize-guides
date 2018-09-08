@@ -29,7 +29,7 @@ consumables: [78978, 8764, 8801]
 ## Siegemaster Dulfy
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 Stack <Effect name="stealth"/> in the tent and run towards Dulfy.
 
 Killing the _Burning Oil_ above her is your highest priority. Control and cleave the trash mobs and utilize reflects and blocks while nuking her down. Destroy the gate after finishing her and gather on the other side of the wall.
@@ -54,7 +54,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy" compact/>
+<Image src="./images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy"/>
 </GridItem>
 </Grid>
 
@@ -67,8 +67,6 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 Again, stack <Effect name="stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
 
 Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference.
-
-<Image src="./images/the_town.jpg" caption="A barricade in the town"/>
 </GridItem>
 
 <GridItem>
@@ -87,6 +85,8 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 </Tabs>
 </GridItem>
 </Grid>
+
+<Image src="./images/the_town.jpg" caption="A barricade in the town"/>
 
 ---
 

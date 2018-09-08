@@ -42,7 +42,7 @@ consumables: [78978, 49940, 8764, 8801, 8686]
 | **The Console Room**          | Two people without special abilities should step on the two pressure plates to open the console locker. They are also responsible for keeping aggro from the opener, especially the spawning _Veteran Dredge_ next to the locker.<br/>Now for the actual console, <Item id="8686"/> and other <Effect name="stealth"/> sources are very strong. It should be activated by someone who's able to block the <Control name="knockback"/> from the locker closing, so the other two people can step off the pressure plates and protect the opener from the spawning mobs. The opener should indicate the step off in chat to time it with block skills.<br/>**The whole party can do `/gg` after the console is done, but it is not necessary** only if the <Specialization name="mesmer"/> want's to give <Effect name="stealth"/>, since the checkpoint was changed in the June 26th patch and everyone resurrects in the Console Room. |
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 <Tabs>
 <Tab specialization="chronomancer">
 Use <Skill id="10200"/> to teleport and <Skill id="10245"/> with <Skill id="29830"/> and <Trait id="674"/> for long party <Effect name="stealth"/>.    
@@ -69,7 +69,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 
 <GridItem sm="4">
 <Image src="./images/start.jpg" caption="The starting area"/>
-<Image src="./images/console_locker.jpg" caption="The console locker" compact/>
+<Image src="./images/console_locker.jpg" caption="The console locker"/>
 </GridItem>
 </Grid>
 
@@ -78,7 +78,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 ## Guns _or_ Bombs path <Item id="8892" disableText/><Item id="24684" disableText/><Label>Random</Label>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 After resurrecting, skip the mobs with <Effect name="stealth"/> and the guns or nine bombs to destroy the gate.
 
 On the **guns** path, any equipped gun near the door will break when the door reaches 75%/50%/25% health. **After the June 26th update, you no longer need to use three guns simultaneously, can go one by one as fast as you can**.
@@ -87,7 +87,7 @@ On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and*
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/gun_path.jpg" caption="The gun path" compact/>
+<Image src="./images/gun_path.jpg" caption="The gun path"/>
 </GridItem>
 </Grid>
 
@@ -114,7 +114,7 @@ When you destroy the door, you will reach the most annoying boss ingame, have fu
 ## Dredge Powersuit <Item id="8892" disableText/><Item id="24684" disableText/> _or_ Rampaging Ice Elemental <Item id="8885" disableText/><Item id="24661" disableText/><Label>Random</Label>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 You can either stack <Effect name="stealth"/> and skip towards the Endboss together or let the <Specialization name="mesmer"/> teleport ahead and do a <Skill id="10197"/>. In the latter case, <Specialization name="mesmer"/> does `/gg` after placing the portal to reset cooldowns so do not resurrect until <Specialization name="mesmer"/> is done, then take the portal together. Keep in mind the maximum range.
 
 After loosing potential aggro of the mobs from the corridor, pull the boss to the next lava bucket, trigger it to inflict _Superheated_ for 10x damage and nuke. Stay on the boss as long as possible before moving to the next bucket but pay attention to his _Mending_ heal skill, which can be interrupted by simply attacking him as long as the Superheated debuff is up.

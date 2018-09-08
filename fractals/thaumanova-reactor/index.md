@@ -25,7 +25,7 @@ consumables: [78978, 49940]
 ---
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 ## Start
 Activate the *Detonator* and wait for the <Specialization name="mesmer"/> to open a portal (in this case, stack <Boon name="might"/> in the vestibule) or walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
 
@@ -48,7 +48,7 @@ Lay down a <Skill id="10197"/>, cast <Skill id="29578"/> with <Skill id="10200"/
 <Image src="./images/turret_room.jpg" caption="Golems patrol in the turret room"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="8">
 ## Turret room <Label>South</Label>
 This should be done by two support classes (usually the <Specialization name="warrior"/> and the <Specialization name="druid"/>). Learn the timing of the turret shots and jump or dodge over them. You can also take a *Safety Shield* from the beginning and use it to block shots for a short duration.
 
@@ -61,7 +61,7 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 ---
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 ## Researcher Dormitories <Label>East</Label>
 **Both DPS** should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
 
@@ -84,7 +84,7 @@ Stack <Boon name="might"/> before the door opens and use <Skill id="5697"/> agai
 <Image src="./images/superheated_room.jpg" caption="The Superheated Room"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="8">
 ## Superheated Room <Label>West</Label>
 This is usually solo'ed by the <Specialization name="mesmer"/> using <Skill id="29578"/>, <Skill id="29830"/>, <Skill id="10200"/>, dodge jumps and heals from <Skill id="10213"/> and <Trait id="740"/> but other classes can do it as well.
 
@@ -127,7 +127,7 @@ Share <Skill id="13132"/> with 5 allies to deal 750 unblockable defiance bar dam
 ## Thaumanova Anomaly
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="might"/>.    
 During the fight, try to stack as much as possible on one or two adjacent platforms but don't die from <Instability name="Social Awkwardness"/> (present on both difficulties).
 

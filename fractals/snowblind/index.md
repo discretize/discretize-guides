@@ -27,7 +27,7 @@ consumables: [78978, 49940]
 ## Ice Wall <Item id="8883" disableText/><Item id="24667" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
 
 If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them at the bonfire.
@@ -35,7 +35,7 @@ If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them a
 When there are only a few percent remaining, go near the fire to leave combat and pre-equip <Item id="49940"/> to be faster on the bridge.
 </GridItem>
 <GridItem sm="4">
-<Image src="./images/the_start_area.jpg" caption="The start area" compact/>
+<Image src="./images/the_start_area.jpg" caption="The start area"/>
 </GridItem>
 </Grid>
 
@@ -82,11 +82,11 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 ## Forest <Item id="8883" disableText/><Item id="24667" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 After the Elemental Source is destroyed, everyone except the fastest player can `/gg` and wait for the next checkpoint at the cave to trigger. Mobility skills and <Item id="49940"/> are very good here.
 </GridItem>
 <GridItem sm="4">
-    <Image src="./images/the_icy_forest.jpg" caption="The icy forest" compact/>
+    <Image src="./images/the_icy_forest.jpg" caption="The icy forest"/>
 </GridItem>
 </Grid>
 

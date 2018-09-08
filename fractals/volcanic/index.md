@@ -31,7 +31,7 @@ consumables: [78978, 49940]
 ## Start <Item id="8890" disableText/><Item id="24648" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="warrior"/> after placing banners) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can `/gg` after the section is completed and resurrect to skip the Boulder passage.
 
 <Tabs>
@@ -77,7 +77,7 @@ Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to ke
 ## Imbued Shaman <Item id="8885" disableText/><Item id="8886" disableText/><Item id="24661" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 Take the shortcut on the right-hand side down to the final platform to trigger the next checkpoint, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="might"/> and jump down to the Imbued Shaman (Since the November patch, the bat follows you to the end of the walkway, but it takes here 10 or more seconds to reach it. Make sure you have the might stacked and are on the correct weapon before she flies in you firefield and brings you infight.).
 
 Every 25% health, he gains a protective bubble and starts moving to a random villager. He will heal for about 20% health if he reaches his target, so break the bubble quickly by casting 40 offensive abilities while targeting the Imbued Shaman (you actually don't have to hit him). Try to keep him in the center as the villagers are located at the edge of the area.

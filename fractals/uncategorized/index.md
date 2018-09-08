@@ -28,7 +28,7 @@ consumables: [78978, 49940, 8764, 8801]
 ---
 
 <Grid>
-<GridItem>
+<GridItem sm="7">
 ## Start
 
 **Option 1 (recommended):** The whole party stacks <Effect name="stealth"/> and skips together until the holding area. If a single Harpy spawned immediately at the begin, you can kill it before stealthing.
@@ -69,24 +69,25 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 ---
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 ## Pulsing Orbs
 
 Walk past the three Harpies (no <Effect name="stealth"/> needed) and run up the ramp towards Old Tom. You can dodge through or reflect the pulsing orbs and even skip the last part by walking on the left wall.
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/pulsing_orbs.jpg" caption="The ramp up" compact/>
+<Image src="./images/pulsing_orbs.jpg" caption="The ramp up"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="7">
 ## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>
 
 Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken.
 
 <Image src="./images/old_tom.jpg" caption="Old Tom"/>
 </GridItem>
-<GridItem>
+
+<GridItem sm="5">
 <Tabs>
 <Tab specialization="mesmer">
 **Pro tip**: Immediately after the holding area, use <Item id="49940"/> and <Skill id="10200"/> up to the upper level from below. Take [this shortcut](https://youtu.be/xFfz0Erv-5c?t=34s) to the Raving Asura and place a portal before jumping down and killing Old Tom. Open the portal afterwards and don't forget to trigger the "Reach the top" checkpoint to prevent the fractal from bugging.    
@@ -110,12 +111,12 @@ You can use <Skill id="30783"/> to bypass the jumping puzzle.
 ## Raving Asura <Item id="8887" disableText/><Item id="24672" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="7">
 If noone did a portal to above, stack <Effect name="stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal.
 
 Note that the golems are resistent to pulls since a recent patch.
 </GridItem>
 <GridItem sm="5">
-<Image src="./images/raving_asura.jpg" caption="The Raving Asura and his entourage" compact/>
+<Image src="./images/raving_asura.jpg" caption="The Raving Asura and his entourage"/>
 </GridItem>
 </Grid>
