@@ -31,11 +31,11 @@ consumables: [49940]
 ## Start
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 Kill the four *Veteran Chanters* at the beginning to open the gate on the right-hand side. The fastest person can rush ahead and move to the next checkpoint at the *Chaos Anomaly*, everyone else can `/gg` and resurrect at the checkpoint there.
 </GridItem>
 <GridItem sm="4">
-<Image src="./images/start.jpg" caption="The starting area" compact/>
+<Image src="./images/start.jpg" caption="The starting area"/>
 </GridItem>
 </Grid>
 
@@ -74,14 +74,14 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 ## Blizzard path (Forest)
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 You will need to enlighten four *bonfires* on the path to progress to the end boss while every player only has **one** *Enlighten* charge.
 
 You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. Do not assign a bonfire to each player, simply lighten them up as soon as you reach them.  
 Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
 </GridItem>
 <GridItem sm="4">
-<Image src="./images/forest.jpg" caption="The blizzard forest" compact/>
+<Image src="./images/forest.jpg" caption="The blizzard forest"/>
 </GridItem>
 </Grid>
 
@@ -90,7 +90,7 @@ Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <I
 ## Legendary Brazen Gladiator
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.    
 He will also apply a group-wide <Control name="daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and invulnerables or simply do not stand in front of him when it hits. Learn to recognize the animation.
 

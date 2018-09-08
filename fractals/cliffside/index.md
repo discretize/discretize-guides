@@ -30,7 +30,7 @@ You will need an experienced <Specialization name="mesmer"/> for this fractal or
 ---
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 ## Start & Ankle Seals <Item id="8881" disableText/><Item id="24678" disableText/>
 
 Kill the Cultists but take the _Cultist Hammer_ before finishing the last one to get a hammer charge.  
@@ -39,7 +39,7 @@ Use `/gg` afterwards and stay dead until the <Specialization name="mesmer"/> rea
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/ankle_seals.jpg" caption="The ankle seals" compact/>
+<Image src="./images/ankle_seals.jpg" caption="The ankle seals"/>
 </GridItem>
 </Grid>
 
@@ -85,7 +85,7 @@ After 2-3 hits against the Seal, place a <Skill id="10197"/>, use <Skill id="295
 ## Arm Seals <Item id="8881" disableText/><Item id="24678" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 This is a matter of timing, so look out for the <Specialization name="mesmer"/> and the hammer carrier. In a perfect world you have a charge left from below, then hit the *Right Arm Seal* once before killing the Veteran Cultist to gain another charge. Run to the *Left Arm Seal*.
 
 During the portal jumping, keep Cultist's health as low as possible but **only finish them when a hammer charge is needed**. If the Mesmer runs out of portals and more are needed, use a <Item id="78978"/>. Ideally, both seals take three hits to be destroyed—two portals are more than enough.
@@ -94,7 +94,7 @@ Type `/gg` after finishing both seals and stay dead. If you wipe before both sea
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/arm_seal.jpg" caption="One of the arm seals" compact/>
+<Image src="./images/arm_seal.jpg" caption="One of the arm seals"/>
 </GridItem>
 </Grid>
 
@@ -121,7 +121,7 @@ Again, <Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you
 Do not resurrect yourself yet, wait for the <Specialization name="mesmer"/> to finish his portal and do `/gg` himself again or you will be stuck with an useless Mesmer for the entire end fight.
 </GridItem>
 
-<GridItem>
+<GridItem sm="8">
 <Tabs>
 <Tab specialization="mesmer">
 After the whole party `/gg`'ed, resurrect yourself and place a <Skill id="10197"/> at the revival position.    
@@ -130,9 +130,8 @@ After the whole party `/gg`'ed, resurrect yourself and place a <Skill id="10197"
 </Tab>
 </Tabs>
 </GridItem>
-</Row>>
 
-<GridItem>
+<GridItem sm="8">
 ## Arch Diviner <Item id="8881" disableText/><Item id="24678" disableText/>
 After the Mesmer indicates you to resurrect, take the portal to above and combat the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Trait id="1502"/>.
 

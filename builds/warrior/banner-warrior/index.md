@@ -19,17 +19,16 @@ If enemy boons are present, the <Specialization name="spellbreaker"/> specializa
 
 Furthermore, the build is able to use damage modifying sigils like <Item id="24868"/> as well as slaying potions such as <Item id="50082"/>. As a support warrior, your focus is first and foremost providing the group with aforementioned damage buffs and removing boons, secondly breaking the defiance bar while following your optimized damage rotation.
 
-<Divider text="Equipment (150 AR and <Trait id="1016" profession="ranger"/>)"/>
-<Grid>
-<GridItem>
-**Note:** Without <Trait id="1016" profession="ranger"/> from a <Specialization name="druid"/> you have to run more Assassin's pieces to reach 100% critical chance. It is highly recommended to aim higher than the minimum required Agony Resistance (e.g. <Item id="70596"/>, 18x <Item id="37131"/> and Agony Impedance as well as Mist Attunement). To determine the optimal gear for your personal Agony Resistance please use our [gear optimizer](http://old.discretize.eu/).
-</GridItem>
+<Divider text="Equipment (150 AR and Spotter)"/>
 
-<GridItem>
+**Note:** Without <Trait id="1016" profession="ranger"/> from a <Specialization name="druid"/> you have to run more Assassin's pieces to reach 100% critical chance. It is highly recommended to aim higher than the minimum required Agony Resistance (e.g. <Item id="70596"/>, 18x <Item id="37131"/> and Agony Impedance as well as Mist Attunement). To determine the optimal gear for your personal Agony Resistance please use our [gear optimizer](http://old.discretize.eu/).
+
+<Grid>
+<GridItem sm="4">
 <Armor helmAffix="Assassin" helmId="48129" helmRune="Scholar" helmRuneId="24836" helmRuneCount="6" shouldersAffix="Assassin" shouldersId="48131" shouldersRune="Scholar" shouldersRuneId="24836" shouldersRuneCount="6" coatAffix="Berserker" coatId="48073" coatRune="Scholar" coatRuneId="24836" coatRuneCount="6" glovesAffix="Berserker" glovesId="48074" glovesRune="Scholar" glovesRuneId="24836" glovesRuneCount="6" leggingsAffix="Berserker" leggingsId="48076" leggingsRune="Scholar" leggingsRuneId="24836" leggingsRuneCount="6" bootsAffix="Berserker" bootsId="48072" bootsRune="Scholar" bootsRuneId="24836" bootsRuneCount="6"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainId="46759" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainId="46766" weapon2MainSigil1="Severance" weapon2MainSigil1Id="84505" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffId="46766" weapon2OffSigil="Paralyzation" weapon2OffSigilId="24639"/>
 <Card title="Swap Weapons">
 * All weapons with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
@@ -38,7 +37,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Trinkets backItemAffix="Berserker" backItemId="49390" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Berserker" amuletId="39273" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
@@ -52,7 +51,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 <Traits traits1Id="4" traits1="Strength" traits1Selected="1444,2000,1437" traits2Id="11" traits2="Tactics" traits2Selected="1471,1482,1667" traits3Id="51" traits3="Discipline" traits3Selected="1413,1484,1369"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Skills heal="14402" utility1="14502" utility2="14407" utility3="14405" elite="14483"/>
 
 <Card title="Situational">
@@ -68,13 +67,13 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 <Divider text="Spellbreaker Variant"/>
 
 <Grid>
-<GridItem>
+<GridItem sm="7">
 With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Molten Boss, Twilight Oasis) you will have to take the <Specialization name="spellbreaker"/> specialization.
 
 <Traits traits1Id="4" traits1="Strength" traits1Selected="1444,1338,1437" traits2Id="11" traits2="Tactics" traits2Selected="1471,1482,1667" traits3Id="61" traits3="Spellbreaker" traits3Selected="2107,2126,2060"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Skills heal="14402" utility1="14502" utility2="14407" utility3="14405" elite="45333"/>
 
 ---
@@ -90,7 +89,7 @@ A good countermeasure is to use Assassin's weapons instead of Beserker on this b
 <Divider text="Details"/>
 
 <Grid>
-<GridItem sm="7">
+<GridItem sm="8">
 <Card title="Skill usage">
 * Pre-fight:
   * Use <Skill id="14394"/> and <Skill id="14393"/> on warhorn (<Boon name="vigor" disableText/><Boon name="swiftness" disableText/>)
@@ -117,8 +116,6 @@ A good countermeasure is to use Assassin's weapons instead of Beserker on this b
 
 </Card>
 
----
-
 <Card title="Spellbreaker variant">
 * Evolve your rotation around your highest burst damage skills: <Skill id="14399"/> and <Skill id="14554"/>
   * Before using high burst damage skills:
@@ -139,7 +136,7 @@ A good countermeasure is to use Assassin's weapons instead of Beserker on this b
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Card title="CC skills">
 | | |
 | -- | -- |

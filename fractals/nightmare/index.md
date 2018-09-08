@@ -78,14 +78,14 @@ If you have problems with incoming damage, swap <Skill id="12497"/> with <Skill 
 ---
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 ## First set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
 You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.    
 Learn the *Red Orb* patterns as they can quickly kill you, *Blue Orbs* will heal you for a large amount of health (even with Agony).    
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
 </GridItem>
 <GridItem sm="4">
-<Image src="./images/altars.jpg" caption="The altars" compact/>
+<Image src="./images/altars.jpg" caption="The altars"/>
 </GridItem>
 </Grid>
 
@@ -158,7 +158,7 @@ Nearly all of Ensolyss' attacks do a <Control name="knockback"/> or <Control nam
 Again, the key to this fight is fast crowd control. Break his defiance bar quickly to interrupt his high damage attacks. Always stack around the center area and do not try to follow him to the edge as he will simply teleport back most of the time.
 </GridItem>
 <GridItem>
-<Image src="./images/ensolyss.jpg" caption="Ensolyss: The final boss" compact/>
+<Image src="./images/ensolyss.jpg" caption="Ensolyss: The final boss"/>
 </GridItem>
 </Grid>
 

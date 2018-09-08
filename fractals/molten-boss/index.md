@@ -28,7 +28,7 @@ record:
 ## Start area <Item id="50082" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 Skip the first two bridges, you can use <Effect name="stealth"/> but since it is difficult to reapply just stay together while moving.
 
 You will reach an area with two _Molten Protectors_, drag them with you to the next group of mobs where you can't proceed. Kill everything there and the bridge to the Molten Effigy will come down.
@@ -45,8 +45,9 @@ You can place a <Item id="78978"/> / <Skill id="10197"/>  on the way in middle o
 </Tab>
 </Tabs>
 </GridItem>
+
 <GridItem sm="4">
-<Image src="./images/start.jpg" caption="The long way down" compact/>
+<Image src="./images/start.jpg" caption="The long way down"/>
 </GridItem>
 </Grid>
 
@@ -76,6 +77,6 @@ Do not walk into the hitboxes of the two bosses to prevent them from moving out 
 
 You enter the arena after killing the group of mobs before the bridge, before anyone enters the arena place a <Item id="78978"/> at the Mistlock Singularity and open at the respawn place (entering the arena teleports everyone in), then you all `/gg` fast, revive and take the portal to the Mistlock Singularity. It only works well if you know where you respawn.
 
-After entering the arena again you kill the _Molten Firestorm_, then use `/gg` the moment it's dead, this resets your cooldowns (after `/gg` the boss progress doesn't reset so you do not have to worry) and you go back into the arena and kill the _Molten Berserker_. 
+After entering the arena again you kill the _Molten Firestorm_, then use `/gg` the moment it's dead, this resets your cooldowns (after `/gg` the boss progress doesn't reset so you do not have to worry) and you go back into the arena and kill the _Molten Berserker_.
 
 <Image src="./images/endboss.jpg" caption="The Molten Berserker & Molten Firestorm"/>

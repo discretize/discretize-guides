@@ -37,23 +37,19 @@ While the sheer amount of possibilities are nice to look at, the Chronomancer is
 
 <Divider text="Equipment (150 AR + 10 boons avg)"/>
 
-<Grid>
-<GridItem>
 As you overcap 100% boon duration with <Trait id="1865"/>, <Item id="72339"/>, <Item id="79722"/> and <Item id="70600"/> in fractals, <Item id="69370"/> is the recommended alternative to increase <Boon name="resistance"/> uptime (remember, it's another 2% DPS boost for your Weavers). Another option is to aim for 100% without <Item id="72339"/> and keep your (raid) boon duration runes. You can also keep your [Hybrid Chronomancer](https://discretize.eu/builds/mesmer/hybrid-chronomancer) gear and just swap runes to Revenant which trades exactly 30% boon duration.
 
 Especially for a Chrono it is highly recommended to aim higher than the minimum required Agony Resistance (e.g. <Item id="70596"/>, 18x <Item id="86180"/> and Agony Impedance as well as Mist Attunement) as you gain additional Boon Duration from the <Item id="79722"/>.
 
 Note that the optimal gear uses <Item id="86180"/> infusions, please use our [gear optimizer](http://old.discretize.eu/) to determine the optimal gear for your needs.
-</GridItem>
 
-<GridItem>
+<Grid>
+<GridItem sm="4">
 <Armor helmAffix="Commander" helmId="75727" helmRune="Revenant" helmRuneId="69370" helmRuneCount="6" shouldersAffix="Berserker" shouldersId="48083" shouldersRune="Revenant" shouldersRuneId="69370" shouldersRuneCount="6" coatAffix="Berserker" coatId="48079" coatRune="Revenant" coatRuneId="69370" coatRuneCount="6" glovesAffix="Berserker" glovesId="48080" glovesRune="Revenant" glovesRuneId="69370" glovesRuneCount="6" leggingsAffix="Commander" leggingsId="76139" leggingsRune="Revenant" leggingsRuneId="69370" leggingsRuneCount="6" bootsAffix="Berserker" bootsId="48078" bootsRune="Revenant" bootsRuneId="69370" bootsRuneCount="6"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Commander" weapon1MainId="73724" weapon1MainSigil1="Concentration" weapon1MainSigil1Id="72339" weapon1OffType="Shield" weapon1OffAffix="Commander" weapon1OffId="76075" weapon1OffSigil="Paralyzation" weapon1OffSigilId="24639" weapon2MainType="Staff" weapon2MainAffix="Commander" weapon2MainId="76089" weapon2MainSigil1="Concentration" weapon2MainSigil1Id="72339" weapon2MainSigil2="Force" weapon2MainSigil2Id="24615"/>
-
----
 
 <Card title="Swap Weapons">
 * Focus when reflects or pulls are needed
@@ -61,35 +57,31 @@ Note that the optimal gear uses <Item id="86180"/> infusions, please use our [ge
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Trinkets backItemAffix="Commander" backItemId="79830" backItemStatId="1125" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Commander" amuletId="80241" amuletStatId="1125" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
 
 <Consumables foodId="43550" utilityId="67530" infusionId="37131"/>
 </GridItem>
-
-<GridItem>
-Note that you can also run an Offhand Sword instead of Staff for better DPS. It's still possible to achieve 100% <Boon name="retaliation"/> uptime on stationary fights with Sword but Staff is overall the safer option with more <Boon name="aegis"/> uptime, as your only other source is <Trait id="670"/> without it.
-</GridItem>
 </Grid>
+
+Note that you can also run an Offhand Sword instead of Staff for better DPS. It's still possible to achieve 100% <Boon name="retaliation"/> uptime on stationary fights with Sword but Staff is overall the safer option with more <Boon name="aegis"/> uptime, as your only other source is <Trait id="670"/> without it.
 
 <Divider text="Healing Variant"/>
 
-<Grid>
-<GridItem>
 The **Healing Variant** can be used if your party has trouble surviving without a dedicated healer. Note that using full Minstrel equipment, 6x <Item id="24842"/>, <Trait id="1865"/> and <Item id="79722"/> puts you above 100% Boon Duration already - no <Item id="72339"/> needed. You can replace Minstrel with Cleric items for even more Healing Power if you have additional Concentration (like from having more Agony Resistance).
 
 Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="1987"/>, <Boon name="regeneration"/> and your healing skill. Keep in mind that <Trait id="757"/> is a strong condition cleanse combined with <Skill id="10213"/> charges. If you have <Trait id="738"/> traited, you can use up mantra charges as the preparation itself heals already as well.
-</GridItem>
 
-<GridItem>
+<Grid>
+<GridItem sm="4">
 <Armor helmAffix="Minstrel" helmId="73970" helmRune="Monk" helmRuneId="24842" helmRuneCount="6" shouldersAffix="Minstrel" shouldersId="73670" shouldersRune="Monk" shouldersRuneId="24842" shouldersRuneCount="6" coatAffix="Minstrel" coatId="74448" coatRune="Monk" coatRuneId="24842" coatRuneCount="6" glovesAffix="Minstrel" glovesId="75866" glovesRune="Monk" glovesRuneId="24842" glovesRuneCount="6" leggingsAffix="Minstrel" leggingsId="70414" leggingsRune="Monk" leggingsRuneId="24842" leggingsRuneCount="6" bootsAffix="Minstrel" bootsId="75349" bootsRune="Monk" bootsRuneId="24842" bootsRuneCount="6"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Minstrel" weapon1MainId="76730" weapon1MainSigil1="Transference" weapon1MainSigil1Id="74326" weapon1OffType="Shield" weapon1OffAffix="Minstrel" weapon1OffId="74748" weapon1OffSigil="Paralyzation" weapon1OffSigilId="24639" weapon2MainType="Staff" weapon2MainAffix="Minstrel" weapon2MainId="75200" weapon2MainSigil1="Transference" weapon2MainSigil1Id="74326" weapon2MainSigil2="Water" weapon2MainSigil2Id="24551"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Trinkets backItemAffix="Minstrel" backItemId="79830" backItemStatId="1123" accessory1Affix="Minstrel" accessory1Id="79444" accessory1StatId="1123" accessory2Affix="Minstrel" accessory2Id="79745" accessory2StatId="1123" amuletAffix="Minstrel" amuletId="80241" amuletStatId="1123" ring1Affix="Minstrel" ring1Id="79460" ring1StatId="1123" ring2Affix="Minstrel" ring2Id="79710" ring2StatId="1123"/>
 
 <Consumables foodId="68634" utilityId="67528" infusionId="37125"/>
@@ -113,7 +105,7 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Skills heal="10213" utility1="30814" utility2="29856" utility3="10236" elite="29519"/>
 
 <Card title="Situational Skills">
@@ -169,7 +161,7 @@ Keep in mind that you usually want to replace <Skill id="30814"/> first and use 
 <Video youtube="SKD6K-zCUx4" title="No Staff Rotation by Yui [SC]"/>
 </GridItem>
 
-<GridItem sm="7">
+<GridItem>
 <Card title="Skill priority">
 As really every skill you have is worth using, you should simply cast everything whenever it is off recharge after following the opener sequence to the left.
 

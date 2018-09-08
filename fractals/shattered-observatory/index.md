@@ -31,34 +31,35 @@ consumables: [78978, 8759, 8678, 8732]
 ## Skorvald the Shattered <Label>5,551,340 HP</Label>
 
 <Grid>
-<GridItem>
+<GridItem sm="7">
 Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the *Mistlock Singularity* after accepting the Harbringer's challenge, stack <Boon name="might"/> on the platform below and start the encounter by activating the orb in the center of the platform.
 </GridItem>
-<GridItem sm="4">
-<Image src="./images/skorvald.jpg" caption="Skorvald the Shattered" compact/>
+
+<GridItem sm="5">
+<Image src="./images/skorvald.jpg" caption="Skorvald the Shattered"/>
 </GridItem>
 </Grid>
 
-| | |
-| --- | --- |
-| **Solar Bolt** | Skorvald often throws a red orb which splits into three after each bounce. Every orb leaves a <Condition name="burning"/> field which deals high damage. |
-| **Horizon Strike** | He marks orange triangles around him and blasts them counter-clockwise which deals high damage and <Control name="knockback"/>. The orange zones themselves dont deal any damage but explode in order, practice the pattern and move into the first triangle after it is gone. Followed by Crimsown Dawn. |
-| **Crimson Dawn** | Blasts the entire platform only excluding a small triangle behind him. Deals high damage. |
-| **Radiant Fury** | Applies <Condition name="blind"/> and <Condition name="burning"/> to all players it hits and damages allies around them. Recognizable by diminishing red circles around every player, dodge when they collapse. Also sends out a **Solar Discharge** shockwave with <Control name="stun"/> from Skorvald. |
-| **Warp & Spiral Strike** | Skorvard teleports to the target location and executes a spinning strike which damages players and applies <Control name="knockback"/>. Also sends out a volley of bolts. Noticeable by a large bomb icon above a player. |
-| **Punishing Kick & Cranial Cascade** | Both attacks release a blast of chaotic mists with high damage and <Control name="knockback"/>. *Punishing Kick* generates a line in front of him, *Cranial Cascade* a cascading triangle. |
-| **Rush** | **Only below 66% health.** Skorvald fixates on a player and charges through him from one edge of the platform to the other. |
-| **Focused Rage** | **Only below 66% health.** Basically a larger version of *Cranial Cascade *. Skorvald marks a player with a cross-hair and blasts a large orange cone for high damage and <Control name="knockback"/>. The marked player should turn Skorvald away from other players, during the last second of the animation he does not follow the target anymore and it is safe to step out. |
-| **Solar Bloom** | **Only below 50% health.** Solar Blooms spawn on the platform which need to be knocked back by damaging them. They fixate on the closest player and explode for high area damage and <Control name="knockback"/>, keep them away from the party. |
-| **Beaming Smile** | **Only below 50% health.** Skorvald teleports to a random location and summons three large and deadly laser beams. Move out to prevent instant death. He also projects a white beam onto players inflicting <Condition name="fear"/> and <Condition name="blind"/> if you face him upon triggering - simply turn away to avoid it. |
-| **Solar Cyclone** | **Only below 33% health.** Skorvald starts spinning counter-clockwise and releases conical shockwaves similar to *Cranial Cascade *. There are small safe-spots between each shockwave, learn to stand inside them to avoid the high damage and interrupts. |
-| **Combustion Rush** | **Only below 33% health.** Elite Flux Anomalies start charging through players and <Control name="knockback"/>, indicated by a large arrow on the platform. |
+|                                      |                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Solar Bolt**                       | Skorvald often throws a red orb which splits into three after each bounce. Every orb leaves a <Condition name="burning"/> field which deals high damage.                                                                                                                                                                                                                         |
+| **Horizon Strike**                   | He marks orange triangles around him and blasts them counter-clockwise which deals high damage and <Control name="knockback"/>. The orange zones themselves dont deal any damage but explode in order, practice the pattern and move into the first triangle after it is gone. Followed by Crimsown Dawn.                                                                        |
+| **Crimson Dawn**                     | Blasts the entire platform only excluding a small triangle behind him. Deals high damage.                                                                                                                                                                                                                                                                                        |
+| **Radiant Fury**                     | Applies <Condition name="blind"/> and <Condition name="burning"/> to all players it hits and damages allies around them. Recognizable by diminishing red circles around every player, dodge when they collapse. Also sends out a **Solar Discharge** shockwave with <Control name="stun"/> from Skorvald.                                                                        |
+| **Warp & Spiral Strike**             | Skorvard teleports to the target location and executes a spinning strike which damages players and applies <Control name="knockback"/>. Also sends out a volley of bolts. Noticeable by a large bomb icon above a player.                                                                                                                                                        |
+| **Punishing Kick & Cranial Cascade** | Both attacks release a blast of chaotic mists with high damage and <Control name="knockback"/>. _Punishing Kick_ generates a line in front of him, _Cranial Cascade_ a cascading triangle.                                                                                                                                                                                       |
+| **Rush**                             | **Only below 66% health.** Skorvald fixates on a player and charges through him from one edge of the platform to the other.                                                                                                                                                                                                                                                      |
+| **Focused Rage**                     | **Only below 66% health.** Basically a larger version of _Cranial Cascade _. Skorvald marks a player with a cross-hair and blasts a large orange cone for high damage and <Control name="knockback"/>. The marked player should turn Skorvald away from other players, during the last second of the animation he does not follow the target anymore and it is safe to step out. |
+| **Solar Bloom**                      | **Only below 50% health.** Solar Blooms spawn on the platform which need to be knocked back by damaging them. They fixate on the closest player and explode for high area damage and <Control name="knockback"/>, keep them away from the party.                                                                                                                                 |
+| **Beaming Smile**                    | **Only below 50% health.** Skorvald teleports to a random location and summons three large and deadly laser beams. Move out to prevent instant death. He also projects a white beam onto players inflicting <Condition name="fear"/> and <Condition name="blind"/> if you face him upon triggering - simply turn away to avoid it.                                               |
+| **Solar Cyclone**                    | **Only below 33% health.** Skorvald starts spinning counter-clockwise and releases conical shockwaves similar to _Cranial Cascade _. There are small safe-spots between each shockwave, learn to stand inside them to avoid the high damage and interrupts.                                                                                                                      |
+| **Combustion Rush**                  | **Only below 33% health.** Elite Flux Anomalies start charging through players and <Control name="knockback"/>, indicated by a large arrow on the platform.                                                                                                                                                                                                                      |
 
 <Grid>
 <GridItem sm="3">
-<Image src="./images/elite-flux-anomaly.jpg" caption="An Elite Flux Anomaly" compact/>
+<Image src="./images/elite-flux-anomaly.jpg" caption="An Elite Flux Anomaly"/>
 </GridItem>
-<GridItem>
+<GridItem sm="9">
 ### Tactic
 The key to the fight is fast crowd control, as breaking Skorvald's defiance bar prevents most of the mechanics. Immediately break it at the begin and bring him down to 66% health.
 
@@ -96,7 +97,7 @@ Combine <Trait id="1038"/> with <Skill id="12569"/> for party <Boon name="stabil
 ## Intermediate part
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 After Skorvald is dead, take the portal to the East and take the left portal in the control center area. You can activate a <Item id="78786"/> to walk during the cutscene and save some time.
 
 You gain a new special action key: `Nova Launch`. For the moment, it is a 2100-range teleport with stunbreak that blocks the next attack (1.75s <Boon name="aegis"/>). Its cooldown refreshes after you bounce a _Globolla Marble_.
@@ -106,7 +107,7 @@ You will encounter several glass mobs on the way to the second boss, there are n
 If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip directly to Artsarriv using [this cut](https://www.youtube.com/watch?v=QBvKQu9EqEc), otherwise use your `Nova Launch` on the next platform to jump to the elite mob and kill it to proceed to Artsariiv.
 </GridItem>
 <GridItem sm="4">
-<Image src="./images/way_to_artsariiv.jpg" caption="The way to Artsariiv" compact/>
+<Image src="./images/way_to_artsariiv.jpg" caption="The way to Artsariiv"/>
 </GridItem>
 </Grid>
 
@@ -115,7 +116,7 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 ## Artsariiv <Label>5,962,266 HP</Label>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 The second boss of the fractal is Artsariiv. The encounter gets activated by bouncing a *Globolla Marble* into her, be sure to prepare <Boon name="might"/> and skills in the northwest beforehand.
 
 Artsariiv summons copies which split into smaller clones upon death, they use martial art skills, <Control name="knockdown"/>, shoot shocking projectiles and apply a lot of damaging conditions. Discuss whether you kill all adds (safe tactic) or not.
@@ -127,12 +128,12 @@ You will need a lot of crowd control skills, consumables like <Item id="8759"/> 
 **Use your `Nova Launch` special action key to quickly move around the platform, the <Boon name="aegis"/> from it counters nearly all mechanics.**
 </GridItem>
 <GridItem sm="4">
-<Image src="./images/artsariiv.jpg" caption="Artsariiv: The second boss" compact/>
+<Image src="./images/artsariiv.jpg" caption="Artsariiv: The second boss"/>
 </GridItem>
 </Grid>
 
 <Grid>
-<GridItem>
+<GridItem sm="9">
 | | |
 | --- | --- |
 | **Beaming Smile** | Similar to Skorvald below 50% health, Artsariiv generates three large laser beams and projects a white beam onto players which inflicts high damage, <Condition name="blind"/> and <Condition name="fear"/>. Turn away from the source to prevent application. |
@@ -190,7 +191,7 @@ Use <Skill id="31496"/> against the multitude of projectiles, especially against
 ## Arkk <Item id="50082" disableText/><Label>9,942,250 HP</Label>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 Arkk is the third and final boss of the fractal. An attentive player may have noticed the `Nova Launch` special action key became even stronger now, doing medium damage, a 200 <Control name="launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
 
 In contrast to the other enemies in this fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him (_confirmed as of 2018/02/06 patch_).
@@ -201,12 +202,12 @@ Stack <Boon name="might"/> (you can use `Nova Launch`) and renew your _Mistlock 
 
 </GridItem>
 <GridItem sm="4">
-<Image src="./images/arkk.jpg" caption="Arkk: The final boss" compact/>
+<Image src="./images/arkk.jpg" caption="Arkk: The final boss"/>
 </GridItem>
 </Grid>
 
 <Grid>
-<GridItem>
+<GridItem sm="9">
 | | |
 | --- | --- |
 | **Blinding Radiance** | Similar to the other bosses, Arkk has the white beam ability which damages players facing him and inflicts <Condition name="blind"/> and <Condition name="fear"/>. It is easily recognizable by a large eye icon above Arkk. If you have problems receiving damage despite looking away, try to wiggle left/right while turned away to minimize the risk. |

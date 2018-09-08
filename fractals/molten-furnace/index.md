@@ -15,13 +15,13 @@ sigils: [{ id: 24868 }, { id: 24554 }]
 
 <Grid>
 <GridItem>
-<Image src="./images/start_area.jpg" compact/>
+<Image src="./images/start_area.jpg"/>
 </GridItem>
 <GridItem>  
 Go to Rox and Braham, wait for the mobs to sapwn, kill them. After killing them, proceed into the tunnel, there are 5 caves in the tunnel, each having a group of mob in it, after killing the mobs, pick up the _Boulder_ that spawns and place it on top of the steam burst (a red gear indicates it's place). After killing all 5 group of mobs and placing all 5 _Boulders_ on the red gears you wait for the Drill to make it's way out of the tunnel.
 </GridItem>
 <GridItem>
-<Image src="./images/portal.jpg" compact/>
+<Image src="./images/portal.jpg"/>
 </GridItem>
 </Grid>
 
@@ -32,7 +32,7 @@ Go to Rox and Braham, wait for the mobs to sapwn, kill them. After killing them,
 You exit the tunnel and kill the group of mobs coming to you. Then proceed to the Steam Walls. The first Steam Wall is unpassable, each Steam Wall knocks you back and damage you. After the first, you can pass the following Steam Walls by walking backwards in them (do not walk into them with low hp, thats downs or even kills you). Make your way on to the weapon testing arena.
 </GridItem>
 <GridItem>
-<Image src="./images/drill.jpg" compact/>
+<Image src="./images/drill.jpg"/>
 </GridItem>
 </Grid>
 
@@ -60,6 +60,6 @@ You have to damage the core as fast as possible since now all 3 weapon test type
 
 </GridItem>
 <GridItem>
-<Image src="./images/testing_area.jpg" compact/>
+<Image src="./images/testing_area.jpg"/>
 </GridItem>
 </Grid>

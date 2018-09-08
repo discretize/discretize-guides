@@ -18,14 +18,13 @@ The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but
 <Divider text="Equipment"/>
 
 <Grid>
-<GridItem>
+<GridItem sm="4">
 <Armor helmId="48087" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48089" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48085" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48086" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48088" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48084" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainType="Dagger" weapon1MainAffix="Berserker" weapon1MainId="46760" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Dagger" weapon1OffAffix="Berserker" weapon1OffId="46760" weapon1OffSigil="Impact" weapon1OffSigilId="24868"/>
 
-<Card>
 <Card title="Alternative weapons">
 * Dagger with <Item id="36053" text="false"/> / <Item id="24615" text="false"/> and slaying sigils  
   (<Item id="36054"/> doesn't stack anymore)
@@ -33,7 +32,7 @@ The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
@@ -47,10 +46,9 @@ The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but
 <Traits title="" traits1Id="28" traits1="Dreadly Arts" traits1Selected="1245,1292,1269" traits2Id="35" traits2="Critical Strikes" traits2Selected="1268,1272,1904" traits3Id="58" traits3="Deadeye" traits3Selected="2145,2160,2093"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Skills heal="45088" utility1="41158" utility2="13064" utility3="13046" elite="13132"/>
 
-<Card>
 <Card title="Situational">
 | | |
 | -- | -- |
@@ -101,12 +99,13 @@ The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Card title="CC skills">
 | | |
 | -- | -- |
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
 </Card>
-<Video videoId="WmvH1QH9xe0" videoTitle="Deadeye D/D 36.9k by Derpy Moa [SC]"/>
+
+<Video youtube="WmvH1QH9xe0" title="Deadeye D/D 36.9k by Derpy Moa [SC]"/>
 </GridItem>
 </Grid>

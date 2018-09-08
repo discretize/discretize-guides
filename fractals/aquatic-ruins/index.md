@@ -33,7 +33,7 @@ This is an underwater fractal. Make sure you have approriate underwater equipmen
 ## Save the villagers <Item id="50082" disableText/><Item id="24658" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 You can stack <Boon name="might"/> on the rack before entering the water. Kill the three groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
 
 <Tabs>
@@ -70,7 +70,7 @@ Retrait Druid to Marksmanship for <Trait id="986"/> and swap to <Trait id="965"/
 
 ---
 
-<Grid divided>
+<Grid>
 <GridItem>
 ## Dark Path <Label>Random</Label>
 
@@ -78,7 +78,7 @@ If you get this path, swim together and take the _Luminous Plants_ on the way to
 </GridItem>
 
 <GridItem>
-## Dolphin Path <Label>Random</Label>
+## or Dolphin Path <Label>Random</Label>
 
 If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Krait and keep to the right. You can use `Skill 2` to create a distraction and `Skill 3` to get a short speed boost. `Skill 5` can be used to instantly revive nearby dead allies. Always dodge **twice** when you anticipate a Krait attack. As soon as someone reaches the end boss, use `/gg` to immediately resurrect there.
 </GridItem>
@@ -89,11 +89,11 @@ If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Kra
 ## Jellyfish Beast
 
 <Grid>
-<GridItem>
+<GridItem sm="5">
 Break Jellyfish Beast's defiance bar as often as possible to benefit from <Item id="24868"/> and deal more damage. If he eats you, use any kind of stunbreak to break free or spam Skill 1.
 </GridItem>
 
-<GridItem>
+<GridItem sm="7">
 
 <Tabs>
 <Tab specialization="chronomancer">

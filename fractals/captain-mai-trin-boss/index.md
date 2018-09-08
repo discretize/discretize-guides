@@ -15,7 +15,7 @@ consumables: [78978]
 ## Start
 
 <Grid>
-<GridItem>  
+<GridItem sm="8">  
 Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="daze"/> with his stunning shield, use <Boon name="stability"/>, blocks or invulnerables against it.
 
 After you killed the mobs, use the Mistlock Singularity to reset cooldown then the teleporter to enter the boss area.
@@ -27,7 +27,7 @@ Put down a <Skill id="10197"/> at the start and open it after triggering Mai Tri
 </Tabs>
 </GridItem>
 <GridItem sm="4">
-<Image src="./images/start.jpg" caption="The start area" compact/>
+<Image src="./images/start.jpg" caption="The start area"/>
 </GridItem>
 </Grid>
 
@@ -36,7 +36,7 @@ Put down a <Skill id="10197"/> at the start and open it after triggering Mai Tri
 ## Mai Trin <Item id="50082" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="7">
 Mai Trin is protected by ten stacks of *Captain's Shield*, each stack reducing her incoming damage by 10%. The only way to remove stacks is by pulling her into electric fields from Horriks alternating projectiles. Standing in the electric field will remove one stack per second from her. The fire field projectile from Horrik can be reflected and absorbed. You can easily recognize the projectile type from the icon above the targeted player.
 
 The key is to stack on Mai Trin during the whole fight (beware the <Effect name="agony"/> from <Instability name="Social Awkwardness"/>), this way she will always be in an electric field, even if she teleports to the furthest player away.

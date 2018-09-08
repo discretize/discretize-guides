@@ -13,16 +13,16 @@ sigils: [{ id: 36053 }, { id: 24661, description: 'for the Jade enemies' }]
 
 <Grid>
 <GridItem>
-<Image src="./images/start_1.jpg" compact/>
+<Image src="./images/start_1.jpg"/>
 </GridItem>
 <GridItem>
-<Image src="./images/start_2.jpg" compact/>
+<Image src="./images/start_2.jpg"/>
 </GridItem>
 
 <GridItem>
-<Image src="./images/start_3.jpg" compact/>
+<Image src="./images/start_3.jpg"/>
 </GridItem>
 <GridItem>
-<Image src="./images/jade_maw.jpg" compact/>
+<Image src="./images/jade_maw.jpg"/>
 </GridItem>
 </Grid>

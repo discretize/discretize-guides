@@ -30,7 +30,7 @@ sigils:
 ## Start (Water tunnel) <Item id="50082" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 You can stack <Effect name="stealth"/> before entering the water to cheat the exploding mines.
 Clear the group of *Elite Aetherblades* to open the door.
 
@@ -46,7 +46,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/start.jpg" caption="Mines in the water tunnel" compact/>
+<Image src="./images/start.jpg" caption="Mines in the water tunnel"/>
 </GridItem>
 </Grid>
 
@@ -55,7 +55,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 ## Lasers <Item id="50082" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 After the door opens, you enter a large area with two deathly laser puzzles.
 
 The first one consists of a _moving laser square pattern_ and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="immobile"/> to you.

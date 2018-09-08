@@ -27,11 +27,11 @@ Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and
 <Divider text="Equipment"/>
 
 <Grid>
-<GridItem>
+<GridItem sm="4">
 <Armor helmId="48081" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48083" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48079" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48080" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48082" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48078" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainId="46773" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact"/>
 
 <Card title="Swap Weapons">
@@ -42,7 +42,7 @@ Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
@@ -61,7 +61,7 @@ Use the **Arcane variant** if you have a <Specialization name="chronomancer" pre
 
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Skills heal="5569" utility1="5734" utility2="5624" utility3="5539" elite="5516"/>
 
 <Card title="Situational">
@@ -85,7 +85,7 @@ Use the **Arcane variant** if you have a <Specialization name="chronomancer" pre
 <Divider text="Details"/>
 
 <Grid>
-<GridItem sm="7">
+<GridItem sm="6">
 <Card title="Skill priority">
 The rotation is very complex and highly depends on a good <Boon name="alacrity"/> uptime. Below is a descending list of priorities:
 
@@ -109,7 +109,7 @@ The rotation is very complex and highly depends on a good <Boon name="alacrity"/
 <Video youtube="4OgPFRiDaMI" title="Huge Hitbox: 34.5k DPS by Roul [SC]"/>
 </GridItem>
 
-<GridItem>
+<GridItem sm="6">
 <Card title="Opener">
 ### Pre-casting
 Start in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and pre-cast <Skill id="5528"/> three seconds before the fight starts. Switch to <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and use <Skill id="5548"/> and <Skill id="43762"/> a moment before <Skill id="5528"/> triggers. Attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and continue with the normal opener below.

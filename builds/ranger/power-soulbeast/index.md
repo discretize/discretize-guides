@@ -18,11 +18,11 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 <Divider text="Equipment"/>
 
 <Grid>
-<GridItem>
+<GridItem sm="4">
 <Armor helmId="48087" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48089" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48085" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48086" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48088" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48084" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
  
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
 
 <Card title="Swap Weapons">
@@ -30,7 +30,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
 <Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
@@ -42,6 +42,10 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 <Grid>
 <GridItem sm="7">
 <Traits traits1Id="8" traits1="Marksmanship" traits1Selected="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2Selected="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3Selected="2071,2161,2143"/>
+</GridItem>
+
+<GridItem sm="5">
+<Skills heal="44948" utility1="12633" utility2="12497" utility3="12491" elite="45717"/>
 
 <Card title="Pets">
 | | | |
@@ -50,41 +54,39 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) | Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
 </Card>
 </GridItem>
-
-<GridItem>
-<Skills heal="44948" utility1="12633" utility2="12497" utility3="12491" elite="45717"/>
+</Grid>
 
 <Divider text="Details"/>
 
 <Grid>
 <GridItem sm="7">
 <Card title="Rotation">
-* Enter <Skill id="42944"/> with Gazelle
-* Cast <Skill id="12497"/>
-* <Skill id="12633"/> (Utility)
-* <Skill id="12525"/> (Greatsword 2)
-* <Skill id="12475"/> (Greatsword 5)
-* <Skill id="12525"/> (Greatsword 2)
-* <Skill id="40729"/> (F3)  
-* **Swap to sword**
-* <Skill id="45717"/> (Elite) 
-* <Skill id="12638"/> (Axe 4)
-* <Skill id="12639"/> (Axe 5)
-* <Skill id="41524"/> (F1)
-* <Skill id="45743"/> (F2)
-* <Skill id="12638"/> (Axe 4)
-* **Swap to greatsword**
-* <Skill id="12522"/> -> <Skill id="12624"/> (Greatsword 4 2x)  
-* Autoattack chain 1x
-* <Skill id="12525"/> (Greatsword 2)
-* <Skill id="41524"/> (F1)
-* <Skill id="45743"/> (F2)
-* Autoattack chain 2x  
-* Repeat 
+1. Enter <Skill id="42944"/> with Gazelle
+2. Cast <Skill id="12497"/>
+3. <Skill id="12633"/> (Utility)
+4. <Skill id="12525"/> (Greatsword 2)
+5. <Skill id="12475"/> (Greatsword 5)
+6. <Skill id="12525"/> (Greatsword 2)
+7. <Skill id="40729"/> (F3)  
+8. **Swap to sword**
+9. <Skill id="45717"/> (Elite) 
+10. <Skill id="12638"/> (Axe 4)
+11. <Skill id="12639"/> (Axe 5)
+12. <Skill id="41524"/> (F1)
+13. <Skill id="45743"/> (F2)
+14. <Skill id="12638"/> (Axe 4)
+15. **Swap to greatsword**
+16. <Skill id="12522"/> -> <Skill id="12624"/> (Greatsword 4 2x)  
+17. Autoattack chain 1x
+18. <Skill id="12525"/> (Greatsword 2)
+19. <Skill id="41524"/> (F1)
+20. <Skill id="45743"/> (F2)
+21. Autoattack chain 2x  
+22. Repeat 
 </Card>
 </GridItem>
 
-<GridItem>
+<GridItem sm="5">
 <Card title="CC skills">
 | | |
 | -- | -- |
@@ -93,6 +95,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 | <Skill id="12475"/> | 150 damage (Greatsword 5) |
 | <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>) |
 </Card>
-<Video videoId="u7KdYSBxQVg" videoTitle="Power Soulbeast 33.9k by Casual [SC]"/>
+
+<Video youtube="u7KdYSBxQVg" title="Power Soulbeast 33.9k by Casual [SC]"/>
 </GridItem>
 </Grid>
