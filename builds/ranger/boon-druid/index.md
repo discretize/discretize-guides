@@ -47,7 +47,7 @@ Keep in mind that the setup below is optimized for healing in fractals and is no
 </GridItem>
 
 <GridItem sm="4">
-<Trinkets backItemId="79830" backItemStatId="155" backItemAffix="Cleric" accessory1Id="39547" accessory1Affix="Cleric" accessory2Id="39546" accessory2Affix="Cleric" amuletId="39566" amuletAffix="Cleric" ring1Id="39597" ring1Affix="Cleric" ring2Id="79446" ring2StatId="1134" ring2Affix="Minstrel"/>
+<BackAndTrinkets backItemId="79830" backItemStatId="155" backItemAffix="Cleric" accessory1Id="39547" accessory1Affix="Cleric" accessory2Id="39546" accessory2Affix="Cleric" amuletId="39566" amuletAffix="Cleric" ring1Id="39597" ring1Affix="Cleric" ring2Id="79446" ring2StatId="1134" ring2Affix="Minstrel"/>
 
 <Consumables foodId="68634" utilityId="67528" infusionId="37125"/>
 </GridItem>
@@ -71,7 +71,7 @@ Keep in mind that the setup below is optimized for healing in fractals and is no
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="31407" utility1="31582" utility2="12497" utility3="12493" elite="12569"/>
+<Skills healId="31407" utility1Id="31582" utility2Id="12497" utility3Id="12493" eliteId="12569"/>
 
 <Card title="Situational">
 | | |

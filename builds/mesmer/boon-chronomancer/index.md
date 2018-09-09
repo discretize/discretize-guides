@@ -58,7 +58,7 @@ Note that the optimal gear uses <Item id="86180"/> infusions, please use our [ge
 </GridItem>
 
 <GridItem sm="4">
-<Trinkets backItemAffix="Commander" backItemId="79830" backItemStatId="1125" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Commander" amuletId="80241" amuletStatId="1125" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
+<BackAndTrinkets backItemAffix="Commander" backItemId="79830" backItemStatId="1125" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Commander" amuletId="80241" amuletStatId="1125" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
 
 <Consumables foodId="43550" utilityId="67530" infusionId="37131"/>
 </GridItem>
@@ -82,7 +82,7 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 </GridItem>
 
 <GridItem sm="4">
-<Trinkets backItemAffix="Minstrel" backItemId="79830" backItemStatId="1123" accessory1Affix="Minstrel" accessory1Id="79444" accessory1StatId="1123" accessory2Affix="Minstrel" accessory2Id="79745" accessory2StatId="1123" amuletAffix="Minstrel" amuletId="80241" amuletStatId="1123" ring1Affix="Minstrel" ring1Id="79460" ring1StatId="1123" ring2Affix="Minstrel" ring2Id="79710" ring2StatId="1123"/>
+<BackAndTrinkets backItemAffix="Minstrel" backItemId="79830" backItemStatId="1123" accessory1Affix="Minstrel" accessory1Id="79444" accessory1StatId="1123" accessory2Affix="Minstrel" accessory2Id="79745" accessory2StatId="1123" amuletAffix="Minstrel" amuletId="80241" amuletStatId="1123" ring1Affix="Minstrel" ring1Id="79460" ring1StatId="1123" ring2Affix="Minstrel" ring2Id="79710" ring2StatId="1123"/>
 
 <Consumables foodId="68634" utilityId="67528" infusionId="37125"/>
 </GridItem>
@@ -106,7 +106,7 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="10213" utility1="30814" utility2="29856" utility3="10236" elite="29519"/>
+<Skills healId="10213" utility1Id="30814" utility2Id="29856" utility3Id="10236" eliteId="29519"/>
 
 <Card title="Situational Skills">
 | | |

@@ -33,7 +33,7 @@ The <Specialization name="thief"/> is fine power dps for off-meta groups. It has
 </GridItem>
 
 <GridItem sm="4">
-<Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
 </GridItem>
@@ -47,7 +47,7 @@ The <Specialization name="thief"/> is fine power dps for off-meta groups. It has
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="30400" utility1="13037" utility2="30868" utility3="13046" elite="13132"/>
+<Skills healId="30400" utility1Id="13037" utility2Id="30868" utility3Id="13046" eliteId="13132"/>
 
 <Card title="Situational">
 | | |

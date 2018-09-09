@@ -33,7 +33,7 @@ The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but
 </GridItem>
 
 <GridItem sm="4">
-<Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
 </GridItem>
@@ -47,7 +47,7 @@ The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="45088" utility1="41158" utility2="13064" utility3="13046" elite="13132"/>
+<Skills healId="45088" utility1Id="41158" utility2Id="13064" utility3Id="13046" eliteId="13132"/>
 
 <Card title="Situational">
 | | |
