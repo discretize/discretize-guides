@@ -62,13 +62,13 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 <Card title="Rotation">
 * Enter <Skill id="42944"/> with Gazelle
 * Cast <Skill id="12497"/>
+* Precast <Skill id="45717"/> (Elite) 
 * <Skill id="12633"/> (Utility)
 * <Skill id="12525"/> (Greatsword 2)
 * <Skill id="12475"/> (Greatsword 5)
 * <Skill id="12525"/> (Greatsword 2)
 * <Skill id="40729"/> (F3)  
 * **Swap to sword**
-* <Skill id="45717"/> (Elite) 
 * <Skill id="12638"/> (Axe 4)
 * <Skill id="12639"/> (Axe 5)
 * <Skill id="41524"/> (F1)
