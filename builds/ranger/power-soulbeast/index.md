@@ -30,7 +30,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 </GridItem>
 
 <GridItem sm="4">
-<Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
 </GridItem>
@@ -44,7 +44,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="44948" utility1="12633" utility2="12497" utility3="12491" elite="45717"/>
+<Skills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 
 <Card title="Pets">
 | | | |

@@ -38,7 +38,7 @@ The build unfolds its full strength in fights with medium to long interphases, i
 </GridItem>
 
 <GridItem sm="4">
-<Trinkets backItemAffix="Berserker" backItemId="49390" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Berserker" amuletId="39273" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
+<BackAndTrinkets backItemAffix="Berserker" backItemId="49390" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Berserker" amuletId="39273" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </GridItem>
@@ -60,7 +60,7 @@ The build unfolds its full strength in fights with medium to long interphases, i
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="21750" utility1="10267" utility2="10341" utility3="10211" elite="30359"/>
+<Skills healId="21750" utility1Id="10267" utility2Id="10341" utility3Id="10211" eliteId="30359"/>
 
 <Card title="Situational">
 | | |

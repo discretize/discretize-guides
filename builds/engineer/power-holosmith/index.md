@@ -33,7 +33,7 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 </GridItem>
 
 <GridItem sm="4">
-<Trinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
 </GridItem>
@@ -54,7 +54,7 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="40507" utility1="5812" utility2="6020" utility3="42842" elite="42009"/>
+<Skills healId="40507" utility1Id="5812" utility2Id="6020" utility3Id="42842" eliteId="42009"/>
 
 <Card title="Additional Skills">
 | | |

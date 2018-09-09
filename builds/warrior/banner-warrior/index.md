@@ -38,7 +38,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 </GridItem>
 
 <GridItem sm="4">
-<Trinkets backItemAffix="Berserker" backItemId="49390" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Berserker" amuletId="39273" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
+<BackAndTrinkets backItemAffix="Berserker" backItemId="49390" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Berserker" amuletId="39273" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </GridItem>
@@ -52,7 +52,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="14402" utility1="14502" utility2="14407" utility3="14405" elite="14483"/>
+<Skills healId="14402" utility1Id="14502" utility2Id="14407" utility3Id="14405" eliteId="14483"/>
 
 <Card title="Situational">
 | | |
@@ -74,7 +74,7 @@ With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Mol
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="14402" utility1="14502" utility2="14407" utility3="14405" elite="45333"/>
+<Skills healId="14402" utility1Id="14502" utility2Id="14407" utility3Id="14405" eliteId="45333"/>
 
 ---
 
