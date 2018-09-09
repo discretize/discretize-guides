@@ -26,7 +26,7 @@ The only interchangeable slots in the prevailing team composition are the two/th
 ## Usage of `/gg`
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 You can use the chat command `/gg` within fractals to immediately kill your character (dead, not downed). This can be used generously in fractal skips, as it allows the entire party to teleport to a checkpoint once one player activates it.
 If everyone in the party is dead at the same time, cooldowns will reset for all players. Therefore it is advised for the entire group to use `/gg` at certain key positions to reset long cooldowns, like between Siax (2nd boss) and Ensolyss (3rd boss) in 99CM. Never resurrect as long as another player is still alive.
 
