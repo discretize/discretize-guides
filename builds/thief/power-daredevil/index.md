@@ -43,7 +43,7 @@ The <Specialization name="thief"/> is fine power dps for off-meta groups. It has
 
 <Grid>
 <GridItem sm="7">
-<Traits title="" traits1Id="28" traits1="Dreadly Arts" traits1Selected="1276,1292,1269" traits2Id="35" traits2="Critical Strikes" traits2Selected="1268,1272,1904" traits3Id="7" traits3="Daredevil" traits3Selected="1933,1884,2047"/>
+<Traits title="" traits1Id="28" traits1="Dreadly Arts" traits1SelectedIds="1276,1292,1269" traits2Id="35" traits2="Critical Strikes" traits2SelectedIds="1268,1272,1904" traits3Id="7" traits3="Daredevil" traits3SelectedIds="1933,1884,2047"/>
 </GridItem>
 
 <GridItem sm="5">

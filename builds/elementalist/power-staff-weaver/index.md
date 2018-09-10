@@ -53,11 +53,11 @@ Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and
 
 <Grid>
 <GridItem sm="7">
-<Traits title="Standard Arcane Variant" traits1Id="31" traits1="Fire" traits1Selected="296,325,1510" traits2Id="37" traits2="Arcane" traits2Selected="253,257,1511" traits3Id="56" traits3="Weaver" traits3Selected="2177,2061,2131"/>
+<Traits title="Standard Arcane Variant" traits1="Fire" traits1Selected="Burning Precision,Pyromancer\u0027s Training,Persisting Flames" traits2Id="37" traits2="Arcane" traits2SelectedIds="253,257,1511" traits3Id="56" traits3="Weaver" traits3SelectedIds="2177,2061,2131"/>
 
 Use the **Arcane variant** if you have a <Specialization name="chronomancer" prefix="boon"/> (If you do not have a <Specialization name="chronomancer" prefix="boon"/> look for another group.). The only places where you want to play **Air** <Specialization name="weaver"/> are speedkills of Skorvald, Siax and Ensolyss. The damage in these fights is similar over the whole fight, but slightly worse in the beginning and better at the end. Another point of **Air** is to allow the <Specialization name="mesmer"/> to play the [Hybrid variant](https://discretize.eu/builds/mesmer/hybrid-chronomancer] for higher DPS and <Boon name="alacrity"/> uptime.
 
-<Traits title="Air Variant" traits1Id="41" traits1="Air" traits1Selected="232,1502,226"/>
+<Traits title="Air Variant" traits1Id="41" traits1="Air" traits1SelectedIds="232,1502,226"/>
 
 </GridItem>
 

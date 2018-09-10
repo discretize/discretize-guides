@@ -92,7 +92,7 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="23" traits1="Inspiration" traits1Selected="738,740,1866" traits2Id="45" traits2="Chaos" traits2Selected="670,669,1687" traits3Id="40" traits3="Chronomancer" traits3Selected="1987,1978,2022"/>
+<Traits traits1Id="23" traits1="Inspiration" traits1SelectedIds="738,740,1866" traits2Id="45" traits2="Chaos" traits2SelectedIds="670,669,1687" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1987,1978,2022"/>
 
 <Card title="Situational Traits">
 | | |

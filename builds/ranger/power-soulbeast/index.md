@@ -40,7 +40,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="8" traits1="Marksmanship" traits1Selected="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2Selected="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3Selected="2071,2161,2143"/>
+<Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2161,2143"/>
 </GridItem>
 
 <GridItem sm="5">

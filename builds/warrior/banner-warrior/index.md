@@ -48,7 +48,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="4" traits1="Strength" traits1Selected="1444,2000,1437" traits2Id="11" traits2="Tactics" traits2Selected="1471,1482,1667" traits3Id="51" traits3="Discipline" traits3Selected="1413,1484,1369"/>
+<Traits traits1Id="4" traits1="Strength" traits1SelectedIds="1444,2000,1437" traits2Id="11" traits2="Tactics" traits2SelectedIds="1471,1482,1667" traits3Id="51" traits3="Discipline" traits3SelectedIds="1413,1484,1369"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -70,7 +70,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 <GridItem sm="7">
 With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Molten Boss, Twilight Oasis) you will have to take the <Specialization name="spellbreaker"/> specialization.
 
-<Traits traits1Id="4" traits1="Strength" traits1Selected="1444,1338,1437" traits2Id="11" traits2="Tactics" traits2Selected="1471,1482,1667" traits3Id="61" traits3="Spellbreaker" traits3Selected="2107,2126,2060"/>
+<Traits traits1Id="4" traits1="Strength" traits1SelectedIds="1444,1338,1437" traits2Id="11" traits2="Tactics" traits2SelectedIds="1471,1482,1667" traits3Id="61" traits3="Spellbreaker" traits3SelectedIds="2107,2126,2060"/>
 </GridItem>
 
 <GridItem sm="5">
