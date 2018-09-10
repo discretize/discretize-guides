@@ -43,7 +43,7 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="38" traits1="Firearms" traits1Selected="1914,2006,526" traits2Id="6" traits2="Explosives" traits2Selected="1882,1892,1541" traits3Id="57" traits3="Holomsith" traits3Selected="2106,2152,2064"/>
+<Traits traits1Id="38" traits1="Firearms" traits1SelectedIds="1914,2006,526" traits2Id="6" traits2="Explosives" traits2SelectedIds="1882,1892,1541" traits3Id="57" traits3="Holomsith" traits3SelectedIds="2106,2152,2064"/>
 
 <Card title="Situational Traits">
 | | |

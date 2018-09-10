@@ -45,7 +45,7 @@ The build also offers strong on-demand party support with <Skill id="30039"/> an
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1Selected="574,565,579" traits2Id="42" traits2="Zeal" traits2Selected="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3Selected="1898,1835,1955"/>
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 </GridItem>
 
 <GridItem sm="5">

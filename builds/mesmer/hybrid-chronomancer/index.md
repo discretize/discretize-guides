@@ -53,7 +53,7 @@ Note that the optimal gear uses <Item id="86180"/> infusions, please use our [ge
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="1" traits1="Dueling" traits1Selected="701,708,692" traits2Id="24" traits2="Illusions" traits2Selected="721,729,733" traits3Id="40" traits3="Chronomancer" traits3Selected="1995,1978,1890"/>
+<Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="701,708,692" traits2Id="24" traits2="Illusions" traits2SelectedIds="721,729,733" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1890"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -69,7 +69,7 @@ This build variant has the highest personal DPS but needs <Skill id="10311"/> to
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="23" traits1="Inspiration" traits1Selected="756,1980,1866" traits2Id="24" traits2="Illusions" traits2Selected="1869,729,733" traits3Id="40" traits3="Chronomancer" traits3Selected="1995,1978,1890"/>
+<Traits traits1Id="23" traits1="Inspiration" traits1SelectedIds="756,1980,1866" traits2Id="24" traits2="Illusions" traits2SelectedIds="1869,729,733" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1890"/>
 </GridItem>
 
 <GridItem sm="5">

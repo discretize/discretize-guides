@@ -57,7 +57,7 @@ Keep in mind that the setup below is optimized for healing in fractals and is no
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="30" traits1="Skirmishing" traits1Selected="1069,1016,1064" traits2Id="25" traits2="Nature Magic" traits2Selected="1060,964,1038" traits3Id="5" traits3="Druid" traits3Selected="2016,2001,2057"/>
+<Traits traits1Id="30" traits1="Skirmishing" traits1SelectedIds="1069,1016,1064" traits2Id="25" traits2="Nature Magic" traits2SelectedIds="1060,964,1038" traits3Id="5" traits3="Druid" traits3SelectedIds="2016,2001,2057"/>
 
 <Card title="Pets">
 | | | |
