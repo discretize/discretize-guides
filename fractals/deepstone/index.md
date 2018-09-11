@@ -14,28 +14,31 @@ consumables: [49940]
 
 ## Start: Picking a path <Label>Normal tactics</Label>
 <Grid>
-<GridItem sm="8"> 
+<GridItem sm="12"> 
 ## The Brood Queen (Spider)
 
 Commonly the Brood Queen is picked first. On your way to the _Brood Queen_ you will see spider nests, destroy them. You have to stand on two cyan glowing runes in the middle of the bridge to unblock the path to the _Brood Queen_. There are telegraphed windblows that are unblockable, if you happen to get hit by one it puts you back at the start of the bridge. Kill the two elite _Broodmother Spider_ to spawn the _Brood Queen_. This boss does not hit hard and most attack are telegraphed. After killing her the crystal energy ball comes down. Take it and you get spawned back in the middle. Take the ball to the Vibrant crystal in the end of the hall and move on to the left side of the dungeon.
 </GridItem> 
 
-<GridItem sm="4">
+<GridItem sm="6">
 <Image src="./images/windy bridge.jpg" caption="The Bridge"/>
+</GridItem> 
+<GridItem sm="6">  
 <Image src="./images/the brood queen.jpg" caption="The Brood Queen"/>
 </GridItem> 
 
-<GridItem sm="4">
-<Image src="./images/maze.jpg" caption="The Tetris / Green Tiles"/>
-<Image src="./images/deepstone sentinel.jpg" caption="The Deepstone Sentinel"/>
-</GridItem> 
-
-<GridItem sm="8"> 
+<GridItem sm="12"> 
 ## The Deepstone Sentinel (Air Elemental)
 
 Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pass. You have to avoid the green tiles because it damages you. You can dodge the gaps between the safe tiles and proceed to the end. After two players passed, they stand on the cyan glowing runes to stop the tetris trap so others can pass. After prestacking <Boon name="might"/> at the Mistlock Singularity move in and the _Deepstone Sentinel_ spawns. The only dangerous attack it has is an AoE tornado (called Wind Sprites) that you have to dodge at every 20%. It is a well telegraphed attack so you only have to make sure you are not standing in it 1 second later. If it manages to catch you, others have to use CC to break you out of it before it floats you to the depths and kill you. There is a possiblity you get caught even if you not standing in it, use Skill 1 to break out of it. The other three attacks are a mini tornado that applies <Condition name="chilled"/> and the AoEs that <Control name="daze"/>, the third attack is a projectile it shoots inbetween which can be reflected. After killing the _Deepstone Sentinel_ the crystal energy orb spawns, take it and intract with the Vibrant Crystal in the middle.
-</GridItem> 
+</GridItem>
 
+<GridItem sm="6">
+<Image src="./images/maze.jpg" caption="The Tetris / Green Tiles"/>
+</GridItem> 
+<GridItem sm="6">   
+<Image src="./images/deepstone sentinel.jpg" caption="The Deepstone Sentinel"/>
+</GridItem> 
 
 </Grid>
 
@@ -55,6 +58,8 @@ For this particular encounter you can <Specialization name="Tempest"/> if you de
 </Tabs>
 </GridItem>   
 </Grid>
+
+---
 
 ## On the way to The Voice
 <Grid>
@@ -81,6 +86,7 @@ After standing on the rune in the middle of the platform it proceeds to go downw
 </GridItem>  
 </Grid>
 
+---
 
 ## The Voice
 <Grid>
@@ -95,8 +101,5 @@ For this particular encounter you can take <Skill name="Glyph of Elementals" pro
 </Tab>
 </Tabs>
 </GridItem>
-
-<GridItem sm="8">
- <Image src="./images/the voice.jpg" caption="The Tetris / Green Tiles"/>
-</GridItem>
 </Grid>
+ <Image src="./images/the voice.jpg" caption="The Tetris / Green Tiles"/>
