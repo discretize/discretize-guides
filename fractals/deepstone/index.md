@@ -70,7 +70,7 @@ After merging the second orb with the Vibrant Crystal, you get a Special Action 
 </GridItem>
 
 <GridItem sm="7">
-<Image src="./images/disappearing tiles.jpg" caption="The Tetris / Green Tiles"/>
+<Image src="./images/disappearing tiles.jpg" caption="The Maze"/>
 </GridItem>
 
 <GridItem sm="5">  
@@ -102,4 +102,4 @@ For this particular encounter you can take <Skill name="Glyph of Elementals" pro
 </Tabs>
 </GridItem>
 </Grid>
- <Image src="./images/the voice.jpg" caption="The Tetris / Green Tiles"/>
+ <Image src="./images/the voice.jpg" caption="The Voice"/>
