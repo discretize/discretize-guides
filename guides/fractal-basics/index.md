@@ -7,8 +7,6 @@ description: 'Get to know the meta 5-man team composition, learn about the /gg c
 
 ## Team Composition
 
-Abddoßinwoier <Item affix="Berserker" type="Coat" weight="Heavy"/> werioubpwer.
-
 The current "meta" group setup for fractals consists of the following builds:
 
 |                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
