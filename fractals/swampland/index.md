@@ -5,7 +5,7 @@ image: './images/bloomhunger_spirit_onslaught.jpg'
 group: 'T4'
 api: 2892
 bosses: 1
-difficulties: [{ level: 77, ar: 109 }, { level: 89, ar: 131 }]
+difficulties: [{ level: 77, ar: 109 }, { level: 89, ar: 130 }]
 record:
   {
     time: '5:09',
