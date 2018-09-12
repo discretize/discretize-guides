@@ -1,11 +1,11 @@
 ---
 title: 'Aetherblade'
-date: '2018-04-17'
+date: '2018-09-12'
 image: './images/header.jpg'
 group: 'T4'
 api: 2948
 bosses: 1
-difficulties: [{ level: 96, ar: 143 }]
+difficulties: [{ level: 96, ar: 144 }]
 record:
   {
     time: '3:10',
