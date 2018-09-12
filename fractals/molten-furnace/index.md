@@ -5,7 +5,7 @@ image: './images/header.jpg'
 group: 'T4'
 api: 2903
 bosses: 1
-difficulties: [{ level: 83, ar: 120 }]
+difficulties: [{ level: 83, ar: 121 }]
 cycle: 'Day'
 potions: [{ id: 50082 }]
 sigils: [{ id: 24868 }, { id: 24554 }]
