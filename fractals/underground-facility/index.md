@@ -1,11 +1,11 @@
 ---
 title: 'Underground Facility'
-date: '2018-04-17'
+date: '2018-09-12'
 image: './images/start.jpg'
 group: 'T4'
 api: 2947
 bosses: 2
-difficulties: [{ level: 81, ar: 116 }]
+difficulties: [{ level: 81, ar: 117 }]
 record:
   {
     time: '3:52',
