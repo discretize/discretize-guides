@@ -1,11 +1,11 @@
 ---
 title: 'Volcanic'
-date: '2018-04-17'
+date: '2018-09-12'
 image: './images/header.jpg'
 group: 'T4'
 api: 2989
 bosses: 2
-difficulties: [{ level: 92, ar: 136 }]
+difficulties: [{ level: 92, ar: 137 }]
 record:
   {
     time: '3:48',
