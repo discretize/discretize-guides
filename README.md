@@ -8,6 +8,8 @@ All our content is located here and can easily be updated using GitHub's version
 All our guides are written using an extended version of the [Markdown Language](http://commonmark.org/).    
 You can try it out yourself using the [Discretize Markdown Editor](https://discretize.eu/editor)!
 
+![Discretize Markdown Editor](https://i.imgur.com/WIosPVH.png)
+
 The editor also has a great documentation on every component we offer.
 
 ## 👨‍💻 How to contribute
