@@ -5,7 +5,7 @@ image: './images/header.jpg'
 group: 'T4'
 api: 2930
 bosses: 1
-difficulties: [{ level: 82, ar: 118 }, { level: 94, ar: 139 }]
+difficulties: [{ level: 82, ar: 118 }, { level: 94, ar: 140 }]
 record:
   {
     time: '4:29',
