@@ -11,21 +11,21 @@ sigils: [{ id: 24615 }, { id: 24554 }]
 consumables: [49940]
 ---
 
-
 ## Start: Picking a path <Label>Normal tactics</Label>
+
 <Grid>
 <GridItem sm="12"> 
 ## The Brood Queen (Spider)
 
 Commonly the Brood Queen is picked first. On your way to the _Brood Queen_ you will see spider nests, destroy them. You have to stand on two cyan glowing runes in the middle of the bridge to unblock the path to the _Brood Queen_. There are telegraphed windblows that are unblockable, if you happen to get hit by one it puts you back at the start of the bridge. Kill the two elite _Broodmother Spider_ to spawn the _Brood Queen_. This boss does not hit hard and most attack are telegraphed. After killing her the crystal energy ball comes down. Take it and you get spawned back in the middle. Take the ball to the Vibrant crystal in the end of the hall and move on to the left side of the dungeon.
-</GridItem> 
+</GridItem>
 
 <GridItem sm="6">
-<Image src="./images/windy bridge.jpg" caption="The Bridge"/>
+<Image src="./images/windy_bridge.jpg" caption="The Bridge"/>
 </GridItem> 
 <GridItem sm="6">  
-<Image src="./images/the brood queen.jpg" caption="The Brood Queen"/>
-</GridItem> 
+<Image src="./images/the_brood_queen.jpg" caption="The Brood Queen"/>
+</GridItem>
 
 <GridItem sm="12"> 
 ## The Deepstone Sentinel (Air Elemental)
@@ -37,11 +37,10 @@ Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pas
 <Image src="./images/maze.jpg" caption="The Tetris / Green Tiles"/>
 </GridItem> 
 <GridItem sm="6">   
-<Image src="./images/deepstone sentinel.jpg" caption="The Deepstone Sentinel"/>
-</GridItem> 
+<Image src="./images/deepstone_sentinel.jpg" caption="The Deepstone Sentinel"/>
+</GridItem>
 
 </Grid>
-
 
 <Grid>
 <GridItem sm="6">
@@ -50,18 +49,19 @@ Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pas
 
 You split up into 2 groups. One group goes for the _Deepstone Sentinel_ (usually 2 DPS or 1 DPS 1 Healer) and the other 3 goes to the _Brood Queen_.
 </GridItem>
-<GridItem sm="5"> 
+<GridItem sm="5">
 <Tabs>
 <Tab specialization="tempest">
-For this particular encounter you can <Specialization name="Tempest"/> if you decide that 2 DPS goes for the _Deepstone Sentinel_. 
+For this particular encounter you can <Specialization name="Tempest"/> if you decide that 2 DPS goes for the _Deepstone Sentinel_.
 </Tab>
 </Tabs>
-</GridItem>   
+</GridItem>  
 </Grid>
 
 ---
 
 ## On the way to The Voice
+
 <Grid>
 <GridItem sm="8">
 ### Shadow Minotaur, Middle Room
@@ -70,7 +70,7 @@ After merging the second orb with the Vibrant Crystal, you get a Special Action 
 </GridItem>
 
 <GridItem sm="7">
-<Image src="./images/disappearing tiles.jpg" caption="The Maze"/>
+<Image src="./images/disappearing_tiles.jpg" caption="The Maze"/>
 </GridItem>
 
 <GridItem sm="5">  
@@ -89,10 +89,11 @@ After standing on the rune in the middle of the platform it proceeds to go downw
 ---
 
 ## The Voice
+
 <Grid>
 <GridItem sm="8">
 Prestack <Boon name="might"/> and proceed to the boss. The boss has several mechanics. The first you will notice is he is teleporting to a random location of the arena at every 10%. The tiles of the arena can be revealed with the Light of Deldrimor skill. Spam this skill all the time and you won't have a problem with disappearing tiles. At 80% and then 40% _The Voice_ teleports away and gains a breakbar while casting beam on you that makes the tiles disappear under you. If you do not manage to break the breakbar fast enough he gains a barrier you have to remove. At 60% and 20% _The Voice_ teleports to the middle, becoming invulnerable and you have to keep away _Spectral Flames_ from him. _Spectral Flames_ make the tiles disappear under them. Use Light of Deldrimor skill to make them invulnerable to _Spectral Flames_. If a _Spectral Flame_ manages to reach _The Voice_, he casts a huge AoE that damages you. After the 20% invulnerability he doesn't teleport away and you can nuke him. After defeating _The Voice_ the fractal is finished.
-</GridItem> 
+</GridItem>
 
 <GridItem sm="4">
 <Tabs>
@@ -102,4 +103,5 @@ For this particular encounter you can take <Skill name="Glyph of Elementals" pro
 </Tabs>
 </GridItem>
 </Grid>
- <Image src="./images/the voice.jpg" caption="The Voice"/>
+
+<Image src="./images/the_voice.jpg" caption="The Voice"/>
