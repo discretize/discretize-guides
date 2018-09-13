@@ -86,10 +86,12 @@ If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Kra
 
 ---
 
-## Jellyfish Beast
 
 <Grid>
 <GridItem sm="5">
+## Jellyfish Beast
+  
+
 Break Jellyfish Beast's defiance bar as often as possible to benefit from <Item id="24868"/> and deal more damage. If he eats you, use any kind of stunbreak to break free or spam Skill 1.
 </GridItem>
 
