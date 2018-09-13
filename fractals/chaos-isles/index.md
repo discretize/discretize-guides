@@ -1,6 +1,6 @@
 ---
 title: 'Chaos Isles'
-date: '2018-04-17'
+date: '2018-09-12'
 image: './images/legendary_brazen_gladiator.jpg'
 group: 'T4'
 api: 3038
