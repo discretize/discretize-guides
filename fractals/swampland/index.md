@@ -1,6 +1,6 @@
 ---
 title: 'Swampland'
-date: '2018-04-17'
+date: '2018-09-12'
 image: './images/bloomhunger_spirit_onslaught.jpg'
 group: 'T4'
 api: 2892
