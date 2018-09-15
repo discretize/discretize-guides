@@ -178,11 +178,11 @@ And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off r
 <Card title="Opener">
 1. If a Mistlock Singularity is present
    1. <Skill name="Conjure Fiery Greatsword"/> and reset its cooldown with it
-   2. Precast <Skill name="Firestorm" profession="bundle"/> (lasts for 8 seconds)
 2. <Skill name="Air Attunement"/>
-   1. Precast <Skill name="Lightning Orb"/> (from range)
-   2. Precast <Skill name="Overload Air"/> so it finishes when the fight starts
-   3. <Skill name="Lightning Storm"/>
+   1. Precast <Skill name="Overload Air"/> so it finishes when the fight starts
+   2. <Skill name="Firestorm" profession="bundle"/> (if you have a <Skill name="Conjure Fiery Greatsword" disableText/>)
+   3. <Skill name="Lightning Orb"/> (from range, ideally it should pass through the mob when the defiance bar is broken)
+   4. <Skill name="Lightning Storm"/>
 3. <Skill name="Fire Attunement"/>
    1. <Skill name="Wildfire"/>
    2. <Skill name="Phoenix"/>
