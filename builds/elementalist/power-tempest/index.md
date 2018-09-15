@@ -12,6 +12,20 @@ boons: ['Might', 'Fury', 'Swiftness', 'Protection', 'Vigor']
 conditions: ['Weakness', 'Vulnerability', 'Blind']
 ---
 
+The <Specialization name="Tempest" text="Power Tempest"/> is a strong DPS variant for fractals with various utilities the <Specialization name="weaver"/> counterpart doesn't offer.
+
+It has very high burst in fast-paced fights and its overall DPS is only contested by the [Sword Weaver](/builds/elementalist/power-sword-weaver) and [Staff Weaver](/builds/elementalist/power-staff-weaver) on huge hitboxes.  
+Thanks to <Skill name="Overload Air"/> the group's damage is buffed by around 1k DPS, so at least one <Specialization name="Tempest"/> is never a bad idea when thinking about group composition.
+
+Apart from great DPS, the build afflicts tons of <Condition name="vulnerability"/> and helps keeping up <Boon name="might"/> with <Trait name="Elemental Attunement"/> and <Skill name="Heat Sync"/>. Another bonus is the extended boon duration from <Trait name="Imbued Melodies"/> on the entire party making the life of your <Specialization name="Chronomancer"/> a little bit easier.
+
+For projectile-heavy scenarios <Skill name="Aftershock"/> and <Skill name="Sand Squall"/> can be used, <Skill name="Shocking Aura"/> and <Skill name="Cyclone"/> help against trash mobs and defiance bars.
+
+Contrary to the [Sword Weaver](/builds/elementalist/power-sword-weaver), melee hate like <Instability name="Social Awkwardness"/> or disruptions like <Instability name="Last Laugh"/> don't matter that much since you can stand on range and have access to a multitude of defensive mechanics like <Boon name="stability"/>, <Trait name="Gale Song"/> and <Trait name="Final Shielding"/>.
+
+The degree of difficulty is a little bit higher than the other <Specialization name="Elementalist"/> builds as you need to adhere many small things to achieve top numbers.  
+The positiong and timing of skills matter a lot, a single mistake can make your DPS end up several thousands below other damage dealers.
+
 <Divider text="Equipment"/>
 
 <Tabs outlined>
@@ -143,8 +157,6 @@ In reality, the _something_ looks like this:
 - In <Skill name="Water Attunement"/>:
   - <Skill name="Shatterstone"/> (useful for <Condition name="Vulnerability"/>)
 
-Keep in mind that you can already switch to another attunement while casting those skills.
-
 When attuning back to <Skill name="Air Attunement"/>, you will have 5 seconds cooldown before you can use <Skill name="Overload Air"/> again.  
 During this window you want to use your conjured weapons:
 
@@ -156,10 +168,10 @@ During this window you want to use your conjured weapons:
    2. <Skill name="Firestorm" profession="bundle"/>
    3. <Skill name="Fiery Whirl"/> (if you can whirl against a wall or have to switch targets)
 
-And lastly, you can use <Skill name="Lightning Strike"/> (instant cast) off recharge and <Skill name="Heat Sync"/> whenever <Boon name="might"/> is low on the group.
+And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off recharge and <Skill name="Heat Sync"/> whenever <Boon name="might"/> is low on the group.
 </Card>
 
-<Video youtube="4OgPFRiDaMI" title="Huge Hitbox: 34.5k DPS by Roul [SC]"/>
+<Video youtube="4OgPFRiDaMI" title="Huge Hitbox: 34.6k DPS by Roul [SC]"/>
 </GridItem>
 
 <GridItem sm="6">
@@ -168,8 +180,8 @@ And lastly, you can use <Skill name="Lightning Strike"/> (instant cast) off rech
    1. <Skill name="Conjure Fiery Greatsword"/> and reset its cooldown with it
    2. Precast <Skill name="Firestorm" profession="bundle"/> (lasts for 8 seconds)
 2. <Skill name="Air Attunement"/>
-   1. <Skill name="Lightning Orb"/> (from range)
-   2. <Skill name="Overload Air"/>
+   1. Precast <Skill name="Lightning Orb"/> (from range)
+   2. Precast <Skill name="Overload Air"/> so it finishes when the fight starts
    3. <Skill name="Lightning Storm"/>
 3. <Skill name="Fire Attunement"/>
    1. <Skill name="Wildfire"/>
@@ -196,20 +208,20 @@ And lastly, you can use <Skill name="Lightning Strike"/> (instant cast) off rech
 <Card title="Advanced Notes">
 * Always cast <Skill name="Lightning Orb"/> from as far as possible but don't miss group buffs like <Skill name="Well of Action"/>
 * Try to place the outer ring of <Skill name="Overload Air"/> directly on the target and make sure the cast actually finishes
-* Cast <Skill name="Invoke Lightning"/> while standing inside the target's hitbox to guarantee all strikes hit
-* Remember to switch attunements already while casting skills
+* Cast <Skill name="Invoke Lightning"/> while standing inside the target's hitbox to make sure all strikes hit
+* Remember to already switch to the next attunement *while* casting skills
 * <Skill name="Arc Lightning"/> (your <Skill name="Air Attunement"/> auto-attack) deals more damage the longer you channel it, but every other skill has a higher priority
 </Card>
 
 <Card title="Defiance Bar Damage">
-| | | |
-| -- | -- | -- |
-| <Skill name="Shocking Aura" size="big" disableText/> | 100 per hit | <Control name="stun"/> |
-| <Skill name="Cyclone" size="big" disableText/> | 150 | <Control name="pull"/> |
-| <Skill name="Blinding Flash" size="big" disableText/> | 20 per second | <Condition name="blind"/> |
-| <Skill name="Wind Blast" size="big" disableText/> | 232 | <Control name="launch"/> |
-| <Skill name="Dust Storm" size="big" disableText/> | 20 per second | <Condition name="blind"/> |
-| <Skill name="Tidal Surge" size="big" disableText/> | 150 | <Control name="knockback"/> |
+| | |
+| -- | -- |
+| <Skill name="Shocking Aura" size="big" disableText/> | 100 per hit with <Control name="stun"/> |
+| <Skill name="Cyclone" size="big" disableText/> | 150 with <Control name="pull"/> |
+| <Skill name="Blinding Flash" size="big" disableText/> | 20 per second with <Condition name="blind"/> |
+| <Skill name="Wind Blast" size="big" disableText/> | 232 with <Control name="launch"/> |
+| <Skill name="Dust Storm" size="big" disableText/> | 20 per second with <Condition name="blind"/> |
+| <Skill name="Tidal Surge" size="big" disableText/> | 150 with <Control name="knockback"/> |
 </Card>
 </GridItem>
 </Grid>
