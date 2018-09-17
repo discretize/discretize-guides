@@ -84,7 +84,11 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 ## Blocks, Evades and Invulnerables
 
-Certain mechanics can be bypassed by using block, <Effect name="invulnerability"/> or <Boon name="aegis"/> skills. Those ward against any attack (including projectiles) and usually prevent the application of conditions and control effects. Note that some abilities are unblockable!
+Certain mechanics can be bypassed by using block, evade, <Effect name="invulnerability"/> or <Boon name="aegis"/> skills. Those ward against any attack (including projectiles) and usually prevent the application of conditions and control effects.
+
+<Message>
+Note that some abilities are unblockable !
+</Message>
 
 Below is a list of commonly used defensive skills:
 
@@ -93,53 +97,20 @@ Below is a list of commonly used defensive skills:
 <GridItem sm="4">
 <Card specialization="Mesmer">
 * <Skill id="10192"/> <Specialization disableText name="mesmer"/>  
-   (F4, is a personal invulnerable)
-    * You can trait <Trait id="1852"/> to share <Boon name="aegis" disableText/> with allies (5 seconds internal cooldown) when you gain distortion
-    * Any signet with <Trait id="713"/> and phantasm with <Trait id="1866"/> apply distortion as well
+   (F4, personal evade)    
+You can trait <Trait id="1852"/> to share <Boon name="aegis" disableText/> with allies (5 seconds internal cooldown) when you gain distortion
+* Any signet with <Trait  id="713"/> and phantasm with <Trait disableText id="1866"/> apply distortion as well
 * <Skill id="30769"/> <Specialization disableText name="chronomancer"/>  
 (Shield 4)
 * <Skill id="29649"/> <Specialization disableText name="chronomancer"/>  
-(Shield 4 after a succesful block )
+(Shield 4, after block )
 * <Skill id="10280"/> <Specialization disableText name="mesmer"/>  
-(Sword 4, you can block more by jumping)
+(Sword 4)    
+You can block more by jumping
 * <Skill id="10334"/> <Specialization disableText name="mesmer"/>   
 (Sword 2)
 * <Skill id="29526"/> <Specialization disableText name="chronomancer"/>  
-(Utiltiy skill, provides <Boon name="aegis" disableText/>)
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<Card specialization="Warrior">
-* <Skill id="14507"/> <Specialization disableText name="warrior"/>  
-(Mace 2)
-* <Skill id="14362"/> <Specialization disableText name="warrior"/>   
-(Shield 5)
-* <Skill id="21815"/> <Specialization disableText name="warrior"/>  
-(Heal skill, also heals you for incoming damage but does not prevent conditions or control effects)
-* <Skill id="14392"/> <Specialization disableText name="warrior"/>  
-(Utility skill, does not prevent conditions or control effects)
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<Card specialization="Guardian">
-* <Skill id="9102"/> <Specialization disableText name="guardian"/>  
-(Heal skill)
-* <Skill id="9154"/> <Specialization disableText name="guardian"/>  
-(Elite skill)
-* Any Aegis skill:
-    * <Skill id="9118"/> <Specialization disableText name="guardian"/>  
-    (F3)
-    * <Skill id="42259"/> <Specialization disableText name="firebrand"/>  
-    (F3, periodically)  
-    (Tome skill 2 and 5)
-    * <Skill id="9084"/> <Specialization disableText name="guardian"/>  
-    (Utility skill)
-    * <Skill id="41475"/> <Specialization disableText name="firebrand"/>  
-    (Heal skill)
-    * <Skill id="30029"/> <Specialization disableText name="dragonhunter"/>  
-(F3)
+(Utiltiy skill, <Boon name="aegis" disableText/>)
 </Card>
 </GridItem>
 
@@ -153,6 +124,43 @@ Below is a list of commonly used defensive skills:
 (Downed state skill)
 * <Skill id="5521"/> <Specialization disableText name="elementalist"/>  
 (Focus 5, <Skill id="5495" disableText/>)
+* <Skill name="Riptide" profession="elementalist"/> <Specialization disableText name="Weaver"/>  
+(Sword 2, <Skill disableText name="Water Attunement" profession="elementalist"/>)
+* <Skill name="Earthen Vortex" profession="elementalist"/> <Specialization disableText name="Weaver"/>  
+(Sword 2, <Skill disableText name="Earth Attunement" profession="elementalist"/>)
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<Card specialization="Ranger">
+* <Skill name="Signet of Stone" profession="Ranger"/> <Specialization disableText name="Ranger"/>  
+(Utility)
+* <Skill name="Power Stab" profession="Ranger"/> <Specialization disableText name="Ranger"/>  
+(Greatsword 1, chain 3)
+* <Skill name="Ancestral Grace" profession="Ranger"/> <Specialization disableText name="Druid"/>  
+(Staff 3)
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<Card specialization="Guardian">
+* <Skill id="9102"/> <Specialization disableText name="guardian"/>  
+(Heal skill)
+* <Skill id="9154"/> <Specialization disableText name="guardian"/>  
+(Elite skill)
+
+**Any Aegis skill:**
+* <Skill id="9118"/> <Specialization disableText name="guardian"/>  
+    (F3)
+* <Skill id="42259"/> <Specialization disableText name="firebrand"/>  
+    (F3, periodically)  
+    (Tome skill 2 and 5)
+* <Skill id="9084"/> <Specialization disableText name="guardian"/>  
+    (Utility skill)
+* <Skill id="41475"/> <Specialization disableText name="firebrand"/>  
+    (Heal skill)
+* <Skill id="30029"/> <Specialization disableText name="dragonhunter"/>  
+(F3)
 </Card>
 </GridItem>
 
@@ -162,6 +170,19 @@ Below is a list of commonly used defensive skills:
 (Utility skill)
 * <Skill id="30597"/> <Specialization disableText name="daredevil"/>  
 (Staff 5)
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<Card specialization="Warrior">
+* <Skill id="14507"/> <Specialization disableText name="warrior"/>  
+(Mace 2)
+* <Skill id="14362"/> <Specialization disableText name="warrior"/>   
+(Shield 5)
+* <Skill id="21815"/> <Specialization disableText name="warrior"/>  
+(Heal skill, also heals you for incoming damage but does not prevent conditions or control effects)
+* <Skill id="14392"/> <Specialization disableText name="warrior"/>  
+(Utility skill, does not prevent conditions or control effects)
 </Card>
 </GridItem>
 
