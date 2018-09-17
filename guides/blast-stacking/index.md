@@ -27,17 +27,29 @@ Below is a list of frequently used blast finishers among all professions. Note t
 ### <Boon name="might"/> stacking if you are alone
 
 - <Specialization name="weaver"/>:
-  - Start on Scepter/Dagger <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
-  - <Skill id="5692"/> (Scepter 2)
-  - <Skill id="5691"/> (Dagger 4)
-  - <Skill id="5675"/> (Scepter 3)
-  - Swap to earth and Sword <Skill id="5495" disableText/> / <Skill id="5492" disableText/>
-  - <Skill id="40709"/> (Sword 2)
-  - Swap to earth <Skill id="5495" disableText/> / <Skill id="5495" disableText/>
-  - <Skill id="5690"/> (Dagger 4)
-  - <Skill id="5522"/> (Dagger 5)
-  - Swap to Focus
-  - <Skill id="5555"/> (Focus 4)
+    * 10 step <Boon name="Might"/> stack (There are multiple paths you can pick to blast might, this is only an example)  
+      * Start on Scepter / Dagger (<Skill id="5492" disableText/> / <Skill id="5492" disableText/>)
+      1. <Skill id="5692"/> (Scepter 2)
+      2. <Skill id="5691"/> (Dagger 4)
+      3. <Skill id="5675"/> (Scepter 3)
+      4. Swap to earth and Sword <Skill id="5495" disableText/> / <Skill id="5492" disableText/>
+      5. <Skill id="40709"/> (Sword 2)
+      6. Swap to earth** <Skill id="5495" disableText/> / <Skill id="5495" disableText/>
+      7. <Skill id="5690"/> (Dagger 4)
+      8. <Skill id="5522"/> (Dagger 5)
+      9. Swap to Focus
+      10. <Skill id="5555"/> (Focus 4)
+
+    * Fast <Boon name="Might"/> stack, little less <Boon name="Might" disableText/> but faster (Recommended with 2-3 <Specialization name ="Elementalist"/>) 
+      * Start on Scepter / Dagger (<Skill name="Earth Attunement" specialization="elementalist" disableText/> / <Skill name="Fire Attunement" specialization="elementalist" disableText/>)
+      1. <Skill id="5691"/> (Dagger 4)
+      2. Swap to <Skill name="Fire Attunement" specialization="elementalist" disableText/> / <Skill name="Earth Attunement" specialization="elementalist" disableText/> 
+      3. <Skill id="5692"/> (Scepter 2)
+      4. <Skill id="5690"/> (Dagger 4)
+      5. <Skill id="5522"/> (Dagger 5)
+      6. Swap to Focus
+      17. <Skill id="5555"/> (Focus 4)
+      
 - <Specialization name="warrior"/>:
   - <Skill id="14394"/> (Warhorn 5)
   - <Skill id="14381"/> (Longbow 3)
