@@ -171,7 +171,7 @@ During this window you want to use your conjured weapons:
 And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off recharge and <Skill name="Heat Sync"/> whenever <Boon name="might"/> is low on the group.
 </Card>
 
-<Video youtube="E0fTnBUZejg" title="Sc/Wh Huge Hitbox: 34.6k DPS by Roul [SC]"/>
+<Video youtube="E0fTnBUZejg" title="Huge Hitbox: 34.6k DPS by Roul [SC]"/>
 </GridItem>
 
 <GridItem sm="6">
