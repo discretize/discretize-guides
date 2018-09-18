@@ -1,6 +1,6 @@
 ---
 title: 'Power Dragonhunter'
-date: '2018-07-01'
+date: '2018-09-18'
 rating: 'Great'
 role: 'Damage'
 profession: 'Guardian'
