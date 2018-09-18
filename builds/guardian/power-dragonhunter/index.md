@@ -67,21 +67,21 @@ The build also offers strong on-demand party support with <Skill id="30039"/> an
 <Grid>
 <GridItem sm="7">
 <Card title="Rotation">
-1. <Skill name="Shield of Wrath" profession="guardian"/>
+1. <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
 2. **Weapon Swap**
-3. <Skill name="Procession of Blades " profession="guardian"/>
-4. <Skill name="Spear of Justice" profession="guardian"/>
-5. <Skill name="Symbol of Wrath " profession="guardian"/>
-6. <Skill name="Whirling Wrath" profession="guardian"/>
+3. <Skill name="Procession of Blades " profession="guardian"/> (Utility)
+4. <Skill name="Spear of Justice" profession="guardian"/> (F1)
+5. <Skill name="Symbol of Wrath " profession="guardian"/> (GS 4)
+6. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
 7. **Weapon Swap**
-8. <Skill name="Symbol of Punishment" profession="guardian"/> 
-9. <Skill name="Sword of Justice" profession="guardian"/>
-10. <Skill name="Ray of Judgment" profession="guardian"/>
-11. <Skill name="Dragons Maw" profession="guardian"/>
-12. <Skill name="Sword of Justice" profession="guardian"/>
-13. <Skill name="Symbol of Punishment" profession="guardian"/>
-14. <Skill name="Sword of Justice" profession="guardian"/>
-15. <Skill name="Symbol of Punishment" profession="guardian"/>
+8. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
+9. <Skill name="Sword of Justice" profession="guardian"/> (Utility)
+10. <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
+11. <Skill name="Dragons Maw" profession="guardian"/> (Elite)
+12. <Skill name="Sword of Justice" profession="guardian"/> (Utility)
+13. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
+14. <Skill name="Sword of Justice" profession="guardian"/> (Utility)
+15. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
 </Card>
 </GridItem>
 
