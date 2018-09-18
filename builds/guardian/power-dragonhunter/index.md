@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
 benchmark:
-  { large: { dps: 32695, by: 'Nightmare [SC]', youtube: 'oG4jaq3g9pM' } }
+  { large: { dps: 32230, by: 'Derpy Moa [SC]', youtube: 'vTjd9gm6Z9Q' } }
 skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
@@ -67,20 +67,21 @@ The build also offers strong on-demand party support with <Skill id="30039"/> an
 <Grid>
 <GridItem sm="7">
 <Card title="Rotation">
-* Start on Greatsword:
-  * Don't interrupt your auto-attack chain as the last hit deals the most damage
-  * Use <Skill id="9146"/> and <Skill id="9081"/> off cooldown (stand inside the enemy's hitbox)
-  * Align <Skill id="9146"/> with <Skill id="30364"/> and <Skill id="29887"/> if possible
-  * <Skill id="9080"/> and <Skill id="9147"/> are worth using instead of an auto-attack chain if you don't have a symbol up
-* on Scepter:
-  * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
-  * Use <Skill id="9104"/> => <Skill id="9089"/> whenever ready
-  * Align <Skill id="9090"/> with <Skill id="30364"/> and <Skill id="29887"/> if possible
-* Apart from that, use the following skills off recharge in combination with a symbol:
-  * <Skill id="30364"/>
-  * <Skill id="29887"/>
-  * <Skill id="30273"/>
-  * <Skill id="9168"/>
+1. <Skill name="Shield of Wrath" profession="guardian"/>
+2. **Weapon Swap**
+3. <Skill name="Procession of Blades " profession="guardian"/>
+4. <Skill name="Spear of Justice" profession="guardian"/>
+5. <Skill name="Symbol of Wrath " profession="guardian"/>
+6. <Skill name="Whirling Wrath" profession="guardian"/>
+7. **Weapon Swap**
+8. <Skill name="Symbol of Punishment" profession="guardian"/> 
+9. <Skill name="Sword of Justice" profession="guardian"/>
+10. <Skill name="Ray of Judgment" profession="guardian"/>
+11. <Skill name="Dragons Maw" profession="guardian"/>
+12. <Skill name="Sword of Justice" profession="guardian"/>
+13. <Skill name="Symbol of Punishment" profession="guardian"/>
+14. <Skill name="Sword of Justice" profession="guardian"/>
+15. <Skill name="Symbol of Punishment" profession="guardian"/>
 </Card>
 </GridItem>
 
@@ -93,7 +94,22 @@ The build also offers strong on-demand party support with <Skill id="30039"/> an
 | <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
 | <Skill id="30273"/> | 150 damage |
 </Card>
+</GridItem>
 
-<Video youtube="oG4jaq3g9pM" title="Large Hitbox: 32.7k DPS by Nightmare [SC]"/>
+<GridItem sm="7">
+<Card title="Notes">
+* Start on Greatsword:
+  * Don't interrupt your auto-attack chain as the last hit deals the most damage
+  * Use <Skill id="9146"/> and <Skill id="9081"/> off cooldown (stand inside the enemy's hitbox)
+  * Align <Skill id="9146"/> with <Skill id="30364"/> and <Skill id="29887"/> if possible
+  * <Skill id="9080"/> and <Skill id="9147"/> are worth using instead of an auto-attack chain if you don't have a symbol up
+* on Scepter:
+  * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
+  * Align <Skill id="9090"/> with <Skill id="30364"/> and <Skill id="29887"/> if possible
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+<Video youtube="vTjd9gm6Z9Q" title="Large Hitbox: 32.2k DPS by Derpy Moa [SC]"/>
 </GridItem>
 </Grid>
