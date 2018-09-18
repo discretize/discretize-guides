@@ -1,11 +1,11 @@
 ---
 title: 'Power Soulbeast'
-date: '2018-09-01'
+date: '2018-09-18'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-benchmark: { small: { dps: 33918, by: 'Casual [SC]', youtube: 'u7KdYSBxQVg' } }
+benchmark: { small: { dps: 33848, by: 'Casual [SC]', youtube: 'zxpzA6iWFu0' } }
 skills: [5536]
 traits: [264, 1502]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection']
@@ -92,27 +92,27 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 <Card title="Rotation">
 * Enter <Skill id="42944"/> with Gazelle
 * Cast <Skill id="12497"/>
-* Precast <Skill id="45717"/> (Elite) 
-* <Skill id="12633"/> (Utility)
-* <Skill id="12525"/> (Greatsword 2)
-* <Skill id="12475"/> (Greatsword 5)
-* <Skill id="12525"/> (Greatsword 2)
-* <Skill id="40729"/> (F3)  
-* **Swap to sword**
-* <Skill id="12638"/> (Axe 4)
-* <Skill id="12639"/> (Axe 5)
-* <Skill id="41524"/> (F1)
-* <Skill id="45743"/> (F2)
-* Autoattack chain 4x
-* <Skill id="12638"/> (Axe 4)
-* **Swap to greatsword**
-* <Skill id="12522"/> -> <Skill id="12624"/> (Greatsword 4 2x)  
-* Autoattack chain 1x
-* <Skill id="12525"/> (Greatsword 2)
-* <Skill id="41524"/> (F1)
-* <Skill id="45743"/> (F2)
-* Autoattack chain 2x  
-* **Repeat**
+1. <Skill id="45717"/> (Elite) 
+2. <Skill id="12633"/> (Utility)
+3. <Skill id="12525"/> (Greatsword 2)
+4. <Skill id="12475"/> (Greatsword 5)
+5. <Skill id="12525"/> (Greatsword 2)
+6. <Skill id="40729"/> (F3)  
+7. **Swap to sword**
+8. <Skill id="12638"/> (Axe 4)
+9. <Skill id="12639"/> (Axe 5)
+10. <Skill id="41524"/> (F1)
+11. <Skill id="45743"/> (F2)
+12. Autoattack chain 4x
+13. <Skill id="12638"/> (Axe 4)
+14. **Swap to greatsword**
+15. <Skill id="12522"/> -> <Skill id="12624"/> (Greatsword 4 2x)  
+16. Autoattack chain 1x
+17. <Skill id="12525"/> (Greatsword 2)
+18. <Skill id="41524"/> (F1)
+19. <Skill id="45743"/> (F2)
+20. Autoattack chain 2x  
+21. **Repeat from** `Step 1`
 
 </Card>
 </GridItem>
@@ -127,6 +127,6 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 | <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>) |
 </Card>
 
-<Video youtube="u7KdYSBxQVg" title="Power Soulbeast 33.9k by Casual [SC]"/>
+<Video youtube="zxpzA6iWFu0" title="Power Soulbeast 33.8k by Casual [SC]"/>
 </GridItem>
 </Grid>
