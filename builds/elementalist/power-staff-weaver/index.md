@@ -5,10 +5,7 @@ rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
-benchmark:
-  {
-    large: { dps: 34137, by: 'Roul [SC]', youtube: 'Ui4kXP6fLhU' }
-  }
+benchmark: { large: { dps: 34137, by: 'Roul [SC]', youtube: 'Ui4kXP6fLhU' } }
 skills: [5536]
 traits: [264, 1502]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection']
@@ -22,6 +19,16 @@ Additionally with the <Specialization name="chronomancer" prefix="boon"/> and an
 Weaver has some utilities in the form of burst <Condition name="vulnerability"/>, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver is really squishy compared to the old Tempest, it has no reflects, no fast reachable crowd control skills apart from <Skill id="5733"/> and looses access to <Boon name="stability"/> and <Boon name="protection"/> from Overloads.
 
 Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and providing good <Boon name="protection"/> uptimes with <Trait id="264"/>. It also provides around 7 stacks <Boon name="might"/> uptime for the party, even more with around 30% boon duration from <Item id="79722"/> and <Trait id="2004"/>. This allows a replacement of the <Specialization name="druid"/> with another <Specialization name="weaver"/> as there is enough <Boon name="might"/> on the party and you "only" loose <Skill id="31582" profession="ranger"/>, <Skill id="12497" profession="ranger"/> and <Trait id="1016" profession="ranger"/> (redundant with <Trait id="2177"/>) but gain much more DPS.
+
+With the latest balance patch sword weaver, Fresh Air Tempest and Air staff have returned to the meta.
+
+Sword weaver does the highest consistent damage against big hitbox and very good damage against small, but loses <Trait id="257"/>, <Boon name="protection"/> and <Boon name="might"/> generation. As a melee only build it will have also bad times with social akwardness or melee hate fights. It is the best choice for statics on some bosses, but requires careful might management.
+
+Fresh Air Tempest has most likely the best burst and great might capabilities with <Skill name="Heat Sync"/>, but can suffer from the need to always land his Air Overloads.
+
+Air Staf also loses <Trait id="257"/>, <Boon name="protection"/> and <Boon name="might"/> generation for slightly better damage modifier in fights with long broken breakbars.
+
+All around for casual runs arcane staff is still the most consisten choice for Weaver.
 
 <Divider text="Equipment"/>
 
@@ -98,14 +105,27 @@ The rotation is very complex and highly depends on a good <Boon name="alacrity"/
 4.  Switch to <Skill id="5494" disableText/> when <Skill id="5737"/> is ready or will be in <4 seconds. Cast <Skill id="41125"/> and <Skill id="5552"/> first and switch back to <Skill id="5492" disableText/>/<Skill id="5494" disableText/> while casting <Skill id="5737"/> to profit from the better modifiers in <Skill id="5492"/>
     1. If <Skill id="5501"/> is ready skip <Skill id="41125"/> and <Skill id="5552"/> and cast <Skill id="5737"/> immediately followed by <Skill id="5501"/> while switching back to <Skill id="5492" disableText/>/<Skill id="5492" disableText/>
     2. You can also use this rotation to cast <Skill id="5737"/>: Start in <Skill id="5492" disableText/>/<Skill id="5492" disableText/>, <Skill id="5548" disableText/>, <Skill id="5679" disableText/>, <Skill id="5495" disableText/>/<Skill id="5492" disableText/>, <Skill id="5528" disableText/>,<Skill id="43762" disableText/> , <Skill id="5501" disableText/>, <Skill id="5494" disableText/>/<Skill id="5495" disableText/>, <Skill id="42321" disableText/>, <Skill id="5737" disableText/>, <Skill id="5492" disableText/>/<Skill id="5494" disableText/>, <Skill id="5548" disableText/>, <Skill id="41125" disableText/> and continue with a weapon.
+    3. If you have a source for <Condition name="vulnerability"/> only use <Skill id="5737"/> on bosses where you will only cast one storm per phase, like Skorvald and Ensolyss, or as last storm if the boss is close to death, otherwise cast <Skill id="5736"/>.
 5.  Use <Skill id="5539"/> (or <Skill id="5638"/>) three times while double-attuned with <Trait id="2131"/> and holding <Skill id="5624"/> (Ferocity boost), preferably while the defiance bar is broken.
 6.  Use <Skill id="5679"/> if you can't finish another <Skill id="5491"/> before leaving <Skill id="5492" disableText/>
 7.  Don't start casting <Skill id="5491"/> if you can't finish it
-8.  If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> to get a last burst with <Skill id="41125"/> in.
+8.  If you are in <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> and all relevant skills are on cd attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/>. Cast <Skill id="5552"/>, <Skill id="41125"/> and one <Skill id="5518"/> while attuning back to <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/>.
+9.  If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> to get a last burst with <Skill id="41125"/> in.
 
 </Card>
 
-<Video youtube="Ui4kXP6fLhU" title="Huge Hitbox: 34.1k DPS by Roul [SC]"/>
+<Card title="Fire Opener (no Vulnerability)">
+1. Start in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>. If you had a mistlock use <Skill id="5531"/> followed by <Skill id="5528"/>. Otherwise start with <Skill id="5528"/> before the fight starts.
+2. Attune to <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and cast <Skill id="5548"/> and <Skill id="43762"/>.
+3. Cast <Skill id="5736"/> while attuning to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> followed by <Skill id="5501"/>.
+4. Cast <Skill id="5548"/>, <Skill id="5624"/>=><Skill id="5725"/> (inside the bosses hitbox) => 1x <Skill id="5726"/> chain. Use <Skill id="5539"/> x3 while you have the <Skill id="5624"/> in hand. 
+    1. If the breakbar is not broken after you summond your <Skill id="5624"/> use <Skill id="5733"/> before <Skill id="5725"/>.
+5. Cast <Skill id="5679"/>, <Skill id="5548"/>  and attune <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>.
+6. Use <Skill id="5528"/> and summon your <Skill id="5516"/>, <Skill id="5517"/> => <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> => <Skill id="5531"/>.
+7. Cast <Skill id="5548"/> and <Skill id="43762"/>. Attune <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>
+8. Use <Skill id="5491"/> x3, <Skill id="5679"/>, <Skill id="5548"/>, Attune <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/>.
+9. Cast <Skill id="5552"/>, <Skill id="41125"/> and one <Skill id="5518"/> while attuning back to <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/>.
+</Card>
 </GridItem>
 
 <GridItem sm="6">
@@ -163,5 +183,7 @@ Start in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> with <Ski
 | <Skill id="41184"/> | 166-192 damage <Condition name="chilled"/> 2-4 sec, <Condition name="weakness"/> 3 sec|
 | <Skill id="5515"/> | 198 damage <Condition name="chilled"/> 6 sec|
 </Card>
+
+<Video youtube="Ui4kXP6fLhU" title="Huge Hitbox: 34.1k DPS by Roul [SC]"/>
 </GridItem>
 </Grid>

@@ -34,6 +34,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 * All weapons with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
   (<Item id="36054"/> doesn't stack anymore)
 * A warhorn for pre-stacking
+* Having a sword is very useful and sometimes even necessary especially for some of the skips (Uncategorized Fractal | Urban Battleground)
 </Card>
 </GridItem>
 
@@ -60,6 +61,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 | <Skill id="14354" size="big" disableText/> | Please use this instead of <Skill id="14502"/> for situations where you should not <Control name="knockback"/> foes (especially trash mobs). |
 | <Trait id="1338" size="big" disableText/> | If you don't need the Mace/Mace CC, you can use a Greatsword and this trait instead. |
 | <Skill id="14419" size="big" disableText/> | A niche skill if you expect people do go down from incoming damage. |
+| <Skill id="12363" size="big" disableText/> | Meme DPS. |
 </Card>
 </GridItem>
 </Grid>
@@ -99,9 +101,9 @@ A good countermeasure is to use Assassin's weapons instead of Beserker on this b
 * Breaking defiance bars:
   * If there is a defiance bar present immediately at the start of the fight, start on your Mace/Mace set - otherwise swap to it when necessary
   * With <Item id="24639"/>, you will deal over 940 defiance bar damage with the following skill order:
+    * <Skill id="14415"/>, you can precast it and cancel the aftercast animation
     * <Skill id="14503"/>
     * <Skill id="14414"/>
-    * <Skill id="14415"/>
     * <Skill id="14502"/>
   * This also grants 1-3 stacks of <Trait id="1437"/>, <Item id="84505"/> and <Trait id="1444"/>
 * DPS:
@@ -114,15 +116,19 @@ A good countermeasure is to use Assassin's weapons instead of Beserker on this b
   * Don't cancel the third hit of your auto-attack chain as it does more damage than the first two combined
 * Keep in mind that <Skill id="14518"/> inflicts 15x <Condition name="vulnerability"/> if your party is running low on it
 
-</Card>
+If the Mistlock Singularity is easily accessible and close to the encounter:
+
+- for very short encounters (<70 seconds) pre cast <Skill id="14407"/> <Skill id="14405"/> <Skill id="14408"/> or <Skill id="14528"/> and <Skill id="14419"/> and use <Skill id="14516"/> and <Skill id="14410"/> instead of the usual <Skill id="14407"/> and <Skill id="14405"/>. Activate <Skill id="14410"/> during burst phase (e.g. right before using <Skill id="14399"/>)
+- for longer encounters (>70 seconds) use e.g. <Skill id="12363"/> before picking up the Mistlock Singularity
+  </Card>
 
 <Card title="Spellbreaker variant">
 * Evolve your rotation around your highest burst damage skills: <Skill id="14399"/> and <Skill id="14554"/>
   * Before using high burst damage skills:
-    * Trigger <Trait id="1444"/> by using <Skill id="14502"/>. Adds 33% damage but keep in mind that it does not stack.
+    * Trigger <Trait id="1444"/> by using <Skill id="14502"/>. Adds 20% damage but keep in mind that it does not stack.
     * Have 1-3 stacks of <Trait id="1437"/>. Remember that <Skill id="44165"/> counts as a burst skill. Each stack adds another 7% up to 21% total (with 3 stacks).
     * Trigger <Trait id="2060"/> which goes hand in hand with <Trait id="1437"/> and adds another 10% damage
-    * Have 1-5 stacks of <Trait id="2130"/> adding 60 Power and Ferocity per stack
+    * Have 1-5 stacks of <Trait id="2130"/> adding 45 Power and Ferocity per stack
   * On **Greatsword**:
     * Don't cancel your auto-attack as the third hit deals the most damage
     * <Skill id="14447"/> is a DPS increase, especially against a wall
@@ -154,7 +160,7 @@ If using <Skill id="14483"/>:
 | <Skill id="14556"/> | 200 damage |
 | <Skill id="14490"/> | 200 damage |
 
-WIth mainhand dagger on <Specialization name="spellbreaker"/>:
+With mainhand dagger on <Specialization name="spellbreaker"/>:
 
 |                     |                                             |
 | ------------------- | ------------------------------------------- |
