@@ -1,12 +1,12 @@
 ---
 title: 'Power Chronomancer'
-date: '2018-05-16'
+date: '2018-09-18'
 rating: 'Great'
 role: 'Damage'
 profession: 'Mesmer'
 specialization: 'Chronomancer'
 benchmark:
-  { small: { dps: 33609, by: 'Strider [FUN]', youtube: 'PMNK7_Ky6tI' } }
+  { small: { dps: 33536, by: 'Van Gherwen [SC]', youtube: 'T0LrKV_TLQg' } }
 skills: [10267, 10186, 10197, 10200, 10302, 29830, 30359, 29519]
 traits: [1852]
 conditions: ['Vulnerability']
@@ -95,7 +95,7 @@ The build unfolds its full strength in fights with medium to long interphases, i
 Apart from doing DPS, you have access to a wide range of utilities like <Skill id="29519"/> or <Skill id="34326"/> which can all be used twice with <Skill id="29830"/> if needed. Cast <Skill id="10173"/> to quickly get up another illusion.
 </Card>
 
-<Video youtube="PMNK7_Ky6tI" title="Small Hitbox: 33.6k DPS by Strider [FUN]"/>
+<Video youtube="T0LrKV_TLQg" title="Small Hitbox: 33.5k DPS by Van Gherwen [SC]"/>
 </GridItem>
 
 <GridItem>
