@@ -94,6 +94,7 @@ The build also offers strong on-demand party support with <Skill id="30039"/> an
 | <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
 | <Skill id="30273"/> | 150 damage |
 </Card>
+<Video youtube="vTjd9gm6Z9Q" title="Large Hitbox: 32.2k DPS by Derpy Moa [SC]"/>
 </GridItem>
 
 <GridItem sm="7">
@@ -109,7 +110,4 @@ The build also offers strong on-demand party support with <Skill id="30039"/> an
 </Card>
 </GridItem>
 
-<GridItem sm="5">
-<Video youtube="vTjd9gm6Z9Q" title="Large Hitbox: 32.2k DPS by Derpy Moa [SC]"/>
-</GridItem>
 </Grid>
