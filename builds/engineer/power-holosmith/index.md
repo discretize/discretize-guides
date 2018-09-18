@@ -1,11 +1,11 @@
 ---
 title: 'Power Holosmith'
-date: '2018-07-01'
+date: '2018-09-18'
 rating: 'Great'
 role: 'Damage'
 profession: 'Engineer'
 specialization: 'Holosmith'
-benchmark: { small: { dps: 33097, by: 'hint [SC]', youtube: 'rVVBwpQOXaU' } }
+benchmark: { small: { dps: 33235, by: 'hint [SC]', youtube: '8P4L9nammVk' } }
 skills: [30815, 43739]
 traits: [517]
 conditions: ['Vulnerability', 'Blind', 'Crippled', 'Immobile']
@@ -79,7 +79,55 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 
 <Grid>
 <GridItem sm="7">
-<Card title="Skill Usage and Tips">
+<Card title="Rotation">
+1. **Preheat to 75**
+2. <Skill name="Big Ol Bomb" profession="Engineer"/> (Tool belt)
+3. <Skill id="5823" profession="Engineer"/> (Bomb kit 2)
+4. <Skill name="Shrapnel Grenade" profession="Engineer"/> (Grenade kit 2)
+5. <Skill name="Grenade Barrage" profession="Engineer"/> (Tool belt)
+6. <Skill name="Engage Photon Forge" profession="Engineer"/> (F5)
+    7. <Skill name="Corona Burst" profession="Engineer"/> (Skill 1)
+    8. <Skill name="Photon Blitz" profession="Engineer"/> (Skill 4)
+    9. <Skill id="43937" profession="Engineer"/>
+10. <Skill name="Laser Disk" profession="Engineer"/> (Utility)
+11. <Skill name="Prime Light Beam" profession="Engineer"/> (Elite)
+12. <Skill name="Overcharged Shot" profession="Engineer"/> (Rifle 4, **Repeat from here**)
+13. <Skill name="Jump Shot" profession="Engineer"/>(Rifle 5)
+14. <Skill name="Blunderbuss" profession="Engineer"/> (Rifle 3)
+15. <Skill name="Shrapnel Grenade" profession="Engineer"/> (Grenade kit 2)
+16. <Skill id="5823" profession="Engineer"/> (Bomb kit 2)
+    17. <Skill id="5842" profession="Engineer"/> until <Skill id="5823" profession="Engineer"/> is on 5s (Bomb kit 1)
+18. <Skill name="Shrapnel Grenade" profession="Engineer"/> (Grenade kit 2)
+19. <Skill name="Poison Grenade" profession="Engineer"/> (Grenade kit 5)
+20. <Skill name="Freeze Grenade" profession="Engineer"/> (Grenade kit 4)
+21. <Skill id="5842" profession="Engineer"/> until <Skill id="5823" profession="Engineer"/> is ready (Bomb kit 1)
+22. <Skill name="Blunderbuss" profession="Engineer"/> (Rifle 3)
+23. <Skill name="Shrapnel Grenade" profession="Engineer"/> (Grenade kit 2)
+24. <Skill id="5823" profession="Engineer"/> (Bomb kit 2)
+    25. <Skill id="5842" profession="Engineer"/> until <Skill name="Engage Photon Forge" profession="Engineer"/> is ready (Bomb kit 1)
+26. <Skill name="Engage Photon Forge" profession="Engineer"/> (F5)
+    27. <Skill name="Corona Burst" profession="Engineer"/> (Skill 3)
+    28. <Skill name="Photon Blitz" profession="Engineer"/> (Skill 4)
+    29. **Autoattack chain** until <Skill name="Corona Burst" profession="Engineer"/> is ready
+    30. <Skill name="Corona Burst" profession="Engineer"/> (Skill 3)
+    31. <Skill name="Deactivate Photon Forge" profession="Engineer"/> (F5)
+32. <Skill name="Shrapnel Grenade" profession="Engineer"/>(Grenade kit 2)
+33. <Skill name="Blunderbuss" profession="Engineer"/> (Rifle 3)
+34. <Skill id="5823" profession="Engineer"/> (Bomb kit 2)
+35. <Skill name="Engage Photon Forge" profession="Engineer"/> (F5)
+    37. **Autoattack chain** until <Skill name="Corona Burst" profession="Engineer" disableText/> and <Skill name="Photon Blitz" profession="Engineer" disableText/> are ready
+    38. <Skill name="Corona Burst " profession="Engineer"/>(Skill 3)
+    39. <Skill name="Photon Blitz" profession="Engineer"/> (Skill 4)
+    40. <Skill id="43937" profession="Engineer"/>
+41. <Skill name="Laser Disk " profession="Engineer"/> (Utility)
+42. <Skill name="Prime Light Beam" profession="Engineer"/> (Elite)
+43. **Repeat from** `Step 12`
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+<Video youtube="8P4L9nammVk" title="Huge Hitbox: 33.2k DPS by hint [SC]"/> 
+<Card title="Notes and tips">
 * Don't interrupt your auto attack chain in Photon Forge
 * Use your hardest hitting skills under the effect of the <Trait id="2106"/> (and possibly <Trait id="2122"/>) buff. These include the landing damage from <Skill id="6005"/>, <Skill id="6153"/> and <Skill id="42009"/>. Keep in mind that <Trait id="2106"/> consumes its charges while <Trait id="2122"/> is a duration buff.
 * Try to utilize your toolbelt skills off cooldown with <Skill id="42163"/> only being used above 50 heat.
@@ -90,10 +138,6 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 
 You can switch to <Specialization name="scrapper"/> and equip <Skill id="30815"/> if you need <Effect name="stealth"/> for longer passages (e.g. [Twilight Oasis Fractal](https://discretize.eu/fractals/twilight-oasis)). It provides >40 seconds for the whole group. A smoke field can also be provided by <Skill id="5824"/> to blast <Effect name="stealth"/>.
 </Card>
-
-</GridItem>
-
-<GridItem sm="5">
 <Card title="CC skills">
 | | |
 | -- | -- |
@@ -103,6 +147,6 @@ You can switch to <Specialization name="scrapper"/> and equip <Skill id="30815"/
 | Holographic Shockwave | 232 damage |
 | <Skill id="21661"/> | 100 damage |
 </Card>
-
 </GridItem>
+
 </Grid>
