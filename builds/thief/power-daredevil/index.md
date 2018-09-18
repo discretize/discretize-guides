@@ -1,6 +1,6 @@
 ---
 title: 'Power Daredevil'
-date: '2018-09-01'
+date: '2018-09-18'
 rating: 'Good'
 role: 'Damage'
 profession: 'Thief'
@@ -66,15 +66,15 @@ The <Specialization name="thief"/> is fine power dps for off-meta groups. It has
 <GridItem sm="7">
 <Card title="Rotation">
 (Before fight, lose endurance)
-* Dodge 
-* <Skill id="13014"/> (F1 mid Dodge)
-* <Skill id="29911"/> 2x (Staff 2)
-* <Skill id="13046"/> (Utility mid Staff 2)
-* <Skill id="30868"/> => <Skill id="30693"/> (Utility)
-* Dodge (Repeat from here)
-* <Skill id="29911"/> (Staff 2)
-* <Skill id="30614"/> => <Skill id="30135"/> => <Skill id="30434"/>
-* Repeat
+1. **Dodge** 
+2. <Skill id="13014"/> (F1 mid Dodge)
+3. <Skill id="29911"/> 2x (Staff 2)
+4. <Skill id="13046"/> (Utility mid Staff 2)
+5. <Skill id="30868"/> => <Skill id="30693"/> (Utility)
+6. **Dodge (Repeat from here)**
+7. <Skill id="29911"/> (Staff 2)
+8. <Skill id="30614"/> => <Skill id="30135" disableText/> => <Skill id="30434" disableText/>
+9. **Repeat from** `Step 6`
 
 You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 </Card>
