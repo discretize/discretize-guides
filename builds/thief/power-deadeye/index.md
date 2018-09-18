@@ -1,6 +1,6 @@
 ---
 title: 'Power Deadeye'
-date: '2018-09-01'
+date: '2018-09-18'
 group: 'Good Builds'
 role: 'Damage'
 profession: 'Thief'
@@ -64,48 +64,46 @@ The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but
 
 <Grid>
 <GridItem sm="7">
-<Card title="Rotation">
-  
-**Opener**  
-* <Skill id="43390"/> (F1)
-* <Skill id="13046"/> (Utility)
-* <Skill id="16432"/> (Dagger 5)
-* <Skill id="50481"/> (Dagger 1 in <Effect name="stealth"/>)
-* <Skill id="41158"/> (Utility)
-* Autoattack chain 2x
-* <Skill id="16432"/> (Dagger 5)
-* <Skill id="50481"/> (Dagger 1 in <Effect name="stealth"/>)
-* Autoattack chain 1x
-* <Skill id="43390"/> (F2)
-  
-**Repeat from here**
-* <Skill id="43390"/> (F1 after an autoattack chain and F2 after an Autoattack chain while under Revealed / <Skill id="13046"/>)
-* <Skill id="41158"/> (Utility when off cd, delay if in line with <Skill id="13046"/> and <Skill id="50481"/>)
-* <Skill id="13046"/> (Utility)
-* <Skill id="16432"/> (Dagger 5)
-* <Skill id="50481"/> (Dagger 1 in <Effect name="stealth"/>)
-* Autoattack chain 2x
-* <Skill id="13004"/> (Dagger 1)
-* <Skill id="16432"/> (Dagger 5)
-* <Skill id="50481"/> (Dagger 1 in <Effect name="stealth"/>)
-* **Repeat**
+<Card title="Rotation"> 
+1. <Skill id="43390"/> (F1)
+2. <Skill id="13046"/> (Utility)
+3. <Skill id="16432"/> (Dagger 5)
+4. <Skill id="50481"/> (Dagger 1 in <Effect name="stealth"/>)
+5. <Skill id="41158"/> (Utility)
+6. **Autoattack chain 2x**
+7. <Skill id="16432"/> (Dagger 5)
+8. <Skill id="50481"/> (Dagger 1 in <Effect name="stealth" disableText/>)
+9. **Autoattack chain 1x**
+10. <Skill id="43390"/> (F2) 
+11. <Skill id="43390"/> (F1, Repeat from here)
+12. <Skill id="41158"/> (Utility)
+13.  <Skill id="13046"/> (Utility)
+14. <Skill id="16432"/> (Dagger 5)
+15. <Skill id="50481"/> (Dagger 1 in <Effect name="stealth" disableText/>)
+16. **Autoattack chain 2x**
+17. <Skill id="13004"/> (Dagger 1)
+18. <Skill id="16432"/> (Dagger 5)
+19. <Skill id="50481"/> (Dagger 1 in <Effect name="stealth" disableText/>)
+20. **Repeat from** `Step 11`
 
 **After 25% some extra steps (look at the video)**
 
 - <Skill id="13097"/> 2x (Dagger 2)
-- <Skill id="43390"/> (F2 for <Effect name="stealth"/>)
-- <Skill id="50481"/> (Dagger 1 in <Effect name="stealth"/>)
+- <Skill id="43390"/> (F2 for <Effect name="stealth" disableText/>)
+- <Skill id="50481"/> (Dagger 1 in <Effect name="stealth" disableText/>)
 
 </Card>
 </GridItem>
-
 <GridItem sm="5">
+<Card title="Notes">
+* At `Step 11` F1 after an autoattack chain and F2 after an Autoattack chain while under Revealed / <Skill id="13046"/>
+* From `Step 11` <Skill id="41158"/> when off cd, delay if in line with <Skill id="13046" disableText/> and <Skill id="50481"/>) 
+</Card>
+<Video youtube="WmvH1QH9xe0" title="Deadeye D/D 36.9k by Derpy Moa [SC]"/>  
 <Card title="CC skills">
 | | |
 | -- | -- |
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
 </Card>
-
-<Video youtube="WmvH1QH9xe0" title="Deadeye D/D 36.9k by Derpy Moa [SC]"/>
 </GridItem>
 </Grid>
