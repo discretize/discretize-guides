@@ -70,7 +70,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2161,2143"/>
+<Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2143"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -106,13 +106,14 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 12. Autoattack chain 4x
 13. <Skill id="12638"/> (Axe 4)
 14. **Swap to greatsword**
-15. <Skill id="12522"/> -> <Skill id="12624"/> (Greatsword 4 2x)  
-16. Autoattack chain 1x
-17. <Skill id="12525"/> (Greatsword 2)
-18. <Skill id="41524"/> (F1)
-19. <Skill id="45743"/> (F2)
-20. Autoattack chain 2x  
-21. **Repeat from** `Step 1`
+15. <Skill id="12525"/> (Greatsword 2)
+16. <Skill id="12522"/> -> <Skill id="12624"/> (Greatsword 4 2x)  
+17. Autoattack chain 1x
+18. <Skill id="12525"/> (Greatsword 2)
+19. <Skill id="41524"/> (F1)
+20. <Skill id="45743"/> (F2)
+21. Autoattack chain 2x  
+22. **Repeat from** `Step 1`
 
 </Card>
 </GridItem>
