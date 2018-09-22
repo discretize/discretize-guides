@@ -35,6 +35,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
   (<Item id="36054"/> doesn't stack anymore)
 * A warhorn for pre-stacking
 * Having a sword is very useful and sometimes even necessary especially for some of the skips (Uncategorized Fractal | Urban Battleground)
+* If no additional cc is necessary you can use Greatsword instead of Mace/Mace.
 </Card>
 </GridItem>
 
@@ -80,11 +81,20 @@ With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Mol
 
 ---
 
-Gear-wise you are loosing 85 Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>.
+Gear-wise you are loosing 85 Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to swap either 
 
-A good countermeasure is to use Assassin's weapons instead of Beserker on this build variation. Everything else stays the same.
+* <Item affix="Assassin" type="Boots"/>, <Item affix="Assassin" type="gloves"/>, <Item affix="Assassin" type="Back item"/> and <Item affix="Assassin" type="Accessory"/> 
+* or <Item affix="Assassin" type="Amulet"/> and one <Item affix="Assassin" type="Accessory"/>
 
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Assassin" weapon1MainId="47045" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Assassin" weapon1OffId="47044" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainType="Greatsword" weapon2MainAffix="Assassin" weapon2MainId="47047" weapon2MainSigil1="Force" weapon2MainSigil1Id="24615" weapon2MainSigil2="Impact" weapon2MainSigil2Id="24868"/>
+Everything else stays the same.
+
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Berserker" weapon1MainId="47045" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="47044" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainId="47047" weapon2MainSigil1="Force" weapon2MainSigil1Id="24615" weapon2MainSigil2="Impact" weapon2MainSigil2Id="24868"/>
+
+<Card title="Swap Weapons">
+* You can run Dagger/Mace Axe/Axe if additional cc is needed.
+* Dagger/Axe Mace/Axe if you need fast boon strip and additional cc on several targets (e.g. MAMA).
+</Card>
+
 </GridItem>
 </Grid>
 
@@ -110,7 +120,7 @@ A good countermeasure is to use Assassin's weapons instead of Beserker on this b
   * Camp Axe/Axe if there is no CC needed
   * Damage modifiers:
     * Make sure to use <Skill id="14353"/> when you are at full adrenaline to gain three stacks of <Trait id="1437"/>
-    * Trigger <Trait id="1444"/> by using <Skill id="14502"/>. Adds 33% damage but keep in mind that it does not stack
+    * Trigger <Trait id="1444"/> by using <Skill id="14502"/>. Adds 20% damage but keep in mind that it does not stack
   * Use <Skill id="14399"/> while all modifiers are up
   * Use <Skill id="14421"/>, <Skill id="14398"/> and <Skill id="14418"/> off recharge
   * Don't cancel the third hit of your auto-attack chain as it does more damage than the first two combined
@@ -120,6 +130,9 @@ If the Mistlock Singularity is easily accessible and close to the encounter:
 
 - for very short encounters (<70 seconds) pre cast <Skill id="14407"/> <Skill id="14405"/> <Skill id="14408"/> or <Skill id="14528"/> and <Skill id="14419"/> and use <Skill id="14516"/> and <Skill id="14410"/> instead of the usual <Skill id="14407"/> and <Skill id="14405"/>. Activate <Skill id="14410"/> during burst phase (e.g. right before using <Skill id="14399"/>)
 - for longer encounters (>70 seconds) use e.g. <Skill id="12363"/> before picking up the Mistlock Singularity
+
+Several Warrior skills involving movement and or leaps such as <Skill id="14446"/>  
+<Skill id="14447"/> <Skill id="45252"/> <Skill id="46233"/> <Skill id="14424"/> <Skill id="14502"/> and <Skill id="14366"/> cannot be canceled by stow/draw weapons but by using weapon swap. 
   </Card>
 
 <Card title="Spellbreaker variant">
