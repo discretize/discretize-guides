@@ -88,6 +88,8 @@ Stack <Boon name="might"/> before the door opens and use <Skill id="5697"/> agai
 ## Superheated Room <Label>West</Label>
 This is usually solo'ed by the <Specialization name="mesmer"/> using <Skill id="29578"/>, <Skill id="29830"/>, <Skill id="10200"/>, dodge jumps and heals from <Skill id="10213"/> and <Trait id="740"/> but other classes can do it as well.
 
+<Specialization name="Weaver"/> also has an easy way of doing [this](https://www.youtube.com/watch?v=inicGmAy7ms). Take <Skill id="44926" />, <Skill id="5536"/> and <Skill id="5516"/>.
+
 [Search YouTube](https://www.youtube.com/results?search_query=heatroom+solo) for class-specific guides.
 </GridItem>
 </Grid>
