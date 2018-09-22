@@ -1,91 +1,104 @@
 ---
-title: "Power Dragonhunter"
-date: "2018-07-01"
-group: "Great Builds"
-role: "Damage"
-profession: "Guardian"
-specialization: "Dragonhunter"
-benchmark: { large: { dps: 32695, by: "Nightmare [SC]", youtube: "oG4jaq3g9pM"}}
+title: 'Power Dragonhunter'
+date: '2018-09-18'
+rating: 'Great'
+role: 'Damage'
+profession: 'Guardian'
+specialization: 'Dragonhunter'
+benchmark:
+  { large: { dps: 32230, by: 'Derpy Moa [SC]', youtube: 'vTjd9gm6Z9Q' } }
 skills: [30783, 30039, 9153, 9251]
-boons: ["Retaliation", "Aegis"]
-conditions: ["Vulnerability", "Blind", "Crippled"]
-effects: ["Stealth"]
+boons: ['Retaliation', 'Aegis']
+conditions: ['Vulnerability', 'Blind', 'Crippled']
+effects: ['Stealth']
 ---
 
 The <Specialization name="dragonhunter" prefix="power"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
 
 The build also offers strong on-demand party support with <Skill id="30039"/> and reflects like <Skill id="9251"/>.
 
-<Divider>
-Equipment
-</Divider>
+<Divider text="Equipment"/>
 
 <Grid>
-<Column>
+<GridItem sm="4">
 <Armor helmId="48075" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48077" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48073" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48074" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48076" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48072" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
-</Column>
+</GridItem>
 
-<Column>
-<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46775" weapon2OffSigilId="24868" weapon2OffType="Torch" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
+<GridItem sm="4">
+<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
 
-<Card>
-<CardHeader>
-Alternative weapons
-</CardHeader>
-<CardContent>
-- <Item id="36053" text="false"/> / <Item id="24615" text="false"/> and slaying sigils  
+<Card title="Alternative weapons">
+- <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
   (<Item id="36054"/> doesn't stack anymore)
 - Hammer for <Boon name="might"/> stacking
-</CardContent>
 </Card>
-</Column>
+</GridItem>
 
-<Column>
-<Trinkets backItemId="49384" backItemStatId="584" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<GridItem sm="4">
+<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
-</Column>
+</GridItem>
 </Grid>
 
-<Divider>
-Build
-</Divider>
+<Divider text="Build"/>
 
 <Grid>
-<Column width="9">
-<Traits traits1Id="16" traits1="Radiance" traits1Selected="574,565,579" traits2Id="42" traits2="Zeal" traits2Selected="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3Selected="1898,1835,1955"/>
-</Column>
+<GridItem sm="7">
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
+</GridItem>
 
-<Column>
-<Skills weapon1Skill1="" weapon1Skill2="" weapon1Skill3="" weapon1Skill4="" weapon1Skill5="" utilitySkill1="21664" utilitySkill2="30364" utilitySkill3="9168" utilitySkill4="9093" utilitySkill5="30273"/>
+<GridItem sm="5">
+<Skills healId="21664" utility1Id="30364" utility2Id="9168" utility3Id="9093" eliteId="30273"/>
 
-<Card>
-<CardHeader>
-Situational
-</CardHeader>
-<CardContent>
+<Card title="Situational">
 | | |
 | -- | -- |
-| <Skill id="9246" size="big" text="false"/> | A 1,200 range teleport to an ally. |
-| <Skill id="9153" size="big" text="false"/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
-| <Skill id="9125" size="big" text="false"/> | Deals additional 200 defiance bar damage. |
-| <Skill id="9251" size="big" text="false"/> | A stationary reflect lasting for 10 seconds. |
-</CardContent>
+| <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
+| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
+| <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
+| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
 </Card>
-</Column>
+</GridItem>
 </Grid>
 
-<Divider>
-Details
-</Divider>
+<Divider text="Details"/>
 
 <Grid>
-<Column width="9">
-<Card>
-<CardHeader>
-Rotation
-</CardHeader>
-<CardContent>
+<GridItem sm="7">
+<Card title="Rotation">
+1. <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
+2. **Weapon Swap**
+3. <Skill name="Procession of Blades " profession="guardian"/> (Utility)
+4. <Skill name="Spear of Justice" profession="guardian"/> (F1)
+5. <Skill name="Symbol of Wrath " profession="guardian"/> (GS 4)
+6. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
+7. **Weapon Swap**
+8. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
+9. <Skill name="Sword of Justice" profession="guardian"/> (Utility)
+10. <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
+11. <Skill name="Dragons Maw" profession="guardian"/> (Elite)
+12. <Skill name="Sword of Justice" profession="guardian"/> (Utility)
+13. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
+14. <Skill name="Sword of Justice" profession="guardian"/> (Utility)
+15. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+<Card title="CC skills">
+| | |
+| -- | -- |
+| <Skill id="9093"/> | 300 damage |
+| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage |
+| <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
+| <Skill id="30273"/> | 150 damage |
+</Card>
+<Video youtube="vTjd9gm6Z9Q" title="Large Hitbox: 32.2k DPS by Derpy Moa [SC]"/>
+</GridItem>
+
+<GridItem sm="7">
+<Card title="Notes">
 * Start on Greatsword:
   * Don't interrupt your auto-attack chain as the last hit deals the most damage
   * Use <Skill id="9146"/> and <Skill id="9081"/> off cooldown (stand inside the enemy's hitbox)
@@ -93,32 +106,8 @@ Rotation
   * <Skill id="9080"/> and <Skill id="9147"/> are worth using instead of an auto-attack chain if you don't have a symbol up
 * on Scepter:
   * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
-  * Use <Skill id="9104"/> => <Skill id="9089"/> whenever ready
   * Align <Skill id="9090"/> with <Skill id="30364"/> and <Skill id="29887"/> if possible
-* Apart from that, use the following skills off recharge in combination with a symbol:
-  * <Skill id="30364"/>
-  * <Skill id="29887"/>
-  * <Skill id="30273"/>
-  * <Skill id="9168"/>
-</CardContent>
 </Card>
-</Column>
+</GridItem>
 
-<Column>
-<Card>
-<CardHeader>
-CC skills
-</CardHeader>
-<CardContent>
-| | |
-| -- | -- |
-| <Skill id="9093"/> | 300 damage |
-| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage |
-| <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
-| <Skill id="30273"/> | 150 damage |
-</CardContent>
-</Card>
-
-<Video videoId="oG4jaq3g9pM" videoTitle="Large Hitbox: 32.7k DPS by Nightmare [SC]"/>
-</Column>
 </Grid>
