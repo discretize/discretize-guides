@@ -6,13 +6,12 @@ role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark: { small: { dps: 33848, by: 'Casual [SC]', youtube: 'zxpzA6iWFu0' } }
-skills: [5536]
-traits: [264, 1502]
-boons: ['Might', 'Fury', 'Swiftness', 'Protection']
-conditions: ['Weakness', 'Vulnerability', 'Blind']
+skills: [12497, 12638]
+conditions: ['Vulnerability']
+effects: ['Stealth']
 ---
 
-<Specialization name="Soulbeast" prefix="power"/> is a DPS class you can pick alongside <Specialization name="Weaver"/> for maximum damage. It has party buff with <Skill id="12497"/> and one of the best DPS for fractals. The builds are with no <Trait name="Spotter"/>. If you have spotter you can go full Berserker gear with 150 AR. 
+<Specialization name="Soulbeast" prefix="power"/> is a DPS class you can pick alongside <Specialization name="Weaver"/> for maximum damage. It has party buff with <Skill id="12497"/> and one of the best DPS for fractals. The builds are with no <Trait name="Spotter"/>. If you have spotter you can go full Berserker gear with 150 AR.
 
 <Divider text="Equipment"/>
 
@@ -27,7 +26,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
 
 <Card title="Swap Weapons">
-* Warhorn when <Boon name="might"/> is blasted.
+* Warhorn when <Boon name="might"/> is blasted. Also useful as a replacement for Greatsword one some bosses (e.g. Skorvald).
 * Sword with <Item name="Night" type="Sigil"/> and other with <Item name="Serpent Slaying" type="Sigil"/>
 * Axes and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
 </Card>
@@ -41,7 +40,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 </Grid>
 </Tab>
 
-<Tab title="207 Agony Resistance (No Spotter)">
+<Tab title="188+ Agony Resistance (No Spotter)">
 <Grid>
 <GridItem sm="4">
 <Armor helmId="48087" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48089" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48085" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48086" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48088" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48084" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -74,7 +73,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 </GridItem>
 
 <GridItem sm="5">
-<Skills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+<Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 
 <Card title="Pets">
 | | | |

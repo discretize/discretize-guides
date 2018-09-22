@@ -43,13 +43,14 @@ It has two weapon sets that perform equally well when only looking at raw DPS wh
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="38" traits1="Firearms" traits1SelectedIds="1914,2006,526" traits2Id="6" traits2="Explosives" traits2SelectedIds="1882,1892,1541" traits3Id="57" traits3="Holomsith" traits3SelectedIds="2106,2152,2064"/>
+<Traits traits1Id="38" traits1="Firearms" traits1SelectedIds="1914,2006,526" traits2Id="6" traits2="Explosives" traits2SelectedIds="1882,1892,1541" traits3Id="57" traits3="Holosmith" traits3SelectedIds="2106,2152,2064"/>
 
 <Card title="Situational Traits">
 | | |
 | -- | -- |
 | <Trait id="1923" size="big" disableText/> | If lacking fury, consider swapping out <Trait id="2006"/>. |
 | <Trait id="505" size="big" disableText/> | On longer fights without adds, this may pull slightly ahead of <Trait id="1541"/>. |
+| <Trait name="Sanguine Array" size="big" disableText/> | If you are crit capped without <Trait name="High Caliber"/> and struggle with <Boon name="Might"/> uptime. |
 </Card>
 </GridItem>
 
