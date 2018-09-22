@@ -1,68 +1,95 @@
 ---
-title: "Twilight Oasis"
-date: "2018-04-17"
-image: "./images/header.jpg"
-group: "T4"
+title: 'Twilight Oasis'
+date: '2018-09-12'
+image: './images/header.jpg'
+group: 'T4'
 api: 3973
 bosses: 3
 difficulties: [{ level: 87, ar: 127 }]
-cycle: "Night"
+cycle: 'Night'
 sigils: [{ id: 36053 }, { id: 24615 }]
 consumables: [78978, 8764, 8801]
-record: { time: "6:50", by: { name: "Discretize", tag: "dT" }, youtube: [{ id: "N0dwuUeFoNo", name: "Metagame", specialization: "Chronomancer" }, { id: "-oH2DE07cKY", name: "Nimajeb", specialization: "Spellbreaker" }, { id: "-BA76INzsxw", name: "Hyperiel", specialization: "Holosmith" }, { id: "BtfjQbzRg5E", name: "Hutselflutsje", specialization: "Weaver" }]}
+record:
+  {
+    time: '6:50',
+    by: { name: 'Discretize', tag: 'dT' },
+    youtube:
+      [
+        { id: 'N0dwuUeFoNo', name: 'Metagame', specialization: 'Chronomancer' },
+        { id: '-oH2DE07cKY', name: 'Nimajeb', specialization: 'Spellbreaker' },
+        { id: '-BA76INzsxw', name: 'Hyperiel', specialization: 'Holosmith' },
+        { id: 'BtfjQbzRg5E', name: 'Hutselflutsje', specialization: 'Weaver' },
+      ],
+  }
 ---
 
 ### Start
 
 <Grid>
-<Column>
+<GridItem sm="7">
 Use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head for the first of the Sand Binders.
 
-<Tips>
-    <Tip specialization="mesmer">You can give easy party <Effect name="stealth"/> with <Skill id="10245"/> and <Trait id="674"/> at the cost of a elite skill slot.</Tip>    
-    <Tip specialization="thief">Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.</Tip>
-    <Tip specialization="ranger">Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.</Tip>
-</Tips>
-</Column>
+<Tabs>
+<Tab specialization="mesmer">
+You can give easy party <Effect name="stealth"/> with <Skill id="10245"/> and <Trait id="674"/> at the cost of a elite skill slot.
+</Tab>
 
-<Column width="7" compact>
-<Image src="./images/start.jpg" title="The starting area" compact/>
-</Column>
+<Tab specialization="thief">
+Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+</Tab>
+
+<Tab specialization="ranger">
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
+</Tab>
+</Tabs>
+</GridItem>
+
+<GridItem sm="5">
+<Image src="./images/start.jpg" caption="The starting area"/>
+</GridItem>
 </Grid>
 
-## <Boss/> First Sandbinder
+## First Sandbinder
 
 <Grid>
-<Column>
+<GridItem>
 Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="pull"/> abilities will cancel any attack it is currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Specialization name="chronomancer"/>'s and <Specialization name="warrior"/>'s cooldowns for the Amala fight.
 
 <Boon name="aegis"/> is not really helpful here as the _Tornadoes_ quickly remove it.
-</Column>
+</GridItem>
 
-<Column>
-<Tips>
-    <Tip specialization="spellbreaker">As a lot of boons are present in this fractal, Spellbreaker is the recommended build for warriors.</Tip>
-    <Tip specialization="mesmer">Use <Skill id="10363"/> to cancel the Sanderbiner's attacks.</Tip>
-    <Tip specialization="ranger">Run an offhand axe for the <Control name="pull"/> from <Skill id="12638"/>.</Tip>
-</Tips>
-</Column>
+<GridItem>
+<Tabs>
+<Tab specialization="spellbreaker">
+As a lot of boons are present in this fractal, Spellbreaker is the recommended build for warriors.
+</Tab>
+
+<Tab specialization="mesmer">
+Use <Skill id="10363"/> to cancel the Sanderbiner's attacks.
+</Tab>
+
+<Tab specialization="ranger">
+Run an offhand axe for the <Control name="pull"/> from <Skill id="12638"/>.
+</Tab>
+</Tabs>
+</GridItem>
 </Grid>
 
 ---
 
 <Grid>
-<Column width="6" compact>
-<Image src="./images/header.jpg" title="Entry to Amala"/>
-</Column>
+<GridItem sm="4">
+<Image src="./images/header.jpg" caption="Entry to Amala"/>
+</GridItem>
 
-<Column>
-## <Boss/> Priestess Amala (Basic)
+<GridItem sm="8">
+## Priestess Amala (Basic)
 Next up you will encounter Priestess Amala for the first time, bring her to 75% health and she wipes your party to praise Joko.
 
 She uses the _Scythe Slash_ attack (causes <Control name="knockback"/>) and a basic version of her 9-part attack chain applying <Condition name="bleeding"/> with each AoE.
 
 You can freely use `/gg` after she downs the party to reset cooldowns, just wait until you get resurrected. (If you decide to respawn please not that certain class/race/gender combos cannot move until Joko resurrects Amala)
-</Column>
+</GridItem>
 </Grid>
 
 ---
@@ -70,7 +97,7 @@ You can freely use `/gg` after she downs the party to reset cooldowns, just wait
 ## "Storm the Rooftops!"
 
 <Grid>
-<Column>
+<GridItem sm="7">
 Now that you're awakened, you gain access to a new special action skill which launches you high into the air and breaks <Control name="stun"/>. It doesn't have a cooldown out of combat so do not get infight during skips if possible.
     
 It can also be used to jump while casting any skill that requires you to stand still otherwise, as long as you do not move in any direction (<Skill id="5501" profession="elementalist"/> and similar skills).
@@ -84,23 +111,23 @@ Use `/gg` after killing all three Sandbinders to resurrect at end area. Clear th
 Alternative route:
 
 While the party is killing the first Sandbinder a person with portal skip to the next Sandbinder (not triggering any checkpoint so you have to do it first try, else it is a time loss) and opens portal next to it. After you killed the second Sandbinder a second person opens a new portal at the second Sandbinder's location and skips to the third using [this route](https://gfycat.com/ShrillVictoriousAbalone). Please note that you can't `/gg` after any Sandbinder, because you get spawned behind the ideal checkpoints. The checkpoints were mixed up in the June 26th patch.
-</Column>
+</GridItem>
 
-<Column width="7" compact>
-<Image src="./images/first_sandbinder.jpg" title="The First Sandbinder on the roof" compact/>
-</Column>
+<GridItem sm="5">
+<Image src="./images/first_sandbinder.jpg" caption="The First Sandbinder on the roof"/>
+</GridItem>
 </Grid>
 
-<Image src="./images/second_sandbinder.jpg" title="The Second Sandbinder"/>
+<Image src="./images/second_sandbinder.jpg" caption="The Second Sandbinder"/>
 
 ---
 
-## <Boss red/> Priestess Amala
+## Priestess Amala
 
 Stack <Boon name="might"/> and be ready to dodge the initial <Control name="knockback"/> after activating the encounter.
 
 <Grid>
-<Column>
+<GridItem sm="9">
 ### Permanent Mechanics
 | | |
 | -- | -- |
@@ -108,11 +135,11 @@ Stack <Boon name="might"/> and be ready to dodge the initial <Control name="knoc
 | **Scythe Slash** | A small AoE centered around Amala that will <Control name="knockback"/> players hit by it. |
 | **Scythe Combo** (below 85% health) | A 9-part attack chain dealing AoE in a fixed pattern, depending on the current god incorporation. |
 | **Energy Wave** (below 85% health) | This attack is telegraphed by a small AoE on the ground, which then erupts into a large shockwave after 2.5 seconds. This can be avoided by either dodging, blocking or using sak. |
-</Column>
+</GridItem>
 
-<Column width="4" compact>
-<Image src="./images/praise_joko.jpg" title="Praise Joko." compact/>
-</Column>
+<GridItem sm="3">
+<Image src="./images/praise_joko.jpg" caption="Praise Joko."/>
+</GridItem>
 </Grid>
 
 ### Lyssa <Label>100%-85%</Label>
@@ -120,9 +147,9 @@ Stack <Boon name="might"/> and be ready to dodge the initial <Control name="knoc
 First off, figure out which out of all the clones is the real Amala and ping her for the other players.
 There are a few tells to help you:
 
-* Amala herself is the only Legendary rank enemy, other clones are above level 80
-* She uses _Scythe Slash_ when someone is in melee range
-* When she uses her _Moa Signet_, the <Skill id="29519"/> icon will appear above her
+- Amala herself is the only Legendary rank enemy, other clones are above level 80
+- She uses _Scythe Slash_ when someone is in melee range
+- When she uses her _Moa Signet_, the <Skill id="29519"/> icon will appear above her
 
 The player targeted by the _Moa Signet_ should use sak the moment it completes to prevent others from being transformed.
 
@@ -140,7 +167,7 @@ The biggest danger of this phase is the _Earth Elemental_, which has a multitude
 
 In this phase, Amala's **Scythe Combo** AoEs apply a small <Control name="knockback"/>, but many of them can be avoided by stacking directly on her. Make sure to dodge the _Eruption_ (delayed AoE appearing below random players) and ring-shaped attacks, as they <Control name="knockdown"/> as well.
 
-<Image src="./images/amala.jpg" title="Amala invoking the human gods"/>
+<Image src="./images/amala.jpg" caption="Amala invoking the human gods"/>
 
 #### Priestess of Melandru
 
