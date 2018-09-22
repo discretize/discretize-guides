@@ -107,12 +107,12 @@ by the stomp attack from the first add.
 
 Islands are pretty straightforward. You ALWAYS want to cast wells before other skills, so that people won't miss them.
 
-1ST : [passive <Skill id="10247"/> + <Skill id="10192"/>] <br/>
-2ND: [<Skill id="30814"/>k Well > Swap > <Skill id="10247"/> + <Skill id="30643"/>] <br/>
-3RD: [<Skill id="29856"/> > Swap > passive <Skill id="10247"/>] <br/>
-4TH: [Swap > <Skill id="10247"/>> <Skill id="30643"/> (before everyone takes the portal)] <br/>
+1. [passive <Skill name="Signet of Inspiration"/> + <Skill id="10192"/>] <br/>
+2. [<Skill id="30814"/> > Swap > <Skill name="Signet of Inspiration"/> + <Skill id="30643"/>] <br/>
+3. [<Skill id="29856"/> > Swap > passive <Skill name="Signet of Inspiration"/>] <br/>
+4. [Swap > <Skill name="Signet of Inspiration"/> > <Skill id="30643"/> (before everyone takes the portal)] <br/>
 
-When you're back on the platform it'll be simple for you, use your <Skill id="10377"/>, wait for the boss to do his 3 attacks and then you can <Skill id="29830"/> your wells and <Skill id="10247"/>, while not forgetting to swap weapons to proc your concentration sigil (im assuming your group dps is slow enough to have your <Skill id="29830"/> up in this phase) .
+When you're back on the platform it'll be simple for you, use your <Skill id="10377"/>, wait for the boss to do his 3 attacks and then you can <Skill id="29830"/> your wells and <Skill name="Signet of Inspiration"/>, while not forgetting to swap weapons to proc your concentration sigil (im assuming your group dps is slow enough to have your <Skill id="29830"/> up in this phase) .
 
 When the CC Bar is back up use your <Skill id="30643"/> and <Skill id="10287"/> with possibly more than one clone to CC as hard as you can because your pugs will be too busy tunneling on their arcdps to see who is gonna win the ego war, hence forgetting to CC.
 
@@ -120,7 +120,7 @@ Here we go again
 
 **33%**
 
-Follow the same steps above and remember to shatter and use a phantasm to activate passive <Skill id="10247"/> when you get back to the boss before he does his knockback attack at the end so you can share some stability.
+Follow the same steps above and remember to shatter and use a phantasm to activate passive <Skill name="Signet of Inspiration"/> when you get back to the boss before he does his knockback attack at the end so you can share some stability.
 
 **Tryhard**
 
@@ -139,44 +139,70 @@ This fight is almost exactly 1:1 with the pug strategy .
 
 The only difference being that in an organized group,
 the damage should be so high that you will not get your <Skill id="29830"/> back up at 66%, hence you should do double
-Quick Well and <Skill id="10247"/> on the 2nd Island after 33%.
+Quick Well and <Skill name="Signet of Inspiration"/> on the 2nd Island after 33%.
 </Tab>
 
 <Tab specialization="warrior">
 Help pre-stacking by using <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Mistlock Singularity. While running towards Skorvald already place both banners.
-	
+
+---
+
 ### <Instability name="No Pain, No Gain"/> <Specialization name="Spellbreaker"/> (Standard Dagger/Axe Greatsword)
 
-Immediately use <Skill name="Winds of Disenchantment" profession="Warrior"/> on Skorvald (prevents the first application of boons from <Instability name="No Pain, No Gain"/>) and assist breaking Skorvald's Defiance bar with <Skill id="14402"/>, <Skill name="Disrupting Stab" profession="Warrior"/> (if Defiance bar wont be broken with <Skill id="14502"/>,
-use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/> and continue with standard rotation (<Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/>, <Skill name="Bladetrail" profession="Warrior"/>, <Skill name="Rush" profession="Warrior"/>, <Skill id="14502"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/>
-(cancel in Skorvald's hitbox by using weapon swap), <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab" profession="Warrior"/>, <Skill id="14502"/>, <Skill name="Dual Strike" profession="Warrior"/>.
-Veteran Flux Anomalies (66% and 33%) are not affected by <Instability name="No Pain, No Gain"/>. Take the portal at the last Veteran Flux Anomaly and pre cast <Skill name="Winds of Disenchantment" profession="Warrior"/> on Skorvald. Make sure one of your DPS stays behind to kill the fourth Veteran
-Flux Anomaly. Refresh your banners before the 33% phase and as always try to adapt your rotation to what is currently needed.
+Immediately use <Skill name="Winds of Disenchantment" profession="Warrior"/> on Skorvald (prevents the first application of boons from <Instability name="No Pain, No Gain"/>) and assist breaking Skorvald's Defiance bar with <Skill id="14402"/>, <Skill name="Disrupting Stab" profession="Warrior"/> (if Defiance bar wont be broken with <Skill id="14502"/>, use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>.
+
+Continue with standard rotation:
+
+- <Skill name="Breaching Strike" profession="Warrior"/>
+- <Skill name="Dual Strike" profession="Warrior"/>
+- <Skill name="Whirling Axe" profession="Warrior"/>
+- <Skill id="14547"/>
+- <Skill name="Hundred Blades" profession="Warrior"/>
+- <Skill name="Whirlwind Attack" profession="Warrior"/>
+- <Skill name="Bladetrail" profession="Warrior"/>
+- <Skill name="Rush" profession="Warrior"/>
+- <Skill id="14502"/>
+- <Skill id="14547"/>
+- <Skill name="Hundred Blades" profession="Warrior"/>
+- <Skill name="Whirlwind Attack" profession="Warrior"/> (cancel in Skorvald's hitbox by using weapon swap)
+- <Skill name="Breaching Strike" profession="Warrior"/>
+- <Skill name="Disrupting Stab" profession="Warrior"/>
+- <Skill id="14502"/>
+- <Skill name="Dual Strike" profession="Warrior"/>.
+
+Veteran Flux Anomalies (66% and 33%) are not affected by <Instability name="No Pain, No Gain"/>. Take the portal at the last Veteran Flux Anomaly and pre cast <Skill name="Winds of Disenchantment" profession="Warrior"/> on Skorvald. Make sure one of your DPS stays behind to kill the fourth Veteran Flux Anomaly.
+
+Refresh your banners before the 33% phase and as always try to adapt your rotation to what is currently needed.
 
 <Message> 
 Attacks reliably triggering <Skill name="full counter" profession="Warrior"/>: *Horizon Strike*, *Rush*, *Punishing Kick & Cranial Cascade*, *Solar Cyclone* and *Combustion Rush*.
-</Message> 
-	
+</Message>
+
+---
+
 ### without <Instability name="No Pain, No Gain"/> <Specialization name="Warrior"/> (Standard Axe/Axe Mace/Mace)
 
-Start on Mace/Mace (<Skill id="14402"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/>, <Skill name="Skull Crack" profession="Warrior"/>, <Skill id="14502"/>) and continue with standard rotation. Keep an eye on Skorvald's <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
+Start on Mace/Mace (<Skill id="14402"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/>, <Skill name="Skull Crack" profession="Warrior"/>, <Skill id="14502"/>) and continue with standard rotation.
+
+Keep an eye on Skorvald's <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
+
 Keep in mind that you have to kill the 4th Veteran Flux Anomalies (66% and 33%) before using the portal to Skorvald's platform.
 </Tab>
 
 <Tab specialization="weaver">
 Use <Skill id="21656"/> if you have less than two weavers, run air to try hard or have might troubles, then make sure to blast on the first and fourth island.
 
-Use the standard Air Opener with a precast <Skill id="5516"/> from the mistlock for high damage groups and the Earth/Fire Opener with low dps groups. If you group damage is normal you should finish the first phase in <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> with a <Skill id="5624"/> in hand. Drop the hammer, use <Skill id="5680"/> to get faster to the air tubulence. Attune <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and start casting <Skill id="5528"/> before jumping in the air turbulence, you will finish casting it mid air. Attune <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and use <Skill id="5548"/>. Stay in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and finish the anomaly with <Skill id="5491"/> if it is not dead already.
+Use the standard Air Opener with a precast <Skill id="5516"/> from the mistlock for high damage groups and the Earth/Fire Opener with low dps groups. If you group damage is normal you should finish the first phase in <Skill id="5492" disableText/>/<Skill id="5492" disableText/> with a <Skill id="5624"/> in hand. Drop the hammer, use <Skill id="5680"/> to get faster to the air tubulence. Attune <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and start casting <Skill id="5528"/> before jumping in the air turbulence, you will finish casting it mid air. Attune <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and use <Skill id="5548"/>. Stay in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and finish the anomaly with <Skill id="5491"/> if it is not dead already.
 
 NEVER cast <Skill id="5548"/> on the first anomaly before at least one player is on the island, since the anomaly will then cast the fire aoe, that might kill players before they can move after the air turbulence.
 
-Cast <Skill id="5548"/> and <Skill id="43762"/> on the second anomaly while she evades, attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and begin to cast <Skill id="5552"/> so that it instantly hits, when the evade ends. You will have to jump above the shockwave. Hit the anomaly with <Skill id="41125"/>. If it is not dead attune <Skill id="5492" text="false"/>/<Skill id="5494" text="false"/> and cast a new <Skill id="5548"/>. Attune to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> before taking the next air turbulence. If you are the first on the island or still have <Boon name="Aegis"/> you can also cast <Skill name="Meteor Shower" /> on this anomaly. This is only worth it, if you can channel the skill uninterupted for at least half of its duration.
+Cast <Skill id="5548"/> and <Skill id="43762"/> on the second anomaly while she evades, attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and begin to cast <Skill id="5552"/> so that it instantly hits, when the evade ends. You will have to jump above the shockwave. Hit the anomaly with <Skill id="41125"/>. If it is not dead attune <Skill id="5492" disableText/>/<Skill id="5494" disableText/> and cast a new <Skill id="5548"/>. Attune to <Skill id="5495" disableText/>/<Skill id="5492" disableText/> before taking the next air turbulence. If you are the first on the island or still have <Boon name="Aegis"/> you can also cast <Skill name="Meteor Shower" /> on this anomaly. This is only worth it, if you can channel the skill uninterupted for at least half of its duration.
 
-Start with <Skill id="5528"/> on the third anomaly followed by <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> and <Skill id="5548"/>. If the mesmer places his wells on this island follow this by two dodge to avoid getting knocked out of the wells. Attune to <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/> before leaving the island.
+Start with <Skill id="5528"/> on the third anomaly followed by <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and <Skill id="5548"/>. If the mesmer places his wells on this island follow this by two dodge to avoid getting knocked out of the wells. Attune to <Skill id="5492" disableText/>/<Skill id="5492" disableText/> before leaving the island.
 
 If all might blasts were correct and you group fast enough you should have 25 stacks of might now, all boons and elements of rage for 8 secs.
 
-Place a <Skill id="5548"/> on the last anomaly and take the portal back to Skorvald (not before the first jump has landed or he will jump out of the <Skill id="5548"/>s) while summening your <Skill id="5516"/> (You can also hit the anomaly with <Skill id="5517"/> before porting if it still has to much life.). The warrior will kill the last anomaly with the weaver fonts. Keep the last anomaly in your target to time your burst according to how fast it dies. Start your cast in this order: <Skill id="5531"/> -> <Skill id="5501"/> -> <Skill id="5737"/>. Ideally <Skill id="5737"/> finishes casting in the second Skorvald becomes vulnerable again. Continue with <Skill id="5548"/>, <Skill id="41125"/>, <Skill id="5624"/>, <Skill id="5725"/>, <Skill id="5492" text="false"/>/<Skill id="5492" text="false"/>, <Skill id="5539"/> x3, 1x <Skill id="5726"/> chain. You can place a <Skill id="5548"/> and cast maybe two additional <Skill id="5491"/> before Skorvald ports.
+Place a <Skill id="5548"/> on the last anomaly and take the portal back to Skorvald (not before the first jump has landed or he will jump out of the <Skill id="5548"/>s) while summening your <Skill id="5516"/> (You can also hit the anomaly with <Skill id="5517"/> before porting if it still has to much life.). The warrior will kill the last anomaly with the weaver fonts. Keep the last anomaly in your target to time your burst according to how fast it dies. Start your cast in this order: <Skill id="5531"/> -> <Skill id="5501"/> -> <Skill id="5737"/>. Ideally <Skill id="5737"/> finishes casting in the second Skorvald becomes vulnerable again. Continue with <Skill id="5548"/>, <Skill id="41125"/>, <Skill id="5624"/>, <Skill id="5725"/>, <Skill id="5492" disableText/>/<Skill id="5492" disableText/>, <Skill id="5539"/> x3, 1x <Skill id="5726"/> chain. You can place a <Skill id="5548"/> and cast maybe two additional <Skill id="5491"/> before Skorvald ports.
 
 If everything went well Skorvald will be at 33% and you can repeat from <Skill id="5680"/>. If you didn't have enough damage start with pre casting <Skill id="5528"/> and so on in the middle after the second charge.
 
@@ -279,11 +305,11 @@ Skills: <Skill id="30305"/>,<Skill id="10377"/>
 
 When the fight begins you will be facing the middle of the platform waiting for the boss to do the triple beam attack so that you can move in and kill the 2 adds that spawned.
 
-So what you should do is use <Skill id="10191"/> and <Skill id="10190"/> to get some boons on yourself and proc the passive <Skill id="10247"/> by using your <Skill id="10282"/> phantasm (targeting the boss // make sure it's not invulnerable anymore) near your group to share boons at the beginning.
+So what you should do is use <Skill id="10191"/> and <Skill id="10190"/> to get some boons on yourself and proc the passive <Skill name="Signet of Inspiration"/> by using your <Skill id="10282"/> phantasm (targeting the boss // make sure it's not invulnerable anymore) near your group to share boons at the beginning.
 
 Then, while the boss is bouncing to her corner, swap to shield and do a sword 3 to get a clone up , then quickly cast as follows:
 
-<Skill id="30643"/> (MID <Skill id="29830"/>) -> <Skill id="10377"/>-> <Skill id="10247"/> -> <Skill id="29856"/>-><Skill id="29830"/> END-> <Skill id="30643"/> -><Skill id="29856"/> + <Skill id="30814"/> + <Skill id="10247"/>
+<Skill id="30643"/> (MID <Skill id="29830"/>) -> <Skill id="10377"/>-> <Skill name="Signet of Inspiration"/> -> <Skill id="29856"/>-><Skill id="29830"/> END-> <Skill id="30643"/> -><Skill id="29856"/> + <Skill id="30814"/> + <Skill name="Signet of Inspiration"/>
 
 This is because you want to cc the boss as much as you can with the double <Skill id="30643"/>.  
 To increase the group's chance of survival you should also place a <Skill id="10186"/> between the boss and the group, so that the orb autoattacks will be reflected.
@@ -291,7 +317,7 @@ To increase the group's chance of survival you should also place a <Skill id="10
 **66%**
 
 **DO NOT SKIP THIS STEP**  
-After the cc phase is over , even before the boss is vulnerable(when shes in the middle of the arena), you have to <Skill id="10191"/> <Skill id="10190"/> and share with <Skill id="10247"/>. We do this because the weavers will start casting <Skill id="5501"/> here and if they dont have any quickness while doing so, they'll right click your name and report you for botting.  
+After the cc phase is over , even before the boss is vulnerable(when shes in the middle of the arena), you have to <Skill id="10191"/> <Skill id="10190"/> and share with <Skill name="Signet of Inspiration"/>. We do this because the weavers will start casting <Skill id="5501"/> here and if they dont have any quickness while doing so, they'll right click your name and report you for botting.  
 **DO NOT SKIP THIS STEP**
 
 Then go to the next corner and do all your <Skill id="29830"/> rotation on the boss, including <Skill id="10282"/> in <Skill id="29830"/> (without forgetting to <Skill id="10186"/> between the group and the boss to reflect) as your warrior will be jumping for the marbles.
@@ -313,15 +339,15 @@ If the CC breakbar is broken slowly you will fail. ( Your warrior/Slb will help 
 
 **66%(middle)**
 
-Do NOT forget to <Skill id="10247"/> before the boss is even vulnerable, your weavers need quickness to cast meteor shower. You can also heal the group with your well here and cast a Quick well as everyone will be stacked together.
+Do NOT forget to <Skill name="Signet of Inspiration"/> before the boss is even vulnerable, your weavers need quickness to cast meteor shower. You can also heal the group with your well here and cast a Quick well as everyone will be stacked together.
 
 **66%(corner)**  
 Special action to the corner the boss is moving to.  
-You can use your <Skill id="10377"/> here outside of <Skill id="29830"/>, along with your <Skill id="10247"/> and eveything else that isn't on cooldown.  
+You can use your <Skill id="10377"/> here outside of <Skill id="29830"/>, along with your <Skill name="Signet of Inspiration"/> and eveything else that isn't on cooldown.  
 Protect your team by placing a <Skill id="10186"/>(Traited) between them and the boss to reflect the ball autoattacks.
 
 **33%(middle)**  
-Since you will have your <Skill id="29830"/> up here, while staying close to the group you should <Skill id="10247"/> + <Skill id="10282"/>(passive <Skill id="10247"/>) inside <Skill id="29830"/> while staying in range of your team. Keep everything else for the next part.
+Since you will have your <Skill id="29830"/> up here, while staying close to the group you should <Skill name="Signet of Inspiration"/> + <Skill id="10282"/>(passive <Skill name="Signet of Inspiration"/>) inside <Skill id="29830"/> while staying in range of your team. Keep everything else for the next part.
 
 **33%(corner)**  
 Simply spam all of your cooldowns, <Skill id="30305"/>, reflect and kill the boss as the warrior will be bouncing the orbs.
@@ -329,6 +355,8 @@ Simply spam all of your cooldowns, <Skill id="30305"/>, reflect and kill the bos
 
 <Tab specialization="warrior">
 Place banners at the corner of the platfrom where Artsariiv is going to be and help pre-stacking with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Artsariiv.
+
+---
 
 ### <Instability name="No Pain, No Gain"/> <Specialization name="Spellbreaker"/> (Standard Dagger/Axe Greatsword)
 
@@ -358,6 +386,8 @@ Use <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupti
 <Message> 
 Attacks reliably triggering <Skill name="full counter" profession="Warrior"/>: *Astral Surge*, *Solar Discharge* and *Slam*.
 </Message>
+
+---
 
 ### without <Instability name="No Pain, No Gain"/> <Specialization name="Warrior"/> (Standard Axe/Axe Mace/Mace)
 
@@ -392,7 +422,7 @@ For the nuke strategy you want to damage Artsariiv to 66% life before the first 
 
 Pre cast <Skill id="5528"/> and <Skill id="5548"/> in the middle. (You can hit Artsariiv with one <Skill id="5491"/> before you have to) `Nova Launch` to the first spot, to avoid being hit by the **Beaming Smile**.
 
-Now summon your <Skill id="5516"/> followed by <Skill id="5531"/>, then cast <Skill id="5548"/> and <Skill id="43762"/> on Artsariivs landing spot followed by attuning to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/>. Follow this with <Skill id="5737"/> and your normal air opener. (You can use <Skill id="5567"/> here for more burst and better range options (<Instability name="Social Akwardness"/>)). You want to time <Skill id="5548"/> here so that you finish your <Skill id="5737"/> cast, the instant after you land having jumped over Artsariivs shockwave. Or if you trust your <Specialization name="chronomancer"/> you can skip the jump for more damage. The ideal opener should look like [this](https://www.youtube.com/watch?v=uzaqKzCfWJ8).
+Now summon your <Skill id="5516"/> followed by <Skill id="5531"/>, then cast <Skill id="5548"/> and <Skill id="43762"/> on Artsariivs landing spot followed by attuning to <Skill id="5494" disableText/>/<Skill id="5492" disableText/>. Follow this with <Skill id="5737"/> and your normal air opener. (You can use <Skill id="5567"/> here for more burst and better range options (<Instability name="Social Awkwardness"/>)). You want to time <Skill id="5548"/> here so that you finish your <Skill id="5737"/> cast, the instant after you land having jumped over Artsariivs shockwave. Or if you trust your <Specialization name="chronomancer"/> you can skip the jump for more damage. The ideal opener should look like [this](https://www.youtube.com/watch?v=uzaqKzCfWJ8).
 
 After all the nerfs the nuke window is pretty tight and you will only succeed if your whole party does everything correct. If either the boons the cc or damage is late slightly, the doom will explode.
 
@@ -404,13 +434,13 @@ Advanced groups can let the second anomaly explode and gg the third to save time
 
 **Normal**
 
-If your group damage is low you can use <Skill id="5501"/> two times per phase, precast the first one in the middle in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/>. **Always** place at least a <Skill id="5548"/> on the _Temporaly Anomaly_ before using `Nova Launch` to the boss. You can already attune to <Skill id="5494"/> at the Anomaly and burst it with <Skill id="41125"/> before resuming on the boss with <Skill id="5737"/>.
+If your group damage is low you can use <Skill id="5501"/> two times per phase, precast the first one in the middle in <Skill id="5495" disableText/>/<Skill id="5492" disableText/>. **Always** place at least a <Skill id="5548"/> on the _Temporaly Anomaly_ before using `Nova Launch` to the boss. You can already attune to <Skill id="5494"/> at the Anomaly and burst it with <Skill id="41125"/> before resuming on the boss with <Skill id="5737"/>.
 
 **CC Consumables are strongly adviced for this fight.**
 
 In the first phase three <Item id="8749"/>s or one <Item id="8749"/> and a <Item id="8664"/> will break an add. In the second Phase one <Item id="8664"/> or two <Item id="8749"/>s will break an add. The reason you want the consumables for fast cc is this: If your cc phase is fast enough, your boons will still be up when the boss becomes vulnerable again, leading to much higher damage, shorter fights and less chance to wipe to bad instabilites.
 
-So use `Nova Launch` to either your assigned add or the add no is at and break it fast. Switch to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and pre cast in the middle <Skill id="5528"/>, <Skill id="5501"/>, <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/>, <Skill id="5548"/>, <Skill id="43762"/> and so on (If your mesmer is daydreaming and you have no <Boon name="Quickness"/> skip <Skill id="5501"/> unless you were very fast in the middle).
+So use `Nova Launch` to either your assigned add or the add no is at and break it fast. Switch to <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and pre cast in the middle <Skill id="5528"/>, <Skill id="5501"/>, <Skill id="5492" disableText/>/<Skill id="5495" disableText/>, <Skill id="5548"/>, <Skill id="43762"/> and so on (If your mesmer is daydreaming and you have no <Boon name="Quickness"/> skip <Skill id="5501"/> unless you were very fast in the middle).
 
 Also keep in mind if you do not go for the nuke in phase one that this is the first boss where you can use the `Nova Launch` to get all <Skill id="5697"/> in the bosses hitbox.
 </Tab>
@@ -514,7 +544,7 @@ Regardless of that, there are a few things you should keep in mind:
 2. You ALWAYS should pull at least 2 of the 4 adds that spawn after you phase the boss (after CC phases) since they deal a lot of damage to the group.
 3. You should use your <Skill id="29830"/> at the start of the fight and at 50%, and at 30% you can precast your <Skill id="10377"/> outside of <Skill id="29830"/> so your group will have quickness instantly after coming back from the pillars.
 4. This is helpful if you have time : use your <Skill id="10186"/> on the boss' hitbox to reflect the orb attacks ( keep in mind you still need to pull adds so dont use it if you're about to phase after ccing)
-5. Don't forget to INSTANTLY use <Skill id="10191"/>-<Skill id="10190"/> when the fight starts and <Skill id="10282"/> to proc passive <Skill id="10247"/>, only then begin your rotation.(you don't want your weavers to wait a long time to get quickness or they will start flaming you).
+5. Don't forget to INSTANTLY use <Skill id="10191"/>-<Skill id="10190"/> when the fight starts and <Skill id="10282"/> to proc passive <Skill name="Signet of Inspiration"/>, only then begin your rotation.(you don't want your weavers to wait a long time to get quickness or they will start flaming you).
 
 **Tryhard**  
 Exactly the same as pug Arkk.
@@ -525,6 +555,8 @@ This fight is generally more intense for your weavers, as they have to manage cd
 <Tab specialization="warrior">
 Place banners already on Arkk's platform if your group does one /gg before. Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. Usually one of the DPS is responsible for slaying the Temmporal Anomaly, nonetheless pay 
 close attention to it and assist if necessary. Dont forget to use `Nova Launch` to circumvent the effects of Arkk's Solar Fury and Solar Discharge.
+
+---
 
 ### <Instability name="No Pain, No Gain"/> <Specialization name="Spellbreaker"/> (Standard Dagger/Axe Greatsword)
 
@@ -538,6 +570,8 @@ to Arkk (Disappearing Platforms} covered in burning oil). For the Elite Archdivi
 Attacks reliably triggering <Skill name="full counter" profession="Warrior"/>: *Focused Rage*, *Horizon Strike* and *Diffractive Edge*.
 </Message>
 
+---
+
 ### without <Instability name="No Pain, No Gain"/> <Specialization name="Warrior"/> (Axe/Axe Greatsword)
 
 Start on Axe/Axe and just follow the standard rotation. At 80%, 50% and 30% position yourself at one of the sides where a solar bloom is about to spawn. Since your attacks are solely melee, its recommended to already position yourself
@@ -546,7 +580,7 @@ Launch on Arkk to add additional Defiance bar damage and continue with the stand
 </Tab>
 
 <Tab specialization="weaver">
-Start in <Skill id="5492" text="false"/>/<Skill id="5495" text="false"/> with <Skill id="5531"/> followed <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5737"/> while turned away to avoid the *Blinding Radiance* <Condition name="fear"/>. Continue with <Skill id="5501"/>.
+Start in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> with <Skill id="5531"/> followed <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and cast <Skill id="5737"/> while turned away to avoid the *Blinding Radiance* <Condition name="fear"/>. Continue with <Skill id="5501"/>.
 
 Always place a <Skill id="5548"/> on the Temporal Anomaly and use <Skill id="5539"/> as backup. If you aim your <Skill id="41125"/> correctly, it hits the boss and the anomaly. The same is true for <Skill id="5528"/> in half the spawn positions.
 

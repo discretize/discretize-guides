@@ -124,25 +124,35 @@ Simply Moa the third add instantly and ToT+F3 MAMA on the 25 – 0 phase.
 <Tab specialization="warrior">
 Already place your banners (the more the merrier) after killing the third Assault Knight of MAMA's pre-event. Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>.
 
+---
+
 ### <Instability name="No Pain, No Gain"/> <Specialization name="Spellbreaker"/> (Dagger/Axe Mace/Axe)
 
-Start MAMA on Dagger/Axe. Use <Skill id="14402"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab" profession="Warrior"/>, block MAMA's spin attack with <Skill name="full counter" profession="Warrior"/> and continue with <Skill name="Skull Crack" profession="Warrior"/> (if <Skill id="14502"/> won't break MAMA's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>,
-<Skill name="Dual Strike" profession="Warrior"/>, <Skill name="Whirling Axe" profession="Warrior"/>. For the Assault Knights every 25% use <Skill name="Skull Crack" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/> and <Skill id="14502"/> to break its Defiance bar and simultaneously remove its boons. As soon as MAMA is vulnerable use <Skill name="Skull Crack" profession="Warrior"/>, <Skill name="Breaching Strike" profession="Warrior"/>, Disrupting
-Stab, block MAMA's spin attack with <Skill name="full counter" profession="Warrior"/> (if <Skill id="14502"/> won't break MAMA's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Dual Strike" profession="Warrior"/> and <Skill name="Whirling Axe" profession="Warrior"/>. At 25% utilize <Skill name="Winds of Disenchantment" profession="Warrior"/> for the last Assault Knight and
-simultaneously keeping MAMA from reapplying boons.
+Start MAMA on Dagger/Axe. Use <Skill id="14402"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab" profession="Warrior"/>, block MAMA's spin attack with <Skill name="full counter" profession="Warrior"/> and continue with <Skill name="Skull Crack" profession="Warrior"/> (if <Skill id="14502"/> won't break MAMA's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill name="Whirling Axe" profession="Warrior"/>.
+
+For the Assault Knights every 25% use <Skill name="Skull Crack" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/> and <Skill id="14502"/> to break its Defiance bar and simultaneously remove its boons.
+
+As soon as MAMA is vulnerable use <Skill name="Skull Crack" profession="Warrior"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab"/>, block MAMA's spin attack with <Skill name="full counter" profession="Warrior"/> (if <Skill id="14502"/> won't break MAMA's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Dual Strike" profession="Warrior"/> and <Skill name="Whirling Axe" profession="Warrior"/>.
+
+At 25% utilize <Skill name="Winds of Disenchantment" profession="Warrior"/> for the last Assault Knight and simultaneously keeping MAMA from reapplying boons.
 
 <Message>
 Attacks reliably triggering <Skill name="full counter" profession="Warrior"/>: *MAMA's AoE spin*, *MAMA's spinning arms* (33%), *MAMA's jump attack* (33%) and *MAMA's ground smash attack* (33%).
 </Message>
 
+---
+
 ### without <Instability name="No Pain, No Gain"/> <Specialization name="Warrior"/> (Standard Axe/Axe Mace/Mace)
 
-Start MAMA on Mace/Mace. Tnstantly break MAMA's Defiance bar using <Skill id="14402"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/>, <Skill name="Skull Crack" profession="Warrior"/> (if <Skill id="14502"/> won't break MAMA's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/> and continue with standard rotation on
-Axe/Axe. Fast Hands allows you to quickly adapt to what is currently needed in the encounter and consumables like <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>. Keep an eye on MAMA's <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
+Start MAMA on Mace/Mace. Instantly break MAMA's Defiance bar using <Skill id="14402"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/>, <Skill name="Skull Crack" profession="Warrior"/> (if <Skill id="14502"/> won't break MAMA's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/> and continue with standard rotation on Axe/Axe.
+
+Fast Hands allows you to quickly adapt to what is currently needed in the encounter and consumables like <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>.
+
+Keep an eye on MAMA's <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
 </Tab>
 
 <Tab specialization="weaver">
-Start the fight with <Skill id="5531"/> followed by the <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> opener if you have high damage or the <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> opener if you have low damage. Make sure to hit you <Skill name="Pyroclastic Blast"/> beside MAMAs hitbox since she will still be invulnerable while you cast it and as a projectile it despawn, if it does not hit the ground.
+Start the fight with <Skill id="5531"/> followed by the <Skill id="5494" disableText/>/<Skill id="5492" disableText/> opener if you have high damage or the <Skill id="5495" disableText/>/<Skill id="5492" disableText/> opener if you have low damage. Make sure to hit you <Skill name="Pyroclastic Blast"/> beside MAMAs hitbox since she will still be invulnerable while you cast it and as a projectile it despawn, if it does not hit the ground.
 
 You should have a <Skill id="5624"/> available for each knight, hit them with <Skill id="5733"/> and <Skill id="5725"/> if ready (do not use <Skill id="5725"/> on MAMA if she is only 2-3% away from becoming invulnerable). You can pre cast <Skill id="5733"/> while the adds spawn. You will hit the knight as long as you are in his hitbox while finishing the cast even though you do not have him in target.
 
@@ -200,11 +210,15 @@ If the person who pulled your side ported up the other side to fast and the mobs
 <Tab specialization="warrior">
 Exchange <Skill id="14502"/> for <Skill name="on my mark" profession="Warrior"/> and already swap to your weapon sets with Superior Sigil of Serpent Slaying.
 
+---
+
 ### <Instability name="No Pain, No Gain"/> <Specialization name="Spellbreaker"/> (Standard Dagger/Axe Greatsword)
 
 At the first set of altars draw the Elite Nightmare Hypnoss with <Skill name="on my mark" profession="Warrior"/> to the narrow corridor so that the Chronomancer can pull them together with <Skill name="Into the void" profession="Mesmer"/>. Assist in killing the Elite Nightmare Hypnoss and capturing one of the
 altars. At the second set of altars, use <Skill name="Winds of Disenchantment" profession="Warrior"/> on your Chronomancer's <Skill name="temporal curtain" profession="Mesmer"/> and move close to the altar on the right side. Pull the Elite Nightmare Hypnoss occupying the altar to the mid by using <Skill name="on my mark" profession="Warrior"/>
 and assist in killing them and capturing the mid altar respectively.
+
+---
 
 ### without <Instability name="No Pain, No Gain"/> <Specialization name="Warrior"/> (Axe/Axe Greatsword)
 
@@ -277,35 +291,44 @@ If you do get a breakbar in phase 2 `\gg`->leave party and search for a better g
 Set a personal Waypoint at one of the four places where Echoes of the Unclean will spawn at 66% (Warrior usually takes North). Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. If your group does one /gg at Siax, 
 already place banners (the more the merrier). If not, just cast banners while running towards Siax. If additional Defiance bar damage is needed make use of <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>.
 
+---
+
 ### <Instability name="No Pain, No Gain"/> <Specialization name="Spellbreaker"/> (Standard Dagger/Axe Greatsword)
 
-Start channeling <Skill name="Winds of Disenchantment" profession="Warrior"/> while running towards Siax. Engage with <Skill id="14402"/>, <Skill id="14502"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/> (cancel in Skorvald's hitbox by using weapon swap), <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/> and as soon as Siax begins
-channeling Caustic Explosion use <Skill name="Disrupting Stab" profession="Warrior"/> (if <Skill id="14502"/> won't break Siax's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill id="14547"/> and <Skill name="Hundred Blades" profession="Warrior"/>. At 66% use <Skill name="Rush" profession="Warrior"/> to close the gap to the Echo
-of the Unclean (not affected by No Pain No Gain) and kill it with <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/> and <Skill name="Whirlwind Attack" profession="Warrior"/>. After killing the Echo of the Unclean immediately swap to Dagger/Axe, assist at any of the other Echoes of the Unclean if
-necessary and strip Siax's boons by using <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab" profession="Warrior"/> and <Skill id="14502"/> and continue with standard rotation. Repeat for Echoes of the Unclean spawning at 33%.
+Start channeling <Skill name="Winds of Disenchantment" profession="Warrior"/> while running towards Siax. Engage with <Skill id="14402"/>, <Skill id="14502"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/> (cancel in Skorvald's hitbox by using weapon swap), <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/> and as soon as Siax begins channeling Caustic Explosion use <Skill name="Disrupting Stab" profession="Warrior"/> (if <Skill id="14502"/> won't break Siax's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill id="14547"/> and <Skill name="Hundred Blades" profession="Warrior"/>.
+
+At 66% use <Skill name="Rush" profession="Warrior"/> to close the gap to the Echo
+of the Unclean (not affected by No Pain No Gain) and kill it with <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/> and <Skill name="Whirlwind Attack" profession="Warrior"/>.
+
+After killing the Echo of the Unclean immediately swap to Dagger/Axe, assist at any of the other Echoes of the Unclean if necessary and strip Siax's boons by using <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab" profession="Warrior"/> and <Skill id="14502"/> and continue with standard rotation.
+
+Repeat for Echoes of the Unclean spawning at 33%.
 
 <Message> 
 Attacks reliably triggering <Skill name="full counter" profession="Warrior"/>: *Summon Nightmare Hallucination* (risky), *Tail Lash* and the *explosion of the Volatile Hallucinations*.
 </Message>
 
+---
+
 ### without <Instability name="No Pain, No Gain"/> <Specialization name="Warrior"/> (Standard Axe/Axe Greatsword)
 
-Begin with <Skill id="14402"/>, <Skill name="Bladetrail" profession="Warrior"/>, <Skill id="14502"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/> (cancel in Skorvald's hitbox by using weapon swap), <Skill name="Throw Axe" profession="Warrior"/>, <Skill name="Cyclone Axe" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill id="14502"/>, <Skill name="Whirling Axe" profession="Warrior"/>. Use <Skill name="Rush" profession="Warrior"/> at 66% and 33% to close the gap to the Echo of the Unclean
-and follow just follow standard rotation.
+Begin with <Skill id="14402"/>, <Skill name="Bladetrail" profession="Warrior"/>, <Skill id="14502"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/> (cancel in Skorvald's hitbox by using weapon swap), <Skill name="Throw Axe" profession="Warrior"/>, <Skill name="Cyclone Axe" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill id="14502"/>, <Skill name="Whirling Axe" profession="Warrior"/>.
+
+Use <Skill name="Rush" profession="Warrior"/> at 66% and 33% to close the gap to the Echo of the Unclean and follow just follow standard rotation.
 </Tab>
 
 <Tab specialization="weaver">
- Start the fight with <Skill id="5531"/> followed by the <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> opener if you have high damage or the <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> opener if you have low damage. You want to start with this while the last Illusions turn hostile.
+Start the fight with <Skill id="5531"/> followed by the <Skill id="5494" disableText/>/<Skill id="5492" disableText/> opener if you have high damage or the <Skill id="5495" disableText/>/<Skill id="5492" disableText/> opener if you have low damage. You want to start with this while the last Illusions turn hostile.
 
 On the East and South _Echoes of the Unclean_, you can use <Skill id="5697"/> from <Skill id="5516"/> against the wall to deal enormous damage. On the second add spawn you can <Skill id="5697"/> at any location except east.
 
-With normal group damage Siax should turn invulnerable at the end of your first <Skill id="5624"/>. Use <Skill id="5680"/> to reach your add fast. Place a <Skill id="5548"/> and use <Skill id="5697"/> to kill your add fast. If you are having trouble killing the add fast after the <Skill id="5548"/> nerf also hit it with <Skill id="5517"/>. It can be worth it depending on your group to attune to <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> while killing the add for additional skills and a faster <Trait id="2131"/>. Alternativle start with <Skill name="Eruption"/>, <Skill name="Lava Font"/>, <Skill id="5517"/> and <Skill id="5697"/> through the mob back to the boss (Only do it if you are sure your <Skill id="5697"/> will kill the mob. It feels really bad to reach the boss with your add surviving with less than 1% life).
+With normal group damage Siax should turn invulnerable at the end of your first <Skill id="5624"/>. Use <Skill id="5680"/> to reach your add fast. Place a <Skill id="5548"/> and use <Skill id="5697"/> to kill your add fast. If you are having trouble killing the add fast after the <Skill id="5548"/> nerf also hit it with <Skill id="5517"/>. It can be worth it depending on your group to attune to <Skill id="5495" disableText/>/<Skill id="5492" disableText/> while killing the add for additional skills and a faster <Trait id="2131"/>. Alternativle start with <Skill name="Eruption"/>, <Skill name="Lava Font"/>, <Skill id="5517"/> and <Skill id="5697"/> through the mob back to the boss (Only do it if you are sure your <Skill id="5697"/> will kill the mob. It feels really bad to reach the boss with your add surviving with less than 1% life).
 
 Continue with <Skill id="5531"/> on Siax and restart in <Skill id="5492"/>.
 
-If your group damage is too low to pick up your second <Skill id="5516"/> for the second add, place a <Skill id="5548"/> on it, attune to <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and use <Skill id="41125"/> to kill it quickly.
+If your group damage is too low to pick up your second <Skill id="5516"/> for the second add, place a <Skill id="5548"/> on it, attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and use <Skill id="41125"/> to kill it quickly.
 
-Continue with <Skill id="5494" text="false"/>/<Skill id="5492" text="false"/> and <Skill id="5737"/> on Siax.
+Continue with <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and <Skill id="5737"/> on Siax.
 
 If you play with three weavers split your <Skill id="5737"/> so you have one each phase.
 
@@ -388,37 +411,52 @@ Use <Skill id="10236"/> and after that both wells, then CC the boss with the hel
 
 **Tryhard**  
 Again, the opening on this fight is exactly the same as pug Enso.  
-At 66% you will not have access to your <Skill id="29830" text="false"/> so you can use it for boons or keep it for 33% to double <Skill id="30643" text="false"/> / <Skill id="10236" text="false"/>.  
-On the first bar at 66% you will want to <Skill id="30643" text="false"/> and <Skill id="10287" text="false"/> , and for the second one use <Skill id="29519" text="false"/> and <Skill id="10169" text="false"/>.  
+At 66% you will not have access to your <Skill id="29830" disableText/> so you can use it for boons or keep it for 33% to double <Skill id="30643" disableText/> / <Skill id="10236" disableText/>.  
+On the first bar at 66% you will want to <Skill id="30643" disableText/> and <Skill id="10287" disableText/> , and for the second one use <Skill id="29519" disableText/> and <Skill id="10169" disableText/>.  
 You want to break both bars so that the boss will stay stunned during the whole phase so that you won't lose time by getting the bubble spawn ( Your group dps has to be high in order to achieve this).
 </Tab>
 
 <Tab specialization="warrior">
-Place banners already on Ensolyss's platform if your group does one /gg before. Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. If additional Defiance bar damage is needed make use of <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>. During the altar capture phase at 66% and 33% 
+Place banners already on Ensolyss's platform if your group does one /gg before. Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>.
+
+If additional Defiance bar damage is needed make use of <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>. During the altar capture phase at 66% and 33%
 <Skill id="14402"/> comes in very handy here to refill your adrenaline, endurance and health.
+
+---
 
 ### <Instability name="No Pain, No Gain"/> <Specialization name="Spellbreaker"/> (Dagger/Axe Greatsword)
 
-Start channeling <Skill name="Winds of Disenchantment" profession="Warrior"/> while Ensolyss is spawning. Open your rotation with <Skill name="Bladetrail" profession="Warrior"/>, <Skill id="14402"/>, <Skill id="14502"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/> (cancel in Skorvald's hitbox by using weapon swap), <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/> and as
-soon as Nightmare Devastation ends use <Skill name="Disrupting Stab" profession="Warrior"/> (if <Skill id="14502"/> won't break Ensolyss's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/> and
-follow standard rotation. At 66% and 33% swap to Dagger/Axe and capture one of the five altars. After capturing all five altars remove Ensolyss's boons with <Skill id="14502"/> and <Skill name="Breaching Strike" profession="Warrior"/> or pre-cast <Skill name="Winds of Disenchantment" profession="Warrior"/> while Ensolyss is
-returning. Once Ensolyss's Defiance bar appears, immediately use Disrupting Strike, <Item id="8677"/>, <Item id="8749"/>, <Skill id="14502"/> and continue standard rotation until the second Defiance bar appears. Break it with <Item id="8664"/>, <Item id="8677"/>,
-<Item id="8749"/>, <Skill id="14502"/> and resume standard rotation.
+Start channeling <Skill name="Winds of Disenchantment" profession="Warrior"/> while Ensolyss is spawning. Open your rotation with <Skill name="Bladetrail" profession="Warrior"/>, <Skill id="14402"/>, <Skill id="14502"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/> (cancel in Skorvald's hitbox by using weapon swap), <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/> and as soon as Nightmare Devastation ends use <Skill name="Disrupting Stab" profession="Warrior"/> (if <Skill id="14502"/> won't break Ensolyss's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/> and follow standard rotation.
+
+At 66% and 33% swap to Dagger/Axe and capture one of the five altars. After capturing all five altars remove Ensolyss's boons with <Skill id="14502"/> and <Skill name="Breaching Strike" profession="Warrior"/> or pre-cast <Skill name="Winds of Disenchantment" profession="Warrior"/> while Ensolyss is
+returning.
+
+Once Ensolyss's Defiance bar appears, immediately use Disrupting Strike, <Item id="8677"/>, <Item id="8749"/>, <Skill id="14502"/> and continue standard rotation until the second Defiance bar appears.
+
+Break it with <Item id="8664"/>, <Item id="8677"/>, <Item id="8749"/>, <Skill id="14502"/> and resume standard rotation.
 
 <Message> 
 Attacks reliably triggering <Skill name="full counter" profession="Warrior"/>: *Serpent Strike*, *Tail Lash*, *Lunge* (the dash), *Upswing* (either <Skill name="full counter" profession="Warrior"/> Ensolyss's Attack or Nightmare Hallucinations), *Tormenting Blast*, *Caustic Grasp* and *Charge of the Nightmare Hallucinations* below 15%.
 </Message>
 
+---
+
 ### without <Instability name="No Pain, No Gain"/> <Specialization name="Warrior"/> (Standard Axe/Axe Mace/Mace)
 
-Begin the encounter on Axe/Axe with <Skill id="14402"/>, <Skill id="14502"/>, <Skill name="Eviscerate" profession="Warrior"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill name="Throw Axe" profession="Warrior"/>, <Skill name="Cyclone Axe" profession="Warrior"/> and immediately swap to Mace/Mace to break Ensolyss's Defiance bar with <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/> and <Skill name="Skull Crack" profession="Warrior"/>. Once Ensolyss's
-Defiance bar is broken continue with standard rotation on Axe/Axe. At 66% and 33% swap to Mace/Mace and capture one of the five altars. As soon as Ensolyss returns attack with <Skill name="Mace Smash" profession="Warrior"/>, <Skill name="Mace Bash" profession="Warrior"/> and <Skill name="Pulverize" profession="Warrior"/> until the Defiance bar appears.
-Immediately use <Skill name="Tremor" profession="Warrior"/>, <Skill name="Skull Crack" profession="Warrior"/> (if <Skill id="14502"/> won't break Ensolyss's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/> and continue standard rotation until the second Defiance bar appears. Break it with Pommel
-Bash, <Skill name="Skull Crack" profession="Warrior"/> and <Item id="8664"/>, <Item id="8677"/>, <Item id="8749"/>, <Skill id="14502"/> and resume standard rotation. Keep an eye on <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
+Begin the encounter on Axe/Axe with <Skill id="14402"/>, <Skill id="14502"/>, <Skill name="Eviscerate" profession="Warrior"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill name="Throw Axe" profession="Warrior"/>, <Skill name="Cyclone Axe" profession="Warrior"/> and immediately swap to Mace/Mace to break Ensolyss's Defiance bar with <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/> and <Skill name="Skull Crack" profession="Warrior"/>.
+
+Once Ensolyss's
+Defiance bar is broken continue with standard rotation on Axe/Axe. At 66% and 33% swap to Mace/Mace and capture one of the five altars.
+
+As soon as Ensolyss returns attack with <Skill name="Mace Smash" profession="Warrior"/>, <Skill name="Mace Bash" profession="Warrior"/> and <Skill name="Pulverize" profession="Warrior"/> until the Defiance bar appears.
+
+Immediately use <Skill name="Tremor" profession="Warrior"/>, <Skill name="Skull Crack" profession="Warrior"/> (if <Skill id="14502"/> won't break Ensolyss's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/> and continue standard rotation until the second Defiance bar appears. Break it with <Skill name="Pommel Bash"/>, <Skill name="Skull Crack" profession="Warrior"/> and <Item id="8664"/>, <Item id="8677"/>, <Item id="8749"/>, <Skill id="14502"/> and resume standard rotation.
+
+Keep an eye on <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
 </Tab>
 
 <Tab specialization="weaver">
-Start the fight in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> with <Skill id="5531"/> followed <Skill id="5528"/> while Ensolyss spawns, continue with <Skill id="5548"/> and <Skill id="5491"/> until <Skill id="5548"/> is ready again. Know cast your situational opener to hit as much damage as possible in the breakbar.
+Start the fight in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> with <Skill id="5531"/> followed <Skill id="5528"/> while Ensolyss spawns, continue with <Skill id="5548"/> and <Skill id="5491"/> until <Skill id="5548"/> is ready again. Know cast your situational opener to hit as much damage as possible in the breakbar.
 
 If your damage is low and he charges cast your second <Skill id="5501"/> in the middle of the platform after dodging his first charge. If all five players stand there he will teleport back into it.
 
@@ -426,15 +464,15 @@ If you have two or more weavers one should take <Skill id="5567"/> and switch we
 
 If you summond you <Skill id="5516"/> in phase one pick it up before the orbs spawn and keep it the whole orb phase.
 
-Start the fight at 66% with the <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> opener. Use <Skill id="5531"/> if you have a <Skill id="5516"/> in hand.
+Start the fight at 66% with the <Skill id="5495" disableText/>/<Skill id="5492" disableText/> opener. Use <Skill id="5531"/> if you have a <Skill id="5516"/> in hand.
 
 Hit the second breakbar with either <Skill id="5733"/> or <Skill id="5721"/>.
 
-After the orb phases, reopen in <Skill id="5495" text="false"/>/<Skill id="5492" text="false"/> and cast <Skill id="5528"/> about a second before the orb phase ends. Make sure to have your <Skill id="5501"/> either finished before the first <Control name="knockback"/> zone goes off or start it after making sure you won't get hit.
+After the orb phases, reopen in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and cast <Skill id="5528"/> about a second before the orb phase ends. Make sure to have your <Skill id="5501"/> either finished before the first <Control name="knockback"/> zone goes off or start it after making sure you won't get hit.
 
 If you are close to either 66% or 33% and have your <Skill id="5516"/> in hand, you can use <Skill id="5697"/> through his hitbox to get as many hits as possible.
 
-You can double attune <Skill id="5495" text="false"/>/<Skill id="5495" text="false"/> 2-3 second before the orb phase ends to restart the fight with <Trait id="2131"/> up.
+You can double attune <Skill id="5495" disableText/>/<Skill id="5495" disableText/> 2-3 second before the orb phase ends to restart the fight with <Trait id="2131"/> up.
 
 Keep in mind that in the long break phases especially with double cc <Skill id="40183"/> is pretty strong.
 

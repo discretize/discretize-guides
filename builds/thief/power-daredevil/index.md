@@ -1,7 +1,7 @@
 ---
 title: 'Power Daredevil'
 date: '2018-09-18'
-rating: 'Good'
+rating: 'Great'
 role: 'Damage'
 profession: 'Thief'
 specialization: 'Daredevil'

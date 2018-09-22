@@ -12,9 +12,14 @@ benchmark:
   }
 skills: [5536]
 traits: [1502]
-boons: []
 conditions: ['Weakness', 'Vulnerability']
 ---
+
+The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS professions for fractals.
+
+Its burst comes very fast and doesn't depend as much on precasting as the [Power Staff Weaver](/builds/elementalist/power-staff-weaver) or [Power Tempest](/builds/elementalist/power-tempest) do. As you don't have long casting times and the rotation loops fluently it is very fun to play on days without meelee hate instabilities.
+
+Unfortunately the build has almost no utilities, apart from <Condition name="vulnerability"/>, an additional CC with <Skill name="Updraft"/> and the DPS you don't bring much to the group. The missing Arcane traitline with things like <Trait name="Final Shielding"/> make you inherently squishy as well.
 
 <Divider text="Equipment"/>
 
@@ -50,7 +55,7 @@ conditions: ['Weakness', 'Vulnerability']
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait name="Masters Fortitude" size="big" disableText/> | With <Trait name="Spotter"/> or more than 200 agony resistance you are crit capped without <Trait name="Superior Elements"/>, then you can take this for extra survivability. |
+| <Trait name="Masters Fortitude" size="big" disableText/> | With <Trait name="Spotter"/> or more than 200 agony resistance you are crit capped without <Trait name="Superior Elements"/>, then you can take this trait for extra survivability. |
 | <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Tempest Defense"/> (e.g. Artsariiv). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
 </Card>
@@ -168,14 +173,22 @@ conditions: ['Weakness', 'Vulnerability']
 
 <GridItem sm="5">
 <Card title="Opener">
-1. If a Mistlock Singularity is present
-   1. <Skill name="Conjure Fiery Greatsword"/> and reset its cooldown with it
-2. <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/>
-   1. <Skill name="Firestorm" profession="bundle"/> (if you have a <Skill name="Conjure Fiery Greatsword" disableText/>)
+- If a Mistlock Singularity is present
+   - <Skill name="Conjure Fiery Greatsword"/> and reset its cooldown with it
+   - Precast <Skill name="Firestorm" profession="bundle"/>
+- If the defiance bar won't be broken immediately (e.g. Ensolyss)
+   - Start in <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/>
+   - <Skill name="Flame Uprising"/> and <Skill name="Lava Skin"/>
+   - Attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> and delay until the bar is about to be broken
+   - Continue with the usual rotation
 
 </Card>
 
 <Card title="Advanced Notes">
+- Try to finish your auto-attack chains (<Skill name="Fire Attunement" disableText/>/<Skill name="Searing Slash" disableText/> and <Skill name="Air Attunement" disableText/>/<Skill name="Call Lightning" profession="elementalist" disableText/>)
+- Use <Skill name="Arcane Blast"/> when the target's defiance bar is broken and you have <Trait name="Elements of Rage"/> and <Skill name="Conjure Lightning Hammer"/> up
+- On small hitboxes <Skill name="Firestorm"/> is better than <Skill name="Lightning Storm"/>, use it while attuning to <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
+
 </Card>
 
 <Card title="Defiance Bar Damage">
