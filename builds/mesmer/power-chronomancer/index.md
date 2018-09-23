@@ -21,7 +21,7 @@ As Focus is used as a main weapon, <Skill id="10363"/> can <Control name="pull"/
 
 The build unfolds its full strength in fights with medium to long interphases, it excels at encounters like Arkk ([Shattered Observatory Fractal](https://discretize.eu/fractals/shattered-observatory)) but is not as good on short-lived fights with target switching like MAMA ([Nightmare Fractal](https://discretize.eu/fractals/nightmare)).
 
-It benefits heavily from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
+It benefits heavily from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment (150 AR and Spotter)"/>
 

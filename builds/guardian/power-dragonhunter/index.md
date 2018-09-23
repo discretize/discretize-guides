@@ -17,7 +17,7 @@ The <Specialization name="dragonhunter" text="Power Dragonhunter"/> is currently
 
 The build also offers strong on-demand party support with <Skill id="30039"/> and reflects like <Skill id="9251"/>.
 
-It benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
+It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 

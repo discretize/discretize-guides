@@ -20,7 +20,7 @@ Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and
 
 In general the Arcane variant is the most consistent for casual daily runs, take Air if your group's crowd control abilities are excellent and the target's defiance bar is almost permanently broken (e.g. Skorvald, Siax, Ensolyss).
 
-The build benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
+The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 

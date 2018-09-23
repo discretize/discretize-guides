@@ -17,7 +17,7 @@ effects: ['Stealth']
 
 However, it is highly susceptible to melee unfriendly Instabilities since you are constantly moving and relies on many unique conditions on their target.
 
-The build benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
+The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 

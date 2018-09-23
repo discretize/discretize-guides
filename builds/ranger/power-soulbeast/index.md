@@ -15,7 +15,7 @@ effects: ['Stealth']
 
 Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
 
-The build benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
+The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
