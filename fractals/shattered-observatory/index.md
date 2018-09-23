@@ -75,11 +75,15 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 
 <Tabs>
 <Tab specialization="chronomancer">
-**DISCLAIMER** <br/>
+## **DISCLAIMER** <br/>
 Chrono is not easy for a beginner, so it'll take some time for you to learn this properly.     
-*I believe in you.*
+*I believe in you.*<br/>
+If you have any questions or if you would like to flame me personally you can message me ingame @ Kensei.1495<br/>
+Also here's a playlist with some daily videos (Chrono PoV)[External Link](https://www.youtube.com/playlist?list=PLkGBjTsnpJdm5-4L-cTykV-nlZ7wuL5J1)
 
-For these pug strategies I will always assume that this is the comp you'll be running: <Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="Holosmith"/>/<Specialization name="Dragonhunter"/>/<Specialization name="Soulbeast"/>
+### **Pug Strategies**
+
+I will always assume that this is the comp you'll be running: <Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="Holosmith"/>/<Specialization name="Dragonhunter"/>/<Specialization name="Soulbeast"/>
 
 Since triple weaver is extremely hard to pull off in a group that is not organized due to the lack of CC, a <Specialization name="Dragonhunter"/>/<Specialization name="Holosmith"/>/Power<Specialization name="Soulbeast"/> helps shorten the CC gap and brings vulnerability to the fights.
 
@@ -90,11 +94,28 @@ Keep in mind that this has nothing to do with elitism or tryharding, most bosses
 
 In this guide I am also going to assume that you're running the proper gear/food and that your chronomancer basics are solid, with an emphasis on not wasting your concentration proc when swapping weapons.
 
-**Pug Version**
+### **Tryhard Strategies** <br/>
 
-Build: Chaos <br/>
-Weapons: Sword – Shield/Pistol <br/>
-Skills: <Skill id="21750"/>, <Skill id="10377"/>
+These guides are aimed for 5 players that are already very solid individually but want to take it to the next step in fractal encounters.<br/>
+These are also strategies aimed for smooth and fast daily runs, not speedrunning records.<br/>
+Do not attempt these strategies while pugging (for your own mental safety).
+
+Compositions:  
+<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>  
+<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="soulbeast"/> (More CC, more <Condition name="vulnerability"/>, <Skill id="12497"/>)<br/>
+<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="soulbeast"/>, <Specialization name="soulbeast"/> (my personal favorite)
+
+<Divider text=" Pug Strategy"/>
+
+#### Build: Chaos <br/>
+
+#### Weapons: Sword – Shield/Pistol <br/>
+
+#### Skills: <Skill id="21750"/>, <Skill id="10377"/>
+
+<br/>
+
+### **100%**
 
 Since pugs are notoriously bad at CCing , you'll be opening this fight with this sequence:
 
@@ -103,7 +124,7 @@ and then Signet + wells without using a phantasm, since you'll be casting that
 on the first island along with a distort (<Skill id="10192"/>) to share aegis and prevent getting hit
 by the stomp attack from the first add.
 
-**66%**
+### **66%**
 
 Islands are pretty straightforward. You ALWAYS want to cast wells before other skills, so that people won't miss them.
 
@@ -118,24 +139,15 @@ When the CC Bar is back up use your <Skill id="30643"/> and <Skill id="10287"/> 
 
 Here we go again
 
-**33%**
+### **33%**
 
 Follow the same steps above and remember to shatter and use a phantasm to activate passive <Skill name="Signet of Inspiration"/> when you get back to the boss before he does his knockback attack at the end so you can share some stability.
 
-**Tryhard**
+<Divider text=" Tryhard Strategy"/>
 
-**Disclaimer** <br/>
-This guide is aimed for 5 players that are already very solid individually but want to take it to the next step in fractal encounters.<br/>
-These are also strategies aimed for smooth and fast daily runs, not speedrunning records.<br/>
-Do not attempt these strategies while pugging (for your own mental safety).
+#### Chaos/Insp
 
-Compositions:  
-<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>  
-<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="soulbeast"/> (More CC, more <Condition name="vulnerability"/>, <Skill id="12497"/>)
-
-Chaos/Insp
-
-This fight is almost exactly 1:1 with the pug strategy .
+#### This fight is almost exactly 1:1 with the pug strategy .
 
 The only difference being that in an organized group,
 the damage should be so high that you will not get your <Skill id="29830"/> back up at 66%, hence you should do double
@@ -296,10 +308,10 @@ After the fight is over, take the portal in the North and move forward to get to
 <Tab specialization="chronomancer">
 From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics. Note that you can pre-stack clones on Artsariiv with <Skill id="10173"/>.
 
-**Pug Version**  
-Build: Chaos/Inspiration <Trait id="751"/>  
-Weapons: sword-shield/focus  
-Skills: <Skill id="30305"/>,<Skill id="10377"/>
+<Divider text="Pug Strategy"/>
+#### Build: Chaos/Inspiration <Trait id="751"/>  
+#### Weapons: sword-shield/focus  
+#### Skills: <Skill id="30305"/>,<Skill id="10377"/>
 
 **In this guide I am assuming that your group dps is low enough to get your <Skill id="29830"/> back at 66% and 33%**
 
@@ -314,22 +326,26 @@ Then, while the boss is bouncing to her corner, swap to shield and do a sword 3 
 This is because you want to cc the boss as much as you can with the double <Skill id="30643"/>.  
 To increase the group's chance of survival you should also place a <Skill id="10186"/> between the boss and the group, so that the orb autoattacks will be reflected.
 
-**66%**
+### **66%**
 
-**DO NOT SKIP THIS STEP**  
-After the cc phase is over , even before the boss is vulnerable(when shes in the middle of the arena), you have to <Skill id="10191"/> <Skill id="10190"/> and share with <Skill name="Signet of Inspiration"/>. We do this because the weavers will start casting <Skill id="5501"/> here and if they dont have any quickness while doing so, they'll right click your name and report you for botting.  
-**DO NOT SKIP THIS STEP**
+#### **DO NOT SKIP THIS STEP**
+
+> After the cc phase is over , even before the boss is vulnerable(when shes in the middle of the arena), you have to <Skill id="10191"/> <Skill id="10190"/> and share with <Skill name="Signet of Inspiration"/>. We do this because the weavers will start casting <Skill id="5501"/> here and if they dont have any quickness while doing so, they'll right click your name and report you for botting.
 
 Then go to the next corner and do all your <Skill id="29830"/> rotation on the boss, including <Skill id="10282"/> in <Skill id="29830"/> (without forgetting to <Skill id="10186"/> between the group and the boss to reflect) as your warrior will be jumping for the marbles.
 (Dont forget to heal your group with <Skill id="30305"/>, dont use it in a selfish way or they will go down) .
 
-Repeat the same for 33%
--In the last phase you can use your <Skill id="10377"/> out of <Skill id="29830"/> , if <Skill id="29830"/> is not back up yet.
+### **33%**
 
-**Tryhard**  
+Repeat the same
+
+- In the last phase you can use your <Skill id="10377"/> out of <Skill id="29830"/> , if <Skill id="29830"/> is not back up yet.
+
+<Divider text="Tryhard Strategy"/>
 To start this boss we will use the "nuke" strat that you can see in our speedrun videos. The point is that you completely skip the first anomaly by dpsing the boss to 66% before the explosion. Even if you don't make it because something prevented you to deal proper damage, I believe tanking the first anomaly explosion is still worth it, you'll just have to kill the anomaly in the next phases.
 
-**100%**  
+### **100%**
+
 1: Stack 3 clones on the boss before activating it (Using <Skill id="10173"/> or <Skill id="10310"/>).  
 2: Activate the boss.  
 3: The entire group uses special action to the corner.  
@@ -337,19 +353,22 @@ To start this boss we will use the "nuke" strat that you can see in our speedrun
 
 If the CC breakbar is broken slowly you will fail. ( Your warrior/Slb will help you out here)
 
-**66%(middle)**
+### **66%(middle)**
 
 Do NOT forget to <Skill name="Signet of Inspiration"/> before the boss is even vulnerable, your weavers need quickness to cast meteor shower. You can also heal the group with your well here and cast a Quick well as everyone will be stacked together.
 
-**66%(corner)**  
+### **66%(corner)**
+
 Special action to the corner the boss is moving to.  
 You can use your <Skill id="10377"/> here outside of <Skill id="29830"/>, along with your <Skill name="Signet of Inspiration"/> and eveything else that isn't on cooldown.  
 Protect your team by placing a <Skill id="10186"/>(Traited) between them and the boss to reflect the ball autoattacks.
 
-**33%(middle)**  
+### **33%(middle)**
+
 Since you will have your <Skill id="29830"/> up here, while staying close to the group you should <Skill name="Signet of Inspiration"/> + <Skill id="10282"/>(passive <Skill name="Signet of Inspiration"/>) inside <Skill id="29830"/> while staying in range of your team. Keep everything else for the next part.
 
-**33%(corner)**  
+### **33%(corner)**
+
 Simply spam all of your cooldowns, <Skill id="30305"/>, reflect and kill the boss as the warrior will be bouncing the orbs.
 </Tab>
 
@@ -412,7 +431,8 @@ Use <Skill id="14502"/>, <Skill name="Eviscerate" profession="Warrior"/>, <Skill
 - Ignoring Corporeal Reassignment: use `Nova Launch` to the corner where Artsariiv is about to be and avoid the shockwave of Artsariiv's staff leap combo. Place both your banners at Artsariiv and continue your usual rotation unless
   you have been assigned to do the marble bounce or you are doomed (/gg as doomed).
 - With Corporeal Reassignment: Same as 66%.
-  </Tab>
+
+</Tab>
 
 <Tab specialization="weaver">
 **Nuke**
@@ -528,15 +548,15 @@ The most important thing is to keep calm. Remember that every single ability can
 
 <Tabs>
 <Tab specialization="mesmer">
-Build: Chaos     
-Weapons: sword-shield/focus     
-Skills: <Skill id="30305"/>, <Skill id="10377"/>
+#### Build: Chaos     
+#### Weapons: sword-shield/focus     
+#### Skills: <Skill id="30305"/>, <Skill id="10377"/>
 
 Think of Arkk as a golem that becomes invulnerable once in a while, if your chrono basics are solid, your uptimes should not be a problem.
 
 Regardless of that, there are a few things you should keep in mind:
 
-**Pug**
+<Divider text="Pug Strategy"/>
 
 1. You always want to start on shield before cc phases (After the orb mechanics)
    so you can use your <Skill id="30643"/> + <Skill id="10287"/> and swap instantly to share boons.
@@ -545,8 +565,8 @@ Regardless of that, there are a few things you should keep in mind:
 4. This is helpful if you have time : use your <Skill id="10186"/> on the boss' hitbox to reflect the orb attacks ( keep in mind you still need to pull adds so dont use it if you're about to phase after ccing)
 5. Don't forget to INSTANTLY use <Skill id="10191"/>-<Skill id="10190"/> when the fight starts and <Skill id="10282"/> to proc passive <Skill name="Signet of Inspiration"/>, only then begin your rotation.(you don't want your weavers to wait a long time to get quickness or they will start flaming you).
 
-**Tryhard**  
-Exactly the same as pug Arkk.
+<Divider text="Tryhard Strategy"/> 
+#### Exactly the same as pug Arkk.
 
 This fight is generally more intense for your weavers, as they have to manage cds properly while dodging mechanics that one-shot them. Please be patient if they start cursing in voice chat. Always keep a positive mental attitude.
 </Tab>
