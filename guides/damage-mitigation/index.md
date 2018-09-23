@@ -183,6 +183,8 @@ You can block more by jumping
 (Heal skill, also heals you for incoming damage but does not prevent conditions or control effects)
 * <Skill id="14392"/> <Specialization disableText name="warrior"/>  
 (Utility skill, does not prevent conditions or control effects)
+* <Skill id="44165"/> <Specialization disableText name="spellbreaker"/> (F2  Counterattack Evasion: 0.5 seconds)
+ 
 </Card>
 </GridItem>
 
