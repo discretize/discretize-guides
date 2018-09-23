@@ -53,11 +53,16 @@ Fast crowd control and animation knowledge are the keys to this fight.
 
 <Tabs>
 <Tab specialization="chronomancer">
-**DISCLAIMER** <br/>
-Chrono is not easy for a beginner, so it'll take some time for you to learn this properly.     
-*I believe in you.*
+## **DISCLAIMER**
 
-For these pug strategies I will always assume that this is the comp you'll be running: <Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="Holosmith"/>/<Specialization name="Dragonhunter"/>/<Specialization name="Soulbeast"/>
+Chrono is not easy for a beginner, so it'll take some time for you to learn this properly.  
+_I believe in you._<br/>
+If you have any questions or if you would like to flame me personally you can message me ingame @ Kensei.1495<br/>
+Also here's a playlist with some daily videos (Chrono PoV)[External Link](https://www.youtube.com/playlist?list=PLkGBjTsnpJdm5-4L-cTykV-nlZ7wuL5J1)
+
+### **Pug Strategies**
+
+I will always assume that this is the comp you'll be running: <Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="Holosmith"/>/<Specialization name="Dragonhunter"/>/<Specialization name="Soulbeast"/>
 
 Since triple weaver is extremely hard to pull off in a group that is not organized due to the lack of CC, a <Specialization name="Dragonhunter"/>/<Specialization name="Holosmith"/>/Power<Specialization name="Soulbeast"/> helps shorten the CC gap and brings vulnerability to the fights.
 
@@ -68,57 +73,77 @@ Keep in mind that this has nothing to do with elitism or tryharding, most bosses
 
 In this guide I am also going to assume that you're running the proper gear/food and that your chronomancer basics are solid, with an emphasis on not wasting your concentration proc when swapping weapons.
 
-99CM is a fractal level that relies heavily on CC bars being broken
-fast, there is little room for mistakes, especially while playing chrono.  
-You should never pug this with a triple weaver comp, go for 2 <Specialization name="weaver"/> and an extra dps class that will help you break CC bars like <Specialization name="Dragonhunter"/>/<Specialization name="Holosmith"/>/Power <Specialization name="Soulbeast"/>.  
-Your <Specialization name="Warrior"/> will have to help you CC as well. If your team does not help you with this, there's not really much you can do.
-Regardless, don't flame them, if you want to improve try to record your gameplay and see if you could've done anything different to carry the fight harder.
+### **Tryhard Strategies** <br/>
 
-**Pug**  
-Build: Chaos  
-Weapons: sword/shield pistol  
-Skills: <Skill id="29519"/>
+These guides are aimed for 5 players that are already very solid individually but want to take it to the next step in fractal encounters.<br/>
+These are also strategies aimed for smooth and fast daily runs, not speedrunning records.<br/>
+Do not attempt these strategies while pugging (for your own mental safety).
 
-**100%-75%**  
+Compositions:  
+<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>  
+<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="soulbeast"/> (More CC, more <Condition name="vulnerability"/>, <Skill id="12497"/>)<br/>
+<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="soulbeast"/>, <Specialization name="soulbeast"/> (my personal favorite)
+
+> 99CM is a fractal level that relies heavily on CC bars being broken fast, there is little room for mistakes, especially while playing chrono.  
+> You should never pug this with a triple weaver comp, go for 2 <Specialization name="weaver"/> and an extra dps class that will help you break CC bars like <Specialization name="Dragonhunter"/>/<Specialization name="Holosmith"/>/Power <Specialization name="Soulbeast"/>.  
+> Your <Specialization name="Warrior"/> will have to help you CC as well. If your team does not help you with this, there's not really much you can do.
+> Regardless, don't flame them, if you want to improve try to record your gameplay and see if you could've done anything different to carry the fight harder.<br/>
+
+<Divider text="Pug Strategy"/> 
+#### Build: Chaos  
+#### Weapons: sword/shield pistol  
+#### Skills: <Skill id="29519"/>
+
+<br/>
+
+### **100%-75%**
+
 Run in and wait for the boss to spawn, right before it becomes vulnerable use <Skill id="10191"/>+<Skill id="10190"/> to get some boons on youself , when the boss is vulnerable use <Skill id="10175"/> to proc passive <Skill id="10236"/> and then right before its first attack hits use your <Skill id="10192"/> to give Aegis to the group.
 
 You're now ready to cc the boss.
 
-**Be Fast**  
-Get 1 clone up with sword 3, cast <Skill id="30643"/> and mid-cast use your <Skill id="29830"/>, proceed to use your <Skill id="10236"/> and then <Skill id="29519"/>.  
+#### **Be Fast**
+
+Get 1 clone up with sword 3, cast <Skill id="30643"/> and mid-cast use your <Skill id="29830"/>, proceed to use your <Skill id="29519"/> and then <Skill id="10236"/>.  
 **Be Fast**
 
-**First Knight**  
+### **First Knight**
+
 You have every cooldown available, quickly use your <Skill id="30643"/> on the add, use your wells, swap to get your concentration proc , <Skill id="10236"/> and wait for your group to kill it.
 
-**75%-50%**  
+### **75%-50%**
+
 Your passive <Skill id="10236"/> should be up a few seconds after the bubble ends, try to keep track of the internal cooldown in your mind.
 
 Now this will sound a bit strange, but it's better if you don't fully break the cc bar during this phase, try to leave it at 10%/20% instead , get the boss to 50% HP and move to the next add.
 
-**Second Knight**  
+### **Second Knight**
+
 Use your <Skill id="30643"/> on this add as well (and <Skill id="10287"/> possibly), wait for your team and proceed to share boons once again and kill it.
 
-**50%-25%**
+### **50%-25%**
 
 This is where you want to break the CC bar instantly (since we left it at 10%/20% before).
 This allows you to burst the boss hard to 25% and get to the last add before the fight gets annoying.
 
-**Third Knight**  
-**Be fast**  
+### **Third Knight**
+
+#### **Be fast**
+
 If you have <Skill id="29830"/> : Use your <Skill id="29519"/> on it and press <Skill id="29830"/> in the middle of the cast so you can <Skill id="29519"/> both the add and the boss after (Also share some boons or cast wells inside <Skill id="29830"/>). Then proceed to destroy the add.
 
 If you don't have <Skill id="29830"/> : <Skill id="29519"/> the add , share boons and whatnot and kill it.  
 **Be fast**
 
-**25%-0%**  
+### **25%-0%**
+
 If you still have a <Skill id="29519"/>, Congratulations! It's your lucky day. <Skill id="29519"/> the boss, drop all the cc you have on it , share boons and kill it.
 
 If not, use your <Skill id="30643"/> and make sure it hits the boss , <Skill id="10287"/>, pray that your team CC's as well and finish the boss.
 
-**Tryhard**  
-Exactly the same as Pug MAMA, except you won't have CS for the Third Add .
-Simply Moa the third add instantly and ToT+F3 MAMA on the 25 – 0 phase.
+<Divider text="Tryhard Strategy"/>
+Exactly the same as Pug MAMA, except you won't have <Skill id="29830"/> for the Third Add .
+Simply <Skill id="29519"/> the third add instantly and <Skill id="30643"/>+<Skill id="10287"/> MAMA on the 25 – 0 phase.
 </Tab>
 
 <Tab specialization="warrior">
@@ -244,16 +269,17 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
 
 <Tabs>
 <Tab specialization="chronomancer">
-Build: Chaos     
-Weapons: sword/shield- greatsword/staff     
-Skills: <Skill id="21750"/>, <Skill id="29519"/>
+#### Build: Chaos     
+#### Weapons: sword/shield- greatsword/staff     
+#### Skills: <Skill id="21750"/>, <Skill id="29519"/>
 
-You want to play GS or Staff on this boss because:
+### You want to play GS or Staff on this boss because:
 
 1. As soon as the boss spawns you can instantly share boons with either <Skill id="10221"/> or <Skill id="10216"/>.
 2. You generate an extra clone that will be very useful for your <Skill id="29830"/> by using <Skill id="10310"/> or <Skill id="10333"/>.
 
-**100%-66%**  
+<Divider text="Pug Strategy"/>
+### **100%-66%**  
 As soon as the boss spawns you will use <Skill id="10191"/> + <Skill id="10190"/> to get boons up and share using passive <Skill id="10236"/> (<Skill id="10221"/> or <Skill id="10216"/> depending on what you're running).
 
 You will also use <Skill id="10333"/> or <Skill id="10310"/> to get the extra clone we talked about.
@@ -262,28 +288,33 @@ You're then going to swap to sword, use <Skill id="10173"/> to get an extra clon
 
 <Skill id="30643"/>(MID <Skill id="29830"/>) -> <Skill id="10236"/> -> <Skill id="29519"/>+<Skill id="10287"/>(the cc bar will be up by now) -> Both Wells -> <Skill id="29830"/> END -> <Skill id="10236"/>
 
-**First Split**  
+### **First Split**
+
 You will help your <Specialization name="Warrior"/> (or a <Specialization name="weaver"/>) kill his add in this phase and go back to the boss waiting for it to get vulnerable again.
 
-**66%-33%**  
+### **66%-33%**
+
 Cast your wells and <Skill id="10236"/> as soon as it's off cooldown, also try to distort (<Skill id="10192"/>) the circle attack so that your group can keep doing dps without having to dodge.
 
 Generally pug's dps is low so it's likely that you will get another breakbar in this phase, if the boss' HP is above 40% I suggest you try to break it using your <Skill id="30643"/>+<Skill id="10287"/>, if it's below 40% try to dps the boss to 33% so that the breakbar will disappear.
 
-**Second Split**  
+### **Second Split**
+
 You will help your <Specialization name="Warrior"/> (or a <Specialization name="weaver"/>) kill his add in this phase and go back to the boss waiting for it to get vulnerable again.
 
-**33%-0%**  
+### **33%-0%**
+
 When you get back to the boss you have to share with <Skill id="10236"/> and cast both wells, then there are 2 possibilities:
 
-1. If you saw no cc bar on the 66 – 33 phase, the cc bar in this phase will be up very soon, so distance yourself from the boss, when its up cast <Skill id="30643"/> (make sure you're still in range), <Skill id="29519"/>, <Skill id="10287"/> and either <Skill id="10220"/> or <Skill id="10169"/> depending on what you're playing.
-2. If you did cc during 66 – 33 , the next bar will be very delayed and you can simply share boons, wait and cc using <Skill id="30643"/>+<Skill id="29519"/>+<Skill id="10287"/> when the bar is up.
+> If you saw no cc bar on the 66 – 33 phase, the cc bar in this phase will be up very soon, so distance yourself from the boss, when its up cast <Skill id="30643"/> (make sure you're still in range), <Skill id="29519"/>, <Skill id="10287"/> and either <Skill id="10220"/> or <Skill id="10169"/> depending on what you're playing.
+
+> If you did cc during 66 – 33 , the next bar will be very delayed and you can simply share boons, wait and cc using <Skill id="30643"/>+<Skill id="29519"/>+<Skill id="10287"/> when the bar is up.
 
 It's not always the same, so you need to become versatile because chrono does not work on a rotation basis, but if you keep these steps in mind you should be fine.
 
-**Tryhard**  
+<Divider text="Tryhard Strategy"/>
 The only difference here is that with good dps you will not get a breakbar during the 66 – 33 phase.  
-Keep Moa and ToT for the 33 – 0 phase to instantly break the bar and kill the boss.  
+Keep <Skill id="29519"/> and <Skill id="30643"/> for the 33 – 0 phase to instantly break the bar and kill the boss.  
 If you do get a breakbar in phase 2 `\gg`->leave party and search for a better group.
 </Tab>
 
@@ -376,14 +407,17 @@ When Ensolyss reaches 15% health, he will stop using his usual attacks, but only
 
 <Tabs>
 <Tab specialization="chronomancer">
-Build: Chaos     
-Weapons: sword/shield - staff      
-Skills: <Skill id="30305"/>, <Skill id="29519"/>     
+
+#### Build: Chaos
+
+#### Weapons: sword/shield - staff
+
+#### Skills: <Skill id="30305"/>, <Skill id="29519"/>
+
 The only "challenging" part about this boss for you is the opener as it will require a bit of good timing and mechanical skill, you can even practice this part alone on the boss if you want to.
 
-**Pug**
-
-**100%-66%**  
+<Divider text="Pug Strategy"/>
+### **100%-66%**  
 When the boss spawns, wait a few seconds for it to get vulnerable then:
 
 1. Very quickly <Skill id="10191"/>+<Skill id="10190"/> to get boons up and <Skill id="10216"/> to proc passive <Skill id="10236"/>
@@ -400,20 +434,25 @@ If you do this correctly, the 2 Phantasms from <Skill id="10216"/> will expire w
 
 Don't use your <Skill id="29519"/> for the rest of this phase.
 
-**66%-33%**  
+### **66%-33%**
+
 (It gets easier now)  
 As soon as you're back on the boss, Use <Skill id="10236"/> and after that both wells, then CC the boss with the help of your friends.  
 Wait for the bubble, and when the next breakbar is up your <Skill id="29830"/> should be up as well.  
 Simply do your whole rotation in <Skill id="29830"/> without forgetting to squeeze in <Skill id="29519"/> and <Skill id="30643"/> to CC the second bar.
 
-**33%-0%**  
+### **33%-0%**
+
 Use <Skill id="10236"/> and after that both wells, then CC the boss with the help of your friends. If you do not have friends remember that <Item id="8664"/>s, <Item id="8759"/>s and <Item id="8678"/>s will never betray you.
 
-**Tryhard**  
+<Divider text="Tryhard Strategy"/>
 Again, the opening on this fight is exactly the same as pug Enso.  
-At 66% you will not have access to your <Skill id="29830" disableText/> so you can use it for boons or keep it for 33% to double <Skill id="30643" disableText/> / <Skill id="10236" disableText/>.  
-On the first bar at 66% you will want to <Skill id="30643" disableText/> and <Skill id="10287" disableText/> , and for the second one use <Skill id="29519" disableText/> and <Skill id="10169" disableText/>.  
+ At 66% you will not have access to your <Skill id="29830"/> so you can keep it for 33% to double <Skill id="30643"/> / <Skill id="10236"/>.
+
+> On the first bar at 66% you will want to <Skill id="30643"/> and <Skill id="10287"/> , and for the second one use <Skill id="29519"/> and <Skill id="10169"/>.
+
 You want to break both bars so that the boss will stay stunned during the whole phase so that you won't lose time by getting the bubble spawn ( Your group dps has to be high in order to achieve this).
+
 </Tab>
 
 <Tab specialization="warrior">
