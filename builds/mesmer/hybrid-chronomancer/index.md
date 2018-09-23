@@ -14,11 +14,11 @@ conditions: ['Vulnerability']
 effects: ['Stealth']
 ---
 
-The <Specialization prefix="hybrid" name="chronomancer"/> is the ideal support variant if you're playing with a <Specialization name="druid"/> and <Specialization name="weaver" prefix="air"/>s. It provides permanent <Boon name="quickness"/>, <Boon name="alacrity"/> and around 10x <Boon name="might"/> while dealing relatively high personal DPS.
+The <Specialization text="Hybrid Chronomancer" name="chronomancer"/> is the ideal support variant if you're playing with a <Specialization name="druid"/> and <Specialization name="weaver" text="Air Weaver"/>s. It provides permanent <Boon name="quickness"/>, <Boon name="alacrity"/> and around 10x <Boon name="might"/> while dealing relatively high personal DPS.
 
 With the **Dueling/Illusions** variant you have to run <Skill id="10311"/> to keep up <Boon name="quickness"/> and can't share <Boon name="aegis"/> but gain <Boon name="vigor"/> and deal high DPS; while the **Inspiration/Illusions** variant allows you to run <Skill id="29519"/> and spam group <Boon name="aegis"/> with <Trait id="1852"/>, <Trait id="1980"/>, <Trait id="1890"/>, <Trait id="1869"/>, <Skill id="10236"/> and <Trait id="1866"/>.
 
-The build has access to the usual mesmer utilities being <Skill id="10197"/> and <Effect name="stealth"/> skips, strong reflects, boon stripping and amazing crowd control skills. You can also run a focus for <Skill id="10363"/> <Control name="pull"/>s and reflects with <Trait id="751"/>.
+The build has access to the usual mesmer utilities such as <Skill id="10197"/> and <Effect name="stealth"/> skips, strong reflects, boon strip and amazing crowd control skills. You can also run a focus for <Skill id="10363"/> <Control name="pull"/>s and reflects with <Trait id="751"/>.
 
 While the sheer amount of possibilities are nice to look at, the Chronomancer is one of the harder builds to play as the skills require timing and good dynamic decision-making.
 
@@ -149,13 +149,18 @@ It also has access to reflects and more frequent <Control name="pull"/>s on focu
 
 <GridItem sm="5">
 <Card title="Skill priority">
-As it is near impossible to follow a fixed rotation in fractals, try to keep to the following list of priorities:
+As it is almost impossible to follow a fixed rotation in fractals, try to keep to the following list of priorities:
 
 1. Keep up <Boon name="quickness"/> using <Skill id="10311"/>, <Skill id="30814"/>, <Trait id="729"/> and <Skill id="10236"/>
 2. Keep up <Boon name="alacrity"/> using <Skill id="30643"/>, <Skill id="29856"/>, <Trait id="1927"/> and <Skill id="10236"/>
 3. With Inspiration you have another <Skill id="29724"/> on every phantasm summon due to <Trait id="1866"/>
 4. Break any defiance bar as fast as possible using <Skill id="30643"/>, <Skill id="10287"/> and <Skill id="29519"/>
-5. Do as much DPS as possible 1. Use <Skill id="10174"/> with <Skill id="21750"/> whenever ready 2. Use <Skill id="10334"/> off recharge, possibly twice with <Skill id="29830"/> (with three illusions) 3. Don't interrupt your auto-attack chains as the third hit (<Skill id="10172"/>) deals the most damage 4. Cast <Skill id="49068"/> (twice if traited) followed by <Skill id="10190"/> whenever you have three illusions up and don't plan to use <Skill id="29830"/> in the next 15 seconds 5. <Skill id="30769"/> is not worth using over auto-attack for DPS but grants <Boon name="protection"/>
+5. Do as much DPS as possible
+   1. Use <Skill id="10174"/> with <Skill id="21750"/> whenever ready
+   2. Use <Skill id="10334"/> off recharge, possibly twice with <Skill id="29830"/> (with three illusions)
+   3. Don't interrupt your auto-attack chains as the third hit (<Skill id="10172"/>) deals the most damage
+   4. Cast <Skill id="49068"/> (twice if traited) followed by <Skill id="10190"/> whenever you have three illusions up and don't plan to use <Skill id="29830"/> in the next 15 seconds
+   5. <Skill id="30769"/> is not worth using over auto-attack for DPS but grants <Boon name="protection"/>
 
 </Card>
 </GridItem>

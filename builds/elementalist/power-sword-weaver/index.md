@@ -15,11 +15,13 @@ traits: [1502]
 conditions: ['Weakness', 'Vulnerability']
 ---
 
-The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS professions for fractals.
+The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals.
 
-Its burst comes very fast and doesn't depend as much on precasting as the [Power Staff Weaver](/builds/elementalist/power-staff-weaver) or [Power Tempest](/builds/elementalist/power-tempest) do. As you don't have long casting times and the rotation loops fluently it is very fun to play on days without meelee hate instabilities.
+It has quick burst damage and doesn't rely as much on pre-casting as [Power Staff Weaver](/builds/elementalist/power-staff-weaver) or [Power Tempest](/builds/elementalist/power-tempest). Since you don't have long casting times and the rotation loops fluently, it is fun to play as long as there are no Instabilities that discourage melee interactions.
 
-Unfortunately the build has almost no utilities, apart from <Condition name="vulnerability"/>, an additional CC with <Skill name="Updraft"/> and the DPS you don't bring much to the group. The missing Arcane traitline with things like <Trait name="Final Shielding"/> make you inherently squishy as well.
+Aside from <Condition name="vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS the Power Sword Weaver build unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
+
+The build benefits heavily from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -70,9 +72,9 @@ Unfortunately the build has almost no utilities, apart from <Condition name="vul
 | <Skill name="Arcane Wave" size="big" disableText/> | Deals the same damage as <Skill name="Arcane Blast"/> but on multiple foes. Also useful to generate <Boon name="might"/> with a fire field. |
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
 | <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
-| <Skill name="Arcane Brilliance" size="big" disableText/> | Sometimes taken to blast <Boon name="might"/> on fights like Skorvald. |
+| <Skill name="Arcane Brilliance" size="big" disableText/> | Sometimes used to blast <Boon name="might"/> in fights like Skorvald. |
 | <Skill name="Glyph of Elementals" size="big" disableText/> | If you can't benefit from <Skill name="Conjure Fiery Greatsword"/>. |
-| <Skill name="Aquatic Stance" size="big" disableText/> | An alternative healing skill providing additional group heal. |
+| <Skill name="Aquatic Stance" size="big" disableText/> | An alternative heal skill providing additional group heal. |
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
 </Card>

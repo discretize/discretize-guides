@@ -11,7 +11,11 @@ conditions: ['Vulnerability']
 effects: ['Stealth']
 ---
 
-<Specialization name="Soulbeast" prefix="power"/> is a DPS class you can pick alongside <Specialization name="Weaver"/> for maximum damage. It has party buff with <Skill id="12497"/> and one of the best DPS for fractals. The builds are with no <Trait name="Spotter"/>. If you have spotter you can go full Berserker gear with 150 AR.
+<Specialization name="Soulbeast" text="Power Soulbeast"/> is a DPS build with very high burst damage that in addition provides a strong party buff with <Skill name="Frost Spirit"/> (in groups without a Druid), some <Condition name="Vulnerability"/> and crowd control skills.
+
+Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
+
+The build benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -26,7 +30,7 @@ effects: ['Stealth']
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
 
 <Card title="Swap Weapons">
-* Warhorn when <Boon name="might"/> is blasted. Also useful as a replacement for Greatsword one some bosses (e.g. Skorvald).
+* Warhorn for <Boon name="might"/> pre-stacking. Also useful as a replacement for Greatsword one some bosses (e.g. Skorvald).
 * Sword with <Item name="Night" type="Sigil"/> and other with <Item name="Serpent Slaying" type="Sigil"/>
 * Axes and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
 </Card>

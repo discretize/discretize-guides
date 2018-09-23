@@ -1,6 +1,6 @@
 ---
 title: 'Banner Warrior'
-date: '2018-07-01'
+date: '2018-09-18'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
@@ -11,13 +11,15 @@ traits: [1482]
 conditions: ['Vulnerability']
 ---
 
-The <Specialization prefix="banner" name="warrior"/> is the superior build for warriors in fractals.
+The <Specialization text="Banner Warrior" name="warrior"/> is the superior build for warriors in fractals.
 
 Besides providing the group with strong unique damage buffs (<Skill id="14405"/>, <Skill id="14407"/> and <Trait id="1482"/>) and having excellent defiance bar damage with the Mace/Mace set, the build also has a relatively high burst damage potential on both small and large hitboxes for a support role.
 
 If enemy boons are present, the <Specialization name="spellbreaker"/> specialization can be taken to reliably remove them with <Skill id="45252"/> and <Trait id="2162"/>. Another advantage of this variation is the strong on-demand projectile destruction with <Skill id="45333"/>.
 
 Furthermore, the build is able to use damage modifying sigils like <Item id="24868"/> as well as slaying potions such as <Item id="50082"/>. As a support warrior, your focus is first and foremost providing the group with aforementioned damage buffs and removing boons, secondly breaking the defiance bar while following your optimized damage rotation.
+
+The build benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment (150 AR and Spotter)"/>
 

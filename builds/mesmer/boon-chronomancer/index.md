@@ -1,6 +1,6 @@
 ---
 title: 'Boon Chronomancer'
-date: '2018-05-16'
+date: '2018-09-18'
 rating: 'Meta'
 role: 'Support'
 profession: 'Mesmer'
@@ -27,11 +27,11 @@ conditions: ['Vulnerability']
 effects: ['Stealth']
 ---
 
-Yes, you've read right - the <Specialization prefix="boon" name="chronomancer"/> or <Specialization prefix="chaos" name="chronomancer"/> is capable of providing **every single boon** in the game to the party. You can permanently keep up ten boons plus <Boon name="aegis"/> and some <Boon name="resistance"/> which has great synergy with your own trait <Trait id="1865"/>, the <Specialization name="warrior"/>'s <Trait id="1471" profession="warrior"/> and the <Specialization name="weaver" prefix="arcane"/>'s <Trait id="1511" profession="elementalist"/>.
+Yes, you've read correctly - the <Specialization text="Boon Chronomancer" name="chronomancer"/> or <Specialization text="Chaos Chronomancer" name="chronomancer"/> is capable of providing **every single boon** in the game to the party. You can permanently keep up ten boons plus <Boon name="aegis"/> and some <Boon name="resistance"/> which has great synergy with your own trait <Trait id="1865"/>, the <Specialization name="warrior"/>'s <Trait id="1471" profession="warrior"/> and the <Specialization name="weaver" text="Arcane Weaver"/>'s <Trait id="1511" profession="elementalist"/>.
 
-This is the recommended build variant if you plan to play **without a <Specialization name="druid"/> and a third <Specialization name="weaver" prefix="arcane"/> instead**, as one additional <Trait id="264" profession="elementalist"/> is enough to keep up 25x <Boon name="might"/> in combination with your own might output - making <Skill id="31582" profession="ranger"/>, <Skill id="12497" profession="ranger"/> and <Trait id="1016" profession="ranger"/> (redundant with <Trait id="2177" profession="elementalist"/> in fractals) the only loss while you gain much more DPS. The slow ramp-up time for <Boon name="might"/> is compensated by pre-stacking.
+This is the recommended build if you plan on playing **without a <Specialization name="druid"/> and a third DPS instead**, as one additional <Trait id="264" profession="elementalist"/> is enough to keep up 25x <Boon name="might"/> in combination with your own might output - making <Skill id="31582" profession="ranger"/>, <Skill id="12497" profession="ranger"/> and <Trait id="1016" profession="ranger"/> (redundant with <Trait id="2177" profession="elementalist"/> in fractals) the only loss while you gain much more DPS. The slow ramp-up time for <Boon name="might"/> is compensated by pre-stacking.
 
-On top of all that the build has access to the usual mesmer utilities being <Skill id="10197"/> and <Effect name="stealth"/> skips, strong reflects, boon stripping and amazing crowd control skills such as <Skill id="29519"/>.
+On top of the aforementioned, the build has access to the usual mesmer utilities being <Skill id="10197"/> and <Effect name="stealth"/> skips, strong reflects, boon stripping and amazing crowd control skills such as <Skill id="29519"/>.
 
 While the sheer amount of possibilities are nice to look at, the Chronomancer is one of the harder builds to play as the skills require timing and good dynamic decision-making.
 
@@ -64,7 +64,7 @@ Note that you can also run an Offhand Sword instead of Staff for better DPS. It'
 
 The **Healing Variant** can be used if your party has trouble surviving without a dedicated healer. Note that using full Minstrel equipment, 6x <Item id="24842"/>, <Trait id="1865"/> and <Item id="79722"/> puts you above 100% Boon Duration already - no <Item id="72339"/> needed. You can replace Minstrel with Cleric items for even more Healing Power if you have additional Concentration (like from having more Agony Resistance).
 
-Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="1987"/>, <Boon name="regeneration"/> and your healing skill. Keep in mind that <Trait id="757"/> is a strong condition cleanse combined with <Skill id="10213"/> charges. If you have <Trait id="738"/> traited, you can use up mantra charges as the preparation itself heals already as well.
+Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="1987"/>, <Boon name="regeneration"/> and your heal skill. Keep in mind that <Trait id="757"/> is a strong condition cleanse combined with <Skill id="10213"/> charges. If you have <Trait id="738"/> traited, you can use up mantra charges as the preparation itself heals already as well.
 
 <Grid>
 <GridItem sm="4">
@@ -91,8 +91,8 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait id="1995" size="big" disableText/> | A very slight DPS increase in case you don't need the healing from <Trait id="1987"/>. |
-| <Trait id="751" size="big" disableText/> | Use it together with a focus for frequent <Control name="pull"/>s and reflects. |
+| <Trait id="1995" size="big" disableText/> | A very small DPS increase in case you don't need the heal from <Trait id="1987"/>. |
+| <Trait id="751" size="big" disableText/> | Use it in combination with a focus for frequent <Control name="pull"/>s and reflects. |
 | <Trait id="674" size="big" disableText/> | Increases the duration of all your <Effect name="stealth"/> skills by 50%. |
 | <Trait id="752" size="big" disableText/> | Two seconds longer duration for Glamour skills like <Skill id="10197"/>. |
 </Card>
@@ -104,7 +104,7 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill id="10311" size="big" disableText/> | If you don't need CC, this a is a higher DPS option combined with <Trait id="1890"/>. |
+| <Skill id="10311" size="big" disableText/> | If you don't need crowd control, this a is a higher DPS option combined with <Trait id="1890"/>. |
 | <Skill id="21750" size="big" disableText/> | A personal DPS increase. |
 | <Skill id="34326" size="big" disableText/> | One of the strongest reflect skills, protecting everyone inside from projectiles for 6 seconds. |
 | <Skill id="10197" size="big" disableText/> | Party escort service. |
