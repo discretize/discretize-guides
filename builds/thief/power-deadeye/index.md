@@ -13,7 +13,11 @@ conditions: ['Vulnerability']
 effects: ['Stealth']
 ---
 
-The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but it's lack of cleave and being hard to stay alive with makes it more off-meta in fractals. It has an extremely simple rotation and offers great mobility for skips, as well as endless party <Effect name="stealth"/> (though a <Specialization name="druid"/> fills this role perfectly).
+<Specialization name="Deadeye" text="Power Deadeye"/> has very high and consistent single target DPS and provides a strong crowd control and some <Condition name="Vulnerability"/> as well as plenty sources for <Effect name="Stealth"/>. In addition, the Deadeye rotation is very simplistic.
+
+However, the Deadeye suffers from low survivability, it is highly susceptible to melee unfriendly Instabilities, has almost no cleave damage and relies on being able to flank as well as many unique conditions on their target.
+
+The build benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -28,7 +32,7 @@ The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but
 <Card title="Alternative weapons">
 * Dagger with <Item id="36053" text="false"/> / <Item id="24615" text="false"/> and slaying sigils  
   (<Item id="36054"/> doesn't stack anymore)
-* A Shortbow to blast <Boon name="might"/>
+* A shortbow to stack <Boon name="might"/>, <Effect name="Stealth"/> and to skip
 </Card>
 </GridItem>
 
@@ -53,7 +57,7 @@ The <Specialization name="Deadeye" prefix="power"/> is fine for meta groups, but
 | | |
 | -- | -- |
 | <Skill id="13117" size="big" text="false"/> | Group stealth. |
-| <Skill id="13065" size="big" text="false"/> | Drop it to blast <Effect name="stealth"/> for skips or destroy projectiles. |
+| <Skill id="13065" size="big" text="false"/> | Use it to stack <Effect name="stealth"/> for skips or destroy projectiles. |
 | <Skill id="13002" size="big" text="false"/> | 1200 range teleport, use it again to teleport back. |
 | <Skill id="13044" size="big" text="false"/> | 3 seconds AoE <Effect name="stealth"/> (also another blast). |
 </Card>

@@ -14,7 +14,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 
 The <Specialization name="Tempest" text="Power Tempest"/> is a strong DPS variant for fractals with various utilities the <Specialization name="weaver"/> counterpart doesn't offer.
 
-It has very high burst in fast-paced fights and its overall DPS is only contested by the [Sword Weaver](/builds/elementalist/power-sword-weaver) and [Staff Weaver](/builds/elementalist/power-staff-weaver) on huge hitboxes.  
+It has very high burst damage in fast-paced fights and its overall DPS is only contested by the [Sword Weaver](/builds/elementalist/power-sword-weaver) and [Staff Weaver](/builds/elementalist/power-staff-weaver) on huge hitboxes.  
 Thanks to <Skill name="Overload Air"/> the group's damage is buffed by around 1k DPS, so at least one <Specialization name="Tempest"/> is never a bad idea when thinking about group composition.
 
 Apart from great DPS, the build afflicts tons of <Condition name="vulnerability"/> and helps keeping up <Boon name="might"/> with <Trait name="Elemental Attunement"/> and <Skill name="Heat Sync"/>. Another bonus is the extended boon duration from <Trait name="Imbued Melodies"/> on the entire party making the life of your <Specialization name="Chronomancer"/> a little bit easier.
@@ -25,6 +25,8 @@ Contrary to the [Sword Weaver](/builds/elementalist/power-sword-weaver), melee h
 
 The degree of difficulty is a little bit higher than the other <Specialization name="Elementalist"/> builds as you need to adhere many small things to achieve top numbers.  
 The positiong and timing of skills matter a lot, a single mistake can make your DPS end up several thousands below other damage dealers.
+
+The build benefits heavily from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -94,7 +96,7 @@ The positiong and timing of skills matter a lot, a single mistake can make your 
 | <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Tempest Defense"/> (e.g. Artsariiv). |
 | <Trait name="Renewing Stamina" size="big" disableText/> | If you don't get enough <Boon name="vigor"/> from your <Specialization name="chronomancer"/>. |
 | <Trait name="Elemental Contingency" size="big" disableText/> | If you don't get enough <Boon name="retaliation"/> from your <Specialization name="chronomancer"/>. |
-| <Trait name="Lucid Singularity" size="big" disableText/> | Counters conditions while overloading, useful for things like the immobilizing consoles in [Aetherblade Fractal](/fractals/aetherblade). |
+| <Trait name="Lucid Singularity" size="big" disableText/> | Counters movement-impairing conditions while overloading, useful in scenarios like the <Condition name="Immobile"/> on interact with the consoles in [Aetherblade Fractal](/fractals/aetherblade). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
 </Card>
 </GridItem>
@@ -110,13 +112,13 @@ The positiong and timing of skills matter a lot, a single mistake can make your 
 | <Skill name="Arcane Wave" size="big" disableText/> | Deals the same damage as <Skill name="Arcane Blast"/> but on multiple foes. Also useful to generate <Boon name="might"/> with a fire field. |
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
 | <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
-| <Skill name="Arcane Brilliance" size="big" disableText/> | Sometimes taken to blast <Boon name="might"/> on fights like Skorvald. |
+| <Skill name="Arcane Brilliance" size="big" disableText/> | Sometimes used to blast <Boon name="might"/> in fights like Skorvald. |
 | <Skill name="Glyph of Elementals" size="big" disableText/> | If you can't benefit from <Skill name="Conjure Fiery Greatsword"/>. |
 | <Skill name="Rebound" size="big" disableText/> | Prevents otherwise deathly mechanics for the entire group, like Corporal Reassignment (Doomed) at Artsariiv or Arkk. |
-| <Skill name="Wash the pain away" size="big" disableText/> | An alternative healing skill affecting close allies as well. |
+| <Skill name="Wash the pain away" size="big" disableText/> | An alternative heal skill affecting allies close-by. |
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
-| <Skill name="Eye of the Storm" size="big" disableText/> | Grants <Effect name="superspeed"/>, useful for skipping especially in combination with <Item name="Executioner Axe Toy"/>. |
+| <Skill name="Eye of the Storm" size="big" disableText/> | Grants <Effect name="superspeed"/>, useful for skips especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 </Card>
 </GridItem>
 </Grid>
@@ -136,8 +138,8 @@ Apart from that, you have the following modifiers:
 - <Skill name="Conjure Lightning Hammer"/>: 75 ferocity while wielding it
 - <Skill name="Conjure Fiery Greatsword"/>: 260 power while wielding it
 
-You will want to use your most damaging skills with these modifiers.  
-Therefore your basic rotation looks like this:
+You want to use your most damaging skills while these modifiers are active.  
+Therefore your basic rotation optimally is:
 
 1. <Skill name="Overload Air"/>
 2. Attune to _something_ else
@@ -146,7 +148,7 @@ Therefore your basic rotation looks like this:
 5. High damage skills like <Skill name="Lightning Storm"/>, <Skill name="Lightning Orb"/> and <Skill name="Arcane Blast"/>
 6. Repeat
 
-In reality, the _something_ looks like this:
+In reality, the _something_ looks like the following:
 
 - In <Skill name="Fire Attunement"/>:
   - <Skill name="Wildfire"/>

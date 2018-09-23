@@ -21,7 +21,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 effects: ['Stealth']
 ---
 
-At the moment <Specialization name="druid" prefix="boon"/> is a great build for fractals, primarily providing the group with heals. Aside from keeping up the health bars (<Item id="24836"/> uptime), it also facilitates a bunch of utilities and strong offensive party support in form of <Skill id="12497"/>, <Skill id="31582"/>, <Trait id="2057"/>, <Trait id="1016"/> and <Condition name="vulnerability"/>.
+At the moment <Specialization name="druid" text="Boon Druid"/> is a great build for fractals, primarily providing the group with heals. Aside from keeping up the health bars (<Item id="24836"/> uptime), it also facilitates a bunch of utilities and strong offensive party support in form of <Skill id="12497"/>, <Skill id="31582"/>, <Trait id="2057"/>, <Trait id="1016"/> and <Condition name="vulnerability"/>.
 
 The Druid's main source of healing comes from <Skill id="31869"/>, which is replenished by acquiring Astral Force from healing allies and damaging foes (<Trait id="1874"/>). Using CA replaces your weapon skills with strong AoE healing skills.
 

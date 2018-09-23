@@ -13,7 +13,11 @@ conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness']
 effects: ['Stealth']
 ---
 
-The <Specialization name="thief"/> is fine power dps for off-meta groups. It has the simplest rotation and offers great mobility for skips, as well as endless party <Effect name="stealth"/> (even though a <Specialization name="druid"/> fills this role perfectly).
+<Specialization name="Daredevil" text="Power Daredevil"/> has decent DPS and provides excellent crowd control. Furthermore, it adds some <Condition name="Vulnerability"/>, has plenty sources for <Effect name="stealth"/> and has a simplistic rotation.
+
+However, it is highly susceptible to melee unfriendly Instabilities since you are constantly moving and relies on many unique conditions on their target.
+
+The build benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -28,7 +32,7 @@ The <Specialization name="thief"/> is fine power dps for off-meta groups. It has
 <Card title="Alternative weapons">
 * Staff with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
   (<Item id="36054"/> doesn't stack anymore)
-* A Shortbow to blast <Boon name="might"/>
+* A shortbow to stack <Boon name="might"/>, <Effect name="Stealth"/> and to skip
 </Card>
 </GridItem>
 
@@ -53,7 +57,7 @@ The <Specialization name="thief"/> is fine power dps for off-meta groups. It has
 | | |
 | -- | -- |
 | <Skill id="13117" size="big" disableText/> | Group stealth. |
-| <Skill id="13065" size="big" disableText/> | Drop it to blast <Effect name="stealth"/> for skips or destroy projectiles. |
+| <Skill id="13065" size="big" disableText/> | Use it to blast <Effect name="stealth"/> for skips or destroy projectiles. |
 | <Skill id="13002" size="big" disableText/> | 1200 range teleport, use it again to teleport back. |
 | <Skill id="13044" size="big" disableText/> | 3 seconds AoE <Effect name="stealth"/> (also another blast). |
 </Card>

@@ -13,9 +13,11 @@ conditions: ['Vulnerability', 'Blind', 'Crippled']
 effects: ['Stealth']
 ---
 
-The <Specialization name="dragonhunter" prefix="power"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
+The <Specialization name="dragonhunter" text="Power Dragonhunter"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
 
 The build also offers strong on-demand party support with <Skill id="30039"/> and reflects like <Skill id="9251"/>.
+
+It benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 

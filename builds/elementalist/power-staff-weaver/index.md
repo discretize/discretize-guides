@@ -14,11 +14,13 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 
 Even with the continueing nerfs the <Specialization text="Power Staff Weaver" name="weaver"/> stays one of the best builds for fractals. It offers one of the highest burst and consistent DPS numbers in the game on large, stationary hitboxes. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
 
-Staff Weaver has some utilities in the form of burst <Condition name="vulnerability"/>, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver has no reflects, no fast reachable crowd control skills apart from <Skill id="5733"/> and no <Boon name="stability"/> or <Boon name="protection"/> compared to <Specialization name="Tempest"/>.
+Staff Weaver has some utilities in the form of burst <Condition name="vulnerability"/>, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver has no reflects, no fast reachable crowd control skills apart from <Skill id="5733"/> and no <Boon name="stability"/> compared to <Specialization name="Tempest"/>.
 
 Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and providing good <Boon name="protection"/> uptimes with <Trait id="264"/>. It also provides around 7 stacks <Boon name="might"/> uptime for the party, even more with around 30% boon duration from <Item id="79722"/> and <Trait id="2004"/>. This allows a replacement of the <Specialization name="druid"/> with another <Specialization name="weaver"/> as there is enough <Boon name="might"/> on the party and you "only" loose <Skill id="31582" profession="ranger"/>, <Skill id="12497" profession="ranger"/> and <Trait id="1016" profession="ranger"/> (redundant with <Trait id="2177"/>) but gain much more DPS.
 
 In general the Arcane variant is the most consistent for casual daily runs, take Air if your group's crowd control abilities are excellent and the target's defiance bar is almost permanently broken (e.g. Skorvald, Siax, Ensolyss).
+
+The build benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -69,8 +71,8 @@ Use the **Air variant** if your Chrono is not running Chaos, <Boon name="Might"/
 | <Skill id="5567" size="big" disableText/> | Can be used on big hitboxes. Has more burst than  <Skill id="5624"/>. Can be used from range with the disadvantage of not being able to move. Mostly used as a third weapon or to swap with another weaver. |
 | <Skill id="40183" size="big" disableText/> | An alternative damage skill for long burst phases. | 
 | <Skill id="5536" size="big" disableText/> | A 900 range teleport, sufficient for most blink spots. |
-| <Skill id="44239" size="big" disableText/> | An alternative healing skill providing additional group heal. | 
-| <Skill id="5507" size="big" disableText/> | An alternative healing skill providing a strong condition cleanse. | 
+| <Skill id="44239" size="big" disableText/> | An alternative heal skill providing additional group heal. | 
+| <Skill id="5507" size="big" disableText/> | An alternative heal skill providing a strong condition cleanse. | 
 | <Skill id="44926" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
 | <Skill id="5641" size="big" disableText/> | Provides three blocks (e.g. Aether blade console room, Underground Facility).|
 | <Trait id="1673" size="big" disableText/> | If you have no problems with survivability, you can take this trait for a higher <Boon name="retaliation"/> uptime. |
