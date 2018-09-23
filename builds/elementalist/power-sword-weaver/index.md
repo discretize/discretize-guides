@@ -21,7 +21,7 @@ It has quick burst damage and doesn't rely as much on pre-casting as [Power Staf
 
 Aside from <Condition name="vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS the Power Sword Weaver build unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
 
-The build benefits heavily from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
+The build benefits heavily from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 

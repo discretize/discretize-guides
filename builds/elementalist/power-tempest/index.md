@@ -26,7 +26,7 @@ Contrary to the [Sword Weaver](/builds/elementalist/power-sword-weaver), melee h
 The degree of difficulty is a little bit higher than the other <Specialization name="Elementalist"/> builds as you need to adhere many small things to achieve top numbers.  
 The positiong and timing of skills matter a lot, a single mistake can make your DPS end up several thousands below other damage dealers.
 
-The build benefits heavily from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
+The build benefits heavily from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 

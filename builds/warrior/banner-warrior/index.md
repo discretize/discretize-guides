@@ -19,7 +19,7 @@ If enemy boons are present, the <Specialization name="spellbreaker"/> specializa
 
 Furthermore, the build is able to use damage modifying sigils like <Item id="24868"/> as well as slaying potions such as <Item id="50082"/>. As a support warrior, your focus is first and foremost providing the group with aforementioned damage buffs and removing boons, secondly breaking the defiance bar while following your optimized damage rotation.
 
-The build benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
+The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment (150 AR and Spotter)"/>
 

@@ -17,7 +17,7 @@ effects: ['Stealth']
 
 However, the Deadeye suffers from low survivability, it is highly susceptible to melee unfriendly Instabilities, has almost no cleave damage and relies on being able to flank as well as many unique conditions on their target.
 
-The build benefits from slaying potions such as <Item id="50082/> and <Item name="Impact" type="Sigil"/>.
+The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
