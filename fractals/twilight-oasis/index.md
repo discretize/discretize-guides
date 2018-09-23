@@ -41,6 +41,10 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply ca
 <Tab specialization="ranger">
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
 </Tab>
+
+<Tab specialization="elementalist">
+It is worth to run <Skill name="arcane wave"/> for the whole fractal for more and faster <Boon name="Might"/>, since you can't really stack anywhere.
+</Tab>
 </Tabs>
 </GridItem>
 
