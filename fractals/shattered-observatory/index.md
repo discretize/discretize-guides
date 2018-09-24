@@ -61,47 +61,47 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 </GridItem>
 <GridItem sm="9">
 ### Tactic
-The key to the fight is fast crowd control, as breaking Skorvald's defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health.
+The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health.
 
 At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four _Elite Flux Anomalies_ to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies dont have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the animations and position yourself between Anomaly and wall.
 
-It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately when you reach the 4th Anomaly to deal more damage to Skorvald before he continues his attacks, especially at 33%. **_Do not take the portal back to the boss before the add has landed its first jump. Otherwise it will jump out of all the damage zones and not die in time for your nuke._**
+It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately when you reach the 4th _Elite Flux Anomaly_ to deal more damage to Skorvald before he continues his attacks, especially at 33%. **_Do not take the portal back to the boss before the add has landed its first jump. Otherwise it will leap out of all the damage zones and not die in time for your nuke._**
 
-Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, a Druid is the perfect candidate for this job with staff auto-attack but be ready to dodge if it explodes in party range.
+Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, a <Specialization name="Druid"/> is the perfect candidate for this job with staff auto-attack but be ready to dodge if it explodes in party range.
 
-After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his defiance bar, if he is not dead yet break the bar and finish him.
+After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his Defiance bar, if he is not dead yet break the bar and finish him.
 </GridItem>
 </Grid>
 
 <Tabs>
 <Tab specialization="chronomancer">
 **DISCLAIMER** <br/>
-Chrono is not easy for a beginner, so it'll take some time for you to learn this properly.     
+<Specialization name="chronomancer"/> is not easy for a beginner, so it'll take some time for you to learn this properly.     
 *I believe in you.*
 
-For these pug strategies I will always assume that this is the composition you'll be running: <Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="Holosmith"/>/<Specialization name="Dragonhunter"/>/<Specialization name="Soulbeast"/>
+For these PUG strategies I will always assume that this is the composition you'll be running: <Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="Holosmith"/>/<Specialization name="Dragonhunter"/>/<Specialization name="Soulbeast"/>
 
-Since triple weaver is extremely hard to pull off in a group that is not organized due to the lack of CC, a <Specialization name="Dragonhunter"/>/<Specialization name="Holosmith"/>/Power<Specialization name="Soulbeast"/> helps shorten the CC gap and brings vulnerability to the fights.
+Since triple <Specialization name="weaver"/> is extremely hard to pull off in a group that is not organized due to the lack of crowd control, a <Specialization name="Dragonhunter"/>/<Specialization name="Holosmith"/>/Power<Specialization name="Soulbeast"/> helps shorten the crowd control gap and brings <Condition name="vulnerability"/> to the fights.
 
-<Specialization name="Druid"/> is bad, it does not do enough crowd control, it does no dps and post nerf spirits are subpar aka not worth using over another dps class.
+<Specialization name="Druid"/> is bad, it does not do enough crowd control, it does almost no damage and post nerf spirits are subpar aka not worth using over another DPS profession.
 
-The common misconception is that if you run with a druid no one in the group will ever die thanks to the heals, while this might be true in some cases, we've found that if the boss dies faster, it's far less likely that your group will wipe.  
-Keep in mind that this has nothing to do with elitism or tryharding, most bosses become very hard to kill if you waste time, look at Arkk for example, at 30% after the triple beam attack, if the boss isn't dead by then it'll start spawning 3/4 mechanics at the same time that are hard to deal with if you're not experienced.
+The common misconception is that if you run with a <Specialization name="Druid"/> no one in the group will ever die thanks to the heals, while this might be true in some cases, we've found that if the boss dies faster, it's far less likely that your group will wipe.  
+Keep in mind that this has nothing to do with elitism or try-hard, most bosses become very hard to kill if you waste time, look at Arkk for example, at 30% after the triple beam attack, if Arkk isn't dead by then he'll start spawning 3/4 mechanics at the same time that are hard to deal with if you're not experienced.
 
-In this guide I am also going to assume that you're running the proper gear/food and that your chronomancer basics are solid, with an emphasis on not wasting your concentration proc when swapping weapons.
+In this guide I am also going to assume that you're running the proper gear/food and that your <Specialization name="Chronomancer"/> basics are solid, with an emphasis on not wasting your concentration proc when swapping weapons.
 
-**Pug Version**
+**PUG Version**
 
 Build: Chaos <br/>
 Weapons: Sword – Shield / Pistol <br/>
 Skills: <Skill id="21750"/>, <Skill id="10377"/>
 
-Since pugs are notoriously bad at using crowd control, you'll be opening this fight with this sequence:
+Since PUGs are notoriously bad at using crowd control, you'll be opening this fight with this sequence:
 
 <Skill id="30643"/> (MID <Skill id="29830"/>)> <Skill id="10287"/> -> <Skill id="10377"/> -> <Skill id="29830"/> END -> <Skill id="30643"/>+<Skill id="10287"/>-> SWAP -><Skill id="10229"/> <br/>
 and then Signet + wells without casting a phantasm, since you'll be using that
 on the first island along with a distort (<Skill id="10192"/>) to share <Boon name="Aegis"/> and prevent getting hit
-by the stomp attack from the first Elite Flux Anomaly.
+by the stomp attack from the first _Elite Flux Anomaly_.
 
 **66%**
 
@@ -112,30 +112,30 @@ Islands are pretty straightforward. You ALWAYS want to cast wells before other s
 3. [<Skill id="29856"/> > Swap > passive <Skill name="Signet of Inspiration"/>] <br/>
 4. [Swap > <Skill name="Signet of Inspiration"/> > <Skill id="30643"/> (before everyone takes the portal)] <br/>
 
-When you're back on the platform it'll be simple for you, use your <Skill id="10377"/>, wait for the boss to do his 3 attacks and then you can <Skill id="29830"/> your wells and <Skill name="Signet of Inspiration"/>, while not forgetting to swap weapons to proc your concentration sigil (im assuming your group dps is slow enough to have your <Skill id="29830"/> up in this phase) .
+When you're back on the platform it'll be simple for you, use your <Skill id="10377"/>, wait for Skorvald to do his 3 attacks and then you can <Skill id="29830"/> your wells and <Skill name="Signet of Inspiration"/>, while not forgetting to swap weapons to proc your concentration sigil (im assuming your group dps is slow enough to have your <Skill id="29830"/> up in this phase) .
 
-When the CC Bar is back up use your <Skill id="30643"/> and <Skill id="10287"/> with possibly more than one clone to CC as hard as you can because your pugs will be too busy tunneling on their arcdps to see who is gonna win the ego war, hence forgetting to CC.
+When the Defiance bar is back up use your <Skill id="30643"/> and <Skill id="10287"/> with possibly more than one clone to crowd control as much as you can because your group will be too busy tunneling on their arc dps to see who is gonna win the ego war, hence forgetting to crowd control.
 
 Here we go again
 
 **33%**
 
-Follow the same steps above and remember to shatter and use a phantasm to activate passive <Skill name="Signet of Inspiration"/> when you get back to the boss before he does his knockback attack at the end so you can share some stability.
+Follow the same steps above and remember to shatter and use a phantasm to activate passive <Skill name="Signet of Inspiration"/> when you get back to Skorvald before he does his knockback attack at the end so you can share some <Boon name="stability"/>.
 
-**Tryhard**
+**Try-hard**
 
 **Disclaimer** <br/>
 This guide is aimed for 5 players that are already very solid individually but want to take it to the next step in fractal encounters.<br/>
 These are also strategies aimed for smooth and fast daily runs, not speedrunning records.<br/>
-Do not attempt these strategies while pugging (for your own mental safety).
+Do not attempt these strategies while in a PUG (for your own mental safety).
 
 Compositions:  
 <Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>  
 <Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="soulbeast"/> (More CC, more <Condition name="vulnerability"/>, <Skill id="12497"/>)
 
-Chaos/Insp
+Chaos/Inspiration
 
-This fight is almost exactly 1:1 with the pug strategy .
+This fight is almost exactly 1:1 with the PUG strategy .
 
 The only difference being that in an organized group,
 the damage should be so high that you will not get your <Skill id="29830"/> back up at 66%, hence you should do double
@@ -170,7 +170,7 @@ Continue with standard rotation:
 - <Skill id="14502"/>
 - <Skill name="Dual Strike" profession="Warrior"/>.
 
-Elite Flux Anomalies (66% and 33%) are not affected by <Instability name="No Pain, No Gain"/>. Take the portal at the last Elite Flux Anomaly and pre cast <Skill name="Winds of Disenchantment" profession="Warrior"/> on Skorvald. Make sure one of your DPS stays behind to kill the fourth Elite Flux Anomaly.
+Elite Flux Anomalies (66% and 33%) are not affected by <Instability name="No Pain, No Gain"/>. Take the portal at the last Elite Flux Anomaly and pre cast <Skill name="Winds of Disenchantment" profession="Warrior"/> on Skorvald. If <Skill name="Winds of Disenchantment" profession="Warrior"/> is still on cooldown (66%), use <Skill name="Disrupting Stab" profession="Warrior"/> and <Skill name="Breaching Strike" profession="Warrior"/> as soon as Skorvald is vulnerable. Make sure one of your DPS stays behind to kill the fourth Elite Flux Anomaly.
 
 Refresh your banners before the 33% phase and as always try to adapt your rotation to what is currently needed.
 
@@ -190,24 +190,30 @@ Keep in mind that you have to kill the 4th Elite Flux Anomalies (66% and 33%) be
 </Tab>
 
 <Tab specialization="weaver">
+  
+**PUG Version**
+  
 Use <Skill id="21656"/> and make sure to blast on the first and fourth island during 66% and 33% phase if you have less than two weavers, run air to try-hard or have trouble maintaining 25 stacks of <Boon name="Might"/>.
 
-Use the standard Air Opener with a pre-cast <Skill id="5516"/> from taking the Mistlock Singularity for high damage groups or the Earth/Fire Opener with low damage groups. If your group damage is mediocre you should finish the first phase in <Skill id="5492" disableText/>/<Skill id="5492" disableText/> with a <Skill id="5624"/> in your hands. Drop the hammer, use <Skill id="5680"/> to get faster to the air tubulence. Attune <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and start casting <Skill id="5528"/> before jumping in the air turbulence, you will finish casting it mid air. Attune <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and use <Skill id="5548"/>. Stay in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and finish the Anomaly with <Skill id="5491"/> if it is not dead already.
+Use the standard Air Opener with a pre-cast <Skill id="5516"/> from taking the Mistlock Singularity for high damage groups or the Earth/Fire Opener with low damage groups. If your group damage is mediocre you should finish the first phase in <Skill id="5492" disableText/>/<Skill id="5492" disableText/> with a <Skill id="5624"/> in your hands. Drop the hammer, use <Skill id="5680"/> to get faster to the air tubulence. Attune <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and start casting <Skill id="5528"/> before jumping in the air turbulence, you will finish casting it mid air. Attune <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and use <Skill id="5548"/>. Stay in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and finish the _Elite Flux Anomaly_ with <Skill id="5491"/> if it is not dead already.
 
-NEVER cast <Skill id="5548"/> on the first anomaly before at least one player is on the island, since the Anomaly will then cast the fire aoe, that might kill players before they can move after the air turbulence.
+NEVER cast <Skill id="5548"/> on the first _Elite Flux Anomaly_ before at least one player is on the island, since it will cast the fire aoe that might kill players before they can move after using the air turbulence.
 
-Cast <Skill id="5548"/> and <Skill id="43762"/> already on the second Anomaly while it is evading, attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and begin to cast <Skill id="5552"/> so that it instantly hits, when the evade ends. You will have to jump over the shockwave. Hit the Anomaly with <Skill id="41125"/>. If it is not dead yet attune <Skill id="5492" disableText/>/<Skill id="5494" disableText/> and cast a new <Skill id="5548"/>. Attune to <Skill id="5495" disableText/>/<Skill id="5492" disableText/> before taking the next air turbulence. If you are the first on the island or still have <Boon name="Aegis"/> you can also cast <Skill name="Meteor Shower"/> on this Anomaly. This is only worth it, if you can channel the skill uninterupted for at least half of its duration.
+Cast <Skill id="5548"/> and <Skill id="43762"/> already on the second _Elite Flux Anomaly_ while it is evading, attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and begin to cast <Skill id="5552"/> so that it instantly hits, when the evade ends. You will have to jump over the shockwave. Hit the _Elite Flux Anomaly_ with <Skill id="41125"/>. If it is not dead yet attune <Skill id="5492" disableText/>/<Skill id="5494" disableText/> and cast a new <Skill id="5548"/>. Attune to <Skill id="5495" disableText/>/<Skill id="5492" disableText/> before taking the next air turbulence. If you are the first on the island or still have <Boon name="Aegis"/> you can also cast <Skill name="Meteor Shower"/>. This is only worth it, if you can channel the skill without being interupted for at least half of its duration.
 
-Start with <Skill id="5528"/> on the third Anomaly followed by <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and <Skill id="5548"/>. If the <Specialization name="Chronomancer"/> places his wells on this island dodge twice to avoid getting knocked out of the wells. Attune to <Skill id="5492" disableText/>/<Skill id="5492" disableText/> before leaving the island.
+Start with <Skill id="5528"/> on the third _Elite Flux Anomaly_ followed by <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and <Skill id="5548"/>. If the <Specialization name="Chronomancer"/> places his wells on this island dodge twice to avoid getting knocked out of the wells. Attune to <Skill id="5492" disableText/>/<Skill id="5492" disableText/> before leaving the island.
 
 If all <Boon name="Might"/> blasts were correct and your group is fast enough you should have 25 stacks of <Boon name="Might"/> now, all other boons and <Trait name="Elements of Rage"/> for 8 secs.
 
-Place a <Skill id="5548"/> on the last Anomaly and take the portal back to Skorvald (not before the initial jump attack has ended or it will leap out of the <Skill id="5548"/>s) while summening your <Skill id="5516"/> (you can also hit the Anomaly with <Skill id="5517"/> before porting if it still has to much health). Usually the <Specialization name="Warrior"/> or one of the DPS will kill the last Anomaly with the help of your <Skill id="5548"/>. Keep the last Anomaly in your target to time your burst according to how fast it dies. Start your cast in this order: <Skill id="5531"/> -> <Skill id="5501"/> -> <Skill id="5737"/>. Ideally, <Skill id="5737"/> is finished casting the second Skorvald becomes vulnerable again. Continue with <Skill id="5548"/>, <Skill id="41125"/>, <Skill id="5624"/>, <Skill id="5725"/>, <Skill id="5492" disableText/>/<Skill id="5492" disableText/>, <Skill id="5539"/> x3, 1x <Skill id="5726"/> chain. You can place another <Skill id="5548"/> and cast maybe two additional <Skill id="5491"/> before Skorvald starts charging over the platform.
+Place a <Skill id="5548"/> on the last _Elite Flux Anomaly_ and take the portal back to Skorvald (not before the initial jump attack has ended or it will leap out of the <Skill id="5548"/>s) while summening your <Skill id="5516"/> (you can also hit the Anomaly with <Skill id="5517"/> before porting if it still has to much health). Usually the <Specialization name="Warrior"/> or one of the DPS will kill the last Anomaly with the help of your <Skill id="5548"/>. Keep the last Anomaly in your target to time your burst according to how fast it dies. Start your cast in this order: <Skill id="5531"/> -> <Skill id="5501"/> -> <Skill id="5737"/>. Ideally, <Skill id="5737"/> is finished casting the second Skorvald becomes vulnerable again. Continue with <Skill id="5548"/>, <Skill id="41125"/>, <Skill id="5624"/>, <Skill id="5725"/>, <Skill id="5492" disableText/>/<Skill id="5492" disableText/>, <Skill id="5539"/> x3, 1x <Skill id="5726"/> chain. You can place another <Skill id="5548"/> and cast maybe two additional <Skill id="5491"/> before Skorvald starts charging over the platform.
 
 If everything goes smoothly, Skorvald will be at 33%. Repeat the aforementioned starting from <Skill id="5680"/>. Otherwise start by pre-casting <Skill id="5528"/> in the middle after Skorvald's second charge and continue your rotation accordingly.
 <Message>
-One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four Elite Flux Anomalies. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
+One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four _Elite Flux Anomalies_. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
 </Message>
+
+**Try-hard**
+
 For the try-hard version you want to play with three air <Specialization name="Weaver"/>. The advantage of this composition is that your <Specialization name="Chronomancer"/> can use Inspiration Domination, which increases <Boon name="Alacrity"/> uptime and allows you to burst again 3-5 seconds earlier. The disadvantage is that you constantly have to keep an eye on your groups <Boon name="Might"/> uptime. But for normal daily runs you will probably have your burst skills ready anyways since you most likely lose those 3-5 seconds during the 66% or 33% split or due to the nerfed <Specialization name="Weaver"/> damage. Under ideal circumstances the time difference is between 8-10 seconds.
 </Tab>
 
@@ -296,7 +302,7 @@ After the fight is over, take the portal in the North and move forward to get to
 <Tab specialization="chronomancer">
 From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics. Note that you can pre-stack clones on Artsariiv with <Skill id="10173"/>.
 
-**Pug Version**  
+**PUG Version**  
 Build: Chaos/Inspiration <Trait id="751"/>  
 Weapons: Sword - Shield / Focus  
 Skills: <Skill id="30305"/>,<Skill id="10377"/>
@@ -311,7 +317,7 @@ Then, while the Artsariiv is bouncing to her corner, swap to shield and do a swo
 
 <Skill id="30643"/> (MID <Skill id="29830"/>) -> <Skill id="10377"/>-> <Skill name="Signet of Inspiration"/> -> <Skill id="29856"/>-><Skill id="29830"/> END-> <Skill id="30643"/> -><Skill id="29856"/> + <Skill id="30814"/> + <Skill name="Signet of Inspiration"/>
 
-This is because you want to crowd control the boss as much and as fast as possible with the double <Skill id="30643"/>.  
+This is because you want to crowd control Artsariiv as much and as fast as possible with the double <Skill id="30643"/>.  
 To increase the group's chance of survival you should also place a <Skill id="10186"/> between Artsariiv and the group, so that the orb autoattacks will be reflected.
 
 **66%**
@@ -326,7 +332,7 @@ Then go to the next corner and do all your <Skill id="29830"/> rotation on the b
 Repeat the same for 33%
 -In the last phase you can use your <Skill id="10377"/> out of <Skill id="29830"/> , if <Skill id="29830"/> is not back up yet.
 
-**Tryhard**  
+**Try-hard**  
 In the beginning of the encounter we use the "nuke" strategy that you can see in our speedrun videos. The point is that you completely skip the first _Temporal Anomaly_ by phasing Artsariiv (66%) before the explosion. Even if you don't make it because something prevented you to deal proper damage, I believe tanking the first _Corporal Reassignment_ is still worth it, you'll just have to kill the _Temporal Anomaly_ in the next phases.
 
 **100%**  
@@ -413,7 +419,20 @@ Use <Skill id="14502"/>, <Skill name="Eviscerate" profession="Warrior"/>, <Skill
   </Tab>
 
 <Tab specialization="weaver">
-**Nuke**
+
+**PUG Version**
+
+If your group damage is low you can use <Skill id="5501"/> two times per phase, pre-cast the first one in the middle in <Skill id="5495" disableText/>/<Skill id="5492" disableText/>. **Always** place at least a <Skill id="5548"/> on the _Temporaly Anomaly_ before using `Nova Launch` to Artsariiv. You can already attune to <Skill id="5494"/> at the _Temporaly Anomaly_ and burst it with <Skill id="41125"/> before continuing with <Skill id="5737"/> on Artsariiv.
+
+**crowd control Consumables are strongly recommended for this encounter.**
+
+In the first phase three <Item id="8749"/>s or one <Item id="8749"/> and a <Item id="8664"/> break a clones Defiance bar. In the second phase one <Item id="8664"/> or two <Item id="8749"/>s break a clones Defiance bar. The reason you want the consumables for fast crowd control is this: If your crowd control phase is fast enough, your boons will still be up when Artsariiv becomes vulnerable again, leading to much higher damage, shorter fights and less chance to wipe to bad instabilites.
+
+So use `Nova Launch` to either your assigned clone or the clone no is at and break its Defiance bar fast. Switch to <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and pre cast in the middle <Skill id="5528"/>, <Skill id="5501"/>, <Skill id="5492" disableText/>/<Skill id="5495" disableText/>, <Skill id="5548"/>, <Skill id="43762"/> and so on (If your <Specialization name="Chronomancer"/> is daydreaming and you have no <Boon name="Quickness"/> skip <Skill id="5501"/> unless you were very fast in the middle).
+
+Also keep in mind if you do not go for the nuke in phase one that this is the first boss where you can use the `Nova Launch` to get all <Skill id="5697"/> in the bosses hitbox.
+
+**Try-hard**
 
 For the nuke strategy you want to damage Artsariiv to 66% before the the initial _Corporeal Reassignment_ triggers. To achieve this you stack <Boon name="Might"/> in the middle and have Artsariiv channel _Beaming Smile_ in the opposite direction of where she will go afterwards, to make sure you won't get hit by it.
 
@@ -428,18 +447,6 @@ Note: Advanced statics will not need 3 <Skill id="5516"/> for the nuke in phase 
 If your damage is particular high use <Skill name="Firestorm"/> in phase 2, to have <Skill name="Lightning Storm"/> ready in phase 3.
 
 Advanced groups can let the second _Corporeal Reassignment_ trigger and gg the third to save time. But if you failed the first nuke always make sure to kill the second _Temporal Anomaly_. Also sometimes there are communication issues, so if you have the third _Corporeal Reassignment_ always check if someone killed the _Temporal Anomaly_, before killing yourself.
-
-**Normal**
-
-If your group damage is low you can use <Skill id="5501"/> two times per phase, pre-cast the first one in the middle in <Skill id="5495" disableText/>/<Skill id="5492" disableText/>. **Always** place at least a <Skill id="5548"/> on the _Temporaly Anomaly_ before using `Nova Launch` to Artsariiv. You can already attune to <Skill id="5494"/> at the _Temporaly Anomaly_ and burst it with <Skill id="41125"/> before continuing with <Skill id="5737"/> on Artsariiv.
-
-**crowd control Consumables are strongly recommended for this encounter.**
-
-In the first phase three <Item id="8749"/>s or one <Item id="8749"/> and a <Item id="8664"/> break a clones Defiance bar. In the second phase one <Item id="8664"/> or two <Item id="8749"/>s break a clones Defiance bar. The reason you want the consumables for fast crowd control is this: If your crowd control phase is fast enough, your boons will still be up when Artsariiv becomes vulnerable again, leading to much higher damage, shorter fights and less chance to wipe to bad instabilites.
-
-So use `Nova Launch` to either your assigned clone or the clone no is at and break its Defiance bar fast. Switch to <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and pre cast in the middle <Skill id="5528"/>, <Skill id="5501"/>, <Skill id="5492" disableText/>/<Skill id="5495" disableText/>, <Skill id="5548"/>, <Skill id="43762"/> and so on (If your <Specialization name="Chronomancer"/> is daydreaming and you have no <Boon name="Quickness"/> skip <Skill id="5501"/> unless you were very fast in the middle).
-
-Also keep in mind if you do not go for the nuke in phase one that this is the first boss where you can use the `Nova Launch` to get all <Skill id="5697"/> in the bosses hitbox.
 </Tab>
 
 <Tab specialization="druid">
@@ -534,7 +541,7 @@ Think of Arkk as a golem that becomes invulnerable once in a while, if your <Spe
 
 Regardless of that, there are a few things you should keep in mind:
 
-**Pug**
+**PUG Version**
 
 1. You always want to start on shield before crowd control phases (after the orb mechanics)
    so you can use your <Skill id="30643"/> + <Skill id="10287"/> and swap instantly to share boons.
@@ -543,7 +550,7 @@ Regardless of that, there are a few things you should keep in mind:
 4. This is helpful if you have time: use your <Skill id="10186"/> on Arkk's hitbox to reflect the orb attacks ( keep in mind you still need to pull adds so dont use it if you're about to phase after _Force of the Nightmare_)
 5. Don't forget to INSTANTLY use <Skill id="10191"/>-<Skill id="10190"/> when the fight starts and <Skill id="10282"/> to proc passive <Skill name="Signet of Inspiration"/>, only then begin your rotation.(you don't want your <Specialization name="Weaver"/>s to wait a long time to get <Boon name="quickness"/> or they will start flaming you).
 
-**Tryhard**  
+**Try-hard**  
 Exactly the same as PUG Arkk.
 
 This encounter is generally more intense for your <Specialization name="Weaver"/>s, as they have to manage cooldowns properly while dodging mechanics that one-shot them. Please be patient if they start cursing in voice chat. Always keep a positive mental attitude.
