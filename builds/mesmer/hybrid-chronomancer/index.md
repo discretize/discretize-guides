@@ -1,6 +1,6 @@
 ---
 title: 'Hybrid Chronomancer'
-date: '2018-05-16'
+date: '2018-09-18'
 rating: 'Meta'
 role: 'Support'
 profession: 'Mesmer'
