@@ -47,7 +47,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <Grid>
 <GridItem sm="7">
-<Traits title="" traits1Id="28" traits1="Dreadly Arts" traits1SelectedIds="1245,1292,1269" traits2Id="35" traits2="Critical Strikes" traits2SelectedIds="1268,1272,1904" traits3Id="58" traits3="Deadeye" traits3SelectedIds="2145,2160,2093"/>
+<Traits title="" traits1Id="28" traits1="Dreadly Arts" traits1SelectedIds="1245,1704,1269" traits2Id="35" traits2="Critical Strikes" traits2SelectedIds="1268,1272,1904" traits3Id="58" traits3="Deadeye" traits3SelectedIds="2145,2160,2093"/>
 </GridItem>
 
 <GridItem sm="5">
