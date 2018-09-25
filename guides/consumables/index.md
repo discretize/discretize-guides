@@ -1,6 +1,6 @@
 ---
 title: 'Consumables'
-date: '2018-04-17'
+date: '2018-09-18'
 image: './images/consumables.jpg'
 description: 'Learn how to use various consumables to greatly simplify otherwise challenging content.'
 ---
