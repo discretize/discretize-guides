@@ -140,6 +140,8 @@ This fight is almost exactly 1:1 with the PUG strategy .
 The only difference being that in an organized group,
 the damage should be so high that you will not get your <Skill id="29830"/> back up at 66%, hence you should do double
 Quick Well and <Skill name="Signet of Inspiration"/> on the 2nd Island after 33%.
+
+**Note for Power Chronos:** You can swap <Skill name="Phantasmal Defender"/> with <Skill name="Mirror Images"/> if your group DPS is high enough.
 </Tab>
 
 <Tab specialization="warrior">
@@ -357,6 +359,8 @@ Since you will have your <Skill id="29830"/> up here, while staying close to the
 
 **33%(corner)**  
 Simply spam all of your cooldowns, <Skill id="30305"/>, reflect and kill Artsariiv as the <Specialization name="Warrior"/> will be bouncing the orbs.
+
+**Note for Power Chronos:** You can swap <Skill name="Mantra of Pain"/> with <Skill name="Feedback"/> for a large DPS increase if noone else is reflecting the projectiles.
 </Tab>
 
 <Tab specialization="warrior">

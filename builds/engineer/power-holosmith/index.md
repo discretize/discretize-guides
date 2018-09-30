@@ -43,7 +43,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="38" traits1="Firearms" traits1SelectedIds="1914,2006,526" traits2Id="6" traits2="Explosives" traits2SelectedIds="1882,1892,1541" traits3Id="57" traits3="Holosmith" traits3SelectedIds="2106,2152,2064"/>
+<Traits traits1Id="38" traits1="Firearms" traits1SelectedIds="1914,1923,526" traits2Id="6" traits2="Explosives" traits2SelectedIds="1882,1892,1541" traits3Id="57" traits3="Holosmith" traits3SelectedIds="2106,2152,2064"/>
 
 <Card title="Situational Traits">
 | | |

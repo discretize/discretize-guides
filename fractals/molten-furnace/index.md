@@ -53,6 +53,8 @@ You enter the arena and survive the 3 weapon test, after you survived the second
 
 You have to dodge, block or reflect the Fire Tornadoes coming towards you, you can use the Thermal Core in the middle to your advantage. The Tornadoes apply <Condition name="Burning"/>. After surviving the test you can damage 25% of the _Thermal Core_.
 
+There are also multiple safe spots to prevent getting hit at all.
+
 **Shockwaves**
 
 You have to dodge, block or jump over the shockwaves coming towards you. The shockwaves apply <Control name="Knockdown"/>. After surviving the test you can damage 25% of the _Thermal Core_.
