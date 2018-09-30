@@ -137,6 +137,8 @@ You can block more by jumping
 (Utility)
 * <Skill name="Power Stab" profession="Ranger"/> <Specialization disableText name="Ranger"/>  
 (Greatsword 1, chain 3)
+* <Skill name="Counterattack" specialization="ranger"/> <Specialization disableText name="Ranger"/>  
+(Greatsword 4)
 * <Skill name="Ancestral Grace" profession="Ranger"/> <Specialization disableText name="Druid"/>  
 (Staff 3)
 </Card>
