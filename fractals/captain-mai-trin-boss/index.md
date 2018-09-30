@@ -55,6 +55,10 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 Use <Skill id="10302"/> against the multitude of projectiles.
 </Tab>
 
+<Tab specialization="soulbeast">
+You can block Horrik's cannon projectile with <Skill name="Counterattack" specialization="ranger"/> (Greatsword 4).
+</Tab>
+
 <Tab specialization="druid">
 Trait <Trait id="1075"/> and use <Skill id="12489"/> for additional condition clears.
     Also change <Skill id="12493"/> to <Skill id="12495"/> to reduce incoming damage from spawning mobs every phase and use <Skill id="31496"/> (Staff 5) against the cannons.
