@@ -144,6 +144,8 @@ If not, use your <Skill id="30643"/> and make sure it hits the boss , <Skill id=
 <Divider text="Tryhard Strategy"/>
 Exactly the same as Pug MAMA, except you won't have <Skill id="29830"/> for the Third Add .
 Simply <Skill id="29519"/> the third add instantly and <Skill id="30643"/>+<Skill id="10287"/> MAMA on the 25 – 0 phase.
+
+**Note for Power Chronos:** You can swap <Skill name="Phantasmal Defender"/> with <Skill name="Mirror Images"/> if your group DPS is high enough.
 </Tab>
 
 <Tab specialization="warrior">

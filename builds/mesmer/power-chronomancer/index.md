@@ -50,7 +50,7 @@ It benefits heavily from slaying potions such as <Item id="50082"/> and <Item na
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="701,708,692" traits2Id="24" traits2="Illusions" traits2SelectedIds="721,1690,733" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1890"/>
+<Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="701,708,692" traits2Id="24" traits2="Illusions" traits2SelectedIds="721,729,733" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1890"/>
 
 <Card title="Situational Elite Skills">
 | | |
