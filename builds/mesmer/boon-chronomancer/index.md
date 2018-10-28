@@ -1,6 +1,6 @@
 ---
 title: 'Boon Chronomancer'
-date: '2018-09-18'
+date: '2018-10-28'
 rating: 'Meta'
 role: 'Support'
 profession: 'Mesmer'
@@ -86,7 +86,9 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="23" traits1="Inspiration" traits1SelectedIds="756,740,1866" traits2Id="45" traits2="Chaos" traits2SelectedIds="670,669,1687" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1987,1978,2022"/>
+<Traits traits1="Illusions" traits1Selected="Mind Wrack, Phantasmal Haste, Phantasmal Force" traits2="Chaos" traits2Selected="Master of Manipulation, Chaotic Dampening, Bountiful Disillusionment" traits3="Chronomancer" traits3Selected="Alls Well That Ends Well, Improved Alacrity, Seize the Moment"/>
+
+<Traits title="Defensive: Inspiration over Illusions" traits1="Inspiration" traits1Selected="Sympathetic Visage, Restorative Illusions, Illusionary Inspiration"/>
 
 <Card title="Situational Traits">
 | | |
@@ -94,17 +96,17 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 | <Trait id="1995" size="big" disableText/> | A very small DPS increase in case you don't need the heal from <Trait id="1987"/>. |
 | <Trait id="751" size="big" disableText/> | Use it in combination with a focus for frequent <Control name="pull"/>s and reflects. |
 | <Trait id="674" size="big" disableText/> | Increases the duration of all your <Effect name="stealth"/> skills by 50%. |
-| <Trait id="752" size="big" disableText/> | Two seconds longer duration for Glamour skills like <Skill id="10197"/>. |
+| <Trait name="Descent into Madness" size="big" disableText/> | Provides additional <Boon name="Aegis"/> and <Boon name="Retaliation"/> if you don't need the reduced recharge on <Skill name="Mimic"/> from <Trait name="Master of Manipulation"/>, especially useful if you are running without a Staff since you have no <Boon name="Retaliation"/> source otherwise. |
 </Card>
 </GridItem>
 
 <GridItem sm="5">
-<Skills healId="30305" utility1Id="30814" utility2Id="29856" utility3Id="10236" eliteId="29519"/>
+<Skills heal="Well of Eternity" utility1="Well of Action" utility2="Mimic" utility3="Signet of Inspiration" elite="Signet of Humility"/>
 
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill id="10311" size="big" disableText/> | If you don't need crowd control, this a is a higher DPS option combined with <Trait id="1890"/>. |
+| <Skill id="10311" size="big" disableText/> | If you don't need crowd control, this a is a higher <Boon name="Alacrity"/> option combined with <Skill name="Well of Recall"/> instead of <Skill name="Well of Action"/>. |
 | <Skill id="21750" size="big" disableText/> | A personal DPS increase. |
 | <Skill id="34326" size="big" disableText/> | One of the strongest reflect skills, protecting everyone inside from projectiles for 6 seconds. |
 | <Skill id="10197" size="big" disableText/> | Party escort service. |
@@ -125,19 +127,23 @@ Keep in mind that you usually want to replace <Skill id="30814"/> first and use 
 <Card title="Written Opener">
 1. Start on Staff with <Skill id="10169"/> (<Boon name="retaliation" disableText/><Boon name="aegis" disableText/><Boon name="swiftness" disableText/>) and <Skill id="10331"/> (<Boon name="protection" disableText/>)
 2. <Skill id="10190"/> (<Boon name="quickness" disableText/><Boon name="alacrity" disableText/><Boon name="vigor" disableText/><Boon name="stability" disableText/>)
-3. Cast <Skill id="10216"/> (<Trait id="1866" disableText/>), <Skill id="10310"/> (1st illusion) and swap to Sword/Shield
+3. Cast <Skill id="10310"/> (1st illusion) and swap to Sword/Shield
 4. <Skill id="10173"/> (2nd illusion)
 5. <Skill id="30643"/> and <Skill id="29830"/> at the end of the cast
     1. Use the remaining three shatters while continueing with the skills below - if a defiance bar is up, use <Skill id="10287"/> first, otherwise <Skill id="49068"/>(<Boon name="might" disableText/><Boon name="fury" disableText/><Boon name="regeneration" disableText/>)
     2. <Skill id="29519"/> if a defiance bar is up
     3. <Skill id="10236"/>
-    4. <Skill id="29856"/> and <Skill id="30814"/>
+    4. <Skill id="30814"/>
+    5. <Skill name="Mimic"/>
 5. <Skill id="30747"/> ends
 6. Shatter everything again while continueing
-7. <Skill id="29856"/> and <Skill id="30814"/>
-8. <Skill id="10334"/>
-9. Swap back to Staff
-10. <Skill id="10236"/>
+7. <Skill name="Signet of Inspiration"/> (free)
+8. <Skill name="Tides of Time"/>
+9. <Skill name="Well of Action"/>
+10. <Skill name="Mimic"/>
+11. Weapon swap
+12. <Skill name="Signet of Inspiration"/> (free)
+13. <Skill name="Signet of Inspiration"/>
 </Card>
 
 <Card title="CC skills">
@@ -150,7 +156,7 @@ Keep in mind that you usually want to replace <Skill id="30814"/> first and use 
 | <Skill id="29856"/> | 99 damage with <Condition name="chilled"/> |
 </Card>
 
-<Video youtube="SKD6K-zCUx4" title="No Staff Rotation by Yui [SC]"/>
+<Video youtube="Q9WBVpiuChU" title="No Staff Rotation by Kite"/>
 </GridItem>
 
 <GridItem>

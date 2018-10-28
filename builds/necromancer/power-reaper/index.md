@@ -1,15 +1,17 @@
 ---
 title: 'Power Reaper'
 date: '2018-09-18'
-rating: 'Good'
+rating: 'Great'
 role: 'Damage'
 profession: 'Necromancer'
 specialization: 'Reaper'
 benchmark: { small: { dps: 31171, by: 'hint [SC]', youtube: 'omFbBVkrJYY' } }
 skills: [30792]
-traits: [2020,2018,2031]
+traits: [2020, 2018, 2031]
 boons: ['Might', 'Fury', 'Quickness']
-conditions: ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poison', 'Blind']
+conditions:
+  ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poison', 'Blind']
+author: Amerikajinn
 ---
 
 The <Specialization name="Reaper" text="Power Reaper"/> build, while not one of the strongest in terms of DPS, is a versatile build that can modify itself to suit a variety of scenarios without many issues.
@@ -91,6 +93,7 @@ This is to be used essentially whenever you're not in <Skill name= "Reapers Shro
 
 Pre 50% HP
 <GridItem sm="10">
+
 1. <Skill name="Grave Digger"/>
 2. <Skill name="Death Spiral"/>
 3. <Skill name="Dusk Strike"/> => <Skill name="Fading Twilight"/> => <Skill name="Chilling Scythe"/> x 3
@@ -99,36 +102,39 @@ Pre 50% HP
 6. <Skill name="Nightfall"/>
 7. <Skill name="Grasping Darkness"/>
 8. Weapon Swap
-</GridItem>
+   </GridItem>
 
 Post 50% HP
 <GridItem sm="10">
+
 1. <Skill name="Grave Digger"/> x 9
 2. <Skill name="Nightfall"/>
 3. <Skill name="Grasping Darkness"/>
 4. Weapon Swap
-</GridItem>
+   </GridItem>
 
-**Axe/Warhorn**
--
+## **Axe/Warhorn**
+
 Use this as part of your rotation, but the best time is to be using this as you are about to break a defiance bar (in tandem with the <Skill name= "Reapers Shroud"/> portion of your rotation)
 <GridItem sm="10">
-1. <Skill name="Ghastly Claws"/> 
+
+1. <Skill name="Ghastly Claws"/>
 2. <Skill name="Locust Swarm"/>
 3. <Skill name="Well of Suffering"/>
 4. <Skill name= "Reapers Shroud"/> (seen below)
-5. <Skill name="Ghastly Claws"/> 
+5. <Skill name="Ghastly Claws"/>
 6. Weapon Swap
-</GridItem>
+   </GridItem>
 
-**<Skill name= "Reapers Shroud"/>**
--
+## **<Skill name= "Reapers Shroud"/>**
+
 Your aim is to use this when you have all of your persistent AoE abilities active (<Skill name="Well of Suffering"/>, <Skill name="Locust Swarm"/>, and <Skill name="Nightfall"/> )
 <GridItem sm="10">
-1. <Skill name="Soul Spiral"/> 
+
+1. <Skill name="Soul Spiral"/>
 2. <Skill name="Life Rend"/> => <Skill name="Life Slash"/> => <Skill name="Life Reap"/> x 5 (or if you're going to drop below 50% life force)
 3. <Skill name= "Reapers Shroud"/> (to leave shroud)
-</GridItem>
+   </GridItem>
 
 </Card>
 <Card title="Advanced Notes">
@@ -140,7 +146,6 @@ Your aim is to use this when you have all of your persistent AoE abilities activ
 
 </Card>
 </GridItem>
-
 
 <GridItem sm="5">
 
@@ -164,7 +169,6 @@ Your aim is to use this when you have all of your persistent AoE abilities activ
 
 </Card>
 
-
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
@@ -175,6 +179,6 @@ Your aim is to use this when you have all of your persistent AoE abilities activ
 | <Skill name="Executioners Scythe" size="big" disableText/> | 150 with <Control name="daze"/> |
 </Card>
 
-<Video youtube="omFbBVkrJYY" title="Small Hitbox: 31.2k DPS by Hint[SC]"/>
+<Video youtube="omFbBVkrJYY" title="Small Hitbox: 31.2k DPS by Hint [SC]"/>
 </GridItem>
 </Grid>
