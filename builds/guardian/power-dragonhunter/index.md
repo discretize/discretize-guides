@@ -1,7 +1,7 @@
 ---
 title: 'Power Dragonhunter'
 date: '2018-09-18'
-rating: 'Great'
+rating: 'Meta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'

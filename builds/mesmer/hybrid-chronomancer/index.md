@@ -1,7 +1,7 @@
 ---
 title: 'Hybrid Chronomancer'
 date: '2018-09-18'
-rating: 'Meta'
+rating: 'Great'
 role: 'Support'
 profession: 'Mesmer'
 specialization: 'Chronomancer'
@@ -62,24 +62,6 @@ Note that the optimal gear uses <Item id="86180"/> infusions, please use our [ge
 <Video youtube="Nze8ccCs8lo" title="Duel/Illu by Van Gherwen [SC] - 15.9k DPS"/>
 
 This build variant has the highest personal DPS but needs <Skill id="10311"/> to keep up permanent <Boon name="quickness"/> and can't share <Boon name="aegis"/>.
-</GridItem>
-</Grid>
-
-<Divider text="Insp/Illu Build"/>
-
-<Grid>
-<GridItem sm="7">
-<Traits traits1Id="23" traits1="Inspiration" traits1SelectedIds="756,1980,1866" traits2Id="24" traits2="Illusions" traits2SelectedIds="1869,729,733" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1890"/>
-</GridItem>
-
-<GridItem sm="5">
-<Skills healId="21750" utility1Id="30814" utility2Id="29856" utility3Id="10236" eliteId="29519"/>
-
-<Video youtube="2_-aKb6VQd8" title="Illu/Insp by Van Gherwen [SC] - 11.6k DPS"/>
-
-Use this build variant if you need the CC from <Skill id="29519"/> and <Boon name="aegis"/> sharing from <Trait id="1852"/> to prevent mechanics like the spinning <Control name="knockback"/> from MAMA ([Nightmare Fractal](https://discretize.eu/fractals/nightmare)).
-
-It also has access to reflects and more frequent <Control name="pull"/>s on focus with <Trait id="751"/>.
 </GridItem>
 </Grid>
 
@@ -153,9 +135,8 @@ As it is almost impossible to follow a fixed rotation in fractals, try to keep t
 
 1. Keep up <Boon name="quickness"/> using <Skill id="10311"/>, <Skill id="30814"/>, <Trait id="729"/> and <Skill id="10236"/>
 2. Keep up <Boon name="alacrity"/> using <Skill id="30643"/>, <Skill id="29856"/>, <Trait id="1927"/> and <Skill id="10236"/>
-3. With Inspiration you have another <Skill id="29724"/> on every phantasm summon due to <Trait id="1866"/>
-4. Break any defiance bar as fast as possible using <Skill id="30643"/>, <Skill id="10287"/> and <Skill id="29519"/>
-5. Do as much DPS as possible
+3. Break any defiance bar as fast as possible using <Skill id="30643"/>, <Skill id="10287"/> and <Skill id="29519"/>
+4. Do as much DPS as possible
    1. Use <Skill id="10174"/> with <Skill id="21750"/> whenever ready
    2. Use <Skill id="10334"/> off recharge, possibly twice with <Skill id="29830"/> (with three illusions)
    3. Don't interrupt your auto-attack chains as the third hit (<Skill id="10172"/>) deals the most damage

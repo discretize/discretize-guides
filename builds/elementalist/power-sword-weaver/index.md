@@ -1,6 +1,6 @@
 ---
 title: 'Power Sword Weaver'
-date: '2018-09-18'
+date: '2018-10-28'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
@@ -58,6 +58,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 | | |
 | -- | -- |
 | <Trait name="Masters Fortitude" size="big" disableText/> | With <Trait name="Spotter"/> or more than 200 agony resistance you are crit capped without <Trait name="Superior Elements"/>, then you can take this trait for extra survivability. |
+| <Trait name="Bolt to the Heart" size="big" disableText/> | In very short-paced fights and good groups where <Trait name="Fresh Air"/> isn't that valuable you can take this for a huge DPS increase below 50%. Especially useful in combination with <Skill name="Unravel"/>. |
 | <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Tempest Defense"/> (e.g. Artsariiv). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
 </Card>
@@ -70,6 +71,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 | | |
 | -- | -- |
 | <Skill name="Arcane Wave" size="big" disableText/> | Deals the same damage as <Skill name="Arcane Blast"/> but on multiple foes. Also useful to generate <Boon name="might"/> with a fire field. |
+| <Skill name="Unravel" size="big" disableText/> | Can be used to get quicker into <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/>. |
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
 | <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
 | <Skill name="Arcane Brilliance" size="big" disableText/> | Sometimes used to blast <Boon name="might"/> in fights like Skorvald. |
