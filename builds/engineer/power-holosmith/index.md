@@ -122,7 +122,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
     40. <Skill id="43937" profession="Engineer"/>
 41. <Skill name="Laser Disk " profession="Engineer"/> (Utility)
 42. <Skill name="Prime Light Beam" profession="Engineer"/> (Elite)
-43. **Repeat from** `Step 12`
+43. **Repeat from** `Step 9`
 </Card>
 </GridItem>
 
