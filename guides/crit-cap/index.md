@@ -82,19 +82,20 @@ Below are some popular trait choices to push Critical Chance.
 
 #### Traits increasing Critical Chance
 
-| Profession                           | Specialization   | Trait                               | Condition                                                   | Critical Chance | Precision  |
-| ------------------------------------ | ---------------- | ----------------------------------- | ----------------------------------------------------------- | --------------- | ---------- |
-| <Specialization name="Guardian"/>    | Radiance         | <Trait name="Radiant Power"/>       | Target must have <Condition name="Burning"/>                | 10%             | 210        |
-| <Specialization name="Guardian"/>    | Radiance         | <Trait name="Righteous Instincts"/> | Player must have <Boon name="Retaliation"/>                 | 50%             | 1050       |
-| <Specialization name="Guardian"/>    | Radiance         | <Trait name="Right-Hand Strength"/> | Only for one-handed weapons                                 | 15%             | 315        |
-| <Specialization name="Ranger"/>      | Skirmishing      | <Trait name="Hunters Tactics"/>     | Player must hit from behind or the side                     | 10%             | 210        |
-| <Specialization name="Ranger"/>      | Skirmishing      | <Trait name="Vicious Quarry"/>      | Player must have <Boon name="Fury"/>                        | 10%             | 210        |
-| <Specialization name="Engineer"/>    | Firearms         | <Trait name="Hematic Focus"/>       | Target must have <Condition name="Bleeding"/>               | 10%             | 210        |
-| <Specialization name="Engineer"/>    | Firearms         | <Trait name="High Caliber"/>        | Target must be closer than 300 units                        | 15%             | 315        |
-| <Specialization name="Thief"/>       | Critical Strikes | <Trait name="Keen Observer"/>       | Player health must be above 90%                             | 5%              | 105        |
-| <Specialization name="Thief"/>       | Critical Strikes | <Trait name="Twin Fangs"/>          | Player must hit from behind or the side                     | 7%              | 147        |
-| <Specialization name="Necromancer"/> | Curses           | <Trait name="Target the Weak"/>     | 2% per unique condition on target                           | up 28%          | up to 588  |
-| <Specialization name="Necromancer"/> | Reaper           | <Trait name="Decimate Defenses"/>   | 2% per stack of <Condition name="Vulnerability"/> on target | up to 50%       | up to 1050 |
+| Profession                            | Specialization   | Trait                               | Condition                                                   | Critical Chance | Precision  |
+| ------------------------------------- | ---------------- | ----------------------------------- | ----------------------------------------------------------- | --------------- | ---------- |
+| <Specialization name="Elementalist"/> | Weaver           | <Trait name="Superior Elements"/>   | Target must have <Condition name="Weakness"/>               | 10%             | 210        |
+| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Radiant Power"/>       | Target must have <Condition name="Burning"/>                | 10%             | 210        |
+| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Righteous Instincts"/> | Player must have <Boon name="Retaliation"/>                 | 50%             | 1050       |
+| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Right-Hand Strength"/> | Only for one-handed weapons                                 | 15%             | 315        |
+| <Specialization name="Ranger"/>       | Skirmishing      | <Trait name="Hunters Tactics"/>     | Player must hit from behind or the side                     | 10%             | 210        |
+| <Specialization name="Ranger"/>       | Skirmishing      | <Trait name="Vicious Quarry"/>      | Player must have <Boon name="Fury"/>                        | 10%             | 210        |
+| <Specialization name="Engineer"/>     | Firearms         | <Trait name="Hematic Focus"/>       | Target must have <Condition name="Bleeding"/>               | 10%             | 210        |
+| <Specialization name="Engineer"/>     | Firearms         | <Trait name="High Caliber"/>        | Target must be closer than 300 units                        | 15%             | 315        |
+| <Specialization name="Thief"/>        | Critical Strikes | <Trait name="Keen Observer"/>       | Player health must be above 90%                             | 5%              | 105        |
+| <Specialization name="Thief"/>        | Critical Strikes | <Trait name="Twin Fangs"/>          | Player must hit from behind or the side                     | 7%              | 147        |
+| <Specialization name="Necromancer"/>  | Curses           | <Trait name="Target the Weak"/>     | 2% per unique condition on target                           | up 28%          | up to 588  |
+| <Specialization name="Necromancer"/>  | Reaper           | <Trait name="Decimate Defenses"/>   | 2% per stack of <Condition name="Vulnerability"/> on target | up to 50%       | up to 1050 |
 
 ---
 

@@ -67,11 +67,12 @@ However, large amounts of self-produced <Condition name="vulnerability"/>, <Boon
 | <Skill name="Summon Shadow Fiend" size="big" disableText/> | Will deal more damage than Well of Corruption for longer drawn out fights, and is also a nice source of Life Force via <Skill name="Haunt"/>|
 | <Skill name="Summon flesh Wurm" size="big" disableText/> | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized). |
 | <Skill name="Spectral Walk " size="big" disableText/> | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova). |
-| <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. Also provides an extra 150 defiance bar damage.|
+| <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. Also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
 | <Skill name="Suffer" size="big" disableText/> | A defensive utility to help mitigate conditions on you, as well as apply extra Chill for usage with <Trait name="Cold Shoulder"/> |
 | <Skill name="You are all Weaklings" size="big" disableText/> | A defensive stun break utility. |
 | <Skill name="Corrupt Boon" size="big" disableText/> | Provides additional boon mitigation for fractals with the No Pain no Gain instability. |
 | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles at fights like Artsariiv or Arkk in the [Shattered Observatory Fractal](/fractals/shattered-observatory). |
+| <Skill name="Nothing Can Save You" size="big" disableText/> | Makes your attacks unblockable, great to break the Ooze in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor). |
 </Card>
 </GridItem>
 </Grid>
@@ -167,6 +168,7 @@ Your aim is to use this when you have all of your persistent AoE abilities activ
    - <Skill name="Soul Spiral"/>
    - Then continue the rotation as normal
 
+Note: You can pre-cast <Skill name="Haunt"/> (even if the boss is invulnerable at first) to apply instant <Condition name="Chilled"/> for 10% damage boost.
 </Card>
 
 <Card title="Defiance Bar Damage">
