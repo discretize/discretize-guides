@@ -49,7 +49,7 @@ So you'll only need a few more points of Precision to reach 100% Critical Chance
 | 207 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                     | 133                                          | 134                                          | 33                                        | 34                                        |
 | 222 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation), <Item id="70596"/>) | 111                                          | 112                                          | 11                                        | 12                                        |
 
-In general you want to stack as much Agony Resistance as possible to benefit from the Precision conversion if you're not crit capped with profession-specific traits. <Item id="37131"/> is usually the way to go as better regular infusions (e.g. <Item name="+16 Agony Infusion"/>) are very expensive.  
+In general you want to stack as much Agony Resistance as possible to benefit from the Precision conversion if you're not crit capped with profession-specific traits. <Item id="37131"/> is usually the way to go as better regular infusions (e.g. <Item id="49439"/>) are very expensive.  
 After that, you need to swap Berserker items (Major: Power; Minor: Precision, Ferocity) for Assassins (Major: Precision; Minor: Power, Ferocity) to gain more Precision.
 
 Keep in mind that you can also take <Item id="37132"/> but normally it is easier to calculate with a full set of Power infusions.
