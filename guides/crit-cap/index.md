@@ -11,7 +11,7 @@ Achieving 100% Critical Chance is desirable for most power-based Guild Wars 2 bu
 
 At level 80, the conversion formula to calculate Critical Chance from Precision is:
 
-> `Critical Chance = (Precision / 895) / 21`
+> `Critical Chance = (Precision - 895) / 21`
 
 _Note: Previously, the Critical Chance displayed ingame was bugged and 99% were actually equal to 100%. This was fixed in a recent patch and you can now rely on the value shown in your hero panel._
 

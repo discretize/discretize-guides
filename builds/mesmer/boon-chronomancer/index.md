@@ -37,13 +37,20 @@ While the sheer amount of possibilities are nice to look at, the Chronomancer is
 
 <Divider text="Equipment"/>
 
+The gearsets below assume 10x <Trait name="Chaotic Persistence"/>, from easily accessible (150 AR, no stat infusions) to optimal (all augmentations, <Item id="70596"/> and 18x <Item id="86180"/>).  
+A Raid optimized set (with 11x <Trait name="Chaotic Persistence" disableText/>) is included for the sake of convenience.
+
+Note that you can use our [Gear Optimizer](http://old.discretize.eu) to calculate the optimal gear for your personal Agony Resistance level.
+
+<Tabs outlined>
+<Tab title="150 Agony Resistance (Regular Infusions)">
 <Grid>
 <GridItem sm="4">
-<Armor helmAffix="Berserker" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Berserker" coatRune="Leadership" glovesAffix="Berserker" glovesRune="Leadership" leggingsAffix="Berserker" leggingsRune="Leadership" bootsAffix="Berserker" bootsRune="Leadership"/>
+<Armor helmAffix="Berserker" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Berserker" coatRune="Leadership" glovesAffix="Berserker" glovesRune="Leadership" leggingsAffix="Commander" leggingsRune="Leadership" bootsAffix="Berserker" bootsRune="Leadership"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Concentration" weapon1OffType="Shield" weapon1OffAffix="Berserker" weapon1OffSigil="Paralyzation" weapon2MainType="Staff" weapon2MainAffix="Berserker" weapon2MainSigil1="Concentration" weapon2MainSigil2="Force"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Commander" weapon1MainSigil1="Concentration" weapon1OffType="Shield" weapon1OffAffix="Commander" weapon1OffSigil="Paralyzation" weapon2MainType="Staff" weapon2MainAffix="Commander" weapon2MainSigil1="Concentration" weapon2MainSigil2="Force"/>
 
 <Card title="Swap Weapons">
 * Focus when reflects or pulls are needed
@@ -52,31 +59,76 @@ While the sheer amount of possibilities are nice to look at, the Chronomancer is
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Commander" accessory1Affix="Berserker" accessory2Affix="Commander" amuletAffix="Berserker" ring1Affix="Commander" ring2Affix="Commander"/>
 
-<Consumables foodId="43550" utilityId="67530" infusionId="37131"/>
+<Consumables foodId="89002" utilityId="67530" infusionId="49432"/>
 </GridItem>
 </Grid>
+</Tab>
+
+<Tab title="222 Agony Resistance (Stat Infusions)">
+<Grid>
+<GridItem sm="4">
+<Armor helmAffix="Commander" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Commander" coatRune="Leadership" glovesAffix="Berserker" glovesRune="Leadership" leggingsAffix="Berserker" leggingsRune="Leadership" bootsAffix="Berserker" bootsRune="Leadership"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Concentration" weapon1OffType="Shield" weapon1OffAffix="Berserker" weapon1OffSigil="Paralyzation" weapon2MainType="Staff" weapon2MainAffix="Berserker" weapon2MainSigil1="Concentration" weapon2MainSigil2="Force"/>
+
+<Card title="Swap Weapons">
+* Focus when reflects or pulls are needed
+* Torch for <Boon name="might"/> stacking
+* Pistol for extra CC
+* Offhand sword for extra DPS
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Commander" ring2Affix="Berserker"/>
+
+<Consumables foodId="89002" utilityId="67530" infusion="Mystical +9 Agony Infusion"/>
+</GridItem>
+</Grid>
+</Tab>
+
+<Tab title="Raid">
+<Grid>
+<GridItem sm="4">
+<Armor helmAffix="Commander" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Commander" coatRune="Leadership" glovesAffix="Berserker" glovesRune="Leadership" leggingsAffix="Berserker" leggingsRune="Leadership" bootsAffix="Berserker" bootsRune="Leadership"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Commander" weapon1MainSigil1="Concentration" weapon1OffType="Shield" weapon1OffAffix="Commander" weapon1OffSigil="Force" weapon2OffType="Sword" weapon2OffAffix="Commander" weapon2OffSigil="Force"/>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Commander" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Commander" ring2Affix="Berserker"/>
+
+<Consumables foodId="89002" utilityId="89203" infusion="Mystical +9 Agony Infusion"/>
+</GridItem>
+</Grid>
+</Tab>
+</Tabs>
 
 Note that you can also run an Offhand Sword instead of Staff for better DPS. It's still possible to achieve 100% <Boon name="retaliation"/> uptime on stationary fights with Sword but Staff is overall the safer option with more <Boon name="aegis"/> uptime, as your only other source is <Trait id="670"/> without it.
 
 <Divider text="Healing Variant"/>
 
-The **Healing Variant** can be used if your party has trouble surviving without a dedicated healer. Note that using full Minstrel equipment, 6x <Item id="24842"/>, <Trait id="1865"/> and <Item id="79722"/> puts you above 100% Boon Duration already - no <Item id="72339"/> needed. You can replace Minstrel with Cleric items for even more Healing Power if you have additional Concentration (like from having more Agony Resistance).
+The **Healing Variant** can be used if your party has trouble surviving without a dedicated healer. The set below is optimized for 150 AR.
 
-Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="1987"/>, <Boon name="regeneration"/> and your heal skill. Keep in mind that <Trait id="757"/> is a strong condition cleanse combined with <Skill id="10213"/> charges. If you have <Trait id="738"/> traited, you can use up mantra charges as the preparation itself heals already as well.
+Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="1987"/>, <Trait name="Illusionary Inspiration"/>, <Boon name="regeneration"/> and your heal skill. Keep in mind that <Trait id="757"/> is a strong condition cleanse combined with <Skill id="10213"/> charges. If you have <Trait id="738"/> traited, you can use up mantra charges as the preparation itself heals already as well.
 
 <Grid>
 <GridItem sm="4">
-<Armor helmAffix="Minstrel" helmId="73970" helmRune="Monk" helmRuneId="24842" helmRuneCount="6" shouldersAffix="Minstrel" shouldersId="73670" shouldersRune="Monk" shouldersRuneId="24842" shouldersRuneCount="6" coatAffix="Minstrel" coatId="74448" coatRune="Monk" coatRuneId="24842" coatRuneCount="6" glovesAffix="Minstrel" glovesId="75866" glovesRune="Monk" glovesRuneId="24842" glovesRuneCount="6" leggingsAffix="Minstrel" leggingsId="70414" leggingsRune="Monk" leggingsRuneId="24842" leggingsRuneCount="6" bootsAffix="Minstrel" bootsId="75349" bootsRune="Monk" bootsRuneId="24842" bootsRuneCount="6"/>
+<Armor helmAffix="Giver" helmRune="Monk" shouldersAffix="Giver" shouldersRune="Monk" coatAffix="Minstrel" coatRune="Monk" glovesAffix="Minstrel" glovesRune="Monk" leggingsAffix="Minstrel" leggingsId="70414" leggingsRune="Monk" bootsAffix="Minstrel" bootsRune="Monk"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Minstrel" weapon1MainId="76730" weapon1MainSigil1="Transference" weapon1MainSigil1Id="74326" weapon1OffType="Shield" weapon1OffAffix="Minstrel" weapon1OffId="74748" weapon1OffSigil="Paralyzation" weapon1OffSigilId="24639" weapon2MainType="Staff" weapon2MainAffix="Minstrel" weapon2MainId="75200" weapon2MainSigil1="Transference" weapon2MainSigil1Id="74326" weapon2MainSigil2="Water" weapon2MainSigil2Id="24551"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Giver" weapon1MainSigil1="Transference" weapon1OffType="Shield" weapon1OffAffix="Giver" weapon1OffSigil="Paralyzation" weapon2MainType="Staff" weapon2MainAffix="Giver" weapon2MainSigil1="Transference" weapon2MainSigil2="Water"/>
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Minstrel" backItemId="79830" backItemStatId="1123" accessory1Affix="Minstrel" accessory1Id="79444" accessory1StatId="1123" accessory2Affix="Minstrel" accessory2Id="79745" accessory2StatId="1123" amuletAffix="Minstrel" amuletId="80241" amuletStatId="1123" ring1Affix="Minstrel" ring1Id="79460" ring1StatId="1123" ring2Affix="Minstrel" ring2Id="79710" ring2StatId="1123"/>
+<BackAndTrinkets backItemAffix="Minstrel" accessory1Affix="Minstrel" accessory2Affix="Minstrel" amuletAffix="Minstrel" ring1Affix="Minstrel" ring2Affix="Minstrel"/>
 
 <Consumables foodId="68634" utilityId="67528" infusionId="37125"/>
 </GridItem>
@@ -86,7 +138,7 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Illusions" traits1Selected="Mind Wrack, Phantasmal Haste, Phantasmal Force" traits2="Chaos" traits2Selected="Master of Manipulation, Chaotic Dampening, Bountiful Disillusionment" traits3="Chronomancer" traits3Selected="Alls Well That Ends Well, Improved Alacrity, Seize the Moment"/>
+<Traits traits1="Illusions" traits1Selected="Shatterstorm, Phantasmal Haste, Phantasmal Force" traits2="Chaos" traits2Selected="Master of Manipulation, Chaotic Dampening, Bountiful Disillusionment" traits3="Chronomancer" traits3Selected="Alls Well That Ends Well, Improved Alacrity, Seize the Moment"/>
 
 <Traits title="Defensive: Inspiration over Illusions" traits1="Inspiration" traits1Selected="Sympathetic Visage, Restorative Illusions, Illusionary Inspiration"/>
 

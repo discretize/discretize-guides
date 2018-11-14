@@ -22,30 +22,31 @@ The build has access to the usual mesmer utilities such as <Skill id="10197"/> a
 
 While the sheer amount of possibilities are nice to look at, the Chronomancer is one of the harder builds to play as the skills require timing and good dynamic decision-making.
 
-<Divider text="Equipment (150 AR + no Spotter)"/>
+<Divider text="Equipment (150 AR + Regular Infusions)"/>
 
-Especially for a Chrono it is highly recommended to aim higher than the minimum required Agony Resistance (e.g. <Item id="70596"/>, 18x <Item id="86180"/> and Agony Impedance as well as Mist Attunement) as you gain additional Boon Duration from the <Item id="79722"/>.
+As the <Specialization text="Hybrid Chronomancer" name="chronomancer"/> does not use the Chaos specialization with <Trait name="Chaotic Persistence"/>, it can not reach 100% Boon Duration without Harrier items, 161+ AR or Concentration infusions.
 
-Note that the optimal gear uses <Item id="86180"/> infusions, please use our [gear optimizer](http://old.discretize.eu/) to determine the optimal gear for your needs.
+Please use our [Gear Optimizer](http://old.discretize.eu) to calculate the optimal gear for your personal Agony Resistance level.
 
 <Grid>
 <GridItem sm="4">
-<Armor helmAffix="Commander" helmId="75727" helmRune="Leadership" helmRuneId="70600" helmRuneCount="6" shouldersAffix="Berserker" shouldersId="48083" shouldersRune="Leadership" shouldersRuneId="70600" shouldersRuneCount="6" coatAffix="Berserker" coatId="48079" coatRune="Leadership" coatRuneId="70600" coatRuneCount="6" glovesAffix="Berserker" glovesId="48080" glovesRune="Leadership" glovesRuneId="70600" glovesRuneCount="6" leggingsAffix="Commander" leggingsId="76139" leggingsRune="Leadership" leggingsRuneId="70600" leggingsRuneCount="6" bootsAffix="Berserker" bootsId="48078" bootsRune="Leadership" bootsRuneId="70600" bootsRuneCount="6"/>
+<Armor helmAffix="Harrier" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Commander" coatRune="Leadership" glovesAffix="Harrier" glovesRune="Leadership" leggingsAffix="Commander" leggingsRune="Leadership" bootsAffix="Harrier" bootsRune="Leadership"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Commander" weapon1MainId="73724" weapon1MainSigil1="Concentration" weapon1MainSigil1Id="72339" weapon1OffType="Shield" weapon1OffAffix="Commander" weapon1OffId="76075" weapon1OffSigil="Force" weapon1OffSigilId="24615" weapon2OffType="Sword" weapon2OffAffix="Commander" weapon2OffId="73724" weapon2OffSigil="Force" weapon2OffSigilId="24615"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Commander" weapon1MainSigil1="Concentration" weapon1OffType="Shield" weapon1OffAffix="Commander" weapon1OffSigil="Force" weapon2OffType="Sword" weapon2OffAffix="Commander" weapon2OffSigil="Force"/>
 
 <Card title="Swap Weapons">
 * Focus when reflects or pulls are needed
 * Torch for <Boon name="might"/> stacking
+* Pistol for extra CC
 </Card>
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Commander" backItemId="79830" backItemStatId="1125" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Commander" amuletId="80241" amuletStatId="1125" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
+<BackAndTrinkets backItemAffix="Commander" accessory1Affix="Commander" accessory2Affix="Commander" amuletAffix="Commander" ring1Affix="Commander" ring2Affix="Commander"/>
 
-<Consumables foodId="43550" utilityId="67530" infusionId="37131"/>
+<Consumables foodId="89002" utilityId="67530" infusionId="49432"/>
 </GridItem>
 </Grid>
 
