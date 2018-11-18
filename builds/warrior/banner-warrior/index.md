@@ -1,6 +1,6 @@
 ---
 title: 'Banner Warrior'
-date: '2018-09-18'
+date: '2018-11-18'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
@@ -52,7 +52,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="4" traits1="Strength" traits1SelectedIds="1444,2000,1437" traits2Id="11" traits2="Tactics" traits2SelectedIds="1471,1482,1667" traits3Id="51" traits3="Discipline" traits3SelectedIds="1413,1484,1369"/>
+<Traits traits1Id="4" traits1="Strength" traits1SelectedIds="1444,2000,1437" traits2="Tactics" traits2Selected="Empowered, Empower Allies, Phalanx Strength" traits3Id="51" traits3="Discipline" traits3SelectedIds="1413,1484,1369"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -63,7 +63,9 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 | -- | -- |
 | <Skill id="14354" size="big" disableText/> | Please use this instead of <Skill id="14502"/> for situations where you should not <Control name="knockback"/> foes (especially trash mobs). |
 | <Trait id="1338" size="big" disableText/> | If you don't need the Mace/Mace CC, you can use a Greatsword and this trait instead. |
-| <Skill id="14419" size="big" disableText/> | A niche skill if you expect people do go down from incoming damage. |
+| <Skill id="14419" size="big" disableText/> | A niche skill if you expect people do go down from incoming damage. Also a good precast to provide more <Boon name="might"/>. |
+| <Skill name="Signet of Rage" size="big" disableText/> | A nice <Boon name="might"/> boost for the party after intermediate phases (e.g. orbs at Ensolyss). |
+| <Skill name="For Great Justice" size="big" disableText/> | If your Chrono isn't running Chaos/Illu or doesn't use his F1 and you are playing the triple DPS team composition you probably lack <Boon name="might"/> uptime. In this case you can use this instead of <Skill id="14502"/> and swap out <Trait name="Peak Performance"/> for <Trait name="Restorative Strength"/> since you can't trigger it anymore. Note that your CC suffers without <Skill name="Kick"/> so it is a good idea to bring [consumables](/guides/consumables). |
 | <Skill id="12363" size="big" disableText/> | Meme DPS. |
 </Card>
 </GridItem>
@@ -75,7 +77,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <GridItem sm="7">
 With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Molten Boss, Twilight Oasis) you will have to take the <Specialization name="spellbreaker"/> specialization.
 
-<Traits traits1Id="4" traits1="Strength" traits1SelectedIds="1444,1338,1437" traits2Id="11" traits2="Tactics" traits2SelectedIds="1471,1482,1667" traits3Id="61" traits3="Spellbreaker" traits3SelectedIds="2107,2126,2060"/>
+<Traits traits1Id="4" traits1="Strength" traits1SelectedIds="1444,1338,1437" traits2="Tactics" traits2Selected="Empowered, Empower Allies, Phalanx Strength" traits3Id="61" traits3="Spellbreaker" traits3SelectedIds="2107,2126,2060"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -83,10 +85,10 @@ With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Mol
 
 ---
 
-Gear-wise you are loosing 85 Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to swap either 
+Gear-wise you are loosing 85 Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to swap either
 
-* <Item affix="Assassin" type="Boots"/>, <Item affix="Assassin" type="gloves"/>, <Item affix="Assassin" type="Back item"/> and <Item affix="Assassin" type="Accessory"/> 
-* or <Item affix="Assassin" type="Amulet"/> and one <Item affix="Assassin" type="Accessory"/>
+- <Item affix="Assassin" type="Boots"/>, <Item affix="Assassin" type="gloves"/>, <Item affix="Assassin" type="Back item"/> and <Item affix="Assassin" type="Accessory"/>
+- or <Item affix="Assassin" type="Amulet"/> and one <Item affix="Assassin" type="Accessory"/>
 
 Everything else stays the same.
 
@@ -134,8 +136,8 @@ If the Mistlock Singularity is easily accessible and close to the encounter:
 - for longer encounters (>70 seconds) use e.g. <Skill id="12363"/> before picking up the Mistlock Singularity
 
 Several Warrior skills involving movement and or leaps such as <Skill id="14446"/>  
-<Skill id="14447"/> <Skill id="45252"/> <Skill id="46233"/> <Skill id="14424"/> <Skill id="14502"/> and <Skill id="14366"/> cannot be canceled by stow/draw weapons but by using weapon swap. 
-  </Card>
+<Skill id="14447"/> <Skill id="45252"/> <Skill id="46233"/> <Skill id="14424"/> <Skill id="14502"/> and <Skill id="14366"/> cannot be canceled by stow/draw weapons but by using weapon swap.
+</Card>
 
 <Card title="Spellbreaker variant">
 * Evolve your rotation around your highest burst damage skills: <Skill id="14399"/> and <Skill id="14554"/>
