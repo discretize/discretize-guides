@@ -1,6 +1,6 @@
 ---
 title: 'Boon Chronomancer'
-date: '2018-10-28'
+date: '2018-11-18'
 rating: 'Meta'
 role: 'Support'
 profession: 'Mesmer'
@@ -214,8 +214,6 @@ Keep in mind that you usually want to replace <Skill id="30814"/> first and use 
 <GridItem>
 <Card title="Skill priority">
 As really every skill you have is worth using, you should simply cast everything whenever it is off recharge after following the opener sequence to the left.
-
-If you're running a setup with <Item id="72339"/>, remember to weapon swap as often as possible and use <Skill id="10236"/> and phantasms triggering <Trait id="1866"/> in the 7 seconds afterwards.
 
 ### Boons
 
