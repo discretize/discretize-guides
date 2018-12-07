@@ -138,7 +138,7 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Illusions" traits1Selected="Shatterstorm, Phantasmal Haste, Phantasmal Force" traits2="Chaos" traits2Selected="Master of Manipulation, Chaotic Dampening, Bountiful Disillusionment" traits3="Chronomancer" traits3Selected="Alls Well That Ends Well, Improved Alacrity, Seize the Moment"/>
+<Traits traits1="Illusions" traits1Selected="Shatterstorm, Phantasmal Haste, Phantasmal Force" traits2="Chaos" traits2Selected="Descent into Madness, Chaotic Dampening, Bountiful Disillusionment" traits3="Chronomancer" traits3Selected="Alls Well That Ends Well, Improved Alacrity, Seize the Moment"/>
 
 <Traits title="Defensive: Inspiration over Illusions" traits1="Inspiration" traits1Selected="Sympathetic Visage, Restorative Illusions, Illusionary Inspiration"/>
 
@@ -148,7 +148,6 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 | <Trait id="1995" size="big" disableText/> | A very small DPS increase in case you don't need the heal from <Trait id="1987"/>. |
 | <Trait id="751" size="big" disableText/> | Use it in combination with a focus for frequent <Control name="pull"/>s and reflects. |
 | <Trait id="674" size="big" disableText/> | Increases the duration of all your <Effect name="stealth"/> skills by 50%. |
-| <Trait name="Descent into Madness" size="big" disableText/> | Provides additional <Boon name="Aegis"/> and <Boon name="Retaliation"/> if you don't need the reduced recharge on <Skill name="Mimic"/> from <Trait name="Master of Manipulation"/>, especially useful if you are running without a Staff since you have no <Boon name="Retaliation"/> source otherwise. |
 </Card>
 </GridItem>
 

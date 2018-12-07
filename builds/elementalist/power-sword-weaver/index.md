@@ -52,15 +52,16 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Fire" traits1Selected="Burning Precision, Pyromancers Training, Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Tempest Defense, Fresh Air" traits3="Weaver" traits3Selected="Superior Elements, Swift Revenge, Elements of Rage"/>
+<Traits traits1="Fire" traits1Selected="Burning Precision, Pyromancers Training, Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Tempest Defense, Bolt to the Heart" traits3="Weaver" traits3Selected="Superior Elements, Swift Revenge, Elements of Rage"/>
 
 <Card title="Situational Traits">
 | | |
 | -- | -- |
 | <Trait name="Masters Fortitude" size="big" disableText/> | With <Trait name="Spotter"/> or more than 200 agony resistance you are crit capped without <Trait name="Superior Elements"/>, then you can take this trait for extra survivability. |
-| <Trait name="Bolt to the Heart" size="big" disableText/> | In very short-paced fights and good groups where <Trait name="Fresh Air"/> isn't that valuable you can take this for a huge DPS increase below 50%. Especially useful in combination with <Skill name="Unravel"/>. |
+| <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
 | <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Tempest Defense"/> (e.g. Artsariiv). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
+| <Trait name="Inscription" size="big" disableText/> | Niche trait to reduce the cooldown of <Skill name="Glyph of Storms"/>. |
 </Card>
 </GridItem>
 
@@ -72,7 +73,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 | -- | -- |
 | <Skill name="Arcane Wave" size="big" disableText/> | Deals the same damage as <Skill name="Arcane Blast"/> but on multiple foes. Also useful to generate <Boon name="might"/> with a fire field. |
 | <Skill name="Primordial Stance" size="big" disableText/> | On small hitboxes and fights with a lot of phasing (e.g. Arkk) <Skill name="Conjure Lightning Hammer"/> isn't that valuable so you can use this instead. |
-| <Skill name="Unravel" size="big" disableText/> | Can be used to get quicker into <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/>. |
+| <Skill name="Unravel" size="big" disableText/> | Can be used to get quicker into <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> for very short-phased fights. |
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
 | <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
 | <Skill name="Arcane Brilliance" size="big" disableText/> | Sometimes used to blast <Boon name="might"/> in fights like Skorvald. |
@@ -88,7 +89,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 
 <Grid>
 <GridItem sm="7">
-<Card title="Rotation (Fresh Air)">
+<Card title="Rotation (Bolt to the Heart)">
 The general idea is to loop between <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> using your strongest skills like <Skill name="Invoke Lightning"/> in Fire with <Trait name="Elements of Rage"/> up.
 
 <Grid>
@@ -117,16 +118,17 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 1. <Skill name="Invoke Lightning"/>
 2. <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap" profession="bundle"/>
 3. <Skill name="Cauterizing Strike"/>
-4. <Skill name="Ring of Fire"/>
-5. <Skill name="Fire Grab"/>
-7. <Skill name="Flame Uprising"/>
+4. <Skill name="Fire Grab"/>
+5. <Skill name="Flame Uprising"/>
 </GridItem>
 
 <GridItem sm="2">
-<Skill name="Water Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
-1. <Skill name="Twin Strike"/>
+1. <Skill name="Ring of Fire"/>
+2. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+3. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
 </GridItem>
 
 <GridItem sm="2">
@@ -161,22 +163,16 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 
 <GridItem sm="2">
-<Skill name="Water Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
-1. <Skill name="Twin Strike"/>
-</GridItem>
-
-<GridItem sm="2">
-<Skill name="Air Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="10">
-1. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+1. <Skill name="Fire Grab"/>
 2. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+3. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
 </GridItem>
 </Grid>
 
-Without <Trait name="Fresh Air"/> you skip <Skill name="Water Attunement" disableText/> and go directly into <Skill name="Air Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> after using your Fire skills. Note that you can't double attune to <Skill name="Air Attunement" disableText/> immediately so you have to do at least one more Air auto-attack chain.
+With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill name="Water Attunement" disableText/> before going directly into <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> after using your Fire skills.
 </Card>
 </GridItem>
 
