@@ -148,6 +148,7 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 | <Trait id="1995" size="big" disableText/> | A very small DPS increase in case you don't need the heal from <Trait id="1987"/>. |
 | <Trait id="751" size="big" disableText/> | Use it in combination with a focus for frequent <Control name="pull"/>s and reflects. |
 | <Trait id="674" size="big" disableText/> | Increases the duration of all your <Effect name="stealth"/> skills by 50%. |
+| <Trait name="Master of Manipulation" size="big" disableText/> | If you are running without the Illusions traitline, your CS cooldown will be longer and this trait is sometimes worth it for better Mimic alignment. |
 </Card>
 </GridItem>
 
