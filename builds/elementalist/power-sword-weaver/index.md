@@ -7,7 +7,7 @@ profession: 'Elementalist'
 specialization: 'Weaver'
 benchmark:
   {
-    large: { dps: 38171, by: 'Fennec [qT]', youtube: '3WRlngp2B8w' },
+    large: { dps: 38120, by: 'Fallen [SC]', youtube: '6oRoJ72CNqI' },
     small: { dps: 36644, by: 'Derpy Moa [SC]', youtube: 'yxeQA63tUtw' },
   }
 skills: [5536]
@@ -116,10 +116,9 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 <GridItem sm="10">
 1. <Skill name="Invoke Lightning"/>
-2. <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap" profession="bundle"/>
-3. <Skill name="Cauterizing Strike"/>
-4. <Skill name="Fire Grab"/>
-5. <Skill name="Flame Uprising"/>
+2. <Skill name="Cauterizing Strike"/>
+3. <Skill name="Fire Grab"/>
+4. <Skill name="Flame Uprising"/>
 </GridItem>
 
 <GridItem sm="2">
@@ -136,7 +135,6 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 <GridItem sm="10">
 1. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
-2. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
 3. <Skill name="Quantum Strike"/>
 </GridItem>
 
@@ -166,8 +164,8 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 <Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
-1. <Skill name="Fire Grab"/>
-2. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+1. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+2. <Skill name="Fire Grab"/>
 3. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
 </GridItem>
 </Grid>
@@ -204,6 +202,6 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 | <Skill name="Polaric Leap" size="big" disableText/> | 100 with <Control name="daze"/> |
 </Card>
 
-<Video youtube="3WRlngp2B8w" title="Huge Hitbox: 38.2k DPS by Fennec [qT]"/>
+<Video youtube="6oRoJ72CNqI" title="Huge Hitbox: 38.1k DPS by Fallen [SC]"/>
 </GridItem>
 </Grid>
