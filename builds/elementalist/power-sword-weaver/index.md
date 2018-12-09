@@ -1,6 +1,6 @@
 ---
 title: 'Power Sword Weaver'
-date: '2018-11-18'
+date: '2018-12-09'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
@@ -116,9 +116,10 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 <GridItem sm="10">
 1. <Skill name="Invoke Lightning"/>
-2. <Skill name="Cauterizing Strike"/>
-3. <Skill name="Fire Grab"/>
-4. <Skill name="Flame Uprising"/>
+2. <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap" profession="bundle"/>
+3. <Skill name="Cauterizing Strike"/>
+4. <Skill name="Fire Grab"/>
+5. <Skill name="Flame Uprising"/>
 </GridItem>
 
 <GridItem sm="2">

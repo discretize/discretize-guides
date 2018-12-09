@@ -46,7 +46,7 @@ Note that you can use our [Gear Optimizer](http://old.discretize.eu) to calculat
 <Tab title="150 Agony Resistance (Regular Infusions)">
 <Grid>
 <GridItem sm="4">
-<Armor helmAffix="Berserker" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Berserker" coatRune="Leadership" glovesAffix="Berserker" glovesRune="Leadership" leggingsAffix="Commander" leggingsRune="Leadership" bootsAffix="Berserker" bootsRune="Leadership"/>
+<Armor weight="Light" helmAffix="Berserker" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Berserker" coatRune="Leadership" glovesAffix="Berserker" glovesRune="Leadership" leggingsAffix="Commander" leggingsRune="Leadership" bootsAffix="Berserker" bootsRune="Leadership"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -69,7 +69,7 @@ Note that you can use our [Gear Optimizer](http://old.discretize.eu) to calculat
 <Tab title="222 Agony Resistance (Stat Infusions)">
 <Grid>
 <GridItem sm="4">
-<Armor helmAffix="Commander" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Commander" coatRune="Leadership" glovesAffix="Berserker" glovesRune="Leadership" leggingsAffix="Berserker" leggingsRune="Leadership" bootsAffix="Berserker" bootsRune="Leadership"/>
+<Armor weight="Light" helmAffix="Commander" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Commander" coatRune="Leadership" glovesAffix="Berserker" glovesRune="Leadership" leggingsAffix="Berserker" leggingsRune="Leadership" bootsAffix="Berserker" bootsRune="Leadership"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -94,7 +94,7 @@ Note that you can use our [Gear Optimizer](http://old.discretize.eu) to calculat
 <Tab title="Raid">
 <Grid>
 <GridItem sm="4">
-<Armor helmAffix="Commander" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Commander" coatRune="Leadership" glovesAffix="Berserker" glovesRune="Leadership" leggingsAffix="Berserker" leggingsRune="Leadership" bootsAffix="Berserker" bootsRune="Leadership"/>
+<Armor weight="Light" helmAffix="Commander" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Commander" coatRune="Leadership" glovesAffix="Berserker" glovesRune="Leadership" leggingsAffix="Berserker" leggingsRune="Leadership" bootsAffix="Berserker" bootsRune="Leadership"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -120,7 +120,7 @@ Your main heal sources are <Trait id="1915"/>, <Trait id="740"/>, <Trait id="198
 
 <Grid>
 <GridItem sm="4">
-<Armor helmAffix="Giver" helmRune="Monk" shouldersAffix="Giver" shouldersRune="Monk" coatAffix="Minstrel" coatRune="Monk" glovesAffix="Minstrel" glovesRune="Monk" leggingsAffix="Minstrel" leggingsId="70414" leggingsRune="Monk" bootsAffix="Minstrel" bootsRune="Monk"/>
+<Armor weight="Light" helmAffix="Giver" helmRune="Monk" shouldersAffix="Giver" shouldersRune="Monk" coatAffix="Minstrel" coatRune="Monk" glovesAffix="Minstrel" glovesRune="Monk" leggingsAffix="Minstrel" leggingsId="70414" leggingsRune="Monk" bootsAffix="Minstrel" bootsRune="Monk"/>
 </GridItem>
 
 <GridItem sm="4">
