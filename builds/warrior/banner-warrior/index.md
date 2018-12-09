@@ -27,7 +27,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <Grid>
 <GridItem sm="4">
-<Armor helmAffix="Assassin" helmId="48129" helmRune="Scholar" helmRuneId="24836" helmRuneCount="6" shouldersAffix="Assassin" shouldersId="48131" shouldersRune="Scholar" shouldersRuneId="24836" shouldersRuneCount="6" coatAffix="Berserker" coatId="48073" coatRune="Scholar" coatRuneId="24836" coatRuneCount="6" glovesAffix="Berserker" glovesId="48074" glovesRune="Scholar" glovesRuneId="24836" glovesRuneCount="6" leggingsAffix="Berserker" leggingsId="48076" leggingsRune="Scholar" leggingsRuneId="24836" leggingsRuneCount="6" bootsAffix="Berserker" bootsId="48072" bootsRune="Scholar" bootsRuneId="24836" bootsRuneCount="6"/>
+<Armor weight="Heavy" helmAffix="Assassin" helmId="48129" helmRune="Scholar" helmRuneId="24836" helmRuneCount="6" shouldersAffix="Assassin" shouldersId="48131" shouldersRune="Scholar" shouldersRuneId="24836" shouldersRuneCount="6" coatAffix="Berserker" coatId="48073" coatRune="Scholar" coatRuneId="24836" coatRuneCount="6" glovesAffix="Berserker" glovesId="48074" glovesRune="Scholar" glovesRuneId="24836" glovesRuneCount="6" leggingsAffix="Berserker" leggingsId="48076" leggingsRune="Scholar" leggingsRuneId="24836" leggingsRuneCount="6" bootsAffix="Berserker" bootsId="48072" bootsRune="Scholar" bootsRuneId="24836" bootsRuneCount="6"/>
 </GridItem>
 
 <GridItem sm="4">

@@ -30,7 +30,7 @@ Please use our [Gear Optimizer](http://old.discretize.eu) to calculate the optim
 
 <Grid>
 <GridItem sm="4">
-<Armor helmAffix="Harrier" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Commander" coatRune="Leadership" glovesAffix="Harrier" glovesRune="Leadership" leggingsAffix="Commander" leggingsRune="Leadership" bootsAffix="Harrier" bootsRune="Leadership"/>
+<Armor weight="Light" helmAffix="Harrier" helmRune="Leadership" shouldersAffix="Berserker" shouldersRune="Leadership" coatAffix="Commander" coatRune="Leadership" glovesAffix="Harrier" glovesRune="Leadership" leggingsAffix="Commander" leggingsRune="Leadership" bootsAffix="Harrier" bootsRune="Leadership"/>
 </GridItem>
 
 <GridItem sm="4">
