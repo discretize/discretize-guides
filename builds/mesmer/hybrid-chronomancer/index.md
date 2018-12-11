@@ -6,7 +6,7 @@ role: 'Support'
 profession: 'Mesmer'
 specialization: 'Chronomancer'
 benchmark:
-  { small: { dps: 15924, by: 'Van Gherwen [SC]', youtube: 'Nze8ccCs8lo' } }
+  { small: { dps: 13383, by: 'Kirasia [SC]', youtube: '9aGQDaCkOGo' } }
 skills: [10197, 10200, 29830, 10267, 10186, 10302, 10236, 29519]
 traits: [1852]
 boons: ['Quickness', 'Alacrity', 'Might', 'Fury', 'Swiftness', 'Vigor', 'Aegis']
@@ -60,7 +60,7 @@ Please use our [Gear Optimizer](http://old.discretize.eu) to calculate the optim
 <GridItem sm="5">
 <Skills healId="21750" utility1Id="30814" utility2Id="29856" utility3Id="10236" eliteId="10311"/>
 
-<Video youtube="Nze8ccCs8lo" title="Duel/Illu by Van Gherwen [SC] - 15.9k DPS"/>
+<Video youtube="9aGQDaCkOGo" title="Duel/Illu by Kirasia [SC] - 13.4k DPS"/>
 
 This build variant has the highest personal DPS but needs <Skill id="10311"/> to keep up permanent <Boon name="quickness"/> and can't share <Boon name="aegis"/>.
 </GridItem>
