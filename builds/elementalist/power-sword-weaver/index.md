@@ -1,6 +1,6 @@
 ---
 title: 'Power Sword Weaver'
-date: '2018-12-09'
+date: '2018-12-11'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
