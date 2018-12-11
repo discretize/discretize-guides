@@ -1,13 +1,13 @@
 ---
 title: 'Power Deadeye'
-date: '2018-09-18'
+date: '2018-12-11'
 group: 'Good Builds'
 role: 'Damage'
 profession: 'Thief'
 specialization: 'Deadeye'
 rating: 'Great'
 benchmark:
-  { small: { dps: 36939, by: 'Derpy Moa [SC]', youtube: 'WmvH1QH9xe0' } }
+  { small: { dps: 36562, by: 'Derpy Moa [SC]', youtube: '2SKrH2RM77Q' } }
 skills: [13132, 43390]
 conditions: ['Vulnerability']
 effects: ['Stealth']
@@ -103,7 +103,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 * At `Step 11` F1 after an autoattack chain and F2 after an Autoattack chain while under Revealed / <Skill id="13046"/>
 * From `Step 11` <Skill id="41158"/> when off cd, delay if in line with <Skill id="13046" disableText/> and <Skill id="50481"/>) 
 </Card>
-<Video youtube="WmvH1QH9xe0" title="Deadeye D/D 36.9k by Derpy Moa [SC]"/>  
+<Video youtube="2SKrH2RM77Q" title="Deadeye D/D 36.6k by Derpy Moa [SC]"/>  
 <Card title="CC skills">
 | | |
 | -- | -- |
