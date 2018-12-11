@@ -1,11 +1,11 @@
 ---
 title: 'Power Reaper'
-date: '2018-09-18'
+date: '2018-12-11'
 rating: 'Great'
 role: 'Damage'
 profession: 'Necromancer'
 specialization: 'Reaper'
-benchmark: { small: { dps: 31171, by: 'hint [SC]', youtube: 'omFbBVkrJYY' } }
+benchmark: { small: { dps: 30304, by: 'Target [SC]', youtube: 'Sc7SgTDskKA' } }
 skills: [30792]
 traits: [2020, 2018, 2031]
 boons: ['Might', 'Fury', 'Quickness']
@@ -181,6 +181,6 @@ Note: You can pre-cast <Skill name="Haunt"/> (even if the boss is invulnerable a
 | <Skill name="Executioners Scythe" size="big" disableText/> | 150 with <Control name="daze"/> |
 </Card>
 
-<Video youtube="omFbBVkrJYY" title="Small Hitbox: 31.2k DPS by Hint [SC]"/>
+<Video youtube="Sc7SgTDskKA" title="Small Hitbox: 30.3k DPS by Target [SC]"/>
 </GridItem>
 </Grid>
