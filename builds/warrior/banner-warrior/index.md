@@ -1,6 +1,6 @@
 ---
 title: 'Banner Warrior'
-date: '2018-11-18'
+date: '2018-12-11'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
@@ -185,6 +185,6 @@ With mainhand dagger on <Specialization name="spellbreaker"/>:
 
 </Card>
 
-<Video youtube="TKiTXjFYxEI" title="Greatsword + Axe/Axe by Helli [SC]"/>
+<Video youtube="CM4zHg4Usx0" title="Greatsword + Axe/Axe by Tempys [SC]"/>
 </GridItem>
 </Grid>
