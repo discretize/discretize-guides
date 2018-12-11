@@ -5,7 +5,7 @@ rating: 'Meta'
 role: 'Support'
 profession: 'Mesmer'
 specialization: 'Chronomancer'
-benchmark: { small: { dps: 7886, by: 'Yui [SC]', youtube: 'SKD6K-zCUx4' } }
+benchmark: { small: { dps: 9245, by: 'Kirasia [SC]', youtube: 'gJAJvCHkA0Q' } }
 skills: [10197, 10200, 29830, 10267, 10186, 10302, 10236, 29519]
 traits: [1852]
 boons:
