@@ -8,7 +8,7 @@ specialization: 'Weaver'
 benchmark:
   {
     large: { dps: 38120, by: 'Fallen [SC]', youtube: '6oRoJ72CNqI' },
-    small: { dps: 36644, by: 'Derpy Moa [SC]', youtube: 'yxeQA63tUtw' },
+    small: { dps: 36166, by: 'Roul [SC]', youtube: 'CbRPpAxWJGE' },
   }
 skills: [5536]
 traits: [1502]
