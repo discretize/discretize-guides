@@ -1,6 +1,6 @@
 ---
 title: 'Boon Chronomancer'
-date: '2018-11-18'
+date: '2018-12-11'
 rating: 'Meta'
 role: 'Support'
 profession: 'Mesmer'
