@@ -1,11 +1,11 @@
 ---
 title: 'Power Soulbeast'
-date: '2018-09-18'
+date: '2018-12-11'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-benchmark: { small: { dps: 33848, by: 'Casual [SC]', youtube: 'zxpzA6iWFu0' } }
+benchmark: { small: { dps: 34101, by: 'Casual [SC]', youtube: 'zhML91Dzdlc' } }
 skills: [12497, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
@@ -131,6 +131,6 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 | <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>) |
 </Card>
 
-<Video youtube="zxpzA6iWFu0" title="Power Soulbeast 33.8k by Casual [SC]"/>
+<Video youtube="zhML91Dzdlc" title="Power Soulbeast 34.1k by Casual [SC]"/>
 </GridItem>
 </Grid>
