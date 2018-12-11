@@ -1,11 +1,11 @@
 ---
 title: 'Power Staff Weaver'
-date: '2018-09-18'
+date: '2018-12-11'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
-benchmark: { large: { dps: 34137, by: 'Roul [SC]', youtube: 'Ui4kXP6fLhU' } }
+benchmark: { large: { dps: 35023, by: 'Randy Siren [SC]', youtube: 'oZqMxPHwEg0' } }
 skills: [5536]
 traits: [264, 1502]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection']
@@ -178,6 +178,6 @@ Start in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> with <Ski
 | <Skill id="5515"/> | 198 damage <Condition name="chilled"/> 6 sec|
 </Card>
 
-<Video youtube="Ui4kXP6fLhU" title="Huge Hitbox: 34.1k DPS by Roul [SC]"/>
+<Video youtube="oZqMxPHwEg0" title="Huge Hitbox: 35.0k DPS by Randy Siren [SC]"/>
 </GridItem>
 </Grid>
