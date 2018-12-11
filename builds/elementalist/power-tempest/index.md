@@ -5,7 +5,7 @@ rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Tempest'
-benchmark: { large: { dps: 36439, by: 'Roul [SC]', youtube: '7iChM4gEXqE' } }
+benchmark: { huge: { dps: 36439, by: 'Roul [SC]', youtube: '7iChM4gEXqE' } }
 skills: [5536, 29719, 30432]
 traits: [264, 1502, 1952, 1839, 1986, 2033]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection', 'Vigor']
