@@ -1,12 +1,12 @@
 ---
 title: 'Power Dragonhunter'
-date: '2018-09-18'
+date: '2018-12-11'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
 benchmark:
-  { large: { dps: 34188, by: 'Roul [SC]', youtube: 'mnQ-RPBHa5k' } }
+  { huge: { dps: 34188, by: 'Roul [SC]', youtube: 'mnQ-RPBHa5k' } }
 skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
