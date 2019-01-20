@@ -1,10 +1,10 @@
 ---
-title: 'Hybrid Chronomancer'
+title: 'Heal Renegade'
 date: '2019-01-20'
-rating: 'Meta'
+rating: 'Great'
 role: 'Support'
-profession: 'Mesmer'
-specialization: 'Chronomancer'
+profession: 'Revenant'
+specialization: 'Renegade'
 benchmark:
   { small: { dps: 15924, by: 'Van Gherwen [SC]', youtube: 'Nze8ccCs8lo' } }
 skills: [10197, 10200, 29830, 10267, 10186, 10302, 10236, 29519]
@@ -12,6 +12,7 @@ traits: [1852]
 boons: ['Quickness', 'Alacrity', 'Might', 'Fury', 'Swiftness', 'Vigor', 'Aegis']
 conditions: ['Vulnerability']
 effects: ['Stealth']
+private: true
 ---
 
 The <Specialization text="Hybrid Chronomancer" name="chronomancer"/> is the ideal support variant if you're playing with a <Specialization name="druid"/> and <Specialization name="weaver" text="Air Weaver"/>s. It provides permanent <Boon name="quickness"/>, <Boon name="alacrity"/> and around 10x <Boon name="might"/> while dealing relatively high personal DPS.

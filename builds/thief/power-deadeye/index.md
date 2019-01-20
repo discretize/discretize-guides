@@ -1,11 +1,10 @@
 ---
 title: 'Power Deadeye'
-date: '2018-09-18'
-group: 'Good Builds'
+date: '2019-01-20'
+rating: 'Good'
 role: 'Damage'
 profession: 'Thief'
 specialization: 'Deadeye'
-rating: 'Great'
 benchmark:
   { small: { dps: 36939, by: 'Derpy Moa [SC]', youtube: 'WmvH1QH9xe0' } }
 skills: [13132, 43390]

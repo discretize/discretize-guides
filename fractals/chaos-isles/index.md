@@ -5,7 +5,7 @@ image: './images/legendary_brazen_gladiator.jpg'
 group: 'T4'
 api: 3038
 bosses: 2
-difficulties: [{ level: 88, ar: 129 }]
+difficulties: [{ level: 88, ar: 129 }, { level: 98, ar: 147 }]
 record:
   {
     time: '3:48',

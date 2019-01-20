@@ -1,6 +1,6 @@
 ---
 title: 'Power Sword Weaver'
-date: '2018-12-09'
+date: '2019-01-20'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
@@ -34,10 +34,11 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Dagger" weapon1OffAffix="Berserker" weapon1OffSigil="Force"/>
 
 <Card title="Swap Weapons">
-* Sword with <Item name="Night" type="Sigil"/>
+* Dagger with <Item name="Night" type="Sigil"/>
 * Dagger with <Item name="Serpent Slaying" type="Sigil"/>
-* Swords with slaying sigils (see [Consumables Guide](/guides/consumables))
+* Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
 * A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="might"/>
+* A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Card>
 </GridItem>
 
@@ -62,6 +63,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 | <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Tempest Defense"/> (e.g. Artsariiv). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
 | <Trait name="Inscription" size="big" disableText/> | Niche trait to reduce the cooldown of <Skill name="Glyph of Storms"/>. |
+| <Trait name="Conjurer" size="big" disableText/> | Another niche trait to reduce the cooldown of conjured weapons. |
 </Card>
 </GridItem>
 
@@ -73,7 +75,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 | -- | -- |
 | <Skill name="Arcane Wave" size="big" disableText/> | Deals the same damage as <Skill name="Arcane Blast"/> but on multiple foes. Also useful to generate <Boon name="might"/> with a fire field. |
 | <Skill name="Primordial Stance" size="big" disableText/> | On small hitboxes and fights with a lot of phasing (e.g. Arkk) <Skill name="Conjure Lightning Hammer"/> isn't that valuable so you can use this instead. |
-| <Skill name="Unravel" size="big" disableText/> | Can be used to get quicker into <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> for very short-phased fights. |
+| <Skill name="Unravel" size="big" disableText/> | Can be used to get quicker into <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> for fights with very short phases. |
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
 | <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
 | <Skill name="Arcane Brilliance" size="big" disableText/> | Sometimes used to blast <Boon name="might"/> in fights like Skorvald. |
@@ -185,7 +187,9 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
    - <Skill name="Flame Uprising"/> and <Skill name="Lava Skin"/>
    - Attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> and delay until the bar is about to be broken
    - Continue with the usual rotation
-
+- If you have spare time before the encounter becomes active
+   - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
+   - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting
 </Card>
 
 <Card title="Advanced Notes">
@@ -201,6 +205,8 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 | <Skill name="Updraft" size="big" disableText/> | 332 with <Control name="launch"/> |
 | <Skill name="Wind Blast" size="big" disableText/> | 232 with <Control name="launch"/> |
 | <Skill name="Polaric Leap" size="big" disableText/> | 100 with <Control name="daze"/> |
+| <Skill name="Earthquake" size="big" disableText/> | 200 with <Control name="knockdown"/> |
+| <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="float"/> |
 </Card>
 
 <Video youtube="6oRoJ72CNqI" title="Huge Hitbox: 38.1k DPS by Fallen [SC]"/>

@@ -1,15 +1,17 @@
 ---
-title: 'Power Dragonhunter'
+title: 'Heal Firebrand'
 date: '2019-01-20'
-rating: 'Meta'
-role: 'Damage'
+rating: 'Great'
+role: 'Support'
 profession: 'Guardian'
-specialization: 'Dragonhunter'
+specialization: 'Firebrand'
 benchmark:
   { large: { dps: 32230, by: 'Derpy Moa [SC]', youtube: 'vTjd9gm6Z9Q' } }
 skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
+effects: ['Stealth']
+private: true
 ---
 
 The <Specialization name="dragonhunter" text="Power Dragonhunter"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
@@ -26,11 +28,11 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Force"/>
+<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
 
 <Card title="Alternative weapons">
-- Greatswords and foci with <Item name="Night" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>
-- Greatswords and foci with (see [Consumables Guide](/guides/consumables))
+- <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
+  (<Item id="36054"/> doesn't stack anymore)
 - Hammer for <Boon name="might"/> stacking
 </Card>
 </GridItem>
@@ -56,11 +58,9 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 | | |
 | -- | -- |
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
-| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
 | <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
-| <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside. |
 </Card>
 </GridItem>
 </Grid>
@@ -85,7 +85,6 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 13. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
 14. <Skill name="Sword of Justice" profession="guardian"/> (Utility)
 15. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
-16. Repeat
 </Card>
 </GridItem>
 

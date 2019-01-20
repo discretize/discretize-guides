@@ -1,7 +1,7 @@
 ---
 title: 'Power Staff Weaver'
-date: '2018-09-18'
-rating: 'Meta'
+date: '2019-01-20'
+rating: 'Great'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
