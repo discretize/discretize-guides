@@ -1,6 +1,6 @@
 ---
 title: 'Power Soulbeast'
-date: '2018-09-18'
+date: '2019-01-20'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -33,6 +33,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 * Warhorn for <Boon name="might"/> pre-stacking. Also useful as a replacement for Greatsword one some bosses (e.g. Skorvald).
 * Sword with <Item name="Night" type="Sigil"/> and other with <Item name="Serpent Slaying" type="Sigil"/>
 * Axes and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
+* Longbow to precast <Skill name="Barrage"/>
 </Card>
 </GridItem>
 
@@ -79,11 +80,18 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <GridItem sm="5">
 <Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 
+<Card title="Situational">
+| | |
+| -- | -- |
+| <Trait name="Leader of the Pack" size="big" disableText/> | Very strong alternative to <Trait name="Oppressive Superiority"/> for fights where your party can profit from the shared <Skill name="One Wolf Pack"/>. Currently meta with Firebrand/Renegade on Skorvald, Arkk and Ensolyss. You should also activate it when precasting <Skill name="One Wolf Pack"/> and retrait before getting into combat. |
+</Card>
+
 <Card title="Pets">
 | | | |
 | -- | -- | -- |
 | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) | Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) | Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
+| <Skill id="12658" size="big" disableText/> | [Jungle Stalker](https://wiki.guildwars2.com/wiki/Juvenile_Jungle_Stalker) | Provides 5 stacks of <Boon name="might"/>, useful after long intermediate phases (e.g. orbs at Ensolyss). |
 </Card>
 </GridItem>
 </Grid>
@@ -122,13 +130,19 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </GridItem>
 
 <GridItem sm="5">
+<Card title="Notes">
+- Warhorn is currently only used with very fast groups on Skorvald, simply use <Skill name="Hunters Call"/> before swapping to axe
+- Precast <Skill name="Firestorm" profession="bundle"/> from <Skill name="Conjure Fiery Greatsword"/> if you have one, otherwise <Skill name="Barrage"/> from longbow
+- For short-phased fights with greatsword you can skip steps 4 and 5 to cast <Skill id="12639"/> earlier
+- <Skill id="12639"/> reflects projectiles - this is very strong on Artsariiv (learn the animation of her throwing the orbs) and some other encounters (with <Boon name="Stability"/> and <Boon name="Aegis"/> you can even reflect the orbs on Arkk)
+</Card>
+
 <Card title="CC skills">
 | | |
 | -- | -- |
-| <Skill id="43636"/> | 232 damage (Rock Gazelle) |
-| <Skill id="12638"/> | 150 damage (Axe 4) |
-| <Skill id="12475"/> | 150 damage (Greatsword 5) |
 | <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>) |
+| <Skill id="12638"/> | 150 damage (Axe 4) |
+| <Skill id="12475"/> | 150 damage (Greatsword 5) from behind |
 </Card>
 
 <Video youtube="zxpzA6iWFu0" title="Power Soulbeast 33.8k by Casual [SC]"/>

@@ -1,6 +1,6 @@
 ---
-title: 'Boon Druid'
-date: '2018-11-18'
+title: 'Heal Druid'
+date: '2019-01-20'
 rating: 'Great'
 role: 'Support'
 profession: 'Ranger'

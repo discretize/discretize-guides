@@ -1,6 +1,6 @@
 ---
 title: 'Power Holosmith'
-date: '2018-09-18'
+date: '2019-01-20'
 rating: 'Great'
 role: 'Damage'
 profession: 'Engineer'
