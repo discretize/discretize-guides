@@ -5,7 +5,7 @@ rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
 specialization: 'Warrior'
-benchmark: { small: { dps: 26416, by: 'Chris [SC]', youtube: 'NpohDeOgCZ4' } }
+benchmark: { small: { dps: 26,582, by: 'Chris [SC]', youtube: 'ZXIAmgy5Op8' } }
 skills: [14407, 14405, 45252, 45333]
 traits: [1482]
 conditions: ['Vulnerability']
@@ -238,6 +238,6 @@ With mainhand dagger on <Specialization name="spellbreaker"/>:
 
 </Card>
 
-<Video youtube="TKiTXjFYxEI" title="Greatsword + Axe/Axe by Helli [SC]"/>
+<Video youtube="ZXIAmgy5Op8" title="Axe/Axe by Chris [SC]"/>
 </GridItem>
 </Grid>
