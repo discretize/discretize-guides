@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
 benchmark:
-  { large: { dps: 32230, by: 'Derpy Moa [SC]', youtube: 'vTjd9gm6Z9Q' } }
+  { small: { dps: 33,628, by: 'Roul [SC]', youtube: 'pUu4a_KYsQw' } }
 skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
