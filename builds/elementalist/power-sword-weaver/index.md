@@ -7,8 +7,8 @@ profession: 'Elementalist'
 specialization: 'Weaver'
 benchmark:
   {
-    large: { dps: 38120, by: 'Fallen [SC]', youtube: '6oRoJ72CNqI' },
-    small: { dps: 36644, by: 'Derpy Moa [SC]', youtube: 'yxeQA63tUtw' },
+    small: { dps: 36,275, by: 'Fallen [SC]', youtube: 'zH4cTgApO6c' },
+    small: { dps: 35,980, by: 'Randy Siren [SC]', youtube: 'notwqC1Eqc' },
   }
 skills: [5536]
 traits: [1502]
@@ -209,6 +209,6 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 | <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="float"/> |
 </Card>
 
-<Video youtube="6oRoJ72CNqI" title="Huge Hitbox: 38.1k DPS by Fallen [SC]"/>
+<Video youtube="zH4cTgApO6c" title="Small Hitbox: 36.2k DPS by Fallen [SC]"/>
 </GridItem>
 </Grid>
