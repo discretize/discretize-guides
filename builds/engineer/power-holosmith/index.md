@@ -5,7 +5,7 @@ rating: 'Great'
 role: 'Damage'
 profession: 'Engineer'
 specialization: 'Holosmith'
-benchmark: { small: { dps: 33235, by: 'hint [SC]', youtube: '8P4L9nammVk' } }
+benchmark: { small: { dps: 33,402: by: 'hint [SC]', youtube: '77pw-5ei_Lc' } }
 skills: [30815, 43739]
 traits: [517]
 conditions: ['Vulnerability', 'Blind', 'Crippled', 'Immobile']
@@ -127,7 +127,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </GridItem>
 
 <GridItem sm="5">
-<Video youtube="8P4L9nammVk" title="Huge Hitbox: 33.2k DPS by hint [SC]"/> 
+<Video youtube="77pw-5ei_Lc" title="Small Hitbox: 33.4k DPS by hint [SC]"/> 
 <Card title="Notes and tips">
 * Don't interrupt your auto attack chain in Photon Forge
 * Use your hardest hitting skills under the effect of the <Trait id="2106"/> (and possibly <Trait id="2122"/>) buff. These include the landing damage from <Skill id="6005"/>, <Skill id="6153"/> and <Skill id="42009"/>. Keep in mind that <Trait id="2106"/> consumes its charges while <Trait id="2122"/> is a duration buff.
