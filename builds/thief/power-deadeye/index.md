@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Thief'
 specialization: 'Deadeye'
 benchmark:
-  { small: { dps: 36,501, by: 'Derpy Moa [SC]', youtube: 'XM6_pqDpV2w' } }
+  { small: { dps: 36501, by: 'Derpy Moa [SC]', youtube: 'XM6_pqDpV2w' } }
 skills: [13132, 43390]
 conditions: ['Vulnerability']
 effects: ['Stealth']
