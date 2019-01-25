@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
 benchmark:
-  { large: { dps: 32230, by: 'Derpy Moa [SC]', youtube: 'vTjd9gm6Z9Q' } }
+  { small: { dps: 33628, by: 'Roul [SC]', youtube: 'pUu4a_KYsQw' } }
 skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
@@ -98,7 +98,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 | <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
 | <Skill id="30273"/> | 150 damage |
 </Card>
-<Video youtube="vTjd9gm6Z9Q" title="Large Hitbox: 32.2k DPS by Derpy Moa [SC]"/>
+<Video youtube="pUu4a_KYsQw" title="Small Hitbox: 33.6k DPS by Roul [SC]"/>
 </GridItem>
 
 <GridItem sm="7">
