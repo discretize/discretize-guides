@@ -5,7 +5,7 @@ rating: 'Great'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Tempest'
-benchmark: { large: { dps: 34558, by: 'Roul [SC]', youtube: 'E0fTnBUZejg' } }
+benchmark: { large: { dps: 34327, by: 'Roul [SC]', youtube: 'gPnMRR-yLb4' } }
 skills: [5536, 29719, 30432]
 traits: [264, 1502, 1952, 1839, 1986, 2033]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection', 'Vigor']
@@ -173,7 +173,7 @@ During this window you want to use your conjured weapons:
 And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off recharge and <Skill name="Heat Sync"/> whenever <Boon name="might"/> is low on the group.
 </Card>
 
-<Video youtube="E0fTnBUZejg" title="Huge Hitbox: 34.6k DPS by Roul [SC]"/>
+<Video youtube="gPnMRR-yLb4" title="Large Hitbox: 34.3k DPS by Roul [SC]"/>
 </GridItem>
 
 <GridItem sm="6">
