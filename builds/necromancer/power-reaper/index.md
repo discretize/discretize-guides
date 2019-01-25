@@ -5,7 +5,7 @@ rating: 'Good'
 role: 'Damage'
 profession: 'Necromancer'
 specialization: 'Reaper'
-benchmark: { small: { dps: 29,213 by: 'Target [SC]', youtube: '0KMNHsKSfoI' } }
+benchmark: { small: { dps: 29213 by: 'Target [SC]', youtube: '0KMNHsKSfoI' } }
 skills: [30792]
 traits: [2020, 2018, 2031]
 boons: ['Might', 'Fury', 'Quickness']
