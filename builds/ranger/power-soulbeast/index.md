@@ -5,7 +5,7 @@ rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-benchmark: { small: { dps: 33848, by: 'Casual [SC]', youtube: 'zxpzA6iWFu0' } }
+benchmark: { small: { dps: 33503, by: 'Casual [SC]', youtube: 'JnjrLFIkEmM' } }
 skills: [12497, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
@@ -145,6 +145,6 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 | <Skill id="12475"/> | 150 damage (Greatsword 5) from behind |
 </Card>
 
-<Video youtube="zxpzA6iWFu0" title="Power Soulbeast 33.8k by Casual [SC]"/>
+<Video youtube="JnjrLFIkEmM" title="Power Soulbeast 33.5k by Casual [SC]"/>
 </GridItem>
 </Grid>
