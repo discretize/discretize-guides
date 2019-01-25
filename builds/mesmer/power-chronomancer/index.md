@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Mesmer'
 specialization: 'Chronomancer'
 benchmark:
-  { small: { dps: 33,713: by: 'Strider [FUN]', youtube: '3Q4D6Syx1Zw' } }
+  { small: { dps: 33713: by: 'Strider [FUN]', youtube: '3Q4D6Syx1Zw' } }
 skills: [10267, 10186, 10197, 10200, 10302, 29830, 30359, 29519]
 traits: [1852]
 conditions: ['Vulnerability']
