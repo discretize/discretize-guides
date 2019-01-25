@@ -175,8 +175,8 @@ Make sure you prestack <Boon name="Quickness"/> and <Boon name="Alacrity"/> befo
 <Card title="CC skills">
 | | |
 | -- | -- |
-| <Skill id="29519"/> | 1000 damage |
-| <Skill id="30643"/> | 200-1200 damage |
+| <Skill id="29519"/> | 600 damage |
+| <Skill id="30643"/> | 100-200 damage |
 | <Skill id="10287"/> | 100-400 damage |
 | <Skill id="10363"/> | 150 damage |
 | <Skill id="30814"/> | 150 damage with <Condition name="slow"/> |
