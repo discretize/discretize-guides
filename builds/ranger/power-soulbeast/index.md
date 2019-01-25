@@ -5,7 +5,7 @@ rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-benchmark: { small: { dps: 33,503, by: 'Casual [SC]', youtube: 'JnjrLFIkEmM' } }
+benchmark: { small: { dps: 33503, by: 'Casual [SC]', youtube: 'JnjrLFIkEmM' } }
 skills: [12497, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
