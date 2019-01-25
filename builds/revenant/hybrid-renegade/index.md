@@ -140,6 +140,14 @@ If <Instability name="No Pain, No Gain"/>, <Instability name="Vengeance"/> or ot
 - <Skill name="Banish Enchantment"/> strips three boons on up to five targets
 
 If nothing of the above applies you can use <Skill id="28134"/> as its the highest DPS option with <Skill name="Impossible Odds"/>.
+
+Notes about other weapon skills:
+
+- <Skill id="28472"/> (Sword 4) is good for instant <Condition name="vulnerability"/> and counts as 5 hits to get up Kalla's Fervor for <Skill name="Heroic Command"/>
+- <Skill id="29233"/> (Sword 2) is a DPS increase over auto-attacking if you have spare energy
+- Same goes for <Skill name="Citadel Bombardment"/> (F2) on large hitboxes
+- <Skill name="Renewing Wave"/> (Staff 4) is a small party heal & condition cleanse and blast finisher
+
 </Card>
 </GridItem>
 
