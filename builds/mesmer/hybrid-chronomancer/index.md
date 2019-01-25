@@ -6,7 +6,7 @@ role: 'Support'
 profession: 'Mesmer'
 specialization: 'Chronomancer'
 benchmark:
-  { small: { dps: 15,035, by: 'Kite [up]', youtube: '2-AuqAdDOJE' } }
+  { small: { dps: 15035, by: 'Kite [up]', youtube: '2-AuqAdDOJE' } }
 skills: [10197, 10200, 29830, 10267, 10186, 10302, 10236, 29519]
 traits: [1852]
 boons: ['Quickness', 'Alacrity', 'Might', 'Fury', 'Swiftness', 'Vigor', 'Aegis']
