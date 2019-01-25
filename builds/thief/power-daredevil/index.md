@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Thief'
 specialization: 'Daredevil'
 benchmark:
-  { small: { dps: 35,354, by: 'Derpy Moa [SC]', youtube: '1Bpbyhih-bI' } }
+  { small: { dps: 35354, by: 'Derpy Moa [SC]', youtube: '1Bpbyhih-bI' } }
 skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
 conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness']
