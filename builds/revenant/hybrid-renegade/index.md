@@ -5,17 +5,20 @@ rating: 'Meta'
 role: 'Support'
 profession: 'Revenant'
 specialization: 'Renegade'
-benchmark:
-  { small: { dps: 15924, by: 'Van Gherwen [SC]', youtube: 'Nze8ccCs8lo' } }
-skills: []
-traits: []
+skills: [45773, 27505]
+traits: [1802]
 boons: ['Alacrity', 'Might', 'Stability']
 conditions: ['Vulnerability']
 ---
 
-Something about this build, advantages and synergies
+The **<Specialization text="Hybrid Renegade" name="Renegade"/>** (also **_Alacrity Renegade_** or **_Support Renegade_**) is the ideal counterpart to <Specialization text="Hybrid Firebrand" name="Firebrand"/> as it provides permanent <Boon name="alacrity"/> for the group.
+
+Furthermore the build offers great DPS support with <Trait name="Assassins Presence"/> and <Skill name="Soulcleaves Summit"/>. <Boon name="might"/> is easily taken care off with <Skill name="Heroic Command"/>.
+
+<Skill name="Surge of the Mists"/> is currently the strongest CC skill on huge hitboxes left in the game. Combined with <Skill name="Darkrazors Daring"/>, you can single-handedly erase a big part of defiance bars in challenge modes.
 
 <Divider text="Equipment"/>
+Please note that the build variant below is optimized for 100% boon duration. While in theory, 78% is enough to provide permanent <Boon name="Alacrity"/>, fractals are not a golem - more boon duration helps greatly when the party needs to move or split for intermediate phases. Another beneficial side effect is better <Boon name="Might"/> uptime.
 
 <Tabs outlined>
 <Tab title="150 Agony Resistance">
@@ -28,10 +31,9 @@ Something about this build, advantages and synergies
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Concentration" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Impact" weapon2MainSigil2="Concentration"/>
 
 <Card title="Swap Weapons">
-* Sword with <Item name="Night" type="Sigil"/>
-* Dagger with <Item name="Serpent Slaying" type="Sigil"/>
-* Swords with slaying sigils (see [Consumables Guide](/guides/consumables))
-* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="might"/>
+* Sword and Staff with <Item name="Night" type="Sigil"/>
+* Sword and Staff with <Item name="Serpent Slaying" type="Sigil"/>
+* Swords and Staffs with slaying sigils (see [Consumables Guide](/guides/consumables))
 </Card>
 </GridItem>
 
@@ -53,8 +55,9 @@ Something about this build, advantages and synergies
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Force" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Impact" weapon2MainSigil2="Force"/>
 
 <Card title="Swap Weapons">
-* Staffs and swords with <Item name="Night" type="Sigil"/> and <Item name="Serpent Slaying" type="Sigil"/>
-* Staffs and swords with slaying sigils (see [Consumables Guide](/guides/consumables))
+* Sword and Staff with <Item name="Night" type="Sigil"/>
+* Sword and Staff with <Item name="Serpent Slaying" type="Sigil"/>
+* Swords and Staffs with slaying sigils (see [Consumables Guide](/guides/consumables))
 </Card>
 </GridItem>
 
@@ -71,12 +74,12 @@ Something about this build, advantages and synergies
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Devastation" traits1Selected="Ferocious Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Roiling Mists" traits3="Renegade" traits3Selected="Blood Fury,All for One,Righteous Rebel"/>
+<Traits traits1="Devastation" traits1Selected="Vicious Lacerations,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Roiling Mists" traits3="Renegade" traits3Selected="Blood Fury,All for One,Righteous Rebel"/>
  
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait name="Charged Mists" size="big" disableText/> | Something about this trait |
+| <Trait name="Charged Mists" size="big" disableText/> | If your group dps is bad you can run this trait because the fights will be longer and you'll need more energy. |
 </Card>
 </GridItem>
 
@@ -108,25 +111,45 @@ With <Skill id="28494"/>:
 <Divider text="Details"/>
 
 <Grid>
-<GridItem sm="7">
+<GridItem sm="8">
 <Card title="Skill Usage">
-Something about skill usage
+The general list of priorities looks like this:
+
+- Grant <Boon name="Alacrity"/> to your allies by using <Skill name="Orders from Above"/> near them whenever it's ready
+- Provide group <Boon name="Might"/> with <Skill name="Heroic Command"/> when it's below 25 stacks
+- Break defiance bars with <Skill name="Surge of the Mists"/> and optionally <Skill name="Debilitating Slam"/>
+- Maximize <Skill name="Soulcleaves Summit"/> uptime on the group
+- Spam 111 on Sword (using anything else is usually a party DPS loss)
+
+You'll always want to use <Skill id="41858"/> as your first legend:
+
+- <Skill name="Breakrazors Bastion"/> is a strong group heal
+- <Skill name="Darkrazors Daring"/> is a slow but strong CC
+- <Skill name="Soulcleaves Summit"/> is a really strong group DPS buff, use it shortly before defiance bars break
+
+For most fractals the <Boon name="stability"/> and defensive options of <Skill id="41858"/> are great, so that's going to be your second legend most of the time:
+
+- <Skill name="Inspiring Reinforcement"/> pulses group <Boon name="Stability"/>
+- <Skill name="Forced Engagement"/> deals 250 defiance bar damage with 2 seconds of <Condition name="Taunt"/> and <Condition name="Slow"/>
+- <Skill name="Vengeful Hammers"/> is your DPS option in this legend
+- <Skill name="Rite of the Great Dwarf"/> reduces incoming group damage by 50%, great when you expect high incoming damage
+
+If <Instability name="No Pain, No Gain"/>, <Instability name="Vengeance"/> or other sources of boons on enemies are present you will want to take <Skill id="28494"/> as your second legend:
+
+- <Skill name="Pain Absorption"/> applies <Boon name="resistance"/> and acts as a stunbreak
+- <Skill name="Banish Enchantment"/> strips three boons on up to five targets
+
+If nothing of the above applies you can use <Skill id="28134"/> as its the highest DPS option with <Skill name="Impossible Odds"/>.
 </Card>
 </GridItem>
 
-<GridItem sm="5">
-<Card title="Advanced Notes">
-Something about advanced gameplay
-</Card>
-
+<GridItem sm="4">
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
-| <Skill name="Updraft" size="big" disableText/> | 332 with <Control name="launch"/> |
-| <Skill name="Wind Blast" size="big" disableText/> | 232 with <Control name="launch"/> |
-| <Skill name="Polaric Leap" size="big" disableText/> | 100 with <Control name="daze"/> |
+| <Skill name="Surge of the Mists" size="big" disableText/> | 3-6x150 with <Control name="knockback"/> |
+| <Skill name="Darkrazors Daring" size="big" disableText/> | 6x100 with <Control name="daze"/> |
+| <Skill name="Debilitating Slam" size="big" disableText/> | 100 with <Control name="daze"/> |
 </Card>
-
-<Video youtube="6oRoJ72CNqI" title="Huge Hitbox: 38.1k DPS by Fallen [SC]"/>
 </GridItem>
 </Grid>

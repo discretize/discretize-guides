@@ -5,14 +5,22 @@ rating: 'Meta'
 role: 'Support'
 profession: 'Guardian'
 specialization: 'Firebrand'
-benchmark:
-  { large: { dps: 32230, by: 'Derpy Moa [SC]', youtube: 'vTjd9gm6Z9Q' } }
-skills: [30783, 30039, 9153, 9251]
+skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
 ---
 
+The **<Specialization text="Hybrid Firebrand" name="firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> for the party while dealing high DPS.
+
+It plays very similar to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/> with the addition of <Specialization name="firebrand"/> mantras and tomes. Thanks to those the build is able to adapt to various situations with <Boon name="stability"/>, <Boon name="resistance"/>, reflects and pulls.
+
+Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies power by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
+
 <Divider text="Equipment"/>
+
+Note that this build variant only gains boon duration from the <Item id="79722"/>.
+
+If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner until you reach 100% <Boon name="Quickness"/> uptime on the group**.
 
 <Grid>
 <GridItem sm="4">
@@ -99,7 +107,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 
 - <Skill name="Tome of Justice"/> (F1):
   - Skill 4 is a ticking AoE, good for single target and great for AoE DPS
-  - Skill 5 makes your surrounding allies inflict <Condition name="Burning"/> - also worth using especially when precasted
+  - Skill 5 makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
   - Skill 3 is an AoE pull (150 defiance bar damage)
   - Often these skills are used as an opener
 - <Skill name="Tome of Resolve"/> (F2):

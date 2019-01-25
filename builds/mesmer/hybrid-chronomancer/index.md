@@ -5,8 +5,7 @@ rating: 'Meta'
 role: 'Support'
 profession: 'Mesmer'
 specialization: 'Chronomancer'
-benchmark:
-  { small: { dps: 15035, by: 'Kite [up]', youtube: '2-AuqAdDOJE' } }
+benchmark: { small: { dps: 15035, by: 'Kite [up]', youtube: '2-AuqAdDOJE' } }
 skills: [10197, 10200, 29830, 10267, 10186, 10302, 10236, 29519]
 traits: [1852]
 boons: ['Quickness', 'Alacrity', 'Might', 'Fury', 'Swiftness', 'Vigor', 'Aegis']
@@ -14,9 +13,7 @@ conditions: ['Vulnerability']
 effects: ['Stealth']
 ---
 
-The <Specialization text="Hybrid Chronomancer" name="chronomancer"/> is the ideal support variant if you're playing with a <Specialization name="druid"/> and <Specialization name="weaver" text="Air Weaver"/>s. It provides permanent <Boon name="quickness"/>, <Boon name="alacrity"/> and around 10x <Boon name="might"/> while dealing relatively high personal DPS.
-
-With the **Dueling/Illusions** variant you have to run <Skill id="10311"/> to keep up <Boon name="quickness"/> and can't share <Boon name="aegis"/> but gain <Boon name="vigor"/> and deal high DPS; while the **Inspiration/Illusions** variant allows you to run <Skill id="29519"/> and spam group <Boon name="aegis"/> with <Trait id="1852"/>, <Trait id="1980"/>, <Trait id="1890"/>, <Trait id="1869"/>, <Skill id="10236"/> and <Trait id="1866"/>.
+The <Specialization text="Hybrid Chronomancer" name="chronomancer"/> is the ideal support variant if you're playing with a <Specialization name="druid"/>. It provides permanent <Boon name="quickness"/> and <Boon name="alacrity"/> while dealing relatively high personal DPS.
 
 The build has access to the usual mesmer utilities such as <Skill id="10197"/> and <Effect name="stealth"/> skips, strong reflects, boon strip and amazing crowd control skills. You can also run a focus for <Skill id="10363"/> <Control name="pull"/>s and reflects with <Trait id="751"/>.
 
@@ -172,6 +169,7 @@ Make sure you prestack <Boon name="Quickness"/> and <Boon name="Alacrity"/> befo
 6. You will have enough time left for <Skill name="Well of Recall"/> without <Skill id="10311"/>, otherwise <Skill id="30747"/> will end during the cast
 7. Cast <Skill id="10236"/> and <Skill id="30814"/> again
 8. <Skill id="10174"/> -> <Skill id="21750"/> -> <Skill id="10174"/>
+
    </Card>
 
 <Card title="CC skills">
