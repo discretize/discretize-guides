@@ -5,7 +5,7 @@ rating: 'Great'
 role: 'Damage'
 profession: 'Engineer'
 specialization: 'Holosmith'
-benchmark: { small: { dps: 33402: by: 'hint [SC]', youtube: '77pw-5ei_Lc' } }
+benchmark: { small: { dps: 33402, by: 'hint [SC]', youtube: '77pw-5ei_Lc' } }
 skills: [30815, 43739]
 traits: [517]
 conditions: ['Vulnerability', 'Blind', 'Crippled', 'Immobile']
@@ -139,6 +139,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 You can switch to <Specialization name="scrapper"/> and equip <Skill id="30815"/> if you need <Effect name="stealth"/> for longer passages (e.g. [Twilight Oasis Fractal](https://discretize.eu/fractals/twilight-oasis)). It provides >40 seconds for the whole group. A smoke field can also be provided by <Skill id="5824"/> to blast <Effect name="stealth"/>.
 </Card>
+
 <Card title="CC skills">
 | | |
 | -- | -- |
@@ -148,6 +149,7 @@ You can switch to <Specialization name="scrapper"/> and equip <Skill id="30815"/
 | Holographic Shockwave | 232 damage |
 | <Skill id="21661"/> | 100 damage |
 </Card>
+
 </GridItem>
 
 </Grid>
