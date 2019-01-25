@@ -9,17 +9,14 @@ difficulties: [{ level: 100, ar: 150 }]
 record:
   {
     time: '9:56',
-    by: { name: 'Snow Crows', tag: 'SC' },
+    by: { name: 'Snow Crows/Quantify', tag: 'SC/qT' },
     youtube:
       [
-        {
-          id: 'cLTNHl_A28I',
-          name: 'Van Gherwen',
-          specialization: 'Chronomancer',
-        },
-        { id: 'phbHkROKlm8', name: 'Muto', specialization: 'Berserker' },
-        { id: 'ME2QF0X_NJo', name: 'hint', specialization: 'Tempest' },
-        { id: 'RLkDIlMEx8U', name: 'Roul', specialization: 'Dragonhunter' },
+        { id: 'MVR0ay8hn2E', name: 'Roul', specialization: 'Firebrand' },
+        { id: 'VzK-hqgyTCQ', name: 'Breke', specialization: 'Warrior' },
+        { id: 'IG_30poYaR0', name: 'Nukkuu', specialization: 'Weaver' },
+        { id: '9vPGsgxCZDA', name: 'Sangi', specialization: 'Soulbeast' },
+        { id: '8228gHSt_PM', name: 'Deathly', specialization: 'Renegade' },
       ],
   }
 cycle: 'Day'
