@@ -209,6 +209,6 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 | <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="float"/> |
 </Card>
 
-<Video youtube="zH4cTgApO6c" title="Small Hitbox: 36.2k DPS by Fallen [SC]"/>
+<Video youtube="G80JtML2Vr4" title="Large Hitbox: 37.7k DPS by Fallen [SC]"/>
 </GridItem>
 </Grid>
