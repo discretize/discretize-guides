@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Thief'
 specialization: 'Daredevil'
 benchmark:
-  { small: { dps: 35366, by: 'Derpy Moa [SC]', youtube: 'POHMLGFY3xU' } }
+  { small: { dps: 35354, by: 'Derpy Moa [SC]', youtube: '1Bpbyhih-bI' } }
 skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
 conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness']
@@ -92,6 +92,6 @@ You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
 </Card>
 
-<Video youtube="POHMLGFY3xU" title="Daredevil Staff 35.3k by Derpy Moa [SC]"/>
+<Video youtube="1Bpbyhih-bI" title="Daredevil Staff 35.4k by Derpy Moa [SC]"/>
 </GridItem>
 </Grid>
