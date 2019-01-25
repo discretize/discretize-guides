@@ -5,7 +5,7 @@ rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
 specialization: 'Warrior'
-benchmark: { small: { dps: 26,582, by: 'Chris [SC]', youtube: 'ZXIAmgy5Op8' } }
+benchmark: { small: { dps: 26582, by: 'Chris [SC]', youtube: 'ZXIAmgy5Op8' } }
 skills: [14407, 14405, 45252, 45333]
 traits: [1482]
 conditions: ['Vulnerability']
