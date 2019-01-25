@@ -7,8 +7,8 @@ profession: 'Elementalist'
 specialization: 'Weaver'
 benchmark:
   {
-    small: { dps: 36,275, by: 'Fallen [SC]', youtube: 'zH4cTgApO6c' },
-    small: { dps: 35,980, by: 'Randy Siren [SC]', youtube: 'notwqC1Eqc' },
+    large: { dps: 37730, by: 'Fallen [SC]', youtube: 'G80JtML2Vr4' },
+    small: { dps: 36275, by: 'Fallen [SC]', youtube: 'zH4cTgApO6c' },
   }
 skills: [5536]
 traits: [1502]
