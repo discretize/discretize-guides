@@ -5,7 +5,7 @@ rating: 'Great'
 role: 'Damage'
 profession: 'Engineer'
 specialization: 'Holosmith'
-benchmark: { small: { dps: 33,402: by: 'hint [SC]', youtube: '77pw-5ei_Lc' } }
+benchmark: { small: { dps: 33402: by: 'hint [SC]', youtube: '77pw-5ei_Lc' } }
 skills: [30815, 43739]
 traits: [517]
 conditions: ['Vulnerability', 'Blind', 'Crippled', 'Immobile']
