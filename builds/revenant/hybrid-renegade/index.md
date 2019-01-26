@@ -127,7 +127,7 @@ You'll always want to use <Skill id="41858"/> as your first legend:
 - <Skill name="Darkrazors Daring"/> is a slow but strong CC
 - <Skill name="Soulcleaves Summit"/> is a really strong group DPS buff, use it shortly before defiance bars break
 
-For most fractals the <Boon name="stability"/> and defensive options of <Skill id="41858"/> are great, so that's going to be your second legend most of the time:
+For most fractals the <Boon name="stability"/> and defensive options of <Skill id="28419"/> are great, so that's going to be your second legend most of the time:
 
 - <Skill name="Inspiring Reinforcement"/> pulses group <Boon name="Stability"/>
 - <Skill name="Forced Engagement"/> deals 250 defiance bar damage with 2 seconds of <Condition name="Taunt"/> and <Condition name="Slow"/>
