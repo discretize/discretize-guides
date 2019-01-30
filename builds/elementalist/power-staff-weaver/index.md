@@ -12,13 +12,11 @@ boons: ['Might', 'Fury', 'Swiftness', 'Protection']
 conditions: ['Weakness', 'Vulnerability', 'Blind']
 ---
 
-Even with the continueing nerfs the <Specialization text="Power Staff Weaver" name="weaver"/> stays one of the best builds for fractals. It offers one of the highest burst and consistent DPS numbers in the game on large, stationary hitboxes. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
+Due to the continueing nerfs the <Specialization text="Power Staff Weaver" name="weaver"/> it went down in the good builds section for fractals. Still, it offers one of the highest burst and consistent DPS numbers in the game on large, stationary hitboxes. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
 
 Staff Weaver has some utilities in the form of burst <Condition name="vulnerability"/>, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver has no reflects, no fast reachable crowd control skills apart from <Skill id="5733"/> and no <Boon name="stability"/> compared to <Specialization name="Tempest"/>.
 
-Arcane Weaver somewhat mitigates the squishiness by taking <Trait id="257"/> and providing good <Boon name="protection"/> uptimes with <Trait id="264"/>. It also provides around 7 stacks <Boon name="might"/> uptime for the party, even more with around 30% boon duration from <Item id="79722"/> and <Trait id="2004"/>. This allows a replacement of the <Specialization name="druid"/> with another <Specialization name="weaver"/> as there is enough <Boon name="might"/> on the party and you "only" loose <Skill id="31582" profession="ranger"/>, <Skill id="12497" profession="ranger"/> and <Trait id="1016" profession="ranger"/> (redundant with <Trait id="2177"/>) but gain much more DPS.
-
-In general the Arcane variant is the most consistent for casual daily runs, take Air if your group's crowd control abilities are excellent and the target's defiance bar is almost permanently broken (e.g. Skorvald, Siax, Ensolyss).
+The Arcane variant is not used anymore due to <Specialization name="Chronomancer"/> nerfs. Instead Air is the more consistent now for casual daily runs.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -51,13 +49,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <Grid>
 <GridItem sm="7">
-<Traits title="Standard Arcane Variant" traits1="Fire" traits1Selected="Burning Precision,Pyromancers Training,Persisting Flames" traits2Id="37" traits2="Arcane" traits2SelectedIds="253,257,1511" traits3Id="56" traits3="Weaver" traits3SelectedIds="2177,2061,2131"/>
-
-Use the **Arcane variant** if you have a <Specialization name="chronomancer" text="Chaos Chronomancer"/> (if you don't have a <Specialization name="chronomancer"/> look for another group.).
-
-Use the **Air variant** if your Chrono is not running Chaos, <Boon name="Might"/> uptime is fine and the target's defiance bar is almost permanently broken (e.g. Skorvald, Siax, Ensolyss).
-
-<Traits title="Air Variant" traits1Id="41" traits1="Air" traits1SelectedIds="232,1502,226"/>
+<Traits title="Standard Arcane Variant" traits1="Fire" traits1Selected="Burning Precision,Pyromancers Training,Persisting Flames" traits2Id="41" traits2="Air" traits2SelectedIds="232,1502,226" traits3Id="56" traits3="Weaver" traits3SelectedIds="2177,2061,2131"/>
 
 </GridItem>
 
