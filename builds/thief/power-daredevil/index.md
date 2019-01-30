@@ -77,7 +77,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 5. <Skill id="30868"/> => <Skill id="30693"/> (Utility)
 6. **Dodge (Repeat from here)**
 7. <Skill id="29911"/> (Staff 2)
-8. <Skill id="30614"/> => <Skill id="30135" disableText/> => <Skill id="30434" disableText/>
+8. <Skill id="30614"/> => <Skill id="30135" disableText/> => <Skill id="30434" disableText/> 2x (Staff 1)
 9. **Repeat from** `Step 6`
 
 You can also activate <Skill id="13046"/> for the last few attacks of a fight.
