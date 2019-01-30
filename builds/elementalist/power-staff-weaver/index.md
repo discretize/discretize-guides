@@ -12,7 +12,7 @@ boons: ['Might', 'Fury', 'Swiftness', 'Protection']
 conditions: ['Weakness', 'Vulnerability', 'Blind']
 ---
 
-Due to the continueing nerfs the <Specialization text="Power Staff Weaver" name="weaver"/> it went down in the good builds section for fractals. Still, it offers one of the highest burst and consistent DPS numbers in the game on large, stationary hitboxes. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
+Due to the continueing nerfs the <Specialization text="Power Staff Weaver" name="weaver"/> it went down in the great builds section for fractals. Still, it offers one of the highest burst and consistent DPS numbers in the game on large, stationary hitboxes. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
 
 Staff Weaver has some utilities in the form of burst <Condition name="vulnerability"/>, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver has no reflects, no fast reachable crowd control skills apart from <Skill id="5733"/> and no <Boon name="stability"/> compared to <Specialization name="Tempest"/>.
 
