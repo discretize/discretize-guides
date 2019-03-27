@@ -28,7 +28,7 @@ When you enter the fractal, first you need to kill 2 _Veteran Bristlebacks_, 2 _
 <GridItem sm="12"> 
 ## The Forgotten fortress
 
-Prestack boons on the Mistlock Singularity nearby.
+Prestack boons on the _Mistlock Singularity_ nearby.
 
 Kill the ghosts to start the encounter.
 
@@ -67,7 +67,7 @@ Your object is simple. You need to collect 3 treasures in the treasure chest at 
 <GridItem sm="6">  
 ### The way to the ship
   
-Here you have to use get the chest onto the ship by throwing the treasure chest at eachother, same tactic as before. You can use the Mistlock Singularity at the entrance to reset your cooldowns.
+Here you have to use get the chest onto the ship by throwing the treasure chest at eachother, same tactic as before. You can use the _Mistlock Singularity_ at the entrance to reset your cooldowns.
 </GridItem>
 
 <GridItem sm="6">
@@ -93,7 +93,7 @@ It will be a point capture event, you need to stayalive long enough to kill all 
 
 ### Captain Arabella Crowe
 
-Use `/gg` to reset mobs on the ship and use the Mistlock Singularity to stack boons. The two mechanics from before, the knockoff and AoE are present in this fight as well as a third one. It is an AoE placed on a player with a timer. If the circle fills, a huge damage is dealt to the player, but you can split up the damage between players, to counter this mechanic simply stack in the circle to split up the damage dealth to each player. The boss will be teleporting around as well as spawning mobs every 10% health of the boss. Kill her to finish the fractal.
+Use `/gg` to reset mobs on the ship and use the _Mistlock Singularity_ to stack boons. The two mechanics from before, the knockoff and AoE are present in this fight as well as a third one. It is an AoE placed on a player with a timer. If the circle fills, a huge damage is dealt to the player, but you can split up the damage between players, to counter this mechanic simply stack in the circle to split up the damage dealth to each player. The boss will be teleporting around as well as spawning mobs every 10% health of the boss. Kill her to finish the fractal.
 
 </GridItem>
 
