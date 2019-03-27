@@ -91,7 +91,7 @@ After recovering the treasure the second mini boss spawns named _First Mate Cali
 
 It will be a point capture event, you need to stayalive long enough to kill all mobs coming from the two sides of the ship. Use the cannon to clear most of the ghosts. After the event is done, the main boss spawns.
 
-### Anabella Crowe
+### Captain Arabella Crowe
 
 Use `/gg` to reset mobs on the ship and use the Mistlock Singularity to stack boons. The two mechanics from before, the knockoff and AoE are present in this fight as well as a third one. It is an AoE placed on a player with a timer. If the circle fills, a huge damage is dealt to the player, but you can split up the damage between players, to counter this mechanic simply stack in the circle to split up the damage dealth to each player. The boss will be teleporting around as well as spawning mobs every 10% health of the boss. Kill her to finish the fractal.
 
