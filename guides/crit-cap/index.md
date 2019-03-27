@@ -21,15 +21,15 @@ You can subtract the following values in general:
 
 - **1000 base Precision** at level 80
 - 20% Critical Chance from **<Boon name="Fury"/>** (= **420 Precision**)
-- **170 Precision** from **<Skill name="Banner of Discipline"/>**
+- **100 Precision** from **<Skill name="Banner of Discipline"/>**
 - In groups with a <Specialization name="Druid"/>: **100 Precision** from **<Trait name="Spotter"/>**
 
-Which brings it down to **1405 Precision** or **1305 Precision** required (with <Trait name="Spotter"/>).
+Which brings it down to **1475 Precision** or **1375 Precision** required (with <Trait name="Spotter"/>).
 
 Apart from that, the <Item id="79722"/> grants Precision, Concentration and Toughness as high as `1.5 * Agony Resistance`.  
 So **with 150 AR you'd receive 225 additional Precision**.
 
-Now we only need **1180 Precision** (without <Trait name="Spotter"/>) or **1080 Precision** (with <Trait name="Spotter"/>) to achieve 100% Critical Chance (`2995 - 1000 - 420 - 170 - 225` and `-100`)!  
+Now we only need **1230 Precision** (without <Trait name="Spotter"/>) or **1130 Precision** (with <Trait name="Spotter"/>) to achieve 100% Critical Chance (`2995 - 1000 - 420 - 100 - 225` and `-100`)!  
 We have two options to accomplish that - via items or skills/traits.
 
 ---
@@ -44,10 +44,10 @@ So you'll only need a few more points of Precision to reach 100% Critical Chance
 
 | Agony Resistance                                                                                                                         | Without <Trait name="Spotter"/> + Dual Wield | Without <Trait name="Spotter"/> + Two-handed | With <Trait name="Spotter"/> + Dual Wield | With <Trait name="Spotter"/> + Two-handed |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| 150 (Standard)                                                                                                                           | 219                                          | 220                                          | 119                                       | 120                                       |
-| 162 (18x <Item id="37131" disableText/>, no [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                      | 201                                          | 202                                          | 101                                       | 102                                       |
-| 207 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                     | 133                                          | 134                                          | 33                                        | 34                                        |
-| 222 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation), <Item id="70596"/>) | 111                                          | 112                                          | 11                                        | 12                                        |
+| 150 (Standard)                                                                                                                           | 289                                          | 290                                          | 189                                       | 190                                       |
+| 162 (18x <Item id="37131" disableText/>, no [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                      | 271                                          | 272                                          | 171                                       | 12                                       |
+| 207 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                     | 203                                          | 204                                          | 103                                        | 104                                        |
+| 222 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation), <Item id="70596"/>) | 181                                          | 182                                          | 81                                        | 82                                        |
 
 In general you want to stack as much Agony Resistance as possible to benefit from the Precision conversion if you're not crit capped with profession-specific traits. <Item id="37131"/> is usually the way to go as better regular infusions (e.g. <Item id="49439"/>) are very expensive.  
 After that, you need to swap Berserker items (Major: Power; Minor: Precision, Ferocity) for Assassins (Major: Precision; Minor: Power, Ferocity) to gain more Precision.
@@ -103,7 +103,7 @@ Below are some popular trait choices to push Critical Chance.
 
 | Profession                            | Specialization | Trait                                     | Note                                                                  | Precision |
 | ------------------------------------- | -------------- | ----------------------------------------- | --------------------------------------------------------------------- | --------- |
-| <Specialization name="Warrior"/>      | Discipline     | <Trait name="Inspiring Battle Standard"/> | <Skill name="Banner of Discipline"/> (this only applies to yourself!) | 85        |
+| <Specialization name="Warrior"/>      | Discipline     | <Trait name="Inspiring Battle Standard"/> | <Skill name="Banner of Discipline"/> (this only applies to yourself!) | 100        |
 | <Specialization name="Thief"/>        | Deadeye        | <Trait name="Be Quick or Be Killed"/>     | Target must be marked                                                 | 200       |
 | <Specialization name="Elementalist"/> | Weaver         | <Trait name="Elements of Rage"/>          | Converts 13% of your Vitality to Precision                            |           |
 
