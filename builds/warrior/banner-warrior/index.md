@@ -1,11 +1,11 @@
 ---
 title: 'Banner Warrior'
-date: '2019-01-20'
+date: '2019-03-27'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
 specialization: 'Warrior'
-benchmark: { small: { dps: 26582, by: 'Chris [SC]', youtube: 'ZXIAmgy5Op8' } }
+benchmark: { small: { dps: 25427, by: 'Chris [SC]', youtube: 'i1IoP0Gp0hk' } }
 skills: [14407, 14405, 45252, 45333]
 traits: [1482]
 conditions: ['Vulnerability']
@@ -27,11 +27,11 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Tab title="150 Agony Resistance (With Spotter)">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Assassin" helmId="48129" helmRune="Scholar" helmRuneId="24836" helmRuneCount="6" shouldersAffix="Assassin" shouldersId="48131" shouldersRune="Scholar" shouldersRuneId="24836" shouldersRuneCount="6" coatAffix="Berserker" coatId="48073" coatRune="Scholar" coatRuneId="24836" coatRuneCount="6" glovesAffix="Berserker" glovesId="48074" glovesRune="Scholar" glovesRuneId="24836" glovesRuneCount="6" leggingsAffix="Berserker" leggingsId="48076" leggingsRune="Scholar" leggingsRuneId="24836" leggingsRuneCount="6" bootsAffix="Berserker" bootsId="48072" bootsRune="Scholar" bootsRuneId="24836" bootsRuneCount="6"/>
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainId="46759" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainId="46766" weapon2MainSigil1="Severance" weapon2MainSigil1Id="84505" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffId="46766" weapon2OffSigil="Paralyzation" weapon2OffSigilId="24639"/>
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
 <Card title="Swap Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and slaying sigils
 * A warhorn for pre-stacking
@@ -41,7 +41,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" backItemId="49390" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Berserker" amuletId="39273" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </GridItem>
@@ -51,11 +51,11 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Tab title="150 Agony Resistance (Without Spotter)">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Assassin" helmId="48129" helmRune="Scholar" helmRuneId="24836" helmRuneCount="6" shouldersAffix="Assassin" shouldersId="48131" shouldersRune="Scholar" shouldersRuneId="24836" shouldersRuneCount="6" coatAffix="Berserker" coatId="48073" coatRune="Scholar" coatRuneId="24836" coatRuneCount="6" glovesAffix="Berserker" glovesId="48074" glovesRune="Scholar" glovesRuneId="24836" glovesRuneCount="6" leggingsAffix="Assassin" leggingsRune="Scholar" leggingsRuneId="24836" leggingsRuneCount="6" bootsAffix="Berserker" bootsId="48072" bootsRune="Scholar" bootsRuneId="24836" bootsRuneCount="6"/>
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainId="46759" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainId="46766" weapon2MainSigil1="Severance" weapon2MainSigil1Id="84505" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffId="46766" weapon2OffSigil="Paralyzation" weapon2OffSigilId="24639"/>
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
 <Card title="Swap Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and slaying sigils
 * A warhorn for pre-stacking
@@ -65,7 +65,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" backItemId="49390" accessory1Affix="Assassin" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Berserker" amuletId="39273" ring1Affix="Assassin" ring2Affix="Berserker" ring2Id="76024"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </GridItem>
@@ -75,11 +75,11 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Tab title="222 Agony Resistance (Without Spotter)">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" helmRuneId="24836" helmRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" shouldersRuneId="24836" shouldersRuneCount="6" coatAffix="Berserker" coatId="48073" coatRune="Scholar" coatRuneId="24836" coatRuneCount="6" glovesAffix="Berserker" glovesId="48074" glovesRune="Scholar" glovesRuneId="24836" glovesRuneCount="6" leggingsAffix="Assassin" leggingsRune="Scholar" leggingsRuneId="24836" leggingsRuneCount="6" bootsAffix="Berserker" bootsId="48072" bootsRune="Scholar" bootsRuneId="24836" bootsRuneCount="6"/>
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainId="46759" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainId="46766" weapon2MainSigil1="Severance" weapon2MainSigil1Id="84505" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffId="46766" weapon2OffSigil="Paralyzation" weapon2OffSigilId="24639"/>
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
 <Card title="Swap Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and slaying sigils
 * A warhorn for pre-stacking
@@ -89,8 +89,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" backItemId="49390" accessory1Affix="Berserker" accessory1Id="39232" accessory2Affix="Berserker" accessory2Id="39233" amuletAffix="Berserker" amuletId="39273" ring1Affix="Berserker" ring1Id="75669" ring2Affix="Berserker" ring2Id="76024"/>
-
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Berserker"/>
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </GridItem>
 </Grid>
@@ -238,6 +237,6 @@ With mainhand dagger on <Specialization name="spellbreaker"/>:
 
 </Card>
 
-<Video youtube="ZXIAmgy5Op8" title="Axe/Axe by Chris [SC]"/>
+<Video youtube="i1IoP0Gp0hk" title="Axe/Axe by Chris [SC]"/>
 </GridItem>
 </Grid>
