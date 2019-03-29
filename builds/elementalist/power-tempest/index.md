@@ -1,11 +1,11 @@
 ---
 title: 'Power Tempest'
-date: '2019-01-20'
+date: '2019-03-29'
 rating: 'Great'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Tempest'
-benchmark: { large: { dps: 34327, by: 'Roul [SC]', youtube: 'gPnMRR-yLb4' } }
+benchmark: { large: { dps: 33533, by: 'Roul [SC]', youtube: 'DL4aQShmSxA' } }
 skills: [5536, 29719, 30432]
 traits: [264, 1502, 1952, 1839, 1986, 2033]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection', 'Vigor']
@@ -34,7 +34,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 <Tab title="150 Agony Resistance (No Spotter)">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar"/>
+<Armor weight="Light" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -49,7 +49,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -59,7 +59,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 <Tab title="207 Agony Resistance (No Spotter)">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Light" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar"/>
+<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -74,7 +74,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -173,7 +173,7 @@ During this window you want to use your conjured weapons:
 And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off recharge and <Skill name="Heat Sync"/> whenever <Boon name="might"/> is low on the group.
 </Card>
 
-<Video youtube="gPnMRR-yLb4" title="Large Hitbox: 34.3k DPS by Roul [SC]"/>
+<Video youtube="DL4aQShmSxA" title="Tempest by Roul [SC]"/>
 </GridItem>
 
 <GridItem sm="6">
