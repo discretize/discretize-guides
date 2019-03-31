@@ -1,14 +1,14 @@
 ---
 title: 'Power Sword Weaver'
-date: '2019-01-20'
+date: '2019-03-31'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
 benchmark:
   {
-    large: { dps: 37730, by: 'Fallen [SC]', youtube: 'G80JtML2Vr4' },
-    small: { dps: 36275, by: 'Fallen [SC]', youtube: 'zH4cTgApO6c' },
+    large: { dps: 35340, by: 'Fallen [SC]', youtube: 'dJ2fBcr2EmA' },
+    small: { dps: 33884, by: 'Fallen [SC]', youtube: 'c6CbWN7ak6Q' },
   }
 skills: [5536]
 traits: [1502]
@@ -23,8 +23,12 @@ Aside from <Condition name="vulnerability"/>, an additional crowd control skill 
 
 The build benefits heavily from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
+
 <Divider text="Equipment"/>
 
+<Tabs outlined>
+
+<Tab title="150 Agony Resistance (With Spotter and Weakness)">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -54,28 +58,96 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 <Grid>
 <GridItem sm="7">
 <Traits traits1="Fire" traits1Selected="Burning Precision, Pyromancers Training, Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Tempest Defense, Bolt to the Heart" traits3="Weaver" traits3Selected="Superior Elements, Swift Revenge, Elements of Rage"/>
+</GridItem>
+<GridItem sm="5">
+<Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
+</GridItem>
+</Grid> 
+</Tab>
 
-<Card title="Situational Traits">
-| | |
-| -- | -- |
-| <Trait name="Masters Fortitude" size="big" disableText/> | With <Trait name="Spotter"/> or more than 200 agony resistance you are crit capped without <Trait name="Superior Elements"/>, then you can take this trait for extra survivability. |
-| <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
-| <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Tempest Defense"/> (e.g. Artsariiv). |
-| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
-| <Trait name="Inscription" size="big" disableText/> | Niche trait to reduce the cooldown of <Skill name="Glyph of Storms"/>. |
-| <Trait name="Conjurer" size="big" disableText/> | Another niche trait to reduce the cooldown of conjured weapons. |
+<Tab title="150 Agony Resistance (Without Spotter and Weakness)">
+<Grid>
+<GridItem sm="4">
+<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Dagger" weapon1OffAffix="Berserker" weapon1OffSigil="Force"/>
+
+<Card title="Swap Weapons">
+* Dagger with <Item name="Night" type="Sigil"/>
+* Dagger with <Item name="Serpent Slaying" type="Sigil"/>
+* Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
+* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="might"/>
+* A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Card>
 </GridItem>
 
-<GridItem sm="5">
-<Skills heal="Glyph of Elemental Harmony" utility1="Conjure Lightning Hammer" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
 
+<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
+</GridItem>
+</Grid>
+
+<Divider text="Build"/>
+
+<Grid>
+<GridItem sm="7">
+<Traits traits1="Fire" traits1Selected="Burning Precision, Pyromancers Training, Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Tempest Defense, Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude, Swift Revenge, Elements of Rage"/>
+</GridItem>
+<GridItem sm="5">
+<Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
+</GridItem>
+</Grid>
+</Tab>
+
+<Tab title="207 Agony Resistance (Without Spotter and Weakness)">
+<Grid>
+<GridItem sm="4">
+<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Dagger" weapon1OffAffix="Berserker" weapon1OffSigil="Force"/>
+
+<Card title="Swap Weapons">
+* Dagger with <Item name="Night" type="Sigil"/>
+* Dagger with <Item name="Serpent Slaying" type="Sigil"/>
+* Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
+* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="might"/>
+* A staff to precast <Skill name="Meteor Shower"/> on some encounters
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+
+<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
+</GridItem>
+</Grid>
+
+<Divider text="Build"/>
+
+<Grid>
+<GridItem sm="7">
+<Traits traits1="Fire" traits1Selected="Burning Precision, Pyromancers Training, Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Tempest Defense, Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude, Swift Revenge, Elements of Rage"/>
+</GridItem>
+<GridItem sm="5">
+<Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
+</GridItem>
+</Grid>
+</Tab>
+</Tabs>
+
+<Grid>
+<GridItem sm="7">
 <Card title="Situational Skills">
 | | |
 | -- | -- |
+| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | You take this skill instead of <Skill name="Unravel"/> if you play <Trait name="Fresh Air"/> with groups that have low dps. <Skill name="Unravel"/> is worth it with big dps and short phases. __Precast <Skill name="Conjure Lightning Hammer"/> where possible for dps boost.__ |
 | <Skill name="Arcane Wave" size="big" disableText/> | Deals the same damage as <Skill name="Arcane Blast"/> but on multiple foes. Also useful to generate <Boon name="might"/> with a fire field. |
 | <Skill name="Primordial Stance" size="big" disableText/> | On small hitboxes and fights with a lot of phasing (e.g. Arkk) <Skill name="Conjure Lightning Hammer"/> isn't that valuable so you can use this instead. |
-| <Skill name="Unravel" size="big" disableText/> | Can be used to get quicker into <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> for fights with very short phases. |
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
 | <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
 | <Skill name="Arcane Brilliance" size="big" disableText/> | Sometimes used to blast <Boon name="might"/> in fights like Skorvald. |
@@ -83,6 +155,18 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 | <Skill name="Aquatic Stance" size="big" disableText/> | An alternative heal skill providing additional group heal. |
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Situational Traits">
+| | |
+| -- | -- |
+| <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
+| <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Tempest Defense"/> (e.g. Artsariiv). |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
+| <Trait name="Inscription" size="big" disableText/> | Niche trait to reduce the cooldown of <Skill name="Glyph of Storms"/>. |
+| <Trait name="Conjurer" size="big" disableText/> | Another niche trait to reduce the cooldown of conjured weapons. |
 </Card>
 </GridItem>
 </Grid>
@@ -209,6 +293,6 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 | <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="float"/> |
 </Card>
 
-<Video youtube="G80JtML2Vr4" title="Large Hitbox: 37.7k DPS by Fallen [SC]"/>
+<Video youtube="dJ2fBcr2EmA" title="Large Hitbox by Fallen [SC]"/>
 </GridItem>
 </Grid>
