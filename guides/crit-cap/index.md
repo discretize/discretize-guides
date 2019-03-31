@@ -29,7 +29,7 @@ Which brings it down to **1475 Precision** or **1375 Precision** required (with 
 Apart from that, the <Item id="79722"/> grants Precision, Concentration and Toughness as high as `1.5 * Agony Resistance`.  
 So **with 150 AR you'd receive 225 additional Precision**.
 
-Now we only need **1230 Precision** (without <Trait name="Spotter"/>) or **1130 Precision** (with <Trait name="Spotter"/>) to achieve 100% Critical Chance (`2995 - 1000 - 420 - 100 - 225` and `-100`)!  
+Now we only need **1250 Precision** (without <Trait name="Spotter"/>) or **1150 Precision** (with <Trait name="Spotter"/>) to achieve 100% Critical Chance (`2995 - 1000 - 420 - 100 - 225` and `-100`)!  
 We have two options to accomplish that - via items or skills/traits.
 
 ---
@@ -45,7 +45,7 @@ So you'll only need a few more points of Precision to reach 100% Critical Chance
 | Agony Resistance                                                                                                                         | Without <Trait name="Spotter"/> + Dual Wield | Without <Trait name="Spotter"/> + Two-handed | With <Trait name="Spotter"/> + Dual Wield | With <Trait name="Spotter"/> + Two-handed |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
 | 150 (Standard)                                                                                                                           | 289                                          | 290                                          | 189                                       | 190                                       |
-| 162 (18x <Item id="37131" disableText/>, no [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                      | 271                                          | 272                                          | 171                                       | 12                                       |
+| 162 (18x <Item id="37131" disableText/>, no [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                      | 271                                          | 272                                          | 171                                       | 172                                       |
 | 207 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                     | 203                                          | 204                                          | 103                                        | 104                                        |
 | 222 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation), <Item id="70596"/>) | 181                                          | 182                                          | 81                                        | 82                                        |
 
