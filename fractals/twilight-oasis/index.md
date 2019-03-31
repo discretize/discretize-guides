@@ -106,15 +106,13 @@ Now that you're awakened, you gain access to a new special action skill which la
     
 It can also be used to jump while casting any skill that requires you to stand still otherwise, as long as you do not move in any direction (<Skill id="5501" profession="elementalist"/> and similar skills).
 
-Jump up to the roof on the right-hand side and kill the three Sandbinders on the roofs. The first two are copies of the Sandbinder you fought at the beginning, the third one also uses Dwayna's _Lightning Storm_ (strafe sideways from allies to avoid it).
+Jump up to the roof on the right-hand side and kill two Sandbinders on the roofs. The first is a copy of the Sandbinder you fought at the beginning, the second one also uses Dwayna's _Lightning Storm_ (strafe sideways from allies to avoid it).
 
-You can assign one player to trigger the checkpoint before the second Sandbinder using [this route](https://gfycat.com/ShrillVictoriousAbalone), `/gg` after the first one and resurrect to reset cooldowns. It is also possible to skip the tornado between the second and third Sandbinder using [this portal skip](https://gfycat.com/UnnaturalThirstyIcelandicsheepdog).
+It is also possible to skip the tornado between the two Sandbinder using [this portal skip](https://gfycat.com/UnnaturalThirstyIcelandicsheepdog).
 
-Use `/gg` after killing all three Sandbinders to resurrect at end area. Clear the mobs there and Priestess Amala will spawn.
+Clear the mobs there and Priestess Amala will spawn, then use `/gg` to reset cooldowns.
 
-Alternative route:
-
-While the party is killing the first Sandbinder a person with portal skip to the next Sandbinder (not triggering any checkpoint so you have to do it first try, else it is a time loss) and opens portal next to it. After you killed the second Sandbinder a second person opens a new portal at the second Sandbinder's location and skips to the third using [this route](https://gfycat.com/ShrillVictoriousAbalone). Please note that you can't `/gg` after any Sandbinder, because you get spawned behind the ideal checkpoints. The checkpoints were mixed up in the June 26th patch.
+Please note that you can't `/gg` after any Sandbinder, because you get spawned behind the ideal checkpoints. The checkpoints were mixed up in the June 26th patch.
 </GridItem>
 
 <GridItem sm="5">
