@@ -16,7 +16,6 @@ consumables: [8764, 8801]
 ## Start: Wipe out the dinosaurs !
 When you enter the fractal, first you need to kill 2 _Veteran Bristlebacks_, 2 _Veteran Smogscales_ and 1 _Veteran Bonebreaker_. After you killed them, you need to move to the rock wall to kill the _Champion Stonehead_. Break his breakbar to kill it easily. After killing it, he will <Condition name="Fear"/> you back and die in the mines. Use the cannon to clear out the mines to gainacces to the next encounter.
 </GridItem>
-</Grid>
 
 <GridItem sm="6">
 <Image src="./images/sirens_mountains.jpg" caption="Scenery"/>
@@ -43,7 +42,6 @@ _Blast Black Peter_ the skeleton boss is kind of a dps race. He starts spawning 
 </GridItem>
 
 </Grid>
-
 
 ---
 
@@ -86,6 +84,7 @@ Here you have to use get the chest onto the ship by throwing the treasure chest 
 You need to get a chest again, now from one of the shores (random which one). Use same tactic as before, throw the chest across. There are 2 cannons each side of the ship, use it to clear mobs easily. After recovering the treasure the first mini boss spawns named _Mad Jack Squall_. During the boss there will be AoEs across the ship that blows players down the ship into the poisonous water. Kill him to start the next objective.
 
 ### Retrieve the third treasure
+
 You need to get the chest once again from one of the shores. Use same tactic as before, throw the chest across. Use cannons to clear mobs.
 
 After recovering the treasure the second mini boss spawns named _First Mate Calix_. During the boss there will be a new mechanic that spawns AoE on one player, place this AoE outside the fighting zone. The knockoff mechanic from Mad Jack Squall is present as well. Kill him to start the next objective.
