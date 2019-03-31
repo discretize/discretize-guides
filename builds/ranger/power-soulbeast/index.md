@@ -75,6 +75,14 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Grid>
 <GridItem sm="7">
 <Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2143"/>
+  
+<Card title="Pets">
+| | | |
+| -- | -- | -- |
+| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) | Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
+| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) | Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
+| <Skill id="12658" size="big" disableText/> | [Jungle Stalker](https://wiki.guildwars2.com/wiki/Juvenile_Jungle_Stalker) | Provides 5 stacks of <Boon name="might"/>, useful after long intermediate phases (e.g. orbs at Ensolyss). |
+</Card>  
 </GridItem>
 
 <GridItem sm="5">
@@ -84,14 +92,6 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 | | |
 | -- | -- |
 | <Trait name="Leader of the Pack" size="big" disableText/> | Very strong alternative to <Trait name="Oppressive Superiority"/> for fights where your party can profit from the shared <Skill name="One Wolf Pack"/>. Currently meta with Firebrand/Renegade on Skorvald, Arkk and Ensolyss. You should also activate it when precasting <Skill name="One Wolf Pack"/> and retrait before getting into combat. |
-</Card>
-
-<Card title="Pets">
-| | | |
-| -- | -- | -- |
-| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) | Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
-| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) | Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
-| <Skill id="12658" size="big" disableText/> | [Jungle Stalker](https://wiki.guildwars2.com/wiki/Juvenile_Jungle_Stalker) | Provides 5 stacks of <Boon name="might"/>, useful after long intermediate phases (e.g. orbs at Ensolyss). |
 </Card>
 </GridItem>
 </Grid>
