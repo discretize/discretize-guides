@@ -1,6 +1,6 @@
 ---
 title: 'Aquatic Ruins'
-date: '2018-09-12'
+date: '2019-03-28'
 image: './images/header.jpg'
 group: 'T4'
 api: 2956
@@ -47,6 +47,10 @@ Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="fury"
 
 <Tab specialization="weaver">
 You can stay Weaver for this fractal and trait Air with <Trait id="232" disableText/>, <Trait id="214" disableText/> and most importantly <Trait id="1503"/> or retrait to Tempest. For utility, use <Skill id="5638" disableText/>, <Skill id="40183" disableText/>, <Skill id="5539" disableText/> and <Skill id="43638"/> as Elite skill.
+  
+Rotate to <Skill name="Air Attunement" profession="Weaver" disableText/> / <Skill name="Air Attunement" profession="Weaver" disableText/> while swimming to the boss for <Trait name="Elements of Rage"/> and use <Skill name="Forked Lightning" profession="Weaver"/> (Air autoattack) and <Skill name="Electrocute" profession="Weaver"/> (Skill 2). Then rotate to <Skill name="Earth Attunement" profession="Weaver" disableText/> / <Skill name="Air Attunement" profession="Weaver" disableText/>  use  <Skill name="Rock Spray" profession="Weaver"/> (Skill 2) and <Skill name="Sodden Swath" profession="Weaver"/> (Earth/Air Skill 3) use <Skill name="Forked Lightning" profession="Weaver"/> (Air autoattack) rotate to <Skill name="Fire Attunement" profession="Weaver" disableText/> / <Skill name="Earth Attunement" profession="Weaver" disableText/>. Use <Skill name="Boil" profession="Weaver"/> (Skill 2) <Skill name="Molten Burst" profession="Weaver"/> (Fire/Earth Skill 3) and <Skill name="Rock Anchor" profession="Weaver"/> (Skill 4) <Skill name="Murky water" profession="Weaver"/> (Skill 5). Rotate to <Skill name="Fire Attunement" profession="Weaver" disableText/> / <Skill name="Fire Attunement" profession="Weaver" disableText/> use <Skill name="LavaChains" profession="Weaver"/> (Skill 4) and <Skill name="Heat Wave" profession="Weaver"/> (Skill 5). Rotate to <Skill name="Air Attunement" profession="Weaver" disableText/> / <Skill name="Fire Attunement" profession="Weaver" disableText/> use <Skill name="Plasmic Strike" profession="Weaver"/> (Air/Fire Skill 3), <Skill name="Electrocute" profession="Weaver"/> (Skill 2) and <Skill name="Forked Lightning" profession="Weaver"/> (Air autoattack). Rotate to <Skill name="Air Attunement" profession="Weaver" disableText/> / <Skill name="Air Attunement" profession="Weaver" disableText/> and start again. 
+
+Use your utility while in <Skill name="Fire Attunement" profession="Weaver" disableText/> / <Skill name="Fire Attunement" profession="Weaver" disableText/> or <Skill name="Air Attunement" profession="Weaver" disableText/> / <Skill name="Air Attunement" profession="Weaver" disableText/> when the bar is broken
 </Tab>
 
 <Tab specialization="tempest">
