@@ -20,7 +20,7 @@ The Arcane variant is not used anymore due to <Specialization name="Chronomancer
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-<Divider text="Equipment"/>
+<Divider text="Equipment with Spotter and Weakness (Druid Comp)"/>
 
 <Grid>
 <GridItem sm="4">
