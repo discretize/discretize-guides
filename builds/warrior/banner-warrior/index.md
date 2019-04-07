@@ -137,13 +137,15 @@ With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Mol
 </GridItem>
 
 <GridItem sm="5">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Impact" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Impact"/>
+<Message>
+Offhand weapons are still Mace/Mace.  !
+</Message>
 </GridItem>
 </Grid>
 
-You can run Dagger/Mace Axe/Axe if additional cc is needed. It's a good idea to bring [consumables](/guides/consumables). Dagger/Axe Mace/Axe if you need fast boon strip and additional cc on several targets (e.g. MAMA).
-
-You should also take <Skill id="45333"/> where necessary.
+It's a good idea to bring [consumables](/guides/consumables). 
+You should also take <Skill id="45333"/> where necessary. You can consider 	<Item id="72872"/> for additional party <Boon name="Might"/>.
 
 Gear-wise you are loosing Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to use our Gear-optimiser on the website if you want to max out crit cap.
 
