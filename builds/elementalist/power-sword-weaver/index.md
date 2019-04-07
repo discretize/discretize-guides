@@ -61,6 +61,15 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 </GridItem>
 <GridItem sm="5">
 <Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
+<Card title="What changes in this build">
+**Gear:**
+
+If you **HAVE** have a <Specialization name="Druid"/> with you, you will easily have  <Trait name="Spotter"/> and high <Condition name="Weakness"/> uptime in the party so **nothing** changes gear wise.
+
+**Traits:**
+
+Since you have high <Condition name="Weakness"/> uptime with a <Specialization name="Druid"/> you have **no trait changes** in this build.
+</Card>
 </GridItem>
 </Grid> 
 </Tab>
@@ -98,6 +107,15 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 </GridItem>
 <GridItem sm="5">
 <Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
+<Card title="What changes in this build">
+**Gear:**
+
+If you **DO NOT** have a <Specialization name="Druid"/> with you (mostly because you run the Renegade/Firebrand comp), you won't have  <Trait name="Spotter"/> and <Condition name="Weakness"/> in the party, so changed 2 `Berserker Rings` and 1 `Berserker Amulet` into Assassins to crit-cap even without these. Also a `Berserker Leggings` into Assassins.
+
+**Traits:**
+
+You change <Trait name="Superior Elements"/> into <Trait name="Masters fortitude"/> due to no proper <Condition name="Weakness"/> uptime.
+</Card>
 </GridItem>
 </Grid>
 </Tab>
@@ -135,6 +153,15 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 </GridItem>
 <GridItem sm="5">
 <Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
+<Card title="What changes in this build">
+**Gear:**
+
+If you **DO NOT** have a <Specialization name="Druid"/> with you (mostly because you run the Renegade/Firebrand comp), you won't have  <Trait name="Spotter"/> and <Condition name="Weakness"/> in the party, so changed 2 `Berserker Accessories` into Assassins to crit-cap even without these.
+
+**Traits:**
+
+You change <Trait name="Superior Elements"/> into <Trait name="Masters fortitude"/> due to no proper <Condition name="Weakness"/> uptime.
+</Card>
 </GridItem>
 </Grid>
 </Tab>
