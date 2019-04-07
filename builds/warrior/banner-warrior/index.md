@@ -129,7 +129,7 @@ Everything else stays the same. Note that your CC suffers without <Skill id="145
 
 <Divider text="Spellbreaker Variant"/>
 
-With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Molten Boss, Twilight Oasis) and no Domination Chronomancer or Mallyx Renegade you will have to take the <Specialization name="spellbreaker"/> specialization instead of **Discipline**.
+With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Molten Boss, Twilight Oasis) and no <Specialization text="Domination Chronomancer" name="chronomancer"/> or <Specialization text="Mallyx Renegade" name="renegade"/> you will have to take the <Specialization name="spellbreaker"/> specialization instead of **Discipline**.
 
 <Grid>
 <GridItem sm="7">
@@ -137,18 +137,17 @@ With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Mol
 </GridItem>
 
 <GridItem sm="5">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Impact" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Impact"/>
+<Message>
+Offhand weapons are still Mace/Mace.  !
+</Message>
 </GridItem>
 </Grid>
 
-You can run Dagger/Mace Axe/Axe if additional cc is needed. It's a good idea to bring [consumables](/guides/consumables). Dagger/Axe Mace/Axe if you need fast boon strip and additional cc on several targets (e.g. MAMA).
+It's a good idea to bring [consumables](/guides/consumables). 
+You should also take <Skill id="45333"/> where necessary. You can consider 	<Item id="72872"/> for additional party <Boon name="Might"/>.
 
-You should also take <Skill id="45333"/> where necessary.
-
-Gear-wise you are loosing 85 Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to swap either
-
-- Boots, gloves, back item and one accessory to Assassin's (variant with legendary armor and <Item id="81908"/>)
-- or amulet and one accessory to Assassin's (variant without legendary armor)
+Gear-wise you are loosing Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to use our Gear-optimiser on the website if you want to max out crit cap.
 
 Everything else stays the same.
 
@@ -159,8 +158,7 @@ Everything else stays the same.
 <Card title="Skill usage">
 * Pre-fight:
   * Use <Skill id="14394"/> and <Skill id="14393"/> on warhorn (<Boon name="vigor" disableText/><Boon name="swiftness" disableText/>)
-  * Place <Skill id="14407"/> and <Skill id="14405"/> close to the boss (do not place banners directly at or next to boss, that place is reserved for conjured weapons!)
-  * If its an encounter where you have to move out of banner radius, have another player pick up the second banner to help you move it
+  * Place <Skill id="14407"/> and <Skill id="14405"/> into to the boss
   * Use <Skill id="14402"/> to charge up Adrenaline immediately before the fight starts
 * Breaking defiance bars:
   * If there is a defiance bar present immediately at the start of the fight, start on your Mace/Mace set - otherwise swap to it when necessary
