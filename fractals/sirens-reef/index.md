@@ -14,7 +14,7 @@ consumables: [8764, 8801]
 <Grid>
 <GridItem sm="12">
 ## Start: Wipe out the dinosaurs !
-When you enter the fractal, first you need to kill 2 _Veteran Bristlebacks_, 2 _Veteran Smogscales_ and 1 _Veteran Bonebreaker_. After you killed them, you need to move to the rock wall to kill the _Champion Stonehead_. Break his breakbar to kill it easily. After killing it, he will <Condition name="Fear"/> you back and die in the mines. Use the cannon to clear out the mines to gainacces to the next encounter.
+When you enter the fractal, first you need to kill 2 _Veteran Bristlebacks_, 2 _Veteran Smogscales_ and 1 _Veteran Bonebreaker_. After you killed them, you need to move to the rock wall to kill the _Champion Stonehead_. Break his breakbar to kill it easily. After killing it, he will <Condition name="Fear"/> you back and die in the mines. Use the cannon to clear out the mines to gain access to the next encounter.
 </GridItem>
 
 <GridItem sm="6">
@@ -65,7 +65,7 @@ Your objective is simple. You need to collect 3 treasures and carry them to the 
 <GridItem sm="6">  
 ### The way to the ship
   
-Here you have to use get the chest onto the ship by throwing the treasure chest at eachother, same tactic as before. You can use the _Mistlock Singularity_ at the entrance to reset your cooldowns.
+Here you have to get the chest onto the ship by throwing the treasure chest at eachother, same tactic as before. You can use the _Mistlock Singularity_ at the entrance to reset your cooldowns. If you happen to be in combat (you triggered the AoE circles) then just skip it and take it when you '/gg' before you fight Arabella Crowe (it is to reset mobs from the previous event and to start with no cd and fresh boons).
 </GridItem>
 
 <GridItem sm="12">
@@ -89,11 +89,11 @@ You need to get the chest once again from one of the shores. Use same tactic as 
 
 After recovering the treasure the second mini boss spawns named _First Mate Calix_. During the boss there will be a new mechanic that spawns AoE on one player, place this AoE outside the fighting zone. The knockoff mechanic from Mad Jack Squall is present as well. Kill him to start the next objective.
 
-It will be a point capture event, you need to stayalive long enough to kill all mobs coming from the two sides of the ship. Use the cannon to clear most of the ghosts. After the event is done, the main boss spawns.
+It will be a point capture event, you need to stay alive long enough to kill all mobs coming from the two sides of the ship. Use the cannon to clear most of the ghosts. After the event is done, the main boss spawns.
 
 ### Captain Arabella Crowe
 
-Use `/gg` to reset mobs on the ship and use the _Mistlock Singularity_ to stack boons. The two mechanics from before, the knockoff and AoE are present in this fight as well as a third one. It is an AoE placed on a player with a timer. If the circle fills, a huge damage is dealt to the player, but you can split up the damage between players, to counter this mechanic simply stack in the circle to split up the damage dealth to each player. The boss will be teleporting around as well as spawning mobs every 10% health of the boss. Kill her to finish the fractal.
+Use `/gg` to reset mobs on the ship and use the _Mistlock Singularity_ to stack boons. The two mechanics from before, the knockoff and AoE are present in this fight as well as a third one. It is an AoE placed on a player with a timer. If the circle fills, a huge damage is dealt to the player, but you can split up the damage between players, to counter this mechanic simply stack in the circle to split up the damage dealt to each player. The boss will be teleporting around as well as spawning mobs every 10% health of the boss. Kill her to finish the fractal.
 
 </GridItem>
 
