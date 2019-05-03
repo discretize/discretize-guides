@@ -103,7 +103,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
 
 <Card title="Extra note">
-**You need one ring with 3 x +15 Agony Resistance, the rest is Mighty +9 Agony Infusion !**
+You need one ring with 3 x +15 Agony Resistance, <Item id="70596"/>, the rest is Mighty +9 Agony Infusion !
   
 **You get +5 Agony Resistance to cap critical chance from _Mistlock Singularity_.**
 </Card>
