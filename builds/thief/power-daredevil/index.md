@@ -1,6 +1,6 @@
 ---
 title: 'Power Daredevil'
-date: '2019-01-20'
+date: '2019-05-02'
 rating: 'Great'
 role: 'Damage'
 profession: 'Thief'
@@ -47,7 +47,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <Grid>
 <GridItem sm="7">
-<Traits title="" traits1Id="28" traits1="Dreadly Arts" traits1SelectedIds="1276,1292,1269" traits2Id="35" traits2="Critical Strikes" traits2SelectedIds="1268,1272,1904" traits3Id="7" traits3="Daredevil" traits3SelectedIds="1933,1884,2047"/>
+<Traits traits1="Deadly Arts" traits1Selected="Dagger Training, Revealed Training, Executioner" traits2="Critical Strikes" traits2Selected="Twin Fangs, Practiced Tolerance, No Quarter" traits3="Daredevil" traits3Selected="Marauder's Resilience, Havoc Specialist, Bound"/>
 </GridItem>
 
 <GridItem sm="5">
