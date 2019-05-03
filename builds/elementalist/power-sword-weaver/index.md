@@ -81,7 +81,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 </Grid>
 </Tab>
 
-<Tab title="350 Agony Resistance (Without Spotter and Weakness)">
+<Tab title="345 Agony Resistance (Without Spotter and Weakness)">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -104,6 +104,8 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 
 <Card title="Extra note">
 **You need one ring with 3 x +15 Agony Resistance, the rest is Mighty +9 Agony Infusion !**
+  
+**You get +5 Agony Resistance to cap critical chance from _Mistlock Singularity_.**
 </Card>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
