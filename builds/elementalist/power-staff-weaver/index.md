@@ -1,6 +1,6 @@
 ---
 title: 'Power Staff Weaver'
-date: '2019-01-20'
+date: '2019-05-02'
 rating: 'Great'
 role: 'Damage'
 profession: 'Elementalist'
@@ -16,15 +16,15 @@ Due to the continueing nerfs the <Specialization text="Power Staff Weaver" name=
 
 Staff Weaver has some utilities in the form of burst <Condition name="vulnerability"/>, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver has no reflects, no fast reachable crowd control skills apart from <Skill id="5733"/> and no <Boon name="stability"/> compared to <Specialization name="Tempest"/>.
 
-The Arcane variant is not used anymore due to <Specialization name="Chronomancer"/> nerfs.
+The Arcane variant is not used anymore due to <Specialization name="Chronomancer"/> nerfs. The build is without <Specialization name="Druid"/> since the Glyph of Empowerment skill got reworked and no longer grants damage boost, thus making the Renegade/Firebrand comp even more dominant. You can still use the Gear Optimizer 
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-<Divider text="Equipment with Spotter and Weakness (Druid Comp)"/>
+<Divider text="Equipment without Spotter and Weakness"/>
 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Light" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -39,7 +39,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Assassin" ring1Affix="Berserker" ring2Affix="Berserker"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
