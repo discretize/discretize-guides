@@ -1,6 +1,6 @@
 ---
 title: 'Power Sword Weaver'
-date: '2019-03-31'
+date: '2019-05-02'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
@@ -28,51 +28,6 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 
 <Tabs outlined>
 
-<Tab title="150 Agony Resistance (With Spotter and Weakness)">
-<Grid>
-<GridItem sm="4">
-<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Dagger" weapon1OffAffix="Berserker" weapon1OffSigil="Force"/>
-
-<Card title="Swap Weapons">
-* Dagger with <Item name="Night" type="Sigil"/>
-* Dagger with <Item name="Serpent Slaying" type="Sigil"/>
-* Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
-* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="might"/>
-* A staff to precast <Skill name="Meteor Shower"/> on some encounters
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
-
-<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
-</GridItem>
-</Grid>
-
-<Divider text="Build"/>
-
-<Grid>
-<GridItem sm="7">
-<Traits traits1="Fire" traits1Selected="Burning Precision, Pyromancers Training, Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Tempest Defense, Bolt to the Heart" traits3="Weaver" traits3Selected="Superior Elements, Swift Revenge, Elements of Rage"/>
-</GridItem>
-<GridItem sm="5">
-<Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
-<Card title="What changes in this build">
-**Gear:**
-
-If you **HAVE** have a <Specialization name="Druid"/> with you, you will easily have  <Trait name="Spotter"/> and high <Condition name="Weakness"/> uptime in the party so **nothing** changes gear wise.
-
-**Traits:**
-
-Since you have high <Condition name="Weakness"/> uptime with a <Specialization name="Druid"/> you have **no trait changes** in this build.
-</Card>
-</GridItem>
-</Grid> 
-</Tab>
 
 <Tab title="150 Agony Resistance (Without Spotter and Weakness)">
 <Grid>
@@ -96,26 +51,6 @@ Since you have high <Condition name="Weakness"/> uptime with a <Specialization n
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
-</GridItem>
-</Grid>
-
-<Divider text="Build"/>
-
-<Grid>
-<GridItem sm="7">
-<Traits traits1="Fire" traits1Selected="Burning Precision, Pyromancers Training, Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Tempest Defense, Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude, Swift Revenge, Elements of Rage"/>
-</GridItem>
-<GridItem sm="5">
-<Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
-<Card title="What changes in this build">
-**Gear:**
-
-If you **DO NOT** have a <Specialization name="Druid"/> with you (mostly because you run the Renegade/Firebrand comp), you won't have  <Trait name="Spotter"/> and <Condition name="Weakness"/> in the party, so changed 2 `Berserker Rings` and 1 `Berserker Amulet` into Assassins to crit-cap even without these. Also a `Berserker Leggings` into Assassins.
-
-**Traits:**
-
-You change <Trait name="Superior Elements"/> into <Trait name="Masters fortitude"/> due to no proper <Condition name="Weakness"/> uptime.
-</Card>
 </GridItem>
 </Grid>
 </Tab>
@@ -144,6 +79,38 @@ You change <Trait name="Superior Elements"/> into <Trait name="Masters fortitude
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 </Grid>
+</Tab>
+
+<Tab title="350 Agony Resistance (Without Spotter and Weakness)">
+<Grid>
+<GridItem sm="4">
+<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Dagger" weapon1OffAffix="Berserker" weapon1OffSigil="Force"/>
+
+<Card title="Swap Weapons">
+* Dagger with <Item name="Night" type="Sigil"/>
+* Dagger with <Item name="Serpent Slaying" type="Sigil"/>
+* Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
+* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="might"/>
+* A staff to precast <Skill name="Meteor Shower"/> on some encounters
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+
+<Card title="Extra note">
+**You need one ring with 3 x +15 Agony Resistance, the rest is Mighty +9 Agony Infusion !**
+</Card>
+
+<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
+</GridItem>
+</Grid>
+</Tab>
+</Tabs>
 
 <Divider text="Build"/>
 
@@ -153,19 +120,13 @@ You change <Trait name="Superior Elements"/> into <Trait name="Masters fortitude
 </GridItem>
 <GridItem sm="5">
 <Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
-<Card title="What changes in this build">
-**Gear:**
+<Card title="Note about Druid">
+The builds are without <Specialization name="Druid"/> since the Glyph of Empowerment skill got removed from the game. <Specialization name="Druid"/> no longer grants damage boost aside from <Skill name="Frost Spirit"/> (<Specialization name="Soulbeast"/> can take that), thus making the Renegade/Firebrand comp even more dominant. 
 
-If you **DO NOT** have a <Specialization name="Druid"/> with you (mostly because you run the Renegade/Firebrand comp), you won't have  <Trait name="Spotter"/> and <Condition name="Weakness"/> in the party, so changed 2 `Berserker Accessories` into Assassins to crit-cap even without these.
-
-**Traits:**
-
-You change <Trait name="Superior Elements"/> into <Trait name="Masters fortitude"/> due to no proper <Condition name="Weakness"/> uptime.
+You can still use the [Gear Optimizer](http://old.discretize.eu) if you still play with druid.
 </Card>
 </GridItem>
 </Grid>
-</Tab>
-</Tabs>
 
 <Grid>
 <GridItem sm="7">
