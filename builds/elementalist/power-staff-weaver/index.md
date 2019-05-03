@@ -16,7 +16,8 @@ Due to the continueing nerfs the <Specialization text="Power Staff Weaver" name=
 
 Staff Weaver has some utilities in the form of burst <Condition name="vulnerability"/>, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver has no reflects, no fast reachable crowd control skills apart from <Skill id="5733"/> and no <Boon name="stability"/> compared to <Specialization name="Tempest"/>.
 
-The Arcane variant is not used anymore due to <Specialization name="Chronomancer"/> nerfs. The build is without <Specialization name="Druid"/> since the Glyph of Empowerment skill got reworked and no longer grants damage boost, thus making the Renegade/Firebrand comp even more dominant. You can still use the [Gear Optimizer](http://old.discretize.eu) if you still play with druid.
+The Arcane variant is not used anymore due to <Specialization name="Chronomancer"/> nerfs. The builds are without <Specialization name="Druid"/> since the Glyph of Empowerment skill got removed from the game. <Specialization name="Druid"/> no longer grants damage boost aside from <Skill name="Frost Spirit"/> (<Specialization name="Soulbeast"/> can take that), thus making the Renegade/Firebrand comp even more dominant. You can still use the [Gear Optimizer](http://old.discretize.eu) if you still play with druid.
+
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
