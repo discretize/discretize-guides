@@ -87,7 +87,7 @@ Below are some popular trait choices to push Critical Chance.
 | <Specialization name="Elementalist"/> | Weaver           | <Trait name="Superior Elements"/>   | Target must have <Condition name="Weakness"/>               | 10%             | 210        |
 | <Specialization name="Guardian"/>     | Radiance         | <Trait name="Radiant Power"/>       | Target must have <Condition name="Burning"/>                | 10%             | 210        |
 | <Specialization name="Guardian"/>     | Radiance         | <Trait name="Righteous Instincts"/> | Player must have <Boon name="Retaliation"/>                 | 50%             | 1050       |
-| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Right-Hand Strength"/> | Only for one-handed weapons                                 | 5.25%             | 80        |
+| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Right-Hand Strength"/> | Only for one-handed weapons                                 | 3.8%             | 80        |
 | <Specialization name="Ranger"/>       | Skirmishing      | <Trait name="Hunters Tactics"/>     | Player must hit from behind or the side                     | 10%             | 210        |
 | <Specialization name="Ranger"/>       | Skirmishing      | <Trait name="Vicious Quarry"/>      | Player must have <Boon name="Fury"/>                        | 10%             | 210        |
 | <Specialization name="Engineer"/>     | Firearms         | <Trait name="Hematic Focus"/>       | Target must have <Condition name="Bleeding"/>               | 10%             | 210        |
