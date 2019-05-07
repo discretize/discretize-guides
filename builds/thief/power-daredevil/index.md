@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Thief'
 specialization: 'Daredevil'
 benchmark:
-  { small: { dps: 35354, by: 'L E F T [MnF]', youtube: 'a5af0R1ae7E' } }
+  { small: { dps: 35018, by: 'L E F T [MnF]', youtube: 'a5af0R1ae7E' } }
 skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
 conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness']
