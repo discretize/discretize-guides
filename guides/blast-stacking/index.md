@@ -1,6 +1,6 @@
 ---
 title: 'Blast Stacking'
-date: '2018-09-18'
+date: '2019-05-08'
 image: './images/stacking.jpg'
 description: 'Use blasts and combo fields to stack large amounts of Might, Fury and Stealth on your party.'
 ---
@@ -18,7 +18,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
 ### <Boon name="might"/> stacking for advanced groups
 
 - <Specialization name="weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
-- <Specialization name="warrior"/>: <Skill id="14405"/> and <Skill id="14407"/> (Druid picks up one)
+- <Specialization name="warrior"/>: <Skill id="14405"/> and <Skill id="14407"/>
 - <Specialization name="druid"/>: <Skill id="12621"/> (Warhorn 5) and <Skill id="31535"/> (Staff 3)
 - <Specialization name="mesmer"/>: <Skill id="10285"/> (Torch 4)
 
@@ -60,7 +60,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
 - <Specialization name="warrior"/>:
   - <Skill id="14394"/> (Warhorn 5)
   - <Skill id="14381"/> (Longbow 3)
-  - One banner (<Skill id="14405"/> or <Skill id="14407"/>), then pick up the banner and use Banner 5
+  - <Skill id="14405"/> and <Skill id="14407"/>
 - <Specialization name="mesmer"/>:
   - <Skill id="10285"/> (Torch 4), hits after 3 seconds (even if you swap out the torch)
 - <Specialization name="ranger"/>:
