@@ -45,7 +45,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
     9. Swap to Focus
     10. <Skill id="5555"/> (Focus 4)
 
-  - Fast <Boon name="Might"/> stack, little less <Boon name="Might" disableText/> but faster (Recommended with 2-3 <Specialization name ="Elementalist"/>)
+  - Fast <Boon name="Might"/> stack, little less <Boon name="Might" disableText/> but faster
 
     - Start on Scepter / Dagger (<Skill name="Earth Attunement" specialization="elementalist" disableText/> / <Skill name="Fire Attunement" specialization="elementalist" disableText/>)
 
