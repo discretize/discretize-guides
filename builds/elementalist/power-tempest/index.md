@@ -86,14 +86,14 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Arcane" traits1Selected="Arcane Precision, Final Shielding, Bountiful Power" traits2="Air" traits2Selected="Ferocious Winds, Tempest Defense, Fresh Air" traits3="Tempest" traits3Selected="Unstable Conduit, Harmonious Conduit, Imbued Melodies"/>
+<Traits traits1="Arcane" traits1Selected="Arcane Precision, Final Shielding, Bountiful Power" traits2="Air" traits2Selected="Ferocious Winds, Stormsoul, Fresh Air" traits3="Tempest" traits3Selected="Unstable Conduit, Harmonious Conduit, Imbued Melodies"/>
 
 <Card title="Situational Traits">
 | | |
 | -- | -- |
 | <Trait name="Gale Song" size="big" disableText/> | Useful automatic group stunbreak for things like <Instability name="Last Laugh"/> or bosses like MAMA. |
 | <Trait name="Elemental Bastion" size="big" disableText/> | Another defensive option instead of <Trait name="Imbued Melodies"/> when heals and damage reduction are more valuable than reflects and longer boons. Combine it with <Trait name="Unstable Conduit"/> if possible. |
-| <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Tempest Defense"/> (e.g. Artsariiv). |
+| <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv). |
 | <Trait name="Renewing Stamina" size="big" disableText/> | If you don't get enough <Boon name="vigor"/> from your <Specialization name="chronomancer"/>. |
 | <Trait name="Elemental Contingency" size="big" disableText/> | If you don't get enough <Boon name="retaliation"/> from your <Specialization name="chronomancer"/>. |
 | <Trait name="Lucid Singularity" size="big" disableText/> | Counters movement-impairing conditions while overloading, useful in scenarios like the <Condition name="Immobile"/> on interact with the consoles in [Aetherblade Fractal](/fractals/aetherblade). |
@@ -134,7 +134,7 @@ Apart from that, you have the following modifiers:
 
 - <Trait name="Harmonious Conduit"/>: 10% damage increase for 4 seconds after <Skill name="Overload Air"/> finishes
 - <Trait name="Fresh Air"/>: 250 ferocity for 5 seconds after attuning to air
-- <Trait name="Tempest Defense"/> and <Item name="Impact" type="Sigil"/> when the target's defiance bar is broken
+- <Trait name="Stormsoul"/> and <Item name="Impact" type="Sigil"/> when the target's defiance bar is broken
 - <Skill name="Conjure Lightning Hammer"/>: 75 ferocity while wielding it
 - <Skill name="Conjure Fiery Greatsword"/>: 260 power while wielding it
 

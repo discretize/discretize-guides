@@ -21,7 +21,7 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 effects: ['Stealth']
 ---
 
-<Specialization name="druid" text="Boon Druid"/> got demoted to Good builds for fractals, it's main purpose is providing the group with heals. Aside from keeping up the health bars (<Item id="24836"/> uptime), it also brings <Skill name="Spirit of Frost"/>, <Skill name="Storm Spirit"/> , <Trait id="1016"/> to the party and <Condition name="vulnerability"/>,<Condition name="weakness"/> (which is only an upside if your party has <Specialization name="weaver"/>, but generally we make builds without <Specialization name="druid"/> now).
+<Specialization name="druid" text="Boon Druid"/> got demoted to Good builds for fractals, it's main purpose is providing the group with heals. Aside from keeping up the health bars (<Item id="24836"/> uptime), it also brings <Skill name="Frost Spirit"/>, <Skill name="Storm Spirit"/> , <Trait id="1016"/> to the party and <Condition name="vulnerability"/>,<Condition name="weakness"/> (which is only an upside if your party has <Specialization name="weaver"/>, but generally we make builds without <Specialization name="druid"/> now).
 
 The Druid's main source of healing comes from <Skill id="31869"/>, which is replenished by acquiring Astral Force from healing allies and damaging foes (<Trait id="1874"/>). Using CA replaces your weapon skills with strong AoE healing skills.
 

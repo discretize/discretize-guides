@@ -46,7 +46,7 @@ So you'll only need a few more points of Precision to reach 100% Critical Chance
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
 | 150 (Standard)                                                                                                                           | 289                                          | 290                                          | 189                                       | 190                                       |
 | 162 (18x <Item id="37131" disableText/>, no [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                      | 271                                          | 272                                          | 171                                       | 172                                       |
-| 207 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                     | 203                                          | 204                                          | 103                                        | 104                                        |
+| 207 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                     | 203                                          | 204                                          | 103                                       | 104                                       |
 | 222 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation), <Item id="70596"/>) | 181                                          | 182                                          | 81                                        | 82                                        |
 
 In general you want to stack as much Agony Resistance as possible to benefit from the Precision conversion if you're not crit capped with profession-specific traits. <Item id="37131"/> is usually the way to go as better regular infusions (e.g. <Item id="49439"/>) are very expensive.  
@@ -87,7 +87,7 @@ Below are some popular trait choices to push Critical Chance.
 | <Specialization name="Elementalist"/> | Weaver           | <Trait name="Superior Elements"/>   | Target must have <Condition name="Weakness"/>               | 10%             | 210        |
 | <Specialization name="Guardian"/>     | Radiance         | <Trait name="Radiant Power"/>       | Target must have <Condition name="Burning"/>                | 10%             | 210        |
 | <Specialization name="Guardian"/>     | Radiance         | <Trait name="Righteous Instincts"/> | Player must have <Boon name="Retaliation"/>                 | 50%             | 1050       |
-| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Right-Hand Strength"/> | Only for one-handed weapons                                 | 3.8%             | 80        |
+| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Right-Hand Strength"/> | Only for one-handed weapons                                 | 3.8%            | 80         |
 | <Specialization name="Ranger"/>       | Skirmishing      | <Trait name="Hunters Tactics"/>     | Player must hit from behind or the side                     | 10%             | 210        |
 | <Specialization name="Ranger"/>       | Skirmishing      | <Trait name="Vicious Quarry"/>      | Player must have <Boon name="Fury"/>                        | 10%             | 210        |
 | <Specialization name="Engineer"/>     | Firearms         | <Trait name="Hematic Focus"/>       | Target must have <Condition name="Bleeding"/>               | 10%             | 210        |
@@ -101,10 +101,10 @@ Below are some popular trait choices to push Critical Chance.
 
 #### Traits increasing Precision
 
-| Profession                            | Specialization | Trait                                     | Note                                                                  | Precision |
-| ------------------------------------- | -------------- | ----------------------------------------- | --------------------------------------------------------------------- | --------- |
-| <Specialization name="Warrior"/>      | Discipline     | <Trait name="Inspiring Battle Standard"/> | <Skill name="Banner of Discipline"/> (this only applies to yourself!) | 100        |
-| <Specialization name="Thief"/>        | Deadeye        | <Trait name="Be Quick or Be Killed"/>     | Target must be marked                                                 | 200       |
-| <Specialization name="Elementalist"/> | Weaver         | <Trait name="Elements of Rage"/>          | Converts 13% of your Vitality to Precision                            |           |
+| Profession                            | Specialization | Trait                                 | Note                                                                  | Precision |
+| ------------------------------------- | -------------- | ------------------------------------- | --------------------------------------------------------------------- | --------- |
+| <Specialization name="Warrior"/>      | Discipline     | <Trait name="Doubled Standards"/>     | <Skill name="Banner of Discipline"/> (this only applies to yourself!) | 100       |
+| <Specialization name="Thief"/>        | Deadeye        | <Trait name="Be Quick or Be Killed"/> | Target must be marked                                                 | 200       |
+| <Specialization name="Elementalist"/> | Weaver         | <Trait name="Elements of Rage"/>      | Converts 13% of your Vitality to Precision                            |           |
 
 _Note: Conversion traits only take flat modifiers from items, runes, food and infusions into consideration. Things like boons (e.g. <Boon name="Might"/>), traits (e.g. other conversions), skills (e.g. <Skill name="Signet of Fury"/>), group buffs (e.g. <Skill name="Banner of Strength"/>) or the <Item id="79722"/> are not included._
