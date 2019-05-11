@@ -1,6 +1,6 @@
 ---
 title: 'Banner Warrior'
-date: '2019-03-27'
+date: '2019-05-02'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
@@ -24,29 +24,6 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Divider text="Equipment"/>
 
 <Tabs outlined>
-<Tab title="150 Agony Resistance (With Spotter)">
-<Grid>
-<GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
-<Card title="Swap Weapons">
-* Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and slaying sigils
-* A warhorn for pre-stacking
-* Having a sword is very useful and sometimes even necessary especially for some of the skips (Uncategorized Fractal | Urban Battleground)
-* If no additional cc is necessary you can use Greatsword instead of Mace/Mace
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
-
-<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
-</GridItem>
-</Grid>
-</Tab>
 
 <Tab title="150 Agony Resistance (Without Spotter)">
 <Grid>
@@ -144,10 +121,10 @@ Offhand weapons are still Mace/Mace.  !
 </GridItem>
 </Grid>
 
-It's a good idea to bring [consumables](/guides/consumables). 
+It's a good idea to bring [consumables](/guides/consumables).  
 You should also take <Skill id="45333"/> where necessary. You can consider 	<Item id="72872"/> for additional party <Boon name="Might"/>.
 
-Gear-wise you are loosing Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to use our Gear-optimiser on the website if you want to max out crit cap.
+Gear-wise you are losing Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to use our Gear-optimiser on the website if you want to max out crit cap.
 
 Everything else stays the same.
 
