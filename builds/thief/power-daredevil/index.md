@@ -47,7 +47,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Deadly Arts" traits1Selected="Dagger Training, Revealed Training, Executioner" traits2="Critical Strikes" traits2Selected="Twin Fangs, Practiced Tolerance, No Quarter" traits3="Daredevil" traits3Selected="Marauder's Resilience, Havoc Specialist, Bound"/>
+<Traits traits1="Deadly Arts" traits1Selected="Dagger Training, Revealed Training, Executioner" traits2="Critical Strikes" traits2Selected="Twin Fangs, Practiced Tolerance, No Quarter" traits3="Daredevil" traits3Selected="Marauders Resilience, Havoc Specialist, Bounding Dodger"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -79,8 +79,9 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 7. (<Skill id="30868"/> ->) <Skill id="30693"/> (Utility)
 8. <Skill id="29911"/> 2x (Staff 2)
 
-**Burst 1:** When you have *one bar of Endurance* and **no** <Skill id="55031"/> (F1)
-1. Dodge 
+**Burst 1:** When you have _one bar of Endurance_ and **no** <Skill id="55031"/> (F1)
+
+1. Dodge
 2. <Skill id="29911"/> (Staff 2)
 3. <Skill id="13046"/> (Utility **during** Staff 2)
 4. <Skill id="29911"/> (Staff 2)
@@ -89,7 +90,8 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 7. (<Skill id="30868"/> ->) <Skill id="30693"/> (Utility)
 8. <Skill id="29911"/> 2x (Staff 2)
 
-**Burst 2:** When you have *no Endurane* **but have** <Skill id="55031"/> (F1)
+**Burst 2:** When you have _no Endurane_ **but have** <Skill id="55031"/> (F1)
+
 1. <Skill id="55031"/> (F1)
 2. Dodge
 3. <Skill id="29911"/> (Staff 2)
@@ -102,6 +104,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 10. <Skill id="29911"/> 2x (Staff 2)
 
 **Loop while waiting for <Skill id="13046"/> off cooldown:**
+
 1. <Skill id="30614"/> => <Skill id="30135" disableText/> => <Skill id="30434" disableText/> (Staff 1)
 2. Dodge
 3. <Skill id="29911"/> (Staff 2) (Do it **2x** if you get max Initiative while you are waiting for <Skill id="13046"/>)

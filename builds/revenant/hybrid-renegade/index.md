@@ -117,7 +117,7 @@ The general list of priorities looks like this:
 
 - Grant <Boon name="Alacrity"/> to your allies by using <Skill name="Orders from Above"/> near them whenever it's ready
 - Provide group <Boon name="Might"/> with <Skill name="Heroic Command"/> when it's below 25 stacks
-- Break defiance bars with <Skill name="Surge of the Mists"/> and optionally <Skill name="Debilitating Slam"/>
+- Break defiance bars with <Skill name="Surge of the Mists"/>
 - Maximize <Skill name="Soulcleaves Summit"/> uptime on the group
 - Spam 111 on Sword (using anything else is usually a party DPS loss)
 
@@ -157,7 +157,6 @@ Notes about other weapon skills:
 | -- | -- |
 | <Skill name="Surge of the Mists" size="big" disableText/> | 3-6x150 with <Control name="knockback"/> |
 | <Skill name="Darkrazors Daring" size="big" disableText/> | 6x100 with <Control name="daze"/> |
-| <Skill name="Debilitating Slam" size="big" disableText/> | 100 with <Control name="daze"/> |
 </Card>
 </GridItem>
 </Grid>

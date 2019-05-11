@@ -23,11 +23,9 @@ Aside from <Condition name="vulnerability"/>, an additional crowd control skill 
 
 The build benefits heavily from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-
 <Divider text="Equipment"/>
 
 <Tabs outlined>
-
 
 <Tab title="150 Agony Resistance (Without Spotter and Weakness)">
 <Grid>
@@ -118,12 +116,12 @@ You need one ring with 3 x +15 Agony Resistance, <Item id="70596"/>, the rest is
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Fire" traits1Selected="Burning Precision, Pyromancers Training, Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Tempest Defense, Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude, Swift Revenge, Elements of Rage"/>
+<Traits traits1="Fire" traits1Selected="Burning Precision, Pyromancers Training, Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Stormsoul, Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude, Swift Revenge, Elements of Rage"/>
 </GridItem>
 <GridItem sm="5">
 <Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
 <Card title="Note about Druid">
-The builds are without <Specialization name="Druid"/> since the Glyph of Empowerment skill got removed from the game. <Specialization name="Druid"/> no longer grants damage boost aside from <Skill name="Frost Spirit"/> (<Specialization name="Soulbeast"/> can take that), thus making the Renegade/Firebrand comp even more dominant. 
+The builds are without <Specialization name="Druid"/> since the Glyph of Empowerment skill got removed from the game. <Specialization name="Druid"/> no longer grants damage boost aside from <Skill name="Frost Spirit"/> (<Specialization name="Soulbeast"/> can take that), thus making the Renegade/Firebrand comp even more dominant.
 
 You can still use the [Gear Optimizer](http://old.discretize.eu) if you still play with druid.
 </Card>
@@ -153,7 +151,7 @@ You can still use the [Gear Optimizer](http://old.discretize.eu) if you still pl
 | | |
 | -- | -- |
 | <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
-| <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Tempest Defense"/> (e.g. Artsariiv). |
+| <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
 | <Trait name="Inscription" size="big" disableText/> | Niche trait to reduce the cooldown of <Skill name="Glyph of Storms"/>. |
 | <Trait name="Conjurer" size="big" disableText/> | Another niche trait to reduce the cooldown of conjured weapons. |
