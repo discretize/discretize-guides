@@ -1,6 +1,6 @@
 ---
 title: 'Power Tempest'
-date: '2019-03-29'
+date: '2019-05-02'
 rating: 'Great'
 role: 'Damage'
 profession: 'Elementalist'
