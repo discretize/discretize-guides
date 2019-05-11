@@ -1,11 +1,11 @@
 ---
 title: 'Heal Druid'
-date: '2019-01-20'
-rating: 'Great'
+date: '2019-05-02'
+rating: 'Good'
 role: 'Support'
 profession: 'Ranger'
 specialization: 'Druid'
-skills: [31869, 12495, 12493, 12497, 12498, 12569, 31582]
+skills: [31869, 12495, 12493, 12497, 12498, 12569, 31582, 31677]
 traits: [2057, 1016]
 boons:
   [
@@ -21,11 +21,11 @@ conditions: ['Weakness', 'Vulnerability', 'Blind']
 effects: ['Stealth']
 ---
 
-At the moment <Specialization name="druid" text="Boon Druid"/> is a great build for fractals, primarily providing the group with heals. Aside from keeping up the health bars (<Item id="24836"/> uptime), it also facilitates a bunch of utilities and strong offensive party support in form of <Skill id="12497"/>, <Skill id="31582"/>, <Trait id="2057"/>, <Trait id="1016"/> and <Condition name="vulnerability"/>.
+<Specialization name="druid" text="Boon Druid"/> got demoted to Good builds for fractals, it's main purpose is providing the group with heals. Aside from keeping up the health bars (<Item id="24836"/> uptime), it also brings <Skill name="Spirit of Frost"/>, <Skill name="Storm Spirit"/> , <Trait id="1016"/> to the party and <Condition name="vulnerability"/>,<Condition name="weakness"/> (which is only an upside if your party has <Specialization name="weaver"/>, but generally we make builds without <Specialization name="druid"/> now).
 
 The Druid's main source of healing comes from <Skill id="31869"/>, which is replenished by acquiring Astral Force from healing allies and damaging foes (<Trait id="1874"/>). Using CA replaces your weapon skills with strong AoE healing skills.
 
-Besides healing, the <Skill id="31869"/> skills (and any glyph outside of CA like <Skill id="31582"/> due to <Trait id="2001"/>) trigger <Trait id="2057"/> which generates 25x <Boon name="might"/> for up to 10 people with a boon duration setup.
+Besides healing, the <Skill id="31869"/> skills trigger <Trait id="2057"/> which generates 25x <Boon name="might"/> for up to 10 people with a boon duration setup.
 
 With the help of its pets, the druid also has access to heavy defiance bar damage with <Skill id="31639"/> (_Electric Wyvern_) and <Skill id="43636"/> (_Rock Gazelle_). Moreover, the _Smokescale_ pet can be used to stack party <Effect name="stealth"/> with its <Skill id="31568"/> smoke field.
 
@@ -69,7 +69,7 @@ With the help of its pets, the druid also has access to heavy defiance bar damag
 </GridItem>
 
 <GridItem sm="5">
-<Skills healId="31407" utility1Id="31582" utility2Id="12497" utility3Id="12493" eliteId="12569"/>
+<Skills healId="31407" utility1Id="31582" utility2Id="12497" utility3Id="12493" eliteId="31677"/>
 
 <Card title="Situational">
 | | |
