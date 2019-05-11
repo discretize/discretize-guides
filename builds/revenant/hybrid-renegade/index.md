@@ -1,6 +1,6 @@
 ---
 title: 'Hybrid Renegade'
-date: '2019-01-20'
+date: '2019-05-08'
 rating: 'Meta'
 role: 'Support'
 profession: 'Revenant'
@@ -74,7 +74,7 @@ Please note that the build variant below is optimized for 100% boon duration. Wh
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Devastation" traits1Selected="Vicious Lacerations,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Roiling Mists" traits3="Renegade" traits3Selected="Blood Fury,All for One,Righteous Rebel"/>
+<Traits traits1="Devastation" traits1Selected="Vicious Lacerations,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Blood Fury,All for One,Righteous Rebel"/>
  
 <Card title="Situational Traits">
 | | |
