@@ -1,12 +1,12 @@
 ---
 title: 'Power Daredevil'
-date: '2019-01-20'
+date: '2019-05-02'
 rating: 'Great'
 role: 'Damage'
 profession: 'Thief'
 specialization: 'Daredevil'
 benchmark:
-  { small: { dps: 35354, by: 'Derpy Moa [SC]', youtube: '1Bpbyhih-bI' } }
+  { small: { dps: 35018, by: 'L E F T [MnF]', youtube: 'a5af0R1ae7E' } }
 skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
 conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness']
@@ -47,7 +47,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <Grid>
 <GridItem sm="7">
-<Traits title="" traits1Id="28" traits1="Dreadly Arts" traits1SelectedIds="1276,1292,1269" traits2Id="35" traits2="Critical Strikes" traits2SelectedIds="1268,1272,1904" traits3Id="7" traits3="Daredevil" traits3SelectedIds="1933,1884,2047"/>
+<Traits traits1="Deadly Arts" traits1Selected="Dagger Training, Revealed Training, Executioner" traits2="Critical Strikes" traits2Selected="Twin Fangs, Practiced Tolerance, No Quarter" traits3="Daredevil" traits3Selected="Marauder's Resilience, Havoc Specialist, Bound"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -71,14 +71,40 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Card title="Rotation">
 (Before fight, lose endurance)
 1. **Dodge** 
-2. <Skill id="13014"/> (F1 mid Dodge)
-3. <Skill id="29911"/> 2x (Staff 2)
-4. <Skill id="13046"/> (Utility mid Staff 2)
-5. <Skill id="30868"/> => <Skill id="30693"/> (Utility)
-6. **Dodge (Repeat from here)**
+2. <Skill id="29911"/> (Staff 2)
+3. <Skill id="13046"/> (Utility **during** Staff 2)
+4. <Skill id="29911"/> (Staff 2)
+5. <Skill id="30868"/> (Utility)
+6. <Skill id="29911"/> (Staff 2)
+7. (<Skill id="30868"/> ->) <Skill id="30693"/> (Utility)
+8. <Skill id="29911"/> 2x (Staff 2)
+
+**Burst 1:** When you have *one bar of Endurance* and **no** <Skill id="55031"/> (F1)
+1. Dodge 
+2. <Skill id="29911"/> (Staff 2)
+3. <Skill id="13046"/> (Utility **during** Staff 2)
+4. <Skill id="29911"/> (Staff 2)
+5. <Skill id="30868"/> (Utility)
+6. <Skill id="29911"/> (Staff 2)
+7. (<Skill id="30868"/> ->) <Skill id="30693"/> (Utility)
+8. <Skill id="29911"/> 2x (Staff 2)
+
+**Burst 2:** When you have *no Endurane* **but have** <Skill id="55031"/> (F1)
+1. <Skill id="55031"/> (F1)
+2. Dodge
+3. <Skill id="29911"/> (Staff 2)
+4. <Skill id="13046"/> (Utility **during** Staff 2)
+5. <Skill id="29911"/> (Staff 2)
+6. <Skill id="30868"/> (Utility)
 7. <Skill id="29911"/> (Staff 2)
-8. <Skill id="30614"/> => <Skill id="30135" disableText/> => <Skill id="30434" disableText/> 2x (Staff 1)
-9. **Repeat from** `Step 6`
+8. (<Skill id="30868"/> ->) <Skill id="30693"/> (Utility)
+9. Dodge
+10. <Skill id="29911"/> 2x (Staff 2)
+
+**Loop while waiting for <Skill id="13046"/> off cooldown:**
+1. <Skill id="30614"/> => <Skill id="30135" disableText/> => <Skill id="30434" disableText/> (Staff 1)
+2. Dodge
+3. <Skill id="29911"/> (Staff 2) (Do it **2x** if you get max Initiative while you are waiting for <Skill id="13046"/>)
 
 You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 </Card>
@@ -92,6 +118,6 @@ You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
 </Card>
 
-<Video youtube="1Bpbyhih-bI" title="Daredevil Staff 35.4k by Derpy Moa [SC]"/>
+<Video youtube="a5af0R1ae7E" title="Daredevil Staff"/>
 </GridItem>
 </Grid>
