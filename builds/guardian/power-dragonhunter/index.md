@@ -1,6 +1,6 @@
 ---
 title: 'Power Dragonhunter'
-date: '2019-03-20'
+date: '2019-05-20'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Guardian'
@@ -46,7 +46,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 </GridItem>
 
 <GridItem sm="5">
