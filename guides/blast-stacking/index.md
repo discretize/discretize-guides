@@ -19,14 +19,14 @@ Below is a list of frequently used blast finishers among all professions. Note t
 
 Chrono comp:
 - <Specialization name="weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
-- <Specialization name="warrior"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility)
+- <Specialization name="warrior"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14394"/> (Warhorn 5)
 - <Specialization name="druid"/>: <Skill id="12621"/> (Warhorn 5) and <Skill id="31535"/> (Staff 3)
 - <Specialization name="mesmer"/>: <Skill id="10285"/> (Torch 4)
 
 Renegade + Firebrand comp:
 - <Specialization name="weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
 - <Specialization name="renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
-- <Specialization name="warrior"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility)
+- <Specialization name="warrior"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14394"/> (Warhorn 5)
 - <Specialization name="firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5) and <Skill name="Mighty Blow"/> (Hammer 2)
 - <Specialization name="soulbeast"/>: <Skill id="12621"/> (Warhorn 5), take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer ***then swap back trait***.
 
