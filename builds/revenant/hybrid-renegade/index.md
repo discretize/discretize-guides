@@ -1,6 +1,6 @@
 ---
 title: 'Hybrid Renegade'
-date: '2019-05-08'
+date: '2019-06-01'
 rating: 'Meta'
 role: 'Support'
 profession: 'Revenant'
@@ -13,11 +13,14 @@ conditions: ['Vulnerability']
 
 The **<Specialization text="Hybrid Renegade" name="Renegade"/>** (also **_Alacrity Renegade_** or **_Support Renegade_**) is the ideal counterpart to <Specialization text="Hybrid Firebrand" name="Firebrand"/> as it provides permanent <Boon name="alacrity"/> for the group.
 
-Furthermore the build offers great DPS support with <Trait name="Assassins Presence"/> and <Skill name="Soulcleaves Summit"/>. <Boon name="might"/> is easily taken care off with <Skill name="Heroic Command"/>.
+Furthermore the build offers great DPS support with <Trait name="Assassins Presence"/> and <Skill name="Soulcleaves Summit"/>. <Boon name="might"/> is easily taken care off with <Skill name="Heroic Command"/>. If you group really lacks <Boon name="might"/>, consider taking <Item id="24702"/>.
 
 <Skill name="Surge of the Mists"/> is currently the strongest CC skill on huge hitboxes left in the game. Combined with <Skill name="Darkrazors Daring"/>, you can single-handedly erase a big part of defiance bars in challenge modes.
 
+
+
 <Divider text="Equipment"/>
+
 Please note that the build variant below is optimized for 100% boon duration. While in theory, 78% is enough to provide permanent <Boon name="Alacrity"/>, fractals are not a golem - more boon duration helps greatly when the party needs to move or split for intermediate phases. Another beneficial side effect is better <Boon name="Might"/> uptime.
 
 <Tabs outlined>
