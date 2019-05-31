@@ -13,7 +13,7 @@ conditions: ['Vulnerability']
 
 The **<Specialization text="Hybrid Renegade" name="Renegade"/>** (also **_Alacrity Renegade_** or **_Support Renegade_**) is the ideal counterpart to <Specialization text="Hybrid Firebrand" name="Firebrand"/> as it provides permanent <Boon name="alacrity"/> for the group.
 
-Furthermore the build offers great DPS support with <Trait name="Assassins Presence"/> and <Skill name="Soulcleaves Summit"/>. <Boon name="might"/> is easily taken care off with <Skill name="Heroic Command"/>. If you group really lacks <Boon name="might"/>, consider taking <Item id="24702"/>.
+Furthermore the build offers great DPS support with <Trait name="Assassins Presence"/> and <Skill name="Soulcleaves Summit"/>. <Boon name="might"/> is easily taken care off with <Skill name="Heroic Command"/>. If you group really lacks <Boon name="might"/> and/or <Boon name="fury"/>, consider taking <Item id="24702"/>.
 
 <Skill name="Surge of the Mists"/> is currently the strongest CC skill on huge hitboxes left in the game. Combined with <Skill name="Darkrazors Daring"/>, you can single-handedly erase a big part of defiance bars in challenge modes.
 
