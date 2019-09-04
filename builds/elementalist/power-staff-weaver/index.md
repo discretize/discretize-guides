@@ -58,7 +58,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Skill id="5639" size="big" disableText/> | Healing alternative if <Boon name="Might"/> uptime is good. |
+| <Skill id="5569" size="big" disableText/> | Healing alternative if <Boon name="Might"/> uptime is good. |
 | <Skill id="5539" size="big" disableText/> | Swap with <Skill id="40183"/> for shorter burst phases. |
 | <Trait id="214" size="big" disableText/> | Swap with <Trait name="Stormsoul"/> if there is no breakbar. |
 | <Skill id="5638" size="big" disableText/> | Deals the same damage as <Skill id="5539"/> with a higher cooldown and less charges but affects up to five targets. Useful to cleave adds faster or if you need adittional blast finisher. |
