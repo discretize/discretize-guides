@@ -1,7 +1,7 @@
 ---
 title: 'Power Holosmith'
-date: '2019-01-20'
-rating: 'Great'
+date: '2019-09-04'
+rating: 'Good'
 role: 'Damage'
 profession: 'Engineer'
 specialization: 'Holosmith'
