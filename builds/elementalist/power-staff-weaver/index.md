@@ -70,7 +70,6 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 | <Skill name="Stone Resonance" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
-| <Skill name="Glyph of Elementals" size="big" disableText/> | If you can't benefit from <Skill name="Conjure Fiery Greatsword"/>. |
 </Card>
 </GridItem>
 
