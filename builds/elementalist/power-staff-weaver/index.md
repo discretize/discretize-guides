@@ -52,22 +52,35 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2Id="41" traits2="Air" traits2SelectedIds="232,1502,226" traits3Id="56" traits3="Weaver" traits3Selected="Masters Fortitude, Swift Revenge, Elements of Rage"/>
 
 </GridItem>
-
 <GridItem sm="5">
 <Skills heal="Arcane Brilliance" utility1="Primordial Stance" utility2="Glyph of Storms" utility3="Conjure Lightning Hammer" elite="Conjure Fiery Greatsword"/>
-<Card title="Situational">
+</GridItem>
+</Grid>
+
+<Grid>
+<GridItem sm="7">
+<Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill id="5569" size="big" disableText/> | Healing alternative if <Boon name="Might"/> uptime is good. |
-| <Skill id="5539" size="big" disableText/> | Swap with <Skill id="40183"/> for shorter burst phases. |
-| <Trait id="214" size="big" disableText/> | Swap with <Trait name="Stormsoul"/> if there is no breakbar. |
-| <Skill id="5638" size="big" disableText/> | Deals the same damage as <Skill id="5539"/> with a higher cooldown and less charges but affects up to five targets. Useful to cleave adds faster or if you need adittional blast finisher. |
-| <Skill id="5567" size="big" disableText/> | Can be used on big hitboxes. Has more burst than  <Skill id="5624"/>. Can be used from range with the disadvantage of not being able to move. Mostly used as a third weapon or to swap with another weaver. |
-| <Skill id="5536" size="big" disableText/> | A 900 range teleport, sufficient for most blink spots. |
-| <Skill id="5507" size="big" disableText/> | An alternative heal skill providing a strong condition cleanse. | 
-| <Skill id="44926" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
-| <Skill id="5641" size="big" disableText/> | Provides three blocks (e.g. Aether blade console room, Underground Facility).|
-| <Skill id="5639" size="big" disableText/> | Used for personal <Boon name="stability"/> (e.g. Aether blade console room, Underground Facility). |
+| <Skill name="Glyph ofElemental Harmony" size="big" disableText/> | Healing alternative if <Boon name="Might"/> uptime is good. |
+| <Skill name="Arcane Blast" size="big" disableText/> | Swap with <Skill id="40183"/> for shorter burst phases. |
+| <Skill name="Arcane Wave" size="big" disableText/> | Deals the same damage as <Skill name="Arcane Blast"/> but on multiple foes. Also useful to generate <Boon name="might"/> with a fire field. |
+| <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
+| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
+| <Skill name="Stone Resonance" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
+| <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
+| <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
+| <Skill name="Glyph of Elementals" size="big" disableText/> | If you can't benefit from <Skill name="Conjure Fiery Greatsword"/>. |
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Situational Traits">
+| | |
+| -- | -- |
+| <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
+| <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/>, because no breakbar (e.g. Artsariiv). |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
 </Card>
 </GridItem>
 </Grid>
