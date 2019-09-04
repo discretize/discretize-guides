@@ -1,14 +1,13 @@
 ---
 title: 'Power Staff Weaver'
-date: '2019-05-02'
-rating: 'Great'
+date: '2019-09-04'
+rating: 'Good'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
-benchmark: { large: { dps: 34137, by: 'Roul [SC]', youtube: 'Ui4kXP6fLhU' } }
-skills: [5536]
-traits: [264, 1502]
-boons: ['Might', 'Fury', 'Swiftness', 'Protection']
+skills: []
+traits: [1502,226, ]
+boons: ['Might', 'Fury', 'Swiftness']
 conditions: ['Weakness', 'Vulnerability', 'Blind']
 ---
 
@@ -25,7 +24,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Light" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -40,7 +39,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Assassin" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Berserker" ring2Affix="Berserker"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -50,27 +49,25 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <Grid>
 <GridItem sm="7">
-<Traits title="Standard Arcane Variant" traits1="Fire" traits1Selected="Burning Precision,Pyromancers Training,Persisting Flames" traits2Id="41" traits2="Air" traits2SelectedIds="232,1502,226" traits3Id="56" traits3="Weaver" traits3SelectedIds="2177,2061,2131"/>
+<Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2Id="41" traits2="Air" traits2SelectedIds="232,1502,226" traits3Id="56" traits3="Weaver" traits3Selected="Masters Fortitude, Swift Revenge, Elements of Rage"/>
 
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="Glyph of Elemental Harmony" utility1="Glyph of Storms" utility2="Conjure Lightning Hammer" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
-
+<Skills heal="Arcane Brilliance" utility1="Primordial Stance" utility2="Glyph of Storms" utility3="Conjure Lightning Hammer" elite="Conjure Fiery Greatsword"/>
 <Card title="Situational">
 | | |
 | -- | -- |
+| <Skill id="5639" size="big" disableText/> | Healing alternative if <Boon name="Might"/> uptime is good. |
+| <Skill id="5539" size="big" disableText/> | Swap with <Skill id="40183"/> for shorter burst phases. |
+| <Trait id="214" size="big" disableText/> | Swap with <Trait name="Stormsoul"/> if there is no breakbar. |
 | <Skill id="5638" size="big" disableText/> | Deals the same damage as <Skill id="5539"/> with a higher cooldown and less charges but affects up to five targets. Useful to cleave adds faster or if you need adittional blast finisher. |
 | <Skill id="5567" size="big" disableText/> | Can be used on big hitboxes. Has more burst than  <Skill id="5624"/>. Can be used from range with the disadvantage of not being able to move. Mostly used as a third weapon or to swap with another weaver. |
-| <Skill id="40183" size="big" disableText/> | An alternative damage skill for long burst phases. | 
 | <Skill id="5536" size="big" disableText/> | A 900 range teleport, sufficient for most blink spots. |
-| <Skill id="44239" size="big" disableText/> | An alternative heal skill providing additional group heal. | 
 | <Skill id="5507" size="big" disableText/> | An alternative heal skill providing a strong condition cleanse. | 
 | <Skill id="44926" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
 | <Skill id="5641" size="big" disableText/> | Provides three blocks (e.g. Aether blade console room, Underground Facility).|
-| <Trait id="1673" size="big" disableText/> | If you have no problems with survivability, you can take this trait for a higher <Boon name="retaliation"/> uptime. |
 | <Skill id="5639" size="big" disableText/> | Used for personal <Boon name="stability"/> (e.g. Aether blade console room, Underground Facility). |
-| <Trait id="2115" size="big" disableText/> | Can be considered for some extra health if you are at 100% critical chance without <Trait id="2177"/>. |
 </Card>
 </GridItem>
 </Grid>
@@ -171,6 +168,6 @@ Start in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> with <Ski
 | <Skill id="5515"/> | 198 damage <Condition name="chilled"/> 6 sec|
 </Card>
 
-<Video youtube="Ui4kXP6fLhU" title="Huge Hitbox: 34.1k DPS by Roul [SC]"/>
+<Video youtube="Ui4kXP6fLhU" title="Rotation example by Roul [SC]"/>
 </GridItem>
 </Grid>
