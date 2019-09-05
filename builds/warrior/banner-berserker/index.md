@@ -78,6 +78,9 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 <Grid>
 <GridItem sm="7">
 <Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint, Doubled Standards, Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct, Blood Reaction, Bloody Roar"/>
+<Card title="Alternate build">
+For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>, then equip <Skill name="Blood Reckoning"/>, <Skill name="Throw Bolas"/>, and <Skill name="Outrage"/>.
+</Card>
 </GridItem>
 
 <GridItem sm="5">
@@ -145,9 +148,6 @@ If using <Skill id="14483"/>:
 | <Skill id="14488"/> | 150 damage                     |
 | <Skill id="14487"/> | 100 damage                     |
 
-</Card>
-<Card title="Alternate build">
-For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>, then equip <Skill name="Blood Reckoning"/>, <Skill name="Throw Bolas"/>, and <Skill name="Outrage"/>.
 </Card>
 </GridItem>
 </Grid>
