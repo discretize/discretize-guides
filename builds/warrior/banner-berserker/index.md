@@ -11,14 +11,14 @@ traits: [1482]
 conditions: ['Vulnerability']
 ---
 
-The <Specialization text="Banner Berserker" name="warrior"/> is the strongest build for <Specialization name="warrior"/> in fractals, provided at least one of the following is true:
+The <Specialization text="Banner Berserker" name="berserker"/> is the strongest build for <Specialization name="warrior"/> in fractals, provided at least one of the following is true:
 
 1) Your group will be able to break all necessary defiance bars near instantly without core Warrior’s fast recharging Skull Crack, or Rampage. 
 2) Your group will be able to maintain 25 <Boon name="Might"/> without <Trait name="Phalanx Strength"/>.
 
 Besides providing the group with strong unique damage buffs in <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent single defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has relatively high burst and excellent sustained damage.
 
-Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="warrior"/>, your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all the while making DPS players sweat nervously when they glance at their DPS meter.
+Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="berserker"/>, your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all the while making DPS players sweat nervously when they glance at their DPS meter.
 
 <Divider text="Equipment"/>
 
