@@ -1,6 +1,6 @@
 ---
 title: 'Hybrid Renegade'
-date: '2019-06-01'
+date: '2019-09-04'
 rating: 'Meta'
 role: 'Support'
 profession: 'Revenant'
