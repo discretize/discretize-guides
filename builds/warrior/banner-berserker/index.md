@@ -4,7 +4,7 @@ date: '2019-09-04'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
-specialization: 'Warrior'
+specialization: 'Berserker'
 benchmark: { small: { dps: 32692, by: 'Weird Champ [eGrl]', youtube: '6LW9Hrjo29I' } }
 skills: [14407, 14405]
 traits: [1482]
