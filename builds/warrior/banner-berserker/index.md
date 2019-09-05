@@ -77,7 +77,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint, Doubled Standards, Axe Mastery" traits3Id="18" traits3="Berserker" traits3SelectedIds="Savage Instinct, Blood Reaction, Bloody Roar"/>
+<Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint, Doubled Standards, Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct, Blood Reaction, Bloody Roar"/>
 </GridItem>
 
 <GridItem sm="5">
