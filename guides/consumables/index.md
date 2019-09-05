@@ -1,6 +1,6 @@
 ---
 title: 'Consumables'
-date: '2018-09-18'
+date: '2019-09-04'
 image: './images/consumables.jpg'
 description: 'Learn how to use various consumables to greatly simplify otherwise challenging content.'
 ---
@@ -10,7 +10,7 @@ description: 'Learn how to use various consumables to greatly simplify otherwise
 |                    |                                                                                                                                                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Item id="49940"/> | Offers improved movement by holding _Skill 2_ and cancelling the final hit through the _drop bundle_ skill. Can be boosted by <Boon name="swiftness"/> and even <Effect name="superspeed"/> to achieve stellar speed.                                                        |
-| <Item id="85244"/> | Another great (but expensive) movement tool. Affected by <Boon name="Swiftness"/>, <Effect name="Superspeed"/> and <Boon name="Alacrity"/>.                                                                                                                                  |
+| <Item id="85244"/> | Another great (but expensive) movement tool. Affected by <Boon name="Swiftness"/>, <Effect name="Superspeed"/>, <Boon name="Alacrity"/> and <Boon name="Quickness"/>.                                                                                                                                  |
 | <Item id="78978"/> | Can be used to create a portal between two locations, similar to the Mesmer's <Skill id="10197"/> skill. The 30 minute cooldown can be reset by using `/gg` two times.                                                                                                       |
 | <Item id="44642"/> | Also creates a portal, but can not be dropped between the start and end location. Consumed upon use.                                                                                                                                                                         |
 | <Item id="78786"/> | If you activate the notice before an unskippable cutscene (like after Skorvald in the [Shattered Observatory Fractal](https://discretize.eu/fractals/shattered-observatory)), you will be able to move and cast during the video, though it will still cover your main view. |
@@ -18,7 +18,8 @@ description: 'Learn how to use various consumables to greatly simplify otherwise
 | <Item id="8801"/>  | Provides 3 seconds of <Effect name="stealth"/> on a 60s cooldown.                                                                                                                                                                                                            |
 | <Item id="8686"/>  | Provides 10 seconds of <Effect name="stealth"/>, ends if you move. Useful to activate the console in the [Underground Facility Fractal](https://discretize.eu/fractals/underground-facility).                                                                                |
 | <Item id="8664"/>  | The _Stunning Strike_ skill (20s cooldown) causes 500 defiance bar damage and is available to all professions. It also stacks with <Item id="24639"/> and traits like <Trait id="1070"/>.                                                                                    |
-| <Item id="8759"/>  | The _Plank Buster_ skill (4s cooldown) causes 332 defiance bar damage and is available to all professions. Warriors also have access to _Plank Smash_ (400 Defiance Bar damage) and _Plank Spin_ (150 defiance bar damage).                                                  |
+| <Item id="8783"/>  | The _Smash_ skill (8s cooldown) causes 500 defiance bar damage and is available to all professions.                                                                                  |
+| <Item id="8759"/>  | The _Plank Buster_ skill (4s cooldown) causes 332 defiance bar damage and is available to all professions. <Specialization name="Warrior"/> also has access to _Plank Smash_ (400 Defiance Bar damage) and _Plank Spin_ (150 defiance bar damage).                                                  |
 | <Item id="8678"/>  | Throw it to cause 200 defiance bar damage. Has no cooldown and can be used from range. (Since many buy the wrong one and for some reason we list the right rock here but **it does not direct you to it's right** wiki page so [click here for the usable one]( https://wiki.guildwars2.com/wiki/Rock_(level_22))                                                                                                                                                                                       |
 | <Item id="8732"/>  | Causes 200 defiance bar damage in an area around you upon detonation.                                                                                                                                                                                                        |
 
@@ -29,7 +30,7 @@ description: 'Learn how to use various consumables to greatly simplify otherwise
 | Enemy type           | Potion                                  | Sigil                                                                              |
 | -------------------- | --------------------------------------- | ---------------------------------------------------------------------------------- |
 | Any mob during Night | None                                    | <Item id="36053"/><br/>(doesn't stack with <Item id="36054" disableText/> anymore) |
-| Demon & Elemental    | <Item id="8886"/><br/><Item id="8885"/> | <Item id="24664"/><br/><Item id="24661"/>                                          |
+| Demon & Elemental    | <Item id="8886"/><br/><Item id="8885"/> | <Item id="24661"/>                                          |
 | Dredge               | <Item id="8892"/>                       | <Item id="24684"/>                                                                 |
 | Grawl                | <Item id="8890"/>                       | <Item id="24648"/>                                                                 |
 | Inquest              | <Item id="8887"/>                       | <Item id="24672"/>                                                                 |
