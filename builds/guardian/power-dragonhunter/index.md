@@ -1,12 +1,12 @@
 ---
 title: 'Power Dragonhunter'
-date: '2019-05-20'
+date: '2019-09-04'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
 benchmark:
-  { small: { dps: 32826, by: 'Roul [SC]', youtube: 'IU-4r59Qxd4' } }
+  { large: { dps: 33812, by: 'Shetsa [SC]', youtube: 'avJ-VAxYUvY' } }
 skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
@@ -98,7 +98,6 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 | <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
 | <Skill id="30273"/> | 150 damage |
 </Card>
-<Video youtube="IU-4r59Qxd4" title="Huge Hitbox by Roul [SC]"/>
 </GridItem>
 
 <GridItem sm="7">
