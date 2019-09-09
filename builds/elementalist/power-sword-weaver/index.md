@@ -7,8 +7,8 @@ profession: 'Elementalist'
 specialization: 'Weaver'
 benchmark:
   {
-    large: { dps: 35340, by: 'Fallen [SC]', youtube: 'dJ2fBcr2EmA' },
-    small: { dps: 33884, by: 'Fallen [SC]', youtube: 'c6CbWN7ak6Q' },
+    large: { dps: 37628, by: 'Fallen [SC]', youtube: 'PutZ0k_edMY' },
+    small: { dps: 35687, by: 'Fallen [SC]', youtube: 'GmV62nfPQvs' },
   }
 skills: [5536]
 traits: [1502]
@@ -285,7 +285,5 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 | <Skill name="Earthquake" size="big" disableText/> | 200 with <Control name="knockdown"/> |
 | <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="float"/> |
 </Card>
-
-<Video youtube="dJ2fBcr2EmA" title="Large Hitbox by Fallen [SC]"/>
 </GridItem>
 </Grid>
