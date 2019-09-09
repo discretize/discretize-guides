@@ -1,12 +1,12 @@
 ---
 title: 'Power Daredevil'
-date: '2019-05-02'
+date: '2019-09-04'
 rating: 'Great'
 role: 'Damage'
 profession: 'Thief'
 specialization: 'Daredevil'
 benchmark:
-  { small: { dps: 35018, by: 'L E F T [MnF]', youtube: 'a5af0R1ae7E' } }
+  { small: { dps: 35610, by: 'L E F T [MnF]', youtube: 'LWEi_3kBqcM' } }
 skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
 conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness']
@@ -120,7 +120,5 @@ You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 | <Skill id="30693"/> | 200 damage |
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
 </Card>
-
-<Video youtube="a5af0R1ae7E" title="Daredevil Staff"/>
 </GridItem>
 </Grid>
