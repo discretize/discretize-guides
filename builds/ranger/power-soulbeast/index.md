@@ -1,11 +1,11 @@
 ---
 title: 'Power Soulbeast'
-date: '2019-03-29'
+date: '2019-09-04'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-benchmark: { small: { dps: 31612, by: 'Casual [SC]', youtube: 'BupIpBs-eOQ' } }
+benchmark: { small: { dps: 33083, by: 'Obvious Trash [SenT]', youtube: 'UHby8i9DV6s' } }
 skills: [12497, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
@@ -45,10 +45,10 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </Grid>
 </Tab>
 
-<Tab title="207 Agony Resistance (No Spotter)">
+<Tab title="222 Agony Resistance (No Spotter)">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Medium" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Medium" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -63,6 +63,10 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+
+<Card title="Extra note">
+You need Fractal God and <Item id="70596"/> !
+</Card>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -144,7 +148,5 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 | <Skill id="12638"/> | 150 damage (Axe 4) |
 | <Skill id="12475"/> | 150 damage (Greatsword 5) from behind |
 </Card>
-
-<Video youtube="BupIpBs-eOQ" title="Power Soulbeast by Casual [SC]"/>
 </GridItem>
 </Grid>
