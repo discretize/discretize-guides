@@ -1,6 +1,6 @@
 ---
 title: 'Hybrid Renegade'
-date: '2019-06-01'
+date: '2019-09-04'
 rating: 'Meta'
 role: 'Support'
 profession: 'Revenant'
@@ -31,7 +31,7 @@ Please note that the build variant below is optimized for 100% boon duration. Wh
 </GridItem>
  
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Concentration" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Impact" weapon2MainSigil2="Concentration"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Concentration" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Severance" weapon2MainSigil2="Concentration"/>
 
 <Card title="Swap Weapons">
 * Sword and Staff with <Item name="Night" type="Sigil"/>
@@ -55,7 +55,7 @@ Please note that the build variant below is optimized for 100% boon duration. Wh
 </GridItem>
  
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Force" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Impact" weapon2MainSigil2="Force"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Force" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Severance" weapon2MainSigil2="Force"/>
 
 <Card title="Swap Weapons">
 * Sword and Staff with <Item name="Night" type="Sigil"/>
@@ -79,11 +79,6 @@ Please note that the build variant below is optimized for 100% boon duration. Wh
 <GridItem sm="7">
 <Traits traits1="Devastation" traits1Selected="Vicious Lacerations,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Blood Fury,All for One,Righteous Rebel"/>
  
-<Card title="Situational Traits">
-| | |
-| -- | -- |
-| <Trait name="Charged Mists" size="big" disableText/> | If your group dps is bad you can run this trait because the fights will be longer and you'll need more energy. |
-</Card>
 </GridItem>
 
 <GridItem sm="5">
