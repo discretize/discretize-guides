@@ -1,14 +1,14 @@
 ---
 title: 'Power Sword Weaver'
-date: '2019-05-02'
+date: '2019-09-04'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
 benchmark:
   {
-    large: { dps: 35340, by: 'Fallen [SC]', youtube: 'dJ2fBcr2EmA' },
-    small: { dps: 33884, by: 'Fallen [SC]', youtube: 'c6CbWN7ak6Q' },
+    large: { dps: 37628, by: 'Fallen [SC]', youtube: 'PutZ0k_edMY' },
+    small: { dps: 35687, by: 'Fallen [SC]', youtube: 'GmV62nfPQvs' },
   }
 skills: [5536]
 traits: [1502]
@@ -30,7 +30,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 <Tab title="150 Agony Resistance (Without Spotter and Weakness)">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -46,7 +46,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Berserker"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -56,7 +56,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 <Tab title="207 Agony Resistance (Without Spotter and Weakness)">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Light" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -72,7 +72,12 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+
+<Card title="Extra note">
+You need Fractal God and 18  Mighty +9 Agony Infusion !
+  
+</Card>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -101,7 +106,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
 
 <Card title="Extra note">
-You need one ring with 3 x +15 Agony Resistance, <Item id="70596"/>, the rest is Mighty +9 Agony Infusion !
+You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"/>, the rest is Mighty +9 Agony Infusion !
   
 **You get +5 Agony Resistance to cap critical chance from _Mistlock Singularity_.**
 </Card>
@@ -116,7 +121,7 @@ You need one ring with 3 x +15 Agony Resistance, <Item id="70596"/>, the rest is
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Fire" traits1Selected="Burning Precision, Pyromancers Training, Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Stormsoul, Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude, Swift Revenge, Elements of Rage"/>
+<Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Stormsoul, Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude, Swift Revenge, Elements of Rage"/>
 </GridItem>
 <GridItem sm="5">
 <Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
@@ -140,9 +145,9 @@ You can still use the [Gear Optimizer](http://old.discretize.eu) if you still pl
 | <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
 | <Skill name="Arcane Brilliance" size="big" disableText/> | Sometimes used to blast <Boon name="might"/> in fights like Skorvald. |
 | <Skill name="Glyph of Elementals" size="big" disableText/> | If you can't benefit from <Skill name="Conjure Fiery Greatsword"/>. |
-| <Skill name="Aquatic Stance" size="big" disableText/> | An alternative heal skill providing additional group heal. |
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
+| <Skill name="Stone Resonance" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
 </Card>
 </GridItem>
 
@@ -280,7 +285,5 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 | <Skill name="Earthquake" size="big" disableText/> | 200 with <Control name="knockdown"/> |
 | <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="float"/> |
 </Card>
-
-<Video youtube="dJ2fBcr2EmA" title="Large Hitbox by Fallen [SC]"/>
 </GridItem>
 </Grid>
