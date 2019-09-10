@@ -44,7 +44,7 @@ Protect your party with <Skill id="29526"/> or <Skill id="10302"/> and control e
 </Tab>
 
 <Tab specialization="thief">
-Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> (also useful for reflects) or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="thief"/> (also useful for reflects) or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
 </Tab>
 
 <Tab specialization="ranger">
