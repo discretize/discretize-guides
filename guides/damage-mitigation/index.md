@@ -86,7 +86,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 (3rd Autoattack)
 * <Skill id="14184"/> <Specialization disableText name="thief"/>  
 (Utility skill)
-* <Skill name ="Seal Area"/> <Specialization disableText name="thief"/>  
+* <Skill name ="Prepare Seal Area"/> <Specialization disableText name="thief"/>  
 (Utility skill)
 * <Skill name ="Dagger Storm"/> <Specialization disableText name="thief"/>  
 (Elite skill)
