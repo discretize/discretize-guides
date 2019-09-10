@@ -36,7 +36,7 @@ Clear the group of *Elite Aetherblades* to open the door.
 
 <Tabs>
 <Tab specialization="thief">
-Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="thief"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
 </Tab>
 
 <Tab specialization="ranger">
