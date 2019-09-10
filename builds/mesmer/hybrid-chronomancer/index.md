@@ -1,7 +1,7 @@
 ---
 title: 'Hybrid Chronomancer'
-date: '2019-01-20'
-rating: 'Meta'
+date: '2019-09-04'
+rating: 'Good'
 role: 'Support'
 profession: 'Mesmer'
 specialization: 'Chronomancer'
