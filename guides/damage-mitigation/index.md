@@ -84,9 +84,9 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 <Card specialization="Thief">
 * <Skill name="Punishing Strikes"/> <Specialization disableText name="thief"/>  
 (3rd Autoattack)
-* <Skill id="14184"/> <Specialization disableText name="thief"/>  
+* <Skill id="13065"/> <Specialization disableText name="thief"/>  
 (Utility skill)
-* <Skill name ="Prepare Seal Area"/> <Specialization disableText name="thief"/>  
+* <Skill id="13056"/> <Specialization disableText name="thief"/>  
 (Utility skill)
 * <Skill name ="Dagger Storm"/> <Specialization disableText name="thief"/>  
 (Elite skill)
@@ -99,7 +99,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 <Card specialization="Necromancer">
 * <Skill name ="Corrosive Poison Cloud"/> <Specialization disableText name="necromancer"/>  
 (Utility skill)
-* <Skill name ="Death's Charge"/> <Specialization disableText name="reaper"/>  
+* <Skill name ="Deaths Charge"/> <Specialization disableText name="reaper"/>  
 (Shroud skill 2)
 
 </Card>
@@ -140,20 +140,20 @@ Below is a list of commonly used defensive skills:
    (F4, personal evade)    
 You can trait <Trait id="1852"/> to share <Boon name="aegis" disableText/> with allies (5 seconds internal cooldown) when you gain distortion
 
-* <Skill id="10280"/> <Specialization disableText name="mesmer"/>  
-(Sword 4)    
-You can block more by jumping
-* <Skill id="10334"/> <Specialization disableText name="mesmer"/>   
-(Sword 2)
-* <Skill id="29526"/> <Specialization disableText name="chronomancer"/>  
-(Utiltiy skill, <Boon name="aegis" disableText/>)
-* Any signet with <Trait  id="713"/> and phantasm with <Trait disableText id="1866"/> apply distortion as well
-* <Skill id="30769"/> <Specialization disableText name="chronomancer"/>  
-(Shield 4)
-* <Skill id="29649"/> <Specialization disableText name="chronomancer"/>  
-(Shield 4, after block )
-</Card>
-</GridItem>
+- <Skill id="10280"/> <Specialization disableText name="mesmer"/>  
+  (Sword 4)  
+  You can block more by jumping
+- <Skill id="10334"/> <Specialization disableText name="mesmer"/>  
+  (Sword 2)
+- <Skill id="29526"/> <Specialization disableText name="chronomancer"/>  
+  (Utiltiy skill, <Boon name="aegis" disableText/>)
+- Any signet with <Trait  id="713"/> and phantasm with <Trait disableText id="1866"/> apply distortion as well
+- <Skill id="30769"/> <Specialization disableText name="chronomancer"/>  
+  (Shield 4)
+- <Skill id="29649"/> <Specialization disableText name="chronomancer"/>  
+  (Shield 4, after block )
+  </Card>
+  </GridItem>
 
 <GridItem sm="4">
 <Card specialization="Warrior">
@@ -209,19 +209,20 @@ You can block more by jumping
 (Elite skill)
 
 **Any Aegis skill:**
-* <Skill id="9118"/> <Specialization disableText name="guardian"/>  
-    (F3)
-* <Skill id="9084"/> <Specialization disableText name="guardian"/>  
-    (Utility skill)
-* <Skill id="30029"/> <Specialization disableText name="dragonhunter"/>  
-(F3)
-* <Skill id="42259"/> <Specialization disableText name="firebrand"/>  
-    (F3, periodically)  
-    (Tome skill 2 and 5)
-* <Skill id="41475"/> <Specialization disableText name="firebrand"/>  
-    (Heal skill)
-</Card>
-</GridItem>
+
+- <Skill id="9118"/> <Specialization disableText name="guardian"/>  
+   (F3)
+- <Skill id="9084"/> <Specialization disableText name="guardian"/>  
+   (Utility skill)
+- <Skill id="30029"/> <Specialization disableText name="dragonhunter"/>  
+  (F3)
+- <Skill id="42259"/> <Specialization disableText name="firebrand"/>  
+   (F3, periodically)  
+   (Tome skill 2 and 5)
+- <Skill id="41475"/> <Specialization disableText name="firebrand"/>  
+   (Heal skill)
+  </Card>
+  </GridItem>
 
 <GridItem sm="4">
 <Card specialization="Thief">

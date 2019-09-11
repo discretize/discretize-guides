@@ -76,7 +76,7 @@ You can give easy party <Effect name="stealth"/> with <Skill id="10245"/>.
 </Tab>
 
 <Tab specialization="thief">
-Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
 </Tab>
 
 <Tab specialization="ranger">
