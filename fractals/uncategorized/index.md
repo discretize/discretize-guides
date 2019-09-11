@@ -54,7 +54,7 @@ You can give easy party <Effect name="stealth"/> with <Skill id="10245"/> and <T
 
 <Tab specialization="thief">
 Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="thief"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.    
-        <Skill id="14184"/> is also useful against the Holding Area bosses.
+        <Skill id="13065"/> is also useful against the Holding Area bosses.
 </Tab>
 
 <Tab specialization="ranger">

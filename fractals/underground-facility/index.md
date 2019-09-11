@@ -58,7 +58,7 @@ Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.
 </Tab>
 
 <Tab specialization="thief">
-Use the smoke field from <Skill id="13113"/> or <Skill id="14184"/> to stack <Effect name="stealth"/>. <Skill id="13027"/> and <Skill id="13117"/> combined with <Trait id="1136"/> provide enough <Effect name="stealth"/> to completely activate the console.
+Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> to stack <Effect name="stealth"/>. <Skill id="13027"/> and <Skill id="13117"/> combined with <Trait id="1136"/> provide enough <Effect name="stealth"/> to completely activate the console.
 </Tab>
 
 <Tab specialization="ranger">
