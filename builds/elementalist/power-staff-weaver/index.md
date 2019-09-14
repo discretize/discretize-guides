@@ -11,8 +11,8 @@ benchmark:
   }
 skills: [5536]
 traits: [1502,226]
-boons: ['Might', 'Fury', 'Swiftness']
-conditions: ['Weakness','Vulnerability','Crippled','Burning','Blinded']
+boons: ['Fury','Might','Swiftness']
+conditions: ['Blinded','Burning','Crippled','Vulnerability','Weakness']
 ---
 
 Due to the continueing nerfs the <Specialization text="Power Staff Weaver" name="weaver"/> it went down in the great builds section for fractals. Still, it offers one of the highest burst and consistent DPS numbers in the game on large, stationary hitboxes. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
