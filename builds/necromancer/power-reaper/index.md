@@ -5,7 +5,7 @@ rating: 'Great'
 role: 'Damage'
 profession: 'Necromancer'
 specialization: 'Reaper'
-benchmark: { small: { dps: 31170, by: 'MajesticNoodle [BATS]', youtube: 'jDnK-Im9Hg8' } }
+benchmark: { small: { dps: 31193, by: 'MajesticNoodle [BATS]', youtube: 'wPFrUrG0l0E' } }
 skills: [30792]
 traits: [2020, 2018, 2031]
 boons: ['Might', 'Fury', 'Quickness']
