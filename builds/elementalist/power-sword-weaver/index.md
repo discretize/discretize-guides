@@ -76,7 +76,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
 
 <Card title="Extra note">
-You need Fractal God and 18  Mighty +9 Agony Infusion !
+You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
   
 </Card>
 
