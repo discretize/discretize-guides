@@ -125,7 +125,7 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Stormsoul, Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude, Swift Revenge, Elements of Rage"/>
 </GridItem>
 <GridItem sm="5">
-<Skills heal="Glyph of Elemental Harmony" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
+<Skills heal="Arcane Brilliance" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
 <Card title="Note about Druid">
 The builds are without <Specialization name="Druid"/> since the Glyph of Empowerment skill got removed from the game. <Specialization name="Druid"/> no longer grants damage boost aside from <Skill name="Frost Spirit"/> (<Specialization name="Soulbeast"/> can take that), thus making the Renegade/Firebrand comp even more dominant.
 
@@ -139,16 +139,22 @@ You can still use the [Gear Optimizer](http://old.discretize.eu) if you still pl
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | You take this skill instead of <Skill name="Unravel"/> if you play <Trait name="Fresh Air"/> with groups that have low dps. <Skill name="Unravel"/> is worth it with big dps and short phases. __Precast <Skill name="Conjure Lightning Hammer"/> where possible for dps boost.__ |
-| <Skill name="Arcane Wave" size="big" disableText/> | Deals the same damage as <Skill name="Arcane Blast"/> but on multiple foes. Also useful to generate <Boon name="might"/> with a fire field. |
+|Heal|
+| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A **stronger** healing alternative if <Boon name="might"/> uptime is good. |
+| <Skill name="Aquatic stance" size="big" disableText/> | Another alternative healing skill affecting allies close to the tartget you strike. |
+|Offensive|
+| <Skill name="Arcane Wave" size="big" disableText/> | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="might"/> with a fire field. |
 | <Skill name="Primordial Stance" size="big" disableText/> | On small hitboxes and fights with a lot of phasing (e.g. Arkk) <Skill name="Conjure Lightning Hammer"/> isn't that valuable so you can use this instead. |
+| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | You take this skill instead of <Skill name="Unravel"/> if you play <Trait name="Fresh Air"/> with groups that have low dps. <Skill name="Unravel"/> is worth it with big dps and short phases. __Precast <Skill name="Conjure Lightning Hammer"/> where possible for dps boost.__ |
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
-| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
-| <Skill name="Arcane Brilliance" size="big" disableText/> | Sometimes used to blast <Boon name="might"/> in fights like Skorvald. |
-| <Skill name="Glyph of Elementals" size="big" disableText/> | If you can't benefit from <Skill name="Conjure Fiery Greatsword"/>. |
+|Defensive|
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
 | <Skill name="Stone Resonance" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
+| Utility |
+| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
+
+
 </Card>
 </GridItem>
 
@@ -158,9 +164,7 @@ You can still use the [Gear Optimizer](http://old.discretize.eu) if you still pl
 | -- | -- |
 | <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
 | <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv). |
-| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
-| <Trait name="Inscription" size="big" disableText/> | Niche trait to reduce the cooldown of <Skill name="Glyph of Storms"/>. |
-| <Trait name="Conjurer" size="big" disableText/> | Another niche trait to reduce the cooldown of conjured weapons. |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 </Card>
 </GridItem>
 </Grid>
@@ -285,6 +289,8 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 | <Skill name="Polaric Leap" size="big" disableText/> | 100 with <Control name="daze"/> |
 | <Skill name="Earthquake" size="big" disableText/> | 200 with <Control name="knockdown"/> |
 | <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="float"/> |
+| <Skill name="Twin Strike" size="big" disableText/> | 3 x 33 with <Condition name="Chilled"/> |
+| <Skill name="Earthen Vortex" size="big" disableText/> | 3 x 15 with <Condition name="Crippled"/> |
 </Card>
 </GridItem>
 </Grid>
