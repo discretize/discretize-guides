@@ -289,8 +289,8 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 | <Skill name="Polaric Leap" size="big" disableText/> | 100 with <Control name="daze"/> |
 | <Skill name="Earthquake" size="big" disableText/> | 200 with <Control name="knockdown"/> |
 | <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="float"/> |
-| <Skill name="Twin Strike" size="big" disableText/> | 3 x 33 with <Condition name="Chilled"/> |
-| <Skill name="Earthen Vortex" size="big" disableText/> | 3 x 15 with <Condition name="Crippled"/> |
+| <Skill name="Twin Strike" size="big" disableText/> | 33 / s (99) with <Condition name="Chilled"/> |
+| <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
 </Card>
 </GridItem>
 </Grid>
