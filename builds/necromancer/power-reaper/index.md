@@ -65,7 +65,7 @@ The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="Signet of Vampirism" utility1="Well of Suffering" utility2="Well of Corruption" utility3="Signet of Spite" elite="Summon Flesh Golem"/>
+<Skills heal="Signet of Vampirism" utility1="Well of Suffering" utility2="Well of Corruption" utility3="Signet of Spite" elite="Lich Form"/>
 
 <Card title="Situational Traits">
 - Should you need to (though usually only for underperforming groups, you can swap out Soul Reaping for Blood Magic (if you need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/>, and if needed more warhorn CC via <Trait name="Banshees Wail"/>
@@ -88,7 +88,7 @@ The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks
 <GridItem sm="7">
 <Card title="Rotation">
 
-Before fight: Use <Skill name="Lich Form"/> (Elite) to precast skill 4 (Summon Madness)
+Before fight: Use <Skill name="Lich Form"/> (Elite) to precast skill 4 (Summon Madness), if you have Mistfire Wolf (Deluxe Upgrade) precast it on MAMA, Siax and Ensolyss (then put back <Skill name="Lich Form"/>) since you are to far from _Mistlock Singularity_ to make use of <Skill name="Lich Form" disableText/> precast.
 
 **Opener:**
 1. <Skill name="Well of Suffering"/> (Utility)
