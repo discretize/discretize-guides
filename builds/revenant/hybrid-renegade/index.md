@@ -67,6 +67,10 @@ Please note that the build variant below is optimized for 100% boon duration. Wh
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Diviner" accessory1Affix="Diviner" accessory2Affix="Diviner" amuletAffix="Diviner" ring1Affix="Diviner" ring2Affix="Diviner"/>
 
+<Card title="Extra note">
+You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
+</Card>
+
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 </Grid>
