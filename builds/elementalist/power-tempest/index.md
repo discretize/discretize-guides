@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Tempest'
 benchmark: { large: { dps: 35612, by: 'Roul [SC]', youtube: 'fHhFUqkiWl4' } }
-skills: [5536, 29719, 30432]
+skills: [5536, 29719, 30432,5734,5516]
 traits: [264, 1502, 1952, 1839, 1986, 2033]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection', 'Vigor']
 conditions: ['Weakness', 'Vulnerability', 'Blind']
@@ -28,10 +28,10 @@ The positiong and timing of skills matter a lot, a single mistake can make your 
 
 The build benefits heavily from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-<Divider text="Equipment"/>
+<Divider text="Equipment without Spotter"/>
 
 <Tabs outlined>
-<Tab title="150 Agony Resistance (No Spotter)">
+<Tab title="150 Agony Resistance">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Light" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -56,7 +56,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 </Grid>
 </Tab>
 
-<Tab title="207 Agony Resistance (No Spotter)">
+<Tab title="207 Agony Resistance">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
