@@ -66,6 +66,10 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<Card title="Extra note">
+You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
+  
+</Card>
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </GridItem>
 </Grid>
@@ -119,14 +123,6 @@ DPS:
 * Camp Axe/Axe if no CC is required.
 * It is key that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your groups phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
 </Card>
-
-<Card title="Damage modifiers">
-* Entering <Skill name="Berserk"/> grants 3 stacks of <Trait name="Berserkers Power"/>, while <Skill name="Decapitate"/> only grants 1. You will find <Trait name="Berserkers Power"/> starting to run low when out of <Skill name="Berserk"/>, try to make sure you are in <Skill name="Berserk"/> for burn phases while also not delaying <Skill name="Berserk"/> where possible.
-* Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
-* With 100% critical chance, <Trait name="Axe mastery"/>, and <Skill name="Berserk"/>, it will take 3 hits to charge <Skill name="Decapitate"/>. Combine <Skill name="Cyclone Axe"/> / <Skill name="Double Chop"/> with <Skill name="Throw Axe"/> or a single auto-attack. Only use <Skill name="Throw Axe"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
-* Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase
-Keep in mind that <Skill name="Crushing Blow"/> inflicts 15x  <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC.
-</Card>
 </GridItem>
 
 
@@ -150,4 +146,11 @@ If using <Skill id="14483"/>:
 
 </Card>
 </GridItem>
+<Card title="Damage modifiers">
+* Entering <Skill name="Berserk"/> grants 3 stacks of <Trait name="Berserkers Power"/>, while <Skill name="Decapitate"/> only grants 1. You will find <Trait name="Berserkers Power"/> starting to run low when out of <Skill name="Berserk"/>, try to make sure you are in <Skill name="Berserk"/> for burn phases while also not delaying <Skill name="Berserk"/> where possible.
+* Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
+* With 100% critical chance, <Trait name="Axe mastery"/>, and <Skill name="Berserk"/>, it will take 3 hits to charge <Skill name="Decapitate"/>. Combine <Skill name="Cyclone Axe"/> / <Skill name="Double Chop"/> with <Skill name="Throw Axe"/> or a single auto-attack. Only use <Skill name="Throw Axe"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
+* Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase
+Keep in mind that <Skill name="Crushing Blow"/> inflicts 15x  <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC.
+</Card>
 </Grid>
