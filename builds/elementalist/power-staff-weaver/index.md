@@ -9,7 +9,7 @@ benchmark:
   {
     large: { dps: 31763, by: 'Roul [SC]', youtube: 'ZjNebI2CLhA' }
   }
-skills: [5536]
+skills: [5536,5501,5734,5516]
 traits: [1502,226]
 boons: ['Fury','Might','Swiftness']
 conditions: ['Blind','Burning','Crippled','Vulnerability','Weakness']
