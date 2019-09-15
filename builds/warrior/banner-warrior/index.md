@@ -21,11 +21,11 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-<Divider text="Equipment"/>
+<Divider text="Equipment without Spotter"/>
 
 <Tabs outlined>
 
-<Tab title="150 Agony Resistance (Without Spotter)">
+<Tab title="150 Agony Resistance">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -49,7 +49,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </Grid>
 </Tab>
 
-<Tab title="207 Agony Resistance (Without Spotter)">
+<Tab title="207 Agony Resistance">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
