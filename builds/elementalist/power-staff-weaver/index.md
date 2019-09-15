@@ -5,18 +5,19 @@ rating: 'Good'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
-skills: []
-traits: [1502,226, ]
-boons: ['Might', 'Fury', 'Swiftness']
-conditions: ['Weakness', 'Vulnerability', 'Blind']
+benchmark:
+  {
+    large: { dps: 31763, by: 'Roul [SC]', youtube: 'ZjNebI2CLhA' }
+  }
+skills: [5536]
+traits: [1502,226]
+boons: ['Fury','Might','Swiftness']
+conditions: ['Blinded','Burning','Crippled','Vulnerability','Weakness']
 ---
 
 Due to the continueing nerfs the <Specialization text="Power Staff Weaver" name="weaver"/> it went down in the great builds section for fractals. Still, it offers one of the highest burst and consistent DPS numbers in the game on large, stationary hitboxes. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
 
 Staff Weaver has some utilities in the form of burst <Condition name="vulnerability"/>, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver has no reflects, no fast reachable crowd control skills apart from <Skill id="5733"/> and no <Boon name="stability"/> compared to <Specialization name="Tempest"/>.
-
-The Arcane variant is not used anymore due to <Specialization name="Chronomancer"/> nerfs. The builds are without <Specialization name="Druid"/> since the Glyph of Empowerment skill got removed from the game. <Specialization name="Druid"/> no longer grants damage boost aside from <Skill name="Frost Spirit"/> (<Specialization name="Soulbeast"/> can take that), thus making the Renegade/Firebrand comp even more dominant. You can still use the [Gear Optimizer](http://old.discretize.eu) if you still play with druid.
-
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -54,6 +55,11 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </GridItem>
 <GridItem sm="5">
 <Skills heal="Arcane Brilliance" utility1="Primordial Stance" utility2="Glyph of Storms" utility3="Conjure Lightning Hammer" elite="Conjure Fiery Greatsword"/>
+<Card title="Note about Druid">
+The builds are without <Specialization name="Druid"/> since the Glyph of Empowerment skill got removed from the game. <Specialization name="Druid"/> no longer grants damage boost aside from <Skill name="Frost Spirit"/> (<Specialization name="Soulbeast"/> can take that), thus making the Renegade/Firebrand comp even more dominant.
+
+You can still use the [Gear Optimizer](http://old.discretize.eu) if you still play with druid.
+</Card>
 </GridItem>
 </Grid>
 
@@ -62,14 +68,19 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill name="Glyph ofElemental Harmony" size="big" disableText/> | Healing alternative if <Boon name="Might"/> uptime is good. |
+|Heal|
+| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A **stronger** healing alternative if <Boon name="might"/> uptime is good. |
+| <Skill name="Aquatic stance" size="big" disableText/> | Another alternative healing skill affecting allies close to the tartget you strike. |
+|Offensive|
 | <Skill name="Arcane Blast" size="big" disableText/> | Swap with <Skill id="40183"/> for shorter burst phases. |
-| <Skill name="Arcane Wave" size="big" disableText/> | Deals the same damage as <Skill name="Arcane Blast"/> but on multiple foes. Also useful to generate <Boon name="might"/> with a fire field. |
+| <Skill name="Arcane Wave" size="big" disableText/> | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="might"/> with a fire field. |
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
-| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
+|Defensive|
 | <Skill name="Stone Resonance" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
+| Utility |
+| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
 </Card>
 </GridItem>
 
@@ -78,8 +89,22 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 | | |
 | -- | -- |
 | <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
-| <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/>, because no breakbar (e.g. Artsariiv). |
-| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
+| <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (example Artsariiv). |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+</Card>
+<Card title="Defiance Bar Damage">
+| | |
+| -- | -- |
+| <Skill id="5553"/> | 150 with <Control name="Knockback"/> |
+| <Skill id="5683"/>  | 150 with <Control name="Knockback"/> **if** crossed |
+| <Skill id="42321"/> | 200 with <Control name="Daze"/> |
+| <Skill id="5671"/> | 200 with <Control name="Stun"/> **if** crossed  |
+| <Skill id="5733"/> | 232 with <Control name="Launch"/>  |
+| <Skill id="5721"/> | 300 with <Control name="Stun"/> |
+| <Skill id="5528"/> | 15 / s  (45) with <Condition name="crippled"/>|
+| <Skill id="5519"/> | 20 / s  (60) damage with <Condition name="weakness"/>|
+| <Skill id="5552"/> | 20 / s  (100) damage with <Condition name="blind"/>|
+
 </Card>
 </GridItem>
 </Grid>
@@ -87,7 +112,6 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Divider text="Details"/>
 
 <Grid>
-<GridItem sm="6">
 <Card title="Skill priority">
 The rotation is very complex and highly depends on a good <Boon name="alacrity"/> uptime. Below is a descending list of priorities:
 
@@ -109,21 +133,6 @@ The rotation is very complex and highly depends on a good <Boon name="alacrity"/
 9.  If the boss fight will end in the next seconds and you have no good skills left attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> to get a last burst with <Skill id="41125"/> in.
 
 </Card>
-
-<Card title="Fire Opener (no Vulnerability)">
-1. Start in <Skill id="5495" disableText/>/<Skill id="5492" disableText/>. If you had a mistlock use <Skill id="5531"/> followed by <Skill id="5528"/>. Otherwise start with <Skill id="5528"/> before the fight starts.
-2. Attune to <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and cast <Skill id="5548"/> and <Skill id="43762"/>.
-3. Cast <Skill id="5736"/> while attuning to <Skill id="5492" disableText/>/<Skill id="5492" disableText/> followed by <Skill id="5501"/>.
-4. Cast <Skill id="5548"/>, <Skill id="5624"/>=><Skill id="5725"/> (inside the bosses hitbox) => 1x <Skill id="5726"/> chain. Use <Skill id="5539"/> x3 while you have the <Skill id="5624"/> in hand. 
-    1. If the breakbar is not broken after you summond your <Skill id="5624"/> use <Skill id="5733"/> before <Skill id="5725"/>.
-5. Cast <Skill id="5679"/>, <Skill id="5548"/>  and attune <Skill id="5495" disableText/>/<Skill id="5492" disableText/>.
-6. Use <Skill id="5528"/> and summon your <Skill id="5516"/>, <Skill id="5517"/> => <Skill id="5492" disableText/>/<Skill id="5495" disableText/> => <Skill id="5531"/>.
-7. Cast <Skill id="5548"/> and <Skill id="43762"/>. Attune <Skill id="5492" disableText/>/<Skill id="5492" disableText/>
-8. Use <Skill id="5491"/> x3, <Skill id="5679"/>, <Skill id="5548"/>, Attune <Skill id="5494" disableText/>/<Skill id="5492" disableText/>.
-9. Cast <Skill id="5552"/>, <Skill id="41125"/> and one <Skill id="5518"/> while attuning back to <Skill id="5492" disableText/>/<Skill id="5494" disableText/>.
-</Card>
-</GridItem>
-
 <GridItem sm="6">
 <Card title="Opener">
 ### Pre-casting
@@ -155,31 +164,20 @@ Start in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and pre-c
 
 Start in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> with <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and continue with the rotation above. This is useful for fights where the breakbar is delayed or you are moving to the boss initially.
 </Card>
-
-<Card title="Hard CC skills">
-| | |
-| -- | -- |
-| <Skill id="5553"/> | 150 damage |
-| <Skill id="5683"/> **if** crossed | 150 damage |
-| <Skill id="42321"/> | 200 damage |
-| <Skill id="5671"/> **if** crossed | 200 damage |
-| <Skill id="5733"/> | 232 damage |
-| <Skill id="5721"/> | 300 damage |
+</GridItem>
+<GridItem sm="6">
+<Card title="Fire Opener (no Vulnerability)">
+1. Start in <Skill id="5495" disableText/>/<Skill id="5492" disableText/>. If you had a mistlock use <Skill id="5531"/> followed by <Skill id="5528"/>. Otherwise start with <Skill id="5528"/> before the fight starts.
+2. Attune to <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and cast <Skill id="5548"/> and <Skill id="43762"/>.
+3. Cast <Skill id="5736"/> while attuning to <Skill id="5492" disableText/>/<Skill id="5492" disableText/> followed by <Skill id="5501"/>.
+4. Cast <Skill id="5548"/>, <Skill id="5624"/>=><Skill id="5725"/> (inside the bosses hitbox) => 1x <Skill id="5726"/> chain. Use <Skill id="5539"/> x3 while you have the <Skill id="5624"/> in hand. 
+    1. If the breakbar is not broken after you summond your <Skill id="5624"/> use <Skill id="5733"/> before <Skill id="5725"/>.
+5. Cast <Skill id="5679"/>, <Skill id="5548"/>  and attune <Skill id="5495" disableText/>/<Skill id="5492" disableText/>.
+6. Use <Skill id="5528"/> and summon your <Skill id="5516"/>, <Skill id="5517"/> => <Skill id="5492" disableText/>/<Skill id="5495" disableText/> => <Skill id="5531"/>.
+7. Cast <Skill id="5548"/> and <Skill id="43762"/>. Attune <Skill id="5492" disableText/>/<Skill id="5492" disableText/>
+8. Use <Skill id="5491"/> x3, <Skill id="5679"/>, <Skill id="5548"/>, Attune <Skill id="5494" disableText/>/<Skill id="5492" disableText/>.
+9. Cast <Skill id="5552"/>, <Skill id="41125"/> and one <Skill id="5518"/> while attuning back to <Skill id="5492" disableText/>/<Skill id="5494" disableText/>.
 </Card>
-
-<Card title="Soft CC skills">
-| | |
-| -- | -- |
-| <Skill id="5528"/> | 45 damage <Condition name="crippled"/> 3 sec|
-| <Skill id="5519"/>, <Skill id="41125"/>, <Skill id="43762"/>, <Skill id="42321"/> | 60 damage <Condition name="weakness"/> 3 sec|
-| <Skill id="5552"/> | 100 damage <Condition name="blind"/> 5 sec|
-| <Skill id="5686"/> | 100 damage <Condition name="Immobile"/> 2 sec|
-| <Skill id="40332"/> | 140 damage <Condition name="blind"/> 4 sec, <Condition name="weakness"/> 3 sec|
-| <Skill id="44550"/> | 150 damage <Condition name="crippled"/> 6 sec, <Condition name="weakness"/> 3 sec|
-| <Skill id="41184"/> | 166-192 damage <Condition name="chilled"/> 2-4 sec, <Condition name="weakness"/> 3 sec|
-| <Skill id="5515"/> | 198 damage <Condition name="chilled"/> 6 sec|
-</Card>
-
-<Video youtube="Ui4kXP6fLhU" title="Rotation example by Roul [SC]"/>
+<Video youtube="ZjNebI2CLhA" title="Rotation example by Roul [SC]"/>
 </GridItem>
 </Grid>
