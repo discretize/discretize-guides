@@ -97,7 +97,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 | <Trait name="Renewing Stamina" size="big" disableText/> | If you don't get enough <Boon name="vigor"/> from your <Specialization name="chronomancer"/>. |
 | <Trait name="Elemental Contingency" size="big" disableText/> | If you don't get enough <Boon name="retaliation"/> from your <Specialization name="chronomancer"/>. |
 | <Trait name="Lucid Singularity" size="big" disableText/> | Counters movement-impairing conditions while overloading, useful in scenarios like the <Condition name="Immobile"/> on interact with the consoles in [Aetherblade Fractal](/fractals/aetherblade). |
-| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/>. |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 </Card>
 </GridItem>
 
