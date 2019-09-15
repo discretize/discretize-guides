@@ -76,6 +76,10 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
 
+<Card title="Extra note">
+You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
+</Card>
+
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 </Grid>
