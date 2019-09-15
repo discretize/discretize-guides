@@ -65,7 +65,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
 
 <Card title="Extra note">
-You need Fractal God and <Item id="70596"/> !
+You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 </Card>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
