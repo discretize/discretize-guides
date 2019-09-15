@@ -5,16 +5,17 @@ rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
 specialization: 'Berserker'
-benchmark: { small: { dps: 32692, by: 'Weird Champ [eGrl]', youtube: '6LW9Hrjo29I' } }
+benchmark:
+  { small: { dps: 32692, by: 'Weird Champ [eGrl]', youtube: '6LW9Hrjo29I' } }
 skills: [14407, 14405]
-traits:
+traits: []
 conditions: ['Vulnerability']
 ---
 
 The <Specialization text="Banner Berserker" name="berserker"/> is the strongest build for <Specialization name="warrior"/> in fractals, provided at least one of the following is true:
 
-1) Your group will be able to break all necessary defiance bars near instantly without core Warrior’s fast recharging Skull Crack, or Rampage. 
-2) Your group will be able to maintain 25 <Boon name="Might"/> without <Trait name="Phalanx Strength"/>.
+1. Your group will be able to break all necessary defiance bars near instantly without core Warrior’s fast recharging Skull Crack, or Rampage.
+2. Your group will be able to maintain 25 <Boon name="Might"/> without <Trait name="Phalanx Strength"/>.
 
 Besides providing the group with strong unique damage buffs in <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent single defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has relatively high burst and excellent sustained damage.
 
@@ -76,7 +77,6 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 </Tab>
 </Tabs>
 
-
 <Divider text="Build"/>
 
 <Grid>
@@ -124,7 +124,6 @@ DPS:
 * It is key that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your groups phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
 </Card>
 </GridItem>
-
 
 <GridItem sm="4">
 <Card title="CC skills">
