@@ -7,7 +7,7 @@ profession: 'Necromancer'
 specialization: 'Reaper'
 benchmark: { small: { dps: 31193, by: 'MajesticNoodle [BATS]', youtube: 'wPFrUrG0l0E' } }
 skills: [30792]
-traits: [2020, 2018, 2031]
+traits: [2020, 2018, 919]
 boons: ['Might', 'Fury', 'Quickness']
 conditions:
   ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poison', 'Blind']
@@ -88,7 +88,7 @@ The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks
 <GridItem sm="7">
 <Card title="Rotation">
 
-Before fight: Use <Skill name="Lich Form"/> (Elite) to precast skill 4 (Summon Madness), if you have Mistfire Wolf (Deluxe Upgrade) precast it on MAMA, Siax and Ensolyss (then put back <Skill name="Lich Form"/>) since you are to far from _Mistlock Singularity_ to make use of <Skill name="Lich Form" disableText/> precast.
+Before fight: Use <Skill name="Lich Form"/> (Elite) to precast skill 4 (Summon Madness), if you have Mistfire Wolf (Deluxe Upgrade) precast it on MAMA, Siax and Ensolyss (then put back <Skill name="Lich Form"/>) since you are too far from _Mistlock Singularity_ to make use of <Skill name="Lich Form" disableText/> precast.
 
 **Opener:**
 1. <Skill name="Well of Suffering"/> (Utility)
