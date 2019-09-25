@@ -11,7 +11,8 @@ boons: ['Alacrity', 'Might', 'Stability','Regeneration']
 conditions: ['Vulnerability']
 ---
 
-For **<Specialization text="Heal Renegade" name="Renegade"/>** we have chosen Harrier and Cleric for maximum power and healing power while while still hitting 100% boon duration because <Skill name="Soulcleaves Summit" /> deals damage and lifesteals based on the **<Specialization text="Heal Renegade" name="Renegade"/>**'s own power and healing power. Feel free to run full Harrier if you are confident that you don't need the extra healing power or toughness from Cleric. the more agony resistance you have, the more Cleric you can afford to run and still  hit 100% boon duration.
+For **<Specialization text="Heal Renegade" name="Renegade"/>** we have chosen Harrier and Cleric for maximum power and healing power while while still hitting 100% boon duration because <Skill name="Soulcleaves Summit" /> deals damage and lifesteals based on the **<Specialization text="Heal Renegade" name="Renegade"/>**'s own power and healing power.
+Feel free to run full Harrier if you are confident that you don't need the extra healing power or toughness from Cleric. the more agony resistance you have, the more Cleric you can afford to run and still  hit 100% boon duration.
 
 
 <Divider text="Equipment"/>
@@ -24,12 +25,6 @@ For **<Specialization text="Heal Renegade" name="Renegade"/>** we have chosen Ha
  
 <GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1OffType="Sword" weapon1OffAffix="Harrier" weapon1OffSigil="Concentration" weapon2MainType="Staff" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2MainSigil2="Concentration"/>
-
-<Card title="Swap Weapons">
-* Sword and Staff with <Item name="Night" type="Sigil"/>
-* Sword and Staff with <Item name="Serpent Slaying" type="Sigil"/>
-* Swords and Staffs with slaying sigils (see [Consumables Guide](/guides/consumables))
-</Card>
 </GridItem>
 
 <GridItem sm="4">
