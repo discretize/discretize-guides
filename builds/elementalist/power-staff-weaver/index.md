@@ -9,10 +9,10 @@ benchmark:
   {
     large: { dps: 31763, by: 'Roul [SC]', youtube: 'ZjNebI2CLhA' }
   }
-skills: [5536]
+skills: [5536,5501,5734,5516]
 traits: [1502,226]
 boons: ['Fury','Might','Swiftness']
-conditions: ['Blinded','Burning','Crippled','Vulnerability','Weakness']
+conditions: ['Blind','Burning','Crippled','Vulnerability','Weakness']
 ---
 
 Due to the continueing nerfs the <Specialization text="Power Staff Weaver" name="weaver"/> it went down in the great builds section for fractals. Still, it offers one of the highest burst and consistent DPS numbers in the game on large, stationary hitboxes. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
@@ -35,7 +35,6 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 * Staff with <Item id="36053" disableText/> / <Item id="24615" disableText/> (<Item id="36054"/> doesn't stack anymore)
 * Staff with <Item id="24658" disableText/> / <Item id="24868" disableText/> for the [Nightmare Fractal](https://discretize.eu/fractals/nightmare)
 * At least a Scepter and Dagger for <Boon name="might"/> stacking, Sword if you want to go the extra mile.
-* Note that the Gear with and without <Trait id="1016" profession="ranger"/> is identical.
 </Card>
 </GridItem>
 
