@@ -10,7 +10,7 @@ benchmark:
     large: { dps: 37628, by: 'Fallen [SC]', youtube: 'PutZ0k_edMY' },
     small: { dps: 35687, by: 'Fallen [SC]', youtube: 'GmV62nfPQvs' },
   }
-skills: [5536]
+skills: [5536,5734,5516,44451,5557]
 traits: [1502,226,1503]
 boons: ['Fury','Might', 'Swiftness']
 conditions: ['Burning','Chilled','Vulnerability']
@@ -24,11 +24,11 @@ Aside from <Condition name="vulnerability"/>, an additional crowd control skill 
 
 The build benefits heavily from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-<Divider text="Equipment"/>
+<Divider text="Equipment Without Spotter and Weakness"/>
 
 <Tabs outlined>
 
-<Tab title="150 Agony Resistance (Without Spotter and Weakness)">
+<Tab title="150 Agony Resistance">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -54,7 +54,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 </Grid>
 </Tab>
 
-<Tab title="207 Agony Resistance (Without Spotter and Weakness)">
+<Tab title="207 Agony Resistance">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Light" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar"/>
@@ -85,7 +85,7 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 </Grid>
 </Tab>
 
-<Tab title="245 Agony Resistance (Without Spotter and Weakness)">
+<Tab title="245 Agony Resistance">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
