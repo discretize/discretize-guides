@@ -1,6 +1,6 @@
 ---
 title: 'Power Tempest'
-date: '2019-09-04'
+date: '2019-10-10'
 rating: 'Great'
 role: 'Damage'
 profession: 'Elementalist'
@@ -95,17 +95,20 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill name="Signet of Fire" size="big" disableText/> | If you don't reach 100% critical chance and are too lazy to get Assassin's pieces, take this instead of <Skill name="Arcane Blast"/>. |
-| <Skill name="Aftershock" size="big" disableText/> | A group-wide reflect aura lasting for 4 seconds. |
-| <Skill name="Arcane Wave" size="big" disableText/> | Deals the same damage as <Skill name="Arcane Blast"/> but on multiple foes. Also useful to generate <Boon name="might"/> with a fire field. |
-| <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
-| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with (<Item name="White Mantle Portal Device"/>), useful in fractals like Cliffside, [Aetherblade Fractal](/fractals/aetherblade) and Underground Facility. |
-| <Skill name="Arcane Brilliance" size="big" disableText/> | Sometimes used to blast <Boon name="might"/> in fights like Skorvald. |
-| <Skill name="Rebound" size="big" disableText/> | Prevents otherwise deathly mechanics for the entire group, like Corporal Reassignment (Doomed) at Artsariiv or Arkk. |
+|Heal|
+| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A **stronger** healing alternative if <Boon name="might"/> uptime is good. |
 | <Skill name="Wash the pain away" size="big" disableText/> | An alternative heal skill affecting allies close-by. |
+|Offensive|
+| <Skill name="Arcane Wave" size="big" disableText/> | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="might"/> with a fire field. |
+| <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
+|Defensive|
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
+| <Skill name="Aftershock" size="big" disableText/> | A group-wide reflect aura lasting for 4 seconds. |
+| Utility |
+| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like Cliffside, Aetherblade and Underground Facility. |
 | <Skill name="Eye of the Storm" size="big" disableText/> | Grants <Effect name="superspeed"/>, useful for skips especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+| <Skill name="Signet of Fire" size="big" disableText/> | If you don't reach 100% critical chance and are too lazy to get Assassin's pieces, take this instead of <Skill name="Arcane Blast"/>. |
 </Card>
 </GridItem>
 
