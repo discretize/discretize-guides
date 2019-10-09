@@ -1,7 +1,7 @@
 ---
 title: 'Power Chronomancer'
 date: '2019-01-20'
-rating: 'Great'
+rating: 'Good'
 role: 'Damage'
 profession: 'Mesmer'
 specialization: 'Chronomancer'
@@ -13,9 +13,7 @@ conditions: ['Vulnerability']
 effects: ['Stealth']
 ---
 
-The <Specialization text="Power Chronomancer" name="chronomancer"/> is a good DPS option for fights without a lot of target switching. It does high burst damage and does not suffer from smaller hitboxes while periodically removing boons with <Skill id="10267"/> and applying 10-15x <Condition name="vulnerability"/>.
-
-In addition, a <Specialization name="chronomancer"/> has access to <Skill id="29830"/>, enabling the usage of strong utility skills like <Skill id="29519"/>, <Skill id="34326"/> and <Skill id="10197"/> and <Skill name="Mass Invisibility"/> twice in a row.
+The <Specialization text="Power Chronomancer" name="chronomancer"/> is not really a good options since shatter remake.
 
 As Focus is used as a main weapon, <Skill id="10363"/> can <Control name="pull"/> trash mobs together and CC skills like <Skill id="30359"/>, <Skill id="10287"/> and <Skill id="10341"/> can break any defiance bar.
 
