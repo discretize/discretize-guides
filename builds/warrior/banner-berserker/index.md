@@ -21,11 +21,11 @@ Besides providing the group with strong unique damage buffs in <Skill name="Bann
 
 Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="berserker"/>, your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all the while making DPS players sweat nervously when they glance at their DPS meter.
 
-<Divider text="Equipment"/>
+<Divider text="Equipment without Spotter"/>
 
 <Tabs outlined>
 
-<Tab title="150 Agony Resistance (Without Spotter)">
+<Tab title="150 Agony Resistance">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -49,7 +49,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 </Grid>
 </Tab>
 
-<Tab title="207 Agony Resistance (Without Spotter)">
+<Tab title="207 Agony Resistance">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
