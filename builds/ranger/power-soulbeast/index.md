@@ -17,10 +17,10 @@ Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect s
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-<Divider text="Equipment"/>
+<Divider text="Equipment without Spotter"/>
 
 <Tabs outlined>
-<Tab title="150 Agony Resistance (No Spotter)">
+<Tab title="150 Agony Resistance">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Medium" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -45,7 +45,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </Grid>
 </Tab>
 
-<Tab title="222 Agony Resistance (No Spotter)">
+<Tab title="222 Agony Resistance">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Medium" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
