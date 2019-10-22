@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Blast Stacking'
 date: '2019-05-08'
 image: './images/stacking.jpg'
@@ -16,19 +16,17 @@ Below is a list of frequently used blast finishers among all professions. Note t
 ---
 
 ### <Boon name="might"/> stacking for groups
-
-Chrono comp:
 - <Specialization name="weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
-- <Specialization name="warrior"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14394"/> (Warhorn 5)
+- <Specialization name="warrior"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
+- <Specialization name="renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
+- <Specialization name="firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5) and <Skill name="Mighty Blow"/> (Hammer 2)
+- <Specialization name="soulbeast"/>: <Skill id="12621"/> (Warhorn 5), take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer ***then swap back trait***.
+
 - <Specialization name="druid"/>: <Skill id="12621"/> (Warhorn 5) and <Skill id="31535"/> (Staff 3)
 - <Specialization name="mesmer"/>: <Skill id="10285"/> (Torch 4)
 
-Renegade + Firebrand comp:
-- <Specialization name="weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
-- <Specialization name="renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
-- <Specialization name="warrior"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14394"/> (Warhorn 5)
-- <Specialization name="firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5) and <Skill name="Mighty Blow"/> (Hammer 2)
-- <Specialization name="soulbeast"/>: <Skill id="12621"/> (Warhorn 5), take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer ***then swap back trait***.
+
+
 
 ---
 
@@ -66,6 +64,7 @@ Renegade + Firebrand comp:
     7. <Skill id="5555"/> (Focus 4)
 
 - <Specialization name="warrior"/>:
+  - <Skill id="14393"/> (Warhorn 4)
   - <Skill id="14394"/> (Warhorn 5)
   - <Skill id="14381"/> (Longbow 3)
   - <Skill id="14405"/> and <Skill id="14407"/>
@@ -75,6 +74,7 @@ Renegade + Firebrand comp:
   - <Skill id="12621"/> (Warhorn 5)
   - <Skill id="31535"/> (Staff 3)
 - <Specialization name="guardian"/>:
+  - <Skill id="9140"/> (Staff 2)
   - <Skill id="9194"/> (Hammer 2)
   - <Skill id="9082"/> (Focus 5)
 - <Specialization name="thief"/>:
@@ -95,6 +95,9 @@ Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone 
   - <Skill id="29940"/> (Torch 5)
 - <Specialization name="ranger"/>:
   - <Skill id="12504"/> (Torch 5)
+- <Specialization name="Firebrand"/>:
+  - <Skill id="44364"/> Skill 4 (Chapter 4: Scorched Aftermath)
+  - <Skill id="9253"/>
 
 ---
 
