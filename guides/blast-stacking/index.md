@@ -1,6 +1,6 @@
 ﻿---
 title: 'Blast Stacking'
-date: '2019-05-08'
+date: '2019-10-22'
 image: './images/stacking.jpg'
 description: 'Use blasts and combo fields to stack large amounts of Might, Fury and Stealth on your party.'
 ---
@@ -16,14 +16,11 @@ Below is a list of frequently used blast finishers among all professions. Note t
 ---
 
 ### <Boon name="might"/> stacking for groups
-- <Specialization name="weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
-- <Specialization name="warrior"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
 - <Specialization name="renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
 - <Specialization name="firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5) and <Skill name="Mighty Blow"/> (Hammer 2)
-- <Specialization name="soulbeast"/>: <Skill id="12621"/> (Warhorn 5), take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer ***then swap back trait***.
-
-- <Specialization name="druid"/>: <Skill id="12621"/> (Warhorn 5) and <Skill id="31535"/> (Staff 3)
-- <Specialization name="mesmer"/>: <Skill id="10285"/> (Torch 4)
+- <Specialization name="berserker"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
+- <Specialization name="weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
+- <Specialization name="soulbeast"/>: <Skill id="12621"/> (Warhorn 5), take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer ***then swap back trait***. 
 
 
 
