@@ -15,14 +15,13 @@ conditions: ['Vulnerability', 'Blind', 'Crippled']
 Despite being very common in pugs, this build is not meta!
 </Message>
 This build is also well known as "wheelchair", because it takes away any responsabilities from the team and carries hard.  
-It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the Meta-Counterpart it provides good offensive support via <Skill name="Bane Signet"/>.  
+It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the Meta-Counterpart it provides good offensive support via <Skill name="Bane Signet"/>.
 
-The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional. 
+The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
 
-The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive you can swap out your offensive support via <Skill name="Bane Signet"/> and the radience trait line to virtues for more heals.  
+The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive you can swap out your offensive support via <Skill name="Bane Signet"/> and the radience trait line to virtues for more heals.
 
 When <Instability name="Afflicted"/> is present or enemies are applying conditions, you can use <Skill name="Symbol of Swiftness"/> (Staff3) and blast it with <Skill name="Holy Strike"/> (Staff2) for area condition cleanse.
-
 
 <Divider text="Equipment"/>
 
@@ -51,8 +50,6 @@ If you have more AR, feel free to swap out harrier pieces for cleric, as long as
 </GridItem>
 </Grid>
 
-
-
 <Divider text="Build"/>
 
 <Grid>
@@ -71,9 +68,8 @@ In case your team sucks hard and you cannot keep your pug friends alive you can 
 </Card>
 </GridItem>
 
-
 <GridItem sm="5">
-<Skills heal="Mantra of Solace" utility1="Mantra of Potence" utility2="" utility3="Bane Signet" elite="Feel My Wrath"/>
+<Skills heal="Mantra of Solace" utility1="Mantra of Potence" utility3="Bane Signet" elite="Feel My Wrath"/>
 
 <Card title="Situational Skills">
 | | |
@@ -92,8 +88,6 @@ In case your team sucks hard and you cannot keep your pug friends alive you can 
 </GridItem>
 </Grid>
 
-
-
 <Divider text="Details"/>
 
 <Grid>
@@ -106,16 +100,19 @@ Prestacking:
 - Press <Skill name="Empower"/> again
 
 To keep up <Boon name="Quickness"/>:
+
 - Use <Skill name="Feel My Wrath"/> whenever ready
 - Use <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> but leave one charge left (unless the fight is close to being over)
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 
 To keep up <Boon name="Might"/> and <Boon name="Fury"/>:
+
 - Always prestack <Boon name="Might"/> on the mistlock!
-- You can press <Skill name="Symbol of Vengeance"/> (Axe2) exactly 3 times before your <Skill name="Empower"/> (Staff4) if off cooldown again. 
-- You wanna maximize the uptime of <Skill name="Symbol of Vengeance"/> while pressing  <Skill name="Empower"/> off cooldown.
+- You can press <Skill name="Symbol of Vengeance"/> (Axe2) exactly 3 times before your <Skill name="Empower"/> (Staff4) if off cooldown again.
+- You wanna maximize the uptime of <Skill name="Symbol of Vengeance"/> while pressing <Skill name="Empower"/> off cooldown.
 
 CCing:
+
 - Always use <Skill name="Bane Signet"/>! This is one of the most important things you have to do!
 - Use <Skill name="Blazing Edge"/> (Axe3)
 - Use <Skill name="Shield of Absorption"/> (Shield5)
@@ -153,4 +150,3 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 | <Skill name="Bane Signet"/> | 300 damage |
 </Card>
 </GridItem>
-

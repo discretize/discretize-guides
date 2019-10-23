@@ -5,11 +5,11 @@ rating: 'Great'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Tempest'
-benchmark: { large: { dps: 36152, by: 'Roul [SC]', youtube: '8LnAONl_a5w'} }
-skills: [5536, 29719, 30432,5734,5624,5516]
+benchmark: { large: { dps: 36152, by: 'Roul [SC]', youtube: '8LnAONl_a5w' } }
+skills: [5536, 29719, 30432, 5734, 5624, 5516]
 traits: [1502, 1839, 1503]
-boons: ['Might', 'Fury', 'Swiftness', 'Protection', 'Vigor','Stability']
-conditions: ['Weakness', 'Vulnerability', 'Blind','Burning','Bleeding']
+boons: ['Might', 'Fury', 'Swiftness', 'Protection', 'Vigor', 'Stability']
+conditions: ['Weakness', 'Vulnerability', 'Blind', 'Burning', 'Bleeding']
 ---
 
 The <Specialization name="Tempest" text="Power Tempest"/> is a strong DPS variant for fractals with various utilities the <Specialization name="weaver"/> counterpart doesn't offer.
@@ -90,7 +90,7 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Water" traits1Selected="Piercing Shards, Flow Like Water, Soothing Power" traits2="Air" traits2Selected="Ferocious Winds, Stormsoul, Fresh Air" traits3="Tempest" traits3Selected="Unstable Conduit, Harmonious Conduit, Transcendent Tempest"/>
+<Traits traits1="Water" traits1SelectedIds="363,349,2028" traits2="Air" traits2Selected="Ferocious Winds, Stormsoul, Fresh Air" traits3="Tempest" traits3SelectedIds="1886,1902,1839"/>
 
 <Card title="Situational Skills">
 | | |
@@ -148,7 +148,7 @@ Your entire rotation revolves around using <Skill name="Overload Air"/> as often
 
 Apart from that, you have the following modifiers:
 
-- <Trait name="Transcendent Tempest"/>: 7% damage and condi damage for 7 seconds after <Skill name="Overload Air"/>
+- <Trait id="1839"/>: 7% damage and condi damage for 7 seconds after <Skill name="Overload Air"/>
 - <Trait name="Fresh Air"/>: 250 ferocity for 5 seconds after attuning to air
 - <Trait name="Stormsoul"/> and <Item name="Impact" type="Sigil"/> when the target's defiance bar is broken
 - <Skill name="Conjure Lightning Hammer"/>: 75 ferocity while wielding it
