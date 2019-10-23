@@ -1,6 +1,6 @@
 ---
 title: 'Power Sword Weaver'
-date: '2019-09-04'
+date: '2019-10-10'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
@@ -152,7 +152,7 @@ You can still use the [Gear Optimizer](http://old.discretize.eu) if you still pl
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
 | <Skill name="Stone Resonance" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
 | Utility |
-| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
+| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like Cliffside, Aetherblade and Underground Facility. |
 
 
 </Card>
@@ -165,6 +165,17 @@ You can still use the [Gear Optimizer](http://old.discretize.eu) if you still pl
 | <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
 | <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+</Card>
+<Card title="Defiance Bar Damage">
+| | |
+| -- | -- |
+| <Skill name="Updraft" size="big" disableText/> | 332 with <Control name="launch"/> |
+| <Skill name="Wind Blast" size="big" disableText/> | 232 with <Control name="launch"/> |
+| <Skill name="Polaric Leap" size="big" disableText/> | 100 with <Control name="daze"/> |
+| <Skill name="Earthquake" size="big" disableText/> | 200 with <Control name="knockdown"/> |
+| <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="float"/> |
+| <Skill name="Twin Strike" size="big" disableText/> | 33 / s (99) with <Condition name="Chilled"/> |
+| <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
 </Card>
 </GridItem>
 </Grid>
@@ -279,18 +290,6 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 - Use <Skill name="Arcane Blast"/> when the target's defiance bar is broken and you have <Trait name="Elements of Rage"/> and <Skill name="Conjure Lightning Hammer"/> up
 - On small hitboxes <Skill name="Firestorm"/> is better than <Skill name="Lightning Storm"/>, use it while attuning to <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
 
-</Card>
-
-<Card title="Defiance Bar Damage">
-| | |
-| -- | -- |
-| <Skill name="Updraft" size="big" disableText/> | 332 with <Control name="launch"/> |
-| <Skill name="Wind Blast" size="big" disableText/> | 232 with <Control name="launch"/> |
-| <Skill name="Polaric Leap" size="big" disableText/> | 100 with <Control name="daze"/> |
-| <Skill name="Earthquake" size="big" disableText/> | 200 with <Control name="knockdown"/> |
-| <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="float"/> |
-| <Skill name="Twin Strike" size="big" disableText/> | 33 / s (99) with <Condition name="Chilled"/> |
-| <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
 </Card>
 </GridItem>
 </Grid>

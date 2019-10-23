@@ -5,7 +5,8 @@ rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-benchmark: { small: { dps: 33083, by: 'Obvious Trash [SenT]', youtube: 'UHby8i9DV6s' } }
+benchmark:
+  { small: { dps: 33083, by: 'Obvious Trash [SenT]', youtube: 'UHby8i9DV6s' } }
 skills: [12497, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
@@ -122,7 +123,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 13. <Skill id="12638"/> (Axe 4)
 14. **Swap to greatsword**
 15. <Skill id="12525"/> (Greatsword 2)
-16. <Skill id="12522"/> -> <Skill id="12624"/> (Greatsword 4 2x)  
+16. <Skill id="12522"/> -> <Skill id="12523"/> (Greatsword 4 2x)  
 17. Autoattack chain 1x
 18. <Skill id="12525"/> (Greatsword 2)
 19. <Skill id="41524"/> (F1)
