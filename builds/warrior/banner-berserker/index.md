@@ -117,8 +117,7 @@ Pre-fight:
 * With <Item name="Paralyzation" type="Sigil"/> you can deal 820 defiance bar damage with
     * <Skill name="Tremor"/>, you can precast it and cancel the aftercast animation
     * <Skill name="Pommel Bash"/>
-    * <Skill name="Headbutt"/>
-    * 
+    * <Skill name="Headbutt"/> 
 DPS:
 * Camp Axe/Axe if no CC is required.
 * It is key that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your groups phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
