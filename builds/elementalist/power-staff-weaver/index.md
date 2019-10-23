@@ -1,6 +1,6 @@
 ---
 title: 'Power Staff Weaver'
-date: '2019-09-04'
+date: '2019-10-10'
 rating: 'Good'
 role: 'Damage'
 profession: 'Elementalist'
@@ -9,13 +9,13 @@ benchmark:
   {
     large: { dps: 31763, by: 'Roul [SC]', youtube: 'ZjNebI2CLhA' }
   }
-skills: [5536,5501,5734,5516]
+skills: [5536,5501,5734,5624,5567,5516]
 traits: [1502,226]
 boons: ['Fury','Might','Swiftness']
 conditions: ['Blind','Burning','Crippled','Vulnerability','Weakness']
 ---
 
-Due to the continueing nerfs the <Specialization text="Power Staff Weaver" name="weaver"/> it went down in the great builds section for fractals. Still, it offers one of the highest burst and consistent DPS numbers in the game on large, stationary hitboxes. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
+Due to the continueing nerfs the <Specialization text="Power Staff Weaver" name="weaver"/> it went down in the good builds section for fractals. Still, it offers one of the highest burst and consistent DPS numbers in the game on large, stationary hitboxes. Keep in mind that all six bosses in the current CM fractals are stationary, have a large hitbox and favor burst damage.
 
 Staff Weaver has some utilities in the form of burst <Condition name="vulnerability"/>, AoE <Condition name="blind"/>, <Skill id="5536"/> and easy <Boon name="might"/> pre-stacking. The bad news is that Weaver has no reflects, no fast reachable crowd control skills apart from <Skill id="5733"/> and no <Boon name="stability"/> compared to <Specialization name="Tempest"/>.
 
@@ -79,7 +79,7 @@ You can still use the [Gear Optimizer](http://old.discretize.eu) if you still pl
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
 | Utility |
-| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Sufficient for most blink spots. |
+| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like Cliffside, Aetherblade and Underground Facility. |
 </Card>
 </GridItem>
 
