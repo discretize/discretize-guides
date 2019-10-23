@@ -1,6 +1,6 @@
----
+﻿---
 title: 'Heal Firebrand'
-date: '2019-09-04'
+date: '2019-10-24'
 rating: 'Good'
 role: 'Support'
 profession: 'Guardian'
@@ -10,23 +10,23 @@ boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
 ---
 
-<Divider text="Guide"/>
 <Message>
 Despite being very common in pugs, this build is not meta!
 </Message>
 This build is also well known as "wheelchair", because it takes away any responsabilities from the team and carries hard.  
-It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the Meta-Counterpart it provides good offensive support via <Skill name="Bane Signet"/>.
+It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>.
 
 The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
 
-The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive you can swap out your offensive support via <Skill name="Bane Signet"/> and the radience trait line to virtues for more heals.
+The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radience) to virtues for more heals.
 
 When <Instability name="Afflicted"/> is present or enemies are applying conditions, you can use <Skill name="Symbol of Swiftness"/> (Staff3) and blast it with <Skill name="Holy Strike"/> (Staff2) for area condition cleanse.
 
 <Divider text="Equipment"/>
 
 Note that this build variant is optimized for 150 agony resistance.  
-If you have more AR, feel free to swap out harrier pieces for cleric, as long as you are maintaining 100% boonduration.
+If you have more AR, feel free to swap out harrier pieces for cleric, as long as you are maintaining 100% boonduration. Please take in mind, that this is not THE gear setup you have to play, there are many variants that work. Its all about maximizing boon duration and healing power.  
+Yes, you can play full harrier - however you will loose some healing power.
 
 <Grid>
 <GridItem sm="4">
@@ -63,7 +63,7 @@ If you have more AR, feel free to swap out harrier pieces for cleric, as long as
 
 </Card>
 <Card title="Hardcarry healbot">
-In case your team sucks hard and you cannot keep your pug friends alive you can swap Radience for Virtues. This however is NOT be the default build and should only be played under extreme circumstances.
+In case your team sucks hard and you cannot keep your pug friends alive, you can swap radience for virtues. This however is NOT the default build and should only be played under extreme circumstances. If you somehow get into a situation, where heals are not enough, you should consider to ragequit. 
 <Traits traits1="Virtues" traits1Selected="Retaliatory Subconscious, Absolute Resolution, Battle Presence"/>
 </Card>
 </GridItem>
@@ -76,9 +76,9 @@ In case your team sucks hard and you cannot keep your pug friends alive you can 
 | -- | -- |
 | <Skill id="45460" size="big" disableText/> | A strong condi cleanse to counterplay <Instability name="Afflicted"/>. |
 | <Skill id="43357" size="big" disableText/> | Grants 33% uptime of <Boon name="Stability"/> and <Boon name="Retaliation"/>. |
-| <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
+| <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. Can be used to blink to a <Skill id="9168"/>.|
 | <Skill id="9247" size="big" disableText/> | A 1,200 range teleport to an enemy. Very handy for some skips. |
-| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. Preferred over <Skill id="9153"/> |
+| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. Preferred over <Skill id="9153"/>. |
 | <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
 | <Skill id="9175" size="big" disableText/> | A strong heal. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
