@@ -1,6 +1,6 @@
----
+﻿---
 title: 'Shattered Observatory'
-date: '2018-09-12'
+date: '2019-10-26'
 image: './images/header.jpg'
 group: 'Challenge Mode'
 api: 3458
@@ -29,7 +29,7 @@ consumables: [78978, 8759, 8678, 8732]
 
 <Grid>
 <GridItem sm="7">
-Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the *Mistlock Singularity* after accepting the Harbringer's challenge, stack <Boon name="might"/> on the platform below and start the encounter by activating the orb in the center of the platform.
+Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the *Mistlock Singularity* after accepting the Harbringer's challenge, stack <Boon name="might"/>, <Boon name="quickness"/> and <Boon name="Alacrity"/> on the platform below and start the encounter by activating the orb in the center of the platform.
 </GridItem>
 
 <GridItem sm="5">
@@ -64,7 +64,7 @@ At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four
 
 It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately when you reach the 4th _Elite Flux Anomaly_ to deal more damage to Skorvald before he continues his attacks, especially at 33%. **_Do not take the portal back to the boss before the add has landed its first jump. Otherwise it will leap out of all the damage zones and not die in time for your nuke._**
 
-Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, a <Specialization name="Druid"/> is the perfect candidate for this job with staff auto-attack but be ready to dodge if it explodes in party range.
+Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, but be ready to dodge if it explodes in party range.
 
 After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his Defiance bar, if he is not dead yet break the bar and finish him.
 </GridItem>
@@ -141,51 +141,17 @@ Quick Well and <Skill name="Signet of Inspiration"/> on the 2nd Island after 33%
 **Note for Power Chronos:** You can swap <Skill name="Phantasmal Defender"/> with <Skill name="Mirror Images"/> if your group DPS is high enough.
 </Tab>
 
-<Tab specialization="warrior">
-Help pre-stacking by using <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Mistlock Singularity. While running towards Skorvald already place both banners.
+<Tab specialization="berserker">
+Help pre-stacking by using <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Mistlock Singularity. While running towards Skorvald already place both banners. Make sure to refresh the banners at 66% and 33%. If your team can't burn from 66-33 without the dash, refresh the banners as soon as he starts to dash.
+
 
 ---
 
-### <Instability name="No Pain, No Gain" size="large"/> <Specialization name="Spellbreaker" size="large"/> **(Standard Dagger/Axe Greatsword)**
+### <Specialization name="Berserker" size="large"/> **(Standard Axe/Axe Axe/Mace)**
 
-Immediately use <Skill name="Winds of Disenchantment" profession="Warrior"/> on Skorvald (prevents the first application of boons from <Instability name="No Pain, No Gain"/>) and assist breaking Skorvald's Defiance bar with <Skill id="14402"/>, <Skill name="Disrupting Stab" profession="Warrior"/> (if Defiance bar wont be broken with <Skill id="14502"/>, use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>.
+Start on Axe/Mace (<Skill id="14401"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill id="30343"/>, <Skill id="30185"/>) and continue with standard rotation. You can cast Tremor as soon as you get in combat, although skorvald is not yet visible. 
 
-Continue with standard rotation:
-
-- <Skill name="Breaching Strike" profession="Warrior"/>
-- <Skill name="Dual Strike" profession="Warrior"/>
-- <Skill name="Whirling Axe" profession="Warrior"/>
-- <Skill id="14547"/>
-- <Skill name="Hundred Blades" profession="Warrior"/>
-- <Skill name="Whirlwind Attack" profession="Warrior"/>
-- <Skill name="Bladetrail" profession="Warrior"/>
-- <Skill name="Rush" profession="Warrior"/>
-- <Skill id="14502"/>
-- <Skill id="14547"/>
-- <Skill name="Hundred Blades" profession="Warrior"/>
-- <Skill name="Whirlwind Attack" profession="Warrior"/> (cancel in Skorvald's hitbox by using weapon swap)
-- <Skill name="Breaching Strike" profession="Warrior"/>
-- <Skill name="Disrupting Stab" profession="Warrior"/>
-- <Skill id="14502"/>
-- <Skill name="Dual Strike" profession="Warrior"/>.
-
-Elite Flux Anomalies (66% and 33%) are not affected by <Instability name="No Pain, No Gain"/>. Take the portal at the last Elite Flux Anomaly and pre cast <Skill name="Winds of Disenchantment" profession="Warrior"/> on Skorvald. If <Skill name="Winds of Disenchantment" profession="Warrior"/> is still on cooldown (66%), use <Skill name="Disrupting Stab" profession="Warrior"/> and <Skill name="Breaching Strike" profession="Warrior"/> as soon as Skorvald is vulnerable. Make sure one of your DPS stays behind to kill the fourth Elite Flux Anomaly.
-
-Refresh your banners before the 33% phase and as always try to adapt your rotation to what is currently needed.
-
-<Message> 
-Attacks reliably triggering <Skill name="full counter" profession="Warrior" size="large"/>: _Horizon Strike_, _Rush_, _Punishing Kick & Cranial Cascade_, _Solar Cyclone_ and _Combustion Rush_.
-</Message>
-
----
-
-### **without** <Instability name="No Pain, No Gain" size="large"/> <Specialization name="Warrior" size="large"/> **(Standard Axe/Axe Mace/Mace)**
-
-Start on Mace/Mace (<Skill id="14402"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/>, <Skill name="Skull Crack" profession="Warrior"/>, <Skill id="14502"/>) and continue with standard rotation.
-
-Keep an eye on Skorvald's <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
-
-Keep in mind that you have to kill the 4th Elite Flux Anomalies (66% and 33%) before using the portal to Skorvald's platform.
+Cast <Skill id="14401"/> and engange <Skill id="30185"/> when the add on the 4th platform is about to die. 
 </Tab>
 
 <Tab specialization="weaver">
@@ -250,7 +216,7 @@ The second boss of the fractal is Artsariiv. The encounter gets activated by bou
 
 Artsariiv summons copies which split into smaller clones upon death, they use martial arts skills, <Control name="knockdown"/>, shoot shocking projectiles and apply a lot of damaging conditions. Discuss whether you kill all adds (safe tactic) or not.
 
-Assign a player for the _Globolla Marble_ bouncing (typically the <Specialization name="warrior"/>) and a backup in case the main bouncer gets _Corporal Reassignment_.
+Assign a player for the _Globolla Marble_ bouncing (typically the <Specialization name="renegade"/>) and a backup in case the main bouncer gets _Corporal Reassignment_. 
 
 You will need a lot of crowd control skills, consumables like <Item id="8759"/> and <Item id="8678"/> are very strong here.
 
@@ -272,7 +238,7 @@ You will need a lot of crowd control skills, consumables like <Item id="8759"/> 
 | **Red Marble** | Artsariiv throws a lot of red orbs during the fight, watch out for a large *Red Marble* surrounded by red orbs - it deals <Control name="knockdown"/> and deals medium damage. Unfortunately reacting in close melee range is nearly impossible. You can utilize reflects against the various orbs. |
 | **Slam** | Deals <Control name="knockback"/> and deals damage in a short range around Artsariiv. Recognizable by an orange circle around her, simply dodge it. |
 | **Mib Ring** | Artsariiv herself and all her clones during the intermediate phases create a purple miasma field inside their hitboxes, dont stand too close to avoid damage. |
-| **Globolla Marble** | **Only below 66% health.** Artsariiv throws a huge, white *Globolla Marble* which needs to be bounced back to her. The next position of the marble is always indicated by a large white circle, the next but one position by a smaller white circle.<br/>Use `Nova Launch` to travel between the locations as it refreshes after each bounce. Usually the <Specialization name="warrior"/> soloes this mechanic, but other players should keep an eye on it and serve as a backup in case the main bouncer gets *Corporal Reassignment*.
+| **Globolla Marble** | **Only below 66% health.** Artsariiv throws a huge, white *Globolla Marble* which needs to be bounced back to her. The next position of the marble is always indicated by a large white circle, the next but one position by a smaller white circle. This part is typically soloed by the <Specialization name="Renegade"/>. Strip boons if <Instability name="No pain no gain"/> is present before you hop to the second circle. Dont forget to assign a backup. <br/>Use `Nova Launch` to travel between the locations as it refreshes after each bounce. The backup only needs to stand inside the first blue circle. The main bouncer can take over after that. Note: There is enough time to do the first blue circle, launch into the containment chamber and bounce into the second circle. This however is not recommended for inexperienced players.
 </GridItem>
 
 <GridItem sm="3">
@@ -293,7 +259,7 @@ The central clone has the highest priority as it shoots additional damaging orbs
 
 After the crowd control phases are over, Artsariiv reappears in the middle of the platform and conjures an _Obliterate_ attack and multiple orange void zones which need to be dodged. She also does her _Beaming Smile_ attack similar to the start of the fight. Kill the respawned _Temporal Anomaly_ and clones (optional) before switching to her again.
 
-Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time which needs to be bounced back to her over nine locations. Failing to bounce usually results in a party wipe, choose a reliable player beforehand to solo this (usually the least important profession - <Specialization name="warrior"/>).
+Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time which needs to be bounced back to her over nine locations. Failing to bounce usually results in a party wipe, choose a reliable player beforehand to solo this (usually the profession with the least amount of damage <Specialization name="Renegade"/>).
 
 After the fight is over, take the portal in the North and move forward to get to Arkk.
 
@@ -360,64 +326,21 @@ Simply spam all of your cooldowns, <Skill id="30305"/>, reflect and kill Artsari
 **Note for Power Chronos:** You can swap <Skill name="Mantra of Pain"/> with <Skill name="Feedback"/> for a large DPS increase if noone else is reflecting the projectiles.
 </Tab>
 
-<Tab specialization="warrior">
-Place banners at the corner of the platfrom where Artsariiv is going to be and help pre-stacking with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Artsariiv.
+<Tab specialization="berserker">
+**Prefight**
+
+Place banners at the corner of the platfrom where Artsariiv is going to be and help pre-stacking with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Artsariiv. 
+ 
+**66% and 33%**
+
+Pick up your banners and place them in the middle of the arena. Help your party to cc the adds, preferable by getting rid of the one in the middle, since you are there anyway. 
 
 ---
 
-### <Instability name="No Pain, No Gain" size="large"/> <Specialization name="Spellbreaker" size="large"/> **(Standard Dagger/Axe Greatsword)**
+### <Specialization name="Berserker" size="large"/> **(Standard Axe/Axe Axe/Mace)**
+In the beginning of the fight use <Skill id="14399"/> before the boss teleports away to fill up your adrenalin bar. Swap to your mace, use <Skill id="14518"/> and be ready to <Skill id="14415"/> as soon as the breakbar appears. 
 
-Use <Skill id="14402"/> as soon as the fight starts and already remove Artsariiv's boons with <Skill name="Disrupting Stab" profession="Warrior"/> and <Skill name="Breaching Strike" profession="Warrior"/> while Artsariiv is channeling _Beaming Smile_.
-
-#### Initial phase
-
-- Ignoring _Corporal Reassignment_: use `Nova Launch` to the corner where the fight is about to take place and block _Solar Discharge_ with <Skill name="full counter" profession="Warrior"/>. <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab" profession="Warrior"/> (if Defiance bar won't be broken with <Skill id="14502"/>, use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill id="14502"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/>, <Skill name="Bladetrail" profession="Warrior"/> and <Skill name="Rush" profession="Warrior"/>.
-- With _Corporal Reassignment_: stay in the center and assist with the _Temporal Anomaly_. everything else stays the same as aforementioned.
-
-66% and 33% use consumables (<Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/> / <Item id="8677"/> / <Item id="8749"/>) to break Defiance bar of the 5 / 9 clones.
-Use <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab" profession="Warrior"/> <Skill id="14502"/> and <Skill name="Dual Strike" profession="Warrior"/> as soon as Artsariiv is attackable, dodge the large _AoE circle_ and immediately use <Skill name="Whirling Axe" profession="Warrior"/>.
-
-#### 66%
-
-- Ignoring _Corporal Reassignment_: use `Nova Launch` to the corner where Artsariiv is about to be and block _Solar Discharge_ with <Skill name="full counter" profession="Warrior"/> and continue usual rotation unless you have been assigned to do the marble bounce.
-- With _Corporal Reassignment_: stay in the center and assist with the _Temporal Anomaly_. If you are assigned to do marble bounce and are doomed, call for a backup and stay in the shelter close to the center and wait for _Corporal Reassignment_ to run out. The backup always only has to cover the first circle, you reach the second circle just in time with `Nova Launch`. Otherwise use `Nova Launch` to get to Artsariiv, position yourself already at the first
-  circle for the marble which always spawns close to Artsariiv, allowing you to still attack. Note that you only have a very small window between first and second bounce to strip her of boons unless you have <Skill name="Winds of Disenchantment" profession="Warrior"/> ready.
-
-#### 33%
-
-- Ignoring _Corporeal Reassignment_: place both your banners at Artsariiv. Continue your usual rotation unless you have been assigned to do the marble bounce or you are doomed (/gg as doomed).
-- With _Corporeal Reassignment_: Same as 66%.
-
-<Message> 
-Attacks reliably triggering <Skill name="full counter" profession="Warrior" size="large"/>: *Astral Surge*, *Solar Discharge* and *Slam*.
-</Message>
-
----
-
-### **without** <Instability name="No Pain, No Gain" size="large"/> <Specialization name="Warrior" size="large"/> **(Standard Axe/Axe Mace/Mace)**
-
-Use <Skill id="14402"/> as soon as the fight starts and already attack while Artsariiv is channeling _Beaming Smile_.
-
-#### Initial phase
-
-- Ignoring _Corporeal Reassignment_: Swap to Mace/Mace and use `Nova Launch` to get to the corner where the fight is about to take place and jump over _Solar Discharge_.
-- With _Corporeal Reassignment_: stay in the center and assist with the _Temporal Anomaly_. Éverything else stays the same as aforementioned.
-
-66% and 33% use consumables (<Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>) to break Defiance bar of the 5 and 9 clones respectively.
-Use <Skill id="14502"/>, <Skill name="Eviscerate" profession="Warrior"/>, <Skill name="Cyclone Axe" profession="Warrior"/>, <Skill name="Throw Axe" profession="Warrior"/> and <Skill name="Dual Strike" profession="Warrior"/> as soon as Artsariiv is attackable, dodge the large AoE circle and immediately use <Skill name="Whirling Axe" profession="Warrior"/>.
-
-#### 66%
-
-- Ignoring _Corporeal Reassignment_: use `Nova Launch` to the corner where Artsariiv is about to be and avoid getting hit by _Solar Discharge_. Continue usual rotation unless you have been assigned to do the marble bounce.
-- With _Corporeal Reassignment_: stay in the center and assist with the _Temporal Anomaly_. If you are assigned to do marble bounce and are doomed, call for a backup and stay in the shelter close to the center and wait for _Corporeal
-  Reassignment_ to run out. The backup always only has to cover the first circle, you reach the second circle just in time with `Nova Launch`. Otherwise use `Nova Launch` to get to Artsariiv, position yourself already at the first circle for
-  the marble which always spawns close to Artsariiv, allowing you to still attack her.
-
-#### 33%
-
-- Ignoring _Corporeal Reassignment_: use `Nova Launch` to the corner where Artsariiv is about to be and avoid _Solar Discharge_. Place both your banners at Artsariiv and continue your usual rotation unless you have been assigned to do the marble bounce or you are doomed (/gg as doomed).
-- With _Corporeal Reassignment_: Same as 66%.
-  </Tab>
+</Tab>
 
 <Tab specialization="weaver">
 
@@ -557,27 +480,21 @@ Exactly the same as PUG Arkk.
 This encounter is generally more intense for your <Specialization name="Weaver"/>s, as they have to manage cooldowns properly while dodging mechanics that one-shot them. Please be patient if they start cursing in voice chat. Always keep a positive mental attitude.
 </Tab>
 
-<Tab specialization="warrior">
-Place banners already on Arkk's platform if your group does one /gg before. Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. Usually one of the DPS is responsible for slaying the Temmporal Anomaly, nonetheless pay 
+<Tab specialization="Berserker">
+<Message>
+You run <Trait id="2049"/> and use <Skill id="14419"/> at 50% to keep up might!
+</Message>
+Use a <Item id="78978"/> to precast <Skill id="14405"/>, <Skill id="14407"/>, <Skill id="14408"/> and a <Skill id="14419"/> on the boss' platform. 
+
+Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. Do not take the mistlock to early or you will need more then 1-2 hits to fill up your adrenalin. Also before taking the mistlock, use your special action key to not bug the cooldown reset out and precast <Skill name="mending"/>. 
+
+Refresh your <Skill id="14405"/> and <Skill id="14407"/> at the archdiviner and gladiator adds by blasting a firefield. 
+
+Use atleast <Skill id="14415"/> at every breakbar.
+
+Usually the <Specialization name="Renegade"/> is responsible for slaying the Temmporal Anomaly, nonetheless pay 
 close attention to it and assist if necessary. Dont forget to use `Nova Launch` to circumvent the effects of Arkk's _Solar Fury_ and _Solar Discharge_.
 
----
-
-### <Instability name="No Pain, No Gain" size="large"/> <Specialization name="Spellbreaker" size="large"/> **(Standard Dagger/Axe Greatsword)**
-
-Start pre-casting <Skill name="Winds of Disenchantment" profession="Warrior"/> while teleporting to Arrk's platform and follow standard rotation. At 80%, 50% and 30%, respectively, swap to Dagger/Axe as soon as Arkk turns invulernable and position yourself at one of the sides where a Solar Bloom is about to spawn. Since your attacks are solely melee, its recommended to already position yourself close to the designated pillar (its common to push Solar Blooms clockwise) and just wait for it to come to you so you can easily push it into the pillar with a single attack. Once Arkk starts channeling _Force of the Nightmare_, use `Nova Launch` on Arkk to add additional Defiance bar damage, remove boons immediately with <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab" profession="Warrior"/> and <Skill id="14502"/> and continue with the usual rotation. Conserve your <Skill name="Winds of Disenchantment" profession="Warrior"/> for when Arkk returns to the platform after 40% to remove Arkk's boons and counter the _Solar Fury_ (you dont want the last remaining platform close to Arkk (_Disappearing Platforms_} covered in burning oil). For the Elite Archdiviner (70%) and the Elite Brazen Gladiator (40%) stay on Dagger/Axe for immediate boon removal on them as well as on Arkk afterwards.
-
-<Message> 
-Attacks reliably triggering <Skill name="full counter" profession="Warrior" size="large"/>: *Focused Rage*, *Horizon Strike* and *Diffractive Edge*.
-</Message>
-
----
-
-### **without** <Instability name="No Pain, No Gain" size="large"/> <Specialization name="Warrior" size="large"/> **(Axe/Axe Greatsword)**
-
-Start on Axe/Axe and just follow the standard rotation. At 80%, 50% and 30% position yourself at one of the sides where a Solar Bloom is about to spawn. Since your attacks are solely melee, its recommended to already position yourself
-close to the designated pillar (its common to push Solar Blooms clockwise) and just wait for it to come to you so you can easily push it into the pillar with a single attack. Once Arkk starts channeling Force of the Nightmare, use Nova
-Launch on Arkk to add additional Defiance bar damage and continue with the standard rotation.
 </Tab>
 
 <Tab specialization="weaver">
