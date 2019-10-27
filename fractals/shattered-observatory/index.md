@@ -71,87 +71,23 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 </Grid>
 
 <Tabs>
-<Tab specialization="chronomancer">
-**DISCLAIMER** <br/>
-<Specialization name="chronomancer"/> is not easy for a beginner, so it'll take some time for you to learn this properly.     
-*I believe in you.*
-
-For these PUG strategies I will always assume that this is the composition you'll be running: <Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="Holosmith"/>/<Specialization name="Dragonhunter"/>/<Specialization name="Soulbeast"/>
-
-Since triple <Specialization name="weaver"/> is extremely hard to pull off in a group that is not organized due to the lack of crowd control, a <Specialization name="Dragonhunter"/>/<Specialization name="Holosmith"/>/Power<Specialization name="Soulbeast"/> helps shorten the crowd control gap and brings <Condition name="vulnerability"/> to the fights.
-
-<Specialization name="Druid"/> is bad, it does not do enough crowd control, it does almost no damage and post nerf spirits are subpar aka not worth using over another DPS profession.
-
-The common misconception is that if you run with a <Specialization name="Druid"/> no one in the group will ever die thanks to the heals, while this might be true in some cases, we've found that if the boss dies faster, it's far less likely that your group will wipe.  
-Keep in mind that this has nothing to do with elitism or try-hard, most bosses become very hard to kill if you waste time, look at Arkk for example, at 30% after the triple beam attack, if Arkk isn't dead by then he'll start spawning 3/4 mechanics at the same time that are hard to deal with if you're not experienced.
-
-In this guide I am also going to assume that you're running the proper gear/food and that your <Specialization name="Chronomancer"/> basics are solid, with an emphasis on not wasting your concentration proc when swapping weapons.
-
-**PUG Version**
-
-Build: Chaos <br/>
-Weapons: Sword – Shield / Pistol <br/>
-Skills: <Skill id="21750"/>, <Skill id="10377"/>
-
-Since PUGs are notoriously bad at using crowd control, you'll be opening this fight with this sequence:
-
-<Skill id="30643"/> (MID <Skill id="29830"/>)> <Skill id="10287"/> -> <Skill id="10377"/> -> <Skill id="29830"/> END -> <Skill id="30643"/>+<Skill id="10287"/>-> SWAP -><Skill id="10229"/> <br/>
-and then Signet + wells without casting a phantasm, since you'll be using that
-on the first island along with a distort (<Skill id="10192"/>) to share <Boon name="Aegis"/> and prevent getting hit
-by the stomp attack from the first _Elite Flux Anomaly_.
-
-**66%**
-
-Islands are pretty straightforward. You ALWAYS want to cast wells before other skills, so that people won't miss them.
-
-1. [passive <Skill name="Signet of Inspiration"/> + <Skill id="10192"/>] <br/>
-2. [<Skill id="30814"/> > Swap > <Skill name="Signet of Inspiration"/> + <Skill id="30643"/>] <br/>
-3. [<Skill id="29856"/> > Swap > passive <Skill name="Signet of Inspiration"/>] <br/>
-4. [Swap > <Skill name="Signet of Inspiration"/> > <Skill id="30643"/> (before everyone takes the portal)] <br/>
-
-When you're back on the platform it'll be simple for you, use your <Skill id="10377"/>, wait for Skorvald to do his 3 attacks and then you can <Skill id="29830"/> your wells and <Skill name="Signet of Inspiration"/>, while not forgetting to swap weapons to proc your concentration sigil (im assuming your group dps is slow enough to have your <Skill id="29830"/> up in this phase) .
-
-When the Defiance bar is back up use your <Skill id="30643"/> and <Skill id="10287"/> with possibly more than one clone to crowd control as much as you can because your group will be too busy tunneling on their arc dps to see who is gonna win the ego war, hence forgetting to crowd control.
-
-Here we go again
-
-**33%**
-
-Follow the same steps above and remember to shatter and use a phantasm to activate passive <Skill name="Signet of Inspiration"/> when you get back to Skorvald before he does his knockback attack at the end so you can share some <Boon name="stability"/>.
-
-**Try-hard**
-
-**Disclaimer** <br/>
-This guide is aimed for 5 players that are already very solid individually but want to take it to the next step in fractal encounters.<br/>
-These are also strategies aimed for smooth and fast daily runs, not speedrunning records.<br/>
-Do not attempt these strategies while in a PUG (for your own mental safety).
-
-Compositions:  
-<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>  
-<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="soulbeast"/> (More CC, more <Condition name="vulnerability"/>, <Skill id="12497"/>)
-
-Chaos/Inspiration
-
-This fight is almost exactly 1:1 with the PUG strategy .
-
-The only difference being that in an organized group,
-the damage should be so high that you will not get your <Skill id="29830"/> back up at 66%, hence you should do double
-Quick Well and <Skill name="Signet of Inspiration"/> on the 2nd Island after 33%.
-
-**Note for Power Chronos:** You can swap <Skill name="Phantasmal Defender"/> with <Skill name="Mirror Images"/> if your group DPS is high enough.
-</Tab>
-
-<Tab specialization="berserker">
+<Tab specialization="Warrior">
 Help pre-stacking by using <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Mistlock Singularity. While running towards Skorvald already place both banners. Make sure to refresh the banners at 66% and 33%. If your team can't burn from 66-33 without the dash, refresh the banners as soon as he starts to dash.
 
+There is not much of a difference between PUGs and organized, except that you instaburn him from 66-33 and 33-0. Playstyle doesnt change.
 
 ---
 
 ### <Specialization name="Berserker" size="large"/> **(Standard Axe/Axe Axe/Mace)**
-
 Start on Axe/Mace (<Skill id="14401"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill id="30343"/>, <Skill id="30185"/>) and continue with standard rotation. You can cast Tremor as soon as you get in combat, although skorvald is not yet visible. 
 
 Cast <Skill id="14401"/> and engange <Skill id="30185"/> when the add on the 4th platform is about to die. 
+
+---
+
+### <Specialization name="Warrior" size="large"/> **(Standard Axe/Axe Mace/Mace)**
+There is not much reason to play core warrior here. Even if your team sucks at CCing, playing berserker and popping a <Item id="8664"/> is fastly superior, since there is only one CC bar you have to break. 
+
 </Tab>
 
 <Tab specialization="weaver">
@@ -182,8 +118,20 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 For the try-hard version you want to play with three air <Specialization name="Weaver"/>. The advantage of this composition is that your <Specialization name="Chronomancer"/> can use Inspiration Domination, which increases <Boon name="Alacrity"/> uptime and allows you to burst again 3-5 seconds earlier. The disadvantage is that you constantly have to keep an eye on your groups <Boon name="Might"/> uptime. But for normal daily runs you will probably have your burst skills ready anyways since you most likely lose those 3-5 seconds during the 66% or 33% split or due to the nerfed <Specialization name="Weaver"/> damage. Under ideal circumstances the time difference is between 8-10 seconds.
 </Tab>
 
-<Tab specialization="druid">
-Combine <Trait id="1038"/> with <Skill id="12569"/> for party <Boon name="stability"/> below 33% health.
+<Tab specialization="Dragonhunter">
+<Message>
+Good teams = Scepter; Bad teams = sword. Play <Trait id="574"/>.
+</Message>
+Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to gg. 
+
+Help your team precasting might with <Skill name="Empower">. 
+
+You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss. 
+
+As soon as you press f to engage with the boss, press <Skill name="Bane Signet"/> and spam tab to get the target. Basically, you are casting the signet without target at first to save important DPS-time. Practice this well or the fb will get two stacks of <Skill name="Bane Signet"/>.
+
+You should start on scepter/sword on this boss. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weopen swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
+
 </Tab>
 </Tabs>
 
@@ -264,78 +212,19 @@ Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time w
 After the fight is over, take the portal in the North and move forward to get to Arkk.
 
 <Tabs>
-<Tab specialization="chronomancer">
-From this fight on, you can use `Nova Launch` immediately before sharing boons to spread <Boon name="aegis"/> and prevent dangerous boss mechanics. Note that you can pre-stack clones on Artsariiv with <Skill id="10173"/>.
-
-**PUG Version**  
-Build: Chaos/Inspiration <Trait id="751"/>  
-Weapons: Sword - Shield / Focus  
-Skills: <Skill id="30305"/>,<Skill id="10377"/>
-
-**In this guide I am assuming that your group dps is low enough to get your <Skill id="29830"/> back at 66% and 33%**
-
-When the fight begins you will be facing the middle of the platform waiting for Artsariiv to cast _Beaming Smile_ so that you can move in and kill the 2 adds that spawned.
-
-Use <Skill id="10191"/> and <Skill id="10190"/> to get some boons on yourself and proc the passive <Skill name="Signet of Inspiration"/> by using your <Skill id="10282"/> phantasm (targeting the boss // make sure it's not invulnerable anymore) near your group to share boons at the beginning.
-
-Then, while the Artsariiv is bouncing to her corner, swap to shield and do a sword 3 to get a clone up , then quickly cast as follows:
-
-<Skill id="30643"/> (MID <Skill id="29830"/>) -> <Skill id="10377"/>-> <Skill name="Signet of Inspiration"/> -> <Skill id="29856"/>-><Skill id="29830"/> END-> <Skill id="30643"/> -><Skill id="29856"/> + <Skill id="30814"/> + <Skill name="Signet of Inspiration"/>
-
-This is because you want to crowd control Artsariiv as much and as fast as possible with the double <Skill id="30643"/>.  
-To increase the group's chance of survival you should also place a <Skill id="10186"/> between Artsariiv and the group, so that the orb autoattacks will be reflected.
-
-**66%**
-
-**DO NOT SKIP THIS STEP**  
-After the crowd control phase is over , even before Artsariiv is vulnerable (when shes in the middle of the platform), you have to <Skill id="10191"/> <Skill id="10190"/> and share with <Skill name="Signet of Inspiration"/>. We do this because <Specialization name="Weaver"/>s will start casting <Skill id="5501"/> here and if they dont have any <Boon name="quickness"/> while doing so, they'll right click your name and report you for botting.  
-**DO NOT SKIP THIS STEP**
-
-Then go to the next corner and do all your <Skill id="29830"/> rotation on the boss, including <Skill id="10282"/> in <Skill id="29830"/> (without forgetting to <Skill id="10186"/> between the group and the boss to reflect) as your <Specialization name="Warrior"/> will be jumping for the marbles.
-(Dont forget to heal your group with <Skill id="30305"/>, dont use it in a selfish way or they will go down) .
-
-Repeat the same for 33%
--In the last phase you can use your <Skill id="10377"/> out of <Skill id="29830"/> , if <Skill id="29830"/> is not back up yet.
-
-**Try-hard**  
-In the beginning of the encounter we use the "nuke" strategy that you can see in our speedrun videos. The point is that you completely skip the first _Temporal Anomaly_ by phasing Artsariiv (66%) before the explosion. Even if you don't make it because something prevented you to deal proper damage, I believe tanking the first _Corporal Reassignment_ is still worth it, you'll just have to kill the _Temporal Anomaly_ in the next phases.
-
-**100%**  
-1: Stack 3 clones on Artsariiv before activating it (Using <Skill id="10173"/> or <Skill id="10310"/>).  
-2: Activate Artsariiv.  
-3: The entire group uses special action to the corner.  
-4: <Skill id="29830"/> everything while keeping <Skill id="30643"/>+<Skill id="10287"/> as the last skill you will cast in <Skill id="29830"/> so you can do a 2nd one to crowd control Artsariiv at start.
-
-If the Defiance bar is broken slowly you will fail. ( Your <Specialization name="Warrior"/> / <Specialization name="Soulbeast"/> will help you out here)
-
-**66%(middle)**
-
-Do NOT forget to <Skill name="Signet of Inspiration"/> before Artsariiv is even vulnerable, your <Specialization name="Weaver"/>s need <Boon name="quickness"/> to cast <Skill name="Meteor Shower"/>. You can also heal the group with your wells here as everyone will be stacked together.
-
-**66%(corner)**  
-Special action to the corner the boss is moving to.  
-You can use your <Skill id="10377"/> here outside of <Skill id="29830"/>, along with your <Skill name="Signet of Inspiration"/> and eveything else that isn't on cooldown.  
-Protect your team by placing a <Skill id="10186"/>(Traited) between them and Artsariiv to reflect the ball autoattacks.
-
-**33%(middle)**  
-Since you will have your <Skill id="29830"/> up here, while staying close to the group you should <Skill name="Signet of Inspiration"/> + <Skill id="10282"/>(passive <Skill name="Signet of Inspiration"/>) inside <Skill id="29830"/> while staying in range of your team. Keep everything else for the next part.
-
-**33%(corner)**  
-Simply spam all of your cooldowns, <Skill id="30305"/>, reflect and kill Artsariiv as the <Specialization name="Warrior"/> will be bouncing the orbs.
-
-**Note for Power Chronos:** You can swap <Skill name="Mantra of Pain"/> with <Skill name="Feedback"/> for a large DPS increase if noone else is reflecting the projectiles.
-</Tab>
-
-<Tab specialization="berserker">
+<Tab specialization="Warrior">
 **Prefight**
 
 Place banners at the corner of the platfrom where Artsariiv is going to be and help pre-stacking with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Artsariiv. 
  
 **66% and 33%**
 
-Pick up your banners and place them in the middle of the arena. Help your party to cc the adds, preferable by getting rid of the one in the middle, since you are there anyway. 
+Pick up your banners and place them in the middle of the arena. Help your party to cc the adds, preferable by getting rid of the one in the middle, since you are there anyway. Replace your banners at the corner Artsariiv is going to jump to.
 
 ---
+
+### <Specialization name="Warrior" size="large"/> **(Standard Axe/Axe Mace/Mace)**
+If you do not bring consumables for the add phases, you play core warrior to help your team getting rid of the adds quickly. 
 
 ### <Specialization name="Berserker" size="large"/> **(Standard Axe/Axe Axe/Mace)**
 In the beginning of the fight use <Skill id="14399"/> before the boss teleports away to fill up your adrenalin bar. Swap to your mace, use <Skill id="14518"/> and be ready to <Skill id="14415"/> as soon as the breakbar appears. 
@@ -343,7 +232,6 @@ In the beginning of the fight use <Skill id="14399"/> before the boss teleports 
 </Tab>
 
 <Tab specialization="weaver">
-
 **PUG Version**
 
 If your group damage is low you can use <Skill id="5501"/> two times per phase, pre-cast the first one in the middle in <Skill id="5495" disableText/>/<Skill id="5492" disableText/>. **Always** place at least a <Skill id="5548"/> on the _Temporaly Anomaly_ before using `Nova Launch` to Artsariiv. You can already attune to <Skill id="5494"/> at the _Temporaly Anomaly_ and burst it with <Skill id="41125"/> before continuing with <Skill id="5737"/> on Artsariiv.
@@ -373,8 +261,20 @@ If your damage is particular high use <Skill name="Firestorm"/> in phase 2, to h
 Advanced groups can let the second _Corporeal Reassignment_ trigger and gg the third to save time. But if you failed the first nuke always make sure to kill the second _Temporal Anomaly_. Also sometimes there are communication issues, so if you have the third _Corporeal Reassignment_ always check if someone killed the _Temporal Anomaly_, before killing yourself.
 </Tab>
 
-<Tab specialization="druid">
-Use <Skill id="31496"/> against the multitude of projectiles, especially against the the orb attacks from the two Elites at the beginning and from Artsariiv before her *Slam* attack.
+<Tab specialization="dragonhunter">
+Dragonhunter is not exactly great here. If your team does not have a soulbeast, you can take <Skill name="Wall of reflection"/> for omega reflects. Kick your firebrand if he takes a wall/tome/shield. 
+
+**100%**  
+If you are not skipping the first Anomaly, you should place the wall in the middle.
+Again it is recommended to start on scepter. Use your <Skill name="Bane Signet"/> to help with cc and boost the party dps as soon as Artsariiv arrives at the corners. Use it even if there is no CC-Bar to improve your party dps.
+
+**66% and 33%**  
+Help your team ccing with consumables. Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. Use your special action key to quickly navigate to adds. When all adds are broken your traps will be off cooldown again. Start on scepter again, use <Skill name="Shield of Wrath"/> to block the expanding AoE and fire everything you have.   
+When artsariiv arrives at the corners again immediately place your <Skill name="Wall of reflection"/>.
+
+
+
+
 </Tab>
 </Tabs>
 
@@ -456,44 +356,28 @@ Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight
 The most important thing is to keep calm. Remember that every single ability can be avoided, `Nova Launch` the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!
 
 <Tabs>
-<Tab specialization="mesmer">
-Build: Chaos     
-Weapons: sword-shield/focus     
-Skills: <Skill id="30305"/>, <Skill id="10377"/>
-
-Think of Arkk as a golem that becomes invulnerable once in a while, if your <Specialization name="Chronomancer"/> basics are solid, your uptimes should not be a problem.
-
-Regardless of that, there are a few things you should keep in mind:
-
-**PUG Version**
-
-1. You always want to start on shield before crowd control phases (after the orb mechanics)
-   so you can use your <Skill id="30643"/> + <Skill id="10287"/> and swap instantly to share boons.
-2. You should ALWAYS pull at least 2 of the 4 adds that spawn with the Elite Archdiviner (70%) and the Elite Brazen Gladiator (40%) since they deal a lot of damage to the group.
-3. You should use your <Skill id="29830"/> at the start of the fight and at 50%, and at 30% you can pre-cast your <Skill id="10377"/> outside of <Skill id="29830"/> so your group will have <Boon name="quickness"/> instantly after coming back from the pillars.
-4. This is helpful if you have time: use your <Skill id="10186"/> on Arkk's hitbox to reflect the orb attacks ( keep in mind you still need to pull adds so dont use it if you're about to phase after _Force of the Nightmare_)
-5. Don't forget to INSTANTLY use <Skill id="10191"/>-<Skill id="10190"/> when the fight starts and <Skill id="10282"/> to proc passive <Skill name="Signet of Inspiration"/>, only then begin your rotation.(you don't want your <Specialization name="Weaver"/>s to wait a long time to get <Boon name="quickness"/> or they will start flaming you).
-
-**Try-hard**  
-Exactly the same as PUG Arkk.
-
-This encounter is generally more intense for your <Specialization name="Weaver"/>s, as they have to manage cooldowns properly while dodging mechanics that one-shot them. Please be patient if they start cursing in voice chat. Always keep a positive mental attitude.
-</Tab>
-
-<Tab specialization="Berserker">
-<Message>
-You run <Trait id="2049"/> and use <Skill id="14419"/> at 50% to keep up might!
-</Message>
+<Tab specialization="Warrior">
 Use a <Item id="78978"/> to precast <Skill id="14405"/>, <Skill id="14407"/>, <Skill id="14408"/> and a <Skill id="14419"/> on the boss' platform. 
 
 Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. Do not take the mistlock to early or you will need more then 1-2 hits to fill up your adrenalin. Also before taking the mistlock, use your special action key to not bug the cooldown reset out and precast <Skill name="mending"/>. 
 
 Refresh your <Skill id="14405"/> and <Skill id="14407"/> at the archdiviner and gladiator adds by blasting a firefield. 
 
-Use atleast <Skill id="14415"/> at every breakbar.
-
 Usually the <Specialization name="Renegade"/> is responsible for slaying the Temmporal Anomaly, nonetheless pay 
 close attention to it and assist if necessary. Dont forget to use `Nova Launch` to circumvent the effects of Arkk's _Solar Fury_ and _Solar Discharge_.
+
+---
+
+### <Specialization name="Berserker" size="large"/> **(Standard Axe/Axe Axe/Mace)**
+<Message>
+You run <Trait id="2049"/> and use <Skill id="14419"/> at 50% to keep up might!
+</Message>
+Use atleast <Skill id="14415"/> at every breakbar.
+
+In better teams do not use your <Skill id="30185"/> in the 2nd and 4th phase. You want to save it for the longer 20% burns. In bad teams you do not need to put so much thought into it. 
+
+### <Specialization name="Warrior" size="large"/> **(Standard Axe/Axe Mace/Mace)**
+If your <Specialization name="Renegade"/> is a useless piece of shit, you can play Core to counter the lack of cc. 
 
 </Tab>
 
@@ -519,7 +403,20 @@ Keep in mind that your `Nova Launch` does damage now, so make sure you always hi
 Also since Arkk has extremly long break phases (10 sec), <Skill id="40183"/> is very strong in the 20% and 30% phases.
 </Tab>
 
-<Tab specialization="druid">
-You can consider running a more defensive setup with <Skill id="12495"/> for <Boon name="protection"/>, but not even that can help if you ignore mechanics.
+<Tab specialization="Dragonhunter">
+Dragonhunter brings decent dps and utils at the table and can be played without much regret.
+
+**Precast**
+
+Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to gg. 
+
+Help your team precasting might with <Skill name="Empower"/> and <Skill name="Bane Signet"/>. 
+
+**General**  
+- In good teams with high dps you have to start on greatsword, otherwise start on scepter/sword.
+- Your goal is to start on scepter/sword at every 10% burn phase, thats why you need to consider weopenswaps carefully. 
+- Pull adds in with GS5. 
+- Cast <Skill name="Bane Signet"/> early, so you get more dps time. 
+- The fastest way to do the orbs is to walk into the blue stuff and aa with scepter. Use <Skill name="Wings of Resolve"/> to regain health. 
 </Tab>
 </Tabs>
