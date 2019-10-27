@@ -1,6 +1,6 @@
----
+﻿---
 title: 'Nightmare'
-date: '2018-09-12'
+date: '2019-10-27'
 image: './images/ensolyss_crazy.jpg'
 group: 'Challenge Mode'
 api: 3177
@@ -22,7 +22,7 @@ record:
 cycle: 'Day'
 potions: [{ id: 50082 }]
 sigils: [{ id: 24615 }, { id: 24868 }, { id: 24658, description: 'after MAMA' }]
-consumables: [43360, 8759, 8678, 8764, 8801, 78978]
+consumables: [43360, 8759, 8678, 8764, 8801, 78978, 12486]
 ---
 
 ## Assault Knights <Item id="50082" disableText/><Label>426,071 HP</Label>
@@ -35,9 +35,9 @@ Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your 
 
 ## MAMA <Item id="50082" disableText/><Label>5,200,519 HP</Label>
 
-Stack <Boon name="might"/> before jumping down. (Now that the mistlock resets cooldowns, <Specialization name="chronomancer"/> can prestack boons and use the mistlock)
+Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before jumping down. 
 
-MAMA will arise, after being invulnerable for a few seconds its first attack will be a _spinning <Control name="knockback"/>_. The first one should be blocked with <Boon name="aegis"/> from the <Specialization name="mesmer"/> as the <Specialization name="elementalist"/>s will be busy casting <Skill id="5501"/>, learn to dodge the consecutive spinning attacks. It always hits on the _second_ spin animation.
+MAMA will arise, after being invulnerable for a few seconds its first attack will be a _spinning <Control name="knockback"/>_. This one should be interrupted by CCing the boss fast enough. The consecutive spin attacks should be taken care of by the <Specialization name="Firebrand"/> as long as there is not to much AoE, that potentially removes <Boon name="Aegis"/> is around. This spin attack always hits on the _second_ spin animation.
 
 Apart from that, turn away from your party members shortly before the _Vomit Toxin_ hits (orange cone), otherwise you will 'infect' party members in front of you with it.
 
@@ -48,124 +48,20 @@ When MAMA reaches 33%, it conjures a large _Nightmare Miasma_ field around it wh
 Fast crowd control and animation knowledge are the keys to this fight.
 
 <Tabs>
-<Tab specialization="chronomancer">
-## **DISCLAIMER**
-
-Chrono is not easy for a beginner, so it'll take some time for you to learn this properly.  
-_I believe in you._<br/>
-If you have any questions or if you would like to flame me personally you can message me ingame @ Kensei.1495<br/>
-Also here's a playlist with some daily videos (Chrono PoV)[External Link](https://www.youtube.com/playlist?list=PLkGBjTsnpJdm5-4L-cTykV-nlZ7wuL5J1)
-
-### **Pug Strategies**
-
-I will always assume that this is the comp you'll be running: <Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="Holosmith"/>/<Specialization name="Dragonhunter"/>/<Specialization name="Soulbeast"/>
-
-Since triple weaver is extremely hard to pull off in a group that is not organized due to the lack of CC, a <Specialization name="Dragonhunter"/>/<Specialization name="Holosmith"/>/Power<Specialization name="Soulbeast"/> helps shorten the CC gap and brings vulnerability to the fights.
-
-<Specialization name="Druid"/> is bad, it does not do enough cc, it does no dps and post nerf spirits are subpar aka not worth using over another dps class.
-
-The common misconception is that if you run with a druid no one in the group will ever die thanks to the heals, while this might be true in some cases, we've found that if the boss dies faster, it's far less likely that your group will wipe.  
-Keep in mind that this has nothing to do with elitism or tryharding, most bosses become very hard to kill if you waste time, look at Arkk for example, at 30% after the triple beam attack, if the boss isn't dead by then it'll start spawning 3/4 mechanics at the same time that are hard to deal with if you're not experienced.
-
-In this guide I am also going to assume that you're running the proper gear/food and that your chronomancer basics are solid, with an emphasis on not wasting your concentration proc when swapping weapons.
-
-### **Tryhard Strategies** <br/>
-
-These guides are aimed for 5 players that are already very solid individually but want to take it to the next step in fractal encounters.<br/>
-These are also strategies aimed for smooth and fast daily runs, not speedrunning records.<br/>
-Do not attempt these strategies while pugging (for your own mental safety).
-
-Compositions:  
-<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>  
-<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="weaver"/>, <Specialization name="soulbeast"/> (More CC, more <Condition name="vulnerability"/>, <Skill id="12497"/>)<br/>
-<Specialization name="chronomancer"/>, <Specialization name="Warrior"/>, <Specialization name="weaver"/>, <Specialization name="soulbeast"/>, <Specialization name="soulbeast"/> (my personal favorite)
-
-> 99CM is a fractal level that relies heavily on CC bars being broken fast, there is little room for mistakes, especially while playing chrono.  
-> You should never pug this with a triple weaver comp, go for 2 <Specialization name="weaver"/> and an extra dps class that will help you break CC bars like <Specialization name="Dragonhunter"/>/<Specialization name="Holosmith"/>/Power <Specialization name="Soulbeast"/>.  
-> Your <Specialization name="Warrior"/> will have to help you CC as well. If your team does not help you with this, there's not really much you can do.
-> Regardless, don't flame them, if you want to improve try to record your gameplay and see if you could've done anything different to carry the fight harder.<br/>
-
-<Divider text="Pug Strategy"/> 
-#### Build: Chaos  
-#### Weapons: sword/shield pistol  
-#### Skills: <Skill id="29519"/>
-
-<br/>
-
-### **100%-75%**
-
-Run in and wait for the boss to spawn, right before it becomes vulnerable use <Skill id="10191"/>+<Skill id="10190"/> to get some boons on youself , when the boss is vulnerable use <Skill id="10175"/> to proc passive <Skill id="10236"/> and then right before its first attack hits use your <Skill id="10192"/> to give Aegis to the group.
-
-You're now ready to cc the boss.
-
-#### **Be Fast**
-
-Get 1 clone up with sword 3, cast <Skill id="30643"/> and mid-cast use your <Skill id="29830"/>, proceed to use your <Skill id="29519"/> and then <Skill id="10236"/>.  
-**Be Fast**
-
-### **First Knight**
-
-You have every cooldown available, quickly use your <Skill id="30643"/> on the add, use your wells, swap to get your concentration proc , <Skill id="10236"/> and wait for your group to kill it.
-
-### **75%-50%**
-
-Your passive <Skill id="10236"/> should be up a few seconds after the bubble ends, try to keep track of the internal cooldown in your mind.
-
-Now this will sound a bit strange, but it's better if you don't fully break the cc bar during this phase, try to leave it at 10%/20% instead , get the boss to 50% HP and move to the next add.
-
-### **Second Knight**
-
-Use your <Skill id="30643"/> on this add as well (and <Skill id="10287"/> possibly), wait for your team and proceed to share boons once again and kill it.
-
-### **50%-25%**
-
-This is where you want to break the CC bar instantly (since we left it at 10%/20% before).
-This allows you to burst the boss hard to 25% and get to the last add before the fight gets annoying.
-
-### **Third Knight**
-
-#### **Be fast**
-
-If you have <Skill id="29830"/> : Use your <Skill id="29519"/> on it and press <Skill id="29830"/> in the middle of the cast so you can <Skill id="29519"/> both the add and the boss after (Also share some boons or cast wells inside <Skill id="29830"/>). Then proceed to destroy the add.
-
-If you don't have <Skill id="29830"/> : <Skill id="29519"/> the add , share boons and whatnot and kill it.  
-**Be fast**
-
-### **25%-0%**
-
-If you still have a <Skill id="29519"/>, Congratulations! It's your lucky day. <Skill id="29519"/> the boss, drop all the cc you have on it , share boons and kill it.
-
-If not, use your <Skill id="30643"/> and make sure it hits the boss , <Skill id="10287"/>, pray that your team CC's as well and finish the boss.
-
-<Divider text="Tryhard Strategy"/>
-Exactly the same as Pug MAMA, except you won't have <Skill id="29830"/> for the Third Add .
-Simply <Skill id="29519"/> the third add instantly and <Skill id="30643"/>+<Skill id="10287"/> MAMA on the 25 – 0 phase.
-
-**Note for Power Chronos:** You can swap <Skill name="Phantasmal Defender"/> with <Skill name="Mirror Images"/> if your group DPS is high enough.
-</Tab>
-
 <Tab specialization="warrior">
-Already place your banners (the more the merrier) after killing the third Assault Knight of MAMA's pre-event. Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>.
+**Organized**
+
+You can precast banners with the help of a <Item id="44642"/>. Open the portal on the slope (not at the flat area around the mistlock, but before), hop in, precast the banners and take your portal back. You are now free to run the dps setup for short fights.
+<Skills heal="blood reckoning" utility1="outrage" utility2="throw bolas" utility3="Signet of might" elite="headbutt"/>
+Remember to swap to <Trait id="2049"/>. 
+
+**General**
+
+Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. It is highly encouraged to go core warrior for CC. You can stay berserker if you are willing to counter the lack of cc with consumables. 
 
 ---
 
-### <Instability name="No Pain, No Gain"/> <Specialization name="Spellbreaker"/> (Dagger/Axe Mace/Axe)
-
-Start MAMA on Dagger/Axe. Use <Skill id="14402"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab" profession="Warrior"/>, block MAMA's spin attack with <Skill name="full counter" profession="Warrior"/> and continue with <Skill name="Skull Crack" profession="Warrior"/> (if <Skill id="14502"/> won't break MAMA's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill name="Whirling Axe" profession="Warrior"/>.
-
-For the Assault Knights every 25% use <Skill name="Skull Crack" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/> and <Skill id="14502"/> to break its Defiance bar and simultaneously remove its boons.
-
-As soon as MAMA is vulnerable use <Skill name="Skull Crack" profession="Warrior"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab"/>, block MAMA's spin attack with <Skill name="full counter" profession="Warrior"/> (if <Skill id="14502"/> won't break MAMA's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Dual Strike" profession="Warrior"/> and <Skill name="Whirling Axe" profession="Warrior"/>.
-
-At 25% utilize <Skill name="Winds of Disenchantment" profession="Warrior"/> for the last Assault Knight and simultaneously keeping MAMA from reapplying boons.
-
-<Message>
-Attacks reliably triggering <Skill name="full counter" profession="Warrior"/>: *MAMA's AoE spin*, *MAMA's spinning arms* (33%), *MAMA's jump attack* (33%) and *MAMA's ground smash attack* (33%).
-</Message>
-
----
-
-### without <Instability name="No Pain, No Gain"/> <Specialization name="Warrior"/> (Standard Axe/Axe Mace/Mace)
+### <Specialization name="Warrior"/> (Standard Axe/Axe Mace/Mace)
 
 Start MAMA on Mace/Mace. Instantly break MAMA's Defiance bar using <Skill id="14402"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/>, <Skill name="Skull Crack" profession="Warrior"/> (if <Skill id="14502"/> won't break MAMA's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/> and continue with standard rotation on Axe/Axe.
 
@@ -174,19 +70,15 @@ Fast Hands allows you to quickly adapt to what is currently needed in the encoun
 Keep an eye on MAMA's <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
 </Tab>
 
-<Tab specialization="weaver">
-Start the fight with <Skill id="5531"/> followed by the <Skill id="5494" disableText/>/<Skill id="5492" disableText/> opener if you have high damage or the <Skill id="5495" disableText/>/<Skill id="5492" disableText/> opener if you have low damage. Make sure to hit you <Skill name="Pyroclastic Blast"/> beside MAMAs hitbox since she will still be invulnerable while you cast it and as a projectile it despawn, if it does not hit the ground.
+<Tab specialization="Dragonhunter">
+**General**
 
-You should have a <Skill id="5624"/> available for each knight, hit them with <Skill id="5733"/> and <Skill id="5725"/> if ready (do not use <Skill id="5725"/> on MAMA if she is only 2-3% away from becoming invulnerable). You can pre cast <Skill id="5733"/> while the adds spawn. You will hit the knight as long as you are in his hitbox while finishing the cast even though you do not have him in target.
-
-Make sure to place your weapons in places where you can pick the up again. The first set in the middle or the second add and the second <Skill id="5624"/> to the third add.
-
-You can use <Skill id="5697"/> or <Skill id="5680"/> to reach the blue barrier faster, ideally while getting as many hits in the bosses hitbox as possible.
+- You can precast traps on the adds and force your team to gg.
+- Do not use traps on the adds
+- Strategically cast your bane signet 
+- Start on Scepter/Sword
 </Tab>
 
-<Tab specialization="druid">
-If you have problems with incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.
-</Tab>
 </Tabs>
 
 ---
