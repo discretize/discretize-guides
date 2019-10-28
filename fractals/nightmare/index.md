@@ -86,7 +86,7 @@ Keep an eye on MAMA's <Condition name="vulnerability"/> stacks and use <Skill na
 <Grid>
 <GridItem sm="8">
 ## First set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
-You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.    
+Swap your weopen set to <Item name="Impact"/> and <Item name="Serpentslaying"/>. You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.    
 Learn the *Red Orb* patterns as they can quickly kill you, *Blue Orbs* will heal you for a large amount of health (even with Agony).    
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
 </GridItem>
@@ -97,7 +97,7 @@ On a side note, more players do not cap an altar faster. More than one person st
 
 ## Second set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
 
-Again, pull all enemies to the center (wait for the <Specialization name="mesmer"/> to cast <Skill id="10186"/>) and kill them there. The mobs at the left altar (West) can be aggroed with a simple projectile, the mobs on the right side (East) need to be pulled with <Skill id="14381"/> (Longbow), <Skill id="5491"/> (Staff) or by teleporting up and jumping down.
+Again, pull all enemies to the center (wait for the <Specialization name="Firebrand"/> to cast <Skill id="9147"/>) and kill them there. The mobs at the left altar (West) can be aggroed with a simple projectile, the mobs on the right side (East) need to be pulled with <Skill id="14381"/> (Longbow), <Skill id="14575"/>, <Skill id="5491"/> (Staff) or by teleporting up and jumping down.
 
 Both side altars can easily be capped by a single person after another player has pulled down the mobs. Please note that you have to wait until the mobs are down before teleporting elsewhere to prevent them from running back.
 
@@ -105,13 +105,9 @@ Contrary to the first set of altars, respawning _Veteran Hallucinations_ counter
 
 After you capped all three altars, use `/gg` immediately if someone in the party needs it, then you can continue up to the 2nd boss. Before the ramp up, a group of Krait will attack you - simply keep walking to skip them. Use dodges, evades or invulnerables to get through the cascading orbs and disable them by walking through the orb at the top of the ramp.
 
+Usually a single person with high mobility (<Specialization name="Warrior"/>, <Specialization name="Dragonhunter"/>, <Specialization name="Soulbeast"/>, <Specialization name="Weaver"/>) and <Item name="endlesschoyapinatatonic"/> or <Item id="49940"/> skips to Siax while the rest of the party stays dead. Trigger Siax and wait for Siax to appear, then `/gg` aswell.
+
 <Tabs>
-<Tab specialization="chronomancer">
-Use <Skill id="10363"/> to pull mobs together.
-
-You can <Skill id="10200"/> and aggro the Krait at the eastern altar during <Skill id="29830"/> if you're fast. Afterwards teleport up to one of the altars as soon as someone pulled the mobs down.
-</Tab>
-
 <Tab specialization="weaver">
 <Skill id="5738"/> is very strong against the groups of Krait.
 
@@ -125,117 +121,50 @@ If the person who pulled your side ported up the other side to fast and the mobs
 <Tab specialization="warrior">
 Exchange <Skill id="14502"/> for <Skill name="on my mark" profession="Warrior"/> and already swap to your weapon sets with Superior Sigil of Serpent Slaying.
 
----
+At the first set of altars draw the Elite Nightmare Hypnoss with <Skill name="on my mark" profession="Warrior"/> to the narrow corridor so that the <Specialization name="Firebrand"/> can pull them together with <Skill name="Binding Blade"/> and disable them with <Skill name="Tremor" profession="Warrior"/>. Assist in killing the Elite Nightmare Hypnoss and capturing one of the two altars. 
 
-### <Instability name="No Pain, No Gain"/> <Specialization name="Spellbreaker"/> (Standard Dagger/Axe Greatsword)
+At the second set of altars, wait for your <Specialization name="Firebrand"/> to pull them together with <Skill name="Binding Blade"/> and disable the Elite Nightmare Hypnoss with <Skill name="Tremor" profession="Warrior"/>. Immediately move close to the altar on the right side and pull the Elite Nightmare Hypnoss occupying the altar to the mid by using <Skill name="on my mark" profession="Warrior"/>. Assist in killing the remaining Elite Nightmare Hypnoss and capture the mid altar respectively.
+</Tab>
+<Tab specialization="dragonhunter">
+Use <Skill name="Binding Blade"/> and <Skill name="Dragonsmaw"/> excessively to pull as many mobs as possible. 
 
-At the first set of altars draw the Elite Nightmare Hypnoss with <Skill name="on my mark" profession="Warrior"/> to the narrow corridor so that the Chronomancer can pull them together with <Skill name="Into the void" profession="Mesmer"/>. Assist in killing the Elite Nightmare Hypnoss and capturing one of the
-altars. At the second set of altars, use <Skill name="Winds of Disenchantment" profession="Warrior"/> on your Chronomancer's <Skill name="temporal curtain" profession="Mesmer"/> and move close to the altar on the right side. Pull the Elite Nightmare Hypnoss occupying the altar to the mid by using <Skill name="on my mark" profession="Warrior"/>
-and assist in killing them and capturing the mid altar respectively.
-
----
-
-### without <Instability name="No Pain, No Gain"/> <Specialization name="Warrior"/> (Axe/Axe Greatsword)
-
-At the first set of altars draw the Elite Nightmare Hypnoss with <Skill name="on my mark" profession="Warrior"/> to the narrow corridor so that the Chronomancer can pull them together with <Skill name="Into the void" profession="Mesmer"/> and disable them with <Skill name="Tremor" profession="Warrior"/>. Assist in killing the Elite Nightmare Hypnoss
-and capturing one of the two altars. At the second set of altars, wait for your Chronomancer's <Skill name="temporal curtain" profession="Mesmer"/> and disable the Elite Nightmare Hypnoss with <Skill name="Tremor" profession="Warrior"/>. Immediately move close to the altar on the right side and pull the Elite
-Nightmare Hypnoss occupying the altar to the mid by using <Skill name="on my mark" profession="Warrior"/>. Assist in killing the remaining Elite Nightmare Hypnoss and capture the mid altar respectively.
+At the second set of altars use your <Skill name="Huntersverdict"/> to pull out the Elite Nightmare Hypnoss occupying the center circle. Make sure, that there are no projectil blocking Skills from enemies present.
 </Tab>
 </Tabs>
 
 ---
 
 ## Siax the Corrupted <Item id="50082" disableText/><Item id="24658" disableText/><Label>6,138,797 HP</Label>
+Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before approaching the red orb and starting the fight.
 
-After the interaction with the red orb in the center of the area, quickly move back to the _Mistlock Singularity_ to avoid aggro from the spawning enemies and stack <Boon name="might"/>. (Now that the mistlock resets cooldowns, <Specialization name="chronomancer"/> can prestack boons and use the mistlock)
-
-During the fight, break his defiance bar (2000 CC damage) as fast as possible to interrupt his _Caustic Explosion_ skill. Siax will wipe your party if you fail to interrupt it with enough crowd control. Pay attention to his bouncing orb barrages, the _Vomit Toxin_ and the exploding _Volatile Hallucinations_ (below 75% health). Do not stand in the red PBAoE when the inner circle reaches the outer to avoid spawning a _Nightmare Hallucination_.
+During the fight, break his defiance bar (2000 CC damage) as fast as possible to interrupt his _Caustic Explosion_ skill. Siax will wipe your party if you fail to interrupt it with enough crowd control. Pay attention to his bouncing orb barrages, the _Vomit Toxin_ and the exploding _Volatile Hallucinations_ (below 75% health). Do not stand in the red PBAoE when the inner circle reaches the outer to avoid spawning a _Nightmare Hallucination_. Watch your buffs: the <Specialization name="Firebrand"/> should give you <Boon name="Aegis"/>, which blocks this attack and requires no further action from your side.
 
 When Siax reaches 66% health, he gains <Effect name="invulnerability"/> and four _Echoes of the Unclean_ will spawn in the North, East, South and West which need to be killed quickly to interrupt his _Caustic Explosions_. The same occurs at 33%, though the adds will have their spawning positions shifted clockwise.
 
-Assign players to each add before the fight starts by setting waypoints. The <Specialization name="mesmer"/> and <Specialization name="druid"/> will usually focus on one mob together due to their lower DPS.
+Assign players to each add before the fight starts by setting waypoints. The <Specialization name="firebrand"/> and <Specialization name="renegade"/> will usually focus on one mob together due to their lower DPS.
 
 <Image src="./images/siax.jpg" caption="Siax the Corrupted"/>
 
 <Tabs>
-<Tab specialization="chronomancer">
-#### Build: Chaos     
-#### Weapons: sword/shield- greatsword/staff     
-#### Skills: <Skill id="21750"/>, <Skill id="29519"/>
-
-### You want to play GS or Staff on this boss because:
-
-1. As soon as the boss spawns you can instantly share boons with either <Skill id="10221"/> or <Skill id="10216"/>.
-2. You generate an extra clone that will be very useful for your <Skill id="29830"/> by using <Skill id="10310"/> or <Skill id="10333"/>.
-
-<Divider text="Pug Strategy"/>
-### **100%-66%**  
-As soon as the boss spawns you will use <Skill id="10191"/> + <Skill id="10190"/> to get boons up and share using passive <Skill id="10236"/> (<Skill id="10221"/> or <Skill id="10216"/> depending on what you're running).
-
-You will also use <Skill id="10333"/> or <Skill id="10310"/> to get the extra clone we talked about.
-
-You're then going to swap to sword, use <Skill id="10173"/> to get an extra clone up and then quickly:
-
-<Skill id="30643"/>(MID <Skill id="29830"/>) -> <Skill id="10236"/> -> <Skill id="29519"/>+<Skill id="10287"/>(the cc bar will be up by now) -> Both Wells -> <Skill id="29830"/> END -> <Skill id="10236"/>
-
-### **First Split**
-
-You will help your <Specialization name="Warrior"/> (or a <Specialization name="weaver"/>) kill his add in this phase and go back to the boss waiting for it to get vulnerable again.
-
-### **66%-33%**
-
-Cast your wells and <Skill id="10236"/> as soon as it's off cooldown, also try to distort (<Skill id="10192"/>) the circle attack so that your group can keep doing dps without having to dodge.
-
-Generally pug's dps is low so it's likely that you will get another breakbar in this phase, if the boss' HP is above 40% I suggest you try to break it using your <Skill id="30643"/>+<Skill id="10287"/>, if it's below 40% try to dps the boss to 33% so that the breakbar will disappear.
-
-### **Second Split**
-
-You will help your <Specialization name="Warrior"/> (or a <Specialization name="weaver"/>) kill his add in this phase and go back to the boss waiting for it to get vulnerable again.
-
-### **33%-0%**
-
-When you get back to the boss you have to share with <Skill id="10236"/> and cast both wells, then there are 2 possibilities:
-
-> If you saw no cc bar on the 66 – 33 phase, the cc bar in this phase will be up very soon, so distance yourself from the boss, when its up cast <Skill id="30643"/> (make sure you're still in range), <Skill id="29519"/>, <Skill id="10287"/> and either <Skill id="10220"/> or <Skill id="10169"/> depending on what you're playing.
-
-> If you did cc during 66 – 33 , the next bar will be very delayed and you can simply share boons, wait and cc using <Skill id="30643"/>+<Skill id="29519"/>+<Skill id="10287"/> when the bar is up.
-
-It's not always the same, so you need to become versatile because chrono does not work on a rotation basis, but if you keep these steps in mind you should be fine.
-
-<Divider text="Tryhard Strategy"/>
-The only difference here is that with good dps you will not get a breakbar during the 66 – 33 phase.  
-Keep <Skill id="29519"/> and <Skill id="30643"/> for the 33 – 0 phase to instantly break the bar and kill the boss.  
-If you do get a breakbar in phase 2 `\gg`->leave party and search for a better group.
-</Tab>
-
 <Tab specialization="warrior">
-Set a personal Waypoint at one of the four places where Echoes of the Unclean will spawn at 66% (Warrior usually takes North). Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. If your group does one /gg at Siax, 
-already place banners (the more the merrier). If not, just cast banners while running towards Siax. If additional Defiance bar damage is needed make use of <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>.
+**Organized**
 
----
+You can precast banners if the bossfight will be below 55 seconds. Open a <Item id="44642"/> at the boss to start the fight faster after precasting. You are now free to run the dps setup for short fights.
+<Skills heal="blood reckoning" utility1="outrage" utility2="throw bolas" utility3="Signet of might" elite="headbutt"/>
+- Remember to swap to <Trait id="2049"/>. 
+- Use <Skill name="Whirling Axe"/> to gain Adrenalin and engage <Skill name="Berserk"/> as soon as possible. 
+- Use <Skill name="Headbutt"/> to CC and break the stun with <Skill name="Outrage"/>. Use this combo asap to keep up <Skill name="Berserk"/>. 
+- Use <Skill name="Throw Bolas"/> before casting <Skill name="Whirling Axe"/> to maximize dps. 
+- Use <Skill name="Blood reckoning"/> on cooldown.
+- Use a Rifle to kill your add without loosing time. Use <Skill name="gunflame"/>, <Skill name="volley"/> and a couple autos to get the job done. A greatsword also works out great.
 
-### <Instability name="No Pain, No Gain"/> <Specialization name="Spellbreaker"/> (Standard Dagger/Axe Greatsword)
+**General**
 
-Start channeling <Skill name="Winds of Disenchantment" profession="Warrior"/> while running towards Siax. Engage with <Skill id="14402"/>, <Skill id="14502"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/> (cancel in Skorvald's hitbox by using weapon swap), <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/> and as soon as Siax begins channeling Caustic Explosion use <Skill name="Disrupting Stab" profession="Warrior"/> (if <Skill id="14502"/> won't break Siax's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill id="14547"/> and <Skill name="Hundred Blades" profession="Warrior"/>.
+Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. 
 
-At 66% use <Skill name="Rush" profession="Warrior"/> to close the gap to the Echo
-of the Unclean (not affected by No Pain No Gain) and kill it with <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/> and <Skill name="Whirlwind Attack" profession="Warrior"/>.
+If additional Defiance bar damage is needed make use of <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>.
 
-After killing the Echo of the Unclean immediately swap to Dagger/Axe, assist at any of the other Echoes of the Unclean if necessary and strip Siax's boons by using <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Disrupting Stab" profession="Warrior"/> and <Skill id="14502"/> and continue with standard rotation.
-
-Repeat for Echoes of the Unclean spawning at 33%.
-
-<Message> 
-Attacks reliably triggering <Skill name="full counter" profession="Warrior"/>: *Summon Nightmare Hallucination* (risky), *Tail Lash* and the *explosion of the Volatile Hallucinations*.
-</Message>
-
----
-
-### without <Instability name="No Pain, No Gain"/> <Specialization name="Warrior"/> (Standard Axe/Axe Greatsword)
-
-Begin with <Skill id="14402"/>, <Skill name="Bladetrail" profession="Warrior"/>, <Skill id="14502"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/> (cancel in Skorvald's hitbox by using weapon swap), <Skill name="Throw Axe" profession="Warrior"/>, <Skill name="Cyclone Axe" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill id="14502"/>, <Skill name="Whirling Axe" profession="Warrior"/>.
-
-Use <Skill name="Rush" profession="Warrior"/> at 66% and 33% to close the gap to the Echo of the Unclean and follow just follow standard rotation.
+Kill your add as fast as possible and return to the boss. You do not wanna miss the time the boss is invulnerable or your dps will suffer. 
 </Tab>
 
 <Tab specialization="weaver">
@@ -256,10 +185,13 @@ If you play with three weavers split your <Skill id="5737"/> so you have one eac
 If you want to try hard play air instead of arcane, use <Skill id="21656" /> and pre cast <Skill id="5501"/> before the fight to have it ready fast enough in phase 2 and 3.
 </Tab>
 
-<Tab specialization="druid">
-If you have problems with the incoming damage, swap <Skill id="12497"/> with <Skill id="12495"/> to grant <Boon name="protection"/> to the party.
-
-If you have trouble with the orbs leaving toxic trails, position yourself away from the boss to keep them from the melee area as he throws them on the furthest player (especially recommended if you party has low DPS).
+<Tab specialization="Dragonhunter">
+**General**
+- Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reson why dragonhunter is very strong at this boss. Do not miss this.
+- Save some <Skill id="9168"/> for a quicker add kill. 
+- It is benefical to take a sword here to quickly blink to the add.
+- Use <Skill name="Wings of resolve"/> to navigate around and keep your HP up.
+- Use <Skill name="Bane Signet"/> to help with CC and buff your party.
 </Tab>  
 </Tabs>
 
@@ -269,7 +201,7 @@ If you have trouble with the orbs leaving toxic trails, position yourself away f
 
 <Grid>
 <GridItem>
-Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="might"/> next to the mistlock. (Now that the mistlock resets cooldowns, <Specialization name="chronomancer"/> can prestack boons and use the mistlock). Go into the arena, when you start the fight don't stand in the center area of the platform on activation or you will receive a <Control name="knockback"/>.
+Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before starting the fight. Go into the arena; when you start the fight don't stand in the center area of the platform on activation or you will receive a <Control name="knockback"/>.
 
 Nearly all of Ensolyss' attacks do a <Control name="knockback"/> or <Control name="pull"/>, learn to dodge or walk out of every attack. The most dangerous one is his shockwave-shatter combo, he smashes down a stunning yellow shockwave (like MAMA below 33% health), spawns hallucinations on each players position and shatters them after two seconds.
 
@@ -296,55 +228,6 @@ Below 33%, he may summon a special shockwave which travels inwards to him (contr
 When Ensolyss reaches 15% health, he will stop using his usual attacks, but only a small bubble in the middle will protect you from his deathly rain. Krait will charge through the middle (indicated by large arrows on the ground) and make positioning harder, kill Ensolyss quickly to finish the fractal.
 
 <Tabs>
-<Tab specialization="chronomancer">
-
-#### Build: Chaos
-
-#### Weapons: sword/shield - staff
-
-#### Skills: <Skill id="30305"/>, <Skill id="29519"/>
-
-The only "challenging" part about this boss for you is the opener as it will require a bit of good timing and mechanical skill, you can even practice this part alone on the boss if you want to.
-
-<Divider text="Pug Strategy"/>
-### **100%-66%**  
-When the boss spawns, wait a few seconds for it to get vulnerable then:
-
-1. Very quickly <Skill id="10191"/>+<Skill id="10190"/> to get boons up and <Skill id="10216"/> to proc passive <Skill id="10236"/>
-2. Swap to sword and cast <Skill id="10337"/> on the boss
-3. Go inside the bubble
-4. <Skill id="30643"/> and while you cast it use <Skill id="29830"/>
-5. <Skill id="10236"/> + both Wells
-6. <Skill id="29519"/>+<Skill id="10287"/>
-7. Share the rest of your boons and get read for the boss to do his orange circle attack and distort that using <Skill id="10192"/>
-
-If you do this correctly, the 2 Phantasms from <Skill id="10216"/> will expire when you're inside your <Skill id="29830"/>, giving you 2 more clones to CC with using your <Skill id="10287"/>.
-
-(Make sure you're not doing this rotation too fast or you will CC to soon missing the breakbar)
-
-Don't use your <Skill id="29519"/> for the rest of this phase.
-
-### **66%-33%**
-
-(It gets easier now)  
-As soon as you're back on the boss, Use <Skill id="10236"/> and after that both wells, then CC the boss with the help of your friends.  
-Wait for the bubble, and when the next breakbar is up your <Skill id="29830"/> should be up as well.  
-Simply do your whole rotation in <Skill id="29830"/> without forgetting to squeeze in <Skill id="29519"/> and <Skill id="30643"/> to CC the second bar.
-
-### **33%-0%**
-
-Use <Skill id="10236"/> and after that both wells, then CC the boss with the help of your friends. If you do not have friends remember that <Item id="8664"/>s, <Item id="8759"/>s and <Item id="8678"/>s will never betray you.
-
-<Divider text="Tryhard Strategy"/>
-Again, the opening on this fight is exactly the same as pug Enso.  
- At 66% you will not have access to your <Skill id="29830"/> so you can keep it for 33% to double <Skill id="30643"/> / <Skill id="10236"/>.
-
-> On the first bar at 66% you will want to <Skill id="30643"/> and <Skill id="10287"/> , and for the second one use <Skill id="29519"/> and <Skill id="10169"/>.
-
-You want to break both bars so that the boss will stay stunned during the whole phase so that you won't lose time by getting the bubble spawn ( Your group dps has to be high in order to achieve this).
-
-</Tab>
-
 <Tab specialization="warrior">
 Place banners already on Ensolyss's platform if your group does one /gg before. Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>.
 
@@ -353,24 +236,25 @@ If additional Defiance bar damage is needed make use of <Item id="8664"/>, <Item
 
 ---
 
-### <Instability name="No Pain, No Gain"/> <Specialization name="Spellbreaker"/> (Dagger/Axe Greatsword)
+### <Specialization name="Berserker"/> (Standard Axe/Axe Mace/Mace)
+There are some interesting weopen choices: if your team manages CC you can take an offhand torch for more dps. 
 
-Start channeling <Skill name="Winds of Disenchantment" profession="Warrior"/> while Ensolyss is spawning. Open your rotation with <Skill name="Bladetrail" profession="Warrior"/>, <Skill id="14402"/>, <Skill id="14502"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/>, <Skill name="Whirlwind Attack" profession="Warrior"/> (cancel in Skorvald's hitbox by using weapon swap), <Skill name="Breaching Strike" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/> and as soon as Nightmare Devastation ends use <Skill name="Disrupting Stab" profession="Warrior"/> (if <Skill id="14502"/> won't break Ensolyss's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Breaching Strike" profession="Warrior"/>, <Skill id="14547"/>, <Skill name="Hundred Blades" profession="Warrior"/> and follow standard rotation.
+Remember to swap back to <Trait id="1977"/>. Use Headbutt and <Skill name="Berserk"/> asap to break him before the first dome appears. Spam your <Skill id="30851"/> like usual. It should phase right after your <Skill name="berserk"/> runs out. 
 
-At 66% and 33% swap to Dagger/Axe and capture one of the five altars. After capturing all five altars remove Ensolyss's boons with <Skill id="14502"/> and <Skill name="Breaching Strike" profession="Warrior"/> or pre-cast <Skill name="Winds of Disenchantment" profession="Warrior"/> while Ensolyss is
-returning.
+**66% and 33%**
 
-Once Ensolyss's Defiance bar appears, immediately use Disrupting Strike, <Item id="8677"/>, <Item id="8749"/>, <Skill id="14502"/> and continue standard rotation until the second Defiance bar appears.
+Pick up your banners and swap to your off set. After everyone capped their circle, try to blast a fire field with your banners.
 
-Break it with <Item id="8664"/>, <Item id="8677"/>, <Item id="8749"/>, <Skill id="14502"/> and resume standard rotation.
-
-<Message> 
-Attacks reliably triggering <Skill name="full counter" profession="Warrior"/>: *Serpent Strike*, *Tail Lash*, *Lunge* (the dash), *Upswing* (either <Skill name="full counter" profession="Warrior"/> Ensolyss's Attack or Nightmare Hallucinations), *Tormenting Blast*, *Caustic Grasp* and *Charge of the Nightmare Hallucinations* below 15%.
-</Message>
+Opening:
+- <Skill name="crushing blow" profession="Warrior"/> to stack <Condition name="vulnerability"/>
+- <Skill name="Mending"/>
+- <Skill name="Tremor"/>
+- <Skill name="Headbutt"/>
+- <Skill name="Berserk"/>
 
 ---
 
-### without <Instability name="No Pain, No Gain"/> <Specialization name="Warrior"/> (Standard Axe/Axe Mace/Mace)
+### <Specialization name="Warrior"/> (Standard Axe/Axe Mace/Mace)
 
 Begin the encounter on Axe/Axe with <Skill id="14402"/>, <Skill id="14502"/>, <Skill name="Eviscerate" profession="Warrior"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill name="Throw Axe" profession="Warrior"/>, <Skill name="Cyclone Axe" profession="Warrior"/> and immediately swap to Mace/Mace to break Ensolyss's Defiance bar with <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/> and <Skill name="Skull Crack" profession="Warrior"/>.
 
