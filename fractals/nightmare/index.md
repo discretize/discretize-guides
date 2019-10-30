@@ -1,6 +1,6 @@
 ﻿---
 title: 'Nightmare'
-date: '2019-10-27'
+date: '2019-10-29'
 image: './images/ensolyss_crazy.jpg'
 group: 'Challenge Mode'
 api: 3177
@@ -48,6 +48,58 @@ When MAMA reaches 33%, it conjures a large _Nightmare Miasma_ field around it wh
 Fast crowd control and animation knowledge are the keys to this fight.
 
 <Tabs>
+<Tab specialization="Renegade">
+WIP
+</Tab>
+
+<Tab specialization="Firebrand">
+WIP
+</Tab>
+
+<Tab specialization="Soulbeast">
+Dont play <Specialization name="Soulbeast"/> on this boss. Its garbage. 
+
+
+**Precast**  
+Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>. Before you cast <Skill id="5531"/> and <Skill name="Barrage"/> you wanna share <Skill name="One wolf pack"/> with <Trait name="leaderofthepack"/> and then swap back to <Trait name="oppressivesuperiority"/>. 
+
+**Opening**  
+You wanna do a modified Greatsword rotation: 
+- <Skill name="Maul"/> and <Skill name="Sicem"/> during the cast
+- <Skill name="Worldly impact"/>
+- <Skill name="Path of scars"/>
+- <Skill name="Whirling defense"/>
+- if it is not phased yet you should ragequit.
+
+**1st Add**  
+Help CCing with <Skill id="45743"/> and autoattack the add to death with your sword.
+
+**2nd phase**  
+When you go back back to MAMA swap to gs and use:
+- <Skill name="Maul"/>
+- <Skill name="hiltbash"/>
+- <Skill name="Maul"/>
+- <Skill id="41524"/> (dont use <Skill name="Sicem"/> here)
+
+**2nd Add**  
+Help CCing with <Skill id="45743"/> and use a mix of <Skill name="Maul"/> and autoattacks to kill it.
+
+**3rd phase**  
+In phase 3 you do same rotation as in p1 (although you can do the full gs rotation if you have hilt bash off cd).
+MAMA should phase while you're casting your <Skill name="Whirling defense"/>, then do <Skill name="Monarchs Leap"/> for free evade away from the poison field and to get to the add faster.
+
+**3rd Add**  
+On this add you wanna swap to gs as soon as possible. Do the same thing as before. Save your <Skill id="45743"/>.
+
+**4th phase**  
+In this phase you can help with cc by doing <Skill name="Hilt bash"/> and <Skill id="45743"/> otherwise just normal gs rotation.
+
+</Tab>
+
+<Tab specialization="Weaver">
+WIP
+</Tab>
+
 <Tab specialization="warrior">
 **Organized**
 
@@ -146,6 +198,18 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
 <Image src="./images/siax.jpg" caption="Siax the Corrupted"/>
 
 <Tabs>
+<Tab specialization="Renegade">
+WIP
+</Tab>
+
+<Tab specialization="Firebrand">
+WIP
+</Tab>
+
+<Tab specialization="Soulbeast">
+WIP
+</Tab>
+
 <Tab specialization="warrior">
 **Organized**
 
@@ -228,13 +292,19 @@ Below 33%, he may summon a special shockwave which travels inwards to him (contr
 When Ensolyss reaches 15% health, he will stop using his usual attacks, but only a small bubble in the middle will protect you from his deathly rain. Krait will charge through the middle (indicated by large arrows on the ground) and make positioning harder, kill Ensolyss quickly to finish the fractal.
 
 <Tabs>
+<Tab specialization="Renegade">
+WIP
+</Tab>
+
+<Tab specialization="Firebrand">
+WIP
+</Tab>
+
+<Tab specialization="Soulbeast">
+WIP
+</Tab>
+
 <Tab specialization="warrior">
-Place banners already on Ensolyss's platform if your group does one /gg before. Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>.
-
-If additional Defiance bar damage is needed make use of <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>. During the altar capture phase at 66% and 33%
-<Skill id="14402"/> comes in very handy here to refill your adrenaline, endurance and health.
-
----
 
 ### <Specialization name="Berserker"/> (Standard Axe/Axe Mace/Mace)
 There are some interesting weopen choices: if your team manages CC you can take an offhand torch for more dps. 
@@ -293,7 +363,4 @@ Keep in mind that in the long break phases especially with double cc <Skill id="
 The only difference to the normal run is that you want your dps to be good enough to prevent the charge in p1. Preventing the first bubble in p2 and preventing the port in p3. But with the last weaver nerfs all those marks are now very hard to hit.
 </Tab>
 
-<Tab specialization="druid">
-Use <Skill id="43636"/> from your Rock Gazelle for the first defiance bar and <Skill id="31639"/> from your Electric Wyvern pet for the second defiance bar. Use consumables if your team is short of CC.
-</Tab>    
 </Tabs>
