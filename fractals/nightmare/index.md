@@ -207,7 +207,44 @@ WIP
 </Tab>
 
 <Tab specialization="Soulbeast">
-WIP
+**General**
+- You can take <Skill name="Bearstance"/> for condi cleanse instead of <Skill name="Wehealasone"/>.
+- In organized groups its worth it to take <Skill name="Frosttrap"/> over <Skill name="Signetofthewild"/>.
+- In organized groups you can take longbow and use <Trait name="Leaderofthepack"/>
+
+**Precast**  
+Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>. Share <Skill name="One wolf pack"/> and take the mistlock.
+
+**Opening**  
+You wanna do following opening: 
+- Summon <Skill name="Frostspirit"/> as he triggers
+- <Skill name="Frosttrap"/> so you have two of those ticking at the same time.
+- <Skill name="Sicem"/> 
+- <Skill name="Barrage"/>
+- CC: <Skill id="45743"/> and <Skill name="Pointblankshot"/>
+- <Skill name="Rapidfire"/>
+- You shouldnt use <Skill name="Whirling defense"/> in phase 1.
+ 
+**1st Add**  
+Use <Skill id="12622"/> to get to the add quickly. Kill it with  <Skill name="Path of scars"/> and <Skill name="Whirling defense"/>. If your group sucks, you can save your important dps skills and kill the mob with a mix of AA and F1/F2s. The weaver should help you anyway.
+
+**Phase 2**  
+Use <Skill name="onewolfpack"/> in the middle. AA as as all your skills are on CD.
+
+**2nd Add**  
+Use longbow here. <Skill name="pointblankshot"/> and <Skill name="rapidfire"/> should do the trick. The remaining damage should be dealt by the <Specialization name="Dragonhunter"/> with a <Skill name="Swordofjustice"/>.
+
+If you are using GS do GS2, 5, 2, F1, F2 to kill the add.
+
+**Phase 3**  
+Longbow:
+- <Skill name="Barrage"/> on Siax
+- <Skill name="Frost trap"/>
+- <Skill name="Path of scars"/> and <Skill name="Whirling defense"/>
+
+Greatsword:
+- <Skill name="Worldlyimpact"/> 
+- <Skill name="Path of scars"/> and <Skill name="Whirling defense"/>
 </Tab>
 
 <Tab specialization="warrior">
@@ -301,7 +338,17 @@ WIP
 </Tab>
 
 <Tab specialization="Soulbeast">
-WIP
+utilities we heal as one frost spirit signet of the wild/moa stance sicem and one wolf pack
+you should run stance share here
+weapons sword axe and a longbow
+if you have good group and the fb goes dh with fmw you should take moa stance for quickness and use it at the start of every phase. If this is not the case you should use signet of the wild
+as he's spawning u wanna do fgs5 and lb 5 then do f2 and lb4 for insta cc owp sicem and lb2 f3 axe 4 5 and if you have a kind weaver who uses lh you should pick it up and use lh 4 after finish axe 5
+then do lh autos until you can do axe 4 again
+by this time he should be phased
+for orbs you can use we heal as one for more alacrity, other than that just dont die
+for the start of p2 and p3 you do one wolf pack (fgs 5 atleast 1 of these phases the weaver should give an fgs) lb5 sic'em lb4 f2 to help with cc then lb2 axe 45 take the lh if there is one and use lh4 and autos
+
+
 </Tab>
 
 <Tab specialization="warrior">
