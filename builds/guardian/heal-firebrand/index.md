@@ -1,6 +1,6 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2019-10-24'
+date: '2019-10-30'
 rating: 'Good'
 role: 'Support'
 profession: 'Guardian'
@@ -30,11 +30,11 @@ Yes, you can play full harrier - however you will loose some healing power.
 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Harrier" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Harrier" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk"/>
+<Armor weight="Heavy" helmAffix="Minstrel" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Minstrel" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk"/>
 </GridItem>
  
 <GridItem sm="4">
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon2MainType="Axe" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2OffType="Shield" weapon2OffAffix="Harrier" weapon2OffSigil="Concentration"/>
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Minstrel" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon2MainType="Axe" weapon2MainAffix="Minstrel" weapon2MainSigil1="Transference" weapon2OffType="Shield" weapon2OffAffix="Minstrel" weapon2OffSigil="Concentration"/>
 
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM
@@ -44,7 +44,7 @@ Yes, you can play full harrier - however you will loose some healing power.
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Cleric" accessory1Affix="Cleric" accessory2Affix="Cleric" amuletAffix="Harrier" ring1Affix="Cleric" ring2Affix="Harrier"/>
+<BackAndTrinkets backItemAffix="Minstrel" accessory1Affix="Minstrel" accessory2Affix="Minstrel" amuletAffix="Minstrel" ring1Affix="Minstrel" ring2Affix="Minstrel"/>
 
 <Consumables food="Delicious Rice Ball" utilityId="67528" infusion="Healing +9 Agony Infusion"/>
 </GridItem>
