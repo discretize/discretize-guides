@@ -1,6 +1,6 @@
 ﻿---
 title: 'Nightmare'
-date: '2019-10-29'
+date: '2019-10-30'
 image: './images/ensolyss_crazy.jpg'
 group: 'Challenge Mode'
 api: 3177
@@ -338,16 +338,31 @@ WIP
 </Tab>
 
 <Tab specialization="Soulbeast">
-utilities we heal as one frost spirit signet of the wild/moa stance sicem and one wolf pack
-you should run stance share here
-weapons sword axe and a longbow
-if you have good group and the fb goes dh with fmw you should take moa stance for quickness and use it at the start of every phase. If this is not the case you should use signet of the wild
-as he's spawning u wanna do fgs5 and lb 5 then do f2 and lb4 for insta cc owp sicem and lb2 f3 axe 4 5 and if you have a kind weaver who uses lh you should pick it up and use lh 4 after finish axe 5
-then do lh autos until you can do axe 4 again
-by this time he should be phased
-for orbs you can use we heal as one for more alacrity, other than that just dont die
-for the start of p2 and p3 you do one wolf pack (fgs 5 atleast 1 of these phases the weaver should give an fgs) lb5 sic'em lb4 f2 to help with cc then lb2 axe 45 take the lh if there is one and use lh4 and autos
+In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moastance"/> over <Skill name="Signet of the wild"/>. Use <Skill name="Moastance"/> at the beginning of each phase. Regardless what group you are playing with, you should be playing <Trait name="Leaderofthepack"/>. Longbow is superior to greatsword.
 
+**Opening**  
+- Right after Ensolyss spawns: <Skill id="5531"/> and <Skill name="Barrage"/>
+- <Skill id="45743"/>, <Skill name="Pointblankshot"/> for insta CC
+- <Skill name="onewolfpack"/>, <Skill name="sicem"/>
+- <Skill name="rapidfire"/>
+- <Skill name="worldlyimpact"/>
+- <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>
+- Pick up <Skill name="conjurelightninghammer"/> and use <Skill id="5725"/>
+- AA with <Skill name="conjurelightninghammer"/> until its phased or your <Skill name="pathofscars"/> is back up
+
+**Orb phase**  
+Use <Skill name="We heal as one"/> to keep up <Boon name="alacrity"/>. 
+
+**66% and 33%**  
+- <Skill name="onewolfpack"/>
+- <Skill id="5531"/> if available and <Skill name="Barrage"/>
+- <Skill name="sicem"/>
+- <Skill id="45743"/> and <Skill name="pointblankshot"/>
+- <Skill name="Rapidfire"/>
+- <Skill name="worldlyimpact"/>
+- <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>
+- Pick up <Skill name="conjurelightninghammer"/> and use <Skill id="5725"/>
+- AA with <Skill name="conjurelightninghammer"/> until its phased or your <Skill name="pathofscars"/> is back up
 
 </Tab>
 
