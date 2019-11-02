@@ -49,7 +49,70 @@ Fast crowd control and animation knowledge are the keys to this fight.
 
 <Tabs>
 <Tab specialization="Renegade">
-WIP
+**Legends**  <Skill name="LegendaryRenegadestance"/> and <Skill name="Legendaryassassinstance"/>
+
+---
+
+**Suggested Boon Duration** `50%`   
+
+Maintaining <Boon name="Alacrity"/> in this encounter does not requier higher boon duration due to the length of the fight. However, should your party drop <Boon name="Alacrity"/> you will have to adjust your boon duration to accomodate your team.  Low boon duration will have a significant impact on your personal damage output. 
+
+---
+
+**Relative Fight Duration** `0:53 Min`  
+
+The duration of the encounter heavily relies on how quickly your party can break the defiance bars throughout the fight, in addition to the amount of damage your party can generate in each phase. This is an average clear time and can be reached by organized teams as well as pick up groups. The outline below will be suitable for faster and slower kills as well.
+
+---
+
+
+**Precast**  
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlaps and grants twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast if needed.
+
+**100 - 75%**  
+
+* Cast <Skill name="DarkrazorsDaring"/> on MAMA as soon as the red cirlce appear. 
+* Cast <Skill name="IcerazorsIre"/> right before MAMA becomes vulnerable.
+* Use <Skill name="Surgeofthemists"/> to break the defiance bar. Be aware of your positioning to gain an additional hit. 
+* Weapon swap and change to <Skill name="LegendaryAssassinstance"/> to gain the extra energy from the trait <Trait name="ChargedMists"/>. 
+* Activate <Skill name="Impossibleodds"/>, use <Skill name="citadel bombardment"/> and <Skill name="PrecisionStrike"/> before sharing <Boon name="Alacrity"/> with <Skill name="OrdersfromAbove"/>.
+
+**1st Add**   
+* Use <Skill name="Shackling Wave"/>. 
+* Change to <Skill name="Legendary Renegade stance"/> to use <Skill name="Heroic Command"/> to share <Boon name="might"/>.
+
+**75-50%** 
+* Cast <Skill name="SoulcleavesSummit"/>  and <Skill name="Icerazorâ€™s Ire"/> on MAMA.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when off cooldown. 
+* Weapon swap to staff near the end of the phase.
+
+**2nd Add**  
+* Precast <Skill name="Darkrazorâ€™s Daring"/> where the add will spawn.
+* Change to <Skill name="Legendary Assassin stance"/>. 
+* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+
+
+**50-25%**  
+* Use <Skill name="Surge of the Mists"/> through MAMA, and weapon swap to swords. 
+* Activate <Skill name="Impossible Odds"/>, cast <Skill name="Citadel Bombardment"/> and <Skill name="Precision Strike"/>. 
+* Change to <Skill name="Legendary Renegade stance"/> for the upcoming add.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when off cooldown.
+
+**3rd Add**  
+* Precast <Skill name="Darkrazorâ€™s Daring"/>, <Skill name="Icerazorâ€™s Ire"/>, and <Skill name="Soulcleaves Summit"/> where the add will spawn. 
+* Share <Boon name="might"/> with <Skill name="Heroic Command"/>. 
+* Weapon swap to staff when possible.
+
+**25-0%**  
+* Use <Skill name="Warding Rift"/> for MAMAs shockwaves. 
+* Using <Skill name="Surge of the Mists"/> through MAMA to break the defiance bar. 
+* Weapon swap and change to <Skill name="Legendary Assassin Stance"/>. 
+* Activate <Skill name="Impossible Odds"/>, cast <Skill name="Citadel Bombardment"/> and <Skill name="Precision Strike"/>.
+
+**Annotation**
+* If your second phase is fast you might want to deactivate <Skill name="Soulcleaves Summit"/> to have enough energy to share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> and precast <Skill name="Darkrazors Daring"/> on the second add.
+* If your second phase is slow you can let <Skill name="Soulcleaves Summit"/> deplete your energy, before replenishing enough energy to share <Boon name="Alacrity"/> and precast <Skill name="Darkrazors Daring"/> on the second add.
+* Adjust your weapon swap to staff in the second phase to accomodate the weapon swap back to swords for the burst in phase three.
 </Tab>
 
 <Tab specialization="Firebrand">
@@ -199,7 +262,68 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
 
 <Tabs>
 <Tab specialization="Renegade">
-WIP
+**Legends** <Skill name="LegendaryRenegadestance"/> and <Skill name="Legendaryassassinstance"/>
+
+---
+
+**Suggested Boon Duration** `40%`   
+
+Maintaining <Boon name="Alacrity"/> in this encounter does not requier higher boon duration due to the length of the fight. However, should your party drop <Boon name="Alacrity"/> you will have to adjust your boon duration to accomodate your team.  Low boon duration will have a significant impact on your personal damage output. 
+
+---
+
+**Relative Encounter Duration** `0:40 Min`  
+
+The duration of the encounter heavily relies on how much damage your group can generate in each phase and how quickly you can finish the adds. This is a rather fast clear time and can be reached by organized teams. Pick up groups might have a hard time reaching this duration, however the outline below is still suitable for slower kills.
+
+---
+
+**Precast**  
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlaps and grants twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast if needed.
+* Ask your <Specialization name="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation.
+
+**100 - 66%**   
+* Have your staff equipped and pick up the <Skill name="Conjure Frost Bow"/>.
+* Precast <Skill name="Darkrazorâ€™s Daring"/> and <Skill name="Icerazorâ€™s Ire"/> and change to <Skill name="Legendary Assassin Stance"/>.
+* Once the encounter begins activate <Skill name="Impossible Odds"/> and use <Skill name="Frost Storm"/>, <Skill name="Citadel Bombardment"/>, and <Skill name="Frost Fan"/>.
+* Change to <Skill name="Legendary Renegade Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>. 
+* Use <Skill name="Deep Freeze"/> and drop the <Skill name="Conjure Frost Bow"/>.
+* Immediately use <Skill name="Surgeofthemists"/> to finish of the defiance bar.
+* When you are through the hitbox weapon swap and use <Skill name="Precision Strike"/>.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>. 
+* Share <Boon name="might"/> at the end of the phase with <Skill name="Heroic Command"/>.
+
+**1st Add**  
+* Cast <Skill name="Icerazorâ€™s Ire"/> on your designated add. 
+* Use <Skill name="Shackling Wave"/> and <Skill name="Precision Strike"/> to finish off the add.
+* Cast <Skill name="Soulcleaves Summit"/> on Siax.
+* Use <Skill name="Deathstrike"/> to shadow step to Siax immediately. 
+
+**66-33%**  
+* Change to <Skill name="Legendary Assassin Stance"/>.
+* Cast <Skill name="Citadel Bombardment"/> and <Skill name="Precision strike"/>.
+* Share <Boon name="Alacrity"/> when <Skill name="Orders from Above"/> is off cooldown.
+* Share <Boon name="might"/> at the end of the phase with <Skill name="Heroic Command"/>.
+
+**2nd Add**  
+* Activate <Skill name="Impossible Odds"/> and use <Skill name="Precision strike"/> to kill your add quickly. 
+* Save <Skill name="Shackling Wave"/> for the next phase. 
+* Use <Skill name="Deathstrike"/> to shadow step back to Siax immediately.
+
+**33-0%**  
+* Use <Skill name="Shackling wave"/> to deplete your energy.
+* Change to <Skill name="Legendary Renegade Stance"/>
+* Cast <Skill name="Soulcleaves Summit"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Heroic Command"/>, and <Skill name="Icerazors Ire"/>.
+* Use <Skill name="Precision strike"/> and <Skill name="Shackling Wave"/> off cooldown until the encounter is finished.
+
+**Annotation**
+* If you do not have a <Skill name="Conjure Frost Bow"/> for your opening you can do the following:
+    * Precast <Skill name="Darkrazorâ€™s Daring"/> and <Skill name="Icerazorâ€™s Ire"/> and change to <Skill name="Legendary Assassin Stance"/>.
+    * Activate <Skill name="Impossible Odds"/>, cast <Skill name="Citadel Bombardment"/> and spend time autoattacking. 
+    * Change to <Skill name=" Legendary Renegade Stance"/> and use <Skill name="Surge of the mists"/> before continuing with the steps listed above.
+* In faster kills it might not be worth sharing <Boon name="Alacrity"/> in the first phase, rather wait until the beginnning of the second phase.
+* In slower kills you will have to swap to staff after the second add and use <Skill name="Surge of the mists"/> to break the defiance bar. Casting <Skill name="Darkrazors Daring"/> will also be beneficial in this circumstance.
+* If you are running higher boon duration you will have to use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> on your add to kill it quick enough in both phases.
 </Tab>
 
 <Tab specialization="Firebrand">
