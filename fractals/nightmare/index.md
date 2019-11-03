@@ -1,6 +1,6 @@
 ﻿---
 title: 'Nightmare'
-date: '2019-10-30'
+date: '2019-11-03'
 image: './images/ensolyss_crazy.jpg'
 group: 'Challenge Mode'
 api: 3177
@@ -33,9 +33,18 @@ Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your 
 
 <Image src="./images/mama.jpg" caption="MAMA: The first boss"/>
 
-## MAMA <Item id="50082" disableText/><Label>5,200,519 HP</Label>
+## MAMA <Label>5,200,519 HP</Label>
+|  |  |
+| -- | -- |
+| Encounter duration | 53s |
+| Sigils | <Item name="impact"/> <Item name="Force"/> |
+| Food | <Item id="43360"/> <Item name="powerfulpotionofslayingscarletsarmies"/>|
+| CC-bar MAMA | 1800 |
+| CC-bar adds | 800 |
 
-Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before jumping down. 
+Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before jumping down. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlcok to siax.
+
+The duration of the encounter heavily relies on how quickly your party can break the defiance bars throughout the fight, in addition to the amount of damage your party can generate in each phase. This is an average clear time and can be reached by organized teams as well as pick up groups. The class outlines below will be suitable for faster and slower kills as well.
 
 MAMA will arise, after being invulnerable for a few seconds its first attack will be a _spinning <Control name="knockback"/>_. This one should be interrupted by CCing the boss fast enough. The consecutive spin attacks should be taken care of by the <Specialization name="Firebrand"/> as long as there is not to much AoE, that potentially removes <Boon name="Aegis"/> is around. This spin attack always hits on the _second_ spin animation.
 
@@ -58,13 +67,6 @@ Fast crowd control and animation knowledge are the keys to this fight.
 Maintaining <Boon name="Alacrity"/> in this encounter does not requier higher boon duration due to the length of the fight. However, should your party drop <Boon name="Alacrity"/> you will have to adjust your boon duration to accomodate your team.  Low boon duration will have a significant impact on your personal damage output. 
 
 ---
-
-**Relative Fight Duration** `0:53 Min`  
-
-The duration of the encounter heavily relies on how quickly your party can break the defiance bars throughout the fight, in addition to the amount of damage your party can generate in each phase. This is an average clear time and can be reached by organized teams as well as pick up groups. The outline below will be suitable for faster and slower kills as well.
-
----
-
 
 **Precast**  
 * Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlaps and grants twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast if needed.
@@ -122,11 +124,14 @@ WIP
 <Tab specialization="Soulbeast">
 Dont play <Specialization name="Soulbeast"/> on this boss. Its garbage. 
 
+---
 
 **Precast**  
-Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>. Before you cast <Skill id="5531"/> and <Skill name="Barrage"/> you wanna share <Skill name="One wolf pack"/> with <Trait name="leaderofthepack"/> and then swap back to <Trait name="oppressivesuperiority"/>. 
+- Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>.
+- Before you cast <Skill id="5531"/> and <Skill name="Barrage"/> on MAMA: share <Skill name="One wolf pack"/> with <Trait name="leaderofthepack"/> and then swap back to <Trait name="oppressivesuperiority"/>. 
 
-**Opening**  
+**Opening**
+
 You wanna do a modified Greatsword rotation: 
 - <Skill name="Maul"/> and <Skill name="Sicem"/> during the cast
 - <Skill name="Worldly impact"/>
@@ -134,28 +139,34 @@ You wanna do a modified Greatsword rotation:
 - <Skill name="Whirling defense"/>
 - if it is not phased yet you should ragequit.
 
-**1st Add**  
-Help CCing with <Skill id="45743"/> and autoattack the add to death with your sword.
+**1st Add**
+- Help CCing with <Skill id="45743"/> 
+- autoattack the add to death with your sword.
 
-**2nd phase**  
-When you go back back to MAMA swap to gs and use:
+**2nd phase**
+
+When you go back back to MAMA swap to GS and use:
 - <Skill name="Maul"/>
 - <Skill name="hiltbash"/>
 - <Skill name="Maul"/>
 - <Skill id="41524"/> (dont use <Skill name="Sicem"/> here)
 
-**2nd Add**  
-Help CCing with <Skill id="45743"/> and use a mix of <Skill name="Maul"/> and autoattacks to kill it.
+**2nd Add**
+- Help CCing with <Skill id="45743"/> 
+- Use a mix of <Skill name="Maul"/> and autoattacks to kill it.
 
-**3rd phase**  
-In phase 3 you do same rotation as in p1 (although you can do the full gs rotation if you have hilt bash off cd).
+**3rd phase**
+
+In phase 3 you do same rotation as in p1 (although you can do the full gs rotation if you have hilt bash off cd).  
 MAMA should phase while you're casting your <Skill name="Whirling defense"/>, then do <Skill name="Monarchs Leap"/> for free evade away from the poison field and to get to the add faster.
 
 **3rd Add**  
-On this add you wanna swap to gs as soon as possible. Do the same thing as before. Save your <Skill id="45743"/>.
+- Swap to GS as soon as possible.
+- Do the same thing as before. Save your <Skill id="45743"/>.
 
-**4th phase**  
-In this phase you can help with cc by doing <Skill name="Hilt bash"/> and <Skill id="45743"/> otherwise just normal gs rotation.
+**4th phase**
+- Help with cc by doing <Skill name="Hilt bash"/> and <Skill id="45743"/> 
+- Normal GS rotation.
 
 </Tab>
 
@@ -164,19 +175,24 @@ WIP
 </Tab>
 
 <Tab specialization="warrior">
-**Organized**
-
-You can precast banners with the help of a <Item id="44642"/>. Open the portal on the slope (not at the flat area around the mistlock, but before), hop in, precast the banners and take your portal back. You are now free to run the dps setup for short fights.
-<Skills heal="blood reckoning" utility1="outrage" utility2="throw bolas" utility3="Signet of might" elite="headbutt"/>
-Remember to swap to <Trait id="2049"/>. 
-
-**General**
+### **General**
 
 Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. It is highly encouraged to go core warrior for CC. You can stay berserker if you are willing to counter the lack of cc with consumables. 
 
+### **Organized <Specialization name="berserker"/>** (Standard Axe/Axe Axe/Mace)
+
+You can precast banners with the help of a <Item id="44642"/> if you expect a ~55s kill. Open the portal on the slope (not at the flat area around the mistlock, but before), hop in, precast the banners and take your portal back. You are now free to run the dps setup for short fights:
+
+<Skill name="blood reckoning"/>, <Skill name="outrage"/>, <Skill name="Throwbolas"/> <Skill name="Signet of might"/> and <Skill name="headbutt"/>. Remember to swap to <Trait id="2049"/>. 
+
+**Opening**
+
+If you are using  <Trait id="2049"/>, open with <Skill name="tremor"/> and <Skill name="whirlingaxe"/>.  
+Else <Skill name="tremor"/> followed by <Skill name="headbutt"/>.
+
 ---
 
-### <Specialization name="Warrior"/> (Standard Axe/Axe Mace/Mace)
+### **PuG <Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
 
 Start MAMA on Mace/Mace. Instantly break MAMA's Defiance bar using <Skill id="14402"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/>, <Skill name="Skull Crack" profession="Warrior"/> (if <Skill id="14502"/> won't break MAMA's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/> and continue with standard rotation on Axe/Axe.
 
@@ -249,14 +265,24 @@ At the second set of altars use your <Skill name="Huntersverdict"/> to pull out 
 
 ---
 
-## Siax the Corrupted <Item id="50082" disableText/><Item id="24658" disableText/><Label>6,138,797 HP</Label>
-Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before approaching the red orb and starting the fight.
+## Siax the Corrupted <Label>6,138,797 HP</Label>
+|  |  |
+| -- | -- |
+| Encounter duration | 40s |
+| Sigils | <Item name="impact"/> <Item name="serpentslaying"/> |
+| Food | <Item id="43360"/> <Item name="powerfulpotionofslayingscarletsarmies"/>|
+| CC | 2000 |
+
+
+Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before approaching the red orb and starting the fight. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlcok to siax.
+
+The duration of the encounter heavily relies on how much damage your group can generate in each phase and how quickly you can finish the adds. This is a rather fast clear time and can be reached by organized teams. Pick up groups might have a hard time reaching this duration, however the class-outlines below are still suitable for slower kills.
 
 During the fight, break his defiance bar (2000 CC damage) as fast as possible to interrupt his _Caustic Explosion_ skill. Siax will wipe your party if you fail to interrupt it with enough crowd control. Pay attention to his bouncing orb barrages, the _Vomit Toxin_ and the exploding _Volatile Hallucinations_ (below 75% health). Do not stand in the red PBAoE when the inner circle reaches the outer to avoid spawning a _Nightmare Hallucination_. Watch your buffs: the <Specialization name="Firebrand"/> should give you <Boon name="Aegis"/>, which blocks this attack and requires no further action from your side.
 
 When Siax reaches 66% health, he gains <Effect name="invulnerability"/> and four _Echoes of the Unclean_ will spawn in the North, East, South and West which need to be killed quickly to interrupt his _Caustic Explosions_. The same occurs at 33%, though the adds will have their spawning positions shifted clockwise.
 
-Assign players to each add before the fight starts by setting waypoints. The <Specialization name="firebrand"/> and <Specialization name="renegade"/> will usually focus on one mob together due to their lower DPS.
+Assign players to each add before the fight starts by setting waypoints. In PuGs the <Specialization name="firebrand"/> and <Specialization name="renegade"/> will usually focus on one mob together due to their lower DPS.
 
 <Image src="./images/siax.jpg" caption="Siax the Corrupted"/>
 
@@ -269,12 +295,6 @@ Assign players to each add before the fight starts by setting waypoints. The <Sp
 **Suggested Boon Duration** `40%`   
 
 Maintaining <Boon name="Alacrity"/> in this encounter does not requier higher boon duration due to the length of the fight. However, should your party drop <Boon name="Alacrity"/> you will have to adjust your boon duration to accomodate your team.  Low boon duration will have a significant impact on your personal damage output. 
-
----
-
-**Relative Encounter Duration** `0:40 Min`  
-
-The duration of the encounter heavily relies on how much damage your group can generate in each phase and how quickly you can finish the adds. This is a rather fast clear time and can be reached by organized teams. Pick up groups might have a hard time reaching this duration, however the outline below is still suitable for slower kills.
 
 ---
 
@@ -331,15 +351,19 @@ WIP
 </Tab>
 
 <Tab specialization="Soulbeast">
-**General**
+### **General**
 - You can take <Skill name="Bearstance"/> for condi cleanse instead of <Skill name="Wehealasone"/>.
 - In organized groups its worth it to take <Skill name="Frosttrap"/> over <Skill name="Signetofthewild"/>.
 - In organized groups you can take longbow and use <Trait name="Leaderofthepack"/>
 
-**Precast**  
+---
+
+**Precast**
+
 Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>. Share <Skill name="One wolf pack"/> and take the mistlock.
 
-**Opening**  
+**Opening**
+
 You wanna do following opening: 
 - Summon <Skill name="Frostspirit"/> as he triggers
 - <Skill name="Frosttrap"/> so you have two of those ticking at the same time.
@@ -350,17 +374,20 @@ You wanna do following opening:
 - You shouldnt use <Skill name="Whirling defense"/> in phase 1.
  
 **1st Add**  
-Use <Skill id="12622"/> to get to the add quickly. Kill it with  <Skill name="Path of scars"/> and <Skill name="Whirling defense"/>. If your group sucks, you can save your important dps skills and kill the mob with a mix of AA and F1/F2s. The weaver should help you anyway.
+- Use <Skill id="12622"/> to get to the add quickly. 
+- Kill it with  <Skill name="Path of scars"/> and <Skill name="Whirling defense"/>. If your group sucks, you can save your important dps skills and kill the mob with a mix of AA and F1/F2s. The weaver should help you anyway.
 
 **Phase 2**  
-Use <Skill name="onewolfpack"/> in the middle. AA as as all your skills are on CD.
+- Use <Skill name="onewolfpack"/> in the middle. 
+- AA as as all your skills are on CD.
 
 **2nd Add**  
-Use longbow here. <Skill name="pointblankshot"/> and <Skill name="rapidfire"/> should do the trick. The remaining damage should be dealt by the <Specialization name="Dragonhunter"/> with a <Skill name="Swordofjustice"/>.
+- Use longbow here. <Skill name="pointblankshot"/> and <Skill name="rapidfire"/> 
+- The remaining damage should be dealt by the <Specialization name="Dragonhunter"/> with a <Skill name="Swordofjustice"/>.
+- If you are using GS do GS2, 5, 2, F1, F2 to kill the add.
 
-If you are using GS do GS2, 5, 2, F1, F2 to kill the add.
+**Phase 3**
 
-**Phase 3**  
 Longbow:
 - <Skill name="Barrage"/> on Siax
 - <Skill name="Frost trap"/>
@@ -372,24 +399,27 @@ Greatsword:
 </Tab>
 
 <Tab specialization="warrior">
-**Organized**
+### **General**
+Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. 
 
-You can precast banners if the bossfight will be below 55 seconds. Open a <Item id="44642"/> at the boss to start the fight faster after precasting. You are now free to run the dps setup for short fights.
-<Skills heal="blood reckoning" utility1="outrage" utility2="throw bolas" utility3="Signet of might" elite="headbutt"/>
-- Remember to swap to <Trait id="2049"/>. 
+### **Organized**
+
+You can precast banners with the help of a <Item id="44642"/> if you expect a ~55s kill. Open the portal on the slope (not at the flat area around the mistlock, but before), hop in, precast the banners and take your portal back. You are now free to run the dps setup for short fights:
+
+<Skill name="blood reckoning"/>, <Skill name="outrage"/>, <Skill name="Throwbolas"/> <Skill name="Signet of might"/> and <Skill name="headbutt"/>. Remember to swap to <Trait id="2049"/>. 
+
+Things to keep in mind:
 - Use <Skill name="Whirling Axe"/> to gain Adrenalin and engage <Skill name="Berserk"/> as soon as possible. 
 - Use <Skill name="Headbutt"/> to CC and break the stun with <Skill name="Outrage"/>. Use this combo asap to keep up <Skill name="Berserk"/>. 
 - Use <Skill name="Throw Bolas"/> before casting <Skill name="Whirling Axe"/> to maximize dps. 
 - Use <Skill name="Blood reckoning"/> on cooldown.
 - Use a Rifle to kill your add without loosing time. Use <Skill name="gunflame"/>, <Skill name="volley"/> and a couple autos to get the job done. A greatsword also works out great.
 
-**General**
+### **PuG**
 
-Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. 
-
-If additional Defiance bar damage is needed make use of <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>.
-
-Kill your add as fast as possible and return to the boss. You do not wanna miss the time the boss is invulnerable or your dps will suffer. 
+- If additional Defiance bar damage is needed make use of <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>. 
+- Kill your add as fast as possible and return to the boss. You do not wanna miss the time the boss is invulnerable or your dps will suffer. 
+- Keep an eye on Siax's <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
 </Tab>
 
 <Tab specialization="weaver">
@@ -411,9 +441,6 @@ If you want to try hard play air instead of arcane, use <Skill id="21656" /> and
 </Tab>
 
 <Tab specialization="Dragonhunter">
-<Message>
-Do not forget to swap to <Item name="impact"/> / <Item name="serpentslaying"/>. 
-</Message>
 **tl;dr**
 - Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reson why dragonhunter is very strong at this boss. Do not miss this.
 - Save some <Skill id="9168"/> for a quicker add kill. 
@@ -460,11 +487,17 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 
 ---
 
-## Ensolyss of the Endless Torment <Item id="50082" disableText/><Item id="24658" disableText/><Label>14,059,890 HP</Label>
+## Ensolyss of the Endless Torment <Label>14,059,890 HP</Label>
+|  |  |
+| -- | -- |
+| Encounter duration | 1:55min |
+| Sigils | <Item name="impact"/> <Item name="serpentslaying"/> |
+| Food | <Item id="41569"/> <Item name="powerfulpotionofslayingscarletsarmies"/>|
+| CC | 2000 |
 
 <Grid>
 <GridItem>
-Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before starting the fight. Go into the arena; when you start the fight don't stand in the center area of the platform on activation or you will receive a <Control name="knockback"/>.
+Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before starting the fight. Good teams will use a <Item id="78978"/> to teleport to the boss. When you start the fight don't stand in the center area of the platform or you will receive a <Control name="knockback"/>. Right after he looses his <Effect name="invulnerability"/> there is a CC bar. This bar is only breakable for approximately one second. Time your CC wise. 
 
 Nearly all of Ensolyss' attacks do a <Control name="knockback"/> or <Control name="pull"/>, learn to dodge or walk out of every attack. The most dangerous one is his shockwave-shatter combo, he smashes down a stunning yellow shockwave (like MAMA below 33% health), spawns hallucinations on each players position and shatters them after two seconds.
 
@@ -512,7 +545,8 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - Pick up <Skill name="conjurelightninghammer"/> and use <Skill id="5725"/>
 - AA with <Skill name="conjurelightninghammer"/> until its phased or your <Skill name="pathofscars"/> is back up
 
-**Orb phase**  
+**Orb phases**
+
 Use <Skill name="We heal as one"/> to keep up <Boon name="alacrity"/>. 
 
 **66% and 33%**  
@@ -529,26 +563,29 @@ Use <Skill name="We heal as one"/> to keep up <Boon name="alacrity"/>.
 </Tab>
 
 <Tab specialization="warrior">
+This is one of the fights, where berserker shines bright. As soon as you do not instabreak CC it makes sense to play <Specialization name="Warrior"/>. 
 
-### <Specialization name="Berserker"/> (Standard Axe/Axe Mace/Mace)
-There are some interesting weopen choices: if your team manages CC you can take an offhand torch for more dps. 
+### **<Specialization name="Berserker"/>** (Standard Axe/Axe Mace/Mace)
+Berserker is really strong on this encounter, because your <Skill name="Berserk"/> perfectly aligns with phase durations. There are some interesting weopen choices: if your team manages CC you can take an offhand torch for more dps. Remember to swap back to <Trait id="1977"/>. 
 
-Remember to swap back to <Trait id="1977"/>. Use Headbutt and <Skill name="Berserk"/> asap to break him before the first dome appears. Spam your <Skill id="30851"/> like usual. It should phase right after your <Skill name="berserk"/> runs out. 
+**Opening:**
+- <Skill name="Mending"/> when he appears
+- <Skill name="Tremor"/> start to cast a few milliseconds before he looses <Effect name="invulnerability"/>
+- <Skill name="Headbutt"/>
+- <Skill name="Berserk"/>
 
 **66% and 33%**
 
-Pick up your banners and swap to your off set. After everyone capped their circle, try to blast a fire field with your banners.
-
-Opening:
-- <Skill name="crushing blow" profession="Warrior"/> to stack <Condition name="vulnerability"/>
+Pick up your banners and swap to your off set (mace/torch). After everyone capped their circle, try to blast a fire field with your banners. Then go on:
+- <Skill name="crushingblow"/>
 - <Skill name="Mending"/>
-- <Skill name="Tremor"/>
+- <Skill name="Tremor"/> 
 - <Skill name="Headbutt"/>
 - <Skill name="Berserk"/>
 
 ---
 
-### <Specialization name="Warrior"/> (Standard Axe/Axe Mace/Mace)
+### **<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
 
 Begin the encounter on Axe/Axe with <Skill id="14402"/>, <Skill id="14502"/>, <Skill name="Eviscerate" profession="Warrior"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill name="Throw Axe" profession="Warrior"/>, <Skill name="Cyclone Axe" profession="Warrior"/> and immediately swap to Mace/Mace to break Ensolyss's Defiance bar with <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/> and <Skill name="Skull Crack" profession="Warrior"/>.
 
