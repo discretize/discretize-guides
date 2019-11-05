@@ -1,6 +1,6 @@
----
+﻿---
 title: 'Power Soulbeast'
-date: '2019-09-04'
+date: '2019-11-04'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -96,7 +96,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Trait name="Leader of the Pack" size="big" disableText/> | Very strong alternative to <Trait name="Oppressive Superiority"/> for fights where your party can profit from the shared <Skill name="One Wolf Pack"/>. Currently meta with Firebrand/Renegade on Skorvald, Arkk and Ensolyss. You should also activate it when precasting <Skill name="One Wolf Pack"/> and retrait before getting into combat. |
+| <Trait name="Leader of the Pack" size="big" disableText/> | Very strong alternative to <Trait name="Oppressive Superiority"/> for fights where your party can profit from the shared <Skill name="One Wolf Pack"/>. Currently meta on Skorvald, Arkk, Siax and Ensolyss. You should also activate it when precasting <Skill name="One Wolf Pack"/> and retrait before getting into combat. |
 </Card>
 </GridItem>
 </Grid>

@@ -202,12 +202,19 @@ Keep an eye on MAMA's <Condition name="vulnerability"/> stacks and use <Skill na
 </Tab>
 
 <Tab specialization="Dragonhunter">
-**General**
-
-- You can precast traps on the adds and force your team to gg.
+### **General**
 - Do not use traps on the adds
-- Strategically cast your bane signet 
+- Strategically cast your <Skill name="banesignet"/> 
 - Start on Scepter/Sword
+- Use <Skill name="binding blade"/> inside MAMAs hitbox, when the small adds are coming close
+
+
+### **Precast**
+- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) at the places, where the adds are going to spawn and force your team to `/gg`. 
+- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Feelmywrath"/>.
+- Take the mistlock.
+
 </Tab>
 
 </Tabs>
