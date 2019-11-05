@@ -1,6 +1,6 @@
 ﻿---
 title: 'Shattered Observatory'
-date: '2019-10-30'
+date: '2019-11-05'
 image: './images/header.jpg'
 group: 'Challenge Mode'
 api: 3458
@@ -26,6 +26,12 @@ consumables: [78978, 8759, 8678, 8732]
 ---
 
 ## Skorvald the Shattered <Label>5,551,340 HP</Label>
+|  |  |
+| -- | -- |
+| Encounter duration | 1:35min |
+| Sigils | <Item name="impact"/> <Item name="force"/>
+| Food | <Item id="41569"/> <Item name="superiorsharpeningstone"/>|
+| CC | 2200 |
 
 <Grid>
 <GridItem sm="7">
@@ -58,7 +64,7 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 </GridItem>
 <GridItem sm="9">
 ### Tactic
-The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health.
+The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health. Please note, that you cannot _precast_ CC here. Your CC affects Skorvald, as soon as his HP bar appears in the top right corner. 
 
 At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four _Elite Flux Anomalies_ to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies dont have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the animations and position yourself between Anomaly and wall.
 
@@ -117,20 +123,23 @@ Skip F3 in fast parties, because it has kind of a long cast time.
 </Tab>
 
 <Tab specialization="Warrior">
+### **General**
 Help pre-stacking by using <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Mistlock Singularity. While running towards Skorvald already place both banners. Make sure to refresh the banners at 66% and 33%. If your team can't burn from 66-33 without the dash, refresh the banners as soon as he starts to dash.
 
-There is not much of a difference between PUGs and organized, except that you instaburn him from 66-33 and 33-0. Playstyle doesnt change.
+There is not much of a difference between PUGs and organized, except that you instaburn him from 66-33 and 33-0. Playstyle doesnt change. You will get higher DPS when your group is bad. 
+
+Important: Watch out where you place your banners! Try to place them slightly out of the group, so it doesnt interfer with a <Item name="whitemantleportaldevice"/>. Do not try to pick up banners when there is a portal, because portal always takes higher priority.
 
 ---
 
-### <Specialization name="Berserker" size="large"/> **(Standard Axe/Axe Axe/Mace)**
+### **<Specialization name="Berserker"/>** (Standard Axe/Axe Axe/Mace)
 Start on Axe/Mace (<Skill id="14401"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill id="30343"/>, <Skill id="30185"/>) and continue with standard rotation. You can cast Tremor as soon as you get in combat, although skorvald is not yet visible. 
 
 Cast <Skill id="14401"/> and engange <Skill id="30185"/> when the add on the 4th platform is about to die. 
 
 ---
 
-### <Specialization name="Warrior" size="large"/> **(Standard Axe/Axe Mace/Mace)**
+### **<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
 There is not much reason to play core warrior here. Even if your team sucks at CCing, playing berserker and popping a <Item id="8664"/> is fastly superior, since there is only one CC bar you have to break. 
 
 </Tab>
@@ -164,18 +173,23 @@ For the try-hard version you want to play with three air <Specialization name="W
 </Tab>
 
 <Tab specialization="Dragonhunter">
-<Message>
-Good teams = Scepter; Bad teams = sword. Play <Trait id="574"/>.
-</Message>
-Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to gg. 
+### **tl;dr**
+- Good teams = Scepter; Bad teams = sword. Play <Trait id="574"/>.
+- Start every burn on sword/scepter
 
-Help your team precasting might with <Skill name="Empower">. 
 
-You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss. 
+### **Precast**
+- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`. 
+- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Feelmywrath"/>.
+- Take the mistlock.
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss. 
 
-As soon as you press f to engage with the boss, press <Skill name="Bane Signet"/> and spam tab to get the target. Basically, you are casting the signet without target at first to save important DPS-time. Practice this well or the fb will get two stacks of <Skill name="Bane Signet"/>.
+### **Burn phases**
+Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (phases Skorvald >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat. 
 
-You should start on scepter/sword on this boss. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weopen swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
+### **Adds**
+You can kill the first two adds with greatsword. You can use traps on the 2nd add, without having them on cooldown when you are back at Skorval. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weopen swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
 
 </Tab>
 </Tabs>
@@ -202,6 +216,14 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 ---
 
 ## Artsariiv <Label>5,962,266 HP</Label>
+|  |  |
+| -- | -- |
+| Encounter duration | 1:30min |
+| Sigils | <Item name="impact"/> <Item name="force"/>
+| Food | <Item id="41569"/> <Item name="superiorsharpeningstone"/>|
+| CC Artsariiv | 2100 |
+| 1. Add phase each | 650 |
+| 2. Add phase each | <375 |
 
 <Grid>
 <GridItem sm="8">
@@ -288,22 +310,26 @@ If you dont skip anomalies you can just try to reflect and hope she targets some
 or you could go for reflecting her spin attack.
 </Tab>
 
-<Tab specialization="Warrior">
-**Prefight**
+<Tab specialization="berserker">
+### **General**
+Warrior sucks in organized scenarios. Your dps will be very unsatisfiying, if you run with a decent <Specialization name="soulbeast"/>. Since your dps will be not exactly cool, you have to focus on getting the banner placement right. 
+
+### **Prefight**
 
 Place banners at the corner of the platfrom where Artsariiv is going to be and help pre-stacking with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Artsariiv. 
  
-**66% and 33%**
+### **100% in mid**
+Use <Skill name="whirling axe"/> to gain adrenalin fast. Depending on your team you wanna engage <Skill name="Berserk"/> before you use your special action key to get to Artsariiv. Use <Skill name="Mending"/> to regain eventually lost health and <Trait name="peakperformance"/>.  Swap to your mace, use <Skill id="14518"/> and be ready to <Skill id="14415"/> as soon as the breakbar appears. 
+ 
+### **66% and 33%**
 
 Pick up your banners and place them in the middle of the arena. Help your party to cc the adds, preferable by getting rid of the one in the middle, since you are there anyway. Replace your banners at the corner Artsariiv is going to jump to.
 
 ---
 
-### <Specialization name="Warrior" size="large"/> **(Standard Axe/Axe Mace/Mace)**
+### **<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
 If you do not bring consumables for the add phases, you play core warrior to help your team getting rid of the adds quickly. 
 
-### <Specialization name="Berserker" size="large"/> **(Standard Axe/Axe Axe/Mace)**
-In the beginning of the fight use <Skill id="14399"/> before the boss teleports away to fill up your adrenalin bar. Swap to your mace, use <Skill id="14518"/> and be ready to <Skill id="14415"/> as soon as the breakbar appears. 
 
 </Tab>
 
@@ -338,15 +364,26 @@ Advanced groups can let the second _Corporeal Reassignment_ trigger and gg the t
 </Tab>
 
 <Tab specialization="dragonhunter">
-Dragonhunter is not exactly great here. If your team does not have a soulbeast, you can take <Skill name="Wall of reflection"/> for omega reflects. Kick your firebrand if he takes a wall/tome/shield. 
+### **General**
+If your team does not have a soulbeast, you can take <Skill name="Wall of reflection"/> for omega reflects. Kick your firebrand if he takes a wall/tome/shield. Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the knockbacking attacks.
 
-**100%**  
+### **Precast**
+- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) in the corner, where the boss is going to jump to and force your team to `/gg`. 
+- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Feelmywrath"/>.
+- Take the mistlock.
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss in a coordinated team. 
+
+### **100%**  
 If you are not skipping the first Anomaly, you should place the wall in the middle.
-Again it is recommended to start on scepter. Use your <Skill name="Bane Signet"/> to help with cc and boost the party dps as soon as Artsariiv arrives at the corners. Use it even if there is no CC-Bar to improve your party dps.
+Again it is recommended to start on scepter. Use your <Skill name="Bane Signet"/> to help with cc and boost the party dps as soon as Artsariiv arrives at the corners. Use it even if there is no CC-Bar to improve your party dps. Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariivs hitbox for big damage.
 
-**66% and 33%**  
-Help your team ccing with consumables. Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. Use your special action key to quickly navigate to adds. When all adds are broken your traps will be off cooldown again. Start on scepter again, use <Skill name="Shield of Wrath"/> to block the expanding AoE and fire everything you have.   
-When artsariiv arrives at the corners again immediately place your <Skill name="Wall of reflection"/>.
+### **Adds**
+Help your team CCing with consumables. Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. Use your special action key to quickly navigate to adds. Swap to scepter and camp it to be ready for the mid burst. 
+
+### **66% and 33%**  
+When all adds are broken, your traps will be off cooldown again. Start on scepter again, use <Skill name="Shield of Wrath"/> to block the expanding AoE and fire everything you have.   
+When Artsariiv arrives at the corners again immediately place your <Skill name="Wall of reflection"/>.
 
 
 
@@ -357,12 +394,18 @@ When artsariiv arrives at the corners again immediately place your <Skill name="
 ---
 
 ## Arkk <Item id="50082" disableText/><Label>9,942,250 HP</Label>
+|  |  |
+| -- | -- |
+| Encounter duration | 2:00min |
+| Sigils | <Item name="impact"/> <Item name="force"/>
+| Food | <Item id="41569"/> <Item name="powerfulpotionofslayingscarletsarmies"/>|
+| CC | 1800 |
 
 <Grid>
 <GridItem sm="8">
 Arkk is the third and final boss of the fractal. An attentive player may have noticed the `Nova Launch` special action key became even stronger now, doing medium damage, a 200 <Control name="launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
 
-In contrast to the other enemies in this fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him (_confirmed as of 2018/02/06 patch_).
+In contrast to the other enemies in this fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him.
 
 Arkk himself has no melee attacks, but a lot of abilities which can make the fight rather chaotic for inexperienced groups. However, all damage can be avoided and therefore a healer is not mandatory. More party DPS means less boss mechanics.
 
@@ -495,18 +538,24 @@ Full rotation with everything off cooldown.
 </Tab>
 
 <Tab specialization="Warrior">
-Use a <Item id="78978"/> to precast <Skill id="14405"/>, <Skill id="14407"/>, <Skill id="14408"/> and a <Skill id="14419"/> on the boss' platform. 
-
-Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. Do not take the mistlock to early or you will need more then 1-2 hits to fill up your adrenalin. Also before taking the mistlock, use your special action key to not bug the cooldown reset out and precast <Skill name="mending"/>. 
-
-Refresh your <Skill id="14405"/> and <Skill id="14407"/> at the archdiviner and gladiator adds by blasting a firefield. 
-
 Usually the <Specialization name="Renegade"/> is responsible for slaying the Temmporal Anomaly, nonetheless pay 
 close attention to it and assist if necessary. Dont forget to use `Nova Launch` to circumvent the effects of Arkk's _Solar Fury_ and _Solar Discharge_.
 
+
+### **Precast** 
+Use a <Item id="78978"/>, use special action key to get to the platform and gprecast <Skill id="14405"/>, <Skill id="14407"/>, <Skill id="14408"/> and a <Skill id="14419"/>. Take the portal back.
+
+Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. Do not take the mistlock to early or you will need more than 1-2 hits to fill up your adrenalin. Also before taking the mistlock, use your special action key to not bug the cooldown reset out and precast <Skill name="mending"/>. 
+
+### **Bloom phases**
+If you are full hp, you can step into the lightning, auto attack your bloom until it gets pushed towards the pillar. Use a <Skill name="Throw axe"/> to finish your add. Use <Skill name="Mending"/> afterwards to regain health.
+
+### **Add phases**
+Refresh your <Skill id="14405"/> and <Skill id="14407"/> at the archdiviner and gladiator adds by blasting a firefield. 
+
 ---
 
-### <Specialization name="Berserker" size="large"/> **(Standard Axe/Axe Axe/Mace)**
+### **<Specialization name="Berserker"/>** (Standard Axe/Axe Axe/Mace)
 <Message>
 You run <Trait id="2049"/> and use <Skill id="14419"/> at 50% to keep up might!
 </Message>
@@ -514,7 +563,7 @@ Use atleast <Skill id="14415"/> at every breakbar.
 
 In better teams do not use your <Skill id="30185"/> in the 2nd and 4th phase. You want to save it for the longer 20% burns. In bad teams you do not need to put so much thought into it. 
 
-### <Specialization name="Warrior" size="large"/> **(Standard Axe/Axe Mace/Mace)**
+### **<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
 If your <Specialization name="Renegade"/> is a useless piece of shit, you can play Core to counter the lack of cc. 
 
 </Tab>
@@ -542,19 +591,20 @@ Also since Arkk has extremly long break phases (10 sec), <Skill id="40183"/> is 
 </Tab>
 
 <Tab specialization="Dragonhunter">
-Dragonhunter brings decent dps and utils at the table and can be played without much regret.
-
-**Precast**
-
-Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to gg. 
-
-Help your team precasting might with <Skill name="Empower"/> and <Skill name="Bane Signet"/>. 
-
-**General**  
-- In good teams with high dps you have to start on greatsword, otherwise start on scepter/sword.
+### **General**  
+- Start on greatsword when you expect phase times above ~ 20 seconds
 - Your goal is to start on scepter/sword at every 10% burn phase, thats why you need to consider weopenswaps carefully. 
 - Pull adds in with GS5. 
 - Cast <Skill name="Bane Signet"/> early, so you get more dps time. 
 - The fastest way to do the orbs is to walk into the blue stuff and aa with scepter. Use <Skill name="Wings of Resolve"/> to regain health. 
+- Use <Skill name="binding blade"/> inside Arkks hitbox when adds are present.
+
+### **Precast**
+- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) in the corner, where the boss is going to jump to and force your team to `/gg`. 
+- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Feelmywrath"/>.
+- Take the mistlock.
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal. 
+
 </Tab>
 </Tabs>
