@@ -1,12 +1,12 @@
----
+﻿---
 title: 'Power Dragonhunter'
-date: '2019-09-04'
+date: '2019-11-08'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
 benchmark:
-  { large: { dps: 33812, by: 'Shetsa [SC]', youtube: 'avJ-VAxYUvY' } }
+  { large: { dps: 35340, by: 'Shetsa [SC]', youtube: 'ioA6ux3AC3Q' } }
 skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
@@ -29,7 +29,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 <Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
 
 <Card title="Alternative weapons">
-- Greatswords and foci with <Item name="Night" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>
+- Greatswords and Scepters/Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 - Greatswords and foci with (see [Consumables Guide](/guides/consumables))
 - Hammer for <Boon name="might"/> stacking
 </Card>
@@ -46,7 +46,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -55,12 +55,16 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
-| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
+| <Skill id="9102" size="big" disableText/> | A two seconds block. Can be stowed, but only blocks without heal then.
+| <Skill id="29965" size="big" disableText/> | When your team lacks <Boon name="quickness"/>.|
+| <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. Can be used to blink to a <Skill id="9168"/>.|
+| <Skill id="9247" size="big" disableText/> | A 1,200 range teleport to an enemy. Very handy for some skips. |
+| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. Preferred over <Skill id="9153"/>. |
 | <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
-| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
-| <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside. |
+| <Skill id="41571" size="big" disableText/> | A 5 seconds projectile absorb. Good to counterplay  <Instability name="We bleed fire"/> in case your team sucks.
+| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting 10 seconds. Can be used to counterplay <Instability name="We bleed fire"/>.|
+| <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside #<Instability name="We bleed fire"/>. |
 </Card>
 </GridItem>
 </Grid>
@@ -70,22 +74,23 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 <Grid>
 <GridItem sm="7">
 <Card title="Rotation">
+**Scepter Rotation:**
+1. <Skill name="banesignet" profession="guardian"/>
+1. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
+1. <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
 1. <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
-2. **Weapon Swap**
-3. <Skill name="Procession of Blades " profession="guardian"/> (Utility)
-4. <Skill name="Spear of Justice" profession="guardian"/> (F1)
-5. <Skill name="Symbol of Wrath " profession="guardian"/> (GS 4)
-6. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
-7. **Weapon Swap**
-8. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
-9. <Skill name="Sword of Justice" profession="guardian"/> (Utility)
-10. <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
-11. <Skill name="Dragons Maw" profession="guardian"/> (Elite)
-12. <Skill name="Sword of Justice" profession="guardian"/> (Utility)
-13. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
-14. <Skill name="Sword of Justice" profession="guardian"/> (Utility)
-15. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
-16. Repeat
+1. **Weapon Swap**
+1. <Skill name="Sword of Justice" profession="guardian"/>
+1. <Skill name="Procession of Blades " profession="guardian"/> 
+1. <Skill name="Spear of Justice" profession="guardian"/> (F1)
+1. <Skill name="Symbol of Wrath " profession="guardian"/> (GS 4)
+1. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
+1.  <Skill name="Sword of Justice" profession="guardian"/> 
+1. <Skill name="Dragons Maw" profession="guardian"/>
+1.  <Skill name="Sword of Justice" profession="guardian"/>
+1.  <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
+1.  <Skill name="Binding Blade" profession="guardian"/> (GS 5)
+1. If the phase lasts longer than this, continue with the SC rotation. 
 </Card>
 </GridItem>
 
@@ -102,14 +107,16 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 
 <GridItem sm="7">
 <Card title="Notes">
-* Start on Greatsword:
-  * Don't interrupt your auto-attack chain as the last hit deals the most damage
-  * Use <Skill id="9146"/> and <Skill id="9081"/> off cooldown (stand inside the enemy's hitbox)
-  * Align <Skill id="9146"/> with <Skill id="30364"/> and <Skill id="29887"/> if possible
-  * <Skill id="9080"/> and <Skill id="9147"/> are worth using instead of an auto-attack chain if you don't have a symbol up
-* on Scepter:
-  * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
-  * Align <Skill id="9090"/> with <Skill id="30364"/> and <Skill id="29887"/> if possible
+* Always start on scepter/sword
+* Delay swapping to GS until the CC-bar is about to be broken. This is especially important at ensolyss without insta CC. 
+* Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. 
+* Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits.
+* Dont interrupt your GS auto-attack chain
+* In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be benifical to get your <Skill name="spearofjustice"/> out first.)
+* Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
+* Dont waste your key skills on meaningless adds
+
+
 </Card>
 </GridItem>
 
