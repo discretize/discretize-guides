@@ -13,9 +13,9 @@ conditions: ['Vulnerability', 'Blind', 'Crippled']
 <Message>
 Despite being very common in pugs, this build is not meta!
 </Message>
-This build is also well known as "wheelchair", because it takes away any responsabilities from the team and carries hard.  
-It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>.
+This build is also well known as "wheelchair", because it takes away any responsabilities from the team and carries hard, and should never be played unless you want to contribute to people becoming worse and worse.
 
+It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>. 
 The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
 
 The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radience) to virtues for more heals.
@@ -30,11 +30,11 @@ Yes, you can play full harrier - however you will loose some healing power.
 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Minstrel" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Minstrel" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk"/>
+<Armor weight="Heavy" helmAffix="Harrier" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Harrier" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk"/>
 </GridItem>
  
 <GridItem sm="4">
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Minstrel" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon2MainType="Axe" weapon2MainAffix="Minstrel" weapon2MainSigil1="Transference" weapon2OffType="Shield" weapon2OffAffix="Minstrel" weapon2OffSigil="Concentration"/>
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon2MainType="Axe" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2OffType="Shield" weapon2OffAffix="Harrier" weapon2OffSigil="Concentration"/>
 
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM
@@ -44,7 +44,7 @@ Yes, you can play full harrier - however you will loose some healing power.
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Minstrel" accessory1Affix="Minstrel" accessory2Affix="Minstrel" amuletAffix="Minstrel" ring1Affix="Minstrel" ring2Affix="Minstrel"/>
+<BackAndTrinkets backItemAffix="Cleric" accessory1Affix="Cleric" accessory2Affix="Cleric" amuletAffix="Harrier" ring1Affix="Cleric" ring2Affix="Harrier"/>
 
 <Consumables food="Delicious Rice Ball" utilityId="67528" infusion="Healing +9 Agony Infusion"/>
 </GridItem>
