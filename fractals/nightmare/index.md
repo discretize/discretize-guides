@@ -1,6 +1,6 @@
 ﻿---
 title: 'Nightmare'
-date: '2019-11-08'
+date: '2019-11-09'
 image: './images/ensolyss_crazy.jpg'
 group: 'Challenge Mode'
 api: 3177
@@ -125,7 +125,20 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 </Tab>
 
 <Tab specialization="Firebrand">
-WIP
+### **General**
+- Use <Skill name="banesignet"/> at 100% and 50% and 25%.
+- Open <Skill name="tomeofjustice"/> and use 3rd skill to cc adds.
+- Use <Skill name="restoringreprieve"/> to give aegis for spins.
+
+### **Precast**
+- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the **first add** and force your team to `/gg` and change back to <Specialization name="firebrand"/>. 
+- Use <Skill name="Hallowed ground"/> to give a fire field and <Boon name="Retaliation"/>.
+- Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some <Boon name="Quickness"/>.
+- Open  <Skill name="tomeofjustice"/> and cast skill 5 (Epilogue).
+- Use <Skill name="banesignet"/> before taking the mistlock.
+- Take the mistlock.
+- You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst.
+
 </Tab>
 
 <Tab specialization="Soulbeast">
@@ -263,6 +276,12 @@ You can pull both sides with <Skill id="5491"/> (for the right side, jump at the
 If the person who pulled your side ported up the other side to fast and the mobs come back use <Skill id="5683"/> and <Skill id="5686"/> to prevent them from reachin the circle before it is tabbed. Make sure you are attuned correctly for this in time.
 </Tab>
 
+<Tab specialization="firebrand">
+Use <Skill name="Binding Blade"/> and <Skill name="tomeofjustice"/> to pull adds.
+
+Use tome of courage skill 4 to give resistance.
+</Tab>
+
 <Tab specialization="warrior">
 Exchange <Skill id="14502"/> for <Skill name="on my mark" profession="Warrior"/> and already swap to your weapon sets with Superior Sigil of Serpent Slaying.
 
@@ -270,6 +289,8 @@ At the first set of altars draw the Elite Nightmare Hypnoss with <Skill name="on
 
 At the second set of altars, wait for your <Specialization name="Firebrand"/> to pull them together with <Skill name="Binding Blade"/> and disable the Elite Nightmare Hypnoss with <Skill name="Tremor" profession="Warrior"/>. Immediately move close to the altar on the right side and pull the Elite Nightmare Hypnoss occupying the altar to the mid by using <Skill name="on my mark" profession="Warrior"/>. Assist in killing the remaining Elite Nightmare Hypnoss and capture the mid altar respectively.
 </Tab>
+
+
 <Tab specialization="dragonhunter">
 Use <Skill name="Binding Blade"/> and <Skill name="Dragonsmaw"/> excessively to pull as many mobs as possible. 
 
@@ -368,7 +389,22 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 </Tab>
 
 <Tab specialization="Firebrand">
-WIP
+Ideally you should be precasting quickness with <Skill name="moastance"/> from <Specialization name="soulbeast"/> and play <Specialization name="dragonhunter"/> with  <Skill name="feelmywrath"/> instead of  <Skill name="dragonsmaw"/>.
+### **Precast**
+- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the **first add** and force your team to `/gg` and change back to firebrand. 
+- Use <Skill name="Hallowed ground"/> to give a fire field and retal.
+- Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some quickness.
+- Open  <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
+- Use <Skill name="banesignet"/> before taking the mistlock.
+- Take the mistlock.
+- You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst.
+### **General**
+- Use <Skill name="banesignet"/> for cc.
+- Help killing champs at split with scepter if u kills yours early.
+- Give aegis with <Skill name="restoringreprieve"/> for red AoE.
+- Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reson why <Specialization name="Guardian"/> is very strong at this boss. Do not miss this.
+- Save some <Skill id="9168"/> for a quicker add kill
+
 </Tab>
 
 <Tab specialization="Soulbeast">
@@ -463,7 +499,7 @@ If you want to try hard play air instead of arcane, use <Skill id="21656" /> and
 
 <Tab specialization="Dragonhunter">
 **tl;dr**
-- Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reson why dragonhunter is very strong at this boss. Do not miss this.
+- Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reson why <Specialization name="guardian"/> is very strong at this boss. Do not miss this.
 - Save some <Skill id="9168"/> for a quicker add kill. 
 - It is benefical to take a sword here to quickly blink to the add.
 - Use <Skill name="Wings of resolve"/> to navigate around and keep your HP up.
@@ -619,7 +655,32 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 </Tab>
 
 <Tab specialization="Firebrand">
-WIP
+### **Precast**
+- Use <Skill name="Hallowed ground"/> to give a fire field and retal.
+- Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some quickness.
+- Open  <Skill name="tomeofjustice"/> and cast skill 5 (Epilogue).
+- Use <Skill name="banesignet"/> before taking the mistlock.
+- Take the mistlock.
+- You can precast  <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss. 
+- You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst.
+### **100%**
+- Use <Skill name="tomeofjustice"/> skill 4 and 5 when the boss is invulnerable.
+- Use <Skill name="banesignet"/> as soon as boss is going to become vulnerable
+- Use <Skill name="restoringreprieve"/> to give aegis for first slam so that u can continue to dps while jumping.
+### **Capture Phase**
+- Use <Skill name="restoringreprieve"/> and <Skill name="tomeofresolve"/> to heal <Skill name="frostspirit"/>.
+### **66%**
+- Use <Skill name="tomeofjustice"/> skill 4 to put a fire field before the boss comes back so that it can be blasted for <Boon name="Might"/>.
+- Give <Boon name="aegis"/> with <Skill name="restoringreprieve"/> for red AoE attack.
+### **33%**
+- If your group has high dps then you can burst the boss while its in the middle. This is done by delaying the cc long enough (till the boss is ~28%) and then using <Skill name="banesignet"/> to break the bar. This is only worth if you have high DPS.
+### **General**
+- Use <Skill name="banesignet"/> on all CCs.
+- Give <Boon name="aegis"/> for slams.
+### **Tryhard**
+- If you have an organised group with a <Specialization name="Soulbeast"/> then you have the option to play <Specialization name="Dragonhunter"/>.
+- Precast all your <Boon name="Quickness"/> with <Skill name="moastance"/> from <Specialization name="soulbeast"/> at the mistlock and change to <Specialization name="dragonhunter"/>
+- <Specialization name="soulbeast"/> takes <Skill name="moastance"/> . and uses it at the start of each phase. That should give you just enough <Boon name="Quickness"/> for each phase which is enough for high dps parties. 
 </Tab>
 
 <Tab specialization="Soulbeast">
