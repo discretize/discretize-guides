@@ -1,21 +1,21 @@
----
+﻿---
 title: 'Banner Warrior'
-date: '2019-05-02'
+date: '2019-11-17'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
 specialization: 'Warrior'
-benchmark: { small: { dps: 25427, by: 'Chris [SC]', youtube: 'i1IoP0Gp0hk' } }
+benchmark: { small: { dps: 27838, by: 'Weird Champ [SC]', youtube: 'EWxjRKrRNRg' } }
 skills: [14407, 14405, 45252, 45333]
 traits: [1482]
 conditions: ['Vulnerability']
 ---
 
-The <Specialization text="Banner Warrior" name="warrior"/> is the superior build for warriors in fractals.
+The <Specialization text="Banner Warrior" name="warrior"/> is the superior support build for warriors in fractals. This build is only meta on MAMA. In Pugs however, where CC or might is the limiting factor it can be beneficial to bring <Specialization text="Banner Warrior" name="warrior"/> over <Specialization text="Banner Berserker" name="berserker"/>.
 
 Besides providing the group with strong unique damage buffs (<Skill id="14405"/>, <Skill id="14407"/> and <Trait id="1482"/>) and having excellent defiance bar damage with the Mace/Mace set, the build also has a relatively high burst damage potential on both small and large hitboxes for a support role.
 
-If enemy boons are present, the <Specialization name="spellbreaker"/> specialization can be taken to reliably remove them with <Skill id="45252"/> and <Trait id="2162"/>. Another advantage of this variation is the strong on-demand projectile destruction with <Skill id="45333"/>.
+If enemy boons are present and for some reason you are still not playing the <Specialization name="Renegade"/>+<Specialization name="firebrand"/> composition, the <Specialization name="spellbreaker"/> specialization can be taken to reliably remove them with <Skill id="45252"/> and <Trait id="2162"/>. Another advantage of this variation is the strong on-demand projectile destruction with <Skill id="45333"/>.
 
 Furthermore, the build is able to use damage modifying sigils like <Item id="24868"/> as well as slaying potions such as <Item id="50082"/>. As a support warrior, your focus is first and foremost providing the group with aforementioned damage buffs and removing boons, secondly breaking the defiance bar while following your optimized damage rotation.
 
@@ -33,18 +33,18 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <GridItem sm="4">
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
+<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
+
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Berserker"/>
 <Card title="Swap Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and slaying sigils
 * A warhorn for pre-stacking
 * Having a sword is very useful and sometimes even necessary especially for some of the skips (Uncategorized Fractal | Urban Battleground)
 * If no additional cc is necessary you can use Greatsword instead of Mace/Mace
 </Card>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Berserker"/>
-
-<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </GridItem>
 </Grid>
 </Tab>
@@ -57,22 +57,23 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 <GridItem sm="4">
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
-<Card title="Swap Weapons">
-* Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and slaying sigils
-* A warhorn for pre-stacking
-* Having a sword is very useful and sometimes even necessary especially for some of the skips (Uncategorized Fractal | Urban Battleground)
-* If no additional cc is necessary you can use Greatsword instead of Mace/Mace
+<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
+<Card title="Extra note">
+You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
  
-<Card title="Extra note">
-You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
+
+<Card title="Swap Weapons">
+* Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and slaying sigils
+* A warhorn for pre-stacking
+* Having a sword is very useful and sometimes even necessary especially for some of the skips (Uncategorized Fractal | Urban Battleground)
+* If no additional cc is necessary you can use Greatsword instead of Mace/Mace
 </Card>
 
-<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </GridItem>
 </Grid>
 </Tab>
@@ -82,7 +83,7 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Tactics" traits2Selected="Empowered, Empower Allies, Phalanx Strength" traits3Id="51" traits3="Discipline" traits3SelectedIds="1413,1484,1369"/>
+<Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Tactics" traits2Selected="Legspecialist, Empower Allies, Phalanx Strength" traits3Id="51" traits3="Discipline" traits3SelectedIds="1413,1484,1369"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -139,7 +140,7 @@ Everything else stays the same.
 <GridItem sm="12">
 <Card title="Skill usage">
 * Pre-fight:
-  * Use <Skill id="14394"/> and <Skill id="14393"/> on warhorn (<Boon name="vigor" disableText/><Boon name="swiftness" disableText/>)
+  * Use <Skill id="14394"/> and <Skill id="14393"/> on warhorn (<Boon name="vigor" disableText/><Boon name="swiftness" disableText/>) to blast a firefield for <Boon name="might"/>.
   * Place <Skill id="14407"/> and <Skill id="14405"/> into to the boss
   * Use <Skill id="14402"/> to charge up Adrenaline immediately before the fight starts
 * Breaking defiance bars:
@@ -216,7 +217,5 @@ With mainhand dagger on <Specialization name="spellbreaker"/>:
 | <Skill id="44937"/> | 100 damage (or 150 on targets using skills) |
 
 </Card>
-
-<Video youtube="i1IoP0Gp0hk" title="Axe/Axe by Chris [SC]"/>
 </GridItem>
 </Grid>
