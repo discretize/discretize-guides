@@ -1,10 +1,11 @@
----
+﻿---
 title: 'Hybrid Firebrand'
-date: '2019-01-20'
+date: '2019-11-18'
 rating: 'Meta'
 role: 'Support'
 profession: 'Guardian'
 specialization: 'Firebrand'
+benchmark: { small: { dps: 23300, by: 'MajesticNoodle [BATS]', youtube: 'G1Y1u4ZwJh8' } }
 skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
@@ -135,7 +136,4 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 </Card>
 </GridItem>
 
-<GridItem sm="5">
-<Video youtube="6oRoJ72CNqI" title="Huge Hitbox: 38.1k DPS by Fallen [SC]"/>
-</GridItem>
 </Grid>
