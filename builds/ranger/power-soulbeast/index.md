@@ -1,12 +1,12 @@
 ﻿---
 title: 'Power Soulbeast'
-date: '2019-11-04'
+date: '2019-11-18'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
-  { small: { dps: 33083, by: 'Obvious Trash [SenT]', youtube: 'UHby8i9DV6s' } }
+  { small: { dps: 33162, by: 'Obvious Trash [SC]', youtube: 'E8ky10gAxB4' } }
 skills: [12497, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
