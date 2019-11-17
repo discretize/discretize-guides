@@ -85,18 +85,22 @@ If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Kra
 ---
 
 <Grid>
-<GridItem sm="5">
+<GridItem sm="7">
 ## Jellyfish Beast
 
+The Jellyfish Beast does not have a Breakbar since rework. Use <Item id="24615"/> and <Item id="24658"/>.
 
-Break Jellyfish Beast's defiance bar as often as possible to benefit from <Item id="24868"/> and deal more damage. If he eats you, use any kind of stunbreak to break free or spam Skill 1.
+It starts it's rotation with an AoE stun. If you get eaten by the boss, your weapon skills get replaced from 1 to 5. Click the specific skill every time to get free. If you miss the right skill too many times you die.
+
+Every 25% the boss gets <Effect name="Invulnerability"/> and Elite Kraits spawn. Kill them to continue the fight.
+
 </GridItem>
 
-<GridItem sm="7">
+<GridItem sm="5">
 
 <Tabs>
 <Tab specialization="revenant">
-Use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Assasin Stance"/>. Use <Skill name="Legendary Demon Stance"/> instead of <Skill name="Legendary Assasin Stance"/> if there is <Instability name="No Paint No Gain"/>. When the Jellyfish raises all of it's tentacle cast <Skill name="Inspiring Reinforcement"/>. Every 25% the boss gets <Effect name"Invulnerability"/> and Elite Kraits spawn. Kill them to continue the fight.
+Use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Assassin Stance"/>. Use <Skill name="Legendary Demon Stance"/> instead of <Skill name="Legendary Assassin Stance" disableText/> if there is <Instability name="No Pain No Gain"/>. When the Jellyfish raises all of it's tentacle cast <Skill name="Inspiring Reinforcement"/>. 
 </Tab>
 
 </GridItem>
