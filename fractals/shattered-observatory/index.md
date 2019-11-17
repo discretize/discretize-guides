@@ -303,7 +303,69 @@ After the fight is over, take the portal in the North and move forward to get to
 
 <Tabs>
 <Tab specialization="Renegade">
-WIP
+**Legends**  
+* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
+
+**Suggested Boon Duration** `80%`
+
+Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/> during the phases.
+
+---
+
+**Precast**  
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
+
+**100-66%**
+* Precast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
+* Manually change to <Skill name="Legendary Dwarf Stance"/> before Artsariiv becomes vulnerable.
+* Use <Skill name="Shackling Wave"/>, and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/> before using the special action key to the corner. 
+* Weapon swap and use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the party.
+* Change to <Skill name="Legendary Renegade Stance"/>, and precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at the location where Artsarriv will appear.
+* Use <Skill name="Surge of the Mists"/> to break the defiance bar. Use it with the special action key to gain additional hits.
+* Weapon swap and change to <Skill name="Legendary Dwarf Stance"/>
+
+**Add**
+* Use <Skill name="Forced Engagement"/> and <Skill name="Shackling Wave"/> to break the adds defiance bar.
+
+
+**66-33%**
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle. 
+* Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
+* Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
+* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to deplete your energy.
+* Change to <Skill name="Legendary Dwarf Stance"/>, and use your special action key to the corner.
+* Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> for additional damage.
+* Weapon swap to staff when phase ends.
+
+**Add**
+* Use <Skill name="Forced Engagement"/> on the first add. 
+* Use <Skill name="Surge of the Mists"/> on the second add.
+
+**33-0%**
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle. 
+* Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
+* Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
+* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to deplete your energy.
+* Change to <Skill name="Legendary Dwarf Stance"/>, and use your special action key to the corner.
+* Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> for additional damage.
+
+---
+
+**Annotation**
+* After using <Skill name="Inspiring Reinforcement"/>, make sure you gain the extra energy from <Trait name="Charged Mists"/> in the first phase. 
+* Time <Skill name="Inspiring Reinforcement"/> so that <Boon name="Stability"/> last long enough for the AoE attack in the middle.
+* Use special action key while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
+* Be aware of energy management before changing to <Skill name="Legendary Renegade Stance"/> in the middle, to gain the extra energy from <Trait name="Charged Mists"/>.
+
 </Tab>
 
 <Tab specialization="Firebrand">
