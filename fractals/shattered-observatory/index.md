@@ -590,7 +590,81 @@ The most important thing is to keep calm. Remember that every single ability can
 
 <Tabs>
 <Tab specialization="Renegade">
-WIP
+**Legends**  
+* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
+
+**Suggested Boon Duration** `80%`
+
+Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
+
+---
+
+**Precast**  
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
+
+**100-80%**
+* Cast <Skill name="Soulcleaves Summit"/> on Arkk and auto attack until the Anomaly appear.
+* Cast <Skill name="Icerazors Ire"/> on the Anomaly.
+* Change to <Skill name="Legendary Assassin Stance"/>.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to finish the Anomaly.
+* Use <Skill name="Deathstrike"/> to quickly get back to Arkk.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Deplete your energy with <Skill name="Precision Strike"/>.
+* Weapon swap and change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
+
+**80-70%**
+* Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location. 
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
+* Weapon swap and change to <Skill name="Legendary Renegade Stance"/>.
+
+**Archdiviner**
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
+* Use special action key if the defiance bar appear.
+* Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
+
+**70-50%**
+* Cast <Skill name="Soulcleaves Summit"/>, and <Skill name="Icerazors Ire"/>.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
+* Change to <Skill name="Legendary Assassin Stance"/>.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
+* Weapon swap and change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
+
+**50-40%**
+* Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location. 
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
+* Weapon swap and change to <Skill name="Legendary Renegade Stance"/>.
+
+**Gladiator**
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
+* Use special action key if the defiance bar appear.
+* Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
+
+**40-30%**
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> in the middle.
+* Cast <Skill name="Icerazors Ire"/> on the Anomaly.
+* Use <Skill name="Precision Strike"/> and <Skill name="Shackling wave"/> to finish of the Anomaly.
+* Weapon swap at the end of the phase.
+
+**30-0%**
+* Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location. 
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
+* Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.
+
+---
+
+**Annotation**
+* Kill the Anomaly in the 70-50% phase if your party struggles to survive without the Mistlock Singularity for the remainder of the encounter.
+    * Use <Skill name="Icerazors Ire"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/> to finish the Anomaly in this case.
+* Weapon swap back to swords as early as you can in the phases where you break the defiance bar. 
+* Precast <Skill name="Darkrazors Daring"/> early enough to gain energy for <Skill name="Surge of the Mists"/> in the opening of 80-70%, 50-40%, and 30-0%. 
 </Tab>
 
 <Tab specialization="Firebrand">
