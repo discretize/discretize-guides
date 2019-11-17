@@ -1,4 +1,4 @@
-﻿
+
 ---
 title: 'Shattered Observatory'
 date: '2019-11-05'
@@ -104,8 +104,8 @@ CC using <Skill name="bane signet"/> and start burns on scepter/sword.
 ### **Adds**
 You can kill the first two adds with greatsword.  Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weopen swap, or you DPS will suffer a lot. You can freely use GS on the first two adds. Swap to scepter/sword after that.
 
-On last platform precast <Skill name="Feelmywrath"/> and <Skill name="banesignet"/> just before taking portal so that all players get are getting back to skorvald fully buffed and you can concentrate on your rotation.
-In some cases where might is lacking, you can use <Skill name="tomeofjustice"/> skill 4 to put down a fire field so that your team can blast it and get might on platform 3. Make sure to not overstack the firefield with a symbol. Blast the firefield with <Skill name="shieldofwrath"/>.
+On last platform precast <Skill name="Feelmywrath"/> and <Skill name="banesignet"/> just before taking portal so that all players get are getting back to skorvald fully buffed and you can concentrate on your rotation.  
+In cases where <Boon name="might"/> is lacking, you can use <Skill name="tomeofjustice"/> skill 4 to put down a fire field so that your team can blast it and get <Boon name="might"/> on platform 3 or 4. Make sure to not overstack the firefield with a symbol. Blast the firefield with <Skill name="shieldofwrath"/>.
 </Tab>
 
 <Tab specialization="Soulbeast">
@@ -322,7 +322,7 @@ If your team does not have a <Specialization name="soulbeast"/> or a <Specializa
 
 
 ### **100%**  
-If you are not skipping the first Anomaly, you should place the wall in the middle.
+If you are not skipping the first Anomaly, you should place the <Skill name="Wall of reflection"/> in the middle since you are killing the anomaly in the middle when she is using her reflectable skill so it can be reflected by placing it in the middle.
 
 If you are skipping the anomaly, use special action key to the corner as soon as the boss starts to move away from the middle, open <Skill name="tomeofcourage"/> and use skill 4 and 5.
 
@@ -335,7 +335,7 @@ Help your team CCing with consumables. Do not waste your bane signet or <Skill n
 ### **Mid Burst**
 Precast <Skill name="tomeofjustice"/> skill 4 and 5 to max out burst. Remember to use <Skill name="restoringreprieve"/> to give <Boon name="aegis"/> just before the boss slams in order to skip dodging it and cotinue to dps with the help of <Boon name="stability"/> from <Specialization name="renegade"/> and your <Boon name="aegis"/>.
 ### **66% and 33%**  
-Start on scepter again. When Artsariiv arrives at the corners again, immediately place your <Skill name="Wall of reflection"/> if there is no other reflect in team or <Skill name="standyourground"/> if there is.
+Start on scepter again. When Artsariiv arrives at the corners again, wait for her to throw the ball and then place your <Skill name="Wall of reflection"/> if there is no other reflect in team or <Skill name="standyourground"/> if there is.
 
 </Tab>
 
