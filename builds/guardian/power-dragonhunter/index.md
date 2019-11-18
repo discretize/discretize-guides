@@ -46,7 +46,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -115,7 +115,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 * In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be benifical to get your <Skill name="spearofjustice"/> out first.)
 * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
 * Dont waste your key skills on meaningless adds
-
+* Scepter is stronger than sword when you press just the symbol
 
 </Card>
 </GridItem>
