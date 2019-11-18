@@ -1,4 +1,3 @@
-
 ---
 title: 'Shattered Observatory'
 date: '2019-11-05'
@@ -27,12 +26,13 @@ consumables: [78978, 8759, 8678, 8732]
 ---
 
 ## Skorvald the Shattered <Label>5,551,340 HP</Label>
-|  |  |
-| -- | -- |
-| Encounter duration | 1:35min |
-| Sigils | <Item name="impact"/> <Item name="force"/>
-| Food | <Item id="41569"/> <Item name="superiorsharpeningstone"/>|
-| CC | 2200 |
+
+|                    |                                                           |
+| ------------------ | --------------------------------------------------------- |
+| Encounter duration | 1:35min                                                   |
+| Sigils             | <Item name="impact"/> <Item name="force"/>                |
+| Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
+| CC                 | 2200                                                      |
 
 <Grid>
 <GridItem sm="7">
@@ -65,7 +65,7 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 </GridItem>
 <GridItem sm="9">
 ### Tactic
-The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health. Please note, that you cannot _precast_ CC here. Your CC affects Skorvald, as soon as his HP bar appears in the top right corner. 
+The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health. Please note, that you cannot _precast_ CC here. Your CC affects Skorvald, as soon as his HP bar appears in the top right corner.
 
 At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four _Elite Flux Anomalies_ to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies dont have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the animations and position yourself between Anomaly and wall.
 
@@ -75,6 +75,7 @@ Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ 
 
 After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his Defiance bar, if he is not dead yet break the bar and finish him.
 </GridItem>
+
 </Grid>
 
 <Tabs>
@@ -87,22 +88,24 @@ WIP
 - Good teams = Scepter; Bad teams = sword. Play <Trait id="574"/>.
 - Start every burn on sword/scepter
 
-
 ### **Precast**
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg` and change back to firebrand. 
+
+- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg` and change back to firebrand.
 - Use <Skill name="Hallowed ground"/> to give a fire field and retal.
 - Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some quickness.
-- Open  <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
+- Open <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
 - Use <Skill name="banesignet"/> before taking the mistlock.
 - Take the mistlock.
-- You can precast <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss. 
+- You can precast <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
 - You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst.
 
 ### **Burn phases**
+
 CC using <Skill name="bane signet"/> and start burns on scepter/sword.
 
 ### **Adds**
-You can kill the first two adds with greatsword.  Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weopen swap, or you DPS will suffer a lot. You can freely use GS on the first two adds. Swap to scepter/sword after that.
+
+You can kill the first two adds with greatsword. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weopen swap, or you DPS will suffer a lot. You can freely use GS on the first two adds. Swap to scepter/sword after that.
 
 On last platform precast <Skill name="Feelmywrath"/> and <Skill name="banesignet"/> just before taking portal so that all players get are getting back to skorvald fully buffed and you can concentrate on your rotation.  
 In cases where <Boon name="might"/> is lacking, you can use <Skill name="tomeofjustice"/> skill 4 to put down a fire field so that your team can blast it and get <Boon name="might"/> on platform 3 or 4. Make sure to not overstack the firefield with a symbol. Blast the firefield with <Skill name="shieldofwrath"/>.
@@ -115,9 +118,10 @@ In cases where <Boon name="might"/> is lacking, you can use <Skill name="tomeofj
 
 Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Before blasting <Boon name="Might"/> cast your <Skill name="Frostspirit"/> and wait for it to loose some hp. Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>. Share <Skill name="One wolf pack"/> and take the mistlock.
 
-Teleport your <Skill name="Frostspirit"/> down to the platform. 
+Teleport your <Skill name="Frostspirit"/> down to the platform.
 
-**Opening**  
+**Opening**
+
 - <Skill id="5531"/> and <Skill name="Barrage"/>
 - Swap to warhorn
 - <Skill name="Onewolfpack"/>
@@ -132,7 +136,8 @@ Resummon <Skill name="Frostspirit"/> on the last island. Take FGS if available. 
 
 **66% and 33%**  
 In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/> hit while he's CCed: fgs5 owp frost trap sicem wh 4 axe 45
-- <Skill id="5531"/> 
+
+- <Skill id="5531"/>
 - <Skill name="Onewolfpack"/>
 - <Skill name="Frosttrap"/>, <Skill name="Sicem"/>
 - <Skill name="hunterscall"/>
@@ -149,21 +154,23 @@ Skip F3 in fast parties, because it has kind of a long cast time.
 ### **General**
 Help pre-stacking by using <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Mistlock Singularity. While running towards Skorvald already place both banners. Make sure to refresh the banners at 66% and 33%. If your team can't burn from 66-33 without the dash, refresh the banners as soon as he starts to dash.
 
-There is not much of a difference between PUGs and organized, except that you instaburn him from 66-33 and 33-0. Playstyle doesnt change. You will get higher DPS when your group is bad. 
+There is not much of a difference between PUGs and organized, except that you instaburn him from 66-33 and 33-0. Playstyle doesnt change. You will get higher DPS when your group is bad.
 
 Important: Watch out where you place your banners! Try to place them slightly out of the group, so it doesnt interfer with a <Item name="whitemantleportaldevice"/>. Do not try to pick up banners when there is a portal, because portal always takes higher priority.
 
 ---
 
 ### **<Specialization name="Berserker"/>** (Standard Axe/Axe Axe/Mace)
-Start on Axe/Mace (<Skill id="14401"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill id="30343"/>, <Skill id="30185"/>) and continue with standard rotation. You can cast Tremor as soon as you get in combat, although skorvald is not yet visible. 
 
-Cast <Skill id="14401"/> and engange <Skill id="30185"/> when the add on the 4th platform is about to die. 
+Start on Axe/Mace (<Skill id="14401"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill id="30343"/>, <Skill id="30185"/>) and continue with standard rotation. You can cast Tremor as soon as you get in combat, although skorvald is not yet visible.
+
+Cast <Skill id="14401"/> and engange <Skill id="30185"/> when the add on the 4th platform is about to die.
 
 ---
 
 ### **<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
-There is not much reason to play core warrior here. Even if your team sucks at CCing, playing berserker and popping a <Item id="8664"/> is fastly superior, since there is only one CC bar you have to break. 
+
+There is not much reason to play core warrior here. Even if your team sucks at CCing, playing berserker and popping a <Item id="8664"/> is fastly superior, since there is only one CC bar you have to break.
 
 </Tab>
 
@@ -200,18 +207,20 @@ For the try-hard version you want to play with three air <Specialization name="W
 - Good teams = Scepter; Bad teams = sword. Play <Trait id="574"/>.
 - Start every burn on sword/scepter
 
-
 ### **Precast**
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`. 
+
+- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
 - Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
 - Use <Skill name="Feelmywrath"/>.
 - Take the mistlock.
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss. 
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
 
 ### **Burn phases**
-Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (phases Skorvald >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat. 
+
+Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (phases Skorvald >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
 
 ### **Adds**
+
 You can kill the first two adds with greatsword. You can use traps on the 2nd add, without having them on cooldown when you are back at Skorval. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weopen swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
 
 </Tab>
@@ -231,22 +240,27 @@ You will encounter several glass mobs on the way to the second boss, there are n
 
 If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip directly to Artsarriv using [this cut](https://www.youtube.com/watch?v=dirYlXZMCc4), otherwise use your `Nova Launch` on the next platform to jump to the elite mob and kill it to proceed to Artsariiv.
 </GridItem>
+
 <GridItem sm="4">
+
 <Image src="./images/way_to_artsariiv.jpg" caption="The way to Artsariiv"/>
+
 </GridItem>
+
 </Grid>
 
 ---
 
 ## Artsariiv <Label>5,962,266 HP</Label>
-|  |  |
-| -- | -- |
-| Encounter duration | 1:30min |
-| Sigils | <Item name="impact"/> <Item name="force"/>
-| Food | <Item id="41569"/> <Item name="superiorsharpeningstone"/>|
-| CC Artsariiv | 2100 |
-| 1. Add phase each | 650 |
-| 2. Add phase each | <375 |
+
+|                    |                                                           |
+| ------------------ | --------------------------------------------------------- |
+| Encounter duration | 1:30min                                                   |
+| Sigils             | <Item name="impact"/> <Item name="force"/>                |
+| Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
+| CC Artsariiv       | 2100                                                      |
+| 1. Add phase each  | 650                                                       |
+| 2. Add phase each  | <375                                                      |
 
 <Grid>
 <GridItem sm="8">
@@ -254,15 +268,20 @@ The second boss of the fractal is Artsariiv. The encounter gets activated by bou
 
 Artsariiv summons copies which split into smaller clones upon death, they use martial arts skills, <Control name="knockdown"/>, shoot shocking projectiles and apply a lot of damaging conditions. Discuss whether you kill all adds (safe tactic) or not.
 
-Assign a player for the _Globolla Marble_ bouncing (typically the <Specialization name="renegade"/>) and a backup in case the main bouncer gets _Corporal Reassignment_. 
+Assign a player for the _Globolla Marble_ bouncing (typically the <Specialization name="renegade"/>) and a backup in case the main bouncer gets _Corporal Reassignment_.
 
 You will need a lot of crowd control skills, consumables like <Item id="8759"/> and <Item id="8678"/> are very strong here.
 
 **Use your `Nova Launch` special action key to quickly move around the platform, the <Boon name="aegis"/> from it counters nearly all mechanics.**
+
 </GridItem>
+
 <GridItem sm="4">
+
 <Image src="./images/artsariiv.jpg" caption="Artsariiv: The second boss"/>
+
 </GridItem>
+
 </Grid>
 
 <Grid>
@@ -312,59 +331,65 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 ---
 
-**Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
+**Precast**
+
+- Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
 
 **100-66%**
-* Precast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
-* Manually change to <Skill name="Legendary Dwarf Stance"/> before Artsariiv becomes vulnerable.
-* Use <Skill name="Shackling Wave"/>, and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Share <Boon name="Might"/> with <Skill name="Heroic Command"/> before using the special action key to the corner. 
-* Weapon swap and use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the party.
-* Change to <Skill name="Legendary Renegade Stance"/>, and precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at the location where Artsarriv will appear.
-* Use <Skill name="Surge of the Mists"/> to break the defiance bar. Use it with the special action key to gain additional hits.
-* Weapon swap and change to <Skill name="Legendary Dwarf Stance"/>
+
+- Precast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
+- Manually change to <Skill name="Legendary Dwarf Stance"/> before Artsariiv becomes vulnerable.
+- Use <Skill name="Shackling Wave"/>, and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+- Share <Boon name="Might"/> with <Skill name="Heroic Command"/> before using the special action key to the corner.
+- Weapon swap and use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the party.
+- Change to <Skill name="Legendary Renegade Stance"/>, and precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at the location where Artsarriv will appear.
+- Use <Skill name="Surge of the Mists"/> to break the defiance bar. Use it with the special action key to gain additional hits.
+- Weapon swap and change to <Skill name="Legendary Dwarf Stance"/>
 
 **Add**
-* Use <Skill name="Forced Engagement"/> and <Skill name="Shackling Wave"/> to break the adds defiance bar.
 
+- Use <Skill name="Forced Engagement"/> and <Skill name="Shackling Wave"/> to break the adds defiance bar.
 
 **66-33%**
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle. 
-* Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
-* Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
-* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to deplete your energy.
-* Change to <Skill name="Legendary Dwarf Stance"/>, and use your special action key to the corner.
-* Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
-* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> for additional damage.
-* Weapon swap to staff when phase ends.
+
+- Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle.
+- Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
+- Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
+- Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+- Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to deplete your energy.
+- Change to <Skill name="Legendary Dwarf Stance"/>, and use your special action key to the corner.
+- Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
+- Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+- Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+- Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> for additional damage.
+- Weapon swap to staff when phase ends.
 
 **Add**
-* Use <Skill name="Forced Engagement"/> on the first add. 
-* Use <Skill name="Surge of the Mists"/> on the second add.
+
+- Use <Skill name="Forced Engagement"/> on the first add.
+- Use <Skill name="Surge of the Mists"/> on the second add.
 
 **33-0%**
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle. 
-* Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
-* Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
-* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to deplete your energy.
-* Change to <Skill name="Legendary Dwarf Stance"/>, and use your special action key to the corner.
-* Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
-* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> for additional damage.
+
+- Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle.
+- Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
+- Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
+- Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+- Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to deplete your energy.
+- Change to <Skill name="Legendary Dwarf Stance"/>, and use your special action key to the corner.
+- Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
+- Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+- Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+- Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> for additional damage.
 
 ---
 
 **Annotation**
-* After using <Skill name="Inspiring Reinforcement"/>, make sure you gain the extra energy from <Trait name="Charged Mists"/> in the first phase. 
-* Time <Skill name="Inspiring Reinforcement"/> so that <Boon name="Stability"/> last long enough for the AoE attack in the middle.
-* Use special action key while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
-* Be aware of energy management before changing to <Skill name="Legendary Renegade Stance"/> in the middle, to gain the extra energy from <Trait name="Charged Mists"/>.
+
+- After using <Skill name="Inspiring Reinforcement"/>, make sure you gain the extra energy from <Trait name="Charged Mists"/> in the first phase.
+- Time <Skill name="Inspiring Reinforcement"/> so that <Boon name="Stability"/> last long enough for the AoE attack in the middle.
+- Use special action key while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
+- Be aware of energy management before changing to <Skill name="Legendary Renegade Stance"/> in the middle, to gain the extra energy from <Trait name="Charged Mists"/>.
 
 </Tab>
 
@@ -373,17 +398,18 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 If your team does not have a <Specialization name="soulbeast"/> or a <Specialization name="dragonhunter"/>, you can take <Skill name="Wall of reflection"/> for omega reflects. If your team does have reflects then take <Skill name="standyourground"/>.
 
 ### **Precast**
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg` and change back to firebrand. 
+
+- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg` and change back to firebrand.
 - Use <Skill name="Hallowed ground"/> to give a fire field and retal.
 - Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some quickness.
-- Open  <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
+- Open <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
 - Use <Skill name="banesignet"/> before taking the mistlock.
 - Take the mistlock.
-- You can precast <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss. 
+- You can precast <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
 - You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst.
 
+### **100%**
 
-### **100%**  
 If you are not skipping the first Anomaly, you should place the <Skill name="Wall of reflection"/> in the middle since you are killing the anomaly in the middle when she is using her reflectable skill so it can be reflected by placing it in the middle.
 
 If you are skipping the anomaly, use special action key to the corner as soon as the boss starts to move away from the middle, open <Skill name="tomeofcourage"/> and use skill 4 and 5.
@@ -392,11 +418,15 @@ When the boss reaches the corner use <Skill name="standyourground"/> to prevent 
 Again it is recommended to start on scepter. Use your <Skill name="Bane Signet"/> to help with CC and boost the party dps as soon as Artsariiv arrives at the corners. Use it even if there is no CC-bar to improve your party dps. Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariivs hitbox for big damage.
 
 ### **Adds**
-Help your team CCing with consumables. Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. Use your special action key to quickly navigate to adds. Swap to scepter and camp it to be ready for the mid burst. 
+
+Help your team CCing with consumables. Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. Use your special action key to quickly navigate to adds. Swap to scepter and camp it to be ready for the mid burst.
 
 ### **Mid Burst**
+
 Precast <Skill name="tomeofjustice"/> skill 4 and 5 to max out burst. Remember to use <Skill name="restoringreprieve"/> to give <Boon name="aegis"/> just before the boss slams in order to skip dodging it and cotinue to dps with the help of <Boon name="stability"/> from <Specialization name="renegade"/> and your <Boon name="aegis"/>.
-### **66% and 33%**  
+
+### **66% and 33%**
+
 Start on scepter again. When Artsariiv arrives at the corners again, wait for her to throw the ball and then place your <Skill name="Wall of reflection"/> if there is no other reflect in team or <Skill name="standyourground"/> if there is.
 
 </Tab>
@@ -412,8 +442,9 @@ Now go through this rotation:
 Use Consumables to CC the adds.
 
 **66% and 33%**
+
 - <Skill name="Maul"/> <Skill name="Hiltbash"/> <Skill name="Maul"/>
-- <Skill id="41524"/>  <Skill id="45743"/>
+- <Skill id="41524"/> <Skill id="45743"/>
 - Dodge (do not use sic em here)
 - Special action key into the corner
 - <Skill name="Maul"/> and <Skill name="sicem"/> into the cast
@@ -426,15 +457,16 @@ or you could go for reflecting her spin attack.
 
 <Tab specialization="berserker">
 ### **General**
-Warrior sucks in organized scenarios. Your dps will be very unsatisfiying, if you run with a decent <Specialization name="soulbeast"/>. Since your dps will be not exactly cool, you have to focus on getting the banner placement right. 
+Warrior sucks in organized scenarios. Your dps will be very unsatisfiying, if you run with a decent <Specialization name="soulbeast"/>. Since your dps will be not exactly cool, you have to focus on getting the banner placement right.
 
 ### **Prefight**
 
-Place banners at the corner of the platfrom where Artsariiv is going to be and help pre-stacking with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Artsariiv. 
- 
+Place banners at the corner of the platfrom where Artsariiv is going to be and help pre-stacking with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Artsariiv.
+
 ### **100% in mid**
-Use <Skill name="whirling axe"/> to gain adrenalin fast. Depending on your team you wanna engage <Skill name="Berserk"/> before you use your special action key to get to Artsariiv. Use <Skill name="Mending"/> to regain eventually lost health and <Trait name="peakperformance"/>.  Swap to your mace, use <Skill id="14518"/> and be ready to <Skill id="14415"/> as soon as the breakbar appears. 
- 
+
+Use <Skill name="whirling axe"/> to gain adrenalin fast. Depending on your team you wanna engage <Skill name="Berserk"/> before you use your special action key to get to Artsariiv. Use <Skill name="Mending"/> to regain eventually lost health and <Trait name="peakperformance"/>. Swap to your mace, use <Skill id="14518"/> and be ready to <Skill id="14415"/> as soon as the breakbar appears.
+
 ### **66% and 33%**
 
 Pick up your banners and place them in the middle of the arena. Help your party to cc the adds, preferable by getting rid of the one in the middle, since you are there anyway. Replace your banners at the corner Artsariiv is going to jump to.
@@ -442,8 +474,8 @@ Pick up your banners and place them in the middle of the arena. Help your party 
 ---
 
 ### **<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
-If you do not bring consumables for the add phases, you play core warrior to help your team getting rid of the adds quickly. 
 
+If you do not bring consumables for the add phases, you play core warrior to help your team getting rid of the adds quickly.
 
 </Tab>
 
@@ -482,25 +514,26 @@ Advanced groups can let the second _Corporeal Reassignment_ trigger and gg the t
 If your team does not have a soulbeast, you can take <Skill name="Wall of reflection"/> for omega reflects. Kick your firebrand if he takes a wall/tome/shield. Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the knockbacking attacks.
 
 ### **Precast**
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) in the corner, where the boss is going to jump to and force your team to `/gg`. 
+
+- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) in the corner, where the boss is going to jump to and force your team to `/gg`.
 - Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
 - Use <Skill name="Feelmywrath"/>.
 - Take the mistlock.
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss in a coordinated team. 
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss in a coordinated team.
 
-### **100%**  
+### **100%**
+
 If you are not skipping the first Anomaly, you should place the wall in the middle.
 Again it is recommended to start on scepter. Use your <Skill name="Bane Signet"/> to help with cc and boost the party dps as soon as Artsariiv arrives at the corners. Use it even if there is no CC-Bar to improve your party dps. Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariivs hitbox for big damage.
 
 ### **Adds**
-Help your team CCing with consumables. Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. Use your special action key to quickly navigate to adds. Swap to scepter and camp it to be ready for the mid burst. 
 
-### **66% and 33%**  
-When all adds are broken, your traps will be off cooldown again. Start on scepter again, use <Skill name="Shield of Wrath"/> to block the expanding AoE and fire everything you have.   
+Help your team CCing with consumables. Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. Use your special action key to quickly navigate to adds. Swap to scepter and camp it to be ready for the mid burst.
+
+### **66% and 33%**
+
+When all adds are broken, your traps will be off cooldown again. Start on scepter again, use <Skill name="Shield of Wrath"/> to block the expanding AoE and fire everything you have.  
 When Artsariiv arrives at the corners again immediately place your <Skill name="Wall of reflection"/>.
-
-
-
 
 </Tab>
 </Tabs>
@@ -508,12 +541,13 @@ When Artsariiv arrives at the corners again immediately place your <Skill name="
 ---
 
 ## Arkk <Item id="50082" disableText/><Label>9,942,250 HP</Label>
-|  |  |
-| -- | -- |
-| Encounter duration | 2:00min |
-| Sigils | <Item name="impact"/> <Item name="force"/>
-| Food | <Item id="41569"/> <Item name="powerfulpotionofslayingscarletsarmies"/>|
-| CC | 1800 |
+
+|                    |                                                                         |
+| ------------------ | ----------------------------------------------------------------------- |
+| Encounter duration | 2:00min                                                                 |
+| Sigils             | <Item name="impact"/> <Item name="force"/>                              |
+| Food               | <Item id="41569"/> <Item name="powerfulpotionofslayingscarletsarmies"/> |
+| CC                 | 1800                                                                    |
 
 <Grid>
 <GridItem sm="8">
@@ -599,73 +633,83 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 ---
 
-**Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
+**Precast**
+
+- Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
 
 **100-80%**
-* Cast <Skill name="Soulcleaves Summit"/> on Arkk and auto attack until the Anomaly appear.
-* Cast <Skill name="Icerazors Ire"/> on the Anomaly.
-* Change to <Skill name="Legendary Assassin Stance"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to finish the Anomaly.
-* Use <Skill name="Deathstrike"/> to quickly get back to Arkk.
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Deplete your energy with <Skill name="Precision Strike"/>.
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
+
+- Cast <Skill name="Soulcleaves Summit"/> on Arkk and auto attack until the Anomaly appear.
+- Cast <Skill name="Icerazors Ire"/> on the Anomaly.
+- Change to <Skill name="Legendary Assassin Stance"/>.
+- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to finish the Anomaly.
+- Use <Skill name="Deathstrike"/> to quickly get back to Arkk.
+- Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+- Deplete your energy with <Skill name="Precision Strike"/>.
+- Weapon swap and change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **80-70%**
-* Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location. 
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
-* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/>.
+
+- Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location.
+- Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+- Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
+- Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
+- Weapon swap and change to <Skill name="Legendary Renegade Stance"/>.
 
 **Archdiviner**
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
-* Use special action key if the defiance bar appear.
-* Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
+
+- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
+- Use special action key if the defiance bar appear.
+- Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **70-50%**
-* Cast <Skill name="Soulcleaves Summit"/>, and <Skill name="Icerazors Ire"/>.
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Change to <Skill name="Legendary Assassin Stance"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
+
+- Cast <Skill name="Soulcleaves Summit"/>, and <Skill name="Icerazors Ire"/>.
+- Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+- Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
+- Change to <Skill name="Legendary Assassin Stance"/>.
+- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
+- Weapon swap and change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **50-40%**
-* Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location. 
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
-* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/>.
+
+- Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location.
+- Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+- Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
+- Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
+- Weapon swap and change to <Skill name="Legendary Renegade Stance"/>.
 
 **Gladiator**
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
-* Use special action key if the defiance bar appear.
-* Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
+
+- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
+- Use special action key if the defiance bar appear.
+- Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **40-30%**
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> in the middle.
-* Cast <Skill name="Icerazors Ire"/> on the Anomaly.
-* Use <Skill name="Precision Strike"/> and <Skill name="Shackling wave"/> to finish of the Anomaly.
-* Weapon swap at the end of the phase.
+
+- Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> in the middle.
+- Cast <Skill name="Icerazors Ire"/> on the Anomaly.
+- Use <Skill name="Precision Strike"/> and <Skill name="Shackling wave"/> to finish of the Anomaly.
+- Weapon swap at the end of the phase.
 
 **30-0%**
-* Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location. 
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
-* Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.
+
+- Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location.
+- Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+- Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
+- Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
+- Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.
 
 ---
 
 **Annotation**
-* Kill the Anomaly in the 70-50% phase if your party struggles to survive without the Mistlock Singularity for the remainder of the encounter.
-    * Use <Skill name="Icerazors Ire"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/> to finish the Anomaly in this case.
-* Weapon swap back to swords as early as you can in the phases where you break the defiance bar. 
-* Precast <Skill name="Darkrazors Daring"/> early enough to gain energy for <Skill name="Surge of the Mists"/> in the opening of 80-70%, 50-40%, and 30-0%. 
-</Tab>
+
+- Kill the Anomaly in the 70-50% phase if your party struggles to survive without the Mistlock Singularity for the remainder of the encounter.
+  - Use <Skill name="Icerazors Ire"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/> to finish the Anomaly in this case.
+- Weapon swap back to swords as early as you can in the phases where you break the defiance bar.
+- Precast <Skill name="Darkrazors Daring"/> early enough to gain energy for <Skill name="Surge of the Mists"/> in the opening of 80-70%, 50-40%, and 30-0%.
+  </Tab>
 
 <Tab specialization="Firebrand">
 ### **General**  
@@ -685,9 +729,11 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst (Take the portal to boss with <Specialization name="soulbeast"/> instead of waiting for someone to trigger it).
 
 ### **100%**
-Use  <Skill name="tomeofcourage"/> skill 4 and 5 to skip first fear.
+
+Use <Skill name="tomeofcourage"/> skill 4 and 5 to skip first fear.
 
 ### **Split Phases**
+
 Use <Skill name="binding blade"/> to pull mobs, open <Skill name="tomeofjustice"/> and use 3rd skill to pull mobs inside boss and 4th skill to put down fire field and use Nova Launch to blast it for <Boon name="might"/>.
 </Tab>
 
@@ -706,9 +752,10 @@ Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Drago
 If you have a portal to get there early, summon your <Skill name="Frost spirit"/>.
 
 **Opening**
+
 - <Skill id="5531"/>
 - <Skill name="Frosttrap"/> so you have two of those ticking at the same time.
-- <Skill name="Sicem"/> 
+- <Skill name="Sicem"/>
 - <Skill name="Barrage"/> <Skill name="Pointblankshot"/> <Skill name="Rapidfire"/>
 - <Skill name="Worldlyimpact"/>
 - <Skill name="Pathofscars"/> <Skill name="Whirling defense"/>
@@ -725,7 +772,8 @@ The weaver should give you a <Skill name="conjurefierygreatsword"/> in the archd
 Precast <Skill id="5531"/> when archdiviner is dead.
 
 **Big burn phase**
-- <Skill name="Barrage"/> 
+
+- <Skill name="Barrage"/>
 - <Skill name="onewolfpack"/> <Skill name="Sicem"/>
 - <Skill name="Frosttrap"/>
 - <Skill name="Pointblankshot"/> <Skill name="Rapidfire"/>
@@ -749,30 +797,34 @@ Full rotation with everything off cooldown.
 Usually the <Specialization name="Renegade"/> is responsible for slaying the Temmporal Anomaly, nonetheless pay 
 close attention to it and assist if necessary. Dont forget to use `Nova Launch` to circumvent the effects of Arkk's _Solar Fury_ and _Solar Discharge_.
 
+### **Precast**
 
-### **Precast** 
 Use a <Item id="78978"/>, use special action key to get to the platform and gprecast <Skill id="14405"/>, <Skill id="14407"/>, <Skill id="14408"/> and a <Skill id="14419"/>. Take the portal back.
 
-Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. Do not take the mistlock to early or you will need more than 1-2 hits to fill up your adrenalin. Also before taking the mistlock, use your special action key to not bug the cooldown reset out and precast <Skill name="mending"/>. 
+Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. Do not take the mistlock to early or you will need more than 1-2 hits to fill up your adrenalin. Also before taking the mistlock, use your special action key to not bug the cooldown reset out and precast <Skill name="mending"/>.
 
 ### **Bloom phases**
+
 If you are full hp, you can step into the lightning, auto attack your bloom until it gets pushed towards the pillar. Use a <Skill name="Throw axe"/> to finish your add. Use <Skill name="Mending"/> afterwards to regain health.
 
 ### **Add phases**
-Refresh your <Skill id="14405"/> and <Skill id="14407"/> at the archdiviner and gladiator adds by blasting a firefield. 
+
+Refresh your <Skill id="14405"/> and <Skill id="14407"/> at the archdiviner and gladiator adds by blasting a firefield.
 
 ---
 
 ### **<Specialization name="Berserker"/>** (Standard Axe/Axe Axe/Mace)
+
 <Message>
 You run <Trait id="2049"/> and use <Skill id="14419"/> at 50% to keep up might!
 </Message>
 Use atleast <Skill id="14415"/> at every breakbar.
 
-In better teams do not use your <Skill id="30185"/> in the 2nd and 4th phase. You want to save it for the longer 20% burns. In bad teams you do not need to put so much thought into it. 
+In better teams do not use your <Skill id="30185"/> in the 2nd and 4th phase. You want to save it for the longer 20% burns. In bad teams you do not need to put so much thought into it.
 
 ### **<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
-If your <Specialization name="Renegade"/> is a useless piece of shit, you can play Core to counter the lack of cc. 
+
+If your <Specialization name="Renegade"/> is a useless piece of shit, you can play Core to counter the lack of cc.
 
 </Tab>
 
@@ -809,11 +861,12 @@ Also since Arkk has extremly long break phases (10 sec), <Skill id="40183"/> is 
 - Use <Skill name="binding blade"/> inside Arkks hitbox when adds are present.
 
 ### **Precast**
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) in the corner, where the boss is going to jump to and force your team to `/gg`. 
+
+- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) in the corner, where the boss is going to jump to and force your team to `/gg`.
 - Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
 - Use <Skill name="Feelmywrath"/>.
 - Take the mistlock.
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal. 
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
 
 </Tab>
 </Tabs>
