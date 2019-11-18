@@ -10,10 +10,11 @@ benchmark:
     large: { dps: 37628, by: 'Fallen [SC]', youtube: 'PutZ0k_edMY' },
     small: { dps: 35687, by: 'Fallen [SC]', youtube: 'GmV62nfPQvs' },
   }
-skills: [5536,5734,5516,44451,5557]
-traits: [1502,226,1503]
-boons: ['Fury','Might', 'Swiftness']
-conditions: ['Burning','Chilled','Vulnerability']
+skills: [5536, 5734, 5516, 44451, 5557]
+traits: [1502, 226, 1503]
+boons: ['Fury', 'Might', 'Swiftness']
+conditions: ['Burning', 'Chilled', 'Vulnerability']
+code: '[&DQYfHSkbOBl0AHQAUAEAAL4BAAA1FwAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals.
@@ -153,7 +154,6 @@ You can still use the [Gear Optimizer](http://old.discretize.eu) if you still pl
 | <Skill name="Stone Resonance" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
 | Utility |
 | <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like Cliffside, Aetherblade and Underground Facility. |
-
 
 </Card>
 </GridItem>
