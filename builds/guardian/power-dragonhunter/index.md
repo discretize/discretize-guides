@@ -1,6 +1,6 @@
 ﻿---
 title: 'Power Dragonhunter'
-date: '2019-11-08'
+date: '2019-11-18'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Guardian'
@@ -19,7 +19,32 @@ The build also offers strong on-demand party support with <Skill id="30039"/> an
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
+<Tabs>
+<Tab title="150 AR">
+<Grid>
+<GridItem sm="4">
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar"/>
+</GridItem>
 
+<GridItem sm="4">
+<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
+
+<Card title="Alternative weapons">
+- Greatswords and Scepters/Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
+- Greatswords and foci with (see [Consumables Guide](/guides/consumables))
+- Hammer for <Boon name="might"/> stacking
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+
+<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
+</GridItem>
+</Grid>
+</Tab>
+
+<Tab title="203 AR">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -41,12 +66,14 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </GridItem>
 </Grid>
+</Tab>
+</Tabs>
 
 <Divider text="Build"/>
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -120,4 +147,4 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 </Card>
 </GridItem>
 
-</Grid>
+</Grid
