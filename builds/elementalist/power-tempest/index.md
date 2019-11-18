@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Power Tempest'
 date: '2019-10-10'
 rating: 'Great'

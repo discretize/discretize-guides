@@ -1,10 +1,11 @@
----
+﻿---
 title: 'Hybrid Renegade'
-date: '2019-09-04'
+date: '2019-11-18'
 rating: 'Meta'
 role: 'Support'
 profession: 'Revenant'
 specialization: 'Renegade'
+benchmark: { small: { dps: 23070, by: 'MajesticNoodle [BATS]', youtube: 'mThyB_5Xjgo' } }
 skills: [45773, 27505]
 traits: [1802]
 boons: ['Alacrity', 'Might', 'Stability']
