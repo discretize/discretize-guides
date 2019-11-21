@@ -1,6 +1,6 @@
 ﻿---
 title: 'Shattered Observatory'
-date: '2019-11-18'
+date: '2019-11-21'
 image: './images/header.jpg'
 group: 'Challenge Mode'
 api: 3458
@@ -198,8 +198,7 @@ Can use <Skill name="whirlingdefense"/> on the 2nd one. Swap to sword/warhorn an
 Resummon <Skill name="Frostspirit"/> on the last island. Take FGS if available. Take the portal early to teleport <Skill name="Frostspirit"/> to you.
 
 **66% and 33%**  
-In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/> hit while he's CCed: fgs5 owp frost trap sicem wh 4 axe 45
-
+In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/> hit while he's CCed: 
 - <Skill id="5531"/>
 - <Skill name="Onewolfpack"/>
 - <Skill name="Frosttrap"/>, <Skill name="Sicem"/>
@@ -495,8 +494,8 @@ Start on scepter again. When Artsariiv arrives at the corners again, wait for he
 </Tab>
 
 <Tab specialization="Soulbeast">
-Summon <Skill name="Frost Spirit"/> in middle before someone triggers her. While she is talking start your precast <Skill id="5531"/> and <Skill name="Barrage"/>. Use <Skill name="Maul"/> <Skill name="Hiltbash"/> and <Skill name="Maul"/> while she is still in the middle.  
-Teleport to the corner and teleport <Skill name="Frost Spirit"/> to you.
+Summon <Skill name="Frost Spirit"/> in middle before someone triggers her. While she is talking start your precast <Skill id="5531"/> and <Skill name="Barrage"/>. Use <Skill name="Maul"/> <Skill name="Hiltbash"/> and <Skill name="Maul"/> while she is still in the middle. Teleport to the corner and teleport <Skill name="Frost Spirit"/> to you.
+
 Now go through this rotation:
 - <Skill name="onewolfpack"/>, <Skill name="sicem"/>
 - <Skill id="45743"/>, <Skill name="pathofscars"/> for insta CC
@@ -832,6 +831,7 @@ Your dps will be low, because you do not want to use <Skill name="Sicem"/> there
 
 Pull one add with <Skill name="Path of scars"/>. This does not work reliable.  
 The weaver should give you a <Skill name="conjurefierygreatsword"/> in the archdiviner phase. Take it and use <Skill name="Fierywhirl"/> in combination with the special action key to get all hits on the archdiviner.
+
 Precast <Skill id="5531"/> when archdiviner is dead.
 
 **Big burn phase**
