@@ -1,6 +1,6 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2019-10-30'
+date: '2019-11-22'
 rating: 'Good'
 role: 'Support'
 profession: 'Guardian'
@@ -9,11 +9,13 @@ skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
 ---
-
 <Message>
-Despite being very common in pugs, this build is not meta!
+Buildrating: 0/5 stars. Play [Heal Renegade](/builds/revenant/heal-renegade) instead.
 </Message>
-This build is also well known as "wheelchair", because it takes away any responsabilities from the team and carries hard, and should never be played unless you want to contribute to people becoming worse and worse.
+<Message>
+Despite being very common in pugs, this build is not meta! If you consider yourself a good player, you should not join parties running this build. 
+</Message>
+This build is also well known as "wheelchair", because it takes away any responsabilities from the team. If you play this build or join parties running this build, please be aware that you are actively contributing to people becoming worse and worse. If you just want a good and smooth run, take a look at the [Fractal Pages](/fractals) and practice your rotation until you can execute it by heart, instead of having someone play this garbage build. The only reason this build is not rated with zero stars is, because we only have 3/4/5 star builds. 
 
 It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>. 
 The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
@@ -25,7 +27,7 @@ When <Instability name="Afflicted"/> is present or enemies are applying conditio
 <Divider text="Equipment"/>
 
 Note that this build variant is optimized for 150 agony resistance.  
-If you have more AR, feel free to swap out harrier pieces for cleric, as long as you are maintaining 100% boonduration. Please take in mind, that this is not THE gear setup you have to play, there are many variants that work. Its all about maximizing boon duration and healing power.  
+If you have more AR, feel free to swap out harrier pieces for cleric, as long as you are maintaining 100% boonduration. Please take in mind, that this is not _THE_ gear setup you have to play, there are many variants that work. Its all about maximizing boon duration and healing power.  
 Yes, you can play full harrier - however you will loose some healing power.
 
 <Grid>
