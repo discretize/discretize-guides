@@ -1,6 +1,6 @@
----
+﻿---
 title: 'Shattered Observatory'
-date: '2019-11-05'
+date: '2019-11-21'
 image: './images/header.jpg'
 group: 'Challenge Mode'
 api: 3458
@@ -80,7 +80,70 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 
 <Tabs>
 <Tab specialization="Renegade">
-WIP
+**Legends**  
+* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
+
+**Suggested Boon Duration** `80%`
+
+Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
+
+---
+
+**Precast**  
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
+
+**100-66%**  
+* Precast <Skill name="Darkrazors Daring"/> when the <Specialization name="Weaver"/> is casting <Skill name="Meteorshower"/>.
+* Cast <Skill name="Icerazors Ire"/> right before triggering the instance.
+* Use <Skill name="Surge of the Mists"/> through Skorvald to break the defiance bar. Be aware of positioning to gain an extra hit.
+* Weapon swap and change to <Skill name="Legendary Assassin Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/> and <Skill name="Precision Strike"/>.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from above"/> when the phase ends.
+
+**1st Add**
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
+* Change to <Skill name="Legendary Renegade Stance"/>.
+* Use <Skill name="Precision Strike"/>.
+
+**2nd Add**  
+* Cast <Skill name="Icerazors Ire"/> while the add is charging the knockback attack.
+* Use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
+* Change to <Skill name="Legendary Assassin Stance"/>.
+
+**3rd Add**
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/>. 
+
+**4th Add**  
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/> on the add after the knockback attack.
+* Deplete your energy as much as you can and change to <Skill name="Legendary Renegade Stance"/>.
+
+**66-33%**
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> immediately.
+* Deplete your energy with <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/>.
+* Change to <Skill name="Legendary Assassin Stance"/>.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>.
+* Share <Boon name="alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
+
+**Adds**
+* Replicate the skill order mentioned above in the earlier add phase.
+
+**33-0%**
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
+* Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> immediately.
+* Deplete your energy with <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/>.
+* Change to <Skill name="Legendary Assassin Stance"/>.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>.
+* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> until the encounter is finished.
+
+---
+
+**Annotation** 
+* Cast <Skill name="Citadel Bombardment"/> right as you jump the shockwave of the 2nd and 4th add. This can save you some time with a good party.
+* Be aware of positioning when sharing <Boon name="Alacrity"/> and <Boon name="Might"/> on the islands. Make sure everyone has landed before sharing.
+* Cancel <Skill name="Surge of the Mists"/> once you are through the hitbox to gain time to do more damage in the first phase. 
 </Tab>
 
 <Tab specialization="Firebrand">
@@ -135,8 +198,7 @@ Can use <Skill name="whirlingdefense"/> on the 2nd one. Swap to sword/warhorn an
 Resummon <Skill name="Frostspirit"/> on the last island. Take FGS if available. Take the portal early to teleport <Skill name="Frostspirit"/> to you.
 
 **66% and 33%**  
-In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/> hit while he's CCed: fgs5 owp frost trap sicem wh 4 axe 45
-
+In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/> hit while he's CCed: 
 - <Skill id="5531"/>
 - <Skill name="Onewolfpack"/>
 - <Skill name="Frosttrap"/>, <Skill name="Sicem"/>
@@ -432,8 +494,8 @@ Start on scepter again. When Artsariiv arrives at the corners again, wait for he
 </Tab>
 
 <Tab specialization="Soulbeast">
-Summon <Skill name="Frost Spirit"/> in middle before someone triggers her. While she is talking start your precast <Skill id="5531"/> and <Skill name="Barrage"/>. Use <Skill name="Maul"/> <Skill name="Hiltbash"/> and <Skill name="Maul"/> while she is still in the middle.  
-Teleport to the corner and teleport <Skill name="Frost Spirit"/> to you.
+Summon <Skill name="Frost Spirit"/> in middle before someone triggers her. While she is talking start your precast <Skill id="5531"/> and <Skill name="Barrage"/>. Use <Skill name="Maul"/> <Skill name="Hiltbash"/> and <Skill name="Maul"/> while she is still in the middle. Teleport to the corner and teleport <Skill name="Frost Spirit"/> to you.
+
 Now go through this rotation:
 - <Skill name="onewolfpack"/>, <Skill name="sicem"/>
 - <Skill id="45743"/>, <Skill name="pathofscars"/> for insta CC
@@ -769,6 +831,7 @@ Your dps will be low, because you do not want to use <Skill name="Sicem"/> there
 
 Pull one add with <Skill name="Path of scars"/>. This does not work reliable.  
 The weaver should give you a <Skill name="conjurefierygreatsword"/> in the archdiviner phase. Take it and use <Skill name="Fierywhirl"/> in combination with the special action key to get all hits on the archdiviner.
+
 Precast <Skill id="5531"/> when archdiviner is dead.
 
 **Big burn phase**
