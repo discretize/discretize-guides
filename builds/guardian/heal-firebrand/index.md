@@ -1,6 +1,6 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2019-11-22'
+date: '2019-11-23'
 rating: 'Good'
 role: 'Support'
 profession: 'Guardian'
@@ -10,15 +10,14 @@ boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
 ---
 <Message>
-Buildrating: 0/5 stars. Play [Heal Renegade](/builds/revenant/heal-renegade) instead.
+Buildrating: 0/5 stars. Play [Heal Renegade](/builds/revenant/heal-renegade) instead if your team struggle to survive.
 </Message>
 <Message>
 Despite being very common in pugs, this build is not meta! If you consider yourself a good player, you should not join parties running this build. 
 </Message>
 This build is also well known as "wheelchair", because it takes away any responsabilities from the team. If you play this build or join parties running this build, please be aware that you are actively contributing to people becoming worse and worse. If you just want a good and smooth run, take a look at the [Fractal Pages](/fractals) and practice your rotation until you can execute it by heart, instead of having someone play this garbage build. The only reason this build is not rated with zero stars is, because we only have 3/4/5 star builds. 
 
-It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>. 
-The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
+It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>. The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
 
 The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radience) to virtues for more heals.
 
