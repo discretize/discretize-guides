@@ -10,12 +10,9 @@ boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
 ---
 <Message>
-Buildrating: 0/5 stars. Play [Heal Renegade](/builds/revenant/heal-renegade) instead if your team struggle to survive.
+Despite being very common in pugs, this build is not meta! We highly recommend to play [Heal Renegade](/builds/revenant/heal-renegade) instead if your team struggle to survive, since Firebrand can deal way more damage than Renegade.
 </Message>
-<Message>
-Despite being very common in pugs, this build is not meta! If you consider yourself a good player, you should not join parties running this build. 
-</Message>
-This build is also well known as "wheelchair", because it takes away any responsabilities from the team. If you play this build or join parties running this build, please be aware that you are actively contributing to people becoming worse and worse. If you just want a good and smooth run, take a look at the [Fractal Pages](/fractals) and practice your rotation until you can execute it by heart, instead of having someone play this garbage build. The only reason this build is not rated with zero stars is, because we only have 3/4/5 star builds. 
+This build takes away any responsabilities from the team. If you play this build we highly recommend learning the signet share variant. If you just want a good and smooth run, take a look at the [Fractal Pages](/fractals) and practice your rotation until you can execute it by heart.
 
 It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>. The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
 
@@ -63,8 +60,8 @@ Yes, you can play full harrier - however you will loose some healing power.
 | <Trait name="Pure of heart" size="big" disableText/> | In some T4s with a lot of attacking enemies it can be beneficial to bring this trait. This trait trades <Boon name="Might"/> for more heals. |
 
 </Card>
-<Card title="Hardcarry healbot">
-In case your team sucks hard and you cannot keep your pug friends alive, you can swap radience for virtues. This however is NOT the default build and should only be played under extreme circumstances. If you somehow get into a situation, where heals are not enough, you should consider to ragequit. 
+<Card title="Wheelchair">
+In case your team downs all the time and you cannot keep your pug friends alive, you can swap radience for virtues. This however is NOT the default build and should only be played under extreme circumstances.
 <Traits traits1="Virtues" traits1Selected="Retaliatory Subconscious, Absolute Resolution, Battle Presence"/>
 </Card>
 </GridItem>
