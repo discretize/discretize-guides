@@ -148,3 +148,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 | <Skill name="Bane Signet"/> | 300 damage |
 </Card>
 </GridItem>
+<GridItem>
+<Video youtube="oigZbGyQvbQ" title="Indepth build guide by Rheyo"/>
+</GridItem>
+</Grid>
