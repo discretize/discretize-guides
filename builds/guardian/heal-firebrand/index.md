@@ -137,6 +137,10 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
 </Card>
+<Message>
+This guide is good for people who want to start fractals with heal firebrand. We still highly recommend running the Radiance/Honor build variant from our Build section so you start playing with the proper build !
+</Message>
+<Video youtube="oigZbGyQvbQ" title="In-depth build guide by Rheyo"/>
 </GridItem>
 
 <GridItem>
@@ -147,8 +151,5 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 | <Skill name="Shield of Absorption"/> | 150 damage |
 | <Skill name="Bane Signet"/> | 300 damage |
 </Card>
-</GridItem>
-<GridItem>
-<Video youtube="oigZbGyQvbQ" title="Indepth build guide by Rheyo"/>
 </GridItem>
 </Grid>
