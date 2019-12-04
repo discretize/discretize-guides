@@ -10,6 +10,7 @@ benchmark:
 skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
+code: '[&DQEQLyo6GzkmDyYP/gD+AAAALQFIAUgBAABxEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 The <Specialization name="dragonhunter" text="Power Dragonhunter"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
