@@ -10,6 +10,7 @@ benchmark:
 skills: [13132, 43390]
 conditions: ['Vulnerability']
 effects: ['Stealth']
+code: '[&DQUcPiMbOi3xFQwBMwEAAFgBAACsFgAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 <Specialization name="Deadeye" text="Power Deadeye"/> has very high and consistent single target DPS and provides a strong crowd control and some <Condition name="Vulnerability"/> as well as plenty sources for <Effect name="Stealth"/>. In addition, the Deadeye rotation is very simplistic.

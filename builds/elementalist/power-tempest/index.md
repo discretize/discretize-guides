@@ -10,6 +10,7 @@ skills: [5536, 29719, 30432, 5734, 5624, 5516]
 traits: [1502, 1839, 1503]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection', 'Vigor', 'Stability']
 conditions: ['Weakness', 'Vulnerability', 'Blind', 'Burning', 'Bleeding']
+code: '[&DQYRPikvMBsXARcBQgHLAL4BTgFQAVABlwCZEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 The <Specialization name="Tempest" text="Power Tempest"/> is a strong DPS variant for fractals with various utilities the <Specialization name="weaver"/> counterpart doesn't offer.

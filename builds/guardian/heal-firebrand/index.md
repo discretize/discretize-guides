@@ -8,6 +8,7 @@ specialization: 'Firebrand'
 skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
+code: '[&DQEQLjElPjZLFwMBehb+AEsBNgH+AEgBiRJxEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 <Message>
 Buildrating: 0/5 stars. Play [Heal Renegade](/builds/revenant/heal-renegade) instead if your team struggle to survive.

@@ -11,6 +11,7 @@ skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
 conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness']
 effects: ['Stealth']
+code: '[&DQUcPSMbBzmUEoUALwFWATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 <Specialization name="Daredevil" text="Power Daredevil"/> has decent DPS and provides excellent crowd control. Furthermore, it adds some <Condition name="Vulnerability"/>, has plenty sources for <Effect name="stealth"/> and has a simplistic rotation.

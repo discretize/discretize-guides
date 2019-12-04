@@ -9,6 +9,7 @@ benchmark: { small: { dps: 27838, by: 'Weird Champ [SC]', youtube: 'EWxjRKrRNRg'
 skills: [14407, 14405, 45252, 45333]
 traits: [1482]
 conditions: ['Vulnerability']
+code: '[&DQIEGws9MxamAKcAogGpAKwArwCqAAAAfAGcAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 The <Specialization text="Banner Warrior" name="warrior"/> is the superior support build for warriors in fractals. This build is only meta on MAMA. In Pugs however, where CC or might is the limiting factor it can be beneficial to bring <Specialization text="Banner Warrior" name="warrior"/> over <Specialization text="Banner Berserker" name="berserker"/>.

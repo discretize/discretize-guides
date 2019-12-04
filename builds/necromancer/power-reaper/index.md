@@ -11,6 +11,7 @@ traits: [2020, 2018, 919]
 boons: ['Might', 'Fury', 'Quickness']
 conditions:
   ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poison', 'Blind']
+code: '[&DQg1GTIlIjYoD6IAgQBwAXMBdgB1AeQAegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
