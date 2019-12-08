@@ -14,7 +14,7 @@ skills: [5536, 5734, 5516, 44451, 5557]
 traits: [1502, 226, 1503]
 boons: ['Fury', 'Might', 'Swiftness']
 conditions: ['Burning', 'Chilled', 'Vulnerability']
-code: '[&DQYfHSkbOBl0AHQAUAEAAL4BAAA1FwAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals.

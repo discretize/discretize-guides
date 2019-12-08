@@ -9,6 +9,7 @@ benchmark: { small: { dps: 23300, by: 'MajesticNoodle [BATS]', youtube: 'G1Y1u4Z
 skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
+code: '[&DQEQLyo6PjpLFwMB/gAAAHoWAABIAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 The **<Specialization text="Hybrid Firebrand" name="firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> for the party while dealing high DPS.

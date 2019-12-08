@@ -1,6 +1,6 @@
 ﻿---
 title: 'Power Dragonhunter'
-date: '2019-11-18'
+date: '2019-11-26'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Guardian'
@@ -10,6 +10,7 @@ benchmark:
 skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
+code: '[&DQEQLyo6GzkmDyYP/gD+AAAALQFIAUgBAABxEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 The <Specialization name="dragonhunter" text="Power Dragonhunter"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
@@ -40,6 +41,12 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 <BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
+
+<Card title="Notes">
+If you use <Trait name="Perfectinscriptions"/> you are lacking crit chance, therefore the assassins pieces. You can of course mitigate this by increasing your agony resistance. 
+
+It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="guardian"/> or another source of <Boon name="Retaliation"/>.
+</Card>
 </GridItem>
 </Grid>
 </Tab>
@@ -91,7 +98,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
 | <Skill id="41571" size="big" disableText/> | A 5 seconds projectile absorb. Good to counterplay  <Instability name="We bleed fire"/> in case your team sucks.
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting 10 seconds. Can be used to counterplay <Instability name="We bleed fire"/>.|
-| <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside #<Instability name="We bleed fire"/>. |
+| <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside <Instability name="We bleed fire"/>. |
 </Card>
 </GridItem>
 </Grid>
@@ -142,9 +149,9 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 * In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be benifical to get your <Skill name="spearofjustice"/> out first.)
 * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
 * Dont waste your key skills on meaningless adds
-* Scepter is stronger than sword when you press just the symbol
+* Scepter is stronger than sword when you use just the symbol
 
 </Card>
 </GridItem>
 
-</Grid
+</Grid>

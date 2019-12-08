@@ -1,6 +1,6 @@
----
+﻿---
 title: 'Aquatic Ruins'
-date: '2019-11-17'
+date: '2019-12-04'
 image: './images/header.jpg'
 group: 'T4'
 api: 2956
@@ -34,7 +34,7 @@ This is an underwater fractal. Make sure you have approriate underwater equipmen
 
 <Grid>
 <GridItem sm="8">
-You can stack <Boon name="might"/> on the rack before entering the water. Kill the three groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
+You can stack <Boon name="might"/> on the rack before entering the water. Kill the two groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
 
 <Tabs>
 <Tab specialization="warrior">
@@ -71,7 +71,7 @@ You can retrait to Tempest for this fractal as it is one of the best choices for
 <GridItem>
 ## Dark Path <Label>Changes daily</Label>
 
-If you get this path, swim together and take the _Luminous Plants_ on the way to protect you and nearby players from dying. If you are able to survive it, take the shortcut to the left after entering the larger cave. Use dodges or <Effect name="invulnerability"/> for the last group of Krait. If someone reaches the end boss, use `/gg` to immediately resurrect there.
+If you get this path, swim together and take the _Luminous Plants_ on the way to protect you and nearby players from dying. If you are able to survive it, take the shortcut to the left after entering the larger cave. Use dodges or <Effect name="invulnerability"/> for the last group of Krait. If someone reaches the krait champion, use `/gg` to immediately resurrect there.
 </GridItem>
 
 <GridItem>
@@ -102,7 +102,9 @@ Every 25% the boss gets <Effect name="Invulnerability"/> and Elite Kraits spawn.
 <Tab specialization="revenant">
 Use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Assassin Stance"/>. Use <Skill name="Legendary Demon Stance"/> instead of <Skill name="Legendary Assassin Stance" disableText/> if there is <Instability name="No Pain No Gain"/>. When the Jellyfish raises all of it's tentacle cast <Skill name="Inspiring Reinforcement"/>. 
 </Tab>
-
+<Tab specialization="guardian">
+Use <Skill name="Stand your ground"/>. If you have multiple Guardians in your team, consider taking <Skill id="43357"/>.
+</Tab> 
 </GridItem>
 </Grid>
 

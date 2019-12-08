@@ -10,6 +10,7 @@ benchmark:
 skills: [12497, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
+code: '[&DQQIGiA7Nzp5AC4XrAGsAbwAtQClAaUBLhYuFjsuLxUAAAAAAAAAAAAAAAA=]'
 ---
 
 <Specialization name="Soulbeast" text="Power Soulbeast"/> is a DPS build with very high burst damage that in addition provides a strong party buff with <Skill name="Frost Spirit"/> (in groups without a Druid), some <Condition name="Vulnerability"/> and crowd control skills.

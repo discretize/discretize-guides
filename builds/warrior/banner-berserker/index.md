@@ -10,6 +10,7 @@ benchmark:
 skills: [14407, 14405]
 traits: [1444, ]
 conditions: ['Vulnerability']
+code: '[&DQIEGzMWEhenAAAAqQAAAKoAAACsAAAAwhIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 The <Specialization text="Banner Berserker" name="berserker"/> is the strongest build for <Specialization name="warrior"/> in fractals, provided at least one of the following is true:
