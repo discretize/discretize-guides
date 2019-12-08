@@ -9,6 +9,7 @@ skills: [45773, 44076, 27025, 45686, 27505]
 traits: [1802, 1814]
 boons: ['Alacrity', 'Might', 'Stability','Regeneration']
 conditions: ['Vulnerability']
+code: '[&DQkMPw8ePz/cEdwRBhIGEisS1BHUESsSyhHKERESDwAAAAAAAAAAAAAAAAA=]'
 ---
 
 For **<Specialization text="Heal Renegade" name="Renegade"/>** we have chosen Harrier and Cleric for maximum power and healing power while while still hitting 100% boon duration because <Skill name="Soulcleaves Summit" /> deals damage and lifesteals based on the **<Specialization text="Heal Renegade" name="Renegade"/>**'s own power and healing power.

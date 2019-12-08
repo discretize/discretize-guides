@@ -10,6 +10,7 @@ skills: [45773, 27505]
 traits: [1802]
 boons: ['Alacrity', 'Might', 'Stability']
 conditions: ['Vulnerability']
+code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 ---
 
 The **<Specialization text="Hybrid Renegade" name="Renegade"/>** (also **_Alacrity Renegade_** or **_Support Renegade_**) is the ideal counterpart to <Specialization text="Hybrid Firebrand" name="Firebrand"/> as it provides permanent <Boon name="alacrity"/> for the group.
