@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'Shattered Observatory'
-date: '2019-11-21'
+date: '2019-12-29'
 image: './images/header.jpg'
 group: 'Challenge Mode'
 api: 3458
@@ -237,31 +237,51 @@ There is not much reason to play core warrior here. Even if your team sucks at C
 </Tab>
 
 <Tab specialization="weaver">
-  
-**PUG Version**
-  
-Use <Skill id="21656"/> and make sure to blast on the first and fourth island during 66% and 33% phase if you have less than two weavers, run air to try-hard or have trouble maintaining 25 stacks of <Boon name="Might"/>.
+### **Precast**
+- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
+- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
+- Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
+- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
+- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>.
+- Take the mistlock.
+- Go to the boss and use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss!
 
-Use the standard Air Opener with a pre-cast <Skill id="5516"/> from taking the Mistlock Singularity for high damage groups or the Earth/Fire Opener with low damage groups. If your group damage is mediocre you should finish the first phase in <Skill id="5492" disableText/>/<Skill id="5492" disableText/> with a <Skill id="5624"/> in your hands. Drop the hammer, use <Skill id="5680"/> to get faster to the air tubulence. Attune <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and start casting <Skill id="5528"/> before jumping in the air turbulence, you will finish casting it mid air. Attune <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and use <Skill id="5548"/>. Stay in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and finish the _Elite Flux Anomaly_ with <Skill id="5491"/> if it is not dead already.
 
-NEVER cast <Skill id="5548"/> on the first _Elite Flux Anomaly_ before at least one player is on the island, since it will cast the fire aoe that might kill players before they can move after using the air turbulence.
 
-Cast <Skill id="5548"/> and <Skill id="43762"/> already on the second _Elite Flux Anomaly_ while it is evading, attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and begin to cast <Skill id="5552"/> so that it instantly hits, when the evade ends. You will have to jump over the shockwave. Hit the _Elite Flux Anomaly_ with <Skill id="41125"/>. If it is not dead yet attune <Skill id="5492" disableText/>/<Skill id="5494" disableText/> and cast a new <Skill id="5548"/>. Attune to <Skill id="5495" disableText/>/<Skill id="5492" disableText/> before taking the next air turbulence. If you are the first on the island or still have <Boon name="Aegis"/> you can also cast <Skill name="Meteor Shower"/>. This is only worth it, if you can channel the skill without being interupted for at least half of its duration.
+### **100%**
+- Use <Skill id="5737"/> right as the boss comes down.
+- Use <Skill id="5687"/> to CC the boss and do your burst.
 
-Start with <Skill id="5528"/> on the third _Elite Flux Anomaly_ followed by <Skill id="5492" disableText/>/<Skill id="5495" disableText/> and <Skill id="5548"/>. If the <Specialization name="Chronomancer"/> places his wells on this island dodge twice to avoid getting knocked out of the wells. Attune to <Skill id="5492" disableText/>/<Skill id="5492" disableText/> before leaving the island.
+### **Anomalies**
+- Make sure to blast your fire fields and use <Skill id="5529"/> to travel faster between anomalies.
+- Drop your <Skill id="5516"/> on the 4th platform before taking the portal back to the boss.
+- Don't get knocked, jump/dodge the waves.
+- Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the portal back to the boss.
 
-If all <Boon name="Might"/> blasts were correct and your group is fast enough you should have 25 stacks of <Boon name="Might"/> now, all other boons and <Trait name="Elements of Rage"/> for 8 secs.
+### **66%**
+- Start with <Skill id="5531"/> on your <Skill id="5516"/>, drop it.
+- Use <Skill id="5737"/> and do your burst.
 
-Place a <Skill id="5548"/> on the last _Elite Flux Anomaly_ and take the portal back to Skorvald (not before the initial jump attack has ended or it will leap out of the <Skill id="5548"/>s) while summening your <Skill id="5516"/> (you can also hit the Anomaly with <Skill id="5517"/> before porting if it still has to much health). Usually the <Specialization name="Warrior"/> or one of the DPS will kill the last Anomaly with the help of your <Skill id="5548"/>. Keep the last Anomaly in your target to time your burst according to how fast it dies. Start your cast in this order: <Skill id="5531"/> -> <Skill id="5501"/> -> <Skill id="5737"/>. Ideally, <Skill id="5737"/> is finished casting the second Skorvald becomes vulnerable again. Continue with <Skill id="5548"/>, <Skill id="41125"/>, <Skill id="5624"/>, <Skill id="5725"/>, <Skill id="5492" disableText/>/<Skill id="5492" disableText/>, <Skill id="5539"/> x3, 1x <Skill id="5726"/> chain. You can place another <Skill id="5548"/> and cast maybe two additional <Skill id="5491"/> before Skorvald starts charging over the platform.
+### **Anomalies**
+- Make sure to blast your fire fields and use <Skill id="5529"/> to travel faster between anomalies.
 
-If everything goes smoothly, Skorvald will be at 33%. Repeat the aforementioned starting from <Skill id="5680"/>. Otherwise start by pre-casting <Skill id="5528"/> in the middle after Skorvald's second charge and continue your rotation accordingly.
+- Don't get knocked, jump/dodge the waves.
+- Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the portal back to the boss.
+ 
+
+### **33%**
+- Use <Skill id="5687"/> to CC the boss and do your burst.
+- Be on max melee range before the boss starts spinning, dont die like a scrub.
+
+### **Tryhard/Static run**
+- Use <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases(Also ez might).
+- Make sure to drop the <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="soulbeast"/> can pick it up before taking the portal
 <Message>
 One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four _Elite Flux Anomalies_. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
 </Message>
 
-**Try-hard**
+<Video title="Video Guide by Tym" youtube="v=DaKI7Ccr_Ss"/>
 
-For the try-hard version you want to play with three air <Specialization name="Weaver"/>. The advantage of this composition is that your <Specialization name="Chronomancer"/> can use Inspiration Domination, which increases <Boon name="Alacrity"/> uptime and allows you to burst again 3-5 seconds earlier. The disadvantage is that you constantly have to keep an eye on your groups <Boon name="Might"/> uptime. But for normal daily runs you will probably have your burst skills ready anyways since you most likely lose those 3-5 seconds during the 66% or 33% split or due to the nerfed <Specialization name="Weaver"/> damage. Under ideal circumstances the time difference is between 8-10 seconds.
 </Tab>
 
 <Tab specialization="Dragonhunter">
@@ -542,33 +562,45 @@ If you do not bring consumables for the add phases, you play core warrior to hel
 </Tab>
 
 <Tab specialization="weaver">
-**PUG Version**
+### **Precast**
+- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
+- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
+- Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
+- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
+- Swap to staff and <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5516"/>.
+- Take the mistlock.
+- As soon as someone catches an orb to start the boss use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="43762"/> , <Skill id="5548"/> and swap to<Skill id="5492"/>/<Skill id="5492"/> and use <Skill id="5501"/> on your staff . Then equip sword/dagger. This is a tight precast so make sure you practice it.
 
-If your group damage is low you can use <Skill id="5501"/> two times per phase, pre-cast the first one in the middle in <Skill id="5495" disableText/>/<Skill id="5492" disableText/>. **Always** place at least a <Skill id="5548"/> on the _Temporaly Anomaly_ before using `Nova Launch` to Artsariiv. You can already attune to <Skill id="5494"/> at the _Temporaly Anomaly_ and burst it with <Skill id="41125"/> before continuing with <Skill id="5737"/> on Artsariiv.
+### **100%**
+- Use <Skill id="45313"/>,<Skill id="5557"/> and <Skill id="44451"/> when the boss is at the the middle. Then use Nova Launch to go the boss at the cornerwhen she moves and switch to <Skill id="5494"/>/<Skill id="5494"/> and use <Skill id="5737"/>.
+- Use <Skill id="5687"/> to break the CC bar.
 
-**crowd control Consumables are strongly recommended for this encounter.**
+### **Split Phase**
+- Use <Skill id="44998"/> and <Skill id="5687"/>.
+- Use >metal rod<. 
 
-In the first phase three <Item id="8749"/>s or one <Item id="8749"/> and a <Item id="8664"/> break a clones Defiance bar. In the second phase one <Item id="8664"/> or two <Item id="8749"/>s break a clones Defiance bar. The reason you want the consumables for fast crowd control is this: If your crowd control phase is fast enough, your boons will still be up when Artsariiv becomes vulnerable again, leading to much higher damage, shorter fights and less chance to wipe to bad instabilites.
+### **66%**
+- Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
+- Blast your fire field for might in the middle.
+- Use nova launch to go to the corner.
+- Use <Skill id="5737"/> if off cd, else use <Skill id="5736"/> and deeps.
 
-So use `Nova Launch` to either your assigned clone or the clone no is at and break its Defiance bar fast. Switch to <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and pre cast in the middle <Skill id="5528"/>, <Skill id="5501"/>, <Skill id="5492" disableText/>/<Skill id="5495" disableText/>, <Skill id="5548"/>, <Skill id="43762"/> and so on (If your <Specialization name="Chronomancer"/> is daydreaming and you have no <Boon name="Quickness"/> skip <Skill id="5501"/> unless you were very fast in the middle).
+### **33%**
+- Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
+- Blast your fire field for might in the middle.
+- Use nova launch to go to the corner.
+- Use <Skill id="5737"/> and do big deeps.
 
-Also keep in mind if you do not go for the nuke in phase one that this is the first boss where you can use the `Nova Launch` to get all <Skill id="5697"/> in the bosses hitbox.
+### **Tryhard/Static**
+- There are many ways to tryhard this encounter, which shall not be discussed here in depth.
+- You can run <Skill id="44612"/>, start the precast on  <Skill id="5492"/>/ <Skill id="5494"/> and use  <Skill id="5548"/>, <Skill id="43762"/> and  <Skill id="5501"/> before the boss starts.
+- Watch tym's video on 100 CM weaver rotations for more clarity.
+<Message>
+Advanced groups can let the second _Corporeal Reassignment_ trigger and /gg the third to save time. But if you failed the first nuke always make sure to kill the second _Temporal Anomaly_. Also sometimes there are communication issues, so if you have the third _Corporeal Reassignment_ always check if someone killed the _Temporal Anomaly_, before killing yourself.
+</Message>
 
-**Try-hard**
+<Video title="Video Guide by Tym [1:49]" youtube="DaKI7Ccr_Ss?t=109"/>
 
-For the nuke strategy you want to damage Artsariiv to 66% before the the initial _Corporeal Reassignment_ triggers. To achieve this you stack <Boon name="Might"/> in the middle and have Artsariiv channel _Beaming Smile_ in the opposite direction of where she will go afterwards, to make sure you won't get hit by it.
-
-Pre-cast <Skill id="5528"/> and <Skill id="5548"/> in the middle. (You can hit Artsariiv with one <Skill id="5491"/> before you have to `Nova Launch` to the first spot), to avoid being hit by _Beaming Smile_.
-
-Now summon your <Skill id="5516"/> followed by <Skill id="5531"/>, then cast <Skill id="5548"/> and <Skill id="43762"/> on Artsariivs landing spot followed by attuning to <Skill id="5494" disableText/>/<Skill id="5492" disableText/>. Follow this with <Skill id="5737"/> and your normal air opener. (You can use <Skill id="5567"/> here for more burst and better range options (<Instability name="Social Awkwardness"/>)). You want to time <Skill id="5548"/> here so that you finish your <Skill id="5737"/> cast, right after jumping over _Solar Discharge_. Or if you trust your <Specialization name="chronomancer"/> you can skip the jump for more damage. The ideal opener should look like [this](https://www.youtube.com/watch?v=uzaqKzCfWJ8).
-
-After all the nerfs the nuke window is pretty tight and you will only succeed if your whole party does everything correct. If either the boons, the crowd control or damage is slightly late, _Corporeal Reassignment_ will trigger.
-
-Note: Advanced statics will not need 3 <Skill id="5516"/> for the nuke in phase 1 and can keep it for higher damage in phase 2. Especially if your whole group has `Fractal God` you can manage the nuke without a single <Skill id="5516"/> in phase 1.
-
-If your damage is particular high use <Skill name="Firestorm"/> in phase 2, to have <Skill name="Lightning Storm"/> ready in phase 3.
-
-Advanced groups can let the second _Corporeal Reassignment_ trigger and gg the third to save time. But if you failed the first nuke always make sure to kill the second _Temporal Anomaly_. Also sometimes there are communication issues, so if you have the third _Corporeal Reassignment_ always check if someone killed the _Temporal Anomaly_, before killing yourself.
 </Tab>
 
 <Tab specialization="dragonhunter">
@@ -892,25 +924,37 @@ If your <Specialization name="Renegade"/> is a useless piece of shit, you can pl
 </Tab>
 
 <Tab specialization="weaver">
-Start in <Skill id="5492" disableText/>/<Skill id="5495" disableText/> with <Skill id="5531"/> followed <Skill id="5548"/> and <Skill id="43762"/>. Attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and cast <Skill id="5737"/> while turned away to avoid the _Blinding Radiance_ <Condition name="fear"/>. Continue with <Skill id="5501"/>.
+### **Precast**
+- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
+- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
+- Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
+- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
+- Swap to  <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>.
+- Take the mistlock.
 
-Always place a <Skill id="5548"/> on the _Temporal Anomaly_ and use <Skill id="5539"/> as backup. If you aim your <Skill id="41125"/> correctly, it hits both Arkk and the _Temporal Anomaly_. The same is true for <Skill id="5528"/> in half of the spawn positions.
+### **Tryhard Precast**
+- **Do this only if you are on voice with your static**.
+- Use Nova Launch/portal to go the the platform early and use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger and shout on voice to start the boss. This is a tight precast so make sure you practice it otherwise staff weaver RIP.
+### **100%**
+- Go <Skill id="5494"/>/<Skill id="5494"/> as soon as the boss starts and use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it and follow with <Skill id="5737"/>  and the usual burst.
 
-If your damage is good enough, you can skip the second and fourth _Temporal Anomaly_ by nuking Arkk to 70% and 40%. With good damage and fast Solar Bloom phases you can also skip the fifth _Temporal Anomaly_ by nuking Arkk from 30% to 0. Never cast <Skill id="5737"/> or <Skill id="5501"/> during the intermediate phases, instead wait and reopen with them on Arkk.
+### **Solar Bloom**
+- For this phase start on <Skill id="5494"/>/<Skill id="5492"/> and auto attack the bloom once and then attune <Skill id="5494"/>/<Skill id="5494"/> to trigger <Trait id="222"/> on the bloom to push it into the pillar. This is the fastest way to do your bloom.
 
-The ideal way to finish Solar Blooms fast, is by standing at 45 degrees to it and hitting it with two auto attacks.
+### **80% and 50%**
+- <Skill id="43803"/> -> <Skill id="43074"/> -> <Skill id="5529"/> -> <Skill id="45313"/> -> <Skill id="44451"/> -> <Skill id="5557"/>.
 
-Pre-cast <Skill id="5548"/> and <Skill id="43762"/> at the end of the Solar Bloom phases on Arkk, followed by <Skill id="5501"/>.
+### **70%**
+- Use <Skill id="5737"/> and the usual burst.
 
-If you have a secondary <Condition name="vulnerability"/> source you will be able to also pre-cast <Skill id="5736"/> each phase before the <Skill id="5501"/>.
+### **40%**
+- Precast <Skill id="5516"/> as the phase is starting and use <Skill id="5531"/> and <Skill id="5697"/> with Nova Launch inside the hitbox and the drop it.
 
-If you don't have a secondary source for <Condition name="vulnerability"/> the cast order is <Skill id="5737"/>, from 100-80%, <Skill id="5737"/> from 70-50%, <Skill id="5736"/> 40-30% and <Skill id="5737"/> 30-0% (With lower damage this might vary.).
+### **30%**
+- Pick up the <Skill id="5516"/> and open with <Skill id="5531"/> and the drop it. Use <Skill id="5737"/> and follow with the usual burst.
+ 
+<Video title="Video Guide by Tym [3:32]" youtube="DaKI7Ccr_Ss?t=212"/>
 
-Note that you can abuse <Skill id="5697"/> and get all hits into Arkk by using `Nova Launch` on yourself immediately after starting the whirl.
-
-Keep in mind that your `Nova Launch` does damage now, so make sure you always hit the boss and or adds if you are forced to use it.
-
-Also since Arkk has extremly long break phases (10 sec), <Skill id="40183"/> is very strong in the 20% and 30% phases.
 </Tab>
 
 <Tab specialization="Dragonhunter">
