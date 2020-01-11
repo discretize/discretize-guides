@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'Nightmare'
-date: '2019-11-09'
+date: '2019-12-29'
 image: './images/ensolyss_crazy.jpg'
 group: 'Challenge Mode'
 api: 3177
@@ -92,7 +92,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Weapon swap to staff near the end of the phase.
 
 **2nd Add**  
-* Precast <Skill name="Darkrazorâ€™s Daring"/> at the location where the add will spawn.
+* Precast <Skill name="Darkrazor’s Daring"/> at the location where the add will spawn.
 * Change to <Skill name="Legendary Assassin stance"/>. 
 * Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
 
@@ -191,7 +191,52 @@ MAMA should phase while you're casting your <Skill name="Whirling defense"/>, th
 </Tab>
 
 <Tab specialization="Weaver">
-WIP
+### **Precast**
+- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
+- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
+- Swap to <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
+- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
+- Use <Skill id="44612"/> instead of <Skill id="40183"/> for faster groups.
+- Swap to <Trait id="294"/> instead of <Trait id="1510"/> for self sufficient might. Recommended in Pugs every time.
+- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>. 
+- Take the mistlock.
+- Go to the boss using <Skill id="5697"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss!
+
+### **100%**
+- Cast <Skill id="5737"/> just before boss becomes vulnerable.
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="44612"/> -><Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>.
+- If the CC Bar is not broken when you use <Skill id="44612"/> then do <Skill id="5691"/> -> <Skill id="44451"/> -><Skill id="5557"/> so that you might get <Skill id="5557"/> in the breakbar.
+- Use <Skill id="5539"/> as soon as MAMA is broken.
+
+### **Knight**
+- Use <Skill id="44998"/>  and auto attack on <Skill id="5494"/>/<Skill id="5492"/>.
+- Throw your <Skill id="5516"/> where the 2nd knight spawns.
+- At 25% use <Skill id="5697"/> towards the boss through the knight and swap to <Skill id="5494"/>/<Skill id="5494"/>.
+
+### **75%**
+- Use <Skill id="5531"/> at the middle even if MAMA is not there because it will port there anyway and drop your <Skill id="5516"/>.
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5539"/> -><Skill id="44612"/> -><Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>.
+- Swap directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> buff and continue to auto attack till MAMA phases again.
+
+### **Knight**
+- Use <Skill id="44998"/>  and pick up <Skill id="5516"/>. 
+- Use <Skill id="5517"/> and auto attack on <Skill id="5494"/>/<Skill id="5494"/> till the knight is about to die.
+- When the knight is about to die use <Skill id="5697"/> towards MAMA.
+
+### **50%**
+- Use <Skill id="5531"/>  and drop your <Skill id="5516"/>. Then use <Skill id="5687"/> to CC.
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5539"/> -><Skill id="44612"/> -><Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>.
+- Swap directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> buff and continue to auto attack till MAMA phases again.
+
+### **Knight**
+- Use <Skill id="44998"/>  and auto attack on <Skill id="5494"/>/<Skill id="5494"/> till the knight is about to die.
+
+### **25%**
+- Use <Skill id="5737"/>  it before MAMA jumps in the air after that dodge INTO her, stand behind her to evade the two spins of her spinspin-slam attack and start your burst; this should not be necessary if the cc is good
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5539"/> -><Skill id="44612"/> -><Skill id="5691"/> -> <Skill id="44451"/> -><Skill id="5557"/>.
+- Swap directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> buff and continue to auto attack till MAMA phases again.
+
+
 </Tab>
 
 <Tab specialization="warrior">
@@ -342,7 +387,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **100 - 66%**   
 * Have your staff equipped and pick up the <Skill name="Conjure Frost Bow"/>.
-* Precast <Skill name="Darkrazorâ€™s Daring"/> and <Skill name="Icerazorâ€™s Ire"/> and change to <Skill name="Legendary Assassin Stance"/>.
+* Precast <Skill name="Darkrazor’s Daring"/> and <Skill name="Icerazor’s Ire"/> and change to <Skill name="Legendary Assassin Stance"/>.
 * Once the encounter begins activate <Skill name="Impossible Odds"/> and use <Skill name="Frost Storm"/>, <Skill name="Citadel Bombardment"/>, and <Skill name="Frost Fan"/>.
 * Change to <Skill name="Legendary Renegade Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>. 
 * Use <Skill name="Deep Freeze"/> and drop the <Skill name="Conjure Frost Bow"/>.
@@ -351,7 +396,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Share <Boon name="might"/> at the end of the phase with <Skill name="Heroic Command"/>.
 
 **1st Add**  
-* Cast <Skill name="Icerazorâ€™s Ire"/> on your designated add. 
+* Cast <Skill name="Icerazor’s Ire"/> on your designated add. 
 * Use <Skill name="Shackling Wave"/> and <Skill name="Precision Strike"/> to finish off the add.
 * Cast <Skill name="Soulcleaves Summit"/> on Siax.
 * Use <Skill name="Deathstrike"/> to shadow step to Siax immediately. 
@@ -379,7 +424,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **Annotation**
 * If you do not have a <Skill name="Conjure Frost Bow"/> for your opening you can do the following:
-    * Precast <Skill name="Darkrazorâ€™s Daring"/> and <Skill name="Icerazorâ€™s Ire"/> and change to <Skill name="Legendary Assassin Stance"/>.
+    * Precast <Skill name="Darkrazor’s Daring"/> and <Skill name="Icerazor’s Ire"/> and change to <Skill name="Legendary Assassin Stance"/>.
     * Activate <Skill name="Impossible Odds"/>, cast <Skill name="Citadel Bombardment"/> and spend time autoattacking. 
     * Change to <Skill name=" Legendary Renegade Stance"/> and use <Skill name="Surge of the mists"/> before continuing with the steps listed above.
 * In slower kills it might be worth sharing <Boon name="Alacrity"/> in the first phase, rather than waiting until the beginnning of the second phase.
@@ -480,21 +525,44 @@ Things to keep in mind:
 </Tab>
 
 <Tab specialization="weaver">
-Start the fight with <Skill id="5531"/> followed by the <Skill id="5494" disableText/>/<Skill id="5492" disableText/> opener if you have high damage or the <Skill id="5495" disableText/>/<Skill id="5492" disableText/> opener if you have low damage. You want to start with this while the last Illusions turn hostile.
+### **Precast**
+- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
+- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
+- Swap to <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
+- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
 
-On the East and South _Echoes of the Unclean_, you can use <Skill id="5697"/> from <Skill id="5516"/> against the wall to deal enormous damage. On the second add spawn you can <Skill id="5697"/> at any location except east.
+- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>. 
+- Take the mistlock.
+- Go to the middle using <Skill id="5697"/>, use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss!
 
-With normal group damage Siax should turn invulnerable at the end of your first <Skill id="5624"/>. Use <Skill id="5680"/> to reach your add fast. Place a <Skill id="5548"/> and use <Skill id="5697"/> to kill your add fast. If you are having trouble killing the add fast after the <Skill id="5548"/> nerf also hit it with <Skill id="5517"/>. It can be worth it depending on your group to attune to <Skill id="5495" disableText/>/<Skill id="5492" disableText/> while killing the add for additional skills and a faster <Trait id="2131"/>. Alternativle start with <Skill name="Eruption"/>, <Skill name="Lava Font"/>, <Skill id="5517"/> and <Skill id="5697"/> through the mob back to the boss (Only do it if you are sure your <Skill id="5697"/> will kill the mob. It feels really bad to reach the boss with your add surviving with less than 1% life).
+### **General**
+- For slower groups you will use <Skill id="5737"/> at 100% and 33%.
+- For faster groups use <Skill id="5737"/> at 66%.
 
-Continue with <Skill id="5531"/> on Siax and restart in <Skill id="5492"/>.
+### **100%**
+- Use <Skill id="5737"/> (assuming slower group) as soon as the boss starts.
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5687"/> -> <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
+- Dont use your second <Skill id="45313"/> as you need it for the echo.
 
-If your group damage is too low to pick up your second <Skill id="5516"/> for the second add, place a <Skill id="5548"/> on it, attune to <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and use <Skill id="41125"/> to kill it quickly.
 
-Continue with <Skill id="5494" disableText/>/<Skill id="5492" disableText/> and <Skill id="5737"/> on Siax.
+### **Echo**
+- Cast <Skill id="45313"/> and swap to <Skill id="5494"/>/<Skill id="5492"/>
+- Cast <Skill id="5516"/> where the second echo spawns, use <Skill id="5517"/> and the go behind the echo and use <Skill id="5697"/> towards the middle while swapping to <Skill id="5494"/>/<Skill id="5494"/> at the same time.
 
-If you play with three weavers split your <Skill id="5737"/> so you have one each phase.
+### **66%**
+- Cast <Skill id="5531"/> and <Skill id="5737"/>(If you did not use it at 100%) just before siax gets vulnerable.   
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/>  -> <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
+- Continue auto attack chain till siax phases(or repeat the rotation if the dps is super low).
+### **Echo**
+- Same as previous echo.
+### **33%**
+- Cast <Skill id="5531"/> and <Skill id="5737"/>(If you used it at 100%) just before siax gets vulnerable.   
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/>  -> <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
 
-If you want to try hard play air instead of arcane, use <Skill id="21656" /> and pre cast <Skill id="5501"/> before the fight to have it ready fast enough in phase 2 and 3.
+### **Tryhard/Coordinated groups**
+- Run <Skill id="5624"/> instead of <Skill id="5539"/> with <Trait id="328"/> traiit. Precast your first <Skill id="5624"/> before taking mistlock.
+- Use <Skill id="5737"/> at 66%.
+
 </Tab>
 
 <Tab specialization="Dragonhunter">
@@ -751,28 +819,31 @@ Keep an eye on <Condition name="vulnerability"/> stacks and use <Skill name="cru
 </Tab>
 
 <Tab specialization="weaver">
-Start the fight in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> with <Skill id="5531"/> followed <Skill id="5528"/> while Ensolyss spawns, continue with <Skill id="5548"/> and <Skill id="5491"/> until <Skill id="5548"/> is ready again. Know cast your situational opener to hit as much damage as possible in the breakbar.
+### **Precast**
+- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
+- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
+- Swap to <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
+- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
 
-If your damage is low and he charges cast your second <Skill id="5501"/> in the middle of the platform after dodging his first charge. If all five players stand there he will teleport back into it.
+- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>. 
+- Take the mistlock.
+- Go to the middle using <Skill id="5697"/>, use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss. Its better to get seomeone else to start the boss for you since u might get knocked in the middle.
+### **100%**
+- <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
+- Compplete AA chains and repeat burst till the boss phases.
 
-If you have two or more weavers one should take <Skill id="5567"/> and switch weapons with the other weavers.
+### **Capture Phase**
+-Just don't die.
 
-If you summond you <Skill id="5516"/> in phase one pick it up before the orbs spawn and keep it the whole orb phase.
+### **66%**
+- Before the boss become vulnerable, cast <Skill id="5691"/> and <Skill id="21656"/> so that your party gets some might.
+- <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete auto attack chain on <Skill id="5492"/>/<Skill id="5494"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="5516"/>(Where you will go in the capture phase) -> <Skill id="5517"/> -> <Skill id="5531"/> ->  <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
+- Complete auto attack chains and get as much damage as you can in the exposed duration.
+### **33%**
+- Cast <Skill id="5531"/> on the <Skill id="5516"/> and drop it.
+- <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
+- Complete auto attack chains and get as much damage as you can in the exposed duration.
 
-Start the fight at 66% with the <Skill id="5495" disableText/>/<Skill id="5492" disableText/> opener. Use <Skill id="5531"/> if you have a <Skill id="5516"/> in hand.
-
-Hit the second breakbar with either <Skill id="5733"/> or <Skill id="5721"/>.
-
-After the orb phases, reopen in <Skill id="5495" disableText/>/<Skill id="5492" disableText/> and cast <Skill id="5528"/> about a second before the orb phase ends. Make sure to have your <Skill id="5501"/> either finished before the first <Control name="knockback"/> zone goes off or start it after making sure you won't get hit.
-
-If you are close to either 66% or 33% and have your <Skill id="5516"/> in hand, you can use <Skill id="5697"/> through his hitbox to get as many hits as possible.
-
-You can double attune <Skill id="5495" disableText/>/<Skill id="5495" disableText/> 2-3 second before the orb phase ends to restart the fight with <Trait id="2131"/> up.
-
-Keep in mind that in the long break phases especially with double cc <Skill id="40183"/> is pretty strong.
-
-**Record**  
-The only difference to the normal run is that you want your dps to be good enough to prevent the charge in p1. Preventing the first bubble in p2 and preventing the port in p3. But with the last weaver nerfs all those marks are now very hard to hit.
 </Tab>
 
 </Tabs>
