@@ -1,6 +1,6 @@
 ---
 title: 'Shattered Observatory'
-date: '2019-12-29'
+date: '2020-02-04'
 image: './images/header.jpg'
 group: 'Challenge Mode'
 api: 3458
@@ -212,28 +212,41 @@ Skip F3 in fast parties, because it has kind of a long cast time.
 </Message>
 </Tab>
 
-<Tab specialization="Warrior">
-### **General**
-Help pre-stacking by using <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Mistlock Singularity. While running towards Skorvald already place both banners. Make sure to refresh the banners at 66% and 33%. If your team can't burn from 66-33 without the dash, refresh the banners as soon as he starts to dash.
+<Tab specialization="Berserker">
+**Build variation**  
+- Bad group with no cc: Mace Mace
+- If you are running with a lot of blue classes: Mace Torch 
+- If you are running in a meta comp: Mace Warhorn 
 
-There is not much of a difference between PUGs and organized, except that you instaburn him from 66-33 and 33-0. Playstyle doesnt change. You will get higher DPS when your group is bad.
+**Prestacking**
+- Drop a fire field with <Skill name="Flames of war"/>.
+- Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
+- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>.
+- Blast 12 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
+- Take the mistlock.
+- While approaching the boss drop both of your banners. 
+- Precast <Skill name="Flames of war"/> for dps
+- Precast <Skill name="Mending"/>
 
-Important: Watch out where you place your banners! Try to place them slightly out of the group, so it doesnt interfer with a <Item name="whitemantleportaldevice"/>. Do not try to pick up banners when there is a portal, because portal always takes higher priority.
+**100%-66%**
+- <Skill name="Tremor"/> and <Skill name="Pommelbash"/>
+- Swap
+- <Skill name="Berserk"/> and <Skill name="Decapitate"/>
+- <Skill name="Dualstrike"/>, <Skill name="Throw axe"/> and <Skill name="Decapitate"/>
+- <Skill name="cycloneaxe"/>, <Skill name="Throw axe"/> and <Skill name="Decapitate"/>
+- Before you move to the first island pick your banners up and redrop them on the main island. Put them slightly outside of the stack so you don't take a portal on accident.
 
----
+**Islands**
+- Swap to your warhorn or torch if you have it and use the blasts in firefields for <Boon name="might"/>.
+- Don't use heavy cooldowns after island 3.
+- On the last island shortly before the add dies use <Skill name="Mending"/> and open <Skill name="Berserk"/> already.
 
-### **<Specialization name="Berserker"/>** (Standard Axe/Axe Axe/Mace)
+**66%-33%**
+- Follow the standard fractal rotation.
+- If your party does not phase skorvald without a dash, recast your banners. 
+- Before you move to the first island pick your banners up and redrop them on the main island. Put them slightly outside of the stack so you don't take a portal on accident.
 
-Start on Axe/Mace (<Skill id="14401"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill id="30343"/>, <Skill id="30185"/>) and continue with standard rotation. You can cast Tremor as soon as you get in combat, although skorvald is not yet visible.
-
-Cast <Skill id="14401"/> and engange <Skill id="30185"/> when the add on the 4th platform is about to die.
-
----
-
-### **<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
-
-There is not much reason to play core warrior here. Even if your team sucks at CCing, playing berserker and popping a <Item id="8664"/> is fastly superior, since there is only one CC bar you have to break.
-
+The rest of the fight follows accordingly.
 </Tab>
 
 <Tab specialization="weaver">
