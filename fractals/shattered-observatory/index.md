@@ -229,12 +229,12 @@ Skip F3 in fast parties, because it has kind of a long cast time.
 - Precast <Skill name="Mending"/>
 
 **100%-66%**
-- <Skill name="Tremor"/> and <Skill name="Pommelbash"/>
+- <Skill name="Tremor"/> and <Skill name="Pommelbash"/>, <Skill name="Headbutt"/>
 - Swap
 - <Skill name="Berserk"/> and <Skill name="Decapitate"/>
-- <Skill name="Dualstrike"/>, <Skill name="Throw axe"/> and <Skill name="Decapitate"/>
 - <Skill name="cycloneaxe"/>, <Skill name="Throw axe"/> and <Skill name="Decapitate"/>
-- Before you move to the first island pick your banners up and redrop them on the main island. Put them slightly outside of the stack so you don't take a portal on accident.
+- <Skill name="Dualstrike"/>, <Skill name="Throw axe"/> and <Skill name="Decapitate"/>
+- If your party is not the fastest pick up your banners and redrop them on the main island. Put them slightly outside of the stack so you don't take a portal on accident.
 
 **Islands**
 - Swap to your warhorn or torch if you have it and use the blasts in firefields for <Boon name="might"/>.
