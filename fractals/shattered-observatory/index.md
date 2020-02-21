@@ -1,6 +1,6 @@
 ---
 title: 'Shattered Observatory'
-date: '2020-02-04'
+date: '2020-02-21'
 image: './images/header.jpg'
 group: 'Challenge Mode'
 api: 3458
@@ -147,13 +147,12 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 </Tab>
 
 <Tab specialization="Firebrand">
-### **tl;dr**
+**tl;dr**
 - Good teams = Scepter; Bad teams = sword. Play <Trait id="574"/>.
 - Start every burn on sword/scepter
 
-### **Precast**
+**Precast**
 
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg` and change back to firebrand.
 - Use <Skill name="Hallowed ground"/> to give a fire field and retal.
 - Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some quickness.
 - Open <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
@@ -162,11 +161,11 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - You can precast <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
 - You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst.
 
-### **Burn phases**
+**Burn phases**
 
 CC using <Skill name="bane signet"/> and start burns on scepter/sword.
 
-### **Adds**
+**Adds**
 
 You can kill the first two adds with greatsword. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weopen swap, or you DPS will suffer a lot. You can freely use GS on the first two adds. Swap to scepter/sword after that.
 
@@ -178,6 +177,8 @@ In cases where <Boon name="might"/> is lacking, you can use <Skill name="tomeofj
 **General**  
 - In organized groups its worth it to take <Skill name="Frosttrap"/> over <Skill name="Signetofthewild"/>.
 - In organized groups you can take warhorn and use <Trait name="Leaderofthepack"/>
+
+**Precast**
 
 Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Before blasting <Boon name="Might"/> cast your <Skill name="Frostspirit"/> and wait for it to loose some hp. Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>. Share <Skill name="One wolf pack"/> and take the mistlock.
 
@@ -214,9 +215,9 @@ Skip F3 in fast parties, because it has kind of a long cast time.
 
 <Tab specialization="Berserker">
 **Build variation**  
-- Bad group with no cc: Mace Mace
-- If you are running with a lot of blue classes: Mace Torch 
-- If you are running in a meta comp: Mace Warhorn 
+- Bad group with no cc: Mace/Mace
+- If you are running with a lot of blue classes: Mace/Torch 
+- If you are running in a meta comp: Mace/Warhorn or Mace/Mace depending on your CC coordination.
 
 **Prestacking**
 - Drop a fire field with <Skill name="Flames of war"/>.
@@ -250,7 +251,7 @@ The rest of the fight follows accordingly.
 </Tab>
 
 <Tab specialization="weaver">
-### **Precast**
+**Precast**
 - Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
 - Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
 - Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
@@ -261,32 +262,32 @@ The rest of the fight follows accordingly.
 
 
 
-### **100%**
+**100%**
 - Use <Skill id="5737"/> right as the boss comes down.
 - Use <Skill id="5687"/> to CC the boss and do your burst.
 
-### **Anomalies**
+**Anomalies**
 - Make sure to blast your fire fields and use <Skill id="5529"/> to travel faster between anomalies.
 - Drop your <Skill id="5516"/> on the 4th platform before taking the portal back to the boss.
 - Don't get knocked, jump/dodge the waves.
 - Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the portal back to the boss.
 
-### **66%**
+**66%**
 - Start with <Skill id="5531"/> on your <Skill id="5516"/>, drop it.
 - Use <Skill id="5737"/> and do your burst.
 
-### **Anomalies**
+**Anomalies**
 - Make sure to blast your fire fields and use <Skill id="5529"/> to travel faster between anomalies.
 
 - Don't get knocked, jump/dodge the waves.
 - Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the portal back to the boss.
  
 
-### **33%**
+**33%**
 - Use <Skill id="5687"/> to CC the boss and do your burst.
 - Be on max melee range before the boss starts spinning, dont die like a scrub.
 
-### **Tryhard/Static run**
+**Tryhard/Static run**
 - Use <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases(Also ez might).
 - Make sure to drop the <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="soulbeast"/> can pick it up before taking the portal
 <Message>
@@ -298,23 +299,23 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 </Tab>
 
 <Tab specialization="Dragonhunter">
-### **tl;dr**
+**tl;dr**
 - Good teams = Scepter; Bad teams = sword. Play <Trait id="574"/>.
 - Start every burn on sword/scepter
 
-### **Precast**
+**Precast**
 
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
 - Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
 - Use <Skill name="Feelmywrath"/>.
 - Take the mistlock.
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
 
-### **Burn phases**
+**Burn phases**
 
 Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (phases Skorvald >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
 
-### **Adds**
+**Adds**
 
 You can kill the first two adds with greatsword. You can use traps on the 2nd add, without having them on cooldown when you are back at Skorval. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weopen swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
 
@@ -489,12 +490,10 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 </Tab>
 
 <Tab specialization="Firebrand">
-### **General**
+**General**
 If your team does not have a <Specialization name="soulbeast"/> or a <Specialization name="dragonhunter"/>, you can take <Skill name="Wall of reflection"/> for omega reflects. If your team does have reflects then take <Skill name="standyourground"/>.
 
-### **Precast**
-
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg` and change back to firebrand.
+**Precast**
 - Use <Skill name="Hallowed ground"/> to give a fire field and retal.
 - Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some quickness.
 - Open <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
@@ -503,7 +502,7 @@ If your team does not have a <Specialization name="soulbeast"/> or a <Specializa
 - You can precast <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
 - You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst.
 
-### **100%**
+**100%**
 
 If you are not skipping the first Anomaly, you should place the <Skill name="Wall of reflection"/> in the middle since you are killing the anomaly in the middle when she is using her reflectable skill so it can be reflected by placing it in the middle.
 
@@ -512,15 +511,15 @@ If you are skipping the anomaly, use special action key to the corner as soon as
 When the boss reaches the corner use <Skill name="standyourground"/> to prevent your <Specialization name="soulbeast"/> to get interrupted during reflect.
 Again it is recommended to start on scepter. Use your <Skill name="Bane Signet"/> to help with CC and boost the party dps as soon as Artsariiv arrives at the corners. Use it even if there is no CC-bar to improve your party dps. Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariivs hitbox for big damage.
 
-### **Adds**
+**Adds**
 
 Help your team CCing with consumables. Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. Use your special action key to quickly navigate to adds. Swap to scepter and camp it to be ready for the mid burst.
 
-### **Mid Burst**
+**Mid Burst**
 
 Precast <Skill name="tomeofjustice"/> skill 4 and 5 to max out burst. Remember to use <Skill name="restoringreprieve"/> to give <Boon name="aegis"/> just before the boss slams in order to skip dodging it and cotinue to dps with the help of <Boon name="stability"/> from <Specialization name="renegade"/> and your <Boon name="aegis"/>.
 
-### **66% and 33%**
+**66% and 33%**
 
 Start on scepter again. When Artsariiv arrives at the corners again, wait for her to throw the ball and then place your <Skill name="Wall of reflection"/> if there is no other reflect in team or <Skill name="standyourground"/> if there is.
 
@@ -551,31 +550,39 @@ or you could go for reflecting her spin attack.
 </Tab>
 
 <Tab specialization="berserker">
-### **General**
-Warrior sucks in organized scenarios. Your dps will be very unsatisfiying, if you run with a decent <Specialization name="soulbeast"/>. Since your dps will be not exactly cool, you have to focus on getting the banner placement right.
+**General**  
 
-### **Prefight**
+If you run with a decent <Specialization name="soulbeast"/>, burn phases won't last long and your dps will be not be that cool, you have to focus on getting the banner placement right.
 
-Place banners at the corner of the platfrom where Artsariiv is going to be and help pre-stacking with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/> at Artsariiv.
+**Build variation**  
+- Standard is Axe-Axe Mace-Mace
+- Depending on the instabilities it can make sense to bring <Skill name="BerserkerStance"/>
 
-### **100% in mid**
+**Prestacking**
+- Drop a fire field with <Skill name="Flames of war"/>.
+- Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
+- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>.
+- Blast 12 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
+- Take the mistlock.
+- While approaching the boss drop both of your banners. Depending on your group DPS you either place them in the middle or at the corner.
+- Precast <Skill name="Flames of war"/> for dps
+- Precast <Skill name="Mending"/>
 
-Use <Skill name="whirling axe"/> to gain adrenalin fast. Depending on your team you wanna engage <Skill name="Berserk"/> before you use your special action key to get to Artsariiv. Use <Skill name="Mending"/> to regain eventually lost health and <Trait name="peakperformance"/>. Swap to your mace, use <Skill id="14518"/> and be ready to <Skill id="14415"/> as soon as the breakbar appears.
+**100% in mid**
 
-### **66% and 33%**
+- Use <Skill name="whirling axe"/> or <Skill name="Headbutt"/> to gain adrenalin fast.
+- Depending on your team you wanna engage <Skill name="Berserk"/> before you use your special action key to get to Artsariiv. 
+- Use <Skill name="Mending"/> to regain eventually lost health and <Trait name="peakperformance"/>. 
+- Swap to your mace, be ready to <Skill id="14415"/> as soon as the breakbar appears.
+
+**66% and 33%**
 
 Pick up your banners and place them in the middle of the arena. Help your party to cc the adds, preferable by getting rid of the one in the middle, since you are there anyway. Replace your banners at the corner Artsariiv is going to jump to.
-
----
-
-### **<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
-
-If you do not bring consumables for the add phases, you play core warrior to help your team getting rid of the adds quickly.
 
 </Tab>
 
 <Tab specialization="weaver">
-### **Precast**
+**Precast**
 - Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
 - Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
 - Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
@@ -584,27 +591,27 @@ If you do not bring consumables for the add phases, you play core warrior to hel
 - Take the mistlock.
 - As soon as someone catches an orb to start the boss use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="43762"/> , <Skill id="5548"/> and swap to<Skill id="5492"/>/<Skill id="5492"/> and use <Skill id="5501"/> on your staff . Then equip sword/dagger. This is a tight precast so make sure you practice it.
 
-### **100%**
+**100%**
 - Use <Skill id="45313"/>,<Skill id="5557"/> and <Skill id="44451"/> when the boss is at the the middle. Then use Nova Launch to go the boss at the cornerwhen she moves and switch to <Skill id="5494"/>/<Skill id="5494"/> and use <Skill id="5737"/>.
 - Use <Skill id="5687"/> to break the CC bar.
 
-### **Split Phase**
+**Split Phase**
 - Use <Skill id="44998"/> and <Skill id="5687"/>.
 - Use >metal rod<. 
 
-### **66%**
+**66%**
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
 - Blast your fire field for might in the middle.
 - Use nova launch to go to the corner.
 - Use <Skill id="5737"/> if off cd, else use <Skill id="5736"/> and deeps.
 
-### **33%**
+**33%**
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
 - Blast your fire field for might in the middle.
 - Use nova launch to go to the corner.
 - Use <Skill id="5737"/> and do big deeps.
 
-### **Tryhard/Static**
+**Tryhard/Static**
 - There are many ways to tryhard this encounter, which shall not be discussed here in depth.
 - You can run <Skill id="44612"/>, start the precast on  <Skill id="5492"/>/ <Skill id="5494"/> and use  <Skill id="5548"/>, <Skill id="43762"/> and  <Skill id="5501"/> before the boss starts.
 - Watch tym's video on 100 CM weaver rotations for more clarity.
@@ -612,32 +619,32 @@ If you do not bring consumables for the add phases, you play core warrior to hel
 Advanced groups can let the second _Corporeal Reassignment_ trigger and /gg the third to save time. But if you failed the first nuke always make sure to kill the second _Temporal Anomaly_. Also sometimes there are communication issues, so if you have the third _Corporeal Reassignment_ always check if someone killed the _Temporal Anomaly_, before killing yourself.
 </Message>
 
-<Video title="Video Guide by Tym [1:49]" youtube="DaKI7Ccr_Ss?t=109"/>
+<Video title="Video Guide by Tym [1:49]" youtube="DaKI7Ccr_Ss"/>
 
 </Tab>
 
 <Tab specialization="dragonhunter">
-### **General**
+**General**
 If your team does not have a soulbeast, you can take <Skill name="Wall of reflection"/> for omega reflects. Kick your firebrand if he takes a wall/tome/shield. Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the knockbacking attacks.
 
-### **Precast**
+**Precast**
 
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) in the corner, where the boss is going to jump to and force your team to `/gg`.
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
 - Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
 - Use <Skill name="Feelmywrath"/>.
 - Take the mistlock.
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss in a coordinated team.
 
-### **100%**
+**100%**
 
 If you are not skipping the first Anomaly, you should place the wall in the middle.
 Again it is recommended to start on scepter. Use your <Skill name="Bane Signet"/> to help with cc and boost the party dps as soon as Artsariiv arrives at the corners. Use it even if there is no CC-Bar to improve your party dps. Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariivs hitbox for big damage.
 
-### **Adds**
+**Adds**
 
 Help your team CCing with consumables. Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. Use your special action key to quickly navigate to adds. Swap to scepter and camp it to be ready for the mid burst.
 
-### **66% and 33%**
+**66% and 33%**
 
 When all adds are broken, your traps will be off cooldown again. Start on scepter again, use <Skill name="Shield of Wrath"/> to block the expanding AoE and fire everything you have.  
 When Artsariiv arrives at the corners again immediately place your <Skill name="Wall of reflection"/>.
@@ -819,14 +826,14 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
   </Tab>
 
 <Tab specialization="Firebrand">
-### **General**  
+**General**  
 - Your goal is to start on scepter/sword at every 10% burn phase, thats why you need to consider weopenswaps carefully. 
 - Pull adds in with GS5. 
 - Cast <Skill name="Bane Signet"/> at mistlock, on all 3 CCs on Arkk and when 70-50% burst begins.
 - The fastest way to do the orbs is to walk into the blue stuff and aa with scepter.
 - Use <Skill name="binding blade"/> inside Arkks hitbox when adds are present.
-### **Precast**
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg` and change back to firebrand. 
+
+**Precast**
 - Use <Skill name="Hallowed ground"/> to give a fire field and retal.
 - Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some quickness.
 - Open  <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
@@ -835,11 +842,11 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - You can precast <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss. 
 - You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst (Take the portal to boss with <Specialization name="soulbeast"/> instead of waiting for someone to trigger it).
 
-### **100%**
+**100%**
 
 Use <Skill name="tomeofcourage"/> skill 4 and 5 to skip first fear.
 
-### **Split Phases**
+**Split Phases**
 
 Use <Skill name="binding blade"/> to pull mobs, open <Skill name="tomeofjustice"/> and use 3rd skill to pull mobs inside boss and 4th skill to put down fire field and use Nova Launch to blast it for <Boon name="might"/>.
 </Tab>
@@ -905,23 +912,23 @@ Full rotation with everything off cooldown.
 Usually the <Specialization name="Renegade"/> is responsible for slaying the Temmporal Anomaly, nonetheless pay 
 close attention to it and assist if necessary. Dont forget to use `Nova Launch` to circumvent the effects of Arkk's _Solar Fury_ and _Solar Discharge_.
 
-### **Precast**
+**Precast**
 
 Use a <Item id="78978"/>, use special action key to get to the platform and gprecast <Skill id="14405"/>, <Skill id="14407"/>, <Skill id="14408"/> and a <Skill id="14419"/>. Take the portal back.
 
 Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. Do not take the mistlock to early or you will need more than 1-2 hits to fill up your adrenalin. Also before taking the mistlock, use your special action key to not bug the cooldown reset out and precast <Skill name="mending"/>.
 
-### **Bloom phases**
+**Bloom phases**
 
 If you are full hp, you can step into the lightning, auto attack your bloom until it gets pushed towards the pillar. Use a <Skill name="Throw axe"/> to finish your add. Use <Skill name="Mending"/> afterwards to regain health.
 
-### **Add phases**
+**Add phases**
 
 Refresh your <Skill id="14405"/> and <Skill id="14407"/> at the archdiviner and gladiator adds by blasting a firefield.
 
 ---
 
-### **<Specialization name="Berserker"/>** (Standard Axe/Axe Axe/Mace)
+**<Specialization name="Berserker"/>** (Standard Axe/Axe Axe/Mace)
 
 <Message>
 You run <Trait id="2049"/> and use <Skill id="14419"/> at 50% to keep up might!
@@ -930,14 +937,14 @@ Use atleast <Skill id="14415"/> at every breakbar.
 
 In better teams do not use your <Skill id="30185"/> in the 2nd and 4th phase. You want to save it for the longer 20% burns. In bad teams you do not need to put so much thought into it.
 
-### **<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
+**<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
 
 If your <Specialization name="Renegade"/> is a useless piece of shit, you can play Core to counter the lack of cc.
 
 </Tab>
 
 <Tab specialization="weaver">
-### **Precast**
+**Precast**
 - Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
 - Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
 - Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
@@ -945,33 +952,33 @@ If your <Specialization name="Renegade"/> is a useless piece of shit, you can pl
 - Swap to  <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>.
 - Take the mistlock.
 
-### **Tryhard Precast**
+**Tryhard Precast**
 - **Do this only if you are on voice with your static**.
 - Use Nova Launch/portal to go the the platform early and use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger and shout on voice to start the boss. This is a tight precast so make sure you practice it otherwise staff weaver RIP.
 ### **100%**
 - Go <Skill id="5494"/>/<Skill id="5494"/> as soon as the boss starts and use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it and follow with <Skill id="5737"/>  and the usual burst.
 
-### **Solar Bloom**
+**Solar Bloom**
 - For this phase start on <Skill id="5494"/>/<Skill id="5492"/> and auto attack the bloom once and then attune <Skill id="5494"/>/<Skill id="5494"/> to trigger <Trait id="222"/> on the bloom to push it into the pillar. This is the fastest way to do your bloom.
 
-### **80% and 50%**
+**80% and 50%**
 - <Skill id="43803"/> -> <Skill id="43074"/> -> <Skill id="5529"/> -> <Skill id="45313"/> -> <Skill id="44451"/> -> <Skill id="5557"/>.
 
-### **70%**
+**70%**
 - Use <Skill id="5737"/> and the usual burst.
 
-### **40%**
+**40%**
 - Precast <Skill id="5516"/> as the phase is starting and use <Skill id="5531"/> and <Skill id="5697"/> with Nova Launch inside the hitbox and the drop it.
 
-### **30%**
+**30%**
 - Pick up the <Skill id="5516"/> and open with <Skill id="5531"/> and the drop it. Use <Skill id="5737"/> and follow with the usual burst.
  
-<Video title="Video Guide by Tym [3:32]" youtube="DaKI7Ccr_Ss?t=212"/>
+<Video title="Video Guide by Tym [3:32]" youtube="DaKI7Ccr_Ss"/>
 
 </Tab>
 
 <Tab specialization="Dragonhunter">
-### **General**  
+**General**  
 - Good teams: start on scepter/sword, so that you are on scepter/sword during the bloom phase.
 - Bad teams: start on greatsword and do SC rotation
 - Your goal is to start on scepter/sword at every 10% burn phase, thats why you need to consider weopenswaps carefully. 
@@ -980,9 +987,9 @@ If your <Specialization name="Renegade"/> is a useless piece of shit, you can pl
 - The fastest way to do the orbs is to walk into the blue stuff and aa with scepter. Use <Skill name="Wings of Resolve"/> to regain health. 
 - Use <Skill name="binding blade"/> inside Arkks hitbox when adds are present.
 
-### **Precast**
+**Precast**
 
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) in the corner, where the boss is going to jump to and force your team to `/gg`.
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
 - Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
 - Use <Skill name="Feelmywrath"/>.
 - Take the mistlock.
