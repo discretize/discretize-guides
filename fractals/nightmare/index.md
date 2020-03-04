@@ -1,6 +1,6 @@
 ---
 title: 'Nightmare'
-date: '2019-12-29'
+date: '2020-03-02'
 image: './images/ensolyss_crazy.jpg'
 group: 'Challenge Mode'
 api: 3177
@@ -131,7 +131,6 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 - Use <Skill name="restoringreprieve"/> to give aegis for spins.
 
 ### **Precast**
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the **first add** and force your team to `/gg` and change back to <Specialization name="firebrand"/>. 
 - Use <Skill name="Hallowed ground"/> to give a fire field and <Boon name="Retaliation"/>.
 - Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some <Boon name="Quickness"/>.
 - Open  <Skill name="tomeofjustice"/> and cast skill 5 (Epilogue).
@@ -267,19 +266,19 @@ Keep an eye on MAMA's <Condition name="vulnerability"/> stacks and use <Skill na
 </Tab>
 
 <Tab specialization="Dragonhunter">
-### **General**
+**General**
 - Do not use traps on the adds
 - Strategically cast your <Skill name="banesignet"/> 
 - Start on Scepter/Sword
 - Use <Skill name="binding blade"/> inside MAMAs hitbox, when the small adds are coming close
+- Check with your team if you are using <Skill name="Feelmywrath"/>
 
+**Precast**
 
-### **Precast**
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) at the places, where the adds are going to spawn and force your team to `/gg`. 
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the first add and force your team to `/gg`.
 - Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Use <Skill name="Feelmywrath"/>.
+- (Use <Skill name="Feelmywrath"/> - depends on your precast)
 - Take the mistlock.
-
 </Tab>
 
 </Tabs>
@@ -435,15 +434,15 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 <Tab specialization="Firebrand">
 Ideally you should be precasting quickness with <Skill name="moastance"/> from <Specialization name="soulbeast"/> and play <Specialization name="dragonhunter"/> with  <Skill name="feelmywrath"/> instead of  <Skill name="dragonsmaw"/>.
-### **Precast**
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the **first add** and force your team to `/gg` and change back to firebrand. 
+**Precast**
 - Use <Skill name="Hallowed ground"/> to give a fire field and retal.
 - Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some quickness.
 - Open  <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
 - Use <Skill name="banesignet"/> before taking the mistlock.
 - Take the mistlock.
 - You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst.
-### **General**
+- 
+**General**
 - Use <Skill name="banesignet"/> for cc.
 - Help killing champs at split with scepter if u kills yours early.
 - Give aegis with <Skill name="restoringreprieve"/> for red AoE.
@@ -573,14 +572,16 @@ Things to keep in mind:
 - Use <Skill name="Wings of resolve"/> to navigate around and keep your HP up.
 - Use <Skill name="Bane Signet"/> to help with CC and buff your party.
 - Use <Skill name="shieldofwrath"/> and <Skill name="Shieldofcourage"/> to block the expanding AoEs.
+- Check with your team if you take <Skill name="Feelmywrath"/>
 
 ---
 
 **Precast**
-- Precast all Traps (<Skill id="30025"/>, <Skill id="30364"/>, <Skill id="29786"/>, <Skill id="30553"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`. 
+
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
 - Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Use <Skill name="Feelmywrath"/>.
 - Take the mistlock.
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
 
 **100%-66%**
 
@@ -601,7 +602,7 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 
 - Use <Skill name="spearofjustice"/> on your add for the modifier from <Trait name="biggamehunter"/>. 
 - Kill it with a symbol and AAs.
-- In fast times you might wanna save a <Skill name="Swordofjustice"/>.
+- In fast runs you might wanna save a <Skill name="Swordofjustice"/>.
 
 **33%-0%**
 
