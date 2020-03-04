@@ -83,7 +83,7 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Devastation" traits1Selected="Vicious Lacerations,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Blood Fury,All for One,Righteous Rebel"/>
+<Traits traits1="Devastation" traits1Selected="Vicious Lacerations,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
  
 </GridItem>
 
