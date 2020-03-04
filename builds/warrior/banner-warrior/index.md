@@ -1,7 +1,7 @@
 ﻿---
 title: 'Banner Warrior'
 date: '2019-11-17'
-rating: 'Meta'
+rating: 'Good'
 role: 'Support'
 profession: 'Warrior'
 specialization: 'Warrior'
