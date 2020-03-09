@@ -1,4 +1,19 @@
-﻿<Divider text="Equipment"/>
+﻿---
+title: 'Hybrid Renegade'
+date: '2020-03-20'
+rating: 'Meta'
+role: 'Support'
+profession: 'Revenant'
+specialization: 'Renegade'
+benchmark: { small: { dps: 23070, by: 'MajesticNoodle [BATS]', youtube: 'mThyB_5Xjgo' } }
+skills: [45773, 27505]
+traits: [1802]
+boons: ['Alacrity', 'Might', 'Stability']
+conditions: ['Vulnerability']
+code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
+---
+
+<Divider text="Equipment"/>
 
 <Tabs outlined>
 <Tab title="162 Agony Resistance">
