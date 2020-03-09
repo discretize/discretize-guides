@@ -1,6 +1,6 @@
 ---
 title: 'Damage Mitigation'
-date: '2019-09-04'
+date: '2020-03-09'
 image: './images/reflect.jpg'
 description: 'Learn which skills and traits your profession can use to avoid damaging mechanics.'
 ---
@@ -192,8 +192,6 @@ You can trait <Trait id="1852"/> to share <Boon name="aegis" disableText/> with 
 <Card specialization="Ranger">
 * <Skill name="Signet of Stone" profession="Ranger"/> <Specialization disableText name="Ranger"/>  
 (Utility)
-* <Skill name="Power Stab" profession="Ranger"/> <Specialization disableText name="Ranger"/>  
-(Greatsword 1, chain 3)
 * <Skill name="Counterattack" specialization="ranger"/> <Specialization disableText name="Ranger"/>  
 (Greatsword 4)
 * <Skill name="Ancestral Grace" profession="Ranger"/> <Specialization disableText name="Druid"/>  
