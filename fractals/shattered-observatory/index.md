@@ -96,33 +96,33 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Precast <Skill name="Darkrazors Daring"/> when the <Specialization name="Weaver"/> is casting <Skill name="Meteorshower"/>.
 * Cast <Skill name="Icerazors Ire"/> right before triggering the instance.
 * Use <Skill name="Surge of the Mists"/> through Skorvald to break the defiance bar. Be aware of positioning to gain an extra hit.
-* Weapon swap and change to <Skill name="Legendary Assassin Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/> and <Skill name="Precision Strike"/>.
+* Weapon swap and change to <Skill name="27659"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/> and <Skill name="Chilling Isolation"/>.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from above"/> when the phase ends.
 
 **1st Add**
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Change to <Skill name="Legendary Renegade Stance"/>.
-* Use <Skill name="Precision Strike"/>.
+* Use <Skill name="Chilling Isolation"/>.
 
 **2nd Add**  
 * Cast <Skill name="Icerazors Ire"/> while the add is charging the knockback attack.
-* Use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
+* Use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
 * Change to <Skill name="Legendary Assassin Stance"/>.
 
 **3rd Add**
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/>. 
+* Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>. 
 
 **4th Add**  
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/> on the add after the knockback attack.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> on the add after the knockback attack.
 * Deplete your energy as much as you can and change to <Skill name="Legendary Renegade Stance"/>.
 
 **66-33%**
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> immediately.
-* Deplete your energy with <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/>.
+* Deplete your energy with <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
 * Change to <Skill name="Legendary Assassin Stance"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>.
 * Share <Boon name="alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
@@ -133,10 +133,10 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 **33-0%**
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> immediately.
-* Deplete your energy with <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/>.
+* Deplete your energy with <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
 * Change to <Skill name="Legendary Assassin Stance"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>.
-* Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> until the encounter is finished.
+* Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> until the encounter is finished.
 
 ---
 
@@ -452,12 +452,12 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
 - Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
 - Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
-- Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to deplete your energy.
+- Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to deplete your energy.
 - Change to <Skill name="Legendary Dwarf Stance"/>, and use your special action key to the corner.
 - Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 - Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
-- Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> for additional damage.
+- Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> for additional damage.
 - Weapon swap to staff when phase ends.
 
 **Add**
@@ -471,12 +471,12 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
 - Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
 - Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
-- Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to deplete your energy.
+- Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to deplete your energy.
 - Change to <Skill name="Legendary Dwarf Stance"/>, and use your special action key to the corner.
 - Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 - Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
-- Use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> for additional damage.
+- Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> for additional damage.
 
 ---
 
@@ -756,10 +756,10 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - Cast <Skill name="Soulcleaves Summit"/> on Arkk and auto attack until the Anomaly appear.
 - Cast <Skill name="Icerazors Ire"/> on the Anomaly.
 - Change to <Skill name="Legendary Assassin Stance"/>.
-- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> to finish the Anomaly.
+- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to finish the Anomaly.
 - Use <Skill name="Deathstrike"/> to quickly get back to Arkk.
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-- Deplete your energy with <Skill name="Precision Strike"/>.
+- Deplete your energy with <Skill name="Chilling Isolation"/>.
 - Weapon swap and change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **80-70%**
@@ -772,7 +772,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 **Archdiviner**
 
-- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
+- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
 - Use special action key if the defiance bar appear.
 - Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
@@ -782,7 +782,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 - Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 - Change to <Skill name="Legendary Assassin Stance"/>.
-- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
+- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
 - Weapon swap and change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **50-40%**
@@ -795,7 +795,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 **Gladiator**
 
-- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/>.
+- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
 - Use special action key if the defiance bar appear.
 - Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
@@ -803,7 +803,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> in the middle.
 - Cast <Skill name="Icerazors Ire"/> on the Anomaly.
-- Use <Skill name="Precision Strike"/> and <Skill name="Shackling wave"/> to finish of the Anomaly.
+- Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling wave"/> to finish of the Anomaly.
 - Weapon swap at the end of the phase.
 
 **30-0%**
@@ -813,14 +813,14 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
 - Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.
+- Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.
 
 ---
 
 **Annotation**
 
 - Kill the Anomaly in the 70-50% phase if your party struggles to survive without the Mistlock Singularity for the remainder of the encounter.
-  - Use <Skill name="Icerazors Ire"/>, <Skill name="Precision Strike"/>, and <Skill name="Shackling Wave"/> to finish the Anomaly in this case.
+  - Use <Skill name="Icerazors Ire"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> to finish the Anomaly in this case.
 - Weapon swap back to swords as early as you can in the phases where you break the defiance bar.
 - Precast <Skill name="Darkrazors Daring"/> early enough to gain energy for <Skill name="Surge of the Mists"/> in the opening of 80-70%, 50-40%, and 30-0%.
   </Tab>
