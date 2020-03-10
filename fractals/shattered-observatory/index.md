@@ -96,7 +96,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Precast <Skill name="Darkrazors Daring"/> when the <Specialization name="Weaver"/> is casting <Skill name="Meteorshower"/>.
 * Cast <Skill name="Icerazors Ire"/> right before triggering the instance.
 * Use <Skill name="Surge of the Mists"/> through Skorvald to break the defiance bar. Be aware of positioning to gain an extra hit.
-* Weapon swap and change to <Skill name="legendaryassassinsstance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
+* Weapon swap and change to <Skill name="legendaryassassinstance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/> and <Skill name="Chilling Isolation"/>.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from above"/> when the phase ends.
 
