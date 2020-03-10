@@ -80,7 +80,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Cast <Skill name="IcerazorsIre"/> right before MAMA becomes vulnerable.
 * Use <Skill name="Surgeofthemists"/> to break the defiance bar. Be aware of your positioning to gain an additional hit. 
 * Weapon swap and change to <Skill name="LegendaryAssassinstance"/> to gain the extra energy from the trait <Trait name="ChargedMists"/>. 
-* Activate <Skill name="Impossibleodds"/>, and use <Skill name="citadel bombardment"/> and <Skill name="PrecisionStrike"/> before sharing <Boon name="Alacrity"/> with <Skill name="OrdersfromAbove"/>.
+* Activate <Skill name="Impossibleodds"/>, and use <Skill name="citadel bombardment"/> and <Skill name="ChillingIsolation"/> before sharing <Boon name="Alacrity"/> with <Skill name="OrdersfromAbove"/>.
 
 **1st Add**   
 * Use <Skill name="Shackling Wave"/>. 
@@ -99,7 +99,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **50-25%**  
 * Use <Skill name="Surge of the Mists"/> through MAMA, and weapon swap to swords. 
-* Activate <Skill name="Impossible Odds"/>, then cast <Skill name="Citadel Bombardment"/> and <Skill name="Precision Strike"/>. 
+* Activate <Skill name="Impossible Odds"/>, then cast <Skill name="Citadel Bombardment"/> and <Skill name="ChillingIsolation"/>. 
 * Change to <Skill name="Legendary Renegade stance"/> for the upcoming add.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when off cooldown.
 
@@ -112,7 +112,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Use <Skill name="Warding Rift"/> for MAMAs shockwaves. 
 * Using <Skill name="Surge of the Mists"/> through MAMA to break the defiance bar. 
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/>. 
-* Activate <Skill name="Impossible Odds"/>, cast <Skill name="Citadel Bombardment"/> and <Skill name="Precision Strike"/>.
+* Activate <Skill name="Impossible Odds"/>, cast <Skill name="Citadel Bombardment"/> and <Skill name="ChillingIsolation"/>.
 
 ---
 
@@ -241,7 +241,7 @@ MAMA should phase while you're casting your <Skill name="Whirling defense"/>, th
 <Tab specialization="warrior">
 ### **General**
 
-Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. It is highly encouraged to go core warrior for CC. You can stay berserker if you are willing to counter the lack of cc with consumables. 
+Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>. It is highly encouraged to go core warrior for CC. You can stay berserker if you are willing to counter the lack of cc with consumables. 
 
 ### **Organized <Specialization name="berserker"/>** (Standard Axe/Axe Axe/Mace)
 
@@ -391,12 +391,12 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Change to <Skill name="Legendary Renegade Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>. 
 * Use <Skill name="Deep Freeze"/> and drop the <Skill name="Conjure Frost Bow"/>.
 * Immediately use <Skill name="Surgeofthemists"/> to finish of the defiance bar.
-* When you are through the hitbox weapon swap and use <Skill name="Precision Strike"/>.
+* When you are through the hitbox weapon swap and use <Skill name="ChillingIsolation"/>.
 * Share <Boon name="might"/> at the end of the phase with <Skill name="Heroic Command"/>.
 
 **1st Add**  
 * Cast <Skill name="Icerazor’s Ire"/> on your designated add. 
-* Use <Skill name="Shackling Wave"/> and <Skill name="Precision Strike"/> to finish off the add.
+* Use <Skill name="Shackling Wave"/> and <Skill name="ChillingIsolation"/> to finish off the add.
 * Cast <Skill name="Soulcleaves Summit"/> on Siax.
 * Use <Skill name="Deathstrike"/> to shadow step to Siax immediately. 
 
@@ -404,11 +404,11 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Let <Skill name="Soulcleaves summit"/> and <Skill name="Shackling wave"/> deplete your energy.
 * Change to <Skill name="Legendary Assassin Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
-* Cast <Skill name="Citadel Bombardment"/> and <Skill name="Precision strike"/>.
+* Cast <Skill name="Citadel Bombardment"/> and <Skill name="ChillingIsolation"/>.
 * Share <Boon name="might"/> at the end of the phase with <Skill name="Heroic Command"/>.
 
 **2nd Add**  
-* Activate <Skill name="Impossible Odds"/> and use <Skill name="Precision strike"/> to kill your add quickly. 
+* Activate <Skill name="Impossible Odds"/> and use <Skill name="ChillingIsolation"/> to kill your add quickly. 
 * Save <Skill name="Shackling Wave"/> for the next phase. 
 * Use <Skill name="Deathstrike"/> to shadow step back to Siax immediately.
 
@@ -417,7 +417,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Use <Skill name="Shackling wave"/> to deplete your energy.
 * Change to <Skill name="Legendary Renegade Stance"/>, this will grant you extra energy from the trit <Trait name="Charged Mists"/>.
 * Cast <Skill name="Soulcleaves Summit"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Heroic Command"/>, and <Skill name="Icerazors Ire"/>.
-* Use <Skill name="Precision strike"/> and <Skill name="Shackling Wave"/> off cooldown until the encounter is finished.
+* Use <Skill name="ChillingIsolation"/> and <Skill name="Shackling Wave"/> off cooldown until the encounter is finished.
 
 ---
 
@@ -428,7 +428,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
     * Change to <Skill name=" Legendary Renegade Stance"/> and use <Skill name="Surge of the mists"/> before continuing with the steps listed above.
 * In slower kills it might be worth sharing <Boon name="Alacrity"/> in the first phase, rather than waiting until the beginnning of the second phase.
 * In slower kills you will have to swap to staff after the second add and use <Skill name="Surge of the mists"/> to break the defiance bar. Casting <Skill name="Darkrazors Daring"/> will also be beneficial in this circumstance.
-* If you are running higher boon duration you will have to use <Skill name="Precision Strike"/> and <Skill name="Shackling Wave"/> on your add to kill it quick enough in both phases.
+* If you are running higher boon duration you will have to use <Skill name="ChillingIsolation"/> and <Skill name="Shackling Wave"/> on your add to kill it quick enough in both phases.
 
 </Tab>
 
@@ -501,7 +501,7 @@ Greatsword:
 
 <Tab specialization="warrior">
 ### **General**
-Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. 
+Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>. 
 
 ### **Organized**
 
@@ -673,12 +673,12 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Use <Skill name="Surge of the mists"/> to break the defiance bar immediately. Be aware of your positioning to gain an additional hit.
 * Weapon swap and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>. Be aware of energy management.  
 * Change to <Skill name="Legendary Assassin Stance"/> to gain the extra energy from the trait <Trait name ="Charged Mists"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Precision Strike"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="Precision Strike"/> again.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="ChillingIsolation"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="ChillingIsolation"/> again.
 
 *In the case of reaching the Upswing attack.*
 * Change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/>.
-* Use <Skill name="Precision Strike"/>, <Skill name="Shackling Wave"/>, and <Skill name="Deathstrike"/> until phase is finished.
+* Use <Skill name="ChillingIsolation"/>, <Skill name="Shackling Wave"/>, and <Skill name="Deathstrike"/> until phase is finished.
 
 **Orb Phase**
 * Weapon swap to staff and change to <Skill name="Legendary Renegade Stance"/>.
@@ -690,7 +690,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Cast <Skill name="Icerazors Ire"/>, <Skill name="Orders from Above"/> for <Boon name="Alacrity"/>, <Skill name="Heroic Command"/> for <Boon name="Might"/>, and <Skill name="Soulcleaves Summit"/>.
 * Use <Skill name="Surge of the mists"/> to break the defiance bar immediately. Be aware of energy management.
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/> to gain the extra energy from the trait <Trait name ="Charged Mists"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Precision Strike"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="Precision Strike"/> again.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="ChillingIsolation"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="ChillingIsolation"/> again.
 
 *After the completion of the Nightmare Devastation attack*
 * Weapon swap and change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>
@@ -708,18 +708,18 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Cast <Skill name="Icerazors Ire"/>, <Skill name="Orders from Above"/> for <Boon name="Alacrity"/>, <Skill name="Heroic Command"/> for <Boon name="Might"/>, and <Skill name="Soulcleaves Summit"/>.
 * Use <Skill name="Surge of the mists"/> to break the defiance bar immediately. Be aware of energy management.
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/> to gain the extra energy from the trait <Trait name ="Charged Mists"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Precision Strike"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="Precision Strike"/> again.
+* Activate <Skill name="Impossible Odds"/>, and use <Skill name="ChillingIsolation"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="ChillingIsolation"/> again.
 
 *In the case of teleporting to the edge of the platform.*
 * Change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/>.
-* Use <Skill name="Precision Strike"/>, <Skill name="Shackling Wave"/>, and <Skill name="Deathstrike"/> until phase is finished.
+* Use <Skill name="ChillingIsolation"/>, <Skill name="Shackling Wave"/>, and <Skill name="Deathstrike"/> until phase is finished.
 
 ---
 
 **Annotation**
 * Consider breaking the defiance bar a second time in prolonged phases. Use <Skill name="Surge of the Mists"/> and <Skill name="Darkrazors Daring"/> after the Upswing attack in the first phase, and after the Nightmare Devastation attack in the second phase. In the third phase use <Skill name="Darkrazors Daring"/> on the first defiance bar, and use <Skill name="Surge of the mists"/> immediately when the second defiance bar appears.
-* Using <Skill name="Precision Strike"/> before <Skill name="Citadel Bombardment"/> will give you the opportunity to use <Skill name="Precision Strike"/> again while Ensolyss is affected by the Exposed debuff.
+* Using <Skill name="ChillingIsolation"/> before <Skill name="Citadel Bombardment"/> will give you the opportunity to use <Skill name="ChillingIsolation"/> again while Ensolyss is affected by the Exposed debuff.
 * Coordinate with the <Specialization name="Soulbeast"/> in which orb phase to use <Skill name="Breakrazors Bastion"/> to heal the <Skill name="Frost Spirit"/>.
 </Tab>
 
