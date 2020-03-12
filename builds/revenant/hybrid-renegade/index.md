@@ -171,7 +171,7 @@ code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 
 - <Skill name="Soothing Stone"/> - Powerful self heal and condition removal.
 - <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field. 
-- <Skill name="Forced Engagement"/> - Shoot out a chain to your target and <Condition name="Taunt"/> and <Condition name="Slow"/> your target and four nearby enemies.
+- <Skill name="Forced Engagement"/> - Shoot out a chain to your target that applies <Condition name="Taunt"/> and <Condition name="Slow"/> to your target and four nearby enemies.
 - <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
 - <Skill name="Rite of the Great Dwarf"/> - Stunbreak, which reduces incoming damage by 50% for your party.
 
