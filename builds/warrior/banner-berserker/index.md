@@ -120,7 +120,7 @@ For boss fights such as the Brazen Gladiator in the Chaos Fractal, with no initi
 * Swap to <Trait id="1711"/> and use <Skill id="14355"/>. Swap back to your inital traits.
 * If a fire field isn’t present, equip an offhand torch and use <Skill name="Flames of War"/>.
 * If you haven’t needed to precast your banners at the boss, use them to blast the fire field for 6 stacks of <Boon name="Might"/> per banner.
-* If you have precast your banners, use <Skill name="Call to Arms"/> and <Skill id="14393"/> on offhand warhorn to blast four times using the _Mistlock Singularity_.
+* If you have precast your banners, use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand warhorn to blast four times using the _Mistlock Singularity_.
 * Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
 * If there is a defiance bar present immediately at the start of the fight, start on your Mace/Mace set - otherwise swap to it when necessary.
 * With <Item name="Paralyzation" type="Sigil"/> you can deal 820 defiance bar damage with

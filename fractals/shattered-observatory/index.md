@@ -81,7 +81,7 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 <Tabs>
 <Tab specialization="Renegade">
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
+* <Skill name="Legendary Renegade Stance"/> and <Skill name="legendaryassassinstance"/>.
 
 **Suggested Boon Duration** `80%`
 
@@ -96,7 +96,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Precast <Skill name="Darkrazors Daring"/> when the <Specialization name="Weaver"/> is casting <Skill name="Meteorshower"/>.
 * Cast <Skill name="Icerazors Ire"/> right before triggering the instance.
 * Use <Skill name="Surge of the Mists"/> through Skorvald to break the defiance bar. Be aware of positioning to gain an extra hit.
-* Weapon swap and change to <Skill name="27659"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
+* Weapon swap and change to <Skill name="legendaryassassinstance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/> and <Skill name="Chilling Isolation"/>.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from above"/> when the phase ends.
 
@@ -108,7 +108,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 **2nd Add**  
 * Cast <Skill name="Icerazors Ire"/> while the add is charging the knockback attack.
 * Use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
-* Change to <Skill name="Legendary Assassin Stance"/>.
+* Change to <Skill name="legendaryassassinstance"/>.
 
 **3rd Add**
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
@@ -123,7 +123,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> immediately.
 * Deplete your energy with <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
-* Change to <Skill name="Legendary Assassin Stance"/>.
+* Change to <Skill name="legendaryassassinstance"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>.
 * Share <Boon name="alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
 
@@ -134,7 +134,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> immediately.
 * Deplete your energy with <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
-* Change to <Skill name="Legendary Assassin Stance"/>.
+* Change to <Skill name="legendaryassassinstance"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> until the encounter is finished.
 
@@ -222,7 +222,7 @@ Skip F3 in fast parties, because it has kind of a long cast time.
 **Prestacking**
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>.
+- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>.
 - Blast 12 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
 - Take the mistlock.
 - While approaching the boss drop both of your banners. 
@@ -561,7 +561,7 @@ If you run with a decent <Specialization name="soulbeast"/>, burn phases won't l
 **Prestacking**
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>.
+- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>.
 - Blast 12 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
 - Take the mistlock.
 - While approaching the boss drop both of your banners. Depending on your group DPS you either place them in the middle or at the corner.
@@ -739,7 +739,7 @@ The most important thing is to keep calm. Remember that every single ability can
 <Tabs>
 <Tab specialization="Renegade">
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
+* <Skill name="Legendary Renegade Stance"/> and <Skill name="legendaryassassinstance"/>.
 
 **Suggested Boon Duration** `80%`
 
@@ -755,7 +755,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 - Cast <Skill name="Soulcleaves Summit"/> on Arkk and auto attack until the Anomaly appear.
 - Cast <Skill name="Icerazors Ire"/> on the Anomaly.
-- Change to <Skill name="Legendary Assassin Stance"/>.
+- Change to <Skill name="legendaryassassinstance"/>.
 - Activate <Skill name="Impossible Odds"/>, and use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to finish the Anomaly.
 - Use <Skill name="Deathstrike"/> to quickly get back to Arkk.
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
@@ -768,7 +768,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 - Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
 - Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-- Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
+- Weapon swap and change to <Skill name="legendaryassassinstance"/>.
 
 **Archdiviner**
 
@@ -781,7 +781,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - Cast <Skill name="Soulcleaves Summit"/>, and <Skill name="Icerazors Ire"/>.
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 - Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-- Change to <Skill name="Legendary Assassin Stance"/>.
+- Change to <Skill name="legendaryassassinstance"/>.
 - Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
 - Weapon swap and change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
@@ -791,7 +791,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 - Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
 - Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-- Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
+- Weapon swap and change to <Skill name="legendaryassassinstance"/>.
 
 **Gladiator**
 
@@ -811,7 +811,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 - Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location.
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 - Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
-- Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
+- Weapon swap and change to <Skill name="legendaryassassinstance"/>.
 - Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 - Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.
 
@@ -916,7 +916,7 @@ close attention to it and assist if necessary. Dont forget to use `Nova Launch` 
 
 Use a <Item id="78978"/>, use special action key to get to the platform and gprecast <Skill id="14405"/>, <Skill id="14407"/>, <Skill id="14408"/> and a <Skill id="14419"/>. Take the portal back.
 
-Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call to Arms" profession="Warrior"/>. Do not take the mistlock to early or you will need more than 1-2 hits to fill up your adrenalin. Also before taking the mistlock, use your special action key to not bug the cooldown reset out and precast <Skill name="mending"/>.
+Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>. Do not take the mistlock to early or you will need more than 1-2 hits to fill up your adrenalin. Also before taking the mistlock, use your special action key to not bug the cooldown reset out and precast <Skill name="mending"/>.
 
 **Bloom phases**
 
