@@ -40,7 +40,7 @@ Feel free to run full Harrier if you are confident that you don't need the extra
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Salvation" traits1Selected="Tranquil Balance,Invoking Harmony,Selfless Amplification" traits2="Devastation" traits2Selected="Vicious Lacerations,Assassins Presence,Swift Termination" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Righteous Rebel"/>
+<Traits traits1="Salvation" traits1Selected="Tranquil Balance,Invoking Harmony,Selfless Amplification" traits2="Devastation" traits2Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Righteous Rebel"/>
 
 <Card title="Second trait variant">
 **If you feel your energy runs out too quick, we recommend the Salvation/Incovation variant.**
@@ -70,7 +70,7 @@ With <Skill name="Legendary Centaur Stance"/>:
 
 If <Instability name="No Pain, No Gain"/> is present, swap <Skill name="Legendary Centaur Stance"/> to <Skill id="28494"/>:
 
-<Skills heal="Empowering Misery" utility1="Pain Absorption" utility2="Banish Enchantment" utility3="Unyielding Anguish" elite="Embrace the Darkness"/>
+<Skills heal="Empowering Misery" utility1="Pain Absorption" utility2="Banish Enchantment" utility3="Call to anguish" elite="Embrace the Darkness"/>
 </GridItem>
 </Grid>
 
