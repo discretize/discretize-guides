@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Hybrid Renegade'
 date: '2020-03-20'
 rating: 'Meta'
@@ -149,51 +149,52 @@ code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 
 **<Skill name="Legendary Renegade Stance"/>**
 
-- <Skill name="Breakrazors Bastion"/> - Heals
-- <Skill name="Razorclaws Rage"/> - Your party inflict <Condition name="Bleeding"/>.
-- <Skill name="Darkrazors Daring"/> - CCs
-- <Skill name="Icerazors Ire"/> -  High damage skill, and provides <Condition name="Vulnerability">.
-- <Skill name="Soulcleaves Summit"/> - A damage modifier for the party through life steal, while also being your main party heal. 
+- <Skill name="Breakrazors Bastion"/> - Summons a spirit that heals you on cast and pulses heal to allies in an area around it. Reduces damages from conditions by 50%.
+- <Skill name="Razorclaws Rage"/> - Summons a spirit that causes your party to inflict <Condition name="Bleeding"/> on attack.
+- <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ seconds once per second for 6 seconds.
+- <Skill name="Icerazors Ire"/> -  Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.
+- <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealth by your party while healing them for each attack. 
 
 ---
 
-**<Skill name="legendaryassassinstance"/>**
+**<Skill name="Legendary Assassin Stance"/>**
 
-- <Skill name="Enchanted Daggers"/> - Your attacks does life steal.
-- <Skill name="Phase Traversal"/> - Shadowstep.
-- <Skill name="Riposting Shadows"/> - Stunbreak.
-- <Skill name="Impossible Odds"/> - Damage modifier, grant you another hit on your attacks.
-- <Skill name="Jade Winds"/> - CC.
+- <Skill name="Enchanted Daggers"/> - Every ½ seconds your next 6 attacks siphon life from your target.
+- <Skill name="Phase Traversal"/> - You shadowstep to your target and gives you two stacks of <Effect name="Unblockable"/>.
+- <Skill name="Riposting Shadows"/> - Stunbreak and evade that removes movement-impairing conditions like <Condition name="Crippled"/>.
+- <Skill name="Impossible Odds"/> - **Toggle:** Damage modifier, grant you another hit on your attacks and increases your movement speed.
+- <Skill name="Jade Winds"/> - Deal damage, inflict <Condition name="Vulnerability"/> and <Control name="Stun"/> five nearby enemies.
 
 ---
 
 **<Skill name="Legendary Dwarf Stance"/>**
 
 - <Skill name="Soothing Stone"/> - Powerful self heal and condition removal.
-- <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party. 
-- <Skill name="Forced Engagement"/> - Strong soft cc.
-- <Skill name="Vengeful Hammers"/> - Slight damage skill, drains your energy.
-- <Skill name="Rite of the Great Dwarf"/> - Stunbreak, reduces incoming damage by 50% for your party.
+- <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field. 
+- <Skill name="Forced Engagement"/> - Shoot out a chain to your target and <Condition name="Taunt"/> and <Condition name="Slow"/> your target and 4 nearby enemies.
+- <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
+- <Skill name="Rite of the Great Dwarf"/> - Stunbreak, which reduces incoming damage by 50% for your party.
 
 ---
 
 **<Skill name="Legendary Demon Stance"/>**
 
-- <Skill name="Empowering Misery"/> - Decent self heal.
-- <Skill name="Pain Absorption"/> - Provide <Boon name="Resistance"/> you your party.
-- <Skill name="Banish Enchantment"/> - Removes three boons on target enemy. 
-- <Skill name="Call to Anguish"/> - Pull.
-- <Skill name="Embrace the Darkness"/> - Drains your energy.
+- <Skill name="Empowering Misery"/> - A decent self-heal that heals more for each unique condition on you.
+- <Skill name="Pain Absorption"/> - Draw one condition from nearby allies and provide <Boon name="Resistance"/> to your party. Also works as a stunbreak.
+- <Skill name="Banish Enchantment"/> - Removes three boons from enemies in a line up to five unique enemies and causes <Condition name="Chilled"/> on enemies hit.
+- <Skill name="Call to Anguish"/> - Jump to a location and pull 5 nearby enemies inflicting <Condition name="Chilled"/> on them.
+- <Skill name="Embrace the Darkness"/> - **Toggle:** Deal damage to nearby enemies and pulse <Condition name="Torment"/> to them. Drains energy when toggled on.
 
 ---
 
 **<Skill name="Legendary Centaur Stance"/>**
 
-- <Skill name="Project Tranquility"/> - Heals party per second.
-- <Skill name="Protective Solace"/> - Summons a protective barrier for projectiles.
-- <Skill name="Natural Harmony"/> - Decent party heal.
-- <Skill name="Purifying Essence"/> - Condition removal for your party, and a small heal per condition removed.
-- <Skill name="Energy Expulsion"/> - Blast finisher, CC, condition removal, and decent heal.
+- <Skill name="Project Tranquility"/> - Summon Ventari's Tablet which heals nearby allies every few seconds.
+- <Skill name="Ventaris Will"/> - Move Ventari's Tablet to the target location.
+- <Skill name="Protective Solace"/> - **Toggle:** Summons a protective barrier that **absorbs** (not reflect) projectiles around the tablet.
+- <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
+- <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
+- <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet. Cleanses one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
 
 </Card>
 </GridItem>
