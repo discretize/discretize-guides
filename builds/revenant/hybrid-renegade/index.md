@@ -114,7 +114,7 @@ code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 **Sword Skills**
 
 - <Skill name="Preparation Thrust"/> - The autoattack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on upto three targets, with each explosion hitting three targets. Potentially hitting nine times. 
-- <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. 
+- <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
 - <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to oneself. 
 - <Skill name="Shackling Wave"/> - High damage skill, however should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
 - <Skill name="Death strike"/> - Shadowsteps to target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allows it to be used for damage. 
@@ -124,7 +124,7 @@ code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 - <Skill name="Rapid Swipe"/> - The autoattack chain cleaves and the last hit provides a small amount of healing to allies.
 - <Skill name="Menders Rebuke"/> - Provides <Condition name="Vulnerability"/> and a small amount of healing to allies.
 - <Skill name="Warding Rift"/> - A two second block that <Condition name="Blind"/> foes. 
-- <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses conditions and heals allies.
+- <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
 - <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grant between three and nine hits of <Effect name="Knockback"/>. 
 
 ---
@@ -151,7 +151,7 @@ code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 
 - <Skill name="Breakrazors Bastion"/> - Summons a spirit that heals you on cast and pulses heal to allies in an area around it. Reduces damages from conditions by 50%.
 - <Skill name="Razorclaws Rage"/> - Summons a spirit that causes your party to inflict <Condition name="Bleeding"/> on attack.
-- <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ seconds once per second for 6 seconds.
+- <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ seconds once per second for six seconds.
 - <Skill name="Icerazors Ire"/> -  Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.
 - <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealth by your party while healing them for each attack. 
 
@@ -159,7 +159,7 @@ code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 
 **<Skill name="Legendary Assassin Stance"/>**
 
-- <Skill name="Enchanted Daggers"/> - Every ½ seconds your next 6 attacks siphon life from your target.
+- <Skill name="Enchanted Daggers"/> - Every ½ seconds your next six attacks siphon life from your target.
 - <Skill name="Phase Traversal"/> - You shadowstep to your target and gives you two stacks of <Effect name="Unblockable"/>.
 - <Skill name="Riposting Shadows"/> - Stunbreak and evade that removes movement-impairing conditions like <Condition name="Crippled"/>.
 - <Skill name="Impossible Odds"/> - **Toggle:** Damage modifier, grant you another hit on your attacks and increases your movement speed.
@@ -171,7 +171,7 @@ code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 
 - <Skill name="Soothing Stone"/> - Powerful self heal and condition removal.
 - <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field. 
-- <Skill name="Forced Engagement"/> - Shoot out a chain to your target and <Condition name="Taunt"/> and <Condition name="Slow"/> your target and 4 nearby enemies.
+- <Skill name="Forced Engagement"/> - Shoot out a chain to your target and <Condition name="Taunt"/> and <Condition name="Slow"/> your target and four nearby enemies.
 - <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
 - <Skill name="Rite of the Great Dwarf"/> - Stunbreak, which reduces incoming damage by 50% for your party.
 
@@ -182,7 +182,7 @@ code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 - <Skill name="Empowering Misery"/> - A decent self-heal that heals more for each unique condition on you.
 - <Skill name="Pain Absorption"/> - Draw one condition from nearby allies and provide <Boon name="Resistance"/> to your party. Also works as a stunbreak.
 - <Skill name="Banish Enchantment"/> - Removes three boons from enemies in a line up to five unique enemies and causes <Condition name="Chilled"/> on enemies hit.
-- <Skill name="Call to Anguish"/> - Jump to a location and pull 5 nearby enemies inflicting <Condition name="Chilled"/> on them.
+- <Skill name="Call to Anguish"/> - Jump to a location and pull five nearby enemies to your location inflicting <Condition name="Chilled"/> on them.
 - <Skill name="Embrace the Darkness"/> - **Toggle:** Deal damage to nearby enemies and pulse <Condition name="Torment"/> to them. Drains energy when toggled on.
 
 ---
@@ -205,17 +205,17 @@ code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 
 **Hard Crowd Control**
 
-- <Skill name="Surge of the Mists"/> - Up to nine hits of 150 Knockback.
-- <Skill name="Darkrazors Daring"/> - Up to six hits of 100 Daze.
-- <Skill name="Jade Winds"/> - 300 Stun.
-- <Skill name="Call to Anguish"/> - 150 Pull.
+- <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
+- <Skill name="Darkrazors Daring"/> - Up to six hits of 100 <Control name="Daze"/>.
+- <Skill name="Jade Winds"/> - 300 <Control name="Stun"/>.
+- <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
 
 
 **Soft Crowd Control**
 
-- <Skill name="Chilling Isolation"/> - Chill for 33 per second.
-- <Skill name="Shackling Wave"/> - Immobile for 50 per second.
-- <Skill name="Forced Engagement"/> - Taunt and Slow for 75 and 50 per second.
+- <Skill name="Chilling Isolation"/> - <Condition name="Chilled"/> for 33 per second.
+- <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
+- <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
 
 </Card>
 </GridItem>
