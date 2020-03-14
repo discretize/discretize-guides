@@ -1,6 +1,6 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2019-11-23'
+date: '2020-03-14'
 rating: 'Good'
 role: 'Support'
 profession: 'Guardian'
@@ -14,18 +14,15 @@ code: '[&DQEQLjElPjZLFwMBehb+AEsBNgH+AEgBiRJxEgAAAAAAAAAAAAAAAAAAAAA=]'
 <Message>
 Despite being very common in pugs, this build is not meta! We highly recommend to play [Heal Renegade](/builds/revenant/heal-renegade) instead if your team struggle to survive, since Firebrand can deal way more damage than Renegade.
 </Message>
-This build takes away any responsabilities from the team. If you play this build we highly recommend learning the signet share variant. If you just want a good and smooth run, take a look at the [Fractal Pages](/fractals) and practice your rotation until you can execute it by heart.
 
-It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>. The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
-
-The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radience) to virtues for more heals.
-
-When <Instability name="Afflicted"/> is present or enemies are applying conditions, you can use <Skill name="Symbol of Swiftness"/> (Staff3) and blast it with <Skill name="Holy Strike"/> (Staff2) for area condition cleanse.
+<Tabs>
+<Tab title="Build">
+This build takes away any responsibilities from the team. If you play this build we highly recommend learning the signet share variant. If you just want a good and smooth run, take a look at the [Fractal Pages](/fractals) and practice your rotation until you can execute it by heart.
 
 <Divider text="Equipment"/>
 
 Note that this build variant is optimized for 150 agony resistance.  
-If you have more AR, feel free to swap out harrier pieces for cleric, as long as you are maintaining 100% boonduration. Please take in mind, that this is not _THE_ gear setup you have to play, there are many variants that work. Its all about maximizing boon duration and healing power.  
+If you have more AR, feel free to swap out harrier pieces for cleric, as long as you are maintaining 100% boon duration. Please take in mind, that this is not _THE_ gear setup you have to play, there are many variants that work. Its all about maximizing boon duration and healing power.  
 Yes, you can play full harrier - however you will loose some healing power.
 
 <Grid>
@@ -54,7 +51,7 @@ Yes, you can play full harrier - however you will loose some healing power.
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Right Hand Strength, Retribution, Perfect Inscriptions" traits2="Honor" traits2Selected="Invigorated Bulwark, Honorable Staff, Writ of Persistence" traits3="Firebrand" traits3Selected="Liberators Vow, Weighty Terms, Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Right Hand Strength, Wrath of justice, Perfect Inscriptions" traits2="Honor" traits2Selected="Invigorated Bulwark, Honorable Staff, Writ of Persistence" traits3="Firebrand" traits3Selected="Liberators Vow, Weighty Terms, Loremaster"/>
  
 <Card title="Situational Traits">
 | | |
@@ -63,7 +60,7 @@ Yes, you can play full harrier - however you will loose some healing power.
 
 </Card>
 <Card title="Wheelchair">
-In case your team downs all the time and you cannot keep your pug friends alive, you can swap radience for virtues. This however is NOT the default build and should only be played under extreme circumstances.
+In case your team downs all the time and you cannot keep your pug friends alive, you can swap radiance for virtues. This however is NOT the default build and should only be played under extreme circumstances.
 <Traits traits1="Virtues" traits1Selected="Retaliatory Subconscious, Absolute Resolution, Battle Presence"/>
 </Card>
 </GridItem>
@@ -87,8 +84,16 @@ In case your team downs all the time and you cannot keep your pug friends alive,
 </Card>
 </GridItem>
 </Grid>
+</Tab>
 
+<Tab title="Guide">
 <Divider text="Details"/>
+
+It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>. The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
+
+The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals.
+
+When <Instability name="Afflicted"/> is present or enemies are applying conditions, you can use <Skill name="Symbol of Swiftness"/> (Staff3) and blast it with <Skill name="Holy Strike"/> (Staff2) for area condition cleanse.
 
 <Grid>
 <GridItem sm="12">
@@ -108,7 +113,7 @@ To keep up <Boon name="Quickness"/>:
 To keep up <Boon name="Might"/> and <Boon name="Fury"/>:
 
 - Always prestack <Boon name="Might"/> on the mistlock!
-- You can press <Skill name="Symbol of Vengeance"/> (Axe2) exactly 3 times before your <Skill name="Empower"/> (Staff4) if off cooldown again.
+- You can press <Skill name="Symbol of Vengeance"/> (Axe2) two times before your <Skill name="Empower"/> (Staff4) if off cooldown again.
 - You wanna maximize the uptime of <Skill name="Symbol of Vengeance"/> while pressing <Skill name="Empower"/> off cooldown.
 
 CCing:
@@ -139,10 +144,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
 </Card>
-<Message>
-This guide is good for people who want to start fractals with heal firebrand. We still highly recommend running the Radiance/Honor build variant from our Build section so you start playing with the proper build !
-</Message>
-<Video youtube="oigZbGyQvbQ" title="In-depth build guide by Rheyo"/>
+
 </GridItem>
 
 <GridItem>
@@ -154,4 +156,12 @@ This guide is good for people who want to start fractals with heal firebrand. We
 | <Skill name="Bane Signet"/> | 300 damage |
 </Card>
 </GridItem>
+<GridItem>
+<Message>
+This guide is good for people who want to start fractals with heal firebrand. We still highly recommend running the Radiance/Honor build variant from our Build section so you start playing with the proper build !
+</Message>
+<Video youtube="oigZbGyQvbQ" title="In-depth build guide by Rheyo"/>
+</GridItem>
 </Grid>
+
+</Tab>
