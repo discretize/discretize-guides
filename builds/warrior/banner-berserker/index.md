@@ -1,5 +1,5 @@
 ﻿---
-title: 'Banner Berserker'
+title: 'Berserker'
 date: '2019-11-17'
 rating: 'Meta'
 role: 'Support'

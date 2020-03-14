@@ -1,5 +1,5 @@
 ﻿---
-title: 'Power Soulbeast'
+title: 'Soulbeast'
 date: '2019-11-18'
 rating: 'Meta'
 role: 'Damage'

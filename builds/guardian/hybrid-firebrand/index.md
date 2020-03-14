@@ -1,5 +1,5 @@
 ﻿---
-title: 'Hybrid Firebrand'
+title: 'Firebrand'
 date: '2020-03-14'
 rating: 'Meta'
 role: 'Support'
