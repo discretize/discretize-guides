@@ -11,7 +11,10 @@ traits: [1802]
 boons: ['Alacrity', 'Might', 'Stability']
 conditions: ['Vulnerability']
 code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
+author: 'Jin Su Liang.9036'
 ---
+<Tabs>
+<Tab title="Build">
 <Divider text="Equipment"/>
 <Tabs outlined>
 <Tab title="162 Agony Resistance">
@@ -98,7 +101,9 @@ code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 </GridItem>
 </Grid>
+</Tab>
 
+<Tab title="Guide">
 <Divider text="Guide"/>
 <Grid>
 <GridItem sm="12">
@@ -220,7 +225,9 @@ code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
 </Card>
 </GridItem>
 </Grid>
+</Tab>
 
+<Tab title="99CM">
 <Divider text="Nightmare"/>
 <Tabs outlined>
 <Tab title="MAMA">
@@ -461,7 +468,9 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 </GridItem>
 </Tab>
 </Tabs>
+</Tab>
 
+<Tab title="100CM">
 <Divider text="Shattered Observatory"/>
 <Tabs outlined>
 <Tab title="Skorvald">
@@ -735,12 +744,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 </GridItem>
 </Tab>
 </Tabs>
+</Tab>
 
-<Divider text="Author"/>
-<GridItem sm="12">
 
-**Casual Sophie - Jin Su Liang.9036**
-
-*Feel free to contact me if you need any further information.*
-
-</GridItem>
+</Tabs>
