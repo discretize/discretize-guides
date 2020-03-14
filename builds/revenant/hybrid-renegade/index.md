@@ -1,5 +1,5 @@
 ---
-title: 'Hybrid Renegade'
+title: 'Renegade'
 date: '2020-03-20'
 rating: 'Meta'
 role: 'Support'
