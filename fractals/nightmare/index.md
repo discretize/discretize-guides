@@ -1,6 +1,6 @@
 ---
 title: 'Nightmare'
-date: '2020-03-02'
+date: '2020-03-15'
 image: './images/ensolyss_crazy.jpg'
 group: 'Challenge Mode'
 api: 3177
@@ -57,72 +57,6 @@ When MAMA reaches 33%, it conjures a large _Nightmare Miasma_ field around it wh
 Fast crowd control and animation knowledge are the keys to this fight.
 
 <Tabs>
-<Tab specialization="Renegade">
-**Legends**  
-
-<Skill name="LegendaryRenegadestance"/> and <Skill name="Legendaryassassinstance"/>.
-
----
-
-**Suggested Boon Duration** `50%`   
-
-Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon duration due to the length of the fight. This allows you to take a more damage focused approach. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>. 
-
----
-
-**Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast if needed. 
-* After the introdution of templates it is recommended to precast using equipment with higher boon duration.
-
-**100 - 75%**  
-
-* Cast <Skill name="DarkrazorsDaring"/> on MAMA as soon as the red cirlce appear. 
-* Cast <Skill name="IcerazorsIre"/> right before MAMA becomes vulnerable.
-* Use <Skill name="Surgeofthemists"/> to break the defiance bar. Be aware of your positioning to gain an additional hit. 
-* Weapon swap and change to <Skill name="LegendaryAssassinstance"/> to gain the extra energy from the trait <Trait name="ChargedMists"/>. 
-* Activate <Skill name="Impossibleodds"/>, and use <Skill name="citadel bombardment"/> and <Skill name="ChillingIsolation"/> before sharing <Boon name="Alacrity"/> with <Skill name="OrdersfromAbove"/>.
-
-**1st Add**   
-* Use <Skill name="Shackling Wave"/>. 
-* Change to <Skill name="Legendary Renegade stance"/> to use <Skill name="Heroic Command"/> to share <Boon name="might"/>.
-
-**75-50%** 
-* Cast <Skill name="SoulcleavesSummit"/> and <Skill name="Icerazors Ire"/> on MAMA.
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when off cooldown. 
-* Weapon swap to staff near the end of the phase.
-
-**2nd Add**  
-* Precast <Skill name="Darkrazor’s Daring"/> at the location where the add will spawn.
-* Change to <Skill name="Legendary Assassin stance"/>. 
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
-
-
-**50-25%**  
-* Use <Skill name="Surge of the Mists"/> through MAMA, and weapon swap to swords. 
-* Activate <Skill name="Impossible Odds"/>, then cast <Skill name="Citadel Bombardment"/> and <Skill name="ChillingIsolation"/>. 
-* Change to <Skill name="Legendary Renegade stance"/> for the upcoming add.
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when off cooldown.
-
-**3rd Add**  
-* Precast <Skill name="DarkrazorsDaring"/>, <Skill name="Icerazorsire"/>, and <Skill name="Soulcleaves Summit"/> where the add will spawn. 
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>. 
-* Weapon swap to staff when possible.
-
-**25-0%**  
-* Use <Skill name="Warding Rift"/> for MAMAs shockwaves. 
-* Using <Skill name="Surge of the Mists"/> through MAMA to break the defiance bar. 
-* Weapon swap and change to <Skill name="Legendary Assassin Stance"/>. 
-* Activate <Skill name="Impossible Odds"/>, cast <Skill name="Citadel Bombardment"/> and <Skill name="ChillingIsolation"/>.
-
----
-
-**Annotation**
-* If your second phase is fast you might want to deactivate <Skill name="Soulcleaves Summit"/> to have enough energy to share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> and precast <Skill name="Darkrazors Daring"/> on the second add.
-* If your second phase is slow you can let cancel <Skill name="Soulcleaves Summit"/> and replenishing enough energy to share <Boon name="Alacrity"/> and precast <Skill name="Darkrazors Daring"/> on the second add.
-* Adjust your weapon swap to staff in the second phase to accomodate the weapon swap back to swords for the burst in phase three.
-
- 
-</Tab>
 
 <Tab specialization="Firebrand">
 ### **General**
@@ -238,33 +172,6 @@ MAMA should phase while you're casting your <Skill name="Whirling defense"/>, th
 
 </Tab>
 
-<Tab specialization="warrior">
-### **General**
-
-Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>. It is highly encouraged to go core warrior for CC. You can stay berserker if you are willing to counter the lack of cc with consumables. 
-
-### **Organized <Specialization name="berserker"/>** (Standard Axe/Axe Axe/Mace)
-
-You can precast banners with the help of a <Item id="44642"/> if you expect a ~55s kill. Open the portal on the slope (not at the flat area around the mistlock, but before), hop in, precast the banners and take your portal back. You are now free to run the dps setup for short fights:
-
-<Skill name="blood reckoning"/>, <Skill name="outrage"/>, <Skill name="Throwbolas"/> <Skill name="Signet of might"/> and <Skill name="headbutt"/>. Remember to swap to <Trait id="2049"/>. 
-
-**Opening**
-
-If you are using  <Trait id="2049"/>, open with <Skill name="tremor"/> and <Skill name="whirlingaxe"/>.  
-Else <Skill name="tremor"/> followed by <Skill name="headbutt"/>.
-
----
-
-### **PuG <Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
-
-Start MAMA on Mace/Mace. Instantly break MAMA's Defiance bar using <Skill id="14402"/>, <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/>, <Skill name="Skull Crack" profession="Warrior"/> (if <Skill id="14502"/> won't break MAMA's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/> and continue with standard rotation on Axe/Axe.
-
-Fast Hands allows you to quickly adapt to what is currently needed in the encounter and consumables like <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>.
-
-Keep an eye on MAMA's <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
-</Tab>
-
 <Tab specialization="Dragonhunter">
 **General**
 - Do not use traps on the adds
@@ -366,71 +273,6 @@ Assign players to each add before the fight starts by setting waypoints. In PuGs
 <Image src="./images/siax.jpg" caption="Siax the Corrupted"/>
 
 <Tabs>
-<Tab specialization="Renegade">
-**Legends**  
-
-<Skill name="LegendaryRenegadestance"/> and <Skill name="Legendaryassassinstance"/>
-
----
-
-**Suggested Boon Duration** `50%`   
-
-Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon duration due to the length of the fight. This allows you to take a more damage focused approach. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>. 
-
----
-
-**Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlaps and grants twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast if needed.
-* After the introdution of templates it is recommended to precast using equipment with higher boon duration.
-* Ask your <Specialization name="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation.
-
-**100 - 66%**   
-* Have your staff equipped and pick up the <Skill name="Conjure Frost Bow"/>.
-* Precast <Skill name="Darkrazor’s Daring"/> and <Skill name="Icerazor’s Ire"/> and change to <Skill name="Legendary Assassin Stance"/>.
-* Once the encounter begins activate <Skill name="Impossible Odds"/> and use <Skill name="Frost Storm"/>, <Skill name="Citadel Bombardment"/>, and <Skill name="Frost Fan"/>.
-* Change to <Skill name="Legendary Renegade Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>. 
-* Use <Skill name="Deep Freeze"/> and drop the <Skill name="Conjure Frost Bow"/>.
-* Immediately use <Skill name="Surgeofthemists"/> to finish of the defiance bar.
-* When you are through the hitbox weapon swap and use <Skill name="ChillingIsolation"/>.
-* Share <Boon name="might"/> at the end of the phase with <Skill name="Heroic Command"/>.
-
-**1st Add**  
-* Cast <Skill name="Icerazor’s Ire"/> on your designated add. 
-* Use <Skill name="Shackling Wave"/> and <Skill name="ChillingIsolation"/> to finish off the add.
-* Cast <Skill name="Soulcleaves Summit"/> on Siax.
-* Use <Skill name="Deathstrike"/> to shadow step to Siax immediately. 
-
-**66-33%**  
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Let <Skill name="Soulcleaves summit"/> and <Skill name="Shackling wave"/> deplete your energy.
-* Change to <Skill name="Legendary Assassin Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
-* Cast <Skill name="Citadel Bombardment"/> and <Skill name="ChillingIsolation"/>.
-* Share <Boon name="might"/> at the end of the phase with <Skill name="Heroic Command"/>.
-
-**2nd Add**  
-* Activate <Skill name="Impossible Odds"/> and use <Skill name="ChillingIsolation"/> to kill your add quickly. 
-* Save <Skill name="Shackling Wave"/> for the next phase. 
-* Use <Skill name="Deathstrike"/> to shadow step back to Siax immediately.
-
-**33-0%**  
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Shackling wave"/> to deplete your energy.
-* Change to <Skill name="Legendary Renegade Stance"/>, this will grant you extra energy from the trit <Trait name="Charged Mists"/>.
-* Cast <Skill name="Soulcleaves Summit"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Heroic Command"/>, and <Skill name="Icerazors Ire"/>.
-* Use <Skill name="ChillingIsolation"/> and <Skill name="Shackling Wave"/> off cooldown until the encounter is finished.
-
----
-
-**Annotation**
-* If you do not have a <Skill name="Conjure Frost Bow"/> for your opening you can do the following:
-    * Precast <Skill name="Darkrazor’s Daring"/> and <Skill name="Icerazor’s Ire"/> and change to <Skill name="Legendary Assassin Stance"/>.
-    * Activate <Skill name="Impossible Odds"/>, cast <Skill name="Citadel Bombardment"/> and spend time autoattacking. 
-    * Change to <Skill name=" Legendary Renegade Stance"/> and use <Skill name="Surge of the mists"/> before continuing with the steps listed above.
-* In slower kills it might be worth sharing <Boon name="Alacrity"/> in the first phase, rather than waiting until the beginnning of the second phase.
-* In slower kills you will have to swap to staff after the second add and use <Skill name="Surge of the mists"/> to break the defiance bar. Casting <Skill name="Darkrazors Daring"/> will also be beneficial in this circumstance.
-* If you are running higher boon duration you will have to use <Skill name="ChillingIsolation"/> and <Skill name="Shackling Wave"/> on your add to kill it quick enough in both phases.
-
-</Tab>
 
 <Tab specialization="Firebrand">
 Ideally you should be precasting quickness with <Skill name="moastance"/> from <Specialization name="soulbeast"/> and play <Specialization name="dragonhunter"/> with  <Skill name="feelmywrath"/> instead of  <Skill name="dragonsmaw"/>.
@@ -497,30 +339,6 @@ Longbow:
 Greatsword:
 - <Skill name="Worldlyimpact"/> 
 - <Skill name="Path of scars"/> and <Skill name="Whirling defense"/>
-</Tab>
-
-<Tab specialization="warrior">
-### **General**
-Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>. 
-
-### **Organized**
-
-You can precast banners with the help of a <Item id="44642"/> if you expect a ~55s kill. Open the portal on the slope (not at the flat area around the mistlock, but before), hop in, precast the banners and take your portal back. You are now free to run the dps setup for short fights:
-
-<Skill name="blood reckoning"/>, <Skill name="outrage"/>, <Skill name="Throwbolas"/> <Skill name="Signet of might"/> and <Skill name="headbutt"/>. Remember to swap to <Trait id="2049"/>. 
-
-Things to keep in mind:
-- Use <Skill name="Whirling Axe"/> to gain Adrenalin and engage <Skill name="Berserk"/> as soon as possible. 
-- Use <Skill name="Headbutt"/> to CC and break the stun with <Skill name="Outrage"/>. Use this combo asap to keep up <Skill name="Berserk"/>. 
-- Use <Skill name="Throw Bolas"/> before casting <Skill name="Whirling Axe"/> to maximize dps. 
-- Use <Skill name="Blood reckoning"/> on cooldown.
-- Use a Rifle to kill your add without loosing time. Use <Skill name="gunflame"/>, <Skill name="volley"/> and a couple autos to get the job done. A greatsword also works out great.
-
-### **PuG**
-
-- If additional Defiance bar damage is needed make use of <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>. 
-- Kill your add as fast as possible and return to the boss. You do not wanna miss the time the boss is invulnerable or your dps will suffer. 
-- Keep an eye on Siax's <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
 </Tab>
 
 <Tab specialization="weaver">
@@ -650,78 +468,6 @@ Below 33%, he may summon a special shockwave which travels inwards to him (contr
 When Ensolyss reaches 15% health, he will stop using his usual attacks, but only a small bubble in the middle will protect you from his deathly rain. Krait will charge through the middle (indicated by large arrows on the ground) and make positioning harder, kill Ensolyss quickly to finish the fractal.
 
 <Tabs>
-<Tab specialization="Renegade">
-**Legends**  
-
-<Skill name="LegendaryRenegadestance"/> and <Skill name="Legendaryassassinstance"/>.
-
----
-
-**Suggested Boon Duration** `50%`   
-
-Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon duration due to the length of the fight. This allows you to take a more damage focused approach. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>. 
-
----
-
-### **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast if needed.
-* After the introdution of templates it is recommended to precast using equipment with higher boon duration.
-
-**100-66%**
-* Cast <Skill name="Icerazors Ire"/> on Ensolyss as soon as the red circle appear.
-* Cast <Skill name="Soulcleaves Summit"/> right before Ensolyss becomes vulnerable.
-* Use <Skill name="Surge of the mists"/> to break the defiance bar immediately. Be aware of your positioning to gain an additional hit.
-* Weapon swap and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>. Be aware of energy management.  
-* Change to <Skill name="Legendary Assassin Stance"/> to gain the extra energy from the trait <Trait name ="Charged Mists"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="ChillingIsolation"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="ChillingIsolation"/> again.
-
-*In the case of reaching the Upswing attack.*
-* Change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>
-* Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/>.
-* Use <Skill name="ChillingIsolation"/>, <Skill name="Shackling Wave"/>, and <Skill name="Deathstrike"/> until phase is finished.
-
-**Orb Phase**
-* Weapon swap to staff and change to <Skill name="Legendary Renegade Stance"/>.
-* Position yourself in a circle next to the <Specialization name="Weaver"/> in your party.
-* Use <Skill name ="Orders from Above"/> to share <Boon name="Alacrity"/> with the <Specialization name="Weaver"/>.
-
-**66-33%**
-* Precast <Skill name="Darkrazors Daring"/> right before Ensolyss appear.
-* Cast <Skill name="Icerazors Ire"/>, <Skill name="Orders from Above"/> for <Boon name="Alacrity"/>, <Skill name="Heroic Command"/> for <Boon name="Might"/>, and <Skill name="Soulcleaves Summit"/>.
-* Use <Skill name="Surge of the mists"/> to break the defiance bar immediately. Be aware of energy management.
-* Weapon swap and change to <Skill name="Legendary Assassin Stance"/> to gain the extra energy from the trait <Trait name ="Charged Mists"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="ChillingIsolation"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="ChillingIsolation"/> again.
-
-*After the completion of the Nightmare Devastation attack*
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>
-* Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Darkrazors Daring"/>.
-* Use <Skill name="Surge of the mists"/> to break the defiance bar.
-
-**Orb Phase**
-* Weapon swap to staff and change to <Skill name="Legendary Renegade Stance"/>.
-* Position yourself in a circle next to the <Specialization name="Weaver"/> in your party.
-* Use <Skill name ="Orders from Above"/> to share <Boon name="Alacrity"/> with the <Specialization name="Weaver"/>.
-* Cast <Skill name="Breakrazors Bastion"/> on the <Skill name="Frost Spirit"/> to keep it alive for the last phase.
-
-**33-0%**
-* Precast <Skill name="Darkrazors Daring"/> right before Ensolyss appear.
-* Cast <Skill name="Icerazors Ire"/>, <Skill name="Orders from Above"/> for <Boon name="Alacrity"/>, <Skill name="Heroic Command"/> for <Boon name="Might"/>, and <Skill name="Soulcleaves Summit"/>.
-* Use <Skill name="Surge of the mists"/> to break the defiance bar immediately. Be aware of energy management.
-* Weapon swap and change to <Skill name="Legendary Assassin Stance"/> to gain the extra energy from the trait <Trait name ="Charged Mists"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="ChillingIsolation"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="ChillingIsolation"/> again.
-
-*In the case of teleporting to the edge of the platform.*
-* Change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>
-* Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/>.
-* Use <Skill name="ChillingIsolation"/>, <Skill name="Shackling Wave"/>, and <Skill name="Deathstrike"/> until phase is finished.
-
----
-
-**Annotation**
-* Consider breaking the defiance bar a second time in prolonged phases. Use <Skill name="Surge of the Mists"/> and <Skill name="Darkrazors Daring"/> after the Upswing attack in the first phase, and after the Nightmare Devastation attack in the second phase. In the third phase use <Skill name="Darkrazors Daring"/> on the first defiance bar, and use <Skill name="Surge of the mists"/> immediately when the second defiance bar appears.
-* Using <Skill name="ChillingIsolation"/> before <Skill name="Citadel Bombardment"/> will give you the opportunity to use <Skill name="ChillingIsolation"/> again while Ensolyss is affected by the Exposed debuff.
-* Coordinate with the <Specialization name="Soulbeast"/> in which orb phase to use <Skill name="Breakrazors Bastion"/> to heal the <Skill name="Frost Spirit"/>.
-</Tab>
 
 <Tab specialization="Firebrand">
 ### **Precast**
@@ -780,43 +526,6 @@ Use <Skill name="We heal as one"/> to keep up <Boon name="alacrity"/>.
 - Pick up <Skill name="conjurelightninghammer"/> and use <Skill id="5725"/>
 - AA with <Skill name="conjurelightninghammer"/> until its phased or your <Skill name="pathofscars"/> is back up
 
-</Tab>
-
-<Tab specialization="warrior">
-This is one of the fights, where berserker shines bright. As soon as you do not instabreak CC it makes sense to play <Specialization name="Warrior"/>. 
-
-### **<Specialization name="Berserker"/>** (Standard Axe/Axe Mace/Mace)
-Berserker is really strong on this encounter, because your <Skill name="Berserk"/> perfectly aligns with phase durations. There are some interesting weopen choices: if your team manages CC you can take an offhand torch for more dps. Remember to swap back to <Trait id="1977"/>. 
-
-**Opening:**
-- <Skill name="Mending"/> when he appears
-- <Skill name="Tremor"/> start to cast a few milliseconds before he looses <Effect name="invulnerability"/>
-- <Skill name="Headbutt"/>
-- <Skill name="Berserk"/>
-
-**66% and 33%**
-
-Pick up your banners and swap to your off set (mace/torch). After everyone capped their circle, try to blast a fire field with your banners. Then go on:
-- <Skill name="crushingblow"/>
-- <Skill name="Mending"/>
-- <Skill name="Tremor"/> 
-- <Skill name="Headbutt"/>
-- <Skill name="Berserk"/>
-
----
-
-### **<Specialization name="Warrior"/>** (Standard Axe/Axe Mace/Mace)
-
-Begin the encounter on Axe/Axe with <Skill id="14402"/>, <Skill id="14502"/>, <Skill name="Eviscerate" profession="Warrior"/>, <Skill name="Whirling Axe" profession="Warrior"/>, <Skill name="Dual Strike" profession="Warrior"/>, <Skill name="Throw Axe" profession="Warrior"/>, <Skill name="Cyclone Axe" profession="Warrior"/> and immediately swap to Mace/Mace to break Ensolyss's Defiance bar with <Skill name="Tremor" profession="Warrior"/>, <Skill name="Pommel Bash" profession="Warrior"/> and <Skill name="Skull Crack" profession="Warrior"/>.
-
-Once Ensolyss's
-Defiance bar is broken continue with standard rotation on Axe/Axe. At 66% and 33% swap to Mace/Mace and capture one of the five altars.
-
-As soon as Ensolyss returns attack with <Skill name="Mace Smash" profession="Warrior"/>, <Skill name="Mace Bash" profession="Warrior"/> and <Skill name="Pulverize" profession="Warrior"/> until the Defiance bar appears.
-
-Immediately use <Skill name="Tremor" profession="Warrior"/>, <Skill name="Skull Crack" profession="Warrior"/> (if <Skill id="14502"/> won't break Ensolyss's Defiance bar use <Item id="8664"/>, <Item id="8677"/> and <Item id="8749"/>), <Skill id="14502"/> and continue standard rotation until the second Defiance bar appears. Break it with <Skill name="Pommel Bash"/>, <Skill name="Skull Crack" profession="Warrior"/> and <Item id="8664"/>, <Item id="8677"/>, <Item id="8749"/>, <Skill id="14502"/> and resume standard rotation.
-
-Keep an eye on <Condition name="vulnerability"/> stacks and use <Skill name="crushing blow" profession="Warrior"/> if it runs low.
 </Tab>
 
 <Tab specialization="weaver">

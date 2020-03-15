@@ -1,6 +1,6 @@
 ---
 title: 'Renegade'
-date: '2020-03-20'
+date: '2020-03-15'
 rating: 'Meta'
 role: 'Support'
 profession: 'Revenant'
