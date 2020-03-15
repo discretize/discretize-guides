@@ -107,7 +107,7 @@ If the group finds itself lacking CC, you can replace <Skill name="Signet of Mig
 
 For bosses with longer phases such as Ensolyss or Arkk, consider replacing <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/> to improve berserk uptime.
 
-For boss fights such as the Brazen Gladiator in the Chaos Fractal, with no initial defiance bar or phases, consider swapping <Trait name="Peak Performance"/> for <Trait name="Brave Stride"/>, <Trait name="Savage Instinct"/> for <Trait name="Smash Brawler"/>, and <Skill name="Mending"/> for <Skill name="Blood Reckoning"/>, as the benefit of peak performance is reduced.
+For boss fights such as the Brazen Gladiator in the Chaos Fractal, with no initial defiance bar or phases, consider to play <Trait name="Smash Brawler"/>, <Skill name="Outrage"/>, <Skill name="Blood Reckoning"/>.
 </Card>
 </GridItem>
 </Grid>
