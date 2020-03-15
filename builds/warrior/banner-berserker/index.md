@@ -6,7 +6,7 @@ role: 'Support'
 profession: 'Warrior'
 specialization: 'Berserker'
 benchmark:
-  { small: { dps: 33349, by: 'Jojo [SC]', youtube: '4tKu5_7qzLM' } }
+  { small: { dps: 33349, by: 'Allan [SC]', youtube: '4tKu5_7qzLM' } }
 skills: [14407, 14405]
 traits: [1444, ]
 conditions: ['Vulnerability']
