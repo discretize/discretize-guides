@@ -58,7 +58,7 @@ Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 </Tab>
 
 <Tab title="207 Agony Resistance">
-Check the [gear optimizer](https://old.discretize.eu) for more gear variants! 
+Check the [gear optimizer](http://old.discretize.eu) for more gear variants! 
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>

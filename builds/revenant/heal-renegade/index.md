@@ -19,6 +19,7 @@ Feel free to run full Harrier if you are confident that you don't need the extra
 <Divider text="Equipment"/>
 <Tabs outlined>
 <Tab title="150 Agony Resistance">
+Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Harrier" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Harrier" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk"/>

@@ -16,6 +16,7 @@ author: 'Jin Su Liang.9036'
 <Tabs>
 <Tab title="Build">
 <Divider text="Equipment"/>
+Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Tabs outlined>
 <Tab title="162 Agony Resistance">
 
