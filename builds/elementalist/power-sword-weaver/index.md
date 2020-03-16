@@ -7,8 +7,7 @@ profession: 'Elementalist'
 specialization: 'Weaver'
 benchmark:
   {
-    large: { dps: 37628, by: 'Fallen [SC]', youtube: 'PutZ0k_edMY' },
-    small: { dps: 35687, by: 'Fallen [SC]', youtube: 'GmV62nfPQvs' },
+    small: { dps: 35783, by: 'Roul [SC]', youtube: 'I58GSMPyKBM' },
   }
 skills: [5536, 5734, 5516, 44451, 5557]
 traits: [1502, 226, 1503]
@@ -17,6 +16,8 @@ conditions: ['Burning', 'Chilled', 'Vulnerability']
 code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
+<Tabs>
+<Tab title="Build">
 The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals.
 
 It has quick burst damage and doesn't rely as much on pre-casting as [Power Staff Weaver](/builds/elementalist/power-staff-weaver) or [Power Tempest](/builds/elementalist/power-tempest). Since you don't have long casting times and the rotation loops fluently, it is fun to play as long as there are no Instabilities that discourage melee interactions.
@@ -127,11 +128,6 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 </GridItem>
 <GridItem sm="5">
 <Skills heal="Arcane Brilliance" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
-<Card title="Note about Druid">
-The builds are without <Specialization name="Druid"/> since the Glyph of Empowerment skill got removed from the game. <Specialization name="Druid"/> no longer grants damage boost aside from <Skill name="Frost Spirit"/> (<Specialization name="Soulbeast"/> can take that), thus making the Renegade/Firebrand comp even more dominant.
-
-You can still use the [Gear Optimizer](http://old.discretize.eu) if you still play with druid.
-</Card>
 </GridItem>
 </Grid>
 
@@ -179,7 +175,9 @@ You can still use the [Gear Optimizer](http://old.discretize.eu) if you still pl
 </Card>
 </GridItem>
 </Grid>
+</Tab>
 
+<Tab title="Guide">
 <Divider text="Details"/>
 
 <Grid>
@@ -293,3 +291,35 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 </Card>
 </GridItem>
 </Grid>
+</Tab>
+
+<Tab title="99CM">
+<Divider text="Nightmare"/>
+<Tabs>
+<Tab title="Mama">
+
+</Tab>
+<Tab title="Siax">
+
+</Tab>
+<Tab title="Ensolyss">
+
+</Tab>
+</Tabs>
+</Tab>
+<Tab title="100CM">
+<Divider text="Shattered Observatory"/>
+<Tabs>
+<Tab title="Skorvald">
+
+</Tab>
+<Tab title="Artsariiv">
+
+</Tab>
+<Tab title="Arkk">
+
+</Tab>
+</Tabs>
+</Tab>
+
+</Tabs>

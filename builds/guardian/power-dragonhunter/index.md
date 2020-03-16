@@ -12,6 +12,9 @@ boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
 code: '[&DQEQLyo6GzkmDyYPihItAUgBSAH+AP4AtRJxEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
+<Tabs>
+
+<Tab title="Build">
 
 The <Specialization name="dragonhunter" text="Power Dragonhunter"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
 
@@ -102,7 +105,9 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 </Card>
 </GridItem>
 </Grid>
+</Tab>
 
+<Tab title="Guide">
 <Divider text="Details"/>
 
 <Grid>
@@ -155,3 +160,35 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 </GridItem>
 
 </Grid>
+</Tab>
+
+<Tab title="99CM">
+<Divider text="Nightmare"/>
+<Tabs>
+<Tab title="Mama">
+
+</Tab>
+<Tab title="Siax">
+
+</Tab>
+<Tab title="Ensolyss">
+
+</Tab>
+</Tabs>
+</Tab>
+<Tab title="100CM">
+<Divider text="Shattered Observatory"/>
+<Tabs>
+<Tab title="Skorvald">
+
+</Tab>
+<Tab title="Artsariiv">
+
+</Tab>
+<Tab title="Arkk">
+
+</Tab>
+</Tabs>
+</Tab>
+
+</Tabs>

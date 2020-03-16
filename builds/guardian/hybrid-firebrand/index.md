@@ -12,6 +12,8 @@ conditions: ['Vulnerability', 'Blind', 'Crippled']
 code: '[&DQEQLyo6PjpLFwMB/gAAAHoWAABIAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
+<Tabs>
+<Tab title="Build">
 The **<Specialization text="Hybrid Firebrand" name="firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing high DPS.
 
 It plays very similar to <Specialization text="Power Dragonhunter" name="Dragonhunter"/> with the addition of <Specialization name="firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="stability"/>, <Boon name="resistance"/>, reflects and pulls.
@@ -104,7 +106,9 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 </Card>
 </GridItem>
 </Grid>
+</Tab>
 
+<Tab title="Guide">
 <Divider text="Details"/>
 
 <Grid>
@@ -176,3 +180,35 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 </GridItem>
 
 </Grid>
+</Tab>
+
+<Tab title="99CM">
+<Divider text="Nightmare"/>
+<Tabs>
+<Tab title="Mama">
+
+</Tab>
+<Tab title="Siax">
+
+</Tab>
+<Tab title="Ensolyss">
+
+</Tab>
+</Tabs>
+</Tab>
+<Tab title="100CM">
+<Divider text="Shattered Observatory"/>
+<Tabs>
+<Tab title="Skorvald">
+
+</Tab>
+<Tab title="Artsariiv">
+
+</Tab>
+<Tab title="Arkk">
+
+</Tab>
+</Tabs>
+</Tab>
+
+</Tabs>
