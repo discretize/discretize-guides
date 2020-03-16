@@ -74,54 +74,6 @@ Fast crowd control and animation knowledge are the keys to this fight.
 
 </Tab>
 
-<Tab specialization="Soulbeast">
-Dont play <Specialization name="Soulbeast"/> on this boss. Its garbage. 
-
----
-
-**Precast**  
-- Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>.
-- Before you cast <Skill id="5531"/> and <Skill name="Barrage"/> on MAMA: share <Skill name="One wolf pack"/> with <Trait name="leaderofthepack"/> and then swap back to <Trait name="oppressivesuperiority"/>. 
-
-**Opening**
-
-You wanna do a modified Greatsword rotation: 
-- <Skill name="Maul"/> and <Skill name="Sicem"/> during the cast
-- <Skill name="Worldly impact"/>
-- <Skill name="Path of scars"/>
-- <Skill name="Whirling defense"/>
-- if it is not phased yet you should ragequit.
-
-**1st Add**
-- Help CCing with <Skill id="45743"/> 
-- autoattack the add to death with your sword.
-
-**2nd phase**
-
-When you go back back to MAMA swap to GS and use:
-- <Skill name="Maul"/>
-- <Skill name="hiltbash"/>
-- <Skill name="Maul"/>
-- <Skill id="41524"/> (dont use <Skill name="Sicem"/> here)
-
-**2nd Add**
-- Help CCing with <Skill id="45743"/> 
-- Use a mix of <Skill name="Maul"/> and autoattacks to kill it.
-
-**3rd phase**
-
-In phase 3 you do same rotation as in p1 (although you can do the full gs rotation if you have hilt bash off cd).  
-MAMA should phase while you're casting your <Skill name="Whirling defense"/>, then do <Skill name="Monarchs Leap"/> for free evade away from the poison field and to get to the add faster.
-
-**3rd Add**  
-- Swap to GS as soon as possible.
-- Do the same thing as before. Save your <Skill id="45743"/>.
-
-**4th phase**
-- Help with cc by doing <Skill name="Hilt bash"/> and <Skill id="45743"/> 
-- Normal GS rotation.
-
-</Tab>
 
 <Tab specialization="Weaver">
 ### **Precast**
@@ -293,54 +245,6 @@ Ideally you should be precasting quickness with <Skill name="moastance"/> from <
 
 </Tab>
 
-<Tab specialization="Soulbeast">
-### **General**
-- You can take <Skill name="Bearstance"/> for condi cleanse instead of <Skill name="Wehealasone"/>.
-- In organized groups its worth it to take <Skill name="Frosttrap"/> over <Skill name="Signetofthewild"/>.
-- In organized groups you can take longbow and use <Trait name="Leaderofthepack"/>
-
----
-
-**Precast**
-
-Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>. Share <Skill name="One wolf pack"/> and take the mistlock.
-
-**Opening**
-
-You wanna do following opening: 
-- Summon <Skill name="Frostspirit"/> as he triggers
-- <Skill name="Frosttrap"/> so you have two of those ticking at the same time.
-- <Skill name="Sicem"/> 
-- <Skill name="Barrage"/>
-- CC: <Skill id="45743"/> and <Skill name="Pointblankshot"/>
-- <Skill name="Rapidfire"/>
-- You shouldnt use <Skill name="Whirling defense"/> in phase 1.
- 
-**1st Add**  
-- Use <Skill id="12622"/> to get to the add quickly. 
-- Kill it with  <Skill name="Path of scars"/> and <Skill name="Whirling defense"/>. If your group sucks, you can save your important dps skills and kill the mob with a mix of AA and F1/F2s. The weaver should help you anyway.
-
-**Phase 2**  
-- Use <Skill name="onewolfpack"/> in the middle. 
-- AA as as all your skills are on CD.
-
-**2nd Add**  
-- Use longbow here. <Skill name="pointblankshot"/> and <Skill name="rapidfire"/> 
-- The remaining damage should be dealt by the <Specialization name="Dragonhunter"/> with a <Skill name="Swordofjustice"/>.
-- If you are using GS do GS2, 5, 2, F1, F2 to kill the add.
-
-**Phase 3**
-
-Longbow:
-- <Skill name="Barrage"/> on Siax
-- <Skill name="Frost trap"/>
-- <Skill name="Path of scars"/> and <Skill name="Whirling defense"/>
-
-Greatsword:
-- <Skill name="Worldlyimpact"/> 
-- <Skill name="Path of scars"/> and <Skill name="Whirling defense"/>
-</Tab>
-
 <Tab specialization="weaver">
 ### **Precast**
 - Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
@@ -498,35 +402,6 @@ When Ensolyss reaches 15% health, he will stop using his usual attacks, but only
 - <Specialization name="soulbeast"/> takes <Skill name="moastance"/> . and uses it at the start of each phase. That should give you just enough <Boon name="Quickness"/> for each phase which is enough for high dps parties. 
 </Tab>
 
-<Tab specialization="Soulbeast">
-In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moastance"/> over <Skill name="Signet of the wild"/>. Use <Skill name="Moastance"/> at the beginning of each phase. Regardless what group you are playing with, you should be playing <Trait name="Leaderofthepack"/>. Longbow is superior to greatsword.
-
-**Opening**  
-- Right after Ensolyss spawns: <Skill id="5531"/> and <Skill name="Barrage"/>
-- <Skill id="45743"/>, <Skill name="Pointblankshot"/> for insta CC
-- <Skill name="onewolfpack"/>, <Skill name="sicem"/>
-- <Skill name="rapidfire"/>
-- <Skill name="worldlyimpact"/>
-- <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>
-- Pick up <Skill name="conjurelightninghammer"/> and use <Skill id="5725"/>
-- AA with <Skill name="conjurelightninghammer"/> until its phased or your <Skill name="pathofscars"/> is back up
-
-**Orb phases**
-
-Use <Skill name="We heal as one"/> to keep up <Boon name="alacrity"/>. 
-
-**66% and 33%**  
-- <Skill name="onewolfpack"/>
-- <Skill id="5531"/> if available and <Skill name="Barrage"/>
-- <Skill name="sicem"/>
-- <Skill id="45743"/> and <Skill name="pointblankshot"/>
-- <Skill name="Rapidfire"/>
-- <Skill name="worldlyimpact"/>
-- <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>
-- Pick up <Skill name="conjurelightninghammer"/> and use <Skill id="5725"/>
-- AA with <Skill name="conjurelightninghammer"/> until its phased or your <Skill name="pathofscars"/> is back up
-
-</Tab>
 
 <Tab specialization="weaver">
 ### **Precast**

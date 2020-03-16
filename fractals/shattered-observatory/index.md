@@ -107,46 +107,6 @@ On last platform precast <Skill name="Feelmywrath"/> and <Skill name="banesignet
 In cases where <Boon name="might"/> is lacking, you can use <Skill name="tomeofjustice"/> skill 4 to put down a fire field so that your team can blast it and get <Boon name="might"/> on platform 3 or 4. Make sure to not overstack the firefield with a symbol. Blast the firefield with <Skill name="shieldofwrath"/>.
 </Tab>
 
-<Tab specialization="Soulbeast">
-**General**  
-- In organized groups its worth it to take <Skill name="Frosttrap"/> over <Skill name="Signetofthewild"/>.
-- In organized groups you can take warhorn and use <Trait name="Leaderofthepack"/>
-
-**Precast**
-
-Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Before blasting <Boon name="Might"/> cast your <Skill name="Frostspirit"/> and wait for it to loose some hp. Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>. Share <Skill name="One wolf pack"/> and take the mistlock.
-
-Teleport your <Skill name="Frostspirit"/> down to the platform.
-
-**Opening**
-
-- <Skill id="5531"/> and <Skill name="Barrage"/>
-- Swap to warhorn
-- <Skill name="Onewolfpack"/>
-- <Skill name="Frosttrap"/>, <Skill name="Sicem"/>
-- <Skill name="hunterscall"/>
-- <Skill name="Worldlyimpact"/>
-- <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>
-
-**Adds**  
-Can use <Skill name="whirlingdefense"/> on the 2nd one. Swap to sword/warhorn and kill the adds with a mix of F1, F2 and AAs. Blast <Boon name="might"/> on the 3rd or 4th island.
-Resummon <Skill name="Frostspirit"/> on the last island. Take FGS if available. Take the portal early to teleport <Skill name="Frostspirit"/> to you.
-
-**66% and 33%**  
-In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/> hit while he's CCed: 
-- <Skill id="5531"/>
-- <Skill name="Onewolfpack"/>
-- <Skill name="Frosttrap"/>, <Skill name="Sicem"/>
-- <Skill name="hunterscall"/>
-- <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>
-
-Skip F3 in fast parties, because it has kind of a long cast time.
-
-<Message>
-<Skill name="Hunterscall"/> has a bit of an aftercast and you can cancel it earlier
-</Message>
-</Tab>
-
 
 <Tab specialization="weaver">
 **Precast**
@@ -351,30 +311,6 @@ Start on scepter again. When Artsariiv arrives at the corners again, wait for he
 
 </Tab>
 
-<Tab specialization="Soulbeast">
-Summon <Skill name="Frost Spirit"/> in middle before someone triggers her. While she is talking start your precast <Skill id="5531"/> and <Skill name="Barrage"/>. Use <Skill name="Maul"/> <Skill name="Hiltbash"/> and <Skill name="Maul"/> while she is still in the middle. Teleport to the corner and teleport <Skill name="Frost Spirit"/> to you.
-
-Now go through this rotation:
-- <Skill name="onewolfpack"/>, <Skill name="sicem"/>
-- <Skill id="45743"/>, <Skill name="pathofscars"/> for insta CC
-- <Skill name="Whirlingdefense"/> to reflect for omegadps
-
-Use Consumables to CC the adds.
-
-**66% and 33%**
-
-- <Skill name="Maul"/> <Skill name="Hiltbash"/> <Skill name="Maul"/>
-- <Skill id="41524"/> <Skill id="45743"/>
-- Dodge (do not use sic em here)
-- Special action key into the corner
-- <Skill name="Maul"/> and <Skill name="sicem"/> into the cast
-- <Skill name="Worldlyimpact"/>
-- <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/> to reflect again
-
-If you dont skip anomalies you can just try to reflect and hope she targets someone close
-or you could go for reflecting her spin attack.
-</Tab>
-
 <Tab specialization="weaver">
 **Precast**
 - Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
@@ -556,63 +492,6 @@ Use <Skill name="tomeofcourage"/> skill 4 and 5 to skip first fear.
 **Split Phases**
 
 Use <Skill name="binding blade"/> to pull mobs, open <Skill name="tomeofjustice"/> and use 3rd skill to pull mobs inside boss and 4th skill to put down fire field and use Nova Launch to blast it for <Boon name="might"/>.
-</Tab>
-
-<Tab specialization="Soulbeast">
-**General**
-- You can take <Skill name="trollunguent"/> for pushing the orbs inside the lightning
-- In organized groups its worth it to take <Skill name="Frosttrap"/> over <Skill name="Signetofthewild"/>.
-- In organized groups you can take longbow and use <Trait name="Leaderofthepack"/>
-- Do not use <Skill name="Sicem"/> on 10% burns. 
-- Push orbs with longbow inside the lightning. Use <Skill name="trollunguent"/> to stay alive.
-
-**Precast**
-
-Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>. Share <Skill name="One wolf pack"/> and take the mistlock.
-
-If you have a portal to get there early, summon your <Skill name="Frost spirit"/>.
-
-**Opening**
-
-- <Skill id="5531"/>
-- <Skill name="Frosttrap"/> so you have two of those ticking at the same time.
-- <Skill name="Sicem"/>
-- <Skill name="Barrage"/> <Skill name="Pointblankshot"/> <Skill name="Rapidfire"/>
-- <Skill name="Worldlyimpact"/>
-- <Skill name="Pathofscars"/> <Skill name="Whirling defense"/>
-- <Skill id="45743"/> <Skill id="41524"/>
-
-**10% burn phases**
-
-Your dps will be low, because you do not want to use <Skill name="Sicem"/> there. You can either do <Skill name="Whirling defense"/> or <Skill name="Barrage"/> <Skill name="Pointblankshot"/> <Skill name="Rapidfire"/>.
-
-**Archdiviner phase**
-
-Pull one add with <Skill name="Path of scars"/>. This does not work reliable.  
-The weaver should give you a <Skill name="conjurefierygreatsword"/> in the archdiviner phase. Take it and use <Skill name="Fierywhirl"/> in combination with the special action key to get all hits on the archdiviner.
-
-Precast <Skill id="5531"/> when archdiviner is dead.
-
-**Big burn phase**
-
-- <Skill name="Barrage"/>
-- <Skill name="onewolfpack"/> <Skill name="Sicem"/>
-- <Skill name="Frosttrap"/>
-- <Skill name="Pointblankshot"/> <Skill name="Rapidfire"/>
-- <Skill name="Worldlyimpact"/>
-- <Skill name="Pathofscars"/> <Skill name="Whirling defense"/>
-
-**Gladiator phase**
-
-You can use <Skill name="Sicem"/> and <Skill name="whirlingdefense"/> to kill him fast.
-
-**10% burn phase**
-
-Press random buttons, but no buttons with cooldowns.
-
-**Last big burn phase**
-
-Full rotation with everything off cooldown.
 </Tab>
 
 <Tab specialization="weaver">
