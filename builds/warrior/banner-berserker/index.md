@@ -143,6 +143,7 @@ For boss fights such as the Brazen Gladiator in the Chaos Fractal, with no initi
 <Card title="CC skills">
 | | |
 | -- | -- |
+| <Skill name="headbutt"/> | 300 damage |
 | <Skill id="14502"/> | 150 damage |
 | <Skill id="14414"/> | 390 damage |
 | <Skill id="14415"/> | 300 damage |
