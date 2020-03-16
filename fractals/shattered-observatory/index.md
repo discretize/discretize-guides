@@ -108,54 +108,6 @@ In cases where <Boon name="might"/> is lacking, you can use <Skill name="tomeofj
 </Tab>
 
 
-<Tab specialization="weaver">
-**Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>.
-- Take the mistlock.
-- Go to the boss and use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss!
-
-
-
-**100%**
-- Use <Skill id="5737"/> right as the boss comes down.
-- Use <Skill id="5687"/> to CC the boss and do your burst.
-
-**Anomalies**
-- Make sure to blast your fire fields and use <Skill id="5529"/> to travel faster between anomalies.
-- Drop your <Skill id="5516"/> on the 4th platform before taking the portal back to the boss.
-- Don't get knocked, jump/dodge the waves.
-- Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the portal back to the boss.
-
-**66%**
-- Start with <Skill id="5531"/> on your <Skill id="5516"/>, drop it.
-- Use <Skill id="5737"/> and do your burst.
-
-**Anomalies**
-- Make sure to blast your fire fields and use <Skill id="5529"/> to travel faster between anomalies.
-
-- Don't get knocked, jump/dodge the waves.
-- Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the portal back to the boss.
- 
-
-**33%**
-- Use <Skill id="5687"/> to CC the boss and do your burst.
-- Be on max melee range before the boss starts spinning, dont die like a scrub.
-
-**Tryhard/Static run**
-- Use <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases(Also ez might).
-- Make sure to drop the <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="soulbeast"/> can pick it up before taking the portal
-<Message>
-One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four _Elite Flux Anomalies_. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
-</Message>
-
-<Video title="Video Guide by Tym" youtube="v=DaKI7Ccr_Ss"/>
-
-</Tab>
-
 <Tab specialization="Dragonhunter">
 **tl;dr**
 - Good teams = Scepter; Bad teams = sword. Play <Trait id="574"/>.
@@ -311,48 +263,6 @@ Start on scepter again. When Artsariiv arrives at the corners again, wait for he
 
 </Tab>
 
-<Tab specialization="weaver">
-**Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-- Swap to staff and <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5516"/>.
-- Take the mistlock.
-- As soon as someone catches an orb to start the boss use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="43762"/> , <Skill id="5548"/> and swap to<Skill id="5492"/>/<Skill id="5492"/> and use <Skill id="5501"/> on your staff . Then equip sword/dagger. This is a tight precast so make sure you practice it.
-
-**100%**
-- Use <Skill id="45313"/>,<Skill id="5557"/> and <Skill id="44451"/> when the boss is at the the middle. Then use Nova Launch to go the boss at the cornerwhen she moves and switch to <Skill id="5494"/>/<Skill id="5494"/> and use <Skill id="5737"/>.
-- Use <Skill id="5687"/> to break the CC bar.
-
-**Split Phase**
-- Use <Skill id="44998"/> and <Skill id="5687"/>.
-- Use >metal rod<. 
-
-**66%**
-- Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
-- Blast your fire field for might in the middle.
-- Use nova launch to go to the corner.
-- Use <Skill id="5737"/> if off cd, else use <Skill id="5736"/> and deeps.
-
-**33%**
-- Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
-- Blast your fire field for might in the middle.
-- Use nova launch to go to the corner.
-- Use <Skill id="5737"/> and do big deeps.
-
-**Tryhard/Static**
-- There are many ways to tryhard this encounter, which shall not be discussed here in depth.
-- You can run <Skill id="44612"/>, start the precast on  <Skill id="5492"/>/ <Skill id="5494"/> and use  <Skill id="5548"/>, <Skill id="43762"/> and  <Skill id="5501"/> before the boss starts.
-- Watch tym's video on 100 CM weaver rotations for more clarity.
-<Message>
-Advanced groups can let the second _Corporeal Reassignment_ trigger and /gg the third to save time. But if you failed the first nuke always make sure to kill the second _Temporal Anomaly_. Also sometimes there are communication issues, so if you have the third _Corporeal Reassignment_ always check if someone killed the _Temporal Anomaly_, before killing yourself.
-</Message>
-
-<Video title="Video Guide by Tym [1:49]" youtube="DaKI7Ccr_Ss"/>
-
-</Tab>
-
 <Tab specialization="dragonhunter">
 **General**
 If your team does not have a soulbeast, you can take <Skill name="Wall of reflection"/> for omega reflects. Kick your firebrand if he takes a wall/tome/shield. Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the knockbacking attacks.
@@ -492,40 +402,6 @@ Use <Skill name="tomeofcourage"/> skill 4 and 5 to skip first fear.
 **Split Phases**
 
 Use <Skill name="binding blade"/> to pull mobs, open <Skill name="tomeofjustice"/> and use 3rd skill to pull mobs inside boss and 4th skill to put down fire field and use Nova Launch to blast it for <Boon name="might"/>.
-</Tab>
-
-<Tab specialization="weaver">
-**Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-- Swap to  <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>.
-- Take the mistlock.
-
-**Tryhard Precast**
-- **Do this only if you are on voice with your static**.
-- Use Nova Launch/portal to go the the platform early and use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger and shout on voice to start the boss. This is a tight precast so make sure you practice it otherwise staff weaver RIP.
-### **100%**
-- Go <Skill id="5494"/>/<Skill id="5494"/> as soon as the boss starts and use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it and follow with <Skill id="5737"/>  and the usual burst.
-
-**Solar Bloom**
-- For this phase start on <Skill id="5494"/>/<Skill id="5492"/> and auto attack the bloom once and then attune <Skill id="5494"/>/<Skill id="5494"/> to trigger <Trait id="222"/> on the bloom to push it into the pillar. This is the fastest way to do your bloom.
-
-**80% and 50%**
-- <Skill id="43803"/> -> <Skill id="43074"/> -> <Skill id="5529"/> -> <Skill id="45313"/> -> <Skill id="44451"/> -> <Skill id="5557"/>.
-
-**70%**
-- Use <Skill id="5737"/> and the usual burst.
-
-**40%**
-- Precast <Skill id="5516"/> as the phase is starting and use <Skill id="5531"/> and <Skill id="5697"/> with Nova Launch inside the hitbox and the drop it.
-
-**30%**
-- Pick up the <Skill id="5516"/> and open with <Skill id="5531"/> and the drop it. Use <Skill id="5737"/> and follow with the usual burst.
- 
-<Video title="Video Guide by Tym [3:32]" youtube="DaKI7Ccr_Ss"/>
-
 </Tab>
 
 <Tab specialization="Dragonhunter">
