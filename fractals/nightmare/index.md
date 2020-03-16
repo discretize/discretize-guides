@@ -74,56 +74,6 @@ Fast crowd control and animation knowledge are the keys to this fight.
 
 </Tab>
 
-
-<Tab specialization="Weaver">
-### **Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-- Use <Skill id="44612"/> instead of <Skill id="40183"/> for faster groups.
-- Swap to <Trait id="294"/> instead of <Trait id="1510"/> for self sufficient might. Recommended in Pugs every time.
-- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>. 
-- Take the mistlock.
-- Go to the boss using <Skill id="5697"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss!
-
-### **100%**
-- Cast <Skill id="5737"/> just before boss becomes vulnerable.
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="44612"/> -><Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>.
-- If the CC Bar is not broken when you use <Skill id="44612"/> then do <Skill id="5691"/> -> <Skill id="44451"/> -><Skill id="5557"/> so that you might get <Skill id="5557"/> in the breakbar.
-- Use <Skill id="5539"/> as soon as MAMA is broken.
-
-### **Knight**
-- Use <Skill id="44998"/>  and auto attack on <Skill id="5494"/>/<Skill id="5492"/>.
-- Throw your <Skill id="5516"/> where the 2nd knight spawns.
-- At 25% use <Skill id="5697"/> towards the boss through the knight and swap to <Skill id="5494"/>/<Skill id="5494"/>.
-
-### **75%**
-- Use <Skill id="5531"/> at the middle even if MAMA is not there because it will port there anyway and drop your <Skill id="5516"/>.
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5539"/> -><Skill id="44612"/> -><Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>.
-- Swap directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> buff and continue to auto attack till MAMA phases again.
-
-### **Knight**
-- Use <Skill id="44998"/>  and pick up <Skill id="5516"/>. 
-- Use <Skill id="5517"/> and auto attack on <Skill id="5494"/>/<Skill id="5494"/> till the knight is about to die.
-- When the knight is about to die use <Skill id="5697"/> towards MAMA.
-
-### **50%**
-- Use <Skill id="5531"/>  and drop your <Skill id="5516"/>. Then use <Skill id="5687"/> to CC.
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5539"/> -><Skill id="44612"/> -><Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>.
-- Swap directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> buff and continue to auto attack till MAMA phases again.
-
-### **Knight**
-- Use <Skill id="44998"/>  and auto attack on <Skill id="5494"/>/<Skill id="5494"/> till the knight is about to die.
-
-### **25%**
-- Use <Skill id="5737"/>  it before MAMA jumps in the air after that dodge INTO her, stand behind her to evade the two spins of her spinspin-slam attack and start your burst; this should not be necessary if the cc is good
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5539"/> -><Skill id="44612"/> -><Skill id="5691"/> -> <Skill id="44451"/> -><Skill id="5557"/>.
-- Swap directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> buff and continue to auto attack till MAMA phases again.
-
-
-</Tab>
-
 <Tab specialization="Dragonhunter">
 **General**
 - Do not use traps on the adds
@@ -139,7 +89,6 @@ Fast crowd control and animation knowledge are the keys to this fight.
 - (Use <Skill name="Feelmywrath"/> - depends on your precast)
 - Take the mistlock.
 </Tab>
-
 </Tabs>
 
 ---
@@ -242,47 +191,6 @@ Ideally you should be precasting quickness with <Skill name="moastance"/> from <
 - Give aegis with <Skill name="restoringreprieve"/> for red AoE.
 - Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reson why <Specialization name="Guardian"/> is very strong at this boss. Do not miss this.
 - Save some <Skill id="9168"/> for a quicker add kill
-
-</Tab>
-
-<Tab specialization="weaver">
-### **Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-
-- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>. 
-- Take the mistlock.
-- Go to the middle using <Skill id="5697"/>, use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss!
-
-### **General**
-- For slower groups you will use <Skill id="5737"/> at 100% and 33%.
-- For faster groups use <Skill id="5737"/> at 66%.
-
-### **100%**
-- Use <Skill id="5737"/> (assuming slower group) as soon as the boss starts.
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5687"/> -> <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Dont use your second <Skill id="45313"/> as you need it for the echo.
-
-
-### **Echo**
-- Cast <Skill id="45313"/> and swap to <Skill id="5494"/>/<Skill id="5492"/>
-- Cast <Skill id="5516"/> where the second echo spawns, use <Skill id="5517"/> and the go behind the echo and use <Skill id="5697"/> towards the middle while swapping to <Skill id="5494"/>/<Skill id="5494"/> at the same time.
-
-### **66%**
-- Cast <Skill id="5531"/> and <Skill id="5737"/>(If you did not use it at 100%) just before siax gets vulnerable.   
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/>  -> <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Continue auto attack chain till siax phases(or repeat the rotation if the dps is super low).
-### **Echo**
-- Same as previous echo.
-### **33%**
-- Cast <Skill id="5531"/> and <Skill id="5737"/>(If you used it at 100%) just before siax gets vulnerable.   
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/>  -> <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-
-### **Tryhard/Coordinated groups**
-- Run <Skill id="5624"/> instead of <Skill id="5539"/> with <Trait id="328"/> traiit. Precast your first <Skill id="5624"/> before taking mistlock.
-- Use <Skill id="5737"/> at 66%.
 
 </Tab>
 
@@ -402,33 +310,5 @@ When Ensolyss reaches 15% health, he will stop using his usual attacks, but only
 - <Specialization name="soulbeast"/> takes <Skill name="moastance"/> . and uses it at the start of each phase. That should give you just enough <Boon name="Quickness"/> for each phase which is enough for high dps parties. 
 </Tab>
 
-
-<Tab specialization="weaver">
-### **Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-
-- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>. 
-- Take the mistlock.
-- Go to the middle using <Skill id="5697"/>, use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss. Its better to get seomeone else to start the boss for you since u might get knocked in the middle.
-### **100%**
-- <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Compplete AA chains and repeat burst till the boss phases.
-
-### **Capture Phase**
--Just don't die.
-
-### **66%**
-- Before the boss become vulnerable, cast <Skill id="5691"/> and <Skill id="21656"/> so that your party gets some might.
-- <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete auto attack chain on <Skill id="5492"/>/<Skill id="5494"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="5516"/>(Where you will go in the capture phase) -> <Skill id="5517"/> -> <Skill id="5531"/> ->  <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Complete auto attack chains and get as much damage as you can in the exposed duration.
-### **33%**
-- Cast <Skill id="5531"/> on the <Skill id="5516"/> and drop it.
-- <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Complete auto attack chains and get as much damage as you can in the exposed duration.
-
-</Tab>
 
 </Tabs>
