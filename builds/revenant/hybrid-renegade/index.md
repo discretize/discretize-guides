@@ -83,19 +83,6 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Divider text="Build"/>
 <Grid>
-
-<GridItem sm="4">
-<Grid>
-<GridItem sm="12">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Force" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Severance" weapon2MainSigil2="Force"/>
-</GridItem>
-
-
-<GridItem sm="12">
-<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
-</GridItem>
-</Grid>
-</GridItem>
 <GridItem sm="8">
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 </GridItem>
