@@ -1,7 +1,7 @@
 ---
 title: 'CC Distribution'
 date: '2020-03-17'
-image: './images/crit.png'
+image: './images/siax.png'
 description: 'Learn how to contribute your share of cc to break enormous breakbars.'
 ---
  
