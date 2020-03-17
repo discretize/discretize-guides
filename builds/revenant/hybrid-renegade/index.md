@@ -21,34 +21,23 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Tab title="162 Agony Resistance">
 
 <Grid>
-<GridItem sm="1"/>
-<GridItem sm="4">
+<GridItem sm="6">
 80% Boon Duration.
 <Armor weight="Heavy" helmAffix="Diviner" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
-<GridItem sm="2"/>
-<GridItem sm="4">
+
+<GridItem sm="6">
 50% Boon duration.
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
-<GridItem sm="1"/>
 
-<GridItem sm="1"/> 
-<GridItem sm="4">
+ 
+<GridItem sm="6">
 <BackAndTrinkets backItemAffix="Diviner" accessory1Affix="Berserker" accessory2Affix="Diviner" amuletAffix="Diviner" ring1Affix="Diviner" ring2Affix="Diviner"/>
 </GridItem>
-<GridItem sm="2"/>
-<GridItem sm="4">
+
+<GridItem sm="6">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Diviner" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
-</GridItem>
-<GridItem sm="1"/>
-
-<GridItem sm="12">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Force" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Severance" weapon2MainSigil2="Force"/>
-</GridItem>
-
-<GridItem sm="12">
-<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 </Grid>
 </Tab>
@@ -87,6 +76,16 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
 </GridItem>
 
+
+</Grid>
+</Tab>
+</Tabs>
+
+<Divider text="Build"/>
+<Grid>
+
+<GridItem sm="4">
+<Grid>
 <GridItem sm="12">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Force" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Severance" weapon2MainSigil2="Force"/>
 </GridItem>
@@ -96,12 +95,8 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 </Grid>
-</Tab>
-</Tabs>
-
-<Divider text="Build"/>
-<Grid>
-<GridItem sm="12">
+</GridItem>
+<GridItem sm="8">
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 </GridItem>
 </Grid>
