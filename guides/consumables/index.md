@@ -17,7 +17,7 @@ description: 'Learn how to use various consumables to greatly simplify otherwise
 | <Item id="8764"/>  | Provides 3 seconds of <Effect name="stealth"/> on a 6s cooldown.                                                                                                                                                                                                             |
 | <Item id="8801"/>  | Provides 3 seconds of <Effect name="stealth"/> on a 60s cooldown.                                                                                                                                                                                                            |
 | <Item id="8686"/>  | Provides 10 seconds of <Effect name="stealth"/>, ends if you move. Useful to activate the console in the [Underground Facility Fractal](/fractals/underground-facility).                                                                                |
-| <Item id="24"/>    | Breaks any stun.                                                                                |
+| <Item id="24"/>    | Breaks any stun.                                                                                   |
 
 ## Crowd Control Consumables
 
