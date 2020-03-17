@@ -17,8 +17,9 @@ author: 'Jin Su Liang.9036'
 <Tab title="Build">
 <Divider text="Equipment"/>
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
-<Tabs outlined>
+<Tabs>
 <Tab title="162 Agony Resistance">
+
 <Grid>
 <GridItem sm="6">
 <Grid>
@@ -74,22 +75,10 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </Grid>
 </Tab>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <Tab title="222 Agony Resistance">
 
 <Grid>
+
 <GridItem sm="6">
 <Grid>
 <GridItem sm="1"/>
@@ -128,6 +117,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="12">
 <Divider text="Build"/>
 </GridItem>
+
 <GridItem sm="4">
 <Grid>
 <GridItem sm="12">
@@ -138,6 +128,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 </Grid>
 </GridItem>
+
 <GridItem sm="8">
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 </GridItem>
