@@ -56,8 +56,7 @@ Use a <Item name="metalrod"/> if you don't trust your group.
 </Tab>
 <Tab title="Ensolyss">
 <Divider text="Ensolyss"/>
-At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizeable defiance bars that need to be 
-broken fast to avoid time loss in the first phase and taking damage in the second and third phase. 
+At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizeable defiance bars that need to be broken fast to avoid time loss in the first phase and taking damage in the second and third phase. 
 The small time window for breaking the first bar means that everyone in the party **must** contribute. 
 The bigger bar in the second and third phase means that the <Specialization name="Berserker"/>  needs to do an extra <Skill name="pommelbash"/> and that the weaver needs to do an extra <Skill name="polaricleap"/>.  
 Check the [Berserker guide](/builds/warrior/banner-berserker) for more information on traits, utility skills and weapons.
