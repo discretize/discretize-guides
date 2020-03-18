@@ -1,7 +1,7 @@
 ﻿---
 title: 'Dragonhunter'
 date: '2019-11-26'
-rating: 'CM-Offmeta'
+rating: 'Offmeta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
