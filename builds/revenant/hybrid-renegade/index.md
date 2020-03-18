@@ -1,7 +1,7 @@
 ---
 title: 'Renegade'
 date: '2020-03-15'
-rating: 'Meta'
+rating: 'CM'
 role: 'Support'
 profession: 'Revenant'
 specialization: 'Renegade'

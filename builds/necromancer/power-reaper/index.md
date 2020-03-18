@@ -1,7 +1,7 @@
 ---
 title: 'Power Reaper'
 date: '2019-09-04'
-rating: 'Great'
+rating: 'T4'
 role: 'Damage'
 profession: 'Necromancer'
 specialization: 'Reaper'

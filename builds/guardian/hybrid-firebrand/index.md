@@ -1,7 +1,7 @@
 ﻿---
 title: 'Firebrand'
 date: '2020-03-18'
-rating: 'Meta'
+rating: 'CM'
 role: 'Support'
 profession: 'Guardian'
 specialization: 'Firebrand'

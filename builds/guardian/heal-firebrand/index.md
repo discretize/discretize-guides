@@ -1,7 +1,7 @@
 ﻿---
 title: 'Heal Firebrand'
 date: '2020-03-14'
-rating: 'Good'
+rating: 'T4'
 role: 'Support'
 profession: 'Guardian'
 specialization: 'Firebrand'

@@ -1,7 +1,7 @@
 ---
 title: 'Weaver'
 date: '2019-10-10'
-rating: 'Meta'
+rating: 'CM'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
