@@ -40,8 +40,9 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
 
 <Card title="Alternative weapons">
-- Greatswords, Scepters, Swords and Maces with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
+- Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 - Greatswords and foci with (see [Consumables Guide](/guides/consumables))
+- Maces for symbol precast
 - Hammer and/or Staff for <Boon name="might"/> stacking
 </Card>
 </GridItem>
@@ -71,8 +72,9 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
 
 <Card title="Alternative weapons">
-- Greatswords, Scepters, Swords and Maces with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
+- Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 - Greatswords and foci with (see [Consumables Guide](/guides/consumables))
+- Maces for symbol precast
 - Hammer and/or Staff for <Boon name="might"/> stacking
 </Card>
 </GridItem>
@@ -122,6 +124,7 @@ To keep up <Boon name="Quickness"/>:
 - Use <Skill name="Feel My Wrath"/> whenever ready
 - Use <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> but leave one charge left (unless the fight is close to being over)
 - Only use these skills close to your allies - try to "puke" on them with the mantras
+- Keep in mind that Equiping/Stowing a Virtue grants you 3 seconds of <Boon name="quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 The DPS rotation is exactly the same as [Dragonhunter](/builds/guardian/power-dragonhunter):
 
@@ -131,14 +134,13 @@ The DPS rotation is exactly the same as [Dragonhunter](/builds/guardian/power-dr
   - And finally equip Sword and cast <Skill name="Symbol of Blades"/>
   - This way, when the encounter starts, 3 symbols will hit the target
 - On greatsword:
-  - Use <Skill name="Symbol of Wrath"/>,
+  - Use <Skill name="Symbol of Wrath"/>, you should cancel the aftercast with weapon stowing or simply moving
   - Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
-  - <Skill name="Leap of Faith"/> and <Skill name="Binding Blade"/> (again - inside the target's hitbox) are worth using instead of auto-attacks as well
   
 - On Sword:
-  - Use <Skill name="Zealots Defense"/> 
   - Use <Skill name="Ray of Judgment"/>
   - Use <Skill name="Symbol of Blades"/> 
+  - Use <Skill name="Zealots Defense"/> 
   - <Skill name="Shield of Wrath"/> when you're not receiving hits - use it shortly before breaking defiance bars. Can also be used to help with stacking might
  
 - Apart from that:
@@ -255,6 +257,10 @@ The following guide assumes you are playing with a decent group. In a PuG scenar
 <Message>
 Siax is a really short encounter that should be killed in about 40 seconds. Consider swapping to  <Specialization name="dragonhunter"/>: <Skill name="feelmywrath"/> in combination with precast is enough to keep up <Boon name="quickness"/>
 </Message>
+<Message>
+Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this encounter!
+</Message>
+
 ### **Precast**
 1) Cast <Skill name="tome of justice"/> skill 4 and 5
 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
@@ -265,6 +271,8 @@ Siax is a really short encounter that should be killed in about 40 seconds. Cons
 7) Take mistlock
 8) And repeat step 3 and 5
 
+<Tabs>
+<Tab title="Firebrand">
 ### **Phase 1**
 1) Cast <Skill name="tome of justice"/> skill 4 and 5 before the encounter starts
 2) Cast <Skill name="symbol of punishment"/> slightly before the encounter starts
@@ -304,9 +312,23 @@ NOTE - you should help both <Specialization name="Weaver"/>	and <Specialization 
 6) <Skill name="symbol of wrath"/>
 7) <Skill name="whirling wrath"/>
 8) Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
+</Tab>
+
+<Tab title="Core">
+
+</Tab>
+
+<Tab title="Dragonhunter">
+
+</Tab>
+</Tabs>
+
+
 
 </Tab>
 <Tab title="Ensolyss">
+
+<Item name="serpentslaying"/>/<Item name="impact"/> are the sigils you should have equiped on your weapons for this encounter
 
 ### **Precast**
 1) Cast <Skill name="tome of justice"/> Skill 4 and 5
