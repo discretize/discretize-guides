@@ -1,7 +1,7 @@
 ﻿---
 title: 'Soulbeast'
 date: '2019-11-18'
-rating: 'CM'
+rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
