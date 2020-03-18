@@ -2,7 +2,7 @@
 title: 'CC Distribution'
 date: '2020-03-17'
 image: './images/preview.jpg'
-description: 'Learn how to contribute your share of cc to break enormous breakbars.'
+description: 'Learn how to contribute your share of cc to break enormous break bars.'
 ---
  
 <Grid>
@@ -75,8 +75,8 @@ At 2200 Skorvald the Shattered has one of the largest defiance bars out of all t
 </Tab>
 <Tab title="Artsariiv">
 <Divider text="Artsariiv"/>
-At 2100 Artsariiv  has a large defiance bar that needs to be broken quickly for the <Specialization name="Soulbeast"/> to land their reflect into frailty. Luckily you have the special Action Key working in your favour, which the <Specialization name="renegade"/> should utilize by canceling his <Skill name="Surge of the mists"/> with it, causing it to bug out and hit 9 times, resulting in 1350 defiance bar damage.  
-The same bug happens with Warrior's <Skill name="whirlwindattack"/> (Greatsword 3) and Fiery Greatsword's <Skill name="fierywhirl"/>. (3).  
+At 2100 Artsariiv has a large defiance bar that needs to be broken quickly for the <Specialization name="Soulbeast"/> to land their reflect into frailty. Luckily you have the special Action Key working in your favour, which the <Specialization name="renegade"/> should utilize by canceling his <Skill name="Surge of the mists"/> with it, causing it to hit 9 times, resulting in 1350 defiance bar damage.  
+This properties of the special action key can be used to get more hits with any movement skills, like warrior's <Skill name="whirlwindattack"/> (Greatsword 3) and Fiery Greatsword's <Skill name="fierywhirl"/>. (3).  
 The remaining 750 defiance bar damage should come from the <Specialization name="firebrand"/>'s <Skill name="Banesignet"/> and from <Specialization name="berserker"/>'s <Skill name="headbutt"/> and either <Skill name="Tremor"/> or <Skill name="updraft"/> from <Specialization name="weaver"/> if the <Specialization name="berserker"/> isn't bringing Mace off-hand.  
 
 
