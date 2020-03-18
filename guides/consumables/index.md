@@ -1,6 +1,6 @@
 ---
 title: 'Consumables'
-date: '2020-03-16'
+date: '2020-03-18'
 image: './images/consumables.jpg'
 description: 'Learn how to use various consumables to greatly simplify otherwise challenging content.'
 ---
@@ -37,8 +37,9 @@ description: 'Learn how to use various consumables to greatly simplify otherwise
 | Enemy type           | Potion                                  | Sigil                                                                              |
 | -------------------- | --------------------------------------- | ---------------------------------------------------------------------------------- |
 | Any mob during Night | None                                    | <Item id="36053"/><br/>(doesn't stack with <Item id="36054" disableText/> anymore) |
-| Demon & Elemental    | <Item id="8886"/><br/><Item id="8885"/> | <Item id="24661"/>                                          |
+| Demon                | <Item id="8886"/>                       | None (<Item id="24664" disableText/> is currently bugged and gives no damage bonus to demons)   |
 | Dredge               | <Item id="8892"/>                       | <Item id="24684"/>                                                                 |
+| Elemental            | <Item id="8885"/>                       | <Item id="24661"/>                                                                 |         
 | Grawl                | <Item id="8890"/>                       | <Item id="24648"/>                                                                 |
 | Inquest              | <Item id="8887"/>                       | <Item id="24672"/>                                                                 |
 | Krait                | <Item id="8891"/>                       | <Item id="24658"/>                                                                 |
