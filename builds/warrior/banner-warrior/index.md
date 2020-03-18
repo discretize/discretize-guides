@@ -1,6 +1,6 @@
 ﻿---
 title: 'Banner Warrior'
-date: '2019-11-17'
+date: '2020-03-17'
 rating: 'T4'
 role: 'Support'
 profession: 'Warrior'
@@ -12,7 +12,7 @@ conditions: ['Vulnerability']
 code: '[&DQIEGws9MxamAKcAogGpAKwArwCqAAAAfAGcAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
-The <Specialization text="Banner Warrior" name="warrior"/> is the superior support build for warriors in fractals. This build is only meta on MAMA. In Pugs however, where CC or might is the limiting factor it can be beneficial to bring <Specialization text="Banner Warrior" name="warrior"/> over <Specialization text="Banner Berserker" name="berserker"/>.
+The <Specialization text="Banner Warrior" name="warrior"/> is the superior support build for warriors in fractals. In Pugs however, where CC or might is the limiting factor it can be beneficial to bring <Specialization text="Banner Warrior" name="warrior"/> over <Specialization text="Banner Berserker" name="berserker"/>.
 
 Besides providing the group with strong unique damage buffs (<Skill id="14405"/>, <Skill id="14407"/> and <Trait id="1482"/>) and having excellent defiance bar damage with the Mace/Mace set, the build also has a relatively high burst damage potential on both small and large hitboxes for a support role.
 
