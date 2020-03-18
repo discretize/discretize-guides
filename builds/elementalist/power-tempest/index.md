@@ -1,7 +1,7 @@
 ﻿---
 title: 'Power Tempest'
 date: '2019-10-10'
-rating: 'Great'
+rating: 'T4'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Tempest'

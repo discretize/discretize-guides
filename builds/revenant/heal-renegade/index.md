@@ -1,7 +1,7 @@
 ---
 title: 'Heal Renegade'
-date: '2019-09-04'
-rating: 'Great'
+date: '2020-03-18'
+rating: 'CM-Offmeta'
 role: 'Support'
 profession: 'Revenant'
 specialization: 'Renegade'

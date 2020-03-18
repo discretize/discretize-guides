@@ -1,7 +1,7 @@
 ﻿---
 title: 'Berserker'
 date: '2020-03-15'
-rating: 'Meta'
+rating: 'CM'
 role: 'Support'
 profession: 'Warrior'
 specialization: 'Berserker'
