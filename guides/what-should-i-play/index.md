@@ -4,7 +4,6 @@ date: '2020-03-18'
 image: './images/whatshouldiplaylogo.png'
 description: 'If you do not know what class you want to play.'
 ---
-# What should I play?
 ### This section will guide you towards the class / classes that could possibly fit your type of gameplay regarding CMs + T4 and **recommended for T4 only** classes.
 
 <Divider text="Meta builds"/>
