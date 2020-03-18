@@ -1,6 +1,6 @@
 ---
 title: 'Shattered Observatory'
-date: '2020-03-15'
+date: '2020-03-18'
 image: './images/header.jpg'
 group: 'Challenge Mode'
 api: 3458
@@ -79,35 +79,6 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 </Grid>
 
 <Tabs>
-
-<Tab specialization="Firebrand">
-**tl;dr**
-- Good teams = Scepter; Bad teams = sword. Play <Trait id="574"/>.
-- Start every burn on sword/scepter
-
-**Precast**
-
-- Use <Skill name="Hallowed ground"/> to give a fire field and retal.
-- Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some quickness.
-- Open <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
-- Use <Skill name="banesignet"/> before taking the mistlock.
-- Take the mistlock.
-- You can precast <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
-- You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst.
-
-**Burn phases**
-
-CC using <Skill name="bane signet"/> and start burns on scepter/sword.
-
-**Adds**
-
-You can kill the first two adds with greatsword. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weopen swap, or you DPS will suffer a lot. You can freely use GS on the first two adds. Swap to scepter/sword after that.
-
-On last platform precast <Skill name="Feelmywrath"/> and <Skill name="banesignet"/> just before taking portal so that all players get are getting back to skorvald fully buffed and you can concentrate on your rotation.  
-In cases where <Boon name="might"/> is lacking, you can use <Skill name="tomeofjustice"/> skill 4 to put down a fire field so that your team can blast it and get <Boon name="might"/> on platform 3 or 4. Make sure to not overstack the firefield with a symbol. Blast the firefield with <Skill name="shieldofwrath"/>.
-</Tab>
-
-
 <Tab specialization="Dragonhunter">
 **tl;dr**
 - Good teams = Scepter; Bad teams = sword. Play <Trait id="574"/>.
@@ -227,42 +198,6 @@ Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time w
 After the fight is over, take the portal in the North and move forward to get to Arkk.
 
 <Tabs>
-<Tab specialization="Firebrand">
-**General**
-If your team does not have a <Specialization name="soulbeast"/> or a <Specialization name="dragonhunter"/>, you can take <Skill name="Wall of reflection"/> for omega reflects. If your team does have reflects then take <Skill name="standyourground"/>.
-
-**Precast**
-- Use <Skill name="Hallowed ground"/> to give a fire field and retal.
-- Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some quickness.
-- Open <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
-- Use <Skill name="banesignet"/> before taking the mistlock.
-- Take the mistlock.
-- You can precast <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
-- You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst.
-
-**100%**
-
-If you are not skipping the first Anomaly, you should place the <Skill name="Wall of reflection"/> in the middle since you are killing the anomaly in the middle when she is using her reflectable skill so it can be reflected by placing it in the middle.
-
-If you are skipping the anomaly, use special action key to the corner as soon as the boss starts to move away from the middle, open <Skill name="tomeofcourage"/> and use skill 4 and 5.
-
-When the boss reaches the corner use <Skill name="standyourground"/> to prevent your <Specialization name="soulbeast"/> to get interrupted during reflect.
-Again it is recommended to start on scepter. Use your <Skill name="Bane Signet"/> to help with CC and boost the party dps as soon as Artsariiv arrives at the corners. Use it even if there is no CC-bar to improve your party dps. Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariivs hitbox for big damage.
-
-**Adds**
-
-Help your team CCing with consumables. Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. Use your special action key to quickly navigate to adds. Swap to scepter and camp it to be ready for the mid burst.
-
-**Mid Burst**
-
-Precast <Skill name="tomeofjustice"/> skill 4 and 5 to max out burst. Remember to use <Skill name="restoringreprieve"/> to give <Boon name="aegis"/> just before the boss slams in order to skip dodging it and cotinue to dps with the help of <Boon name="stability"/> from <Specialization name="renegade"/> and your <Boon name="aegis"/>.
-
-**66% and 33%**
-
-Start on scepter again. When Artsariiv arrives at the corners again, wait for her to throw the ball and then place your <Skill name="Wall of reflection"/> if there is no other reflect in team or <Skill name="standyourground"/> if there is.
-
-</Tab>
-
 <Tab specialization="dragonhunter">
 **General**
 If your team does not have a soulbeast, you can take <Skill name="Wall of reflection"/> for omega reflects. Kick your firebrand if he takes a wall/tome/shield. Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the knockbacking attacks.
@@ -377,32 +312,6 @@ Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight
 The most important thing is to keep calm. Remember that every single ability can be avoided, `Nova Launch` the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!
 
 <Tabs>
-
-<Tab specialization="Firebrand">
-**General**  
-- Your goal is to start on scepter/sword at every 10% burn phase, thats why you need to consider weopenswaps carefully. 
-- Pull adds in with GS5. 
-- Cast <Skill name="Bane Signet"/> at mistlock, on all 3 CCs on Arkk and when 70-50% burst begins.
-- The fastest way to do the orbs is to walk into the blue stuff and aa with scepter.
-- Use <Skill name="binding blade"/> inside Arkks hitbox when adds are present.
-
-**Precast**
-- Use <Skill name="Hallowed ground"/> to give a fire field and retal.
-- Use <Skill name="Feelmywrath"/> and <Skill name="potenthaste"/> to give some quickness.
-- Open  <Skill name="tomeofjustice"/> and cast skill 5(Epilogue).
-- Use <Skill name="banesignet"/> before taking the mistlock.
-- Take the mistlock.
-- You can precast <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss. 
-- You can also precast <Skill name="tomeofjustice"/> skill 4 and 5 just before starting the boss to max out burst (Take the portal to boss with <Specialization name="soulbeast"/> instead of waiting for someone to trigger it).
-
-**100%**
-
-Use <Skill name="tomeofcourage"/> skill 4 and 5 to skip first fear.
-
-**Split Phases**
-
-Use <Skill name="binding blade"/> to pull mobs, open <Skill name="tomeofjustice"/> and use 3rd skill to pull mobs inside boss and 4th skill to put down fire field and use Nova Launch to blast it for <Boon name="might"/>.
-</Tab>
 
 <Tab specialization="Dragonhunter">
 **General**  
