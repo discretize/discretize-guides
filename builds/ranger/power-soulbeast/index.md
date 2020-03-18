@@ -163,6 +163,8 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 
 <Tab title="99CM">
 <Divider text="Nightmare"/>
+- Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
+- Please also read through the [nightmare fractal page](/fractals/nightmare) for general encounter information!
 <Tabs>
 <Tab title="Mama">
 <Specialization name="Soulbeast"/> is not a great pick at this boss. However, in daily clears you have to find a way to make it work.
@@ -292,6 +294,8 @@ Use <Skill name="We heal as one"/> to keep up <Boon name="alacrity"/>.
 </Tab>
 <Tab title="100CM">
 <Divider text="Shattered Observatory"/>
+- Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
+- Please also read through the [shattered observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 <Tabs>
 <Tab title="Skorvald">
 **General**  
