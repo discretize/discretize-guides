@@ -1,7 +1,7 @@
 ﻿---
 title: 'What Should I Play?'
 date: '2020-03-18'
-image: './images/stacking.jpg'
+image: './images/image.jpg'
 description: 'If you do not know what class you want to play.'
 ---
 
