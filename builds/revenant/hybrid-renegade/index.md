@@ -226,6 +226,8 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Tab title="99CM">
 <Divider text="Nightmare"/>
+- Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
+- Please also read through the [nightmare fractal page](/fractals/nightmare) for general encounter information!
 <Tabs outlined>
 <Tab title="MAMA">
 
@@ -469,6 +471,8 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 <Tab title="100CM">
 <Divider text="Shattered Observatory"/>
+- Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
+- Please also read through the [shattered observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 <Tabs outlined>
 <Tab title="Skorvald">
 
