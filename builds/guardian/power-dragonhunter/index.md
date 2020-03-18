@@ -1,5 +1,5 @@
 ﻿---
-title: 'Dragonhunter'
+title: 'Power Dragonhunter'
 date: '2019-11-26'
 rating: 'Offmeta'
 role: 'Damage'
