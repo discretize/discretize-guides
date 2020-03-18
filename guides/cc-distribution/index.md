@@ -90,7 +90,7 @@ The recommended way to break the second split phase clones is 1 <Item name="sent
 <Tab title="Arkk">
 <Divider text="Arkk"/>
 At 1800 Arkk has a small defiance bar that appears after the Bloom pushing phase at 80%, 50% and 30%.  
-But again you have the Special Action Key working in your favor, which in addition to causing <Skill name="Surge of the mists"/> to hit 9 times, the Launch from the Special Action Key will also double-hit, brining the <Specialization name="renegade"/>'s defiance bar damage up to 1814.  
+But again you have the Special Action Key working in your favor, which in addition to causing <Skill name="Surge of the mists"/> to hit 9 times, the Launch from the Special Action Key will also double-hit, bringing the <Specialization name="renegade"/>'s defiance bar damage up to 1814.  
 The only reason the <Specialization name="berserker"/> carries an off-hand mace on Arkk is to get the <Item name="severance"/> buff by precasting <Skill name="Tremor"/> after each Bloom phase.
 <Image src="./images/arkk.png" caption="Arkk CC distribution"/>
 </Tab>
