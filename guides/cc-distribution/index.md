@@ -7,7 +7,7 @@ description: 'Learn how to contribute your share of cc to break enormous break b
  
 <Grid>
 <GridItem sm="6">
-Some enemies, often elite or higher, posse a defiance bar that players can break by using either soft cc or hard cc. Soft cc skills are applied by conditions; they inflict CC bar damage over time. In comparison to that hard cc removes defiance bar instantaneously. Therefore, since you want to get the <Effect name="exposed"/> buff as soon as possible you can't rely on soft cc breaking a bar of 2000.  
+Some enemies, often elite or higher, pose a defiance bar that players can break by using either soft cc or hard cc. Soft cc skills are applied by conditions; they inflict CC bar damage over time. In comparison to that hard cc removes defiance bar instantaneously. Therefore, since you want to get the <Effect name="exposed"/> buff as soon as possible you can't rely on soft cc breaking a bar of 2000.  
 The present <Specialization name="firebrand"/> + <Specialization name="renegade"/> meta demands CC contributions from every member of the party, even of the DPS players. The amount of CC a skill does is listed in the respective build pages.  
 
 In T4s a breakbar usually does not exceed 600. Nevertheless it is everyone's responsibility to break bars as quickly as possible. In PuG runs, where you can rely on the fact that 4/5 people did not read this page it is very much recommended to make up for the lack of cc with [cc consumables](/guides/consumables).
@@ -29,14 +29,13 @@ In T4s a breakbar usually does not exceed 600. Nevertheless it is everyone's res
 </GridItem>
 </Grid>
 
-## Challange Mote CC distribution
+## Challenge Mote CC distribution
 <Tabs>
 
 <Tab title="Mama">
 <Divider text="MAMA restricted"/>
 
-At 1800 MAMA has a small defiance bar, but you need to break it three times during the fight.
-In combination with the Knights that have defiance bars of 800 each MAMA becomes the most CC heavy fractal boss in the game.  
+At 1800 MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800 each MAMA becomes the most CC heavy fractal boss in the game.  
 When playing without CC Consumables, the <Specialization name="Berserker"/> needs to take double maces in addition to <Skill name="wildblow"/> and the <Specialization name="firebrand"/> needs to bring <Skill name="HammerofWisdom"/> instead of <Skill name="sword of justice"/>.
 
 <Image src="./images/mama_restricted.png" caption="Restricted Mama CC distribution"/>
@@ -69,13 +68,13 @@ Check the [Berserker guide](/builds/warrior/banner-berserker) for more informati
 <Tab title="Skorvald">
 <Divider text="Skorvald"/>
 At 2200 Skorvald the Shattered has one of the largest defiance bars out of all the Challenge Mote fractal bosses, meaning that the whole group needs to contribute to break it quickly.  
-<Specialization name="berserker"/> can forgo Mace off-hand in favor of a warhorn for blasting <Boon name="Might"/> on the islands if the <Specialization name="renegade"/> precasts <Skill name="Darkrazorsdaring"/> and has decent positioning, getting 5 hits of <Skill name="Surge of the mists"/>.
+<Specialization name="berserker"/> can forgo Mace off-hand in favor of a warhorn (with a paralyzation sigil) for blasting <Boon name="Might"/> on the islands if the <Specialization name="renegade"/> precasts <Skill name="Darkrazorsdaring"/> and has decent positioning, getting 5 hits of <Skill name="Surge of the mists"/>.
 
 <Image src="./images/skorvald.png" caption="Skorvald CC distribution"/>
 </Tab>
 <Tab title="Artsariiv">
 <Divider text="Artsariiv"/>
-At 2100 Artsariiv has a large defiance bar that needs to be broken quickly for the <Specialization name="Soulbeast"/> to land their reflect into frailty. Luckily you have the special Action Key working in your favour, which the <Specialization name="renegade"/> should utilize by canceling his <Skill name="Surge of the mists"/> with it, causing it to hit 9 times, resulting in 1350 defiance bar damage.  
+At 2100 Artsariiv has a large defiance bar that needs to be broken quickly for the <Specialization name="Soulbeast"/> to land their reflect into <Effect name="exposed"/>. Luckily you have the special Action Key working in your favour, which the <Specialization name="renegade"/> should utilize by canceling his <Skill name="Surge of the mists"/> with it, causing it to hit 9 times, resulting in 1350 defiance bar damage.  
 This properties of the special action key can be used to get more hits with any movement skills, like warrior's <Skill name="whirlwindattack"/> (Greatsword 3) and Fiery Greatsword's <Skill name="fierywhirl"/>. (3).  
 The remaining 750 defiance bar damage should come from the <Specialization name="firebrand"/>'s <Skill name="Banesignet"/> and from <Specialization name="berserker"/>'s <Skill name="headbutt"/> and either <Skill name="Tremor"/> or <Skill name="updraft"/> from <Specialization name="weaver"/> if the <Specialization name="berserker"/> isn't bringing Mace off-hand.  
 
