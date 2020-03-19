@@ -126,10 +126,10 @@ You are an actual madlad for considering this build. It costs about 3500k gold..
 <Card title="Maximizing berserk uptime">
 For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. 
 ### **Mama**
-<Skills heal="Bloodreckoning" utility1="wildblow" utility2="outrage" utility3="bullscharge" elite="Head Butt"/>
+<UnembossedSkills healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343"/>
 
 ### **Siax**
-<Skills heal="Bloodreckoning" utility1="Signet of Might" utility2="outrage" utility3="throwbolas" elite="Head Butt"/>
+<UnembossedSkills healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343"/>
 </Card>
 </GridItem>
 
@@ -234,13 +234,30 @@ If using <Skill id="14483"/>:
 <Tab title="MAMA">
 <Tabs>
 <Tab title="PuG">
+<Grid>
+<GridItem sm="12">
+<Divider text="PuG MAMA"/>
 <Message>
 This fight gets very messy if the adds are not immediately CCd. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates. 
 </Message>
+This Guide is a PuG friendly version without banner precast. Please remember that CCing all bars fast is the most important bit in this fight. You won't get a good kill - might even wipe your party - if you greed DPS without CC. 
+</GridItem>
+
 <GridItem sm="6">
-**PuG friendly version without banner precast:**
+<Card title="Skills and Traits">
 <UnembossedSkills healId="14401" utility1Id="29941" utility2Id="14405" utility3Id="14407" eliteId="30343"/>
-Take <Trait id="1977"/>!
+- Take <Trait id="1977"/>!
+- It makes sense to use [consumables](/guides/consumables) on the adds!
+- Food: <Item id="43360"/>
+- Utility: <Item id="50082"/>
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
+</GridItem>
+
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
 </GridItem>
 
 <GridItem sm="12">
@@ -289,13 +306,30 @@ Take <Trait id="1977"/>!
 - Use whatever CC is up at this point.
 
 </GridItem>
+</Grid>
 </Tab>
 <Tab title="Organized">
 <Grid>
+<GridItem sm="12">
+<Divider text="ORGANIZED MAMA"/>
+This build only works, if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
+</GridItem>
+
 <GridItem sm="6">
-### **Organized: for kills with a time lower than 55 seconds:**
+<Card title="Skills and Traits">
 <UnembossedSkills healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343"/>
-Take <Trait name="Smashbrawler"/>!
+- You can change <Skill id="14516"/> to <Skill name="throwbolas"/> if you don't need the extra CC.
+- Take <Trait name="Smashbrawler"/>!
+- Food: <Item id="43360"/>
+- Utility: <Item id="50082"/>
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
+</GridItem>
+
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
 </GridItem>
 
 <GridItem sm="12">
@@ -350,7 +384,132 @@ Take <Trait name="Smashbrawler"/>!
 </Tab>
 
 <Tab title="Siax">
+<Tabs>
+<Tab title="PuG">
+<Grid>
+<GridItem sm="12">
+<Divider text="PuG SIAX"/>
+</GridItem>
 
+<GridItem sm="6">
+<Card title="Skills and Traits">
+### **PuG friendly version without banner precast:**
+<UnembossedSkills healId="14401" utility1Id="30258" utility2Id="14405" utility3Id="14407" eliteId="30343"/>
+- Take <Trait name="smashbrawler"/>!  
+- It is recommended to play Greatsword in pugs so you can easily cleave down the exploding adds! 
+- Food: <Item id="43360"/>
+- Utility: <Item id="50082"/>
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="serpentslaying" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying"/>
+</GridItem>
+
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
+</GridItem>
+
+<GridItem sm="12">
+### **Prestacking**
+- Drop a fire field with <Skill name="Flames of war"/>.
+- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
+- Blast 12 Stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>
+- Use both charges of <Skill name="for great justice"/>
+- Take the mistlock and approach the boss.
+- Start on Axes
+
+### **1st Phase**
+- While approaching Siax cast <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>
+- Shortly before you get in combat use <Skill name="mending"/>.
+- Use <Skill name="whirlingaxe"/> to quickly gain adrenaline. 
+- As soon as the cast of <Skill name="whirlingaxe"/> is finished, pop <Skill name="berserk"/> and <Skill name="decapitate"/> 
+- Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
+- <Skill name="decapitate"/>, continue as usual.
+
+### **1st and 2nd Add**
+- Use <Skill name="rush"/> to approach your add quickly.
+- Kill your add with <Skill name="arcdivider"/> and <Skill name="hundredblades"/> quickly.
+- When you killed the add use <Skill name="mending"/> and rush back to Siax.
+
+### **2nd Phase** 
+- Throw <Skill name="bladetrail"/> against the vulnerable Siax
+- Use <Skill name="arcdivider"/> to cleave down the incoming adds.
+- Normal rotation according to the guide. 
+- Remember to use <Skill name="headbutt"/> and <Skill name="outrage"/> for <Skill name="berserk"/> extension.
+- Depending on your group you will drop out of <Skill name="berserk"/>. Engage <Skill name="berserk"/> as soon as you can again. 
+
+### **3rd Phase**
+- Warrior business as usual. 
+
+</GridItem>
+</Grid>
+</Tab>
+
+<Tab title="Organized">
+<Grid>
+<GridItem sm="12">
+<Divider text="ORGANIZED SIAX"/>
+This build only works, if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
+</GridItem>
+
+<GridItem sm="6">
+<Card title="Skills and Traits">
+<UnembossedSkills healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343"/>
+- Take <Trait name="Smashbrawler"/>
+- In organized teams a rifle can kill the adds very efficiently! 
+- Food: <Item id="43360"/>
+- Utility: <Item id="50082"/>
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="serpentslaying" weapon2MainType="Rifle" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" />
+</GridItem>
+
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
+</GridItem>
+
+<GridItem sm="12">
+### **Prestacking**
+- Drop a <Item name="whitemantleportaldevice"/> near the red orb.
+- Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/> and <Skill name="Battlestandard"/> in the arena.
+- Drop a fire field with <Skill name="Flames of war"/>.
+- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
+- Use both charges of <Skill name="forgreatjustice"/>.
+- Take the mistlock and use <Item name="whitemantleportaldevice"/> to get back on the boss.
+
+### **1st Phase**
+- As soon as you get in combat use <Skill name="throwbolas"/> and <Skill name="whirlingaxe"/>
+- <Skill name="decapitate"/>, <Skill name="bloodreckoning"/>, <Skill name="decapitate"/>.
+- Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
+
+### **1st Add**
+- Swap to rifle, start with <Skill name="aimedshot"/> to apply <Condition name="vulnerability"/>
+- Finish the add with <Skill name="gunflame"/> and <Skill name="volley"/>
+
+### **2nd Phase** 
+- Don't forget to apply <Trait name="peakperformance"/> with <Skill name="throwbolas"/>.
+- Do what a warrior does: smash <Skill name="decapitate"/>
+
+### **2nd Add**
+- Swap to rifle, start with <Skill name="aimedshot"/> to apply <Condition name="vulnerability"/>
+- Finish the add with <Skill name="gunflame"/> and <Skill name="volley"/>
+
+### **3rd Phase**
+- Don't forget to apply <Trait name="peakperformance"/> with <Skill name="throwbolas"/>.
+- Use <Skill name="headbutt"/> and <Skill name="outrage"/> [1]
+- Do what a warrior does: smash <Skill name="decapitate"/>
+
+**Annnotation:**
+- [1]: Depending on your kill time you might want to use the <Skill name="headbutt"/> - <Skill name="outrage"/> combo earlier.
+
+
+
+
+</GridItem>
+</Grid>
+</Tab>
+</Tabs>
 </Tab>
 
 <Tab title="Ensolyss">
