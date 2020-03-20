@@ -29,7 +29,7 @@ The positiong and timing of skills matter a lot, a single mistake can make your 
 
 The build benefits heavily from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-<Divider text="Equipment without Spotter"/>
+<Divider text="Equipment"/>
 
 <Tabs outlined>
 <Tab title="150 Agony Resistance">

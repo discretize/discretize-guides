@@ -24,7 +24,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 
 <Divider text="Equipment"/>
 <Tabs>
-<Tab title="150 AR">
+<Tab title="150 Agony Resistance">
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
@@ -55,7 +55,7 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 </Grid>
 </Tab>
 
-<Tab title="203 AR">
+<Tab title="203 Agony Resistance">
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">

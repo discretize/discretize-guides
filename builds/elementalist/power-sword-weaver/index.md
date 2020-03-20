@@ -26,7 +26,7 @@ Aside from <Condition name="vulnerability"/>, an additional crowd control skill 
 
 The build benefits heavily from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-<Divider text="Equipment Without Spotter and Weakness"/>
+<Divider text="Equipment without weakness"/>
 
 <Tabs outlined>
 
