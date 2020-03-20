@@ -207,7 +207,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 <Tab title="99CM">
 <Divider text="Nightmare"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
-- Please also read through the [nightmare fractal page](/fractals/nightmare) for general encounter information!
+- Please also read through the [Nightmare fractal page](/fractals/nightmare) for general encounter information!
 <Tabs>
 <Tab title="Mama">
 ### **Note**
@@ -517,7 +517,7 @@ Notes:
 <Tab title="100CM">
 <Divider text="Shattered Observatory"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
-- Please also read through the [shattered observatory fractal page](/fractals/shattered-observatory) for general encounter information!
+- Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 <Tabs>
 <Tab title="Skorvald">
 Rotation on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/>	runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
