@@ -78,30 +78,6 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 
 </Grid>
 
-<Tabs>
-<Tab specialization="Dragonhunter">
-**tl;dr**
-- Good teams = Scepter; Bad teams = sword. Play <Trait id="574"/>.
-- Start every burn on sword/scepter
-
-**Precast**
-
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
-- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Use <Skill name="Feelmywrath"/>.
-- Take the mistlock.
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
-
-**Burn phases**
-
-Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (phases Skorvald >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
-
-**Adds**
-
-You can kill the first two adds with greatsword. You can use traps on the 2nd add, without having them on cooldown when you are back at Skorval. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weopen swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
-
-</Tab>
-</Tabs>
 
 ---
 
@@ -197,36 +173,6 @@ Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time w
 
 After the fight is over, take the portal in the North and move forward to get to Arkk.
 
-<Tabs>
-<Tab specialization="dragonhunter">
-**General**
-If your team does not have a soulbeast, you can take <Skill name="Wall of reflection"/> for omega reflects. Kick your firebrand if he takes a wall/tome/shield. Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the knockbacking attacks.
-
-**Precast**
-
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
-- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Use <Skill name="Feelmywrath"/>.
-- Take the mistlock.
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss in a coordinated team.
-
-**100%**
-
-If you are not skipping the first Anomaly, you should place the wall in the middle.
-Again it is recommended to start on scepter. Use your <Skill name="Bane Signet"/> to help with cc and boost the party dps as soon as Artsariiv arrives at the corners. Use it even if there is no CC-Bar to improve your party dps. Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariivs hitbox for big damage.
-
-**Adds**
-
-Help your team CCing with consumables. Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. Use your special action key to quickly navigate to adds. Swap to scepter and camp it to be ready for the mid burst.
-
-**66% and 33%**
-
-When all adds are broken, your traps will be off cooldown again. Start on scepter again, use <Skill name="Shield of Wrath"/> to block the expanding AoE and fire everything you have.  
-When Artsariiv arrives at the corners again immediately place your <Skill name="Wall of reflection"/>.
-
-</Tab>
-</Tabs>
-
 ---
 
 ## Arkk <Item id="50082" disableText/><Label>9,942,250 HP</Label>
@@ -310,26 +256,3 @@ Below 40% health, random platforms start disappearing temporarily. Due to this m
 Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight even more challenging.
 
 The most important thing is to keep calm. Remember that every single ability can be avoided, `Nova Launch` the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!
-
-<Tabs>
-
-<Tab specialization="Dragonhunter">
-**General**  
-- Good teams: start on scepter/sword, so that you are on scepter/sword during the bloom phase.
-- Bad teams: start on greatsword and do SC rotation
-- Your goal is to start on scepter/sword at every 10% burn phase, thats why you need to consider weopenswaps carefully. 
-- Pull adds in with GS5. 
-- Cast <Skill name="Bane Signet"/> early, so you get more dps time. 
-- The fastest way to do the orbs is to walk into the blue stuff and aa with scepter. Use <Skill name="Wings of Resolve"/> to regain health. 
-- Use <Skill name="binding blade"/> inside Arkks hitbox when adds are present.
-
-**Precast**
-
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
-- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Use <Skill name="Feelmywrath"/>.
-- Take the mistlock.
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
-
-</Tab>
-</Tabs>
