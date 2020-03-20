@@ -8,8 +8,9 @@ specialization: 'Berserker'
 benchmark:
   { small: { dps: 33349, by: 'Allan [SC]', youtube: '4tKu5_7qzLM' } }
 skills: [14407, 14405]
-traits: [1444, ]
+traits: [1444, 1977, 2049 ]
 conditions: ['Vulnerability']
+boons: ['Might']
 code: '[&DQIEGzMWEhenAAAAqQAAAKoAAACsAAAAwhIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 <Tabs>
@@ -513,25 +514,58 @@ This build only works, if you kill Siax in less than 55 seconds. If there is any
 </Tab>
 
 <Tab title="Ensolyss">
-This is one of the fights, where berserker shines bright. As soon as you do not instabreak CC it makes sense to play <Specialization name="Warrior"/>. 
 
-### **<Specialization name="Berserker"/>** (Standard Axe/Axe Mace/Mace)
-Berserker is really strong on this encounter, because your <Skill name="Berserk"/> perfectly aligns with phase durations. There are some interesting weapon choices: if your team manages CC you can take an offhand torch for more dps. Remember to swap back to <Trait id="1977"/>. 
+<Grid>
+<GridItem sm="12">
+<Divider text="ENSOLYSS"/>
+</GridItem>
 
-**Opening:**
-- <Skill name="Mending"/> when he appears
-- <Skill name="Tremor"/> start to cast a few milliseconds before he looses <Effect name="invulnerability"/>
-- <Skill name="Headbutt"/>
+<GridItem sm="6">
+<Card title="Skills and Traits">
+<UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343"/>
+- Take <Trait name="savageinstinct"/>
+- In slow teams (PuGs) it can make sense to bring <Trait name="smashbrawler"/> and <Skill name="outrage"/> instead.
+- Food: <Item id="43360"/>
+- Utility: <Item id="91805"/>
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="serpentslaying" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="severance" weapon2OffType="Torch" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" />
+</GridItem>
+
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
+</GridItem>
+
+</Grid>
+### **Precast**
+- Drop a <Item name="whitemantleportaldevice"/> near the mistlock singularity.
+- Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/> and <Skill name="Battlestandard"/> in the arena.
+- Open your <Item name="whitemantleportaldevice"/>.
+- Drop a fire field with <Skill name="Flames of war"/>.
+- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
+- Use both charges of <Skill name="forgreatjustice"/>.
+- Take the mistlock and use <Item name="whitemantleportaldevice"/> to get back on the boss.
+- As soon as the boss appears, use <Skill name="Flames of war"/> and <Skill name="Mending"/>.
+
+### **1st Phase**
+- <Skill name="Headbutt"/> start to cast a few milliseconds before he looses <Effect name="invulnerability"/>.
 - <Skill name="Berserk"/>
+- Swap
+- Smash <Skill name="Decapitate"/> hard.
 
-**66% and 33%**
+Pick up your banners after you phased Ensolyss!
 
-Pick up your banners and swap to your off set (mace/torch). After everyone capped their circle, try to blast a fire field with your banners. Then go on:
-- <Skill name="crushingblow"/>
+### **66% and 33%**
+
+Swap to your off set (mace/torch) and cap the circle. After you meet in the middle, continue with:
+- Use <Skill name="Flames of war"/> and blast 12 stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
 - <Skill name="Mending"/>
-- <Skill name="Tremor"/> 
+- <Skill name="pommelbash"/> to trigger <Item name="severance"/>.
 - <Skill name="Headbutt"/>
 - <Skill name="Berserk"/>
+- Swap
+- Smash <Skill name="Decapitate"/> hard.
 </Tab>
 
 </Tabs>
