@@ -120,4 +120,6 @@ Below is a list of regularly used _Smoke Field_ skills. Be careful not to aggro 
   - <Skill id="13117"/>
 
 <Divider text="What now?"/>
-### Continue reading the basics of fractals as in group compositions, instabilities [here](/guides/fractal-basics) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)<br/> If you already read all of them take a look at how to maximize your critical chance for maximum damage [here](/guides/crit-cap) or how different classes can mitigate damage [here](/guides/damage-mitigation).
+### Continue reading the basics of fractals as in group compositions, instabilities [here](/guides/fractal-basics) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)
+
+### If you already read all of them take a look at how to maximize your critical chance for maximum damage [here](/guides/crit-cap) or how different classes can mitigate damage [here](/guides/damage-mitigation).

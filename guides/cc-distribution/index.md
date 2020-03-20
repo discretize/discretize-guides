@@ -5,13 +5,13 @@ image: './images/preview.jpg'
 description: 'Learn how to contribute your share of CC to break enormous break bars.'
 ---
  
-### Basics of Crowd Control<br/>(if you are familiar with the mechanic skip to the next paragraph):
+### Basics of Crowd Control<br/>:
 <Grid>
 <GridItem sm="6">
 
 What is the Defiance bar?
 
-The Defiance bar is a mechanic that lets players do more damage to a mob for a certain amount of time. Some enemies, often elite or higher have this mechanic and the goal is to break this bar as fast as possible, making the mob unable to attack and gets an effect named <Effect name="exposed"/>. The Defiance bar's value varies from boss to boss and between mobs too, what matters is that you should break it.
+The Defiance bar is a very important mechanic that lets players do more damage to a mob for a certain amount of time after breaking it. Some enemies, often elite or higher have this mechanic and the goal is to break this bar as fast as possible, making the mob unable to attack and gets an effect named <Effect name="exposed"/>. The Defiance bar's value varies from boss to boss and between mobs too, what matters is that you should break it.
 </GridItem>
 
 <GridItem sm="6">
@@ -21,11 +21,13 @@ CC is an acronym for Crowd Control, this includes soft CC and hard CC.
 
 **Soft CC** skills are applied by conditions, they inflict damage to the Defiance bar **over time**. In comparison to that **hard CC** removes defiance bar **instantaneously**. Since you want to get the <Effect name="exposed"/> effect as soon as possible you can't rely on soft CC breaking a bar of 2000.  
 </GridItem>
-
+<GridItem sm="12">
+Crowd Control is key
+</GridItem>
 <GridItem sm="6">
 This guide's aim is to help you how your team should contribute to breaking this bar with CC (Crowd Control, will be referred as CC from now on). The present <Specialization name="firebrand"/> + <Specialization name="renegade"/> meta demands CC contributions from every member of the party, even of the DPS players. The amount of CC a skill does is listed in the respective build pages.  
 
-In Tier 4 fractals (T4) a breakbar usually does not exceed 600. Nevertheless it is everyone's responsibility to break bars as quickly as possible. In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4/5 people did not read this page it is very much recommended to make up for the lack of CC with [CC consumables](/guides/consumables).
+In Tier 4 fractals (T4) a breakbar usually does not exceed 600. Nevertheless it is everyone's responsibility to break bars as quickly as possible. In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for the lack of CC with [CC consumables](/guides/consumables).
 
 **A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**
 </GridItem>
