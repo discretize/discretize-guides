@@ -29,7 +29,7 @@ If you are unable to provide enough <Boon name="Quickness"/> with that, **please
 
 <Divider text="Equipment"/>
 <Tabs>
-<Tab title="150 AR">
+<Tab title="150 Agony Resistance">
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
@@ -61,7 +61,7 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 </Grid>
 </Tab>
 
-<Tab title="203 AR">
+<Tab title="203 Agony Resistance">
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
@@ -126,13 +126,13 @@ To keep up <Boon name="Quickness"/>:
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 - Keep in mind that Equiping/Stowing a Virtue grants you 3 seconds of <Boon name="quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
-The DPS rotation is exactly the same as [Dragonhunter](/builds/guardian/power-dragonhunter):
+The DPS rotation is exactly the same as [Power Dragonhunter](/builds/guardian/power-dragonhunter):
 
 - If the encounter allows you to, you can prestack the following symbols:
   - Equip Mace and precast <Skill name="Symbol of Faith"/>
   - Equip Scepter and precast <Skill name="Symbol of Punishment"/>
   - And finally equip Sword and cast <Skill name="Symbol of Blades"/>
-  - This way, when the encounter starts, 3 symbols will hit the target
+  - This way, when the encounter starts, 3 symbols will hit the target and get up your stacks of <Trait name="symbolicavenger"/>
 - On greatsword:
   - Use <Skill name="Symbol of Wrath"/>, you should cancel the aftercast with weapon stowing or simply moving
   - Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
@@ -172,7 +172,25 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 </Card>
 </GridItem>
 
-<GridItem sm="7">
+<GridItem sm="6">
+<Card title="Rotation">
+**Scepter/Sword Rotation:**
+1. <Skill name="banesignet" profession="guardian"/>
+1. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter/Sword 2)
+1. <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
+1. <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
+1. **Weapon Swap**
+1. <Skill name="Sword of Justice" profession="guardian"/>
+1. <Skill name="Symbol of Wrath " profession="guardian"/> (GS 4)
+1. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
+1. <Skill name="Sword of Justice" profession="guardian"/> 
+1. <Skill name="Sword of Justice" profession="guardian"/>
+1. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
+1. <Skill name="Binding Blade" profession="guardian"/> (GS 5)
+1. If the phase lasts longer than this, continue with the SC rotation. 
+</Card>
+</GridItem>
+<GridItem sm="6">
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
@@ -199,16 +217,15 @@ The following guide assumes you are playing with a decent group. In a PuG scenar
 ### **Precast**
 1) Cast <Skill name="tome of justice"/> skill 4 and 5
 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
-3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
 5) Use <Skill name="Feelmywrath"/>	
 6) Use <Skill name="banesignet"/>
 7) Take mistlock
 8) And repeat step 3 and 5
 
-
 ### **Phase 1**
-1) Precast <Skill name="tome of justice"/> skill 4 and 5,  <Skill name="Symbolofblades"/>, <Skill name="shieldofwrath"/> and <Skill name="Symbolofwrath"/> when she is still invulnerable
+1) Precast <Skill name="tome of justice"/> skill 4 and 5, <Skill name="Symbolofblades"/>, <Skill name="shieldofwrath"/> and <Skill name="Symbolofwrath"/> when she is still invulnerable
 2) Cast <Skill name="banesignet"/> to CC
 3) Use <Skill name="whirlingwrath"/> 
 
@@ -217,7 +234,7 @@ The following guide assumes you are playing with a decent group. In a PuG scenar
 2) Use <Skill name="hammerofwisdom"/>
 
 ### **Phase 2**
-1) <Skill name="tome of justice"/>  Chapter 4: Scorched Aftermath
+1) <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath
 2) <Skill name="whirling wrath"/>
 3) <Skill name="symbol of wrath"/> (if you party is fast, it will not be off cooldown before <Skill name="whirling wrath"/> )
 4) Weapon swap
@@ -242,7 +259,7 @@ The following guide assumes you are playing with a decent group. In a PuG scenar
 2) Use <Skill name="Bindingblade"/> -> <Skill name="pull"/> ( can be used if the bar is not broken yet)
 
 ### **Phase 4**
-1) <Skill name="tome of justice"/>  Chapter 4: Scorched Aftermath for stacking <Boon name="Might"/>	before she reach the party (Ideally right when the third Add dies)
+1) <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath for stacking <Boon name="Might"/>	before she reach the party (Ideally right when the third add dies)
 2) Help with CC with  whatever you have
 3) <Skill name="symbol of wrath"/>
 4) <Skill name="whirling wrath"/>
@@ -264,62 +281,159 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 ### **Precast**
 1) Cast <Skill name="tome of justice"/> skill 4 and 5
 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
-3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+3) Use 2 charges of <Skill name="potent haste"/> (3 if you change to DH/Core) and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
 5) Use <Skill name="Feelmywrath"/>	
 6) Use <Skill name="banesignet"/>
 7) Take mistlock
-8) And repeat step 3 and 5
+8) And repeat step 3 and 5 (If you swap to DH/Core, only repeat step 5 )
+
+
 
 <Tabs>
-<Tab title="Firebrand">
+<Tab specialization="Firebrand" title="Firebrand">
 ### **Phase 1**
-1) Cast <Skill name="tome of justice"/> skill 4 and 5 before the encounter starts
-2) Cast <Skill name="symbol of punishment"/> slightly before the encounter starts
-3) Use <Skill name="swordofjustice"/> 
-4) <Skill name="ray of judgment"/>
-5) <Skill name="shield of wrath"/>
-5) Use <Skill name="banesignet"/> to CC
-7) <Skill name="symbol of punishment"/>
-8) Weapon swap
-9) <Skill name="whirling wrath"/>
+- Cast <Skill name="tome of justice"/> skill 4 and 5 before the encounter starts
+- Cast <Skill name="symbol of punishment"/> slightly before the encounter starts
+- Use <Skill name="swordofjustice"/> 
+- <Skill name="ray of judgment"/>
+- <Skill name="shield of wrath"/>
+- Use <Skill name="banesignet"/> to CC
+- <Skill name="symbol of punishment"/>
+- Weapon swap
+- <Skill name="whirling wrath"/>
 
 ### *Split Phase 1*
 NOTE - you should help your <Specialization name="Weaver"/> on the north
-2) Feel free to use <Skill name="leapoffaith"/>
-3) Auto attack
+- Feel free to use <Skill name="leapoffaith"/>
+- Auto attack
 
 ### **Phase 2**
-1) <Skill name="sword of justice"/>
-2) <Skill name="symbol of wrath"/>
-3) <Skill name="whirling wrath"/>
-4) Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
-5) Weapon swap
-6) <Skill name="symbol of punishment"/>
-7) Share Aegis to block the red AoE
+- <Skill name="sword of justice"/>
+- <Skill name="symbol of wrath"/>
+- <Skill name="whirling wrath"/>
+- Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
+- Weapon swap
+- <Skill name="symbol of punishment"/>
+- Share Aegis to block the red AoE
 
 ### *Split Phase 2*
 NOTE - you should help both <Specialization name="Weaver"/>	and <Specialization name="soulbeast"/> with their adds
-1) Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
-2) Help <Specialization name="Weaver"/> by using <Skill name="symbol of punishment"/> and/or <Skill name="ray of judgment"/> on his add
+- Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
+- Help <Specialization name="Weaver"/> by using <Skill name="symbol of punishment"/> and/or <Skill name="ray of judgment"/> on his add
 
 ### **Phase 3**
-1) Precast <Skill name="banesignet"/>
-2) Use <Skill name="sword of justice"/>
-3) <Skill name="symbol of punishment"/>
-4) <Skill name="shield of wrath"/>
-5) Weapon swap
-6) <Skill name="symbol of wrath"/>
-7) <Skill name="whirling wrath"/>
-8) Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
+- Precast <Skill name="banesignet"/>
+- Use <Skill name="sword of justice"/>
+- <Skill name="symbol of punishment"/>
+- <Skill name="shield of wrath"/>
+- Weapon swap
+- <Skill name="symbol of wrath"/>
+- <Skill name="whirling wrath"/>
+- Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
 </Tab>
 
-<Tab title="Core">
+<Tab specialization="Guardian" title="Core">
+<Message>
+<Specialization text="Core Guardian" name="guardian"/> can be very tricky as its dps is heavily influenced on how you can keep your <Boon name="aegis"/>. If you are unable to keep your <Boon name="aegis"/>, <Specialization name="Dragonhunter"/> will perform much better.
+</Message>
+<Message>
+<Specialization text="Core Guardian" name="guardian"/> allows you to have a free utility slot, which you can use for what is best for you strategy.  
+As <Specialization text="Core Guardian" name="guardian"/> you may run <Trait name="righthand strength"/> for lower cooldowns on sword and additional stat increase!
+</Message>
 
+### **Phase 1**
+- <Skill name="symbol of blades"/>
+- <Skill name="sword of justice"/>
+- <Skill name="ray of judgment"/>
+- <Skill name="shield of wrath"/>
+- <Skill name="virtue of justice"/>
+- <Skill name="zealots defense"/>
+- <Skill name="banesignet"/>
+- <Skill name="symbol of blades"/>
+- <Skill name="whirling wrath"/>
+
+### *Split Phase 1*
+NOTE - you should help your <Specialization name="Weaver"/> on the north
+- Feel free to use <Skill name="leapoffaith"/>
+- Auto attack
+
+### **Phase 2**
+- <Skill name="sword of justice"/>
+- <Skill name="symbol of wrath"/>
+- <Skill name="virtue of resolve"/>
+- <Skill name="whirling wrath"/>
+- Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
+- Weapon swap
+- <Skill name="symbol of blades"/>
+- <Skill name="zealots defense"/>
+
+Keep in mind that if your group is not fast enough, you need to use <Skill name="virtue of courage"/> for <Boon name="aegis"/>. 
+
+### *Split Phase 2*
+NOTE - you should help both <Specialization name="Weaver"/>	and <Specialization name="soulbeast"/> with their adds
+- Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
+- Help <Specialization name="Weaver"/> by using <Skill name="symbol of blades"/> and/or <Skill name="ray of judgment"/> on his add
+- You can run <Skill name="judges intervention"/> to get back to Siax fast
+
+### **Phase 3**
+- Precast <Skill name="banesignet"/>
+- Use <Skill name="sword of justice"/>
+- <Skill name="feelmywrath"/>
+- <Skill name="virtue of justice"/>
+- <Skill name="zealots defense"/>
+- <Skill name="shield of wrath"/>
+- Weapon swap
+- <Skill name="symbol of wrath"/>
+- <Skill name="whirling wrath"/>
+- Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
 </Tab>
 
-<Tab title="Dragonhunter">
+<Tab specialization="Dragonhunter" title="Dragonhunter">
+### **Phase 1**
+- <Skill name="symbol of punishment"/>
+- <Skill name="sword of justice"/>
+- <Skill name="spear of justice"/>
+- <Skill name="procession of blades"/>
+- <Skill name="ray of judgment"/>
+- <Skill name="banesignet"/>
+- <Skill name="symbol of punishment"/>
+- Weapon swap
+- <Skill name="whirling wrath"/>
 
+### *Split Phase 1*
+NOTE - you should help your <Specialization name="Weaver"/> on the north
+- Feel free to use <Skill name="leapoffaith"/>
+- <Skill name="sword of justice"/>
+- Auto attack
+
+### **Phase 2**
+- <Skill name="sword of justice"/>
+- <Skill name="spear of justice"/>
+- <Skill name="symbol of wrath"/>
+- <Skill name="whirling wrath"/>
+- Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
+- Weapon swap
+- <Skill name="symbol of punishment"/>
+- Share Aegis to block the red AoE
+
+### *Split Phase 2*
+NOTE - you should help both <Specialization name="Weaver"/>	and <Specialization name="soulbeast"/> with their adds
+- Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
+- Help <Specialization name="Weaver"/> by using <Skill name="symbol of punishment"/> and/or <Skill name="ray of judgment"/> on his add
+
+### **Phase 3**
+- Precast <Skill name="banesignet"/>
+- <Skill name="feelmywrath"/>
+- Use <Skill name="sword of justice"/>
+- <Skill name="procession of blades"/>
+- <Skill name="spear of justice"/> 
+- <Skill name="symbol of punishment"/>
+- <Skill name="shield of wrath"/>
+- Weapon swap
+- <Skill name="symbol of wrath"/>
+- <Skill name="whirling wrath"/>
+- Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
 </Tab>
 </Tabs>
 
@@ -327,13 +441,14 @@ NOTE - you should help both <Specialization name="Weaver"/>	and <Specialization 
 
 </Tab>
 <Tab title="Ensolyss">
-
-<Item name="serpentslaying"/>/<Item name="impact"/> are the sigils you should have equiped on your weapons for this encounter
+<Message>
+Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this encounter!
+</Message>
 
 ### **Precast**
 1) Cast <Skill name="tome of justice"/> Skill 4 and 5
 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
-3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
 5) Use <Skill name="Feelmywrath"/>	
 6) Use <Skill name="banesignet"/>
@@ -406,12 +521,12 @@ Notes:
 - Please also read through the [shattered observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 <Tabs>
 <Tab title="Skorvald">
- Rotation on Skorvald depends on whether your <Specialization name="Renegade"/>	 runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/>	runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
+Rotation on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/>	runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
  
  ### **Precast**
  1) Cast <Skill name="tome of justice"/> Skill 4 and 5
  2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
- 3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+ 3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
  4) Use <Skill name="Stand your ground"/>
  5) Use <Skill name="Feelmywrath"/>	
  6) Use <Skill name="banesignet"/>
