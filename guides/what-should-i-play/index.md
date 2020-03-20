@@ -4,7 +4,7 @@ date: '2020-03-20'
 image: './images/whatshouldiplaylogo.png'
 description: 'If you do not know what class you want to play.'
 ---
-### This section will guide you towards the class / classes that could possibly fit your type of gameplay regarding CMs + T4 and **recommended for T4 only** classes.
+### This section will guide you towards the class / classes that could possibly fit your type of gameplay regarding Challenge Modes (CMs) + Tier 4 (T4) fractals and **recommended for Tier 4 (T4) only** classes.
 
 <Divider text="Meta builds"/>
 ### These builds provide **the best runtimes** for your Challenge Modes! Also great for Tier 4 dailies.
@@ -25,7 +25,7 @@ description: 'If you do not know what class you want to play.'
 </Tabs>
 
 <Divider text="Offmeta builds"/>
-### These builds can be swapped out with meta builds for Challenge Modes, **but the kill times will be slower**! Also great for Tier 4 dailies.
+### These builds can be swapped out with meta builds for Challenge Modes, **but the kill times will be slower**! Also great for Tier 4 (T4) dailies.
 <Tabs outlined>
 <Tab title="DPS roles">
 | | |
@@ -39,7 +39,7 @@ description: 'If you do not know what class you want to play.'
 
 
 # Classes for Tier 4 fractals
-### **These builds are recommended for Tier 4 fractals only**, every build has a different spot it can fill in a group.
+### **These builds are recommended for Tier 4 (T4) fractals only**, every build has a different spot it can fill in a group.
 
 <Divider text="Optional for tier 4"/>
 
