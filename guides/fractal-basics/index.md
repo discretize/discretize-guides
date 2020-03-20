@@ -78,4 +78,4 @@ Below is a list of all current instabilities and their possible countermeasures.
 | <Instability name="Sugar Rush	"/> | Increases player movement speed and attack speed by 15%. Elite and lower enemies' movement speed and attack speed increases by 35%.      |
 
 <Divider text="What now?"/>
-### Continue reading the basics of fractals like pre-stacking <Boon name="might"/>,<Boon name="Fury"/> and other boons [here](/guides/blast-stacking) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)
+### Continue reading the basics of fractals like pre-stacking <Boon name="might"/>, <Boon name="Fury"/> and other boons [here](/guides/blast-stacking) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)
