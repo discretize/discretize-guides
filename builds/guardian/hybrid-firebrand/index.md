@@ -27,7 +27,6 @@ Note that this build variant only gains boon duration from the <Item id="79722"/
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
-<Divider text="Equipment"/>
 <Tabs>
 <Tab title="150 Agony Resistance">
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
