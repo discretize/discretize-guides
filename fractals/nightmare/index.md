@@ -56,24 +56,6 @@ When MAMA reaches 33%, it conjures a large _Nightmare Miasma_ field around it wh
 
 Fast crowd control and animation knowledge are the keys to this fight.
 
-<Tabs>
-<Tab specialization="Dragonhunter">
-**General**
-- Do not use traps on the adds
-- Strategically cast your <Skill name="banesignet"/> 
-- Start on Scepter/Sword
-- Use <Skill name="binding blade"/> inside MAMAs hitbox, when the small adds are coming close
-- Check with your team if you are using <Skill name="Feelmywrath"/>
-
-**Precast**
-
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the first add and force your team to `/gg`.
-- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- (Use <Skill name="Feelmywrath"/> - depends on your precast)
-- Take the mistlock.
-</Tab>
-</Tabs>
-
 ---
 
 <Grid>
@@ -155,54 +137,6 @@ When Siax reaches 66% health, he gains <Effect name="invulnerability"/> and four
 Assign players to each add before the fight starts by setting waypoints. In PuGs the <Specialization name="firebrand"/> and <Specialization name="renegade"/> will usually focus on one mob together due to their lower DPS.
 
 <Image src="./images/siax.jpg" caption="Siax the Corrupted"/>
-
-<Tabs>
-<Tab specialization="Dragonhunter">
-**tl;dr**
-- Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reson why <Specialization name="guardian"/> is very strong at this boss. Do not miss this.
-- Save some <Skill id="9168"/> for a quicker add kill. 
-- It is benefical to take a sword here to quickly blink to the add.
-- Use <Skill name="Wings of resolve"/> to navigate around and keep your HP up.
-- Use <Skill name="Bane Signet"/> to help with CC and buff your party.
-- Use <Skill name="shieldofwrath"/> and <Skill name="Shieldofcourage"/> to block the expanding AoEs.
-- Check with your team if you take <Skill name="Feelmywrath"/>
-
----
-
-**Precast**
-
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
-- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Take the mistlock.
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
-
-**100%-66%**
-
-Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (phases Siax in >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.  
-No matter what group you are running with, start on scepter/sword! If you are running in a PuG or just clear it daily, it is benefical to delay your traps slightly, to fit more of the hits into the cc bar. In a fast team save <Skill name="bindingblade"/> for the 2nd phase when the adds spawn, if not use it. Just make sure to press it when the adds are in range for big dps.
-
-**1st Add**
-
-- Use <Skill name="spearofjustice"/> on your add for the modifier from <Trait name="biggamehunter"/>. 
-- <Skill name="Whirling wrath"/> and a couple AA to kill it.
-- Use <Skill name="wingsofresolve"/>, <Skill name="Symbol of blades"/> and <Skill name="Leapoffaith"/> for movement.
-
-**66%-33%**
-
-Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Try to end on scepter/sword.
-
-**2nd Add**
-
-- Use <Skill name="spearofjustice"/> on your add for the modifier from <Trait name="biggamehunter"/>. 
-- Kill it with a symbol and AAs.
-- In fast runs you might wanna save a <Skill name="Swordofjustice"/>.
-
-**33%-0%**
-
-Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Try to end on scepter/sword.
-
-</Tab>  
-</Tabs>
 
 ---
 
