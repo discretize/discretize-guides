@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Condi Firebrand'
 date: '2020-03-20'
 rating: 'Offmeta'
@@ -21,6 +21,10 @@ Your tomes are your by far most important skills, they enable you to do great dp
 One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> is that you lack CC (Crowd Control), this can be fixed by running <Trait name="Perfectinscriptions"/> and swapping <Skill name="Signet of Wrath"/> to <Skill name="Bane Signet"/>.
 
 <Divider text="Equipment"/>
+
+Note that this build variant only gains boon duration from the <Item id="79722"/>.
+
+If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap <Item id="86997"/> for <Item id="91842"/>**.
 
 <Grid>
 <GridItem sm="4">
@@ -88,7 +92,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 
 - <Skill name="Tome of Justice"/> (F1):
   - Skill 1: One stack of <Condition name="burning"/>
-  - Skill 2: Two stack of <Condition name="burning"/>
+  - Skill 2: Two stacks of <Condition name="burning"/>
   - Skill 3: An AoE pull
   - Skill 4: High power damage skill, applies four stacks of <Condition name="burning"/>.
   - Skill 5: Your bread and butter as <Specialization text="Condi Firebrand" name="firebrand"/>: Share Ashes of the Just with allies applying a magnitude of <Condition name="burning"/>.
