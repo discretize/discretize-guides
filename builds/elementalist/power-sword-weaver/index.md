@@ -299,7 +299,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 <Tab title="99CM">
 <Divider text="Nightmare"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
-- Please also read through the [nightmare fractal page](/fractals/nightmare) for general encounter information!
+- Please also read through the [Nightmare fractal page](/fractals/nightmare) for general encounter information!
 <Tabs>
 <Tab title="Mama">
 **Precast**
@@ -428,7 +428,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 <Tab title="100CM">
 <Divider text="Shattered Observatory"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
-- Please also read through the [shattered observatory fractal page](/fractals/shattered-observatory) for general encounter information!
+- Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 <Tabs>
 <Tab title="Skorvald">
 **Precast**
