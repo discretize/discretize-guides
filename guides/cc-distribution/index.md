@@ -5,7 +5,7 @@ image: './images/preview.jpg'
 description: 'Learn how to contribute your share of CC to break enormous break bars.'
 ---
  
-### Basics of Crowd Control<br/>(if you are familiar with the mechanic skip to the next paragraph):
+### Basics of Crowd Control<br/>:
 <Grid>
 <GridItem sm="6">
 
@@ -21,7 +21,9 @@ CC is an acronym for Crowd Control, this includes soft CC and hard CC.
 
 **Soft CC** skills are applied by conditions, they inflict damage to the Defiance bar **over time**. In comparison to that **hard CC** removes defiance bar **instantaneously**. Since you want to get the <Effect name="exposed"/> effect as soon as possible you can't rely on soft CC breaking a bar of 2000.  
 </GridItem>
-
+<GridItem sm="12">
+Crowd Control is key
+</GridItem>
 <GridItem sm="6">
 This guide's aim is to help you how your team should contribute to breaking this bar with CC (Crowd Control, will be referred as CC from now on). The present <Specialization name="firebrand"/> + <Specialization name="renegade"/> meta demands CC contributions from every member of the party, even of the DPS players. The amount of CC a skill does is listed in the respective build pages.  
 
