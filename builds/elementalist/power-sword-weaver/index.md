@@ -428,7 +428,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 <Tab title="100CM">
 <Divider text="Shattered Observatory"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
-- Please also read through the [Shattered observatory fractal page](/fractals/shattered-observatory) for general encounter information!
+- Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 <Tabs>
 <Tab title="Skorvald">
 **Precast**
