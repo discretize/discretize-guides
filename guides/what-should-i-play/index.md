@@ -4,8 +4,7 @@ date: '2020-03-20'
 image: './images/whatshouldiplaylogo.png'
 description: 'If you do not know what class you want to play.'
 ---
-# What should I play?
-### This section will guide you towards the class / classes that could possibly fit your type of gameplay regarding CMs + T4 and **recommended for T4 only** classes.
+### This section will guide you towards the class / classes that could possibly fit your type of gameplay regarding Challenge Modes (CMs) + Tier 4 (T4) fractals and **recommended for Tier 4 (T4) only** classes.
 
 <Divider text="Meta builds"/>
 ### These builds provide **the best runtimes** for your Challenge Modes! Also great for Tier 4 dailies.
@@ -26,12 +25,12 @@ description: 'If you do not know what class you want to play.'
 </Tabs>
 
 <Divider text="Offmeta builds"/>
-### These builds can be swapped out with meta builds for Challenge Modes, **but the kill times will be slower**! Also great for Tier 4 dailies.
+### These builds can be swapped out with meta builds for Challenge Modes, **but the kill times will be slower**! Also great for Tier 4 (T4) dailies.
 <Tabs outlined>
 <Tab title="DPS roles">
 | | |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Specialization name="Holosmith" text="Power Holosmith"/> |1. High learning curve, hard to master<br/><br/>2. High, consistent damage<br/><br/>3. Your CC(Crowd Control) is the highest of the offmeta dps classes<br/>[Click here for the build!](/builds/engineer/power-holosmith)<br/><br/>  |
+| <Specialization name="Holosmith" text="Power Holosmith"/> |1. High learning curve, hard to master<br/><br/>2. High, consistent damage<br/><br/>3. Your CC [(Crowd Control)](/guides/cc-distribution) is the highest of the offmeta dps classes<br/>[Click here for the build!](/builds/engineer/power-holosmith)<br/><br/>  |
 | <Specialization name="firebrand" text="Condi Firebrand"/> | <br/>1. Low learning curve<br/><br/>2. Huge burst damage<br/>[Click here for the build!](/builds/guardian/condi-firebrand)<br/><br/> |
 | <Specialization name="Reaper" text="Power Reaper"/> | <br/>1. Low learning curve, hard to master<br/><br/>2. High, consistent damage, good cleave<br/><br/>3. You provide yourself boons such as <Boon name="quickness"/> and <Boon name="Might"/><br/><br/>4. Highest survivability out of the offmeta dps classes<br/><br/>5. Can boonrip for the team if <Instability name="No Pain, No Gain"/> is present<br/>[Click here for the build!](/builds/necromancer/power-reaper)<br/><br/>   |
 | <Specialization name="Dragonhunter"/> | <br/>1. Low learning curve, hard to master<br/><br/>2. High damage on short fights, drops later on<br/><br/>3. You are squishy, but out of the offmeta dps classes, you have the **second** most survivability<br/>[Click here for the build!](/builds/guardian/power-dragonhunter)  |
@@ -40,7 +39,7 @@ description: 'If you do not know what class you want to play.'
 
 
 # Classes for Tier 4 fractals
-### **These builds are recommended for Tier 4 fractals only**, every build has a different spot it can fill in a group.
+### **These builds are recommended for Tier 4 (T4) fractals only**, every build has a different spot it can fill in a group.
 
 <Divider text="Optional for tier 4"/>
 
@@ -59,3 +58,6 @@ description: 'If you do not know what class you want to play.'
 | <Specialization name="firebrand" text="Heal Firebrand"/> | <br/>1. Low learning curve<br/><br/>2. Low damage, high healing output<br/><br/>3. You are responsible for boons like <Boon name="quickness"/>, <Boon name="Aegis"/>, <Boon name="Regeneration"/>  and <Boon name="might"/><br/><br/>4. If needed, you can provide more boons like <Boon name="Resistance"/> and <Boon name="Stability"/><br/><br/>5. You give the group a damage buff by using <Skill name="Bane Signet"/><br/>[Click here for the build!](/builds/guardian/heal-firebrand) |
 </Tab>
 </Tabs>
+
+<Divider text="What now?"/>
+### Continue reading the basics of fractals as in group compositions, instabilities [here](/guides/fractal-basics) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)
