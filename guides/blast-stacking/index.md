@@ -118,3 +118,6 @@ Below is a list of regularly used _Smoke Field_ skills. Be careful not to aggro 
   - Double any skill with <Skill id="29830"/> (<Specialization disableText name="chronomancer"/>)
 - <Specialization name="thief"/>:
   - <Skill id="13117"/>
+
+<Divider text="What now?"/>
+### Continue reading the basics of fractals as in group compositions, instabilities [here](/guides/fractal-basics) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)
