@@ -685,33 +685,121 @@ Your skill choice is heavily influenced by the strategy your team chooses. Follo
 
 </Tab>
 <Tab title="Arkk">
-Usually the <Specialization name="Renegade"/> is responsible for slaying the Temmporal Anomaly, nonetheless pay close attention to it and assist if necessary. Dont forget to use `Nova Launch` to circumvent the effects of Arkk's _Solar Fury_ and _Solar Discharge_.
+<Grid>
+<GridItem sm="12">
+<Divider text="ARKK"/>
+</GridItem>
 
-**Precast**
+<GridItem sm="6">
+<Grid>
+<GridItem sm="12">
+<Card title="Skills and Traits">
+<UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419"/>
+- Take <Trait name="smashbrawler"/>
+</Card>
+</GridItem>
+<GridItem sm="12">
+<Video title="Video" youtube="CmqdVeGttOI"/>
+</GridItem>
+</Grid>
+</GridItem>
 
-Use a <Item id="78978"/>, use special action key to get to the platform and precast <Skill id="14405"/>, <Skill id="14407"/>, <Skill id="14408"/> and a <Skill id="14419"/>. Take the portal back.
+<GridItem sm="6">
+<Grid>
+<GridItem sm="12">
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="force"  weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="severance" />
+</GridItem>
+<GridItem sm="12">
+<Card title="Additional Information">
+- Food: <Item id="91805"/>
+- Utility: <Item id="50082"/>
+</Card>
+</GridItem>
+</Grid>
+</GridItem>
 
-Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>. Do not take the mistlock to early or you will need more than 1-2 hits to fill up your adrenalin. Also before taking the mistlock precast <Skill name="mending"/>.
-
-**Bloom phases**
-
-If you are full hp, you can step into the lightning, auto attack your bloom until it gets pushed towards the pillar. Use a <Skill name="Throw axe"/> to finish your add. Use <Skill name="Mending"/> afterwards to regain health.
-
-*Add phases*
-
-Refresh your <Skill id="14405"/> and <Skill id="14407"/> at the archdiviner and gladiator adds by blasting a firefield.
-
----
-
-**<Specialization name="Berserker"/>** (Standard Axe/Axe Axe/Mace)
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
+</GridItem>
+</Grid>
 
 <Message>
-You run <Trait id="2049"/> and use <Skill id="14419"/> at 50% to keep up might!
+It is not your job as <Specialization name="berserker"/> to slay the Temporal Anomaly. 
 </Message>
-Use at least <Skill id="14415"/> at every breakbar.
 
-In better teams do not use your <Skill id="30185"/> in the 2nd and 4th phase. You want to save it for the longer 20% burns. In bad teams you do not need to put so much thought into it.
+### **Prestacking**
+- Drop a <Item name="whitemantleportaldevice"/> near the mistlock and jump over to Arkks platform using the special action key.
+- Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>, <Skill name="Banner of Discipline"/> and <Skill name="battlestandard"/>. 
+- Take the portal back
+- Drop a fire field with <Skill name="Flames of war"/>.
+- Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
+- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>.
+- Shortly before somebody triggers the encounter:
+    - Precast <Skill name="Flames of war"/> for DPS
+    - Precast <Skill name="Mending"/>
+    - Take the mistlock to start the fight with maximum adrenaline
 
+### **1st Phase (100%-80%)**
+- Dont move your camera or character model until the Eye is gone or you will get <Condition name="Fear"/>.
+- Engage <Skill name="berserk"/> right away and start your normal rotation.
+
+### *Bloom phases*
+- Swap to offhand mace.
+- Dodge into the lightning.
+- Auto attack the bloom.
+- Use a <Skill name="Throwaxe"/> against the bloom to push it to the tower.
+- Dodge out.
+- Use <Skill name="mending"/> to restore <Item name="scholar"/>.
+
+### **2nd Phase (80%-70%)**
+- Save your <Skill name="berserk"/> for the 70%-50% burn. 
+- Use <Skill name="tremor"/> to gain <Item name="severance"/>.
+- Finish up the phase with <Skill name="cycloneaxe"/> and <Skill name="dualstrike"/>.
+- If there is time left use <Skill name="whirlingaxe"/>.
+
+### *Archdiviner*
+- Blast a fire field that is provided by the <Specialization name="firebrand"/> or <Specialization name="weaver"/> with your banners to stack 12 stacks of <Boon name="might"/>.
+- Don't stand inside of AoEs, that strip your boons.
+- Engage <Skill name="berserk"/> and use <Skill name="mending"/> when the Archdiviner is dead.
+
+### **3rd Phase (70%-50%)**
+- Follow the warrior guide. 
+- At 50% before you leave for your bloom, cast <Skillm name="battlestandard"/> in the middle.
+
+### *Bloom phases*
+- Swap to offhand mace.
+- Dodge into the lightning.
+- Auto attack the bloom.
+- Use a <Skill name="Throwaxe"/> against the bloom to push it to the tower.
+- Dodge out.
+- Use <Skill name="mending"/> to restore <Item name="scholar"/>.
+
+### **4th Phase (50%-40%)**
+- Use <Skill name="tremor"/> to gain <Item name="severance"/>.
+- Engage <Skill name="berserk"/>.
+- Finish the phase with business as usual.
+- Pick up <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> at the of the phase.
+
+### *Gladiator Phase*
+- Recast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/> into a fire field for 12 Stacks of <Boon name="might"/>
+- Do what a <Specialization name="warrior"/> does.
+- When the mob dies, precast <Skill name="mending"/>
+
+### **5th Phase (40%-30%)**
+- Smash <Skill name="decapitate"/> for as long as your <Skill name="berserk"/> is still up.
+
+### *Bloom phases*
+- Swap to offhand mace.
+- Dodge into the lightning.
+- Auto attack the bloom.
+- Use a <Skill name="Throwaxe"/> against the bloom to push it to the tower.
+- Dodge out.
+- Use <Skill name="mending"/> to restore <Item name="scholar"/>.
+
+### **6th Phase (30%-0%)**
+- Use <Skill name="tremor"/> to gain <Item name="severance"/>.
+- Engage <Skill name="berserk"/>.
+- Finish the phase with business as usual.
 </Tab>
 </Tabs>
 </Tab>
