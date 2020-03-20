@@ -1,7 +1,7 @@
 ﻿---
 title: 'Condi Firebrand'
 date: '2020-03-14'
-rating: 'T4'
+rating: 'Offmeta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Firebrand'

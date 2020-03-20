@@ -12,7 +12,7 @@ code: '[&DQEQLjElPjZLFwMBehb+AEsBNgH+AEgBiRJxEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 <Message>
-Despite being very common in pugs, this build is not meta! We recommend to play [Heal Renegade](/builds/revenant/heal-renegade) for PUGs who are more organized and know the mechanics (after around 150-200+ <Item id="81743" <Item id="81743" disableText/>/> the reason is that Firebrand usually can deal way more damage than Renegade.
+Despite being very common in pugs, this build is not meta! We recommend to play [Heal Renegade](/builds/revenant/heal-renegade) for PUGs who are more organized and know the mechanics (after around 150-200+ <Item id="81743"/>) the reason is that Firebrand usually can deal way more damage than Renegade.
 </Message>
 
 <Tabs>
