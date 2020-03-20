@@ -1,15 +1,15 @@
 ﻿---
 title: 'Blast Stacking'
-date: '2020-03-15'
+date: '2020-03-20'
 image: './images/stacking.jpg'
 description: 'Use blasts and combo fields to stack large amounts of Might, Fury and Stealth on your party.'
 ---
 
 ## Blast Finishers
 
-Blast finishers can be used to stack group buffs on certain Combo Fields. The most common applications are <Boon name="might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds) and <Effect name="stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
+Blast finishers can be used to stack group buffs on certain Combo Fields. The most common applications are <Boon name="might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
-The <Specialization name="elementalist"/> trait <Trait id="1510"/> also makes them grant <Boon name="fury"/> with each blast finisher, which can be shared by the <Specialization disableText name="chronomancer"/> Chronomancer using <Skill id="10236"/>. Due to this, skills like <Skill id="14403"/> or <Skill id="31451"/> (Tiger pet) are usually redundant in fractals.
+The <Specialization name="elementalist"/> trait <Trait id="1510"/> also makes them grant <Boon name="fury"/> with each blast finisher. Due to this, skills like <Skill id="14403"/> (<Specialization anme="Warrior"/> utility skill) or <Skill id="31451"/> (<Specialization anme="Ranger"/>'s Tiger pet) are usually redundant in fractals.
 
 Below is a list of frequently used blast finishers among all professions. Note that it is often required to swap to different weapons, make sure to swap back before you enter combat.
 
