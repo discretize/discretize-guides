@@ -1,8 +1,8 @@
----
+﻿---
 title: 'Condi Firebrand'
 date: '2020-03-20'
 rating: 'Offmeta'
-role: 'Damage'
+role: 'Support'
 profession: 'Guardian'
 specialization: 'Firebrand'
 benchmark: { small: { dps: 34700, by: 'TJ [SC]', youtube: 'lQbaP5Gr7dU' } }
@@ -28,7 +28,7 @@ One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> i
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Concentration" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="Concentration" />
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="Earth" />
 
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM
@@ -39,7 +39,7 @@ One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> i
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Viper" accessory1Affix="Grieving" accessory2Affix="Viper" amuletAffix="Grieving" ring1Affix="Viper" ring2Affix="Viper"/>
 
-<Consumables foodId="" utilityId="48917" infusionId="37130"/>
+<Consumables foodId="86997" utilityId="48917" infusionId="37130"/>
 
 </GridItem>
 </Grid>
@@ -78,18 +78,20 @@ One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> i
 To keep up <Boon name="Quickness"/>:
 
 - Use <Skill name="Feel My Wrath"/> whenever ready
-- Use <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> but leave one charge left (unless the fight is close to being over)
+- Use <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> but leave one charge left (unless the fight is close to being over). Keep in mind that you can use <Skill name="Restoring Reprieve"/> only every seven seconds (<Trait name="liberatorsvow"/>)!
 - Only use these skills close to your allies - try to "puke" on them with the mantras
-- Keep in mind that Equiping/Stowing a Virtue grants you 3 seconds of <Boon name="quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
-
--DPS Rotation
+- Keep in mind that equipping or stowing a tome grants you 3 seconds of <Boon name="quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
 - <Skill name="Tome of Justice"/> (F1):
-  - reword as you use these skills for dps
+  - Skill 1: One stack of <Condition name="burning"/>
+  - Skill 2: Two stack of <Condition name="burning"/>
+  - Skill 3: An AoE pull
+  - Skill 4: High power damage skill, applies four stacks of <Condition name="burning"/>.
+  - Skill 5: Your bread and butter as <Specialization text="Condi Firebrand" name="firebrand"/>: Share Ashes of the Just with allies applying a magnitude of <Condition name="burning"/>.
 - <Skill name="Tome of Resolve"/> (F2):
   - Skill 2 is a party condition cleanse
   - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
@@ -146,7 +148,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 
 <Tabs>
 <Tab title="Skorvald">
-Rotation on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/>	runs <Skill name="Legendary Dwarf Stance"/>, you can take (signet of wrath or sword of justice idk). In all other cases take <Skill name="standyourground"/>.
+Rotation on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/>	runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="Signetofwrath"/>. In all other cases take <Skill name="standyourground"/>.
 </Tab>
 <Tab title="Artsariiv">
 </Tab>
