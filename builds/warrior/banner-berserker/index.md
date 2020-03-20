@@ -12,6 +12,7 @@ traits: [1444, 1977, 2049 ]
 conditions: ['Vulnerability']
 boons: ['Might']
 code: '[&DQIEGzMWEhenAAAAqQAAAKoAAACsAAAAwhIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+author: 'SpatiumPrinceps.8927'
 ---
 <Tabs>
 <Tab title="Build">
@@ -279,14 +280,14 @@ This Guide is a PuG friendly version without banner precast. Please remember tha
 - Swap
 - <Skill name="decapitate"/>, continue as usual.
 
-### **1st Add**
+### *1st Add*
 - CC with <Skill name="Wildblow"/>.
 
 ### **2nd Phase** 
 - Normal rotation according to the guide. 
 - Don't break this bar.
 
-### **2nd Add**
+### *2nd Add*
 - Swap to Maces
 - <Skill name="Headbutt"/>
 - <Skill name="Mending"/> shortly before the add dies
@@ -296,14 +297,14 @@ This Guide is a PuG friendly version without banner precast. Please remember tha
 - Swap to Axes as soon as possible.
 - Normal rotation according to the guide. 
 
-### **3rd Add**
+### *3rd Add*
 - Recast <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> while approaching the add.
 - <Skill name="Headbutt"/>
 - Engage <Skill name="Berserk"/>
 - CC with <Skill name="Wildblow"/>.
 - <Skill name="Mending"/> shortly before the add dies
 
-### **4th phase** 
+### **4th Phase** 
 - Use whatever CC is up at this point.
 
 </GridItem>
@@ -350,14 +351,14 @@ This build only works, if you kill MAMA in less than 55 seconds. If there is any
 - Swap
 - <Skill name="decapitate"/>, <Skill name="bloodreckoning"/>, <Skill name="decapitate"/>.
 
-### **1st Add**
+### *1st Add*
 - CC with <Skill name="Wildblow"/>.
 
 ### **2nd Phase** 
 - <Skill name="outrage"/> as soon as its off cd.
 - Normal rotation according to the guide. 
 
-### **2nd Add**
+### *2nd Add*
 - Swap to Maces
 - <Skill name="Tremor"/>, <Skill name="pommelbash"/>
 - <Skill name="Headbutt"/>, <Skill name="outrage"/>
@@ -367,10 +368,10 @@ This build only works, if you kill MAMA in less than 55 seconds. If there is any
 - <Skill name="Bullscharge"/>
 - Normal rotation according to the guide. 
 
-### **3rd Add**
+### *3rd Add*
 - CC with <Skill name="Wildblow"/>.
 
-### **4th phase** 
+### **4th Phase** 
 - <Skill name="Headbutt"/>, <Skill name="outrage"/>
 
 **Annnotation:**
@@ -427,7 +428,7 @@ This build only works, if you kill MAMA in less than 55 seconds. If there is any
 - Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
 - <Skill name="decapitate"/>, continue as usual.
 
-### **1st and 2nd Add**
+### *1st and 2nd Add*
 - Use <Skill name="rush"/> to approach your add quickly.
 - Kill your add with <Skill name="arcdivider"/> and <Skill name="hundredblades"/> quickly.
 - When you killed the add use <Skill name="mending"/> and rush back to Siax.
@@ -484,7 +485,7 @@ This build only works, if you kill Siax in less than 55 seconds. If there is any
 - <Skill name="decapitate"/>, <Skill name="bloodreckoning"/>, <Skill name="decapitate"/>.
 - Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
 
-### **1st Add**
+### *1st Add*
 - Swap to rifle, start with <Skill name="aimedshot"/> to apply <Condition name="vulnerability"/>
 - Finish the add with <Skill name="gunflame"/> and <Skill name="volley"/>
 
@@ -492,7 +493,7 @@ This build only works, if you kill Siax in less than 55 seconds. If there is any
 - Don't forget to apply <Trait name="peakperformance"/> with <Skill name="throwbolas"/>.
 - Do what a warrior does: smash <Skill name="decapitate"/>
 
-### **2nd Add**
+### *2nd Add*
 - Swap to rifle, start with <Skill name="aimedshot"/> to apply <Condition name="vulnerability"/>
 - Finish the add with <Skill name="gunflame"/> and <Skill name="volley"/>
 
@@ -503,9 +504,6 @@ This build only works, if you kill Siax in less than 55 seconds. If there is any
 
 **Annnotation:**
 - [1]: Depending on your kill time you might want to use the <Skill name="headbutt"/> - <Skill name="outrage"/> combo earlier.
-
-
-
 
 </GridItem>
 </Grid>
@@ -578,70 +576,112 @@ Swap to your off set (mace/torch) and cap the circle. After you meet in the midd
 - Please also read through the [shattered observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 <Tabs outlined>
 <Tab title="Skorvald">
-**Build variation**  
-- Bad group with no cc: Mace/Mace
-- If you are running with a lot of blue classes: Mace/Torch 
-- If you are running in a meta comp: Mace/Warhorn or Mace/Mace depending on your CC coordination.
+<Grid>
+<GridItem sm="12">
+<Divider text="SKORVALD"/>
+</GridItem>
+<GridItem sm="6">
+<Card title="Skills and Traits">
+<UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343"/>
+- Take <Trait name="savageinstinct"/>
+- Food: <Item id="91805"/>
+- Utility: <Item id="9443"/>
+- In a more organized setup you can run an Axe with <Item name="elementalslaying"/> and an offhand Warhorn to blast <Boon name="might"/> on 2nd and 4th island.
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" />
+</GridItem>
 
-**Prestacking**
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
+</GridItem>
+
+
+
+</Grid>
+### **Prestacking**
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>.
 - Blast 12 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
 - Take the mistlock.
-- While approaching the boss drop both of your banners. 
-- Precast <Skill name="Flames of war"/> for dps
+- While approaching the boss drop both of your <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. 
+- Precast <Skill name="Flames of war"/> for DPS
 - Precast <Skill name="Mending"/>
 
-**100%-66%**
+### **100%-66%**
 - <Skill name="Tremor"/> and <Skill name="Pommelbash"/>, <Skill name="Headbutt"/>
+-  <Skill name="Berserk"/> 
 - Swap
-- <Skill name="Berserk"/> and <Skill name="Decapitate"/>
-- <Skill name="cycloneaxe"/>, <Skill name="Throw axe"/> and <Skill name="Decapitate"/>
-- <Skill name="Dualstrike"/>, <Skill name="Throw axe"/> and <Skill name="Decapitate"/>
+- Continue as usual. In fast group you want to shorten your used skills to:
+    - <Skill name="decapitate"/> 
+    - <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/>
+    - <Skill name="decapitate"/> 
 - If your party is not the fastest pick up your banners and redrop them on the main island. Put them slightly outside of the stack so you don't take a portal on accident.
 
-**Islands**
-- Swap to your warhorn or torch if you have it and use the blasts in firefields for <Boon name="might"/>.
+### *Islands*
+- Swap to your warhorn or torch if you have it and use the blasts in fire fields for <Boon name="might"/> at island 2 and 4.
 - Don't use heavy cooldowns after island 3.
 - On the last island shortly before the add dies use <Skill name="Mending"/> and open <Skill name="Berserk"/> already.
 
-**66%-33%**
+### **66%-33%**
 - Follow the standard fractal rotation.
 - If your party does not phase Skorvald without a dash, recast your banners. 
 - Before you move to the first island pick your banners up and redrop them on the main island. Put them slightly outside of the stack so you don't take a portal on accident.
 
 The rest of the fight follows accordingly.
 </Tab>
+
 <Tab title="Artsariiv">
-**General**  
+<Grid>
+<GridItem sm="12">
+<Divider text="ARTSARIIV"/>
+Your skill choice is heavily influenced by the strategy your team chooses. Following guide assumes kills with <Specialization name="soulbeast"/> reflection in the corners or PuG kills with weak or no reflection.
+</GridItem>
 
-If you run with a decent <Specialization name="soulbeast"/>, burn phases won't last long and your dps will be not be that cool, you have to focus on getting the banner placement right.
+<GridItem sm="6">
+<Card title="Skills and Traits">
+<UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343"/>
+- Take <Trait name="savageinstinct"/>
+- Food: <Item id="91805"/>
+- Utility: <Item id="9443"/>
+- With <Effect name="afflicted"/> you can bring a meme skill <Skill name="berserkerstance"/>
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" />
+</GridItem>
 
-**Build variation**  
-- Standard is Axe-Axe Mace-Mace
-- Depending on the instabilities it can make sense to bring <Skill name="BerserkerStance"/>
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
+</GridItem>
+</Grid>
 
-**Prestacking**
+### **Prestacking**
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>.
 - Blast 12 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
 - Take the mistlock.
 - While approaching the boss drop both of your banners. Depending on your group DPS you either place them in the middle or at the corner.
-- Precast <Skill name="Flames of war"/> for dps
+- Precast <Skill name="Flames of war"/> for DPS
 - Precast <Skill name="Mending"/>
 
-**100% in mid**
-
+### **100% in mid**
 - Use <Skill name="whirling axe"/> or <Skill name="Headbutt"/> to gain adrenalin fast.
 - Depending on your team you wanna engage <Skill name="Berserk"/> before you use your special action key to get to Artsariiv. 
 - Use <Skill name="Mending"/> to regain eventually lost health and <Trait name="peakperformance"/>. 
 - Swap to your mace, be ready to <Skill id="14415"/> as soon as the breakbar appears.
 
-**66% and 33%**
+### *Add Phases*
+- Pick up your banners and place them in the middle of the arena. 
+- Help your party to CC the adds, preferable by CCing the one in the middle since you are there anyway. 
+- Make sure to use <Item name="termiteshovel"/> <Item name="metalrod"/> and <Item name="sentinelrifle"/> for fast CC.
 
-Pick up your banners and place them in the middle of the arena. Help your party to cc the adds, preferable by getting rid of the one in the middle, since you are there anyway. Replace your banners at the corner Artsariiv is going to jump to.
+### **66% and 33%**
+- After the mid burn replace your banners at the corner Artsariiv is going to jump to.
+- Depending on your teams DPS you either wanna engage <Skill name="Berserk"/> in the middle or in the corner.
 
 </Tab>
 <Tab title="Arkk">
@@ -657,7 +697,7 @@ Help pre-stacking at Mistlock Singularity with <Skill name="Charge" profession="
 
 If you are full hp, you can step into the lightning, auto attack your bloom until it gets pushed towards the pillar. Use a <Skill name="Throw axe"/> to finish your add. Use <Skill name="Mending"/> afterwards to regain health.
 
-**Add phases**
+*Add phases*
 
 Refresh your <Skill id="14405"/> and <Skill id="14407"/> at the archdiviner and gladiator adds by blasting a firefield.
 
