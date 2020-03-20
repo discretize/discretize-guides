@@ -234,4 +234,6 @@ You can trait <Trait id="1852"/> to share <Boon name="aegis" disableText/> with 
 </Grid>
 
 <Divider text="What now?"/>
-### Continue reading the basics of fractals as in group compositions, instabilities [here](/guides/fractal-basics) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)<br/>If you already read all of them take a look at how to maximize your critical chance for maximum damage [here!]
+### Continue reading the basics of fractals as in group compositions, instabilities [here](/guides/fractal-basics) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)
+
+### If you already read all of them take a look at how to maximize your critical chance for maximum damage [here!](/guides/crit-cap)
