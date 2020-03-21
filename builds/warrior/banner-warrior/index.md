@@ -1,6 +1,6 @@
 ﻿---
 title: 'Banner Warrior'
-date: '2020-03-17'
+date: '2020-03-21'
 rating: 'T4'
 role: 'Support'
 profession: 'Warrior'
@@ -11,18 +11,18 @@ traits: [1482]
 conditions: ['Vulnerability']
 code: '[&DQIEGws9MxamAKcAogGpAKwArwCqAAAAfAGcAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
+<Tabs>
 
-The <Specialization text="Banner Warrior" name="warrior"/> is the superior support build for warriors in fractals. In Pugs however, where CC or might is the limiting factor it can be beneficial to bring <Specialization text="Banner Warrior" name="warrior"/> over <Specialization text="Banner Berserker" name="berserker"/>.
+<Tab specialization="warrior" title="Build">
+The <Specialization text="Banner Warrior" name="warrior"/> is the support build for warriors in fractals. It provides a lot less DPS compared to <Specialization name="berserker"/>. In PuGs however, where CC or <Boon name="might"/> is the limiting factor it can be beneficial to bring <Specialization text="Banner Warrior" name="warrior"/> over <Specialization name="berserker"/>.
 
-Besides providing the group with strong unique damage buffs (<Skill id="14405"/>, <Skill id="14407"/> and <Trait id="1482"/>) and having excellent defiance bar damage with the Mace/Mace set, the build also has a relatively high burst damage potential on both small and large hitboxes for a support role.
+Besides providing the group with strong unique damage buffs (<Skill id="14405"/>, <Skill id="14407"/> and <Trait id="1482"/>) and having excellent defiance bar damage with the Mace/Mace set, the build also has a medium burst damage potential on both small and large hitboxes for a support role.
 
-If enemy boons are present and for some reason you are still not playing the <Specialization name="Renegade"/>+<Specialization name="firebrand"/> composition, the <Specialization name="spellbreaker"/> specialization can be taken to reliably remove them with <Skill id="45252"/> and <Trait id="2162"/>. Another advantage of this variation is the strong on-demand projectile destruction with <Skill id="45333"/>.
+If enemy boons are present and for some reason you are still not playing the <Specialization name="Renegade"/>+<Specialization name="firebrand"/> composition, the <Specialization name="spellbreaker"/> specialization can be played to reliably remove boons with <Skill id="45252"/> and <Trait id="2162"/>. Another advantage of this variation is the strong on-demand projectile destruction with <Skill id="45333"/>.
 
 Furthermore, the build is able to use damage modifying sigils like <Item id="24868"/> as well as slaying potions such as <Item id="50082"/>. As a support warrior, your focus is first and foremost providing the group with aforementioned damage buffs and removing boons, secondly breaking the defiance bar while following your optimized damage rotation.
 
-The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-
-<Divider text="Equipment without Spotter"/>
+<Divider text="Equipment"/>
 
 <Tabs outlined>
 
@@ -103,6 +103,7 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 </GridItem>
 </Grid>
 
+
 <Divider text="Might Sharing Variant"/>
 
 If you're running without a Druid or Renegade, you need to provide <Boon name="might"/> (and <Boon name="fury"/> to some degree) for the party. This is achieved with the following changes to the build:
@@ -113,34 +114,13 @@ If you're running without a Druid or Renegade, you need to provide <Boon name="m
 
 Everything else stays the same. Note that your CC suffers without <Skill id="14502"/> so it is a good idea to bring [consumables](/guides/consumables).
 
-<Divider text="Spellbreaker Variant"/>
+</Tab>
 
-With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Molten Boss, Twilight Oasis) and no <Specialization text="Domination Chronomancer" name="chronomancer"/> or <Specialization text="Mallyx Renegade" name="renegade"/> you will have to take the <Specialization name="spellbreaker"/> specialization instead of **Discipline**.
-
-<Grid>
-<GridItem sm="7">
-<Traits traits1="Spellbreaker" traits1SelectedIds="2107,2126,2060"/>
-</GridItem>
-
-<GridItem sm="5">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Impact"/>
-<Message>
-Offhand weapons are still Mace/Mace.  !
-</Message>
-</GridItem>
-</Grid>
-
-It's a good idea to bring [consumables](/guides/consumables).  
-You should also take <Skill id="45333"/> where necessary. You can consider 	<Item id="72872"/> for additional party <Boon name="Might"/>.
-
-Gear-wise you are losing Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to use our Gear-optimiser on the website if you want to max out crit cap.
-
-Everything else stays the same.
-
+<Tab specialization="warrior" title="Guide">
 <Divider text="Details"/>
 
 <Grid>
-<GridItem sm="12">
+<GridItem sm="8">
 <Card title="Skill usage">
 * Pre-fight:
   * Use <Skill id="14394"/> and <Skill id="14393"/> on warhorn (<Boon name="vigor" disableText/><Boon name="swiftness" disableText/>) to blast a firefield for <Boon name="might"/>.
@@ -174,27 +154,6 @@ Several Warrior skills involving movement and or leaps such as <Skill id="14446"
 </Card>
 </GridItem>
 
-<GridItem sm="8">
-<Card title="Spellbreaker variant">
-* Evolve your rotation around your highest burst damage skills: <Skill id="14399"/> and <Skill id="14554"/>
-  * Before using high burst damage skills:
-    * Trigger <Trait id="1444"/> by using <Skill id="14502"/>. Adds 20% damage but keep in mind that it does not stack.
-    * Have 1-3 stacks of <Trait id="1437"/>. Remember that <Skill id="44165"/> counts as a burst skill. Each stack adds another 7% up to 21% total (with 3 stacks).
-    * Trigger <Trait id="2060"/> which goes hand in hand with <Trait id="1437"/> and adds another 10% damage
-    * Have 1-5 stacks of <Trait id="2130"/> adding 45 Power and Ferocity per stack
-  * On **Greatsword**:
-    * Don't cancel your auto-attack as the third hit deals the most damage
-    * <Skill id="14447"/> is a DPS increase, especially against a wall
-    * <Skill id="14510"/> is worth using between auto-attack chains
-  * On **Dagger/Axe**:
-    * Use <Skill id="44937"/> preferably while the target is using a skill
-    * <Skill id="14418"/> is a DPS increase
-  * Use <Skill id="45333"/> when there are multiple targets with boons (e.g. MAMA and Assault Knight at 25%), you are not at the target to remove boons in time (e.g. Artsariiv after the split 66% and 33%) or to destroy projectiles (e.g. Imbued Shaman initial Lava Elemental spawn at 75% and final 25%)
-* **Full Counter** (to trigger <Trait id="1437"/>):
-  * <Skill id="44165"/> block aspect acts similar to <Boon name="aegis"/>. Thus any attack you would be able to block with <Boon name="aegis"/> successfully activates <Skill id="44165"/>.
-</Card>
-</GridItem>
-
 <GridItem sm="4">
 <Card title="CC skills">
 | | |
@@ -222,3 +181,54 @@ With mainhand dagger on <Specialization name="spellbreaker"/>:
 </Card>
 </GridItem>
 </Grid>
+
+</Tab>
+
+<Tab specialization="spellbreaker"  title="Spellbreaker">
+<Divider text="Spellbreaker Variant"/>
+
+With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Molten Boss, Twilight Oasis) and no <Specialization text="Domination Chronomancer" name="chronomancer"/> or <Specialization text="Mallyx Renegade" name="renegade"/> you will have to take the <Specialization name="spellbreaker"/> specialization instead of **Discipline**.
+
+<Grid>
+<GridItem sm="7">
+<Traits traits1="Spellbreaker" traits1SelectedIds="2107,2126,2060"/>
+</GridItem>
+
+<GridItem sm="5">
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Impact"/>
+<Message>
+Offhand weapons are still Mace/Mace!
+</Message>
+</GridItem>
+</Grid>
+
+It's a good idea to bring [consumables](/guides/consumables).  
+You should also take <Skill id="45333"/> where necessary. You can consider 	<Item id="72872"/> for additional party <Boon name="Might"/>.
+
+Gear-wise you are losing Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to use our [Gear-optimiser](http://old.discretize.eu) on the website if you want to max out crit cap.
+
+Everything else stays the same.
+
+<Divider text="Guide"/>
+<Card title="Spellbreaker variant">
+* Evolve your rotation around your highest burst damage skills: <Skill id="14399"/> and <Skill id="14554"/>
+  * Before using high burst damage skills:
+    * Trigger <Trait id="1444"/> by using <Skill id="14502"/>. Adds 20% damage but keep in mind that it does not stack.
+    * Have 1-3 stacks of <Trait id="1437"/>. Remember that <Skill id="44165"/> counts as a burst skill. Each stack adds another 7% up to 21% total (with 3 stacks).
+    * Trigger <Trait id="2060"/> which goes hand in hand with <Trait id="1437"/> and adds another 10% damage
+    * Have 1-5 stacks of <Trait id="2130"/> adding 45 Power and Ferocity per stack
+  * On **Greatsword**:
+    * Don't cancel your auto-attack as the third hit deals the most damage
+    * <Skill id="14447"/> is a DPS increase, especially against a wall
+    * <Skill id="14510"/> is worth using between auto-attack chains
+  * On **Dagger/Axe**:
+    * Use <Skill id="44937"/> preferably while the target is using a skill
+    * <Skill id="14418"/> is a DPS increase
+  * Use <Skill id="45333"/> when there are multiple targets with boons (e.g. MAMA and Assault Knight at 25%), you are not at the target to remove boons in time (e.g. Artsariiv after the split 66% and 33%) or to destroy projectiles (e.g. Imbued Shaman initial Lava Elemental spawn at 75% and final 25%)
+* **Full Counter** (to trigger <Trait id="1437"/>):
+  * <Skill id="44165"/> block aspect acts similar to <Boon name="aegis"/>. Thus any attack you would be able to block with <Boon name="aegis"/> successfully activates <Skill id="44165"/>.
+</Card>
+</Tab>
+
+
+</Tabs>
