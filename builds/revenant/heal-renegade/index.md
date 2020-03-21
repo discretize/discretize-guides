@@ -1,7 +1,7 @@
 ---
 title: 'Heal Renegade'
-date: '2019-09-04'
-rating: 'Great'
+date: '2020-03-18'
+rating: 'T4'
 role: 'Support'
 profession: 'Revenant'
 specialization: 'Renegade'
@@ -11,7 +11,6 @@ boons: ['Alacrity', 'Might', 'Stability','Regeneration']
 conditions: ['Vulnerability']
 code: '[&DQkMPw8ePz/cEdwRBhIGEisS1BHUESsSyhHKERESDwAAAAAAAAAAAAAAAAA=]'
 ---
-
 For **<Specialization text="Heal Renegade" name="Renegade"/>** we have chosen Harrier and Cleric for maximum power and healing power while while still hitting 100% boon duration because <Skill name="Soulcleaves Summit" /> deals damage and lifesteals based on the **<Specialization text="Heal Renegade" name="Renegade"/>**'s own power and healing power.
 Feel free to run full Harrier if you are confident that you don't need the extra healing power or toughness from Cleric. the more agony resistance you have, the more Cleric you can afford to run and still  hit 100% boon duration.
 
@@ -19,6 +18,7 @@ Feel free to run full Harrier if you are confident that you don't need the extra
 <Divider text="Equipment"/>
 <Tabs outlined>
 <Tab title="150 Agony Resistance">
+Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Harrier" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Harrier" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk"/>
@@ -37,85 +37,140 @@ Feel free to run full Harrier if you are confident that you don't need the extra
 
 
 <Divider text="Build"/>
-
-<Grid>
-<GridItem sm="7">
-<Traits traits1="Salvation" traits1Selected="Tranquil Balance,Invoking Harmony,Selfless Amplification" traits2="Devastation" traits2Selected="Vicious Lacerations,Assassins Presence,Swift Termination" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Righteous Rebel"/>
+<Traits traits1="Salvation" traits1Selected="Tranquil Balance,Invoking Harmony,Selfless Amplification" traits2="Devastation" traits2Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Righteous Rebel"/>
 
 <Card title="Second trait variant">
-**If you feel your energy runs out too quick, we recommend the Salvation/Incovation variant.**
+If you feel your energy runs out too quick, we recommend the Salvation/Incovation variant. This variant is also better for fractals where <Trait name="Assassins Presence"/> doesn't help your party. This would include fractals where damage is time-gated and where you can't critically hit the enemies that matter.
+
+You should consider running this trait variant in fractals like Molten Furnace and Captain Mai Trin.
 </Card>
 
 <Traits traits1="Salvation" traits1Selected="Tranquil Balance,Invoking Harmony,Selfless Amplification" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Righteous Rebel"/>
- 
-</GridItem>
 
-<GridItem sm="5">
+<Divider text="Guide"/>
 
-**Your two base legends are <Skill id="41858"/> and <Skill name="Legendary Centaur Stance"/>**
+<Grid>
+<GridItem sm="12">
+<Card title="Abilities">
+**Citadel Order Skills**
 
-With <Skill id="41858"/>:
-
-<Skills heal="Breakrazors Bastion" utility1="Razorclaws Rage" utility2="Darkrazors Daring" utility3="Icerazors Ire" elite="Soulcleaves Summit"/>
-
----
-
-With <Skill name="Legendary Centaur Stance"/>:
-
-<Skills heal="Project Tranquility" utility1=" Protective Solace" utility2=" Natural Harmony" utility3="Purifying Essence" elite="Energy Expulsion"/>
+- <Skill name="Heroic Command"/> -  Share two stacks of <Boon name="Might"/> for each <Effect name="Kallas Fervor"/> stack.
+- <Skill name="Citadel Bombardment"/> - Fire ten missiles that inflict high damage, and <Condition name="Burning"/>.
+- <Skill name="Orders from Above"/> - Share four pulses of <Boon name="Alacrity"/>.
 
 ---
 
+**Sword Skills**
 
+- <Skill name="Preparation Thrust"/> - The autoattack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on upto three targets, with each explosion hitting three targets. Potentially hitting nine times. 
+- <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
+- <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to oneself. 
+- <Skill name="Shackling Wave"/> - High damage skill, however should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
+- <Skill name="Death strike"/> - Shadowsteps to target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allows it to be used for damage. 
 
-If <Instability name="No Pain, No Gain"/> is present, swap <Skill name="Legendary Centaur Stance"/> to <Skill id="28494"/>:
+**Staff Skills**
 
-<Skills heal="Empowering Misery" utility1="Pain Absorption" utility2="Banish Enchantment" utility3="Unyielding Anguish" elite="Embrace the Darkness"/>
+- <Skill name="Rapid Swipe"/> - The autoattack chain cleaves and the last hit provides a decent amount of healing to allies.
+- <Skill name="Menders Rebuke"/> - Provides <Condition name="Vulnerability"/> and a small amount of healing to allies.
+- <Skill name="Warding Rift"/> - A two second block that <Condition name="Blind"/> foes. 
+- <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies for a fairly large amount.
+- <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Effect name="Knockback"/>. 
+
+---
+
+**Notable Traits**
+
+- <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
+- <Trait name="Tranquil Balance"/> - When you are above the health threshold your healing to allies is increased.
+- <Trait name="Invoking Harmony"/> - When you invoke another legend, your healing is increased for 10 seconds.
+- <Trait name="Serene Rejuvenation"/> - When you heal with <Skill name="Natural Harmony"/> you also apply <Boon name="Alacrity"/> to allies near the tablet.
+- <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased with 50%. 
+- <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased with 50%. 
+
+</Card>
 </GridItem>
 </Grid>
 
-<Divider text="Details"/>
-
 <Grid>
-<GridItem sm="8">
-<Card title="Skill Usage">
-The general list of priorities looks like this:
+<GridItem sm="12">
+<Card title="Legends">
 
-- Grant <Boon name="Alacrity"/> to your allies by using <Skill name="Orders from Above"/> near them whenever it's ready
-- Provide group <Boon name="Might"/> with <Skill name="Heroic Command"/> when it's below 25 stacks
-- Break defiance bars with <Skill name="Surge of the Mists"/> (Staff 5)
-- Maximize <Skill name="Soulcleaves Summit"/> uptime on the group
-- Spam 111 on Sword (using anything else is usually a party DPS loss)
-- Spam 111 on Staff if you need extra heal.
-- Use <Skill name="Renewing Wave"/> (Staff 4) if you are in need of condition cleanse.
+<Message>
+You will need to reconsider the legends you are running in almost every fractal and therefore it is a nice habit to develop to check them after each fractal you have done. Some fractals demand three to four different legends in only one fractal. Below you will find the three most common setups that will serve you fine as well as description of the skills in each legend.
+</Message>
 
-You'll always want to use <Skill id="41858"/> as your first legend:
+## Legends Setups:
 
-- <Skill name="Breakrazors Bastion"/> is a strong group heal
-- <Skill name="Darkrazors Daring"/> is a slow but strong CC
-- <Skill name="Soulcleaves Summit"/> is a really strong group DPS buff, use it shortly before defiance bars break
+1. **<Skill name="Legendary Renegade Stance"/>** and **<Skill name="Legendary Centaur Stance"/>**
+   - This is you most used setup that has the most healing output as well as a projectile block and extra condition cleanse.
+2. **<Skill name="Legendary Renegade Stance"/>** and **<Skill name="Legendary Demon Stance"/>**
+   - This is a specific setup for the instability <Effect name="No Pain, No Gain"/> and for when you want to increase your damage output on bosses that generate <Boon name="Protection"/> on themselves or when you need to pull adds using <Skill name="Call to Anguish"/>.
+3. **<Skill name="Legendary Renegade Stance"/>** and **<Skill name="Legendary Dwarf Stance"/>**
+   - This is the setup you want to use on a few CM bosses (Skorvald and Artsariiv) as well as some fractals (Chaos last boss, possibly in Siren's Reef).
 
-Use <Skill name="Legendary Centaur Stance"/>: as your second legend:
+---
 
-- <Skill name="Protective Solace"/> is a barrier, good for absorbing projectiles
-- <Skill name="Purifying Essence"/> is a condition cleanse and heal
-- <Skill name="Natural Harmony"/> is a strong heal and grants <Boon name="Alacrity"/> if traited with <Trait name="Serene Rejuvenation"/>
-- <Skill name="Energy Expulsion"/> is a small CC, creates heal orbs and a fast energy burst if you need to swap back to other legend for 75 energy if traited with <Trait name="Charged Mists"/>)
+**<Skill name="Legendary Renegade Stance"/>**
 
+- <Skill name="Breakrazors Bastion"/> - Summons a spirit that heals you on cast and pulses heal to allies in an area around it. Reduces damages from conditions by 50%.
+- <Skill name="Razorclaws Rage"/> - Summons a spirit that causes your party to inflict <Condition name="Bleeding"/> on attack.
+- <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ seconds once per second for six seconds.
+- <Skill name="Icerazors Ire"/> -  Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.
+- <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealth by your party while healing them for each attack.
 
-If <Instability name="No Pain, No Gain"/>, <Instability name="Vengeance"/> or other sources of boons on enemies are present you will swap <Skill name="Legendary Centaur Stance"/> to <Skill id="28494"/> as your second legend:
+---
 
-- <Skill name="Pain Absorption"/> applies <Boon name="resistance"/> and acts as a stunbreak
-- <Skill name="Banish Enchantment"/> strips three boons on up to five targets
+**<Skill name="Legendary Centaur Stance"/>**
+
+- <Skill name="Project Tranquility"/> - Summon Ventari's Tablet which heals nearby allies every few seconds.
+- <Skill name="Ventaris Will"/> - Move Ventari's Tablet to the target location.
+- <Skill name="Protective Solace"/> - **Toggle:** Summons a protective barrier that **absorbs** (not reflect) projectiles around the tablet.
+- <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
+- <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
+- <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet. Cleanses one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal. 
+
+---
+
+**<Skill name="Legendary Demon Stance"/>**
+
+- <Skill name="Empowering Misery"/> - A decent self-heal that heals more for each unique condition on you.
+- <Skill name="Pain Absorption"/> - Draw one condition from nearby allies and provide <Boon name="Resistance"/> to your party. Also works as a stunbreak.
+- <Skill name="Banish Enchantment"/> - Removes three boons from enemies in a line up to five unique enemies and causes <Condition name="Chilled"/> on enemies hit.
+- <Skill name="Call to Anguish"/> - Jump to a location and pull five nearby enemies to your location inflicting <Condition name="Chilled"/> on them.
+- <Skill name="Embrace the Darkness"/> - **Toggle:** Deal damage to nearby enemies and pulse <Condition name="Torment"/> to them. Drains energy when toggled on.
+
+---
+
+**<Skill name="Legendary Dwarf Stance"/>**
+
+- <Skill name="Soothing Stone"/> - Powerful self heal and condition removal.
+- <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field. 
+- <Skill name="Forced Engagement"/> - Shoot out a chain to your target that applies <Condition name="Taunt"/> and <Condition name="Slow"/> to your target and four nearby enemies.
+- <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
+- <Skill name="Rite of the Great Dwarf"/> - Stunbreak, which reduces incoming damage by 50% for your party.
+
 </Card>
 </GridItem>
+</Grid>
 
-<GridItem sm="4">
-<Card title="Defiance Bar Damage">
-| | |
-| -- | -- |
-| <Skill name="Surge of the Mists" size="big" disableText/> | 3-6x150 with <Control name="knockback"/> |
-| <Skill name="Darkrazors Daring" size="big" disableText/> | 6x100 with <Control name="daze"/> |
+<Grid>
+<GridItem sm="12">
+<Card title="Defiance Bar">
+
+**Hard Crowd Control**
+
+- <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
+- <Skill name="Darkrazors Daring"/> - Up to six hits of 100 <Control name="Daze"/>.
+- <Skill name="Jade Winds"/> - 300 <Control name="Stun"/>.
+- <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
+
+
+**Soft Crowd Control**
+
+- <Skill name="Chilling Isolation"/> - <Condition name="Chilled"/> for 33 per second.
+- <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
+- <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
+
 </Card>
 </GridItem>
 </Grid>

@@ -1,7 +1,7 @@
 ﻿---
 title: 'Power Dragonhunter'
-date: '2019-11-26'
-rating: 'Meta'
+date: '2020-03-20'
+rating: 'Offmeta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
@@ -12,6 +12,9 @@ boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
 code: '[&DQEQLyo6GzkmDyYPihItAUgBSAH+AP4AtRJxEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
+<Tabs>
+
+<Tab title="Build">
 
 The <Specialization name="dragonhunter" text="Power Dragonhunter"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
 
@@ -21,7 +24,8 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 
 <Divider text="Equipment"/>
 <Tabs>
-<Tab title="150 AR">
+<Tab title="150 Agony Resistance">
+Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar"/>
@@ -51,7 +55,8 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 </Grid>
 </Tab>
 
-<Tab title="203 AR">
+<Tab title="203 Agony Resistance">
+Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -102,7 +107,9 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 </Card>
 </GridItem>
 </Grid>
+</Tab>
 
+<Tab title="Guide">
 <Divider text="Details"/>
 
 <Grid>
@@ -155,3 +162,149 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 </GridItem>
 
 </Grid>
+</Tab>
+
+<Tab title="99CM">
+<Divider text="Nightmare"/>
+- Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
+- Please also read through the [nightmare fractal page](/fractals/nightmare) for general encounter information!
+<Tabs>
+<Tab title="Mama">
+### **General**
+- Do not use traps on the adds
+- Strategically cast your <Skill name="banesignet"/> 
+- Start on Scepter/Sword
+- Use <Skill name="binding blade"/> inside MAMAs hitbox, when the small adds are coming close
+- Check with your team if you are using <Skill name="Feelmywrath"/>
+
+### **Precast**
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the first add and force your team to `/gg`.
+- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- (Use <Skill name="Feelmywrath"/> - depends on your precast)
+- Take the mistlock.
+
+### **1st Phase**
+- Drop a <Skill name="symbolofpunishment"/>
+- Swap
+- <Skill name="processionofblades"/>, <Skill name="spearofjustice"/>
+- <Skill name="Symbolofwrath"/>, <Skill name="Whirlingwrath"/>
+</Tab>
+
+<Tab title="Siax">
+**tl;dr**
+- Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reason why <Specialization name="guardian"/> is very strong at this boss. Do not miss this.
+- Save some <Skill id="9168"/> for a quicker add kill. 
+- It is beneficial to take a sword here to quickly blink to the add.
+- Use <Skill name="Wings of resolve"/> to navigate around and keep your HP up.
+- Use <Skill name="Bane Signet"/> to help with CC and buff your party.
+- Use <Skill name="shieldofwrath"/> and <Skill name="Shieldofcourage"/> to block the expanding AoEs.
+- Check with your team if you take <Skill name="Feelmywrath"/>
+
+---
+
+### **Precast**
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
+- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Take the mistlock.
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
+
+### **100%-66%**
+Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (phases Siax in >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.   
+No matter what group you are running with, start on scepter/sword! If you are running in a PuG or just clear it daily, it is beneficial to delay your traps slightly, to fit more of the hits into the cc bar. In a fast team save <Skill name="bindingblade"/> for the 2nd phase when the adds spawn, if not use it. Just make sure to press it when the adds are in range for big dps.
+
+### *1st Add*
+- Use <Skill name="spearofjustice"/> on your add for the modifier from <Trait name="biggamehunter"/>. 
+- <Skill name="Whirling wrath"/> and a couple AA to kill it.
+- Use <Skill name="wingsofresolve"/>, <Skill name="Symbol of blades"/> and <Skill name="Leapoffaith"/> for movement.
+
+### **66%-33%**
+Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Try to end on scepter/sword.
+
+### *2nd Add*
+- Use <Skill name="spearofjustice"/> on your add for the modifier from <Trait name="biggamehunter"/>. 
+- Kill it with a symbol and AAs.
+- In fast runs you might wanna save a <Skill name="Swordofjustice"/>.
+
+### **33%-0%**
+Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Try to end on scepter/sword.
+</Tab>
+
+<Tab title="Ensolyss">
+WIP
+</Tab>
+
+</Tabs>
+</Tab>
+<Tab title="100CM">
+<Divider text="Shattered Observatory"/>
+- Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
+- Please also read through the [shattered observatory fractal page](/fractals/shattered-observatory) for general encounter information!
+<Tabs>
+<Tab title="Skorvald">
+### **Precast**
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
+- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Feelmywrath"/>.
+- Take the mistlock.
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
+
+### **Burn phases**
+Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (phases Skorvald >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
+
+### **Adds**
+You can kill the first two adds with greatsword. You can use traps on the 2nd add, without having them on cooldown when you are back at Skorvald. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weapon swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
+
+</Tab>
+<Tab title="Artsariiv">
+### **General**
+- If your team does not have a <Specialization name="soulbeast"/>, you can take <Skill name="Wall of reflection"/> for omega reflects. 
+- Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the knockbacking attacks.
+- Save a Skill name="shieldofcourage"/> or <Skill name="shieldofwrath"/> for the expanding AoE so you can deal continues DPS during the mid burn.
+
+### **Precast**
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
+- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Feelmywrath"/>.
+- Take the mistlock.
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss in a coordinated team.
+
+### **100%**
+- If you are not skipping the first Anomaly, you should place the <Skill name="wallofreflection"/> in the middle.  
+- Again it is recommended to start on scepter or sword. 
+- Use your <Skill name="Bane Signet"/> to help with CC and boost the party dps as soon as Artsariiv arrives at the corners. 
+- Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariivs hitbox for big damage.
+
+### *Adds*
+- Help your team CCing with [consumables](/guides/consumables). 
+- Swap to scepter and camp it to be ready for the mid burst.
+- Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. 
+- Use your special action key to quickly navigate to adds. 
+
+### **66% and 33%**
+- When all adds are broken, your traps will be off cooldown again. 
+- Start on scepter again, use <Skill name="Shield of Wrath"/> to block the expanding AoE and fire everything you have.  
+- When Artsariiv arrives at the corners again immediately place your <Skill name="Wall of reflection"/>.
+</Tab>
+
+<Tab title="Arkk">
+### **General**  
+- Play scepter here!
+- Good teams: start on scepter/sword, so that you are on scepter during the bloom phase.
+- Bad teams: start on greatsword and do SC rotation
+- Your goal is to start on scepter/sword at every 10% burn phase, that is why you need to consider weapon swaps carefully. 
+- Pull adds in with GS5. 
+- Cast <Skill name="Bane Signet"/> early, so you get more DPS time. 
+- The fastest way to do the blooms is to walk into the lightning and auto attack with scepter. Use <Skill name="Wings of Resolve"/> to regain health. 
+- Use <Skill name="binding blade"/> inside Arkks hitbox when adds are present.
+
+### **Precast**
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
+- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Feelmywrath"/>.
+- Take the mistlock.
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
+</Tab>
+</Tabs>
+</Tab>
+
+</Tabs>
