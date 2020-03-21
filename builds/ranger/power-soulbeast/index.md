@@ -1,28 +1,28 @@
-﻿---
+---
 title: 'Soulbeast'
-date: '2020-03-20'
+date: '2020-03-21'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
-  { small: { dps: 33162, by: 'Obvious Trash [SC]', youtube: 'E8ky10gAxB4' } }
-skills: [12497, 12638]
+  { small: { dps: 38300, by: 'LEFT', youtube: '18X3buGk4Mc' } }
+skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
-code: '[&DQQIGiA7Nzp5AC4XrAGsAbwAtQClAaUBLhYuFjsuLxUAAAAAAAAAAAAAAAA=]'
+code: '[&DQQIGiA7Nzp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 ---
 
 <Tabs>
 <Tab title="Build">
 
-<Specialization name="Soulbeast" text="Power Soulbeast"/> is a DPS build with very high burst damage that in addition provides a strong party buff with <Skill name="Frost Spirit"/> (in groups without a Druid), some <Condition name="Vulnerability"/> and crowd control skills.
+<Specialization name="Soulbeast" text="Power Soulbeast"/> is a DPS build with very high burst damage that in addition provides a strong party buff with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control skills.
 
 Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-<Divider text="Equipment without Spotter"/>
+<Divider text="Equipment"/>
 
 <Tabs outlined>
 <Tab title="150 Agony Resistance">
@@ -36,10 +36,9 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
 
 <Card title="Swap Weapons">
-* Warhorn for <Boon name="might"/> pre-stacking. Also useful as a replacement for Greatsword one some bosses (e.g. Skorvald).
-* Sword with <Item name="Night" type="Sigil"/> and other with <Item name="Serpent Slaying" type="Sigil"/>
-* Axes and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
-* Longbow to precast <Skill name="Barrage"/>
+* Warhorn for <Boon name="might"/> pre-stacking.
+* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>
+* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
 </Card>
 </GridItem>
 
@@ -62,9 +61,9 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
 
 <Card title="Swap Weapons">
-* Warhorn when <Boon name="might"/> is blasted.
-* Sword with <Item name="Night" type="Sigil"/> and other with <Item name="Serpent Slaying" type="Sigil"/>
-* Axes and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
+* Warhorn for <Boon name="might"/> pre-stacking.
+* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>
+* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
 </Card>
 </GridItem>
 
@@ -91,18 +90,20 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 | | | |
 | -- | -- | -- |
 | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) | Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
+| <Skill id="43548" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) | Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) | Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
-| <Skill id="12658" size="big" disableText/> | [Jungle Stalker](https://wiki.guildwars2.com/wiki/Juvenile_Jungle_Stalker) | Provides 5 stacks of <Boon name="might"/>, useful after long intermediate phases (e.g. orbs at Ensolyss). |
 </Card>  
 </GridItem>
 
 <GridItem sm="5">
 <Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 
-<Card title="Situational">
+<Card title="Situational Traits and Skills">
 | | |
 | -- | -- |
-| <Trait name="Leader of the Pack" size="big" disableText/> | Very strong alternative to <Trait name="Oppressive Superiority"/> for fights where your party can profit from the shared <Skill name="One Wolf Pack"/>. Currently meta on Skorvald, Arkk, Siax and Ensolyss. You should also activate it when precasting <Skill name="One Wolf Pack"/> and retrait before getting into combat. |
+| <Trait name="Leader of the Pack" size="big" disableText/> | Very strong alternative to <Trait name="Oppressive Superiority"/> for fights where your party can profit from the shared <Skill name="One Wolf Pack"/>. You should also activate it when precasting to share <Skill name="Moa Stance"/> and <Skill name="One Wolf Pack"/> to your allies and then retrait before getting into combat. |
+| <Trait name="Natural Healing" size="big" disableText/> | An alternative to <Trait name="Two-Handed Training"/> if you are running longbow and have permanent fury. |
+| <Skill name="Frost Trap" size="big" disableText/> | A high damage utility that can be worth more than <Skill name="Signet of the Wild"/> in short phased fights. |
 </Card>
 </GridItem>
 </Grid>
@@ -110,12 +111,53 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 
 <Tab title="Guide">
 <Divider text="Details"/>
-
 <Grid>
 <GridItem sm="7">
-<Card title="Rotation">
-* Enter <Skill id="42944"/> with Gazelle
-* Cast <Skill id="12497"/>
+<Card title="Skill Usage">
+The main idea of Soulbeast is to ensure you land <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/>  and <Skill name="One Wolf Pack"/> as well as usually into <Effect name="exposed"/> on the boss. Another consideration is that you can often precast <Skill name="Barrage"/> and <Skill name="Frost Trap"/> which are ticking aoes which can also benefit from these previous damage modifiers. 
+
+Greatsword Skills:
+- <Skill id="12525"/> is a high damage skill that also grants you 50% extra damage on your next skill -  this is great for increasing the damage of <Skill id="40729"/>.
+- <Skill id="12475"/> resets your <Skill id="12525"/> so is a great filler skill if you have a longer burn phase. It is also a CC skill that helps your <Effect name="Twice as Vicious"/> uptime.
+
+Longbow Skills:
+- <Skill id="12509"/> is a high damage skill that can be used into <Effect name="exposed"/> in a longer burst scenario.
+- <Skill id="12511"/> is a CC skill that can be used to proc <Item id="84505"/>.
+- <Skill id="12469"/> is a high damage skill that is best utilized in precasting it before a phase so you have the ticking damage on top of your normal damage.
+
+Axe Skills:
+- <Skill id="12638"/> is a useful pull that does decent damage as well.
+- <Skill id="12639"/> is your highest damaging skill, you need to use it at the correct time since it is a long cast and animation lock so can screw you up if you are hit by an attack or interupted because you used it in a poor position.
+- <Skill id="12490"/> is a useful damaging skill if your phase is short enough where you can use this and not have to axe auto attack.
+
+Sword Skills:
+- <Skill id="12482"/> is a forwards leap skill that can be useful for skips as well as moving about in fights.
+- <Skill id="12481"/> is a backwards evade skill that can be used for in fight movement.
+
+Warhorn Skills:
+- <Skill id="12620"/> is a ticking damaging skill that can be used at the start of a phase on top of your other attacks
+- <Skill id="12621"/> is a blast finisher that also grants your team <Boon name="Might"/>, <Boon name="Fury"/> and <Boon name="Swiftness"/>. Very useful for prestacking.
+
+Torch Skills:
+- <Skill id="12504"/> is a fire field that is used for precasting.
+
+Utilties:
+- <Skill id="12492"/> is a high damage over time skill that can be precasted before a fight then used as soon as the first trap has procced in order to gain double the value, because of this it can be worth taking over <Skill name="Signet of the Wild"/> in some fights.
+
+
+
+</Card>
+</GridItem>
+<GridItem sm="5">
+<Card title="CC skills">
+| | |
+| -- | -- |
+| <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>) |
+| <Skill id="12511"/>| 150 damage (Longbow 4)|
+| <Skill id="12638"/> | 150 damage (Axe 4) |
+| <Skill id="12475"/> | 150 damage (Greatsword 5) |
+</Card>
+<Card title="Golem Rotation">
 1. <Skill id="45717"/> (Elite) 
 2. <Skill id="12633"/> (Utility)
 3. <Skill id="12525"/> (Greatsword 2)
@@ -131,40 +173,40 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 13. <Skill id="12638"/> (Axe 4)
 14. **Swap to greatsword**
 15. <Skill id="12525"/> (Greatsword 2)
-16. <Skill id="12522"/> -> <Skill id="12523"/> (Greatsword 4 2x)  
-17. Autoattack chain 1x
+17. Autoattack chain 2x
 18. <Skill id="12525"/> (Greatsword 2)
 19. <Skill id="41524"/> (F1)
 20. <Skill id="45743"/> (F2)
-21. Autoattack chain 2x  
-22. **Repeat from** `Step 1`
+21. Autoattack chain 1x
+22. **Repeat from** `Step 2`
 
-</Card>
 </GridItem>
-
-<GridItem sm="5">
-<Card title="Notes">
-- Warhorn is currently only used with very fast groups on Skorvald, simply use <Skill name="Hunters Call"/> before swapping to axe
-- Precast <Skill name="Firestorm" profession="bundle"/> from <Skill name="Conjure Fiery Greatsword"/> if you have one, otherwise <Skill name="Barrage"/> from longbow
-- For short-phased fights with greatsword you can skip steps 4 and 5 to cast <Skill id="12639"/> earlier
-- <Skill id="12639"/> reflects projectiles - this is very strong on Artsariiv (learn the animation of her throwing the orbs) and some other encounters (with <Boon name="Stability"/> and <Boon name="Aegis"/> you can even reflect the orbs on Arkk)
 </Card>
+<Card title="Precast Rotation">
+If you have a Mistlock Singularity present you can use this rotation
+1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+2. <Skill name="Moa Stance"/> __with <Trait name="Leader of the Pack"/>__.
+3. `Optional` use <Skill id="12537"/> then change back the utility that it was in place of.
+3. <Skill id="12621"/> to blast might.
+4. <Skill id="31914"/> to extend your boons.
+5. Pick up <Skill id="5516"/> if there is one.
+6. <Skill name="One Wolf Pack"/> then take the Mislock and trigger the boss
 
-<Card title="CC skills">
-| | |
-| -- | -- |
-| <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>) |
-| <Skill id="12638"/> | 150 damage (Axe 4) |
-| <Skill id="12475"/> | 150 damage (Greatsword 5) from behind |
+If you don't have Mistlock Singularity present you can use this simplified rotation
+1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+
+3. <Skill id="12621"/> to blast might.
+4. <Skill id="31914"/> to extend your boons.
+5. Pick up <Skill id="5516"/> if there is one.
+
 </Card>
-</GridItem>
 </Grid>
 </Tab>
-
 <Tab title="99CM">
 <Divider text="Nightmare"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [Nightmare fractal page](/fractals/nightmare) for general encounter information!
+
 <Tabs>
 <Tab title="Mama">
 <Specialization name="Soulbeast"/> is not a great pick at this boss. However, in daily clears you have to find a way to make it work.
@@ -178,7 +220,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 **Opening**
 
 You wanna do a modified Greatsword rotation: 
-- <Skill name="Maul"/> and <Skill name="Sicem"/> during the cast
+- <Skill id="12525"/> and <Skill name="Sicem"/> during the cast
 - <Skill name="Worldly impact"/>
 - <Skill name="Path of scars"/>
 - <Skill name="Whirling defense"/>
@@ -191,14 +233,14 @@ You wanna do a modified Greatsword rotation:
 **2nd phase**
 
 When you go back back to MAMA swap to GS and use:
-- <Skill name="Maul"/>
+- <Skill id="12525"/>
 - <Skill name="hiltbash"/>
-- <Skill name="Maul"/>
+- <Skill id="12525"/>
 - <Skill id="41524"/> (dont use <Skill name="Sicem"/> here)
 
 **2nd Add**
 - Help CCing with <Skill id="45743"/> 
-- Use a mix of <Skill name="Maul" profession="ranger"/> and autoattacks to kill it.
+- Use a mix of <Skill id="12525"/> and autoattacks to kill it.
 
 **3rd phase**
 
@@ -238,7 +280,7 @@ You wanna do following opening:
 - You shouldnt use <Skill name="Whirling defense"/> in phase 1.
  
 **1st Add**  
-- Use <Skill id="12622"/> to get to the add quickly. 
+- Use <Skill id="12482"/> to get to the add quickly. 
 - Kill it with  <Skill name="Path of scars"/> and <Skill name="Whirling defense"/>. If your group sucks, you can save your important dps skills and kill the mob with a mix of AA and F1/F2s. The weaver should help you anyway.
 
 **Phase 2**  
@@ -338,7 +380,7 @@ Skip F3 in fast parties, because it has kind of a long cast time.
 
 </Tab>
 <Tab title="Artsariiv">
-Summon <Skill name="Frost Spirit"/> in middle before someone triggers her. While she is talking start your precast <Skill id="5531"/> and <Skill name="Barrage"/>. Use <Skill name="Maul"/> <Skill name="Hiltbash"/> and <Skill name="Maul"/> while she is still in the middle. Teleport to the corner and teleport <Skill name="Frost Spirit"/> to you.
+Summon <Skill name="Frost Spirit"/> in middle before someone triggers her. While she is talking start your precast <Skill id="5531"/> and <Skill name="Barrage"/>. Use <Skill id="12525"/> <Skill name="Hiltbash"/> and <Skill id="12525"/> while she is still in the middle. Teleport to the corner and teleport <Skill name="Frost Spirit"/> to you.
 
 Now go through this rotation:
 - <Skill name="onewolfpack"/>, <Skill name="sicem"/>
@@ -349,11 +391,11 @@ Use Consumables to CC the adds.
 
 **66% and 33%**
 
-- <Skill name="Maul"/> <Skill name="Hiltbash"/> <Skill name="Maul"/>
+- <Skill id="12525"/> <Skill name="Hiltbash"/> <Skill id="12525"/>
 - <Skill id="41524"/> <Skill id="45743"/>
 - Dodge (do not use sic em here)
 - Special action key into the corner
-- <Skill name="Maul"/> and <Skill name="sicem"/> into the cast
+- <Skill id="12525"/> and <Skill name="sicem"/> into the cast
 - <Skill name="Worldlyimpact"/>
 - <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/> to reflect again
 
