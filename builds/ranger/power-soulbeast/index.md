@@ -142,8 +142,14 @@ Torch Skills:
 - <Skill id="12504"/> is a fire field that is used for precasting.
 
 Utilties:
+- <Skill id="31914"/> is a healing skill that also extends all your boons.
 - <Skill id="12492"/> is a high damage over time skill that can be precasted before a fight then used as soon as the first trap has procced in order to gain double the value, because of this it can be worth taking over <Skill name="Signet of the Wild"/> in some fights.
 
+Pet Skills:
+- <Skill id="40729"/> is a high damage skill that can also extend your boons due to the trait <Trait name="Essence of Speed"/> 
+- <Skill id="41524"/> is a decent filler dps skill over auto attacking.
+- <Skill id="45743"/> is a CC and damage skill from the rock gazelle.
+- <Skill id="43548"/> is a high dps skill from the red moa.
 
 
 </Card>
