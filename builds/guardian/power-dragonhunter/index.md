@@ -16,9 +16,11 @@ code: '[&DQEQLyo6GzkmDyYPihItAUgBSAH+AP4AtRJxEgAAAAAAAAAAAAAAAAAAAAA=]'
 
 <Tab title="Build">
 
-The <Specialization name="dragonhunter" text="Power Dragonhunter"/> is currently a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
+The <Specialization name="dragonhunter" text="Power Dragonhunter"/> was moved to the [offmeta](/builds/) due to the fact that you can not replace a <Specialization name="weaver"/> or <Specialization name="Soulbeast"/>. <Specialization title="Power Dragonhunter" name="dragonhunter"/> is a meta only if replacing <Specialization name="firebrand" /> and being the main source of <Boon name="quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in really short encounters. 
 
-The build also offers strong on-demand party support with <Skill id="30039"/> and reflects like <Skill id="9251"/>.
+<Specialization name="dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
+
+The build also offers strong on-demand party support with <Skill id="30039"/> and other usefull skills such as <Skill id="9251"/>, <Skill name="standyourground"/> and so on.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -37,7 +39,8 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Card title="Alternative weapons">
 - Greatswords and Scepters/Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 - Greatswords and foci with (see [Consumables Guide](/guides/consumables))
-- Hammer for <Boon name="might"/> stacking
+- Maces for symbol precasting
+- Hammer and/or Staff for <Boon name="might"/> stacking
 </Card>
 </GridItem>
 
@@ -94,14 +97,12 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Skill id="9102" size="big" disableText/> | A two seconds block. Can be stowed, but only blocks without heal then.
 | <Skill id="29965" size="big" disableText/> | When your team lacks <Boon name="quickness"/>.|
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. Can be used to blink to a <Skill id="9168"/>.|
 | <Skill id="9247" size="big" disableText/> | A 1,200 range teleport to an enemy. Very handy for some skips. |
 | <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. Preferred over <Skill id="9153"/>. |
 | <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
-| <Skill id="41571" size="big" disableText/> | A 5 seconds projectile absorb. Good to counterplay  <Instability name="We bleed fire"/> in case your team sucks.
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting 10 seconds. Can be used to counterplay <Instability name="We bleed fire"/>.|
 | <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside <Instability name="We bleed fire"/>. |
 </Card>
@@ -114,14 +115,14 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Grid>
 <GridItem sm="7">
-<Card title="Rotation">
+<Card title="General Rotation">
 **Scepter Rotation:**
 1. <Skill name="banesignet" profession="guardian"/>
 1. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
+1. <Skill name="Sword of Justice" profession="guardian"/>
 1. <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
 1. <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
 1. **Weapon Swap**
-1. <Skill name="Sword of Justice" profession="guardian"/>
 1. <Skill name="Procession of Blades " profession="guardian"/> 
 1. <Skill name="Spear of Justice" profession="guardian"/> (F1)
 1. <Skill name="Symbol of Wrath " profession="guardian"/> (GS 4)
@@ -143,6 +144,9 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage |
 | <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
 | <Skill id="30273"/> | 150 damage |
+| <Skill name="chainsoflight" /> | 250 damage |
+| <Skill name="hammerofwisdom" /> | 200 damage |
+
 </Card>
 </GridItem>
 
@@ -150,13 +154,13 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Card title="Notes">
 * Always start on scepter/sword
 * Delay swapping to GS until the CC-bar is about to be broken. This is especially important at ensolyss without insta CC. 
-* Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. 
+* Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
 * Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits.
-* Dont interrupt your GS auto-attack chain
+* Don't interrupt your GS auto-attack chain
 * In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be benifical to get your <Skill name="spearofjustice"/> out first.)
 * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
-* Dont waste your key skills on meaningless adds
-* Scepter is stronger than sword when you use just the symbol
+* Don't waste your key skills on meaningless adds
+* Its up to you wheter you decide to go Scepter or Sword. Sword tends to outperform Scepter, especially in longer encounters.
 
 </Card>
 </GridItem>
@@ -166,32 +170,34 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Tab title="99CM">
 <Divider text="Nightmare"/>
+- If you are replacing the <Specialization name="firebrand" />, check <Specialization name="firebrand" /> [guide](/builds/guardian/hybrid-firebrand) where you will find information regarding swapping to <Specialization name="dragonhunter"/>.
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [nightmare fractal page](/fractals/nightmare) for general encounter information!
+
 <Tabs>
 <Tab title="Mama">
-### **General**
-- Do not use traps on the adds
-- Strategically cast your <Skill name="banesignet"/> 
-- Start on Scepter/Sword
-- Use <Skill name="binding blade"/> inside MAMAs hitbox, when the small adds are coming close
-- Check with your team if you are using <Skill name="Feelmywrath"/>
 
 ### **Precast**
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the first add and force your team to `/gg`.
-- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- (Use <Skill name="Feelmywrath"/> - depends on your precast)
+- Use <Skill name="Empower"/> to help with <Boon name="might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Feelmywrath"/>.
+- You can use <Skill name="hallowed ground"/> for fire field and/or <Skill name="standyourground"/>.
 - Take the mistlock.
+ 
+### **Synopsis**
+- Start on Scepter/Sword.
+- Try to use your full burst (either you start the phase on GS or sword/scepter) in each phase after breakbar is broken.
+- Don't forget that you can not expect to see the highest numbers without the breakbar being frequently broken.
+- To make that happen, use <Skill name="banesignet"/>. <Specialization name="renegade"/> and  <Specialization name="warrior"/> will not break the bar alone without consumables so DO NOT be selfish.
+- Do not use traps on the adds.
+- Use <Skill name="binding blade"/> inside MAMAs hitbox, when the small adds are coming close.
+- Feel free to use <Skill name="symbol of blades"/>, <Skill name="leapoffaith"/> and <Skill name="wingsofresolve"/> for faster movement.
+- You can take <Skill name="hammerofwisdom"/> to help CC the adds.
 
-### **1st Phase**
-- Drop a <Skill name="symbolofpunishment"/>
-- Swap
-- <Skill name="processionofblades"/>, <Skill name="spearofjustice"/>
-- <Skill name="Symbolofwrath"/>, <Skill name="Whirlingwrath"/>
 </Tab>
 
 <Tab title="Siax">
-**tl;dr**
+
+**General guide**
 - Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reason why <Specialization name="guardian"/> is very strong at this boss. Do not miss this.
 - Save some <Skill id="9168"/> for a quicker add kill. 
 - It is beneficial to take a sword here to quickly blink to the add.
@@ -204,13 +210,16 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 ### **Precast**
 - Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
-- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Empower"/> to help with <Boon name="might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
 - Take the mistlock.
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
 
 ### **100%-66%**
-Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (phases Siax in >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.   
-No matter what group you are running with, start on scepter/sword! If you are running in a PuG or just clear it daily, it is beneficial to delay your traps slightly, to fit more of the hits into the cc bar. In a fast team save <Skill name="bindingblade"/> for the 2nd phase when the adds spawn, if not use it. Just make sure to press it when the adds are in range for big dps.
+- Your gameplay is heavily influenced by the dps your team can pull. 
+- If your team has very high dps (phases Siax in >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.   
+- No matter what group you are running with, start on scepter/sword! 
+- If you are running in a PuG or just clear it daily, it is beneficial to delay your traps slightly, to fit more of the hits into the cc bar. 
+- In a fast team save <Skill name="bindingblade"/> for the 2nd phase when the adds spawn, if not use it. Just make sure to press it when the adds are in range for big dps.
 
 ### *1st Add*
 - Use <Skill name="spearofjustice"/> on your add for the modifier from <Trait name="biggamehunter"/>. 
@@ -227,14 +236,27 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 
 ### **33%-0%**
 Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Try to end on scepter/sword.
+
 </Tab>
 
 <Tab title="Ensolyss">
-WIP
+### **Precast**
+- Use <Skill name="Empower"/> to help with <Boon name="might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Feelmywrath"/>.
+- You can use <Skill name="hallowed ground"/> for fire field and/or <Skill name="standyourground"/>.
+- Take the mistlock.
+
+### **Synopsis**
+- Breakbar should be broken at the start of the fight, use <Skill name="banesignet"/> to help to make it happen.
+- Start on Scepter/Sword.
+- Try to fit every single skill you have into <Effect name="exposed"> (few second after the bar is broken), feel free to precast a symbol and <Skill name="Swordofjustice"/> before Ensolyss becomes vulnerable.
+- After you used your full opener, continue with your usual rotation until you phase.
+- Repeat this every single phase.
 </Tab>
 
 </Tabs>
 </Tab>
+
 <Tab title="100CM">
 <Divider text="Shattered Observatory"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
@@ -242,8 +264,8 @@ WIP
 <Tabs>
 <Tab title="Skorvald">
 ### **Precast**
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
-- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss.
+- Use <Skill name="Empower"/> to help with <Boon name="might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
 - Use <Skill name="Feelmywrath"/>.
 - Take the mistlock.
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
@@ -256,14 +278,15 @@ You can kill the first two adds with greatsword. You can use traps on the 2nd ad
 
 </Tab>
 <Tab title="Artsariiv">
-### **General**
+**General**
 - If your team does not have a <Specialization name="soulbeast"/>, you can take <Skill name="Wall of reflection"/> for omega reflects. 
 - Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the knockbacking attacks.
-- Save a Skill name="shieldofcourage"/> or <Skill name="shieldofwrath"/> for the expanding AoE so you can deal continues DPS during the mid burn.
+- Save a <Skill name="shieldofcourage"/> or <Skill name="shieldofwrath"/> for the expanding AoE so you can deal continues DPS during the mid burn.
+
+---
 
 ### **Precast**
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
-- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Empower"/> to help with <Boon name="might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
 - Use <Skill name="Feelmywrath"/>.
 - Take the mistlock.
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss in a coordinated team.
@@ -287,7 +310,16 @@ You can kill the first two adds with greatsword. You can use traps on the 2nd ad
 </Tab>
 
 <Tab title="Arkk">
-### **General**  
+### **Precast**
+- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss.
+- Use <Skill name="Empower"/> to help with <Boon name="might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+- Use <Skill name="Feelmywrath"/>.
+- Take the mistlock.
+- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
+
+---
+
+### **Synopsis**  
 - Play scepter here!
 - Good teams: start on scepter/sword, so that you are on scepter during the bloom phase.
 - Bad teams: start on greatsword and do SC rotation
@@ -297,12 +329,6 @@ You can kill the first two adds with greatsword. You can use traps on the 2nd ad
 - The fastest way to do the blooms is to walk into the lightning and auto attack with scepter. Use <Skill name="Wings of Resolve"/> to regain health. 
 - Use <Skill name="binding blade"/> inside Arkks hitbox when adds are present.
 
-### **Precast**
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
-- Use <Skill name="Empower"/> to help with might. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Use <Skill name="Feelmywrath"/>.
-- Take the mistlock.
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
 </Tab>
 </Tabs>
 </Tab>
