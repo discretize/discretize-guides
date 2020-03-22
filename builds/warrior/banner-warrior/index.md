@@ -18,7 +18,7 @@ The <Specialization text="Banner Warrior" name="warrior"/> is the support build 
 
 Besides providing the group with strong unique damage buffs (<Skill id="14405"/>, <Skill id="14407"/> and <Trait id="1482"/>) and having excellent defiance bar damage with the Mace/Mace set, the build also has a medium burst damage potential on both small and large hitboxes for a support role.
 
-If enemy boons are present and for some reason you are still not playing the <Specialization name="Renegade"/>+<Specialization name="firebrand"/> composition, the <Specialization name="spellbreaker"/> specialization can be played to reliably remove boons with <Skill id="45252"/> and <Trait id="2162"/>. Another advantage of this variation is the strong on-demand projectile destruction with <Skill id="45333"/>.
+If enemy boons are present and for some reason you are still not playing the <Specialization name="Renegade"/> + <Specialization name="firebrand"/> composition, the <Specialization name="spellbreaker"/> specialization can be played to reliably remove boons with <Skill id="45252"/> and <Trait id="2162"/>. Another advantage of this variation is the strong on-demand projectile destruction with <Skill id="45333"/>.
 
 Furthermore, the build is able to use damage modifying sigils like <Item id="24868"/> as well as slaying potions such as <Item id="50082"/>. As a support warrior, your focus is first and foremost providing the group with aforementioned damage buffs and removing boons, secondly breaking the defiance bar while following your optimized damage rotation.
 
