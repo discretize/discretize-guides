@@ -25,6 +25,7 @@ Note that this build variant is optimized for 150 agony resistance.
 If you have more AR, feel free to swap out harrier pieces for cleric, as long as you are maintaining 100% boon duration. Please take in mind, that this is not _THE_ gear setup you have to play, there are many variants that work. Its all about maximizing boon duration and healing power.  
 Yes, you can play full harrier - however you will loose some healing power.
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
+
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Harrier" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Harrier" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk"/>
@@ -32,19 +33,17 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
  
 <GridItem sm="4">
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon2MainType="Axe" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2OffType="Shield" weapon2OffAffix="Harrier" weapon2OffSigil="Concentration"/>
-
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM
 * A hammer for <Boon name="might"/> pre-stacking
-
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Cleric" accessory1Affix="Cleric" accessory2Affix="Cleric" amuletAffix="Harrier" ring1Affix="Cleric" ring2Affix="Harrier"/>
-
 <Consumables food="Delicious Rice Ball" utilityId="67528" infusion="Healing +9 Agony Infusion"/>
 </GridItem>
+
 </Grid>
 
 <Divider text="Build"/>
@@ -71,12 +70,12 @@ In case your team downs all the time and you cannot keep your PUG friends alive,
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill id="45460" size="big" disableText/> | A strong condi cleanse to counterplay <Instability name="Afflicted"/>. |
+| <Skill id="45460" size="big" disableText/> | A strong condition cleanse to counterplay <Instability name="Afflicted"/>. |
 | <Skill id="43357" size="big" disableText/> | Grants 33% uptime of <Boon name="Stability"/> and <Boon name="Retaliation"/>. |
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. Can be used to blink to a <Skill id="9168"/>.|
 | <Skill id="9247" size="big" disableText/> | A 1,200 range teleport to an enemy. Very handy for some skips. |
-| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. Preferred over <Skill id="9153"/>. |
-| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
+| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stun break is needed. Preferred over <Skill id="9153"/>. |
+| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stun break is needed. |
 | <Skill id="9175" size="big" disableText/> | A strong heal. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. Can be used to counterplay <Instability name="We bleed fire"/>.|
@@ -89,7 +88,7 @@ In case your team downs all the time and you cannot keep your PUG friends alive,
 <Tab title="Guide">
 <Divider text="Details"/>
 
-It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is improtant to understand that the signet share is essential to faster runs and sharing extra power during Exposed (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
+It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is important to understand that the signet share is essential to faster runs and sharing extra power during <Effect name="exposed"/> (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
 
 The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals but it should not be needed.
 

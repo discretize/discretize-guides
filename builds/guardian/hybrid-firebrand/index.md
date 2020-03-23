@@ -123,7 +123,7 @@ To keep up <Boon name="Quickness"/>:
 - Use <Skill name="Feel My Wrath"/> whenever ready
 - Use <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> but leave one charge left (unless the fight is close to being over)
 - Only use these skills close to your allies - try to "puke" on them with the mantras
-- Keep in mind that Equiping/Stowing a Virtue grants you 3 seconds of <Boon name="quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
+- Keep in mind that equipping/stowing a tome grants you 3 seconds of <Boon name="quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 The DPS rotation is exactly the same as [Power Dragonhunter](/builds/guardian/power-dragonhunter):
 
