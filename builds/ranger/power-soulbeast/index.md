@@ -82,18 +82,18 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 <Divider text="Build"/>
 
 <Grid>
-<GridItem sm="6">
+<GridItem sm="7">
 <Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128"/>
 </GridItem>  
 
-<GridItem sm="6">
+<GridItem sm="5">
 <Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 <Card title="Pets">
-| | | |
-| -- | -- | -- |
-| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) | Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
-| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) | Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
-| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) | Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
+| | |
+| -- | -- |
+| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
+| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
+| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
 </Card>  
 </GridItem>
 </Grid>
@@ -760,7 +760,7 @@ or you could go for reflecting her spin attack.
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-- Pet: <Skill id="44617" disableText/> Red Moa
+- Pet: <Skill id="43636" disableText/> Rock Gazelle
 - Traits: <Trait id="2128"/> 
 - Food: <Item id="91805"/>
 - Utility: <Item id="77569"/>
@@ -769,7 +769,7 @@ or you could go for reflecting her spin attack.
 </Card>
 </GridItem>
 <GridItem sm="6">
-<Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Severance" />
+<Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
 </GridItem>
 </Grid>
 <GridItem sm="12">
@@ -777,7 +777,43 @@ or you could go for reflecting her spin attack.
 </GridItem>
 
 <GridItem sm="12">
-WIP
+**Opening**
+
+- Summon <Skill name="Frost Spirit"/> in middle before someone triggers Artsariiv
+- When she is triggered precast <Skill id="5531"/> and <Skill name="Barrage"/> 
+- Use <Skill name="onewolfpack"/>, <Skill name="sicem"/> then <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>
+- Use <Skill name="Rapid fire"/> as you walk behind her in mid
+- Swap weapons use <Skill name="pathofscars"/> as you walk through the boss to stand behind her
+- <Skill name="Whirlingdefense"/> then <Skill name="Worldlyimpact"/> followed by <Skill id="41524"/> and <Skill id="45743"/> as she jumps to the side
+- If she reaches the side then use SAK to avoid the slam wave and sword autoattack until she has phased
+
+**Add CC Phase**
+
+Use [consumables](/guides/consumables) to CC the adds.
+- Stay on sword/axe for the next phase
+
+**66%**
+
+- When Artsariiv becomes vulnerable sword autoattack and use <Skill id="41524"/>, <Skill id="45743"/> and <Skill name="pathofscars"/> when they come off cd
+- Dodge her slam attack then use <Skill name="sicem"/> in combination with <Skill name="Whirlingdefense"/>
+- Swap to longbow as she teleports to fire her laser and use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> and then <Skill name="Rapid fire"/>
+- Wait in the middle for your team to stack might then use SAK to the corner to avoid the slam wave
+- Use <Skill id="45743"/> then <Skill id="41524"/> and <Skill name="Worldlyimpact"/> followed by <Skill name="Rapid fire"/> until she has phased
+
+**Add CC Phase**
+
+Use [consumables](/guides/consumables) to CC the adds.
+- Pick up <Skill id="5516"/> that your weaver places for you
+
+**33%**
+
+- Precast <Skill id="5531"/> and <Skill name="Barrage"/> before Artsariiv becomes vulnerable
+- Use <Skill name="onewolfpack"/> once she becomes vulnerable then <Skill name="sicem"/> and <Skill name="Rapid fire"/>
+- Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>
+- Swap weapons
+- <Skill name="pathofscars"/> followed by <Skill name="Whirlingdefense"/>
+- If she isn't dead yet use <Skill id="45743"/> then <Skill id="41524"/> and sword autoattack
+
 </GridItem>
 </Tab>
 </Tabs>
