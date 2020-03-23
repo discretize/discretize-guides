@@ -461,7 +461,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **Annotation**
 * Consider breaking the defiance bar a second time in prolonged phases. Use <Skill name="Surge of the Mists"/> and <Skill name="Darkrazors Daring"/> after the Upswing attack in the first phase, and after the Nightmare Devastation attack in the second phase. In the third phase use <Skill name="Darkrazors Daring"/> on the first defiance bar, and use <Skill name="Surge of the mists"/> immediately when the second defiance bar appears.
-* Using <Skill name="Chilling Isolation"/> before <Skill name="Citadel Bombardment"/> will give you the opportunity to use <Skill name="Chilling Isolation"/> again while Ensolyss is affected by the Exposed debuff.
+* Using <Skill name="Chilling Isolation"/> before <Skill name="Citadel Bombardment"/> will give you the opportunity to use <Skill name="Chilling Isolation"/> again while Ensolyss is affected by the <Effect name="Exposed"/> debuff.
 * Coordinate with the <Specialization name="Soulbeast"/> in which orb phase to use <Skill name="Breakrazors Bastion"/> to heal the <Skill name="Frost Spirit"/>.
 
 </GridItem>
