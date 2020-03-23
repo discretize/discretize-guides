@@ -383,7 +383,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 ### **4th Phase** 
 - CC with <Skill name="Wildblow"/>.
 
-**Annnotation:**
+**Annotation:**
 - Regarding <Skill name="Bullscharge"/>: Cast it whenever it is off cd
 
 </GridItem>
@@ -771,7 +771,7 @@ It is not your job as <Specialization name="berserker"/> to slay the Temporal An
 </Message>
 
 ### **Prestacking**
-- Drop a <Item name="whitemantleportaldevice"/> near the mistlock and jump over to Arkks platform using the special action key.
+- Drop a <Item name="whitemantleportaldevice"/> near the mistlock and jump over to Arkk's platform using the special action key.
 - Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>, <Skill name="Banner of Discipline"/> and <Skill name="battlestandard"/>. 
 - Take the portal back
 - Drop a fire field with <Skill name="Flames of war"/>.
