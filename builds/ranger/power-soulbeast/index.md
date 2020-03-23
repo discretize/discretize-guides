@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-03-21'
+date: '2020-03-22'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -34,18 +34,18 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
-
-<Card title="Swap Weapons">
-* Warhorn for <Boon name="might"/> pre-stacking.
-* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>
-* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
-</Card>
+<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
 
-<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
+<Card title="Swap Weapons">
+* Warhorn for <Boon name="might"/> pre-stacking.
+* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>
+* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
+
+</Card>
 </GridItem>
 </Grid>
 </Tab>
@@ -59,22 +59,21 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
-
-<Card title="Swap Weapons">
-* Warhorn for <Boon name="might"/> pre-stacking.
-* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>
-* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
+<Card title="Extra note">
+You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 </Card>
+<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
 
-<Card title="Extra note">
-You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
-</Card>
+<Card title="Swap Weapons">
+* Warhorn for <Boon name="might"/> pre-stacking.
+* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>
+* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
 
-<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
+</Card>
 </GridItem>
 </Grid>
 </Tab>
@@ -83,28 +82,19 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 <Divider text="Build"/>
 
 <Grid>
-<GridItem sm="7">
-<Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2143"/>
-  
+<GridItem sm="6">
+<Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128"/>
+</GridItem>  
+
+<GridItem sm="6">
+<Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 <Card title="Pets">
 | | | |
 | -- | -- | -- |
 | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) | Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
-| <Skill id="43548" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) | Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
+| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) | Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) | Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
 </Card>  
-</GridItem>
-
-<GridItem sm="5">
-<Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-
-<Card title="Situational Traits and Skills">
-| | |
-| -- | -- |
-| <Trait name="Leader of the Pack" size="big" disableText/> | Very strong alternative to <Trait name="Oppressive Superiority"/> for fights where your party can profit from the shared <Skill name="One Wolf Pack"/>. You should also activate it when precasting to share <Skill name="Moa Stance"/> and <Skill name="One Wolf Pack"/> to your allies and then retrait before getting into combat. |
-| <Trait name="Natural Healing" size="big" disableText/> | An alternative to <Trait name="Two-Handed Training"/> if you are running longbow and have permanent fury. |
-| <Skill name="Frost Trap" size="big" disableText/> | A high damage utility that can be worth more than <Skill name="Signet of the Wild"/> in short phased fights. |
-</Card>
 </GridItem>
 </Grid>
 </Tab>
@@ -112,13 +102,45 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 <Tab title="Guide">
 <Divider text="Details"/>
 <Grid>
-<GridItem sm="7">
+<GridItem sm="6">
 <Card title="Skill Usage">
 The main idea of Soulbeast is to ensure you land <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/>  and <Skill name="One Wolf Pack"/> as well as usually into <Effect name="exposed"/> on the boss. Another consideration is that you can often precast <Skill name="Barrage"/> and <Skill name="Frost Trap"/> which are ticking aoes which can also benefit from these previous damage modifiers. 
 
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Card title="CC skills">
+| | |
+| -- | -- |
+| <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>) |
+| <Skill id="12511"/>| 150 damage (Longbow 4)|
+| <Skill id="12638"/> | 150 damage (Axe 4) |
+| <Skill id="12475"/> | 150 damage (Greatsword 5) |
+</Card>
+<Card title="Precast Rotation">
+If you have a Mistlock Singularity present you can use this rotation
+1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+2. <Skill name="Moa Stance"/> __with <Trait name="Leader of the Pack"/>__.
+3. `Optional` use <Skill id="12537"/> then change back the utility that it was in place of.
+3. <Skill id="12621"/> to blast might.
+4. <Skill id="31914"/> to extend your boons.
+5. Pick up <Skill id="5516"/> if there is one.
+6. <Skill name="One Wolf Pack"/> then take the Mislock and trigger the boss
+
+If you don't have Mistlock Singularity present you can use this simplified rotation
+1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+
+3. <Skill id="12621"/> to blast might.
+4. <Skill id="31914"/> to extend your boons.
+5. Pick up <Skill id="5516"/> if there is one.
+
+</Card>
+</GridItem>
+</Grid>
+<Card title="Other Skills and Utilities">
 Greatsword Skills:
 - <Skill id="12525"/> is a high damage skill that also grants you 50% extra damage on your next skill -  this is great for increasing the damage of <Skill id="40729"/>.
-- <Skill id="12475"/> resets your <Skill id="12525"/> so is a great filler skill if you have a longer burn phase. It is also a CC skill that helps your <Effect name="Twice as Vicious"/> uptime.
+- <Skill id="12475"/> resets your <Skill id="12525"/> so is a great filler skill if you have a longer burn phase. It is also a CC skill that helps your <Trait id="2127"/> uptime.
 
 Longbow Skills:
 - <Skill id="12509"/> is a high damage skill that can be used into <Effect name="exposed"/> in a longer burst scenario.
@@ -150,64 +172,11 @@ Pet Skills:
 - <Skill id="41524"/> is a decent filler dps skill over auto attacking.
 - <Skill id="45743"/> is a CC and damage skill from the rock gazelle.
 - <Skill id="43548"/> is a high dps skill from the red moa.
-
-
-</Card>
-</GridItem>
-<GridItem sm="5">
-<Card title="CC skills">
-| | |
-| -- | -- |
-| <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>) |
-| <Skill id="12511"/>| 150 damage (Longbow 4)|
-| <Skill id="12638"/> | 150 damage (Axe 4) |
-| <Skill id="12475"/> | 150 damage (Greatsword 5) |
-</Card>
-<Card title="Golem Rotation">
-1. <Skill id="45717"/> (Elite) 
-2. <Skill id="12633"/> (Utility)
-3. <Skill id="12525"/> (Greatsword 2)
-4. <Skill id="12475"/> (Greatsword 5)
-5. <Skill id="12525"/> (Greatsword 2)
-6. <Skill id="40729"/> (F3)  
-7. **Swap to sword**
-8. <Skill id="12638"/> (Axe 4)
-9. <Skill id="12639"/> (Axe 5)
-10. <Skill id="41524"/> (F1)
-11. <Skill id="45743"/> (F2)
-12. Autoattack chain 4x
-13. <Skill id="12638"/> (Axe 4)
-14. **Swap to greatsword**
-15. <Skill id="12525"/> (Greatsword 2)
-17. Autoattack chain 2x
-18. <Skill id="12525"/> (Greatsword 2)
-19. <Skill id="41524"/> (F1)
-20. <Skill id="45743"/> (F2)
-21. Autoattack chain 1x
-22. **Repeat from** `Step 2`
-
-</GridItem>
-</Card>
-<Card title="Precast Rotation">
-If you have a Mistlock Singularity present you can use this rotation
-1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-2. <Skill name="Moa Stance"/> __with <Trait name="Leader of the Pack"/>__.
-3. `Optional` use <Skill id="12537"/> then change back the utility that it was in place of.
-3. <Skill id="12621"/> to blast might.
-4. <Skill id="31914"/> to extend your boons.
-5. Pick up <Skill id="5516"/> if there is one.
-6. <Skill name="One Wolf Pack"/> then take the Mislock and trigger the boss
-
-If you don't have Mistlock Singularity present you can use this simplified rotation
-1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-
-3. <Skill id="12621"/> to blast might.
-4. <Skill id="31914"/> to extend your boons.
-5. Pick up <Skill id="5516"/> if there is one.
+ 
 
 </Card>
-</Grid>
 </Tab>
+
 <Tab title="99CM">
 <Divider text="Nightmare"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
@@ -215,13 +184,36 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 
 <Tabs>
 <Tab title="Mama">
-<Specialization name="Soulbeast"/> is not a great pick at this boss. However, in daily clears you have to find a way to make it work.
+<Tabs>
+<Tab title="PuG">
+<Grid>
+<GridItem sm="12">
+<Divider text="PuG MAMA"/>
+<Grid>
+<GridItem sm="6">
+<Card title="Skills and Traits">
+<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+- Pet: <Skill id="43636" disableText/> Rock Gazelle
+- Traits: run <Trait id="2128"/> if you trust your team to dps or <Trait id="2143"/> for personal dps
+- Food: <Item id="43360"/>
+- Utility: <Item id="50082"/>
+- Make sure to use [consumables](/guides/consumables) on the adds!
 
----
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
+</GridItem>
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
+</GridItem>
+
+<GridItem sm="12">
+<Specialization name="Soulbeast"/> is not a great pick at this boss. However, in daily clears you have to find a way to make it work.
 
 **Precast**  
 - Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>.
-- Before you cast <Skill id="5531"/> and <Skill name="Barrage"/> on MAMA: share <Skill name="One wolf pack"/> with <Trait name="leaderofthepack"/> and then swap back to <Trait name="oppressivesuperiority"/>. 
+- You can only precast one of <Skill id="5531"/> or <Skill name="Barrage"/> on MAMA as you will get in combat soon after you precast one of them. A safe bet is to <Skill name="Barrage"/> then swap to Greatsword since you might not have a weaver in your pug.
 
 **Opening**
 
@@ -260,6 +252,96 @@ MAMA should phase while you're casting your <Skill name="Whirling defense"/>, th
 **4th phase**
 - Help with cc by doing <Skill name="Hilt bash"/> and <Skill id="45743"/> 
 - Normal GS rotation.
+</GridItem>
+
+</Grid>
+</GridItem>
+</Grid>
+</Tab>
+
+<Tab title="Organized">
+<Grid>
+<GridItem sm="12">
+<Divider text="Organized MAMA"/>
+<Grid>
+<GridItem sm="6">
+<Card title="Skills and Traits">
+<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+- Pet: <Skill id="43636" disableText/> Rock Gazelle
+- Traits: <Trait id="2128"/> 
+- Food: <Item id="43360"/>
+- Utility: <Item id="50082"/>
+- Make sure to use [consumables](/guides/consumables) if necessary on the adds!
+
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
+</GridItem>
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
+</GridItem>
+<GridItem sm="12">
+
+**Precast**  
+- Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>.
+- Make sure to cast <Skill id="12497"/> before you precast <Skill id="5531"/> and <Skill name="Barrage"/> on MAMA
+
+**Opening**
+
+- <Skill name="Sicem"/> as soon as MAMA is vulnerable
+- <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>
+- Swap Weapons
+- <Skill name="Path of scars"/>
+- <Skill name="Whirling defense"/>
+- It should be phased now.
+
+**1st Add**
+- Help CCing with <Skill id="45743"/> 
+- Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>
+
+**2nd phase**
+
+When you go back back to MAMA autoattack on sword and use <Skill name="One Wolf Pack"/>
+- <Skill name="Path of scars"/> when it is off cd
+- Swap Weapons instantly and you should proc <Item id="84505"/>
+- <Skill name="Rapid Fire"/>
+- <Skill name="Cold Snap"/> to summon the frost spirit into the bubble
+- <Skill id="45743"/> 
+- <Skill id="41524"/>
+
+**2nd Add**
+- Help CCing with <Skill name="Point Blank Shot"/> 
+- Precast <Skill name="Barrage"/> to hit MAMA and the add
+- Use a mix of <Skill name="Rapid Fire"/> and autoattacks to kill it.
+
+**3rd phase**
+
+- <Skill name="Sicem"/> as soon as MAMA is vulnerable after the add is dead
+- <Skill id="45743"/> to get back to MAMA, CC and proc <Item id="84505"/>
+- Swap Weapons
+- <Skill name="Path of scars"/>
+- <Skill name="Whirling defense"/>
+- Autoattack if it isnt phased
+
+**3rd Add**  
+- Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>
+- Resummon your <Skill id="12497"/> as it has probably died by now
+
+**4th phase**
+- When MAMA becomes vulnerable use <Skill name="Path of scars"/> to CC
+- Swap Weapons
+- Continue CCing by using <Skill name="Point Blank Shot"/> and <Skill id="45743"/> 
+- <Skill name="Rapid Fire"/>
+- Use your dps skills as soon as they come off cd: <Skill name="Sicem"/>, <Skill name="One Wolf Pack"/> as well as weapon swapping and <Skill name="Path of scars"/> then <Skill name="Whirling defense"/>. Depending on kill speed this may not be possible
+
+</GridItem>
+
+</Grid>
+</GridItem>
+</Grid>
+</Tab>
+</Tabs>
 
 </Tab>
 <Tab title="Siax">
