@@ -1,6 +1,6 @@
 ﻿---
 title: 'Banner Warrior'
-date: '2020-03-21'
+date: '2020-03-23'
 rating: 'T4'
 role: 'Support'
 profession: 'Warrior'
@@ -36,7 +36,6 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="4">
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
-
 </GridItem>
 
 <GridItem sm="4">
@@ -48,6 +47,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 * If no additional cc is necessary you can use Greatsword instead of Mace/Mace
 </Card>
 </GridItem>
+
 </Grid>
 </Tab>
 
@@ -69,15 +69,14 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
  
-
 <Card title="Swap Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and slaying sigils
 * A warhorn for pre-stacking
 * Having a sword is very useful and sometimes even necessary especially for some of the skips (Uncategorized Fractal | Urban Battleground)
 * If no additional cc is necessary you can use Greatsword instead of Mace/Mace
 </Card>
-
 </GridItem>
+
 </Grid>
 </Tab>
 </Tabs>
@@ -123,7 +122,7 @@ Everything else stays the same. Note that your CC suffers without <Skill id="145
 <GridItem sm="8">
 <Card title="Skill usage">
 * Pre-fight:
-  * Use <Skill id="14394"/> and <Skill id="14393"/> on warhorn (<Boon name="vigor" disableText/><Boon name="swiftness" disableText/>) to blast a firefield for <Boon name="might"/>.
+  * Use <Skill id="14394"/> and <Skill id="14393"/> on warhorn (<Boon name="vigor" disableText/><Boon name="swiftness" disableText/>) to blast a fire field for <Boon name="might"/>.
   * Place <Skill id="14407"/> and <Skill id="14405"/> into to the boss
   * Use <Skill id="14402"/> to charge up Adrenaline immediately before the fight starts
 * Breaking defiance bars:
