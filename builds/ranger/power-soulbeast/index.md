@@ -184,13 +184,36 @@ Pet Skills:
 
 <Tabs>
 <Tab title="Mama">
-<Specialization name="Soulbeast"/> is not a great pick at this boss. However, in daily clears you have to find a way to make it work.
+<Tabs>
+<Tab title="PuG">
+<Grid>
+<GridItem sm="12">
+<Divider text="PuG MAMA"/>
+<Grid>
+<GridItem sm="6">
+<Card title="Skills and Traits">
+<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+- Pet: <Skill id="43636" disableText/> Rock Gazelle
+- Traits: run <Trait id="2128"/> if you trust your team to dps or <Trait id="2143"/> for personal dps
+- Food: <Item id="43360"/>
+- Utility: <Item id="50082"/>
+- Make sure to use [consumables](/guides/consumables) on the adds!
 
----
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
+</GridItem>
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
+</GridItem>
+
+<GridItem sm="12">
+<Specialization name="Soulbeast"/> is not a great pick at this boss. However, in daily clears you have to find a way to make it work.
 
 **Precast**  
 - Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>.
-- Before you cast <Skill id="5531"/> and <Skill name="Barrage"/> on MAMA: share <Skill name="One wolf pack"/> with <Trait name="leaderofthepack"/> and then swap back to <Trait name="oppressivesuperiority"/>. 
+- You can only precast one of <Skill id="5531"/> or <Skill name="Barrage"/> on MAMA as you will get in combat soon after you precast one of them. A safe bet is to <Skill name="Barrage"/> then swap to Greatsword since you might not have a weaver in your pug.
 
 **Opening**
 
@@ -229,6 +252,96 @@ MAMA should phase while you're casting your <Skill name="Whirling defense"/>, th
 **4th phase**
 - Help with cc by doing <Skill name="Hilt bash"/> and <Skill id="45743"/> 
 - Normal GS rotation.
+</GridItem>
+
+</Grid>
+</GridItem>
+</Grid>
+</Tab>
+
+<Tab title="Organized">
+<Grid>
+<GridItem sm="12">
+<Divider text="Organized MAMA"/>
+<Grid>
+<GridItem sm="6">
+<Card title="Skills and Traits">
+<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+- Pet: <Skill id="43636" disableText/> Rock Gazelle
+- Traits: <Trait id="2128"/> 
+- Food: <Item id="43360"/>
+- Utility: <Item id="50082"/>
+- Make sure to use [consumables](/guides/consumables) if necessary on the adds!
+
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
+</GridItem>
+<GridItem sm="12">
+<Divider text="HOW TO PLAY"/>
+</GridItem>
+<GridItem sm="12">
+
+**Precast**  
+- Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>.
+- Make sure to cast <Skill id="12497"/> before you precast <Skill id="5531"/> and <Skill name="Barrage"/> on MAMA
+
+**Opening**
+
+- <Skill name="Sicem"/> as soon as MAMA is vulnerable
+- <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>
+- Swap Weapons
+- <Skill name="Path of scars"/>
+- <Skill name="Whirling defense"/>
+- It should be phased now.
+
+**1st Add**
+- Help CCing with <Skill id="45743"/> 
+- Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>
+
+**2nd phase**
+
+When you go back back to MAMA autoattack on sword and use <Skill name="One Wolf Pack"/>
+- <Skill name="Path of scars"/> when it is off cd
+- Swap Weapons instantly and you should proc <Item id="84505"/>
+- <Skill name="Rapid Fire"/>
+- <Skill name="Cold Snap"/> to summon the frost spirit into the bubble
+- <Skill id="45743"/> 
+- <Skill id="41524"/>
+
+**2nd Add**
+- Help CCing with <Skill name="Point Blank Shot"/> 
+- Precast <Skill name="Barrage"/> to hit MAMA and the add
+- Use a mix of <Skill name="Rapid Fire"/> and autoattacks to kill it.
+
+**3rd phase**
+
+- <Skill name="Sicem"/> as soon as MAMA is vulnerable after the add is dead
+- <Skill id="45743"/> to get back to MAMA, CC and proc <Item id="84505"/>
+- Swap Weapons
+- <Skill name="Path of scars"/>
+- <Skill name="Whirling defense"/>
+- Autoattack if it isnt phased
+
+**3rd Add**  
+- Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>
+- Resummon your <Skill id="12497"/> as it has probably died by now
+
+**4th phase**
+- When MAMA becomes vulnerable use <Skill name="Path of scars"/> to CC
+- Swap Weapons
+- Continue CCing by using <Skill name="Point Blank Shot"/> and <Skill id="45743"/> 
+- <Skill name="Rapid Fire"/>
+- Use your dps skills as soon as they come off cd: <Skill name="Sicem"/>, <Skill name="One Wolf Pack"/> as well as weapon swapping and <Skill name="Path of scars"/> then <Skill name="Whirling defense"/>. Depending on kill speed this may not be possible
+
+</GridItem>
+
+</Grid>
+</GridItem>
+</Grid>
+</Tab>
+</Tabs>
 
 </Tab>
 <Tab title="Siax">
