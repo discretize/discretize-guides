@@ -1,6 +1,6 @@
 ---
 title: 'Weaver'
-date: '2019-10-10'
+date: '2020-03-23'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
@@ -414,13 +414,13 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 
 - Before the boss become vulnerable, cast <Skill id="5691"/> and <Skill id="21656"/> so that your party gets some might.
 - <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete auto attack chain on <Skill id="5492"/>/<Skill id="5494"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="5516"/>(Where you will go in the capture phase) -> <Skill id="5517"/> -> <Skill id="5531"/> ->  <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Complete auto attack chains and get as much damage as you can in the exposed duration.
+- Complete auto attack chains and get as much damage as you can in the <Effect name="exposed"/> duration.
 
 **33%**
 
 - Cast <Skill id="5531"/> on the <Skill id="5516"/> and drop it.
 - <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Complete auto attack chains and get as much damage as you can in the exposed duration.
+- Complete auto attack chains and get as much damage as you can in the <Effect name="exposed"/> duration.
 
 </Tab>
 </Tabs>
