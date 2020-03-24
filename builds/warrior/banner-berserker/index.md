@@ -1,6 +1,6 @@
 ﻿---
 title: 'Berserker'
-date: '2020-03-20'
+date: '2024-03-20'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
@@ -175,10 +175,6 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 * It is key that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your groups phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
 * Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
 
-**When to take Maces**
-* In fights with only one defiance bar in the beginning, use Mace/Mace
-* In T4s and encounters that have defiance bars during the fight, use an offhand mace only.
-
 **Extra notes:**
 * If your groups <Boon name="might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!
 * If you expect your party to be slow it can make sense to bring <Trait name="smashbrawler"/> and either eat the initial <Effect name="stun"/> of <Skill name="headbutt"/> or break it with <Item id="24"/>.
@@ -210,9 +206,12 @@ If using <Skill id="14483"/>:
 | <Skill id="14488"/> | 150 damage                     |
 | <Skill id="14487"/> | 100 damage                     |
 
+**When to take Maces**
+* In fights with only one defiance bar in the beginning, use Mace/Mace
+* In T4s and encounters that have defiance bars during the fight, use an offhand mace only.
 </Card>
 </GridItem>
-<GridItem sm="12">
+<GridItem sm="6">
 <Card title="Precast">
 * Precast banners - encounter specific. Check out the other tabs! 
 * Use both charges of <Skill name="For Great Justice!"/>. 
@@ -227,6 +226,33 @@ If using <Skill id="14483"/>:
     * <Skill name="Headbutt"/> 
 </Card>
 </GridItem>
+
+<GridItem sm="6">
+<Card title="Rotation">
+**Ultra short fights (3 seconds)**
+- <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>
+
+or depending on the phase length:
+- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
+- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
+
+**Short fights (6 seconds)**
+- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
+- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
+- <Skill name="whirlingaxe"/> and <Skill name="decapitate"/>
+- <Skill name="cycloneaxe"/>, <Skill name="chop"/> and <Skill name="decapitate"/>
+
+**Longer fights fights**
+- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
+- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
+- <Skill name="whirlingaxe"/> and <Skill name="decapitate"/>
+- <Skill name="cycloneaxe"/>, <Skill name="chop"/> and <Skill name="decapitate"/>
+- <Skill name="Throwaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>
+
+
+</Card>
+</GridItem>
+
 </Grid>
 
 </Tab>
@@ -772,7 +798,7 @@ It is not your job as <Specialization name="berserker"/> to slay the Temporal An
 
 ### **Prestacking**
 - Drop a <Item name="whitemantleportaldevice"/> near the mistlock and jump over to Arkk's platform using the special action key.
-- Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>, <Skill name="Banner of Discipline"/> and <Skill name="battlestandard"/>. 
+- Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>, <Skill name="Banner of Tactics"/> and <Skill name="battlestandard"/>. 
 - Take the portal back
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
