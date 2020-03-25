@@ -32,7 +32,7 @@ The build benefits heavily from slaying potions such as <Item id="50082"/> and <
 <Divider text="Equipment"/>
 
 <Tabs outlined>
-<Tab title="150 Agony Resistance">
+<Tab title="150 Agony Resistance"aaaaaaaaaaaaaaaaaaaaa>
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
