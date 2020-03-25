@@ -1,6 +1,6 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2020-03-14'
+date: '2020-03-25'
 rating: 'T4'
 role: 'Support'
 profession: 'Guardian'
@@ -60,8 +60,8 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </Card>
 <Card title="Wheelchair">
 In case your team downs all the time and you cannot keep your PUG friends alive, you can swap radiance for virtues. This however is NOT the default build and should only be played under extreme circumstances.
-<Traits traits1="Virtues" traits1Selected="Retaliatory Subconscious, Absolute Resolution, Battle Presence"/>
 </Card>
+<Traits traits1="Virtues" traits1Selected="Retaliatory Subconscious, Absolute Resolution, Battle Presence"/>
 </GridItem>
 
 <GridItem sm="5">
