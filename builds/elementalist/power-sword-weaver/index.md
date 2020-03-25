@@ -9,7 +9,7 @@ benchmark:
   {
     small: { dps: 35783, by: 'Roul [SC]', youtube: 'I58GSMPyKBM' },
   }
-skills: [5536, 5734, 5516, 44451, 5557]
+skills: [5734, 5516, 44451, 5557]
 traits: [1502, 226, 1503]
 boons: ['Fury', 'Might', 'Swiftness']
 conditions: ['Burning', 'Chilled', 'Vulnerability']
@@ -303,124 +303,124 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 <Tabs>
 <Tab title="Mama">
 **Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field.
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-- Use <Skill id="44612"/> instead of <Skill id="40183"/> for faster groups.
-- Swap to <Trait id="294"/> instead of <Trait id="1510"/> for self sufficient might. Recommended in Pugs every time.
-- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>. 
+- Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
+- Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
+- Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
+- Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>. 
 - Take the mistlock.
-- Go to the boss using <Skill id="5697"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss!
+- Go to the boss using <Skill id="5697"/> and drop your <Skill id="5516"/>. Cast <Skill id="5501"/> where MAMA spawns. Equip your Sword/Dagger and attune to <Skill id="5494"/>/<Skill id="5494"/> before the <Skill id="5501"/> animation finishes and start the boss!
+- 
+**General**
+- In faster groups, take <Skill id="44612"/> instead of <Skill id="40183"/>.
+- Take <Trait id="1510"/> instead of <Trait id="294"/> for self sufficient might. Recommended in Pugs every time.
 
 **100%**
-- Cast <Skill id="5737"/> just before boss becomes vulnerable.
+- Cast <Skill id="5737"/> just before MAMA becomes vulnerable.
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="44612"/> -><Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>.
-- If the CC Bar is not broken when you use <Skill id="44612"/> then do <Skill id="5691"/> -> <Skill id="44451"/> -><Skill id="5557"/> so that you might get <Skill id="5557"/> in the break bar.
-- Use <Skill id="5539"/> as soon as MAMA is broken.
+- If the CC Bar is not broken when you use <Skill id="44612"/> then cast <Skill id="5691"/> -> <Skill id="44451"/> -><Skill id="5557"/> so that you might get <Skill id="5557"/> in the break bar.
+- Cast <Skill id="5539"/> as soon as MAMA is broken.
 
-**Knight**
-- Use <Skill id="44998"/>  and auto attack on <Skill id="5494"/>/<Skill id="5492"/>.
+**1st Knight**
+- Cast <Skill id="44998"/>  and auto attack on <Skill id="5494"/>/<Skill id="5492"/>.
 - Throw your <Skill id="5516"/> where the 2nd knight spawns.
-- At 25% use <Skill id="5697"/> towards the boss through the knight and swap to <Skill id="5494"/>/<Skill id="5494"/>.
+- At 25% use <Skill id="5697"/> towards MAMA through the knight and attune to <Skill id="5494"/>/<Skill id="5494"/>.
 
 **75%**
-- Use <Skill id="5531"/> at the middle even if MAMA is not there because it will port there anyway and drop your <Skill id="5516"/>.
+- Cast <Skill id="5531"/> in the middle even if MAMA is not there because she will port there anyway and drop your <Skill id="5516"/>.
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5539"/> -><Skill id="44612"/> -><Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>.
-- Swap directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> buff and continue to auto attack till MAMA phases again.
+- Attune directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> and continue to auto attack till MAMA phases again.
 
-**Knight**
-- Use <Skill id="44998"/>  and pick up <Skill id="5516"/>. 
-- Use <Skill id="5517"/> and auto attack on <Skill id="5494"/>/<Skill id="5494"/> till the knight is about to die.
-- When the knight is about to die use <Skill id="5697"/> towards MAMA.
+**2nd Knight**
+- Cast <Skill id="44998"/> and pick up <Skill id="5516"/>. 
+- Cast <Skill id="5517"/> and auto attack on <Skill id="5494"/>/<Skill id="5494"/> till the knight is about to die.
+- When the knight is about to die, cast <Skill id="5697"/> towards MAMA.
 
 **50%**
-- Use <Skill id="5531"/>  and drop your <Skill id="5516"/>. Then use <Skill id="5687"/> to CC.
+- Cast <Skill id="5531"/>  and drop your <Skill id="5516"/>, then cast <Skill id="5687"/> to CC.
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5539"/> -><Skill id="44612"/> -><Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>.
-- Swap directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> buff and continue to auto attack till MAMA phases again.
+- Attune directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> and continue to auto attack till MAMA phases again.
 
-**Knight**
-- Use <Skill id="44998"/>  and auto attack on <Skill id="5494"/>/<Skill id="5494"/> till the knight is about to die.
+**3rd Knight**
+- Cast <Skill id="44998"/>  and auto attack on <Skill id="5494"/>/<Skill id="5494"/> till the knight is about to die.
 
 **25%**
-- Use <Skill id="5737"/>  it before MAMA jumps in the air after that dodge INTO her, stand behind her to evade the two spins of her spinspin-slam attack and start your burst; this should not be necessary if the cc is good
+- Cast <Skill id="5737"/> before MAMA jumps and dodge TOWARDS her when she does, then stand behind her to evade the two spins of her double spin slam attack and start your burst; you do not have to avoid the spins if the cc is good.
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5539"/> -><Skill id="44612"/> -><Skill id="5691"/> -> <Skill id="44451"/> -><Skill id="5557"/>.
-- Swap directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> buff and continue to auto attack till MAMA phases again.
+- Attune directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> and continue to auto attack till MAMA is dead.
 
 
 </Tab>
 
 <Tab title="Siax">
 **Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-
-- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>. 
+- Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
+- Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
+- Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
+- Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>. 
 - Take the mistlock.
-- Go to the middle using <Skill id="5697"/>, use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss!
+- Go to the boss using <Skill id="5697"/>. Cast <Skill id="5531"/>, drop your <Skill id="5516"/> and cast <Skill id="5501"/> where Siax spawns. Equip your Sword/Dagger and attune to <Skill id="5494"/>/<Skill id="5494"/> before the <Skill id="5501"/> animation finishes and start the boss!
 
 **General**
-- For slower groups you will use <Skill id="5737"/> at 100% and 33%.
-- For faster groups use <Skill id="5737"/> at 66%.
+- In slower groups, cast <Skill id="5737"/> at 100% and 33%.
+- In faster groups, cast <Skill id="5737"/> at 66%.
 
 **100%**
-- Use <Skill id="5737"/> (assuming slower group) as soon as the boss starts.
+- Cast <Skill id="5737"/> (assuming slower group) as soon as the boss starts.
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5687"/> -> <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Dont use your second <Skill id="45313"/> as you need it for the echo.
+- Dont cast your <Skill id="45313"/> a second time as you need it for the echo.
 
 
-**Echo**
+**1st Echo**
 - Cast <Skill id="45313"/> and swap to <Skill id="5494"/>/<Skill id="5492"/>
-- Cast <Skill id="5516"/> where the second echo spawns, use <Skill id="5517"/> and the go behind the echo and use <Skill id="5697"/> towards the middle while swapping to <Skill id="5494"/>/<Skill id="5494"/> at the same time.
+- Cast <Skill id="5516"/> where the second echo spawns, use <Skill id="5517"/> and the go behind the echo and use <Skill id="5697"/> towards the middle while attuning to <Skill id="5494"/>/<Skill id="5494"/> at the same time.
 
 **66%**
-- Cast <Skill id="5531"/> and <Skill id="5737"/>(If you did not use it at 100%) just before Siax gets vulnerable.   
+- Cast <Skill id="5531"/> and <Skill id="5737"/> (if you did not use it at 100%) just before Siax becomes vulnerable.   
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/>  -> <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Continue auto attack chain till siax phases(or repeat the rotation if the dps is super low).
-**Echo**
+- Continue your auto attack chain till siax phases (or repeat the rotation if the dps is super low).
+- 
+**2nd Echo**
 - Same as previous echo.
+- 
 **33%**
-- Cast <Skill id="5531"/> and <Skill id="5737"/>(If you used it at 100%) just before Siax gets vulnerable.   
+- Cast <Skill id="5531"/> and <Skill id="5737"/> (if you used it at 100%) just before Siax becomes vulnerable.   
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/>  -> <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
 
 **Tryhard/Coordinated groups**
-- Run <Skill id="5624"/> instead of <Skill id="5539"/> with <Trait id="328"/> trait. Precast your first <Skill id="5624"/> before taking mistlock.
+- Take <Skill id="5624"/> instead of <Skill id="5539"/> with <Trait id="328"/> trait. Precast your first <Skill id="5624"/> before taking mistlock.
 - Use <Skill id="5737"/> at 66%.
 
 </Tab>
 <Tab title="Ensolyss">
 **Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-
-- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>. 
+- Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
+- Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
+- Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
+- Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>. 
 - Take the mistlock.
-- Go to the middle using <Skill id="5697"/>, use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss. Its better to get someone else to start the boss for you since u might get knocked in the middle.
-
+- Cast <Skill id="5531"/>, drop your <Skill id="5516"/> and cast <Skill id="5501"/> where Ensolyss spawns. Equip your Sword/Dagger and attune to <Skill id="5494"/>/<Skill id="5494"/> before the <Skill id="5501"/> animation finishes and start the boss!
+- 
 **100%**
-
 - <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Complete AA chains and repeat burst till the boss phases.
+- Complete your auto attack chains and repeat burst till Ensolyss phases.
 
-**Capture Phase**
+**1st Capture Phase**
 
 -Just don't die.
 
 **66%**
+- Before the boss becomes vulnerable, cast <Skill id="5691"/> and <Skill id="21656"/> so that your party gets some might.
+- <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete your auto attack chain on <Skill id="5492"/>/<Skill id="5494"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="5516"/> (To the point you will stand during the capture phase) -> <Skill id="5517"/> -> <Skill id="5531"/> ->  <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
+- Complete your auto attack chains and get as much damage as you can in the <Effect name="exposed"/> duration. 
 
-- Before the boss become vulnerable, cast <Skill id="5691"/> and <Skill id="21656"/> so that your party gets some might.
-- <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete auto attack chain on <Skill id="5492"/>/<Skill id="5494"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="5516"/>(Where you will go in the capture phase) -> <Skill id="5517"/> -> <Skill id="5531"/> ->  <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Complete auto attack chains and get as much damage as you can in the <Effect name="exposed"/> duration.
+**2nd Capture Phase**
+
+-Just don't die.
 
 **33%**
-
-- Cast <Skill id="5531"/> on the <Skill id="5516"/> and drop it.
+- Cast <Skill id="5531"/> and drop your <Skill id="5516"/>.
 - <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Complete auto attack chains and get as much damage as you can in the <Effect name="exposed"/> duration.
+- Complete your auto attack chains and get as much damage as you can in the <Effect name="exposed"/> duration.
 
 </Tab>
 </Tabs>
@@ -432,44 +432,43 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 <Tabs>
 <Tab title="Skorvald">
 **Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-- Swap to staff and <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>.
+- Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
+- Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
+- Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
+- Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>. 
 - Take the mistlock.
-- Go to the boss and use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger, swap to <Skill id="5494"/>/<Skill id="5494"/> and start the boss!
+- Cast <Skill id="5531"/>, drop your <Skill id="5516"/> and cast <Skill id="5501"/> where Skorvald spawns. Equip your Sword/Dagger and attune to <Skill id="5494"/>/<Skill id="5494"/> before the <Skill id="5501"/> animation finishes and start the boss!
 
 
 
 **100%**
-- Use <Skill id="5737"/> right as the boss comes down.
-- Use <Skill id="5687"/> to CC the boss and do your burst.
+- Cast <Skill id="5737"/> right as Skorvald spawns.
+- Cast <Skill id="5687"/> to CC Skorvald and do your burst.
 
 **Anomalies**
 - Make sure to blast your fire fields and use <Skill id="5529"/> to travel faster between anomalies.
-- Drop your <Skill id="5516"/> on the 4th platform before taking the portal back to the boss.
+- Drop your <Skill id="5516"/> on the 4th platform before taking the Portal back to the boss.
 - Don't get knocked, jump/dodge the waves.
-- Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the portal back to the boss.
+- Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the Portal back to Skorvald.
 
 **66%**
 - Start with <Skill id="5531"/> on your <Skill id="5516"/>, drop it.
-- Use <Skill id="5737"/> and do your burst.
+- Cast <Skill id="5737"/> and do your burst.
 
 **Anomalies**
-- Make sure to blast your fire fields and use <Skill id="5529"/> to travel faster between anomalies.
+- Make sure to blast your fire fields and cast <Skill id="5529"/> to travel faster between anomalies.
 
 - Don't get knocked, jump/dodge the waves.
-- Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the portal back to the boss.
+- Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the Portal back to the boss.
  
 
 **33%**
-- Use <Skill id="5687"/> to CC the boss and do your burst.
+- Cast <Skill id="5687"/> to CC the boss and do your burst.
 - Be on max melee range before the boss starts spinning, dont die like a scrub.
 
 **Tryhard/Static run**
-- Use <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases(Also ez might).
-- Make sure to drop the <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="soulbeast"/> can pick it up before taking the portal
+- Take <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases (Also ez might).
+- Make sure to drop your <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="soulbeast"/> can pick it up before taking the Portal
 <Message>
 One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four _Elite Flux Anomalies_. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
 </Message>
@@ -479,27 +478,26 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 </Tab>
 <Tab title="Artsariiv">
 **Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-- Swap to staff and <Skill id="5492"/>/<Skill id="5495"/> and then use <Skill id="5516"/>.
+- Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
+- Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
+- Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
+- Equip a staff and cast <Skill id="5516"/>. 
 - Take the mistlock.
-- As soon as someone catches an orb to start the boss use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="43762"/> , <Skill id="5548"/> and swap to<Skill id="5492"/>/<Skill id="5492"/> and use <Skill id="5501"/> on your staff . Then equip sword/dagger. This is a tight precast so make sure you practice it.
+- As soon as someone catches an orb to start the encounter, use <Skill id="5531"/> and drop your <Skill id="5516"/>. Cast <Skill id="43762"/>, <Skill id="5548"/>, attune to <Skill id="5492"/>/<Skill id="5492"/> and cast <Skill id="5501"/>, then equip sword/dagger. This is a tight precast so make sure you practice it.
 
 **100%**
-- Use <Skill id="45313"/>,<Skill id="5557"/> and <Skill id="44451"/> when the boss is at the the middle. Then use Nova Launch to go the boss at the corner when she moves and switch to <Skill id="5494"/>/<Skill id="5494"/> and use <Skill id="5737"/>.
+- Cast <Skill id="45313"/>, <Skill id="5557"/> and <Skill id="44451"/> when Artsariiv is in the the middle. Use Nova Launch when she moves and attune to <Skill id="5494"/>/<Skill id="5494"/> to cast <Skill id="5737"/>.
 - Use <Skill id="5687"/> to break the CC bar.
 
 **Split Phase**
-- Use <Skill id="44998"/> and <Skill id="5687"/>.
+- Cast <Skill id="44998"/> and <Skill id="5687"/>.
 - Use >metal rod<. 
 
 **66%**
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
 - Blast your fire field for might in the middle.
-- Use nova launch to go to the corner.
-- Use <Skill id="5737"/> if off cd, else use <Skill id="5736"/> and deeps.
+- Use Nova Launch to go to the corner.
+- Use <Skill id="5737"/> if it's off cd, else use <Skill id="5736"/> and deeps.
 
 **33%**
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
@@ -520,31 +518,30 @@ Advanced groups can let the second _Corporeal Reassignment_ trigger and `/gg` th
 </Tab>
 <Tab title="Arkk">
 **Precast**
-- Start on sword/Dagger and <Skill id="5506"/> and <Skill id="5635"/>
-- Start on <Skill id="5495"/>/<Skill id="5492"/> and use <Skill id="5691"/> to provide a fire field and blast it with <Skill id="40709"/>. 
-- Swap to <Skill id="5492"/>/<Skill id="5495"/> and the use <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> to blast your fire field..
-- Use <Skill id="5506"/> and <Skill id="5635"/> and swap back to <Skill id="5734"/> and<Skill id="5539"/>
-- Swap to  <Skill id="5494"/>/<Skill id="5492"/> and then use <Skill id="5516"/>.
+- Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
+- Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
+- Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
+- Equip a staff and cast <Skill id="5516"/>. 
 - Take the mistlock.
 
 **Tryhard Precast**
 - **Do this only if you are on voice with your static**.
-- Use Nova Launch/portal to go the the platform early and use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it. Use <Skill id="5501"/> on your staff . Then equip sword/dagger and shout on voice to start the boss. This is a tight precast so make sure you practice it otherwise staff weaver RIP.
+- Use Nova Launch/Portal to go the the platform early, cast <Skill id="5531"/> and drop your <Skill id="5516"/>. Cast <Skill id="5501"/> on your staff, then equip your Sword/Dagger and shout on voice to start the boss. This is a tight precast so make sure you practice it otherwise staff weaver RIP.
 
 **100%**
-- Go <Skill id="5494"/>/<Skill id="5494"/> as soon as the boss starts and use <Skill id="5531"/> on your <Skill id="5516"/> and then drop it and follow with <Skill id="5737"/>  and the usual burst.
+- Attune to <Skill id="5494"/>/<Skill id="5494"/> as soon as the encounter starts. Cast <Skill id="5531"/>, <Skill id="5737"/> and <Skill id="5697"/> with Nova Launch inside the hitbox. Then, drop your <Skill id="5516"/> and follow with the usual burst.
 
 **Solar Bloom**
-- For this phase start on <Skill id="5494"/>/<Skill id="5492"/> and auto attack the bloom once and then attune <Skill id="5494"/>/<Skill id="5494"/> to trigger <Trait id="222"/> on the bloom to push it into the pillar. This is the fastest way to do your bloom.
+- For this phase start on <Skill id="5494"/>/<Skill id="5492"/> and auto attack the bloom once, then attune to <Skill id="5494"/>/<Skill id="5494"/> to trigger <Trait id="222"/> on the bloom to push it into the pillar. This is the fastest way to do your bloom.
 
 **80% and 50%**
 - <Skill id="43803"/> -> <Skill id="43074"/> -> <Skill id="5529"/> -> <Skill id="45313"/> -> <Skill id="44451"/> -> <Skill id="5557"/>.
 
 **70%**
-- Use <Skill id="5737"/> and the usual burst.
+- Cast <Skill id="5737"/> and the usual burst.
 
 **40%**
-- Precast <Skill id="5516"/> as the phase is starting and use <Skill id="5531"/> and <Skill id="5697"/> with Nova Launch inside the hitbox and the drop it.
+- Precast <Skill id="5516"/> as the phase is starting, cast <Skill id="5531"/> and <Skill id="5697"/> with Nova Launch inside the hitbox and the drop it.
 
 **30%**
 - Pick up the <Skill id="5516"/> and open with <Skill id="5531"/> and the drop it. Use <Skill id="5737"/> and follow with the usual burst.
