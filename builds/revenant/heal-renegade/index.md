@@ -218,7 +218,7 @@ You will need to reconsider the legends you are running in almost every fractal 
 
 **Precast**
 * Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
-* Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Waves"/> and take the mistlock and cast them again.
+* Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100 - 75%**  
 
@@ -281,7 +281,7 @@ You will need to reconsider the legends you are running in almost every fractal 
 
 **Precast**  
 * Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
-* Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Waves"/> and take the mistlock and cast them again.
+* Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 * Ask your <Specialization name="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation. It is not needed, but it doesn't take anything away from the weaver and is a group DPS increase as well as 300 CC.
 
 **100 - 66%**   
@@ -340,7 +340,7 @@ You will need to reconsider the legends you are running in almost every fractal 
 
 **Precast**  
 * Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
-* Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Waves"/> and take the mistlock and cast them again.
+* Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-66%**
 * Cast <Skill name="IcerazorsIre"/> and <Skill name="DarkrazorsDaring"/> on the red circle that appears where Ensolyss will spawn just as he starts appearing. Be sure to be on time because if you cast them too early, they will get knocked back and if you are too late you will not have time to cast <Skill name="Surgeofthemists"/> to break the defiance bar.
@@ -369,7 +369,7 @@ You will need to reconsider the legends you are running in almost every fractal 
 * Cast <Skill name="Icerazors Ire"/>, <Skill name="Orders from Above"/> for <Boon name="Alacrity"/>, <Skill name="Heroic Command"/> for <Boon name="Might"/>, and <Skill name="Soulcleaves Summit"/>.
 * Use <Skill name="Surge of the mists"/> to break the defiance bar immediately. Be aware of energy management.
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
-* Use <Skill name="Chilling isolation"/>, <Skill name="Citadel Bombardment"/> and <Skill name="Shackling Waves"/> on Ensolyss. You should be able to cast <Skill name="Chilling isolation"/> twice when Ensolyss is <Effect name="Exposed"/>.
+* Use <Skill name="Chilling isolation"/>, <Skill name="Citadel Bombardment"/> and <Skill name="Shackling Wave"/> on Ensolyss. You should be able to cast <Skill name="Chilling isolation"/> twice when Ensolyss is <Effect name="Exposed"/>.
 * Share <Boon name="Alacrity"/> and <Boon name="Might"/> off cooldown.
 
 *In the case of teleporting to the edge of the platform.*
