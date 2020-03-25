@@ -55,6 +55,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 If you use <Trait name="Perfectinscriptions"/> you are lacking crit chance, therefore the assassins pieces. You can of course mitigate this by increasing your agony resistance. 
 
 It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="guardian"/> or another source of <Boon name="Retaliation"/>.
+
 </Card>
 </GridItem>
 </Grid>
@@ -85,6 +86,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 </Grid>
 </Tab>
+
 </Tabs>
 
 <Divider text="Build"/>
@@ -205,11 +207,15 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 </Tab>
 
 <Tab title="99CM">
+
 <Divider text="Nightmare"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [Nightmare fractal page](/fractals/nightmare) for general encounter information!
+
 <Tabs>
+
 <Tab title="Mama">
+
 ### **Note**
 The following guide assumes you are playing with a decent group. In a PuG scenario it makes sense to replace the <Skill name="hammer of wisdom"/> with [consumables](/guides/consumables).
 
@@ -268,6 +274,7 @@ The following guide assumes you are playing with a decent group. In a PuG scenar
 8) <Skill name="zealots defense"/> (if Mama is not dead yet)
 
 </Tab>
+
 <Tab title="Siax">
 
 <Message>
