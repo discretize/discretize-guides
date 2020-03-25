@@ -1,13 +1,13 @@
-﻿---
+---
 title: 'Power Tempest'
 date: '2019-10-10'
 rating: 'T4'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Tempest'
-benchmark: { large: { dps: 36152, by: 'Roul [SC]', youtube: '8LnAONl_a5w' } }
-skills: [5536, 29719, 30432, 5734, 5624, 5516]
-traits: [1502, 1839, 1503]
+benchmark: { large: { dps: 37260, by: 'Roul [SC]', youtube: 'klxKPDYxxTc' } }
+skills: [29719, 5734, 5624, 5516]
+traits: [1502, 1503, 1839]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection', 'Vigor', 'Stability']
 conditions: ['Weakness', 'Vulnerability', 'Blind', 'Burning', 'Bleeding']
 code: '[&DQYRPikvMBsXARcBQgHLAL4BTgFQAVABlwCZEgAAAAAAAAAAAAAAAAAAAAA=]'
@@ -15,7 +15,7 @@ code: '[&DQYRPikvMBsXARcBQgHLAL4BTgFQAVABlwCZEgAAAAAAAAAAAAAAAAAAAAA=]'
 
 The <Specialization name="Tempest" text="Power Tempest"/> is a strong DPS variant for fractals with various utilities the <Specialization name="weaver"/> counterpart doesn't offer.
 
-It has very high burst damage in fast-paced fights and its overall DPS is only contested by the [Sword Weaver](/builds/elementalist/power-sword-weaver) and [Staff Weaver](/builds/elementalist/power-staff-weaver) on huge hitboxes.  
+It has very high burst damage in fast-paced fights and its overall DPS is only contested by the [Sword Weaver](/builds/elementalist/power-sword-weaver) on huge hitboxes.  
 Thanks to <Skill name="Overload Air"/> the group's damage is buffed by around 1k DPS, so at least one <Specialization name="Tempest"/> is never a bad idea when thinking about group composition.
 
 Apart from great DPS, the build afflicts tons of <Condition name="vulnerability"/> and helps keeping up <Boon name="might"/> with <Skill name="Heat Sync"/>.
@@ -92,7 +92,7 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Water" traits1SelectedIds="363,349,2028" traits2="Air" traits2Selected="Ferocious Winds, Stormsoul, Fresh Air" traits3="Tempest" traits3SelectedIds="1886,1902,1839"/>
+<Traits traits1="Water" traits1SelectedIds="363,349,361" traits2="Air" traits2Selected="Ferocious Winds, Stormsoul, Fresh Air" traits3="Tempest" traits3SelectedIds="1886,1902,1839"/>
 
 <Card title="Situational Skills">
 | | |
@@ -115,16 +115,13 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="Glyph of Elemental Harmony" utility1="Conjure Lightning Hammer" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
-<Card title="Note about Druid">
-The builds are without <Specialization name="Druid"/> since the Glyph of Empowerment skill got removed from the game. <Specialization name="Druid"/> no longer grants damage boost aside from <Skill name="Frost Spirit"/> (<Specialization name="Soulbeast"/> can take that), thus making the Renegade/Firebrand comp even more dominant.
+<Skills heal="Arcane Brilliance" utility1="Conjure Lightning Hammer" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
 
-You can still use the [Gear Optimizer](http://old.discretize.eu) if you still play with druid.
-</Card>
 <Card title="Situational Traits">
 | | |
 | -- | -- |
 | <Trait name="Gale Song" size="big" disableText/> | Useful automatic group stunbreak for things like <Instability name="Last Laugh"/> or bosses like MAMA. |
+| <Trait name="Soothing Power" size="big" disableText/> | Use this instead of <Trait name="Powerful Aura"/> when you are not using <Trait name="Unstable Conduit"/>  . |
 | <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 </Card>
