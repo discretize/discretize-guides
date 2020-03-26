@@ -1,6 +1,6 @@
 ---
 title: 'Nightmare'
-date: '2020-03-15'
+date: '2020-03-27'
 image: './images/ensolyss_crazy.jpg'
 group: 'Challenge Mode'
 api: 3177
