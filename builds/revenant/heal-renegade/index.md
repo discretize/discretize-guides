@@ -1,6 +1,6 @@
 ---
 title: 'Heal Renegade'
-date: '2020-03-25'
+date: '2020-03-26'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Revenant'
@@ -9,12 +9,12 @@ skills: [45773, 44076, 27025, 45686, 27505]
 traits: [1802, 1814]
 boons: ['Alacrity', 'Might', 'Stability', 'Regeneration', 'Resistance', 'Protection']
 conditions: ['Vulnerability']
-code: '[&DQkMPw8ePz/cEdwRBhIGEisS1BHUESsSyhHKERESDwAAAAAAAAAAAAAAAAA=]'
+code: '[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]'
 author: 'Janitsu.6284'
 ---
 <Tabs>
 <Tab title="Build">
-For **<Specialization text="Heal Renegade" name="Renegade"/>** we have chosen Harrier and Cleric for maximum power and healing power while while still hitting 100% boon duration because <Skill name="Soulcleaves Summit" /> deals damage and lifesteals based on the **<Specialization text="Heal Renegade" name="Renegade"/>**'s own power and healing power.
+For **<Specialization text="Heal Renegade" name="Renegade"/>** we have chosen Harrier and Cleric for maximum power and healing power while still hitting 100% boon duration because <Skill name="Soulcleaves Summit" /> deals damage and lifesteals based on the **<Specialization text="Heal Renegade" name="Renegade"/>**'s own power and healing power.
 Feel free to run full Harrier if you are confident that you don't need the extra healing power or toughness from Cleric. the more agony resistance you have, the more Cleric you can afford to run and still  hit 100% boon duration.
 
 <Divider text="Equipment"/>
@@ -57,6 +57,8 @@ If you feel your energy runs out too quick, we recommend the Salvation/Incovatio
 You should consider running this trait variant in fractals like Molten Furnace and Captain Mai Trin.
 
 <Traits traits1="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists"/>
+
+Template code: `[&DQkDJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]`
 </Card>
 </GridItem>
 
@@ -205,6 +207,11 @@ You will need to reconsider the legends you are running in almost every fractal 
 <Divider text="Nightmare"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [Nightmare fractal page](/fractals/nightmare) for general encounter information!
+
+<Message>
+These rotations are **not** set in stone and therefore you should adjust your gameplay with how your party plays. Pay attention to the length of the phases, any upcoming CC that might be needed and also pay attention to your energy and the management thereof.
+</Message>
+
 <Tabs outlined>
 <Tab title="MAMA">
 
@@ -313,7 +320,7 @@ You will need to reconsider the legends you are running in almost every fractal 
 **33-0%**  
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>
-* Cast <Skill name="SoulcleavesSummit"/> for the group and try to keep it up as much as possible. If you CC Siax again at the end of this phase, swap to <Skill name="Legendary Centaur Stance"/> and use <Skill name="Chilling isolation"/>, <Skill name="Shackling waves"/> and <Skill name="Citadel Bombardment"/> to deal damage when Siax is <Effect name="Exposed"/>.
+* Cast <Skill name="SoulcleavesSummit"/> for the group and try to keep it up as much as possible. If you CC Siax again at the end of this phase, swap to <Skill name="Legendary Centaur Stance"/> and use <Skill name="Chilling isolation"/>, <Skill name="Shackling wave"/> and <Skill name="Citadel Bombardment"/> to deal damage when Siax is <Effect name="Exposed"/>.
 ---
 
 </GridItem>
@@ -344,7 +351,7 @@ You will need to reconsider the legends you are running in almost every fractal 
 
 **100-66%**
 * Cast <Skill name="IcerazorsIre"/> and <Skill name="DarkrazorsDaring"/> on the red circle that appears where Ensolyss will spawn just as he starts appearing. Be sure to be on time because if you cast them too early, they will get knocked back and if you are too late you will not have time to cast <Skill name="Surgeofthemists"/> to break the defiance bar.
-* Use <Skill name="Surgeofthemists"/> to break the defiance bar. Swap to your swords and swap to <Skill name="LegendaryCentaurStance"/> and use your high damage skills (<Skill name="Chilling isolation"/> and <Skill name="Shackling waves"/>) when Ensolyss is <Effect name="Exposed"/>.
+* Use <Skill name="Surgeofthemists"/> to break the defiance bar. Swap to your swords and swap to <Skill name="LegendaryCentaurStance"/> and use your high damage skills (<Skill name="Chilling isolation"/> and <Skill name="Shackling wave"/>) when Ensolyss is <Effect name="Exposed"/>.
 * Share <Boon name="Might"/> and <Boon name="Alacrity"/> with <Skill name="Ordersfromabove"/> and <Skill name="Heroic Command"/>.
 * When Ensolyss is no longer <Effect name="Stun"/>ned you will need to make sure to cleanse <Condition name="Bleeding"/> from your allies and keep them relatively healthy for the upcoming **orb phase**.
 
@@ -357,7 +364,7 @@ You will need to reconsider the legends you are running in almost every fractal 
 * Cast <Skill name="Icerazors Ire"/>, <Skill name="Orders from Above"/> for <Boon name="Alacrity"/>, <Skill name="Heroic Command"/> for <Boon name="Might"/>, and <Skill name="Soulcleaves Summit"/>.
 * Use <Skill name="Surge of the mists"/> to break the defiance bar immediately. Be aware of energy management.
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
-* Use <Skill name="Chilling isolation"/>, <Skill name="Citadel Bombardment"/> and <Skill name="Shackling Waves"/> on Ensolyss. You should be able to cast <Skill name="Chilling isolation"/> twice when Ensolyss is <Effect name="Exposed"/>.
+* Use <Skill name="Chilling isolation"/>, <Skill name="Citadel Bombardment"/> and <Skill name="Shackling Wave"/> on Ensolyss. You should be able to cast <Skill name="Chilling isolation"/> twice when Ensolyss is <Effect name="Exposed"/>.
 * Share <Boon name="Alacrity"/> and <Boon name="Might"/> off cooldown.
 
 **Orb Phase**
@@ -390,58 +397,59 @@ You will need to reconsider the legends you are running in almost every fractal 
 <Divider text="Shattered Observatory"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
+
+<Message>
+These rotations are **not** set in stone and therefore you should adjust your gameplay with how your party plays. Pay attention to the length of the phases, any upcoming CC that might be needed and also pay attention to your energy and the management thereof.
+</Message>
+
 <Tabs outlined>
 <Tab title="Skorvald">
 
 <GridItem sm="12">
 
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
-
----
-
-**Suggested Boon Duration** `80%`
-
-Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
+* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
 
 ---
 
 **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-66%**  
 * Precast <Skill name="Darkrazors Daring"/> when the <Specialization name="Weaver"/> is casting <Skill name="Meteorshower"/>.
 * Cast <Skill name="Icerazors Ire"/> right before triggering the instance.
 * Use <Skill name="Surge of the Mists"/> through Skorvald to break the defiance bar. Be aware of positioning to gain an extra hit.
-* Weapon swap and change to <Skill name="Legendary Assassin Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/> and <Skill name="Chilling Isolation"/>.
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from above"/> when the phase ends.
+* Weapon swap and change to <Skill name="Legendary Dwarf Stance"/>.
+* Use your low energy skill <Skill name="Chilling Isolation"/> but save your energy for anomalies since you will provide stability for your whole team using <Skill name="Inspiring Reinforcement"/>.
+* Use <Skill name="Orders from Above"/> to share <Boon name="Alacrity"/> – if the phase is longer than 10 seconds you can use <Skill name="Heroic Command"/> to share might on the main platform as well, it should be off cooldown at the first or the second add.
 
 **1st Add**
-* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Change to <Skill name="Legendary Renegade Stance"/>.
-* Use <Skill name="Chilling Isolation"/>.
+* As soon as you get to the island you want to use <Skill name="Inspiring Reinforcement"/> and <Skill name="Vengeful Hammers"/>.
+* Use <Skill name="Heroic Command"/> to share <Boon name="Might"/>.
+* Swap to <Skill name="Legendary Renegade Stance"/> before you get into the updraft. You can change legends if you enter the updraft by running into it and not by jumping into it. Also swap to Staff weapon set to be able to use <Skill name="Renewing Wave"/>.
 
 **2nd Add**  
-* Cast <Skill name="Icerazors Ire"/> while the add is charging the knockback attack.
-* Use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
-* Change to <Skill name="Legendary Assassin Stance"/>.
+* Use <Skill name="SoulcleavesSummit"/> on the island as soon as you land on it. Blast the fire field with <Skill name="Renewing Wave"/>
+* When the add is about to finish the channeled jump, use <Skill name="Citadel Bombardment"/> to deal as much damage as possible.
+* Try to swap into <Skill name="Legendary Dwarf Stance"/> before taking the updraft.
 
 **3rd Add**
+* Use <Skill name="Inspiring Reinforcement"/> to share <Boon name="Stability"/> as soon as you land on the island.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
-
-**4th Add**  
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> on the add after the knockback attack.
-* Deplete your energy as much as you can and change to <Skill name="Legendary Renegade Stance"/>.
+
+**4th Add**
+* Use <Skill name="Inspiring Reinforcement"/> to share <Boon name="Stability"/> as soon as you land on the island.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
+* When the add is about to finish the channeled jump, use <Skill name="Citadel Bombardment"/> to deal as much damage as possible.
+* Swap to <Skill name="Legendary Renegade Stance"/> before the anomaly is dead.
+
 
 **66-33%**
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> immediately.
-* Deplete your energy with <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
-* Change to <Skill name="Legendary Assassin Stance"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>.
+* Keep <Skill name="SoulcleavesSummit"/> up as long as possible. In shorter phases you can consider using <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
 * Share <Boon name="alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
 
 **Adds**
@@ -450,10 +458,9 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 **33-0%**
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> immediately.
-* Deplete your energy with <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
-* Change to <Skill name="Legendary Assassin Stance"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>.
-* Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> until the encounter is finished.
+* Keep <Skill name="SoulcleavesSummit"/> up as long as possible. In shorter phases you can consider using <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
+* Share <Boon name="alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
+* If Skorvald is not dead before he starts using Solar Cyclone (the attack where he spins around and knocks you back) switch to <Skill name="Legendary Dwarf Stance"/> and use <Skill name="Inspiring Reinforcement"/> before he starts using afromentioned attack.
 
 ---
 
@@ -493,14 +500,9 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 ---
 
-**Suggested Boon Duration** `80%`
-
-Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/> during the phases.
-
----
-
 **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-66%**
 * Precast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
@@ -516,7 +518,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Use <Skill name="Forced Engagement"/> and <Skill name="Shackling Wave"/> to break the adds defiance bar.
 
 
-**66-33%*
+**66-33%**
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle.
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
 * Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
@@ -548,11 +550,10 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 ---
 
 **Annotation**
-* After using <Skill name="Inspiring Reinforcement"/>, make sure you gain the extra energy from <Trait name="Charged Mists"/> in the first phase.
 * Time <Skill name="Inspiring Reinforcement"/> so that <Boon name="Stability"/> last long enough for the AoE attack in the middle.
 * Use special action key while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
-* Be aware of energy management before changing to <Skill name="Legendary Renegade Stance"/> in the middle, to gain the extra energy from <Trait name="Charged Mists"/>.
 
+This part of the guide was taken from [Casual Sophie](https://www.youtube.com/channel/UCh3JEHa_zLroJYrtaftdQzw)'s Renegade guide that you can find [here](/builds/revenant/hybrid-renegade)
 
 </GridItem>
 </Tab>
@@ -582,83 +583,66 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 <GridItem sm="12">
 
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
-
----
-
-**Suggested Boon Duration** `80%`
-
-Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
+* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Centaur Stance"/>.
 
 ---
 
 **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-80%**
-* Cast <Skill name="Soulcleaves Summit"/> on Arkk and auto attack until the Anomaly appear.
-* Cast <Skill name="Icerazors Ire"/> on the Anomaly.
-* Change to <Skill name="Legendary Assassin Stance"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to finish the Anomaly.
-* Use <Skill name="Deathstrike"/> to quickly get back to Arkk.
-* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Deplete your energy with <Skill name="Chilling Isolation"/>.
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
+* Use <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/> and <Skill name="Chilling isolation"/> and swap to <Skill name="Legendary Centaur Stance"/>.
+* Use <Skill name="Natural Harmony"/> to give <Boon name="Alacrity"/> to your allies and to keep them topped up for the orb phase.
+* If this phase is a bit long, you can share <Boon name="Alacrity"/> and <Boon name="Might"/> with <Skill name="Ordersfromabove"/> and <Skill name="Heroic command"/>.
+* Once Arkk turns invulnerable, swap to staff weapon set and swap to <Skill name="Legendary Renegade Stance"/>.
 
 **80-70%**
-* Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location.
+* Cast <Skill name="SoulcleavesSummit"/> on Arkk to create a fire field.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/>.
+* Weapon swap and change to <Skill name="Legendary Centaur Stance"/>.
 
 **Archdiviner**
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
-* Use special action key if the defiance bar appear.
+* Activate <Skill name="Protective Solace"/> on top of the group to prevent the Archdiviner's minions from dealing damage to your group.
+* If Archdiviner gets a defiance bar, use your special action key to do 232 defiance bar damage to it and blast a fire field if there is one under him.
 * Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **70-50%**
-* Cast <Skill name="Soulcleaves Summit"/>, and <Skill name="Icerazors Ire"/>.
+* Cast <Skill name="Soulcleaves Summit"/>.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Change to <Skill name="Legendary Assassin Stance"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
+* Change to <Skill name="Legendary Centaur Stance"/>.
+* Use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>. If there are still any minions from Archdiviner left, you can use <Skill name="Protective Solace"/> to prevent them from applying conditions on you and from dealing any damage to you.
 * Weapon swap and change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **50-40%**
-* Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location.
+* Precast <Skill name="Soulcleaves Summit"/> at Arkk's location.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/>.
+* Weapon swap and change to <Skill name="Legendary Centaur Stance"/>.
 
 **Gladiator**
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
-* Use special action key if the defiance bar appear.
+* Activate <Skill name="Protective Solace"/> on top of the group to prevent the robots from dealing damage to your group. There is also one robot that applies conditions, especially detrimental to your group's damage is <Condition name="Weakness"/>.
+* If Gladiator gets a defiance bar, use your special action key to do 232 defiance bar damage to it and blast a fire field if there is one under him.
 * Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **40-30%**
+* Use <Skill name="SoulcleavesSummit"/> to get your teammates healed.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> in the middle.
-* Cast <Skill name="Icerazors Ire"/> on the Anomaly.
-* Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling wave"/> to finish of the Anomaly.
 * Weapon swap at the end of the phase.
 
 **30-0%**
 * Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
-* Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
+* Weapon swap and change to <Skill name="Legendary Centaur Stance"/>.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.
+* Use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.
 
 ---
-
-**Annotation**
-* Kill the Anomaly in the 70-50% phase if your party struggles to survive without the Mistlock Singularity for the remainder of the encounter.
-    * Use <Skill name="Icerazors Ire"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> to finish the Anomaly in this case.
-* Weapon swap back to swords as early as you can in the phases where you break the defiance bar.
-* Precast <Skill name="Darkrazors Daring"/> early enough to gain energy for <Skill name="Surge of the Mists"/> in the opening of 80-70%, 50-40%, and 30-0%.
-
 </GridItem>
 </Tab>
 </Tabs>
