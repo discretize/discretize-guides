@@ -56,7 +56,7 @@ If you feel your energy runs out too quick, we recommend the Salvation/Incovatio
 
 You should consider running this trait variant in fractals like Molten Furnace and Captain Mai Trin.
 
-<Traits traits1="Invocation" traits1Selected="Rising Tide,Spirit Boon,Charged Mists"/>
+<UnembossedTraits traits1Id="3" traits1SelectedIds="1761,1774,1791"/>
 
 Template code:
 
