@@ -599,7 +599,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Use <Skill name="Forced Engagement"/> and <Skill name="Shackling Wave"/> to break the adds defiance bar.
 
 
-**66-33%*
+**66-33%**
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle. 
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
 * Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
