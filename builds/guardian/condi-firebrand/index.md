@@ -1,6 +1,6 @@
 ---
 title: 'Condi Firebrand'
-date: '2020-03-20'
+date: '2020-03-24'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Guardian'
@@ -16,7 +16,7 @@ code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATEBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 <Tab title="Build">
 The **<Specialization text="Condi Firebrand" name="firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high DPS.
 
-Your tomes are your by far most important skills, they enable you to do great dps as well as support and heal your allies.
+Your tomes are by far your most important skills, they enable you to do great dps as well as support and heal your allies.
 
 One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> is that you lack CC (Crowd Control), this can be fixed by running <Trait name="Perfectinscriptions"/> and swapping <Skill name="Signet of Wrath"/> to <Skill name="Bane Signet"/>.
 
@@ -24,7 +24,7 @@ One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> i
 
 Note that this build variant only gains boon duration from the <Item id="79722"/>.
 
-If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap <Item id="86997"/> for <Item id="91842"/>**.
+If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap <Item id="24560"/>  in your Mainhands for <Item id="72339"/>**.
 
 <Grid>
 <GridItem sm="4">
@@ -62,6 +62,7 @@ If you are unable to provide enough <Boon name="Quickness"/> with that, **please
 <Card title="Situational Skills">
 | | |
 | -- | -- |
+| <Skill id="9093" size="big" disableText/> | 300 defiance bar damage as well as grants 216 power to your allies if traited with <Trait name="Perfectinscriptions"/>. |
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
 | <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
 | <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
