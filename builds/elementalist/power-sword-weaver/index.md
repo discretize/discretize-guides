@@ -24,7 +24,7 @@ It has quick burst damage and doesn't rely as much on pre-casting as [Power Temp
 
 Aside from <Condition name="vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS the Power Sword Weaver build unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
 
-The build benefits heavily from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment without weakness"/>
 
@@ -150,9 +150,9 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 |Defensive|
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
-| <Skill name="Stone Resonance" size="big" disableText/> | Strong defence against pulsing damage (e.g. Heat Room Thaumanova Reactor).  |
+| <Skill name="Stone Resonance" size="big" disableText/> | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).  |
 | Utility |
-| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like Cliffside, Aetherblade and Underground Facility. |
+| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
 
 </Card>
 </GridItem>
@@ -161,6 +161,7 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 <Card title="Situational Traits">
 | | |
 | -- | -- |
+| <Trait name="Pyromancers Puissance" size="big" disableText/> | Take this instead of <Trait id="1510"/> after you precast for self sufficient might. Recommended in Pugs every time.
 | <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
 | <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
@@ -312,7 +313,6 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 - 
 **General**
 - In faster groups, take <Skill id="44612"/> instead of <Skill id="40183"/>.
-- Take <Trait id="1510"/> instead of <Trait id="294"/> for self sufficient might. Recommended in Pugs every time.
 
 **100%**
 - Cast <Skill id="5737"/> just before MAMA becomes vulnerable.
