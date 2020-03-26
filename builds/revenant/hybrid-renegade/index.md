@@ -1,11 +1,11 @@
 ---
 title: 'Renegade'
-date: '2020-03-20'
+date: '2020-03-26'
 rating: 'Meta'
 role: 'Support'
 profession: 'Revenant'
 specialization: 'Renegade'
-benchmark: { small: { dps: 23070, by: 'MajesticNoodle [BATS]', youtube: 'mThyB_5Xjgo' } }
+benchmark: { large: { dps: 23973, by: 'MajesticNoodle [BATS]', youtube: 'p4D96l_GVPg' } }
 skills: [45773, 27505]
 traits: [1802]
 boons: ['Alacrity', 'Might', 'Stability']
@@ -246,7 +246,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 ---
 
 **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast if needed. 
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional  <Boon name="Might"/> blast if needed. 
 * After the introduction of templates it is recommended to precast using equipment with higher boon duration.
 
 **100 - 75%**  
@@ -325,7 +325,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 ---
 
 **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlaps and grants twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast if needed.
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlaps and grants twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast if needed.
 * After the introduction of templates it is recommended to precast using equipment with higher boon duration.
 * Ask your <Specialization name="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation.
 
@@ -406,7 +406,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 ---
 
 **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast if needed.
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast if needed.
 * After the introduction of templates it is recommended to precast using equipment with higher boon duration.
 
 **100-66%**
@@ -490,7 +490,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 ---
 
 **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
 
 **100-66%**  
 * Precast <Skill name="Darkrazors Daring"/> when the <Specialization name="Weaver"/> is casting <Skill name="Meteorshower"/>.
@@ -583,7 +583,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 ---
 
 **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
 
 **100-66%**
 * Precast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
@@ -676,7 +676,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 ---
 
 **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional blast.
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
 
 **100-80%**
 * Cast <Skill name="Soulcleaves Summit"/> on Arkk and auto attack until the Anomaly appear.
