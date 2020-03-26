@@ -103,7 +103,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 - Third slot of Soulbeast - <Trait id="2143"/> can be an alternative if you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> then swap traits right before you get in combat so your allies get the buff but you also end up with the higher personal DPS of having a 10% damage modifier.
 - **If you can be 100% sure that you have the ability to flank the boss permanently** then you can consider swapping Marksmanship for Skirmishing with the following setup:
 
-<UnembossedTraits title="Skirmishing" traits1Id="30" traits1SelectedIds="1075,1016,1888"/>
+<UnembossedTraits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1075,1016,1888"/>
 
 </Card>
 </Tab>
