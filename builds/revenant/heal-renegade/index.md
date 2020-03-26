@@ -1,6 +1,6 @@
 ---
 title: 'Heal Renegade'
-date: '2020-03-26'
+date: '2020-03-27'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Revenant'
@@ -56,9 +56,11 @@ If you feel your energy runs out too quick, we recommend the Salvation/Incovatio
 
 You should consider running this trait variant in fractals like Molten Furnace and Captain Mai Trin.
 
-<Traits traits1="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists"/>
+<Traits traits1="Invocation" traits1Selected="Rising Tide,Spirit Boon,Charged Mists"/>
 
-Template code: `[&DQkDJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]`
+Template code:
+
+`[&DQkDJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]`
 </Card>
 </GridItem>
 
