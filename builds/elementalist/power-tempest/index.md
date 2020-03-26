@@ -27,7 +27,7 @@ Contrary to the [Sword Weaver](/builds/elementalist/power-sword-weaver), melee h
 The degree of difficulty is a little bit higher than the other <Specialization name="Elementalist"/> builds as you need to adhere many small things to achieve top numbers.  
 The positiong and timing of skills matter a lot, a single mistake can make your DPS end up several thousands below other damage dealers.
 
-The build benefits heavily from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -108,8 +108,8 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
 | <Skill name="Aftershock" size="big" disableText/> | A group-wide reflect aura lasting for 4 seconds. |
 | Utility |
-| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like Cliffside, Aetherblade and Underground Facility. |
-| <Skill name="Eye of the Storm" size="big" disableText/> | Grants <Effect name="superspeed"/>, useful for skips especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+| <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Facility Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
+| <Skill name="Eye of the Storm" size="big" disableText/> | Grants <Effect name="superspeed"/>, useful for skips, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 | <Skill name="Signet of Fire" size="big" disableText/> | If you don't reach 100% critical chance and are too lazy to get Assassin's pieces, take this instead of <Skill name="Arcane Blast"/>. |
 </Card>
 </GridItem>
@@ -121,7 +121,7 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 | | |
 | -- | -- |
 | <Trait name="Gale Song" size="big" disableText/> | Useful automatic group stunbreak for things like <Instability name="Last Laugh"/> or bosses like MAMA. |
-| <Trait name="Soothing Power" size="big" disableText/> | Use this instead of <Trait name="Powerful Aura"/> when you are not using <Trait name="Unstable Conduit"/>  . |
+| <Trait name="Soothing Power" size="big" disableText/> | Use this instead of <Trait name="Powerful Aura"/> when you are not using <Trait name="Unstable Conduit"/>. |
 | <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 </Card>
