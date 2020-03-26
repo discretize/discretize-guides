@@ -42,8 +42,8 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="might"/> pre-stacking.
-* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>
-* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
+* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>.
+* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
 
 </Card>
 </GridItem>
@@ -70,8 +70,8 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="might"/> pre-stacking.
-* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>
-* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
+* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>.
+* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
 
 </Card>
 </GridItem>
@@ -97,6 +97,15 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 </Card>  
 </GridItem>
 </Grid>
+<Card title="Trait variations">
+- First slot of Marksmanship - <Trait name="Clarion Bond"/> can be useful if the blast and team might is more advantageous than the self might from <Trait name="Huntersgaze"/>
+- Second slot of Beastmastery - If you are running longbow then you gain less benefit from <Trait name="Two-handed training"/> so both other traits in that slot can be options. <Trait name="Wilting Strike"/> can be useful if your weaver wants weakness uptime for <Trait name="Superior Elements"/>. <Trait name="Natural healing"/> is some passive healing if you would like it.
+- Third slot of Soulbeast - <Trait id="2143"/> can be an alternative if you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> then swap traits right before you get in combat so your allies get the buff but you also end up with the higher personal DPS of having a 10% damage modifier.
+- **If you can be 100% sure that you have the ability to flank the boss permanently** then you can consider swapping Marksmanship for Skirmishing with the following setup:
+
+<Traits title="Skirmishing variant" traits1Id="30" traits1SelectedIds="1075,1016,1888"/>
+
+</Card>
 </Tab>
 
 <Tab title="Guide">
@@ -104,15 +113,14 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 <Grid>
 <GridItem sm="7">
 <Card title="Skill Usage">
-The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="exposed"/> on the boss. Also as Soulbeast you have quite a few ticking damage over time aoes, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your weaver). You want to precast these aoes where possible when you know that the boss is about to be <Effect name="exposed"/>.
+The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="exposed"/> on the boss. Also as Soulbeast you have quite a few ticking damage over time aoes, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your weaver). You want to precast these aoes where possible when you know that the boss is about to be <Effect name="exposed"/>.  
 
 **Weapon usage:**
-- As a <Specialization name="Soulbeast"/> you want to always run offhand <Item type="Axe"/> as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
-- As a mainhand you want to usually run <Item type="Sword"/> unless you have a short phase where you don't need to autoattack much in which case you should run mainhand <Item type="Axe"/> so you can use <Skill name="Winters bite"/> just before the phase ends.
-
-For your second weaponset you either run <Item type="Greatsword"/> or <Item type="Longbow"/>. 
-- <Item type="Longbow"/> offers higher burst through the ability to precast <Skill name="Barrage"/> but falls off if you end up back on longbow and have to autoattack for a sustained period. Longbow also allows you to proc <Item id="84505"/> with <Skill id="12511"/> for a nice damage bonus.
-- <Item type="Greatsword"/> is the choice for if you have a long sustained dps phase that allows you to loop your rotation nicely. It offers nice movement through <Skill id="12521"/> as well as a nice damage bonus on your next skill when using <Skill id="12525"/>.
+- As a <Specialization name="Soulbeast"/> you want to always run offhand axe as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
+- As a mainhand you want to usually run Sword unless you have a short phase where you don't need to autoattack much in which case you should run mainhand axe so you can use <Skill name="Winters bite"/> just before the phase ends.
+- For your second weaponset you either run greatsword or longbow:
+  - Longbow offers higher burst through the ability to precast <Skill name="Barrage"/> but falls off if you end up back on longbow and have to autoattack for a sustained period. Longbow also allows you to proc <Item id="84505"/> with <Skill id="12511"/> for a nice damage bonus.
+  - Greatsword is the choice for if you have a long sustained dps phase that allows you to loop your rotation nicely. It offers nice movement through <Skill id="12521"/> as well as a nice damage bonus on your next skill when using <Skill id="12525"/>.
 
 **Pet usage:**
 - For pets you simply run <Skill id="43636" disableText/> [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) if you need CC or <Skill id="44617" disableText/> [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) if you don't. **It is safer to just run Gazelle most of the time and only swap to Moa when you are absolutely sure you don't need the CC. You never know when a little CC can come in handy!**
@@ -121,8 +129,10 @@ For your second weaponset you either run <Item type="Greatsword"/> or <Item type
 **Utility skill usage:**
 - You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus**. One thing to keep in mind is that it only grants you 40% damage bonus against the targetted foe, so if you are cleaving trash mobs it might not be worth using as you would only get a damage bonus against one foe if you used it.
 - The choice between <Skill name="Frost trap"/> and <Skill name="Signet of the wild"/> depends on a lot of factors, mainly the phase length and downtime on phases where trap can recharge. For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="exposed"/> since it recharges during the island phase so trap is an obvious pick over signet.
-- For healing skills the usual choice is between <Skill name="Wehealasone"/>, which extends your boons on use and is quite a large heal, and <Skill name="Bear stance"/>, which is nice if you need to cleanse condis either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for example pushing orbs at arkk.
+- For healing skills the usual choice is between <Skill name="We heal as one"/>, which extends your boons on use and is quite a large heal, and <Skill name="Bear stance"/>, which is nice if you need to cleanse condis either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for example pushing orbs at arkk.
 - **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team.**
+
+- <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phase to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
 
 </Card>
 </GridItem>
@@ -154,11 +164,11 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 
 </Card>
 <Card title="Underwater">
-Underwater you can merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS or <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. Use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger and <Skill id="42797"/> for mobility. **Be careful when you swap pets since you can no longer pet swap in combat.**
+Underwater you can merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS or <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. Use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger and <Skill id="42797"/> for mobility on Shark. **Be careful when you swap pets since you can no longer pet swap in combat.**
 
-<Skill name="Bear stance"/> can be quite helpful since [Aquatic Ruins](/aquatic-ruins) often has <Instability name="Afflicted"/>. For DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/> and <Skill name="Swirling Strike"/> deal good damage. 
+<Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/aquatic-ruins) often has <Instability name="Afflicted"/>. 
 
-**If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.**
+For DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/> and <Skill name="Swirling Strike"/> deal good damage. **If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.**
 </Card>
 
 </GridItem>
@@ -465,8 +475,6 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
 - <Skill name="Worldlyimpact"/>
 - <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/> to reflect again.
-
-If you dont skip anomalies you can just try to reflect and hope she targets someone close or you could go for reflecting her spin attack.
 
 </Tab>
 <Tab title="Middle">
