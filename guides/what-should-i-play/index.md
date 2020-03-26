@@ -1,6 +1,6 @@
 ---
 title: 'What Should I Play?'
-date: '2020-03-20'
+date: '2020-03-26'
 image: './images/whatshouldiplaylogo.png'
 description: 'If you do not know what class you want to play.'
 ---
@@ -35,6 +35,11 @@ description: 'If you do not know what class you want to play.'
 | <Specialization name="Reaper" text="Power Reaper"/> | <br/>1. Low learning curve, hard to master<br/><br/>2. High, consistent damage, good cleave<br/><br/>3. You provide yourself boons such as <Boon name="quickness"/> and <Boon name="Might"/><br/><br/>4. Highest survivability out of the offmeta dps classes<br/><br/>5. Can boonrip for the team if <Instability name="No Pain, No Gain"/> is present<br/>[Click here for the build!](/builds/necromancer/power-reaper)<br/><br/>   |
 | <Specialization name="Dragonhunter"/> | <br/>1. Low learning curve, hard to master<br/><br/>2. High damage on short fights, drops later on<br/><br/>3. You are squishy, but out of the offmeta dps classes, you have the **second** most survivability<br/>[Click here for the build!](/builds/guardian/power-dragonhunter)  |
 </Tab>
+<Tab title="Support roles">
+| | |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Specialization name="renegade" text="Heal Renegade"/> |1. Medium learning curve<br/><br/>2. Low damage, high healing output<br/><br/>3. You are responsible for boons like <Boon name="Alacrity"/>, <Boon name="Might"/> and <Boon name="Protection"/><br/><br/>4. You can choose to buff the team with <Trait id="1786"/><br/>[Click here for the build!](/builds/revenant/heal-renegade)<br/><br/>  |
+</Tab>
 </Tabs>
 
 
@@ -53,7 +58,6 @@ description: 'If you do not know what class you want to play.'
 <Tab title="Support roles">
 | | |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Specialization name="renegade" text="Heal Renegade"/> |1. Medium learning curve<br/><br/>2. Low damage, high healing output<br/><br/>3. You are responsible for boons like <Boon name="Alacrity"/>, <Boon name="Might"/> and <Boon name="Protection"/><br/><br/>4. You can choose to buff the team with <Trait id="1786"/><br/>[Click here for the build!](/builds/revenant/heal-renegade)<br/><br/>  |
 | <Specialization name="Warrior" text="Banner Warrior"/> | <br/>1. Low learning curve<br/><br/>2. Out of the three Tier 4 supports, you have the most damage<br/><br/>3. You provide 25 <Boon name="might"/> for the group<br/><br/>4. You grant lots of stats to the team through traits like <Trait name="Empower Allies"/> and your banners: <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/><br/>[Click here for the build!](/builds/warrior/banner-warrior)<br/><br/>    |
 | <Specialization name="firebrand" text="Heal Firebrand"/> | <br/>1. Low learning curve<br/><br/>2. Low damage, high healing output<br/><br/>3. You are responsible for boons like <Boon name="quickness"/>, <Boon name="Aegis"/>, <Boon name="Regeneration"/>  and <Boon name="might"/><br/><br/>4. If needed, you can provide more boons like <Boon name="Resistance"/> and <Boon name="Stability"/><br/><br/>5. You give the group a damage buff by using <Skill name="Bane Signet"/><br/>[Click here for the build!](/builds/guardian/heal-firebrand) |
 </Tab>
