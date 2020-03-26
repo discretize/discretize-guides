@@ -414,7 +414,8 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 <GridItem sm="12">
 
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
+
+<Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
 
 ---
 
@@ -502,7 +503,16 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 <GridItem sm="12">
 
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
+
+<Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
+
+---
+
+**Traits**
+
+For this encounter it is recommended to run the following traits in Devastation trait line.
+
+<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 ---
 
@@ -589,7 +599,16 @@ This part of the guide was taken from [Casual Sophie](https://www.youtube.com/ch
 <GridItem sm="12">
 
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Centaur Stance"/>.
+
+<Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Centaur Stance"/>.
+
+---
+
+**Traits**
+
+For this encounter it is recommended to run the following traits in Devastation trait line.
+
+<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 ---
 
