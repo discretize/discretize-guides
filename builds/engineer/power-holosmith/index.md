@@ -1,3 +1,4 @@
+---
 title: 'Power Holosmith'
 date: '2020-03-26'
 rating: 'Offmeta'
