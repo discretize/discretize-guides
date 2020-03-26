@@ -599,7 +599,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Use <Skill name="Forced Engagement"/> and <Skill name="Shackling Wave"/> to break the adds defiance bar.
 
 
-**66-33%*
+**66-33%**
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle. 
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
 * Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
@@ -693,7 +693,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/>.
+* Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
 
 **Archdiviner**
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
@@ -713,7 +713,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/>.
+* Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
 
 **Gladiator**
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
