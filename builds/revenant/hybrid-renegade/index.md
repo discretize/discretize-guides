@@ -693,7 +693,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Use <Skill name="Surge of the Mists"/> with the special action key to break the defiance bar.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/>.
+* Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
 
 **Archdiviner**
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
