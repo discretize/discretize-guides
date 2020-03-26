@@ -1,12 +1,12 @@
 ﻿---
 title: 'Power Dragonhunter'
-date: '2020-03-20'
+date: '2020-03-26'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
 benchmark:
-  { large: { dps: 35340, by: 'Shetsa [SC]', youtube: 'ioA6ux3AC3Q' } }
+  { small: { dps: 35132, by: 'Shetsa [SC]', youtube: 'C98JaabU6_c' } }
 skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
