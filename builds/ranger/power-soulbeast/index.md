@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-03-24'
+date: '2020-03-26'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -42,8 +42,8 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="might"/> pre-stacking.
-* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>
-* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
+* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>.
+* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
 
 </Card>
 </GridItem>
@@ -70,8 +70,8 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="might"/> pre-stacking.
-* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>
-* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables))
+* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>.
+* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
 
 </Card>
 </GridItem>
@@ -97,23 +97,51 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 </Card>  
 </GridItem>
 </Grid>
+<Card title="Trait variations">
+- First slot of Marksmanship - <Trait name="Clarion Bond"/> can be useful if the blast and team might is more advantageous than the self might from <Trait name="Huntersgaze"/>
+- Second slot of Beastmastery - If you are running longbow then you gain less benefit from <Trait name="Two-handed training"/> so both other traits in that slot can be options. <Trait name="Wilting Strike"/> can be useful if your weaver wants weakness uptime for <Trait name="Superior Elements"/>. <Trait name="Natural healing"/> is some passive healing if you would like it.
+- Third slot of Soulbeast - <Trait id="2143"/> can be an alternative if you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> then swap traits right before you get in combat so your allies get the buff but you also end up with the higher personal DPS of having a 10% damage modifier.
+- **If you can be 100% sure that you have the ability to flank the boss permanently** then you can consider swapping Marksmanship for Skirmishing with the following setup:
+
+<UnembossedTraits traits1Id="30" traits1SelectedIds="1075,1016,1888"/>
+
+</Card>
 </Tab>
 
 <Tab title="Guide">
 <Divider text="Details"/>
 <Grid>
-<GridItem sm="6">
+<GridItem sm="7">
 <Card title="Skill Usage">
-The main idea of Soulbeast is to ensure you land <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/>  and <Skill name="One Wolf Pack"/> as well as usually into <Effect name="exposed"/> on the boss. Another consideration is that you can often precast <Skill name="Barrage"/> and <Skill name="Frost Trap"/> which are ticking aoes which can also benefit from these previous damage modifiers. 
+The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="exposed"/> on the boss. Also as Soulbeast you have quite a few ticking damage over time aoes, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your weaver). You want to precast these aoes where possible when you know that the boss is about to be <Effect name="exposed"/>.  
+
+**Weapon usage:**
+- As a <Specialization name="Soulbeast"/> you want to always run offhand axe as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
+- As a mainhand you want to usually run Sword unless you have a short phase where you don't need to autoattack much in which case you should run mainhand axe so you can use <Skill name="Winters bite"/> just before the phase ends.
+- For your second weaponset you either run greatsword or longbow:
+  - Longbow offers higher burst through the ability to precast <Skill name="Barrage"/> but falls off if you end up back on longbow and have to autoattack for a sustained period. Longbow also allows you to proc <Item id="84505"/> with <Skill id="12511"/> for a nice damage bonus.
+  - Greatsword is the choice for if you have a long sustained dps phase that allows you to loop your rotation nicely. It offers nice movement through <Skill id="12521"/> as well as a nice damage bonus on your next skill when using <Skill id="12525"/>.
+
+**Pet usage:**
+- For pets you simply run <Skill id="43636" disableText/> [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) if you need CC or <Skill id="44617" disableText/> [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) if you don't. **It is safer to just run Gazelle most of the time and only swap to Moa when you are absolutely sure you don't need the CC. You never know when a little CC can come in handy!**
+- You want to have <Skill id="31568" disableText/> [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) on swap to have quick access if you need stealth for skips at any point.
+
+**Utility skill usage:**
+- You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus**. One thing to keep in mind is that it only grants you 40% damage bonus against the targetted foe, so if you are cleaving trash mobs it might not be worth using as you would only get a damage bonus against one foe if you used it.
+- The choice between <Skill name="Frost trap"/> and <Skill name="Signet of the wild"/> depends on a lot of factors, mainly the phase length and downtime on phases where trap can recharge. For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="exposed"/> since it recharges during the island phase so trap is an obvious pick over signet.
+- For healing skills the usual choice is between <Skill name="We heal as one"/>, which extends your boons on use and is quite a large heal, and <Skill name="Bear stance"/>, which is nice if you need to cleanse condis either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for example pushing orbs at arkk.
+- **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team.**
+
+- <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phase to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
 
 </Card>
 </GridItem>
-<GridItem sm="6">
+<GridItem sm="5">
 <Card title="CC skills">
 | | |
 | -- | -- |
 | <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>) |
-| <Skill id="12511"/>| 150 damage (Longbow 4)|
+| <Skill id="12511"/> | 150 damage (Longbow 4)|
 | <Skill id="12638"/> | 150 damage (Axe 4) |
 | <Skill id="12475"/> | 150 damage (Greatsword 5) |
 </Card>
@@ -135,46 +163,16 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 5. Pick up <Skill id="5516"/> if there is one.
 
 </Card>
+<Card title="Underwater">
+Underwater you can merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS or <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. Use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger and <Skill id="42797"/> for mobility on Shark. **Be careful when you swap pets since you can no longer pet swap in combat.**
+
+<Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/aquatic-ruins) often has <Instability name="Afflicted"/>. 
+
+For DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/> and <Skill name="Swirling Strike"/> deal good damage. **If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.**
+</Card>
+
 </GridItem>
 </Grid>
-<Card title="Other Skills and Utilities">
-Greatsword Skills:
-- <Skill id="12525"/> is a high damage skill that also grants you 50% extra damage on your next skill -  this is great for increasing the damage of <Skill id="40729"/>.
-- <Skill id="12475"/> resets your <Skill id="12525"/> so is a great filler skill if you have a longer burn phase. It is also a CC skill that helps your <Trait id="2127"/> uptime.
-
-Longbow Skills:
-- <Skill id="12509"/> is a high damage skill that can be used into <Effect name="exposed"/> in a longer burst scenario.
-- <Skill id="12511"/> is a CC skill that can be used to proc <Item id="84505"/>.
-- <Skill id="12469"/> is a high damage skill that is best utilized in precasting it before a phase so you have the ticking damage on top of your normal damage.
-
-Axe Skills:
-- <Skill id="12638"/> is a useful pull that does decent damage as well.
-- <Skill id="12639"/> is your highest damaging skill, you need to use it at the correct time since it is a long cast and animation lock so can screw you up if you are hit by an attack or interupted because you used it in a poor position.
-- <Skill id="12490"/> is a useful damaging skill if your phase is short enough where you can use this and not have to axe auto attack.
-
-Sword Skills:
-- <Skill id="12482"/> is a forwards leap skill that can be useful for skips as well as moving about in fights.
-- <Skill id="12481"/> is a backwards evade skill that can be used for in fight movement.
-
-Warhorn Skills:
-- <Skill id="12620"/> is a ticking damaging skill that can be used at the start of a phase on top of your other attacks
-- <Skill id="12621"/> is a blast finisher that also grants your team <Boon name="Might"/>, <Boon name="Fury"/> and <Boon name="Swiftness"/>. Very useful for prestacking.
-
-Torch Skills:
-- <Skill id="12504"/> is a fire field that is used for precasting.
-
-Utilties:
-- <Skill id="31914"/> is a healing skill that also extends all your boons.
-- <Skill id="12492"/> is a high damage over time skill that can be precasted before a fight then used as soon as the first trap has procced in order to gain double the value, because of this it can be worth taking over <Skill name="Signet of the Wild"/> in some fights.
-
-Pet Skills:
-- <Skill id="40729"/> is a high damage skill that can also extend your boons due to the trait <Trait name="Essence of Speed"/> 
-- <Skill id="41524"/> is a decent filler dps skill over auto attacking.
-- <Skill id="45743"/> is a CC and damage skill from the rock gazelle.
-- <Skill id="43548"/> is a high dps skill from the red moa.
- 
-
-</Card>
 </Tab>
 
 <Tab title="99CM">
@@ -184,82 +182,7 @@ Pet Skills:
 
 <Tabs>
 <Tab title="Mama">
-<Tabs>
-<Tab title="PuG">
-<GridItem sm="12">
-<Divider text="PuG MAMA"/>
-<Grid>
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-- Pet: <Skill id="43636" disableText/> Rock Gazelle
-- Traits: run <Trait id="2128"/> if you trust your team to DPS or <Trait id="2143"/> for personal DPS.
-- Food: <Item id="43360"/>
-- Utility: <Item id="50082"/>
-- Make sure to use [consumables](/guides/consumables) on the adds!
-
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
-</GridItem>
-</Grid>
-
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-
-<GridItem sm="12">
-
-**Precast**  
-- Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>
-- You can only precast one of <Skill id="5531"/> or <Skill name="Barrage"/> on MAMA as you will get in combat soon after you precast one of them. A safe bet is to <Skill name="Barrage"/> then swap to Greatsword since you might not have a weaver in your pug.
-
-**Opening**
-
-You wanna do a modified Greatsword rotation: 
-- <Skill id="12525"/> and <Skill name="Sicem"/> during the cast.
-- <Skill name="Worldly impact"/>
-- <Skill name="Path of scars"/>
-- <Skill name="Whirling defense"/>
-- It should be phased now.
-
-**1st Add**
-- Help CCing with <Skill id="45743"/> 
-- Autoattack the add to death with your sword.
-
-**2nd phase**
-
-When you go back back to MAMA swap to GS and use:
-- <Skill id="12525"/>
-- <Skill name="hiltbash"/>
-- <Skill id="12525"/>
-- <Skill id="41524"/> (dont use <Skill name="Sicem"/> here).
-
-**2nd Add**
-- Help CCing with <Skill id="45743"/> 
-- Use a mix of <Skill id="12525"/> and autoattacks to kill it.
-
-**3rd phase**
-
-In phase 3 you do same rotation as in p1 (although you can do the full gs rotation if you have hilt bash off cd).  
-MAMA should phase while you're casting your <Skill name="Whirling defense"/>, then untarget MAMA and do <Skill name="Monarchs Leap"/> for a free leap away from the poison field and to get to the add faster.
-
-**3rd Add**  
-- Swap to GS as soon as possible.
-- Use a mix of <Skill id="12525"/> and autoattacks to kill it. Save your <Skill id="45743"/>
-
-**4th phase**
-- Help with CC by doing <Skill name="Hilt bash"/> and <Skill id="45743"/> 
-- Normal GS rotation.
-
-</GridItem>
-</GridItem>
-</Tab>
-
-<Tab title="Organized">
-<GridItem sm="12">
-<Divider text="Organized MAMA"/>
+<Divider text="MAMA"/>
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
@@ -268,7 +191,8 @@ MAMA should phase while you're casting your <Skill name="Whirling defense"/>, th
 - Traits: <Trait id="2128"/> 
 - Food: <Item id="43360"/>
 - Utility: <Item id="50082"/>
-- Make sure to use [consumables](/guides/consumables) if necessary on the adds!
+- **Make sure to use [consumables](/guides/consumables) if necessary on the adds!**
+- It can be worth to run <Item id="82876"/> instead of <Item id="24615"/> on longbow depending on fight length.
 
 </Card>
 </GridItem>
@@ -276,11 +200,7 @@ MAMA should phase while you're casting your <Skill name="Whirling defense"/>, th
 <Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
 </GridItem>
 </Grid>
-<GridItem sm="12">
 <Divider text="HOW TO PLAY"/>
-</GridItem>
-<GridItem sm="12">
-
 **Precast**  
 - Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>
 - Make sure to cast <Skill id="12497"/> before you precast <Skill id="5531"/> and <Skill name="Barrage"/> on MAMA.
@@ -320,61 +240,22 @@ When you go back back to MAMA autoattack on sword and use <Skill name="One Wolf 
 - Swap weapons.
 - <Skill name="Path of scars"/>
 - <Skill name="Whirling defense"/>
-- Autoattack if it isnt phased.
+- You can use <Skill name="Monarchs Leap"/> for a free leap away from the poison field and to get to the add faster.
 
 **3rd Add**  
-- Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>
 - Resummon your <Skill id="12497"/> as it has probably died by now.
+- Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>
+- <Skill name="Path of scars"/> and swap weapons when it is off cd.
 
 **4th phase**
-- When MAMA becomes vulnerable use <Skill name="Path of scars"/> to CC.
-- Swap weapons.
-- Continue CCing by using <Skill name="Point Blank Shot"/> and <Skill id="45743"/> 
+- Try to cast <Skill name="Barrage"/> so it doesn't get interupted by MAMA jumping.
+- Use <Skill name="Point Blank Shot"/> and <Skill id="45743"/> to CC.
 - <Skill name="Rapid Fire"/>
 - Use your dps skills as soon as they come off cd and don't cry from having to autoattack on longbow.
 
-</GridItem>
-</GridItem>
 </Tab>
-</Tabs>
-
-</Tab>
-
 <Tab title="Siax">
-<Tabs>
-<Tab title="PuG">
-<GridItem sm="12">
-<Divider text="PuG SIAX"/>
-</GridItem>
-<Grid>
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
-- Pet: <Skill id="43636" disableText/> Rock Gazelle
-- Traits: run <Trait id="2128"/> if you trust your team to DPS or <Trait id="2143"/> for personal DPS.
-- Food: <Item id="43360"/>
-- Utility: <Item id="50082"/>
-- You can take <Skill name="Bear stance"/> for condi cleanse if you need it.
-
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpent Slaying" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="SerpentSlaying" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
-</GridItem>
-</Grid>
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-<GridItem sm="12">
-<Message>
-Remember to swap to <Item id="24658"/> for this encounter!
-</Message>
-WIP
-</GridItem>
-</Tab>
-<Tab title="Organized">
-<GridItem sm="12">
-<Divider text="Organized Siax"/>
+<Divider text="Siax"/>
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
@@ -389,10 +270,9 @@ WIP
 <GridItem sm="6">
 <Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Serpentslaying" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
 </GridItem>
-<GridItem sm="12">
+</Grid>
+
 <Divider text="HOW TO PLAY"/>
-</GridItem>
-<GridItem sm="12">
 <Message>
 Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 </Message>
@@ -422,7 +302,7 @@ Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Drago
 - Swap to longbow at around 40% so weapon swap is off cd for phase 3.
 
 **2nd Add**  
-- Make sure you stand at range to benefit from <Trait name="Farsighted"/> as well as use <Skill name="wehealasone"/> to make sure you have scholar buff to kill your add.
+- You want to stand at range to benefit from <Trait name="Farsighted"/> as well as you might want to use <Skill name="wehealasone"/> to make sure you have <Trait id="974"/> and <Item id="24836"/> as damage modifiers to kill the add.
 - Use longbow skills to kill your add: <Skill name="pointblankshot"/> and <Skill name="rapidfire"/> 
 - The remaining damage should be dealt by the <Specialization name="Dragonhunter"/> with a <Skill name="Swordofjustice"/>
 - Once the add is dead precast <Skill name="Barrage"/> on Siax for phase 3.
@@ -434,91 +314,15 @@ Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Drago
 - <Skill name="Path of scars"/> and <Skill name="Whirling defense"/>
 - Use <Skill name="Worldly impact"/>, <Skill id="45743"/> and <Skill id="41524"/> if Siax still isn't dead.
 
-</GridItem>
-</Grid>
-</GridItem>
-</Tab>
-</Tabs>
-
 </Tab>
 <Tab title="Ensolyss">
-<Tabs>
-<Tab title="PuG">
-
-<GridItem sm="12">
-<Divider text="PuG Ensolyss"/>
-<Grid>
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-- Pet: <Skill id="43636" disableText/> Rock Gazelle
-- Traits: <Trait id="2128"/> 
-- Food: <Item id="91805"/>
-- Utility: <Item id="50082"/>
-
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpent Slaying" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="SerpentSlaying" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
-</GridItem>
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-<GridItem sm="12">
-<Message>
-Remember to swap to <Item id="24658"/> for this encounter!
-</Message>
-**Precast**
-- Summon <Skill id ="12497"/> as you run towards the boss orb.
-- Use <Skill id="5531"/> and <Skill name="Barrage"/> before Ensolyss is activated then swap to greatsword to not get stuck on longbow.
-
-**Opening**  
-- Equip a <Item id="8664"/> and get ready to CC.
-- As soon as Ensolyss is vulnerable use <Skill id="45743"/> and Rod 2 to CC.
-- If Ensolyss instantly breaks do your normal greatsword rotation: 
-  - <Skill name="onewolfpack"/>
-  - <Skill name="sicem"/> and <Skill id="12525"/>
-  - <Skill name="Hilt Bash"/>
-  - <Skill id="12525"/>
-  - <Skill name="worldlyimpact"/> 
-  - <Skill name="pathofscars"/> 
-  - <Skill name="Whirlingdefense"/>
-- If Ensolyss doesn't break then use <Skill id="12525"/> <Skill id="41524"/> then continue with your normal rotation, delay your CC skills (<Skill name="Hilt Bash"/> and <Skill name="pathofscars"/>) until after the bubble when the CC bar reappears. This delay is to ensure that <Skill name="sicem"/> and <Skill name="Whirlingdefense"/> hit into <Effect name="Exposed"/>
-- Pick up <Skill name="conjurelightninghammer"/> if your weaver is kind enough to give you  one and use <Skill id="5725"/> (Skill 4).
-- <Skill name="conjurelightninghammer"/> autoattacks are better than sword autoattacking so autottack until <Skill name="pathofscars"/> is off cd then swap back to greatsword and continue your rotation.
-
-**Orb phases**
-
-Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to keep up <Boon name="alacrity"/> on yourself. 
-
-**66% and 33%**  
-- Resummon <Skill name="Frost Spirit"/> if it died in the orb phase.
-- <Skill id="5531"/> if available.
-- Use <Skill id="12525"/> <Skill id="41524"/> until the CC bar appears.
-- Use <Skill id="45743"/> and <Skill name="Hilt Bash"/> to break the CC bar.
-- When Ensolyss breaks do your normal greatsword rotation: 
-  - <Skill name="onewolfpack"/>
-  - <Skill name="sicem"/> and <Skill id="12525"/>
-  - <Skill name="worldlyimpact"/> 
-  - <Skill name="pathofscars"/> 
-  - <Skill name="Whirlingdefense"/>
-- Pick up <Skill name="conjurelightninghammer"/> if your weaver is kind enough to give you  one and use <Skill id="5725"/> (Skill 4).
-- <Skill name="conjurelightninghammer"/> autoattacks are better than sword autoattacking so autottack until <Skill name="pathofscars"/> is off cd then swap back to greatsword and continue your rotation.
-
-</GridItem>
-</Grid>
-</GridItem>
-</Tab>
-
-<Tab title="Organized">
-<GridItem sm="12">
-<Divider text="Organized ensolyss"/>
+<Divider text="ensolyss"/>
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="45970" eliteId="45717"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle
-- Traits: <Trait id="2128"/> 
+- Traits: <Trait id="2128"/>
 - Food: <Item id="91805"/>
 - Utility: <Item id="50082"/>
 
@@ -528,17 +332,14 @@ Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to keep up 
 <Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Serpentslaying" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
 </GridItem>
 </Grid>
-<GridItem sm="12">
 <Divider text="HOW TO PLAY"/>
-</GridItem>
-<GridItem sm="12">
 <Message>
-Remember to swap to <Item id="24658"/> and <Item id="24868"/> for this encounter!
+Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 </Message>
 
 In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moastance"/> over <Skill name="Signet of the wild"/>. Use <Skill name="Moastance"/> at the beginning of each phase.
 
-**Opening**  .
+**Opening**
 - Summon <Skill id ="12497"/> as you run towards the boss orb.
 - When the red circle appears around the arena start to cast <Skill id="5531"/> and then <Skill name="Barrage"/>
 - <Skill name="Pointblankshot"/>,  <Skill id="45743"/> for insta CC. Start casting <Skill name="Pointblankshot"/> just before Ensolyss becomes vulnerable so you can hit both CC skills.
@@ -568,13 +369,9 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - AA with <Skill name="conjurelightninghammer"/> until its phased or your <Skill name="pathofscars"/> is back up.
 - If it still isnt phased swap weapons and use <Skill name="rapidfire"/>
 
-</GridItem>
 </Tab>
 </Tabs>
 </Tabs>
-</Tabs>
-</Tab>
-</Tab>
 <Tab title="100CM">
 <Divider text="Shattered Observatory"/>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
@@ -582,70 +379,7 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 
 <Tabs>
 <Tab title="Skorvald">
-<Tabs>
-<Tab title="PuG">
-<GridItem sm="12">
-<Divider text="PuG Skorvald"/>
-</GridItem>
-
-<Grid>
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-- Pet: <Skill id="43636" disableText/> Rock Gazelle
-- Traits: run <Trait id="2128"/> if you trust your team to DPS or <Trait id="2143"/> for personal DPS.
-- Food: <Item id="91805"/>
-- Utility: <Item id="77569"/>
-
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
-</GridItem>
-</Grid>
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-
-<GridItem sm="12">
-
-**Precast**
-
-- Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>. Share <Skill name="One wolf pack"/> and take the mistlock.
-- Summon <Skill id ="12497"/> as you run towards the boss orb.
-- Use <Skill id="5531"/> (If you have a weaver) and <Skill name="Barrage"/> before Skorvald is activated then swap to greatsword to not get stuck on longbow.
-
-**Opening**
-
-- When you get in combat use <Skill name="One wolf pack"/>, <Skill id="12525"/> then <Skill name="Sicem"/> once Skorvald is targetable.
-- Use <Skill id="45743"/> then <Skill name="Hilt Bash"/> to CC.
-- Swap weapons and use <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>
-- Use <Skill name="Hornet Sting"/> to get to the first island once it is phased.
-
-**Islands**  
-
-- Use <Skill name="Worldlyimpact"/> and autoattacks to kill the 1st add.
-- You can use <Skill name="whirlingdefense"/> on the 2nd one after it jumps.
-- Swap to greatsword after the 2nd add and use <Skill id="12525"/> <Skill name="Hilt Bash"/> to kill the 3rd add.
-- Use <Skill id="12525"/> on the 4th add to get <Effect name="attack of opportunity"/> then swap weapons and take the portal back to the boss.
-
-**66% and 33%**  
-In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/> hit while he's CCed and therefore has <Effect name="Exposed"/>
-- <Skill name="Onewolfpack"/>
-- <Skill name="Sicem"/> and <Skill name="Worldlyimpact"/> as soon as he is vulnerable from the last add dying.
-- **Skip <Skill name="Worldlyimpact"/> in fast parties if you can't precast it and get <Skill id="12525"/> buff on it, because it has kind of a long cast time.**
-- <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>
-- If he starts dashing in the second phase swap to greatsword and use <Skill id="12525"/> <Skill name="Hilt Bash"/> <Skill id="12525"/> once he is back in the middle.
-- In the third phase make sure you are at max melee range so that he doesn't knock you back if he recovers from his CC.
-
-</GridItem>
-</Tab>
-
-<Tab title="Organised">
-<GridItem sm="12">
-<Divider text="Organised Skorvald"/>
-</GridItem>
-
+<Divider text="Skorvald"/>
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
@@ -661,10 +395,7 @@ In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/>
 <Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
 </GridItem>
 </Grid>
-<GridItem sm="12">
 <Divider text="HOW TO PLAY"/>
-</GridItem>
-<GridItem sm="12">
 <Message>
 You can do any portal in this fight except from island 3 to 4 as you want to summon your <Skill name="Frostspirit"/> then.
 </Message>
@@ -694,24 +425,17 @@ In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/>
 - <Skill name="Frosttrap"/>, <Skill name="Sicem"/>
 - <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>
 
-</GridItem>
-</Tab>
-</Tabs>
-
 </Tab>
 <Tab title="Artsariiv">
 <Tabs>
-<Tab title="PuG">
-<GridItem sm="12">
-<Divider text="PuG Artsariiv"/>
-</GridItem>
-
+<Tab title="Side">
+<Divider text="Side Artsariiv"/>
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 - Pet: <Skill id="44617" disableText/> Red Moa
-- Traits: run <Trait id="2128"/> if you trust your team to DPS or <Trait id="2143"/> for personal DPS.
+- Traits: <Trait id="2128"/> 
 - Food: <Item id="91805"/>
 - Utility: <Item id="77569"/>
 - Make sure to use [consumables](/guides/consumables) on the adds!
@@ -719,21 +443,18 @@ In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/>
 </Card>
 </GridItem>
 <GridItem sm="6">
-<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
+<Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
 </GridItem>
 </Grid>
-<GridItem sm="12">
 <Divider text="HOW TO PLAY"/>
-</GridItem>
-
-<GridItem sm="12">
 **Opening**
 
-Summon <Skill name="Frost Spirit"/> in middle before someone triggers her. When she is triggered precast <Skill id="5531"/> and <Skill name="Barrage"/> then swap to greatsword. Use <Skill id="12525"/> <Skill name="Hiltbash"/> and <Skill id="12525"/> while she is still in the middle. Use SAK to the corner and teleport <Skill name="Frost Spirit"/> to you.
-
-**Side Burn**
-
-- <Skill name="onewolfpack"/>, <Skill name="sicem"/>
+- Summon <Skill name="Frost Spirit"/> in middle before someone triggers Artsariiv.
+- When she is triggered precast <Skill id="5531"/> and <Skill name="Barrage"/> 
+- Use <Skill name="onewolfpack"/> then <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>
+- Use <Skill name="Rapid fire"/> then SAK to the side.
+- Use <Skill name="Cold Snap"/> to call your spirit to side.
+- When she reaches the side use <Skill name="Sicem"/>, <Skill name="Worldlyimpact"/>
 - <Skill name="pathofscars"/> to help CC.
 - <Skill name="Whirlingdefense"/> to reflect for omegadps.
 - <Skill id="43548"/> if it isn't phased yet.
@@ -741,26 +462,23 @@ Summon <Skill name="Frost Spirit"/> in middle before someone triggers her. When 
 **Add CC Phase**
 
 Use [consumables](/guides/consumables) to CC the adds.
+- Make sure you are on longbow for the next phase.
 
 **66% and 33%**
 
-- <Skill id="12525"/> <Skill name="Hiltbash"/> <Skill id="12525"/>
-- <Skill id="43548"/>
-- Dodge her slam attack (do not use sic em here).
+- Precast <Skill id="5531"/> if available and <Skill name="Barrage"/>
+- <Skill name="Rapid fire"/> then dodge her slam attack **(do not use <Skill name="sicem"/> here)**.
+- <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>
+- <Skill id="43548"/> then <Skill name="Worldlyimpact"/>
 - Special action key into the corner.
-- <Skill id="12525"/> and <Skill name="sicem"/> into the cast.
+- <Skill name="Rapid fire"/> and <Skill name="sicem"/> into the cast.
+- <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
 - <Skill name="Worldlyimpact"/>
 - <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/> to reflect again.
 
-If you dont skip anomalies you can just try to reflect and hope she targets someone close or you could go for reflecting her spin attack.
-</GridItem>
 </Tab>
-
-<Tab title="Organised">
-<GridItem sm="12">
-<Divider text="Organised ARTSariiv"/>
-</GridItem>
-
+<Tab title="Middle">
+<Divider text="Mid ARTSariiv"/>
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
@@ -777,11 +495,7 @@ If you dont skip anomalies you can just try to reflect and hope she targets some
 <Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
 </GridItem>
 </Grid>
-<GridItem sm="12">
 <Divider text="HOW TO PLAY"/>
-</GridItem>
-
-<GridItem sm="12">
 **Opening**
 
 - Summon <Skill name="Frost Spirit"/> in middle before someone triggers Artsariiv.
@@ -819,49 +533,11 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="pathofscars"/> followed by <Skill name="Whirlingdefense"/>
 - If she isn't dead yet use <Skill id="45743"/> then <Skill id="41524"/> and sword autoattack.
 
-</GridItem>
 </Tab>
 </Tabs>
-
 </Tab>
 <Tab title="Arkk">
-<Tabs>
-<Tab title="PuG">
-<GridItem sm="12">
-<Divider text="PuG Arkk"/>
-</GridItem>
-
-<Grid>
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-- Pet: <Skill id="44617" disableText/> Red Moa
-- Traits: run <Trait id="2128"/> if you trust your team to DPS or <Trait id="2143"/> for personal DPS.
-- Food: <Item id="91805"/>
-- Utility: <Item id="50082"/>
-- You can take <Skill name="trollunguent"/> for pushing the orbs inside the lightning
-
-
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
-</GridItem>
-</Grid>
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-
-<GridItem sm="12">
-WIP
-</GridItem>
-</Tab>
-
-<Tab title="Organised">
-<GridItem sm="12">
-<Divider text="Organised Arkk"/>
-</GridItem>
-
+<Divider text="Arkk"/>
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
@@ -877,11 +553,7 @@ WIP
 <Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1MainSigil2="Severance" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
 </GridItem>
 </Grid>
-<GridItem sm="12">
 <Divider text="HOW TO PLAY"/>
-</GridItem>
-
-<GridItem sm="12">
 **Precast**
 
 - Place a portal next to the mistlock and use SAK over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Then wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
@@ -966,12 +638,7 @@ WIP
 - Swap weapons.
 - <Skill name="Pathofscars"/> <Skill name="Whirling defense"/>
 
-</GridItem>
-</Tab>
-</Tabs>
-
 </Tab>
 </Tabs>
 </Tab>
-
 </Tabs>
