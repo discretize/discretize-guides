@@ -120,8 +120,9 @@ For your second weaponset you either run <Item type="Greatsword"/> or <Item type
 
 **Utility skill usage:**
 - You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus**. One thing to keep in mind is that it only grants you 40% damage bonus against the targetted foe, so if you are cleaving trash mobs it might not be worth using as you would only get a damage bonus against one foe if you used it.
-- You also want to always run <Skill name="Frost spirit"/> as it grants a large damage bonus to your team.
 - The choice between <Skill name="Frost trap"/> and <Skill name="Signet of the wild"/> depends on a lot of factors, mainly the phase length and downtime on phases where trap can recharge. For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="exposed"/> since it recharges during the island phase so trap is an obvious pick over signet.
+- For healing skills the usual choice is between <Skill name="Wehealasone"/>, which extends your boons on use and is quite a large heal, and <Skill name="Bear stance"/>, which is nice if you need to cleanse condis either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for example pushing orbs at arkk.
+- **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team.**
 
 </Card>
 </GridItem>
