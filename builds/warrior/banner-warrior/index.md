@@ -1,6 +1,6 @@
 ﻿---
 title: 'Banner Warrior'
-date: '2020-03-23'
+date: '2020-03-27'
 rating: 'T4'
 role: 'Support'
 profession: 'Warrior'
