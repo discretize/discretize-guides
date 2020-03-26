@@ -1,6 +1,6 @@
 ---
 title: 'Condi Firebrand'
-date: '2020-03-24'
+date: '2020-03-26'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Guardian'
@@ -35,8 +35,8 @@ If you are unable to provide enough <Boon name="Quickness"/> with that, **please
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="Earth" />
 
 <Card title="Swap Weapons">
-* Greatsword for pulling adds in 99 CM
-* A staff for <Boon name="might"/> pre-stacking
+* Greatsword for pulling adds in 99 CM.
+* A staff for <Boon name="might"/> pre-stacking.
 </Card>
 </GridItem>
 
@@ -63,7 +63,7 @@ If you are unable to provide enough <Boon name="Quickness"/> with that, **please
 | | |
 | -- | -- |
 | <Skill id="9093" size="big" disableText/> | 300 defiance bar damage as well as grants 216 power to your allies if traited with <Trait name="Perfectinscriptions"/>. |
-| <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
+| <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally, useful for skips for teleporting to a spirit weapon. |
 | <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
 | <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
@@ -78,8 +78,8 @@ If you are unable to provide enough <Boon name="Quickness"/> with that, **please
 <Divider text="Details"/>
 
 <Grid>
-<GridItem sm="12">
-<Card title="Skill Usage">
+<GridItem sm="7">
+<Card title="General Tips">
 To keep up <Boon name="Quickness"/>:
 
 - Use <Skill name="Feel My Wrath"/> whenever ready
@@ -111,12 +111,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 </Card>
 </GridItem>
 
-<GridItem sm="6">
-<Card title="Rotation">
-
-</Card>
-</GridItem>
-<GridItem sm="6">
+<GridItem sm="5">
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
@@ -124,42 +119,38 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 | <Skill id="45402"/> | 150 damage |
 | <Skill name="Hammer of Wisdom"/> | 200 damage |
 | Skill 3 in <Skill name="Tome of Justice"/> (F1) | 150 damage |
-| <Skill name="Chains of light"/> | 250 damage |
+| <Skill name="Chains of light"/> | 325 damage over 6 seconds |
+</Card>
+<Card title="Rotation">
+<Message>
+**Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast!**
+</Message>
+Starting on Axe:
+1. <Skill name="Sword of Justice"/>
+2. <Skill name="Symbol of Vengeance"/> (Axe 2)
+3. Weapon Swap
+4. <Skill name="Symbol of Punishment"/> (Scepter 2)
+5. **Two <Skill id="9089"/>** (Torch 4)
+6. <Skill name="Tome of Justice"/> (F1)
+7. Chapter 2 Igniting Burst (Tome Skill 2)
+8. Chapter 4 Scorched Aftermath (Tome Skill 4)
+9. Epilogue Ashes of the Just (Tome Skill 5)
+10. <Skill name="Sword of Justice"/>
+11. Chapter 1 Searing Spell (Tome Skill 1)
+12. Chapter 2 Igniting Burst (Tome Skill 2)
+13. <Skill name="Symbol of Punishment"/> (Scepter 2)
+14. <Skill name="Sword of Justice"/>
+15. <Skill name="Cleansing Flame"/> (Torch 5)
+16. **Two <Skill id="9089"/>** (Torch 4)
+17. <Skill name="Sword of Justice"/>
+18. <Skill name="Symbol of Punishment"/> (Scepter 2)
+19. Weapon Swap
+20. <Skill name="Symbol of Vengeance"/> (Axe 2)
+21. <Skill name="Blazing Edge"/> (Axe 3)
+
+When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 </Card>
 </GridItem>
-
 </Grid>
-</Tab>
-
-<Tab title="99CM">
-<Divider text="Nightmare"/>
-- Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
-- Please also read through the [Nightmare fractal page](/fractals/nightmare) for general encounter information!
-
-<Tabs>
-<Tab title="Mama">
-</Tab>
-<Tab title="Siax">
-</Tab>
-<Tab title="Ensolyss">
-</Tab>
-
-</Tabs>
-</Tab>
-<Tab title="100CM">
-<Divider text="Shattered Observatory"/>
-- Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
-- Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
-
-<Tabs>
-<Tab title="Skorvald">
-Rotation on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/>	runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="Signetofwrath"/>. In all other cases take <Skill name="standyourground"/>.
-</Tab>
-<Tab title="Artsariiv">
-</Tab>
-<Tab title="Arkk">
-</Tab>
-
-</Tabs>
 </Tab>
 </Tabs>
