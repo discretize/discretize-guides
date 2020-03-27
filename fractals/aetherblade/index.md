@@ -1,6 +1,6 @@
 ---
 title: 'Aetherblade'
-date: '2018-09-12'
+date: '2020-03-27'
 image: './images/header.jpg'
 group: 'T4'
 api: 2948
@@ -67,25 +67,39 @@ You don't need to kill a single mob and can bypass all traps with the following 
 1.  One person (or more) teleports up to the first level and activates all four consoles using condition cleanses
 2.  Everyone does `/gg` and resurrects immediately (you will spawn on the ramp up after the first console room)
 3.  The team splits up to activate the second set of consoles (the spinning lasers won't be active if you're fast enough)
-
-<Tabs>
-<Tab specialization="mesmer">
-Use <Skill id="29578"/> to teleport up and cast <Skill id="30305"/> or any Shatter skill with <Trait id="740"/> to remove <Condition name="immobile"/>.
-</Tab>
-
-<Tab specialization="elementalist">
-Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>.
-</Tab>
-
-<Tab specialization="daredevil">
-You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> as condition clears.
-</Tab>
-</Tabs>
 </GridItem>
 
 <GridItem sm="4">
 <Image src="./images/moving_lasers.jpg" caption="The moving laser pattern"/>
 <Image src="./images/spinning_lasers.jpg" caption="The spinning lasers"/>
+</GridItem>
+
+<GridItem sm="12">
+<Tabs>
+<Tab specialization="Revenant">
+To skip this part you are going to need a little jumping, damaging the Inquest with an AoE, non targetable skill like <Skill name="Shackling Wave"/>, then use <Skill name="Phase Traversal"/> on it, **when he came down from the ramp**. Give yourself <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>). 
+
+<Video title="Revenant skip" youtube="rePLyrDp3Pc"/>
+</Tab>
+
+<Tab specialization="elementalist">
+Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
+  
+<Video title="Elementalist skip" youtube="OjUvCp2h_04?t=45"/>
+</Tab>
+
+<Tab specialization="Guardian">
+Use <Skill name="Sword of Justice"/> upon the platform, then teleport to it with <Skill name="Merciful Intervention"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
+  
+<Video title="Guardian skip" youtube="MmJTsOhdQeo?t=460"/> 
+</Tab>
+
+<Tab specialization="daredevil">
+You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> as condition clears. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
+  
+<Video title="Thief skip" youtube="Alpgs_GaZV0"/>
+</Tab>
+</Tabs>
 </GridItem>
 </Grid>
 
@@ -100,12 +114,16 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 
 <GridItem>
 <Tabs>
-<Tab specialization="mesmer">
-Trait <Trait id="751"/> to use <Skill id="10363"/> more often.
+<Tab specialization="Revenant">
+You can <Skill name="Call to Anguish"/> most mobs to group them.
 </Tab>
 
 <Tab specialization="elementalist">
 Stay in <Skill id="5492"/> after the last trash group for <Boon name="might"/> stacking at Frizz.
+</Tab>
+
+<Tab specialization="Guardian">
+You can use <Skill name="Binding Blade"/> to group the mobs.
 </Tab>
 </Tabs>
 </GridItem>
@@ -134,8 +152,8 @@ If a golem walks through a laser, he powers up and blocks all attacks for a shor
 <Image src="./images/frizz.jpg" caption="Frizz"/>
 
 <Tabs>
-<Tab specialization="mesmer">
-Use <Skill id="10363"/> and <Skill id="30359"/> to grab the golems together. <Skill id="10192"/> makes yourself immune against both the small and large lasers.
+<Tab specialization="revenant">
+Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the _Lasers_ and _Small Lasers_.
 </Tab>
 
 <Tab specialization="ranger">
