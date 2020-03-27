@@ -100,7 +100,7 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 <Video title="Ranger skip" timestamp="100"  youtube="3Zc_ZJqPD0s"/>  
 </Tab>
 <Tab specialization="Warrior">
-Coming soon.
+<Video title="Warrior skip" timestamp="21"  youtube="29qQ2xU1YHk"/>
 </Tab>
 <Tab specialization="Guardian">
 <Video title="Guardian skip" timestamp="256" youtube="MmJTsOhdQeo"/>

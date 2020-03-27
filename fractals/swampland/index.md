@@ -1,6 +1,6 @@
 ---
 title: 'Swampland'
-date: '2018-09-12'
+date: '2020-03-27'
 image: './images/bloomhunger_spirit_onslaught.jpg'
 group: 'T4'
 api: 2892
@@ -43,8 +43,8 @@ The remaining two players can take the _Invigorator Rifle Prototypes_ from the g
 </Grid>
 
 <Tabs>
-<Tab specialization="mesmer">
-You can place a <Skill id="10197"/> between a Wisp and the Clefts to instantly deliver it or place it in the middle of the map to make it easier for your comrades. Otherwise use <Skill id="10200"/> with <Skill id="29578"/> to cover your fails.
+<Tab specialization="revenant">
+Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance"/>) for better mobility.
 </Tab>
 
 <Tab specialization="warrior">
@@ -66,7 +66,10 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 
 <Grid>
 <GridItem sm="8">
-In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="stealth"/> to force a reveal, just do not waste all your cooldowns on him. If you need a `/gg` to reset them, do it either before taking the Wisp at Bloomhunger or after activating him or you will bug the entire fractal and have to restart.
+In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the _Mistlock Singularity_ insite the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
+<Message>  
+**Beware, there is a wisp that is invulnerable and can attack you putting you in combat during pre-stack**!
+</Message>
 </GridItem>
 
 <GridItem sm="4">
@@ -100,20 +103,16 @@ As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again
 <GridItem sm="4">
 <Image src="./images/bloomhunger.jpg" caption="Bloomhunger"/>
 <Tabs>
-<Tab specialization="chronomancer">
-Take <Skill id="29526"/> if you have trouble with mechanics. Keep in mind that keeping up <Boon name="quickness"/> during the Spirit Onslaught phases is important as well.
+<Tab specialization="revenant">
+Take <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> for this fight. Remove <Boon name="Protection"/>  from Bloomhunger when he steps into the poison AoE".
 </Tab>
-
-<Tab specialization="elementalist">
-Use <Skill id="22572"/> for better cleave during the Spirit Onslaught phases.
+</Tabs>
+<Tabs>
+<Tab specialization="Tempest">
+Use <Specialization name="Tempest"/> for this fight and <Skill id="22572"/> for better cleave during the Spirit Onslaught phases.
 </Tab>
-
 <Tab specialization="ranger">
-If you're doing the fractal on level 77, take <Skill id="12489"/> traited with <Trait id="1075"/> against the <Instability name="Afflicted"/> instability.
-</Tab>
-
-<Tab specialization="spellbreaker">
-As Bloomhunger frequently gains <Boon name="protection"/>, Spellbreaker is the recommended build for warriors.
+Take <Skill id="12489"/> traited with <Trait id="1075"/> against the <Instability name="Afflicted"/> instability.
 </Tab>
 </Tabs>
 </GridItem>
