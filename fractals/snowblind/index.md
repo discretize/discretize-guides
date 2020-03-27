@@ -53,7 +53,7 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 ## Elemental Source <Item id="8885" disableText/><Item id="24661" disableText/>
 
 <Grid>
-<GridItem>
+<GridItem sm="8">
 At the start of the fight, light up the five bonfires to remove the 10 stacks of *Rime Shield* from the boss. Each stack reduces its damage taken by 10%.
 
 Every 25%, the Elemental Source casts _Wind Gust_ (icy projectiles) which makes the bonfires loose health. If a bonfire goes down, you will need to throw firewood into it and light it up again using your special action key.
@@ -61,7 +61,11 @@ Every 25%, the Elemental Source casts _Wind Gust_ (icy projectiles) which makes 
 With reflects and high DPS you can simply burst the boss before any bonfire expires. Note that the Elemental Source is a structure so no potion will work on it.
 </GridItem>
 
-<GridItem>
+<GridItem sm="4">
+<Image src="./images/the_elemental_source.jpg" caption="The Elemental Source"/>
+</GridItem>
+
+<GridItem sm="12">
 <Tabs>
 <Tab specialization="revenant">
 Place a bubble on top of the _Elemental Source_, absorbing **EVERY** projectile so you do not have to dodge anymore.
@@ -76,7 +80,7 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 </GridItem>
 </Grid>
 
-<Image src="./images/the_elemental_source.jpg" caption="The Elemental Source"/>
+
 
 ---
 
