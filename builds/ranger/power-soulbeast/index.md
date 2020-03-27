@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Soulbeast'
 date: '2020-03-27'
 rating: 'Meta'
@@ -16,9 +16,9 @@ code: '[&DQQIGiA7Nzp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 <Tabs>
 <Tab title="Build">
 
-<Specialization name="Soulbeast" text="Power Soulbeast"/> is a DPS build with very high burst damage that in addition provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills.
+<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that in addition provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill, that comes in handy on several encounters (e.g. Artsariiv).
 
-Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
+For prestacking and encounters where the <Specialization name="Firebrand"/> plays <Specialization name="Dragonhunter"/> or <Specialization name="guardian"/>, it is beneficial to bring <Skill name="moa stance"/> to extend the uptime of boons, especially <Boon name="quickness"/>.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -99,11 +99,11 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 </Grid>
 <Card title="Trait variations">
 - First slot of Marksmanship - <Trait name="Clarion Bond"/> can be useful if the blast and team might is more advantageous than the self might from <Trait name="Huntersgaze"/>
-- Second slot of Beastmastery - If you are running longbow then you gain less benefit from <Trait name="Two-handed training"/> so both other traits in that slot can be options. <Trait name="Wilting Strike"/> can be useful if your weaver wants weakness uptime for <Trait name="Superior Elements"/>. <Trait name="Natural healing"/> is some passive healing if you would like it.
+- Second slot of Beastmastery - If you are running longbow then you gain less benefit from <Trait name="Two-handed training"/> so both other traits in that slot can be options. <Trait name="Natural healing"/> is some passive healing if you would like it. <Trait name="Wilting Strike"/> can be useful if your weaver wants weakness uptime for <Trait name="Superior Elements"/>. 
 - Third slot of Soulbeast - <Trait id="2143"/> can be an alternative if you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> then swap traits right before you get in combat so your allies get the buff but you also end up with the higher personal DPS of having a 10% damage modifier.
 - **If you can be 100% sure that you have the ability to flank the boss permanently** then you can consider swapping Marksmanship for Skirmishing with the following setup:
 
-<UnembossedTraits title="Skirmishing" traits1Id="30" traits1SelectedIds="1075,1016,1888"/>
+<UnembossedTraits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1075,1016,1888"/>
 
 </Card>
 </Tab>
@@ -113,7 +113,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 <Grid>
 <GridItem sm="7">
 <Card title="Skill Usage">
-The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="exposed"/> on the boss. Also as Soulbeast you have quite a few ticking damage over time aoes, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your weaver). You want to precast these aoes where possible when you know that the boss is about to be <Effect name="exposed"/>.  
+The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="exposed"/> on the boss. Also as <Specialization name="soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your weaver). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="exposed"/>.  
 
 **Weapon usage:**
 - As a <Specialization name="Soulbeast"/> you want to always run offhand axe as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
@@ -127,9 +127,9 @@ The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to 
 - You want to have <Skill id="31568" disableText/> [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) on swap to have quick access if you need stealth for skips at any point.
 
 **Utility skill usage:**
-- You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus**. One thing to keep in mind is that it only grants you 40% damage bonus against the targetted foe, so if you are cleaving trash mobs it might not be worth using as you would only get a damage bonus against one foe if you used it.
+- You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus**. One thing to keep in mind is that it only grants you 40% damage bonus against the targeted foe, so if you are cleaving trash mobs it might not be worth using as you would only get a damage bonus against one foe if you used it.
 - The choice between <Skill name="Frost trap"/> and <Skill name="Signet of the wild"/> depends on a lot of factors, mainly the phase length and downtime on phases where trap can recharge. For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="exposed"/> since it recharges during the island phase so trap is an obvious pick over signet.
-- For healing skills the usual choice is between <Skill name="We heal as one"/>, which extends your boons on use and is quite a large heal, and <Skill name="Bear stance"/>, which is nice if you need to cleanse condis either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for example pushing orbs at arkk.
+- For healing skills the usual choice is between <Skill name="We heal as one"/>, which extends your boons on use and is quite a large heal, and <Skill name="Bear stance"/>, which is nice if you need to cleanse conditions either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for example pushing orbs at arkk.
 - **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team.**
 
 - <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phase to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
@@ -153,7 +153,7 @@ If you have a Mistlock Singularity present you can use this rotation
 3. <Skill id="12621"/> to blast might.
 4. <Skill id="31914"/> to extend your boons.
 5. Pick up <Skill id="5516"/> if there is one.
-6. <Skill name="One Wolf Pack"/> then take the Mislock and trigger the boss
+6. <Skill name="One Wolf Pack"/> then take the Mistlock and trigger the boss
 
 If you don't have Mistlock Singularity present you can use this simplified rotation
 1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
@@ -180,6 +180,9 @@ For DPS rotation the same rules apply as above land, try to fit lots of damage i
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [Nightmare fractal page](/fractals/nightmare) for general encounter information!
 
+<Message>
+These guides are only really applicable to an optimized group scenarios.
+</Message>
 <Tabs>
 <Tab title="Mama">
 <Divider text="MAMA"/>
@@ -188,7 +191,7 @@ For DPS rotation the same rules apply as above land, try to fit lots of damage i
 <Card title="Skills and Traits">
 <UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle
-- Traits: <Trait id="2128"/> 
+- Traits: <Trait id="2128"/> although <Trait id="2143"/> can also work.
 - Food: <Item id="43360"/>
 - Utility: <Item id="50082"/>
 - **Make sure to use [consumables](/guides/consumables) if necessary on the adds!**
@@ -248,7 +251,7 @@ When you go back back to MAMA autoattack on sword and use <Skill name="One Wolf 
 - <Skill name="Path of scars"/> and swap weapons when it is off cd.
 
 **4th phase**
-- Try to cast <Skill name="Barrage"/> so it doesn't get interupted by MAMA jumping.
+- Try to cast <Skill name="Barrage"/> so it doesn't get interrupted by MAMA jumping.
 - Use <Skill name="Point Blank Shot"/> and <Skill id="45743"/> to CC.
 - <Skill name="Rapid Fire"/>
 - Use your dps skills as soon as they come off cd and don't cry from having to autoattack on longbow.
@@ -342,14 +345,14 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 **Opening**
 - Summon <Skill id ="12497"/> as you run towards the boss orb.
 - When the red circle appears around the arena start to cast <Skill id="5531"/> and then <Skill name="Barrage"/>
-- <Skill name="Pointblankshot"/>,  <Skill id="45743"/> for insta CC. Start casting <Skill name="Pointblankshot"/> just before Ensolyss becomes vulnerable so you can hit both CC skills.
+- <Skill name="Pointblankshot"/>,  <Skill id="45743"/> for instant CC. Start casting <Skill name="Pointblankshot"/> just before Ensolyss becomes vulnerable so you can hit both CC skills.
 - <Skill name="onewolfpack"/>, <Skill name="sicem"/>
 - <Skill name="rapidfire"/>
 - <Skill name="worldlyimpact"/>
 - <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>
 - Pick up <Skill name="conjurelightninghammer"/> if your weaver is kind enough to give you  one and use <Skill id="5725"/> (Skill 4).
 - AA with <Skill name="conjurelightninghammer"/> until its phased or your <Skill name="pathofscars"/> is back up.
-- If it still isnt phased swap weapons and use <Skill name="rapidfire"/>
+- If it still is not phased swap weapons and use <Skill name="rapidfire"/>
 
 **Orb phases**
 
@@ -367,7 +370,7 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>
 - Pick up <Skill name="conjurelightninghammer"/> if your weaver is kind enough to give you  one and use <Skill id="5725"/> (Skill 4).
 - AA with <Skill name="conjurelightninghammer"/> until its phased or your <Skill name="pathofscars"/> is back up.
-- If it still isnt phased swap weapons and use <Skill name="rapidfire"/>
+- If it still is not phased swap weapons and use <Skill name="rapidfire"/>
 
 </Tab>
 </Tabs>
@@ -377,6 +380,9 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 
+<Message>
+These guides are only really applicable to an optimized group scenarios.
+</Message>
 <Tabs>
 <Tab title="Skorvald">
 <Divider text="Skorvald"/>
@@ -408,7 +414,7 @@ You can do any portal in this fight except from island 3 to 4 as you want to sum
 **Opening**
 
 - When your first <Skill name="Frosttrap"/> procs cast it again and use <Skill name="Onewolfpack"/>
-- Once Skorvald is targettable use <Skill name="Sicem"/>, <Skill name="pathofscars"/>, <Skill id="45743"/> (to CC) then use <Skill name="Whirlingdefense"/>
+- Once Skorvald is targetable use <Skill name="Sicem"/>, <Skill name="pathofscars"/>, <Skill id="45743"/> (to CC) then use <Skill name="Whirlingdefense"/>
 - use <Skill name="Hornet Sting"/> to get to the first island once it is phased.
 
 **Islands**  
@@ -584,7 +590,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 **Archdiviner phase**
 
-- The weaver should give you a <Skill name="conjurefierygreatsword"/> in the archdiviner phase. 
+- The <Specialization name="weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the archdiviner phase. 
 - You can use <Skill name="Worldlyimpact"/> and <Skill name="Fieryrush"/> to damage the archdiviner. 
 - When the archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with the special action key to get all hits on the archdiviner as well as CCing.
 - When the archdiviner dies precast <Skill id="5531"/>, <Skill name="Barrage"/> and <Skill name="Frosttrap"/>
