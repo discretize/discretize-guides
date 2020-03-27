@@ -141,7 +141,7 @@ Skip here by one of the classes below:
 
 <Tabs>
 <Tab specialization="Guardian">
-<Video title="Guarian skip to last boss, same for Ranger" timestamp="103" youtube="MmJTsOhdQeo"/>
+<Video title="Guarian skip to last boss, same for Ranger and Warrior" timestamp="103" youtube="MmJTsOhdQeo"/>
 </Tab>
   
 <Tab specialization="Thief">
