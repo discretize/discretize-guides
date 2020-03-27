@@ -42,7 +42,7 @@ Use `/gg` afterwards and stay dead until the <Specialization name="elementalist"
 At the start, use <Item id="8764"/> and <Item id="8801"/> for <Effect name="stealth"/> to prevent aggro from the mobs. Place <Item id="78978"/>, walk upstairs while the others kill the mobs and open the portal in front of the *Ankle Seals*.
 
 
-<Video title="Revenant skip (to ankle)" youtube="v=DaKI7Ccr_Ss"/>   
+<Video title="Revenant skip (to ankle)" youtube="DaKI7Ccr_Ss"/>   
 </Tab>
 
 <Tab specialization="elementalist">
@@ -148,7 +148,7 @@ After the whole party `/gg`'ed, resurrect yourself and place <Item id="78978"/> 
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="renegade">
-<Video title="Revenant skip" youtube="v=-zJLBwkO1Cg"/>  
+<Video title="Revenant skip" youtube="-zJLBwkO1Cg"/>  
 </Tab>
 <Tab specialization="elementalist">
 <Video title="Ele skip" youtube="v=OjUvCp2h_04"/>
