@@ -341,7 +341,7 @@ Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Drago
 Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 </Message>
 
-In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moastance"/> over <Skill name="Signet of the wild"/>. Use <Skill name="Moastance"/> at the beginning of each phase.
+In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moastance"/> over <Skill name="Frost trap"/>. Use <Skill name="Moastance"/> at the beginning of each phase.
 
 **Opening**
 - Summon <Skill id ="12497"/> as you run towards the boss orb.
