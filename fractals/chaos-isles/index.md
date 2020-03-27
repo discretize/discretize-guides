@@ -1,6 +1,6 @@
 ---
 title: 'Chaos Isles'
-date: '2018-09-12'
+date: '2020-03-27'
 image: './images/legendary_brazen_gladiator.jpg'
 group: 'T4'
 api: 3038
@@ -37,6 +37,10 @@ Kill the four *Veteran Chanters* at the beginning to open the gate on the right-
 <GridItem sm="4">
 <Image src="./images/start.jpg" caption="The starting area"/>
 </GridItem>
+  
+<GridItem sm="8">
+<Video title="Skip to Chaos Anomaly (any class)" youtube="Alpgs_GaZV0?t=19"/>  
+</GridItem>
 </Grid>
 
 ---
@@ -52,12 +56,12 @@ Pay attention to the <Control name="knockback"/> zones from the small JT-12 gole
 
 <GridItem>
 <Tabs>
-<Tab specialization="mesmer">
-Trait <Trait id="751"/> and use <Skill id="10363"/> at 75%/50%/25% to grab the golems together.
+<Tab specialization="Revenant">
+It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorbtion with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade trainline combo variant for more energy for the whole fight.
 </Tab>
 
-<Tab specialization="spellbreaker">
-You can <Skill id="14502"/> golems towards the center area.
+<Tab specialization="guardian">
+You can use <Skill name="Binding Blade"/> to group the little cats at the start and then every phase of Chaos Anomaly, the position you need to place yourself for perfect pull can vary based on what cat you killed last, there are variations you cant pull all of them, only 2.
 </Tab>
 
 <Tab specialization="ranger">
@@ -104,8 +108,8 @@ Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Con
 
 <GridItem sm="4">
 <Tabs>
-<Tab specialization="chronomancer">
-Use a combination of <Skill id="29578"/>, <Skill id="29526"/>, <Skill id="10377"/>, <Skill id="10236"/> and <Skill id="29830"/> to keep up <Boon name="quickness"/> and block every single dazing auto-attack with <Boon name="aegis"/>.
+<Tab specialization="Revenant">
+Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="daze"/>.
 </Tab>
 
 <Tab specialization="ranger">
