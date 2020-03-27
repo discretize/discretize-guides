@@ -16,11 +16,11 @@ code: '[&DQEQLyo6GzkmDyYPihItAUgBSAH+AP4AtRJxEgAAAAAAAAAAAAAAAAAAAAA=]'
 
 <Tab title="Build">
 
-The <Specialization name="dragonhunter" text="Power Dragonhunter"/> was moved to the [offmeta](/builds/) due to the fact that you can not replace a <Specialization name="weaver"/> or <Specialization name="Soulbeast"/>. <Specialization title="Power Dragonhunter" name="dragonhunter"/> is a meta only if replacing <Specialization name="firebrand" /> and being the main source of <Boon name="quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in really short encounters. 
+The <Specialization name="dragonhunter" text="Power Dragonhunter"/> was moved to the [offmeta](/builds/) due to the fact that you can not replace a <Specialization name="weaver"/> or <Specialization name="Soulbeast"/>. <Specialization title="Power Dragonhunter" name="dragonhunter"/> is a meta only if replacing <Specialization name="firebrand" /> and being the main source of <Boon name="quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters. 
 
 <Specialization name="dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
 
-The build also offers strong on-demand party support with <Skill id="30039"/> and other usefull skills such as <Skill id="9251"/>, <Skill name="standyourground"/> and so on.
+The build also offers strong on-demand party support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/>, <Skill name="standyourground"/> and so on.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -50,7 +50,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
 <Card title="Notes">
-If you use <Trait name="Perfectinscriptions"/> you are lacking crit chance, therefore the assassins pieces. You can of course mitigate this by increasing your agony resistance. 
+If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore the assassins pieces. You can of course mitigate this by increasing your agony resistance. 
 
 It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="guardian"/> or another source of <Boon name="Retaliation"/>.
 </Card>
@@ -153,14 +153,14 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="7">
 <Card title="Notes">
 * Always start on scepter/sword
-* Delay swapping to GS until the CC-bar is about to be broken. This is especially important at ensolyss without insta CC. 
+* Delay swapping to GS until the CC-bar is about to be broken. This is especially important at ensolyss without instant CC. 
 * Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
 * Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits.
 * Don't interrupt your GS auto-attack chain
-* In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be benifical to get your <Skill name="spearofjustice"/> out first.)
+* In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.)
 * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
 * Don't waste your key skills on meaningless adds
-* Its up to you wheter you decide to go Scepter or Sword. Sword tends to outperform Scepter, especially in longer encounters.
+* Its up to you whether you decide to go Scepter or Sword. Sword tends to outperform Scepter, especially in longer encounters.
 
 </Card>
 </GridItem>
@@ -280,7 +280,7 @@ You can kill the first two adds with greatsword. You can use traps on the 2nd ad
 <Tab title="Artsariiv">
 **General**
 - If your team does not have a <Specialization name="soulbeast"/>, you can take <Skill name="Wall of reflection"/> for omega reflects. 
-- Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the knockbacking attacks.
+- Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the <Effect name="knockback"/> attacks.
 - Save a <Skill name="shieldofcourage"/> or <Skill name="shieldofwrath"/> for the expanding AoE so you can deal continues DPS during the mid burn.
 
 ---
@@ -300,8 +300,8 @@ You can kill the first two adds with greatsword. You can use traps on the 2nd ad
 ### *Adds*
 - Help your team CCing with [consumables](/guides/consumables). 
 - Swap to scepter and camp it to be ready for the mid burst.
-- Do not waste your bane signet or <Skill name="Binding Blade"/> (GS5) for this. 
-- Use your special action key to quickly navigate to adds. 
+- Do not waste your <Skill name="banesignet"/> or <Skill name="Binding Blade"/> (GS5) for this. 
+- Use your <Effect name="hypernovalaunch"/> to quickly navigate to adds. 
 
 ### **66% and 33%**
 - When all adds are broken, your traps will be off cooldown again. 

@@ -90,7 +90,7 @@ In case your team downs all the time and you cannot keep your PUG friends alive,
 
 It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is important to understand that the signet share is essential to faster runs and sharing extra power during <Effect name="exposed"/> (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
 
-The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals but it should not be needed.
+The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals, but it should not be needed.
 
 When <Instability name="Afflicted"/> is present or enemies are applying conditions, you can use <Skill name="Symbol of Swiftness"/> (Staff3) and blast it with <Skill name="Holy Strike"/> (Staff2) for area condition cleanse.
 
@@ -120,7 +120,7 @@ CCing:
 - Always use <Skill name="Bane Signet"/>! This is one of the most important things you have to do!
 - Use <Skill name="Blazing Edge"/> (Axe3)
 - Use <Skill name="Shield of Absorption"/> (Shield5)
-- Using consumables such as <Item name="Metal Rod"/>, Sentinel Rifle and Termite Shovel is highly encouraged, since you having nothing to do anyway.
+- Using consumables such as <Item name="Metal Rod"/>, <Item name="sentinelrifle"/> and <Item name="termiteshovel"/> is highly encouraged, since you having nothing to do anyway.
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
@@ -157,7 +157,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 </GridItem>
 <GridItem>
 <Message>
-This guide is good for people who want to start fractals with heal firebrand. We still highly recommend running the Radiance/Honor build variant from our Build section so you start playing with the proper build !
+This guide is good for people who want to start fractals with heal firebrand. We still highly recommend running the Radiance/Honor build variant from our Build section so you start playing with the proper build!
 </Message>
 <Video youtube="oigZbGyQvbQ" title="In-depth build guide by Rheyo"/>
 </GridItem>
