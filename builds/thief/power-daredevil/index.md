@@ -19,7 +19,7 @@ code: '[&DQUcPSMbBzmUEoUALwFWATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 <Tab title="Build">
 <Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable many fast skips in T4s. <Specialization name="daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="daredevil"/>  becomes quite hard to master.
 
-In fractals <Specialization name="daredevil"/> falls behind other classes for several reasons. First would be <Trait id="1268"/>, which forces <Specialization name="daredevil"/> to constantly attack from behind or flank, which in some cases is not practicable. Next would be <Trait id="1257"/>, which may sometimes not utilise its full potential in 5 man groups. Finally keep in mind that because of <Trait id="2047"/>, you may be pushing your teammates on fractals with <Instability name="Social awkwardness"/> instability into deadly zones.
+In fractals <Specialization name="daredevil"/> falls behind other classes for several reasons. First would be <Trait id="1268"/>, which forces <Specialization name="daredevil"/> to constantly attack from behind or flank, which in some scenarios is not possible. Next would be <Trait id="1257"/>, which depending on your group composition you may not receive as much of a damage bonus as you would in raids where 10 players allows for more condis to be on the boss. Finally keep in mind that because of <Trait id="2047"/>, you may be pushing your teammates on fractals with <Instability name="Social awkwardness"/> instability into deadly zones.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -48,7 +48,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </GridItem>
 </Grid>
 </Tab>
-<Tab title = "176 AGONY RESISTANCE">
+<Tab title = "176+ AGONY RESISTANCE">
 <Grid>
 <GridItem sm="4">
 <Armor weight="Medium" helmId="48087" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48089" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48085" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48086" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48088" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48084" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -86,11 +86,12 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 | -- | -- |
 | <Trait id="1702" size="big" disableText/> | Critical Strikes trait. Heals you with % of damage dealt, useful if you cant stay alive.|
 | <Trait id="2023" size="big" disableText/> | Daredevil trait. Healing and condition cleanse on evade.  |
-| <Trait id="1277" size="big" disableText/> | Trickery trait. Meme way to deal with <Instability name="No Pain No Gain "/>, if you have no one else in your party can boonstrip. If you really want to do this, change Deadly Arts for Trickery. |
 
-
-
-
+If no one in your party can boonrip when the <Instability name="No Pain No Gain "/> instability is present you can swap Deadly Arts for the Trickery line with the following traits: 
+<UnembossedTraits traits1="Trickery" traits1Id="44" traits1SelectedIds="1163,1277,1158"/>
+<Message>
+**Note: this is kind of a meme way to deal with the instability and there are many better options!**
+</Message>
 
 </Card>
 
@@ -99,31 +100,31 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <GridItem sm="5">
 <Skills healId="30400" utility1Id="" utility2Id="30868" utility3Id="13046" eliteId=""/>
 <Card title="Alternative skills">
-Skills for the empty slot:
+3rd utility skill:
 | | |
 | -- | -- |
-| <Skill id="13037" size="big" disableText/> | Good for longer fights.|
-| <Skill id="13057" size="big" disableText/> | Good for short phases for additional burst. |
-| <Skill id="13062" size="big" disableText/> | Useful, if u wont be able to benefit from <Trait id="1268"/>, to critcap.|
+| <Skill id="13037" size="big" disableText/> | Best DPS for longer fights.|
+| <Skill id="13057" size="big" disableText/> | Good for short phases for additional burst as well as being a CC skill. |
+| <Skill id="13062" size="big" disableText/> | Helps to critcap without having to rely upon <Trait id="1268"/>. |
 Elite skills:
 | | |
 | -- | -- |
 | <Skill id="13085" size="big" disableText/> | Amazing cleave ability, may be useful on heavy trash fights or when reflects are needed.|
-| <Skill id="13082" size="big" disableText/> | Additional DPS.  |
-| <Skill id="13132" size="big" disableText/> | Amazing crowd control skill. 150 CC per party member on a low coolddown. |
+| <Skill id="13082" size="big" disableText/> | Additional personal DPS.  |
+| <Skill id="13132" size="big" disableText/> | Amazing crowd control skill. 150 CC per party member on a relatively low coolddown. |
 
 
 </Card>
 
-<Card title="Skips">
+<Card title="Usefull skills for skips">
 | | |
 | -- | -- |
-| <Skill id="13117" size="big" disableText/> | Group stealth. Keep in mind, leaving refuge before it ends, will reveal you|
+| <Skill id="13117" size="big" disableText/> | Group stealth. Keep in mind, if you leave the AoE before it ends, you will be revealed for a long period. |
 | <Skill id="13065" size="big" disableText/> | Use it to blast <Effect name="stealth"/> for skips or to destroy projectiles. |
 | <Skill id="13044" size="big" disableText/> | 3 seconds AoE <Effect name="stealth"/> (also another blast). |
 | <Skill id="13064" size="big" disableText/> | 1200 range shadowstep, useful for some skips. |
 | <Skill id="13002" size="big" disableText/> | 1200 range teleport, use it again to teleport back. |
-| <Skill id="13038" size="big" disableText/> | One way portal, useful if you don't have <Item id="78978"/>|
+| <Skill id="13038" size="big" disableText/> | One way portal, useful if you don't have <Item id="78978"/>.|
 
 </Card>
 
@@ -136,47 +137,47 @@ Elite skills:
 <Grid>
 <GridItem sm="7">
 <Card title="Rotation">
-(Before fight, lose endurance)
+(Before fight, lose endurance by dodging a couple times)
 1. **Dodge** 
 2. <Skill id="29911"/> (Staff 2)
-3. <Skill id="13046"/> (Utility **during** Staff 2)
+3. <Skill id="13046"/> (**during** Staff 2)
 4. <Skill id="29911"/> (Staff 2)
-5. <Skill id="30868"/> (Utility)
+5. <Skill id="30868"/> 
 6. <Skill id="29911"/> (Staff 2)
-7. (<Skill id="30868"/> ->) <Skill id="30693"/> (Utility)
+7. <Skill id="30693"/>
 8. <Skill id="29911"/> 2x (Staff 2)
 
 **Burst 1:** When you have _one bar of Endurance_ and **no** <Skill id="55031"/> (F1)
 
 1. Dodge
 2. <Skill id="29911"/> (Staff 2)
-3. <Skill id="13046"/> (Utility **during** Staff 2)
+3. <Skill id="13046"/> (**during** Staff 2)
 4. <Skill id="29911"/> (Staff 2)
-5. <Skill id="30868"/> (Utility)
+5. <Skill id="30868"/> 
 6. <Skill id="29911"/> (Staff 2)
-7. (<Skill id="30868"/> ->) <Skill id="30693"/> (Utility)
+7. <Skill id="30693"/> 
 8. <Skill id="29911"/> 2x (Staff 2)
 
-**Burst 2:** When you have _no Endurane_ **but have** <Skill id="55031"/> (F1)
+**Burst 2:** When you have _no Endurance_ **but have** <Skill id="55031"/> (F1)
 
 1. <Skill id="55031"/> (F1)
 2. Dodge
 3. <Skill id="29911"/> (Staff 2)
-4. <Skill id="13046"/> (Utility **during** Staff 2)
+4. <Skill id="13046"/> (**during** Staff 2)
 5. <Skill id="29911"/> (Staff 2)
-6. <Skill id="30868"/> (Utility)
+6. <Skill id="30868"/>
 7. <Skill id="29911"/> (Staff 2)
-8. (<Skill id="30868"/> ->) <Skill id="30693"/> (Utility)
+8. <Skill id="30693"/>
 9. Dodge
 10. <Skill id="29911"/> 2x (Staff 2)
 
-**Loop while waiting for <Skill id="13046"/> off cooldown:**
+**Loop while waiting for <Skill id="13046"/> to be off cooldown:**
 
 1. <Skill id="30614"/> => <Skill id="30135" disableText/> => <Skill id="30434" disableText/> (Staff 1)
 2. Dodge
 3. <Skill id="29911"/> (Staff 2) (Do it **2x** if you get max Initiative while you are waiting for <Skill id="13046"/>)
 
-You can also activate <Skill id="13046"/> for the last few attacks of a fight.
+You can also activate <Skill id="13046"/> to burst for the last few attacks of a fight.
 </Card>
 </GridItem>
 
@@ -189,13 +190,13 @@ You can also activate <Skill id="13046"/> for the last few attacks of a fight.
 | <Skill id= "13057"/> | 300 Defiance bar damage
 </Card>
 <Card title="Tips">
-<Skill id="30597"/> is worth using if you can hit 4 or more mobs at once. So on stacked trash packs, its worth to just spam <Skill id="30597"/> and finish with <Skill id="13085"/>.
+<Skill id="30597"/> (Staff 5) is worth using if you can hit 4 or more mobs at once. Especially since staff autoattacks and <Skill id="29911"/> can only hit 3 targets. So on big groups of trash mobs you should just spam <Skill id="30597"/> and then finish them with <Skill id="13085"/>.
 
-<Skill id="13041"/> is an amazing shortbow skill. It blasts with low initiative cost. Use it to blast <Boon name="Might"/> and <Effect name="Stealth"/> with fire and smoke fields. 
+<Skill id="13041"/> (Shortbow 2) is an amazing shortbow skill. It is a blast finisher with a low initiative cost. Use it to blast <Boon name="Might"/> and <Effect name="Stealth"/> with fire and smoke fields respectively.
 
-Keep in mind you can precast skills like <Skill id="13037"/>, <Skill id="13082"/> or <Skill id="13132"/> and take the mistlock singularity to refresh coolddown. For example: Precast <Skill id="13082"/>, take mistlock, cast <Skill id="13132"/>, and swap to <Skill id="13082"/> again.
+Keep in mind you can precast skills like <Skill id="13037"/>, <Skill id="13082"/> or <Skill id="13132"/> and take the mistlock singularity to refresh their coolddown. For example: Precast <Skill id="13082"/>, take mistlock, cast <Skill id="13132"/>, and swap to <Skill id="13082"/> again.
 
-Although <Specialization name="daredevil"/> doesn't have access to  <Boon name="Superspeed"/> or <Boon name="Quickness"/> for  <Item id="85244"/> or <Item id="49940"/>, it still can execute many skips for your party.
+Although <Specialization name="daredevil"/> doesn't have access to  <Boon name="Superspeed"/> or <Boon name="Quickness"/> for  <Item id="85244"/> or <Item id="49940"/>, it still can execute many skips for your party:
 
 <Video title="Thief Skips" youtube="Alpgs_GaZV0"/>
 
