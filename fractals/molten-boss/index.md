@@ -30,7 +30,7 @@ record:
 <Grid>
 <GridItem sm="8">
 Skip the first two bridges, you can use <Effect name="stealth"/> but since it is difficult to reapply just stay together while moving.
-**You can use <Item id="78978"/> to skip the enitre first part, video below.**
+**You can use <Item id="78978"/> to skip the entire first part, video below.**
 
 
 You will reach an area with two _Molten Protectors_, drag them with you to the next group of mobs where you can't proceed. Kill everything there and the bridge to the Molten Effigy will come down.
@@ -51,11 +51,11 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 </Tab>
 
 <Tab specialization="Guardian">
-<Video title="Guardian skip" youtube="MmJTsOhdQeo?t=364"/>
+<Video title="Guardian skip" timestamp="364" youtube="MmJTsOhdQeo"/>
 </Tab>
 
 <Tab specialization="Thief">
-<Video title="Thief skip" youtube="Alpgs_GaZV0?t=172"/>
+<Video title="Thief skip" timestamp="172"  youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
 </GridItem>
@@ -64,9 +64,9 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 
 ## Molten Effigy <Item id="50082" disableText/>
 
-Stack <Boon name="might"/> if possible before moving on to the Molten Effigy. **<Specialization name="Revenant"/> take <Skill name="Legendary Demon Stance"/> for <Skill name="Banis Enchantment"/> to remove <Boon name="Protection"> from the _Molten Effigy_**.
+Stack <Boon name="might"/> if possible before moving on to the Molten Effigy. **<Specialization name="Revenant"/> take <Skill name="Legendary Demon Stance"/> for <Skill name="Banish Enchantment"/> to remove <Boon name="Protection"> from the _Molten Effigy_**.
 
-There is another single Molten Protector which needs to be focused before switching to the _Molten Effigy_. **<Specialization name="Revenant"/> use <Skill name="Banis Enchantment"/> (<Skill name="Legendary Demon Stance" disableText/>) and remove <Boon name="Protection"/> from the _Molten Effigy_**. Use interrupts or reflects against the Effigy's _Firestorm_ attack, pay attention to the _Charge_ (large arrow) and _Shockwave_ attacks and cleave mobs around if possible.
+There is another single Molten Protector which needs to be focused before switching to the _Molten Effigy_. **<Specialization name="Revenant"/> use <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon Stance" disableText/>) and remove <Boon name="Protection"/> from the _Molten Effigy_**. Use interrupts or reflects against the Effigy's _Firestorm_ attack, pay attention to the _Charge_ (large arrow) and _Shockwave_ attacks and cleave mobs around if possible.
 
 The moment you killed the Effigy you can `/gg` if necessary so you don't have to take the Mistlock Singularity (this prevents the problem where you can't take the Mistlock Singularity due to being in fight), then you can continue to the next trash group. All following groups of mobs are progress-blocking, clear them to make it to the final area. Molten Protectors have the highest priority (because they cast AoE <Effect name="invulnerability"/>) and Smoke Shamans are second to them (they apply <Effect name="stealth"/> to surrounding enemies). You can `/gg` once directly before the end boss if necessary.
 

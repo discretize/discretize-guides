@@ -97,16 +97,16 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 <GridItem sm="12">  
 <Tabs>
 <Tab specialization="Ranger">
-<Video title="Ranger skip" youtube="3Zc_ZJqPD0s?t=100"/>  
+<Video title="Ranger skip" timestamp="100"  youtube="3Zc_ZJqPD0s"/>  
 </Tab>
 <Tab specialization="Warrior">
 Coming soon.
 </Tab>
 <Tab specialization="Guardian">
-<Video title="Guardian skip" youtube="MmJTsOhdQeo?t=265"/>
+<Video title="Guardian skip" timestamp="256" youtube="MmJTsOhdQeo"/>
 </Tab>
 <Tab specialization="Thief">
-<Video title="Thief skip" youtube="Alpgs_GaZV0?t=125"/>
+<Video title="Thief skip" timestamp="125" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
 </GridItem>
