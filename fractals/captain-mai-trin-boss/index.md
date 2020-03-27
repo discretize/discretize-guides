@@ -41,8 +41,6 @@ Mai Trin is protected by ten stacks of *Captain's Shield*, each stack reducing h
 
 The key is to stack on Mai Trin during the whole fight (beware the <Effect name="agony"/> from <Instability name="Social Awkwardness"/>), this way she will always be in an electric field, even if she teleports to the furthest player away.
 
-Your <Specialization name="druid"/> should be able to stay in <Skill id="31869"/> most of the time and keep the party alive, although the amount of conditions and damage can make it difficult to hold the line. Immediately resurrect downed players.
-
 Every 25% health, Mai Trin disappears and additional enemies will spawn while fiery cannons start shooting. Switch your damage to Horrik and deal 25% of his health to make Mai Trin return. Cleave the spawning mobs during downtimes.
 
 Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily Mai Trin won't have any protecting stacks below 25%, so make sure to finish her rather than Horrik (Killing Mai Trin finishes the fractal).
