@@ -22,7 +22,7 @@ The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one o
 
 It has quick burst damage and doesn't rely as much on pre-casting as [Power Tempest](/builds/elementalist/power-tempest). Since you don't have long casting times and the rotation loops fluently, it is fun to play as long as there are no Instabilities that discourage melee interactions.
 
-Aside from <Condition name="vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS the Power Sword Weaver build unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
+Aside from <Condition name="vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS, the <Specialization name="Weaver" text="Power Sword Weaver"/> unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
 
 The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -409,7 +409,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 -Just don't die.
 
 **66%**
-- Before the boss becomes vulnerable, cast <Skill id="5691"/> and <Skill id="21656"/> so that your party gets some might.
+- Before the boss becomes vulnerable, cast <Skill id="5691"/> and <Skill id="21656"/> so that your party gets some <Boon name="Might"/>.
 - <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete your auto attack chain on <Skill id="5492"/>/<Skill id="5494"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="5516"/> (To the point you will stand during the capture phase) -> <Skill id="5517"/> -> <Skill id="5531"/> ->  <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
 - Complete your auto attack chains and get as much damage as you can in the <Effect name="exposed"/> duration. 
 
