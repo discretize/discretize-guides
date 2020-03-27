@@ -5,7 +5,7 @@ image: './images/preview.jpg'
 description: 'Learn how to contribute your share of CC to break enormous break bars.'
 ---
  
-### Basics of Crowd Control<br/>:
+### Basics of Crowd Control:<br/>
 <Grid>
 <GridItem sm="6">
 
