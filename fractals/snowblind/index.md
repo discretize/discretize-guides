@@ -88,10 +88,10 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 
 <Grid>
 <GridItem sm="8">
-After the Elemental Source is destroyed, everyone except the fastest player can `/gg` and wait for the next checkpoint at the cave to trigger. Mobility skills and <Item id="49940"/> are very good here, **skip videos below**.
+<Image src="./images/the_icy_forest.jpg" caption="The icy forest"/>
 </GridItem>
 <GridItem sm="4">
-    <Image src="./images/the_icy_forest.jpg" caption="The icy forest"/>
+After the Elemental Source is destroyed, everyone except the fastest player can `/gg` and wait for the next checkpoint at the cave to trigger. Mobility skills and <Item id="49940"/> are very good here, **skip videos below**.
 </GridItem>
   
 <GridItem sm="12">  
@@ -103,7 +103,7 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 <Video title="Warrior skip" timestamp="21"  youtube="29qQ2xU1YHk"/>
 </Tab>
 <Tab specialization="Guardian">
-<Video title="Guardian skip" timestamp="256" youtube="MmJTsOhdQeo"/>
+<Video title="Guardian skip" timestamp="258" youtube="MmJTsOhdQeo"/>
 </Tab>
 <Tab specialization="Thief">
 <Video title="Thief skip" timestamp="125" youtube="Alpgs_GaZV0"/>
