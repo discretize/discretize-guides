@@ -36,7 +36,7 @@ After killing the _Deepstone Sentinel_ the crystal energy orb spawns, take it an
 Coming soon.
 </Tab>
 <Tab specialization="Warrior">
-Coming soon.
+<Video title="Tetris skip" youtube="MmJTsOhdQeo"/>
 </Tab>
 </Tabs>
 
