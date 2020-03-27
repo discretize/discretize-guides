@@ -15,7 +15,7 @@ sigils: [{ id: 24868 }, { id: 24554 }]
 
 <Grid>
 <GridItem sm="6"> 
-Go to Rox and Braham, wait for the mobs to sapwn, kill them. After killing them, proceed into the tunnel, there are 5 caves in the tunnel, each having a group of mob in it, after killing the mobs, destroy the _Boulder_ that becomes damageable (a red gear indicates it's place). After killing all 5 group of mobs and destroying all 5 _Boulders_ on the red gears you wait for the Drill to make it's way out of the tunnel (which should be already done).
+Go to Rox and Braham, wait for the mobs to spawn, kill them. After killing them, proceed into the tunnel, there are 5 caves in the tunnel, each having a group of mob in it, after killing the mobs, destroy the _Boulder_ that becomes damageable (a red gear indicates it's place). After killing all 5 group of mobs and destroying all 5 _Boulders_ on the red gears you wait for the Drill to make it's way out of the tunnel (which should be already done).
 </GridItem>
 <GridItem sm="6">
 <Image src="./images/portal.jpg" caption="The portal"/>
