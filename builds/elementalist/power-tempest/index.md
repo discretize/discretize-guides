@@ -25,7 +25,7 @@ For projectile-heavy scenarios <Skill name="Aftershock"/> and <Skill name="Sand 
 Contrary to the [Sword Weaver](/builds/elementalist/power-sword-weaver), melee hate like <Instability name="Social Awkwardness"/> or disruptions like <Instability name="Last Laugh"/> don't matter that much since you can stand on range and have access to a multitude of defensive mechanics like <Boon name="stability"/>, <Trait name="Gale Song"/>.
 
 The degree of difficulty is a little bit higher than the other <Specialization name="Elementalist"/> builds as you need to adhere many small things to achieve top numbers.  
-The positiong and timing of skills matter a lot, a single mistake can make your DPS end up several thousands below other damage dealers.
+The positioning and timing of skills matter a lot, a single mistake can make your DPS end up several thousands below other damage dealers.
 
 The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -147,7 +147,7 @@ Your entire rotation revolves around using <Skill name="Overload Air"/> as often
 
 Apart from that, you have the following modifiers:
 
-- <Trait id="1839"/>: 7% damage and condi damage for 7 seconds after <Skill name="Overload Air"/>
+- <Trait id="1839"/>: 7% damage and condition damage for 7 seconds after <Skill name="Overload Air"/>
 - <Trait name="Fresh Air"/>: 250 ferocity for 5 seconds after attuning to air
 - <Trait name="Stormsoul"/> and <Item name="Impact" type="Sigil"/> when the target's defiance bar is broken
 - <Skill name="Conjure Lightning Hammer"/>: 75 ferocity while wielding it

@@ -621,7 +621,7 @@ Stay in the middle
 3) <Skill name="symbol of wrath"/>
 4) <Skill name="bindingblade"/>
 5) <Skill name="whirling wrath"/>
-6) Use special action key to the corner
+6) Use <Effect name="hypernovalaunch"/> to the corner
 7) <Skill name="tome of courage"/> skill 5 and 4
 8) Use <Skill name="banesignet"/> to CC
 9) <Skill name="whirling wrath"/>
@@ -641,7 +641,7 @@ Stay in the middle
 7) <Skill name="whirling wrath"/>
 8) <Skill name="bindingblade"/>
 9) <Skill name="leapoffaith"/>
-10) Use special action key to the corner
+10) Use <Effect name="hypernovalaunch"/> to the corner
 11) <Skill name="whirling wrath"/>
 12) <Skill name="symbol of wrath"/>
 13) Weapon swap
@@ -663,7 +663,7 @@ Stay in the middle
 7) <Skill name="whirling wrath"/>
 8) <Skill name="bindingblade"/>
 9) <Skill name="leapoffaith"/>
-10) Use special action key to the corner
+10) Use <Effect name="hypernovalaunch"/> to the corner
 11) <Skill name="whirling wrath"/>
 12) <Skill name="symbol of wrath"/>
 13) Weapon swap
@@ -700,7 +700,7 @@ Stay in the middle
 
 ### **Phase 2**
 
-You can use special action key to the middle
+You can use <Effect name="hypernovalaunch"/> to the middle
 1) <Skill name="sword of justice"/>
 2) <Skill name="symbol of wrath"/>
 3) <Skill name="whirling wrath"/>
@@ -756,7 +756,7 @@ You can use special action key to the middle
 6) <Skill name="whirling wrath"/>
 
 Annotation:
-1) If possible make sure you use special action key to CC the adds
+1) If possible make sure you use <Effect name="hypernovalaunch"/> to CC the adds
     1) First add spawn AoE's that strips boons, make sure you avoid them
 
 </Tab>
