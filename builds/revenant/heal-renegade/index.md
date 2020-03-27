@@ -416,6 +416,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 **Legends**  
 
 <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
+
 ---
 
 **Precast**  
