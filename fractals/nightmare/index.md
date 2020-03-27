@@ -42,7 +42,7 @@ Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your 
 | CC-bar MAMA | 1800 |
 | CC-bar adds | 800 |
 
-Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before jumping down. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlcok to siax.
+Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before jumping down. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlock to MAMA.
 
 The duration of the encounter heavily relies on how quickly your party can break the defiance bars throughout the fight, in addition to the amount of damage your party can generate in each phase. This is an average clear time and can be reached by organized teams as well as pick up groups. The class outlines below will be suitable for faster and slower kills as well.
 
@@ -61,7 +61,7 @@ Fast crowd control and animation knowledge are the keys to this fight.
 <Grid>
 <GridItem sm="8">
 ## First set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
-Swap your weopen set to <Item name="Impact"/> and <Item name="Serpentslaying"/>. You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.    
+Swap your weapon set to <Item name="Impact"/> and <Item name="Serpentslaying"/>. You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.    
 Learn the *Red Orb* patterns as they can quickly kill you, *Blue Orbs* will heal you for a large amount of health (even with Agony).    
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
 </GridItem>
@@ -90,7 +90,7 @@ Use <Skill id="5536"/> to teleport up to the altars.
 
 You can pull both sides with <Skill id="5491"/> (for the right side, jump at the end of your [cast](https://www.youtube.com/watch?v=lNZEM9StauU)).
 
-If the person who pulled your side ported up the other side to fast and the mobs come back use <Skill id="5683"/> and <Skill id="5686"/> to prevent them from reachin the circle before it is tabbed. Make sure you are attuned correctly for this in time.
+If the person who pulled your side ported up the other side to fast and the mobs come back use <Skill id="5683"/> and <Skill id="5686"/> to prevent them from reaching the circle before it is tabbed. Make sure you are attuned correctly for this in time.
 </Tab>
 
 <Tab specialization="firebrand">
@@ -111,7 +111,7 @@ At the second set of altars, wait for your <Specialization name="Firebrand"/> to
 <Tab specialization="dragonhunter">
 Use <Skill name="Binding Blade"/> and <Skill name="Dragonsmaw"/> excessively to pull as many mobs as possible. 
 
-At the second set of altars use your <Skill name="Huntersverdict"/> to pull out the Elite Nightmare Hypnoss occupying the center circle. Make sure, that there are no projectil blocking Skills from enemies present.
+At the second set of altars use your <Skill name="Huntersverdict"/> to pull out the Elite Nightmare Hypnoss occupying the center circle. Make sure, that there are no projectile blocking Skills from enemies present.
 </Tab>
 </Tabs>
 
@@ -126,7 +126,7 @@ At the second set of altars use your <Skill name="Huntersverdict"/> to pull out 
 | CC | 2000 |
 
 
-Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before approaching the red orb and starting the fight. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlcok to siax.
+Stack <Boon name="might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before approaching the red orb and starting the fight. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlock to siax.
 
 The duration of the encounter heavily relies on how much damage your group can generate in each phase and how quickly you can finish the adds. This is a rather fast clear time and can be reached by organized teams. Pick up groups might have a hard time reaching this duration, however the class-outlines below are still suitable for slower kills.
 
