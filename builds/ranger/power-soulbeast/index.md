@@ -476,7 +476,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="Rapid fire"/> then dodge her slam attack **(do not use <Skill name="sicem"/> here)**.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>
 - <Skill id="43548"/> then <Skill name="Worldlyimpact"/>
-- Special action key into the corner.
+- <Effect name="hypernovalaunch"/> into the corner.
 - <Skill name="Rapid fire"/> and <Skill name="sicem"/> into the cast.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
 - <Skill name="Worldlyimpact"/>
@@ -592,7 +592,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 - The <Specialization name="weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the archdiviner phase. 
 - You can use <Skill name="Worldlyimpact"/> and <Skill name="Fieryrush"/> to damage the archdiviner. 
-- When the archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with the special action key to get all hits on the archdiviner as well as CCing.
+- When the archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with the <Effect name="hypernovalaunch"/> to get all hits on the archdiviner as well as CCing.
 - When the archdiviner dies precast <Skill id="5531"/>, <Skill name="Barrage"/> and <Skill name="Frosttrap"/>
 
 **70-50%**
