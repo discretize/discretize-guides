@@ -14,8 +14,11 @@ author: 'Janitsu.6284'
 ---
 <Tabs>
 <Tab title="Build">
-For **<Specialization text="Heal Renegade" name="Renegade"/>** we have chosen Harrier and Cleric for maximum power and healing power while still hitting 100% boon duration because <Skill name="Soulcleaves Summit" /> deals damage and lifesteals based on the **<Specialization text="Heal Renegade" name="Renegade"/>**'s own power and healing power.
-Feel free to run full Harrier if you are confident that you don't need the extra healing power or toughness from Cleric. the more agony resistance you have, the more Cleric you can afford to run and still  hit 100% boon duration.
+The **<Specialization text="Heal Renegade" name="Renegade"/>** plays with a mix of harrier's and cleric's gear for maximum power and healing power while still hitting 100% boon duration.
+ 
+Since the damage and life steals of <Skill name="Soulcleaves Summit" /> are based on the **<Specialization text="Heal Renegade" name="Renegade"/>**'s own power and healing power, the <Specialization text="Heal Renegade" name="Renegade"/> aims to maximize those stats.
+
+Feel free to run full Harrier if you are confident that you don't need the extra healing power or toughness from cleric. The more agony resistance you have, the more cleric you can afford to run and still hit 100% boon duration.
 
 <Divider text="Equipment"/>
 
@@ -52,11 +55,12 @@ Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 <GridItem sm="7">
 <Traits traits1="Salvation" traits1Selected="Tranquil Balance,Invoking Harmony,Selfless Amplification" traits2="Devastation" traits2Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Righteous Rebel"/>
 <Card title="Second trait variant">
-If you feel your energy runs out too quick, we recommend the Salvation/Incovation variant. This variant is also better for fractals where <Trait name="Assassins Presence"/> doesn't help your party. This would include fractals where damage is time-gated and where you can't critically hit the enemies that matter.
+If you run out of energy too quickly, we recommend the Salvation/Invocation variant. This variant is also better for fractals where <Trait name="Assassins Presence"/> doesn't help your party. This would include fractals where damage is time-gated and where you can't critically hit the enemies that matter.
 
 You should consider running this trait variant in fractals like Molten Furnace and Captain Mai Trin.
 
-<UnembossedTraits traits1Id="3" traits1SelectedIds="1761,1774,1791"/>
+Swap Devastation with this line:
+<UnembossedTraits traits1Id="3" traits1="Invocation" traits1SelectedIds="1761,1774,1791"/>
 
 Template code:
 

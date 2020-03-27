@@ -1,6 +1,6 @@
 ---
 title: 'Renegade'
-date: '2020-03-26'
+date: '2020-03-27'
 rating: 'Meta'
 role: 'Support'
 profession: 'Revenant'
@@ -479,7 +479,8 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 <GridItem sm="12">
 
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
+
+<Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
 
 ---
 
@@ -572,7 +573,16 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 <GridItem sm="12">
 
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
+
+<Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
+
+---
+
+**Traits**
+
+For this encounter it is recommended to run the following traits in Devastation trait line.
+
+<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 ---
 
@@ -665,7 +675,16 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 <GridItem sm="12">
 
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
+
+<Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
+
+---
+
+**Traits**
+
+For this encounter it is recommended to run the following traits in Devastation trait line.
+
+<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 ---
 
