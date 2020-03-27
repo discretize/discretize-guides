@@ -29,7 +29,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1MainSigil2="Force" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force"  weapon2OffType="Warhorn" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
 
 <Card title="Swap Weapons">
-* Swap out weapon sigils for your Greatsword and Axe as neccesary (<Item id="36053" disableText/> for night fractals, <Item id="24615" disableText/> for Nightmare, etc.)
+* Swap out weapon sigils for your Greatsword and Axe as necessary (<Item id="36053" disableText/> for night fractals, <Item id="24615" disableText/> for Nightmare, etc.)
 * A budget option is to just have individual greatswords with the required slaying sigils until you can get your specialized axes (see [Consumables Guide](/guides/consumables))
 </Card>
 </GridItem>

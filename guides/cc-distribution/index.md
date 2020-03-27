@@ -1,6 +1,6 @@
 ---
 title: 'CC Distribution'
-date: '2020-03-20'
+date: '2020-03-27'
 image: './images/preview.jpg'
 description: 'Learn how to contribute your share of CC to break enormous break bars.'
 ---
