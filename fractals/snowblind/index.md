@@ -44,7 +44,7 @@ When there are only a few percent remaining, go near the fire to leave combat an
 Cast a <Skill name="Conjure Fiery Greatsword"/> for <Specialization name="revenant"/> at the wall right before it melts.
 </Tab>
 <Tab specialization="Revenant">
-First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Place <Item id="78978"/> then  skip to the first bonfire on the left with anything like: <Skill name="Conjure Fiery Greatsword"/> or <Item id="49940"/> or <Item id="85244"/>, place portal exit when you lit the fire, then go to the _Elemental source_ place deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, what you need to do is in the next paragraph with video.
+First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Place <Item id="78978"/> then  skip to the first bonfire on the left with anything like: <Skill name="Conjure Fiery Greatsword"/> or <Item id="49940"/> or <Item id="85244"/>, place portal exit when you lit the fire, then go to the _Elemental source_, deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, what you need to do is in the next paragraph with video.
 </Tab>
 </Tabs>
 
