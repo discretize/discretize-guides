@@ -118,9 +118,10 @@ The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to 
 **Weapon usage:**
 - As a <Specialization name="Soulbeast"/> you want to always run offhand axe as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
 - As a mainhand you want to usually run Sword unless you have a short phase where you don't need to autoattack much in which case you should run mainhand axe so you can use <Skill name="Winters bite"/> just before the phase ends.
+- **You shouldn't run dagger mainhand in fractals as the phases are very short so sword is better dps.**
 - For your second weaponset you either run greatsword or longbow:
   - Longbow offers higher burst through the ability to precast <Skill name="Barrage"/> but falls off if you end up back on longbow and have to autoattack for a sustained period. Longbow also allows you to proc <Item id="84505"/> with <Skill id="12511"/> for a nice damage bonus.
-  - Greatsword is the choice for if you have a long sustained dps phase that allows you to loop your rotation nicely. It offers nice movement through <Skill id="12521"/> as well as a nice damage bonus on your next skill when using <Skill id="12525"/>.
+  - Greatsword is the choice for if you have a long sustained dps phase that allows you to loop your rotation nicely. <Skill id="12525"/> grants you <Effect name="attackofopportunity"/> which increases the damage of your next skill by 50%. You also have nice movement through <Skill id="12521"/>.
 
 **Pet usage:**
 - For pets you simply run <Skill id="43636" disableText/> [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) if you need CC or <Skill id="44617" disableText/> [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) if you don't. **It is safer to just run Gazelle most of the time and only swap to Moa when you are absolutely sure you don't need the CC. You never know when a little CC can come in handy!**
@@ -195,12 +196,14 @@ These guides are only really applicable to an optimized group scenarios.
 - Food: <Item id="43360"/>
 - Utility: <Item id="50082"/>
 - **Make sure to use [consumables](/guides/consumables) if necessary on the adds!**
-- It can be worth to run <Item id="82876"/> instead of <Item id="24615"/> on longbow depending on fight length.
 
 </Card>
 </GridItem>
 <GridItem sm="6">
 <Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
+<Card title="Additional Information">
+It can be worth to run <Item id="82876"/> instead of <Item id="24615"/> on longbow depending on fight length.
+</Card>
 </GridItem>
 </Grid>
 <Divider text="HOW TO PLAY"/>
@@ -340,7 +343,7 @@ Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Drago
 Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 </Message>
 
-In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moastance"/> over <Skill name="Signet of the wild"/>. Use <Skill name="Moastance"/> at the beginning of each phase.
+In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moastance"/> over <Skill name="Frost trap"/>. Use <Skill name="Moastance"/> at the beginning of each phase.
 
 **Opening**
 - Summon <Skill id ="12497"/> as you run towards the boss orb.
@@ -458,7 +461,7 @@ In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/>
 - Summon <Skill name="Frost Spirit"/> in middle before someone triggers Artsariiv.
 - When she is triggered precast <Skill id="5531"/> and <Skill name="Barrage"/> 
 - Use <Skill name="onewolfpack"/> then <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>
-- Use <Skill name="Rapid fire"/> then SAK to the side.
+- Use <Skill name="Rapid fire"/> then <Effect name="hypernovalaunch"/> to the side.
 - Use <Skill name="Cold Snap"/> to call your spirit to side.
 - When she reaches the side use <Skill name="Sicem"/>, <Skill name="Worldlyimpact"/>
 - <Skill name="pathofscars"/> to help CC.
@@ -510,7 +513,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Use <Skill name="Rapid fire"/> as you walk behind her in mid.
 - Swap weapons use <Skill name="pathofscars"/> as you walk through the boss to stand behind her.
 - <Skill name="Whirlingdefense"/> then <Skill name="Worldlyimpact"/> followed by <Skill id="41524"/> and <Skill id="45743"/> as she jumps to the side.
-- If she reaches the side then use SAK to avoid the slam wave and sword autoattack until she has phased.
+- If she reaches the side then use <Effect name="hypernovalaunch"/> to avoid the slam wave and sword autoattack until she has phased.
 
 **Add CC Phase**
 
@@ -522,13 +525,14 @@ Use [consumables](/guides/consumables) to CC the adds.
 - When Artsariiv becomes vulnerable sword autoattack and use <Skill id="41524"/>, <Skill id="45743"/> and <Skill name="pathofscars"/> when they come off cd.
 - Dodge her slam attack then use <Skill name="sicem"/> in combination with <Skill name="Whirlingdefense"/>
 - Swap to longbow as she teleports to fire her laser and use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> and then <Skill name="Rapid fire"/>
-- Wait in the middle for your team to stack might then use SAK to the corner to avoid the slam wave.
+- Wait in the middle for your team to stack might then use <Effect name="hypernovalaunch"/> to the corner to avoid the slam wave.
 - Use <Skill id="45743"/> then <Skill id="41524"/> and <Skill name="Worldlyimpact"/> followed by <Skill name="Rapid fire"/> until she has phased.
 
 **Add CC Phase**
 
 Use [consumables](/guides/consumables) to CC the adds.
-- Pick up <Skill id="5516"/> that your weaver places for you.
+- Pick up <Skill id="5516"/> that your <Specialization name="weaver"/> places for you.
+- Stay on longbow for the next phase.
 
 **33%**
 
