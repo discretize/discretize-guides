@@ -1,6 +1,6 @@
 ---
 title: 'Thaumanova Reactor'
-date: '2018-09-12'
+date: '2020-03-27'
 image: './images/header.jpg'
 group: 'T4'
 api: 2967
@@ -27,34 +27,57 @@ consumables: [78978, 49940]
 <Grid>
 <GridItem sm="8">
 ## Start
-Activate the *Detonator* and wait for the <Specialization name="mesmer"/> to open a portal (in this case, stack <Boon name="might"/> in the vestibule) or walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
-
-<Tabs>
-<Tab specialization="chronomancer">
-Lay down a <Skill id="10197"/>, cast <Skill id="29578"/> with <Skill id="10200"/>, teleport up to the central area and open the portal.
-</Tab>
-</Tabs>
+Activate the *Detonator* and wait for the <Specialization name="revenant"/>, <Specialization name="elementalist"/>, <Specialization name="guardian"/> or <Specialization name="thief"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="might"/> in the vestibule) or if noone can skip jsut walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
 </GridItem>
 
 <GridItem sm="4">
 <Image src="./images/fire_shaman.jpg" caption="The Elite Flame Legion Fire Shaman"/>
 </GridItem>
+
+<GridItem sm="12">
+<Tabs>
+<Tab specialization="revenant">
+<Video title="Revenant skip" youtube="lEdoox14vME"/> 
+</Tab>
+
+<Tab specialization="elementalist">
+<Video title="Elementalist skip" timestamp="8" youtube="OjUvCp2h_04"/>
+</Tab>
+  
+<Tab specialization="guardian">
+<Video title="Guardian skip" timestamp="480" youtube="MmJTsOhdQeo"/>
+</Tab>
+
+<Tab specialization="thief">
+<Video title="Thief skip" timestamp="217" youtube="Alpgs_GaZV0"/>
+</Tab>
+</Tabs>
+</GridItem> 
 </Grid>
 
 ---
 
 <Grid>
+<GridItem sm="12">  
+<Message>
+For a faster completion time you can split up. <Specialization name="Warrior"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Elementalist"/> soloes Superheated Room <Label>West</Label> and <Specialization name="revenant"/> and <Specialization name="soulbeast"/> does Researcher Dormitories <Label>East</Label>.
+</Message> 
+</GridItem>
+  
 <GridItem sm="4">
 <Image src="./images/turret_room.jpg" caption="Golems patrol in the turret room"/>
 </GridItem>
 
 <GridItem sm="8">
-## Turret room <Label>South</Label>
-This should be done by two support classes (usually the <Specialization name="warrior"/> and the <Specialization name="druid"/>). Learn the timing of the turret shots and jump or dodge over them. You can also take a *Safety Shield* from the beginning and use it to block shots for a short duration.
+## Repulsor lab <Label>South</Label>
+This should be done by two people, **but can be soloed (usually by <Specialization name="Guardian"/>) as shown in the video below**. Learn the timing of the turret shots and jump or dodge over them. You can also take a *Safety Shield* from the beginning and use it to block shots for a short duration.
 
 One person activates the console to the left <Label circular>1</Label> to grant the other person short access to the console at the right <Label circular>2</Label>.
 
 Activating <Label circular>2</Label> enables short access to the two final consoles at <Label circular>3</Label>. You can bypass the <Condition name="immobile"/> from triggering them by standing exactly in the middle and pressing both buttons at the same time.
+</GridItem>
+<GridItem sm="12">
+<Video title="Guardian skip" timestamp="545" youtube="MmJTsOhdQeo"/>  
 </GridItem>
 </Grid>
 
@@ -63,13 +86,7 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 <Grid>
 <GridItem sm="8">
 ## Researcher Dormitories <Label>East</Label>
-**Both DPS** should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
-
-<Tabs>
-<Tab specialization="elementalist">
-Stack <Boon name="might"/> before the door opens and use <Skill id="5697"/> against the walls.
-</Tab>
-</Tabs>
+2 people (usually <Specialization name="revenant"/> and <Specialization name="soulbeast"/>) should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
 </GridItem>
 
 <GridItem sm="4">
@@ -86,11 +103,27 @@ Stack <Boon name="might"/> before the door opens and use <Skill id="5697"/> agai
 
 <GridItem sm="8">
 ## Superheated Room <Label>West</Label>
-This is usually solo'ed by the <Specialization name="mesmer"/> using <Skill id="29578"/>, <Skill id="29830"/>, <Skill id="10200"/>, dodge jumps and heals from <Skill id="10213"/> and <Trait id="740"/> but other classes can do it as well.
+This is usually solo'ed by the <Specialization name="elementalist"/> but other classes can do it as well, like in the **video shown below**.
+</GridItem>
 
-<Specialization name="Weaver"/> also has an easy way of doing [this](https://www.youtube.com/watch?v=inicGmAy7ms). Take <Skill id="44926" />, <Skill id="5536"/> and <Skill id="5516"/>.
+<GridItem sm="12">
+<Tabs>
+<Tab specialization="elementalist">
+<Video title="Elementalist skip" timestamp="28" youtube="OjUvCp2h_04"/>
+</Tab>
+   
+<Tab specialization="guardian">
+<Video title="Guardian skip" timestamp="519" youtube="MmJTsOhdQeo"/>  
+</Tab>
 
-[Search YouTube](https://www.youtube.com/results?search_query=heatroom+solo) for class-specific guides.
+<Tab specialization="ranger">
+<Video title="Ranger skip" timestamp="152" youtube="3Zc_ZJqPD0s"/>
+</Tab>
+
+<Tab specialization="thief">
+<Video title="Thief skip" timestamp="241" youtube="Alpgs_GaZV0"/>
+</Tab>
+</Tabs>
 </GridItem>
 </Grid>
 
@@ -131,15 +164,15 @@ Share <Skill id="13132"/> with 5 allies to deal 750 unblockable defiance bar dam
 <Grid>
 <GridItem sm="8">
 After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="might"/>.    
-During the fight, try to stack as much as possible on one or two adjacent platforms but don't die from <Instability name="Social Awkwardness"/> (present on both difficulties).
+During the fight, try to stack as much as possible on one or two adjacent platforms but don't die from <Instability name="Social Awkwardness"/> if it is present.
 
 Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (the beam dissolving the platforms) and the _Cosmic Instability_ debuff (occuring after 50% health). The _Flux Bomb_ debuff will also cause nearby platforms to disappear.
 </GridItem>
 
 <GridItem sm="4">
 <Tabs>
-<Tab specialization="chronomancer">
-You can freely cast *Hex Shield* during <Skill id="29830"/> for an extra safe spot.
+<Tab specialization="Revenant">
+It is favorable to run <Skill name="Legendary Renegade Stance"/> / <Skill name="Legendary Centaur Stance"/> for projectile absorbtion of the Anomaly's attacks from 50% health with <Skill name="Protective Solace"/>.
 </Tab>
 </Tabs>
 </GridItem>
