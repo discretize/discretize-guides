@@ -96,7 +96,7 @@ Use the same starting spot as in the <Specialization name="Thief"/>'s video, not
 ## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>
   
 <Message> 
-If you skipped don't forget to trigger the "Reach the top" checkpoint to prevent the fractal from bugging.    
+If you skipped don't forget to trigger the "Reach the top" checkpoint (red dot on the mini map) to prevent the fractal from bugging.    
 </Message> 
 </GridItem> 
  
@@ -129,7 +129,7 @@ Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful w
 
 <Grid>
 <GridItem sm="7">
-If noone did a portal to above, stack <Effect name="stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal.
+If no one did a portal to above, stack <Effect name="stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal.
   
 <Tabs>
 <Tab specialization="Revenant">
