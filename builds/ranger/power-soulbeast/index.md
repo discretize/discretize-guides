@@ -25,11 +25,11 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Divider text="Equipment"/>
 
 <Tabs outlined>
-<Tab title="150 Agony Resistance">
+<Tab title="162 Agony Resistance">
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
-<Armor weight="Medium" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Medium" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -38,7 +38,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
 
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="might"/> pre-stacking.
@@ -132,8 +132,10 @@ The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to 
 - The choice between <Skill name="Frost trap"/> and <Skill name="Signet of the wild"/> depends on a lot of factors, mainly the phase length and downtime on phases where trap can recharge. For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="exposed"/> since it recharges during the island phase so trap is an obvious pick over signet.
 - For healing skills the usual choice is between <Skill name="We heal as one"/>, which extends your boons on use and is quite a large heal, and <Skill name="Bear stance"/>, which is nice if you need to cleanse conditions either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for example pushing orbs at Arkk.
 - **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team.**
-
 - <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phase to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
+
+**Skips:**
+- <Skill name="Quickening Zephyr"/> in combination with the <Item id="85244"/> allows you to move extremely fast and is useful for a few skips. Check the [Fractal Guides](/fractals) for specific skips.
 
 </Card>
 </GridItem>
