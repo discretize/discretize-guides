@@ -10,7 +10,7 @@ skills: [45773, 27505]
 traits: [1802]
 boons: ['Alacrity', 'Might', 'Stability']
 conditions: ['Vulnerability']
-code: '[&DQkPHgMmPz7cEdwRBhIGEisS1BHUESsSyhHKEREOEA8AAAAAAAAAAAAAAAA=]'
+code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
 author: 'Jin Su Liang.9036'
 ---
 <Tabs>
@@ -108,7 +108,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 **Citadel Order Skills**
 
 - <Skill name="Heroic Command"/> -  Share two stacks of <Boon name="Might"/> for each <Effect name="Kallas Fervor"/> stack.
-- <Skill name="Citadel Bombardment"/> - Fire ten missiles that inflict high damage, and <Condition name="Burning"/>.
+- <Skill name="Citadel Bombardment"/> - Fire ten missiles that inflict high damage and <Condition name="Burning"/>.
 - <Skill name="Orders from Above"/> - Share four pulses of <Boon name="Alacrity"/>.
 
 ---
@@ -151,11 +151,11 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 **<Skill name="Legendary Renegade Stance"/>**
 
-- <Skill name="Breakrazors Bastion"/> - Summons a spirit that heals you on cast and pulses heal to allies in an area around it. Reduces damages from conditions by 50%.
+- <Skill name="Breakrazors Bastion"/> - Summons a spirit that heals you on cast and pulses heal to allies in an area around it. Reduces damage taken from conditions by 50%.
 - <Skill name="Razorclaws Rage"/> - Summons a spirit that causes your party to inflict <Condition name="Bleeding"/> on attack.
 - <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ seconds once per second for six seconds.
 - <Skill name="Icerazors Ire"/> -  Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.
-- <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealth by your party while healing them for each attack. 
+- <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealt by your party while healing them for each attack. 
 
 ---
 
@@ -164,14 +164,14 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 - <Skill name="Enchanted Daggers"/> - Every ½ seconds your next six attacks siphon life from your target.
 - <Skill name="Phase Traversal"/> - You shadowstep to your target and gives you two stacks of <Effect name="Unblockable"/>.
 - <Skill name="Riposting Shadows"/> - Stunbreak and evade that removes movement-impairing conditions like <Condition name="Crippled"/>.
-- <Skill name="Impossible Odds"/> - **Toggle:** Damage modifier, grant you another hit on your attacks and increases your movement speed.
+- <Skill name="Impossible Odds"/> - **Toggle:** Damage modifier, grants you another hit on your attacks and increases your movement speed.
 - <Skill name="Jade Winds"/> - Deal damage, inflict <Condition name="Vulnerability"/> and <Control name="Stun"/> five nearby enemies.
 
 ---
 
 **<Skill name="Legendary Dwarf Stance"/>**
 
-- <Skill name="Soothing Stone"/> - Powerful self heal and condition removal.
+- <Skill name="Soothing Stone"/> - Powerful self heal and condition cleanse.
 - <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field. 
 - <Skill name="Forced Engagement"/> - Shoot out a chain to your target that applies <Condition name="Taunt"/> and <Condition name="Slow"/> to your target and four nearby enemies.
 - <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
