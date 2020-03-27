@@ -1,6 +1,6 @@
 ---
 title: 'Molten Furnace'
-date: '2019-11-17'
+date: '2020-03-27'
 image: './images/header.jpg'
 group: 'T4'
 api: 2903
@@ -55,7 +55,7 @@ You have to dodge the Fire Tornadoes coming towards you. The Tornadoes apply <Co
 
 **Fireball Barrage**
 
-You have to avoid, block or reflect the Fire Barrage falling on you, place reflect (<Specialization name="Guardian" disableText/>,  <Specialization name="Mesmer" disableText/>) or absorb (<Specialization name="Revenant" disableText/><Skill name="Legendary Centaur Stance" disableText/> with <Skill name="Protective Solace"/>) in the middle of the AoE to absorb the projectile. The AoE after the projectile landed applies <Condition name="Burning"/>. After surviving the test you can damage 25% of the _Thermal Core_.
+You have to avoid, block or reflect the Fire Barrage falling on you, place reflect (<Specialization name="Guardian"/> with <Skill name=" Wall of Reflection"/> ) or absorb (<Specialization name="Revenant"/> <Skill name="Legendary Centaur Stance"/> with <Skill name="Protective Solace"/>) in the middle of the AoE to absorb the projectile. The AoE after the projectile landed applies <Condition name="Burning"/>. After surviving the test you can damage 25% of the _Thermal Core_.
 </GridItem>
 
 <GridItem sm="6">  
