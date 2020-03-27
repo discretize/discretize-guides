@@ -739,7 +739,7 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 
 ### **100% in mid**
 - Use <Skill name="whirling axe"/> or <Skill name="Headbutt"/> to gain adrenalin fast.
-- Depending on your team you wanna engage <Skill name="Berserk"/> before you use your special action key to get to Artsariiv. 
+- Depending on your team you wanna engage <Skill name="Berserk"/> before you use your <Effect name="hypernovalaunch"/> to get to Artsariiv. 
 - Use <Skill name="Mending"/> to regain eventually lost health and <Trait name="peakperformance"/>. 
 - Swap to your mace, be ready to <Skill id="14415"/> as soon as the breakbar appears.
 
@@ -797,7 +797,7 @@ It is not your job as <Specialization name="berserker"/> to slay the Temporal An
 </Message>
 
 ### **Prestacking**
-- Drop a <Item name="whitemantleportaldevice"/> near the mistlock and jump over to Arkk's platform using the special action key.
+- Drop a <Item name="whitemantleportaldevice"/> near the mistlock and jump over to Arkk's platform using the <Effect name="hypernovalaunch"/>.
 - Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>, <Skill name="Banner of Tactics"/> and <Skill name="battlestandard"/>. 
 - Take the portal back
 - Drop a fire field with <Skill name="Flames of war"/>.
