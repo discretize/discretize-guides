@@ -548,7 +548,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="12483" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+<UnembossedSkills healId="12483" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
 - Pet: <Skill id="44617" disableText/> Red Moa.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/>.
