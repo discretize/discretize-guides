@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Soulbeast'
 date: '2020-03-27'
 rating: 'Meta'
@@ -16,9 +16,7 @@ code: '[&DQQIGiA7Nzp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 <Tabs>
 <Tab title="Build">
 
-<Specialization name="Soulbeast" text="Power Soulbeast"/> is a DPS build with very high burst damage that in addition provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills.
-
-Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
+<Specialization name="Soulbeast" text="Power Soulbeast"/> is a DPS build with very high burst damage that in addition provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -99,11 +97,11 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 </Grid>
 <Card title="Trait variations">
 - First slot of Marksmanship - <Trait name="Clarion Bond"/> can be useful if the blast and team might is more advantageous than the self might from <Trait name="Huntersgaze"/>
-- Second slot of Beastmastery - If you are running longbow then you gain less benefit from <Trait name="Two-handed training"/> so both other traits in that slot can be options. <Trait name="Wilting Strike"/> can be useful if your weaver wants weakness uptime for <Trait name="Superior Elements"/>. <Trait name="Natural healing"/> is some passive healing if you would like it.
+- Second slot of Beastmastery - If you are running longbow then you gain less benefit from <Trait name="Two-handed training"/> so both other traits in that slot can be options. <Trait name="Natural healing"/> is some passive healing if you would like it. <Trait name="Wilting Strike"/> can be useful if your weaver wants weakness uptime for <Trait name="Superior Elements"/>. 
 - Third slot of Soulbeast - <Trait id="2143"/> can be an alternative if you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> then swap traits right before you get in combat so your allies get the buff but you also end up with the higher personal DPS of having a 10% damage modifier.
 - **If you can be 100% sure that you have the ability to flank the boss permanently** then you can consider swapping Marksmanship for Skirmishing with the following setup:
 
-<UnembossedTraits title="Skirmishing" traits1Id="30" traits1SelectedIds="1075,1016,1888"/>
+<UnembossedTraits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1075,1016,1888"/>
 
 </Card>
 </Tab>
@@ -180,6 +178,9 @@ For DPS rotation the same rules apply as above land, try to fit lots of damage i
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [Nightmare fractal page](/fractals/nightmare) for general encounter information!
 
+<Message>
+These guides are only really applicable to an optimized group scenarios.
+</Message>
 <Tabs>
 <Tab title="Mama">
 <Divider text="MAMA"/>
@@ -188,7 +189,7 @@ For DPS rotation the same rules apply as above land, try to fit lots of damage i
 <Card title="Skills and Traits">
 <UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle
-- Traits: <Trait id="2128"/> 
+- Traits: <Trait id="2128"/> although <Trait id="2143"/> can also work.
 - Food: <Item id="43360"/>
 - Utility: <Item id="50082"/>
 - **Make sure to use [consumables](/guides/consumables) if necessary on the adds!**
@@ -377,6 +378,9 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 
+<Message>
+These guides are only really applicable to an optimized group scenarios.
+</Message>
 <Tabs>
 <Tab title="Skorvald">
 <Divider text="Skorvald"/>
