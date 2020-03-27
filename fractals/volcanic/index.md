@@ -1,6 +1,6 @@
 ---
 title: 'Volcanic'
-date: '2018-09-12'
+date: '2020-03-27'
 image: './images/header.jpg'
 group: 'T4'
 api: 2989
@@ -52,25 +52,27 @@ Precast your strong dps skills like <Skill id="5737"/> and <Skill id="5501"/> on
 
 ## Grawl Shaman <Item id="8890" disableText/><Item id="24648" disableText/>
 
+<Grid>
+<GridItem sm="6">
+  
+<Image src="./images/the_grawl_shaman.jpg" caption="The Grawl Shaman"/>
+
+<Tabs>
+<Tab specialization="weaver">
+Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the *Veteran Grawl Shamans* in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>.    
+        If everybone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.
+</Tab>
+</Tabs>
+</GridItem>
+
+<GridItem sm="6">
 Kill the _Veteran Grawl Shamans_ to prevent them from sacrificing the captives. Control effects like <Control name="stun"/> and <Condition name="immobile"/> hinder them from reaching the edge.
 
 You will need to throw eight _Infused Stones_ at the bubble protecting the Grawl Shaman boss to break it and make him vulnerable. The stones spawn on rockfalls, wait until the falling animation finishes and dodge into it to collect it. You can ping the Grawl Shaman (`Ctrl + T`) for easy targeting.
 
 After the bubble is broken, stand below the boss to LoS him and he will come down immediately. Throw another _Infused Stone_ at him if his bubble reappears during the fight.
-
-<Tabs>
-<Tab specialization="mesmer">
-If you still have your *Mistlock Singularity*, you can place a <Skill id="10197"/> during the fight and jump down into the lava. The singularity will prevent the death from falling, keep jumping afterwards (the lava doesn't harm you if you jump repeatedly) to reach the final platform and open the portal there once the Grawl Shaman is finished. Keep in mind that you have to reach the platform before he reaches 25% health, otherwise you will die during the following cutscene.
-</Tab>
-
-<Tab specialization="weaver">
-Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the *Veteran Grawl Shamans* in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>.    
-        If everybone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.
-</Tab>
-
-</Tabs>
-
-<Image src="./images/the_grawl_shaman.jpg" caption="The Grawl Shaman"/>
+</GridItem>
+</Grid>
 
 ---
 
@@ -85,18 +87,23 @@ Every 25% health, he gains a protective bubble and starts moving to a random vil
 He will also spawn 10-30 _Lava Elementals_ during this phase, kill them fast as they cast a lot of projectiles and inflict high <Condition name="burning"/> stacks on the team. Note that repeated jumping prevents the application of <Condition name="burning"/> from the floor.
 
 Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="knockback"/>) and utilize conditions clears & reflects to finish the fractal successfully.
+
+<Image src="./images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
 </GridItem>
+
 
 <GridItem sm="4">
 <Tabs>
-<Tab specialization="mesmer">
-Use <Skill id="10302"/> against the Lava Elementals. A <Skill id="10186"/> traited with <Trait id="751"/> is also worth it, though you lose the personal condition cleanse from <Trait id="740"/>.
+<Tab specialization="Revenant">
+Use <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> to spam <Boon name="Resistance"/> after the bosses bubble phase.
 </Tab>
-
+</Tabs>
+<Tabs>
 <Tab specialization="weaver">
 Take <Skill id="5507"/> for an additional condition cleanse. Use <Skill id="22572"/> to cleave the Lava Elementals faster.
 </Tab>
-
+</Tabs>
+<Tabs>
 <Tab specialization="ranger">
 Trait <Trait id="1075"/> and use <Skill id="12489"/> for a stronger periodical condition clear.
 </Tab>
@@ -104,4 +111,4 @@ Trait <Trait id="1075"/> and use <Skill id="12489"/> for a stronger periodical c
 </GridItem>
 </Grid>
 
-<Image src="./images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
+

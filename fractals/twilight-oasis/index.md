@@ -1,6 +1,6 @@
 ---
 title: 'Twilight Oasis'
-date: '2018-09-12'
+date: '2020-03-27'
 image: './images/header.jpg'
 group: 'T4'
 api: 3973
@@ -23,21 +23,18 @@ record:
   }
 ---
 
+<GridItem sm="12">
+<Image src="./images/start.jpg" caption="The starting area"/>
+</GridItem>
 ### Start
 
 <Grid>
-<GridItem sm="7">
-Use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head for the first of the Sand Binders.
+<GridItem sm="4">
+Let your <Specialization name="revenant"/> to skip the first part or use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head for the first of the Sand Binders.
+</GridItem>
 
+<GridItem sm="8">
 <Tabs>
-<Tab specialization="mesmer">
-You can give easy party <Effect name="stealth"/> with <Skill id="10245"/> and <Trait id="674"/> at the cost of a elite skill slot.
-</Tab>
-
-<Tab specialization="thief">
-Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
-</Tab>
-
 <Tab specialization="ranger">
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
 </Tab>
@@ -45,33 +42,36 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 <Tab specialization="elementalist">
 It is worth to run <Skill name="arcane wave"/> for the whole fractal for more and faster <Boon name="Might"/>, since you can't really stack anywhere.
 </Tab>
+
+<Tab specialization="thief">
+Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+</Tab>
 </Tabs>
 </GridItem>
 
-<GridItem sm="5">
-<Image src="./images/start.jpg" caption="The starting area"/>
+<GridItem sm="12">
+<Tabs>
+<Tab specialization="revenant">
+You can skip this first part with <Item id="78978"/>.
+  
+<Video title="Revenant skip" youtube="xHeZuQ5zWMU"/> 
+</Tab>
+</Tabs>
 </GridItem>
+
 </Grid>
 
 ## First Sandbinder
 
 <Grid>
 <GridItem>
-Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="pull"/> abilities will cancel any attack it is currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Specialization name="chronomancer"/>'s and <Specialization name="warrior"/>'s cooldowns for the Amala fight.
+Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="pull"/> abilities will cancel any attack it is currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/> and <Specialization name="warrior"/>'s cooldowns for the Amala fight.
 
 <Boon name="aegis"/> is not really helpful here as the _Tornadoes_ quickly remove it.
 </GridItem>
 
 <GridItem>
 <Tabs>
-<Tab specialization="spellbreaker">
-As a lot of boons are present in this fractal, Spellbreaker is the recommended build for warriors.
-</Tab>
-
-<Tab specialization="mesmer">
-Use <Skill id="10363"/> to cancel the Sanderbiner's attacks.
-</Tab>
-
 <Tab specialization="ranger">
 Run an offhand axe for the <Control name="pull"/> from <Skill id="12638"/>.
 </Tab>
@@ -92,7 +92,7 @@ Next up you will encounter Priestess Amala for the first time, bring her to 75% 
 
 She uses the _Scythe Slash_ attack (causes <Control name="knockback"/>) and a basic version of her 9-part attack chain applying <Condition name="bleeding"/> with each AoE.
 
-You can freely use `/gg` after she downs the party to reset cooldowns, just wait until you get resurrected. (If you decide to respawn please not that certain class/race/gender combos cannot move until Joko resurrects Amala)
+You can freely use `/gg` after she downs the party to reset cooldowns, just wait until you get resurrected. (If you decide to respawn please not that male characters cannot move until Joko resurrects Amala)
 </GridItem>
 </Grid>
 
@@ -108,24 +108,39 @@ It can also be used to jump while casting any skill that requires you to stand s
 
 Jump up to the roof on the right-hand side and kill two Sandbinders on the roofs. The first is a copy of the Sandbinder you fought at the beginning, the second one also uses Dwayna's _Lightning Storm_ (strafe sideways from allies to avoid it).
 
-It is also possible to skip the tornado between the two Sandbinder using [this portal skip](https://gfycat.com/UnnaturalThirstyIcelandicsheepdog).
-
-Clear the mobs there and Priestess Amala will spawn, then use `/gg` to reset cooldowns.
-
-Please note that you can't `/gg` after any Sandbinder, because you get spawned behind the ideal checkpoints. The checkpoints were mixed up in the June 26th patch.
+It is also possible to skip the tornado between the two Sandbinder using this portal skip shown below.
+<Message>
+Please note that you can't `/gg` after any Sandbinder, because you get spawned behind the ideal checkpoints. The checkpoints were mixed up in the June 26th patch. 
+</Message>
 </GridItem>
 
 <GridItem sm="5">
 <Image src="./images/first_sandbinder.jpg" caption="The First Sandbinder on the roof"/>
+<Image src="./images/second_sandbinder.jpg" caption="The Second Sandbinder"/>
 </GridItem>
+
+<GridItem sm="12">
+<Tabs>
+<Tab title="Slower skip">
+<Video title="Any class" timestamp="306" youtube="MmJTsOhdQeo"/>
+</Tab>
+<Tab title="Faster skip">
+<Video title="Any class" timestamp="341" youtube="MmJTsOhdQeo"/>
+</Tab>
+</Tabs>
+
+</GridItem>
+
 </Grid>
 
-<Image src="./images/second_sandbinder.jpg" caption="The Second Sandbinder"/>
+
 
 ---
 
 ## Priestess Amala
-
+<Message>
+**Bring boon removal because she is spamming <Boon name="Protection"/> on herself like there is no tomorrow!**  
+</Message>  
 Stack <Boon name="might"/> and be ready to dodge the initial <Control name="knockback"/> after activating the encounter.
 
 <Grid>
