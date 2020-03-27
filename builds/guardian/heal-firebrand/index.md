@@ -12,7 +12,7 @@ code: '[&DQEQLjElPjZLFwMBehb+AEsBNgH+AEgBiRJxEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 <Message>
-Despite being very common in pugs, this build is not meta! We recommend to play [Heal Renegade](/builds/revenant/heal-renegade) for PUGs who are more organized and know the mechanics (after around 150-200+ <Item id="81743"/>) the reason is that Firebrand usually can deal way more damage than Renegade.
+Despite being very common in pugs, this build is not meta! We recommend to play [Heal Renegade](/builds/revenant/heal-renegade) for PUGs who are more organized and know the mechanics (after around 150-200+ <Item id="81743"/>) the reason is that <Specialization name="firebrand"/> usually can deal way more damage than <Specialization name="renegade"/>.
 </Message>
 
 <Tabs>
@@ -60,8 +60,8 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </Card>
 <Card title="Wheelchair">
 In case your team downs all the time and you cannot keep your PUG friends alive, you can swap radiance for virtues. This however is NOT the default build and should only be played under extreme circumstances.
+<UnembossedTraits traits1Id="46" traits1="Virtues"  traits1SelectedIds="625, 610, 554"/>
 </Card>
-<Traits traits1="Virtues" traits1Selected="Retaliatory Subconscious, Absolute Resolution, Battle Presence"/>
 </GridItem>
 
 <GridItem sm="5">
