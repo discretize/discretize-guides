@@ -1,6 +1,6 @@
 ---
 title: 'Snowblind'
-date: '2018-09-12'
+date: '2020-03-27'
 image: './images/header.jpg'
 group: 'T4'
 api: 2952
@@ -40,8 +40,11 @@ When there are only a few percent remaining, go near the fire to leave combat an
 </Grid>
 
 <Tabs>
-<Tab specialization="chronomancer">
-As you don't need crowd control for the next boss, you can take <Skill id="10311"/> for <Boon name="quickness"/> and use <Skill id="10197"/> with <Skill id="10200"/> to teleport the team ahead through the cold.
+<Tab specialization="Elementalist">
+Cast a <Skill name="Conjure Fiery Greatsword"/> for <Specialization name="revenant"/> at the wall right before it melts.
+</Tab>
+<Tab specialization="Revenant">
+First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Place <Item id="78978"/> then  skip to the first bonfire on the left with anything like: <Skill name="Conjure Fiery Greatsword"/> or <Item id="49940"/> or <Item id="85244"/>, place portal exit when you lit the fire, then go to the _Elemental source_ place deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, what you need to do is in the next paragraph with video.
 </Tab>
 </Tabs>
 
@@ -60,12 +63,10 @@ With reflects and high DPS you can simply burst the boss before any bonfire expi
 
 <GridItem>
 <Tabs>
-<Tab specialization="chronomancer">
-Cast double <Skill id="10302"/> with <Skill id="29830"/> into the hitbox of the Elemental Source.
-</Tab>
-
-<Tab specialization="spellbreaker">
-Use <Skill id="45333"/> at 76% to reflect the *Wind Gust* attack.
+<Tab specialization="revenant">
+Place a bubble on top of the _Elemental Source_, absorbing **EVERY** projectile so you do not have to dodge anymore.
+  
+<Video title="Revenant bubble" youtube="ORcJL1p1pN8"/>
 </Tab>
 
 <Tab specialization="elementalist">
@@ -83,11 +84,29 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 
 <Grid>
 <GridItem sm="8">
-After the Elemental Source is destroyed, everyone except the fastest player can `/gg` and wait for the next checkpoint at the cave to trigger. Mobility skills and <Item id="49940"/> are very good here.
+After the Elemental Source is destroyed, everyone except the fastest player can `/gg` and wait for the next checkpoint at the cave to trigger. Mobility skills and <Item id="49940"/> are very good here, **skip videos below**.
 </GridItem>
 <GridItem sm="4">
     <Image src="./images/the_icy_forest.jpg" caption="The icy forest"/>
 </GridItem>
+  
+<GridItem sm="12">  
+<Tabs>
+<Tab specialization="Ranger">
+<Video title="Ranger skip" youtube="3Zc_ZJqPD0s?t=100"/>  
+</Tab>
+<Tab specialization="Warrior">
+Coming soon.
+</Tab>
+<Tab specialization="Guardian">
+<Video title="Guardian skip" youtube="MmJTsOhdQeo?t=265"/>
+</Tab>
+<Tab specialization="Thief">
+<Video title="Thief skip" youtube="Alpgs_GaZV0?t=125"/>
+</Tab>
+</Tabs>
+</GridItem>
+ 
 </Grid>
 
 ## Shaman Lornarr Dragonseeker <Item id="8883" disableText/><Item id="24667" disableText/>
@@ -103,17 +122,9 @@ At 75%, 50% and 25% you will need to kill a summoned _Icebrood Effigy_. Basicall
 
 <GridItem>
 <Tabs>
-<Tab specialization="chronomancer">
-Use <Skill id="29526"/> if you have trouble with incoming damage. <Skill id="10302"/> is also a valid option.
-        Pull all mobs together <Skill id="10363"/> whenever possible, usually when the *Icebrood Effigy* spawns.
-</Tab>
 
-<Tab specialization="druid">
-Cast <Skill id="31496"/> against the projectiles.
-</Tab>
-
-<Tab specialization="elementalist">
-Use <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.
+<Tab specialization="Tempest">
+Use <Specialization name="Tempest"/> <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.
 </Tab>
 </Tabs>
 </GridItem>
