@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Power Tempest'
 date: '2020-03-27'
 rating: 'T4'
@@ -16,15 +16,15 @@ code: '[&DQYRPikvMBsXARcBQgHLAL4BTgFQAVABlwCZEgAAAAAAAAAAAAAAAAAAAAA=]'
 The <Specialization name="Tempest" text="Power Tempest"/> is a strong DPS variant for fractals with various utilities the <Specialization name="weaver"/> counterpart doesn't offer.
 
 It has very high burst damage in fast-paced fights and its overall DPS is only contested by the [Sword Weaver](/builds/elementalist/power-sword-weaver) on huge hitboxes.  
-Thanks to <Skill name="Overload Air"/> the group's damage is buffed by around 1k DPS, so at least one <Specialization name="Tempest"/> is never a bad idea when thinking about group composition.
+Thanks to <Skill name="Overload Air"/>, the group's damage is buffed by around 1k DPS, so at least one <Specialization name="Tempest"/> is never a bad idea when thinking about group composition.
 
 Apart from great DPS, the build afflicts tons of <Condition name="vulnerability"/> and helps keeping up <Boon name="might"/> with <Skill name="Heat Sync"/>.
 
-For projectile-heavy scenarios <Skill name="Aftershock"/> and <Skill name="Sand Squall"/> can be used, <Skill name="Shocking Aura"/> and <Skill name="Cyclone"/> help against trash mobs and defiance bars.
+For projectile-heavy scenarios, <Skill name="Aftershock"/> and <Skill name="Sand Squall"/> can be used, <Skill name="Shocking Aura"/> and <Skill name="Cyclone"/> help against trash mobs and defiance bars.
 
-Contrary to the [Sword Weaver](/builds/elementalist/power-sword-weaver), melee hate like <Instability name="Social Awkwardness"/> or disruptions like <Instability name="Last Laugh"/> don't matter that much since you can stand on range and have access to a multitude of defensive mechanics like <Boon name="stability"/>, <Trait name="Gale Song"/>.
+Contrary to the [Sword Weaver](/builds/elementalist/power-sword-weaver), melee hate like <Instability name="Social Awkwardness"/> or disruptions like <Instability name="Last Laugh"/> don't matter that much since you can stand on range and have access to a multitude of defensive mechanics like <Boon name="stability"/> and <Trait name="Gale Song"/>.
 
-The degree of difficulty is a little bit higher than the other <Specialization name="Elementalist"/> builds as you need to adhere many small things to achieve top numbers.  
+The degree of difficulty is a little bit higher than the other <Specialization name="Elementalist"/> builds, as you need to adhere many small things to achieve top numbers.  
 The positioning and timing of skills matter a lot, a single mistake can make your DPS end up several thousands below other damage dealers.
 
 The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
@@ -98,8 +98,8 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 | | |
 | -- | -- |
 |Heal|
-| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A **stronger** healing alternative if <Boon name="might"/> uptime is good. |
-| <Skill name="Wash the pain away" size="big" disableText/> | An alternative heal skill affecting allies close-by. |
+| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A stronger healing alternative if <Boon name="might"/> uptime is good. |
+| <Skill name="Wash the pain away" size="big" disableText/> | Another healing alternative affecting allies close-by. |
 |Offensive|
 | <Skill name="Arcane Wave" size="big" disableText/> | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="might"/> with a fire field. |
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
@@ -120,9 +120,9 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait name="Gale Song" size="big" disableText/> | Useful automatic group stunbreak for things like <Instability name="Last Laugh"/> or bosses like MAMA. |
+| <Trait name="Gale Song" size="big" disableText/> | Useful automatic group stunbreak for things like <Instability name="Last Laugh"/>. |
 | <Trait name="Soothing Power" size="big" disableText/> | Use this instead of <Trait name="Powerful Aura"/> when you are not using <Trait name="Unstable Conduit"/>. |
-| <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv). |
+| <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Warden Amala in [Twilight Oasis](/fractals/twilight-oasis). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 </Card>
 <Card title="Defiance Bar Damage">
@@ -195,13 +195,13 @@ And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off r
    1. <Skill name="Conjure Fiery Greatsword"/> and reset its cooldown with it
 2. <Skill name="Air Attunement"/>
    1. Precast <Skill name="Overload Air"/> so it finishes when the fight starts
-   2. <Skill name="Firestorm" profession="bundle"/> (if you have a <Skill name="Conjure Fiery Greatsword" disableText/>)
-   3. <Skill name="Lightning Orb"/> (from range, ideally it should pass through the mob when the defiance bar is broken)
+   2. <Skill name="Firestorm" profession="bundle"/> (if you are wielding a <Skill name="Conjure Fiery Greatsword" disableText/>)
+   3. <Skill name="Lightning Orb"/> (from range, ideally it should pass through the mob/boss when its defiance bar is broken)
    4. <Skill name="Lightning Storm"/>
 3. <Skill name="Fire Attunement"/>
    1. <Skill name="Wildfire"/>
-   2. <Skill name="Phoenix"/>
-   3. <Skill name="Dragons Tooth"/>
+   2. <Skill name="Dragons Tooth"/>
+   3. <Skill name="Phoenix"/>
 4. <Skill name="Earth Attunement"/> (only on huge hitboxes)
    1. <Skill name="Dust Storm"/>
 5. <Skill name="Air Attunement"/>
@@ -221,11 +221,11 @@ And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off r
 </Card>
 
 <Card title="Advanced Notes">
-* Always cast <Skill name="Lightning Orb"/> from as far as possible
-* Try to place the outer ring of <Skill name="Overload Air"/> directly on the target and make sure the cast actually finishes
-* Cast <Skill name="Invoke Lightning"/> while standing inside the target's hitbox to make sure all strikes hit
-* Remember to already switch to the next attunement *while* casting skills
-* <Skill name="Arc Lightning"/> (your <Skill name="Air Attunement"/> auto-attack) deals more damage the longer you channel it, but every other skill has a higher priority
+* Always cast <Skill name="Lightning Orb"/> from as far as possible.
+* Try to place the outer ring of <Skill name="Overload Air"/> directly on the target and make sure the cast actually finishes.
+* Cast <Skill name="Invoke Lightning"/> while standing inside the target's hitbox to make sure all strikes hit.
+* Remember to already switch to the next attunement *while* casting skills.
+* <Skill name="Arc Lightning"/> (your <Skill name="Air Attunement"/> auto-attack) deals more damage the longer you channel it, but every other skill has a higher priority.
 </Card>
 </GridItem>
 </Grid>
