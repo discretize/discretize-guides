@@ -87,9 +87,9 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply ca
 
 <Grid>
 <GridItem>
-To capture the courtyard, you have to kill (or kite away) four groups of *Veteran Ascalonians*. Usually the Mesmer and Druid both pull two groups into contrarious directions while the other three people clear the remaining ballistas.
+To capture the courtyard, you have to kill (or kite away) four groups of *Veteran Ascalonians*. 
 
-As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and enemy groups spawn at the gates (clockwise starting north). Stay in the middle and wait for them to come to you. If you kill them too fast, they will respawn shortly (-> Bug).
+As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and enemy groups spawn at the gates (clockwise starting north).
 </GridItem>
 
 <GridItem>
