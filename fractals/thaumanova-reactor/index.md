@@ -120,8 +120,8 @@ This is usually solo'ed by the <Specialization name="elementalist"/> but other c
 <Video title="Ranger skip" timestamp="152" youtube="3Zc_ZJqPD0s"/>
 </Tab>
 
-<Tab specialization="Revenant">
-<Video title="Revenant skip" timestamp="160"  youtube="REnmbN7sZFQ"/>
+<Tab specialization="Warrior">
+<Video title="Warrior skip" timestamp="160"  youtube="REnmbN7sZFQ"/>
 </Tab>
 
 <Tab specialization="thief">
