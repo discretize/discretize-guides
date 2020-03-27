@@ -27,7 +27,7 @@ consumables: [78978, 49940]
 <Grid>
 <GridItem sm="8">
 ## Start
-Activate the *Detonator* and wait for the <Specialization name="revenant"/>, <Specialization name="elementalist"/>, <Specialization name="guardian"/> or <Specialization name="thief"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="might"/> in the vestibule) or if noone can skip jsut walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
+Activate the *Detonator* and wait for the <Specialization name="revenant"/>, <Specialization name="elementalist"/>, <Specialization name="guardian"/> or <Specialization name="thief"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="might"/> in the vestibule) or if no one can skip just walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
 </GridItem>
 
 <GridItem sm="4">
@@ -60,7 +60,7 @@ Activate the *Detonator* and wait for the <Specialization name="revenant"/>, <Sp
 <Grid>
 <GridItem sm="12">  
 <Message>
-For a faster completion time you can split up. <Specialization name="Warrior"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Elementalist"/> soloes Superheated Room <Label>West</Label> and <Specialization name="revenant"/> and <Specialization name="soulbeast"/> does Researcher Dormitories <Label>East</Label>.
+For a faster completion time you can split up. <Specialization name="Warrior"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Elementalist"/> soloes Superheated Room <Label>West</Label> and <Specialization name="revenant"/> and <Specialization name="soulbeast"/> do Researcher Dormitories <Label>East</Label>.
 </Message> 
 </GridItem>
   
@@ -170,13 +170,13 @@ Share <Skill id="13132"/> with 5 allies to deal 750 unblockable defiance bar dam
 After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="might"/>.    
 During the fight, try to stack as much as possible on one or two adjacent platforms but don't die from <Instability name="Social Awkwardness"/> if it is present.
 
-Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (the beam dissolving the platforms) and the _Cosmic Instability_ debuff (occuring after 50% health). The _Flux Bomb_ debuff will also cause nearby platforms to disappear.
+Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (the beam dissolving the platforms) and the _Cosmic Instability_ debuff (occurring after 50% health). The _Flux Bomb_ debuff will also cause nearby platforms to disappear.
 </GridItem>
 
 <GridItem sm="4">
 <Tabs>
 <Tab specialization="Revenant">
-It is favorable to run <Skill name="Legendary Renegade Stance"/> / <Skill name="Legendary Centaur Stance"/> for projectile absorbtion of the Anomaly's attacks from 50% health with <Skill name="Protective Solace"/>.
+It is favorable to run <Skill name="Legendary Renegade Stance"/> / <Skill name="Legendary Centaur Stance"/> for projectile absorption of the Anomaly's attacks from 50% health with <Skill name="Protective Solace"/>.
 </Tab>
 </Tabs>
 </GridItem>
