@@ -13,7 +13,7 @@ consumables: [8764, 8801]
 
 <Grid>
 <GridItem sm="12">
-## Start: Wipe out the dinosaurs !
+## Start: Wipe out the dinosaurs!
 When you enter the fractal, first you need to kill 2 _Veteran Bristlebacks_, 2 _Veteran Smogscales_ and 1 _Veteran Bonebreaker_. After you killed them, you need to move to the rock wall to kill the _Champion Stonehead_. Break his breakbar to kill it easily. After killing it, he will <Condition name="Fear"/> you back and die in the mines. Use the cannon to clear out the mines to gain access to the next encounter.
 </GridItem>
 
@@ -31,7 +31,7 @@ Prestack boons on the _Mistlock Singularity_ nearby.
 
 Kill the ghosts to start the encounter.
 
-_Blast Black Peter_ the skeleton boss is kind of a dps race. He starts spawning way too many minions by the end of the encounter so you can wipe easily. He spawns mines which you can blow up with the cannon on top. The boss periodically gains <Boon name="Swiftness"/> <Boon name="Protection"/> and <Boon name="Stability"/> so removing it is priority and a key to kill him fast. He has a breakbar too so break that also helps.
+_Blast Black Peter_ the skeleton boss is kind of a DPS race. He starts spawning many minions by the end of the encounter so you can wipe easily. He spawns mines which you can blow up with the cannon on top. The boss periodically gains <Boon name="Swiftness"/> <Boon name="Protection"/> and <Boon name="Stability"/> so removing it is priority and a key to kill him fast. He has a breakbar too so break that also helps.
 </GridItem>
 
 <GridItem sm="6">
@@ -93,7 +93,7 @@ It will be a point capture event, you need to stay alive long enough to kill all
 
 ### Captain Arabella Crowe
 
-Use `/gg` to reset mobs on the ship and use the _Mistlock Singularity_ to stack boons. The two mechanics from before, the knockoff and AoE are present in this fight as well as a third one. It is an AoE placed on a player with a timer. If the circle fills, a huge damage is dealt to the player, but you can split up the damage between players, to counter this mechanic simply stack in the circle to split up the damage dealt to each player. The boss will be teleporting around as well as spawning mobs every 10% health of the boss. Kill her to finish the fractal.
+Use `/gg` to reset mobs on the ship and use the _Mistlock Singularity_ to stack boons. The two mechanics from before, the knockoff and AoE are present in this fight as well as a third one. It is an AoE placed on a player with a timer. If the circle fills, huge damage is dealt to the player, but you can split up the damage between players, to counter this mechanic simply stack in the circle to split up the damage dealt to each player. The boss will be teleporting around as well as spawning mobs every 10% health of the boss. Kill her to finish the fractal.
 
 </GridItem>
 

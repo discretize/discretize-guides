@@ -91,8 +91,8 @@ At 2200 Skorvald the Shattered has one of the largest defiance bars out of all t
 </Tab>
 <Tab title="Artsariiv">
 <Divider text="Artsariiv"/>
-At 2100 Artsariiv has a large defiance bar that needs to be broken quickly for the <Specialization name="Soulbeast"/> to land their reflect into <Effect name="exposed"/>. Luckily you have the special Action Key working in your favour, which the <Specialization name="renegade"/> should utilize by canceling his <Skill name="Surge of the mists"/> with it, causing it to hit 9 times, resulting in 1350 defiance bar damage.  
-This properties of the special action key can be used to get more hits with any movement skills, like warrior's <Skill name="whirlwindattack"/> (Greatsword 3) and Fiery Greatsword's <Skill name="fierywhirl"/>. (3).  
+At 2100 Artsariiv has a large defiance bar that needs to be broken quickly for the <Specialization name="Soulbeast"/> to land their reflect into <Effect name="exposed"/>. Luckily you have the <Effect name="hypernovalaunch"/> working in your favour, which the <Specialization name="renegade"/> should utilize by canceling his <Skill name="Surge of the mists"/> with it, causing it to hit 9 times, resulting in 1350 defiance bar damage.  
+This properties of the <Effect name="hypernovalaunch"/> can be used to get more hits with any movement skills, like warrior's <Skill name="whirlwindattack"/> (Greatsword 3) and Fiery Greatsword's <Skill name="fierywhirl"/>. (3).  
 The remaining 750 defiance bar damage should come from the <Specialization name="firebrand"/>'s <Skill name="Banesignet"/> and from <Specialization name="berserker"/>'s <Skill name="headbutt"/> and either <Skill name="Tremor"/> or <Skill name="updraft"/> from <Specialization name="weaver"/> if the <Specialization name="berserker"/> isn't bringing Mace off-hand.  
 
 
@@ -106,7 +106,7 @@ The recommended way to break the second split phase clones is 1 <Item name="sent
 <Tab title="Arkk">
 <Divider text="Arkk"/>
 At 1800 Arkk has a small defiance bar that appears after the Bloom pushing phase at 80%, 50% and 30%.  
-But again you have the Special Action Key working in your favor, which in addition to causing <Skill name="Surge of the mists"/> to hit 9 times, the Launch from the Special Action Key will also double-hit, bringing the <Specialization name="renegade"/>'s defiance bar damage up to 1814.  
+But again you have the <Effect name="hypernovalaunch"/> working in your favor, which in addition to causing <Skill name="Surge of the mists"/> to hit 9 times, the Launch from <Effect name="hypernovalaunch"/> will also double-hit, bringing the <Specialization name="renegade"/>'s defiance bar damage up to 1814.  
 The only reason the <Specialization name="berserker"/> carries an off-hand mace on Arkk is to get the <Item name="severance"/> buff by precasting <Skill name="Tremor"/> after each Bloom phase.
 <Image src="./images/arkk.png" caption="Arkk CC distribution"/>
 </Tab>

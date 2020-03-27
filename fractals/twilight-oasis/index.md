@@ -30,7 +30,7 @@ record:
 
 <Grid>
 <GridItem sm="4">
-Let your <Specialization name="revenant"/> to skip the first part or use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head for the first of the Sand Binders.
+Let your <Specialization name="revenant"/> skip the first part or use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders.
 </GridItem>
 
 <GridItem sm="8">
@@ -65,9 +65,9 @@ You can skip this first part with <Item id="78978"/>.
 
 <Grid>
 <GridItem>
-Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="pull"/> abilities will cancel any attack it is currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/> and <Specialization name="warrior"/>'s cooldowns for the Amala fight.
+Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="pull"/> abilities will cancel any attack currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/> and <Specialization name="warrior"/>'s cooldowns for the Amala fight.
 
-<Boon name="aegis"/> is not really helpful here as the _Tornadoes_ quickly remove it.
+<Boon name="aegis"/> is not helpful here as the _Tornadoes_ quickly remove it.
 </GridItem>
 
 <GridItem>
@@ -102,7 +102,7 @@ You can freely use `/gg` after she downs the party to reset cooldowns, just wait
 
 <Grid>
 <GridItem sm="7">
-Now that you're awakened, you gain access to a new special action skill which launches you high into the air and breaks <Control name="stun"/>. It doesn't have a cooldown out of combat so do not get infight during skips if possible.
+Now that you're awakened, you gain access to a new special action skill which launches you high into the air and breaks <Control name="stun"/>. It doesn't have a cooldown out of combat so do not get in fight during skips if possible.
     
 It can also be used to jump while casting any skill that requires you to stand still otherwise, as long as you do not move in any direction (<Skill id="5501" profession="elementalist"/> and similar skills).
 
@@ -110,7 +110,7 @@ Jump up to the roof on the right-hand side and kill two Sandbinders on the roofs
 
 It is also possible to skip the tornado between the two Sandbinder using this portal skip shown below.
 <Message>
-Please note that you can't `/gg` after any Sandbinder, because you get spawned behind the ideal checkpoints. The checkpoints were mixed up in the June 26th patch. 
+Please note that you can't `/gg` after any Sandbinder, because you spawn behind the ideal checkpoints.
 </Message>
 </GridItem>
 
@@ -208,7 +208,7 @@ The Priestess of Dwayna only has one attack which cannot be interrupted: a diffe
 
 Amala will periodically gain <Boon name="swiftness"/> and <Boon name="might"/> (15x) during this phase while dealing <Condition name="poison"/>, <Condition name="torment"/> and <Condition name="chilled"/> with her scythe attack chain.
 
-This is another phase that for the most part can be stacked and healed through, as it has very little CC involved. The biggest danger of this phase however is the _Claim Soul_ attack, recognizable by a small orange AoE - it is unblockable and will immediately send you into downed state.
+This is another phase that for the most part can be stacked and DPSd through, as it has very little CC involved. The biggest danger of this phase however is the _Claim Soul_ attack, recognizable by a small orange AoE - it is unblockable and will immediately send you into downed state.
 
 At 40% health, Amala summons an arrangement of _Spectral Walls_ that box you into the middle. Touching these walls will <Condition name="fear"/> you away from Amala.
 
