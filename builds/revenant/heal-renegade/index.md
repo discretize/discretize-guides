@@ -414,8 +414,8 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 <GridItem sm="12">
 
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
 
+<Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
 ---
 
 **Precast**  
@@ -501,10 +501,18 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 <GridItem sm="12">
 
+
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
+
+<Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
 
 ---
+
+**Traits**
+
+For this encounter it is recommended to run the following traits in Devastation trait line.
+
+<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 **Precast**  
 * Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
@@ -584,12 +592,24 @@ This part of the guide was taken from [Casual Sophie](https://www.youtube.com/ch
 
 
 
+
+
 <Tab title="Arkk">
 
 <GridItem sm="12">
 
 **Legends**  
-* <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Centaur Stance"/>.
+
+
+<Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Centaur Stance"/>.
+
+---
+
+**Traits**
+
+For this encounter it is recommended to run the following traits in Devastation trait line.
+
+<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 ---
 
