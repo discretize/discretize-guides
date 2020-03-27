@@ -497,7 +497,7 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
 - Blast your fire field for might in the middle.
 - Use Nova Launch to go to the corner.
-- Use <Skill id="5737"/> if it's off cd, else use <Skill id="5736"/> and deeps.
+- Use <Skill id="5737"/> if it's off cd, else use <Skill id="5736"/> and DPS.
 
 **33%**
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
