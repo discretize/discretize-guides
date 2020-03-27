@@ -92,7 +92,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 | | |
 | -- | -- |
 | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
-| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) isn't needed. |
+| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
 </Card>  
 </GridItem>
@@ -118,6 +118,7 @@ The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to 
 **Weapon usage:**
 - As a <Specialization name="Soulbeast"/> you want to always run offhand axe as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
 - As a mainhand you want to usually run Sword unless you have a short phase where you don't need to autoattack much in which case you should run mainhand axe so you can use <Skill name="Winters bite"/> just before the phase ends.
+- **You shouldn't run dagger mainhand in fractals as the phases are too short.**
 - For your second weaponset you either run greatsword or longbow:
   - Longbow offers higher burst through the ability to precast <Skill name="Barrage"/> but falls off if you end up back on longbow and have to autoattack for a sustained period. Longbow also allows you to proc <Item id="84505"/> with <Skill id="12511"/> for a nice damage bonus.
   - Greatsword is the choice for if you have a long sustained dps phase that allows you to loop your rotation nicely. It offers nice movement through <Skill id="12521"/> as well as a nice damage bonus on your next skill when using <Skill id="12525"/>.
