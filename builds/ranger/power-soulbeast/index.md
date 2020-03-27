@@ -341,7 +341,7 @@ Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Drago
 Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 </Message>
 
-In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moastance"/> over <Skill name="Signet of the wild"/>. Use <Skill name="Moastance"/> at the beginning of each phase.
+In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moastance"/> over <Skill name="Frost trap"/>. Use <Skill name="Moastance"/> at the beginning of each phase.
 
 **Opening**
 - Summon <Skill id ="12497"/> as you run towards the boss orb.
@@ -422,11 +422,11 @@ You can do any portal in this fight except from island 3 to 4 as you want to sum
 - Call <Skill name="Frostspirit"/> to the 1st island using <Skill name="Cold Snap"/> and use <Skill name="Worldlyimpact"/> and autoattacks to kill it.
 - You can use <Skill name="whirlingdefense"/> on the 2nd one after it jumps.
 - Swap to longbow and kill the 3rd add with <Skill name="Point Blank Shot"/> and <Skill name="Rapid Fire"/>.
-- Resummon <Skill name="Frostspirit"/> on the last island. Take <Skill id="5516"/> if available. Take the portal early to teleport <Skill name="Frostspirit"/> to you.
+- Resummon <Skill name="Frostspirit"/> on the last island. Take the portal early to teleport <Skill name="Frostspirit"/> to you.
 
 **66% and 33%**  
 In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/> hit while Skorvald is broken and therefore has <Effect name="Exposed"/>. 
-- <Skill id="5531"/> (or <Skill name="Barrage"/> if you don't have <Skill id="5516"/>).
+- Precast <Skill name="Barrage"/> before Skorvald becomes vulnerable.
 - **Don't use <Skill name="Onewolfpack"/> in phase 2 unless you don't think you'll make the dps check.**
 - Do use <Skill name="Onewolfpack"/> in phase 3.
 - <Skill name="Frosttrap"/>, <Skill name="Sicem"/>.
