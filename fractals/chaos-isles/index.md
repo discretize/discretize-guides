@@ -39,7 +39,7 @@ Kill the four *Veteran Chanters* at the beginning to open the gate on the right-
 </GridItem>
   
 <GridItem sm="8">
-<Video title="Skip to Chaos Anomaly (any class)" youtube="Alpgs_GaZV0?t=19"/>  
+<Video title="Skip to Chaos Anomaly (any class)" timestamp="19" youtube="Alpgs_GaZV0"/>  
 </GridItem>
 </Grid>
 
@@ -57,7 +57,7 @@ Pay attention to the <Control name="knockback"/> zones from the small JT-12 gole
 <GridItem>
 <Tabs>
 <Tab specialization="Revenant">
-It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorbtion with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade trainline combo variant for more energy for the whole fight.
+It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade variant for more energy for the whole fight.
 </Tab>
 
 <Tab specialization="guardian">
@@ -83,6 +83,7 @@ You will need to enlighten four *bonfires* on the path to progress to the end bo
 
 You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. Do not assign a bonfire to each player, simply lighten them up as soon as you reach them.  
 Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
+
 </GridItem>
 <GridItem sm="4">
 <Image src="./images/forest.jpg" caption="The blizzard forest"/>

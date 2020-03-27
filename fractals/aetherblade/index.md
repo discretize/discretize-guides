@@ -85,13 +85,13 @@ To skip this part you are going to need a little jumping, damaging the Inquest w
 <Tab specialization="elementalist">
 Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
   
-<Video title="Elementalist skip" youtube="OjUvCp2h_04?t=45"/>
+<Video title="Elementalist skip" timestamp="45" youtube="OjUvCp2h_04"/>
 </Tab>
 
 <Tab specialization="Guardian">
 Use <Skill name="Sword of Justice"/> upon the platform, then teleport to it with <Skill name="Merciful Intervention"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
   
-<Video title="Guardian skip" youtube="MmJTsOhdQeo?t=460"/> 
+<Video title="Guardian skip" timestamp="460" youtube="MmJTsOhdQeo"/> 
 </Tab>
 
 <Tab specialization="daredevil">

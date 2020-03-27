@@ -30,7 +30,7 @@ record:
 <Grid>
 <GridItem sm="8">
 Skip the first two bridges, you can use <Effect name="stealth"/> but since it is difficult to reapply just stay together while moving.
-**You can use <Item id="78978"/> to skip the enitre first part, video below.**
+**You can use <Item id="78978"/> to skip the entire first part, video below.**
 
 
 You will reach an area with two _Molten Protectors_, drag them with you to the next group of mobs where you can't proceed. Kill everything there and the bridge to the Molten Effigy will come down.
@@ -51,11 +51,11 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 </Tab>
 
 <Tab specialization="Guardian">
-<Video title="Guardian skip" youtube="MmJTsOhdQeo?t=364"/>
+<Video title="Guardian skip" timestamp="364" youtube="MmJTsOhdQeo"/>
 </Tab>
 
 <Tab specialization="Thief">
-<Video title="Thief skip" youtube="Alpgs_GaZV0?t=172"/>
+<Video title="Thief skip" timestamp="172"  youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
 </GridItem>

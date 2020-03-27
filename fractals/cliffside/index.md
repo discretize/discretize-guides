@@ -28,7 +28,7 @@ consumables: [78978]
 ## Start & Ankle Seals <Item id="8881" disableText/><Item id="24678" disableText/>
 
 Kill the Cultists but take the _Cultist Hammer_ before finishing the last one to get a hammer charge.  
-Take the portal to above (...or walk) and destroy the two _Ankle Seals_ using hammer `Skill 4`. Both sigils have to get hit two times, do not finish mobs unless you need a charge.  
+Take the portal to above (...or walk) and destroy the two _Ankle Seals_ using hammer `Skill 4`. Both seals have to get hit two times, do not finish mobs unless you need a charge.  
 Use `/gg` afterwards and stay dead until the <Specialization name="elementalist"/>, <Specialization name="guardian"/>, <Specialization name="thief"/>  reaches the Chest Seal.
 </GridItem>
 
@@ -47,7 +47,7 @@ After the <Specialization name="Renegade"/> or someone teleported the party up, 
         Keep walking until you reach the last wooden board, then `/gg` as well.
 
 
-<Video title="Guardian (same of ele) skip (to chest)" youtube="MmJTsOhdQeo?t=129"/>
+<Video title="Guardian (same of ele) skip (to chest)" timestamp="129" youtube="MmJTsOhdQeo"/>
 </Tab>
 <Tab specialization="Guardian">
 After the <Specialization name="Renegade"/> or someone teleported the party up, the <Specialization name="elementalist"/> waits at the gate for the others to finish the two seals, then rush upstairs.   
@@ -63,10 +63,10 @@ After the <Specialization name="Renegade"/> or someone teleported the party up, 
 
 <Grid>
 <GridItem sm="6">
-<Video title="Thief skip (to ankle)" youtube="Alpgs_GaZV0?t=70"/>
+<Video title="Thief skip (to ankle)" timestamp="70" youtube="Alpgs_GaZV0"/>
 </GridItem>
 <GridItem sm="6">
-<Video title="Thief skip (to chest)" youtube="Alpgs_GaZV0?t=86"/>
+<Video title="Thief skip (to chest)" timestamp="86" youtube="Alpgs_GaZV0"/>
 </GridItem>
 </Grid>
 </Tab>
@@ -79,7 +79,7 @@ After the <Specialization name="Renegade"/> or someone teleported the party up, 
 <Grid>
 <GridItem>
 As soon as the <Specialization name="elementalist"/> did `/gg` too, everyone can resurrect and will respawn in front of the *Chest Seal* with a new *Cultist Hammer* ahead of you.    
-It will take five hits to break the chest seal. If you see your Mesmer running ahead and placing a portal to the *Arm Seals*, try to get a hammer charge before taking it to above.
+It will take five hits to break the chest seal. If you see somebody running ahead and placing a <Item name="whitemantleportaldevice"/> to the *Arm Seals*, try to get a hammer charge before taking it to above.
 </GridItem>
 
 <GridItem>
@@ -117,11 +117,11 @@ Type `/gg` after finishing both seals and stay dead. If you wipe before both sea
 
 <Tabs>
 <Tab specialization="warrior">
-You can take the *Cultist Hammer* and use <Skill id="21815"/> during the Portal jumping to nullify the high incoming damage.
+You can take the *Cultist Hammer* and use <Skill id="21815"/> during the portal jumping to nullify the high incoming damage.
 </Tab>
 
 <Tab specialization="ranger">
-Again, <Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you.
+Again, <Skill id="12638"/> on offhand Axe helps pulling the Cultists to you.
 </Tab>
 </Tabs>
 
@@ -132,7 +132,7 @@ Again, <Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you
 ## The way up
 </GridItem>
 <GridItem sm="4">
-Do not resurrect yourself yet, wait for the  <Specialization name="revenant"/>, <Specialization name="elementalist"/>, <Specialization name="guardian"/> or <Specialization name="thief"/> to finish his portal and do `/gg` himself again or you will be stuck with an useless Mesmer for the entire end fight.
+Do not resurrect yourself yet, wait for the  <Specialization name="revenant"/>, <Specialization name="elementalist"/>, <Specialization name="guardian"/> or <Specialization name="thief"/> to finish his portal and do `/gg` himself again or you will be stuck with a useless person for the entire end fight.
 </GridItem>
 
 <GridItem sm="8">
@@ -151,10 +151,10 @@ After the whole party `/gg`'ed, resurrect yourself and place <Item id="78978"/> 
 <Video title="Ele skip" youtube="v=OjUvCp2h_04"/>
 </Tab>
 <Tab specialization="Guardian">
-<Video title="Guardian skip" youtube="MmJTsOhdQeo?t=162"/>
+<Video title="Guardian skip" timestamp="162" youtube="MmJTsOhdQeo"/>
 </Tab>
 <Tab specialization="Thief">
-<Video title="Thief skip" youtube="Alpgs_GaZV0?t=125"/>
+<Video title="Thief skip" timestamp="125" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
 </GridItem>
