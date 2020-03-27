@@ -53,6 +53,10 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 <Tab specialization="Guardian">
 <Video title="Guardian skip" youtube="MmJTsOhdQeo?t=364"/>
 </Tab>
+
+<Tab specialization="Thief">
+<Video title="Thief skip" youtube="Alpgs_GaZV0?t=172"/>
+</Tab>
 </Tabs>
 </GridItem>
 
