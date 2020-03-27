@@ -1,6 +1,6 @@
 ---
 title: 'Captain Mai Trin Boss'
-date: '2018-09-12'
+date: '2020-03-27'
 image: './images/header.jpg'
 group: 'T4'
 api: 2932
@@ -21,8 +21,8 @@ Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* a
 After you killed the mobs, use the Mistlock Singularity to reset cooldown then the teleporter to enter the boss area.
 
 <Tabs>
-<Tab specialization="mesmer">
-Put down a <Skill id="10197"/> at the start and open it after triggering Mai Trin before you `/gg`.
+<Tab specialization="Revenant">
+It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorbtion at pre-fight and at Mai Trin. Recommended to use the Salvation / Invocation / Renegade trainline combo variant for more energy for the whole fight.
 </Tab>
 </Tabs>
 </GridItem>
@@ -51,22 +51,15 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 <GridItem sm="5">
 <Image src="./images/horrik.jpg" caption="First Mate Horrik"/>
 <Tabs>
-<Tab specialization="mesmer">
-Use <Skill id="10302"/> against the multitude of projectiles.
+
+<Tab specialization="Revenant">
+It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorbtion with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade trainline combo variant for more energy for the whole fight.
 </Tab>
 
 <Tab specialization="soulbeast">
 You can block Horrik's cannon projectile with <Skill name="Counterattack" specialization="ranger"/> (Greatsword 4).
 </Tab>
 
-<Tab specialization="druid">
-Trait <Trait id="1075"/> and use <Skill id="12489"/> for additional condition clears.
-    Also change <Skill id="12493"/> to <Skill id="12495"/> to reduce incoming damage from spawning mobs every phase and use <Skill id="31496"/> (Staff 5) against the cannons.
-</Tab>
-
-<Tab specialization="spellbreaker">
-You can run Spellbreaker to counter the enemy boons and destroy the snipers projectiles at 25% with <Skill id="45333"/>.
-</Tab>
 </Tabs>
 </GridItem>
 </Grid>
