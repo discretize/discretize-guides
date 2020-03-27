@@ -78,13 +78,13 @@ Use <Skill name="Legendary Demon Stance"/> to remove <Boon name="Protection"/> w
 
 ---
 
-## On the way to The Voice
+## On the way to The Voices
 
 <Grid>
 <GridItem sm="6">
 ### Shadow Minotaur, Middle Room
     
-After merging the second orb with the Vibrant Crystal, you get a Special Action Key skill called <Effect name="light of deldrimor"/>. This skill is used to reveal hidden chest in the dungeon as well as making the mobs 10% more vulnerable and it also serves as revealing the Shadow Minotaur in the central chamber. After killing the Shadow Minotaur and the Imps the door in the middle chamber opens. Go in and move on to the next obstacle, the Maze.
+After merging the second orb with the Vibrant Crystal, you get a Special Action Key skill called <Effect name="lightofdeldrimor"/>. This skill is used to reveal hidden chest in the dungeon as well as making the mobs 10% more vulnerable and it also serves as revealing the Shadow Minotaur in the central chamber. After killing the Shadow Minotaur and the Imps the door in the middle chamber opens. Go in and move on to the next obstacle, the Maze.
 </GridItem>
 
 <GridItem sm="6">
@@ -98,7 +98,7 @@ After merging the second orb with the Vibrant Crystal, you get a Special Action 
 <GridItem sm="6">  
 ### The Maze
   
-Here you have to use the <Effect name="light of deldrimor"/> to reveal the hidden tiles of the maze. **<Specialization name="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <Effect name="light of deldrimor"/>.** Move to the right and the first orb of light is revealed for you. From there you proceed on to the next orb of light to your left or the bottom left on the minimap. After revealing all four orbs the maze's tiles reveal themselves and you can move on to the "elevator".
+Here you have to use the <Effect name="lightofdeldrimor"/> to reveal the hidden tiles of the maze. **<Specialization name="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <Effect name="lightofdeldrimor"/>.** Move to the right and the first orb of light is revealed for you. From there you proceed on to the next orb of light to your left or the bottom left on the minimap. After revealing all four orbs the maze's tiles reveal themselves and you can move on to the "elevator".
 </GridItem>
 <GridItem sm="12">
 <Video title="Maze skip for Soulbeast, Warrior, Guardian, Elementalist and Revenant" youtube="coAfQMSot7s"/>
@@ -109,7 +109,7 @@ Here you have to use the <Effect name="light of deldrimor"/> to reveal the hidde
 </GridItem> 
 
 <GridItem sm="8"> 
-After standing on the rune in the middle of the platform it proceeds to go downward. If you didn't step in in time, no worries, there is a cyan glowing rune that teleports you down. As the platform goes down, it stops in the middle and mobs spawn. It's two waves of mobs with first being Veteran Imps only, then an Elite Minotaur and Veteran Imps. **Use the <Effect name="light of deldrimor"/> to make them vulnerable** and after killing them the platform moves again.You can jump down but it can happen that you die if you jump from too high. It is more safe to wait until it is fully down.
+After standing on the rune in the middle of the platform it proceeds to go downward. If you didn't step in in time, no worries, there is a cyan glowing rune that teleports you down. As the platform goes down, it stops in the middle and mobs spawn. It's two waves of mobs with first being Veteran Imps only, then an Elite Minotaur and Veteran Imps. **Use the <Effect name="lightofdeldrimor"/> to make them vulnerable** and after killing them the platform moves again.You can jump down but it can happen that you die if you jump from too high. It is more safe to wait until it is fully down.
 </GridItem>
 
 <GridItem sm="4">
@@ -130,7 +130,7 @@ Please use <Skill name="Binding Blade"/> (Greatsword 5) to group the mobs.
   
 Before fight <Label>Pre-stack</Label>
 
-Prestack <Boon name="might"/> and proceed to the boss. The boss has several mechanics. The first you will notice is he is teleporting to a random location of the arena at every 10%. The tiles of the arena can be revealed with the <Effect name="light of deldrimor"/> skill. Spam this skill all the time and you won't have a problem with disappearing tiles.
+Prestack <Boon name="might"/> and proceed to the boss. The boss has several mechanics. The first you will notice is he is teleporting to a random location of the arena at every 10%. The tiles of the arena can be revealed with the <Effect name="lightofdeldrimor"/> skill. Spam this skill all the time and you won't have a problem with disappearing tiles.
 
 Teleporting <Label>Breakbar</Label>
 
@@ -138,7 +138,7 @@ At 80% and then 40% _The Voice_ teleports away and gains a breakbar while castin
 
 Invulnerable <Label>Phases</Label>
 
-At 60% and 20% _The Voice_ teleports to the middle, becoming invulnerable and you have to keep away _Spectral Flames_ from him. _Spectral Flames_ make the tiles disappear under them. Use <Effect name="light of deldrimor"/> skill to make them invulnerable to _Spectral Flames_. If a _Spectral Flame_ manages to reach _The Voice_, he casts a huge AoE that damages you.
+At 60% and 20% _The Voice_ teleports to the middle, becoming invulnerable and you have to keep away _Spectral Flames_ from him. _Spectral Flames_ make the tiles disappear under them. Use <Effect name="lightofdeldrimor"/> skill to make them invulnerable to _Spectral Flames_. If a _Spectral Flame_ manages to reach _The Voice_, he casts a huge AoE that damages you.
 
 Ending <Label>20%</Label>
 
