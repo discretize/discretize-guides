@@ -52,7 +52,7 @@ There are two ways to do this. For the faster way you require <Item id="78978"/>
 </Tab>
 
 <Tab specialization="Warrior">
-<Video title="Warrior skip" timestamp="105"  youtube="29qQ2xU1YHk"/>
+<Video title="Warrior skip" timestamp="105"  youtube="REnmbN7sZFQ"/>
 </Tab>
 
 <Tab specialization="Revenant">
@@ -141,7 +141,7 @@ Skip here by one of the classes below:
 
 <Tabs>
 <Tab specialization="Guardian">
-<Video title="Guarian skip to last boss, same for Ranger" timestamp="103" youtube="MmJTsOhdQeo"/>
+<Video title="Guarian skip to last boss, same for Ranger and Warrior" timestamp="103" youtube="MmJTsOhdQeo"/>
 </Tab>
   
 <Tab specialization="Thief">

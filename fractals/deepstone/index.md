@@ -32,7 +32,7 @@ Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pas
 <Video title="Tetris skip" youtube="5x1KpI1unYg"/>
 </Tab>
 <Tab specialization="Warrior">
-<Video title="Tetris skip" youtube="MmJTsOhdQeo"/>
+<Video title="Tetris skip" youtube="29qQ2xU1YHk"/>
 </Tab>
 </Tabs>
 </GridItem>
