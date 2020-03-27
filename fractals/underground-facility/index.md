@@ -52,7 +52,7 @@ There are two ways to do this. For the faster way you require <Item id="78978"/>
 </Tab>
 
 <Tab specialization="Warrior">
-<Video title="Warrior skip" timestamp="105"  youtube="29qQ2xU1YHk"/>
+<Video title="Warrior skip" timestamp="105"  youtube="REnmbN7sZFQ"/>
 </Tab>
 
 <Tab specialization="Revenant">
