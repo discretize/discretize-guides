@@ -34,6 +34,12 @@ While condition-based team setups are perfectly viable, power setups outperform 
 
 ---
 
+## Prestacking
+<Video title="Pre-casting for every meta class by Loves Sorrow" youtube="ZcuILnFcq6s"/>
+### For more pre-stacking guide [click here](/guides/blast-stacking)
+
+---
+
 ## Usage of `/gg`
 
 <Grid>
