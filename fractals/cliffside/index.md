@@ -148,7 +148,7 @@ After the whole party `/gg`'ed, resurrect yourself and place <Item id="78978"/> 
 <Video title="Revenant skip" youtube="-zJLBwkO1Cg"/>  
 </Tab>
 <Tab specialization="elementalist">
-<Video title="Ele skip" youtube="v=OjUvCp2h_04"/>
+<Video title="Ele skip" youtube="OjUvCp2h_04"/>
 </Tab>
 <Tab specialization="Guardian">
 <Video title="Guardian skip" timestamp="162" youtube="MmJTsOhdQeo"/>
