@@ -39,7 +39,7 @@ Kill the four *Veteran Chanters* at the beginning to open the gate on the right-
 </GridItem>
   
 <GridItem sm="12">
-<Video title="Skip to Chaos Anomaly (any class)" timestamp="19" youtube="Alpgs_GaZV0"/>  
+<Video title="Skip to Chaos Anomaly (Any class)" timestamp="19" youtube="Alpgs_GaZV0"/>  
 </GridItem>
 </Grid>
 
