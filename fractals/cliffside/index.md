@@ -103,10 +103,10 @@ It will take five hits to break the chest seal. If you see somebody running ahea
 
 ---
 
-## Arm Seals <Item id="8881" disableText/><Item id="24678" disableText/>
-
 <Grid>
 <GridItem sm="7">
+## Arm Seals <Item id="8881" disableText/><Item id="24678" disableText/>  
+  
 This is a matter of timing, so look out for the <Item id="78978"/> and the hammer carrier. In a perfect world yoe use the portals one by one, and <Specialization name="renegade"/> placing <Skill name="Inspiring Reinforcement"/>, giving <Boon name="Stability"/> to the hammer carrier and not getting knocked back, resulting in faster seal breaking.
 
 During the portal jumping, keep Cultist's health as low as possible but **only finish them when a hammer charge is needed**. If you run out of portals simply run together. Ideally, both seals take three hits to be destroyed—two portals are more than enough.
@@ -134,16 +134,14 @@ Again, <Skill id="12638"/> on offhand Axe helps pulling the Cultists to you.
 
 <Grid>
 <GridItem sm="12">
-## The way up
-</GridItem>
-<GridItem sm="4">
+## The way up 
+  
 Do not resurrect yourself yet, wait for the  <Specialization name="revenant"/>, <Specialization name="elementalist"/>, <Specialization name="guardian"/> or <Specialization name="thief"/> to finish his portal and do `/gg` himself again or you will be stuck with a useless person for the entire end fight.
-</GridItem>
 
-<GridItem sm="8">
 After the whole party `/gg`'ed, resurrect yourself and place <Item id="78978"/> at the revival position.    
     Blink up to the Arch Diviner, open the portal and **walk away from it** before doing `/gg` again to reset your cooldowns. If you kill yourself on the portal it bugs so watch it!    
-    Now the whole party can resurrect and use the portal, type `go` in chat to indicate that. Before taking the portal on your own, switch your skills and traits back. This takes some timing to get right.
+
+Now the whole party can resurrect and use the portal, type `go` in chat to indicate that. Before taking the portal on your own, switch your skills and traits back. This takes some timing to get right.
 </GridItem>
 
 
@@ -165,7 +163,7 @@ After the whole party `/gg`'ed, resurrect yourself and place <Item id="78978"/> 
 </GridItem>
 
 
-<GridItem sm="8">
+<GridItem sm="6">
 ## Arch Diviner <Item id="8881" disableText/><Item id="24678" disableText/>
 After the Mesmer indicates you to resurrect, take the portal to above and combat the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Trait id="1502"/>.
 
@@ -174,13 +172,14 @@ Every 25% of his health, you will need to collect a _Cultist Hammer_ charge simi
 Do not get caught in any of the Arch Diviner's voidzones, otherwise you will be teleported and trapped inside a distant cage which messes up positioning. Also, try to stack on him as he teleports to the furthermost person.
 </GridItem>
 
-<GridItem sm="4">
+<GridItem sm="6">
 <Tabs>
 <Tab specialization="revenant">
-You can <Skill name="Call to Anguish"/> all four Cultists during the Seal phase to the center.
+Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the <Control name="Knockdown"/> the boss does after every seal break phase.
 </Tab>
 </Tabs>
+  
+<Image src="./images/arch_diviner.jpg" caption="The arch diviner and the final seal"/>  
 </GridItem>
 </Grid>
 
-<Image src="./images/arch_diviner.jpg" caption="The arch diviner and the final seal"/>
