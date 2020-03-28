@@ -98,11 +98,11 @@ If you skipped don't forget to trigger the "Reach the top" checkpoint (red dot o
 </Message> 
 </GridItem> 
  
-<GridItem sm="5"> 
+<GridItem sm="4"> 
 <Image src="./images/old_tom.jpg" caption="Old Tom"/>
 </GridItem>
 
-<GridItem sm="7">
+<GridItem sm="8">
 ## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>  
   
 Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken. <Specialization name="Soulbeast"/> can use <Skill id="12489"/> and take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> almost nullifies the Poison from the green projectiles.
