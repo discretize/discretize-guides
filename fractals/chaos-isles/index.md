@@ -131,8 +131,8 @@ Tome 3 skill 1 and 5 grants <Boon name="Stability"/>, if not enough take <Skill 
 </Tabs>
 
 <Tabs>
-<Tab specialization="Warrior">
-Have an offhand mace for Defiance bar at 50%!
+<Tab specialization="Berserker">
+Take <Skill name="Headbutt"/> for the 50% Defiance bar and <Skill name="Outrage"/> against the <Control name="Daze"/>!
 </Tab>  
 </Tabs>
 </GridItem>
