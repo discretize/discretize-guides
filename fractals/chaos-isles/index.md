@@ -38,7 +38,7 @@ Kill the four *Veteran Chanters* at the beginning to open the gate on the right-
 <Image src="./images/start.jpg" caption="The starting area"/>
 </GridItem>
   
-<GridItem sm="8">
+<GridItem sm="12">
 <Video title="Skip to Chaos Anomaly (any class)" timestamp="19" youtube="Alpgs_GaZV0"/>  
 </GridItem>
 </Grid>
@@ -105,6 +105,8 @@ Another trick is to bypass the damage from purple zones by repeated jumping.
 Starting at 50% health, he will randomly start a _pulling attack_ which can be prevented by breaking his defiance bar. Save your crowd control skills for this.
 
 Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Control name="knockback"/> and can shove you off the platform.
+
+<Image src="./images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -112,13 +114,18 @@ Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Con
 <Tab specialization="Revenant">
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="daze"/>.
 </Tab>
-
-<Tab specialization="ranger">
-Use <Skill id="12638"/> to pull the small JT-12 golems closer.    
-        <Skill id="12569"/> with <Trait id="1038"/> grants the whole party <Boon name="stability"/>.
+</Tabs>  
+<Tabs>
+<Tab specialization="soulbeast">
+Use <Skill name="Path of Scars"/> to pull the small JT-12 golems closer. <Skill name="Dolyak stance"/> with the trait <Trait name=" Leader of the Pack"/> gives the whole party <Boon name="Stability"/>.
+</Tab>
+</Tabs>
+<Tabs>
+<Tab specialization="Firebrand">
+Tome 3 skill 1 and 5 grants <Boon name="Stability"/>, if not enough take <Skill name="Stand your ground"/>.
 </Tab>
 </Tabs>
 </GridItem>
 </Grid>
 
-<Image src="./images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
+
