@@ -70,7 +70,7 @@ For a faster completion time you can split up. <Specialization name="Warrior"/> 
 
 
 
-<GridItem sm="5">
+<GridItem sm="6">
 <Image src="./images/turret_room.jpg" caption="Golems patrol in the turret room"/>
   
 <Tabs>
@@ -79,7 +79,7 @@ If you decide to do it with 2 person tell your <Specialization name="Revenant"/>
 </Tab>
 </Tabs>
 </GridItem>
-<GridItem sm="7">
+<GridItem sm="6">
 ## Repulsor lab <Label>South</Label>
   
 This should be done by two people, **but can be soloed (usually by <Specialization name="Guardian"/>) as shown in the video below**. Learn the timing of the turret shots and jump or dodge over them. You can also take a *Safety Shield* from the beginning and use it to block shots for a short duration.
@@ -175,10 +175,10 @@ Share <Skill id="13132"/> with 5 allies to deal 750 unblockable defiance bar dam
 
 ---
 
-## Thaumanova Anomaly
-
 <Grid>
 <GridItem sm="8">
+## Thaumanova Anomaly  
+  
 After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="might"/>.    
 During the fight, try to stack as much as possible on one or two adjacent platforms but don't die from <Instability name="Social Awkwardness"/> if it is present.
 
