@@ -66,14 +66,22 @@ For a faster completion time you can split up. <Specialization name="Warrior"/> 
   
 
 
-<GridItem sm="12">
-## Repulsor lab <Label>South</Label>
-</GridItem>
 
-<GridItem sm="4">
+
+
+
+<GridItem sm="5">
 <Image src="./images/turret_room.jpg" caption="Golems patrol in the turret room"/>
+  
+<Tabs>
+<Tab specialization="Guardian">
+If you decide to do it with 2 person tell your <Specialization name="Revenant"/> or anyone with less DPS to come help you. 
+</Tab>
+</Tabs>
 </GridItem>
-<GridItem sm="8">
+<GridItem sm="7">
+## Repulsor lab <Label>South</Label>
+  
 This should be done by two people, **but can be soloed (usually by <Specialization name="Guardian"/>) as shown in the video below**. Learn the timing of the turret shots and jump or dodge over them. You can also take a *Safety Shield* from the beginning and use it to block shots for a short duration.
 
 One person activates the console to the left <Label circular>1</Label> to grant the other person short access to the console at the right <Label circular>2</Label>.
@@ -81,7 +89,7 @@ One person activates the console to the left <Label circular>1</Label> to grant 
 Activating <Label circular>2</Label> enables short access to the two final consoles at <Label circular>3</Label>. You can bypass the <Condition name="immobile"/> from triggering them by standing exactly in the middle and pressing both buttons at the same time.
 </GridItem>
 <GridItem sm="12">
-<Video title="Guardian skip" timestamp="545" youtube="MmJTsOhdQeo"/>  
+<Video title="Guardian skip (Any class can do it)" timestamp="545" youtube="MmJTsOhdQeo"/>  
 </GridItem>
 </Grid>
 
