@@ -12,10 +12,10 @@ sigils: [{ id: 24615 }, { id: 24868 }]
 consumables: [78978]
 ---
 
-## Start
-
 <Grid>
-<GridItem sm="8">  
+<GridItem sm="8">
+## Start  
+  
 Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="daze"/> with his stunning shield, use <Boon name="stability"/>, blocks or invulnerables against it.
 
 After you killed the mobs, use the Mistlock Singularity to reset cooldown then the teleporter to enter the boss area.
