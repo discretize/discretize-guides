@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Berserker'
 date: '2020-03-27'
 rating: 'Meta'
@@ -18,7 +18,7 @@ author: 'SpatiumPrinceps.8927'
 <Tab title="Build">
 The <Specialization text="Banner Berserker" name="berserker"/> is the strongest build for <Specialization name="warrior"/> in fractals. 
 
-Besides providing the group with strong unique damage buffs in <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent single defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has relatively high burst and excellent sustained damage. <Specialization name="warrior"/> can provide half of the necessary <Boon name="might"/> and <Boon name="Fury"/> to the group by playing with <Skill name="Forgreatjustice"/>.
+Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent single defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has relatively high burst and excellent sustained damage. <Specialization name="warrior"/> can provide half of the necessary <Boon name="might"/> and <Boon name="Fury"/> to the group by playing with <Skill name="Forgreatjustice"/>.
 
 Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="berserker"/>, your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all the while making DPS players sweat nervously when they glance at their DPS meter.
 
@@ -42,12 +42,12 @@ Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Assassin" accessory2Affix="Berserker" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
 <Card title="Swap Weapons">
-* Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils
-* A warhorn for pre-stacking <Boon name="Might"/>
-* A sword is very useful for out of combat mobility
-* Greatsword for mobility and cleave 
-* Rifle for Siax
-* Torch for fights where you can trade cc for dps or need a fire field to blast
+* Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+* A warhorn for pre-stacking <Boon name="Might"/>.
+* A sword is very useful for out of combat mobility.
+* Greatsword for mobility and cleave.
+* Rifle for Siax.
+* Torch for fights where you can trade cc for DPS or need a fire field to blast.
 </Card>
 
 </GridItem>
@@ -70,12 +70,12 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin"/>
 <Card title="Swap Weapons">
-* Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils
-* A warhorn for pre-stacking <Boon name="Might"/>
-* A sword is very useful for out of combat mobility
-* Greatsword for mobility and cleave 
-* Rifle for Siax
-* Torch for fights where you can trade cc for dps or need a fire field to blast
+* Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+* A warhorn for pre-stacking <Boon name="Might"/>.
+* A sword is very useful for out of combat mobility.
+* Greatsword for mobility and cleave. 
+* Rifle for Siax.
+* Torch for fights where you can trade cc for DPS or need a fire field to blast.
 </Card>
 
 
@@ -94,24 +94,24 @@ You are an actual madlad for considering this build. It costs about 3500 gold...
 <GridItem sm="4">
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
 <Card title="You need...">
-- all fractal augmentations
-- <Item id="70596"/>
-- the mistlock singularity
-- 10x <Item id="37131"/> 
-- 1x <Item id="49439"/>
-- 7x <Item id="49438"/>
+- All fractal augmentations.
+- <Item id="70596"/>.
+- Mistlock singularity.
+- 10x <Item id="37131"/>.
+- 1x <Item id="49439"/>.
+- 7x <Item id="49438"/>.
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
 <Card title="Swap Weapons">
-* Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils
-* A warhorn for pre-stacking <Boon name="Might"/>
-* A sword is very useful for out of combat mobility
-* Greatsword for mobility and cleave 
-* Rifle for Siax
-* Torch for fights where you can trade cc for dps or need a fire field to blast
+* Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+* A warhorn for pre-stacking <Boon name="Might"/>.
+* A sword is very useful for out of combat mobility.
+* Greatsword for mobility and cleave.
+* Rifle for Siax.
+* Torch for fights where you can trade cc for DPS or need a fire field to blast.
 </Card>
 
 
@@ -126,7 +126,7 @@ You are an actual madlad for considering this build. It costs about 3500 gold...
 <GridItem sm="7">
 <Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint, Doubled Standards, Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct, Blood Reaction, Bloody Roar"/>
 <Card title="Maximizing berserk uptime">
-For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. 
+For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. Two such examples can be seen below for the first two bosses of 99CM:
 ### **Mama**
 <UnembossedSkills healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343"/>
 
@@ -146,7 +146,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 | <Skill name="banneroftactics" disableText size="big"/> | Can be precasted at encounters. |
 | <Skill name="onmymark" disableText size="big"/> | Can be used to pull Kraits from the side altars at 99CM. |
 | <Skill name="featherfootgrace" disableText size="big"/> | Grants <Effect name="superspeed"/> for skips. |
-| <Skill name="frenzy" disableText size="big"/> | Self <Boon name="Quickness"/> for precasting banners |
+| <Skill name="frenzy" disableText size="big"/> | Self <Boon name="Quickness"/> for precasting banners. |
 | <Skill name="bloodreckoning" disableText size="big"/> | For double <Skill name="arcdivider"/> or the situational <Specialization name="berserker"/> build. |
 | <Skill name="outrage" disableText size="big"/> | Very strong for <Skill name="berserk"/> extension. | 
 | <Skill name="Wild Blow" disableText size="big"/> | 332 CC and 4s <Skill name="berserk"/> extension. |  
@@ -164,14 +164,14 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 <Card title="Skill usage">
 **How to deal damage:**
 * Use <Skill name="decapitate"/> as often as possible. Three crits are required to gain a single <Skill name="decapitate"/>:
-    1. <Skill name="Cycloneaxe"/> and <Skill name="throwaxe"/> 
-    2. <Skill name="Dualstrike"/> and <Skill name="throwaxe"/> 
-    3. <Skill name="whirlingaxe"/>
+    1. <Skill name="Cycloneaxe"/> and <Skill name="throwaxe"/>. 
+    2. <Skill name="Dualstrike"/> and <Skill name="throwaxe"/>. 
+    3. <Skill name="whirlingaxe"/>.
 * Get three <Skill name="decapitate"/> before pressing <Skill name="Whirling axe"/>.
-* If the boss has a breakbar, make sure to use <Skill name="Tremor"/> to proc <Item name="severance"/>, then swap to Axe+Axe
+* If the boss has a breakbar, make sure to use <Skill name="Tremor"/> to proc <Item name="severance"/>, then swap to Axe+Axe.
 * Only use <Skill name="Throw Axe"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
 * Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase. 
-* Keep in mind that <Skill name="Crushing Blow"/> inflicts 15x <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC. Especially useful, if you apply the <Condition name="Vulnerability"/> to adds for a quicker burst.
+* Keep in mind that <Skill name="Crushing Blow"/> inflicts 15x <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quicker burst.
 * It is key that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your groups phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
 * Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
 
@@ -206,8 +206,8 @@ If using <Skill id="14483"/>:
 | <Skill id="14488"/> | 150 damage                     |
 | <Skill id="14487"/> | 100 damage                     |
 
-**When to take Maces**
-* In fights with only one defiance bar in the beginning, use Mace/Mace
+**When to take Maces:**
+* In fights with only one defiance bar in the beginning, use Mace/Mace.
 * In T4s and encounters that have defiance bars during the fight, use an offhand mace only.
 </Card>
 </GridItem>
@@ -220,34 +220,34 @@ If using <Skill id="14483"/>:
 * Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand warhorn to blast four times using the _Mistlock Singularity_.
 * Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
 * If there is a defiance bar present immediately at the start of the fight, start on your Mace/Mace set - otherwise swap to it when necessary.
-* With <Item name="Paralyzation" type="Sigil"/> you can deal 820 defiance bar damage with
-    * <Skill name="Tremor"/>, you can precast it and cancel the aftercast animation
-    * <Skill name="Pommel Bash"/>
-    * <Skill name="Headbutt"/> 
+* With <Item name="Paralyzation" type="Sigil"/> you can deal 820 defiance bar damage with:
+    * <Skill name="Tremor"/>, you can precast it and cancel the aftercast animation.
+    * <Skill name="Pommel Bash"/>.
+    * <Skill name="Headbutt"/>.
 </Card>
 </GridItem>
 
 <GridItem sm="6">
 <Card title="Rotation">
-**Ultra short fights (3 seconds)**
-- <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>
+**Ultra short fights (3 seconds):**
+- <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
 
 or depending on the phase length:
-- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
-- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
+- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
+- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
 
-**Short fights (6 seconds)**
-- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
-- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
-- <Skill name="whirlingaxe"/> and <Skill name="decapitate"/>
-- <Skill name="cycloneaxe"/>, <Skill name="chop"/> and <Skill name="decapitate"/>
+**Short fights (6 seconds):**
+- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
+- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
+- <Skill name="whirlingaxe"/> and <Skill name="decapitate"/>.
+- <Skill name="cycloneaxe"/>, <Skill name="chop"/> and <Skill name="decapitate"/>.
 
-**Longer fights fights**
-- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
-- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>
-- <Skill name="whirlingaxe"/> and <Skill name="decapitate"/>
-- <Skill name="cycloneaxe"/>, <Skill name="chop"/> and <Skill name="decapitate"/>
-- <Skill name="Throwaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>
+**Longer fights fights:**
+- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
+- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
+- <Skill name="whirlingaxe"/> and <Skill name="decapitate"/>.
+- <Skill name="cycloneaxe"/>, <Skill name="chop"/> and <Skill name="decapitate"/>.
+- <Skill name="Throwaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
 
 
 </Card>
@@ -270,9 +270,9 @@ or depending on the phase length:
 <GridItem sm="12">
 <Divider text="PuG MAMA"/>
 <Message>
-This fight gets very messy if the adds are not immediately CCd. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates. 
+This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates. 
 </Message>
-This Guide is a PuG friendly version without banner precast. Please remember that CCing all bars fast is the most important bit in this fight. You won't get a good kill - might even wipe your party - if you greed DPS without CC. 
+This guide is a PuG friendly version without banner precast. Please remember that CCing all bars fast is the most important bit in this fight. You won't get a good kill - might even wipe your party - if you greed DPS without CC. 
 </GridItem>
 
 <GridItem sm="6">
@@ -280,8 +280,8 @@ This Guide is a PuG friendly version without banner precast. Please remember tha
 <UnembossedSkills healId="14401" utility1Id="29941" utility2Id="14405" utility3Id="14407" eliteId="30343"/>
 - Take <Trait id="1977"/>!
 - It makes sense to use [consumables](/guides/consumables) on the adds!
-- Food: <Item id="43360"/>
-- Utility: <Item id="50082"/>
+- Food: <Item id="43360"/>.
+- Utility: <Item id="50082"/>.
 </Card>
 </GridItem>
 <GridItem sm="6">
@@ -298,18 +298,18 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 ### **Prestacking**
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Blast 12 Stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>
+- Blast 12 Stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>.
 - Use both charges of <Skill name="for great justice"/>
 - Take the mistlock and approach the boss.
-- Start on Maces
+- Start on Maces.
 
 ### **1st Phase**
-- While approaching MAMA cast <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>
-- Shortly before MAMA becomes vulnerable use <Skill name="mending"/>
+- While approaching MAMA cast <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
+- Shortly before MAMA becomes vulnerable use <Skill name="mending"/>.
 - Precast <Skill name="Tremor"/> for CC.
 - Use <Skill name="headbutt"/> to CC quickly.
-- Engage <Skill name="Berserk"/>
-- Swap
+- Engage <Skill name="Berserk"/>.
+- Swap.
 - <Skill name="decapitate"/>, continue as usual.
 
 ### *1st Add*
@@ -320,20 +320,20 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 - Don't break this bar.
 
 ### *2nd Add*
-- Swap to Maces
-- <Skill name="skullgrinder"/> and <SKill name="pommelbash"/>
-- <Skill name="Mending"/> shortly before the add dies
+- Swap to Maces.
+- <Skill name="skullgrinder"/> and <Skill name="pommelbash"/>.
+- <Skill name="Mending"/> shortly before the add dies.
 
 ### **3rd Phase**
-- <Skill name="Tremor"/>, <Skill name="wildblow"/>
+- <Skill name="Tremor"/>, <Skill name="wildblow"/>.
 - Swap to Axes as soon as possible.
 - Normal rotation according to the guide. 
 
 ### *3rd Add*
-- <Skill name="Headbutt"/>
+- <Skill name="Headbutt"/>.
 - Recast <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> while approaching the add.
-- Engage <Skill name="Berserk"/>
-- <Skill name="Mending"/> shortly before the add dies
+- Engage <Skill name="Berserk"/>.
+- <Skill name="Mending"/> shortly before the add dies.
 
 ### **4th Phase** 
 - CC with <Skill name="Wildblow"/>.
@@ -346,7 +346,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 <Grid>
 <GridItem sm="12">
 <Divider text="ORGANIZED MAMA"/>
-This build only works, if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
+This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
 
 </GridItem>
 
@@ -355,8 +355,8 @@ This build only works, if you kill MAMA in less than 55 seconds. If there is any
 <UnembossedSkills healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343"/>
 - You can change <Skill id="14516"/> to <Skill name="throwbolas"/> if you don't need the extra CC.
 - Take <Trait name="Smashbrawler"/>!
-- Food: <Item id="43360"/>
-- Utility: <Item id="50082"/>
+- Food: <Item id="43360"/>.
+- Utility: <Item id="50082"/>.
 </Card>
 </GridItem>
 <GridItem sm="6">
@@ -371,19 +371,19 @@ This build only works, if you kill MAMA in less than 55 seconds. If there is any
 There is an invisible hitbox in the center of the arena allowing you to gain enough adrenaline for one <Skill name="decapitate"/> with only two critical hits!
 
 ### **Prestacking**
-- Drop a <Item name="whitemantleportaldevice"/> on the slope, rush in with <Item name="endlesschoyapinatatonic"/> or <Item name="executioneraxetoy"/>
+- Drop a <Item name="whitemantleportaldevice"/> on the slope, rush in with <Item name="endlesschoyapinatatonic"/> or <Item name="executioneraxetoy"/>.
 - Use <Skill name="Frenzy"/> to precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/> and <Skill name="Battlestandard"/> a few steps on the right side of MAMA without getting in combat.
-- Take your own <Item name="whitemantleportaldevice"/>
+- Take your own <Item name="whitemantleportaldevice"/>.
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
 - Take the mistlock and use the portal to get back on the boss.
-- Start on Maces
-- Get in combat as fast as possible to fill up adrenalin: Use <Skill name="Cycloneaxe"/> and double tab <Skill name="Counterblow"/> against the invisible hitbox.
-- Shortly before Mama becomes vulnerable, use <Skill name="berserk"/> and <Skill name="Bullscharge"/> against the hitbox for <Trait name="peakperformance"/>
+- Start on Maces.
+- Get in combat as fast as possible to fill up adrenaline: Use <Skill name="Cycloneaxe"/> and double tab <Skill name="Counterblow"/> against the invisible hitbox.
+- Shortly before Mama becomes vulnerable, use <Skill name="berserk"/> and <Skill name="Bullscharge"/> against the hitbox for <Trait name="peakperformance"/>.
 
 ### **1st Phase**
 - Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
-- Swap
+- Swap weapons.
 - <Skill name="decapitate"/>, <Skill name="bloodreckoning"/>, <Skill name="decapitate"/>.
 
 ### *1st Add*
@@ -394,23 +394,23 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 - Normal rotation according to the guide. 
 
 ### *2nd Add*
-- Swap to Maces
-- <Skill name="skullgrinder"/>, <Skill name="pommelbash"/>
+- Swap to Maces.
+- <Skill name="skullgrinder"/>, <Skill name="pommelbash"/>.
 
 ### **3rd Phase**
-- <Skill name="tremor"/>, <Skill name="wildblow"/>
+- <Skill name="tremor"/>, <Skill name="wildblow"/>.
 - Swap to Axes as soon as possible.
-- <Skill name="Bullscharge"/>
+- <Skill name="Bullscharge"/>.
 - Normal rotation according to the guide. 
 
 ### *3rd Add*
-- <Skill name="Headbutt"/>, <Skill name="outrage"/>
+- <Skill name="Headbutt"/>, <Skill name="outrage"/>.
 
 ### **4th Phase** 
 - CC with <Skill name="Wildblow"/>.
 
 **Annotation:**
-- Regarding <Skill name="Bullscharge"/>: Cast it whenever it is off cd
+- Regarding <Skill name="Bullscharge"/>: Cast it whenever it is off cd.
 
 </GridItem>
 </Grid>
@@ -429,11 +429,11 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 <GridItem sm="6">
 <Card title="Skills and Traits">
 ### **PuG friendly version without banner precast:**
-<UnembossedSkills healId="14401" utility1Id="30258" utility2Id="14405" utility3Id="14404" eliteId="30343"/>
+<UnembossedSkills healId="14401" utility1Id="30258" utility2Id="14405" utility3Id="14407" eliteId="30343"/>
 - Take <Trait name="smashbrawler"/>!  
-- It is recommended to play Greatsword in pugs so you can easily cleave down the exploding adds! 
-- Food: <Item id="43360"/>
-- Utility: <Item id="50082"/>
+- It is recommended to play Greatsword in PuGs so you can easily cleave down the exploding adds! 
+- Food: <Item id="43360"/>.
+- Utility: <Item id="50082"/>.
 </Card>
 </GridItem>
 <GridItem sm="6">
@@ -448,10 +448,10 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 ### **Prestacking**
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Blast 12 Stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>
-- Use both charges of <Skill name="for great justice"/>
+- Blast 12 Stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>.
+- Use both charges of <Skill name="for great justice"/>.
 - Take the mistlock and approach the boss.
-- Start on Axes
+- Start on Axes.
 
 ### **1st Phase**
 - While approaching Siax cast <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>
@@ -467,7 +467,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 - When you killed the add use <Skill name="mending"/> and rush back to Siax.
 
 ### **2nd Phase** 
-- Throw <Skill name="bladetrail"/> against the vulnerable Siax
+- Throw <Skill name="bladetrail"/> against the vulnerable Siax.
 - Use <Skill name="arcdivider"/> to cleave down the incoming adds.
 - Normal rotation according to the guide. 
 - Remember to use <Skill name="headbutt"/> and <Skill name="outrage"/> for <Skill name="berserk"/> extension.
@@ -484,16 +484,16 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 <Grid>
 <GridItem sm="12">
 <Divider text="ORGANIZED SIAX"/>
-This build only works, if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
+This build only works if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
 </GridItem>
 
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343"/>
-- Take <Trait name="Smashbrawler"/>
+- Take <Trait name="Smashbrawler"/>!
 - In organized teams a rifle can kill the adds very efficiently! 
-- Food: <Item id="43360"/>
-- Utility: <Item id="50082"/>
+- Food: <Item id="43360"/>.
+- Utility: <Item id="50082"/>.
 </Card>
 </GridItem>
 <GridItem sm="6">
@@ -514,29 +514,29 @@ This build only works, if you kill Siax in less than 55 seconds. If there is any
 - Take the mistlock and use <Item name="whitemantleportaldevice"/> to get back on the boss.
 
 ### **1st Phase**
-- As soon as you get in combat use <Skill name="throwbolas"/> and <Skill name="whirlingaxe"/>
+- As soon as you get in combat use <Skill name="throwbolas"/> and <Skill name="whirlingaxe"/>.
 - <Skill name="decapitate"/>, <Skill name="bloodreckoning"/>, <Skill name="decapitate"/>.
 - Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
 
 ### *1st Add*
-- Swap to rifle, start with <Skill name="aimedshot"/> to apply <Condition name="vulnerability"/>
-- Finish the add with <Skill name="gunflame"/> and <Skill name="volley"/>
+- Swap to rifle, start with <Skill name="aimedshot"/> to apply <Condition name="vulnerability"/>.
+- Finish the add with <Skill name="gunflame"/> and <Skill name="volley"/>.
 
 ### **2nd Phase** 
 - Don't forget to apply <Trait name="peakperformance"/> with <Skill name="throwbolas"/>.
-- Do what a warrior does: smash <Skill name="decapitate"/>
+- Do what a warrior does: smash <Skill name="decapitate"/>.
 
 ### *2nd Add*
-- Swap to rifle, start with <Skill name="aimedshot"/> to apply <Condition name="vulnerability"/>
-- Finish the add with <Skill name="gunflame"/> and <Skill name="volley"/>
+- Swap to rifle, start with <Skill name="aimedshot"/> to apply <Condition name="vulnerability"/>.
+- Finish the add with <Skill name="gunflame"/> and <Skill name="volley"/>.
 
 ### **3rd Phase**
 - Don't forget to apply <Trait name="peakperformance"/> with <Skill name="throwbolas"/>.
-- Use <Skill name="headbutt"/> and <Skill name="outrage"/> [1]
-- Do what a warrior does: smash <Skill name="decapitate"/>
+- Use <Skill name="headbutt"/> and <Skill name="outrage"/>.
+- Do what a warrior does: smash <Skill name="decapitate"/>.
 
 **Annnotation:**
-- [1]: Depending on your kill time you might want to use the <Skill name="headbutt"/> - <Skill name="outrage"/> combo earlier.
+- Depending on your kill time you might want to use the <Skill name="headbutt"/> - <Skill name="outrage"/> combo earlier.
 
 </GridItem>
 </Grid>
@@ -556,7 +556,9 @@ This build only works, if you kill Siax in less than 55 seconds. If there is any
 <GridItem sm="12">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343"/>
-- Take <Trait name="savageinstinct"/>
+- Take <Trait name="savageinstinct"/>!
+- Food: <Item id="91805"/>.
+- Utility: <Item id="50082"/>.
 </Card>
 </GridItem>
 <GridItem sm="12">
@@ -574,8 +576,6 @@ This build only works, if you kill Siax in less than 55 seconds. If there is any
 <Card title="Additional Information">
 - In slow teams (PuGs) it can make sense to bring <Trait name="smashbrawler"/> and <Skill name="outrage"/> instead.
 - In fast teams bring <Skill name="bullscharge"/> over <Skill name="signetofmight"/>.
-- Food: <Item id="43360"/>
-- Utility: <Item id="91805"/>
 </Card>
 </GridItem>
 </Grid>
@@ -598,8 +598,8 @@ This build only works, if you kill Siax in less than 55 seconds. If there is any
 
 ### **1st Phase**
 - <Skill name="Headbutt"/> start to cast a few milliseconds before he looses <Effect name="invulnerability"/>.
-- <Skill name="Berserk"/>
-- Swap
+- <Skill name="Berserk"/>.
+- Swap weapons.
 - Smash <Skill name="Decapitate"/> hard.
 
 Pick up your banners after you phased Ensolyss!
@@ -608,11 +608,11 @@ Pick up your banners after you phased Ensolyss!
 
 Swap to your off set (mace/torch) and cap the circle. After you meet in the middle, continue with:
 - Use <Skill name="Flames of war"/> and blast 12 stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
-- <Skill name="Mending"/>
+- <Skill name="Mending"/>.
 - <Skill name="pommelbash"/> to trigger <Item name="severance"/>.
-- <Skill name="Headbutt"/>
-- <Skill name="Berserk"/>
-- Swap
+- <Skill name="Headbutt"/>.
+- <Skill name="Berserk"/>.
+- Swap weapons.
 - Smash <Skill name="Decapitate"/> hard.
 </Tab>
 
@@ -633,10 +633,10 @@ Swap to your off set (mace/torch) and cap the circle. After you meet in the midd
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343"/>
-- Take <Trait name="savageinstinct"/>
-- Food: <Item id="91805"/>
-- Utility: <Item id="9443"/>
-- In a more organized setup you can run an Axe with <Item name="elementalslaying"/> and an offhand Warhorn to blast <Boon name="might"/> on 2nd and 4th island.
+- Take <Trait name="savageinstinct"/>!
+- Food: <Item id="91805"/>.
+- Utility: <Item id="9443"/>.
+- In a more organized setup you can run an Axe with <Item name="elementalslaying"/> and an offhand Warhorn with <Item name="paralyzation"/> to blast <Boon name="might"/> on 2nd and 4th island.
 </Card>
 </GridItem>
 <GridItem sm="6">
@@ -657,17 +657,17 @@ Swap to your off set (mace/torch) and cap the circle. After you meet in the midd
 - Blast 12 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
 - Take the mistlock.
 - While approaching the boss drop both of your <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. 
-- Precast <Skill name="Flames of war"/> for DPS
-- Precast <Skill name="Mending"/>
+- Precast <Skill name="Flames of war"/> for DPS then swap back to maces.
+- Precast <Skill name="Mending"/>.
 
 ### **100%-66%**
-- <Skill name="Tremor"/> and <Skill name="Pommelbash"/>, <Skill name="Headbutt"/>
--  <Skill name="Berserk"/> 
-- Swap
+- <Skill name="Tremor"/> and <Skill name="Pommelbash"/>, <Skill name="Headbutt"/>.
+-  <Skill name="Berserk"/>. 
+- Swap weapons.
 - Continue as usual. In fast group you want to shorten your used skills to:
-    - <Skill name="decapitate"/> 
-    - <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/>
-    - <Skill name="decapitate"/> 
+    - <Skill name="decapitate"/>. 
+    - <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/>.
+    - <Skill name="decapitate"/>. 
 - If your party is not the fastest pick up your banners and redrop them on the main island. Put them slightly outside of the stack so you don't take a portal on accident.
 
 ### *Islands*
@@ -695,8 +695,8 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 <GridItem sm="12">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343"/>
-- Take <Trait name="savageinstinct"/>
-- With <Effect name="afflicted"/> you can bring a meme skill <Skill name="berserkerstance"/>
+- Take <Trait name="savageinstinct"/>!
+- With <Effect name="afflicted"/> you can bring a meme skill <Skill name="berserkerstance"/>.
 - If most of the damage done is in the center, take <Skill name="signetoffury"/>.
 </Card>
 </GridItem>
@@ -715,8 +715,8 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 
 <GridItem sm="12">
 <Card title="Additional Information">
-- Food: <Item id="91805"/>
-- Utility: <Item id="9443"/>
+- Food: <Item id="91805"/>.
+- Utility: <Item id="9443"/>.
 </Card>
 </GridItem>
 </Grid>
@@ -734,11 +734,11 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 - Blast 12 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
 - Take the mistlock.
 - While approaching the boss drop both of your banners. Depending on your group DPS you either place them in the middle or at the corner.
-- Precast <Skill name="Flames of war"/> for DPS
+- Precast <Skill name="Flames of war"/> for DPS then swap back to maces.
 - Precast <Skill name="Mending"/>
 
 ### **100% in mid**
-- Use <Skill name="whirling axe"/> or <Skill name="Headbutt"/> to gain adrenalin fast.
+- Use <Skill name="whirling axe"/> or <Skill name="Headbutt"/> to gain adrenaline fast.
 - Depending on your team you wanna engage <Skill name="Berserk"/> before you use your <Effect name="hypernovalaunch"/> to get to Artsariiv. 
 - Use <Skill name="Mending"/> to regain eventually lost health and <Trait name="peakperformance"/>. 
 - Swap to your mace, be ready to <Skill id="14415"/> as soon as the breakbar appears.
@@ -764,7 +764,7 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 <GridItem sm="12">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419"/>
-- Take <Trait name="smashbrawler"/>
+- Take <Trait name="smashbrawler"/>!
 </Card>
 </GridItem>
 <GridItem sm="12">
@@ -780,8 +780,8 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 </GridItem>
 <GridItem sm="12">
 <Card title="Additional Information">
-- Food: <Item id="91805"/>
-- Utility: <Item id="50082"/>
+- Food: <Item id="91805"/>.
+- Utility: <Item id="50082"/>.
 </Card>
 </GridItem>
 </Grid>
@@ -793,20 +793,20 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 </Grid>
 
 <Message>
-It is not your job as <Specialization name="berserker"/> to slay the Temporal Anomaly. 
+It is not your job as <Specialization name="berserker"/> to slay the Temporal Anomaly! 
 </Message>
 
 ### **Prestacking**
 - Drop a <Item name="whitemantleportaldevice"/> near the mistlock and jump over to Arkk's platform using the <Effect name="hypernovalaunch"/>.
 - Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>, <Skill name="Banner of Tactics"/> and <Skill name="battlestandard"/>. 
-- Take the portal back
+- Take the portal back.
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>.
 - Shortly before somebody triggers the encounter:
-    - Precast <Skill name="Flames of war"/> for DPS
-    - Precast <Skill name="Mending"/>
-    - Take the mistlock to start the fight with maximum adrenaline
+    - Precast <Skill name="Flames of war"/> for DPS then swap back to mace.
+    - Precast <Skill name="Mending"/>.
+    - Take the mistlock to start the fight with maximum adrenaline.
 
 ### **1st Phase (100%-80%)**
 - Don't move your camera or character model until the Eye is gone or you will get <Condition name="Fear"/>.
@@ -828,7 +828,7 @@ It is not your job as <Specialization name="berserker"/> to slay the Temporal An
 
 ### *Archdiviner*
 - Blast a fire field that is provided by the <Specialization name="firebrand"/> or <Specialization name="weaver"/> with your banners to stack 12 stacks of <Boon name="might"/>.
-- Engage <Skill name="berserk"/> as soon as possible
+- Engage <Skill name="berserk"/> as soon as possible.
 - Don't stand inside of AoEs, that strip your boons.
 - Use <Skill name="mending"/> when the Archdiviner is dead. 
 
@@ -853,7 +853,7 @@ It is not your job as <Specialization name="berserker"/> to slay the Temporal An
 ### *Gladiator Phase*
 - Recast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/> into a fire field for 12 Stacks of <Boon name="might"/>
 - Do what a <Specialization name="warrior"/> does.
-- When the mob dies, precast <Skill name="mending"/>
+- When the mob dies, precast <Skill name="mending"/>.
 
 ### **5th Phase (40%-30%)**
 - Smash <Skill name="decapitate"/> for as long as your <Skill name="berserk"/> is still up.
