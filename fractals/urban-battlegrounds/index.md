@@ -83,18 +83,21 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply ca
 
 ---
 
-## Courtyard
+
 
 <Grid>
 <GridItem>
-To capture the courtyard, you have to kill (or kite away) four groups of *Veteran Ascalonians*. 
-
-As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and enemy groups spawn at the gates (clockwise starting north).
+<Image src="./images/the_courtyard.jpg" caption="The courtyard"/>
 </GridItem>
 
 <GridItem>
-<Tabs>
+  
+## Courtyard
 
+To capture the courtyard, you have to kill (or kite away) four groups of *Veteran Ascalonians*. 
+
+As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and enemy groups spawn at the gates (clockwise starting north).  
+<Tabs>
 <Tab specialization="elementalist">
 <Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors *Rush* attack.    
         Stay in <Skill id="5492"/> before Ashym for <Boon name="might"/> stacking.
@@ -103,7 +106,6 @@ As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and 
 </GridItem>
 </Grid>
 
-<Image src="./images/the_courtyard.jpg" caption="The courtyard"/>
 
 ## Captain Ashym
 
