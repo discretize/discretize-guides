@@ -115,7 +115,7 @@ After standing on the rune in the middle of the platform it proceeds to go downw
 <GridItem sm="4">
 <Tabs>
 <Tab specialization="Guardian">
-Please use <Skill name="Binding Blade"/> (Greatsword 5) to group the mobs.
+Use <Skill name="Binding Blade"/> (Greatsword 5) to group the mobs.
 </Tab>
 </Tabs>
 </GridItem>
