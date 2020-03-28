@@ -284,7 +284,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
    - Continue with the usual rotation
 - If you have spare time before the encounter becomes active
    - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
-   - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. Swapping back to sword/dagger can't be done using the weapon swap as it interrupts casts, build template swap is working
+   - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, build template swaps are working tho 
 </Card>
 
 <Card title="Advanced Notes">
