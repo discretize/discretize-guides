@@ -271,7 +271,7 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
 
 ### **Burn phases**
-Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (phases Skorvald >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
+Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (i.e. they phase Skorvald in less that 5 seconds) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
 
 ### **Adds**
 You can kill the first two adds with greatsword. You can use traps on the 2nd add, without having them on cooldown when you are back at Skorvald. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weapon swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
