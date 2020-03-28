@@ -30,7 +30,7 @@ consumables: [78978, 49940]
 <GridItem sm="8">
 Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
 
-If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them at the bonfire.
+If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them by standing at the bonfire.
 
 When there are only a few percent remaining, go near the fire to leave combat and pre-equip <Item id="49940"/> to be faster on the bridge.
 </GridItem>
