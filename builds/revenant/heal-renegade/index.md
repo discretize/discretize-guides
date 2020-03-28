@@ -1,12 +1,12 @@
 ---
 title: 'Heal Renegade'
-date: '2020-03-27'
+date: '2020-03-28'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Revenant'
 specialization: 'Renegade'
 skills: [45773, 44076, 27025, 45686, 27505]
-traits: [1802, 1814]
+traits: [1786, 1814]
 boons: ['Alacrity', 'Might', 'Stability', 'Regeneration', 'Resistance', 'Protection']
 conditions: ['Vulnerability']
 code: '[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]'
