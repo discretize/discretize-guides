@@ -1,6 +1,6 @@
 ---
 title: 'Condi Firebrand'
-date: '2020-03-27'
+date: '2020-03-28'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Guardian'
@@ -9,7 +9,7 @@ benchmark: { small: { dps: 34700, by: 'TJ [SC]', youtube: 'lQbaP5Gr7dU' } }
 skills: [9251, 9153, 9093]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
-code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATEBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 <Tabs>
