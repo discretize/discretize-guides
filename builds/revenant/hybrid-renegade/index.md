@@ -105,7 +105,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="12">
 <Card title="Abilities">
-**Citadel Order Skills**
+**Citadel Order Skills:**
 
 - <Skill name="Heroic Command"/> -  Share two stacks of <Boon name="Might"/> for each <Effect name="Kallas Fervor"/> stack.
 - <Skill name="Citadel Bombardment"/> - Fire ten missiles that inflict high damage and <Condition name="Burning"/>.
@@ -113,15 +113,15 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 ---
 
-**Sword Skills**
+**Sword Skills:**
 
 - <Skill name="Preparation Thrust"/> - The autoattack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on upto three targets, with each explosion hitting three targets. Potentially hitting nine times. 
 - <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
-- <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to oneself. 
+- <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to yourself. 
 - <Skill name="Shackling Wave"/> - High damage skill, however should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
 - <Skill name="Death strike"/> - Shadowsteps to target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allows it to be used for damage. 
 
-**Staff Skills**
+**Staff Skills:**
 
 - <Skill name="Rapid Swipe"/> - The autoattack chain cleaves and the last hit provides a small amount of healing to allies.
 - <Skill name="Menders Rebuke"/> - Provides <Condition name="Vulnerability"/> and a small amount of healing to allies.
@@ -131,7 +131,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 ---
 
-**Notable Traits**
+**Notable Traits:**
 
 - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
 - <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Effect name="Battle Scars"/>, which makes your attack steal health.
@@ -205,7 +205,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="12">
 <Card title="Defiance Bar">
 
-**Hard Crowd Control**
+**Hard Crowd Control:**
 
 - <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
 - <Skill name="Darkrazors Daring"/> - Up to six hits of 100 <Control name="Daze"/>.
@@ -213,7 +213,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 - <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
 
 
-**Soft Crowd Control**
+**Soft Crowd Control:**
 
 - <Skill name="Chilling Isolation"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
@@ -233,13 +233,13 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <GridItem sm="12">
 
-**Legends**  
+**Legends:**  
 
 <Skill name="Legendary Renegade stance"/> and <Skill name="legendaryassassinstance"/>.
 
 ---
 
-**Suggested Boon Duration** `50%`   
+**Suggested Boon Duration:** `50%`   
 
 Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon duration due to the length of the fight. This allows you to take a more damage focused approach. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>. 
 
@@ -251,7 +251,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **100 - 75%**  
 
-* Cast <Skill name="DarkrazorsDaring"/> on MAMA as soon as the red circle appear. 
+* Cast <Skill name="DarkrazorsDaring"/> on MAMA as soon as the red circle appears. 
 * Cast <Skill name="IcerazorsIre"/> right before MAMA becomes vulnerable.
 * Use <Skill name="Surgeofthemists"/> to break the defiance bar. Be aware of your positioning to gain an additional hit. 
 * Weapon swap and change to <Skill name="legendaryassassinstance"/> to gain the extra energy from the trait <Trait name="ChargedMists"/>. 
@@ -293,7 +293,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **Annotation**
 * If your second phase is fast you might want to deactivate <Skill name="Soulcleaves Summit"/> to have enough energy to share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> and precast <Skill name="Darkrazors Daring"/> on the second add.
-* If your second phase is slow you can let cancel <Skill name="Soulcleaves Summit"/> and replenishing enough energy to share <Boon name="Alacrity"/> and precast <Skill name="Darkrazors Daring"/> on the second add.
+* If your second phase is slow you can let <Skill name="Soulcleaves Summit"/> run out and then let your energy replenish to share <Boon name="Alacrity"/> and precast <Skill name="Darkrazors Daring"/> on the second add.
 * Adjust your weapon swap to staff in the second phase to accommodate the weapon swap back to swords for the burst in phase three.
 
 </GridItem>
@@ -312,13 +312,13 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 <Tab title="Siax">
 
 <GridItem sm="12">
-**Legends**  
+**Legends:**  
 
 <Skill name="LegendaryRenegadestance"/> and <Skill name="Legendaryassassinstance"/>.
 
 ---
 
-**Suggested Boon Duration** `50%`   
+**Suggested Boon Duration:** `50%`   
 
 Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon duration due to the length of the fight. This allows you to take a more damage focused approach. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>. 
 
@@ -331,7 +331,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **100 - 66%**   
 * Have your staff equipped and pick up the <Skill name="Conjure Frost Bow"/>.
-* Precast <Skill name="Darkrazors Daring"/> and <Skill name="icerazors ire"/> and change to <Skill name="Legendary Assassin Stance"/>.
+* Precast <Skill name="Darkrazors Daring"/> and <Skill name="icerazors ire"/> and change to <Skill name="Legendary Assassin Stance"/> **using the legend swap UI**.
 * Once the encounter begins activate <Skill name="Impossible Odds"/> and use <Skill name="Frost Storm"/>, <Skill name="Citadel Bombardment"/>, and <Skill name="Frost Fan"/>.
 * Change to <Skill name="Legendary Renegade Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>. 
 * Use <Skill name="Deep Freeze"/> and drop the <Skill name="Conjure Frost Bow"/>.
@@ -368,7 +368,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **Annotation**
 * If you do not have a <Skill name="Conjure Frost Bow"/> for your opening you can do the following:
-    * Precast <Skill name="Darkrazors Daring"/> and <Skill name="icerazors ire"/> and change to <Skill name="Legendary Assassin Stance"/>.
+    - Precast <Skill name="Darkrazors Daring"/> and <Skill name="icerazors ire"/> and change to <Skill name="Legendary Assassin Stance"/> **using the legend swap UI**.
     * Activate <Skill name="Impossible Odds"/>, cast <Skill name="Citadel Bombardment"/> and spend time autoattacking. 
     * Change to <Skill name=" Legendary Renegade Stance"/> and use <Skill name="Surge of the mists"/> before continuing with the steps listed above.
 * In slower kills it might be worth sharing <Boon name="Alacrity"/> in the first phase, rather than waiting until the beginning of the second phase.
@@ -393,13 +393,13 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 <GridItem sm="12">
 
-**Legends**  
+**Legends:**  
 
 <Skill name="LegendaryRenegadestance"/> and <Skill name="Legendaryassassinstance"/>.
 
 ---
 
-**Suggested Boon Duration** `50%`   
+**Suggested Boon Duration:** `50%`   
 
 Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon duration due to the length of the fight. This allows you to take a more damage focused approach. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>. 
 
@@ -417,8 +417,8 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Change to <Skill name="Legendary Assassin Stance"/> to gain the extra energy from the trait <Trait name ="Charged Mists"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Chilling Isolation"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="Chilling Isolation"/> again.
 
-*In the case of reaching the Upswing attack.*
-* Change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>
+*In the case of reaching the Upswing attack:*
+* Change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/>.
 * Use <Skill name="Chilling Isolation"/>, <Skill name="Shackling Wave"/>, and <Skill name="Deathstrike"/> until phase is finished.
 
@@ -434,8 +434,8 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/> to gain the extra energy from the trait <Trait name ="Charged Mists"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Chilling Isolation"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="Chilling Isolation"/> again.
 
-*After the completion of the Nightmare Devastation attack*
-* Weapon swap and change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>
+*After the completion of the Nightmare Devastation attack:*
+* Weapon swap and change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Darkrazors Daring"/>.
 * Use <Skill name="Surge of the mists"/> to break the defiance bar.
 
@@ -446,14 +446,14 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Cast <Skill name="Breakrazors Bastion"/> on the <Skill name="Frost Spirit"/> to keep it alive for the last phase.
 
 **33-0%**
-* Precast <Skill name="Darkrazors Daring"/> right before Ensolyss appear.
+* Precast <Skill name="Darkrazors Daring"/> right before Ensolyss appears.
 * Cast <Skill name="Icerazors Ire"/>, <Skill name="Orders from Above"/> for <Boon name="Alacrity"/>, <Skill name="Heroic Command"/> for <Boon name="Might"/>, and <Skill name="Soulcleaves Summit"/>.
 * Use <Skill name="Surge of the mists"/> to break the defiance bar immediately. Be aware of energy management.
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/> to gain the extra energy from the trait <Trait name ="Charged Mists"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Chilling Isolation"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, and <Skill name="Chilling Isolation"/> again.
 
-*In the case of teleporting to the edge of the platform.*
-* Change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>
+*In the case of teleporting to the edge of the platform:*
+* Change to <Skill name="Legendary Renegade Stance"/> and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/>.
 * Use <Skill name="Chilling Isolation"/>, <Skill name="Shackling Wave"/>, and <Skill name="Deathstrike"/> until phase is finished.
 
@@ -478,13 +478,13 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 <GridItem sm="12">
 
-**Legends**  
+**Legends:**  
 
 <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
 
 ---
 
-**Suggested Boon Duration** `80%`
+**Suggested Boon Duration:** `80%`
 
 Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
 
@@ -572,23 +572,21 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 <GridItem sm="12">
 
-**Legends**  
+**Legends:**  
 
 <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>.
 
 ---
 
-**Traits**
+**Suggested Boon Duration:** `80%`
 
-For this encounter it is recommended to run the following traits in Devastation trait line.
-
-<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
+Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/> during the phases.
 
 ---
 
-**Suggested Boon Duration** `80%`
+**For this encounter it is recommended to run the following traits in Devastation trait line:**
 
-Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/> during the phases.
+<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 ---
 
@@ -597,13 +595,13 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 **100-66%**
 * Precast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
-* Manually change to <Skill name="Legendary Dwarf Stance"/> before Artsariiv becomes vulnerable.
+* Manually change to <Skill name="Legendary Dwarf Stance"/> using the legend UI before Artsariiv becomes vulnerable.
 * Use <Skill name="Shackling Wave"/>, and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/> before using the <Effect name="hypernovalaunch"/> to the corner. 
 * Weapon swap and use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the party.
 * Change to <Skill name="Legendary Renegade Stance"/>, and precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at the location where Artsarriv will appear.
 * Use <Skill name="Surge of the Mists"/> to break the defiance bar. Use it with the <Effect name="hypernovalaunch"/> to gain additional hits.
-* Weapon swap and change to <Skill name="Legendary Dwarf Stance"/>
+* Weapon swap and change to <Skill name="Legendary Dwarf Stance"/>.
 
 **Add**
 * Use <Skill name="Forced Engagement"/> and <Skill name="Shackling Wave"/> to break the adds defiance bar.
@@ -642,9 +640,9 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 **Annotation**
 * After using <Skill name="Inspiring Reinforcement"/>, make sure you gain the extra energy from <Trait name="Charged Mists"/> in the first phase. 
-* Time <Skill name="Inspiring Reinforcement"/> so that <Boon name="Stability"/> last long enough for the AoE attack in the middle.
+* Time <Skill name="Inspiring Reinforcement"/> so that <Boon name="Stability"/> lasts long enough for the AoE attack in the middle.
 * Use <Effect name="hypernovalaunch"/> while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
-* Be aware of energy management before changing to <Skill name="Legendary Renegade Stance"/> in the middle, to gain the extra energy from <Trait name="Charged Mists"/>.
+* Be aware of energy management before changing to <Skill name="Legendary Renegade Stance"/> in the middle in order to gain the extra energy from <Trait name="Charged Mists"/>.
 
 
 </GridItem>
@@ -674,23 +672,21 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 <GridItem sm="12">
 
-**Legends**  
+**Legends:**  
 
 <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Assassin Stance"/>.
 
 ---
 
-**Traits**
+**Suggested Boon Duration:** `80%`
 
-For this encounter it is recommended to run the following traits in Devastation trait line.
-
-<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
+Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
 
 ---
 
-**Suggested Boon Duration** `80%`
+**For this encounter it is recommended to run the following traits in Devastation trait line:**
 
-Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
+<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 ---
 
@@ -716,7 +712,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 **Archdiviner**
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
-* Use <Effect name="hypernovalaunch"/> if the defiance bar appear.
+* Use <Effect name="hypernovalaunch"/> if the defiance bar appears.
 * Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **70-50%**
