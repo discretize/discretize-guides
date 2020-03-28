@@ -65,11 +65,7 @@ Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profe
 <Tab specialization="ranger">
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
 </Tab>
-  
-<Tab specialization="thief">
-Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
-</Tab>  
-</Tabs>
+</Tabs> 
 </GridItem>  
   
 <GridItem sm="6">
@@ -78,6 +74,12 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply ca
 Again, stack <Effect name="stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
 
 Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference.
+
+<Tabs> 
+<Tab specialization="thief">
+Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+</Tab>  
+</Tabs>
 </GridItem>
 </Grid>
 

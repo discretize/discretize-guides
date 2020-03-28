@@ -103,7 +103,8 @@ Use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Assassin S
 </Tab>
 <Tab specialization="guardian">
 Use <Skill name="Stand your ground"/>. If you have multiple Guardians in your team, consider taking <Skill id="43357"/>.
-</Tab> 
+</Tab>
+</Tabs> 
 </GridItem>
 
 <GridItem sm="12">

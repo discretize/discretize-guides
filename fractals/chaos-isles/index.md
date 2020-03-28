@@ -29,12 +29,12 @@ consumables: [49940]
 ---
 
 <Grid>
-<GridItem sm="6">
+<GridItem sm="8">
 ## Start: You think this is Cliffside  
   
 Kill the four *Veteran Chanters* at the beginning to open the gate on the right-hand side. The fastest person can rush ahead and move to the next checkpoint at the *Chaos Anomaly*, everyone else can `/gg` and resurrect at the checkpoint there.
 </GridItem>
-<GridItem sm="6">
+<GridItem sm="4">
 <Image src="./images/start.jpg" caption="The starting area"/>
 </GridItem>
   
