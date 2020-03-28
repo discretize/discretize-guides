@@ -11,7 +11,7 @@ skills: [14407, 14405]
 traits: [1444, 1977, 2049 ]
 conditions: ['Vulnerability']
 boons: ['Might']
-code: '[&DQIEGzMWEhenAAAAqQAAAKoAAACsAAAAwhIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'SpatiumPrinceps.8927'
 ---
 <Tabs>
