@@ -105,10 +105,10 @@ You can solo both the first and second room if you are fast enough. Use <Skill i
 
 ---
 
-## Breach the gate <Item id="50082" disableText/>
-
 <Grid>
 <GridItem>
+## Breach the gate <Item id="50082" disableText/>
+
 Kill the respawning enemies to fill the progress bar and open the gate. Avoid the dazing cannon shots and switch back your skills & traits if needed.
 </GridItem>
 
