@@ -26,10 +26,11 @@ sigils: [{ id: 36053 }, { id: 24868 }]
 consumables: [78978]
 ---
 
-## Running the wisps
 
 <Grid>
 <GridItem sm="8">
+## Running the wisps  
+  
 Trigger the start event by walking to the three *Wisp Clefts* in the South. Wait for three players to be ready at each of the randomly spawned Wisps, usually indicated by typing `ready` in chat. Count down to go and deliver the Wisps to the Clefts within 30 seconds while avoiding <Condition name="stun"/>, <Condition name="immobile"/> and <Condition name="crippled"/> from the spike, wire and hunting traps on the ground.
 
 Learn and practice to jump over the emerging walls, for nearly every wall there is an easy spot to skip over it.
@@ -38,10 +39,6 @@ The remaining two players can take the _Invigorator Rifle Prototypes_ from the g
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
-</GridItem>
-</Grid>
-
 <Tabs>
 <Tab specialization="revenant">
 Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance" disableText/>) for better mobility.
@@ -50,7 +47,9 @@ Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance" dis
 <Tab specialization="warrior">
 Use <Skill id="14516"/> for better mobility.
 </Tab>
+</Tabs>
 
+<Tabs>
 <Tab specialization="elementalist">
 Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cleanse.
 </Tab>
@@ -59,6 +58,12 @@ Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cle
 Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 </Tab>
 </Tabs>
+</GridItem>
+
+<GridItem sm="12">
+<Image src="./images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
+</GridItem>
+</Grid>
 
 ---
 
@@ -105,7 +110,7 @@ As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again
 <GridItem sm="4">
 <Image src="./images/bloomhunger.jpg" caption="Bloomhunger"/>
 <Tabs>
-<Tab specialization="revenant">
+<Tab specialization="renegade">
 Take <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> for this fight. Remove <Boon name="Protection"/> from Bloomhunger when he steps into the poison AoE.
 </Tab>
 </Tabs>
@@ -117,8 +122,14 @@ Use <Specialization name="Tempest"/> for this fight and <Skill id="22572"/> for 
 </Tabs>
 
 <Tabs>
-<Tab specialization="ranger">
-Take <Skill id="12489"/> traited with <Trait id="1075"/> against the <Instability name="Afflicted"/> instability.
+<Tab specialization="Soulbeast">
+Take <Skill id="12489"/> for pulsing condition cleanse! Great way the clean the huge stacks of <Condition name="Poison"/> at every phase. You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
+</Tab>
+</Tabs>
+
+<Tabs>
+<Tab specialization="Berserker">
+Take Greatsword and <Skill name="Blood Reckoning"/> here for cleave!
 </Tab>
 </Tabs>
 </GridItem>
