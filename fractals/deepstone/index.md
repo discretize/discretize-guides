@@ -15,11 +15,13 @@ consumables: [49940]
 <GridItem sm="12"> 
 ## Always start Left path with the Deepstone Sentinel (Air Elemental) 
 </GridItem>
-<GridItem sm="6"> 
-Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pass. You have to avoid the green tiles because it damages you. You can dodge the green tiles so gaps between the safe non glowing tiles, proceed to the end. After two players passed, they stand on the cyan glowing runes to stop the tetris trap so others can pass. **This can be skipped by <Specialization name="Berserker"/>, <Specialization name="Soulbeast"/>, <Specialization name="Firebrand"/>, video on the right.** 
+<GridItem sm="5"> 
+Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pass. You have to avoid the green tiles because it damages you. You can dodge and block the green tiles between the safe non glowing tiles, proceed to the end. **This can be skipped by <Specialization name="Berserker"/>, <Specialization name="Soulbeast"/>, <Specialization name="Firebrand"/>, like in the video down below.** 
+  
+After two players passed, they stand on the cyan glowing runes to stop the tetris trap so others can pass. <Specialization name="elementalist"/> can use <Skill name="Lightning flash"/> to activate both button, a little higher ping helps with this immensely.
 </GridItem> 
 
-<GridItem sm="6">
+<GridItem sm="7">
 <Image src="./images/maze.jpg" caption="The Tetris / Green Tiles"/>
 </GridItem> 
 
