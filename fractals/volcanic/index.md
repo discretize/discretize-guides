@@ -28,10 +28,11 @@ sigils:
 consumables: [78978, 49940]
 ---
 
+## Start: Grawl slaughter! <Item id="8890" disableText/><Item id="24648" disableText/>  
+
 <Grid>
 <GridItem sm="6">
-## Start: Grawl slaughter! <Item id="8890" disableText/><Item id="24648" disableText/>  
-  
+
 While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="Renegade"/> but anyone can run) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can portal after the section is completed and resurrect to skip the Boulder passage. <Specialization name="elementalist"/> can precast strong DPS skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear. You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster. <Specialization name="berserker"/> can equip a greatsword and <Skill name="bloodreckoning"/> for 2x <Skill name="arcdivider"/>! 
 </GridItem>
 
@@ -80,10 +81,9 @@ You will need to throw eight _Infused Stones_ at the bubble protecting the Grawl
 
 After the bubble is broken, stand below the boss to LoS him and he will come down immediately. Throw another _Infused Stone_ at him if his bubble reappears during the fight.
 </GridItem>
+</Grid>
 
 <Image src="./images/the_grawl_shaman.jpg" caption="The Grawl Shaman"/>  
-
-</Grid>
 
 ---
 
@@ -105,18 +105,26 @@ Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="knockback"/>) an
 
 <GridItem sm="4">
 <Tabs>
-<Tab specialization="Revenant">
+<Tab specialization="Renegade">
 Use <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> to spam <Boon name="Resistance"/> after the bosses bubble phase.
 </Tab>
 </Tabs>
+ 
+<Tabs>  
+<Tab specialization="Firebrand">
+Use Tome 3 skill 4 for party wide <Boon name="Resistance"/>!
+</Tab>  
+</Tabs> 
+ 
 <Tabs>
-<Tab specialization="weaver">
+<Tab specialization="Elementalist">
 Take <Skill id="5507"/> for an additional condition cleanse. Use <Skill id="22572"/> to cleave the Lava Elementals faster.
 </Tab>
 </Tabs>
+ 
 <Tabs>
 <Tab specialization="ranger">
-Trait <Trait id="1075"/> and use <Skill id="12489"/> for a stronger periodical condition clear.
+Use <Skill id="12489"/> periodical condition clear. 
 </Tab>
 </Tabs>
 </GridItem>
