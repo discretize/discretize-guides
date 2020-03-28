@@ -23,17 +23,16 @@ record:
   }
 ---
 
-<GridItem sm="12">
-<Image src="./images/start.jpg" caption="The starting area"/>
-</GridItem>
-### Start
-
 <Grid>
-<GridItem sm="4">
-Let your <Specialization name="revenant"/> skip the first part or use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders.
+<GridItem sm="7">
+<Image src="./images/start.jpg" caption="The starting area"/>  
+  
+## Start: Run!  
+  
+Let your <Specialization name="revenant"/> skip the first part or use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders. If the instabilities are too harsh, you can take your time killing them as some of them will follow you to the first Sand Binder but it will make the fractal way longer than it should be!
 </GridItem>
 
-<GridItem sm="8">
+<GridItem sm="5">
 <Tabs>
 <Tab specialization="ranger">
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.

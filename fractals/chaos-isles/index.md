@@ -38,8 +38,8 @@ Kill the four *Veteran Chanters* at the beginning to open the gate on the right-
 <Image src="./images/start.jpg" caption="The starting area"/>
 </GridItem>
   
-<GridItem sm="8">
-<Video title="Skip to Chaos Anomaly (any class)" timestamp="19" youtube="Alpgs_GaZV0"/>  
+<GridItem sm="12">
+<Video title="Skip to Chaos Anomaly (Any class)" timestamp="19" youtube="Alpgs_GaZV0"/>  
 </GridItem>
 </Grid>
 
@@ -79,9 +79,9 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 
 <Grid>
 <GridItem sm="8">
-You will need to enlighten four *bonfires* on the path to progress to the end boss while every player only has **one** *Enlighten* charge.
+You will need to enlighten four *bonfires* on the path to progress to the end boss, **the *Enlighten* charges have unlimited use so this can be soloed** but if you want to be safe simply wait everyone.
 
-You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. Do not assign a bonfire to each player, simply lighten them up as soon as you reach them.  
+You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. 
 Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
 
 </GridItem>
@@ -105,6 +105,8 @@ Another trick is to bypass the damage from purple zones by repeated jumping.
 Starting at 50% health, he will randomly start a _pulling attack_ which can be prevented by breaking his defiance bar. Save your crowd control skills for this.
 
 Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Control name="knockback"/> and can shove you off the platform.
+
+<Image src="./images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -112,13 +114,18 @@ Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Con
 <Tab specialization="Revenant">
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="daze"/>.
 </Tab>
-
-<Tab specialization="ranger">
-Use <Skill id="12638"/> to pull the small JT-12 golems closer.    
-        <Skill id="12569"/> with <Trait id="1038"/> grants the whole party <Boon name="stability"/>.
+</Tabs>  
+<Tabs>
+<Tab specialization="soulbeast">
+Use <Skill name="Path of Scars"/> to pull the small JT-12 golems closer. <Skill name="Dolyak stance"/> with the trait <Trait name=" Leader of the Pack"/> gives the whole party <Boon name="Stability"/>.
+</Tab>
+</Tabs>
+<Tabs>
+<Tab specialization="Firebrand">
+Tome 3 skill 1 and 5 grants <Boon name="Stability"/>, if not enough take <Skill name="Stand your ground"/>.
 </Tab>
 </Tabs>
 </GridItem>
 </Grid>
 
-<Image src="./images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
+
