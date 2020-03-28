@@ -64,22 +64,15 @@ For a faster completion time you can split up. <Specialization name="Warrior"/> 
 </Message> 
 </GridItem>
   
-
-
-
-
-
-
-<GridItem sm="6">
+<GridItem sm="7">
 <Image src="./images/turret_room.jpg" caption="Golems patrol in the turret room"/>
-  
 <Tabs>
 <Tab specialization="Guardian">
-If you decide to do it with 2 person tell your <Specialization name="Revenant"/> or anyone with less DPS to come help you. 
+If you decide to do it with 2 people ping anyone with least DPS to come help you. 
 </Tab>
-</Tabs>
+</Tabs>  
 </GridItem>
-<GridItem sm="6">
+<GridItem sm="5">
 ## Repulsor lab <Label>South</Label>
   
 This should be done by two people, **but can be soloed (usually by <Specialization name="Guardian"/>) as shown in the video below**. Learn the timing of the turret shots and jump or dodge over them. You can also take a *Safety Shield* from the beginning and use it to block shots for a short duration.
