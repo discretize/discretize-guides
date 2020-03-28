@@ -105,13 +105,7 @@ You can solo both the first and second room if you are fast enough. Use <Skill i
 
 ---
 
-## Breach the gate <Item id="50082" disableText/>
-
 <Grid>
-<GridItem>
-Kill the respawning enemies to fill the progress bar and open the gate. Avoid the dazing cannon shots and switch back your skills & traits if needed.
-</GridItem>
-
 <GridItem>
 <Tabs>
 <Tab specialization="Revenant">
@@ -126,6 +120,12 @@ Stay in <Skill id="5492"/> after the last trash group for <Boon name="might"/> s
 You can use <Skill name="Binding Blade"/> to group the mobs.
 </Tab>
 </Tabs>
+</GridItem>
+
+<GridItem>
+## Breach the gate <Item id="50082" disableText/>
+
+Kill the respawning enemies to fill the progress bar and open the gate. Avoid the dazing cannon shots and switch back your skills & traits if needed.
 </GridItem>
 </Grid>
 

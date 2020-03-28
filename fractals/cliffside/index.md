@@ -74,35 +74,39 @@ After the <Specialization name="Renegade"/> or someone teleported the party up, 
 
 ---
 
-## Chest Seal <Item id="8881" disableText/><Item id="24678" disableText/>
+
 
 <Grid>
-<GridItem>
-As soon as the <Specialization name="elementalist"/> did `/gg` too, everyone can resurrect and will respawn in front of the *Chest Seal* with a new *Cultist Hammer* ahead of you.    
-It will take five hits to break the chest seal. If you see somebody running ahead and placing a <Item name="whitemantleportaldevice"/> to the *Arm Seals*, try to get a hammer charge before taking it to above.
-</GridItem>
-
-<GridItem>
+<GridItem sm="5">
 <Tabs>
 <Tab specialization="renegade">
 After 2-3 hits against the Seal, place <Item id="78978"/>, run up to the *Right Arm Seal*, wait for the destruction of the *Chest Seal* then open the portal for the party.
 </Tab>
-
+</Tabs>
+  
+<Tabs>
 <Tab specialization="ranger">
 <Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you.
 </Tab>
 </Tabs>
 </GridItem>
-</Grid>
 
-<Image src="./images/chest_seal.jpg" caption="The chest seal"/>
+<GridItem sm="7">
+## Chest Seal <Item id="8881" disableText/><Item id="24678" disableText/>
+  
+As soon as the <Specialization name="elementalist"/> did `/gg` too, everyone can resurrect and will respawn in front of the *Chest Seal* with a new *Cultist Hammer* ahead of you.    
+It will take five hits to break the chest seal. If you see somebody running ahead and placing a <Item name="whitemantleportaldevice"/> to the *Arm Seals*, try to get a hammer charge before taking it to above.
+  
+<Image src="./images/chest_seal.jpg" caption="The chest seal"/>  
+</GridItem>
+</Grid>
 
 ---
 
 ## Arm Seals <Item id="8881" disableText/><Item id="24678" disableText/>
 
 <Grid>
-<GridItem sm="8">
+<GridItem sm="7">
 This is a matter of timing, so look out for the <Item id="78978"/> and the hammer carrier. In a perfect world yoe use the portals one by one, and <Specialization name="renegade"/> placing <Skill name="Inspiring Reinforcement"/>, giving <Boon name="Stability"/> to the hammer carrier and not getting knocked back, resulting in faster seal breaking.
 
 During the portal jumping, keep Cultist's health as low as possible but **only finish them when a hammer charge is needed**. If you run out of portals simply run together. Ideally, both seals take three hits to be destroyed—two portals are more than enough.
@@ -110,11 +114,8 @@ During the portal jumping, keep Cultist's health as low as possible but **only f
 Type `/gg` after finishing both seals and stay dead. If you wipe before both seals are destroyed, they will reset to full health.
 </GridItem>
 
-<GridItem sm="4">
+<GridItem sm="5">
 <Image src="./images/arm_seal.jpg" caption="One of the arm seals"/>
-</GridItem>
-</Grid>
-
 <Tabs>
 <Tab specialization="warrior">
 You can take the *Cultist Hammer* and use <Skill id="21815"/> during the portal jumping to nullify the high incoming damage.
@@ -123,7 +124,11 @@ You can take the *Cultist Hammer* and use <Skill id="21815"/> during the portal 
 <Tab specialization="ranger">
 Again, <Skill id="12638"/> on offhand Axe helps pulling the Cultists to you.
 </Tab>
-</Tabs>
+</Tabs> 
+</GridItem>
+</Grid>
+
+
 
 ---
 

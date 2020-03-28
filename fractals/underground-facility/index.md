@@ -155,7 +155,7 @@ Skip here by one of the classes below:
 ## Dredge Powersuit <Item id="8892" disableText/><Item id="24684" disableText/> _or_ Rampaging Ice Elemental <Item id="8885" disableText/><Item id="24661" disableText/><Label>Random</Label>
 
 <Grid>
-<GridItem sm="8">
+<GridItem sm="7">
 If you did not skip, stack <Effect name="stealth"/> and skip towards the Endboss together.
 
 After loosing potential aggro of the mobs from the corridor, pull the boss to the next lava bucket, trigger it to inflict _Superheated_ for 10x damage and nuke. Stay on the boss as long as possible before moving to the next bucket but pay attention to his _Mending_ heal skill, which can be interrupted by simply attacking him as long as the Superheated debuff is up.
@@ -163,7 +163,7 @@ After loosing potential aggro of the mobs from the corridor, pull the boss to th
 The most deadly skills here are the _Bombs_ from the Dredge Powersuit (they spawn slightly away from him) and _Shatterstone_ (dropping ice shards on every player) and _Freeze Row_ from the Ice Elemental (small delayed Ice-AoEs in a V-Shape which explode after 2.75s - unblockable).
 </GridItem>
 
-<GridItem sm="4">
+<GridItem sm="5">
 <Tabs>
 <Tab specialization="thief">
 Teleport to the lava buckets from below with <Skill id="13025"/>.
