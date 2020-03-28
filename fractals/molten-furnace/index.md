@@ -11,10 +11,10 @@ potions: [{ id: 50082 }]
 sigils: [{ id: 24868 }, { id: 24554 }]
 ---
 
-## Starting area and the tunnel
-
 <Grid>
 <GridItem sm="6"> 
+## Starting area and the tunnel  
+  
 Go to Rox and Braham, wait for the mobs to spawn, kill them. After killing them, proceed into the tunnel, there are 5 caves in the tunnel, each having a group of mob in it, after killing the mobs, destroy the _Boulder_ that becomes damageable (a red gear indicates it's place). After killing all 5 group of mobs and destroying all 5 _Boulders_ on the red gears you wait for the Drill to make it's way out of the tunnel (which should be already done).
 </GridItem>
 <GridItem sm="6">
@@ -24,27 +24,27 @@ Go to Rox and Braham, wait for the mobs to spawn, kill them. After killing them,
 
 ---
 
-## On your way to the Boss
-
 <Grid>
 <GridItem sm="6">
 <Image src="./images/drill.jpg" caption="The drill"/>
 </GridItem>
-<GridItem sm="6"> 
+<GridItem sm="6">
+## On your way to the Boss  
+  
 You exit the tunnel and kill the group of mobs coming to you. Then proceed to the Steam Walls. The first Steam Wall is unpassable, each Steam Wall knocks you back and damage you. After the first, you can pass the following Steam Walls by walking backwards in them (do not walk into them with low hp, that downs or even kills you) or use <Boon name="Stability"/>. Make your way on to the weapon testing arena.
 </GridItem>
 </Grid>
 
 ---
 
-## Weapon Testing Arena <Label>Random</Label>
-
 <Grid>
-<GridItem sm="7">
+<GridItem sm="5">
+## Weapon Testing Arena <Label>Random</Label>  
+  
 You enter the arena and survive the 3 weapon test. After entering the arena 2 Champions spawn, separate them and kill them. Not separating them results in <Boon name="Retaliation"/> being applied. The weapon test types are in random order:
 </GridItem>
 
-<GridItem sm="5">
+<GridItem sm="7">
 <Image src="./images/testing_area.jpg" caption="Testing area"/>
 </GridItem>
 
