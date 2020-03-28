@@ -61,7 +61,8 @@ It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile a
 </Tab>
 
 <Tab specialization="guardian">
-You can use <Skill name="Binding Blade"/> to group the little cats at the start and then every phase of Chaos Anomaly, the position you need to place yourself for perfect pull can vary based on what cat you killed last, there are variations you cant pull all of them, only 2.
+You can use <Skill name="Binding Blade"/> to group the little cats at the start and then every phase of Chaos Anomaly,
+the position you need to place yourself for perfect pull can vary based on what cat you killed last, there are variations you can't pull all of them, only 2.
 </Tab>
 
 <Tab specialization="ranger">
@@ -79,7 +80,7 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 
 <Grid>
 <GridItem sm="8">
-You will need to enlighten four *bonfires* on the path to progress to the end boss, **the *Enlighten* charges have unlimited use so this can be soloed** but if you want to be safe simply wait everyone.
+You will need to enlighten four *bonfires* on the path to progress to the end boss, **the *Enlighten* charges have unlimited use so this can be soloed** but if you want to be safe simply wait for everyone.
 
 You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. 
 Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
@@ -122,7 +123,7 @@ Use <Skill name="Path of Scars"/> to pull the small JT-12 golems closer. <Skill 
 </Tabs>
 <Tabs>
 <Tab specialization="Firebrand">
-Tome 3 skill 1 and 5 grants <Boon name="Stability"/>, if not enough take <Skill name="Stand your ground"/>.
+Tome 3 skill 1 and 5 grants <Boon name="Stability"/>, if that's not enough take <Skill name="Stand your ground"/>.
 </Tab>
 </Tabs>
 </GridItem>
