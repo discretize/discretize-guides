@@ -37,11 +37,15 @@ Let your <Specialization name="revenant"/> skip the first part or use <Effect na
 <Tab specialization="ranger">
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
 </Tab>
+</Tabs>
 
+<Tabs>
 <Tab specialization="elementalist">
-It is worth to run <Skill name="arcane wave"/> for the whole fractal for more and faster <Boon name="Might"/>, since you can't really stack anywhere.
+It is worth to run <Skill name="arcane wave"/> for the whole fractal for more <Boon name="Might"/>, since you can't really stack anywhere.
 </Tab>
+</Tabs>
 
+<Tabs>
 <Tab specialization="thief">
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
 </Tab>
