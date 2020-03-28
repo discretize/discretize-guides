@@ -1,6 +1,6 @@
 ---
 title: 'Weaver'
-date: '2020-03-27'
+date: '2020-03-28'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
