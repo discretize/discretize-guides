@@ -1,17 +1,17 @@
 ---
 title: 'Power Daredevil'
-date: '2020-03-27'
+date: '2020-03-28'
 rating: 'T4'
 role: 'Damage'
 profession: 'Thief'
 specialization: 'Daredevil'
 benchmark:
-  { small: { dps: 35610, by: 'L E F T [MnF]', youtube: 'LWEi_3kBqcM' } }
+  { small: { dps: 35070, by: 'L E F T [dP]', youtube: 'UD7TaxND8vc' } }
 skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
 conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness']
 effects: ['Stealth']
-code: '[&DQUcPSMbBzmUEoUALwFWATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 
