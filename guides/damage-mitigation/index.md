@@ -7,7 +7,7 @@ description: 'Learn which skills and traits your profession can use to avoid dam
 
 ## Projectiles Destruction / Reflection
 
-A lot of projectiles in fractals can be reflected or destroyed to prevent various boss mechanics, like the expiration of _Bonfires_ in the [Snowblind Fractal](https://discretize.eu/fractals/snowblind) or the emergence of burning fields from _Solar Orbs_ at Arkk in the [Shattered Observatory Fractal](https://discretize.eu/fractals/shattered-observatory).
+A lot of projectiles in fractals can be reflected or destroyed to prevent various boss mechanics, like the expiration of _Bonfires_ in the [Snowblind Fractal](fractals/snowblind) or the emergence of burning fields from _Solar Orbs_ at Arkk in the [Shattered Observatory Fractal](/fractals/shattered-observatory).
 
 Below is a list of currently used projectile reflect or absorb skills and traits:
 
