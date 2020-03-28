@@ -54,7 +54,7 @@ After the <Specialization name="Renegade"/> or someone teleported the party up, 
         Keep walking until you reach the last wooden board, then `/gg` as well.
 
 
-<Video title="Guardian skip (to chest)" youtube="MmJTsOhdQeo?t=129"/> 
+<Video title="Guardian skip (to chest)" timestamp="129" youtube="MmJTsOhdQeo"/> 
 </Tab>
 <Tab specialization="Thief">
 After the <Specialization name="Renegade"/> or someone teleported the party up, the <Specialization name="elementalist"/> waits at the gate for the others to finish the two seals, then rush upstairs.   
@@ -167,7 +167,7 @@ After the whole party `/gg`'ed, resurrect yourself and place <Item id="78978"/> 
 
 <GridItem sm="8">
 ## Arch Diviner <Item id="8881" disableText/><Item id="24678" disableText/>
-After the Mesmer indicates you to resurrect, take the portal to above and combat the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Trait id="1502"/>.
+After the portal opens you resurrect, take the portal up and start the fight against the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Trait id="1502"/>.
 
 Every 25% of his health, you will need to collect a _Cultist Hammer_ charge similar to before by killing one of the four spawned Cultists and hit the final Seal to make the Arch Diviner vulnerable again. Cultists apply a lot of conditions so kill them fast and try to stay out of their aggro range.
 
