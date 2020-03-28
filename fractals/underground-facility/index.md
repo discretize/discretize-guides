@@ -106,13 +106,13 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 
 ---
 
-## Guns _or_ Bombs path <Item id="8892" disableText/><Item id="24684" disableText/><Label>Random</Label>
+## Rifles _or_ Bombs path <Item id="8892" disableText/><Item id="24684" disableText/><Label>Random</Label>
 
 <Grid>
 <GridItem sm="8">
 After resurrecting, skip the mobs with <Effect name="stealth"/> and the guns or nine bombs to destroy the gate.
 
-On the **guns** path, any equipped gun near the door will break when the door reaches 75%/50%/25% health.
+On the **rifles** path you lose all your endurance and therefore you are unable to dodge. Walk to the gate with an equipped rifle and avoid the orange AOEs on the ramp. If you get hit by an AOE the rifle is no longe usable and you have to pick up a new one. Use the rifle skill 1 to destroy the gate. Note that using a portal with a new rifle causes it to become unusable. Only use a portal to get back from the gate.
 
 On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and** at the end to permanently keep <Effect name="stealth"/> up on yourself. Same applies if you gain aggro of any mob, just walk into a <Effect name="stealth"/> zone.
 <Message>
@@ -121,7 +121,7 @@ On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and*
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/gun_path.jpg" caption="The gun path"/>
+<Image src="./images/rifle_path.jpg" caption="The rifle path"/>
   
 <Tabs>
 <Tab specialization="thief">
