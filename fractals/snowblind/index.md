@@ -30,7 +30,7 @@ consumables: [78978, 49940]
 <GridItem sm="8">
 Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
 
-If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them at the bonfire.
+If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them by standing at the bonfire.
 
 When there are only a few percent remaining, go near the fire to leave combat and pre-equip <Item id="49940"/> to be faster on the bridge.
 </GridItem>
@@ -52,10 +52,10 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 
 ---
 
-## Elemental Source <Item id="8885" disableText/><Item id="24661" disableText/>
-
 <Grid>
-<GridItem sm="8">
+<GridItem sm="6">
+## Elemental Source <Item id="8885" disableText/><Item id="24661" disableText/>  
+  
 At the start of the fight, light up the five bonfires to remove the 10 stacks of *Rime Shield* from the boss. Each stack reduces its damage taken by 10%.
 
 Every 25%, the Elemental Source casts _Wind Gust_ (icy projectiles) which makes the bonfires loose health. If a bonfire goes down, you will need to throw firewood into it and light it up again using your special action key.
@@ -63,7 +63,7 @@ Every 25%, the Elemental Source casts _Wind Gust_ (icy projectiles) which makes 
 With reflects and high DPS you can simply burst the boss before any bonfire expires. Note that the Elemental Source is a structure so no potion will work on it.
 </GridItem>
 
-<GridItem sm="4">
+<GridItem sm="6">
 <Image src="./images/the_elemental_source.jpg" caption="The Elemental Source"/>
 </GridItem>
 

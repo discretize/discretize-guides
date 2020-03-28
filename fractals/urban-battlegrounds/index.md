@@ -57,16 +57,10 @@ Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profe
 
 ---
 
-## The town
-
 <Grid>
-<GridItem>
-Again, stack <Effect name="stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
-
-Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference.
-</GridItem>
-
-<GridItem>
+<GridItem sm="6">
+<Image src="./images/the_town.jpg" caption="A barricade in the town"/>  
+  
 <Tabs>
 <Tab specialization="ranger">
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
@@ -76,27 +70,36 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
 </Tab>  
 </Tabs>
+</GridItem>  
+  
+<GridItem sm="6">
+## The town  
+  
+Again, stack <Effect name="stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
+
+Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference.
 </GridItem>
 </Grid>
 
-<Image src="./images/the_town.jpg" caption="A barricade in the town"/>
-
 ---
 
-
-
 <Grid>
-<GridItem>
-<Image src="./images/the_courtyard.jpg" caption="The courtyard"/>
-</GridItem>
 
-<GridItem>
-  
+<GridItem sm="6">
 ## Courtyard
 
 To capture the courtyard, you have to kill (or kite away) four groups of *Veteran Ascalonians*. 
 
 As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and enemy groups spawn at the gates (clockwise starting north).  
+<Image src="./images/the_courtyard.jpg" caption="The courtyard"/>
+</GridItem>
+
+<GridItem sm="6">
+<Tabs>
+<Tab specialization="Renegade">
+For more experienced groups it is favorable to take <Skill name="Legendary Dwarf Stance"/> and go into the middle and casting <Skill name="Inspiring reinforcements"/> for <Boon name="Stability"/> against <Control name="Knockback"/> and <Control name="Daze"/> and <Skill name="Rite of the Great Dwarf"/> for damage reduction.
+</Tab>  
+</Tabs>
 <Tabs>
 <Tab specialization="elementalist">
 <Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors *Rush* attack.    
