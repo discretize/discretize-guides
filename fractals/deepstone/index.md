@@ -38,7 +38,7 @@ Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pas
 </GridItem>
 
 <GridItem sm="7"> 
-After prestacking <Boon name="might"/> at the Mistlock Singularity move in and the _Deepstone Sentinel_ spawns. The only dangerous attack it has is an AoE tornado (called Wind Sprites) that you have to dodge at every 20%. It is a well telegraphed attack so you only have to make sure you are not standing in it 1 second later. If it manages to catch you, others have to use CC to break you out of it before it floats you to the depths and kill you. There is a possibility you get caught even if you not standing in it, use Skill 1 to break out of it (If you get caught in it and you stood in the AoE Skill 1 does nothing else than pinging on minimap, so keep that in mind). 
+After prestacking <Boon name="might"/> at the Mistlock Singularity move in and the _Deepstone Sentinel_ spawns. The only dangerous attack it has is an AoE tornado (called Wind Sprites) that you have to dodge at every 20%. It is a well telegraphed attack so you only have to make sure you are not standing in it 1 second later. If it manages to catch you, others have to use CC to break you out of it before it floats you to the depths and kills you. There is a possibility you get caught even if you not standing in it, use Skill 1 to break out of it (If you get caught in it and you stood in the AoE Skill 1 does nothing else than pinging on minimap, so keep that in mind). 
 
 The other three attacks are a mini tornado that applies <Condition name="chilled"/> and the AoEs that <Control name="daze"/>, the third attack is a projectile it shoots inbetween which can be reflected / absorbed. After killing the _Deepstone Sentinel_ the crystal energy orb spawns, take it and interact with the Vibrant Crystal in the middle.
 </GridItem>
@@ -57,7 +57,7 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 </GridItem>  
   
 <GridItem sm="8"> 
-Commonly the Brood Queen is picked first from the two paths. On your way to the _Brood Queen_ you will see spider nests, destroy them. You have to stand on two cyan glowing runes in the middle of the bridge to unblock the path to the _Brood Queen_. There are telegraphed windblows that are unblockable, if you happen to get hit by one it puts you back at the start of the bridge. Kill the two elite _Broodmother Spider_ to spawn the _Brood Queen_. This boss does not hit hard and most attack are telegraphed. After killing her the crystal energy ball comes down. Take it and you get spawned back in the middle. Take the ball to the Vibrant crystal in the end of the hall and move on to the left side of the dungeon.
+On your way to the _Brood Queen_ you will see spider nests, destroy them. You have to stand on two cyan glowing runes in the middle of the bridge to unblock the path to the _Brood Queen_. There are telegraphed windblows that are unblockable, if you happen to get hit by one it puts you back at the start of the bridge. Kill the two elite _Broodmother Spider_ to spawn the _Brood Queen_. This boss does not hit hard and most attack are telegraphed. After killing her the crystal energy ball comes down. Take it and you get spawned back in the middle. Take the ball to the Vibrant crystal at the end of the hall.
 </GridItem>
 
 <GridItem sm="4">
@@ -109,13 +109,13 @@ Here you have to use the <Effect name="lightofdeldrimor"/> to reveal the hidden 
 </GridItem> 
 
 <GridItem sm="8"> 
-After standing on the rune in the middle of the platform it proceeds to go downward. If you didn't step in in time, no worries, there is a cyan glowing rune that teleports you down. As the platform goes down, it stops in the middle and mobs spawn. It's two waves of mobs with first being Veteran Imps only, then an Elite Minotaur and Veteran Imps. **Use the <Effect name="lightofdeldrimor"/> to make them vulnerable** and after killing them the platform moves again.You can jump down but it can happen that you die if you jump from too high. It is more safe to wait until it is fully down.
+After standing on the rune in the middle of the platform it proceeds to go downward. If you didn't step on it in time, no worries, there is a cyan glowing rune that teleports you down. As the platform goes down, it stops in the middle and mobs spawn. There are two waves of mobs with the first one consisting of Veteran Imps only, then an Elite Minotaur and again Veteran Imps. **Use the <Effect name="lightofdeldrimor"/> to make them vulnerable** and after killing them the platform moves again. You can jump down but it can happen that you die if you jump from too high. It is safer to wait until it reaches the lowest floor.
 </GridItem>
 
 <GridItem sm="4">
 <Tabs>
 <Tab specialization="Guardian">
-Please use <Skill name="Binding Blade"/> (Greatsword 5) to group the mobs.
+Use <Skill name="Binding Blade"/> (Greatsword 5) to group the mobs.
 </Tab>
 </Tabs>
 </GridItem>
