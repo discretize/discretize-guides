@@ -44,7 +44,7 @@ The remaining two players can take the _Invigorator Rifle Prototypes_ from the g
 
 <Tabs>
 <Tab specialization="revenant">
-Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance"/>) for better mobility.
+Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance" disableText/>) for better mobility.
 </Tab>
 
 <Tab specialization="warrior">
@@ -98,17 +98,25 @@ Make sure to position yourself close to Bloomhunger before the phase ends to max
 Try to position yourself before Bloomhunger reaches 25% health. Again, he will teleport to the middle and become immune, but this time you have to carry four Wisps from northwest, northeast, southeast and southwest to their associated empty Wisp Cleft in the center area within 30 seconds. If you are near a Wisp before the phase begins, you can easily carry two Wisps before the time expires.
 
 As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again and you can finish him off to complete the fractal.
+
+<Image src="./images/bloomhunger_spirit_onslaught.jpg" caption="Bloomhunger during Spirit Onslaught"/>
 </GridItem>
 
 <GridItem sm="4">
 <Image src="./images/bloomhunger.jpg" caption="Bloomhunger"/>
 <Tabs>
 <Tab specialization="revenant">
-Take <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> for this fight. Remove <Boon name="Protection"/> from Bloomhunger when he steps into the poison AoE".
+Take <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> for this fight. Remove <Boon name="Protection"/> from Bloomhunger when he steps into the poison AoE.
 </Tab>
+</Tabs>
+ 
+<Tabs> 
 <Tab specialization="Tempest">
 Use <Specialization name="Tempest"/> for this fight and <Skill id="22572"/> for better cleave during the Spirit Onslaught phases.
 </Tab>
+</Tabs>
+
+<Tabs>
 <Tab specialization="ranger">
 Take <Skill id="12489"/> traited with <Trait id="1075"/> against the <Instability name="Afflicted"/> instability.
 </Tab>
@@ -116,4 +124,4 @@ Take <Skill id="12489"/> traited with <Trait id="1075"/> against the <Instabilit
 </GridItem>
 </Grid>
 
-<Image src="./images/bloomhunger_spirit_onslaught.jpg" caption="Bloomhunger during Spirit Onslaught"/>
+
