@@ -89,7 +89,7 @@ One person activates the console to the left <Label circular>1</Label> to grant 
 Activating <Label circular>2</Label> enables short access to the two final consoles at <Label circular>3</Label>. You can bypass the <Condition name="immobile"/> from triggering them by standing exactly in the middle and pressing both buttons at the same time.
 </GridItem>
 <GridItem sm="12">
-<Video title="Guardian skip (Any class can do it)" timestamp="545" youtube="MmJTsOhdQeo"/>  
+<Video title="Guardian skip (But any class can do it)" timestamp="545" youtube="MmJTsOhdQeo"/>  
 </GridItem>
 </Grid>
 
