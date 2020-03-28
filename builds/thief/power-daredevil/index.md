@@ -187,7 +187,7 @@ You can also activate <Skill id="13046"/> to burst for the last few attacks of a
 | -- | -- |
 | <Skill id="30693"/> | 200 Defiance bar damage |
 | <Skill id="13132"/> | 150 Defiance bar damage per ally |
-| <Skill id= "13057"/> | 300 Defiance bar damage
+| <Skill id="13057"/> | 300 Defiance bar damage
 </Card>
 <Card title="Tips">
 <Skill id="30597"/> (Staff 5) is worth using if you can hit 4 or more mobs at once. Especially since staff autoattacks and <Skill id="29911"/> can only hit 3 targets. So on big groups of trash mobs you should just spam <Skill id="30597"/> and then finish them with <Skill id="13085"/>.
