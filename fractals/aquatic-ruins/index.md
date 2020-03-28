@@ -87,9 +87,9 @@ If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Kra
 <GridItem sm="7">
 ## Jellyfish Beast
 
-The Jellyfish Beast does not have a Breakbar since rework. Use <Item id="24615"/> and <Item id="24658"/>.
+The Jellyfish Beast does not have a Breakbar since the rework. Use <Item id="24615"/> and <Item id="24658"/>.
 
-It starts it's rotation with an AoE stun. If you get eaten by the boss, your weapon skills get replaced from 1 to 5. Click the specific skill every time to get free. If you miss the right skill too many times you die.
+It starts it's rotation with an AoE stun. If you get eaten by the boss, your weapon skills get replaced from 1 to 5. Click the specific skill every time to get free. If you miss the right skill too often you die.
 
 Every 25% the boss gets <Effect name="Invulnerability"/> and Elite Kraits spawn. Kill them to continue the fight.
 
