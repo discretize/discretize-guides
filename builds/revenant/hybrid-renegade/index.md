@@ -1,13 +1,13 @@
 ---
 title: 'Renegade'
-date: '2020-03-27'
+date: '2020-03-28'
 rating: 'Meta'
 role: 'Support'
 profession: 'Revenant'
 specialization: 'Renegade'
 benchmark: { large: { dps: 23973, by: 'MajesticNoodle [BATS]', youtube: 'p4D96l_GVPg' } }
 skills: [45773, 27505]
-traits: [1802]
+traits: [1786]
 boons: ['Alacrity', 'Might', 'Stability']
 conditions: ['Vulnerability']
 code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
