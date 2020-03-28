@@ -31,8 +31,8 @@ sigils:
 
 <Grid>
 <GridItem sm="8">
-You can stack <Effect name="stealth"/> before entering the water to cheat the exploding mines.
-Clear the group of *Elite Aetherblades* to open the door.
+You can stack <Effect name="stealth"/> before entering the water to cheat the exploding mines. Clear the group of *Elite
+Aetherblades* to open the door.
 
 <Tabs>
 <Tab specialization="thief">
