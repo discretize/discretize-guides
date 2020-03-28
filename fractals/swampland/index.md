@@ -73,7 +73,7 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 <GridItem sm="8">
 In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the _Mistlock Singularity_ insite the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
 <Message>  
-**Beware, there is a wisp that is <Effect name="invulnerability"/> and can attack you putting you in combat during pre-stack**!
+**Beware, there is a wisp that has <Effect name="invulnerability"/> and can attack you, putting you in combat during pre-stack**!
 </Message>
 </GridItem>
 
@@ -94,7 +94,7 @@ When Bloomhunger casts _Poison Rain_, immediately break his defiance bar (especi
 
 ### Spirit Onslaught <Label>75%, 50%</Label>
 
-At 75% and 50% health, Bloomhunger will teleport to the middle and become <Effect name="invulnerability"/>. You will have to kill trash mobs inside the active Wisp Cleft to make him vulnerable again. Keep your pets and spirits close to yourself to prevent mobs from getting stuck. Kill the freshly spawned _Oakheart_ when you are out of mobs. Do not waste your time on Oakhearts while Bloomhunger is vulnerable.
+At 75% and 50% health, Bloomhunger will teleport to the middle and gain <Effect name="invulnerability"/>. You will have to kill trash mobs inside the active Wisp Cleft to make him vulnerable again. Keep your pets and spirits close to yourself to prevent mobs from getting stuck. Kill the freshly spawned _Oakheart_ when you are out of mobs. Do not waste your time on Oakhearts while Bloomhunger is vulnerable.
 
 Make sure to position yourself close to Bloomhunger before the phase ends to maximize the chance of him immediately jumping on you (and casting _Poison Rain_) instead of charging around.
 
