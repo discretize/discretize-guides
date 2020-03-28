@@ -123,8 +123,8 @@ Take <Skill id="5507"/> for an additional condition cleanse. Use <Skill id="2257
 </Tabs>
  
 <Tabs>
-<Tab specialization="ranger">
-Use <Skill id="12489"/> periodical condition clear. 
+<Tab specialization="Soulbeast">
+Take <Skill id="12489"/> for pulsing condition cleanse! You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
 </Tab>
 </Tabs>
 </GridItem>

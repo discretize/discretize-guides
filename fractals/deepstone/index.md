@@ -15,11 +15,11 @@ consumables: [49940]
 <GridItem sm="12"> 
 ## Always start Left path with the Deepstone Sentinel (Air Elemental) 
 </GridItem>
-<GridItem sm="7"> 
+<GridItem sm="6"> 
 Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pass. You have to avoid the green tiles because it damages you. You can dodge the green tiles so gaps between the safe non glowing tiles, proceed to the end. After two players passed, they stand on the cyan glowing runes to stop the tetris trap so others can pass. **This can be skipped by <Specialization name="Berserker"/>, <Specialization name="Soulbeast"/>, <Specialization name="Firebrand"/>, video on the right.** 
 </GridItem> 
 
-<GridItem sm="5">
+<GridItem sm="6">
 <Image src="./images/maze.jpg" caption="The Tetris / Green Tiles"/>
 </GridItem> 
 
@@ -57,7 +57,7 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 </GridItem>  
   
 <GridItem sm="8"> 
-Commonly the Brood Queen is picked first from the two paths. On your way to the _Brood Queen_ you will see spider nests, destroy them. You have to stand on two cyan glowing runes in the middle of the bridge to unblock the path to the _Brood Queen_. There are telegraphed windblows that are unblockable, if you happen to get hit by one it puts you back at the start of the bridge. Kill the two elite _Broodmother Spider_ to spawn the _Brood Queen_. This boss does not hit hard and most attack are telegraphed. After killing her the crystal energy ball comes down. Take it and you get spawned back in the middle. Take the ball to the Vibrant crystal in the end of the hall and move on to the left side of the dungeon.
+Commonly the Brood Queen is picked second from the two paths. On your way to the _Brood Queen_ you will see spider nests, destroy them. You have to stand on two cyan glowing runes in the middle of the bridge to unblock the path to the _Brood Queen_. There are telegraphed windblows that are unblockable, if you happen to get hit by one it puts you back at the start of the bridge. Kill the two elite _Broodmother Spider_ to spawn the _Brood Queen_. This boss does not hit hard and most attack are telegraphed. After killing her the crystal energy ball comes down. Take it and you get spawned back in the middle. Take the ball to the Vibrant crystal in the end of the hall.
 </GridItem>
 
 <GridItem sm="4">
