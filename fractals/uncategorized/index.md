@@ -98,14 +98,14 @@ If you skipped don't forget to trigger the "Reach the top" checkpoint (red dot o
 </Message> 
 </GridItem> 
  
-<GridItem sm="6"> 
+<GridItem sm="5"> 
 <Image src="./images/old_tom.jpg" caption="Old Tom"/>
 </GridItem>
 
-<GridItem sm="6">
+<GridItem sm="7">
 ## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>  
   
-Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken. <Specialization name="Ranger"/> can use <Skill id="12489"/> traited with <Trait id="1075"/> almost nullifies the Poison from the green projectiles, it also helps against <Instability name="Afflicted"/>.
+Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken. <Specialization name="Soulbeast"/> can use <Skill id="12489"/> and take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> almost nullifies the Poison from the green projectiles.
 </GridItem>
 </Grid>
 
@@ -139,6 +139,9 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 </Tab>
 </Tabs>   
 </GridItem>
+
+<GridItem sm="12">
+<Image src="./images/raving_asura.jpg" caption="The Raving Asura and his entourage"/>
+</GridItem>
 </Grid>
 
-<Image src="./images/raving_asura.jpg" caption="The Raving Asura and his entourage"/>
