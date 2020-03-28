@@ -1,6 +1,6 @@
 ﻿---
 title: 'Aquatic Ruins'
-date: '2019-12-04'
+date: '2020-03-27'
 image: './images/header.jpg'
 group: 'T4'
 api: 2956
@@ -37,10 +37,6 @@ This is an underwater fractal. Make sure you have approriate underwater equipmen
 You can stack <Boon name="might"/> on the rack before entering the water. Kill the two groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
 
 <Tabs>
-<Tab specialization="warrior">
-Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="fury"/> and <Boon name="might"/>.
-</Tab>
-
 <Tab specialization="weaver">
 You can stay Weaver for this fractal and trait Air with <Trait id="232" disableText/>, <Trait id="214" disableText/> and most importantly <Trait id="1503"/> or retrait to Tempest. For utility, use <Skill id="5638" disableText/>, <Skill id="40183" disableText/>, <Skill id="5539" disableText/> and <Skill id="43638"/> as Elite skill.
   
@@ -55,6 +51,9 @@ You can retrait to Tempest for this fractal as it is one of the best choices for
         As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" disableText/>) and <Skill id="5597"/> (<Skill id="5492" disableText/>) and <Skill id="5655"/> and Air autoattack (<Skill id="5494" disableText/>) to maximize dps. 
 </Tab>
 
+<Tab specialization="warrior">
+Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="fury"/> and <Boon name="might"/>.
+</Tab>
 </Tabs>
 
 </GridItem>
