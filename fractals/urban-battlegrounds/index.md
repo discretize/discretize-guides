@@ -73,7 +73,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
   
 Again, stack <Effect name="stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
 
-Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference.
+Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference. Using <Item id="8764"/> and <Item id="8801"/> also helps not aggroing the guards nearby. Watch out for the chicken that spawns there for an achievemnt (it is random if it's there or not), putting you in combat using the items, thus not being able to pull off the skip.
 
 <Tabs> 
 <Tab specialization="thief">
