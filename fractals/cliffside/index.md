@@ -80,13 +80,14 @@ After the <Specialization name="Renegade"/> or someone teleported the party up, 
 <GridItem sm="5">
 <Tabs>
 <Tab specialization="renegade">
+Take <Skill name="Legendary Demon stance"/> and spam <Skill name="Pain absorption"/> for <Boon name="Resistance"/> and condition cleanse on party.      
 After 2-3 hits against the Seal, place <Item id="78978"/>, run up to the *Right Arm Seal*, wait for the destruction of the *Chest Seal* then open the portal for the party.
 </Tab>
 </Tabs>
   
 <Tabs>
-<Tab specialization="ranger">
-<Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you.
+<Tab specialization="soulbeast">
+<Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you. Take <Skill id="12489"/> for pulsing condition cleanse! Great way the clean the huge stacks of <Condition name="Burning"/>. You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
 </Tab>
 </Tabs>
 </GridItem>
