@@ -5,7 +5,7 @@ rating: 'Offmeta'
 role: 'Damage'
 profession: 'Necromancer'
 specialization: 'Reaper'
-benchmark: { small: { dps: 31193, by: 'MajesticNoodle [BATS]', youtube: 'wPFrUrG0l0E' } }
+benchmark: { small: { dps: 31200, by: 'MajesticNoodle [BATS]', youtube: 'wPFrUrG0l0E' } }
 skills: [30792]
 traits: [2020, 2018, 919]
 boons: ['Might', 'Fury', 'Quickness']
