@@ -26,10 +26,11 @@ sigils: [{ id: 36053 }, { id: 24868 }]
 consumables: [78978]
 ---
 
-## Running the wisps
 
 <Grid>
 <GridItem sm="8">
+## Running the wisps  
+  
 Trigger the start event by walking to the three *Wisp Clefts* in the South. Wait for three players to be ready at each of the randomly spawned Wisps, usually indicated by typing `ready` in chat. Count down to go and deliver the Wisps to the Clefts within 30 seconds while avoiding <Condition name="stun"/>, <Condition name="immobile"/> and <Condition name="crippled"/> from the spike, wire and hunting traps on the ground.
 
 Learn and practice to jump over the emerging walls, for nearly every wall there is an easy spot to skip over it.
@@ -38,10 +39,6 @@ The remaining two players can take the _Invigorator Rifle Prototypes_ from the g
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
-</GridItem>
-</Grid>
-
 <Tabs>
 <Tab specialization="revenant">
 Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance" disableText/>) for better mobility.
@@ -50,7 +47,9 @@ Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance" dis
 <Tab specialization="warrior">
 Use <Skill id="14516"/> for better mobility.
 </Tab>
+</Tabs>
 
+<Tabs>
 <Tab specialization="elementalist">
 Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cleanse.
 </Tab>
@@ -59,6 +58,12 @@ Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cle
 Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 </Tab>
 </Tabs>
+</GridItem>
+
+<GridItem sm="12">
+<Image src="./images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
+</GridItem>
+</Grid>
 
 ---
 
