@@ -91,7 +91,7 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 
 <Grid>
 <GridItem sm="8">
-**Take the shortcut on the right-hand side down, jump into the lava then run and jump to the final platform to trigger the next checkpoint**, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="might"/> and jump down to the Imbued Shaman (the bat follows you to the end of the walkway, but it takes here 10 or more seconds to reach it. Make sure you have the boons stacked and are on the correct weapon before she flies in you fire field).
+**Take the shortcut on the right-hand side down, jump into the lava then run and jump to the final platform to trigger the next checkpoint**, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="might"/> and jump down to the Imbued Shaman (the bat follows you to the end of the walkway, but it takes 10 or more seconds to reach it. Make sure you have the boons stacked and are on the correct weapon before she flies in you fire field).
 
 Every 25% health, it gains a protective bubble and starts moving to a random villager. It will heal for about 20% health if it reaches their target, so break the bubble quickly by casting 40 offensive abilities while targeting the Imbued Shaman (you actually don't have to hit him). Try to keep him in the center as the villagers are located at the edge of the area.
 
