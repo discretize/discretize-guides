@@ -93,8 +93,6 @@ Use the same starting spot as in the <Specialization name="Thief"/>'s video, not
 </GridItem>
 
 <GridItem sm="12">
-## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>
-  
 <Message> 
 If you skipped don't forget to trigger the "Reach the top" checkpoint (red dot on the mini map) to prevent the fractal from bugging.    
 </Message> 
@@ -105,6 +103,8 @@ If you skipped don't forget to trigger the "Reach the top" checkpoint (red dot o
 </GridItem>
 
 <GridItem sm="6">
+## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>  
+  
 Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken. <Specialization name="Ranger"/> can use <Skill id="12489"/> traited with <Trait id="1075"/> almost nullifies the Poison from the green projectiles, it also helps against <Instability name="Afflicted"/>.
 </GridItem>
 </Grid>
@@ -125,20 +125,20 @@ Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful w
 
 ---
 
-## Raving Asura <Item id="8887" disableText/><Item id="24672" disableText/>
-
 <Grid>
-<GridItem sm="7">
-If no one did a portal to above, stack <Effect name="stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal.
+<GridItem sm="5">
+## Raving Asura <Item id="8887" disableText/><Item id="24672" disableText/>  
   
+If no one did a portal to above, stack <Effect name="stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal.
+</GridItem>
+  
+<GridItem sm="7">
 <Tabs>
-<Tab specialization="Revenant">
+<Tab specialization="Renegade">
 First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Go to the golems and deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, then just use <Skill name="Protective Solace"/> to block the Racing Asura's projectiles until the end of fight.
 </Tab>
-</Tabs>  
-  
-</GridItem>
-<GridItem sm="5">
-<Image src="./images/raving_asura.jpg" caption="The Raving Asura and his entourage"/>
+</Tabs>   
 </GridItem>
 </Grid>
+
+<Image src="./images/raving_asura.jpg" caption="The Raving Asura and his entourage"/>
