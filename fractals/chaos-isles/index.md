@@ -79,9 +79,9 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 
 <Grid>
 <GridItem sm="8">
-You will need to enlighten four *bonfires* on the path to progress to the end boss while every player only has **one** *Enlighten* charge.
+You will need to enlighten four *bonfires* on the path to progress to the end boss, **the *Enlighten* charges have unlimited use so this can be soloed** but if you want to be safe simply wait everyone.
 
-You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. Do not assign a bonfire to each player, simply lighten them up as soon as you reach them.  
+You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. 
 Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
 
 </GridItem>
