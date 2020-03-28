@@ -74,7 +74,7 @@ If you get this path, swim together and take the _Luminous Plants_ on the way to
 </GridItem>
 
 <GridItem>
-## or Dolphin Path <Label>Changes daily</Label>
+## Dolphin Path <Label>Changes daily</Label>
 
 If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Krait and keep to the right. You can use `Skill 2` to create a distraction and `Skill 3` to get <Effect name="Stealth"/>. `Skill 5` can be used to instantly revive nearby dead allies. Always dodge **twice** when you anticipate a Krait attack. As soon as someone reaches the checkpoint you wait for your party to '/gg' and spawn  next to you. Kill the Champion Krait to get to the Jellyfish Beast.
 </GridItem>
@@ -105,6 +105,10 @@ Use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Assassin S
 Use <Skill name="Stand your ground"/>. If you have multiple Guardians in your team, consider taking <Skill id="43357"/>.
 </Tab> 
 </GridItem>
+
+<GridItem sm="12">
+<Image src="./images/the_jellyfish_beast.jpg" caption="The Jellyfish Beast"/>
+</GridItem>
 </Grid>
 
-<Image src="./images/the_jellyfish_beast.jpg" caption="The Jellyfish Beast"/>
+
