@@ -97,7 +97,7 @@ As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and 
 <GridItem sm="6">
 <Tabs>
 <Tab specialization="Renegade">
-For more experienced groups it is favorable to take <Skill name="Legendary Dwarf Stance"/> and go into the middle and casting <Skill name="Inspiring reinforcements"/> for <Boon name="Stability"/> against <Control name="Knockback"/> and <Control name="Daze"/> and <Skill name="Rite of the Great Dwarf"/> for damage reduction.
+For more experienced groups it is favorable to take <Skill name="Legendary Dwarf Stance"/> and go into the middle and casting <Skill name="Inspiring reinforcement"/> for <Boon name="Stability"/> against <Control name="Knockback"/> and <Control name="Daze"/> and <Skill name="Rite of the Great Dwarf"/> for damage reduction.
 </Tab>  
 </Tabs>
 <Tabs>
