@@ -77,7 +77,7 @@ After the <Specialization name="Renegade"/> or someone teleported the party up, 
 
 
 <Grid>
-<GridItem sm="5">
+<GridItem sm="6">
 <Tabs>
 <Tab specialization="renegade">
 Take <Skill name="Legendary Demon stance"/> and spam <Skill name="Pain absorption"/> for <Boon name="Resistance"/> and condition cleanse on party.      
@@ -92,7 +92,7 @@ After 2-3 hits against the Seal, place <Item id="78978"/>, run up to the *Right 
 </Tabs>
 </GridItem>
 
-<GridItem sm="7">
+<GridItem sm="6">
 ## Chest Seal <Item id="8881" disableText/><Item id="24678" disableText/>
   
 As soon as the <Specialization name="elementalist"/> did `/gg` too, everyone can resurrect and will respawn in front of the *Chest Seal* with a new *Cultist Hammer* ahead of you.    
@@ -105,7 +105,7 @@ It will take five hits to break the chest seal. If you see somebody running ahea
 ---
 
 <Grid>
-<GridItem sm="7">
+<GridItem sm="5">
 ## Arm Seals <Item id="8881" disableText/><Item id="24678" disableText/>  
   
 This is a matter of timing, so look out for the <Item id="78978"/> and the hammer carrier. In a perfect world yoe use the portals one by one, and <Specialization name="renegade"/> placing <Skill name="Inspiring Reinforcement"/>, giving <Boon name="Stability"/> to the hammer carrier and not getting knocked back, resulting in faster seal breaking.
@@ -115,7 +115,7 @@ During the portal jumping, keep Cultist's health as low as possible but **only f
 Type `/gg` after finishing both seals and stay dead. If you wipe before both seals are destroyed, they will reset to full health.
 </GridItem>
 
-<GridItem sm="5">
+<GridItem sm="7">
 <Image src="./images/arm_seal.jpg" caption="One of the arm seals"/>
 <Tabs>
 <Tab specialization="warrior">
