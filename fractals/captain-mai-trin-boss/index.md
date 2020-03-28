@@ -19,12 +19,6 @@ consumables: [78978]
 Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="daze"/> with his stunning shield, use <Boon name="stability"/>, blocks or invulnerables against it.
 
 After you killed the mobs, use the Mistlock Singularity to reset cooldown then the teleporter to enter the boss area.
-
-<Tabs>
-<Tab specialization="Revenant">
-It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorbtion at pre-fight and at Mai Trin. Recommended to use the Salvation / Invocation / Renegade trainline combo variant for more energy for the whole fight.
-</Tab>
-</Tabs>
 </GridItem>
 <GridItem sm="4">
 <Image src="./images/start.jpg" caption="The start area"/>
@@ -44,22 +38,24 @@ The key is to stack on Mai Trin during the whole fight (beware the <Effect name=
 Every 25% health, Mai Trin disappears and additional enemies will spawn while fiery cannons start shooting. Switch your damage to Horrik and deal 25% of his health to make Mai Trin return. Cleave the spawning mobs during downtimes.
 
 Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily Mai Trin won't have any protecting stacks below 25%, so make sure to finish her rather than Horrik (Killing Mai Trin finishes the fractal).
+
+<Image src="./images/mai_trin.jpg" caption="Captain Mai Trin"/>
 </GridItem>
 
 <GridItem sm="5">
+  
 <Image src="./images/horrik.jpg" caption="First Mate Horrik"/>
-<Tabs>
 
+<Tabs>
 <Tab specialization="Revenant">
 It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorbtion with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade trainline combo variant for more energy for the whole fight.
 </Tab>
+</Tabs>
 
+<Tabs>
 <Tab specialization="soulbeast">
 You can block Horrik's cannon projectile with <Skill name="Counterattack" specialization="ranger"/> (Greatsword 4).
 </Tab>
-
 </Tabs>
 </GridItem>
 </Grid>
-
-<Image src="./images/mai_trin.jpg" caption="Captain Mai Trin"/>
