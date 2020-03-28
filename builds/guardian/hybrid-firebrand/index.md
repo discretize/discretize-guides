@@ -9,7 +9,7 @@ benchmark: { small: { dps: 23300, by: 'MajesticNoodle [BATS]', youtube: 'G1Y1u4Z
 skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
-code: '[&DQEQLyo6PjpLFwMB/gAAAHoWAABIAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'ganymed.3541'
 ---
 
