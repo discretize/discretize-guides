@@ -105,7 +105,7 @@ As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again
 <GridItem sm="4">
 <Image src="./images/bloomhunger.jpg" caption="Bloomhunger"/>
 <Tabs>
-<Tab specialization="revenant">
+<Tab specialization="renegade">
 Take <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> for this fight. Remove <Boon name="Protection"/> from Bloomhunger when he steps into the poison AoE.
 </Tab>
 </Tabs>
@@ -117,8 +117,14 @@ Use <Specialization name="Tempest"/> for this fight and <Skill id="22572"/> for 
 </Tabs>
 
 <Tabs>
-<Tab specialization="ranger">
-Take <Skill id="12489"/> traited with <Trait id="1075"/> against the <Instability name="Afflicted"/> instability.
+<Tab specialization="Soulbeast">
+Take <Skill id="12489"/> for pulsing condition cleanse! Great way the clean the huge stacks of <Condition name="Poison"/> at every phase. You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
+</Tab>
+</Tabs>
+
+<Tabs>
+<Tab specialization="Berserker">
+Take Greatsword and <Skill name="Blood Reckoning"/> here for cleave!
 </Tab>
 </Tabs>
 </GridItem>
