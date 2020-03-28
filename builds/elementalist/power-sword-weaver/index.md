@@ -1,14 +1,12 @@
 ---
 title: 'Weaver'
-date: '2020-03-27'
+date: '2020-03-28'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
 benchmark:
-  {
-    small: { dps: 35783, by: 'Roul [SC]', youtube: 'I58GSMPyKBM' },
-  }
+  { small: { dps: 35687, by: 'Fallen [SC]', youtube: 'GmV62nfPQvs' } }
 skills: [5734, 5516, 44451, 5557]
 traits: [1502, 226, 1503]
 boons: ['Fury', 'Might', 'Swiftness']

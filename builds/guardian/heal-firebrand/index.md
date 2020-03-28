@@ -1,6 +1,6 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2020-03-27'
+date: '2020-03-28'
 rating: 'T4'
 role: 'Support'
 profession: 'Guardian'
@@ -8,7 +8,7 @@ specialization: 'Firebrand'
 skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
-code: '[&DQEQLjElPjZLFwMBehb+AEsBNgH+AEgBiRJxEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 <Message>

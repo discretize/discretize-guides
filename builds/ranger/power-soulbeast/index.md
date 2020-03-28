@@ -1,12 +1,12 @@
 ---
 title: 'Soulbeast'
-date: '2020-03-27'
+date: '2020-03-28'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
-  { small: { dps: 38300, by: 'LEFT', youtube: '18X3buGk4Mc' } }
+  { small: { dps: 38380, by: 'LEFT [dP]', youtube: '18X3buGk4Mc' } }
 skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']

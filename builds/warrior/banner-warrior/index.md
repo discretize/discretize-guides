@@ -1,15 +1,15 @@
 ﻿---
 title: 'Banner Warrior'
-date: '2020-03-27'
+date: '2020-03-28'
 rating: 'T4'
 role: 'Support'
 profession: 'Warrior'
 specialization: 'Warrior'
-benchmark: { small: { dps: 27838, by: 'Weird Champ [SC]', youtube: 'EWxjRKrRNRg' } }
+benchmark: { small: { dps: 27838, by: 'Allan [SC]', youtube: 'EWxjRKrRNRg' } }
 skills: [14407, 14405, 45252, 45333]
 traits: [1482]
 conditions: ['Vulnerability']
-code: '[&DQIEGws9MxamAKcAogGpAKwArwCqAAAAfAGcAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQIEGws9MxamAKcAogGpAKwAqgCqAKwAfAHuAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 <Tabs>
 

@@ -1,6 +1,6 @@
 ---
 title: 'Berserker'
-date: '2020-03-27'
+date: '2020-03-28'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
@@ -11,7 +11,7 @@ skills: [14407, 14405]
 traits: [1444, 1977, 2049 ]
 conditions: ['Vulnerability']
 boons: ['Might']
-code: '[&DQIEGzMWEhenAAAAqQAAAKoAAACsAAAAwhIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'SpatiumPrinceps.8927'
 ---
 <Tabs>
