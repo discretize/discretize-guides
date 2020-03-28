@@ -37,7 +37,7 @@ The key is to stack on Mai Trin during the whole fight (beware the <Effect name=
 
 Every 25% health, Mai Trin disappears and additional enemies will spawn while fiery cannons start shooting. Switch your damage to Horrik and deal 25% of his health to make Mai Trin return. Cleave the spawning mobs during downtimes.
 
-Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily Mai Trin won't have any protecting stacks below 25%, so make sure to finish her rather than Horrik (Killing Mai Trin finishes the fractal).
+Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily, Mai Trin won't have any protecting stacks below 25%, so make sure to finish her rather than Horrik (Killing Mai Trin finishes the fractal).
 
 <Image src="./images/mai_trin.jpg" caption="Captain Mai Trin"/>
 </GridItem>
