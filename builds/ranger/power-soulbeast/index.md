@@ -10,7 +10,7 @@ benchmark:
 skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
-code: '[&DQQIGiA7Nzp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
+code: '[&DQQIGiA7Nyp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 ---
 
 <Tabs>
