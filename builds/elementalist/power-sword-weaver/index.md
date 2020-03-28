@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
 benchmark:
-  { small: { dps: 35600, by: 'Fallen [SC]', youtube: 'GmV62nfPQvs' } }
+  { small: { dps: 35687, by: 'Fallen [SC]', youtube: 'GmV62nfPQvs' } }
 skills: [5734, 5516, 44451, 5557]
 traits: [1502, 226, 1503]
 boons: ['Fury', 'Might', 'Swiftness']
