@@ -205,18 +205,16 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 1. <Skill name="Pyro Vortex"/>
 2. <Skill name="Ride the Lightning"/>
 3. <Skill name="Flame Uprising"/>
-4. <Skill name="Conjure Lightning Hammer"/>
+4. <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
 </GridItem>
 
 <GridItem sm="2">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
-1. <Skill name="Invoke Lightning"/>
-2. <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap" profession="bundle"/>
-3. <Skill name="Cauterizing Strike"/>
-4. <Skill name="Fire Grab"/>
-5. <Skill name="Flame Uprising"/>
+1. <Skill name="Cauterizing Strike"/>
+2. <Skill name="Fire Grab"/>
+3. <Skill name="Flame Uprising"/>
 </GridItem>
 
 <GridItem sm="2">
@@ -267,6 +265,8 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 3. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
 </GridItem>
 </Grid>
+
+If you are using <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> => <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap" profession="bundle"/> instead.
 
 With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill name="Water Attunement" disableText/> before going directly into <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> after using your Fire skills.
 </Card>
