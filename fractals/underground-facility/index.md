@@ -44,7 +44,7 @@ There are two ways to do this. For the faster way you require <Item id="78978"/>
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="Guardian">
-<Video title="Guardian skip" timestamp="37" youtube="MmJTsOhdQeo"/>
+<Video title="Guardian skip" youtube="N5RcWdIbIRs"/>
 </Tab>
 
 <Tab specialization="Guardian">
