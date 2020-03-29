@@ -68,14 +68,23 @@ Template code:
 </Card>
 </GridItem>
 
-<GridItem sm="4">
-<Card title="Legends">
-<Skill name="Legendary Renegade Stance" size="big"/>
-<Skill name="Legendary Centaur Stance" size="big"/>
-<Skill name="Legendary Dwarf Stance" size="big"/>
-<Skill name="Legendary Demon Stance" size="big"/>
+
+
+<GridItem sm="5">
+<Card title="Legend combos">
+## Normal
+<Skill name="Legendary Renegade Stance" disableText size="big"/> <Skill name="Legendary Centaur Stance" disableText size="big"/> 
+
+## More stability needed
+<Skill name="Legendary Renegade Stance" disableText size="big"/> <Skill name="Legendary Dwarf Stance" disableText size="big"/>   
+
+## No Pain No Gain   <Label>Use the Salvation / Invocation / Renegade variant for more energy!</Label>
+<Skill name="Legendary Renegade Stance" disableText size="big"/>  <Skill name="Legendary Demon Stance" disableText size="big"/>
+
+## For more explanation go to the Guides tab above.
 </Card>
 </GridItem>
+
 </Grid>
 </Tab>
 
