@@ -1,6 +1,6 @@
 ---
 title: 'What Should I Play?'
-date: '2020-03-27'
+date: '2020-03-29'
 image: './images/whatshouldiplaylogo.png'
 description: 'If you do not know what class you want to play.'
 ---
@@ -31,13 +31,13 @@ description: 'If you do not know what class you want to play.'
 | | |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Specialization name="Holosmith" text="Power Holosmith"/> |1. High learning curve, hard to master<br/><br/>2. High, consistent damage<br/><br/>3. Your CC [(Crowd Control)](/guides/cc-distribution) is the highest of the offmeta dps classes<br/>[Click here for the build!](/builds/engineer/power-holosmith)<br/><br/>  |
-| <Specialization name="firebrand" text="Condi Firebrand"/> | <br/>1. Low learning curve<br/><br/>2. Huge burst damage<br/>[Click here for the build!](/builds/guardian/condi-firebrand)<br/><br/> |
 | <Specialization name="Reaper" text="Power Reaper"/> | <br/>1. Low learning curve, hard to master<br/><br/>2. High, consistent damage, good cleave<br/><br/>3. You provide yourself boons such as <Boon name="quickness"/> and <Boon name="Might"/><br/><br/>4. Highest survivability out of the offmeta dps classes<br/><br/>5. Can boonrip for the team if <Instability name="No Pain, No Gain"/> is present<br/>[Click here for the build!](/builds/necromancer/power-reaper)<br/><br/>   |
 | <Specialization name="Dragonhunter"/> | <br/>1. Low learning curve, hard to master<br/><br/>2. High damage on short fights, drops later on<br/><br/>3. You are squishy, but out of the offmeta dps classes, you have the **second** most survivability<br/>[Click here for the build!](/builds/guardian/power-dragonhunter)  |
 </Tab>
 <Tab title="Support roles">
 | | |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Specialization name="firebrand" text="Condi Firebrand"/> | <br/>1. Low learning curve<br/><br/>2. Huge burst damage<br/><br/>3. You are responsible for boons like <Boon name="quickness"/>, <Boon name="Aegis"/> and <Boon name="might"/><br/><br/>4. If needed, you can provide more boons like <Boon name="Resistance"/> and <Boon name="Stability"/><br/><br/>[Click here for the build!](/builds/guardian/condi-firebrand)<br/><br/> |
 | <Specialization name="renegade" text="Heal Renegade"/> |1. Medium learning curve<br/><br/>2. Low damage, high healing output<br/><br/>3. You are responsible for boons like <Boon name="Alacrity"/>, <Boon name="Might"/> and <Boon name="Protection"/><br/><br/>4. You can choose to buff the team with <Trait id="1786"/><br/>[Click here for the build!](/builds/revenant/heal-renegade)<br/><br/>  |
 </Tab>
 </Tabs>
