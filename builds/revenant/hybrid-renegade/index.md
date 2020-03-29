@@ -124,7 +124,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 **Staff Skills:**
 
 - <Skill name="Rapid Swipe"/> - The autoattack chain cleaves and the last hit provides a small amount of healing to allies.
-- <Skill name="Menders Rebuke"/> - Provides <Condition name="Vulnerability"/> and a small amount of healing to allies.
+- <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
 - <Skill name="Warding Rift"/> - A two second block that <Condition name="Blind"/> foes. 
 - <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
 - <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grant between three and nine hits of <Effect name="Knockback"/>. 
