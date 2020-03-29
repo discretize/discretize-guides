@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
-  { small: { dps: 38380, by: 'LEFT [dP]', youtube: '18X3buGk4Mc' } }
+  { small: { dps: 36770, by: 'LEFT [dP]', youtube: '7FAAgTxUuc8' } }
 skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
@@ -97,7 +97,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 </Card>  
 </GridItem>
 </Grid>
-<Card title="Trait variations">
+<Card title="Trait Variations">
 - First slot of Marksmanship - <Trait name="Clarion Bond"/> can be useful if the blast and team might is more advantageous than the self might from <Trait name="Huntersgaze"/>.
 - Second slot of Beastmastery - If you are running longbow then you gain less benefit from <Trait name="Two-handed training"/> so both other traits in that slot can be options. <Trait name="Natural healing"/> is some passive healing if you would like it. <Trait name="Wilting Strike"/> can be useful if your weaver wants weakness uptime for <Trait name="Superior Elements"/>. 
 - Third slot of Soulbeast - <Trait id="2143"/> can be an alternative if you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> then swap traits right before you get in combat so your allies get the buff but you also end up with the higher personal DPS of having a 10% damage modifier.
@@ -114,8 +114,8 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 <GridItem sm="7">
 <Card title="Skill Usage">
 The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="exposed"/> on the boss. Also as <Specialization name="soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your weaver). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="exposed"/>.  
-
-**Weapon usage:**
+</Card>
+<Card title="Weapon Usage">
 - As a <Specialization name="Soulbeast"/> you want to always run offhand axe as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
 - As a mainhand you want to usually run Sword unless you have a short phase where you don't need to autoattack much in which case you should run mainhand axe so you can use <Skill name="Winters bite"/> just before the phase ends.
 - **You shouldn't run dagger mainhand in fractals as the phases are too short.**
@@ -123,11 +123,13 @@ The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to 
   - Longbow offers higher burst through the ability to precast <Skill name="Barrage"/> but falls off if you end up back on longbow and have to autoattack for a sustained period. Longbow also allows you to proc <Item id="84505"/> with <Skill id="12511"/> for a nice damage bonus.
   - Greatsword is the choice for if you have a long sustained dps phase that allows you to loop your rotation nicely. It offers nice movement through <Skill id="12521"/> as well as a nice damage bonus on your next skill when using <Skill id="12525"/>.
 
-**Pet usage:**
+</Card>
+<Card title="Pet Usage">
 - For pets you simply run <Skill id="43636" disableText/> [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) if you need CC or <Skill id="44617" disableText/> [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) if you don't. **It is safer to just run Gazelle most of the time and only swap to Moa when you are absolutely sure you don't need the CC. You never know when a little CC can come in handy!**
 - You want to have <Skill id="31568" disableText/> [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) on swap to have quick access if you need stealth for skips at any point.
 
-**Utility skill usage:**
+</Card>
+<Card title="Utility Skill Usage">
 - You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus**. One thing to keep in mind is that it only grants you 40% damage bonus against the targeted foe, so if you are cleaving trash mobs it might not be worth using as you would only get a damage bonus against one foe if you used it.
 - The choice between <Skill name="Frost trap"/> and <Skill name="Signet of the wild"/> depends on a lot of factors, mainly the phase length and downtime on phases where trap can recharge. For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="exposed"/> since it recharges during the island phase so trap is an obvious pick over signet.
 - For healing skills the usual choice is between <Skill name="We heal as one"/>, which extends your boons on use and is quite a large heal, and <Skill name="Bear stance"/>, which is nice if you need to cleanse conditions either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for example pushing orbs at Arkk.
@@ -137,6 +139,13 @@ The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to 
 **Skips:**
 - <Skill name="Quickening Zephyr"/> in combination with the <Item id="85244"/> allows you to move extremely fast and is useful for a few skips. Check the [Fractal Guides](/fractals) for specific skips.
 
+</Card>
+<Card title="Underwater">
+Underwater you can merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS or <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. Use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger and <Skill id="42797"/> for mobility on Shark. **Be careful when you swap pets since you can no longer pet swap in combat.**
+
+<Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/aquatic-ruins) often has <Instability name="Afflicted"/>. 
+
+For DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/> and <Skill name="Swirling Strike"/> deal good damage. **If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.**
 </Card>
 </GridItem>
 <GridItem sm="5">
@@ -148,11 +157,37 @@ The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to 
 | <Skill id="12638"/> | 150 damage (Axe 4) |
 | <Skill id="12475"/> | 150 damage (Greatsword 5) |
 </Card>
+<Card title="Golem Rotation">
+<Message>
+You should only use this rotation on longer phases since it is based around sustained DPS.
+</Message>
+1. <Skill name="One Wolf Pack"/>
+2. <Skill id="12525"/> with <Skill name="Sicem"/> during the cast (Greatsword 2)
+3. <Skill name="Hilt bash"/> (Greatsword 5)
+4. <Skill id="12525"/> (Greatsword 2)
+5. <Skill name="Worldly Impact"/> (F3)
+6. Swap weapons.
+7. <Skill name="Path of scars"/> (Axe 4)
+8. <Skill name="Whirling Defense"/> (Axe 5)
+9. <Skill id="41524"/> (F1)
+10. <Skill id="45743"/> (F2)
+11. 4x autoattack chains.
+12. <Skill name="Path of scars"/> (Axe 4)
+13. Swap weapons.
+14. <Skill id="12525"/> (Greatsword 2)
+15. 2x autoattack chains.
+16. <Skill id="12525"/> (Greatsword 2)
+17. <Skill id="45743"/> (F2)
+18. <Skill id="41524"/> (F1)
+19. 1x autoattack chain.
+20. Repeat from `Step 2`
+
+</Card>
 <Card title="Precast Rotation">
 If you have a Mistlock Singularity present you can use this rotation
 1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
 2. <Skill name="Moa Stance"/> __with <Trait name="Leader of the Pack"/>__.
-3. `Optional` use <Skill id="12537"/> then change back the utility that it was in place of.
+3. `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
 3. <Skill id="12621"/> to blast might.
 4. <Skill id="31914"/> to extend your boons.
 5. Pick up <Skill id="5516"/> if there is one.
@@ -166,14 +201,6 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 5. Pick up <Skill id="5516"/> if there is one.
 
 </Card>
-<Card title="Underwater">
-Underwater you can merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS or <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. Use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger and <Skill id="42797"/> for mobility on Shark. **Be careful when you swap pets since you can no longer pet swap in combat.**
-
-<Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/aquatic-ruins) often has <Instability name="Afflicted"/>. 
-
-For DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/> and <Skill name="Swirling Strike"/> deal good damage. **If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.**
-</Card>
-
 </GridItem>
 </Grid>
 </Tab>
@@ -184,7 +211,7 @@ For DPS rotation the same rules apply as above land, try to fit lots of damage i
 - Please also read through the [Nightmare fractal page](/fractals/nightmare) for general encounter information!
 
 <Message>
-These guides are only really applicable to an optimized group scenarios.
+These guides are only really applicable to an optimized group scenario.
 </Message>
 <Tabs>
 <Tab title="Mama">
@@ -382,7 +409,7 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 
 <Message>
-These guides are only really applicable to an optimized group scenarios.
+These guides are only really applicable to an optimized group scenario.
 </Message>
 <Tabs>
 <Tab title="Skorvald">
@@ -474,8 +501,8 @@ Use [consumables](/guides/consumables) to CC the adds.
 **66% and 33%**
 
 - Precast <Skill id="5531"/> if available and <Skill name="Barrage"/>.
-- <Skill name="Rapid fire"/> then dodge her slam attack **(do not use <Skill name="sicem"/> here)**.
-- <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
+- Once she becomes vulnerable use <Skill name="Rapid fire"/> **(do not use <Skill name="sicem"/> here)**.
+- Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - <Skill id="43548"/> then <Skill name="Worldlyimpact"/>.
 - <Effect name="hypernovalaunch"/> to the corner.
 - <Skill name="Rapid fire"/> and <Skill name="sicem"/> into the cast.
@@ -530,6 +557,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 Use [consumables](/guides/consumables) to CC the adds.
 - Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>.
+- Stay on longbow for the next phase.
 
 **33%**
 
@@ -641,6 +669,12 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="Rapidfire"/>.
 - Swap weapons.
 - <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
+
+**Additional note**
+- Wherever possible you should try to hit multiple targets with your <Skill name="Pathofscars"/>. 
+  - This can mean hitting an anomaly to help your <Specialization name="renegade"/> kill it.
+  - You can also pull the adds from the Archdiviner and Gladiator phase since your <Specialization name="Firebrand"/> can only pull two at a time.
+  - Pulling the adds is also great since they can really hurt your teams <Item id="24836"/> uptime.
 
 </Tab>
 </Tabs>
