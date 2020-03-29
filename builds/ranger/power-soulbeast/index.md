@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-03-28'
+date: '2020-03-29'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -29,7 +29,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
-<Armor weight="Medium" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Medium" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -38,7 +38,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Berserker" ring2Affix="Berserker"/>
 
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="might"/> pre-stacking.
