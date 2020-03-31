@@ -160,7 +160,7 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 
 <Tab specialization="elementalist">
-Start with pre-casting <Skill id="5528"/> on the first golem. Use <Skill id="5697"/> against the second and fourth golem, while the other elementalist kill the third and fifth golem.
+Use <Skill id="5697"/> against the golems next to a wall or box.
 </Tab>
 </Tabs>
 </GridItem>
