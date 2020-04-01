@@ -298,7 +298,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 ### **Prestacking**
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Blast 3 Stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>.
+- Blast 6 Stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>.
 - Use both charges of <Skill name="for great justice"/>
 - Take the mistlock and approach the boss.
 - Start on Maces.
