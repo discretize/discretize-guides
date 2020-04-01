@@ -298,7 +298,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 ### **Prestacking**
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Blast 12 Stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>.
+- Blast 6 Stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>.
 - Use both charges of <Skill name="for great justice"/>
 - Take the mistlock and approach the boss.
 - Start on Maces.
@@ -428,10 +428,9 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 <GridItem sm="6">
 <Card title="Skills and Traits">
-### **PuG friendly version without banner precast:**
 <UnembossedSkills healId="14401" utility1Id="30258" utility2Id="14405" utility3Id="14407" eliteId="30343"/>
 - Take <Trait name="smashbrawler"/>!  
-- It is recommended to play Greatsword in PuGs so you can easily cleave down the exploding adds! 
+- It is recommended to play Greatsword in PuGs so you can cleave down the exploding adds! 
 - Food: <Item id="43360"/>.
 - Utility: <Item id="50082"/>.
 </Card>
@@ -448,7 +447,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 ### **Prestacking**
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Blast 12 Stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>.
+- Blast 6 Stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>.
 - Use both charges of <Skill name="for great justice"/>.
 - Take the mistlock and approach the boss.
 - Start on Axes.
@@ -557,12 +556,12 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 <Card title="Skills and Traits">
 <UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343"/>
 - Take <Trait name="savageinstinct"/>!
-- Food: <Item id="91805"/>.
-- Utility: <Item id="50082"/>.
+- In slow teams (PuGs) bring <Trait name="smashbrawler"/> and <Skill name="outrage"/>.
+- In fast teams bring <Skill name="bullscharge"/> over <Skill name="signetofmight"/>.
 </Card>
 </GridItem>
 <GridItem sm="12">
-<Video/>
+
 </GridItem>
 </Grid>
 </GridItem>
@@ -574,8 +573,8 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 </GridItem>
 <GridItem sm="12">
 <Card title="Additional Information">
-- In slow teams (PuGs) it can make sense to bring <Trait name="smashbrawler"/> and <Skill name="outrage"/> instead.
-- In fast teams bring <Skill name="bullscharge"/> over <Skill name="signetofmight"/>.
+- Food: <Item id="91805"/>.
+- Utility: <Item id="50082"/>.
 </Card>
 </GridItem>
 </Grid>
@@ -607,7 +606,7 @@ Pick up your banners after you phased Ensolyss!
 ### **66% and 33%**
 
 Swap to your off set (mace/torch) and cap the circle. After you meet in the middle, continue with:
-- Use <Skill name="Flames of war"/> and blast 12 stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
+- Use <Skill name="Flames of war"/> and blast 6 stacks of <Boon name="might"/> with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
 - <Skill name="Mending"/>.
 - <Skill name="pommelbash"/> to trigger <Item name="severance"/>.
 - <Skill name="Headbutt"/>.
@@ -654,7 +653,7 @@ Swap to your off set (mace/torch) and cap the circle. After you meet in the midd
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>.
-- Blast 12 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
+- Blast 6 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
 - Take the mistlock.
 - While approaching the boss drop both of your <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. 
 - Precast <Skill name="Flames of war"/> for DPS then swap back to maces.
@@ -731,7 +730,7 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 - Drop a fire field with <Skill name="Flames of war"/>.
 - Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>.
-- Blast 12 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
+- Blast 6 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
 - Take the mistlock.
 - While approaching the boss drop both of your banners. Depending on your group DPS you either place them in the middle or at the corner.
 - Precast <Skill name="Flames of war"/> for DPS then swap back to maces.
@@ -827,7 +826,7 @@ It is not your job as <Specialization name="berserker"/> to slay the Temporal An
 - If there is time left use <Skill name="whirlingaxe"/>.
 
 ### *Archdiviner*
-- Blast a fire field that is provided by the <Specialization name="firebrand"/> or <Specialization name="weaver"/> with your banners to stack 12 stacks of <Boon name="might"/>.
+- Blast a fire field that is provided by the <Specialization name="firebrand"/> or <Specialization name="weaver"/> with your banners to stack 6 stacks of <Boon name="might"/>.
 - Engage <Skill name="berserk"/> as soon as possible.
 - Don't stand inside of AoEs, that strip your boons.
 - Use <Skill name="mending"/> when the Archdiviner is dead. 
@@ -851,7 +850,7 @@ It is not your job as <Specialization name="berserker"/> to slay the Temporal An
 - Pick up <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> at the of the phase.
 
 ### *Gladiator Phase*
-- Recast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/> into a fire field for 12 Stacks of <Boon name="might"/>
+- Recast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/> into a fire field for 6 Stacks of <Boon name="might"/>
 - Do what a <Specialization name="warrior"/> does.
 - When the mob dies, precast <Skill name="mending"/>.
 
