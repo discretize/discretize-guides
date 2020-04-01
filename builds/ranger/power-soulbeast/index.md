@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-03-31'
+date: '2020-04-01'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -381,12 +381,13 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - When the red circle appears around the arena start to cast <Skill id="5531"/> and then <Skill name="Barrage"/>.
 - <Skill name="Pointblankshot"/>,  <Skill id="45743"/> for instant CC. Start casting <Skill name="Pointblankshot"/> just before Ensolyss becomes vulnerable so you can hit both CC skills.
 - <Skill name="onewolfpack"/>, <Skill name="sicem"/>.
-- <Skill name="rapidfire"/>.
-- <Skill name="worldlyimpact"/>.
+- <Skill name="rapidfire"/> (You may need to cancel the end of the cast in order to make sure that <Skill name="Whirlingdefense"/> lands into <Effect name="Exposed"/>).
+- Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
+- <Skill name="worldlyimpact"/>.
 - Pick up <Skill name="conjurelightninghammer"/> if your weaver is kind enough to give you  one and use <Skill id="5725"/> (Skill 4).
-- AA with <Skill name="conjurelightninghammer"/> until its phased or your <Skill name="pathofscars"/> is back up.
-- If it still is not phased swap weapons and use <Skill name="rapidfire"/>.
+- AA with <Skill name="conjurelightninghammer"/> until your <Skill name="pathofscars"/> is off cd.
+- If it isn't phased yet swap weapons and use <Skill name="rapidfire"/>.
 
 **Orb phases**
 
@@ -399,12 +400,13 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - <Skill id="5531"/> if available and <Skill name="Barrage"/>.
 - <Skill name="pointblankshot"/> and <Skill id="45743"/> to CC. 
 - <Skill name="onewolfpack"/>, <Skill name="sicem"/>.
-- <Skill name="Rapidfire"/>.
-- <Skill name="worldlyimpact"/>.
+- <Skill name="rapidfire"/> (You may need to cancel the end of the cast in order to make sure that <Skill name="Whirlingdefense"/> lands into <Effect name="Exposed"/>).
+- Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
+- <Skill name="worldlyimpact"/>.
 - Pick up <Skill name="conjurelightninghammer"/> if your weaver is kind enough to give you  one and use <Skill id="5725"/> (Skill 4).
-- AA with <Skill name="conjurelightninghammer"/> until its phased or your <Skill name="pathofscars"/> is back up.
-- If it still is not phased swap weapons and use <Skill name="rapidfire"/>.
+- AA with <Skill name="conjurelightninghammer"/> until your <Skill name="pathofscars"/> is off cd.
+- If it isn't phased (or dead) yet swap weapons and use <Skill name="rapidfire"/>.
 
 </Tab>
 </Tabs>
@@ -555,7 +557,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 - When Artsariiv becomes vulnerable, sword autoattack and use <Skill id="41524"/>, <Skill id="45743"/> and <Skill name="pathofscars"/> when they come off of cd.
 - Dodge her slam attack and use <Skill name="sicem"/> in combination with <Skill name="Whirlingdefense"/>.
-- Swap to longbow as she teleports to fire her laser and use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>, then <Skill name="Rapid fire"/>.
+- Swap to longbow as she teleports to fire her laser and use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>, then <Skill name="Rapid fire"/>. **Make sure to look away when she actually fires the laser so you don't get <Condition name="Fear"/>ed.**
 - Wait in the middle for your team to stack <Boon name="Might"/>, then use <Effect name="hypernovalaunch"/> to the corner to avoid the slam wave.
 - Use <Skill id="45743"/>, <Skill id="41524"/> and <Skill name="Worldlyimpact"/>, followed by <Skill name="Rapid fire"/> until she phases.
 
@@ -583,7 +585,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="12483" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
-- Pet: <Skill id="44617" disableText/> Red Moa.
+- Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/>.
 - Utility: <Item id="50082"/>.
@@ -617,10 +619,10 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 **80-70%**
 
-- Use <Skill name="Pathofscars"/> as you run back to Arkk. 
+- Use <Skill name="Pathofscars"/> as you run (or <Effect name="hypernovalaunch"/> or <Skill id="45743"/>) back to Arkk. 
 - Swap weapons.
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-- <Skill name="Rapidfire"/>, <Skill id="43548"/>.
+- <Skill name="Rapidfire"/>, <Skill id="45743"/>, <Skill id="41524"/> until its phased.
 
 **Archdiviner phase**
 
@@ -641,12 +643,10 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 - Swap to longbow and autoattack to push the orb.
 
-
 **50-40%**
 
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-
-- <Skill name="Rapidfire"/>, <Skill id="43548"/>.
+- <Skill name="Rapidfire"/>, <Skill id="45743"/>, <Skill id="41524"/> until its phased.
 - Precast <Skill name="Barrage"/> for the Gladiator.
 
 **Gladiator phase**
@@ -661,7 +661,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Pull a second add with <Skill name="Path of scars"/>.
 - Swap weapons.
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-- <Skill name="Rapidfire"/>, <Skill id="43548"/>.
+- <Skill name="Rapidfire"/>, <Skill id="45743"/>, <Skill id="41524"/> until its phased.
 
 **3rd Orb Phase**
 
@@ -675,8 +675,10 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="Rapidfire"/>.
 - Swap weapons.
 - <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
+- Continue with filler skills like <Skill id="45743"/>, <Skill id="41524"/> and <Skill name="Worldlyimpact"/> until Arkk is dead.
 
-**Additional note**
+**Additional notes**
+- Resummon your <Skill name="Frost spirit"/> whenever you have downtime when you can't attack (i.e. whilst you are waiting for Arkk, the Archdiviner or Gladiator to spawn on the platform or during an orb phase if you have the time).
 - Wherever possible you should try to hit multiple targets with your <Skill name="Pathofscars"/>. 
   - This can mean hitting an anomaly to help your <Specialization name="renegade"/> kill it.
   - You can also pull the adds from the Archdiviner and Gladiator phase since your <Specialization name="Firebrand"/> can only pull two at a time.
