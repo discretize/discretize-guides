@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'Banner Warrior'
-date: '2020-03-28'
+date: '2020-04-01'
 rating: 'T4'
 role: 'Support'
 profession: 'Warrior'
@@ -105,7 +105,7 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 
 <Divider text="Might Sharing Variant"/>
 
-If you're running without a Druid or Renegade, you need to provide <Boon name="might"/> (and <Boon name="fury"/> to some degree) for the party. This is achieved with the following changes to the build:
+If you're running without a <Specialization name="druid"/> or <Specialization name="renegade"/> (for whatever unlogical reason), you need to provide <Boon name="might"/> (and <Boon name="fury"/> to some degree) for the party. This is achieved with the following changes to the build:
 
 - 6x <Item name="Strength" type="Rune"/> instead of <Item name="Scholar" type="Rune"/>
 - <Item name="Fried Golden Dumpling" type="Food"/> instead of <Item id="41569"/>
@@ -145,8 +145,8 @@ Everything else stays the same. Note that your CC suffers without <Skill id="145
 
 If the Mistlock Singularity is easily accessible and close to the encounter:
 
-- for very short encounters (<70 seconds) pre cast <Skill id="14407"/> <Skill id="14405"/> <Skill id="14408"/> or <Skill id="14528"/> and <Skill id="14419"/> and use <Skill id="14516"/> and <Skill id="14410"/> instead of the usual <Skill id="14407"/> and <Skill id="14405"/>. Activate <Skill id="14410"/> during burst phase (e.g. right before using <Skill id="14399"/>)
-- for longer encounters (>70 seconds) use e.g. <Skill id="12363"/> before picking up the Mistlock Singularity
+- for very short encounters (<50 seconds) pre cast <Skill id="14407"/> <Skill id="14405"/> <Skill id="14408"/> or <Skill id="14528"/> and <Skill id="14419"/> and use <Skill id="14516"/> and <Skill id="14410"/> instead of the usual <Skill id="14407"/> and <Skill id="14405"/>. Activate <Skill id="14410"/> during burst phase (e.g. right before using <Skill id="14399"/>)
+- for longer encounters (>50 seconds) use e.g. <Skill id="12363"/> before picking up the Mistlock Singularity
 
 Several Warrior skills involving movement and or leaps such as <Skill id="14446"/>  
 <Skill id="14447"/> <Skill id="45252"/> <Skill id="46233"/> <Skill id="14424"/> <Skill id="14502"/> and <Skill id="14366"/> cannot be canceled by stow/draw weapons but by using weapon swap.
