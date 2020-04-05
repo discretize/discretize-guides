@@ -463,7 +463,6 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 
 **Anomalies**
 - Make sure to blast your fire fields and cast <Skill id="5529"/> to travel faster between anomalies.
-
 - Don't get knocked, jump/dodge the waves.
 - Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the Portal back to the boss.
  
@@ -473,13 +472,13 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 - Be on max melee range before the boss starts spinning, dont die like a scrub.
 
 **Tryhard/Static run**
-- Take <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases (Also ez might).
+- Take <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases (Also ez <Boon name="might"/>).
 - Make sure to drop your <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="soulbeast"/> can pick it up before taking the Portal
 <Message>
 One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four _Elite Flux Anomalies_. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
 </Message>
 
-<Video title="Video Guide by Tym" youtube="v=DaKI7Ccr_Ss"/>
+<Video title="Video Guide by Tym" youtube="DaKI7Ccr_Ss"/>
 
 </Tab>
 <Tab title="Artsariiv">
