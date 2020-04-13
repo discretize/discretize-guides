@@ -186,7 +186,7 @@ After the fight is over, take the portal in the North and move forward to get to
 
 <Grid>
 <GridItem sm="8">
-Arkk is the third and final boss of the fractal. An attentive player may have noticed the <Effect name="hypernovalaunch"/> special action key became even stronger now, doing medium damage, a 200 <Control name="launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
+Arkk is the third and final boss of the fractal. An attentive player may have noticed the <Effect name="hypernovalaunch"/> special action key became even stronger now, doing medium damage, a 232 <Control name="launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
 
 In contrast to the other enemies in this fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him.
 
