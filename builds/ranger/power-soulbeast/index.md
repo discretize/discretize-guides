@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-04-01'
+date: '2020-04-12'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -143,15 +143,6 @@ For your second weaponset you either run greatsword or longbow:
 - <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phase to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
 - <Skill name="Quickening Zephyr"/> in combination with the <Item id="85244"/> allows you to move extremely fast and is useful for a few skips. Check the [Fractal Guides](/fractals) for specific skips.
 
-**Underwater:**
-
-For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/> and <Skill name="Swirling Strike"/> deal good damage. 
-- Underwater you want to merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS or <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. **Be careful when you swap pets since you can no longer pet swap in combat.**
-  - Use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger 
-  - Use <Skill id="42797"/> for mobility on Shark. 
-- <Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/aquatic-ruins) often has <Instability name="Afflicted"/>. 
-- **If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.**
-
 </Card>
 </GridItem>
 <GridItem sm="5">
@@ -209,6 +200,21 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 </Card>
 </GridItem>
 </Grid>
+<Card title="Underwater Guide">
+
+For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/>, <Skill name="Swirling Strike"/> as well as your autoattack chain deal good damage. 
+
+Underwater the pet you use for DPS depends on the situation just like above land:
+- You want to merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS as well as <Boon name="Fury"/> uptime. You want to use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger, additionally during DPS downtime (The split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime.
+- If you don't need the <Boon name="Fury"/> uptime then you can consider using <Skill id="43068" disableText/> [Lashtail Devourer](https://wiki.guildwars2.com/wiki/Juvenile_Lashtail_Devourer) as a DPS pet. You want to use <Skill name="Worldly impact"/> for DPS as well as <Skill id="43068"/> off cd so that you proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
+- Finally when you want to move around very fast then you can merge with <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. You simply use <Skill id="42797"/> to move around. 
+
+**Bonus Tips:**
+- **Be careful when you swap pets since you can no longer pet swap in combat.**
+- <Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/fractals/aquatic-ruins) often has <Instability name="Afflicted"/>. 
+- **If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.**
+
+</Card>
 </Tab>
 
 <Tab title="99CM">
@@ -385,8 +391,7 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
 - <Skill name="worldlyimpact"/>.
-- Pick up <Skill name="conjurelightninghammer"/> if your weaver is kind enough to give you  one and use <Skill id="5725"/> (Skill 4).
-- AA with <Skill name="conjurelightninghammer"/> until your <Skill name="pathofscars"/> is off cd.
+- Autoattack for victory until your <Skill name="pathofscars"/> is off cd.
 - If it isn't phased yet swap weapons and use <Skill name="rapidfire"/>.
 
 **Orb phases**
@@ -404,9 +409,12 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
 - <Skill name="worldlyimpact"/>.
-- Pick up <Skill name="conjurelightninghammer"/> if your weaver is kind enough to give you  one and use <Skill id="5725"/> (Skill 4).
-- AA with <Skill name="conjurelightninghammer"/> until your <Skill name="pathofscars"/> is off cd.
+- Autoattack for victory until your <Skill name="pathofscars"/> is off cd.
 - If it isn't phased (or dead) yet swap weapons and use <Skill name="rapidfire"/>.
+
+**Additional notes**
+
+- If you find that you end up back on longbow because the phases are very long then you should swap <Item id="24868"/> for <Item id="24615"/> in your longbow.
 
 </Tab>
 </Tabs>
