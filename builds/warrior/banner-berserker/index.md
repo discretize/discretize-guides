@@ -1,6 +1,6 @@
 ---
 title: 'Berserker'
-date: '2020-03-28'
+date: '2020-04-18'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
@@ -229,20 +229,20 @@ If using <Skill id="14483"/>:
 
 <GridItem sm="6">
 <Card title="Rotation">
-**Ultra short fights (3 seconds):**
+**Ultra short phases (3 seconds):**
 - <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
 
 or depending on the phase length:
 - <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
 - <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
 
-**Short fights (6 seconds):**
+**Short phases (6 seconds):**
 - <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
 - <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
 - <Skill name="whirlingaxe"/> and <Skill name="decapitate"/>.
 - <Skill name="cycloneaxe"/>, <Skill name="chop"/> and <Skill name="decapitate"/>.
 
-**Longer fights fights:**
+**Longer phases (>10 seconds):**
 - <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
 - <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
 - <Skill name="whirlingaxe"/> and <Skill name="decapitate"/>.
