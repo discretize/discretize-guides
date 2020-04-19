@@ -316,7 +316,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 - Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>. 
 - Take the mistlock.
 - Go to the boss using <Skill id="5697"/> and drop your <Skill id="5516"/>. Cast <Skill id="5501"/> where MAMA spawns. Equip your Sword/Dagger and attune to <Skill id="5494"/>/<Skill id="5494"/> before the <Skill id="5501"/> animation finishes and start the boss!
-- 
+
 **General**
 - In faster groups, take <Skill id="44612"/> instead of <Skill id="40183"/>.
 
@@ -384,10 +384,10 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 - Cast <Skill id="5531"/> and <Skill id="5737"/> (if you did not use it at 100%) just before Siax becomes vulnerable.   
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/>  -> <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
 - Continue your auto attack chain till siax phases (or repeat the rotation if the dps is super low).
-- 
+
 **2nd Echo**
 - Same as previous echo.
-- 
+
 **33%**
 - Cast <Skill id="5531"/> and <Skill id="5737"/> (if you used it at 100%) just before Siax becomes vulnerable.   
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/>  -> <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
@@ -405,7 +405,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 - Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>. 
 - Take the mistlock.
 - Cast <Skill id="5531"/>, drop your <Skill id="5516"/> and cast <Skill id="5501"/> where Ensolyss spawns. Equip your Sword/Dagger and attune to <Skill id="5494"/>/<Skill id="5494"/> before the <Skill id="5501"/> animation finishes and start the boss!
-- 
+
 **100%**
 - <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
 - Complete your auto attack chains and repeat burst till Ensolyss phases.
