@@ -159,7 +159,7 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait name="Pyromancers Puissance" size="big" disableText/> | Take this instead of <Trait id="1510"/> after you precast for self sufficient might. Recommended in Pugs every time.
+| <Trait name="Pyromancers Puissance" size="big" disableText/> | Take this instead of <Trait id="1510"/> after you precast for self sufficient might. Recommended in PuGs every time.
 | <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
 | <Trait name="Aeromancers Training" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
