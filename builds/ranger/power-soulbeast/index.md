@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-04-12'
+date: '2020-04-20'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -55,19 +55,18 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
 <Armor weight="Medium" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Card title="Extra Note">
+You need Fractal God, <Item id="86175"/> and <Item id="70596"/>!
+</Card>
 </GridItem>
 
 <GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
-<Card title="Extra note">
-You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
-</Card>
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
-
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="might"/> pre-stacking.
 * Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>.
@@ -85,7 +84,6 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 <GridItem sm="7">
 <Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128"/>
 </GridItem>  
-
 <GridItem sm="5">
 <Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 <Card title="Pets">
@@ -97,15 +95,25 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/> !
 </Card>  
 </GridItem>
 </Grid>
-<Card title="Trait Variations">
-- First slot of Marksmanship - <Trait name="Clarion Bond"/> can be useful if the blast and team might is more advantageous than the self might from <Trait name="Huntersgaze"/>.
-- Second slot of Beastmastery - If you are running longbow then you gain less benefit from <Trait name="Two-handed training"/> so both other traits in that slot can be options. <Trait name="Natural healing"/> is some passive healing if you would like it. <Trait name="Wilting Strike"/> can be useful if your weaver wants weakness uptime for <Trait name="Superior Elements"/>. 
-- Third slot of Soulbeast - <Trait id="2143"/> can be an alternative if you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> then swap traits right before you get in combat so your allies get the buff but you also end up with the higher personal DPS of having a 10% damage modifier.
-- **If you can be 100% sure that you have the ability to flank the boss permanently** then you can consider swapping Marksmanship for Skirmishing with the following setup:
 
-<UnembossedTraits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1075,1016,1888"/>
-
+<Divider text="Variations"/>
+<Grid>
+<GridItem sm="7">
+<Card title="Skirmishing Variant">
+**If you can be 100% sure that you have the ability to flank the boss permanently** then you can consider swapping Marksmanship for Skirmishing with the following trait setup:
+<UnembossedTraits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888"/>
 </Card>
+</GridItem> 
+<GridItem sm="5">
+<Card title="Situational Traits">
+| | |
+| -- | -- |
+| <Trait name="Clarion Bond" size="big" disableText/> | Can be useful if the blast and team <Boon name="might"/> is more advantageous than the self <Boon name="might"/> from <Trait name="Huntersgaze"/>. |
+| <Trait name="Natural healing" size="big" disableText/> | Take this instead of <Trait name="Two-handed training"/> if you are running longbow and want some passive healing. |
+| <Trait id="2143" size="big" disableText/> | On short T4 fights you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> for your allies then swap traits right before you get in combat. |
+</Card>
+</GridItem> 
+</Grid>
 </Tab>
 
 <Tab title="Guide">
@@ -137,7 +145,7 @@ For your second weaponset you either run greatsword or longbow:
 - You default second utility is <Skill name="Signet of the wild"/> which is a nice passive stat increase. Depending on the situation you can instead run <Skill name="Frost trap"/> which offers higher burst potential. The situations when you want to run trap depend upon phase length and downtime on phases where trap can recharge.
   - For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="exposed"/> since it recharges during the island phase so trap is an obvious pick over signet.
 - Most healing skills on ranger are quite useful: <Skill name="We heal as one"/> is a large heal and extends the boons on yourself thanks to <Skill id="42944"/>. Secondly <Skill name="Bear stance"/> is a great condi cleanse either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for pushing orbs at Arkk in order to enter the damage field.
-- **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team.**
+- **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team!**
 
 **Extra Notes:**
 - <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phase to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
@@ -183,7 +191,7 @@ You should only use this rotation on longer phases since it is based around sust
 <Card title="Precast Rotation">
 If you have a Mistlock Singularity present you can use this rotation
 1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-2. <Skill name="Moa Stance"/> __with <Trait name="Leader of the Pack"/>__.
+2. <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
 3. `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
 3. <Skill id="12621"/> to blast might.
 4. <Skill id="31914"/> to extend your boons.
@@ -202,15 +210,14 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 </Grid>
 <Card title="Underwater Guide">
 
-For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/>, <Skill name="Swirling Strike"/> as well as your autoattack chain deal good damage. 
+For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/>, <Skill name="Swirling Strike"/> as well as your autoattack chain deal good damage. You should swap back to Harpoon gun at the start of the split phase of the Jellyfish Beast in order to range the split adds as well as allowing you to restart your rotation when the split phase ends.
 
-Underwater the pet you use for DPS depends on the situation just like above land:
+**Underwater the pet you use for DPS depends on the situation just like above land:**
 - You want to merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS as well as <Boon name="Fury"/> uptime. You want to use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger, additionally during DPS downtime (The split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime.
 - If you don't need the <Boon name="Fury"/> uptime then you can consider using <Skill id="43068" disableText/> [Lashtail Devourer](https://wiki.guildwars2.com/wiki/Juvenile_Lashtail_Devourer) as a DPS pet. You want to use <Skill name="Worldly impact"/> for DPS as well as <Skill id="43068"/> off cd so that you proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
-- Finally when you want to move around very fast then you can merge with <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. You simply use <Skill id="42797"/> to move around. 
+- Finally when you want to move around very fast then you can merge with <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. You simply use <Skill id="42797"/> to move around. **Be careful when you swap pets since you can no longer pet swap in combat!**
 
 **Bonus Tips:**
-- **Be careful when you swap pets since you can no longer pet swap in combat.**
 - <Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/fractals/aquatic-ruins) often has <Instability name="Afflicted"/>. 
 - **If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.**
 
@@ -322,7 +329,9 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 
 **Precast**
 
-Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>. Pick up the <Skill id="5516"/>, share <Skill name="One wolf pack"/> and finally take the mistlock and go through the portal.
+- Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. 
+- Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>.
+- Pick up the <Skill id="5516"/>, share <Skill name="One wolf pack"/> and finally take the mistlock and go through the portal.
 
 **Opening**
 - Summon <Skill name="Frostspirit"/> when you go through the portal.
@@ -391,7 +400,7 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
 - <Skill name="worldlyimpact"/>.
-- Autoattack for victory until your <Skill name="pathofscars"/> is off cd.
+- Autoattack until your <Skill name="pathofscars"/> is off cd.
 - If it isn't phased yet swap weapons and use <Skill name="rapidfire"/>.
 
 **Orb phases**
@@ -409,7 +418,7 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
 - <Skill name="worldlyimpact"/>.
-- Autoattack for victory until your <Skill name="pathofscars"/> is off cd.
+- Autoattack until your <Skill name="pathofscars"/> is off cd.
 - If it isn't phased (or dead) yet swap weapons and use <Skill name="rapidfire"/>.
 
 **Additional notes**
@@ -468,7 +477,7 @@ You can do any portal in this fight except from island 3 to 4 as you want to sum
 - Resummon <Skill name="Frostspirit"/> on the last island. Take the portal early to teleport <Skill name="Frostspirit"/> to you.
 
 **66% and 33%**  
-In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/> hit while Skorvald is broken and therefore has <Effect name="Exposed"/>. 
+In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/> hit while Skorvald has <Effect name="Exposed"/> which he has right after you kill the final add. 
 - Precast <Skill name="Barrage"/> before Skorvald becomes vulnerable.
 - **Don't use <Skill name="Onewolfpack"/> in phase 2 unless you don't think you'll make the dps check.**
 - Do use <Skill name="Onewolfpack"/> in phase 3.
@@ -572,8 +581,8 @@ Use [consumables](/guides/consumables) to CC the adds.
 **Add CC Phase**
 
 Use [consumables](/guides/consumables) to CC the adds.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>.
 - Stay on longbow for the next phase.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>.
 
 **33%**
 
@@ -636,7 +645,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 - The <Specialization name="weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
 - You can use <Skill name="Worldlyimpact"/> and <Skill name="Fieryrush"/> to damage the Archdiviner. 
-- When the archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with the <Effect name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing.
+- When the archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing.
 - When the archdiviner dies, precast <Skill id="5531"/>, <Skill name="Barrage"/> and <Skill name="Frosttrap"/>.
 
 **70-50%**
