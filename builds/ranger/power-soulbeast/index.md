@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-04-20'
+date: '2020-04-21'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -212,7 +212,7 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 
 For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/>, <Skill name="Swirling Strike"/> as well as your autoattack chain deal good damage. You should swap back to Harpoon gun at the start of the split phase of the Jellyfish Beast in order to range the split adds as well as allowing you to restart your rotation when the split phase ends.
 
-**Underwater the pet you use for DPS depends on the situation just like above land:**
+Underwater the pet you use for DPS depends on the situation just like above land:
 - You want to merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS as well as <Boon name="Fury"/> uptime. You want to use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger, additionally during DPS downtime (The split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime.
 - If you don't need the <Boon name="Fury"/> uptime then you can consider using <Skill id="43068" disableText/> [Lashtail Devourer](https://wiki.guildwars2.com/wiki/Juvenile_Lashtail_Devourer) as a DPS pet. You want to use <Skill name="Worldly impact"/> for DPS as well as <Skill id="43068"/> off cd so that you proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
 - Finally when you want to move around very fast then you can merge with <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. You simply use <Skill id="42797"/> to move around. **Be careful when you swap pets since you can no longer pet swap in combat!**
@@ -229,9 +229,6 @@ For a DPS rotation the same rules apply as above land, try to fit lots of damage
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [Nightmare fractal page](/fractals/nightmare) for general encounter information!
 
-<Message>
-These guides are only really applicable to an optimized group scenario.
-</Message>
 <Tabs>
 <Tab title="Mama">
 <Divider text="MAMA"/>
@@ -389,13 +386,16 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 </Message>
 
-In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moastance"/> over <Skill name="Frost trap"/>. Use <Skill name="Moastance"/> at the beginning of each phase.
+If you are playing with a <Specialization name="Dragonhunter"/> instead of a <Specialization name="Firebrand"/> you want to play <Skill name="Moastance"/> over <Skill name="Frost trap"/>. You simply use <Skill name="Moastance"/> at the beginning of each phase to help your team apply boons.
+
+If you are playing with a second <Specialization name="Soulbeast"/> then you can both run <Skill name="Frost trap"/> and then one <Specialization name="Soulbeast"/> takes <Skill name="Frost spirit"/> and the other takes <Skill name="Moastance"/>.
 
 **Opening**
 - Summon <Skill id ="12497"/> as you run towards the boss orb.
 - When the red circle appears around the arena start to cast <Skill id="5531"/> and then <Skill name="Barrage"/>.
 - <Skill name="Pointblankshot"/>,  <Skill id="45743"/> for instant CC. Start casting <Skill name="Pointblankshot"/> just before Ensolyss becomes vulnerable so you can hit both CC skills.
 - <Skill name="onewolfpack"/>, <Skill name="sicem"/>.
+- (<Skill name="Frost trap"/> if you are running it.)
 - <Skill name="rapidfire"/> (You may need to cancel the end of the cast in order to make sure that <Skill name="Whirlingdefense"/> lands into <Effect name="Exposed"/>).
 - Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
@@ -415,6 +415,7 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - <Skill name="pointblankshot"/> and <Skill id="45743"/> to CC. 
 - <Skill name="onewolfpack"/>, <Skill name="sicem"/>.
 - <Skill name="rapidfire"/> (You may need to cancel the end of the cast in order to make sure that <Skill name="Whirlingdefense"/> lands into <Effect name="Exposed"/>).
+- (<Skill name="Frost trap"/> if you are running it.)
 - Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
 - <Skill name="worldlyimpact"/>.
@@ -433,9 +434,6 @@ In no <Specialization name="Firebrand"/> comp you wanna play <Skill name="Moasta
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 
-<Message>
-These guides are only really applicable to an optimized group scenario.
-</Message>
 <Tabs>
 <Tab title="Skorvald">
 <Divider text="Skorvald"/>
