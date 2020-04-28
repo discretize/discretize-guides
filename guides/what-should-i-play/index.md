@@ -1,6 +1,6 @@
 ---
 title: 'What Should I Play?'
-date: '2020-03-29'
+date: '2020-04-28'
 image: './images/whatshouldiplaylogo.png'
 description: 'If you do not know what class you want to play.'
 ---
@@ -12,7 +12,7 @@ description: 'If you do not know what class you want to play.'
 <Tab title="DPS roles">
 | | |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Specialization name="Soulbeast"/> |1. Medium learning curve<br/><br/>2. High damage<br/><br/>3. Can extend all boons on yourself<br/><br/>4. Need good knowledge of fights for positioning<br/><br/>5. Harder to play without a static<br/>[Click here for the build!](/builds/ranger/power-soulbeast)<br/><br/>  |
+| <Specialization name="Soulbeast"/> |1. High learning curve, hard to master<br/><br/>2. High damage<br/><br/>3. Can extend all boons on yourself<br/><br/>4. Need good knowledge of fights for positioning<br/><br/>5. Harder to play without a static<br/>[Click here for the build!](/builds/ranger/power-soulbeast)<br/><br/>  |
 | <Specialization name="Weaver"/> | <br/>1. High learning curve, hard to master<br/><br/>2. High, consistent damage, very squishy<br/><br/>3. Reliant on other classes for boons like <Boon name="Alacrity"/>, <Boon name="Quickness"/><br/><br/>4. You are a source of <Boon name="Might"/> and <Boon name="Fury"/> by blasting fire fields (even during a fight)<br/><br/>5. You will be top damage on almost all bosses if you have the needed boons<br/>[Click here for the build!](/builds/elementalist/power-sword-weaver)   |
 </Tab>
 <Tab title="Support roles">
