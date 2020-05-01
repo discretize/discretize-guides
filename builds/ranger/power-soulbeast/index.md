@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-04-21'
+date: '2020-05-01'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -237,11 +237,9 @@ Underwater the pet you use for DPS depends on the situation just like above land
 <Card title="Skills and Traits">
 <UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Traits: <Trait id="2128"/> although <Trait id="2143"/> can also work.
+- Traits: <Trait id="2143"/>.
 - Food: <Item id="43360"/>.
 - Utility: <Item id="50082"/>.
-- **Make sure to use [consumables](/guides/consumables) if necessary on the adds!**
-- It can be worth to run <Item id="82876"/> instead of <Item id="24615"/> on longbow depending on fight length.
 
 </Card>
 </GridItem>
@@ -250,9 +248,16 @@ Underwater the pet you use for DPS depends on the situation just like above land
 </GridItem>
 </Grid>
 <Divider text="HOW TO PLAY"/>
+<Message> 
+**Make sure to use [consumables](/guides/consumables) if necessary on the adds! Good CC is extremely important in this fight!**
+</Message>
+In faster kills you want to run <Item id="82876"/> instead of <Item id="24615"/> on longbow.
+
 **Precast**  
-- Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>.
-- Make sure to cast <Skill id="12497"/> before you precast <Skill id="5531"/> and <Skill name="Barrage"/> on MAMA.
+- Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>. 
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>.
+- You want to double share <Skill name="OneWolfPack"/> with <Trait id="2128"/> (once at the mistlock and once as you run or <Item id="78978"/> to the boss) before swapping to <Trait id="2143"/> before you get in combat.
+- Make sure to summon <Skill id="12497"/> before you precast <Skill id="5531"/> and <Skill name="Barrage"/> on MAMA.
 
 **Opening**
 
@@ -260,46 +265,47 @@ Underwater the pet you use for DPS depends on the situation just like above land
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - Swap weapons.
 - <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
-- It should be phased now.
 
 **1st Add**
 - Help CCing with <Skill id="45743"/>.
 - Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>.
 
-**2nd phase**
+**2nd Phase**
 
-When you go back back to MAMA, autoattack on sword and use <Skill name="One Wolf Pack"/>.
-- <Skill name="Path of scars"/> when it is off cd.
-- Swap weapons instantly and you should proc <Item id="84505"/>.
+When you go back back to MAMA, autoattack on sword/axe. You can use <Skill name="Monarchs leap"/> to jump back to MAMA if you want.
+- <Skill name="Path of scars"/> when it is off cd. 
+- Swap weapons.
+- <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - <Skill name="Rapid Fire"/>.
 - <Skill name="Cold Snap"/> to summon the frost spirit into the bubble.
-- <Skill id="45743"/> and <Skill id="41524"/>.
-- You can start walking to the 2nd add spawn and longbow autoattack once the bubble attack has completed. 
+
+You can start walking to the 2nd add spawn and longbow autoattacking once the bubble attack has completed. 
 
 **2nd Add**
-- Help CCing with <Skill name="Point Blank Shot"/>.
+- Help CCing with <Skill id="45743"/>.
 - Precast <Skill name="Barrage"/> to hit MAMA and the add.
 - Use a mix of <Skill name="Rapid Fire"/> and autoattacks to kill the add.
 
-**3rd phase**
+**3rd Phase**
 
-- <Skill name="Sicem"/> as soon as MAMA is vulnerable after the add is dead.
-- <Skill id="45743"/> to get back to MAMA, CC and proc <Item id="84505"/>.
+- <Skill name="Sicem"/>.
+- <Skill name="Point Blank Shot"/> to CC and proc <Item id="84505"/>.
 - Swap weapons.
 - <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
-- You can use <Skill name="Monarchs Leap"/> for a free leap away from the poison field and to get to the add faster.
+
+Once MAMA hits 25% you can use <Skill name="Monarchs Leap"/> for a free leap away from the poison field and to get to the add faster.
 
 **3rd Add**  
 - Resummon your <Skill id="12497"/> as it has probably died by now.
+- Swap weapons as soon as it is off cd (<Skill name="Path of scars"/> if you can before swapping). 
 - Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>.
-- <Skill name="Path of scars"/> and swap weapons when it is off cd.
 
-**4th phase**
+**4th Phase**
 - Try to cast <Skill name="Barrage"/> so it doesn't get interrupted by MAMA jumping.
-- Use <Skill name="Point Blank Shot"/> and <Skill id="45743"/> to CC.
+- Use <Skill name="Point Blank Shot"/> and <Skill id="45743"/> to CC and proc <Item id="84505"/>.
 - <Skill name="Rapid Fire"/>.
-- Use your dps skills as soon as they come off cd and don't cry from having to autoattack on longbow.
 
+Use your DPS skills as soon as they come off cd and don't cry from having to autoattack on longbow.
 </Tab>
 <Tab title="Siax">
 <Divider text="Siax"/>
@@ -326,17 +332,17 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 
 **Precast**
 
-- Precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. 
-- Remember to share <Skill name="Moastance"/> and blast with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/>, share <Skill name="One wolf pack"/> and finally take the mistlock and go through the portal.
+- Precast <Skill name="Frosttrap"/> on the boss orb like a <Specialization name="Dragonhunter"/> in disguise.
+- Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
 
 **Opening**
 - Summon <Skill name="Frostspirit"/> when you go through the portal.
 - Precast <Skill id="5531"/> and then <Skill name="Barrage"/>.
-- <Skill name="Frosttrap"/> as soon as your first trap procs so you have two of those ticking at the same time.
+- <Skill name="Frosttrap"/> as soon as your first trap procs so you have both ticking at the same time.
 - <Skill name="Sicem"/> as soon as Siax is targetable.
 - <Skill name="Rapidfire"/> and <Skill id="41524"/> before the breakbar.
-- CC: <Skill name="Pointblankshot"/> and <Skill id="45743"/>.
+- <Skill id="45743"/> followed by <Skill name="Pointblankshot"/> to CC.
 - When the bar breaks use <Skill name="Worldlyimpact"/> then swap weapons and <Skill name="Path of scars"/> to land both attacks into <Effect name="Exposed"/>.
 - You shouldn't use <Skill name="Whirling defense"/> in phase 1.
  
@@ -348,10 +354,11 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 - Use <Skill name="Hornet Sting"/> to get back to Siax. 
 - Use <Skill name="onewolfpack"/> in the middle to share it to your allies.
 - Autoattack and use <Skill name="Path of scars"/>, <Skill id="45743"/> and <Skill id="41524"/>.
-- Swap to longbow at around 40% so weapon swap is off of cd for phase 3.
+- Swap to longbow at around 40% so weapon swap is back off cd for phase 3.
 
 **2nd Add**  
-- You want to stand at range to benefit from <Trait name="Farsighted"/> as well as you might want to use <Skill name="wehealasone"/> to make sure you have <Trait id="974"/> and <Item id="24836"/> as damage modifiers to kill the add.
+
+You want to stand at range to benefit from <Trait name="Farsighted"/> as well as you might want to use <Skill name="wehealasone"/> to make sure you have <Trait id="974"/> and <Item id="24836"/> as damage modifiers to kill the add.
 - Use longbow skills to kill your add: <Skill name="pointblankshot"/> and <Skill name="rapidfire"/>.
 - The remaining damage should be dealt by the <Specialization name="Dragonhunter"/> with a <Skill name="Swordofjustice"/>.
 - Once the add is dead precast <Skill name="Barrage"/> on Siax for phase 3.
@@ -365,6 +372,8 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 
 </Tab>
 <Tab title="Ensolyss">
+<Tabs>
+<Tab title="Weaver Comp">
 <Divider text="ensolyss"/>
 <Grid>
 <GridItem sm="6">
@@ -388,15 +397,17 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 
 If you are playing with a <Specialization name="Dragonhunter"/> instead of a <Specialization name="Firebrand"/> you want to play <Skill name="Moastance"/> over <Skill name="Frost trap"/>. You simply use <Skill name="Moastance"/> at the beginning of each phase to help your team apply boons.
 
-If you are playing with a second <Specialization name="Soulbeast"/> then you can both run <Skill name="Frost trap"/> and then one <Specialization name="Soulbeast"/> takes <Skill name="Frost spirit"/> and the other takes <Skill name="Moastance"/>.
+**Precast**
+
+- Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and run to the boss.
+- Summon <Skill id ="12497"/> as you run towards the boss orb.
 
 **Opening**
-- Summon <Skill id ="12497"/> as you run towards the boss orb.
-- When the red circle appears around the arena start to cast <Skill id="5531"/> and then <Skill name="Barrage"/>.
-- <Skill name="Pointblankshot"/>,  <Skill id="45743"/> for instant CC. Start casting <Skill name="Pointblankshot"/> just before Ensolyss becomes vulnerable so you can hit both CC skills.
-- <Skill name="onewolfpack"/>, <Skill name="sicem"/>.
-- (<Skill name="Frost trap"/> if you are running it.)
-- <Skill name="rapidfire"/> (You may need to cancel the end of the cast in order to make sure that <Skill name="Whirlingdefense"/> lands into <Effect name="Exposed"/>).
+
+- When the red circle appears around the arena cast <Skill id="5531"/> and then <Skill name="Barrage"/>.
+- <Skill id="45743"/>, <Skill name="Pointblankshot"/> for instant CC. Start casting <Skill id="45743"/> just before Ensolyss becomes vulnerable so you can hit both CC skills.
+- <Skill name="onewolfpack"/>, <Skill name="sicem"/> and <Skill name="rapidfire"/>.
 - Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
 - <Skill name="worldlyimpact"/>.
@@ -405,28 +416,93 @@ If you are playing with a second <Specialization name="Soulbeast"/> then you can
 
 **Orb phases**
 
-- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your renegade so they can share <Boon name="alacrity"/>.
+- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="renegade"/> so they can share <Boon name="alacrity"/>.
 - Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to keep up <Boon name="alacrity"/> on yourself. 
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/> (this will only happen during one of the orb phases).
 
 **66% and 33%**  
 
 - Use <Skill name="Moastance"/> and <Skill name="cold snap"/> as your team is gathering in the middle to give boons.
 - <Skill id="5531"/> if available and <Skill name="Barrage"/>.
-- <Skill name="pointblankshot"/> and <Skill id="45743"/> to CC. 
+- <Skill id="45743"/> and <Skill name="pointblankshot"/> to CC. 
 - <Skill name="onewolfpack"/>, <Skill name="sicem"/>.
-- <Skill name="rapidfire"/> (You may need to cancel the end of the cast in order to make sure that <Skill name="Whirlingdefense"/> lands into <Effect name="Exposed"/>).
-- (<Skill name="Frost trap"/> if you are running it.)
+- <Skill name="rapidfire"/> then <Skill name="worldlyimpact"/>.
+- Swap weapons.
+- <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
+- Autoattack until your <Skill name="pathofscars"/> is off cd.
+- If it isn't phased (or dead) yet swap weapons and use <Skill name="rapidfire"/>.
+
+**Additional Note**
+
+- If you find that you end up back on longbow because the phases are very long then you can swap <Item id="24868"/> for <Item id="24615"/> in your longbow.
+
+</Tab>
+<Tab title="Double Soulbeast Comp">
+<Divider text="ensolyss"/>
+<Grid>
+<GridItem sm="6">
+<Card title="Skills and Traits">
+<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="" eliteId="45717"/>
+- Pet: <Skill id="43636" disableText/> Rock Gazelle.
+- Traits: <Trait id="2128"/>.
+- Food: <Item id="91805"/>.
+- Utility: <Item id="50082"/>.
+
+</Card>
+</GridItem>
+<GridItem sm="6">
+<Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Serpentslaying" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
+</GridItem>
+</Grid>
+<Divider text="HOW TO PLAY"/>
+<Message>
+Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
+</Message>
+
+Your third utility slot is different for each <Specialization name="Soulbeast"/>, one should run <Skill name="Frost spirit"/> and the other takes <Skill name="Moastance"/>.
+
+**Precast**
+
+- Place a <Item id="78978"/> portal next to the mistlock and then run over to the boss platform, both <Specialization name="Soulbeast"/>s can precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
+- Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
+- Both <Specialization name="Soulbeast"/>s should double share <Skill name="One wolf pack"/> at the mistlock then immediately take the <Item id="78978"/> portal back and trigger the boss.
+
+**Opening**
+
+- When the red circle appears around the arena cast <Skill name="Barrage"/>.
+- <Skill name="Frost trap"/>.
+- <Skill id="45743"/>, <Skill name="Pointblankshot"/> for instant CC. Start casting <Skill id="45743"/> just before Ensolyss becomes vulnerable so you can hit both CC skills.
+- <Skill name="sicem"/> as soon as Ensolyss becomes vulnerable.
+- <Skill name="rapidfire"/>.
 - Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
 - <Skill name="worldlyimpact"/>.
 - Autoattack until your <Skill name="pathofscars"/> is off cd.
-- If it isn't phased (or dead) yet swap weapons and use <Skill name="rapidfire"/>.
 
-**Additional notes**
+**Orb phases**
 
-- If you find that you end up back on longbow because the phases are very long then you should swap <Item id="24868"/> for <Item id="24615"/> in your longbow.
+- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="renegade"/> so they can share <Boon name="alacrity"/> to both <Specialization name="Soulbeast"/>s.
+- Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to top up <Boon name="alacrity"/> on yourself.
+
+**66% and 33%**  
+
+- Use <Skill name="Moastance"/> and <Skill name="cold snap"/> as your team is gathering in the middle to give boons.
+- Precast <Skill name="Barrage"/>
+- <Skill id="41524"/>, <Skill name="Frost trap"/>, <Skill name="onewolfpack"/> and <Skill name="sicem"/>.
+
+- <Skill id="45743"/> and <Skill name="pointblankshot"/> to CC. 
+- <Skill name="rapidfire"/> then <Skill name="worldlyimpact"/>.
+- Swap weapons.
+- <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
+- Autoattack until your <Skill name="pathofscars"/> is off cd.
+
+**Additional Note**
+
+- In Phase 3 a <Specialization name="Soulbeast"/> should delay their <Skill name="onewolfpack"/> until just before the bubble attack finishes so that you can skip his spin attack.
 
 </Tab>
+</Tab>
+</Tabs>
 </Tabs>
 </Tabs>
 <Tab title="100CM">
@@ -445,6 +521,7 @@ If you are playing with a second <Specialization name="Soulbeast"/> then you can
 - Traits: <Trait id="2128"/>. 
 - Food: <Item id="91805"/>.
 - Utility: <Item id="77569"/>.
+- You can swap <Item id="24868"/> for <Item id="24661"/> in your longbow if you want.
 
 </Card>
 </GridItem>
@@ -459,27 +536,28 @@ You can do any portal in this fight except from island 3 to 4 as you want to sum
 
 **Precast**
 - When you are activating the Boss Challenge Mote run down to the boss platform and precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Then /gg and wait up by the Mote until you are ready to precast.
-- When you are ready to precast cast your <Skill name="Frostspirit"/> next to the Mote then run down and begin precasting with your party. When the weaver places a <Skill id="5516"/>, share <Skill name="One wolf pack"/> and take the mistlock.
+- When you are ready to precast summon your <Skill name="Frostspirit"/> next to the Mote then run down and begin precasting with your party. Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock.
 - Use <Skill id="5697"/> (Fiery Greatsword skill 3) to get down to the platform, teleport your <Skill name="Frostspirit"/> down to the platform then precast <Skill id="5531"/>, <Skill name="Barrage"/> and swap to sword/axe.
 
 **Opening**
 
 - When your first <Skill name="Frosttrap"/> procs cast it again and use <Skill name="Onewolfpack"/>.
-- When Skorvald is targetable, use <Skill name="Sicem"/>, <Skill name="pathofscars"/>, <Skill id="45743"/> (to CC) then use <Skill name="Whirlingdefense"/>.
-- use <Skill name="Hornet Sting"/> to get to the first island once it is phased.
+- <Skill name="pathofscars"/> then when Skorvald is targetable, use <Skill name="Sicem"/> and <Skill id="45743"/> (to CC).
+- <Skill name="Whirlingdefense"/> into <Effect name="Exposed"/>.
+- Use <Skill name="Hornet Sting"/> to get to the first island once it is phased.
 
 **Islands**  
 - Call <Skill name="Frostspirit"/> to the 1st island using <Skill name="Cold Snap"/> and use <Skill name="Worldlyimpact"/> and autoattacks to kill it.
 - You can use <Skill name="whirlingdefense"/> on the 2nd one after it jumps.
 - Swap to longbow and kill the 3rd add with <Skill name="Point Blank Shot"/> and <Skill name="Rapid Fire"/>.
-- Resummon <Skill name="Frostspirit"/> on the last island. Take the portal early to teleport <Skill name="Frostspirit"/> to you.
+- Resummon <Skill name="Frostspirit"/> on the last island. Take the portal early to teleport <Skill name="Frostspirit"/> to you and to precast <Skill name="Barrage"/> before Skorvald becomes vulnerable.
 
-**66% and 33%**  
-In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/> hit while Skorvald has <Effect name="Exposed"/> which he has right after you kill the final add. 
-- Precast <Skill name="Barrage"/> before Skorvald becomes vulnerable.
+**66% and 33%**
+
+- <Skill name="Frosttrap"/>, <Skill name="Sicem"/>.
 - **Don't use <Skill name="Onewolfpack"/> in phase 2 unless you don't think you'll make the dps check.**
 - Do use <Skill name="Onewolfpack"/> in phase 3.
-- <Skill name="Frosttrap"/>, <Skill name="Sicem"/>.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
 
 </Tab>
@@ -495,7 +573,7 @@ In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/>
 - Traits: <Trait id="2128"/>. 
 - Food: <Item id="91805"/>.
 - Utility: <Item id="77569"/>.
-- Make sure to use [consumables](/guides/consumables) on the adds!
+- Make sure to use [consumables](/guides/consumables) to CC the adds!
 
 </Card>
 </GridItem>
@@ -504,6 +582,11 @@ In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/>
 </GridItem>
 </Grid>
 <Divider text="HOW TO PLAY"/>
+**Precast**
+
+- Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and run and <Effect name="hypernovalaunch"/> over to the boss platform.
+
 **Opening**
 
 - Summon <Skill name="Frost Spirit"/> in middle before someone starts the encounter.
@@ -513,13 +596,14 @@ In these phases you wanna make sure all ticks of <Skill name="Whirlingdefense"/>
 - Use <Skill name="Cold Snap"/> to call your spirit to the corner.
 - When she reaches the side use <Skill name="Sicem"/> and <Skill name="Worldlyimpact"/>.
 - <Skill name="pathofscars"/> to help CC.
-- <Skill name="Whirlingdefense"/> to reflect for omegadps.
+- <Skill name="Whirlingdefense"/> to reflect for omega DPS.
 - <Skill id="43548"/> if she isn't phased yet.
 
 **Add CC Phase**
 
 Use [consumables](/guides/consumables) to CC the adds.
 - Make sure you are on longbow for the next phase.
+- Pick up the <Skill id="5516"/> if your <Specialization name="Weaver"/> places one for you.
 
 **66% and 33%**
 
@@ -528,14 +612,15 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - <Skill id="43548"/> then <Skill name="Worldlyimpact"/>.
 - <Effect name="hypernovalaunch"/> to the corner.
-- <Skill name="Rapid fire"/> and <Skill name="sicem"/> into the cast.
+- <Skill name="Rapid fire"/> and <Skill name="sicem"/>.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
 - <Skill name="Worldlyimpact"/>.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/> to reflect again.
+- <Skill id="43548"/> if she isn't phased yet.
 
 </Tab>
 <Tab title="Middle">
-<Divider text="Mid ARTSariiv"/>
+<Divider text="Mid artsariiv"/>
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
@@ -544,7 +629,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/>.
 - Utility: <Item id="77569"/>.
-- Make sure to use [consumables](/guides/consumables) on the adds!
+- Make sure to use [consumables](/guides/consumables) to CC the adds!
 
 </Card>
 </GridItem>
@@ -553,12 +638,17 @@ Use [consumables](/guides/consumables) to CC the adds.
 </GridItem>
 </Grid>
 <Divider text="HOW TO PLAY"/>
+**Precast**
+
+- Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
+
 **Opening**
 
-- Summon <Skill name="Frost Spirit"/> in middle before someone starts the encounter.
+- Summon <Skill name="Frostspirit"/> when you go through the portal.
 - As soon as someone catches an orb, use <Skill id="5531"/> and <Skill name="Barrage"/>.
 - Use <Skill name="onewolfpack"/>, <Skill name="sicem"/> then <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
-- Use <Skill name="Rapid fire"/> as you walk behind her in mid.
+- Use <Skill name="Rapid fire"/> then walk behind her in mid.
 - Swap weapons and use <Skill name="pathofscars"/> as you walk through the boss to stand behind her.
 - <Skill name="Whirlingdefense"/> then <Skill name="Worldlyimpact"/>, followed by <Skill id="41524"/> and <Skill id="45743"/> as she jumps to the side.
 - If she reaches the corner, use <Effect name="hypernovalaunch"/> to avoid the slam wave and sword autoattack until she phases.
@@ -615,33 +705,33 @@ Use [consumables](/guides/consumables) to CC the adds.
 **Precast**
 
 - Place a portal next to the mistlock and use <Effect name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
-- Precast normally and pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, but don't take the mistlock yet.
-- Wait until just before the encounter is started to use <Skill name="One wolf pack"/> and taking the mistlock.
+- Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
+- Precast <Skill id="5531"/> and <Skill name="Barrage"/> before the boss is activated.
 
 **Opening**
 
-- <Skill name="Frosttrap"/> so you have two of those ticking at the same time.
+- <Skill name="Frosttrap"/> as soon as your first trap procs so you have both ticking at the same time.
 - <Skill name="Sicem"/> as soon as Arkk is targetable.
-- <Skill id="5531"/> then <Skill name="Barrage"/>.
-- <Skill name="Pointblankshot"/> to proc <Item id="84505"/>
-- <Skill name="Rapidfire"/>
+- <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
+- <Skill name="Rapidfire"/> then walk through Arkk so you avoid the <Condition name="Fear"/>.
 - Swap weapons.
 - <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
  
 **1st Orb Phase**
 
-- Cast <Skill name="trollunguent"/> then run into the lightning aoe, autoattack the orb once and then use <Skill id="12482"/> to finish pushing.
+- Cast <Skill name="trollunguent"/> then run into the lightning AoE, autoattack the orb once and then use <Skill id="12482"/> to finish pushing.
 
 **80-70%**
 
 - Use <Skill name="Pathofscars"/> as you run (or <Effect name="hypernovalaunch"/> or <Skill id="45743"/>) back to Arkk. 
 - Swap weapons.
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-- <Skill name="Rapidfire"/>, <Skill id="45743"/>, <Skill id="41524"/> until its phased.
+- <Skill name="Rapidfire"/>, <Skill id="45743"/>, <Skill id="41524"/> until Arkk is phased.
 
-**Archdiviner phase**
+**Archdiviner Phase**
 
-- The <Specialization name="weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
+The <Specialization name="weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
 - You can use <Skill name="Worldlyimpact"/> and <Skill name="Fieryrush"/> to damage the Archdiviner. 
 - When the archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing.
 - When the archdiviner dies, precast <Skill id="5531"/>, <Skill name="Barrage"/> and <Skill name="Frosttrap"/>.
@@ -664,7 +754,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="Rapidfire"/>, <Skill id="45743"/>, <Skill id="41524"/> until its phased.
 - Precast <Skill name="Barrage"/> for the Gladiator.
 
-**Gladiator phase**
+**Gladiator Phase**
 
 - Pull one add with <Skill name="Path of scars"/>.
 - <Skill name="Frosttrap"/>.
@@ -692,7 +782,8 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
 - Continue with filler skills like <Skill id="45743"/>, <Skill id="41524"/> and <Skill name="Worldlyimpact"/> until Arkk is dead.
 
-**Additional notes**
+**Additional Notes**
+
 - Resummon your <Skill name="Frost spirit"/> whenever you have downtime when you can't attack (i.e. whilst you are waiting for Arkk, the Archdiviner or Gladiator to spawn on the platform or during an orb phase if you have the time).
 - Wherever possible you should try to hit multiple targets with your <Skill name="Pathofscars"/>. 
   - This can mean hitting an anomaly to help your <Specialization name="renegade"/> kill it.
