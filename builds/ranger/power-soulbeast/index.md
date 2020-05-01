@@ -521,7 +521,6 @@ Your third utility slot is different for each <Specialization name="Soulbeast"/>
 - Traits: <Trait id="2128"/>. 
 - Food: <Item id="91805"/>.
 - Utility: <Item id="77569"/>.
-- You can swap <Item id="24868"/> for <Item id="24661"/> in your longbow if you want.
 
 </Card>
 </GridItem>
@@ -533,6 +532,7 @@ Your third utility slot is different for each <Specialization name="Soulbeast"/>
 <Message>
 You can do any portal in this fight except from island 3 to 4 as you want to summon your <Skill name="Frostspirit"/> then.
 </Message>
+You can swap <Item id="24868"/> for <Item id="24661"/> in your longbow if you want.
 
 **Precast**
 - When you are activating the Boss Challenge Mote run down to the boss platform and precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Then /gg and wait up by the Mote until you are ready to precast.
@@ -573,7 +573,6 @@ You can do any portal in this fight except from island 3 to 4 as you want to sum
 - Traits: <Trait id="2128"/>. 
 - Food: <Item id="91805"/>.
 - Utility: <Item id="77569"/>.
-- Make sure to use [consumables](/guides/consumables) to CC the adds!
 
 </Card>
 </GridItem>
@@ -582,6 +581,9 @@ You can do any portal in this fight except from island 3 to 4 as you want to sum
 </GridItem>
 </Grid>
 <Divider text="HOW TO PLAY"/>
+<Message>
+Make sure to use [consumables](/guides/consumables) to CC the adds!
+</Message>
 **Precast**
 
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
@@ -631,7 +633,6 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/>.
 - Utility: <Item id="77569"/>.
-- Make sure to use [consumables](/guides/consumables) to CC the adds!
 
 </Card>
 </GridItem>
@@ -640,6 +641,9 @@ Use [consumables](/guides/consumables) to CC the adds.
 </GridItem>
 </Grid>
 <Divider text="HOW TO PLAY"/>
+<Message>
+Make sure to use [consumables](/guides/consumables) to CC the adds!
+</Message>
 **Precast**
 
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
