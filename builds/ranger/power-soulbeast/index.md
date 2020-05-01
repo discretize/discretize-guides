@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-05-01'
+date: '2020-05-02'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -414,7 +414,7 @@ If you are playing with a <Specialization name="Dragonhunter"/> instead of a <Sp
 - Autoattack until your <Skill name="pathofscars"/> is off cd.
 - If it isn't phased yet swap weapons and use <Skill name="rapidfire"/>.
 
-**Orb phases**
+**Orb Phases**
 
 - At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="renegade"/> so they can share <Boon name="alacrity"/>.
 - Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to keep up <Boon name="alacrity"/> on yourself. 
@@ -479,7 +479,7 @@ Your third utility slot is different for each <Specialization name="Soulbeast"/>
 - <Skill name="worldlyimpact"/>.
 - Autoattack until your <Skill name="pathofscars"/> is off cd.
 
-**Orb phases**
+**Orb Phases**
 
 - At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="renegade"/> so they can share <Boon name="alacrity"/> to both <Specialization name="Soulbeast"/>s.
 - Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to top up <Boon name="alacrity"/> on yourself.
@@ -608,10 +608,12 @@ Use [consumables](/guides/consumables) to CC the adds.
 **66% and 33%**
 
 - Precast <Skill id="5531"/> if available and <Skill name="Barrage"/>.
+- <Skill name="Cold Snap"/> to call your spirit to the middle.
 - Once she becomes vulnerable use <Skill name="Rapid fire"/> **(do not use <Skill name="sicem"/> here)**.
 - Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - <Skill id="43548"/> then <Skill name="Worldlyimpact"/>.
 - <Effect name="hypernovalaunch"/> to the corner.
+- <Skill name="Cold Snap"/> when you can to call your spirit to the middle.
 - <Skill name="Rapid fire"/> and <Skill name="sicem"/>.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
 - <Skill name="Worldlyimpact"/>.
@@ -724,25 +726,26 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 **80-70%**
 
-- Use <Skill name="Pathofscars"/> as you run (or <Effect name="hypernovalaunch"/> or <Skill id="45743"/>) back to Arkk. 
+- <Skill name="Pathofscars"/>. 
 - Swap weapons.
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-- <Skill name="Rapidfire"/>, <Skill id="45743"/>, <Skill id="41524"/> until Arkk is phased.
+- <Skill name="Rapidfire"/> -> <Skill name="Worldlyimpact"/> -> <Skill id="45743"/> -> <Skill id="41524"/> until Arkk is phased.
 
 **Archdiviner Phase**
 
 The <Specialization name="weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
-- You can use <Skill name="Worldlyimpact"/> and <Skill name="Fieryrush"/> to damage the Archdiviner. 
-- When the archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing.
-- When the archdiviner dies, precast <Skill id="5531"/>, <Skill name="Barrage"/> and <Skill name="Frosttrap"/>.
+- You can use <Skill name="Fieryrush"/> (or any of <Skill name="Worldlyimpact"/>, <Skill id="45743"/> and <Skill id="41524"/> if they are off cd) to damage the Archdiviner. 
+- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing.
+- When the Archdiviner dies, precast <Skill id="5531"/> -> <Skill name="Barrage"/> -> <Skill name="Frosttrap"/>.
 
 **70-50%**
 
-- <Skill name="onewolfpack"/>, <Skill name="Sicem"/>.
+- <Skill name="onewolfpack"/> -> <Skill name="Sicem"/>.
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
 - <Skill name="Rapidfire"/>.
 - Swap weapons.
 - <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
+- Continue with filler skills like <Skill name="Worldlyimpact"/>, <Skill id="45743"/> and <Skill id="41524"/> until Arkk is phased.
 
 **2nd Orb Phase**
 
@@ -751,22 +754,22 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 **50-40%**
 
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-- <Skill name="Rapidfire"/>, <Skill id="45743"/>, <Skill id="41524"/> until its phased.
+- <Skill name="Rapidfire"/> (followed by any of <Skill name="Worldlyimpact"/>, <Skill id="45743"/> and <Skill id="41524"/> if they are off cd) until Arkk is phased.
 - Precast <Skill name="Barrage"/> for the Gladiator.
 
 **Gladiator Phase**
 
-- Pull one add with <Skill name="Path of scars"/>.
 - <Skill name="Frosttrap"/>.
+- Pull one add with <Skill name="Path of scars"/>.
 - Use <Skill name="Sicem"/> and <Skill name="whirlingdefense"/> to kill him fast.
-- Use <Skill name="Worldlyimpact"/> if the Gladiator isn't dead yet.
 
 **40-30%**
 
-- Pull a second add with <Skill name="Path of scars"/>.
+- Autoattack until <Skill name="Path of scars"/> is off cd, then use it to pull a second add.
 - Swap weapons.
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-- <Skill name="Rapidfire"/>, <Skill id="45743"/>, <Skill id="41524"/> until its phased.
+- <Skill name="Rapidfire"/> (followed by any of <Skill name="Worldlyimpact"/>, <Skill id="45743"/> and <Skill id="41524"/> if they are off cd) until Arkk is phased.
+- You want to swap weapons late so that you don't get stuck longbow autoattacking.
 
 **3rd Orb Phase**
 
@@ -775,13 +778,12 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 
 **30-0%**
 
-- <Skill name="onewolfpack"/>, <Skill name="Sicem"/>.
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-- <Skill name="Rapidfire"/>.
+- <Skill name="Frost trap"/> -> <Skill name="onewolfpack"/> -> <Skill name="Sicem"/> -> <Skill name="Rapidfire"/>.
 - Swap weapons.
 - <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
-- Continue with filler skills like <Skill id="45743"/>, <Skill id="41524"/> and <Skill name="Worldlyimpact"/> until Arkk is dead.
-
+- Continue with filler skills like <Skill name="Worldlyimpact"/>, <Skill id="45743"/> and <Skill id="41524"/> until Arkk is dead.
+- 
 **Additional Notes**
 
 - Resummon your <Skill name="Frost spirit"/> whenever you have downtime when you can't attack (i.e. whilst you are waiting for Arkk, the Archdiviner or Gladiator to spawn on the platform or during an orb phase if you have the time).
@@ -789,6 +791,7 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
   - This can mean hitting an anomaly to help your <Specialization name="renegade"/> kill it.
   - You can also pull the adds from the Archdiviner and Gladiator phase since your <Specialization name="Firebrand"/> can only pull two at a time.
   - Pulling the adds is also great since they can really hurt your teams <Item id="24836"/> uptime.
+  - If you are good at tagging multiple targets then you can even run <Item id="43360"/>.
 
 </Tab>
 </Tabs>
