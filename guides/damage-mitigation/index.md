@@ -1,6 +1,6 @@
----
+﻿---
 title: 'Damage Mitigation'
-date: '2020-03-27'
+date: '2020-05-08'
 image: './images/reflect.jpg'
 description: 'Learn which skills and traits your profession can use to avoid damaging mechanics.'
 ---
@@ -73,8 +73,12 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 <Card specialization="Guardian">
 * <Skill id="9251"/> <Specialization disableText name="guardian"/>  
 (Utility skill)
+* <Skill id="41571"/> <Specialization disableText name="guardian"/>  
+(Utility skill)
 * <Skill id="9107"/> <Specialization disableText name="guardian"/>  
 (Sword 3)
+* <Skill id="9091"/> <Specialization disableText name="guardian"/>  
+(Shield 5)
 * <Skill id="42259"/> <Specialization disableText name="firebrand"/>  
 (Tome Skill 3) 
 </Card>
