@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-05-02'
+date: '2020-05-08'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -90,8 +90,8 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/>!
 | | |
 | -- | -- |
 | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
-| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
+| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
 </Card>  
 </GridItem>
 </Grid>
@@ -99,18 +99,38 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/>!
 <Divider text="Variations"/>
 <Grid>
 <GridItem sm="7">
-<Card title="Skirmishing Variant">
-**If you can be 100% sure that you have the ability to flank the boss permanently** then you can consider swapping Marksmanship for Skirmishing with the following trait setup:
-<UnembossedTraits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888"/>
-</Card>
-</GridItem> 
-<GridItem sm="5">
 <Card title="Situational Traits">
 | | |
 | -- | -- |
 | <Trait name="Clarion Bond" size="big" disableText/> | Can be useful if the blast and team <Boon name="might"/> is more advantageous than the self <Boon name="might"/> from <Trait name="Huntersgaze"/>. |
 | <Trait name="Natural healing" size="big" disableText/> | Take this instead of <Trait name="Two-handed training"/> if you are running longbow and want some passive healing. |
 | <Trait id="2143" size="big" disableText/> | On short T4 fights you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> for your allies then swap traits right before you get in combat. |
+</Card>
+<Card title="Skirmishing and Fractals">
+Running Skirmishing in fractals is quite a niche choice, you need to satisfy **both of the following requirements:**
+- You can be sure that you have the ability to flank the boss permanently.
+- You want to replace a <Specialization name="Berserker"/> by providing your team with <Trait name="Spotter"/> so they can crit cap.
+
+If both of these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:
+<UnembossedTraits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888"/>
+</Card>
+</GridItem> 
+<GridItem sm="5">
+<Card title="Situational Skills">
+| | |
+| -- | -- |
+| <Skill name="Frost Trap" size="big" disableText/> | A replacement for <Skill name="Signet of the Wild"/> on short or phased fights. For more info on when to run this read the guide tab! |
+| <Skill name="Moa Stance" size="big" disableText/> | Allows all boons that are applied during its uptime to last longer, great for prestacking. |
+| <Skill name="Quickening Zephyr" size="big" disableText/> | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>. |
+| <Skill name="Dolyak Stance" size="big" disableText/> | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles) |
+</Card>
+<Card title="Defiance Bar Damage">
+| | |
+| -- | -- |
+| <Skill id="45743" size="big" disableText/> | 200 damage (F2 in <Skill id="42944"/>) |
+| <Skill id="12511" size="big" disableText/> | 150 damage (Longbow 4)|
+| <Skill id="12638" size="big" disableText/> | 150 damage (Axe 4) |
+| <Skill id="12475" size="big" disableText/> | 150 damage (Greatsword 5) |
 </Card>
 </GridItem> 
 </Grid>
@@ -154,14 +174,7 @@ For your second weaponset you either run greatsword or longbow:
 </Card>
 </GridItem>
 <GridItem sm="5">
-<Card title="CC skills">
-| | |
-| -- | -- |
-| <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>) |
-| <Skill id="12511"/> | 150 damage (Longbow 4)|
-| <Skill id="12638"/> | 150 damage (Axe 4) |
-| <Skill id="12475"/> | 150 damage (Greatsword 5) |
-</Card>
+
 <Card title="Golem Rotation">
 <Message>
 You should only use this rotation on longer phases since it is based around sustained DPS!
