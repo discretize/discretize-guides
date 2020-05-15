@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-05-08'
+date: '2020-05-15'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -457,7 +457,7 @@ If you are playing with a <Specialization name="Dragonhunter"/> instead of a <Sp
 <Card title="Skills and Traits">
 <UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="" eliteId="45717"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Traits: <Trait id="2128"/>.
+- Traits: <Trait id="2128"/>, **<Trait name="Clarion Bond"/>**.
 - Food: <Item id="91805"/>.
 - Utility: <Item id="50082"/>.
 
@@ -473,6 +473,8 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 </Message>
 
 Your third utility slot is different for each <Specialization name="Soulbeast"/>, one should run <Skill name="Frost spirit"/> and the other takes <Skill name="Moastance"/>.
+
+**Both <Specialization name="Soulbeast"/>s want to run <Trait name="Clarion Bond"/> in order to blast <Boon name="Might"/> after the orb phase.**
 
 **Precast**
 
@@ -495,11 +497,13 @@ Your third utility slot is different for each <Specialization name="Soulbeast"/>
 **Orb Phases**
 
 - At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="renegade"/> so they can share <Boon name="alacrity"/> to both <Specialization name="Soulbeast"/>s.
-- Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to top up <Boon name="alacrity"/> on yourself.
+- You want to leave <Skill id="42944"/> so that it is back off cd and you can blast <Boon name="Might"/> after the orb phase.
+- Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to top up <Boon name="alacrity"/> on yourself if possible.
 
 **66% and 33%**  
 
 - Use <Skill name="Moastance"/> and <Skill name="cold snap"/> as your team is gathering in the middle to give boons.
+- Enter <Skill id="42944"/> to blast <Boon name="Might"/> thanks to <Trait name="Clarion Bond"/>.
 - Precast <Skill name="Barrage"/>
 - <Skill id="41524"/>, <Skill name="Frost trap"/>, <Skill name="onewolfpack"/> and <Skill name="sicem"/>.
 
