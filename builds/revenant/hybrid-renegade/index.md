@@ -1,6 +1,6 @@
 ---
 title: 'Renegade'
-date: '2020-03-28'
+date: '2020-05-11'
 rating: 'Meta'
 role: 'Support'
 profession: 'Revenant'
@@ -103,6 +103,24 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Tab title="Guide">
 <Divider text="Guide"/>
 <Grid>
+<GridItem sm="7">
+<Card title="Burst Rotation">
+1. <Skill name="Citadel Bombardment"/>
+2. <Skill name="Chilling Isolation"/>
+3. <Skill name="Shackling Wave"/>
+4. <Skill name="Deathstrike"/>
+5. <Skill name="ChillingIsolation"/>
+</Card>
+</GridItem>
+<GridItem sm="5">
+<Card title="Notes">
+Ideally you would want to do your burst rotation under the effect of <Effect name="exposed"/> and while your <Skill name="Impossibleodds"/>. This might not always be possible if you need to reserve energy for boons or in the case that your legend timings are off.
+
+With <Skill name="Legendary Demon Stance"/> you would want to use these abilities with <Skill name="Embrace the darkness"/> on.
+</Card>
+</GridItem>
+</Grid>
+<Grid>
 <GridItem sm="12">
 <Card title="Abilities">
 **Citadel Order Skills:**
@@ -197,6 +215,19 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 - <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
 - <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
 - <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet. Cleanses one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
+
+</Card>
+</GridItem>
+</Grid>
+<Grid>
+<GridItem sm="12">
+<Card title="Dealing with No Pain, No Gain">
+
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "*interrupted*" message.
+
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption"/>
+
+As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the stability, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
 
 </Card>
 </GridItem>
