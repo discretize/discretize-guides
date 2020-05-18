@@ -196,7 +196,7 @@ You can also activate <Skill id="13046"/> to burst for the last few attacks of a
 
 Keep in mind you can precast skills like <Skill id="13037"/>, <Skill id="13082"/> or <Skill id="13132"/> and take the mistlock singularity to refresh their coolddown. For example: Precast <Skill id="13082"/>, take mistlock, cast <Skill id="13132"/>, and swap to <Skill id="13082"/> again.
 
-Although <Specialization name="daredevil"/> doesn't have access to  <Boon name="Superspeed"/> for <Item id="85244"/> or <Item id="49940"/>, it still can execute many skips for your partyi in T4s.
+Although <Specialization name="daredevil"/> doesn't have access to  <Boon name="Superspeed"/> for <Item id="85244"/> or <Item id="49940"/>, it still can execute many skips for your party in T4s.
 
 <Video title="Thief Skips T4s" youtube="Alpgs_GaZV0"/>
 
