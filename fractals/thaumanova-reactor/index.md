@@ -113,6 +113,10 @@ This is usually solo'ed by the <Specialization name="elementalist"/> but other c
 
 <GridItem sm="12">
 <Tabs>
+<Tab specialization="revenant">
+<Video title="Revenant skip" timestamp="0" youtube="jfat_6yDqV4"/>
+</Tab>
+
 <Tab specialization="elementalist">
 <Video title="Elementalist skip" timestamp="28" youtube="OjUvCp2h_04"/>
 </Tab>
@@ -131,10 +135,6 @@ This is usually solo'ed by the <Specialization name="elementalist"/> but other c
 
 <Tab specialization="thief">
 <Video title="Thief skip" timestamp="241" youtube="Alpgs_GaZV0"/>
-</Tab>
-
-<Tab specialization="revenant">
-<Video title="Revenant skip" timestamp="0" youtube="jfat_6yDqV4"/>
 </Tab>
 </Tabs>
 </GridItem>
