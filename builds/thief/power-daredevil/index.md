@@ -90,7 +90,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 If no one in your party can boonrip when the <Instability name="No Pain No Gain "/> instability is present you can swap Deadly Arts for the Trickery line with the following traits: 
 <UnembossedTraits traits1="Trickery" traits1Id="44" traits1SelectedIds="1163,1277,1158"/>
 <Message>
-**Note: this is kind of a meme way to deal with the instability and there are many better options!**
+**Note: this is kind of a meme way to deal with the instability and there are better options!**
 </Message>
 
 </Card>
@@ -196,9 +196,9 @@ You can also activate <Skill id="13046"/> to burst for the last few attacks of a
 
 Keep in mind you can precast skills like <Skill id="13037"/>, <Skill id="13082"/> or <Skill id="13132"/> and take the mistlock singularity to refresh their coolddown. For example: Precast <Skill id="13082"/>, take mistlock, cast <Skill id="13132"/>, and swap to <Skill id="13082"/> again.
 
-Although <Specialization name="daredevil"/> doesn't have access to  <Boon name="Superspeed"/> or <Boon name="Quickness"/> for  <Item id="85244"/> or <Item id="49940"/>, it still can execute many skips for your party:
+Although <Specialization name="daredevil"/> doesn't have access to  <Boon name="Superspeed"/> for <Item id="85244"/> or <Item id="49940"/>, it still can execute many skips for your party in T4s.
 
-<Video title="Thief Skips" youtube="Alpgs_GaZV0"/>
+<Video title="Thief Skips T4s" youtube="Alpgs_GaZV0"/>
 
 
 </Card>
