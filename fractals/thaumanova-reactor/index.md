@@ -1,6 +1,6 @@
 ---
 title: 'Thaumanova Reactor'
-date: '2020-03-27'
+date: '2020-05-21'
 image: './images/header.jpg'
 group: 'T4'
 api: 2967
@@ -131,6 +131,10 @@ This is usually solo'ed by the <Specialization name="elementalist"/> but other c
 
 <Tab specialization="thief">
 <Video title="Thief skip" timestamp="241" youtube="Alpgs_GaZV0"/>
+</Tab>
+
+<Tab specialization="revenant">
+<Video title="Revenant skip" timestamp="0" youtube="jfat_6yDqV4"/>
 </Tab>
 </Tabs>
 </GridItem>
