@@ -707,7 +707,7 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 </Card>
 </GridItem>
 <GridItem sm="12">
-
+<Video title="Mid-strategy Artsariiv" youtube="iIH6qeeggyo" timestamp="74"/>
 </GridItem>
 </Grid>
 </GridItem>
