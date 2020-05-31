@@ -156,7 +156,7 @@ With <Skill name="Legendary Demon Stance"/> you would want to use these abilitie
 - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%. 
 - <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
 - <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
-- <Trait name="Brutal Momentum"/> - 33% Critical change increase when your endurance is full. 
+- <Trait name="Brutal Momentum"/> - 33% Critical chance increase when your endurance is full. 
 - <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased with 50%. 
 - <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased with 50%. 
 
