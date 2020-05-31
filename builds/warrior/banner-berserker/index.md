@@ -1,6 +1,6 @@
 ---
 title: 'Berserker'
-date: '2020-04-18'
+date: '2020-05-31'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
@@ -18,19 +18,24 @@ author: 'SpatiumPrinceps.8927'
 <Tab title="Build">
 The <Specialization text="Banner Berserker" name="berserker"/> is the strongest build for <Specialization name="warrior"/> in fractals. 
 
-Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent single defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has relatively high burst and excellent sustained damage. <Specialization name="warrior"/> can provide half of the necessary <Boon name="might"/> and <Boon name="Fury"/> to the group by playing with <Skill name="Forgreatjustice"/>.
+Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="warrior"/> can provide half of the necessary <Boon name="might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
-Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="berserker"/>, your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all the while making DPS players sweat nervously when they glance at their DPS meter.
+The <Specialization text="Banner Berserker" name="berserker"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone.
+
+Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
 
 <Divider text="Equipment"/>
 
 <Tabs outlined>
 
-<Tab title="150 Agony Resistance">
+<Tab title="162 Agony Resistance">
 Check the [gear optimizer](https://old.discretize.eu) for more gear variants! 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Heavy" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Card title="Requirements:">
+* 18x <Item id="49432"/>
+</Card>
 </GridItem>
 
 <GridItem sm="4">
@@ -40,25 +45,30 @@ Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Assassin" accessory2Affix="Berserker" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
-<Card title="Swap Weapons">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin"/>
+<Card title="Extra Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-* A warhorn for pre-stacking <Boon name="Might"/>.
-* A sword is very useful for out of combat mobility.
+* Warhorn for pre-stacking <Boon name="Might"/>.
+* Sword for out of combat mobility.
 * Greatsword for mobility and cleave.
-* Rifle for Siax.
-* Torch for fights where you can trade cc for DPS or need a fire field to blast.
+* Rifle for Siax (coordinated).
+* Torch (trade CC for DPS or for a firefield).
 </Card>
 
 </GridItem>
 </Grid>
 </Tab>
 
-<Tab title="207 Agony Resistance">
+<Tab title="222 Agony Resistance">
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants! 
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Card title="Requirements:">
+* All fractal augumentations
+* 18x <Item id="49432"/>
+* <Item id="70596"/>
+</Card>
 </GridItem>
 
 <GridItem sm="4">
@@ -68,16 +78,15 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin"/>
-<Card title="Swap Weapons">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin"/>
+<Card title="Extra Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-* A warhorn for pre-stacking <Boon name="Might"/>.
-* A sword is very useful for out of combat mobility.
-* Greatsword for mobility and cleave. 
-* Rifle for Siax.
-* Torch for fights where you can trade cc for DPS or need a fire field to blast.
+* Warhorn for pre-stacking <Boon name="Might"/>.
+* Sword for out of combat mobility.
+* Greatsword for mobility and cleave.
+* Rifle for Siax (coordinated).
+* Torch (trade CC for DPS or for a firefield).
 </Card>
-
 
 </GridItem>
 </Grid>
@@ -105,14 +114,15 @@ You are an actual madlad for considering this build. It costs about 3500 gold...
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
-<Card title="Swap Weapons">
+<Card title="Extra Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-* A warhorn for pre-stacking <Boon name="Might"/>.
-* A sword is very useful for out of combat mobility.
+* Warhorn for pre-stacking <Boon name="Might"/>.
+* Sword for out of combat mobility.
 * Greatsword for mobility and cleave.
-* Rifle for Siax.
-* Torch for fights where you can trade cc for DPS or need a fire field to blast.
+* Rifle for Siax (coordinated).
+* Torch (trade CC for DPS or for a firefield).
 </Card>
+
 
 
 </GridItem>
@@ -142,13 +152,14 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 | | |
 | -- | -- |
 | <Skill name="For Great Justice!" disableText size="big"/> | Whenever you notice less than 25 stacks of <Boon name="might"/> on your buff bar. |
+| <Skill name="Signet of fury" disableText size="big"/> | Fills up the adrenaline bar and grants a huge damage buff.|
 | <Skill name="Battle Standard" disableText size="big"/> | For Arkk and Artsariiv. |
 | <Skill name="banneroftactics" disableText size="big"/> | Can be precasted at encounters. |
 | <Skill name="onmymark" disableText size="big"/> | Can be used to pull Kraits from the side altars at 99CM. |
 | <Skill name="featherfootgrace" disableText size="big"/> | Grants <Effect name="superspeed"/> for skips. |
 | <Skill name="frenzy" disableText size="big"/> | Self <Boon name="Quickness"/> for precasting banners. |
 | <Skill name="bloodreckoning" disableText size="big"/> | For double <Skill name="arcdivider"/> or the situational <Specialization name="berserker"/> build. |
-| <Skill name="outrage" disableText size="big"/> | Very strong for <Skill name="berserk"/> extension. | 
+| <Skill name="outrage" disableText size="big"/> | Very strong in conjunction with <Skill name="headbutt"/> for <Skill name="berserk"/> extension. | 
 | <Skill name="Wild Blow" disableText size="big"/> | 332 CC and 4s <Skill name="berserk"/> extension. |  
 | <Skill name="bullscharge" disableText size="big"/> | 300 CC, gives <Trait name="Peakperformance"/>. | 
 </Card>
@@ -168,11 +179,11 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
     2. <Skill name="Dualstrike"/> and <Skill name="throwaxe"/>. 
     3. <Skill name="whirlingaxe"/>.
 * Get three <Skill name="decapitate"/> before pressing <Skill name="Whirling axe"/>.
-* If the boss has a breakbar, make sure to use <Skill name="Tremor"/> to proc <Item name="severance"/>, then swap to Axe+Axe.
+* If the boss has a breakbar, make sure to use <Skill name="Tremor"/> to proc <Item name="severance"/>, then swap to Axe/Axe.
 * Only use <Skill name="Throw Axe"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
 * Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase. 
 * Keep in mind that <Skill name="Crushing Blow"/> inflicts 15x <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quicker burst.
-* It is key that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your groups phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
+* It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your groups phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
 * Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
 
 **Extra notes:**
@@ -346,7 +357,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 <Grid>
 <GridItem sm="12">
 <Divider text="ORGANIZED MAMA"/>
-This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
+This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
 
 </GridItem>
 
@@ -378,10 +389,11 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 - Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
 - Take the mistlock and use the portal to get back on the boss.
 - Start on Maces.
-- Get in combat as fast as possible to fill up adrenaline: Use <Skill name="Cycloneaxe"/> and double tab <Skill name="Counterblow"/> against the invisible hitbox.
-- Shortly before Mama becomes vulnerable, use <Skill name="berserk"/> and <Skill name="Bullscharge"/> against the hitbox for <Trait name="peakperformance"/>.
+- Get in combat as fast as possible to fill up adrenaline: Use <Skill name="Cycloneaxe"/>  against the invisible hitbox and weapon swap to mace.
+- Shortly before Mama becomes vulnerable, use <Skill name="berserk"/> and <Skill name="Bullscharge"/> for <Trait name="peakperformance"/>.
 
 ### **1st Phase**
+- <Skill name="Tremor"/> to CC.
 - Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
 - Swap weapons.
 - <Skill name="decapitate"/>, <Skill name="bloodreckoning"/>, <Skill name="decapitate"/>.
@@ -394,24 +406,19 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 - Normal rotation according to the guide. 
 
 ### *2nd Add*
-- Swap to Maces.
-- <Skill name="skullgrinder"/>, <Skill name="pommelbash"/>.
+- <Skill name="Headbutt"/>, <Skill name="outrage"/>.
 
 ### **3rd Phase**
-- <Skill name="tremor"/>, <Skill name="wildblow"/>.
-- Swap to Axes as soon as possible.
-- <Skill name="Bullscharge"/>.
-- Normal rotation according to the guide. 
+- <Skill name="bullscharge"/>, <Skill name="wildblow"/>.
 
 ### *3rd Add*
 - <Skill name="Headbutt"/>, <Skill name="outrage"/>.
+- Swap to mace already.
 
 ### **4th Phase** 
-- CC with <Skill name="Wildblow"/>.
-
-**Annotation:**
-- Regarding <Skill name="Bullscharge"/>: Cast it whenever it is off cd.
-
+- CC with <Skill name="Tremor"/>
+- Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
+- Swap to Axe/Axe as soon as you are done with CCing and DPS.
 </GridItem>
 </Grid>
 </Tab>
