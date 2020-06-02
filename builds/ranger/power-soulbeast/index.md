@@ -76,6 +76,32 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/>!
 </GridItem>
 </Grid>
 </Tab>
+
+<Tab title="243 Agony Resistance">
+Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
+<Grid>
+<GridItem sm="4">
+<Armor weight="Medium" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
+<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<Card title="You need">
+- Fractal God, Mistlock Singularity, <Item id="86175"/> and <Item id="70596"/>!
+- A ring with <Item id="49438"/> and 2 <Item id="49437"/>.
+
+</Card>
+</GridItem>
+</Grid>
+<Message>
+It can be easier to just use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full zerk on both.
+</Message>
+</Tab>
 </Tabs>
 
 <Divider text="Build"/>
