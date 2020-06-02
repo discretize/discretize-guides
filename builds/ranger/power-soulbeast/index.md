@@ -99,7 +99,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 </Grid>
 <Message>
-It can be easier to just use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Infusion so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full zerk on both.
+It can be easier to just use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full zerk on both.
 </Message>
 </Tab>
 </Tabs>
