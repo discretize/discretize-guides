@@ -159,13 +159,14 @@ Requires high damage and you may have to wait a while as the blocking occurs at 
 <Image src="./images/subject_6_block.jpg" caption="Subject 6 in block mode"/>
 
 <Tabs>
-<Tab specialization="warrior">
-Equip <Skill id="14404"/> to make your CC skills unblockable.
-</Tab>
-
 <Tab specialization="thief">
 Share <Skill id="13132"/> with 5 allies to deal 750 unblockable defiance bar damage.
 </Tab>
+<Tab specialization="warrior">
+Equip <Skill id="14404"/> to make your CC skills unblockable.
+<Video youtube="XjRteFiMY2Y"/>
+</Tab>
+
 </Tabs>
 </GridItem>
 </Grid>
