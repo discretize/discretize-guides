@@ -1,6 +1,6 @@
 ---
 title: 'Aetherblade'
-date: '2020-03-27'
+date: '2020-06-03'
 image: './images/header.jpg'
 group: 'T4'
 api: 2948
@@ -157,6 +157,12 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 
 <Tab specialization="ranger">
 Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
+</Tab>
+
+<Tab specialization="warrior">
+Drop your banners in the very center of the arena. 
+
+Using <Skill name="whirlwind attack"/> against the wall is very effective. 
 </Tab>
 
 <Tab specialization="elementalist">
