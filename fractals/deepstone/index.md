@@ -1,6 +1,6 @@
 ---
 title: 'Deepstone'
-date: '2020-03-27'
+date: '2020-06-03'
 image: './images/header.jpg'
 group: 'T4'
 api: 4224
@@ -30,10 +30,10 @@ After two players passed, they stand on the cyan glowing runes to stop the tetri
 <Tab specialization="Guardian">
 <Video title="Tetris skip" timestamp="189" youtube="MmJTsOhdQeo"/>
 </Tab>
-<Tab specialization="Ranger">
+<Tab specialization="Soulbeast">
 <Video title="Tetris skip" youtube="5x1KpI1unYg"/>
 </Tab>
-<Tab specialization="Warrior">
+<Tab specialization="Berserker">
 <Video title="Tetris skip" youtube="29qQ2xU1YHk"/>
 </Tab>
 </Tabs>
