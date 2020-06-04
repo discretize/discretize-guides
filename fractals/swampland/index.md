@@ -36,6 +36,8 @@ Trigger the start event by walking to the three *Wisp Clefts* in the South. Wait
 Learn and practice to jump over the emerging walls, for nearly every wall there is an easy spot to skip over it.
 
 The remaining two players can take the _Invigorator Rifle Prototypes_ from the ground and use `Skill 3` to grant <Boon name="stability"/> to the Wisp runners. Note that it is possible to carry the Wisp from the farthest point without using any movement skills.
+
+<Image src="./images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -43,7 +45,9 @@ The remaining two players can take the _Invigorator Rifle Prototypes_ from the g
 <Tab specialization="renegade">
 Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance" disableText/>) for better mobility.
 </Tab>
+</Tabs>
 
+<Tabs>
 <Tab specialization="berserker">
 Use <Skill id="14516"/> for better mobility. Also <Skill name="shake it off"/> comes in handy to cleanse conditions!
 </Tab>
@@ -53,16 +57,15 @@ Use <Skill id="14516"/> for better mobility. Also <Skill name="shake it off"/> c
 <Tab specialization="weaver">
 Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cleanse.
 </Tab>
+</Tabs>
 
+<Tabs>
 <Tab specialization="daredevil">
 Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 </Tab>
 </Tabs>
 </GridItem>
 
-<GridItem sm="12">
-<Image src="./images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
-</GridItem>
 </Grid>
 
 ---
