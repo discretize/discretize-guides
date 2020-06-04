@@ -1,13 +1,13 @@
 ---
 title: 'What Should I Play?'
-date: '2020-04-28'
+date: '2020-06-04'
 image: './images/whatshouldiplaylogo.png'
 description: 'If you do not know what class you want to play.'
 ---
-### This section will guide you towards the class / classes that could possibly fit your type of gameplay regarding Challenge Modes (CMs) + Tier 4 (T4) fractals and **recommended for Tier 4 (T4) only** classes.
+### This section will guide you towards the class that could possibly fit your type of gameplay regarding Challenge Modes (CMs) + Tier 4 (T4) fractals and recommended for Tier 4 (T4) only classes.
 
 <Divider text="Meta builds"/>
-### These builds provide **the best runtimes** for your Challenge Modes! Also great for Tier 4 dailies.
+### These builds provide **the quickest runtimes** for your Challenge Modes! Also great for Tier 4 dailies.
 <Tabs outlined>
 <Tab title="DPS roles">
 | | |
@@ -20,7 +20,7 @@ description: 'If you do not know what class you want to play.'
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Specialization name="renegade"/> |1. Low learning curve, hard to master<br/><br/>2. Least damage out of the three meta supports, but your damage still counts<br/><br/>3. You are responsible for boons like <Boon name="Alacrity"/>, <Boon name="Might"/> and <Boon name="Protection"/><br/><br/>4. You buff the team with <Trait id="1786"/><br/>[Click here for the build!](/builds/revenant/hybrid-renegade)<br/><br/>  |
 | <Specialization name="berserker" text="Berserker"/> | <br/>1. Low learning curve, hard to master<br/><br/>2. Out of the three meta supports, you have the most damage<br/><br/>3. You buff the team with your banners:  <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/><br/>[Click here for the build!](/builds/warrior/banner-berserker)<br/><br/>    |
-| <Specialization name="firebrand"/> | <br/>1. Medium learning curve<br/><br/>2. You are the second most damage dealing support, above the <Specialization name="Renegade"/><br/><br/>3. You are responsible for boons like <Boon name="quickness"/>, <Boon name="Aegis"/> and <Boon name="might"/><br/><br/>4. If needed, you can provide more boons like <Boon name="Resistance"/> and <Boon name="Stability"/><br/><br/>5. You give the group a damage buff by using <Skill name="Bane Signet"/><br/><br/>6. In fast runs, for faster kill times, you can swap to <Specialization name="Dragonhunter"/> on all 99CM bosses and 100CM Skorvald<br/><br/>6. In very fast runs, <Specialization name="Guardian" text="Core Guardian"/> has more damage than <Specialization name="Dragonhunter"/><br/>[Click here for the build!](/builds/guardian/hybrid-firebrand)   |
+| <Specialization name="firebrand"/> | <br/>1. Medium learning curve<br/><br/>2. You are the second most damage dealing support, above the <Specialization name="Renegade"/><br/><br/>3. You are responsible for boons like <Boon name="quickness"/>, <Boon name="Aegis"/> and <Boon name="might"/><br/><br/>4. If needed, you can provide more boons like <Boon name="Resistance"/> and <Boon name="Stability"/><br/><br/>5. You give the group a damage buff by using <Skill name="Bane Signet"/><br/><br/>6. In fast runs, for faster kill times, you can swap to <Specialization name="Dragonhunter"/> on all 99CM bosses<br/><br/>6. In very fast runs, where <Boon name="aegis"/> can be upkept, <Specialization name="Guardian" text="Core Guardian"/> provides more damage than <Specialization name="Dragonhunter"/><br/>[Click here for the build!](/builds/guardian/hybrid-firebrand)   |
 </Tab>
 </Tabs>
 
