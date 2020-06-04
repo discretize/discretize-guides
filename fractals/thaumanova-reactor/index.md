@@ -36,8 +36,8 @@ Activate the *Detonator* and wait for the <Specialization name="renegade"/>, <Sp
 
 <GridItem sm="12">
 <Tabs>
-<Tab specialization="renegade">
-<Video title="renegade skip" youtube="lEdoox14vME"/> 
+<Tab specialization="Renegade">
+<Video title="Renegade skip" youtube="lEdoox14vME"/> 
 </Tab>
 
 <Tab specialization="Weaver">
