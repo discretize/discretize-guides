@@ -1,6 +1,6 @@
 ---
 title: 'Snowblind'
-date: '2020-03-27'
+date: '2020-06-04'
 image: './images/header.jpg'
 group: 'T4'
 api: 2952
@@ -41,11 +41,11 @@ When there are only a few percent remaining, go near the fire to leave combat an
 </Grid>
 
 <Tabs>
-<Tab specialization="Elementalist">
-Cast a <Skill name="Conjure Fiery Greatsword"/> for <Specialization name="revenant"/> at the wall right before it melts.
+<Tab specialization="Weaver">
+Cast a <Skill name="Conjure Fiery Greatsword"/> for <Specialization name="Renegade"/> at the wall right before it melts.
 </Tab>
   
-<Tab specialization="Revenant">
+<Tab specialization="Renegade">
 First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Place <Item id="78978"/> then  skip to the first bonfire on the left with anything like: <Skill name="Conjure Fiery Greatsword"/> or <Item id="49940"/> or <Item id="85244"/>, place portal exit when you lit the fire, then go to the _Elemental source_, deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, what you need to do is in the next paragraph with video.
 </Tab>
 </Tabs>
@@ -69,13 +69,13 @@ With reflects and high DPS you can simply burst the boss before any bonfire expi
 
 <GridItem sm="12">
 <Tabs>
-<Tab specialization="revenant">
+<Tab specialization="Renegade">
 Place a bubble on top of the _Elemental Source_, absorbing **EVERY** projectile so you do not have to dodge anymore.
   
-<Video title="Revenant bubble" youtube="ORcJL1p1pN8"/>
+<Video title="Renegade bubble" youtube="ORcJL1p1pN8"/>
 </Tab>
 
-<Tab specialization="elementalist">
+<Tab specialization="Weaver">
 With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 </Tab>
 </Tabs>
@@ -101,16 +101,16 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
   
 <GridItem sm="12">  
 <Tabs>
-<Tab specialization="Ranger">
+<Tab specialization="Soulbeast">
 <Video title="Ranger skip" timestamp="100"  youtube="3Zc_ZJqPD0s"/>  
 </Tab>
-<Tab specialization="Warrior">
+<Tab specialization="Berserker">
 <Video title="Warrior skip" timestamp="21"  youtube="29qQ2xU1YHk"/>
 </Tab>
 <Tab specialization="Guardian">
 <Video title="Guardian skip" timestamp="258" youtube="MmJTsOhdQeo"/>
 </Tab>
-<Tab specialization="Thief">
+<Tab specialization="Daredevil">
 <Video title="Thief skip" timestamp="125" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
@@ -132,7 +132,7 @@ At 75%, 50% and 25% you will need to kill a summoned _Icebrood Effigy_. Basicall
 
 <GridItem sm="4">
 <Tabs>
-<Tab specialization="Revenant">
+<Tab specialization="Renegade">
 Take either <Skill name="Legendary Dwarf Stance"/> or <Skill name="Legendary Centaur Stance"/> as secondary legend, both have their advantages. <Skill name="Legendary Dwarf Stance" disableText/> can give <Boon name="Stability"/> while <Skill name="Legendary Centaur Stance" disableText/> can give more condition cleanse and projectile absorption with <Skill name="Protective solace"/>.
 </Tab>
 </Tabs>
@@ -143,6 +143,13 @@ Use <Specialization name="Tempest"/> <Skill id="22572"/> for better cleave. The 
 </Tab>
 </Tabs>
 </GridItem>
+
+<Tabs>
+<Tab specialization="Berserker">
+Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly! Use [consumables](/guides/consumables) to CC!
+</Tab>
+</Tabs>
+
 </Grid>
 
 

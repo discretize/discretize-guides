@@ -1,6 +1,6 @@
 ---
 title: 'Uncategorized'
-date: '2020-03-27'
+date: '2020-06-04'
 image: './images/header.jpg'
 group: 'T4'
 api: 2939
@@ -37,11 +37,16 @@ consumables: [78978, 49940, 8764, 8801]
 
 ## Holding Area
 
-Stack <Boon name="might"/> before destroying the _Power Generator_, then kill the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's _Massive Smash_ attack. Reflects are strong here as well, especially against the Fire Shaman's projectiles.
+Stack <Boon name="might"/> before destroying the _Power Generator_, stack in the structure on the left side of the room and let your <Specialization name="renegade"/> destroy the _Power Generator_.
+
+Then kill the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's _Massive Smash_ attack. Reflects are strong here as well, especially against the Fire Shaman's projectiles.
 
 <Tabs>
-<Tab specialization="elementalist">
+<Tab specialization="Weaver">
 If positioned correctly, you can <Skill id="5697"/> against the wall.
+</Tab>
+<Tab specialization="Berserker">
+Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly! Use [consumables](/guides/consumables) to CC!
 </Tab>
 </Tabs>
 </GridItem>
@@ -49,12 +54,12 @@ If positioned correctly, you can <Skill id="5697"/> against the wall.
 <GridItem sm="5">
 <Tabs>
 
-<Tab specialization="thief">
-Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="thief"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.    
+<Tab specialization="Daredevil">
+Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="Daredevil"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.    
         <Skill id="13065"/> is also useful against the Holding Area bosses.
 </Tab>
 
-<Tab specialization="ranger">
+<Tab specialization="Soulbeast">
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
 </Tab>
 </Tabs>
@@ -69,7 +74,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 <GridItem sm="8">
 ## Pulsing Orbs
 
-You can skip this part with <Specialization name="Elementalist"/> or <Specialization name="Thief"/> shown in the videos down below or you can just walk past the three Harpies (no <Effect name="stealth"/> needed) and run up the ramp towards Old Tom. You can dodge through or reflect the pulsing orbs and even skip the last part by walking on the left wall.
+You can skip this part with <Specialization name="Weaver"/> or <Specialization name="Daredevil"/> shown in the videos down below or you can just walk past the three Harpies (no <Effect name="stealth"/> needed) and run up the ramp towards Old Tom. You can dodge through or reflect the pulsing orbs and even skip the last part by walking on the left wall.
 </GridItem>
 
 <GridItem sm="4">
@@ -78,16 +83,16 @@ You can skip this part with <Specialization name="Elementalist"/> or <Specializa
 
 <GridItem sm="12">
 <Tabs>
-<Tab specialization="Elementalist">
+<Tab specialization="Weaver">
 <Message>  
-Use the same starting spot as in the <Specialization name="Thief"/>'s video, not where the video shows, the end point is the same!
+Use the same starting spot as in the <Specialization name="Daredevil"/>'s video, not where the video shows, the end point is the same!
 </Message> 
 
 <Video title="Ele skip" timestamp="79" youtube="OjUvCp2h_04"/>
 </Tab>  
   
-<Tab specialization="Thief">
-<Video title="Thief skip" timestamp="125" youtube="Alpgs_GaZV0"/>
+<Tab specialization="Daredevil">
+<Video title="Daredevil skip" timestamp="125" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs> 
 </GridItem>
@@ -114,11 +119,11 @@ Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful w
 <Tab specialization="guardian">
 <Video title="Guardian skip" youtube="MmJTsOhdQeo"/>
 </Tab>
-<Tab specialization="ranger">
-<Video title="Ranger skip" timestamp="225"  youtube="3Zc_ZJqPD0s"/> 
+<Tab specialization="Soulbeast">
+<Video title="Soulbeast skip" timestamp="225"  youtube="3Zc_ZJqPD0s"/> 
 </Tab>
-<Tab specialization="Warrior">
-<Video title="Warrior skip" youtube="3DPh3uRNKIk"/>
+<Tab specialization="Berserker">
+<Video title="Berserker skip" youtube="3DPh3uRNKIk"/>
 </Tab>
 </Tabs>
 </GridItem>

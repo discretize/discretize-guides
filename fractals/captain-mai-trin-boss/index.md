@@ -1,6 +1,6 @@
 ---
 title: 'Captain Mai Trin Boss'
-date: '2020-03-27'
+date: '2020-06-03'
 image: './images/header.jpg'
 group: 'T4'
 api: 2932
@@ -33,7 +33,7 @@ After you killed the mobs, use the Mistlock Singularity to reset cooldown then t
 <GridItem sm="7">
 Mai Trin is protected by ten stacks of *Captain's Shield*, each stack reducing her incoming damage by 10%. The only way to remove stacks is by pulling her into electric fields from Horriks alternating projectiles. Standing in the electric field will remove one stack per second from her. The fire field projectile from Horrik can be reflected and absorbed. You can easily recognize the projectile type from the icon above the targeted player.
 
-The key is to stack on Mai Trin during the whole fight (beware the <Effect name="agony"/> from <Instability name="Social Awkwardness"/>), this way she will always be in an electric field, even if she teleports to the furthest player away.
+The key is to stack on Mai Trin during the whole fight, this way she will always be in an electric field, even if she teleports to the furthest player away.
 
 Every 25% health, Mai Trin disappears and additional enemies will spawn while fiery cannons start shooting. Switch your damage to Horrik and deal 25% of his health to make Mai Trin return. Cleave the spawning mobs during downtimes.
 
@@ -55,6 +55,9 @@ It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile a
 <Tabs>
 <Tab specialization="soulbeast">
 You can block Horrik's cannon projectile with <Skill name="Counterattack" specialization="ranger"/> (Greatsword 4).
+</Tab>
+<Tab specialization="berserker">
+Play Greatsword with <Skill name="blood reckoning"/> for maximum cleave with double <Skill name="arcdivider"/>.
 </Tab>
 </Tabs>
 </GridItem>

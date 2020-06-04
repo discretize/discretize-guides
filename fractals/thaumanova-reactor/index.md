@@ -1,6 +1,6 @@
 ---
 title: 'Thaumanova Reactor'
-date: '2020-05-21'
+date: '2020-06-04'
 image: './images/header.jpg'
 group: 'T4'
 api: 2967
@@ -27,7 +27,7 @@ consumables: [78978, 49940]
 <Grid>
 <GridItem sm="8">
 ## Start
-Activate the *Detonator* and wait for the <Specialization name="revenant"/>, <Specialization name="elementalist"/>, <Specialization name="guardian"/> or <Specialization name="thief"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="might"/> in the vestibule) or if no one can skip just walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
+Activate the *Detonator* and wait for the <Specialization name="renegade"/>, <Specialization name="Weaver"/>, <Specialization name="guardian"/> or <Specialization name="Daredevil"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="might"/> in the vestibule) or if no one can skip just walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
 </GridItem>
 
 <GridItem sm="4">
@@ -36,20 +36,20 @@ Activate the *Detonator* and wait for the <Specialization name="revenant"/>, <Sp
 
 <GridItem sm="12">
 <Tabs>
-<Tab specialization="revenant">
-<Video title="Revenant skip" youtube="lEdoox14vME"/> 
+<Tab specialization="renegade">
+<Video title="renegade skip" youtube="lEdoox14vME"/> 
 </Tab>
 
-<Tab specialization="elementalist">
-<Video title="Elementalist skip" timestamp="8" youtube="OjUvCp2h_04"/>
+<Tab specialization="Weaver">
+<Video title="Weaver skip" timestamp="8" youtube="OjUvCp2h_04"/>
 </Tab>
   
 <Tab specialization="guardian">
 <Video title="Guardian skip" timestamp="480" youtube="MmJTsOhdQeo"/>
 </Tab>
 
-<Tab specialization="thief">
-<Video title="Thief skip" timestamp="217" youtube="Alpgs_GaZV0"/>
+<Tab specialization="Daredevil">
+<Video title="Daredevil skip" timestamp="217" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
 </GridItem> 
@@ -60,7 +60,7 @@ Activate the *Detonator* and wait for the <Specialization name="revenant"/>, <Sp
 <Grid>
 <GridItem sm="12">  
 <Message>
-For a faster completion time you can split up. <Specialization name="Warrior"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Elementalist"/> soloes Superheated Room <Label>West</Label> and <Specialization name="revenant"/> and <Specialization name="soulbeast"/> do Researcher Dormitories <Label>East</Label>.
+For a faster completion time you can split up. <Specialization name="Berserker"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Weaver"/> soloes Superheated Room <Label>West</Label> and <Specialization name="renegade"/> and <Specialization name="soulbeast"/> do Researcher Dormitories <Label>East</Label>.
 </Message> 
 </GridItem>
   
@@ -91,7 +91,7 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 <Grid>
 <GridItem sm="8">  
 ## Researcher Dormitories <Label>East</Label>
-2 people (usually <Specialization name="revenant"/> and <Specialization name="soulbeast"/>) should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
+2 people (usually <Specialization name="renegade"/> and <Specialization name="soulbeast"/>) should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
 </GridItem>
 
 <GridItem sm="4">
@@ -108,33 +108,33 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 
 <GridItem sm="8">
 ## Superheated Room <Label>West</Label>
-This is usually solo'ed by the <Specialization name="elementalist"/> but other classes can do it as well, like in the **video shown below**.
+This is usually solo'ed by the <Specialization name="Weaver"/> but other classes can do it as well, like in the **video shown below**.
 </GridItem>
 
 <GridItem sm="12">
 <Tabs>
-<Tab specialization="revenant">
-<Video title="Revenant skip" timestamp="0" youtube="jfat_6yDqV4"/>
+<Tab specialization="renegade">
+<Video title="renegade skip" timestamp="0" youtube="jfat_6yDqV4"/>
 </Tab>
 
-<Tab specialization="elementalist">
-<Video title="Elementalist skip" timestamp="28" youtube="OjUvCp2h_04"/>
+<Tab specialization="Weaver">
+<Video title="Weaver skip" timestamp="28" youtube="OjUvCp2h_04"/>
 </Tab>
    
 <Tab specialization="guardian">
 <Video title="Guardian skip" timestamp="519" youtube="MmJTsOhdQeo"/>  
 </Tab>
 
-<Tab specialization="ranger">
-<Video title="Ranger skip" timestamp="152" youtube="3Zc_ZJqPD0s"/>
+<Tab specialization="Soulbeast">
+<Video title="Soulbeast skip" timestamp="152" youtube="3Zc_ZJqPD0s"/>
 </Tab>
 
-<Tab specialization="Warrior">
-<Video title="Warrior skip" timestamp="160"  youtube="REnmbN7sZFQ"/>
+<Tab specialization="Berserker">
+<Video title="Berserker skip" timestamp="160"  youtube="REnmbN7sZFQ"/>
 </Tab>
 
-<Tab specialization="thief">
-<Video title="Thief skip" timestamp="241" youtube="Alpgs_GaZV0"/>
+<Tab specialization="Daredevil">
+<Video title="Daredevil skip" timestamp="241" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
 </GridItem>
@@ -159,13 +159,14 @@ Requires high damage and you may have to wait a while as the blocking occurs at 
 <Image src="./images/subject_6_block.jpg" caption="Subject 6 in block mode"/>
 
 <Tabs>
-<Tab specialization="warrior">
-Equip <Skill id="14404"/> to make your CC skills unblockable.
-</Tab>
-
-<Tab specialization="thief">
+<Tab specialization="Daredevil">
 Share <Skill id="13132"/> with 5 allies to deal 750 unblockable defiance bar damage.
 </Tab>
+<Tab specialization="Berserker">
+Equip <Skill id="14404"/> to make your CC skills unblockable.
+<Video youtube="XjRteFiMY2Y"/>
+</Tab>
+
 </Tabs>
 </GridItem>
 </Grid>
@@ -184,7 +185,7 @@ Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (
 
 <GridItem sm="4">
 <Tabs>
-<Tab specialization="Revenant">
+<Tab specialization="renegade">
 It is favorable to run <Skill name="Legendary Renegade Stance"/> / <Skill name="Legendary Centaur Stance"/> for projectile absorption of the Anomaly's attacks from 50% health with <Skill name="Protective Solace"/>.
 </Tab>
 </Tabs>

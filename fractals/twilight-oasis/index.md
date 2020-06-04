@@ -1,6 +1,6 @@
 ---
 title: 'Twilight Oasis'
-date: '2020-03-27'
+date: '2020-06-04'
 image: './images/header.jpg'
 group: 'T4'
 api: 3973
@@ -29,24 +29,24 @@ record:
   
 ## Start: Run!  
   
-Let your <Specialization name="revenant"/> skip the first part or use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders. If the instabilities are too harsh, you can take your time killing them as some of them will follow you to the first Sand Binder but it will make the fractal way longer than it should be!
+Let your <Specialization name="Renegade"/> skip the first part or use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders. If the instabilities are too harsh, you can take your time killing them as some of them will follow you to the first Sand Binder but it will make the fractal way longer than it should be!
 </GridItem>
 
 <GridItem sm="5">
 <Tabs>
-<Tab specialization="ranger">
+<Tab specialization="Soulbeast">
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
 </Tab>
 </Tabs>
 
 <Tabs>
-<Tab specialization="elementalist">
+<Tab specialization="Weaver">
 It is worth to run <Skill name="arcane wave"/> for the whole fractal for more <Boon name="Might"/>, since you can't really stack anywhere.
 </Tab>
 </Tabs>
 
 <Tabs>
-<Tab specialization="thief">
+<Tab specialization="Daredevil">
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
 </Tab>
 </Tabs>
@@ -54,10 +54,10 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply ca
 
 <GridItem sm="12">
 <Tabs>
-<Tab specialization="revenant">
+<Tab specialization="Renegade">
 You can skip this first part with <Item id="78978"/>.
   
-<Video title="Revenant skip" youtube="xHeZuQ5zWMU"/> 
+<Video title="Renegade skip" youtube="xHeZuQ5zWMU"/> 
 </Tab>
 </Tabs>
 </GridItem>
@@ -68,18 +68,11 @@ You can skip this first part with <Item id="78978"/>.
 
 <Grid>
 <GridItem>
-Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="pull"/> abilities will cancel any attack currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/> and <Specialization name="warrior"/>'s cooldowns for the Amala fight.
+Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="pull"/> abilities will cancel any attack currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/> and <Specialization name="berserker"/>'s cooldowns for the Amala fight.
 
 <Boon name="aegis"/> is not helpful here as the _Tornadoes_ quickly remove it.
 </GridItem>
 
-<GridItem>
-<Tabs>
-<Tab specialization="ranger">
-Run an offhand axe for the <Control name="pull"/> from <Skill id="12638"/>.
-</Tab>
-</Tabs>
-</GridItem>
 </Grid>
 
 ---
@@ -107,7 +100,7 @@ You can freely use `/gg` after she downs the party to reset cooldowns, just wait
 <GridItem sm="7">
 Now that you're awakened, you gain access to a new special action skill which launches you high into the air and breaks <Control name="stun"/>. It doesn't have a cooldown out of combat so do not get in fight during skips if possible.
     
-It can also be used to jump while casting any skill that requires you to stand still otherwise, as long as you do not move in any direction (<Skill id="5501" profession="elementalist"/> and similar skills).
+It can also be used to jump while casting any skill that requires you to stand still otherwise, as long as you do not move in any direction (<Skill id="5501" profession="Weaver"/> and similar skills).
 
 Jump up to the roof on the right-hand side and kill two Sandbinders on the roofs. The first is a copy of the Sandbinder you fought at the beginning, the second one also uses Dwayna's _Lightning Storm_ (strafe sideways from allies to avoid it).
 

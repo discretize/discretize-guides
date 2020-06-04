@@ -1,8 +1,8 @@
 ---
 title: 'CC Distribution'
-date: '2020-04-14'
+date: '2020-05-31'
 image: './images/preview.jpg'
-description: 'Learn how to contribute your share of CC to break enormous break bars.'
+description: 'Learn how to contribute your share of CC to break all the bars.'
 ---
  
 ## Basics of Crowd Control:
@@ -17,9 +17,12 @@ Usually elite or higher mobs will have a defiance bar in fractals, your goal sho
 
 Once you break an enemies defiance bar they will gain an effect named <Effect name="exposed"/>, which means they take **50% more damage**. They will also usually be <Effect name="Stun"/>ed, which means they are unable to attack you or deal damage to you.
 </Card>
-This guide's aim is to help you understand how your team should cooperate to breaking any breakbar. The present <Specialization name="firebrand"/> + <Specialization name="renegade"/> meta demands CC contributions from every member of the party, **even of the DPS players!** A list of CC skills along with their defiance bar damage can be found on each classes respective [Build page](/builds). 
+This guide's aim is to help you understand how your team should cooperate to break all the CC bars. 
+The present <Specialization name="firebrand"/> + <Specialization name="renegade"/> meta demands CC contributions from every member of the party, **even of the DPS players!** 
+A list of CC skills along with their defiance bar damage can be found on each classes respective [Build page](/builds). 
 
-In Tier 4 fractals (T4) a breakbar usually does not exceed 600, nevertheless it is everyone's responsibility to break bars as quickly as possible. In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for their lack of CC with [CC consumables](/guides/consumables).
+In Tier 4 fractals (T4) a breakbar usually does not exceed 600 units, nevertheless it is everyone's responsibility to break bars as quickly as possible. 
+In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for their lack of CC with [CC consumables](/guides/consumables).
 <Message>
 **Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**
 </Message>

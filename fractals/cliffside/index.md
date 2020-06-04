@@ -1,6 +1,6 @@
 ---
 title: 'Cliffside'
-date: '2020-03-27'
+date: '2020-06-03'
 image: './images/header.jpg'
 group: 'T4'
 api: 2930
@@ -118,11 +118,11 @@ Type `/gg` after finishing both seals and stay dead. If you wipe before both sea
 <GridItem sm="7">
 <Image src="./images/arm_seal.jpg" caption="One of the arm seals"/>
 <Tabs>
-<Tab specialization="warrior">
-You can take the *Cultist Hammer* and use <Skill id="21815"/> during the portal jumping to nullify the high incoming damage.
+<Tab specialization="berserker">
+You can take the *Cultist Hammer* and use <Skill id="21815"/> during the portal jumping to nullify the high incoming damage. Make sure to grab a greatsword for <Skill name="arcdivider"/>.
 </Tab>
 
-<Tab specialization="ranger">
+<Tab specialization="soulbeast">
 Again, <Skill id="12638"/> on offhand Axe helps pulling the Cultists to you.
 </Tab>
 </Tabs> 
@@ -183,4 +183,3 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 <Image src="./images/arch_diviner.jpg" caption="The arch diviner and the final seal"/>  
 </GridItem>
 </Grid>
-
