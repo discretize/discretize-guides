@@ -1,6 +1,6 @@
 ---
 title: 'Swampland'
-date: '2020-03-27'
+date: '2020-06-04'
 image: './images/bloomhunger_spirit_onslaught.jpg'
 group: 'T4'
 api: 2892
@@ -40,21 +40,21 @@ The remaining two players can take the _Invigorator Rifle Prototypes_ from the g
 
 <GridItem sm="4">
 <Tabs>
-<Tab specialization="revenant">
+<Tab specialization="renegade">
 Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance" disableText/>) for better mobility.
 </Tab>
 
-<Tab specialization="warrior">
-Use <Skill id="14516"/> for better mobility.
+<Tab specialization="berserker">
+Use <Skill id="14516"/> for better mobility. Also <Skill name="shake it off"/> comes in handy to cleanse conditions!
 </Tab>
 </Tabs>
 
 <Tabs>
-<Tab specialization="elementalist">
+<Tab specialization="weaver">
 Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cleanse.
 </Tab>
 
-<Tab specialization="thief">
+<Tab specialization="daredevil">
 Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 </Tab>
 </Tabs>

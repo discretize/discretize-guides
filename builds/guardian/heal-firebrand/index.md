@@ -1,6 +1,6 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2020-03-28'
+date: '2020-06-04'
 rating: 'T4'
 role: 'Support'
 profession: 'Guardian'
@@ -12,7 +12,7 @@ code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 <Message>
-Despite being very common in pugs, this build is not meta! We recommend to play [Heal Renegade](/builds/revenant/heal-renegade) for PUGs who are more organized and know the mechanics (after around 150-200+ <Item id="81743"/>) the reason is that <Specialization name="firebrand"/> usually can deal way more damage than <Specialization name="renegade"/>.
+Despite being very common in pugs, this build is not meta! We recommend to play [Heal Renegade](/builds/revenant/heal-renegade) for PUGs who are more organized and know the mechanics (after around 150-200+ <Item id="81743"/>). <Specialization name="firebrand"/> usually can deal way more damage than <Specialization name="renegade"/>.
 </Message>
 
 <Tabs>
