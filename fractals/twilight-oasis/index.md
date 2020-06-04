@@ -67,12 +67,9 @@ You can skip this first part with <Item id="78978"/>.
 ## First Sandbinder
 
 <Grid>
-<GridItem>
 Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="pull"/> abilities will cancel any attack currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/> and <Specialization name="berserker"/>'s cooldowns for the Amala fight.
 
 <Boon name="aegis"/> is not helpful here as the _Tornadoes_ quickly remove it.
-</GridItem>
-
 </Grid>
 
 ---
