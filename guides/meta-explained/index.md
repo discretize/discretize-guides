@@ -29,7 +29,8 @@ It is important to note, that each challenge mote encounter has a different most
 
 Most fights in fractals are so short, that Condi classes or power damage classes with a longer ramp-up time (e.g. <Specialization name="chronomancer"/>) do not get to the point, where they unfold their potential. Also slaying potions such as <Item name="powerfulpotionofslayingscarletsarmies"/> favor power burst classes over Condi. 
 
-This composition is often called the "daily comp" or also "rainbow comp".
+This composition is often called the "daily comp" or also "rainbow comp" <Specialization name="weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Firebrand" disableText/><Specialization name="Renegade" disableText/><Specialization name="Berserker" disableText/>
+.
 
 <Tabs>
 <Tab specialization="Renegade">
@@ -123,21 +124,4 @@ Now let's look at Skorvald. Many PuGs manage to bring him down to 40-45% percent
 Another huge problem is that PuGs often claim, that CC is solely the job of the <Specialization name="Renegade"/>. That is not true since <Specialization name="Renegade"/> can only knock out about half of the bars. CC is a group effort involving all party members!
 
 Many PuGs like to play <Specialization name="Dragonhunter"/>. That is just fine as you don't know what to expect of your fellow PuG mates and you prefer to be self-sufficient. But please use <Skill name="bane signet"/> with <Trait name="perfectinscriptions"/> to CC and provide a huge party-wide unique buff! It is more worth it than the half a thousand DPS you gain from pressing an auto-attack instead. 
-
-
-<br><br><br><br>
-
-
-
-
-
-
-
-
-
-<Specialization name="weaver" size="large" disableText/><Specialization name="Soulbeast" size="large" disableText/><Specialization name="Firebrand" size="large" disableText/><Specialization name="Renegade" size="large" disableText/><Specialization name="Berserker"  size="large" disableText/>
-
-
-
-
 
