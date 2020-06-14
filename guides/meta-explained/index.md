@@ -50,7 +50,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Provides permanent <Boon name="Quickness"/>, on demand <Boon name="Aegis"/> and <Boon name="Resistance"/>.
 * Contributes to CC with <Skill name="banesignet"/>.
 * Provides a unique damage buff <Skill name="banesignet"/>, which increases the entire group's power by 216. 
-* Deals about 3/4 of the damage of a DPS class. 
+* The damage depends on the encounter. In 99CM <Specialization name="Guardian"/> or <Specialization name="dragonhunter"/> can be played resulting in very high DPS; in 100CM as <Specialization name="Firebrand"/> 1/2 up to 3/4 of a DPS player. 
 * Provides instant <Condition name="vulnerability"/> application with <Skill name="swordsofjustice"/>, which helps immensely to kill adds quickly at Mama, Siax and Skorvald.
 * Has blinks on <Skill name="symbol of blades"/> <Skill name="judges intervention"/> and <Skill name="mercifulintervention"/>.
 * Can provide situational <Boon name="stability"/> for T4s or Artsariiv.
