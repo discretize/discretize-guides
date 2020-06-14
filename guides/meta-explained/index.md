@@ -90,7 +90,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 
 Removing one of these 5 classes will introduce new issues or be strictly worse. 
 
-Removing <Specialization name="Firebrand"/> + <Specialization name="Renegade"/>: the only other class, which can provide <Boon name="Alacrity"/> is the <Specialization name="Chronomancer"/>. However, <Specialization name="Chronomancer"/> needs <Trait name="Seizethemoment"/> to keep up 5-man <Boon name="Quickness"/> and high amounts of boon duration. CC is comparable to what <Specialization name="Renegade"/> provides but you are lacking <Skill name="bane signet"/> and <Trait name="assassinspresence"/>!
+Removing <Specialization name="Firebrand"/> + <Specialization name="Renegade"/>: the only other class, which can provide <Boon name="Alacrity"/> is the <Specialization name="Chronomancer"/>. However, <Specialization name="Chronomancer"/> needs to play perfectly to keep up 5-man <Boon name="Quickness"/> and <Boon name="alacrity"/> and is therefore considered an unreliable boon provider. CC is comparable to what <Specialization name="Renegade"/> provides but lacking <Skill name="bane signet"/> and <Trait name="assassinspresence"/>! Also <Boon name="Might"/> becomes a bigger issue without a <Specialization name="renegade"/>.
 
 Removing <Specialization name="berserker"/>: without the extra precision from the banners the party would be required to run either more assassins gear or another <Specialization name="soulbeast"/> with <Trait name="spotter"/>. <Specialization name="berserker"/> provides high CC and DPS in CMs and very high cleave damage making it irreplaceable in a daily clear. 
 
