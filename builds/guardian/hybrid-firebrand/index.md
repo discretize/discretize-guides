@@ -127,12 +127,12 @@ To keep up <Boon name="Quickness"/>:
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 - Keep in mind that equipping/stowing a tome grants you 3 seconds of <Boon name="quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
-The DPS rotation is exactly the same as [Power Dragonhunter](/builds/guardian/power-dragonhunter):
+The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-dragonhunter):
 
 - If the encounter allows you to, you can prestack the following symbols:
   - Equip Mace and precast <Skill name="Symbol of Faith"/>
   - Equip Scepter and precast <Skill name="Symbol of Punishment"/>
-  - And finally equip Sword and cast <Skill name="Symbol of Blades"/>
+  - And finally, equip Sword and cast <Skill name="Symbol of Blades"/>
   - This way, when the encounter starts, 3 symbols will hit the target and get up your stacks of <Trait name="symbolicavenger"/>
 - On greatsword:
   - Use <Skill name="Symbol of Wrath"/>, you should cancel the aftercast with weapon stowing or simply moving
@@ -148,7 +148,7 @@ The DPS rotation is exactly the same as [Power Dragonhunter](/builds/guardian/po
   - <Skill name="Bane Signet"/> to break defiance bars and provide the group with a temporary 216 power buff
   - <Skill id="9226"/> (after <Skill id="9147"/>) is nice CC skill as well
   - <Skill name="Sword of Justice"/> for additional DPS and vulnerability. Also provides 3 seconds of cripple
-  - Scepter plays exactly the same as sword, just without <Skill name="Zealots Defense"/>
+  - Scepter plays the same as the sword, just without <Skill name="Zealots Defense"/>
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
@@ -224,7 +224,7 @@ The following guide assumes you are playing with a decent group. In a PuG scenar
 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
-5) Use <Skill name="Feelmywrath"/>	
+5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take mistlock
 8) And repeat step 3 and 5
@@ -264,7 +264,7 @@ The following guide assumes you are playing with a decent group. In a PuG scenar
 2) Use <Skill name="Bindingblade"/> -> <Skill name="pull"/> ( can be used if the bar is not broken yet)
 
 ### **Phase 4**
-1) <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath for stacking <Boon name="Might"/>	before she reach the party (Ideally right when the third add dies)
+1) <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath for stacking <Boon name="Might"/> before she reach the party (Ideally right when the third add dies)
 2) Help with CC with  whatever you have
 3) <Skill name="symbol of wrath"/>
 4) <Skill name="whirling wrath"/>
@@ -289,7 +289,7 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 3) Use 2 charges of <Skill name="potent haste"/> (3 if you change to DH/Core) and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
-5) Use <Skill name="Feelmywrath"/>	
+5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take mistlock
 8) And repeat step 3 and 5 (If you swap to DH/Core, only repeat step 5 )
@@ -324,7 +324,7 @@ NOTE - you should help your <Specialization name="Weaver"/> on the north
 - Share Aegis to block the red AoE
 
 ### *Split Phase 2*
-NOTE - you should help both <Specialization name="Weaver"/>	and <Specialization name="soulbeast"/> with their adds
+NOTE - you should help both <Specialization name="Weaver"/>  and <Specialization name="soulbeast"/> with their adds
 - Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
 - Help <Specialization name="Weaver"/> by using <Skill name="symbol of punishment"/> and/or <Skill name="ray of judgment"/> on his add
 
@@ -377,7 +377,7 @@ NOTE - you should help your <Specialization name="Weaver"/> on the north
 Keep in mind that if your group is not fast enough, you need to use <Skill name="virtue of courage"/> for <Boon name="aegis"/>. 
 
 ### *Split Phase 2*
-NOTE - you should help both <Specialization name="Weaver"/>	and <Specialization name="soulbeast"/> with their adds
+NOTE - you should help both <Specialization name="Weaver"/>  and <Specialization name="soulbeast"/> with their adds
 - Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
 - Help <Specialization name="Weaver"/> by using <Skill name="symbol of blades"/> and/or <Skill name="ray of judgment"/> on his add
 - You can run <Skill name="judges intervention"/> to get back to Siax fast
@@ -424,7 +424,7 @@ NOTE - you should help your <Specialization name="Weaver"/> on the north
 - Share Aegis to block the red AoE
 
 ### *Split Phase 2*
-NOTE - you should help both <Specialization name="Weaver"/>	and <Specialization name="soulbeast"/> with their adds
+NOTE - you should help both <Specialization name="Weaver"/>  and <Specialization name="soulbeast"/> with their adds
 - Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
 - Help <Specialization name="Weaver"/> by using <Skill name="symbol of punishment"/> and/or <Skill name="ray of judgment"/> on his add
 
@@ -456,7 +456,7 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
-5) Use <Skill name="Feelmywrath"/>	
+5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take mistlock
 8) And repeat step 3 and 5
@@ -527,14 +527,14 @@ Notes:
 - Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 <Tabs>
 <Tab title="Skorvald">
-Rotation on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/>	runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
+Rotation on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
  
  ### **Precast**
  1) Cast <Skill name="tome of justice"/> Skill 4 and 5
  2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
  3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
  4) Use <Skill name="Stand your ground"/>
- 5) Use <Skill name="Feelmywrath"/>	
+ 5) Use <Skill name="Feelmywrath"/>  
  6) Use <Skill name="banesignet"/>
  7) Take mistlock
  8) And repeat step 3 and 5
@@ -598,18 +598,18 @@ Rotation on Skorvald depends on whether your <Specialization name="Renegade"/> r
  Notes:
  1) If your renegade runs <Skill name="Legendary Dwarf Stance"/>, Precast one <Skill name="sword of justice"/> at the start, Then use on each island and at the start of both phase 2 and 3
  2) Be careful with what island you choose for your <Item name="white mantle portal device"/>
-     1) Dont use it at the island where you are supposed to enter any of your tomes
+     1) Don't use it at the island where you are supposed to enter any of your tomes
 
 </Tab>
 <Tab title="Artsariiv">
-Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/>	runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
+Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/>  runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
 
 ### **Precast**
 1) Cast <Skill name="tome of justice"/> Skill 4 and 5
 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
-5) Use <Skill name="Feelmywrath"/>	
+5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take mistlock
 8) And repeat step 3 and 5
@@ -680,7 +680,7 @@ Stay in the middle
 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
-5) Use <Skill name="Feelmywrath"/>	
+5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take mistlock
 8) And repeat step 3 and 5

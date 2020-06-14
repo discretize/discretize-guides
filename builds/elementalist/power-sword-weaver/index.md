@@ -386,7 +386,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 - Continue your auto attack chain till siax phases (or repeat the rotation if the dps is super low).
 
 **2nd Echo**
-- Same as previous echo.
+- Same as the previous echo.
 
 **33%**
 - Cast <Skill id="5531"/> and <Skill id="5737"/> (if you used it at 100%) just before Siax becomes vulnerable.   
@@ -469,7 +469,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 
 **33%**
 - Cast <Skill id="5687"/> to CC the boss and do your burst.
-- Be on max melee range before the boss starts spinning, dont die like a scrub.
+- Be on max melee range before the boss starts spinning, don't die like a scrub.
 
 **Tryhard/Static run**
 - Take <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases (Also ez <Boon name="might"/>).

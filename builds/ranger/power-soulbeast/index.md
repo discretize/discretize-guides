@@ -43,7 +43,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="might"/> pre-stacking.
 * Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>.
-* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
+* Axes, Longbows, and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
 
 </Card>
 </GridItem>
@@ -70,7 +70,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/>!
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="might"/> pre-stacking.
 * Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>.
-* Axes, Longbows and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
+* Axes, Longbows, and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
 
 </Card>
 </GridItem>
@@ -134,7 +134,7 @@ It can be easier to just use a ring with 3 <Item id="49438"/> in order to reach 
 </Card>
 <Card title="Skirmishing and Fractals">
 Running Skirmishing in fractals is quite a niche choice, you need to satisfy **both of the following requirements:**
-- You can be sure that you have the ability to flank the boss permanently.
+- You can be sure that you can flank the boss permanently.
 - You want to replace a <Specialization name="Berserker"/> by providing your team with <Trait name="Spotter"/> so they can crit cap.
 
 If both of these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:
@@ -171,26 +171,26 @@ The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to 
 
 Also as <Specialization name="soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your weaver). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="exposed"/>. 
 
-In PuGs however it is quite hard to predict when the boss will be CCed as well as phases can last a lot longer than expected, because of this the golem rotation is listed to the right so that you can resort back to it if you end up in a longer phase.
+In PuGs, however, it is quite hard to predict when the boss will be CCed as well as phases can last a lot longer than expected, because of this the golem rotation is listed to the right so that you can resort back to it if you end up in a longer phase.
 
 **Weapon Skills:**
-- **You should always run mainhand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
+- **You should always run main-hand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
 - As a <Specialization name="Soulbeast"/> you want to always run offhand axe as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
 
-For your second weaponset you either run greatsword or longbow:
-- Greatsword is the default pick for the <Specialization name="Soulbeast"/> as it offers great sustained DPS. You need to be smart about utilizing the <Effect name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios.
-- Longbow has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is a high damage ticking AoE however you will end up with lower damage if your phases are too long since its autoattacks are very weak. Longbow synergises well with <Item id="84505"/> which you can proc for a nice damage bonus. 
+For your second weapon set you either run greatsword or longbow:
+- Greatsword is the default pick for the <Specialization name="Soulbeast"/> as it offers great sustained DPS. You need to be smart about utilizing the <Effect name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios.
+- Longbow has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
 - In order to proc <Item id="84505"/> you merely need to use any CC skill (such as <Skill id="45743"/> or <Skill id="12511"/>) whilst the enemy is using an ability.
 
 **Pets:**
-- For pets you simply run <Skill id="43636" disableText/> [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) if you need CC or <Skill id="44617" disableText/> [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) if you don't. **It is safer to just run Gazelle most of the time and only swap to Moa when you are absolutely sure you don't need the CC. You never know when a little CC can come in handy!**
+- For pets you simply run <Skill id="43636" disableText/> [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) if you need CC or <Skill id="44617" disableText/> [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) if you don't. **It is safer to just run Gazelle most of the time and only swap to Moa when you are sure you don't need the CC. You never know when a little CC can come in handy!**
 - You want to have <Skill id="31568" disableText/> [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) on swap to have quick access if you need stealth for skips at any point.
 
 **Utility Skills:**
-- You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus** for its duration. One thing to keep in mind is that it only grants you 40% damage bonus against the foe you use it on, so if you are cleaving trash mobs it might not be worth using. Secondly you only get the buff if you are in <Skill id="42944"/> so also don't activate it if you are unmerged. 
-- You default second utility is <Skill name="Signet of the wild"/> which is a nice passive stat increase. Depending on the situation you can instead run <Skill name="Frost trap"/> which offers higher burst potential. The situations when you want to run trap depend upon phase length and downtime on phases where trap can recharge.
-  - For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="exposed"/> since it recharges during the island phase so trap is an obvious pick over signet.
-- Most healing skills on ranger are quite useful: <Skill name="We heal as one"/> is a large heal and extends the boons on yourself thanks to <Skill id="42944"/>. Secondly <Skill name="Bear stance"/> is a great condi cleanse either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for pushing orbs at Arkk in order to enter the damage field.
+- You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus** for its duration. One thing to keep in mind is that it only grants you a 40% damage bonus against the foe you use it on, so if you are cleaving trash mobs it might not be worth using. Secondly, you only get the buff if you are in <Skill id="42944"/> so also don't activate it if you are unmerged. 
+- Your default second utility is <Skill name="Signet of the wild"/> which is a nice passive stat increase. Depending on the situation you can instead run <Skill name="Frost trap"/> which offers higher burst potential. The situations when you want to run trap depend upon phase length and downtime on phases where the trap can recharge.
+  - For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="exposed"/> since it recharges during the island phase so the trap is an obvious pick over signet.
+- Most healing skills on ranger are quite useful: <Skill name="We heal as one"/> is a large heal and extends the boons on yourself thanks to <Skill id="42944"/>. Secondly <Skill name="Bear stance"/> is a great condi cleanse either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for pushing orbs at Arkk to enter the damage field.
 - **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team!**
 
 **Extra Notes:**
@@ -249,7 +249,7 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 </Grid>
 <Card title="Underwater Guide">
 
-For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting you want to camp Spear since <Skill name="Man o war"/>, <Skill name="Swirling Strike"/> as well as your autoattack chain deal good damage. You should swap back to Harpoon gun at the start of the split phase of the Jellyfish Beast in order to range the split adds as well as allowing you to restart your rotation when the split phase ends.
+For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting, you want to camp Spear since <Skill name="Man o war"/>, <Skill name="Swirling Strike"/> as well as your auto-attack chain deal good damage. You should swap back to Harpoon gun at the start of the split-phase of the Jellyfish Beast to range the split adds as well as allowing you to restart your rotation when the split-phase ends.
 
 Underwater the pet you use for DPS depends on the situation just like above land:
 - You want to merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS as well as <Boon name="Fury"/> uptime. You want to use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger, additionally during DPS downtime (The split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime.
@@ -318,7 +318,7 @@ When you go back back to MAMA, autoattack on sword/axe. You can use <Skill name=
 - <Skill name="Rapid Fire"/>.
 - <Skill name="Cold Snap"/> to summon the frost spirit into the bubble.
 
-You can start walking to the 2nd add spawn and longbow autoattacking once the bubble attack has completed. 
+You can start walking to the 2nd add spawn and longbow auto-attacking once the bubble attack has completed. 
 
 **2nd Add**
 - Help CCing with <Skill id="45743"/>.
@@ -332,7 +332,7 @@ You can start walking to the 2nd add spawn and longbow autoattacking once the bu
 - Swap weapons.
 - <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
 
-Once MAMA hits 25% you can use <Skill name="Monarchs Leap"/> for a free leap away from the poison field and to get to the add faster.
+Once MAMA hits 25% you can use <Skill name="Monarchs Leap"/> for a free leap away from the poison field and get to the add faster.
 
 **3rd Add**  
 - Resummon your <Skill id="12497"/> as it has probably died by now.
@@ -344,7 +344,7 @@ Once MAMA hits 25% you can use <Skill name="Monarchs Leap"/> for a free leap awa
 - Use <Skill name="Point Blank Shot"/> and <Skill id="45743"/> to CC and proc <Item id="84505"/>.
 - <Skill name="Rapid Fire"/>.
 
-Use your DPS skills as soon as they come off cd and don't cry from having to autoattack on longbow.
+Use your DPS skills as soon as they come off cd and don't cry from having to auto-attack on longbow.
 </Tab>
 <Tab title="Siax">
 <Divider text="Siax"/>
@@ -700,7 +700,7 @@ Make sure to use [consumables](/guides/consumables) to CC the adds!
 - Use <Skill name="Rapid fire"/> then walk behind her in mid.
 - Swap weapons and use <Skill name="pathofscars"/> as you walk through the boss to stand behind her.
 - <Skill name="Whirlingdefense"/> then <Skill name="Worldlyimpact"/>, followed by <Skill id="41524"/> and <Skill id="45743"/> as she jumps to the side.
-- If she reaches the corner, use <Effect name="hypernovalaunch"/> to avoid the slam wave and sword autoattack until she phases.
+- If she reaches the corner, use <Effect name="hypernovalaunch"/> to avoid the slam wave and sword auto-attack until she phases.
 
 **Add CC Phase**
 
@@ -796,7 +796,7 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 
 **2nd Orb Phase**
 
-- Swap to longbow and autoattack to push the orb.
+- Swap to longbow and auto-attack to push the orb.
 
 **50-40%**
 
@@ -812,15 +812,15 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 
 **40-30%**
 
-- Autoattack until <Skill name="Path of scars"/> is off cd, then use it to pull a second add.
+- Auto-attack until <Skill name="Path of scars"/> is off cd, then use it to pull a second add.
 - Swap weapons.
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
 - <Skill name="Rapidfire"/> (followed by any of <Skill name="Worldlyimpact"/>, <Skill id="45743"/> and <Skill id="41524"/> if they are off cd) until Arkk is phased.
-- You want to swap weapons late so that you don't get stuck longbow autoattacking.
+- You want to swap weapons late so that you don't get stuck longbow auto-attacking.
 
 **3rd Orb Phase**
 
-- Stay on longbow and autoattack to push the orb.
+- Stay on longbow and auto-attack to push the orb.
 - Precast <Skill name="Barrage"/>.
 
 **30-0%**
@@ -837,7 +837,7 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 - Wherever possible you should try to hit multiple targets with your <Skill name="Pathofscars"/>. 
   - This can mean hitting an anomaly to help your <Specialization name="renegade"/> kill it.
   - You can also pull the adds from the Archdiviner and Gladiator phase since your <Specialization name="Firebrand"/> can only pull two at a time.
-  - Pulling the adds is also great since they can really hurt your teams <Item id="24836"/> uptime.
+  - Pulling the adds is also great since they can hurt your teams <Item id="24836"/> uptime.
   - If you are good at tagging multiple targets then you can even run <Item id="43360"/>.
 
 </Tab>

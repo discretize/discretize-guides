@@ -104,11 +104,11 @@ Template code:
 
 **Sword Skills**
 
-- <Skill name="Preparation Thrust"/> - The autoattack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on upto three targets, with each explosion hitting three targets. Potentially hitting nine times.
+- <Skill name="Preparation Thrust"/> - The auto-attack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on up to three targets, with each explosion hitting three targets. Potentially hitting nine times.
 - <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
 - <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to oneself.
 - <Skill name="Shackling Wave"/> - High damage skill, however should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
-- <Skill name="Death strike"/> - Shadowsteps to target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allows it to be used for damage.
+- <Skill name="Death strike"/> - Shadowsteps to target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allow it to be used for damage.
 
 **Staff Skills**
 
@@ -138,13 +138,13 @@ Template code:
 <Card title="Legends">
 
 <Message>
-You will need to reconsider the legends you are running in almost every fractal and therefore it is a nice habit to develop to check them after each fractal you have done. Some fractals demand three to four different legends in only one fractal. Below you will find the three most common setups that will serve you fine as well as description of the skills in each legend.
+You will need to reconsider the legends you are running in almost every fractal and therefore it is a nice habit to develop to check them after each fractal you have done. Some fractals demand three to four different legends in only one fractal. Below you will find the three most common setups that will serve you fine as well as a description of the skills in each legend.
 </Message>
 
 ## Legends Setups:
 
 1. **<Skill name="Legendary Renegade Stance"/>** and **<Skill name="Legendary Centaur Stance"/>**
-   - This is you most used setup that has the most healing output as well as a projectile block and extra condition cleanse.
+   - This is your most used setup that has the most healing output as well as a projectile block and extra condition cleanse.
 2. **<Skill name="Legendary Renegade Stance"/>** and **<Skill name="Legendary Demon Stance"/>**
    - This is a specific setup for the instability <Effect name="No Pain, No Gain"/> and for when you want to increase your damage output on bosses that generate <Boon name="Protection"/> on themselves or when you need to pull adds using <Skill name="Call to Anguish"/>.
 3. **<Skill name="Legendary Renegade Stance"/>** and **<Skill name="Legendary Dwarf Stance"/>**
@@ -158,7 +158,7 @@ You will need to reconsider the legends you are running in almost every fractal 
 - <Skill name="Razorclaws Rage"/> - Summons a spirit that causes your party to inflict <Condition name="Bleeding"/> on attack.
 - <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ seconds once per second for six seconds.
 - <Skill name="Icerazors Ire"/> -  Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.
-- <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealth by your party while healing them for each attack.
+- <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealt by your party while healing them for each attack.
 
 ---
 
@@ -224,7 +224,7 @@ You will need to reconsider the legends you are running in almost every fractal 
 - Please also read through the [Nightmare fractal page](/fractals/nightmare) for general encounter information!
 
 <Message>
-These rotations are **not** set in stone and therefore you should adjust your gameplay with how your party plays. Pay attention to the length of the phases, any upcoming CC that might be needed and also pay attention to your energy and the management thereof.
+These rotations are **not** set in stone and therefore you should adjust your gameplay with how your party plays. Pay attention to the length of the phases, any upcoming CC that might be needed, and also pay attention to your energy and the management thereof.
 </Message>
 
 <Tabs outlined>
@@ -240,11 +240,11 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 **Precast**
 * Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
-* Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
+* Your pre stacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100 - 75%**  
 
-* Cast <Skill name="DarkrazorsDaring"/> on MAMA as soon as the red circle appear.
+* Cast <Skill name="DarkrazorsDaring"/> on MAMA as soon as the red circle appears.
 * Cast <Skill name="IcerazorsIre"/> right before MAMA becomes vulnerable.
 * Use <Skill name="Surgeofthemists"/> to break the defiance bar. Be aware of your positioning to gain an additional hit.
 * Swap your weapons as soon as you are no longer in MAMA's hitbox where your <Skill name="Surge of the mists"/> could hit so you stop casting that skill to save some time.
@@ -401,7 +401,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 ---
 
 **Annotation**
-* In the case you are using <Skill name="LegendaryDwarfStance"/>, rotation is relatively same. You will want to use <Skill name="Inspiring Reinforcement"/> in the last phase if Ensolyss teleports to the corner to give stability. For damage you can use <Skill name="Vengeful hammers"/> to increase your DPS if you do not need to conserve energy.
+* In the case you are using <Skill name="LegendaryDwarfStance"/>, rotation is relatively the same. You will want to use <Skill name="Inspiring Reinforcement"/> in the last phase if Ensolyss teleports to the corner to give stability. For damage, you can use <Skill name="Vengeful hammers"/> to increase your DPS if you do not need to conserve energy.
 
 </GridItem>
 </Tab>
@@ -414,7 +414,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 - Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 
 <Message>
-These rotations are **not** set in stone and therefore you should adjust your gameplay with how your party plays. Pay attention to the length of the phases, any upcoming CC that might be needed and also pay attention to your energy and the management thereof.
+These rotations are **not** set in stone and therefore you should adjust your gameplay with how your party plays. Pay attention to the length of the phases, any upcoming CC that might be needed, and also pay attention to your energy and the management thereof.
 </Message>
 
 <Tabs outlined>
@@ -443,7 +443,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 **1st Add**
 * As soon as you get to the island you want to use <Skill name="Inspiring Reinforcement"/> and <Skill name="Vengeful Hammers"/>.
 * Use <Skill name="Heroic Command"/> to share <Boon name="Might"/>.
-* Swap to <Skill name="Legendary Renegade Stance"/> before you get into the updraft. You can change legends if you enter the updraft by running into it and not by jumping into it. Also swap to Staff weapon set to be able to use <Skill name="Renewing Wave"/>.
+* Swap to <Skill name="Legendary Renegade Stance"/> before you get into the updraft. You can change legends if you enter the updraft by running into it and not by jumping into it. Also, swap to Staff weapon set to be able to use <Skill name="Renewing Wave"/>.
 
 **2nd Add**  
 * Use <Skill name="SoulcleavesSummit"/> on the island as soon as you land on it. Blast the fire field with <Skill name="Renewing Wave"/>
@@ -476,7 +476,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> immediately.
 * Keep <Skill name="SoulcleavesSummit"/> up as long as possible. In shorter phases you can consider using <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
 * Share <Boon name="alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
-* If Skorvald is not dead before he starts using Solar Cyclone (the attack where he spins around and knocks you back) switch to <Skill name="Legendary Dwarf Stance"/> and use <Skill name="Inspiring Reinforcement"/> before he starts using afromentioned attack.
+* If Skorvald is not dead before he starts using Solar Cyclone (the attack where he spins around and knocks you back) switch to <Skill name="Legendary Dwarf Stance"/> and use <Skill name="Inspiring Reinforcement"/> before he starts using the aforementioned attack.
 
 ---
 
@@ -520,7 +520,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 **Traits**
 
-For this encounter it is recommended to run the following traits in Devastation trait line.
+For this encounter, it is recommended to run the following traits in the Devastation trait line.
 
 <UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
@@ -553,7 +553,7 @@ For this encounter it is recommended to run the following traits in Devastation 
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> for additional damage.
-* Weapon swap to staff when phase ends.
+* Weapon swap to staff when the phase ends.
 
 **Add**
 * Use <Skill name="Forced Engagement"/> on the first add.
@@ -617,7 +617,7 @@ This part of the guide was taken from [Casual Sophie](https://www.youtube.com/ch
 
 **Traits**
 
-For this encounter it is recommended to run the following traits in Devastation trait line.
+For this encounter, it is recommended to run the following traits in the Devastation trait line.
 
 <UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 

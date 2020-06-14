@@ -24,8 +24,8 @@ For projectile-heavy scenarios, <Skill name="Aftershock"/> and <Skill name="Sand
 
 Contrary to the [Sword Weaver](/builds/elementalist/power-sword-weaver), melee hate like <Instability name="Social Awkwardness"/> or disruptions like <Instability name="Last Laugh"/> don't matter that much since you can stand on range and have access to a multitude of defensive mechanics like <Boon name="stability"/> and <Trait name="Gale Song"/>.
 
-The degree of difficulty is a little bit higher than the other <Specialization name="Elementalist"/> builds, as you need to adhere many small things to achieve top numbers.  
-The positioning and timing of skills matter a lot, a single mistake can make your DPS end up several thousands below other damage dealers.
+The degree of difficulty is a little bit higher than the other <Specialization name="Elementalist"/> builds, as you need to adhere to many small things to achieve top numbers.  
+The positioning and timing of skills matter a lot, a single mistake can make your DPS end up several thousand below other damage dealers.
 
 The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -222,7 +222,7 @@ And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off r
 
 <Card title="Advanced Notes">
 * Always cast <Skill name="Lightning Orb"/> from as far as possible.
-* Try to place the outer ring of <Skill name="Overload Air"/> directly on the target and make sure the cast actually finishes.
+* Try to place the outer ring of <Skill name="Overload Air"/> directly on the target and make sure the cast finishes.
 * Cast <Skill name="Invoke Lightning"/> while standing inside the target's hitbox to make sure all strikes hit.
 * Remember to already switch to the next attunement *while* casting skills.
 * <Skill name="Arc Lightning"/> (your <Skill name="Air Attunement"/> auto-attack) deals more damage the longer you channel it, but every other skill has a higher priority.

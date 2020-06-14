@@ -16,7 +16,7 @@ code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 <Tab title="Build">
 The **<Specialization text="Condi Firebrand" name="firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high DPS.
 
-Your tomes are by far your most important skills, they enable you to do great dps as well as support and heal your allies.
+Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies.
 
 One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> is that you lack CC (Crowd Control), this can be fixed by running <Trait name="Perfectinscriptions"/> and swapping <Skill name="Signet of Wrath"/> to <Skill name="Bane Signet"/>.
 
