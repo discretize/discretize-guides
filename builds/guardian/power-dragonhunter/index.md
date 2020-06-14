@@ -153,14 +153,14 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="7">
 <Card title="Notes">
 * Always start on scepter/sword
-* Delay swapping to GS until the CC-bar is about to be broken. This is especially important at ensolyss without instant CC. 
+* Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC. 
 * Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
 * Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits.
 * Don't interrupt your GS auto-attack chain
 * In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.)
 * Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
 * Don't waste your key skills on meaningless adds
-* Its up to you whether you decide to go Scepter or Sword. Sword tends to outperform Scepter, especially in longer encounters.
+* It's up to you whether you decide to go Scepter or Sword. Sword tends to outperform Scepter, especially in longer encounters.
 
 </Card>
 </GridItem>
@@ -215,11 +215,11 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
 
 ### **100%-66%**
-- Your gameplay is heavily influenced by the dps your team can pull. 
-- If your team has very high dps (phases Siax in >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.   
+- Your gameplay is heavily influenced by the DPS your team can pull. 
+- If your team has very high DPS (phases Siax in >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.   
 - No matter what group you are running with, start on scepter/sword! 
 - If you are running in a PuG or just clear it daily, it is beneficial to delay your traps slightly, to fit more of the hits into the cc bar. 
-- In a fast team save <Skill name="bindingblade"/> for the 2nd phase when the adds spawn, if not use it. Just make sure to press it when the adds are in range for big dps.
+- In a fast team save <Skill name="bindingblade"/> for the 2nd phase when the adds spawn, if not use it. Just make sure to press it when the adds are in range for big DPS.
 
 ### *1st Add*
 - Use <Skill name="spearofjustice"/> on your add for the modifier from <Trait name="biggamehunter"/>. 
@@ -249,7 +249,7 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 ### **Synopsis**
 - Breakbar should be broken at the start of the fight, use <Skill name="banesignet"/> to help to make it happen.
 - Start on Scepter/Sword.
-- Try to fit every single skill you have into <Effect name="exposed"> (few second after the bar is broken), feel free to precast a symbol and <Skill name="Swordofjustice"/> before Ensolyss becomes vulnerable.
+- Try to fit every single skill you have into <Effect name="exposed"> (few seconds after the bar is broken), feel free to precast a symbol, and <Skill name="Swordofjustice"/> before Ensolyss becomes vulnerable.
 - After you used your full opener, continue with your usual rotation until you phase.
 - Repeat this every single phase.
 </Tab>
@@ -271,10 +271,10 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
 
 ### **Burn phases**
-Your gameplay is heavily influenced by the dps your team can pull. If your team has very high dps (i.e. they phase Skorvald in less that 5 seconds) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
+Your gameplay is heavily influenced by the DPS your team can pull. If your team has very high DPS (i.e. they phase Skorvald in less than 5 seconds) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
 
 ### **Adds**
-You can kill the first two adds with greatsword. You can use traps on the 2nd add, without having them on cooldown when you are back at Skorvald. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weapon swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
+You can kill the first two adds with a greatsword. You can use traps on the 2nd add, without having them on cooldown when you are back at Skorvald. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weapon swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
 
 </Tab>
 <Tab title="Artsariiv">
@@ -294,7 +294,7 @@ You can kill the first two adds with greatsword. You can use traps on the 2nd ad
 ### **100%**
 - If you are not skipping the first Anomaly, you should place the <Skill name="wallofreflection"/> in the middle.  
 - Again it is recommended to start on scepter or sword. 
-- Use your <Skill name="Bane Signet"/> to help with CC and boost the party dps as soon as Artsariiv arrives at the corners. 
+- Use your <Skill name="Bane Signet"/> to help with CC and boost the party DPS as soon as Artsariiv arrives at the corners. 
 - Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariivs hitbox for big damage.
 
 ### *Adds*
@@ -326,7 +326,7 @@ You can kill the first two adds with greatsword. You can use traps on the 2nd ad
 - Your goal is to start on scepter/sword at every 10% burn phase, that is why you need to consider weapon swaps carefully. 
 - Pull adds in with GS5. 
 - Cast <Skill name="Bane Signet"/> early, so you get more DPS time. 
-- The fastest way to do the blooms is to walk into the lightning and auto attack with scepter. Use <Skill name="Wings of Resolve"/> to regain health. 
+- The fastest way to do the blooms is to walk into the lightning and auto-attack with the scepter. Use <Skill name="Wings of Resolve"/> to regain health. 
 - Use <Skill name="binding blade"/> inside Arkks hitbox when adds are present.
 
 </Tab>

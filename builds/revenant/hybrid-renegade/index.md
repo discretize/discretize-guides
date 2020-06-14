@@ -133,15 +133,15 @@ With <Skill name="Legendary Demon Stance"/> you would want to use these abilitie
 
 **Sword Skills:**
 
-- <Skill name="Preparation Thrust"/> - The autoattack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on upto three targets, with each explosion hitting three targets. Potentially hitting nine times. 
+- <Skill name="Preparation Thrust"/> - The auto-attack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on up to three targets, with each explosion hitting three targets. Potentially hitting nine times. 
 - <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
 - <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to yourself. 
 - <Skill name="Shackling Wave"/> - High damage skill, however should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
-- <Skill name="Death strike"/> - Shadowsteps to target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allows it to be used for damage. 
+- <Skill name="Death strike"/> - Shadowsteps to target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allow it to be used for damage. 
 
 **Staff Skills:**
 
-- <Skill name="Rapid Swipe"/> - The autoattack chain cleaves and the last hit provides a small amount of healing to allies.
+- <Skill name="Rapid Swipe"/> - The auto-attack chain cleaves and the last hit provides a small amount of healing to allies.
 - <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
 - <Skill name="Warding Rift"/> - A two second block that <Condition name="Blind"/> foes. 
 - <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
@@ -278,7 +278,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **Precast**  
 * Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional  <Boon name="Might"/> blast if needed. 
-* After the introduction of templates it is recommended to precast using equipment with higher boon duration.
+* After the introduction of templates, it is recommended to precast using equipment with higher boon duration.
 
 **100 - 75%**  
 
@@ -357,7 +357,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **Precast**  
 * Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlaps and grants twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast if needed.
-* After the introduction of templates it is recommended to precast using equipment with higher boon duration.
+* After the introduction of templates, it is recommended to precast using equipment with higher boon duration.
 * Ask your <Specialization name="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation.
 
 **100 - 66%**   
@@ -438,10 +438,10 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **Precast**  
 * Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast if needed.
-* After the introduction of templates it is recommended to precast using equipment with higher boon duration.
+* After the introduction of templates, it is recommended to precast using equipment with higher boon duration.
 
 **100-66%**
-* Cast <Skill name="Icerazors Ire"/> on Ensolyss as soon as the red circle appear.
+* Cast <Skill name="Icerazors Ire"/> on Ensolyss as soon as the red circle appears.
 * Cast <Skill name="Soulcleaves Summit"/> right before Ensolyss becomes vulnerable.
 * Use <Skill name="Surge of the mists"/> to break the defiance bar immediately. Be aware of your positioning to gain an additional hit.
 * Weapon swap and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>. Be aware of energy management.  
@@ -649,7 +649,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> for additional damage.
-* Weapon swap to staff when phase ends.
+* Weapon swap to staff when the phase ends.
 
 **Add**
 * Use <Skill name="Forced Engagement"/> on the first add. 
@@ -725,7 +725,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
 
 **100-80%**
-* Cast <Skill name="Soulcleaves Summit"/> on Arkk and auto attack until the Anomaly appear.
+* Cast <Skill name="Soulcleaves Summit"/> on Arkk and auto-attack until the Anomaly appear.
 * Cast <Skill name="Icerazors Ire"/> on the Anomaly.
 * Change to <Skill name="Legendary Assassin Stance"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to finish the Anomaly.

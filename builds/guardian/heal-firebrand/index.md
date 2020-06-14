@@ -22,8 +22,8 @@ If you play this build we highly recommend learning the <Skill name="Bane Signet
 <Divider text="Equipment"/>
 
 Note that this build variant is optimized for 150 agony resistance.  
-If you have more AR, feel free to swap out harrier pieces for cleric, as long as you are maintaining 100% boon duration. Please take in mind, that this is not _THE_ gear setup you have to play, there are many variants that work. Its all about maximizing boon duration and healing power.  
-Yes, you can play full harrier - however you will loose some healing power.
+If you have more AR, feel free to swap out harrier pieces for cleric, as long as you are maintaining 100% boon duration. Please take in mind, that this is not _THE_ gear setup you have to play, many variants work. It is all about maximizing boon duration and healing power.  
+Yes, you can play full harrier - however, you will lose some healing power.
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Grid>
