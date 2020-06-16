@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-05-15'
+date: '2020-06-16'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -169,7 +169,7 @@ If both of these requirements then you can swap Marksmanship for Skirmishing wit
 <Card title="Guide">
 The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="exposed"/> on the boss. 
 
-Also as <Specialization name="soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your weaver). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="exposed"/>. 
+Also as <Specialization name="soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your <Specialization name="weaver"/>). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="exposed"/>. 
 
 In PuGs, however, it is quite hard to predict when the boss will be CCed as well as phases can last a lot longer than expected, because of this the golem rotation is listed to the right so that you can resort back to it if you end up in a longer phase.
 
@@ -187,11 +187,11 @@ For your second weapon set you either run greatsword or longbow:
 - You want to have <Skill id="31568" disableText/> [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) on swap to have quick access if you need stealth for skips at any point.
 
 **Utility Skills:**
+- **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team!**
 - You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus** for its duration. One thing to keep in mind is that it only grants you a 40% damage bonus against the foe you use it on, so if you are cleaving trash mobs it might not be worth using. Secondly, you only get the buff if you are in <Skill id="42944"/> so also don't activate it if you are unmerged. 
 - Your default second utility is <Skill name="Signet of the wild"/> which is a nice passive stat increase. Depending on the situation you can instead run <Skill name="Frost trap"/> which offers higher burst potential. The situations when you want to run trap depend upon phase length and downtime on phases where the trap can recharge.
   - For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="exposed"/> since it recharges during the island phase so the trap is an obvious pick over signet.
 - Most healing skills on ranger are quite useful: <Skill name="We heal as one"/> is a large heal and extends the boons on yourself thanks to <Skill id="42944"/>. Secondly <Skill name="Bear stance"/> is a great condi cleanse either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for pushing orbs at Arkk to enter the damage field.
-- **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team!**
 
 **Extra Notes:**
 - <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phase to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
@@ -258,7 +258,7 @@ Underwater the pet you use for DPS depends on the situation just like above land
 
 **Bonus Tips:**
 - <Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/fractals/aquatic-ruins) often has <Instability name="Afflicted"/>. 
-- **If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.**
+- If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
 
 </Card>
 </Tab>
@@ -311,14 +311,13 @@ In faster kills you want to run <Item id="82876"/> instead of <Item id="24615"/>
 
 **2nd Phase**
 
-When you go back back to MAMA, autoattack on sword/axe. You can use <Skill name="Monarchs leap"/> to jump back to MAMA if you want.
+- When you go back back to MAMA, autoattack on sword/axe. You can use <Skill name="Monarchs leap"/> to jump back to MAMA if you want.
 - <Skill name="Path of scars"/> when it is off cd. 
 - Swap weapons.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - <Skill name="Rapid Fire"/>.
 - <Skill name="Cold Snap"/> to summon the frost spirit into the bubble.
-
-You can start walking to the 2nd add spawn and longbow auto-attacking once the bubble attack has completed. 
+- You can start walking to the 2nd add spawn and longbow auto-attacking once the bubble attack has completed. 
 
 **2nd Add**
 - Help CCing with <Skill id="45743"/>.
@@ -331,8 +330,7 @@ You can start walking to the 2nd add spawn and longbow auto-attacking once the b
 - <Skill name="Point Blank Shot"/> to CC and proc <Item id="84505"/>.
 - Swap weapons.
 - <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
-
-Once MAMA hits 25% you can use <Skill name="Monarchs Leap"/> for a free leap away from the poison field and get to the add faster.
+- Once MAMA hits 25% you can use <Skill name="Monarchs Leap"/> for a free leap away from the poison field and get to the add faster.
 
 **3rd Add**  
 - Resummon your <Skill id="12497"/> as it has probably died by now.
@@ -343,8 +341,12 @@ Once MAMA hits 25% you can use <Skill name="Monarchs Leap"/> for a free leap awa
 - Try to cast <Skill name="Barrage"/> so it doesn't get interrupted by MAMA jumping.
 - Use <Skill name="Point Blank Shot"/> and <Skill id="45743"/> to CC and proc <Item id="84505"/>.
 - <Skill name="Rapid Fire"/>.
+- Use your DPS skills as soon as they come off cd and don't cry from having to auto-attack on longbow.
 
-Use your DPS skills as soon as they come off cd and don't cry from having to auto-attack on longbow.
+**Additional Notes**
+- If you don't trust your group to deal DPS in phase 2 then you can take <Trait id="2128"/> and use <Skill name="OneWolfPack"/> when you return to MAMA in phase 2. 
+  - This is because in phase 1, 3 and 4 you have the damage modifier from <Effect name="Exposed"/> since MAMAs breakbar is broken in these phases but in phase 2 you don't have as many damage modifiers so <Skill name="OneWolfPack"/> can help the team phase MAMA faster here.
+
 </Tab>
 <Tab title="Siax">
 <Divider text="Siax"/>
@@ -397,7 +399,7 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 
 **2nd Add**  
 
-You want to stand at range to benefit from <Trait name="Farsighted"/> as well as you might want to use <Skill name="wehealasone"/> to make sure you have <Trait id="974"/> and <Item id="24836"/> as damage modifiers to kill the add.
+- You want to stand at range to benefit from <Trait name="Farsighted"/> as well as you might want to use <Skill name="wehealasone"/> to make sure you have <Trait id="974"/> and <Item id="24836"/> as damage modifiers to kill the add.
 - Use longbow skills to kill your add: <Skill name="pointblankshot"/> and <Skill name="rapidfire"/>.
 - The remaining damage should be dealt by the <Specialization name="Dragonhunter"/> with a <Skill name="Swordofjustice"/>.
 - Once the add is dead precast <Skill name="Barrage"/> on Siax for phase 3.
@@ -531,7 +533,7 @@ Your third utility slot is different for each <Specialization name="Soulbeast"/>
 - Use <Skill name="Moastance"/> and <Skill name="cold snap"/> as your team is gathering in the middle to give boons.
 - Enter <Skill id="42944"/> to blast <Boon name="Might"/> thanks to <Trait name="Clarion Bond"/>.
 - Precast <Skill name="Barrage"/>
-- <Skill id="41524"/>, <Skill name="Frost trap"/>, <Skill name="onewolfpack"/> and <Skill name="sicem"/>.
+- <Skill name="Frost trap"/>, <Skill name="onewolfpack"/> and <Skill name="sicem"/>.
 
 - <Skill id="45743"/> and <Skill name="pointblankshot"/> to CC. 
 - <Skill name="rapidfire"/> then <Skill name="worldlyimpact"/>.
@@ -572,9 +574,7 @@ Your third utility slot is different for each <Specialization name="Soulbeast"/>
 </GridItem>
 </Grid>
 <Divider text="HOW TO PLAY"/>
-<Message>
-You can do any portal in this fight except from island 3 to 4 as you want to summon your <Skill name="Frostspirit"/> then.
-</Message>
+
 You can swap <Item id="24868"/> for <Item id="24661"/> in your longbow if you want.
 
 **Precast**
@@ -602,6 +602,9 @@ You can swap <Item id="24868"/> for <Item id="24661"/> in your longbow if you wa
 - **Don't use <Skill name="Onewolfpack"/> in phase 2 unless you don't think you'll make the dps check.**
 - Do use <Skill name="Onewolfpack"/> in phase 3.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
+
+**Additional Note**
+- Warhorn can be a replacement for Longbow here, <Skill name="Callofthewild"/> is a blast finisher allowing you to stack <Boon name="Might"/> on the islands. You simply use <Skill id="12620"/> before you start attacking in each phase.
 
 </Tab>
 <Tab title="Artsariiv">
