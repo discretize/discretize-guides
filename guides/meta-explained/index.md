@@ -6,7 +6,7 @@ description: 'Everything around Meta and the current Meta composition'
 ---
 
 ## What does meta mean? 
-According to [urbandictionary](https://www.urbandictionary.com/define.php?term=meta) meta is "a term used in MMO meaning the Most Effective Tactic Available. It's basically what works in a game regardless of what you wish would work."  
+There are many different interpretations, **we use [urbandictionary's](https://www.urbandictionary.com/define.php?term=meta) definition**. Meta is "a term used in MMO meaning the Most Effective Tactic Available. It's basically what works in a game regardless of what you wish would work."  
 Seeing players using certain compositions on a daily base does not elevate a strategy to meta. It might work adequately for their goal - a wipe-less and safe clear - however, it is not the fastest or the most efficient way to play. 
 
 The meta for fractals therefore not only subsumes what classes and builds are most effective but also how to play - in other words - what rotation should be used. Example skill rotations for every metaclass can be found in their respective build pages. 
