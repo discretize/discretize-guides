@@ -52,7 +52,7 @@ Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 * Sword for out of combat mobility.
 * Greatsword for mobility and cleave.
 * Rifle for Siax (coordinated).
-* Torch (trade CC for DPS or for a firefield).
+* Torch (trade CC for DPS or a fire field).
 </Card>
 
 </GridItem>
@@ -85,14 +85,14 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 * Sword for out of combat mobility.
 * Greatsword for mobility and cleave.
 * Rifle for Siax (coordinated).
-* Torch (trade CC for DPS or for a firefield).
+* Torch (trade CC for DPS or a fire field).
 </Card>
 
 </GridItem>
 </Grid>
 </Tab>
 <Tab title="276 Agony Resistance">
-You are an actual madlad for considering this build. It costs about 3500 gold... You gain 43 power more over the 207 AR build. It is up to you to decide if you want to pay over 80g per extra power. 
+You are an actual mad lad for considering this build. It costs about 3500 gold... You gain 43 power more over the 207 AR build. It is up to you to decide if you want to pay over 80g per extra power. 
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
@@ -120,7 +120,7 @@ You are an actual madlad for considering this build. It costs about 3500 gold...
 * Sword for out of combat mobility.
 * Greatsword for mobility and cleave.
 * Rifle for Siax (coordinated).
-* Torch (trade CC for DPS or for a firefield).
+* Torch (trade CC for DPS or a fire field).
 </Card>
 
 
@@ -182,8 +182,8 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 * If the boss has a breakbar, make sure to use <Skill name="Tremor"/> to proc <Item name="severance"/>, then swap to Axe/Axe.
 * Only use <Skill name="Throw Axe"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
 * Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase. 
-* Keep in mind that <Skill name="Crushing Blow"/> inflicts 15x <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quicker burst.
-* It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your groups phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
+* Keep in mind that <Skill name="Crushing Blow"/> inflicts 15x <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst.
+* It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
 * Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
 
 **Extra notes:**
@@ -218,7 +218,7 @@ If using <Skill id="14483"/>:
 | <Skill id="14487"/> | 100 damage                     |
 
 **When to take Maces:**
-* In fights with only one defiance bar in the beginning, use Mace/Mace.
+* In fights with only one defiance bar, in the beginning, use Mace/Mace.
 * In T4s and encounters that have defiance bars during the fight, use an offhand mace only.
 </Card>
 </GridItem>
@@ -678,13 +678,13 @@ Swap to your off set (mace/torch) and cap the circle. After you meet in the midd
 
 ### *Islands*
 - Swap to your warhorn or torch if you have it and use the blasts in fire fields for <Boon name="might"/> at 2nd and 4th island.
-- Don't use heavy cooldowns after 3rd island.
+- Don't use heavy cooldowns after the 3rd island.
 - On the last island shortly before the add dies use <Skill name="Mending"/> and open <Skill name="Berserk"/> already.
 
 ### **66%-33%**
 - Follow the standard fractal rotation.
 - If your party does not phase Skorvald without a dash, recast your banners. 
-- Before you move to the 1st island pick your banners up and redrop them on the main island. Put them slightly outside of the stack so you don't take a portal on accident.
+- Before you move to the 1st island pick your banners up and drop them on the main island. Put them slightly outside of the stack so you don't take a portal on accident.
 
 The rest of the fight follows accordingly.
 </Tab>
@@ -756,7 +756,7 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 
 ### **66% and 33%**
 - After the mid burn replace your banners at the corner Artsariiv is going to jump to.
-- Depending on your teams DPS you either wanna engage <Skill name="Berserk"/> in the middle or in the corner.
+- Depending on your team's DPS you either wanna engage <Skill name="Berserk"/> in the middle or in the corner.
 
 </Tab>
 <Tab title="Arkk">
