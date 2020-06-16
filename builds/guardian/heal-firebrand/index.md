@@ -1,6 +1,6 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2020-06-04'
+date: '2020-06-16'
 rating: 'T4'
 role: 'Support'
 profession: 'Guardian'
@@ -12,7 +12,7 @@ code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 <Message>
-Despite being very common in pugs, this build is not meta! We recommend to play [Heal Renegade](/builds/revenant/heal-renegade) for PUGs who are more organized and know the mechanics (after around 150-200+ <Item id="81743"/>). <Specialization name="firebrand"/> usually can deal way more damage than <Specialization name="renegade"/>.
+Despite being very common in pugs, this build is not **the** meta! It is part of a composition called PuG meta, you can read more about it [here](/guides/meta-explained). We **recommend** to play [Heal Renegade](/builds/revenant/heal-renegade) for PuGs who are more organized and know the mechanics (after around 150-250+ <Item id="81743"/>), also a <Specialization name="firebrand"/> can deal way more damage than <Specialization name="renegade"/>. However if you fail mechanics <Specialization name="Firebrand" text="Heal Firebrand"/> is a way to success.
 </Message>
 
 <Tabs>
@@ -24,6 +24,7 @@ If you play this build we highly recommend learning the <Skill name="Bane Signet
 Note that this build variant is optimized for 150 agony resistance.  
 If you have more AR, feel free to swap out harrier pieces for cleric, as long as you are maintaining 100% boon duration. Please take in mind, that this is not _THE_ gear setup you have to play, many variants work. It is all about maximizing boon duration and healing power.  
 Yes, you can play full harrier - however, you will lose some healing power.
+
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Grid>
@@ -59,7 +60,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 </Card>
 <Card title="Wheelchair">
-In case your team downs all the time and you cannot keep your PUG friends alive, you can swap radiance for virtues. This however is NOT the default build and should only be played under extreme circumstances.
+In case your team downs all the time and you cannot keep your PuG friends alive, you can swap radiance for virtues. This however is **not** the default build and should only be played under extreme circumstances, like very bad instability combos or constantly failing mechanics.
 <UnembossedTraits traits1Id="46" traits1="Virtues"  traits1SelectedIds="625, 610, 554"/>
 </Card>
 </GridItem>
@@ -90,7 +91,7 @@ In case your team downs all the time and you cannot keep your PUG friends alive,
 
 It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is important to understand that the signet share is essential to faster runs and sharing extra power during <Effect name="exposed"/> (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
 
-The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals, but it should not be needed.
+The <Specialization name="Firebrand" text="Heal Firebrand"/> heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals, *but* it should not be needed.
 
 When <Instability name="Afflicted"/> is present or enemies are applying conditions, you can use <Skill name="Symbol of Swiftness"/> (Staff3) and blast it with <Skill name="Holy Strike"/> (Staff2) for area condition cleanse.
 
@@ -112,7 +113,7 @@ To keep up <Boon name="Quickness"/>:
 To keep up <Boon name="Might"/> and <Boon name="Fury"/>:
 
 - Always prestack <Boon name="Might"/> on the mistlock!
-- You can press <Skill name="Symbol of Vengeance"/> (Axe2) two times before your <Skill name="Empower"/> (Staff4) if off cooldown again.
+- You can press <Skill name="Symbol of Vengeance"/> (Axe2) two times before your <Skill name="Empower"/> (Staff 4) if off cooldown again.
 - You wanna maximize the uptime of <Skill name="Symbol of Vengeance"/> while pressing <Skill name="Empower"/> off cooldown.
 
 CCing:
