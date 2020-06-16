@@ -6,16 +6,22 @@ description: 'Everything around Meta and the current Meta composition'
 ---
 
 ## What does meta mean? 
-There are many different interpretations, **we use [urbandictionary's](https://www.urbandictionary.com/define.php?term=meta) definition**. Meta is "a term used in MMO meaning the Most Effective Tactic Available. It's basically what works in a game regardless of what you wish would work."  
-Seeing players using certain compositions on a daily base does not elevate a strategy to meta. It might work adequately for their goal - a wipe-less and safe clear - however, it is not the fastest or the most efficient way to play. 
+There are many different interpretations for meta, but we consider **[urbandictionary's](https://www.urbandictionary.com/define.php?term=meta) definition** to be the most accurate one: meta is "a term used in MMO meaning the Most Effective Tactic Available. It's basically what works in a game regardless of what you wish would work."  
+Many players are using certain compositions - non meta ones - on a daily base, which does not elevate them to meta. It might work adequately for their goal - a wipe-less and safe clear - however, it is not the fastest or the most efficient way to play. 
 
 The meta for fractals therefore not only subsumes what classes and builds are most effective but also how to play - in other words - what rotation should be used. Example skill rotations for every metaclass can be found in their respective build pages. 
 
 ## What is necessary to clear fractals efficiently?
-It boils down to three important concepts that need to be fulfilled permanently while in combat. Failing one of these will hurt the smoothness and speed of the run:
+It boils down to three important concepts that need to be fulfilled permanently while in combat. Failing one of these will decelerate the speed and smoothness of the run:
 1. Boons: 25x<Boon name="might"/>, <Boon name="fury"/>, <Boon name="quickness"/> and <Boon name="alacrity"/>.
 2. Breaking [CC bars](guides/cc-distribution) immediately to gain the 50% damage modifier from <Effect name="exposed"/>.
 3. High single target burst potential.
+
+<Message>
+It is vital to understand that this three concepts in conjunction create massive amounts of burst causing phases to only last a few seconds. This is also due to the fact that the 50% <Effect name="exposed"/> modifier stacks multiplicative with many other damage modifiers.
+
+The gameplay is therefore much more fast paced compared to raids and requires different thinking and rotations that are tailored around the <Effect name="exposed"/> window.
+</Message>
 
 For T4s there are several other concepts important:
 4. Reflections and <Boon name="stability"/>
@@ -81,6 +87,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Contributes to CC with <Skill name="updraft"/>.
 * Deals very high burst damage, is top DPS on most bosses. 
 * Provides and blasts fire fields to keep up <Boon name="might"/> during the battle. 
+* Provides conjures (<Skill name="conjurelightninghammer"/>, <Skill name="conjurefrostbow"/> and <Skill name="conjurefierygreatsword"/>) for the team.
 * Provides AoE <Condition name="blind"/> for T4s via <Skill name="Glyph of storms"/>.
 * Can execute various T4s skips with <Skill name="lightningflash"/>.
 
@@ -104,7 +111,7 @@ This shows how well the current meta builds synergize with each other and how im
 
 PuGs rarely play the meta builds causing people who play meta to deal lower damage. If you are one of those that seek to improve we highly encourage you to seek a static via our `#looking-for-static` channel on [discord](https://discordapp.com/invite/kaDXhb) or [apply](apply) to Discretize. Please note, that we of course encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game, however, we are very well aware that the proposed composition does not work well in PuGs.
 
-Generally you can even play Condi builds in PuGs, especially well performing is <Specialization name="firebrand" text="Condi Firebrand"/>. Worth mentioning is that the <Item id="79722"/> provides 15% increased condition damage attribute and 15% increased outgoing condition damage. Also <Specialization name="Chronomancer" text="Power Chronomancer"/> is flourishing in PuGs.
+Generally you can even play Condi builds in PuGs, especially well performing is <Specialization name="firebrand" text="Condi Firebrand"/>. Worth mentioning is that the <Item id="79722"/> provides 15% increased condition damage attribute and 15% increased outgoing condition damage. Also <Specialization name="Chronomancer" text="Power Chronomancer"/> is flourishing in slower groups (PuGs).
 
 Some people are for what ever reasons not able to find a static or not committed enough to put time into a game **(which is totally understandable)** and just want a fast and wipe-less clear. For those we recommend following team composition: 
 | | |
@@ -116,17 +123,8 @@ Some people are for what ever reasons not able to find a static or not committed
 | <br/><Specialization name="weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Holosmith" disableText/><br/><Specialization name="firebrand" disableText/><Specialization name="Reaper" disableText/><Specialization name="Dragonhunter" disableText/>  | <br/>Pick any of the meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
 
 
-## What are the differences with the meta in PuGs?
+## What are the differences between the meta and how PuGs play?
 One of the biggest difference is, that they don't always understand how their actions translate into the game. Learning to do the mechanics correctly, flawlessly, and reliably is - in the beginning - the most important task. PuGs assume the worst usually, so one player in the party is a healer instead. 
-
-For example let's look at Skorvald. Many PuGs manage to bring him down to 40-45% percent with a healer after portaling back to the boss from the last island. The missing damage can come from:
-
-1. not having boons such as <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/>,
-2. running out of <Effect name="Exposed"/> (which is a **huge** DPS boost) time window,
-3. not having <Skill name="Soulcleaves Summit"/> up,
-4. the cooldown on burst skills. 
-
-You can actually phase him from 66% to 33% with a healer, but you need all these conditions listed above. The same goes for the last phase. Skorvald will do his high damaging spin attack because there is different combinations of problems listed above. Luckily there is no problem with that since you can actually dodge the spin attack, cleanse the burn and counter the knockback with <Boon name="Stability"/>. 
 
 Another difference is that PuGs often claim, that CC is solely the job of the <Specialization name="Renegade"/>. That is not true since <Specialization name="Renegade"/> can only knock out **about half** of the bars. CC is a group effort involving **all** party members!
 
