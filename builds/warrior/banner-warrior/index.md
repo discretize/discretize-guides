@@ -202,9 +202,9 @@ Offhand weapons are still Mace/Mace!
 </Grid>
 
 It's a good idea to bring [consumables](/guides/consumables).  
-You should also take <Skill id="45333"/> where necessary. You can consider 	<Item id="72872"/> for additional party <Boon name="Might"/>.
+You should also take <Skill id="45333"/> where necessary. You can consider   <Item id="72872"/> for additional party <Boon name="Might"/>.
 
-Gear-wise you are losing Power, Precision and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to use our [Gear-optimiser](http://old.discretize.eu) on the website if you want to max out crit cap.
+Gear-wise you are losing Power, Precision, and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to use our [Gear-optimiser](http://old.discretize.eu) on the website if you want to max out crit cap.
 
 Everything else stays the same.
 

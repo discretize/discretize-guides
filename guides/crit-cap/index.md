@@ -13,7 +13,7 @@ At level 80, the conversion formula to calculate Critical Chance from Precision 
 
 > `Critical Chance = (Precision - 895) / 21`
 
-From the above equation it follows that **2995 Precision** is enough to reach 100% Critical Chance.
+From the above equation, it follows that **2995 Precision** is enough to reach 100% Critical Chance.
 
 You can subtract the following values in general:
 
@@ -47,7 +47,7 @@ So you'll only need a few more points of Precision to reach 100% Critical Chance
 | 207 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                     | 203                                          | 204                                          | 103                                       | 104                                       |
 | 222 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation), <Item id="70596"/>) | 181                                          | 182                                          | 81                                        | 82                                        |
 
-In general you want to stack as much Agony Resistance as possible to benefit from the Precision conversion if you're not crit capped with profession-specific traits. <Item id="37131"/> is usually the way to go as better regular infusions (e.g. <Item id="49439"/>) are very expensive.  
+In general, you want to stack as much Agony Resistance as possible to benefit from the Precision conversion if you're not crit capped with profession-specific traits. <Item id="37131"/> is usually the way to go as better regular infusions (e.g. <Item id="49439"/>) are very expensive.  
 After that, you need to swap Berserker items (Major: Power; Minor: Precision, Ferocity) for Assassins (Major: Precision; Minor: Power, Ferocity) to gain more Precision.
 
 Keep in mind that you can also take <Item id="37132"/> but normally it is easier to calculate with a full set of Power infusions.
@@ -61,7 +61,7 @@ Use our [Gear Optimizer](http://old.discretize.eu) to calculate the optimal dist
 While some professions have access to passive signet utility skills increasing Precision by 180 points, there is usually a better DPS skill if you are crit capped already.  
 If for some reason your build isn't optimized yet and you are missing at least those 180 points, it is recommended to take the Precision signet instead of the weakest other utility skill.
 
-Apart from that, there are various traits which increase either Precision or Critical Chance directly.  
+Apart from that, various traits increase either Precision or Critical Chance directly.  
 Some of them will easily put you above 100% Critical Chance so you don't need any Assassin's pieces.
 
 Below are some popular trait choices to push Critical Chance.
