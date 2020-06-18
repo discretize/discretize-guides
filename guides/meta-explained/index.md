@@ -105,7 +105,7 @@ Removing <Specialization name="Soulbeast"/>: indisputable the worst idea as it p
 
 Removing <Specialization name="weaver"/>: Not a terrible idea. The <Specialization name="weaver"/> could be replaced with a second <Specialization name="soulbeast"/>. Double <Specialization name="soulbeast"/> works well on most encounters in CMs, requires some fiddling at Siax but is not terrible overall. However, with that composition you will run into cleave problems in T4s. Also missing some blasts from the <Specialization name="weaver"/> and the AoE <Condition name="blind"/>.
 
-This shows how well the current meta builds synergize with each other and how important it is to 
+This shows how well the current meta builds synergize with each other and how important it is that every single player maxes out their role.
 
 ## What and how do I play in PuGs?
 
