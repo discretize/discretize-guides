@@ -1,17 +1,19 @@
 ---
 title: 'Fractal Basics'
-date: '2020-03-27'
+date: '2020-06-18'
 image: './images/instabilities.jpg'
 description: 'Get to know the meta 5-man team composition, learn about the /gg command and Mistlock Instabilities.'
 ---
 
-## Team Composition
+### Team Compositions
 
-Please consult the [meta-page](guides/meta-explained)!
+About team compositions and why certain classes are meta, please consult the [meta-page](guides/meta-explained)!
 
 ---
 
-<Video title="Pre-casting for every meta class by Loves Sorrow" youtube="ZcuILnFcq6s"/>
+### Pre-stacking at Mistlock Singularity
+
+<Video title="Demonstrated by Loves Sorrow" youtube="ZcuILnFcq6s"/>
 ### For more pre-stacking guide [click here](/guides/blast-stacking)
 
 ---
