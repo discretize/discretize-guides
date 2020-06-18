@@ -61,7 +61,7 @@ At 1800 MAMA has a small defiance bar, but you need to break it three times duri
 <Divider text="restricted"/>
 When playing without CC Consumables, the <Specialization name="Berserker"/> needs to take an offhand mace with <Item id="24639"/> in addition to <Skill name="wildblow"/> and <Skill name="bullscharge"/>, and the <Specialization name="firebrand"/> needs to bring <Skill name="HammerofWisdom"/> instead of <Skill name="sword of justice"/>.
 
-<Image src="./images/mama_restricted.png" caption="Restricted Mama CC distribution"/>
+<Image src="./images/mama_restricted.png" caption="Restricted Mama CC distribution by Dissect [Dc]"/>
 <Divider text="unrestricted"/>
 When playing with CC consumables, the <Specialization name="firebrand"/> can keep <Skill name="sword of justice"/>.
 
