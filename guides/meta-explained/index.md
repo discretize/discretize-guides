@@ -56,7 +56,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Contributes to CC with <Skill name="banesignet"/>, which is also a **unique damage buff** that increases the entire group's power by 216. 
 * The damage depends on the encounter. In 99CM <Specialization name="Guardian"/> or <Specialization name="dragonhunter"/> can be played resulting in very high DPS; in 100CM as <Specialization name="Firebrand"/> 1/2 up to 3/4 of a DPS player. 
 * Provides instant <Condition name="vulnerability"/> application with <Skill name="swordofjustice"/>, which helps immensely to kill adds quickly at Mama, Siax and Skorvald.
-* Has blinks available from skills such as <Skill name="symbol of blades"/> <Skill name="judges intervention"/> and <Skill name="mercifulintervention"/>.
+* Has blinks available from skills such as <Skill name="symbol of blades"/>, <Skill name="judges intervention"/> and <Skill name="mercifulintervention"/>.
 * Can provide situational <Boon name="stability"/> for T4s or Artsariiv using <Skill name="Stand your ground"/>.
 
 [Build](builds/guardian/hybrid-firebrand)
