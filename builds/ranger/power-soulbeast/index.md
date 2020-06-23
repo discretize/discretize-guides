@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-06-16'
+date: '2020-06-21'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -577,6 +577,13 @@ Your third utility slot is different for each <Specialization name="Soulbeast"/>
 
 You can swap <Item id="24868"/> for <Item id="24661"/> in your longbow if you want.
 
+<Message>
+Spirit Management:
+- This depends on how your <Specialization name ="Renegade"/> plays, if they precast <Skill id="45686"/> before Skorvald spawns then you can summon your <Skill name="Frostspirit"/> down on the boss platform after the precast and the Kalla heal skill will sustain it until the second phase. In this scenario you don't teleport it at all you just leave it behind.
+- If they don't do this then you will want to summon the spirit next to the Boss Challenge Mote and let it tick down in health for a couple of ticks and then pull it firstly down to Skorvald after the precast and then to the first island using <Skill name="Cold Snap"/> in order to kill it so it is back up for island 4 to be resummoned. This is the method described in the guide below.
+
+</Message>
+
 **Precast**
 - When you are activating the Boss Challenge Mote run down to the boss platform and precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Then /gg and wait up by the Mote until you are ready to precast.
 - When you are ready to precast summon your <Skill name="Frostspirit"/> next to the Mote then run down and begin precasting with your party. Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
@@ -591,10 +598,10 @@ You can swap <Item id="24868"/> for <Item id="24661"/> in your longbow if you wa
 - Use <Skill name="Hornet Sting"/> to get to the first island once it is phased.
 
 **Islands**  
-- Call <Skill name="Frostspirit"/> to the 1st island using <Skill name="Cold Snap"/> and use <Skill name="Worldlyimpact"/> and autoattacks to kill it.
+- Call <Skill name="Frostspirit"/> to the 1st island using <Skill name="Cold Snap"/> and use <Skill name="Worldlyimpact"/> and autoattacks to kill the add.
 - You can use <Skill name="whirlingdefense"/> on the 2nd one after it jumps.
 - Swap to longbow and kill the 3rd add with <Skill name="Point Blank Shot"/> and <Skill name="Rapid Fire"/>.
-- Resummon <Skill name="Frostspirit"/> on the last island. Take the portal early to teleport <Skill name="Frostspirit"/> to you and to precast <Skill name="Barrage"/> before Skorvald becomes vulnerable.
+- Resummon <Skill name="Frostspirit"/> on the last island. Take the portal early to teleport <Skill name="Frostspirit"/> using <Skill name="Cold Snap"/> to you and to precast <Skill name="Barrage"/> before Skorvald becomes vulnerable.
 
 **66% and 33%**
 
