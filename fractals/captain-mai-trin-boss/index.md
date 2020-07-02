@@ -1,6 +1,6 @@
 ---
 title: 'Captain Mai Trin Boss'
-date: '2020-06-03'
+date: '2020-07-03'
 image: './images/header.jpg'
 group: 'T4'
 api: 2932
@@ -19,6 +19,15 @@ consumables: [78978]
 Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="daze"/> with his stunning shield, use <Boon name="stability"/>, blocks or invulnerables against it.
 
 After you killed the mobs, use the Mistlock Singularity to reset cooldown then the teleporter to enter the boss area.
+<Grid>
+<GridItem sm="8">
+<Tabs>
+<Tab specialization="Weaver">
+You can precast <Skill name="Conjure Fiery Greatsword"/> without it despawning early by placing a portal utilizing <Item id="78978"/> near the Mistlock Singularity and using it to return to the Mistlock Singularity for the precast before Mai Trin starts talking.
+</Tab>
+</Tabs>
+</GridItem>
+</Grid>
 </GridItem>
 <GridItem sm="4">
 <Image src="./images/start.jpg" caption="The start area"/>
