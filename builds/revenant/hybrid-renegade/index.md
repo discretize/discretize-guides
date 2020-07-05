@@ -625,7 +625,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
 
 **100-66%**
-* Precast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
+* Precast <Skill name="Darkrazors Daring"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
 * Manually change to <Skill name="Legendary Dwarf Stance"/> using the legend UI before Artsariiv becomes vulnerable.
 * Use <Skill name="Shackling Wave"/>, and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/> before using the <Effect name="hypernovalaunch"/> to the corner. 
