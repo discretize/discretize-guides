@@ -54,7 +54,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | <Trait name="Sanguine Array" size="big" disableText/> | If you are already crit capped without <Trait name="High Caliber"/> and struggle with <Boon name="Might"/> uptime. |
 You can swap Firearms trait line with Tools and replace <Skill id="5805"/> on <Skill id="43739"/>. This will help you to maintain your <Boon name="Quickness"/> better. Especially in weaker groups, this build shines. It is pretty friendly for new players. 
 </Card>
-<Traits traits1Id="21" traits1="Tools" traits1SelectedIds="532,517,1856"/>
+<Traits traits1Id="21" traits1="Tools" traits1SelectedIds="532,512,1856"/>
 </GridItem>
 
 <GridItem sm="5">
