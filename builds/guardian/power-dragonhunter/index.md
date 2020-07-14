@@ -1,6 +1,6 @@
 ﻿---
 title: 'Power Dragonhunter'
-date: '2020-03-28'
+date: '2020-07-15'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Guardian'
@@ -170,7 +170,9 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Tab title="99CM">
 <Divider text="Nightmare"/>
-- If you are replacing the <Specialization name="firebrand" />, check <Specialization name="firebrand" /> [guide](/builds/guardian/hybrid-firebrand) where you will find information regarding swapping to <Specialization name="dragonhunter"/>.
+<Message>
+If you are replacing the <Specialization name="firebrand" />, check <Specialization name="firebrand" /> [guide](/builds/guardian/hybrid-firebrand) where you will find information regarding swapping to <Specialization name="dragonhunter"/>.
+</Message>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [nightmare fractal page](/fractals/nightmare) for general encounter information!
 
@@ -186,8 +188,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 ### **Synopsis**
 - Start on Scepter/Sword.
 - Try to use your full burst (either you start the phase on GS or sword/scepter) in each phase after breakbar is broken.
-- Don't forget that you can not expect to see the highest numbers without the breakbar being frequently broken.
-- To make that happen, use <Skill name="banesignet"/>. <Specialization name="renegade"/> and  <Specialization name="warrior"/> will not break the bar alone without consumables so DO NOT be selfish.
+- Don't forget that you can not expect to see the highest numbers without the breakbar being frequently broken: to make that happen use <Skill name="banesignet"/>. <Specialization name="renegade"/> and  <Specialization name="berserker"/> will not break the bar alone without consumables so DO NOT be selfish.
 - Do not use traps on the adds.
 - Use <Skill name="binding blade"/> inside MAMAs hitbox, when the small adds are coming close.
 - Feel free to use <Skill name="symbol of blades"/>, <Skill name="leapoffaith"/> and <Skill name="wingsofresolve"/> for faster movement.

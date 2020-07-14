@@ -1,6 +1,6 @@
 ---
 title: 'Condi Firebrand'
-date: '2020-03-28'
+date: '2020-07-16'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Guardian'
@@ -22,9 +22,7 @@ One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> i
 
 <Divider text="Equipment"/>
 
-Note that this build variant only gains boon duration from the <Item id="79722"/>.
-
-If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap <Item id="24560"/>  in your Mainhands for <Item id="72339"/>**.
+Note that this build variant only gains boon duration from the <Item id="79722"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For shorter fights this is not an issue, but for slower groups it can be benefical to bring extra boon duration: **swap <Item id="24560"/>  in your Mainhands for <Item id="72339"/>**.
 
 <Grid>
 <GridItem sm="4">
