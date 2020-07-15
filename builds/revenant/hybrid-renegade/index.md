@@ -152,7 +152,7 @@ With <Skill name="Legendary Demon Stance"/> you would want to use these abilitie
 **Notable Traits:**
 
 - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
-- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Effect name="Battle Scars"/>, which makes your attack steal health.
+- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Effect name="Battle Scars"/>, which makes your attack steal health. This trait is dps alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of dmg, but dont scale with <Effect name="exposed"/>. Pulls ahead over ST on fights where majority of dmg is dealt, outside of <Effect name="exposed"/> debuff, so on Artsariv and Arkk. Also worth taking in pug groups.
 - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%. 
 - <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
 - <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
