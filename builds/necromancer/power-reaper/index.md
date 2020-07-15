@@ -48,7 +48,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Spite" traits1Selected="Spiteful Talisman, Signets of Suffering, Close to Death" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Death Perception" traits3="Reaper" traits3Selected="Chilling Nova , Soul Eater, Reapers Onslaught"/>
+<Traits traits1="Spite" traits1Selected="Spiteful Talisman, Awaken the Pain, Close to Death" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Death Perception" traits3="Reaper" traits3Selected="Chilling Nova , Soul Eater, Reapers Onslaught"/>
 
 <Card title="Situational Skills">
 <Message>
