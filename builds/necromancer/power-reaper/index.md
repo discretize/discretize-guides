@@ -497,31 +497,107 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 - Place markers for the blooms 
 
 ### **Precast**
-
+) Precast Staff symbols on the orb that starts the encounter
+2) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
+3) Blast <Boon name="Might"/> with <Effect name="Hypernova Launch"/>
+4) Cast <Skill name="Lich Form"/> 4
+5) Take _Mistlock Singularity_
+6) Cast <Skill name="Lich Form"/> 4 **again**
 
 ### **Phase 1**
-
+1) Use both wells
+2) <Skill name="Grasping Darkness"/> (GS 5)
+3) <Skill name="Nightfall"/> (GS 4)
+4) <Skill name="Soul Spiral"/> (Shroud 4)
+5) Shroud auto attack until _Arkk_ phases **or**
+6) you are at ~6k Life force
+	1) Use <Skill name="Gravedigger"/> (GS 2)
+	2) <Skill name="Death Spiral"/> (GS 3)
+7) Weapon swap
+8) <Skill name="Ghastly Claws"/> (Axe 2)
+9) Position yourself so that you can push the solar bloom with axe auto attacks into the pillar
 
 ### **Phase 2**
-
+1) Before _Skorvald__ becomes vulnerable:
+	1) <Skill name="Locust Swarm"/> (Warhorn 5)
+	2) <Skill name="Signet of Vampirism"/> (Heal) 
+2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
+3) <Effect name="Hypernova Launch"/> on _Arkk_ to help with CC
+4) Use both wells
+5) <Skill name="Nightfall"/> (GS 4)
+6) <Skill name="Soul Spiral"/> (Shroud 4)
+7) Shroud auto attack until _Arkk_ phases
 
 ### *Add Phase 1*
-
+1) Pull an add with <Skill name="Grasping Darkness"/> (GS 5)
+2) <Skill name="Death Spiral"/> (GS 3)
+3) Auto attack until _Arkk_ is 50%
+4) Spam <Skill name="Gravedigger"/> (GS 2)
+5) <Effect name="Hypernova Launch"/> on the Elite to help with CC
 
 ### **Phase 3**
-
+1) Use both wells
+2) <Skill name="Nightfall"/> (GS 4)
+3) <Skill name="Death Spiral"/> (GS 3)
+4) <Skill name="Gravedigger"/> (GS 2)
+5) Weapon swap
+6) <Skill name="Ghastly Claws"/> (Axe 2)
+7) <Skill name="Soul Spiral"/> (Shroud 4)
+6) Shroud auto attack until _Arkk_ phases **or**
+7) you are at ~6k Life force
+	1) Use <Skill name="Gravedigger"/> (GS 2)
+	2) <Skill name="Death Spiral"/> (GS 3)
+8) Weapon swap
+9) <Skill name="Ghastly Claws"/> (Axe 2)
+10) Position yourself so that you can push the solar bloom with axe auto attacks into the pillar
 
 ### **Phase 4**
-
+1) Before _Skorvald__ becomes vulnerable:
+	1) <Skill name="Locust Swarm"/> (Warhorn 5)
+	2) <Skill name="Signet of Vampirism"/> (Heal) 
+2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
+3) <Effect name="Hypernova Launch"/> on _Arkk_ to help with CC
+4) Use both wells
+5) <Skill name="Nightfall"/> (GS 4)
+6) <Skill name="Soul Spiral"/> (Shroud 4)
+7) Shroud auto attack until _Arkk_ phases
 
 ### *Add Phase 2*
-
+1) Pull a golem (**preferably the blue one so it doesn't knock you back**) with <Skill name="Grasping Darkness"/> (GS 5)
+2) <Skill name="Death Spiral"/> (GS 3)
+3) Auto attack until _Arkk_ is 50%
+4) Spam <Skill name="Gravedigger"/> (GS 2)
+5) <Effect name="Hypernova Launch"/> on the Elite to help with CC
 
 ### **Phase 5**
-
+1) Use both wells
+2) <Skill name="Nightfall"/> (GS 4)
+3) <Skill name="Death Spiral"/> (GS 3)
+4) <Skill name="Gravedigger"/> (GS 2)
+5) Weapon swap
+6) <Skill name="Ghastly Claws"/> (Axe 2)
+7) <Skill name="Soul Spiral"/> (Shroud 4)
+6) Shroud auto attack until _Arkk_ phases **or**
+7) you are at ~6k Life force
+	1) Use <Skill name="Gravedigger"/> (GS 2)
+	2) <Skill name="Death Spiral"/> (GS 3)
+8) Weapon swap
+9) <Skill name="Ghastly Claws"/> (Axe 2)
+10) Position yourself so that you can push the solar bloom with axe auto attacks into the pillar
 
 ### **Phase 4**
-
+1) If you have <Skill name="Lich Form"/> off cooldown, use <Skill name="Lich Form"/> 4 after you have pushed your solar bloom into the pillar
+2) Before _Skorvald__ becomes vulnerable:
+	1) <Skill name="Locust Swarm"/> (Warhorn 5)
+	2) <Skill name="Signet of Vampirism"/> (Heal) 
+3) If Arkk is not CCd
+	1) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
+	2) <Effect name="Hypernova Launch"/> on _Arkk_ to help with CC
+4) Use both wells
+5) <Skill name="Nightfall"/> (GS 4)
+6) <Skill name="Soul Spiral"/> (Shroud 4)
+7) Shroud auto attack until _Arkk_ dead
+8) If not dead spam <Skill name="Gravedigger"/> (GS 2)
 
 Annotation:
 1) If possible make sure you use <Effect name="hypernovalaunch"/> to CC the adds
