@@ -151,7 +151,7 @@ Before fight: Use <Skill name="Lich Form"/> (Elite) to precast skill 4 (Summon M
 
 ### **Precast**
 1) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
-2) Precast <Skill id="240"/> / <Skill name="Mistfire Wolf"/>, etc (if you have it)
+2) Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
 3) Take _Mistlock Singularity_
 4) Cast <Skill name="Lich Form"/> 4 halfway to _MAMA_
 
@@ -236,7 +236,7 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 ### **Precast**
 1) Precast Staff symbols on the orb that starts the encounter
 2) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
-3) Precast <Skill id="240"/> / <Skill name="Mistfire Wolf"/>, etc (if you have it)
+3) Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
 4) Take _Mistlock Singularity_
 5) Cast <Skill name="Lich Form"/> 4 at the orb before the encounter starts_ 
 
@@ -290,7 +290,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 </Message>
 ### **Precast**
 1) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
-2) Precast <Skill id="240"/> / <Skill name="Mistfire Wolf"/>, etc (if you have it)
+2) Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
 3) Take _Mistlock Singularity_
 4) Cast <Skill name="Lich Form"/> 4 at the orb
 
@@ -436,7 +436,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
  <Tab title="Artsariiv">
 ### **Precast**
 1) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
-2) Precast <Skill id="240"/> / <Skill name="Mistfire Wolf"/>, etc (if you have it)
+2) Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
 3) Take _Mistlock Singularity_
 4) Precast Staff symbols on the corner _Artsariiv_ goes to or on the 2 elites at start
 
