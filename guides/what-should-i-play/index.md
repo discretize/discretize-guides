@@ -1,6 +1,6 @@
 ---
 title: 'What Should I Play?'
-date: '2020-06-04'
+date: '2020-07-17'
 image: './images/whatshouldiplaylogo.png'
 description: 'If you do not know what class you want to play.'
 ---

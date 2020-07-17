@@ -1,6 +1,6 @@
 ---
 title: 'Condi Firebrand'
-date: '2020-07-16'
+date: '2020-07-17'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Guardian'
