@@ -1,6 +1,6 @@
 ---
 title: 'Berserker'
-date: '2020-05-31'
+date: '2020-07-17'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
