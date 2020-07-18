@@ -54,6 +54,17 @@ You can retrait to Tempest for this fractal as it is one of the best choices for
 <Tab specialization="warrior">
 Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="fury"/> and <Boon name="might"/>.
 </Tab>
+
+<Tab specialization="reaper">
+1) <Skill name="Frozen Abyss"/> (Trident 5)
+2) <Skill name="Wicked Spiral"/> (Spear 2)
+3) Use both wells
+4) <Skill name="Soul Spiral"/> (Shroud 4)
+5) Shroud auto attacks until ~7k life force
+6) <Skill name="Wicked Spiral"/> (Spear 2)
+7) Auto attacks until spear 2 is off cooldown
+8) Repeat from step  `1`
+</Tab>
 </Tabs>
 
 </GridItem>
