@@ -1,6 +1,6 @@
 ---
 title: 'Captain Mai Trin Boss'
-date: '2020-07-03'
+date: '2020-07-18'
 image: './images/header.jpg'
 group: 'T4'
 api: 2932
