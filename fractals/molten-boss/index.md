@@ -1,6 +1,6 @@
 ---
 title: 'Molten Boss'
-date: '2018-09-12'
+date: '2020-07-18'
 image: './images/header.jpg'
 group: 'T4'
 api: 2966
