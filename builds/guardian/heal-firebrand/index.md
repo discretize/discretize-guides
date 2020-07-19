@@ -1,6 +1,6 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2020-06-16'
+date: '2020-07-18'
 rating: 'T4'
 role: 'Support'
 profession: 'Guardian'
@@ -57,22 +57,21 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | | |
 | -- | -- |
 | <Trait name="Pure of heart" size="big" disableText/> | In some T4s with a lot of attacking enemies it can be beneficial to bring this trait. This trait trades <Boon name="Might"/> for more heals. |
-
-</Card>
-<Card title="Wheelchair">
-In case your team downs all the time and you cannot keep your PuG friends alive, you can swap radiance for virtues. This however is **not** the default build and should only be played under extreme circumstances, like very bad instability combos or constantly failing mechanics.
+## Wheelchair
+In case your team downs frequently and is unable to handle mechanics correctly, you can swap radiance for virtues. This however is **not** the default build and should only be played under extreme circumstances, like very bad instability combos or beginner groups.
 <UnembossedTraits traits1Id="46" traits1="Virtues"  traits1SelectedIds="625, 610, 554"/>
+
 </Card>
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="Mantra of Solace" utility1="Mantra of Potence" utility3="Bane Signet" elite="Feel My Wrath"/>
+<Skills heal="Mantra of Solace" utility1="Mantra of Potence" utility3="Bane Signet" elite="Mantra of Liberation"/>
 
 <Card title="Situational Skills">
 | | |
 | -- | -- |
 | <Skill id="45460" size="big" disableText/> | A strong condition cleanse to counterplay <Instability name="Afflicted"/>. |
-| <Skill id="43357" size="big" disableText/> | Grants 33% uptime of <Boon name="Stability"/> and <Boon name="Retaliation"/>. |
+| <Skill name="Feel my wrath" size="big" disableText/> | When there is absolutely no need for <Boon name="Stability"/>. |
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. Can be used to blink to a <Skill id="9168"/>.|
 | <Skill id="9247" size="big" disableText/> | A 1,200 range teleport to an enemy. Very handy for some skips. |
 | <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stun break is needed. Preferred over <Skill id="9153"/>. |
@@ -105,8 +104,6 @@ Prestacking:
 - Press <Skill name="Empower"/> again
 
 To keep up <Boon name="Quickness"/>:
-
-- Use <Skill name="Feel My Wrath"/> whenever ready
 - Use <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> but leave one charge left (unless the fight is close to being over)
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 
