@@ -7,7 +7,7 @@ profession: 'Necromancer'
 specialization: 'Reaper'
 benchmark: { small: { dps: 31200, by: 'MajesticNoodle [BATS]', youtube: 'wPFrUrG0l0E' } }
 skills: [30792]
-traits: [2020, 2018, 919]
+traits: [2020, 2018, 853]
 boons: ['Might', 'Fury', 'Quickness']
 conditions:
   ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poison', 'Blind']
@@ -158,7 +158,7 @@ Before fight: Use <Skill name="Lich Form"/> (Elite) to precast skill 4 (Summon M
 ### **Phase 1**
 1) Start the fight with a <Item id="8664"/>, if you don't trust CC
 2) Place both wells right before MAMA becomes vulnerable
-3) If metal rod:**
+3) If metal rod:
 	1) Use <Skill name="Gravedigger"/> (GS 2)
 3) If no metal rod:
 	1) <Skill name="Nightfall"/> (GS 4)
@@ -175,8 +175,7 @@ Before fight: Use <Skill name="Lich Form"/> (Elite) to precast skill 4 (Summon M
 ### **Phase 2**
 1) Use <Skill name="Death Spiral"/> (GS 3) (if off cooldown)
 2) <Skill name="Gravedigger"/> (GS 2)
-3) Autoattack until <Skill name="Nightfall"/> (GS 4) is off cooldown
-4) Autoattack until Use <Skill name="Grasping Darkness"/> (GS 5) is off cooldown
+3) Use <Skill name="Nightfall"/> (GS 4) and <Skill name="Grasping Darkness"/> (GS 5) off cooldown
 5) Weapon swap
 6) <Skill name="Ghastly Claws"/> (Axe 2)
 7) Use both wells
@@ -203,8 +202,8 @@ If not under 50%:
 3) <Skill name="Nightfall"/> (GS 4)
 4) If _MAMA_is broken: <Skill name="Soul Spiral"/> (Shroud 4)
 4) If _MAMA_ isn't broken:
-	1) <Skill name="Death Spiral"/> (Shroud 3)
-	2) <Skill name="Grasping Darkness"/> (Shroud 5)
+	1) <Skill name="Infusing Terror"/> (Shroud 3)
+	2) <Skill name="Executioners Scythe"/> (Shroud 5)
 	3) <Skill name="Soul Spiral"/> (Shroud 4)
 5) Auto attack until _MAMA_ phases
 
@@ -245,8 +244,8 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 2) <Skill name="Grasping Darkness"/> (GS 5)
 3) <Skill name="Nightfall"/> (GS 4)
 4) Shroud auto attack breakbar appears:
-	1) <Skill name="Death Spiral"/> (Shroud 3)
-	2) <Skill name="Grasping Darkness"/> (Shroud 5)
+	1) <Skill name="Infusing Terror"/> (Shroud 3)
+	2) <Skill name="Executioners Scythe"/> (Shroud 5)
 	3) <Skill name="Soul Spiral"/> (Shroud 4)
 5) Shroud auto attack until _Siax_ phases **or**
 6) you are at ~6k Life force
@@ -300,8 +299,8 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 3) <Skill name="Grasping Darkness"/> (GS 5)
 4) <Skill name="Nightfall"/> (GS 4)
 5) If _Ensolyss_ is still not broken:
-	1) <Skill name="Death Spiral"/> (Shroud 3)
-	2) <Skill name="Grasping Darkness"/> (Shroud 5)
+	1) <Skill name="Infusing Terror"/> (Shroud 3)
+	2) <Skill name="Executioners Scythe"/> (Shroud 5)
 	3) <Skill name="Soul Spiral"/> (Shroud 4)
 6) Shroud auto attack until you are at ~6k Life force
 7) Use <Skill name="Gravedigger"/> (GS 2)
@@ -315,8 +314,8 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 15) <Skill name="Ghastly Claws"/> (Axe 2)
 16) Use both wells
 17) CC _Ensolyss_:
-	1) <Skill name="Death Spiral"/> (Shroud 3)
-	2) <Skill name="Grasping Darkness"/> (Shroud 5)
+	1) <Skill name="Infusing Terror"/> (Shroud 3)
+	2) <Skill name="Executioners Scythe"/> (Shroud 5)
 	3) <Skill name="Soul Spiral"/> (Shroud 4)
 	4) Auto attack
 18) Exit shroud on last few % until phase
@@ -368,7 +367,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 3) <Skill name="Grasping Darkness"/> (GS 5)
 4) <Skill name="Nightfall"/> (GS 4)
 5) If _Skorvald__ is still not broken:
-	1) <Skill name="Grasping Darkness"/> (Shroud 5)
+	1) <Skill name="Executioners Scythe"/> (Shroud 5)
 	2) <Skill name="Soul Spiral"/> (Shroud 4)
 6) Auto attack until _Skorvald_ phases
  
@@ -448,7 +447,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 5) <Skill name="Lich Form"/> 4
 6) Use both wells
 7) <Skill name="Nightfall"/> (GS 4)
-8) If still not broken: <Skill name="Grasping Darkness"/> (Shroud 5)
+8) If still not broken: <Skill name="Executioners Scythe"/> (Shroud 5)
 9) <Skill name="Soul Spiral"/> (Shroud 4)
 10) Shroud auto attack until _Artsariiv_ phases or exit at ~6k life force
 ### *Split Phase 1*
@@ -497,7 +496,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 - Place markers for the blooms 
 
 ### **Precast**
-) Precast Staff symbols on the orb that starts the encounter
+1) Precast Staff symbols on the orb that starts the encounter
 2) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
 3) Blast <Boon name="Might"/> with <Effect name="Hypernova Launch"/>
 4) Cast <Skill name="Lich Form"/> 4
@@ -518,7 +517,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 9) Position yourself so that you can push the solar bloom with axe auto attacks into the pillar
 
 ### **Phase 2**
-1) Before _Skorvald__ becomes vulnerable:
+1) Before __Arkk__ becomes vulnerable:
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
@@ -531,7 +530,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 ### *Add Phase 1*
 1) Pull an add with <Skill name="Grasping Darkness"/> (GS 5)
 2) <Skill name="Death Spiral"/> (GS 3)
-3) Auto attack until _Arkk_ is 50%
+3) Auto attack until __Arch Diviner__ is 50%
 4) Spam <Skill name="Gravedigger"/> (GS 2)
 5) <Effect name="Hypernova Launch"/> on the Elite to help with CC
 
@@ -552,7 +551,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 10) Position yourself so that you can push the solar bloom with axe auto attacks into the pillar
 
 ### **Phase 4**
-1) Before _Skorvald__ becomes vulnerable:
+1) Before __Arkk__ becomes vulnerable:
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
@@ -565,7 +564,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 ### *Add Phase 2*
 1) Pull a golem (**preferably the blue one so it doesn't knock you back**) with <Skill name="Grasping Darkness"/> (GS 5)
 2) <Skill name="Death Spiral"/> (GS 3)
-3) Auto attack until _Arkk_ is 50%
+3) Auto attack until __Gladiator__ is 50%
 4) Spam <Skill name="Gravedigger"/> (GS 2)
 5) <Effect name="Hypernova Launch"/> on the Elite to help with CC
 
@@ -585,7 +584,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 9) <Skill name="Ghastly Claws"/> (Axe 2)
 10) Position yourself so that you can push the solar bloom with axe auto attacks into the pillar
 
-### **Phase 4**
+### **Phase 6**
 1) If you have <Skill name="Lich Form"/> off cooldown, use <Skill name="Lich Form"/> 4 after you have pushed your solar bloom into the pillar
 2) Before _Skorvald__ becomes vulnerable:
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
