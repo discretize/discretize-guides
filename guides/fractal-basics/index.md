@@ -1,6 +1,6 @@
 ---
 title: 'Fractal Basics'
-date: '2020-06-18'
+date: '2020-07-18'
 image: './images/instabilities.jpg'
 description: 'Get to know the meta 5-man team composition, learn about the /gg command and Mistlock Instabilities.'
 ---

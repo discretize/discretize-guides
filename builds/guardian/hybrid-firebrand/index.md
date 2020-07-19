@@ -1,6 +1,6 @@
 ﻿---
 title: 'Firebrand'
-date: '2020-03-28'
+date: '2020-07-18'
 rating: 'Meta'
 role: 'Support'
 profession: 'Guardian'
@@ -15,12 +15,20 @@ author: 'ganymed.3541'
 
 <Tabs>
 <Tab title="Build">
-The **<Specialization text="Hybrid Firebrand" name="firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing high DPS.
+The **<Specialization text="Power Quickness Firebrand" name="firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing high DPS.
 
 It plays very similar to <Specialization text="Power Dragonhunter" name="Dragonhunter"/> with the addition of <Specialization name="firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="stability"/>, <Boon name="resistance"/>, reflects and pulls.
 
+
 Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' power by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
+<Message>
+Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="firebrand"/>* is very strong with short phases. For various T4 fractals, long fight or if you simply happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="firebrand"/>* ([Build](/builds/condi-firebrand) ) as it provides much better DPS for longer fights. 
+</Message>
+
+<Message>
+After July 2020 Balance patch, <Skill name="Feel my Wrath"/> got nerfed! In order to provide permanent quickness for fights longer then 1,5 minutes, <Specialization name="Firebrand"/> needs to increase their **boon duration to 24.6%**.
+</Message>
 <Divider text="Equipment"/>
 
 Note that this build variant only gains boon duration from the <Item id="79722"/>.
@@ -28,11 +36,42 @@ Note that this build variant only gains boon duration from the <Item id="79722"/
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 <Tabs>
-<Tab title="150 Agony Resistance">
+<Tab title="162 Agony Resistance (24.6% BD)">
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar"/>
+<Armor weight="Heavy" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
+
+<Card title="Alternative weapons">
+- Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
+- Greatswords and foci with (see [Consumables Guide](/guides/consumables))
+- Maces for symbol precast
+- Hammer and/or Staff for <Boon name="might"/> stacking
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemId="49390" backItemAffix="Diviner" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+
+<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
+
+<Card title="Notes">
+Use <Trait name="Righthandstrength"/> when there are multiple <Specialization name="guardian"/>s in your party. Only then you have permanent <Boon name="Retaliation"/>. **Taking <Trait name="Righthandstrength"/> requires no assassin's pieces!**
+
+</Card>
+</GridItem>
+</Grid>
+</Tab>
+
+<Tab title="222 Agony Resistance (24.6% BD)">
+Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
+<Grid>
+<GridItem sm="4">
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Diviner" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -52,37 +91,8 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
 <Card title="Notes">
-If you use <Trait name="Perfectinscriptions"/> you are lacking crit chance, therefore the assassins pieces. You can of course mitigate this by increasing your agony resistance. 
-
-It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="guardian"/> or another source of <Boon name="Retaliation"/>.
-
+You can play full berserker when you can ensure that <Boon name="Quickness"/> doesn't drop in combat. 
 </Card>
-</GridItem>
-</Grid>
-</Tab>
-
-<Tab title="203 Agony Resistance">
-Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
-<Grid>
-<GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
-
-<Card title="Alternative weapons">
-- Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
-- Greatswords and foci with (see [Consumables Guide](/guides/consumables))
-- Maces for symbol precast
-- Hammer and/or Staff for <Boon name="might"/> stacking
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
-
-<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 </GridItem>
 </Grid>
 </Tab>
@@ -177,15 +187,15 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 <Card title="Rotation">
 **Scepter/Sword Rotation:**
 1. <Skill name="banesignet" profession="guardian"/>
+1. <Skill name="Sword of Justice" profession="guardian"/> 
 1. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter/Sword 2)
+2. <Skill name="Sword of Justice" profession="guardian"/> 
 1. <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
 1. <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
 1. **Weapon Swap**
 1. <Skill name="Sword of Justice" profession="guardian"/>
 1. <Skill name="Symbol of Wrath " profession="guardian"/> (GS 4)
 1. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
-1. <Skill name="Sword of Justice" profession="guardian"/> 
-1. <Skill name="Sword of Justice" profession="guardian"/>
 1. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
 1. <Skill name="Binding Blade" profession="guardian"/> (GS 5)
 1. If the phase lasts longer than this, continue with the SC rotation. 
@@ -227,7 +237,7 @@ The following guide assumes you are playing with a decent group. In a PuG scenar
 5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take mistlock
-8) And repeat step 3 and 5
+8) Use <Skill name="Feelmywrath"/> 
 
 ### **Phase 1**
 1) Precast <Skill name="tome of justice"/> skill 4 and 5, <Skill name="Symbolofblades"/>, <Skill name="shieldofwrath"/> and <Skill name="Symbolofwrath"/> when she is still invulnerable
@@ -252,9 +262,9 @@ The following guide assumes you are playing with a decent group. In a PuG scenar
 
 ### **Phase 3**
 1) Cast <Skill name="banesignet"/> to CC
-2) <Skill name="zealots defense"/>
-3) <Skill name="shield of wrath"/>
+3) <Skill name="shield of wrath"/> while casting <Skill name="banesignet"/>
 4) <Skill name="symbol of blades"/> 
+2) <Skill name="zealots defense"/>
 5) Weapon Swap
 6) <Skill name="symbol of wrath"/>
 7) <Skill name="whirling wrath"/>
@@ -283,17 +293,19 @@ Siax is a really short encounter that should be killed in about 40 seconds. Cons
 <Message>
 Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this encounter!
 </Message>
+<Message>
+The rotation for scepter/sword is the same for every specialization. **Sword tends to perform much better on both <Specialization name="Firebrand"/> and <Specialization name="Dragonhunter"/>**!
+</Message>
 
 ### **Precast**
 1) Cast <Skill name="tome of justice"/> skill 4 and 5
 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
-3) Use 2 charges of <Skill name="potent haste"/> (3 if you change to DH/Core) and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
 5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take mistlock
-8) And repeat step 3 and 5 (If you swap to DH/Core, only repeat step 5 )
-
+8) Use <Skill name="Feelmywrath"/> 
 
 
 <Tabs>
@@ -452,25 +464,23 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 </Message>
 
 ### **Precast**
-1) Cast <Skill name="tome of justice"/> Skill 4 and 5
+1) Cast <Skill name="tome of justice"/> skill 4 and 5
 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
 5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take mistlock
-8) And repeat step 3 and 5
+8) Use <Skill name="Feelmywrath"/> 
 
 ### **Phase 1**
 1) Precast <Skill name="tome of justice"/> skill 4 and 5
-2) Cast <Skill name="symbol of punishment"/> as soon as Ensolyss lands on the platform
-3) <Skill name="sword of justice"/>
-4) <Skill name="shield of wrath"/>
+2) <Skill name="sword of justice"/> and  <Skill name="shield of wrath"/> as soon as Ensolys lands
 5) Use <Skill name="banesignet"/> to CC
+9) <Skill name="symbol of punishment"/>
 6) <Skill name="sword of justice"/>
 7) <Skill name="ray of judgment"/>
 8) <Skill name="sword of justice"/>
-9) <Skill name="symbol of punishment"/>
 10) Weapon swap
 11) <Skill name="symbol of wrath"/>
 12) <Skill name="whirling wrath"/>
@@ -515,8 +525,8 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 15) <Skill name="whirling wrath"/>
 
 Notes:
-1) Share your <Boon name="quickness"/> only during phases please!!
-2) Your rotation might be slightly different, depends on recharge of your <Skill name="sword of justice"/> as well
+1) Share your <Boon name="quickness"/> only while fighting the boss!
+2) Your rotation might be slightly different depending on the recharge of your <Skill name="sword of justice"/>.
 
 </Tab>
 </Tabs>
@@ -530,15 +540,15 @@ Notes:
 Rotation on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
  
  ### **Precast**
- 1) Cast <Skill name="tome of justice"/> Skill 4 and 5
- 2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
- 3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
- 4) Use <Skill name="Stand your ground"/>
- 5) Use <Skill name="Feelmywrath"/>  
- 6) Use <Skill name="banesignet"/>
- 7) Take mistlock
- 8) And repeat step 3 and 5
- 
+1) Cast <Skill name="tome of justice"/> skill 4 and 5
+2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
+3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+4) Use <Skill name="Stand your ground"/>
+5) Use <Skill name="Feelmywrath"/> 
+6) Use <Skill name="banesignet"/>
+7) Take mistlock
+8) Use <Skill name="Feelmywrath"/> 
+
  ### **Phase 1**
  1) Precast <Skill name="symbol of punishment"/>
  2) Precast <Skill name="Shield of wrath"/>
@@ -596,9 +606,8 @@ Rotation on Skorvald depends on whether your <Specialization name="Renegade"/> r
  5) <Skill name="bindingblade"/>
  
  Notes:
- 1) If your renegade runs <Skill name="Legendary Dwarf Stance"/>, Precast one <Skill name="sword of justice"/> at the start, Then use on each island and at the start of both phase 2 and 3
- 2) Be careful with what island you choose for your <Item name="white mantle portal device"/>
-     1) Don't use it at the island where you are supposed to enter any of your tomes
+ 1) If your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/> precast one <Skill name="sword of justice"/> at the start, Then use on each island and at the start of both phase 2 and 3
+ 2) Be careful with what island you choose for your <Item name="white mantle portal device"/>: Don't use it at the island where you are supposed to enter any of your tomes
 
 </Tab>
 <Tab title="Artsariiv">
@@ -757,7 +766,7 @@ You can use <Effect name="hypernovalaunch"/> to the middle
 
 Annotation:
 1) If possible make sure you use <Effect name="hypernovalaunch"/> to CC the adds
-    1) First add spawn AoE's that strips boons, make sure you avoid them
+2) The archdiviner spawns AoE's that strips boons, avoid them!
 
 </Tab>
 </Tabs>
