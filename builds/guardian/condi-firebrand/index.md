@@ -14,11 +14,11 @@ code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 
 <Tabs>
 <Tab title="Build">
-The **<Specialization text="Condi Firebrand" name="firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high DPS.
+The **<Specialization text="Condi Firebrand" name="firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high DPS consistent DPS. In organized teams this build is inferior to <Specialization name="firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very high damage making your DPS players sweat. 
 
 Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies.
 
-One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> is that you lack CC (Crowd Control), this can be fixed by running <Trait name="Perfectinscriptions"/> and swapping <Skill name="Signet of Wrath"/> to <Skill name="Bane Signet"/>.
+One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 Power buff provided by <Skill name="Bane Signet"/>.
 
 <Divider text="Equipment"/>
 
