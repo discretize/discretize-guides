@@ -622,7 +622,7 @@ Spirit Management:
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-- Pet: <Skill id="44617" disableText/> Red Moa.
+- Pet: <Skill id="44617" disableText/> Red Moa (more DPS) or <Skill id="43636" disableText/> Rock Gazelle (better movement).
 - Traits: <Trait id="2128"/>. 
 - Food: <Item id="91805"/>.
 - Utility: <Item id="77569"/>.
@@ -673,7 +673,8 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
 - <Skill name="Worldlyimpact"/>.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/> to reflect again.
-- <Skill id="43548"/> if she isn't phased yet.
+- If she isn't dead yet, use <Skill id="45743"/>, then <Skill id="41524"/> and sword autoattack.
+
 
 </Tab>
 <Tab title="Middle">
@@ -682,7 +683,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
+- Pet: <Skill id="44617" disableText/> Red Moa.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/>.
 - Utility: <Item id="77569"/>.
@@ -738,7 +739,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
-- If she isn't dead yet, use <Skill id="45743"/>, then <Skill id="41524"/> and sword autoattack.
+- <Skill id="43548"/> if she isn't phased yet.
 
 </Tab>
 </Tabs>
