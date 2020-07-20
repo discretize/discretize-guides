@@ -16,9 +16,9 @@ code: '[&DQQIGiA7Nyp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 <Tabs>
 <Tab title="Build">
 
-<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that in addition provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill, that comes in handy on several encounters (e.g. Artsariiv).
+<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
 
-For prestacking and encounters where the <Specialization name="Firebrand"/> plays <Specialization name="Dragonhunter"/> or <Specialization name="guardian"/>, it is beneficial to bring <Skill name="moa stance"/> to extend the uptime of boons, especially <Boon name="quickness"/>.
+For prestacking and encounters where the <Specialization name="Firebrand"/> plays <Specialization name="Dragonhunter"/> or <Specialization name="guardian"/>, it is beneficial to bring <Skill name="moa stance"/> to is it hot iextend the uptime of boons, especially <Boon name="quickness"/>.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
