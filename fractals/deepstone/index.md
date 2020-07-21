@@ -110,14 +110,17 @@ Here you have to use the <Effect name="lightofdeldrimor"/> to reveal the hidden 
 ### Elevator (Sinking platform)
 </GridItem> 
 
-<GridItem sm="8"> 
+<GridItem sm="7"> 
 After standing on the rune in the middle of the platform it proceeds to go downward. If you didn't step in in time, no worries, there is a cyan glowing rune that teleports you down. As the platform goes down, it stops in the middle and mobs spawn. It's two waves of mobs with first being Veteran Imps only, then an Elite Minotaur and Veteran Imps. **Use the <Effect name="lightofdeldrimor"/> to make them vulnerable** and after killing them the platform moves again.You can jump down but it can happen that you die if you jump from too high. It is more safe to wait until it is fully down.
 </GridItem>
 
-<GridItem sm="4">
+<GridItem sm="5">
 <Tabs>
 <Tab specialization="Guardian">
 Use <Skill name="Binding Blade"/> (Greatsword 5) to group the mobs.
+</Tab>
+<Tab specialization="Elementalist">
+Use <Skill name="Lightning Flash"/> and <Skill name="Ride the Lightning"/> to get to to the elevator quicker and thus activate it faster.
 </Tab>
 </Tabs>
 </GridItem>
@@ -151,5 +154,3 @@ After the 20% invulnerability he doesn't teleport away and you can nuke him. Aft
 <Image src="./images/the_voice.jpg" caption="The Voice"/>
 </GridItem>
 </Grid>
-
-
