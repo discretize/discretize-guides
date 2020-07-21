@@ -105,6 +105,17 @@ After merging the second orb with the Vibrant Crystal, you get a Special Action 
   
 Here you have to use the <Effect name="lightofdeldrimor"/> to reveal the hidden tiles of the maze. **<Specialization name="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <Effect name="lightofdeldrimor"/>.** Move to the right and the first orb of light is revealed for you. From there you proceed on to the next orb of light to your left or the bottom left on the minimap. After revealing all four orbs the maze's tiles reveal themselves and you can move on to the "elevator".
 </GridItem>
+<GridItem sm="6">
+</GridItem>
+<GridItem sm="6">
+<Tabs>
+<Tab specialization="Elementalist">
+Use <Skill name="Lightning Flash"/>, <Skill name="Ride the Lightning"/> or <Skill id="5516"/> to move faster to to the maze and thus activate it faster.
+</Tab>
+</Tabs>
+</GridItem>
+
+
 <GridItem sm="12">
 <Video title="Maze skip for Soulbeast, Warrior, Guardian, Elementalist and Revenant" youtube="coAfQMSot7s"/>
 </GridItem> 
