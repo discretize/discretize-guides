@@ -19,7 +19,7 @@ code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 <Tab title="Build">
 <Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable many fast skips in T4s. <Specialization name="daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="daredevil"/>  becomes quite hard to master.
 
-In fractals <Specialization name="daredevil"/> falls behind other classes for several reasons. First would be <Trait id="1268"/>, which forces <Specialization name="daredevil"/> to constantly attack from behind or flank, which in some scenarios is not possible. Next would be <Trait id="1257"/>, which depending on your group composition you may not receive as much of a damage bonus as you would in raids where 10 players allow for more condis to be on the boss. Finally keep in mind that because of <Trait id="2047"/>, you may be pushing your teammates on fractals with <Instability name="Social awkwardness"/> instability into deadly zones.
+In fractals <Specialization name="daredevil"/> falls behind other classes for several reasons. First would be <Trait id="1268"/>, which forces <Specialization name="daredevil"/> to constantly attack from behind or flank, which in some scenarios is not possible. (Note: with latest balance patch, keen observer got buffed, and with at least 204 Agony Resistance thief no longer need to flank). Next would be <Trait id="1257"/>, which depending on your group composition you may not receive as much of a damage bonus as you would in raids where 10 players allow for more condis to be on the boss. Finally keep in mind that because of <Trait id="2047"/>, you may be pushing your teammates on fractals with <Instability name="Social awkwardness"/> instability into deadly zones.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -42,35 +42,14 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemId="79830" backItemAffix="Assasin" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
-
-<Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
-</GridItem>
-</Grid>
-</Tab>
-<Tab title = "176+ AGONY RESISTANCE">
-<Grid>
-<GridItem sm="4">
-<Armor weight="Medium" helmId="48087" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48089" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48085" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48086" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48088" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48084" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainId="46773" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact"/>
-
-<Card title="Alternative weapons">
-* Staff with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
-  (<Item id="36054"/> doesn't stack anymore)
-* A shortbow to stack <Boon name="might"/>, <Effect name="Stealth"/> and to skip
-</Card>
-</GridItem>
-
-<GridItem sm="4">
 <BackAndTrinkets backItemId="79830" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
 </GridItem>
 </Grid>
+With 204 Agony resistance, ur critcapped even without <Trait id="1268"/> flank bonus.
 </Tab>
+
 </Tabs>
 
 
@@ -98,14 +77,25 @@ If no one in your party can boonrip when the <Instability name="No Pain No Gain 
 </GridItem>
 
 <GridItem sm="5">
-<Skills healId="30400" utility1Id="" utility2Id="30868" utility3Id="13046" eliteId=""/>
+<Skills healId="" utility1Id="" utility2Id="30868" utility3Id="13046" eliteId=""/>
 <Card title="Alternative skills">
+
+Heal skills:
+| | |
+| -- | -- |
+| <Skill id="13050" size="big" disableText/> | Good passive healing. |
+| <Skill id="13027" size="big" disableText/> | Helps to prepare burst with <Trait id="1704"/> |
+| <Skill id="13021" size="big" disableText/> | Additional mobility. |
+| <Skill id="30400" size="big" disableText/> | Good for skips, where additional endurance is needed. |
+
+
+
 3rd utility skill:
 | | |
 | -- | -- |
 | <Skill id="13037" size="big" disableText/> | Best DPS for longer fights.|
 | <Skill id="13057" size="big" disableText/> | Good for short phases for additional burst as well as being a CC skill. |
-| <Skill id="13062" size="big" disableText/> | Helps to critcap without having to rely upon <Trait id="1268"/>. |
+| <Skill id="13062" size="big" disableText/> | With this skill, you are crit capped without precision from banner and <Trait id="1268"/>, even with 162 AR. |
 Elite skills:
 | | |
 | -- | -- |
@@ -137,15 +127,19 @@ Elite skills:
 <Grid>
 <GridItem sm="7">
 <Card title="Rotation">
-(Before fight, lose endurance by dodging a couple times)
-1. **Dodge** 
-2. <Skill id="29911"/> (Staff 2)
-3. <Skill id="13046"/> (**during** Staff 2)
-4. <Skill id="29911"/> (Staff 2)
-5. <Skill id="30868"/> 
-6. <Skill id="29911"/> (Staff 2)
-7. <Skill id="30693"/>
-8. <Skill id="29911"/> 2x (Staff 2)
+Precast:
+
+Blast might with <Skill id="13041"/>. Cast <Skill id="13037"/>,  <Skill id="13055"/>, <Skill id="13096"/> and <Skill id="13082"/>, take mistlock and swap to normal skills. Dodge 2 times, use <Skill id="13027"/> and dodge last time, right before fight starts.
+
+Opening:
+
+1. <Skill id="29911"/> (Staff 2)
+2. <Skill id="13046"/> (**during** Staff 2)
+3. <Skill id="29911"/> (Staff 2)
+4. <Skill id="30868"/> 
+5. <Skill id="29911"/> (Staff 2)
+6. <Skill id="30693"/>
+7. <Skill id="29911"/> 2x (Staff 2)
 
 **Burst 1:** When you have _one bar of Endurance_ and **no** <Skill id="55031"/> (F1)
 
