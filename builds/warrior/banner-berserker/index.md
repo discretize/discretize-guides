@@ -92,7 +92,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </Grid>
 </Tab>
 <Tab title="276 Agony Resistance">
-You are an actual mad lad for considering this build. It costs about 3500 gold... You gain 43 power more over the 207 AR build. It is up to you to decide if you want to pay over 80g per extra power. 
+You are an actual mad lad for considering this build. It costs about 3500 gold... You gain 41 power more over the 222 AR build. It is up to you to decide if you want to pay over 80g per extra power. 
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
