@@ -1,6 +1,6 @@
 ---
 title: 'Berserker'
-date: '2020-07-18'
+date: '2020-07-22'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
@@ -182,7 +182,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 * If the boss has a breakbar, make sure to use <Skill name="Tremor"/> to proc <Item name="severance"/>, then swap to Axe/Axe.
 * Only use <Skill name="Throw Axe"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
 * Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase. 
-* Keep in mind that <Skill name="Crushing Blow"/> inflicts 15x <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst.
+* Keep in mind that <Skill name="Crushing Blow"/> inflicts 10x <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst.
 * It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
 * Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
 
@@ -296,7 +296,7 @@ This guide is a PuG friendly version without banner precast. Please remember tha
 </Card>
 </GridItem>
 <GridItem sm="6">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
 </GridItem>
 
 <GridItem sm="12">

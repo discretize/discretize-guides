@@ -1,6 +1,6 @@
 ---
 title: 'Power Reaper'
-date: '2020-07-18'
+date: '2020-07-22'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Necromancer'
@@ -20,6 +20,9 @@ author: 'jes'
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
 
 <Specialization name="Reaper" text="Power Reaper"/> has multiple offensive skill options (<Control name="Pull"/>, boon corruptions, <Condition name="blind"/>, <Control name="Immobile"/>, etc.) <Specialization name="Reaper" text="Power Reaper"/> can modify itself to fit many given situations in fractals.
+
+It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+
 
 <Divider text="Equipment"/>
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
@@ -58,14 +61,14 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 | -- | -- |
 | <Skill name="Well of Corruption" size="big" disableText/> | A strong aoe boon corrput which can be used to boon rip on days with the No Pain No Gain instability
 | <Skill name="Summon flesh Wurm" size="big" disableText/> | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized). |
-| <Skill name="Spectral Walk " size="big" disableText/> | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova). Also great for consuming conditions on consoles at [Aetherblade Fractal](/fractals/aetherblade). |
+| <Skill name="Spectral Walk " size="big" disableText/> | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade). |
 | <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
 | <Skill name="Suffer" size="big" disableText/> | A defensive utility to help mitigate conditions on you, as well as apply extra Chill for usage with <Trait name="Cold Shoulder"/> |
 | <Skill name="You are all Weaklings" size="big" disableText/> | A defensive stun break utility. |
 | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles. |
-| <Skill name="Nothing Can Save You" size="big" disableText/> | Makes your attacks unblockable, great to break the Ooze in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).  It is great to have at Volcanic Boss in Volcanic fractal and Champion Dredge in Underground Facility too. |
-| <Skill name="Rise!" size="big" disableText/> | Swap with <Skill name="Well of Corruption"/> if you need meatshield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals). It is your hardest hitting shout, has no cast time so you can go shroud faster. |
-| <Skill name="Summon Shadow Fiend" size="big" disableText/> | Possible alternative instead of <Skill name="Well of Corruption"/> for longer bosses like Artsariiv, Arkk in [Shattered Observatory Fractal](/fractals/shattered-observatory) and Ensolyss at [Nightmare Fractal](/fractals/nightmare). |
+| <Skill name="Nothing Can Save You" size="big" disableText/> | Makes your attacks unblockable, great to break the Ooze in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor). It is great to have at Volcanic Boss in Volcanic fractal and Champion Dredge in Underground Facility too. |
+| <Skill name="Rise!" size="big" disableText/> | Swap with <Skill name="Well of Corruption"/> if you need a meatshield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals). It is your hardest hitting shout, has no cast time so you can go in shroud faster. |
+| <Skill name="Summon Shadow Fiend" size="big" disableText/> | Possible alternative instead of <Skill name="Well of Corruption"/> for longer bosses like Artsariiv, Arkk in the [Shattered Observatory Fractal](/fractals/shattered-observatory) and Ensolyss in the [Nightmare Fractal](/fractals/nightmare). |
 </Card>
 
 
@@ -75,7 +78,7 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 <Skills heal="Signet of Vampirism" utility1="Well of Suffering" utility2="Well of Darkness" utility3="Signet of Spite" elite="Lich Form"/>
 
 <Card title="Situational Traits">
-- Should you need to (though usually only for underperforming groups), you can swap out Soul Reaping for Blood Magic (if you need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/>, and if needed more warhorn CC via <Trait name="Banshees Wail"/>.
+- If necessary (usually only in underperforming groups), you can swap out Soul Reaping for Blood Magic (if you need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/>, and if needed more CC via the warhorn skill <Trait name="Banshees Wail"/>).
 </Card>
 <Card title="Defiance Bar Damage">
 | | |
@@ -97,7 +100,9 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 <GridItem sm="7">
 <Card title="Rotation">
 
-Before fight: Use <Skill name="Lich Form"/> (Elite) to precast skill 4 (Summon Madness), if you have Mistfire Wolf (Deluxe Upgrade) precast it on MAMA, Siax, Ensolyss and Artsariiv (then put back <Skill name="Lich Form"/>) since you are too far from _Mistlock Singularity_ to make use of <Skill name="Lich Form" disableText/> precast.
+**Precasting:**
+1. Use <Skill name="Lich Form"/> (Elite) to precast <Skill id="10636"/> (Skill 4), 
+2. If you have Mistfire Wolf (Deluxe Upgrade) precast it on MAMA, Siax and Ensolyss (then put back <Skill name="Lich Form"/>) since you are too far away from _Mistlock Singularity_ to make use of <Skill name="Lich Form" disableText/> precast.
 
 **Opener:**
 1. <Skill name="Well of Darkness"/> (Utility)

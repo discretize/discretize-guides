@@ -1,6 +1,6 @@
 ---
 title: 'Power Holosmith'
-date: '2020-07-18'
+date: '2020-07-22'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Engineer'
@@ -53,8 +53,9 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | -- | -- |
 | <Trait name="Sanguine Array" size="big" disableText/> | If you are already crit capped without <Trait name="High Caliber"/> and struggle with <Boon name="Might"/> uptime. |
 You can swap Firearms trait line with Tools and replace <Skill id="5805"/> on <Skill id="43739"/>. This will help you to maintain your <Boon name="Quickness"/> better. Especially in weaker groups, this build shines. It is pretty friendly for new players. 
+<UnembossedTraits traits1Id="21" traits1="Tools" traits1SelectedIds="532,512,1856"/>
+
 </Card>
-<Traits traits1Id="21" traits1="Tools" traits1SelectedIds="532,512,1856"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -73,7 +74,7 @@ You can swap Firearms trait line with Tools and replace <Skill id="5805"/> on <S
 | <Skill id="5977" size="big" disableText/> | You can equip <Skill id="5927"/> shortly before the fight and precast its toolbelt skill if you want to go the extra mile. |
 | <Skill id="5857" size="big" disableText/> | An alternative heal skill if condition cleanse is needed, you can cast it AFTER (cause of water field) firefield to blast might. |
 | <Skill id="43739" size="big" disableText/> | Another (group) block that even reflects projectiles if heat is above 50. (replace it with <Skill id="6020"/>)  |
-| <Skill id="30337" size="big" disableText/> | Good alternative for burst, replace it with <Skill id="5818"/>, you can stack multiple times <Skill id="6164"/> before the start. |
+| <Skill id="30337" size="big" disableText/> | Good alternative for burst, replace it with <Skill id="5818"/>. Very effective **countermeasure for <Instability name="No Pain, No Gain"/>**! Can stack multiple <Skill id="6164"/> before the start. |
 </Card>
 </GridItem>
 </Grid>
