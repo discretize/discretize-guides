@@ -36,6 +36,9 @@ After two players passed, they stand on the cyan glowing runes to stop the tetri
 <Tab specialization="Berserker">
 <Video title="Tetris skip" youtube="29qQ2xU1YHk"/>
 </Tab>
+<Tab specialization="Weaver">
+<Video title="Tetris skip" youtube="Fy1rYx73keI"/>
+</Tab>
 </Tabs>
 </GridItem>
 
@@ -102,6 +105,17 @@ After merging the second orb with the Vibrant Crystal, you get a Special Action 
   
 Here you have to use the <Effect name="lightofdeldrimor"/> to reveal the hidden tiles of the maze. **<Specialization name="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <Effect name="lightofdeldrimor"/>.** Move to the right and the first orb of light is revealed for you. From there you proceed on to the next orb of light to your left or the bottom left on the minimap. After revealing all four orbs the maze's tiles reveal themselves and you can move on to the "elevator".
 </GridItem>
+<GridItem sm="6">
+</GridItem>
+<GridItem sm="6">
+<Tabs>
+<Tab specialization="Elementalist">
+Use <Skill name="Lightning Flash"/>, <Skill name="Ride the Lightning"/> or <Skill id="5516"/> to move faster to to the maze and thus activate it faster.
+</Tab>
+</Tabs>
+</GridItem>
+
+
 <GridItem sm="12">
 <Video title="Maze skip for Soulbeast, Warrior, Guardian, Elementalist and Revenant" youtube="coAfQMSot7s"/>
 </GridItem> 
@@ -110,14 +124,17 @@ Here you have to use the <Effect name="lightofdeldrimor"/> to reveal the hidden 
 ### Elevator (Sinking platform)
 </GridItem> 
 
-<GridItem sm="8"> 
+<GridItem sm="7"> 
 After standing on the rune in the middle of the platform it proceeds to go downward. If you didn't step in in time, no worries, there is a cyan glowing rune that teleports you down. As the platform goes down, it stops in the middle and mobs spawn. It's two waves of mobs with first being Veteran Imps only, then an Elite Minotaur and Veteran Imps. **Use the <Effect name="lightofdeldrimor"/> to make them vulnerable** and after killing them the platform moves again.You can jump down but it can happen that you die if you jump from too high. It is more safe to wait until it is fully down.
 </GridItem>
 
-<GridItem sm="4">
+<GridItem sm="5">
 <Tabs>
 <Tab specialization="Guardian">
 Use <Skill name="Binding Blade"/> (Greatsword 5) to group the mobs.
+</Tab>
+<Tab specialization="Elementalist">
+Use <Skill name="Lightning Flash"/> and <Skill name="Ride the Lightning"/> to get to to the elevator quicker and thus activate it faster.
 </Tab>
 </Tabs>
 </GridItem>
@@ -151,5 +168,3 @@ After the 20% invulnerability he doesn't teleport away and you can nuke him. Aft
 <Image src="./images/the_voice.jpg" caption="The Voice"/>
 </GridItem>
 </Grid>
-
-
