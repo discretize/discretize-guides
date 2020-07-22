@@ -1,6 +1,6 @@
 ﻿---
 title: 'Power Dragonhunter'
-date: '2020-07-18'
+date: '2020-07-22'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Guardian'
@@ -11,26 +11,27 @@ skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blind', 'Crippled']
 code: '[&DQEqOhAvGzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+author: 'SpatiumPrinceps.8927'
 ---
 <Tabs>
 
 <Tab title="Build">
 
-The <Specialization name="dragonhunter" text="Power Dragonhunter"/> was moved to the [offmeta](/builds/) due to the fact that you can not replace a <Specialization name="weaver"/> or <Specialization name="Soulbeast"/>. <Specialization title="Power Dragonhunter" name="dragonhunter"/> is a meta only if replacing <Specialization name="firebrand" /> and being the main source of <Boon name="quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters. 
+The <Specialization name="dragonhunter" text="Power Dragonhunter"/> was moved to the [offmeta](/builds/) due to the fact that you can not replace a <Specialization name="weaver"/> or <Specialization name="Soulbeast"/>. <Specialization title="Power Dragonhunter" name="dragonhunter"/> is a meta build only if it replaces <Specialization name="firebrand" /> and being the main source of <Boon name="quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups. 
 
-<Specialization name="dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing good defiance bar damage and <Condition name="vulnerability"/>.
+<Specialization name="dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="vulnerability"/>.
 
-The build also offers strong on-demand party support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/>, <Skill name="standyourground"/> and so on.
+The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/>, <Skill name="standyourground"/>.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 <Tabs>
-<Tab title="150 Agony Resistance">
+<Tab title="162 Agony Resistance">
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar"/>
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -45,7 +46,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemId="49390" backItemAffix="Assassin" accessory1Id="39233" accessory1Affix="Assassin" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
@@ -155,11 +156,11 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 * Always start on scepter/sword
 * Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC. 
 * Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
-* Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits.
-* Don't interrupt your GS auto-attack chain
-* In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.)
-* Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast
-* Don't waste your key skills on meaningless adds
+* Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at __Siax__ and __Ensolyss__.
+* Don't interrupt your GS auto-attack chain.
+* In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
+* Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast.
+* Don't waste your key skills on meaningless adds.
 * It's up to you whether you decide to go Scepter or Sword. Sword tends to outperform Scepter, especially in longer encounters.
 
 </Card>
@@ -280,7 +281,7 @@ You can kill the first two adds with a greatsword. You can use traps on the 2nd 
 </Tab>
 <Tab title="Artsariiv">
 **General**
-- If your team does not have a <Specialization name="soulbeast"/>, you can take <Skill name="Wall of reflection"/> for omega reflects. 
+- If your team does not have a <Specialization name="soulbeast"/>, you can take <Skill name="Wall of reflection"/> for reflects. Please don't steal the reflect from a <Specialization name="soulbeast"/>!
 - Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the <Effect name="knockback"/> attacks.
 - Save a <Skill name="shieldofcourage"/> or <Skill name="shieldofwrath"/> for the expanding AoE so you can deal continues DPS during the mid burn.
 
@@ -325,10 +326,11 @@ You can kill the first two adds with a greatsword. You can use traps on the 2nd 
 - Good teams: start on scepter/sword, so that you are on scepter during the bloom phase.
 - Bad teams: start on greatsword and do SC rotation
 - Your goal is to start on scepter/sword at every 10% burn phase, that is why you need to consider weapon swaps carefully. 
-- Pull adds in with GS5. 
+- Use <Skill name="binding blade"/> to pull adds. Do not abuse it to farm DPS! Not pulling the adds might kill you during the bloom phase and cost more DPS!
 - Cast <Skill name="Bane Signet"/> early, so you get more DPS time. 
-- The fastest way to do the blooms is to walk into the lightning and auto-attack with the scepter. Use <Skill name="Wings of Resolve"/> to regain health. 
-- Use <Skill name="binding blade"/> inside Arkks hitbox when adds are present.
+- There are two ways to do the blooms fast: 
+    1. Walk into the lightning and auto-attack with the scepter. Use <Skill name="Wings of Resolve"/> to jump back to the middle.
+    2. Walk into the lightning and auto-attack with the greatsword. After the bloom bounces towards the pillar use <Skill name="Leap of faith"/> on the bloom to finish it. Immediately use <Effect name="hypernovalaunch"/> to jump back into the middle.
 
 </Tab>
 </Tabs>

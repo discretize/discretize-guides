@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-07-18'
+date: '2020-07-22'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -16,9 +16,9 @@ code: '[&DQQIGiA7Nyp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 <Tabs>
 <Tab title="Build">
 
-<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that in addition provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill, that comes in handy on several encounters (e.g. Artsariiv).
+<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
 
-For prestacking and encounters where the <Specialization name="Firebrand"/> plays <Specialization name="Dragonhunter"/> or <Specialization name="guardian"/>, it is beneficial to bring <Skill name="moa stance"/> to extend the uptime of boons, especially <Boon name="quickness"/>.
+For prestacking and encounters where the <Specialization name="Firebrand"/> plays <Specialization name="Dragonhunter"/> or <Specialization name="guardian"/>, it is beneficial to bring <Skill name="moa stance"/> to is it hot iextend the uptime of boons, especially <Boon name="quickness"/>.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -622,7 +622,7 @@ Spirit Management:
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-- Pet: <Skill id="44617" disableText/> Red Moa.
+- Pet: <Skill id="44617" disableText/> Red Moa (more DPS) or <Skill id="43636" disableText/> Rock Gazelle (better movement).
 - Traits: <Trait id="2128"/>. 
 - Food: <Item id="91805"/>.
 - Utility: <Item id="77569"/>.
@@ -673,7 +673,8 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
 - <Skill name="Worldlyimpact"/>.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/> to reflect again.
-- <Skill id="43548"/> if she isn't phased yet.
+- If she isn't dead yet, use <Skill id="45743"/>, then <Skill id="41524"/> and sword autoattack.
+
 
 </Tab>
 <Tab title="Middle">
@@ -682,7 +683,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
+- Pet: <Skill id="44617" disableText/> Red Moa.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/>.
 - Utility: <Item id="77569"/>.
@@ -738,7 +739,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - Swap weapons.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
-- If she isn't dead yet, use <Skill id="45743"/>, then <Skill id="41524"/> and sword autoattack.
+- <Skill id="43548"/> if she isn't phased yet.
 
 </Tab>
 </Tabs>
