@@ -148,9 +148,13 @@ If both of these requirements then you can swap Marksmanship for Skirmishing wit
 | <Skill name="Frost Trap" size="big" disableText/> | A replacement for <Skill name="Signet of the Wild"/> on short or phased fights. For more info on when to run this read the guide tab! |
 | <Skill name="Moa Stance" size="big" disableText/> | Allows all boons that are applied during its uptime to last longer, great for prestacking. |
 | <Skill name="Quickening Zephyr" size="big" disableText/> | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>. |
-| <Skill name="Dolyak Stance" size="big" disableText/> | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles) |
+| <Skill name="Dolyak Stance" size="big" disableText/> | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles). |
+| <Skill name="sharpeningstone" size="big" disableText/> | Can be used before mistlock precast for and swapped with a usual utility for some extra opener DPS. |
 </Card>
 <Card title="Defiance Bar Damage">
+</Card>
+<Card title="Defiance Bar Damage">
+
 | | |
 | -- | -- |
 | <Skill id="45743" size="big" disableText/> | 200 damage (F2 in <Skill id="42944"/>) |
@@ -174,12 +178,14 @@ Also as <Specialization name="soulbeast"/> you have quite a few ticking damage o
 In PuGs, however, it is quite hard to predict when the boss will be CCed as well as phases can last a lot longer than expected, because of this the golem rotation is listed to the right so that you can resort back to it if you end up in a longer phase.
 
 **Weapon Skills:**
-- **You should always run main-hand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
+- **You should mostly run main-hand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
+- You may take main-hand axe (to fill with <Skill name="wintersbite"/>) for certain encounters, such as midburn Artsariiv, where you almost never autoattack with your dual wielding weapons set.
 - As a <Specialization name="Soulbeast"/> you want to always run offhand axe as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
 
 For your second weapon set you either run greatsword or longbow:
-- Greatsword is the default pick for the <Specialization name="Soulbeast"/> as it offers great sustained DPS. You need to be smart about utilizing the <Effect name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios.
-- Longbow has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
+ 
+- Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
+- Greatsword on the other side offers great sustained DPS. You need to be smart about utilizing the <Effect name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios.
 - In order to proc <Item id="84505"/> you merely need to use any CC skill (such as <Skill id="45743"/> or <Skill id="12511"/>) whilst the enemy is using an ability.
 
 **Pets:**
@@ -408,8 +414,9 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 
 - <Skill name="sicem"/> and <Skill name="Frost trap"/> once Siax is vulnerable.
 - Swap weapons.
-- <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
-- Use <Skill name="Worldly impact"/>, <Skill id="45743"/> and <Skill id="41524"/> if Siax still isn't dead.
+- Use <Skill name="Worldly impact"/> to make sure you have quickness, <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
+- <Skill id="45743"/> and <Skill id="41524"/> if Siax still isn't dead.
+
 
 </Tab>
 <Tab title="Ensolyss">
@@ -565,7 +572,7 @@ Your third utility slot is different for each <Specialization name="Soulbeast"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Traits: <Trait id="2128"/>. 
 - Food: <Item id="91805"/>.
-- Utility: <Item id="77569"/>.
+- Utility: <Item id="77569"/> or <Item id="73191"/>
 
 </Card>
 </GridItem>
@@ -625,7 +632,8 @@ Spirit Management:
 - Pet: <Skill id="44617" disableText/> Red Moa (more DPS) or <Skill id="43636" disableText/> Rock Gazelle (better movement).
 - Traits: <Trait id="2128"/>. 
 - Food: <Item id="91805"/>.
-- Utility: <Item id="77569"/>.
+- Utility: <Item id="77569"/> or <Item id="73191"/>
+
 
 </Card>
 </GridItem>
@@ -646,10 +654,10 @@ Make sure to use [consumables](/guides/consumables) to CC the adds!
 
 - Summon <Skill name="Frost Spirit"/> in middle before someone starts the encounter.
 - As soon as someone catches an orb, use <Skill id="5531"/> and <Skill name="Barrage"/>.
-- Use <Skill name="onewolfpack"/> then <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
-- Use <Skill name="Rapid fire"/> then <Effect name="hypernovalaunch"/> to the corner.
+- Use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
+- Use <Skill name="Rapid fire"/>, turn around not to get feared, then <Effect name="hypernovalaunch"/> to the corner.
 - Use <Skill name="Cold Snap"/> to call your spirit to the corner.
-- When she reaches the side use <Skill name="Sicem"/> and <Skill name="Worldlyimpact"/>.
+- When she reaches the side use <Skill name="Sicem"/>, <Skill name="onewolfpack"/> and <Skill name="Worldlyimpact"/>.
 - <Skill name="pathofscars"/> to help CC.
 - <Skill name="Whirlingdefense"/> to reflect for omega DPS.
 - <Skill id="43548"/> if she isn't phased yet.
@@ -673,25 +681,30 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
 - <Skill name="Worldlyimpact"/>.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/> to reflect again.
-- If she isn't dead yet, use <Skill id="45743"/>, then <Skill id="41524"/> and sword autoattack.
+- If she isn't dead yet, use <Skill id="43548"/> and sword autoattack.
 
 
 </Tab>
 <Tab title="Middle">
 <Divider text="Mid artsariiv"/>
+- Middle strategy assumes you end phases 1 and 3 before Artsariiv reaches the corner, or shortly after.
+
 <Grid>
 <GridItem sm="6">
+
+
+
 <Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717"/>
 - Pet: <Skill id="44617" disableText/> Red Moa.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/>.
-- Utility: <Item id="77569"/>.
+- Utility: <Item id="77569"/> or <Item id="73191"/>
 
 </Card>
 </GridItem>
 <GridItem sm="6">
-<Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
+<Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
 </GridItem>
 </Grid>
 <Divider text="HOW TO PLAY"/>
@@ -700,31 +713,30 @@ Make sure to use [consumables](/guides/consumables) to CC the adds!
 </Message>
 **Precast**
 
+- Precast <Skill id="12492"/> between two Artsariiv clones in the northwest from her and go back to mistlock.
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
 - Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
 
 **Opening**
 
-- Summon <Skill name="Frostspirit"/> when you go through the portal.
-- As soon as someone catches an orb, use <Skill id="5531"/> and <Skill name="Barrage"/>.
-- Use <Skill name="onewolfpack"/>, <Skill name="sicem"/> then <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
-- Use <Skill name="Rapid fire"/> then walk behind her in mid.
-- Swap weapons and use <Skill name="pathofscars"/> as you walk through the boss to stand behind her.
-- <Skill name="Whirlingdefense"/> then <Skill name="Worldlyimpact"/>, followed by <Skill id="41524"/> and <Skill id="45743"/> as she jumps to the side.
-- If she reaches the corner, use <Effect name="hypernovalaunch"/> to avoid the slam wave and sword auto-attack until she phases.
+- Summon <Skill name="Frostspirit"/> when you're done go through the portal.
+- As soon as someone catches an orb, use <Skill id="5531"/> and <Skill name="Barrage"/>. Cast <Skill name="sicem"/> while channeling <Skill name="Barrage"/>.
+- Use <Skill name="onewolfpack"/> (make sure to finish <Skill name="Barrage"/> cast, because if you cancel it even by a little, it does no damage!), then swap to axes and use <Skill name="wintersbite"/>, start walking behind the boss, cast <Skill name="pathofscars"/> while walking and <Skill name="Whirlingdefense"/>.
+- Finish <Skill name="Whirlingdefense"/> cast, then <Skill name="Worldlyimpact"/>, start following the boss to avoid getting knocked down by an orb, <Skill name="frenziedattack"/> and <Skill name="	rapidfire"/> as she jumps to the side.
+- If she reaches the corner, dodge or use <Effect name="hypernovalaunch"/> to avoid the slam wave and auto-attack until she phases.
 
 **Add CC Phase**
 
 Use [consumables](/guides/consumables) to CC the adds.
-- Stay on sword/axe for the next phase.
+- Stay on longbow for the next phase.
 
 **66%**
 
-- When Artsariiv becomes vulnerable, sword autoattack and use <Skill id="41524"/>, <Skill id="45743"/> and <Skill name="pathofscars"/> when they come off of cd.
-- Dodge her slam attack and use <Skill name="sicem"/> in combination with <Skill name="Whirlingdefense"/>.
-- Swap to longbow as she teleports to fire her laser and use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>, then <Skill name="Rapid fire"/>. **Make sure to look away when she actually fires the laser so you don't get <Condition name="Fear"/>ed.**
+- Precast <Skill name="Barrage"/> before Artsariiv becomes vulnerable, <Skill name="sicem"/> as soon as it's off cooldown, <Skill id="12492"/>,  <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>, then <Skill name="Rapid fire"/>. Cancel <Skill name="Rapid fire"/> around mid cast and swap to axes.
+- <Skill name="wintersbite"/>, <Skill name="pathofscars"/>, dodge the slam and <Skill name="Whirlingdefense"/>.
+- Autoattack with axes before Artsariiv reaches corner. **Make sure to look away when she actually fires the laser so you don't get <Condition name="Fear"/>ed.**
 - Wait in the middle for your team to stack <Boon name="Might"/>, then use <Effect name="hypernovalaunch"/> to the corner to avoid the slam wave.
-- Use <Skill id="45743"/>, <Skill id="41524"/> and <Skill name="Worldlyimpact"/>, followed by <Skill name="Rapid fire"/> until she phases.
+- Use <Skill name="frenziedattack"/>, and <Skill name="Worldlyimpact"/>, followed by <Skill name="Point Blank Shot"/> and <Skill name="Rapid fire"/> until she phases.
 
 **Add CC Phase**
 
@@ -735,11 +747,11 @@ Use [consumables](/guides/consumables) to CC the adds.
 **33%**
 
 - Precast <Skill id="5531"/> and <Skill name="Barrage"/> before Artsariiv becomes vulnerable.
-- Use <Skill name="onewolfpack"/> once she becomes vulnerable, then <Skill name="sicem"/> and <Skill name="Rapid fire"/>.
+- Use <Skill name="onewolfpack"/> and <Skill name="sicem"/> once she becomes vulnerable
 - Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - Swap weapons.
-- <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
-- <Skill id="43548"/> if she isn't phased yet.
+- <Skill name="wintersbite"/>, <Skill name="pathofscars"/> and <Skill name="Whirlingdefense"/>.
+- <Skill id="43548"/> and <Skill name="Worldlyimpact"/> if she isn't phased yet. If Artsariiv moves to corner finish her with autoattacks.
 
 </Tab>
 </Tabs>
@@ -752,7 +764,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 <UnembossedSkills healId="12483" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Traits: <Trait id="2128"/>.
-- Food: <Item id="91805"/>.
+- Food: <Item id="91805"/> or <Item id="43360"/> if you're able to damage adds to get the power bonus.
 - Utility: <Item id="50082"/>.
 
 </Card>
@@ -775,8 +787,9 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="Sicem"/> as soon as Arkk is targetable.
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
 - <Skill name="Rapidfire"/> then walk through Arkk so you avoid the <Condition name="Fear"/>.
-- Swap weapons.
+- Swap weapons and <Skill name="Worldlyimpact"/>.
 - <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
+- <Skill name="frenziedattack"/> and autoattack with sword if phase is not over.
  
 **1st Orb Phase**
 
@@ -787,13 +800,13 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill name="Pathofscars"/>. 
 - Swap weapons.
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-- <Skill name="Rapidfire"/> -> <Skill name="Worldlyimpact"/> -> <Skill id="45743"/> -> <Skill id="41524"/> until Arkk is phased.
+- <Skill name="Rapidfire"/>, <Skill name="frenziedattack"/> and <Skill name="Worldlyimpact"/>  until Arkk is phased.
 
 **Archdiviner Phase**
 
 The <Specialization name="weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
-- You can use <Skill name="Fieryrush"/> (or any of <Skill name="Worldlyimpact"/>, <Skill id="45743"/> and <Skill id="41524"/> if they are off cd) to damage the Archdiviner. 
-- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing.
+- You can use <Skill name="Fieryrush"/> or <Skill name="Worldlyimpact"/> if it's off cooldown  to damage the Archdiviner. 
+- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing. Dodge backwards through the boss after using it as there will be a laser beam which fears.
 - When the Archdiviner dies, precast <Skill id="5531"/> -> <Skill name="Barrage"/> -> <Skill name="Frosttrap"/>.
 
 **70-50%**
@@ -802,9 +815,9 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
 - <Skill name="Rapidfire"/>.
 - Swap weapons.
-- <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
-- Continue with filler skills like <Skill name="Worldlyimpact"/>, <Skill id="45743"/> and <Skill id="41524"/> until Arkk is phased.
-
+- Use <Skill name="frenziedattack"/> while walking out of pizza attack AoE then <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
+- Continue with <Skill name="Worldlyimpact"/> and sword autoattacks to finish the phase.
+- 
 **2nd Orb Phase**
 
 - Swap to longbow and auto-attack to push the orb.
@@ -812,21 +825,21 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 **50-40%**
 
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-- <Skill name="Rapidfire"/> (followed by any of <Skill name="Worldlyimpact"/>, <Skill id="45743"/> and <Skill id="41524"/> if they are off cd) until Arkk is phased.
+- <Skill name="Rapidfire"/>,  <Skill name="Worldlyimpact"/>, <Skill name="frenziedattack"/> until Arkk is phased.
 - Precast <Skill name="Barrage"/> for the Gladiator.
 
 **Gladiator Phase**
 
 - <Skill name="Frosttrap"/>.
 - Pull one add with <Skill name="Path of scars"/>.
-- Use <Skill name="Sicem"/> and <Skill name="whirlingdefense"/> to kill him fast.
+- Use <Skill name="Sicem"/> (on the gladiator!) and <Skill name="whirlingdefense"/> to kill him fast.
 
 **40-30%**
 
 - Auto-attack until <Skill name="Path of scars"/> is off cd, then use it to pull a second add.
 - Swap weapons.
 - <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-- <Skill name="Rapidfire"/> (followed by any of <Skill name="Worldlyimpact"/>, <Skill id="45743"/> and <Skill id="41524"/> if they are off cd) until Arkk is phased.
+- <Skill name="Rapidfire"/> followed by <Skill name="Worldlyimpact"/> and <Skill name="frenziedattack"/> if it's off cooldown until Arkk is phased.
 - You want to swap weapons late so that you don't get stuck longbow auto-attacking.
 
 **3rd Orb Phase**
@@ -836,11 +849,12 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 
 **30-0%**
 
-- <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
-- <Skill name="Frost trap"/> -> <Skill name="onewolfpack"/> -> <Skill name="Sicem"/> -> <Skill name="Rapidfire"/>.
+- <Skill name="Sicem"/> as soon as the boss is vulnerable -> <Skill name="onewolfpack"/>.
+- <Skill name="Frost trap"/> and <Skill name="Pointblankshot"/> to proc <Item id="84505"/>.
+- <Skill name="Rapidfire"/>.
 - Swap weapons.
 - <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
-- Continue with filler skills like <Skill name="Worldlyimpact"/>, <Skill id="45743"/> and <Skill id="41524"/> until Arkk is dead.
+- Continue with filler skills like <Skill name="Worldlyimpact"/>, <Skill name="frenziedattack"/> until Arkk is dead.
 - 
 **Additional Notes**
 
@@ -850,6 +864,7 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
   - You can also pull the adds from the Archdiviner and Gladiator phase since your <Specialization name="Firebrand"/> can only pull two at a time.
   - Pulling the adds is also great since they can hurt your teams <Item id="24836"/> uptime.
   - If you are good at tagging multiple targets then you can even run <Item id="43360"/>.
+  - If you drop on quickness for some reason, make sure to use <Skill name="Worldlyimpact"/> before bursting to get yourself some.
 
 </Tab>
 </Tabs>
