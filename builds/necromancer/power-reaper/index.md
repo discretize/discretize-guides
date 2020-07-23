@@ -1,6 +1,6 @@
 ---
 title: 'Power Reaper'
-date: '2020-07-22'
+date: '2020-07-23'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Necromancer'
