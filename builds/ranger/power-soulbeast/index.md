@@ -1,12 +1,12 @@
 ---
 title: 'Soulbeast'
-date: '2020-07-22'
+date: '2020-07-23'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
-  { small: { dps: 36770, by: 'LEFT [dP]', youtube: '7FAAgTxUuc8' } }
+  { small: { dps: 37371, by: 'ShèènaFujibayashi [CnD]', youtube: 'MCs3a6T3sUQ' } }
 skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
@@ -18,7 +18,7 @@ code: '[&DQQIGiA7Nyp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 
 <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
 
-For prestacking and encounters where the <Specialization name="Firebrand"/> plays <Specialization name="Dragonhunter"/> or <Specialization name="guardian"/>, it is beneficial to bring <Skill name="moa stance"/> to is it hot iextend the uptime of boons, especially <Boon name="quickness"/>.
+For prestacking and encounters where the <Specialization name="Firebrand"/> plays <Specialization name="Dragonhunter"/> or <Specialization name="guardian"/>, it is beneficial to bring <Skill name="moa stance"/> to extend the uptime of boons, especially <Boon name="quickness"/>. The Guide and CM tabs provide more information.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -99,7 +99,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 </Grid>
 <Message>
-It can be easier to just use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full zerk on both.
+It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full zerk on both.
 </Message>
 </Tab>
 </Tabs>
@@ -122,7 +122,7 @@ It can be easier to just use a ring with 3 <Item id="49438"/> in order to reach 
 </GridItem>
 </Grid>
 
-<Divider text="Variations"/>
+<Divider text="Further information"/>
 <Grid>
 <GridItem sm="7">
 <Card title="Situational Traits">
@@ -151,8 +151,7 @@ If both of these requirements then you can swap Marksmanship for Skirmishing wit
 | <Skill name="Dolyak Stance" size="big" disableText/> | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles). |
 | <Skill name="sharpeningstone" size="big" disableText/> | Can be used before mistlock precast for and swapped with a usual utility for some extra opener DPS. |
 </Card>
-<Card title="Defiance Bar Damage">
-</Card>
+
 <Card title="Defiance Bar Damage">
 
 | | |
@@ -350,8 +349,7 @@ In faster kills you want to run <Item id="82876"/> instead of <Item id="24615"/>
 - Use your DPS skills as soon as they come off cd and don't cry from having to auto-attack on longbow.
 
 **Additional Notes**
-- If you don't trust your group to deal DPS in phase 2 then you can take <Trait id="2128"/> and use <Skill name="OneWolfPack"/> when you return to MAMA in phase 2. 
-  - This is because in phase 1, 3 and 4 you have the damage modifier from <Effect name="Exposed"/> since MAMAs breakbar is broken in these phases but in phase 2 you don't have as many damage modifiers so <Skill name="OneWolfPack"/> can help the team phase MAMA faster here.
+- If you don't trust your group to deal DPS in phase 2 then you can take <Trait id="2128"/> and use <Skill name="OneWolfPack"/> when you return to MAMA in phase 2. The reason for this is because in phase 1, 3 and 4 you have the damage modifier from <Effect name="Exposed"/> since MAMAs breakbar is broken in these phases but in phase 2 you don't have as many damage modifiers so <Skill name="OneWolfPack"/> can help the team phase MAMA faster here.
 
 </Tab>
 <Tab title="Siax">
@@ -588,7 +586,6 @@ You can swap <Item id="24868"/> for <Item id="24661"/> in your longbow if you wa
 Spirit Management:
 - This depends on how your <Specialization name ="Renegade"/> plays, if they precast <Skill id="45686"/> before Skorvald spawns then you can summon your <Skill name="Frostspirit"/> down on the boss platform after the precast and the Kalla heal skill will sustain it until the second phase. In this scenario you don't teleport it at all you just leave it behind.
 - If they don't do this then you will want to summon the spirit next to the Boss Challenge Mote and let it tick down in health for a couple of ticks and then pull it firstly down to Skorvald after the precast and then to the first island using <Skill name="Cold Snap"/> in order to kill it so it is back up for island 4 to be resummoned. This is the method described in the guide below.
-
 </Message>
 
 **Precast**
@@ -762,7 +759,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <UnembossedSkills healId="12483" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
+- Pet: <Skill id="44617" disableText/> Red Moa.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/> or <Item id="43360"/> if you're able to damage adds to get the power bonus.
 - Utility: <Item id="50082"/>.
@@ -817,7 +814,7 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 - Swap weapons.
 - Use <Skill name="frenziedattack"/> while walking out of pizza attack AoE then <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
 - Continue with <Skill name="Worldlyimpact"/> and sword autoattacks to finish the phase.
-- 
+
 **2nd Orb Phase**
 
 - Swap to longbow and auto-attack to push the orb.
@@ -855,7 +852,7 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 - Swap weapons.
 - <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
 - Continue with filler skills like <Skill name="Worldlyimpact"/>, <Skill name="frenziedattack"/> until Arkk is dead.
-- 
+
 **Additional Notes**
 
 - Resummon your <Skill name="Frost spirit"/> whenever you have downtime when you can't attack (i.e. whilst you are waiting for Arkk, the Archdiviner or Gladiator to spawn on the platform or during an orb phase if you have the time).
