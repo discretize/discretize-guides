@@ -1,6 +1,6 @@
 ---
 title: 'Shattered Observatory'
-date: '2020-07-22'
+date: '2020-07-23'
 image: './images/header.jpg'
 group: 'Challenge Mode'
 api: 3458

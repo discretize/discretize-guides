@@ -1,11 +1,11 @@
 ---
 title: 'Condi Firebrand'
-date: '2020-07-22'
+date: '2020-07-23'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Guardian'
 specialization: 'Firebrand'
-benchmark: { small: { dps: 34700, by: 'TJ [SC]', youtube: 'lQbaP5Gr7dU' } }
+benchmark: { small: { dps: 36732, by: 'TJ [SC]', youtube: 'U1yYDskt3Cw' } }
 skills: [9251, 9153, 9093]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
@@ -22,7 +22,7 @@ One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> i
 
 <Divider text="Equipment"/>
 
-Note that this build variant only gains boon duration from the <Item id="79722"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For shorter fights this is not an issue, but for slower groups it can be benefical to bring extra boon duration: **swap <Item id="24560"/>  in your Mainhands for <Item id="72339"/>**.
+Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="72339"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For shorter fights you can drop  <Item id="72339"/> in favor of <Item id="24560"/>.
 
 <Grid>
 <GridItem sm="4">
@@ -30,7 +30,7 @@ Note that this build variant only gains boon duration from the <Item id="79722"/
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="Earth" />
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Concentration" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="Concentration" />
 
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM.
