@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
-  { small: { dps: 36770, by: 'LEFT [dP]', youtube: '7FAAgTxUuc8' } }
+  { small: { dps: 37371, by: 'ShèènaFujibayashi [CnD]', youtube: 'MCs3a6T3sUQ' } }
 skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']

@@ -5,7 +5,7 @@ rating: 'Offmeta'
 role: 'Support'
 profession: 'Guardian'
 specialization: 'Firebrand'
-benchmark: { small: { dps: 34700, by: 'TJ [SC]', youtube: 'lQbaP5Gr7dU' } }
+benchmark: { small: { dps: 36732, by: 'TJ [SC]', youtube: 'U1yYDskt3Cw' } }
 skills: [9251, 9153, 9093]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
