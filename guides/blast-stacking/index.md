@@ -1,6 +1,6 @@
 ﻿---
 title: 'Blast Stacking'
-date: '2020-07-22'
+date: '2020-07-23'
 image: './images/stacking.jpg'
 description: 'Use blasts and combo fields to stack large amounts of Might, Fury, and Stealth on your party.'
 ---

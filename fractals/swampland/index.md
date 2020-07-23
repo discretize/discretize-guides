@@ -1,6 +1,6 @@
 ---
 title: 'Swampland'
-date: '2020-07-22'
+date: '2020-07-23'
 image: './images/bloomhunger_spirit_onslaught.jpg'
 group: 'T4'
 api: 2892
