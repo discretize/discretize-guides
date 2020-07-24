@@ -97,22 +97,29 @@ After merging the second orb with the Vibrant Crystal, you get a Special Action 
 </GridItem>
 
 <GridItem sm="6">
+<Tabs>
+<Tab specialization="Elementalist">
+Use <Skill name="Lightning Flash"/>, <Skill name="Ride the Lightning"/> or <Skill id="5516"/> to move faster to to the maze and thus activate it faster.
+</Tab>
+</Tabs>
+</GridItem>
+
+<GridItem sm="6">
+<Tabs>
+<Tab specialization="Renegade">
+**<Specialization name="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <Effect name="lightofdeldrimor"/>.** Especially helpful at the Maze part.
+</Tab>
+</Tabs>
+</GridItem>
+
+<GridItem sm="6">
 <Image src="./images/disappearing_tiles.jpg" caption="The Maze"/>
 </GridItem>
 
 <GridItem sm="6">  
 ### The Maze
   
-Here you have to use the <Effect name="lightofdeldrimor"/> to reveal the hidden tiles of the maze. **<Specialization name="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <Effect name="lightofdeldrimor"/>.** Move to the right and the first orb of light is revealed for you. From there you proceed on to the next orb of light to your left or the bottom left on the minimap. After revealing all four orbs the maze's tiles reveal themselves and you can move on to the "elevator".
-</GridItem>
-<GridItem sm="6">
-</GridItem>
-<GridItem sm="6">
-<Tabs>
-<Tab specialization="Elementalist">
-Use <Skill name="Lightning Flash"/>, <Skill name="Ride the Lightning"/> or <Skill id="5516"/> to move faster to to the maze and thus activate it faster.
-</Tab>
-</Tabs>
+Here you have to use the <Effect name="lightofdeldrimor"/> to reveal the hidden tiles of the maze.  Move to the right and the first orb of light is revealed for you. From there you proceed on to the next orb of light to your left or the bottom left on the minimap. After revealing all four orbs the maze's tiles reveal themselves and you can move on to the "elevator".
 </GridItem>
 
 
