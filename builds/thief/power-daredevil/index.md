@@ -96,7 +96,6 @@ Heal skills:
 3rd utility skill:
 | | |
 | -- | -- |
-| <Skill id="13037" size="big" disableText/> | Best DPS for longer fights.|
 | <Skill id="13057" size="big" disableText/> | Good for short phases for additional burst as well as being a CC skill. |
 | <Skill id="13062" size="big" disableText/> | With this skill you are crit capped without precision from banner and <Trait id="1268"/>, even with 162 AR. |
 Elite skills:
