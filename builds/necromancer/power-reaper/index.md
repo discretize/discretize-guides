@@ -1,6 +1,6 @@
 ---
 title: 'Power Reaper'
-date: '2020-07-23'
+date: '2020-07-25'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Necromancer'
@@ -67,8 +67,8 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 | <Skill name="You are all Weaklings" size="big" disableText/> | A defensive stun break utility. |
 | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles. |
 | <Skill name="Nothing Can Save You" size="big" disableText/> | Makes your attacks unblockable, great to break the Ooze in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor). It is great to have at Volcanic Boss in Volcanic fractal and Champion Dredge in Underground Facility too. |
-| <Skill name="Rise!" size="big" disableText/> | Swap with <Skill name="Well of Corruption"/> if you need a meatshield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals). It is your hardest hitting shout, has no cast time so you can go in shroud faster. |
-| <Skill name="Summon Shadow Fiend" size="big" disableText/> | Possible alternative instead of <Skill name="Well of Corruption"/> for longer bosses like Artsariiv, Arkk in the [Shattered Observatory Fractal](/fractals/shattered-observatory) and Ensolyss in the [Nightmare Fractal](/fractals/nightmare). |
+| <Skill name="Rise!" size="big" disableText/> | Swap with <Skill name="Well of Darkness"/> if you need a meatshield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals). It is your hardest hitting shout, has no cast time so you can go in shroud faster. |
+| <Skill name="Summon Shadow Fiend" size="big" disableText/> | Possible alternative instead of <Skill name="Well of Darkness"/> for longer bosses like Artsariiv, Arkk in the [Shattered Observatory Fractal](/fractals/shattered-observatory) and Ensolyss in the [Nightmare Fractal](/fractals/nightmare). |
 </Card>
 
 
