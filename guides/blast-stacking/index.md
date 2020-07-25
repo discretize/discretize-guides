@@ -1,6 +1,6 @@
 ﻿---
 title: 'Blast Stacking'
-date: '2020-07-23'
+date: '2020-07-25'
 image: './images/stacking.jpg'
 description: 'Use blasts and combo fields to stack large amounts of Might, Fury, and Stealth on your party.'
 ---
@@ -13,8 +13,6 @@ description: 'Use blasts and combo fields to stack large amounts of Might, Fury,
 
 Blast finishers can be used to stack group buffs on certain Combo Fields. The most common applications are <Boon name="might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
-The <Specialization name="elementalist"/> trait <Trait id="1510"/> also makes them grant <Boon name="fury"/> with each blast finisher. Due to this, skills like <Skill id="14403"/> (<Specialization name="Warrior"/> utility skill) or <Skill id="31451"/> (<Specialization name="Ranger"/>'s Tiger pet) are usually redundant in fractals.
-
 Below is a list of frequently used blast finishers among all professions. Note that it is often required to swap to different weapons, make sure to swap back before you enter combat.
 
 ---
@@ -24,7 +22,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
 - <Specialization name="firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5) and <Skill name="Mighty Blow"/> (Hammer 2)
 - <Specialization name="berserker"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
 - <Specialization name="weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
-- <Specialization name="soulbeast"/>: Take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer, use <Skill id="12621"/> (Warhorn 5) ***then swap back trait***. 
+- <Specialization name="soulbeast"/>: Take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer, use <Skill id="12621"/> (Warhorn 5)
 
 
 

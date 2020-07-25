@@ -1,6 +1,6 @@
 ---
 title: 'Meta explained'
-date: '2020-07-23'
+date: '2020-07-25'
 image: './images/preview.png'
 description: 'Everything around Meta and the current Meta composition'
 ---
@@ -53,6 +53,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 
 <Tab specialization="firebrand">
 * Provides permanent <Boon name="Quickness"/>, on demand <Boon name="Aegis"/> and <Boon name="Resistance"/>.
+* Generates a fair share of <Boon name="Fury"/> by <Skill name="Feel my wrath"/> and the sword symbol <Skill name="Symbol of Blades"/>.
 * Contributes to CC with <Skill name="banesignet"/>, which is also a **unique damage buff** that increases the entire group's power by 216. 
 * The damage depends on the encounter. In 99CM <Specialization name="Guardian"/> or <Specialization name="dragonhunter"/> can be played resulting in very high DPS; in 100CM as <Specialization name="Firebrand"/> 1/2 up to 3/4 of a DPS player. 
 * Provides instant <Condition name="vulnerability"/> application with <Skill name="swordofjustice"/>, which helps immensely to kill adds quickly at Mama, Siax and Skorvald.
@@ -66,6 +67,8 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Contributes high amount of CC with <Skill name="Headbutt"/> and <Skill name="Tremor"/>.
 * Provides unique buffs with <Skill name="bannerofdiscipline"/> and <Skill name="bannerofstrength"/>, which increases the entire group's power, precision, and ferocity by 100. 
 * Blasts fire fields to keep up <Boon name="might"/> during a fight. 
+* Provides <Boon name="Fury"/> on some encounters via <Skill name="Battle Standard"/>.
+* In slower groups that drop <Boon name="Might"/> or <Boon name="Fury"/> the <Specialization name="Berserker"/> can take <Skill name="For Great Justice"/>.
 * Is a third DPS class on most bosses, which makes it in conjunction with banners a non-brainer to bring. 
 * Provides very high cleave DPS in T4s. 
 
