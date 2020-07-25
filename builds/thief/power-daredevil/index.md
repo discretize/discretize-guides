@@ -17,9 +17,12 @@ code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 
 <Tabs>
 <Tab title="Build">
-<Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable many fast skips in T4s. <Specialization name="daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="daredevil"/>  becomes quite hard to master.
+<Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable fast skips in T4s. <Specialization name="daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="daredevil"/>  becomes quite hard to master.
 
-In fractals <Specialization name="daredevil"/> falls behind other classes for several reasons. First would be <Trait id="1268"/>, which forces <Specialization name="daredevil"/> to constantly attack from behind or flank, which in some scenarios is not possible. (Note: with latest balance patch, keen observer got buffed, and with at least 204 Agony Resistance thief no longer need to flank). Next would be <Trait id="1257"/>, which depending on your group composition you may not receive as much of a damage bonus as you would in raids where 10 players allow for more condis to be on the boss. Finally keep in mind that because of <Trait id="2047"/>, you may be pushing your teammates on fractals with <Instability name="Social awkwardness"/> instability into deadly zones.
+In fractals <Specialization name="daredevil"/> falls behind other classes for several reasons:
+1. First reason is <Trait id="1268"/>, which forces <Specialization name="daredevil"/> to constantly attack from behind or flank, which in some scenarios is not possible. (Note: with latest balance patch, keen observer got buffed, and with at least 204 Agony Resistance <Specialization name="daredevil"/> no longer needs to flank). 
+2. Next reason is <Trait id="1257"/>, which depending on your group composition you may not receive as much of a damage bonus as you would in raids where 10 players put more condis to be on the boss.
+3. Because of <Trait id="2047"/>, you may be pushing your teammates on fractals with <Instability name="Social awkwardness"/> instability into deadly zones.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -47,7 +50,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
 </GridItem>
 </Grid>
-With 204 Agony resistance, ur critcapped even without <Trait id="1268"/> flank bonus.
+With 204 Agony resistance <Specialization name="Daredevil"/> is critcapped even without the flank bonus from <Trait id="1268"/>.
 </Tab>
 
 </Tabs>
@@ -86,7 +89,7 @@ Heal skills:
 | <Skill id="13050" size="big" disableText/> | Good passive healing. |
 | <Skill id="13027" size="big" disableText/> | Helps to prepare burst with <Trait id="1704"/> |
 | <Skill id="13021" size="big" disableText/> | Additional mobility. |
-| <Skill id="30400" size="big" disableText/> | Good for skips, where additional endurance is needed. |
+| <Skill id="30400" size="big" disableText/> | Good for skips where additional endurance is needed. |
 
 
 
@@ -95,7 +98,7 @@ Heal skills:
 | -- | -- |
 | <Skill id="13037" size="big" disableText/> | Best DPS for longer fights.|
 | <Skill id="13057" size="big" disableText/> | Good for short phases for additional burst as well as being a CC skill. |
-| <Skill id="13062" size="big" disableText/> | With this skill, you are crit capped without precision from banner and <Trait id="1268"/>, even with 162 AR. |
+| <Skill id="13062" size="big" disableText/> | With this skill you are crit capped without precision from banner and <Trait id="1268"/>, even with 162 AR. |
 Elite skills:
 | | |
 | -- | -- |
