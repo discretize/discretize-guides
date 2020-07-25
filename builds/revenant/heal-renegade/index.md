@@ -1,6 +1,6 @@
 ---
 title: 'Heal Renegade'
-date: '2020-07-23'
+date: '2020-07-25'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Revenant'

@@ -1,6 +1,6 @@
 ---
 title: 'Berserker'
-date: '2020-07-23'
+date: '2020-07-25'
 rating: 'Meta'
 role: 'Support'
 profession: 'Warrior'
@@ -133,7 +133,7 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 <Divider text="Build"/>
 
 <Grid>
-<GridItem sm="7">
+<GridItem sm="7">Might
 <Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint, Doubled Standards, Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct, Blood Reaction, Bloody Roar"/>
 <Card title="Maximizing berserk uptime">
 For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. Two such examples can be seen below for the first two bosses of 99CM:
@@ -146,13 +146,14 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="Mending" utility1="Signet of Might" utility2="Banner of Strength" utility3="Banner of Discipline" elite="Head Butt"/>
+<Skills heal="Mending" utility1="" utility2="Banner of Strength" utility3="Banner of Discipline" elite="Head Butt"/>
 
 <Card title="Situational Skills">
 | | |
 | -- | -- |
 | <Skill name="For Great Justice!" disableText size="big"/> | Whenever you notice less than 25 stacks of <Boon name="might"/> on your buff bar. |
 | <Skill name="Signet of fury" disableText size="big"/> | Fills up the adrenaline bar and grants a huge damage buff.|
+| <Skill name="Signet of might" disableText size="big"/> | Flat 180 power buff. Only take this when no other utility is needed.|
 | <Skill name="Battle Standard" disableText size="big"/> | For Arkk and Artsariiv. |
 | <Skill name="banneroftactics" disableText size="big"/> | Can be precasted at encounters. |
 | <Skill name="onmymark" disableText size="big"/> | Can be used to pull Kraits from the side altars at 99CM. |

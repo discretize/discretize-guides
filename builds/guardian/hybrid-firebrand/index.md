@@ -1,6 +1,6 @@
 ﻿---
 title: 'Firebrand'
-date: '2020-07-23'
+date: '2020-07-25'
 rating: 'Meta'
 role: 'Support'
 profession: 'Guardian'
@@ -23,7 +23,7 @@ It plays very similar to <Specialization text="Power Dragonhunter" name="Dragonh
 Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' power by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
 <Message>
-Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="firebrand"/>* is very strong with short phases. For various T4 fractals, long fight or if you simply happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="firebrand"/>* ([Build](/builds/condi-firebrand) ) as it provides much better DPS for longer fights. 
+Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="firebrand"/>* is very strong with short phases. For various T4 fractals, long fight or if you simply happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="firebrand"/>* ([Build](/builds/guardian/condi-firebrand) ) as it provides much better DPS for longer fights. 
 </Message>
 
 <Message>
@@ -44,7 +44,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
+<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
 
 <Card title="Alternative weapons">
 - Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
@@ -55,7 +55,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemId="49390" backItemAffix="Diviner" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Diviner" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker"  ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
@@ -75,7 +75,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
+<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force"  weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact"/>
 
 <Card title="Alternative weapons">
 - Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
@@ -86,7 +86,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Berserker"  accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker"  ring2Affix="Berserker"/>
 
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
