@@ -1,6 +1,6 @@
 ---
 title: 'Power Daredevil'
-date: '2020-07-23'
+date: '2020-07-25'
 rating: 'T4'
 role: 'Damage'
 profession: 'Thief'
