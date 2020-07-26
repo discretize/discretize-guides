@@ -27,7 +27,7 @@ consumables: [78978, 49940]
 <Grid>
 <GridItem sm="8">
 ## Start
-Activate the *Detonator* and wait for the <Specialization name="renegade"/>, <Specialization name="Weaver"/>, <Specialization name="guardian"/> or <Specialization name="Daredevil"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="might"/> in the vestibule) or if no one can skip just walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
+Activate the *Detonator* and wait for the <Specialization eliteSpecialization="Renegade"/>, <Specialization eliteSpecialization="Weaver"/>, <Specialization name="Guardian"/> or <Specialization name="Daredevil"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="Might"/> in the vestibule) or if no one can skip just walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
 </GridItem>
 
 <GridItem sm="4">
@@ -60,7 +60,7 @@ Activate the *Detonator* and wait for the <Specialization name="renegade"/>, <Sp
 <Grid>
 <GridItem sm="12">  
 <Message>
-For a faster completion time you can split up. <Specialization name="Berserker"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Weaver"/> soloes Superheated Room <Label>West</Label> and <Specialization name="renegade"/> and <Specialization name="soulbeast"/> do Researcher Dormitories <Label>East</Label>.
+For a faster completion time you can split up. <Specialization eliteSpecialization="Berserker"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization eliteSpecialization="Weaver"/> soloes Superheated Room <Label>West</Label> and <Specialization eliteSpecialization="Renegade"/> and <Specialization eliteSpecialization="Soulbeast"/> do Researcher Dormitories <Label>East</Label>.
 </Message> 
 </GridItem>
   
@@ -79,7 +79,7 @@ This should be done by two people, **but can be soloed (usually by <Specializati
 
 One person activates the console to the left <Label circular>1</Label> to grant the other person short access to the console at the right <Label circular>2</Label>.
 
-Activating <Label circular>2</Label> enables short access to the two final consoles at <Label circular>3</Label>. You can bypass the <Condition name="immobile"/> from triggering them by standing exactly in the middle and pressing both buttons at the same time.
+Activating <Label circular>2</Label> enables short access to the two final consoles at <Label circular>3</Label>. You can bypass the <Condition name="Immobile"/> from triggering them by standing exactly in the middle and pressing both buttons at the same time.
 </GridItem>
 <GridItem sm="12">
 <Video title="Guardian skip (But any class can do it)" timestamp="545" youtube="MmJTsOhdQeo"/>  
@@ -91,7 +91,7 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 <Grid>
 <GridItem sm="8">  
 ## Researcher Dormitories <Label>East</Label>
-2 people (usually <Specialization name="renegade"/> and <Specialization name="soulbeast"/>) should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
+2 people (usually <Specialization eliteSpecialization="Renegade"/> and <Specialization eliteSpecialization="Soulbeast"/>) should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
 </GridItem>
 
 <GridItem sm="4">
@@ -108,7 +108,7 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 
 <GridItem sm="8">
 ## Superheated Room <Label>West</Label>
-This is usually solo'ed by the <Specialization name="Weaver"/> but other classes can do it as well, like in the **video shown below**.
+This is usually solo'ed by the <Specialization eliteSpecialization="Weaver"/> but other classes can do it as well, like in the **video shown below**.
 </GridItem>
 
 <GridItem sm="12">
@@ -177,7 +177,7 @@ Equip <Skill id="14404"/> to make your CC skills unblockable.
 <GridItem sm="8">
 ## Thaumanova Anomaly  
   
-After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="might"/>.    
+After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="Might"/>.    
 During the fight, try to stack as much as possible on one or two adjacent platforms but don't die from <Instability name="Social Awkwardness"/> if it is present.
 
 Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (the beam dissolving the platforms) and the _Cosmic Instability_ debuff (occurring after 50% health). The _Flux Bomb_ debuff will also cause nearby platforms to disappear.

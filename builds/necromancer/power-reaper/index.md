@@ -17,9 +17,9 @@ author: 'jes'
 
 <Tabs>
 <Tab title="Build">
-The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
+The <Specialization eliteSpecialization="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
 
-<Specialization name="Reaper" text="Power Reaper"/> has multiple offensive skill options (<Control name="Pull"/>, boon corruptions, <Condition name="blind"/>, <Control name="Immobile"/>, etc.) <Specialization name="Reaper" text="Power Reaper"/> can modify itself to fit many given situations in fractals.
+<Specialization eliteSpecialization="Reaper" text="Power Reaper"/> has multiple offensive skill options (<Control name="Pull"/>, boon corruptions, <Condition name="Blind"/>, <Control name="Immobile"/>, etc.) <Specialization eliteSpecialization="Reaper" text="Power Reaper"/> can modify itself to fit many given situations in fractals.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -83,11 +83,11 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
-| <Skill name="Grasping Darkness" size="big" disableText/> | 150 with <Control name="pull"/> |
-| <Skill name="Wail of Doom" size="big" disableText/> | 200 with <Control name="daze"/> (300 if traited) |
-| <Skill name="Charge" size="big" disableText/> | 200 with <Control name="knockdown"/> and 232 with <Control name="launch"/>| 
-| <Skill name="Terrify" size="big" disableText/> | 100 with <Control name="Fear"/> |
-| <Skill name="Executioners Scythe" size="big" disableText/> | 150 with <Control name="daze"/> |
+| <Skill name="Grasping Darkness" size="big" disableText/> | 150 with <Control name="Pull"/> |
+| <Skill name="Wail of Doom" size="big" disableText/> | 200 with <Control name="Daze"/> (300 if traited) |
+| <Skill name="Charge" size="big" disableText/> | 200 with <Control name="Knockdown"/> and 232 with <Control name="Launch"/>| 
+| <Skill name="Terrify" size="big" disableText/> | 100 with <Condition name="Fear"/> |
+| <Skill name="Executioners Scythe" size="big" disableText/> | 150 with <Control name="Daze"/> |
 </Card>
 </GridItem>
 </Grid>
@@ -529,7 +529,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-3) <Effect name="hypernovalaunch"/> on _Arkk_ to help with CC
+3) <Effect name="Hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -540,7 +540,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 2) <Skill name="Death Spiral"/> (GS 3)
 3) Auto attack until __Arch Diviner__ is 50%
 4) Spam <Skill name="Gravedigger"/> (GS 2)
-5) <Effect name="hypernovalaunch"/> on the Elite to help with CC
+5) <Effect name="Hypernovalaunch"/> on the Elite to help with CC
 
 ### **Phase 3**
 1) Use both wells
@@ -563,7 +563,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-3) <Effect name="hypernovalaunch"/> on _Arkk_ to help with CC
+3) <Effect name="Hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -574,7 +574,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 2) <Skill name="Death Spiral"/> (GS 3)
 3) Auto attack until __Gladiator__ is 50%
 4) Spam <Skill name="Gravedigger"/> (GS 2)
-5) <Effect name="hypernovalaunch"/> on the Elite to help with CC
+5) <Effect name="Hypernovalaunch"/> on the Elite to help with CC
 
 ### **Phase 5**
 1) Use both wells
@@ -599,7 +599,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 3) If Arkk is not CCd
 	1) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-	2) <Effect name="hypernovalaunch"/> on _Arkk_ to help with CC
+	2) <Effect name="Hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -607,7 +607,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 8) If not dead spam <Skill name="Gravedigger"/> (GS 2)
 
 Annotation:
-1) If possible make sure you use <Effect name="hypernovalaunch"/> to CC the adds
+1) If possible make sure you use <Effect name="Hypernovalaunch"/> to CC the adds
     1) First add spawn AoE's that strips boons, make sure you avoid them
 
 </Tab>

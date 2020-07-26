@@ -16,7 +16,7 @@ consumables: [49940]
 ## Always start Left path with the Deepstone Sentinel (Air Elemental) 
 </GridItem>
 <GridItem sm="5"> 
-Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pass. You have to avoid the green tiles because it damages you. You can dodge and block the green tiles between the safe non glowing tiles, proceed to the end. **This can be skipped by <Specialization name="Berserker"/>, <Specialization name="Soulbeast"/>, <Specialization name="Firebrand"/>, like in the video down below.** 
+Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pass. You have to avoid the green tiles because it damages you. You can dodge and block the green tiles between the safe non glowing tiles, proceed to the end. **This can be skipped by <Specialization eliteSpecialization="Berserker"/>, <Specialization eliteSpecialization="Soulbeast"/>, <Specialization eliteSpecialization="Firebrand"/>, like in the video down below.** 
   
 After two players passed, they stand on the cyan glowing runes to stop the tetris trap so others can pass. <Specialization name="elementalist"/> can use <Skill name="Lightning flash"/> to activate both button, a little higher ping helps with this immensely.
 </GridItem> 
@@ -43,15 +43,15 @@ After two players passed, they stand on the cyan glowing runes to stop the tetri
 </GridItem>
 
 <GridItem sm="7"> 
-After prestacking <Boon name="might"/> at the Mistlock Singularity move in and the _Deepstone Sentinel_ spawns. The only dangerous attack it has is an AoE tornado (called Wind Sprites) that you have to dodge at every 20%. It is a well telegraphed attack so you only have to make sure you are not standing in it 1 second later. If it manages to catch you, others have to use CC to break you out of it before it floats you to the depths and kill you. There is a possibility you get caught even if you are not standing in it, use Skill 1 to break out of it (If you get caught in it and you stood in the AoE Skill 1 does nothing else than pinging on minimap, so keep that in mind). 
+After prestacking <Boon name="Might"/> at the Mistlock Singularity move in and the _Deepstone Sentinel_ spawns. The only dangerous attack it has is an AoE tornado (called Wind Sprites) that you have to dodge at every 20%. It is a well telegraphed attack so you only have to make sure you are not standing in it 1 second later. If it manages to catch you, others have to use CC to break you out of it before it floats you to the depths and kill you. There is a possibility you get caught even if you are not standing in it, use Skill 1 to break out of it (If you get caught in it and you stood in the AoE Skill 1 does nothing else than pinging on minimap, so keep that in mind). 
 
-The other three attacks are a mini tornado that applies <Condition name="chilled"/> and the AoEs that <Control name="daze"/>, the third attack is a projectile it shoots inbetween which can be reflected / absorbed. After killing the _Deepstone Sentinel_ the crystal energy orb spawns, take it and interact with the Vibrant Crystal in the middle.
+The other three attacks are a mini tornado that applies <Condition name="chilled"/> and the AoEs that <Control name="Daze"/>, the third attack is a projectile it shoots inbetween which can be reflected / absorbed. After killing the _Deepstone Sentinel_ the crystal energy orb spawns, take it and interact with the Vibrant Crystal in the middle.
 </GridItem>
 
 <GridItem sm="5"> 
 <Tabs>
 <Tab specialization="revenant">
-Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the AoE <Control name="daze"/>.
+Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the AoE <Control name="Daze"/>.
 </Tab>  
 </Tabs> 
 <Image src="./images/deepstone_sentinel.jpg" caption="The Deepstone Sentinel"/>
@@ -107,7 +107,7 @@ Use <Skill name="Lightning Flash"/>, <Skill name="Ride the Lightning"/> or <Skil
 <GridItem sm="6">
 <Tabs>
 <Tab specialization="Renegade">
-**<Specialization name="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <Effect name="lightofdeldrimor"/>.** Especially helpful at the Maze part.
+**<Specialization eliteSpecialization="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <Effect name="lightofdeldrimor"/>.** Especially helpful at the Maze part.
 </Tab>
 </Tabs>
 </GridItem>
@@ -156,7 +156,7 @@ Use <Skill name="Lightning Flash"/> and <Skill name="Ride the Lightning"/> to ge
   
 Before fight <Label>Pre-stack</Label>
 
-Prestack <Boon name="might"/> and proceed to the boss. The boss has several mechanics. The first you will notice is he is teleporting to a random location of the arena at every 10%. The tiles of the arena can be revealed with the <Effect name="lightofdeldrimor"/> skill. Spam this skill all the time and you won't have a problem with disappearing tiles.
+Prestack <Boon name="Might"/> and proceed to the boss. The boss has several mechanics. The first you will notice is he is teleporting to a random location of the arena at every 10%. The tiles of the arena can be revealed with the <Effect name="lightofdeldrimor"/> skill. Spam this skill all the time and you won't have a problem with disappearing tiles.
 
 Teleporting <Label>Breakbar</Label>
 

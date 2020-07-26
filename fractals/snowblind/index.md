@@ -28,7 +28,7 @@ consumables: [78978, 49940]
 
 <Grid>
 <GridItem sm="8">
-Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
+Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="Pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
 
 If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them by standing at the bonfire.
 
@@ -42,7 +42,7 @@ When there are only a few percent remaining, go near the fire to leave combat an
 
 <Tabs>
 <Tab specialization="Weaver">
-Cast a <Skill name="Conjure Fiery Greatsword"/> for <Specialization name="Renegade"/> at the wall right before it melts.
+Cast a <Skill name="Conjure Fiery Greatsword"/> for <Specialization eliteSpecialization="Renegade"/> at the wall right before it melts.
 </Tab>
   
 <Tab specialization="Renegade">
@@ -121,7 +121,7 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 <GridItem sm="8">
 ## Shaman Lornarr Dragonseeker <Item id="8883" disableText/><Item id="24667" disableText/>  
   
-Stack <Boon name="might"/> before the final boss. Make sure to dodge into the boss room to avoid getting <Condition name="chilled"/> from the icy bolts.
+Stack <Boon name="Might"/> before the final boss. Make sure to dodge into the boss room to avoid getting <Condition name="chilled"/> from the icy bolts.
 
 He gains 3 stacks of _Rime Shield_ reducing his incoming damage from the three respawning _Corrupted Ice Crystals_, destroy them before focusing the Shaman.
 
@@ -139,7 +139,7 @@ Take either <Skill name="Legendary Dwarf Stance"/> or <Skill name="Legendary Cen
 
 <Tabs>
 <Tab specialization="Tempest">
-Use <Specialization name="Tempest"/> <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.
+Use <Specialization eliteSpecialization="Tempest"/> <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.
 </Tab>
 <Tab specialization="Berserker">
 Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly! Use [consumables](/guides/consumables) to CC!

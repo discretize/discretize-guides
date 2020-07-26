@@ -12,7 +12,7 @@ code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 <Message>
-Despite being very common in pugs, this build is not **the** meta! It is part of a composition called PuG meta, you can read more about it [here](/guides/meta-explained). We **recommend** to play [Heal Renegade](/builds/revenant/heal-renegade) for PuGs who are more organized and know the mechanics (after around 150-250+ <Item id="81743"/>), also a <Specialization name="firebrand"/> can deal way more damage than <Specialization name="renegade"/>. However if you fail mechanics <Specialization name="Firebrand" text="Heal Firebrand"/> is a way to success.
+Despite being very common in pugs, this build is not **the** meta! It is part of a composition called PuG meta, you can read more about it [here](/guides/meta-explained). We **recommend** to play [Heal Renegade](/builds/revenant/heal-renegade) for PuGs who are more organized and know the mechanics (after around 150-250+ <Item id="81743"/>), also a <Specialization eliteSpecialization="Firebrand"/> can deal way more damage than <Specialization eliteSpecialization="Renegade"/>. However if you fail mechanics <Specialization eliteSpecialization="Firebrand" text="Heal Firebrand"/> is a way to success.
 </Message>
 
 <Tabs>
@@ -36,7 +36,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon2MainType="Axe" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2OffType="Shield" weapon2OffAffix="Harrier" weapon2OffSigil="Concentration"/>
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM
-* A hammer for <Boon name="might"/> pre-stacking
+* A hammer for <Boon name="Might"/> pre-stacking
 </Card>
 </GridItem>
 
@@ -74,8 +74,8 @@ In case your team downs frequently and is unable to handle mechanics correctly, 
 | <Skill name="Feel my wrath" size="big" disableText/> | When there is absolutely no need for <Boon name="Stability"/>. |
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. Can be used to blink to a <Skill id="9168"/>.|
 | <Skill id="9247" size="big" disableText/> | A 1,200 range teleport to an enemy. Very handy for some skips. |
-| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stun break is needed. Preferred over <Skill id="9153"/>. |
-| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stun break is needed. |
+| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stun break is needed. Preferred over <Skill id="9153"/>. |
+| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stun break is needed. |
 | <Skill id="9175" size="big" disableText/> | A strong heal. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. Can be used to counterplay <Instability name="We bleed fire"/>.|
@@ -88,9 +88,9 @@ In case your team downs frequently and is unable to handle mechanics correctly, 
 <Tab title="Guide">
 <Divider text="Details"/>
 
-It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is important to understand that the signet share is essential to faster runs and sharing extra power during <Effect name="exposed"/> (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
+It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is important to understand that the signet share is essential to faster runs and sharing extra power during <Effect name="Exposed"/> (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
 
-The <Specialization name="Firebrand" text="Heal Firebrand"/> heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals, *but* it should not be needed.
+The <Specialization eliteSpecialization="Firebrand" text="Heal Firebrand"/> heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals, *but* it should not be needed.
 
 When <Instability name="Afflicted"/> is present or enemies are applying conditions, you can use <Skill name="Symbol of Swiftness"/> (Staff3) and blast it with <Skill name="Holy Strike"/> (Staff2) for area condition cleanse.
 
@@ -137,7 +137,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 - <Skill name="Tome of Courage"/> (F3):
   - Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
   - Skill 3 is a 5s reflect
-  - Skill 4 grants <Boon name="resistance"/> and breaks stun
+  - Skill 4 grants <Boon name="Resistance"/> and breaks stun
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
 </Card>

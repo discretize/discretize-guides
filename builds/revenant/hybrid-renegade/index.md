@@ -114,7 +114,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 <GridItem sm="5">
 <Card title="Notes">
-Ideally you would want to do your burst rotation under the effect of <Effect name="exposed"/> and while your <Skill name="Impossibleodds"/>. This might not always be possible if you need to reserve energy for boons or in the case that your legend timings are off.
+Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/> and while your <Skill name="Impossibleodds"/>. This might not always be possible if you need to reserve energy for boons or in the case that your legend timings are off.
 
 With <Skill name="Legendary Demon Stance"/> you would want to use these abilities with <Skill name="Embrace the darkness"/> on.
 </Card>
@@ -152,7 +152,7 @@ With <Skill name="Legendary Demon Stance"/> you would want to use these abilitie
 **Notable Traits:**
 
 - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
-- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Effect name="Battle Scars"/>, which makes your attack steal health. This trait is dps alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of dmg, but dont scale with <Effect name="exposed"/>. Pulls ahead over ST on fights where majority of dmg is dealt, outside of <Effect name="exposed"/> debuff, so on Artsariv and Arkk. Also worth taking in pug groups.
+- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Effect name="Battle Scars"/>, which makes your attack steal health. This trait is dps alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of dmg, but dont scale with <Effect name="Exposed"/>. Pulls ahead over ST on fights where majority of dmg is dealt, outside of <Effect name="Exposed"/> debuff, so on Artsariv and Arkk. Also worth taking in pug groups.
 - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%. 
 - <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
 - <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
@@ -290,7 +290,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **1st Add**   
 * Use <Skill name="Shackling Wave"/>. 
-* Change to <Skill name="Legendary Renegade stance"/> to use <Skill name="Heroic Command"/> to share <Boon name="might"/>.
+* Change to <Skill name="Legendary Renegade stance"/> to use <Skill name="Heroic Command"/> to share <Boon name="Might"/>.
 
 **75-50%** 
 * Cast <Skill name="SoulcleavesSummit"/> and <Skill name="icerazors ire"/> on MAMA.
@@ -300,7 +300,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 **2nd Add**  
 * Precast <Skill name="Darkrazors Daring"/> at the location where the add will spawn.
 * Change to <Skill name="Legendary Assassin stance"/>. 
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 
 
 **50-25%**  
@@ -311,7 +311,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **3rd Add**  
 * Precast <Skill name="Darkrazors Daring"/>, <Skill name="icerazors ire"/>, and <Skill name="Soulcleaves Summit"/> where the add will spawn. 
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>. 
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>. 
 * Weapon swap to staff when possible.
 
 **25-0%**  
@@ -358,7 +358,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 **Precast**  
 * Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlaps and grants twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast if needed.
 * After the introduction of templates, it is recommended to precast using equipment with higher boon duration.
-* Ask your <Specialization name="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation.
+* Ask your <Specialization eliteSpecialization="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation.
 
 **100 - 66%**   
 * Have your staff equipped and pick up the <Skill name="Conjure Frost Bow"/>.
@@ -368,7 +368,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Use <Skill name="Deep Freeze"/> and drop the <Skill name="Conjure Frost Bow"/>.
 * Immediately use <Skill name="Surgeofthemists"/> to finish of the defiance bar.
 * When you are through the hitbox weapon swap and use <Skill name="Chilling Isolation"/>.
-* Share <Boon name="might"/> at the end of the phase with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> at the end of the phase with <Skill name="Heroic Command"/>.
 
 **1st Add**  
 * Cast <Skill name="icerazors ire"/> on your designated add. 
@@ -381,7 +381,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 * Let <Skill name="Soulcleaves summit"/> and <Skill name="Shackling wave"/> deplete your energy.
 * Change to <Skill name="Legendary Assassin Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
 * Cast <Skill name="Citadel Bombardment"/> and <Skill name="Chilling Isolation"/>.
-* Share <Boon name="might"/> at the end of the phase with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> at the end of the phase with <Skill name="Heroic Command"/>.
 
 **2nd Add**  
 * Activate <Skill name="Impossible Odds"/> and use <Skill name="Chilling Isolation"/> to kill your add quickly. 
@@ -455,8 +455,8 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **Orb Phase**
 * Weapon swap to staff and change to <Skill name="Legendary Renegade Stance"/>.
-* Position yourself in a circle next to the <Specialization name="Weaver"/> in your party.
-* Use <Skill name ="Orders from Above"/> to share <Boon name="Alacrity"/> with the <Specialization name="Weaver"/>.
+* Position yourself in a circle next to the <Specialization eliteSpecialization="Weaver"/> in your party.
+* Use <Skill name ="Orders from Above"/> to share <Boon name="Alacrity"/> with the <Specialization eliteSpecialization="Weaver"/>.
 
 **66-33%**
 * Precast <Skill name="Darkrazors Daring"/> right before Ensolyss appear.
@@ -472,8 +472,8 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **Orb Phase**
 * Weapon swap to staff and change to <Skill name="Legendary Renegade Stance"/>.
-* Position yourself in a circle next to the <Specialization name="Weaver"/> in your party.
-* Use <Skill name ="Orders from Above"/> to share <Boon name="Alacrity"/> with the <Specialization name="Weaver"/>.
+* Position yourself in a circle next to the <Specialization eliteSpecialization="Weaver"/> in your party.
+* Use <Skill name ="Orders from Above"/> to share <Boon name="Alacrity"/> with the <Specialization eliteSpecialization="Weaver"/>.
 * Cast <Skill name="Breakrazors Bastion"/> on the <Skill name="Frost Spirit"/> to keep it alive for the last phase.
 
 **33-0%**
@@ -493,7 +493,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 **Annotation**
 * Consider breaking the defiance bar a second time in prolonged phases. Use <Skill name="Surge of the Mists"/> and <Skill name="Darkrazors Daring"/> after the Upswing attack in the first phase, and after the Nightmare Devastation attack in the second phase. In the third phase use <Skill name="Darkrazors Daring"/> on the first defiance bar, and use <Skill name="Surge of the mists"/> immediately when the second defiance bar appears.
 * Using <Skill name="Chilling Isolation"/> before <Skill name="Citadel Bombardment"/> will give you the opportunity to use <Skill name="Chilling Isolation"/> again while Ensolyss is affected by the <Effect name="Exposed"/> debuff.
-* Coordinate with the <Specialization name="Soulbeast"/> in which orb phase to use <Skill name="Breakrazors Bastion"/> to heal the <Skill name="Frost Spirit"/>.
+* Coordinate with the <Specialization eliteSpecialization="Soulbeast"/> in which orb phase to use <Skill name="Breakrazors Bastion"/> to heal the <Skill name="Frost Spirit"/>.
 
 </GridItem>
 </Tab>
@@ -525,7 +525,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
 
 **100-66%**  
-* Precast <Skill name="Darkrazors Daring"/> when the <Specialization name="Weaver"/> is casting <Skill name="Meteorshower"/>.
+* Precast <Skill name="Darkrazors Daring"/> when the <Specialization eliteSpecialization="Weaver"/> is casting <Skill name="Meteorshower"/>.
 * Cast <Skill name="Icerazors Ire"/> right before triggering the instance.
 * Use <Skill name="Surge of the Mists"/> through Skorvald to break the defiance bar. Be aware of positioning to gain an extra hit.
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
@@ -628,10 +628,10 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Precast <Skill name="Darkrazors Daring"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
 * Manually change to <Skill name="Legendary Dwarf Stance"/> using the legend UI before Artsariiv becomes vulnerable.
 * Use <Skill name="Shackling Wave"/>, and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Share <Boon name="Might"/> with <Skill name="Heroic Command"/> before using the <Effect name="hypernovalaunch"/> to the corner. 
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/> before using the <Effect name="Hypernovalaunch"/> to the corner. 
 * Weapon swap and use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the party.
 * Change to <Skill name="Legendary Renegade Stance"/>, and precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at the location where Artsarriv will appear.
-* Use <Skill name="Surge of the Mists"/> to break the defiance bar. Use it with the <Effect name="hypernovalaunch"/> to gain additional hits.
+* Use <Skill name="Surge of the Mists"/> to break the defiance bar. Use it with the <Effect name="Hypernovalaunch"/> to gain additional hits.
 * Weapon swap and change to <Skill name="Legendary Dwarf Stance"/>.
 
 **Add**
@@ -642,12 +642,12 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle. 
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
 * Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to deplete your energy.
-* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <Effect name="hypernovalaunch"/> to the corner.
+* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <Effect name="Hypernovalaunch"/> to the corner.
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> for additional damage.
 * Weapon swap to staff when the phase ends.
 
@@ -659,12 +659,12 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle. 
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
 * Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to deplete your energy.
-* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <Effect name="hypernovalaunch"/> to the corner.
+* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <Effect name="Hypernovalaunch"/> to the corner.
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> for additional damage.
 
 ---
@@ -672,7 +672,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 **Annotation**
 * After using <Skill name="Inspiring Reinforcement"/>, make sure you gain the extra energy from <Trait name="Charged Mists"/> in the first phase. 
 * Time <Skill name="Inspiring Reinforcement"/> so that <Boon name="Stability"/> lasts long enough for the AoE attack in the middle.
-* Use <Effect name="hypernovalaunch"/> while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
+* Use <Effect name="Hypernovalaunch"/> while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
 * Be aware of energy management before changing to <Skill name="Legendary Renegade Stance"/> in the middle in order to gain the extra energy from <Trait name="Charged Mists"/>.
 
 
@@ -737,13 +737,13 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 **80-70%**
 * Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location. 
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the <Effect name="hypernovalaunch"/> to break the defiance bar.
+* Use <Skill name="Surge of the Mists"/> with the <Effect name="Hypernovalaunch"/> to break the defiance bar.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
 
 **Archdiviner**
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
-* Use <Effect name="hypernovalaunch"/> if the defiance bar appears.
+* Use <Effect name="Hypernovalaunch"/> if the defiance bar appears.
 * Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **70-50%**
@@ -757,13 +757,13 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 **50-40%**
 * Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location. 
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the <Effect name="hypernovalaunch"/> to break the defiance bar.
+* Use <Skill name="Surge of the Mists"/> with the <Effect name="Hypernovalaunch"/> to break the defiance bar.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
 
 **Gladiator**
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/>.
-* Use <Effect name="hypernovalaunch"/> if the defiance bar appear.
+* Use <Effect name="Hypernovalaunch"/> if the defiance bar appear.
 * Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **40-30%**
@@ -775,7 +775,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 **30-0%**
 * Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location. 
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the <Effect name="hypernovalaunch"/> to break the defiance bar.
+* Use <Skill name="Surge of the Mists"/> with the <Effect name="Hypernovalaunch"/> to break the defiance bar.
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/>.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.

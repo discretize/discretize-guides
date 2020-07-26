@@ -31,13 +31,13 @@ consumables: [78978, 49940, 8764, 8801]
 <GridItem sm="7">
 ## Start
 
-**Option 1 (recommended):** The whole party stacks <Effect name="stealth"/> and skips together until the holding area. If a single Harpy spawned immediately at the begin, you can kill it before stealthing.
+**Option 1 (recommended):** The whole party stacks <Effect name="Stealth"/> and skips together until the holding area. If a single Harpy spawned immediately at the begin, you can kill it before stealthing.
 
 **Option 2:** Anyone with a <Item id="78978"/> skips alone and teleports the team to the holding area.
 
 ## Holding Area
 
-Stack <Boon name="might"/> before destroying the _Power Generator_, stack in the structure on the left side of the room and let your <Specialization name="renegade"/> destroy the _Power Generator_.
+Stack <Boon name="Might"/> before destroying the _Power Generator_, stack in the structure on the left side of the room and let your <Specialization eliteSpecialization="Renegade"/> destroy the _Power Generator_.
 
 Then kill the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's _Massive Smash_ attack. Reflects are strong here as well, especially against the Fire Shaman's projectiles.
 
@@ -55,12 +55,12 @@ Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="a
 <Tabs>
 
 <Tab specialization="Daredevil">
-Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="Daredevil"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.    
+Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="Daredevil"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.    
         <Skill id="13065"/> is also useful against the Holding Area bosses.
 </Tab>
 
 <Tab specialization="Soulbeast">
-Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
 
@@ -74,7 +74,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 <GridItem sm="8">
 ## Pulsing Orbs
 
-You can skip this part with <Specialization name="Weaver"/> or <Specialization name="Daredevil"/> shown in the videos down below or you can just walk past the three Harpies (no <Effect name="stealth"/> needed) and run up the ramp towards Old Tom. You can dodge through or reflect the pulsing orbs and even skip the last part by walking on the left wall.
+You can skip this part with <Specialization eliteSpecialization="Weaver"/> or <Specialization name="Daredevil"/> shown in the videos down below or you can just walk past the three Harpies (no <Effect name="Stealth"/> needed) and run up the ramp towards Old Tom. You can dodge through or reflect the pulsing orbs and even skip the last part by walking on the left wall.
 </GridItem>
 
 <GridItem sm="4">
@@ -110,7 +110,7 @@ If you skipped don't forget to trigger the "Reach the top" checkpoint (red dot o
 <GridItem sm="8">
 ## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>  
   
-Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken. <Specialization name="Soulbeast"/> can use <Skill id="12489"/> and take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> almost nullifies the Poison from the green projectiles.
+Stack <Boon name="Might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken. <Specialization eliteSpecialization="Soulbeast"/> can use <Skill id="12489"/> and take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> almost nullifies the Poison from the green projectiles.
 </GridItem>
 </Grid>
 
@@ -134,7 +134,7 @@ Stack <Boon name="might"/> before Old Tom and simply nuke him down. Be careful w
 <GridItem sm="5">
 ## Raving Asura <Item id="8887" disableText/><Item id="24672" disableText/>  
   
-If no one did a portal to above, stack <Effect name="stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal.
+If no one did a portal to above, stack <Effect name="Stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal.
 </GridItem>
   
 <GridItem sm="7">
