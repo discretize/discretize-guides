@@ -17,7 +17,7 @@ code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 
 <Tabs>
 <Tab title="Build">
-<Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable fast skips in T4s. <Specialization name="daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="daredevil"/>  becomes quite hard to master.
+<Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="Stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable fast skips in T4s. <Specialization name="daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="daredevil"/>  becomes quite hard to master.
 
 In fractals <Specialization name="daredevil"/> falls behind other classes for several reasons:
 1. First reason is <Trait id="1268"/>, which forces <Specialization name="daredevil"/> to constantly attack from behind or flank, which in some scenarios is not possible. (Note: with latest balance patch, keen observer got buffed, and with at least 204 Agony Resistance <Specialization name="daredevil"/> no longer needs to flank). 
@@ -40,7 +40,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 <Card title="Alternative weapons">
 * Staff with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
   (<Item id="36054"/> doesn't stack anymore)
-* A shortbow to stack <Boon name="might"/>, <Effect name="Stealth"/> and to skip
+* A shortbow to stack <Boon name="Might"/>, <Effect name="Stealth"/> and to skip
 </Card>
 </GridItem>
 
@@ -112,8 +112,8 @@ Elite skills:
 | | |
 | -- | -- |
 | <Skill id="13117" size="big" disableText/> | Group stealth. Keep in mind, if you leave the AoE before it ends, you will be revealed for a long period. |
-| <Skill id="13065" size="big" disableText/> | Use it to blast <Effect name="stealth"/> for skips or to destroy projectiles. |
-| <Skill id="13044" size="big" disableText/> | 3 seconds AoE <Effect name="stealth"/> (also another blast). |
+| <Skill id="13065" size="big" disableText/> | Use it to blast <Effect name="Stealth"/> for skips or to destroy projectiles. |
+| <Skill id="13044" size="big" disableText/> | 3 seconds AoE <Effect name="Stealth"/> (also another blast). |
 | <Skill id="13064" size="big" disableText/> | 1200 range shadowstep, useful for some skips. |
 | <Skill id="13002" size="big" disableText/> | 1200 range teleport, use it again to teleport back. |
 | <Skill id="13038" size="big" disableText/> | One way portal, useful if you don't have <Item id="78978"/>.|

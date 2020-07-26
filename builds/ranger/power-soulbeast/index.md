@@ -16,9 +16,9 @@ code: '[&DQQIGiA7Nyp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 <Tabs>
 <Tab title="Build">
 
-<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
+<Specialization eliteSpecialization="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
 
-For prestacking and encounters where the <Specialization name="Firebrand"/> plays <Specialization name="Dragonhunter"/> or <Specialization name="guardian"/>, it is beneficial to bring <Skill name="moa stance"/> to extend the uptime of boons, especially <Boon name="quickness"/>. The Guide and CM tabs provide more information.
+For prestacking and encounters where the <Specialization eliteSpecialization="Firebrand"/> plays <Specialization eliteSpecialization="Dragonhunter"/> or <Specialization name="Guardian"/>, it is beneficial to bring <Skill name="moa stance"/> to extend the uptime of boons, especially <Boon name="Quickness"/>. The Guide and CM tabs provide more information.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -41,7 +41,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Berserker" ring2Affix="Berserker"/>
 
 <Card title="Swap Weapons">
-* Warhorn for <Boon name="might"/> pre-stacking.
+* Warhorn for <Boon name="Might"/> pre-stacking.
 * Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>.
 * Axes, Longbows, and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
 
@@ -68,7 +68,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/>!
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
 <Card title="Swap Weapons">
-* Warhorn for <Boon name="might"/> pre-stacking.
+* Warhorn for <Boon name="Might"/> pre-stacking.
 * Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>.
 * Axes, Longbows, and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
 
@@ -99,7 +99,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 </Grid>
 <Message>
-It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full zerk on both.
+It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization eliteSpecialization="Soulbeast"/> and <Specialization eliteSpecialization="Weaver"/> and use full zerk on both.
 </Message>
 </Tab>
 </Tabs>
@@ -116,7 +116,7 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 | | |
 | -- | -- |
 | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
-| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="stealth"/>. |
+| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>. |
 | <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
 </Card>  
 </GridItem>
@@ -128,14 +128,14 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait name="Clarion Bond" size="big" disableText/> | Can be useful if the blast and team <Boon name="might"/> is more advantageous than the self <Boon name="might"/> from <Trait name="Huntersgaze"/>. |
+| <Trait name="Clarion Bond" size="big" disableText/> | Can be useful if the blast and team <Boon name="Might"/> is more advantageous than the self <Boon name="Might"/> from <Trait name="Huntersgaze"/>. |
 | <Trait name="Natural healing" size="big" disableText/> | Take this instead of <Trait name="Two-handed training"/> if you are running longbow and want some passive healing. |
 | <Trait id="2143" size="big" disableText/> | On short T4 fights you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> for your allies then swap traits right before you get in combat. |
 </Card>
 <Card title="Skirmishing and Fractals">
 Running Skirmishing in fractals is quite a niche choice, you need to satisfy **both of the following requirements:**
 - You can be sure that you can flank the boss permanently.
-- You want to replace a <Specialization name="Berserker"/> by providing your team with <Trait name="Spotter"/> so they can crit cap.
+- You want to replace a <Specialization eliteSpecialization="Berserker"/> by providing your team with <Trait name="Spotter"/> so they can crit cap.
 
 If both of these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:
 <UnembossedTraits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888"/>
@@ -170,20 +170,20 @@ If both of these requirements then you can swap Marksmanship for Skirmishing wit
 <Grid>
 <GridItem sm="7">
 <Card title="Guide">
-The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="exposed"/> on the boss. 
+The main idea of <Specialization eliteSpecialization="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="Exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="Exposed"/> on the boss. 
 
-Also as <Specialization name="soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your <Specialization name="weaver"/>). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="exposed"/>. 
+Also as <Specialization eliteSpecialization="Soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your <Specialization eliteSpecialization="Weaver"/>). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="Exposed"/>. 
 
 In PuGs, however, it is quite hard to predict when the boss will be CCed as well as phases can last a lot longer than expected, because of this the golem rotation is listed to the right so that you can resort back to it if you end up in a longer phase.
 
 **Weapon Skills:**
 - **You should mostly run main-hand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
 - You may take main-hand axe (to fill with <Skill name="wintersbite"/>) for certain encounters, such as midburn Artsariiv, where you almost never autoattack with your dual wielding weapons set.
-- As a <Specialization name="Soulbeast"/> you want to always run offhand axe as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
+- As a <Specialization eliteSpecialization="Soulbeast"/> you want to always run offhand axe as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
 
 For your second weapon set you either run greatsword or longbow:
  
-- Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
+- Longbow is a default pick for fractal <Specialization eliteSpecialization="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
 - Greatsword on the other side offers great sustained DPS. You need to be smart about utilizing the <Effect name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios.
 - In order to proc <Item id="84505"/> you merely need to use any CC skill (such as <Skill id="45743"/> or <Skill id="12511"/>) whilst the enemy is using an ability.
 
@@ -195,7 +195,7 @@ For your second weapon set you either run greatsword or longbow:
 - **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team!**
 - You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus** for its duration. One thing to keep in mind is that it only grants you a 40% damage bonus against the foe you use it on, so if you are cleaving trash mobs it might not be worth using. Secondly, you only get the buff if you are in <Skill id="42944"/> so also don't activate it if you are unmerged. 
 - Your default second utility is <Skill name="Signet of the wild"/> which is a nice passive stat increase. Depending on the situation you can instead run <Skill name="Frost trap"/> which offers higher burst potential. The situations when you want to run trap depend upon phase length and downtime on phases where the trap can recharge.
-  - For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="exposed"/> since it recharges during the island phase so the trap is an obvious pick over signet.
+  - For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="Exposed"/> since it recharges during the island phase so the trap is an obvious pick over signet.
 - Most healing skills on ranger are quite useful: <Skill name="We heal as one"/> is a large heal and extends the boons on yourself thanks to <Skill id="42944"/>. Secondly <Skill name="Bear stance"/> is a great condi cleanse either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for pushing orbs at Arkk to enter the damage field.
 
 **Extra Notes:**
@@ -299,7 +299,7 @@ In faster kills you want to run <Item id="82876"/> instead of <Item id="24615"/>
 
 **Precast**  
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>. 
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>.
+- Pick up the <Skill id="5516"/> from your <Specialization eliteSpecialization="Weaver"/>.
 - You want to double share <Skill name="OneWolfPack"/> with <Trait id="2128"/> (once at the mistlock and once as you run or <Item id="78978"/> to the boss) before swapping to <Trait id="2143"/> before you get in combat.
 - Make sure to summon <Skill id="12497"/> before you precast <Skill id="5531"/> and <Skill name="Barrage"/> on MAMA.
 
@@ -377,9 +377,9 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 
 **Precast**
 
-- Precast <Skill name="Frosttrap"/> on the boss orb like a <Specialization name="Dragonhunter"/> in disguise.
+- Precast <Skill name="Frosttrap"/> on the boss orb like a <Specialization eliteSpecialization="Dragonhunter"/> in disguise.
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
+- Pick up the <Skill id="5516"/> from your <Specialization eliteSpecialization="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
 
 **Opening**
 - Summon <Skill name="Frostspirit"/> when you go through the portal.
@@ -405,7 +405,7 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 
 - You want to stand at range to benefit from <Trait name="Farsighted"/> as well as you might want to use <Skill name="wehealasone"/> to make sure you have <Trait id="974"/> and <Item id="24836"/> as damage modifiers to kill the add.
 - Use longbow skills to kill your add: <Skill name="pointblankshot"/> and <Skill name="rapidfire"/>.
-- The remaining damage should be dealt by the <Specialization name="Dragonhunter"/> with a <Skill name="Swordofjustice"/>.
+- The remaining damage should be dealt by the <Specialization eliteSpecialization="Dragonhunter"/> with a <Skill name="Swordofjustice"/>.
 - Once the add is dead precast <Skill name="Barrage"/> on Siax for phase 3.
 
 **Phase 3**
@@ -441,12 +441,12 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 </Message>
 
-If you are playing with a <Specialization name="Dragonhunter"/> instead of a <Specialization name="Firebrand"/> you want to play <Skill name="Moastance"/> over <Skill name="Frost trap"/>. You simply use <Skill name="Moastance"/> at the beginning of each phase to help your team apply boons.
+If you are playing with a <Specialization eliteSpecialization="Dragonhunter"/> instead of a <Specialization eliteSpecialization="Firebrand"/> you want to play <Skill name="Moastance"/> over <Skill name="Frost trap"/>. You simply use <Skill name="Moastance"/> at the beginning of each phase to help your team apply boons.
 
 **Precast**
 
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and run to the boss.
+- Pick up the <Skill id="5516"/> from your <Specialization eliteSpecialization="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and run to the boss.
 - Summon <Skill id ="12497"/> as you run towards the boss orb.
 
 **Opening**
@@ -462,9 +462,9 @@ If you are playing with a <Specialization name="Dragonhunter"/> instead of a <Sp
 
 **Orb Phases**
 
-- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="renegade"/> so they can share <Boon name="alacrity"/>.
+- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization eliteSpecialization="Renegade"/> so they can share <Boon name="alacrity"/>.
 - Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to keep up <Boon name="alacrity"/> on yourself. 
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/> (this will only happen during one of the orb phases).
+- Pick up the <Skill id="5516"/> from your <Specialization eliteSpecialization="Weaver"/> (this will only happen during one of the orb phases).
 
 **66% and 33%**  
 
@@ -505,15 +505,15 @@ If you are playing with a <Specialization name="Dragonhunter"/> instead of a <Sp
 Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 </Message>
 
-Your third utility slot is different for each <Specialization name="Soulbeast"/>, one should run <Skill name="Frost spirit"/> and the other takes <Skill name="Moastance"/>.
+Your third utility slot is different for each <Specialization eliteSpecialization="Soulbeast"/>, one should run <Skill name="Frost spirit"/> and the other takes <Skill name="Moastance"/>.
 
-**Both <Specialization name="Soulbeast"/>s want to run <Trait name="Clarion Bond"/> in order to blast <Boon name="Might"/> after the orb phase.**
+**Both <Specialization eliteSpecialization="Soulbeast"/>s want to run <Trait name="Clarion Bond"/> in order to blast <Boon name="Might"/> after the orb phase.**
 
 **Precast**
 
-- Place a <Item id="78978"/> portal next to the mistlock and then run over to the boss platform, both <Specialization name="Soulbeast"/>s can precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
+- Place a <Item id="78978"/> portal next to the mistlock and then run over to the boss platform, both <Specialization eliteSpecialization="Soulbeast"/>s can precast <Skill name="Frosttrap"/> on the boss like a <Specialization eliteSpecialization="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" eliteSpecialization="Berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Both <Specialization name="Soulbeast"/>s should double share <Skill name="One wolf pack"/> at the mistlock then immediately take the <Item id="78978"/> portal back and trigger the boss.
+- Both <Specialization eliteSpecialization="Soulbeast"/>s should double share <Skill name="One wolf pack"/> at the mistlock then immediately take the <Item id="78978"/> portal back and trigger the boss.
 
 **Opening**
 
@@ -529,7 +529,7 @@ Your third utility slot is different for each <Specialization name="Soulbeast"/>
 
 **Orb Phases**
 
-- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="renegade"/> so they can share <Boon name="alacrity"/> to both <Specialization name="Soulbeast"/>s.
+- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization eliteSpecialization="Renegade"/> so they can share <Boon name="alacrity"/> to both <Specialization eliteSpecialization="Soulbeast"/>s.
 - You want to leave <Skill id="42944"/> so that it is back off cd and you can blast <Boon name="Might"/> after the orb phase.
 - Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to top up <Boon name="alacrity"/> on yourself if possible.
 
@@ -548,7 +548,7 @@ Your third utility slot is different for each <Specialization name="Soulbeast"/>
 
 **Additional Note**
 
-- In Phase 3 a <Specialization name="Soulbeast"/> should delay their <Skill name="onewolfpack"/> until just before the bubble attack finishes so that you can skip his spin attack.
+- In Phase 3 a <Specialization eliteSpecialization="Soulbeast"/> should delay their <Skill name="onewolfpack"/> until just before the bubble attack finishes so that you can skip his spin attack.
 
 </Tab>
 </Tab>
@@ -589,9 +589,9 @@ Spirit Management:
 </Message>
 
 **Precast**
-- When you are activating the Boss Challenge Mote run down to the boss platform and precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Then /gg and wait up by the Mote until you are ready to precast.
+- When you are activating the Boss Challenge Mote run down to the boss platform and precast <Skill name="Frosttrap"/> on the boss like a <Specialization eliteSpecialization="Dragonhunter"/> in disguise. Then /gg and wait up by the Mote until you are ready to precast.
 - When you are ready to precast summon your <Skill name="Frostspirit"/> next to the Mote then run down and begin precasting with your party. Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock.
+- Pick up the <Skill id="5516"/> from your <Specialization eliteSpecialization="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock.
 - Use <Skill id="5697"/> (Fiery Greatsword skill 3) to get down to the platform, teleport your <Skill name="Frostspirit"/> down to the platform then precast <Skill id="5531"/>, <Skill name="Barrage"/> and swap to sword/axe.
 
 **Opening**
@@ -645,14 +645,14 @@ Make sure to use [consumables](/guides/consumables) to CC the adds!
 **Precast**
 
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and run and <Effect name="hypernovalaunch"/> over to the boss platform.
+- Pick up the <Skill id="5516"/> from your <Specialization eliteSpecialization="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and run and <Effect name="Hypernovalaunch"/> over to the boss platform.
 
 **Opening**
 
 - Summon <Skill name="Frost Spirit"/> in middle before someone starts the encounter.
 - As soon as someone catches an orb, use <Skill id="5531"/> and <Skill name="Barrage"/>.
 - Use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
-- Use <Skill name="Rapid fire"/>, turn around not to get feared, then <Effect name="hypernovalaunch"/> to the corner.
+- Use <Skill name="Rapid fire"/>, turn around not to get feared, then <Effect name="Hypernovalaunch"/> to the corner.
 - Use <Skill name="Cold Snap"/> to call your spirit to the corner.
 - When she reaches the side use <Skill name="Sicem"/>, <Skill name="onewolfpack"/> and <Skill name="Worldlyimpact"/>.
 - <Skill name="pathofscars"/> to help CC.
@@ -663,7 +663,7 @@ Make sure to use [consumables](/guides/consumables) to CC the adds!
 
 Use [consumables](/guides/consumables) to CC the adds.
 - Make sure you are on longbow for the next phase.
-- Pick up the <Skill id="5516"/> if your <Specialization name="Weaver"/> places one for you.
+- Pick up the <Skill id="5516"/> if your <Specialization eliteSpecialization="Weaver"/> places one for you.
 
 **66% and 33%**
 
@@ -672,7 +672,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Once she becomes vulnerable use <Skill name="Rapid fire"/> **(do not use <Skill name="sicem"/> here)**.
 - Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - <Skill id="43548"/> then <Skill name="Worldlyimpact"/>.
-- <Effect name="hypernovalaunch"/> to the corner.
+- <Effect name="Hypernovalaunch"/> to the corner.
 - <Skill name="Cold Snap"/> when you can to call your spirit to the middle.
 - <Skill name="Rapid fire"/> and <Skill name="sicem"/>.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
@@ -712,7 +712,7 @@ Make sure to use [consumables](/guides/consumables) to CC the adds!
 
 - Precast <Skill id="12492"/> between two Artsariiv clones in the northwest from her and go back to mistlock.
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
+- Pick up the <Skill id="5516"/> from your <Specialization eliteSpecialization="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
 
 **Opening**
 
@@ -720,7 +720,7 @@ Make sure to use [consumables](/guides/consumables) to CC the adds!
 - As soon as someone catches an orb, use <Skill id="5531"/> and <Skill name="Barrage"/>. Cast <Skill name="sicem"/> while channeling <Skill name="Barrage"/>.
 - Use <Skill name="onewolfpack"/> (make sure to finish <Skill name="Barrage"/> cast, because if you cancel it even by a little, it does no damage!), then swap to axes and use <Skill name="wintersbite"/>, start walking behind the boss, cast <Skill name="pathofscars"/> while walking and <Skill name="Whirlingdefense"/>.
 - Finish <Skill name="Whirlingdefense"/> cast, then <Skill name="Worldlyimpact"/>, start following the boss to avoid getting knocked down by an orb, <Skill name="frenziedattack"/> and <Skill name="	rapidfire"/> as she jumps to the side.
-- If she reaches the corner, dodge or use <Effect name="hypernovalaunch"/> to avoid the slam wave and auto-attack until she phases.
+- If she reaches the corner, dodge or use <Effect name="Hypernovalaunch"/> to avoid the slam wave and auto-attack until she phases.
 
 **Add CC Phase**
 
@@ -732,14 +732,14 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Precast <Skill name="Barrage"/> before Artsariiv becomes vulnerable, <Skill name="sicem"/> as soon as it's off cooldown, <Skill id="12492"/>,  <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>, then <Skill name="Rapid fire"/>. Cancel <Skill name="Rapid fire"/> around mid cast and swap to axes.
 - <Skill name="wintersbite"/>, <Skill name="pathofscars"/>, dodge the slam and <Skill name="Whirlingdefense"/>.
 - Autoattack with axes before Artsariiv reaches corner. **Make sure to look away when she actually fires the laser so you don't get <Condition name="Fear"/>ed.**
-- Wait in the middle for your team to stack <Boon name="Might"/>, then use <Effect name="hypernovalaunch"/> to the corner to avoid the slam wave.
+- Wait in the middle for your team to stack <Boon name="Might"/>, then use <Effect name="Hypernovalaunch"/> to the corner to avoid the slam wave.
 - Use <Skill name="frenziedattack"/>, and <Skill name="Worldlyimpact"/>, followed by <Skill name="Point Blank Shot"/> and <Skill name="Rapid fire"/> until she phases.
 
 **Add CC Phase**
 
 Use [consumables](/guides/consumables) to CC the adds.
 - Stay on longbow for the next phase.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>.
+- Pick up the <Skill id="5516"/> from your <Specialization eliteSpecialization="Weaver"/>.
 
 **33%**
 
@@ -773,9 +773,9 @@ Use [consumables](/guides/consumables) to CC the adds.
 <Divider text="HOW TO PLAY"/>
 **Precast**
 
-- Place a portal next to the mistlock and use <Effect name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
+- Place a portal next to the mistlock and use <Effect name="Hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization eliteSpecialization="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" eliteSpecialization="Berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
+- Pick up the <Skill id="5516"/> from your <Specialization eliteSpecialization="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
 - Precast <Skill id="5531"/> and <Skill name="Barrage"/> before the boss is activated.
 
 **Opening**
@@ -801,9 +801,9 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 **Archdiviner Phase**
 
-The <Specialization name="weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
+The <Specialization eliteSpecialization="Weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
 - You can use <Skill name="Fieryrush"/> or <Skill name="Worldlyimpact"/> if it's off cooldown  to damage the Archdiviner. 
-- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing. Dodge backwards through the boss after using it as there will be a laser beam which fears.
+- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="Hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing. Dodge backwards through the boss after using it as there will be a laser beam which fears.
 - When the Archdiviner dies, precast <Skill id="5531"/> -> <Skill name="Barrage"/> -> <Skill name="Frosttrap"/>.
 
 **70-50%**
@@ -857,8 +857,8 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 
 - Resummon your <Skill name="Frost spirit"/> whenever you have downtime when you can't attack (i.e. whilst you are waiting for Arkk, the Archdiviner or Gladiator to spawn on the platform or during an orb phase if you have the time).
 - Wherever possible you should try to hit multiple targets with your <Skill name="Pathofscars"/>. 
-  - This can mean hitting an anomaly to help your <Specialization name="renegade"/> kill it.
-  - You can also pull the adds from the Archdiviner and Gladiator phase since your <Specialization name="Firebrand"/> can only pull two at a time.
+  - This can mean hitting an anomaly to help your <Specialization eliteSpecialization="Renegade"/> kill it.
+  - You can also pull the adds from the Archdiviner and Gladiator phase since your <Specialization eliteSpecialization="Firebrand"/> can only pull two at a time.
   - Pulling the adds is also great since they can hurt your teams <Item id="24836"/> uptime.
   - If you are good at tagging multiple targets then you can even run <Item id="43360"/>.
   - If you drop on quickness for some reason, make sure to use <Skill name="Worldlyimpact"/> before bursting to get yourself some.

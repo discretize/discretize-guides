@@ -34,7 +34,7 @@ This is an underwater fractal. Make sure you have approriate underwater equipmen
 
 <Grid>
 <GridItem sm="8">
-You can stack <Boon name="might"/> on the rack before entering the water. Kill the two groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
+You can stack <Boon name="Might"/> on the rack before entering the water. Kill the two groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
 
 <Tabs>
 <Tab specialization="weaver">
@@ -52,7 +52,7 @@ You can retrait to Tempest for this fractal as it is one of the best choices for
 </Tab>
 
 <Tab specialization="warrior">
-Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="fury"/> and <Boon name="might"/>.
+Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="Fury"/> and <Boon name="Might"/>.
 </Tab>
 
 <Tab specialization="reaper">

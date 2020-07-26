@@ -11,29 +11,29 @@ description: 'Use blasts and combo fields to stack large amounts of Might, Fury,
 
 ## Blast Finishers
 
-Blast finishers can be used to stack group buffs on certain Combo Fields. The most common applications are <Boon name="might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
+Blast finishers can be used to stack group buffs on certain Combo Fields. The most common applications are <Boon name="Might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="Stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
 Below is a list of frequently used blast finishers among all professions. Note that it is often required to swap to different weapons, make sure to swap back before you enter combat.
 
 ---
 
-### <Boon name="might"/> stacking for groups using <Skill name="Moa Stance"/> from <Specialization name="soulbeast"/>.
-- <Specialization name="renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
-- <Specialization name="firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5) and <Skill name="Mighty Blow"/> (Hammer 2)
-- <Specialization name="berserker"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
-- <Specialization name="weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
-- <Specialization name="soulbeast"/>: Take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer, use <Skill id="12621"/> (Warhorn 5)
+### <Boon name="Might"/> stacking for groups using <Skill name="Moa Stance"/> from <Specialization eliteSpecialization="Soulbeast"/>.
+- <Specialization eliteSpecialization="Renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
+- <Specialization eliteSpecialization="Firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5) and <Skill name="Mighty Blow"/> (Hammer 2)
+- <Specialization eliteSpecialization="Berserker"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
+- <Specialization eliteSpecialization="Weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
+- <Specialization eliteSpecialization="Soulbeast"/>: Take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer, use <Skill id="12621"/> (Warhorn 5)
 
 
 
 
 ---
 
-### <Boon name="might"/> stacking if you are alone
+### <Boon name="Might"/> stacking if you are alone
 
 (These are just examples, there are different ways to blast Might)
 
-- <Specialization name="weaver"/>:
+- <Specialization eliteSpecialization="Weaver"/>:
 
   - 10 step <Boon name="Might"/> stack (There are multiple paths you can pick to blast might, this is only an example)
 
@@ -62,7 +62,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
     6. Swap to Focus
     7. <Skill id="5555"/> (Focus 4)
 
-- <Specialization name="warrior"/>:
+- <Specialization name="Warrior"/>:
   - <Skill id="14393"/> (Warhorn 4)
   - <Skill id="14394"/> (Warhorn 5)
   - <Skill id="14381"/> (Longbow 3)
@@ -72,7 +72,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
 - <Specialization name="ranger"/>:
   - <Skill id="12621"/> (Warhorn 5)
   - <Skill id="31535"/> (Staff 3)
-- <Specialization name="guardian"/>:
+- <Specialization name="Guardian"/>:
   - <Skill id="9140"/> (Staff 2)
   - <Skill id="9194"/> (Hammer 2)
   - <Skill id="9082"/> (Focus 5)
@@ -81,7 +81,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
 
 ---
 
-### Fire fields <Label><Boon name="might"/> stacking</Label>
+### Fire fields <Label><Boon name="Might"/> stacking</Label>
 
 Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone is back on their main weapon set before starting a fight.**
 
@@ -89,18 +89,18 @@ Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone 
   - <Skill id="5548"/> (Staff 2, <Skill id="5492" disableText/>)
   - <Skill id="5691"/> (Dagger 4, <Skill id="5492" disableText/>)
   - <Skill id="5497"/> (Focus 4, <Skill id="5492" disableText/>)
-  - <Skill id="29533"/> (Warhorn 5, <Skill id="5492" disableText/>, <Specialization disableText name="tempest"/>)
-- <Specialization name="berserker"/>:
+  - <Skill id="29533"/> (Warhorn 5, <Skill id="5492" disableText/>, <Specialization disableText eliteSpecialization="Tempest"/>)
+- <Specialization eliteSpecialization="Berserker"/>:
   - <Skill id="29940"/> (Torch 5)
 - <Specialization name="ranger"/>:
   - <Skill id="12504"/> (Torch 5)
-- <Specialization name="Firebrand"/>:
+- <Specialization eliteSpecialization="Firebrand"/>:
   - <Skill id="44364"/> Skill 4 (Chapter 4: Scorched Aftermath)
   - <Skill id="9253"/>
 
 ---
 
-### Smoke fields <Label><Effect name="stealth"/> stacking</Label>
+### Smoke fields <Label><Effect name="Stealth"/> stacking</Label>
 
 Below is a list of regularly used _Smoke Field_ skills. Be careful not to aggro mobs with blasts or you will get <Effect name="revealed"/>.
 
@@ -112,7 +112,7 @@ Below is a list of regularly used _Smoke Field_ skills. Be careful not to aggro 
 - <Specialization name="engineer"/>:
   - <Skill id="5824"/> (Bomb kit)
 
-#### Other skills that grant party <Effect name="stealth"/>
+#### Other skills that grant party <Effect name="Stealth"/>
 
 - <Specialization name="mesmer"/>:
   - <Skill id="10245"/>

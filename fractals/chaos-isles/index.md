@@ -49,7 +49,7 @@ Kill the four *Veteran Chanters* at the beginning to open the gate on the right-
 
 <Grid>
 <GridItem>
-Stack <Boon name="might"/> before the four *K1T-A golems* and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health.
+Stack <Boon name="Might"/> before the four *K1T-A golems* and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health.
 
 Pay attention to the <Control name="knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
 </GridItem>
@@ -85,7 +85,7 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 
 You will need to enlighten four *bonfires* on the path to progress to the end boss, **the *Enlighten* charges have unlimited use so this can be soloed** but if you want to be safe simply wait for everyone.
 
-You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. 
+You can stack <Effect name="Stealth"/> to skip the mobs though it usually is not necessary. 
 Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
 
 </GridItem>
@@ -99,7 +99,7 @@ Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <I
 ## Legendary Brazen Gladiator  
   
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.    
-He will also apply a group-wide <Control name="daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and invulnerables or simply do not stand in front of him when it hits. Learn to recognize the animation.
+He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and invulnerables or simply do not stand in front of him when it hits. Learn to recognize the animation.
 
 Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.  
 Another trick is to bypass the damage from purple zones by repeated jumping.
@@ -114,7 +114,7 @@ Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Con
 <GridItem sm="4">
 <Tabs>
 <Tab specialization="Revenant">
-Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="daze"/>.
+Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="Daze"/>.
 </Tab>
 </Tabs> 
   

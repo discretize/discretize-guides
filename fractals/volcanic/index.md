@@ -33,7 +33,7 @@ consumables: [78978, 49940]
 <Grid>
 <GridItem sm="6">
 
-While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="Renegade"/> but anyone can run) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can portal after the section is completed and resurrect to skip the Boulder passage. <Specialization name="elementalist"/> can precast strong DPS skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear. You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster. <Specialization name="berserker"/> can equip a greatsword and <Skill name="bloodreckoning"/> for 2x <Skill name="arcdivider"/>! 
+While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization eliteSpecialization="Renegade"/> but anyone can run) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can portal after the section is completed and resurrect to skip the Boulder passage. <Specialization name="elementalist"/> can precast strong DPS skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear. You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster. <Specialization eliteSpecialization="Berserker"/> can equip a greatsword and <Skill name="bloodreckoning"/> for 2x <Skill name="arcdivider"/>! 
 </GridItem>
 
 <GridItem sm="6">
@@ -75,7 +75,7 @@ Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to ke
 <GridItem sm="7">
 ## Grawl Shaman <Item id="8890" disableText/><Item id="24648" disableText/> 
  
-Kill the _Veteran Grawl Shamans_ to prevent them from sacrificing the captives. Control effects like <Control name="stun"/> and <Condition name="immobile"/> hinder them from reaching the edge.
+Kill the _Veteran Grawl Shamans_ to prevent them from sacrificing the captives. Control effects like <Control name="Stun"/> and <Condition name="Immobile"/> hinder them from reaching the edge.
 
 You will need to throw eight _Infused Stones_ at the bubble protecting the Grawl Shaman boss to break it and make him vulnerable. The stones spawn on rockfalls, wait until the falling animation finishes and dodge into it to collect it. You can ping the Grawl Shaman (`Ctrl + T`) for easy targeting.
 
@@ -91,7 +91,7 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 
 <Grid>
 <GridItem sm="8">
-**Take the shortcut on the right-hand side down, jump into the lava then run and jump to the final platform to trigger the next checkpoint**, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="might"/> and jump down to the Imbued Shaman (the bat follows you to the end of the walkway, but it takes 10 or more seconds to reach it. Make sure you have the boons stacked and are on the correct weapon before she flies in you fire field).
+**Take the shortcut on the right-hand side down, jump into the lava then run and jump to the final platform to trigger the next checkpoint**, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="Might"/> and jump down to the Imbued Shaman (the bat follows you to the end of the walkway, but it takes 10 or more seconds to reach it. Make sure you have the boons stacked and are on the correct weapon before she flies in you fire field).
 
 Every 25% health, it gains a protective bubble and starts moving to a random villager. It will heal for about 20% health if it reaches their target, so break the bubble quickly by casting 40 offensive abilities while targeting the Imbued Shaman (you actually don't have to hit him). Try to keep him in the center as the villagers are located at the edge of the area.
 

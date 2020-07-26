@@ -14,11 +14,11 @@ code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 
 <Tabs>
 <Tab title="Build">
-The **<Specialization text="Condi Firebrand" name="firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high DPS consistent DPS. In organized teams this build is inferior to <Specialization name="firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very high damage making your DPS players sweat. 
+The **<Specialization text="Condi Firebrand" eliteSpecialization="Firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high DPS consistent DPS. In organized teams this build is inferior to <Specialization eliteSpecialization="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very high damage making your DPS players sweat. 
 
 Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies.
 
-One main downside of <Specialization text="Condi Firebrand" name="firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 Power buff provided by <Skill name="Bane Signet"/>.
+One main downside of <Specialization text="Condi Firebrand" eliteSpecialization="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 Power buff provided by <Skill name="Bane Signet"/>.
 
 <Divider text="Equipment"/>
 
@@ -34,7 +34,7 @@ Note that this build variant gains boon duration from the <Item id="79722"/> and
 
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM.
-* A staff for <Boon name="might"/> pre-stacking.
+* A staff for <Boon name="Might"/> pre-stacking.
 </Card>
 </GridItem>
 
@@ -62,8 +62,8 @@ Note that this build variant gains boon duration from the <Item id="79722"/> and
 | -- | -- |
 | <Skill id="9093" size="big" disableText/> | 300 defiance bar damage as well as grants 216 power to your allies if traited with <Trait name="Perfectinscriptions"/>. |
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally, useful for skips for teleporting to a spirit weapon. |
-| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
-| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stunbreak is needed. |
+| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stunbreak is needed. |
+| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stunbreak is needed. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
 
@@ -83,7 +83,7 @@ To keep up <Boon name="Quickness"/>:
 - Use <Skill name="Feel My Wrath"/> whenever ready
 - Use <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> but leave one charge left (unless the fight is close to being over). Keep in mind that you can use <Skill name="Restoring Reprieve"/> only every seven seconds (<Trait name="liberatorsvow"/>)!
 - Only use these skills close to your allies - try to "puke" on them with the mantras
-- Keep in mind that equipping or stowing a tome grants you 3 seconds of <Boon name="quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
+- Keep in mind that equipping or stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
@@ -94,7 +94,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - Skill 2: Two stacks of <Condition name="burning"/>
   - Skill 3: An AoE pull
   - Skill 4: High power damage skill, applies four stacks of <Condition name="burning"/>.
-  - Skill 5: Your bread and butter as <Specialization text="Condi Firebrand" name="firebrand"/>: Share Ashes of the Just with allies applying a magnitude of <Condition name="burning"/>.
+  - Skill 5: Your bread and butter as <Specialization text="Condi Firebrand" eliteSpecialization="Firebrand"/>: Share Ashes of the Just with allies applying a magnitude of <Condition name="burning"/>.
 - <Skill name="Tome of Resolve"/> (F2):
   - Skill 2 is a party condition cleanse
   - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
@@ -103,7 +103,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 - <Skill name="Tome of Courage"/> (F3):
   - Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
   - Skill 3 is a 5s reflect
-  - Skill 4 grants <Boon name="resistance"/> and breaks stun
+  - Skill 4 grants <Boon name="Resistance"/> and breaks stun
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
 </Card>

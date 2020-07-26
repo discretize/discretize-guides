@@ -31,11 +31,11 @@ consumables: [78978]
 <GridItem sm="8">
 ## Running the wisps  
   
-Trigger the start event by walking to the three *Wisp Clefts* in the South. Wait for three players to be ready at each of the randomly spawned Wisps, usually indicated by typing `ready` in chat. Count down to go and deliver the Wisps to the Clefts within 30 seconds while avoiding <Condition name="stun"/>, <Condition name="immobile"/> and <Condition name="crippled"/> from the spike, wire and hunting traps on the ground.
+Trigger the start event by walking to the three *Wisp Clefts* in the South. Wait for three players to be ready at each of the randomly spawned Wisps, usually indicated by typing `ready` in chat. Count down to go and deliver the Wisps to the Clefts within 30 seconds while avoiding <Condition name="Stun"/>, <Condition name="Immobile"/> and <Condition name="crippled"/> from the spike, wire and hunting traps on the ground.
 
 Learn and practice to jump over the emerging walls, for nearly every wall there is an easy spot to skip over it.
 
-The remaining two players can take the _Invigorator Rifle Prototypes_ from the ground and use `Skill 3` to grant <Boon name="stability"/> to the Wisp runners. Note that it is possible to carry the Wisp from the farthest point without using any movement skills.
+The remaining two players can take the _Invigorator Rifle Prototypes_ from the ground and use `Skill 3` to grant <Boon name="Stability"/> to the Wisp runners. Note that it is possible to carry the Wisp from the farthest point without using any movement skills.
 
 <Image src="./images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
 </GridItem>
@@ -74,7 +74,7 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 
 <Grid>
 <GridItem sm="8">
-In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the _Mistlock Singularity_ insite the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
+In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="Stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the _Mistlock Singularity_ insite the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
 <Message>  
 **Beware, there is a wisp that has <Effect name="invulnerability"/> and can attack you, putting you in combat during pre-stack**!
 </Message>
@@ -93,7 +93,7 @@ In the passage, the Mossman is waiting to fight you. You can break his defiance 
 <GridItem sm="8">
 Activate the encounter by placing the nearby Wisp into an empty Wisp Cleft. Bloomhunger (and all trash mobs) are only vulnerable inside the active Wisp Cleft area, additionally all players gain 100% increased endurance regeneration from it. The active area switches clockwise, move to the next position as soon as it decreases in size.
 
-When Bloomhunger casts _Poison Rain_, immediately break his defiance bar (especially at the start of the fight) and nuke him to 75%/50%/25% life. Avoid his _Leap_ and _Charge_ attacks to prevent being <Control name="knockdown"/>ed.
+When Bloomhunger casts _Poison Rain_, immediately break his defiance bar (especially at the start of the fight) and nuke him to 75%/50%/25% life. Avoid his _Leap_ and _Charge_ attacks to prevent being <Control name="Knockdown"/>ed.
 
 ### Spirit Onslaught <Label>75%, 50%</Label>
 
@@ -120,7 +120,7 @@ Take <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade St
  
 <Tabs> 
 <Tab specialization="Tempest">
-Use <Specialization name="Tempest"/> for this fight and <Skill id="22572"/> for better cleave during the Spirit Onslaught phases.
+Use <Specialization eliteSpecialization="Tempest"/> for this fight and <Skill id="22572"/> for better cleave during the Spirit Onslaught phases.
 </Tab>
 </Tabs>
 

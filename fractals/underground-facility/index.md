@@ -70,10 +70,10 @@ There are two ways to do this. For the faster way you require <Item id="78978"/>
 
 |                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Preparation**               | The best way - as usual - is to stack <Effect name="stealth"/> on the platform before jumping down and not killing a single mob. Clarify this before running ahead and assign people for the roles below.<br/>Standing on the first pressure plate grants access to the second pressure plate, the second pressure plate grants access to the console room and the two pressure plates in the console room grant access to the console locker. A player needs about 20 seconds to activate the final console without interruption.                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **The First Pressure Plate**  | The best option is to let the most 'useless' class walk up with a little head start (usually the <Specialization name="warrior"/>).<br/>The rest of the party should keep <Effect name="stealth"/> up and run through the open gate below immediately.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **The Second Pressure Plate** | This is usually done by an <Specialization name="elementalist"/> who teleports up from below while the others keep up <Effect name="stealth"/>.<br/>Other option is <Specialization name="thief"/> who can even come back easily for the console room using <Skill id="13106"/> or <Skill id="10197"/> respectively.<br/>**Activating the second pressure plate permanently opens the first door.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **The Console Room**          | Two people without special abilities should step on the two pressure plates to open the console locker. They are also responsible for keeping aggro from the opener, especially the spawning _Veteran Dredge_ next to the locker.<br/>Now for the actual console, <Item id="8686"/> and other <Effect name="stealth"/> sources are very strong. It should be activated by someone who's able to block the <Control name="knockback"/> from the locker closing, so the other two people can step off the pressure plates and protect the opener from the spawning mobs. The opener should indicate the step off in chat to time it with block skills.<br/>**The whole party can do `/gg` after the console is done, but it is not necessary**. |
+| **Preparation**               | The best way - as usual - is to stack <Effect name="Stealth"/> on the platform before jumping down and not killing a single mob. Clarify this before running ahead and assign people for the roles below.<br/>Standing on the first pressure plate grants access to the second pressure plate, the second pressure plate grants access to the console room and the two pressure plates in the console room grant access to the console locker. A player needs about 20 seconds to activate the final console without interruption.                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **The First Pressure Plate**  | The best option is to let the most 'useless' class walk up with a little head start (usually the <Specialization name="Warrior"/>).<br/>The rest of the party should keep <Effect name="Stealth"/> up and run through the open gate below immediately.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **The Second Pressure Plate** | This is usually done by an <Specialization name="elementalist"/> who teleports up from below while the others keep up <Effect name="Stealth"/>.<br/>Other option is <Specialization name="thief"/> who can even come back easily for the console room using <Skill id="13106"/> or <Skill id="10197"/> respectively.<br/>**Activating the second pressure plate permanently opens the first door.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **The Console Room**          | Two people without special abilities should step on the two pressure plates to open the console locker. They are also responsible for keeping aggro from the opener, especially the spawning _Veteran Dredge_ next to the locker.<br/>Now for the actual console, <Item id="8686"/> and other <Effect name="Stealth"/> sources are very strong. It should be activated by someone who's able to block the <Control name="knockback"/> from the locker closing, so the other two people can step off the pressure plates and protect the opener from the spawning mobs. The opener should indicate the step off in chat to time it with block skills.<br/>**The whole party can do `/gg` after the console is done, but it is not necessary**. |
 
 <Grid>
 <GridItem sm="8">
@@ -87,11 +87,11 @@ Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.
 </Tab>
 
 <Tab specialization="thief">
-Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> to stack <Effect name="stealth"/>. <Skill id="13027"/> and <Skill id="13117"/> combined with <Trait id="1136"/> provide enough <Effect name="stealth"/> to completely activate the console.
+Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> to stack <Effect name="Stealth"/>. <Skill id="13027"/> and <Skill id="13117"/> combined with <Trait id="1136"/> provide enough <Effect name="Stealth"/> to completely activate the console.
 </Tab>
 
 <Tab specialization="ranger">
-Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
 </GridItem>
@@ -110,11 +110,11 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 
 <Grid>
 <GridItem sm="8">
-After resurrecting, skip the mobs with <Effect name="stealth"/> and the guns or nine bombs to destroy the gate.
+After resurrecting, skip the mobs with <Effect name="Stealth"/> and the guns or nine bombs to destroy the gate.
 
 On the **rifles** path you lose all your endurance and therefore you are unable to dodge. Walk to the gate with an equipped rifle and avoid the orange AoEs on the ramp. If you get hit by an AoE the rifle is no longer usable and you have to pick up a new one. Use the rifle skill 1 to damage the gate. Note that using a portal with a new rifle causes it to become unusable. **Only use a portal to get back from the gate.**
 
-On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and** at the end to permanently keep <Effect name="stealth"/> up on yourself. Same applies if you gain aggro of any mob, just walk into a <Effect name="stealth"/> zone.
+On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and** at the end to permanently keep <Effect name="Stealth"/> up on yourself. Same applies if you gain aggro of any mob, just walk into a <Effect name="Stealth"/> zone.
 <Message>
 **You can use portals and blinks/teleports with bombs**
 </Message>
@@ -125,7 +125,7 @@ On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and*
   
 <Tabs>
 <Tab specialization="thief">
-Cast <Skill id="13117"/> for immediate <Effect name="stealth"/>.
+Cast <Skill id="13117"/> for immediate <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
 </GridItem>
@@ -156,7 +156,7 @@ Skip here by one of the classes below:
 
 <Grid>
 <GridItem sm="7">
-If you did not skip, stack <Effect name="stealth"/> and skip towards the Endboss together.
+If you did not skip, stack <Effect name="Stealth"/> and skip towards the Endboss together.
 
 After loosing potential aggro of the mobs from the corridor, pull the boss to the next lava bucket, trigger it to inflict _Superheated_ for 10x damage and nuke. Stay on the boss as long as possible before moving to the next bucket but pay attention to his _Mending_ heal skill, which can be interrupted by simply attacking him as long as the Superheated debuff is up.
 

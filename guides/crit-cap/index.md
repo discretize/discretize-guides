@@ -20,7 +20,7 @@ You can subtract the following values in general:
 - **1000 base Precision** at level 80
 - 20% Critical Chance from **<Boon name="Fury"/>** (= **420 Precision**)
 - **100 Precision** from **<Skill name="Banner of Discipline"/>**
-- In groups with a <Specialization name="Druid"/>: **100 Precision** from **<Trait name="Spotter"/>**
+- In groups with a <Specialization eliteSpecialization="Druid"/>: **100 Precision** from **<Trait name="Spotter"/>**
 
 Which brings it down to **1475 Precision** or **1375 Precision** required (with <Trait name="Spotter"/>).
 

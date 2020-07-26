@@ -29,13 +29,13 @@ record:
   
 ## Start: Run!  
   
-Let your <Specialization name="Renegade"/> skip the first part or use <Effect name="stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders. If the instabilities are too harsh, you can take your time killing them as some of them will follow you to the first Sand Binder but it will make the fractal way longer than it should be!
+Let your <Specialization eliteSpecialization="Renegade"/> skip the first part or use <Effect name="Stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders. If the instabilities are too harsh, you can take your time killing them as some of them will follow you to the first Sand Binder but it will make the fractal way longer than it should be!
 </GridItem>
 
 <GridItem sm="5">
 <Tabs>
 <Tab specialization="Soulbeast">
-Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/>.
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
 
@@ -47,7 +47,7 @@ It is worth to run <Skill name="arcane wave"/> for the whole fractal for more <B
 
 <Tabs>
 <Tab specialization="Daredevil">
-Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
 </GridItem>
@@ -67,7 +67,7 @@ You can skip this first part with <Item id="78978"/>.
 ## First Sandbinder
 
 <Grid>
-Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="pull"/> abilities will cancel any attack currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/> and <Specialization name="berserker"/>'s cooldowns for the Amala fight.
+Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="Pull"/> abilities will cancel any attack currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/> and <Specialization eliteSpecialization="Berserker"/>'s cooldowns for the Amala fight.
 
 <Boon name="aegis"/> is not helpful here as the _Tornadoes_ quickly remove it.
 </Grid>
@@ -95,7 +95,7 @@ You can freely use `/gg` after she downs the party to reset cooldowns, just wait
 
 <Grid>
 <GridItem sm="7">
-Now that you're awakened, you gain access to a new special action skill which launches you high into the air and breaks <Control name="stun"/>. It doesn't have a cooldown out of combat so do not get in fight during skips if possible.
+Now that you're awakened, you gain access to a new special action skill which launches you high into the air and breaks <Control name="Stun"/>. It doesn't have a cooldown out of combat so do not get in fight during skips if possible.
     
 It can also be used to jump while casting any skill that requires you to stand still otherwise, as long as you do not move in any direction (<Skill id="5501" profession="Weaver"/> and similar skills).
 
@@ -134,7 +134,7 @@ Please note that you can't `/gg` after any Sandbinder, because you spawn behind 
 <Message>
 **Bring boon removal because she is spamming <Boon name="Protection"/> on herself like there is no tomorrow!**  
 </Message>  
-Stack <Boon name="might"/> and be ready to dodge the initial <Control name="knockback"/> after activating the encounter.
+Stack <Boon name="Might"/> and be ready to dodge the initial <Control name="knockback"/> after activating the encounter.
 
 <Grid>
 <GridItem sm="9">
@@ -175,31 +175,31 @@ Amala turns invulnerable and leaves a _Priestess of Lyssa_ behind who uses the s
 
 The biggest danger of this phase is the _Earth Elemental_, which has a multitude of control effects it applies in AoEs. While killing it is possible this is hardly an effective option, so you can either get the player it fixates on to run off the party stack, or use blocks and evades as necessary to avoid its attacks. Be aware that its _Boulder Throw_ projectile can be reflected.
 
-In this phase, Amala's **Scythe Combo** AoEs apply a small <Control name="knockback"/>, but many of them can be avoided by stacking directly on her. Make sure to dodge the _Eruption_ (delayed AoE appearing below random players) and ring-shaped attacks, as they <Control name="knockdown"/> as well.
+In this phase, Amala's **Scythe Combo** AoEs apply a small <Control name="knockback"/>, but many of them can be avoided by stacking directly on her. Make sure to dodge the _Eruption_ (delayed AoE appearing below random players) and ring-shaped attacks, as they <Control name="Knockdown"/> as well.
 
 <Image src="./images/amala.jpg" caption="Amala invoking the human gods"/>
 
 #### Priestess of Melandru
 
-This priestess will cast a rectangular AoE between herself and Amala, avoid running over them so they don't <Control name="knockback"/> you away from the priestess' alcove. The priestess will also use Avatar of Melandru to gain <Boon name="stability"/> and inflict <Condition name="immobile"/>. Similar to Amala, two smaller _Earth Elementals_ will spawn to to protect her.
+This priestess will cast a rectangular AoE between herself and Amala, avoid running over them so they don't <Control name="knockback"/> you away from the priestess' alcove. The priestess will also use Avatar of Melandru to gain <Boon name="Stability"/> and inflict <Condition name="Immobile"/>. Similar to Amala, two smaller _Earth Elementals_ will spawn to to protect her.
 
 ### Dwayna <Label>65%-45%</Label>
 
-Amala will periodically gain <Boon name="swiftness"/>, <Boon name="aegis"/>, <Boon name="protection"/> and <Boon name="might"/> (10x) throughout this phase, with one application every 10 seconds. Additionally, at this stage of the fight all members of the party are given the Determination buff - should you slay the Priestess of Dwayna, all party members will be revived.
+Amala will periodically gain <Boon name="swiftness"/>, <Boon name="aegis"/>, <Boon name="Protection"/> and <Boon name="Might"/> (10x) throughout this phase, with one application every 10 seconds. Additionally, at this stage of the fight all members of the party are given the Determination buff - should you slay the Priestess of Dwayna, all party members will be revived.
 
-In this phase, Amala's **Scythe Combo** AoEs apply a short <Control name="daze"/> and a stack of <Condition name="bleeding"/>.
+In this phase, Amala's **Scythe Combo** AoEs apply a short <Control name="Daze"/> and a stack of <Condition name="bleeding"/>.
 
 There are far more attacks that occur directly on top of Amala in this phase, but there is less incoming CC so they can be healed through in general. The group will still need to spread out during the _Lightning Storm_ attack as it cannot be blocked with <Boon name="aegis"/>.
 
-After Amala drops to 60% health, she will start summoning five tornadoes. Much like the ones summoned by the Sandbinders, they will draw your character toward their center and apply damage and <Condition name="blind"/> to those inside of their AoE.
+After Amala drops to 60% health, she will start summoning five tornadoes. Much like the ones summoned by the Sandbinders, they will draw your character toward their center and apply damage and <Condition name="Blind"/> to those inside of their AoE.
 
 #### Priestess of Dwayna
 
-The Priestess of Dwayna only has one attack which cannot be interrupted: a different iteration of the Lightning Strikes attack. Unlike Amala's, these strikes will land randomly, so the best way to deal with them is to remain near the edge of the alcove where you're less likely to be hit. Also be aware that when engaged the priestess gains <Boon name="retaliation"/>, <Boon name="protection"/> and <Boon name="regeneration"/>.
+The Priestess of Dwayna only has one attack which cannot be interrupted: a different iteration of the Lightning Strikes attack. Unlike Amala's, these strikes will land randomly, so the best way to deal with them is to remain near the edge of the alcove where you're less likely to be hit. Also be aware that when engaged the priestess gains <Boon name="retaliation"/>, <Boon name="Protection"/> and <Boon name="regeneration"/>.
 
 ### Grenth <Label>45%-25%</Label>
 
-Amala will periodically gain <Boon name="swiftness"/> and <Boon name="might"/> (15x) during this phase while dealing <Condition name="poison"/>, <Condition name="torment"/> and <Condition name="chilled"/> with her scythe attack chain.
+Amala will periodically gain <Boon name="swiftness"/> and <Boon name="Might"/> (15x) during this phase while dealing <Condition name="poison"/>, <Condition name="torment"/> and <Condition name="chilled"/> with her scythe attack chain.
 
 This is another phase that for the most part can be stacked and DPSd through, as it has very little CC involved. The biggest danger of this phase however is the _Claim Soul_ attack, recognizable by a small orange AoE - it is unblockable and will immediately send you into downed state.
 
@@ -211,7 +211,7 @@ The next priestess applies <Condition name="bleeding"/>, <Condition name="crippl
 
 ### Balthazar <Label>25%-5%</Label>
 
-During this phase, Amala will periodically receive <Boon name="protection"/>, <Boon name="swiftness"/> and <Boon name="might"/> (10x).
+During this phase, Amala will periodically receive <Boon name="Protection"/>, <Boon name="swiftness"/> and <Boon name="Might"/> (10x).
 
 While for the most part Amala's attacks can be healed through this phase, some of her attacks are devastating as they have large telegraphs like _Meteor Strike_ and _Wings of Rage_. As such, try to reposition out of AoEs as necessary.
 
@@ -219,7 +219,7 @@ Do not try to tank her _Fire Arrows_ (telegraphed by a circle AoE on top of her 
 
 #### Priestess of Balthazar
 
-This priestess doesn't do much outside of calling down small meteors which <Control name="stun"/> and apply <Condition name="burning"/> and <Condition name="weakness"/> on impact. Her life is tied to the four _Veteran Sunspear Warriors_ that flank her, control those with CC and kill them to eliminate the priestess.
+This priestess doesn't do much outside of calling down small meteors which <Control name="Stun"/> and apply <Condition name="burning"/> and <Condition name="weakness"/> on impact. Her life is tied to the four _Veteran Sunspear Warriors_ that flank her, control those with CC and kill them to eliminate the priestess.
 
 ### "Perish With Me Traitors!" <Label>5%-0%</Label>
 

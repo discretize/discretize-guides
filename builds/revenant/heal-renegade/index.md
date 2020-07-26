@@ -14,9 +14,9 @@ author: 'Janitsu.6284'
 ---
 <Tabs>
 <Tab title="Build">
-The **<Specialization text="Heal Renegade" name="Renegade"/>** plays with a mix of harrier's and cleric's gear for maximum power and healing power while still hitting 100% boon duration.
+The **<Specialization text="Heal Renegade" eliteSpecialization="Renegade"/>** plays with a mix of harrier's and cleric's gear for maximum power and healing power while still hitting 100% boon duration.
  
-Since the damage and life steals of <Skill name="Soulcleaves Summit" /> are based on the **<Specialization text="Heal Renegade" name="Renegade"/>**'s own power and healing power, the <Specialization text="Heal Renegade" name="Renegade"/> aims to maximize those stats.
+Since the damage and life steals of <Skill name="Soulcleaves Summit" /> are based on the **<Specialization text="Heal Renegade" eliteSpecialization="Renegade"/>**'s own power and healing power, the <Specialization text="Heal Renegade" eliteSpecialization="Renegade"/> aims to maximize those stats.
 
 Feel free to run full Harrier if you are confident that you don't need the extra healing power or toughness from cleric. The more agony resistance you have, the more cleric you can afford to run and still hit 100% boon duration.
 
@@ -239,7 +239,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 ---
 
 **Precast**
-* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your pre stacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100 - 75%**  
@@ -252,7 +252,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 **1st Knight**   
 * Use <Skill name="Shackling Wave"/> to deal damage and to apply a soft CC to the knight.
-* Change to <Skill name="Legendary Renegade stance"/> to use <Skill name="Heroic Command"/> to share <Boon name="might"/>.
+* Change to <Skill name="Legendary Renegade stance"/> to use <Skill name="Heroic Command"/> to share <Boon name="Might"/>.
 
 **75-50%**
 * Cast <Skill name="SoulcleavesSummit"/> under MAMA so your teammates get some extra damage and get some healing. If they are already at max health, you can save <Skill name="SoulcleavesSummit"/> for a bit later, since there will be a dome attack from MAMA after the first knight. Be sure to have around 25-35 energy at the end of the phase to be able to cast <Skill name="DarkrazorsDaring"/>.
@@ -262,7 +262,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 **2nd Add**  
 * Precast <Skill name="Darkrazors Daring"/> at the location where the add will spawn.
 * Change to <Skill name="Legendary Centaur Stance"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 
 
 **50-25%**  
@@ -273,7 +273,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 **3rd Add**  
 * Precast <Skill name="Darkrazors Daring"/> and <Skill name="icerazors ire"/> where the add will spawn.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Weapon swap to staff when possible.
 
 **25-0%**  
@@ -302,9 +302,9 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 
 **Precast**  
-* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
-* Ask your <Specialization name="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation. It is not needed, but it doesn't take anything away from the weaver and is a group DPS increase as well as 300 CC.
+* Ask your <Specialization eliteSpecialization="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation. It is not needed, but it doesn't take anything away from the weaver and is a group DPS increase as well as 300 CC.
 
 **100 - 66%**   
 * Have your staff equipped and pick up the <Skill name="Conjure Frost Bow"/>.
@@ -314,7 +314,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 * Use <Skill name="Deep Freeze"/> and drop the <Skill name="Conjure Frost Bow"/>.
 * Immediately use <Skill name="Surgeofthemists"/> to finish of the defiance bar.
 * When you are through the hitbox weapon swap and use <Skill name="Chilling Isolation"/>.
-* Share <Boon name="might"/> at the end of the phase with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> at the end of the phase with <Skill name="Heroic Command"/>.
 
 **1st Add**  
 * Cast <Skill name="icerazors ire"/> on your designated echo.
@@ -356,12 +356,12 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 **Legends**  
 
-<Skill name="LegendaryRenegadestance"/> and <Skill name="LegendaryCentaurStance"/> **or** <Skill name="LegendaryRenegadestance"/> and <Skill name="LegendaryDwarfStance"/> if you don't think extra healing is needed and your group lacks a <Specialization name="Firebrand"/> who could give <Boon name="Stability"/> to the group in the last phase.
+<Skill name="LegendaryRenegadestance"/> and <Skill name="LegendaryCentaurStance"/> **or** <Skill name="LegendaryRenegadestance"/> and <Skill name="LegendaryDwarfStance"/> if you don't think extra healing is needed and your group lacks a <Specialization eliteSpecialization="Firebrand"/> who could give <Boon name="Stability"/> to the group in the last phase.
 
 ---
 
 **Precast**  
-* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-66%**
@@ -372,7 +372,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 **Orb Phase**
 * Weapon swap to staff and change to <Skill name="Legendary Renegade Stance"/>.
-* You should use <Skill name="Breakrazors Bastion"/> to keep your <Specialization name="Soulbeast"/>'s <Skill name="Frost spirit"/> alive. If you don't have a <Specialization name="Soulbeast"/>, you can use <Skill name="Breakrazors Bastion"/> to heal your allies that seem to be struggling during the orb phase.
+* You should use <Skill name="Breakrazors Bastion"/> to keep your <Specialization eliteSpecialization="Soulbeast"/>'s <Skill name="Frost spirit"/> alive. If you don't have a <Specialization eliteSpecialization="Soulbeast"/>, you can use <Skill name="Breakrazors Bastion"/> to heal your allies that seem to be struggling during the orb phase.
 
 **66-33%**
 * Precast <Skill name="Darkrazors Daring"/> right before Ensolyss appear.
@@ -384,7 +384,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 **Orb Phase**
 * Weapon swap to staff and change to <Skill name="Legendary Renegade Stance"/>.
-* Cast <Skill name="Breakrazors Bastion"/> on the <Skill name="Frost Spirit"/> to keep it alive for the last phase or if you don't have a <Specialization name="Soulbeast"/>, use it to keep your teammates alive during the orb phase.
+* Cast <Skill name="Breakrazors Bastion"/> on the <Skill name="Frost Spirit"/> to keep it alive for the last phase or if you don't have a <Specialization eliteSpecialization="Soulbeast"/>, use it to keep your teammates alive during the orb phase.
 
 **33-0%**
 * Precast <Skill name="Darkrazors Daring"/> right before Ensolyss appear.
@@ -429,11 +429,11 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 ---
 
 **Precast**  
-* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-66%**  
-* Precast <Skill name="Darkrazors Daring"/> when the <Specialization name="Weaver"/> is casting <Skill name="Meteorshower"/>.
+* Precast <Skill name="Darkrazors Daring"/> when the <Specialization eliteSpecialization="Weaver"/> is casting <Skill name="Meteorshower"/>.
 * Cast <Skill name="Icerazors Ire"/> right before triggering the instance.
 * Use <Skill name="Surge of the Mists"/> through Skorvald to break the defiance bar. Be aware of positioning to gain an extra hit.
 * Weapon swap and change to <Skill name="Legendary Dwarf Stance"/>.
@@ -525,17 +525,17 @@ For this encounter, it is recommended to run the following traits in the Devasta
 <UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 **Precast**  
-* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-66%**
 * Precast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
 * Manually change to <Skill name="Legendary Dwarf Stance"/> before Artsariiv becomes vulnerable.
 * Use <Skill name="Shackling Wave"/>, and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Share <Boon name="Might"/> with <Skill name="Heroic Command"/> before using the <Effect name="hypernovalaunch"/> to the corner.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/> before using the <Effect name="Hypernovalaunch"/> to the corner.
 * Weapon swap and use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the party.
 * Change to <Skill name="Legendary Renegade Stance"/>, and precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at the location where Artsarriv will appear.
-* Use <Skill name="Surge of the Mists"/> to break the defiance bar. Use it with the <Effect name="hypernovalaunch"/> to gain additional hits.
+* Use <Skill name="Surge of the Mists"/> to break the defiance bar. Use it with the <Effect name="Hypernovalaunch"/> to gain additional hits.
 * Weapon swap and change to <Skill name="Legendary Dwarf Stance"/>
 
 **Add**
@@ -546,12 +546,12 @@ For this encounter, it is recommended to run the following traits in the Devasta
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle.
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
 * Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to deplete your energy.
-* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <Effect name="hypernovalaunch"/> to the corner.
+* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <Effect name="Hypernovalaunch"/> to the corner.
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> for additional damage.
 * Weapon swap to staff when the phase ends.
 
@@ -563,19 +563,19 @@ For this encounter, it is recommended to run the following traits in the Devasta
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when everyone is in the middle.
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the large AoE attack.
 * Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to deplete your energy.
-* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <Effect name="hypernovalaunch"/> to the corner.
+* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <Effect name="Hypernovalaunch"/> to the corner.
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Share <Boon name="might"/> with <Skill name="Heroic Command"/>.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> for additional damage.
 
 ---
 
 **Annotation**
 * Time <Skill name="Inspiring Reinforcement"/> so that <Boon name="Stability"/> last long enough for the AoE attack in the middle.
-* Use <Effect name="hypernovalaunch"/> while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
+* Use <Effect name="Hypernovalaunch"/> while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
 
 This part of the guide was taken from [Casual Sophie](https://www.youtube.com/channel/UCh3JEHa_zLroJYrtaftdQzw)'s Renegade guide that you can find [here](/builds/revenant/hybrid-renegade)
 
@@ -624,7 +624,7 @@ For this encounter, it is recommended to run the following traits in the Devasta
 ---
 
 **Precast**  
-* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-80%**
@@ -636,13 +636,13 @@ For this encounter, it is recommended to run the following traits in the Devasta
 **80-70%**
 * Cast <Skill name="SoulcleavesSummit"/> on Arkk to create a fire field.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the <Effect name="hypernovalaunch"/> to break the defiance bar.
+* Use <Skill name="Surge of the Mists"/> with the <Effect name="Hypernovalaunch"/> to break the defiance bar.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Weapon swap and change to <Skill name="Legendary Centaur Stance"/>.
 
 **Archdiviner**
 * Activate <Skill name="Protective Solace"/> on top of the group to prevent the Archdiviner's minions from dealing damage to your group.
-* If Archdiviner gets a defiance bar, use your <Effect name="hypernovalaunch"/> to do 232 defiance bar damage to it and blast a fire field if there is one under him.
+* If Archdiviner gets a defiance bar, use your <Effect name="Hypernovalaunch"/> to do 232 defiance bar damage to it and blast a fire field if there is one under him.
 * Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **70-50%**
@@ -656,13 +656,13 @@ For this encounter, it is recommended to run the following traits in the Devasta
 **50-40%**
 * Precast <Skill name="Soulcleaves Summit"/> at Arkk's location.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the <Effect name="hypernovalaunch"/> to break the defiance bar.
+* Use <Skill name="Surge of the Mists"/> with the <Effect name="Hypernovalaunch"/> to break the defiance bar.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Weapon swap and change to <Skill name="Legendary Centaur Stance"/>.
 
 **Gladiator**
 * Activate <Skill name="Protective Solace"/> on top of the group to prevent the robots from dealing damage to your group. There is also one robot that applies conditions, especially detrimental to your group's damage is <Condition name="Weakness"/>.
-* If Gladiator gets a defiance bar, use your <Effect name="hypernovalaunch"/> to do 232 defiance bar damage to it and blast a fire field if there is one under him.
+* If Gladiator gets a defiance bar, use your <Effect name="Hypernovalaunch"/> to do 232 defiance bar damage to it and blast a fire field if there is one under him.
 * Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **40-30%**
@@ -673,7 +673,7 @@ For this encounter, it is recommended to run the following traits in the Devasta
 **30-0%**
 * Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the <Effect name="hypernovalaunch"/> to break the defiance bar.
+* Use <Skill name="Surge of the Mists"/> with the <Effect name="Hypernovalaunch"/> to break the defiance bar.
 * Weapon swap and change to <Skill name="Legendary Centaur Stance"/>.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.

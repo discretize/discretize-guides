@@ -16,11 +16,11 @@ code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 
 <Tabs>
 <Tab title="Build">
-The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals.
+The <Specialization eliteSpecialization="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals.
 
 It has quick burst damage and doesn't rely as much on pre-casting as [Power Tempest](/builds/elementalist/power-tempest). Since you don't have long casting times and the rotation loops fluently, it is fun to play as long as there are no Instabilities that discourage melee interactions.
 
-Aside from <Condition name="vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS, the <Specialization name="Weaver" text="Power Sword Weaver"/> unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
+Aside from <Condition name="Vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS, the <Specialization eliteSpecialization="Weaver" text="Power Sword Weaver"/> unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
 
 The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -42,7 +42,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 * Dagger with <Item name="Night" type="Sigil"/>
 * Dagger with <Item name="Serpent Slaying" type="Sigil"/>
 * Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
-* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="might"/>
+* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="Might"/>
 * A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Card>
 </GridItem>
@@ -69,7 +69,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 * Dagger with <Item name="Night" type="Sigil"/>
 * Dagger with <Item name="Serpent Slaying" type="Sigil"/>
 * Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
-* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="might"/>
+* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="Might"/>
 * A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Card>
 </GridItem>
@@ -101,7 +101,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 * Dagger with <Item name="Night" type="Sigil"/>
 * Dagger with <Item name="Serpent Slaying" type="Sigil"/>
 * Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
-* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="might"/>
+* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="Might"/>
 * A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Card>
 </GridItem>
@@ -138,16 +138,16 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 | | |
 | -- | -- |
 |Heal|
-| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A **stronger** healing alternative if <Boon name="might"/> uptime is good. |
+| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A **stronger** healing alternative if <Boon name="Might"/> uptime is good. |
 | <Skill name="Aquatic stance" size="big" disableText/> | Another alternative healing skill affecting allies close to the target you strike. |
 |Offensive|
-| <Skill name="Arcane Wave" size="big" disableText/> | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="might"/> with a fire field. |
+| <Skill name="Arcane Wave" size="big" disableText/> | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field. |
 | <Skill name="Primordial Stance" size="big" disableText/> | On small hitboxes and fights with a lot of phasing (e.g. Arkk) <Skill name="Conjure Lightning Hammer"/> isn't that valuable so you can use this instead. |
 | <Skill name="Conjure Lightning Hammer" size="big" disableText/> | You take this skill instead of <Skill name="Unravel"/> if you play <Trait name="Fresh Air"/> with groups that have low dps. <Skill name="Unravel"/> is worth it with big dps and short phases. __Precast <Skill name="Conjure Lightning Hammer"/> where possible for dps boost.__ |
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
 |Defensive|
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
-| <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
+| <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>. |
 | <Skill name="Stone Resonance" size="big" disableText/> | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).  |
 | Utility |
 | <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
@@ -162,16 +162,16 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 | <Trait name="Pyromancers Puissance" size="big" disableText/> | Take this instead of <Trait id="1510"/> after you precast for self sufficient might. Recommended in PuGs every time.
 | <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
 | <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv). |
-| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 </Card>
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
-| <Skill name="Updraft" size="big" disableText/> | 332 with <Control name="launch"/> |
-| <Skill name="Wind Blast" size="big" disableText/> | 232 with <Control name="launch"/> |
-| <Skill name="Polaric Leap" size="big" disableText/> | 100 with <Control name="daze"/> |
-| <Skill name="Earthquake" size="big" disableText/> | 200 with <Control name="knockdown"/> |
-| <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="float"/> |
+| <Skill name="Updraft" size="big" disableText/> | 332 with <Control name="Launch"/> |
+| <Skill name="Wind Blast" size="big" disableText/> | 232 with <Control name="Launch"/> |
+| <Skill name="Polaric Leap" size="big" disableText/> | 100 with <Control name="Daze"/> |
+| <Skill name="Earthquake" size="big" disableText/> | 200 with <Control name="Knockdown"/> |
+| <Skill name="Gale Strike" size="big" disableText/> | 125 with <Control name="Float"/> |
 | <Skill name="Twin Strike" size="big" disableText/> | 33 / s (99) with <Condition name="Chilled"/> |
 | <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
 </Card>
@@ -417,7 +417,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 **66%**
 - Before the boss becomes vulnerable, cast <Skill id="5691"/> and <Skill id="21656"/> so that your party gets some <Boon name="Might"/>.
 - <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete your auto attack chain on <Skill id="5492"/>/<Skill id="5494"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="5516"/> (To the point you will stand during the capture phase) -> <Skill id="5517"/> -> <Skill id="5531"/> ->  <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Complete your auto attack chains and get as much damage as you can in the <Effect name="exposed"/> duration. 
+- Complete your auto attack chains and get as much damage as you can in the <Effect name="Exposed"/> duration. 
 
 **2nd Capture Phase**
 
@@ -426,7 +426,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 **33%**
 - Cast <Skill id="5531"/> and drop your <Skill id="5516"/>.
 - <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Complete your auto attack chains and get as much damage as you can in the <Effect name="exposed"/> duration.
+- Complete your auto attack chains and get as much damage as you can in the <Effect name="Exposed"/> duration.
 
 </Tab>
 </Tabs>
@@ -472,8 +472,8 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 - Be on max melee range before the boss starts spinning, don't die like a scrub.
 
 **Tryhard/Static run**
-- Take <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases (Also ez <Boon name="might"/>).
-- Make sure to drop your <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="soulbeast"/> can pick it up before taking the Portal
+- Take <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases (Also ez <Boon name="Might"/>).
+- Make sure to drop your <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization eliteSpecialization="Soulbeast"/> can pick it up before taking the Portal
 <Message>
 One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four _Elite Flux Anomalies_. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
 </Message>
@@ -491,7 +491,7 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 - As soon as someone catches an orb to start the encounter, use <Skill id="5531"/> and drop your <Skill id="5516"/>. Cast <Skill id="43762"/>, <Skill id="5548"/>, attune to <Skill id="5492"/>/<Skill id="5492"/> and cast <Skill id="5501"/>, then equip sword/dagger. This is a tight precast so make sure you practice it.
 
 **100%**
-- Cast <Skill id="45313"/>, <Skill id="5557"/> and <Skill id="44451"/> when Artsariiv is in the the middle. Use <Effect name="hypernovalaunch"/> when she moves and attune to <Skill id="5494"/>/<Skill id="5494"/> to cast <Skill id="5737"/>.
+- Cast <Skill id="45313"/>, <Skill id="5557"/> and <Skill id="44451"/> when Artsariiv is in the the middle. Use <Effect name="Hypernovalaunch"/> when she moves and attune to <Skill id="5494"/>/<Skill id="5494"/> to cast <Skill id="5737"/>.
 - Use <Skill id="5687"/> to break the CC bar.
 
 **Split Phase**
@@ -501,13 +501,13 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 **66%**
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
 - Blast your fire field for might in the middle.
-- Use <Effect name="hypernovalaunch"/> to go to the corner.
+- Use <Effect name="Hypernovalaunch"/> to go to the corner.
 - Use <Skill id="5737"/> if it's off cd, else use <Skill id="5736"/> and DPS.
 
 **33%**
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
 - Blast your fire field for might in the middle.
-- Use <Effect name="hypernovalaunch"/> to go to the corner.
+- Use <Effect name="Hypernovalaunch"/> to go to the corner.
 - Use <Skill id="5737"/> and do big deeps.
 
 **Tryhard/Static**
@@ -531,10 +531,10 @@ Advanced groups can let the second _Corporeal Reassignment_ trigger and `/gg` th
 
 **Tryhard Precast**
 - **Do this only if you are on voice with your static**.
-- Use <Effect name="hypernovalaunch"/>/Portal to go the the platform early, cast <Skill id="5531"/> and drop your <Skill id="5516"/>. Cast <Skill id="5501"/> on your staff, then equip your Sword/Dagger and shout on voice to start the boss. This is a tight precast so make sure you practice it otherwise staff weaver RIP.
+- Use <Effect name="Hypernovalaunch"/>/Portal to go the the platform early, cast <Skill id="5531"/> and drop your <Skill id="5516"/>. Cast <Skill id="5501"/> on your staff, then equip your Sword/Dagger and shout on voice to start the boss. This is a tight precast so make sure you practice it otherwise staff weaver RIP.
 
 **100%**
-- Attune to <Skill id="5494"/>/<Skill id="5494"/> as soon as the encounter starts. Cast <Skill id="5531"/>, <Skill id="5737"/> and <Skill id="5697"/> with <Effect name="hypernovalaunch"/> inside the hitbox. Then, drop your <Skill id="5516"/> and follow with the usual burst.
+- Attune to <Skill id="5494"/>/<Skill id="5494"/> as soon as the encounter starts. Cast <Skill id="5531"/>, <Skill id="5737"/> and <Skill id="5697"/> with <Effect name="Hypernovalaunch"/> inside the hitbox. Then, drop your <Skill id="5516"/> and follow with the usual burst.
 
 **Solar Bloom**
 - For this phase start on <Skill id="5494"/>/<Skill id="5492"/> and auto attack the bloom once, then attune to <Skill id="5494"/>/<Skill id="5494"/> to trigger <Trait id="222"/> on the bloom to push it into the pillar. This is the fastest way to do your bloom.
@@ -546,7 +546,7 @@ Advanced groups can let the second _Corporeal Reassignment_ trigger and `/gg` th
 - Cast <Skill id="5737"/> and the usual burst.
 
 **40%**
-- Precast <Skill id="5516"/> as the phase is starting, cast <Skill id="5531"/> and <Skill id="5697"/> with <Effect name="hypernovalaunch"/> inside the hitbox and the drop it.
+- Precast <Skill id="5516"/> as the phase is starting, cast <Skill id="5531"/> and <Skill id="5697"/> with <Effect name="Hypernovalaunch"/> inside the hitbox and the drop it.
 
 **30%**
 - Pick up the <Skill id="5516"/> and open with <Skill id="5531"/> and the drop it. Use <Skill id="5737"/> and follow with the usual burst.
