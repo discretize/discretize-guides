@@ -138,7 +138,7 @@ Running Skirmishing in fractals is quite a niche choice, you need to satisfy **b
 - You want to replace a <Specialization name="Berserker"/> by providing your team with <Trait name="Spotter"/> so they can crit cap.
 
 If both of these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:
-<UnembossedTraits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888"/>
+<UnembossedTraits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069, 1016, 1888"/>
 </Card>
 </GridItem> 
 <GridItem sm="5">
@@ -462,8 +462,8 @@ If you are playing with a <Specialization name="Dragonhunter"/> instead of a <Sp
 
 **Orb Phases**
 
-- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="Renegade"/> so they can share <Boon name="Alacrity"/>.
-- Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to keep up <Boon name="Alacrity"/> on yourself. 
+- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="Renegade"/> so they can share <Boon name="alacrity"/>.
+- Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to keep up <Boon name="alacrity"/> on yourself. 
 - Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/> (this will only happen during one of the orb phases).
 
 **66% and 33%**  
@@ -529,9 +529,9 @@ Your third utility slot is different for each <Specialization name="Soulbeast"/>
 
 **Orb Phases**
 
-- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="Renegade"/> so they can share <Boon name="Alacrity"/> to both <Specialization name="Soulbeast"/>s.
+- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="Renegade"/> so they can share <Boon name="alacrity"/> to both <Specialization name="Soulbeast"/>s.
 - You want to leave <Skill id="42944"/> so that it is back off cd and you can blast <Boon name="Might"/> after the orb phase.
-- Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to top up <Boon name="Alacrity"/> on yourself if possible.
+- Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to top up <Boon name="alacrity"/> on yourself if possible.
 
 **66% and 33%**  
 
