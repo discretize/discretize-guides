@@ -16,11 +16,11 @@ code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 
 <Tabs>
 <Tab title="Build">
-The <Specialization eliteSpecialization="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals.
+The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals.
 
 It has quick burst damage and doesn't rely as much on pre-casting as [Power Tempest](/builds/elementalist/power-tempest). Since you don't have long casting times and the rotation loops fluently, it is fun to play as long as there are no Instabilities that discourage melee interactions.
 
-Aside from <Condition name="Vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS, the <Specialization eliteSpecialization="Weaver" text="Power Sword Weaver"/> unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
+Aside from <Condition name="Vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS, the <Specialization name="Weaver" text="Power Sword Weaver"/> unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
 
 The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -473,7 +473,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 
 **Tryhard/Static run**
 - Take <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases (Also ez <Boon name="Might"/>).
-- Make sure to drop your <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization eliteSpecialization="Soulbeast"/> can pick it up before taking the Portal
+- Make sure to drop your <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="Soulbeast"/> can pick it up before taking the Portal
 <Message>
 One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four _Elite Flux Anomalies_. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
 </Message>

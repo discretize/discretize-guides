@@ -27,7 +27,7 @@ consumables: [78978, 49940]
 <Grid>
 <GridItem sm="8">
 ## Start
-Activate the *Detonator* and wait for the <Specialization eliteSpecialization="Renegade"/>, <Specialization eliteSpecialization="Weaver"/>, <Specialization name="Guardian"/> or <Specialization name="Daredevil"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="Might"/> in the vestibule) or if no one can skip just walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
+Activate the *Detonator* and wait for the <Specialization name="Renegade"/>, <Specialization name="Weaver"/>, <Specialization name="Guardian"/> or <Specialization name="Daredevil"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="Might"/> in the vestibule) or if no one can skip just walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
 </GridItem>
 
 <GridItem sm="4">
@@ -44,7 +44,7 @@ Activate the *Detonator* and wait for the <Specialization eliteSpecialization="R
 <Video title="Weaver skip" timestamp="8" youtube="OjUvCp2h_04"/>
 </Tab>
   
-<Tab specialization="guardian">
+<Tab specialization="Guardian">
 <Video title="Guardian skip" timestamp="480" youtube="MmJTsOhdQeo"/>
 </Tab>
 
@@ -60,7 +60,7 @@ Activate the *Detonator* and wait for the <Specialization eliteSpecialization="R
 <Grid>
 <GridItem sm="12">  
 <Message>
-For a faster completion time you can split up. <Specialization eliteSpecialization="Berserker"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization eliteSpecialization="Weaver"/> soloes Superheated Room <Label>West</Label> and <Specialization eliteSpecialization="Renegade"/> and <Specialization eliteSpecialization="Soulbeast"/> do Researcher Dormitories <Label>East</Label>.
+For a faster completion time you can split up. <Specialization name="Berserker"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Weaver"/> soloes Superheated Room <Label>West</Label> and <Specialization name="Renegade"/> and <Specialization name="Soulbeast"/> do Researcher Dormitories <Label>East</Label>.
 </Message> 
 </GridItem>
   
@@ -91,7 +91,7 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 <Grid>
 <GridItem sm="8">  
 ## Researcher Dormitories <Label>East</Label>
-2 people (usually <Specialization eliteSpecialization="Renegade"/> and <Specialization eliteSpecialization="Soulbeast"/>) should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
+2 people (usually <Specialization name="Renegade"/> and <Specialization name="Soulbeast"/>) should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
 </GridItem>
 
 <GridItem sm="4">
@@ -108,7 +108,7 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 
 <GridItem sm="8">
 ## Superheated Room <Label>West</Label>
-This is usually solo'ed by the <Specialization eliteSpecialization="Weaver"/> but other classes can do it as well, like in the **video shown below**.
+This is usually solo'ed by the <Specialization name="Weaver"/> but other classes can do it as well, like in the **video shown below**.
 </GridItem>
 
 <GridItem sm="12">
@@ -121,7 +121,7 @@ This is usually solo'ed by the <Specialization eliteSpecialization="Weaver"/> bu
 <Video title="Weaver skip" timestamp="28" youtube="OjUvCp2h_04"/>
 </Tab>
    
-<Tab specialization="guardian">
+<Tab specialization="Guardian">
 <Video title="Guardian skip" timestamp="519" youtube="MmJTsOhdQeo"/>  
 </Tab>
 

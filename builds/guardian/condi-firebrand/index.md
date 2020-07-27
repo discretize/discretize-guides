@@ -14,11 +14,11 @@ code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 
 <Tabs>
 <Tab title="Build">
-The **<Specialization text="Condi Firebrand" eliteSpecialization="Firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high DPS consistent DPS. In organized teams this build is inferior to <Specialization eliteSpecialization="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very high damage making your DPS players sweat. 
+The **<Specialization text="Condi Firebrand" name="Firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high DPS consistent DPS. In organized teams this build is inferior to <Specialization name="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very high damage making your DPS players sweat. 
 
 Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies.
 
-One main downside of <Specialization text="Condi Firebrand" eliteSpecialization="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 Power buff provided by <Skill name="Bane Signet"/>.
+One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 Power buff provided by <Skill name="Bane Signet"/>.
 
 <Divider text="Equipment"/>
 
@@ -90,11 +90,11 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
 - <Skill name="Tome of Justice"/> (F1):
-  - Skill 1: One stack of <Condition name="burning"/>
-  - Skill 2: Two stacks of <Condition name="burning"/>
+  - Skill 1: One stack of <Condition name="Burning"/>
+  - Skill 2: Two stacks of <Condition name="Burning"/>
   - Skill 3: An AoE pull
-  - Skill 4: High power damage skill, applies four stacks of <Condition name="burning"/>.
-  - Skill 5: Your bread and butter as <Specialization text="Condi Firebrand" eliteSpecialization="Firebrand"/>: Share Ashes of the Just with allies applying a magnitude of <Condition name="burning"/>.
+  - Skill 4: High power damage skill, applies four stacks of <Condition name="Burning"/>.
+  - Skill 5: Your bread and butter as <Specialization text="Condi Firebrand" name="Firebrand"/>: Share Ashes of the Just with allies applying a magnitude of <Condition name="Burning"/>.
 - <Skill name="Tome of Resolve"/> (F2):
   - Skill 2 is a party condition cleanse
   - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>

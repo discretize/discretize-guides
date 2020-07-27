@@ -37,7 +37,7 @@ This is an underwater fractal. Make sure you have approriate underwater equipmen
 You can stack <Boon name="Might"/> on the rack before entering the water. Kill the two groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
 
 <Tabs>
-<Tab specialization="weaver">
+<Tab specialization="Weaver">
 You can stay Weaver for this fractal and trait Air with <Trait id="232" disableText/>, <Trait id="214" disableText/> and most importantly <Trait id="1503"/> or retrait to Tempest. For utility, use <Skill id="5638" disableText/>, <Skill id="40183" disableText/>, <Skill id="5539" disableText/> and <Skill id="43638"/> as Elite skill.
   
 Rotate to <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/> while swimming to the boss for <Trait name="Elements of Rage"/> and use <Skill name="Forked Lightning" profession="Elementalist"/> (Air autoattack) and <Skill name="Electrocute" profession="Elementalist"/> (Skill 2). Then rotate to <Skill name="Earth Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/>  use  <Skill name="Rock Spray" profession="Elementalist"/> (Skill 2) and <Skill name="Sodden Swath" profession="Elementalist"/> (Earth/Air Skill 3) use <Skill name="Forked Lightning" profession="Elementalist"/> (Air autoattack) rotate to <Skill name="Fire Attunement" profession="Elementalist" disableText/> / <Skill name="Earth Attunement" profession="Elementalist" disableText/>. Use <Skill name="Boil" profession="Elementalist"/> (Skill 2) <Skill name="Molten Burst" profession="Elementalist"/> (Fire/Earth Skill 3) and <Skill name="Rock Anchor" profession="Elementalist"/> (Skill 4) <Skill name="Murky water" profession="Elementalist"/> (Skill 5). Rotate to <Skill name="Fire Attunement" profession="Elementalist" disableText/> / <Skill name="Fire Attunement" profession="Elementalist" disableText/> use <Skill name="LavaChains" profession="Elementalist"/> (Skill 4) and <Skill name="Heat Wave" profession="Elementalist"/> (Skill 5). Rotate to <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Fire Attunement" profession="Elementalist" disableText/> use <Skill name="Plasmic Strike" profession="Elementalist"/> (Air/Fire Skill 3), <Skill name="Electrocute" profession="Elementalist"/> (Skill 2) and <Skill name="Forked Lightning" profession="Elementalist"/> (Air autoattack). Rotate to <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/> and start again.
@@ -51,7 +51,7 @@ You can retrait to Tempest for this fractal as it is one of the best choices for
         As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" disableText/>) and <Skill id="5597"/> (<Skill id="5492" disableText/>) and <Skill id="5655"/> and Air autoattack (<Skill id="5494" disableText/>) to maximize dps. 
 </Tab>
 
-<Tab specialization="warrior">
+<Tab specialization="Warrior">
 Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="Fury"/> and <Boon name="Might"/>.
 </Tab>
 
@@ -81,7 +81,7 @@ Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="Fury"
 <GridItem>
 ## Dark Path <Label>Changes daily</Label>
 
-If you get this path, swim together and take the _Luminous Plants_ on the way to protect you and nearby players from dying. If you are able to survive it, take the shortcut to the left after entering the larger cave. Use dodges or <Effect name="invulnerability"/> for the last group of Krait. If someone reaches the krait champion, use `/gg` to immediately resurrect there.
+If you get this path, swim together and take the _Luminous Plants_ on the way to protect you and nearby players from dying. If you are able to survive it, take the shortcut to the left after entering the larger cave. Use dodges or <Effect name="Invulnerability"/> for the last group of Krait. If someone reaches the krait champion, use `/gg` to immediately resurrect there.
 </GridItem>
 
 <GridItem>
@@ -110,9 +110,9 @@ Every 25% the boss gets <Effect name="Invulnerability"/> and Elite Kraits spawn.
 
 <Tabs>
 <Tab specialization="revenant">
-Use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Assassin Stance"/>. Use <Skill name="Legendary Demon Stance"/> instead of <Skill name="Legendary Assassin Stance" disableText/> if there is <Instability name="No Pain No Gain"/>. When the Jellyfish raises all of it's tentacle cast <Skill name="Inspiring Reinforcement"/>. 
+Use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Assassin Stance"/>. Use <Skill name="Legendary Demon Stance"/> instead of <Skill name="Legendary Assassin Stance" disableText/> if there is <Instability name="No Pain, No Gain"/>. When the Jellyfish raises all of it's tentacle cast <Skill name="Inspiring Reinforcement"/>. 
 </Tab>
-<Tab specialization="guardian">
+<Tab specialization="Guardian">
 Use <Skill name="Stand your ground"/>. If you have multiple Guardians in your team, consider taking <Skill id="43357"/>.
 </Tab>
 </Tabs> 

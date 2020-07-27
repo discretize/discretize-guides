@@ -15,55 +15,55 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <GridItem sm="4">
 <Card specialization="Revenant">
-* <Skill name="Protective Solace"/>  <Specialization disableText name="revenant"/>  
+* <Skill name="Protective Solace"/>  <Specialization disableText name="Revenant"/>  
 (Ventari Utility) 
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <Card specialization="Mesmer">
-* <Skill id="10302"/> <Specialization disableText name="mesmer"/>   
-(Utility, best used during <Skill id="29830" disableText/>, <Specialization disableText name="chronomancer" />)
-* <Skill id="10186"/> <Specialization disableText name="mesmer"/>  
+* <Skill id="10302"/> <Specialization disableText name="Mesmer"/>   
+(Utility, best used during <Skill id="29830" disableText/>, <Specialization disableText name="Chronomancer" />)
+* <Skill id="10186"/> <Specialization disableText name="Mesmer"/>  
 (Focus 4, traited with <Trait id="751" disableText/>)
-* <Skill id="10282"/> <Specialization disableText name="mesmer"/>   
+* <Skill id="10282"/> <Specialization disableText name="Mesmer"/>   
 (Focus 5, rather inconsistent)
-* <Skill id="30643"/> <Specialization disableText name="chronomancer"/>  
+* <Skill id="30643"/> <Specialization disableText name="Chronomancer"/>  
 (Shield 5) 
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <Card specialization="Warrior">
-* <Skill id="30074"/> <Specialization disableText eliteSpecialization="Berserker"/>  
+* <Skill id="30074"/> <Specialization disableText name="Berserker"/>  
 (Utility skill)
-* <Skill id="30682"/> <Specialization disableText eliteSpecialization="Berserker"/>  
+* <Skill id="30682"/> <Specialization disableText name="Berserker"/>  
 (Sword F1)
-* <Skill name="Bladestorm" /> <Specialization disableText eliteSpecialization="Spellbreaker"/>  
+* <Skill name="Bladestorm" /> <Specialization disableText name="Spellbreaker"/>  
 (Utility skill)
-* <Skill id="45333"/> <Specialization disableText eliteSpecialization="Spellbreaker"/>  
+* <Skill id="45333"/> <Specialization disableText name="Spellbreaker"/>  
 (Elite skill)
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <Card specialization="Elementalist">
-* <Skill id="5685"/> <Specialization disableText name="elementalist"/>  
+* <Skill id="5685"/> <Specialization disableText name="Elementalist"/>  
 (Staff 3, <Skill id="5495" disableText/>)
-* <Skill id="5530"/> <Specialization disableText name="elementalist"/>  
+* <Skill id="5530"/> <Specialization disableText name="Elementalist"/>  
 (Focus 4, <Skill id="5494" disableText/>)
-* <Skill id="30432"/> <Specialization disableText eliteSpecialization="Tempest"/>  
+* <Skill id="30432"/> <Specialization disableText name="Tempest"/>  
 (Utility skill)
-* <Skill id="29453"/> <Specialization disableText eliteSpecialization="Tempest"/>  
+* <Skill id="29453"/> <Specialization disableText name="Tempest"/>  
 (Warhorn 4, <Skill id="5495" disableText/>)
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <Card specialization="Ranger">
-* <Skill id="12639"/> <Specialization disableText name="ranger"/>  
+* <Skill id="12639"/> <Specialization disableText name="Ranger"/>  
 (Axe 5)
-* <Skill id="31496"/> <Specialization disableText eliteSpecialization="Druid"/>  
+* <Skill id="31496"/> <Specialization disableText name="Druid"/>  
 (Staff 5)
 
 </Card>
@@ -79,31 +79,31 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 (Sword 3)
 * <Skill id="9091"/> <Specialization disableText name="Guardian"/>  
 (Shield 5)
-* <Skill id="42259"/> <Specialization disableText eliteSpecialization="Firebrand"/>  
+* <Skill id="42259"/> <Specialization disableText name="Firebrand"/>  
 (Tome Skill 3) 
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <Card specialization="Thief">
-* <Skill name="Punishing Strikes"/> <Specialization disableText name="thief"/>  
+* <Skill name="Punishing Strikes"/> <Specialization disableText name="Thief"/>  
 (3rd Autoattack)
-* <Skill id="13065"/> <Specialization disableText name="thief"/>  
+* <Skill id="13065"/> <Specialization disableText name="Thief"/>  
 (Utility skill)
-* <Skill id="13056"/> <Specialization disableText name="thief"/>  
+* <Skill id="13056"/> <Specialization disableText name="Thief"/>  
 (Utility skill)
-* <Skill name ="Dagger Storm"/> <Specialization disableText name="thief"/>  
+* <Skill name ="Dagger Storm"/> <Specialization disableText name="Thief"/>  
 (Elite skill)
-* <Skill id="30434"/> <Specialization disableText name="daredevil"/>  
+* <Skill id="30434"/> <Specialization disableText name="Daredevil"/>  
 (Auto attack chain)
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <Card specialization="Necromancer">
-* <Skill name ="Corrosive Poison Cloud"/> <Specialization disableText name="necromancer"/>  
+* <Skill name ="Corrosive Poison Cloud"/> <Specialization disableText name="Necromancer"/>  
 (Utility skill)
-* <Skill name ="Deaths Charge"/> <Specialization disableText eliteSpecialization="Reaper"/>  
+* <Skill name ="Deaths Charge"/> <Specialization disableText name="Reaper"/>  
 (Shroud skill 2)
 
 </Card>
@@ -115,7 +115,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 ## Blocks, Evades and Invulnerable
 
-Certain mechanics can be bypassed by using block, evade, <Effect name="invulnerability"/> or <Boon name="aegis"/> skills. Those ward against any attack (including projectiles) and usually prevent the application of conditions and control effects.
+Certain mechanics can be bypassed by using block, evade, <Effect name="Invulnerability"/> or <Boon name="Aegis"/> skills. Those ward against any attack (including projectiles) and usually prevent the application of conditions and control effects.
 
 <Message>
 Note that some abilities are unblockable!
@@ -127,34 +127,34 @@ Below is a list of commonly used defensive skills:
 
 <GridItem sm="4">
 <Card specialization="Revenant">
-* <Skill name="Warding Rift"/>  <Specialization disableText name="revenant"/>  
+* <Skill name="Warding Rift"/>  <Specialization disableText name="Revenant"/>  
 (Staff 3)
-* <Skill name="Surge of the Mists"/>  <Specialization disableText name="revenant"/>  
+* <Skill name="Surge of the Mists"/>  <Specialization disableText name="Revenant"/>  
 (Staff 5)
-* <Skill name="Unrelenting Assault"/>  <Specialization disableText name="revenant"/>  
+* <Skill name="Unrelenting Assault"/>  <Specialization disableText name="Revenant"/>  
 (Sword 3)
-* <Skill name="Riposting Shadows"/>  <Specialization disableText name="revenant"/>  
+* <Skill name="Riposting Shadows"/>  <Specialization disableText name="Revenant"/>  
 (Shiro Utility skill)
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <Card specialization="Mesmer">
-* <Skill id="10192"/> <Specialization disableText name="mesmer"/>  
+* <Skill id="10192"/> <Specialization disableText name="Mesmer"/>  
    (F4, personal evade)    
-You can trait <Trait id="1852"/> to share <Boon name="aegis" disableText/> with allies (5 seconds internal cooldown) when you gain distortion
+You can trait <Trait id="1852"/> to share <Boon name="Aegis" disableText/> with allies (5 seconds internal cooldown) when you gain distortion
 
-- <Skill id="10280"/> <Specialization disableText name="mesmer"/>  
+- <Skill id="10280"/> <Specialization disableText name="Mesmer"/>  
   (Sword 4)  
   You can block more by jumping
-- <Skill id="10334"/> <Specialization disableText name="mesmer"/>  
+- <Skill id="10334"/> <Specialization disableText name="Mesmer"/>  
   (Sword 2)
-- <Skill id="29526"/> <Specialization disableText name="chronomancer"/>  
-  (Utiltiy skill, <Boon name="aegis" disableText/>)
+- <Skill id="29526"/> <Specialization disableText name="Chronomancer"/>  
+  (Utiltiy skill, <Boon name="Aegis" disableText/>)
 - Any signet with <Trait  id="713"/> and phantasm with <Trait disableText id="1866"/> apply distortion as well
-- <Skill id="30769"/> <Specialization disableText name="chronomancer"/>  
+- <Skill id="30769"/> <Specialization disableText name="Chronomancer"/>  
   (Shield 4)
-- <Skill id="29649"/> <Specialization disableText name="chronomancer"/>  
+- <Skill id="29649"/> <Specialization disableText name="Chronomancer"/>  
   (Shield 4, after block )
   </Card>
   </GridItem>
@@ -171,23 +171,23 @@ You can trait <Trait id="1852"/> to share <Boon name="aegis" disableText/> with 
 (Heal skill, also heals you for incoming damage but does not prevent conditions or control effects)
 * <Skill id="14392"/> <Specialization disableText name="Warrior"/>  
 (Utility skill, does not prevent conditions or control effects)
-* <Skill id="44165"/> <Specialization disableText eliteSpecialization="Spellbreaker"/> (F2  Counterattack Evasion: 0.5 seconds)
+* <Skill id="44165"/> <Specialization disableText name="Spellbreaker"/> (F2  Counterattack Evasion: 0.5 seconds)
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <Card specialization="Elementalist">
-* <Skill id="5641"/> <Specialization disableText name="elementalist"/>  
+* <Skill id="5641"/> <Specialization disableText name="Elementalist"/>  
 (Utility skill)
-* <Skill id="5554"/> <Specialization disableText name="elementalist"/>  
+* <Skill id="5554"/> <Specialization disableText name="Elementalist"/>  
 (Utility skill)
-* <Skill id="5564"/> <Specialization disableText name="elementalist"/>  
+* <Skill id="5564"/> <Specialization disableText name="Elementalist"/>  
 (Downed state skill)
-* <Skill id="5521"/> <Specialization disableText name="elementalist"/>  
+* <Skill id="5521"/> <Specialization disableText name="Elementalist"/>  
 (Focus 5, <Skill id="5495" disableText/>)
-* <Skill name="Riptide" profession="elementalist"/> <Specialization disableText eliteSpecialization="Weaver"/>  
+* <Skill name="Riptide" profession="elementalist"/> <Specialization disableText name="Weaver"/>  
 (Sword 2, <Skill disableText name="Water Attunement" profession="elementalist"/>)
-* <Skill name="Earthen Vortex" profession="elementalist"/> <Specialization disableText eliteSpecialization="Weaver"/>  
+* <Skill name="Earthen Vortex" profession="elementalist"/> <Specialization disableText name="Weaver"/>  
 (Sword 2, <Skill disableText name="Earth Attunement" profession="elementalist"/>)
 </Card>
 </GridItem>
@@ -198,7 +198,7 @@ You can trait <Trait id="1852"/> to share <Boon name="aegis" disableText/> with 
 (Utility)
 * <Skill name="Counterattack" specialization="ranger"/> <Specialization disableText name="Ranger"/>  
 (Greatsword 4)
-* <Skill name="Ancestral Grace" profession="Ranger"/> <Specialization disableText eliteSpecialization="Druid"/>  
+* <Skill name="Ancestral Grace" profession="Ranger"/> <Specialization disableText name="Druid"/>  
 (Staff 3)
 </Card>
 </GridItem>
@@ -216,21 +216,21 @@ You can trait <Trait id="1852"/> to share <Boon name="aegis" disableText/> with 
    (F3)
 - <Skill id="9084"/> <Specialization disableText name="Guardian"/>  
    (Utility skill)
-- <Skill id="30029"/> <Specialization disableText eliteSpecialization="Dragonhunter"/>  
+- <Skill id="30029"/> <Specialization disableText name="Dragonhunter"/>  
   (F3)
-- <Skill id="42259"/> <Specialization disableText eliteSpecialization="Firebrand"/>  
+- <Skill id="42259"/> <Specialization disableText name="Firebrand"/>  
    (F3, periodically)  
    (Tome skill 2 and 5)
-- <Skill id="41475"/> <Specialization disableText eliteSpecialization="Firebrand"/>  
+- <Skill id="41475"/> <Specialization disableText name="Firebrand"/>  
    (Heal skill)
   </Card>
   </GridItem>
 
 <GridItem sm="4">
 <Card specialization="Thief">
-* <Skill id="30661"/> <Specialization disableText name="daredevil"/>  
+* <Skill id="30661"/> <Specialization disableText name="Daredevil"/>  
 (Utility skill)
-* <Skill id="30597"/> <Specialization disableText name="daredevil"/>  
+* <Skill id="30597"/> <Specialization disableText name="Daredevil"/>  
 (Staff 5)
 </Card>
 </GridItem>

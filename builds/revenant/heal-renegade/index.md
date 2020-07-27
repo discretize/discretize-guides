@@ -14,9 +14,9 @@ author: 'Janitsu.6284'
 ---
 <Tabs>
 <Tab title="Build">
-The **<Specialization text="Heal Renegade" eliteSpecialization="Renegade"/>** plays with a mix of harrier's and cleric's gear for maximum power and healing power while still hitting 100% boon duration.
+The **<Specialization text="Heal Renegade" name="Renegade"/>** plays with a mix of harrier's and cleric's gear for maximum power and healing power while still hitting 100% boon duration.
  
-Since the damage and life steals of <Skill name="Soulcleaves Summit" /> are based on the **<Specialization text="Heal Renegade" eliteSpecialization="Renegade"/>**'s own power and healing power, the <Specialization text="Heal Renegade" eliteSpecialization="Renegade"/> aims to maximize those stats.
+Since the damage and life steals of <Skill name="Soulcleaves Summit" /> are based on the **<Specialization text="Heal Renegade" name="Renegade"/>**'s own power and healing power, the <Specialization text="Heal Renegade" name="Renegade"/> aims to maximize those stats.
 
 Feel free to run full Harrier if you are confident that you don't need the extra healing power or toughness from cleric. The more agony resistance you have, the more cleric you can afford to run and still hit 100% boon duration.
 
@@ -114,7 +114,7 @@ Template code:
 
 - <Skill name="Rapid Swipe"/> - The autoattack chain cleaves and the last hit provides a decent amount of healing to allies.
 - <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
-- <Skill name="Warding Rift"/> - A two second block that <Condition name="Blind"/> foes.
+- <Skill name="Warding Rift"/> - A two second block that <Condition name="Blinded"/> foes.
 - <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies for a fairly large amount.
 - <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Effect name="Knockback"/>.
 
@@ -239,7 +239,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 ---
 
 **Precast**
-* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your pre stacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100 - 75%**  
@@ -302,9 +302,9 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 
 **Precast**  
-* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
-* Ask your <Specialization eliteSpecialization="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation. It is not needed, but it doesn't take anything away from the weaver and is a group DPS increase as well as 300 CC.
+* Ask your <Specialization name="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation. It is not needed, but it doesn't take anything away from the weaver and is a group DPS increase as well as 300 CC.
 
 **100 - 66%**   
 * Have your staff equipped and pick up the <Skill name="Conjure Frost Bow"/>.
@@ -356,12 +356,12 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 **Legends**  
 
-<Skill name="LegendaryRenegadestance"/> and <Skill name="LegendaryCentaurStance"/> **or** <Skill name="LegendaryRenegadestance"/> and <Skill name="LegendaryDwarfStance"/> if you don't think extra healing is needed and your group lacks a <Specialization eliteSpecialization="Firebrand"/> who could give <Boon name="Stability"/> to the group in the last phase.
+<Skill name="LegendaryRenegadestance"/> and <Skill name="LegendaryCentaurStance"/> **or** <Skill name="LegendaryRenegadestance"/> and <Skill name="LegendaryDwarfStance"/> if you don't think extra healing is needed and your group lacks a <Specialization name="Firebrand"/> who could give <Boon name="Stability"/> to the group in the last phase.
 
 ---
 
 **Precast**  
-* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-66%**
@@ -372,7 +372,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 **Orb Phase**
 * Weapon swap to staff and change to <Skill name="Legendary Renegade Stance"/>.
-* You should use <Skill name="Breakrazors Bastion"/> to keep your <Specialization eliteSpecialization="Soulbeast"/>'s <Skill name="Frost spirit"/> alive. If you don't have a <Specialization eliteSpecialization="Soulbeast"/>, you can use <Skill name="Breakrazors Bastion"/> to heal your allies that seem to be struggling during the orb phase.
+* You should use <Skill name="Breakrazors Bastion"/> to keep your <Specialization name="Soulbeast"/>'s <Skill name="Frost spirit"/> alive. If you don't have a <Specialization name="Soulbeast"/>, you can use <Skill name="Breakrazors Bastion"/> to heal your allies that seem to be struggling during the orb phase.
 
 **66-33%**
 * Precast <Skill name="Darkrazors Daring"/> right before Ensolyss appear.
@@ -384,7 +384,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 **Orb Phase**
 * Weapon swap to staff and change to <Skill name="Legendary Renegade Stance"/>.
-* Cast <Skill name="Breakrazors Bastion"/> on the <Skill name="Frost Spirit"/> to keep it alive for the last phase or if you don't have a <Specialization eliteSpecialization="Soulbeast"/>, use it to keep your teammates alive during the orb phase.
+* Cast <Skill name="Breakrazors Bastion"/> on the <Skill name="Frost Spirit"/> to keep it alive for the last phase or if you don't have a <Specialization name="Soulbeast"/>, use it to keep your teammates alive during the orb phase.
 
 **33-0%**
 * Precast <Skill name="Darkrazors Daring"/> right before Ensolyss appear.
@@ -429,11 +429,11 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 ---
 
 **Precast**  
-* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-66%**  
-* Precast <Skill name="Darkrazors Daring"/> when the <Specialization eliteSpecialization="Weaver"/> is casting <Skill name="Meteorshower"/>.
+* Precast <Skill name="Darkrazors Daring"/> when the <Specialization name="Weaver"/> is casting <Skill name="Meteorshower"/>.
 * Cast <Skill name="Icerazors Ire"/> right before triggering the instance.
 * Use <Skill name="Surge of the Mists"/> through Skorvald to break the defiance bar. Be aware of positioning to gain an extra hit.
 * Weapon swap and change to <Skill name="Legendary Dwarf Stance"/>.
@@ -466,7 +466,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> immediately.
 * Keep <Skill name="SoulcleavesSummit"/> up as long as possible. In shorter phases you can consider using <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
-* Share <Boon name="alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
 
 **Adds**
 * Replicate the skill order mentioned above in the earlier add phase.
@@ -475,7 +475,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Cast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> immediately.
 * Keep <Skill name="SoulcleavesSummit"/> up as long as possible. In shorter phases you can consider using <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
-* Share <Boon name="alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
 * If Skorvald is not dead before he starts using Solar Cyclone (the attack where he spins around and knocks you back) switch to <Skill name="Legendary Dwarf Stance"/> and use <Skill name="Inspiring Reinforcement"/> before he starts using the aforementioned attack.
 
 ---
@@ -525,7 +525,7 @@ For this encounter, it is recommended to run the following traits in the Devasta
 <UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 **Precast**  
-* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-66%**
@@ -624,7 +624,7 @@ For this encounter, it is recommended to run the following traits in the Devasta
 ---
 
 **Precast**  
-* Wait for your teammates to drop a fire field and in case you have a <Specialization eliteSpecialization="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
+* Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
 * Your prestacking is relatively simple and follows the same pattern on every boss. Cast <Skill name="Orders from Above"/> and <Skill name="Renewing Wave"/> and take the mistlock and cast them again.
 
 **100-80%**
