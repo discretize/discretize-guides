@@ -16,9 +16,9 @@ consumables: [49940]
 ## Always start Left path with the Deepstone Sentinel (Air Elemental) 
 </GridItem>
 <GridItem sm="5"> 
-Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pass. You have to avoid the green tiles because it damages you. You can dodge and block the green tiles between the safe non glowing tiles, proceed to the end. **This can be skipped by <Specialization eliteSpecialization="Berserker"/>, <Specialization eliteSpecialization="Soulbeast"/>, <Specialization eliteSpecialization="Firebrand"/>, like in the video down below.** 
+Before the _Deepstone Sentinel_, there is a tetris-like obstacle you have to pass. You have to avoid the green tiles because it damages you. You can dodge and block the green tiles between the safe non glowing tiles, proceed to the end. **This can be skipped by <Specialization name="Berserker"/>, <Specialization name="Soulbeast"/>, <Specialization name="Firebrand"/>, like in the video down below.** 
   
-After two players passed, they stand on the cyan glowing runes to stop the tetris trap so others can pass. <Specialization name="elementalist"/> can use <Skill name="Lightning flash"/> to activate both button, a little higher ping helps with this immensely.
+After two players passed, they stand on the cyan glowing runes to stop the tetris trap so others can pass. <Specialization name="Elementalist"/> can use <Skill name="Lightning flash"/> to activate both button, a little higher ping helps with this immensely.
 </GridItem> 
 
 <GridItem sm="7">
@@ -107,7 +107,7 @@ Use <Skill name="Lightning Flash"/>, <Skill name="Ride the Lightning"/> or <Skil
 <GridItem sm="6">
 <Tabs>
 <Tab specialization="Renegade">
-**<Specialization eliteSpecialization="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <Effect name="lightofdeldrimor"/>.** Especially helpful at the Maze part.
+**<Specialization name="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <Effect name="lightofdeldrimor"/>.** Especially helpful at the Maze part.
 </Tab>
 </Tabs>
 </GridItem>

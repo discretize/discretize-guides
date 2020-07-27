@@ -16,13 +16,13 @@ author: 'SpatiumPrinceps.8927'
 ---
 <Tabs>
 <Tab title="Build">
-The <Specialization text="Banner Berserker" eliteSpecialization="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals. 
+The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals. 
 
 Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
-The <Specialization text="Banner Berserker" eliteSpecialization="Berserker"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone.
+The <Specialization text="Banner Berserker" name="Berserker"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone.
 
-Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" eliteSpecialization="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
+Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
 
 <Divider text="Equipment"/>
 
@@ -159,7 +159,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 | <Skill name="onmymark" disableText size="big"/> | Can be used to pull Kraits from the side altars at 99CM. |
 | <Skill name="featherfootgrace" disableText size="big"/> | Grants <Effect name="Superspeed"/> for skips. |
 | <Skill name="frenzy" disableText size="big"/> | Self <Boon name="Quickness"/> for precasting banners. |
-| <Skill name="bloodreckoning" disableText size="big"/> | For double <Skill name="arcdivider"/> or the situational <Specialization eliteSpecialization="Berserker"/> build. |
+| <Skill name="bloodreckoning" disableText size="big"/> | For double <Skill name="arcdivider"/> or the situational <Specialization name="Berserker"/> build. |
 | <Skill name="outrage" disableText size="big"/> | Very strong in conjunction with <Skill name="headbutt"/> for <Skill name="berserk"/> extension. | 
 | <Skill name="Wild Blow" disableText size="big"/> | 332 CC and 4s <Skill name="berserk"/> extension. |  
 | <Skill name="bullscharge" disableText size="big"/> | 300 CC, gives <Trait name="Peakperformance"/>. | 
@@ -189,7 +189,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 
 **Extra notes:**
 * If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!
-* If you expect your party to be slow it can make sense to bring <Trait name="smashbrawler"/> and either eat the initial <Effect name="Stun"/> of <Skill name="headbutt"/> or break it with <Item id="24"/>.
+* If you expect your party to be slow it can make sense to bring <Trait name="smashbrawler"/> and either eat the initial <Control name="Stun"/> of <Skill name="headbutt"/> or break it with <Item id="24"/>.
 * Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
 * Entering <Skill name="Berserk"/> grants 3 stacks of <Trait name="Berserkers Power"/>, while <Skill name="Decapitate"/> only grants 1. You will find <Trait name="Berserkers Power"/> starting to run low when out of <Skill name="Berserk"/>, try to make sure you are in <Skill name="Berserk"/> for burn phases while also not delaying <Skill name="Berserk"/> where possible.
 
@@ -604,7 +604,7 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 - As soon as the boss appears, use <Skill name="Flames of war"/> and <Skill name="Mending"/>.
 
 ### **1st Phase**
-- <Skill name="Headbutt"/> start to cast a few milliseconds before he looses <Effect name="invulnerability"/>.
+- <Skill name="Headbutt"/> start to cast a few milliseconds before he looses <Effect name="Invulnerability"/>.
 - <Skill name="Berserk"/>.
 - Swap weapons.
 - Smash <Skill name="Decapitate"/> hard.
@@ -694,7 +694,7 @@ The rest of the fight follows accordingly.
 <Grid>
 <GridItem sm="12">
 <Divider text="ARTSARIIV"/>
-Your skill choice is heavily influenced by the strategy your team chooses. The following guide assumes kills with <Specialization eliteSpecialization="Soulbeast"/> reflection in the corners or PuG kills with weak or no reflection.
+Your skill choice is heavily influenced by the strategy your team chooses. The following guide assumes kills with <Specialization name="Soulbeast"/> reflection in the corners or PuG kills with weak or no reflection.
 </GridItem>
 
 <GridItem sm="6">
@@ -800,7 +800,7 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 </Grid>
 
 <Message>
-It is not your job as <Specialization eliteSpecialization="Berserker"/> to slay the Temporal Anomaly! 
+It is not your job as <Specialization name="Berserker"/> to slay the Temporal Anomaly! 
 </Message>
 
 ### **Prestacking**
@@ -834,7 +834,7 @@ It is not your job as <Specialization eliteSpecialization="Berserker"/> to slay 
 - If there is time left use <Skill name="whirlingaxe"/>.
 
 ### *Archdiviner*
-- Blast a fire field that is provided by the <Specialization eliteSpecialization="Firebrand"/> or <Specialization eliteSpecialization="Weaver"/> with your banners to stack 6 stacks of <Boon name="Might"/>.
+- Blast a fire field that is provided by the <Specialization name="Firebrand"/> or <Specialization name="Weaver"/> with your banners to stack 6 stacks of <Boon name="Might"/>.
 - Engage <Skill name="berserk"/> as soon as possible.
 - Don't stand inside of AoEs, that strip your boons.
 - Use <Skill name="mending"/> when the Archdiviner is dead. 

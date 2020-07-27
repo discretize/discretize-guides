@@ -143,7 +143,7 @@ With <Skill name="Legendary Demon Stance"/> you would want to use these abilitie
 
 - <Skill name="Rapid Swipe"/> - The auto-attack chain cleaves and the last hit provides a small amount of healing to allies.
 - <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
-- <Skill name="Warding Rift"/> - A two second block that <Condition name="Blind"/> foes. 
+- <Skill name="Warding Rift"/> - A two second block that <Condition name="Blinded"/> foes. 
 - <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
 - <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grant between three and nine hits of <Effect name="Knockback"/>. 
 
@@ -358,7 +358,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 **Precast**  
 * Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlaps and grants twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast if needed.
 * After the introduction of templates, it is recommended to precast using equipment with higher boon duration.
-* Ask your <Specialization eliteSpecialization="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation.
+* Ask your <Specialization name="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation.
 
 **100 - 66%**   
 * Have your staff equipped and pick up the <Skill name="Conjure Frost Bow"/>.
@@ -455,8 +455,8 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **Orb Phase**
 * Weapon swap to staff and change to <Skill name="Legendary Renegade Stance"/>.
-* Position yourself in a circle next to the <Specialization eliteSpecialization="Weaver"/> in your party.
-* Use <Skill name ="Orders from Above"/> to share <Boon name="Alacrity"/> with the <Specialization eliteSpecialization="Weaver"/>.
+* Position yourself in a circle next to the <Specialization name="Weaver"/> in your party.
+* Use <Skill name ="Orders from Above"/> to share <Boon name="Alacrity"/> with the <Specialization name="Weaver"/>.
 
 **66-33%**
 * Precast <Skill name="Darkrazors Daring"/> right before Ensolyss appear.
@@ -472,8 +472,8 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 
 **Orb Phase**
 * Weapon swap to staff and change to <Skill name="Legendary Renegade Stance"/>.
-* Position yourself in a circle next to the <Specialization eliteSpecialization="Weaver"/> in your party.
-* Use <Skill name ="Orders from Above"/> to share <Boon name="Alacrity"/> with the <Specialization eliteSpecialization="Weaver"/>.
+* Position yourself in a circle next to the <Specialization name="Weaver"/> in your party.
+* Use <Skill name ="Orders from Above"/> to share <Boon name="Alacrity"/> with the <Specialization name="Weaver"/>.
 * Cast <Skill name="Breakrazors Bastion"/> on the <Skill name="Frost Spirit"/> to keep it alive for the last phase.
 
 **33-0%**
@@ -493,7 +493,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon
 **Annotation**
 * Consider breaking the defiance bar a second time in prolonged phases. Use <Skill name="Surge of the Mists"/> and <Skill name="Darkrazors Daring"/> after the Upswing attack in the first phase, and after the Nightmare Devastation attack in the second phase. In the third phase use <Skill name="Darkrazors Daring"/> on the first defiance bar, and use <Skill name="Surge of the mists"/> immediately when the second defiance bar appears.
 * Using <Skill name="Chilling Isolation"/> before <Skill name="Citadel Bombardment"/> will give you the opportunity to use <Skill name="Chilling Isolation"/> again while Ensolyss is affected by the <Effect name="Exposed"/> debuff.
-* Coordinate with the <Specialization eliteSpecialization="Soulbeast"/> in which orb phase to use <Skill name="Breakrazors Bastion"/> to heal the <Skill name="Frost Spirit"/>.
+* Coordinate with the <Specialization name="Soulbeast"/> in which orb phase to use <Skill name="Breakrazors Bastion"/> to heal the <Skill name="Frost Spirit"/>.
 
 </GridItem>
 </Tab>
@@ -525,7 +525,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
 
 **100-66%**  
-* Precast <Skill name="Darkrazors Daring"/> when the <Specialization eliteSpecialization="Weaver"/> is casting <Skill name="Meteorshower"/>.
+* Precast <Skill name="Darkrazors Daring"/> when the <Specialization name="Weaver"/> is casting <Skill name="Meteorshower"/>.
 * Cast <Skill name="Icerazors Ire"/> right before triggering the instance.
 * Use <Skill name="Surge of the Mists"/> through Skorvald to break the defiance bar. Be aware of positioning to gain an extra hit.
 * Weapon swap and change to <Skill name="Legendary Assassin Stance"/>, this will grant you extra energy from the trait <Trait name="Charged Mists"/>.
@@ -557,7 +557,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 * Deplete your energy with <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/>.
 * Change to <Skill name="Legendary Assassin Stance"/>.
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>.
-* Share <Boon name="alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
+* Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/> when the phase ends.
 
 **Adds**
 * Replicate the skill order mentioned above in the earlier add phase.

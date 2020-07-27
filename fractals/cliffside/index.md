@@ -29,7 +29,7 @@ consumables: [78978]
 
 Kill the Cultists but take the _Cultist Hammer_ before finishing the last one to get a hammer charge.  
 Take the portal to above (...or walk) and destroy the two _Ankle Seals_ using hammer `Skill 4`. Both seals have to get hit two times, do not finish mobs unless you need a charge.  
-Use `/gg` afterwards and stay dead until the <Specialization name="elementalist"/>, <Specialization name="Guardian"/>, <Specialization name="thief"/>  reaches the Chest Seal.
+Use `/gg` afterwards and stay dead until the <Specialization name="Elementalist"/>, <Specialization name="Guardian"/>, <Specialization name="Thief"/>  reaches the Chest Seal.
 </GridItem>
 
 <GridItem sm="4">
@@ -43,21 +43,21 @@ At the start, use <Item id="8764"/> and <Item id="8801"/> for <Effect name="Stea
 </Tab>
 
 <Tab specialization="elementalist">
-After the <Specialization eliteSpecialization="Renegade"/> or someone teleported the party up, the <Specialization name="elementalist"/> waits at the gate for the others to finish the two seals, then rush upstairs.   
+After the <Specialization name="Renegade"/> or someone teleported the party up, the <Specialization name="Elementalist"/> waits at the gate for the others to finish the two seals, then rush upstairs.   
         Keep walking until you reach the last wooden board, then `/gg` as well.
 
 
 <Video title="Guardian (same of ele) skip (to chest)" timestamp="129" youtube="MmJTsOhdQeo"/>
 </Tab>
 <Tab specialization="Guardian">
-After the <Specialization eliteSpecialization="Renegade"/> or someone teleported the party up, the <Specialization name="elementalist"/> waits at the gate for the others to finish the two seals, then rush upstairs.   
+After the <Specialization name="Renegade"/> or someone teleported the party up, the <Specialization name="Elementalist"/> waits at the gate for the others to finish the two seals, then rush upstairs.   
         Keep walking until you reach the last wooden board, then `/gg` as well.
 
 
 <Video title="Guardian skip (to chest)" timestamp="129" youtube="MmJTsOhdQeo"/> 
 </Tab>
 <Tab specialization="Thief">
-After the <Specialization eliteSpecialization="Renegade"/> or someone teleported the party up, the <Specialization name="elementalist"/> waits at the gate for the others to finish the two seals, then rush upstairs.   
+After the <Specialization name="Renegade"/> or someone teleported the party up, the <Specialization name="Elementalist"/> waits at the gate for the others to finish the two seals, then rush upstairs.   
         Keep walking until you reach the last wooden board, then `/gg` as well.
 
 
@@ -95,7 +95,7 @@ After 2-3 hits against the Seal, place <Item id="78978"/>, run up to the *Right 
 <GridItem sm="6">
 ## Chest Seal <Item id="8881" disableText/><Item id="24678" disableText/>
   
-As soon as the <Specialization name="elementalist"/> did `/gg` too, everyone can resurrect and will respawn in front of the *Chest Seal* with a new *Cultist Hammer* ahead of you.    
+As soon as the <Specialization name="Elementalist"/> did `/gg` too, everyone can resurrect and will respawn in front of the *Chest Seal* with a new *Cultist Hammer* ahead of you.    
 It will take five hits to break the chest seal. If you see somebody running ahead and placing a <Item name="whitemantleportaldevice"/> to the *Arm Seals*, try to get a hammer charge before taking it to above.
   
 <Image src="./images/chest_seal.jpg" caption="The chest seal"/>  
@@ -108,7 +108,7 @@ It will take five hits to break the chest seal. If you see somebody running ahea
 <GridItem sm="5">
 ## Arm Seals <Item id="8881" disableText/><Item id="24678" disableText/>  
   
-This is a matter of timing, so look out for the <Item id="78978"/> and the hammer carrier. In a perfect world yoe use the portals one by one, and <Specialization eliteSpecialization="Renegade"/> placing <Skill name="Inspiring Reinforcement"/>, giving <Boon name="Stability"/> to the hammer carrier and not getting knocked back, resulting in faster seal breaking.
+This is a matter of timing, so look out for the <Item id="78978"/> and the hammer carrier. In a perfect world yoe use the portals one by one, and <Specialization name="Renegade"/> placing <Skill name="Inspiring Reinforcement"/>, giving <Boon name="Stability"/> to the hammer carrier and not getting knocked back, resulting in faster seal breaking.
 
 During the portal jumping, keep Cultist's health as low as possible but **only finish them when a hammer charge is needed**. If you run out of portals simply run together. Ideally, both seals take three hits to be destroyed—two portals are more than enough.
 
@@ -137,7 +137,7 @@ Again, <Skill id="12638"/> on offhand Axe helps pulling the Cultists to you.
 <GridItem sm="12">
 ## The way up 
   
-Do not resurrect yourself yet, wait for the  <Specialization name="revenant"/>, <Specialization name="elementalist"/>, <Specialization name="Guardian"/> or <Specialization name="thief"/> to finish his portal and do `/gg` himself again or you will be stuck with a useless person for the entire end fight.
+Do not resurrect yourself yet, wait for the  <Specialization name="Revenant"/>, <Specialization name="Elementalist"/>, <Specialization name="Guardian"/> or <Specialization name="Thief"/> to finish his portal and do `/gg` himself again or you will be stuck with a useless person for the entire end fight.
 
 After the whole party `/gg`'ed, resurrect yourself and place <Item id="78978"/> at the revival position.    
     Blink up to the Arch Diviner, open the portal and **walk away from it** before doing `/gg` again to reset your cooldowns. If you kill yourself on the portal it bugs so watch it!    

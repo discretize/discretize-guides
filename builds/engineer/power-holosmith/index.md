@@ -12,7 +12,7 @@ effects: ['Stealth']
 code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
-The engineer build that currently fares best in fractals is the <Specialization text="Power Holosmith" eliteSpecialization="Holosmith"/>, offering a mix of high damage and a relatively good amount of crowd control and utility in form of <Condition name="Vulnerability"/> and some <Condition name="Blind"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>.
+The engineer build that currently fares best in fractals is the <Specialization text="Power Holosmith" name="Holosmith"/>, offering a mix of high damage and a relatively good amount of crowd control and utility in form of <Condition name="Vulnerability"/> and some <Condition name="Blinded"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -131,7 +131,7 @@ You can swap Firearms trait line with Tools and replace <Skill id="5805"/> on <S
 * <Skill id="5830"/> can help in controlling movement of enemies without breakbar. 
 * Never <Skill id="44386"/>, always try to <Skill id="41123"/> at 149 heat.
 
-You can switch to <Specialization eliteSpecialization="Scrapper"/> and equip <Skill id="30815"/> if you need <Effect name="Stealth"/> for longer passages (e.g. [Twilight Oasis Fractal](https://discretize.eu/fractals/twilight-oasis)). It provides >40 seconds for the whole group. A smoke field can also be provided by <Skill id="5824"/> to blast <Effect name="Stealth"/>.
+You can switch to <Specialization name="Scrapper"/> and equip <Skill id="30815"/> if you need <Effect name="Stealth"/> for longer passages (e.g. [Twilight Oasis Fractal](https://discretize.eu/fractals/twilight-oasis)). It provides >40 seconds for the whole group. A smoke field can also be provided by <Skill id="5824"/> to blast <Effect name="Stealth"/>.
 </Card>
 
 <Card title="CC skills">

@@ -140,7 +140,7 @@ Initially, there are Frizz and two Inquest enemies to fight. As soon as Frizz re
 
 After about five seconds, the first _Aetherblade Golem_ wakes up and two _Small Lasers_ start spinning. You can jump over the small lasers by utilizing the elevated boxes around.
 
-When the first golem dies, the two _Small Lasers_ will disappear and two more _Aetherblade Golems_ wake up. _Large Lasers_ start spinning which you cannot bypass without <Effect name="invulnerability"/>.
+When the first golem dies, the two _Small Lasers_ will disappear and two more _Aetherblade Golems_ wake up. _Large Lasers_ start spinning which you cannot bypass without <Effect name="Invulnerability"/>.
 
 As soon as the two golems are dead, the two _Small Lasers_ will join the two large lasers again and two final golems wake up. Kill those to finish the fight.
 
@@ -159,7 +159,7 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 
-<Tab specialization="warrior">
+<Tab specialization="Warrior">
 Drop your banners in the very center of the arena. 
 
 Using <Skill name="whirlwind attack"/> against the wall is very effective. 

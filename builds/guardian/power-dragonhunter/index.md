@@ -17,9 +17,9 @@ author: 'SpatiumPrinceps.8927'
 
 <Tab title="Build">
 
-The <Specialization eliteSpecialization="Dragonhunter" text="Power Dragonhunter"/> was moved to the [offmeta](/builds/) due to the fact that you can not replace a <Specialization eliteSpecialization="Weaver"/> or <Specialization eliteSpecialization="Soulbeast"/>. <Specialization title="Power Dragonhunter" eliteSpecialization="Dragonhunter"/> is a meta build only if it replaces <Specialization eliteSpecialization="Firebrand" /> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups. 
+The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> was moved to the [offmeta](/builds/) due to the fact that you can not replace a <Specialization name="Weaver"/> or <Specialization name="Soulbeast"/>. <Specialization title="Power Dragonhunter" name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand" /> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups. 
 
-<Specialization eliteSpecialization="Dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
+<Specialization name="Dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
 
 The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/>, <Skill name="standyourground"/>.
 
@@ -172,7 +172,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Tab title="99CM">
 <Divider text="Nightmare"/>
 <Message>
-If you are replacing the <Specialization eliteSpecialization="Firebrand" />, check <Specialization eliteSpecialization="Firebrand" /> [guide](/builds/guardian/hybrid-firebrand) where you will find information regarding swapping to <Specialization eliteSpecialization="Dragonhunter"/>.
+If you are replacing the <Specialization name="Firebrand" />, check <Specialization name="Firebrand" /> [guide](/builds/guardian/hybrid-firebrand) where you will find information regarding swapping to <Specialization name="Dragonhunter"/>.
 </Message>
 - Please check the [CC distribution](/guides/cc-distribution) to contribute your share of the necessary CC!
 - Please also read through the [nightmare fractal page](/fractals/nightmare) for general encounter information!
@@ -189,7 +189,7 @@ If you are replacing the <Specialization eliteSpecialization="Firebrand" />, che
 ### **Synopsis**
 - Start on Scepter/Sword.
 - Try to use your full burst (either you start the phase on GS or sword/scepter) in each phase after breakbar is broken.
-- Don't forget that you can not expect to see the highest numbers without the breakbar being frequently broken: to make that happen use <Skill name="banesignet"/>. <Specialization eliteSpecialization="Renegade"/> and  <Specialization eliteSpecialization="Berserker"/> will not break the bar alone without consumables so DO NOT be selfish.
+- Don't forget that you can not expect to see the highest numbers without the breakbar being frequently broken: to make that happen use <Skill name="banesignet"/>. <Specialization name="Renegade"/> and  <Specialization name="Berserker"/> will not break the bar alone without consumables so DO NOT be selfish.
 - Do not use traps on the adds.
 - Use <Skill name="binding blade"/> inside MAMAs hitbox, when the small adds are coming close.
 - Feel free to use <Skill name="symbol of blades"/>, <Skill name="leapoffaith"/> and <Skill name="wingsofresolve"/> for faster movement.
@@ -281,8 +281,8 @@ You can kill the first two adds with a greatsword. You can use traps on the 2nd 
 </Tab>
 <Tab title="Artsariiv">
 **General**
-- If your team does not have a <Specialization eliteSpecialization="Soulbeast"/>, you can take <Skill name="Wall of reflection"/> for reflects. Please don't steal the reflect from a <Specialization eliteSpecialization="Soulbeast"/>!
-- Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the <Effect name="knockback"/> attacks.
+- If your team does not have a <Specialization name="Soulbeast"/>, you can take <Skill name="Wall of reflection"/> for reflects. Please don't steal the reflect from a <Specialization name="Soulbeast"/>!
+- Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the <Effect name="Knockback"/> attacks.
 - Save a <Skill name="shieldofcourage"/> or <Skill name="shieldofwrath"/> for the expanding AoE so you can deal continues DPS during the mid burn.
 
 ---

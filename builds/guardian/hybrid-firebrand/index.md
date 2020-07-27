@@ -8,26 +8,26 @@ specialization: 'Firebrand'
 benchmark: { small: { dps: 23300, by: 'MajesticNoodle [BATS]', youtube: 'G1Y1u4ZwJh8' } }
 skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
-conditions: ['Vulnerability', 'Blind', 'Crippled']
+conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'ganymed.3541'
 ---
 
 <Tabs>
 <Tab title="Build">
-The **<Specialization text="Power Quickness Firebrand" eliteSpecialization="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing high DPS.
+The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing high DPS.
 
-It plays very similar to <Specialization text="Power Dragonhunter" eliteSpecialization="Dragonhunter"/> with the addition of <Specialization eliteSpecialization="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
+It plays very similar to <Specialization text="Power Dragonhunter" name="Dragonhunter"/> with the addition of <Specialization name="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
 
 
 Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' power by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
 <Message>
-Its worth to mention that *<Specialization text="Power Quickness Firebrand" eliteSpecialization="Firebrand"/>* is very strong with short phases. For various T4 fractals, long fight or if you simply happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" eliteSpecialization="Firebrand"/>* ([Build](/builds/guardian/condi-firebrand) ) as it provides much better DPS for longer fights. 
+Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="Firebrand"/>* is very strong with short phases. For various T4 fractals, long fight or if you simply happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="Firebrand"/>* ([Build](/builds/guardian/condi-firebrand) ) as it provides much better DPS for longer fights. 
 </Message>
 
 <Message>
-After July 2020 Balance patch, <Skill name="Feel my Wrath"/> got nerfed! In order to provide permanent quickness for fights longer then 1,5 minutes, <Specialization eliteSpecialization="Firebrand"/> needs to increase their **boon duration to 24.6%**.
+After July 2020 Balance patch, <Skill name="Feel my Wrath"/> got nerfed! In order to provide permanent quickness for fights longer then 1,5 minutes, <Specialization name="Firebrand"/> needs to increase their **boon duration to 24.6%**.
 </Message>
 <Divider text="Equipment"/>
 
@@ -288,13 +288,13 @@ The following guide assumes you are playing with a decent group. In a PuG scenar
 <Tab title="Siax">
 
 <Message>
-Siax is a really short encounter that should be killed in about 40 seconds. Consider swapping to  <Specialization eliteSpecialization="Dragonhunter"/>: <Skill name="feelmywrath"/> in combination with precast is enough to keep up <Boon name="Quickness"/>
+Siax is a really short encounter that should be killed in about 40 seconds. Consider swapping to  <Specialization name="Dragonhunter"/>: <Skill name="feelmywrath"/> in combination with precast is enough to keep up <Boon name="Quickness"/>
 </Message>
 <Message>
 Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this encounter!
 </Message>
 <Message>
-The rotation for scepter/sword is the same for every specialization. **Sword tends to perform much better on both <Specialization eliteSpecialization="Firebrand"/> and <Specialization eliteSpecialization="Dragonhunter"/>**!
+The rotation for scepter/sword is the same for every specialization. **Sword tends to perform much better on both <Specialization name="Firebrand"/> and <Specialization name="Dragonhunter"/>**!
 </Message>
 
 ### **Precast**
@@ -322,7 +322,7 @@ The rotation for scepter/sword is the same for every specialization. **Sword ten
 - <Skill name="whirling wrath"/>
 
 ### *Split Phase 1*
-NOTE - you should help your <Specialization eliteSpecialization="Weaver"/> on the north
+NOTE - you should help your <Specialization name="Weaver"/> on the north
 - Feel free to use <Skill name="leapoffaith"/>
 - Auto attack
 
@@ -336,9 +336,9 @@ NOTE - you should help your <Specialization eliteSpecialization="Weaver"/> on th
 - Share Aegis to block the red AoE
 
 ### *Split Phase 2*
-NOTE - you should help both <Specialization eliteSpecialization="Weaver"/>  and <Specialization eliteSpecialization="Soulbeast"/> with their adds
-- Help <Specialization eliteSpecialization="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
-- Help <Specialization eliteSpecialization="Weaver"/> by using <Skill name="symbol of punishment"/> and/or <Skill name="ray of judgment"/> on his add
+NOTE - you should help both <Specialization name="Weaver"/>  and <Specialization name="Soulbeast"/> with their adds
+- Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
+- Help <Specialization name="Weaver"/> by using <Skill name="symbol of punishment"/> and/or <Skill name="ray of judgment"/> on his add
 
 ### **Phase 3**
 - Precast <Skill name="banesignet"/>
@@ -353,7 +353,7 @@ NOTE - you should help both <Specialization eliteSpecialization="Weaver"/>  and 
 
 <Tab specialization="Guardian" title="Core">
 <Message>
-<Specialization text="Core Guardian" name="Guardian"/> can be very tricky as its dps is heavily influenced on how you can keep your <Boon name="aegis"/>. If you are unable to keep your <Boon name="aegis"/>, <Specialization eliteSpecialization="Dragonhunter"/> will perform much better.
+<Specialization text="Core Guardian" name="Guardian"/> can be very tricky as its dps is heavily influenced on how you can keep your <Boon name="Aegis"/>. If you are unable to keep your <Boon name="Aegis"/>, <Specialization name="Dragonhunter"/> will perform much better.
 </Message>
 <Message>
 <Specialization text="Core Guardian" name="Guardian"/> allows you to have a free utility slot, which you can use for what is best for you strategy.  
@@ -372,7 +372,7 @@ As <Specialization text="Core Guardian" name="Guardian"/> you may run <Trait nam
 - <Skill name="whirling wrath"/>
 
 ### *Split Phase 1*
-NOTE - you should help your <Specialization eliteSpecialization="Weaver"/> on the north
+NOTE - you should help your <Specialization name="Weaver"/> on the north
 - Feel free to use <Skill name="leapoffaith"/>
 - Auto attack
 
@@ -386,12 +386,12 @@ NOTE - you should help your <Specialization eliteSpecialization="Weaver"/> on th
 - <Skill name="symbol of blades"/>
 - <Skill name="zealots defense"/>
 
-Keep in mind that if your group is not fast enough, you need to use <Skill name="virtue of courage"/> for <Boon name="aegis"/>. 
+Keep in mind that if your group is not fast enough, you need to use <Skill name="virtue of courage"/> for <Boon name="Aegis"/>. 
 
 ### *Split Phase 2*
-NOTE - you should help both <Specialization eliteSpecialization="Weaver"/>  and <Specialization eliteSpecialization="Soulbeast"/> with their adds
-- Help <Specialization eliteSpecialization="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
-- Help <Specialization eliteSpecialization="Weaver"/> by using <Skill name="symbol of blades"/> and/or <Skill name="ray of judgment"/> on his add
+NOTE - you should help both <Specialization name="Weaver"/>  and <Specialization name="Soulbeast"/> with their adds
+- Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
+- Help <Specialization name="Weaver"/> by using <Skill name="symbol of blades"/> and/or <Skill name="ray of judgment"/> on his add
 - You can run <Skill name="judges intervention"/> to get back to Siax fast
 
 ### **Phase 3**
@@ -420,7 +420,7 @@ NOTE - you should help both <Specialization eliteSpecialization="Weaver"/>  and 
 - <Skill name="whirling wrath"/>
 
 ### *Split Phase 1*
-NOTE - you should help your <Specialization eliteSpecialization="Weaver"/> on the north
+NOTE - you should help your <Specialization name="Weaver"/> on the north
 - Feel free to use <Skill name="leapoffaith"/>
 - <Skill name="sword of justice"/>
 - Auto attack
@@ -436,9 +436,9 @@ NOTE - you should help your <Specialization eliteSpecialization="Weaver"/> on th
 - Share Aegis to block the red AoE
 
 ### *Split Phase 2*
-NOTE - you should help both <Specialization eliteSpecialization="Weaver"/>  and <Specialization eliteSpecialization="Soulbeast"/> with their adds
-- Help <Specialization eliteSpecialization="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
-- Help <Specialization eliteSpecialization="Weaver"/> by using <Skill name="symbol of punishment"/> and/or <Skill name="ray of judgment"/> on his add
+NOTE - you should help both <Specialization name="Weaver"/>  and <Specialization name="Soulbeast"/> with their adds
+- Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
+- Help <Specialization name="Weaver"/> by using <Skill name="symbol of punishment"/> and/or <Skill name="ray of judgment"/> on his add
 
 ### **Phase 3**
 - Precast <Skill name="banesignet"/>
@@ -537,7 +537,7 @@ Notes:
 - Please also read through the [Shattered Observatory fractal page](/fractals/shattered-observatory) for general encounter information!
 <Tabs>
 <Tab title="Skorvald">
-Rotation on Skorvald depends on whether your <Specialization eliteSpecialization="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization eliteSpecialization="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
+Rotation on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
  
  ### **Precast**
 1) Cast <Skill name="tome of justice"/> skill 4 and 5
@@ -606,12 +606,12 @@ Rotation on Skorvald depends on whether your <Specialization eliteSpecialization
  5) <Skill name="bindingblade"/>
  
  Notes:
- 1) If your <Specialization eliteSpecialization="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/> precast one <Skill name="sword of justice"/> at the start, Then use on each island and at the start of both phase 2 and 3
+ 1) If your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/> precast one <Skill name="sword of justice"/> at the start, Then use on each island and at the start of both phase 2 and 3
  2) Be careful with what island you choose for your <Item name="white mantle portal device"/>: Don't use it at the island where you are supposed to enter any of your tomes
 
 </Tab>
 <Tab title="Artsariiv">
-Rotation on Artsariiv depends on whether your <Specialization eliteSpecialization="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization eliteSpecialization="Renegade"/>  runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
+Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/>  runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
 
 ### **Precast**
 1) Cast <Skill name="tome of justice"/> Skill 4 and 5
@@ -646,7 +646,7 @@ Stay in the middle
 3) <Skill name="ray of judgment"/>
 4) <Skill name="shield of wrath"/> (if its off CD)
 5) <Skill name="symbol of wrath"/>
-6) Use <Skill name="Stand your ground"/> and share <Boon name="aegis"/>
+6) Use <Skill name="Stand your ground"/> and share <Boon name="Aegis"/>
 7) <Skill name="whirling wrath"/>
 8) <Skill name="bindingblade"/>
 9) <Skill name="leapoffaith"/>
@@ -668,7 +668,7 @@ Stay in the middle
 3) <Skill name="ray of judgment"/>
 4) <Skill name="shield of wrath"/> (if its off CD)
 5) <Skill name="symbol of wrath"/>
-6) Use <Skill name="Stand your ground"/> and share <Boon name="aegis"/>
+6) Use <Skill name="Stand your ground"/> and share <Boon name="Aegis"/>
 7) <Skill name="whirling wrath"/>
 8) <Skill name="bindingblade"/>
 9) <Skill name="leapoffaith"/>

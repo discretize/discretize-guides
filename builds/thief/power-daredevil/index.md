@@ -17,12 +17,12 @@ code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 
 <Tabs>
 <Tab title="Build">
-<Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="Stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable fast skips in T4s. <Specialization name="daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="daredevil"/>  becomes quite hard to master.
+<Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="Stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable fast skips in T4s. <Specialization name="Daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="Daredevil"/>  becomes quite hard to master.
 
-In fractals <Specialization name="daredevil"/> falls behind other classes for several reasons:
-1. First reason is <Trait id="1268"/>, which forces <Specialization name="daredevil"/> to constantly attack from behind or flank, which in some scenarios is not possible. (Note: with latest balance patch, keen observer got buffed, and with at least 204 Agony Resistance <Specialization name="daredevil"/> no longer needs to flank). 
+In fractals <Specialization name="Daredevil"/> falls behind other classes for several reasons:
+1. First reason is <Trait id="1268"/>, which forces <Specialization name="Daredevil"/> to constantly attack from behind or flank, which in some scenarios is not possible. (Note: with latest balance patch, keen observer got buffed, and with at least 204 Agony Resistance <Specialization name="Daredevil"/> no longer needs to flank). 
 2. Next reason is <Trait id="1257"/>, which depending on your group composition you may not receive as much of a damage bonus as you would in raids where 10 players put more condis to be on the boss.
-3. Because of <Trait id="2047"/>, you may be pushing your teammates on fractals with <Instability name="Social awkwardness"/> instability into deadly zones.
+3. Because of <Trait id="2047"/>, you may be pushing your teammates on fractals with <Instability name="Social Awkwardness"/> instability into deadly zones.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -192,7 +192,7 @@ You can also activate <Skill id="13046"/> to burst for the last few attacks of a
 
 Keep in mind you can precast skills like <Skill id="13037"/>, <Skill id="13082"/> or <Skill id="13132"/> and take the mistlock singularity to refresh their coolddown. For example: Precast <Skill id="13082"/>, take mistlock, cast <Skill id="13132"/>, and swap to <Skill id="13082"/> again.
 
-Although <Specialization name="daredevil"/> doesn't have access to  <Boon name="Superspeed"/> for <Item id="85244"/> or <Item id="49940"/>, it still can execute many skips for your party in T4s.
+Although <Specialization name="Daredevil"/> doesn't have access to  <Boon name="Superspeed"/> for <Item id="85244"/> or <Item id="49940"/>, it still can execute many skips for your party in T4s.
 
 <Video title="Thief Skips T4s" youtube="Alpgs_GaZV0"/>
 

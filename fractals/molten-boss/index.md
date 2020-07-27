@@ -35,7 +35,7 @@ Skip the first two bridges, you can use <Effect name="Stealth"/> but since it is
 
 You will reach an area with two _Molten Protectors_, drag them with you to the next group of mobs where you can't proceed. Kill everything there and the bridge to the Molten Effigy will come down.
 
-Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effect name="invulnerability"/> (recognizable by an electric beam). Therefore, killing and controlling the Molten Protectors is your highest priority throughout the entire fractal.
+Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effect name="Invulnerability"/> (recognizable by an electric beam). Therefore, killing and controlling the Molten Protectors is your highest priority throughout the entire fractal.
 
 </GridItem>
 
@@ -68,7 +68,7 @@ Stack <Boon name="Might"/> if possible before moving on to the Molten Effigy. **
 
 There is another single Molten Protector which needs to be focused before switching to the _Molten Effigy_. **<Specialization name="Revenant"/> use <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon Stance" disableText/>) and remove <Boon name="Protection"/> from the _Molten Effigy_**. Use interrupts or reflects against the Effigy's _Firestorm_ attack, pay attention to the _Charge_ (large arrow) and _Shockwave_ attacks and cleave mobs around if possible.
 
-The moment you killed the Effigy you can `/gg` if necessary so you don't have to take the Mistlock Singularity (this prevents the problem where you can't take the Mistlock Singularity due to being in fight), then you can continue to the next trash group. All following groups of mobs are progress-blocking, clear them to make it to the final area. Molten Protectors have the highest priority (because they cast AoE <Effect name="invulnerability"/>) and Smoke Shamans are second to them (they apply <Effect name="Stealth"/> to surrounding enemies). You can `/gg` once directly before the end boss if necessary.
+The moment you killed the Effigy you can `/gg` if necessary so you don't have to take the Mistlock Singularity (this prevents the problem where you can't take the Mistlock Singularity due to being in fight), then you can continue to the next trash group. All following groups of mobs are progress-blocking, clear them to make it to the final area. Molten Protectors have the highest priority (because they cast AoE <Effect name="Invulnerability"/>) and Smoke Shamans are second to them (they apply <Effect name="Stealth"/> to surrounding enemies). You can `/gg` once directly before the end boss if necessary.
 
 <Image src="./images/molten_effigy.jpg" caption="The Molten Effigy"/>
 

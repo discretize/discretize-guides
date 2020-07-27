@@ -13,10 +13,10 @@ conditions: ['Weakness', 'Vulnerability', 'Blind', 'Burning', 'Bleeding']
 code: '[&DQYRPikvMBsXARcBQgHLAL4BTgFQAVABlwCZEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
-The <Specialization eliteSpecialization="Tempest" text="Power Tempest"/> is a strong DPS variant for fractals with various utilities the <Specialization eliteSpecialization="Weaver"/> counterpart doesn't offer.
+The <Specialization name="Tempest" text="Power Tempest"/> is a strong DPS variant for fractals with various utilities the <Specialization name="Weaver"/> counterpart doesn't offer.
 
 It has very high burst damage in fast-paced fights and its overall DPS is only contested by the [Sword Weaver](/builds/elementalist/power-sword-weaver) on huge hitboxes.  
-Thanks to <Skill name="Overload Air"/>, the group's damage is buffed by around 1k DPS, so at least one <Specialization eliteSpecialization="Tempest"/> is never a bad idea when thinking about group composition.
+Thanks to <Skill name="Overload Air"/>, the group's damage is buffed by around 1k DPS, so at least one <Specialization name="Tempest"/> is never a bad idea when thinking about group composition.
 
 Apart from great DPS, the build afflicts tons of <Condition name="Vulnerability"/> and helps keeping up <Boon name="Might"/> with <Skill name="Heat Sync"/>.
 
@@ -130,10 +130,10 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 | -- | -- |
 | <Skill name="Shocking Aura" size="big" disableText/> | 100 with <Control name="Stun"/> |
 | <Skill name="Cyclone" size="big" disableText/> | 150 with <Control name="Pull"/> |
-| <Skill name="Blinding Flash" size="big" disableText/> | 20 / s with <Condition name="Blind"/> |
+| <Skill name="Blinding Flash" size="big" disableText/> | 20 / s with <Condition name="Blinded"/> |
 | <Skill name="Wind Blast" size="big" disableText/> | 232 with <Control name="Launch"/> |
-| <Skill name="Dust Storm" size="big" disableText/> | 20 / s with <Condition name="Blind"/> |
-| <Skill name="Tidal Surge" size="big" disableText/> | 150 with <Control name="knockback"/> |
+| <Skill name="Dust Storm" size="big" disableText/> | 20 / s with <Condition name="Blinded"/> |
+| <Skill name="Tidal Surge" size="big" disableText/> | 150 with <Control name="Knockback"/> |
 </Card>
 </GridItem>
 </Grid>

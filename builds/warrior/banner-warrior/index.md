@@ -13,12 +13,12 @@ code: '[&DQIEGws9MxamAKcAogGpAKwAqgCqAKwAfAHuAAAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 <Tabs>
 
-<Tab specialization="warrior" title="Build">
-The <Specialization text="Banner Warrior" name="Warrior"/> is the support build for warriors in fractals. It provides a lot less DPS compared to <Specialization eliteSpecialization="Berserker"/>. In PuGs however, where CC or <Boon name="Might"/> is the limiting factor it can be beneficial to bring <Specialization text="Banner Warrior" name="Warrior"/> over <Specialization eliteSpecialization="Berserker"/>.
+<Tab specialization="Warrior" title="Build">
+The <Specialization text="Banner Warrior" name="Warrior"/> is the support build for warriors in fractals. It provides a lot less DPS compared to <Specialization name="Berserker"/>. In PuGs however, where CC or <Boon name="Might"/> is the limiting factor it can be beneficial to bring <Specialization text="Banner Warrior" name="Warrior"/> over <Specialization name="Berserker"/>.
 
 Besides providing the group with strong unique damage buffs (<Skill id="14405"/>, <Skill id="14407"/> and <Trait id="1482"/>) and having excellent defiance bar damage with the Mace/Mace set, the build also has a medium burst damage potential on both small and large hitboxes for a support role.
 
-If enemy boons are present and for some reason you are still not playing the <Specialization eliteSpecialization="Renegade"/> + <Specialization eliteSpecialization="Firebrand"/> composition, the <Specialization eliteSpecialization="Spellbreaker"/> specialization can be played to reliably remove boons with <Skill id="45252"/> and <Trait id="2162"/>. Another advantage of this variation is the strong on-demand projectile destruction with <Skill id="45333"/>.
+If enemy boons are present and for some reason you are still not playing the <Specialization name="Renegade"/> + <Specialization name="Firebrand"/> composition, the <Specialization name="Spellbreaker"/> specialization can be played to reliably remove boons with <Skill id="45252"/> and <Trait id="2162"/>. Another advantage of this variation is the strong on-demand projectile destruction with <Skill id="45333"/>.
 
 Furthermore, the build is able to use damage modifying sigils like <Item id="24868"/> as well as slaying potions such as <Item id="50082"/>. As a support warrior, your focus is first and foremost providing the group with aforementioned damage buffs and removing boons, secondly breaking the defiance bar while following your optimized damage rotation.
 
@@ -94,7 +94,7 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Skill id="14354" size="big" disableText/> | Please use this instead of <Skill id="14502"/> for situations where you should not <Control name="knockback"/> foes (especially trash mobs). |
+| <Skill id="14354" size="big" disableText/> | Please use this instead of <Skill id="14502"/> for situations where you should not <Control name="Knockback"/> foes (especially trash mobs). |
 | <Skill id="14419" size="big" disableText/> | A niche skill if you expect people do go down from incoming damage. Also a good precast to provide more <Boon name="Might"/>. |
 | <Skill name="Signet of Rage" size="big" disableText/> | A nice <Boon name="Might"/> boost for the party after intermediate phases (e.g. orbs at Ensolyss). |
 | <Skill id="12363" size="big" disableText/> | Meme DPS. |
@@ -105,7 +105,7 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 
 <Divider text="Might Sharing Variant"/>
 
-If you're running without a <Specialization eliteSpecialization="Druid"/> or <Specialization eliteSpecialization="Renegade"/> (for whatever unlogical reason), you need to provide <Boon name="Might"/> (and <Boon name="Fury"/> to some degree) for the party. This is achieved with the following changes to the build:
+If you're running without a <Specialization name="Druid"/> or <Specialization name="Renegade"/> (for whatever unlogical reason), you need to provide <Boon name="Might"/> (and <Boon name="Fury"/> to some degree) for the party. This is achieved with the following changes to the build:
 
 - 6x <Item name="Strength" type="Rune"/> instead of <Item name="Scholar" type="Rune"/>
 - <Item name="Fried Golden Dumpling" type="Food"/> instead of <Item id="41569"/>
@@ -115,14 +115,14 @@ Everything else stays the same. Note that your CC suffers without <Skill id="145
 
 </Tab>
 
-<Tab specialization="warrior" title="Guide">
+<Tab specialization="Warrior" title="Guide">
 <Divider text="Details"/>
 
 <Grid>
 <GridItem sm="8">
 <Card title="Skill usage">
 * Pre-fight:
-  * Use <Skill id="14394"/> and <Skill id="14393"/> on warhorn (<Boon name="vigor" disableText/><Boon name="swiftness" disableText/>) to blast a fire field for <Boon name="Might"/>.
+  * Use <Skill id="14394"/> and <Skill id="14393"/> on warhorn (<Boon name="Vigor" disableText/><Boon name="Swiftness" disableText/>) to blast a fire field for <Boon name="Might"/>.
   * Place <Skill id="14407"/> and <Skill id="14405"/> into to the boss
   * Use <Skill id="14402"/> to charge up Adrenaline immediately before the fight starts
 * Breaking defiance bars:
@@ -171,7 +171,7 @@ If using <Skill id="14483"/>:
 | <Skill id="14488"/> | 150 damage                     |
 | <Skill id="14487"/> | 100 damage                     |
 
-With mainhand dagger on <Specialization eliteSpecialization="Spellbreaker"/>:
+With mainhand dagger on <Specialization name="Spellbreaker"/>:
 
 |                     |                                             |
 | ------------------- | ------------------------------------------- |
@@ -186,7 +186,7 @@ With mainhand dagger on <Specialization eliteSpecialization="Spellbreaker"/>:
 <Tab specialization="spellbreaker"  title="Spellbreaker">
 <Divider text="Spellbreaker Variant"/>
 
-With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Molten Boss, Twilight Oasis) and no <Specialization text="Domination Chronomancer" name="chronomancer"/> or <Specialization text="Mallyx Renegade" eliteSpecialization="Renegade"/> you will have to take the <Specialization eliteSpecialization="Spellbreaker"/> specialization instead of **Discipline**.
+With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Molten Boss, Twilight Oasis) and no <Specialization text="Domination Chronomancer" name="Chronomancer"/> or <Specialization text="Mallyx Renegade" name="Renegade"/> you will have to take the <Specialization name="Spellbreaker"/> specialization instead of **Discipline**.
 
 <Grid>
 <GridItem sm="7">
@@ -225,7 +225,7 @@ Everything else stays the same.
     * <Skill id="14418"/> is a DPS increase
   * Use <Skill id="45333"/> when there are multiple targets with boons (e.g. MAMA and Assault Knight at 25%), you are not at the target to remove boons in time (e.g. Artsariiv after the split 66% and 33%) or to destroy projectiles (e.g. Imbued Shaman initial Lava Elemental spawn at 75% and final 25%)
 * **Full Counter** (to trigger <Trait id="1437"/>):
-  * <Skill id="44165"/> block aspect acts similar to <Boon name="aegis"/>. Thus any attack you would be able to block with <Boon name="aegis"/> successfully activates <Skill id="44165"/>.
+  * <Skill id="44165"/> block aspect acts similar to <Boon name="Aegis"/>. Thus any attack you would be able to block with <Boon name="Aegis"/> successfully activates <Skill id="44165"/>.
 </Card>
 </Tab>
 

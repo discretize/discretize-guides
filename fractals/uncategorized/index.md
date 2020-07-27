@@ -37,7 +37,7 @@ consumables: [78978, 49940, 8764, 8801]
 
 ## Holding Area
 
-Stack <Boon name="Might"/> before destroying the _Power Generator_, stack in the structure on the left side of the room and let your <Specialization eliteSpecialization="Renegade"/> destroy the _Power Generator_.
+Stack <Boon name="Might"/> before destroying the _Power Generator_, stack in the structure on the left side of the room and let your <Specialization name="Renegade"/> destroy the _Power Generator_.
 
 Then kill the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's _Massive Smash_ attack. Reflects are strong here as well, especially against the Fire Shaman's projectiles.
 
@@ -74,7 +74,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 <GridItem sm="8">
 ## Pulsing Orbs
 
-You can skip this part with <Specialization eliteSpecialization="Weaver"/> or <Specialization name="Daredevil"/> shown in the videos down below or you can just walk past the three Harpies (no <Effect name="Stealth"/> needed) and run up the ramp towards Old Tom. You can dodge through or reflect the pulsing orbs and even skip the last part by walking on the left wall.
+You can skip this part with <Specialization name="Weaver"/> or <Specialization name="Daredevil"/> shown in the videos down below or you can just walk past the three Harpies (no <Effect name="Stealth"/> needed) and run up the ramp towards Old Tom. You can dodge through or reflect the pulsing orbs and even skip the last part by walking on the left wall.
 </GridItem>
 
 <GridItem sm="4">
@@ -110,13 +110,13 @@ If you skipped don't forget to trigger the "Reach the top" checkpoint (red dot o
 <GridItem sm="8">
 ## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>  
   
-Stack <Boon name="Might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken. <Specialization eliteSpecialization="Soulbeast"/> can use <Skill id="12489"/> and take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> almost nullifies the Poison from the green projectiles.
+Stack <Boon name="Might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken. <Specialization name="Soulbeast"/> can use <Skill id="12489"/> and take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> almost nullifies the Poison from the green projectiles.
 </GridItem>
 </Grid>
 
 <GridItem sm="12"> 
 <Tabs>
-<Tab specialization="guardian">
+<Tab specialization="Guardian">
 <Video title="Guardian skip" youtube="MmJTsOhdQeo"/>
 </Tab>
 <Tab specialization="Soulbeast">

@@ -18,7 +18,7 @@ Usually elite or higher mobs will have a defiance bar in fractals, your goal sho
 Once you break an enemy's defiance bar they will gain an effect named <Effect name="Exposed"/>, which means they take **50% more damage**. They will also usually be <Effect name="Stun"/>ed, which means they are unable to attack you or deal damage to you.
 </Card>
 This guide's aim is to help you understand how your team should cooperate to break all the CC bars. 
-The present <Specialization eliteSpecialization="Firebrand"/> + <Specialization eliteSpecialization="Renegade"/> meta demands CC contributions from every member of the party, **even of the DPS players!** 
+The present <Specialization name="Firebrand"/> + <Specialization name="Renegade"/> meta demands CC contributions from every member of the party, **even of the DPS players!** 
 A list of CC skills along with their defiance bar damage can be found on each class respective [Build page](/builds). 
 
 In Tier 4 fractals (T4) a breakbar usually does not exceed 600 units, nevertheless, it is everyone's responsibility to break bars as quickly as possible. 
@@ -44,7 +44,7 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 | <Condition name="Immobile"/> | 50 per second |
 | <Condition name="slow"/> | 50 per second |
 | <Condition name="chilled"/> | 33 per second |
-| <Condition name="Blind"/> | 20 per second |
+| <Condition name="Blinded"/> | 20 per second |
 | <Condition name="Weakness"/> | 20 per second |
 | <Condition name="Crippled"/> | 15 per second |
 </Card>
@@ -59,11 +59,11 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 
 At 1800 MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800, each MAMA becomes the most CC heavy fractal boss in the game. 
 <Divider text="restricted"/>
-When playing without CC Consumables, the <Specialization eliteSpecialization="Berserker"/> needs to take an offhand mace with <Item id="24639"/> in addition to <Skill name="wildblow"/> and <Skill name="bullscharge"/>, and the <Specialization eliteSpecialization="Firebrand"/> needs to bring <Skill name="HammerofWisdom"/> instead of <Skill name="sword of justice"/>.
+When playing without CC Consumables, the <Specialization name="Berserker"/> needs to take an offhand mace with <Item id="24639"/> in addition to <Skill name="wildblow"/> and <Skill name="bullscharge"/>, and the <Specialization name="Firebrand"/> needs to bring <Skill name="HammerofWisdom"/> instead of <Skill name="sword of justice"/>.
 
 <Image src="./images/mama_restricted.png" caption="Restricted Mama CC distribution by Dissect [Dc]"/>
 <Divider text="unrestricted"/>
-When playing with CC consumables, the <Specialization eliteSpecialization="Firebrand"/> can keep <Skill name="sword of justice"/>.
+When playing with CC consumables, the <Specialization name="Firebrand"/> can keep <Skill name="sword of justice"/>.
 
 <Image src="./images/mama_unrestricted.png" caption="Unrestricted Mama CC distribution with consumables"/>
 </Tab>
@@ -81,7 +81,7 @@ At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss ha
 <Divider text="phase 1"/>
 <Image src="./images/enso_1.png" caption="Ensolyss Phase 1 CC distribution"/>
 <Divider text="phase 2 and 3"/>
-The bigger bar in the second and third phase means that the <Specialization eliteSpecialization="Berserker"/>  needs to do an extra <Skill name="pommelbash"/> and that the weaver needs to do an extra <Skill name="polaricleap"/>.
+The bigger bar in the second and third phase means that the <Specialization name="Berserker"/>  needs to do an extra <Skill name="pommelbash"/> and that the weaver needs to do an extra <Skill name="polaricleap"/>.
 
 <Image src="./images/enso_2.png" caption="Ensolyss Phase 2 and 3 CC distribution"/>
 
@@ -91,15 +91,15 @@ The bigger bar in the second and third phase means that the <Specialization elit
 <Divider text="Skorvald"/>
 At 2200 Skorvald the Shattered has one of the largest defiance bars out of all the Challenge Mode fractal bosses, meaning that the whole group needs to contribute to break it quickly. 
 
-If the <Specialization eliteSpecialization="Renegade"/> precasts <Skill name="Darkrazorsdaring"/> and has decent positioning, getting 5 hits of <Skill name="Surge of the mists"/>, then the <Specialization eliteSpecialization="Berserker"/> can forgo offhand mace in favour of a warhorn (with <Item id="24639"/>) for blasting <Boon name="Might"/> on the islands.
+If the <Specialization name="Renegade"/> precasts <Skill name="Darkrazorsdaring"/> and has decent positioning, getting 5 hits of <Skill name="Surge of the mists"/>, then the <Specialization name="Berserker"/> can forgo offhand mace in favour of a warhorn (with <Item id="24639"/>) for blasting <Boon name="Might"/> on the islands.
 
 <Image src="./images/skorvald.png" caption="Skorvald CC distribution"/>
 </Tab>
 <Tab title="Artsariiv">
 <Divider text="Artsariiv"/>
-At 2100 Artsariiv has a large defiance bar that needs to be broken quickly for the <Specialization eliteSpecialization="Soulbeast"/> to land their reflect into <Effect name="Exposed"/>. Luckily you have <Effect name="Hypernovalaunch"/> working in your favour, which the <Specialization eliteSpecialization="Renegade"/> should utilize by canceling his <Skill name="Surge of the mists"/> with it, causing it to hit 9 times, resulting in 1350 defiance bar damage. This property of <Effect name="Hypernovalaunch"/> can be used to get more hits with any movement skills, like warrior's <Skill name="whirlwindattack"/> (Greatsword 3) and Fiery Greatsword's <Skill name="fierywhirl"/> (FGS 3).
+At 2100 Artsariiv has a large defiance bar that needs to be broken quickly for the <Specialization name="Soulbeast"/> to land their reflect into <Effect name="Exposed"/>. Luckily you have <Effect name="Hypernovalaunch"/> working in your favour, which the <Specialization name="Renegade"/> should utilize by canceling his <Skill name="Surge of the mists"/> with it, causing it to hit 9 times, resulting in 1350 defiance bar damage. This property of <Effect name="Hypernovalaunch"/> can be used to get more hits with any movement skills, like warrior's <Skill name="whirlwindattack"/> (Greatsword 3) and Fiery Greatsword's <Skill name="fierywhirl"/> (FGS 3).
 
-The remaining 750 defiance bar damage should come from the <Specialization eliteSpecialization="Firebrand"/>'s <Skill name="Banesignet"/> and from <Specialization eliteSpecialization="Berserker"/>'s <Skill name="headbutt"/> and either <Skill name="Tremor"/> or <Skill name="updraft"/> from <Specialization eliteSpecialization="Weaver"/> if the <Specialization eliteSpecialization="Berserker"/> isn't bringing an offhand mace.  
+The remaining 750 defiance bar damage should come from the <Specialization name="Firebrand"/>'s <Skill name="Banesignet"/> and from <Specialization name="Berserker"/>'s <Skill name="headbutt"/> and either <Skill name="Tremor"/> or <Skill name="updraft"/> from <Specialization name="Weaver"/> if the <Specialization name="Berserker"/> isn't bringing an offhand mace.  
 
 <Image src="./images/artsariiv.png" caption="Artsariiv CC distribution"/>
 <Divider text="split phase adds"/>
@@ -113,9 +113,9 @@ The easiest and fastest way to break the defiance bars on the split-phase clones
 
 <Tab title="Arkk">
 <Divider text="Arkk"/>
-At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50% and 30%. Once again you have the <Effect name="Hypernovalaunch"/> working in your favour, which in addition to causing <Skill name="Surge of the mists"/> to hit 9 times, the <Effect name="Launch"/> from <Effect name="Hypernovalaunch"/> will also double-hit, bringing the <Specialization eliteSpecialization="Renegade"/>'s defiance bar damage to 1814 alone!
+At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50% and 30%. Once again you have the <Effect name="Hypernovalaunch"/> working in your favour, which in addition to causing <Skill name="Surge of the mists"/> to hit 9 times, the <Effect name="Launch"/> from <Effect name="Hypernovalaunch"/> will also double-hit, bringing the <Specialization name="Renegade"/>'s defiance bar damage to 1814 alone!
 
-The only reason the <Specialization eliteSpecialization="Berserker"/> carries an off-hand mace on Arkk is to get the <Item name="severance"/> buff by precasting <Skill name="Tremor"/> after each bloom phase.
+The only reason the <Specialization name="Berserker"/> carries an off-hand mace on Arkk is to get the <Item name="severance"/> buff by precasting <Skill name="Tremor"/> after each bloom phase.
 
 <Image src="./images/arkk.png" caption="Arkk CC distribution"/>
 </Tab>

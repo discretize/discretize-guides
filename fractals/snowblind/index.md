@@ -42,7 +42,7 @@ When there are only a few percent remaining, go near the fire to leave combat an
 
 <Tabs>
 <Tab specialization="Weaver">
-Cast a <Skill name="Conjure Fiery Greatsword"/> for <Specialization eliteSpecialization="Renegade"/> at the wall right before it melts.
+Cast a <Skill name="Conjure Fiery Greatsword"/> for <Specialization name="Renegade"/> at the wall right before it melts.
 </Tab>
   
 <Tab specialization="Renegade">
@@ -139,7 +139,7 @@ Take either <Skill name="Legendary Dwarf Stance"/> or <Skill name="Legendary Cen
 
 <Tabs>
 <Tab specialization="Tempest">
-Use <Specialization eliteSpecialization="Tempest"/> <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.
+Use <Specialization name="Tempest"/> <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.
 </Tab>
 <Tab specialization="Berserker">
 Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly! Use [consumables](/guides/consumables) to CC!
