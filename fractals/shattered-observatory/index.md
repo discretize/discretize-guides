@@ -87,11 +87,11 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 <GridItem sm="8">
 After Skorvald is dead, take the portal to the East and take the left portal in the control center area. You can activate a <Item id="78786"/> to walk during the cutscene and save some time.
 
-You gain a new special action key: <Effect name="Hypernovalaunch"/>. For the moment, it is a 2100-range teleport with stunbreak that blocks the next attack (1.75s <Boon name="Aegis"/>). Its cooldown refreshes after you bounce a _Globolla Marble_.
+You gain a new special action key: <SpecialActionKey name="hypernovalaunch"/>. For the moment, it is a 2100-range teleport with stunbreak that blocks the next attack (1.75s <Boon name="Aegis"/>). Its cooldown refreshes after you bounce a _Globolla Marble_.
 
 You will encounter several glass mobs on the way to the second boss, there are no differences to the regular Shattered Observatory. After the first group of mobs, you will have to bounce a white _Globolla Marble_ nine times with your head to progress.
 
-If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip directly to Artsariiv using [this cut](https://www.youtube.com/watch?v=dirYlXZMCc4), otherwise use your <Effect name="Hypernovalaunch"/> on the next platform to jump to the elite mob and kill it to proceed to Artsariiv.
+If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip directly to Artsariiv using [this cut](https://www.youtube.com/watch?v=dirYlXZMCc4), otherwise use your <SpecialActionKey name="hypernovalaunch"/> on the next platform to jump to the elite mob and kill it to proceed to Artsariiv.
 </GridItem>
 
 <GridItem sm="4">
@@ -125,7 +125,7 @@ Assign a player for the _Globolla Marble_ bouncing (typically the <Specializatio
 
 You will need a lot of crowd control skills, consumables like <Item id="8759"/> and <Item id="8678"/> are very strong here.
 
-**Use your <Effect name="Hypernovalaunch"/> special action key to quickly move around the platform, the <Boon name="Aegis"/> from it counters nearly all mechanics.**
+**Use your <SpecialActionKey name="hypernovalaunch"/> special action key to quickly move around the platform, the <Boon name="Aegis"/> from it counters nearly all mechanics.**
 
 </GridItem>
 
@@ -148,7 +148,7 @@ You will need a lot of crowd control skills, consumables like <Item id="8759"/> 
 | **Red Marble** | Artsariiv throws a lot of red orbs during the fight, watch out for a large *Red Marble* surrounded by red orbs - it deals <Control name="Knockdown"/> and deals medium damage. Unfortunately reacting in close melee range is nearly impossible. You can utilize reflects against the various orbs. |
 | **Slam** | Deals <Control name="Knockback"/> and deals damage in a short range around Artsariiv. Recognizable by an orange circle around her, simply dodge it. |
 | **Mib Ring** | Artsariiv herself and all her clones during the intermediate phases create a purple miasma field inside their hitboxes, dont stand too close to avoid damage. |
-| **Globolla Marble** | **Only below 66% health.** Artsariiv throws a huge, white *Globolla Marble* which needs to be bounced back to her. The next position of the marble is always indicated by a large white circle, the next but one position by a smaller white circle. This part is typically soloed by the <Specialization name="Renegade"/>. Strip boons if <Instability name="No Pain, No Gain"/> is present before you hop to the second circle. Dont forget to assign a backup. <br/>Use <Effect name="Hypernovalaunch"/> to travel between the locations as it refreshes after each bounce. The backup only needs to stand inside the first blue circle. The main bouncer can take over after that. Note: There is enough time to do the first blue circle, launch into the containment chamber and bounce into the second circle. This however is not recommended for inexperienced players.
+| **Globolla Marble** | **Only below 66% health.** Artsariiv throws a huge, white *Globolla Marble* which needs to be bounced back to her. The next position of the marble is always indicated by a large white circle, the next but one position by a smaller white circle. This part is typically soloed by the <Specialization name="Renegade"/>. Strip boons if <Instability name="No Pain, No Gain"/> is present before you hop to the second circle. Dont forget to assign a backup. <br/>Use <SpecialActionKey name="hypernovalaunch"/> to travel between the locations as it refreshes after each bounce. The backup only needs to stand inside the first blue circle. The main bouncer can take over after that. Note: There is enough time to do the first blue circle, launch into the containment chamber and bounce into the second circle. This however is not recommended for inexperienced players.
 </GridItem>
 
 <GridItem sm="3">
@@ -186,13 +186,13 @@ After the fight is over, take the portal in the North and move forward to get to
 
 <Grid>
 <GridItem sm="8">
-Arkk is the third and final boss of the fractal. An attentive player may have noticed the <Effect name="Hypernovalaunch"/> special action key became even stronger now, doing medium damage, a 232 <Control name="Launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
+Arkk is the third and final boss of the fractal. An attentive player may have noticed the <SpecialActionKey name="hypernovalaunch"/> special action key became even stronger now, doing medium damage, a 232 <Control name="Launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
 
 In contrast to the other enemies in this fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him.
 
 Arkk himself has no melee attacks, but a lot of abilities which can make the fight rather chaotic for inexperienced groups. However, all damage can be avoided and therefore a healer is not mandatory. More party DPS means less boss mechanics.
 
-Stack <Boon name="Might"/> (you can use <Effect name="Hypernovalaunch"/>) and renew your _Mistlock Singularity_ before activating the orb to teleport to Arkk.
+Stack <Boon name="Might"/> (you can use <SpecialActionKey name="hypernovalaunch"/>) and renew your _Mistlock Singularity_ before activating the orb to teleport to Arkk.
 
 </GridItem>
 <GridItem sm="4">
@@ -205,13 +205,13 @@ Stack <Boon name="Might"/> (you can use <Effect name="Hypernovalaunch"/>) and re
 | | |
 | --- | --- |
 | **Blinding Radiance** | Similar to the other bosses, Arkk has the white beam ability which damages players facing him and inflicts <Condition name="Blinded"/> and <Condition name="fear"/>. It is easily recognizable by a large eye icon above Arkk. If you have problems receiving damage despite looking away, try to wiggle left/right while turned away to minimize the risk. |
-| **Solar Fury & Solar Discharge** | Arkk prepares this ability by conjuring a large red orb above his head. When the orbs disappears (after ~4 seconds), he launches bouncing orbs towards every player, leaving a <Condition name="Burning"/> fire field after each bounce. At the same time, he emerges a stunning *Solar Discharge* shockwave which needs to be dodged or jumped over.<br/>The orbs from this attack can be **reflected** to prevent the fire zones on the floor from spawning. **If your party has no reflects, every player needs to use <Effect name="Hypernovalaunch"/> the moment he throws the orbs to block the fire zones. This is especially important below 40% and can easily wipe your team if one player fails to do so.**  |
+| **Solar Fury & Solar Discharge** | Arkk prepares this ability by conjuring a large red orb above his head. When the orbs disappears (after ~4 seconds), he launches bouncing orbs towards every player, leaving a <Condition name="Burning"/> fire field after each bounce. At the same time, he emerges a stunning *Solar Discharge* shockwave which needs to be dodged or jumped over.<br/>The orbs from this attack can be **reflected** to prevent the fire zones on the floor from spawning. **If your party has no reflects, every player needs to use <SpecialActionKey name="hypernovalaunch"/> the moment he throws the orbs to block the fire zones. This is especially important below 40% and can easily wipe your team if one player fails to do so.**  |
 | **Corporal Reassignment** (*Doom*) | The same mechanic as on Artsariiv. Designates a player for timed explosion, the party has to kill a **Temporal Anomaly** (56k HP) to spawn a containment for the target. |
 | **Temporal Realignment** (*Green*) | Similar to the green circle mechanic on *Vale Guardian*. Designates a player to take 80% of their health in damage, split between any nearby allies. Try to have at least three players inside the green circle. **If no other player is inside the circle upon collapsing, it detonates the whole party.** |
 | **Focused Rage** | Similar to Skorvald, Arkk marks a player with a crosshair and blasts the area with damage and a <Control name="Knockback"/>. If you are marked, turn Arkk away from the other party members and the white containment bubble and move out during the last second of the animation. |
 | **Horizon Strike & Diffractive Edge** | Again, a mechanic taken from Skorvald. Arkk marks orange triangles around him and blasts them counter-clockwise. The first triangle is always the first to be blasted.<br/>*Diffractive Edge* is basically the same ability, it just blasts all triangles at the same time but leaves a small safe spot behind Arkk. |
 | **Starburst Cascade** | **Only below 60% health.** Arkk sends out a wave of cascading energy across the platform, applying <Control name="Float"/> to every player caught inside. This ability can be jumped over. |
-| **Disappearing Platforms** | **Only below 40% health.** In the final phase of the fight, random platforms temporarily disappear. If you fall through the ground, you will get teleported to above and start falling down - use your <Effect name="Hypernovalaunch"/> to get back into the fight. |
+| **Disappearing Platforms** | **Only below 40% health.** In the final phase of the fight, random platforms temporarily disappear. If you fall through the ground, you will get teleported to above and start falling down - use your <SpecialActionKey name="hypernovalaunch"/> to get back into the fight. |
 | **Solar Stomp** | **Only below 40% health.** Arkk vanishes in dust evading all attacks, when he reappears he stomps the ground, damages nearby enemies, executes a <Control name="Knockback"/> and sends out a volley of bolts. Be careful to not let it push you off the platform. |
 | **Rolling Chaos** | **Only below 40% health.** Recognizable by a small red arrow emanating from Arkk. Launches a rolling red marble in the designated direction which deals high damage. |
 | **Beaming Smile / DDR** | **Only below 30% health.** Similar to the previous bosses, Arkk summons three large laser beams while simultaneously projecting the white beams onto players. Move out and turn away. |
@@ -242,17 +242,17 @@ A common strategy is to assign four players to the spawning locations in the Nor
 
 The fifth, remaining player should be a DPS ready to take out a possibly spawning _Temporal Anomaly_ during the phase. This player must also be ready to join the player with the green circle.
 
-After every Solar Bloom phase, Arkk's defiance bar has to be broken immediately or he kills all players. Use your <Effect name="Hypernovalaunch"/> ability for an additional <Control name="Launch"/> if you are short of crowd control skills.
+After every Solar Bloom phase, Arkk's defiance bar has to be broken immediately or he kills all players. Use your <SpecialActionKey name="hypernovalaunch"/> ability for an additional <Control name="Launch"/> if you are short of crowd control skills.
 
 #### Elite Bosses <Label>70%, 40%</Label>
 
 At 70% and 40% of Arkk's health, the party gets teleported to another dimension where you have to fight the _Elite Archdiviner_ from the [Cliffside Fractal](/fractals/cliffside) and the _Elite Brazen Gladiator_ from the [Chaos Isles Fractal](/fractals/chaos-isles) respectively.
 
-Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Try to kill the adds before finishing the boss as they follow you back to Arkk. Remember the party-wide <Control name="Daze"/> if the third auto-attack of the Gladiator hits someone. The _Elite Brazen Gladiator_ also does his huge pull attack below 50% health, prepare your <Effect name="Hypernovalaunch"/> skill to break his breakbar then.
+Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Try to kill the adds before finishing the boss as they follow you back to Arkk. Remember the party-wide <Control name="Daze"/> if the third auto-attack of the Gladiator hits someone. The _Elite Brazen Gladiator_ also does his huge pull attack below 50% health, prepare your <SpecialActionKey name="hypernovalaunch"/> skill to break his breakbar then.
 
 #### Final phase <Label><40%</Label>
 
 Below 40% health, random platforms start disappearing temporarily. Due to this mechanic, space is very limited and resurrecting a downed player is nearly impossible.
 Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight even more challenging.
 
-The most important thing is to keep calm. Remember that every single ability can be avoided, <Effect name="Hypernovalaunch"/> the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!
+The most important thing is to keep calm. Remember that every single ability can be avoided, <SpecialActionKey name="hypernovalaunch"/> the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!

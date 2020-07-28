@@ -96,7 +96,7 @@ Template code:
 <Card title="Abilities">
 **Citadel Order Skills**
 
-- <Skill name="Heroic Command"/> -  Share two stacks of <Boon name="Might"/> for each <Effect name="Kallas Fervor"/> stack.
+- <Skill name="Heroic Command"/> -  Share two stacks of <Boon name="Might"/> for each <SpecialActionKey name="kallas fervor"/> stack.
 - <Skill name="Citadel Bombardment"/> - Fire ten missiles that inflict high damage, and <Condition name="Burning"/>.
 - <Skill name="Orders from Above"/> - Share four pulses of <Boon name="Alacrity"/>.
 
@@ -116,7 +116,7 @@ Template code:
 - <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
 - <Skill name="Warding Rift"/> - A two second block that <Condition name="Blinded"/> foes.
 - <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies for a fairly large amount.
-- <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Effect name="Knockback"/>.
+- <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Control name="Knockback"/>.
 
 ---
 
@@ -146,7 +146,7 @@ You will need to reconsider the legends you are running in almost every fractal 
 1. **<Skill name="Legendary Renegade Stance"/>** and **<Skill name="Legendary Centaur Stance"/>**
    - This is your most used setup that has the most healing output as well as a projectile block and extra condition cleanse.
 2. **<Skill name="Legendary Renegade Stance"/>** and **<Skill name="Legendary Demon Stance"/>**
-   - This is a specific setup for the instability <Effect name="No Pain, No Gain"/> and for when you want to increase your damage output on bosses that generate <Boon name="Protection"/> on themselves or when you need to pull adds using <Skill name="Call to Anguish"/>.
+   - This is a specific setup for the instability <Instability name="No Pain, No Gain"/> and for when you want to increase your damage output on bosses that generate <Boon name="Protection"/> on themselves or when you need to pull adds using <Skill name="Call to Anguish"/>.
 3. **<Skill name="Legendary Renegade Stance"/>** and **<Skill name="Legendary Dwarf Stance"/>**
    - This is the setup you want to use on a few CM bosses (Skorvald and Artsariiv) as well as some fractals (Chaos last boss, possibly in Siren's Reef).
 
@@ -532,10 +532,10 @@ For this encounter, it is recommended to run the following traits in the Devasta
 * Precast <Skill name="Soulcleaves Summit"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
 * Manually change to <Skill name="Legendary Dwarf Stance"/> before Artsariiv becomes vulnerable.
 * Use <Skill name="Shackling Wave"/>, and share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Share <Boon name="Might"/> with <Skill name="Heroic Command"/> before using the <Effect name="Hypernovalaunch"/> to the corner.
+* Share <Boon name="Might"/> with <Skill name="Heroic Command"/> before using the <SpecialActionKey name="hypernovalaunch"/> to the corner.
 * Weapon swap and use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the party.
 * Change to <Skill name="Legendary Renegade Stance"/>, and precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at the location where Artsarriv will appear.
-* Use <Skill name="Surge of the Mists"/> to break the defiance bar. Use it with the <Effect name="Hypernovalaunch"/> to gain additional hits.
+* Use <Skill name="Surge of the Mists"/> to break the defiance bar. Use it with the <SpecialActionKey name="hypernovalaunch"/> to gain additional hits.
 * Weapon swap and change to <Skill name="Legendary Dwarf Stance"/>
 
 **Add**
@@ -548,7 +548,7 @@ For this encounter, it is recommended to run the following traits in the Devasta
 * Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to deplete your energy.
-* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <Effect name="Hypernovalaunch"/> to the corner.
+* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <SpecialActionKey name="hypernovalaunch"/> to the corner.
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
@@ -565,7 +565,7 @@ For this encounter, it is recommended to run the following traits in the Devasta
 * Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Soulcleaves Summit"/> and <Skill name="Citadel Bombardment"/>.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> to deplete your energy.
-* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <Effect name="Hypernovalaunch"/> to the corner.
+* Change to <Skill name="Legendary Dwarf Stance"/>, and use your <SpecialActionKey name="hypernovalaunch"/> to the corner.
 * Use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> at the corner.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
@@ -575,7 +575,7 @@ For this encounter, it is recommended to run the following traits in the Devasta
 
 **Annotation**
 * Time <Skill name="Inspiring Reinforcement"/> so that <Boon name="Stability"/> last long enough for the AoE attack in the middle.
-* Use <Effect name="Hypernovalaunch"/> while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
+* Use <SpecialActionKey name="hypernovalaunch"/> while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
 
 This part of the guide was taken from [Casual Sophie](https://www.youtube.com/channel/UCh3JEHa_zLroJYrtaftdQzw)'s Renegade guide that you can find [here](/builds/revenant/hybrid-renegade)
 
@@ -636,13 +636,13 @@ For this encounter, it is recommended to run the following traits in the Devasta
 **80-70%**
 * Cast <Skill name="SoulcleavesSummit"/> on Arkk to create a fire field.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the <Effect name="Hypernovalaunch"/> to break the defiance bar.
+* Use <Skill name="Surge of the Mists"/> with the <SpecialActionKey name="hypernovalaunch"/> to break the defiance bar.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Weapon swap and change to <Skill name="Legendary Centaur Stance"/>.
 
 **Archdiviner**
 * Activate <Skill name="Protective Solace"/> on top of the group to prevent the Archdiviner's minions from dealing damage to your group.
-* If Archdiviner gets a defiance bar, use your <Effect name="Hypernovalaunch"/> to do 232 defiance bar damage to it and blast a fire field if there is one under him.
+* If Archdiviner gets a defiance bar, use your <SpecialActionKey name="hypernovalaunch"/> to do 232 defiance bar damage to it and blast a fire field if there is one under him.
 * Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **70-50%**
@@ -656,13 +656,13 @@ For this encounter, it is recommended to run the following traits in the Devasta
 **50-40%**
 * Precast <Skill name="Soulcleaves Summit"/> at Arkk's location.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the <Effect name="Hypernovalaunch"/> to break the defiance bar.
+* Use <Skill name="Surge of the Mists"/> with the <SpecialActionKey name="hypernovalaunch"/> to break the defiance bar.
 * Share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
 * Weapon swap and change to <Skill name="Legendary Centaur Stance"/>.
 
 **Gladiator**
 * Activate <Skill name="Protective Solace"/> on top of the group to prevent the robots from dealing damage to your group. There is also one robot that applies conditions, especially detrimental to your group's damage is <Condition name="Weakness"/>.
-* If Gladiator gets a defiance bar, use your <Effect name="Hypernovalaunch"/> to do 232 defiance bar damage to it and blast a fire field if there is one under him.
+* If Gladiator gets a defiance bar, use your <SpecialActionKey name="hypernovalaunch"/> to do 232 defiance bar damage to it and blast a fire field if there is one under him.
 * Change to <Skill name="Legendary Renegade Stance"/> when the phase is finished.
 
 **40-30%**
@@ -673,7 +673,7 @@ For this encounter, it is recommended to run the following traits in the Devasta
 **30-0%**
 * Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at Arkk's location.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
-* Use <Skill name="Surge of the Mists"/> with the <Effect name="Hypernovalaunch"/> to break the defiance bar.
+* Use <Skill name="Surge of the Mists"/> with the <SpecialActionKey name="hypernovalaunch"/> to break the defiance bar.
 * Weapon swap and change to <Skill name="Legendary Centaur Stance"/>.
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
 * Use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.

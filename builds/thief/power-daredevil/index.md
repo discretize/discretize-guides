@@ -9,7 +9,7 @@ benchmark:
   { small: { dps: 35070, by: 'L E F T [dP]', youtube: 'UD7TaxND8vc' } }
 skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
-conditions: ['Vulnerability', 'Crippled', 'Blind', 'Weakness']
+conditions: ['Vulnerability', 'Crippled', 'Blinded', 'Weakness']
 effects: ['Stealth']
 code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 ---
@@ -69,7 +69,7 @@ With 204 Agony resistance <Specialization name="Daredevil"/> is critcapped even 
 | <Trait id="1702" size="big" disableText/> | Critical Strikes trait. Heals you with % of damage dealt, useful if you cant stay alive.|
 | <Trait id="2023" size="big" disableText/> | Daredevil trait. Healing and condition cleanse on evade.  |
 
-If no one in your party can boonrip when the <Instability name="No Pain No Gain "/> instability is present you can swap Deadly Arts for the Trickery line with the following traits: 
+If no one in your party can boonrip when the <Instability name="No Pain, No Gain"/> instability is present you can swap Deadly Arts for the Trickery line with the following traits: 
 <UnembossedTraits traits1="Trickery" traits1Id="44" traits1SelectedIds="1163,1277,1158"/>
 <Message>
 **Note: this is kind of a meme way to deal with the instability and there are better options!**
@@ -192,7 +192,7 @@ You can also activate <Skill id="13046"/> to burst for the last few attacks of a
 
 Keep in mind you can precast skills like <Skill id="13037"/>, <Skill id="13082"/> or <Skill id="13132"/> and take the mistlock singularity to refresh their coolddown. For example: Precast <Skill id="13082"/>, take mistlock, cast <Skill id="13132"/>, and swap to <Skill id="13082"/> again.
 
-Although <Specialization name="Daredevil"/> doesn't have access to  <Boon name="Superspeed"/> for <Item id="85244"/> or <Item id="49940"/>, it still can execute many skips for your party in T4s.
+Although <Specialization name="Daredevil"/> doesn't have access to  <Effect name="Superspeed"/> for <Item id="85244"/> or <Item id="49940"/>, it still can execute many skips for your party in T4s.
 
 <Video title="Thief Skips T4s" youtube="Alpgs_GaZV0"/>
 

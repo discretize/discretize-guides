@@ -109,7 +109,7 @@ If you're running without a <Specialization name="Druid"/> or <Specialization na
 
 - 6x <Item name="Strength" type="Rune"/> instead of <Item name="Scholar" type="Rune"/>
 - <Item name="Fried Golden Dumpling" type="Food"/> instead of <Item id="41569"/>
-- <Skill name="For Great Justice"/> instead of <Skill id="14502"/> and <Trait name="Restorative Strength"/> instead of <Trait name="Peak Performance"/>
+- <Skill name="For Great Justice"/> instead of <Skill id="14502"/>
 
 Everything else stays the same. Note that your CC suffers without <Skill id="14502"/> so it is a good idea to bring [consumables](/guides/consumables).
 

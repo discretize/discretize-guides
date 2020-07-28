@@ -43,7 +43,7 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 | <Condition name="Taunt"/> | 75 per second |
 | <Condition name="Immobile"/> | 50 per second |
 | <Condition name="slow"/> | 50 per second |
-| <Condition name="chilled"/> | 33 per second |
+| <Condition name="Chilled"/> | 33 per second |
 | <Condition name="Blinded"/> | 20 per second |
 | <Condition name="Weakness"/> | 20 per second |
 | <Condition name="Crippled"/> | 15 per second |
@@ -97,7 +97,7 @@ If the <Specialization name="Renegade"/> precasts <Skill name="Darkrazorsdaring"
 </Tab>
 <Tab title="Artsariiv">
 <Divider text="Artsariiv"/>
-At 2100 Artsariiv has a large defiance bar that needs to be broken quickly for the <Specialization name="Soulbeast"/> to land their reflect into <Effect name="Exposed"/>. Luckily you have <Effect name="Hypernovalaunch"/> working in your favour, which the <Specialization name="Renegade"/> should utilize by canceling his <Skill name="Surge of the mists"/> with it, causing it to hit 9 times, resulting in 1350 defiance bar damage. This property of <Effect name="Hypernovalaunch"/> can be used to get more hits with any movement skills, like warrior's <Skill name="whirlwindattack"/> (Greatsword 3) and Fiery Greatsword's <Skill name="fierywhirl"/> (FGS 3).
+At 2100 Artsariiv has a large defiance bar that needs to be broken quickly for the <Specialization name="Soulbeast"/> to land their reflect into <Effect name="Exposed"/>. Luckily you have <SpecialActionKey name="hypernovalaunch"/> working in your favour, which the <Specialization name="Renegade"/> should utilize by canceling his <Skill name="Surge of the mists"/> with it, causing it to hit 9 times, resulting in 1350 defiance bar damage. This property of <SpecialActionKey name="hypernovalaunch"/> can be used to get more hits with any movement skills, like warrior's <Skill name="whirlwindattack"/> (Greatsword 3) and Fiery Greatsword's <Skill name="fierywhirl"/> (FGS 3).
 
 The remaining 750 defiance bar damage should come from the <Specialization name="Firebrand"/>'s <Skill name="Banesignet"/> and from <Specialization name="Berserker"/>'s <Skill name="headbutt"/> and either <Skill name="Tremor"/> or <Skill name="updraft"/> from <Specialization name="Weaver"/> if the <Specialization name="Berserker"/> isn't bringing an offhand mace.  
 
@@ -113,7 +113,7 @@ The easiest and fastest way to break the defiance bars on the split-phase clones
 
 <Tab title="Arkk">
 <Divider text="Arkk"/>
-At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50% and 30%. Once again you have the <Effect name="Hypernovalaunch"/> working in your favour, which in addition to causing <Skill name="Surge of the mists"/> to hit 9 times, the <Effect name="Launch"/> from <Effect name="Hypernovalaunch"/> will also double-hit, bringing the <Specialization name="Renegade"/>'s defiance bar damage to 1814 alone!
+At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50% and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favour, which in addition to causing <Skill name="Surge of the mists"/> to hit 9 times, the <Effect name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/> will also double-hit, bringing the <Specialization name="Renegade"/>'s defiance bar damage to 1814 alone!
 
 The only reason the <Specialization name="Berserker"/> carries an off-hand mace on Arkk is to get the <Item name="severance"/> buff by precasting <Skill name="Tremor"/> after each bloom phase.
 

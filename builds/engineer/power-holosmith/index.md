@@ -7,7 +7,7 @@ profession: 'Engineer'
 specialization: 'Holosmith'
 benchmark: { small: { dps: 38143, by: 'TJ [SC]', youtube: 'p6mZtHhu7GM' } }
 skills: [30815, 43739]
-conditions: ['Vulnerability', 'Blind', 'Crippled', 'Immobile']
+conditions: ['Vulnerability', 'Blinded', 'Crippled', 'Immobile']
 effects: ['Stealth']
 code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
 ---

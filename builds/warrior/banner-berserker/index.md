@@ -703,7 +703,7 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 <Card title="Skills and Traits">
 <UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343"/>
 - Take <Trait name="savageinstinct"/>!
-- With <Effect name="afflicted"/> you can bring a meme skill <Skill name="berserkerstance"/>.
+- With <Instability name="Afflicted"/> you can bring a meme skill <Skill name="berserkerstance"/>.
 - If most of the damage done is in the center, take <Skill name="signetoffury"/>.
 </Card>
 </GridItem>
@@ -746,7 +746,7 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 
 ### **100% in mid**
 - Use <Skill name="whirling axe"/> or <Skill name="Headbutt"/> to gain adrenaline fast.
-- Depending on your team you wanna engage <Skill name="Berserk"/> before you use your <Effect name="Hypernovalaunch"/> to get to Artsariiv. 
+- Depending on your team you wanna engage <Skill name="Berserk"/> before you use your <SpecialActionKey name="hypernovalaunch"/> to get to Artsariiv. 
 - Use <Skill name="Mending"/> to regain eventually lost health and <Trait name="peakperformance"/>. 
 - Swap to your mace, be ready to <Skill id="14415"/> as soon as the breakbar appears.
 
@@ -804,7 +804,7 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
 </Message>
 
 ### **Prestacking**
-- Drop a <Item name="whitemantleportaldevice"/> near the mistlock and jump over to Arkk's platform using the <Effect name="Hypernovalaunch"/>.
+- Drop a <Item name="whitemantleportaldevice"/> near the mistlock and jump over to Arkk's platform using the <SpecialActionKey name="hypernovalaunch"/>.
 - Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>, <Skill name="Banner of Tactics"/> and <Skill name="battlestandard"/>. 
 - Take the portal back.
 - Drop a fire field with <Skill name="Flames of war"/>.

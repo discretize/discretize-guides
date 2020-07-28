@@ -61,7 +61,7 @@ Fast crowd control and animation knowledge are the keys to this fight.
 <Grid>
 <GridItem sm="8">
 ## First set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
-Swap your weapon set to <Item name="Impact"/> and <Item name="Serpentslaying"/>. You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.    
+Swap your weapon set to <Item name="Impact"/> and <Item name="Serpentslaying"/>. You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="Agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.    
 Learn the *Red Orb* patterns as they can quickly kill you, *Blue Orbs* will heal you for a large amount of health (even with Agony).    
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
 </GridItem>
