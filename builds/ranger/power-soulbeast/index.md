@@ -33,7 +33,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46765" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Longbow" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact"/>
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 
@@ -210,26 +210,26 @@ For your second weapon set you either run greatsword or longbow:
 <Message>
 You should only use this rotation on longer phases since it is based around sustained DPS!
 </Message>
-1. <Skill name="One Wolf Pack"/>
-2. <Skill id="12525"/> with <Skill name="Sicem"/> during the cast (Greatsword 2)
-3. <Skill name="Hilt bash"/> (Greatsword 5)
-4. <Skill id="12525"/> (Greatsword 2)
-5. <Skill name="Worldly Impact"/> (F3)
-6. Swap weapons.
-7. <Skill name="Path of scars"/> (Axe 4)
-8. <Skill name="Whirling Defense"/> (Axe 5)
-9. <Skill id="41524"/> (F1)
-10. <Skill id="45743"/> (F2)
-11. 4x autoattack chains.
-12. <Skill name="Path of scars"/> (Axe 4)
-13. Swap weapons.
-14. <Skill id="12525"/> (Greatsword 2)
-15. 2x autoattack chains.
-16. <Skill id="12525"/> (Greatsword 2)
-17. <Skill id="45743"/> (F2)
-18. <Skill id="41524"/> (F1)
-19. 1x autoattack chain.
-20. Repeat from `Step 2`
+1. <Skill name="Barrage"/>
+2. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
+3. <Skill name="One Wolf Pack"/> 
+4. <Skill name="Point Blank Shot"/> 
+5. <Skill name="Frost Trap"/> 
+6. <Skill name="worldlyimpact"/> 
+7. <Skill name="Frenzied Attack"/> 
+8. <Skill name="Rapid Fire"/> 
+9. Swap weapons.
+10. <Skill name="Path of scars"/>
+11. <Skill name="Whirling Defense"/>
+12.  Autoattack x4
+13. <Skill name="Path of scars"/>
+14. Swap weapons. 
+15. Autoattack x6
+16. <Skill name="Point Blank Shot"/>
+17. <Skill name="Barrage"/>
+18. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
+19. Repeat from `Step 5`
+
 
 </Card>
 <Card title="Precast Rotation">
