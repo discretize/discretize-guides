@@ -110,7 +110,7 @@ If you skipped don't forget to trigger the "Reach the top" checkpoint (red dot o
 <GridItem sm="8">
 ## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>  
   
-Stack <Boon name="Might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken. <Specialization name="Soulbeast"/> can use <Skill id="12489"/> and take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> almost nullifies the Poison from the green projectiles.
+Stack <Boon name="Might"/> before Old Tom and simply nuke him down. Be careful with <Effect name="Agony"/> and try to let Pets and Illusions soak the green projectiles when his defiance bar is not broken. <Specialization name="Soulbeast"/> can use <Skill id="12489"/> and take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> almost nullifies the Poison from the green projectiles.
 </GridItem>
 </Grid>
 

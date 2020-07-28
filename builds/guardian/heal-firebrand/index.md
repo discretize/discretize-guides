@@ -7,7 +7,7 @@ profession: 'Guardian'
 specialization: 'Firebrand'
 skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
-conditions: ['Vulnerability', 'Blind', 'Crippled']
+conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
@@ -78,7 +78,7 @@ In case your team downs frequently and is unable to handle mechanics correctly, 
 | <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stun break is needed. |
 | <Skill id="9175" size="big" disableText/> | A strong heal. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
-| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. Can be used to counterplay <Instability name="We bleed fire"/>.|
+| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. Can be used to counterplay <Instability name="We Bleed Fire"/>.|
 | <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside. |
 </Card>
 </GridItem>

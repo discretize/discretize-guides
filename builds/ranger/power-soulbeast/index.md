@@ -645,14 +645,14 @@ Make sure to use [consumables](/guides/consumables) to CC the adds!
 **Precast**
 
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and run and <Effect name="Hypernovalaunch"/> over to the boss platform.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and run and <SpecialActionKey name="hypernovalaunch"/> over to the boss platform.
 
 **Opening**
 
 - Summon <Skill name="Frost Spirit"/> in middle before someone starts the encounter.
 - As soon as someone catches an orb, use <Skill id="5531"/> and <Skill name="Barrage"/>.
 - Use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
-- Use <Skill name="Rapid fire"/>, turn around not to get feared, then <Effect name="Hypernovalaunch"/> to the corner.
+- Use <Skill name="Rapid fire"/>, turn around not to get feared, then <SpecialActionKey name="hypernovalaunch"/> to the corner.
 - Use <Skill name="Cold Snap"/> to call your spirit to the corner.
 - When she reaches the side use <Skill name="Sicem"/>, <Skill name="onewolfpack"/> and <Skill name="Worldlyimpact"/>.
 - <Skill name="pathofscars"/> to help CC.
@@ -672,7 +672,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Once she becomes vulnerable use <Skill name="Rapid fire"/> **(do not use <Skill name="sicem"/> here)**.
 - Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - <Skill id="43548"/> then <Skill name="Worldlyimpact"/>.
-- <Effect name="Hypernovalaunch"/> to the corner.
+- <SpecialActionKey name="hypernovalaunch"/> to the corner.
 - <Skill name="Cold Snap"/> when you can to call your spirit to the middle.
 - <Skill name="Rapid fire"/> and <Skill name="sicem"/>.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
@@ -720,7 +720,7 @@ Make sure to use [consumables](/guides/consumables) to CC the adds!
 - As soon as someone catches an orb, use <Skill id="5531"/> and <Skill name="Barrage"/>. Cast <Skill name="sicem"/> while channeling <Skill name="Barrage"/>.
 - Use <Skill name="onewolfpack"/> (make sure to finish <Skill name="Barrage"/> cast, because if you cancel it even by a little, it does no damage!), then swap to axes and use <Skill name="wintersbite"/>, start walking behind the boss, cast <Skill name="pathofscars"/> while walking and <Skill name="Whirlingdefense"/>.
 - Finish <Skill name="Whirlingdefense"/> cast, then <Skill name="Worldlyimpact"/>, start following the boss to avoid getting knocked down by an orb, <Skill name="frenziedattack"/> and <Skill name="	rapidfire"/> as she jumps to the side.
-- If she reaches the corner, dodge or use <Effect name="Hypernovalaunch"/> to avoid the slam wave and auto-attack until she phases.
+- If she reaches the corner, dodge or use <SpecialActionKey name="hypernovalaunch"/> to avoid the slam wave and auto-attack until she phases.
 
 **Add CC Phase**
 
@@ -732,7 +732,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Precast <Skill name="Barrage"/> before Artsariiv becomes vulnerable, <Skill name="sicem"/> as soon as it's off cooldown, <Skill id="12492"/>,  <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>, then <Skill name="Rapid fire"/>. Cancel <Skill name="Rapid fire"/> around mid cast and swap to axes.
 - <Skill name="wintersbite"/>, <Skill name="pathofscars"/>, dodge the slam and <Skill name="Whirlingdefense"/>.
 - Autoattack with axes before Artsariiv reaches corner. **Make sure to look away when she actually fires the laser so you don't get <Condition name="Fear"/>ed.**
-- Wait in the middle for your team to stack <Boon name="Might"/>, then use <Effect name="Hypernovalaunch"/> to the corner to avoid the slam wave.
+- Wait in the middle for your team to stack <Boon name="Might"/>, then use <SpecialActionKey name="hypernovalaunch"/> to the corner to avoid the slam wave.
 - Use <Skill name="frenziedattack"/>, and <Skill name="Worldlyimpact"/>, followed by <Skill name="Point Blank Shot"/> and <Skill name="Rapid fire"/> until she phases.
 
 **Add CC Phase**
@@ -773,7 +773,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 <Divider text="HOW TO PLAY"/>
 **Precast**
 
-- Place a portal next to the mistlock and use <Effect name="Hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="Berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
+- Place a portal next to the mistlock and use <SpecialActionKey name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="Berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
 - Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
 - Precast <Skill id="5531"/> and <Skill name="Barrage"/> before the boss is activated.
@@ -803,7 +803,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 The <Specialization name="Weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
 - You can use <Skill name="Fieryrush"/> or <Skill name="Worldlyimpact"/> if it's off cooldown  to damage the Archdiviner. 
-- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="Hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing. Dodge backwards through the boss after using it as there will be a laser beam which fears.
+- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <SpecialActionKey name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing. Dodge backwards through the boss after using it as there will be a laser beam which fears.
 - When the Archdiviner dies, precast <Skill id="5531"/> -> <Skill name="Barrage"/> -> <Skill name="Frosttrap"/>.
 
 **70-50%**

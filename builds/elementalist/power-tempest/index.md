@@ -9,7 +9,7 @@ benchmark: { large: { dps: 38069, by: 'Roul [SC]', youtube: '7tF8y7bUoQU' } }
 skills: [29719, 5734, 5624, 5516]
 traits: [1502, 1503, 1839]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection', 'Vigor', 'Stability']
-conditions: ['Weakness', 'Vulnerability', 'Blind', 'Burning', 'Bleeding']
+conditions: ['Weakness', 'Vulnerability', 'Blinded', 'Burning', 'Bleeding']
 code: '[&DQYRPikvMBsXARcBQgHLAL4BTgFQAVABlwCZEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 

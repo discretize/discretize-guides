@@ -491,7 +491,7 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 - As soon as someone catches an orb to start the encounter, use <Skill id="5531"/> and drop your <Skill id="5516"/>. Cast <Skill id="43762"/>, <Skill id="5548"/>, attune to <Skill id="5492"/>/<Skill id="5492"/> and cast <Skill id="5501"/>, then equip sword/dagger. This is a tight precast so make sure you practice it.
 
 **100%**
-- Cast <Skill id="45313"/>, <Skill id="5557"/> and <Skill id="44451"/> when Artsariiv is in the the middle. Use <Effect name="Hypernovalaunch"/> when she moves and attune to <Skill id="5494"/>/<Skill id="5494"/> to cast <Skill id="5737"/>.
+- Cast <Skill id="45313"/>, <Skill id="5557"/> and <Skill id="44451"/> when Artsariiv is in the the middle. Use <SpecialActionKey name="hypernovalaunch"/> when she moves and attune to <Skill id="5494"/>/<Skill id="5494"/> to cast <Skill id="5737"/>.
 - Use <Skill id="5687"/> to break the CC bar.
 
 **Split Phase**
@@ -501,13 +501,13 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 **66%**
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
 - Blast your fire field for might in the middle.
-- Use <Effect name="Hypernovalaunch"/> to go to the corner.
+- Use <SpecialActionKey name="hypernovalaunch"/> to go to the corner.
 - Use <Skill id="5737"/> if it's off cd, else use <Skill id="5736"/> and DPS.
 
 **33%**
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
 - Blast your fire field for might in the middle.
-- Use <Effect name="Hypernovalaunch"/> to go to the corner.
+- Use <SpecialActionKey name="hypernovalaunch"/> to go to the corner.
 - Use <Skill id="5737"/> and do big deeps.
 
 **Tryhard/Static**
@@ -531,10 +531,10 @@ Advanced groups can let the second _Corporeal Reassignment_ trigger and `/gg` th
 
 **Tryhard Precast**
 - **Do this only if you are on voice with your static**.
-- Use <Effect name="Hypernovalaunch"/>/Portal to go the the platform early, cast <Skill id="5531"/> and drop your <Skill id="5516"/>. Cast <Skill id="5501"/> on your staff, then equip your Sword/Dagger and shout on voice to start the boss. This is a tight precast so make sure you practice it otherwise staff weaver RIP.
+- Use <SpecialActionKey name="hypernovalaunch"/>/Portal to go the the platform early, cast <Skill id="5531"/> and drop your <Skill id="5516"/>. Cast <Skill id="5501"/> on your staff, then equip your Sword/Dagger and shout on voice to start the boss. This is a tight precast so make sure you practice it otherwise staff weaver RIP.
 
 **100%**
-- Attune to <Skill id="5494"/>/<Skill id="5494"/> as soon as the encounter starts. Cast <Skill id="5531"/>, <Skill id="5737"/> and <Skill id="5697"/> with <Effect name="Hypernovalaunch"/> inside the hitbox. Then, drop your <Skill id="5516"/> and follow with the usual burst.
+- Attune to <Skill id="5494"/>/<Skill id="5494"/> as soon as the encounter starts. Cast <Skill id="5531"/>, <Skill id="5737"/> and <Skill id="5697"/> with <SpecialActionKey name="hypernovalaunch"/> inside the hitbox. Then, drop your <Skill id="5516"/> and follow with the usual burst.
 
 **Solar Bloom**
 - For this phase start on <Skill id="5494"/>/<Skill id="5492"/> and auto attack the bloom once, then attune to <Skill id="5494"/>/<Skill id="5494"/> to trigger <Trait id="222"/> on the bloom to push it into the pillar. This is the fastest way to do your bloom.
@@ -546,7 +546,7 @@ Advanced groups can let the second _Corporeal Reassignment_ trigger and `/gg` th
 - Cast <Skill id="5737"/> and the usual burst.
 
 **40%**
-- Precast <Skill id="5516"/> as the phase is starting, cast <Skill id="5531"/> and <Skill id="5697"/> with <Effect name="Hypernovalaunch"/> inside the hitbox and the drop it.
+- Precast <Skill id="5516"/> as the phase is starting, cast <Skill id="5531"/> and <Skill id="5697"/> with <SpecialActionKey name="hypernovalaunch"/> inside the hitbox and the drop it.
 
 **30%**
 - Pick up the <Skill id="5516"/> and open with <Skill id="5531"/> and the drop it. Use <Skill id="5737"/> and follow with the usual burst.

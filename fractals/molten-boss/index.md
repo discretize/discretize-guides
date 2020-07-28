@@ -76,7 +76,7 @@ The moment you killed the Effigy you can `/gg` if necessary so you don't have to
 
 ## Molten Berserker & Molten Firestorm <Item id="50082" disableText/>
 
-When you walk onto the end boss area, a group-wide <Effect name="agony"/> effect will be applied and put you in combat. As soon as it ends, use the small time (4-5 seconds) before boss starts to stack <Boon name="Might"/>.
+When you walk onto the end boss area, a group-wide <Effect name="Agony"/> effect will be applied and put you in combat. As soon as it ends, use the small time (4-5 seconds) before boss starts to stack <Boon name="Might"/>.
 
 Kill the _Molten Firestorm_ first and pay attention to the AoEs and _Shockwave_ attack. Reflects are useful here as well (especially if you're running without a healer). The _Molten Berserker_ will heal to full health after his comrade is dead, kill him afterwards to finish the fractal.
 

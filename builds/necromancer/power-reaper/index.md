@@ -506,7 +506,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 ### **Precast**
 1) Precast Staff symbols on the orb that starts the encounter
 2) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
-3) Blast <Boon name="Might"/> with <Effect name="Hypernova Launch"/>
+3) Blast <Boon name="Might"/> with <SpecialActionKey name="hypernovalaunch"/>
 4) Cast <Skill name="Lich Form"/> 4
 5) Take _Mistlock Singularity_
 6) Cast <Skill name="Lich Form"/> 4 **again**
@@ -529,7 +529,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-3) <Effect name="Hypernovalaunch"/> on _Arkk_ to help with CC
+3) <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -540,7 +540,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 2) <Skill name="Death Spiral"/> (GS 3)
 3) Auto attack until __Arch Diviner__ is 50%
 4) Spam <Skill name="Gravedigger"/> (GS 2)
-5) <Effect name="Hypernovalaunch"/> on the Elite to help with CC
+5) <SpecialActionKey name="hypernovalaunch"/> on the Elite to help with CC
 
 ### **Phase 3**
 1) Use both wells
@@ -563,7 +563,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-3) <Effect name="Hypernovalaunch"/> on _Arkk_ to help with CC
+3) <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -574,7 +574,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 2) <Skill name="Death Spiral"/> (GS 3)
 3) Auto attack until __Gladiator__ is 50%
 4) Spam <Skill name="Gravedigger"/> (GS 2)
-5) <Effect name="Hypernovalaunch"/> on the Elite to help with CC
+5) <SpecialActionKey name="hypernovalaunch"/> on the Elite to help with CC
 
 ### **Phase 5**
 1) Use both wells
@@ -599,7 +599,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 3) If Arkk is not CCd
 	1) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-	2) <Effect name="Hypernovalaunch"/> on _Arkk_ to help with CC
+	2) <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -607,7 +607,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 8) If not dead spam <Skill name="Gravedigger"/> (GS 2)
 
 Annotation:
-1) If possible make sure you use <Effect name="Hypernovalaunch"/> to CC the adds
+1) If possible make sure you use <SpecialActionKey name="hypernovalaunch"/> to CC the adds
     1) First add spawn AoE's that strips boons, make sure you avoid them
 
 </Tab>

@@ -199,7 +199,7 @@ The Priestess of Dwayna only has one attack which cannot be interrupted: a diffe
 
 ### Grenth <Label>45%-25%</Label>
 
-Amala will periodically gain <Boon name="Swiftness"/> and <Boon name="Might"/> (15x) during this phase while dealing <Condition name="Poisoned"/>, <Condition name="Torment"/> and <Condition name="chilled"/> with her scythe attack chain.
+Amala will periodically gain <Boon name="Swiftness"/> and <Boon name="Might"/> (15x) during this phase while dealing <Condition name="Poisoned"/>, <Condition name="Torment"/> and <Condition name="Chilled"/> with her scythe attack chain.
 
 This is another phase that for the most part can be stacked and DPSd through, as it has very little CC involved. The biggest danger of this phase however is the _Claim Soul_ attack, recognizable by a small orange AoE - it is unblockable and will immediately send you into downed state.
 
@@ -207,7 +207,7 @@ At 40% health, Amala summons an arrangement of _Spectral Walls_ that box you int
 
 #### Priestess of Grenth
 
-The next priestess applies <Condition name="Bleeding"/>, <Condition name="crippled"/>, <Condition name="Poisoned"/>, <Condition name="Torment"/> and <Condition name="chilled"/> but shouldn't be a problem to kill.
+The next priestess applies <Condition name="Bleeding"/>, <Condition name="crippled"/>, <Condition name="Poisoned"/>, <Condition name="Torment"/> and <Condition name="Chilled"/> but shouldn't be a problem to kill.
 
 ### Balthazar <Label>25%-5%</Label>
 

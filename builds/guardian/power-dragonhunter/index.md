@@ -9,7 +9,7 @@ benchmark:
   { small: { dps: 35132, by: 'Shetsa [SC]', youtube: 'C98JaabU6_c' } }
 skills: [30783, 30039, 9153, 9251]
 boons: ['Retaliation', 'Aegis']
-conditions: ['Vulnerability', 'Blind', 'Crippled']
+conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvGzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'SpatiumPrinceps.8927'
 ---
@@ -104,8 +104,8 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stunbreak is needed. Preferred over <Skill id="9153"/>. |
 | <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stunbreak is needed. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
-| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting 10 seconds. Can be used to counterplay <Instability name="We bleed fire"/>.|
-| <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside <Instability name="We bleed fire"/>. |
+| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting 10 seconds. Can be used to counterplay <Instability name="We Bleed Fire"/>.|
+| <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside <Instability name="We Bleed Fire"/>. |
 </Card>
 </GridItem>
 </Grid>
@@ -303,7 +303,7 @@ You can kill the first two adds with a greatsword. You can use traps on the 2nd 
 - Help your team CCing with [consumables](/guides/consumables). 
 - Swap to scepter and camp it to be ready for the mid burst.
 - Do not waste your <Skill name="banesignet"/> or <Skill name="Binding Blade"/> (GS5) for this. 
-- Use your <Effect name="Hypernovalaunch"/> to quickly navigate to adds. 
+- Use your <SpecialActionKey name="hypernovalaunch"/> to quickly navigate to adds. 
 
 ### **66% and 33%**
 - When all adds are broken, your traps will be off cooldown again. 
@@ -330,7 +330,7 @@ You can kill the first two adds with a greatsword. You can use traps on the 2nd 
 - Cast <Skill name="Bane Signet"/> early, so you get more DPS time. 
 - There are two ways to do the blooms fast: 
     1. Walk into the lightning and auto-attack with the scepter. Use <Skill name="Wings of Resolve"/> to jump back to the middle.
-    2. Walk into the lightning and auto-attack with the greatsword. After the bloom bounces towards the pillar use <Skill name="Leap of faith"/> on the bloom to finish it. Immediately use <Effect name="Hypernovalaunch"/> to jump back into the middle.
+    2. Walk into the lightning and auto-attack with the greatsword. After the bloom bounces towards the pillar use <Skill name="Leap of faith"/> on the bloom to finish it. Immediately use <SpecialActionKey name="hypernovalaunch"/> to jump back into the middle.
 
 </Tab>
 </Tabs>

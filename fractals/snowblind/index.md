@@ -121,7 +121,7 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 <GridItem sm="8">
 ## Shaman Lornarr Dragonseeker <Item id="8883" disableText/><Item id="24667" disableText/>  
   
-Stack <Boon name="Might"/> before the final boss. Make sure to dodge into the boss room to avoid getting <Condition name="chilled"/> from the icy bolts.
+Stack <Boon name="Might"/> before the final boss. Make sure to dodge into the boss room to avoid getting <Condition name="Chilled"/> from the icy bolts.
 
 He gains 3 stacks of _Rime Shield_ reducing his incoming damage from the three respawning _Corrupted Ice Crystals_, destroy them before focusing the Shaman.
 

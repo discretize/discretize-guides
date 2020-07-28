@@ -45,7 +45,7 @@ After two players passed, they stand on the cyan glowing runes to stop the tetri
 <GridItem sm="7"> 
 After prestacking <Boon name="Might"/> at the Mistlock Singularity move in and the _Deepstone Sentinel_ spawns. The only dangerous attack it has is an AoE tornado (called Wind Sprites) that you have to dodge at every 20%. It is a well telegraphed attack so you only have to make sure you are not standing in it 1 second later. If it manages to catch you, others have to use CC to break you out of it before it floats you to the depths and kill you. There is a possibility you get caught even if you are not standing in it, use Skill 1 to break out of it (If you get caught in it and you stood in the AoE Skill 1 does nothing else than pinging on minimap, so keep that in mind). 
 
-The other three attacks are a mini tornado that applies <Condition name="chilled"/> and the AoEs that <Control name="Daze"/>, the third attack is a projectile it shoots inbetween which can be reflected / absorbed. After killing the _Deepstone Sentinel_ the crystal energy orb spawns, take it and interact with the Vibrant Crystal in the middle.
+The other three attacks are a mini tornado that applies <Condition name="Chilled"/> and the AoEs that <Control name="Daze"/>, the third attack is a projectile it shoots inbetween which can be reflected / absorbed. After killing the _Deepstone Sentinel_ the crystal energy orb spawns, take it and interact with the Vibrant Crystal in the middle.
 </GridItem>
 
 <GridItem sm="5"> 
@@ -89,7 +89,7 @@ Use <Skill name="Legendary Demon Stance"/> to remove <Boon name="Protection"/> w
 <GridItem sm="6">
 ### Shadow Minotaur, Middle Room
     
-After merging the second orb with the Vibrant Crystal, you get a Special Action Key skill called <Effect name="lightofdeldrimor"/>. This skill is used to reveal hidden chest in the dungeon as well as making the mobs 10% more vulnerable and it also serves as revealing the Shadow Minotaur in the central chamber. After killing the Shadow Minotaur and the Imps the door in the middle chamber opens. Go in and move on to the next obstacle, the Maze.
+After merging the second orb with the Vibrant Crystal, you get a Special Action Key skill called <SpecialActionKey name="lightofdeldrimor"/>. This skill is used to reveal hidden chest in the dungeon as well as making the mobs 10% more vulnerable and it also serves as revealing the Shadow Minotaur in the central chamber. After killing the Shadow Minotaur and the Imps the door in the middle chamber opens. Go in and move on to the next obstacle, the Maze.
 </GridItem>
 
 <GridItem sm="6">
@@ -107,7 +107,7 @@ Use <Skill name="Lightning Flash"/>, <Skill name="Ride the Lightning"/> or <Skil
 <GridItem sm="6">
 <Tabs>
 <Tab specialization="Renegade">
-**<Specialization name="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <Effect name="lightofdeldrimor"/>.** Especially helpful at the Maze part.
+**<Specialization name="Renegade"/> can give <Boon name="Alacrity"/> to reduce the cooldown of <SpecialActionKey name="lightofdeldrimor"/>.** Especially helpful at the Maze part.
 </Tab>
 </Tabs>
 </GridItem>
@@ -119,7 +119,7 @@ Use <Skill name="Lightning Flash"/>, <Skill name="Ride the Lightning"/> or <Skil
 <GridItem sm="6">  
 ### The Maze
   
-Here you have to use the <Effect name="lightofdeldrimor"/> to reveal the hidden tiles of the maze.  Move to the right and the first orb of light is revealed for you. From there you proceed on to the next orb of light to your left or the bottom left on the minimap. After revealing all four orbs the maze's tiles reveal themselves and you can move on to the "elevator".
+Here you have to use the <SpecialActionKey name="lightofdeldrimor"/> to reveal the hidden tiles of the maze.  Move to the right and the first orb of light is revealed for you. From there you proceed on to the next orb of light to your left or the bottom left on the minimap. After revealing all four orbs the maze's tiles reveal themselves and you can move on to the "elevator".
 </GridItem>
 
 
@@ -132,7 +132,7 @@ Here you have to use the <Effect name="lightofdeldrimor"/> to reveal the hidden 
 </GridItem> 
 
 <GridItem sm="7"> 
-After standing on the rune in the middle of the platform it proceeds to go downward. If you didn't step in in time, no worries, there is a cyan glowing rune that teleports you down. As the platform goes down, it stops in the middle and mobs spawn. It's two waves of mobs with first being Veteran Imps only, then an Elite Minotaur and Veteran Imps. **Use the <Effect name="lightofdeldrimor"/> to make them vulnerable** and after killing them the platform moves again.You can jump down but it can happen that you die if you jump from too high. It is more safe to wait until it is fully down.
+After standing on the rune in the middle of the platform it proceeds to go downward. If you didn't step in in time, no worries, there is a cyan glowing rune that teleports you down. As the platform goes down, it stops in the middle and mobs spawn. It's two waves of mobs with first being Veteran Imps only, then an Elite Minotaur and Veteran Imps. **Use the <SpecialActionKey name="lightofdeldrimor"/> to make them vulnerable** and after killing them the platform moves again.You can jump down but it can happen that you die if you jump from too high. It is more safe to wait until it is fully down.
 </GridItem>
 
 <GridItem sm="5">
@@ -156,7 +156,7 @@ Use <Skill name="Lightning Flash"/> and <Skill name="Ride the Lightning"/> to ge
   
 Before fight <Label>Pre-stack</Label>
 
-Prestack <Boon name="Might"/> and proceed to the boss. The boss has several mechanics. The first you will notice is he is teleporting to a random location of the arena at every 10%. The tiles of the arena can be revealed with the <Effect name="lightofdeldrimor"/> skill. Spam this skill all the time and you won't have a problem with disappearing tiles.
+Prestack <Boon name="Might"/> and proceed to the boss. The boss has several mechanics. The first you will notice is he is teleporting to a random location of the arena at every 10%. The tiles of the arena can be revealed with the <SpecialActionKey name="lightofdeldrimor"/> skill. Spam this skill all the time and you won't have a problem with disappearing tiles.
 
 Teleporting <Label>Breakbar</Label>
 
@@ -164,7 +164,7 @@ At 80% and then 40% _The Voice_ teleports away and gains a breakbar while castin
 
 Invulnerable <Label>Phases</Label>
 
-At 60% and 20% _The Voice_ teleports to the middle, becoming invulnerable and you have to keep away _Spectral Flames_ from him. _Spectral Flames_ make the tiles disappear under them. Use <Effect name="lightofdeldrimor"/> skill to make them invulnerable to _Spectral Flames_. If a _Spectral Flame_ manages to reach _The Voice_, he casts a huge AoE that damages you.
+At 60% and 20% _The Voice_ teleports to the middle, becoming invulnerable and you have to keep away _Spectral Flames_ from him. _Spectral Flames_ make the tiles disappear under them. Use <SpecialActionKey name="lightofdeldrimor"/> skill to make them invulnerable to _Spectral Flames_. If a _Spectral Flame_ manages to reach _The Voice_, he casts a huge AoE that damages you.
 
 Ending <Label>20%</Label>
 
