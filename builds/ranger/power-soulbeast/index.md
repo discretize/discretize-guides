@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-07-25'
+date: '2020-08-04'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -673,7 +673,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - <Skill id="43548"/> then <Skill name="Worldlyimpact"/>.
 - <Effect name="hypernovalaunch"/> to the corner.
-- <Skill name="Cold Snap"/> when you can to call your spirit to the middle.
+- <Skill name="Cold Snap"/> when you can to call your spirit to the corner.
 - <Skill name="Rapid fire"/> and <Skill name="sicem"/>.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
 - <Skill name="Worldlyimpact"/>.
