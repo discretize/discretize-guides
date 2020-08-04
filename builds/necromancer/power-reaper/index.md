@@ -1,6 +1,6 @@
 ---
 title: 'Power Reaper'
-date: '2020-07-25'
+date: '2020-08-04'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Necromancer'
@@ -204,7 +204,7 @@ If not under 50%:
 1) Use both wells
 2) <Skill name="Grasping Darkness"/> (GS 5)
 3) <Skill name="Nightfall"/> (GS 4)
-4) If _MAMA_is broken: <Skill name="Soul Spiral"/> (Shroud 4)
+4) If _MAMA_ is broken: <Skill name="Soul Spiral"/> (Shroud 4)
 4) If _MAMA_ isn't broken:
 	1) <Skill name="Infusing Terror"/> (Shroud 3)
 	2) <Skill name="Executioners Scythe"/> (Shroud 5)
@@ -292,7 +292,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 </Message>
 ### **Precast**
 1) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
-2) Precast <Skill id="12363"/> / MIstfire Wolf, etc (if you have it)
+2) Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
 3) Take _Mistlock Singularity_
 4) Cast <Skill name="Lich Form"/> 4 at the orb
 
@@ -369,7 +369,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 2) Use both wells just as the fight starts
 3) <Skill name="Grasping Darkness"/> (GS 5)
 4) <Skill name="Nightfall"/> (GS 4)
-5) If _Skorvald__ is still not broken:
+5) If _Skorvald_ is still not broken:
 	1) <Skill name="Executioners Scythe"/> (Shroud 5)
 	2) <Skill name="Soul Spiral"/> (Shroud 4)
 6) Auto attack until _Skorvald_ phases
@@ -506,7 +506,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 ### **Precast**
 1) Precast Staff symbols on the orb that starts the encounter
 2) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
-3) Blast <Boon name="Might"/> with <Effect name="Hypernova Launch"/>
+3) Blast <Boon name="Might"/> with <Effect name="hypernovalaunch"/>
 4) Cast <Skill name="Lich Form"/> 4
 5) Take _Mistlock Singularity_
 6) Cast <Skill name="Lich Form"/> 4 **again**
