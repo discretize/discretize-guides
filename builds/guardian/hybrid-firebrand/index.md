@@ -1,6 +1,6 @@
 ﻿---
 title: 'Firebrand'
-date: '2020-07-25'
+date: '2020-08-04'
 rating: 'Meta'
 role: 'Support'
 profession: 'Guardian'
@@ -22,7 +22,7 @@ It plays very similar to <Specialization text="Power Dragonhunter" name="Dragonh
 Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' power by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
 <Message>
-<Specialization text="Power Quickness Firebrand" name="firebrand"/> is very strong when phases and encounters do not last long. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="firebrand"/>* ([Build](/builds/guardian/condi-firebrand) ) as it provides much better DPS for longer fights. 
+<Specialization text="Power Quickness Firebrand" name="firebrand"/> is very strong when phases and encounters do not last long. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="firebrand"/>* ([Build](builds/guardian/condi-firebrand) ) as it provides much better DPS for longer fights. 
 </Message>
 
 <Message>
