@@ -12,8 +12,8 @@ conditions: ['Vulnerability']
 boons: ['Might']
 code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'SpatiumPrinceps.8927'
-nintynineguide: '/cm-guides/warrior/berserker/99'
-hundredguide: '/cm-guides/warrior/berserker/100'
+nightmareguide: '/cm-guides/warrior/berserker/nightmare'
+shatteredguide: '/cm-guides/warrior/berserker/shatteredobservatory'
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
@@ -25,7 +25,6 @@ The <Specialization text="Banner Berserker" name="Berserker"/> is one of the cla
 Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
 
 <Divider text="Equipment"/>
-
 <Tabs outlined>
 
 <Tab title="162 Agony Resistance">
@@ -127,6 +126,7 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 </Grid>
 </Tab>
 </Tabs>
+
 
 <Divider text="Build"/>
 
