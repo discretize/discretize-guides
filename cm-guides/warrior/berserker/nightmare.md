@@ -1,9 +1,9 @@
 ---
-title: 'Berserker 99 CM guide'
+title: 'Berserker Nightmare Fractal CM guide'
 build: 'Berserker'
 profession: 'Warrior'
 specialization: 'Berserker'
-cm: '99'
+cm: '98'
 date: '2020-07-25'
 author: 'SpatiumPrinceps.8927'
 ---

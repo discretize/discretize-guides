@@ -1,9 +1,9 @@
 ---
-title: 'Berserker 100 CM guide'
+title: 'Berserker Shattered Observatory CM guide'
 build: 'Berserker'
 profession: 'Warrior'
 specialization: 'Berserker'
-cm: '100'
+cm: '99'
 date: '2020-07-25'
 author: 'SpatiumPrinceps.8927'
 ---
