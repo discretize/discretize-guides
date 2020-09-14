@@ -140,7 +140,10 @@ If no one did a portal to above, stack <Effect name="stealth"/> before the Harpi
 <GridItem sm="7">
 <Tabs>
 <Tab specialization="Renegade">
-First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Go to the golems and deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, then just use <Skill name="Protective Solace"/> to block the Racing Asura's projectiles until the end of fight.
+First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Go to the golems and deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, then just use <Skill name="Protective Solace"/> to block the Raving Asura's projectiles until the end of fight.
+</Tab>
+<Tab specialization="Firebrand">
+Drop a <Skill name="Wall of Reflection"/> first on Raving Asura, slightly offset towards your party. Once all four golems become active at the same time, go into <Skill name="Tome of Courage"/> and use <Skill name="Chapter 3: Valiant Bulwark"/> + <Skill name="Epilogue: Unbroken Lines"/> to help avoiding the projectiles.
 </Tab>
 </Tabs>   
 </GridItem>
