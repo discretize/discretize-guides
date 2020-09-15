@@ -96,7 +96,7 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 <GridItem sm="7">
 ## Forest <Item id="8883" disableText/><Item id="24667" disableText/>  
   
-After the Elemental Source is destroyed, everyone except the fastest player can `/gg` and wait for the next checkpoint at the cave to trigger. Mobility skills and <Item id="49940"/> are very good here, **skip videos below**.
+After the Elemental Source is destroyed, everyone except the fastest player can `/gg` and wait for the next checkpoint at the cave to trigger. Mobility skills and <Item id="85244"/> / <Item id="49940"/> are very good here, **skip videos below**.
 </GridItem>
   
 <GridItem sm="12">  
