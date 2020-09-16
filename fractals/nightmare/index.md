@@ -5,7 +5,7 @@ image: './images/ensolyss_crazy.jpg'
 group: 'Challenge Mode'
 api: 3177
 bosses: 3
-difficulties: [{ level: 99, ar: 150 }]
+difficulties: [{ level: 98, ar: 147 }]
 record:
   {
     time: '8:36',

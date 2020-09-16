@@ -1,102 +1,50 @@
 ---
-title: 'Shattered Observatory'
-date: '2020-07-25'
+title: 'Sunqua Peak'
+date: '2020-09-20'
 image: './images/header.jpg'
 group: 'Challenge Mode'
-api: 3458
-bosses: 3
-difficulties: [{ level: 99, ar: 148 }]
-record:
-  {
-    time: '9:56',
-    by: { name: 'Snow Crows/Quantify', tag: 'SC/qT' },
-    youtube:
-      [
-        { id: 'MVR0ay8hn2E', name: 'Roul', specialization: 'Firebrand' },
-        { id: 'VzK-hqgyTCQ', name: 'Breke', specialization: 'Warrior' },
-        { id: 'IG_30poYaR0', name: 'Nukkuu', specialization: 'Weaver' },
-        { id: '9vPGsgxCZDA', name: 'Sangi', specialization: 'Soulbeast' },
-        { id: '8228gHSt_PM', name: 'Deathly', specialization: 'Renegade' },
-      ],
-  }
+api: 0
+bosses: 5
+difficulties: [{ level: 100, ar: 150 }]
 cycle: 'Day'
-potions: [{ id: 50082, description: 'against Arkk' }]
+potions: []
 sigils: [{ id: 24615 }, { id: 24868 }]
-consumables: [78978, 8759, 8678, 8732]
+consumables: [8783, 8474, 8664, 8759, 8678, 8732, 78978]
 ---
 
-## Skorvald the Shattered <Label>5,551,340 HP</Label>
+The Sunqua Peak fractal is different from previously released fractals: After doing all the achievements a challange mote is unlocked which opens a portal to the last boss. The bosses in normal mode are supposed to teach the mechanics of the endboss. 
 
-|                    |                                                           |
-| ------------------ | --------------------------------------------------------- |
-| Encounter duration | 1:35min                                                   |
-| Sigils             | <Item name="impact"/> <Item name="force"/>                |
-| Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
-| CC                 | 2200                                                      |
+## First jumping puzzle 
+Killing elementals spawns lightning strikes that leave a little item behind which is collectable. It grants a temporary buff that enhances the jumping height. Collect 1-3 and jump to the platform with the *Mistlock Singularity*. Jump over to the boss via the buggy updraft to set a checkpoint for possibly left behind team mates. `/gg` and preboon <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> on the *Mistlock Singularity*.
+
+
+## Voice of the mountain <Label>xx HP</Label>
 
 <Grid>
 <GridItem sm="7">
-Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the *Mistlock Singularity* after accepting the Harbringer's challenge, stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> on the platform below and start the encounter by activating the orb in the center of the platform.
+Voice of the mountain is the first boss in eventually Sunqua Peak fractal. Regardless of running with or without healer, this boss deals very little damage. Try to avoid AoEs. About every 33% the boss disappears and lightning strikes are starting. Again, they leave collectable items for the jump buff behind. Collect 2 or 3 of them and jump inside the white AoEs to collect the clouds in the air. Make sure to avoid any big red AoEs as they deal heavy damage. 
 </GridItem>
 
 <GridItem sm="5">
-<Image src="./images/skorvald.jpg" caption="Skorvald the Shattered"/>
+<Image src="./images/skorvald.jpg" caption="Voice of the mountain"/>
 </GridItem>
 </Grid>
-
-|                                      |                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Solar Bolt**                       | Skorvald often throws a red orb which splits into three after each bounce. Every orb leaves a <Condition name="Burning"/> field which deals high damage.                                                                                                                                                                                                                         |
-| **Horizon Strike**                   | He marks orange triangles around him and blasts them counter-clockwise which deals high damage and <Control name="Knockback"/>. The orange zones themselves dont deal any damage but explode in order, practice the pattern and move into the first triangle after it is gone. Followed by Crimsown Dawn.                                                                        |
-| **Crimson Dawn**                     | Blasts the entire platform only excluding a small triangle behind him. Deals high damage.                                                                                                                                                                                                                                                                                        |
-| **Radiant Fury**                     | Applies <Condition name="Blinded"/> and <Condition name="Burning"/> to all players it hits and damages allies around them. Recognizable by diminishing red circles around every player, dodge when they collapse. Also sends out a **Solar Discharge** shockwave with <Control name="Stun"/> from Skorvald.                                                                        |
-| **Warp & Spiral Strike**             | Skorvard teleports to the target location and executes a spinning strike which damages players and applies <Control name="Knockback"/>. Also sends out a volley of bolts. Noticeable by a large bomb icon above a player.                                                                                                                                                        |
-| **Punishing Kick & Cranial Cascade** | Both attacks release a blast of chaotic mists with high damage and <Control name="Knockback"/>. _Punishing Kick_ generates a line in front of him, _Cranial Cascade_ a cascading triangle.                                                                                                                                                                                       |
-| **Rush**                             | **Only below 66% health.** Skorvald fixates on a player and charges through him from one edge of the platform to the other.                                                                                                                                                                                                                                                      |
-| **Focused Rage**                     | **Only below 66% health.** Basically a larger version of _Cranial Cascade _. Skorvald marks a player with a cross-hair and blasts a large orange cone for high damage and <Control name="Knockback"/>. The marked player should turn Skorvald away from other players, during the last second of the animation he does not follow the target anymore and it is safe to step out. |
-| **Solar Bloom**                      | **Only below 50% health.** Solar Blooms spawn on the platform which need to be knocked back by damaging them. They fixate on the closest player and explode for high area damage and <Control name="Knockback"/>, keep them away from the party.                                                                                                                                 |
-| **Beaming Smile**                    | **Only below 50% health.** Skorvald teleports to a random location and summons three large and deadly laser beams. Move out to prevent instant death. He also projects a white beam onto players inflicting <Condition name="fear"/> and <Condition name="Blinded"/> if you face him upon triggering - simply turn away to avoid it.                                               |
-| **Solar Cyclone**                    | **Only below 33% health.** Skorvald starts spinning counter-clockwise and releases conical shockwaves similar to _Cranial Cascade _. There are small safe-spots between each shockwave, learn to stand inside them to avoid the high damage and interrupts.                                                                                                                      |
-| **Combustion Rush**                  | **Only below 33% health.** Elite Flux Anomalies start charging through players and <Control name="Knockback"/>, indicated by a large arrow on the platform.                                                                                                                                                                                                                      |
-
-<Grid>
-<GridItem sm="3">
-<Image src="./images/elite-flux-anomaly.jpg" caption="An Elite Flux Anomaly"/>
-</GridItem>
-<GridItem sm="9">
-### Tactic
-The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health. Please note, that you cannot _precast_ CC here. Your CC affects Skorvald, as soon as his HP bar appears in the top right corner.
-
-At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four _Elite Flux Anomalies_ to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies dont have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the animations and position yourself between Anomaly and wall.
-
-It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately when you reach the 4th _Elite Flux Anomaly_ to deal more damage to Skorvald before he continues his attacks, especially at 33%. **_Do not take the portal back to the boss before the add has landed its first jump. Otherwise it will leap out of all the damage zones and not die in time for your nuke._**
-
-Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="Stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, but be ready to dodge if it explodes in party range.
-
-After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his Defiance bar, if he is not dead yet break the bar and finish him.
-</GridItem>
-
-</Grid>
-
 
 ---
 
-## Intermediate part
+## Water Path to the next boss
 
 <Grid>
 <GridItem sm="8">
-After Skorvald is dead, take the portal to the East and take the left portal in the control center area. You can activate a <Item id="78786"/> to walk during the cutscene and save some time.
+After the Voice of the mountain is dead, take the buggy updraft. Follow the path. In order to trigger the next boss all four Elemental clouds have to be freed by interacting with them. They spawn along the path and are not hidden. Right in the beginning there are water rifts that are buggy. <Boon name="Stability"/> does not work to prohibit the push down the cliff. Dodge through and pray to the gods of six you are not getting knocked down. The second waterfall can be easily skipped by walking behind it. 
 
-You gain a new special action key: <SpecialActionKey name="hypernovalaunch"/>. For the moment, it is a 2100-range teleport with stunbreak that blocks the next attack (1.75s <Boon name="Aegis"/>). Its cooldown refreshes after you bounce a _Globolla Marble_.
+Jump to the last boss, all mobs can be skipped. Remember to free the elementals
 
-You will encounter several glass mobs on the way to the second boss, there are no differences to the regular Shattered Observatory. After the first group of mobs, you will have to bounce a white _Globolla Marble_ nine times with your head to progress.
-
-If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip directly to Artsariiv using [this cut](https://www.youtube.com/watch?v=dirYlXZMCc4), otherwise use your <SpecialActionKey name="hypernovalaunch"/> on the next platform to jump to the elite mob and kill it to proceed to Artsariiv.
 </GridItem>
 
 <GridItem sm="4">
 
-<Image src="./images/way_to_artsariiv.jpg" caption="The way to Artsariiv"/>
+<Image src="./images/way_to_artsariiv.jpg" caption="The way to the stone of the mountain"/>
 
 </GridItem>
 
