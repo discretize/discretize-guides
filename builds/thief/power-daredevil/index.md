@@ -14,9 +14,6 @@ effects: ['Stealth']
 code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
-
-<Tabs>
-<Tab title="Build">
 <Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="Stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable fast skips in T4s. <Specialization name="Daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="Daredevil"/>  becomes quite hard to master.
 
 In fractals <Specialization name="Daredevil"/> falls behind other classes for several reasons:
@@ -122,8 +119,8 @@ Elite skills:
 
 </GridItem>
 </Grid>
-</Tab>
-<Tab title="Guide">
+
+
 <Divider text="Details"/>
 
 <Grid>
@@ -203,5 +200,3 @@ Although <Specialization name="Daredevil"/> doesn't have access to  <Effect name
 
 
 </Grid>
-</Tab>
-</Tabs>

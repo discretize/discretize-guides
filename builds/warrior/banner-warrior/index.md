@@ -113,9 +113,6 @@ If you're running without a <Specialization name="Druid"/> or <Specialization na
 
 Everything else stays the same. Note that your CC suffers without <Skill id="14502"/> so it is a good idea to bring [consumables](/guides/consumables).
 
-</Tab>
-
-<Tab specialization="Warrior" title="Guide">
 <Divider text="Details"/>
 
 <Grid>

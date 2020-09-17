@@ -8,7 +8,7 @@ bosses: 5
 difficulties: [{ level: 100, ar: 150 }]
 cycle: 'Day'
 potions: []
-sigils: [{ id: 24615 }, { id: 24868 }]
+sigils: [{ id: 36053 }, { id: 24868 }]
 consumables: [8783, 8474, 8664, 8759, 8678, 8732, 78978]
 ---
 
@@ -30,9 +30,7 @@ Voice of the mountain is the first boss in eventually Sunqua Peak fractal. Regar
 </GridItem>
 </Grid>
 
----
-
-## Water Path to the next boss
+### Water Path to the next boss
 
 <Grid>
 <GridItem sm="8">
@@ -100,7 +98,7 @@ Kill the boss and move on to the final encounter of this fractal.
 
 </Grid>
 
-## Sorrowful Spellcaster <Item id="50082" disableText/><Label>15,000,000 HP</Label>
+## Sorrowful Spellcaster <Label>15,000,000 HP</Label>
 
 This section explains CM and non-CM. The first part is for both the same, except that the Sorrowful Spellcaster has more HP and hits harder on CM. Mechanically it is the same. 
 
@@ -126,7 +124,7 @@ The boss has multiple phases themed around the different elements air, water, fi
 </GridItem>
 </Grid>
 
-#### Burn 1 <Label>100%-66%</Label>
+#### Air Phase <Label>100%-66%</Label>
 After crossing the green line the fight starts. After about one second the spellcaster dashes to a randomly chosen side and becomes crowd control bar which should be broken as soon as possible to get the <Effect name="Exposed"/> buff. Ideally the group phases her in the corner, else she will repeat the attack pattern one more time. 
 
 If you do not manage to bring her to 66% after the second side burn additional mechanics have to be done: collecting 2-3 <Uncategorized name="chargedleap"/> (depending on the height) to remove the clouds above the white AoEs. 
@@ -142,3 +140,7 @@ After the rock attack the attack pattern from phase 1 repeats. After about a sec
 The water phase starts at the entrance of the arena. After a short while a dark cloud appears which needs to be collected by a green AoE that appears around a player. The player closes to the cloud gets tethered to the it and receives the debuff <Uncategorized name="tidalbargain"/>.
 
 Move counter clockwise and contiue removing the dark clouds with the green AoEs. During the fourth capture the boss dashes to the side and starts to cast powerful water tornado which deal heavy damage. 
+
+
+### Part2: Lazor disco
+After a long roleplay the boss transforms into a disco dance champ with advanced lazor technoglogy. Avoid getting hit bei lazors. 
