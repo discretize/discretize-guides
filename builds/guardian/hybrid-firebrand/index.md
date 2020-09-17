@@ -40,7 +40,7 @@ If you are unable to provide enough <Boon name="Quickness"/> with that, **please
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar"/>
+<Armor weight="Heavy" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Assassin" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
 </GridItem>
 
 <GridItem sm="4">

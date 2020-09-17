@@ -24,12 +24,12 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="6">
 80% Boon Duration.
-<Armor weight="Heavy" helmAffix="Diviner" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Heavy" helmAffix="Diviner" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
 </GridItem>
 
 <GridItem sm="6">
 50% Boon duration.
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
 </GridItem>
 
  
