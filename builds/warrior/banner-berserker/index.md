@@ -31,20 +31,18 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 Check the [gear optimizer](https://old.discretize.eu) for more gear variants! 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
-<Card title="Requirements:">
-* 18x <Item id="49432"/>
-</Card>
+<Armor weight="Heavy" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
+
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2OffInfusionId="49432"/>
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 <Card title="Extra Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 * Warhorn for pre-stacking <Boon name="Might"/>.
@@ -62,7 +60,7 @@ Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants! 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 <Card title="Requirements:">
 * All fractal augumentations
 * 18x <Item id="49432"/>
@@ -71,13 +69,13 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2OffInfusionId="37131" />
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
 <Card title="Extra Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 * Warhorn for pre-stacking <Boon name="Might"/>.
@@ -94,13 +92,13 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 You are an actual mad lad for considering this build. It costs about 3500 gold... You gain 41 power more over the 222 AR build. It is up to you to decide if you want to pay over 80g per extra power. 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2OffInfusionId="37131" />
 <Card title="You need...">
 - All fractal augmentations.
 - <Item id="70596"/>.
@@ -112,7 +110,7 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="49439" accessory2InfusionId="49438" ring1Infusion1Id="49438" ring1Infusion2Id="49438" ring1Infusion3Id="49438" ring2Infusion1Id="49438" ring2Infusion2Id="49438" ring2Infusion3Id="49438"/>
 <Card title="Extra Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 * Warhorn for pre-stacking <Boon name="Might"/>.
