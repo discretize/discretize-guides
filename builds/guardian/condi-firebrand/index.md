@@ -12,8 +12,6 @@ conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
 code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
-<Tabs>
-<Tab title="Build">
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high DPS consistent DPS. In organized teams this build is inferior to <Specialization name="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very high damage making your DPS players sweat. 
 
 Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies.
@@ -70,9 +68,7 @@ Note that this build variant gains boon duration from the <Item id="79722"/> and
 </Card>
 </GridItem>
 </Grid>
-</Tab>
 
-<Tab title="Guide">
 <Divider text="Details"/>
 
 <Grid>
@@ -150,5 +146,3 @@ When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 </Card>
 </GridItem>
 </Grid>
-</Tab>
-</Tabs>

@@ -16,9 +16,6 @@ The engineer build that currently fares best in fractals is the <Specialization 
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-
-<Tabs>
-<Tab title="Build">
 <Divider text="Equipment"/>
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
@@ -78,9 +75,6 @@ You can swap Firearms trait line with Tools and replace <Skill id="5805"/> on <S
 </Card>
 </GridItem>
 </Grid>
-</Tab>
-
-<Tab title="Guide">
 
 <Divider text="Details"/>
 
@@ -145,5 +139,3 @@ You can switch to <Specialization name="Scrapper"/> and equip <Skill id="30815"/
 </GridItem>
 
 </Grid>
-</Tab>
-</Tabs>
