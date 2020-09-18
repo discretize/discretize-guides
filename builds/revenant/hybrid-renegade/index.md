@@ -34,11 +34,11 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
  
 <GridItem sm="6">
-<BackAndTrinkets backItemAffix="Diviner" accessory1Affix="Berserker" accessory2Affix="Diviner" amuletAffix="Diviner" ring1Affix="Diviner" ring2Affix="Diviner"/>
+<BackAndTrinkets backItemAffix="Diviner" accessory1Affix="Berserker" accessory2Affix="Diviner" amuletAffix="Diviner" ring1Affix="Diviner" ring2Affix="Diviner" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 </GridItem>
 
 <GridItem sm="6">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Diviner" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Diviner" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 </GridItem>
 </Grid>
 </Tab>
@@ -61,20 +61,20 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="6">
 80% Boon Duration.
-<Armor weight="Heavy" helmAffix="Diviner" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Heavy" helmAffix="Diviner" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 </GridItem>
 
 <GridItem sm="6">
 50% Boon duration.
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 </GridItem>
  
 <GridItem sm="6">
-<BackAndTrinkets backItemAffix="Diviner" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Diviner" ring1Affix="Diviner" ring2Affix="Diviner"/>
+<BackAndTrinkets backItemAffix="Diviner" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Diviner" ring1Affix="Diviner" ring2Affix="Diviner" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
 </GridItem>
 
 <GridItem sm="6">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
 </GridItem>
 
 </Grid>
@@ -86,7 +86,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="4">
 <Grid>
 <GridItem sm="12">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Force" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Severance" weapon2MainSigil2="Force"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Force" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Severance" weapon2MainSigil2="Force" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2MainInfusion2Id="37131"/>
 </GridItem>
 
 <GridItem sm="12">

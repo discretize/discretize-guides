@@ -25,21 +25,21 @@ Feel free to run full Harrier if you are confident that you don't need the extra
 
 <Tabs outlined>
 
-<Tab title="150 Agony Resistance">
+<Tab title="162 Agony Resistance">
 Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Harrier" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Harrier" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk"/>
+<Armor weight="Heavy" helmAffix="Harrier" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Harrier" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1OffType="Sword" weapon1OffAffix="Harrier" weapon1OffSigil="Concentration" weapon2MainType="Staff" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2MainSigil2="Concentration"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1OffType="Sword" weapon1OffAffix="Harrier" weapon1OffSigil="Concentration" weapon2MainType="Staff" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2MainSigil2="Concentration" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2MainInfusion2Id="49432"/>
 <Consumables foodId="68634" utilityId="67528" infusionId="37125"/>
 
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Harrier" accessory1Affix="Cleric" accessory2Affix="Cleric" amuletAffix="Harrier" ring1Affix="Harrier" ring2Affix="Harrier"/>
+<BackAndTrinkets backItemAffix="Harrier" accessory1Affix="Cleric" accessory2Affix="Cleric" amuletAffix="Harrier" ring1Affix="Harrier" ring2Affix="Harrier" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 <Card title="Swap Weapons">
 * Hammer for some skips (most of them require <Item name="whitemantleportaldevice"/>)
 * Hammer and main-hand mace can be used for might blasting in groups that do not prestack might properly.
