@@ -24,11 +24,11 @@ Note that this build variant gains boon duration from the <Item id="79722"/> and
 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Viper" helmRune="Balthazar" shouldersAffix="Sinister" shouldersRune="Balthazar" coatAffix="Grieving" coatRune="Balthazar" glovesAffix="Sinister" glovesRune="Balthazar" leggingsAffix="Viper" leggingsRune="Balthazar" bootsAffix="Grieving" bootsRune="Balthazar"/>
+<Armor weight="Heavy" helmAffix="Viper" helmRune="Balthazar" shouldersAffix="Sinister" shouldersRune="Balthazar" coatAffix="Grieving" coatRune="Balthazar" glovesAffix="Sinister" glovesRune="Balthazar" leggingsAffix="Viper" leggingsRune="Balthazar" bootsAffix="Grieving" bootsRune="Balthazar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Concentration" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="Concentration" />
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Concentration" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="Concentration" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
 
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM.
@@ -37,7 +37,7 @@ Note that this build variant gains boon duration from the <Item id="79722"/> and
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Grieving" accessory2Affix="Viper" amuletAffix="Grieving" ring1Affix="Viper" ring2Affix="Viper"/>
+<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Grieving" accessory2Affix="Viper" amuletAffix="Grieving" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
 <Consumables foodId="86997" utilityId="48917" infusionId="37130"/>
 

@@ -40,7 +40,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Scepter" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Warhorn" weapon1OffAffix="Berserker" weapon1OffSigil="Force"/>
+<Weapons weapon1MainType="Scepter" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Warhorn" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
 
 <Card title="Swap Weapons">
 * Scepter with <Item name="Night" type="Sigil"/>
@@ -51,7 +51,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
+<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -61,11 +61,11 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Tab title="222 Agony Resistance">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Scepter" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Warhorn" weapon1OffAffix="Berserker" weapon1OffSigil="Force"/>
+<Weapons weapon1MainType="Scepter" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Warhorn" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon1MainInfusion1Id="37131" weapon1OffInfusionId="37131"/>
 
 <Card title="Swap Weapons">
 * Scepter with <Item name="Night" type="Sigil"/>
@@ -76,7 +76,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
 
 <Card title="Extra note">
 You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !

@@ -24,7 +24,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker"  weapon1MainSigil1="Force" weapon1OffSigil="Impact" weapon1OffType="Pistol" weapon1OffAffix="Berserker"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker"  weapon1MainSigil1="Force" weapon1OffSigil="Impact" weapon1OffType="Pistol" weapon1OffAffix="Berserker" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
 
 <Card title="Alternative weapons">
 * Rifle with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
@@ -33,7 +33,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
 </GridItem>

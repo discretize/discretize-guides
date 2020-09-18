@@ -34,11 +34,11 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Harrier" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Harrier" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk"/>
+<Armor weight="Heavy" helmAffix="Harrier" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Harrier" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
 </GridItem>
  
 <GridItem sm="4">
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon2MainType="Axe" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2OffType="Shield" weapon2OffAffix="Harrier" weapon2OffSigil="Concentration"/>
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon2MainType="Axe" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2OffType="Shield" weapon2OffAffix="Harrier" weapon2OffSigil="Concentration" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2OffInfusionId="49432"/>
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM
 * A hammer for <Boon name="Might"/> pre-stacking
@@ -46,7 +46,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Cleric" accessory1Affix="Cleric" accessory2Affix="Cleric" amuletAffix="Harrier" ring1Affix="Cleric" ring2Affix="Harrier"/>
+<BackAndTrinkets backItemAffix="Cleric" accessory1Affix="Cleric" accessory2Affix="Cleric" amuletAffix="Harrier" ring1Affix="Cleric" ring2Affix="Harrier" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 <Consumables food="Delicious Rice Ball" utilityId="67528" infusion="Healing +9 Agony Infusion"/>
 </GridItem>
 
