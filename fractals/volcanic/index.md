@@ -17,13 +17,13 @@ cycle: 'Night'
 potions:
   [
     { id: 8890, description: 'for all the Grawl enemies' },
-    { id: 8885, description: 'for the Imbued Shaman endboss' },
+    { id: 8886, description: 'for the Imbued Shaman endboss' },
   ]
 sigils:
   [
     { id: 36053 },
     { id: 24648, description: 'for the Grawl enemies' },
-    { id: 24661, description: 'for the Imbued Shaman endboss' },
+    { id: 24868, description: 'for the Imbued Shaman endboss' },
   ]
 consumables: [78978, 49940]
 ---
@@ -87,7 +87,7 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 
 ---
 
-## Imbued Shaman <Item id="8885" disableText/><Item id="8886" disableText/><Item id="24661" disableText/>
+## Imbued Shaman <Item id="8886" disableText/><Item id="24868" disableText/>
 
 <Grid>
 <GridItem sm="8">
