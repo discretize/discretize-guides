@@ -11,7 +11,7 @@ date: '2020-07-25'
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
+<Skills unembossed healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Traits: <Trait id="2128"/>. 
 - Food: <Item id="91805"/>.
@@ -68,7 +68,7 @@ Spirit Management:
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+<Skills unembossed healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 - Pet: <Skill id="44617" disableText/> Red Moa (more DPS) or <Skill id="43636" disableText/> Rock Gazelle (better movement).
 - Traits: <Trait id="2128"/>. 
 - Food: <Item id="91805"/>.
@@ -134,7 +134,7 @@ Middle strategy assumes you end phases 1 and 3 before Artsariiv reaches the corn
 
 
 <Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717"/>
+<Skills unembossed healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717"/>
 - Pet: <Skill id="44617" disableText/> Red Moa.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/>.
@@ -199,7 +199,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="12483" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
+<Skills unembossed healId="12483" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
 - Pet: <Skill id="44617" disableText/> Red Moa.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/> or <Item id="43360"/> if you're able to damage adds to get the power bonus.

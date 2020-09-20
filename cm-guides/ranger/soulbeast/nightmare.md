@@ -13,7 +13,7 @@ date: '2020-07-25'
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+<Skills unembossed healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Traits: <Trait id="2143"/>.
 - Food: <Item id="43360"/>.
@@ -89,7 +89,7 @@ In faster kills you want to run <Item id="82876"/> instead of <Item id="24615"/>
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
+<Skills unembossed healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="43360"/>.
@@ -155,7 +155,7 @@ Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="45970" eliteId="45717"/>
+<Skills unembossed healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="45970" eliteId="45717"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/>.
@@ -219,7 +219,7 @@ If you are playing with a <Specialization name="Dragonhunter"/> instead of a <Sp
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="" eliteId="45717"/>
+<Skills unembossed healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="" eliteId="45717"/>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Traits: <Trait id="2128"/>, **<Trait name="Clarion Bond"/>**.
 - Food: <Item id="91805"/>.

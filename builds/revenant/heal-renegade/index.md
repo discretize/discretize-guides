@@ -61,7 +61,7 @@ If you run out of energy too quickly, we recommend the Salvation/Invocation vari
 You should consider running this trait variant in fractals like Molten Furnace and Captain Mai Trin.
 
 Swap Devastation with this line:
-<UnembossedTraits traits1Id="3" traits1="Invocation" traits1SelectedIds="1761,1774,1791"/>
+<Traits unembossed traits1Id="3" traits1="Invocation" traits1SelectedIds="1761,1774,1791"/>
 
 Template code:
 

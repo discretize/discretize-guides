@@ -67,7 +67,7 @@ With 204 Agony resistance <Specialization name="Daredevil"/> is critcapped even 
 | <Trait id="2023" size="big" disableText/> | Daredevil trait. Healing and condition cleanse on evade.  |
 
 If no one in your party can boonrip when the <Instability name="No Pain, No Gain"/> instability is present you can swap Deadly Arts for the Trickery line with the following traits: 
-<UnembossedTraits traits1="Trickery" traits1Id="44" traits1SelectedIds="1163,1277,1158"/>
+<Traits unembossed traits1="Trickery" traits1Id="44" traits1SelectedIds="1163,1277,1158"/>
 <Message>
 **Note: this is kind of a meme way to deal with the instability and there are better options!**
 </Message>
