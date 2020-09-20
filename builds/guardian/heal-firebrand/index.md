@@ -64,7 +64,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | <Trait name="Pure of heart" size="big" disableText/> | In some T4s with a lot of attacking enemies it can be beneficial to bring this trait. This trait trades <Boon name="Might"/> for more heals. |
 ## Wheelchair
 In case your team downs frequently and is unable to handle mechanics correctly, you can swap radiance for virtues. This however is **not** the default build and should only be played under extreme circumstances, like very bad instability combos or beginner groups.
-<UnembossedTraits traits1Id="46" traits1="Virtues"  traits1SelectedIds="625, 610, 554"/>
+<Traits unembossed traits1Id="46" traits1="Virtues"  traits1SelectedIds="625, 610, 554"/>
 
 </Card>
 </GridItem>

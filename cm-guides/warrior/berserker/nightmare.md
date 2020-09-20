@@ -21,7 +21,7 @@ This guide is a PuG friendly version without banner precast. Please remember tha
 
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="14401" utility1Id="29941" utility2Id="14405" utility3Id="14407" eliteId="30343"/>
+<Skills unembossed healId="14401" utility1Id="29941" utility2Id="14405" utility3Id="14407" eliteId="30343"/>
 - Take <Trait id="1977"/>!
 - It makes sense to use [consumables](/guides/consumables) on the adds!
 - Food: <Item id="43360"/>.
@@ -103,7 +103,7 @@ This build only works if you kill MAMA in less than 55 seconds. If there is any 
 
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343"/>
+<Skills unembossed healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343"/>
 - You can change <Skill id="14516"/> to <Skill name="throwbolas"/> if you don't need the extra CC.
 - Take <Trait name="Smashbrawler"/>!
 - Food: <Item id="43360"/>.
@@ -180,7 +180,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="14401" utility1Id="30258" utility2Id="14405" utility3Id="14407" eliteId="30343"/>
+<Skills unembossed healId="14401" utility1Id="30258" utility2Id="14405" utility3Id="14407" eliteId="30343"/>
 - Take <Trait name="smashbrawler"/>!  
 - It is recommended to play Greatsword in PuGs so you can cleave down the exploding adds! 
 - Food: <Item id="43360"/>.
@@ -243,7 +243,7 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343"/>
+<Skills unembossed healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343"/>
 - Take <Trait name="Smashbrawler"/>!
 - In organized teams a rifle can kill the adds very efficiently! 
 - Food: <Item id="43360"/>.
@@ -310,7 +310,7 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 <Grid>
 <GridItem sm="12">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343"/>
+<Skills unembossed healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343"/>
 - Take <Trait name="savageinstinct"/>!
 - In slow teams (PuGs) bring <Trait name="smashbrawler"/> and <Skill name="outrage"/>.
 - In fast teams bring <Skill name="bullscharge"/> over <Skill name="signetofmight"/>.

@@ -115,7 +115,7 @@ These rotations are **not** set in stone and therefore you should adjust your ga
 
 For this encounter, it is recommended to run the following traits in the Devastation trait line.
 
-<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
+<Traits unembossed traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 **Precast**  
 * Wait for your teammates to drop a fire field and in case you have a <Specialization name="Soulbeast"/>, wait until they use <Skill name="Moa Stance"/> which increases your boon duration by 20 %.
@@ -210,7 +210,7 @@ This part of the guide was taken from [Casual Sophie](https://www.youtube.com/ch
 
 For this encounter, it is recommended to run the following traits in the Devastation trait line.
 
-<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
+<Traits unembossed traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 ---
 

@@ -134,11 +134,11 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 <Card title="Maximizing berserk uptime">
 For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. Two such examples can be seen below for the first two bosses of 99CM:
 ### **Mama**
-<UnembossedSkills healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343"/>
+<Skills unembossed healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343"/>
 
 ### **Siax**
 
-<UnembossedSkills healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343"/>
+<Skills unembossed healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343"/>
 </Card>
 </GridItem>
 

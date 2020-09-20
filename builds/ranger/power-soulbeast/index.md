@@ -137,7 +137,7 @@ Running Skirmishing in fractals is quite a niche choice, you need to satisfy **b
 - You want to replace a <Specialization name="Berserker"/> by providing your team with <Trait name="Spotter"/> so they can crit cap.
 
 If both of these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:
-<UnembossedTraits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069, 1016, 1888"/>
+<Traits unembossed traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069, 1016, 1888"/>
 </Card>
 </GridItem> 
 <GridItem sm="5">

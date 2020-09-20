@@ -119,7 +119,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 **For this encounter it is recommended to run the following traits in Devastation trait line:**
 
-<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
+<Traits unembossed traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 ---
 
@@ -217,7 +217,7 @@ Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon d
 
 **For this encounter it is recommended to run the following traits in Devastation trait line:**
 
-<UnembossedTraits traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
+<Traits unembossed traits1Id="15" traits1="Devastation" traits1SelectedIds="1767,1786,1754"/>
 
 ---
 

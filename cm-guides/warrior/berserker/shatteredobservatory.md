@@ -13,7 +13,7 @@ author: 'SpatiumPrinceps.8927'
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343"/>
+<Skills unembossed healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343"/>
 - Take <Trait name="savageinstinct"/>!
 - Food: <Item id="91805"/>.
 - Utility: <Item id="9443"/>.
@@ -74,7 +74,7 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 <Grid>
 <GridItem sm="12">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343"/>
+<Skills unembossed healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343"/>
 - Take <Trait name="savageinstinct"/>!
 - With <Instability name="Afflicted"/> you can bring a meme skill <Skill name="berserkerstance"/>.
 - If most of the damage done is in the center, take <Skill name="signetoffury"/>.
@@ -142,7 +142,7 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 <Grid>
 <GridItem sm="12">
 <Card title="Skills and Traits">
-<UnembossedSkills healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419"/>
+<Skills unembossed healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419"/>
 - Take <Trait name="smashbrawler"/>!
 </Card>
 </GridItem>
