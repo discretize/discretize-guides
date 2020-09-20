@@ -8,15 +8,15 @@ bosses: 3
 difficulties: [{ level: 99, ar: 148 }]
 record:
   {
-    time: '9:56',
-    by: { name: 'Snow Crows/Quantify', tag: 'SC/qT' },
+    time: '5:15',
+    by: { name: 'Nightmare Shattered', tag: 'Ns' },
     youtube:
       [
-        { id: 'MVR0ay8hn2E', name: 'Roul', specialization: 'Firebrand' },
-        { id: 'VzK-hqgyTCQ', name: 'Breke', specialization: 'Warrior' },
-        { id: 'IG_30poYaR0', name: 'Nukkuu', specialization: 'Weaver' },
-        { id: '9vPGsgxCZDA', name: 'Sangi', specialization: 'Soulbeast' },
-        { id: '8228gHSt_PM', name: 'Deathly', specialization: 'Renegade' },
+        { id: 'gniUy_2k2hM', name: 'Xarax', specialization: 'Soulbeast' },
+        { id: 'rmaBOh_xi7Y', name: 'Ryan', specialization: 'Soulbeast' },
+        { id: '2clUITx7nZQ', name: 'CopyThisStatic', specialization: 'Weaver' },
+        { id: 'TT8pBa8mQOc', name: 'NCDope', specialization: 'Renegade' },
+        { id: 'ypaokpTJE9k', name: 'Fines', specialization: 'Firebrand' },
       ],
   }
 cycle: 'Day'

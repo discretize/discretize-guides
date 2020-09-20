@@ -8,12 +8,15 @@ bosses: 3
 difficulties: [{ level: 79, ar: 113 }, { level: 91, ar: 134 }]
 record:
   {
-    time: '3:16',
-    by: { name: 'Happens', tag: 'hP' },
+    time: '2:14',
+    by: { name: 'Lucky Noobs', tag: 'LN' },
     youtube:
       [
-        { id: 'fMB69jScHWg', name: 'Never Moa', specialization: 'Tempest' },
-        { id: '1HptYqPzPZE', name: 'Midnightz', specialization: 'Tempest' },
+        { id: 'CipdjbelW-0', name: 'Nightmare', specialization: 'Chronomancer' },
+        { id: 'iwpSxdqcdyY', name: 'CopyThisStatic', specialization: 'Firebrand' },
+        { id: 'rgh5tnrg29o', name: 'Runitdown', specialization: 'Berserker' },
+        { id: 'BHXFkdm3TFY', name: 'Inam', specialization: 'Renegade'},
+
       ],
   }
 cycle: 'Day'
