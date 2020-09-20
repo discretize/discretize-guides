@@ -21,14 +21,14 @@ description: 'Learn how to use various consumables to greatly simplify otherwise
 
 ## Crowd Control Consumables
 
-| Item                       | CC         | Additional Information                                                                                                                                                                                                                                    |
-| -------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Item id="8664"/>     | 500        | Skill 2 (20s cooldown), available to all professions. Stacks with <Item id="24639"/> and traits like <Trait id="1070"/>.                                                                                    |
-| <Item id="8783"/>     | 500        | Skill 2 (8s cooldown), available to all professions.                                                                                  |
-| <Item id="8474"/>     | ~375       | Skill 2 (3s cooldown), available to all professions. Only 0.25s cast time. **Does not get destroyed on use!**                                                                                  |
-| <Item id="8759"/>     | 332        | Skill 2 (4s cooldown), available to all professions. <Specialization name="Warrior"/>: Skill 3 (400 Defiance Bar damage)                                              |
-| <Item id="8678"/>     | 200        | Skill 1 (no cooldown), and can be used from range. Since many buy the wrong one and we list the right rock here but **it does not direct you to the right** wiki page, [click here for the usable one]( https://wiki.guildwars2.com/wiki/Rock_(level_22))                                                                                                                                                                                       |
-| <Item id="8732"/>     | 200        | Skill 1 (no cooldown), defiance bar damage in an area around you upon detonation.                                                                                                                                                                                                        |
+| Item                       | CC         | <Item name="paralyzation" disableText /> | Additional Information                                 |
+| -------------------------- | ---------- | ------------------|  ------------------------------------------------------------------------------ |
+| <Item id="8664"/>     | 500       | 650  | Skill 2 (20s cooldown), available to all professions. Stacks with <Item id="24639"/> and traits like <Trait id="1070"/>.   |
+| <Item id="8783"/>     | 500       | no | Skill 2 (8s cooldown), available to all professions.         |
+| <Item id="8474"/>     | 350       | 410  | Skill 2 (3s cooldown), available to all professions. Only 0.25s cast time. **Does not get destroyed on use!**     |
+| <Item id="8759"/>     | 332       | no | Skill 2 (4s cooldown), available to all professions. <Specialization name="Warrior"/>: Skill 3 (400 Defiance Bar damage)  |
+| <Item id="8678"/>     | 200        | no | Skill 1 (no cooldown), and can be used from range. Since many buy the wrong one and we list the right rock here but **it does not direct you to the right** wiki page, [click here for the usable one]( https://wiki.guildwars2.com/wiki/Rock_(level_22))             |
+| <Item id="8732"/>     | 200       | no | Skill 1 (no cooldown), defiance bar damage in an area around you upon detonation.                             |
 
 ---
 
