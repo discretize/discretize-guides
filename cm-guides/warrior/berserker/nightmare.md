@@ -10,18 +10,17 @@ author: 'SpatiumPrinceps.8927'
 
 
 
-<Divider text="MAMA"/>
-<Tabs>
-<Tab title="PuG">
+<ConditionalComponent condition="pug">
+
+<Boss name="m.a.m.a." foodId="43360" utilityId="50082" healId="14401" utility1Id="29941" utility2Id="14405" utility3Id="14407" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131" weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Severance" weapon2MainInfusion1Id="37131" >
+- Take <Trait id="1977"/>!
+- It makes sense to use [consumables](/guides/consumables) on the adds!
+</Boss>
 
 <Message>
 This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates. 
 </Message>
 This guide is a PuG friendly version without banner precast. Please remember that CCing all bars fast is the most important bit in this fight. You won't get a good kill - might even wipe your party - if you greed DPS without CC. 
-<Boss name="m.a.m.a." foodId="43360" utilityId="50082" healId="14401" utility1Id="29941" utility2Id="14405" utility3Id="14407" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131" weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Severance" weapon2MainInfusion1Id="37131" >
-- Take <Trait id="1977"/>!
-- It makes sense to use [consumables](/guides/consumables) on the adds!
-</Boss>
 
 There is an invisible hitbox in the center of the arena allowing you to gain enough adrenaline for one <Skill name="decapitate"/> with only two critical hits!
 
@@ -68,8 +67,10 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 - CC with <Skill name="Wildblow"/>.
 - Use whatever CC is up at this point.
 
-</Tab>
-<Tab title="Organized">
+</ConditionalComponent>
+
+
+<ConditionalComponent condition="static">
 
 This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
 
@@ -121,14 +122,12 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 - CC with <Skill name="Tremor"/>
 - Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
 - Swap to Axe/Axe as soon as you are done with CCing and DPS.
+</ConditionalComponent>
 
-  </Tab>
-  </Tabs>
+---
 
-<Divider text="Siax"/>
+<ConditionalComponent condition="pug">
 
-<Tabs>
-<Tab title="PuG">
 
 <Boss name="siax" foodId="43360" utilityId="50082" healId="14401" utility1Id="30258" utility2Id="14405" utility3Id="14407" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="Greatsword" weapon2MainSigil1="force" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 - It is recommended to play Greatsword in PuGs so you can cleave down the exploding adds! 
@@ -163,9 +162,10 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 - Warrior business as usual.
 
 
-</Tab>
+</ConditionalComponent>
 
-<Tab title="Organized">
+
+<ConditionalComponent condition="static">
 This build only works if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
 <Boss name="siax" video="yfPvLIHZaRM" timestamp="5" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="rifle" weapon2MainSigil1="force" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 - In organized teams a rifle can kill the adds very efficiently! 
@@ -203,10 +203,9 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 - Depending on your kill time you might want to use the <Skill name="headbutt"/> - <Skill name="outrage"/> combo earlier.
 
-</Tab>
-</Tabs>
+</ConditionalComponent>
 
-<Divider text="Ensolyss"/>
+---
 
 <Boss name="ensolyss" video="NbJl4FQFTaI" timestamp="63" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="mace" weapon2MainSigil1="severance" weapon2OffType="torch" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
 - Take <Trait name="savageinstinct"/>!

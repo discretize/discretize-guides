@@ -1,5 +1,5 @@
 ---
-title: 'Berserker Shattered Observatory CM guide'
+title: 'Berserker Shattered Observatory'
 build: 'Berserker'
 profession: 'Warrior'
 specialization: 'Berserker'
@@ -8,36 +8,13 @@ date: '2020-07-25'
 author: 'SpatiumPrinceps.8927'
 ---
 
-<Divider text="SKORVALD"/>
 
-<Grid>
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<Skills unembossed healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343"/>
-- Take <Trait name="savageinstinct"/>!
-- Food: <Item id="91805"/>.
-- Utility: <Item id="9443"/>.
+<ConditionalComponent condition="pug">
+
+<Boss name="skorvald" foodId="91805" utilityId="9443" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="mace" weapon2MainSigil1="severance" weapon2OffType="mace" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
 - In a more organized setup you can run an Axe with <Item name="elementalslaying"/> and an offhand Warhorn with <Item name="paralyzation"/> to blast <Boon name="Might"/> on 2nd and 4th island.
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" />
-</GridItem>
-
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-
-</Grid>
-### **Prestacking**
-- Drop a fire field with <Skill name="Flames of war"/>.
-- Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>.
-- Blast 6 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
-- Take the mistlock.
-- While approaching the boss drop both of your <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. 
-- Precast <Skill name="Flames of war"/> for DPS then swap back to maces.
-- Precast <Skill name="Mending"/>.
+- Play <Trait name="savageinstinct"/>!
+</Boss>
 
 ### **100%-66%**
 
@@ -64,58 +41,61 @@ author: 'SpatiumPrinceps.8927'
 
 The rest of the fight follows accordingly.
 
-<Grid>
-<GridItem sm="12">
-<Divider text="ARTSARIIV"/>
-Your skill choice is heavily influenced by the strategy your team chooses. The following guide assumes kills with <Specialization name="Soulbeast"/> reflection in the corners or PuG kills with weak or no reflection.
-</GridItem>
+</ConditionalComponent>
 
-<GridItem sm="6">
-<Grid>
-<GridItem sm="12">
-<Card title="Skills and Traits">
-<Skills unembossed healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343"/>
-- Take <Trait name="savageinstinct"/>!
+<ConditionalComponent condition="static">
+
+<Boss name="skorvald" video="iIH6qeeggyo" videoCreator="Princeps [dT]" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="elementalslaying" weapon2OffType="torch" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
+- Play <Trait name="savageinstinct"/>!
+- 4-way split: you solo the first anomaly at 33% with a <Item id="78978"/>
+</Boss>
+
+### **100%-66%**
+
+- <Skill name="Headbutt"/> and <Skill name="Berserk"/>.
+- Swap weapons.
+- <Skill name="decapitate"/>.
+- <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
+- Finish the phase with <Skill name="whirlingaxe"/>.
+- Leave your banners behind.
+
+### _Islands_
+
+- Open a <Item id="78978"/> in the middle of the first Island after killing the add.
+- Swap to your warhorn and blast a fire field for <Boon name="Might"/> at 2nd and 4th island.
+- Don't use heavy cooldowns after the 3rd island.
+- On the last island after the add finishes the jump use <Skill name="Mending"/> and open <Skill name="Berserk"/> already.
+
+### **66%-33%**
+
+- Follow the standard fractal rotation.
+
+### _Solo Island 1_
+- Open your <Item id="78978"/> and take it.
+- Kill your add quickly. You need at least one <Skill name="decapitate"/> to solo the add before your portal runs out.
+- Take it back, immediately recast your banners
+- Cast <Skill name="Mending"/> as soon as you see that the others are about to be done with their islands.
+
+### **33%-0%**
+
+- Follow the standard fractal rotation.
+
+
+
+
+The rest of the fight follows accordingly.
+
+</ConditionalComponent>
+
+
+
+<ConditionalComponent condition="pug">
+
+<Boss name="Artsariiv" foodId="91805" utilityId="9443" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="mace" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131">
+- Play <Trait name="savageinstinct"/>!
 - With <Instability name="Afflicted"/> you can bring a meme skill <Skill name="berserkerstance"/>.
 - If most of the damage done is in the center, take <Skill name="signetoffury"/>.
-</Card>
-</GridItem>
-<GridItem sm="12">
-<Video title="Mid-strategy Artsariiv" youtube="iIH6qeeggyo" timestamp="74"/>
-</GridItem>
-</Grid>
-</GridItem>
-
-<GridItem sm="6">
-<Grid>
-<GridItem sm="12">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="force" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" />
-</GridItem>
-
-<GridItem sm="12">
-<Card title="Additional Information">
-- Food: <Item id="91805"/>.
-- Utility: <Item id="9443"/>.
-</Card>
-</GridItem>
-</Grid>
-</GridItem>
-
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-</Grid>
-
-### **Prestacking**
-
-- Drop a fire field with <Skill name="Flames of war"/>.
-- Use <Skill name="For great justice"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/>.
-- Blast 6 Stacks of might with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
-- Take the mistlock.
-- While approaching the boss drop both of your banners. Depending on your group DPS you either place them in the middle or at the corner.
-- Precast <Skill name="Flames of war"/> for DPS then swap back to maces.
-- Precast <Skill name="Mending"/>
+</Boss>
 
 ### **100% in mid**
 
@@ -135,45 +115,60 @@ Your skill choice is heavily influenced by the strategy your team chooses. The f
 - After the mid burn replace your banners at the corner Artsariiv is going to jump to.
 - Depending on your team's DPS you either wanna engage <Skill name="Berserk"/> in the middle or in the corner.
 
-<Divider text="ARKK"/>
 
-<Grid>
-<GridItem sm="6">
-<Grid>
-<GridItem sm="12">
-<Card title="Skills and Traits">
-<Skills unembossed healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419"/>
-- Take <Trait name="smashbrawler"/>!
-</Card>
-</GridItem>
-<GridItem sm="12">
-<Video title="Video" youtube="CmqdVeGttOI"/>
-</GridItem>
-</Grid>
-</GridItem>
+</ConditionalComponent>
 
-<GridItem sm="6">
-<Grid>
-<GridItem sm="12">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="force"  weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="severance" />
-</GridItem>
-<GridItem sm="12">
-<Card title="Additional Information">
-- Food: <Item id="91805"/>.
-- Utility: <Item id="50082"/>.
-</Card>
-</GridItem>
-</Grid>
-</GridItem>
+<ConditionalComponent condition="static">
 
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-</Grid>
+<Boss name="Artsariiv" video="iIH6qeeggyo" videoCreator="Princeps [dT]" timestamp="74" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3="signetoffury" elite="battlestandard" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="sword" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131">
+- Play <Trait name="smashbrawler"/>!
+- Mid-strategy: the strategy is focused around phasing the boss in the middle before she moves.
+</Boss>
+
+### **100%-66% in mid**
+
+- Precast banners before taking the mistlock.
+- Use <Skill name="mending"/> just before the fight starts.
+- Use <Skill name="signetoffury"/> as soon as she looses <Effect name="invulnerability"/> and use <Skill name="berserk"/>.
+- Cast <Skill name="whirlingaxe"/> and walk through the boss.
+- Continue with your normal rotation. Don't get knocked!
+
+### _Add Phases_
+
+- Swap to Sword/Warhorn, and CC your add quickly with <Item name="termiteshovel"/> <Item name="metalrod"/> and <Item name="sentinelrifle"/>.
+- Use <Skill name="savageleap"/> to get around the arena quickly.
+- Use <SpecialActionKey name="hypernovalaunch"/> to get back into the middle.
+- Precast <Skill name="Mending"/> and <Skill name="charge" profession="warrior"/>.
+
+### **66%-33%**
+
+- Normal rotation, remember to integrate <Skill name="signetoffury"/> for the increased <Attribute name="Ferocity"/>.
+- After the mid burn blast a fire field with your banners in the middle for <Boon name="Might"/>.
+- Finish the boss on the side.
+
+### **33%-0%**
+- Normal rotation, remember to integrate <Skill name="signetoffury"/> for the increased <Attribute name="Ferocity"/>.
+- Fire everything to kill her in middle.
+</ConditionalComponent>
+
+---
+
+<ConditionalComponent condition="pug">
+
+<Boss name="Arkk" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="severance" weapon2OffInfusionId="37131">
+- Play <Trait name="smashbrawler"/>!
+</Boss>
 
 <Message>
 It is not your job as <Specialization name="Berserker"/> to slay the Temporal Anomaly! 
 </Message>
+</ConditionalComponent>
+
+<ConditionalComponent condition="static">
+
+<Boss name="Arkk" video="CmqdVeGttOI" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="severance" weapon2OffInfusionId="37131">
+- Play <Trait name="smashbrawler"/>!
+</Boss>
 
 ### **Prestacking**
 
@@ -187,6 +182,7 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
   - Precast <Skill name="Flames of war"/> for DPS then swap back to mace.
   - Precast <Skill name="Mending"/>.
   - Take the mistlock to start the fight with maximum adrenaline.
+</ConditionalComponent>
 
 ### **1st Phase (100%-80%)**
 
@@ -221,15 +217,6 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
 - Follow the warrior guide.
 - At 50% before you leave for your bloom, cast <Skill name="battlestandard"/> in the middle.
 
-### _Bloom phases_
-
-- Swap to offhand mace.
-- Dodge into the lightning.
-- Auto attack the bloom.
-- Use a <Skill name="Throwaxe"/> against the bloom to push it to the tower.
-- Dodge out.
-- Use <Skill name="mending"/> to restore <Item name="scholar"/>.
-
 ### **4th Phase (50%-40%)**
 
 - Use <Skill name="tremor"/> to gain <Item name="severance"/>.
@@ -246,15 +233,6 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
 ### **5th Phase (40%-30%)**
 
 - Smash <Skill name="decapitate"/> for as long as your <Skill name="berserk"/> is still up.
-
-### _Bloom phases_
-
-- Swap to offhand mace.
-- Dodge into the lightning.
-- Auto attack the bloom.
-- Use a <Skill name="Throwaxe"/> against the bloom to push it to the tower.
-- Dodge out.
-- Use <Skill name="mending"/> to restore <Item name="scholar"/>.
 
 ### **6th Phase (30%-0%)**
 
