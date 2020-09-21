@@ -1,5 +1,5 @@
 ---
-title: 'Berserker Nightmare Fractal CM guide'
+title: 'Berserker Nightmare CM'
 build: 'Berserker'
 profession: 'Warrior'
 specialization: 'Berserker'
@@ -8,45 +8,22 @@ date: '2020-07-25'
 author: 'SpatiumPrinceps.8927'
 ---
 
+
+
 <Divider text="MAMA"/>
 <Tabs>
 <Tab title="PuG">
-<Grid>
-<GridItem sm="12">
+
 <Message>
 This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates. 
 </Message>
 This guide is a PuG friendly version without banner precast. Please remember that CCing all bars fast is the most important bit in this fight. You won't get a good kill - might even wipe your party - if you greed DPS without CC. 
-</GridItem>
-
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<Skills unembossed healId="14401" utility1Id="29941" utility2Id="14405" utility3Id="14407" eliteId="30343"/>
+<Boss name="m.a.m.a." foodId="43360" utilityId="50082" healId="14401" utility1Id="29941" utility2Id="14405" utility3Id="14407" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131" weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Severance" weapon2MainInfusion1Id="37131" >
 - Take <Trait id="1977"/>!
 - It makes sense to use [consumables](/guides/consumables) on the adds!
-- Food: <Item id="43360"/>.
-- Utility: <Item id="50082"/>.
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Severance" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
-</GridItem>
+</Boss>
 
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-
-<GridItem sm="12">
 There is an invisible hitbox in the center of the arena allowing you to gain enough adrenaline for one <Skill name="decapitate"/> with only two critical hits!
-
-### **Prestacking**
-
-- Drop a fire field with <Skill name="Flames of war"/>.
-- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Blast 6 Stacks of <Boon name="Might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>.
-- Use both charges of <Skill name="for great justice"/>
-- Take the mistlock and approach the boss.
-- Start on Maces.
 
 ### **1st Phase**
 
@@ -91,45 +68,22 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 - CC with <Skill name="Wildblow"/>.
 - Use whatever CC is up at this point.
 
-</GridItem>
-</Grid>
 </Tab>
 <Tab title="Organized">
-<Grid>
-<GridItem sm="12">
+
 This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
 
-</GridItem>
 
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<Skills unembossed healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343"/>
-- You can change <Skill id="14516"/> to <Skill name="throwbolas"/> if you don't need the extra CC.
-- Take <Trait name="Smashbrawler"/>!
-- Food: <Item id="43360"/>.
-- Utility: <Item id="50082"/>.
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon2OffType="Mace" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" />
-</GridItem>
+<Boss name="m.a.m.a." video="uIkrq7fPIhg" videoCreator="Rubby [dT]" foodId="43360" utilityId="50082" heal="bloodreckoning" utility1Id="29941" utility2="outrage" utility3="bullscharge" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131" >
+- Change <Skill name="bullscharge"/> to <Skill name="throwbolas"/> if you dont need the additional CC
+- Play <Trait name="Smashbrawler"/>!
+</Boss>
 
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-
-<GridItem sm="12">
 There is an invisible hitbox in the center of the arena allowing you to gain enough adrenaline for one <Skill name="decapitate"/> with only two critical hits!
 
 ### **Prestacking**
 
-- Drop a <Item name="whitemantleportaldevice"/> on the slope, rush in with <Item name="endlesschoyapinatatonic"/> or <Item name="executioneraxetoy"/>.
-- Use <Skill name="Frenzy"/> to precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/> and <Skill name="Battlestandard"/> a few steps on the right side of MAMA without getting in combat.
-- Take your own <Item name="whitemantleportaldevice"/>.
-- Drop a fire field with <Skill name="Flames of war"/>.
-- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Take the mistlock and use the portal to get back on the boss.
-- Start on Maces.
+- Precast as in the video.
 - Get in combat as fast as possible to fill up adrenaline: Use <Skill name="Cycloneaxe"/> against the invisible hitbox and weapon swap to mace.
 - Shortly before Mama becomes vulnerable, use <Skill name="berserk"/> and <Skill name="Bullscharge"/> for <Trait name="peakperformance"/>.
 
@@ -167,8 +121,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 - CC with <Skill name="Tremor"/>
 - Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
 - Swap to Axe/Axe as soon as you are done with CCing and DPS.
-  </GridItem>
-  </Grid>
+
   </Tab>
   </Tabs>
 
@@ -176,33 +129,11 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 <Tabs>
 <Tab title="PuG">
-<Grid>
 
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<Skills unembossed healId="14401" utility1Id="30258" utility2Id="14405" utility3Id="14407" eliteId="30343"/>
-- Take <Trait name="smashbrawler"/>!  
+<Boss name="siax" foodId="43360" utilityId="50082" healId="14401" utility1Id="30258" utility2Id="14405" utility3Id="14407" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="Greatsword" weapon2MainSigil1="force" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 - It is recommended to play Greatsword in PuGs so you can cleave down the exploding adds! 
-- Food: <Item id="43360"/>.
-- Utility: <Item id="50082"/>.
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="serpentslaying" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying"/>
-</GridItem>
-
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-
-<GridItem sm="12">
-### **Prestacking**
-- Drop a fire field with <Skill name="Flames of war"/>.
-- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Blast 6 Stacks of <Boon name="Might"/> with <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>.
-- Use both charges of <Skill name="for great justice"/>.
-- Take the mistlock and approach the boss.
-- Start on Axes.
+- Play <Trait name="Smashbrawler"/>!
+</Boss>
 
 ### **1st Phase**
 
@@ -231,41 +162,15 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 - Warrior business as usual.
 
-</GridItem>
-</Grid>
+
 </Tab>
 
 <Tab title="Organized">
-<Grid>
-<GridItem sm="12">
 This build only works if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
-</GridItem>
-
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<Skills unembossed healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343"/>
-- Take <Trait name="Smashbrawler"/>!
+<Boss name="siax" video="yfPvLIHZaRM" timestamp="5" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="rifle" weapon2MainSigil1="force" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 - In organized teams a rifle can kill the adds very efficiently! 
-- Food: <Item id="43360"/>.
-- Utility: <Item id="50082"/>.
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="serpentslaying" weapon2MainType="Rifle" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" />
-</GridItem>
-
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-
-<GridItem sm="12">
-### **Prestacking**
-- Drop a <Item name="whitemantleportaldevice"/> near the red orb.
-- Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/> and <Skill name="Battlestandard"/> in the arena.
-- Drop a fire field with <Skill name="Flames of war"/>.
-- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Use both charges of <Skill name="forgreatjustice"/>.
-- Take the mistlock and use <Item name="whitemantleportaldevice"/> to get back on the boss.
+- Play <Trait name="Smashbrawler"/>!
+</Boss>
 
 ### **1st Phase**
 
@@ -298,58 +203,16 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 - Depending on your kill time you might want to use the <Skill name="headbutt"/> - <Skill name="outrage"/> combo earlier.
 
-</GridItem>
-</Grid>
 </Tab>
 </Tabs>
 
 <Divider text="Ensolyss"/>
-<Grid>
 
-<GridItem sm="6">
-<Grid>
-<GridItem sm="12">
-<Card title="Skills and Traits">
-<Skills unembossed healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343"/>
+<Boss name="ensolyss" video="NbJl4FQFTaI" timestamp="63" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="mace" weapon2MainSigil1="severance" weapon2OffType="torch" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
 - Take <Trait name="savageinstinct"/>!
 - In slow teams (PuGs) bring <Trait name="smashbrawler"/> and <Skill name="outrage"/>.
 - In fast teams bring <Skill name="bullscharge"/> over <Skill name="signetofmight"/>.
-</Card>
-</GridItem>
-<GridItem sm="12">
-
-</GridItem>
-</Grid>
-</GridItem>
-
-<GridItem sm="6">
-<Grid>
-<GridItem sm="12">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="serpentslaying" weapon2MainType="Mace" weapon2MainAffix="Berserker" weapon2MainSigil1="severance" weapon2OffType="Torch" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" />
-</GridItem>
-<GridItem sm="12">
-<Card title="Additional Information">
-- Food: <Item id="91805"/>.
-- Utility: <Item id="50082"/>.
-</Card>
-</GridItem>
-</Grid>
-</GridItem>
-
-<GridItem sm="12">
-<Divider text="HOW TO PLAY"/>
-</GridItem>
-
-</Grid>
-### **Precast**
-- Drop a <Item name="whitemantleportaldevice"/> near the mistlock singularity.
-- Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/> and <Skill name="Battlestandard"/> in the arena.
-- Open your <Item name="whitemantleportaldevice"/>.
-- Drop a fire field with <Skill name="Flames of war"/>.
-- Blast with <Skill name="Charge" profession="Warrior"/> and <Skill name="Call of Valor" profession="Warrior"/> as soon as you see <Skill name="Moa stance"/> on your bar.
-- Use both charges of <Skill name="forgreatjustice"/>.
-- Take the mistlock and use <Item name="whitemantleportaldevice"/> to get back on the boss.
-- As soon as the boss appears, use <Skill name="Flames of war"/> and <Skill name="Mending"/>.
+</Boss>
 
 ### **1st Phase**
 
