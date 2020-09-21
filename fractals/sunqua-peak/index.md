@@ -101,7 +101,9 @@ Kill the boss and move on to the final encounter of this fractal.
 ## Sorrowful Spellcaster <Label>15,000,000 HP</Label>
 
 This section explains CM and non-CM. The first part is for both the same, except that the Sorrowful Spellcaster has more HP and hits harder on CM. Mechanically it is the same. 
-
+<Message>
+When you break this bosses breakbar she gets a buff on her bar preventing a new breakbar from spawning for 30 seconds.
+</Message>
 |                    |                                                                         |
 | ------------------ | ----------------------------------------------------------------------- |
 | Encounter duration | 5:00min                                                                 |
@@ -143,4 +145,30 @@ Move counter clockwise and contiue removing the dark clouds with the green AoEs.
 
 
 ### Part2: Lazor disco
-After a long roleplay the boss transforms into a disco dance champ with advanced lazor technoglogy. Avoid getting hit bei lazors. 
+After a long roleplay the boss transforms into her demon form and the whole arena gets darker. This part of the phase does not have distinct phases like part1 but instead has checkpoints at 66% and 33% that when passed add new mechanics to the fight. 
+
+#### Pre-Sorrow<Label>100%-66%</Label>
+After recovering from being teathered by her doubt the boss will initially dash in a random direction into the wall and start her attack pattern. Be careful to not stand in her dash path or to simply dodge through it as it deals heavy damage. Upon hitting the wall lasers will start to spawn in a set attack pattern that will be consistant throughout the fight this is also when the first breakbar appears which lasts 7 seconds. The hitboxes of the lasers are quite thin and it is therefore possible to stand inbetween two lasers and not get hit. After 5 waves of lasers pass she will again dash in a random direction towards a wall. This is when the first split phase will occure, a bunch of heavy ticking damage AoE's will spawn around the boss aswel as very large expanding circles around each players. Make sure to spread out to avoid heavy damage. She will then do a series of basic attacks before finally doing another split phase with a slightly different AoE pattern on the floor. 
+
+She will keep dashing around the arena and mixing and matching her abilities discribed above until she dashes to the middle of the arena. The only difference with being in the middle of the arena is that during the split phase instead of pulsing AoE's being around the boss lasers appear that will converge once the player specific AoE's explode. Be careful when walking back into the boss as these lasers will converge on her in two waves and deal heavy damage.
+
+From this point onward the boss will mostly stay in the center of the arena, dashing out only to instantly dash back in, or only staying on the wall for the 5 waves of laser attacks.
+
+#### Sorrow<Label>66%-33%</Label>
+<Message>
+Any AoE's on the floor prior to her hitting 66% will still last the full duration so be careful when walking back to the center
+</Message>
+Upon hitting 66% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena. She will then instantly start channeling and pulsing out AoE's in a set ring pattern. Where the first ring is close, second middle and third far from the boss. However no AoE's will spawn directly next to the boss so staying in melee range is safe. There are also small safe zones between the AoE's.
+
+At the same time a Sorrow will spawn, this mob will spawn at a random position inside the middle ring of AoE's a few seconds after the boss begins channeling. You can tell where the Sorrow will spawn a few seconds before it does thanks to a small area of the arena lighting up at its eventual spawn location. The Sorrow will start channeling a devastating attack that will instantly down the whole party if it completes the channel. To prevent this the Sorrow's breakbar must be broken. Ranged CC such as <Skill name="Sanctuary"/> or <Skill name="Darkrazors Daring"/> is preferable as you get to stay inside the safe zone near the boss. Consumables such as <Item id="8678"/> are also very powerful due to their ranged nature.
+
+At the same time as the Sorrow spawning 5 Fears will spawn on the perimeter of the arena and slowly start tracking the players and moving towards them. Getting touched by a fear will knock you down for a long period of time and apply moderate damage. 15 seconds after spawning the fears will explode dealing heavy AoE damage. Simply walk away from them and you will stay safe.
+
+From this point onwards the fight is exactly as before, with the added mechanic that after each second split phase the boss will dash to a wall, instantly dash back and start her long channel that spawns a Sorrow. 
+
+#### Guilt<Label>33%-0%</Label>
+As before upon hitting 33% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena and start channeling. 
+
+This part of the boss fight is exactly the same as the Sorrow part with one variation. Instead of spawning a Sorrow a Guilt will spawn. This Guilt will teather to a player and start applying stacks, this teather can be treated similarly to the teather seen in the water phase of her normal form.
+
+A few seconds after the Guilt spawns two Sorrows will spawn, one on each side of the guilt. Both Sorrow's need to be broken so ensure survival. From this point onwards mechanics will constantly repeat until the boss is defeated.
