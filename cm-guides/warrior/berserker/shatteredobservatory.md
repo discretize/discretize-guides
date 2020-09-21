@@ -79,15 +79,9 @@ The rest of the fight follows accordingly.
 ### **33%-0%**
 
 - Follow the standard fractal rotation.
-
-
-
-
-The rest of the fight follows accordingly.
-
 </ConditionalComponent>
 
-
+---
 
 <ConditionalComponent condition="pug">
 
