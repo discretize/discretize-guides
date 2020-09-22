@@ -116,7 +116,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
 - <Skill id="43548"/> then <Skill name="Worldlyimpact"/>.
 - <SpecialActionKey name="hypernovalaunch"/> to the corner.
-- <Skill name="Cold Snap"/> when you can to call your spirit to the middle.
+- <Skill name="Cold Snap"/> when you can to call your spirit to the side.
 - <Skill name="Rapid fire"/> and <Skill name="sicem"/>.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
 - <Skill name="Worldlyimpact"/>.
@@ -196,10 +196,11 @@ Use [consumables](/guides/consumables) to CC the adds.
 </Tabs>
 
 <Divider text="Arkk"/>
+<Divider text="Arkk"/>
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<Skills unembossed healId="12483" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
+<UnembossedSkills healId="12483" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
 - Pet: <Skill id="44617" disableText/> Red Moa.
 - Traits: <Trait id="2128"/>.
 - Food: <Item id="91805"/> or <Item id="43360"/> if you're able to damage adds to get the power bonus.
@@ -214,7 +215,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 <Divider text="HOW TO PLAY"/>
 **Precast**
 
-- Place a portal next to the mistlock and use <SpecialActionKey name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="Berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
+- Place a portal next to the mistlock and use <Effect name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
 - Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
 - Precast <Skill id="5531"/> and <Skill name="Barrage"/> before the boss is activated.
@@ -242,9 +243,9 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 **Archdiviner Phase**
 
-The <Specialization name="Weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
+The <Specialization name="weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
 - You can use <Skill name="Fieryrush"/> or <Skill name="Worldlyimpact"/> if it's off cooldown  to damage the Archdiviner. 
-- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <SpecialActionKey name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing. Dodge backwards through the boss after using it as there will be a laser beam which fears.
+- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing. Dodge backwards through the boss after using it as there will be a laser beam which fears.
 - When the Archdiviner dies, precast <Skill id="5531"/> -> <Skill name="Barrage"/> -> <Skill name="Frosttrap"/>.
 
 **70-50%**
@@ -298,7 +299,7 @@ The <Specialization name="Weaver"/> should give you a <Skill name="conjurefieryg
 
 - Resummon your <Skill name="Frost spirit"/> whenever you have downtime when you can't attack (i.e. whilst you are waiting for Arkk, the Archdiviner or Gladiator to spawn on the platform or during an orb phase if you have the time).
 - Wherever possible you should try to hit multiple targets with your <Skill name="Pathofscars"/>. 
-  - This can mean hitting an anomaly to help your <Specialization name="Renegade"/> kill it.
+  - This can mean hitting an anomaly to help your <Specialization name="renegade"/> kill it.
   - You can also pull the adds from the Archdiviner and Gladiator phase since your <Specialization name="Firebrand"/> can only pull two at a time.
   - Pulling the adds is also great since they can hurt your teams <Item id="24836"/> uptime.
   - If you are good at tagging multiple targets then you can even run <Item id="43360"/>.
