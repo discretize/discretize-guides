@@ -9,20 +9,20 @@ benchmark: { large: { dps: 38069, by: 'Roul [SC]', youtube: '7tF8y7bUoQU' } }
 skills: [29719, 5734, 5624, 5516]
 traits: [1502, 1503, 1839]
 boons: ['Might', 'Fury', 'Swiftness', 'Protection', 'Vigor', 'Stability']
-conditions: ['Weakness', 'Vulnerability', 'Blind', 'Burning', 'Bleeding']
+conditions: ['Weakness', 'Vulnerability', 'Blinded', 'Burning', 'Bleeding']
 code: '[&DQYRPikvMBsXARcBQgHLAL4BTgFQAVABlwCZEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
-The <Specialization name="Tempest" text="Power Tempest"/> is a strong DPS variant for fractals with various utilities the <Specialization name="weaver"/> counterpart doesn't offer.
+The <Specialization name="Tempest" text="Power Tempest"/> is a strong DPS variant for fractals with various utilities the <Specialization name="Weaver"/> counterpart doesn't offer.
 
 It has very high burst damage in fast-paced fights and its overall DPS is only contested by the [Sword Weaver](/builds/elementalist/power-sword-weaver) on huge hitboxes.  
 Thanks to <Skill name="Overload Air"/>, the group's damage is buffed by around 1k DPS, so at least one <Specialization name="Tempest"/> is never a bad idea when thinking about group composition.
 
-Apart from great DPS, the build afflicts tons of <Condition name="vulnerability"/> and helps keeping up <Boon name="might"/> with <Skill name="Heat Sync"/>.
+Apart from great DPS, the build afflicts tons of <Condition name="Vulnerability"/> and helps keeping up <Boon name="Might"/> with <Skill name="Heat Sync"/>.
 
 For projectile-heavy scenarios, <Skill name="Aftershock"/> and <Skill name="Sand Squall"/> can be used, <Skill name="Shocking Aura"/> and <Skill name="Cyclone"/> help against trash mobs and defiance bars.
 
-Contrary to the [Sword Weaver](/builds/elementalist/power-sword-weaver), melee hate like <Instability name="Social Awkwardness"/> or disruptions like <Instability name="Last Laugh"/> don't matter that much since you can stand on range and have access to a multitude of defensive mechanics like <Boon name="stability"/> and <Trait name="Gale Song"/>.
+Contrary to the [Sword Weaver](/builds/elementalist/power-sword-weaver), melee hate like <Instability name="Social Awkwardness"/> or disruptions like <Instability name="Last Laugh"/> don't matter that much since you can stand on range and have access to a multitude of defensive mechanics like <Boon name="Stability"/> and <Trait name="Gale Song"/>.
 
 The degree of difficulty is a little bit higher than the other <Specialization name="Elementalist"/> builds, as you need to adhere to many small things to achieve top numbers.  
 The positioning and timing of skills matter a lot, a single mistake can make your DPS end up several thousand below other damage dealers.
@@ -36,22 +36,22 @@ The build benefits heavily from slaying potions and sigils such as <Item id="500
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
-<Armor weight="Light" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Light" helmAffix="Assassin" helmInfusionId="37131" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Scepter" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Warhorn" weapon1OffAffix="Berserker" weapon1OffSigil="Force"/>
+<Weapons weapon1MainType="Scepter" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Warhorn" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
 
 <Card title="Swap Weapons">
 * Scepter with <Item name="Night" type="Sigil"/>
 * Warhorn with <Item name="Serpent Slaying" type="Sigil"/>
 * Scepters with slaying sigils (see [Consumables Guide](/guides/consumables))
-* A dagger for <Skill name="Ring of Fire"/> (fire field for <Boon name="might"/>-stacking) and <Skill name="Ride the Lightning"/> (skipping)
+* A dagger for <Skill name="Ring of Fire"/> (fire field for <Boon name="Might"/>-stacking) and <Skill name="Ride the Lightning"/> (skipping)
 </Card>
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin"/>
+<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Assassin" ring1Affix="Assassin" ring2Affix="Assassin" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -61,22 +61,22 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Tab title="222 Agony Resistance">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Scepter" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Warhorn" weapon1OffAffix="Berserker" weapon1OffSigil="Force"/>
+<Weapons weapon1MainType="Scepter" weapon1MainAffix="Berserker" weapon1MainSigil1="Impact" weapon1OffType="Warhorn" weapon1OffAffix="Berserker" weapon1OffSigil="Force" weapon1MainInfusion1Id="37131" weapon1OffInfusionId="37131"/>
 
 <Card title="Swap Weapons">
 * Scepter with <Item name="Night" type="Sigil"/>
 * Warhorn with <Item name="Serpent Slaying" type="Sigil"/>
 * Scepters with slaying sigils (see [Consumables Guide](/guides/consumables))
-* A dagger for <Skill name="Ring of Fire"/> (fire field for <Boon name="might"/>-stacking) and <Skill name="Ride the Lightning"/> (skipping)
+* A dagger for <Skill name="Ring of Fire"/> (fire field for <Boon name="Might"/>-stacking) and <Skill name="Ride the Lightning"/> (skipping)
 </Card>
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
 
 <Card title="Extra note">
 You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
@@ -98,18 +98,18 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 | | |
 | -- | -- |
 |Heal|
-| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A stronger healing alternative if <Boon name="might"/> uptime is good. |
+| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A stronger healing alternative if <Boon name="Might"/> uptime is good. |
 | <Skill name="Wash the pain away" size="big" disableText/> | Another healing alternative affecting allies close-by. |
 |Offensive|
-| <Skill name="Arcane Wave" size="big" disableText/> | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="might"/> with a fire field. |
+| <Skill name="Arcane Wave" size="big" disableText/> | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field. |
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
 |Defensive|
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
-| <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="protection"/> and <Boon name="stability"/>. |
+| <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>. |
 | <Skill name="Aftershock" size="big" disableText/> | A group-wide reflect aura lasting for 4 seconds. |
 | Utility |
 | <Skill name="Lightning Flash" size="big" disableText/> | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Facility Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
-| <Skill name="Eye of the Storm" size="big" disableText/> | Grants <Effect name="superspeed"/>, useful for skips, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+| <Skill name="Eye of the Storm" size="big" disableText/> | Grants <Effect name="Superspeed"/>, useful for skips, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 | <Skill name="Signet of Fire" size="big" disableText/> | If you don't reach 100% critical chance and are too lazy to get Assassin's pieces, take this instead of <Skill name="Arcane Blast"/>. |
 </Card>
 </GridItem>
@@ -123,17 +123,17 @@ You need Fractal God, <Item id="86175"/> and 18  Mighty +9 Agony Infusion !
 | <Trait name="Gale Song" size="big" disableText/> | Useful automatic group stunbreak for things like <Instability name="Last Laugh"/>. |
 | <Trait name="Soothing Power" size="big" disableText/> | Use this instead of <Trait name="Powerful Aura"/> when you are not using <Trait name="Unstable Conduit"/>. |
 | <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Warden Amala in [Twilight Oasis](/fractals/twilight-oasis). |
-| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 </Card>
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
-| <Skill name="Shocking Aura" size="big" disableText/> | 100 with <Control name="stun"/> |
-| <Skill name="Cyclone" size="big" disableText/> | 150 with <Control name="pull"/> |
-| <Skill name="Blinding Flash" size="big" disableText/> | 20 / s with <Condition name="blind"/> |
-| <Skill name="Wind Blast" size="big" disableText/> | 232 with <Control name="launch"/> |
-| <Skill name="Dust Storm" size="big" disableText/> | 20 / s with <Condition name="blind"/> |
-| <Skill name="Tidal Surge" size="big" disableText/> | 150 with <Control name="knockback"/> |
+| <Skill name="Shocking Aura" size="big" disableText/> | 100 with <Control name="Stun"/> |
+| <Skill name="Cyclone" size="big" disableText/> | 150 with <Control name="Pull"/> |
+| <Skill name="Blinding Flash" size="big" disableText/> | 20 / s with <Condition name="Blinded"/> |
+| <Skill name="Wind Blast" size="big" disableText/> | 232 with <Control name="Launch"/> |
+| <Skill name="Dust Storm" size="big" disableText/> | 20 / s with <Condition name="Blinded"/> |
+| <Skill name="Tidal Surge" size="big" disableText/> | 150 with <Control name="Knockback"/> |
 </Card>
 </GridItem>
 </Grid>
@@ -185,7 +185,7 @@ During this window you want to use your conjured weapons:
    2. <Skill name="Firestorm" profession="bundle"/>
    3. <Skill name="Fiery Whirl"/> (if you can whirl against a wall or have to switch targets)
 
-And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off recharge and <Skill name="Heat Sync"/> whenever <Boon name="might"/> is low on the group.
+And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off recharge and <Skill name="Heat Sync"/> whenever <Boon name="Might"/> is low on the group.
 </Card>
 </GridItem>
 

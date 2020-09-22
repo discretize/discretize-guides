@@ -5,7 +5,7 @@ image: './images/legendary_brazen_gladiator.jpg'
 group: 'T4'
 api: 3038
 bosses: 2
-difficulties: [{ level: 88, ar: 129 }, { level: 98, ar: 147 }]
+difficulties: [{ level: 88, ar: 129 }, { level: 97, ar: 145 }]
 record:
   {
     time: '3:48',
@@ -49,9 +49,9 @@ Kill the four *Veteran Chanters* at the beginning to open the gate on the right-
 
 <Grid>
 <GridItem>
-Stack <Boon name="might"/> before the four *K1T-A golems* and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health.
+Stack <Boon name="Might"/> before the four *K1T-A golems* and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health.
 
-Pay attention to the <Control name="knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
+Pay attention to the <Control name="Knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
 </GridItem>
 
 <GridItem>
@@ -60,7 +60,7 @@ Pay attention to the <Control name="knockback"/> zones from the small JT-12 gole
 It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade variant for more energy for the whole fight.
 </Tab>
 
-<Tab specialization="guardian">
+<Tab specialization="Guardian">
 You can use <Skill name="Binding Blade"/> to group the little cats at the start and then every phase of Chaos Anomaly, the position you need to place yourself for perfect pull can vary based on what cat you killed last, there are variations you cant pull all of them, only 2.
 </Tab>
 
@@ -85,8 +85,8 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 
 You will need to enlighten four *bonfires* on the path to progress to the end boss, **the *Enlighten* charges have unlimited use so this can be soloed** but if you want to be safe simply wait for everyone.
 
-You can stack <Effect name="stealth"/> to skip the mobs though it usually is not necessary. 
-Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
+You can stack <Effect name="Stealth"/> to skip the mobs though it usually is not necessary. 
+Learn to dodge the tentacle <Control name="Knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
 
 </GridItem>
 </Grid>
@@ -99,14 +99,14 @@ Learn to dodge the tentacle <Control name="knockback"/>s. Mobility skills and <I
 ## Legendary Brazen Gladiator  
   
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.    
-He will also apply a group-wide <Control name="daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and invulnerables or simply do not stand in front of him when it hits. Learn to recognize the animation.
+He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and invulnerables or simply do not stand in front of him when it hits. Learn to recognize the animation.
 
 Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.  
 Another trick is to bypass the damage from purple zones by repeated jumping.
 
 Starting at 50% health, he will randomly start a _pulling attack_ which can be prevented by breaking his defiance bar. Save your crowd control skills for this.
 
-Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Control name="knockback"/> and can shove you off the platform.
+Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Control name="Knockback"/> and can shove you off the platform.
 
 <Image src="./images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
 </GridItem>
@@ -114,7 +114,7 @@ Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Con
 <GridItem sm="4">
 <Tabs>
 <Tab specialization="Revenant">
-Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="daze"/>.
+Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="Daze"/>.
 </Tab>
 </Tabs> 
   

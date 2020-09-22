@@ -31,15 +31,15 @@ sigils:
 
 <Grid>
 <GridItem sm="8">
-You can stack <Effect name="stealth"/> before entering the water to cheat the exploding mines. Clear the group of *Elite Aetherblades* to open the door.
+You can stack <Effect name="Stealth"/> before entering the water to cheat the exploding mines. Clear the group of *Elite Aetherblades* to open the door.
 
 <Tabs>
 <Tab specialization="thief">
-Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="thief"/> or simply cast <Skill id="13117"/> to stack <Effect name="stealth"/>.
+Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="thief"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
 </Tab>
 
 <Tab specialization="ranger">
-Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"/> at the beginning.
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/> at the beginning.
 </Tab>
 </Tabs>
 </GridItem>
@@ -57,7 +57,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="stealth"
 <GridItem sm="8">
 After the door opens, you enter a large area with two deathly laser puzzles.
 
-The first one consists of a _moving laser square pattern_ and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="immobile"/> to you.
+The first one consists of a _moving laser square pattern_ and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="Immobile"/> to you.
 
 The second area is filled with _spinning lasers_. In exactly the same way as before, four consoles around the area have to be activated to disable the traps.
 
@@ -82,7 +82,7 @@ To skip this part you are going to need a little jumping, damaging the Inquest w
 </Tab>
 
 <Tab specialization="elementalist">
-Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
+Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="Immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
   
 <Video title="Elementalist skip" timestamp="45" youtube="OjUvCp2h_04"/>
 </Tab>
@@ -112,7 +112,7 @@ You can <Skill name="Call to Anguish"/> most mobs to group them.
 </Tab>
 
 <Tab specialization="elementalist">
-Stay in <Skill id="5492"/> after the last trash group for <Boon name="might"/> stacking at Frizz.
+Stay in <Skill id="5492"/> after the last trash group for <Boon name="Might"/> stacking at Frizz.
 </Tab>
 
 <Tab specialization="Guardian">
@@ -134,17 +134,17 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 
 <Grid>
 <GridItem>
-Talk to *Inspector Ellen Kiel* to teleport your party into the final room. Stack <Boon name="might"/> as soon as you are in.
+Talk to *Inspector Ellen Kiel* to teleport your party into the final room. Stack <Boon name="Might"/> as soon as you are in.
 
 Initially, there are Frizz and two Inquest enemies to fight. As soon as Frizz reaches 75%, he teleports to the middle and becomes invulnerable.
 
 After about five seconds, the first _Aetherblade Golem_ wakes up and two _Small Lasers_ start spinning. You can jump over the small lasers by utilizing the elevated boxes around.
 
-When the first golem dies, the two _Small Lasers_ will disappear and two more _Aetherblade Golems_ wake up. _Large Lasers_ start spinning which you cannot bypass without <Effect name="invulnerability"/>.
+When the first golem dies, the two _Small Lasers_ will disappear and two more _Aetherblade Golems_ wake up. _Large Lasers_ start spinning which you cannot bypass without <Effect name="Invulnerability"/>.
 
 As soon as the two golems are dead, the two _Small Lasers_ will join the two large lasers again and two final golems wake up. Kill those to finish the fight.
 
-If a golem walks through a laser, he powers up and blocks all attacks for a short time. Pay attention to their <Control name="pull"/> attack, though it should not be a problem with high damage.
+If a golem walks through a laser, he powers up and blocks all attacks for a short time. Pay attention to their <Control name="Pull"/> attack, though it should not be a problem with high damage.
 </GridItem>
 
 <GridItem>
@@ -159,7 +159,7 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 
-<Tab specialization="warrior">
+<Tab specialization="Warrior">
 Drop your banners in the very center of the arena. 
 
 Using <Skill name="whirlwind attack"/> against the wall is very effective. 

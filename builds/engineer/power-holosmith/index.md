@@ -7,27 +7,24 @@ profession: 'Engineer'
 specialization: 'Holosmith'
 benchmark: { small: { dps: 38143, by: 'TJ [SC]', youtube: 'p6mZtHhu7GM' } }
 skills: [30815, 43739]
-conditions: ['Vulnerability', 'Blind', 'Crippled', 'Immobile']
+conditions: ['Vulnerability', 'Blinded', 'Crippled', 'Immobile']
 effects: ['Stealth']
 code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
-The engineer build that currently fares best in fractals is the <Specialization text="Power Holosmith" name="holosmith"/>, offering a mix of high damage and a relatively good amount of crowd control and utility in form of <Condition name="vulnerability"/> and some <Condition name="Blind"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>.
+The engineer build that currently fares best in fractals is the <Specialization text="Power Holosmith" name="Holosmith"/>, offering a mix of high damage and a relatively good amount of crowd control and utility in form of <Condition name="Vulnerability"/> and some <Condition name="Blinded"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-
-<Tabs>
-<Tab title="Build">
 <Divider text="Equipment"/>
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
-<Armor weight="Medium" helmId="48087" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48089" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48085" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48086" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48088" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48084" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar"/>
+<Armor weight="Medium" helmId="48087" helmRuneId="24836" helmRuneCount="6" helmAffix="Berserker" helmRune="Scholar" shouldersId="48089" shouldersRuneId="24836" shouldersRuneCount="6" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48085" coatRuneId="24836" coatRuneCount="6" coatAffix="Berserker" coatRune="Scholar" glovesId="48086" glovesRuneId="24836" glovesRuneCount="6" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48088" leggingsRuneId="24836" leggingsRuneCount="6" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48084" bootsRuneId="24836" bootsRuneCount="6" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker"  weapon1MainSigil1="Force" weapon1OffSigil="Impact" weapon1OffType="Pistol" weapon1OffAffix="Berserker"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker"  weapon1MainSigil1="Force" weapon1OffSigil="Impact" weapon1OffType="Pistol" weapon1OffAffix="Berserker" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
 
 <Card title="Alternative weapons">
 * Rifle with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
@@ -36,7 +33,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker"/>
+<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
 <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
 </GridItem>
@@ -53,7 +50,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | -- | -- |
 | <Trait name="Sanguine Array" size="big" disableText/> | If you are already crit capped without <Trait name="High Caliber"/> and struggle with <Boon name="Might"/> uptime. |
 You can swap Firearms trait line with Tools and replace <Skill id="5805"/> on <Skill id="43739"/>. This will help you to maintain your <Boon name="Quickness"/> better. Especially in weaker groups, this build shines. It is pretty friendly for new players. 
-<UnembossedTraits traits1Id="21" traits1="Tools" traits1SelectedIds="532,512,1856"/>
+<Traits unembossed traits1Id="21" traits1="Tools" traits1SelectedIds="532,512,1856"/>
 
 </Card>
 </GridItem>
@@ -78,9 +75,6 @@ You can swap Firearms trait line with Tools and replace <Skill id="5805"/> on <S
 </Card>
 </GridItem>
 </Grid>
-</Tab>
-
-<Tab title="Guide">
 
 <Divider text="Details"/>
 
@@ -131,7 +125,7 @@ You can swap Firearms trait line with Tools and replace <Skill id="5805"/> on <S
 * <Skill id="5830"/> can help in controlling movement of enemies without breakbar. 
 * Never <Skill id="44386"/>, always try to <Skill id="41123"/> at 149 heat.
 
-You can switch to <Specialization name="scrapper"/> and equip <Skill id="30815"/> if you need <Effect name="stealth"/> for longer passages (e.g. [Twilight Oasis Fractal](https://discretize.eu/fractals/twilight-oasis)). It provides >40 seconds for the whole group. A smoke field can also be provided by <Skill id="5824"/> to blast <Effect name="stealth"/>.
+You can switch to <Specialization name="Scrapper"/> and equip <Skill id="30815"/> if you need <Effect name="Stealth"/> for longer passages (e.g. [Twilight Oasis Fractal](https://discretize.eu/fractals/twilight-oasis)). It provides >40 seconds for the whole group. A smoke field can also be provided by <Skill id="5824"/> to blast <Effect name="Stealth"/>.
 </Card>
 
 <Card title="CC skills">
@@ -145,5 +139,3 @@ You can switch to <Specialization name="scrapper"/> and equip <Skill id="30815"/
 </GridItem>
 
 </Grid>
-</Tab>
-</Tabs>
