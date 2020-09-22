@@ -2,7 +2,7 @@
 title: 'Renegade'
 date: '2020-07-25'
 rating: 'Meta'
-role: 'Support'
+role: 'Damage'
 profession: 'Revenant'
 specialization: 'Renegade'
 benchmark: { large: { dps: 23973, by: 'MajesticNoodle [BATS]', youtube: 'p4D96l_GVPg' } }

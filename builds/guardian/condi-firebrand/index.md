@@ -2,7 +2,7 @@
 title: 'Condi Firebrand'
 date: '2020-07-25'
 rating: 'Offmeta'
-role: 'Support'
+role: 'Damage'
 profession: 'Guardian'
 specialization: 'Firebrand'
 benchmark: { small: { dps: 36732, by: 'TJ [SC]', youtube: 'U1yYDskt3Cw' } }

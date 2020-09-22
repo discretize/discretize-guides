@@ -11,7 +11,7 @@ author: 'SpatiumPrinceps.8927'
 
 <ConditionalComponent condition="pug">
 
-<Boss name="skorvald" foodId="91805" utilityId="9443" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="mace" weapon2MainSigil1="severance" weapon2OffType="mace" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
+<Boss name="skorvald" video="yioeHPEHAK4" videoCreator="Roach [dT]" foodId="91805" utilityId="9443" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="mace" weapon2MainSigil1="severance" weapon2OffType="mace" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
 - In a more organized setup you can run an Axe with <Item name="elementalslaying"/> and an offhand Warhorn with <Item name="paralyzation"/> to blast <Boon name="Might"/> on 2nd and 4th island.
 - Play <Trait name="savageinstinct"/>!
 </Boss>
@@ -85,7 +85,7 @@ The rest of the fight follows accordingly.
 
 <ConditionalComponent condition="pug">
 
-<Boss name="Artsariiv" foodId="91805" utilityId="9443" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="mace" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131">
+<Boss name="Artsariiv" video="anHIsOj_USY" videoCreator="Roach [dT]" foodId="91805" utilityId="9443" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="mace" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131">
 - Play <Trait name="savageinstinct"/>!
 - With <Instability name="Afflicted"/> you can bring a meme skill <Skill name="berserkerstance"/>.
 - If most of the damage done is in the center, take <Skill name="signetoffury"/>.
@@ -149,7 +149,7 @@ The rest of the fight follows accordingly.
 
 <ConditionalComponent condition="pug">
 
-<Boss name="Arkk" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="severance" weapon2OffInfusionId="37131">
+<Boss name="Arkk" video="fKGKMh41bWI" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="severance" weapon2OffInfusionId="37131">
 - Play <Trait name="smashbrawler"/>!
 </Boss>
 
