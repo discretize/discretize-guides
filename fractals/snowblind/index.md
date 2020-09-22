@@ -28,7 +28,7 @@ consumables: [78978, 49940]
 
 <Grid>
 <GridItem sm="8">
-Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
+Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="Pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
 
 If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them by standing at the bonfire.
 
@@ -121,7 +121,7 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 <GridItem sm="8">
 ## Shaman Lornarr Dragonseeker <Item id="8883" disableText/><Item id="24667" disableText/>  
   
-Stack <Boon name="might"/> before the final boss. Make sure to dodge into the boss room to avoid getting <Condition name="chilled"/> from the icy bolts.
+Stack <Boon name="Might"/> before the final boss. Make sure to dodge into the boss room to avoid getting <Condition name="Chilled"/> from the icy bolts.
 
 He gains 3 stacks of _Rime Shield_ reducing his incoming damage from the three respawning _Corrupted Ice Crystals_, destroy them before focusing the Shaman.
 

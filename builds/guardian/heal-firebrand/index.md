@@ -7,16 +7,21 @@ profession: 'Guardian'
 specialization: 'Firebrand'
 skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
-conditions: ['Vulnerability', 'Blind', 'Crippled']
+conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 
 <Message>
-Despite being very common in pugs, this build is not **the** meta! It is part of a composition called PuG meta, you can read more about it [here](/guides/meta-explained). We **recommend** to play [Heal Renegade](/builds/revenant/heal-renegade) for PuGs who are more organized and know the mechanics (after around 150-250+ <Item id="81743"/>), also a <Specialization name="firebrand"/> can deal way more damage than <Specialization name="renegade"/>. However if you fail mechanics <Specialization name="Firebrand" text="Heal Firebrand"/> is a way to success.
+Despite being very common in pugs, this build is not **the** meta! It is part of a composition called PuG meta, you can read more about it [here](/guides/meta-explained). We **recommend** to play [Heal Renegade](/builds/revenant/heal-renegade) for PuGs who are more organized and know the mechanics (after around 150-250+ <Item id="81743"/>), also a <Specialization name="Firebrand"/> can deal way more damage than <Specialization name="Renegade"/>. However if you fail mechanics <Specialization name="Firebrand" text="Heal Firebrand"/> is a way to success.
 </Message>
 
-<Tabs>
-<Tab title="Build">
+It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is important to understand that the signet share is essential to faster runs and sharing extra power during <Effect name="Exposed"/> (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
+
+The <Specialization name="Firebrand" text="Heal Firebrand"/> heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals, *but* it should not be needed.
+
+When <Instability name="Afflicted"/> is present or enemies are applying conditions, you can use <Skill name="Symbol of Swiftness"/> (Staff3) and blast it with <Skill name="Holy Strike"/> (Staff2) for area condition cleanse.
+
+
 If you play this build we highly recommend learning the <Skill name="Bane Signet"/> share variant. If you want a good and smooth run, take a look at the [Fractal Pages](/fractals). This class will not be doing much damage but understanding how the class works best and when to do <Skill name="Bane Signet"/> sharing is important! 
 
 <Divider text="Equipment"/>
@@ -29,19 +34,19 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Harrier" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Harrier" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk"/>
+<Armor weight="Heavy" helmAffix="Harrier" helmRune="Monk" shouldersAffix="Harrier" shouldersRune="Monk" coatAffix="Harrier" coatRune="Monk" glovesAffix="Harrier" glovesRune="Monk" leggingsAffix="Harrier" leggingsRune="Monk" bootsAffix="Harrier" bootsRune="Monk" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
 </GridItem>
  
 <GridItem sm="4">
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon2MainType="Axe" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2OffType="Shield" weapon2OffAffix="Harrier" weapon2OffSigil="Concentration"/>
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon2MainType="Axe" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2OffType="Shield" weapon2OffAffix="Harrier" weapon2OffSigil="Concentration" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2OffInfusionId="49432"/>
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM
-* A hammer for <Boon name="might"/> pre-stacking
+* A hammer for <Boon name="Might"/> pre-stacking
 </Card>
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Cleric" accessory1Affix="Cleric" accessory2Affix="Cleric" amuletAffix="Harrier" ring1Affix="Cleric" ring2Affix="Harrier"/>
+<BackAndTrinkets backItemAffix="Cleric" accessory1Affix="Cleric" accessory2Affix="Cleric" amuletAffix="Harrier" ring1Affix="Cleric" ring2Affix="Harrier" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 <Consumables food="Delicious Rice Ball" utilityId="67528" infusion="Healing +9 Agony Infusion"/>
 </GridItem>
 
@@ -59,7 +64,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | <Trait name="Pure of heart" size="big" disableText/> | In some T4s with a lot of attacking enemies it can be beneficial to bring this trait. This trait trades <Boon name="Might"/> for more heals. |
 ## Wheelchair
 In case your team downs frequently and is unable to handle mechanics correctly, you can swap radiance for virtues. This however is **not** the default build and should only be played under extreme circumstances, like very bad instability combos or beginner groups.
-<UnembossedTraits traits1Id="46" traits1="Virtues"  traits1SelectedIds="625, 610, 554"/>
+<Traits unembossed traits1Id="46" traits1="Virtues"  traits1SelectedIds="625, 610, 554"/>
 
 </Card>
 </GridItem>
@@ -74,25 +79,17 @@ In case your team downs frequently and is unable to handle mechanics correctly, 
 | <Skill name="Feel my wrath" size="big" disableText/> | When there is absolutely no need for <Boon name="Stability"/>. |
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. Can be used to blink to a <Skill id="9168"/>.|
 | <Skill id="9247" size="big" disableText/> | A 1,200 range teleport to an enemy. Very handy for some skips. |
-| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="stability"/> or stun break is needed. Preferred over <Skill id="9153"/>. |
-| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="stability"/> or stun break is needed. |
+| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stun break is needed. Preferred over <Skill id="9153"/>. |
+| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stun break is needed. |
 | <Skill id="9175" size="big" disableText/> | A strong heal. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
-| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. Can be used to counterplay <Instability name="We bleed fire"/>.|
+| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. Can be used to counterplay <Instability name="We Bleed Fire"/>.|
 | <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside. |
 </Card>
 </GridItem>
 </Grid>
-</Tab>
 
-<Tab title="Guide">
 <Divider text="Details"/>
-
-It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is important to understand that the signet share is essential to faster runs and sharing extra power during <Effect name="exposed"/> (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
-
-The <Specialization name="Firebrand" text="Heal Firebrand"/> heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals, *but* it should not be needed.
-
-When <Instability name="Afflicted"/> is present or enemies are applying conditions, you can use <Skill name="Symbol of Swiftness"/> (Staff3) and blast it with <Skill name="Holy Strike"/> (Staff2) for area condition cleanse.
 
 <Grid>
 <GridItem sm="12">
@@ -137,7 +134,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 - <Skill name="Tome of Courage"/> (F3):
   - Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
   - Skill 3 is a 5s reflect
-  - Skill 4 grants <Boon name="resistance"/> and breaks stun
+  - Skill 4 grants <Boon name="Resistance"/> and breaks stun
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
 </Card>
@@ -160,5 +157,3 @@ This guide is good for people who want to start fractals with heal firebrand. We
 <Video youtube="oigZbGyQvbQ" title="In-depth build guide by Rheyo"/>
 </GridItem>
 </Grid>
-
-</Tab>

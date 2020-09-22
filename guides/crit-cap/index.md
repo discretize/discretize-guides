@@ -34,7 +34,7 @@ We have two options to accomplish that - via items or skills/traits.
 
 ### Items
 
-The most obvious choice would be <Item name="Accuracy" type="Sigil"/>, but in Fractals we want to take <Item name="Impact" type="Sigil"/> (and <Item name="Force" type="Sigil"/> to benefit from frequently broken defiance bars.  
+The most obvious choice would be <Item name="Accuracy" type="Sigil"/>, but in Fractals we want to take <Item name="Impact" type="Sigil"/> (and <Item name="Force" type="Sigil"/>) to benefit from frequently broken defiance bars.  
 Which leaves us with item affixes and runes as other sources of Precision.
 
 A full ascended set of **Berserker** items is equal to **961 Precision** (dual wield) or **960 Precision** (two-handed).  
@@ -84,8 +84,8 @@ Below are some popular trait choices to push Critical Chance.
 | ------------------------------------- | ---------------- | ----------------------------------- | ----------------------------------------------------------- | --------------- | ---------- |
 | <Specialization name="Elementalist"/> | Weaver           | <Trait name="Superior Elements"/>   | Target must have <Condition name="Weakness"/>               | 10%             | 210        |
 | <Specialization name="Guardian"/>     | Radiance         | <Trait name="Radiant Power"/>       | Target must have <Condition name="Burning"/>                | 10%             | 210        |
-| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Righteous Instincts"/> | Player must have <Boon name="Retaliation"/>                 | 25%             | 525       |
-| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Right-Hand Strength"/> | -                                 | 3.8%            | 80         |
+| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Righteous Instincts"/> | Player must have <Boon name="Retaliation"/>                 | 25%             | 525        |
+| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Right-Hand Strength"/> | -                                                           | 3.8%            | 80         |
 | <Specialization name="Ranger"/>       | Skirmishing      | <Trait name="Hunters Tactics"/>     | Player must hit from behind or the side                     | 10%             | 210        |
 | <Specialization name="Ranger"/>       | Skirmishing      | <Trait name="Vicious Quarry"/>      | Player must have <Boon name="Fury"/>                        | 10%             | 210        |
 | <Specialization name="Engineer"/>     | Firearms         | <Trait name="Hematic Focus"/>       | Target must have <Condition name="Bleeding"/>               | 10%             | 210        |
