@@ -58,7 +58,7 @@ If not under 50%:
 1) Use both wells
 2) <Skill name="Grasping Darkness"/> (GS 5)
 3) <Skill name="Nightfall"/> (GS 4)
-4) If _MAMA_is broken: <Skill name="Soul Spiral"/> (Shroud 4)
+4) If _MAMA_ is broken: <Skill name="Soul Spiral"/> (Shroud 4)
 4) If _MAMA_ isn't broken:
 	1) <Skill name="Infusing Terror"/> (Shroud 3)
 	2) <Skill name="Executioners Scythe"/> (Shroud 5)
@@ -84,7 +84,6 @@ If not under 50%:
 8) Use both wells
 9) <Skill name="Soul Spiral"/> (Shroud 4)
 10) Auto attack until _MAMA_ dies
-
 
 <Divider text="Siax"/>
 <Message>
@@ -146,7 +145,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 </Message>
 ### **Precast**
 1) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
-2) Precast <Skill id="12363"/> / MIstfire Wolf, etc (if you have it)
+2) Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
 3) Take _Mistlock Singularity_
 4) Cast <Skill name="Lich Form"/> 4 at the orb
 

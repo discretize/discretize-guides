@@ -9,6 +9,8 @@ author: 'Discord: Jes#6596'
 ---
 
 <Divider text="Skorvald"/>
+
+
 ### **Precast**
 1) Precast Staff symbols on the orb that starts the encounter
 2) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
@@ -20,7 +22,7 @@ author: 'Discord: Jes#6596'
 2) Use both wells just as the fight starts
 3) <Skill name="Grasping Darkness"/> (GS 5)
 4) <Skill name="Nightfall"/> (GS 4)
-5) If _Skorvald__ is still not broken:
+5) If _Skorvald_ is still not broken:
 	1) <Skill name="Executioners Scythe"/> (Shroud 5)
 	2) <Skill name="Soul Spiral"/> (Shroud 4)
 6) Auto attack until _Skorvald_ phases
@@ -84,7 +86,6 @@ author: 'Discord: Jes#6596'
  4) <Skill name="Nightfall"/> (GS 4)
  5) <Skill name="Soul Spiral"/> (Shroud 4)
  6) Shroud auto attack until _Skorvald_ dies
- 
 
  
 <Divider text="Artsariiv"/>
@@ -151,9 +152,6 @@ author: 'Discord: Jes#6596'
     1) <Skill name="Soul Spiral"/> (Shroud 4) if it gets off cooldown
 8) Spam <Skill name="Gravedigger"/> (GS 2)
 
-
-
-
 <Divider text="Arkk"/>
 ### **Notes**
 - Place markers for the blooms 
@@ -161,7 +159,7 @@ author: 'Discord: Jes#6596'
 ### **Precast**
 1) Precast Staff symbols on the orb that starts the encounter
 2) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
-3) Blast <Boon name="Might"/> with <SpecialActionKey name="hypernovalaunch"/>
+3) Blast <Boon name="Might"/> with <Effect name="hypernovalaunch"/>
 4) Cast <Skill name="Lich Form"/> 4
 5) Take _Mistlock Singularity_
 6) Cast <Skill name="Lich Form"/> 4 **again**
@@ -184,7 +182,7 @@ author: 'Discord: Jes#6596'
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-3) <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
+3) <Effect name="hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -195,7 +193,7 @@ author: 'Discord: Jes#6596'
 2) <Skill name="Death Spiral"/> (GS 3)
 3) Auto attack until __Arch Diviner__ is 50%
 4) Spam <Skill name="Gravedigger"/> (GS 2)
-5) <SpecialActionKey name="hypernovalaunch"/> on the Elite to help with CC
+5) <Effect name="hypernovalaunch"/> on the Elite to help with CC
 
 ### **Phase 3**
 1) Use both wells
@@ -218,7 +216,7 @@ author: 'Discord: Jes#6596'
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-3) <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
+3) <Effect name="hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -229,7 +227,7 @@ author: 'Discord: Jes#6596'
 2) <Skill name="Death Spiral"/> (GS 3)
 3) Auto attack until __Gladiator__ is 50%
 4) Spam <Skill name="Gravedigger"/> (GS 2)
-5) <SpecialActionKey name="hypernovalaunch"/> on the Elite to help with CC
+5) <Effect name="hypernovalaunch"/> on the Elite to help with CC
 
 ### **Phase 5**
 1) Use both wells
@@ -254,7 +252,7 @@ author: 'Discord: Jes#6596'
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 3) If Arkk is not CCd
 	1) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-	2) <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
+	2) <Effect name="hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -262,5 +260,5 @@ author: 'Discord: Jes#6596'
 8) If not dead spam <Skill name="Gravedigger"/> (GS 2)
 
 Annotation:
-1) If possible make sure you use <SpecialActionKey name="hypernovalaunch"/> to CC the adds
+1) If possible make sure you use <Effect name="hypernovalaunch"/> to CC the adds
     1) First add spawn AoE's that strips boons, make sure you avoid them
