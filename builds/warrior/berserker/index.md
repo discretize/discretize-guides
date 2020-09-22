@@ -2,10 +2,11 @@
 title: 'Berserker'
 date: '2020-07-25'
 rating: 'Meta'
-role: 'Support'
+role: 'Damage'
 profession: 'Warrior'
 specialization: 'Berserker'
 benchmark: { small: { dps: 33349, by: 'Allan [SC]', youtube: '4tKu5_7qzLM' } }
+teaserVideo: 'jJu1acTrhTM'
 skills: [14407, 14405]
 traits: [1444, 1977, 2049]
 conditions: ['Vulnerability']

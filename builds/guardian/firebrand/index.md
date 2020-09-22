@@ -2,7 +2,7 @@
 title: 'Firebrand'
 date: '2020-07-25'
 rating: 'Meta'
-role: 'Support'
+role: 'Damage'
 profession: 'Guardian'
 specialization: 'Firebrand'
 benchmark: { small: { dps: 23300, by: 'MajesticNoodle [BATS]', youtube: 'G1Y1u4ZwJh8' } }
