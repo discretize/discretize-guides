@@ -1,6 +1,6 @@
 ---
 title: 'Power Reaper'
-date: '2020-07-25'
+date: '2020-08-04'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Necromancer'
@@ -144,3 +144,5 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 </GridItem>
 </Card>
 </Grid>
+
+ 
