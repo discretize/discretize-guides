@@ -1,6 +1,6 @@
 ﻿---
 title: 'Firebrand'
-date: '2020-07-25'
+date: '2020-08-04'
 rating: 'Meta'
 role: 'Support'
 profession: 'Guardian'
@@ -19,15 +19,16 @@ The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (als
 
 It plays very similar to <Specialization text="Power Dragonhunter" name="Dragonhunter"/> with the addition of <Specialization name="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
 
-
 Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' power by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
 <Message>
+
 Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="Firebrand"/>* is very strong with short phases. For various T4 fractals, long fight or if you simply happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="Firebrand"/>* ([Build](/builds/guardian/condi-firebrand) ) as it provides much better DPS for longer fights. 
+
 </Message>
 
 <Message>
-After July 2020 Balance patch, <Skill name="Feel my Wrath"/> got nerfed! In order to provide permanent quickness for fights longer then 1,5 minutes, <Specialization name="Firebrand"/> needs to increase their **boon duration to 24.6%**.
+After July 2020 Balance patch, <Skill name="Feel my Wrath"/> got nerfed! In order to provide permanent quickness for fights longer than 1,5 minutes, <Specialization name="Firebrand"/> needs to increase their **boon duration to 24.6%**.
 </Message>
 <Divider text="Equipment"/>
 
