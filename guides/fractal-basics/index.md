@@ -58,8 +58,12 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 ## Pre-stacking at Mistlock Singularity
 
-<Video title="Demonstrated by Loves Sorrow" youtube="ZcuILnFcq6s"/>
-### For more information about pre-stacking [click here](/guides/blast-stacking)
+<Grid>
+<GridItem sm="12" md="6">
+<Video caption="by Rubby [dT]" youtube="sMEBz5MJOk8"/>
+</GridItem>
+</Grid>
+For more information about pre-stacking [click here](/guides/blast-stacking)
 
 
 
