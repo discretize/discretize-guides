@@ -6,8 +6,7 @@ group: 'Challenge Mode'
 api: 0
 bosses: 5
 difficulties: [{ level: 100, ar: 150 }]
-cycle: 'Day'
-potions: []
+cycle: 'Day (non CM) / Night (CM)'
 sigils: [{ id: 36053 }, { id: 24868 }]
 consumables: [8783, 8474, 8664, 8759, 8678, 8732, 78978]
 ---
