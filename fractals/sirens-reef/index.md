@@ -3,7 +3,7 @@ title: "Siren's Reef"
 date: '2020-07-25'
 image: './images/header.jpg'
 group: 'T4'
-api: 0
+api: 4494
 bosses: 3
 difficulties: [{ level: 78, ar: 111 }]
 cycle: 'Day'
