@@ -1,7 +1,7 @@
 ---
 title: 'Sunqua Peak'
 date: '2020-09-20'
-image: './images/header.jpg'
+image: './images/hero_sunqua2.jpg'
 group: 'Challenge Mode'
 api: 0
 bosses: 5
@@ -26,7 +26,7 @@ Voice of the mountain is the first boss in the fractal. Regardless of running wi
 </GridItem>
 
 <GridItem sm="5">
-<Image src="./images/skorvald.jpg" caption="Voice of the mountain"/>
+<Image src="./images/elemental.jpg" caption="Voice of the mountain"/>
 </GridItem>
 </Grid>
 
@@ -46,7 +46,7 @@ Do the mini jumping puzzle to the last boss, remember to free the elementals.
 
 <GridItem sm="4">
 
-<Image src="./images/way_to_artsariiv.jpg" caption="The way to the stone of the mountain"/>
+Image src="./images/way_to_artsariiv.jpg" caption="The way to the stone of the mountain"
 
 </GridItem>
 
@@ -63,7 +63,7 @@ The second boss of the fractal is a big pile of rocks. Whoever is closest to the
 
 <GridItem sm="4">
 
-<Image src="./images/artsariiv.jpg" caption="The stone of the mountain: The second boss"/>
+<Image src="./images/water_rocks.png" caption="The stone of the mountain: The second boss"/>
 
 </GridItem>
 
@@ -72,7 +72,19 @@ The second boss of the fractal is a big pile of rocks. Whoever is closest to the
 
 ### Path two the next boss
 
+
+<Grid>
+<GridItem sm="8">
 There are little lava elementals blocking the way. Unfortunately there are stone piles blocking the way. Killing the lava elementals makes the piles magically disappear. 
+</GridItem>
+
+<GridItem sm="4">
+
+<Image src="./images/lava_elementals.png" caption="Lava Elementals blocking the way."/>
+
+</GridItem>
+
+</Grid>
 
 ---
 
@@ -92,7 +104,7 @@ Kill the boss and move on to the final encounter of this fractal.
 
 <GridItem sm="4">
 
-<Image src="./images/artsariiv.jpg" caption="Fury of the mountain: The second boss"/>
+<Image src="./images/fire_cat.png" caption="Target meteor attack of the Fury of the mountain"/>
 
 </GridItem>
 
@@ -122,7 +134,7 @@ The boss has multiple phases themed around the different elements air, fire, wat
 
 </GridItem>
 <GridItem sm="4">
-<Image src="./images/arkk.jpg" caption="Arkk: The final boss"/>
+<Image src="./images/ai_arena.png" caption="Arkk: The final boss"/>
 </GridItem>
 </Grid>
 
