@@ -15,7 +15,7 @@ code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'SpatiumPrinceps.8927'
 nightmareguide: '/cm-guides/warrior/berserker/nightmare'
 shatteredguide: '/cm-guides/warrior/berserker/shatteredobservatory'
-classification: [ 5,4,2,3 ]
+classification: [ 5,4, 4, 2,3 ]
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
