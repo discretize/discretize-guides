@@ -156,7 +156,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
-<Boss name="ensolyss" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="45970" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="serpentslyaing" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+<Boss name="ensolyss" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="45970" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 - Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
