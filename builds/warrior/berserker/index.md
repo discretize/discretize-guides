@@ -224,8 +224,25 @@ If using <Skill id="14483"/>:
 </Card>
 
 </GridItem>
-<GridItem sm="6">
-<Card title="Precast">
+</Grid>
+
+
+
+<Divider text="Rotation / Skill usage"/>
+
+<Grid>
+<GridItem xs="6">
+
+<Card title="Information">
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+For that reason you can find a video with openers, that are efficient to use here. 
+</Card>
+<Video title="Berserker openers" caption="by Decados [dT], edited by Vince [dT]" youtube=""/> 
+
+</GridItem>
+
+<GridItem xs="6">
+<Card title="Precast Rotation">
 - Precast banners - encounter specific. Check out the other tabs!
 - Use both charges of <Skill name="For Great Justice!"/>.
 - If a fire field isn’t present, equip an offhand torch and use <Skill name="Flames of War"/>.
@@ -236,11 +253,11 @@ If using <Skill id="14483"/>:
 - With <Item name="Paralyzation" type="Sigil"/> you can deal 820 defiance bar damage with:
   - <Skill name="Tremor"/>, you can precast it and cancel the aftercast animation.
   - <Skill name="Pommel Bash"/> + <Skill name="Headbutt"/>.
-
 </Card>
 </GridItem>
 
-<GridItem sm="6">
+
+<GridItem xs="6">
 <Card title="Rotation">
 **Ultra short phases (3 seconds):**
 - <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
@@ -268,4 +285,7 @@ or depending on the phase length:
 </Card>
 </GridItem>
 
+<GridItem xs="6">
+<Video youtube="4tKu5_7qzLM" caption="by Allan [SC]" title="Golem Rotation"/>
+</GridItem>
 </Grid>
