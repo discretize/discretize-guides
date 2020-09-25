@@ -131,7 +131,7 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 <Divider text="Build"/>
 
 <Grid>
-<GridItem sm="7">Might
+<GridItem sm="7">
 <Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint, Doubled Standards, Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct, Blood Reaction, Bloody Roar"/>
 <Card title="Maximizing berserk uptime">
 For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. Two such examples can be seen below for the first two bosses of 99CM:
@@ -285,6 +285,6 @@ or depending on the phase length:
 </GridItem>
 
 <GridItem xs="6">
-<Video youtube="4tKu5_7qzLM" caption="by Allan [SC]" title="Golem Rotation"/>
+<Video youtube="4tKu5_7qzLM" image="https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2015/08/23e4aElite_Headbutt-590x331.jpg" caption="by Allan [SC]" title="Golem Rotation"/>
 </GridItem>
 </Grid>

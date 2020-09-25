@@ -1,5 +1,5 @@
 ---
-title: 'Heal Renegade Shattered Observatory CM guide'
+title: 'Heal Renegade Shattered Observatory CM'
 build: 'Heal Renegade'
 profession: 'Revenant'
 specialization: 'Renegade'

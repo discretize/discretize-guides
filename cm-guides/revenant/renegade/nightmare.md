@@ -1,5 +1,5 @@
 ---
-title: 'Renegade Nightmare Fractal CM guide'
+title: 'Renegade Nightmare CM'
 build: 'Renegade'
 profession: 'Revenant'
 specialization: 'Renegade'

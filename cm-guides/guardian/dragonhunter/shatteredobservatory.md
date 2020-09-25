@@ -1,5 +1,5 @@
 ---
-title: 'Power Dragonhunter Shattered Observatory CM guide'
+title: 'Dragonhunter Shattered Observatory CM'
 build: 'Dragonhunter'
 profession: 'Guardian'
 specialization: 'Dragonhunter'

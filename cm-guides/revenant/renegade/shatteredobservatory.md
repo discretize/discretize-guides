@@ -1,5 +1,5 @@
 ---
-title: 'Renegade Shattered Observatory CM guide'
+title: 'Renegade Shattered Observatory CM'
 build: 'Renegade'
 profession: 'Revenant'
 specialization: 'Renegade'
