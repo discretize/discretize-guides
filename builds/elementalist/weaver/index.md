@@ -12,8 +12,7 @@ traits: [1502, 226, 1503]
 boons: ['Fury', 'Might', 'Swiftness']
 conditions: ['Burning', 'Chilled', 'Vulnerability']
 code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
-nightmareguide: '/cm-guides/elementalist/weaver/nightmare'
-shatteredguide: '/cm-guides/elementalist/weaver/shatteredobservatory'
+cmguides: '/cm-guides/elementalist/weaver'
 ---
 
 The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals.

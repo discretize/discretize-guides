@@ -11,8 +11,7 @@ skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
 code: '[&DQQIGiA7Nyp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
-nightmareguide: '/cm-guides/ranger/soulbeast/nightmare'
-shatteredguide: '/cm-guides/ranger/soulbeast/shatteredobservatory'
+cmguides: '/cm-guides/ranger/soulbeast'
 classification: [5, 5, 4, 3, 5]
 ---
 
