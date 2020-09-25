@@ -1,5 +1,5 @@
 ---
-title: 'Reaper Shattered Observatory CM guide'
+title: 'Reaper Shattered Observatory CM'
 build: 'Reaper'
 profession: 'Necromancer'
 specialization: 'Reaper'

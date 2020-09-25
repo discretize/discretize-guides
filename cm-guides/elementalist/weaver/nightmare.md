@@ -1,5 +1,5 @@
 ---
-title: 'Weaver Nightmare Fractal CM guide'
+title: 'Weaver Nightmare CM'
 build: 'Weaver'
 profession: 'Elementalist'
 specialization: 'Weaver'

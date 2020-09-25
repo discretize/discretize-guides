@@ -1,5 +1,5 @@
 ---
-title: 'Soulbeast Shattered Observatory CM guide'
+title: 'Soulbeast Shattered Observatory CM'
 build: 'Soulbeast'
 profession: 'Ranger'
 specialization: 'Soulbeast'
