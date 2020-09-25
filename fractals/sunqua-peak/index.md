@@ -21,7 +21,7 @@ Killing elementals spawns lightning strikes that periodically leave behind a swo
 
 <Grid>
 <GridItem sm="7">
-Voice of the mountain is the first boss in the fractal. Regardless of running with or without healer, this boss deals very little damage. Try to avoid AoEs. Every 33% the boss gets <Effect name="Invulnerability"/> and lightning strikes appread. They leave collectable items for <Uncategorized name="chargedleap"/>. Collect 3 of them and jump inside the white AoEs under the strom clouds to collect the orb in the clouds. Make sure to avoid any big red AoEs as they deal heavy damage. 
+The Voice of the mountain is the first boss in the fractal. This boss deals little damage, however you should still try to avoid AoEs. Every 33% the boss gets <Effect name="Invulnerability"/> and lightning strikes appear. They leave collectable items for <Uncategorized name="chargedleap"/>. Collect 3 of them and jump inside the white AoEs under the storm clouds to collect the orb in the clouds. Make sure to avoid any big red AoEs as they deal heavy damage and apply <Condition name="Vulnerability"/> and <Condition name="Weakness"/>. 
 </GridItem>
 
 <GridItem sm="5">
@@ -37,9 +37,9 @@ Voice of the mountain is the first boss in the fractal. Regardless of running wi
 Not a single trash mob needs to be killed for progression! 
 </Message>
 
-After the Voice of the mountain is dead, take the updraft. Follow the path. In order to trigger the next boss all three Elemental clouds have to be freed by interacting with them. They spawn along the path and are not hidden. Right in the beginning there are water rifts. <Boon name="Stability"/> does not prohibit getting pushed down the cliff. Dodge through. The second waterfall can be easily skipped by walking behind it. 
+After the Voice of the mountain is dead, take the updraft. Follow the path. In order to trigger the next boss all three Elemental clouds have to be freed by interacting with them. They spawn along the path and are not hidden. Right after taking the updraft there are water rifts. <Boon name="Stability"/> does not prohibit getting pushed down the cliff. Dodge through. The second waterfall can be easily skipped by walking behind it. 
 
-Do the mini jumping puzzle to the last boss, remember to free the elementals.
+Do the mini jumping puzzle to the last boss, remember to free the elementals. As soon as you freed all three elementals `/gg` so your team can catch up with the front runner.
 
 </GridItem>
 
@@ -74,7 +74,15 @@ The second boss of the fractal is a big pile of rocks. Whoever is closest to the
 
 <Grid>
 <GridItem sm="8">
-There are little lava elementals blocking the way. Unfortunately there are stone piles blocking the way. Killing the lava elementals makes the piles magically disappear. 
+
+<Grid>
+<GridItem sm="4">
+<Video youtube="djLHJzct1_k" muted caption="Skip the lava elementals by Mr. Meowgi" timestamp="104"/>
+</GridItem>
+<GridItem sm="8">
+There are little lava elementals blocking the way. Unfortunately there are stone piles blocking the way. Killing the lava elementals makes the piles magically disappear. Use <Control name="Pull"/>s and burst them down quickly. 
+</GridItem>
+</Grid>
 </GridItem>
 
 <GridItem sm="4">
@@ -119,9 +127,8 @@ When you break Ai's breakbar she gets a buff on her bar preventing a new breakba
 | ------------------ | ----------------------------------------------------------------------- |
 | Encounter duration | 5:00min                                                                 |
 | Sigils             | <Item name="Impact"/> <Item name="Force"/> <Item name="Night"/>                              |
-| Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
 | Instabilities      | <Instability name="No Pain, No Gain"/> <Instability name="Boon Overload"/> <Instability name="Vengeance"/> |
-| CC                 | ~ 3000                                                                    |
+| CC                 | ~ 3400                                                                    |
 
 ### Part 1: Normal Form <Label>Day</Label>
 
@@ -143,12 +150,18 @@ After crossing the green line the fight starts. After about one second Ai dashes
 If you do not manage to bring her to 66% after the second side burn additional mechanics have to be done: collecting 2-3 <Uncategorized name="chargedleap"/> (depending on the height) to remove the clouds above the white AoEs. 
 
 #### Meteor Phase <Label>66%-33%</Label>
+<Grid>
+<GridItem sm="7">
 After bringing the boss down to 66% it gets <Effect name="Invulnerability"/> and spawns meteor impact AoEs. Outrun them like a turtle (there is enough time even with roleplay walk). After the third set of impacts the boss reappears. Be aware, there is a fourth set of impacts encompassing 4 meteors covering the boss. Dodge this! Two players get assigned another meteor AoE that they should place outside (in a non static team) of the stack (in a coordinated team just ignore it by dodging at the right time). 
 
 An AoE around the boss starts to expand launching a powerful attack that downs any ally, that did not seek shelter behind a rock. Be aware, there will only be one rock in Challenge Mode. The rocks that disappear are glowing red before crumbling. 
 
 After the meteor attack the attack pattern from phase 1 repeats. After about a second the boss dashes to a randomly chosen side, a CC bar appears and you burst to 33%. 
-
+</GridItem>
+<GridItem sm="5">
+![Meteor gif](https://cdn.discordapp.com/attachments/642291107463692290/758795960339005542/meteorgif.gif)
+</GridItem>
+</Grid>
 ### Water Phase <Label>33%-0%</Label>
 The water phase starts at the entrance of the arena. After a short while a dark cloud appears which needs to be collected by a green AoE that appears around a player. The player closes to the cloud gets tethered to the it and receives the debuff <Uncategorized name="tidalbargain"/>. You can take over the <Uncategorized name="tidalbargain"/> by standing inbetween the tethered person and the cloud.
 

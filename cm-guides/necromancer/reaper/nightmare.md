@@ -1,5 +1,5 @@
 ---
-title: 'Reaper Nightmare Fractal CM guide'
+title: 'Reaper Nightmare CM'
 build: 'Reaper'
 profession: 'Necromancer'
 specialization: 'Reaper'
