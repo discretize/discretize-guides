@@ -84,7 +84,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="siax" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+<Boss name="siax" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 - Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.

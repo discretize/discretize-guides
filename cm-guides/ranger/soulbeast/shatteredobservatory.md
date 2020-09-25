@@ -69,7 +69,7 @@ Spirit Management:
 <GridItem sm="6">
 <Card title="Skills and Traits">
 <Skills unembossed healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-- Pet: <Skill id="44617" disableText/> Red Moa (more DPS) or <Skill id="43636" disableText/> Rock Gazelle (better movement).
+- <Skill id="43636" disableText/> Rock Gazelle (better movement).
 - Traits: <Trait id="2128"/>. 
 - Food: <Item id="91805"/>.
 - Utility: <Item id="77569"/> or <Item id="73191"/>
