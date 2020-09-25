@@ -236,7 +236,7 @@ If using <Skill id="14483"/>:
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
 For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
-<Video title="Berserker openers" caption="by Decados [dT], edited by Vince [dT]" youtube=""/> 
+<Video title="Berserker openers" caption="by Decados [dT], edited by Vince [dT]" youtube="6z6ZvHxHXek"/> 
 
 </GridItem>
 
