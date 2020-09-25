@@ -12,8 +12,7 @@ boons: ['Alacrity', 'Might', 'Stability']
 conditions: ['Vulnerability']
 code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
 author: 'Jin Su Liang.9036'
-nightmareguide: '/cm-guides/revenant/renegade/nightmare'
-shatteredguide: '/cm-guides/revenant/renegade/shatteredobservatory'
+cmguides: '/cm-guides/revenant/renegade'
 ---
 
 <Divider text="Equipment"/>

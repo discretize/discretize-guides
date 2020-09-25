@@ -12,8 +12,7 @@ boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvGzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'SpatiumPrinceps.8927'
-nightmareguide: '/cm-guides/guardian/dragonhunter/nightmare'
-shatteredguide: '/cm-guides/guardian/dragonhunter/shatteredobservatory'
+cmguides: '/cm-guides/guardian/dragonhunter'
 ---
 
 

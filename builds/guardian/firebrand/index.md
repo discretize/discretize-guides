@@ -11,8 +11,7 @@ boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'ganymed.3541'
-nightmareguide: '/cm-guides/guardian/power-firebrand/nightmare'
-shatteredguide: '/cm-guides/guardian/power-firebrand/shatteredobservatory'
+cmguides: '/cm-guides/guardian/firebrand'
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.
