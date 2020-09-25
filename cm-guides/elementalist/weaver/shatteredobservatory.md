@@ -1,5 +1,5 @@
 ---
-title: 'Weaver Shattered Observatory CM guide'
+title: 'Weaver Shattered Observatory CM'
 build: 'Weaver'
 profession: 'Elementalist'
 specialization: 'Weaver'

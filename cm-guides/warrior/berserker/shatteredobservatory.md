@@ -1,5 +1,5 @@
 ---
-title: 'Berserker Shattered Observatory'
+title: 'Berserker Shattered Observatory CM'
 build: 'Berserker'
 profession: 'Warrior'
 specialization: 'Berserker'
@@ -85,7 +85,7 @@ The rest of the fight follows accordingly.
 
 <ConditionalComponent condition="pug">
 
-<Boss name="Artsariiv" video="anHIsOj_USY" videoCreator="Roach [dT]" foodId="91805" utilityId="9443" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="mace" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131">
+<Boss name="Artsariiv" video="RBkM9TL4uxM" videoCreator="Roach [dT]" foodId="91805" utilityId="9443" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="mace" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131">
 - Play <Trait name="savageinstinct"/>!
 - With <Instability name="Afflicted"/> you can bring a meme skill <Skill name="berserkerstance"/>.
 - If most of the damage done is in the center, take <Skill name="signetoffury"/>.

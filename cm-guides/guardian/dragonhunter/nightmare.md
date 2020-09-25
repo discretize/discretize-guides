@@ -1,5 +1,5 @@
 ---
-title: 'Power Dragonhunter Nightmare Fractal CM guide'
+title: 'Dragonhunter Nightmare CM'
 build: 'Dragonhunter'
 profession: 'Guardian'
 specialization: 'Dragonhunter'

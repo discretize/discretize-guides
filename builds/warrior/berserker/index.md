@@ -15,7 +15,7 @@ code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'SpatiumPrinceps.8927'
 nightmareguide: '/cm-guides/warrior/berserker/nightmare'
 shatteredguide: '/cm-guides/warrior/berserker/shatteredobservatory'
-classification: [ 5,4,2,3 ]
+classification: [ 5,4, 4, 2,3 ]
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
@@ -131,7 +131,7 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 <Divider text="Build"/>
 
 <Grid>
-<GridItem sm="7">Might
+<GridItem sm="7">
 <Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint, Doubled Standards, Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct, Blood Reaction, Bloody Roar"/>
 <Card title="Maximizing berserk uptime">
 For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. Two such examples can be seen below for the first two bosses of 99CM:
@@ -170,7 +170,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 
 <Grid>
 <GridItem sm="8">
-<Card title="Skill usage">
+
 **How to deal damage:**
 * Use <Skill name="decapitate"/> as often as possible. Three crits are required to gain a single <Skill name="decapitate"/>:
     1. <Skill name="Cycloneaxe"/> and <Skill name="throwaxe"/>. 
@@ -191,7 +191,6 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 - Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
 - Entering <Skill name="Berserk"/> grants 3 stacks of <Trait name="Berserkers Power"/>, while <Skill name="Decapitate"/> only grants 1. You will find <Trait name="Berserkers Power"/> starting to run low when out of <Skill name="Berserk"/>, try to make sure you are in <Skill name="Berserk"/> for burn phases while also not delaying <Skill name="Berserk"/> where possible.
 
-</Card>
 </GridItem>
 
 <GridItem sm="4">
@@ -224,8 +223,25 @@ If using <Skill id="14483"/>:
 </Card>
 
 </GridItem>
-<GridItem sm="6">
-<Card title="Precast">
+</Grid>
+
+
+
+<Divider text="Rotation / Skill usage"/>
+
+<Grid>
+<GridItem xs="6">
+
+<Card title="Information">
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+For that reason you can find a video with openers, that are efficient to use here. 
+</Card>
+<Video title="Berserker openers" caption="by Decados [dT], edited by Vince [dT]" youtube=""/> 
+
+</GridItem>
+
+<GridItem xs="6">
+<Card title="Precasting">
 - Precast banners - encounter specific. Check out the other tabs!
 - Use both charges of <Skill name="For Great Justice!"/>.
 - If a fire field isn’t present, equip an offhand torch and use <Skill name="Flames of War"/>.
@@ -236,12 +252,12 @@ If using <Skill id="14483"/>:
 - With <Item name="Paralyzation" type="Sigil"/> you can deal 820 defiance bar damage with:
   - <Skill name="Tremor"/>, you can precast it and cancel the aftercast animation.
   - <Skill name="Pommel Bash"/> + <Skill name="Headbutt"/>.
-
 </Card>
 </GridItem>
 
-<GridItem sm="6">
-<Card title="Rotation">
+
+<GridItem xs="6">
+<Card title="Skill usage">
 **Ultra short phases (3 seconds):**
 - <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
 
@@ -268,4 +284,7 @@ or depending on the phase length:
 </Card>
 </GridItem>
 
+<GridItem xs="6">
+<Video youtube="4tKu5_7qzLM" image="https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2015/08/23e4aElite_Headbutt-590x331.jpg" caption="by Allan [SC]" title="Golem Rotation"/>
+</GridItem>
 </Grid>

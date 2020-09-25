@@ -13,13 +13,20 @@ effects: ['Stealth']
 code: '[&DQQIGiA7Nyp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 nightmareguide: '/cm-guides/ranger/soulbeast/nightmare'
 shatteredguide: '/cm-guides/ranger/soulbeast/shatteredobservatory'
+classification: [5, 5, 4, 3, 5]
 ---
 
-<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv).
+<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-For prestacking and encounters where the <Specialization name="Firebrand"/> plays <Specialization name="Dragonhunter"/> or <Specialization name="Guardian"/>, it is beneficial to bring <Skill name="moa stance"/> to extend the uptime of boons, especially <Boon name="Quickness"/>. The Guide and CM tabs provide more information.
+This build is rather self sufficient due to:
+- <Boon name="Quickness"/> from <Trait name="livefast"/> 
+- <Boon name="Might"/> from <Trait name="Huntersgaze"/>
+- Boon extension <Trait name="Essence of speed"/> 
+- <Skill name="We heal as one"/> 
+- High CC with <Skill name="Charge" profession="Ranger"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
+- High mobility via <Skill name="monarchsleap"/>, <Skill name="Charge" profession="Ranger"/> and <Skill name="swoop"/>
 
-The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike. 
 
 <Divider text="Equipment"/>
 
@@ -32,7 +39,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2MainInfusion2Id="49432"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="longbow" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2MainInfusion2Id="49432"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -61,7 +68,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/>!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2MainInfusion2Id="37131"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="longbow" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2MainInfusion2Id="37131"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -86,7 +93,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainId="46762" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="Greatsword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2MainInfusion2Id="37131"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="longbow" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2MainInfusion2Id="37131"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -168,9 +175,7 @@ If both of these requirements then you can swap Marksmanship for Skirmishing wit
 </Grid>
 
 <Divider text="Details"/>
-<Grid>
-<GridItem sm="7">
-<Card title="Guide">
+
 The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="Exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="Exposed"/> on the boss. 
 
 Also as <Specialization name="Soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your <Specialization name="Weaver"/>). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="Exposed"/>. 
@@ -185,7 +190,7 @@ In PuGs, however, it is quite hard to predict when the boss will be CCed as well
 For your second weapon set you either run greatsword or longbow:
  
 - Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
-- Greatsword on the other side offers great sustained DPS. You need to be smart about utilizing the <Effect name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios.
+- Greatsword on the other side offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios.
 - In order to proc <Item id="84505"/> you merely need to use any CC skill (such as <Skill id="45743"/> or <Skill id="12511"/>) whilst the enemy is using an ability.
 
 **Pets:**
@@ -203,14 +208,45 @@ For your second weapon set you either run greatsword or longbow:
 - <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phase to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
 - <Skill name="Quickening Zephyr"/> in combination with the <Item id="85244"/> allows you to move extremely fast and is useful for a few skips. Check the [Fractal Guides](/fractals) for specific skips.
 
+<Divider text="Rotation / Skill usage"/>
+
+<Grid>
+<GridItem sm="6">
+
+<Card title="Information">
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+For that reason you can find a video with openers, that are efficient to use here. 
+</Card>
+<Video title="Soulbeast openers" caption="by Stellan [dT], edited by Vince [dT]" youtube="SkwuNXOmvhA"/> 
+
+</GridItem>
+
+<GridItem sm="6">
+<Card title="Precasting">
+If you have a Mistlock Singularity present you can use this rotation
+1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+2. <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
+3. `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
+3. <Skill id="12621"/> to blast might.
+4. <Skill id="31914"/> to extend your boons.
+5. Pick up <Skill id="5516"/> if there is one.
+6. <Skill name="One Wolf Pack"/> then take the Mistlock and trigger the boss.
+
+If you don't have Mistlock Singularity present you can use this simplified rotation:
+1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+
+3. <Skill id="12621"/> to blast might.
+4. <Skill id="31914"/> to extend your boons.
+5. Pick up <Skill id="5516"/> if there is one.
+
 </Card>
 </GridItem>
-<GridItem sm="5">
+
+
+<GridItem xs="6">
+<Video youtube="18X3buGk4Mc" caption="by LEFT" title="Golem Rotation"/>
 
 <Card title="Golem Rotation">
-<Message>
-You should only use this rotation on longer phases since it is based around sustained DPS!
-</Message>
 1. <Skill name="Barrage"/>
 2. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
 3. <Skill name="One Wolf Pack"/> 
@@ -230,30 +266,43 @@ You should only use this rotation on longer phases since it is based around sust
 17. <Skill name="Barrage"/>
 18. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
 19. Repeat from `Step 5`
-
-
 </Card>
-<Card title="Precast Rotation">
-If you have a Mistlock Singularity present you can use this rotation
-1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-2. <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
-3. `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
-3. <Skill id="12621"/> to blast might.
-4. <Skill id="31914"/> to extend your boons.
-5. Pick up <Skill id="5516"/> if there is one.
-6. <Skill name="One Wolf Pack"/> then take the Mistlock and trigger the boss.
+</GridItem>
 
-If you don't have Mistlock Singularity present you can use this simplified rotation:
-1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+<GridItem xs="6">
 
-3. <Skill id="12621"/> to blast might.
-4. <Skill id="31914"/> to extend your boons.
-5. Pick up <Skill id="5516"/> if there is one.
 
+<Card title="Skill priority">
+| Skill | Dmg | Cast | iDPS |
+| ----- | --- | ---- | ---- |
+| <Skill name="Frost trap"/> | 3900 |	557 | 7001 |
+| <Skill name="hunterscall"/> |  3432	| 460 | 	5282 | 
+| <Skill name="Barrage"/> | 7116	| 1880 | 	3785 | 
+| <Skill name="worldlyimpact"/> | 2240	| 664	| 3373 | 
+| <Skill name="pathofscars"/> | 1354	| 423	| 3201 | 
+| <Skill name="whirling defense"/> | 8940	| 2815	| 3176 | 
+| <Skill name="frenzied attack"/> | 2370	| 756	| 3134 | 
+| <Skill id="12525"/> | 2282	| 807 | 	2828 |  
+| <Skill name="winters bite" profession="ranger"/> | 1411	| 527	| 2679 | 
+| <Skill name="pointblankshot"/> | 948	| 380	| 2497 | 
+| <Skill name="kick" profession="ranger"/> | 1114	| 475	| 2348 | 
+| <Skill name="rapid fire"/> | 4450	| 2005	| 2220 | 
+| <Skill name="charge" profession="ranger"/> | 1340	| 654	| 2050 | 
+| <Skill name="hilt bash"/> + <br/><Skill id="12525"/> | 2934	| 1446	| 2029 | 
+| <Skill name="tail swipe"/> | 1304	| 726 | 	1796 | 
+
+
+Dmg: Tooltip damage, berserker, 15x <Item id="37131"/>, merged   
+Cast: average cast time in ms
+<br/><br/>
+by Elu [SC]
 </Card>
 </GridItem>
 </Grid>
-<Card title="Underwater Guide">
+
+
+
+<Divider text="Underwater Guide"/>
 
 For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting, you want to camp Spear since <Skill name="Man o war"/>, <Skill name="Swirling Strike"/> as well as your auto-attack chain deal good damage. You should swap back to Harpoon gun at the start of the split-phase of the Jellyfish Beast to range the split adds as well as allowing you to restart your rotation when the split-phase ends.
 
@@ -265,5 +314,3 @@ Underwater the pet you use for DPS depends on the situation just like above land
 **Bonus Tips:**
 - <Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/fractals/aquatic-ruins) often has <Instability name="Afflicted"/>. 
 - If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
-
-</Card>
