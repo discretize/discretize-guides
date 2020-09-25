@@ -170,7 +170,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 
 <Grid>
 <GridItem sm="8">
-<Card title="Skill usage">
+
 **How to deal damage:**
 * Use <Skill name="decapitate"/> as often as possible. Three crits are required to gain a single <Skill name="decapitate"/>:
     1. <Skill name="Cycloneaxe"/> and <Skill name="throwaxe"/>. 
@@ -191,7 +191,6 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 - Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
 - Entering <Skill name="Berserk"/> grants 3 stacks of <Trait name="Berserkers Power"/>, while <Skill name="Decapitate"/> only grants 1. You will find <Trait name="Berserkers Power"/> starting to run low when out of <Skill name="Berserk"/>, try to make sure you are in <Skill name="Berserk"/> for burn phases while also not delaying <Skill name="Berserk"/> where possible.
 
-</Card>
 </GridItem>
 
 <GridItem sm="4">
@@ -242,7 +241,7 @@ For that reason you can find a video with openers, that are efficient to use her
 </GridItem>
 
 <GridItem xs="6">
-<Card title="Precast Rotation">
+<Card title="Precasting">
 - Precast banners - encounter specific. Check out the other tabs!
 - Use both charges of <Skill name="For Great Justice!"/>.
 - If a fire field isn’t present, equip an offhand torch and use <Skill name="Flames of War"/>.
@@ -258,7 +257,7 @@ For that reason you can find a video with openers, that are efficient to use her
 
 
 <GridItem xs="6">
-<Card title="Rotation">
+<Card title="Skill usage">
 **Ultra short phases (3 seconds):**
 - <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
 

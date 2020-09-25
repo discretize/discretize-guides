@@ -15,21 +15,16 @@ nightmareguide: '/cm-guides/guardian/power-firebrand/nightmare'
 shatteredguide: '/cm-guides/guardian/power-firebrand/shatteredobservatory'
 ---
 
-The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing high DPS.
+The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.
 
 It plays very similar to <Specialization text="Power Dragonhunter" name="Dragonhunter"/> with the addition of <Specialization name="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
 
-Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' power by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
+Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' <Attribute name="Power"/> by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
 <Message>
-
-Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="Firebrand"/>* is very strong with short phases. For various T4 fractals, long fight or if you simply happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="Firebrand"/>* ([Build](/builds/guardian/condi-firebrand) ) as it provides much better DPS for longer fights. 
-
+Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="Firebrand"/>* is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="Firebrand"/>* ([Build](/builds/guardian/condi-firebrand) ) as it provides much higher sustained DPS.
 </Message>
 
-<Message>
-After July 2020 Balance patch, <Skill name="Feel my Wrath"/> got nerfed! In order to provide permanent quickness for fights longer than 1,5 minutes, <Specialization name="Firebrand"/> needs to increase their **boon duration to 24.6%**.
-</Message>
 <Divider text="Equipment"/>
 
 Note that this build variant only gains boon duration from the <Item id="79722"/>.
@@ -105,7 +100,16 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 <Grid>
 <GridItem sm="7">
 <Traits traits1="Radiance" traits1Selected="Healers Retribution, Retribution, Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath, Zealous Blade, Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow, Stalwart Speed, Loremaster"/>
- 
+ <Card title="Defiance Bar Damage">
+| | |
+| -- | -- |
+| <Skill id="9093"/> | 300 damage |
+| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage |
+| <Skill name="Hammer of Wisdom"/> | 200 damage |
+| Skill 3 in <Skill name="Tome of Justice"/> (F1) | 150 damage |
+| <Skill name="Chains of light"/> | 250 damage |
+| <Skill name="Sanctuary"/> | 750 damage |
+</Card>
 </GridItem>
 
 <GridItem sm="5">
@@ -115,10 +119,16 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 | | |
 | -- | -- |
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
-| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stunbreak is needed. |
-| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stunbreak is needed. |
+| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. |
+| <Skill id="9153" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
+| <Skill id="43357" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
+| <Skill id="9247" size="big" disableText/> | A 1200 range teleport to an enemy. |
+| <Skill name="Purging flames" size="big" disableText/> | Cleanses conditions. |
+| <Skill name="Sanctuary" size="big" disableText/> | Huge CC and projectile destruction. |
+| <Skill name="Mantra of lore" size="big" disableText/> | Cleanses multiple conditions thanks to charges. |
+| <Skill name="renewed focus" size="big" disableText/> | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
 
 </Card>
 </GridItem>
@@ -127,9 +137,6 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 
 <Divider text="Details"/>
 
-<Grid>
-<GridItem sm="12">
-<Card title="Skill Usage">
 To keep up <Boon name="Quickness"/>:
 
 - Use <Skill name="Feel My Wrath"/> whenever ready
@@ -152,10 +159,10 @@ The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-drag
   - Use <Skill name="Ray of Judgment"/>
   - Use <Skill name="Symbol of Blades"/> 
   - Use <Skill name="Zealots Defense"/> 
-  - <Skill name="Shield of Wrath"/> when you're not receiving hits - use it shortly before breaking defiance bars. Can also be used to help with stacking might
+  - <Skill name="Shield of Wrath"/> when you're not receiving hits - use it shortly before breaking defiance bars. Can also be used to help with stacking <Boon name="Might"/>
  
 - Apart from that:
-  - <Skill name="Bane Signet"/> to break defiance bars and provide the group with a temporary 216 power buff
+  - <Skill name="Bane Signet"/> to break defiance bars and provide the group with a temporary 216 <Attribute name="Power"/> buff
   - <Skill id="9226"/> (after <Skill id="9147"/>) is nice CC skill as well
   - <Skill name="Sword of Justice"/> for additional DPS and vulnerability. Also provides 3 seconds of cripple
   - Scepter plays the same as the sword, just without <Skill name="Zealots Defense"/>
@@ -180,11 +187,37 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - Skill 4 grants <Boon name="Resistance"/> and breaks stun
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
+<Divider text="Rotation / Skill Usage"/>
+
+<Grid>
+<GridItem sm="6">
+
+<Card title="Information">
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
+<Video title="Firebrand openers" caption="by MagicBot [dT], edited by Vince [dT]" youtube=""/> 
+
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Rotation">
+<Card title="Precasting">
+If you have a Mistlock Singularity present you can use these skills for precasts:
+1) Cast <Skill name="tome of justice"/> skill 4 and 5
+2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
+3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+4) Use <Skill name="Stand your ground"/>
+5) Use <Skill name="Feelmywrath"/> 
+6) Use <Skill name="banesignet"/>
+7) Take mistlock
+8) Use <Skill name="Feelmywrath"/> 
+
+</Card>
+</GridItem>
+
+
+<GridItem xs="6">
+<Card title="Golem Rotation">
 **Scepter/Sword Rotation:**
 1. <Skill name="banesignet" profession="guardian"/>
 1. <Skill name="Sword of Justice" profession="guardian"/> 
@@ -201,16 +234,19 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 1. If the phase lasts longer than this, continue with the SC rotation. 
 </Card>
 </GridItem>
-<GridItem sm="6">
-<Card title="Defiance Bar Damage">
-| | |
-| -- | -- |
-| <Skill id="9093"/> | 300 damage |
-| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage |
-| <Skill name="Hammer of Wisdom"/> | 200 damage |
-| Skill 3 in <Skill name="Tome of Justice"/> (F1) | 150 damage |
-| <Skill name="Chains of light"/> | 250 damage |
-</Card>
-</GridItem>
 
+<GridItem xs="6">
+<Video youtube="G1Y1u4ZwJh8" caption="MajesticNoodle [BATS]" title="Golem Rotation"/>
+</GridItem>
 </Grid>
+
+<Divider text="Underwater combat"/>
+
+It is very much recommended to play <Specialization text="Condition Quickness Firebrand" name="Firebrand"/> ([Build](/builds/guardian/condi-firebrand)) since it provides much better DPS compared to the power variant. If you still want to play <Specialization text="Power Quickness Firebrand" name="Firebrand"/> for whatever reason follow these rough guidelines.
+
+- open with <Skill name="refraction"/> for <Boon name="retaliation"/>
+- Cast <Skill name="purify"/> and swap to spear. Camp spear now.
+- Priority list:
+  1) <Skill name="Zealots flurry"/> (Spear 2)
+  2) <Skill name="Symbol of spears"/> (Spear 4)
+  3) <Skill name="brilliance"/> (Spear 3)

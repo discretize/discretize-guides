@@ -222,7 +222,7 @@ For that reason you can find a video with openers, that are efficient to use her
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Precast Rotation">
+<Card title="Precasting">
 If you have a Mistlock Singularity present you can use this rotation
 1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
 2. <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
