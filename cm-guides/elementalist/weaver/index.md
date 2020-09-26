@@ -169,9 +169,8 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 </ConditionalComponent>
 
+
 <ConditionalComponent condition="pug">
-
-
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
@@ -291,7 +290,7 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 - Use <SpecialActionKey name="hypernovalaunch"/>/Portal to go the the platform early, cast <Skill id="5531"/> and drop your <Skill id="5516"/>. Cast <Skill id="5501"/> on your staff, then equip your Sword/Dagger and shout on voice to start the boss. This is a tight precast so make sure you practice it otherwise staff weaver RIP.
 
 ### **1st Phase (100%-80%)**
-[comment]: <> (this part doesnt make sense with the precast needs modifications)
+(this part doesnt make sense with the precast needs modifications)
 - Attune to <Skill id="5494"/>/<Skill id="5494"/> as soon as the encounter starts. Cast <Skill id="5531"/>, <Skill id="5737"/> and <Skill id="5697"/> with <SpecialActionKey name="hypernovalaunch"/> inside the hitbox. Then, drop your <Skill id="5516"/> and follow with the usual burst.
 
 ### _Bloom phases_
@@ -304,7 +303,7 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 
 ### _Archdiviner_
 
-[comment]: <> (nothing to port from original guide, was empty)
+(nothing to port from original guide, was empty)
 
 ### **3rd Phase (70%-50%)**
 
@@ -316,7 +315,7 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 
 ### _Gladiator Phase_
 
-[comment]: <> (nothing to port from original guide, was empty)
+(nothing to port from original guide, was empty)
 
 ### **5th Phase (40%-30%)**
 

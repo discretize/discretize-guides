@@ -8,16 +8,63 @@ date: '2020-07-25'
 
 <ConditionalComponent condition="pug">
 <Boss name="mama" video="" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+<Message>
+This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates. 
+</Message>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2143"/>.
 - It makes sense to use [consumables](/guides/consumables) on the adds!
 </Boss>
 
-<Message>
-This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates. 
-</Message>
+### **1st Phase**
 
---- WIP
+- <Skill name="Sicem"/> as soon as MAMA is vulnerable.
+- <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
+- Swap weapons.
+- <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
+
+### _1st Add_
+
+- Help CCing with <Skill id="45743"/>.
+- Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>.
+
+### **2nd Phase**
+
+- When you go back back to MAMA, autoattack on sword/axe. You can use <Skill name="Monarchs leap"/> to jump back to MAMA if you want.
+- <Skill name="Path of scars"/> when it is off cd. 
+- Swap weapons.
+- <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
+- <Skill name="Rapid Fire"/>.
+- <Skill name="Cold Snap"/> to summon the frost spirit into the bubble.
+- You can start walking to the 2nd add spawn and longbow auto-attacking once the bubble attack has completed. 
+
+### _2nd Add_
+
+- Help CCing with <Skill id="45743"/>.
+- Precast <Skill name="Barrage"/> to hit MAMA and the add.
+- Use a mix of <Skill name="Rapid Fire"/> and autoattacks to kill the add.
+
+### **3rd Phase**
+
+- <Skill name="Sicem"/>.
+- <Skill name="Point Blank Shot"/> to CC and proc <Item id="84505"/>.
+- Swap weapons.
+- <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
+- Once MAMA hits 25% you can use <Skill name="Monarchs Leap"/> for a free leap away from the poison field and get to the add faster.
+
+### _3rd Add_
+
+- Resummon your <Skill id="12497"/> as it has probably died by now.
+- Swap weapons as soon as it is off cd (<Skill name="Path of scars"/> if you can before swapping). 
+- Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>.
+
+### **4th Phase**
+
+- Try to cast <Skill name="Barrage"/> so it doesn't get interrupted by MAMA jumping.
+- Use <Skill name="Point Blank Shot"/> and <Skill id="45743"/> to CC and proc <Item id="84505"/>.
+- <Skill name="Rapid Fire"/>.
+- Use your DPS skills as soon as they come off cd and don't cry from having to auto-attack on longbow.
+
 
 </ConditionalComponent>
 
@@ -89,7 +136,44 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 - Take <Trait id="2128"/>.
 </Boss>
 
--- WIP 
+
+### **1st Phase**
+
+- Summon <Skill name="Frostspirit"/> when you go through the portal.
+- Precast <Skill id="5531"/> and then <Skill name="Barrage"/>.
+- <Skill name="Frosttrap"/> as soon as your first trap procs so you have both ticking at the same time.
+- <Skill name="Sicem"/> as soon as Siax is targetable.
+- <Skill name="Rapidfire"/> and <Skill id="41524"/> before the breakbar.
+- <Skill id="45743"/> followed by <Skill name="Pointblankshot"/> to CC.
+- When the bar breaks use <Skill name="Worldlyimpact"/> then swap weapons and <Skill name="Path of scars"/> to land both attacks into <Effect name="Exposed"/>.
+- You shouldn't use <Skill name="Whirling defense"/> in phase 1.
+ 
+### _1st Add_
+
+- Use <Skill id="12482"/> to get to the add quickly.
+- Kill it with <Skill name="Whirling defense"/> and finish with autoattacks if that isn't enough.
+
+### **2nd Phase**
+
+- Use <Skill name="Hornet Sting"/> to get back to Siax. 
+- Use <Skill name="onewolfpack"/> in the middle to share it to your allies.
+- Autoattack and use <Skill name="Path of scars"/>, <Skill id="45743"/> and <Skill id="41524"/>.
+- Swap to longbow at around 40% so weapon swap is back off cd for phase 3.
+
+### _2nd Add_
+
+- You want to stand at range to benefit from <Trait name="Farsighted"/> as well as you might want to use <Skill name="wehealasone"/> to make sure you have <Trait id="974"/> and <Item id="24836"/> as damage modifiers to kill the add.
+- Use longbow skills to kill your add: <Skill name="pointblankshot"/> and <Skill name="rapidfire"/>.
+- The remaining damage should be dealt by the <Specialization name="Dragonhunter"/> with a <Skill name="Swordofjustice"/>.
+- Once the add is dead precast <Skill name="Barrage"/> on Siax for phase 3.
+
+### **3rd Phase**
+
+- <Skill name="sicem"/> and <Skill name="Frost trap"/> once Siax is vulnerable.
+- Swap weapons.
+- Use <Skill name="Worldly impact"/> to make sure you have quickness, <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
+- <Skill id="45743"/> and <Skill id="41524"/> if Siax still isn't dead.
+
 </ConditionalComponent>
 
 
@@ -463,7 +547,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 </Boss>
 ### **Precast**
 
-- Place a portal next to the mistlock and use <Effect name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
+- Place a portal next to the mistlock and use <SpecialActionKey name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
 - Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
 - Precast <Skill id="5531"/> and <Skill name="Barrage"/> before the boss is activated.
@@ -493,7 +577,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 
 The <Specialization name="weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
 - You can use <Skill name="Fieryrush"/> or <Skill name="Worldlyimpact"/> if it's off cooldown  to damage the Archdiviner. 
-- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing. Dodge backwards through the boss after using it as there will be a laser beam which fears.
+- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <SpecialActionKey name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing. Dodge backwards through the boss after using it as there will be a laser beam which fears.
 - When the Archdiviner dies, precast <Skill id="5531"/> -> <Skill name="Barrage"/> -> <Skill name="Frosttrap"/>.
 
 ### **3rd Phase (70%-50%)**
@@ -559,7 +643,7 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 </Boss>
 ### **Precast**
 
-- Place a portal next to the mistlock and use <Effect name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
+- Place a portal next to the mistlock and use <SpecialActionKey name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
 - Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
 - Precast <Skill id="5531"/> and <Skill name="Barrage"/> before the boss is activated.
@@ -589,7 +673,7 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 
 The <Specialization name="weaver"/> should give you a <Skill name="conjurefierygreatsword"/> in the Archdiviner phase. 
 - You can use <Skill name="Fieryrush"/> or <Skill name="Worldlyimpact"/> if it's off cooldown  to damage the Archdiviner. 
-- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <Effect name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing. Dodge backwards through the boss after using it as there will be a laser beam which fears.
+- When the Archdiviner gets a CC bar use <Skill name="Fierywhirl"/> in combination with <SpecialActionKey name="hypernovalaunch"/> to get all hits on the Archdiviner as well as CCing. Dodge backwards through the boss after using it as there will be a laser beam which fears.
 - When the Archdiviner dies, precast <Skill id="5531"/> -> <Skill name="Barrage"/> -> <Skill name="Frosttrap"/>.
 
 ### **3rd Phase (70%-50%)**
