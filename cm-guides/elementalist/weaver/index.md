@@ -14,9 +14,9 @@ date: '2020-09-17'
 
 <ConditionalComponent condition="static">
 
-This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
 
-<Boss name="m.a.m.a." video="" videoCreator="" foodId="43360" utilityId="50082" heal="arcanebrilliance" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131" >
+<Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" heal="arcanebrilliance" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131" >
+This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
 
 </Boss>
 
@@ -123,7 +123,7 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 **Annnotation:**
 
-[]: # (Take a look at this extra note unsure if arcaneblast should be taken in the first place. might need to be moved to precast)
+(Take a look at this extra note unsure if arcaneblast should be taken in the first place. might need to be moved to precast)
 - Take <Skill id="5624"/> instead of <Skill id="5539"/> with <Trait id="328"/> trait. Precast your first <Skill id="5624"/> before taking mistlock.
 
 </ConditionalComponent>
@@ -137,8 +137,8 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 
 <ConditionalComponent condition="static">
+<Boss name="ensolyss" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" heal="arcanebrilliance" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 This build only works if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
-<Boss name="enso" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" heal="arcanebrilliance" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 
 </Boss>
 
