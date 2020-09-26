@@ -145,21 +145,30 @@ The boss has multiple phases themed around the different elements air, fire, wat
 </Grid>
 
 #### Air Phase <Label>100%-66%</Label>
+<Grid>
+<GridItem xs="12" sm="7">
 After crossing the green line the fight starts. After about one second Ai dashes to a randomly chosen side and a CC bar appears which should be broken as soon as possible to get the <Effect name="Exposed"/> buff. Ideally the group phases her in the corner, else she will repeat the attack pattern one more time. 
 
 If you do not manage to bring her to 66% after the second side burn additional mechanics have to be done: collecting 2-3 <Uncategorized name="chargedleap"/> (depending on the height) to remove the clouds above the white AoEs. 
 
+</GridItem>
+<GridItem xs="12" sm="5">
+<GifPlayer caption="Collect orbs to jump in white circles" url="https://cdn.discordapp.com/attachments/662333637143822339/759378636368510996/airphase.webm"/>
+
+</GridItem>
+</Grid>
+
 #### Meteor Phase <Label>66%-33%</Label>
 <Grid>
-<GridItem sm="7">
+<GridItem xs="12" sm="7">
 After bringing the boss down to 66% it gets <Effect name="Invulnerability"/> and spawns meteor impact AoEs. Outrun them like a turtle (there is enough time even with roleplay walk). After the third set of impacts the boss reappears. Be aware, there is a fourth set of impacts encompassing 4 meteors covering the boss. Dodge this! Two players get assigned another meteor AoE that they should place outside (in a non static team) of the stack (in a coordinated team just ignore it by dodging at the right time). 
 
 An AoE around the boss starts to expand launching a powerful attack that downs any ally, that did not seek shelter behind a rock. Be aware, there will only be one rock in Challenge Mode. The rocks that disappear are glowing red before crumbling. 
 
 After the meteor attack the attack pattern from phase 1 repeats. After about a second the boss dashes to a randomly chosen side, a CC bar appears and you burst to 33%. 
 </GridItem>
-<GridItem sm="5">
-<GifPlayer caption="Meteor AoE" url="https://cdn.discordapp.com/attachments/637966976010027028/759334474214932501/meteorgif.webm"/>
+<GridItem xs="12" sm="5">
+<GifPlayer caption="Meteor AoE" url="https://cdn.discordapp.com/attachments/662333637143822339/759371940090871838/meteor.webm"/>
 
 </GridItem>
 </Grid>
@@ -173,8 +182,14 @@ Move counter clockwise and contiue removing the dark clouds with the green AoEs.
 After a long roleplay Ai transforms into her demon form and the whole arena gets darker. This part of the phase does not have distinct phases like the first one but instead has checkpoints at 66% and 33% that when passed, adds new mechanics to the fight. 
 
 #### Pre-Sorrow<Label>100%-66%</Label>
+<Grid>
+<GridItem xs="12" sm="7">
 After recovering from being tethered by her Doubt the boss will initially dash in a random direction into the wall and start her attack pattern. Be careful to not stand in her dash path or to simply dodge through it as it deals heavy damage. Upon hitting the wall lasers will start to spawn in a set attack pattern that will be consistant throughout the fight this is also when the first breakbar appears which lasts 7 seconds. The hitboxes of the lasers are quite thin and it is therefore possible to stand inbetween two lasers and not get hit. After 5 waves of lasers Ai will dash again in a random direction towards a wall. This is when the first split phase will occur, a bunch of heavy ticking damage AoE's will spawn around the boss aswell as very large expanding circles around each players. Make sure to spread out to avoid heavy damage. She will then do a series of basic attacks before finally doing another split phase with a slightly different AoE pattern on the floor. 
-
+</GridItem>
+<GridItem xs="12" sm="5">
+<GifPlayer caption="Avoid getting hit by the lasor attack pattern" url="https://cdn.discordapp.com/attachments/662333637143822339/759379953451401236/shadowphasestartvol2.webm"/>
+</GridItem>
+</Grid>
 She will keep dashing around the arena and mixing and matching her abilities described above until she dashes to the middle of the arena. The only difference with being in the middle of the arena is that during the split phase instead of pulsing AoE's, lasers appear that will converge once the player specific AoE's explode. Be careful when walking back into the boss as these lasers will converge on her in two waves and deal heavy damage.
 
 From this point onward the boss will mostly stay in the center of the arena, dashing out only to instantly dash back in, or only staying on the wall for the 5 waves of laser attacks.
