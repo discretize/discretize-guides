@@ -209,7 +209,14 @@ Any AoE's on the floor prior to her hitting 66% will still last the full duratio
 </Message>
 Upon hitting 66% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena. She will then instantly start channeling and pulsing out AoE's in a set ring pattern. Where the first ring is done, second is in the middle and third is far from the boss. However no AoE's will spawn directly next to the boss so staying in melee range is safe. There are also small safe zones between the AoE's.
 
+<Grid>
+<GridItem xs="12" sm="4">
+<GifPlayer caption="CCing the Sorrow" url="https://cdn.discordapp.com/attachments/662333637143822339/759492028089761843/beamz.webm"/>
+</GridItem>
+<GridItem xs="12" sm="8">
 At the same time a Sorrow will spawn, this mob will spawn at a random position inside the middle ring of AoE's, a few seconds after the boss begins channeling. You can tell where the Sorrow will spawn a few seconds before thanks to a small area of the arena lighting up at its eventual spawn location. The Sorrow will start channeling a devastating attack that will instantly down the whole party if it completes channeling. To prevent this the Sorrow must be killed or it's breakbar must be broken. Ranged CC such as <Skill name="Sanctuary"/> or <Skill name="Darkrazors Daring"/> is preferable as you get to stay inside the safe zone near the boss. Consumables such as <Item id="8678"/> are also very powerful due to their ranged nature.
+</GridItem>
+</Grid>
 
 At the same time as the Sorrow spawning 5 Fears will spawn on the perimeter of the arena and slowly start tracking the players and moving towards them. Getting touched by a fear will knock you down for a long period of time and apply moderate damage. 15 seconds after spawning the fears will explode dealing heavy AoE damage. Simply walk away from them and you will stay safe.
 
