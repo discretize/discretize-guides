@@ -11,8 +11,7 @@ skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
 code: '[&DQQIGiA7Nyp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
-nightmareguide: '/cm-guides/ranger/soulbeast/nightmare'
-shatteredguide: '/cm-guides/ranger/soulbeast/shatteredobservatory'
+cmguides: '/cm-guides/ranger/soulbeast'
 classification: [5, 5, 4, 3, 5]
 ---
 
@@ -121,7 +120,7 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 <Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128"/>
 </GridItem>  
 <GridItem sm="5">
-<Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+<Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3="Frost Trap" eliteId="45717"/>
 <Card title="Pets">
 | | |
 | -- | -- |
@@ -129,6 +128,9 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>. |
 | <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
 </Card>  
+<Card title="Warhorn">
+Play warhorn whenever you can't precast <Skill name="Barrage"/> and also won't get to cast a second <Skill name="Barrage"/>.
+</Card>
 </GridItem>
 </Grid>
 
@@ -141,6 +143,7 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 | <Trait name="Clarion Bond" size="big" disableText/> | Can be useful if the blast and team <Boon name="Might"/> is more advantageous than the self <Boon name="Might"/> from <Trait name="Huntersgaze"/>. |
 | <Trait name="Natural healing" size="big" disableText/> | Take this instead of <Trait name="Two-handed training"/> if you are running longbow and want some passive healing. |
 | <Trait id="2143" size="big" disableText/> | On short T4 fights you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> for your allies then swap traits right before you get in combat. |
+| <Trait name="potentally" size="big" disableText/> | For longer encounters, more <Boon name="Might"/> generation. |
 </Card>
 <Card title="Skirmishing and Fractals">
 Running Skirmishing in fractals is quite a niche choice, you need to satisfy **both of the following requirements:**
@@ -155,11 +158,13 @@ If both of these requirements then you can swap Marksmanship for Skirmishing wit
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill name="Frost Trap" size="big" disableText/> | A replacement for <Skill name="Signet of the Wild"/> on short or phased fights. For more info on when to run this read the guide tab! |
+| <Skill name="Signet of the wild" size="big" disableText/> | A replacement for <Skill name="Frost Trap"/>. For more info on when to run this read the CM-Guides! |
 | <Skill name="Moa Stance" size="big" disableText/> | Allows all boons that are applied during its uptime to last longer, great for prestacking. |
 | <Skill name="Quickening Zephyr" size="big" disableText/> | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>. |
 | <Skill name="Dolyak Stance" size="big" disableText/> | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles). |
 | <Skill name="sharpeningstone" size="big" disableText/> | Can be used before mistlock precast for and swapped with a usual utility for some extra opener DPS. |
+| <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai trin and Artsariiv. |
+
 </Card>
 
 <Card title="Defiance Bar Damage">
@@ -190,7 +195,7 @@ In PuGs, however, it is quite hard to predict when the boss will be CCed as well
 For your second weapon set you either run greatsword or longbow:
  
 - Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
-- Greatsword on the other side offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios.
+- Greatsword on the other side offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill name="swoop"/>.
 - In order to proc <Item id="84505"/> you merely need to use any CC skill (such as <Skill id="45743"/> or <Skill id="12511"/>) whilst the enemy is using an ability.
 
 **Pets:**
@@ -314,3 +319,4 @@ Underwater the pet you use for DPS depends on the situation just like above land
 **Bonus Tips:**
 - <Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/fractals/aquatic-ruins) often has <Instability name="Afflicted"/>. 
 - If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
+- At the end of a phase you can use <Skill name="Feeding frenzy"/> (Harpoon 3) and <SKill name="mercyshot"/> (Harpoon 4) again to finish the boss.
