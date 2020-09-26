@@ -222,7 +222,7 @@ For your second weapon set you either run greatsword or longbow:
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
 For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
-<Video title="Soulbeast openers" caption="by Stellan [dT], edited by Vince [dT]" youtube="SkwuNXOmvhA"/> 
+<Video title="Soulbeast openers" caption="by Stellan [dT], edited by Vince [dT]" youtube="0obkDd8lCTA"/> 
 
 </GridItem>
 
