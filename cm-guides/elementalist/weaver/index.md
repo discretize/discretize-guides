@@ -169,8 +169,22 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 </ConditionalComponent>
 
-<Divider text="Skorvald"/>
-**Precast**
+<ConditionalComponent condition="pug">
+
+
+</ConditionalComponent>
+
+<ConditionalComponent condition="static">
+
+<Boss name="skorvald" video="DaKI7Ccr_Ss" videoCreator="Tym [dT]" foodId="91805" utilityId="9443" heal="arcanebrilliance" utility1="unravel" utility2="glyphofstorms" utility3="arcaneblast" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131"> 
+- Make sure to drop your <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="Soulbeast"/> can pick it up before taking the Portal
+</Boss>
+<Message>
+One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four _Elite Flux Anomalies_. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
+</Message>
+
+### **Prestacking**
+
 - Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
 - Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
 - Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
@@ -178,43 +192,50 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 - Take the mistlock.
 - Cast <Skill id="5531"/>, drop your <Skill id="5516"/> and cast <Skill id="5501"/> where Skorvald spawns. Equip your Sword/Dagger and attune to <Skill id="5494"/>/<Skill id="5494"/> before the <Skill id="5501"/> animation finishes and start the boss!
 
+### **100%-66%**
 
-
-**100%**
 - Cast <Skill id="5737"/> right as Skorvald spawns.
 - Cast <Skill id="5687"/> to CC Skorvald and do your burst.
 
-**Anomalies**
+### _Islands_
+
 - Make sure to blast your fire fields and use <Skill id="5529"/> to travel faster between anomalies.
 - Drop your <Skill id="5516"/> on the 4th platform before taking the Portal back to the boss.
 - Don't get knocked, jump/dodge the waves.
 - Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the Portal back to Skorvald.
 
-**66%**
+### **66%-33%**
+
 - Start with <Skill id="5531"/> on your <Skill id="5516"/>, drop it.
 - Cast <Skill id="5737"/> and do your burst.
 
-**Anomalies**
+### _Islands_
 - Make sure to blast your fire fields and cast <Skill id="5529"/> to travel faster between anomalies.
 - Don't get knocked, jump/dodge the waves.
 - Be on <Skill id="5494"/>/<Skill id="5494"/> while taking the Portal back to the boss.
- 
 
-**33%**
+### **33%-0%**
+
 - Cast <Skill id="5687"/> to CC the boss and do your burst.
 - Be on max melee range before the boss starts spinning, don't die like a scrub.
 
-**Tryhard/Static run**
-- Take <Skill id="44612"/> instead of <Skill id="40183"/> to get to <Skill id="5492"/>/<Skill id="5492"/> faster for the super quick burst phases (Also ez <Boon name="Might"/>).
-- Make sure to drop your <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="Soulbeast"/> can pick it up before taking the Portal
-<Message>
-One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four _Elite Flux Anomalies_. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
-</Message>
+</ConditionalComponent>
 
-<Video title="Video Guide by Tym" youtube="DaKI7Ccr_Ss"/>
+---
 
-<Divider text="Artsariiv"/>
-**Precast**
+<ConditionalComponent condition="pug">
+
+</ConditionalComponent>
+
+<ConditionalComponent condition="static">
+
+<Boss name="Artsariiv" video="DaKI7Ccr_Ss" timestamp="109" videoCreator="Tym [dT]" foodId="91805" utilityId="9443" heal="arcanebrilliance" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131">
+- Play <Trait name="ragingstorm"/> over <Trait name="stormsoul"/>!
+- Mid-strategy: the strategy is focused around phasing the boss in the middle before she moves.
+</Boss>
+
+### **Prestacking**
+
 - Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
 - Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
 - Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
@@ -222,64 +243,87 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 - Take the mistlock.
 - As soon as someone catches an orb to start the encounter, use <Skill id="5531"/> and drop your <Skill id="5516"/>. Cast <Skill id="43762"/>, <Skill id="5548"/>, attune to <Skill id="5492"/>/<Skill id="5492"/> and cast <Skill id="5501"/>, then equip sword/dagger. This is a tight precast so make sure you practice it.
 
-**100%**
+### **100%-66%**
+
 - Cast <Skill id="45313"/>, <Skill id="5557"/> and <Skill id="44451"/> when Artsariiv is in the the middle. Use <SpecialActionKey name="hypernovalaunch"/> when she moves and attune to <Skill id="5494"/>/<Skill id="5494"/> to cast <Skill id="5737"/>.
 - Use <Skill id="5687"/> to break the CC bar.
 
-**Split Phase**
-- Cast <Skill id="44998"/> and <Skill id="5687"/>.
-- Use >metal rod<. 
+### _Add Phases_
 
-**66%**
+- Cast <Skill id="44998"/> and <Skill id="5687"/>.
+- Use <Item name="metalrod"/>. 
+
+### **66%-33%**
+
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
 - Blast your fire field for might in the middle.
 - Use <SpecialActionKey name="hypernovalaunch"/> to go to the corner.
 - Use <Skill id="5737"/> if it's off cd, else use <Skill id="5736"/> and DPS.
 
-**33%**
+### **33%-0%**
 - Start in <Skill id="5494"/>/<Skill id="5494"/> and do your burst in the middle.
 - Blast your fire field for might in the middle.
 - Use <SpecialActionKey name="hypernovalaunch"/> to go to the corner.
 - Use <Skill id="5737"/> and do big deeps.
 
-**Tryhard/Static**
-- There are many ways to tryhard this encounter, which shall not be discussed here in depth.
-- You can run <Skill id="44612"/>, start the precast on  <Skill id="5492"/>/ <Skill id="5494"/> and use  <Skill id="5548"/>, <Skill id="43762"/> and  <Skill id="5501"/> before the boss starts.
-- Watch tym's video on 100 CM weaver rotations for more clarity.
-<Message>
-Advanced groups can let the second _Corporeal Reassignment_ trigger and `/gg` the third to save time. But if you failed the first nuke always make sure to kill the second _Temporal Anomaly_. Also sometimes there are communication issues, so if you have the third _Corporeal Reassignment_ always check if someone killed the _Temporal Anomaly_, before killing yourself.
-</Message>
+</ConditionalComponent>
 
-<Video title="Video Guide by Tym [1:49]" youtube="DaKI7Ccr_Ss" timestamp="109"/>
+---
 
-<Divider text="Arkk"/>
-**Precast**
+
+<ConditionalComponent condition="pug">
+
+</ConditionalComponent>
+
+<ConditionalComponent condition="static">
+
+<Boss name="Arkk" video="DaKI7Ccr_Ss" timestamp="212" videoCreator="Tym [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="severance" weapon2OffInfusionId="37131">
+- Play <Trait name="smashbrawler"/>!
+</Boss>
+
+### **Prestacking**
+
 - Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
 - Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
 - Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
 - Equip a staff and cast <Skill id="5516"/>. 
 - Take the mistlock.
-
-**Tryhard Precast**
-- **Do this only if you are on voice with your static**.
 - Use <SpecialActionKey name="hypernovalaunch"/>/Portal to go the the platform early, cast <Skill id="5531"/> and drop your <Skill id="5516"/>. Cast <Skill id="5501"/> on your staff, then equip your Sword/Dagger and shout on voice to start the boss. This is a tight precast so make sure you practice it otherwise staff weaver RIP.
 
-**100%**
+### **1st Phase (100%-80%)**
+[comment]: <> (this part doesnt make sense with the precast needs modifications)
 - Attune to <Skill id="5494"/>/<Skill id="5494"/> as soon as the encounter starts. Cast <Skill id="5531"/>, <Skill id="5737"/> and <Skill id="5697"/> with <SpecialActionKey name="hypernovalaunch"/> inside the hitbox. Then, drop your <Skill id="5516"/> and follow with the usual burst.
 
-**Solar Bloom**
+### _Bloom phases_
+
 - For this phase start on <Skill id="5494"/>/<Skill id="5492"/> and auto attack the bloom once, then attune to <Skill id="5494"/>/<Skill id="5494"/> to trigger <Trait id="222"/> on the bloom to push it into the pillar. This is the fastest way to do your bloom.
 
-**80% and 50%**
+### **2nd Phase (80%-70%)**
+
 - <Skill id="43803"/> -> <Skill id="43074"/> -> <Skill id="5529"/> -> <Skill id="45313"/> -> <Skill id="44451"/> -> <Skill id="5557"/>.
 
-**70%**
+### _Archdiviner_
+
+[comment]: <> (nothing to port from original guide, was empty)
+
+### **3rd Phase (70%-50%)**
+
 - Cast <Skill id="5737"/> and the usual burst.
 
-**40%**
+### **4th Phase (50%-40%)**
+
+- <Skill id="43803"/> -> <Skill id="43074"/> -> <Skill id="5529"/> -> <Skill id="45313"/> -> <Skill id="44451"/> -> <Skill id="5557"/>.
+
+### _Gladiator Phase_
+
+[comment]: <> (nothing to port from original guide, was empty)
+
+### **5th Phase (40%-30%)**
+
 - Precast <Skill id="5516"/> as the phase is starting, cast <Skill id="5531"/> and <Skill id="5697"/> with <SpecialActionKey name="hypernovalaunch"/> inside the hitbox and the drop it.
 
-**30%**
+### **6th Phase (30%-0%)**
+
 - Pick up the <Skill id="5516"/> and open with <Skill id="5531"/> and the drop it. Use <Skill id="5737"/> and follow with the usual burst.
- 
-<Video title="Video Guide by Tym [3:32]" youtube="DaKI7Ccr_Ss" timestamp="212"/>
+
+</ConditionalComponent>
