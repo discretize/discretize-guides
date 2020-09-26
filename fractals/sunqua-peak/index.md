@@ -159,7 +159,8 @@ An AoE around the boss starts to expand launching a powerful attack that downs a
 After the meteor attack the attack pattern from phase 1 repeats. After about a second the boss dashes to a randomly chosen side, a CC bar appears and you burst to 33%. 
 </GridItem>
 <GridItem sm="5">
-![Meteor gif](https://cdn.discordapp.com/attachments/642291107463692290/758795960339005542/meteorgif.gif)
+<GifPlayer caption="Meteor AoE" url="https://cdn.discordapp.com/attachments/637966976010027028/759334474214932501/meteorgif.webm"/>
+
 </GridItem>
 </Grid>
 ### Water Phase <Label>33%-0%</Label>
