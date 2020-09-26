@@ -13,8 +13,7 @@ conditions:
   ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poisoned', 'Blinded']
 code: '[&DQg1GTIlIjYoDygPgQCBAHMBcwF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Discord: Jes#6596'
-nightmareguide: '/cm-guides/necromancer/reaper/nightmare'
-shatteredguide: '/cm-guides/necromancer/reaper/shatteredobservatory'
+cmguides: '/cm-guides/necromancer/reaper'
 ---
 
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
