@@ -338,7 +338,7 @@ In Phase 3 a <Specialization name="Soulbeast"/> should delay their <Skill name="
 
 
 <ConditionalComponent condition="pug">
-<Boss name="skorvald" video="o7R-tnLH4ws" videoCreator="Elu" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+<Boss name="skorvald" video="o7R-tnLH4ws" videoCreator="Elu" foodId="91805" utilityId="78305" healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
 - If good instabilities, use <Item id="73191"/> as Utility food.
@@ -384,11 +384,9 @@ Spirit Management:
 
 
 <ConditionalComponent condition="static">
-<Boss name="skorvald" video="pcBwuDwX8zo" videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+<Boss name="skorvald" video="pcBwuDwX8zo" videoCreator="Stellan [dT]" foodId="91805" utilityId="73191" healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
-- If good instabilities, use <Item id="73191"/> as Utility food.
-- You can swap <Item id="24868"/> for <Item id="24661"/> in your longbow if you want.
 - Warhorn can be a replacement for Longbow here, <Skill name="Callofthewild"/> is a blast finisher allowing you to stack <Boon name="Might"/> on the islands. You simply use <Skill id="12620"/> before you start attacking in each phase.
 </Boss>
 
@@ -435,7 +433,7 @@ Spirit Management:
 
 
 <ConditionalComponent condition="pug">
-<Boss name="artsariiv" video="o7R-tnLH4ws"  timestamp="112" videoCreator="Elu" foodId="91805" utilityId="50082" healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+<Boss name="artsariiv" video="o7R-tnLH4ws"  timestamp="112" videoCreator="Elu" foodId="91805" utilityId="78305" healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
 - If good instabilities, use <Item id="73191"/> as Utility food.
@@ -484,10 +482,9 @@ Use [consumables](/guides/consumables) to CC the adds.
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
-<Boss name="artsariiv" video="pcBwuDwX8zo"  timestamp="104"  videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+<Boss name="artsariiv" video="pcBwuDwX8zo"  timestamp="104"  videoCreator="Stellan [dT]" foodId="91805" utilityId="73191" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 - Pet: Pet: <Skill id="44617" disableText/> Red Moa.
 - Take <Trait id="2128"/>.
-- If good instabilities, use <Item id="73191"/> as Utility food.
 - Middle strategy assumes you end phases 1 and 3 before Artsariiv reaches the corner, or shortly after.
 </Boss>
 
