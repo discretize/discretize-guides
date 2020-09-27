@@ -3,8 +3,8 @@ title: 'Renegade CM guides'
 build: 'Renegade'
 profession: 'Revenant'
 specialization: 'Renegade'
-date: '2020-07-25'
-author: 'Jin Su Liang.9036'
+date: '2020-09-26'
+author: 'Casual Sophie - Jin Su Liang.9036'
 disableOrganized: 'false'
 ---
 
@@ -78,7 +78,7 @@ disableOrganized: 'false'
 
 ### **100 - 75%**  
 
-* Precast <Skill name="DarkrazorsDaring"/> and <Skill name="IcerazorsIre"/> on MAMA. 
+* Precast <Skill name="DarkrazorsDaring"/>, <Skill name="IcerazorsIre"/>. 
 * <Skill name="Surgeofthemists"/>.
 * <Skill name="legendary Assassin Stance"/>. 
 * <Skill name="Impossibleodds"/>, <Skill name="citadel bombardment"/>, <Skill name="ChillingIsolation"/> 
@@ -192,7 +192,7 @@ disableOrganized: 'false'
 ### **100 - 66%**   
 * Precast <Skill name="Darkrazors Daring"/>, <Skill name="icerazors ire"/>.
 * <Skill name="Legendary Assassin Stance"/>, UI change.
-* <Skill name="Impossible Odds"/>, <Skill name="Frost Storm"/>, <Skill name="Citadel Bombardment"/>, and <Skill name="Frost Fan"/>.
+* <Skill name="Impossible Odds"/>, <Skill name="Frost Storm"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Frost Fan"/>.
 * <Skill name="Legendary Renegade Stance"/>. 
 * <Skill name="Surge of the Mists"/>, <Skill name="Chilling Isolation"/>.
 
