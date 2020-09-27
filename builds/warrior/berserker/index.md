@@ -14,7 +14,7 @@ boons: ['Might']
 code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'SpatiumPrinceps.8927'
 cmguides: '/cm-guides/warrior/berserker'
-classification: [ 5,4, 4, 2,3 ]
+classification: [ 4, 4, 4, 2, 4]
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
