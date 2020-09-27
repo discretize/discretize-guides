@@ -5,6 +5,7 @@ profession: 'Revenant'
 specialization: 'Renegade'
 date: '2020-07-25'
 author: 'Jin Su Liang.9036'
+disableOrganized: 'false'
 ---
 
 <ConditionalComponent condition="pug">
