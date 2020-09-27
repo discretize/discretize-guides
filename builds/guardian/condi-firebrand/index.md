@@ -59,11 +59,12 @@ Note that this build variant gains boon duration from the <Item id="79722"/> and
  <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
-| <Skill id="9093"/> | 300 damage |
 | <Skill id="45402"/> | 150 damage |
 | <Skill name="Hammer of Wisdom"/> | 200 damage |
 | Skill 3 in <Skill name="Tome of Justice"/> (F1) | 150 damage |
 | <Skill name="Chains of light"/> | 325 damage over 6 seconds |
+| <Skill name="sanctuary" /> | 750 damage |
+
 </Card>
 </GridItem>
 
