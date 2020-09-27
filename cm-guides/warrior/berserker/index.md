@@ -5,6 +5,7 @@ profession: 'Warrior'
 specialization: 'Berserker'
 date: '2020-07-25'
 author: 'SpatiumPrinceps.8927'
+disableOrganized: 'false'
 ---
 
 

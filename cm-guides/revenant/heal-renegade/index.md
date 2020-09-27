@@ -5,6 +5,7 @@ profession: 'Revenant'
 specialization: 'Renegade'
 date: '2020-07-25'
 author: 'Janitsu.6284'
+disableOrganized: 'true'
 ---
 
 <Message>
