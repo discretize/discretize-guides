@@ -4,7 +4,6 @@ build: 'Heal-Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
 date: '2020-07-25'
-author: 'Ollie'
 disableOrganized: 'true'
 ---
 
