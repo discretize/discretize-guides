@@ -74,7 +74,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 
 <ConditionalComponent condition="pug">
 
-<Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpent slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+<Boss name="siax" video="7B1LNFpHYdc" videoCreator="SLifeR [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpent slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 - The rotation for scepter/sword is the same for every specialization. **Sword tends to perform much better on both <Specialization name="Firebrand"/> and <Specialization name="Dragonhunter"/>**!
 </Boss>
 
@@ -239,7 +239,7 @@ Keep in mind that if your group is not fast enough, you need to use <Skill name=
 
 <ConditionalComponent condition="pug">
 
-<Boss name="ensolyss" video="" videoCreator="" foodId="91805" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+<Boss name="ensolyss" video="fNWlEAaXS6I" videoCreator="SLifeR [dT]" foodId="91805" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 </Boss>
 
 </ConditionalComponent> 
