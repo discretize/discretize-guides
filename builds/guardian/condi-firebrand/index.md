@@ -156,7 +156,9 @@ When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 </Card>
 </GridItem>
 <GridItem sm="6">
-<Video youtube="U1yYDskt3Cw" caption="by TJ" title="Golem rotation"/>
+<Card title="Golem rotation">
+<Video youtube="U1yYDskt3Cw" caption="by TJ" />
+</Card>
 <Card title="Precasting">
 <Message>
 The most important part is to get the precast of Ashes of Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!

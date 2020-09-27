@@ -189,17 +189,18 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 <Divider text="Rotation / Skill Usage"/>
 
 <Grid>
-<GridItem sm="6">
+<GridItem xs="12" sm="6">
 
 <Card title="Information">
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
 For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
-<Video title="Firebrand openers" caption="by MagicBot [dT], edited by Vince [dT]" youtube=""/> 
-
+<Card title="Firebrand openers">
+<Video caption="by MagicBot [dT], edited by Vince [dT]" youtube=""/> 
+</Card>
 </GridItem>
 
-<GridItem sm="6">
+<GridItem xs="12" sm="6">
 <Card title="Precasting">
 If you have a Mistlock Singularity present you can use these skills for precasts:
 1) Cast <Skill name="tome of justice"/> skill 4 and 5
@@ -215,7 +216,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 </GridItem>
 
 
-<GridItem xs="6">
+<GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 **Scepter/Sword Rotation:**
 1. <Skill name="banesignet" profession="guardian"/>
@@ -234,8 +235,10 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 </Card>
 </GridItem>
 
-<GridItem xs="6">
-<Video youtube="G1Y1u4ZwJh8" caption="MajesticNoodle [BATS]" title="Golem Rotation"/>
+<GridItem xs="12" sm="6">
+<Card title="Golem Rotation">
+<Video youtube="G1Y1u4ZwJh8" caption="MajesticNoodle [BATS]" />
+</Card>
 </GridItem>
 </Grid>
 

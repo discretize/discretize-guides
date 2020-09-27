@@ -229,17 +229,18 @@ If using <Skill id="14483"/>:
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
-<GridItem xs="6">
+<GridItem xs="12" sm="6">
 
 <Card title="Information">
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
 For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
-<Video title="Berserker openers" caption="by Decados [dT], edited by Vince [dT]" youtube="6z6ZvHxHXek"/> 
-
+<Card title="Berserker openers">
+<Video  caption="by Decados [dT], edited by Vince [dT]" youtube="6z6ZvHxHXek"/> 
+</Card>
 </GridItem>
 
-<GridItem xs="6">
+<GridItem xs="12" sm="6">
 <Card title="Precasting">
 - Precast banners - encounter specific. Check out the other tabs!
 - Use both charges of <Skill name="For Great Justice!"/>.
@@ -255,7 +256,7 @@ For that reason you can find a video with openers, that are efficient to use her
 </GridItem>
 
 
-<GridItem xs="6">
+<GridItem xs="12" sm="6">
 <Card title="Skill usage">
 **Ultra short phases (3 seconds):**
 - <Skill name="cycloneaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
@@ -283,7 +284,9 @@ or depending on the phase length:
 </Card>
 </GridItem>
 
-<GridItem xs="6">
-<Video youtube="4tKu5_7qzLM" image="https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2015/08/23e4aElite_Headbutt-590x331.jpg" caption="by Allan [SC]" title="Golem Rotation"/>
+<GridItem xs="12" sm="6">
+<Card title="Golem Rotation">
+<Video youtube="4tKu5_7qzLM" image="https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2015/08/23e4aElite_Headbutt-590x331.jpg" caption="by Allan [SC]" />
+</Card>
 </GridItem>
 </Grid>
