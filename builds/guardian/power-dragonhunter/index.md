@@ -139,7 +139,7 @@ Generally it is important to apply <Boon name="Retaliation"/> when you are about
 <Divider text="Rotation / Skill Usage"/>
 
 <Grid>
-<GridItem sm="6">
+<GridItem xs="12" sm="6">
 
 <Card title="Information">
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
@@ -156,7 +156,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 </Card>
 </GridItem>
 
-<GridItem sm="6">
+<GridItem xs="12" sm="6">
 <Card title="Notes on skill usage:">
 * Always start on scepter/sword
 * Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC. 
@@ -173,7 +173,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 </GridItem>
 
 
-<GridItem xs="6">
+<GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 ***Scepter Rotation:**
 1. <Skill name="banesignet" profession="guardian"/>
@@ -195,8 +195,10 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 </Card>
 </GridItem>
 
-<GridItem xs="6">
-<Video youtube="C98JaabU6_c" caption="by Shetsa [SC]" title="Golem Rotation"/>
+<GridItem xs="12" sm="6">
+<Card title="Golem Rotation">
+<Video youtube="C98JaabU6_c" caption="by Shetsa [SC]" />
+</Card>
 </GridItem>
 </Grid>
 
