@@ -117,6 +117,8 @@ Kill the boss and move on to the final encounter of this fractal.
 
 </Grid>
 
+---
+
 ## Sorrowful Spellcaster <Label>15,000,000 HP</Label>
 
 This section explains CM and non-CM. The first part is for both the same, except that the Sorrowful Spellcaster has more HP and hits harder on CM. Mechanically it is the same. 
@@ -160,6 +162,9 @@ If you do not manage to bring her to 66% after the second side burn additional m
 
 #### Meteor Phase <Label>66%-33%</Label>
 <Grid>
+<GridItem xs="12" sm="5">
+<GifPlayer caption="Dodge the Meteor AoE" url="https://cdn.discordapp.com/attachments/662333637143822339/759371940090871838/meteor.webm"/>
+</GridItem>
 <GridItem xs="12" sm="7">
 After bringing the boss down to 66% it gets <Effect name="Invulnerability"/> and spawns meteor impact AoEs. Outrun them like a turtle (there is enough time even with roleplay walk). After the third set of impacts the boss reappears. Be aware, there is a fourth set of impacts encompassing 4 meteors covering the boss. Dodge this! Two players get assigned another meteor AoE that they should place outside (in a non static team) of the stack (in a coordinated team just ignore it by dodging at the right time). 
 
@@ -167,16 +172,20 @@ An AoE around the boss starts to expand launching a powerful attack that downs a
 
 After the meteor attack the attack pattern from phase 1 repeats. After about a second the boss dashes to a randomly chosen side, a CC bar appears and you burst to 33%. 
 </GridItem>
-<GridItem xs="12" sm="5">
-<GifPlayer caption="Dodge the Meteor AoE" url="https://cdn.discordapp.com/attachments/662333637143822339/759371940090871838/meteor.webm"/>
-
-</GridItem>
 </Grid>
+
 ### Water Phase <Label>33%-0%</Label>
+
+<Grid>
+<GridItem xs="12" sm="7">
 The water phase starts at the entrance of the arena. After a short while a dark cloud appears which needs to be collected by a green AoE that appears around a player. The player closes to the cloud gets tethered to the it and receives the debuff <Uncategorized name="tidalbargain"/>. You can take over the <Uncategorized name="tidalbargain"/> by standing inbetween the tethered person and the cloud.
 
 Move counter clockwise and contiue removing the dark clouds with the green AoEs. During the fourth capture the boss dashes to the side and starts to cast powerful water tornado which deal heavy damage. 
-
+</GridItem>
+<GridItem xs="12" sm="5">
+<GifPlayer caption="Tethers during the water phase" url="https://cdn.discordapp.com/attachments/662333637143822339/759477691207778334/watermemems.webm"/>
+</GridItem>
+</Grid>
 
 ### Part2: Laser disco <Label>Night</Label>
 After a long roleplay Ai transforms into her demon form and the whole arena gets darker. This part of the phase does not have distinct phases like the first one but instead has checkpoints at 66% and 33% that when passed, adds new mechanics to the fight. 
@@ -200,7 +209,14 @@ Any AoE's on the floor prior to her hitting 66% will still last the full duratio
 </Message>
 Upon hitting 66% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena. She will then instantly start channeling and pulsing out AoE's in a set ring pattern. Where the first ring is done, second is in the middle and third is far from the boss. However no AoE's will spawn directly next to the boss so staying in melee range is safe. There are also small safe zones between the AoE's.
 
+<Grid>
+<GridItem xs="12" sm="4">
+<GifPlayer caption="CCing the Sorrow" url="https://cdn.discordapp.com/attachments/662333637143822339/759492028089761843/beamz.webm"/>
+</GridItem>
+<GridItem xs="12" sm="8">
 At the same time a Sorrow will spawn, this mob will spawn at a random position inside the middle ring of AoE's, a few seconds after the boss begins channeling. You can tell where the Sorrow will spawn a few seconds before thanks to a small area of the arena lighting up at its eventual spawn location. The Sorrow will start channeling a devastating attack that will instantly down the whole party if it completes channeling. To prevent this the Sorrow must be killed or it's breakbar must be broken. Ranged CC such as <Skill name="Sanctuary"/> or <Skill name="Darkrazors Daring"/> is preferable as you get to stay inside the safe zone near the boss. Consumables such as <Item id="8678"/> are also very powerful due to their ranged nature.
+</GridItem>
+</Grid>
 
 At the same time as the Sorrow spawning 5 Fears will spawn on the perimeter of the arena and slowly start tracking the players and moving towards them. Getting touched by a fear will knock you down for a long period of time and apply moderate damage. 15 seconds after spawning the fears will explode dealing heavy AoE damage. Simply walk away from them and you will stay safe.
 

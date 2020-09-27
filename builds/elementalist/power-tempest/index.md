@@ -1,7 +1,7 @@
 ---
 title: 'Power Tempest'
 date: '2020-07-25'
-rating: 'T4'
+rating: 'Other'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Tempest'
@@ -15,14 +15,14 @@ code: '[&DQYRPikvMBsXARcBQgHLAL4BTgFQAVABlwCZEgAAAAAAAAAAAAAAAAAAAAA=]'
 
 The <Specialization name="Tempest" text="Power Tempest"/> is a strong DPS variant for fractals with various utilities the <Specialization name="Weaver"/> counterpart doesn't offer.
 
-It has very high burst damage in fast-paced fights and its overall DPS is only contested by the [Sword Weaver](/builds/elementalist/power-sword-weaver) on huge hitboxes.  
+It has very high burst damage in fast-paced fights and its overall DPS is only contested by the [Sword Weaver](/builds/elementalist/weaver) on huge hitboxes.  
 Thanks to <Skill name="Overload Air"/>, the group's damage is buffed by around 1k DPS, so at least one <Specialization name="Tempest"/> is never a bad idea when thinking about group composition.
 
 Apart from great DPS, the build afflicts tons of <Condition name="Vulnerability"/> and helps keeping up <Boon name="Might"/> with <Skill name="Heat Sync"/>.
 
 For projectile-heavy scenarios, <Skill name="Aftershock"/> and <Skill name="Sand Squall"/> can be used, <Skill name="Shocking Aura"/> and <Skill name="Cyclone"/> help against trash mobs and defiance bars.
 
-Contrary to the [Sword Weaver](/builds/elementalist/power-sword-weaver), melee hate like <Instability name="Social Awkwardness"/> or disruptions like <Instability name="Last Laugh"/> don't matter that much since you can stand on range and have access to a multitude of defensive mechanics like <Boon name="Stability"/> and <Trait name="Gale Song"/>.
+Contrary to the [Sword Weaver](/builds/elementalist/weaver), melee hate like <Instability name="Social Awkwardness"/> or disruptions like <Instability name="Last Laugh"/> don't matter that much since you can stand on range and have access to a multitude of defensive mechanics like <Boon name="Stability"/> and <Trait name="Gale Song"/>.
 
 The degree of difficulty is a little bit higher than the other <Specialization name="Elementalist"/> builds, as you need to adhere to many small things to achieve top numbers.  
 The positioning and timing of skills matter a lot, a single mistake can make your DPS end up several thousand below other damage dealers.
@@ -229,3 +229,6 @@ And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off r
 </Card>
 </GridItem>
 </Grid>
+
+<Divider text="Disclaimer"/>
+### These builds are played mostly for fun, to carry individuals or with niche uses like more cleave, boon generation and skips. If you want to know more about what the current meta is and why is it the way it is you can read more about it [here](/guides/meta-explained) or you can look up easy to understand description of classes that are meta, offmeta and more [here!](/what-should-i-play)
