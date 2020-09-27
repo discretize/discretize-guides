@@ -9,7 +9,7 @@ author: 'SpatiumPrinceps.8927'
 
 
 <Message>
-If you are replacing the <Specialization name="Firebrand" />, check <Specialization name="Firebrand" /> [guide](/builds/guardian/hybrid-firebrand) where you will find information regarding swapping to <Specialization name="Dragonhunter"/>.
+If you are replacing the <Specialization name="Firebrand" />, check <Specialization name="Firebrand" /> [guide](/builds/guardian/firebrand) where you will find information regarding swapping to <Specialization name="Dragonhunter"/>.
 </Message>
 
 <Divider text="Mama"/>
