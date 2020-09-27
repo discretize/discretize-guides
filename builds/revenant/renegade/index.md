@@ -15,29 +15,47 @@ author: 'Jin Su Liang.9036'
 cmguides: '/cm-guides/revenant/renegade'
 ---
 
+<Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, an insanely strong party heal and additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>. 
+
+Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesnt matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty. 
+
+Since the <Specialization name="Renegade"/> is a power oriented build it benefits from  <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+
+
 <Divider text="Equipment"/>
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Tabs outlined>
 <Tab title="162 Agony Resistance">
 
 <Grid>
-<GridItem sm="6">
+<GridItem sm="2">
+</GridItem>
+
+<GridItem sm="4">
 80% Boon Duration.
 <Armor weight="Heavy" helmAffix="Diviner" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
 </GridItem>
 
-<GridItem sm="6">
+<GridItem sm="4">
 50% Boon duration.
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
 </GridItem>
 
+<GridItem sm="2">
+</GridItem>
  
-<GridItem sm="6">
+
+
+ <GridItem sm="2">
+</GridItem>
+<GridItem sm="4">
 <BackAndTrinkets backItemAffix="Diviner" accessory1Affix="Berserker" accessory2Affix="Diviner" amuletAffix="Diviner" ring1Affix="Diviner" ring2Affix="Diviner" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 </GridItem>
 
-<GridItem sm="6">
+<GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Diviner" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
+</GridItem>
+<GridItem sm="2">
 </GridItem>
 </Grid>
 </Tab>
@@ -58,22 +76,31 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Tab title="222 Agony Resistance">
 
 <Grid>
-<GridItem sm="6">
+<GridItem sm="2">
+</GridItem>
+<GridItem sm="4">
 80% Boon Duration.
 <Armor weight="Heavy" helmAffix="Diviner" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 </GridItem>
 
-<GridItem sm="6">
+<GridItem sm="4">
 50% Boon duration.
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Diviner" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 </GridItem>
+<GridItem sm="2">
+</GridItem>
  
-<GridItem sm="6">
+
+ <GridItem sm="2">
+</GridItem>
+<GridItem sm="4">
 <BackAndTrinkets backItemAffix="Diviner" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Diviner" ring1Affix="Diviner" ring2Affix="Diviner" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
 </GridItem>
 
-<GridItem sm="6">
+<GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
+</GridItem>
+<GridItem sm="2">
 </GridItem>
 
 </Grid>
@@ -100,24 +127,6 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </Grid>
 
 <Divider text="Guide"/>
-<Grid>
-<GridItem sm="7">
-<Card title="Burst Rotation">
-1. <Skill name="Citadel Bombardment"/>
-2. <Skill name="Chilling Isolation"/>
-3. <Skill name="Shackling Wave"/>
-4. <Skill name="Deathstrike"/>
-5. <Skill name="ChillingIsolation"/>
-</Card>
-</GridItem>
-<GridItem sm="5">
-<Card title="Notes">
-Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/> and while your <Skill name="Impossibleodds"/>. This might not always be possible if you need to reserve energy for boons or in the case that your legend timings are off.
-
-With <Skill name="Legendary Demon Stance"/> you would want to use these abilities with <Skill name="Embrace the darkness"/> on.
-</Card>
-</GridItem>
-</Grid>
 <Grid>
 <GridItem sm="12">
 <Card title="Abilities">
@@ -216,21 +225,7 @@ With <Skill name="Legendary Demon Stance"/> you would want to use these abilitie
 
 </Card>
 </GridItem>
-</Grid>
-<Grid>
-<GridItem sm="12">
-<Card title="Dealing with No Pain, No Gain">
 
-There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "*interrupted*" message.
-
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption"/>
-
-As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the stability, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
-
-</Card>
-</GridItem>
-</Grid>
-<Grid>
 <GridItem sm="12">
 <Card title="Defiance Bar">
 
@@ -248,6 +243,55 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 - <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
 - <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
 
+</Card>
+</GridItem>
+</Grid>
+
+
+
+<Divider text="Rotation / Skill usage"/>
+
+<Grid>
+<GridItem xs="12" sm="6">
+
+<Card title="Information">
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+For that reason you can find a video with openers, that are efficient to use here. 
+</Card>
+<Card title="Renegade openers">
+<Video caption="by Stellan [dT], edited by Vince [dT]" youtube="0obkDd8lCTA"/> 
+</Card>
+</GridItem>
+
+<GridItem xs="12" sm="6">
+<Card title="Dealing with No Pain, No Gain">
+
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "*interrupted*" message.
+
+<Weapons unembossed weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption"/>
+
+As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the stability, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
+
+</Card>
+
+</GridItem>
+
+
+<GridItem xs="12" sm="6">
+<Card title="Burst Rotation">
+1. <Skill name="Citadel Bombardment"/>
+2. <Skill name="Chilling Isolation"/>
+3. <Skill name="Shackling Wave"/>
+4. <Skill name="Deathstrike"/>
+5. <Skill name="ChillingIsolation"/>
+</Card>
+</GridItem>
+
+<GridItem xs="12" sm="6">
+<Card title="Notes">
+Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/> and while your <Skill name="Impossibleodds"/>. This might not always be possible if you need to reserve energy for boons or in the case that your legend timings are off.
+
+With <Skill name="Legendary Demon Stance"/> you would want to use these abilities with <Skill name="Embrace the darkness"/> on.
 </Card>
 </GridItem>
 </Grid>
