@@ -252,25 +252,39 @@ Use first <Skill id="40183"/> precasted for instant <Condition name="Vulnerabili
 </Boss>
 
 ### **Precast**
-- Precast <Skill id="5624"/> for yourself 
-
+- Precast <Skill id="5624"/> close to the boss hitbox and gg/use portal to get back to party.
+- Precast <Skill id="5501"/> when boss is about to be pulled.
+- **NOTE:** It is possible use tempest precast as well if any party member is placing fire field.
 ### **1st Phase**
 
 - <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> ->  <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5725"/> -> <Skill id="5557"/> -><Skill id="44451"/> -><Skill id="5691"/>-> <Skill id="45313"/> 
-- Spam <Skill id="5539"/> during <Effect name="Exposed"/> duration.
-- Complete your auto attack chains and repeat burst until Ensolyss phases.
+- Continue loop until boss is phased.
+- **NOTE:** Save <Skill id="5539"/> after exposed buff for next phases.
+
+### **Splits** 
+- For splits there is some time to blast additional might and be back on <Skill id="5494"/>/<Skill id="5494"/> for incoming phase.
+- Place fire field with <Skill id="5691"/> and attune to <Skill id="5495"/>/<Skill id="5492"/>.  Blast it with <Skill id="40709"/> , attune to <Skill id="5495"/>/<Skill id="5495"/> and use another blast with <Skill id="5690"/>. 
+- Attune to <Skill id="5494"/>/<Skill id="5495"/>, attune to <Skill id="5494"/>/<Skill id="5494"/> just before p2/p3 to get <Trait id="2131"/> buff.
+- Throw <Skill id="5516"/> for  <Specialization name="Soulbeast"/> inside his/her circle.
+- **NOTE:** Do not hesitate to use <Skill id="40709"/>, <Skill id="46447"/>, <Skill id="44405"/> if things are going hot. Just keep in mind to be on <Skill id="5494"/>/<Skill id="5494"/> just as phase starts.
 
 ### **66%**
 
-- Before the boss becomes vulnerable, cast <Skill id="5691"/> and <Skill id="21656"/> so that your party gets some <Boon name="Might"/>.
-- <Skill id="5737"/> -> <Skill id="5687"/> -> <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete your auto attack chain on <Skill id="5492"/>/<Skill id="5494"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="5516"/> (to the point you will stand during the capture phase) -> <Skill id="5517"/> -> <Skill id="5531"/> ->  <Skill id="44451"/> -> <Skill id="45313"/> -> <Skill id="5557"/>.
-- Complete your auto attack chains and get as much damage as you can in the <Effect name="Exposed"/> duration.
+- Before the boss becomes vulnerable blast <Skill id="21656"/> with fire field placed by warrior so that party gets some <Boon name="Might"/>.
+- Precast <Skill id="5531"/> on boss hitbox.
+- Precast <Skill id="5737"/> if its up just at the start of phase.
+- <Skill id="5687"/> -> <Skill id="44998"/> -> <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete your auto attack chain ->  <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
+- Continue loop until boss is phased.
+- Complete auto attack chains and get as much damage as you can in the <Effect name="Exposed"/> duration.
 
 ### **33%**
+- Before the boss becomes vulnerable blast <Skill id="21656"/> with fire field placed by warrior so that party gets some <Boon name="Might"/>.
+- Precast <Skill id="5737"/>
+-   <Skill id="5687"/>-> <Skill id="44998"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Autoattach Chain  -> <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
+- Continue loop with BTTH rotation until boss is phased.
+- Complete auto attack chains and get as much damage as its possible in the <Effect name="Exposed"/> duration.
+- **NOTE:** Try to double dodge CCing attack if phase 15% before bubble and dont have enough dps to kill boss before CCing attack.
 
-- Cast <Skill id="5531"/> and drop your <Skill id="5516"/>.
-- <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5539"/> -> <Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Complete your auto attack chains and get as much damage as you can in the <Effect name="Exposed"/> duration.
 
 </ConditionalComponent>
 
@@ -592,15 +606,15 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 
 ### **Phase 2**
 - Keep an eye on other orbs, try to precast <Skill id="43803"/>.
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="44451"/> -> <Skill id="5691"/> ( for blasts mostly )
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="44451"/> -> <Skill id="5691"/> (for blasts mostly)
 - If group damage is low you can try to fill <Skill id="5557"/> in here.
 
 ### **Archdiviner** 
 - <Skill id="45313"/> on mini boss as fast as possible
 - Throw <Skill id="5516"/> for your <Specialization name="Soulbeast"/>
 - Start attuning to <Skill id="5494"/>/<Skill id="5494"/>
-- While CC bar is up use <Skill id="5697"/> + <SpecialActionKey name="hypernovalaunch"/> combo to cc the mini boss and provide some damage.
-- **NOTE:** Try to avoid corruption fields at any cost, they pretty hurts your phase 3.
+- While CC bar is up use <Skill id="5697"/> + <SpecialActionKey name="hypernovalaunch"/> combo to CC the mini boss and provide some damage.
+- **NOTE:** Try to avoid corruption fields at any cost, they hurt your phase 3 DPS badly.
 
 ### **Phase 3** 
 - Precast <Skill id="5531"/> and <Skill id="5737"/>
