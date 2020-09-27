@@ -5,14 +5,19 @@ profession: 'Guardian'
 specialization: 'Dragonhunter'
 date: '2020-07-25'
 author: 'SpatiumPrinceps.8927'
+disableOrganized: 'true'
 ---
 
-
 <Message>
-If you are replacing the <Specialization name="Firebrand" />, check <Specialization name="Firebrand" /> [guide](/builds/guardian/hybrid-firebrand) where you will find information regarding swapping to <Specialization name="Dragonhunter"/>.
+If you are replacing the <Specialization name="Firebrand" />, check <Specialization name="Firebrand" /> [guide](/builds/guardian/firebrand) where you will find information regarding swapping to <Specialization name="Dragonhunter"/>.
 </Message>
 
-<Divider text="Mama"/>
+<Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+<Message>
+This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates.
+</Message>
+- It makes sense to use [consumables](/guides/consumables) on the adds!
+</Boss>
 
 ### **Precast**
 - Use <Skill name="Empower"/> to help with <Boon name="Might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
@@ -30,9 +35,9 @@ If you are replacing the <Specialization name="Firebrand" />, check <Specializat
 - You can take <Skill name="hammerofwisdom"/> to help CC the adds.
 
 
-<Divider text="Siax"/>
 
-**General guide**
+<Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpent slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+
 - Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reason why <Specialization name="Guardian"/> is very strong at this boss. Do not miss this.
 - Save some <Skill id="9168"/> for a quicker add kill. 
 - It is beneficial to take a sword here to quickly blink to the add.
@@ -40,8 +45,7 @@ If you are replacing the <Specialization name="Firebrand" />, check <Specializat
 - Use <Skill name="Bane Signet"/> to help with CC and buff your party.
 - Use <Skill name="shieldofwrath"/> and <Skill name="Shieldofcourage"/> to block the expanding AoEs.
 - Check with your team if you take <Skill name="Feelmywrath"/>
-
----
+</Boss>
 
 ### **Precast**
 - Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
@@ -72,12 +76,9 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 ### **33%-0%**
 Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Try to end on scepter/sword.
 
-<Divider text="Ensolyss"/>
-### **Precast**
-- Use <Skill name="Empower"/> to help with <Boon name="Might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Use <Skill name="Feelmywrath"/>.
-- You can use <Skill name="hallowed ground"/> for fire field and/or <Skill name="standyourground"/>.
-- Take the mistlock.
+<Boss name="ensolyss" video="" videoCreator="" foodId="91805" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades"  utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+- You can abuse <Skill name="bindingblade"/> here. After Ensolyss spawns the a circle under every party member there is a short period of time where these circles spawn an add which can be abused to get all hits with <Skill name="bindingblade"/>.
+</Boss>
 
 ### **Synopsis**
 - Breakbar should be broken at the start of the fight, use <Skill name="banesignet"/> to help to make it happen.
@@ -88,13 +89,11 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 
 
 
-<Divider text="Skorvald"/>
-### **Precast**
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss.
-- Use <Skill name="Empower"/> to help with <Boon name="Might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Use <Skill name="Feelmywrath"/>.
-- Take the mistlock.
+
+<Boss name="Skorvald" video="" videoCreator="" foodId="91805" utilityId="9443" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+- Bring <Skill name="standyourground"/> if you have the feeling that your team can't cover <Boon name="Stability"/>.
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
+</Boss>
 
 ### **Burn phases**
 Your gameplay is heavily influenced by the DPS your team can pull. If your team has very high DPS (i.e. they phase Skorvald in less than 5 seconds) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
@@ -103,19 +102,13 @@ Your gameplay is heavily influenced by the DPS your team can pull. If your team 
 You can kill the first two adds with a greatsword. You can use traps on the 2nd add, without having them on cooldown when you are back at Skorvald. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weapon swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
 
 
-<Divider text="Artsariiv"/>
-**General**
+<Boss name="Artsariiv" video="" videoCreator="" foodId="91805" utilityId="9443" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+
 - If your team does not have a <Specialization name="Soulbeast"/>, you can take <Skill name="Wall of reflection"/> for reflects. Please don't steal the reflect from a <Specialization name="Soulbeast"/>!
-- Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the <Effect name="Knockback"/> attacks.
+- Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the <Control name="Knockback"/> attacks.
 - Save a <Skill name="shieldofcourage"/> or <Skill name="shieldofwrath"/> for the expanding AoE so you can deal continues DPS during the mid burn.
-
----
-
-### **Precast**
-- Use <Skill name="Empower"/> to help with <Boon name="Might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Use <Skill name="Feelmywrath"/>.
-- Take the mistlock.
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss in a coordinated team.
+</Boss>
 
 ### **100%**
 - If you are not skipping the first Anomaly, you should place the <Skill name="wallofreflection"/> in the middle.  
@@ -134,16 +127,13 @@ You can kill the first two adds with a greatsword. You can use traps on the 2nd 
 - Start on scepter again, use <Skill name="Shield of Wrath"/> to block the expanding AoE and fire everything you have.  
 - When Artsariiv arrives at the corners again immediately place your <Skill name="Wall of reflection"/>.
 
-
-<Divider text="Arkk"/>
-### **Precast**
+<Boss name="Arkk" video="" videoCreator="" foodId="91805" utilityId="50082"  heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+- Play scepter on this encounter
+- Place markers for the blooms 
 - Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss.
-- Use <Skill name="Empower"/> to help with <Boon name="Might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Use <Skill name="Feelmywrath"/>.
-- Take the mistlock.
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
 
----
+</Boss>
 
 ### **Synopsis**  
 - Play scepter here!

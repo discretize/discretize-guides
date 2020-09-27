@@ -20,7 +20,9 @@ The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> was moved to
 
 <Specialization name="Dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
 
-The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/>, <Skill name="standyourground"/>.
+The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/>, <Skill name="standyourground"/>.
+
+Compared to other builds the <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -89,6 +91,18 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="7">
 <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
+<Card title="CC skills">
+| | |
+| -- | -- |
+| <Skill id="9093"/> | 300 damage |
+| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage |
+| <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
+| <Skill id="30273"/> | 150 damage |
+| <Skill name="chainsoflight" /> | 250 damage |
+| <Skill name="hammerofwisdom" /> | 200 damage |
+| <Skill name="sanctuary" /> | 750 damage |
+
+</Card>
 </GridItem>
 
 <GridItem sm="5">
@@ -97,25 +111,71 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Card title="Situational">
 | | |
 | -- | -- |
-| <Skill id="29965" size="big" disableText/> | When your team lacks <Boon name="Quickness"/>.|
-| <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. Can be used to blink to a <Skill id="9168"/>.|
-| <Skill id="9247" size="big" disableText/> | A 1,200 range teleport to an enemy. Very handy for some skips. |
-| <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stunbreak is needed. Preferred over <Skill id="9153"/>. |
-| <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stunbreak is needed. |
+| <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
+| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. |
+| <Skill id="9153" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
 | <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
-| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting 10 seconds. Can be used to counterplay <Instability name="We Bleed Fire"/>.|
-| <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside <Instability name="We Bleed Fire"/>. |
+| <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
+| <Skill name="feelmywrath" size="big" disableText/> | When <Boon name="Quickness"/> or <Boon name="Fury"/> is needed. |
+| <Skill id="9247" size="big" disableText/> | A 1200 range teleport to an enemy. |
+| <Skill name="Purging flames" size="big" disableText/> | Cleanses conditions. |
+| <Skill name="Sanctuary" size="big" disableText/> | Huge CC and projectile destruction. |
+| <Skill name="testoffaith" size="big" disableText/> | Can be precasted for a bit of extra damage. |
+| <Skill name="renewed focus" size="big" disableText/> | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+
 </Card>
 </GridItem>
 </Grid>
 
 
 <Divider text="Details"/>
+As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfecttinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC and sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
+
+Generally it is important to apply <Boon name="Retaliation"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersretribution"/> your heal skill applies long lasting  <Trait name="retribution"/>. Since your <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> share the same cooldown they will line up perfectly. You can also trigger a <Skill id="13677"/> by loosing health below the 75% threshould to trigger <Trait id="648"/>, however you need to be careful to not die. 
+
+
+
+
+<Divider text="Rotation / Skill Usage"/>
 
 <Grid>
-<GridItem sm="7">
-<Card title="General Rotation">
-**Scepter Rotation:**
+<GridItem xs="12" sm="6">
+
+<Card title="Information">
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+For that reason you will find some general notes for skill usage here.
+</Card>
+<Card title="Precasting">
+If you have a Mistlock Singularity present you can use these skills for precasts:
+1) Cast <Skill name="litany of wrath"/> for <Boon name="Retaliation"/>
+2) Blast a fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
+4) Use <Skill name="Stand your ground"/>
+5) Use <Skill name="Feelmywrath"/> 
+6) Use <Skill name="banesignet"/>
+7) Take mistlock
+</Card>
+</GridItem>
+
+<GridItem xs="12" sm="6">
+<Card title="Notes on skill usage:">
+* Always start on scepter/sword
+* Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC. 
+* Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
+* Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at __Artsariiv__, __Arkk__, __Siax__ and __Ensolyss__.
+* Don't interrupt your GS auto-attack chain.
+* In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
+* Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast.
+* Don't waste your key skills on meaningless adds.
+* It's up to you whether you decide to go Scepter or Sword. Sword tends to outperform Scepter, especially in longer encounters.
+
+</Card>
+
+</GridItem>
+
+
+<GridItem xs="12" sm="6">
+<Card title="Golem Rotation">
+***Scepter Rotation:**
 1. <Skill name="banesignet" profession="guardian"/>
 1. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
 1. <Skill name="Sword of Justice" profession="guardian"/>
@@ -135,33 +195,20 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </Card>
 </GridItem>
 
-<GridItem sm="5">
-<Card title="CC skills">
-| | |
-| -- | -- |
-| <Skill id="9093"/> | 300 damage |
-| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage |
-| <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
-| <Skill id="30273"/> | 150 damage |
-| <Skill name="chainsoflight" /> | 250 damage |
-| <Skill name="hammerofwisdom" /> | 200 damage |
-
+<GridItem xs="12" sm="6">
+<Card title="Golem Rotation">
+<Video youtube="C98JaabU6_c" caption="by Shetsa [SC]" />
 </Card>
 </GridItem>
-
-<GridItem sm="7">
-<Card title="Notes">
-* Always start on scepter/sword
-* Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC. 
-* Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
-* Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at __Siax__ and __Ensolyss__.
-* Don't interrupt your GS auto-attack chain.
-* In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
-* Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast.
-* Don't waste your key skills on meaningless adds.
-* It's up to you whether you decide to go Scepter or Sword. Sword tends to outperform Scepter, especially in longer encounters.
-
-</Card>
-</GridItem>
-
 </Grid>
+
+<Divider text="Underwater combat"/>
+
+It is very much recommended to play <Specialization text="Condition Quickness Firebrand" name="Firebrand"/> ([Build](/builds/guardian/condi-firebrand)) since it provides much better DPS compared to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
+
+- open with <Skill name="refraction"/> for <Boon name="retaliation"/>
+- Cast <Skill name="purify"/> and swap to spear. Camp spear now.
+- Priority list:
+  1) <Skill name="Zealots flurry"/> (Spear 2)
+  2) <Skill name="Symbol of spears"/> (Spear 4)
+  3) <Skill name="brilliance"/> (Spear 3)

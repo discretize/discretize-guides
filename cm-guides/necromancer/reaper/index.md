@@ -5,6 +5,7 @@ profession: 'Necromancer'
 specialization: 'Reaper'
 date: '2020-07-25'
 author: 'Discord: Jes#6596'
+disableOrganized: 'true'
 ---
 
 <Divider text="Mama"/>
