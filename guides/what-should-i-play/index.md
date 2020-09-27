@@ -9,7 +9,7 @@ This page introduces all the builds on this website by giving a very short overv
 Outline:
 1. **META:** These builds perform best in a group. [Click here](/guides/meta-explained) to find more out about how and why the current fractal META works well. The META is designed to provide the fastest clear across all fractals.
 2. **OFFMETA:** Builds in this category can substitute builds of the META category, but will provide worse performance in an optimal scenario.
-3. **T4 ONLY:** These builds should never be brought into Challenge Modes (CMs) but stay in T4s exclusively.
+3. **OTHER:** These builds are played mostly for fun, to carry individuals or with niche uses like more cleave, boon generation and skips.
 
 <Divider text="Meta builds"/>
 <Tabs outlined>
@@ -46,7 +46,7 @@ Outline:
 </Tabs>
 
 
-<Divider text="tier 4 fractals ONLY"/>
+<Divider text="Other"/>
 
 <Tabs outlined>
 <Tab title="DPS roles">
