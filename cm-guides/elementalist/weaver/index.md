@@ -247,7 +247,7 @@ Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>.
 
 <ConditionalComponent condition="static">
 
-<Boss name="ensolyss" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" heal="arcanebrilliance" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
+<Boss name="ensolyss" video="0mmm-CBLrn8" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="arcanebrilliance" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 Use first <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>, if phases are long try to use the next ones in <Skill id="5492"/>/<Skill id="5494"/> -> <Skill id="5492"/>/<Skill id="5492"/> to get more <Condition name="Burning"/> stacks. 
 </Boss>
 
