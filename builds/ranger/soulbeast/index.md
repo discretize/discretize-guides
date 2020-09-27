@@ -216,17 +216,18 @@ For your second weapon set you either run greatsword or longbow:
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
-<GridItem sm="6">
+<GridItem xs="12" sm="6">
 
 <Card title="Information">
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
 For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
-<Video title="Soulbeast openers" caption="by Stellan [dT], edited by Vince [dT]" youtube="0obkDd8lCTA"/> 
-
+<Card title="Soulbeast openers">
+<Video caption="by Stellan [dT], edited by Vince [dT]" youtube="0obkDd8lCTA"/> 
+</Card>
 </GridItem>
 
-<GridItem sm="6">
+<GridItem xs="12" sm="6">
 <Card title="Precasting">
 If you have a Mistlock Singularity present you can use this rotation
 1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
@@ -248,8 +249,10 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 </GridItem>
 
 
-<GridItem xs="6">
-<Video youtube="18X3buGk4Mc" caption="by LEFT" title="Golem Rotation"/>
+<GridItem xs="12" sm="6">
+<Card title="Golem Rotation">
+<Video youtube="18X3buGk4Mc" caption="by LEFT" />
+</Card>
 
 <Card title="Golem Rotation">
 1. <Skill name="Barrage"/>
@@ -274,31 +277,32 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 </Card>
 </GridItem>
 
-<GridItem xs="6">
+<GridItem xs="12" sm="6">
 
 
 <Card title="Skill priority">
-| Skill | Dmg | Cast | iDPS |
-| ----- | --- | ---- | ---- |
-| <Skill name="Frost trap"/> | 3900 |	557 | 7001 |
-| <Skill name="hunterscall"/> |  3432	| 460 | 	5282 | 
-| <Skill name="Barrage"/> | 7116	| 1880 | 	3785 | 
-| <Skill name="worldlyimpact"/> | 2240	| 664	| 3373 | 
-| <Skill name="pathofscars"/> | 1354	| 423	| 3201 | 
-| <Skill name="whirling defense"/> | 8940	| 2815	| 3176 | 
-| <Skill name="frenzied attack"/> | 2370	| 756	| 3134 | 
-| <Skill id="12525"/> | 2282	| 807 | 	2828 |  
-| <Skill name="winters bite" profession="ranger"/> | 1411	| 527	| 2679 | 
-| <Skill name="pointblankshot"/> | 948	| 380	| 2497 | 
-| <Skill name="kick" profession="ranger"/> | 1114	| 475	| 2348 | 
-| <Skill name="rapid fire"/> | 4450	| 2005	| 2220 | 
-| <Skill name="charge" profession="ranger"/> | 1340	| 654	| 2050 | 
-| <Skill name="hilt bash"/> + <br/><Skill id="12525"/> | 2934	| 1446	| 2029 | 
-| <Skill name="tail swipe"/> | 1304	| 726 | 	1796 | 
+| Skill | iDPS |
+| ----- | ---- |
+| <Skill name="Frost trap"/> | 7001 |
+| <Skill name="hunterscall"/> |	5282 | 
+| <Skill name="Barrage"/> |	3785 | 
+| <Skill name="worldlyimpact"/>	| 3373 | 
+| <Skill name="pathofscars"/>	| 3201 | 
+| <Skill name="whirling defense"/> 	| 3176 | 
+| <Skill name="frenzied attack"/> | 3134 | 
+| <Skill id="12525"/> |	2828 |  
+| <Skill name="winters bite" profession="ranger"/> | 2679 | 
+| <Skill name="pointblankshot"/> 	| 2497 | 
+| <Skill name="kick" profession="ranger"/> | 2348 | 
+| <Skill name="rapid fire"/> 	| 2220 | 
+| <Skill name="charge" profession="ranger"/> | 2050 | 
+| <Skill name="hilt bash"/> + <br/><Skill id="12525"/> 	| 2029 | 
+| <Skill name="tail swipe"/> | 	1796 | 
 
 
 Dmg: Tooltip damage, berserker, 15x <Item id="37131"/>, merged   
-Cast: average cast time in ms
+Cast: average cast time in ms  
+iDPS: Damage / Cast
 <br/><br/>
 by Elu [SC]
 </Card>
