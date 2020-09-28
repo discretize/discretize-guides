@@ -9,221 +9,240 @@ disableOrganized: 'true'
 ---
 
 <Boss name="mama" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2Id="9125" utility3Id="9093" eliteId="43357" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125" >
-- This suggested "rotation" assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/> ,  <Skill name="restoringreprieve"/> When in range of all 5 allies in order to keep up <Boon name="quickness"/> 
-- <Skill name="banesignet"/> Is timed very specifically for DPS phases (in order to best aid DPS checks) it is therefore very important to time it correctly. This more often the not is timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation BELOW. 
-- This comp resides in the "PuG meta" category and as a result will include some requirements atypical of the META. Including <Skill name="Mantraofliberation"/> which as a result might affect <Boon name="fury"/> Uptime. One must consider all uptimes, including <Boon name="fury"/> when playing in any group especially a PuG. 
-- When constructing the guide for <Specialization name="Firebrand" text="Heal Firebrand"/> we concluded that the single easiest way to "Hard Carry" as a <Specialization name="Firebrand" text="Heal Firebrand"/> on MAMA is to provide reliable CC for the add and boss alike!
-- In a PuG scenario it makes sense to include <Skill name="hammer of wisdom"/> as well as [consumables](/guides/consumables) When playing a <Specialization name="Firebrand" text="Heal Firebrand"/> varient.
+- This rotation assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/>,  <Skill name="restoringreprieve"/> and <Skill name="feelmywrath"/> when in range of all 5 allies in order to keep up <Boon name="quickness"/> and <Boon name="fury"/>! 
+- <Skill name="banesignet"/> is timed for DPS phases (in order to meet DPS checks). It is usually timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation **below**.
+- This comp resides in the "PuG meta" category and as a result will include some requirements atypical of the meta. Including <Skill name="Mantraofliberation"/> which as a result might affect <Boon name="fury"/> uptime. One must consider all uptimes, including <Boon name="fury"/> when playing in any group especially a PuG. 
+- When constructing the guide for <Specialization name="Firebrand" text="Heal Firebrand"/> we concluded that the single easiest way to carry as a <Specialization name="Firebrand" text="Heal Firebrand"/> on _MAMA_ is to provide reliable CC for the adds and boss alike!
+- In a PuG scenario it makes sense to include <Skill name="hammer of wisdom"/> as well as [consumables](/guides/consumables) when playing a <Specialization name="Firebrand" text="Heal Firebrand"/> variant.
 </Boss>
 
+<Message>
+In any significant downtime in your rotation during this run, Use <Skill name="tome of justice"/> Chapter 4 and blast it with <Skill name="Holy Strike"/> this will help upkeep <Boon name="might"/>. Every time a _Knight_ dies it resets your <Skill name="tome of justice"/>.
+</Message>
 
-### **Precast**
+### **Prestacking**
+
 1) <Skill name="Empower"/> 
-2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 second thanks to <Trait name=" liberators vow"/>)
 4)  <Skill name="Feelmywrath"/> 
 5)  <Skill name="banesignet"/>
-6) Take mistlock
+6) Take _Mistlock Singularity_
 7)  <Skill name="Feelmywrath"/> (exclude this usage if running <Skill name="Mantra of liberation"/>)
 8) <Skill name="Empower"/> 
 
-### **Phase 1**
+### **1st Phase**
+
 1)  <Item id="8664"/> To CC
 2)  <Skill name="banesignet"/> to CC
 3)  <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>
 4)  <Skill name="Blazing Edge"/> to finish CC
 
-### *First Add*
-1) Quickly Use <Skill name="hammerofwisdom"/>
-2) Quickly Use <Item id="8474 "/>
-3) (Use a single cast of <Skill name="Mantra of liberation"/> If instant CC failed, Before the knight lands his jump! Situational)
+### _1st Add_
 
-### **Phase 2**
-1)  <Skill name="shieldofjudgment"/> to provide <Boon name="aegis"/> for MAMAs melee attack
+1) Use <Skill name="hammerofwisdom"/>
+2) Use <Item id="8474 "/>
+3) (Use a single cast of <Skill name="Mantra of liberation"/> if instant CC failed, Before the _Knight_ lands his jump!) <Label>Situational</Label>
+
+### **2nd Phase**
+
+1)  <Skill name="shieldofjudgment"/> to provide <Boon name="aegis"/> for _MAMA_'s melee attack
 2)  <Skill name="Shield of absorption"/>
 4) Weapon swap
 5)  <Skill name="Empower"/>
 6)  <Item id="8474  "/> to CC
-7)  <Item id="8759"/> to help CC. (If high DPS DO NOT BREAK defiance bar before 50%)
-8) Quickly cast <Skill name="Tome of courage"/> Chapter 5,4,3 while moving toward the second add. This is for two major reasons: Firstly chapter 3 reflects the projectiles (or red AoEs on the ground which do lethal dmg) and lastly provides <Boon name="protection"/> and <Boon name="resistance"/> when allies are animation locked while CCing the 2nd add.
+7)  <Item id="8759"/> to help CC. (If the DPS is high **DO NOT BREAK** defiance bar before 50%)
+8) Cast <Skill name="Tome of courage"/> Chapter 5,4,3 while moving toward the second add. This is for two major reasons: Firstly chapter 3 reflects the projectiles (or red AoEs on the ground which do lethal damage) and lastly provides <Boon name="protection"/> and <Boon name="resistance"/> when allies are animation locked while CCing the second _Knight_.
 
-### *Second Add*
-1) Quickly Use <Skill name="hammerofwisdom"/>
-2) Quickly Use <Item id="8474 "/>
-3) (Use a single cast of <Skill name="Mantra of liberation"/> if instant CC failed, before the knight lands his jump! Situational)
+### _2nd Add_
+
+1) Use <Skill name="hammerofwisdom"/>
+2) Use <Item id="8474 "/>
+3) (Use a single cast of <Skill name="Mantra of liberation"/> if instant CC failed, before the _Knight_ lands his jump!) <Label>Situational</Label>
 
 
-### **Phase 3**
+### **3rd Phase**
+
 1)  <Skill name="banesignet"/> to CC
 2)  <Item id="8664"/> To CC
 3) Weapon Swap
 4)  <Skill name="Symbol of Vengeance"/> for <Boon name="fury"/>
 5)  <Skill name="Blazing Edge"/> to finish CC
-6) Quickly Cast <Skill name="Tome of resolve"/> Skill 5 Skill 4 and Spam 1 while moving toward the third add
-### *Third Add*
-1) Quickly Use <Skill name="hammerofwisdom"/>
-2) Quickly Use <Item id="8474 "/>
-3) (Use a single cast of <Skill name="Mantra of liberation"/> if instant CC failed, before the knight lands his jump! Provided the final charge remains! Situational)
+6) Cast <Skill name="Tome of resolve"/> skill 5 skill 4 and spam 1 while moving toward the third add
 
-### **Phase 4**
+### _3rd Add_
+
+1) Use <Skill name="hammerofwisdom"/>
+2) Use <Item id="8474 "/>
+3) (Use a single cast of <Skill name="Mantra of liberation"/> if instant CC failed, before the _Knight_ lands his jump! Provided the final charge remains!) <Label>Situational</Label>
+
+### **4th Phase**
+
 1) Help CC with whatever you have.
-2)  <Skill name="shieldofjudgment"/> to provide <Boon name="Aegis"/> for MAMAs Lethal Jump Attack. Use the final charge of <Skill name="restoringreprieve"/> (in panic) to ensure allies do not take damage!
-3) Having saved the last charge on  <Skill name="Mantra of liberation"/> , use it right before mama lands her jump.
-4) Quickly Use <Item id="8759"/> if available.
-5) Quickly Use <Item id="8474 "/>
+2)  <Skill name="shieldofjudgment"/> to provide <Boon name="Aegis"/> for _MAMA_'s lethal jump attack. Use the final charge of <Skill name="restoringreprieve"/> to ensure allies do not take damage!
+3) Having saved the last charge on  <Skill name="Mantra of liberation"/> , use it right before _MAMA_ lands her jump!
+4) Use <Item id="8759"/> if available.
+5) Use <Item id="8474 "/>
 6)  <Skill name="Blazing Edge"/>
 7) <Skill name="Shield of absorption"/> to finish CC
 8) Weapon swap
-9)  <Skill name="Empower"/> To top up <Boon name="might"/>
-
-### **Note**
-In any significant downtime in your "rotation" during this run, Use <Skill name="tome of justice"/> Chapter 4 And blast it with <Skill name="Holy Strike"/> this will aid the upkeep of <Boon name="might"/>. Every knights death will reset your <Skill name="tome of justice"/>
+9)  <Skill name="Empower"/> to max out <Boon name="might"/>
 
 ---
 
 
 <Boss name="siax" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2Id="9084" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125" >
-- This suggested "rotation" assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/>,  <Skill name="restoringreprieve"/> and <Skill name="feelmywrath"/> when in range of all 5 allies in order to keep up <Boon name="quickness"/> and <Boon name="fury"/>! 
-- <Skill name="banesignet"/> is timed very specifically for DPS phases (in order to best aid DPS checks) it is therefore very important to time it correctly. This more often the not is timed for breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation BELOW.
-- Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first "Slam Orange AoE"
-- <Skill name="tome of resolve"/> Chapter 5,4,1 Situationally in order to top up your allies! Remember chapter 5 is a healing effectiveness modifier improving outgoing healing by 33%.
+- This rotation assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/>,  <Skill name="restoringreprieve"/> and <Skill name="feelmywrath"/> when in range of all 5 allies in order to keep up <Boon name="quickness"/> and <Boon name="fury"/>! 
+- <Skill name="banesignet"/> is timed for DPS phases (in order to meet DPS checks). It is usually timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation **below**.
+- Use well timed <Skill name="restoringreprieve"/> to give <Boon name="aegis"/>.
+- <Skill name="tome of resolve"/> Chapter 5,4,1 situationally in order to heal up your allies! Remember Chapter 5 is a healing effectiveness modifier improving outgoing healing by 33%.
 - Siax is a boss that benefits greatly from all party members stacking tightly for heals and meeting the minimum DPS checks.
-- Siax is also a fight which does not rely heavily on CC
-- As a result, it is paramount as a <Specialization name="Firebrand" text="Heal Firebrand"/> you are able to time <Boon name="aegis"/> and <Boon name="stability"/>, while topping up healing SITUATIONALLY. Take <Skill name="retreat"/> If your struggling with consistency!
-- When the group is dealing with the <Instability name="We Bleed Fire"/> , <Boon name="aegis"/> can be stripped by this attack RIGHT BEFORE the halucination AoE fully expands. It is therefore really helpful to take <Skill name="retreat"/> as a backup!
-- See "Phase 2 Part 8" The Guide States one should use <Skill name="tomeofresolve"/> For scholar uptime in Phase 2, this is true for groups ONLY with higher group DPS who meet the DPS checks  and situational timing of the tome can save the group! Try not to use the tome for the benefit of only 1 player during a split.
+- Siax is also a fight which does not rely heavily on CC.
+- As a result, it is paramount as a <Specialization name="Firebrand" text="Heal Firebrand"/> that you are able to time <Boon name="aegis"/> and <Boon name="stability"/>, while topping up healing situationally. Take <Skill name="retreat"/> if you are struggling with consistency!
+- When the group is dealing with the <Instability name="We Bleed Fire"/> , <Boon name="aegis"/> can be stripped by this attack **right before** the hallucination AoE fully expands. It is therefore really helpful to take <Skill name="retreat"/> as a backup!
+- See Phase 2 'step 8' where it states one should use <Skill name="tomeofresolve"/> for Scholar uptime. This is only true for groups **with higher group DPS who meet the DPS checks** and the situational timing of the tome can save the group! Try not to use the tome for the benefit of 1 player only during a split.
 </Boss>
 
 
-### **Precast**
+### **Prestacking**
+
 1)  <Skill name="Empower"/> 
-2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 second thanks to <Trait name=" liberators vow"/>)
 4) <Skill name="Feelmywrath"/> 
 5)  <Skill name="banesignet"/>
-6) Take mistlock
+6) Take _Mistlock Singularity_
 7)  <Skill name="Feelmywrath"/> 
 8)  <Skill name="Empower"/> 
 
-### **Phase 1**
-1)  <Skill name="tome of justice"/> Use Chapter 4
-2)  <Skill name="holystrike"/> to Blast Scorched Aftermath
+### **1st Phase**
+
+1)  <Skill name="tome of justice"/>, use Chapter 4 Scorched Aftermath
+2)  <Skill name="holystrike"/> to blast <Skill name="tome of justice"/>'s Scorched Aftermath
 3) Weapon Swap
 3)  <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>
 4) <Skill name="Blazing Edge"/>
 5)  <Skill name="banesignet"/> to CC (if your groups DPS is high enough it will be up during split)
 5)  <Skill name="Shield of absorption"/>
-6)  <Item id="8474  "/> (If extra CC is required)
-7) If DPS is low be ready to use <Skill name="Retreat"/> to <Boon name="aegis"/> the Halucination AoE (Vital Importance)
+6)  <Item id="8474  "/> <Label>If extra CC is required</Label>
+7) If DPS is low be ready to use <Skill name="Retreat"/> to <Boon name="aegis"/> the Hallucination's AoE (Vital Importance)
 
 
 ### *Split Phase 1*
-1) Position yourself with the renegade using axe to aid DPS on add! (every little helps)
-2)  <Skill name="tomeofresolve"/> Ready if a DPS desperatly needs healing. (Situational)
-3) While Moving back into middle (having killed your add) Quickly use <Skill name="tomeofresolve"/> 5 and 4 (and spam 1) to top players HP, Consider the groups Scholar Uptime! (Situational and only if high DPS)
 
-### **Phase 2**
-1) While <Effect name="exposed"/> Is still on the boss Quickly Weapon Swap
+1) Position yourself with the <Specialization name="Renegade"/> using axe to aid DPS on add!
+2)  <Skill name="tomeofresolve"/> Ready if a DPS desperatly needs healing. <Label>Situational</Label>
+3) While Moving back to _Siax_ use <Skill name="tomeofresolve"/> 5 and 4 and spam 1 to heal players up. <Label>Situational and only if high DPS</Label>
+
+### **2nd Phase**
+
+1) While <Effect name="exposed"/> is still on the boss Weapon Swap
 2)  <Skill name="Empower"/>
-3)  <Skill name="Retreat"/> To <Boon name="aegis"/> the Halucination AoE (Vital Importance)
-
+3)  <Skill name="Retreat"/> To <Boon name="aegis"/> the _Hallucination_'s AoE (Vital Importance)
 4)  <Item id="8474  "/> To CC
 5)  <Item id="8759"/> To Help CC.
 6)  <Item id="8664  "/> (If needed, to finish CC)
-7) Quickly Cast <Skill name="Tome of Courage"/> Skill 5 Skill 4 and Spam 1 (This, if timed correctly, will do three things. Namely: it will <Boon name="aegis"/> the halucination AoE, put <Boon name="stability"/> for the "swipe" attack and ensure the group has <Boon name="protection"/> for when the volatile halucinations pop)
-8) Quickly cast <Skill name="Tome of Justice"/> And Attempt to <Control name="pull"/> the volatile Halucinations using Chapter 3, In order that they do not all pop in middle at once. (This is the moment where groups with LOW DPS will likely wipe and therefor a situational moment where having SAVED your <Skill name="tome of resolve"/> might save the group! - Situational)
+7) Cast <Skill name="Tome of Courage"/> 4 and 5 then use up all charges with skill 1 (This, if timed correctly, will do three things. Namely: it will <Boon name="aegis"/> the _Hallucination_'s AoE, put <Boon name="stability"/> for the "swipe" attack and ensure the group has <Boon name="protection"/> for when the _Volatile hallucinations_ pop)
+8) Cast <Skill name="Tome of Justice"/> and attempt to <Control name="pull"/> the _Volatile Hallucinations_ using Chapter 3 so not all of them blow up in middle at once. (This is the moment where groups with low DPS will likely wipe and therefore a situational moment where having saved your <Skill name="tome of resolve"/> might save the group!) <Label>Situational</Label>
 9) Use Chapter 4 Scorched aftermath
 10) Blast With <Skill name="holystrike"/>
 11) Weapon Swap
 
 ### *Split Phase 2*
-1) Position yourself with the renegade using axe to aid DPS on add! (every little helps)
-2)  <Skill name="tomeofresolve"/> Ready if a DPS desperatly needs healing. (Situational)
-3) While Moving back into middle (having killed your add) Quickly use <Skill name="tomeofresolve"/> 5 and 4 (and spam 1) to top players HP, Consider the groups Scholar Uptime! (Situational)
 
-### **Phase 3**
+1) Position yourself with the <Specialization name="Renegade"/> using axe to aid DPS on add!
+2)  <Skill name="tomeofresolve"/> Ready if a DPS desperatly needs healing. <Label>Situational</Label>
+3) While moving back to _Siax_ use <Skill name="tomeofresolve"/> 5 and 4 and spam 1 to heal players up. <Label>Situational and only if high DPS</Label>
+
+### **3rd Phase**
+
 1)  <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>
 2)  <Skill name="Blazing Edge"/>
 3)  <Skill name="banesignet"/> to CC
 4)   <Item id="8474 "/> To CC
-5)  <Item id="8759"/> (If needed to finish CC)
-6) Quickly Weapon Swap 
-7)   <Skill name="Empower"/> While <Effect name="exposed"/> (Ideally you will be quick enough in every scenario above^ to be "precasting" Empower before the breakbar is finished)
-8) Use <Skill name="Retreat"/> To <Boon name="aegis"/> the Halucination AoE (Vital Importance)
-9) If <Skill name="tome of resolve"/> Was used at the start of phase 2, where group DPS is higher, it may have returned off of cooldown. Simply use Chapter 5,4 and Spam 1 to ensure players are topped off. (Situational, cooldown reliant)
+5)  <Item id="8759"/> <Label>If needed to finish CC</Label>
+6)  Weapon Swap 
+7)   <Skill name="Empower"/> while <Effect name="exposed"/> (Ideally you will be quick enough in every scenario above to be precasting Empower before the breakbar is finished)
+8) Use <Skill name="Retreat"/> to <Boon name="aegis"/> the Hallucination's AoE (Vital Importance)
+9) If <Skill name="tome of resolve"/> was used at the start of Phase 2, where group DPS is higher, it may be off cooldown. Simply use Chapter 5,4 and spam 1 to ensure players are max health <Label>Situational</Label>
 
 ---
 
 
 <Boss name="ensolyss" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2Id="9128" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125" >
-- This suggested "rotation" assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/> ,  <Skill name="restoringreprieve"/> And <Skill name="feelmywrath"/> When in range of all 5 allies in order to keep up <Boon name="quickness"/> and <Boon name="fury"/>! 
-- <Skill name="banesignet"/> Is timed very specifically for DPS phases (in order to best aid DPS checks) it is therefore very important to time it correctly. This more often the not is timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation BELOW.
-- Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first "Slam Orange AoE"
-- <Skill name="tome of resolve"/> Chapter 5,4,1 Situationally in order to top up your allies! Remember chapter 2 is also a condi cleanse (as well as chapter 5) and will help with ensols Auto attack dmg.
-- <Skill name="Sanctuary"/> is a really underrated CC skill which fits perfectly for Ensolyss as <Specialization name="Firebrand" text="Heal Firebrand"/>. Its cooldown dictates that it has less use elsewhere in fractals, but is available every phase on Ensolyss. Sanctuary Has a base CC of 750 defiance (and can be traited in virtues to 1050 defiance ONLY if the group needs more CC) And has the added benefit of being "CC over time" where the <Specialization name="Firebrand" text="Heal Firebrand"/> can SPAM [consumables](/guides/consumables) throughout its duration.
--  <Skill name="Empower"/> Is timed during <Effect name="exposed"/> and <Control name="stun"/> for two reasons: Firstly its a well timed "top off" for <Boon name="Might"/> and lastly; its cast time dictates that it can be tricky to time during Ensolyss's many attacks.
-- We Suggest to use <Item id="8664"/> for P1 Instant break scenario as it prooved more consistent in PuG scenarios, in terms of bane signet application. One should always strive to use Bane signets active duration throughout the <Effect name="exposed"/> Effect. As a result if you use <Skill name="banesignet"/> for an instant break and it fails, its active effect is wasted.
+- This rotation assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/>,  <Skill name="restoringreprieve"/> and <Skill name="feelmywrath"/> when in range of all 5 allies in order to keep up <Boon name="quickness"/> and <Boon name="fury"/>! 
+- <Skill name="banesignet"/> is timed for DPS phases (in order to meet DPS checks). It is usually timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation **below**.
+- Use well timed <Skill name="restoringreprieve"/> to give <Boon name="aegis"/>.
+- <Skill name="tome of resolve"/> Chapter 5,4,1 are used situationally in order to heal up your allies! Remember Chapter 2 is also a condition cleanse (as well as chapter 5) and will help mitigating _Ensolys_' auto attack.
+- <Skill name="Sanctuary"/> is a really underrated CC skill which fits perfectly for Ensolyss as <Specialization name="Firebrand" text="Heal Firebrand"/>. Due to it's cooldown it has less use elsewhere in fractals, but is available every phase on Ensolyss. Sanctuary has a base CC of 750 (and can be traited in virtues to 1050 defiance **only** if the group needs more CC) and has the added benefit of being a CC over time where the <Specialization name="Firebrand" text="Heal Firebrand"/> can spam [consumables](/guides/consumables) throughout it's duration.
+-  <Skill name="Empower"/> is timed during <Effect name="exposed"/> and <Control name="stun"/> for two reasons: Firstly it's a well timed heal for <Boon name="Might"/> and lastly, due to it's cast time it can be tricky to use during Ensolyss' many attacks.
+- It is suggested to use <Item id="8664"/> for Phase 1 to break more consistently in PuG scenarios, in terms of <Skill name="banesignet"/> application, one should always strive to use <Skill name="banesignet"/>'s active duration throughout the <Effect name="exposed"/> effect. If you use <Skill name="banesignet"/> for an instant break and it fails, it's active effect is wasted.
 
 </Boss>
 
-### **Precast**
+### **Prestacking**
+
 1)  <Skill name="Empower"/> 
-2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 second thanks to <Trait name=" liberators vow"/>)
 4)  <Skill name="Feelmywrath"/> 
 5)  <Skill name="banesignet"/>
-6) Take mistlock
+6) Take _Mistlock Singularity_
 7)  <Skill name="Feelmywrath"/> 
 8)  <Skill name="Empower"/> 
 
-### **Phase 1 - Instant Break**
-1) Start on Staff, with <Item id="8664"/> ready to use.
-2) A few seconds after the boss lands, try to time <Item id="8664"/> so that it BREAKS and is unequip, as the "split second" breakbar timing becomes vulnerable. (If you miss the timing its not the end of the world, but will end up being amazing practice for more experianced groups) (In future runs on pFB, the bane signet timing will be the same as metal rod!)
-3) <Skill name="banesignet"/> As quickly as possible having broken instantly.
-4) Enter <Skill name="tome of justice"/> Use chapter 4 and blast it with <Skill name="Holy Strike"/>
+### **Phase 1** <Label>Instant break</Label>
+
+1) Start on staff, with <Item id="8664"/> ready to use.
+2) A few seconds after the boss lands, try to time <Item id="8664"/> correctly. (If you miss the timing it's not the end of the world, but will end up being amazing practice for more experienced groups) (In future runs with <Specialization name="Firebrand" text="Power Firebrand"/>, the <Skill name="banesignet"/>'s timing is be the same as <Item id="8664"/>!)
+3) <Skill name="banesignet"/> to CC.
+4) Enter <Skill name="tome of justice"/> use Chapter 4 and blast it with <Skill name="Holy Strike"/>
 5)  <Skill name="Empower"/>
-6) Quickly Enter <Skill name="tome of courage"/> Using Chapter 5,4 and spamming 1 To <Boon name="aegis"/> the first slam AoE and <Boon name="stability"/> its shock wave.
+6) Use <Skill name="tome of courage"/> using Chapter 5,4 and spam 1 to <Boon name="aegis"/> the first slam AoE and <Boon name="stability"/> it's shock wave.
 7) Weapon swap
-8)  <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>
+8)  <Skill name="Symbol of Vengeance"/> for <Boon name="fury"/>
 9)  <Skill name="Blazing Edge"/>
-10) Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first "Slam Orange AoE" in the chain of Ensolyss attacks in order to free up an evade for your party members.
-11)  <Skill name="tome of resolve"/> Chapter 5,4,1 Situationally in order to top up your allies! Remember chapter 2 is also a condi cleanse (as well as chapter 5) and will help with ensols Auto attack dmg.
+10) Use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first orange AoE in the chain of _Ensolyss_' attacks in order to free up an evade for your party members.
+11)  <Skill name="tome of resolve"/> Chapter 5,4,1 to heal up the party! Remember Chapter 2 is also a condition cleanse (as well as chapter 5) and will help with _Ensolyss_' auto attack.
 12) Weapon swap (ensuring the next phase starts with staff)
 
-### **Phase 1 - Failed Instant Break**
+### **1st Phase** <Label>Failed instant break</Label>
+
 1) Start on Staff, with <Item id="8664"/> ready to use.
-2) A few seconds after the boss lands, try to time <Item id="8664"/> so that it BREAKS and is unequip, as the "split second" breakbar timing becomes vulnerable. (If you miss the timing its not the end of the world, but will end up being amazing practice for more experianced groups.) (In future runs on pFB, the bane signet timing will be the same as metal rod!)
-3) Enter <Skill name="tome of justice"/> While you and your allies move to the bubble. Use chapter 4 and blast it with <Skill name="Holy Strike"/>
+2) A few seconds after the boss lands, try to time <Item id="8664"/> correctly. (If you miss the timing it's not the end of the world, but will end up being amazing practice for more experienced groups) (In future runs with <Specialization name="Firebrand" text="Power Firebrand"/>, the <Skill name="banesignet"/>'s timing is be the same as <Item id="8664"/>!)
+3) Enter <Skill name="tome of justice"/> while you and your allies move to the bubble. Use chapter 4 and blast it with <Skill name="Holy Strike"/>
 4) Right before the bubble pops, precast <Skill name="Sanctuary"/>
-5) When the bubble has popped Use <Skill name="banesignet"/> as quickly as possible
+5) When the bubble has popped use <Skill name="banesignet"/> as quickly as possible
 6) Follow up with <Item id="8474  "/> To CC
-7)  <Item id="8759"/> (if needed to finish CC) (try to CC BEFORE Ensolyss first "slam orange AoE hits")
+7)  <Item id="8759"/> (if needed to finish CC) (try to CC **before** _Ensolyss_' first orange AoE hits)
 8) While the <Effect name="exposed"/> and <Control name="stun"/> is up:
 9)  <Skill name="Empower"/>
-10) Quickly Enter <Skill name="tome of courage"/> use chapter 5 4 spam 1
+10) Use <Skill name="tome of courage"/> use chapter 5 4 spam 1
 11) Weapon swap
 12)  <Skill name="Symbol of Vengeance"/> for <Boon name="Fury"/>
 13)  <Skill name="Blazing Edge"/>
-14) Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first "Slam Orange AoE" in the chain of Ensolyss attacks in order to free up an evade for your party members.
-15)  <Skill name="tome of resolve"/> Chapter 5,4,1 Situationally in order to top up your allies! Remember chapter 2 is also a condi cleanse (as well as chapter 5) and will help with ensols Auto attack dmg.
+14) Use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first orange AoE in the chain of _Ensolyss_' attacks in order to free up an evade for your party members.
+15)  <Skill name="tome of resolve"/> Chapter 5,4,1 to heal up the party! Remember chapter 2 is also a condition cleanse (as well as chapter 5) and will help with _Ensolyss_' auto attack.
 16) Weapon swap (ensuring the next phase starts with staff)
 
-### **Phase 2**
+### **2nd Phase**
+
 1) As the split phase is ending, open <Skill name="tome of justice"/> use chapter 4 in middle.
 2) Blast Scorched Aftermath with <Skill name="Holy Strike"/>
-3) Right before the boss is vulnerable precast <Skill name="Sanctuary"/>
+3) Right before the boss is vulnerable, precast <Skill name="Sanctuary"/>
 4) As the breakbar appears use <Skill name="banesignet"/>
 6) Follow up with <Item id="8474  "/> to CC
 7)  <Item id="8759"/> 
 8) Try to CC as quickly as possible to prevent the incoming damage from the CC channel attack all the while using <Skill name="restoringreprieve"/> to mitigate inc. dmg with <Boon name="aegis"/>.
 8) While the <Effect name="exposed"/> and <Control name="stun"/> Is up:
 9) Cast <Skill name="Empower"/>
-10) Quickly Enter <Skill name="tome of courage"/> use chapter 5 4 spam 1
+10) Use <Skill name="tome of courage"/> use chapter 5 4 spam 1
 7) Weapon swap
 8)  <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>
 9)  <Skill name="Blazing Edge"/>
-10) Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first "Slam Orange AoE" in the chain of Ensolyss attacks in order to free up an evade for your party members.
-11)  <Skill name="tome of resolve"/> Chapter 5,4,1 Situationally in order to top up your allies! Remember chapter 2 is also a condi cleanse and will help with ensols Auto attack dmg.
+10) Use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first "Slam Orange AoE" in the chain of _Ensolyss_' attacks in order to free up an evade for your party members.
+11)  <Skill name="tome of resolve"/> Chapter 5,4,1 to heal up the party! Remember chapter 2 is also a condition cleanse and will help with _Ensolyss_' auto attack.
 12) Weapon swap (ensuring the next phase starts with staff)
 
-### **Phase 3**
+### **3rd Phase**
+
 1) As the split phase is ending, open <Skill name="tome of justice"/> use chapter 4 in middle.
 2) Blast Scorched Aftermath with <Skill name="Holy Strike"/>
 3) Right before the boss is vulnerable precast <Skill name="Sanctuary"/>
@@ -233,54 +252,57 @@ In any significant downtime in your "rotation" during this run, Use <Skill name=
 7) Try to CC as quickly as possible to prevent the incoming damage from the CC channel attack all the while using <Skill name="restoringreprieve"/> to mitigate incoming dmg with <Boon name="aegis"/>.
 8) While the <Effect name="exposed"/> and <Control name="stun"/> is up:
 9) Cast <Skill name="Empower"/>
-10) Quickly Enter <Skill name="tome of courage"/> use chapter 5 4 spam 1
+10) Use <Skill name="tome of courage"/> use chapter 5 4 spam 1
 11) Weapon swap
 12) Use <Skill name="Symbol of Vengeance"/> for <Boon name="fury"/>
 13) Use <Skill name="Blazing Edge"/>
-14) Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first "Slam Orange AoE" in the chain of Ensolyss attacks in order to free up an evade for your party members.
-15) Sub 15% Use well timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the charging Halucinations. Feel free at this late stage in the fight (depending on quickness uptime) to use the final charge of <Skill name="restoringreprieve"/> in order to block the charging halucinations!
+14) Use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first orange AoE in the chain of _Ensolyss_' attacks in order to free up an evade for your party members.
+15) Sub 15% use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the charging _Hallucination_s. Feel free at this late stage in the fight (depending on quickness uptime) to use the final charge of <Skill name="restoringreprieve"/> in order to block the charging _Hallucination_s!
 
 ---
 
 
 <Boss name="skorvald" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="standyourground" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125" >
-- This suggested "rotation" assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/>,  <Skill name="restoringreprieve"/> and <Skill name="feelmywrath"/> when in range of all 5 allies in order to keep up <Boon name="quickness"/> and <Boon name="fury"/>! 
-- <Skill name="banesignet"/> Is timed very specifically for DPS phases (in order to best aid DPS checks) it is therefore very important to time it correctly. This more often the not is timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation BELOW.
-- Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first "Slam Orange AoE"
-- <Skill name="tome of resolve"/> Chapter 5,4,1 Situationally in order to top up your allies! Remember chapter 2 is also a condi cleanse (as well as chapter 5) and will help to cleanse players <Condition name="Burning"/>.
-- This encounter is fairely straight forward for a <Specialization name="Firebrand" text="Heal Firebrand"/>, their role is to ensure any and all breakbars are broken QUICKLY and that <Boon name="stability"/> and <Skill name="banesignet"/> are timed correctly.
+- This rotation assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/>,  <Skill name="restoringreprieve"/> and <Skill name="feelmywrath"/> when in range of all 5 allies in order to keep up <Boon name="quickness"/> and <Boon name="fury"/>! 
+- <Skill name="banesignet"/> is timed for DPS phases (in order to meet DPS checks). It is usually timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation **below**.
+- Use <Skill name="restoringreprieve"/> to give <Boon name="aegis"/>.
+- <Skill name="tome of resolve"/> Chapter 5,4,1 Situationally in order to heal up your allies! Remember chapter 2 is also a condition cleanse (as well as chapter 5) and will help to cleanse players <Condition name="Burning"/>.
+- This encounter is fairly straight forward for a <Specialization name="Firebrand" text="Heal Firebrand"/>, their role is to ensure any and all breakbars are broken as soon as possible and that <Boon name="stability"/> and <Skill name="banesignet"/> are timed correctly.
 - If your group DPS is low ensure to save your <Skill name="tome of courage"/> (and if REALLY low your <Skill name="Stand your ground"/> too) for the final phase, this is due to Skorvalds melee attack which will chain <Control name="knockdown"/> as well as deal a large amount of damage AND <Effect name="agony"/>.
-- One aspect worth noting is island 4 on each split phase. <Specialization name="Firebrand" text="Heal Firebrand"/> uses <Skill name="Stand your ground"/> to stab players (as well as not be interrupted), <Skill name="empower"/> to ensure players are at 25 <Boon name="Might"/> before the DPS phase and <Skill name="bane signet"/> to increase all party members power by 216.
-- Make sure to use [consumables](/guides/consumables) where needed. If the breakbar has regenerated in time for phase 3 (can happen sometimes). Be ready to break it as quickly as possible before skorvalds breif <Control name="Stun"/>  finishes.
+- One aspect worth noting is island 4 on each split phase. Uses <Skill name="Stand your ground"/> to give <Boon name="Stability"/> to players (as well as not to be interrupted), <Skill name="empower"/> to ensure players are at 25 <Boon name="Might"/> before the DPS phase and <Skill name="bane signet"/> to increase all party member's power by 216.
+- Make sure to use [consumables](/guides/consumables) where needed. If the breakbar has regenerated in time for phase 3. Be ready to break it as quickly as possible before _Skorvald_'s <Control name="Stun"/> finishes.
 </Boss>
  
-### **Precast**
+### **Prestacking**
+
 1)  <Skill name="Empower"/> 
-2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 second thanks to <Trait name=" liberators vow"/>)
 4)  <Skill name="Feelmywrath"/> 
 5)  <Skill name="banesignet"/>
-6) Take mistlock
+6) Take _Mistlock Singularity_
 7)  <Skill name="Feelmywrath"/> 
 8)  <Skill name="Empower"/> 
 
- ### **Phase 1**
+### **100%-66%**
+
  1) Start on Axe, with <Item id="8664"/> ready to use.
  2) The second the boss arrives Break <Item id="8664"/>
  3) <Skill name="bane signet"/> to CC
  4) <Item id="8759"/>
- 3)  <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>
-4)  <Skill name="Blazing Edge"/> To finish CC
+ 3)  <Skill name="Symbol of Vengeance"/> for <Boon name="fury"/>
+4)  <Skill name="Blazing Edge"/> to finish CC
 
  
- ### *Split Phase 1*
+### _Islands_
+
  1) First Island
-     1) Share <Boon name="Aegis"/> Using <Skill name="restoringreprieve"/>
-     2)  <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>
+     1) Share <Boon name="Aegis"/> using <Skill name="restoringreprieve"/>
+     2)  <Skill name="Symbol of Vengeance"/> for <Boon name="fury"/>
      3) Weapon swap
      
  2) Second Island
      1)  <Skill name="tome of justice"/> Chapter 4 
-     2) <Skill name="holystrike"/> To Blast Scorched Aftermath.
+     2) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
  3) Third island
      1) <Skill name="tome of courage"/> Skill 5 and 1 for <Boon name="Stability"/> and share <Boon name="Aegis"/> as well
     
@@ -289,13 +311,15 @@ In any significant downtime in your "rotation" during this run, Use <Skill name=
      3) <Skill name="bane signet"/>
      3) Take portal.
  
- ### **Phase 2**
+### **66%-33%**
+
  1) Weapon swap
  2) <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>.
- 3) Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> Skorvald's AoEs
- 4)  <Skill name="tome of resolve"/> 5,4,1 To heal Allies situationally.
+ 3) Use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> Skorvald's AoEs
+ 4)  <Skill name="tome of resolve"/> 5,4,1 to heal up the party
  
- ### *Split Phase 2*
+### _Islands_
+
  1) First Island
      1) Share <Boon name="Aegis"/> Using <Skill name="restoringreprieve"/>
      2)  <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>
@@ -303,21 +327,22 @@ In any significant downtime in your "rotation" during this run, Use <Skill name=
      
  2) Second Island
      1) <Skill name="tome of justice"/> Chapter 4 
-     2)  <Skill name="holystrike"/> To Blast Scorched Aftermath.
+     2) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
  3) Third island
-     1) Share <Boon name="Aegis"/> Using <Skill name="restoringreprieve"/> (if your group has low DPS DO NOT USE <Skill name="tome of courage"/>)
+     1) Share <Boon name="Aegis"/> Using <Skill name="restoringreprieve"/> (if your group has low DPS **do not use** <Skill name="tome of courage"/>)
     
  4) Fourth island
      1)  <Skill name="Stand your ground"/> and <Skill name="empower"/> Instantly upon landing.
      3) <Skill name="bane signet"/>
      3) Take portal.
      
- ### **Phase 3**
+### **33%-0%**
+
  1) If a breakbar is available use as many [consumables](/guides/consumables) as possible, as quickly as possible in an attempt to break the defiance bar in the short time frame provided! (Situational- the breakbar will rarely have regenerated in time)
  2) Having saved your  <Skill name="tome of courage"/> From split phase. Use chapter 5,4 and spam 1.
  3) <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>.
- 4) Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> Skorvald's AoEs
- 5) <Skill name="tome of resolve"/> 5,4,1 To heal Allies situationally.
+ 4) Use  <Skill name="restoringreprieve"/> to <Boon name="aegis"/> Skorvald's AoEs
+ 5) <Skill name="tome of resolve"/> 5,4,1 to heal up the party
  
  
  Notes:
@@ -330,186 +355,196 @@ In any significant downtime in your "rotation" during this run, Use <Skill name=
 
 
 <Boss name="artsariiv" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2Id="9153" utility3Id="9093" eliteId="43357" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125" >
-- This suggested "rotation" assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/> ,  <Skill name="restoringreprieve"/> And <Skill name="feelmywrath"/> When in range of all 5 allies in order to keep up <Boon name="quickness"/> and <Boon name="fury"/>! 
-- <Skill name="banesignet"/> Is timed very specifically for DPS phases (in order to best aid DPS checks) it is therefore very important to time 
-- it correctly. This more often the not is timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation BELOW.
-- Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first "Slam Orange AoE"
-- <Skill name="tome of resolve"/> Chapter 5,4,1 Situationally in order to top up your allies!
+- This rotation assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/>,  <Skill name="restoringreprieve"/> and <Skill name="feelmywrath"/> when in range of all 5 allies in order to keep up <Boon name="quickness"/> and <Boon name="fury"/>! 
+- <Skill name="banesignet"/> is timed for DPS phases (in order to meet DPS checks). It is usually timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation **below**.
+- Use <Skill name="restoringreprieve"/> to give <Boon name="aegis"/>.
+- <Skill name="tome of resolve"/> Chapter 5,4,1 Situationally in order to heal up your allies!
 - Remember chapter 5 is a healing effectiveness modifier improving outgoing healing by 33%.
 - Your predominant role as a <Specialization name="Firebrand" text="Heal Firebrand"/> in this fight is to provide sufficient <Boon name="aegis"/> and <Boon name="stability"/> for various attacks. This is essential in order to ensure your DPS players are able to reflect without being interupted!
-- The REFLECT on Artsariiv scales POWER from its origin in question (the boss). So with that in mind <Skill name="banesignet"/>'s active 216 power' would only benefit the groups DPS during <Effect name="exposed"/> This DOESNT mean "do not take signet" It means purely that it should be used for the benefit of the GROUPS DPS (with or without a breakbar!) With that said, the reflected projectiles themselves scale with the PLAYERS precision! If you are a <Specialization name="Firebrand" text="Heal Firebrand"/> on artsariiv DO NOT REFLECT OR DESTROY PROJECTILES!
-- In more experianced groups, the anomaly will be skipped entirely; where the CC is expected to be broken instantly in order the projectiles are reflected back DURING <Effect name="exposed"/>. It can be quite tricky as a group to aCComplish this due to the need for fast group CC. It is however easy to practice, as in order to time it correctly you are to simply CC the boss as soon as its breakbar appears in phase 1.
-- Use <Skill name="Mantraofliberation"/> If you miss time an <Boon name="aegis"/>, using a single charge as a backup is a nice fallback. Provided it doesnt mess with "step 2" on each phase.
+- The reflect on _Artsariiv_ scales power from it's origin in question (the boss). So with that in mind <Skill name="banesignet"/>'s active 216 power' would only benefit the groups DPS during <Effect name="exposed"/> This does not mean "do not take signet". It means that it should be used for the benefit of the group's DPS (with or without a breakbar!). With that said, the reflected projectiles themselves scale with the **player's precision**! If you are a <Specialization name="Firebrand" text="Heal Firebrand"/> on _Artsariiv_ **do not reflect or destroy projectiles**!
+- In more experienced groups, the anomaly will be skipped entirely. Where the breakbar is expected to be broken instantly the projectiles are reflected back **during** <Effect name="exposed"/>. It can be quite tricky as a group to accomplish this is due to the need for fast group CC. It is however easy to practice, as in order to time it correctly you simply CC the boss as soon as it's breakbar appears in Phase 1.
+- Use <Skill name="Mantraofliberation"/> if you miss time an <Boon name="aegis"/>, using a single charge as a backup is a nice fallback. Provided it does not mess with 'step 2' on each phase.
  - Try to time <Skill name="standyourground"/>  and <Skill name="banesignet"/> together to ensure +216 power for the DPS players during burn phases as well as <Boon name="stability"/> during phases 2 and 3.
 </Boss>
 
-### **Precast**
+### **Prestacking**
+
 1)  <Skill name="Empower"/> 
-2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 second thanks to <Trait name=" liberators vow"/>)
 4)  <Skill name="Feelmywrath"/> 
 5)  <Skill name="banesignet"/>
-6) Take mistlock
+6) Take _Mistlock Singularity_
 7)  <Skill name="Feelmywrath"/> 
 8)  <Skill name="Empower"/>  
 
-### **Phase 1**
+### **100%-66%**
+
 Stay in the middle
 1) Precast <Skill name="symbol of vengeance"/> For <Boon name="fury"/>.
-2) Use <Skill name="blazingedge"/> And <Skill name="standyourground"/> So players dont get <Condition name="Fear"/>.
+2) Use <Skill name="blazingedge"/> and <Skill name="standyourground"/> so players don't get <Condition name="Fear"/>.
 3) <Skill name="tomeofjustice"/>
-4) <Skill name="holystrike"/> To blast scorched aftermath
+4) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
 5) <Skill name="Empower"/> 
 6)  <SpecialActionKey name="hypernovalaunch"/> to the corner (after the anomaly is dead)
-7) <Skill name="tome of courage"/> skill 5 and 4 (to ensure the slb isnt interrupted while reflecting)
+7) <Skill name="tome of courage"/> skill 5 and 4 (to ensure the slb isn't interrupted while reflecting with axe 5)
 8)  <Skill name="banesignet"/> to CC
 9)  <Item id="8664"/>
 10) <Item id="8474"/>
- 11)  WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> Artsariiv's AoEs
- 12)  <Skill name="tome of resolve"/> 5,4,1 To heal Allies situationally.
- 13)  <Skill name="Mantraofliberation"/> If you miss time an <Boon name="aegis"/>, using a single charge as a backup is a nice fallback. Provided it doesnt mess with "step 2" on each phase.
+ 11) Use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> _Artsariiv_'s AoEs
+ 12)  <Skill name="tome of resolve"/> 5,4,1 to heal up the party
+ 13)  <Skill name="Mantraofliberation"/> if you miss timing an <Boon name="aegis"/>, use a single charge as a backup. 
 
-### *Split Phase 1*
+### _Add Phase 1_
+
 1) Go to your marker/direction
 2) CC the add
 
-### **Phase 2**
+### **66%-33%**
+
 While in the middle
 1) <Skill name="symbol of vengeance"/> For <Boon name="fury"/>.
-2)  <Skill name="restoringreprieve"/> And <Skill name="mantraofliberation"/> Together to ensure the players dont get <Control name="knockdown"/> OR take lethal damage when without <Boon name="aegis"/>.
+2)  <Skill name="restoringreprieve"/> And <Skill name="mantraofliberation"/> Together to ensure the players dont get <Control name="knockdown"/> or take lethal damage when without <Boon name="aegis"/>.
 3) <Skill name="tomeofjustice"/>
-4) <Skill name="holystrike"/> To blast scorched aftermath
+4) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
 5) <Skill name="Empower"/> 
 6)  <SpecialActionKey name="hypernovalaunch"/> to the corner (after the anomaly is dead)
-7)  <Skill name="standyourground"/> To prevent the DPS who is reflecting (more commonly axe 5 on slb) from being <Control name="knockdown"/>
-8)  <Skill name="banesignet"/> Regardless of CC, for active +216power (try to use stand your ground and signet together, to benefit the slb)
- 9) Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> Artsariiv's AoEs
- 10)  <Skill name="tome of resolve"/> 5,4,1 To heal Allies situationally.
+7)  <Skill name="standyourground"/> to prevent the DPS who is reflecting (Soulbeast with axe 5) from being <Control name="knockdown"/>
+8)  Use <Skill name="banesignet"/> regardless of CC, for active +216 power (try to use <Skill name="standyourground"/> and <Skill name="banesignet"/> together, to help the Soulbeast)
+ 9) Use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> _Artsariiv_'s AoEs
+ 10)  <Skill name="tome of resolve"/> 5,4,1 to heal up the party
  11) Depending on group DPS, use the same [consumables](/guides/consumables) rotation as used in p1 to break the breakbar after the orb has returned.
- 12)  <Skill name="Mantraofliberation"/> If you miss time an <Boon name="aegis"/>, using a single charge as a backup is a nice fallback. Provided it doesnt mess with "step 2" on each phase.
+ 12)  <Skill name="Mantraofliberation"/> if you miss timing an <Boon name="aegis"/>, use a single charge as a backup. 
 
-### *Split Phase 2*
-1) Go to your mark/direction
+### _Add Phase 2_
+
+1) Go to your marker/direction
 2) CC the Add
 3) Go clockwise to another add
 3) CC the add
 
-### **Phase 3**
+### **33%-0%**
+
 While in the middle
 1) <Skill name="symbol of vengeance"/> For <Boon name="fury"/>.
 2)  <Skill name="restoringreprieve"/> And <Skill name="mantraofliberation"/> Together to ensure the players dont get <Control name="knockdown"/> OR take lethal damage when without <Boon name="aegis"/>.
 3) <Skill name="tomeofjustice"/>
-4) <Skill name="holystrike"/> To blast scorched aftermath
+4) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
 5) <Skill name="Empower"/> 
 6)  <SpecialActionKey name="hypernovalaunch"/> to the corner (after the anomaly is dead)
 7)  <Skill name="standyourground"/> To prevent the DPS who is reflecting (more commonly axe 5 on slb) from being <Control name="knockdown"/>
 8)  <Skill name="banesignet"/> Regardless of CC, for active +216power (try to use stand your ground and signet together, to benefit the slb)
- 9) Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> Artsariiv's AoEs
+ 9) Use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> Artsariiv's AoEs
  10)  <Skill name="tome of resolve"/> 5,4,1 To heal Allies situationally.
  11) Depending on group DPS, use the same [consumables](/guides/consumables) rotation as used in p1 to break the breakbar after the orb has returned.
- 12)  <Skill name="Mantraofliberation"/> If you miss time an <Boon name="aegis"/>, using a single charge as a backup is a nice fallback. Provided it doesnt mess with "step 2" on each phase.
+ 12)  <Skill name="Mantraofliberation"/> if you miss timing an <Boon name="aegis"/>, use a single charge as a backup. 
 
 ---
 
 
 
 <Boss name="arkk" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2Id="9153" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125" >
-- This suggested "rotation" assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/> ,  <Skill name="restoringreprieve"/> And <Skill name="feelmywrath"/> When in range of all 5 allies in order to keep up <Boon name="quickness"/> and <Boon name="fury"/>! 
-- <Skill name="banesignet"/> Is timed very specifically for DPS phases (in order to best aid DPS checks) it is therefore very important to time it correctly. This more often the not is timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation BELOW.
-- Use WELL timed <Skill name="restoringreprieve"/> to <Boon name="aegis"/> the first "Slam Orange AoE"
-- <Skill name="tome of resolve"/> Chapter 5,4,1 Situationally in order to top up your allies! Remember chapter 5 is a healing effectiveness modifier improving outgoing healing by 33%.
-- Remember to precast <Skill name="standyourground"/> on mistlock before entering arkk to prevent players
-- This "rotation" aids <Boon name="Might"/> uptime through the abuse of the trait "renewed justice" where the <Specialization name="Firebrand" text="Heal Firebrand"/>'s <Skill name="tomeofjustice"/> is reset after killing an add. It is therefor important to use <Skill name="tomeofjustice"/> BEFORE or during every add phase, before the add dies! And be on staff (and ready with <SpecialActionKey name="hypernovalaunch"/> ) in order to blast!
-- All three skills <Skill name="restoringreprieve"/>,<Skill name="standyourground"/> and <Skill name="tomeofresolve"/> are used situationally: to <Boon name="aegis"/> melee attacks, provide <Boon name="stability"/> for the <Condition name="Fear"/> and add <Control name="knockdown"/> and provide well timed "burst" heals.
+- This rotation assumes the <Specialization name="Firebrand" text="Heal Firebrand"/> will use <Skill name="potent haste"/>,  <Skill name="restoringreprieve"/> and <Skill name="feelmywrath"/> when in range of all 5 allies in order to keep up <Boon name="quickness"/> and <Boon name="fury"/>! 
+- <Skill name="banesignet"/> is timed for DPS phases (in order to meet DPS checks). It is usually timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation **below**.
+- Use <Skill name="restoringreprieve"/> to give <Boon name="aegis"/>.
+- <Skill name="tome of resolve"/> Chapter 5,4,1 to heal up the party! Remember Chapter 5 is a healing effectiveness modifier improving outgoing healing by 33%.
+- Remember to precast <Skill name="standyourground"/> on _Mistlock Singularity_ before entering _Arkk_ to prevent players from <Condition name="Fear"/>.
+- This rotation helps with <Boon name="Might"/> uptime through the abuse of the trait <Trait name"renewedjustice"'> where <Skill name="tomeofjustice"/> is reset after killing an add. It is important to use <Skill name="tomeofjustice"/> **before** or during every add phase, before the add dies! Be on staff (and ready with <SpecialActionKey name="hypernovalaunch"/> ) in order to blast!
+- All three skills <Skill name="restoringreprieve"/>,<Skill name="standyourground"/> and <Skill name="tomeofresolve"/> are used situationally: to <Boon name="aegis"/> melee attacks, provide <Boon name="stability"/> for the <Condition name="Fear"/> and do <Control name="knockdown"/> to provide burst heals.
 </Boss>
 
 
-### **Precast**
+### **Prestacking**
 
 1)  <Skill name="Empower"/> 
-2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+2) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="quickness"/> once every 7 second thanks to <Trait name=" liberators vow"/>)
 4)  <Skill name="Feelmywrath"/> 
 5)  <Skill name="banesignet"/>
 6)   <Skill name="standyourground"/> (as late as possible before activating the boss)
-6) Take mistlock
+6) Take _Mistlock Singularity_
 7)  <Skill name="Feelmywrath"/> 
 8)  <Skill name="Empower"/> 
 
-### **Phase 1 - 100%**
+### **1st Phase (100%-80%)**
 
 1) <Skill name="symbol of vengeance"/> For <Boon name="fury"/>
 2) <Skill name="blazingedge"/>
 3) Weapon swap
 4) <Skill name="empower"/>
 5) <Skill name="tomeofjustice"/> Chapter 4
-6) <Skill name="holystrike"/> To blast scorched aftermath
+6) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
+7) Stand at your orb location and use staff auto attack to push it.
 
-8) Stand at your orb location and use staff auto attack to push it.
-
-### **Phase 2 - 80%**
+### **2nd Phase (80%-70%)**
 
 
 You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 1) Weapon swap
 2) <Skill name="symbol of vengeance"/> <Boon name="fury"/>
 9) Use <Item id="8664"/>
-10) Use <Item id="8474"/> (if needed)
+10) Use <Item id="8474"/> <Label>Situational</Label>
 
 
-### *Add Phase 1*
+### _Archdiviner_
+
 1) <Skill name="blazingedge"/> -> <Skill name="pull"/> 1 (preferably 2) adds AND <Skill name="standyourground"/> 
-2) Use <Skill name="tome of justice"/> and <Control name="pull"/> (skill 3) the mobs closer to the middle, then use chapter 4 (make sure you enter and exit the tome BEFORE the split phase add dies)
-3) <Skill name="holystrike"/> To blast scorched aftermath
+2) Use <Skill name="tome of justice"/> and <Control name="pull"/> (skill 3) the mobs closer to the middle, then use chapter 4 (make sure you enter and exit the tome **before** the split phase add dies)
+3) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
 3) Cast <Skill name="banesignet"/> as the add is about to die
 
-### **Phase 3 - 70% (longest phase)**
+### **3rd Phase (70%-50%)**
+
 1) Precast <Skill name="empower"/>
 2) <Skill name="tomeofjustice"/> Chapter 4
-3) <Skill name="holystrike"/> To blast scorched aftermath
+3) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
 4) Weapon swap
 5) <Skill name="symbol of vengeance"/> For <Boon name="fury"/>
 6) <Skill name="blazingedge"/>
-7) <Skill name="tomeofcourage"/> Chapter 5,4,3 and spam 1 (this provides <Boon name="stability"/> for <Condition name="Fear"/>, <Boon name="aegis"/> for melee attacks and a reflect for the "agony circles" It will also mean the renegade will not be caught off guard by an agony AoE, with his back to the boss while killing the anomaly.)
-8) <Skill name="shieldofjudgment"/> For <Boon name="aegis"/>
+7) <Skill name="tomeofcourage"/> Chapter 5,4,3 and spam 1 (this provides <Boon name="stability"/> for <Condition name="Fear"/>, <Boon name="aegis"/> for melee attacks and a reflect for the agony circles. It will also help the <Specialization name="Renegade"/> not getting caught off guard by an agony AoE, with his back to the boss while killing the anomaly.)
+8) <Skill name="shieldofjudgment"/> for <Boon name="aegis"/>
 9) Weapon swap
 10) Stand at your orb location and use staff auto attack to push it.
 
-### **Phase 4 - 50%**
+### **4th Phase (50%-40%)**
+
 You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 1)  <Item id="8664"/>
 2)  <Item id="8474"/>
-3)  <Item id="8759"/> (if needed)
+3)  <Item id="8759"/> <Label>Situational</Label>
 4) <Skill name="Empower"/>
-5) Quickly  <Skill name="tomeofjustice"/> Chapter 4
-7) <Skill name="holystrike"/> To blast scorched aftermath
+5) Use <Skill name="tomeofjustice"/> Chapter 4
+7) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
 8) Weapon swap
 
-### *Add Phase 2*
-1) <Skill name="blazingedge"/> -> <Skill name="pull"/> 1 (preferably 2) adds AND <Skill name="standyourground"/> 
-2) Use <Skill name="shieldofjudgment"/> For <Boon name="aegis"/>
-3) <SpecialActionKey name="hypernovalaunch"/> To CC add
-3) Use <Item id="8759"/> (if needed)
+### _Gladiator_
+
+1) <Skill name="blazingedge"/> -> <Skill name="pull"/> 1 (preferably 2) adds and <Skill name="standyourground"/> 
+2) Use <Skill name="shieldofjudgment"/> for <Boon name="aegis"/>
+3) <SpecialActionKey name="hypernovalaunch"/> to CC add
+3) Use <Item id="8759"/>  <Label>Situational</Label>
 3) Cast <Skill name="banesignet"/> as the add is about to die
 4) Weapon swap
 
-### **Phase 5 - 40%**
+### **5th Phase (40%-30%)**
+
 1) Precast <Skill name="empower"/>
 2) <Skill name="tomeofjustice"/> Chapter 4
-3) <Skill name="holystrike"/> To blast scorched aftermath
+3) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
 4) Weapon swap
-5) <Skill name="symbol of vengeance"/> For <Boon name="fury"/>
+5) <Skill name="symbol of vengeance"/> for <Boon name="fury"/>
 6) <Skill name="blazingedge"/>
-7) This is most likely the moment where <Skill name="tomeofresolve"/> will be required! Simply use chapter 5,4 and spam 1.
+7) This is most likely the moment where <Skill name="tomeofresolve"/> will be required! Simply use Chapter 5,4 and spam 1.
 
-### **Phase 6 - 30%**
+### **6th Phase (30%-0%)**
+
 You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 1) <Skill name="symbol of vengeance"/> For <Boon name="fury"/>
 2)  <Item id="8664"/>
-3)  <Item id="8474"/> (if needed)
+3)  <Item id="8474"/> <Label>Situational</Label>
 4) Weapon swap
 5) <Skill name="empower"/>
 6) <Skill name="tomeofcourage"/>  Chapter 5,4,3 and spam 1 (this provides <Boon name="stability"/> for <Condition name="Fear"/>, <Boon name="aegis"/> for melee attacks and a reflect for the agony AoEs)
 
 Annotation:
 1) If possible make sure you use <SpecialActionKey name="hypernovalaunch"/> to CC the adds
-2) The archdiviner spawns AoE's that strips boons, avoid them!
+2) The _Archdiviner_ spawns AoE's that strips boons, avoid them!
 3) Use <SpecialActionKey name="hypernovalaunch"/> to blast the many firefields placed from <Skill name="tomeofjustice"/> Chapter 4
