@@ -21,7 +21,7 @@ The timing of <Skill name="One Wolf Pack"/> later on in the fight will depend on
 </Message>
 
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect and try to fill in the rest of the time with filler skills.
+Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 
 ### **Precast**
@@ -44,6 +44,7 @@ Your rotation will dpepend on your groups DPS and ability to CC! In general make
 - Use <Skill name="Monarchs Leap"/> to reach the add quickly.
 - Help CC with [consumables](/guides/consumables).
 - Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>.
+- If your group is slow wou may have time to switch back to Longbow here and cast <Skill name="Barrage"/>. Only do this if you will have time to burst P2 and still swap back to Longbow after for the 2nd add.
 
 ### **2nd Phase**
 
@@ -151,6 +152,7 @@ Your rotation will dpepend on your groups DPS and ability to CC! In general make
 - Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
+- Longbow will burst higher on this fight, but you will have trouble killing your 2nd add without help. Only play it if you can rely on your group to phase P2 quickly and help you on split 2.
 </Boss>
 
 <Message>
@@ -160,7 +162,7 @@ The timing of <Skill name="One Wolf Pack"/> in this fight will depend on your gr
 If you P1 is slow you may have time to swap to Greatsword for the first split phase. When you go back to Siax use <Skill id="41406"/> -> <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/> to burst into <Effect name="Exposed"/>.
 </Message>
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect and try to fill in the rest of the time with filler skills.
+Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 ### **Precast**
 
@@ -183,7 +185,7 @@ Your rotation will dpepend on your groups DPS and ability to CC! In general make
 ### _1st Add_
 
 - Use <Skill id="12482"/> to get to the add quickly.
-- Stay on Sword and use auto attacks nad your pet skills to kill it.
+- Stay on Sword and use auto attacks and your pet skills to kill it.
 
 ### **2nd Phase**
 
@@ -268,7 +270,7 @@ Your rotation will dpepend on your groups DPS and ability to CC! In general make
 The following guide is assuming your group doesn't instabreak the first CC bar. If you are going to instabreak skip the first step on phase 1 and start from step two as Ensolyss is about to spawn. 
 </Message>
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect and try to fill in the rest of the time with filler skills.
+Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 
 ### **Precast**
@@ -425,7 +427,7 @@ In Phase 3 a <Specialization name="Soulbeast"/> should delay their <Skill name="
 </Boss>
 
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect and try to fill in the rest of the time with filler skills.
+Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 <Message>
 Spirit Management:
@@ -475,7 +477,7 @@ Spirit Management:
 
 
 <ConditionalComponent condition="static">
-<Boss name="skorvald" video="pcBwuDwX8zo" videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
+<Boss name="skorvald" video="pcBwuDwX8zo" videoCreator="Stellan [dT]" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
 - If good instabilities, use <Item id="73191"/> as Utility food.
@@ -523,7 +525,7 @@ Spirit Management:
 
 
 <ConditionalComponent condition="pug">
-<Boss name="artsariiv" video="o7R-tnLH4ws"  timestamp="112" videoCreator="Elu" foodId="91805" utilityId="12537" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
+<Boss name="artsariiv" video="o7R-tnLH4ws"  timestamp="112" videoCreator="Elu" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait name="Oppressive Superiority"/>.
 - If good instabilities, use <Item id="73191"/> as Utility food.
@@ -534,13 +536,13 @@ Spirit Management:
 If you group is going to skip the first anomaly, follow the rotation for side strat in the static section.
 </Message>
 <Message>
-This guide assumes you are going to let your group kill the 2nd and 3rd anomalies or skip them completely. If you get the bomb don't panic. Attempt to get the reflect and then if you have time special action key to the dome or /gg!
+This guide assumes you are going to let your group kill the 2nd and 3rd anomalies or skip them completely. If you get the bomb don't panic. Attempt to get the reflect and then if you have time special action key to the dome or /gg! If your group can't kill the anomaly without you you can still attempt to reflect. Whne you get to the side use <Skill name="Point Blank Shot"/>, quickly weapon swap and <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
 </Message>
 <Message>
 If your group has fast or organised CC on the split phases, your <Skill name="Whirling Defense"/> probably won't be off cooldown in the middle. If this is the case start on Longbow and proc <Item id="84505"/> with <Skill name="Point Blank Shot"/>. Then use <Skill name="Rapid Fire"/> and your pet skills.
 </Message>
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect and try to fill in the rest of the time with filler skills.
+Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 
 ### **Precast**
@@ -573,7 +575,7 @@ Your rotation will dpepend on your groups DPS and ability to CC! In general make
 - Cast <Skill name="Barrage"/> and call <Skill name="Frost Spirit"/> to you with <Skill name="Cold Snap"/>.
 - <Skill name="Sic Em"/> as soon as possible then use <Skill name="Rapid Fire"/>
 - Proc <Item id="84505"/> with either <Skill name="Point Blank Shot"/> or <Skill id="45743"/>.
-- Quickly weapon swap and use <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/> and pray for good reflect RNG (If your pugs aren't doing anything weird you have an 80% chance of reflecting).
+- Quickly weapon swap and use <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/> and pray for good reflect RNG (If your PuGs aren't doing anything weird you will get the reflect most of the time).
 - If Artsariiv hasn't phased continue with your normal rotation.
 
 ### **33 to 0%**
@@ -584,7 +586,7 @@ Your rotation will dpepend on your groups DPS and ability to CC! In general make
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
-<Boss name="artsariiv" video="pcBwuDwX8zo"  timestamp="104"  videoCreator="Stellan [dT]" foodId="91805" utilityId="12537" healId="" utility1Id="12633" utility2Id="12497" utility3Id="" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="" weapon2MainType="" weapon2MainSigil1="" weapon2MainInfusion1Id="" >
+<Boss name="artsariiv" video="pcBwuDwX8zo"  timestamp="104"  videoCreator="Stellan [dT]" foodId="91805" utilityId="9443" healId="" utility1Id="12633" utility2Id="12497" utility3Id="" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="" weapon2MainType="" weapon2MainSigil1="" weapon2MainInfusion1Id="" >
 - Pet: <Skill id="44617" disableText/> Red Moa.
 - Take <Trait id="2128"/>.
 - Your build will change depending on your strategy. Check the tabs below for the correct build!
@@ -724,12 +726,12 @@ Use [consumables](/guides/consumables) to CC the adds.
 </Boss>
 
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect and try to fill in the rest of the time with filler skills.
+Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 
 ### **Precast**
 
-- Place a portal next to the mistlock and use <SpecialActionKey name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner and open the portal.
+- Place a portal next to the mistlock and use <SpecialActionKey name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss. After that wait for anybody else who is precasting skills and open the portal.
 - Use <Skill name="Moa Stance"/>.
 - Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, then use <Skill name="One Wolf Pack"/>.
 - Take Mistlock and swap to Longbow.
