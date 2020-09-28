@@ -260,7 +260,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
 <Card title="Renegade openers">
-<Video caption="by Stellan [dT], edited by Vince [dT]" youtube="0obkDd8lCTA"/> 
+<Video caption="by Rubby [dT], edited by Vince [dT]" youtube="QXmckcAyKf4"/> 
 </Card>
 </GridItem>
 

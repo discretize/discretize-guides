@@ -205,7 +205,7 @@ In more organised groups its recommended to run <Specialization name="Tempest"/>
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="ensolyss" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
+<Boss name="ensolyss" video="xYqHUt_-H-M" timestamp="" videoCreator="Elda [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 If group DPS is low its recommended to run <Trait id="214"/> instead of <Trait id="1502"/>. In PuGs it is recommended to use the raid rotation from Snow Crows.
 
 Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>. If phases are long try to use next ones in <Skill id="5492"/>/<Skill id="5494"/> -> <Skill id="5492"/>/<Skill id="5492"/> to get more burning stacks. Spam your <Skill id="5539"/> during <Effect name="Exposed"/> window.
