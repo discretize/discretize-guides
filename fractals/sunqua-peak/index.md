@@ -29,6 +29,8 @@ The Voice of the mountain is the first boss in the fractal. This boss deals litt
 </GridItem>
 </Grid>
 
+---
+
 ### Water Path to the next boss
 
 <Grid>
@@ -37,7 +39,7 @@ The Voice of the mountain is the first boss in the fractal. This boss deals litt
 Not a single trash mob needs to be killed for progression! 
 </Message>
 
-After the Voice of the mountain is dead, take the updraft. Follow the path. In order to trigger the next boss all three Elemental clouds have to be freed by interacting with them. They spawn along the path and are not hidden. Right after taking the updraft there are water rifts. <Boon name="Stability"/> does not prohibit getting pushed down the cliff. Dodge through. The second waterfall can be easily skipped by walking behind it. 
+After the Voice of the mountain is dead, take the updraft. Follow the path. In order to trigger the next boss all three Elemental clouds have to be freed by interacting with them. They spawn along the path and are not hidden. Right after taking the updraft there are water rifts. <Boon name="Stability"/> does not prohibit getting pushed down the cliff. The waterfalls have two states, active and inactive, when inactive they will not push you over the edge. An easy way to tell which state they are in is if the water flow is more intense with more white streaks running through it. When the effects expire and the flow slows its safe to simply walk through. Alternativly you can also try and dodge through the intense flow or use a movement skill to quickly get past. The second waterfall can be easily skipped by walking behind it. 
 
 Do the mini jumping puzzle to the last boss, remember to free the elementals. As soon as you freed all three elementals `/gg` so your team can catch up with the front runner.
 
@@ -45,7 +47,7 @@ Do the mini jumping puzzle to the last boss, remember to free the elementals. As
 
 <GridItem sm="4">
 
-Image src="./images/way_to_artsariiv.jpg" caption="The way to the stone of the mountain"
+<Image src="./images/waterfall.png" caption="The left waterfall is in an active state while the right one is passable" />
 
 </GridItem>
 
@@ -186,6 +188,8 @@ Move counter clockwise and contiue removing the dark clouds with the green AoEs.
 <GifPlayer caption="Tethers during the water phase" url="https://cdn.discordapp.com/attachments/662333637143822339/759477691207778334/watermemems.webm"/>
 </GridItem>
 </Grid>
+
+---
 
 ### Part2: Laser disco <Label>Night</Label>
 After a long roleplay Ai transforms into her demon form and the whole arena gets darker. This part of the phase does not have distinct phases like the first one but instead has checkpoints at 66% and 33% that when passed, adds new mechanics to the fight. 

@@ -3,6 +3,7 @@ title: 'Consumables'
 date: '2020-07-25'
 image: './images/consumables.jpg'
 description: 'Learn how to use various consumables to greatly simplify otherwise challenging content.'
+hidden: 'false'
 ---
 
 ## General Purpose Consumables

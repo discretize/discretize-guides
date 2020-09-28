@@ -70,7 +70,7 @@ This version is made mostly for PuGs that are not phasing fast enough to get pro
 
 
 <ConditionalComponent condition="static">
-<Boss name="MAMA" video="" videoCreator="" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131" >
+<Boss name="MAMA" video="WFYMOt5gf_4" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131" >
 
 <Message>
 This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
@@ -162,7 +162,7 @@ This version is made mostly for pugs that are not phasing fast enough to profit 
 
 
 <ConditionalComponent condition="static">
-<Boss name="siax" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" heal="signetofrestoration" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
+<Boss name="siax" video="toqlXSTRSVg" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="signetofrestoration" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 <Message>
 This build only works if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
 </Message>
@@ -205,7 +205,7 @@ In more organised groups its recommended to run <Specialization name="Tempest"/>
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="ensolyss" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
+<Boss name="ensolyss" video="xYqHUt_-H-M" timestamp="" videoCreator="Elda [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 If group DPS is low its recommended to run <Trait id="214"/> instead of <Trait id="1502"/>. In PuGs it is recommended to use the raid rotation from Snow Crows.
 
 Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>. If phases are long try to use next ones in <Skill id="5492"/>/<Skill id="5494"/> -> <Skill id="5492"/>/<Skill id="5492"/> to get more burning stacks. Spam your <Skill id="5539"/> during <Effect name="Exposed"/> window.
@@ -247,30 +247,44 @@ Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>.
 
 <ConditionalComponent condition="static">
 
-<Boss name="ensolyss" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" heal="arcanebrilliance" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
+<Boss name="ensolyss" video="0mmm-CBLrn8" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="arcanebrilliance" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 Use first <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>, if phases are long try to use the next ones in <Skill id="5492"/>/<Skill id="5494"/> -> <Skill id="5492"/>/<Skill id="5492"/> to get more <Condition name="Burning"/> stacks. 
 </Boss>
 
 ### **Precast**
-- Precast <Skill id="5624"/> for yourself 
-
+- Precast <Skill id="5624"/> close to the boss hitbox and gg/use portal to get back to party.
+- Precast <Skill id="5501"/> when boss is about to be pulled.
+- **NOTE:** It is possible use tempest precast as well if any party member is placing fire field.
 ### **1st Phase**
 
 - <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> ->  <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5725"/> -> <Skill id="5557"/> -><Skill id="44451"/> -><Skill id="5691"/>-> <Skill id="45313"/> 
-- Spam <Skill id="5539"/> during <Effect name="Exposed"/> duration.
-- Complete your auto attack chains and repeat burst until Ensolyss phases.
+- Continue loop until boss is phased.
+- **NOTE:** Save <Skill id="5539"/> after exposed buff for next phases.
+
+### **Splits** 
+- For splits there is some time to blast additional might and be back on <Skill id="5494"/>/<Skill id="5494"/> for incoming phase.
+- Place fire field with <Skill id="5691"/> and attune to <Skill id="5495"/>/<Skill id="5492"/>.  Blast it with <Skill id="40709"/> , attune to <Skill id="5495"/>/<Skill id="5495"/> and use another blast with <Skill id="5690"/>. 
+- Attune to <Skill id="5494"/>/<Skill id="5495"/>, attune to <Skill id="5494"/>/<Skill id="5494"/> just before p2/p3 to get <Trait id="2131"/> buff.
+- Throw <Skill id="5516"/> for  <Specialization name="Soulbeast"/> inside his/her circle.
+- **NOTE:** Do not hesitate to use <Skill id="40709"/>, <Skill id="46447"/>, <Skill id="44405"/> if things are going hot. Just keep in mind to be on <Skill id="5494"/>/<Skill id="5494"/> just as phase starts.
 
 ### **66%**
 
-- Before the boss becomes vulnerable, cast <Skill id="5691"/> and <Skill id="21656"/> so that your party gets some <Boon name="Might"/>.
-- <Skill id="5737"/> -> <Skill id="5687"/> -> <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete your auto attack chain on <Skill id="5492"/>/<Skill id="5494"/> ->  <Skill id="5539"/> -><Skill id="40183"/> -> <Skill id="5516"/> (to the point you will stand during the capture phase) -> <Skill id="5517"/> -> <Skill id="5531"/> ->  <Skill id="44451"/> -> <Skill id="45313"/> -> <Skill id="5557"/>.
-- Complete your auto attack chains and get as much damage as you can in the <Effect name="Exposed"/> duration.
+- Before the boss becomes vulnerable blast <Skill id="21656"/> with fire field placed by warrior so that party gets some <Boon name="Might"/>.
+- Precast <Skill id="5531"/> on boss hitbox.
+- Precast <Skill id="5737"/> if its up just at the start of phase.
+- <Skill id="5687"/> -> <Skill id="44998"/> -> <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete your auto attack chain ->  <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
+- Continue loop until boss is phased.
+- Complete auto attack chains and get as much damage as you can in the <Effect name="Exposed"/> duration.
 
 ### **33%**
+- Before the boss becomes vulnerable blast <Skill id="21656"/> with fire field placed by warrior so that party gets some <Boon name="Might"/>.
+- Precast <Skill id="5737"/>
+-   <Skill id="5687"/>-> <Skill id="44998"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Autoattach Chain  -> <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
+- Continue loop with BTTH rotation until boss is phased.
+- Complete auto attack chains and get as much damage as its possible in the <Effect name="Exposed"/> duration.
+- **NOTE:** Try to double dodge CCing attack if phase 15% before bubble and dont have enough dps to kill boss before CCing attack.
 
-- Cast <Skill id="5531"/> and drop your <Skill id="5516"/>.
-- <Skill id="5737"/> -> <Skill id="5687"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5539"/> -> <Skill id="40183"/> -> <Skill id="44451"/> -> <Skill id="45313"/> -><Skill id="5557"/>.
-- Complete your auto attack chains and get as much damage as you can in the <Effect name="Exposed"/> duration.
 
 </ConditionalComponent>
 
@@ -592,15 +606,15 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 
 ### **Phase 2**
 - Keep an eye on other orbs, try to precast <Skill id="43803"/>.
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="44451"/> -> <Skill id="5691"/> ( for blasts mostly )
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="44451"/> -> <Skill id="5691"/> (for blasts mostly)
 - If group damage is low you can try to fill <Skill id="5557"/> in here.
 
 ### **Archdiviner** 
 - <Skill id="45313"/> on mini boss as fast as possible
 - Throw <Skill id="5516"/> for your <Specialization name="Soulbeast"/>
 - Start attuning to <Skill id="5494"/>/<Skill id="5494"/>
-- While CC bar is up use <Skill id="5697"/> + <SpecialActionKey name="hypernovalaunch"/> combo to cc the mini boss and provide some damage.
-- **NOTE:** Try to avoid corruption fields at any cost, they pretty hurts your phase 3.
+- While CC bar is up use <Skill id="5697"/> + <SpecialActionKey name="hypernovalaunch"/> combo to CC the mini boss and provide some damage.
+- **NOTE:** Try to avoid corruption fields at any cost, they hurt your phase 3 DPS badly.
 
 ### **Phase 3** 
 - Precast <Skill id="5531"/> and <Skill id="5737"/>

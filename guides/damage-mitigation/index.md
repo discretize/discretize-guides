@@ -3,6 +3,7 @@ title: 'Damage Mitigation'
 date: '2020-07-25'
 image: './images/reflect.jpg'
 description: 'Learn which skills and traits your profession can use to avoid damaging mechanics.'
+hidden: 'false'
 ---
 
 ## Projectiles Destruction / Reflection
