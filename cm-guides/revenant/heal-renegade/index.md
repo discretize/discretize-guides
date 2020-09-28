@@ -1,6 +1,6 @@
 ---
 title: 'Heal Renegade CM guides'
-build: 'Heal Renegade'
+build: 'Heal-Renegade'
 profession: 'Revenant'
 specialization: 'Renegade'
 date: '2020-07-25'
