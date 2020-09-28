@@ -1,8 +1,8 @@
 ---
-title: 'Counter Mechanics as <Specialization name="Firebrand" text="Heal Firebrand"/> in CMs'
+title: 'Counter Mechanics as HFB in CMs'
 date: '2020-07-25'
-image: './images/reflect.png'
-description: 'An in depth guide to <Specialization name="Firebrand" text="Heal Firebrand"/> in CMs'
+image: './images/reflect.jpg'
+description: 'An in depth guide to HFB in CMs'
 hidden: 'true'
 ---
 
