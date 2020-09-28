@@ -1,7 +1,7 @@
 ---
 title: 'Counter Mechanics as <Specialization name="Firebrand" text="Heal Firebrand"/> in CMs'
 date: '2020-07-25'
-image: './images/whatshouldiplaylogo.png'
+image: './images/reflect.png'
 description: 'An in depth guide to <Specialization name="Firebrand" text="Heal Firebrand"/> in CMs'
 hidden: 'true'
 ---
