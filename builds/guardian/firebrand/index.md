@@ -197,7 +197,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
 <Card title="Firebrand openers">
-<Video caption="by MagicBot [dT], edited by Vince [dT]" youtube=""/> 
+<Video caption="by MagicBot [dT], edited by Vince [dT]" youtube="pFUHvaqPOO0"/> 
 </Card>
 </GridItem>
 
