@@ -3,6 +3,7 @@ title: 'Meta explained'
 date: '2020-07-25'
 image: './images/preview.png'
 description: 'Everything around Meta and the current Meta composition'
+hidden: 'false'
 ---
 
 ## What does meta mean? 

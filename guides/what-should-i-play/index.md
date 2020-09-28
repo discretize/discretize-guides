@@ -3,6 +3,7 @@ title: 'What Should I Play?'
 date: '2020-07-25'
 image: './images/whatshouldiplaylogo.png'
 description: 'If you do not know what class you want to play.'
+hidden: 'false'
 ---
 This page introduces all the builds on this website by giving a very short overview over the gameplay. It may help you to choose the right class for your very own playstyle. Generally there are three types of builds: DPS, offensive support and defensive support builds. A META team for example is only running DPS and offensive support builds.
 
