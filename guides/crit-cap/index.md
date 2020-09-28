@@ -3,6 +3,7 @@ title: 'Crit Cap'
 date: '2020-07-25'
 image: './images/crit.png'
 description: 'Learn how to achieve crit cap on various Guild Wars 2 professions.'
+hidden: 'false'
 ---
 
 ## Reasoning

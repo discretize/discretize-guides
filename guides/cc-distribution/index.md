@@ -3,6 +3,7 @@ title: 'CC Distribution'
 date: '2020-07-25'
 image: './images/preview.jpg'
 description: 'Learn how to contribute your share of CC to break all the bars.'
+hidden: 'false'
 ---
  
 ## Basics of Crowd Control:

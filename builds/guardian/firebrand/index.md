@@ -12,6 +12,7 @@ conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'ganymed.3541'
 cmguides: '/cm-guides/guardian/firebrand'
+classification: [5, 3, 4, 2, 4]
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.
@@ -196,7 +197,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
 <Card title="Firebrand openers">
-<Video caption="by MagicBot [dT], edited by Vince [dT]" youtube=""/> 
+<Video caption="by MagicBot [dT], edited by Vince [dT]" youtube="pFUHvaqPOO0"/> 
 </Card>
 </GridItem>
 

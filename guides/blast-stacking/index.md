@@ -3,6 +3,7 @@ title: 'Blast Stacking'
 date: '2020-07-25'
 image: './images/stacking.jpg'
 description: 'Use blasts and combo fields to stack large amounts of Might, Fury, and Stealth on your party.'
+hidden: 'false'
 ---
 
 ## Blast Finishers
