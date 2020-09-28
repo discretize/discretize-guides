@@ -29,6 +29,8 @@ The Voice of the mountain is the first boss in the fractal. This boss deals litt
 </GridItem>
 </Grid>
 
+---
+
 ### Water Path to the next boss
 
 <Grid>
@@ -45,7 +47,7 @@ Do the mini jumping puzzle to the last boss, remember to free the elementals. As
 
 <GridItem sm="4">
 
-Image src="./images/way_to_artsariiv.jpg" caption="The way to the stone of the mountain"
+<Image src="./images/waterfall.png" caption="The way to the stone of the mountain" />
 
 </GridItem>
 
@@ -186,6 +188,8 @@ Move counter clockwise and contiue removing the dark clouds with the green AoEs.
 <GifPlayer caption="Tethers during the water phase" url="https://cdn.discordapp.com/attachments/662333637143822339/759477691207778334/watermemems.webm"/>
 </GridItem>
 </Grid>
+
+---
 
 ### Part2: Laser disco <Label>Night</Label>
 After a long roleplay Ai transforms into her demon form and the whole arena gets darker. This part of the phase does not have distinct phases like the first one but instead has checkpoints at 66% and 33% that when passed, adds new mechanics to the fight. 
