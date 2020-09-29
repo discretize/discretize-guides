@@ -192,8 +192,10 @@ Move counter clockwise and contiue removing the dark clouds with the green AoEs.
 ---
 
 ### Part2: Laser disco <Label>Night</Label>
-After a long roleplay Ai transforms into her demon form and the whole arena gets darker. This part of the phase does not have distinct phases like the first one but instead has checkpoints at 66% and 33% that when passed, adds new mechanics to the fight. 
-
+After a long roleplay Ai transforms into her demon form and the whole arena gets darker. This part of the phase does not have distinct phases like the first one but instead has checkpoints at 66% and 33% that when passed add new mechanics to the fight. 
+<Message>
+You are able to jump over the verticle laser beams to avoid damage, use this mechanic to avoid dodging and maintain dps uptime
+</Message>
 #### Pre-Sorrow<Label>100%-66%</Label>
 <Grid>
 <GridItem xs="12" sm="5">
@@ -203,7 +205,7 @@ After a long roleplay Ai transforms into her demon form and the whole arena gets
 After recovering from being tethered by her Doubt the boss will initially dash in a random direction into the wall and start her attack pattern. Be careful to not stand in her dash path or to simply dodge through it as it deals heavy damage. Upon hitting the wall lasers will start to spawn in a set attack pattern that will be consistant throughout the fight this is also when the first breakbar appears which lasts 7 seconds. The hitboxes of the lasers are quite thin and it is therefore possible to stand inbetween two lasers and not get hit. After 5 waves of lasers Ai will dash again in a random direction towards a wall. This is when the first split phase will occur, a bunch of heavy ticking damage AoE's will spawn around the boss aswell as very large expanding circles around each players. Make sure to spread out to avoid heavy damage. She will then do a series of basic attacks before finally doing another split phase with a slightly different AoE pattern on the floor. 
 </GridItem>
 </Grid>
-She will keep dashing around the arena and mixing and matching her abilities described above until she dashes to the middle of the arena. The only difference with being in the middle of the arena is that during the split phase instead of pulsing AoE's, lasers appear that will converge once the player specific AoE's explode. Be careful when walking back into the boss as these lasers will converge on her in two waves and deal heavy damage.
+She will keep dashing around the arena and mixing and matching her abilities described above until she dashes to the middle of the arena. The only difference being in the middle of the arena does is that during the split phase instead of pulsing AoE's lasers appear that will converge once the expanding AoE's on the players explode. Be careful when walking back into the boss as these lasers will converge on her in two waves and deal heavy damage. You can tell the ticking AoE apart from the converging AoE by weather or not there is an arrow attatched to them. If an arrow is present it will converge, if not it will tick.
 
 From this point onward the boss will mostly stay in the center of the arena, dashing out only to instantly dash back in, or only staying on the wall for the 5 waves of laser attacks.
 
@@ -211,14 +213,14 @@ From this point onward the boss will mostly stay in the center of the arena, das
 <Message>
 Any AoE's on the floor prior to her hitting 66% will still last the full duration so be careful when walking back to the center
 </Message>
-Upon hitting 66% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena. She will then instantly start channeling and pulsing out AoE's in a set ring pattern. Where the first ring is done, second is in the middle and third is far from the boss. However no AoE's will spawn directly next to the boss so staying in melee range is safe. There are also small safe zones between the AoE's.
+Upon hitting 66% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena. She will then instantly start channeling and pulsing out AoE's in a set ring pattern. Where the first ring is close, second is in the middle and third is far from the boss. However no AoE's will spawn directly next to the boss so staying in melee range is safe. There are also small safe zones between the AoE's.
 
 <Grid>
 <GridItem xs="12" sm="4">
 <GifPlayer caption="CCing the Sorrow" url="https://cdn.discordapp.com/attachments/662333637143822339/759492028089761843/beamz.webm"/>
 </GridItem>
 <GridItem xs="12" sm="8">
-At the same time a Sorrow will spawn, this mob will spawn at a random position inside the middle ring of AoE's, a few seconds after the boss begins channeling. You can tell where the Sorrow will spawn a few seconds before thanks to a small area of the arena lighting up at its eventual spawn location. The Sorrow will start channeling a devastating attack that will instantly down the whole party if it completes channeling. To prevent this the Sorrow must be killed or it's breakbar must be broken. Ranged CC such as <Skill name="Sanctuary"/> or <Skill name="Darkrazors Daring"/> is preferable as you get to stay inside the safe zone near the boss. Consumables such as <Item id="8678"/> are also very powerful due to their ranged nature.
+At the same time a Sorrow will spawn, this mob will spawn at a random position inside the middle ring of AoE's a few seconds after the boss begins channeling. You can tell where the Sorrow will spawn a few seconds before it actually does thanks to a small area of the arena lighting up at its eventual spawn location. The Sorrow will start channeling a devastating attack that will instantly down the whole party if it completes channeling. To prevent this the Sorrow must be killed or it's breakbar must be broken. Ranged CC such as <Skill name="Sanctuary"/> or <Skill name="Darkrazors Daring"/> is preferable as you get to stay inside the safe zone near the boss. Consumables such as <Item id="8678"/> are also very powerful due to their ranged nature.
 </GridItem>
 </Grid>
 
