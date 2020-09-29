@@ -127,7 +127,7 @@ In more organised groups its recommended to run <Specialization name="Tempest"/>
 
 <ConditionalComponent condition="pug">
 <Boss name="siax" video="ndLsaN4_Bvw" videoCreator="Elda [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131" >
-This version is made mostly for pugs that are not phasing fast enough to profit from <Skill id="44612"/> and where you have to solo your add. Use <Skill id="40183"/> slightly delayed to get more <Condition name="Burning"/> ticks. 
+This version is made mostly for PuGs that are not phasing fast enough to profit from <Skill id="44612"/> and where you have to solo your add. Use <Skill id="40183"/> slightly delayed to get more <Condition name="Burning"/> ticks. 
 </Boss>
 
 ### **Precast**
@@ -212,7 +212,7 @@ Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>.
 </Boss>
 
 ### **Precast**
-- Precast <Skill id="5624"/> for yourself  to the boss hitbox and gg/use portal to get back to party. Skip this part if pugs are nervous about elitist stuff.
+- Precast <Skill id="5624"/> for yourself  to the boss hitbox and gg/use portal to get back to party. Skip this part if PuGs are nervous about elitist stuff.
 - **NOTE:** You can use tempest precast as well if any party member is placing fire field.
 
 ### **1st Phase**
