@@ -3,7 +3,7 @@ title: 'Dragonhunter CM guides'
 build: 'Dragonhunter'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
-date: '2020-07-25'
+date: '2020-09-29'
 author: 'SpatiumPrinceps.8927'
 disableOrganized: 'true'
 ---

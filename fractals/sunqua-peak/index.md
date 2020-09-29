@@ -1,6 +1,6 @@
 ---
 title: 'Sunqua Peak'
-date: '2020-09-20'
+date: '2020-09-29'
 image: './images/hero_sunqua2.jpg'
 group: 'Challenge Mode'
 api: 0

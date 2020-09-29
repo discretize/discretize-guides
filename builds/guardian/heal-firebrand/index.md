@@ -1,6 +1,6 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2020-07-25'
+date: '2020-09-29'
 rating: 'Other'
 role: 'Support'
 profession: 'Guardian'
