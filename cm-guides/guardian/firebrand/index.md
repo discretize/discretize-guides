@@ -3,7 +3,7 @@ title: 'Firebrand CM guides'
 build: 'Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
-date: '2020-07-25'
+date: '2020-09-29'
 author: 'ganymed.3541'
 disableOrganized: 'false'
 ---

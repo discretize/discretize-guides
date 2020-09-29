@@ -1,6 +1,6 @@
 ---
 title: 'Berserker'
-date: '2020-07-25'
+date: '2020-09-29'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Warrior'
@@ -154,7 +154,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 | <Skill name="Signet of might" disableText size="big"/> | Flat 180 power buff. Only take this when no other utility is needed.|
 | <Skill name="Battle Standard" disableText size="big"/> | For Arkk and Artsariiv. |
 | <Skill name="banneroftactics" disableText size="big"/> | Can be precasted at encounters. |
-| <Skill name="onmymark" disableText size="big"/> | Can be used to pull Kraits from the side altars at 99CM. |
+| <Skill name="onmymark" disableText size="big"/> | Can be used to pull Krait from the side altars at 99CM. |
 | <Skill name="featherfootgrace" disableText size="big"/> | Grants <Effect name="Superspeed"/> for skips. |
 | <Skill name="frenzy" disableText size="big"/> | Self <Boon name="Quickness"/> for precasting banners. |
 | <Skill name="bloodreckoning" disableText size="big"/> | For double <Skill name="arcdivider"/> or the situational <Specialization name="Berserker"/> build. |
@@ -242,7 +242,7 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <GridItem xs="12" sm="6">
 <Card title="Precasting">
-- Precast banners - encounter specific. Check out the other tabs!
+- Precast banners - encounter specific. Check out the cm-guides!
 - Use both charges of <Skill name="For Great Justice!"/>.
 - If a fire field isn’t present, equip an offhand torch and use <Skill name="Flames of War"/>.
 - If you haven’t needed to precast your banners at the boss, use them to blast the fire field for 6 stacks of <Boon name="Might"/> per banner.
