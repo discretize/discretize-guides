@@ -3,7 +3,7 @@ title: 'Heal Renegade CM guides'
 build: 'Heal-Renegade'
 profession: 'Revenant'
 specialization: 'Renegade'
-date: '2020-07-25'
+date: '2020-09-29'
 author: 'Janitsu.6284'
 disableOrganized: 'true'
 ---

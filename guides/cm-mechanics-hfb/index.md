@@ -1,6 +1,6 @@
 ---
 title: 'Counter Mechanics as HFB in CMs'
-date: '2020-07-25'
+date: '2020-09-29'
 image: './images/reflect.jpg'
 description: 'An in depth guide to HFB in CMs'
 hidden: 'true'
