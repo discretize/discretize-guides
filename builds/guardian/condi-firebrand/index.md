@@ -28,7 +28,9 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 
 <Divider text="Equipment"/>
 
-Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="72339"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For shorter fights use <Item id="91842"/>. For longers fights drop <Item id="72339"/> in favor of <Item id="24560"/>.
+- Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longers fights drop <Item id="24560"/> for <Item id="72339"/>.
+- Playing the raid DPS build with this traits performs almost identical.
+- <Item name="majorbursting"/> and <Item name="bursting"/> stack.
 
 <Grid>
 <GridItem sm="4">
@@ -36,7 +38,7 @@ Note that this build variant gains boon duration from the <Item id="79722"/> and
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="majorbursting" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
 
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM.
@@ -45,9 +47,9 @@ Note that this build variant gains boon duration from the <Item id="79722"/> and
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Sinister" ring2Affix="Viper" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
+<BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Sinister" accessory2Affix="Sinister" amuletAffix="Sinister" ring1Affix="Sinister" ring2Affix="Viper" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
-<Consumables foodId="86997" utilityId="48917" infusionId="37130"/>
+<Consumables foodId="86997" utilityId="48916" infusionId="37130"/>
 
 </GridItem>
 </Grid>
