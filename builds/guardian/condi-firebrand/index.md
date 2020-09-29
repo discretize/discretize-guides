@@ -78,7 +78,7 @@ Note that this build variant gains boon duration from the <Item id="79722"/> and
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
 | <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. |
 | <Skill id="9153" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
-| <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
+| <Skill id="9125" size="big" disableText/> | Deals an additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
 | <Skill id="43357" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
 | <Skill id="9247" size="big" disableText/> | A 1200 range teleport to an enemy. |
