@@ -11,7 +11,7 @@ traits: [1786]
 boons: ['Alacrity', 'Might', 'Stability']
 conditions: ['Vulnerability']
 code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
-author: 'Jin Su Liang.9036'
+author: 'Casual Sophie - Jin Su Liang.9036'
 cmguides: '/cm-guides/revenant/renegade'
 classification: [5, 2, 4, 3, 5]
 ---
