@@ -10,7 +10,7 @@ benchmark:
 skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
-code: '[&DQQIGiA7Nyp5AC4XpQGlAbwAvACsAawBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
+code: '[&DQQIGiA7Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/soulbeast'
 classification: [5, 5, 3, 3, 4]
 ---
@@ -21,8 +21,8 @@ This build is rather self sufficient due to:
 - <Boon name="Quickness"/> from <Trait name="livefast"/> 
 - <Boon name="Might"/> from <Trait name="Huntersgaze"/>
 - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/> 
-- High CC with <Skill name="Charge" profession="Ranger"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
-- High mobility via <Skill name="monarchsleap"/>, <Skill name="Charge" profession="Ranger"/> and <Skill name="swoop"/>
+- High CC with <Skill id="45743"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
+- High mobility via <Skill name="monarchsleap"/>, <Skill id="45743"/> and <Skill id="12521"/>
 
 Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike. 
 
@@ -47,7 +47,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="Might"/> pre-stacking.
-* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>.
+* Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
 * Axes, Longbows, and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
 
 </Card>
@@ -75,7 +75,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/>!
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="Might"/> pre-stacking.
-* Longbow to replace Greatsword on some bosses and to precast <Skill name="Barrage"/>.
+* Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
 * Axes, Longbows, and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
 
 </Card>
@@ -119,7 +119,7 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 <Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128"/>
 </GridItem>  
 <GridItem sm="5">
-<Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3="Frost Trap" eliteId="45717"/>
+<Skills healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
 <Card title="Pets">
 | | |
 | -- | -- |
@@ -127,9 +127,7 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>. |
 | <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
 </Card>  
-<Card title="Warhorn">
-Play warhorn whenever you can't precast <Skill name="Barrage"/> and also won't get to cast a second <Skill name="Barrage"/>.
-</Card>
+
 </GridItem>
 </Grid>
 
@@ -144,6 +142,9 @@ Play warhorn whenever you can't precast <Skill name="Barrage"/> and also won't g
 | <Trait id="2143" size="big" disableText/> | On short T4 fights you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> for your allies then swap traits right before you get in combat. |
 | <Trait name="potentally" size="big" disableText/> | For longer encounters, more <Boon name="Might"/> generation. |
 </Card>
+<Card title="Warhorn">
+Play warhorn whenever you can't precast <Skill name="Barrage"/> and also won't get to cast a second <Skill name="Barrage"/>.
+</Card>
 <Card title="Skirmishing and Fractals">
 Running Skirmishing in fractals is quite a niche choice, you need to satisfy **both of the following requirements:**
 - You can be sure that you can flank the boss permanently.
@@ -151,6 +152,9 @@ Running Skirmishing in fractals is quite a niche choice, you need to satisfy **b
 
 If both of these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:
 <Traits unembossed traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069, 1016, 1888"/>
+<Message>
+<Trait name="trappersexpertise"/> is worth over <Trait id="1069"/> if it allows you to get another <Skill name="Frost trap"/> in a phase.
+</Message>
 </Card>
 </GridItem> 
 <GridItem sm="5">
@@ -162,7 +166,7 @@ If both of these requirements then you can swap Marksmanship for Skirmishing wit
 | <Skill name="Quickening Zephyr" size="big" disableText/> | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>. |
 | <Skill name="Dolyak Stance" size="big" disableText/> | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles). |
 | <Skill name="sharpeningstone" size="big" disableText/> | Can be used before mistlock precast for and swapped with a usual utility for some extra opener DPS. |
-| <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai trin and Artsariiv. |
+| <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai Trin and Artsariiv. |
 
 </Card>
 
@@ -184,7 +188,7 @@ The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to 
 
 Also as <Specialization name="Soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your <Specialization name="Weaver"/>). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="Exposed"/>. 
 
-In PuGs, however, it is quite hard to predict when the boss will be CCed as well as phases can last a lot longer than expected, because of this the golem rotation is listed to the right so that you can resort back to it if you end up in a longer phase.
+In PuGs, however, it is quite hard to predict when the boss will be CCed as well as phases can last a lot longer than expected, because of this the golem rotation is listed in the next section so that you can resort back to it if you end up in a longer phase.
 
 **Weapon Skills:**
 - **You should mostly run main-hand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
@@ -194,7 +198,7 @@ In PuGs, however, it is quite hard to predict when the boss will be CCed as well
 For your second weapon set you either run greatsword or longbow:
  
 - Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
-- Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill name="swoop"/>.
+- Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>.
 - In order to proc <Item id="84505"/> you merely need to use any CC skill (such as <Skill id="45743"/> or <Skill id="12511"/>) whilst the enemy is using an ability.
 
 **Pets:**
@@ -218,8 +222,8 @@ For your second weapon set you either run greatsword or longbow:
 <GridItem xs="12" sm="6">
 
 <Card title="Information">
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
-For that reason you can find a video with openers, that are efficient to use here. 
+Golem rotations from raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+For that reason you can find a video below with openers for each of the CM bosses: 
 </Card>
 <Card title="Soulbeast openers">
 <Video caption="by Stellan [dT], edited by Vince [dT]" youtube="0obkDd8lCTA"/> 
@@ -250,7 +254,7 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
-<Video youtube="18X3buGk4Mc" caption="by LEFT" />
+<Video youtube="MCs3a6T3sUQ" caption="by Sascha [CnD] " />
 </Card>
 
 <Card title="Golem Rotation">
@@ -262,13 +266,13 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 6. <Skill name="worldlyimpact"/> 
 7. <Skill name="Frenzied Attack"/> 
 8. <Skill name="Rapid Fire"/> 
-9. Swap weapons.
+9. `Weapon Swap`
 10. <Skill name="Path of scars"/>
 11. <Skill name="Whirling Defense"/>
-12.  Autoattack x4
+12.  `Autoattack chain x4`
 13. <Skill name="Path of scars"/>
-14. Swap weapons. 
-15. Autoattack x6
+14. `Weapon Swap`
+15. <Skill name="Long Range Shot"/> `Autoattack x6`
 16. <Skill name="Point Blank Shot"/>
 17. <Skill name="Barrage"/>
 18. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
@@ -294,16 +298,10 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 | <Skill name="pointblankshot"/> 	| 2497 | 
 | <Skill name="kick" profession="ranger"/> | 2348 | 
 | <Skill name="rapid fire"/> 	| 2220 | 
-| <Skill name="charge" profession="ranger"/> | 2050 | 
+| <Skill id="45743"/> | 2050 | 
 | <Skill name="hilt bash"/> + <br/><Skill id="12525"/> 	| 2029 | 
-| <Skill name="tail swipe"/> | 	1796 | 
 
-
-Dmg: Tooltip damage, berserker, 15x <Item id="37131"/>, merged   
-Cast: average cast time in ms  
-iDPS: Damage / Cast
-<br/><br/>
-by Elu [SC]
+Many thanks to Elu [SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4ff.png).
 </Card>
 </GridItem>
 </Grid>
@@ -312,7 +310,7 @@ by Elu [SC]
 
 <Divider text="Underwater Guide"/>
 
-For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> and <Skill name="Mercy Shot"/> to precast damage into <Skill name="Sicem"/>. Outside of that precasting, you want to camp Spear since <Skill name="Man o war"/>, <Skill name="Swirling Strike"/> as well as your auto-attack chain deal good damage. You should swap back to Harpoon gun at the start of the split-phase of the Jellyfish Beast to range the split adds as well as allowing you to restart your rotation when the split-phase ends.
+For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> (Skill 3) and <Skill name="Mercy Shot"/> (Skill 4) to precast damage into <Skill name="Sicem"/>. Outside of that precasting, you want to camp Spear since <Skill name="Man o war"/> (Skill 5), <Skill name="Swirling Strike"/> (Skill 2) as well as your auto-attack chain deal good damage. You should swap back to Harpoon gun at the start of the split-phase of the Jellyfish Beast to range the split adds as well as allowing you to restart your rotation when the split-phase ends.
 
 Underwater the pet you use for DPS depends on the situation just like above land:
 - You want to merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS as well as <Boon name="Fury"/> uptime. You want to use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger, additionally during DPS downtime (The split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime.
@@ -321,5 +319,5 @@ Underwater the pet you use for DPS depends on the situation just like above land
 
 **Bonus Tips:**
 - <Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/fractals/aquatic-ruins) often has <Instability name="Afflicted"/>. 
-- If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
-- At the end of a phase you can use <Skill name="Feeding frenzy"/> (Harpoon 3) and <SKill name="mercyshot"/> (Harpoon 4) again to finish the boss.
+- If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> (Skill 4) since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
+- At the end of a phase you can use <Skill id="12528"/> (Harpoon 3) and <Skill name="Mercy Shot"/> (Harpoon 4) again.
