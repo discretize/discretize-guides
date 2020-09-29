@@ -16,13 +16,13 @@ cmguides: '/cm-guides/elementalist/weaver'
 classification: [4, 5, 2, 3, 4]
 ---
 
-The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Sword Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also its pretty useful for some t4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
+The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Sword Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some t4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
 Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so try  to avoid damage. Be especially careful when there is <Instability name="We Bleed Fire"/>. 
 
 Also this build depends pretty much on supports and boon uptimes, as it cant provide any boons itself besides some <Boon name="Might"/> from blasting fire fields.
 
-Though it has one of the most fluid rotations in game what makes it pretty enjoyable to play if given some dedication.
+Though it has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication.
 
 The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -143,7 +143,7 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 | -- | -- |
 |Heal|
 | <Skill name="Arcane Brilliance" size="big" disableText/> | Take it for additional <Boon name="Might"/> from fire fields. It is much less healing than glyph.
-| <Skill name="Signet of Restoration" size="big" disableText/> | Helps with upkeeping scholar uptime when burst heal is not needed.
+| <Skill name="Signet of Restoration" size="big" disableText/> | Helps with keeping up <Item name="scholar"/> when burst heal is not needed.
 | <Skill name="Aquatic stance" size="big" disableText/> | Another alternative healing skill affecting allies close to the target you strike. |
 |Offensive|
 | <Skill name="Arcane Wave" size="big" disableText/> | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field. |
@@ -200,13 +200,13 @@ For that reason you can find a video with openers, that are efficient to use her
 <Card title="Advanced Notes">
 ### **Burst priority**
 
-<Skill id="5492"/>/<Skill id="5492"/> bursting options and priority:
+<Skill id="5492" disableText/>/<Skill id="5492" disableText/> bursting options and priority:
 
-Keep eye on boss hp/exposed duration to optimize the <Skill id="5492"/>/<Skill id="5492"/> burst priority there are 3 options for that burst:
+Keep eye on boss HP/<Effect name="Exposed"/> duration to optimize the <Skill id="5492" disableText/>/<Skill id="5492" disableText/> burst priority there are 3 options for that burst:
 
 - <Skill name="Fire Grab"/> -> <Skill name="Cauterizing Strike"/> -> <Skill name="Ring of Fire"/>
 
-When phases are that fast that you are not sure to get both hits with <Skill name="Fire Grab"/> + <Skill name="Cauterizing Strike"/>, OR When <Effect name="exposed"/> window is tight and you have time to cast only one of those skills within it.  <Skill name="Fire Grab"/> has **ALWAYS** higher priority than other two skills in <Skill id="5492"/>/<Skill id="5492"/>
+When phases are that fast that you are not sure to get both hits with <Skill name="Fire Grab"/> + <Skill name="Cauterizing Strike"/>, OR When <Effect name="exposed"/> window is tight and you have time to cast only one of those skills within it.  <Skill name="Fire Grab"/> has **ALWAYS** higher priority than other two skills in <Skill id="5492" disableText />/<Skill id="5492" disableText/>
 
 - <Skill name="Cauterizing Strike"/> -> <Skill name="Ring of Fire"/> -> <Skill name="Fire Grab"/>
   
@@ -216,7 +216,7 @@ When you have enough time to use all those skills within phase time/<Effect name
 - <Skill name="Ring of Fire"/> -> <Skill name="Cauterizing Strike"/> -> <Skill name="Fire Grab"/>
    
 
-When there is a lot of adds around and you have to time to hit both burst skills within <Effect name="exposed"/>/phase time. That option gives additional <Trait name="persisting flames"/> stacks before burst.
+When there are a lot of adds around and you have to time to hit both burst skills within <Effect name="exposed"/>/phase time. That option gives additional <Trait name="persisting flames"/> stacks before burst.
 
 ### **Other**
 - Try to finish your auto-attack chains (<Skill name="Fire Attunement" disableText/>/<Skill name="Searing Slash" disableText/> and <Skill name="Air Attunement" disableText/>/<Skill name="Call Lightning" profession="elementalist" disableText/>).
@@ -250,9 +250,9 @@ Weaver precasting build template:
 - Start on <Skill id="5495"/> with your warhorn/staff tempest precast template and cast <Skill id="29453"/> just when you get <Boon name="Quickness"/> from any source ( the best if fire field is actually placed for might blast ).
 - Swap to  <Skill id="5492"/> and use <Skill id="29548"/> and cast <Skill id="21656"/> and weapon swap to staff.
 - Precast <Skill id="5506"/> and <Skill id="5635"/> while in <Skill id="5492"/>
-- Precast <Skill id="5516"/> take the mistlock and swap your template to weaver. Attune to  <Skill id="5494"/>/<Skill id="5492"/>. 
+- Precast <Skill id="5516"/>, take the mistlock and swap your template to weaver. Attune to  <Skill id="5494"/>/<Skill id="5492"/>. 
 - Take the mistlock
-- **NOTE:** When using this precast its recommended that one party member will bring fire field. Otherwise use <Skill name="Wildfire"/> before using <Skill id="29548"/>.
+- **NOTE:** When using this precast it is recommended that one party member will bring the fire field. Otherwise use <Skill name="Wildfire"/> before using <Skill id="29548"/>.
 
 Tempest precasting build template:
 
@@ -263,7 +263,7 @@ Tempest precasting build template:
 - If you have spare time before the encounter becomes active
    - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
    - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
-- When there is available mistlock but party is not going for full precast ( mostly in t4s ) at least precast <Skill id="5516"/> for yourself. 
+- When there is an available mistlock but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself. 
 </Card>
 
 </GridItem>
@@ -293,7 +293,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 4. <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
 5. <Skill name="Conjure Lightning Hammer"/>   
     <Label>Only if pre-casted LH</Label>
-    <Label>Skip the fire autoattack chain above</Label>
+    <Label>Skip the fire auto-attack chain above</Label>
 </GridItem>
 
 
@@ -359,7 +359,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 </Grid>
 
-If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> => <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap" profession="bundle"/> instead.
+If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto-attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> => <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap" profession="bundle"/> instead.
 
 With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill name="Water Attunement" disableText/> before going directly into <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> after using your Fire skills.
 
