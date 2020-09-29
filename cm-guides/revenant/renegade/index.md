@@ -3,7 +3,7 @@ title: 'Renegade CM guides'
 build: 'Renegade'
 profession: 'Revenant'
 specialization: 'Renegade'
-date: '2020-09-26'
+date: '2020-09-29'
 author: 'Casual Sophie - Jin Su Liang.9036'
 disableOrganized: 'false'
 ---

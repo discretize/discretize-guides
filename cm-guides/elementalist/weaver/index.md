@@ -3,7 +3,7 @@ title: 'Weaver CM guides'
 build: 'Weaver'
 profession: 'Elementalist'
 specialization: 'Weaver'
-date: '2020-09-17'
+date: '2020-09-29'
 author: 'KalzeN.8709'
 disableOrganized: 'false'
 ---
@@ -126,7 +126,7 @@ In more organised groups its recommended to run <Specialization name="Tempest"/>
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="siax" video="ndLsaN4_Bvw" videoCreator="Elda [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131" >
+<Boss name="siax" video="XnTBfLMMic4" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131" >
 This version is made mostly for pugs that are not phasing fast enough to profit from <Skill id="44612"/> and where you have to solo your add. Use <Skill id="40183"/> slightly delayed to get more <Condition name="Burning"/> ticks. 
 </Boss>
 
@@ -205,7 +205,7 @@ In more organised groups its recommended to run <Specialization name="Tempest"/>
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="ensolyss" video="xYqHUt_-H-M" timestamp="" videoCreator="Elda [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
+<Boss name="ensolyss" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 If group DPS is low its recommended to run <Trait id="214"/> instead of <Trait id="1502"/>. In PuGs it is recommended to use the raid rotation from Snow Crows.
 
 Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>. If phases are long try to use next ones in <Skill id="5492"/>/<Skill id="5494"/> -> <Skill id="5492"/>/<Skill id="5492"/> to get more burning stacks. Spam your <Skill id="5539"/> during <Effect name="Exposed"/> window.
@@ -606,15 +606,15 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 
 ### **Phase 2**
 - Keep an eye on other orbs, try to precast <Skill id="43803"/>.
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="44451"/> -> <Skill id="5691"/> (for blasts mostly)
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> ->  <Skill id="44451"/> -> <Skill id="5691"/> ( for blasts mostly )
 - If group damage is low you can try to fill <Skill id="5557"/> in here.
 
 ### **Archdiviner** 
 - <Skill id="45313"/> on mini boss as fast as possible
 - Throw <Skill id="5516"/> for your <Specialization name="Soulbeast"/>
 - Start attuning to <Skill id="5494"/>/<Skill id="5494"/>
-- While CC bar is up use <Skill id="5697"/> + <SpecialActionKey name="hypernovalaunch"/> combo to CC the mini boss and provide some damage.
-- **NOTE:** Try to avoid corruption fields at any cost, they hurt your phase 3 DPS badly.
+- While CC bar is up use <Skill id="5697"/> + <SpecialActionKey name="hypernovalaunch"/> combo to cc the mini boss and provide some damage.
+- **NOTE:** Try to avoid corruption fields at any cost, they pretty hurts your phase 3.
 
 ### **Phase 3** 
 - Precast <Skill id="5531"/> and <Skill id="5737"/>

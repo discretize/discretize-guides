@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-08-04'
+date: '2020-09-29'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -20,8 +20,7 @@ classification: [5, 5, 3, 3, 4]
 This build is rather self sufficient due to:
 - <Boon name="Quickness"/> from <Trait name="livefast"/> 
 - <Boon name="Might"/> from <Trait name="Huntersgaze"/>
-- Boon extension <Trait name="Essence of speed"/> 
-- <Skill name="We heal as one"/> 
+- Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/> 
 - High CC with <Skill name="Charge" profession="Ranger"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
 - High mobility via <Skill name="monarchsleap"/>, <Skill name="Charge" profession="Ranger"/> and <Skill name="swoop"/>
 
@@ -195,7 +194,7 @@ In PuGs, however, it is quite hard to predict when the boss will be CCed as well
 For your second weapon set you either run greatsword or longbow:
  
 - Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
-- Greatsword on the other side offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill name="swoop"/>.
+- Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill name="swoop"/>.
 - In order to proc <Item id="84505"/> you merely need to use any CC skill (such as <Skill id="45743"/> or <Skill id="12511"/>) whilst the enemy is using an ability.
 
 **Pets:**
@@ -210,7 +209,7 @@ For your second weapon set you either run greatsword or longbow:
 - Most healing skills on ranger are quite useful: <Skill name="We heal as one"/> is a large heal and extends the boons on yourself thanks to <Skill id="42944"/>. Secondly <Skill name="Bear stance"/> is a great condi cleanse either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for pushing orbs at Arkk to enter the damage field.
 
 **Extra Notes:**
-- <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phase to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
+- <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phases to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
 - <Skill name="Quickening Zephyr"/> in combination with the <Item id="85244"/> allows you to move extremely fast and is useful for a few skips. Check the [Fractal Guides](/fractals) for specific skips.
 
 <Divider text="Rotation / Skill usage"/>
@@ -318,7 +317,7 @@ For a DPS rotation the same rules apply as above land, try to fit lots of damage
 Underwater the pet you use for DPS depends on the situation just like above land:
 - You want to merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS as well as <Boon name="Fury"/> uptime. You want to use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger, additionally during DPS downtime (The split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime.
 - If you don't need the <Boon name="Fury"/> uptime then you can consider using <Skill id="43068" disableText/> [Lashtail Devourer](https://wiki.guildwars2.com/wiki/Juvenile_Lashtail_Devourer) as a DPS pet. You want to use <Skill name="Worldly impact"/> for DPS as well as <Skill id="43068"/> off cd so that you proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
-- Finally when you want to move around very fast then you can merge with <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. You simply use <Skill id="42797"/> to move around. **Be careful when you swap pets since you can no longer pet swap in combat!**
+- Finally, when you want to move around very fast you can merge with <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. You simply use <Skill id="42797"/> to move around. **Be careful when you swap pets since you can no longer pet swap in combat!**
 
 **Bonus Tips:**
 - <Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/fractals/aquatic-ruins) often has <Instability name="Afflicted"/>. 

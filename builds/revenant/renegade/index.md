@@ -1,6 +1,6 @@
 ---
 title: 'Renegade'
-date: '2020-07-25'
+date: '2020-09-29'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Revenant'
@@ -11,20 +11,20 @@ traits: [1786]
 boons: ['Alacrity', 'Might', 'Stability']
 conditions: ['Vulnerability']
 code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
-author: 'Jin Su Liang.9036'
+author: 'Casual Sophie - Jin Su Liang.9036'
 cmguides: '/cm-guides/revenant/renegade'
 classification: [5, 2, 4, 3, 5]
 ---
 
 <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, an insanely strong party heal and additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>. 
 
-Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesnt matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty. 
+Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty. 
 
-Since the <Specialization name="Renegade"/> is a power oriented build it benefits from  <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-
+Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from  <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
-Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
+- Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
+- Check the CM-guides for information when to play 50% and 80% boon duration. For newer <Specialization name="Renegade"/>s it is recommended to play at least 80% boon duration.
 <Tabs outlined>
 <Tab title="162 Agony Resistance">
 
@@ -153,20 +153,20 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 - <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
 - <Skill name="Warding Rift"/> - A two second block that <Condition name="Blinded"/> foes. 
 - <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
-- <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grant between three and nine hits of <Effect name="Knockback"/>. 
+- <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Control name="Knockback"/>. 
 
 ---
 
 **Notable Traits:**
 
 - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
-- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Effect name="Battle Scars"/>, which makes your attack steal health. This trait is dps alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of dmg, but dont scale with <Effect name="Exposed"/>. Pulls ahead over ST on fights where majority of dmg is dealt, outside of <Effect name="Exposed"/> debuff, so on Artsariv and Arkk. Also worth taking in pug groups.
+- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="Battle Scars"/>, which makes your attack steal health. This trait is the DPS alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of damage, but doesn't scale with <Effect name="Exposed"/>. Pulls ahead over <Trait name="Swift Termination"/> in fights where majority of damage is dealt outside of <Effect name="Exposed"/> debuff (on Artsariv and Arkk). Also worth taking in PuG groups.
 - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%. 
 - <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
 - <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
 - <Trait name="Brutal Momentum"/> - 33% Critical chance increase when your endurance is full. 
-- <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased with 50%. 
-- <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased with 50%. 
+- <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased by 50%. 
+- <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%. 
 
 </Card>
 </GridItem>
@@ -179,7 +179,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 - <Skill name="Breakrazors Bastion"/> - Summons a spirit that heals you on cast and pulses heal to allies in an area around it. Reduces damage taken from conditions by 50%.
 - <Skill name="Razorclaws Rage"/> - Summons a spirit that causes your party to inflict <Condition name="Bleeding"/> on attack.
-- <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ seconds once per second for six seconds.
+- <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ of a second once per second for six seconds.
 - <Skill name="Icerazors Ire"/> -  Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.
 - <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealt by your party while healing them for each attack. 
 
@@ -187,8 +187,8 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 **<Skill name="Legendary Assassin Stance"/>**
 
-- <Skill name="Enchanted Daggers"/> - Every ½ seconds your next six attacks siphon life from your target.
-- <Skill name="Phase Traversal"/> - You shadowstep to your target and gives you two stacks of <Effect name="Unblockable"/>.
+- <Skill name="Enchanted Daggers"/> - Every ½ second your next six attacks siphon life from your target.
+- <Skill name="Phase Traversal"/> - Shadowsteps you to your target and gives you two stacks of unblockable.
 - <Skill name="Riposting Shadows"/> - Stunbreak and evade that removes movement-impairing conditions like <Condition name="Crippled"/>.
 - <Skill name="Impossible Odds"/> - **Toggle:** Damage modifier, grants you another hit on your attacks and increases your movement speed.
 - <Skill name="Jade Winds"/> - Deal damage, inflict <Condition name="Vulnerability"/> and <Control name="Stun"/> five nearby enemies.
@@ -201,7 +201,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 - <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field. 
 - <Skill name="Forced Engagement"/> - Shoot out a chain to your target that applies <Condition name="Taunt"/> and <Condition name="Slow"/> to your target and four nearby enemies.
 - <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
-- <Skill name="Rite of the Great Dwarf"/> - Stunbreak, which reduces incoming damage by 50% for your party.
+- <Skill name="Rite of the Great Dwarf"/> - Stunbreak which reduces incoming damage by 50% for your party.
 
 ---
 
@@ -210,7 +210,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 - <Skill name="Empowering Misery"/> - A decent self-heal that heals more for each unique condition on you.
 - <Skill name="Pain Absorption"/> - Draw one condition from nearby allies and provide <Boon name="Resistance"/> to your party. Also works as a stunbreak.
 - <Skill name="Banish Enchantment"/> - Removes three boons from enemies in a line up to five unique enemies and causes <Condition name="Chilled"/> on enemies hit.
-- <Skill name="Call to Anguish"/> - Jump to a location and pull five nearby enemies to your location inflicting <Condition name="Chilled"/> on them.
+- <Skill name="Call to Anguish"/> - Jump to a location and pull five nearby enemies inflicting <Condition name="Chilled"/> on them.
 - <Skill name="Embrace the Darkness"/> - **Toggle:** Deal damage to nearby enemies and pulse <Condition name="Torment"/> to them. Drains energy when toggled on.
 
 ---
@@ -222,7 +222,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 - <Skill name="Protective Solace"/> - **Toggle:** Summons a protective barrier that **absorbs** (not reflect) projectiles around the tablet.
 - <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
 - <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
-- <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet. Cleanses one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
+- <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet, cleansing one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
 
 </Card>
 </GridItem>
@@ -290,7 +290,7 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 
 <GridItem xs="12" sm="6">
 <Card title="Notes">
-Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/> and while your <Skill name="Impossibleodds"/>. This might not always be possible if you need to reserve energy for boons or in the case that your legend timings are off.
+Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/> and while your <Skill name="Impossibleodds"/> is up. This might not always be possible if you need to reserve energy for boons or in the case that your legend timings are off.
 
 With <Skill name="Legendary Demon Stance"/> you would want to use these abilities with <Skill name="Embrace the darkness"/> on.
 </Card>
