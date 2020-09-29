@@ -73,18 +73,9 @@ The second boss of the fractal is a big pile of rocks. Avoid the orange AoEs tha
 
 ### Path two the next boss
 
-
 <Grid>
-<GridItem sm="8">
-
-<Grid>
-<GridItem sm="4">
-<Video youtube="djLHJzct1_k" muted caption="Skip the lava elementals by Mr. Meowgi" timestamp="104"/>
-</GridItem>
 <GridItem sm="8">
 There are stone piles blocking the way. Kill the lava elementals before each pile to progress along the path. Use <Control name="Pull"/>s and burst them down quickly. 
-</GridItem>
-</Grid>
 </GridItem>
 
 <GridItem sm="4">
