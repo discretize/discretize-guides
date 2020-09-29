@@ -540,7 +540,7 @@ If you group is going to skip the first anomaly, follow the rotation for side st
 This guide assumes you are going to let your group kill the 2nd and 3rd anomalies or skip them completely. If you get the bomb don't panic. Attempt to get the reflect and then if you have time special action key to the dome or /gg! If your group can't kill the anomaly without you you can still attempt to reflect. Whne you get to the side use <Skill name="Point Blank Shot"/>, quickly weapon swap and <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
 </Message>
 <Message>
-If your group has fast or organised CC on the split phases, your <Skill name="Whirling Defense"/> probably won't be off cooldown in the middle. If this is the case start on Longbow and proc <Item id="84505"/> with <Skill name="Point Blank Shot"/>. Then use <Skill name="Rapid Fire"/> and your pet skills.
+If your group has fast or organised CC on the split phases, your <Skill name="Whirling Defense"/> probably won't be off cooldown in the middle. If this is the case use <Skill name="pathofscars"/> and swap to Longbow and proc <Item id="84505"/> with <Skill name="Point Blank Shot"/>. Then use <Skill name="Rapid Fire"/> and your pet skills.
 </Message>
 <Message>
 Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
