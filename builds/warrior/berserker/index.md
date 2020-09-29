@@ -144,7 +144,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="Mending" utility1="For great justice" utility2="Banner of Strength" utility3="Banner of Discipline" elite="Head Butt"/>
+<Skills heal="Mending" utility1="" utility2="Banner of Strength" utility3="Banner of Discipline" elite="Head Butt"/>
 
 <Card title="Situational Skills">
 | | |
