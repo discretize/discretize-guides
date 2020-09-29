@@ -10,6 +10,7 @@ boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/guardian/heal-firebrand'
+extraguide: '/guides/cm-mechanics-hfb'
 classification: [4, 1, 3, 1, 2]
 ---
 
