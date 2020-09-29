@@ -193,7 +193,7 @@ If you do not manage to bring her to 1% in the middle, she will dash twice and i
 
 ---
 
-### Part2: Laser disco <Label>Night</Label>
+### Part 2: Laser disco <Label>Night</Label>
 After a long roleplay Ai transforms into her demon form and the whole arena gets darker. This part of the phase does not have distinct phases like the first one but instead has checkpoints at 66% and 33% that when passed add new mechanics to the fight. 
 <Message>
 You are able to jump over the verticle laser beams to avoid damage, use this mechanic to avoid dodging and maintain dps uptime
@@ -211,7 +211,7 @@ She will keep dashing around the arena and mixing and matching her abilities des
 
 From this point onward the boss will mostly stay in the center of the arena, dashing out only to instantly dash back in, or only staying on the wall for the 5 waves of laser attacks.
 
-#### Sorrow<Label>66%-33%</Label>
+#### Sorrow <Label>66%-33%</Label>
 <Message>
 Any AoE's on the floor prior to her hitting 66% will still last the full duration so be careful when walking back to the center
 </Message>
@@ -230,7 +230,7 @@ At the same time as the Sorrow spawning 5 Fears will spawn on the perimeter of t
 
 From this point onwards the fight is exactly as before, with the added mechanic that after each second split phase the boss will dash to a wall, instantly dash back and start her long channel that spawns a Sorrow. 
 
-#### Guilt<Label>33%-1%</Label>
+#### Guilt <Label>33%-1%</Label>
 As before upon hitting 33% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena and start channeling. 
 
 This part of the boss fight is exactly the same as the Sorrow part with one variation. Instead of spawning a Sorrow a Guilt will spawn. This Guilt will tether to a player and start applying stacks, this tether can be treated similarly to the tether seen in the water phase of Ai's normal form.
