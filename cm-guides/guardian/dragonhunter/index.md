@@ -1,6 +1,6 @@
 ---
 title: 'Dragonhunter CM guides'
-build: 'Dragonhunter'
+build: 'Power-Dragonhunter'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
 date: '2020-09-29'

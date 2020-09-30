@@ -1,6 +1,6 @@
 ---
 title: 'Reaper CM guides'
-build: 'Reaper'
+build: 'Power-Reaper'
 profession: 'Necromancer'
 specialization: 'Reaper'
 date: '2020-09-29'
