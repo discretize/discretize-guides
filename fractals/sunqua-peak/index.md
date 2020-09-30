@@ -3,7 +3,7 @@ title: 'Sunqua Peak'
 date: '2020-09-29'
 image: './images/hero_sunqua2.jpg'
 group: 'Challenge Mode'
-api: 0
+api: 5446
 bosses: 5
 difficulties: [{ level: 100, ar: 150 }]
 cycle: 'Day (non CM) / Night (CM)'
