@@ -1,6 +1,6 @@
 ---
 title: 'Sunqua Peak'
-date: '2020-09-29'
+date: '2020-09-20'
 image: './images/hero_sunqua2.jpg'
 group: 'Challenge Mode'
 api: 0
@@ -79,7 +79,7 @@ The second boss of the fractal is a big pile of rocks. Avoid the orange AoEs tha
 
 <Grid>
 <GridItem sm="4">
-<Video youtube="lNbwrVNoXEI" muted caption="Skip the lava elementals by MGP"/>
+<Video youtube="djLHJzct1_k" muted caption="Skip the lava elementals by Mr. Meowgi" timestamp="104"/>
 </GridItem>
 <GridItem sm="8">
 There are stone piles blocking the way. Kill the lava elementals before each pile to progress along the path. Use <Control name="Pull"/>s and burst them down quickly. 
@@ -151,7 +151,7 @@ The boss has multiple phases themed around the different elements air, fire, wat
 #### Air Phase <Label>100%-66%</Label>
 <Grid>
 <GridItem xs="12" sm="7">
-After crossing the green line, the fight starts. After about one second, Ai dashes to a randomly chosen side and casts a set of line attacks. During this time, a CC bar appears, which should only attemped to be broken in organized groups (due to the very small window of opportunity that requires coordination). After the line attacks, she will dash to the middle and target each player with an orange AoE, forcing the group to split up to minimize damage taken. When the circles disappear, group up (avoiding any subsequent lines or explosions) and start bursting. If you have not broken the 1st CC bar, a second will appear, as Ai starts casting a series of cone attacks. Breaking the bar at the last second is key for maximum DPS. To do this, you need to remember the pattern of upcoming attacks when the CC bar is active. That pattern is 2 cones, a multihit circles (that must be dodged), another cone and finally, a red AoE that deals massive damage and forces the group to split. Break the bar when the red circle appears and stay in the middle, upkeeping DPS.
+After crossing the green line, the fight starts. After about one second, Ai dashes to a randomly chosen side and casts a set of line attacks. During this time, a CC bar appears, which should only attemped to be broken in organized groups (due to the very small window of opportunity that requires coordination). After the line attacks, she will dash to the middle and target each player with an orange AoE, forcing the group to split up to minimize damage taken. When the circles disappear, group up (avoiding any subsequent lines or explosions) and start bursting. If you have not broken the 1st CC bar, a second will appear, as Ai starts casting a series of cone attacks. Breaking the bar at the last second is key for maximum DPS. To do this, you need to remember the pattern of upcoming attacks when the CC bar is active. That pattern is 2 cones, a multihit circle (that must be dodged), another cone and finally, a red AoE that deals massive damage and forces the group to split. Break the bar when the red circle appears and stay in the middle, upkeeping DPS.
 
 If you do not manage to bring her to 66%, she will dash twice and get <Effect name="Invulnerability"/>, summoning a tornado, like the Voice of the Mountain. Approach this phase as you did before, only this time, you must disperse 8 clouds quickly, or Ai will cast a massive AoE that wipes the group. Keep in mind that a set of 3 <Uncategorized name="chargedleap"/> orbs spawn in each cardinal direction. Split up accordingly and move in the same direction to interrupt this attack as quickly as possible.
 
@@ -193,36 +193,34 @@ If you do not manage to bring her to 1% in the middle, she will dash twice and i
 
 ---
 
-### Part 2: Laser disco <Label>Night</Label>
-After a long roleplay Ai transforms into her demon form and the whole arena gets darker. This part of the phase does not have distinct phases like the first one but instead has checkpoints at 66% and 33% that when passed add new mechanics to the fight. 
-<Message>
-You are able to jump over the verticle laser beams to avoid damage, use this mechanic to avoid dodging and maintain dps uptime
-</Message>
+### Part2: Laser disco <Label>Night</Label>
+After a long roleplay Ai transforms into her demon form and the whole arena gets darker. This part of the phase does not have distinct phases like the first one but instead has checkpoints at 66% and 33% that when passed, adds new mechanics to the fight. 
+
 #### Pre-Sorrow<Label>100%-66%</Label>
 <Grid>
 <GridItem xs="12" sm="5">
 <GifPlayer caption="Avoid getting hit by the lasor attack pattern" url="https://cdn.discordapp.com/attachments/662333637143822339/759379953451401236/shadowphasestartvol2.webm"/>
 </GridItem>
 <GridItem xs="12" sm="7">
-After recovering from being tethered by her Doubt the boss will initially dash in a random direction into the wall and start her attack pattern. Be careful to not stand in her dash path or to simply dodge through it as it deals heavy damage. Upon hitting the wall lasers will start to spawn in a set attack pattern that will be consistant throughout the fight this is also when the first breakbar appears which lasts 7 seconds. The hitboxes of the lasers are quite thin and it is therefore possible to stand inbetween two lasers and not get hit. You can also jump over them. After 5 waves of lasers Ai will dash again in a random direction towards a wall. This is when the first split phase will occur, a bunch of heavy ticking damage AoE's will spawn around the boss aswell as very large expanding circles around each players. Make sure to spread out to avoid heavy damage. She will then do a series of basic attacks before finally doing another split phase with a slightly different AoE pattern on the floor (this is the same basic attack pattern as the one in all previous phases, mentioned in the air phase).
+After recovering from being tethered by her Doubt the boss will initially dash in a random direction into the wall and start her attack pattern. Be careful to not stand in her dash path or to simply dodge through it as it deals heavy damage. Upon hitting the wall lasers will start to spawn in a set attack pattern that will be consistant throughout the fight this is also when the first breakbar appears which lasts 7 seconds. The hitboxes of the lasers are quite thin and it is therefore possible to stand inbetween two lasers and not get hit. After 5 waves of lasers, Ai will dash again in a random direction towards a wall. This is when the first split phase will occur, a bunch of heavy ticking damage AoE's will spawn around the boss aswell as very large expanding circles around each players. Make sure to spread out to avoid heavy damage. She will then do a series of basic attacks before finally doing another split phase with a slightly different AoE pattern on the floor (this is the same basic attack pattern as the one in all previous phases, mentioned in the air phase).
 </GridItem>
 </Grid>
 She will keep dashing around the arena and mixing and matching her abilities described above until she dashes to the middle of the arena. The only difference with being in the middle of the arena is that during the split phase, instead of pulsing AoE's, lasers appear that will converge once the player specific AoE's explode. Be careful when walking back into the boss as these lasers will converge on her in two waves and deal heavy damage.
 
 From this point onward the boss will mostly stay in the center of the arena, dashing out only to instantly dash back in, or only staying on the wall for the 5 waves of laser attacks.
 
-#### Sorrow <Label>66%-33%</Label>
+#### Sorrow<Label>66%-33%</Label>
 <Message>
 Any AoE's on the floor prior to her hitting 66% will still last the full duration so be careful when walking back to the center
 </Message>
-Upon hitting 66% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena. She will then instantly start channeling and pulsing out AoE's in a set ring pattern. Where the first ring is close, second is in the middle and third is far from the boss. However no AoE's will spawn directly next to the boss so staying in melee range is safe. There are also small safe zones between the AoE's.
+Upon hitting 66% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena. She will then instantly start channeling and pulsing out AoE's in a set ring pattern. Where the first ring is done, second is in the middle and third is far from the boss. However no AoE's will spawn directly next to the boss so staying in melee range is safe. There are also small safe zones between the AoE's.
 
 <Grid>
 <GridItem xs="12" sm="4">
 <GifPlayer caption="CCing the Sorrow" url="https://cdn.discordapp.com/attachments/662333637143822339/759492028089761843/beamz.webm"/>
 </GridItem>
 <GridItem xs="12" sm="8">
-At the same time a Sorrow will spawn, this mob will spawn at a random position inside the middle ring of AoE's a few seconds after the boss begins channeling. You can tell where the Sorrow will spawn a few seconds before it actually does thanks to a small area of the arena lighting up at its eventual spawn location. The Sorrow will start channeling a devastating attack that will instantly down the whole party if it completes channeling. To prevent this the Sorrow must be killed or it's breakbar must be broken. Ranged CC such as <Skill name="Sanctuary"/> or <Skill name="Darkrazors Daring"/> is preferable as you get to stay inside the safe zone near the boss. Consumables such as <Item id="8678"/> are also very powerful due to their ranged nature.
+At the same time a Sorrow will spawn, this mob will spawn at a random position inside the middle ring of AoE's, a few seconds after the boss begins channeling. You can tell where the Sorrow will spawn a few seconds before thanks to a small area of the arena lighting up at its eventual spawn location. The Sorrow will start channeling a devastating attack that will instantly down the whole party if it completes channeling. To prevent this the Sorrow must be killed or it's breakbar must be broken. Ranged CC such as <Skill name="Sanctuary"/> or <Skill name="Darkrazors Daring"/> is preferable as you get to stay inside the safe zone near the boss. Consumables such as <Item id="8678"/> are also very powerful due to their ranged nature.
 </GridItem>
 </Grid>
 
@@ -230,7 +228,7 @@ At the same time as the Sorrow spawning 5 Fears will spawn on the perimeter of t
 
 From this point onwards the fight is exactly as before, with the added mechanic that after each second split phase the boss will dash to a wall, instantly dash back and start her long channel that spawns a Sorrow. 
 
-#### Guilt <Label>33%-1%</Label>
+#### Guilt<Label>33%-1%</Label>
 As before upon hitting 33% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena and start channeling. 
 
 This part of the boss fight is exactly the same as the Sorrow part with one variation. Instead of spawning a Sorrow a Guilt will spawn. This Guilt will tether to a player and start applying stacks, this tether can be treated similarly to the tether seen in the water phase of Ai's normal form.
