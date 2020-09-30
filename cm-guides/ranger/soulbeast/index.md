@@ -22,7 +22,7 @@ The timing of <Skill name="One Wolf Pack"/> later on in the fight will depend on
 </Message>
 
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
+Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 
 ### **Precast**
@@ -163,7 +163,7 @@ The timing of <Skill name="One Wolf Pack"/> in this fight will depend on your gr
 If you P1 is slow you may have time to swap to Greatsword for the first split phase. When you go back to Siax use <Skill id="41406"/> -> <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/> to burst into <Effect name="Exposed"/>.
 </Message>
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
+Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 ### **Precast**
 
@@ -271,7 +271,7 @@ Your rotation will dpepend on your groups DPS and ability to CC! In general make
 The following guide is assuming your group doesn't instabreak the first CC bar. If you are going to instabreak skip the first step on phase 1 and start from step two as Ensolyss is about to spawn. 
 </Message>
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
+Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 
 ### **Precast**
@@ -428,7 +428,7 @@ In Phase 3 a <Specialization name="Soulbeast"/> should delay their <Skill name="
 </Boss>
 
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
+Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 <Message>
 Spirit Management:
@@ -543,7 +543,7 @@ This guide assumes you are going to let your group kill the 2nd and 3rd anomalie
 If your group has fast or organised CC on the split phases, your <Skill name="Whirling Defense"/> probably won't be off cooldown in the middle. If this is the case use <Skill name="pathofscars"/> and swap to Longbow and proc <Item id="84505"/> with <Skill name="Point Blank Shot"/>. Then use <Skill name="Rapid Fire"/> and your pet skills.
 </Message>
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
+Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 
 ### **Precast**
@@ -727,7 +727,7 @@ Use [consumables](/guides/consumables) to CC the adds.
 </Boss>
 
 <Message>
-Your rotation will dpepend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
+Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Message>
 
 ### **Precast**
