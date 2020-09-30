@@ -6,9 +6,9 @@ description: 'Get to know the meta 5-man team composition, learn about the /gg c
 hidden: 'false'
 ---
 
-## Team Compositions
+## Current fractal META
 
-About team compositions and why certain classes are meta, please consult the [meta-page](guides/meta-explained)!
+Please consult the [meta-page](guides/meta-explained) for more information about the current fractal META.
 
 ---
 
@@ -24,6 +24,86 @@ Note that the <Specialization name="Druid"/>'s <Skill id="31869"/> and <Skill na
 </GridItem>
 <GridItem sm="4">
 <Image src="./images/gg.jpg" caption="A dead player"/>
+</GridItem>
+</Grid>
+
+---
+
+## Pre-stacking at Mistlock Singularity
+
+<Grid>
+<GridItem sm="12" md="6">
+<Video caption="by Rubby [dT]" youtube="sMEBz5MJOk8"/>
+</GridItem>
+<GridItem sm="12" md="6">
+After maxing the fractal masteries to level 4 you get access to _Mistlock Singularities_. Taking one of these will reset the cooldowns of all your skills! This allows you to precast certain skills before entering the battle without a penalty. It makes sense to precast <Boon name="Quickness"/> and <Boon name="Alacrity"/> and use blast finishers on certain Combo Fields. 
+
+The most common applications are <Boon name="Might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="Stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
+
+Below is a list of frequently used blast finishers among all professions. Note that it is often required to swap to different weapons, make sure to swap back before you enter combat.
+</GridItem>
+</Grid>
+
+
+
+---
+
+### <Boon name="Might"/> stacking for groups using <Skill name="Moa Stance"/> from <Specialization name="Soulbeast"/>.
+- <Specialization name="Renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
+- <Specialization name="Firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5) and <Skill name="Mighty Blow"/> (Hammer 2)
+- <Specialization name="Berserker"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
+- <Specialization name="Weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
+- <Specialization name="Soulbeast"/>: Take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer, use <Skill id="12621"/> (Warhorn 5)
+
+
+---
+
+
+### Fire fields <Label><Boon name="Might"/> stacking</Label>
+
+Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone is back on their main weapon set before starting a fight.**
+
+- <Specialization name="Elementalist"/>:
+  - <Skill id="5548"/> (Staff 2, <Skill id="5492" disableText/>)
+  - <Skill id="5691"/> (Dagger 4, <Skill id="5492" disableText/>)
+  - <Skill id="5497"/> (Focus 4, <Skill id="5492" disableText/>)
+  - <Skill id="29533"/> (Warhorn 5, <Skill id="5492" disableText/>, <Specialization disableText name="Tempest"/>)
+- <Specialization name="Berserker"/>:
+  - <Skill id="29940"/> (Torch 5)
+- <Specialization name="Ranger"/>:
+  - <Skill id="12504"/> (Torch 5)
+- <Specialization name="Firebrand"/>:
+  - <Skill id="44364"/> Skill 4 (Chapter 4: Scorched Aftermath)
+  - <Skill id="9253"/>
+
+---
+
+
+<Grid>
+<GridItem sm="12" md="6">
+### Smoke fields <Label><Effect name="Stealth"/> stacking</Label>
+
+Be careful not to aggro mobs with blasts or you will get <Effect name="Revealed"/>.
+- <Specialization name="Thief"/>:
+  - <Skill id="13113"/> (Pistol 5)
+  - <Skill id="13065"/>
+- <Specialization name="Ranger"/>:
+  - <Skill id="31568"/> (Smokescale pet)
+- <Specialization name="Engineer"/>:
+  - <Skill id="5824"/> (Bomb kit)
+
+
+</GridItem>
+<GridItem sm="12" md="6">
+#### Other skills that grant party <Effect name="Stealth"/>
+
+- <Specialization name="Mesmer"/>:
+  - <Skill id="10245"/>
+  - <Skill id="10187"/>
+  - Double any skill with <Skill id="29830"/> (<Specialization disableText name="Chronomancer"/>)
+- <Specialization name="Thief"/>:
+  - <Skill id="13117"/>
+
 </GridItem>
 </Grid>
 
@@ -54,17 +134,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 | <Instability name="Outflanked"/> | Foes within 300 range do 300% more damage when attacking from behind, but do 25% less damage to you (their damage is reduced to 75%) when attacking from ahead.  |
 | <Instability name="Stick Together"/> |   Take 60% increased damage when not within a range of 300 of an ally. Take 20% reduced damage when within a range of 300 of an ally.    |
 | <Instability name="Sugar Rush"/> | Increases player movement speed and attack speed by 15%. Elite and lower enemies' movement speed and attack speed increases by 35%.      |
-
----
-
-## Pre-stacking at Mistlock Singularity
-
-<Grid>
-<GridItem sm="12" md="6">
-<Video caption="by Rubby [dT]" youtube="sMEBz5MJOk8"/>
-</GridItem>
-</Grid>
-For more information about pre-stacking [click here](/guides/blast-stacking)
+| <Instability name="Toxic Sickness"/> | Players are occasionally affected by the toxic vomit attack out of the Nightmare Fractal. Every player gets a cone AoE in front of him, aiming at a party member will deal lethal damage. Proper stacking and positioning nullifies this instability effectively.      |
 
 
 
