@@ -3,12 +3,12 @@ title: 'Soulbeast CM guides'
 build: 'Soulbeast'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-date: '2020-07-25'
+date: '2020-07-30'
 disableOrganized: 'false'
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
+<Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
 <Message>
 This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates. 
 </Message>
@@ -27,10 +27,12 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 ### **Precast**
 
-- Make sure you have <Trait name="Leader of the pack"/> and use <Skill name="Moa Stance"/>.
-- Cast <Skill name="Frost Spirit"/> and use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>.
-- Take Mistlock use <Skill name="Call of the Wild"/> and swap to Longbow.
-- As you run in cast <Skill name="One Wolf Pack"/> and swap traits to <Trait name="Oppressive Superiority"/>
+- Make sure you have <Trait name="Leader of the pack"/> while precasting!
+- If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+- Use  <Skill name="Moa Stance"/> to grant your team free extra boon duration.
+- Summon <Skill name="Frost Spirit"/> and use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>.
+- <Skill name="One Wolf Pack"/> then take Mistlock, use <Skill name="Call of the Wild"/> again and swap to Longbow.
+- As you run in cast <Skill name="One Wolf Pack"/> (for the second time) and swap traits to <Trait name="Oppressive Superiority"/>.
 - Call <Skill name="Frost Spirit"/> to you using <Skill name="Cold Snap"/>, and cast <Skill name="Barrage"/> as MAMA Spawns.
 
 ### **1st Phase**
@@ -49,7 +51,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 ### **2nd Phase**
 
-- When you go back back to MAMA, autoattack on sword/axe. You can use <Skill name="Monarchs leap"/> to jump back to MAMA if you want.
+- When you go back back to MAMA, autoattack on sword/axe. You can use <Skill name="Monarchs leap"/> (or <Skill id="12481"/> while facing backwards) to jump back to MAMA if you want.
 - <Skill name="Path of scars"/> -> <Skill name="Whirling Defense"/> as they come off cooldown. 
 - Swap weapons.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
@@ -80,20 +82,31 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 ### **4th Phase**
 
 - Try to cast <Skill name="Barrage"/> so it doesn't get interrupted by MAMA jumping.
-- Use <Skill name="Point Blank Shot"/> and <Skill id="45743"/> to CC and proc <Item id="84505"/>.
-- <Skill name="Rapid Fire"/>.
+- Use <Skill name="Point Blank Shot"/> -> <Skill id="45743"/> to CC and proc <Item id="84505"/>.
+- <Skill name="Sicem"/> then <Skill name="Rapid Fire"/>.
 - Swap to axe as soon as possible and use <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
 
 
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
-<Boss name="mama" video="HsGMLaDKzrA" videoCreator="Stellan [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
-- If you don't trust your group to deal DPS in phase 2 then you can take <Trait id="2128"/> and use <Skill name="OneWolfPack"/> when you return to MAMA in phase 2. The reason for this is because in phase 1, 3 and 4 you have the damage modifier from <Effect name="Exposed"/>, so compensating with <Skill name="OneWolfPack"/> can help the team phase MAMA faster here.
-- In faster kills you want to run <Item id="82876"/> instead of <Item id="24615"/> on longbow.
+<Boss name="mama" video="HsGMLaDKzrA" videoCreator="Stellan [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2143"/>.
+- In faster kills you want to run <Item id="82876"/> instead of <Item id="24615"/> on longbow.
+- If you don't trust your group to deal DPS in phase 2 then you can take <Trait id="2128"/> and use <Skill name="OneWolfPack"/> when you return to MAMA in phase 2. The reason for this is because in phase 1, 3 and 4 you have the damage modifier from <Effect name="Exposed"/>, so compensating with <Skill name="OneWolfPack"/> can help the team phase MAMA faster here.
 </Boss>
+
+### **Precast**
+
+- Make sure you have <Trait name="Leader of the pack"/> while precasting!
+- If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+- Use  <Skill name="Moa Stance"/> to grant your team free extra boon duration.
+- Summon <Skill name="Frost Spirit"/> and use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>.
+- Swap to longbow then pick up <Skill id="5516"/> if there is one.
+- <Skill name="One Wolf Pack"/> then take Mistlock and run or portal to the boss.
+- As you run in cast <Skill name="One Wolf Pack"/> (for the second time) and swap traits to <Trait name="Oppressive Superiority"/>.
+- Call <Skill name="Frost Spirit"/> to you using <Skill name="Cold Snap"/>, and cast (<Skill id="5531"/> followed by) <Skill name="Barrage"/> as MAMA Spawns.
 
 ### **1st Phase**
 
@@ -109,7 +122,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 ### **2nd Phase**
 
-- When you go back back to MAMA, autoattack on sword/axe. You can use <Skill name="Monarchs leap"/> to jump back to MAMA if you want.
+- When you go back back to MAMA, autoattack on sword/axe. You can use <Skill name="Monarchs leap"/> (or <Skill id="12481"/> while facing backwards) to jump back to MAMA if you want.
 - <Skill name="Path of scars"/> when it is off cd. 
 - Swap weapons.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
@@ -149,39 +162,39 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="siax" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
-- Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
+<Boss name="siax" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
-- Longbow will burst higher on this fight, but you will have trouble killing your 2nd add without help. Only play it if you can rely on your group to phase P2 quickly and help you on split 2.
+- Remember to use <Item id="24658"/> for this encounter!
+- Longbow will burst higher on this fight, but you will have trouble killing your 2nd add without help. You should only play it if you can rely on your group to phase P2 quickly and help you on split 2.
 </Boss>
 
 <Message>
 The timing of <Skill name="One Wolf Pack"/> in this fight will depend on your group. If your group has low DPS and/or is running into the fight use <Skill name="One Wolf Pack"/> just before the CC bar appears on P1 and again at the start of P3. If your group is portalling into the fight and has reasonable DPS cast <Skill name="One Wolf Pack"/> as late as you can in the precast, then save it for the start of P2.
 </Message>
 <Message>
-If you P1 is slow you may have time to swap to Greatsword for the first split phase. When you go back to Siax use <Skill id="41406"/> -> <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/> to burst into <Effect name="Exposed"/>.
+If your P1 is slow you may have time to swap to Greatsword for the first split phase. When you go back to Siax use <Skill id="46629"/> -> <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/> to burst into <Effect name="Exposed"/>.
 </Message>
 <Message>
-Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
+Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up.
 </Message>
 ### **Precast**
 
-- Place <Skill name="Frost Trap"/> and a portal enterance before ther fight starts.
-- Run back to mistlock and open portal
+- Precast <Skill name="Frost Trap"/> and a <Item id="78978"/> entrance on the boss orb before the fight starts.
+- Run back to mistlock and open your portal.
 - Use <Skill name="Moa Stance"/>.
 - Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, then use <Skill name="One Wolf Pack"/>.
 - Take Mistlock and swap to Longbow.
 - Summon <Skill name="Frost spirit"/> and take the portal as it casts.
-- Cast <Skill name="Barrage"/> and swap to Greatsword as the yellow bar appears
+- Cast <Skill name="Barrage"/> and swap to Greatsword as the yellow cast bar appears.
 
 ### **1st Phase**
 
 - <Skill name="Frosttrap"/> as soon as your first trap procs so you have both ticking at the same time.
 - <Skill name="Sicem"/> as soon as Siax is targetable.
-- <Skill id="41406"/> -> <Skill name="Worldly Impact"/> and <Skill id="41524"/> before the breakbar.
+- <Skill id="46629"/> -> <Skill name="Worldly Impact"/> -> <Skill id="41524"/> before the breakbar.
 - <Skill id="45743"/> followed by <Skill name="Hilt Bash"/> to CC (If the bar hasn't broken use a [consumable](/guides/consumables) to help).
-- Burst with <Skill id="41406"/> -> <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/>
+- Burst with <Skill id="46629"/> -> <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
  
 ### _1st Add_
 
@@ -192,32 +205,40 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 - You can use <Skill id="45743"/> or <Skill name="Hornet Sting"/> to get back to Siax quickly.
 - As soon as they come off cooldown use <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/>.
-- Weapon swap and use <Skill id="41406"/> -> <Skill name="Hilt Bash"/> -> <Skill id="41406"/> and your pet skills to finish the phase.
+- Weapon swap and use <Skill id="46629"/> -> <Skill name="Hilt Bash"/> -> <Skill id="46629"/> and your pet skills to finish the phase.
 - Your <Skill name="Sic Em"/> and <Skill name="Frost Trap"/> may come off cooldown at the start of or during the phase, feel free to use them if you think they will be back off cooldown for P3.
 
 ### _2nd Add_
 
-- Use <Skill id="44991"/> to get to your add quickly.
-- Kill your add using a combination of <Skill id="41406"/>, <Skill name="Hilt Bash"/> and your Pet Skills
+- Use <Skill id="12521"/> to get to your add quickly.
+- Kill your add using a combination of <Skill id="46629"/>, <Skill name="Hilt Bash"/> and your Pet Skills.
 
 ### **3rd Phase**
 
-- <Skill name="sicem"/> and <Skill name="Frost trap"/> once Siax is vulnerable.
-- Burst with <Skill id="41406"/> -> <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/>
-- Auto attack and usee your pet skills as they come off cooldown until Siax is dead
-- In a group with low DPS you will have time to swap back to Greatsword, so finish the fight with <Skill id="41406"/> -> <Skill name="Hilt Bash"/> -> <Skill id="41406"/>.
+- <Skill name="sicem"/> once Siax is vulnerable.
+- Burst with <Skill id="46629"/> -> <Skill name="Path of Scars"/> -> <Skill name="Frost trap"/> -> <Skill name="Whirling Defense"/>.
+- Auto attack and use your pet skills as they come off cooldown until Siax is dead.
+- In a group with low DPS you will have time to swap back to Greatsword, so finish the fight with <Skill id="46629"/> -> <Skill name="Hilt Bash"/> -> <Skill id="46629"/>.
+- You might also have to break a CC bar in this phase so try to use <Skill id="45743"/>, <Skill name="Path of Scars"/>, <Skill name="hiltbash"/> or even [consumables](/guides/consumables) to help.
 
 </ConditionalComponent>
 
 
 <ConditionalComponent condition="static">
 
-<Boss name="siax" video="6p9ccfQJmdQ" videoCreator="Stellan [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Impact" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
-- Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
+<Boss name="siax" video="6p9ccfQJmdQ" videoCreator="Stellan [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Impact" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
-- In fast kills you will ned to run <Item id="82876"/> on Longbow.
+- Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
+- In faster kills you want to run <Item id="82876"/> instead of <Item id="24868"/> on Longbow.
 </Boss>
+### **Precast**
+
+- Precast <Skill name="Frost Trap"/> and a <Item id="78978"/> entrance on the boss orb before the fight starts.
+- Run back to mistlock and open your portal.
+- Use <Skill name="Moa Stance"/>.
+- Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, then swap to Longbow.
+- Pick up <Skill id="5516"/> if there is one, then use <Skill name="One Wolf Pack"/> and take the Mistlock.
 
 ### **1st Phase**
 
@@ -261,14 +282,14 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="ensolyss" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Force" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
-- Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
+<Boss name="ensolyss" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Force" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
+- Remember to use <Item id="24658"/> for this encounter!
 </Boss>
 
 <Message>
-The following guide is assuming your group doesn't instabreak the first CC bar. If you are going to instabreak skip the first step on phase 1 and start from step two as Ensolyss is about to spawn. 
+The following guide is assuming your group doesn't instabreak the first CC bar. If you are going to instabreak you should refer to the static opener then follow the rest of the rotation from this guide.
 </Message>
 <Message>
 Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
@@ -276,38 +297,40 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 ### **Precast**
 
-- Use <Skill name="Moa Stance"/>.
+- Use  <Skill name="Moa Stance"/> to grant your team free extra boon duration.
+- If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
 - <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, <Skill name="One Wolf Pack"/> then take mistlock and <Skill name="Call of the Wild"/> again.
 - Swap to Longbow and take the portal the the platform.
-- As you are about to spawn Ensolyss Cast <Skill name='Frost spirit'/>
+- As you are about to spawn Ensolyss summon <Skill name='Frost spirit'/>.
 
 ### **Phase 1**
 
-- As ensolys spawns use <Skill id="41524"/> and <Skill name="Rapid Fire"/>, move into the bubble as it spawns.
+- <Skill id="45743"/>, <Skill name="Pointblankshot"/> for instant CC. Start casting <Skill id="45743"/> just before Ensolyss becomes vulnerable so you can hit both CC skills.
+- Use <Skill name="Rapid Fire"/> and <Skill id="41524"/>, move into the bubble as it spawns.
 - Cast <Skill name='Barrage'/> and towards the end of the cast use <Skill name="Sic Em"/>.
-- <Skill name="One Wolf Pack"/>, CC with <Skill id="45743"/> and <Skill name="Point Blank Shot"/> (If the bar hasn't broken use a [consumable](/guides/consumables) to help).
-- Burst with <Skill name="Rapid Fire"/>, Cancel it half way through and use <Skill name="Worldly Impact"/>, weapon swap, <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
-- Auto attack until your <Skill name="Path of Scars"/> is off cool down again and then weapons swap and use <Skill name="Rapid Fire"/>.
-- At this point Ensolyss should dash so cast <Skill name='Barrage'/> mid and then continue with your normal rotation until ensolyss phases.
+- When the bar reappears after the bubble use a [consumable](/guides/consumables) to help break it.
+- Once its broken burst with <Skill name="One Wolf Pack"/>, <Skill name="Rapid Fire"/>, cancel it half way through and use <Skill name="Worldly Impact"/>, weapon swap, <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
+- Autoattack until your <Skill name="Path of Scars"/> is off cool down again and then weapons swap and use <Skill name="Rapid Fire"/>.
+- At this point Ensolyss should dash so cast <Skill name='Barrage'/> mid and then continue with your normal rotation until Ensolyss phases.
 
 ### _Orb Phases_
 
-- Use <Skill name="We heal as one"/> to keep <Boon name="alacrity"/> on yourself.
+- Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to keep up <Boon name="alacrity"/> on yourself. 
 - Re summon <Skill name="Frost Spirit"/> if it has died.
 
 ### **Phase 2**
 
 - Call <Skill name="Frost Spirit"/> mid with <Skill name="Cold Snap"/>, and if you don't have any <Boon name="Quickness"/> use <Skill name="Worldly Impact"/> to generate some.
 - Cast <Skill name='Barrage'/> as Ensolyss spawns, and towards the end of the cast use <Skill name="Sic Em"/>.
-- <Skill id="41524"/> -> <Skill name="One Wolf Pack"/>
+- <Skill id="41524"/> -> <Skill name="One Wolf Pack"/>.
 - CC with <Skill id="45743"/> and <Skill name="Point Blank Shot"/> (If the bar hasn't broken use a [consumable](/guides/consumables) to help).
-- Burst with <Skill name="Rapid Fire"/>, Cancel it half way through and use <Skill name="Worldly Impact"/>, weapon swap, <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
+- Burst with <Skill name="Rapid Fire"/>, cancel it half way through and use <Skill name="Worldly Impact"/>, weapon swap, <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
 - Auto attack until your <Skill name="Path of Scars"/> is off cool down again and then weapons swap and use <Skill name="Rapid Fire"/>.
 - Make sure you are stood in a safe place to cast <Skill name='Barrage'/> again and continue with the standard rotation until Ensolyss phases.
 
 ### _Orb Phases_
 
-- Use <Skill name="We heal as one"/> to keep <Boon name="alacrity"/> on yourself.
+- Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to keep up <Boon name="alacrity"/> on yourself. 
 - Re summon <Skill name="Frost Spirit"/> if it has died.
 
 ### **Phase 3**
@@ -318,66 +341,22 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
-<Boss name="ensolyss" video="x1hLiHyN3t8" videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
-- Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
+<Boss name="ensolyss" video="x1hLiHyN3t8" videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Take <Trait id="2128"/>.
+- Take <Trait id="2128"/> and <Trait name="Clarion Bond"/>.
+- Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 - If you find that you end up back on longbow because the phases are very long then you can swap <Item id="24868"/> for <Item id="24615"/> in your longbow.
 - Remember to swap <Skill id="12492"/> for <Skill id="45970"/> if your <Specialization name="Firebrand"/> is playing <Specialization name="Dragonhunter"/> or <Specialization name="Guardian"/>.
 
 </Boss>
+### **Precast**
 
-<Tabs>
-<Tab title="Weaver comp" specialization="weaver" >
-
-### **1st Phase**
-
-- When the red circle appears around the arena cast <Skill id="5531"/> and then <Skill name="Barrage"/>.
-- <Skill id="45743"/>, <Skill name="Pointblankshot"/> for instant CC. Start casting <Skill id="45743"/> just before Ensolyss becomes vulnerable so you can hit both CC skills.
-- <Skill name="onewolfpack"/>, <Skill name="sicem"/> and <Skill name="rapidfire"/>.
-- Swap weapons.
-- <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
-- <Skill name="worldlyimpact"/>.
-- Autoattack until your <Skill name="pathofscars"/> is off cd.
-- If it isn't phased yet swap weapons and use <Skill name="rapidfire"/>.
-
-### **Orb Phases**
-
-- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="Renegade"/> so they can share <Boon name="alacrity"/>.
-- Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to keep up <Boon name="alacrity"/> on yourself. 
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/> (this will only happen during one of the orb phases).
-
-### **66% and 33%**  
-
-- Use <Skill name="Moastance"/> and <Skill name="cold snap"/> as your team is gathering in the middle to give boons.
-- <Skill id="5531"/> if available and <Skill name="Barrage"/>.
-- <Skill id="45743"/> and <Skill name="pointblankshot"/> to CC. 
-- <Skill name="onewolfpack"/>, <Skill name="sicem"/>.
-- <Skill name="rapidfire"/> then <Skill name="worldlyimpact"/>.
-- Swap weapons.
-- <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
-- Autoattack until your <Skill name="pathofscars"/> is off cd.
-- If it isn't phased (or dead) yet swap weapons and use <Skill name="rapidfire"/>.
-</Tab>
-
-<Tab title="Double Soulbeast Comp" specialization="Soulbeast">
-<Grid>
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<Skills unembossed healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="" eliteId="45717"/>
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Traits: <Trait id="2128"/>, **<Trait name="Clarion Bond"/>**.
-- Food: <Item id="91805"/>.
-- Utility: <Item id="50082"/>.
-- Take <Skill name="moa stance"/> or <Skill name="frost spirit"/>
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Serpentslaying" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
-</GridItem>
-</Grid>
-
-In Phase 3 a <Specialization name="Soulbeast"/> should delay their <Skill name="onewolfpack"/> until just before the bubble attack finishes so that you can skip his spin attack.
+- Precast a <Skill name="Frosttrap"/> on the boss orb then gg and precast at the mistlock.
+- Use  <Skill name="Moa Stance"/> to grant your team free extra boon duration.
+- If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+- <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, <Skill name="One Wolf Pack"/> then take mistlock and <Skill name="One Wolf Pack"/> again.
+- Swap to Longbow and take the portal the the platform.
+- As you are about to spawn Ensolyss summon <Skill name='Frost spirit'/>.
 
 ### **1st Phase**
 
@@ -391,11 +370,12 @@ In Phase 3 a <Specialization name="Soulbeast"/> should delay their <Skill name="
 - <Skill name="worldlyimpact"/>.
 - Autoattack until your <Skill name="pathofscars"/> is off cd.
 
-### **Orb Phases**
+### _Orb Phases_
 
-- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="Renegade"/> so they can share <Boon name="alacrity"/> to both <Specialization name="Soulbeast"/>s.
+- At the beginning of the orb phase make sure to give <Skill name="Moastance"/> to your <Specialization name="Renegade"/> so they can share <Boon name="alacrity"/>.
 - You want to leave <Skill id="42944"/> so that it is back off cd and you can blast <Boon name="Might"/> after the orb phase.
 - Use <Skill name="We heal as one"/> and <Skill name="worldlyimpact"/> to top up <Boon name="alacrity"/> on yourself if possible.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/> (this will only happen during one of the orb phases).
 
 ### **66% and 33%**  
 
@@ -410,18 +390,13 @@ In Phase 3 a <Specialization name="Soulbeast"/> should delay their <Skill name="
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/>.
 - Autoattack until your <Skill name="pathofscars"/> is off cd.
 
-- In Phase 3 a <Specialization name="Soulbeast"/> should delay their <Skill name="onewolfpack"/> until just before the bubble attack finishes so that you can skip his spin attack.
-</Tab>
-</Tabs>
 </ConditionalComponent>
 
-
-
 <ConditionalComponent condition="pug">
-<Boss name="skorvald" video="o7R-tnLH4ws" videoCreator="Elu" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
+<Boss name="skorvald" video="o7R-tnLH4ws" videoCreator="Elu" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
-- If good instabilities, use <Item id="73191"/> as Utility food.
+- With good instabilities, use <Item id="73191"/> as Utility food.
 - You can swap <Item id="24868"/> for <Item id="24661"/> in your longbow if you want.
 - Warhorn can be a replacement for Longbow here, <Skill name="Callofthewild"/> is a blast finisher allowing you to stack <Boon name="Might"/> on the islands. You simply use <Skill id="12620"/> before you start attacking in each phase.
 
@@ -432,7 +407,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 </Message>
 <Message>
 Spirit Management:
-- If you run with a healer you can summon it on the platform and you can forget about it as it will probably stay alive the whole fight (Obviously if it dies resuumon it!).
+- If you run with a healer you can summon it on the platform and you can forget about it as it will probably stay alive the whole fight (Obviously if it dies resummon it!).
 - If you run without it depends on how your <Specialization name ="Renegade"/> plays, if they precast <Skill id="45686"/> before Skorvald spawns then you can summon your <Skill name="Frostspirit"/> down on the boss platform after the precast and the Kalla heal skill will sustain it until the second phase. In this scenario you don't teleport it at all you just leave it behind.
 - If they don't do this then you will want to summon the spirit next to the Boss Challenge Mote and let it tick down in health for a couple of ticks and then pull it firstly down to Skorvald after the precast and then to the first island using <Skill name="Cold Snap"/> in order to kill it so it is back up for island 4 to be resummoned. This is the method described in the guide below.
 
@@ -478,10 +453,10 @@ Spirit Management:
 
 
 <ConditionalComponent condition="static">
-<Boss name="skorvald" video="pcBwuDwX8zo" videoCreator="Stellan [dT]" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
+<Boss name="skorvald" video="pcBwuDwX8zo" videoCreator="Stellan [dT]" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
-- If good instabilities, use <Item id="73191"/> as Utility food.
+- With good instabilities, use <Item id="73191"/> as Utility food.
 - You can swap <Item id="24868"/> for <Item id="24661"/> in your longbow if you want.
 - Warhorn can be a replacement for Longbow here, <Skill name="Callofthewild"/> is a blast finisher allowing you to stack <Boon name="Might"/> on the islands. You simply use <Skill id="12620"/> before you start attacking in each phase.
 </Boss>
@@ -526,10 +501,10 @@ Spirit Management:
 
 
 <ConditionalComponent condition="pug">
-<Boss name="artsariiv" video="o7R-tnLH4ws"  timestamp="112" videoCreator="Elu" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
+<Boss name="artsariiv" video="o7R-tnLH4ws"  timestamp="112" videoCreator="Elu" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait name="Oppressive Superiority"/>.
-- If good instabilities, use <Item id="73191"/> as Utility food.
+- With good instabilities, use <Item id="73191"/> as Utility food.
 - If your group is struggling with conditions use <Skill name="Healing Spring"/>.
 - If you don't trust stability swap <Skill name="Signet of the Wild"/> for <Skill name="Dolyak Stance"/> (If you want to be PMA and share it play <Trait name="Leader of the Pack"/>).
 
@@ -537,7 +512,7 @@ Spirit Management:
 If you group is going to skip the first anomaly, follow the rotation for side strat in the static section.
 </Message>
 <Message>
-This guide assumes you are going to let your group kill the 2nd and 3rd anomalies or skip them completely. If you get the bomb don't panic. Attempt to get the reflect and then if you have time special action key to the dome or /gg! If your group can't kill the anomaly without you you can still attempt to reflect. Whne you get to the side use <Skill name="Point Blank Shot"/>, quickly weapon swap and <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
+This guide assumes you are going to let your group kill the 2nd and 3rd anomalies or skip them completely. If you get the bomb don't panic. Attempt to get the reflect and then if you have time special action key to the dome or /gg! If your group can't kill the anomaly without you you can still attempt to reflect. When you get to the side use <Skill name="Point Blank Shot"/>, quickly weapon swap and <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
 </Message>
 <Message>
 If your group has fast or organised CC on the split phases, your <Skill name="Whirling Defense"/> probably won't be off cooldown in the middle. If this is the case use <Skill name="pathofscars"/> and swap to Longbow and proc <Item id="84505"/> with <Skill name="Point Blank Shot"/>. Then use <Skill name="Rapid Fire"/> and your pet skills.
@@ -560,7 +535,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - Call <Skill name="Frost Spirit"/> to you with <Skill name="Cold Snap"/>, Then use <Skill name="One Wolf Pack"/> and <Skill name="Sic Em"/>.
 - CC with <Skill name="Point Blank Shot"/> and <Skill id="45743"/> (If the bar doesnt break help with [consumables](/guides/consumables)).
 - Burst with <Skill name="Rapid Fire"/> -> <Skill name="Worldly Impact"/> -> <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
-- COntinue with the normal rotation until Artsariiv phases.
+- Continue with the normal rotation until Artsariiv phases.
 
 ### _Add Phase_
 
