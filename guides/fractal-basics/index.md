@@ -6,6 +6,48 @@ description: 'Get to know the meta 5-man team composition, learn about the /gg c
 hidden: 'false'
 ---
 
+## What are fractals?
+Fractals of the mists or also frequently called FOTM (or just "fracs") are 5-man repetable endgame dungeon-like content with a large scale of difficulty and rewards. There are 100 levels which are structured into 4 different tiers each consisting out of 25 levels. You can find the portal entrance to fractals in Fort Marriner in Lions Arch. 
+
+The higher level the more mechanics are added to fractals, the harder hit enemies but you also receive more loot. Starting from level 20 the players need to deal with <Effect name="Agony"/> which requires <Attribute name="Agony Resistance"/> to counter effectively. Every level has a recommendedation of how much <Attribute name="Agony Resistance"/> you should have at least. For beginners it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all possible infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>.
+
+Starting with tier 2 the heros are encountering _Mistlock instabilities_ which add another layer of difficulty. A complete list of _Mistlock instabilities_ and countermeasures can be found on the bottom of this page.
+| Tier | max. <Attribute name="Agony Resistance"/> | Instabilities | Description |
+| ---- | ---- | ---- | --- |
+| 1    | 17  | 0 | This tier is meant as an introduction to fractals. Mechanics and damage is very forgiving. | 
+| 2    | 61 | 1 |  Tier 2 fractals should be played in a party with 5. The mechanics hit slightly harder and you encounter mistlock instabilities and <Effect name="Agony"/> | 
+| 3    | 106 | 2 |  When starting to do tier 3 fractals you are expected to start reading up on how your class and fractals work. Enemies hit hard, are more frequent and you have to deal with two mistlock instabilities at the same time! |
+| 4    | 150 | 3 | When running tier 4 fractals you should be comfortable with your class and the mechanics. It is expected that you carry your own weight. |
+
+
+---
+
+## Differences between fractals and raids/strikes
+There are quite a few differences that set fractals apart from other PvE content in Guild Wars 2. Most prominently is the length of a single level: One level is usually completed in 5-10 minutes. The levels do not only contain bosses but also other encounters such as small puzzles or fighting mobs. Many levels can be sped up by thinking outside the box and using smart tricks. 
+
+The fractal specific potions influence the way builds are designed. Each of them grant 1.5 times of your <Attribute name="Agony Resistance"/> in a specific stat. This allows builds to be played a lot more offensive compared to elsewhere. Our [builds](/builds) are optimized for multiple amounts of  <Attribute name="Agony Resistance"/> since you will acquire more than 162 <Attribute name="Agony Resistance"/> over the course of your fractal journey due to <Augmentation name="Mist Attunement 1"/> and higher augmentations. 
+
+| Potion | Stat | Gain on 162 <Attribute name="Agony Resistance"/> | 
+| -- | -- | -- |
+| <Item id="71659"/> | <Attribute name="Precision"/> | 243 <Attribute name="Precision"/> = 11.57% <Attribute name="Critical Chance"/> |
+| <Item id="76150"/> | <Attribute name="Toughness"/> | 243 <Attribute name="Toughness"/> |
+| <Item id="75427"/> | <Attribute name="Concentration"/> | 243 <Attribute name="Concentration"/> = 16.2% <Attribute name="Boon Duration"/> |
+
+---
+
+## Abbreviations for navigating the LFG 
+| Short | Long | Aliases |  Description | Link | 
+| -- | -- | -- | -- | -- | 
+| `BS`  | Bannerslave | `war`, `bers` | <Specialization name="Berserker"/> that carries <Skill name="Bannerofstrength"/> and <Skill name="Bannerofdiscipline"/> | [Build](/builds/berserker) | 
+| `QFB`  | Quick Firebrand | `pfb`, `fb`  | <Specialization name="Firebrand" text="Power Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/> | [Build](/builds/firebrand) | 
+| `HFB`  | Heal Firebrand | `fb`  | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/>, Healer build| [Build](/builds/heal-firebrand) | 
+| `CFB`  | Condi Firebrand | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS | [Build](/builds/condi-firebrand) | 
+| `Ren`  | Alacrity Renegade| `alac`, `rev`  | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilties | [Build](/builds/renegade) | 
+| `Slb`  | Soulbast | `dps` | <Specialization name="Soulbeast"/> as [meta](/guides/meta-explained) DPS | [Build](/builds/soulbeast) | 
+| `Wea`  | Weaver | `dps`, `ele` | <Specialization name="Weaver"/> as  [meta](/guides/meta-explained) DPS | [Build](/builds/weaver) | 
+| `DH`  | Dragonhunter | `dps` | <Specialization name="Dragonhunter"/> as offmeta DPS | [Build](/builds/power-dragonhunter) | 
+
+
 ## Current fractal META
 
 Please consult the [meta-page](guides/meta-explained) for more information about the current fractal META.
