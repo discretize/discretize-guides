@@ -9,7 +9,7 @@ disableOrganized: 'false'
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="mama" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="force" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+<Boss name="mama" video="p2wUMQEQNUY" timestamp="" videoCreator="Deen [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="force" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 **Suggested Boon Duration:** `50%`   
 - Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon duration due to the length of the fight. This allows you to take a more damage focused approach. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>. 
 </Boss>
@@ -119,7 +119,7 @@ disableOrganized: 'false'
 
 <ConditionalComponent condition="pug">
 
-<Boss name="siax" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+<Boss name="siax" video="FwVEqdngirM" timestamp="" videoCreator="Deen [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 **Suggested Boon Duration:** `50%`   
 - Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon duration due to the length of the fight. This allows you to take a more damage focused approach. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>. 
 </Boss>
@@ -313,7 +313,7 @@ disableOrganized: 'false'
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="skorvald" video="" timestamp="" videoCreator="" foodId="91805" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="sword"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="force" weapon2MainSigil2="severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+<Boss name="skorvald" video="BVTXG2SMP6Y" timestamp="" videoCreator="Deen [dT]" foodId="91805" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="sword"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="force" weapon2MainSigil2="severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 **Suggested Boon Duration:** `80%`
 - Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
 </Boss>
@@ -418,7 +418,7 @@ disableOrganized: 'false'
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="artsariiv" video="" timestamp="" videoCreator="" foodId="91805" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="sword"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="force" weapon2MainSigil2="severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+<Boss name="artsariiv" video="Mw1lAIF-n0k" timestamp="" videoCreator="Deen [dT]" foodId="91805" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="sword"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="force" weapon2MainSigil2="severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 **Suggested Boon Duration:** `80%`
 - Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
 

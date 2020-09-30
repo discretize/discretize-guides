@@ -6,7 +6,7 @@ description: 'Get to know the meta 5-man team composition, learn about the /gg c
 hidden: 'false'
 ---
 
-## What are fractals?
+## Introduction to fractals
 Fractals of the mists or also frequently called FOTM (or just "fracs") are 5-man repetable endgame dungeon-like content with a large scale of difficulty and rewards. There are 100 levels which are structured into 4 different tiers each consisting out of 25 levels. You can find the portal entrance to fractals in Fort Marriner in Lions Arch. 
 
 The higher level the more mechanics are added to fractals, the harder hit enemies but you also receive more loot. Starting from level 20 the players need to deal with <Effect name="Agony"/> which requires <Attribute name="Agony Resistance"/> to counter effectively. Every level has a recommendedation of how much <Attribute name="Agony Resistance"/> you should have at least. For beginners it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all possible infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>.
