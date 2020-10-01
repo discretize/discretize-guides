@@ -124,10 +124,9 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
 - <Skill name="Tome of Justice"/> (F1):
-  - Skill 4 is a ticking AoE, good for single target and great for AoE DPS
-  - Skill 5 makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
+  - Skill 4 is a ticking AoE, good for single target and great for AoE DPS, five stacks of <Condition name="Burning"/>
+  - Skill 5 makes your surrounding allies inflict <Condition name="Burning"/> - your main source of damage
   - Skill 3 is an AoE pull (150 defiance bar damage)
-  - Often these skills are used as an opener
 - <Skill name="Tome of Resolve"/> (F2):
   - Skill 2 is a party condition cleanse
   - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
