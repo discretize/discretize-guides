@@ -2,23 +2,26 @@
 title: 'Fractal Basics'
 date: '2020-09-29'
 image: './images/instabilities.jpg'
-description: 'Get to know the meta 5-man team composition, learn about the /gg command and Mistlock Instabilities.'
+description: 'A beginners guide to being successful in fractals.'
 hidden: 'false'
 ---
 
 ## Introduction to fractals
-Fractals of the mists or also frequently called FOTM (or just "fracs") are 5-man repetable endgame dungeon-like content with a large scale of difficulty and rewards. There are 100 levels which are structured into 4 different tiers each consisting out of 25 levels. You can find the portal entrance to fractals in Fort Marriner in Lions Arch. 
+Fractals of the mists or also frequently called FOTM (or just "fracs") are 5-man repetable endgame dungeon-like content with a large scale of difficulty and rewards. There are 100 levels which are structured into 4 different tiers each consisting out of 25 levels. You can find the portal entrance to fractals in Fort Marriner in Lions Arch. There are no gear requirements for tier 1 fractals allowing anybody to try fractals out.
 
-The higher level the more mechanics are added to fractals, the harder hit enemies but you also receive more loot. Starting from level 20 the players need to deal with <Effect name="Agony"/> which requires <Attribute name="Agony Resistance"/> to counter effectively. Every level has a recommendedation of how much <Attribute name="Agony Resistance"/> you should have at least. For beginners it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all possible infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>.
+The higher level the more mechanics are added to fractals, the harder hit enemies but you also receive more loot. Starting from level 20 the players need to deal with <Effect name="Agony"/> which requires <Attribute name="Agony Resistance"/> to counter effectively. Every level has a recommendation of how much <Attribute name="Agony Resistance"/> you should have at least. Without <Attribute name="Agony Resistance"/> you loose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
+
+<Message>
+<Effect name="Agony"/> reduces your healing by 70% per stack. Never use your heal skill while you are under the effect of <Effect name="Agony"/>.
+</Message>
 
 Starting with tier 2 the heros are encountering _Mistlock instabilities_ which add another layer of difficulty. A complete list of _Mistlock instabilities_ and countermeasures can be found on the bottom of this page.
-| Tier | max. <Attribute name="Agony Resistance"/> | Instabilities | Description |
+| Tier | max. required <Attribute name="Agony Resistance"/> | Instabilities | Description |
 | ---- | ---- | ---- | --- |
 | 1    | 17  | 0 | This tier is meant as an introduction to fractals. Mechanics and damage is very forgiving. | 
 | 2    | 61 | 1 |  Tier 2 fractals should be played in a party with 5. The mechanics hit slightly harder and you encounter mistlock instabilities and <Effect name="Agony"/> | 
 | 3    | 106 | 2 |  When starting to do tier 3 fractals you are expected to start reading up on how your class and fractals work. Enemies hit hard, are more frequent and you have to deal with two mistlock instabilities at the same time! |
-| 4    | 150 | 3 | When running tier 4 fractals you should be comfortable with your class and the mechanics. It is expected that you carry your own weight. |
-
+| 4    | 150 | 3 | When running tier 4 fractals you should be comfortable with your class and the mechanics. It is expected that you carry your own weight. Running with optimal utility and food aswell as fractal potions (<Item id="71659" disableText/>, <Item id="76150" disableText/>, <Item id="75427" disableText/>) is expected. |
 
 ---
 
@@ -32,6 +35,55 @@ The fractal specific potions influence the way builds are designed. Each of them
 | <Item id="71659"/> | <Attribute name="Precision"/> | 243 <Attribute name="Precision"/> = 11.57% <Attribute name="Critical Chance"/> |
 | <Item id="76150"/> | <Attribute name="Toughness"/> | 243 <Attribute name="Toughness"/> |
 | <Item id="75427"/> | <Attribute name="Concentration"/> | 243 <Attribute name="Concentration"/> = 16.2% <Attribute name="Boon Duration"/> |
+
+---
+
+## Acquiring gear to counter <Effect name="Agony"/>
+For beginners it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all 18 infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>.
+
+For a temporary 15 <Attribute name="Agony Resistance"/> buff you can buy a <Item id="70596"/> and skip ahead of the suggested table below. We suggest to acquire most of the gear in fractals, however you of course can buy your gear in WvW or open world or any other place.
+
+---
+
+### Tier 1: max 17 <Attribute name="Agony Resistance"/>
+Requirement: Full exotic gear 
+
+Homework: 
+- Start working towards the accessories that you can buy with guild commendations
+- Save up relics to buy ascended rings
+- Alternatively buy Living World Season 3 Episode 3: A crack in the ice and fram <Item id="79899"/> for trinkets (or any other living story episode).
+
+---
+
+### Tier 2: max 61 <Attribute name="Agony Resistance"/>
+Acquire on your journey in T2: 
+- 18 <Attribute name="Agony Resistance"/>: Two ascended accessories of your [build](/builds) of choice. Example: <Item id="39232" upgrades='49432'/> and <Item id="39233" upgrades='49432'/>
+- 36 <Attribute name="Agony Resistance"/>: By attuning ascended rings. Example: <Item id="75187" upgrades='49432,49432'/> and <Item id="74440" upgrades='49432,49432'/>
+- 9 <Attribute name="Agony Resistance"/>: Getting a back item such as: <Item id="79830" upgrades="49432"/>
+
+Homework: 
+- Start leveling the profession for your armor class (Armorsmith, Leatherwork, Tailor) to 500. Use [gw2crafts.net](https://gw2crafts.net) for the cheapest leveling.
+
+---
+
+### Tier 3: max 106 <Attribute name="Agony Resistance"/>
+Acquire on your journey in T3: 
+- You need 5 more <Item id="49432"/> to fit the maximum requirement of 106 <Attribute name="Agony Resistance"/>. 
+- Suggestion: craft 4 ascended armor pieces and hope to get a <Item id="38024"/> to upgrade one of your rings to <Item id="75669" upgrades='49432,49432,49432'/>
+
+Homework: 
+- Start leveling the profession that can craft your desired weapons to 500. Use [gw2crafts.net](https://gw2crafts.net) for the cheapest leveling.
+
+---
+
+### Tier 4: max 150 <Attribute name="Agony Resistance"/>
+Wrapping up: 
+1) Finish your ascended armor
+2) Infuse your remaining ring(s)
+3) Craft ascended weapons 
+4) Infuse your backpack
+
+Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistance"/> and match the gear in our [builds](/builds) page.
 
 ---
 
