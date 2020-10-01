@@ -125,6 +125,9 @@ Some people are for what ever reasons not able to find a static or not committed
 | <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Holosmith" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Reaper" disableText/><Specialization name="Dragonhunter" disableText/>  | <br/>Pick any of the meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play)<br/><br/> |
 | <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Holosmith" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Reaper" disableText/><Specialization name="Dragonhunter" disableText/>  | <br/>Pick any of the meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
 
+<Message>
+Despite  <Specialization name="Renegade" text="Heal Renegade"/> being the superior choice for PuG groups, <Specialization name="Firebrand" text="Heal Firebrand"/> is almost exclusively played even in high KP PuGs. Our recommendation is based on what we spotted to work best with an average team that can carry their weight to some degree (not running away from healer, expecting to be carried), but does not reflect whats being played in game.
+</Message>
 
 ## What are the differences between the meta and how PuGs play?
 One of the biggest difference is, that they don't always understand how their actions translate into the game. Learning to do the mechanics correctly, flawlessly, and reliably is - in the beginning - the most important task. PuGs assume the worst usually, so one player in the party is a healer instead. 
