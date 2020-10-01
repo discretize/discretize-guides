@@ -127,7 +127,6 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>. |
 | <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed. |
 </Card>  
-
 </GridItem>
 </Grid>
 
@@ -141,9 +140,6 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 | <Trait name="Natural healing" size="big" disableText/> | Take this instead of <Trait name="Two-handed training"/> if you are running longbow and want some passive healing. |
 | <Trait id="2143" size="big" disableText/> | On short T4 fights you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> for your allies then swap traits right before you get in combat. |
 | <Trait name="potentally" size="big" disableText/> | For longer encounters, more <Boon name="Might"/> generation. |
-</Card>
-<Card title="Warhorn">
-Play warhorn whenever you can't precast <Skill name="Barrage"/> and also won't get to cast a second <Skill name="Barrage"/>.
 </Card>
 <Card title="Skirmishing and Fractals">
 Running Skirmishing in fractals is quite a niche choice, you need to satisfy **both of the following requirements:**
@@ -167,11 +163,11 @@ If both of these requirements then you can swap Marksmanship for Skirmishing wit
 | <Skill name="Dolyak Stance" size="big" disableText/> | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles). |
 | <Skill name="sharpeningstone" size="big" disableText/> | Can be used before mistlock precast for and swapped with a usual utility for some extra opener DPS. |
 | <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai Trin and Artsariiv. |
-
 </Card>
-
+<Card title="Warhorn">
+Play warhorn whenever you can't precast <Skill name="Barrage"/> and also won't get to cast a second <Skill name="Barrage"/>.
+</Card>
 <Card title="Defiance Bar Damage">
-
 | | |
 | -- | -- |
 | <Skill id="45743" size="big" disableText/> | 200 damage (F2 in <Skill id="42944"/>) |
@@ -219,8 +215,7 @@ For your second weapon set you either run greatsword or longbow:
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
-<GridItem xs="12" sm="6">
-
+<GridItem sm="6">
 <Card title="Information">
 Golem rotations from raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
 For that reason you can find a video below with openers for each of the CM bosses: 
@@ -228,35 +223,9 @@ For that reason you can find a video below with openers for each of the CM bosse
 <Card title="Soulbeast openers">
 <Video caption="by Stellan [dT], edited by Vince [dT]" youtube="0obkDd8lCTA"/> 
 </Card>
-</GridItem>
-
-<GridItem xs="12" sm="6">
-<Card title="Precasting">
-If you have a Mistlock Singularity present you can use this rotation
-1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-2. <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
-3. `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
-3. <Skill id="12621"/> to blast might.
-4. <Skill id="31914"/> to extend your boons.
-5. Pick up <Skill id="5516"/> if there is one.
-6. <Skill name="One Wolf Pack"/> then take the Mistlock and trigger the boss.
-
-If you don't have Mistlock Singularity present you can use this simplified rotation:
-1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-
-3. <Skill id="12621"/> to blast might.
-4. <Skill id="31914"/> to extend your boons.
-5. Pick up <Skill id="5516"/> if there is one.
-
-</Card>
-</GridItem>
-
-
-<GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 <Video youtube="MCs3a6T3sUQ" caption="by Sascha [CnD] " />
 </Card>
-
 <Card title="Golem Rotation">
 1. <Skill name="Barrage"/>
 2. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
@@ -277,12 +246,27 @@ If you don't have Mistlock Singularity present you can use this simplified rotat
 17. <Skill name="Barrage"/>
 18. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
 19. Repeat from `Step 5`
+  
 </Card>
 </GridItem>
+<GridItem sm="6">
+<Card title="Precasting">
+If you have a Mistlock Singularity present you can use this rotation
+1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+2. <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
+3. `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
+4. <Skill id="12621"/> to blast might.
+5. <Skill id="31914"/> to extend your boons.
+6. Pick up <Skill id="5516"/> if there is one.
+7. <Skill name="One Wolf Pack"/> then take the Mistlock and trigger the boss.
 
-<GridItem xs="12" sm="6">
+If you don't have Mistlock Singularity present you can use this simplified rotation:
+1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+2. <Skill id="12621"/> to blast might.
+3. <Skill id="31914"/> to extend your boons.
+4. Pick up <Skill id="5516"/> if there is one.
 
-
+</Card>
 <Card title="Skill priority">
 | Skill | iDPS |
 | ----- | ---- |
@@ -305,8 +289,6 @@ Many thanks to Elu [SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4ff
 </Card>
 </GridItem>
 </Grid>
-
-
 
 <Divider text="Underwater Guide"/>
 
