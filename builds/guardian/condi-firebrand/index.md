@@ -110,7 +110,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - Skill 1: One stack of <Condition name="Burning"/>
   - Skill 2: Two stacks of <Condition name="Burning"/>
   - Skill 3: An AoE pull
-  - Skill 4: High power damage skill, applies four stacks of <Condition name="Burning"/>.
+  - Skill 4: High power damage skill, applies five stacks of <Condition name="Burning"/>.
   - Skill 5: Your bread and butter as <Specialization text="Condi Firebrand" name="Firebrand"/>: Share Ashes of the Just with allies applying a magnitude of <Condition name="Burning"/>.
 - <Skill name="Tome of Resolve"/> (F2):
   - Skill 2 is a party condition cleanse
