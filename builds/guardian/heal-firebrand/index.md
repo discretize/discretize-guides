@@ -14,7 +14,7 @@ classification: [4, 1, 3, 1, 2]
 ---
 
 <Message>
-Despite being very common in PuGs, this build is not **the** meta! It is part of a composition called PuG meta, you can read more about it [here](/guides/meta-explained). We **recommend** to play [Heal Renegade](/builds/revenant/heal-renegade) for PuGs who are more organized and know the mechanics (after around 150-250+ <Item id="81743"/>), also a <Specialization name="Firebrand"/> can deal way more damage than <Specialization name="Renegade"/>. However if you fail mechanics <Specialization name="Firebrand" text="Heal Firebrand"/> is a way to success.
+This build is very common in PuGs. It is part of a composition called PuG meta, you can read more about it [here](/guides/meta-explained). We **recommend** to play [Heal Renegade](/builds/revenant/heal-renegade) for statics who are starting out and know the mechanics (after around 150-250+ <Item id="81743"/>). This recommendation is because  <Specialization name="Firebrand"/> can deal way more damage than <Specialization name="Renegade"/> (Leading to higher group DPS). However if you fail mechanics <Specialization name="Firebrand" text="Heal Firebrand"/> is a way to success.
 </Message>
 
 It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is important to understand that the signet share is essential to faster runs and sharing extra power during <Effect name="Exposed"/> (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
