@@ -158,6 +158,3 @@ This guide is good for people who want to start fractals with heal firebrand. We
 <Video youtube="oigZbGyQvbQ" title="In-depth build guide by Rheyo"/>
 </GridItem>
 </Grid>
-
-<Divider text="Disclaimer"/>
-### These builds are played mostly for fun, to carry individuals or with niche uses like more cleave, boon generation and skips. If you want to know more about what the current meta is and why is it the way it is you can read more about it [here](/guides/meta-explained) or you can look up easy to understand description of classes that are meta, offmeta and more [here!](/what-should-i-play)
