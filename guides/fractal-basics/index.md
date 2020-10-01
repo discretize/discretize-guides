@@ -233,4 +233,4 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 
 <Divider text="What now?"/>
-### Continue reading the basics of fractals like pre-stacking <Boon name="Might"/>, <Boon name="Fury"/> and other boons [here](/guides/blast-stacking) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)
+### Continue reading the basics of fractals like group compositions and what is the meta for organized groups and PuGs [here](guides/meta-explained) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)
