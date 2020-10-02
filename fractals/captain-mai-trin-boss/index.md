@@ -45,17 +45,9 @@ Mai Trin is protected by ten stacks of *Captain's Shield*, each stack reducing h
 The key is to stack on Mai Trin during the whole fight: this way she will always be in an electric field, even if she teleports to the furthest player away.
 
 Every 25% health, Mai Trin disappears and additional enemies will spawn while fiery cannons start shooting. Change your target to Horrik and bring him down by 25% of his health to make Mai Trin return. Use <Control name="Pull"/>s to stack the adds together and cleave them down.
-<Image src="./images/mai_trin.jpg" caption="Captain Mai Trin"/>
-</GridItem>
-
-<GridItem sm="5">
-  
-<Image src="./images/horrik.jpg" caption="First Mate Horrik"/>
 
 Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily, Mai Trin won't have any protective stacks below 25%, so focus your damage on Mai Trin. Killing Mai Trin finishes the fractal, therefore there is no incentive to kill Horrik before that. It is vital to bring reflections and <Boon name="Stability"/> to counter the elite adds that spawn after Mai Trin disappears at 25%. 
-</GridItem>
 
-<GridItem xs="12" sm="6"> 
 <Tabs>
 <Tab specialization="Spellbreaker">
 <Video youtube="U-DzD9IzujI" caption="by Roach [dT]"/>
@@ -63,8 +55,10 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 </Tabs>
 </GridItem>
 
-
-<GridItem xs="12" sm="6"> 
+<GridItem sm="5">
+  
+<Image src="./images/horrik.jpg" caption="First Mate Horrik"/>
+<Image src="./images/mai_trin.jpg" caption="Captain Mai Trin"/>
 
 <Tabs>
 <Tab specialization="Revenant">
