@@ -357,7 +357,7 @@ Skill usage on Skorvald depends on whether your <Specialization name="Renegade"/
 Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, <Skill name="Legendary Assassin Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/>  runs <Skill name="Legendary Dwarf Stance"/>, you can take <Skill name="sword of justice"/>. In all other cases take <Skill name="standyourground"/>.
 </GridItem>
 <GridItem xs="12" sm="3">
-<Video youtube="FMzG-OsoYUM" caption="PuG Artsariiv with Anomaly skip by SLifeR [dT]"/>
+<Video youtube="te6H4LwgGv4" caption="PuG Artsariiv with Anomaly skip by SLifeR [dT]"/>
 </GridItem>
 </Grid>
 </Boss>
