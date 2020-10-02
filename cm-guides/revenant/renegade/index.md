@@ -226,7 +226,7 @@ disableOrganized: 'false'
 
 <ConditionalComponent condition="pug">
 
-<Boss name="ensolyss" video="" timestamp="" videoCreator="" foodId="91805" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+<Boss name="ensolyss" video="eexNfMx2J_w" timestamp="" videoCreator="Deen [dT]" foodId="91805" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 **Suggested Boon Duration:** `80%`
 - Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
 </Boss>
