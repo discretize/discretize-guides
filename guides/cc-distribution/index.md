@@ -123,4 +123,4 @@ The only reason the <Specialization name="Berserker"/> carries an off-hand mace 
 </Tabs>
 
 <Divider text="What now?"/>
-### Continue reading how you can use consumable items in fractals and help breaking the Defiance bar with them [here](/guides/fractal-basics) or if you already read that we recommend taking a look how you can help your group pre-stacking <Boon name="Might"/>, <Boon name="Fury"/> and other boons [here!](/guides/blast-stacking)
+### Continue reading how you can use consumable items in fractals and help breaking the Defiance bar with them [here](/guides/fractal-basics) or if you already read that we recommend taking a look at group compositions and what is the meta for organized groups and PuGs [here](guides/meta-explained)
