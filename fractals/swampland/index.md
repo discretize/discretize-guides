@@ -31,7 +31,7 @@ consumables: [78978]
 <GridItem sm="8">
 ## Running the wisps  
   
-Trigger the start event by walking to the three *Wisp Clefts* in the South. Wait for three players to be ready at each of the randomly spawned Wisps, usually indicated by typing `ready` in chat. Count down to go and deliver the Wisps to the Clefts within 30 seconds while avoiding <Condition name="Stun"/>, <Condition name="Immobile"/> and <Condition name="crippled"/> from the spike, wire and hunting traps on the ground.
+Trigger the start event by walking to the three *Wisp Clefts* in the South. Wait for three players to be ready at each of the randomly spawned Wisps, usually indicated by typing `ready` in chat. Count down to go and deliver the Wisps to the Clefts within 30 seconds while avoiding <Control name="Stun"/>, <Condition name="Immobile"/> and <Condition name="crippled"/> from the spike, wire and hunting traps on the ground.
 
 Learn and practice to jump over the emerging walls, for nearly every wall there is an easy spot to skip over it.
 
@@ -87,10 +87,12 @@ In the passage, the Mossman is waiting to fight you. You can break his defiance 
 
 ---
 
-## Bloomhunger
+
 
 <Grid>
 <GridItem sm="8">
+## Bloomhunger
+  
 Activate the encounter by placing the nearby Wisp into an empty Wisp Cleft. Bloomhunger (and all trash mobs) are only vulnerable inside the active Wisp Cleft area, additionally all players gain 100% increased endurance regeneration from it. The active area switches clockwise, move to the next position as soon as it decreases in size.
 
 When Bloomhunger casts _Poison Rain_, immediately break his defiance bar (especially at the start of the fight) and nuke him to 75%/50%/25% life. Avoid his _Leap_ and _Charge_ attacks to prevent being <Control name="Knockdown"/>ed.
