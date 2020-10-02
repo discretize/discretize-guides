@@ -112,7 +112,7 @@ Please consult the [meta-page](guides/meta-explained) for more information about
 <GridItem sm="8">
 You can use the chat command `/gg` within fractals to immediately kill your character (dead, not downed). This can be used generously in fractal skips, as it allows the entire party to teleport to a checkpoint once one player activates it.
 
-If everyone in the party is dead at the same time, cooldowns will reset for all players. Therefore it is advised for the entire group to use `/gg` at certain key positions to reset long cooldowns, like between Siax (2nd boss) and Ensolyss (3rd boss) in 99CM. Never resurrect as long as another player is still alive. If another player tells you `/gg` he is probably doing a skip that you are unaware of or he wasn't ready for combat yet. Either way, do not waste time by questioning it.
+If everyone in the party is dead at the same time, cooldowns will reset for all players. Therefore it is advised for the entire group to use `/gg` at certain key positions to reset long cooldowns, like between Siax (2nd boss) and Ensolyss (3rd boss) in 98CM. Never resurrect as long as another player is still alive. If another player tells you `/gg` he is probably doing a skip that you are unaware of or he wasn't ready for combat yet. Either way, do not waste time by questioning it.
 
 Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization name="Druid"/>'s <Skill id="31869"/> and <Skill name="Reapers Shroud"/> for <Specialization name="Reaper"/> will fully recharge after the resurrection.
 </GridItem>
