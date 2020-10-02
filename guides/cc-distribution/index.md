@@ -16,7 +16,7 @@ The [Defiance bar](https://wiki.guildwars2.com/wiki/Defiance_bar) (also called a
 
 Usually elite or higher mobs will have a defiance bar in fractals, your goal should be to break this bar as fast as possible. In order to break a defiance bar, you need to use CC skills on the enemy whose breakbar you want to break. The size of the bar varies from boss to boss and between mobs too, what matters is that you should break it. 
 
-Once you break an enemy's defiance bar they will gain an effect named <Effect name="Exposed"/>, which means they take **50% more damage**. They will also usually be <Effect name="Stun"/>ed, which means they are unable to attack you or deal damage to you.
+Once you break an enemy's defiance bar they will gain an effect named <Effect name="Exposed"/>, which means they take **50% more damage**. They will also usually be <Control name="Stun"/>ed, which means they are unable to attack you or deal damage to you.
 </Card>
 This guide's aim is to help you understand how your team should cooperate to break all the CC bars. 
 The present <Specialization name="Firebrand"/> + <Specialization name="Renegade"/> meta demands CC contributions from every member of the party, **even of the DPS players!** 
@@ -33,7 +33,7 @@ In PuG (Pick up Group, players from the LFG system) runs, where you can rely on 
 <Card title="What does CC mean?">
 CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_effect). A Crowd Control skill is any skill that disables an enemy or even a group of enemies and therefore deals damage to a defiance bar, it can be split into soft CC or hard CC
 
-**Hard CC** skills usually inflict the enemy with some kind of movement effect like <Effect name="Stun"/> or <Effect name="Knockback"/>. As they disable the enemy right now they deal defiance bar damage **instantaneously**. This is the most commonly used type of CC skills to break a defiance bar.
+**Hard CC** skills usually inflict the enemy with some kind of movement effect like <Control name="Stun"/> or <Control name="Knockback"/>. As they disable the enemy right now they deal defiance bar damage **instantaneously**. This is the most commonly used type of CC skills to break a defiance bar.
 
 **Soft CC** skills are those which apply conditions, they inflict damage to the Defiance bar **over time**, depending upon the condition. Since you want to get the <Effect name="Exposed"/> effect as soon as possible you can't rely on soft CC breaking a bar of 2000 as seen below it will take quite a while.
 </Card>
@@ -114,7 +114,7 @@ The easiest and fastest way to break the defiance bars on the split-phase clones
 
 <Tab title="Arkk">
 <Divider text="Arkk"/>
-At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50% and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favour, which in addition to causing <Skill name="Surge of the mists"/> to hit 9 times, the <Effect name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/> will also double-hit, bringing the <Specialization name="Renegade"/>'s defiance bar damage to 1814 alone!
+At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50% and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favour, which in addition to causing <Skill name="Surge of the mists"/> to hit 9 times, the <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/> will also double-hit, bringing the <Specialization name="Renegade"/>'s defiance bar damage to 1814 alone!
 
 The only reason the <Specialization name="Berserker"/> carries an off-hand mace on Arkk is to get the <Item name="severance"/> buff by precasting <Skill name="Tremor"/> after each bloom phase.
 
