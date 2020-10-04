@@ -163,7 +163,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 <ConditionalComponent condition="pug">
 <Boss name="siax" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Take <Trait id="2128"/>.
+- Take <Trait id="2128"/>, <Trait id="1047">.
 - Remember to use <Item id="24658"/> for this encounter!
 - Longbow will burst higher on this fight, but you will have trouble killing your 2nd add without help. You should only play it if you can rely on your group to phase P2 quickly and help you on split 2.
 </Boss>
