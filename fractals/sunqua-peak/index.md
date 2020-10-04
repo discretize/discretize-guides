@@ -50,7 +50,7 @@ After the Voice of the mountain is dead, take the updraft and follow the path. I
 </GridItem>
 
 <GridItem sm="12">
-However, the waterfalls have two states, active and inactive. When inactive, they will not push you over the edge. An easy way to tell which state they are in is if the water flow is more intense with more white streaks running through it or not. When the effects expire and the flow slows down, it's safe to simply walk through. Alternativly, you can also try and dodge through the intense flow or use a movement skill to quickly get past. The second waterfall can be easily skipped by walking behind it. 
+However, the waterfalls have two states, active and inactive. When inactive, they will not push you over the edge. An easy way to tell which state they are in is if the water flow is more intense with more white streaks running through it or not. When the effects expire and the flow slows down, it's safe to simply walk through. Alternativly, you can also try and dodge through the intense flow or use <Item id="85244"/> or a movement skill to quickly get past. The second waterfall can be easily skipped by walking behind it. 
 
 Do the mini jumping puzzle to the 2nd boss, remember to talk to the elementals. As soon as you have interacted with all 3, `/gg` so your team can catch up with the front runner.
 
@@ -155,7 +155,7 @@ The boss has multiple phases themed around the different elements air, fire, wat
 #### Air Phase <Label>100%-66%</Label>
 <Grid>
 <GridItem xs="12" sm="7">
-After crossing the green line, the fight starts. After about one second, Ai dashes to a randomly chosen side and casts a set of line attacks. During this time, a CC bar appears, which should only attemped to be broken in organized groups (due to the very small window of opportunity that requires coordination). After the line attacks, she will dash to the middle and target each player with an orange AoE, forcing the group to split up to minimize damage taken. When the circles disappear, group up (avoiding any subsequent lines or explosions) and start bursting. If you have not broken the 1st CC bar, a second will appear, as Ai starts casting a series of cone attacks. 
+After crossing the green line, the fight starts. After about one second, Ai dashes to a randomly chosen side and casts a set of line attacks. During this time, a CC bar appears, which ***should not be broken** in any group (it is because then you can CC Ai in the middle, you get no orange AoEs, means more DPS for not spreading out). After the line attacks, she will dash to the middle and target each player with an orange AoE, forcing the group to split up to minimize damage taken (**only of you break Ai's first CC bar, or don't break Ai's 2nd CC bar in the middle**). When the circles disappear, group up (avoiding any subsequent lines or explosions) and start bursting. If you have not broken the 1st CC bar, a second will appear, as Ai starts casting a series of cone attacks. 
   
 </GridItem>
 <GridItem xs="12" sm="5">
