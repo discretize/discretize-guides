@@ -98,7 +98,9 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 | `Slb`  | Soulbast | `dps` | <Specialization name="Soulbeast"/> as [meta](/guides/meta-explained) DPS | [Build](/builds/soulbeast) | 
 | `Wea`  | Weaver | `dps`, `ele` | <Specialization name="Weaver"/> as  [meta](/guides/meta-explained) DPS | [Build](/builds/weaver) | 
 | `DH`  | Dragonhunter | `dps` | <Specialization name="Dragonhunter"/> as offmeta DPS | [Build](/builds/power-dragonhunter) | 
-
+| `DoD` | Defier of Doubt | `title` | Requirement in LFG, earned by completing level 100 in challenge mode |  |
+| `DwD` | Dances with Demons | `title` | Requirement in LFG, earned by completing level 100 in challenge mode without someone dying.  || 
+| `kp` | Kill proof | `UCE` | <Item id="81743"/>: Requirement in LFG, cannot be earned any longer.   || 
 
 ## Current fractal META
 
