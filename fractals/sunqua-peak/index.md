@@ -129,14 +129,8 @@ Kill the boss and move on to the final encounter of this fractal.
 
 This section explains CM and non-CM. The first part is for both the same, except that the Sorrowful Spellcaster has more HP and hits harder on CM. Mechanically it is the same. 
 <Message>
-When you break Ai's breakbar she gets a buff on her bar preventing a new breakbar from spawning for 30 seconds.
+When you break Ai's breakbar she gets a buff on her bar preventing a new breakbar from spawning for 30 seconds. The breakbar has an insane size of 3200 making it hard to break. It is highly recommended to bring **all** the CC [consumables](/guides/consumables)!
 </Message>
-|                    |                                                                         |
-| ------------------ | ----------------------------------------------------------------------- |
-| Encounter duration | 5:00min                                                                 |
-| Sigils             | <Item name="Impact"/> <Item name="Force"/> <Item name="Night"/>                              |
-| Instabilities      | <Instability name="No Pain, No Gain"/> <Instability name="Boon Overload"/> <Instability name="Vengeance"/> |
-| CC                 | ~ 3400                                                                    |
 
 ### Part 1: Normal Form <Label>Day</Label>
 
