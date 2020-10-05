@@ -7,28 +7,28 @@ hidden: 'false'
 ---
 
 ## Introduction to fractals
-Fractals of the mists or also frequently called FOTM (or just "fracs") are 5-man repetable endgame dungeon-like content with a large scale of difficulty and rewards. There are 100 levels which are structured into 4 different tiers each consisting out of 25 levels. You can find the portal entrance to fractals in Fort Marriner in Lions Arch. There are no gear requirements for tier 1 fractals allowing anybody to try fractals out.
+Fractals of the mists or also frequently called FOTM (or just "fracs") are 5-man repeatable endgame dungeon-like content with a large scale of difficulty and rewards. There are 100 levels that are structured into 4 different tiers each consisting out of 25 levels. You can find the portal entrance to fractals in Fort Marriner in Lions Arch. There are no gear requirements for tier 1 fractals allowing anybody to try fractals out.
 
-The higher level the more mechanics are added to fractals, the harder hit enemies but you also receive more loot. Starting from level 20 the players need to deal with <Effect name="Agony"/> which requires <Attribute name="Agony Resistance"/> to counter effectively. Every level has a recommendation of how much <Attribute name="Agony Resistance"/> you should have at least. Without <Attribute name="Agony Resistance"/> you loose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
+The higher level the more mechanics are added to fractals, the harder hit enemies but you also receive more loot. Starting from level 20 the players need to deal with <Effect name="Agony"/> which requires <Attribute name="Agony Resistance"/> to counter effectively. Every level has a recommendation of how much <Attribute name="Agony Resistance"/> you should have at least. Without <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
 
 <Message>
 <Effect name="Agony"/> reduces your healing by 70% per stack. Never use your heal skill while you are under the effect of <Effect name="Agony"/>.
 </Message>
 
-Starting with tier 2 the heros are encountering _Mistlock instabilities_ which add another layer of difficulty. A complete list of _Mistlock instabilities_ and countermeasures can be found on the bottom of this page.
+Starting with tier 2 the heroes are encountering _Mistlock instabilities_ which add another layer of difficulty. A complete list of _Mistlock instabilities_ and countermeasures can be found at the bottom of this page.
 | Tier | max. required <Attribute name="Agony Resistance"/> | Instabilities | Description |
 | ---- | ---- | ---- | --- |
-| 1    | 17  | 0 | This tier is meant as an introduction to fractals. Mechanics and damage is very forgiving. | 
+| 1    | 17  | 0 | This tier is meant as an introduction to fractals. Mechanics and damage are very forgiving. | 
 | 2    | 61 | 1 |  Tier 2 fractals should be played in a party with 5. The mechanics hit slightly harder and you encounter mistlock instabilities and <Effect name="Agony"/> | 
 | 3    | 106 | 2 |  When starting to do tier 3 fractals you are expected to start reading up on how your class and fractals work. Enemies hit hard, are more frequent and you have to deal with two mistlock instabilities at the same time! |
-| 4    | 150 | 3 | When running tier 4 fractals you should be comfortable with your class and the mechanics. It is expected that you carry your own weight. Running with optimal utility and food aswell as fractal potions (<Item id="71659" disableText/>, <Item id="76150" disableText/>, <Item id="75427" disableText/>) is expected. |
+| 4    | 150 | 3 | When running tier 4 fractals you should be comfortable with your class and the mechanics. It is expected that you carry your own weight. Running with optimal utility and food as well as fractal potions (<Item id="71659" disableText/>, <Item id="76150" disableText/>, <Item id="75427" disableText/>) is expected. |
 
 ---
 
 ## Differences between fractals and raids/strikes
 There are quite a few differences that set fractals apart from other PvE content in Guild Wars 2. Most prominently is the length of a single level: One level is usually completed in 5-10 minutes. The levels do not only contain bosses but also other encounters such as small puzzles or fighting mobs. Many levels can be sped up by thinking outside the box and using smart tricks. 
 
-The fractal specific potions influence the way builds are designed. Each of them grant 1.5 times of your <Attribute name="Agony Resistance"/> in a specific stat. This allows builds to be played a lot more offensive compared to elsewhere. Our [builds](/builds) are optimized for multiple amounts of  <Attribute name="Agony Resistance"/> since you will acquire more than 162 <Attribute name="Agony Resistance"/> over the course of your fractal journey due to <Augmentation name="Mist Attunement 1"/> and higher augmentations. 
+The fractal specific potions influence the way builds are designed. Each of them grants 1.5 times of your <Attribute name="Agony Resistance"/> in a specific stat. This allows builds to be played a lot more offensive compared to elsewhere. Our [builds](/builds) are optimized for multiple amounts of  <Attribute name="Agony Resistance"/> since you will acquire more than 162 <Attribute name="Agony Resistance"/> over the course of your fractal journey due to <Augmentation name="Mist Attunement 1"/> and higher augmentations. 
 
 | Potion | Stat | Gain on 162 <Attribute name="Agony Resistance"/> | 
 | -- | -- | -- |
@@ -39,9 +39,9 @@ The fractal specific potions influence the way builds are designed. Each of them
 ---
 
 ## Acquiring gear to counter <Effect name="Agony"/>
-For beginners it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all 18 infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>.
+For beginners, it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all 18 infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>.
 
-For a temporary 15 <Attribute name="Agony Resistance"/> buff you can buy a <Item id="70596"/> and skip ahead of the suggested table below. We suggest to acquire most of the gear in fractals, however you of course can buy your gear in WvW or open world or any other place.
+For a temporary 15 <Attribute name="Agony Resistance"/> buff, you can buy a <Item id="70596"/> and skip ahead of the suggested table below. We suggest acquiring most of the gear in fractals, however, you of course can buy your gear in WvW or open world or any other place.
 
 ---
 
@@ -51,7 +51,7 @@ Requirement: Full exotic gear
 Homework: 
 - Start working towards the accessories that you can buy with guild commendations
 - Save up relics to buy ascended rings
-- Alternatively buy Living World Season 3 Episode 3: A crack in the ice and fram <Item id="79899"/> for trinkets (or any other living story episode).
+- Alternatively buy Living World Season 3 Episode 3: A Crack in the ice and farm <Item id="79899"/> for trinkets (or any other living story episode).
 
 ---
 
@@ -114,7 +114,7 @@ Please consult the [meta-page](guides/meta-explained) for more information about
 <GridItem sm="8">
 You can use the chat command `/gg` within fractals to immediately kill your character (dead, not downed). This can be used generously in fractal skips, as it allows the entire party to teleport to a checkpoint once one player activates it.
 
-If everyone in the party is dead at the same time, cooldowns will reset for all players. Therefore it is advised for the entire group to use `/gg` at certain key positions to reset long cooldowns, like between Siax (2nd boss) and Ensolyss (3rd boss) in 98CM. Never resurrect as long as another player is still alive. If another player tells you `/gg` he is probably doing a skip that you are unaware of or he wasn't ready for combat yet. Either way, do not waste time by questioning it.
+If everyone in the party is dead at the same time, cooldowns will reset for all players. Therefore it is advised for the entire group to use `/gg` at certain key positions to reset long cooldowns, like between Siax (2nd boss) and Ensolyss (3rd boss) in 98CM. Never resurrect as long as another player is still alive. If another player tells you `/gg` he is probably doing a skip that you are unaware of or he wasn't ready for combat yet. Either way, do not waste time questioning it.
 
 Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization name="Druid"/>'s <Skill id="31869"/> and <Skill name="Reapers Shroud"/> for <Specialization name="Reaper"/> will fully recharge after the resurrection.
 </GridItem>
@@ -132,7 +132,7 @@ Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization
 <Video caption="by Rubby [dT]" youtube="sMEBz5MJOk8"/>
 </GridItem>
 <GridItem sm="12" md="6">
-After maxing the fractal masteries to level 4 you get access to _Mistlock Singularities_. Taking one of these will reset the cooldowns of all your skills! This allows you to precast certain skills before entering the battle without a penalty. It makes sense to precast <Boon name="Quickness"/> and <Boon name="Alacrity"/> and use blast finishers on certain Combo Fields. 
+After maxing the fractal masteries to level 4 you get access to _Mistlock Singularities_. Taking one of these will reset the cooldowns of all your skills! This allows you to precast certain skills before entering the battle without a penalty. It makes sense to precast <Boon name="Quickness"/>, <Boon name="Alacrity"/> and use blast finishers on certain Combo Fields. 
 
 The most common applications are <Boon name="Might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="Stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
@@ -216,8 +216,8 @@ Below is a list of all current instabilities and their possible countermeasures.
 | <Instability name="Adrenaline Rush"/>  | When enraged, enemies deal 150% increased damage while they're low on health. Enemies deal 20% less damage when not enraged.     |
 | <Instability name="Afflicted"/>   | Outgoing <Boon name="Resistance"/> duration is increased by 50%. Enemies apply random conditions. (<Condition name="Bleeding"/>, <Condition name="Burning"/>, <Condition name="Confusion"/>, <Condition name="Poisoned"/> and <Condition name="Torment"/>). Not necessary, although a good countermeasure is to have the <Specialization name="Firebrand"/> use <Skill id="45460"/> or blasting light fields.  |
 | <Instability name="Flux Bomb"/>           |  This means that players in combat are randomly marked with Flux Bombs which leave a damaging and blinding AoE field behind. Do not place those inside the combat area, learn to dash away right before the field deploys. If you keep walking forward while marked you won't get any damage from the bomb. Flux bombs now apply to both allies and enemies. ***It is a little DPS increase to deploy it under the boss/mobs but it is not worth it blinding your team members!***                                    |
-| <Instability name="Last Laugh"/>          | Enemies explode upon dying if not stunned. Stunned enemies apply protection and stability to nearby players. Each enemy killed explodes within a 180 radius 1.75 seconds after its death, dealing high damage and apply <Control name="Daze"/> to foes around it. Recognizable by a yellow zone after a mob's death. Stunned enemies apply <Boon name="Protection"/> and <Boon name="Stability"/> to nearby players.                                                                                                                               |
-| <Instability name="Mists Convergence"/>   | Causes a set of effects from other fractals to spawn, including _The Mossman_, a deadly _Champion Rabbit_, _Veteran Jade Maw Tentacles_, an _air strike_ from the PvP map Skyhammer and the _cannon assault_ from Captain Mai Trin Fractal.                                                                                           |
+| <Instability name="Last Laugh"/>          | Enemies explode upon death if not stunned. Stunned enemies apply protection and stability to nearby players. Each enemy killed explodes within a 180 radius 1.75 seconds after its death, dealing high damage and apply <Control name="Daze"/> to foes around it. Recognizable by a yellow zone after a mob's death. Stunned enemies apply <Boon name="Protection"/> and <Boon name="Stability"/> to nearby players.                                                                                                                               |
+| <Instability name="Mists Convergence"/>   | Causes a set of effects from other fractals to spawn, including _The Mossman_, a deadly _Champion Rabbit_, _Veteran Jade Maw Tentacles_, an _airstrike_ from the PvP map Skyhammer and the _cannon assault_ from Captain Mai Trin Fractal.                                                                                           |
 | <Instability name="No Pain, No Gain"/>    | Enemies receive <Boon name="Protection"/>, <Boon name="Might"/> and <Boon name="Fury"/> when you hit them. Has a 20 second internal cooldown per enemy, <Specialization name="Renegade"/> can strip with <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon stance"/>) or <Specialization name="Reaper" text="Power Reaper"/> can strip with <Skill name="Well of Corruption"/> and weapon skills or <Skill name="Throw mine"/> from <Specialization name="Holosmith"/> or <Specialization name="Chronomancer"/> can strip with <Skill name="Phantasmal Disenchanter"/> or auto-attacks. Stripping an enemy boon will steal their life.   |
 | <Instability name="Social Awkwardness"/>  | Players will be pushed away from one another. Make sure to not run around like a headless chicken! Find a good spot and stand still. |
 | <Instability name="Toxic Trail"/>         | Enemies leave a trail of poison behind them which inflicts direct damage and the <Condition name="Poisoned"/> condition. Blocking a toxic-trail attack will absorb it and cleanse the condition. It can be very dangerous when fighting multiple mobs. Removes <Boon name="Aegis"/>.  |
@@ -230,7 +230,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 | <Instability name="Outflanked"/> | Foes within 300 range do 300% more damage when attacking from behind, but do 25% less damage to you (their damage is reduced to 75%) when attacking from ahead.  |
 | <Instability name="Stick Together"/> |   Take 60% increased damage when not within a range of 300 of an ally. Take 20% reduced damage when within a range of 300 of an ally.    |
 | <Instability name="Sugar Rush"/> | Increases player movement speed and attack speed by 15%. Elite and lower enemies' movement speed and attack speed increases by 35%.      |
-| <Instability name="Toxic Sickness"/> | Players are occasionally affected by the toxic vomit attack out of the Nightmare Fractal. Every player gets a cone AoE in front of him, aiming at a party member will deal lethal damage. Proper stacking and positioning nullifies this instability effectively.      |
+| <Instability name="Toxic Sickness"/> | Players are occasionally affected by the toxic vomit attack out of the Nightmare Fractal. Every player gets a cone AoE in front of him, aiming at a party member will deal lethal damage. Proper stacking and positioning nullify this instability effectively.      |
 
 
 
