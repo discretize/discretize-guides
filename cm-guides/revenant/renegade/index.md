@@ -347,7 +347,7 @@ disableOrganized: 'false'
 ### _4th Add_ 
 * Use <Skill name="Inspiring Reinforcement"/>, and activate <Skill name="Vengeful Hammers"/>.
 * Use <Skill name="Citadel Bombardment"/>, share <Boon name="Might"/> with <Skill name="Heroic Command"/>.
-* Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Chilled Isolation"/>.
+* Change to <Skill name="Legendary Renegade Stance"/>, and use <Skill name="Chilling Isolation"/>.
 
 ### **66-33%** / **33-0%**
 * Share <Boon name="Alacrity"/> with <Skill name="Orders from Above"/>.
