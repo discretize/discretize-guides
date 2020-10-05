@@ -149,7 +149,7 @@ The boss has multiple phases themed around the different elements air, fire, wat
 #### Air Phase <Label>100%-66%</Label>
 <Grid>
 <GridItem xs="12" sm="7">
-After crossing the green line, the fight starts. After about one second, Ai dashes to a randomly chosen side and casts a set of line attacks. During this time, a CC bar appears, which ***should not be broken** in any group (it is because then you can CC Ai in the middle, you get no orange AoEs, means more DPS for not spreading out). After the line attacks, she will dash to the middle and target each player with an orange AoE, forcing the group to split up to minimize damage taken (**only of you break Ai's first CC bar, or don't break Ai's 2nd CC bar in the middle**). When the circles disappear, group up (avoiding any subsequent lines or explosions) and start bursting. If you have not broken the 1st CC bar, a second will appear, as Ai starts casting a series of cone attacks. 
+After crossing the green line, the fight starts. After about one second, Ai dashes to a randomly chosen side and casts a set of line attacks. During this time, a CC bar appears which **should not be broken** (you can CC Ai in the middle, you get no orange AoEs, means more DPS for not spreading out due to the circle mechanic). After the line attacks, she will dash to the middle and target each player with an orange AoE, forcing the group to split up to minimize damage taken (**only if you break Ai's first CC bar, or don't break Ai's 2nd CC bar in the middle**). When the circles disappear, group up (avoiding any subsequent lines or explosions) and start bursting. If you have not broken the 1st CC bar, a second will appear, as Ai starts casting a series of cone attacks. 
   
 </GridItem>
 <GridItem xs="12" sm="5">
