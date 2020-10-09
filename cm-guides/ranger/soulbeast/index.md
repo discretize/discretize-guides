@@ -86,8 +86,8 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - <Skill name="Sicem"/> then <Skill name="Rapid Fire"/>.
 - Swap to axe as soon as possible and use <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
 
-</ConditionalComponent>
 
+</ConditionalComponent>
 
 <ConditionalComponent condition="static">
 <Boss name="mama" video="HsGMLaDKzrA" videoCreator="Stellan [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
@@ -159,11 +159,12 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 </ConditionalComponent>
 
+---
 
 <ConditionalComponent condition="pug">
 <Boss name="siax" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Take <Trait id="2128"/>, <Trait id="1047">.
+- Take <Trait id="2128"/>.
 - Remember to use <Item id="24658"/> for this encounter!
 - Longbow will burst higher on this fight, but you will have trouble killing your 2nd add without help. You should only play it if you can rely on your group to phase P2 quickly and help you on split 2.
 </Boss>
@@ -179,7 +180,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 </Message>
 ### **Precast**
 
-- Precast <Skill name="Frost Trap"/> where Siax will spawn before you prestack boons.
+- Precast <Skill name="Frost Trap"/> before the fight starts.
 - Use <Skill name="Moa Stance"/>.
 - Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, then use <Skill name="One Wolf Pack"/>.
 - Take Mistlock and swap to Longbow.
@@ -277,6 +278,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 </ConditionalComponent>
 
+---
 
 <ConditionalComponent condition="pug">
 <Boss name="ensolyss" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Force" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
@@ -336,7 +338,6 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - Remember to Call <Skill name="Frost Spirit"/> to you with <Skill name="Cold Snap"/> at 15%, and don't cry to much from being stuck on Longbow for most of the <Effect name="Exposed"/> effect.
 
 </ConditionalComponent>
-
 
 <ConditionalComponent condition="static">
 <Boss name="ensolyss" video="x1hLiHyN3t8" videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
@@ -447,7 +448,6 @@ Spirit Management:
 ### **33%-0%**
 
 - Same as 66% to 33%.
-
 </ConditionalComponent>
 
 
@@ -558,11 +558,13 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 - Repeat the same rotation as 66-33%.
 
-</ConditionalComponent>
 
+</ConditionalComponent>
 
 <ConditionalComponent condition="static">
 <Boss name="artsariiv" video="pcBwuDwX8zo"  timestamp="104"  videoCreator="Stellan [dT]" foodId="91805" utilityId="9443" healId="" utility1Id="12633" utility2Id="12497" utility3Id="" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="" weapon2MainType="" weapon2MainSigil1="" weapon2MainInfusion1Id="" >
+- Pet: <Skill id="44617" disableText/> Red Moa.
+- Take <Trait id="2128"/>.
 - Your build will change depending on your strategy. Check the tabs below for the correct build!
 - If good instabilities, use <Item id="73191"/> as Utility food.
 - Middle strategy assumes you end phases 1 and 3 before Artsariiv reaches the corner, or shortly after.
@@ -573,7 +575,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<Skills unembossed healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717"/>
+<Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717"/>
 - Pet: <Skill id="44617" disableText/> Red Moa.
 - Traits: <Trait id="2128"/>
 
@@ -632,9 +634,9 @@ Use [consumables](/guides/consumables) to CC the adds.
 <Grid>
 <GridItem sm="6">
 <Card title="Skills and Traits">
-<Skills unembossed healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+<Skills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 - Pet: <Skill id="44617" disableText/> Red Moa for more DPS, or <Skill id="43636" disableText/> Rock Gazelle if you need the CC.
-- Traits: <Trait id="2128"/>.
+- Take <Trait id="2128"/>.
 
 </Card>
 </GridItem>
@@ -886,5 +888,4 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 - Swap weapons.
 - <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
 - Continue with filler skills like <Skill name="Worldlyimpact"/>, <Skill name="frenziedattack"/> until Arkk is dead.
-
 </ConditionalComponent>
