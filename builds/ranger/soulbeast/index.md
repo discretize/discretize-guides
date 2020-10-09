@@ -10,7 +10,7 @@ benchmark:
 skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
-code: '[&DQQgOwgaNyp5AC4XvAC8AKUBpQG1AKwBLhYuFjsRLxUAAAAAAAAAAAAAAAA=]'
+code: '[&DQQIGiA7Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/soulbeast'
 classification: [5, 5, 3, 3, 4]
 ---
@@ -116,10 +116,10 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,970,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128"/>
+<Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128"/>
 </GridItem>  
 <GridItem sm="5">
-<Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717"/>
+<Skills healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
 <Card title="Pets">
 | | |
 | -- | -- |
@@ -137,8 +137,8 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 | | |
 | -- | -- |
 | <Trait name="Clarion Bond" size="big" disableText/> | Can be useful if the blast and team <Boon name="Might"/> is more advantageous than the self <Boon name="Might"/> from <Trait name="Huntersgaze"/>. |
-| <Trait name="Wilting Strike" size="big" disableText/> | Take this instead of <Trait name="Natural healing"/> if you need to help provide weakness for your <Specialization name="Weaver"/>. |
-| <Trait name="Two Handed Training" size="big" disableText/> | Take this instead of <Trait name="Natural Healing"/> if you are running Greatsword or are underwater. |
+| <Trait name="Wilting Strike" size="big" disableText/> | Take this instead of <Trait name="Two-handed training"/> if you need to help provide <Condition name="weakness"/> for your <Specialization name="Weaver"/>. |
+| <Trait name="Natural healing" size="big" disableText/> | Take this instead of <Trait name="Two-handed training"/> if you are running longbow and want some passive healing. |
 | <Trait id="2143" size="big" disableText/> | On short T4 fights you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> for your allies then swap traits right before you get in combat. |
 | <Trait name="potentally" size="big" disableText/> | For longer encounters, more <Boon name="Might"/> generation. |
 </Card>
@@ -206,7 +206,7 @@ For your second weapon set you either run greatsword or longbow:
 **Utility Skills:**
 - **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team!**
 - You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus** for its duration. One thing to keep in mind is that it only grants you a 40% damage bonus against the foe you use it on, so if you are cleaving trash mobs it might not be worth using. Secondly, you only get the buff if you are in <Skill id="42944"/> so also don't activate it if you are unmerged. 
-- Your default second utility is <Skill name="Frost Trap"/> which has high burst potential, especially into <Effect name="Exposed"/>. This is the first skill you should consider swapping out if you need to bring party support. Depending on the situation you may want to run <Skill name="Signet of the Wild"/> instead, which is a nice stat increase which will often beat <Skill name="Frost trap"/> on fights with longer phases. The situations when you want to run trap depend upon phase length and downtime on phases where the trap can recharge.
+- Your default second utility is <Skill name="Signet of the wild"/> which is a nice passive stat increase. Depending on the situation you can instead run <Skill name="Frost trap"/> which offers higher burst potential. The situations when you want to run trap depend upon phase length and downtime on phases where the trap can recharge.
   - For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="Exposed"/> since it recharges during the island phase so the trap is an obvious pick over signet.
 - Most healing skills on ranger are quite useful: <Skill name="We heal as one"/> is a large heal and extends the boons on yourself thanks to <Skill id="42944"/>. Secondly <Skill name="Bear stance"/> is a great condi cleanse either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for pushing orbs at Arkk to enter the damage field.
 
