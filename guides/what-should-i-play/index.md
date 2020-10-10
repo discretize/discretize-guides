@@ -1,8 +1,9 @@
 ---
 title: 'What Should I Play?'
-date: '2020-07-25'
+date: '2020-09-29'
 image: './images/whatshouldiplaylogo.png'
 description: 'If you do not know what class you want to play.'
+hidden: 'false'
 ---
 This page introduces all the builds on this website by giving a very short overview over the gameplay. It may help you to choose the right class for your very own playstyle. Generally there are three types of builds: DPS, offensive support and defensive support builds. A META team for example is only running DPS and offensive support builds.
 
@@ -42,6 +43,7 @@ Outline:
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Specialization name="Firebrand" text="Condi Firebrand"/> |1. Low learning curve<br/><br/>2. Huge burst damage, out of the Tier 4 and Offmeta supports, it has the most damage<br/><br/>3. Is responsible for boons like <Boon name="Quickness"/>, <Boon name="Aegis"/> and <Boon name="Might"/><br/><br/>4. If needed, it can provide more boons like <Boon name="Resistance"/> and <Boon name="Stability"/><br/><br/>[Click here for the build!](/builds/guardian/condi-firebrand)<br/><br/> |
 | <Specialization name="Renegade" text="Heal Renegade"/> | <br/>1. Medium learning curve<br/><br/>2. Low damage, high healing output<br/><br/>3. You are responsible for boons like <Boon name="Alacrity"/>, <Boon name="Might"/> and <Boon name="Protection"/><br/><br/>4. Has the option to buff the team with <Trait id="1786"/><br/><br/>[Click here for the build!](/builds/revenant/heal-renegade)  |
+| <Specialization name="Firebrand" text="Heal Firebrand"/> | <br/>1. No learning curve<br/><br/>2. No damage, high consistent healing output<br/><br/>3. Is responsible for boons like <Boon name="Quickness"/>, <Boon name="Aegis"/>, <Boon name="Regeneration"/> and <Boon name="Might"/><br/><br/>4. On demand it can provide more boons like <Boon name="Resistance"/> and <Boon name="Stability"/><br/><br/>5. Can provide a group a damage buff by using <Skill name="Bane Signet"/><br/><br/>6. Provides essentially no benefit over <Specialization name="Firebrand" text="Power Firebrand"/> or <Specialization name="Firebrand" text="Condi Firebrand"/> except for heals. <br/><br/>[Click here for the build!](/builds/guardian/heal-firebrand) |
 </Tab>
 </Tabs>
 
@@ -59,7 +61,6 @@ Outline:
 | | |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Specialization name="Warrior" text="Banner Warrior"/> |1. Low learning curve<br/><br/>2. Damage output compared to the META <Specialization name="Berserker"/> is much lower!<br/><br/>3. Provides 25 <Boon name="Might"/> for the group<br/><br/>4. Grants offensive buffs to theteam through traits like <Trait name="Empower Allies"/> and the banners: <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/><br/><br/>[Click here for the build!](/builds/warrior/banner-warrior)<br/><br/>    |
-| <Specialization name="Firebrand" text="Heal Firebrand"/> | <br/>1. No learning curve<br/><br/>2. No damage, high consistent healing output<br/><br/>3. Is responsible for boons like <Boon name="Quickness"/>, <Boon name="Aegis"/>, <Boon name="Regeneration"/> and <Boon name="Might"/><br/><br/>4. On demand it can provide more boons like <Boon name="Resistance"/> and <Boon name="Stability"/><br/><br/>5. Can provide a group a damage buff by using <Skill name="Bane Signet"/><br/><br/>6. Provides essentially no benefit over <Specialization name="Firebrand" text="Power Firebrand"/> or <Specialization name="Firebrand" text="Condi Firebrand"/> except for heals. <br/><br/>[Click here for the build!](/builds/guardian/heal-firebrand) |
 </Tab>
 </Tabs>
 

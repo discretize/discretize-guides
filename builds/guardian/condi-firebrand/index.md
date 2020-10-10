@@ -1,6 +1,6 @@
 ---
 title: 'Condi Firebrand'
-date: '2020-07-25'
+date: '2020-09-29'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Guardian'
@@ -10,6 +10,7 @@ skills: [9251, 9153]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
 code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+classification: [3, 4, 5, 2, 3]
 ---
 
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high consistent DPS. In organized teams this build is inferior to <Specialization name="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very competitive results making DPS players sweat. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls. 
@@ -27,15 +28,17 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 
 <Divider text="Equipment"/>
 
-Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="72339"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For shorter fights use <Item id="91842"/>. For longers fights drop <Item id="72339"/> in favor of <Item id="24560"/>.
+- Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longers fights drop <Item id="24560"/> for <Item id="72339"/>.
+- Playing the raid DPS build with this traits performs almost identical.
+- <Item name="majorbursting"/> and <Item name="bursting"/> stack.
 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Viper" helmRune="Balthazar" shouldersAffix="Sinister" shouldersRune="Balthazar" coatAffix="Grieving" coatRune="Balthazar" glovesAffix="Sinister" glovesRune="Balthazar" leggingsAffix="Viper" leggingsRune="Balthazar" bootsAffix="Grieving" bootsRune="Balthazar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
+<Armor weight="Heavy" helmAffix="Viper" helmRune="Balthazar" shouldersAffix="Viper" shouldersRune="Balthazar" coatAffix="Viper" coatRune="Balthazar" glovesAffix="Viper" glovesRune="Balthazar" leggingsAffix="Viper" leggingsRune="Balthazar" bootsAffix="Viper" bootsRune="Balthazar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Concentration" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="Concentration" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="majorbursting" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
 
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in 99 CM.
@@ -44,9 +47,9 @@ Note that this build variant gains boon duration from the <Item id="79722"/> and
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Grieving" accessory2Affix="Viper" amuletAffix="Grieving" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
+<BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Sinister" accessory2Affix="Sinister" amuletAffix="Sinister" ring1Affix="Sinister" ring2Affix="Viper" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
-<Consumables foodId="86997" utilityId="48917" infusionId="37130"/>
+<Consumables foodId="86997" utilityId="48916" infusionId="37130"/>
 
 </GridItem>
 </Grid>
@@ -77,7 +80,7 @@ Note that this build variant gains boon duration from the <Item id="79722"/> and
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
 | <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. |
 | <Skill id="9153" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
-| <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
+| <Skill id="9125" size="big" disableText/> | Deals an additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
 | <Skill id="43357" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
 | <Skill id="9247" size="big" disableText/> | A 1200 range teleport to an enemy. |
@@ -107,7 +110,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - Skill 1: One stack of <Condition name="Burning"/>
   - Skill 2: Two stacks of <Condition name="Burning"/>
   - Skill 3: An AoE pull
-  - Skill 4: High power damage skill, applies four stacks of <Condition name="Burning"/>.
+  - Skill 4: High power damage skill, applies five stacks of <Condition name="Burning"/>.
   - Skill 5: Your bread and butter as <Specialization text="Condi Firebrand" name="Firebrand"/>: Share Ashes of the Just with allies applying a magnitude of <Condition name="Burning"/>.
 - <Skill name="Tome of Resolve"/> (F2):
   - Skill 2 is a party condition cleanse
@@ -120,7 +123,18 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - Skill 4 grants <Boon name="Resistance"/> and breaks stun
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
+<Card title="Full DPS variant">
+You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS by making minor adjustments to the build.
+<Grid>
+<GridItem sm="6">
+<Skills unembossed heal="Mantra of Solace" utility1="Sword of Justice" utility2="Mantra of Flame"  utility3="Signet of Wrath" elite="Renewed Focus"/>
+</GridItem>
+</Grid>
 
+<Traits unembossed traits1="Firebrand" traits1Selected="Unrelenting Criticism, Legendary Lore, Loremaster" />
+</Card>
+
+<br/><br/>
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>

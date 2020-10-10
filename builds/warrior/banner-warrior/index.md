@@ -1,6 +1,6 @@
 ---
 title: 'Banner Warrior'
-date: '2020-07-25'
+date: '2020-09-29'
 rating: 'Other'
 role: 'Support'
 profession: 'Warrior'
@@ -10,6 +10,7 @@ skills: [14407, 14405, 45252, 45333]
 traits: [1482]
 conditions: ['Vulnerability']
 code: '[&DQIEGws9MxamAKcAogGpAKwAqgCqAKwAfAHuAAAAAAAAAAAAAAAAAAAAAAA=]'
+classification: [4, 2, 4, 2, 4]
 ---
 <Tabs>
 

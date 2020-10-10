@@ -1,6 +1,6 @@
 ---
 title: 'Heal Renegade'
-date: '2020-07-25'
+date: '2020-09-29'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Revenant'
@@ -12,6 +12,7 @@ conditions: ['Vulnerability']
 code: '[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]'
 author: 'Janitsu.6284'
 cmguides: '/cm-guides/revenant/heal-renegade'
+classification: [4, 1, 3, 2, 2]
 ---
 
 The **<Specialization text="Heal Renegade" name="Renegade"/>** plays with a mix of harrier's and cleric's gear for maximum power and healing power while still hitting 100% boon duration.

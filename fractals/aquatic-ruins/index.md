@@ -1,6 +1,6 @@
 ﻿---
 title: 'Aquatic Ruins'
-date: '2020-07-25'
+date: '2020-09-29'
 image: './images/header.jpg'
 group: 'T4'
 api: 2956
@@ -102,7 +102,7 @@ The Jellyfish Beast does not have a Breakbar since the rework. Use <Item id="246
 
 It starts it's rotation with an AoE stun. If you get eaten by the boss, your weapon skills get replaced from 1 to 5. Click the specific skill every time to get free. If you miss the right skill too often you die.
 
-Every 25% the boss gets <Effect name="Invulnerability"/> and Elite Kraits spawn. Kill them to continue the fight.
+Every 25% the boss gets <Effect name="Invulnerability"/> and Elite Krait spawn. Kill them to continue the fight.
 
 </GridItem>
 

@@ -234,7 +234,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 ### **Precast**
 
 - Precast <Skill name="Frost Trap"/> and a <Item id="78978"/> entrance on the boss orb before the fight starts.
-- Run back to mistlock and open your portal.
+- Run back to mistlock
 - Use <Skill name="Moa Stance"/>.
 - Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, then swap to Longbow.
 - Pick up <Skill id="5516"/> if there is one, then use <Skill name="One Wolf Pack"/> and take the Mistlock.
