@@ -1,6 +1,6 @@
 ---
 title: 'Weaver'
-date: '2020-07-25'
+date: '2020-09-29'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
@@ -13,13 +13,16 @@ boons: ['Fury', 'Might', 'Swiftness']
 conditions: ['Burning', 'Chilled', 'Vulnerability']
 code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/elementalist/weaver'
+classification: [4, 5, 2, 3, 4]
 ---
 
-The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals.
+The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Sword Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some t4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-It has quick burst damage and doesn't rely as much on pre-casting as [Power Tempest](/builds/elementalist/power-tempest). Since you don't have long casting times and the rotation loops fluently, it is fun to play as long as there are no Instabilities that discourage melee interactions.
+Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so try  to avoid damage. Be especially careful when there is <Instability name="We Bleed Fire"/>. 
 
-Aside from <Condition name="Vulnerability"/>, an additional crowd control skill with <Skill name="Updraft"/> and high DPS, the <Specialization name="Weaver" text="Power Sword Weaver"/> unfortunately doesn't provide much utilities. Additionally, the missing Arcane traits such as <Trait name="Final Shielding"/> make you inherently squishy.
+Also this build depends pretty much on supports and boon uptimes, as it cant provide any boons itself besides some <Boon name="Might"/> from blasting fire fields.
+
+Though it has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication.
 
 The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -41,7 +44,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 * Dagger with <Item name="Night" type="Sigil"/>
 * Dagger with <Item name="Serpent Slaying" type="Sigil"/>
 * Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
-* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="Might"/>
+* A warhorn for <Skill name="Sand Squall"/> and <Skill name="Heat Sync"/> for tempest precast.
 * A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Card>
 </GridItem>
@@ -68,7 +71,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 * Dagger with <Item name="Night" type="Sigil"/>
 * Dagger with <Item name="Serpent Slaying" type="Sigil"/>
 * Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
-* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="Might"/>
+* A warhorn for <Skill name="Sand Squall"/> and <Skill name="Heat Sync"/> for tempest precast.
 * A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Card>
 </GridItem>
@@ -100,7 +103,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 * Dagger with <Item name="Night" type="Sigil"/>
 * Dagger with <Item name="Serpent Slaying" type="Sigil"/>
 * Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
-* A scepter for <Skill name="Dragons Tooth"/> and <Skill name="Phoenix"/> to stack <Boon name="Might"/>
+* A warhorn for <Skill name="Sand Squall"/> and <Skill name="Heat Sync"/> for tempest precast.
 * A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Card>
 </GridItem>
@@ -127,9 +130,11 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds, Stormsoul, Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude, Swift Revenge, Elements of Rage"/>
 </GridItem>
 <GridItem sm="5">
-<Skills heal="Arcane Brilliance" utility1="Unravel" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
+<Skills heal="Glyph of Elemental Harmony" utility1="Primordial Stance" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
 </GridItem>
 </Grid>
+
+<Divider text="Situational"/>
 
 <Grid>
 <GridItem sm="7">
@@ -137,15 +142,16 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 | | |
 | -- | -- |
 |Heal|
-| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A **stronger** healing alternative if <Boon name="Might"/> uptime is good. |
+| <Skill name="Arcane Brilliance" size="big" disableText/> | Take it for additional <Boon name="Might"/> from fire fields. It is much less healing than glyph.
+| <Skill name="Signet of Restoration" size="big" disableText/> | Helps with keeping up <Item name="scholar"/> when burst heal is not needed.
 | <Skill name="Aquatic stance" size="big" disableText/> | Another alternative healing skill affecting allies close to the target you strike. |
 |Offensive|
 | <Skill name="Arcane Wave" size="big" disableText/> | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field. |
-| <Skill name="Primordial Stance" size="big" disableText/> | On small hitboxes and fights with a lot of phasing (e.g. Arkk) <Skill name="Conjure Lightning Hammer"/> isn't that valuable so you can use this instead. |
-| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | You take this skill instead of <Skill name="Unravel"/> if you play <Trait name="Fresh Air"/> with groups that have low dps. <Skill name="Unravel"/> is worth it with big dps and short phases. __Precast <Skill name="Conjure Lightning Hammer"/> where possible for dps boost.__ |
-| <Skill name="Conjure Frostbow" size="big" disableText/> | Faster burst than <Skill name="Conjure Lightning Hammer"/> on large hitboxes with the bonus of being semi-ranged. |
+| <Skill name="Unravel" size="big" disableText/> | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.
+| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>.  **Precast that skill everywhere where it is possible for dps increase.**
+| <Skill name="Conjure Frostbow" size="big" disableText/> | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.| 
 |Defensive|
-| <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Underground Facility Fractal](/fractals/underground-facility). |
+| <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Aetherblade Fractal](/fractals/aetherblade). |
 | <Skill name="Armor of Earth" size="big" disableText/> | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>. |
 | <Skill name="Stone Resonance" size="big" disableText/> | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).  |
 | Utility |
@@ -158,9 +164,8 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait name="Pyromancers Puissance" size="big" disableText/> | Take this instead of <Trait id="1510"/> after you precast for self sufficient might. Recommended in PuGs every time.
 | <Trait name="Fresh Air" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>. |
-| <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv). |
+| <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss). |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 </Card>
 <Card title="Defiance Bar Damage">
@@ -177,11 +182,96 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 </GridItem>
 </Grid>
 
-<Divider text="Details"/>
+<Divider text="Rotation / Skill usage"/>
 
 <Grid>
-<GridItem sm="7">
+<GridItem xs="12" sm="6">
+
+<Card title="Information">
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+For that reason you can find a video with openers, that are efficient to use here. 
+</Card>
+<Card title="Weaver openers">
+<Video caption="by KalzeN [dT], edited by Vince [dT]" youtube="AUDqBOCrZUE"/> 
+</Card>
+</GridItem>
+
+<GridItem xs="12" sm="6">
+<Card title="Advanced Notes">
+### **Burst priority**
+
+<Skill id="5492" disableText/>/<Skill id="5492" disableText/> bursting options and priority:
+
+Keep eye on boss HP/<Effect name="Exposed"/> duration to optimize the <Skill id="5492" disableText/>/<Skill id="5492" disableText/> burst priority there are 3 options for that burst:
+
+- <Skill name="Fire Grab"/> -> <Skill name="Cauterizing Strike"/> -> <Skill name="Ring of Fire"/>
+
+When phases are that fast that you are not sure to get both hits with <Skill name="Fire Grab"/> + <Skill name="Cauterizing Strike"/>, OR When <Effect name="exposed"/> window is tight and you have time to cast only one of those skills within it.  <Skill name="Fire Grab"/> has **ALWAYS** higher priority than other two skills in <Skill id="5492" disableText />/<Skill id="5492" disableText/>
+
+- <Skill name="Cauterizing Strike"/> -> <Skill name="Ring of Fire"/> -> <Skill name="Fire Grab"/>
+  
+
+When you have enough time to use all those skills within phase time/<Effect name="exposed"/> window or its situation like Skorvald/Siax phase 2 where you delay your <Skill name="Fire Grab"/> like that to let it hit with <Trait name="Bolt To The Heart"/> modifier
+
+- <Skill name="Ring of Fire"/> -> <Skill name="Cauterizing Strike"/> -> <Skill name="Fire Grab"/>
+   
+
+When there are a lot of adds around and you have to time to hit both burst skills within <Effect name="exposed"/>/phase time. That option gives additional <Trait name="persisting flames"/> stacks before burst.
+
+### **Other**
+- Try to finish your auto-attack chains (<Skill name="Fire Attunement" disableText/>/<Skill name="Searing Slash" disableText/> and <Skill name="Air Attunement" disableText/>/<Skill name="Call Lightning" profession="elementalist" disableText/>).
+- Use <Skill name="Arcane Blast"/> when the target's defiance bar is broken and you have <Trait name="Elements of Rage"/> and <Skill name="Conjure Lightning Hammer"/> up.
+- On small hitboxes <Skill name="Firestorm"/> is better than <Skill name="Lightning Storm"/>, use it while attuning to <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
+</Card>
+</GridItem>
+
+
+<GridItem xs="12" sm="12">
+<Card title="Precasting">
+If a Mistlock Singularity is present you should precast boons and particular effects for better group performance.
+
+There are two possible ways to precast boons as <Specialization name="elementalist"/>.
+
+### **Weaver Precast**
+- Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
+- Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
+- Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
+- Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>. 
+- Take the mistlock.
+
+It is recommended to use separate precast build to get additional buffs like <Trait name="Elemental Surge"/> for openers and more boons from them.
+
+Weaver precasting build template:
+
+<Traits unembossed traits1="Arcane" traits1Selected="Arcane Precision,Elemental Lockdown,Elemental Surge" traits2="Air" traits2Selected="One with air, Inscription, Fresh Air" traits3="Weaver" traits3Selected="Masters Fortitude, Weavers Prowess, Elements of Rage"/>
+
+### **Tempest Precast**
+
+- Start on <Skill id="5495"/> with your warhorn/staff tempest precast template and cast <Skill id="29453"/> just when you get <Boon name="Quickness"/> from any source ( the best if fire field is actually placed for might blast ).
+- Swap to  <Skill id="5492"/> and use <Skill id="29548"/> and cast <Skill id="21656"/> and weapon swap to staff.
+- Precast <Skill id="5506"/> and <Skill id="5635"/> while in <Skill id="5492"/>
+- Precast <Skill id="5516"/>, take the mistlock and swap your template to weaver. Attune to  <Skill id="5494"/>/<Skill id="5492"/>. 
+- Take the mistlock
+- **NOTE:** When using this precast it is recommended that one party member will bring the fire field. Otherwise use <Skill name="Wildfire"/> before using <Skill id="29548"/>.
+
+Tempest precasting build template:
+
+<Traits unembossed traits1="Arcane" traits1Selected=",,Elemental Surge" traits2="Air" traits2Selected="Zephyrs Boon, Inscription, Fresh Air" traits3="Tempest" traits3Selected=", Invigorating Torrents, Elemental Bastion"/>
+
+
+### **Other advices**  
+- If you have spare time before the encounter becomes active
+   - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
+   - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
+- When there is an available mistlock but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself. 
+</Card>
+
+</GridItem>
+
+<GridItem xs="12" sm="12">
+
 <Card title="Rotation (Bolt to the Heart)">
+
 The general idea is to loop between <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> using your strongest skills like <Skill name="Invoke Lightning"/> in Fire with <Trait name="Elements of Rage"/> up.
 
 <Grid>
@@ -203,7 +293,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 4. <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
 5. <Skill name="Conjure Lightning Hammer"/>   
     <Label>Only if pre-casted LH</Label>
-    <Label>Skip the fire autoattack chain above</Label>
+    <Label>Skip the fire auto-attack chain above</Label>
 </GridItem>
 
 
@@ -269,32 +359,20 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 </Grid>
 
-If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> => <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap" profession="bundle"/> instead.
+If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto-attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> => <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap" profession="bundle"/> instead.
 
 With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill name="Water Attunement" disableText/> before going directly into <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> after using your Fire skills.
+
+
+<Grid>
+<GridItem sm="6">
+<Card title="Golem Rotation">
+<Video youtube="ZtEY4lXt6Hc" caption="by Fallen [SC]" />
+</Card>
+</GridItem>
+</Grid>
 </Card>
 </GridItem>
 
-<GridItem sm="5">
-<Card title="Opener">
-- If a Mistlock Singularity is present
-   - <Skill name="Conjure Fiery Greatsword"/> and reset its cooldown with it
-   - Precast <Skill name="Firestorm" profession="bundle"/>
-- If the defiance bar won't be broken immediately (e.g. Ensolyss)
-   - Start in <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/>
-   - <Skill name="Flame Uprising"/> and <Skill name="Lava Skin"/>
-   - Attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> and delay until the bar is about to be broken
-   - Continue with the usual rotation
-- If you have spare time before the encounter becomes active
-   - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
-   - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, build template swaps are working tho 
-</Card>
 
-<Card title="Advanced Notes">
-- Try to finish your auto-attack chains (<Skill name="Fire Attunement" disableText/>/<Skill name="Searing Slash" disableText/> and <Skill name="Air Attunement" disableText/>/<Skill name="Call Lightning" profession="elementalist" disableText/>).
-- Use <Skill name="Arcane Blast"/> when the target's defiance bar is broken and you have <Trait name="Elements of Rage"/> and <Skill name="Conjure Lightning Hammer"/> up.
-- On small hitboxes <Skill name="Firestorm"/> is better than <Skill name="Lightning Storm"/>, use it while attuning to <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
-
-</Card>
-</GridItem>
 </Grid>

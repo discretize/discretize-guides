@@ -1,6 +1,6 @@
 ---
 title: 'Power Holosmith'
-date: '2020-07-25'
+date: '2020-09-29'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Engineer'
@@ -10,6 +10,7 @@ skills: [30815, 43739]
 conditions: ['Vulnerability', 'Blinded', 'Crippled', 'Immobile']
 effects: ['Stealth']
 code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
+classification: [2, 4, 4, 3, 4]
 ---
 
 The engineer build that currently fares best in fractals is the <Specialization text="Power Holosmith" name="Holosmith"/>, offering a mix of high damage and a relatively good amount of crowd control and utility in form of <Condition name="Vulnerability"/> and some <Condition name="Blinded"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>.

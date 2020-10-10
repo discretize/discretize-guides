@@ -1,7 +1,7 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2020-07-25'
-rating: 'Other'
+date: '2020-09-29'
+rating: 'Offmeta'
 role: 'Support'
 profession: 'Guardian'
 specialization: 'Firebrand'
@@ -9,10 +9,12 @@ skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+cmguides: '/cm-guides/guardian/heal-firebrand'
+classification: [4, 1, 3, 1, 2]
 ---
 
 <Message>
-Despite being very common in pugs, this build is not **the** meta! It is part of a composition called PuG meta, you can read more about it [here](/guides/meta-explained). We **recommend** to play [Heal Renegade](/builds/revenant/heal-renegade) for PuGs who are more organized and know the mechanics (after around 150-250+ <Item id="81743"/>), also a <Specialization name="Firebrand"/> can deal way more damage than <Specialization name="Renegade"/>. However if you fail mechanics <Specialization name="Firebrand" text="Heal Firebrand"/> is a way to success.
+This build is very common in PuGs. It is part of a composition called PuG meta, you can read more about it [here](/guides/meta-explained). We **recommend** to play [Heal Renegade](/builds/revenant/heal-renegade) for statics who are starting out and know the mechanics (after around 9000-15000+ <Item id="94020"/>). This recommendation is because  <Specialization name="Firebrand"/> can deal way more damage than <Specialization name="Renegade"/> (Leading to higher group DPS). However if you fail mechanics <Specialization name="Firebrand" text="Heal Firebrand"/> is a way to success.
 </Message>
 
 It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is important to understand that the signet share is essential to faster runs and sharing extra power during <Effect name="Exposed"/> (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
@@ -82,7 +84,7 @@ In case your team downs frequently and is unable to handle mechanics correctly, 
 | <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stun break is needed. Preferred over <Skill id="9153"/>. |
 | <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stun break is needed. |
 | <Skill id="9175" size="big" disableText/> | A strong heal. |
-| <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
+| <Skill id="9125" size="big" disableText/> | Deals an additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. Can be used to counterplay <Instability name="We Bleed Fire"/>.|
 | <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside. |
 </Card>
@@ -122,10 +124,9 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
 - <Skill name="Tome of Justice"/> (F1):
-  - Skill 4 is a ticking AoE, good for single target and great for AoE DPS
-  - Skill 5 makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
+  - Skill 4 is a ticking AoE, good for single target and great for AoE DPS, five stacks of <Condition name="Burning"/>
+  - Skill 5 makes your surrounding allies inflict <Condition name="Burning"/> - your main source of damage
   - Skill 3 is an AoE pull (150 defiance bar damage)
-  - Often these skills are used as an opener
 - <Skill name="Tome of Resolve"/> (F2):
   - Skill 2 is a party condition cleanse
   - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
@@ -157,6 +158,3 @@ This guide is good for people who want to start fractals with heal firebrand. We
 <Video youtube="oigZbGyQvbQ" title="In-depth build guide by Rheyo"/>
 </GridItem>
 </Grid>
-
-<Divider text="Disclaimer"/>
-### These builds are played mostly for fun, to carry individuals or with niche uses like more cleave, boon generation and skips. If you want to know more about what the current meta is and why is it the way it is you can read more about it [here](/guides/meta-explained) or you can look up easy to understand description of classes that are meta, offmeta and more [here!](/what-should-i-play)

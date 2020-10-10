@@ -1,6 +1,6 @@
 ﻿---
 title: 'Power Dragonhunter'
-date: '2020-07-25'
+date: '2020-09-29'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Guardian'
@@ -13,6 +13,7 @@ conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvGzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'SpatiumPrinceps.8927'
 cmguides: '/cm-guides/guardian/dragonhunter'
+classification: [3, 4, 3, 2, 4]
 ---
 
 
@@ -114,7 +115,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
 | <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. |
 | <Skill id="9153" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
-| <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
+| <Skill id="9125" size="big" disableText/> | Deals an additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
 | <Skill name="feelmywrath" size="big" disableText/> | When <Boon name="Quickness"/> or <Boon name="Fury"/> is needed. |
 | <Skill id="9247" size="big" disableText/> | A 1200 range teleport to an enemy. |
@@ -206,7 +207,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 It is very much recommended to play <Specialization text="Condition Quickness Firebrand" name="Firebrand"/> ([Build](/builds/guardian/condi-firebrand)) since it provides much better DPS compared to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
 
-- open with <Skill name="refraction"/> for <Boon name="retaliation"/>
+- Open with <Skill name="refraction"/> for <Boon name="retaliation"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
 - Priority list:
   1) <Skill name="Zealots flurry"/> (Spear 2)

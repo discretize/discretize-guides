@@ -1,14 +1,16 @@
 ---
 title: 'Reaper CM guides'
-build: 'Reaper'
+build: 'Power-Reaper'
 profession: 'Necromancer'
 specialization: 'Reaper'
-date: '2020-07-25'
+date: '2020-09-29'
 author: 'Discord: Jes#6596'
 disableOrganized: 'true'
 ---
 
-<Divider text="Mama"/>
+<Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+- It makes sense to use [consumables](/guides/consumables) on the adds!
+</Boss>
 
 ### **Precast**
 1) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
@@ -85,10 +87,15 @@ If not under 50%:
 9) <Skill name="Soul Spiral"/> (Shroud 4)
 10) Auto attack until _MAMA_ dies
 
-<Divider text="Siax"/>
+---
+
+<Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 <Message>
 Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this encounter!
 </Message>
+</Boss>
+
+
 ### **Precast**
 1) Precast Staff symbols on the orb that starts the encounter
 2) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
@@ -135,14 +142,17 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
     2) (If <Skill name="Soul Spiral"/> comes off colldown, use it)
 	1) Use <Skill name="Gravedigger"/> (GS 2) until _Siax_ dies
 
+---
 
-<Divider text="Ensolyss"/>
+<Boss name="ensolyss" video="" videoCreator="" foodId="91805" utilityId="50082" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 <Message>
 Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this encounter!
 </Message>
 <Message>
 The exploding adds after Ensolyss’ slam attack fully restore your life force, so auto attack in shroud, dodge the explosions at the very last moment and leave shroud mid dodge!
 </Message>
+</Boss>
+
 ### **Precast**
 1) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
 2) Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
@@ -204,8 +214,12 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 6) If _Ensolyss_ isn’t dead by then, spam <Skill name="Gravedigger"/>
 
 
-<Divider text="Skorvald"/>
 
+---
+
+<Boss name="skorvald" video="" videoCreator="" foodId="91805" utilityId="9443" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+- Skorvald has one of the biggest CC bars in CMs (2200). It makes sense to use [consumables](/guides/consumables)!
+</Boss>
 
 ### **Precast**
 1) Precast Staff symbols on the orb that starts the encounter
@@ -283,8 +297,12 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
  5) <Skill name="Soul Spiral"/> (Shroud 4)
  6) Shroud auto attack until _Skorvald_ dies
 
- 
-<Divider text="Artsariiv"/>
+---
+
+<Boss name="artsariiv" video="" videoCreator="" foodId="91805" utilityId="9443" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" hideNotes>
+
+</Boss>
+
 ### **Precast**
 1) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
 2) Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
@@ -348,14 +366,16 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
     1) <Skill name="Soul Spiral"/> (Shroud 4) if it gets off cooldown
 8) Spam <Skill name="Gravedigger"/> (GS 2)
 
-<Divider text="Arkk"/>
-### **Notes**
+---
+
+<Boss name="arkk" video="" videoCreator="" foodId="91805" utilityId="50082" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 - Place markers for the blooms 
+</Boss>
 
 ### **Precast**
 1) Precast Staff symbols on the orb that starts the encounter
 2) Precast <Skill name="Summon Bone Minions"/>, detonate them in a fire field
-3) Blast <Boon name="Might"/> with <Effect name="hypernovalaunch"/>
+3) Blast <Boon name="Might"/> with <SpecialActionKey name="hypernovalaunch"/>
 4) Cast <Skill name="Lich Form"/> 4
 5) Take _Mistlock Singularity_
 6) Cast <Skill name="Lich Form"/> 4 **again**
@@ -378,7 +398,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-3) <Effect name="hypernovalaunch"/> on _Arkk_ to help with CC
+3) <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -389,7 +409,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 2) <Skill name="Death Spiral"/> (GS 3)
 3) Auto attack until __Arch Diviner__ is 50%
 4) Spam <Skill name="Gravedigger"/> (GS 2)
-5) <Effect name="hypernovalaunch"/> on the Elite to help with CC
+5) <SpecialActionKey name="hypernovalaunch"/> on the Elite to help with CC
 
 ### **Phase 3**
 1) Use both wells
@@ -412,7 +432,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-3) <Effect name="hypernovalaunch"/> on _Arkk_ to help with CC
+3) <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -423,7 +443,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 2) <Skill name="Death Spiral"/> (GS 3)
 3) Auto attack until __Gladiator__ is 50%
 4) Spam <Skill name="Gravedigger"/> (GS 2)
-5) <Effect name="hypernovalaunch"/> on the Elite to help with CC
+5) <SpecialActionKey name="hypernovalaunch"/> on the Elite to help with CC
 
 ### **Phase 5**
 1) Use both wells
@@ -448,7 +468,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
 3) If Arkk is not CCd
 	1) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
-	2) <Effect name="hypernovalaunch"/> on _Arkk_ to help with CC
+	2) <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
 4) Use both wells
 5) <Skill name="Nightfall"/> (GS 4)
 6) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -456,5 +476,5 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 8) If not dead spam <Skill name="Gravedigger"/> (GS 2)
 
 Annotation:
-1) If possible make sure you use <Effect name="hypernovalaunch"/> to CC the adds
+1) If possible make sure you use <SpecialActionKey name="hypernovalaunch"/> to CC the adds
     1) First add spawn AoE's that strips boons, make sure you avoid them

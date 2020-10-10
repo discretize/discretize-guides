@@ -1,6 +1,6 @@
 ﻿---
 title: 'Firebrand'
-date: '2020-08-04'
+date: '2020-09-29'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Guardian'
@@ -12,6 +12,7 @@ conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'ganymed.3541'
 cmguides: '/cm-guides/guardian/firebrand'
+classification: [5, 3, 4, 2, 4]
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.
@@ -120,7 +121,7 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. |
 | <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. |
 | <Skill id="9153" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
-| <Skill id="9125" size="big" disableText/> | Deals additional 200 defiance bar damage. |
+| <Skill id="9125" size="big" disableText/> | Deals an additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
 | <Skill id="43357" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
 | <Skill id="9247" size="big" disableText/> | A 1200 range teleport to an enemy. |
@@ -163,7 +164,7 @@ The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-drag
 - Apart from that:
   - <Skill name="Bane Signet"/> to break defiance bars and provide the group with a temporary 216 <Attribute name="Power"/> buff
   - <Skill id="9226"/> (after <Skill id="9147"/>) is nice CC skill as well
-  - <Skill name="Sword of Justice"/> for additional DPS and vulnerability. Also provides 3 seconds of cripple
+  - <Skill name="Sword of Justice"/> for additional DPS and vulnerability. Also provides 3 seconds of <Condition name="Crippled"/>
   - Scepter plays the same as the sword, just without <Skill name="Zealots Defense"/>
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
@@ -196,7 +197,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
 <Card title="Firebrand openers">
-<Video caption="by MagicBot [dT], edited by Vince [dT]" youtube=""/> 
+<Video caption="by MagicBot [dT], edited by Vince [dT]" youtube="pFUHvaqPOO0"/> 
 </Card>
 </GridItem>
 
@@ -204,7 +205,7 @@ For that reason you can find a video with openers, that are efficient to use her
 <Card title="Precasting">
 If you have a Mistlock Singularity present you can use these skills for precasts:
 1) Cast <Skill name="tome of justice"/> skill 4 and 5
-2) Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
+2) Blast the fire field by casting <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
 5) Use <Skill name="Feelmywrath"/> 
@@ -246,7 +247,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 It is very much recommended to play <Specialization text="Condition Quickness Firebrand" name="Firebrand"/> ([Build](/builds/guardian/condi-firebrand)) since it provides much better DPS compared to the power variant. If you still want to play <Specialization text="Power Quickness Firebrand" name="Firebrand"/> for whatever reason follow these rough guidelines.
 
-- open with <Skill name="refraction"/> for <Boon name="retaliation"/>
+- Open with <Skill name="refraction"/> for <Boon name="retaliation"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
 - Priority list:
   1) <Skill name="Zealots flurry"/> (Spear 2)
