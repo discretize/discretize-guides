@@ -180,12 +180,11 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 </Message>
 ### **Precast**
 
-- Precast <Skill name="Frost Trap"/> and a <Item id="78978"/> entrance on the boss orb before the fight starts.
-- Run back to mistlock and open your portal.
+- Precast <Skill name="Frost Trap"/> before the fight starts.
 - Use <Skill name="Moa Stance"/>.
 - Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, then use <Skill name="One Wolf Pack"/>.
 - Take Mistlock and swap to Longbow.
-- Summon <Skill name="Frost spirit"/> and take the portal as it casts.
+- Summon <Skill name="Frost spirit"/>.
 - Cast <Skill name="Barrage"/> and swap to Greatsword as the yellow cast bar appears.
 
 ### **1st Phase**
@@ -235,7 +234,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 ### **Precast**
 
 - Precast <Skill name="Frost Trap"/> and a <Item id="78978"/> entrance on the boss orb before the fight starts.
-- Run back to mistlock and open your portal.
+- Run back to mistlock
 - Use <Skill name="Moa Stance"/>.
 - Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, then swap to Longbow.
 - Pick up <Skill id="5516"/> if there is one, then use <Skill name="One Wolf Pack"/> and take the Mistlock.
@@ -508,6 +507,7 @@ Spirit Management:
 - If your group is struggling with conditions use <Skill name="Healing Spring"/>.
 - If you don't trust stability swap <Skill name="Signet of the Wild"/> for <Skill name="Dolyak Stance"/> (If you want to be PMA and share it play <Trait name="Leader of the Pack"/>).
 
+</Boss>
 <Message>
 If you group is going to skip the first anomaly, follow the rotation for side strat in the static section.
 </Message>

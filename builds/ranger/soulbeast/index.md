@@ -137,6 +137,7 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 | | |
 | -- | -- |
 | <Trait name="Clarion Bond" size="big" disableText/> | Can be useful if the blast and team <Boon name="Might"/> is more advantageous than the self <Boon name="Might"/> from <Trait name="Huntersgaze"/>. |
+| <Trait name="Wilting Strike" size="big" disableText/> | Take this instead of <Trait name="Two-handed training"/> if you need to help provide <Condition name="weakness"/> for your <Specialization name="Weaver"/>. |
 | <Trait name="Natural healing" size="big" disableText/> | Take this instead of <Trait name="Two-handed training"/> if you are running longbow and want some passive healing. |
 | <Trait id="2143" size="big" disableText/> | On short T4 fights you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> for your allies then swap traits right before you get in combat. |
 | <Trait name="potentally" size="big" disableText/> | For longer encounters, more <Boon name="Might"/> generation. |
@@ -163,6 +164,7 @@ If both of these requirements then you can swap Marksmanship for Skirmishing wit
 | <Skill name="Dolyak Stance" size="big" disableText/> | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles). |
 | <Skill name="sharpeningstone" size="big" disableText/> | Can be used before mistlock precast for and swapped with a usual utility for some extra opener DPS. |
 | <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai Trin and Artsariiv. |
+| <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. |
 </Card>
 <Card title="Warhorn">
 Play warhorn whenever you can't precast <Skill name="Barrage"/> and also won't get to cast a second <Skill name="Barrage"/>.
@@ -292,14 +294,30 @@ Many thanks to Elu [SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4ff
 
 <Divider text="Underwater Guide"/>
 
-For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> (Skill 3) and <Skill name="Mercy Shot"/> (Skill 4) to precast damage into <Skill name="Sicem"/>. Outside of that precasting, you want to camp Spear since <Skill name="Man o war"/> (Skill 5), <Skill name="Swirling Strike"/> (Skill 2) as well as your auto-attack chain deal good damage. You should swap back to Harpoon gun at the start of the split-phase of the Jellyfish Beast to range the split adds as well as allowing you to restart your rotation when the split-phase ends.
-
-Underwater the pet you use for DPS depends on the situation just like above land:
-- You want to merge with <Skill id="44514" disableText/> [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) for DPS as well as <Boon name="Fury"/> uptime. You want to use <Skill id="40625"/> and <Skill name="Worldly impact"/> for DPS on Tiger, additionally during DPS downtime (The split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime.
-- If you don't need the <Boon name="Fury"/> uptime then you can consider using <Skill id="43068" disableText/> [Lashtail Devourer](https://wiki.guildwars2.com/wiki/Juvenile_Lashtail_Devourer) as a DPS pet. You want to use <Skill name="Worldly impact"/> for DPS as well as <Skill id="43068"/> off cd so that you proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
-- Finally, when you want to move around very fast you can merge with <Skill id="42797" disableText/> [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) for mobility. You simply use <Skill id="42797"/> to move around. **Be careful when you swap pets since you can no longer pet swap in combat!**
+<Grid>
+<GridItem sm="7">
+<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131"/>
+<Card title="Traits">
+<Traits unembossed traits1Id="32" traits1="Beastmastery" traits1SelectedIds="1606,1047,1066"/>
+Your other traitlines remain the same as on land. The reason for swapping traits here is to provide a 10% damage increase and cooldown reduction on spear skills.
+</Card>
+<Card title="Underwater Rotation">
+For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> (Harpoon Gun 3) and <Skill name="Mercy Shot"/> (Harpoon Gun 4) to precast damage into <Skill name="Sicem"/>. Outside of that precasting, you want to camp Spear since <Skill name="Man o war"/> (Spear 5), <Skill name="Swirling Strike"/> (Spear 2), as well as your auto-attack chain deal good damage. You should swap back to Harpoon gun at the start of the split-phase of the Jellyfish Beast to range the split adds as well as allowing you to restart your rotation when the split-phase ends.
 
 **Bonus Tips:**
-- <Skill name="Bear stance"/> in combination with <Trait name="leader of the pack"/> can be quite helpful to cleanse conditions on allies since [Aquatic Ruins](/fractals/aquatic-ruins) often has <Instability name="Afflicted"/>. 
 - If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> (Skill 4) since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
 - At the end of a phase you can use <Skill id="12528"/> (Harpoon 3) and <Skill name="Mercy Shot"/> (Harpoon 4) again.
+
+</Card>
+</GridItem> 
+<GridItem sm="4">
+<Skills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+<Card title="Pets">
+| | |
+| -- | -- |
+| <Skill id="44514" size="big" disableText/> | [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) - Brings DPS as well as group <Boon name="Fury"/> generation. During DPS downtime (the split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime. |
+| <Skill id="43068" size="big" disableText/> | [Lashtail Devourer](https://wiki.guildwars2.com/wiki/Juvenile_Lashtail_Devourer) - Brings DPS while also allowing you to proc <Trait name="Twice as Vicious"/>. You can bring this pet if your group can upkeep <Boon name="Fury"/> without you. |
+| <Skill id="42797" size="big" disableText/> | [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) - Used only for mobility. <Skill id="42797"/> is a great for moving between fractal sections quickly, just remember to swap back to a DPS pet before getting into combat! |
+</Card>  
+</GridItem>
+</Grid>
