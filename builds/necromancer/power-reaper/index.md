@@ -13,7 +13,7 @@ conditions:
   ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poisoned', 'Blinded']
 code: '[&DQg1GTIlIjYoDygPgQCBAHMBcwF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Discord: Jes#6596'
-cmguides: '/cm-guides/necromancer/reaper'
+cmguides: '/cm-guides/necromancer/power-reaper'
 classification: [1, 3, 4, 2, 3]
 ---
 
