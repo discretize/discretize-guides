@@ -351,7 +351,7 @@ For this encounter, it is recommended to run the following traits in the Devasta
 * Time <Skill name="Inspiring Reinforcement"/> so that <Boon name="Stability"/> last long enough for the AoE attack in the middle.
 * Use <SpecialActionKey name="hypernovalaunch"/> while using <Skill name="Surge of the Mists"/> to break the defiance bar as quickly as possible.
 
-This part of the guide was taken from [Casual Sophie](https://www.youtube.com/channel/UCh3JEHa_zLroJYrtaftdQzw)'s Renegade guide that you can find [here](/builds/revenant/hybrid-renegade)
+This part of the guide was taken from [Casual Sophie](https://www.youtube.com/channel/UCh3JEHa_zLroJYrtaftdQzw)'s Renegade guide that you can find [here](/builds/revenant/renegade)
 
 </GridItem>
 
