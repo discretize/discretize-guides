@@ -12,7 +12,7 @@ boons: ['Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvGzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'SpatiumPrinceps.8927'
-cmguides: '/cm-guides/guardian/dragonhunter'
+cmguides: '/cm-guides/guardian/power-dragonhunter'
 classification: [3, 4, 3, 2, 4]
 ---
 
