@@ -61,7 +61,7 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 | -- | -- |
 | <Skill name="Well of Corruption" size="big" disableText/> | A strong aoe boon corrput which can be used to boon rip on days with the No Pain No Gain instability
 | <Skill name="Summon flesh Wurm" size="big" disableText/> | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized). |
-| <Skill name="Spectral Walk " size="big" disableText/> | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade). |
+| <Skill name="Spectral Walk " size="big" disableText/> | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade). |
 | <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
 | <Skill name="Suffer" size="big" disableText/> | A defensive utility to help mitigate conditions on you, as well as apply extra Chill for usage with <Trait name="Cold Shoulder"/> |
 | <Skill name="You are all Weaklings" size="big" disableText/> | A defensive stun break utility. |
