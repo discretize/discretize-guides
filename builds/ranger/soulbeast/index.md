@@ -240,14 +240,15 @@ For that reason you can find a video below with openers for each of the CM bosse
 9. `Weapon Swap`
 10. <Skill name="Path of scars"/>
 11. <Skill name="Whirling Defense"/>
-12.  `Autoattack chain x4`
+12.  `Autoattack chain x5`
 13. <Skill name="Path of scars"/>
 14. `Weapon Swap`
-15. <Skill name="Long Range Shot"/> `Autoattack x6`
-16. <Skill name="Point Blank Shot"/>
-17. <Skill name="Barrage"/>
-18. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-19. Repeat from `Step 5`
+15. <Skill name="Rapid Fire"/> 
+16. <Skill name="Long Range Shot"/> `Autoattack x6`
+17. <Skill name="Point Blank Shot"/>
+18. <Skill name="Barrage"/>
+19. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
+20. Repeat from `Step 5`
   
 </Card>
 </GridItem>
