@@ -112,8 +112,7 @@ If you're running without a <Specialization name="Druid"/> or <Specialization na
 - <Item name="Fried Golden Dumpling" type="Food"/> instead of <Item id="41569"/>
 - <Skill name="For Great Justice"/> instead of <Skill id="14502"/>
 
-Everything else stays the same. Note that your CC suffers without <Skill id="14502"/> so it is a good idea to bring [consumables](/guides/consumables).
-
+Everything else stays the same.
 <Divider text="Details"/>
 
 <Grid>
@@ -199,7 +198,6 @@ Offhand weapons are still Mace/Mace!
 </GridItem>
 </Grid>
 
-It's a good idea to bring [consumables](/guides/consumables).  
 You should also take <Skill id="45333"/> where necessary. You can consider   <Item id="72872"/> for additional party <Boon name="Might"/>.
 
 Gear-wise you are losing Power, Precision, and Ferocity from Discipline's trait <Trait id="1484"/>. To make up for this we are recommending to use our [Gear-optimiser](http://old.discretize.eu) on the website if you want to max out crit cap.
