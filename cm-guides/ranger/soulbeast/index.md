@@ -517,7 +517,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 ### **Precast**
 
-- When you are activating the Boss Challenge Mote run down to the boss platform and precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Then /gg and wait up by the Mote until you are ready to precast.
+- Drop down to the boss platform and precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Then /gg and wait up by the Singularity until you are ready to precast.
 - Use <Skill name="Moa Stance"/>.
 - <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, <Skill name="One Wolf Pack"/> then take mistlock and <Skill name="Call of the Wild"/> again.
 - Summon <Skill name="Frost SPirit"/> in the middle of the platform (Ideally so it wont get hit by Artsariivs lasers).
