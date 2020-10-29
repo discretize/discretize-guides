@@ -14,9 +14,8 @@ If you are replacing the <Specialization name="Firebrand" />, check <Specializat
 
 <Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 <Message>
-This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates.
+This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab extra CC skills to make up for the lack of CC of your team mates.
 </Message>
-- It makes sense to use [consumables](/guides/consumables) on the adds!
 </Boss>
 
 ### **Precast**
@@ -28,7 +27,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 ### **Synopsis**
 - Start on Scepter/Sword.
 - Try to use your full burst (either you start the phase on GS or sword/scepter) in each phase after breakbar is broken.
-- Don't forget that you can not expect to see the highest numbers without the breakbar being frequently broken: to make that happen use <Skill name="banesignet"/>. <Specialization name="Renegade"/> and  <Specialization name="Berserker"/> will not break the bar alone without consumables so DO NOT be selfish.
+- Don't forget that you can not expect to see the highest numbers without the breakbar being frequently broken: to make that happen use <Skill name="banesignet"/>. <Specialization name="Renegade"/> and  <Specialization name="Berserker"/> will not break the bar alone so DO NOT be selfish.
 - Do not use traps on the adds.
 - Use <Skill name="binding blade"/> inside MAMAs hitbox, when the small adds are coming close.
 - Feel free to use <Skill name="symbol of blades"/>, <Skill name="leapoffaith"/> and <Skill name="wingsofresolve"/> for faster movement.
@@ -117,7 +116,6 @@ You can kill the first two adds with a greatsword. You can use traps on the 2nd 
 - Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariivs hitbox for big damage.
 
 ### *Adds*
-- Help your team CCing with [consumables](/guides/consumables). 
 - Swap to scepter and camp it to be ready for the mid burst.
 - Do not waste your <Skill name="banesignet"/> or <Skill name="Binding Blade"/> (GS5) for this. 
 - Use your <SpecialActionKey name="hypernovalaunch"/> to quickly navigate to adds. 

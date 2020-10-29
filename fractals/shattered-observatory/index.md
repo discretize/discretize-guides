@@ -22,7 +22,7 @@ record:
 cycle: 'Day'
 potions: [{ id: 50082, description: 'against Arkk' }]
 sigils: [{ id: 24615 }, { id: 24868 }]
-consumables: [78978, 8759, 8678, 8732]
+consumables: [78978]
 ---
 
 ## Skorvald the Shattered <Label>5,551,340 HP</Label>
@@ -122,8 +122,6 @@ The second boss of the fractal is Artsariiv. The encounter gets activated by bou
 Artsariiv summons copies which split into smaller clones upon death, they use martial arts skills, <Control name="Knockdown"/>, shoot shocking projectiles and apply a lot of damaging conditions. Discuss whether you kill all adds (safe tactic) or not.
 
 Assign a player for the _Globolla Marble_ bouncing (typically the <Specialization name="Renegade"/>) and a backup in case the main bouncer gets _Corporal Reassignment_.
-
-You will need a lot of crowd control skills, consumables like <Item id="8759"/> and <Item id="8678"/> are very strong here.
 
 **Use your <SpecialActionKey name="hypernovalaunch"/> special action key to quickly move around the platform, the <Boon name="Aegis"/> from it counters nearly all mechanics.**
 

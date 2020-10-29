@@ -62,7 +62,7 @@ This version is made mostly for PuGs that are not phasing fast enough to get pro
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> auto chain 
  -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="5557"/>
 - Jump over the wave to not get knocked.
-- **NOTE:** If phases are slow you will be able to use <Skill id="5687"/> again in phase 4 to CC the boss/avoid damage. Dont be shy to use CC consumable if CC is slow.
+- **NOTE:** If phases are slow you will be able to use <Skill id="5687"/> again in phase 4 to CC the boss/avoid damage.
 
 
 </ConditionalComponent>
@@ -217,7 +217,7 @@ Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>.
 
 ### **1st Phase**
 - Precast <Skill id="5737"/>
-- CC boss with <Item id="8664"/> or <Item id="8783"/> -> <Skill id="43803"/> -> <Skill id="45313"/> ->  <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5725"/> ( autochain if no LH precast ), <Skill id="5687"/>/<Skill id="5733"/> if breakbar is still not broken -> <Skill id="5557"/> -><Skill id="44451"/> -><Skill id="5691"/>-> <Skill id="45313"/> 
+- <Skill id="43803"/> -> <Skill id="45313"/> ->  <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5725"/> ( autochain if no LH precast ), <Skill id="5687"/>/<Skill id="5733"/> if breakbar is still not broken -> <Skill id="5557"/> -><Skill id="44451"/> -><Skill id="5691"/>-> <Skill id="45313"/> 
 - Continue loop with BTTH rotation until boss is phased.
 - **NOTE:** Save your <Skill id="5539"/> after <Effect name="Exposed"/> buff for next phases. 
 
@@ -422,10 +422,6 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 - <Skill id="5687"/> ->  <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete your auto attack chain ->  <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
 - Continue loop with BTTH rotation until boss is phased.
 
-### **Split 1** 
-- Go nuts with CC consumables
-- Dont die
-
 ### **Phase 2** 
 - Sometimes when PuGs are pretty special you can have <Skill id="5737"/> ready for phase 2, if its up go for it.
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> autochain -> dodge deathwave -> <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>
@@ -435,8 +431,6 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 - Continue with BTTH rota until boss is phased
 
 ### **Split 2**
-- Go nuts with CC consumables once more
-- Dont die
 - Throw <Skill id="5531"/> in the middle maybe someone can get use of it.
 
 ### **Phase 3**
@@ -475,7 +469,7 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 - If boss is still not phased continue with BTTH rota until its phased. 
 
 ### **Split 1**
-- CC your add with CC consumables or <Skill id="5687"/>+CC consu if cannot side step aoe circles to upkeep scholar.
+- CC your add with <Skill id="5687"/>.
 - You can use <Skill id="5529"/> to get back to center faster for p2.
 
 ### **Phase 2**
@@ -493,7 +487,7 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 - Stay in <Skill id="5494"/>/<Skill id="5492"/>
 - Cast <Skill id="5691"/> for blasts.
 - Attune to <Skill id="5494"/>/<Skill id="5494"/>
-- CC the add with consumable or <Skill id="44998"/>+<Skill id="5687"/>
+- CC the add with <Skill id="44998"/>+<Skill id="5687"/>
 - Throw your <Skill id="5516"/> for your <Specialization name="Soulbeast"/> close to the middle.
 
 ### **Phase 3**
