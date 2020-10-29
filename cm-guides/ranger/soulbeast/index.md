@@ -10,11 +10,10 @@ disableOrganized: 'false'
 <ConditionalComponent condition="pug">
 <Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" >
 <Message>
-This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates. 
+This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab extra CC skills to make up for the lack of CC of your team mates. 
 </Message>
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2143"/>.
-- It makes sense to use [consumables](/guides/consumables) on the adds!
 </Boss>
 
 <Message>
@@ -45,7 +44,6 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 ### _1st Add_
 
 - Use <Skill name="Monarchs Leap"/> to reach the add quickly.
-- Help CC with [consumables](/guides/consumables).
 - Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>.
 - If your group is slow wou may have time to switch back to Longbow here and cast <Skill name="Barrage"/>. Only do this if you will have time to burst P2 and still swap back to Longbow after for the 2nd add.
 
@@ -59,8 +57,6 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - Use <Skill name="Worldly Impact"/> and <Skill id="41524"/> if they come off cooldown, otherwise auto attack on Longbow for the rest of the phase.
 
 ### _2nd Add_
-
-- Help CC with [consumables](/guides/consumables).
 - Precast <Skill name="Barrage"/> to hit MAMA and the add.
 - Use a mix of <Skill name="Rapid Fire"/> and autoattacks to kill the add.
 
@@ -73,8 +69,6 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - Once MAMA hits 25% you can use <Skill name="Monarchs Leap"/> for a free leap away from the poison field and get to the add faster.
 
 ### _3rd Add_
-
-- Help CC with [consumables](/guides/consumables).
 - Resummon your <Skill id="12497"/> as it has probably died by now.
 - Swap weapons as soon as it is off cd (<Skill name="Path of scars"/> if you can before swapping). 
 - Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>.
@@ -192,7 +186,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - <Skill name="Frosttrap"/> as soon as your first trap procs so you have both ticking at the same time.
 - <Skill name="Sicem"/> as soon as Siax is targetable.
 - <Skill id="46629"/> -> <Skill name="Worldly Impact"/> -> <Skill id="41524"/> before the breakbar.
-- <Skill id="45743"/> followed by <Skill name="Hilt Bash"/> to CC (If the bar hasn't broken use a [consumable](/guides/consumables) to help).
+- <Skill id="45743"/> followed by <Skill name="Hilt Bash"/> to CC.
 - Burst with <Skill id="46629"/> -> <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
  
 ### _1st Add_
@@ -218,7 +212,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - Burst with <Skill id="46629"/> -> <Skill name="Path of Scars"/> -> <Skill name="Frost trap"/> -> <Skill name="Whirling Defense"/>.
 - Auto attack and use your pet skills as they come off cooldown until Siax is dead.
 - In a group with low DPS you will have time to swap back to Greatsword, so finish the fight with <Skill id="46629"/> -> <Skill name="Hilt Bash"/> -> <Skill id="46629"/>.
-- You might also have to break a CC bar in this phase so try to use <Skill id="45743"/>, <Skill name="Path of Scars"/>, <Skill name="hiltbash"/> or even [consumables](/guides/consumables) to help.
+- You might also have to break a CC bar in this phase so try to use <Skill id="45743"/>, <Skill name="Path of Scars"/>, <Skill name="hiltbash"/> to help.
 
 </ConditionalComponent>
 
@@ -307,7 +301,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - <Skill id="45743"/>, <Skill name="Pointblankshot"/> for instant CC. Start casting <Skill id="45743"/> just before Ensolyss becomes vulnerable so you can hit both CC skills.
 - Use <Skill name="Rapid Fire"/> and <Skill id="41524"/>, move into the bubble as it spawns.
 - Cast <Skill name='Barrage'/> and towards the end of the cast use <Skill name="Sic Em"/>.
-- When the bar reappears after the bubble use a [consumable](/guides/consumables) to help break it.
+- When the bar reappears after the bubble use a CC skills to help break it.
 - Once its broken burst with <Skill name="One Wolf Pack"/>, <Skill name="Rapid Fire"/>, cancel it half way through and use <Skill name="Worldly Impact"/>, weapon swap, <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
 - Autoattack until your <Skill name="Path of Scars"/> is off cool down again and then weapons swap and use <Skill name="Rapid Fire"/>.
 - At this point Ensolyss should dash so cast <Skill name='Barrage'/> mid and then continue with your normal rotation until Ensolyss phases.
@@ -322,7 +316,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - Call <Skill name="Frost Spirit"/> mid with <Skill name="Cold Snap"/>, and if you don't have any <Boon name="Quickness"/> use <Skill name="Worldly Impact"/> to generate some.
 - Cast <Skill name='Barrage'/> as Ensolyss spawns, and towards the end of the cast use <Skill name="Sic Em"/>.
 - <Skill id="41524"/> -> <Skill name="One Wolf Pack"/>.
-- CC with <Skill id="45743"/> and <Skill name="Point Blank Shot"/> (If the bar hasn't broken use a [consumable](/guides/consumables) to help).
+- CC with <Skill id="45743"/> and <Skill name="Point Blank Shot"/>.
 - Burst with <Skill name="Rapid Fire"/>, cancel it half way through and use <Skill name="Worldly Impact"/>, weapon swap, <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
 - Auto attack until your <Skill name="Path of Scars"/> is off cool down again and then weapons swap and use <Skill name="Rapid Fire"/>.
 - Make sure you are stood in a safe place to cast <Skill name='Barrage'/> again and continue with the standard rotation until Ensolyss phases.
@@ -533,14 +527,13 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 - Help kill the anomaly mid than special action key to the side.
 - Call <Skill name="Frost Spirit"/> to you with <Skill name="Cold Snap"/>, Then use <Skill name="One Wolf Pack"/> and <Skill name="Sic Em"/>.
-- CC with <Skill name="Point Blank Shot"/> and <Skill id="45743"/> (If the bar doesnt break help with [consumables](/guides/consumables)).
+- CC with <Skill name="Point Blank Shot"/> and <Skill id="45743"/>.
 - Burst with <Skill name="Rapid Fire"/> -> <Skill name="Worldly Impact"/> -> <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
 - Continue with the normal rotation until Artsariiv phases.
 
 ### _Add Phase_
 
 - Use <Skill name="We Heal as One"/> to keep up boons on yourself.
-- CC adds with [consumables](/guides/consumables).
 - Make sure you are on Sword/Axe for the start of the next phase.
 
 ### **66-33%**
@@ -601,8 +594,6 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - If she reaches the corner, dodge or use <SpecialActionKey name="hypernovalaunch"/> to avoid the slam wave and auto-attack until she phases.
 
 ### _Add Phases_
-
-Use [consumables](/guides/consumables) to CC the adds.
 - Stay on longbow for the next phase.
 
 ### **66%-33%**
@@ -614,8 +605,6 @@ Use [consumables](/guides/consumables) to CC the adds.
 - Use <Skill name="frenziedattack"/>, and <Skill name="Worldlyimpact"/>, followed by <Skill name="Point Blank Shot"/> and <Skill name="Rapid fire"/> until she phases.
 
 **Add CC Phase**
-
-Use [consumables](/guides/consumables) to CC the adds.
 - Stay on longbow for the next phase.
 - Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>.
 
@@ -663,8 +652,6 @@ Use [consumables](/guides/consumables) to CC the adds.
 - <Skill id="43548"/> if she isn't phased yet.
 
 ### _Add Phases_
-
-Use [consumables](/guides/consumables) to CC the adds.
 - Make sure you are on longbow for the next phase.
 - Pick up the <Skill id="5516"/> if your <Specialization name="Weaver"/> places one for you.
 

@@ -8,7 +8,7 @@ bosses: 5
 difficulties: [{ level: 100, ar: 150 }]
 cycle: 'Day (non CM) / Night (CM)'
 sigils: [{ id: 36053 }, { id: 24868 }]
-consumables: [8783, 8474, 8664, 8759, 8678, 8732, 78978]
+consumables: [78978]
 ---
 
 The Sunqua Peak fractal is different from previously released fractals: After doing all the achievements a Challange Mote is unlocked which opens a portal to the last boss in Challenge Mode. The bosses in normal mode are supposed to teach the mechanics of the endboss. 
@@ -129,7 +129,7 @@ Kill the boss and move on to the final encounter of this fractal.
 
 This section explains CM and non-CM. The first part is for both the same, except that the Sorrowful Spellcaster has more HP and hits harder on CM. Mechanically it is the same. 
 <Message>
-When you break Ai's breakbar she gets a buff on her bar preventing a new breakbar from spawning for 30 seconds. The breakbar has an insane size of 3200 making it hard to break. It is highly recommended to bring **all** the CC [consumables](/guides/consumables)!
+When you break Ai's breakbar she gets a buff on her bar preventing a new breakbar from spawning for 30 seconds. The breakbar has an insane size of 3200 making it hard to break. It is recommended to bring all the CC skills your class provides.
 </Message>
 
 ### Part 1: Normal Form <Label>Day</Label>
@@ -241,7 +241,7 @@ At the same time a Sorrow will spawn, this mob will spawn at a random position i
 </GridItem>
   
 <GridItem xs="12" sm="12"> 
-Ranged CC such as <Skill name="Sanctuary"/> or <Skill name="Darkrazors Daring"/> is preferable as you get to stay inside the safe zone near the boss. Consumables such as <Item id="8678"/> are also very powerful due to their ranged nature.  
+Ranged CC such as <Skill name="Sanctuary"/> or <Skill name="Darkrazors Daring"/> is preferable as you get to stay inside the safe zone near the boss.
 </GridItem>
 </Grid>
 

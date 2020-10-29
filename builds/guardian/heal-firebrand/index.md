@@ -117,7 +117,7 @@ CCing:
 - Always use <Skill name="Bane Signet"/>! This is one of the most important things you have to do!
 - Use <Skill name="Blazing Edge"/> (Axe3)
 - Use <Skill name="Shield of Absorption"/> (Shield5)
-- Using consumables such as <Item name="Metal Rod"/>, <Item name="sentinelrifle"/> and <Item name="termiteshovel"/> is highly encouraged, since you having nothing to do anyway.
+- On demand: <Skill name="Sanctuary"/>
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 

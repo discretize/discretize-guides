@@ -22,7 +22,7 @@ record:
 cycle: 'Day'
 potions: [{ id: 50082 }]
 sigils: [{ id: 24615 }, { id: 24868 }, { id: 24658, description: 'after MAMA' }]
-consumables: [43360, 8759, 8678, 8764, 8801, 78978, 12486]
+consumables: [43360, 8764, 8801, 78978, 12486]
 ---
 
 ## Assault Knights <Item id="50082" disableText/><Label>426,071 HP</Label>

@@ -22,7 +22,7 @@ This build has tremendous amounts of self-sustain and is therfore also a great b
 - <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
 - Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
  
-One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 <Attribute name="Power"/> buff provided by <Skill name="Bane Signet"/>. You should make up for the lack of CC with [consumables](/guides/consumables).
+One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 <Attribute name="Power"/> buff provided by <Skill name="Bane Signet"/>. 
 
 Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independant of their groups.
 
