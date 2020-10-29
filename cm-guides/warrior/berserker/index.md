@@ -14,11 +14,10 @@ disableOrganized: 'false'
 
 <Boss name="mama" video="YMy7HUTQEJI" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="14401" utility1Id="29941" utility2Id="14405" utility3Id="14407" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131" weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Severance" weapon2MainInfusion1Id="37131" >
 - Take <Trait id="1977"/>!
-- It makes sense to use [consumables](/guides/consumables) on the adds!
 </Boss>
 
 <Message>
-This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates. 
+This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab extra CC skills to make up for the lack of CC of your team mates. 
 </Message>
 This guide is a PuG friendly version without banner precast. Please remember that CCing all bars fast is the most important bit in this fight. You won't get a good kill - might even wipe your party - if you greed DPS without CC. 
 
@@ -340,7 +339,6 @@ The rest of the fight follows accordingly.
 
 - Pick up your banners and place them in the middle of the arena.
 - Help your party to CC the adds, preferable by CCing the one in the middle since you are there anyway.
-- Make sure to use <Item name="termiteshovel"/> <Item name="metalrod"/> and <Item name="sentinelrifle"/> for fast CC.
 
 ### **66% and 33%**
 
@@ -367,7 +365,7 @@ The rest of the fight follows accordingly.
 
 ### _Add Phases_
 
-- Swap to Sword/Warhorn, and CC your add quickly with <Item name="termiteshovel"/> <Item name="metalrod"/> and <Item name="sentinelrifle"/>.
+- Swap to Sword/Warhorn, and CC your add quickly.
 - Use <Skill name="savageleap"/> to get around the arena quickly.
 - Use <SpecialActionKey name="hypernovalaunch"/> to get back into the middle.
 - Precast <Skill name="Mending"/> and <Skill name="charge" profession="warrior"/>.

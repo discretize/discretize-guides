@@ -9,7 +9,6 @@ disableOrganized: 'true'
 ---
 
 <Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
-- It makes sense to use [consumables](/guides/consumables) on the adds!
 </Boss>
 
 ### **Precast**
@@ -19,7 +18,6 @@ disableOrganized: 'true'
 4) Cast <Skill name="Lich Form"/> 4 halfway to _MAMA_
 
 ### **Phase 1**
-1) Start the fight with a <Item id="8664"/>, if you don't trust CC
 2) Place both wells right before MAMA becomes vulnerable
 3) <Skill name="Nightfall"/> (GS 4)
 4) then <Skill name="Grasping Darkness"/> (GS 5)
@@ -161,7 +159,6 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 
 ### **Phase 1**
 1) Use both wells right before he becomes vulnerable
-2) <Item id="8664"/> to instantly make him <Effect name="Exposed"/>
 3) <Skill name="Grasping Darkness"/> (GS 5)
 4) <Skill name="Nightfall"/> (GS 4)
 5) If _Ensolyss_ is still not broken:
@@ -218,7 +215,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 ---
 
 <Boss name="skorvald" video="" videoCreator="" foodId="91805" utilityId="9443" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
-- Skorvald has one of the biggest CC bars in CMs (2200). It makes sense to use [consumables](/guides/consumables)!
+- Skorvald has one of the biggest CC bars in CMs (2200). Make sure to use your CC skills!
 </Boss>
 
 ### **Precast**
@@ -327,7 +324,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
     3) Auto Attacks
 ### *Split Phase 1*
 1) Go to your marker/direction
-2) CC the add with  consumables
+2) CC the add
 
 ### **Phase 2**
 
@@ -348,7 +345,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 	1) Spam <Skill name="Gravedigger"/> (GS 2)
 ### *Split Phase 2*
 1) Go to your marker/direction
-2) CC the add with  consumables
+2) CC the add
 
 ### **Phase 3**
 1) <Skill name="Gravedigger"/> (GS 2)

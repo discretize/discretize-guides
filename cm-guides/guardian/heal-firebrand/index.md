@@ -12,7 +12,7 @@ disableOrganized: 'true'
 - <Skill name="banesignet"/> is timed for DPS phases (in order to meet DPS checks). It is usually timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation **below**.
 - This comp resides in the "PuG meta" category and as a result will include some requirements atypical of the meta. Including <Skill name="Mantraofliberation"/> which as a result might affect <Boon name="fury"/> uptime. One must consider all uptimes, including <Boon name="fury"/> when playing in any group especially a PuG. 
 - When constructing the guide for <Specialization name="Firebrand" text="Heal Firebrand"/> we concluded that the single easiest way to carry as a <Specialization name="Firebrand" text="Heal Firebrand"/> on _MAMA_ is to provide reliable CC for the adds and boss alike!
-- In a PuG scenario it makes sense to include <Skill name="hammer of wisdom"/> as well as [consumables](/guides/consumables) when playing a <Specialization name="Firebrand" text="Heal Firebrand"/> variant.
+- In a PuG scenario it makes sense to include <Skill name="hammer of wisdom"/>.
 </Boss>
 
 <Message>
@@ -31,7 +31,6 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 
 ### **1st Phase**
 
-1)  <Item id="8664"/> To CC
 2)  <Skill name="banesignet"/> to CC
 3)  <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>
 4)  <Skill name="Blazing Edge"/> to finish CC
@@ -39,7 +38,6 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 ### _1st Add_
 
 1) Use <Skill name="hammerofwisdom"/>
-2) Use <Item id="8474 "/>
 3) (Use a single cast of <Skill name="Mantra of liberation"/> if instant CC failed, Before the _Knight_ lands his jump!) <Label>Situational</Label>
 
 ### **2nd Phase**
@@ -48,21 +46,18 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 2)  <Skill name="Shield of absorption"/>
 4) Weapon swap
 5)  <Skill name="Empower"/>
-6)  <Item id="8474  "/> to CC
-7)  <Item id="8759"/> to help CC. (If the DPS is high **DO NOT BREAK** defiance bar before 50%)
+7)  (If the DPS is high **DO NOT BREAK** defiance bar before 50%)
 8) Cast <Skill name="Tome of courage"/> Chapter 5,4,3 while moving toward the second add. This is for two major reasons: Firstly chapter 3 reflects the projectiles (or red AoEs on the ground which do lethal damage) and lastly provides <Boon name="protection"/> and <Boon name="resistance"/> when allies are animation locked while CCing the second _Knight_.
 
 ### _2nd Add_
 
 1) Use <Skill name="hammerofwisdom"/>
-2) Use <Item id="8474 "/>
 3) (Use a single cast of <Skill name="Mantra of liberation"/> if instant CC failed, before the _Knight_ lands his jump!) <Label>Situational</Label>
 
 
 ### **3rd Phase**
 
 1)  <Skill name="banesignet"/> to CC
-2)  <Item id="8664"/> To CC
 3) Weapon Swap
 4)  <Skill name="Symbol of Vengeance"/> for <Boon name="fury"/>
 5)  <Skill name="Blazing Edge"/> to finish CC
@@ -71,7 +66,6 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 ### _3rd Add_
 
 1) Use <Skill name="hammerofwisdom"/>
-2) Use <Item id="8474 "/>
 3) (Use a single cast of <Skill name="Mantra of liberation"/> if instant CC failed, before the _Knight_ lands his jump! Provided the final charge remains!) <Label>Situational</Label>
 
 ### **4th Phase**
@@ -79,8 +73,6 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 1) Help CC with whatever you have.
 2)  <Skill name="shieldofjudgment"/> to provide <Boon name="Aegis"/> for _MAMA_'s lethal jump attack. Use the final charge of <Skill name="restoringreprieve"/> to ensure allies do not take damage!
 3) Having saved the last charge on  <Skill name="Mantra of liberation"/> , use it right before _MAMA_ lands her jump!
-4) Use <Item id="8759"/> if available.
-5) Use <Item id="8474 "/>
 6)  <Skill name="Blazing Edge"/>
 7) <Skill name="Shield of absorption"/> to finish CC
 8) Weapon swap
@@ -121,7 +113,6 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 4) <Skill name="Blazing Edge"/>
 5)  <Skill name="banesignet"/> to CC (if your groups DPS is high enough it will be up during split)
 5)  <Skill name="Shield of absorption"/>
-6)  <Item id="8474  "/> <Label>If extra CC is required</Label>
 7) If DPS is low be ready to use <Skill name="Retreat"/> to <Boon name="aegis"/> the Hallucination's AoE (Vital Importance)
 
 
@@ -136,9 +127,6 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 1) While <Effect name="exposed"/> is still on the boss Weapon Swap
 2)  <Skill name="Empower"/>
 3)  <Skill name="Retreat"/> To <Boon name="aegis"/> the _Hallucination_'s AoE (Vital Importance)
-4)  <Item id="8474  "/> To CC
-5)  <Item id="8759"/> To Help CC.
-6)  <Item id="8664  "/> (If needed, to finish CC)
 7) Cast <Skill name="Tome of Courage"/> 4 and 5 then use up all charges with skill 1 (This, if timed correctly, will do three things. Namely: it will <Boon name="aegis"/> the _Hallucination_'s AoE, put <Boon name="stability"/> for the "swipe" attack and ensure the group has <Boon name="protection"/> for when the _Volatile hallucinations_ pop)
 8) Cast <Skill name="Tome of Justice"/> and attempt to <Control name="pull"/> the _Volatile Hallucinations_ using Chapter 3 so not all of them blow up in middle at once. (This is the moment where groups with low DPS will likely wipe and therefore a situational moment where having saved your <Skill name="tome of resolve"/> might save the group!) <Label>Situational</Label>
 9) Use Chapter 4 Scorched aftermath
@@ -156,8 +144,6 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 1)  <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>
 2)  <Skill name="Blazing Edge"/>
 3)  <Skill name="banesignet"/> to CC
-4)   <Item id="8474 "/> To CC
-5)  <Item id="8759"/> <Label>If needed to finish CC</Label>
 6)  Weapon Swap 
 7)   <Skill name="Empower"/> while <Effect name="exposed"/> (Ideally you will be quick enough in every scenario above to be precasting Empower before the breakbar is finished)
 8) Use <Skill name="Retreat"/> to <Boon name="aegis"/> the Hallucination's AoE (Vital Importance)
@@ -171,10 +157,8 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 - <Skill name="banesignet"/> is timed for DPS phases (in order to meet DPS checks). It is usually timed for Breakbars with the signets active effect being up during <Effect name="exposed"/>  as suggested in the rotation **below**.
 - Use well timed <Skill name="restoringreprieve"/> to give <Boon name="aegis"/>.
 - <Skill name="tome of resolve"/> Chapter 5,4,1 are used situationally in order to heal up your allies! Remember Chapter 2 is also a condition cleanse (as well as chapter 5) and will help mitigating _Ensolys_' auto attack.
-- <Skill name="Sanctuary"/> is a really underrated CC skill which fits perfectly for Ensolyss as <Specialization name="Firebrand" text="Heal Firebrand"/>. Due to it's cooldown it has less use elsewhere in fractals, but is available every phase on Ensolyss. Sanctuary has a base CC of 750 (and can be traited in virtues to 1050 defiance **only** if the group needs more CC) and has the added benefit of being a CC over time where the <Specialization name="Firebrand" text="Heal Firebrand"/> can spam [consumables](/guides/consumables) throughout it's duration.
+- <Skill name="Sanctuary"/> is a really underrated CC skill which fits perfectly for Ensolyss as <Specialization name="Firebrand" text="Heal Firebrand"/>. Due to it's cooldown it has less use elsewhere in fractals, but is available for every phase on Ensolyss. Sanctuary has a base CC of 750 (and can be traited in virtues to 1050 defiance **only** if the group needs more CC) and has the added benefit of being a CC over time.
 -  <Skill name="Empower"/> is timed during <Effect name="exposed"/> and <Control name="stun"/> for two reasons: Firstly it's a well timed heal for <Boon name="Might"/> and lastly, due to it's cast time it can be tricky to use during Ensolyss' many attacks.
-- It is suggested to use <Item id="8664"/> for Phase 1 to break more consistently in PuG scenarios, in terms of <Skill name="banesignet"/> application, one should always strive to use <Skill name="banesignet"/>'s active duration throughout the <Effect name="exposed"/> effect. If you use <Skill name="banesignet"/> for an instant break and it fails, it's active effect is wasted.
-
 </Boss>
 
 ### **Prestacking**
@@ -189,8 +173,7 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 
 ### **Phase 1** <Label>Instant break</Label>
 
-1) Start on staff, with <Item id="8664"/> ready to use.
-2) A few seconds after the boss lands, try to time <Item id="8664"/> correctly. (If you miss the timing it's not the end of the world, but will end up being amazing practice for more experienced groups) (In future runs with <Specialization name="Firebrand" text="Power Firebrand"/>, the <Skill name="banesignet"/>'s timing is be the same as <Item id="8664"/>!)
+1) Start on staff
 3) <Skill name="banesignet"/> to CC.
 4) Enter <Skill name="tome of justice"/> use Chapter 4 and blast it with <Skill name="Holy Strike"/>
 5)  <Skill name="Empower"/>
@@ -204,13 +187,10 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 
 ### **1st Phase** <Label>Failed instant break</Label>
 
-1) Start on Staff, with <Item id="8664"/> ready to use.
-2) A few seconds after the boss lands, try to time <Item id="8664"/> correctly. (If you miss the timing it's not the end of the world, but will end up being amazing practice for more experienced groups) (In future runs with <Specialization name="Firebrand" text="Power Firebrand"/>, the <Skill name="banesignet"/>'s timing is be the same as <Item id="8664"/>!)
+1) Start on Staff
 3) Enter <Skill name="tome of justice"/> while you and your allies move to the bubble. Use chapter 4 and blast it with <Skill name="Holy Strike"/>
 4) Right before the bubble pops, precast <Skill name="Sanctuary"/>
 5) When the bubble has popped use <Skill name="banesignet"/> as quickly as possible
-6) Follow up with <Item id="8474  "/> To CC
-7)  <Item id="8759"/> (if needed to finish CC) (try to CC **before** _Ensolyss_' first orange AoE hits)
 8) While the <Effect name="exposed"/> and <Control name="stun"/> is up:
 9)  <Skill name="Empower"/>
 10) Use <Skill name="tome of courage"/> use chapter 5 4 spam 1
@@ -227,8 +207,6 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 2) Blast Scorched Aftermath with <Skill name="Holy Strike"/>
 3) Right before the boss is vulnerable, precast <Skill name="Sanctuary"/>
 4) As the breakbar appears use <Skill name="banesignet"/>
-6) Follow up with <Item id="8474  "/> to CC
-7)  <Item id="8759"/> 
 8) Try to CC as quickly as possible to prevent the incoming damage from the CC channel attack all the while using <Skill name="restoringreprieve"/> to mitigate inc. dmg with <Boon name="aegis"/>.
 8) While the <Effect name="exposed"/> and <Control name="stun"/> Is up:
 9) Cast <Skill name="Empower"/>
@@ -246,8 +224,6 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 2) Blast Scorched Aftermath with <Skill name="Holy Strike"/>
 3) Right before the boss is vulnerable precast <Skill name="Sanctuary"/>
 4) As the breakbar appears use <Skill name="banesignet"/>
-5) Follow up with <Item id="8474  "/> to CC
-6) Use <Item id="8759"/> 
 7) Try to CC as quickly as possible to prevent the incoming damage from the CC channel attack all the while using <Skill name="restoringreprieve"/> to mitigate incoming dmg with <Boon name="aegis"/>.
 8) While the <Effect name="exposed"/> and <Control name="stun"/> is up:
 9) Cast <Skill name="Empower"/>
@@ -269,7 +245,7 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 - This encounter is fairly straight forward for a <Specialization name="Firebrand" text="Heal Firebrand"/>, their role is to ensure any and all breakbars are broken as soon as possible and that <Boon name="stability"/> and <Skill name="banesignet"/> are timed correctly.
 - If your group DPS is low ensure to save your <Skill name="tome of courage"/> (and if REALLY low your <Skill name="Stand your ground"/> too) for the final phase, this is due to Skorvalds melee attack which will chain <Control name="knockdown"/> as well as deal a large amount of damage AND <Effect name="agony"/>.
 - One aspect worth noting is island 4 on each split phase. Uses <Skill name="Stand your ground"/> to give <Boon name="Stability"/> to players (as well as not to be interrupted), <Skill name="empower"/> to ensure players are at 25 <Boon name="Might"/> before the DPS phase and <Skill name="bane signet"/> to increase all party member's power by 216.
-- Make sure to use [consumables](/guides/consumables) where needed. If the breakbar has regenerated in time for phase 3. Be ready to break it as quickly as possible before _Skorvald_'s <Control name="Stun"/> finishes.
+- Make sure to use CC skills where needed. If the breakbar has regenerated in time for phase 3. Be ready to break it as quickly as possible before _Skorvald_'s <Control name="Stun"/> finishes.
 </Boss>
  
 ### **Prestacking**
@@ -284,10 +260,8 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
 
 ### **100%-66%**
 
- 1) Start on Axe, with <Item id="8664"/> ready to use.
- 2) The second the boss arrives Break <Item id="8664"/>
+ 1) Start on Axe
  3) <Skill name="bane signet"/> to CC
- 4) <Item id="8759"/>
  3)  <Skill name="Symbol of Vengeance"/> for <Boon name="fury"/>
 4)  <Skill name="Blazing Edge"/> to finish CC
 
@@ -337,7 +311,7 @@ In any significant downtime in your rotation during this run, Use <Skill name="t
      
 ### **33%-0%**
 
- 1) If a breakbar is available use as many [consumables](/guides/consumables) as possible, as quickly as possible in an attempt to break the defiance bar in the short time frame provided! (Situational- the breakbar will rarely have regenerated in time)
+ 1) If a breakbar is available use as many CC skills as quickly as possible in an attempt to break the defiance bar in the short time frame provided! (Situational- the breakbar will rarely have regenerated in time)
  2) Having saved your  <Skill name="tome of courage"/> From split phase. Use chapter 5,4 and spam 1.
  3) <Skill name="Symbol of Vengeance"/> For <Boon name="fury"/>.
  4) Use  <Skill name="restoringreprieve"/> to <Boon name="aegis"/> Skorvald's AoEs
@@ -387,8 +361,6 @@ Stay in the middle
 6)  <SpecialActionKey name="hypernovalaunch"/> to the corner (after the anomaly is dead)
 7) <Skill name="tome of courage"/> skill 5 and 4 (to ensure the slb isn't interrupted while reflecting with axe 5)
 8)  <Skill name="banesignet"/> to CC
-9)  <Item id="8664"/>
-10) <Item id="8474"/>
  11) Use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> _Artsariiv_'s AoEs
  12)  <Skill name="tome of resolve"/> 5,4,1 to heal up the party
  13)  <Skill name="Mantraofliberation"/> if you miss timing an <Boon name="aegis"/>, use a single charge as a backup. 
@@ -411,7 +383,7 @@ While in the middle
 8)  Use <Skill name="banesignet"/> regardless of CC, for active +216 power (try to use <Skill name="standyourground"/> and <Skill name="banesignet"/> together, to help the Soulbeast)
  9) Use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> _Artsariiv_'s AoEs
  10)  <Skill name="tome of resolve"/> 5,4,1 to heal up the party
- 11) Depending on group DPS, use the same [consumables](/guides/consumables) rotation as used in p1 to break the breakbar after the orb has returned.
+ 11) Depending on group DPS, use the same CC rotation as used in p1 to break the breakbar after the orb has returned.
  12)  <Skill name="Mantraofliberation"/> if you miss timing an <Boon name="aegis"/>, use a single charge as a backup. 
 
 ### _Add Phase 2_
@@ -434,7 +406,7 @@ While in the middle
 8)  <Skill name="banesignet"/> Regardless of CC, for active +216power (try to use stand your ground and signet together, to benefit the slb)
  9) Use <Skill name="restoringreprieve"/> to <Boon name="aegis"/> Artsariiv's AoEs
  10)  <Skill name="tome of resolve"/> 5,4,1 To heal Allies situationally.
- 11) Depending on group DPS, use the same [consumables](/guides/consumables) rotation as used in p1 to break the breakbar after the orb has returned.
+ 11) Depending on group DPS, use the same CC rotation as used in p1 to break the breakbar after the orb has returned.
  12)  <Skill name="Mantraofliberation"/> if you miss timing an <Boon name="aegis"/>, use a single charge as a backup. 
 
 ---
@@ -479,8 +451,6 @@ While in the middle
 You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 1) Weapon swap
 2) <Skill name="symbol of vengeance"/> <Boon name="fury"/>
-9) Use <Item id="8664"/>
-10) Use <Item id="8474"/> <Label>Situational</Label>
 
 
 ### _Archdiviner_
@@ -506,9 +476,6 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 ### **4th Phase (50%-40%)**
 
 You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
-1)  <Item id="8664"/>
-2)  <Item id="8474"/>
-3)  <Item id="8759"/> <Label>Situational</Label>
 4) <Skill name="Empower"/>
 5) Use <Skill name="tomeofjustice"/> Chapter 4
 7) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
@@ -519,7 +486,6 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 1) <Skill name="blazingedge"/> -> <Skill name="pull"/> 1 (preferably 2) adds and <Skill name="standyourground"/> 
 2) Use <Skill name="shieldofjudgment"/> for <Boon name="aegis"/>
 3) <SpecialActionKey name="hypernovalaunch"/> to CC add
-3) Use <Item id="8759"/>  <Label>Situational</Label>
 3) Cast <Skill name="banesignet"/> as the add is about to die
 4) Weapon swap
 
@@ -537,8 +503,6 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 
 You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 1) <Skill name="symbol of vengeance"/> For <Boon name="fury"/>
-2)  <Item id="8664"/>
-3)  <Item id="8474"/> <Label>Situational</Label>
 4) Weapon swap
 5) <Skill name="empower"/>
 6) <Skill name="tomeofcourage"/>  Chapter 5,4,3 and spam 1 (this provides <Boon name="stability"/> for <Condition name="Fear"/>, <Boon name="aegis"/> for melee attacks and a reflect for the agony AoEs)

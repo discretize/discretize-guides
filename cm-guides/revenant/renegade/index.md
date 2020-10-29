@@ -503,9 +503,6 @@ disableOrganized: 'false'
 * <Skill name="Legendary Renegade Stance"/>.
 * <Skill name="Soulcleaves Summit"/>, <Skill name="Heroic Command"/>, <Skill name="Shackling wave"/>, <Skill name="Deathstrike"/>, <Skill name="Unrelenting Assault"/>.
 
-### _Add_
-* Use consumables.
-
 
 ### **66-33%**
 * <Skill name="Breakrazors Bastion"/>, <Skill name="Soulcleaves Summit"/>, <Skill name="Orders from Above"/>, <Skill name="Heroic Command"/>.
@@ -516,7 +513,6 @@ disableOrganized: 'false'
 
 ### _Add_
 * <Skill name="Forced Engagement"/> for one add.
-* Use consumables for the remaining two adds.
 
 ### **33-0%**
 * Precast <Skill name="Inspiring Reinforcement"/>, <Skill name="Orders from Above"/>.
