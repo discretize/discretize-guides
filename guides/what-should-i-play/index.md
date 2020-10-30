@@ -14,7 +14,7 @@ Outline:
 
 <Divider text="Meta builds"/>
 
-## <Specialization name="Soulbeast"/>
+<Card specialization="Soulbeast">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
 | [<Specialization name="Soulbeast" disableLink />](/builds/ranger/soulbeast) | <Rating value="5"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="3"/> | <Rating value="4"/> | 
@@ -29,8 +29,10 @@ This build is rather self sufficient due to:
 - High mobility via <Skill name="monarchsleap"/>, <Skill id="45743"/> and <Skill id="12521"/>
 
 Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike. 
+</Card>
 
-## <Specialization name="Weaver"/>
+
+<Card specialization="Weaver">
 
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
@@ -40,8 +42,9 @@ The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one o
 Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>. 
 
 Also this build depends pretty much on supports and boon uptimes, as it cant provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+</Card>
 
-## <Specialization name="Berserker"/>
+<Card specialization="Berserker">
 
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
@@ -53,8 +56,9 @@ Besides providing the group with strong unique damage buffs through the stats of
 The <Specialization text="Banner Berserker" name="Berserker"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone.
 
 Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
+</Card>
 
-## <Specialization name="Renegade"/>
+<Card specialization="Renegade">
 
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
@@ -64,8 +68,9 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty. 
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from  <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+</Card>
 
-## <Specialization name="Firebrand"/>
+<Card specialization="Firebrand">
 
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
@@ -79,12 +84,12 @@ Using <Skill name="Bane Signet"/> to break defiance bars also increases your all
 <Message>
 Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="Firebrand"/>* is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="Firebrand"/>* ([Build](/builds/guardian/condi-firebrand) ) as it provides much higher sustained DPS.
 </Message>
+</Card>
 
 
 <Divider text="Offmeta builds"/>
 
-
-## <Specialization name="Firebrand" text="Condi Firebrand"/>
+<Card specialization="Firebrand" title="Condi Firebrand">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
 | [<Specialization name="Firebrand" disableLink />](/builds/guardian/condi-firebrand) | <Rating value="3"/> | <Rating value="4"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="3"/> | 
@@ -102,15 +107,19 @@ One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> i
 
 Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independant of their groups.
 
-## <Specialization name="Holosmith" text="Power Holosmith"/>
+</Card>
+
+<Card specialization="Holosmith" title="Power Holosmith">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
 | [<Specialization name="Holosmith" disableLink />](/builds/engineer/power-holosmith) | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> | 
 The engineer build that currently fares best in fractals is the <Specialization text="Power Holosmith" name="Holosmith"/>, offering a mix of high damage and a relatively good amount of crowd control and utility in form of <Condition name="Vulnerability"/> and some <Condition name="Blinded"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+</Card>
 
-## <Specialization name="Reaper" text="Power Reaper" />
+
+<Card specialization="Reaper" title="Power Reaper">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
 | [<Specialization name="Reaper" disableLink />](/builds/necromancer/power-reaper) | <Rating value="1"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="3"/> | 
@@ -119,8 +128,10 @@ The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks
 <Specialization name="Reaper" text="Power Reaper"/> has multiple offensive skill options (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Reaper" text="Power Reaper"/> can modify itself to fit many given situations in fractals.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+</Card>
 
-## <Specialization name="Dragonhunter" text="Power Dragonhunter" />
+
+<Card specialization="Dragonhunter" title="Power Dragonhunter">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
 | [<Specialization name="Dragonhunter" disableLink />](/builds/guardian/power-dragonhunter) | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> | 
@@ -133,8 +144,10 @@ The build offers a unique party wide offensive buff by sharing <Skill name="bane
 Compared to other builds the <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+</Card>
 
-## <Specialization name="Firebrand" text="Heal Firebrand" />
+
+<Card specialization="Firebrand" title="Heal Firebrand">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
 | [<Specialization name="Firebrand" disableLink />](/builds/guardian/heal-firebrand) | <Rating value="4"/> | <Rating value="1"/> | <Rating value="3"/> | <Rating value="1"/> | <Rating value="2"/> | 
@@ -150,8 +163,10 @@ When <Instability name="Afflicted"/> is present or enemies are applying conditio
 
 
 If you play this build we highly recommend learning the <Skill name="Bane Signet"/> share variant. If you want a good and smooth run, take a look at the [Fractal Pages](/fractals). This class will not be doing much damage but understanding how the class works best and when to do <Skill name="Bane Signet"/> sharing is important! 
+</Card>
 
-## <Specialization name="Renegade" text="Heal Renegade" />
+
+<Card specialization="Renegade" title="Heal Renegade">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
 | [<Specialization name="Renegade" disableLink />](/builds/revenant/heal-renegade) | <Rating value="4"/> | <Rating value="1"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="2"/> | 
@@ -162,7 +177,7 @@ Since the damage and life steals of <Skill name="Soulcleaves Summit" /> are base
 
 Feel free to run full Harrier if you are confident that you don't need the extra healing power or toughness from cleric. The more agony resistance you have, the more cleric you can afford to run and still hit 100% boon duration.
 
-
+</Card>
 <Divider text="Other"/>
 
 <Tabs outlined>
