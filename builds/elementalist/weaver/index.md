@@ -18,13 +18,9 @@ classification: [4, 5, 2, 3, 4]
 
 The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Sword Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some t4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so try  to avoid damage. Be especially careful when there is <Instability name="We Bleed Fire"/>. 
+Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>. 
 
-Also this build depends pretty much on supports and boon uptimes, as it cant provide any boons itself besides some <Boon name="Might"/> from blasting fire fields.
-
-Though it has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication.
-
-The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+Also this build depends pretty much on supports and boon uptimes, as it cant provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment without weakness"/>
 
