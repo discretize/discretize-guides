@@ -4,7 +4,7 @@ build: 'Power-Dragonhunter'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
 date: '2020-09-29'
-author: 'SpatiumPrinceps.8927'
+author: 'Princeps.6481'
 disableOrganized: 'true'
 ---
 

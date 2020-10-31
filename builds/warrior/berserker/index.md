@@ -12,7 +12,7 @@ traits: [1444, 1977, 2049]
 conditions: ['Vulnerability']
 boons: ['Might']
 code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
-author: 'SpatiumPrinceps.8927'
+author: 'Princeps.6481'
 cmguides: '/cm-guides/warrior/berserker'
 classification: [ 4, 4, 4, 2, 4]
 ---
