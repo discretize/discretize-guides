@@ -4,7 +4,7 @@ build: 'Berserker'
 profession: 'Warrior'
 specialization: 'Berserker'
 date: '2020-09-29'
-author: 'SpatiumPrinceps.8927'
+author: 'Princeps.6481'
 disableOrganized: 'false'
 ---
 
