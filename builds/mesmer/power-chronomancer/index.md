@@ -5,11 +5,11 @@ rating: 'Offmeta'
 role: 'Damage'
 profession: 'Mesmer'
 specialization: 'Chronomancer'
-skills: [10311]
+skills: [10311, 29830, 21750]
 traits: [2020, 2018, 853]
-boons: ['Might', 'Fury', 'Quickness']
+boons: ['Might', 'Fury', 'Quickness', 'Alacrity']
 conditions:
-  ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poisoned', 'Blinded']
+  ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poisoned', 'Blinded', 'Slow']
 code: '[&DQg1GTIlIjYoDygPgQCBAHMBcwF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Discord: Tipcat#0698'
 classification: [2, 4, 4, 3, 4]
@@ -26,7 +26,7 @@ This build is profits from sigils like <Item name="Impact" type="Sigil"/> as wel
 <Tab title="162 Agony Resistance">
 Check the [gear optimizer](https://old.discretize.eu) for more gear variants! 
 
-The goal of this build is to reach 100% critical chance when the boss is under the effects of <Condition name="Slow"/> to do this you will require to have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>. If you'd rather not rely on having those you need 200 AR to reach 100% with just <Boon name="Fury"/> and <Trait name="Danger Time"/>, assuming slow.
+The goal of this build is to reach 100% critical chance when the boss is under the effects of <Condition name="Slow"/> to do this you will require to have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>. If you'd rather not rely on having those you need 200 AR to reach 100% with just <Boon name="Fury"/> and <Trait name="Danger Time"/>, assuming <Condition name="Slow"/>.
 <Grid>
 <GridItem sm="4">
 <Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
@@ -84,11 +84,16 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 | | |
 | -- | -- |
 | <Skill name="Gravity Well" disableText size="big"/> | For MAMA CM and situational uses in T4. |
+| <Skill name="Signet of Humility" disableText size="big"/> | Faster and slightly higher defiance bar damage than  <Skill name="Gravity Well"/>|
 | <Skill name="Mass Invisibility" disableText size="big"/> | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small" /> for 18 seconds of stealth.|
 | <Skill name="Mimic" disableText size="big"/> | For precasting <Skill name="Mirror Images" Size="small"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips. |
 | <Skill name="Portal Entre" disableText size="big"/> | For skipping sections of the fractal for your party. |
-| <Skill name="Null Field" disableText size="big"/> | When you have issues with boons on the boss. |
-| <Skill name="Signet of Inspiration" disableText size="big"/> | for precasting before the boss. |
+| <Skill name="Null Field" disableText size="big"/> | When you have issues with boons on the boss(should only be used in extreme cases). |
+| <Skill name="Signet of Inspiration" disableText size="big"/> | For precasting before the boss. |
+| <Skill name="Feedback" disableText size="big"/> | Mainly for Artsariiv to reflect Taw Shot. |
+| <Skill name="Well of Precognition" disableText size="big"/> | Situational uses such as the Underground Facility door. |
+| <Skill name="Well of Calamity" disableText size="big"/> | Alternative to <Skill name="Mantra of Pain" disableText/> on shorter phases, where you can't make use of the charges of the mantra.|
+
 </Card>
 </GridItem>
 </Grid>
@@ -111,8 +116,9 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
     5. <Skill name="Time Sink"/> has higher priority for slow uptime if you have clones to spare mid-phase.
 7. Use <Skill id="10334"/> and <Skill id="30525"/>(if used) off recharge
 
-
 Apart from doing DPS, you have access to a wide range of utilities which can all be used twice with <Skill id="29830"/> if needed. Cast <Skill id="10173"/> to quickly get up another illusion.
+
+The idea behind playing <Specialization text="Power Chronomancer" name="Chronomancer"/> in fractals is to provide <Condition name="Slow"/> during your bursts. Try to optimize your <Condition name="Slow"/> generator skills for each phase with this in mind.
 </Card>
 
 </GridItem>
@@ -126,6 +132,7 @@ Apart from doing DPS, you have access to a wide range of utilities which can all
 | <Skill name="Counter Blade"/> | 200 damage |
 | <Skill name="Into the Void"/> | 150 damage |
 | <Skill name="Gravity Well"/> | 550 damage |
+| <Skill name="Signet of Humility"/> | 600 damage |
 | <Skill name="Illusionary Wave"/> | 150 damage |
 | <Skill name="Tides of Time"/> | 200 damage |
 | <Skill name="Magic Bullet"/> | 250 damage |
@@ -152,14 +159,16 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <GridItem xs="12" sm="6">
 <Card title="Opener">
-- Start on Sword/Focus
+- With <Skill name="Continuum Split"/>, Start on Sword/Focus
 
 1. <Skill name="Phantasmal Warden"/>
     1. <Skill name="Mirror Images"/> mid-cast.
 2. Weapon Swap
 3. <Skill name="Phantasmal Swordsman"/>
     3. <Skill name="Continuum Split"/> 
+    3. <Skill name="Mirror Images"/>(if you precasted <Skill name="Mimic"/> )   
     * You can delay your <Skill disableText name="Continuum Split"/> towards the end of the cast of <Skill disableText name="Phantasmal Swordsman"/> to give yourself more time.
+    
 4. <Skill  name="Phantasmal Disenchanter"/>
 5. <Skill name="Illusionary Leap"/> into <Skill name="Signet of the Ether"/>
     * You want to use <Skill disableText name="Signet of the Ether"/> as soon as you see a clone spawn from  <Skill name="Illusionary Leap"/>.
@@ -169,14 +178,61 @@ For that reason you can find a video with openers, that are efficient to use her
 8.  <Skill name="Time Warp"/> 
 9.  <Skill name="Blurred Frenzy"/>(<Skill disableText name="Continuum Split"/> ends)
     * It's important that you use <Skill disableText name="Blurred Frenzy"/> to cancel the aftercast of <Skill name="Time Warp"/>. 
-Use <Skill name="Mirror Images"/> before step 1 if you precasted <Skill name="Mimic"/>. 
+     
+- Without <Skill name="Continuum Split"/>, Start on Sword/Focus
+1. <Skill name="Phantasmal Warden"/>
+    1. <Skill name="Mirror Images"/> mid-cast.
+2. Weapon Swap
+3. <Skill name="Phantasmal Swordsman"/>
+4. <Skill  name="Phantasmal Disenchanter"/>
+5. <Skill name="Illusionary Leap"/> into <Skill name="Signet of the Ether"/>
+    * You want to use <Skill disableText name="Signet of the Ether"/> as soon as you see a clone spawn from  <Skill name="Illusionary Leap"/>.
+6. <Skill name="Phantasmal Swordsman"/>
+    6. You'll want to cast <Skill name="Split Second"/> and <Skill name="Rewinder"/> between this step and the next.
+7.  <Skill name="Phantasmal Disenchanter"/>
+8.  <Skill name="Blurred Frenzy"/>
+   
+
+
 </Card>
 </GridItem>
 
 
 <GridItem xs="12" sm="6">
 <Card title="Precasting">
-* Chronomancer skill usage :D
+At the Mistlock Singularity
+
+* Blast firefields with <Skill name="The Prestige"/>.
+* Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
+* Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
+* Additionally you can precast a <Skill name="Time Warp"/> and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
+ 
+
+At the boss(spawnable bosses) 
+* You can precast <Skill name="The Prestige"/>, <Skill name="Chaos Storm"/> and <Skill name="Tides of Time"/> to squeeze out a little more burst, if your team coordinates.
+
+At the boss(prespawned bosses)
+
+* Precast rotation. Start on Staff or Shield.
+
+1. <Skill name="Phantasmal Warlock"/>
+2. <Skill name="Phase Retreat"/>
+    2. Omit this step if <Skill name="Mimic"/> is precasted 
+
+3. Swap to Greatsword from inventory
+4. <Skill name="Phantasmal Berserker"/>
+5. <Skill name="Mirror Blade"/>
+6. Swap to Focus and proceed with the regular rotation
+* If you start on Shield use <Skill name="Echo of Memory"/> before step 1.
+* Precasting phantasms on MAMA is possible but the timing is trickier.
+
+(Optional)
+
+If you want to be more self-sufficient in fractals you can get a 100% boon duration set and take <Trait name="Bountiful disillusionment" size="small"/>.
+
+Then enter <Skill name="Continuum split"/>, cast all shatters, exit <Skill name="Continuum split"/>, cast all shatters again and use <Skill name="Signet of Inspiration"/>. Precast <Skill  name="Mimic"/> and take the singularity.
+
+Alternatively you can also precast <Skill name="Well of Recall"/> to help with alacrity uptime.
 
 </Card>
 </GridItem>
@@ -187,12 +243,3 @@ Use <Skill name="Mirror Images"/> before step 1 if you precasted <Skill name="Mi
 </Card>
 </GridItem>
 </Grid>
-
-
-
-
-
-
-
-
-
