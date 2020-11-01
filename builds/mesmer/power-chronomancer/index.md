@@ -19,6 +19,8 @@ The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the stron
 
 To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to adapt your rotation on the go and push the limits of your class, but even then you will probably be a hinderance for your group.
 
+You'll provide boon removal through your and your clones auto-attack chains, <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression">.
+
 This build is profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. 
 <Divider text="Equipment"/>
 <Tabs outlined>
@@ -104,6 +106,10 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 <GridItem sm="8">
 
 <Card title="Skill priority">
+The idea behind playing <Specialization text="Power Chronomancer" name="Chronomancer"/> in fractals is to provide <Condition name="Slow"/> during your bursts. Try to optimize your <Condition name="Slow"/> generator skills for each phase with this in mind.
+
+If you lose yourself in the rotation follow this priority list.
+
 1. Cast your phantasms whenever ready
     * <Skill id="10174"/>
     * <Skill id="10267"/>
@@ -116,9 +122,11 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
     5. <Skill name="Time Sink"/> has higher priority for slow uptime if you have clones to spare mid-phase.
 7. Use <Skill id="10334"/> and <Skill id="30525"/>(if used) off recharge
 
-Apart from doing DPS, you have access to a wide range of utilities which can all be used twice with <Skill id="29830"/> if needed. Cast <Skill id="10173"/> to quickly get up another illusion.
+Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that <Skill name="Blurred Frenzy"/> and Auto-Attacks get higher priority if the boss is close to phasing.
 
-The idea behind playing <Specialization text="Power Chronomancer" name="Chronomancer"/> in fractals is to provide <Condition name="Slow"/> during your bursts. Try to optimize your <Condition name="Slow"/> generator skills for each phase with this in mind.
+Apart from doing DPS, you have'll also have access to a wide range of utilities which can all be used twice with <Skill id="29830"/> if needed. Cast <Skill id="10173"/> to quickly get up another illusion.
+
+
 </Card>
 
 </GridItem>
@@ -209,7 +217,7 @@ At the Mistlock Singularity
  
 
 At the boss(spawnable bosses) 
-* You can precast <Skill name="The Prestige"/>, <Skill name="Chaos Storm"/> and <Skill name="Tides of Time"/> to squeeze out a little more burst, if your team coordinates.
+* You can precast <Skill name="The Prestige"/>, <Skill name="Chaos Storm"/> and <Skill name="Tides of Time"/> to squeeze out a little more burst, if your group coordinates.
 
 At the boss(prespawned bosses)
 
@@ -224,7 +232,7 @@ At the boss(prespawned bosses)
 5. <Skill name="Mirror Blade"/>
 6. Swap to Focus and proceed with the regular rotation
 * If you start on Shield use <Skill name="Echo of Memory"/> before step 1.
-* Precasting phantasms on MAMA is possible but the timing is trickier.
+* Precasting phantasms on MAMA is possible but the timing is trickier in PuGs as combat starts once your group hits the boss.
 
 (Optional)
 
@@ -243,3 +251,14 @@ Alternatively you can also precast <Skill name="Well of Recall"/> to help with a
 </Card>
 </GridItem>
 </Grid>
+
+
+
+
+
+
+
+
+
+
+
