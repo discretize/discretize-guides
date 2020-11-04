@@ -22,7 +22,7 @@ record:
 cycle: 'Day'
 potions: [{ id: 50082 }]
 sigils: [{ id: 24615 }, { id: 24868 }, { id: 24658, description: 'after MAMA' }]
-consumables: [43360, 8764, 8801, 78978, 12486]
+consumables: [43360, 8764, 8801, 78978]
 ---
 
 ## Assault Knights <Item id="50082" disableText/><Label>426,071 HP</Label>
@@ -36,7 +36,7 @@ Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your 
 ## MAMA <Label>5,200,519 HP</Label>
 |  |  |
 | -- | -- |
-| Encounter duration | 53s |
+| Encounter duration | 40-45s |
 | Sigils | <Item name="impact"/> <Item name="Force"/> |
 | Food | <Item id="43360"/> <Item name="powerfulpotionofslayingscarletsarmies"/>|
 | CC-bar MAMA | 1800 |
@@ -124,7 +124,7 @@ At the second set of altars use your <Skill name="Huntersverdict"/> to pull out 
 ## Siax the Corrupted <Label>6,138,797 HP</Label>
 |  |  |
 | -- | -- |
-| Encounter duration | 40s |
+| Encounter duration | 30-35s |
 | Sigils | <Item name="impact"/> <Item name="serpentslaying"/> |
 | Food | <Item id="43360"/> <Item name="powerfulpotionofslayingscarletsarmies"/>|
 | CC | 2000 |
@@ -149,7 +149,7 @@ Assign players to each add before the fight starts by setting waypoints. In PuGs
 ## Ensolyss of the Endless Torment <Label>14,059,890 HP</Label>
 |  |  |
 | -- | -- |
-| Encounter duration | 1:55min |
+| Encounter duration | 1:40-1:45min |
 | Sigils | <Item name="impact"/> <Item name="serpentslaying"/> |
 | Food | <Item id="41569"/> <Item name="powerfulpotionofslayingscarletsarmies"/>|
 | CC | 2000 |

@@ -29,7 +29,7 @@ consumables: [78978]
 
 |                    |                                                           |
 | ------------------ | --------------------------------------------------------- |
-| Encounter duration | 1:35min                                                   |
+| Encounter duration | 1:05min                                                   |
 | Sigils             | <Item name="impact"/> <Item name="force"/>                |
 | Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
 | CC                 | 2200                                                      |
@@ -108,7 +108,7 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 
 |                    |                                                           |
 | ------------------ | --------------------------------------------------------- |
-| Encounter duration | 1:30min                                                   |
+| Encounter duration | 52s                                                       |
 | Sigils             | <Item name="impact"/> <Item name="force"/>                |
 | Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
 | CC Artsariiv       | 2100                                                      |
@@ -177,7 +177,7 @@ After the fight is over, take the portal in the North and move forward to get to
 
 |                    |                                                                         |
 | ------------------ | ----------------------------------------------------------------------- |
-| Encounter duration | 2:00min                                                                 |
+| Encounter duration | 1:40min                                                                 |
 | Sigils             | <Item name="impact"/> <Item name="force"/>                              |
 | Food               | <Item id="41569"/> <Item name="powerfulpotionofslayingscarletsarmies"/> |
 | CC                 | 1800                                                                    |
