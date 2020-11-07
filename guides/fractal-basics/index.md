@@ -49,25 +49,26 @@ The fractal specific potions influence the way builds are designed. Each of them
 ---
  
 ## Acquiring gear to counter <Effect name="Agony"/>
-For beginners, it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all 18 infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>.
+For beginners, it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all 18 infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>. In case you are tight on money you can also slot <Item id="49430"/> and upgrade them later by extracting them with <Item id ="76409"/>.
 
 For a temporary 15 <Attribute name="Agony Resistance"/> buff, you can buy a <Item id="70596"/> and skip ahead of the suggested table below. We suggest acquiring most of the gear in fractals, however, you of course can buy your gear in WvW or open world or any other place.
 
 ---
 
 ### Tier 1: max 17 <Attribute name="Agony Resistance"/>
-Requirement: Full exotic gear 
+Requirement: Full exotic gear  
+Optional: Level Chef to 400 (costs about 2.76g, check [gw2crafts.net](https://gw2crafts.net/)), craft <Item id="62921" upgrades='49432'/> which enables a fast track to Tier 2 fractals. Since Tier 1 and 2 are essentially identically in difficulty it is recommended to go that route, however, you will need to exchange the backpiece very soon.
 
 Homework: 
-- Start working towards the accessories that you can buy with guild commendations
-- Save up relics to buy ascended rings
-- Alternatively buy Living World Season 3 Episode 3: A Crack in the ice and farm <Item id="79899"/> for trinkets (or any other living story episode).
+- Start working towards the accessories that you can buy with guild commendations or - if you have a lot of spare laurels - buy them for laurels. Keep in mind you need 30 laurels later for crafting your ascended armor.
+- Save up relics to buy ascended rings (5 days of T1 fractal dailies are required)
+- Alternatively buy Living World Season 3 Episode 3: A Crack in the ice and farm <Item id="79899"/> for trinkets (or any other living story maps: Bloodstone fen).
 
 ---
 
 ### Tier 2: max 61 <Attribute name="Agony Resistance"/>
 Acquire on your journey in T2: 
-- 18 <Attribute name="Agony Resistance"/>: Two ascended accessories of your [build](/builds) of choice. Example: <Item id="39232" upgrades='49432'/> and <Item id="39233" upgrades='49432'/>
+- 18 <Attribute name="Agony Resistance"/>: Two ascended accessories of your [build](/builds) of choice. Example: <Item id="39232" upgrades='49432'/> and <Item id="39233" upgrades='49432'/>.
 - 36 <Attribute name="Agony Resistance"/>: By attuning ascended rings. Example: <Item id="75187" upgrades='49432,49432'/> and <Item id="74440" upgrades='49432,49432'/>
 - 9 <Attribute name="Agony Resistance"/>: Getting a back item such as: <Item id="79830" upgrades="49432"/>
 
@@ -102,7 +103,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 | -- | -- | -- | -- | -- | 
 | `BS`  | Bannerslave | `war`, `bers` | <Specialization name="Berserker"/> that carries <Skill name="Bannerofstrength"/> and <Skill name="Bannerofdiscipline"/> | [Build](/builds/berserker) | 
 | `QFB`  | Quick Firebrand | `pfb`, `fb`  | <Specialization name="Firebrand" text="Power Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/> | [Build](/builds/firebrand) | 
-| `HFB`  | Heal Firebrand | `fb`  | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/>, Healer build| [Build](/builds/heal-firebrand) | 
+| `HB`  | Heal Firebrand | `fb`, `hfb`  | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/>, Healer build| [Build](/builds/heal-firebrand) | 
 | `CFB`  | Condi Firebrand | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS | [Build](/builds/condi-firebrand) | 
 | `Ren`  | Alacrity Renegade| `alac`, `rev`  | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilties | [Build](/builds/renegade) | 
 | `Slb`  | Soulbast | `dps` | <Specialization name="Soulbeast"/> as [meta](/guides/meta-explained) DPS | [Build](/builds/soulbeast) | 
@@ -116,6 +117,8 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 
 ## Current fractal META
 
+Although most groups in LFG don't follow the META it can be beneficial for you to understand how it works in theory to play your own build more efficiently. All the builds in the META have very specific key roles. It is important to fulfill your role to aid the best possible support to your team (also DPS classes support the team with CC and other unique buffs).
+
 Please consult the [meta-page](guides/meta-explained) for more information about the current fractal META.
 
 ---
@@ -128,7 +131,7 @@ You can use the chat command `/gg` within fractals to immediately kill your char
 
 If everyone in the party is dead at the same time, cooldowns will reset for all players. Therefore it is advised for the entire group to use `/gg` at certain key positions to reset long cooldowns, like between Siax (2nd boss) and Ensolyss (3rd boss) in 98CM. Never resurrect as long as another player is still alive. If another player tells you `/gg` he is probably doing a skip that you are unaware of or he wasn't ready for combat yet. Either way, do not waste time questioning it.
 
-Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization name="Druid"/>'s <Skill id="31869"/> and <Skill name="Reapers Shroud"/> for <Specialization name="Reaper"/> will fully recharge after the resurrection.
+Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization name="Druid"/>'s <Skill id="31869"/> and <Skill name="Reapers Shroud"/> for <Specialization name="Reaper"/> will fully recharge after the resurrection. Also the _Mistlock Singularities_ are resets once everyone in the party is dead.
 </GridItem>
 <GridItem sm="4">
 <Image src="./images/gg.jpg" caption="A dead player"/>
@@ -153,6 +156,7 @@ Do not use other combo fields than fire on the _Mistlock Singularity_! All combo
 </Message>
 </GridItem>
 </Grid>
+You can find out which skills are _Combo Fields_ and _Combo Finishers_ by hovering over the skill and reading the tooltip. Hover over the following skills: <Skill name="Ring of Fire"/> is a _Fire Field_ and <Skill name="Holy Strike"/> a _Blast Finisher_.  
 Below is a list of frequently used blast finishers among all professions. Note that it is often required to swap to different weapons, make sure to swap back before you enter combat.
 
 ### <Boon name="Might"/> stacking for groups using <Skill name="Moa Stance"/> from <Specialization name="Soulbeast"/>.
@@ -209,6 +213,14 @@ Be careful not to aggro mobs with blasts or you will get <Effect name="Revealed"
 
 ---
 
+## Line of Sight (LoS) and stacking
+
+In many Fractals the concept of "Line of Sight" can be applied to pack mobs together without using any skills that <Control name="Pull"/>. As soon as a player takes aggro of a mob it tries to attack the player. In doing so it needs to find a valid path. For enemies with melee weapons this means it will run right towards you, ranged enemies need a clear sight towards the player without obstruction. After taking aggro of a mob the player wants to move behind a wall so the mob loses Line of Sight and is forced to take the shortest path to the player. 
+
+Generally, you **always** want to stick together as a group. Reason being that boons and unique buffs won't reach players that are standing too far away. Since most classes deal high damage in melee the logical conclusion is to stack up, pull mobs together either with <Control name="Pull"/>s or Line of Sight and burst them down as quickly as possible. **Even if the amount of enemies seems dangerous at the first glance the most secure position on the map is in the center of the stack!**
+
+---
+
 ## Mistlock Instabilities
 
 Tier 4 fractals always have three Mistlock Instabilities active which add additional mechanics to the fights. The selection is random for each difficulty level and changes daily. More information can be found [in the official wiki](https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists).
@@ -240,8 +252,9 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 ## Key findings
 - Don't use your heal skill while under the effect of <Effect name="Agony"/>.
-- CC the boss first, then use your burst skills. 
-- Only use _Fire Fields_ on the _Mistlock Singularity_ 
+- CC the boss first, then use your burst skills. **Everyone has to contribute!**
+- Only use _Fire Fields_ on the _Mistlock Singularity_.
+- Always stack together, boons are shared in close proximity.
 - Don't be afraid to communicate with your team if you are new.
 
 
