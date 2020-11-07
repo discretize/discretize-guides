@@ -38,6 +38,15 @@ The fractal specific potions influence the way builds are designed. Each of them
 
 ---
 
+## Defiance bars 
+Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss by 50%. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally everyone in the team contributes to break the bar as it appears. 
+
+<Message>
+Read more about breaking CC bars here: [CC-distribution examples](/guides/cc-distribution)! 
+</Message>
+
+---
+ 
 ## Acquiring gear to counter <Effect name="Agony"/>
 For beginners, it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all 18 infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>.
 
@@ -101,6 +110,8 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 | `DoD` | Defier of Doubt | `title` | Requirement in LFG, earned by completing level 100 in challenge mode |  |
 | `DwD` | Dances with Demons | `title` | Requirement in LFG, earned by completing level 100 in challenge mode without someone dying.  || 
 | `kp` | Kill proof | `UCE` | <Item id="81743"/>: Requirement in LFG, cannot be earned any longer.   || 
+
+---
 
 ## Current fractal META
 
