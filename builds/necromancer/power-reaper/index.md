@@ -87,7 +87,7 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 | <Skill name="Wail of Doom" size="big" disableText/> | 200 with <Control name="Daze"/> (300 if traited) |
 | <Skill name="Charge" size="big" disableText/> | 200 with <Control name="Knockdown"/> and 232 with <Control name="Launch"/>| 
 | <Skill name="Terrify" size="big" disableText/> | 100 with <Condition name="Fear"/> |
-| <Skill name="Executioners Scythe" size="big" disableText/> | 150 with <Control name="Daze"/> |
+| <Skill name="Executioners Scythe" size="big" disableText/> | 150 with <Control name="Stun"/> |
 </Card>
 </GridItem>
 </Grid>
