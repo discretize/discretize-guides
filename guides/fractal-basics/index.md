@@ -25,6 +25,16 @@ Starting with tier 2 the heroes are encountering _Mistlock instabilities_ which 
 
 ---
 
+## Defiance bars 
+Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss by 50%. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally everyone in the team contributes to break the bar as it appears. 
+
+<Message>
+**Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**  
+Read more about breaking CC bars here: [CC-distribution examples](/guides/cc-distribution)! 
+</Message>
+
+---
+
 ## Differences between fractals and raids/strikes
 There are quite a few differences that set fractals apart from other PvE content in Guild Wars 2. Most prominently is the length of a single level: One level is usually completed in 5-10 minutes. The levels do not only contain bosses but also other encounters such as small puzzles or fighting mobs. Many levels can be sped up by thinking outside the box and using smart tricks. 
 
@@ -35,15 +45,6 @@ The fractal specific potions influence the way builds are designed. Each of them
 | <Item id="71659"/> | <Attribute name="Precision"/> | 243 <Attribute name="Precision"/> = 11.57% <Attribute name="Critical Chance"/> |
 | <Item id="76150"/> | <Attribute name="Toughness"/> | 243 <Attribute name="Toughness"/> |
 | <Item id="75427"/> | <Attribute name="Concentration"/> | 243 <Attribute name="Concentration"/> = 16.2% <Attribute name="Boon Duration"/> |
-
----
-
-## Defiance bars 
-Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss by 50%. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally everyone in the team contributes to break the bar as it appears. 
-
-<Message>
-Read more about breaking CC bars here: [CC-distribution examples](/guides/cc-distribution)! 
-</Message>
 
 ---
  
@@ -147,13 +148,12 @@ After maxing the fractal masteries to level 4 you get access to _Mistlock Singul
 
 The most common applications are <Boon name="Might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="Stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
-Below is a list of frequently used blast finishers among all professions. Note that it is often required to swap to different weapons, make sure to swap back before you enter combat.
+<Message>
+Do not use other combo fields than fire on the _Mistlock Singularity_! All combo fields but the _Fire Field_ are useless in terms of prebooning.
+</Message>
 </GridItem>
 </Grid>
-
-
-
----
+Below is a list of frequently used blast finishers among all professions. Note that it is often required to swap to different weapons, make sure to swap back before you enter combat.
 
 ### <Boon name="Might"/> stacking for groups using <Skill name="Moa Stance"/> from <Specialization name="Soulbeast"/>.
 - <Specialization name="Renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
@@ -161,10 +161,6 @@ Below is a list of frequently used blast finishers among all professions. Note t
 - <Specialization name="Berserker"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
 - <Specialization name="Weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
 - <Specialization name="Soulbeast"/>: Take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer, use <Skill id="12621"/> (Warhorn 5)
-
-
----
-
 
 ### Fire fields <Label><Boon name="Might"/> stacking</Label>
 
@@ -182,9 +178,6 @@ Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone 
 - <Specialization name="Firebrand"/>:
   - <Skill id="44364"/> Skill 4 (Chapter 4: Scorched Aftermath)
   - <Skill id="9253"/>
-
----
-
 
 <Grid>
 <GridItem sm="12" md="6">
@@ -243,6 +236,13 @@ Below is a list of all current instabilities and their possible countermeasures.
 | <Instability name="Sugar Rush"/> | Increases player movement speed and attack speed by 15%. Elite and lower enemies' movement speed and attack speed increases by 35%.      |
 | <Instability name="Toxic Sickness"/> | Players are occasionally affected by the toxic vomit attack out of the Nightmare Fractal. Every player gets a cone AoE in front of him, aiming at a party member will deal lethal damage. Proper stacking and positioning nullify this instability effectively.      |
 
+--- 
+
+## Key findings
+- Don't use your heal skill while under the effect of <Effect name="Agony"/>.
+- CC the boss first, then use your burst skills. 
+- Only use _Fire Fields_ on the _Mistlock Singularity_ 
+- Don't be afraid to communicate with your team if you are new.
 
 
 <Divider text="What now?"/>
