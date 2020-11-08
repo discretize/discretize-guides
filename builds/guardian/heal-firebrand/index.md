@@ -97,6 +97,7 @@ In case your team downs frequently and is unable to handle mechanics correctly, 
 <GridItem sm="12">
 <Card title="Skill Usage">
 Prestacking:
+- Drop a _Fire Field_ with <Skill name="44364"/> - Skill 4
 - Press <Skill name="Empower"/>
 - Press <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> each twice; press <Skill name="Feel My Wrath"/>
 - Take mistlock 
