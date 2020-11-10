@@ -57,7 +57,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Provides permanent <Boon name="Quickness"/>, on demand <Boon name="Aegis"/> and <Boon name="Resistance"/>.
 * Generates a fair share of <Boon name="Fury"/> by <Skill name="Feel my wrath"/> and the sword symbol <Skill name="Symbol of Blades"/>.
 * Contributes to CC with <Skill name="banesignet"/>, which is also a **unique damage buff** that increases the entire group's power by 216. 
-* The damage depends on the encounter. In 99CM <Specialization name="Guardian"/> or <Specialization name="Dragonhunter"/> can be played resulting in very high DPS; in 100CM as <Specialization name="Firebrand"/> 1/2 up to 3/4 of a DPS player. 
+* The damage depends on the encounter. In Nightmare <Specialization name="Guardian"/> or <Specialization name="Dragonhunter"/> can be played resulting in very high DPS; in Shattered Observatory as <Specialization name="Firebrand"/> 1/2 up to 3/4 of a DPS player. 
 * Provides instant <Condition name="Vulnerability"/> application with <Skill name="swordofjustice"/>, which helps immensely to kill adds quickly at Mama, Siax and Skorvald.
 * Has blinks available from skills such as <Skill name="symbol of blades"/>, <Skill name="judges intervention"/> and <Skill name="mercifulintervention"/>.
 * Can provide situational <Boon name="Stability"/> for T4s or Artsariiv using <Skill name="Stand your ground"/>.

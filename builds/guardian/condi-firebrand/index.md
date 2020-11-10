@@ -41,7 +41,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="majorbursting" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
 
 <Card title="Swap Weapons">
-* Greatsword for pulling adds in 99 CM.
+* Greatsword for pulling adds in Nightmare CM after MAMA.
 * A staff for <Boon name="Might"/> pre-stacking.
 </Card>
 </GridItem>
