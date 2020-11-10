@@ -4,6 +4,7 @@ date: '2020-09-29'
 image: './images/instabilities.jpg'
 description: 'A beginners guide to being successful in fractals.'
 hidden: 'false'
+author: 'Princeps.6581 and Mistlocked [FOTM]'
 ---
 
 ## Introduction to fractals
@@ -215,9 +216,17 @@ Be careful not to aggro mobs with blasts or you will get <Effect name="Revealed"
 
 ## Line of Sight (LoS) and stacking
 
+<Grid>
+<GridItem sm="12" md="6">
 In many Fractals the concept of "Line of Sight" can be applied to pack mobs together without using any skills that <Control name="Pull"/>. As soon as a player takes aggro of a mob it tries to attack the player. In doing so it needs to find a valid path. For enemies with melee weapons this means it will run right towards you, ranged enemies need a clear sight towards the player without obstruction. After taking aggro of a mob the player wants to move behind a wall so the mob loses Line of Sight and is forced to take the shortest path to the player. 
 
 Generally, you **always** want to stick together as a group. Reason being that boons and unique buffs won't reach players that are standing too far away. Since most classes deal high damage in melee the logical conclusion is to stack up, pull mobs together either with <Control name="Pull"/>s or Line of Sight and burst them down as quickly as possible. **Even if the amount of enemies seems dangerous at the first glance the most secure position on the map is in the center of the stack!**
+</GridItem>
+
+<GridItem>
+<GifPlayer caption="Pulling mobs by using Line of Sight" url="https://cdn.discordapp.com/attachments/637966976010027028/775683848733327360/lospull.webm"/>
+</GridItem>
+</Grid>
 
 ---
 
@@ -257,6 +266,17 @@ Below is a list of all current instabilities and their possible countermeasures.
 - Always stack together, boons are shared in close proximity.
 - Don't be afraid to communicate with your team if you are new.
 
+
+---
+
+## Trouble finding groups? 
+
+Mistlocked [FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!
+While Fractals are our main focus, we do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons!
+
+All information is available on their [discord](https://discord.gg/CE3TswT). 
+
+If you are one of those that seek to improve beyoned clearing fractals for the loot we highly encourage you to find a static via our `#looking-for-static` channel on [our discord](https://discord.com/invite/G3QDSv) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
 
 <Divider text="What now?"/>
 ### Continue reading the basics of fractals like group compositions and what is the meta for organized groups and PuGs [here](guides/meta-explained) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)
