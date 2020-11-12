@@ -4,7 +4,7 @@ date: '2020-09-29'
 image: './images/instabilities.jpg'
 description: 'A beginners guide to being successful in fractals.'
 hidden: 'false'
-author: 'Princeps.6581 and Mistlocked [FOTM]'
+author: 'Princeps.6481 and Mistlocked [FOTM]'
 ---
 
 ## Introduction to fractals
@@ -48,6 +48,16 @@ The fractal specific potions influence the way builds are designed. Each of them
 | <Item id="75427"/> | <Attribute name="Concentration"/> | 243 <Attribute name="Concentration"/> = 16.2% <Attribute name="Boon Duration"/> |
 
 ---
+
+## Fractal Masteries
+| Name | Points | Description |
+| -- | -- | -- |
+| Follows Advice | 1 | Unlocks daily rewards for fractals and additional vendors in the fractal lobby. | 
+| Agony Channeler | 2 | Allows attuning rings. Fractal potions grant 10% stat bonus (see above). | 
+| Recursive Resourcing | 3 | Increases the rewards by a large margin. Fractal potions now grant 25% stat bonus. | 
+| Mistlock Singularities | 5 | Unlockes _Mistlock Singularities_. Fractal potions now grant 30% stat bonus. | 
+
+---
  
 ## Acquiring gear to counter <Effect name="Agony"/>
 For beginners, it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all 18 infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>. In case you are tight on money you can also slot <Item id="49430"/> and upgrade them later by extracting them with <Item id ="76409"/>.
@@ -63,7 +73,8 @@ Optional: Level Chef to 400 (costs about 2.76g, check [gw2crafts.net](https://gw
 Homework: 
 - Start working towards the accessories that you can buy with guild commendations or - if you have a lot of spare laurels - buy them for laurels. Keep in mind you need 30 laurels later for crafting your ascended armor.
 - Save up relics to buy ascended rings (5 days of T1 fractal dailies are required)
-- Alternatively buy Living World Season 3 Episode 3: A Crack in the ice and farm <Item id="79899"/> for trinkets (or any other living story maps: Bloodstone fen).
+- Alternatively, buy Living World Season 3 Episode 3: A Crack in the ice and farm <Item id="79899"/> for trinkets (or any other living story maps: Bloodstone fen, Dragonfall). The fastest way is to farm both Bitterfrost Frontier and Dragonfall.
+- Craft <Item id="77482"/> or buy an aquivalent via laurels (if your build uses base game stats)
 
 ---
 
@@ -82,7 +93,7 @@ Homework:
 Acquire on your journey in T3: 
 - You need 5 more <Item id="49432"/> to fit the maximum requirement of 106 <Attribute name="Agony Resistance"/>. 
 - Suggestion: craft 4 ascended armor pieces and hope to get a <Item id="38024"/> to upgrade one of your rings to <Item id="75669" upgrades='49432,49432,49432'/>
-
+- Alternatively, do strike missions and open the weekly chest for a chance of recieving an ascended armor box.
 Homework: 
 - Start leveling the profession that can craft your desired weapons to 500. Use [gw2crafts.net](https://gw2crafts.net) for the cheapest leveling.
 
@@ -92,8 +103,9 @@ Homework:
 Wrapping up: 
 1) Finish your ascended armor
 2) Infuse your remaining ring(s)
-3) Craft ascended weapons 
+3) Craft ascended weapons (easy way: [Caladbolg](https://wiki.guildwars2.com/wiki/Caladbolg_weapons) alternatively profession weapons from Path of Fire)
 4) Infuse your backpack
+5) Upgrade - if necessary - <Item id="49430"/> to <Item id="49432"/>
 
 Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistance"/> and match the gear in our [builds](/builds) page.
 
@@ -271,10 +283,17 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 ## Trouble finding groups? 
 
-Mistlocked [FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!
-While Fractals are our main focus, we do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons!
+<Grid>
+<GridItem sm="1" md="1">
+<Image src="images/mistlocked.png" caption="[FotM]" />
+</GridItem>
+<GridItem sm="11" md="11">
+Mistlocked [FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!  
+While Fractals are their main focus, they do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons!
 
 All information is available on their [discord](https://discord.gg/CE3TswT). 
+</GridItem>
+</Grid>
 
 If you are one of those that seek to improve beyoned clearing fractals for the loot we highly encourage you to find a static via our `#looking-for-static` channel on [our discord](https://discord.com/invite/G3QDSv) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
 
