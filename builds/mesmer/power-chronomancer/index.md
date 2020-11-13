@@ -15,7 +15,7 @@ author: 'Discord: Tipcat#0698'
 classification: [2, 4, 4, 3, 4]
 ---
 
-The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long rampup times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient. 
+The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long rampup times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring it's own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient. 
 
 To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to __adapt__ your rotation on the go and push the limits of your class, but even then you will probably be a hinderance for your group.
 
@@ -106,7 +106,7 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 | <Skill name="Well of Precognition" disableText size="big"/> | Situational uses such as the Underground Facility door. |
 | <Skill name="Mirage Thrust" disableText size="big"/> | 600 range leap, can be cancelled mid-air for slightly more range. |
 | <Skill name="Jaunt" disableText size="big"/> | 450 range blink, 3 charges.|
-| <Skill name="Illusionary Ambush" disableText size="big"/> | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.|
+| <Skill name="Illusionary Ambush" disableText size="big"/> | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of it's random nature but allows for some skips.|
 
 
 </Card>
