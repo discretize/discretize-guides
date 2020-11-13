@@ -4,7 +4,8 @@ build: 'Heal-Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
 date: '2020-09-29'
-disableOrganized: 'true'
+disableOrganized: 'false'
+altText: 'true'
 ---
 
 <Boss name="mama" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2Id="9125" utility3Id="9093" eliteId="43357" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125" >
