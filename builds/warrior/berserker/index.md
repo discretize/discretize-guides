@@ -133,7 +133,7 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 <GridItem sm="7">
 <Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint, Doubled Standards, Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct, Blood Reaction, Bloody Roar"/>
 <Card title="Maximizing berserk uptime">
-For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. Two such examples can be seen below for the first two bosses of 99CM:
+For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. Two such examples can be seen below for the first two bosses of the Nightmare CM fractal:
 ### **Mama**
 <Skills unembossed healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343"/>
 
@@ -154,7 +154,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 | <Skill name="Signet of might" disableText size="big"/> | Flat 180 power buff. Only take this when no other utility is needed.|
 | <Skill name="Battle Standard" disableText size="big"/> | For Arkk and Artsariiv. |
 | <Skill name="banneroftactics" disableText size="big"/> | Can be precasted at encounters. |
-| <Skill name="onmymark" disableText size="big"/> | Can be used to pull Krait from the side altars at 99CM. |
+| <Skill name="onmymark" disableText size="big"/> | Can be used to pull Krait from the side altars at the Nightmare CM fractal. |
 | <Skill name="featherfootgrace" disableText size="big"/> | Grants <Effect name="Superspeed"/> for skips. |
 | <Skill name="frenzy" disableText size="big"/> | Self <Boon name="Quickness"/> for precasting banners. |
 | <Skill name="bloodreckoning" disableText size="big"/> | For double <Skill name="arcdivider"/> or the situational <Specialization name="Berserker"/> build. |
