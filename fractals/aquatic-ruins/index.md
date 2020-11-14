@@ -15,12 +15,7 @@ record:
   }
 cycle: 'Day'
 potions: [{ id: 50082, description: 'only for the Krait at the beginning' }]
-sigils:
-  [
-    { id: 24658, description: 'only for the Krait at the beginning' },
-    { id: 24615 },
-    { id: 24868 },
-  ]
+sigils: [{ id: 24658, description},{ id: 24615 }]
 consumables: [78978]
 ---
 
