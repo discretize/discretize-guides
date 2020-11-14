@@ -3,7 +3,7 @@ title: 'Heal Firebrand CM guides'
 build: 'Heal-Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
-date: '2020-09-29'
+date: '2020-11-14'
 disableOrganized: 'false'
 altText: 'true'
 ---

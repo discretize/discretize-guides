@@ -1,6 +1,6 @@
 ﻿---
 title: 'Firebrand'
-date: '2020-09-29'
+date: '2020-11-14'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Guardian'

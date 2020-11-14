@@ -1,6 +1,6 @@
 ---
 title: 'Power Holosmith'
-date: '2020-09-29'
+date: '2020-11-14'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Engineer'

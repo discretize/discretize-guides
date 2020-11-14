@@ -3,7 +3,7 @@ title: 'Berserker CM guides'
 build: 'Berserker'
 profession: 'Warrior'
 specialization: 'Berserker'
-date: '2020-09-29'
+date: '2020-11-14'
 author: 'Princeps.6481'
 disableOrganized: 'false'
 ---

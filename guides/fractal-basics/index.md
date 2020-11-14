@@ -1,6 +1,6 @@
 ---
 title: 'Fractal Basics'
-date: '2020-09-29'
+date: '2020-11-14'
 image: './images/instabilities.jpg'
 description: 'A beginners guide to being successful in fractals.'
 hidden: 'false'
