@@ -3,7 +3,7 @@ title: 'Reaper CM guides'
 build: 'Power-Reaper'
 profession: 'Necromancer'
 specialization: 'Reaper'
-date: '2020-09-29'
+date: '2020-11-14'
 author: 'Discord: Jes#6596'
 disableOrganized: 'true'
 ---

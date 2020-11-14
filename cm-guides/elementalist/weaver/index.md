@@ -3,7 +3,7 @@ title: 'Weaver CM guides'
 build: 'Weaver'
 profession: 'Elementalist'
 specialization: 'Weaver'
-date: '2020-09-29'
+date: '2020-11-14'
 author: 'KalzeN.8709'
 disableOrganized: 'false'
 ---
