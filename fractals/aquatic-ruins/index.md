@@ -19,7 +19,6 @@ sigils:
   [
     { id: 24658, description: 'only for the Krait at the beginning' },
     { id: 24615 },
-    { id: 24868 },
   ]
 consumables: [78978]
 ---
