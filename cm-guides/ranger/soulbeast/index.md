@@ -3,7 +3,7 @@ title: 'Soulbeast CM guides'
 build: 'Soulbeast'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-date: '2020-07-30'
+date: '2020-11-14'
 disableOrganized: 'false'
 ---
 
