@@ -4,7 +4,7 @@ date: '2020-11-14'
 image: './images/instabilities.jpg'
 description: 'A beginners guide to being successful in fractals.'
 hidden: 'false'
-author: 'Princeps.6481 and Mistlocked [FOTM]'
+author: 'Princeps.6481 and Mistlocked [FotM]'
 ---
 
 ## Introduction to fractals
@@ -94,6 +94,7 @@ Acquire on your journey in T3:
 - You need 5 more <Item id="49432"/> to fit the maximum requirement of 106 <Attribute name="Agony Resistance"/>. 
 - Suggestion: craft 4 ascended armor pieces and hope to get a <Item id="38024"/> to upgrade one of your rings to <Item id="75669" upgrades='49432,49432,49432'/>
 - Alternatively, do strike missions and open the weekly chest for a chance of recieving an ascended armor box.
+
 Homework: 
 - Start leveling the profession that can craft your desired weapons to 500. Use [gw2crafts.net](https://gw2crafts.net) for the cheapest leveling.
 
@@ -174,7 +175,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
 
 ### <Boon name="Might"/> stacking for groups using <Skill name="Moa Stance"/> from <Specialization name="Soulbeast"/>.
 - <Specialization name="Renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
-- <Specialization name="Firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5) and <Skill name="Mighty Blow"/> (Hammer 2)
+- <Specialization name="Firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5), <Skill name="Holy Strike"/> (Staff 2) and <Skill name="Mighty Blow"/> (Hammer 2)
 - <Specialization name="Berserker"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
 - <Specialization name="Weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
 - <Specialization name="Soulbeast"/>: Take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer, use <Skill id="12621"/> (Warhorn 5)
@@ -295,7 +296,7 @@ All information is available on their [discord](https://discord.gg/CE3TswT).
 </GridItem>
 </Grid>
 
-If you are one of those that seek to improve beyoned clearing fractals for the loot we highly encourage you to find a static via our `#looking-for-static` channel on [our discord](https://discord.com/invite/G3QDSv) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
+If you are one of those that seek to improve beyond clearing fractals for the loot we highly encourage you to find a static via our `#looking-for-static` channel on [our discord](https://discord.com/invite/G3QDSv) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
 
 <Divider text="What now?"/>
 ### Continue reading the basics of fractals like group compositions and what is the meta for organized groups and PuGs [here](guides/meta-explained) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)
