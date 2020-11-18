@@ -348,8 +348,6 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
 	1) Spam <Skill name="Gravedigger"/> (GS 2)
 ### *Split Phase 2*
 
-As of now there is no second CC phase!
-
 1) Go to your marker/direction
 2) CC the add
 
