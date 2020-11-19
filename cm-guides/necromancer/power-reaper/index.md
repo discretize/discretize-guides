@@ -325,7 +325,9 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
     1) <Skill name="Gravedigger"/> (GS 2)                         
     2) <Skill name="Death Spiral"/> (GS 3)
     3) Auto Attacks
+    
 ### *Split Phase 1*
+
 1) Go to your marker/direction
 2) CC the add with <Skill name="Grasping Darkness"/> (GS5), <Skill name="Wail of Doom"/> (Warhorn 4) and <Skill name="Executioners Scythe"/> (Shroud 5)
 
@@ -349,7 +351,7 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
 ### *Split Phase 2*
 
 1) Go to your marker/direction
-2) CC the add
+2) CC the adds
 
 ### **Phase 3**
 1) <Skill name="Gravedigger"/> (GS 2)
