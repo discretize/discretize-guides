@@ -120,7 +120,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 | `HB`  | Heal Firebrand | `fb`, `hfb`  | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/>, Healer build| [Build](/builds/heal-firebrand) | 
 | `CFB`  | Condi Firebrand | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS | [Build](/builds/condi-firebrand) | 
 | `Ren`  | Alacrity Renegade| `alac`, `rev`  | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilties | [Build](/builds/renegade) | 
-| `Slb`  | Soulbast | `dps` | <Specialization name="Soulbeast"/> as [meta](/guides/meta-explained) DPS | [Build](/builds/soulbeast) | 
+| `Slb`  | Soulbeast | `dps` | <Specialization name="Soulbeast"/> as [meta](/guides/meta-explained) DPS | [Build](/builds/soulbeast) | 
 | `Wea`  | Weaver | `dps`, `ele` | <Specialization name="Weaver"/> as  [meta](/guides/meta-explained) DPS | [Build](/builds/weaver) | 
 | `DH`  | Dragonhunter | `dps` | <Specialization name="Dragonhunter"/> as offmeta DPS | [Build](/builds/power-dragonhunter) | 
 | `DoD` | Defier of Doubt | `title` | Requirement in LFG, earned by completing level 100 in challenge mode |  |
