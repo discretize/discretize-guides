@@ -31,7 +31,7 @@ Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd C
 
 <Message>
 **Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**  
-Read more about breaking CC bars here: [CC-distribution examples](/guides/cc-distribution)! 
+Read more about breaking Defiance bars here: [CC-distribution examples](/guides/cc-distribution)! 
 </Message>
 
 ---
@@ -145,7 +145,7 @@ You can use the chat command `/gg` within fractals to immediately kill your char
 
 If everyone in the party is dead at the same time, cooldowns will reset for all players. Therefore it is advised for the entire group to use `/gg` at certain key positions to reset long cooldowns, like between Siax (2nd boss) and Ensolyss (3rd boss) in Nightmare CM. Never resurrect as long as another player is still alive. If another player tells you `/gg` he is probably doing a skip that you are unaware of or he wasn't ready for combat yet. Either way, do not waste time questioning it.
 
-Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization name="Druid"/>'s <Skill id="31869"/> and <Skill name="Reapers Shroud"/> for <Specialization name="Reaper"/> will fully recharge after the resurrection. Also the _Mistlock Singularities_ are resets once everyone in the party is dead.
+Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization name="Druid"/>'s <Skill id="31869"/> and <Skill name="Reapers Shroud"/> for <Specialization name="Reaper"/> will fully recharge after the resurrection. Also the _Mistlock Singularity_ resets once everyone in the party is dead.
 </GridItem>
 <GridItem sm="4">
 <Image src="./images/gg.jpg" caption="A dead player"/>
