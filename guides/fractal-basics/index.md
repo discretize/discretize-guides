@@ -55,7 +55,7 @@ The fractal specific potions influence the way builds are designed. Each of them
 | Follows Advice | 1 | Unlocks daily rewards for fractals and additional vendors in the fractal lobby. | 
 | Agony Channeler | 2 | Allows attuning rings. Fractal potions grant 10% stat bonus (see above). | 
 | Recursive Resourcing | 3 | Increases the rewards by a large margin. Fractal potions now grant 25% stat bonus. | 
-| Mistlock Singularities | 5 | Unlockes _Mistlock Singularities_. Fractal potions now grant 30% stat bonus. | 
+| Mistlock Singularities | 5 | Unlocks _Mistlock Singularities_. Fractal potions now grant 30% stat bonus. | 
 
 ---
  
