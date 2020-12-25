@@ -52,7 +52,7 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 </GridItem>
 </Grid>
 
-## Challenge Mode CC distribution
+## Challenge Mode CC distributions
 <Tabs>
 
 <Tab title="Mama">
@@ -78,9 +78,10 @@ At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss ha
 The bigger bar in the second and third phase means that the <Specialization name="Berserker"/>  needs to do an extra <Skill name="pommelbash"/> and that the weaver needs to do an extra <Skill name="polaricleap"/>.
 
 <Image src="./images/enso_2.png" caption="Ensolyss Phase 2 and 3 CC distribution"/>
-
 </Tab>
+</Tabs>
 
+<Tabs>
 <Tab title="Skorvald">
 <Divider text="Skorvald"/>
 At 2200 Skorvald the Shattered has one of the largest defiance bars out of all the Challenge Mode fractal bosses, meaning that the whole group needs to contribute to break it quickly. 
