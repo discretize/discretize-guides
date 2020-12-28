@@ -162,7 +162,7 @@ If both of these requirements then you can swap Marksmanship for Skirmishing wit
 | <Skill name="Moa Stance" size="big" disableText/> | Allows all boons that are applied during its uptime to last longer, great for prestacking. |
 | <Skill name="Quickening Zephyr" size="big" disableText/> | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>. |
 | <Skill name="Dolyak Stance" size="big" disableText/> | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles). |
-| <Skill name="sharpeningstone" size="big" disableText/> | Can be used before mistlock precast for and swapped with a usual utility for some extra opener DPS. |
+| <Skill name="sharpeningstone" size="big" disableText/> | Can be used before _Mistlock Singularity_ precast for and swapped with a usual utility for some extra opener DPS. |
 | <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai Trin and Artsariiv. |
 | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. |
 </Card>
@@ -254,16 +254,16 @@ For that reason you can find a video below with openers for each of the CM bosse
 </GridItem>
 <GridItem sm="6">
 <Card title="Precasting">
-If you have a Mistlock Singularity present you can use this rotation
+If you have a _Mistlock Singularity_ present you can use this rotation
 1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
 2. <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
 3. `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
 4. <Skill id="12621"/> to blast might.
 5. <Skill id="31914"/> to extend your boons.
 6. Pick up <Skill id="5516"/> if there is one.
-7. <Skill name="One Wolf Pack"/> then take the Mistlock and trigger the boss.
+7. <Skill name="One Wolf Pack"/> then take the _Mistlock Singularity_ and trigger the boss.
 
-If you don't have Mistlock Singularity present you can use this simplified rotation:
+If you don't have _Mistlock Singularity_ present you can use this simplified rotation:
 1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
 2. <Skill id="12621"/> to blast might.
 3. <Skill id="31914"/> to extend your boons.
