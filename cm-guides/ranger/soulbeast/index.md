@@ -30,7 +30,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
 - Use  <Skill name="Moa Stance"/> to grant your team free extra boon duration.
 - Summon <Skill name="Frost Spirit"/> and use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>.
-- <Skill name="One Wolf Pack"/> then take Mistlock, use <Skill name="Call of the Wild"/> again and swap to Longbow.
+- <Skill name="One Wolf Pack"/> then take _Mistlock Singularity_, use <Skill name="Call of the Wild"/> again and swap to Longbow.
 - As you run in cast <Skill name="One Wolf Pack"/> (for the second time) and swap traits to <Trait name="Oppressive Superiority"/>.
 - Call <Skill name="Frost Spirit"/> to you using <Skill name="Cold Snap"/>, and cast <Skill name="Barrage"/> as MAMA Spawns.
 
@@ -98,7 +98,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - Use  <Skill name="Moa Stance"/> to grant your team free extra boon duration.
 - Summon <Skill name="Frost Spirit"/> and use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>.
 - Swap to longbow then pick up <Skill id="5516"/> if there is one.
-- <Skill name="One Wolf Pack"/> then take Mistlock and run or portal to the boss.
+- <Skill name="One Wolf Pack"/> then take _Mistlock Singularity_ and run or portal to the boss.
 - As you run in cast <Skill name="One Wolf Pack"/> (for the second time) and swap traits to <Trait name="Oppressive Superiority"/>.
 - Call <Skill name="Frost Spirit"/> to you using <Skill name="Cold Snap"/>, and cast (<Skill id="5531"/> followed by) <Skill name="Barrage"/> as MAMA Spawns.
 
@@ -177,7 +177,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - Precast <Skill name="Frost Trap"/> before the fight starts.
 - Use <Skill name="Moa Stance"/>.
 - Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, then use <Skill name="One Wolf Pack"/>.
-- Take Mistlock and swap to Longbow.
+- Take _Mistlock Singularity_ and swap to Longbow.
 - Summon <Skill name="Frost spirit"/>.
 - Cast <Skill name="Barrage"/> and swap to Greatsword as the yellow cast bar appears.
 
@@ -228,10 +228,10 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 ### **Precast**
 
 - Precast <Skill name="Frost Trap"/> and a <Item id="78978"/> entrance on the boss orb before the fight starts.
-- Run back to mistlock
+- Run back to _Mistlock Singularity_
 - Use <Skill name="Moa Stance"/>.
 - Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, then swap to Longbow.
-- Pick up <Skill id="5516"/> if there is one, then use <Skill name="One Wolf Pack"/> and take the Mistlock.
+- Pick up <Skill id="5516"/> if there is one, then use <Skill name="One Wolf Pack"/> and take the _Mistlock Singularity_.
 
 ### **1st Phase**
 
@@ -292,7 +292,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 - Use  <Skill name="Moa Stance"/> to grant your team free extra boon duration.
 - If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-- <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, <Skill name="One Wolf Pack"/> then take mistlock and <Skill name="Call of the Wild"/> again.
+- <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, <Skill name="One Wolf Pack"/> then take _Mistlock Singularity_ and <Skill name="Call of the Wild"/> again.
 - Swap to Longbow and take the portal the the platform.
 - As you are about to spawn Ensolyss summon <Skill name='Frost spirit'/>.
 
@@ -344,10 +344,10 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 </Boss>
 ### **Precast**
 
-- Precast a <Skill name="Frosttrap"/> on the boss orb then gg and precast at the mistlock.
+- Precast a <Skill name="Frosttrap"/> on the boss orb then gg and precast at the _Mistlock Singularity_.
 - Use  <Skill name="Moa Stance"/> to grant your team free extra boon duration.
 - If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-- <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, <Skill name="One Wolf Pack"/> then take mistlock and <Skill name="One Wolf Pack"/> again.
+- <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, <Skill name="One Wolf Pack"/> then take _Mistlock Singularity_ and <Skill name="One Wolf Pack"/> again.
 - Swap to Longbow and take the portal the the platform.
 - As you are about to spawn Ensolyss summon <Skill name='Frost spirit'/>.
 
@@ -409,7 +409,7 @@ Spirit Management:
 ### **Precast**
 - When you are activating the Boss Challenge Mote run down to the boss platform and precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Then /gg and wait up by the Mote until you are ready to precast.
 - Use <Skill name="Moa Stance"/>.
-- <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, <Skill name="One Wolf Pack"/> then take mistlock and <Skill name="Call of the Wild"/> again.
+- <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, <Skill name="One Wolf Pack"/> then take _Mistlock Singularity_ and <Skill name="Call of the Wild"/> again.
 - Swap to Longbow and run to the platform. As you run summon your <Skill name="Frost Spirit"/>.
 - Cast <Skill name="Barrage"/>.
 
@@ -463,7 +463,7 @@ Spirit Management:
 ### **Pre-casting**
 - When you are activating the Boss Challenge Mote run down to the boss platform and precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Then /gg and wait up by the Mote until you are ready to precast.
 - When you are ready to precast summon your <Skill name="Frostspirit"/> next to the Mote then run down and begin precasting with your party. Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the _Mistlock Singularity_.
 - Use <Skill id="5697"/> (Fiery Greatsword skill 3) to get down to the platform, teleport your <Skill name="Frostspirit"/> down to the platform then precast <Skill id="5531"/>, <Skill name="Barrage"/> and swap to sword/axe.
 
 ### **100%-66%**
@@ -519,7 +519,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 - Drop down to the boss platform and precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. Then /gg and wait up by the Singularity until you are ready to precast.
 - Use <Skill name="Moa Stance"/>.
-- <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, <Skill name="One Wolf Pack"/> then take mistlock and <Skill name="Call of the Wild"/> again.
+- <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, <Skill name="One Wolf Pack"/> then take _Mistlock Singularity_ and <Skill name="Call of the Wild"/> again.
 - Summon <Skill name="Frost SPirit"/> in the middle of the platform (Ideally so it wont get hit by Artsariivs lasers).
 - Start the fight as soon as you can and cast <Skill name="Barrage"/>
 
@@ -581,9 +581,9 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 ### **Precast**
 
-- Precast <Skill id="12492"/> between two Artsariiv clones in the northwest from her and go back to mistlock.
+- Precast <Skill id="12492"/> between two Artsariiv clones in the northwest from her and go back to _Mistlock Singularity_.
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the _Mistlock Singularity_ and go through the <Item id="78978"/> portal.
 
 ### **100%-66% in mid**
 
@@ -637,7 +637,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 ### **Precast**
 
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and run and <SpecialActionKey name="hypernovalaunch"/> over to the boss platform.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the _Mistlock Singularity_ and run and <SpecialActionKey name="hypernovalaunch"/> over to the boss platform.
 
 ### **100% in mid**
 
@@ -694,10 +694,10 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 ### **Precast**
 
-- Place a portal next to the mistlock and use <SpecialActionKey name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss. After that wait for anybody else who is precasting skills and open the portal.
+- Place a portal next to the _Mistlock Singularity_ and use <SpecialActionKey name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss. After that wait for anybody else who is precasting skills and open the portal.
 - Use <Skill name="Moa Stance"/>.
 - Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, then use <Skill name="One Wolf Pack"/>.
-- Take Mistlock and swap to Longbow.
+- Take _Mistlock Singularity_ and swap to Longbow.
 - Precast <Skill name="Barrage"/> before the boss is activated.
 
 ### **1st Phase (100%-80%)**
@@ -796,9 +796,9 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 ### **Precast**
 
-- Place a portal next to the mistlock and use <SpecialActionKey name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
+- Place a portal next to the _Mistlock Singularity_ and use <SpecialActionKey name="hypernovalaunch"/> over to the boss platform, precast <Skill name="Frosttrap"/> on the boss like a <Specialization name="Dragonhunter"/> in disguise. After that wait for your <Specialization text="Banner Berserker" name="berserker"/> to start casting their last banner, summon your <Skill name="Frost spirit"/> and open the portal.
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
-- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the mistlock and go through the <Item id="78978"/> portal.
+- Pick up the <Skill id="5516"/> from your <Specialization name="Weaver"/>, then share <Skill name="One wolf pack"/> and finally take the _Mistlock Singularity_ and go through the <Item id="78978"/> portal.
 - Precast <Skill id="5531"/> and <Skill name="Barrage"/> before the boss is activated.
 
 ### **1st Phase (100%-80%)**
