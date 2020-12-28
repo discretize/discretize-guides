@@ -224,7 +224,7 @@ When there are a lot of adds around and you have to time to hit both burst skill
 
 <GridItem xs="12" sm="12">
 <Card title="Precasting">
-If a Mistlock Singularity is present you should precast boons and particular effects for better group performance.
+If a _Mistlock Singularity_ is present you should precast boons and particular effects for better group performance.
 
 There are two possible ways to precast boons as <Specialization name="elementalist"/>.
 
@@ -233,7 +233,7 @@ There are two possible ways to precast boons as <Specialization name="elementali
 - Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
 - Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
 - Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>. 
-- Take the mistlock.
+- Take the _Mistlock Singularity_.
 
 It is recommended to use separate precast build to get additional buffs like <Trait name="Elemental Surge"/> for openers and more boons from them.
 
@@ -246,8 +246,8 @@ Weaver precasting build template:
 - Start on <Skill id="5495"/> with your warhorn/staff tempest precast template and cast <Skill id="29453"/> just when you get <Boon name="Quickness"/> from any source ( the best if fire field is actually placed for might blast ).
 - Swap to  <Skill id="5492"/> and use <Skill id="29548"/> and cast <Skill id="21656"/> and weapon swap to staff.
 - Precast <Skill id="5506"/> and <Skill id="5635"/> while in <Skill id="5492"/>
-- Precast <Skill id="5516"/>, take the mistlock and swap your template to weaver. Attune to  <Skill id="5494"/>/<Skill id="5492"/>. 
-- Take the mistlock
+- Precast <Skill id="5516"/>, take the _Mistlock Singularity_ and swap your template to weaver. Attune to  <Skill id="5494"/>/<Skill id="5492"/>. 
+- Take the _Mistlock Singularity_
 - **NOTE:** When using this precast it is recommended that one party member will bring the fire field. Otherwise use <Skill name="Wildfire"/> before using <Skill id="29548"/>.
 
 Tempest precasting build template:
@@ -259,7 +259,7 @@ Tempest precasting build template:
 - If you have spare time before the encounter becomes active
    - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
    - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
-- When there is an available mistlock but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself. 
+- When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself. 
 </Card>
 
 </GridItem>
