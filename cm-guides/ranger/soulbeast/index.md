@@ -302,7 +302,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - Use <Skill name="Rapid Fire"/> and <Skill id="41524"/>, move into the bubble as it spawns.
 - Cast <Skill name='Barrage'/> and towards the end of the cast use <Skill name="Sic Em"/>.
 - When the bar reappears after the bubble use a CC skills to help break it.
-- Once its broken burst with <Skill name="One Wolf Pack"/>, <Skill name="Rapid Fire"/>, cancel it half way through and use <Skill name="Worldly Impact"/>, weapon swap, <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
+- Once it's broken burst with <Skill name="One Wolf Pack"/>, <Skill name="Rapid Fire"/>, cancel it half way through and use <Skill name="Worldly Impact"/>, weapon swap, <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
 - Autoattack until your <Skill name="Path of Scars"/> is off cool down again and then weapons swap and use <Skill name="Rapid Fire"/>.
 - At this point Ensolyss should dash so cast <Skill name='Barrage'/> mid and then continue with your normal rotation until Ensolyss phases.
 
