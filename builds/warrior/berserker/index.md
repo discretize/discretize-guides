@@ -103,7 +103,7 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 <Card title="You need...">
 - All fractal augmentations.
 - <Item id="70596"/>.
-- Mistlock singularity.
+- _Mistlock Singularity_.
 - 10x <Item id="37131"/>.
 - 1x <Item id="49439"/>.
 - 7x <Item id="49438"/>.
