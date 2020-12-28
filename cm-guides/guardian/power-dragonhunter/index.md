@@ -22,7 +22,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 - Use <Skill name="Empower"/> to help with <Boon name="Might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
 - Use <Skill name="Feelmywrath"/>.
 - You can use <Skill name="hallowed ground"/> for fire field and/or <Skill name="standyourground"/>.
-- Take the mistlock.
+- Take the _Mistlock Singularity_.
  
 ### **Synopsis**
 - Start on Scepter/Sword.
@@ -49,7 +49,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 ### **Precast**
 - Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
 - Use <Skill name="Empower"/> to help with <Boon name="Might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
-- Take the mistlock.
+- Take the _Mistlock Singularity_.
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
 
 ### **100%-66%**
