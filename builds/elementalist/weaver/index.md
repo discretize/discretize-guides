@@ -22,6 +22,31 @@ Unfortunately this build is pretty squishy and besides the healing skill does no
 
 Also this build depends pretty much on supports and boon uptimes, as it cant provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
+### **Nightmare Challenge Mode PuG videos** 
+<Grid>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="KlTuxWA9uKE"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="hknhxXkDSO8"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="dAn5Uy0--hc"/> 
+</GridItem>
+</Grid>
+### **Shattered Observatory Challenge Mode organized group videos**
+<Grid>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="RoixkWVPAaU"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="FErf2jfVRRM"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="9pMxn4HtUyI"/> 
+</GridItem>
+</Grid>
+
 <Divider text="Equipment without weakness"/>
 
 <Tabs outlined>
