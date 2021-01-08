@@ -242,16 +242,19 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <GridItem xs="12" sm="6">
 <Card title="Precasting">
-- Precast banners - encounter specific. Check out the cm-guides!
-- Use both charges of <Skill name="For Great Justice!"/>.
-- If a fire field isn’t present, equip an offhand torch and use <Skill name="Flames of War"/>.
-- If you haven’t needed to precast your banners at the boss, use them to blast the fire field for 6 stacks of <Boon name="Might"/> per banner.
-- Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand warhorn to blast four times using the _Mistlock Singularity_.
-- Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
-- If there is a defiance bar present immediately at the start of the fight, start on your Mace/Mace set - otherwise swap to it when necessary.
-- With <Item name="Paralyzation" type="Sigil"/> you can deal 820 defiance bar damage with:
+- Stack <Boon name="Might"/>:
+    - Use both charges of <Skill name="For Great Justice!"/>.
+    - Drop a fire field with <Skill name="Flames of War"/>.
+    - (if available) blast with banners for a total of 6 stacks of <Boon name="Might"/>
+    - Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand warhorn.
+- Precast damage skills: 
+    - (optional) <Skill name="Flames of War"/>
+    - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
+    - Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
+- If there is a defiance bar present immediately at the start of the fight, start on your Mace set - otherwise swap to it when necessary.
+- With <Item name="Paralyzation" type="Sigil"/> you can deal 690 defiance bar damage with:
   - <Skill name="Tremor"/>, you can precast it and cancel the aftercast animation.
-  - <Skill name="Pommel Bash"/> + <Skill name="Headbutt"/>.
+  - <Skill name="Headbutt"/> with <Item name="Paralyzation" type="Sigil"/> for a total of 390 CC.
 </Card>
 </GridItem>
 
