@@ -72,7 +72,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 <ConditionalComponent condition="static">
 
 <Boss name="mama" video="uIkrq7fPIhg" videoCreator="Rubby" foodId="43360" utilityId="50082" heal="bloodreckoning" utility1Id="29941" utility2="outrage" utility3="bullscharge" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131" >
-- Change <Skill name="bullscharge"/> to <Skill name="throwbolas"/> if you dont need the additional CC
+- Change <Skill name="bullscharge"/> to <Skill name="throwbolas"/> if you don't need the additional CC
 - Play <Trait name="Smashbrawler"/>!
 <Message>
 This guide assumes you kill MAMA in less about 45 seconds (p1 break). The CC-distribution greatly changes depending on the speed the party is going. 
@@ -103,7 +103,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 ### **2nd Phase**
 
-- <Skill name="outrage"/> as soon as its off cd.
+- <Skill name="outrage"/> as soon as it's off cd.
 - Normal rotation according to the guide. Take advantage off the invisible hitbox to get more decapitates in. 
 
 ### _2nd Add_
@@ -381,7 +381,7 @@ The rest of the fight follows accordingly.
 
 ### **100%-66% in mid**
 
-- Precast banners before taking the mistlock.
+- Precast banners before taking the _Mistlock Singularity_.
 - Use <Skill name="mending"/> just before the fight starts.
 - Use <Skill name="signetoffury"/> as soon as she looses <Effect name="invulnerability"/> and use <Skill name="berserk"/>.
 - Cast <Skill name="whirlingaxe"/> and walk through the boss.
@@ -427,7 +427,7 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
 
 ### **Prestacking**
 
-- Drop a <Item name="whitemantleportaldevice"/> near the mistlock and jump over to Arkk's platform using the <SpecialActionKey name="hypernovalaunch"/>.
+- Drop a <Item name="whitemantleportaldevice"/> near the _Mistlock Singularity_ and jump over to Arkk's platform using the <SpecialActionKey name="hypernovalaunch"/>.
 - Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>, <Skill name="Banner of Tactics"/> and <Skill name="battlestandard"/>.
 - Take the portal back.
 - Drop a fire field with <Skill name="Flames of war"/>.
@@ -436,7 +436,7 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
 - Shortly before somebody triggers the encounter:
   - Precast <Skill name="Flames of war"/> for DPS then swap back to mace.
   - Precast <Skill name="Mending"/>.
-  - Take the mistlock to start the fight with maximum adrenaline.
+  - Take the _Mistlock Singularity_ to start the fight with maximum adrenaline.
 </ConditionalComponent>
 
 ### **1st Phase (100%-80%)**

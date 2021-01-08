@@ -203,14 +203,14 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <GridItem xs="12" sm="6">
 <Card title="Precasting">
-If you have a Mistlock Singularity present you can use these skills for precasts:
+If you have a _Mistlock Singularity_ present you can use these skills for precasts:
 1) Cast <Skill name="tome of justice"/> skill 4 and 5
 2) Blast the fire field by casting <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4) Use <Skill name="Stand your ground"/>
 5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
-7) Take mistlock
+7) Take _Mistlock Singularity_
 8) Use <Skill name="Feelmywrath"/> 
 
 </Card>

@@ -130,10 +130,9 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 
 ---
 
-## Final room (Frizz) <Item id="8887" disableText/><Item id="24672" disableText/>
-
 <Grid>
 <GridItem>
+## Final room (Frizz) <Item id="8887" disableText/><Item id="24672" disableText/>
 Talk to *Inspector Ellen Kiel* to teleport your party into the final room. Stack <Boon name="Might"/> as soon as you are in.
 
 Initially, there are Frizz and two Inquest enemies to fight. As soon as Frizz reaches 75%, he teleports to the middle and becomes invulnerable.
@@ -155,14 +154,15 @@ If a golem walks through a laser, he powers up and blocks all attacks for a shor
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the _Lasers_ and _Small Lasers_.
 </Tab>
 
-<Tab specialization="ranger">
-Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
-</Tab>
-
 <Tab specialization="Warrior">
 Drop your banners in the very center of the arena. 
-
 Using <Skill name="whirlwind attack"/> against the wall is very effective. 
+</Tab>
+
+</Tabs>
+<Tabs>
+<Tab specialization="ranger">
+Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 
 <Tab specialization="elementalist">

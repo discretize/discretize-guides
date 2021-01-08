@@ -76,7 +76,7 @@ There are two ways to do this. For the faster way you require <Item id="78978"/>
 | **The Console Room**          | Two people without special abilities should step on the two pressure plates to open the console locker. They are also responsible for keeping aggro from the opener, especially the spawning _Veteran Dredge_ next to the locker.<br/>Now for the actual console, <Item id="8686"/> and other <Effect name="Stealth"/> sources are very strong. It should be activated by someone who's able to block the <Control name="Knockback"/> from the locker closing, so the other two people can step off the pressure plates and protect the opener from the spawning mobs. The opener should indicate the step off in chat to time it with block skills.<br/>**The whole party can do `/gg` after the console is done, but it is not necessary**. |
 
 <Grid>
-<GridItem sm="8">
+<GridItem sm="12">
 <Tabs>
 <Tab specialization="elementalist">
 Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.

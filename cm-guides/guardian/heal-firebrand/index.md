@@ -375,7 +375,7 @@ Stay in the middle
 
 While in the middle
 1) <Skill name="symbol of vengeance"/> For <Boon name="fury"/>.
-2)  <Skill name="restoringreprieve"/> And <Skill name="mantraofliberation"/> Together to ensure the players dont get <Control name="knockdown"/> or take lethal damage when without <Boon name="aegis"/>.
+2)  <Skill name="restoringreprieve"/> And <Skill name="mantraofliberation"/> Together to ensure the players don't get <Control name="knockdown"/> or take lethal damage when without <Boon name="aegis"/>.
 3) <Skill name="tomeofjustice"/>
 4) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
 5) <Skill name="Empower"/> 
@@ -398,7 +398,7 @@ While in the middle
 
 While in the middle
 1) <Skill name="symbol of vengeance"/> For <Boon name="fury"/>.
-2)  <Skill name="restoringreprieve"/> And <Skill name="mantraofliberation"/> Together to ensure the players dont get <Control name="knockdown"/> OR take lethal damage when without <Boon name="aegis"/>.
+2)  <Skill name="restoringreprieve"/> And <Skill name="mantraofliberation"/> Together to ensure the players don't get <Control name="knockdown"/> OR take lethal damage when without <Boon name="aegis"/>.
 3) <Skill name="tomeofjustice"/>
 4) <Skill name="holystrike"/> to blast <Skill name="tomeofjustice"/>'s Scorched Aftermath
 5) <Skill name="Empower"/> 
