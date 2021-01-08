@@ -25,6 +25,31 @@ The <Specialization text="Banner Berserker" name="Berserker"/> is one of the cla
 
 Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
 
+### **Nightmare Challenge Mode PuG videos** 
+<Grid>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="YMy7HUTQEJI"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="b2Xi8dRE5js"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="K6S6yrQcxkY"/> 
+</GridItem>
+</Grid>
+### **Shattered Observatory Challenge Mode PuG videos**
+<Grid>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="yioeHPEHAK4"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="anHIsOj_USY"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="xElMtN7QKMo"/> 
+</GridItem>
+</Grid>
+
 <Divider text="Equipment"/>
 <Tabs outlined>
 
