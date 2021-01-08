@@ -28,16 +28,16 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 <Video caption="by Deen [dT], edited by Vince [dT]" youtube="p2wUMQEQNUY"/> 
 </GridItem>
 <GridItem sm="4">
-<Video caption="by Deen [dT], edited by Vince [dT]" youtube="hknhxXkDSO8"/> 
+<Video caption="by Deen [dT], edited by Vince [dT]" youtube="FwVEqdngirM"/> 
 </GridItem>
 <GridItem sm="4">
-<Video caption="by Deen [dT], edited by Vince [dT]" youtube="FwVEqdngirM"/> 
+<Video caption="by Deen [dT], edited by Vince [dT]" youtube="eexNfMx2J_w"/> 
 </GridItem>
 </Grid>
 ### **Shattered Observatory Challenge Mode PuG videos**
 <Grid>
 <GridItem sm="4">
-<Video caption="by Deen [dT], edited by Vince [dT]" youtube="eexNfMx2J_w"/> 
+<Video caption="by Deen [dT], edited by Vince [dT]" youtube="BVTXG2SMP6Y"/> 
 </GridItem>
 <GridItem sm="4">
 <Video caption="by Deen [dT], edited by Vince [dT]" youtube="Mw1lAIF-n0k"/> 
