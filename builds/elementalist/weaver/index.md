@@ -34,7 +34,7 @@ Also this build depends pretty much on supports and boon uptimes, as it cant pro
 <Video caption="by Elda [dT], edited by Vince [dT]" youtube="dAn5Uy0--hc"/> 
 </GridItem>
 </Grid>
-### **Shattered Observatory Challenge Mode organized group videos**
+### **Shattered Observatory Challenge Mode PuG videos**
 <Grid>
 <GridItem sm="4">
 <Video caption="by Elda [dT], edited by Vince [dT]" youtube="RoixkWVPAaU"/> 
