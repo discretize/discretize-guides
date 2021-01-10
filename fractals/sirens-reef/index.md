@@ -46,7 +46,7 @@ _Blast Black Peter_ the skeleton boss is kind of a DPS race. He starts spawning 
 ---
 
 <Grid>
-<GridItem sm="6">
+<GridItem sm="12">
 ## The Maze  
   
 ### The treasures
@@ -62,15 +62,17 @@ Your objective is simple. You need to collect 3 treasures and carry them to the 
 <Image src="./images/sirens_cursed_treasure_sack.jpg" caption="The cursed treasure"/>
 </GridItem>
 
+<GridItem sm="6">
+<Image src="./images/sirens_cursed_chest.jpg" caption="The treasure chest"/>
+</GridItem>
+
 <GridItem sm="6">  
 ### The way to the ship
   
 Here you have to get the chest onto the ship by throwing the treasure chest at each other, same tactic as before. You can use the _Mistlock Singularity_ at the entrance to reset your cooldowns. If you happen to be in combat (you triggered the AoE circles) then just skip it and take it when you '/gg' before you fight Arabella Crowe (it is to reset mobs from the previous event and to start with no cd and fresh boons).
 </GridItem>
 
-<GridItem sm="12">
-<Image src="./images/sirens_cursed_chest.jpg" caption="The treasure chest"/>
-</GridItem>
+
 </Grid>
 
 ---

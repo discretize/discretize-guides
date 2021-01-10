@@ -140,4 +140,4 @@ Another difference is that PuGs often claim, that CC is solely the job of the <S
 Many PuGs like to play <Specialization name="Dragonhunter"/>. That is just fine as you don't know what to expect of your fellow PuG mates and you prefer to be self-sufficient. But please use <Skill name="bane signet"/> with <Trait name="perfectinscriptions"/> to CC and provide a party-wide unique damage buff! It is more worth it than the +500 DPS you gain from pressing an auto-attack instead. 
 
 <Divider text="What now?"/>
-### If you do not know what to play yet we can help you with very basic description of the classes [here](/guides/what-should-i-play) or if you already read we recommend reading how you can utilize the Defiance bar by breaking it [here!](/guides/cc-distribution)
+### If you do not know what to play yet we can help you with very basic description of the classes [here](/guides/what-should-i-play) or if you already read that we recommend reading how you can utilize the Defiance bar by breaking it [here!](/guides/cc-distribution)
