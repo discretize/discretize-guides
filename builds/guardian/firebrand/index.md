@@ -22,8 +22,33 @@ It plays very similar to <Specialization text="Power Dragonhunter" name="Dragonh
 Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' <Attribute name="Power"/> by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
 <Message>
-Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="Firebrand"/>* is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="Firebrand"/>* ([Build](/builds/guardian/condi-firebrand) ) as it provides much higher sustained DPS.
+Its worth mentioning that *<Specialization text="Power Quickness Firebrand" name="Firebrand"/>* is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run *<Specialization text="Condition Quickness Firebrand" name="Firebrand"/>* ([Build](/builds/guardian/condi-firebrand) ) as it provides much higher sustained DPS.
 </Message>
+
+### **Nightmare Challenge Mode PuG videos** 
+<Grid>
+<GridItem sm="4">
+<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="odHRC78RDGU"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="7B1LNFpHYdc"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="fNWlEAaXS6I"/> 
+</GridItem>
+</Grid>
+### **Shattered Observatory Challenge Mode PuG videos**
+<Grid>
+<GridItem sm="4">
+<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="4E3fM2vqwrU"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="fHP_i0ti9PQ"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="ZeqPBPfK7Ow"/> 
+</GridItem>
+</Grid>
 
 <Divider text="Equipment"/>
 
