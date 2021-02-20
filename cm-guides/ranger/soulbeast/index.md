@@ -3,7 +3,7 @@ title: 'Soulbeast CM guides'
 build: 'Soulbeast'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-date: '2020-11-14'
+date: '2021-01-30'
 disableOrganized: 'false'
 ---
 
@@ -91,6 +91,9 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - If you don't trust your group to deal DPS in phase 2 then you can take <Trait id="2128"/> and use <Skill name="OneWolfPack"/> when you return to MAMA in phase 2. The reason for this is because in phase 1, 3 and 4 you have the damage modifier from <Effect name="Exposed"/>, so compensating with <Skill name="OneWolfPack"/> can help the team phase MAMA faster here.
 </Boss>
 
+<Tabs>
+<Tab title="Standard Rotation">
+
 ### **Precast**
 
 - Make sure you have <Trait name="Leader of the pack"/> while precasting!
@@ -146,21 +149,78 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 ### **4th Phase**
 
+- If <Skill name="One Wolf Pack"/> is off cooldown here use it.
 - Try to cast <Skill name="Barrage"/> so it doesn't get interrupted by MAMA jumping.
 - Use <Skill name="Point Blank Shot"/> and <Skill id="45743"/> to CC and proc <Item id="84505"/>.
 - <Skill name="Rapid Fire"/>.
 - Use your DPS skills as soon as they come off cd and don't cry from having to auto-attack on longbow.
 
+</Tab>
+<Tab title="Delayed Rotation">
+
+<Message>
+This rotation is designed to be used when playing double Soulbeast comps, it bursts into phases two and four covering the damage that a Soulbeast doing the standard rotation loses and covers the CC that a Weaver would normally do. You should also swap <Skill name="Frost Spirit"/> for <Skill name="Frost Trap"/>.
+</Message>
+
+### **Precast**
+
+- Make sure you have <Trait name="Leader of the pack"/> while precasting!
+- If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+- Use  <Skill name="Moa Stance"/> to grant your team free extra boon duration.
+- Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/> and swap to Longbow.
+- <Skill name="One Wolf Pack"/> then take _Mistlock Singularity_ and run or portal to the boss.
+- As you run in cast <Skill name="One Wolf Pack"/> (for the second time) and swap traits to <Trait name="Oppressive Superiority"/>.
+
+### **1st Phase**
+
+- <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
+- Burst with <Skill name="Rapid Fire"/> and <Skill id="41524"/>.
+
+### _1st Add_
+
+- Use <Skill id="45743"/> to help CC.
+- Precast <Skill name="Barrage"/> on MAMA and weaponswap.
+
+### **2nd Phase**
+
+- As soon as MAMA becomes vunerable cast <Skill name="Sicem"/> and <Skill name="Frost Trap"/>
+- Burst with <Skill name="Worldly Impact"/>, <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/>.
+- Use <Skill id="41524"/> and Sword autoattacks untill MAMA phases moving to the bubble if it spawns.
+
+### _2nd Add_
+
+- Help CC with <Skill id="45743"/>.
+- Use autoattacks to help kill the add.
+
+### **3rd Phase**
+
+- <Skill name="Path of scars"/> and <Skill name="Point Blank Shot"/> to CC and proc <Item id="84505"/>.
+- Burst with <Skill name="Rapid Fire"/> and <Skill id="41524"/>
+
+### _3rd Add_
+
+- Help CC with <Skill id="45743"/>.
+- Use auto attacks and <Skill name="Rapid Fire"/> if it is off cooldown to kill the add.
+
+### **4th Phase**
+
+- If <Skill name="One Wolf Pack"/> is off cooldown here use it.
+- Try to cast <Skill name="Barrage"/> so it doesn't get interrupted by MAMA jumping.
+- Cast <Skill name="Frost Trap"/> and use <Skill name="Point Blank Shot"/> to CC and proc <Item id="84505"/>.
+- Weaponswap and burst with <Skill name="Worldly Impact"/>, <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/>.
+- Use <Skill id="41524"/> and Sword autoattacks untill MAMA dies.
+
+</Tab>
+</Tabs>
 </ConditionalComponent>
 
----
 
 <ConditionalComponent condition="pug">
 <Boss name="siax" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/>.
 - Remember to use <Item id="24658"/> for this encounter!
-- Longbow will burst higher on this fight, but you will have trouble killing your 2nd add without help. You should only play it if you can rely on your group to phase P2 quickly and help you on split 2.
+- Longbow will burst higher on this fight, but you will have trouble killing your 2nd add. You should only play it if you know you can quickly kill the add or you have help.
 </Boss>
 
 <Message>
@@ -224,7 +284,13 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - Take <Trait id="2128"/>.
 - Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 - In faster kills you want to run <Item id="82876"/> instead of <Item id="24868"/> on Longbow.
+- If you are running with double Soulbeasts, we recomend both soulbeasts run skirmishing and follow the <Trait name="Quickdraw"/> rotation below. It also works out well to replace Sword mainhand with Axe, as it allows you to stay in the middle on the 1st split meaning you can fit more skills into <Effect name="Exposed"/> on Phase 2.
+
 </Boss>
+
+<Tabs>
+<Tab title="Standard Rotation">
+
 ### **Precast**
 
 - Precast <Skill name="Frost Trap"/> and a <Item id="78978"/> entrance on the boss orb before the fight starts.
@@ -269,6 +335,60 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 - Swap weapons.
 - Use <Skill name="Worldly impact"/> to make sure you have quickness, <Skill name="Path of scars"/> -> <Skill name="Whirling defense"/>.
 - <Skill id="45743"/> and <Skill id="41524"/> if Siax still isn't dead.
+
+</Tab>
+<Tab title="Quickdraw Rotation">
+
+<Message>
+When you play this rotation you will want to replace the Marksmanship traitline with the following traits on the Skirmishing traitline; <Trait name="Sharpened Edges"/>, <Trait name="Hidden Barbs"/> and <Trait name="Quickdraw"/>. <Trait name="Spotter"/> is optional and should be run if your group needs the precision to Crit cap, and <Trait name="Trappers Expertise"/> can be run if it will allow you to fit a <Skill name="Frost Trap"/> in on Phase 2 (Will only be worth taking if your group is slow!).
+<Traits unembossed traits1Id="30" traits1="Skirmishing" traits1SelectedIds="1069,1846,1064"/>
+</Message>
+
+
+### **Precast**
+
+- Precast <Skill name="Frost Trap"/> and a <Item id="78978"/> entrance on the boss orb before the fight starts.
+- Run back to _Mistlock Singularity_
+- Use <Skill name="Moa Stance"/>.
+- Use <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>, then swap to Longbow.
+- Use <Skill name="One Wolf Pack"/> and take the _Mistlock Singularity_.
+
+### **1st Phase**
+
+- Precast <Skill name="Barrage"/> amd use <Skill name="Frosttrap"/> as soon as your first trap procs so you have both ticking at the same time.
+- <Skill name="Sicem"/> as soon as Siax is targetable and use <Skill name="Point Blank Shot"/> to proc <Trait name="Twice as Vicious"/>.
+- Weapon swap to proc <Trait name="Quickdraw"/> and use <Skill name="Whirling Defense"/>.
+- <Skill name="Path of Scars"/> and <Skill id="45743"/> to CC. Alternitively if you plan to ignore the CC bar continue bursting with <Skill name="Path of Scars"/> and <Skill name="Frenzied Attack"/>
+- Auto attack to finish the phase.
+
+### _1st Add_
+
+- If you are playing Axe mainhand use <Skill name="Winters Bite"/> and auto attacks from the center to help kill your add.
+- If you are playing Sword mainhand Use <Skill id="12482"/> to get to the add quickly and finish it off with autoattacks. Use <Skill name="Hornet Sting"/> to get back to Siax quickly.
+
+### **2nd Phase**
+
+- If you are the slb sharing <Skill name="onewolfpack"/> this phase use it.
+- Burst into exposed with <Skill name="Worldlyimpact"/> and <Skill name="Whirling Defense"/>.
+- If your group has high DPS you will want to open a bundle during the cast of <Skill name="Whirling Defense"/> to proc <Trait name="Quickdraw"/> so it iss off cooldown for the 3rd phase.
+- Cast <Skill name="Winters Bite"/> (if you play Axe mainhand), and then <Skill name="Path of Scars"/> to refresh <Trait name="Twice as Vicious"/>.
+- Weaponswap and use <Skill name="Rapidfire"/> and Longbow auto attacks to finish the phase.
+
+### _2nd Add_
+
+- You want to stand at range to benefit from <Trait name="Farsighted"/> as well as you might want to use <Skill name="wehealasone"/> to make sure you have <Trait id="974"/> and <Item id="24836"/> as damage modifiers to kill the add.
+- Use longbow skills to kill your add precast <Skill name="Barrage"/> on Siax for phase 3.
+
+### **3rd Phase**
+
+- If you are the slb sharing <Skill name="onewolfpack"/> this phase use it.
+- <Skill name="sicem"/> and <Skill name="Frost trap"/> once Siax is vulnerable.
+- <Skill name="Frenzied Attack"/> and swap weapons.
+- <Trait name="Quickdraw"/> <Skill name="Path of scars"/> and then burst with <Skill name="Whirling defense"/>.
+- To finish the fight cast <Skill name="Winters Bite"/>, <Skill name="Path of scars"/> and continue with your rotation until Siax is dead.
+
+</Tab>
+</Tabs>
 
 </ConditionalComponent>
 
@@ -876,3 +996,203 @@ The <Specialization name="weaver"/> should give you a <Skill name="conjurefieryg
 - <Skill name="Pathofscars"/> -> <Skill name="Whirling defense"/>.
 - Continue with filler skills like <Skill name="Worldlyimpact"/>, <Skill name="frenziedattack"/> until Arkk is dead.
 </ConditionalComponent>
+
+
+
+<ConditionalComponent condition="pug">
+<Boss name="Ai, Keeper of the Peak" video="" timestamp="" videoCreator="" foodId="92488" utilityId="48917" healId="44948" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130" >
+- Pet: <Skill id="46432" disableText/> Warthog 
+- Take <Trait id="2128"/>.
+- <Trait id="1912"/> will massively out preform <Trait id="1064"/> in a pug scenario due to Ai not sticking in one place for long.
+- <Skill name="Quick shot"/> and <Skill name="Instinctive Engage"/> are great movement abilities for following Ai when dashing and also to dodge suicidal teammates.
+- <Skill name="Bear Stance"/> is a strong condi cleanse and will really help your group, especially if your party likes standing in every AoE.
+- Remember to dodge as often as you can to keep <Trait name="Light on your Feet"/> active.
+
+</Boss>
+
+### **Precast**
+<Message>
+Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
+</Message>
+
+- Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap back to Lynx.
+- Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
+- As you walk into the arena make sure to stack <Trait id="1912"/> for some extra initial damage.
+- Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
+
+### **Light Ai, Keeper of the Peak**
+<Message>
+In pug groups it is reccomended to cc Ai in the middle of the arena. This will give you  the maximum amount of time to DPS Ai, which will allow most groups to skip most of the split phases. On SLB you dont want to delay your <Skill name="Concussion Shot"/> as it will stop you from swapping to Dagger/Torch and dealing  as much damage, but you shold delay your <Skill id="46432"/> if you need to. Ideally Ai's CC bar should break as the Red Agony field spawns beneath her.
+</Message>
+### _Air Phase_
+- As you get into combat cast <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>. Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/>, <Skill name="Poison Volley"/> and follow Ai to the side.
+- As you reach the side call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/>.
+- Cast <Skill name="one wolf pack"/> and swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills.
+- Remember to dodge as often as you can to keep <Trait name="Light on your Feet"/> active and use <Skill name="Double Arc"/> and <Skill name="Throw Torch"/> as they come off cooldown.
+- Swap back to Shortbow and follow Ai to the middle of the arena and as the expanding AoE's appear use <Skill name="Quick Shot"/> to dodge back so you dont get unmerged,
+- After the split mechanic call <Skill name="Sun Spirit"/> mid with <Skill name ="Solar Flare"/>. As the CC bar comes up use <Skill name="Concussion Shot"/> and <Skill id="46432"/>, then swap to Dagger/Torch continueing with your rotation until Ai phases (Hopefully before the air split phase happens).
+
+
+### _Fire Phase_
+<Message>
+Ideally your group will use a xera portal to get back to the middle to DPS Ai quickly. Make sure you communicate with your team before the fight to work out if you or someone else will drop one.
+</Message>
+- As the split phase ends take a Xera portal back to the middle casting <Skill name="Sun Spirit"/> as you go through.
+- Once in the middle use <Skill name="One Wolf Pack"/>, <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>.
+- Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/> and <Skill name="Poison Volley"/> then swap to Dagger/Torch.
+- Swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills
+Keep DPSing until you need to head to the safe spot by the Meteor. Once it is safe to leave use <Skill name="Instinctive Engage"/> to reach Ai quickly so you can use <Skill name="Double Arc"/> and <Skill name="Throw Torch"/> before Ai dashes away from mid.
+- Swap to Shortbow and follow, calling <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/> once you reach the side and camp Shortbow until Ai dashes back to the middle.
+- Follow Ai to the middle of the arena and as the expanding AoE's appear use <Skill name="Quick Shot"/> to dodge back so you dont get unmerged,
+- After the split mechanic call <Skill name="Sun Spirit"/> mid with <Skill name ="Solar Flare"/>. As the CC bar comes up use <Skill name="Concussion Shot"/> and <Skill id="46432"/>, then swap to Dagger/Torch continueing with your rotation until Ai phases (Hopefully before the meteors fall).
+
+### _Water Phase_
+<Message>
+There is not much you can do in the split phase here, so just make sure to keep an eye on tethers and to give/take them if you or someone else is close to 9 stacks. If your <Skill name="Sun Spirit"/> has died remember to summon it towards the end of the split phase. It is also beneficial to be in the center of the arena her so you have less distance to walk when Ai dhashes to the side again.
+</Message>
+- Summon <Skill name="Sun Spirit"/> if it has died shortly before ai becomes vunerable,
+- Once vunerable cast <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>. Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/>, <Skill name="Poison Volley"/> and follow Ai to the side.
+- As you reach the side call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/>.
+- Cast <Skill name="one wolf pack"/> and swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills.
+- Remember to dodge as often as you can to keep <Trait name="Light on your Feet"/> active and use <Skill name="Double Arc"/> and <Skill name="Throw Torch"/> as they come off cooldown.
+- Swap back to Shortbow and follow Ai to the middle of the arena. 
+- As the expanding AoE's appear use <Skill name="Quick Shot"/> to dodge back so you dont get unmerged, and after the split mechanic call <Skill name="Sun Spirit"/> mid with <Skill name ="Solar Flare"/>.
+- As the CC bar comes up use <Skill name="Concussion Shot"/> and <Skill id="46432"/>, then swap to Dagger/Torch continueing with your rotation until Ai phases (Hopefully before the water split phase happens).
+- If the water split happens ther is not much you can do since Ai will reflect all projectiles, so help your team by standing in the greens and taking tethers. Once the split phase finishes Ai should be on low health, so follow her if she dhashes and continue with your rotation until she phases.
+
+### **Dark Ai, Keeper of the Peak**
+<Message>
+In pug groups it is reccomended to cc Ai after she dashes from the side on the 100%-66% phase. This will give you the maximum amount of time to DPS Ai to 66% stopping some mechanics from overlapping as you go to CC the first Sorrow. On SLB you dont want to delay your <Skill name="Concussion Shot"/> as it will stop you from swapping to Dagger/Torch and dealing  as much damage, but you shold delay your <Skill id="46432"/> if you need to. Ideally Ai's CC bar should break as the Red Agony field spawns beneath her. After 66% you should CC Ai if you can, but it is more important to make sure you have enough CC to break the Sorrows so you don't wipe.
+</Message>
+### **Precast**
+<Message>
+Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
+</Message>
+
+- Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap back to Lynx.
+- Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
+- As you walk into the arena make sure to stack <Trait id="1912"/> if you are running it for some extra initial damage.
+- Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
+
+### _100% - 66%_
+- As you get into combat cast <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>. Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/>, <Skill name="Poison Volley"/> and follow Ai to the side.
+- As you reach the side call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/>.
+- Cast <Skill name="one wolf pack"/> and swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills.
+- Remember to dodge as often as you can to keep <Trait name="Light on your Feet"/> active and use <Skill name="Double Arc"/> and <Skill name="Throw Torch"/> as they come off cooldown.
+- Swap back to Shortbow and follow Ai to her next location.
+- as the expanding AoE's appear use <Skill name="Quick Shot"/> to dodge back so you dont get unmerged,
+- After the split mechanic call <Skill name="Sun Spirit"/> to you with <Skill name ="Solar Flare"/>. As the CC bar comes up use <Skill name="Concussion Shot"/> and <Skill id="46432"/>, then swap to Dagger/Torch continuing with your rotation until Ai phases.
+
+### _66% - 33%_
+<Message>
+Your rotation from here will depend on your groups DPS and Ai's RNG. In general remember to dodge as much as you can to keep <Trait name="Light on your Feet"/> active and use your mobility skills to keep attacking Ai as much as you can. <Skill name="Sun Spirit"/> will probably die a couple of times so make sure you resummon it as soon as you can, and call it to you when you move. Finally CC Ai when you can, but also remember to use <Skill name="Concussion Shot"/> and <Skill id="46432"/> to keep up <Trait name="Twice as Vicious"/>.
+</Message>
+- Follow Ai to the middle of the arena summoning <Skill name="Sun Spirit"/> as soon as you can and camp Shortbow untill the first Sorrow spawns. Use <Skill name="Concussion Shot"/> to CC.
+- Use <Skill name="One Wolf Pack"/> and swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills.
+- At this pont Ai will either stay in the middle or dash to the side. If Ai dahses be prepared to follow calling <Skill name="Sun Spirit"/> when you can.
+- Quickly swap to Shortbow and use <Skill name="Quick Shot"/> to dodge back as Fears will be closing in, and continue with your rotation camping Shortbow until the Split mechanic happens.
+- After the split mechanic resummon <Skill name="Sun Spirit"/> if it has died and swap to Dagger/Torch continuing with your rotation until Ai phases at 33%.
+
+### _33% - 0%_
+- At this point aim to be on Shortbow so you can CC a Sorrow with <Skill name="Concussion Shot"/> and if you need <Skill id="46432"/>.
+- Use <Skill name="One Wolf Pack"/> and swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills.
+- At this pont Ai will either stay in the middle or dash to the side. If Ai dahses be prepared to follow calling <Skill name="Sun Spirit"/> when you can.
+- Quickly swap to Shortbow and use <Skill name="Quick Shot"/> to dodge back as Fears will be closing in, and continue with your rotation camping Shortbow until the Split mechanic happens.
+- After the split mechanic resummon <Skill name="Sun Spirit"/> if it has died and swap to Dagger/Torch continuing with your rotation until Ai dies.
+
+</ConditionalComponent>
+
+<ConditionalComponent condition="static">
+<Boss name="Ai, Keeper of the Peak" video="" timestamp="" videoCreator="" foodId="92488" utilityId="48917" healId="31914" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130" >
+- Pet: <Skill id="40625" disableText/> Lynx for dps. <Skill id="46432" disableText/> Warthog if your group needs the CC.
+- Take <Trait id="2128"/>.
+- <Trait id="1912"/> and <Trait id="1064"/> both pull similar numbers, so take whichever one you are more comfortable with. <Trait id="1064"/> pulls ahead slightly in high dps groups due to Ai getting phased either at the side, or shortly after.
+- <Skill id="40498"/> can be replaced with <Skill id="45970"/>, to allow your renegade to play full condi DPS with minimal boon duration, just remember to sync up <Skill id="45970"/> with <Skill id="45537"/> so <Boon name="Alacrity"/> doesn't drop. Alternatively if you run two Soulbeasts, one can run <Skill name="@Sun Spirit"/> and one can run <Skill name="Moa Stance"/>. 
+- <Skill name="Quick shot"/> and <Skill name="Instinctive Engage"/> are great movement abilities for following Ai when dashing and also to dodge suicidal teammates.
+
+</Boss>
+<Message>
+The following guide assumes your group will instantly CC Ai; and will phase at the side or shortly after on the light phases, and on the dark phase after 66% will stay in the middle until close to the end of the fight. If this doesn't happen be prepared to adjust your rotation accordingly. It also assumes you are running <Trait name="Quickdraw"/>, if you are not running this you will not get a second <Skill name="Bonfire"/> in your Dagger/Torch rotation and will need to again adjust your rotation.
+</Message>
+
+### **Precast**
+<Message>
+Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
+</Message>
+
+- Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap back to Lynx.
+- Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
+- As you walk into the arena make sure to stack <Trait id="1912"/> if you are running it for some extra initial damage.
+- Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
+
+### **Light Ai, Keeper of the Peak**
+### _Air Phase_
+- As you get into combat cast <Skill name="One Wolf Pack"/>, <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>. Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/>, <Skill name="Poison Volley"/> and follow Ai to the side.
+- As you reach the side call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/> and CC with <Skill id="46432"/>.
+- Swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills.
+- As they come off cooldown use <Skill name="Double Arc"/> and <Skill name="Bonfire"/>, then <Skill name="Double Arc"/> and <Skill name="Throw Torch"/>.
+- Swap back to Shortbow and follow Ai to the middle of the arena calling <Skill name="Sun Spirit"/> to you as soon as you can. Use your Shortbow and Beastmode skills until the boss phases, ideally before the expanding AoE's fill.
+- If Ai hasn't phased use <Skill name="Quick Shot"/> to dodge back so you don't get unmerged, and contiunue with your rotation swapping back to Dagger/Torch after you get back to the middle.
+
+### _Fire Phase_
+<Message>
+Ideally your group will use a Xera portal to get back to the middle to DPS Ai quickly. If you are running <Trait name="Quickdraw"/> make sure someone else uses their portal as the trait will proc when you open portal which isn't ideal.
+</Message>
+
+- As the split phase ends take a Xera portal back to the middle casting <Skill name="Sun Spirit"/> as you go through.
+- Once in the middle use <Skill name="One Wolf Pack"/>, <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>.
+- Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/> and <Skill name="Poison Volley"/> then swap to Dagger/Torch.
+- Swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills.
+- As they come off cooldown use <Skill name="Double Arc"/> and <Skill name="Bonfire"/> before heading to the safe spot by the Meteor. Once it is safe to leave use <Skill name="Instinctive Engage"/> to reach Ai quickly so you can use <Skill name="Double Arc"/> and <Skill name="Throw Torch"/> before Ai dashes away from mid.
+- Swap to Shortbow and follow using <Skill id="46432"/> to CC.
+- Call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/> and continue with your rotation until Ai phases.
+
+### _Water Phase_
+<Message>
+There is not much you can do in the split phase here, so just make sure to keep an eye on tethers and to give/take them if you or someone else is close to 9 stacks. If your <Skill name="Sun Spirit"/> has died remember to summon it towards the end of the split phase.
+</Message>
+- As Ai becomes vulnerable use <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>. Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/>, <Skill name="Poison Volley"/> and follow Ai to the side.
+- As you reach the side call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/> and CC with <Skill id="46432"/>, and cast <Skill name="One Wolf Pack"/>.
+- Swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills.
+- As they come off cooldown use <Skill name="Double Arc"/> and <Skill name="Bonfire"/>, then <Skill name="Double Arc"/> and <Skill name="Throw Torch"/>.
+- Swap back to Shortbow and follow Ai to the middle of the arena calling <Skill name="Sun Spirit"/> to you as soon as you can. Use your Shortbow and Beastmode skills until the boss phases, ideally before the expanding AoE's fill.
+- If Ai doesn't phase use <Skill name="Quick Shot"/> to dodge back so you don't get unmerged, and continue with your rotation swapping back to Dagger/Torch after you get back to the middle.
+
+### **Dark Ai, Keeper of the Peak**
+### **Precast**
+<Message>
+Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
+</Message>
+
+- Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap back to Lynx.
+- Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
+- As you walk into the arena make sure to stack <Trait id="1912"/> if you are running it for some extra initial damage.
+- Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
+### _100% - 66%_
+- As you get into combat cast <Skill name="One Wolf Pack"/>, <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>. Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/>, <Skill name="Poison Volley"/> and follow Ai to the side.
+- As you reach the side call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/> and CC with <Skill id="46432"/>.
+- Swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills.
+- As they come off cooldown use <Skill name="Double Arc"/> and <Skill name="Bonfire"/>. Shortly after Ai will dash away, so use <Skill name="Instinctive Engage"/> to follow and call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/>.
+- Use <Skill name="Double Arc"/> and <Skill name="Throw Torch"/>, then swap to Shortbow using your Shortbow and Beastmode skills until the boss phases.
+
+### _66% - 33%_
+- Follow Ai to the middle of the arena summoning <Skill name="Sun Spirit"/> as soon as you can and camp Shortbow until the first Sorrow spawns. Use <Skill name="Concussion Shot"/> to CC.
+- Swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills.
+- As they come off cooldown use <Skill name="Double Arc"/> and <Skill name="Bonfire"/>, then <Skill name="Double Arc"/> and <Skill name="Throw Torch"/>.
+- At this pont Ai will either stay in the middle or dash to the side. If Ai dahses be prepared to follow.
+- Quickly swap to Shortbow and use <Skill name="Quick Shot"/> to dodge back as Fears will be closing in, and camp Shortbow until Ai reaches 33%.
+- Help to CC Ai if you can, but don't waste cooldowns you will need to CC the Sorrows at 33%. Be prepared to split if you don't reach 33% before the agony field appears in the center.
+
+### _33% - 0%_
+- Summon <Skill name="Sun Spirit"/> if it has died.
+- Use <Skill name="Concussion Shot"/> and <Skill id="46432"/> if you are merged with Warthog to CC a Sorrow.
+- Cast <Skill name="One Wolf Pack"/> and swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your Beastmode skills.
+- As they come off cooldown use <Skill name="Double Arc"/> and <Skill name="Bonfire"/>, then <Skill name="Double Arc"/> and <Skill name="Throw Torch"/>.
+- Quickly swap to Shortbow and use <Skill name="Quick Shot"/> to dodge back as Fears will be closing in and once they are gone move back in continuing with your normal rotation until Ai is dead. If Ai dashes to the side follow and help to CC if you can.
+
+</ConditionalComponent>
+
