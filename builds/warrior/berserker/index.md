@@ -54,7 +54,8 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 <Tabs outlined>
 
 <Tab title="162 Agony Resistance">
-Check the [gear optimizer](https://old.discretize.eu) for more gear variants! 
+- Check the [gear optimizer](https://old.discretize.eu) for more gear variants! 
+- Alternative gear for 162 <Attribute name="Agony Resistance"/>: full berserker gear with <Item id="24723"/>. This variant is superior for PuG groups due to not relying on <Item name="scholar"/>. However, higher <Attribute name="Agony Resistance"/> builds will not benefit from the additional <Attribute name="Precision"/> as much as this variant, so it is recommended to stick with <Item name="scholar"/> since it provides a strict upgrade path.
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
