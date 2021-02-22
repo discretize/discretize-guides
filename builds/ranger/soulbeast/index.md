@@ -110,31 +110,6 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full zerk on both.
 </Message>
 </Tab>
-
-
-<Tab title="Condi Soulbeast">
-This build is **only** for use in 100CM! For all other fractals you will be **much better off playing power** (Apart from maybe Sirens Reef).
-<Grid>
-<GridItem sm="4">
-<Armor weight="Medium" helmAffix="Viper" helmRune="Krait" shouldersAffix="Viper" shouldersRune="Krait" coatAffix="Viper" coatRune="Krait" glovesAffix="Viper" glovesRune="Krait" leggingsAffix="Viper" leggingsRune="Krait" bootsAffix="Viper" bootsRune="Krait" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="37130" weapon2MainInfusion1Id="37130" weapon1OffInfusionId="37130" weapon2MainInfusion2Id="37130"/>
-
-<Consumables foodId="92488" utilityId="48917" infusion="Malign +9 Agony Infusion"/>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
-
-<Card title="Alternative Gear">
-* <Item id="24687"/> can be worth running if you have 2 or more soulbeasts. With this rune setup you will need expertise food and ideally expertise infusions.
-
-</Card>
-</GridItem>
-</Grid>
-</Tab>
 </Tabs>
 
 <Divider text="Build"/>
