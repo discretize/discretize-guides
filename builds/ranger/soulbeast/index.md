@@ -110,36 +110,9 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full zerk on both.
 </Message>
 </Tab>
-
-
-<Tab title="Condi Soulbeast">
-This build is **only** for use in 100CM! For all other fractals you will be **much better off playing power** (Apart from maybe Sirens Reef).
-<Grid>
-<GridItem sm="4">
-<Armor weight="Medium" helmAffix="Viper" helmRune="Krait" shouldersAffix="Viper" shouldersRune="Krait" coatAffix="Viper" coatRune="Krait" glovesAffix="Viper" glovesRune="Krait" leggingsAffix="Viper" leggingsRune="Krait" bootsAffix="Viper" bootsRune="Krait" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="37130" weapon2MainInfusion1Id="37130" weapon1OffInfusionId="37130" weapon2MainInfusion2Id="37130"/>
-
-<Consumables foodId="92488" utilityId="48917" infusion="Malign +9 Agony Infusion"/>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
-
-<Card title="Alternative Gear">
-* <Item id="24687"/> can be worth running if you have 2 or more soulbeasts. With this rune setup you will need expertise food and ideally expertise infusions.
-
-</Card>
-</GridItem>
-</Grid>
-</Tab>
 </Tabs>
 
 <Divider text="Build"/>
-<Tabs>
-<Tab title="Power">
 <Grid>
 <GridItem sm="7">
 <Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,970,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128"/>
@@ -155,26 +128,6 @@ This build is **only** for use in 100CM! For all other fractals you will be **mu
 </Card>  
 </GridItem>
 </Grid>
-</Tab>
-<Tab title="Condi">
-<Grid>
-<GridItem sm="7">
-<Traits traits1Id="33" traits1="Wilderness Survival" traits1SelectedIds="1099,1101,1701" traits2Id="30" traits2="Skirmishing" traits2SelectedIds="1069,1846,1912" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2161,2128"/>
-</GridItem>  
-<GridItem sm="5">
-<Skills healId="44948" utility1Id="40498" utility2Id="12537" utility3Id="12498" eliteId="45717"/>
-<Card title="Pets">
-| | |
-| -- | -- |
-| <Skill id="46432" size="big" disableText/> | [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>.|
-| <Skill id="40625" size="big" disableText/> | [Lynx](https://wiki.guildwars2.com/wiki/Juvenile_Lynx) - Best CDPS for single target, taken if you don't need CC. |
-| <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets.
-</Card>  
-</GridItem>
-</Grid>
-</Tab>
-</Tabs>
-
 
 <Divider text="Further information"/>
 <Grid>
