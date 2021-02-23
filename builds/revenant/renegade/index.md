@@ -1,6 +1,6 @@
 ---
 title: 'Renegade'
-date: '2020-09-29'
+date: '2020-11-14'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Revenant'
@@ -21,6 +21,31 @@ classification: [5, 2, 4, 3, 5]
 Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty. 
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from  <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+
+### **Nightmare Challenge Mode PuG videos** 
+<Grid>
+<GridItem sm="4">
+<Video caption="by Deen [dT], edited by Vince [dT]" youtube="p2wUMQEQNUY"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Deen [dT], edited by Vince [dT]" youtube="FwVEqdngirM"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Deen [dT], edited by Vince [dT]" youtube="eexNfMx2J_w"/> 
+</GridItem>
+</Grid>
+### **Shattered Observatory Challenge Mode PuG videos**
+<Grid>
+<GridItem sm="4">
+<Video caption="by Deen [dT], edited by Vince [dT]" youtube="BVTXG2SMP6Y"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Deen [dT], edited by Vince [dT]" youtube="Mw1lAIF-n0k"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Deen [dT], edited by Vince [dT]" youtube="yadsI_KvvDo"/> 
+</GridItem>
+</Grid>
 
 <Divider text="Equipment"/>
 - Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
@@ -160,7 +185,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 **Notable Traits:**
 
 - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
-- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="Battle Scars"/>, which makes your attack steal health. This trait is the DPS alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of damage, but doesn't scale with <Effect name="Exposed"/>. Pulls ahead over <Trait name="Swift Termination"/> in fights where majority of damage is dealt outside of <Effect name="Exposed"/> debuff (on Artsariv and Arkk). Also worth taking in PuG groups.
+- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="Battle Scars"/>, which makes your attack steal health. This trait is the DPS alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of damage, but doesn't scale with <Effect name="Exposed"/>. Pulls ahead over <Trait name="Swift Termination"/> in fights where majority of damage is dealt outside of <Effect name="Exposed"/> debuff (on Artsariiv and Arkk). Also worth taking in PuG groups on most bosses to ensure Scholar buff uptime and due to lower <Effect name="Exposed"/> uptime on bosses.
 - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%. 
 - <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
 - <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
@@ -260,7 +285,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
 <Card title="Renegade openers">
-<Video caption="by Rubby [dT], edited by Vince [dT]" youtube="QXmckcAyKf4"/> 
+<Video caption="by Rubby, edited by Vince [dT]" youtube="QXmckcAyKf4"/> 
 </Card>
 </GridItem>
 

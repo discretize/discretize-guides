@@ -1,6 +1,6 @@
 ---
 title: 'Power Tempest'
-date: '2020-09-29'
+date: '2020-11-14'
 rating: 'Other'
 role: 'Damage'
 profession: 'Elementalist'
@@ -231,4 +231,4 @@ And lastly, you should use <Skill name="Lightning Strike"/> (instant cast) off r
 </Grid>
 
 <Divider text="Disclaimer"/>
-### These builds are played mostly for fun, to carry individuals or with niche uses like more cleave, boon generation and skips. If you want to know more about what the current meta is and why is it the way it is you can read more about it [here](/guides/meta-explained) or you can look up easy to understand description of classes that are meta, offmeta and more [here!](/what-should-i-play)
+### These builds are played mostly for fun, to carry individuals or with niche uses like more cleave, boon generation and skips. If you want to know more about what the current meta is and why is it the way it is you can read more about it [here](/guides/meta-explained) or you can look up easy to understand description of classes that are meta, offmeta and more [here!](/guides/what-should-i-play)

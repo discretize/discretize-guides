@@ -1,6 +1,6 @@
 ---
 title: 'Urban Battlegrounds'
-date: '2020-09-29'
+date: '2020-11-14'
 image: './images/header.jpg'
 group: 'T4'
 api: 2941
@@ -26,16 +26,20 @@ sigils: [{ id: 24868 }, { id: 24615 }]
 consumables: [78978, 8764, 8801]
 ---
 
-## Siegemaster Dulfy
-
 <Grid>
-<GridItem sm="8">
+<GridItem sm="6">
+<Image src="./images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy"/>
+</GridItem>  
+<GridItem sm="6">
+## Siegemaster Dulfy
+  
 Stack <Effect name="Stealth"/> in the tent and run towards Dulfy.
 
 Killing the _Burning Oil_ above her is your highest priority. Control and cleave the trash mobs and utilize reflects and blocks while nuking her down. Destroy the gate after finishing her and gather on the other side of the wall.
+</GridItem>
 
+<GridItem sm="12">
 <Tabs>
-
 <Tab specialization="elementalist">
  If you are the first Weaver at the gate and still have <Effect name="Stealth"/>, cast <Skill id="5501"/> on the Burning Oil above Dulfy. At least one weaver should use <Skill id="5738"/> on the mobs and Dulfy. You can use <Skill id="5697"/> against the door for more damage. Use <Skill id="22572"/> for better cleave.
 </Tab>
@@ -50,26 +54,14 @@ Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profe
 </Tabs>
 </GridItem>
 
-<GridItem sm="4">
-<Image src="./images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy"/>
-</GridItem>
+
 </Grid>
 
 ---
 
+## The town  
 <Grid>
 <GridItem sm="6">
-<Image src="./images/the_town.jpg" caption="A barricade in the town"/>  
-  
-<Tabs>
-<Tab specialization="ranger">
-Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
-</Tab>
-</Tabs> 
-</GridItem>  
-  
-<GridItem sm="6">
-## The town  
   
 Again, stack <Effect name="Stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
 
@@ -81,6 +73,16 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply ca
 </Tab>  
 </Tabs>
 </GridItem>
+
+<GridItem sm="6">
+<Image src="./images/the_town.jpg" caption="A barricade in the town"/>  
+  
+<Tabs>
+<Tab specialization="ranger">
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
+</Tab>
+</Tabs> 
+</GridItem>  
 </Grid>
 
 ---

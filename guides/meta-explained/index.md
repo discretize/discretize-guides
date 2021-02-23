@@ -1,6 +1,6 @@
 ---
 title: 'Meta explained'
-date: '2020-09-29'
+date: '2020-11-14'
 image: './images/preview.png'
 description: 'Everything around Meta and the current Meta composition'
 hidden: 'false'
@@ -10,16 +10,17 @@ hidden: 'false'
 There are many different interpretations for meta, but we consider **[urbandictionary's](https://www.urbandictionary.com/define.php?term=meta) definition** to be the most accurate one: meta is "a term used in MMO meaning the Most Effective Tactic Available. It's basically what works in a game regardless of what you wish would work."  
 Many players are using certain compositions - non meta ones - on a daily basis, which does not elevate them to meta. It might work adequately for their goal - a wipe-less and safe clear - however, it is not the fastest or the most efficient way to play. 
 
-The meta for fractals therefore not only encompasses what classes and builds are most effective but also how to play - in other words - what rotation should be used. Example skill rotations for every meta build can be found in their respective build pages. 
+The meta for fractals therefore not only encompasses what classes and builds are most effective but also how to play - in other words - what rotation should be used. Example skill rotations for every meta build can be found in the CM-Guides of the respective builds. 
 
 ## What is necessary to clear fractals efficiently?
 It boils down to three important concepts that need to be fulfilled permanently while in combat. Failing one of these will decelerate the speed and smoothness of the run:
 1. Boons: 25x<Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>.
 2. Breaking [CC bars](guides/cc-distribution) immediately to gain the 50% damage modifier from <Effect name="Exposed"/>.
-3. High single target burst potential.
+3. High and fast single target burst potential.
+4. Stacking unique damage buffs such as <Skill name="banesignet"/> or <Skill name="onewolfpack"/>
 
 <Message>
-It is vital to understand that these three concepts in conjunction create massive amounts of burst causing phases to only last a few seconds. This is also due to the fact that the 50% <Effect name="Exposed"/> modifier stacks multiplicative with many other damage modifiers.
+It is vital to understand that these three concepts in conjunction create massive amounts of burst causing phases to only last a few seconds. This is also due to the fact that the 50% <Effect name="Exposed"/> modifier stacks multiplicative with many other damage modifiers. This is the reason why Power builds are generally more powerful in fractals. 
 
 The gameplay is therefore much more fast paced compared to raids and requires different thinking and rotations that are tailored around the <Effect name="Exposed"/> window.
 </Message>
@@ -32,7 +33,7 @@ For T4s there are several other important concepts:
 
 ## What is the current fractal meta?
 
-It is important to note, that each challenge mote encounter has a different most effective tactic available (meta), which is never equals to the proposed composition below. Discretize focuses on clearing daily fractals efficiently, and the proposed composition brings enough utility to deal with all situations that are occurring in fractals. 
+It is important to note, that each challenge mote encounter has a different most effective tactic available (meta), which is never equals to the proposed composition below. Discretize focuses on clearing daily fractals efficiently, and the proposed composition brings enough utility to deal with all situations that are occurring in fractals without needing to relog to another character. 
 
 Most fights in fractals are so short that condi classes or power damage classes with a longer ramp-up time (e.g. <Specialization name="Chronomancer"/>) do not get to the point where they unfold their potential; also slaying potions such as <Item name="powerfulpotionofslayingscarletsarmies"/> favor power burst classes over condi. 
 
@@ -56,7 +57,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Provides permanent <Boon name="Quickness"/>, on demand <Boon name="Aegis"/> and <Boon name="Resistance"/>.
 * Generates a fair share of <Boon name="Fury"/> by <Skill name="Feel my wrath"/> and the sword symbol <Skill name="Symbol of Blades"/>.
 * Contributes to CC with <Skill name="banesignet"/>, which is also a **unique damage buff** that increases the entire group's power by 216. 
-* The damage depends on the encounter. In 99CM <Specialization name="Guardian"/> or <Specialization name="Dragonhunter"/> can be played resulting in very high DPS; in 100CM as <Specialization name="Firebrand"/> 1/2 up to 3/4 of a DPS player. 
+* The damage depends on the encounter. In Nightmare <Specialization name="Guardian"/> or <Specialization name="Dragonhunter"/> can be played resulting in very high DPS; in Shattered Observatory as <Specialization name="Firebrand"/> 1/2 up to 3/4 of a DPS player. 
 * Provides instant <Condition name="Vulnerability"/> application with <Skill name="swordofjustice"/>, which helps immensely to kill adds quickly at Mama, Siax and Skorvald.
 * Has blinks available from skills such as <Skill name="symbol of blades"/>, <Skill name="judges intervention"/> and <Skill name="mercifulintervention"/>.
 * Can provide situational <Boon name="Stability"/> for T4s or Artsariiv using <Skill name="Stand your ground"/>.
@@ -106,15 +107,17 @@ Removing <Specialization name="Berserker"/>: without the extra precision from th
 
 Removing <Specialization name="Soulbeast"/>: indisputable the worst idea as it provides the strongest damage buff in the game (<Skill name="onewolfpack"/>), a unique buff (<Skill name="frost spirit"/>) and the highest burst in the current revision of the game. Also your party loses <Effect name="Stealth"/> for T4s. 
 
-Removing <Specialization name="Weaver"/>: not a terrible idea. The <Specialization name="Weaver"/> could be replaced with a second <Specialization name="Soulbeast"/>. Double <Specialization name="Soulbeast"/> works well on most encounters in CMs, requires some fiddling at Siax but is not terrible overall. However, with that composition you will run into cleave problems in T4s. Also missing some blasts from the <Specialization name="Weaver"/> and the AoE <Condition name="Blinded"/> from <Skill name="sandstorm"/>.
+Removing <Specialization name="Weaver"/>: not a terrible idea. The <Specialization name="Weaver"/> could be replaced with a second <Specialization name="Soulbeast"/>. Double <Specialization name="Soulbeast"/> works well on most encounters in CMs, requires some fiddling here and there, but is not terrible overall. However, with that composition you will run into cleave problems in T4s. Also missing some blasts from the <Specialization name="Weaver"/> and the AoE <Condition name="Blinded"/> from <Skill name="sandstorm"/>.
 
 This shows how well the current meta builds synergize with each other and how important it is that every single player maxes out their role.
 
 ## What and how do I play in PuGs?
 
-Generally you can safely play meta builds in PuGs, but also condi builds work well. <Specialization name="Firebrand" text="Condi Firebrand"/> performs extremely well in T4s and is for slower groups (PuGs) in CMs the superior choice over <Specialization name="Firebrand" text="Power Firebrand"/>. It is also worth mentioning that the <Item id="79722"/> (or the <Item id="79608"/> which is a component for the omni potion) provides 15% increased condition damage attribute **and** 15% increased outgoing condition damage. Also <Specialization name="Chronomancer" text="Power Chronomancer"/> can flourish in slower groups or PuGs.
+Generally you can safely play meta builds in PuGs, but also most condi builds work well. For the sake of not having to regear - if you start for example with a <Specialization name="Scourge" text="Condi Scourge"/> - when you want to get better in fractals, we recommend to pick a meta or offmeta build from our [builds overview](/builds). In contrary to what people might say, condi builds work just fine. At Ensolyss a good group's phase takes about 12 - 15 seconds. <Effect name="Exposed"/> lasts for 5 seconds. That means, there is more than 33% uptime of <Effect name="Exposed"/> during which the group deals 50% more damage. In a unorganized group Ensolyss' phase duration ranges around 40 - 60 seconds which is around 8 - 12% uptime of <Effect name="Exposed"/>. The longer the fight the lower the <Effect name="Exposed"/>-uptime, the more the fight becomes like a golem where power and condi bench equally high numbers.
 
-PuGs rarely play the meta builds causing people who play meta to deal lower damage and perform worse overall due to the synergy of the meta classes. If you are one of those that seek to improve we highly encourage you to find a static via our `#looking-for-static` channel on [discord](https://discord.com/invite/G3QDSv) or [apply to Discretize](apply). Of course we encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game. However, there are many reasons for why the meta composition does not work well in PuGs.
+<Specialization name="Firebrand" text="Condi Firebrand"/> performs extremely well in T4s and is for slower groups (PuGs) in CMs the superior choice over <Specialization name="Firebrand" text="Power Firebrand"/>. It is also worth mentioning that the <Item id="79722"/> (or the <Item id="79608"/> which is a component for the omni potion) provides 15% increased condition damage attribute **and** 15% increased outgoing condition damage. Also <Specialization name="Chronomancer" text="Power Chronomancer"/> can flourish in slower groups or PuGs.
+
+PuGs rarely play the meta builds causing people who play meta to deal lower damage and perform worse overall due to the synergy of the meta classes. If you are one of those that seek to improve we highly encourage you to find a static via our `#looking-for-static` channel on [discord](https://discord.com/invite/G3QDSv) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game. However, there are many reasons for why the meta composition does not work well in PuGs.
 
 Some people are for what ever reasons not able to find a static or not committed enough to put time into a game **(which is totally understandable)** and just want a fast and wipe-less clear. For those we recommend a different team composition: 
 | | |
@@ -137,4 +140,4 @@ Another difference is that PuGs often claim, that CC is solely the job of the <S
 Many PuGs like to play <Specialization name="Dragonhunter"/>. That is just fine as you don't know what to expect of your fellow PuG mates and you prefer to be self-sufficient. But please use <Skill name="bane signet"/> with <Trait name="perfectinscriptions"/> to CC and provide a party-wide unique damage buff! It is more worth it than the +500 DPS you gain from pressing an auto-attack instead. 
 
 <Divider text="What now?"/>
-### If you do not know what to play yet we can help you with very basic description of the classes [here](/guides/what-should-i-play) or if you already read we recommend reading how you can utilize the Defiance bar by breaking it [here!](/guides/cc-distribution)
+### If you do not know what to play yet we can help you with very basic description of the classes [here](/guides/what-should-i-play) or if you already read that we recommend reading how you can utilize the Defiance bar by breaking it [here!](/guides/cc-distribution)

@@ -3,8 +3,8 @@ title: 'Berserker CM guides'
 build: 'Berserker'
 profession: 'Warrior'
 specialization: 'Berserker'
-date: '2020-09-29'
-author: 'SpatiumPrinceps.8927'
+date: '2020-11-14'
+author: 'Princeps.6481'
 disableOrganized: 'false'
 ---
 
@@ -14,11 +14,10 @@ disableOrganized: 'false'
 
 <Boss name="mama" video="YMy7HUTQEJI" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="14401" utility1Id="29941" utility2Id="14405" utility3Id="14407" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131" weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Severance" weapon2MainInfusion1Id="37131" >
 - Take <Trait id="1977"/>!
-- It makes sense to use [consumables](/guides/consumables) on the adds!
 </Boss>
 
 <Message>
-This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates. 
+This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab extra CC skills to make up for the lack of CC of your team mates. 
 </Message>
 This guide is a PuG friendly version without banner precast. Please remember that CCing all bars fast is the most important bit in this fight. You won't get a good kill - might even wipe your party - if you greed DPS without CC. 
 
@@ -46,7 +45,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 ### _2nd Add_
 
 - Swap to Maces.
-- <Skill name="skullgrinder"/> and <Skill name="pommelbash"/>.
+- <Skill name="skullgrinder"/>.
 - <Skill name="Mending"/> shortly before the add dies.
 
 ### **3rd Phase**
@@ -72,11 +71,13 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 <ConditionalComponent condition="static">
 
-<Boss name="mama" video="uIkrq7fPIhg" videoCreator="Rubby [dT]" foodId="43360" utilityId="50082" heal="bloodreckoning" utility1Id="29941" utility2="outrage" utility3="bullscharge" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131" >
-- Change <Skill name="bullscharge"/> to <Skill name="throwbolas"/> if you dont need the additional CC
+<Boss name="mama" video="uIkrq7fPIhg" videoCreator="Rubby" foodId="43360" utilityId="50082" heal="bloodreckoning" utility1Id="29941" utility2="outrage" utility3="bullscharge" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131" >
+- Change <Skill name="bullscharge"/> to <Skill name="throwbolas"/> if you don't need the additional CC
 - Play <Trait name="Smashbrawler"/>!
 <Message>
-This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
+This guide assumes you kill MAMA in less about 45 seconds (p1 break). The CC-distribution greatly changes depending on the speed the party is going. 
+
+If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
 </Message>
 </Boss>
 
@@ -102,25 +103,24 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 ### **2nd Phase**
 
-- <Skill name="outrage"/> as soon as its off cd.
-- Normal rotation according to the guide.
+- <Skill name="outrage"/> as soon as it's off cd.
+- Normal rotation according to the guide. Take advantage off the invisible hitbox to get more decapitates in. 
 
 ### _2nd Add_
-
-- <Skill name="Headbutt"/>, <Skill name="outrage"/>.
+- Swap to Mace to trigger <Item name="severance"/>
+- <Skill name="Headbutt"/>, <Skill name="outrage"/>. In case your party goes too fast <Skill name="Headbutt"/> won't be off cooldown. In that case you need a <Item name="frenzy"/> on your mainhand axe.
+- <Skill name="crushing blow"/> for <Condition name="Vulnerability"/> application.
 
 ### **3rd Phase**
-
-- <Skill name="bullscharge"/>, <Skill name="wildblow"/>.
+- Stay on Mace to trigger <Item name="severance"/> again.
+- <Skill name="bullscharge"/>, <Skill name="tremor"/>.
 
 ### _3rd Add_
+- <Skill name="Wildblow"/>
+- Swap to Mace and use <Skill name="crushing blow"/> for <Condition name="Vulnerability"/> application.
 
-- <Skill name="Headbutt"/>, <Skill name="outrage"/>.
-- Swap to mace already.
 
 ### **4th Phase**
-
-- CC with <Skill name="Tremor"/>
 - Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
 - Swap to Axe/Axe as soon as you are done with CCing and DPS.
 </ConditionalComponent>
@@ -167,10 +167,13 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 
 <ConditionalComponent condition="static">
-This build only works if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
 <Boss name="siax" video="yfPvLIHZaRM" timestamp="5" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="rifle" weapon2MainSigil1="force" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 - In organized teams a rifle can kill the adds very efficiently! 
 - Play <Trait name="Smashbrawler"/>!
+
+<Message>
+This build only works if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
+</Message>
 </Boss>
 
 ### **1st Phase**
@@ -197,7 +200,7 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 ### **3rd Phase**
 
 - Don't forget to apply <Trait name="peakperformance"/> with <Skill name="throwbolas"/>.
-- Use <Skill name="headbutt"/> and <Skill name="outrage"/>.
+- Use <Skill name="headbutt"/> and <Skill name="outrage"/> first thing as your <Skill name="Berserker"/> is about to run out at that point.
 - Do what a warrior does: smash <Skill name="decapitate"/>.
 
 **Annnotation:**
@@ -214,16 +217,34 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 - In slow teams (PuGs) bring <Trait name="smashbrawler"/> and <Skill name="outrage"/>.
 - In fast teams bring <Skill name="bullscharge"/> over <Skill name="signetofmight"/>.
 </Boss>
+
+
+### **1st Phase**
+- Get adrenaline with <Skill name="Whirlingaxe"/> and open <Skill name="Berserk"/> in the dome. 
+- After the dome cast <Skill name="Headbutt"/> and <Skill name="outrage"/>.
+- Smash <Skill name="Decapitate"/> hard.
+
+Pick up your banners - in case you did not precast them - after you phased Ensolyss!
+
+### **66% and 33%**
+
+Swap to your off set (mace/torch) and cap the circle. After you meet in the middle, continue with:
+
+- Use <Skill name="Flames of war"/> and blast 6 stacks of <Boon name="Might"/> with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
+- <Skill name="Mending"/>.
+- <Skill name="Berserk"/>.
+- <SKill name="Pommelbash"/>.
+- <Skill name="Headbutt"/> to trigger <Item name="severance"/>.
+- Swap weapons.
+- Smash <Skill name="Decapitate"/> hard.
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
-<Boss name="ensolyss" video="NbJl4FQFTaI" timestamp="63" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="mace" weapon2MainSigil1="severance" weapon2OffType="torch" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
+<Boss name="ensolyss" video="NbJl4FQFTaI" timestamp="63" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="severance" weapon2OffType="torch" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
 - Take <Trait name="savageinstinct"/>!
 - In slow teams (PuGs) bring <Trait name="smashbrawler"/> and <Skill name="outrage"/>.
 - In fast teams bring <Skill name="bullscharge"/> over <Skill name="signetofmight"/>.
 </Boss>
-</ConditionalComponent>
-
 
 ### **1st Phase**
 
@@ -232,19 +253,21 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 - Swap weapons.
 - Smash <Skill name="Decapitate"/> hard.
 
-Pick up your banners after you phased Ensolyss!
+Pick up your banners - in case you did not precast them - after you phased Ensolyss!
 
 ### **66% and 33%**
 
-Swap to your off set (mace/torch) and cap the circle. After you meet in the middle, continue with:
+Swap to your off set (axe/torch) and cap the circle. After you meet in the middle, continue with:
 
 - Use <Skill name="Flames of war"/> and blast 6 stacks of <Boon name="Might"/> with <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>.
 - <Skill name="Mending"/>.
-- <Skill name="pommelbash"/> to trigger <Item name="severance"/>.
-- <Skill name="Headbutt"/>.
+- <Skill name="cycloneaxe"/>.
+- <Skill name="Headbutt"/> to trigger <Item name="severance"/>.
 - <Skill name="Berserk"/>.
 - Swap weapons.
 - Smash <Skill name="Decapitate"/> hard.
+- Use <Skill name="bullscharge"/> before <Skill name="Whirlingaxe"/> to refresh <Trait name="peakperformance"/>.
+</ConditionalComponent>
 
 
 <ConditionalComponent condition="pug">
@@ -340,7 +363,6 @@ The rest of the fight follows accordingly.
 
 - Pick up your banners and place them in the middle of the arena.
 - Help your party to CC the adds, preferable by CCing the one in the middle since you are there anyway.
-- Make sure to use <Item name="termiteshovel"/> <Item name="metalrod"/> and <Item name="sentinelrifle"/> for fast CC.
 
 ### **66% and 33%**
 
@@ -359,7 +381,7 @@ The rest of the fight follows accordingly.
 
 ### **100%-66% in mid**
 
-- Precast banners before taking the mistlock.
+- Precast banners before taking the _Mistlock Singularity_.
 - Use <Skill name="mending"/> just before the fight starts.
 - Use <Skill name="signetoffury"/> as soon as she looses <Effect name="invulnerability"/> and use <Skill name="berserk"/>.
 - Cast <Skill name="whirlingaxe"/> and walk through the boss.
@@ -367,7 +389,7 @@ The rest of the fight follows accordingly.
 
 ### _Add Phases_
 
-- Swap to Sword/Warhorn, and CC your add quickly with <Item name="termiteshovel"/> <Item name="metalrod"/> and <Item name="sentinelrifle"/>.
+- Swap to Sword/Warhorn, and CC your add quickly.
 - Use <Skill name="savageleap"/> to get around the arena quickly.
 - Use <SpecialActionKey name="hypernovalaunch"/> to get back into the middle.
 - Precast <Skill name="Mending"/> and <Skill name="charge" profession="warrior"/>.
@@ -405,7 +427,7 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
 
 ### **Prestacking**
 
-- Drop a <Item name="whitemantleportaldevice"/> near the mistlock and jump over to Arkk's platform using the <SpecialActionKey name="hypernovalaunch"/>.
+- Drop a <Item name="whitemantleportaldevice"/> near the _Mistlock Singularity_ and jump over to Arkk's platform using the <SpecialActionKey name="hypernovalaunch"/>.
 - Precast <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/>, <Skill name="Banner of Tactics"/> and <Skill name="battlestandard"/>.
 - Take the portal back.
 - Drop a fire field with <Skill name="Flames of war"/>.
@@ -414,7 +436,7 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
 - Shortly before somebody triggers the encounter:
   - Precast <Skill name="Flames of war"/> for DPS then swap back to mace.
   - Precast <Skill name="Mending"/>.
-  - Take the mistlock to start the fight with maximum adrenaline.
+  - Take the _Mistlock Singularity_ to start the fight with maximum adrenaline.
 </ConditionalComponent>
 
 ### **1st Phase (100%-80%)**

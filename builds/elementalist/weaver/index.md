@@ -1,6 +1,6 @@
 ---
 title: 'Weaver'
-date: '2020-09-29'
+date: '2020-11-14'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Elementalist'
@@ -18,13 +18,34 @@ classification: [4, 5, 2, 3, 4]
 
 The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Sword Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some t4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so try  to avoid damage. Be especially careful when there is <Instability name="We Bleed Fire"/>. 
+Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>. 
 
-Also this build depends pretty much on supports and boon uptimes, as it cant provide any boons itself besides some <Boon name="Might"/> from blasting fire fields.
+Also this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-Though it has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication.
-
-The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+### **Nightmare Challenge Mode PuG videos** 
+<Grid>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="KlTuxWA9uKE"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="hknhxXkDSO8"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="dAn5Uy0--hc"/> 
+</GridItem>
+</Grid>
+### **Shattered Observatory Challenge Mode PuG videos**
+<Grid>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="RoixkWVPAaU"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="FErf2jfVRRM"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Elda [dT], edited by Vince [dT]" youtube="9pMxn4HtUyI"/> 
+</GridItem>
+</Grid>
 
 <Divider text="Equipment without weakness"/>
 
@@ -50,7 +71,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Berserker" amuletId="80241" amuletStatsId="1040" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Berserker" amuletAffix="Assassin" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
 <Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
@@ -228,7 +249,7 @@ When there are a lot of adds around and you have to time to hit both burst skill
 
 <GridItem xs="12" sm="12">
 <Card title="Precasting">
-If a Mistlock Singularity is present you should precast boons and particular effects for better group performance.
+If a _Mistlock Singularity_ is present you should precast boons and particular effects for better group performance.
 
 There are two possible ways to precast boons as <Specialization name="elementalist"/>.
 
@@ -237,7 +258,7 @@ There are two possible ways to precast boons as <Specialization name="elementali
 - Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
 - Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
 - Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>. 
-- Take the mistlock.
+- Take the _Mistlock Singularity_.
 
 It is recommended to use separate precast build to get additional buffs like <Trait name="Elemental Surge"/> for openers and more boons from them.
 
@@ -250,8 +271,8 @@ Weaver precasting build template:
 - Start on <Skill id="5495"/> with your warhorn/staff tempest precast template and cast <Skill id="29453"/> just when you get <Boon name="Quickness"/> from any source ( the best if fire field is actually placed for might blast ).
 - Swap to  <Skill id="5492"/> and use <Skill id="29548"/> and cast <Skill id="21656"/> and weapon swap to staff.
 - Precast <Skill id="5506"/> and <Skill id="5635"/> while in <Skill id="5492"/>
-- Precast <Skill id="5516"/>, take the mistlock and swap your template to weaver. Attune to  <Skill id="5494"/>/<Skill id="5492"/>. 
-- Take the mistlock
+- Precast <Skill id="5516"/>, take the _Mistlock Singularity_ and swap your template to weaver. Attune to  <Skill id="5494"/>/<Skill id="5492"/>. 
+- Take the _Mistlock Singularity_
 - **NOTE:** When using this precast it is recommended that one party member will bring the fire field. Otherwise use <Skill name="Wildfire"/> before using <Skill id="29548"/>.
 
 Tempest precasting build template:
@@ -263,7 +284,7 @@ Tempest precasting build template:
 - If you have spare time before the encounter becomes active
    - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
    - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
-- When there is an available mistlock but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself. 
+- When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself. 
 </Card>
 
 </GridItem>

@@ -1,6 +1,6 @@
 ---
 title: 'Power Reaper'
-date: '2020-09-29'
+date: '2020-11-14'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Necromancer'
@@ -11,15 +11,15 @@ traits: [2020, 2018, 853]
 boons: ['Might', 'Fury', 'Quickness']
 conditions:
   ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poisoned', 'Blinded']
-code: '[&DQg1GTIlIjYoDygPgQCBAHMBcwF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Discord: Jes#6596'
-cmguides: '/cm-guides/necromancer/reaper'
+cmguides: '/cm-guides/necromancer/power-reaper'
 classification: [1, 3, 4, 2, 3]
 ---
 
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
 
-<Specialization name="Reaper" text="Power Reaper"/> has multiple offensive skill options (<Control name="Pull"/>, boon corruptions, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Reaper" text="Power Reaper"/> can modify itself to fit many given situations in fractals.
+<Specialization name="Reaper" text="Power Reaper"/> has multiple offensive skill options (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Reaper" text="Power Reaper"/> can modify itself to fit many given situations in fractals.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -61,7 +61,7 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 | -- | -- |
 | <Skill name="Well of Corruption" size="big" disableText/> | A strong aoe boon corrput which can be used to boon rip on days with the No Pain No Gain instability
 | <Skill name="Summon flesh Wurm" size="big" disableText/> | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized). |
-| <Skill name="Spectral Walk " size="big" disableText/> | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade). |
+| <Skill name="Spectral Walk " size="big" disableText/> | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade). |
 | <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
 | <Skill name="Suffer" size="big" disableText/> | A defensive utility to help mitigate conditions on you, as well as apply extra Chill for usage with <Trait name="Cold Shoulder"/> |
 | <Skill name="You are all Weaklings" size="big" disableText/> | A defensive stun break utility. |
@@ -87,7 +87,7 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 | <Skill name="Wail of Doom" size="big" disableText/> | 200 with <Control name="Daze"/> (300 if traited) |
 | <Skill name="Charge" size="big" disableText/> | 200 with <Control name="Knockdown"/> and 232 with <Control name="Launch"/>| 
 | <Skill name="Terrify" size="big" disableText/> | 100 with <Condition name="Fear"/> |
-| <Skill name="Executioners Scythe" size="big" disableText/> | 150 with <Control name="Daze"/> |
+| <Skill name="Executioners Scythe" size="big" disableText/> | 150 with <Control name="Stun"/> |
 </Card>
 </GridItem>
 </Grid>

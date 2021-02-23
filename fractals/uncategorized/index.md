@@ -1,6 +1,6 @@
 ---
 title: 'Uncategorized'
-date: '2020-09-29'
+date: '2020-11-14'
 image: './images/header.jpg'
 group: 'T4'
 api: 2939
@@ -49,7 +49,7 @@ Then kill the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and fina
 If positioned correctly, you can <Skill id="5697"/> against the wall.
 </Tab>
 <Tab specialization="Berserker">
-Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly! Use [consumables](/guides/consumables) to CC!
+Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly!
 </Tab>
 </Tabs>
 </GridItem>

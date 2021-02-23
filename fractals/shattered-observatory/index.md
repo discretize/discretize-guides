@@ -1,6 +1,6 @@
 ---
 title: 'Shattered Observatory'
-date: '2020-09-29'
+date: '2020-11-14'
 image: './images/header.jpg'
 group: 'Challenge Mode'
 api: 3458
@@ -22,14 +22,14 @@ record:
 cycle: 'Day'
 potions: [{ id: 50082, description: 'against Arkk' }]
 sigils: [{ id: 24615 }, { id: 24868 }]
-consumables: [78978, 8759, 8678, 8732]
+consumables: [78978]
 ---
 
 ## Skorvald the Shattered <Label>5,551,340 HP</Label>
 
 |                    |                                                           |
 | ------------------ | --------------------------------------------------------- |
-| Encounter duration | 1:35min                                                   |
+| Encounter duration | 1:05min                                                   |
 | Sigils             | <Item name="impact"/> <Item name="force"/>                |
 | Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
 | CC                 | 2200                                                      |
@@ -108,7 +108,7 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 
 |                    |                                                           |
 | ------------------ | --------------------------------------------------------- |
-| Encounter duration | 1:30min                                                   |
+| Encounter duration | 52s                                                       |
 | Sigils             | <Item name="impact"/> <Item name="force"/>                |
 | Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
 | CC Artsariiv       | 2100                                                      |
@@ -122,8 +122,6 @@ The second boss of the fractal is Artsariiv. The encounter gets activated by bou
 Artsariiv summons copies which split into smaller clones upon death, they use martial arts skills, <Control name="Knockdown"/>, shoot shocking projectiles and apply a lot of damaging conditions. Discuss whether you kill all adds (safe tactic) or not.
 
 Assign a player for the _Globolla Marble_ bouncing (typically the <Specialization name="Renegade"/>) and a backup in case the main bouncer gets _Corporal Reassignment_.
-
-You will need a lot of crowd control skills, consumables like <Item id="8759"/> and <Item id="8678"/> are very strong here.
 
 **Use your <SpecialActionKey name="hypernovalaunch"/> special action key to quickly move around the platform, the <Boon name="Aegis"/> from it counters nearly all mechanics.**
 
@@ -179,7 +177,7 @@ After the fight is over, take the portal in the North and move forward to get to
 
 |                    |                                                                         |
 | ------------------ | ----------------------------------------------------------------------- |
-| Encounter duration | 2:00min                                                                 |
+| Encounter duration | 1:40min                                                                 |
 | Sigils             | <Item name="impact"/> <Item name="force"/>                              |
 | Food               | <Item id="41569"/> <Item name="powerfulpotionofslayingscarletsarmies"/> |
 | CC                 | 1800                                                                    |
