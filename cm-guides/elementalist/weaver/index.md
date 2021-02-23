@@ -6,6 +6,7 @@ specialization: 'Weaver'
 date: '2020-11-14'
 author: 'KalzeN.8709'
 disableOrganized: 'false'
+disableBosses: ['Light Ai', 'Dark Ai']
 ---
 
 

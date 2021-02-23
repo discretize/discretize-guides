@@ -1,7 +1,7 @@
 ---
 title: 'Condi Firebrand'
 date: '2020-11-14'
-rating: 'Offmeta'
+rating: 'Condi Meta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Firebrand'
@@ -12,6 +12,10 @@ conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
 code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 classification: [3, 4, 5, 2, 3]
 ---
+
+<Message>
+This build is [META](/guides/meta-explained) in Sunqua Peak. Outside Sunqua Peak in faster groups this build will fall massively behind <Specialization name="Dragonhunter"/> or <Specialization name="Guardian"/> - the power damage counterparts.
+</Message>
 
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high consistent DPS. In organized teams this build is inferior to <Specialization name="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very competitive results making DPS players sweat. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls. 
 

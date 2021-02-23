@@ -6,6 +6,7 @@ specialization: 'Dragonhunter'
 date: '2020-11-14'
 author: 'Princeps.6481'
 disableOrganized: 'true'
+disableBosses: ['Light Ai', 'Dark Ai']
 ---
 
 <Message>

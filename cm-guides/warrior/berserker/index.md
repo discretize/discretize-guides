@@ -6,6 +6,7 @@ specialization: 'Berserker'
 date: '2020-11-14'
 author: 'Princeps.6481'
 disableOrganized: 'false'
+disableBosses: ['Light Ai', 'Dark Ai']
 ---
 
 
