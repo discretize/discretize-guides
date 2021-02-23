@@ -1,7 +1,7 @@
 ---
 title: 'Condi Soulbeast'
 date: '2021-02-22'
-rating: 'Meta'
+rating: 'Condi Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
@@ -12,6 +12,10 @@ code: '[&DQQeHSE3Ny55AAAAvQAAAL8AAADpFgAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/condisoulbeast'
 classification: [5, 4, 3, 2, 3]
 ---
+
+<Message>
+This build is [META](/guides/meta-explained) in Sunqua Peak. Outside Sunqua Peak in faster groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
+</Message>
 
 Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals you will be better off playing the power varient found [here](/builds/ranger/soulbeast/).
 

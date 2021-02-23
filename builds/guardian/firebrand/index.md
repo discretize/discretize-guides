@@ -1,7 +1,7 @@
 ﻿---
 title: 'Firebrand'
 date: '2020-11-14'
-rating: 'Meta'
+rating: 'Power Meta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Firebrand'

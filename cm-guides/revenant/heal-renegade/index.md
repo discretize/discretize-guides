@@ -6,6 +6,7 @@ specialization: 'Renegade'
 date: '2020-11-14'
 author: 'Janitsu.6284'
 disableOrganized: 'true'
+disableBosses: ['Light Ai', 'Dark Ai']
 ---
 
 <Message>
