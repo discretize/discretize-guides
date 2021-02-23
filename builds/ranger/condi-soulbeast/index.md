@@ -137,7 +137,7 @@ Although Axe/Dagger benches higher, typically this build is only run in 100CM wh
 With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/> off cooldown, and your <Skill id="42944"/> skills and <Skill name="Vipers Nest"/> when you don't have anything else to do but auto attack.
 </Card>
 <Card title=" Shortbow Golem Rotation">
-<Video youtube="DblomOq_n2U" caption="by Lederr [SC] "/>
+<Video youtube="DblomOq_n2U" caption="by Leder [SC] "/>
 </Card>
 <Card title="Shortbow Golem Rotation">
 1. <Skill name="Vipers Nest"/>
