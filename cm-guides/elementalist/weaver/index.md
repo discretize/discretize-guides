@@ -3,7 +3,7 @@ title: 'Weaver CM guides'
 build: 'Weaver'
 profession: 'Elementalist'
 specialization: 'Weaver'
-date: '2020-09-29'
+date: '2020-11-14'
 author: 'KalzeN.8709'
 disableOrganized: 'false'
 ---
@@ -11,7 +11,7 @@ disableOrganized: 'false'
 
 <ConditionalComponent condition="pug">
 
-<Boss name="MAMA" video="UtNb8Zb9SaM" videoCreator="Elda [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="force" weapon1OffInfusionId="37131" >
+<Boss name="MAMA" video="KlTuxWA9uKE" videoCreator="Elda [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="force" weapon1OffInfusionId="37131" >
 
 This version is made mostly for PuGs that are not phasing fast enough to get profit from <Skill id="44612"/>. If group is good you can follow the organised rotation and just add <Skill id="5687"/> at start of the boss for cc (it will be up for phase 3). Precast <Skill id="40183"/> for 1 tick in <Skill id="5494"/>/<Skill id="5494"/> at the beginning of each phase.
 </Boss>
@@ -55,14 +55,14 @@ This version is made mostly for PuGs that are not phasing fast enough to get pro
 ### **Knight 3:**
 - Move outside of the toxic field, use <Skill id="5569"/> if low on health.
 - CC the knight with <Skill id="44998"/>. 
-- Autoattack add until its about to die.
+- Autoattack add until it's about to die.
 - Precast <Skill id="5737"/> when MAMA is about to jump to cleave knight and boss. **Dodge inside boss hitbox when the boss is landing to not get knocked**
 
 ### **Phase 4:**
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> auto chain 
  -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="5557"/>
 - Jump over the wave to not get knocked.
-- **NOTE:** If phases are slow you will be able to use <Skill id="5687"/> again in phase 4 to CC the boss/avoid damage. Dont be shy to use CC consumable if CC is slow.
+- **NOTE:** If phases are slow you will be able to use <Skill id="5687"/> again in phase 4 to CC the boss/avoid damage.
 
 
 </ConditionalComponent>
@@ -76,7 +76,7 @@ This version is made mostly for PuGs that are not phasing fast enough to get pro
 This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
 </Message>
 
-In more organised groups its recommended to run <Specialization name="Tempest"/>+<Skill name="conjurelightninghammer"/> precast to get extra phase 2 DPS and better <Boon name="Quickness"/>/<Boon name="Fury"/> uptime after the <Skill name="feelmywrath"/> changes (especially if you want to run with <Specialization name="Dragonhunter"/> instead of <Specialization name="Firebrand"/>).
+In more organised groups it's recommended to run <Specialization name="Tempest"/>+<Skill name="conjurelightninghammer"/> precast to get extra phase 2 DPS and better <Boon name="Quickness"/>/<Boon name="Fury"/> uptime after the <Skill name="feelmywrath"/> changes (especially if you want to run with <Specialization name="Dragonhunter"/> instead of <Specialization name="Firebrand"/>).
 
 </Boss>
 
@@ -126,7 +126,7 @@ In more organised groups its recommended to run <Specialization name="Tempest"/>
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="siax" video="hknhxXkDSO8" videoCreator="Elda [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131" >
+<Boss name="siax" video="XnTBfLMMic4" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131" >
 This version is made mostly for pugs that are not phasing fast enough to profit from <Skill id="44612"/> and where you have to solo your add. Use <Skill id="40183"/> slightly delayed to get more <Condition name="Burning"/> ticks. 
 </Boss>
 
@@ -152,7 +152,7 @@ This version is made mostly for pugs that are not phasing fast enough to profit 
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> auto chain -> <Skill id="44451"/> -> <Skill id="5557"/> -> <Skill id="5691"/> -> autos in <Skill id="5492"/>/<Skill id="5492"/> til <Skill id="45313"/> is up. Start attuning back to <Skill id="5494"/>/<Skill id="5494"/>
 - Spam <Skill id="5539"/> during <Effect name="Exposed"/> buff.
 ### **_2nd Add_**
-- Same like first split, just pick up <Skill id="5516"/> you dropped at first split if its still up after phase 2.
+- Same like first split, just pick up <Skill id="5516"/> you dropped at first split if it's still up after phase 2.
 
 ### **3rd Phase**
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> 
@@ -166,7 +166,7 @@ This version is made mostly for pugs that are not phasing fast enough to profit 
 <Message>
 This build only works if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
 </Message>
-In more organised groups its recommended to run <Specialization name="Tempest"/>+<Skill name="conjurelightninghammer"/> precast to get extra phase 2 DPS and better <Boon name="Quickness"/>/<Boon name="Fury"/> uptime after the <Skill name="feelmywrath"/> changes (especially if you want to run with <Specialization name="Dragonhunter"/> instead of <Specialization name="Firebrand"/>).
+In more organised groups it's recommended to run <Specialization name="Tempest"/>+<Skill name="conjurelightninghammer"/> precast to get extra phase 2 DPS and better <Boon name="Quickness"/>/<Boon name="Fury"/> uptime after the <Skill name="feelmywrath"/> changes (especially if you want to run with <Specialization name="Dragonhunter"/> instead of <Specialization name="Firebrand"/>).
 
 </Boss>
 
@@ -181,15 +181,15 @@ In more organised groups its recommended to run <Specialization name="Tempest"/>
 ### _1st Add_
 - Jump at add with your <Skill id="5517"/> and after damaging it move towards the Siax.
 - Precast <Skill id="5531"/> and <Skill id="5737"/> on boss hitbox
-- **NOTE:** If there is <Instability name="Vengeance"/> or <Instability name="No Pain, No Gain"/> and adds have <Boon name="Protection"/> its recommended to use <Skill id="5697"/> from adds back to move towards siax and provide more help for guardian with killing echo. You have to be **very** fast in that phase otherwise you will loose a lot of your phase 2 burst. 
+- **NOTE:** If there is <Instability name="Vengeance"/> or <Instability name="No Pain, No Gain"/> and adds have <Boon name="Protection"/> it's recommended to use <Skill id="5697"/> from adds back to move towards siax and provide more help for guardian with killing echo. You have to be **very** fast in that phase otherwise you will loose a lot of your phase 2 burst. 
 
 
 ### **2nd Phase**
-- Its the most important part for you as <Specialization name="weaver"/>. You have to be as fast as possible to get proper burst in <Effect name="Exposed"/> after changes ( 4s <Effect name="Exposed"/> duration ).
+- It's the most important part for you as <Specialization name="weaver"/>. You have to be as fast as possible to get proper burst in <Effect name="Exposed"/> after changes ( 4s <Effect name="Exposed"/> duration ).
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="44612"/>
  -><Skill id="44451"/>->  <Skill id="5557"/> -> <Skill id="5691"/> -> auto chain in <Skill id="5492"/>/<Skill id="5492"/> -> Attune back to <Skill id="5494"/>/<Skill id="5494"/> with remaining <Skill id="44612"/>
 - When boss is about 36-33% pick up <Skill id="5516"/>.
-- **NOTE:** Be careful with tether mechanic to not blow up your allies. If you are fast and have a close eye on others echos its possible to precast <Skill id="43803"/> and use <Skill id="5691"/>-> <Skill id="44451"/> -> <Skill id="5557"/> priority to get full <Effect name="Exposed"/> dmg and additional <Trait id="1510"/> stacks from tethers, but you have to be insanely fast.
+- **NOTE:** Be careful with tether mechanic to not blow up your allies. If you are fast and have a close eye on others echos it's possible to precast <Skill id="43803"/> and use <Skill id="5691"/>-> <Skill id="44451"/> -> <Skill id="5557"/> priority to get full <Effect name="Exposed"/> dmg and additional <Trait id="1510"/> stacks from tethers, but you have to be insanely fast.
 ### _2nd Add_
 - <Skill id="5517"/> to add, use few autos from your <Skill id="5516"/> and <Skill id="5697"/> through the echo back to boss.
 - If you have troubles with that part you can use 1-2 ticks from <Skill id="40183"/> to give deal some additional <Condition name="Vulnerability"/> on add.
@@ -205,9 +205,8 @@ In more organised groups its recommended to run <Specialization name="Tempest"/>
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="ensolyss" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
+<Boss name="ensolyss" video="dAn5Uy0--hc" timestamp="" videoCreator="Elda [dT]" foodId="41569" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 If group DPS is low its recommended to run <Trait id="214"/> instead of <Trait id="1502"/>. In PuGs it is recommended to use the raid rotation from Snow Crows.
-
 Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>. If phases are long try to use next ones in <Skill id="5492"/>/<Skill id="5494"/> -> <Skill id="5492"/>/<Skill id="5492"/> to get more burning stacks. Spam your <Skill id="5539"/> during <Effect name="Exposed"/> window.
 </Boss>
 
@@ -217,7 +216,7 @@ Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>.
 
 ### **1st Phase**
 - Precast <Skill id="5737"/>
-- CC boss with <Item id="8664"/> or <Item id="8783"/> -> <Skill id="43803"/> -> <Skill id="45313"/> ->  <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5725"/> ( autochain if no LH precast ), <Skill id="5687"/>/<Skill id="5733"/> if breakbar is still not broken -> <Skill id="5557"/> -><Skill id="44451"/> -><Skill id="5691"/>-> <Skill id="45313"/> 
+- <Skill id="43803"/> -> <Skill id="45313"/> ->  <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="5725"/> ( autochain if no LH precast ), <Skill id="5687"/>/<Skill id="5733"/> if breakbar is still not broken -> <Skill id="5557"/> -><Skill id="44451"/> -><Skill id="5691"/>-> <Skill id="45313"/> 
 - Continue loop with BTTH rotation until boss is phased.
 - **NOTE:** Save your <Skill id="5539"/> after <Effect name="Exposed"/> buff for next phases. 
 
@@ -230,7 +229,7 @@ Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>.
 
 ### **66%**
 
-- Precast <Skill id="5737"/> if its up just at the start of phase.
+- Precast <Skill id="5737"/> if it's up just at the start of phase.
 - <Skill id="5687"/> -> <Skill id="44998"/> -> <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete your auto attack chain ->  <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
 - Continue loop with BTTH rotation until boss is phased.
 - Complete your auto attack chains and get as much damage as you can in the <Effect name="Exposed"/> duration.
@@ -239,7 +238,7 @@ Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>.
 - Throw your <Skill id="5516"/> in the middle of boss hitbox.
 - Precast <Skill id="5531"/> and <Skill id="5737"/>
 -   <Skill id="5687"/>-> <Skill id="44998"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Autoattach Chain  -> <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
-- When boss jumps to the corner and bubble phase begins pick up your remaining <Skill id="5516"/> and <Skill id="5517"/> to it. Cast <Skill id="5531"/> on it and continue with standard BTTH rotation til its dead.
+- When boss jumps to the corner and bubble phase begins pick up your remaining <Skill id="5516"/> and <Skill id="5517"/> to it. Cast <Skill id="5531"/> on it and continue with standard BTTH rotation til it's dead.
 - Complete your auto attack chains and get as much damage as you can in the <Effect name="Exposed"/> duration.
 
 
@@ -247,7 +246,7 @@ Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>.
 
 <ConditionalComponent condition="static">
 
-<Boss name="ensolyss" video="0mmm-CBLrn8" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="arcanebrilliance" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
+<Boss name="ensolyss" video="0mmm-CBLrn8" videoCreator="KalzeN [dT]" foodId="41569" utilityId="50082" heal="arcanebrilliance" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 Use first <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>, if phases are long try to use the next ones in <Skill id="5492"/>/<Skill id="5494"/> -> <Skill id="5492"/>/<Skill id="5492"/> to get more <Condition name="Burning"/> stacks. 
 </Boss>
 
@@ -272,7 +271,7 @@ Use first <Skill id="40183"/> precasted for instant <Condition name="Vulnerabili
 
 - Before the boss becomes vulnerable blast <Skill id="21656"/> with fire field placed by warrior so that party gets some <Boon name="Might"/>.
 - Precast <Skill id="5531"/> on boss hitbox.
-- Precast <Skill id="5737"/> if its up just at the start of phase.
+- Precast <Skill id="5737"/> if it's up just at the start of phase.
 - <Skill id="5687"/> -> <Skill id="44998"/> -> <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete your auto attack chain ->  <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
 - Continue loop until boss is phased.
 - Complete auto attack chains and get as much damage as you can in the <Effect name="Exposed"/> duration.
@@ -282,8 +281,8 @@ Use first <Skill id="40183"/> precasted for instant <Condition name="Vulnerabili
 - Precast <Skill id="5737"/>
 -   <Skill id="5687"/>-> <Skill id="44998"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Autoattach Chain  -> <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
 - Continue loop with BTTH rotation until boss is phased.
-- Complete auto attack chains and get as much damage as its possible in the <Effect name="Exposed"/> duration.
-- **NOTE:** Try to double dodge CCing attack if phase 15% before bubble and dont have enough dps to kill boss before CCing attack.
+- Complete auto attack chains and get as much damage as it's possible in the <Effect name="Exposed"/> duration.
+- **NOTE:** Try to double dodge CCing attack if phase 15% before bubble and don't have enough dps to kill boss before CCing attack.
 
 
 </ConditionalComponent>
@@ -292,7 +291,7 @@ Use first <Skill id="40183"/> precasted for instant <Condition name="Vulnerabili
 
 <ConditionalComponent condition="pug">
 
-<Boss name="skorvald" video="RoixkWVPAaU" timestamp="" videoCreator="Elda [dT]" foodId="43360" utilityId="9443" heal="arcanebrilliance" utility1="primordialstance" utility2="glyphofstorms" utility3="unravel" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131"> 
+<Boss name="skorvald" video="RoixkWVPAaU" timestamp="" videoCreator="Elda [dT]" foodId="41569" utilityId="9443" heal="arcanebrilliance" utility1="primordialstance" utility2="glyphofstorms" utility3="unravel" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131"> 
 
 Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase, if playing <Skill id="5539"/> spam it during <Effect name="Exposed"/> window.
 
@@ -315,21 +314,21 @@ Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the
 
 - Stay in <Skill id="5492"/>/<Skill id="5492"/> after phase 1
 - <Skill id="45313"/> to anomaly, attune to <Skill id="5495"/>/<Skill id="5492"/> and blast fire field with <Skill id="21656"/>
-- Auto add until its dead
+- Auto add until it's dead
 
 *Island 2* 
 - Place fire field with <Skill id="5691"/>, both blast and evade <Control name="Knockback"/> of the wave with <Skill id="40709"/>
 - <Skill id="5557"/> on anomaly just after wave. Attune to <Skill id="5495"/>/<Skill id="5495"/> and blast second time with <Skill id="5690"/>
 
 *Island 3*
-- Attune to <Skill id="5492"/>/<Skill id="5495"/>  and use <Skill id="46447"/> as fast as possible to provide self stability and dont get knocked
+- Attune to <Skill id="5492"/>/<Skill id="5495"/>  and use <Skill id="46447"/> as fast as possible to provide self stability and don't get knocked
 - <Skill id="45313"/> on anomaly and attune to <Skill id="5494"/>/<Skill id="5492"/>
 
 *Island 4* 
 - Drop fire field with <Skill id="5691"/> as fast as possible and blast it with <Skill id="21656"/>
 - Attune to <Skill id="5494"/>/<Skill id="5494"/>
 - Throw <Skill id="5516"/> in corner for your <Specialization name="Soulbeast"/>
-- Avoid knocking wave at all cost, you can jump over it, you can dodge it, you can jump over it with <Skill id="5517"/> ( but its tricky ). Just dont get cc'ed.
+- Avoid knocking wave at all cost, you can jump over it, you can dodge it, you can jump over it with <Skill id="5517"/> ( but it's tricky ). Just don't get cc'ed.
 - Go through the portal for phase 2 when anomaly is on about 30-40% of health, if there is no portal use <Skill id="5697"/> to fasten the rift jump.
 
 ### **Phase 2**
@@ -345,7 +344,7 @@ Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the
 
 <Boss name="skorvald" video="DaKI7Ccr_Ss" videoCreator="Tym [dT]" foodId="91805" utilityId="9443" heal="arcanebrilliance" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131"> 
 - Make sure to drop your <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="Soulbeast"/> can pick it up before taking the Portal
-- In **VERY** fast groups its not that bad to use <Skill id="5539"/> instead of <Skill id="40183"/>. Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase, if playing <Skill id="5539"/> spam it during <Effect name="Exposed"/> window.
+- In **VERY** fast groups it's not that bad to use <Skill id="5539"/> instead of <Skill id="40183"/>. Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase, if playing <Skill id="5539"/> spam it during <Effect name="Exposed"/> window.
 <Message>
 One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four _Elite Flux Anomalies_. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
 </Message>
@@ -369,26 +368,26 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 
 - Stay in <Skill id="5492"/>/<Skill id="5492"/> after phase 1
 - <Skill id="45313"/> to anomaly, attune to <Skill id="5495"/>/<Skill id="5492"/> and blast fire field with <Skill id="21656"/>
-- Auto add until its dead
+- Auto add until it's dead
 
 *Island 2* 
 - Place fire field with <Skill id="5691"/>, both blast and evade <Control name="Knockback"/> wave with <Skill id="40709"/>
 - <Skill id="5557"/> on anomaly just after wave. Attune to <Skill id="5495"/>/<Skill id="5495"/> and blast second time with <Skill id="5690"/>
 
 *Island 3*
-- Attune to <Skill id="5492"/>/<Skill id="5495"/>  and use <Skill id="46447"/> as fast as possible to provide self <Boon name="Stability"/> and dont get knocked
+- Attune to <Skill id="5492"/>/<Skill id="5495"/>  and use <Skill id="46447"/> as fast as possible to provide self <Boon name="Stability"/> and don't get knocked
 - <Skill id="45313"/> on anomaly and attune to <Skill id="5494"/>/<Skill id="5492"/>
  
 *Island 4* 
 - Drop fire field with <Skill id="5691"/> as fast as possible and blast it with <Skill id="21656"/>
 - Attune to <Skill id="5494"/>/<Skill id="5494"/>
 - Throw <Skill id="5516"/> in corner for your <Specialization name="Soulbeast"/>
-- Avoid <Control name="Knockback"/> wave at all cost, you can jump over it, you can dodge it, you can jump over it with <Skill id="5517"/> ( but its tricky ). Just dont get cc'ed.
+- Avoid <Control name="Knockback"/> wave at all cost, you can jump over it, you can dodge it, you can jump over it with <Skill id="5517"/> ( but it's tricky ). Just don't get cc'ed.
 - Go through the portal for phase 2 when anomaly is on about 30-40% of health.
 
 ### **Phase 2**
 - Precast <Skill id="5531"/>
-- Precast <Skill id="5737"/> only if its off cd and you are not using portals between islands for phase 3.
+- Precast <Skill id="5737"/> only if it's off cd and you are not using portals between islands for phase 3.
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> <Skill id="44612"/> -> <Skill id="44451"/>-><Skill id="5557"/>  -> <Skill id="5691"/>.
 
 ### **Islands**
@@ -405,11 +404,11 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 
 <ConditionalComponent condition="pug">
 
-<Boss name="artsariiv" video="FErf2jfVRRM" timestamp="" videoCreator="Elda [dT]" foodId="43360" utilityId="9443" heal="glyphofelementalharmony" utility1="primordialstance" utility2="glyphofstorms" utility3="arcaneblast" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131"> 
+<Boss name="artsariiv" video="FErf2jfVRRM" timestamp="" videoCreator="Elda [dT]" foodId="41569" utilityId="9443" heal="glyphofelementalharmony" utility1="primordialstance" utility2="glyphofstorms" utility3="arcaneblast" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131"> 
 - Play <Trait name="ragingstorm"/> over <Trait name="stormsoul"/>!
 - Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase.
 - Spam your <Skill id="5539"/> while in <Skill id="5492"/>/<Skill id="5494"/> / <Skill id="5492"/>/<Skill id="5492"/>, especially when <Skill name="Onewolfpack"/> buff is up.
-- `/gg` if you are doomed ( skull ) and its impossible to phase before it blows up (PuGs rarely use this strategy).
+- `/gg` if you are doomed ( skull ) and it's impossible to phase before it blows up (PuGs rarely use this strategy).
 </Boss>
 
 ### **Precast**
@@ -422,12 +421,8 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 - <Skill id="5687"/> ->  <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Complete your auto attack chain ->  <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
 - Continue loop with BTTH rotation until boss is phased.
 
-### **Split 1** 
-- Go nuts with CC consumables
-- Dont die
-
 ### **Phase 2** 
-- Sometimes when PuGs are pretty special you can have <Skill id="5737"/> ready for phase 2, if its up go for it.
+- Sometimes when PuGs are pretty special you can have <Skill id="5737"/> ready for phase 2, if it's up go for it.
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> autochain -> dodge deathwave -> <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>
 - Start attuning to <Skill id="5494"/>/<Skill id="5494"/> as fast as possible
 - Jump to boss with <SpecialActionKey name="hypernovalaunch"/>.
@@ -435,8 +430,6 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 - Continue with BTTH rota until boss is phased
 
 ### **Split 2**
-- Go nuts with CC consumables once more
-- Dont die
 - Throw <Skill id="5531"/> in the middle maybe someone can get use of it.
 
 ### **Phase 3**
@@ -455,27 +448,27 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 - Play <Trait name="ragingstorm"/> over <Trait name="stormsoul"/>!
 - Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase.
 - Spam your <Skill id="5539"/> while in <Skill id="5492"/>/<Skill id="5494"/> / <Skill id="5492"/>/<Skill id="5492"/>, especially when <Skill name="Onewolfpack"/> buff is up.
-- `/gg` if you are doomed ( skull ) and its impossible to phase before it blows up.
+- `/gg` if you are doomed ( skull ) and it's impossible to phase before it blows up.
 - Mid-strategy: the strategy is focused around phasing the boss in the middle before she moves.
 </Boss>
 
 ### **Precast**
-- Precast <Skill id="5624"/> behind boss hitbox (on edge of it, sligthly left to not get cucked with marbles during picking it up, watch any PoV for more input ). /gg or use portal to get back to mistlock.
+- Precast <Skill id="5624"/> behind boss hitbox (on edge of it, sligthly left to not get cucked with marbles during picking it up, watch any PoV for more input ). /gg or use portal to get back to _Mistlock Singularity_.
 - **NOTE:** You can use tempest precast as well if any party member is placing fire field.
 
 ### **Precast on boss**
-Its not that easy precast and opener, its recommended to check any PoV before using it.
-- Precast <Skill id="5531"/> when orb is about to hit the ground and boss will be triggered. Its about 0.5-0.8 second.
+It's not that easy precast and opener, it's recommended to check any PoV before using it.
+- Precast <Skill id="5531"/> when orb is about to hit the ground and boss will be triggered. It's about 0.5-0.8 second.
 - Fully precast <Skill id="5501"/> and attune to <Skill id="5494"/>/<Skill id="5494"/>. Swap your weapons during cast time.
 - Precast <Skill id="5737"/>
 
 ### **Phase 1**
 - If you feel confident with timers precast <Skill id="43803"/>, it should be precasted instantly after <Skill id="5737"/> when precast is executed properly.
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> dodge to the LH to not get hit by death ray -> pick up LH -> <Skill id="5725"/> -> drop LH -> <Skill id="5557"/> -> cast <Skill id="44451"/> and jump over knocking wave during cast time while following boss -> <Skill id="45313"/> to boss. 
-- If boss is still not phased continue with BTTH rota until its phased. 
+- If boss is still not phased continue with BTTH rota until it's phased. 
 
 ### **Split 1**
-- CC your add with CC consumables or <Skill id="5687"/>+CC consu if cannot side step aoe circles to upkeep scholar.
+- CC your add with <Skill id="5687"/>.
 - You can use <Skill id="5529"/> to get back to center faster for p2.
 
 ### **Phase 2**
@@ -485,7 +478,7 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 - Start attuning to <Skill id="5494"/>/<Skill id="5494"/> as fast as possible
 - Jump to boss with <SpecialActionKey name="hypernovalaunch"/>.
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> auto chain -> <Skill id="44451"/> 
-- Dont use <Skill id="5691"/>, save it for pre p3 blast. 
+- Don't use <Skill id="5691"/>, save it for pre p3 blast. 
 - Continue with BTTH rota if boss is still not phased.
 
 ### **Split 2**
@@ -493,7 +486,7 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 - Stay in <Skill id="5494"/>/<Skill id="5492"/>
 - Cast <Skill id="5691"/> for blasts.
 - Attune to <Skill id="5494"/>/<Skill id="5494"/>
-- CC the add with consumable or <Skill id="44998"/>+<Skill id="5687"/>
+- CC the add with <Skill id="44998"/>+<Skill id="5687"/>
 - Throw your <Skill id="5516"/> for your <Specialization name="Soulbeast"/> close to the middle.
 
 ### **Phase 3**
@@ -501,7 +494,7 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 - Precast <Skill id="5531"/> and <Skill id="5737"/>
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> autochain -> dodge deathwave -> <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/>
 - If boss is still not killed use <SpecialActionKey name="hypernovalaunch"/> to get to the corner and just finish it with normal BTTH rota execution.
-- **NOTE:** In organized groups you should block/burn mistlock on deathwave to not loose DPS by dodging it in middle.
+- **NOTE:** In organized groups you should block/burn Rigorous Certainty on deathwave to not loose DPS by dodging it in middle.
 
 </ConditionalComponent>
 
@@ -510,22 +503,22 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 
 <ConditionalComponent condition="pug">
 
-<Boss name="arkk" video="9pMxn4HtUyI" timestamp="" videoCreator="Elda [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="primordialstance" utility2="glyphofstorms" utility3="arcaneblast" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131"> 
+<Boss name="arkk" video="9pMxn4HtUyI" timestamp="" videoCreator="Elda [dT]" foodId="41569" utilityId="50082" heal="glyphofelementalharmony" utility1="primordialstance" utility2="glyphofstorms" utility3="arcaneblast" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger"  weapon1OffSigil="force" weapon1OffInfusionId="37131"> 
 - Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase and mini bosses.
 - Spam your <Skill id="5539"/> during <Effect name="Exposed"/> window. Use one blast at start of phase 1 and in phase 3 when <Skill name="onewolfpack"/> is up.
 </Boss>
 ### **Precast**
 
-- Try to precast <Skill id="5624"/> before boss hitbox to pick it up during eye attack and turn back from boss when picking it up /gg or use portal to get back to mistlock. Skip it if group is nervous about elitist stuff.
+- Try to precast <Skill id="5624"/> before boss hitbox to pick it up during eye attack and turn back from boss when picking it up /gg or use portal to get back to _Mistlock Singularity_. Skip it if group is nervous about elitist stuff.
 - Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
 - Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
 - Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
-- Precast <Skill id="5516"/> and take mistlock
+- Precast <Skill id="5516"/> and take _Mistlock Singularity_
 - **NOTE:** You can use tempest precast as well if any party member is placing fire field
 
 ### **Phase 1**
 - Precast <Skill id="5737"/>
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> pick up LH ( dont get <Condition name="Fear"/>ed ), use auto chain if not precasted -> <Skill id="5725"/> -> <Skill id="5557"/> 
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> pick up LH ( don't get <Condition name="Fear"/>ed ), use auto chain if not precasted -> <Skill id="5725"/> -> <Skill id="5557"/> 
  -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
 - If boss is still not phased continue with BTTH rota, start attuning to <Skill id="5494"/>/<Skill id="5494"/> as fast as possible.
 
@@ -548,7 +541,7 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 
 ### **Phase 3** 
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> auto chain -><Skill id="5557"/> ->  <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
-- Depending on previous phase times and <Boon name="Alacrity"/> uptime your <Skill id="5737"/> could be on cd in that phase. Use it if its up before ~60% of boss hp.
+- Depending on previous phase times and <Boon name="Alacrity"/> uptime your <Skill id="5737"/> could be on cd in that phase. Use it if it's up before ~60% of boss hp.
 - Continue with BTTH rotation until boss is phased, try to not cancel anything while using <SpecialActionKey name="hypernovalaunch"/> while avoiding marble attack.
 
 ### **Phase 4**
@@ -573,7 +566,7 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 - Precast <Skill id="5531"/> and <Skill id="5737"/>, pay attention to other orbs, they can be pretty messy in here, so try to not loose your precasted damage by precasting too early.
 - <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> auto chain ->  <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="5557"/>-> <Skill id="45313"/>
 - Continue with BTTH rotation until boss is dead.
-- Use <SpecialActionKey name="hypernovalaunch"/> or Burn Mistlock to dont get hit by deathray.
+- Use <SpecialActionKey name="hypernovalaunch"/> or Burn Rigorous Certainty to don't get hit by deathray.
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
@@ -584,9 +577,9 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 </Boss>
 
 ### **Precast**
-- Precast <Skill id="5624"/> before boss hitbox to pick it up during eye attack and turn back from boss when picking it up /gg or use portal to get back to mistlock.
+- Precast <Skill id="5624"/> before boss hitbox to pick it up during eye attack and turn back from boss when picking it up /gg or use portal to get back to _Mistlock Singularity_.
 - Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>. 
-- Take the mistlock and go through the portal for platform opener.
+- Take the _Mistlock Singularity_ and go through the portal for platform opener.
 - **NOTE:** You can use tempest precast as well if any party member is placing fire field.
 
 ### **Platform Opener**
@@ -595,7 +588,7 @@ Its not that easy precast and opener, its recommended to check any PoV before us
 - Precast <Skill id="43803"/> when boss is pulled and dark mist/cloud of arriving showed up ( you can wait till arkk shows up if you re not confident with timers )
 
 ### **Phase 1**
-- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> pick up LH ( dont get <Condition name="Fear"/>ed) -> <Skill id="5725"/> -> <Skill id="5557"/>
+- <Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> pick up LH ( don't get <Condition name="Fear"/>ed) -> <Skill id="5725"/> -> <Skill id="5557"/>
  -> <Skill id="44451"/> -> <Skill id="5691"/>
 - If boss is still not phased continue with BTTH rota, start attuning to <Skill id="5494"/>/<Skill id="5494"/> as fast as possible.
 

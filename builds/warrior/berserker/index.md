@@ -1,6 +1,6 @@
 ---
 title: 'Berserker'
-date: '2020-09-29'
+date: '2020-11-14'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Warrior'
@@ -12,7 +12,7 @@ traits: [1444, 1977, 2049]
 conditions: ['Vulnerability']
 boons: ['Might']
 code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
-author: 'SpatiumPrinceps.8927'
+author: 'Princeps.6481'
 cmguides: '/cm-guides/warrior/berserker'
 classification: [ 4, 4, 4, 2, 4]
 ---
@@ -24,6 +24,31 @@ Besides providing the group with strong unique damage buffs through the stats of
 The <Specialization text="Banner Berserker" name="Berserker"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone.
 
 Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
+
+### **Nightmare Challenge Mode PuG videos** 
+<Grid>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="YMy7HUTQEJI"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="b2Xi8dRE5js"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="K6S6yrQcxkY"/> 
+</GridItem>
+</Grid>
+### **Shattered Observatory Challenge Mode PuG videos**
+<Grid>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="yioeHPEHAK4"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="anHIsOj_USY"/> 
+</GridItem>
+<GridItem sm="4">
+<Video caption="by Roach [dT], edited by Vince [dT]" youtube="xElMtN7QKMo"/> 
+</GridItem>
+</Grid>
 
 <Divider text="Equipment"/>
 <Tabs outlined>
@@ -103,7 +128,7 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 <Card title="You need...">
 - All fractal augmentations.
 - <Item id="70596"/>.
-- Mistlock singularity.
+- _Mistlock Singularity_.
 - 10x <Item id="37131"/>.
 - 1x <Item id="49439"/>.
 - 7x <Item id="49438"/>.
@@ -133,7 +158,7 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 <GridItem sm="7">
 <Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint, Doubled Standards, Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct, Blood Reaction, Bloody Roar"/>
 <Card title="Maximizing berserk uptime">
-For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. Two such examples can be seen below for the first two bosses of 99CM:
+For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. Two such examples can be seen below for the first two bosses of the Nightmare CM fractal:
 ### **Mama**
 <Skills unembossed healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343"/>
 
@@ -154,7 +179,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 | <Skill name="Signet of might" disableText size="big"/> | Flat 180 power buff. Only take this when no other utility is needed.|
 | <Skill name="Battle Standard" disableText size="big"/> | For Arkk and Artsariiv. |
 | <Skill name="banneroftactics" disableText size="big"/> | Can be precasted at encounters. |
-| <Skill name="onmymark" disableText size="big"/> | Can be used to pull Krait from the side altars at 99CM. |
+| <Skill name="onmymark" disableText size="big"/> | Can be used to pull Krait from the side altars at the Nightmare CM fractal. |
 | <Skill name="featherfootgrace" disableText size="big"/> | Grants <Effect name="Superspeed"/> for skips. |
 | <Skill name="frenzy" disableText size="big"/> | Self <Boon name="Quickness"/> for precasting banners. |
 | <Skill name="bloodreckoning" disableText size="big"/> | For double <Skill name="arcdivider"/> or the situational <Specialization name="Berserker"/> build. |
@@ -242,16 +267,19 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <GridItem xs="12" sm="6">
 <Card title="Precasting">
-- Precast banners - encounter specific. Check out the cm-guides!
-- Use both charges of <Skill name="For Great Justice!"/>.
-- If a fire field isn’t present, equip an offhand torch and use <Skill name="Flames of War"/>.
-- If you haven’t needed to precast your banners at the boss, use them to blast the fire field for 6 stacks of <Boon name="Might"/> per banner.
-- Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand warhorn to blast four times using the _Mistlock Singularity_.
-- Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
-- If there is a defiance bar present immediately at the start of the fight, start on your Mace/Mace set - otherwise swap to it when necessary.
-- With <Item name="Paralyzation" type="Sigil"/> you can deal 820 defiance bar damage with:
+- Stack <Boon name="Might"/>:
+    - Use both charges of <Skill name="For Great Justice!"/>.
+    - Drop a fire field with <Skill name="Flames of War"/>.
+    - (if available) blast with banners for a total of 6 stacks of <Boon name="Might"/>
+    - Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand warhorn.
+- Precast damage skills: 
+    - (optional) <Skill name="Flames of War"/>
+    - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
+    - Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
+- If there is a defiance bar present immediately at the start of the fight, start on your Mace set - otherwise swap to it when necessary.
+- With <Item name="Paralyzation" type="Sigil"/> you can deal 690 defiance bar damage with:
   - <Skill name="Tremor"/>, you can precast it and cancel the aftercast animation.
-  - <Skill name="Pommel Bash"/> + <Skill name="Headbutt"/>.
+  - <Skill name="Headbutt"/> with <Item name="Paralyzation" type="Sigil"/> for a total of 390 CC.
 </Card>
 </GridItem>
 

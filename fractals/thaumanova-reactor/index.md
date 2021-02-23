@@ -1,11 +1,11 @@
 ---
 title: 'Thaumanova Reactor'
-date: '2020-09-29'
+date: '2020-11-14'
 image: './images/header.jpg'
 group: 'T4'
 api: 2967
 bosses: 2
-difficulties: [{ level: 84, ar: 122 }]
+difficulties: [{ level: 82, ar: 118 }]
 record:
   {
     time: '2:43',

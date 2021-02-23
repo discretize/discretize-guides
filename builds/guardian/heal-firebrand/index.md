@@ -1,6 +1,6 @@
 ﻿---
 title: 'Heal Firebrand'
-date: '2020-09-29'
+date: '2020-11-14'
 rating: 'Offmeta'
 role: 'Support'
 profession: 'Guardian'
@@ -42,7 +42,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="4">
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Harrier" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon2MainType="Axe" weapon2MainAffix="Harrier" weapon2MainSigil1="Transference" weapon2OffType="Shield" weapon2OffAffix="Harrier" weapon2OffSigil="Concentration" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2OffInfusionId="49432"/>
 <Card title="Swap Weapons">
-* Greatsword for pulling adds in 99 CM
+* Greatsword for pulling adds in Nightmare CM after MAMA.
 * A hammer for <Boon name="Might"/> pre-stacking
 </Card>
 </GridItem>
@@ -97,6 +97,7 @@ In case your team downs frequently and is unable to handle mechanics correctly, 
 <GridItem sm="12">
 <Card title="Skill Usage">
 Prestacking:
+- Drop a _Fire Field_ with <Skill name="44364"/> - Skill 4
 - Press <Skill name="Empower"/>
 - Press <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> each twice; press <Skill name="Feel My Wrath"/>
 - Take mistlock 
@@ -117,7 +118,7 @@ CCing:
 - Always use <Skill name="Bane Signet"/>! This is one of the most important things you have to do!
 - Use <Skill name="Blazing Edge"/> (Axe3)
 - Use <Skill name="Shield of Absorption"/> (Shield5)
-- Using consumables such as <Item name="Metal Rod"/>, <Item name="sentinelrifle"/> and <Item name="termiteshovel"/> is highly encouraged, since you having nothing to do anyway.
+- On demand: <Skill name="Sanctuary"/>
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 

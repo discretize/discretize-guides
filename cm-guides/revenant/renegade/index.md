@@ -3,7 +3,7 @@ title: 'Renegade CM guides'
 build: 'Renegade'
 profession: 'Revenant'
 specialization: 'Renegade'
-date: '2020-09-29'
+date: '2020-11-14'
 author: 'Casual Sophie - Jin Su Liang.9036'
 disableOrganized: 'false'
 ---
@@ -125,7 +125,7 @@ disableOrganized: 'false'
 </Boss>
 
 ### **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlaps and grants twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast if needed.
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the _Mistlock Singularity_ and repeat. The two casts of <Skill name="Ordersfromabove"/> overlaps and grants twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast if needed.
 * After the introduction of templates, it is recommended to precast using equipment with higher boon duration.
 * Ask your <Specialization name="Weaver"/> to precast <Skill name="Conjure Frost Bow"/> for your opening rotation.
 
@@ -232,7 +232,7 @@ disableOrganized: 'false'
 </Boss>
 
 ### **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast if needed.
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the _Mistlock Singularity_ and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast if needed.
 * After the introduction of templates, it is recommended to precast using equipment with higher boon duration.
 
 ### **100-66%**
@@ -319,7 +319,7 @@ disableOrganized: 'false'
 </Boss>
 
 ### **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the _Mistlock Singularity_ and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
 
 ### **100-66%**  
 * Precast <Skill name="Darkrazors Daring"/> when the <Specialization name="Weaver"/> is casting <Skill name="Meteorshower"/>.
@@ -430,7 +430,7 @@ disableOrganized: 'false'
 </Boss>
 
 ### **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the _Mistlock Singularity_ and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
 
 ### **100-66%**
 * Precast <Skill name="Darkrazors Daring"/> and <Skill name="Icerazors Ire"/> at Artsariiv's location after triggering the encounter.
@@ -503,9 +503,6 @@ disableOrganized: 'false'
 * <Skill name="Legendary Renegade Stance"/>.
 * <Skill name="Soulcleaves Summit"/>, <Skill name="Heroic Command"/>, <Skill name="Shackling wave"/>, <Skill name="Deathstrike"/>, <Skill name="Unrelenting Assault"/>.
 
-### _Add_
-* Use consumables.
-
 
 ### **66-33%**
 * <Skill name="Breakrazors Bastion"/>, <Skill name="Soulcleaves Summit"/>, <Skill name="Orders from Above"/>, <Skill name="Heroic Command"/>.
@@ -516,7 +513,6 @@ disableOrganized: 'false'
 
 ### _Add_
 * <Skill name="Forced Engagement"/> for one add.
-* Use consumables for the remaining two adds.
 
 ### **33-0%**
 * Precast <Skill name="Inspiring Reinforcement"/>, <Skill name="Orders from Above"/>.
@@ -543,7 +539,7 @@ disableOrganized: 'false'
 
 
 ### **Precast**  
-* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the mistlock and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
+* Cast <Skill name="Ordersfromabove"/> for <Boon name="Alacrity"/> and <Skill name="Renewingwave"/> to blast <Boon name="Might"/>, take the _Mistlock Singularity_ and repeat. The two casts of <Skill name="Ordersfromabove"/> overlap and grant twice the duration of <Boon name="Alacrity"/>. You can use <Skill name="DroptheHammer"/> for an additional <Boon name="Might"/> blast.
 
 ### **100-80%**
 * Cast <Skill name="Soulcleaves Summit"/> on Arkk and auto-attack until the Anomaly appear.
@@ -602,7 +598,7 @@ disableOrganized: 'false'
 * Activate <Skill name="Impossible Odds"/>, and use <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> until the encounter is finished.
 
 ### **Annotation**
-* Kill the Anomaly in the 70-50% phase if your party struggles to survive without the Mistlock Singularity for the remainder of the encounter.
+* Kill the Anomaly in the 70-50% phase if your party struggles to survive without the _Mistlock Singularity_ for the remainder of the encounter.
     * Use <Skill name="Icerazors Ire"/>, <Skill name="Chilling Isolation"/>, and <Skill name="Shackling Wave"/> to finish the Anomaly in this case.
 * Weapon swap back to swords as early as you can in the phases where you break the defiance bar. 
 * Precast <Skill name="Darkrazors Daring"/> early enough to gain energy for <Skill name="Surge of the Mists"/> in the opening of 80-70%, 50-40%, and 30-0%. 

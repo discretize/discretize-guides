@@ -1,6 +1,6 @@
 ---
 title: 'Snowblind'
-date: '2020-09-29'
+date: '2020-11-14'
 image: './images/header.jpg'
 group: 'T4'
 api: 2952
@@ -54,13 +54,13 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 
 <Grid>
 <GridItem sm="6">
-## Elemental Source <Item id="8885" disableText/><Item id="24661" disableText/>  
-  
+## Elemental Source 
+
 At the start of the fight, light up the five bonfires to remove the 10 stacks of *Rime Shield* from the boss. Each stack reduces its damage taken by 10%.
 
 Every 25%, the Elemental Source casts _Wind Gust_ (icy projectiles) which makes the bonfires loose health. If a bonfire goes down, you will need to throw firewood into it and light it up again using your special action key.
 
-With reflects and high DPS you can simply burst the boss before any bonfire expires. Note that the Elemental Source is a structure so no potion will work on it.
+With reflects and high DPS you can simply burst the boss before any bonfire expires. Note that the Elemental Source is a structure so no potion or sigil will work on it.
 </GridItem>
 
 <GridItem sm="6">
@@ -142,7 +142,7 @@ Take either <Skill name="Legendary Dwarf Stance"/> or <Skill name="Legendary Cen
 Use <Specialization name="Tempest"/> <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.
 </Tab>
 <Tab specialization="Berserker">
-Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly! Use [consumables](/guides/consumables) to CC!
+Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly! 
 </Tab>
 </Tabs>
 </GridItem>

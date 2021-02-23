@@ -1,6 +1,6 @@
 ---
 title: 'Condi Firebrand'
-date: '2020-09-29'
+date: '2020-11-14'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Guardian'
@@ -15,21 +15,21 @@ classification: [3, 4, 5, 2, 3]
 
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high consistent DPS. In organized teams this build is inferior to <Specialization name="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very competitive results making DPS players sweat. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls. 
 
-This build has tremendous amounts of self-sustain and is therfore also a great build for soloing content:
+This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
 - Permanent <Boon name="Quickness"/>.
 - Permanent 25x Might if you swap to <Trait name="zealous scepter"/>.
 - <Skill id="41780"/> for heals.
 - <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
 - Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
  
-One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 <Attribute name="Power"/> buff provided by <Skill name="Bane Signet"/>. You should make up for the lack of CC with [consumables](/guides/consumables).
+One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 <Attribute name="Power"/> buff provided by <Skill name="Bane Signet"/>. 
 
 Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independant of their groups.
 
 <Divider text="Equipment"/>
 
 - Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longers fights drop <Item id="24560"/> for <Item id="72339"/>.
-- Playing the raid DPS build with this traits performs almost identical.
+- Playing the raid DPS build with this traits performs almost identically.
 - <Item name="majorbursting"/> and <Item name="bursting"/> stack.
 
 <Grid>
@@ -41,7 +41,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="majorbursting" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
 
 <Card title="Swap Weapons">
-* Greatsword for pulling adds in 99 CM.
+* Greatsword for pulling adds in Nightmare CM after MAMA.
 * A staff for <Boon name="Might"/> pre-stacking.
 </Card>
 </GridItem>

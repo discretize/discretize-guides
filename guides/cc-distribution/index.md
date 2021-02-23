@@ -1,6 +1,6 @@
 ---
 title: 'CC Distribution'
-date: '2020-09-29'
+date: '2020-11-14'
 image: './images/preview.jpg'
 description: 'Learn how to contribute your share of CC to break all the bars.'
 hidden: 'false'
@@ -23,7 +23,7 @@ The present <Specialization name="Firebrand"/> + <Specialization name="Renegade"
 A list of CC skills along with their defiance bar damage can be found on each class respective [Build page](/builds). 
 
 In Tier 4 fractals (T4) a breakbar usually does not exceed 600 units, nevertheless, it is everyone's responsibility to break bars as quickly as possible. 
-In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for their lack of CC with [CC consumables](/guides/consumables).
+In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for their lack of CC with additional CC skills.
 <Message>
 **Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**
 </Message>
@@ -52,27 +52,20 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 </GridItem>
 </Grid>
 
-## Challenge Mode CC distribution
+## Challenge Mode CC distributions
 <Tabs>
 
 <Tab title="Mama">
 <Divider text="MAMA"/>
 
-At 1800 MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800, each MAMA becomes the most CC heavy fractal boss in the game. 
-<Divider text="restricted"/>
-When playing without CC Consumables, the <Specialization name="Berserker"/> needs to take an offhand mace with <Item id="24639"/> in addition to <Skill name="wildblow"/> and <Skill name="bullscharge"/>, and the <Specialization name="Firebrand"/> needs to bring <Skill name="HammerofWisdom"/> instead of <Skill name="sword of justice"/>.
+At 1800 MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800, each MAMA becomes the most CC heavy fractal boss in the game. The <Specialization name="Berserker"/> needs to take an offhand mace with <Item id="24639"/> in addition to <Skill name="wildblow"/> and <Skill name="bullscharge"/>, and the <Specialization name="Firebrand"/> needs to bring <Skill name="HammerofWisdom"/> instead of <Skill name="sword of justice"/>.
 
 <Image src="./images/mama_restricted.png" caption="Restricted Mama CC distribution by Dissect [Dc]"/>
-<Divider text="unrestricted"/>
-When playing with CC consumables, the <Specialization name="Firebrand"/> can keep <Skill name="sword of justice"/>.
 
-<Image src="./images/mama_unrestricted.png" caption="Unrestricted Mama CC distribution with consumables"/>
 </Tab>
 <Tab title="Siax">
 <Divider text="Siax"/>
 At 2000 Siax has a medium-sized defiance bar that you should only have to break once if you are fast. 
-
-You can always use a <Item name="metalrod"/> if you don't trust your group.
 
 <Image src="./images/siax.png" caption="Siax CC distribution"/>
 </Tab>
@@ -85,9 +78,10 @@ At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss ha
 The bigger bar in the second and third phase means that the <Specialization name="Berserker"/>  needs to do an extra <Skill name="pommelbash"/> and that the weaver needs to do an extra <Skill name="polaricleap"/>.
 
 <Image src="./images/enso_2.png" caption="Ensolyss Phase 2 and 3 CC distribution"/>
-
 </Tab>
+</Tabs>
 
+<Tabs>
 <Tab title="Skorvald">
 <Divider text="Skorvald"/>
 At 2200 Skorvald the Shattered has one of the largest defiance bars out of all the Challenge Mode fractal bosses, meaning that the whole group needs to contribute to break it quickly. 
@@ -103,13 +97,6 @@ At 2100 Artsariiv has a large defiance bar that needs to be broken quickly for t
 The remaining 750 defiance bar damage should come from the <Specialization name="Firebrand"/>'s <Skill name="Banesignet"/> and from <Specialization name="Berserker"/>'s <Skill name="headbutt"/> and either <Skill name="Tremor"/> or <Skill name="updraft"/> from <Specialization name="Weaver"/> if the <Specialization name="Berserker"/> isn't bringing an offhand mace.  
 
 <Image src="./images/artsariiv.png" caption="Artsariiv CC distribution"/>
-<Divider text="split phase adds"/>
-
-The easiest and fastest way to break the defiance bars on the split-phase clones is with [crowd control consumables](/guides/consumables). This also means you don't need to waste any DPS skills to CC these adds.
-
-- For the first split phase at 66% you want to use a <Item name="rock"/> followed by either a <Item name="termiteshovel"/> or <Item name="metalrod"/>.
-- For the second split phase at 33% you can use either a <Item name="sentinelrifle"/>, 2 <Item name="rock"/>s or a <Item name="termiteshovel">.
-
 </Tab>
 
 <Tab title="Arkk">

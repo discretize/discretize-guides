@@ -1,6 +1,6 @@
 ﻿---
 title: 'Aquatic Ruins'
-date: '2020-09-29'
+date: '2020-11-14'
 image: './images/header.jpg'
 group: 'T4'
 api: 2956
@@ -15,12 +15,7 @@ record:
   }
 cycle: 'Day'
 potions: [{ id: 50082, description: 'only for the Krait at the beginning' }]
-sigils:
-  [
-    { id: 24658, description: 'only for the Krait at the beginning' },
-    { id: 24615 },
-    { id: 24868 },
-  ]
+sigils: [{ id: 24658, description},{ id: 24615 }]
 consumables: [78978]
 ---
 
@@ -98,7 +93,7 @@ If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Kra
 <GridItem sm="7">
 ## Jellyfish Beast
 
-The Jellyfish Beast does not have a Breakbar since the rework. Use <Item id="24615"/> and <Item id="24658"/>.
+The Jellyfish Beast does not have a Breakbar since the rework. It uses a special version of <Effect name="Exposed"/> called Weakened, sadly the <Item id="24868"/> does not work on this effect. Use <Item id="24615"/> and <Item id="24658"/> (Krait for the split phases) instead.
 
 It starts it's rotation with an AoE stun. If you get eaten by the boss, your weapon skills get replaced from 1 to 5. Click the specific skill every time to get free. If you miss the right skill too often you die.
 

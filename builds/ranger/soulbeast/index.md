@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2020-09-29'
+date: '2021-01-30'
 rating: 'Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -39,7 +39,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="longbow" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2MainInfusion2Id="49432"/>
 
-<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
+<Consumables foodId="91805" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -68,7 +68,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/>!
 <GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="longbow" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2MainInfusion2Id="37131"/>
 
-<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
+<Consumables foodId="91805" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -93,7 +93,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="4">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainId="46774" weapon1MainSigil1="Force" weapon1MainSigil1Id="24615" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffId="46759" weapon1OffSigil="Impact" weapon1OffSigilId="24868" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24868" weapon2MainType="longbow" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2MainInfusion2Id="37131"/>
 
-<Consumables food="Bowl of Sweet and Spicy Butternut Squash Soup" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
+<Consumables foodId="91805" utility="Tin of Fruitcake" infusion="Mighty +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -110,13 +110,39 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full zerk on both.
 </Message>
 </Tab>
+
+
+<Tab title="Condi Soulbeast">
+This build is **only** for use in 100CM! For all other fractals you will be **much better off playing power** (Apart from maybe Sirens Reef).
+<Grid>
+<GridItem sm="4">
+<Armor weight="Medium" helmAffix="Viper" helmRune="Krait" shouldersAffix="Viper" shouldersRune="Krait" coatAffix="Viper" coatRune="Krait" glovesAffix="Viper" glovesRune="Krait" leggingsAffix="Viper" leggingsRune="Krait" bootsAffix="Viper" bootsRune="Krait" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="37130" weapon2MainInfusion1Id="37130" weapon1OffInfusionId="37130" weapon2MainInfusion2Id="37130"/>
+
+<Consumables foodId="92488" utilityId="48917" infusion="Malign +9 Agony Infusion"/>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
+
+<Card title="Alternative Gear">
+* <Item id="24687"/> can be worth running if you have 2 or more soulbeasts. With this rune setup you will need expertise food and ideally expertise infusions.
+
+</Card>
+</GridItem>
+</Grid>
+</Tab>
 </Tabs>
 
 <Divider text="Build"/>
-
+<Tabs>
+<Tab title="Power">
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,1047,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128"/>
+<Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,970,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128"/>
 </GridItem>  
 <GridItem sm="5">
 <Skills healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
@@ -129,6 +155,26 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 </Card>  
 </GridItem>
 </Grid>
+</Tab>
+<Tab title="Condi">
+<Grid>
+<GridItem sm="7">
+<Traits traits1Id="33" traits1="Wilderness Survival" traits1SelectedIds="1099,1101,1701" traits2Id="30" traits2="Skirmishing" traits2SelectedIds="1069,1846,1912" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2161,2128"/>
+</GridItem>  
+<GridItem sm="5">
+<Skills healId="44948" utility1Id="40498" utility2Id="12537" utility3Id="12498" eliteId="45717"/>
+<Card title="Pets">
+| | |
+| -- | -- |
+| <Skill id="46432" size="big" disableText/> | [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>.|
+| <Skill id="40625" size="big" disableText/> | [Lynx](https://wiki.guildwars2.com/wiki/Juvenile_Lynx) - Best CDPS for single target, taken if you don't need CC. |
+| <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets.
+</Card>  
+</GridItem>
+</Grid>
+</Tab>
+</Tabs>
+
 
 <Divider text="Further information"/>
 <Grid>
@@ -137,17 +183,18 @@ It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 A
 | | |
 | -- | -- |
 | <Trait name="Clarion Bond" size="big" disableText/> | Can be useful if the blast and team <Boon name="Might"/> is more advantageous than the self <Boon name="Might"/> from <Trait name="Huntersgaze"/>. |
-| <Trait name="Wilting Strike" size="big" disableText/> | Take this instead of <Trait name="Two-handed training"/> if you need to help provide <Condition name="weakness"/> for your <Specialization name="Weaver"/>. |
-| <Trait name="Natural healing" size="big" disableText/> | Take this instead of <Trait name="Two-handed training"/> if you are running longbow and want some passive healing. |
+| <Trait name="Wilting Strike" size="big" disableText/> | Take this instead of <Trait name="Natural Healing"/> if you need to help provide <Condition name="weakness"/> for your <Specialization name="Weaver"/>. |
+| <Trait name="Two Handed Training" size="big" disableText/> | Take this instead of <Trait name="Natural Healing"/> if you are running Greatsword for cooldown reduction and more damage. |
 | <Trait id="2143" size="big" disableText/> | On short T4 fights you can precast <Skill name="One wolf pack"/> with <Trait name="Leader of the pack"/> for your allies then swap traits right before you get in combat. |
 | <Trait name="potentally" size="big" disableText/> | For longer encounters, more <Boon name="Might"/> generation. |
 </Card>
 <Card title="Skirmishing and Fractals">
-Running Skirmishing in fractals is quite a niche choice, you need to satisfy **both of the following requirements:**
+Running Skirmishing in fractals is quite a niche choice, you need to satisfy **the following requirements:**
 - You can be sure that you can flank the boss permanently.
 - You want to replace a <Specialization name="Berserker"/> by providing your team with <Trait name="Spotter"/> so they can crit cap.
+- You are running a double Soulbeast comp and need <Trait name="Quickdraw"/> to reduce your <Skill name="Whirling Defense"/> cooldown.
 
-If both of these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:
+If you meet these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:
 <Traits unembossed traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069, 1016, 1888"/>
 <Message>
 <Trait name="trappersexpertise"/> is worth over <Trait id="1069"/> if it allows you to get another <Skill name="Frost trap"/> in a phase.
@@ -162,7 +209,7 @@ If both of these requirements then you can swap Marksmanship for Skirmishing wit
 | <Skill name="Moa Stance" size="big" disableText/> | Allows all boons that are applied during its uptime to last longer, great for prestacking. |
 | <Skill name="Quickening Zephyr" size="big" disableText/> | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>. |
 | <Skill name="Dolyak Stance" size="big" disableText/> | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles). |
-| <Skill name="sharpeningstone" size="big" disableText/> | Can be used before mistlock precast for and swapped with a usual utility for some extra opener DPS. |
+| <Skill name="sharpeningstone" size="big" disableText/> | Can be used before _Mistlock Singularity_ precast for and swapped with a usual utility for some extra opener DPS. |
 | <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai Trin and Artsariiv. |
 | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. |
 </Card>
@@ -240,29 +287,30 @@ For that reason you can find a video below with openers for each of the CM bosse
 9. `Weapon Swap`
 10. <Skill name="Path of scars"/>
 11. <Skill name="Whirling Defense"/>
-12.  `Autoattack chain x4`
+12.  `Autoattack chain x5`
 13. <Skill name="Path of scars"/>
 14. `Weapon Swap`
-15. <Skill name="Long Range Shot"/> `Autoattack x6`
-16. <Skill name="Point Blank Shot"/>
-17. <Skill name="Barrage"/>
-18. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-19. Repeat from `Step 5`
+15. <Skill name="Rapid Fire"/> 
+16. <Skill name="Long Range Shot"/> `Autoattack x6`
+17. <Skill name="Point Blank Shot"/>
+18. <Skill name="Barrage"/>
+19. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
+20. Repeat from `Step 5`
   
 </Card>
 </GridItem>
 <GridItem sm="6">
 <Card title="Precasting">
-If you have a Mistlock Singularity present you can use this rotation
+If you have a _Mistlock Singularity_ present you can use this rotation
 1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
 2. <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
 3. `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
 4. <Skill id="12621"/> to blast might.
 5. <Skill id="31914"/> to extend your boons.
 6. Pick up <Skill id="5516"/> if there is one.
-7. <Skill name="One Wolf Pack"/> then take the Mistlock and trigger the boss.
+7. <Skill name="One Wolf Pack"/> then take the _Mistlock Singularity_ and trigger the boss.
 
-If you don't have Mistlock Singularity present you can use this simplified rotation:
+If you don't have _Mistlock Singularity_ present you can use this simplified rotation:
 1. If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
 2. <Skill id="12621"/> to blast might.
 3. <Skill id="31914"/> to extend your boons.
@@ -321,3 +369,4 @@ For a DPS rotation the same rules apply as above land, try to fit lots of damage
 </Card>  
 </GridItem>
 </Grid>
+

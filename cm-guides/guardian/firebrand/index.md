@@ -3,7 +3,7 @@ title: 'Firebrand CM guides'
 build: 'Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
-date: '2020-09-29'
+date: '2020-11-14'
 author: 'ganymed.3541'
 disableOrganized: 'false'
 ---
@@ -12,16 +12,15 @@ disableOrganized: 'false'
 
 <Boss name="mama" video="odHRC78RDGU" videoCreator="SLifeR [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9125" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 <Message>
-This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab [consumables](/guides/consumables) to make up for the lack of CC of your team mates.
+This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab additional CC skills to make up for the lack of CC of your team mates.
 </Message>
-- It makes sense to use [consumables](/guides/consumables) on the adds!
+
 </Boss>
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
 
 <Boss name="mama" video="e323qch7Kq4" videoCreator="Princeps [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9125" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
-- Feel free to substitute <Skill name="hammerofwisdom"/> with [consumables](/guides/consumables).
 </Boss>
 
 </ConditionalComponent>
@@ -375,9 +374,6 @@ Stay in the middle
 9) <Skill name="whirling wrath"/>
 10) Weapon swap
 
-### *Split Phases*
-- CC with [consumables](/guides/consumables)
-
 ### **Phase 2 and 3**
 1) <Skill name="tome of justice"/> Skill 4
 2) <Skill name="symbol of punishment"/>
@@ -411,9 +407,6 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 1) <Skill name="symbol of blades"/> and <Skill name="ray of judgement"/>
 2) <Skill name="zealotsdefense"/> while she jumps away.
 
-### *Split Phases*
-- CC with [consumables](/guides/consumables)
-
 ### **Phase 2 and 3**
 1) Cast <Skill name="banesignet"/> as soon as possible
 2) <Skill name="symbol of blades"/> and <Skill name="ray of judgement"/>
@@ -437,7 +430,7 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 
 <ConditionalComponent condition="static">
 
-<Boss name="Arkk" video="" videoCreator="" foodId="91805" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
+<Boss name="Arkk" video="BzokxHx0ufM" timestamp="135" videoCreator="Ganny [dT]" foodId="91805" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 - Play scepter on this encounter
 - Place markers for the blooms 
 - You can run <Item id="43360"/> if you are able to damage the first anomaly and adds in the later phases.
