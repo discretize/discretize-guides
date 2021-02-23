@@ -41,7 +41,6 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
 
 <Card title="Swap Weapons">
-* Warhorn for Might pre-stacking.
 * An Axe/Dagger set to replace Shortbow for fights where range is not needed.
 * A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
 
@@ -69,7 +68,6 @@ This build is probably only worth running in a static group. It's damage depends
 <BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="86113" backItemInfusion2Id="86113" accessory1InfusionId="86113" accessory2InfusionId="86113" ring1Infusion1Id="86113" ring1Infusion2Id="86113" ring1Infusion3Id="86113" ring2Infusion1Id="86113" ring2Infusion2Id="86113" ring2Infusion3Id="86113"/>
 
 <Card title="Swap Weapons">
-* Warhorn for Might pre-stacking.
 * An Axe/Dagger set to replace Shortbow for fights where range is not needed.
 * A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
 
@@ -178,23 +176,13 @@ With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Sk
 
 <GridItem sm="6">
 <Card title="Precasting">
-For encounters where boons get stripped but unique buffs do not you can precast these skills.
+In 100CM boons get stripped but unique buffs do not you can precast these skills.
 1. If you can get in combat briefly stack <Item id="24609"/> and <Item id="24599"/>
 2. <Skill name="Sharpen Spines"/> while merged with Bristleback then swap pet
 3. <Skill name="Moa Stance"/>, <Skill id="12537"/> and <Skill name="Vulture Stance"/> 
 4. <Skill name="One Wolf Pack"/>
 5. Swap skills if necessary
 6. Take the _Mistlock Singularity_ and merge with your pet
-
-If you have a _Mistlock Singularity_ present you can use this rotation
-1. If you can get in combat briefly stack <Item id="24609"/> and <Item id="24599"/>
-2. <Skill name="Sharpen Spines"/> while merged with Bristleback then swap pet
-3. If a fire field isn’t present use <Skill id="12504"/>.
-4. <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
-5. <Skill id="12621"/> to blast might.
-6. <Skill id="31914"/> to extend your boons.
-7. Use <Skill id="12537"/> and <Skill name="Vulture Stance"/>
-8. <Skill name="One Wolf Pack"/> then take the _Mistlock Singularity_ and merge with your pet.
 
 </Card>
 <Card title="Axe/Dagger Golem Rotation">
