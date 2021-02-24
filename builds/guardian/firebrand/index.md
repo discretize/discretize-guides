@@ -1,7 +1,7 @@
 ﻿---
 title: 'Firebrand'
-date: '2020-11-14'
-rating: 'Meta'
+date: '2021-02-24'
+rating: 'Power Meta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Firebrand'
@@ -13,6 +13,7 @@ code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'ganymed.3541'
 cmguides: '/cm-guides/guardian/firebrand'
 classification: [5, 3, 4, 2, 4]
+compositions: ['Rainbow', '2Gh2Slb', 'Rainbearbow']
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.

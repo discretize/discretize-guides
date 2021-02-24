@@ -1,32 +1,28 @@
 ---
-title: 'Condi Soulbeast'
+title: 'Condi Alac Renegade'
 date: '2021-02-24'
 rating: 'Condi Meta'
 role: 'Damage'
-profession: 'Ranger'
-specialization: 'Soulbeast'
-benchmark:
-  { small: { dps: 36197, by: 'Erin', youtube: 'WSuDmiuAwC8' } }
-skills: [45717, 12498, 12504, 46432]
-code: '[&DQQeHSE3Ny55AAAAvQAAAL8AAADpFgAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
-cmguides: '/cm-guides/ranger/condisoulbeast'
-classification: [5, 4, 3, 2, 3]
+profession: 'Revenant'
+specialization: 'Renegade'
+benchmark: { large: { dps: 23973, by: 'MajesticNoodle [BATS]', youtube: 'p4D96l_GVPg' } }
+skills: [45773, 27505]
+traits: [1786]
+boons: ['Alacrity', 'Might', 'Stability']
+conditions: ['Vulnerability']
+code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
+author: ''
+cmguides: '/cm-guides/revenant/condi-alac-renegade'
+classification: [5, 2, 4, 3, 5]
 compositions: ['2Gh2Slb']
-
 ---
 
-<Message>
-This build is [META](/guides/meta-explained) in Sunqua Peak. Outside Sunqua Peak in faster groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
-</Message>
+<Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, an insanely strong party heal and additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>. 
 
-Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals you will be better off playing the power varient found [here](/builds/ranger/soulbeast/).
+Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty. 
 
-This build is rather self sufficient due to:
-- Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/> 
-- Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
-- High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
+Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from  <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike. 
 
 <Divider text="Equipment"/>
 

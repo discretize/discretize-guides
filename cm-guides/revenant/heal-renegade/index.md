@@ -3,9 +3,10 @@ title: 'Heal Renegade CM guides'
 build: 'Heal-Renegade'
 profession: 'Revenant'
 specialization: 'Renegade'
-date: '2020-11-14'
+date: '2021-02-24'
 author: 'Janitsu.6284'
 disableOrganized: 'true'
+disableBosses: ['Light Ai', 'Dark Ai']
 ---
 
 <Message>

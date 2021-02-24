@@ -3,9 +3,10 @@ title: 'Dragonhunter CM guides'
 build: 'Power-Dragonhunter'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
-date: '2020-11-14'
+date: '2021-02-24'
 author: 'Princeps.6481'
 disableOrganized: 'true'
+disableBosses: ['Light Ai', 'Dark Ai']
 ---
 
 <Message>
