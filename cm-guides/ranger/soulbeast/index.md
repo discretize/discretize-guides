@@ -165,6 +165,7 @@ This rotation is designed to be used when playing double Soulbeast comps, it bur
 
 ### **Precast**
 
+- During the pre-event cast a <Skill name="Frost Trap"/> where the first Knight will spawn.
 - Make sure you have <Trait name="Leader of the pack"/> while precasting!
 - If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
 - Use  <Skill name="Moa Stance"/> to grant your team free extra boon duration.
@@ -174,18 +175,19 @@ This rotation is designed to be used when playing double Soulbeast comps, it bur
 
 ### **1st Phase**
 
-- <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
-- Burst with <Skill name="Rapid Fire"/> and <Skill id="41524"/>.
+- Use <Skill id="45743"/> and <Skill name="Point Blank Shot"/> to CC and proc <Item id="84505"/>.
+- Burst with <Skill name="Rapid Fire"/>, <Skill name="Worldly Impact"/> and <Skill id="41524"/>.
 
 ### _1st Add_
 
-- Use <Skill id="45743"/> to help CC.
+- Your precasted <Skill name="Frost Trap"/> will help CC and deal enough damage in fast groups.
+- In slow groups you may need to help attack the Knight.
 - Precast <Skill name="Barrage"/> on MAMA and weaponswap.
 
 ### **2nd Phase**
 
 - As soon as MAMA becomes vunerable cast <Skill name="Sicem"/> and <Skill name="Frost Trap"/>
-- Burst with <Skill name="Worldly Impact"/>, <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/>.
+- Burst with <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/>.
 - Use <Skill id="41524"/> and Sword autoattacks untill MAMA phases moving to the bubble if it spawns.
 
 ### _2nd Add_
@@ -281,7 +283,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 <ConditionalComponent condition="static">
 
 <Boss name="siax" video="6p9ccfQJmdQ" videoCreator="Stellan [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Impact" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
+- Pet: <Skill id="43636" disableText/> Rock Gazelle if you CC, <Skill id="44617" disableText/> Red Moa if you aren't breaking.
 - Take <Trait id="2128"/>.
 - Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 - In faster kills you want to run <Item id="82876"/> instead of <Item id="24868"/> on Longbow.
@@ -343,6 +345,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 <Message>
 When you play this rotation you will want to replace the Marksmanship traitline with the following traits on the Skirmishing traitline; <Trait name="Sharpened Edges"/>, <Trait name="Hidden Barbs"/> and <Trait name="Quickdraw"/>. <Trait name="Spotter"/> is optional and should be run if your group needs the precision to Crit cap, and <Trait name="Trappers Expertise"/> can be run if it will allow you to fit a <Skill name="Frost Trap"/> in on Phase 2 (Will only be worth taking if your group is slow!).
 <Traits unembossed traits1Id="30" traits1="Skirmishing" traits1SelectedIds="1069,1846,1064"/>
+There are Two ways to handle the splits with this strat. With a double <Specialization name="Dragonhunter"/> comp you can solo your first add with the help of precasted traps and duo the second add with the other <Specialization name="Soulbeast"/>. If you run other comps you should duo both adds.
 </Message>
 
 
@@ -359,7 +362,7 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 - Precast <Skill name="Barrage"/> amd use <Skill name="Frosttrap"/> as soon as your first trap procs so you have both ticking at the same time.
 - <Skill name="Sicem"/> as soon as Siax is targetable and use <Skill name="Point Blank Shot"/> to proc <Trait name="Twice as Vicious"/>.
 - Weapon swap to proc <Trait name="Quickdraw"/> and use <Skill name="Whirling Defense"/>.
-- <Skill name="Path of Scars"/> and <Skill id="45743"/> to CC. Alternitively if you plan to ignore the CC bar continue bursting with <Skill name="Path of Scars"/> and <Skill name="Frenzied Attack"/>
+- <Skill name="Path of Scars"/> and <Skill id="45743"/> to CC. Alternitively if you plan to ignore the CC bar continue bursting with <Skill name="Path of Scars"/> and <Skill name="Worldly Impact"/>
 - Auto attack to finish the phase.
 
 ### _1st Add_
@@ -370,7 +373,7 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 ### **2nd Phase**
 
 - If you are the slb sharing <Skill name="onewolfpack"/> this phase use it.
-- Burst into exposed with <Skill name="Worldlyimpact"/> and <Skill name="Whirling Defense"/>.
+- Burst into exposed with <Skill name="Frenzied Attack"/> (If you run Moa) and <Skill name="Whirling Defense"/>.
 - If your group has high DPS you will want to open a bundle during the cast of <Skill name="Whirling Defense"/> to proc <Trait name="Quickdraw"/> so it iss off cooldown for the 3rd phase.
 - Cast <Skill name="Winters Bite"/> (if you play Axe mainhand), and then <Skill name="Path of Scars"/> to refresh <Trait name="Twice as Vicious"/>.
 - Weaponswap and use <Skill name="Rapidfire"/> and Longbow auto attacks to finish the phase.
@@ -384,7 +387,7 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 
 - If you are the slb sharing <Skill name="onewolfpack"/> this phase use it.
 - <Skill name="sicem"/> and <Skill name="Frost trap"/> once Siax is vulnerable.
-- <Skill name="Frenzied Attack"/> and swap weapons.
+- <Skill name="Worldly Impact"/> and swap weapons.
 - <Trait name="Quickdraw"/> <Skill name="Path of scars"/> and then burst with <Skill name="Whirling defense"/>.
 - To finish the fight cast <Skill name="Winters Bite"/>, <Skill name="Path of scars"/> and continue with your rotation until Siax is dead.
 
