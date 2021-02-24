@@ -1,6 +1,6 @@
 ---
 title: 'Power Tempest'
-date: '2020-11-14'
+date: '2021-02-24'
 rating: 'Other'
 role: 'Damage'
 profession: 'Elementalist'

@@ -3,7 +3,7 @@ title: 'Soulbeast CM guides'
 build: 'Soulbeast'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-date: '2021-02-22'
+date: '2021-02-24'
 disableOrganized: 'false'
 disableBosses: ['Light Ai', 'Dark Ai']
 ---

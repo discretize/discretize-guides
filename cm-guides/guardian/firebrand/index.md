@@ -3,7 +3,7 @@ title: 'Firebrand CM guides'
 build: 'Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
-date: '2020-11-14'
+date: '2021-02-24'
 author: 'ganymed.3541'
 disableOrganized: 'false'
 disableBosses: ['Light Ai', 'Dark Ai']

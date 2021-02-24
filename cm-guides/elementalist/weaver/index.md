@@ -3,7 +3,7 @@ title: 'Weaver CM guides'
 build: 'Weaver'
 profession: 'Elementalist'
 specialization: 'Weaver'
-date: '2020-11-14'
+date: '2021-02-24'
 author: 'KalzeN.8709'
 disableOrganized: 'false'
 disableBosses: ['Light Ai', 'Dark Ai']
