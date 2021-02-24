@@ -11,6 +11,8 @@ skills: [45717, 12498, 12504, 46432]
 code: '[&DQQeHSE3Ny55AAAAvQAAAL8AAADpFgAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/condisoulbeast'
 classification: [5, 4, 3, 2, 3]
+compositions: ['2Gh2Slb']
+
 ---
 
 <Message>

@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Warrior'
 specialization: 'Berserker'
 benchmark: { small: { dps: 33349, by: 'Allan [SC]', youtube: '4tKu5_7qzLM' } }
-teaserVideo: 'jJu1acTrhTM'
+teaserVideo: ''
 skills: [14407, 14405]
 traits: [1444, 1977, 2049]
 conditions: ['Vulnerability']
@@ -15,6 +15,7 @@ code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Princeps.6481'
 cmguides: '/cm-guides/warrior/berserker'
 classification: [ 4, 4, 4, 2, 4]
+compositions: ['Rainbow']
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
