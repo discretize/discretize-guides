@@ -3,7 +3,7 @@ title: 'Heal Firebrand CM guides'
 build: 'Heal-Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
-date: '2020-11-14'
+date: '2021-02-24'
 disableOrganized: 'false'
 altText: 'true'
 disableBosses: ['Light Ai', 'Dark Ai']

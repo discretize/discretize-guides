@@ -1,6 +1,6 @@
 ---
 title: 'Condi Firebrand'
-date: '2020-11-14'
+date: '2021-02-24'
 rating: 'Condi Meta'
 role: 'Damage'
 profession: 'Guardian'

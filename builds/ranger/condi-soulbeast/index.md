@@ -1,6 +1,6 @@
 ---
 title: 'Condi Soulbeast'
-date: '2021-02-22'
+date: '2021-02-24'
 rating: 'Condi Meta'
 role: 'Damage'
 profession: 'Ranger'

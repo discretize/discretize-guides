@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast'
-date: '2021-01-30'
+date: '2021-02-24'
 rating: 'Power Meta'
 role: 'Damage'
 profession: 'Ranger'
