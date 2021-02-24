@@ -3,9 +3,10 @@ title: 'Reaper CM guides'
 build: 'Power-Reaper'
 profession: 'Necromancer'
 specialization: 'Reaper'
-date: '2020-11-14'
+date: '2021-02-24'
 author: 'Discord: Jes#6596'
 disableOrganized: 'true'
+disableBosses: ['Light Ai', 'Dark Ai']
 ---
 
 <Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >

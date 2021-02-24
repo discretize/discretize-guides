@@ -1,7 +1,7 @@
 ---
 title: 'Soulbeast'
-date: '2021-01-30'
-rating: 'Meta'
+date: '2021-02-24'
+rating: 'Power Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
@@ -13,6 +13,7 @@ effects: ['Stealth']
 code: '[&DQQIGiA7Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/soulbeast'
 classification: [5, 5, 3, 3, 4]
+compositions: ['Rainbow', '2Gh2Slb', 'Rainbearbow']
 ---
 
 <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
