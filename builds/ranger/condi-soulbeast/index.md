@@ -7,9 +7,10 @@ profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
   { small: { dps: 36197, by: 'Erin', youtube: 'WSuDmiuAwC8' } }
-skills: [45717, 12498, 12504, 46432]
+skills: [45717, 12498, 12508, 46432]
+conditions: ['Bleeding', 'Poisoned', 'Burning']
 code: '[&DQQeHSE3Ny55AAAAvQAAAL8AAADpFgAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
-cmguides: '/cm-guides/ranger/condisoulbeast'
+cmguides: '/cm-guides/ranger/condi-soulbeast'
 classification: [5, 4, 3, 2, 3]
 compositions: ['2Gh2Slb']
 
@@ -65,7 +66,7 @@ This build is probably only worth running in a static group. It's damage depends
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Malice" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Malice" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Malice" weapon1OffSigilId="44950" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="44950" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Malice" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
 
 <Consumables foodId="92488" utilityId="48917" infusion="Spiteful +9 Agony Infusion"/>
 </GridItem>
