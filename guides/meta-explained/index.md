@@ -1,6 +1,6 @@
 ---
 title: 'Meta explained'
-date: '2021-02-24'
+date: '2020-11-14'
 image: './images/preview.png'
 description: 'Everything around Meta and the current Meta composition'
 hidden: 'false'
@@ -99,7 +99,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 </Tab>
 </Tabs>
 
-Removing one of these 5 classes will introduce new issues or be strictly worse. 
+Removing one of these 5 classes will introduce some new issues that will require some adapting to overcome. 
 
 Removing <Specialization name="Firebrand"/> + <Specialization name="Renegade"/>: the only other class, which can provide <Boon name="Alacrity"/> is the <Specialization name="Chronomancer"/>. However, <Specialization name="Chronomancer"/> needs to play perfectly to keep up 5-man <Boon name="Quickness"/> and <Boon name="Alacrity"/> and is therefore considered an unreliable boon provider. CC is comparable to what <Specialization name="Renegade"/> provides but lacking <Skill name="bane signet"/> and <Trait name="assassinspresence"/>! Also <Boon name="Might"/> becomes a bigger issue without a <Specialization name="Renegade"/>.
 
@@ -109,7 +109,31 @@ Removing <Specialization name="Soulbeast"/>: indisputable the worst idea as it p
 
 Removing <Specialization name="Weaver"/>: not a terrible idea. The <Specialization name="Weaver"/> could be replaced with a second <Specialization name="Soulbeast"/>. Double <Specialization name="Soulbeast"/> works well on most encounters in CMs, requires some fiddling here and there, but is not terrible overall. However, with that composition you will run into cleave problems in T4s. Also missing some blasts from the <Specialization name="Weaver"/> and the AoE <Condition name="Blinded"/> from <Skill name="sandstorm"/>.
 
-This shows how well the current meta builds synergize with each other and how important it is that every single player maxes out their role.
+This shows how well the current meta builds synergize with each other and how important it is that every single player maxes out their role. However, if your group is filled with good players and youre starting to feel capped by the rainbow comp in your daily kills times there are other more advanced comps that can offer some higher celings on certain bosses aswel as still being stable picks for daily usage.
+
+The first of these "advanced" comps is the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/>.
+
+<Specialization name="Weaver"/> was dropped in favor of a second <Specialization name="Soulbeast"/> because once you start phasing bosses at a certain speed <Specialization name="Soulbeast"/> not only brings more upfront burst but also crtically is able to run <Skill name="Moa Stance"/> on most bosses. Having two Soulbeasts means that neither has to drop their powerful <Skill name="Frost Trap"/> while also bringing their strong group utility skills which enables the comp to make its next replacement.
+
+<Specialization name="Berserker"/> and <Specialization name="Firebrand"/> were both dropped in favor of two <Specialization name="Dragonhunter"/>. Thanks to the addition of <Skill name = "Moa Stance"/> and the additional <Specialization name="Dragonhunter"/> <Boon name="Quickness"/> is able to be maintained soley from the precast and some coordinated uses of <Skill name = "Feel my Wrath"/>. This means the two <Specialization name="Dragonhunter"/> are able to fully unload their high damage low cooldown bursts to cover for the two <Specialization name="Soulbeast"/> during their downtime. The loss of the <Specialization name="Berserker"/> banners is made of for a bit by the extra <Skill name = "Bane Signet"/> with  <Trait name = "Perfect Inscriptions"/> providing a high ammount of power when its needed to phase bosses. The missing precision can be made up for by either gear swaps or a <Specialization name="Soulbeast"/> running <Trait name="spotter"/>.
+
+Pros of the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/> composition:
+
+* Very high burst potential on specific phases
+* Good boon duration on demmand allowing more aggresive variants of support builds
+* Precasting powerful traps such as <Skill name = "Frost Trap"/> and <Skill name = "Procession of Blades"/> allows for strong openers
+
+Cons of the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/> composition:
+
+* Requires fast phasing and transitions or starts to suffer from lack of sustained damage
+* Can be gated on certain bosses by <Skill name = "SicEm!"/>
+* If fights take to long to complete boons start dropping causing a domino effect making the end of fights potentially ugly
+
+Specific bosses where this comp excels:
+
+* Skorvald
+* Artsariiv
+* MAMA
 
 ## What and how do I play in PuGs?
 
