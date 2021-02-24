@@ -24,13 +24,13 @@ disableBosses: ['Skorvald', 'Artsariiv', 'Arkk', 'MAMA', 'Siax', 'Ensolyss']
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
 </Message>
 
+- Optionally before prestacking you can get into combat by jumping off the side of the map. This allows you to prestack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>.
 - Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap back to Lynx.
 - Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
 - Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
 - As you walk into the arena make sure to stack <Trait id="1912"/> for some extra initial damage.
 - Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
 
-### **Light Ai, Keeper of the Peak**
 <Message>
 In pug groups it is reccomended to cc Ai in the middle of the arena. This will give you  the maximum amount of time to DPS Ai, which will allow most groups to skip most of the split phases. On SLB you dont want to delay your <Skill name="Concussion Shot"/> as it will stop you from swapping to Dagger/Torch and dealing  as much damage, but you shold delay your <Skill id="46432"/> if you need to. Ideally Ai's CC bar should break as the Red Agony field spawns beneath her.
 </Message>
@@ -80,10 +80,11 @@ There is not much you can do in the split phase here, so just make sure to keep 
 - <Skill id="12498"/> can be replaced with <Skill id="45970"/> if you run two <Specialization name="Soulbeast"/>, to allow your <Specialization name="Renegade"/> to play full condi DPS with minimal boon duration, just remember to sync up <Skill id="45970"/> with <Skill id="45537"/> so <Boon name="Alacrity"/> doesn't drop. 
 - <Skill name="Quick shot"/> and <Skill name="Instinctive Engage"/> are great movement abilities for following Ai when dashing and also to dodge suicidal teammates.
 - There is an invisible hitbox in the center of the arena so use <Skill id="41206"/> there for a big DPS.
+- For this encounter swapping shortbow for Axe/Dagger can work well in high DPS groups due to Ai getting phased at the side and not dashing much.
 
 </Boss>
 <Message>
-The following guide assumes your group will instantly cc Ai; and will phase at the side or shortly after on the light phases, and on the dark phase after 66% will stay in the middle untill close to the end of the fight. If this doesn't happen be prepared to adjust your rotation accordingly. It also assumes you are running <Trait name="Quickdraw"/>, if you are not running this you will not get a second<Skill name="Bonfire"/> in your Dagger/Torch rotation and will need to again adjust your rotation.
+The following guide assumes your group will CC Ai at the side of the arena; and will phase at the side or shortly after, Your comp and pet choice will change the amount of CC required and skill usage, so be prepared to adjust your rotaition.
 </Message>
 
 ### **Precast**
@@ -91,13 +92,13 @@ The following guide assumes your group will instantly cc Ai; and will phase at t
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
 </Message>
 
+- Optionally before prestacking you can get into combat by jumping off the side of the map. This allows you to prestack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>.
 - Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap back to Lynx.
 - Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
 - Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
 - As you walk into the arena make sure to stack <Trait id="1912"/> if you are running it for some extra initial damage.
 - Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
 
-### **Light Ai, Keeper of the Peak**
 ### _Air Phase_
 - As you get into combat cast <Skill name="One Wolf Pack"/>, <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>. Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/>, <Skill name="Poison Volley"/> and follow Ai to the side.
 - As you reach the side call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/> and CC with <Skill id="46432"/>.
@@ -128,7 +129,7 @@ There is not much you can do in the split phase here, so just make sure to keep 
 - Swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your <Skill id="42944"/> skills.
 - As they come off cooldown use <Skill name="Double Arc"/> and <Skill name="Throw Torch"/>.
 - Swap back to Shortbow and follow Ai to the middle of the arena calling <Skill name="Sun Spirit"/> to you as soon as you can. Use your Shortbow and <Skill id="42944"/> skills untill the boss phases, ideally before the expanding AoE's fill.
-- If Ai doesn't phase use <Skill name="Quick Shot"/> to dodge back so you dont get unmerged, and contiunue with your rotation swapping back to Dagger/Torch after you get back to the middle.
+- If Ai doesn't phase use <Skill name="Quick Shot"/> to dodge back so you dont get unmerged, and continue with your rotation swapping back to Dagger/Torch after you get back to the middle.
 
 ### **Dark Ai, Keeper of the Peak**
 
@@ -150,25 +151,16 @@ There is not much you can do in the split phase here, so just make sure to keep 
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
 </Message>
 
-- Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap back to Lynx.
-- Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
-- Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
-- As you walk into the arena make sure to stack <Trait id="1912"/> for some extra initial damage.
-- Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
-
-<Message>
-In pug groups it is reccomended to cc Ai after she dashes from the side on the 100%-66% phase. This will give you the maximum amount of time to DPS Ai to 66% stopping some mechanics from overlapping as you go to CC the first Sorrow. On SLB you dont want to delay your <Skill name="Concussion Shot"/> as it will stop you from swapping to Dagger/Torch and dealing as much damage, but you shold delay your <Skill id="46432"/> if you need to. Ideally Ai's CC bar should break as the Red Agony field spawns beneath her. After 66% you should CC Ai if you can, but it is more important to make sure you have enough CC to break the Sorrows so you don't wipe.
-</Message>
-### **Precast**
-<Message>
-Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
-</Message>
-
+- Optionally before prestacking you can get into combat by jumping off the side of the map. This allows you to prestack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>.
 - Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap back to Lynx.
 - Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
 - Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
 - As you walk into the arena make sure to stack <Trait id="1912"/> if you are running it for some extra initial damage.
 - Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
+
+<Message>
+In pug groups it is reccomended to cc Ai after she dashes from the side on the 100%-66% phase. This will give you the maximum amount of time to DPS Ai to 66% stopping some mechanics from overlapping as you go to CC the first Sorrow. On SLB you dont want to delay your <Skill name="Concussion Shot"/> as it will stop you from swapping to Dagger/Torch and dealing as much damage, but you shold delay your <Skill id="46432"/> if you need to. Ideally Ai's CC bar should break as the Red Agony field spawns beneath her. After 66% you should CC Ai if you can, but it is more important to make sure you have enough CC to break the Sorrows so you don't wipe.
+</Message>
 
 ### _100% - 66%_
 - As you get into combat cast <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>. Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/>, <Skill name="Poison Volley"/> and follow Ai to the side.
@@ -210,7 +202,7 @@ Your rotation from here will depend on your groups DPS and Ai's RNG. In general 
 </Boss>
 
 <Message>
-The following guide assumes your group will instantly cc Ai; and will phase at the side or shortly after on the light phases, and on the dark phase after 66% you will phase at 33% before the split mechanic happens. If this doesn't happen be prepared to adjust your rotation accordingly.
+The following guide assumes your group will CC Ai at the side of the arena; There is a fair amount of rng on this encounter so don't blindly follow the guide. Your comp and pet choice will change the amount of CC required and skill usage, so be prepared to adjust your rotaition.
 </Message>
 
 ### **Precast**
@@ -218,6 +210,7 @@ The following guide assumes your group will instantly cc Ai; and will phase at t
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
 </Message>
 
+- Optionally before prestacking you can get into combat by jumping off the side of the map. This allows you to prestack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>.
 - Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap to your pet of choice.
 - Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
 - Make sure to stack <Trait id="1912"/> if you are running it for some extra initial damage.
