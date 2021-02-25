@@ -1,6 +1,6 @@
 ---
 title: 'Meta explained'
-date: '2020-02-24'
+date: '2021-02-24'
 image: './images/preview.png'
 description: 'Everything around Meta and the current Meta composition'
 hidden: 'false'
