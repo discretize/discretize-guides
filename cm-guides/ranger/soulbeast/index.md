@@ -5,7 +5,7 @@ profession: 'Ranger'
 specialization: 'Soulbeast'
 date: '2021-02-24'
 disableOrganized: 'false'
-disableBosses: ['Light Ai', 'Dark Ai']
+disableBosses: ['LightAi', 'DarkAi']
 ---
 
 <ConditionalComponent condition="pug">
