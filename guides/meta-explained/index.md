@@ -1,6 +1,6 @@
 ---
 title: 'Meta explained'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/preview.png'
 description: 'Everything around Meta and the current Meta composition'
 hidden: 'false'
@@ -109,9 +109,11 @@ Removing <Specialization name="Soulbeast"/>: indisputable the worst idea as it p
 
 Removing <Specialization name="Weaver"/>: not a terrible idea. The <Specialization name="Weaver"/> could be replaced with a second <Specialization name="Soulbeast"/>. Double <Specialization name="Soulbeast"/> works well on most encounters in CMs, requires some fiddling here and there, but is not terrible overall. However, with that composition you will run into cleave problems in T4s. Also missing some blasts from the <Specialization name="Weaver"/> and the AoE <Condition name="Blinded"/> from <Skill name="sandstorm"/>.
 
-This shows how well the current meta builds synergize with each other and how important it is that every single player maxes out their role. However, if your group is filled with good players and youre starting to feel capped by the rainbow comp in your daily kills times there are other more advanced comps that can offer some higher celings on certain bosses aswel as still being stable picks for daily usage.
+## Advanced Comps
 
-The first of these "advanced" comps is the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/>.
+The previous section shows how well the current meta builds synergize with each other and how important it is that every single player maxes out their role. However, if your group is filled with good players and you're starting to feel capped by the rainbow comp in your daily kills times there are other more advanced comps that can offer some higher celings on certain bosses while still being stable picks for daily usage.
+
+### 2Gh 2 Slb <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/>
 
 <Specialization name="Weaver"/> was dropped in favor of a second <Specialization name="Soulbeast"/> because once you start phasing bosses at a certain speed <Specialization name="Soulbeast"/> not only brings more upfront burst but also crtically is able to run <Skill name="Moa Stance"/> on most bosses. Having two Soulbeasts means that neither has to drop their powerful <Skill name="Frost Trap"/> while also bringing their strong group utility skills which enables the comp to make its next replacement.
 
@@ -121,7 +123,7 @@ Pros of the <Specialization name="Soulbeast" disableText/><Specialization name="
 
 * Very high burst potential on specific phases
 * Good boon duration on demmand allowing more aggresive variants of support builds
-* Precasting powerful traps such as <Skill name = "Frost Trap"/> and <Skill name = "Procession of Blades"/> allows for strong openers
+* 
 
 Cons of the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/> composition:
 
@@ -134,6 +136,30 @@ Specific bosses where this comp excels:
 * Skorvald
 * Artsariiv
 * MAMA
+
+### Rainbearbow Comp <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Firebrand" disableText/><Specialization name="Renegade" disableText/>
+
+<Specialization name="Berserker"/> was dropped in favor of a second <Specialization name="Soulbeast"/>. The problem with <Specialization name="Berserker"/> is that it cannot burst as hard as the other classes to the point where it is competing with the <Specialization name="Renegade"/> damage wise on some phases. Also in fast kills <Skill id="30435"/> doesnt line up with some boss phases reducing its damage further and unfortunately banners are not worth it over another <Specialization name="Soulbeast"/>.
+
+The reason why <Specialization name="Soulbeast"/> is chosen, is for the same reasons as the comp above. It provides massive upfront burst, which gets even higher when using conjures, while having great group utility with Stances and Spirits. Also having a second <Skill name="One Wolf Pack"/> allows you to have it on most major burst phases on every boss when co-ordinated providing a massive group DPS increase. Although <Specialization name="Weaver"/> is a very greedy class, it provides consistant high damage to cover for some of the downtime <Specialization name="Soulbeast"/> has, while still providing a high burst and most importantly sharing Conjures. 
+
+Pros of the <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Firebrand" disableText/><Specialization name="Renegade" disableText/> composition:
+
+* Massive burst especially at the beginning of fights
+* Conjure share allowing classes to cover skills when on cooldown
+* <Specialization name="Weaver"/> helps keep <Condition name="Vulnerability"/> at 25 stacks later on into fights
+
+Cons of the <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Firebrand" disableText/><Specialization name="Renegade" disableText/> composition:
+
+* Requires fast phases or starts to suffer from lack of sustained damage
+* Does require some class swapping so you can run a <Specialization name="Berserker"/> on MAMA, and a second <Specialization name="Firebrand"/> on 100CM
+* With bad instabilities some fights turn ugly very fast if you make mistakes or have low DPS
+
+Specific bosses where this comp excels:
+
+* Siax
+* Skorvald
+* Artsariiv
 
 ## What and how do I play in PuGs?
 
