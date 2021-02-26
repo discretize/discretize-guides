@@ -1,5 +1,5 @@
 ---
-title: 'Soulbeast'
+title: 'Power Soulbeast'
 date: '2021-02-24'
 rating: 'Power Meta'
 role: 'Damage'
@@ -11,7 +11,7 @@ skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
 code: '[&DQQIGiA7Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
-cmguides: '/cm-guides/ranger/soulbeast'
+cmguides: '/cm-guides/ranger/power-soulbeast'
 classification: [5, 5, 3, 3, 4]
 compositions: ['Rainbow', '2Gh2Slb', 'Rainbearbow']
 ---

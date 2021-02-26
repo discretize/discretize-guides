@@ -10,7 +10,7 @@ disableBosses: ['LightAi', 'DarkAi']
 ---
 
 <Message>
-If you are replacing the <Specialization name="Firebrand" />, check <Specialization name="Firebrand" /> [guide](/builds/guardian/firebrand) where you will find information regarding swapping to <Specialization name="Dragonhunter"/>.
+If you are replacing the <Specialization name="Firebrand" />, check <Specialization name="Firebrand" /> [guide](/builds/guardian/power-firebrand) where you will find information regarding swapping to <Specialization name="Dragonhunter"/>.
 </Message>
 
 <Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >

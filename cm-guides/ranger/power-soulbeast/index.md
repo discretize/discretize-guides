@@ -1,6 +1,6 @@
 ---
 title: 'Soulbeast CM guides'
-build: 'Soulbeast'
+build: 'Power Soulbeast'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 date: '2021-02-24'

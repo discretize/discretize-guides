@@ -1,5 +1,5 @@
 ---
-title: 'Renegade'
+title: 'Power Renegade'
 date: '2021-02-24'
 rating: 'Power Meta'
 role: 'Damage'
@@ -12,7 +12,7 @@ boons: ['Alacrity', 'Might', 'Stability']
 conditions: ['Vulnerability']
 code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
 author: 'Casual Sophie - Jin Su Liang.9036'
-cmguides: '/cm-guides/revenant/renegade'
+cmguides: '/cm-guides/revenant/power-renegade'
 classification: [5, 2, 4, 3, 5]
 compositions: ['Rainbow', '2Gh2Slb', 'Rainbearbow']
 ---

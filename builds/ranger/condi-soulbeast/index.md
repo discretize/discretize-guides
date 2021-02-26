@@ -20,7 +20,7 @@ compositions: ['2Gh2Slb']
 This build is [META](/guides/meta-explained) in Sunqua Peak. Outside Sunqua Peak in faster groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
 </Message>
 
-Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals you will be better off playing the power varient found [here](/builds/ranger/soulbeast/).
+Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals you will be better off playing the power varient found [here](/builds/ranger/power-soulbeast/).
 
 This build is rather self sufficient due to:
 - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/> 
