@@ -6,7 +6,7 @@ specialization: 'Firebrand'
 date: '2021-02-24'
 author: 'ganymed.3541'
 disableOrganized: 'false'
-disableBosses: ['Light Ai', 'Dark Ai']
+disableBosses: ['LightAi', 'DarkAi']
 ---
 
 <ConditionalComponent condition="pug">
