@@ -50,7 +50,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Provides <Boon name="Stability"/> and projectile destruction on demand (from <Skill name="Legendary Dwarf stance"/> and <Skill name="Legendary Centaur Stance"/> respectively).
 * If <Instability name="No Pain, No Gain"/> or <Instability name="Vengeance"/> instability is present it can strip boons with <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon stance"/>).
 
-[Build](builds/revenant/renegade)
+[Build](builds/revenant/power-renegade)
 </Tab>
 
 <Tab specialization="Firebrand">
@@ -62,7 +62,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Has blinks available from skills such as <Skill name="symbol of blades"/>, <Skill name="judges intervention"/> and <Skill name="mercifulintervention"/>.
 * Can provide situational <Boon name="Stability"/> for T4s or Artsariiv using <Skill name="Stand your ground"/>.
 
-[Build](builds/guardian/firebrand)
+[Build](builds/guardian/power-firebrand)
 </Tab>
 
 <Tab specialization="Berserker">
@@ -74,7 +74,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Is a third DPS class on most bosses, which makes it in conjunction with banners a non-brainer to bring. 
 * Provides very high cleave DPS in T4s. 
 
-[Build](builds/warrior/berserker)
+[Build](builds/warrior/power-berserker)
 </Tab>
 
 <Tab specialization="Soulbeast">
@@ -84,7 +84,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Deals very high damage. 
 * Allows the team to <Effect name="Stealth"/> in T4s due to the smoke field from the <Skill id="31568" disableText/> [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) pet.
 
-[Build](builds/ranger/soulbeast)
+[Build](builds/ranger/power-soulbeast)
 </Tab>
 
 <Tab specialization="Weaver">
@@ -95,7 +95,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Provides AoE <Condition name="Blinded"/> for T4s via <Skill name="Glyph of storms"/>.
 * Can execute various T4s skips with <Skill name="lightningflash"/>.
 
-[Build](builds/elementalist/weaver)
+[Build](builds/elementalist/power-weaver)
 </Tab>
 </Tabs>
 

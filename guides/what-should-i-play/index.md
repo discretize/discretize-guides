@@ -17,7 +17,7 @@ Outline:
 <Card specialization="Soulbeast">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
-| [<Specialization name="Soulbeast" disableLink />](/builds/ranger/soulbeast) | <Rating value="5"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="3"/> | <Rating value="4"/> | 
+| [<Specialization name="Soulbeast" disableLink />](/builds/ranger/power-soulbeast) | <Rating value="5"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="3"/> | <Rating value="4"/> | 
 
 <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -36,7 +36,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
-| [<Specialization name="Weaver" disableLink />](/builds/elementalist/weaver) | <Rating value="4"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="3"/> | <Rating value="4"/> | 
+| [<Specialization name="Weaver" disableLink />](/builds/elementalist/power-weaver) | <Rating value="4"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="3"/> | <Rating value="4"/> | 
 The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Sword Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some t4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
 Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>. 
@@ -48,7 +48,7 @@ Also this build depends pretty much on supports and boon uptimes, as it cant pro
 
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
-| [<Specialization name="Berserker" disableLink />](/builds/warrior/berserker) | <Rating value="4"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="4"/> | 
+| [<Specialization name="Berserker" disableLink />](/builds/warrior/power-berserker) | <Rating value="4"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="4"/> | 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
 
 Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
@@ -62,7 +62,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
-| [<Specialization name="Renegade" disableLink />](/builds/revenant/renegade) | <Rating value="5"/> | <Rating value="2"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="5"/> | 
+| [<Specialization name="Renegade" disableLink />](/builds/revenant/power-renegade) | <Rating value="5"/> | <Rating value="2"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="5"/> | 
 <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, an insanely strong party heal and additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>. 
 
 Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty. 
@@ -74,7 +74,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
-| [<Specialization name="Firebrand" disableLink />](/builds/revenant/renegade) | <Rating value="5"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="4"/> | 
+| [<Specialization name="Firebrand" disableLink />](/builds/revenant/power-renegade) | <Rating value="5"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="4"/> | 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.
 
 It plays very similar to <Specialization text="Power Dragonhunter" name="Dragonhunter"/> with the addition of <Specialization name="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.

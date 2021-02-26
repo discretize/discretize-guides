@@ -1,5 +1,5 @@
 ---
-title: 'Berserker'
+title: 'Power Berserker'
 date: '2021-02-24'
 rating: 'Power Meta'
 role: 'Damage'
@@ -13,7 +13,7 @@ conditions: ['Vulnerability']
 boons: ['Might']
 code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Princeps.6481'
-cmguides: '/cm-guides/warrior/berserker'
+cmguides: '/cm-guides/warrior/power-berserker'
 classification: [ 4, 4, 4, 2, 4]
 compositions: ['Rainbow']
 ---

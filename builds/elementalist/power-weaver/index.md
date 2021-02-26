@@ -1,5 +1,5 @@
 ---
-title: 'Weaver'
+title: 'Power Weaver'
 date: '2021-02-24'
 rating: 'Power Meta'
 role: 'Damage'
@@ -12,7 +12,7 @@ traits: [1502, 226, 1503]
 boons: ['Fury', 'Might', 'Swiftness']
 conditions: ['Burning', 'Chilled', 'Vulnerability']
 code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmguides: '/cm-guides/elementalist/weaver'
+cmguides: '/cm-guides/elementalist/power-weaver'
 classification: [4, 5, 2, 3, 4]
 compositions: ['Rainbow', 'Rainbearbow']
 ---

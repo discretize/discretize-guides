@@ -1,6 +1,6 @@
 ---
 title: 'Weaver CM guides'
-build: 'Weaver'
+build: 'Power Weaver'
 profession: 'Elementalist'
 specialization: 'Weaver'
 date: '2021-02-24'

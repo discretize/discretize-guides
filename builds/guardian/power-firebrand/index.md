@@ -1,5 +1,5 @@
 ﻿---
-title: 'Firebrand'
+title: 'Power Firebrand'
 date: '2021-02-24'
 rating: 'Power Meta'
 role: 'Damage'
@@ -11,7 +11,7 @@ boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'ganymed.3541'
-cmguides: '/cm-guides/guardian/firebrand'
+cmguides: '/cm-guides/guardian/power-firebrand'
 classification: [5, 3, 4, 2, 4]
 compositions: ['Rainbow', '2Gh2Slb', 'Rainbearbow']
 ---
