@@ -123,7 +123,7 @@ Pros of the <Specialization name="Soulbeast" disableText/><Specialization name="
 
 * Very high burst potential on specific phases
 * Good boon duration on demmand allowing more aggresive variants of support builds
-* 
+* Precasting powerful traps such as <Skill name = "Frost Trap"/> and <Skill name = "Procession of Blades"/> allows for strong openers
 
 Cons of the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/> composition:
 
