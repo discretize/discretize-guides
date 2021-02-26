@@ -7,71 +7,69 @@ profession: 'Revenant'
 specialization: 'Renegade'
 benchmark: { large: { dps: 23973, by: 'MajesticNoodle [BATS]', youtube: 'p4D96l_GVPg' } }
 skills: [45773, 27505]
-traits: [1786]
-boons: ['Alacrity', 'Might', 'Stability']
+traits: [2182]
+boons: ['Alacrity', 'Might']
 conditions: ['Vulnerability']
 code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
-author: ''
+author: 'PineappleMan.1430'
 cmguides: '/cm-guides/revenant/condi-alac-renegade'
-classification: [5, 2, 4, 3, 5]
+classification: [4, 2, 4, 3, 5]
 compositions: ['2Gh2Slb']
 ---
+<Message>
+This build has to be used on 100CM only. Apart from this fractal, Power <Specialization name="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support, being more versatile, etc 
+</Message>
+Condi <Specialization name="Renegade"/> is a unique role that you will want to play on 100cm only, as Power <Specialization name="Renegade"/> is better in any other fractals. Though, Condi <Specialization name="Renegade"/> has a very decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively, <Skill id="45773"/> that can help your party sustain to  high pressure situations, and to top it off, very good cc skills like <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
 
-<Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, an insanely strong party heal and additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>. 
+Condi <Specialization name="Renegade"/> is pretty independant thanks to it's rather good mobility(<Skill id="27964"/>, <Skill id="28029"/>, <Skill id="27917"/>), his permanent 25 <Boon name="Might"/> sustain thanks to <Skill id="44076"/> and <Trait id="1774"/>.
 
-Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty. 
-
-Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from  <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-
+Even if Condi <Specialization name="Renegade"/> does less damage than a Condi <Specialization name="Firebrand"/> or a Condi <Specialization name="Soulbeast"/>, it is still a better option than Power <Specialization name="Renegade"/> on [Sunqua Peak CM](/fractals/sunqua-peak), especially on Dark Phase(Second Phase), and is not droppable in most cases because of <Boon name="Alacrity"/>.
 
 <Divider text="Equipment"/>
 
 <Tabs outlined>
-<Tab title="Condi Soulbeast Krait">
+<Tab title="207 agony resistance (Moa stance)">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Medium" helmAffix="Viper" helmRune="Krait" shouldersAffix="Viper" shouldersRune="Krait" coatAffix="Viper" coatRune="Krait" glovesAffix="Viper" glovesRune="Krait" leggingsAffix="Viper" leggingsRune="Krait" bootsAffix="Viper" bootsRune="Krait" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
+<Armor weight="Heavy" helmAffix="Viper" helmRune="Nightmare" shouldersAffix="Viper" shouldersRune="Nightmare" coatAffix="Viper" coatRune="Nightmare" glovesAffix="Viper" glovesRune="Nightmare" leggingsAffix="Viper" leggingsRune="Nightmare" bootsAffix="Viper" bootsRune="Nightmare" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="37130" weapon2MainInfusion1Id="37130" weapon1OffInfusionId="37130" weapon2MainInfusion2Id="37130"/>
+<Weapons weapon1MainType="Mace" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1MainSigil1Id="24560" weapon1OffType="Axe" weapon1OffAffix="Viper"  weapon1OffSigil="Doom" weapon1OffSigilId="24609" weapon2MainSigil1Id="24560" weapon2MainSigil2Id="24605" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Earth" weapon2MainSigil2="Geomancy" weapon1MainInfusion1Id="37130" weapon2MainInfusion1Id="37130" weapon1OffInfusionId="37130" weapon2MainInfusion2Id="37130"/>
 
-<Consumables foodId="92488" utilityId="48917" infusion="Malign +9 Agony Infusion"/>
+<Consumables foodId="91842" utilityId="48916" infusion="Malign +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
 
-<Card title="Swap Weapons">
-* An Axe/Dagger set to replace Shortbow for fights where range is not needed.
-* A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
+<Card title="Notes">
+* If there is Boon Overload, take <Item id="86997"/> and <Item id="48917"/> instead
+* Use this build if and only if you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>
 
 </Card>
 </GridItem>
 </Grid>
 </Tab>
 
-<Tab title="Condi Soulbeast Afflicted">
-<Message>
-This build is probably only worth running in a static group. It's damage depends on the amount of <Specialization name="Soulbeast"/> in the party. The build deals similar DPS with 2 condi Soulbeasts, and outpreforms the Krait build if you have 3 Soulbeasts in the party. If you are going to be on your own run the Krait rune setup!
-</Message>
+<Tab title="207 Agony Resistance (no moa stance)">
 <Grid>
 <GridItem sm="4">
-<Armor weight="Medium" helmAffix="Viper" helmRune="Afflicted" shouldersAffix="Viper" shouldersRune="Afflicted" coatAffix="Viper" coatRune="Afflicted" glovesAffix="Viper" glovesRune="Afflicted" leggingsAffix="Viper" leggingsRune="Afflicted" bootsAffix="Viper" bootsRune="Afflicted" helmInfusionId="86113" shouldersInfusionId="86113" coatInfusionId="86113" glovesInfusionId="86113" leggingsInfusionId="86113" bootsInfusionId="86113"/>
+<Armor weight="Heavy" helmAffix="Viper" helmRune="Leadership" shouldersAffix="Viper" shouldersRune="Leadership" coatAffix="Viper" coatRune="Leadership" glovesAffix="Viper" glovesRune="Leadership" leggingsAffix="Viper" leggingsRune="Leadership" bootsAffix="Viper" bootsRune="Leadership" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Malice" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Malice" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
+<Weapons weapon1MainType="Mace" weapon1MainAffix="Viper" weapon1MainSigil1="Concentration" weapon1MainSigil1Id="72339" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Doom" weapon1OffSigilId="24609" weapon2MainSigil1Id="72339" weapon2MainSigil2Id="24605" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Concentration" weapon2MainSigil2="Geomancy" weapon1MainInfusion1Id="37130" weapon2MainInfusion1Id="37130" weapon1OffInfusionId="37130" weapon2MainInfusion2Id="37130"/>
 
-<Consumables foodId="92488" utilityId="48917" infusion="Spiteful +9 Agony Infusion"/>
+<Consumables foodId="91842" utilityId="48916" infusion="Malign +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="86113" backItemInfusion2Id="86113" accessory1InfusionId="86113" accessory2InfusionId="86113" ring1Infusion1Id="86113" ring1Infusion2Id="86113" ring1Infusion3Id="86113" ring2Infusion1Id="86113" ring2Infusion2Id="86113" ring2Infusion3Id="86113"/>
+<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Seraph" ring2Affix="Seraph" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
 
 <Card title="Swap Weapons">
-* An Axe/Dagger set to replace Shortbow for fights where range is not needed.
-* A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
+* If there is Boon Overload, take 2 Viper <Item id="80058"/> , <Item id="86997"/> and <Item id="48917"/> instead
+* Run this build if you don't have any <Specialization name="Soulbeast"/> in your group or  if he doesn't want to take <Skill id="45970"/>
 
 </Card>
 </GridItem>
@@ -82,50 +80,71 @@ This build is probably only worth running in a static group. It's damage depends
 <Divider text="Build"/>
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="33" traits1="Wilderness Survival" traits1SelectedIds="1099,1101,1701" traits2Id="30" traits2="Skirmishing" traits2SelectedIds="1069,1846,1912" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2161,2128"/>
+<Traits traits1Id="3" traits1="Invocation" traits1SelectedIds="1761,1781,1791" traits2Id="14" traits2="Corruption" traits2SelectedIds="1793,1714,1795" traits3Id="63" traits3="Renegade" traits3SelectedIds="2079,2092,2182"/>
 </GridItem>  
 <GridItem sm="5">
-<Skills healId="31914" utility1Id="40498" utility2Id="12537" utility3Id="12498" eliteId="45717"/>
-<Card title="Pets">
-| | |
-| -- | -- |
-| <Skill id="46432" size="big" disableText/> | [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>.|
-| <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets.
-</Card>  
+<Card title="Legends">
+<Skill id="41858" size="big" disableText/>   <Skill id="28494" size="big" disableText/> 
+</Card>
+<Card title="Situational Traits">
+* Take <Trait id="1774"/> if your might uptime is good enough without <Trait id="1781"/>
+
+</Card>
 </GridItem>
 </Grid>
 
 <Divider text="Further information"/>
 <Grid>
 <GridItem sm="7">
-<Card title="Situational Traits">
-| | |
-| -- | -- |
-| <Trait name="Essence of Speed" size="big" disableText/> | Take this instead of <Trait name="Predators Cunning"/> if boon uptime in your party is bad and you want some extra generation. |
-| <Trait name="Quickdraw" size="big" disableText/> | Take this instead of <Trait name="Light on your Feet"/> if the boss you will be fighting doesn't change position often. |
-</Card>
-<Card title="Shortbow vs Axe/Dagger">
-Although Axe/Dagger benches higher, typically this build is only run in 100CM where Shortbow shines due to the amount of moving Ai does. This allows you to keep attacking while at range. If you are running this build elsewhere you will probably find that Axe/Dagger will do more DPS. If you are swapping shortbow for Axe/Dagger you will want to run the following sigils:
-<Weapons unembossed weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Dagger" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560"/>
+<Card title="Key Skills">
+<Skill id="41858"/> skills :
+* <Skill id="45686"/> : self heal + pulsing area heal skill that can help <Skill id="12498"/> to stay alive
+* <Skill id="42949"/> : excellent damage source, applies a lot of <Condition name="Bleeding"/>
+* <Skill id="41220"/> : very good cc skill, does in total 600 Breakbar damage
+* <Skill id="45773"/> : situational skill that helps your party surviving to some mechanics. does additional damage on hit
+
+<Skill id="28494"/> skills : 
+* <Skill id="28287"/> : one of your most important damage skill, applies a lot of <Condition name="Torment"/>
+
+Shortbow skills :
+* <Skill id=40175/> : fast and low-cost damage skill, applies some <Condition name="Bleeding"/>
+* <Skill name="Sevenshot"/> : very good damage skill, applies a good amount of <Condition name="Torment"/>
+* <Skill name="SPiritcrush"/> : good damage skill, applies <Condition name="Burning"/> and <Condition name=Slow/>
+
+Mace/Axe skills :
+* <Skill name=Searing Fissure/> : fast and low-cost damage skill, applies <Condition name=Burning/>
+* <Skill name=Echoing Eruption/> : fast and low cost damage skill, good mobility skill aswell, applies <Condition name=Torment/>
+* <Skill name=Frigid Blitz/> : good mobility skill
+* <Skill name=Temporal Rift/> : good damage skill, good CC damage aswell, applies <Condition name=Torment/>
+
+
+<Specialization name="Renegade"/> skills :
+* <Skill name="Heroic Command"/> : give <Boon name="Might"/> to you and your group depending on how much _Kalla's Fervor_ you have
+* <Skill name="Citadel Bombardment" /> : probably your best burst skill, applies a lot of <Condition name=Burning/>
+* <Skill id="45537"/> : one of your most important skill, gives <Boon name=Alacrity/> to you and your group
+
 </Card>
 </GridItem> 
 <GridItem sm="5">
-<Card title="Situational Skills">
-| | |
-| -- | -- |
-| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>. This can be taken as a second <Specialization name="Soulbeast"/>, Allowing your <Specialization name="Renegade"/> to lower their bon duration and deal substantially more DPS! |
-| <Skill name="Vipers Nest" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>. |
-| <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. |
-| <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM! |
-</Card>
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
-| <Skill id="46432" size="big" disableText/> | 300 damage (F2 in <Skill id="42944"/>) |
-| <Skill id="12508" size="big" disableText/> | 200 damage (Shortbow 5) |
-| <Skill id="12507" size="big" disableText/> | 50/s <Condition name="Immobile"/>, 15/s <Condition name="Crippled"/> (Shortbow 4)|
-| <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3) |
+| <Skill id="41220" size="big" disableText/> | 100/s, 600 damage in total (<Skill id="41858"/> 3rd Utility ) |
+| <Skill id="41820" size="big" disableText/> | 200 damage (Shortbow 5) |
+| <Skill id="43993" size="big" disableText/> | 50/s <Condition name="Slow"/> (Shortbow 4)|
+| <Skill id="28409" size="big" disableText/> | 150 damage (Axe 5) |
+| <Skill id="28029" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 50/s <Condition name="Slow"/> (Axe 4) |
 </Card>
+
+<Card title="When to use Order From Above">
+* If you use the 1st build (Moa Stance) then you will want to use your <Skill id="45537"/> whenever you see <Skill id="45970"/> on your bar
+* If you use the 2nd build (No Moa Stance) then use your <Skill id="45537"/> off cooldown
+<Message>
+Do not use <Skill id="45537"/> right before a mechanic or any reason that would not let your whole party get every tick from <Skill id="45537"/> : you are already very tight on <Boon name="Alacrity"/> !
+</Message> 
+
+</Card>
+
 </GridItem> 
 </Grid>
 
@@ -134,96 +153,65 @@ Although Axe/Dagger benches higher, typically this build is only run in 100CM wh
 <Grid>
 <GridItem sm="6">
 <Card title="Information">
-<Specialization name="Soulbeast"/> Golem rotations from raid builds are generally suboptimal in fractals due to bosses moving around much more this makes <Trait name="Light on your Feet"/> much more attractive than <Trait name="Quickdraw"/> which is used in raids. The rotations are fairly easy to adapt though, all you do is skip the second cast of a skill that has been Quickdrawn and dodge as much as you can to upkeep <Trait name="Light on your Feet"/>. <Trait name="Quickdraw"/> rotations can still work providing the boss doesn't move too much but if there is any doubt take <Trait name="Light on your Feet"/>.
+Condi <Specialization name="Renegade"/> raid rotation is not super efficient in fractals due to the lack of time to ramp up with <Skill id="28494"/>, and the fact that you want to keep skills you usually use while in <Skill id="41858"/> to CC or keep skills like <Skill name="Citadel Bombardment"/> for exposed phases   
 
-With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/> off cooldown, and your <Skill id="42944"/> skills and <Skill name="Vipers Nest"/> when you don't have anything else to do but auto attack.
+You'll want to respect these rules :
+1. <Skill id="41858"/> : be on Mace/Axe
+2. <Skill id="28494"/> : be on Shortbow
+
+You'll usually want to be in <Skill id="41858"/> for exposed phases, as <Skill name="Citadel Bombardment"/> is your best skill to damage quickly thanks to <Condition name="Burning"/>. You also want to be on <Skill id="41858"/> to be able to precast <Skill id="42949"/> for <Condition name="Bleeding"/>, and use <Skill id="41220"/> and <Skill name=Temporal Rift/> to CC.
+
+Right after you're done with <Skill id="41858"/> skills, swap to <Skill id="28494"/> and do the Shortbow Rotation shown below.
+
+You will want to use <Skill id="45537"/> and <Skill name="Heroic Command"/> off cooldown/at key moments. If <Skill id="45537"/> will be off cooldown during a <Skill id="28494"/> Rotation, stop <Skill name="Embrace The Darkness"/> right before __Step 9__. If it will be off cooldown during a <Skill id="41858"/> Rotation, don't use <Skill name="Icerazors Ire"/>.
+
+
 </Card>
-<Card title=" Shortbow Golem Rotation">
-<Video youtube="DblomOq_n2U" caption="by Leder [SC] "/>
+<Card title="Mallyx Shortbow Rotation">
+1. <Skill name="Embrace The Darkness"/>
+2. <Skill name="Searing Fissure"/>
+3. `Weapon Swap`  
+4. <Skill name="Bloodbane Path"/> 
+5. <Skill name="Spiritcrush"/> 
+6. <Skill name="Sevenshot"/>
+7. <Skill name="Bloodbane Path"/>
+7. <Skill name="Bloodbane Path"/>
+8. <Skill name="Sevenshot"/>
+9. <Skill name="Spiritcrush"/>
+10. Swap to <Skill id="41858"/>
+* Make sure to use a <Skill id="40497"/> between each skill !
+
+
 </Card>
-<Card title="Shortbow Golem Rotation">
-1. <Skill name="Vipers Nest"/>
-2. <Skill name="One Wolf Pack"/>
-3. <Skill name="Poison Volley"/> 
-4. <Skill name="Crippling Shot"/> 
-5. `Weapon Swap` 
-6. <Skill name="Vulture Stance"/> + <Skill name="Sharpening Stone"/>
-7. <Skill name="Bonfire"/>
-7. <Skill name="Double Arc"/> 
-8. <Skill name="Throw Torch"/> 
-9. <Skill id="44514"/>
-10. <Skill name="Primal Cry"/>
-11. `Autoattack chain x2`
-12. <Skill name="Double Arc"/>
-13. <Skill name="Bonfire"/>
-14. `Autoattack chain x3`
-15. <Skill name="Double Arc"/> 
-16. <Skill name="Throw Torch"/>  
-17. `Weapon Swap`
-18. <Skill name="Poison Volley"/> 
-19. <Skill name="Crippling Shot"/>
-20. <Skill name="Concussion Shot"/>
-21. `Autoattack chain x3`
-22. <Skill id="44514"/>
-23. <Skill name="Poison Volley"/>
-24. `Autoattack chain x8`
-25. <Skill name="Primal Cry"/>
-26. `Autoattack chain x8`
-27. <Skill name="Poison Volley"/>
-28. <Skill name="Crippling Shot"/>
-29. Repeat from `Step 5`
+<Card title="Kalla Mace Rotation">
+1. <Skill name="Bloodbane Path"/>
+2. `Weapon Swap` 
+3. <Skill name="Searing Fissure"/>
+4. <Skill name="Echoing Eruption"/> 
+5. <Skill name="Citadel Bombardment"/> 
+6. <Skill name="Temporal Rift"/>
+7. <Skill name="Searing Fissure"/>
+7. <Skill name="Searing Fissure"/>
+8. <Skill name="Razorclaws Rage"/>
+9. <Skill name="Icerazors Ire"/>
+10. <Skill name="Echoing Eruption"/>
+11. Swap to <Skill id="28494"/>
 
 </Card>
 </GridItem>
 
 <GridItem sm="6">
 <Card title="Precasting">
-In 100CM boons get stripped but unique buffs do not you can precast these skills.
-1. If you can get in combat briefly stack <Item id="24609"/> and <Item id="24599"/>
-2. <Skill name="Sharpen Spines"/> while merged with Bristleback then swap pet
-3. <Skill name="Moa Stance"/>, <Skill id="12537"/> and <Skill name="Vulture Stance"/> 
-4. <Skill name="One Wolf Pack"/>
-5. Swap skills if necessary
-6. Take the _Mistlock Singularity_ and merge with your pet
+In 100CM boons get stripped but unique buffs don't, and you can play around the boonstriping thing.
+1. If you can get in combat prestack <Item id="24609"/>
+2. Be in <Skill id="28134"/> and press <Skill id="26937"/>
+3. <Skill id="45537"/> 
+4. _UI Swap_ to <Skill id="28494"/>
+4. Take the _Mistlock Singularity_ 
+* If your group is fast enough you'll get some <Skill id="45537"/> tics in combat, and the <Boon name=Alacrity/> from those tics won't get stripped
 
 </Card>
-<Card title="Axe/Dagger Golem Rotation">
-<Video youtube="WSuDmiuAwC8" caption="by Eren " />
+<Card title="Raid Golem Rotation">
+<Video youtube="fBYzCIj7RAU" caption="by Le Mós "/>
 </Card>
-<Card title="Axe/Dagger Golem Rotation">
-1. <Skill name="Vipers Nest"/>
-2. <Skill name="One Wolf Pack"/>
-3. <Skill name="Splitblade"/> 
-4. <Skill name="Winters Bite"/> 
-5. `Weapon Swap` 
-6. <Skill name="Vulture Stance"/> + <Skill name="Sharpening Stone"/>
-7. <Skill name="Bonfire"/>
-7. <Skill name="Double Arc"/> 
-8. <Skill name="Throw Torch"/> 
-9. <Skill id="46432"/>
-10. <Skill name="Maul"/>
-11. <Skill name="Primal Cry"/>
-12.  `Autoattack chain x1`
-13. <Skill name="Double Arc"/>
-14. <Skill name="Bonfire"/>
-15. `Autoattack chain x3` 
-16. <Skill name="Double Arc"/> 
-17. <Skill name="Throw Torch"/> 
-18. `Weapon Swap` 
-19. <Skill name="Splitblade"/>
-20. <Skill name="Winters Bite"/>
-21. <Skill name="Stalkers Strike"/>
-22. <Skill name="Crippling Talon"/>
-23. <Skill name="Splitblade"/>
-24. <Skill name="Maul"/>
-25. <Skill name="Vipers Nest"/>
-26. <Skill name="Crippling Talon"/>
-27. `Autoattack chain x5`
-28. <Skill name="Primal Cry"/>
-29. <Skill name="Splitblade"/>
-30. <Skill name="Stalkers Strike"/>
-31. Repeat from `Step 6`
 
-</Card>
-</GridItem>
-</Grid>

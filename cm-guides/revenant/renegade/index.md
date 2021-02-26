@@ -6,7 +6,7 @@ specialization: 'Renegade'
 date: '2021-02-24'
 author: 'Casual Sophie - Jin Su Liang.9036'
 disableOrganized: 'false'
-disableBosses: ['Light Ai', 'Dark Ai']
+disableBosses: ['LightAi', 'DarkAi']
 ---
 
 <ConditionalComponent condition="pug">
