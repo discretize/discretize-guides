@@ -205,7 +205,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <Divider text="Underwater combat"/>
 
-It is very much recommended to play <Specialization text="Condition Quickness Firebrand" name="Firebrand"/> ([Build](/builds/guardian/condi-firebrand)) since it provides much better DPS compared to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
+It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
 
 - Open with <Skill name="refraction"/> for <Boon name="retaliation"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
