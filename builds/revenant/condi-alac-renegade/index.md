@@ -14,7 +14,7 @@ code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
 author: 'PineappleMan.1430'
 cmguides: '/cm-guides/revenant/condi-alac-renegade'
 classification: [4, 2, 4, 3, 5]
-compositions: ['2Gh2Slb']
+compositions: [ { name: '_2Gh2Slb' }]
 ---
 <Message>
 This build has to be used on 100CM only. Apart from this fractal, Power <Specialization name="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support, being more versatile, etc 

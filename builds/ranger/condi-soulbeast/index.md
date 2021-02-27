@@ -12,8 +12,7 @@ conditions: ['Bleeding', 'Poisoned', 'Burning']
 code: '[&DQQeHSE3Ny55AAAAvQAAAL8AAADpFgAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/condi-soulbeast'
 classification: [5, 4, 3, 2, 3]
-compositions: ['2Gh2Slb']
-
+compositions: [{ name: '_2Gh2Slb' }] 
 ---
 
 <Message>

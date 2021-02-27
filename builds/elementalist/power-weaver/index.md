@@ -14,7 +14,7 @@ conditions: ['Burning', 'Chilled', 'Vulnerability']
 code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/elementalist/power-weaver'
 classification: [4, 5, 2, 3, 4]
-compositions: ['Rainbow', 'Rainbearbow']
+compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }]
 ---
 
 The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Sword Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some t4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.

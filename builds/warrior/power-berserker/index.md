@@ -15,7 +15,7 @@ code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Princeps.6481'
 cmguides: '/cm-guides/warrior/power-berserker'
 classification: [ 4, 4, 4, 2, 4]
-compositions: ['Rainbow']
+compositions: [ { name: '_Rainbow' }]
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
