@@ -735,7 +735,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
-<Boss name="artsariiv" video="rYhC4Ne7JCU"  timestamp=""  videoCreator="BlackHawk [dT]" foodId="91805" utilityId="9443" healId="" utility1Id="12633" utility2Id="12497" utility3Id="" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="" weapon2MainType="" weapon2MainSigil1="" weapon2MainInfusion1Id="" >
+<Boss name="artsariiv" video="rYhC4Ne7JCU"  timestamp=""  videoCreator="BlackHawk [dT]" foodId="91805" utilityId="9443" healId="" utility1Id="12633" utility2Id="12497" utility3Id="" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131">
 - Pet: <Skill id="44617" disableText/> Red Moa.
 - Take <Trait id="2128"/>.
 - Your build will change depending on your strategy. Check the tabs below for the correct build!
