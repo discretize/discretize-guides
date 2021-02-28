@@ -12,7 +12,7 @@ boons: ['Alacrity', 'Might']
 conditions: ['Vulnerability']
 code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
 author: 'PineappleMan.1430'
-classification: [4, 2, 4, 3, 5]
+classification: [4, 3, 4, 3, 5]
 compositions: [ { name: '2Fb2Slb', roles: 'DPS/CC,DPS/CC,DPS/Moa,DPS/Moa,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
 ---
 <Message>
