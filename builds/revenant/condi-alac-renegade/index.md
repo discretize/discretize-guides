@@ -16,13 +16,13 @@ classification: [4, 2, 4, 3, 5]
 compositions: [ { name: '2Fb2Slb', roles: 'DPS/CC,DPS/CC,DPS/Moa,DPS/Moa,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
 ---
 <Message>
-This build has to be used on 100CM only. Apart from this fractal, <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support, being more versatile, etc 
+This build has to be used on [Sunqua Peak](/fractals/sunqua-peak) only. Apart from this fractal, <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support, being more versatile.
 </Message>
-Condi <Specialization name="Renegade"/> is a unique role that you will want to play on 100cm only, as <BuildLink build="Power Renegade" specialization="Renegade"/> is better in any other fractals. Though, Condi <Specialization name="Renegade"/> has a very decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively, <Skill id="45773"/> that can help your party sustain to  high pressure situations, and to top it off, very good cc skills like <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
+Condi <Specialization name="Renegade"/> is a unique role that you will want to play on [Sunqua Peak](/fractals/sunqua-peak) only, as <BuildLink build="Power Renegade" specialization="Renegade"/> is better in any other fractals. Though, Condi <Specialization name="Renegade"/> has a very decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively, <Skill id="45773"/> that can help your party sustain to  high pressure situations, and to top it off, very good cc skills like <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
 
-Condi <Specialization name="Renegade"/> is pretty independant due to it's rather good mobility (<Skill id="27964"/>, <Skill id="28029"/>, <Skill id="27917"/>) and it's permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
+Condi <Specialization name="Renegade"/> is pretty independent due to it's rather good mobility (<Skill id="27964"/>, <Skill id="28029"/>, <Skill id="27917"/>) and it's permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
 
-Even if Condi <Specialization name="Renegade"/> does less damage than a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> or a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>, it is still a better option than <BuildLink build="Power Renegade" specialization="Renegade"/> on [Sunqua Peak CM](/fractals/sunqua-peak), especially on Dark Phase (Second Phase), and is not droppable in most cases because of <Boon name="Alacrity"/>.
+Even if Condi <Specialization name="Renegade"/> does less damage than a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> or a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>, it is still the better pick over <BuildLink build="Power Renegade" specialization="Renegade"/> on [Sunqua Peak CM](/fractals/sunqua-peak), especially on Dark Phase (Second Phase). In most cases a party wants to keep a <Specialization name="Renegade"/> as source for <Boon name="Alacrity"/>.
 
 <Divider text="Equipment"/>
 
@@ -30,7 +30,7 @@ Even if Condi <Specialization name="Renegade"/> does less damage than a <BuildLi
 <Tab title="Moa stance">
 Run this build if and only if you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>
 
-This build is designed for 207 AR, if you only have 162 AR take <Item id="80616"/> and 1 Seraph's <Item id="80002" stat-choices="1270"/> instead
+This build is designed for 207 AR, if you only have 162 AR take <Item id="80616"/> and one <Item id="80002" affix="Seraph"/> instead
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Viper" helmRune="Nightmare" shouldersAffix="Viper" shouldersRune="Nightmare" coatAffix="Viper" coatRune="Nightmare" glovesAffix="Viper" glovesRune="Nightmare" leggingsAffix="Viper" leggingsRune="Nightmare" bootsAffix="Viper" bootsRune="Nightmare" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
@@ -57,7 +57,7 @@ This build is designed for 207 AR, if you only have 162 AR take <Item id="80616"
 <Tab title="no moa stance">
 Run this build if you don't have access to <Skill id="45970"/> (no <Specialization name="Soulbeast"/> or no free slot for <Skill id="45970"/>)
 
-This build is designed for 207 AR, if you only have 162 AR take <Item id="80616"/> and 1 Seraph's <Item id="80002" stat-choices="1270"/> instead
+This build is designed for 207 AR, if you only have 162 AR take <Item id="80616"/> and one <Item id="80002" affix="Seraph"/> instead
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Viper" helmRune="Leadership" shouldersAffix="Viper" shouldersRune="Leadership" coatAffix="Viper" coatRune="Leadership" glovesAffix="Viper" glovesRune="Leadership" leggingsAffix="Viper" leggingsRune="Leadership" bootsAffix="Viper" bootsRune="Leadership" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
@@ -111,10 +111,10 @@ This build requires 2 <Specialization name="Renegade"/> with <Trait id="2182"/> 
 </GridItem>  
 <GridItem sm="5">
 <Card title="Legends">
-<Skill id="41858" size="big" disableText/>   <Skill id="28494" size="big" disableText/> 
+<Legends legend1Id="41858" legend2Id="28494"/>
 </Card>
 <Card title="Situational Traits">
-* Take <Trait id="1774"/> if your might uptime is good enough without <Trait id="1781"/>
+* Take <Trait id="1774"/> if your <Boon name="Might"/> uptime is good enough without <Trait id="1781"/>
 
 </Card>
 </GridItem>
@@ -128,25 +128,25 @@ This build requires 2 <Specialization name="Renegade"/> with <Trait id="2182"/> 
 * <Skill id="45686"/> : self heal + pulsing area heal skill that can help <Skill id="12498"/> to stay alive
 * <Skill id="42949"/> : excellent damage source, applies a lot of <Condition name="Bleeding"/>
 * <Skill id="40485"/> : suboptimal on Condi <Specialization name="Renegade"/>, still a good <Condition name="Vulnerability"/> source
-* <Skill id="41220"/> : very good cc skill, does in total 600 Breakbar damage
+* <Skill id="41220"/> : very good cc skill, does in total 600 breakbar damage
 * <Skill id="45773"/> : situational skill that helps your party surviving to some mechanics. does additional damage on hit
 
 <Skill id="28494"/> skills : 
-* <Skill id="27505"/> : not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condi builds (which are not affected by <Boon name="Protection"/>, still a good skill to boonstrip quickly
-* <Skill id="27917"/> : pretty good mobility skill, does 150 Breakbar damage
+* <Skill id="27505"/> : not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condi builds (which are not affected by <Boon name="Protection"/>), still a good skill to boonstrip quickly
+* <Skill id="27917"/> : pretty good mobility skill, does 150 breakbar damage
 * <Skill id="28287"/> : one of your most important damage skill, applies a lot of <Condition name="Torment"/>
 
 Shortbow skills :
 * <Skill id=40175/> : fast and low-cost damage skill, applies some <Condition name="Bleeding"/>
 * <Skill name="Sevenshot"/> : very good damage skill, applies a good amount of <Condition name="Torment"/>
 * <Skill name="SPiritcrush"/> : good damage skill, applies <Condition name="Burning"/> and <Condition name=Slow/>
-* <Skill id="41820"/> : applies <Condition name="Burning"/>, does 200 Breakbar damage
+* <Skill id="41820"/> : applies <Condition name="Burning"/>, does 200 breakbar damage
 
 Mace/Axe skills :
 * <Skill name=Searing Fissure/> : fast and low-cost damage skill, applies <Condition name=Burning/>
-* <Skill name=Echoing Eruption/> : fast and low cost damage skill, good mobility skill aswell, applies <Condition name=Torment/>
+* <Skill name=Echoing Eruption/> : fast and low cost damage skill, good mobility skill as well, applies <Condition name=Torment/>
 * <Skill name=Frigid Blitz/> : good mobility skill
-* <Skill name=Temporal Rift/> : good damage skill, good CC damage aswell, applies <Condition name=Torment/>
+* <Skill name=Temporal Rift/> : good damage skill, good CC damage as well, applies <Condition name=Torment/>
 
 
 <Specialization name="Renegade"/> skills :
@@ -187,7 +187,7 @@ Do not use <Skill id="45537"/> right before a mechanic or any reason that would 
 <Grid>
 <GridItem sm="6">
 <Card title="Information">
-Condi <Specialization name="Renegade"/> raid rotation is not super efficient in fractals due to the lack of time to ramp up with <Skill id="28494"/>, and the fact that you want to keep skills you usually use while in <Skill id="41858"/> to CC or keep skills like <Skill name="Citadel Bombardment"/> for exposed phases   
+<Specialization name="Renegade" text="Condi Renegade"/>'s raid rotation is not super efficient in fractals due to the lack of time to ramp up with <Skill id="28494"/>, and the fact that you want to save skills you usually use while in <Skill id="41858"/> to CC or keep skills like <Skill name="Citadel Bombardment"/> for exposed phases.
 
 You'll want to respect these rules :
 1. <Skill id="41858"/> : be on Mace/Axe
@@ -201,6 +201,24 @@ You will want to use <Skill id="45537"/> and <Skill name="Heroic Command"/> off 
 
 
 </Card>
+<Card title="Raid Golem Rotation">
+<Video youtube="fBYzCIj7RAU" caption="by Le Mós "/>
+</Card>
+
+</GridItem>
+
+<GridItem sm="6">
+<Card title="Precasting">
+In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don't, and you can play around the boonstripping thing.
+1. If you can get in combat prestack <Item id="24609"/>
+2. Be in <Skill id="28134"/> and press <Skill id="26937"/>
+3. <Skill id="45537"/> 
+4. _UI Swap_ to <Skill id="28494"/>
+4. Take the _Mistlock Singularity_ 
+* If your group is fast enough you'll get some <Skill id="45537"/> ticks in combat, and the <Boon name=Alacrity/> from those ticks won't get stripped.
+
+</Card>
+
 <Card title="Mallyx Shortbow Rotation">
 1. <Skill name="Embrace The Darkness"/>
 2. <Skill name="Searing Fissure"/>
@@ -231,22 +249,6 @@ You will want to use <Skill id="45537"/> and <Skill name="Heroic Command"/> off 
 10. <Skill name="Echoing Eruption"/>
 11. Swap to <Skill id="28494"/>
 
-</Card>
-</GridItem>
-
-<GridItem sm="6">
-<Card title="Precasting">
-In 100CM boons get stripped but unique buffs don't, and you can play around the boonstriping thing.
-1. If you can get in combat prestack <Item id="24609"/>
-2. Be in <Skill id="28134"/> and press <Skill id="26937"/>
-3. <Skill id="45537"/> 
-4. _UI Swap_ to <Skill id="28494"/>
-4. Take the _Mistlock Singularity_ 
-* If your group is fast enough you'll get some <Skill id="45537"/> tics in combat, and the <Boon name=Alacrity/> from those tics won't get stripped
-
-</Card>
-<Card title="Raid Golem Rotation">
-<Video youtube="fBYzCIj7RAU" caption="by Le Mós "/>
 </Card>
 
 </GridItem>
