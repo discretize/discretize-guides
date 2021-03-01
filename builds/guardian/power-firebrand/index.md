@@ -13,7 +13,7 @@ code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'ganymed.3541'
 cmguides: '/cm-guides/guardian/power-firebrand'
 classification: [5, 3, 4, 2, 4]
-compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_2Dh2Slb' }]
+compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_RGB' }]
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.
