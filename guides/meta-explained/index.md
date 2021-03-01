@@ -113,7 +113,7 @@ Removing <Specialization name="Weaver"/>: not a terrible idea. The <Specializati
 
 The previous section shows how well the current meta builds synergize with each other and how important it is that every single player maxes out their role. However, if your group is filled with good players and you're starting to feel capped by the rainbow comp in your daily kills times there are other more advanced comps that can offer some higher celings on certain bosses while still being stable picks for daily usage.
 
-### 2Gh 2 Slb <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/>
+### 2Dh 2 Slb <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/>
 
 
 <Specialization name="Weaver"/> was dropped in favor of a second <Specialization name="Soulbeast"/> because once you start phasing bosses at a certain speed <Specialization name="Soulbeast"/> not only brings more upfront burst but also crtically is able to run <Skill name="Moa Stance"/> on most bosses. Having two Soulbeasts means that neither has to drop their powerful <Skill name="Frost Trap"/> while also bringing their strong group utility skills which enables the comp to make its next replacement.

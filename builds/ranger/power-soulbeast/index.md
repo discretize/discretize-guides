@@ -13,7 +13,7 @@ effects: ['Stealth']
 code: '[&DQQIGiA7Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/power-soulbeast'
 classification: [5, 5, 3, 3, 4]
-compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_2Gh2Slb' }]
+compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_2Dh2Slb' }]
 
 ---
 
