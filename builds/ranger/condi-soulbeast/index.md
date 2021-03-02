@@ -12,15 +12,14 @@ conditions: ['Bleeding', 'Poisoned', 'Burning']
 code: '[&DQQeHSE3Ny55AAAAvQAAAL8AAADpFgAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/condi-soulbeast'
 classification: [5, 4, 3, 2, 3]
-compositions: ['2Gh2Slb']
-
+compositions: [{ name: '_RGB' }] 
 ---
 
 <Message>
 This build is [META](/guides/meta-explained) in Sunqua Peak. Outside Sunqua Peak in faster groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
 </Message>
 
-Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals you will be better off playing the power varient found [here](/builds/ranger/soulbeast/).
+Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
 
 This build is rather self sufficient due to:
 - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/> 
@@ -58,7 +57,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 <Tab title="Condi Soulbeast Afflicted">
 <Message>
-This build is probably only worth running in a static group. It's damage depends on the amount of <Specialization name="Soulbeast"/> in the party. The build deals similar DPS with 2 condi Soulbeasts, and outpreforms the Krait build if you have 3 Soulbeasts in the party. If you are going to be on your own run the Krait rune setup!
+This build is probably only worth running in a static group. It's damage depends on the amount of <Specialization name="Soulbeast"/> in the party. The build deals similar DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3 Soulbeasts in the party. If you are going to be on your own run the Krait rune setup!
 </Message>
 <Grid>
 <GridItem sm="4">
@@ -118,7 +117,7 @@ Although Axe/Dagger benches higher, typically this build is only run in 100CM wh
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>. This can be taken as a second <Specialization name="Soulbeast"/>, Allowing your <Specialization name="Renegade"/> to lower their bon duration and deal substantially more DPS! |
+| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>. This can be taken as a second <Specialization name="Soulbeast"/>, Allowing your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! |
 | <Skill name="Vipers Nest" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>. |
 | <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. |
 | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM! |
@@ -141,7 +140,7 @@ Although Axe/Dagger benches higher, typically this build is only run in 100CM wh
 <Card title="Information">
 <Specialization name="Soulbeast"/> Golem rotations from raid builds are generally suboptimal in fractals due to bosses moving around much more this makes <Trait name="Light on your Feet"/> much more attractive than <Trait name="Quickdraw"/> which is used in raids. The rotations are fairly easy to adapt though, all you do is skip the second cast of a skill that has been Quickdrawn and dodge as much as you can to upkeep <Trait name="Light on your Feet"/>. <Trait name="Quickdraw"/> rotations can still work providing the boss doesn't move too much but if there is any doubt take <Trait name="Light on your Feet"/>.
 
-With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/> off cooldown, and your <Skill id="42944"/> skills and <Skill name="Vipers Nest"/> when you don't have anything else to do but auto attack.
+With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/> off cool-down, and your <Skill id="42944"/> skills and <Skill name="Vipers Nest"/> when you don't have anything else to do but auto attack.
 </Card>
 <Card title=" Shortbow Golem Rotation">
 <Video youtube="DblomOq_n2U" caption="by Leder [SC] "/>
