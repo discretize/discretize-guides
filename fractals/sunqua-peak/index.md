@@ -9,6 +9,22 @@ difficulties: [{ level: 100, ar: 150 }]
 cycle: 'Day (non CM) / Night (CM)'
 sigils: [{ id: 36053 }, { id: 24868 }]
 consumables: [78978]
+record:
+  {
+    time: '1:09',
+    by: [
+        { name: 'Quantify', tag: 'qT' }, 
+        { name: 'Discretize', tag: 'dT'},
+        { name: 'Seventeen Elitists', tag: 'XVII'}
+    ],
+    youtube: [
+      { id: 'bX03q6P1IIw', name: 'Tym', specialization: 'Soulbeast' },
+      { id: 'KhX6wzYaIdc', name: 'Eupneo', specialization: 'Soulbeast' },
+      { id: 'CuD8VoHkWYQ', name: 'Tantor', specialization: 'Firebrand' },
+      { id: 'rGp3LjjZQB4', name: 'Roach', specialization: 'Firebrand' },
+      { id: '5KM5x9mCjyU', name: 'Decados', specialization: 'Renegade' },
+    ],
+  }
 ---
 
 The Sunqua Peak fractal is different from previously released fractals: After doing all the achievements a Challange Mote is unlocked which opens a portal to the last boss in Challenge Mode. The bosses in normal mode are supposed to teach the mechanics of the endboss. 

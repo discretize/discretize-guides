@@ -9,7 +9,7 @@ difficulties: [{ level: 92, ar: 137 }]
 record:
   {
     time: '3:48',
-    by: { name: 'Quantify', tag: 'qT' },
+    by: [{ name: 'Quantify', tag: 'qT' }],
     youtube:
       [{ id: 'un7xbSP-7KI', name: 'Deathly', specialization: 'Chronomancer' }],
   }

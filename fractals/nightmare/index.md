@@ -9,7 +9,7 @@ difficulties: [{ level: 98, ar: 147 }]
 record:
   {
     time: '8:36',
-    by: { name: 'Snow Crows/Quantify', tag: 'SC/qT' },
+    by: [{ name: 'Snow Crows/Quantify', tag: 'SC/qT' }],
     youtube:
       [
         { id: 'YHmwhZc-sMU', name: 'Roul', specialization: 'Firebrand' },
