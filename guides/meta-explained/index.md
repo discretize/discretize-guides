@@ -1,6 +1,6 @@
 ---
 title: 'Meta explained'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/preview.png'
 description: 'Everything around Meta and the current Meta composition'
 hidden: 'false'
@@ -163,6 +163,39 @@ Specific bosses where this comp excels:
 * Siax
 * Skorvald
 * Artsariiv
+
+<Card title="META Comps Comparison">
+| | <Composition name="_Rainbow"/> | <Composition name="_Rainbearbow"/> | <Composition name="_RGB"/> |
+| -- | -- | -- | -- |
+| **General Info** | A solid easy to play comp providing plenty of CC and group support. This comp is a great start for people looking to run no healer. Additionaly the <Specialization name="Weaver"/> can be replaced with a different [DPS class](/guides/what-should-i-play) relatively easily. | A more offensive comp that pushes past the DPS barriers that Rainbow comp suffers from. Requires co-ordinated play and high DPS to phase bosses but can suffer on days with bad instabilities, although it has an easier time maintaining boons then RGB. | A more offensive comp that pushes past the DPS barriers that Rainbow comp suffers from. Requires co-ordinated play and high DPS to phase bosses before boons run out, especially since most of your <Boon name="Quickness"/> comes from the precast. |
+| **Difficulty** | Easy | Advanced | Advanced |
+| **Pros** | Access to an abundant amount of [CC](/guides/cc-distrobution)<br/><br/>Keeping up boons is easy with plenty of sources for <Boon name="Might"/> and plenty of sources to keep <Condition name="Vulnerability"/> at 25 stacks.<br/><br/>Has a large amount of sustained DPS and is very easy to recover from mistakes and deal with bad [Instabilities](/guides/fractal-basics)| Massive burst especially at the beginning of fights<br/><br/>Conjure share allowing <Specialization name="Soulbeast"/> and <Specialization name="Renegade"/> to cover skills when on cooldown<br/><br/><Specialization name="Weaver"/> helps keep <Condition name="Vulnerability"/> at 25 stacks later on into fights | Very high burst potential on specific phases<br/><br/>Good boon duration on demmand allowing more aggresive variants of support builds<br/><br/>Precasting powerful traps such as <Skill name = "Frost Trap"/> and <Skill name = "Procession of Blades"/> allows for strong openers |
+| **Cons** | The comp is fairly restrictive in that only the <Specialization name="Weaver"/> can be easily replaced with another [DPS class](/guides/what-should-i-play)<br/><br/>In groups with high burst <Specialization name="Berserker"/> damage starts to fall off, due to lack of burst and <Skill name="Berserk"/> not lining up with phases.  | Requires fast phases or starts to suffer from lack of sustained damage<br/><br/>Requires some class swapping so you can run a <Specialization name="Berserker"/> on MAMA, and a second <Specialization name="Firebrand"/> on 100CM<br/><br/>With bad instabilities some fights turn ugly very fast if you make mistakes or have low DPS | Requires fast phasing and transitions or starts to suffer from lack of sustained damage<br/><br/>Can be gated on certain bosses by <Skill name = "SicEm!"/><br/><br/>If fights take to long to complete boons start dropping causing a domino effect making the end of fights potentially ugly |
+| **Strong Bosses** | MAMA<br/>Siax<br/>Arkk | Siax<br/>Skorvald<br/>Artsariiv | Skorvald<br/>Artsariiv<br/>Arkk |
+| **Weaker Bosses** | Ensolyss<br/>Skorvald<br/>Artsariiv | MAMA<br/>Arkk | Siax<br/>Ensolyss |
+* Notes: The bad bosses on rainbow comp are chosen in relation to fast timers. In slower groups Rainbow comp, although not the fastest, is strong on all bosses, Once you get to boss times where <Specialization name="Berserker"/> starts running into problems with burst DPS and <Skill name="Berserk"/> timings, is when you may start to benefit from running one of the advanced comps.
+
+</Card>
+
+## 100CM META
+
+100CM is the first challenge mote that condition builds are advantageous to run over power, this is due to the amount of movement the boss does, Incoming damage pressure, and to an extent the size of the [CC bars](/guides/cc-distribution). At the moment the strongest builds to play are <BuildLink build="Condi Firebrand" specialization="Firebrand"/>, <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> and <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>. This is due to the mandatory boons these classes bring and also the unique buffs and group support they bring. We are not saying other classes are bad in this encounter, but if you want to run a more optimal comp it will be a mixture of the above classes.
+
+### RGB <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/>
+
+Currently the RGB comp (or varients of it) are the most optimal comps to be running in a static scenario. Read below to see why each class is taken;
+
+<BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> - Currently two <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> are taken as DPS as they each bring an inportant unique buff. One <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> brings <Skill name="Sun Spirit"/> and the other brings <Skill name="Moa Stance"/>. <Skill name="Moa Stance"/> is especially important as it allows your <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> to play a very offensive build with minimal boon duration. As well as these buffs <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> also brings high damage and reasonable CC.
+
+<BuildLink build="Condi Firebrand" specialization="Firebrand"/> - Currently two <BuildLink build="Condi Firebrand" specialization="Firebrand"/> are also used in the comp. Most importantly <BuildLink build="Condi Firebrand" specialization="Firebrand"/> brings <Boon name="Quickness"/> through <Skill name="Mantra of Potence"/> and if needed <Trait name="Liberators Vow"/>. It also brings massive amounts of hard CC through <Skill name="Sanctuary"/> and a large ampunt of soft CC through <Skill name="Chains of Light"/>. As well as all of this it brings massive DPS through prestacking ashes (Skill 5) in <Skill name="Tome of Justice"/> before the fight begins.
+
+<BuildLink build="Condi Alac Renegade" specialization="Renegade"/> - Finally <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> most importantly provides the group with <Boon name="Alacrity"/> and a good amount of <Boon name="Might"/> while also making the DPS classes sweat as you come very close to their damage. It also has great group support with <Skill name="Soulcleaves Summit"/>, <Skill name="Breakrazors Bastion"/> and plenty of CC.
+
+Although this is the optimal setup the only essential classes are the <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> and the two <BuildLink build="Condi Firebrand" specialization="Firebrand"/>. If you want to replace a class, replacing <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> is the place to start, ideally with a third <BuildLink build="Condi Firebrand" specialization="Firebrand"/> or a second <BuildLink build="Condi Alac Renegade" specialization="Renegade"/>.
+
+### PuG Comps
+
+While the three META condi classes are great options for PuGs and we would suggest playing one of these. In reality the minimum you will want is a <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> for <Boon name="Alacrity"/> and <Boon name="Might"/>, and either a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> or a <BuildLink build="Heal Firebrand" specialization="Firebrand"/> for <Boon name="Quickness"/>. When chosing a DPS class providing you bring plenty of CC playing the class you can pull the most damage on is a good way to go. This means classes such as <Specialization name="Mirage"/> and <Specialization name="Weaver" text="Condition Weaver"/> are perfeclty viable and can bring solid DPS when played properply. The downside to these builds are they do not bring the same group support that <BuildLink build="Condi Firebrand" specialization="Firebrand"/>, <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> and <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> have.
 
 ## What and how do I play in PuGs?
 
