@@ -160,7 +160,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 <Tab title="Delayed Rotation">
 
 <Message>
-This rotation is designed to be used when playing double Soulbeast comps, it bursts into phases two and four covering the damage that a Soulbeast doing the standard rotation loses and covers the CC that a Weaver would normally do. You should also swap <Skill name="Frost Spirit"/> for <Skill name="Frost Trap"/>.
+This rotation is designed to be used when playing double Soulbeast comps, it bursts into phases two and four covering the damage that a Soulbeast doing the standard rotation loses and covers the CC that a Weaver would normally do. You should also swap <Skill name="Frost Spirit"/> for <Skill name="Frost Trap"/>. To see a PoV of this in action check the [Videos page](/videos).
 </Message>
 
 ### **Precast**
@@ -221,7 +221,7 @@ This rotation is designed to be used when playing double Soulbeast comps, it bur
 <ConditionalComponent condition="pug">
 <Boss name="siax" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Take <Trait id="2128"/>.
+- Take <Trait id="2128"/>, <Trait name="Two handed training"/>.
 - Remember to use <Item id="24658"/> for this encounter!
 - Longbow will burst higher on this fight, but you will have trouble killing your 2nd add. You should only play it if you know you can quickly kill the add or you have help.
 </Boss>
@@ -282,7 +282,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 <ConditionalComponent condition="static">
 
-<Boss name="siax" video="6p9ccfQJmdQ" videoCreator="Stellan [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Impact" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
+<Boss name="siax" video="6JGgL1pGqmM" videoCreator="Jetrell [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Impact" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131" >
 - Pet: <Skill id="43636" disableText/> Rock Gazelle if you CC, <Skill id="44617" disableText/> Red Moa if you aren't breaking.
 - Take <Trait id="2128"/>.
 - Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
@@ -343,7 +343,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 <Tab title="Quickdraw Rotation">
 
 <Message>
-When you play this rotation you will want to replace the Marksmanship traitline with the following traits on the Skirmishing traitline; <Trait name="Sharpened Edges"/>, <Trait name="Hidden Barbs"/> and <Trait name="Quickdraw"/>. <Trait name="Spotter"/> is optional and should be run if your group needs the precision to Crit cap, and <Trait name="Trappers Expertise"/> can be run if it will allow you to fit a <Skill name="Frost Trap"/> in on Phase 2 (Will only be worth taking if your group is slow!).
+When you play this rotation you will want to replace the Marksmanship traitline with the following traits on the Skirmishing traitline; <Trait name="Sharpened Edges"/>, <Trait name="Hidden Barbs"/> and <Trait name="Quickdraw"/>. <Trait name="Spotter"/> is optional and should be run if your group needs the precision to Crit cap, and <Trait name="Trappers Expertise"/> can be run if it will allow you to fit a <Skill name="Frost Trap"/> in on Phase 2 (Will only be worth taking if your group is slow!). To see a PoV of this in action check the [Videos page](/videos).
 <Traits unembossed traits1Id="30" traits1="Skirmishing" traits1SelectedIds="1069,1846,1064"/>
 There are Two ways to handle the splits with this strat. With a double <Specialization name="Dragonhunter"/> comp you can solo your first add with the help of precasted traps and duo the second add with the other <Specialization name="Soulbeast"/>. If you run other comps you should duo both adds.
 </Message>
@@ -735,33 +735,21 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
-<Boss name="artsariiv" video="rYhC4Ne7JCU"  timestamp=""  videoCreator="BlackHawk [dT]" foodId="91805" utilityId="9443" healId="" utility1Id="12633" utility2Id="12497" utility3Id="" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131">
-- Pet: <Skill id="44617" disableText/> Red Moa.
+<Boss name="artsariiv" video="rYhC4Ne7JCU"  timestamp=""  videoCreator="BlackHawk [dT]" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainInfusionId="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131">
+- Pet: <Skill id="44617" disableText/> Red Moa for DPS, <Skill id="43636" disableText/> Rock Gazelle for CC.
 - Take <Trait id="2128"/>.
-- Your build will change depending on your strategy. Check the tabs below for the correct build!
 - If good instabilities, use <Item id="73191"/> as Utility food.
+- <Skill name="Bear Stance"/> is an incredibly strong heal if you are doing side strat.
+- If you are doing side strat, replace <Skill name="Frost Trap"/> with <Skill name="Signet of the Wild"/>
 - Middle strategy assumes you each phase before Artsariiv reaches the corner, or shortly after.
 </Boss>
 
 <Tabs>
 <Tab title="Mid Strat">
-<Grid>
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<Skills healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717"/>
-- Pet: <Skill id="44617" disableText/> Red Moa.
-- Traits: <Trait id="2128"/>
-
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainInfusionId="37131" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Hydromancy" weapon2OffInfusionId="37131"/> 
-</GridItem>
-</Grid>
-
 <Message>
 If you are going to triple mid burn you may want to run the replace Marksmanship with the following traits which will allow you to use <Skill name="Frost Trap"/> each phase.
 <Traits unembossed traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1075, 1846, 1888"/>
+Since there is no <Effect name="Exposed"/> in mid strat, it is worth swapping <Item id="24868"/> for <Item id="24597"/> on your off-hand Axe.
 </Message>
 
 ### **Precast**
@@ -805,20 +793,6 @@ If you are going to triple mid burn you may want to run the replace Marksmanship
 </Tab>
 
 <Tab title="Side Strat">
-<Grid>
-<GridItem sm="6">
-<Card title="Skills and Traits">
-<Skills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
-- Pet: <Skill id="44617" disableText/> Red Moa for more DPS, or <Skill id="43636" disableText/> Rock Gazelle if you need the CC.
-- Take <Trait id="2128"/>.
-
-</Card>
-</GridItem>
-<GridItem sm="6">
-<Weapons weapon1MainType="Longbow" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Axe" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" />
-</GridItem>
-</Grid>
-
 ### **Precast**
 
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
@@ -834,9 +808,11 @@ If you are going to triple mid burn you may want to run the replace Marksmanship
 - When she reaches the side use <Skill name="Sicem"/>, <Skill name="onewolfpack"/> and <Skill name="Worldlyimpact"/>.
 - <Skill name="pathofscars"/> to help CC.
 - <Skill name="Whirlingdefense"/> to reflect for omega DPS.
-- <Skill id="43548"/> if she isn't phased yet.
+- Use <Skill id="42944"/> skills, <Skill name="Winters Bite"/> and autoattack if she isn't phased yet.
 
 ### _Add Phases_
+- On the first split you can CC your add with <Skill name="Winters Bite"/>, <Skill name="PAth of Scars"/> and <Skill id="45743"/>
+- On the second split you can CC your first add with <Skill name="Winters Bite"/> and <Skill name="PAth of Scars"/>, and the second add with <Skill id="45743"/> and <Skill name="Point Blank Shot"/>
 - Make sure you are on longbow for the next phase.
 - Pick up the <Skill id="5516"/> if your <Specialization name="Weaver"/> places one for you.
 
@@ -846,14 +822,14 @@ If you are going to triple mid burn you may want to run the replace Marksmanship
 - <Skill name="Cold Snap"/> to call your spirit to the middle.
 - Once she becomes vulnerable use <Skill name="Rapid fire"/> **(do not use <Skill name="sicem"/> here)**.
 - Once she starts her slam animation use <Skill name="Point Blank Shot"/> to proc <Item id="84505"/>.
-- <Skill id="43548"/> then <Skill name="Worldlyimpact"/>.
+- <Skill id="42944"/> skills then <Skill name="Worldlyimpact"/>.
 - <SpecialActionKey name="hypernovalaunch"/> to the corner.
 - <Skill name="Cold Snap"/> when you can to call your spirit to the side.
 - <Skill name="Rapid fire"/> and <Skill name="sicem"/>.
 - <Skill name="Point Blank Shot"/> to proc <Item id="84505"/> again.
 - <Skill name="Worldlyimpact"/>.
 - <Skill name="pathofscars"/> -> <Skill name="Whirlingdefense"/> to reflect again.
-- If she isn't dead yet, use <Skill id="43548"/> and sword autoattack.
+- If she isn't dead yet, use <Skill id="42944"/> skills, <Skill name="Winters Bite"/> and autoattack.
 
 </Tab>
 </Tabs>
