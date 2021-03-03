@@ -1,6 +1,6 @@
 ---
 title: 'Firebrand CM guides'
-build: 'Firebrand'
+build: 'Power Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
 date: '2021-02-24'

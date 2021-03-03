@@ -1,6 +1,6 @@
 ---
 title: 'Renegade CM guides'
-build: 'Renegade'
+build: 'Power Renegade'
 profession: 'Revenant'
 specialization: 'Renegade'
 date: '2021-02-24'
