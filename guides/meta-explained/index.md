@@ -136,7 +136,9 @@ Specific bosses where this comp excels:
 
 * Skorvald
 * Artsariiv
-* MAMA
+* MAMA*
+
+*MAMA is a special case and having a <Specialization name="Berserker"/> fill in for one of the <Specialization name="Dragonhunter"/> makes the boss much smoother and faster. The <Specialization name="Berserker"/> player can then swap back to his <Specialization name="Dragonhunter"/> while the other 4 people finish the altar events before Siax.
 
 ### Rainbearbow Comp <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Firebrand" disableText/><Specialization name="Renegade" disableText/>
 
