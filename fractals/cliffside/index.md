@@ -9,7 +9,7 @@ difficulties: [{ level: 94, ar: 140 }]
 record:
   {
     time: '4:29',
-    by: { name: 'Happens', tag: 'hP' },
+    by: [{ name: 'Happens', tag: 'hP' }],
     youtube:
       [
         { id: '05wgY9N_pdc', name: 'Guts', specialization: 'Chronomancer' },

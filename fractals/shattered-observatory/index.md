@@ -9,7 +9,7 @@ difficulties: [{ level: 99, ar: 148 }]
 record:
   {
     time: '5:15',
-    by: { name: 'Nightmare Shattered', tag: 'Ns' },
+    by: [{ name: 'Nightmare Shattered', tag: 'Ns' }],
     youtube:
       [
         { id: 'gniUy_2k2hM', name: 'Xarax', specialization: 'Soulbeast' },

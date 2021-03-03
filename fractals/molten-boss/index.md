@@ -13,7 +13,7 @@ consumables: [78978, 49940, 8764, 8801]
 record:
   {
     time: '4:24',
-    by: { name: 'Discretize', tag: 'dT' },
+    by: [{ name: 'Discretize', tag: 'dT' }],
     youtube:
       [
         { id: '1IwsZyYrjmA', name: 'Metagame', specialization: 'Chronomancer' },
