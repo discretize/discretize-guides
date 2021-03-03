@@ -174,8 +174,8 @@ Specific bosses where this comp excels:
 | **Strong Bosses** | MAMA<br/>Siax<br/>Arkk | Siax<br/>Skorvald<br/>Artsariiv | Skorvald<br/>Artsariiv<br/>Arkk |
 | **Weaker Bosses** | Ensolyss<br/>Skorvald<br/>Artsariiv | MAMA<br/>Arkk | MAMA<br/>Ensolyss |
 Notes:
-* The bad bosses on rainbow comp are chosen in relation to fast timers. In slower groups Rainbow comp, although not the fastest, is strong on all bosses, Once you get to boss times where <Specialization name="Berserker"/> starts running into problems with burst DPS and <Skill name="Berserk"/> timings, is when you may start to benefit from running one of the advanced comps.
-*MAMA is a special case with RGB comp and having a <Specialization name="Berserker"/> fill in for one of the <Specialization name="Dragonhunter"/> makes the boss much smoother and faster. The <Specialization name="Berserker"/> player can then swap back to his <Specialization name="Dragonhunter"/> while the other 4 people finish the altar events before Siax.
+* The weaker bosses on rainbow comp are chosen in relation to fast timers. In slower groups Rainbow comp, although not the fastest, is strong on all bosses, Once you get to boss times where <Specialization name="Berserker"/> starts running into problems with burst DPS and <Skill name="Berserk"/> timings, is when you may start to benefit from running one of the advanced comps.
+* MAMA is a special case with RGB comp and having a <Specialization name="Berserker"/> fill in for one of the <Specialization name="Dragonhunter"/> makes the boss much smoother and faster. The <Specialization name="Berserker"/> player can then swap back to his <Specialization name="Dragonhunter"/> while the other 4 people finish the altar events before Siax.
 
 </Card>
 
