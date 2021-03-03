@@ -1,6 +1,6 @@
 ---
 title: 'Berserker CM guides'
-build: 'Berserker'
+build: 'Power Berserker'
 profession: 'Warrior'
 specialization: 'Berserker'
 date: '2021-02-24'
