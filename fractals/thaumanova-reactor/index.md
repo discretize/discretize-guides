@@ -9,7 +9,7 @@ difficulties: [{ level: 82, ar: 118 }]
 record:
   {
     time: '2:43',
-    by: { name: 'Discretize', tag: 'dT' },
+    by: [{ name: 'Discretize', tag: 'dT' }],
     youtube:
       [
         { id: 'QCele6YZeow', name: 'Metagame', specialization: 'Chronomancer' },

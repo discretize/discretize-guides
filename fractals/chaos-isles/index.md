@@ -9,7 +9,7 @@ difficulties: [{ level: 88, ar: 129 }, { level: 97, ar: 145 }]
 record:
   {
     time: '3:48',
-    by: { name: 'Discretize', tag: 'dT' },
+    by: [{ name: 'Discretize', tag: 'dT' }],
     youtube:
       [
         { id: 'WN_ohtdzUEY', name: 'Hyperiel', specialization: 'Chronomancer' },

@@ -9,7 +9,7 @@ difficulties: [{ level: 81, ar: 117 }]
 record:
   {
     time: '3:52',
-    by: { name: 'Quantify', tag: 'qT' },
+    by: [{ name: 'Quantify', tag: 'qT' }],
     youtube:
       [
         { id: 'jQCKegeS3DI', name: 'Subi', specialization: 'Chronomancer' },

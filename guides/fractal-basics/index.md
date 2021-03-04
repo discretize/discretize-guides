@@ -275,7 +275,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 ## Key findings
 - Don't use your heal skill while under the effect of <Effect name="Agony"/>.
 - CC the boss first, then use your burst skills. **Everyone has to contribute!**
-- Only use _Fire Fields_ on the _Mistlock Singularity_.
+- Only use _Fire Fields_ on the _Mistlock Singularity_ during pre-stacking.
 - Always stack together, boons are shared in close proximity.
 - Don't be afraid to communicate with your team if you are new.
 

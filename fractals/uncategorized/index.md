@@ -9,7 +9,7 @@ difficulties: [{ level: 79, ar: 113 }, { level: 91, ar: 134 }]
 record:
   {
     time: '2:14',
-    by: { name: 'Lucky Noobs', tag: 'LN' },
+    by: [{ name: 'Lucky Noobs', tag: 'LN' }],
     youtube:
       [
         { id: 'CipdjbelW-0', name: 'Nightmare', specialization: 'Chronomancer' },
