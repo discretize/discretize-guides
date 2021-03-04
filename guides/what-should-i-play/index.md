@@ -9,8 +9,9 @@ This page introduces all the builds on this website by giving a very short overv
 
 Outline:
 1. **META:** These builds perform best in a group. [Click here](/guides/meta-explained) to find more out about how and why the current fractal META works well. The META is designed to provide the fastest clear across all fractals.
-2. **OFFMETA:** Builds in this category can substitute builds of the META category, but will provide worse performance in an optimal scenario.
-3. **OTHER:** These builds are played mostly for fun, to carry individuals or with niche uses like more cleave, boon generation and skips.
+2. **Condi META:** These builds will perfom best in 100CM, but will fall off in faster groups on other encounters [Click here](/guides/meta-explained) to find more out about how and why the current fractal META works well.
+3. **OFFMETA:** Builds in this category can substitute builds of the META category, but will provide worse performance in an optimal scenario.
+4. **OTHER:** These builds are played mostly for fun, to carry individuals or with niche uses like more cleave, boon generation and skips.
 
 <Divider text="Meta builds"/>
 
@@ -86,8 +87,7 @@ Its worth to mention that *<Specialization text="Power Quickness Firebrand" name
 </Message>
 </Card>
 
-
-<Divider text="Offmeta builds"/>
+<Divider text="Condi Meta builds"/>
 
 <Card specialization="Firebrand" title="Condi Firebrand">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
@@ -108,6 +108,38 @@ One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> i
 Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independant of their groups.
 
 </Card>
+
+<Card specialization="Renegade" title="Condi Alac Renegade">
+| Build | Synergy | DPS | Independence | Basics | Mastery | 
+| ---- | --------- | -- | ------------| ------ | ------- |
+| [<Specialization name="Renegade" disableLink />](/builds/revenant/condi-alac-renegade) | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="5"/> | 
+
+Condi <Specialization name="Renegade"/> is a unique role that you will want to play on [Sunqua Peak](/fractals/sunqua-peak) only, as <BuildLink build="Power Renegade" specialization="Renegade"/> is better in any other fractals. Though, Condi <Specialization name="Renegade"/> has a very decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively, <Skill id="45773"/> that can help your party sustain to  high pressure situations, and to top it off, very good cc skills like <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
+
+Condi <Specialization name="Renegade"/> is pretty independent due to it's rather good mobility (<Skill id="27964"/>, <Skill id="28029"/>, <Skill id="27917"/>) and it's permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
+
+Even if Condi <Specialization name="Renegade"/> does less damage than a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> or a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>, it is still the better pick over <BuildLink build="Power Renegade" specialization="Renegade"/> on [Sunqua Peak CM](/fractals/sunqua-peak), especially on Dark Phase (Second Phase). In most cases a party wants to keep a <Specialization name="Renegade"/> as source for <Boon name="Alacrity"/>.
+
+</Card>
+
+<Card specialization="Soulbeast" title="Condi Soulbeast">
+| Build | Synergy | DPS | Independence | Basics | Mastery | 
+| ---- | --------- | -- | ------------| ------ | ------- |
+| [<Specialization name="Soulbeast" disableLink />](/builds/ranger/condi-soulbeast) | <Rating value="5"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="3"/> | 
+
+Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
+
+
+This build is rather self sufficient due to:
+- Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/> 
+- Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
+- High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
+
+Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike. 
+
+</Card>
+
+<Divider text="Offmeta builds"/>
 
 <Card specialization="Holosmith" title="Power Holosmith">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
@@ -165,6 +197,20 @@ When <Instability name="Afflicted"/> is present or enemies are applying conditio
 If you play this build we highly recommend learning the <Skill name="Bane Signet"/> share variant. If you want a good and smooth run, take a look at the [Fractal Pages](/fractals). This class will not be doing much damage but understanding how the class works best and when to do <Skill name="Bane Signet"/> sharing is important! 
 </Card>
 
+<Card specialization="Chronomancer" title="Power Chronomancer">
+| Build | Synergy | DPS | Independence | Basics | Mastery | 
+| ---- | --------- | -- | ------------| ------ | ------- |
+| [<Specialization name="Chronomancer" disableLink />](/builds/mesmer/power-chronomancer) | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> | 
+The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long rampup times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient. 
+
+To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to __adapt__ your rotation on the go and push the limits of your class, but even then you will probably be a hinderance for your group.
+
+You'll provide boon removal through your clones, auto-attack chains, <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
+
+The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized.
+
+This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. 
+</Card>
 
 <Card specialization="Renegade" title="Heal Renegade">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
