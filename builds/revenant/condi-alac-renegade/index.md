@@ -72,7 +72,7 @@ This build is designed for 207 AR, if you only have 162 AR take <Item id="80616"
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Seraph" ring2Affix="Seraph" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
 
-<Card title="Swap Weapons">
+<Card title="Notes">
 * If there is Boon Overload, take 2 Viper <Item id="80058"/> <Item id="86997"/> and <Item id="48917"/> instead
 
 
