@@ -42,11 +42,11 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <GridItem sm="4">
 <Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="37130" weapon2MainInfusion1Id="37130" weapon1OffInfusionId="37130" weapon2MainInfusion2Id="37130"/>
 
-<Consumables foodId="92488" utilityId="48917" infusion="Malign +9 Agony Infusion"/>
+<Consumables foodId="92456" utilityId="48917" infusion="Malign +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
+<BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
 
 <Card title="Swap Weapons">
 * An Axe/Dagger set to replace Shortbow for fights where range is not needed.
@@ -67,13 +67,13 @@ This build is probably only worth running in a static group. It's damage depends
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Malice" weapon1OffSigilId="44950" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="44950" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Malice" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44950" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560	" weapon2MainSigil1Id="44950" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Malice" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
 
-<Consumables foodId="92488" utilityId="48917" infusion="Spiteful +9 Agony Infusion"/>
+<Consumables foodId="92478" utilityId="48917" infusion="Spiteful +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="86113" backItemInfusion2Id="86113" accessory1InfusionId="86113" accessory2InfusionId="86113" ring1Infusion1Id="86113" ring1Infusion2Id="86113" ring1Infusion3Id="86113" ring2Infusion1Id="86113" ring2Infusion2Id="86113" ring2Infusion3Id="86113"/>
+<BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="86113" backItemInfusion2Id="86113" accessory1InfusionId="86113" accessory2InfusionId="86113" ring1Infusion1Id="86113" ring1Infusion2Id="86113" ring1Infusion3Id="86113" ring2Infusion1Id="86113" ring2Infusion2Id="86113" ring2Infusion3Id="86113"/>
 
 <Card title="Swap Weapons">
 * An Axe/Dagger set to replace Shortbow for fights where range is not needed.
@@ -119,7 +119,7 @@ Although Axe/Dagger benches higher, typically this build is only run in 100CM wh
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>. This can be taken as a second <Specialization name="Soulbeast"/>, Allowing your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! |
+| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Vulture Stance"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Altenatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. 
 | <Skill name="Vipers Nest" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>. |
 | <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. |
 | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM! |
@@ -186,11 +186,15 @@ With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Sk
 <Card title="Precasting">
 In 100CM boons get stripped but unique buffs do not you can precast these skills.
 1. If you can get in combat briefly stack <Item id="24609"/> and <Item id="24599"/>
-2. <Skill name="Sharpen Spines"/> while merged with Bristleback then swap pet
-3. <Skill name="Moa Stance"/>, <Skill id="12537"/> and <Skill name="Vulture Stance"/> 
+2. While in combat you can precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
+2. <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
+3. With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
+3. As you are dodging use <Skill name="Moa Stance"/>, <Skill id="12537"/> and <Skill name="Vulture Stance"/> 
 4. <Skill name="One Wolf Pack"/>
 5. Swap skills if necessary
-6. Take the _Mistlock Singularity_ and merge with your pet
+6. Cast <Skill name="Double Arc"/> 
+6. Take the _Mistlock Singularity_
+7. Cast <Skill name="Double Arc"/> again
 
 </Card>
 <Card title="Axe/Dagger Golem Rotation">
