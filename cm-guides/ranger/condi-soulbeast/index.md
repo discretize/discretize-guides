@@ -9,12 +9,12 @@ disableBosses: ['Skorvald', 'Artsariiv', 'Arkk', 'MAMA', 'Siax', 'Ensolyss']
 ---
 
 <ConditionalComponent condition="pug">
-<Boss name="LightAi" video="" timestamp="" videoCreator="" foodId="92488" utilityId="48917" healId="12489" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130" >
+<Boss name="LightAi" video="" timestamp="" videoCreator="" foodId="92456" utilityId="48917" healId="12489" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130" >
 - Pet: <Skill id="46432" disableText/> Warthog 
 - Take <Trait id="2128"/>.
-- <Trait id="1912"/> will massively out preform <Trait id="1064"/> in a pug scenario due to Ai not sticking in one place for long.
+- <Trait id="1912"/>.
 - <Skill name="Quick shot"/> and <Skill name="Instinctive Engage"/> are great movement abilities for following Ai when dashing and also to dodge suicidal teammates.
-- <Skill name="Bear Stance"/> is a strong condi cleanse and will really help your group, especially if your party likes standing in every AoE.
+- <Skill name="Healing Spring"/> is a strong condi cleanse and will really help your group, especially if your party likes standing in every AoE at the sides.
 - Remember to dodge as often as you can to keep <Trait name="Light on your Feet"/> active.
 
 </Boss>
@@ -24,10 +24,13 @@ disableBosses: ['Skorvald', 'Artsariiv', 'Arkk', 'MAMA', 'Siax', 'Ensolyss']
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
 </Message>
 
-- Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>.
-- Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap back to Lynx.
-- Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
+- <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
+- With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
+- As you are didging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- Cast <Skill name="Double Arc"/>
 - Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
+- Cast <Skill name="Double Arc"/> again
 - As you walk into the arena make sure to stack <Trait id="1912"/> for some extra initial damage.
 - Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
 
@@ -73,11 +76,11 @@ There is not much you can do in the split phase here, so just make sure to keep 
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
-<Boss name="LightAi" video="dBPtEj5ULWI" timestamp="" videoCreator="BlackHawk [dT]" foodId="92488" utilityId="48917" healId="31914" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130" >
+<Boss name="LightAi" video="dBPtEj5ULWI" timestamp="" videoCreator="BlackHawk [dT]" foodId="92456" utilityId="48917" healId="31914" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130" >
 - Pet: <Skill id="41206" disableText/> Bristleback for dps. <Skill id="46432" disableText/> Warthog if your group needs the CC.
 - Take <Trait id="2128"/>.
 - <Trait id="1912"/>.
-- <Skill id="12498"/> can be replaced with <Skill id="45970"/> if you run two <Specialization name="Soulbeast"/>, to allow your <Specialization name="Renegade"/> to play full condi DPS with minimal boon duration, just remember to sync up <Skill id="45970"/> with <Skill id="45537"/> so <Boon name="Alacrity"/> doesn't drop. 
+- <Skill name="Vulture Stance"/> can be replaced with <Skill id="45970"/> this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Altenatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. Just remember to sync up <Skill id="45970"/> with <Skill id="45537"/> so <Boon name="Alacrity"/> doesn't drop. 
 - <Skill name="Quick shot"/> and <Skill name="Instinctive Engage"/> are great movement abilities for following Ai when dashing and also to dodge suicidal teammates.
 - There is an invisible hitbox in the center of the arena so use <Skill id="41206"/> there for a big DPS.
 - For this encounter swapping shortbow for Axe/Dagger can work well in high DPS groups due to Ai getting phased at the side and not dashing much.
@@ -92,11 +95,14 @@ The following guide assumes your group will CC Ai at the side of the arena; and 
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
 </Message>
 
-- Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>.
-- Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap back to Lynx.
-- Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
+- <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
+- With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
+- As you are didging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- Cast <Skill name="Double Arc"/>
 - Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
-- As you walk into the arena make sure to stack <Trait id="1912"/> if you are running it for some extra initial damage.
+- Cast <Skill name="Double Arc"/> again
+- As you walk into the arena make sure to stack <Trait id="1912"/> for some extra initial damage.
 - Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
 
 ### _Air Phase_
@@ -136,12 +142,12 @@ There is not much you can do in the split phase here, so just make sure to keep 
 </ConditionalComponent>
 
 <ConditionalComponent condition="pug">
-<Boss name="DarkAi" video="" timestamp="" videoCreator="" foodId="92488" utilityId="48917" healId="12489" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130" >
+<Boss name="DarkAi" video="" timestamp="" videoCreator="" foodId="92456" utilityId="48917" healId="12489" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130" >
 - Pet: <Skill id="46432" disableText/> Warthog 
 - Take <Trait id="2128"/>.
-- <Trait id="1912"/> will massively out preform <Trait id="1064"/> in a pug scenario due to Ai not sticking in one place for long.
+- <Trait id="1912"/>.
 - <Skill name="Quick shot"/> and <Skill name="Instinctive Engage"/> are great movement abilities for following Ai when dashing and also to dodge suicidal teammates.
-- <Skill name="Bear Stance"/> is a strong condi cleanse and will really help your group, especially if your party likes standing in every AoE.
+- <Skill name="Healing Spring"/> is a strong condi cleanse and will really help your group, especially if your party likes standing in every AoE at the sides.
 - Remember to dodge as often as you can to keep <Trait name="Light on your Feet"/> active.
 
 </Boss>
@@ -151,11 +157,14 @@ There is not much you can do in the split phase here, so just make sure to keep 
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
 </Message>
 
-- Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>.
-- Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap back to Lynx.
-- Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
+- <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
+- With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
+- As you are didging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- Cast <Skill name="Double Arc"/>
 - Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
-- As you walk into the arena make sure to stack <Trait id="1912"/> if you are running it for some extra initial damage.
+- Cast <Skill name="Double Arc"/> again
+- As you walk into the arena make sure to stack <Trait id="1912"/> for some extra initial damage.
 - Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
 
 <Message>
@@ -191,11 +200,11 @@ Your rotation from here will depend on your groups DPS and Ai's RNG. In general 
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
-<Boss name="DarkAi" video="WkU20J-00gQ" timestamp="" videoCreator="BlackHawk [dT]" foodId="92488" utilityId="48917" healId="31914" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130" >
+<Boss name="DarkAi" video="WkU20J-00gQ" timestamp="" videoCreator="BlackHawk [dT]" foodId="92456" utilityId="48917" healId="31914" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130" >
 - Pet: <Skill id="41206" disableText/> Bristleback for dps. <Skill id="46432" disableText/> Warthog if your group needs the CC.
 - Take <Trait id="2128"/>.
 - <Trait id="1912"/>.
-- <Skill id="12498"/> can be replaced with <Skill id="45970"/> if you run two <Specialization name="Soulbeast"/>, to allow your <Specialization name="Renegade"/> to play full condi DPS with minimal boon duration, just remember to sync up <Skill id="45970"/> with <Skill id="45537"/> so <Boon name="Alacrity"/> doesn't drop. 
+- <Skill name="Vulture Stance"/> can be replaced with <Skill id="45970"/> this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Altenatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. Just remember to sync up <Skill id="45970"/> with <Skill id="45537"/> so <Boon name="Alacrity"/> doesn't drop. 
 - <Skill name="Quick shot"/> and <Skill name="Instinctive Engage"/> are great movement abilities for following Ai when dashing and also to dodge suicidal teammates.
 - Using <Skill id="41206"/> when multiple targets are around is a big DPS increase so make sure you have it available to use as the Fears close in. 
 
@@ -210,11 +219,14 @@ The following guide assumes your group will CC Ai at the side of the arena; Ther
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
 </Message>
 
-- Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>.
-- Merge with Bristleback and cast <Skill name="sharpen spines"/>, and then swap to your pet of choice.
-- Cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
-- Make sure to stack <Trait id="1912"/> if you are running it for some extra initial damage.
+- Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
+- <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
+- With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
+- As you are didging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- Cast <Skill name="Double Arc"/>
 - Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
+- Cast <Skill name="Double Arc"/> again
+- As you walk into the arena make sure to stack <Trait id="1912"/> for some extra initial damage.
 - Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
 
 ### _100% - 66%_
