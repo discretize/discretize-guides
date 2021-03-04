@@ -9,7 +9,7 @@ difficulties: [{ level: 77, ar: 109 }, { level: 89, ar: 130 }]
 record:
   {
     time: '5:09',
-    by: { name: 'Lucky Noobs', tag: 'LN' },
+    by: [{ name: 'Lucky Noobs', tag: 'LN' }],
     youtube:
       [
         {
