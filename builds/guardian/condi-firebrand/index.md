@@ -11,7 +11,7 @@ boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
 code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 classification: [3, 4, 5, 2, 3]
-compositions: [ { name: '2Fb2Slb', roles: 'DPS/CC,DPS/CC,DPS/Moa,DPS/Moa,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
+compositions: [ { name: '2Fb2Slb', roles: 'DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
 ---
 
 <Message>

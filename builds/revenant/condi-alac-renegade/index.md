@@ -13,7 +13,7 @@ conditions: ['Vulnerability']
 code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
 author: 'PineappleMan.1430'
 classification: [4, 3, 4, 3, 5]
-compositions: [ { name: '2Fb2Slb', roles: 'DPS/CC,DPS/CC,DPS/Moa,DPS/Moa,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
+compositions: [ { name: '2Fb2Slb', roles: 'DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
 ---
 <Message>
 This build has to be used on [Sunqua Peak](/fractals/sunqua-peak) only. Apart from this fractal, <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support, being more versatile.
