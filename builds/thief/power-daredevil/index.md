@@ -63,7 +63,7 @@ With 204 Agony resistance <Specialization name="Daredevil"/> is critcapped even 
 
 | | |
 | -- | -- |
-| <Trait id="1702" size="big" disableText/> | Critical Strikes trait. Heals you with % of damage dealt, useful if you cant stay alive.|
+| <Trait id="1702" size="big" disableText/> | Critical Strikes trait. Heals you with % of damage dealt, useful if you can't stay alive.|
 | <Trait id="2023" size="big" disableText/> | Daredevil trait. Healing and condition cleanse on evade.  |
 
 If no one in your party can boonrip when the <Instability name="No Pain, No Gain"/> instability is present you can swap Deadly Arts for the Trickery line with the following traits: 
