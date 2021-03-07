@@ -61,7 +61,7 @@ It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile a
 </Tab>
 
 <Tab specialization="Guardian">
-You can use <Skill name="Binding Blade"/> to group the little cats at the start and then every phase of Chaos Anomaly, the position you need to place yourself for perfect pull can vary based on what cat you killed last, there are variations you cant pull all of them, only 2.
+You can use <Skill name="Binding Blade"/> to group the little cats at the start and then every phase of Chaos Anomaly, the position you need to place yourself for perfect pull can vary based on what cat you killed last, there are variations you can't pull all of them, only 2.
 </Tab>
 
 <Tab specialization="ranger">
