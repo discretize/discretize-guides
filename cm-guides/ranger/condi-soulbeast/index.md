@@ -27,7 +27,7 @@ Boons get removed upon entering combat here, so stacking them is pointless. Effe
 - Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
 - <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
 - With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
-- As you are didging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- As you are dodging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
 - Cast <Skill name="Double Arc"/>
 - Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
 - Cast <Skill name="Double Arc"/> again
@@ -50,13 +50,14 @@ In pug groups it is recommended to cc Ai in the middle of the arena. This will g
 <Message>
 Ideally your group will use a Xera portal to get back to the middle to DPS Ai quickly. Make sure you communicate with your team before the fight to work out if you or someone else will drop one.
 </Message>
+- Start this phase on Dagger/Torch
 - As the split phase ends take a Xera portal back to the middle casting <Skill name="Sun Spirit"/> as you go through.
 - Once in the middle use <Skill name="One Wolf Pack"/>, <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>.
-- Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/> and <Skill name="Poison Volley"/> then swap to Dagger/Torch.
-- Swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your <Skill id="42944"/> skills
-Keep DPSing until you need to head to the safe spot by the Meteor. Once it is safe to leave use <Skill name="Instinctive Engage"/> to reach Ai quickly so you can use <Skill name="Double Arc"/> and <Skill name="Throw Torch"/> before Ai dashes away from mid.
-- Swap to Shortbow and follow, calling <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/> once you reach the side and camp Shortbow until Ai dashes back to the middle.
-- Follow Ai to the middle of the arena and as the expanding AoE's appear use <Skill name="Quick Shot"/> to dodge back so you don't get demerged,
+- Use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and swap to Shortbow.
+- Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/> and <Skill name="Poison Volley"/> and your <Skill id="42944"/> skills.
+Keep DPSing until you need to head to the safe spot by the Meteor. Once it is safe to leave follow Ai to the side, calling <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/>.
+- As you reach the side use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/> and <Skill name="Poison Volley"/> and swap to Dagger/Torch and continue with your rotation.
+- Follow Ai to the middle of the arena and as the expanding AoE's appear swap to Shortbow and use <Skill name="Quick Shot"/> to dodge back so you don't get demerged,
 - After the split mechanic call <Skill name="Sun Spirit"/> mid with <Skill name ="Solar Flare"/>. As the CC bar comes up use <Skill name="Concussion Shot"/> and <Skill id="46432"/>, then swap to Dagger/Torch continuing with your rotation until Ai phases (Hopefully before the meteors fall).
 
 ### _Water Phase_
@@ -98,7 +99,7 @@ Boons get removed upon entering combat here, so stacking them is pointless. Effe
 - Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
 - <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
 - With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
-- As you are didging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- As you are dodging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
 - Cast <Skill name="Double Arc"/>
 - Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
 - Cast <Skill name="Double Arc"/> again
@@ -118,13 +119,14 @@ Boons get removed upon entering combat here, so stacking them is pointless. Effe
 Ideally your group will use a Xera portal to get back to the middle to DPS Ai quickly. If you are running <Trait name="Quickdraw"/> make sure someone else uses their portal as the trait will proc when you open portal which isn't ideal.
 </Message>
 
+- Start this phase on Dagger/Torch
 - As the split phase ends take a Xera portal back to the middle casting <Skill name="Sun Spirit"/> as you go through.
 - Once in the middle use <Skill name="One Wolf Pack"/>, <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>.
-- Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/> and <Skill name="Poison Volley"/> then swap to Dagger/Torch.
-- Swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your <Skill id="42944"/> skills.
-- Keep attacking until you need to head to the safe spot by the Meteor. Once it is safe to leave use <Skill name="Instinctive Engage"/> to reach Ai quickly so you can use <Skill name="Double Arc"/> and <Skill name="Throw Torch"/> before Ai dashes away from mid.
-- Swap to Shortbow and follow using <Skill id="46432"/> to CC.
-- Call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/> and continue with your rotation until Ai phases.
+- Use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and swap to Shortbow.
+- Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/> and <Skill name="Poison Volley"/> and your <Skill id="42944"/> skills.
+Keep DPSing until you need to head to the safe spot by the Meteor. Once it is safe to leave follow Ai to the side, calling <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/>.
+- As you reach the side use <Skill name="Concussion Shot"/> and <Skill id="46432"/> to CC and call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/>.
+-  Use <Skill name="Crippling Shot"/> and <Skill name="Poison Volley"/> and swap to Dagger/Torch and continue with your rotation until Ai phases.
 
 ### _Water Phase_
 <Message>
@@ -160,7 +162,7 @@ Boons get removed upon entering combat here, so stacking them is pointless. Effe
 - Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
 - <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
 - With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
-- As you are didging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- As you are dodging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
 - Cast <Skill name="Double Arc"/>
 - Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
 - Cast <Skill name="Double Arc"/> again
@@ -222,7 +224,7 @@ Boons get removed upon entering combat here, so stacking them is pointless. Effe
 - Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
 - <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
 - With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
-- As you are didging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
+- As you are dodging cast <Skill name="Vulture stance"/>, <Skill name="sharpening stone"/>, <Skill name="one wolf pack"/> and <Skill name="moa stance"/>
 - Cast <Skill name="Double Arc"/>
 - Take mistlock _Mistlock Singularity_ and swap any skills back you have changed.
 - Cast <Skill name="Double Arc"/> again
@@ -256,3 +258,4 @@ Your rotation from here will depend on your groups DPS and Ai's RNG. In general 
 - Quickly swap to Shortbow and use <Skill name="Quick Shot"/> to dodge back as Fears will be closing in and once they are gone move back in continuing with your normal rotation until Ai is dead. If Ai dashes to the side follow and help to CC if you can.
 
 </ConditionalComponent>
+
