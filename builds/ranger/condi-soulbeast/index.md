@@ -184,7 +184,7 @@ With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Sk
 
 <GridItem sm="6">
 <Card title="Precasting">
-In 100CM boons get stripped but unique buffs do not you can precast these skills.
+In 100CM boons get stripped but unique buffs do not, so you can precast these skills and traits:
 1. If you can get in combat briefly stack <Item id="24609"/> and <Item id="24599"/>
 2. While in combat you can precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
 2. <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
