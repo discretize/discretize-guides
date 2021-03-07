@@ -42,7 +42,7 @@ In pug groups it is recommended to cc Ai in the middle of the arena. This will g
 - As you reach the side call <Skill name="Sun Spirit"/> to you with <Skill name="Solar Flare"/>.
 - Cast <Skill name="one wolf pack"/> and swap to Dagger/Torch and use <Skill name="Bonfire"/>, <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and your <Skill id="42944"/> skills.
 - Remember to dodge as often as you can to keep <Trait name="Light on your Feet"/> active and use <Skill name="Double Arc"/> and <Skill name="Throw Torch"/> as they come off cool-down.
-- Swap back to Shortbow and follow Ai to the middle of the arena and as the expanding AoE's appear use <Skill name="Quick Shot"/> to dodge back so you dont get demerged,
+- Swap back to Shortbow and follow Ai to the middle of the arena and as the expanding AoE's appear use <Skill name="Quick Shot"/> to dodge back so you don't get demerged,
 - After the split mechanic call <Skill name="Sun Spirit"/> mid with <Skill name ="Solar Flare"/>. As the CC bar comes up use <Skill name="Concussion Shot"/> and <Skill id="46432"/>, then swap to Dagger/Torch continuing with your rotation until Ai phases (Hopefully before the air split phase happens).
 
 

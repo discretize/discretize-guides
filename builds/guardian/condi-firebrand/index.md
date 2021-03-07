@@ -11,14 +11,14 @@ boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
 code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 classification: [3, 4, 5, 2, 3]
-compositions: [ { name: '2Fb2Slb', roles: 'DPS/CC,DPS/CC,DPS/Moa,DPS/Moa,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
+compositions: [ { name: '_CRGB'} ]
 ---
 
 <Message>
-This build is [META](/guides/meta-explained) in Sunqua Peak. Outside Sunqua Peak in faster groups this build will fall massively behind <Specialization name="Dragonhunter"/> or <Specialization name="Guardian"/> - the power damage counterparts.
+This build is [META](/guides/meta-explained) in Sunqua Peak. Outside Sunqua Peak in faster groups this build will fall behind <Specialization name="Dragonhunter"/> or <Specialization name="Guardian"/> - the power damage counterparts.
 </Message>
 
-The **<Specialization text="Condi Firebrand" name="Firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high consistent DPS. In organized teams this build is inferior to <Specialization name="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very competitive results making DPS players sweat. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls. 
+The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide permanent <Boon name="Quickness"/> (if necessary) to the party while dealing high consistent DPS. In organized teams this build is inferior to <Specialization name="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very competitive results making DPS players sweat. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls. 
 
 This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
 - Permanent <Boon name="Quickness"/>.
@@ -64,7 +64,10 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 <Grid>
 <GridItem sm="7">
 <Traits traits1="Radiance" traits1Selected="Right-Hand Strength, Radiant Fire, Amplified Wrath" traits2="Zeal" traits2Selected="Fiery Wrath, Kindled Zeal, Eternal Armory" traits3="Firebrand" traits3Selected="Liberators Vow, Stalwart Speed, Loremaster"/>
- <Card title="Defiance Bar Damage">
+<Message>
+This build provides permanent <Boon name="Quickness"/>. For different variants, such as organized Sunqua Peak groups or full DPS, please scroll down.
+</Message> 
+<Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
 | <Skill id="45402"/> | 150 damage |
@@ -98,6 +101,31 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 </GridItem>
 </Grid>
 
+<Divider text="Build Variants"/>
+
+### Full DPS variant
+You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS by making minor adjustments to the build.
+<Grid>
+<GridItem sm="4">
+<Skills unembossed heal="Mantra of Solace" utility1="Sword of Justice" utility2="Mantra of Flame"  utility3="Signet of Wrath" elite="Renewed Focus"/>
+</GridItem>
+<GridItem sm="8">
+<Traits unembossed traits1="Firebrand" traits1Selected="Unrelenting Criticism, Legendary Lore, Loremaster" />
+</GridItem>
+</Grid>
+
+### Organized Sunqua Peak group
+This build assumes the <Composition name="_CRGB" />. <BuildLink specialization="Soulbeast" build="Condi Soulbeast"/> provides <Skill name="Moa Stance"/> which greatly increases the duration of applied <Boon name="Quickness"/> and allows <Skill name="Renewed Focus" /> to be played for an additional Tome reset. Both <Specialization name="Firebrand"/> have to play this build!
+<Grid>
+<GridItem sm="4">
+<Skills unembossed heal="Mantra of Solace" utility1="Sword of Justice" utility2="Mantra of Potence"  utility3="Signet of Wrath" elite="Renewed Focus"/>
+</GridItem>
+<GridItem sm="8">
+<Traits unembossed traits1="Firebrand" traits1Selected="Liberators Vow, Legendary Lore, Loremaster" />
+</GridItem>
+</Grid>
+
+
 <Divider text="Details"/>
 
 To keep up <Boon name="Quickness"/>:
@@ -127,17 +155,6 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - Skill 3 is a 5s reflect
   - Skill 4 grants <Boon name="Resistance"/> and breaks stun
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
-
-<Card title="Full DPS variant">
-You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS by making minor adjustments to the build.
-<Grid>
-<GridItem sm="6">
-<Skills unembossed heal="Mantra of Solace" utility1="Sword of Justice" utility2="Mantra of Flame"  utility3="Signet of Wrath" elite="Renewed Focus"/>
-</GridItem>
-</Grid>
-
-<Traits unembossed traits1="Firebrand" traits1Selected="Unrelenting Criticism, Legendary Lore, Loremaster" />
-</Card>
 
 <br/><br/>
 <Divider text="Rotation / Skill usage"/>
