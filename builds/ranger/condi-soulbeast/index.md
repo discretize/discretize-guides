@@ -67,7 +67,7 @@ This build is probably only worth running in a static group. It's damage depends
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44950" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560	" weapon2MainSigil1Id="44950" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Malice" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Malice" weapon1MainSigil1Id="44950" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560	" weapon2MainSigil1Id="44950" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Malice" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
 
 <Consumables foodId="92478" utilityId="48917" infusion="Spiteful +9 Agony Infusion"/>
 </GridItem>
