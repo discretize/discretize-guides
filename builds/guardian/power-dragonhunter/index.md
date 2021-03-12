@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Power Dragonhunter'
 date: '2021-02-24'
 rating: 'Power Meta'
@@ -130,9 +130,9 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 
 <Divider text="Details"/>
-As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfecttinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC and sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
+As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
 
-Generally it is important to apply <Boon name="Retaliation"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersretribution"/> your heal skill applies long lasting  <Trait name="retribution"/>. Since your <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> share the same cooldown they will line up perfectly. You can also trigger a <Skill id="13677"/> by loosing health below the 75% threshould to trigger <Trait id="648"/>, however you need to be careful to not die. 
+Generally it is important to apply <Boon name="Retaliation"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersretribution"/> your heal skill applies long lasting  <Trait name="retribution"/>. Since your <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> share the same cooldown they will line up perfectly. You can also trigger a <Skill id="13677"/> by losing health below the 75% threshould to trigger <Trait id="648"/>, however you need to be careful to not die. 
 
 
 
@@ -143,7 +143,7 @@ Generally it is important to apply <Boon name="Retaliation"/> when you are about
 <GridItem xs="12" sm="6">
 
 <Card title="Information">
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt their rotation to the amount of time a group needs to finish a phase.  
 For that reason you will find some general notes for skill usage here.
 </Card>
 <Card title="Precasting">
@@ -176,7 +176,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
-***Scepter Rotation:**
+**Scepter Rotation:**
 1. <Skill name="banesignet" profession="guardian"/>
 1. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
 1. <Skill name="Sword of Justice" profession="guardian"/>
