@@ -8,7 +8,7 @@ bosses: 3
 difficulties: [{ level: 98, ar: 147 }]
 record:
   {
-    time: '8:36',
+    time: '5:44',
     by: [{ name: 'Invicta Luna', tag: 'iV' }],
     youtube:
       [
