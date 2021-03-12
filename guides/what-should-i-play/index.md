@@ -87,6 +87,22 @@ Its worth to mention that *<Specialization text="Power Quickness Firebrand" name
 </Message>
 </Card>
 
+<Card specialization="Dragonhunter" title="Power Dragonhunter">
+| Build | Synergy | DPS | Independence | Basics | Mastery | 
+| ---- | --------- | -- | ------------| ------ | ------- |
+| [<Specialization name="Dragonhunter" disableLink />](/builds/guardian/power-dragonhunter) | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> | 
+The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> was moved to the [offmeta](/builds/) due to the fact that you can not replace a <Specialization name="Weaver"/> or <Specialization name="Soulbeast"/>. <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand" /> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups. 
+
+<Specialization name="Dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
+
+The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/>, <Skill name="standyourground"/>.
+
+Compared to other builds the <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
+
+It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+</Card>
+
+
 <Divider text="Condi Meta builds"/>
 
 <Card specialization="Firebrand" title="Condi Firebrand">
@@ -158,22 +174,6 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
 
 <Specialization name="Reaper" text="Power Reaper"/> has multiple offensive skill options (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Reaper" text="Power Reaper"/> can modify itself to fit many given situations in fractals.
-
-It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-</Card>
-
-
-<Card specialization="Dragonhunter" title="Power Dragonhunter">
-| Build | Synergy | DPS | Independence | Basics | Mastery | 
-| ---- | --------- | -- | ------------| ------ | ------- |
-| [<Specialization name="Dragonhunter" disableLink />](/builds/guardian/power-dragonhunter) | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> | 
-The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> was moved to the [offmeta](/builds/) due to the fact that you can not replace a <Specialization name="Weaver"/> or <Specialization name="Soulbeast"/>. <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand" /> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups. 
-
-<Specialization name="Dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
-
-The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/>, <Skill name="standyourground"/>.
-
-Compared to other builds the <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 </Card>
