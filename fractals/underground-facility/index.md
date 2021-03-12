@@ -1,6 +1,6 @@
 ---
 title: 'Underground Facility'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/start.jpg'
 group: 'T4'
 api: 2947
@@ -9,7 +9,7 @@ difficulties: [{ level: 81, ar: 117 }]
 record:
   {
     time: '3:52',
-    by: { name: 'Quantify', tag: 'qT' },
+    by: [{ name: 'Quantify', tag: 'qT' }],
     youtube:
       [
         { id: 'jQCKegeS3DI', name: 'Subi', specialization: 'Chronomancer' },

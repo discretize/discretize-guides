@@ -1,6 +1,6 @@
 ---
 title: 'Swampland'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/bloomhunger_spirit_onslaught.jpg'
 group: 'T4'
 api: 2892
@@ -9,7 +9,7 @@ difficulties: [{ level: 77, ar: 109 }, { level: 89, ar: 130 }]
 record:
   {
     time: '5:09',
-    by: { name: 'Lucky Noobs', tag: 'LN' },
+    by: [{ name: 'Lucky Noobs', tag: 'LN' }],
     youtube:
       [
         {

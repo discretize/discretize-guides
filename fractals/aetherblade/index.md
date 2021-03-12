@@ -1,6 +1,6 @@
 ---
 title: 'Aetherblade'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/header.jpg'
 group: 'T4'
 api: 2948
@@ -9,7 +9,7 @@ difficulties: [{ level: 96, ar: 144 }]
 record:
   {
     time: '3:10',
-    by: { name: 'Happens', tag: 'hP' },
+    by: [{ name: 'Happens', tag: 'hP' }],
     youtube:
       [{ id: 'VkfhMuvB4a0', name: 'Guts', specialization: 'Chronomancer' }],
   }

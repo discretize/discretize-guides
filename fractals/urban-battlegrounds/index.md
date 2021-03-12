@@ -1,6 +1,6 @@
 ---
 title: 'Urban Battlegrounds'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/header.jpg'
 group: 'T4'
 api: 2941
@@ -9,7 +9,7 @@ difficulties: [{ level: 85, ar: 124 }]
 record:
   {
     time: '4:50',
-    by: { name: 'Happens', tag: 'hP' },
+    by: [{ name: 'Happens', tag: 'hP' }],
     youtube:
       [
         {

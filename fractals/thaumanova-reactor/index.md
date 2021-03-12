@@ -1,6 +1,6 @@
 ---
 title: 'Thaumanova Reactor'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/header.jpg'
 group: 'T4'
 api: 2967
@@ -9,7 +9,7 @@ difficulties: [{ level: 82, ar: 118 }]
 record:
   {
     time: '2:43',
-    by: { name: 'Discretize', tag: 'dT' },
+    by: [{ name: 'Discretize', tag: 'dT' }],
     youtube:
       [
         { id: 'QCele6YZeow', name: 'Metagame', specialization: 'Chronomancer' },

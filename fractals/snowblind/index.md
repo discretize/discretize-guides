@@ -1,6 +1,6 @@
 ---
 title: 'Snowblind'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/header.jpg'
 group: 'T4'
 api: 2952
@@ -9,7 +9,7 @@ difficulties: [{ level: 86, ar: 125 }, { level: 93, ar: 137 }]
 record:
   {
     time: '3:32',
-    by: { name: 'Snow Crows', tag: 'SC' },
+    by: [{ name: 'Snow Crows', tag: 'SC' }],
     youtube:
       [
         { id: 'vvW8-vlCAjI', name: 'Yui', specialization: 'Chronomancer' },

@@ -1,6 +1,6 @@
 ---
 title: 'Volcanic'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/header.jpg'
 group: 'T4'
 api: 2989
@@ -9,7 +9,7 @@ difficulties: [{ level: 92, ar: 137 }]
 record:
   {
     time: '3:48',
-    by: { name: 'Quantify', tag: 'qT' },
+    by: [{ name: 'Quantify', tag: 'qT' }],
     youtube:
       [{ id: 'un7xbSP-7KI', name: 'Deathly', specialization: 'Chronomancer' }],
   }

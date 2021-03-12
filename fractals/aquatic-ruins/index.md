@@ -1,6 +1,6 @@
 ﻿---
 title: 'Aquatic Ruins'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/header.jpg'
 group: 'T4'
 api: 2956
@@ -9,7 +9,7 @@ difficulties: [{ level: 76, ar: 107 }]
 record:
   {
     time: '2:13',
-    by: { name: 'Happens', tag: 'hP' },
+    by: [{ name: 'Happens', tag: 'hP' }],
     youtube:
       [{ id: 'cRKap-6_W48', name: 'Guts', specialization: 'Chronomancer' }],
   }

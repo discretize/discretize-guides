@@ -1,7 +1,7 @@
 ﻿---
 title: 'Power Dragonhunter'
-date: '2020-11-14'
-rating: 'Offmeta'
+date: '2021-02-24'
+rating: 'Power Meta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
@@ -14,11 +14,11 @@ code: '[&DQEqOhAvGzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Princeps.6481'
 cmguides: '/cm-guides/guardian/power-dragonhunter'
 classification: [3, 4, 3, 2, 4]
+compositions: [ { name: '_RGB' }]
 ---
-
-
-The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> was moved to the [offmeta](/builds/) due to the fact that you can not replace a <Specialization name="Weaver"/> or <Specialization name="Soulbeast"/>. <Specialization title="Power Dragonhunter" name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand" /> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups. 
-
+<Message>
+<Specialization title="Power Dragonhunter" name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand" /> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups or when played in the <Composition name="_RGB" /> composition. 
+</Message>
 <Specialization name="Dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
 
 The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/>, <Skill name="standyourground"/>.
@@ -205,7 +205,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <Divider text="Underwater combat"/>
 
-It is very much recommended to play <Specialization text="Condition Quickness Firebrand" name="Firebrand"/> ([Build](/builds/guardian/condi-firebrand)) since it provides much better DPS compared to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
+It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
 
 - Open with <Skill name="refraction"/> for <Boon name="retaliation"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
