@@ -1,6 +1,6 @@
 ---
 title: 'Meta explained'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/preview.png'
 description: 'Everything around Meta and the current Meta composition'
 hidden: 'false'
@@ -50,7 +50,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Provides <Boon name="Stability"/> and projectile destruction on demand (from <Skill name="Legendary Dwarf stance"/> and <Skill name="Legendary Centaur Stance"/> respectively).
 * If <Instability name="No Pain, No Gain"/> or <Instability name="Vengeance"/> instability is present it can strip boons with <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon stance"/>).
 
-[Build](builds/revenant/renegade)
+[Build](builds/revenant/power-renegade)
 </Tab>
 
 <Tab specialization="Firebrand">
@@ -62,7 +62,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Has blinks available from skills such as <Skill name="symbol of blades"/>, <Skill name="judges intervention"/> and <Skill name="mercifulintervention"/>.
 * Can provide situational <Boon name="Stability"/> for T4s or Artsariiv using <Skill name="Stand your ground"/>.
 
-[Build](builds/guardian/firebrand)
+[Build](builds/guardian/power-firebrand)
 </Tab>
 
 <Tab specialization="Berserker">
@@ -74,7 +74,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Is a third DPS class on most bosses, which makes it in conjunction with banners a non-brainer to bring. 
 * Provides very high cleave DPS in T4s. 
 
-[Build](builds/warrior/berserker)
+[Build](builds/warrior/power-berserker)
 </Tab>
 
 <Tab specialization="Soulbeast">
@@ -84,7 +84,7 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Deals very high damage. 
 * Allows the team to <Effect name="Stealth"/> in T4s due to the smoke field from the <Skill id="31568" disableText/> [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) pet.
 
-[Build](builds/ranger/soulbeast)
+[Build](builds/ranger/power-soulbeast)
 </Tab>
 
 <Tab specialization="Weaver">
@@ -95,11 +95,11 @@ This composition is often called the "daily comp" or also "rainbow comp" <Specia
 * Provides AoE <Condition name="Blinded"/> for T4s via <Skill name="Glyph of storms"/>.
 * Can execute various T4s skips with <Skill name="lightningflash"/>.
 
-[Build](builds/elementalist/weaver)
+[Build](builds/elementalist/power-weaver)
 </Tab>
 </Tabs>
 
-Removing one of these 5 classes will introduce new issues or be strictly worse. 
+Removing one of these 5 classes will introduce some new issues that will require some adapting to overcome. 
 
 Removing <Specialization name="Firebrand"/> + <Specialization name="Renegade"/>: the only other class, which can provide <Boon name="Alacrity"/> is the <Specialization name="Chronomancer"/>. However, <Specialization name="Chronomancer"/> needs to play perfectly to keep up 5-man <Boon name="Quickness"/> and <Boon name="Alacrity"/> and is therefore considered an unreliable boon provider. CC is comparable to what <Specialization name="Renegade"/> provides but lacking <Skill name="bane signet"/> and <Trait name="assassinspresence"/>! Also <Boon name="Might"/> becomes a bigger issue without a <Specialization name="Renegade"/>.
 
@@ -109,11 +109,99 @@ Removing <Specialization name="Soulbeast"/>: indisputable the worst idea as it p
 
 Removing <Specialization name="Weaver"/>: not a terrible idea. The <Specialization name="Weaver"/> could be replaced with a second <Specialization name="Soulbeast"/>. Double <Specialization name="Soulbeast"/> works well on most encounters in CMs, requires some fiddling here and there, but is not terrible overall. However, with that composition you will run into cleave problems in T4s. Also missing some blasts from the <Specialization name="Weaver"/> and the AoE <Condition name="Blinded"/> from <Skill name="sandstorm"/>.
 
-This shows how well the current meta builds synergize with each other and how important it is that every single player maxes out their role.
+## Advanced Comps
+
+The previous section shows how well the current meta builds synergize with each other and how important it is that every single player maxes out their role. However, if your group is filled with good players and you're starting to feel capped by the rainbow comp in your daily kills times there are other more advanced comps that can offer some higher celings on certain bosses while still being stable picks for daily usage.
+
+### RGB <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/>
+
+
+<Specialization name="Weaver"/> was dropped in favor of a second <Specialization name="Soulbeast"/> because once you start phasing bosses at a certain speed <Specialization name="Soulbeast"/> not only brings more upfront burst but also crtically is able to run <Skill name="Moa Stance"/> on most bosses. Having two Soulbeasts means that neither has to drop their powerful <Skill name="Frost Trap"/> while also bringing their strong group utility skills which enables the comp to make its next replacement.
+
+<Specialization name="Berserker"/> and <Specialization name="Firebrand"/> were both dropped in favor of two <Specialization name="Dragonhunter"/>. Thanks to the addition of <Skill name = "Moa Stance"/> and the additional <Specialization name="Dragonhunter"/> <Boon name="Quickness"/> is able to be maintained soley from the precast and some coordinated uses of <Skill name = "Feel my Wrath"/>. This means the two <Specialization name="Dragonhunter"/> are able to fully unload their high damage low cooldown bursts to cover for the two <Specialization name="Soulbeast"/> during their downtime. The loss of the <Specialization name="Berserker"/> banners is made of for a bit by the extra <Skill name = "Bane Signet"/> with  <Trait name = "Perfect Inscriptions"/> providing a high ammount of power when its needed to phase bosses. The missing precision can be made up for by either gear swaps or a <Specialization name="Soulbeast"/> running <Trait name="spotter"/>.
+
+Pros of the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/> composition:
+
+* Very high burst potential on specific phases
+* Good boon duration on demand allowing more aggressive variants of support builds
+* Precasting powerful traps such as <Skill name = "Frost Trap"/> and <Skill name = "Procession of Blades"/> allows for strong openers
+
+Cons of the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/> composition:
+
+* Requires fast phasing and transitions or starts to suffer from lack of sustained damage
+* Can be gated on certain bosses by <Skill name = "SicEm!"/>
+* If fights take to long to complete boons start dropping causing a domino effect making the end of fights potentially ugly
+
+Specific bosses where this comp excels:
+
+* Skorvald
+* Artsariiv
+* MAMA*
+
+*MAMA is a special case and having a <Specialization name="Berserker"/> fill in for one of the <Specialization name="Dragonhunter"/> makes the boss much smoother and faster. The <Specialization name="Berserker"/> player can then swap back to his <Specialization name="Dragonhunter"/> while the other 4 people finish the altar events before Siax.
+
+### Rainbearbow Comp <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Firebrand" disableText/><Specialization name="Renegade" disableText/>
+
+<Specialization name="Berserker"/> was dropped in favor of a second <Specialization name="Soulbeast"/>. The problem with <Specialization name="Berserker"/> is that it cannot burst as hard as the other classes to the point where it is competing with the <Specialization name="Renegade"/> damage wise on some phases. Also in fast kills <Skill id="30435"/> doesn't line up with some boss phases reducing its damage further and unfortunately banners are not worth it over another <Specialization name="Soulbeast"/>.
+
+The reason why <Specialization name="Soulbeast"/> is chosen, is for the same reasons as the comp above. It provides massive upfront burst, which gets even higher when using conjures, while having great group utility with Stances and Spirits. Also having a second <Skill name="One Wolf Pack"/> allows you to have it on most major burst phases on every boss when co-ordinated providing a massive group DPS increase. Although <Specialization name="Weaver"/> is a very greedy class, it provides consistent high damage to cover for some of the downtime <Specialization name="Soulbeast"/> has, while still providing a high burst and most importantly sharing Conjures. 
+
+Pros of the <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Firebrand" disableText/><Specialization name="Renegade" disableText/> composition:
+
+* Massive burst especially at the beginning of fights
+* Conjure share allowing classes to cover skills when on cooldown
+* <Specialization name="Weaver"/> helps keep <Condition name="Vulnerability"/> at 25 stacks later on into fights
+
+Cons of the <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Firebrand" disableText/><Specialization name="Renegade" disableText/> composition:
+
+* Requires fast phases or starts to suffer from lack of sustained damage
+* Does require some class swapping so you can run a <Specialization name="Berserker"/> on MAMA, and a second <Specialization name="Firebrand"/> on 100CM
+* With bad instabilities some fights turn ugly very fast if you make mistakes or have low DPS
+
+Specific bosses where this comp excels:
+
+* Siax
+* Skorvald
+* Artsariiv
+
+<Card title="META Comps Comparison">
+| | <Composition name="_Rainbow"/> | <Composition name="_Rainbearbow"/> | <Composition name="_RGB"/> |
+| -- | -- | -- | -- |
+| **General Info** | A solid easy to play comp providing plenty of CC and group support. This comp is a great start for people looking to run no healer. Additionally the <Specialization name="Weaver"/> can be replaced with a different [DPS class](/guides/what-should-i-play) relatively easily. | A more offensive comp that pushes past the DPS barriers that Rainbow comp suffers from. Requires co-ordinated play and high DPS to phase bosses but can suffer on days with bad instabilities, although it has an easier time maintaining boons then RGB. | A more offensive comp that pushes past the DPS barriers that Rainbow comp suffers from. Requires co-ordinated play and high DPS to phase bosses before boons run out, especially since most of your <Boon name="Quickness"/> comes from the precast. |
+| **Difficulty** | Easy | Advanced | Advanced |
+| **Pros** | Access to an abundant amount of [CC](/guides/cc-distrobution)<br/><br/>Keeping up boons is easy with plenty of sources for <Boon name="Might"/> and plenty of sources to keep <Condition name="Vulnerability"/> at 25 stacks.<br/><br/>Has a large amount of sustained DPS and is very easy to recover from mistakes and deal with bad [Instabilities](/guides/fractal-basics)| Massive burst especially at the beginning of fights<br/><br/>Conjure share allowing <Specialization name="Soulbeast"/> and <Specialization name="Renegade"/> to cover skills when on cooldown<br/><br/><Specialization name="Weaver"/> helps keep <Condition name="Vulnerability"/> at 25 stacks later on into fights | Very high burst potential on specific phases<br/><br/>Good boon duration on demand allowing more aggressive variants of support builds<br/><br/>Precasting powerful traps such as <Skill name = "Frost Trap"/> and <Skill name = "Procession of Blades"/> allows for strong openers |
+| **Cons** | The comp is fairly restrictive in that only the <Specialization name="Weaver"/> can be easily replaced with another [DPS class](/guides/what-should-i-play)<br/><br/>In groups with high burst <Specialization name="Berserker"/> damage starts to fall off, due to lack of burst and <Skill name="Berserk"/> not lining up with phases.  | Requires fast phases or starts to suffer from lack of sustained damage<br/><br/>Requires some class swapping so you can run a <Specialization name="Berserker"/> on MAMA, and a second <Specialization name="Firebrand"/> on 100CM<br/><br/>With bad instabilities some fights turn ugly very fast if you make mistakes or have low DPS | Requires fast phasing and transitions or starts to suffer from lack of sustained damage<br/><br/>Can be gated on certain bosses by <Skill name = "SicEm!"/><br/><br/>If fights take to long to complete boons start dropping causing a domino effect making the end of fights potentially ugly |
+| **Strong Bosses** | MAMA<br/>Siax<br/>Arkk | Siax<br/>Skorvald<br/>Artsariiv | Skorvald<br/>Artsariiv<br/>Arkk |
+| **Weaker Bosses** | Ensolyss<br/>Skorvald<br/>Artsariiv | MAMA<br/>Arkk | MAMA<br/>Ensolyss |
+Notes:
+* The weaker bosses on rainbow comp are chosen in relation to fast timers. In slower groups Rainbow comp, although not the fastest, is strong on all bosses, Once you get to boss times where <Specialization name="Berserker"/> starts running into problems with burst DPS and <Skill name="Berserk"/> timings, is when you may start to benefit from running one of the advanced comps.
+* MAMA is a special case with RGB comp and having a <Specialization name="Berserker"/> fill in for one of the <Specialization name="Dragonhunter"/> makes the boss much smoother and faster. The <Specialization name="Berserker"/> player can then swap back to his <Specialization name="Dragonhunter"/> while the other 4 people finish the altar events before Siax.
+
+</Card>
+
+## 100CM META
+
+100CM is the first challenge mote that condition builds are advantageous to run over power, this is due to the amount of movement the boss does, Incoming damage pressure, and to an extent the size of the [CC bars](/guides/cc-distribution). At the moment the strongest builds to play are <BuildLink build="Condi Firebrand" specialization="Firebrand"/>, <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> and <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>. This is due to the mandatory boons these classes bring and also the unique buffs and group support they bring. We are not saying other classes are bad in this encounter, but if you want to run a more optimal comp it will be a mixture of the above classes.
+
+### RGB <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/>
+
+Currently the RGB comp (or variants of it) are the most optimal comps to be running in a static scenario. Read below to see why each class is taken;
+
+<BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> - Currently two <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> are taken as DPS as they each bring an inportant unique buff. One <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> brings <Skill name="Sun Spirit"/> and the other brings <Skill name="Moa Stance"/>. <Skill name="Moa Stance"/> is especially important as it allows your <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> to play a very offensive build with minimal boon duration. As well as these buffs <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> also brings high damage and reasonable CC.
+
+<BuildLink build="Condi Firebrand" specialization="Firebrand"/> - Currently two <BuildLink build="Condi Firebrand" specialization="Firebrand"/> are also used in the comp. Most importantly <BuildLink build="Condi Firebrand" specialization="Firebrand"/> brings <Boon name="Quickness"/> through <Skill name="Mantra of Potence"/> and if needed <Trait name="Liberators Vow"/>. It also brings massive amounts of hard CC through <Skill name="Sanctuary"/> and a large ampunt of soft CC through <Skill name="Chains of Light"/>. As well as all of this it brings massive DPS through pre-stacking ashes (Skill 5) in <Skill name="Tome of Justice"/> before the fight begins.
+
+<BuildLink build="Condi Alac Renegade" specialization="Renegade"/> - Finally <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> most importantly provides the group with <Boon name="Alacrity"/> and a good amount of <Boon name="Might"/> while also making the DPS classes sweat as you come very close to their damage. It also has great group support with <Skill name="Soulcleaves Summit"/>, <Skill name="Breakrazors Bastion"/> and plenty of CC with <Skill name="Darkrazors Daring"/> and <Skill name="Scorchrazor"/>
+
+Although this is the optimal setup the only essential classes are the <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> and the two <BuildLink build="Condi Firebrand" specialization="Firebrand"/>. If you want to replace a class, replacing <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> is the place to start, ideally with a third <BuildLink build="Condi Firebrand" specialization="Firebrand"/> or a second <BuildLink build="Condi Alac Renegade" specialization="Renegade"/>.
+
+### PuG Comps
+
+While the three META condi classes are great options for PuGs and we would suggest playing one of these. In reality the minimum you will want is a <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> for <Boon name="Alacrity"/> and <Boon name="Might"/>, and either a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> or a <BuildLink build="Heal Firebrand" specialization="Firebrand"/> for <Boon name="Quickness"/>. When chosing a DPS class providing you bring plenty of CC playing the class you can pull the most damage on is a good way to go. This means classes such as <Specialization name="Mirage"/> and <Specialization name="Weaver" text="Condition Weaver"/> are perfectly viable and can bring solid DPS when played properply. The downside to these builds are they do not bring the same group support that <BuildLink build="Condi Firebrand" specialization="Firebrand"/>, <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> and <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> have.
 
 ## What and how do I play in PuGs?
 
-Generally you can safely play meta builds in PuGs, but also most condi builds work well. For the sake of not having to regear - if you start for example with a <Specialization name="Scourge" text="Condi Scourge"/> - when you want to get better in fractals, we recommend to pick a meta or offmeta build from our [builds overview](/builds). In contrary to what people might say, condi builds work just fine. At Ensolyss a good group's phase takes about 12 - 15 seconds. <Effect name="Exposed"/> lasts for 5 seconds. That means, there is more than 33% uptime of <Effect name="Exposed"/> during which the group deals 50% more damage. In a unorganized group Ensolyss' phase duration ranges around 40 - 60 seconds which is around 8 - 12% uptime of <Effect name="Exposed"/>. The longer the fight the lower the <Effect name="Exposed"/>-uptime, the more the fight becomes like a golem where power and condi bench equally high numbers.
+Generally you can safely play meta builds in PuGs, but also most condi builds work well. For the sake of not having to regear - if you start for example with a <Specialization name="Scourge" text="Condi Scourge"/> - when you want to get better in fractals, we recommend to pick a meta or offmeta build from our [builds overview](/builds). In contrary to what people might say, condi builds work just fine. At Ensolyss a good group's phase takes about 12 - 15 seconds. <Effect name="Exposed"/> lasts for 5 seconds. That means, there is more than 33% uptime of <Effect name="Exposed"/> during which the group deals 50% more damage. In an unorganized group Ensolyss' phase duration ranges around 40 - 60 seconds which is around 8 - 12% uptime of <Effect name="Exposed"/>. The longer the fight the lower the <Effect name="Exposed"/>-uptime, the more the fight becomes like a golem where power and condi bench equally high numbers.
 
 <Specialization name="Firebrand" text="Condi Firebrand"/> performs extremely well in T4s and is for slower groups (PuGs) in CMs the superior choice over <Specialization name="Firebrand" text="Power Firebrand"/>. It is also worth mentioning that the <Item id="79722"/> (or the <Item id="79608"/> which is a component for the omni potion) provides 15% increased condition damage attribute **and** 15% increased outgoing condition damage. Also <Specialization name="Chronomancer" text="Power Chronomancer"/> can flourish in slower groups or PuGs.
 

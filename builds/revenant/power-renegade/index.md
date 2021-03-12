@@ -1,7 +1,7 @@
 ---
-title: 'Renegade'
-date: '2020-11-14'
-rating: 'Meta'
+title: 'Power Renegade'
+date: '2021-02-24'
+rating: 'Power Meta'
 role: 'Damage'
 profession: 'Revenant'
 specialization: 'Renegade'
@@ -12,8 +12,9 @@ boons: ['Alacrity', 'Might', 'Stability']
 conditions: ['Vulnerability']
 code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 author: 'Casual Sophie - Jin Su Liang.9036'
-cmguides: '/cm-guides/revenant/renegade'
+cmguides: '/cm-guides/revenant/power-renegade'
 classification: [5, 2, 4, 3, 5]
+compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_RGB' }]
 ---
 
 <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, an insanely strong party heal and additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>. 

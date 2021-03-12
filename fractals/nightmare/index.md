@@ -1,6 +1,6 @@
 ---
 title: 'Nightmare'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/ensolyss_crazy.jpg'
 group: 'Challenge Mode'
 api: 3177
@@ -9,14 +9,14 @@ difficulties: [{ level: 98, ar: 147 }]
 record:
   {
     time: '8:36',
-    by: { name: 'Snow Crows/Quantify', tag: 'SC/qT' },
+    by: [{ name: 'Invicta Luna', tag: 'iV' }],
     youtube:
       [
-        { id: 'YHmwhZc-sMU', name: 'Roul', specialization: 'Firebrand' },
-        { id: 'lZlb1jy_rPg', name: 'Decados', specialization: 'Warrior' },
-        { id: 'VZ5xR6WcqSk', name: 'Nukkuu', specialization: 'Weaver' },
-        { id: 'gRpvNsOBnCo', name: 'Elu', specialization: 'Soulbeast' },
-        { id: '3XIv-XHxDHk', name: 'Deathly', specialization: 'Renegade' },
+        { id: 'DYP_RuapR8c', name: 'Delay', specialization: 'Soulbeast' },
+        { id: 'UlPsUMH7vZE', name: 'BlackHawk', specialization: 'Soulbeast' },
+        { id: 'SIdcWSGkL-M', name: 'Cloyd', specialization: 'Berserker' },
+        { id: 'JONEqZ9rARM', name: 'Tantor', specialization: 'Guardian' },
+        { id: 'x_2ahQx_QDQ', name: 'Pineapple', specialization: 'Renegade' },
       ],
   }
 cycle: 'Day'

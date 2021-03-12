@@ -1,6 +1,6 @@
 ﻿---
 title: 'Damage Mitigation'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/reflect.jpg'
 description: 'Learn which skills and traits your profession can use to avoid damaging mechanics.'
 hidden: 'false'

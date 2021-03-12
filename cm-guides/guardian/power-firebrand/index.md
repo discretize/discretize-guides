@@ -1,11 +1,12 @@
 ---
 title: 'Firebrand CM guides'
-build: 'Firebrand'
+build: 'Power Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
-date: '2020-11-14'
+date: '2021-02-24'
 author: 'ganymed.3541'
 disableOrganized: 'false'
+disableBosses: ['LightAi', 'DarkAi']
 ---
 
 <ConditionalComponent condition="pug">

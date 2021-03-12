@@ -1,6 +1,6 @@
 ---
 title: 'Molten Boss'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/header.jpg'
 group: 'T4'
 api: 2966
@@ -13,7 +13,7 @@ consumables: [78978, 49940, 8764, 8801]
 record:
   {
     time: '4:24',
-    by: { name: 'Discretize', tag: 'dT' },
+    by: [{ name: 'Discretize', tag: 'dT' }],
     youtube:
       [
         { id: '1IwsZyYrjmA', name: 'Metagame', specialization: 'Chronomancer' },

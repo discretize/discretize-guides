@@ -1,6 +1,6 @@
 ---
 title: 'Uncategorized'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/header.jpg'
 group: 'T4'
 api: 2939
@@ -9,7 +9,7 @@ difficulties: [{ level: 79, ar: 113 }, { level: 91, ar: 134 }]
 record:
   {
     time: '2:14',
-    by: { name: 'Lucky Noobs', tag: 'LN' },
+    by: [{ name: 'Lucky Noobs', tag: 'LN' }],
     youtube:
       [
         { id: 'CipdjbelW-0', name: 'Nightmare', specialization: 'Chronomancer' },

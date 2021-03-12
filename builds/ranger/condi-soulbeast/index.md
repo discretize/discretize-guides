@@ -1,19 +1,27 @@
 ---
 title: 'Condi Soulbeast'
-date: '2021-02-22'
-rating: 'Meta'
+date: '2021-02-24'
+rating: 'Condi Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
   { small: { dps: 36197, by: 'Erin', youtube: 'WSuDmiuAwC8' } }
-skills: [45717, 12498, 12504, 46432]
+skills: [45717, 12498, 12508, 46432]
+conditions: ['Bleeding', 'Poisoned', 'Burning']
 code: '[&DQQeHSE3Ny55AAAAvQAAAL8AAADpFgAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
-cmguides: '/cm-guides/ranger/condisoulbeast'
+cmguides: '/cm-guides/ranger/condi-soulbeast'
 classification: [5, 4, 3, 2, 3]
+compositions: [ { name: '_CRGB', roles: 'DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
 ---
 
-Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals you will be better off playing the power varient found [here](/builds/ranger/soulbeast/).
+<Message>
+This build is [META](/guides/meta-explained) in Sunqua Peak. Outside Sunqua Peak in faster groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
+</Message>
+
+
+Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
+
 
 This build is rather self sufficient due to:
 - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/> 
@@ -34,11 +42,11 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <GridItem sm="4">
 <Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="37130" weapon2MainInfusion1Id="37130" weapon1OffInfusionId="37130" weapon2MainInfusion2Id="37130"/>
 
-<Consumables foodId="92488" utilityId="48917" infusion="Malign +9 Agony Infusion"/>
+<Consumables foodId="92456" utilityId="48917" infusion="Malign +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
+<BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
 
 <Card title="Swap Weapons">
 * An Axe/Dagger set to replace Shortbow for fights where range is not needed.
@@ -51,7 +59,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 <Tab title="Condi Soulbeast Afflicted">
 <Message>
-This build is probably only worth running in a static group. It's damage depends on the amount of <Specialization name="Soulbeast"/> in the party. The build deals similar DPS with 2 condi Soulbeasts, and outpreforms the Krait build if you have 3 Soulbeasts in the party. If you are going to be on your own run the Krait rune setup!
+This build is probably only worth running in a static group. It's damage depends on the amount of <Specialization name="Soulbeast"/> in the party. The build deals similar DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3 Soulbeasts in the party. If you are going to be on your own run the Krait rune setup!
 </Message>
 <Grid>
 <GridItem sm="4">
@@ -59,13 +67,13 @@ This build is probably only worth running in a static group. It's damage depends
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Malice" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Malice" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44950" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560	" weapon2MainSigil1Id="44950" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Malice" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
 
-<Consumables foodId="92488" utilityId="48917" infusion="Spiteful +9 Agony Infusion"/>
+<Consumables foodId="92478" utilityId="48917" infusion="Spiteful +9 Agony Infusion"/>
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="86113" backItemInfusion2Id="86113" accessory1InfusionId="86113" accessory2InfusionId="86113" ring1Infusion1Id="86113" ring1Infusion2Id="86113" ring1Infusion3Id="86113" ring2Infusion1Id="86113" ring2Infusion2Id="86113" ring2Infusion3Id="86113"/>
+<BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="86113" backItemInfusion2Id="86113" accessory1InfusionId="86113" accessory2InfusionId="86113" ring1Infusion1Id="86113" ring1Infusion2Id="86113" ring1Infusion3Id="86113" ring2Infusion1Id="86113" ring2Infusion2Id="86113" ring2Infusion3Id="86113"/>
 
 <Card title="Swap Weapons">
 * An Axe/Dagger set to replace Shortbow for fights where range is not needed.
@@ -111,7 +119,7 @@ Although Axe/Dagger benches higher, typically this build is only run in 100CM wh
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>. This can be taken as a second <Specialization name="Soulbeast"/>, Allowing your <Specialization name="Renegade"/> to lower their bon duration and deal substantially more DPS! |
+| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Vulture Stance"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Altenatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. 
 | <Skill name="Vipers Nest" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>. |
 | <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. |
 | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM! |
@@ -134,7 +142,7 @@ Although Axe/Dagger benches higher, typically this build is only run in 100CM wh
 <Card title="Information">
 <Specialization name="Soulbeast"/> Golem rotations from raid builds are generally suboptimal in fractals due to bosses moving around much more this makes <Trait name="Light on your Feet"/> much more attractive than <Trait name="Quickdraw"/> which is used in raids. The rotations are fairly easy to adapt though, all you do is skip the second cast of a skill that has been Quickdrawn and dodge as much as you can to upkeep <Trait name="Light on your Feet"/>. <Trait name="Quickdraw"/> rotations can still work providing the boss doesn't move too much but if there is any doubt take <Trait name="Light on your Feet"/>.
 
-With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/> off cooldown, and your <Skill id="42944"/> skills and <Skill name="Vipers Nest"/> when you don't have anything else to do but auto attack.
+With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/> off cool-down, and your <Skill id="42944"/> skills and <Skill name="Vipers Nest"/> when you don't have anything else to do but auto attack.
 </Card>
 <Card title=" Shortbow Golem Rotation">
 <Video youtube="DblomOq_n2U" caption="by Leder [SC] "/>
@@ -176,13 +184,17 @@ With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Sk
 
 <GridItem sm="6">
 <Card title="Precasting">
-In 100CM boons get stripped but unique buffs do not you can precast these skills.
+In 100CM boons get stripped but unique buffs do not, so you can precast these skills and traits:
 1. If you can get in combat briefly stack <Item id="24609"/> and <Item id="24599"/>
-2. <Skill name="Sharpen Spines"/> while merged with Bristleback then swap pet
-3. <Skill name="Moa Stance"/>, <Skill id="12537"/> and <Skill name="Vulture Stance"/> 
+2. While in combat you can precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
+2. <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
+3. With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
+3. As you are dodging use <Skill name="Moa Stance"/>, <Skill id="12537"/> and <Skill name="Vulture Stance"/> 
 4. <Skill name="One Wolf Pack"/>
 5. Swap skills if necessary
-6. Take the _Mistlock Singularity_ and merge with your pet
+6. Cast <Skill name="Double Arc"/> 
+6. Take the _Mistlock Singularity_
+7. Cast <Skill name="Double Arc"/> again
 
 </Card>
 <Card title="Axe/Dagger Golem Rotation">

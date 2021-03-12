@@ -1,6 +1,6 @@
 ---
 title: 'Twilight Oasis'
-date: '2020-11-14'
+date: '2021-02-24'
 image: './images/header.jpg'
 group: 'T4'
 api: 3973
@@ -12,7 +12,7 @@ consumables: [78978, 8764, 8801]
 record:
   {
     time: '6:50',
-    by: { name: 'Discretize', tag: 'dT' },
+    by: [{ name: 'Discretize', tag: 'dT' }],
     youtube:
       [
         { id: 'N0dwuUeFoNo', name: 'Metagame', specialization: 'Chronomancer' },

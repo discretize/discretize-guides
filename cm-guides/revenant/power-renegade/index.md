@@ -1,11 +1,12 @@
 ---
 title: 'Renegade CM guides'
-build: 'Renegade'
+build: 'Power Renegade'
 profession: 'Revenant'
 specialization: 'Renegade'
-date: '2020-11-14'
+date: '2021-02-24'
 author: 'Casual Sophie - Jin Su Liang.9036'
 disableOrganized: 'false'
+disableBosses: ['LightAi', 'DarkAi']
 ---
 
 <ConditionalComponent condition="pug">
