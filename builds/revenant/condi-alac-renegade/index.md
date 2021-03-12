@@ -18,9 +18,9 @@ compositions: [ { name: '_CRGB'} ]
 <Message>
 This build has to be used on [Sunqua Peak](/fractals/sunqua-peak) only. Apart from this fractal, <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support, being more versatile.
 </Message>
-Condi <Specialization name="Renegade"/> is a unique role that you will want to play on [Sunqua Peak](/fractals/sunqua-peak) only, as <BuildLink build="Power Renegade" specialization="Renegade"/> is better in any other fractals. Though, Condi <Specialization name="Renegade"/> has a very decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively, <Skill id="45773"/> that can help your party sustain to  high pressure situations, and to top it off, very good cc skills like <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
+Condi <Specialization name="Renegade"/> is an unique build that may only be played in [Sunqua Peak](/fractals/sunqua-peak), since it performs much better than <BuildLink build="Power Renegade" specialization="Renegade"/>. Condi <Specialization name="Renegade"/> has decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively, <Skill id="45773"/> that can help your party sustain high pressure situations. Finally, to top it off this build has high CC capabilities with <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
 
-Condi <Specialization name="Renegade"/> is pretty independent due to it's rather good mobility (<Skill id="27964"/>, <Skill id="28029"/>, <Skill id="27917"/>) and it's permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
+Condi <Specialization name="Renegade"/> is pretty independent due to its rather good mobility (<Skill id="28029"/>, <Skill id="27917"/>) and permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
 
 Even if Condi <Specialization name="Renegade"/> does less damage than a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> or a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>, it is still the better pick over <BuildLink build="Power Renegade" specialization="Renegade"/> on [Sunqua Peak CM](/fractals/sunqua-peak), especially on Dark Phase (Second Phase). In most cases a party wants to keep a <Specialization name="Renegade"/> as source for <Boon name="Alacrity"/>.
 
@@ -129,10 +129,10 @@ This build requires 2 <Specialization name="Renegade"/> with <Trait id="2182"/> 
 * <Skill id="42949"/> : excellent damage source, applies a lot of <Condition name="Bleeding"/>
 * <Skill id="40485"/> : suboptimal on Condi <Specialization name="Renegade"/>, still a good <Condition name="Vulnerability"/> source
 * <Skill id="41220"/> : very good cc skill, does in total 600 breakbar damage
-* <Skill id="45773"/> : situational skill that helps your party surviving to some mechanics. does additional damage on hit
+* <Skill id="45773"/> : situational skill that allows your party to quickly resplenish its health at the cost of significant damage in Kalla
 
 <Skill id="28494"/> skills : 
-* <Skill id="27505"/> : not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condi builds (which are not affected by <Boon name="Protection"/>), still a good skill to boonstrip quickly
+* <Skill id="27505"/> : not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condi builds (which are less  affected by <Boon name="Protection"/> than power builds), still a good skill to boonstrip quickly
 * <Skill id="27917"/> : pretty good mobility skill, does 150 breakbar damage
 * <Skill id="28287"/> : one of your most important damage skill, applies a lot of <Condition name="Torment"/>
 
@@ -144,13 +144,13 @@ Shortbow skills :
 
 Mace/Axe skills :
 * <Skill name=Searing Fissure/> : fast and low-cost damage skill, applies <Condition name=Burning/>
-* <Skill name=Echoing Eruption/> : fast and low cost damage skill, good mobility skill as well, applies <Condition name=Torment/>
+* <Skill name=Echoing Eruption/> : fast and low-cost damage skill, good mobility skill as well, applies <Condition name=Torment/>
 * <Skill name=Frigid Blitz/> : good mobility skill
 * <Skill name=Temporal Rift/> : good damage skill, good CC damage as well, applies <Condition name=Torment/>
 
 
 <Specialization name="Renegade"/> skills :
-* <Skill name="Heroic Command"/> : give <Boon name="Might"/> to you and your group depending on how much _Kalla's Fervor_ you have
+* <Skill name="Heroic Command"/> : give 2 <Boon name="Might"/> to you and your group per _Kalla's Fervor_ you have
 * <Skill name="Citadel Bombardment" /> : your best burst skill, applies a lot of <Condition name=Burning/>
 * <Skill id="45537"/> : one of your most important skills, gives <Boon name=Alacrity/> to you and your group
 
