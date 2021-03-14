@@ -1,6 +1,6 @@
 ---
 title: 'Power Renegade'
-date: '2021-02-24'
+date: '2021-03-15'
 rating: 'Power Meta'
 role: 'Damage'
 profession: 'Revenant'
@@ -151,6 +151,45 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 <GridItem sm="8">
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 </GridItem>
+
+<GridItem sm="4">
+<Card title="Situational Traits">
+| | |
+| -- | -- |
+| <Trait id="1754" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait id="1800"/>. It is also more personal survivability and higher Scholar uptime if the phases are long. |
+| <Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low. |
+</Card>
+<Card title="Situational Skills">
+| | |
+| -- | -- |
+| <Skill id="28075" size="big" disableText/> | This skill grants you <Effect name="Superspeed"/> which is really useful for skipping. |
+</Card>
+</GridItem>
+
+<GridItem sm="8">
+<Card title="Herald Precasting">
+Sometimes it is worth precasting with <Specialization name="Herald"/> because <Specialization name="Herald"/> has access to <Skill id="51667"/> which is *incredibly* strong skill to precast, if you can manage to fit it into your groups precasting. If your group is blasting <Boon name="Might"/>, you can forgo using <Skill id="29321"/> in your precasting and just precast <Boon name="Alacrity"/> and extending everyone else's boons with <Skill id="51667"/>.
+
+It is recommended to have a build template for this, so you can quickly swap between templates by using hotkeys (need to be setup in the settings). Here's the Herald trait line:
+<Traits unembossed traits1Id="52" traits1="Herald" traits1SelectedIds="1806,1738,1772"/>
+
+Template code: `[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
+
+
+
+<Message>
+The other legend is unselected for a good reason. If you have the other legend slot empty, it will minimise the amount of possible bugs with <Specialization name="Renegade"/> and build templates. You can read more about the bugs [here](https://wiki.guildwars2.com/wiki/Template#Build_Template).
+</Message>
+
+To precast with <Specialization name="Herald"/>, you can go very simple:
+
+1. Start on <Specialization name="Renegade"/> and use <Skill id="45537"/>.
+2. Swap to <Specialization name="Herald"/> template and use <Skill id="51667"/>.
+3. Take the Mistlock Singularity.
+4. Cast <Skill id="51667"/> again.
+5. Swap to <Specialization name="Renegade"/> and use <Skill id="45537"/>.
+</Card>
+</GridItem>
 </Grid>
 
 <Divider text="Guide"/>
@@ -196,6 +235,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 
 </Card>
 </GridItem>
+
 </Grid>
 <Grid>
 <GridItem sm="12">
