@@ -29,7 +29,7 @@ This build has tremendous amounts of self-sustain and is therefore also a great 
  
 One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 <Attribute name="Power"/> buff provided by <Skill name="Bane Signet"/>. 
 
-Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independant of their groups.
+Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
 
 <Divider text="Equipment"/>
 
