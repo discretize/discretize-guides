@@ -54,7 +54,7 @@ Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Salvation" traits1Selected="Tranquil Balance,Invoking Harmony,Selfless Amplification" traits2="Devastation" traits2Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Righteous Rebel"/>
+<Traits traits1="Salvation" traits1Selected="Tranquil Balance,Invoking Harmony,Generous Abundance" traits2="Devastation" traits2Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Righteous Rebel"/>
 <Card title="Second trait variant">
 If you run out of energy too quickly, we recommend the Salvation/Invocation variant. This variant is also better for fractals where <Trait name="Assassins Presence"/> doesn't help your party. This would include fractals where damage is time-gated and where you can't critically hit the enemies that matter.
 
@@ -72,11 +72,11 @@ Template code:
 
 
 <GridItem sm="5">
-<Card title="Legend combos">
+<Card title="Legend Combos">
 ## Normal
 <Skill name="Legendary Renegade Stance" disableText size="big"/> <Skill name="Legendary Centaur Stance" disableText size="big"/> 
 
-## More stability needed
+## When <Boon name="Stability"/> is needed
 <Skill name="Legendary Renegade Stance" disableText size="big"/> <Skill name="Legendary Dwarf Stance" disableText size="big"/>   
 
 ## No Pain No Gain   <Label>Use the Salvation / Invocation / Renegade variant for more energy!</Label>
@@ -84,6 +84,17 @@ Template code:
 
 ## For more explanation go to the Guides tab above.
 </Card>
+<Card title="Healing Basics">
+Your healing skills in order of effectiveness are:
+1. <Skill id="45773"/>
+2. <Skill id="45686"/>
+3. <Skill id="27025"/>
+4. <Trait id="1815"/>
+5. <Skill id="27356"/>
+6. <Skill id="29002"/>
+7. <Skill id="28427"/>
+
+With <Skill id="45773"/> you can sustain your group for the whole time you have energy on <Skill id="41858"/>. When you are about to swap off, you should use your <Skill id="45686"/> on the group as it lingers even when you swap to a different legend and will maintain the heals. <Skill id="28195"/> has a good proactive way to lessen the incoming damage by proper usage of <Skill id="26821"/>. You also have heals when you use your basic staff auto attack <Skill id="29002"/> (note that this is the last part of the auto attack sequence).
 </GridItem>
 
 </Grid>
