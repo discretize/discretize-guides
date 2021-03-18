@@ -16,7 +16,7 @@ classification: [4, 3, 4, 3, 5]
 compositions: [ { name: '_CRGB'} ]
 ---
 <Message>
-This build has to be used on [Sunqua Peak](/fractals/sunqua-peak) only. Apart from this fractal, <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support, being more versatile.
+This build has to be used in [Sunqua Peak](/fractals/sunqua-peak) only. Apart from this fractal, <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support and being more versatile.
 </Message>
 Condi <Specialization name="Renegade"/> is an unique build that may only be played in [Sunqua Peak](/fractals/sunqua-peak), since it performs much better than <BuildLink build="Power Renegade" specialization="Renegade"/>. Condi <Specialization name="Renegade"/> has decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively and <Skill id="45773"/> that can help your party sustain high pressure situations. Finally, to top it off this build has high CC capabilities with <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
 
@@ -27,7 +27,7 @@ Even if Condi <Specialization name="Renegade"/> does less damage than a <BuildLi
 <Divider text="Equipment"/>
 
 <Tabs outlined>
-<Tab title="Moa stance">
+<Tab title="Moa Stance">
 Run this build if and only if you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>
 
 This build is designed for 207 AR, if you only have 162 AR take <Item id="80616"/> and one <Item id="80002" affix="Seraph"/> instead
@@ -126,33 +126,33 @@ This build requires 2 <Specialization name="Renegade"/> with <Trait id="2182"/> 
 <Card title="Key Skills">
 <Skill id="41858"/> skills:
 * <Skill id="45686"/>: self heal + pulsing area heal skill that can help <Skill id="12498"/> to stay alive
-* <Skill id="42949"/>: excellent damage source, applies a lot of <Condition name="Bleeding"/>
-* <Skill id="40485"/>: suboptimal on Condi <Specialization name="Renegade"/>, still a good <Condition name="Vulnerability"/> source
-* <Skill id="41220"/>: very good cc skill, does a total of 600 breakbar damage
+* <Skill id="42949"/>: excellent damage source and applies a lot of <Condition name="Bleeding"/>
+* <Skill id="40485"/>: suboptimal on Condi <Specialization name="Renegade"/>, however, still a good source of <Condition name="Vulnerability"/>
+* <Skill id="41220"/>: very good CC skill that does a total of 600 breakbar damage
 * <Skill id="45773"/>: situational skill that allows your party members to quickly replenish their health at the cost of damage in when you are attuned to <Skill id="41858"/>
 
 <Skill id="28494"/> skills: 
 * <Skill id="27505"/>: not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condition builds (which are less affected by <Boon name="Protection"/> than power builds), still a good skill to boonstrip quickly
-* <Skill id="27917"/>: pretty good mobility skill, does 150 breakbar damage
-* <Skill id="28287"/>: one of your most important damage skills, applies a lot of <Condition name="Torment"/>
+* <Skill id="27917"/>: pretty good mobility skill that also does 150 breakbar damage
+* <Skill id="28287"/>: one of your most important damage skills as it applies a lot of <Condition name="Torment"/>
 
 Shortbow skills:
-* <Skill id="40175"/>: fast and low-cost damage skill, applies some <Condition name="Bleeding"/>
-* <Skill id="41829"/>: very good damage skill, applies a good amount of <Condition name="Torment"/>
-* <Skill id="43993"/>: good damage skill, applies <Condition name="Burning"/> and <Condition name=Slow/>
-* <Skill id="41820"/> : applies <Condition name="Burning"/>, does 200 breakbar damage
+* <Skill id="40175"/>: fast and low-cost damage skill and applies some <Condition name="Bleeding"/>
+* <Skill id="41829"/>: very good damage skill and applies a good amount of <Condition name="Torment"/>
+* <Skill id="43993"/>: good damage skill and applies <Condition name="Burning"/> and <Condition name=Slow/>
+* <Skill id="41820"/> : applies <Condition name="Burning"/> and does 200 breakbar damage
 
 Mace/Axe skills:
-* <Skill id="28357"/>: fast and low-cost damage skill, applies <Condition name=Burning/>
-* <Skill id="27964"/>: fast and low-cost damage skill, good mobility skill as well, applies <Condition name=Torment/>
+* <Skill id="28357"/>: fast and low-cost damage skill and applies <Condition name=Burning/>
+* <Skill id="27964"/>: fast and low-cost damage skill and a good mobility skill as well, applies <Condition name=Torment/>
 * <Skill id="28029"/>: good mobility skill
-* <Skill id="28409"/>: good damage skill, good breakbar damage as well, applies <Condition name=Torment/>
+* <Skill id="28409"/>: good damage skill that deals good amount of breakbar damage as well, applies <Condition name=Torment/>
 
 
 <Specialization name="Renegade"/> skills:
 * <Skill id="44076"/>: give 2 <Boon name="Might"/> to you and your group per <SpecialActionKey name="Kallas Fervor"/> you have
-* <Skill id="41294"/>: your best burst skill, applies a lot of <Condition name=Burning/>
-* <Skill id="45537"/>: one of your most important skills, gives <Boon name=Alacrity/> to you and your group
+* <Skill id="41294"/>: your best burst skill that applies a lot of <Condition name=Burning/>
+* <Skill id="45537"/>: one of your most important skills as it gives <Boon name=Alacrity/> to you and your group
 
 </Card>
 </GridItem> 
