@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Heal Firebrand'
 date: '2021-02-24'
 rating: 'Offmeta'
@@ -72,18 +72,18 @@ In case your team downs frequently and is unable to handle mechanics correctly, 
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="Mantra of Solace" utility1="Mantra of Potence" utility3="Bane Signet" elite="Mantra of Liberation"/>
+<Skills heal="Mantra of Solace" utility1="Mantra of Potence" utility3="Bane Signet" elite="Feel my Wrath"/>
 
 <Card title="Situational Skills">
 | | |
 | -- | -- |
 | <Skill id="45460" size="big" disableText/> | A strong condition cleanse to counterplay <Instability name="Afflicted"/>. |
-| <Skill name="Feel my wrath" size="big" disableText/> | When there is absolutely no need for <Boon name="Stability"/>. |
+| <Skill name="Mantra of Liberation" size="big" disableText/> | For extra <Boon name="Stability"/> for skips. Only use in combat if <Boon name="Fury"/> and <Boon name="Quickness"/> are covered. |
 | <Skill id="9246" size="big" disableText/> | A 1,200 range teleport to an ally. Can be used to blink to a <Skill id="9168"/>.|
 | <Skill id="9247" size="big" disableText/> | A 1,200 range teleport to an enemy. Very handy for some skips. |
 | <Skill name="Hallowed Ground" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stun break is needed. Preferred over <Skill id="9153"/>. |
 | <Skill id="9153" size="big" disableText/> | Can be used where <Boon name="Stability"/> or stun break is needed. |
-| <Skill id="9175" size="big" disableText/> | A strong heal. |
+| <Skill id="9175" size="big" disableText/> | A strong AOE heal and condi cleanse on blast combo. |
 | <Skill id="9125" size="big" disableText/> | Deals an additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. Can be used to counterplay <Instability name="We Bleed Fire"/>.|
 | <Skill name="Sanctuary" size="big" disableText/> | A slow but strong CC skill. Also destroys projectiles inside. |
