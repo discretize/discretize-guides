@@ -1,6 +1,6 @@
 ---
 title: 'Power Soulbeast'
-date: '2021-02-24'
+date: '2021-04-05'
 rating: 'Power Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -17,9 +17,9 @@ compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_RGB' }
 
 ---
 
-<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
-This build is rather self sufficient due to:
+This build is rather self-sufficient due to:
 - <Boon name="Quickness"/> from <Trait name="livefast"/> 
 - <Boon name="Might"/> from <Trait name="Huntersgaze"/>
 - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/> 
@@ -298,7 +298,7 @@ Many thanks to Elu [SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4ff
 <Divider text="Underwater Guide"/>
 
 <Grid>
-<GridItem sm="7">
+<GridItem sm="8">
 <Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131"/>
 <Card title="Traits">
 <Traits unembossed traits1Id="32" traits1="Beastmastery" traits1SelectedIds="1606,1047,1066"/>
@@ -324,4 +324,3 @@ For a DPS rotation the same rules apply as above land, try to fit lots of damage
 </Card>  
 </GridItem>
 </Grid>
-
