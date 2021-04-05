@@ -1,6 +1,6 @@
 ---
 title: 'Power Soulbeast'
-date: '2021-02-24'
+date: '2021-04-05'
 rating: 'Power Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -17,9 +17,9 @@ compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_RGB' }
 
 ---
 
-<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
-This build is rather self sufficient due to:
+This build is rather self-sufficient due to:
 - <Boon name="Quickness"/> from <Trait name="livefast"/> 
 - <Boon name="Might"/> from <Trait name="Huntersgaze"/>
 - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/> 
@@ -313,7 +313,7 @@ For a DPS rotation the same rules apply as above land, try to fit lots of damage
 
 </Card>
 </GridItem> 
-<GridItem sm="4">
+<GridItem sm="5">
 <Skills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
 <Card title="Pets">
 | | |
@@ -324,4 +324,3 @@ For a DPS rotation the same rules apply as above land, try to fit lots of damage
 </Card>  
 </GridItem>
 </Grid>
-

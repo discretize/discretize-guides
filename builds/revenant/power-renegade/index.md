@@ -1,6 +1,6 @@
 ---
 title: 'Power Renegade'
-date: '2021-03-15'
+date: '2021-04-05'
 rating: 'Power Meta'
 role: 'Damage'
 profession: 'Revenant'
@@ -19,7 +19,7 @@ compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_RGB' }
 
 <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, an insanely strong party heal and additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>. 
 
-Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty. 
+Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty. 
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from  <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -323,6 +323,7 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 
 <Card title="Information">
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+
 For that reason you can find a video with openers, that are efficient to use here. 
 </Card>
 <Card title="Renegade openers">
