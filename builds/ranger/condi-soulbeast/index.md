@@ -12,7 +12,7 @@ conditions: ['Bleeding', 'Poisoned', 'Burning']
 code: '[&DQQeHSE3Ny55AAAAvQAAAL8AAADpFgAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/condi-soulbeast'
 classification: [5, 4, 3, 2, 3]
-compositions: [ { name: '2Fb2Slb', roles: 'DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
+compositions: [ { name: '_CRGB', roles: 'DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
 ---
 
 <Message>
@@ -49,7 +49,6 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
 
 <Card title="Swap Weapons">
-* An Axe/Dagger set to replace Shortbow for fights where range is not needed.
 * A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
 
 </Card>
@@ -76,7 +75,6 @@ This build is probably only worth running in a static group. It's damage depends
 <BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="86113" backItemInfusion2Id="86113" accessory1InfusionId="86113" accessory2InfusionId="86113" ring1Infusion1Id="86113" ring1Infusion2Id="86113" ring1Infusion3Id="86113" ring2Infusion1Id="86113" ring2Infusion2Id="86113" ring2Infusion3Id="86113"/>
 
 <Card title="Swap Weapons">
-* An Axe/Dagger set to replace Shortbow for fights where range is not needed.
 * A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
 
 </Card>
@@ -96,7 +94,7 @@ This build is probably only worth running in a static group. It's damage depends
 | | |
 | -- | -- |
 | <Skill id="46432" size="big" disableText/> | [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>.|
-| <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets.
+| <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets. Only take Brisleback if you can consitently get 5+ hits from <Skill name="Rain of Spikes"/> without delaying the skill too much.|
 </Card>  
 </GridItem>
 </Grid>
@@ -111,8 +109,7 @@ This build is probably only worth running in a static group. It's damage depends
 | <Trait name="Quickdraw" size="big" disableText/> | Take this instead of <Trait name="Light on your Feet"/> if the boss you will be fighting doesn't change position often. |
 </Card>
 <Card title="Shortbow vs Axe/Dagger">
-Although Axe/Dagger benches higher, typically this build is only run in 100CM where Shortbow shines due to the amount of moving Ai does. This allows you to keep attacking while at range. If you are running this build elsewhere you will probably find that Axe/Dagger will do more DPS. If you are swapping shortbow for Axe/Dagger you will want to run the following sigils:
-<Weapons unembossed weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Dagger" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560"/>
+Although Axe/Dagger benches higher, typically this build is only run in 100CM where Shortbow shines due to the amount of moving Ai does. This allows you to keep attacking while at range. If you are running this build elsewhere you will probably find that Axe/Dagger will do more DPS.
 </Card>
 </GridItem> 
 <GridItem sm="5">
@@ -145,7 +142,24 @@ Although Axe/Dagger benches higher, typically this build is only run in 100CM wh
 With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/> off cool-down, and your <Skill id="42944"/> skills and <Skill name="Vipers Nest"/> when you don't have anything else to do but auto attack.
 </Card>
 <Card title=" Shortbow Golem Rotation">
-<Video youtube="DblomOq_n2U" caption="by Leder [SC] "/>
+<Video youtube="DblomOq_n2U" caption="by Leder"/>
+</Card>
+</GridItem>
+
+<GridItem sm="6">
+<Card title="Precasting">
+In 100CM boons get stripped but unique buffs do not, so you can precast these skills and traits:
+1. If you can get in combat briefly stack <Item id="24609"/> and <Item id="24599"/>
+2. While in combat you can precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
+2. <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
+3. With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
+3. As you are dodging use <Skill name="Moa Stance"/>, <Skill id="12537"/> and <Skill name="Vulture Stance"/> 
+4. <Skill name="One Wolf Pack"/>
+5. Swap skills if necessary
+6. Cast <Skill name="Double Arc"/> 
+6. Take the _Mistlock Singularity_
+7. Cast <Skill name="Double Arc"/> again
+
 </Card>
 <Card title="Shortbow Golem Rotation">
 1. <Skill name="Vipers Nest"/>
@@ -178,61 +192,6 @@ With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Sk
 27. <Skill name="Poison Volley"/>
 28. <Skill name="Crippling Shot"/>
 29. Repeat from `Step 5`
-
-</Card>
-</GridItem>
-
-<GridItem sm="6">
-<Card title="Precasting">
-In 100CM boons get stripped but unique buffs do not, so you can precast these skills and traits:
-1. If you can get in combat briefly stack <Item id="24609"/> and <Item id="24599"/>
-2. While in combat you can precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
-2. <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
-3. With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
-3. As you are dodging use <Skill name="Moa Stance"/>, <Skill id="12537"/> and <Skill name="Vulture Stance"/> 
-4. <Skill name="One Wolf Pack"/>
-5. Swap skills if necessary
-6. Cast <Skill name="Double Arc"/> 
-6. Take the _Mistlock Singularity_
-7. Cast <Skill name="Double Arc"/> again
-
-</Card>
-<Card title="Axe/Dagger Golem Rotation">
-<Video youtube="WSuDmiuAwC8" caption="by Eren " />
-</Card>
-<Card title="Axe/Dagger Golem Rotation">
-1. <Skill name="Vipers Nest"/>
-2. <Skill name="One Wolf Pack"/>
-3. <Skill name="Splitblade"/> 
-4. <Skill name="Winters Bite"/> 
-5. `Weapon Swap` 
-6. <Skill name="Vulture Stance"/> + <Skill name="Sharpening Stone"/>
-7. <Skill name="Bonfire"/>
-7. <Skill name="Double Arc"/> 
-8. <Skill name="Throw Torch"/> 
-9. <Skill id="46432"/>
-10. <Skill name="Maul"/>
-11. <Skill name="Primal Cry"/>
-12.  `Autoattack chain x1`
-13. <Skill name="Double Arc"/>
-14. <Skill name="Bonfire"/>
-15. `Autoattack chain x3` 
-16. <Skill name="Double Arc"/> 
-17. <Skill name="Throw Torch"/> 
-18. `Weapon Swap` 
-19. <Skill name="Splitblade"/>
-20. <Skill name="Winters Bite"/>
-21. <Skill name="Stalkers Strike"/>
-22. <Skill name="Crippling Talon"/>
-23. <Skill name="Splitblade"/>
-24. <Skill name="Maul"/>
-25. <Skill name="Vipers Nest"/>
-26. <Skill name="Crippling Talon"/>
-27. `Autoattack chain x5`
-28. <Skill name="Primal Cry"/>
-29. <Skill name="Splitblade"/>
-30. <Skill name="Stalkers Strike"/>
-31. Repeat from `Step 6`
 
 </Card>
 </GridItem>
