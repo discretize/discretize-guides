@@ -199,8 +199,6 @@ You can trait <Trait id="1852"/> to share <Boon name="Aegis" disableText/> with 
 (Utility)
 * <Skill name="Counterattack" specialization="ranger"/> <Specialization disableText name="Ranger"/>  
 (Greatsword 4)
-* <Skill name="Ancestral Grace" profession="Ranger"/> <Specialization disableText name="Druid"/>  
-(Staff 3)
 </Card>
 </GridItem>
 
