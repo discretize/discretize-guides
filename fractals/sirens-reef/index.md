@@ -1,6 +1,6 @@
 ---
 title: "Siren's Reef"
-date: '2021-02-24'
+date: '2021-04-25'
 image: './images/header.jpg'
 group: 'T4'
 api: 4494
@@ -83,7 +83,7 @@ Here you have to get the chest onto the ship by throwing the treasure chest at e
 <GridItem sm="6">
 ### Retrieve the second treasure
 
-You need to get a chest again, now from one of the shores (random which one). Use same tactic as before, throw the chest across. There are 2 cannons each side of the ship, use it to clear mobs easily. After recovering the treasure the first mini boss spawns named _Mad Jack Squall_. During the boss there will be AoEs across the ship that blows players down the ship into the poisonous water. Kill him to start the next objective.
+You need to get a chest again, now from one of the shores (random which one). Use same tactic as before, throw the chest across. There are 2 cannons each side of the ship, use it to clear mobs easily. After recovering the treasure the first mini boss spawns named _Mad Jack Squall_. During the boss there will be AoEs across the ship that blows players down the ship into the poisonous water. These AoEs cannot be ignored with <Boon name="Stability"> so avoid standing in them to stay on the platform. Kill him to start the next objective.
 
 ### Retrieve the third treasure
 
