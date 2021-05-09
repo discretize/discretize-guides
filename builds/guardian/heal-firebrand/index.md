@@ -150,6 +150,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 | <Skill name="Blazing Edge"/> | 150 damage |
 | <Skill name="Shield of Absorption"/> | 150 damage |
 | <Skill name="Bane Signet"/> | 300 damage |
+| <Skill id="9125"/> | 200 damage |
 </Card>
 </GridItem>
 <GridItem>
