@@ -119,6 +119,7 @@ CCing:
 - Use <Skill name="Blazing Edge"/> (Axe3)
 - Use <Skill name="Shield of Absorption"/> (Shield5)
 - On demand: <Skill name="Sanctuary"/>
+- On MAMA: <Skill name="hammer of wisdom"/>
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
