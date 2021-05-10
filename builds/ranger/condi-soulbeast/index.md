@@ -58,7 +58,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 <Tab title="Condi Soulbeast Afflicted">
 <Message>
-This build is probably only worth running in a static group. It's damage depends on the amount of <Specialization name="Soulbeast"/> in the party. The build deals similar DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3 Soulbeasts in the party. If you are going to be on your own run the Krait rune setup!
+This build is probably only worth running in a static group. It's damage depends on the amount of <Specialization name="Soulbeast" text="Soulbeasts"/> in the party. The build deals similar DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3 Soulbeasts in the party. If you are going to be on your own run the Krait rune setup!
 </Message>
 <Grid>
 <GridItem sm="4">
@@ -95,6 +95,7 @@ This build is probably only worth running in a static group. It's damage depends
 | -- | -- |
 | <Skill id="46432" size="big" disableText/> | [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>.|
 | <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets. Only take Brisleback if you can consitently get 5+ hits from <Skill name="Rain of Spikes"/> without delaying the skill too much.|
+| <Skill id="44514" size="big" disableText/> | [Lynx](https://wiki.guildwars2.com/wiki/Juvenile_Lynx) - Best single target CDPS pet. Taken if you don't need the CC from Warthog
 </Card>  
 </GridItem>
 </Grid>
@@ -137,12 +138,13 @@ Although Axe/Dagger benches higher, typically this build is only run in 100CM wh
 <Grid>
 <GridItem sm="6">
 <Card title="Information">
-<Specialization name="Soulbeast"/> Golem rotations from raid builds are generally suboptimal in fractals due to bosses moving around much more this makes <Trait name="Light on your Feet"/> much more attractive than <Trait name="Quickdraw"/> which is used in raids. The rotations are fairly easy to adapt though, all you do is skip the second cast of a skill that has been Quickdrawn and dodge as much as you can to upkeep <Trait name="Light on your Feet"/>. <Trait name="Quickdraw"/> rotations can still work providing the boss doesn't move too much but if there is any doubt take <Trait name="Light on your Feet"/>.
+When playing <Specialization name="Soulbeast" text="Condi Soulbeast"/> in 100CM, <Trait name="Light on your Feet"/> is much more attractive choce than <Trait name="Quickdraw"/> which is used in raids. The reason being that Ai moves around far too much for you to be able to benefit from using skills like <Skill name="Bonfire"/> twice in most cases. Also the with some strategic dodging during movement and downtime you can keep a very high <Trait name="Light on your Feet"/> uptime especially during your bursts which leads to very high DPS.
 
-With both condi rotations you want to use <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/> off cool-down, and your <Skill id="42944"/> skills and <Skill name="Vipers Nest"/> when you don't have anything else to do but auto attack.
+The rotation in general is very simple, just keep rotating between your Shortbow and Axe/Dagger set using your utility skills as often as you can. When you get to the point of auto attacking use your <Skill id="42944"/> skills to fill.
+
 </Card>
 <Card title=" Shortbow Golem Rotation">
-<Video youtube="DblomOq_n2U" caption="by Leder"/>
+<Video youtube="iKKWM4F3ayg" caption="by Eren"/>
 </Card>
 </GridItem>
 
@@ -165,31 +167,33 @@ In 100CM boons get stripped but unique buffs do not, so you can precast these sk
 1. <Skill name="Vipers Nest"/>
 2. <Skill name="One Wolf Pack"/>
 3. <Skill name="Poison Volley"/> 
-4. <Skill name="Crippling Shot"/> 
+4. <Skill name="Crippling Shot"/>
+5. <Skill name="Concussion Shot"/>
 5. `Weapon Swap` 
 6. <Skill name="Vulture Stance"/> + <Skill name="Sharpening Stone"/>
-7. <Skill name="Bonfire"/>
-7. <Skill name="Double Arc"/> 
-8. <Skill name="Throw Torch"/> 
+7. <Skill name="Double Arc"/>
+7. <Skill name="Throw Torch"/> 
+8. <Skill name="Bonfire"/> 
 9. <Skill id="44514"/>
 10. <Skill name="Primal Cry"/>
 11. `Autoattack chain x2`
 12. <Skill name="Double Arc"/>
-13. <Skill name="Bonfire"/>
 14. `Autoattack chain x3`
 15. <Skill name="Double Arc"/> 
 16. <Skill name="Throw Torch"/>  
 17. `Weapon Swap`
 18. <Skill name="Poison Volley"/> 
 19. <Skill name="Crippling Shot"/>
-20. <Skill name="Concussion Shot"/>
-21. `Autoattack chain x3`
+21. `Autoattack`
 22. <Skill id="44514"/>
+23. `Autoattack`
+23. <Skill name="Concussion Shot"/>
 23. <Skill name="Poison Volley"/>
-24. `Autoattack chain x8`
+24. `Autoattack`
 25. <Skill name="Primal Cry"/>
-26. `Autoattack chain x8`
+26. `Autoattack`
 27. <Skill name="Poison Volley"/>
+28. `Autoattack`
 28. <Skill name="Crippling Shot"/>
 29. Repeat from `Step 5`
 
