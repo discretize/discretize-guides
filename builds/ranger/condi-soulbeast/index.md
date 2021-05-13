@@ -1,12 +1,12 @@
 ---
 title: 'Condi Soulbeast'
-date: '2021-02-24'
+date: '2021-05-13'
 rating: 'Condi Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
-  { small: { dps: 36197, by: 'Erin', youtube: 'WSuDmiuAwC8' } }
+  { small: { dps: 36197, by: 'Eren', youtube: 'WSuDmiuAwC8' } }
 skills: [45717, 12498, 12508, 46432]
 conditions: ['Bleeding', 'Poisoned', 'Burning']
 code: '[&DQQeHSE3Ny55AAAAvQAAAL8AAADpFgAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
@@ -110,7 +110,7 @@ This build is probably only worth running in a static group. It's damage depends
 | <Trait name="Quickdraw" size="big" disableText/> | Take this instead of <Trait name="Light on your Feet"/> if the boss you will be fighting doesn't change position often. |
 </Card>
 <Card title="Shortbow vs Axe/Dagger">
-Although Axe/Dagger benches higher, typically this build is only run in 100CM where Shortbow shines due to the amount of moving Ai does. This allows you to keep attacking while at range. If you are running this build elsewhere you will probably find that Axe/Dagger will do more DPS.
+Although Axe/Dagger benches higher, typically this build is only run in 100CM where Shortbow shines due to the amount of moving Ai does. This allows you to keep attacking while at range. If you are running this build elsewhere you will probably find that Axe/Dagger with <Trait name="Quickdraw"/> will do more DPS.
 </Card>
 </GridItem> 
 <GridItem sm="5">
