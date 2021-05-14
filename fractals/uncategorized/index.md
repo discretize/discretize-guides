@@ -38,11 +38,11 @@ consumables: [78978, 49940, 8764, 8801]
 
 **Option 2:** Anyone with a <Item id="78978"/> skips alone and teleports the team to the holding area.
 
-Else, you can just walk as a group and either kill the Harpies or run through them. <Boon name="Aegis"/> and <Boon name="Stability"/> helps a lot, you can also reflect the attacks.
+**Option 3:** Proceed as a group and either kill the Harpies or skip them. <Boon name="Aegis"/> and <Boon name="Stability"/> helps a lot; you can also reflect all of the attacks.
 
 ## Holding Area
 
-Stack <Boon name="Might"/> while destroying the _Power Generator_, then stack in the structure on the left side of the room and let the adds come to you.
+Stack <Boon name="Might"/> while destroying the _Power Generator_, then stack in the structure on the left side of the room and let the adds come to you (line of sight).
 
 Then kill the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's _Massive Smash_ attack. 
 
@@ -107,7 +107,7 @@ Note: Activating all three consoles at the same time will turn off the turrets. 
 <GridItem sm="8">
 ## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>  
   
-Stack <Boon name="Might"/> before Old Tom, break his defiance bar as quickly as possible and simply nuke him down. Be careful with <Effect name="Agony"/> and try to not stand in his hitbox or very close to him while he is firing his projectiles. <Specialization name="Soulbeast"/> can use <Skill id="12489"/> or take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to help out with the Poison from the green projectiles.
+Stack <Boon name="Might"/> before Old Tom, break his defiance bar as quickly as possible and burst him down. Be careful with <Effect name="Agony"/> and try to not stand in his hitbox or very close to him while he is firing his projectiles. <Specialization name="Soulbeast"/> can use <Skill id="12489"/> or take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to help out with the Poison from the green projectiles.
 </GridItem>
 </Grid>
 
@@ -117,7 +117,7 @@ Stack <Boon name="Might"/> before Old Tom, break his defiance bar as quickly as 
 <GridItem sm="5">
 ## Raving Asura <Item id="8887" disableText/><Item id="24672" disableText/>  
   
-If no one did a portal to above, stack <Effect name="Stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there.
+Stack <Effect name="Stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Watch your objectives list on the top right of the screen. As soon as you see a change in the objective you have triggered the checkpoint and may use `/gg`.
 
 Use reflects against the *Lightning Bolts* from the Raving Asura (or let others soak them) and kill the four golems to finish the fractal. You can save some AoE spells for when all four golems reactivate at the same time.
 </GridItem>
