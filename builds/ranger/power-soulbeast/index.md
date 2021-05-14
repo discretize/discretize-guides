@@ -1,6 +1,6 @@
 ---
 title: 'Power Soulbeast'
-date: '2021-04-05'
+date: '2021-05-13'
 rating: 'Power Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -64,6 +64,8 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Armor weight="Medium" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Assassin" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 <Card title="Extra Note">
 You need Fractal God, <Item id="86175"/> and <Item id="70596"/>!
+
+To crit cap without <Skill name="Banner of Discipline"/> you will ned to take <Item id="48142"/>, <Item id="67298"/> and <Item id="67302"/>. 
 </Card>
 </GridItem>
 
@@ -90,6 +92,11 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
 <Armor weight="Medium" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
+<Card title="Extra Note">
+You need Fractal God, <Item id="86175"/>, <Item id="70596"/> and A ring with <Item id="49438"/> and 2 <Item id="49437"/>!
+
+To crit cap without <Skill name="Banner of Discipline"/> you will ned to take <Item id="48142"/>, <Item id="67298"/> and <Item id="67302"/>. 
+</Card>
 </GridItem>
 
 <GridItem sm="4">
@@ -100,10 +107,10 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="49437" ring2Infusion2Id="49437" ring2Infusion3Id="49438"/>
-<Card title="You need">
-- Fractal God, Mistlock Singularity, <Item id="86175"/> and <Item id="70596"/>!
-- A ring with <Item id="49438"/> and 2 <Item id="49437"/>.
-
+<Card title="Swap Weapons">
+* Warhorn for <Boon name="Might"/> pre-stacking.
+* Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
+* Axes, Longbows, and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
 
 </Card>
 </GridItem>
@@ -168,9 +175,6 @@ If you meet these requirements then you can swap Marksmanship for Skirmishing wi
 | <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai Trin and Artsariiv. |
 | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. |
 </Card>
-<Card title="Warhorn">
-Play warhorn whenever you can't precast <Skill name="Barrage"/> and also won't get to cast a second <Skill name="Barrage"/>.
-</Card>
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
@@ -190,16 +194,18 @@ Also as <Specialization name="Soulbeast"/> you have quite a few ticking damage o
 
 In PuGs, however, it is quite hard to predict when the boss will be CCed as well as phases can last a lot longer than expected, because of this the golem rotation is listed in the next section so that you can resort back to it if you end up in a longer phase.
 
-**Weapon Skills:**
+**Weapon Variations:**
+
+For your First weapon set you have a choice of 3 weapons:
+
+- Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
+- Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. Greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck autoattacking) and you dont have time for another Longbow burst.
+- Warhorn is your final option and can be taken if your phases are short enough to not need to swap back after Sword/Axe AND you will not be able to cast another <Skill name="Barrage"/> during the fight. "
+
+For your second weapon set you always want Axe off-hand, but mainhand you have a choice of 3 weapons again:
 - **You should mostly run main-hand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
 - You may take main-hand axe (to fill with <Skill name="wintersbite"/>) for certain encounters, such as midburn Artsariiv, where you almost never autoattack with your dual wielding weapons set.
-- As a <Specialization name="Soulbeast"/> you want to always run offhand axe as it grants you access to <Skill name="Whirling Defense"/>, your highest damage skill, as well as <Skill id="12638"/>, a useful pull skill for adds.
-
-For your second weapon set you either run greatsword or longbow:
- 
-- Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
-- Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>.
-- In order to proc <Item id="84505"/> you merely need to use any CC skill (such as <Skill id="45743"/> or <Skill id="12511"/>) whilst the enemy is using an ability.
+- Dagger although is lower DPS than Sword in fractals can be taken and also has <Skill name="Instinctive Engage"/> which is a nice source of <Boon name="Quickness"/>.
 
 **Pets:**
 - For pets you simply run <Skill id="43636" disableText/> [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) if you need CC or <Skill id="44617" disableText/> [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) if you don't. **It is safer to just run Gazelle most of the time and only swap to Moa when you are sure you don't need the CC. You never know when a little CC can come in handy!**
@@ -207,10 +213,13 @@ For your second weapon set you either run greatsword or longbow:
 
 **Utility Skills:**
 - **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team!**
-- You want to always run <Skill name="Sicem"/> as it grants you a **40% damage bonus** for its duration. One thing to keep in mind is that it only grants you a 40% damage bonus against the foe you use it on, so if you are cleaving trash mobs it might not be worth using. Secondly, you only get the buff if you are in <Skill id="42944"/> so also don't activate it if you are unmerged. 
-- Your default second utility is <Skill name="Signet of the wild"/> which is a nice passive stat increase. Depending on the situation you can instead run <Skill name="Frost trap"/> which offers higher burst potential. The situations when you want to run trap depend upon phase length and downtime on phases where the trap can recharge.
-  - For example on Skorvald you can use <Skill name="Frost trap"/> at the start of each phase into <Effect name="Exposed"/> since it recharges during the island phase so the trap is an obvious pick over signet.
-- Most healing skills on ranger are quite useful: <Skill name="We heal as one"/> is a large heal and extends the boons on yourself thanks to <Skill id="42944"/>. Secondly <Skill name="Bear stance"/> is a great condi cleanse either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for pushing orbs at Arkk to enter the damage field.
+- You want to always run <Skill name="Sicem"/> as it grants you a **25% damage bonus** for its duration. One thing to keep in mind is that it only grants you a 25% damage bonus against the foe you use it on, so if you are cleaving trash mobs it might not be worth using. Secondly, you only get the buff if you are in <Skill id="42944"/> so also don't activate it if you are unmerged. 
+- Your final utility is varies on the situation. Generally you want to run either <Skill name="Frost trap"/> or <Skill name="Signet of the Wild"/> since they are your most damaging utilities
+  - <Skill name="Frost trap"/> is taken generally taken as it increses your burst damage a substantial amount.
+  - <Skill name="Signet of the Wild"/> is taken on fights with longer phases where your <Skill name="Frost trap"/> commes off cooldown but you dont have enough time for another burst.
+  - <Skill name="Moa Stance"/> is another common final utility used to extend boons in your party allowing very offensive comps to be run.
+ 
+ - Most healing skills on ranger are quite useful: <Skill name="We heal as one"/> is a large heal and extends the boons on yourself thanks to <Skill id="42944"/>. Secondly <Skill name="Bear stance"/> is a great condi cleanse either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for pushing orbs at Arkk to enter the damage field.
 
 **Extra Notes:**
 - <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phases to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
