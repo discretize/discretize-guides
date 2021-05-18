@@ -1,7 +1,7 @@
 ﻿---
 title: 'Zealot Firebrand'
 date: '2021-05-04'
-rating: 'hidden'
+rating: 'Offmeta'
 role: 'Hybrid'
 profession: 'Guardian'
 specialization: 'Firebrand'
@@ -10,11 +10,10 @@ boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Princeps'
-classification: [4, 2, 3, 3, 4]
-compositions: [ ]
+classification: [5, 2, 3, 3, 4]
 ---
 
-The **<Specialization text="Zealot Firebrand" name="Firebrand"/>** (also **_ZBrand_**) is a niche build for people that are able to consistently avoid one shot mechanics and don't require burst heal. This build is useful for parties that are in the transition of swapping to a no-heal composition but still struggle to give up the convenience of having a dedicated healer. It provides permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>. The healing output is slow but steady helping to keep up everybody's <Item name="scholar"/> buff and therefore serving as a light safety net for minor mistakes.
+The **<Specialization text="Zealot Firebrand" name="Firebrand"/>** (also **_ZBrand_**) is a niche build for people that are able to consistently avoid one shot mechanics and don't require burst heals. This build is useful for parties that are in the transition of swapping to a no-heal composition but still struggle to give up the convenience of having a dedicated healer. It provides permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>. The healing output is slow but steady helping to keep up everybody's <Item name="scholar"/> buff and therefore serving as a light safety net for minor mistakes.
 
 It plays very similar to <BuildLink build="Power Firebrand" specialization="Firebrand"/>, except that the damage output is significantly lowered due to slotting the Honor trait line. 
 
@@ -55,7 +54,32 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 </Grid>
 </Tab>
+<Tab title="222 Agony Resistance">
+**This build assumes 27.6% <Attribute name="Boon Duration"/>, 730 <Attribute name="Healing Power"/> while maintaining 100.0% <Attribute name="Critical Chance"/> and is meant as a suggestion! Please read the guide carefully to understand how the build works.**
 
+Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
+<Grid>
+<GridItem sm="4">
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Zealot" shouldersRune="Scholar" coatAffix="Zealot" coatRune="Scholar" glovesAffix="Zealot" glovesRune="Scholar" leggingsAffix="Diviner" leggingsRune="Scholar" bootsAffix="Zealot" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Staff" weapon2MainAffix="Berserker" weapon2MainSigil1="Transference" weapon2MainSigil2="Concentration" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2MainInfusion2Id="49432"/>
+
+<Card title="Alternative weapons">
+- Sword and focus as a replacement for Staff when the group wants to practice keeping up <Boon name="Might"/>. 
+- Other symbol weapons for 5-symbol-precast.
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Zealot" ring1Affix="Zealot"  ring2Affix="Zealot" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
+
+<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
+
+</GridItem>
+</Grid>
+</Tab>
 </Tabs>
 
 <Divider text="Build"/>
@@ -106,13 +130,14 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 Keeping up <Boon name="Quickness"/> is a lot easier than with a <BuildLink build="Power Firebrand" specialization="Firebrand"/> thanks to the increased <Attribute name="Boon Duration"/> (if you chose to run the 162 <Attribute name="Agony Resistance"/> build). Nevertheless, it has significantly less room for errors compared to <BuildLink build="Heal Firebrand" specialization="Firebrand"/>. While you might get away with missing one puke, you will not get away with missing it twice! General guidelines for keeping up <Boon name="Quickness"/>:
 - Use <Skill name="Feel My Wrath"/> whenever ready. This is especially important considering it provides <Boon name="Fury"/> to the team, which is the one thing this particular build struggles with.
-- Use <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> but leave one charge left (unless the fight is close to being over)
+- Use <Skill name="Mantra of Potence"/> off cooldown and <Skill name="Mantra of Solace"/> every 7 seconds due to the cooldown of <Trait name="Stalwart Speed"/>
 - Only use these skills close to your allies - try to "puke" on them with the mantras
-- Keep in mind that equipping/stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
+- Keep in mind that equipping/stowing a tome grants you (only you, not your party members!) 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 The rotation is a **lot** simpler compared to any other <Specialization name="Guardian"/> build (except for hfb where your weapons do not have immediate effect on how efficient the build is). However, weapon swaps require careful consideration, because it is not efficient to be stuck on staff or to have less than 25 <Boon name="might"/> during a damage phase.  
 Getting the weapon swaps right is probably the hardest part (more info below). Generally, it is recommended to always camp greatsword and only swap to staff to use <Skill name="Empower"/> to top up <Boon name="Might"/>.   
-General information: 
+
+**General information:**
 - If the encounter allows you to, you can prestack the following symbols:
   - Equip Mace and precast <Skill name="Symbol of Faith"/>
   - Equip Scepter and precast <Skill name="Symbol of Punishment"/>
@@ -126,9 +151,9 @@ General information:
   - Blast fire fields with <Skill name="holystrike"/>. If there is no fire field you can put one down with tome1-4 
   - Use <Skill name="Symbol of Swiftness"/>
 - Apart from that:
-  - <Skill name="Bane Signet"/> to break defiance bars and provide the group with a temporary 216 <Attribute name="Power"/> buff
+  - <Skill name="Bane Signet"/> to break defiance bars and provide the group with a temporary 216 <Attribute name="Power"/> buff. Should also be used when there is no defiance bar ready but it will be off cooldown for the next phase.
   - <Skill id="9226"/> (after <Skill id="9147"/>) is nice CC skill as well
-  - <Skill name="Sword of Justice"/> for additional DPS and vulnerability. Also provides 3 seconds of <Condition name="Crippled"/>
+  - <Skill name="Sword of Justice"/> for additional DPS and  12 stacks of <Condition name="vulnerability"/>. Also provides 3 seconds of <Condition name="Crippled"/>
 
 Suggested key moments to swap to staff and <Skill name="Empower"/>: 
 - **Skorvald**: Anomalies 2 and 4. In case your group gets too fast you might have to skip <Skill name="Empower"/>ing at the 2nd island. When using the 66% portal make sure to drop a <Skill name="Symbol of Swiftness"/> on Skorvald before swapping to Greatsword.
@@ -165,7 +190,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 If you have a _Mistlock Singularity_ present you can use these skills for precasts:
 1) Cast <Skill name="tome of justice"/> skill 4 and 5
 2) Blast the fire field by casting <Skill name="Holy Strike"/>
-3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+3) Use <Skill name="Mantra of Potence"/> off cooldown and <Skill name="Mantra of Solace"/> every 7 seconds due to the cooldown of <Trait name="Stalwart Speed"/>
 4) Use <Skill name="Stand your ground"/>
 5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
@@ -177,7 +202,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 
 <GridItem xs="12" sm="6">
 <Card title="Example opener">
-**Scepter/Sword Rotation:**
+**Staff/Greatsword "Rotation":**
 1. <Skill name="banesignet" profession="guardian"/>
 1. <Skill name="Symbol of Swiftness" profession="guardian"/> (Staff 3)
 1. <Skill name="Holystrike"/> (Staff 2)
@@ -198,7 +223,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 
 <Divider text="Underwater combat"/>
 
-It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the power variant. If you still want to play <Specialization text="Power Quickness Firebrand" name="Firebrand"/> for whatever reason follow these rough guidelines.
+It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the power variant. If you still want to play <Specialization text="Zealot Firebrand" name="Firebrand"/> for whatever reason follow these rough guidelines.
 
 - Open with <Skill name="refraction"/> for <Boon name="retaliation"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
