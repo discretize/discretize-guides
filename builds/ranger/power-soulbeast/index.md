@@ -13,7 +13,7 @@ effects: ['Stealth']
 code: '[&DQQIGiA7Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/power-soulbeast'
 classification: [5, 5, 3, 3, 4]
-compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_RGB' }]
+compositions: [ { name: '_Rainbow' }, { name: '_RGB' }]
 
 ---
 
@@ -50,8 +50,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="Might"/> pre-stacking.
 * Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
-* Axes, Longbows, and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
-
+* Axes, Longbows, and Greatswords with slaying sigils (see [Cheat Sheet](guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
 </Card>
 </GridItem>
 </Grid>
@@ -80,7 +79,7 @@ To crit cap without <Skill name="Banner of Discipline"/> you will ned to take <I
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="Might"/> pre-stacking.
 * Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
-* Axes, Longbows, and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
+* Axes, Longbows, and Greatswords with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
 
 </Card>
 </GridItem>
@@ -110,7 +109,7 @@ To crit cap without <Skill name="Banner of Discipline"/> you will ned to take <I
 <Card title="Swap Weapons">
 * Warhorn for <Boon name="Might"/> pre-stacking.
 * Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
-* Axes, Longbows, and Greatswords with slaying sigils (see [Consumables Guide](/guides/consumables)).
+* Axes, Longbows, and Greatswords with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
 
 </Card>
 </GridItem>
@@ -182,6 +181,8 @@ If you meet these requirements then you can swap Marksmanship for Skirmishing wi
 | <Skill id="12511" size="big" disableText/> | 150 damage (Longbow 4)|
 | <Skill id="12638" size="big" disableText/> | 150 damage (Axe 4) |
 | <Skill id="12475" size="big" disableText/> | 150 damage (Greatsword 5) |
+| <Skill id="12523" size="big" disableText/> | 150 damage (Greatsword 4 after a block) |
+| <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3) |
 </Card>
 </GridItem> 
 </Grid>
