@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
-  { small: { dps: 37371, by: 'ShèènaFujibayashi [CnD]', youtube: 'MCs3a6T3sUQ' } }
+  { small: { dps: 34681, by: 'Ares [EoE]', youtube: 'bZsra6sihzs' } }
 skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
@@ -237,7 +237,8 @@ For that reason you can find a video below with openers for each of the CM bosse
 <Video caption="by Stellan [dT], edited by Vince [dT]" youtube="0obkDd8lCTA"/> 
 </Card>
 <Card title="Golem Rotation">
-<Video youtube="bZsra6sihzs" caption="by Ares [EoE] " />
+<Video youtube="bZsra6sihzs" caption="by Ares [EoE]" />
+Note: The golem benchmark uses a different build setup to the ones above due to its use in raids. Check the description of the benchmark for a link to the build used.
 </Card>
 <Card title="Golem Rotation">
 1. <Skill name="Barrage"/>
