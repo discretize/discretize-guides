@@ -237,7 +237,7 @@ For that reason you can find a video below with openers for each of the CM bosse
 <Video caption="by Stellan [dT], edited by Vince [dT]" youtube="0obkDd8lCTA"/> 
 </Card>
 <Card title="Golem Rotation">
-<Video youtube="MCs3a6T3sUQ" caption="by Sascha [CnD] " />
+<Video youtube="bZsra6sihzs" caption="by Ares [EoE] " />
 </Card>
 <Card title="Golem Rotation">
 1. <Skill name="Barrage"/>
