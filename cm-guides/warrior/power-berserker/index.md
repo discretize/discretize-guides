@@ -185,8 +185,8 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 ### _1st Add_
 
-- Swap to rifle, start with <Skill name="aimedshot"/> to apply <Condition name="Vulnerability"/>.
-- Finish the add with <Skill name="gunflame"/> and <Skill name="volley"/>.
+- Swap to rifle, start with <Skill name="volley"/> to apply <Condition name="Vulnerability"/>.
+- Finish the add with <Skill name="gunflame"/> and <Skill name="aimedshot"/>.
 
 ### **2nd Phase**
 
@@ -195,13 +195,13 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 ### _2nd Add_
 
-- Swap to rifle, start with <Skill name="aimedshot"/> to apply <Condition name="Vulnerability"/>.
-- Finish the add with <Skill name="gunflame"/> and <Skill name="volley"/>.
+- Swap to rifle, start with <Skill name="volley"/> to apply <Condition name="Vulnerability"/>.
+- Finish the add with <Skill name="gunflame"/> and <Skill name="aimedshot"/>.
 
 ### **3rd Phase**
 
 - Don't forget to apply <Trait name="peakperformance"/> with <Skill name="throwbolas"/>.
-- Use <Skill name="headbutt"/> and <Skill name="outrage"/> first thing as your <Skill name="Berserker"/> is about to run out at that point.
+- Use <Skill name="headbutt"/> and <Skill name="outrage"/> first thing as your <Skill name="Berserk"/> is about to run out at that point.
 - Do what a warrior does: smash <Skill name="decapitate"/>.
 
 **Annnotation:**
@@ -307,9 +307,11 @@ The rest of the fight follows accordingly.
 
 <ConditionalComponent condition="static">
 
-<Boss name="skorvald" video="iIH6qeeggyo" videoCreator="Princeps [dT]" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="elementalslaying" weapon2OffType="torch" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
+<Boss name="skorvald" video="iIH6qeeggyo" videoCreator="Princeps [dT]" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="elementalslaying" weapon2OffType="warhorn" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
 - Play <Trait name="savageinstinct"/>!
 - 4-way split: you solo the first anomaly at 33% with a <Item id="78978"/>
+- Precast <Skill name="flamesofwar"/> before the boss starts and swap immediately to warhorn.
+- Optional: you can take <Skill name="signetoffury"/> instead of <Skill name="signetofmight"/> for extra burst.
 </Boss>
 
 ### **100%-66%**
