@@ -1,6 +1,6 @@
 ---
 title: 'Power Chronomancer'
-date: '2021-02-24'
+date: '2021-05-28'
 rating: 'Offmeta'
 role: 'Damage'
 profession: 'Mesmer'
@@ -11,7 +11,7 @@ boons: ['Might', 'Fury', 'Quickness', 'Alacrity']
 conditions:
   ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poisoned', 'Blinded', 'Slow']
 code: '[&DQcBHQoaKDYjDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]'
-author: 'Discord: Tipcat#0698'
+author: 'Discord: [CnD] Tipcat#0698'
 classification: [2, 4, 4, 3, 4]
 ---
 
@@ -30,10 +30,13 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 <Tab title="162 Agony Resistance">
 Check the [gear optimizer](https://old.discretize.eu) for more gear variants! 
 
-The goal of this build is to reach 100% critical chance when the boss is under the effects of <Condition name="Slow"/> to do this you will require to have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>. If you'd rather not rely on having those you need 200 AR to reach 100% with just <Boon name="Fury"/> and <Trait name="Danger Time"/>, assuming <Condition name="Slow"/>.
+This is a budget variant, aim for at least 212 Agony Resistance.
+
+Utilize the gear optimizer if you are somewhere between 162 and 212 Agony Resistance.
+
 <Grid>
 <GridItem sm="4">
-<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
+<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Assassin" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
 
 </GridItem>
 
@@ -44,22 +47,108 @@ The goal of this build is to reach 100% critical chance when the boss is under t
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
+<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
 <Card title="Extra Weapons">
-* Swords and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+* Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+* Pistol is faster but lower burst so swap accordingly depending on your group. 
+    * Use it on Arkk to not wipe your group since the Warden 'protects' the Balls from your SAK.
 * Torch for stealth, blasting and precasting
 * Greatsword for precasting at certain bosses.
-    * Safer but lower DPS alternative than Focus on Arkk.
-*  Staff for precasting at certain bosses
-*  Shield for CC, blocks and precasting
-*  Pistol for CC and precasting
+* Staff for precasting at certain bosses.
+* Shield for CC, blocks and precasting.
+
+
 </Card>
+
 
 
 </GridItem>
 </Grid>
 </Tab>
+
+
+<Tab title="212 Agony Resistance">
+Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
+
+
+210 Agony Resistance allows you to run the typical raid gear for <Specialization text="Power Chronomancer" name="Chronomancer"/>.
+
+<Grid>
+<GridItem sm="4">
+<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
+
+<Card title="Extra Note">
+You need Fractal Champion, <Item id="86175"/> and <Item id="70596"/>.
+
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffType="Sword" weapon1OffAffix="Berserker" weapon1OffSigil="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2OffInfusionId="49432"/>
+<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
+
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
+
+<Card title="Extra Weapons">
+* Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+* Pistol is faster but lower burst so swap accordingly depending on your group. 
+    * Use it on Arkk to not wipe your group since the Warden 'protects' the Balls from your SAK.
+* Torch for stealth, blasting and precasting
+* Greatsword for precasting at certain bosses.
+* Staff for precasting at certain bosses.
+* Shield for CC, blocks and precasting.
+</Card>
+
+
+
+</GridItem>
+</Grid>
+</Tab>
+
+<Tab title="222 Agony Resistance">
+Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
+
+
+<Grid>
+<GridItem sm="4">
+<Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
+
+<Card title="Extra Note">
+You need Fractal God, <Item id="86175"/> and <Item id="70596"/>.
+
+</Card>
+
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffType="Sword" weapon1OffAffix="Berserker" weapon1OffSigil="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2OffInfusionId="49432"/>
+<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
+
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
+
+<Card title="Extra Weapons">
+* Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+* Pistol is faster but lower burst so swap accordingly depending on your group. 
+    * Use it on Arkk to not wipe your group since the Warden 'protects' the Balls from your SAK.
+* Torch for stealth, blasting and precasting
+* Greatsword for precasting at certain bosses.
+* Staff for precasting at certain bosses.
+* Shield for CC, blocks and precasting.
+</Card>
+
+
+
+</GridItem>
+</Grid>
+</Tab>
+
 </Tabs>
 
 
@@ -67,7 +156,7 @@ The goal of this build is to reach 100% critical chance when the boss is under t
 
 <Grid>
 <GridItem sm="7">
-<Traits  traits1="Dueling" traits1Selected="Phantasmal Fury, Fencers Finesse, Superiority Complex" traits2="Domination" traits2Selected="Empowered Illusions, Egotism, Vicious Expression" traits3="Chronomancer" traits3Selected="Time Catches Up, Danger Time, Chronophantasma"/>
+<Traits  traits1="Dueling" traits1Selected="Phantasmal Fury, Fencers Finesse, Superiority Complex" traits2="Domination" traits2Selected="Empowered Illusions, Egotism, Vicious Expression" traits3="Chronomancer" traits3Selected="Time Catches Up, Improved Alacrity, Chronophantasma"/>
 <Card title="Situational Traits">
 <Traits unembossed traits1="Illusions" traits1Selected="Shatter Storm, Phantasmal Haste, Phantasmal Force" />
 
@@ -75,7 +164,6 @@ You can go this Illusions variant over the Domination traitline when you're faci
 | | |
 | -- | -- |
 | <Trait name="Bountiful Blades" size="big" disableText/> | If you're playing with Greatsword instead of Focus. |
-| <Trait name="Delayed Reactions" size="big" disableText/> | If you can't phase the boss with just the <Condition name="slow"/> from <Skill name="Time Warp"/> and <Skill name="Time Sink"/>, then this could be better.
 
 <Traits unembossed traits1="Mirage" traits1Selected=", , Elusive Mind" />
 Utilize Mirage for skips! 
@@ -86,19 +174,17 @@ Utilize Mirage for skips!
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="Signet of the Ether" utility1="Mirror Images" utility2="Mantra of Pain" utility3="Phantasmal Disenchanter" elite="Time Warp"/>
+<Skills heal="Signet of the Ether" utility1="Mirror Images" utility2="Mantra of Pain" utility3="Phantasmal Disenchanter" elite="Signet of Humility"/>
 
 <Card title="Situational Skills">
 Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 | | |
 | -- | -- |
-| <Skill name="Gravity Well" disableText size="big"/> | For MAMA CM and situational uses in T4. |
-| <Skill name="Signet of Humility" disableText size="big"/> | Faster and slightly higher defiance bar damage than  <Skill name="Gravity Well"/>|
+| <Skill name="Gravity Well" disableText size="big"/> | Higher DpS but slower and less CC |
 | <Skill name="Mimic" disableText size="big"/> | For precasting <Skill name="Mirror Images" Size="small"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips. |
-| <Skill name="Null Field" disableText size="big"/> | When you have issues with boons on the boss(should only be used in extreme cases). |
+| <Skill name="Null Field" disableText size="big"/> | When you have issues with boons on the boss (should only be used in extreme cases). |
 | <Skill name="Signet of Inspiration" disableText size="big"/> | For precasting before the boss. |
 | <Skill name="Feedback" disableText size="big"/> | Mainly for Artsariiv to reflect Taw Shot. |
-| <Skill name="Well of Calamity" disableText size="big"/> | Alternative to <Skill name="Mantra of Pain" disableText/> on shorter phases, where you can't make use of the charges of the mantra.|
 | __Skips__| |
 | <Skill name="Portal Entre" disableText size="big"/> | For skipping sections of the fractal for your party. |
 | <Skill name="Blink" disableText size="big"/> | 1200 range blink, use it for skips! |
@@ -119,24 +205,24 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 <GridItem sm="8">
 
 <Card title="Skill priority">
-The idea behind playing <Specialization text="Power Chronomancer" name="Chronomancer"/> in fractals is to provide <Condition name="Slow"/> during your bursts. Try to optimize your <Condition name="Slow"/> generator skills for each phase with this in mind.
+To play <Specialization text="Power Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go as phantasms are our main damage source but they are slower than  skills from other classes
 
 If you lose yourself in the rotation follow this priority list.
 
-1. Cast your phantasms whenever ready
+1. Cast your phantasms whenever ready.
     * <Skill id="10174"/>
     * <Skill id="10267"/>
     * <Skill id="10282"/>
-2. Use <Skill id="21750"/> to recharge them all
-    
-3. Use <Skill id="10211"/> but always keep one charge except at the end of the fight (if possible during <Skill id="29830"/>)
-4. Use <Skill name="Split Second"/> with three clones as much as possible only delay it for <Effect name="Exposed"/>
-5. Use <Skill name="Rewinder"/> whenever you don't have any clones, situationally you can shatter it with three clones such as in your burst rotation or when a phase is about to end and <Skill name="Split Second"/> is on cooldown.
-    5. <Skill name="Time Sink"/> has higher priority for slow uptime if you have clones to spare mid-phase.
-6. Use <Skill id="10334"/> and <Skill id="30525"/>(if used) off recharge
+2. Use <Skill id="21750"/> to recharge them all.
+3. Use <Skill name="Split Second"/> with three clones as much as possible only delay it for <Effect name="Exposed"/>
+4. Use <Skill name="Rewinder"/> whenever you don't have any clones, situationally you can shatter it with three clones such as in your burst rotation or when a phase is about to end and <Skill name="Split Second"/> is on cooldown.
+5. Use <Skill id="10334"/> and <Skill id="30525"/> (if used) off recharge.
 * <Skill name="Illusionary Riposte"/> is a DpS increase if you time it well, and don't interrupt other casts.
 
-Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that <Skill name="Blurred Frenzy"/> and Auto-Attacks get higher priority if the boss is close to phasing.
+Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that <Skill name="Blurred Frenzy"/> and auto-attacks get higher priority if the boss is close to phasing.
+
+Utilize <Skill name="Time Sink"/> for CC, but also remember to not use too much CC on the breakbar and space out your big CC cooldowns like <Skill name="Signet of Humility"/> or <Skill name="Gravity Well"/> so they don't overlap with other powerful CC skills.
+
 
 Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used twice with <Skill id="29830"/> if needed. Cast <Skill id="10173"/> to quickly get up another illusion.
 
@@ -193,11 +279,11 @@ At the Mistlock Singularity
 * Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
  
 
-At the boss(spawnable bosses) 
+At the boss (spawnable bosses) 
 * You can precast <Skill name="The Prestige"/>, <Skill name="Tides of Time"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
 
 
-At the boss(prespawned bosses)
+At the boss (prespawned bosses)
 
 * Precast rotation. Start on Staff or Shield.
 
@@ -212,7 +298,7 @@ At the boss(prespawned bosses)
 * If you start on Shield use <Skill name="Echo of Memory"/> before step 1.
 * Precasting phantasms on MAMA is possible but the timing is trickier in PuGs as combat starts once your group hits the boss.
 
-(Optional)
+__Optional__
 
 If you want to be more self-sufficient in fractals you can get a 100% boon duration set and take <Trait name="Bountiful disillusionment" size="small"/>.
 
@@ -225,7 +311,7 @@ Alternatively you can also precast <Skill name="Well of Recall"/> to help with <
 
 <GridItem xs="12" sm="6">
 <Card title="Opener">
-These are basic openers, refer to the video for more advanced openers(video description for written rotation).
+These are basic openers, refer to the video for more advanced openers (video description for written rotation).
 - With <Skill name="Continuum Split"/>, Start on Sword/Focus
 
 1. <Skill name="Phantasmal Warden"/>
@@ -264,7 +350,7 @@ These are basic openers, refer to the video for more advanced openers(video desc
 </Card>
 
 <Card title="Golem Rotation">
-<Video youtube="AdSAqFXs71U" caption="by Tipcat" />
+<Video youtube="hkl9kewy_1k" caption="by Tipcat" />
 </Card>
 </GridItem>
 
