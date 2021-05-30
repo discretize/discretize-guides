@@ -82,7 +82,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
 <Card title="Notes">
-Use <Trait name="Righthandstrength"/> when there are multiple <Specialization name="Guardian"/>s in your party. Only then you have permanent <Boon name="Retaliation"/>. **Taking <Trait name="Righthandstrength"/> requires no assassin's pieces!**
+Use <Trait name="Righthandstrength"/> when there are multiple <Specialization name="Guardian"/>s in your party. Only then you have permanent <Boon name="resolution"/>. **Taking <Trait name="Righthandstrength"/> requires no assassin's pieces!**
 
 </Card>
 </GridItem>
@@ -166,7 +166,7 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 To keep up <Boon name="Quickness"/>:
 
 - Use <Skill name="Feel My Wrath"/> whenever ready
-- Use <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> but leave one charge left (unless the fight is close to being over)
+- Use <Skill name="mantraofpotence"/> and <Skill name="mantraofsolace"/> 
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 - Keep in mind that equipping/stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
@@ -182,7 +182,7 @@ The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-drag
   - Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
   
 - On Sword:
-  - Use <Skill name="Ray of Judgment"/>
+  - Use <Skill name="Ray of Judgment"/>, try if possible to cancel the aftercast with weaponswap or <Skill name="Symbol of Blades"/> 
   - Use <Skill name="Symbol of Blades"/> 
   - Use <Skill name="Zealots Defense"/> 
   - <Skill name="Shield of Wrath"/> when you're not receiving hits - use it shortly before breaking defiance bars. Can also be used to help with stacking <Boon name="Might"/>
@@ -232,8 +232,8 @@ For that reason you can find a video with openers, that are efficient to use her
 If you have a _Mistlock Singularity_ present you can use these skills for precasts:
 1) Cast <Skill name="tome of justice"/> skill 4 and 5
 2) Blast the fire field by casting <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
-3) Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
-4) Use <Skill name="Stand your ground"/>
+3) Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/> and <Trait name=" stalwartspeed"/>)
+4) Use <Skill name="Stand your ground"/> or <Skill name ="saveyourselves"/>
 5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take _Mistlock Singularity_
@@ -273,7 +273,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 
 It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the power variant. If you still want to play <Specialization text="Power Quickness Firebrand" name="Firebrand"/> for whatever reason follow these rough guidelines.
 
-- Open with <Skill name="refraction"/> for <Boon name="retaliation"/>
+- Open with <Skill name="refraction"/> for <Boon name="resolution"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
 - Priority list:
   1) <Skill name="Zealots flurry"/> (Spear 2)
