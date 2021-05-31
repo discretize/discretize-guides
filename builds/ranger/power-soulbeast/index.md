@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
 benchmark:
-  { small: { dps: 34681, by: 'Ares [EoE]', youtube: 'bZsra6sihzs' } }
+  { small: { dps: 35484, by: 'Ares [EoE]', youtube: 'jUyBMhlq13o' } }
 skills: [45717, 12497, 12639, 12638]
 conditions: ['Vulnerability']
 effects: ['Stealth']
@@ -193,20 +193,20 @@ The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to 
 
 Also as <Specialization name="Soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your <Specialization name="Weaver"/>). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="Exposed"/>. 
 
-In PuGs, however, it is quite hard to predict when the boss will be CCed as well as phases can last a lot longer than expected, because of this the golem rotation is listed in the next section so that you can resort back to it if you end up in a longer phase.
+In PuGs, however, it is quite hard to predict when the boss will be CC'd as well as phases can last a lot longer than expected, because of this the golem rotation is listed in the next section so that you can resort back to it if you end up in a longer phase.
 
 **Weapon Variations:**
 
 For your First weapon set you have a choice of 3 weapons:
 
 - Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus. 
-- Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. Greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck autoattacking) and you dont have time for another Longbow burst.
+- Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. Greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck auto attacking) and you don't have time for another Longbow burst.
 - Warhorn is your final option and can be taken if your phases are short enough to not need to swap back after Sword/Axe AND you will not be able to cast another <Skill name="Barrage"/> during the fight. "
 
 For your second weapon set you always want Axe off-hand, but mainhand you have a choice of 3 weapons again:
-- **You should mostly run main-hand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
-- You may take main-hand axe (to fill with <Skill name="wintersbite"/>) for certain encounters, such as midburn Artsariiv, where you almost never autoattack with your dual wielding weapons set.
-- Dagger although is lower DPS than Sword in fractals can be taken and also has <Skill name="Instinctive Engage"/> which is a nice source of <Boon name="Quickness"/>.
+- **You should mostly run a main-hand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
+- You may take a main-hand axe (to fill with <Skill name="wintersbite"/>) for certain encounters, such as midburn Artsariiv, where you almost never auto attack with your dual wielding weapons set.
+- Dagger, although its lower DPS than Sword in fractals can be taken and also has <Skill name="Instinctive Engage"/> which is a nice source of <Boon name="Quickness"/>.
 
 **Pets:**
 - For pets you simply run <Skill id="43636" disableText/> [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) if you need CC or <Skill id="44617" disableText/> [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) if you don't. **It is safer to just run Gazelle most of the time and only swap to Moa when you are sure you don't need the CC. You never know when a little CC can come in handy!**
@@ -215,9 +215,9 @@ For your second weapon set you always want Axe off-hand, but mainhand you have a
 **Utility Skills:**
 - **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team!**
 - You want to always run <Skill name="Sicem"/> as it grants you a **25% damage bonus** for its duration. One thing to keep in mind is that it only grants you a 25% damage bonus against the foe you use it on, so if you are cleaving trash mobs it might not be worth using. Secondly, you only get the buff if you are in <Skill id="42944"/> so also don't activate it if you are unmerged. 
-- Your final utility is varies on the situation. Generally you want to run either <Skill name="Frost trap"/> or <Skill name="Signet of the Wild"/> since they are your most damaging utilities
-  - <Skill name="Frost trap"/> is taken generally taken as it increses your burst damage a substantial amount.
-  - <Skill name="Signet of the Wild"/> is taken on fights with longer phases where your <Skill name="Frost trap"/> commes off cooldown but you dont have enough time for another burst.
+- Your final utility varies depending on the situation. Generally you want to run either <Skill name="Frost trap"/> or <Skill name="Signet of the Wild"/> since they are your most damaging utilities
+  - <Skill name="Frost trap"/> is generally taken as it increases your burst damage a substantial amount.
+  - <Skill name="Signet of the Wild"/> is taken on fights with longer phases where your <Skill name="Frost trap"/> comes off cooldown but you don't have enough time for another burst.
   - <Skill name="Moa Stance"/> is another common final utility used to extend boons in your party allowing very offensive comps to be run.
  
  - Most healing skills on ranger are quite useful: <Skill name="We heal as one"/> is a large heal and extends the boons on yourself thanks to <Skill id="42944"/>. Secondly <Skill name="Bear stance"/> is a great condi cleanse either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for pushing orbs at Arkk to enter the damage field.
@@ -238,7 +238,7 @@ For that reason you can find a video below with openers for each of the CM bosse
 <Video caption="by Stellan [dT], edited by Vince [dT]" youtube="0obkDd8lCTA"/> 
 </Card>
 <Card title="Golem Rotation">
-<Video youtube="bZsra6sihzs" caption="by Ares [EoE]" />
+<Video youtube="jUyBMhlq13o" caption="by Ares [EoE]" />
 Note: The golem benchmark uses a different build setup to the ones above due to its use in raids. Check the description of the benchmark for a link to the build used.
 </Card>
 <Card title="Golem Rotation">
@@ -257,7 +257,7 @@ Note: The golem benchmark uses a different build setup to the ones above due to 
 13. <Skill name="Path of scars"/>
 14. `Weapon Swap`
 15. <Skill name="Rapid Fire"/> 
-16. <Skill name="Long Range Shot"/> `Autoattack x6`
+16. <Skill name="Long Range Shot"/> `Auto Attack x6`
 17. <Skill name="Point Blank Shot"/>
 18. <Skill name="Barrage"/>
 19. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
