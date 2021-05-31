@@ -16,11 +16,11 @@ compositions: [ { name: '_CRGB', roles: 'DPS/CC/Quickness,DPS/CC/Quickness,DPS/M
 ---
 
 <Message>
-This build is [META](/guides/meta-explained) in Sunqua Peak. Outside Sunqua Peak in faster groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
+This build is [META](/guides/meta-explained) in full condi groups. In power groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
 </Message>
 
 
-Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
+Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group are playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
 
 
 This build is rather self sufficient due to:
@@ -94,7 +94,7 @@ This build is probably only worth running in a static group. It's damage depends
 | | |
 | -- | -- |
 | <Skill id="46432" size="big" disableText/> | [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>.|
-| <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets. Only take Brisleback if you can consitently get 5+ hits from <Skill name="Rain of Spikes"/> without delaying the skill too much.|
+| <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets. Only take Bristleback if you can consistently get 5+ hits from <Skill name="Rain of Spikes"/> without delaying the skill too much.|
 | <Skill id="44514" size="big" disableText/> | [Lynx](https://wiki.guildwars2.com/wiki/Juvenile_Lynx) - Best single target CDPS pet. Taken if you don't need the CC from Warthog
 </Card>  
 </GridItem>
@@ -107,17 +107,20 @@ This build is probably only worth running in a static group. It's damage depends
 | | |
 | -- | -- |
 | <Trait name="Essence of Speed" size="big" disableText/> | Take this instead of <Trait name="Predators Cunning"/> if boon uptime in your party is bad and you want some extra generation. |
-| <Trait name="Quickdraw" size="big" disableText/> | Take this instead of <Trait name="Light on your Feet"/> if the boss you will be fighting doesn't change position often. |
+| <Trait name="Quickdraw" size="big" disableText/> | Take this instead of <Trait name="Light on your Feet"/> if the boss you will be fighting doesn't change position often and you can't keep a high <Trait name="Light on your Feet"/> uptime. |
 </Card>
 <Card title="Shortbow vs Axe/Dagger">
-Although Axe/Dagger benches higher, typically this build is only run in 100CM where Shortbow shines due to the amount of moving Ai does. This allows you to keep attacking while at range. If you are running this build elsewhere you will probably find that Axe/Dagger with <Trait name="Quickdraw"/> will do more DPS.
+Although Axe/Dagger benches higher, typically this build is only run in 100CM where Shortbow shines due to the amount of moving Ai does. This allows you to keep attacking while at range. If you are running this build elsewhere you will probably find that Axe/Dagger with <Trait name="Quickdraw"/> will do more DPS. Although in situations with short phases such as Ensolyss where you can keep a high <Trait name="Light on your Feet"/> uptime along with the 100% modifier from <Effect name="Exposed"/> you will find that Shortbow is still better.
+</Card>
+<Card title="Off-hand Dagger">
+Running an off-hand Dagger is slightly more DPS than running Torch providing you can flank permanently and your group can't make use of the fire field from <Skill name="Bonfire"/>. It also has the benefit of having an evade through using <Skill id="12478"/>. 
 </Card>
 </GridItem> 
 <GridItem sm="5">
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Vulture Stance"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Altenatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. 
+| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Vulture Stance"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. 
 | <Skill name="Vipers Nest" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>. |
 | <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. |
 | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM! |
@@ -138,7 +141,7 @@ Although Axe/Dagger benches higher, typically this build is only run in 100CM wh
 <Grid>
 <GridItem sm="6">
 <Card title="Information">
-When playing <Specialization name="Soulbeast" text="Condi Soulbeast"/> in 100CM, <Trait name="Light on your Feet"/> is much more attractive choce than <Trait name="Quickdraw"/> which is used in raids. The reason being that Ai moves around far too much for you to be able to benefit from using skills like <Skill name="Bonfire"/> twice in most cases. Also the with some strategic dodging during movement and downtime you can keep a very high <Trait name="Light on your Feet"/> uptime especially during your bursts which leads to very high DPS.
+When playing <Specialization name="Soulbeast" text="Condi Soulbeast"/> in 100CM, <Trait name="Light on your Feet"/> is much more attractive choice than <Trait name="Quickdraw"/> which is used in raids. The reason being that Ai moves around far too much for you to be able to benefit from using skills like <Skill name="Bonfire"/> twice in most cases. Also with some strategic dodging during movement and downtime you can keep a very high <Trait name="Light on your Feet"/> uptime especially during your bursts which leads to very high DPS.
 
 The rotation in general is very simple, just keep rotating between your Shortbow and Dagger/Torch set using your utility skills as often as you can. When you get to the point of auto attacking use your <Skill id="42944"/> skills to fill.
 
@@ -200,3 +203,4 @@ In 100CM boons get stripped but unique buffs do not, so you can precast these sk
 </Card>
 </GridItem>
 </Grid>
+
