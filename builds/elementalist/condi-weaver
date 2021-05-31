@@ -44,9 +44,11 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
 <Consumables foodId="12464" utilityId="48917" infusionId="37130"/>
 </GridItem>
 
+<GridItem sm="12">
 <Message>
-This build requires 16 malign and 2 spiteful infusions.
+This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="spitefulagonyinfusion"/>.
 </Message>
+</GridItem>
 </Grid>
 
 <Divider text="Build"/>
@@ -94,6 +96,7 @@ If you do want to switch any of your utilites in favor of one of the skills list
 | | |
 | -- | -- |
 | <Trait name="Pyromancers Puissance" size="big" disableText/> | Can easily cover a large amount of <Boon name="Might"/> for your group at some personal DPS loss. |
+| <Trait name="Masters Fortitude" size="big" disableText/> | Provides a bit of tankiness in the form of extra vitality for minimal DPS loss. |
 </Card>
 
 <Card title="Defiance Bar Damage">
@@ -118,22 +121,9 @@ If you do want to switch any of your utilites in favor of one of the skills list
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
-<GridItem xs="12" sm="6">
-
+<GridItem xs="12" sm="12">
 <Card title="Disclaimer">
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
-</Card>
-</GridItem>
-
-<GridItem xs="12" sm="6">
-<Card title="Important Notes">
-
-- <Skill name="Signet of Fire"/> is one or your most important DPS skills. Use it off cooldown!
-
-- Make sure to always use <Skill name="Glyph of ELemental Power"/> in <Skill name="Fire Attunement"/>. If the boss is about to phase or die, your next best option is to use it in <Skill name="Earth Attunement"/>. If you find yourself is any other element, you should use it regardless, as it grants increased strike damage on your next few attacks.
-
-- <Skill name="Primordial Stance"/> should be used during <Skill name="Earth Attunement" disableText/> <Skill name="Earth Attunement" disableText/> for maximum damage output. However, if the boss' breakbar is about to be broken or about to phase, you can also use it during <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/> or <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
-
 </Card>
 </GridItem>
 
@@ -151,7 +141,7 @@ Precasting build template:
 
 <Traits unembossed traits1="Arcane" traits1Selected=",,Elemental Surge" traits2="Air" traits2Selected="One with air, Fresh Air" traits3="Weaver" traits3Selected=", Weavers Prowess, Elements of Rage"/>
 
-### **Extra Precast**  
+### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak)**
 If you have an extra set of weapons (or legendary sigils), you can also precast the effects of <Item name="Doom"/> and <Item name="Leeching"/>. To do that:
 - Switch to the sigils, fall below the stairs before the boss' arena to get in combat and switch to any attunement.
 - Once you are out of combat, you can switch the sigils back to <Item name="Earth"/> and <Item name="Geomancy"/>.
@@ -416,5 +406,20 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 1. <Skill name="Searing Slash"/>
 2. <Skill name="Lava Skin"/>
 3. <Skill name="Earthen Vortex"/>
+</GridItem>
+</Card>
+
+<GridItem xs= "12" sm="12">
+<Card title="Important Notes">
+
+- <Skill name="Signet of Fire"/> is one or your most important DPS skills. Use it off cooldown!
+
+- Make sure to always use <Skill name="Glyph of ELemental Power"/> in <Skill name="Fire Attunement"/>. If the boss is about to phase or die, your next best option is to use it in <Skill name="Earth Attunement"/>. If you find yourself is any other element, you should use it regardless, as it grants increased strike damage on your next few attacks.
+
+- <Skill name="Primordial Stance"/> should be used during <Skill name="Earth Attunement" disableText/> <Skill name="Earth Attunement" disableText/> for maximum damage output. However, if the boss' breakbar is about to be broken or about to phase, you can also use it during <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/> or <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
+
+- Although it is important to finish auto attack chains, during <Skill name="Weave Self"/>, you should prioritize using your skills and entering <Skill name="Tailored Victory"/>, even if it means skipping some auto attacks. Maintaining the <Skill name="Fire Attunement" disableText/> buff of <Skill name="Weave Self"/> is most important.
+
+- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is different from the 1st. However, due to the faster nature of fractal bosses, you will either phase the boss before you reach the 2nd rotation or will be enough downtime to reset to the written rotation when <Skill name="Weave Self"/> is on cooldown.
 </GridItem>
 </Card>
