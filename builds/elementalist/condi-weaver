@@ -276,6 +276,22 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <Card title="Golem Rotation">
 <Video youtube="-wDSKO_Ings" caption="by Roul [SC]" />
 </Card>
+
+<GridItem xs= "12" sm="12">
+<Card title="Important Notes">
+
+- <Skill name="Signet of Fire"/> is one or your most important DPS skills. Use it off cooldown!
+
+- Make sure to always use <Skill name="Glyph of ELemental Power"/> in <Skill name="Fire Attunement"/>. If the boss is about to phase or die, your next best option is to use it in <Skill name="Earth Attunement"/>. If you find yourself is any other element, you should use it regardless, as it grants increased strike damage on your next few attacks.
+
+- <Skill name="Primordial Stance"/> should be used during <Skill name="Earth Attunement" disableText/> <Skill name="Earth Attunement" disableText/> for maximum damage output. However, if the boss' breakbar is about to be broken or about to phase, you can also use it during <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/> or <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
+
+- Although it is important to finish auto attack chains, during <Skill name="Weave Self"/>, you should prioritize using your skills and entering <Skill name="Tailored Victory"/>, even if it means skipping some auto attacks. Maintaining the <Skill name="Fire Attunement" disableText/> buff of <Skill name="Weave Self"/> is most important.
+
+- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is different from the 1st. However, due to the faster nature of fractal bosses, you will either phase the boss before you reach the 2nd rotation or will be enough downtime to reset to the written rotation when <Skill name="Weave Self"/> is on cooldown.
+</GridItem>
+</Card>
+
 </GridItem>
 </Grid>
 
@@ -406,20 +422,5 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 1. <Skill name="Searing Slash"/>
 2. <Skill name="Lava Skin"/>
 3. <Skill name="Earthen Vortex"/>
-</GridItem>
-</Card>
-
-<GridItem xs= "12" sm="12">
-<Card title="Important Notes">
-
-- <Skill name="Signet of Fire"/> is one or your most important DPS skills. Use it off cooldown!
-
-- Make sure to always use <Skill name="Glyph of ELemental Power"/> in <Skill name="Fire Attunement"/>. If the boss is about to phase or die, your next best option is to use it in <Skill name="Earth Attunement"/>. If you find yourself is any other element, you should use it regardless, as it grants increased strike damage on your next few attacks.
-
-- <Skill name="Primordial Stance"/> should be used during <Skill name="Earth Attunement" disableText/> <Skill name="Earth Attunement" disableText/> for maximum damage output. However, if the boss' breakbar is about to be broken or about to phase, you can also use it during <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/> or <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
-
-- Although it is important to finish auto attack chains, during <Skill name="Weave Self"/>, you should prioritize using your skills and entering <Skill name="Tailored Victory"/>, even if it means skipping some auto attacks. Maintaining the <Skill name="Fire Attunement" disableText/> buff of <Skill name="Weave Self"/> is most important.
-
-- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is different from the 1st. However, due to the faster nature of fractal bosses, you will either phase the boss before you reach the 2nd rotation or will be enough downtime to reset to the written rotation when <Skill name="Weave Self"/> is on cooldown.
 </GridItem>
 </Card>
