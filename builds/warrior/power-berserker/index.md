@@ -1,11 +1,11 @@
 ---
 title: 'Power Berserker'
-date: '2021-02-24'
+date: '2021-05-31'
 rating: 'Power Meta'
 role: 'Damage'
 profession: 'Warrior'
 specialization: 'Berserker'
-benchmark: { small: { dps: 33349, by: 'Allan [SC]', youtube: '4tKu5_7qzLM' } }
+benchmark: { small: { dps: 33563, by: 'KingMarcus.1408', youtube: 'LxHu4l36Zl0' } }
 teaserVideo: ''
 skills: [14407, 14405]
 traits: [1444, 1977, 2049]
@@ -59,7 +59,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 - Alternative gear for 162 <Attribute name="Agony Resistance"/>: full berserker gear with <Item id="24723"/>. This variant is superior for PuG groups due to not relying on <Item name="scholar"/>. However, higher <Attribute name="Agony Resistance"/> builds will not benefit from the additional <Attribute name="Precision"/> as much as this variant, so it is recommended to stick with <Item name="scholar"/> since it provides a strict upgrade path.
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
+<Armor weight="Heavy" helmAffix="Assassin" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
 
 </GridItem>
 
@@ -70,7 +70,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
+<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 <Card title="Extra Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 * Warhorn for pre-stacking <Boon name="Might"/>.
@@ -88,7 +88,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants! 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 <Card title="Requirements:">
 * All fractal augumentations
 * 18x <Item id="49432"/>
@@ -103,7 +103,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
+<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
 <Card title="Extra Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 * Warhorn for pre-stacking <Boon name="Might"/>.
@@ -120,7 +120,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 You are an actual mad lad for considering this build. It costs about 3500 gold... You gain 41 power more over the 222 AR build. It is up to you to decide if you want to pay over 80g per extra power. 
 <Grid>
 <GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
+<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
 </GridItem>
@@ -138,7 +138,7 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 </GridItem>
 
 <GridItem sm="4">
-<BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="49439" accessory2InfusionId="49438" ring1Infusion1Id="49438" ring1Infusion2Id="49438" ring1Infusion3Id="49438" ring2Infusion1Id="49438" ring2Infusion2Id="49438" ring2Infusion3Id="49438"/>
+<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="49439" accessory2InfusionId="49438" ring1Infusion1Id="49438" ring1Infusion2Id="49438" ring1Infusion3Id="49438" ring2Infusion1Id="49438" ring2Infusion2Id="49438" ring2Infusion3Id="49438"/>
 <Card title="Extra Weapons">
 * Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 * Warhorn for pre-stacking <Boon name="Might"/>.
@@ -158,7 +158,7 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Forceful Greatsword, Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint, Doubled Standards, Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct, Blood Reaction, Bloody Roar"/>
+<Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance, Great Fortitude, Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint, Doubled Standards, Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct, Blood Reaction, Bloody Roar"/>
 <Card title="Maximizing berserk uptime">
 For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. Two such examples can be seen below for the first two bosses of the Nightmare CM fractal:
 ### **Mama**
@@ -312,11 +312,13 @@ or depending on the phase length:
 - <Skill name="Throwaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
 
 </Card>
+
+
 </GridItem>
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
-<Video youtube="4tKu5_7qzLM" image="https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2015/08/23e4aElite_Headbutt-590x331.jpg" caption="by Allan [SC]" />
+<Video youtube="LxHu4l36Zl0" image="https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/2015/08/23e4aElite_Headbutt-590x331.jpg" caption="by KingMarcus.1408" />
 </Card>
 </GridItem>
 </Grid>
