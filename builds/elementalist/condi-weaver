@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
 benchmark: { small: { dps: 39278, by: 'Roul [SC]', youtube: '-wDSKO_Ings' } }
-skills: [9251, 9153]
+skills: [43638, 5542, 40183]
 boons: ['Might', 'Stability', 'Swiftness', 'Regeneration']
 conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding', 'Chilled']
 code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
