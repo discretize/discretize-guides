@@ -39,7 +39,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 <Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpent slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 
 - Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reason why <Specialization name="Guardian"/> is very strong at this boss. Do not miss this.
-- Save some <Skill id="9168"/> for a quicker add kill. 
+- Use one <Skill id="9168"/> at the start of every phase and save one <Skill id="9168"/> for every add. 
 - It is beneficial to take a sword here to quickly blink to the add.
 - Use <Skill name="Wings of resolve"/> to navigate around and keep your HP up.
 - Use <Skill name="Bane Signet"/> to help with CC and buff your party.
@@ -59,9 +59,10 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 - No matter what group you are running with, start on scepter/sword! 
 - If you are running in a PuG or just clear it daily, it is beneficial to delay your traps slightly, to fit more of the hits into the cc bar. 
 - In a fast team save <Skill name="bindingblade"/> for the 2nd phase when the adds spawn, if not use it. Just make sure to press it when the adds are in range for big DPS.
+- Use <Skill id="30364"/> and <Skill name="bindingblade"/> only if it's during second's phase expose up again.
 
 ### *1st Add*
-- Use <Skill name="spearofjustice"/> on your add for the modifier from <Trait name="biggamehunter"/>. 
+- Use <Skill id="9168"/> for <Condition name="vulnerability"/> and damage. 
 - <Skill name="Whirling wrath"/> and a couple AA to kill it.
 - Use <Skill name="wingsofresolve"/>, <Skill name="Symbol of blades"/> and <Skill name="Leapoffaith"/> for movement.
 
@@ -69,7 +70,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Try to end on scepter/sword.
 
 ### *2nd Add*
-- Use <Skill name="spearofjustice"/> on your add for the modifier from <Trait name="biggamehunter"/>. 
+- Use <Skill id="9168"/> for <Condition name="vulnerability"/> and damage.. 
 - Kill it with a symbol and AAs.
 - In fast runs you might wanna save a <Skill name="Swordofjustice"/>.
 
@@ -93,6 +94,7 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 <Boss name="Skorvald" video="" videoCreator="" foodId="91805" utilityId="9443" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" >
 - Bring <Skill name="standyourground"/> if you have the feeling that your team can't cover <Boon name="Stability"/>.
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
+- In fast groups you want to play with <Trait name="heavylight"/> instead of <Trait name="biggamehunter"/>
 </Boss>
 
 ### **Burn phases**
@@ -140,7 +142,9 @@ You can kill the first two adds with a greatsword. You can use traps on the 2nd 
 - Bad teams: start on greatsword and do SC rotation
 - Your goal is to start on scepter/sword at every 10% burn phase, that is why you need to consider weapon swaps carefully. 
 - Use <Skill name="binding blade"/> to pull adds. Do not abuse it to farm DPS! Not pulling the adds might kill you during the bloom phase and cost more DPS!
-- Cast <Skill name="Bane Signet"/> early, so you get more DPS time. 
+- Timings to use <Skill name="banesignet"/>:
+    1. Use it two times at the singularity before the encounter starts.
+    2. Use it slightly before phase 3, 5 and 6 start.
 - There are two ways to do the blooms fast: 
     1. Walk into the lightning and auto-attack with the scepter. Use <Skill name="Wings of Resolve"/> to jump back to the middle.
     2. Walk into the lightning and auto-attack with the greatsword. After the bloom bounces towards the pillar use <Skill name="Leap of faith"/> on the bloom to finish it. Immediately use <SpecialActionKey name="hypernovalaunch"/> to jump back into the middle.
