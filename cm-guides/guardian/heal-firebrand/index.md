@@ -4,9 +4,7 @@ build: 'Heal-Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
 date: '2021-02-24'
-disableOrganized: 'false'
-altText: 'true'
-disableBosses: ['LightAi', 'DarkAi']
+disableOrganized: 'true'
 ---
 
 <Boss name="mama" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2Id="9125" utility3Id="9093" eliteId="43357" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125" >
@@ -513,3 +511,161 @@ Annotation:
 1) If possible make sure you use <SpecialActionKey name="hypernovalaunch"/> to CC the adds
 2) The _Archdiviner_ spawns AoE's that strips boons, avoid them!
 3) Use <SpecialActionKey name="hypernovalaunch"/> to blast the many firefields placed from <Skill name="tomeofjustice"/> Chapter 4
+
+
+
+<Boss name="LightAi" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Signet of Wrath" utility3="Sanctuary" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125" >
+
+* When <Instability name="Afflicted"/> is present, run <Skill name="Mantra of Lore"/> instead of <Skill name="Signet of Wrath"/>. You will still be able to share <Attribute name="Condition Damage"/> through <Trait name="Wrath of Justice"/>. You can also take this skill if people struggle with attacks that inflict conditions during the fire phase.
+* Other good utility skills are <Skill name="Retreat"/> for extra <Boon name="Aegis"/> or <Skill name="Bow of Truth"/> for extra healing.
+* When more healing or the extra CC on <Skill name="Sanctuary"/> from <Trait name="Master of Consecrations"/> is needed, consider swapping to the Virtues variant.
+* If you do not need the <Boon name="Resolution"/> and <Boon name="Stability"/> from <Skill name="Mantra of Liberation"/> feel free to swap to another elite skill.
+* If your group has multiple <Specialization name="Firebrand" text="Condi Firebrand"/> keeping up <Boon name="Fury"/>, you can swap to Mace for extra healing and <Boon name="Aegis"/>.
+
+</Boss>
+
+
+### **General**
+* This guide is meant to give an idea for keeping up boons on the actual boss fight.
+* The general rules from the build guide still apply.
+* Use <Skill name="Mantra of Solace"/> down to 2 charges and <Skill name="Mantra of Potence"/> down to 0 charges whenever stacked. Share <Skill name="Signet of Wrath"/> whenever you can. This applies to the skill as well as the <Trait name="Wrath of Justice"/> version.
+* You will need to time your heals differently based on which attacks your group gets hit by.
+
+
+### **Preparation**
+* Make sure to communicate with your group whether you will break the boss at the edge or in the center.
+* Since most PuGs break the boss in the center, this is what the guide will focus on. If your group breaks on the edge, keep in mind that the CC window is shorter so prioritise getting out all CC quickly there.
+* Communicate who in your group has a <Item name="White Mantle Portal Device"/>. Prioritise using it at 66% if you only have 1 in the group.
+
+
+### **Prestacking**
+* Once the fight starts, all boons will be stripped. However you are still able to pre-stack unique buffs like sharing <Skill name="Signet of Wrath"/> through <Trait name="Perfect Inscriptions"/>.
+
+
+### **100%-Cloud Phase**
+
+* Start on Staff. Make sure to not trigger the boss with an auto-attack before everyone is in range.
+* Use <Skill name="Symbol of Swiftness"/> in the center to give <Boon name="Swiftness"/> so everyone can chase Ai after the first dash faster.
+* Once you are in combat, start giving boons immediately by using <Skill name="Empower"/> and cast <Skill name="Mantra of Solace"/> once and <Skill name="Mantra of Potence"/> as often as you can. This will provide instant <Boon name="Quickness"/> and <Boon name="Might"/>.
+* While running towards the edge to the boss, use <Skill name="Signet of Wrath"/> open your <Skill name="Tome of Justice"/> and use skill 4 on the boss to trigger <Trait name="Wrath of Justice"/>. Blast the fire field with <Skill name="Holy Strike"/> and swap to Axe.
+* Use <Skill name="Symbol of Vengeance"/> to provide <Boon name="Fury"/> and use <Skill name="Shield of Judgment"/> for <Boon name="Protection"/>.
+* You will be able to use <Skill name="Symbol of Vengeance"/> a second time before Ai dashes back to the center.
+* When Ai dashes back to the center, swap to Staff and start spreading out early. This way you will be ready to give <Boon name="Might"/> once everyone is stacked back together.
+* If your group repeatedly struggles with the arrow mechanic during the spread, consider entering your <Skill name="Tome of Courage"/> an placing the skill 3 in the center to counter the projectiles.
+* After the spread attack is over, dodge towards the center through her attacks and give boons again with <Skill name="Empower"/>, <Skill name="Symbol of Swiftness"/> and <Skill name="Symbol of Vengeance"/>. This should also heal back anyone to full HP.
+* Place your <Skill name="Sanctuary"/> on the boss but save your other CC for later as you ideally want to finish breaking the bar during the 4th attack or once the red AoE appears.
+* Use <Skill name="Shield of Judgment"/> on the 3rd attack (the full 360° AoE) to ensure your group has <Boon name="Aegis"/> and <Boon name="Protection"/> since this attack hits multiple times.
+* If the breakbar is still up after this, finish it off with <Skill name="Blazing Edge"/>, <Skill name="Shield of Absorption"/> and <Skill name="Tome of Justice"/> skill 3.
+* If equipped, you can use <Skill name="Mantra of Liberation"/> to grant <Boon name="Stability"/> to your group in case they dodge the attacks away from the boss and into the outer attacks.
+* If you get the boss to 66% in the center, you will move on to the Meteor phase, otherwise the boss will dash to the outside and back to the center and you will see the cloud phase. Get out of the center quickly in this case.
+
+### **Cloud Phase**
+
+* This phase is rather easy and the time limit is not very strict so focus on not getting hit by your own or other people's AoEs.
+* If someone gets hit in this phase, they will also have Agony, so try to heal them up after the phase ends.
+
+### **Cloud Phase-66%**
+
+* Keep your priority as above and handle her attacks the exact same way as before the cloud phase.
+
+
+### **66% Meteor Phase**
+
+* If you have a <Item name="White Mantle Portal Device"/>, place it in the center.
+* Head towards the edge of the arena. Make sure to be on Staff and give <Boon name="Swiftness"/>.
+* If you ever get separated, try to move towards the rest of your group between meteor explosions.
+* During the 4th set of meteors 2 people will get targeted by meteors that will explode shortly after the 4th set.
+* With Portal: Open your portal once you see the personal meteors but do not take it until the shockwaves of the 4th meteor set has passed the center.
+* Without Portal: Wait until the 4th set of meteors exploded, then run towards the center and double-dodge across the shockwave to also dodge the explosion of the personal meteors at the same time.
+* If your group struggles with this, give them some <Boon name="Stability"/> through <Skill name="Mantra of Liberation"/> or <Skill name="Tome of Courage"/>.
+* Get ready to condi cleanse your group in the center and stack boons again.
+* If someone goes downstate, immediately go to rez them instead and give <Boon name="Aegis"/> while rezzing through <Skill name="Mantra of Solace"/> so you do not get interrupted by potential exploding rocks.
+* Hide behind the safe rock with your group and give <Boon name="Aegis"/> or <Boon name="Stability"/> if your group struggles to dodge the explosion afterwards.
+ 
+### **66% - 33%**
+
+* Handle attacks the same way as in Phase 1. The same "rotation" can be applied, however most attacks in this phase apply <Condition name="Burning"/>.
+* After the spread, phase the boss in the center to 33% or you have to deal with the 2nd meteor phase.
+* 2nd Meteor Phase: The personal meteors spawn during the first (and only) set of meteors in this phase and go off faster than at 66%. Pay attention to the orange AoE indicator on the meteors to know when to double-dodge to the center. After this, handle the phase the same as the 66% meteor phase.
+* If you did not phase to 33%, handle the mechanics the same way as before.
+
+### **33% Water Phase**
+
+* Move towards the center with your group after you get pushed back but make sure everyone stays in the green circles.
+* Outhealing the greens is rather easy and can be achieved by simply placing symbols and using <Skill name="Mantra of Solace"/>.
+* If someone downs in this phase, make sure to take the tether from them first and then start reviving them.
+* There will be 4 blooms spawning, starting north and going clockwise with the last one spawning west. Make sure to be on Staff to give <Boon name="Might"/> when the west bloom is active and the boss returns.
+* If you have no stacks when the last bloom spawns in, wait until the person got a few stacks and then take it over so that nobody gets left behind building up too many stacks while moving to the boss.
+
+
+### **33%-0%**
+
+* The water tornadoes in this phase are significantly harder to avoid than the previous AoEs.
+* After Ai dashes to the side, follow her but stay in the remaining green AoE.
+* You can side-step the first 2 tornadoes while moving to the boss, you can avoid the 3rd one (from the left side) by standing in between the tornadoes. Once the 4th set (from the right side) reaches you, dodge into the wall to avoid the 4th and 5th set at the same time.
+* If your group struggles with this, open your <Skill name="Tome of Courage"/> when the 3rd set is coming in and use skill 5 and 4. This will give your group some extra <Attribute name="Toughness"/> as well as <Boon name="Protection"/> and <Boon name="Resistance"/> to counter the <Condition name="Slow"/>.
+* After the spread, finish her off in the center or you have to deal with the 2nd water phase.
+* During the 2nd water phase there will be more blooms spawning as well as Ai being covered by a tornado that reflects projectiles so be careful and do not use your Staff auto-attack.
+* If your group struggles with this phase, try to stay at the edge of the arena instead of staying close to the tornado in the center and move back once you see the boss coming back.
+* After this handle the mechanics the same way as before until Ai is dead.
+ 
+
+
+<Boss name="DarkAi" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Signet of Wrath" utility3="Sanctuary" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125" >
+
+* When <Instability name="Afflicted"/> is present, run <Skill name="Mantra of Lore"/> instead of <Skill name="Signet of Wrath"/>. You will still be able to share <Attribute name="Condition Damage"/> through <Trait name="Wrath of Justice"/>. You can also take this skill if people struggle with attacks that inflict conditions during the fire phase.
+* Other good utility skills are <Skill name="Retreat"/> for extra <Boon name="Aegis"/> or <Skill name="Bow of Truth"/> for extra healing.
+* When more healing or the extra CC on <Skill name="Sanctuary"/> from <Trait name="Master of Consecrations"/> is needed, consider swapping to the Virtues variant.
+* If your group has multiple <Specialization name="Firebrand" text="Condi Firebrand"/> keeping up <Boon name="Fury"/>, you can swap to Mace for extra healing and <Boon name="Aegis"/>.
+
+</Boss>
+
+### **General**
+* A lot of attacks work similar to Light Ai. However the elemental attacks are replaced by lasers. This means you can handle most mechanics the same way as before.
+
+
+### **Preparation**
+* Make sure to communicate with your group whether you will break the boss after the 1st or 2nd dash.
+* Since most PuGs break the boss after the 2nd dash, this is what the guide will focus on. If your group breaks after 1st dash, keep in mind that the CC window is shorter so prioritise getting out all CC quickly there.
+* Decide how to split at 33%. There will be 2 Sorrows spawning. When looking from the center towards the Guilt, one Sorrow will be left and one will be right of the Guilt. Most groups will have supports left and DPS right.
+
+
+### **Prestacking**
+* Once the fight starts, all boons will be stripped. However you are still able to pre-stack unique buffs like sharing <Skill name="Signet of Wrath"/> through <Trait name="Perfect Inscriptions"/>.
+
+### **100%-66%**
+* Start on Staff. Make sure to not trigger the boss with an auto-attack before everyone is in range.
+* Use <Skill name="Symbol of Swiftness"/> in the center to give <Boon name="Swiftness"/> so everyone can chase Ai after the first dash faster. Cast <Skill name="Mantra of Solace"/> once and <Skill name="Mantra of Potence"/> as often as you can. This will provide instant <Boon name="Quickness"/> and <Boon name="Might"/>.
+* While running towards the edge to the boss, use <Skill name="Signet of Wrath"/>, open your <Skill name="Tome of Justice"/> and use skill 4 on the boss to trigger <Trait name="Wrath of Justice"/>. Blast the fire field with <Skill name="Holy Strike"/>.
+* Once you are at the edge, use <Skill name="Empower"/> and swap to Axe.
+* Use <Skill name="Symbol of Vengeance"/> to provide <Boon name="Fury"/> and use <Skill name="Shield of Judgment"/> for <Boon name="Protection"/>.
+* When Ai dashes a 2nd time, swap to Staff and start spreading out early. This way you will be ready to give <Boon name="Might"/> once everyone is stacked back together.
+* If your group repeatedly struggles with the arrow mechanic during the spread, consider entering your <Skill name="Tome of Courage"/> an placing the skill 3 in the center to counter the projectiles.
+* After the spread attack is over, dodge towards Ai through her attacks and give boons again with <Skill name="Empower"/>, <Skill name="Symbol of Swiftness"/> and <Skill name="Symbol of Vengeance"/>. This should also heal back anyone to full HP.
+* Place your <Skill name="Sanctuary"/> on the boss but save your other CC for later as you ideally want to finish breaking the bar during the 4th attack or once the red AoE appears. You can skip <Skill name="Sanctuary"/> here if your group is able to break the bar without it, phases fast AND if you need to use it at 66% for the Sorrow.
+* Use <Skill name="Shield of Judgment"/> on the 3rd attack (the full 360° AoE) to ensure your group has <Boon name="Aegis"/> and <Boon name="Protection"/> since this attack hits multiple times.
+* If the breakbar is still up after this, finish it off with <Skill name="Blazing Edge"/>, <Skill name="Shield of Absorption"/> and <Skill name="Tome of Justice"/> skill 3.
+* If equipped, you can use <Skill name="Mantra of Liberation"/> to grant <Boon name="Stability"/> to your group in case they dodge the attacks away from the boss and into the outer attacks.
+* After this, Ai will dash to another side and do these 2 attacks again. However there will be no breakbar up this time so you will have to spread out unless you get to 66% before the spread attack starts. Handle this the same way as before.
+* If your group downs to the blue AoEs make sure to revive them fast but make sure to stand outside of them while reviving. As always make sure to give <Boon name="Aegis"/> while reviving.
+
+
+### **66% Sorrow Phase**
+* Whenever you reach 66%, Ai will dash to the center and start this phase.
+* You will be able to outheal the constant damage happening in the center with your symbols.
+* CC from range with <Skill name="Sanctuary"/>, <Skill name="Blazing Edge"/> and <Skill name="Tome of Justice"/> skill 3. If needed, use <Skill name="Shield of Absorption"/>. However you will need to be closer with this.
+* If someone steps too close to the Sorrow and downs make sure to pick them up fast and spam <Boon name="Aegis"/> while doing so.
+* Once the Fears start spawning, open your <Skill name="Tome of Courage"/> and use skill 5 and 1 to grant <Boon name="Stability"/> and <Boon name="Protection"/> to your group.
+* If the boss moves to the edge again, follow her but be careful with the Fears. Make sure to not leave anyone behind. If someone gets stunned by a Fear you can break them out of the stun with <Skill name="Mantra of Liberation"/>.
+* If the boss stays in the center, try to avoid the Fears and make sure to pay attention to whether someone gets hit so you can stun-break them with <Skill name="Mantra of Liberation"/> and heal them up. If a lot of people stay close to the boss, there is a very high chance that at least one Fear will explode on the group.
+* If you do not break the boss during this, you will have to spread out after the 5th attack. Try to heal people up before this after the Fears despawn if needed.
+
+### **33% Guilt/Sorrow Phase**
+
+* Whenever you reach 33%, Ai will dash to the center and start this phase.
+* Make sure you go to the correct Sorrow but keep an eye out on the other one.
+* Take the tether from the Guilt as the boss would otherwise gain a lot of incoming damage reduction and outgoing damage. Once you gain some stacks, give the tether to someone else or, if nobody is around, give it back to the boss.
+* Otherwise handle this phase exactly like the 66% Sorrow phase.
+
+### **66%-0%**
+* Handle the attacks the same way as before. Make sure to not waste <Skill name="Sanctuary"/> unless you know it will be back up for the 33% Sorrow phase.
