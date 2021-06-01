@@ -118,4 +118,4 @@ For more experienced groups it is favorable to take <Skill name="Legendary Dwarf
 
 Stack <Boon name="Might"/> while Captain Ashym runs towards you. Break his defiance bar as frequent as possible and be careful with his _Meteor Shower_ AoE skill. He also tends to block multiple times during the fight, stop wasting your skills in that case.
 
-Also pay attention to his boons as <Boon name="retaliation"/> deals high damage to yourself. At 25% health, he will equip a _Fiery Greatsword_ and gain additional skills, just make sure to end the fight quickly.
+Also pay attention to his boons as <Boon name="Resolution"/> deals high damage to yourself. At 25% health, he will equip a _Fiery Greatsword_ and gain additional skills, just make sure to end the fight quickly.

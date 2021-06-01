@@ -1,4 +1,4 @@
-
+---
 title: 'Condi Firebrand'
 date: '2021-02-24'
 rating: 'Condi Meta'
@@ -7,7 +7,7 @@ profession: 'Guardian'
 specialization: 'Firebrand'
 benchmark: { small: { dps: 36732, by: 'TJ [SC]', youtube: 'U1yYDskt3Cw' } }
 skills: [9251, 9153]
-boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
+boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Resolution', 'Aegis']
 conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
 code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 classification: [3, 4, 5, 2, 3]
