@@ -37,13 +37,14 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2OffInfusionId="49432"/>
+<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46774" weapon2MainSigil1Id="24615" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2OffInfusionId="49432"/>
 
 <Card title="Alternative weapons">
-- Greatswords and Scepters/Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
+- Greatswords and Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 - Greatswords and foci with (see [Consumables Guide](/guides/consumables))
+- Scepter for situational use
 - Maces for symbol precasting
-- Hammer and/or Staff for <Boon name="Might"/> stacking
+- Staff for <Boon name="Might"/> stacking
 </Card>
 </GridItem>
 
@@ -53,9 +54,9 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
 <Card title="Notes">
-If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore the assassins pieces. You can of course mitigate this by increasing your agony resistance. 
+If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore the assassins pieces. You can of course mitigate this by increasing your agony resistance. You need at least 203 agony resistance to compensate the lacking precision.
 
-It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Retaliation"/>.
+It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
 </Card>
 </GridItem>
 </Grid>
@@ -69,12 +70,13 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46769" weapon2MainSigil1Id="24615" weapon2MainType="Scepter" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2OffInfusionId="37131" />
+<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46774" weapon2MainSigil1Id="24615" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2OffInfusionId="37131" />
 
 <Card title="Alternative weapons">
-- Greatswords and Scepters/Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
+- Greatswords and Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 - Greatswords and foci with (see [Consumables Guide](/guides/consumables))
-- Hammer for <Boon name="Might"/> stacking
+- Scepter for situational use
+- Staff for <Boon name="Might"/> stacking
 </Card>
 </GridItem>
 
@@ -132,7 +134,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Divider text="Details"/>
 As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
 
-Generally it is important to apply <Boon name="Retaliation"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersretribution"/> your heal skill applies long lasting  <Trait name="retribution"/>. Since your <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> share the same cooldown they will line up perfectly. You can also trigger a <Skill id="13677"/> by losing health below the 75% threshould to trigger <Trait id="648"/>, however you need to be careful to not die. 
+Generally it is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersretribution"/> your heal skill applies long lasting  <Trait name="retribution"/>. Since <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> have almost the same cooldown they will line up well (<Skill name="processionofblades"/> has a slightly shorter cooldown thanks to <Trait name ="piercinglight"/>). You can also trigger a <Skill id="13677"/> by losing health below the 75% threshould to trigger <Trait id="648"/>, however you need to be careful to not die. 
 
 
 
@@ -148,26 +150,25 @@ For that reason you will find some general notes for skill usage here.
 </Card>
 <Card title="Precasting">
 If you have a Mistlock Singularity present you can use these skills for precasts:
-1) Cast <Skill name="litany of wrath"/> for <Boon name="Retaliation"/>
-2) Blast a fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
-4) Use <Skill name="Stand your ground"/>
+1) Cast <Skill name="litany of wrath"/> for <Boon name="Resolution"/>
+2) Use <Skill name ="Save yourselves"/> or <Skill name ="hallowedground"/>
+4) Blast a fire field with <Skill name="Holy Strike"/>
 5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take mistlock
+8) Blast a fire field with <Skill name="Holy Strike"/> again
 </Card>
 </GridItem>
 
 <GridItem xs="12" sm="6">
 <Card title="Notes on skill usage:">
-* Always start on scepter/sword
+* Always start on sword
 * Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC. 
 * Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
 * Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at __Artsariiv__, __Arkk__, __Siax__ and __Ensolyss__.
 * Don't interrupt your GS auto-attack chain.
 * In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
-* Use <Skill id="9098"/> after <Skill id="9090"/> to cancel the aftercast.
 * Don't waste your key skills on meaningless adds.
-* It's up to you whether you decide to go Scepter or Sword. Sword tends to outperform Scepter, especially in longer encounters.
 
 </Card>
 
@@ -178,13 +179,14 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 <Card title="Golem Rotation">
 **Scepter Rotation:**
 1. <Skill name="banesignet" profession="guardian"/>
-1. <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter 2)
-1. <Skill name="Sword of Justice" profession="guardian"/>
-1. <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
+1. <Skill name="Symbol of Blades" profession="guardian"/> (Sword 2)
 1. <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
-1. **Weapon Swap**
+1. <Skill name="Sword of Justice" profession="guardian"/>
 1. <Skill name="Procession of Blades " profession="guardian"/> 
-1. <Skill name="Spear of Justice" profession="guardian"/> (F1)
+1. <Skill name="spearofjustice" profession="guardian"/> (F1)
+1. <Skill name="Zealotsdefense" profession="guardian"/> (Sword 3)
+1. <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
+1. **Weapon Swap**
 1. <Skill name="Symbol of Wrath " profession="guardian"/> (GS 4)
 1. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
 1.  <Skill name="Sword of Justice" profession="guardian"/> 
@@ -207,7 +209,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
 
-- Open with <Skill name="refraction"/> for <Boon name="retaliation"/>
+- Open with <Skill name="refraction"/> for <Boon name="resolution"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
 - Priority list:
   1) <Skill name="Zealots flurry"/> (Spear 2)
