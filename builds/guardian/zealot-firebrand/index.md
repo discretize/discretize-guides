@@ -1,6 +1,6 @@
 ﻿---
 title: 'Zealot Firebrand'
-date: '2021-05-04'
+date: '2021-06-01'
 rating: 'Good'
 role: 'Hybrid'
 profession: 'Guardian'

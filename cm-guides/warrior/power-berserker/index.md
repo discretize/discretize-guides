@@ -3,8 +3,7 @@ title: 'Berserker CM guides'
 build: 'Power Berserker'
 profession: 'Warrior'
 specialization: 'Berserker'
-date: '2021-02-24'
-author: 'Princeps.6481'
+date: '2021-06-01'
 disableOrganized: 'false'
 disableBosses: ['LightAi', 'DarkAi']
 ---
