@@ -4,7 +4,6 @@ build: 'Power Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
 date: '2021-02-24'
-author: 'ganymed.3541'
 disableOrganized: 'false'
 disableBosses: ['LightAi', 'DarkAi']
 ---

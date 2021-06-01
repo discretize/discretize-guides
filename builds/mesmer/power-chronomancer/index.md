@@ -1,7 +1,7 @@
 ---
 title: 'Power Chronomancer'
 date: '2021-02-24'
-rating: 'Fair'
+rating: 'Good'
 role: 'Damage'
 profession: 'Mesmer'
 specialization: 'Chronomancer'

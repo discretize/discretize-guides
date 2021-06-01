@@ -1,15 +1,14 @@
 ﻿---
 title: 'Zealot Firebrand'
 date: '2021-05-04'
-rating: 'Offmeta'
+rating: 'Good'
 role: 'Hybrid'
 profession: 'Guardian'
 specialization: 'Firebrand'
 skills: [9093, 9153, 9251]
-boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
+boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Resolution', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-author: 'Princeps'
 classification: [5, 2, 3, 3, 4]
 ---
 
@@ -103,7 +102,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Card title="Alternative traits">
 | | |
 | -- | -- |
-| <Trait name="righthandstrength" size="big" disableText/> | When there is more than one <Specialization name="Guardian"/> present to keep up permanent <Boon name="Retaliation"/>. |
+| <Trait name="righthandstrength" size="big" disableText/> | When there is more than one <Specialization name="Guardian"/> present to keep up permanent <Boon name="Resolution"/>. |
 | <Trait name="pureofheart" size="big" disableText/> | In case the group has figured out how to upkeep <Boon name="Might"/> but struggles with heals. |
 
 </Card>
@@ -225,7 +224,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 
 It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the power variant. If you still want to play <Specialization text="Zealot Firebrand" name="Firebrand"/> for whatever reason follow these rough guidelines.
 
-- Open with <Skill name="refraction"/> for <Boon name="retaliation"/>
+- Open with <Skill name="refraction"/> for <Boon name="Resolution"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
 - Priority list:
   1) <Skill name="Zealots flurry"/> (Spear 2)
