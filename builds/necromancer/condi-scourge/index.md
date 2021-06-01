@@ -1,7 +1,7 @@
 ---
 title: 'Condi Scourge'
 date: '2021-05-15'
-rating: 'Good'
+rating: 'Offmeta'
 role: 'Damage'
 profession: 'Necromancer'
 specialization: 'Scourge'
@@ -26,6 +26,7 @@ This build also does not have a formal rotation, and instead has a prioritizatio
 Due to being a condition based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
 
 <Divider text="Equipment"/>
+Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
 <Armor weight="Light" helmAffix="Viper" helmRune="Lich" shouldersAffix="Viper" shouldersRune="Lich" coatAffix="Viper" coatRune="Lich" glovesAffix="Viper" glovesRune="Lich" leggingsAffix="Viper" leggingsRune="Lich" bootsAffix="Viper" bootsRune="Lich" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
@@ -38,12 +39,21 @@ Due to being a condition based build, it will not benefit as highly from slaying
 * This build only runs the one weapon set for its primary damage, so you can utilize a warhorn as a secondary weapon to provide extra CC to the group with <Skill name="Wail of Doom">
 
 </Card>
+
+<Card title="Situational Runes">
+* Your runes can be optimized based on your group composition, the amount of Life Force you're gaining from outside sources, if you're Epi-bouncing, etc:
+
+  * Renegade Runes will provide the greatest boost to your <Skill name="Epidemic"/> damage, but you will need to account for the loss in condition duration
+  * Tormenting Runes have a minor dps loss, but provide a large boost to personal survivability on top of your barrier generation
+  * 
+
+</Card> 
 </GridItem>
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
 
-<Consumables foodId="86997" utility="Tuning Icicle" infusion="Malign +9 Agony Infusion"/>
+<Consumables food="Plate of Beef Rendang" utility="Tuning Icicle" infusion="Malign +9 Agony Infusion"/>
 </GridItem>
 </Grid>
 
@@ -51,7 +61,7 @@ Due to being a condition based build, it will not benefit as highly from slaying
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Sadistic Searing, Demonic Lore"/>
+<Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curses" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Sadistic Searing, Demonic Lore"/>
 
 <Card title="Situational Skills">
 <Message>
@@ -70,7 +80,7 @@ If you are going to replace a skill, <Skill name="Summon Shadow Fiend"/> is your
 | <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
 | <Skill name="Trail of Anguish" size="big" disableText/> | A go-to stunbreak skill for Scourge, that can also provide some decent conditions if you step in and out of your targets hitbox to proc it multiple times. |
 | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles. |
-| <Skill name="Sand Flare" size="big" disableText/> | While not the highest dps heal skill, this provides far more utility for a group and should be taken in most situations where damage can be an issue for its group barrier. |
+| <Skill name="Signet of Vampirism" size="big" disableText/> | This can provide you a minor dps increase in situations where barrier application is not needed. |
 | <Skill name="Sand Swell" size="big" disableText/> | A useful skill that allows you to double up on blinks. |
 </Card>
 
@@ -78,7 +88,7 @@ If you are going to replace a skill, <Skill name="Summon Shadow Fiend"/> is your
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="Signet of Vampirism" utility1="Signet of Undeath" utility2="Blood is Power" utility3="Epidemic" elite="Plaguelands"/>
+<Skills heal="Sand Flare" utility1="Signet of Undeath" utility2="Blood is Power" utility3="Epidemic" elite="Plaguelands"/>
 
 <Card title="Situational Traits">
 - If necessary (usually only in underperforming groups), you can swap out Soul Reaping for Blood Magic (if you need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/>, and if needed more CC via the warhorn skill <Trait name="Banshees Wail"/>).
@@ -90,11 +100,12 @@ If you are going to replace a skill, <Skill name="Summon Shadow Fiend"/> is your
 | <Skill name="Charge" size="big" disableText/> | 200 with <Control name="Knockdown"/> and 232 with <Control name="Launch"/>| 
 | <Skill name="Garish Pillar" size="big" disableText/> | 200 with <Condition name="Fear"/> |
 | <Skill name="Oppressive Collapse" size="big" disableText/> | 200 with <Control name="Knockdown"/> |
+| <Skill name="Spectral Grasp" size="big" disableText/> | 150-750 with <Control name="Pull" /> (see situational skills) |
 </Card>
 </GridItem>
 </Grid>
 
-<Divider text="Details"/>
+<Divider text="Skill Usage"/>
 
 <Grid>
 <GridItem sm="7">
@@ -104,7 +115,7 @@ If you are going to replace a skill, <Skill name="Summon Shadow Fiend"/> is your
 
 You can preemptively cast some shades before a fight starts to begin ramping up the benefits from <Trait name="Sand Sage"/>
 
-**Prioritization:**
+**Prioritization: (Weapon/Utility Skills)**
 
 Always use this skill off-cooldown, even if it means interrupting auto-attack chains:
 1. <Skill name="Feast of Corruption"/> (Scepter 3)
@@ -113,8 +124,17 @@ Use after finishing your current auto-attack chain:
 2. <Skill name="Harrowing Wave"/> (Torch 4)
 3. <Skill name="Grasping Dead"/> (Scepter 2)
 4. <Skill name="Oppressive Collapse"/> (Torch 5)
-5. <Skill name="Blood is Power"/> (Utility)
+5. <Skill name="Blood is Power"/> (Utility) (combo this with <Skill name="Desert Shroud"/>)
 6. <Skill name="Manifest Sand Shade"/> (F1)
+
+**Shade Skills**
+
+While you perform the above prioritization, you'll be using your shade skills to get additional applications of <Condition name="Burning"/> (from <Trait name="Dhuumfire"/>)  and <Condition name="Torment"/>. Beyond ensuring you have enough Life Force to cast <Skill name="Nefarious Favor"/> and <Skill name="Desert Shroud"/> at all times, you can use any excess Life Force with the following prioritization:
+
+1. <Skill name="Nefarious Favor"/>
+2. <Skill name="Sand Cascade"/>
+3. <Skill name="Garish Pillar"/>
+
 
   
 </GridItem>
@@ -122,15 +142,20 @@ Use after finishing your current auto-attack chain:
 
 <GridItem sm="5">
 <Card title="Notes:">
-If you're using <Skill name="Summon Shadow Fiend"/> you can use <Skill name="Haunt"/> off cooldown as it has no cast time.
+- If you're using <Skill name="Summon Shadow Fiend"/> you can use <Skill name="Haunt"/> off cooldown as it has no cast time.
 
-You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically)
+- You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically)
 
-While you want to maintain 3 shades up, you still want to focus on the rest of the skill prioritization as the wasted cooldown time outweighs the minor loss of Expertise.
+- While you want to maintain 3 shades up, you still want to focus on the rest of the skill prioritization as the wasted cooldown time outweighs the minor loss of Expertise.
 
-Be sure to place shades on significant targets, as you count as a shade and will already hit your primary target with shade abilities from your character. (For example, place them on anomalies in the Shattered Observatory fractal)
+- Be sure to place shades on significant targets: your Scourge counts as a shade, and will already hit your primary target with shade abilities from your character. (For example, place them on anomalies in the Shattered Observatory fractal)
+
+- Be sure to run <Skill name="Summon Bone Minions"/> if your group has two or more Necromancers. Additionally, if your group has three (or more) Scourges you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown). 
+- Your <Trait name="Dhuumfire"/> trait has a Scourge-specific 1 second internal cooldown. Be sure to space out your shade skills (including <Skill name="Manifest Sand Shade"/> and <Skill name="Desert Shroud"/>) instead of blindly spamming them off cooldown.
+
 </GridItem>
+
+
+
 </Card>
 </Grid>
-
- 
