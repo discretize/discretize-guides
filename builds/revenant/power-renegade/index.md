@@ -1,6 +1,6 @@
 ---
 title: 'Power Renegade'
-date: '2021-04-05'
+date: '2021-06-01'
 rating: 'Power Meta'
 role: 'Damage'
 profession: 'Revenant'

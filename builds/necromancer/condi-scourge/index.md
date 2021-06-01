@@ -1,6 +1,6 @@
 ---
 title: 'Condi Scourge'
-date: '2021-05-15'
+date: '2021-06-01'
 rating: 'Good'
 role: 'Damage'
 profession: 'Necromancer'
