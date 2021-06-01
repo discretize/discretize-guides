@@ -1,7 +1,7 @@
 ---
 title: 'Power Berserker'
-date: '2021-05-31'
-rating: 'Power Meta'
+date: '2021-02-24'
+rating: 'Good'
 role: 'Damage'
 profession: 'Warrior'
 specialization: 'Berserker'

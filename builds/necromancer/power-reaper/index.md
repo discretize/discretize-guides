@@ -1,7 +1,7 @@
 ---
 title: 'Power Reaper'
 date: '2021-02-24'
-rating: 'Offmeta'
+rating: 'Fair'
 role: 'Damage'
 profession: 'Necromancer'
 specialization: 'Reaper'

@@ -1,7 +1,7 @@
 ---
 title: 'Heal Firebrand'
 date: '2021-02-24'
-rating: 'Offmeta'
+rating: 'Good'
 role: 'Support'
 profession: 'Guardian'
 specialization: 'Firebrand'
