@@ -1,6 +1,6 @@
 ---
 title: 'Condi Deadeye'
-date: '2021-05-29'
+date: '2021-06-01'
 rating: 'Condi Meta'
 role: 'Damage'
 profession: 'Thief'

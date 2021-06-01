@@ -1,6 +1,6 @@
 ﻿---
 title: 'Power Firebrand'
-date: '2021-02-24'
+date: '2021-06-01'
 rating: 'Power Meta'
 role: 'Damage'
 profession: 'Guardian'
