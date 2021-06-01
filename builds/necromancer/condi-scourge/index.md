@@ -1,7 +1,7 @@
 ---
 title: 'Condi Scourge'
 date: '2021-05-15'
-rating: 'Offmeta'
+rating: 'Good'
 role: 'Damage'
 profession: 'Necromancer'
 specialization: 'Scourge'
@@ -26,7 +26,6 @@ This build also does not have a formal rotation, and instead has a prioritizatio
 Due to being a condition based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
 
 <Divider text="Equipment"/>
-Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
 <Armor weight="Light" helmAffix="Viper" helmRune="Lich" shouldersAffix="Viper" shouldersRune="Lich" coatAffix="Viper" coatRune="Lich" glovesAffix="Viper" glovesRune="Lich" leggingsAffix="Viper" leggingsRune="Lich" bootsAffix="Viper" bootsRune="Lich" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
@@ -53,7 +52,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
 
-<Consumables food="Plate of Beef Rendang" utility="Tuning Icicle" infusion="Malign +9 Agony Infusion"/>
+<Consumables foodId="86997" utility="Tuning Icicle" infusion="Malign +9 Agony Infusion"/>
 </GridItem>
 </Grid>
 
@@ -61,7 +60,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curses" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Sadistic Searing, Demonic Lore"/>
+<Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Sadistic Searing, Demonic Lore"/>
 
 <Card title="Situational Skills">
 <Message>

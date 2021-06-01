@@ -23,31 +23,6 @@ Damage-wise the <Specialization name="Renegade"/> is on the lower end compared t
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from  <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-### **Nightmare Challenge Mode PuG videos** 
-<Grid>
-<GridItem sm="4">
-<Video caption="by Deen [dT], edited by Vince [dT]" youtube="p2wUMQEQNUY"/> 
-</GridItem>
-<GridItem sm="4">
-<Video caption="by Deen [dT], edited by Vince [dT]" youtube="FwVEqdngirM"/> 
-</GridItem>
-<GridItem sm="4">
-<Video caption="by Deen [dT], edited by Vince [dT]" youtube="eexNfMx2J_w"/> 
-</GridItem>
-</Grid>
-### **Shattered Observatory Challenge Mode PuG videos**
-<Grid>
-<GridItem sm="4">
-<Video caption="by Deen [dT], edited by Vince [dT]" youtube="BVTXG2SMP6Y"/> 
-</GridItem>
-<GridItem sm="4">
-<Video caption="by Deen [dT], edited by Vince [dT]" youtube="Mw1lAIF-n0k"/> 
-</GridItem>
-<GridItem sm="4">
-<Video caption="by Deen [dT], edited by Vince [dT]" youtube="yadsI_KvvDo"/> 
-</GridItem>
-</Grid>
-
 <Divider text="Equipment"/>
 - Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 - Check the CM-guides for information when to play 50% and 80% boon duration. For newer <Specialization name="Renegade"/>s it is recommended to play at least 80% boon duration.
