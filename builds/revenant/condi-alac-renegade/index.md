@@ -1,6 +1,6 @@
 ---
 title: 'Condi Alac Renegade'
-date: '2021-03-15'
+date: '2021-06-01'
 rating: 'Condi Meta'
 role: 'Damage'
 profession: 'Revenant'

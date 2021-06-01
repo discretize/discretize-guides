@@ -1,6 +1,6 @@
 ---
 title: 'Power Berserker'
-date: '2021-02-24'
+date: '2021-06-01'
 rating: 'Good'
 role: 'Damage'
 profession: 'Warrior'
