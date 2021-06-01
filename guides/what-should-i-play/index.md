@@ -1,6 +1,6 @@
 ---
 title: 'What Should I Play?'
-date: '2021-02-24'
+date: '2021-05-31'
 image: './images/whatshouldiplaylogo.png'
 description: 'If you do not know what class you want to play.'
 hidden: 'false'
@@ -11,7 +11,6 @@ Outline:
 1. **META:** These builds perform best in a group. [Click here](/guides/meta-explained) to find more out about how and why the current fractal META works well. The META is designed to provide the fastest clear across all fractals.
 2. **Condi META:** These builds will perfom best in 100CM, but will fall off in faster groups on other encounters [Click here](/guides/meta-explained) to find more out about how and why the current fractal META works well.
 3. **OFFMETA:** Builds in this category can substitute builds of the META category, but will provide worse performance in an optimal scenario.
-4. **OTHER:** These builds are played mostly for fun, to carry individuals or with niche uses like more cleave, boon generation and skips.
 
 <Divider text="Meta builds"/>
 
@@ -32,32 +31,6 @@ This build is rather self sufficient due to:
 Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike. 
 </Card>
 
-
-<Card specialization="Weaver">
-
-| Build | Synergy | DPS | Independence | Basics | Mastery | 
-| ---- | --------- | -- | ------------| ------ | ------- |
-| [<Specialization name="Weaver" disableLink />](/builds/elementalist/power-weaver) | <Rating value="4"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="3"/> | <Rating value="4"/> | 
-The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Sword Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some t4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
-
-Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>. 
-
-Also this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-</Card>
-
-<Card specialization="Berserker">
-
-| Build | Synergy | DPS | Independence | Basics | Mastery | 
-| ---- | --------- | -- | ------------| ------ | ------- |
-| [<Specialization name="Berserker" disableLink />](/builds/warrior/power-berserker) | <Rating value="4"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="4"/> | 
-The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
-
-Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
-
-The <Specialization text="Banner Berserker" name="Berserker"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone.
-
-Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
-</Card>
 
 <Card specialization="Renegade">
 
@@ -155,7 +128,45 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 </Card>
 
-<Divider text="Offmeta builds"/>
+<Card specialization="Deadeye" title="Condi Deadeye">
+| Build | Synergy | DPS | Independence | Basics | Mastery | 
+| ---- | --------- | -- | ------------| ------ | ------- |
+| [<Specialization name="Deadeye" disableLink />](builds/thief/condi-deadeye) | <Rating value="3"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> | 
+The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precasted on the _Mistlock Sanctuary_, and casted again as soon as your allies have consummed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an unneglectable amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consummed when the boss is vulnerable to this type of damage (up to ten stacks, two per player). 
+
+This build possesses a decent amount of self-sustain, due to <Trait id="2111"/>, but it suffers greatly from a <Boon name="Quickness"/> deficit. However, it doesn't suffer too much from a lack of <Boon name="Alacrity"/> due to the nature of _Initiative_. 
+
+
+Overall, this build is an excellent pick if taken as an alt class: it is meant for players who enjoy high-risk, high-reward rotations. Played correctly, it is excellent in PuGs on single-target bosses such as the ones from Challenge Mode Fractals, most notably Sorrowful Spellcaster (Light and Dark Ai) and Ensolyss, or any boss with little to no phases. We do not recommand running this build in 99CM, as positioning is most important there, and jumping <Skill name="shadowstrike"/> becomes terrible due to Cosmic Energy (low gravity). Details for this build can be found at the bottom of the page.
+</Card>
+
+<Divider text="Power Offmeta builds"/>
+
+<Card specialization="Weaver">
+
+| Build | Synergy | DPS | Independence | Basics | Mastery | 
+| ---- | --------- | -- | ------------| ------ | ------- |
+| [<Specialization name="Weaver" disableLink />](/builds/elementalist/power-weaver) | <Rating value="4"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="3"/> | <Rating value="4"/> | 
+The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Sword Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some t4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
+
+Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>. 
+
+Also this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+</Card>
+
+<Card specialization="Berserker">
+
+| Build | Synergy | DPS | Independence | Basics | Mastery | 
+| ---- | --------- | -- | ------------| ------ | ------- |
+| [<Specialization name="Berserker" disableLink />](/builds/warrior/power-berserker) | <Rating value="4"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="4"/> | 
+The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
+
+Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
+
+The <Specialization text="Banner Berserker" name="Berserker"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone.
+
+Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
+</Card>
 
 <Card specialization="Holosmith" title="Power Holosmith">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
@@ -165,7 +176,6 @@ The engineer build that currently fares best in fractals is the <Specialization 
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 </Card>
-
 
 <Card specialization="Reaper" title="Power Reaper">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
@@ -179,6 +189,52 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 </Card>
 
 
+<Card specialization="Chronomancer" title="Power Chronomancer">
+| Build | Synergy | DPS | Independence | Basics | Mastery | 
+| ---- | --------- | -- | ------------| ------ | ------- |
+| [<Specialization name="Chronomancer" disableLink />](/builds/mesmer/power-chronomancer) | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> | 
+The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long rampup times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient. 
+
+To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to __adapt__ your rotation on the go and push the limits of your class, but even then you will probably be a hinderance for your group.
+
+You'll provide boon removal through your clones, auto-attack chains, <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
+
+The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized.
+
+This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. 
+</Card>
+
+<Divider text="Condi Offmeta builds"/>
+<Card specialization="Scourge" title="Condi Scourge">
+| Build | Synergy | DPS | Independence | Basics | Mastery | 
+| ---- | --------- | -- | ------------| ------ | ------- |
+| [<Specialization name="Scourge" disableLink />](/builds/necromancer/condi-scourge) | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="3"/> | 
+
+The <Specialization name="Scourge" text="Condi Scourge"/> is an easy to learn build that provides access to good off-support tools, can be augmented to provide the means to provide a safety net at an acceptable dps loss with the Blood Magic traitline (without any stat changes), and can place conditions/cc on multiple targets simultaneously with its shades and <Skill name="Epidemic">. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools it can help
+
+<Specialization name="Scourge" text="Condi Scourge"/> has multiple offensive control skill options: (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Scourge" text="Condi Scourge"/> and can modify itself to fit many given situations in fractals.
+
+This build also does not have a formal rotation, and instead has a prioritization for its skills making it easy to focus on side objectives and quickly pick up where you left off in dealing damage.
+
+Due to being a condition based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
+
+</Card>
+
+<Card specialization="Weaver" title="Condi Weaver">
+| Build | Synergy | DPS | Independence | Basics | Mastery | 
+| ---- | --------- | -- | ------------| ------ | ------- |
+| [<Specialization name="Weaver" disableLink />](/builds/elementalist/condi-weaver) | <Rating value="3"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="5"/> | 
+
+The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak), and will almost always outperform <BuildLink build="Power Weaver" specialization="Weaver"/> (if you find yourself in a slow group, this build can also be an attractive choice for ''slower'' encounters like Ensolyss and Arkk).
+
+Condi <Specialization name="Weaver"/> can deal very high amounts of damage, and even rival [META](/guides/meta-explained) builds like <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> and <BuildLink build="Condi Firebrand" specialization="Firebrand"/> when played properly.
+
+This build is naturally tanky due to its rotation, having easy access to skills that provide evasion frames with <Skill name="Earthen Vortex"/>, barrier with <Skill name="Lava Skin"/>, condition cleansing with <Skill name="Magnetic Wave"/> and even <Skill name="Obsidian Flesh"/>, a powerful skill that grants <Effect name="Invulnerability"/> against most attacks. It can also bring some group utility in the form of projectile destruction with <Skill name="Swirling Winds"/>.
+ 
+The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apart from the complexity of its rotation is the lack of unique party buffs and overall boon generation, apart from some <Boon name="Might"/> granted by placing fire fields and randomly blasting them.
+</Card>
+
+<Divider text="Heal builds"/>
 <Card specialization="Firebrand" title="Heal Firebrand">
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
@@ -196,49 +252,6 @@ When <Instability name="Afflicted"/> is present or enemies are applying conditio
 
 If you play this build we highly recommend learning the <Skill name="Bane Signet"/> share variant. If you want a good and smooth run, take a look at the [Fractal Pages](/fractals). This class will not be doing much damage but understanding how the class works best and when to do <Skill name="Bane Signet"/> sharing is important! 
 </Card>
-
-<Card specialization="Chronomancer" title="Power Chronomancer">
-| Build | Synergy | DPS | Independence | Basics | Mastery | 
-| ---- | --------- | -- | ------------| ------ | ------- |
-| [<Specialization name="Chronomancer" disableLink />](/builds/mesmer/power-chronomancer) | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> | 
-The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long rampup times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient. 
-
-To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to __adapt__ your rotation on the go and push the limits of your class, but even then you will probably be a hinderance for your group.
-
-You'll provide boon removal through your clones, auto-attack chains, <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
-
-The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized.
-
-This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. 
-</Card>
-
-<Card specialization="Renegade" title="Heal Renegade">
-| Build | Synergy | DPS | Independence | Basics | Mastery | 
-| ---- | --------- | -- | ------------| ------ | ------- |
-| [<Specialization name="Renegade" disableLink />](/builds/revenant/heal-renegade) | <Rating value="4"/> | <Rating value="1"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="2"/> | 
-
-The **<Specialization text="Heal Renegade" name="Renegade"/>** plays with a mix of harrier's and cleric's gear for maximum power and healing power while still hitting 100% boon duration.
- 
-Since the damage and life steals of <Skill name="Soulcleaves Summit" /> are based on the **<Specialization text="Heal Renegade" name="Renegade"/>**'s own power and healing power, the <Specialization text="Heal Renegade" name="Renegade"/> aims to maximize those stats.
-
-Feel free to run full Harrier if you are confident that you don't need the extra healing power or toughness from cleric. The more agony resistance you have, the more cleric you can afford to run and still hit 100% boon duration.
-
-</Card>
-<Divider text="Other"/>
-
-<Tabs outlined>
-<Tab title="DPS roles">
-| | |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Specialization name="Tempest" text="Power Tempest"/> |1. Medium learning curve<br/><br/>2. Excellent cleave damage, ideal for groups of mobs<br/><br/>3. Can provide <Boon name="Might"/> and <Boon name="Fury"/> for the group<br/>[Click here for the build!](/builds/elementalist/power-tempest)<br/><br/>   |
-| <Specialization name="Daredevil" text="Power Daredevil"/> | <br/>1. Low learning curve<br/><br/>2. Consistent damage, very squishy<br/><br/>3. Can provide <Effect name="Stealth"/> for skips<br/><br/>4. Out of the Tier 4 dps classes, this class can do skips the easiest<br/><br/>[Click here for the build!](/builds/thief/power-daredevil)  |
-</Tab>
-<Tab title="Support roles">
-| | |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Specialization name="Warrior" text="Banner Warrior"/> |1. Low learning curve<br/><br/>2. Damage output compared to the META <Specialization name="Berserker"/> is much lower!<br/><br/>3. Provides 25 <Boon name="Might"/> for the group<br/><br/>4. Grants offensive buffs to theteam through traits like <Trait name="Empower Allies"/> and the banners: <Skill name="Banner of Strength"/>, <Skill name="Banner of Discipline"/><br/><br/>[Click here for the build!](/builds/warrior/banner-warrior)<br/><br/>    |
-</Tab>
-</Tabs>
 
 <Divider text="What now?"/>
 ### Read about the basics of fractals as in group compositions and instabilities [here](/guides/fractal-basics) or taking a look at how to break the Defiance bar [here!](/guides/cc-distribution)
