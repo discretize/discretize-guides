@@ -1,7 +1,7 @@
 ---
 title: 'Power Holosmith'
 date: '2021-02-24'
-rating: 'Offmeta'
+rating: 'Good'
 role: 'Damage'
 profession: 'Engineer'
 specialization: 'Holosmith'
