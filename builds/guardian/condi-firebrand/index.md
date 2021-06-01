@@ -1,4 +1,4 @@
----
+
 title: 'Condi Firebrand'
 date: '2021-02-24'
 rating: 'Condi Meta'
@@ -22,7 +22,7 @@ The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide pe
 
 This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
 - Permanent <Boon name="Quickness"/>.
-- Permanent 25x Might if you swap to <Trait name="zealous scepter"/>.
+- Good <Boon name = "Might"/> uptime.
 - <Skill id="41780"/> for heals.
 - <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
 - Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
@@ -34,16 +34,15 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 <Divider text="Equipment"/>
 
 - Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longers fights drop <Item id="24560"/> for <Item id="72339"/>.
+- If u have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>
 - Playing the raid DPS build with this traits performs almost identically.
-- <Item name="majorbursting"/> and <Item name="bursting"/> stack.
-
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Viper" helmRune="Balthazar" shouldersAffix="Viper" shouldersRune="Balthazar" coatAffix="Viper" coatRune="Balthazar" glovesAffix="Viper" glovesRune="Balthazar" leggingsAffix="Viper" leggingsRune="Balthazar" bootsAffix="Viper" bootsRune="Balthazar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="majorbursting" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="geomancy" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
 
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in Nightmare CM after MAMA.
@@ -63,7 +62,9 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Right-Hand Strength, Radiant Fire, Amplified Wrath" traits2="Zeal" traits2Selected="Fiery Wrath, Kindled Zeal, Eternal Armory" traits3="Firebrand" traits3Selected="Liberators Vow, Stalwart Speed, Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Right-Hand Strength, Radiant Fire, Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations, glacialheart, permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow, Stalwart Speed, Loremaster"/>
+If your team has a hard time applying <Condition name="Vulnerability"/> you can swap Virtues trait line with Zeal and replace <Skill name="purgingflames"/> with <Skill name ="swordofjustice"/>. Thil will help you to maintain <Condition name="Vulnerability"/> on enemies better.
+<Traits unembossed traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635"/>
 <Message>
 This build provides permanent <Boon name="Quickness"/>. For different variants, such as organized Sunqua Peak groups or full DPS, please scroll down.
 </Message> 
@@ -80,7 +81,7 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="Mantra of Solace" utility1="Sword of Justice" utility2="Mantra of Potence"  utility3="Signet of Wrath" elite="Feel My Wrath"/>
+<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence"  utility3="Signet of Wrath" elite="Feel My Wrath"/>
 
 <Card title="Situational Skills">
 | | |
@@ -107,7 +108,7 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS by making minor adjustments to the build.
 <Grid>
 <GridItem sm="4">
-<Skills unembossed heal="Mantra of Solace" utility1="Sword of Justice" utility2="Mantra of Flame"  utility3="Signet of Wrath" elite="Renewed Focus"/>
+<Skills unembossed heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Flame"  utility3="Signet of Wrath" elite="Renewed Focus"/>
 </GridItem>
 <GridItem sm="8">
 <Traits unembossed traits1="Firebrand" traits1Selected="Unrelenting Criticism, Legendary Lore, Loremaster" />
@@ -118,7 +119,7 @@ You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS 
 This build assumes the <Composition name="_CRGB" />. <BuildLink specialization="Soulbeast" build="Condi Soulbeast"/> provides <Skill name="Moa Stance"/> which greatly increases the duration of applied <Boon name="Quickness"/> and allows <Skill name="Renewed Focus" /> to be played for an additional Tome reset. Both <Specialization name="Firebrand"/> have to play this build!
 <Grid>
 <GridItem sm="4">
-<Skills unembossed heal="Mantra of Solace" utility1="Sword of Justice" utility2="Mantra of Potence"  utility3="Signet of Wrath" elite="Renewed Focus"/>
+<Skills unembossed heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence"  utility3="Signet of Wrath" elite="Renewed Focus"/>
 </GridItem>
 <GridItem sm="8">
 <Traits unembossed traits1="Firebrand" traits1Selected="Liberators Vow, Legendary Lore, Loremaster" />
@@ -131,7 +132,7 @@ This build assumes the <Composition name="_CRGB" />. <BuildLink specialization="
 To keep up <Boon name="Quickness"/>:
 
 - Use <Skill name="Feel My Wrath"/> whenever ready
-- Use <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/> but leave one charge left (unless the fight is close to being over). Keep in mind that you can use <Skill name="Restoring Reprieve"/> only every seven seconds (<Trait name="liberatorsvow"/>)!
+- Use <Skill name="	mantraofsolace"/> and <Skill name="mantraofpotence"/>. Keep in mind that <Skill name="mantraofsolace"/> does <Boon name="Quickness"/> only every seven seconds (<Trait name="liberatorsvow"/>)!
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 - Keep in mind that equipping or stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
@@ -163,10 +164,10 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 <GridItem sm="6">
 <Card title="Rotation">
 <Message>
-**Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast!**
+**Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast! Never interrupt your axe auto attack chain! Keep <Skill name ="purgingflames"/> on cooldown!**
 </Message>
 Starting on Axe:
-1. <Skill name="Sword of Justice"/>
+1. <Skill name ="purgingflames"/>
 2. <Skill name="Symbol of Vengeance"/> (Axe 2)
 3. Weapon Swap
 4. <Skill name="Symbol of Punishment"/> (Scepter 2)
@@ -175,14 +176,10 @@ Starting on Axe:
 7. Chapter 2 Igniting Burst (Tome Skill 2)
 8. Chapter 4 Scorched Aftermath (Tome Skill 4)
 9. Epilogue Ashes of the Just (Tome Skill 5)
-10. <Skill name="Sword of Justice"/>
 11. Chapter 1 Searing Spell (Tome Skill 1)
 12. Chapter 2 Igniting Burst (Tome Skill 2)
-13. <Skill name="Symbol of Punishment"/> (Scepter 2)
-14. <Skill name="Sword of Justice"/>
 15. <Skill name="Cleansing Flame"/> (Torch 5)
 16. **Two <Skill id="9089"/>** (Torch 4)
-17. <Skill name="Sword of Justice"/>
 18. <Skill name="Symbol of Punishment"/> (Scepter 2)
 19. Weapon Swap
 20. <Skill name="Symbol of Vengeance"/> (Axe 2)
@@ -200,13 +197,13 @@ When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 The most important part is to get the precast of Ashes of Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
 </Message>
 1) Swap to <Trait name="quickfire"/> for more Ashes of Just.
-1) While casting: <Skill name="Empower"/> for <Boon name="Might"/>
-    - Use 2 charges of <Skill name="potent haste"/> and share <Skill name="restoringreprieve"/> (keep in mind that <Skill name="restoringreprieve"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
-    - Use <Skill name="Standyourground"/>
-1) <Skill name="Feelmywrath"/>
-1) Open <Skill id="44364"/> and use Skill 5 for more Ashes of Just.
+1) Use <Skill name ="hallowedground"/>
+1) Blast a firefield with <Skill name ="	holystrike"/>
+1) While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+1) Use <Skill name="Feelmywrath"/>
+1) Open <Skill id="44364"/> and use Skill 5 for more Ahes of the Just
 1) Take the _Mistlock Singularity_ 
-1) Open <Skill id="44364"/> again and use Skill 5 for even more Ashes of Just.
+1) Use <Skill name="Feelmywrath"/> again
 1) Remember to swap back to <Trait name="loremaster"/>
 
 On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrath"/> for <Skill name="Renewed Focus"/>:
