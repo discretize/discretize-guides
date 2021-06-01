@@ -613,7 +613,7 @@ Annotation:
 
 <Boss name="DarkAi" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Signet of Wrath" utility3="Sanctuary" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125" >
 
-* When <Instability name="Afflicted"/> is present, run <Skill name="Mantra of Lore"/> instead of <Skill name="Signet of Wrath"/>. You will still be able to share <Attribute name="Condition Damage"/> through <Trait name="Wrath of Justice"/>. You can also take this skill if people struggle with attacks that inflict conditions during the fire phase.
+* When <Instability name="Afflicted"/> is present, run <Skill name="Mantra of Lore"/> instead of <Skill name="Signet of Wrath"/>. You will still be able to share <Attribute name="Condition Damage"/> through <Trait name="Wrath of Justice"/>.
 * Other good utility skills are <Skill name="Retreat"/> for extra <Boon name="Aegis"/> or <Skill name="Bow of Truth"/> for extra healing.
 * When more healing or the extra CC on <Skill name="Sanctuary"/> from <Trait name="Master of Consecrations"/> is needed, consider swapping to the Virtues variant.
 * If your group has multiple <Specialization name="Firebrand" text="Condi Firebrand"/> keeping up <Boon name="Fury"/>, you can swap to Mace for extra healing and <Boon name="Aegis"/>.
