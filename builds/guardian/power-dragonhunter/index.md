@@ -8,7 +8,7 @@ specialization: 'Dragonhunter'
 benchmark:
   { small: { dps: 35132, by: 'Shetsa [SC]', youtube: 'C98JaabU6_c' } }
 skills: [30783, 30039, 9153, 9251]
-boons: ['Retaliation', 'Aegis']
+boons: ['Resolution', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvGzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Princeps.6481'

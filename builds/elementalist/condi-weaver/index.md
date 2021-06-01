@@ -1,7 +1,7 @@
 ---
 title: 'Condi Weaver'
 date: '2021-06-01'
-rating: 'Condi'
+rating: 'Good'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'

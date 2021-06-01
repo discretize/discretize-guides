@@ -195,7 +195,7 @@ After Amala drops to 60% health, she will start summoning five tornadoes. Much l
 
 #### Priestess of Dwayna
 
-The Priestess of Dwayna only has one attack which cannot be interrupted: a different iteration of the Lightning Strikes attack. Unlike Amala's, these strikes will land randomly, so the best way to deal with them is to remain near the edge of the alcove where you're less likely to be hit. Also be aware that when engaged the priestess gains <Boon name="retaliation"/>, <Boon name="Protection"/> and <Boon name="regeneration"/>.
+The Priestess of Dwayna only has one attack which cannot be interrupted: a different iteration of the Lightning Strikes attack. Unlike Amala's, these strikes will land randomly, so the best way to deal with them is to remain near the edge of the alcove where you're less likely to be hit. Also be aware that when engaged the priestess gains <Boon name="Resolution"/>, <Boon name="Protection"/> and <Boon name="regeneration"/>.
 
 ### Grenth <Label>45%-25%</Label>
 

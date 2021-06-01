@@ -7,7 +7,7 @@ profession: 'Guardian'
 specialization: 'Firebrand'
 benchmark: { small: { dps: 23300, by: 'MajesticNoodle [BATS]', youtube: 'G1Y1u4ZwJh8' } }
 skills: [9093, 9153, 9251]
-boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Retaliation', 'Aegis']
+boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Resolution', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'ganymed.3541'
@@ -25,31 +25,6 @@ Using <Skill name="Bane Signet"/> to break defiance bars also increases your all
 <Message>
 Its worth mentioning that *<Specialization text="Power Quickness Firebrand" name="Firebrand"/>* is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run *<BuildLink build="Condi Firebrand" specialization="Firebrand"/>* as it provides much higher sustained DPS.
 </Message>
-
-### **Nightmare Challenge Mode PuG videos** 
-<Grid>
-<GridItem sm="4">
-<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="odHRC78RDGU"/> 
-</GridItem>
-<GridItem sm="4">
-<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="7B1LNFpHYdc"/> 
-</GridItem>
-<GridItem sm="4">
-<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="fNWlEAaXS6I"/> 
-</GridItem>
-</Grid>
-### **Shattered Observatory Challenge Mode PuG videos**
-<Grid>
-<GridItem sm="4">
-<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="4E3fM2vqwrU"/> 
-</GridItem>
-<GridItem sm="4">
-<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="fHP_i0ti9PQ"/> 
-</GridItem>
-<GridItem sm="4">
-<Video caption="by SLifeR [dT], edited by Vince [dT]" youtube="ZeqPBPfK7Ow"/> 
-</GridItem>
-</Grid>
 
 <Divider text="Equipment"/>
 

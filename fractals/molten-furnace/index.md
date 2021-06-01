@@ -41,7 +41,7 @@ You exit the tunnel and kill the group of mobs coming to you. Then proceed to th
 <GridItem sm="5">
 ## Weapon Testing Arena <Label>Random</Label>  
   
-You enter the arena and survive the 3 weapon test. After entering the arena 2 Champions spawn, separate them and kill them. Not separating them results in <Boon name="Retaliation"/> being applied. The weapon test types are in random order:
+You enter the arena and survive the 3 weapon test. After entering the arena 2 Champions spawn, separate them and kill them. Not separating them results in <Boon name="Resolution"/> being applied. The weapon test types are in random order:
 </GridItem>
 
 <GridItem sm="7">
