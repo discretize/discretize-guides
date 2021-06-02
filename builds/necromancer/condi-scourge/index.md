@@ -11,7 +11,7 @@ traits: [801, 905, 2164, 2121]
 boons: ['Might', 'Fury', 'Quickness']
 conditions:
   ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poisoned', 'Blinded']
-code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Discord: Amerikajinn#9784'
 cmguides: '/cm-guides/necromancer/condi-scourge'
 classification: [2, 4, 4, 2, 3]
