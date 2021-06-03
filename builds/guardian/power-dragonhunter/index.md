@@ -177,7 +177,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
-**Scepter Rotation:**
+**Rotation:**
 1. <Skill name="banesignet" profession="guardian"/>
 1. <Skill name="Symbol of Blades" profession="guardian"/> (Sword 2)
 1. <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
