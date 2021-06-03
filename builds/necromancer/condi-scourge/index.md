@@ -13,7 +13,6 @@ conditions:
   ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poisoned', 'Blinded']
 code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Discord: Amerikajinn#9784'
-cmguides: '/cm-guides/necromancer/condi-scourge'
 classification: [2, 4, 4, 2, 3]
 ---
 
