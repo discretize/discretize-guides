@@ -10,7 +10,7 @@ traits: [2020, 2018, 853]
 boons: ['Might', 'Fury', 'Quickness', 'Alacrity']
 conditions:
   ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poisoned', 'Blinded', 'Slow']
-code: '[&DQcBHQoaKDYjDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Discord: [CnD] Tipcat#0698'
 classification: [2, 4, 4, 3, 4]
 ---

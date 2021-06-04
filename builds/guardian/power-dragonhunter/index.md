@@ -10,7 +10,7 @@ benchmark:
 skills: [30783, 30039, 9153, 9251]
 boons: ['Resolution', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
-code: '[&DQEqOhAvGzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Princeps.6481'
 cmguides: '/cm-guides/guardian/power-dragonhunter'
 classification: [3, 4, 3, 2, 4]
@@ -177,7 +177,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
-**Scepter Rotation:**
+**Rotation:**
 1. <Skill name="banesignet" profession="guardian"/>
 1. <Skill name="Symbol of Blades" profession="guardian"/> (Sword 2)
 1. <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)

@@ -10,7 +10,7 @@ skills: [45773, 27505]
 traits: [2182]
 boons: ['Alacrity', 'Might']
 conditions: ['Vulnerability']
-code: '[&DQkPJgMmPz3cEdwRBhIGEtQR1BErEisSyhHKEREOEA8GEisS1BEGEisS1BE=]'
+code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
 author: 'PineappleMan.1430'
 classification: [4, 3, 4, 3, 5]
 compositions: [ { name: '_CRGB'} ]
