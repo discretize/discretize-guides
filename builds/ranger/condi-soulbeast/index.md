@@ -9,7 +9,7 @@ benchmark:
   { small: { dps: 36197, by: 'Eren', youtube: 'WSuDmiuAwC8' } }
 skills: [45717, 12498, 12508, 46432]
 conditions: ['Bleeding', 'Poisoned', 'Burning']
-code: '[&DQQeHSE3Ny55AAAAvQAAAL8AAADpFgAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/condi-soulbeast'
 classification: [5, 4, 3, 2, 3]
 compositions: [ { name: '_CRGB', roles: 'DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
