@@ -9,7 +9,7 @@ benchmark: { small: { dps: 36732, by: 'TJ [SC]', youtube: 'U1yYDskt3Cw' } }
 skills: [9251, 9153]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Resolution', 'Aegis']
 conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
-code: '[&DQEqHhAaPjpLF0sXSAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 classification: [3, 4, 5, 2, 3]
 compositions: [ { name: '_CRGB'} ]
 ---
