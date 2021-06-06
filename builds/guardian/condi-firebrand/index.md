@@ -42,7 +42,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="geomancy" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="geomancy" weapon2OffType="Torch" weapon2OffAffix="Viper" weapon2OffSigil="bursting" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2OffInfusionId="49432"/>
 
 <Card title="Swap Weapons">
 * Greatsword for pulling adds in Nightmare CM after MAMA.
@@ -63,7 +63,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 <Grid>
 <GridItem sm="7">
 <Traits traits1="Radiance" traits1Selected="Right-Hand Strength, Radiant Fire, Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations, glacialheart, permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow, Stalwart Speed, Loremaster"/>
-If your team has a hard time applying <Condition name="Vulnerability"/> you can swap Virtues trait line with Zeal and replace <Skill name="purgingflames"/> with <Skill name ="swordofjustice"/>. Thil will help you to maintain <Condition name="Vulnerability"/> on enemies better.
+If your team has a hard time applying <Condition name="Vulnerability"/> you can swap Virtues trait line with Zeal and replace <Skill name="purgingflames"/> with <Skill name ="swordofjustice"/>. This will help you to maintain <Condition name="Vulnerability"/> on enemies better.
 <Traits unembossed traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635"/>
 <Message>
 This build provides permanent <Boon name="Quickness"/>. For different variants, such as organized Sunqua Peak groups or full DPS, please scroll down.
@@ -168,22 +168,25 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 </Message>
 Starting on Axe:
 1. <Skill name ="purgingflames"/>
-2. <Skill name="Symbol of Vengeance"/> (Axe 2)
-3. Weapon Swap
-4. <Skill name="Symbol of Punishment"/> (Scepter 2)
-5. **Two <Skill id="9089"/>** (Torch 4)
-6. <Skill name="Tome of Justice"/> (F1)
-7. Chapter 2 Igniting Burst (Tome Skill 2)
-8. Chapter 4 Scorched Aftermath (Tome Skill 4)
-9. Epilogue Ashes of the Just (Tome Skill 5)
-11. Chapter 1 Searing Spell (Tome Skill 1)
-12. Chapter 2 Igniting Burst (Tome Skill 2)
-15. <Skill name="Cleansing Flame"/> (Torch 5)
-16. **Two <Skill id="9089"/>** (Torch 4)
-18. <Skill name="Symbol of Punishment"/> (Scepter 2)
-19. Weapon Swap
-20. <Skill name="Symbol of Vengeance"/> (Axe 2)
-21. <Skill name="Blazing Edge"/> (Axe 3)
+2. <Skill id="9104"/> (Torch 4)
+3. <Skill name="Symbol of Vengeance"/> (Axe 2)
+4. <Skill id="9089"/> (Torch 4)
+5. Weapon Swap
+6. <Skill name="Symbol of Punishment"/> (Scepter 2)
+7. <Skill id="9089"/> (Torch 4)
+8. <Skill name="Tome of Justice"/> (F1)
+9. Chapter 2 Igniting Burst (Tome Skill 2)
+10. Chapter 4 Scorched Aftermath (Tome Skill 4)
+11. Epilogue Ashes of the Just (Tome Skill 5)
+12. Chapter 1 Searing Spell (Tome Skill 1)
+13. Chapter 2 Igniting Burst (Tome Skill 2)
+14. <Skill name="Cleansing Flame"/> (Torch 5)
+15. <Skill name="Symbol of Punishment"/> (Scepter 2)
+16. <Skill id="9104"/> (Torch 4)
+17. **Two <Skill id="9089"/>** (Torch 4)
+18. Weapon Swap
+19. <Skill name="Symbol of Vengeance"/> (Axe 2)
+20. <Skill name="Blazing Edge"/> (Axe 3)
 
 When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 </Card>
