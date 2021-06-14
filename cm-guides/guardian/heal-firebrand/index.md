@@ -1,6 +1,6 @@
- ---
+---
 title: 'Heal Firebrand CM guides'
-build: 'Heal-Firebrand'
+build: 'Heal Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
 date: '2021-06-01'
