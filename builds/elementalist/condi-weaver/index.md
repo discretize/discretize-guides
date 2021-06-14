@@ -5,12 +5,12 @@ rating: 'Good'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
-benchmark: { small: { dps: 39278, by: 'Roul [SC]', youtube: '-wDSKO_Ings' } }
+benchmark: { small: { dps: 38500, by: 'Roul [SC]', youtube: 'H5ZyMQln6hw' } }
 skills: [43638, 5542, 40183]
 boons: ['Might', 'Stability', 'Swiftness', 'Regeneration']
 conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding', 'Chilled']
 code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
-classification: [3, 5, 3, 4, 5]
+classification: [3, 4, 3, 4, 5]
 ---
 
 <Message>
@@ -274,7 +274,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
-<Video youtube="-wDSKO_Ings" caption="by Roul [SC]" />
+<Video youtube="H5ZyMQln6hw" caption="by Roul [SC]" />
 </Card>
 
 <GridItem xs= "12" sm="12">
