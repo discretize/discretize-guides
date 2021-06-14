@@ -6,7 +6,7 @@ description: 'Learn how to use various potions and sigils to increase damage out
 hidden: 'false'
 ---
 
-This sheet is used to give quick access to the on average most optimal sigils and potions for each fractal. However some fractals have small variations where different parts of the fractal benefit from different potions or specific sigils, for furthur information consult the individual fractal guides.
+This sheet is used to give quick access to the most optimal sigils and potions for each fractal in an average group. However some fractals have small variations where different parts of the fractal benefit from different potions or specific sigils, for further information consult the individual fractal guides.
 
 
 
