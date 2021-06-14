@@ -16,9 +16,9 @@ author: 'Discord: Amerikajinn#9784'
 classification: [2, 4, 4, 2, 3]
 ---
 
-The <Specialization name="Scourge" text="Condi Scourge"/> is an easy to learn build that provides access to good off-support tools, can be augmented to provide the means to provide a safety net at an acceptable dps loss with the Blood Magic traitline (without any stat changes), and can place conditions/cc on multiple targets simultaneously with its shades and <Skill name="Epidemic">. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools it can help
+The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools and can be augmented to provide the means of a safety net at an acceptable amount of dps loss with the Blood Magic traitline (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades and <Skill name="Epidemic"/>. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
 
-<Specialization name="Scourge" text="Condi Scourge"/> has multiple offensive control skill options: (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Scourge" text="Condi Scourge"/> and can modify itself to fit many given situations in fractals.
+<Specialization name="Scourge" text="Condi Scourge"/> has multiple offensive control skill options, like using <Control name="Pull"/>, corrupt boons for <Instability name="No Pain, No Gain"/>, cause conditions like <Condition name="Blinded"/> and <Condition name="Immobile"/>, etc. <Specialization name="Scourge" text="Condi Scourge"/> and can modify itself to fit many given situations in fractals.
 
 This build also does not have a formal rotation, and instead has a prioritization for its skills making it easy to focus on side objectives and quickly pick up where you left off in dealing damage.
 
@@ -34,16 +34,13 @@ Due to being a condition based build, it will not benefit as highly from slaying
 <Weapons weapon1MainType="Scepter" weapon1MainAffix="Sinister" weapon1MainSigil1="Torment"  weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Bursting" weapon1MainInfusion1Id="37130" weapon1OffInfusionId="37130"/>
 
 <Card title="Swap Weapons">
-* This build only runs the one weapon set for its primary damage, so you can utilize a warhorn as a secondary weapon to provide extra CC to the group with <Skill name="Wail of Doom">
+* This build only runs one weapon set for its primary damage, so you can utilize a warhorn in a secondary weapon set to bring extra CC with <Skill name="Wail of Doom"/>.
 
 </Card>
 
 <Card title="Situational Runes">
-* Your runes can be optimized based on your group composition, the amount of Life Force you're gaining from outside sources, if you're Epi-bouncing, etc:
-
-  * Renegade Runes will provide the greatest boost to your <Skill name="Epidemic"/> damage, but you will need to account for the loss in condition duration
-  * Tormenting Runes have a minor dps loss, but provide a large boost to personal survivability on top of your barrier generation
-  * 
+* <Item id=83502/> works best for using and utilizing <Skill name="Epidemic"/>, as its damage will be maximized with this rune. Note that you will have a loss of condition duration with this rune choice.
+* <Item id=44956/> provides a large boost to personal survivability on top of your barrier generation at the cost of a minor dps loss.
 
 </Card> 
 </GridItem>
@@ -60,47 +57,60 @@ Due to being a condition based build, it will not benefit as highly from slaying
 <Grid>
 <GridItem sm="7">
 <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Sadistic Searing, Demonic Lore"/>
+</GridItem>
 
+<GridItem sm="5">
+<Skills heal="Sand Flare" utility1="Signet of Undeath" utility2="Blood is Power" utility3="Epidemic" elite="Plaguelands"/>
+</GridItem>
+</Grid>
+
+<Divider text="Further information"/>
+<Grid>
+<GridItem sm="7">
 <Card title="Situational Skills">
 <Message>
-<Skill name="Summon Shadow Fiend"/> will replace <Skill name="Epidemic"/> on any fight that is single target.
+<Skill name="Summon Shadow Fiend"/> will replace <Skill name="Epidemic"/> on any fight that is single target or cleave is not needed.
 </Message>
 <Message>
 If you are going to replace a skill, <Skill name="Summon Shadow Fiend"/> is your least beneficial utility, followed by <Skill name="Signet of Undeath"/>.
 </Message>
 | | |
 | -- | -- |
-| <Skill name="Summon Flesh Golem" size="big" disableText/> | Can be taken if your group needs additional CC at a 2k dps loss (or less if you spend time doing mechanics instead of targetting the boss). |
-| <Skill name="Summon Bone Minions" size="big" disableText/> | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g Light Phase Ai in Sunqua Peak). |
-| <Skill name="Corrupt Boon" size="big" disableText/> | A strong boon corrput which can be used to boon rip on days with the No Pain No Gain instability.
-| <Skill name="Summon flesh Wurm" size="big" disableText/> | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized). |
-| <Skill name="Spectral Walk " size="big" disableText/> | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade). |
-| <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
-| <Skill name="Trail of Anguish" size="big" disableText/> | A go-to stunbreak skill for Scourge, that can also provide some decent conditions if you step in and out of your targets hitbox to proc it multiple times. |
+| <Skill name="Summon Flesh Golem" size="big" disableText/> | Can be taken if your group needs additional CC at an estimated loss of 2k dps or less. |
+| <Skill name="Summon Bone Minions" size="big" disableText/> | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak).). |
+| <Skill name="Corrupt Boon" size="big" disableText/> | A strong boon corrput which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.
+| <Skill name="Summon flesh Wurm" size="big" disableText/> | A 1200 range teleport skill that can also work as a projectile blocker for fights like Old Tom in the [Uncategorized](/fractals/uncategorized) fractal. |
+| <Skill name="Spectral Walk " size="big" disableText/> | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova](/fractals/thaumanova-reactor) fractal. Also great for consuming conditions on consoles in the [Aetherblade](/fractals/aetherblade) fractal. |
+| <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
+| <Skill name="Trail of Anguish" size="big" disableText/> | A go-to stunbreak skill for Scourge, that can also provide some decent conditions if you step in and out of your targets hitbox to proc it multiple times. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>. |
 | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles. |
-| <Skill name="Signet of Vampirism" size="big" disableText/> | This can provide you a minor dps increase in situations where barrier application is not needed. |
-| <Skill name="Sand Swell" size="big" disableText/> | A useful skill that allows you to double up on blinks. |
+| <Skill name="Signet of Vampirism" size="big" disableText/> | This can provide you a minor dps increase in situations where barrier application is not needed. If you are using <Skill name="Signet of Vampirism"/> and no other Punishment skill, you can take <Trait name="Desert Empowerment"/> over <Trait name="Sadistic Searing"/>. |
+| <Skill name="Sand Swell" size="big" disableText/> | A useful skill that allows you to double up on blinks. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>. |
 </Card>
-
-
-</GridItem>
-
+<Card title="Blood Magic">
+Running Blood Magic instead of Soul Reaping can be an option if you really need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/> and more sustain in general. It will cause a personal damage loss but it can be helpful if your party is having trouble staying alive.
+<Traits unembossed traits1="Blood Magic" traits1SelectedIds="780, 1844, 778"/>
+<Message>
+Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn skill <Skill name="Wail of Doom"/>.
+</Message>
+</Card>
+</GridItem> 
 <GridItem sm="5">
-<Skills heal="Sand Flare" utility1="Signet of Undeath" utility2="Blood is Power" utility3="Epidemic" elite="Plaguelands"/>
-
 <Card title="Situational Traits">
-- If necessary (usually only in underperforming groups), you can swap out Soul Reaping for Blood Magic (if you need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/>, and if needed more CC via the warhorn skill <Trait name="Banshees Wail"/>).
+| | |
+| -- | -- |
+| <Trait id="2059" size="big" disableText/> | If you are having trouble staying alive and needing a little bit of extra support and more frequent barrier, you can opt into it and drop <Trait id="2067"/>. This will also be your go-to option if you are not playing with <Skill name="Sand Flare"/> or any other Punishment skill.
 </Card>
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
-| <Skill name="Wail of Doom" size="big" disableText/> | 200 with <Control name="Daze"/> (300 if traited) |
-| <Skill name="Charge" size="big" disableText/> | 200 with <Control name="Knockdown"/> and 232 with <Control name="Launch"/>| 
-| <Skill name="Garish Pillar" size="big" disableText/> | 200 with <Condition name="Fear"/> |
-| <Skill name="Oppressive Collapse" size="big" disableText/> | 200 with <Control name="Knockdown"/> |
-| <Skill name="Spectral Grasp" size="big" disableText/> | 150-750 with <Control name="Pull" /> (see situational skills) |
+| <Skill name="Wail of Doom" size="big" disableText/> | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>) |
+| <Skill name="Charge" size="big" disableText/> | 200 damage with <Control name="Knockdown"/> and 232 with <Control name="Launch"/>| 
+| <Skill name="Garish Pillar" size="big" disableText/> | 200 damage with <Condition name="Fear"/> |
+| <Skill name="Oppressive Collapse" size="big" disableText/> | 200 damage with <Control name="Knockdown"/> |
+| <Skill name="Spectral Grasp" size="big" disableText/> | 150-750 damage with <Control name="Pull" /> (see situational skills) |
 </Card>
-</GridItem>
+</GridItem> 
 </Grid>
 
 <Divider text="Skill Usage"/>
@@ -111,9 +121,9 @@ If you are going to replace a skill, <Skill name="Summon Shadow Fiend"/> is your
 
 **Precasting:**
 
-You can preemptively cast some shades before a fight starts to begin ramping up the benefits from <Trait name="Sand Sage"/>
+You can preemptively cast some shades before a fight starts to begin ramping up the benefits from <Trait name="Sand Sage"/>.
 
-**Prioritization: (Weapon/Utility Skills)**
+**Prioritization: [Weapon/Utility Skills]**
 
 Always use this skill off-cooldown, even if it means interrupting auto-attack chains:
 1. <Skill name="Feast of Corruption"/> (Scepter 3)
@@ -127,7 +137,7 @@ Use after finishing your current auto-attack chain:
 
 **Shade Skills**
 
-While you perform the above prioritization, you'll be using your shade skills to get additional applications of <Condition name="Burning"/> (from <Trait name="Dhuumfire"/>)  and <Condition name="Torment"/>. Beyond ensuring you have enough Life Force to cast <Skill name="Nefarious Favor"/> and <Skill name="Desert Shroud"/> at all times, you can use any excess Life Force with the following prioritization:
+While you perform the above prioritization, you'll be using your shade skills to get additional applications of <Condition name="Burning"/> (from <Trait name="Dhuumfire"/>)  and <Condition name="Torment"/>. If you can ensure that you have enough Life Force to cast <Skill name="Nefarious Favor"/> and <Skill name="Desert Shroud"/> at all times, you can use any excess Life Force with the following prioritization:
 
 1. <Skill name="Nefarious Favor"/>
 2. <Skill name="Sand Cascade"/>
@@ -140,20 +150,17 @@ While you perform the above prioritization, you'll be using your shade skills to
 
 <GridItem sm="5">
 <Card title="Notes:">
-- If you're using <Skill name="Summon Shadow Fiend"/> you can use <Skill name="Haunt"/> off cooldown as it has no cast time.
+- If you're using <Skill name="Summon Shadow Fiend"/>, you should use <Skill name="Haunt"/> off cooldown as it has no cast time.
 
-- You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically)
+- You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically).
 
 - While you want to maintain 3 shades up, you still want to focus on the rest of the skill prioritization as the wasted cooldown time outweighs the minor loss of Expertise.
 
-- Be sure to place shades on significant targets: your Scourge counts as a shade, and will already hit your primary target with shade abilities from your character. (For example, place them on anomalies in the Shattered Observatory fractal)
+- Be sure to place shades on significant targets: A <Specialization name="Scourge"/> itself counts as a shade activator, and will already hit your primary target with shade abilities from your character. (For example, place them on Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal)
 
-- Be sure to run <Skill name="Summon Bone Minions"/> if your group has two or more Necromancers. Additionally, if your group has three (or more) Scourges you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown). 
-- Your <Trait name="Dhuumfire"/> trait has a Scourge-specific 1 second internal cooldown. Be sure to space out your shade skills (including <Skill name="Manifest Sand Shade"/> and <Skill name="Desert Shroud"/>) instead of blindly spamming them off cooldown.
+- If your group has three (or more) Scourges, you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown). 
+- Your <Trait name="Dhuumfire"/> trait has an internal cooldown of one second. Be sure to space out your shade skills (including <Skill name="Manifest Sand Shade"/> and <Skill name="Desert Shroud"/>) instead of blindly spamming them off cooldown.
 
 </GridItem>
-
-
-
 </Card>
 </Grid>
