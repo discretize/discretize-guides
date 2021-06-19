@@ -6,7 +6,7 @@ role: 'Damage'
 profession: 'Necromancer'
 specialization: 'Scourge'
 benchmark: { small: { dps: 37044, by: 'Prud', youtube: '6NbhBMCyjmw' } }
-skills: [44663, 10602]
+skills: [10606, 44663, 10602]
 traits: [801, 905, 2164, 2121]
 boons: ['Might', 'Fury', 'Quickness']
 conditions:
@@ -57,11 +57,16 @@ Due to being a condition based build, it will not benefit as highly from slaying
 <Grid>
 <GridItem sm="7">
 <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Sadistic Searing, Demonic Lore"/>
-</GridItem>
+</GridItem>  
 
 <GridItem sm="5">
 <Skills heal="Sand Flare" utility1="Signet of Undeath" utility2="Blood is Power" utility3="Epidemic" elite="Plaguelands"/>
-</GridItem>
+
+<Card title="Situational Traits">
+| | |
+| -- | -- |
+| <Trait id="2059" size="big" disableText/> | If you are having trouble staying alive and needing a little bit of extra support and more frequent barrier, you can opt into it and drop <Trait id="2067"/>. This will also be your go-to option if you are not playing with <Skill name="Sand Flare"/> or any other Punishment skill.
+</Card>
 </Grid>
 
 <Divider text="Further information"/>
@@ -76,10 +81,10 @@ If you are going to replace a skill, <Skill name="Summon Shadow Fiend"/> is your
 </Message>
 | | |
 | -- | -- |
-| <Skill name="Summon Flesh Golem" size="big" disableText/> | Can be taken if your group needs additional CC at an estimated loss of 2k dps or less. |
-| <Skill name="Summon Bone Minions" size="big" disableText/> | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak).). |
+| <Skill name="Summon Flesh Golem" size="big" disableText/> | Can be taken if your group needs additional CC at the cost of a small dps loss. |
+| <Skill name="Summon Bone Minions" size="big" disableText/> | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak)). |
 | <Skill name="Corrupt Boon" size="big" disableText/> | A strong boon corrput which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.
-| <Skill name="Summon flesh Wurm" size="big" disableText/> | A 1200 range teleport skill that can also work as a projectile blocker for fights like Old Tom in the [Uncategorized](/fractals/uncategorized) fractal. |
+| <Skill name="Summon Flesh Wurm" size="big" disableText/> | A 1200 range teleport skill that can also work as a projectile blocker for fights like Old Tom in the [Uncategorized](/fractals/uncategorized) fractal. |
 | <Skill name="Spectral Walk " size="big" disableText/> | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova](/fractals/thaumanova-reactor) fractal. Also great for consuming conditions on consoles in the [Aetherblade](/fractals/aetherblade) fractal. |
 | <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
 | <Skill name="Trail of Anguish" size="big" disableText/> | A go-to stunbreak skill for Scourge, that can also provide some decent conditions if you step in and out of your targets hitbox to proc it multiple times. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>. |
@@ -96,18 +101,13 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 </Card>
 </GridItem> 
 <GridItem sm="5">
-<Card title="Situational Traits">
-| | |
-| -- | -- |
-| <Trait id="2059" size="big" disableText/> | If you are having trouble staying alive and needing a little bit of extra support and more frequent barrier, you can opt into it and drop <Trait id="2067"/>. This will also be your go-to option if you are not playing with <Skill name="Sand Flare"/> or any other Punishment skill.
-</Card>
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
-| <Skill name="Wail of Doom" size="big" disableText/> | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>) |
-| <Skill name="Charge" size="big" disableText/> | 200 damage with <Control name="Knockdown"/> and 232 with <Control name="Launch"/>| 
-| <Skill name="Garish Pillar" size="big" disableText/> | 200 damage with <Condition name="Fear"/> |
 | <Skill name="Oppressive Collapse" size="big" disableText/> | 200 damage with <Control name="Knockdown"/> |
+| <Skill name="Garish Pillar" size="big" disableText/> | 200 damage with <Condition name="Fear"/> |
+| <Skill name="Wail of Doom" size="big" disableText/> | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>) |
+| <Skill name="Charge" size="big" disableText/> | 200 damage with <Control name="Knockdown"/> and 232 with <Control name="Launch"/> coming from <Skill name="Summon Flesh Golem"/>| 
 | <Skill name="Spectral Grasp" size="big" disableText/> | 150-750 damage with <Control name="Pull" /> (see situational skills) |
 </Card>
 </GridItem> 
@@ -143,8 +143,6 @@ While you perform the above prioritization, you'll be using your shade skills to
 2. <Skill name="Sand Cascade"/>
 3. <Skill name="Garish Pillar"/>
 
-
-  
 </GridItem>
 </Card>
 
