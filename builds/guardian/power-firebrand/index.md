@@ -45,7 +45,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Card title="Alternative weapons">
 - Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
-- Greatswords and foci with (see [Consumables Guide](/guides/consumables))
+- Greatswords and foci with (see [Cheat Sheet](/guides/cheat-sheet))
 - Maces for symbol precast
 - Hammer and/or Staff for <Boon name="Might"/> stacking
 </Card>
@@ -76,7 +76,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Card title="Alternative weapons">
 - Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
-- Greatswords and foci with (see [Consumables Guide](/guides/consumables))
+- Greatswords and foci with (see [Cheat Sheet](/guides/cheat-sheet))
 - Maces for symbol precast
 - Hammer and/or Staff for <Boon name="Might"/> stacking
 </Card>
