@@ -1,6 +1,6 @@
 ---
 title: 'Deepstone'
-date: '2021-02-24'
+date: '2021-07-06'
 image: './images/header.jpg'
 group: 'T4'
 api: 4224
@@ -50,7 +50,7 @@ The other three attacks are a mini tornado that applies <Condition name="Chilled
 
 <GridItem sm="5"> 
 <Tabs>
-<Tab specialization="revenant">
+<Tab specialization="Renegade">
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the AoE <Control name="Daze"/>.
 </Tab>  
 </Tabs> 
@@ -67,8 +67,8 @@ Commonly the Brood Queen is picked second from the two paths. On your way to the
 
 <GridItem sm="4">
 <Tabs>
-<Tab specialization="Revenant">
-Use <Skill name="Legendary Demon Stance"/> to remove <Boon name="Protection"/> with <Skill name="Banish Enchantment"/> from the boss.
+<Tab specialization="Renegade">
+Use <Skill name="Legendary Demon Stance"/> to remove <Boon name="Protection"/> with <Skill name="Banish Enchantment"/> from the boss. If you have a <Item id="72872"/> on your set of swords or on your staff, you can use <Skill id="41220"/> to remove the <Boon name="Protection"/>.
 </Tab>
 </Tabs>
 </GridItem>
@@ -124,7 +124,7 @@ Here you have to use the <SpecialActionKey name="lightofdeldrimor"/> to reveal t
 
 
 <GridItem sm="12">
-<Video title="Maze skip for Soulbeast, Warrior, Guardian, Elementalist and Revenant" youtube="coAfQMSot7s"/>
+<Video title="Maze skip for Ranger, Warrior, Guardian, Elementalist and Revenant" youtube="coAfQMSot7s"/>
 </GridItem> 
 
 <GridItem sm="12"> 
