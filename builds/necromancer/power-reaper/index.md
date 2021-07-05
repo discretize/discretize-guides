@@ -36,7 +36,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Card title="Swap Weapons">
 * Swap out weapon sigils for your Greatsword and Axe as necessary (<Item id="36053" disableText/> for night fractals, <Item id="24615" disableText/> for Nightmare, etc.)
-* A budget option is to just have individual greatswords with the required slaying sigils until you can get your specialized axes (see [Consumables Guide](/guides/consumables))
+* A budget option is to just have individual greatswords with the required slaying sigils until you can get your specialized axes (see [Cheat Sheet](/guides/cheat-sheet))
 </Card>
 </GridItem>
 

@@ -40,7 +40,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Card title="Swap Weapons">
 * Dagger with <Item name="Night" type="Sigil"/>
 * Dagger with <Item name="Serpent Slaying" type="Sigil"/>
-* Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
+* Daggers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
 * A warhorn for <Skill name="Sand Squall"/> and <Skill name="Heat Sync"/> for tempest precast.
 * A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Card>
@@ -67,7 +67,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Card title="Swap Weapons">
 * Dagger with <Item name="Night" type="Sigil"/>
 * Dagger with <Item name="Serpent Slaying" type="Sigil"/>
-* Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
+* Daggers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
 * A warhorn for <Skill name="Sand Squall"/> and <Skill name="Heat Sync"/> for tempest precast.
 * A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Card>
@@ -99,7 +99,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Card title="Swap Weapons">
 * Dagger with <Item name="Night" type="Sigil"/>
 * Dagger with <Item name="Serpent Slaying" type="Sigil"/>
-* Daggers with slaying sigils (see [Consumables Guide](/guides/consumables))
+* Daggers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
 * A warhorn for <Skill name="Sand Squall"/> and <Skill name="Heat Sync"/> for tempest precast.
 * A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Card>
