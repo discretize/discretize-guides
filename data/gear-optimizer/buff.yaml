@@ -105,9 +105,11 @@
     extraCSS: "text-guardian"
 
 - SECTION: >
-    Guardian
-    <span data-armory-size="24" data-armory-embed="traits" data-armory-ids="579"></span>
-    Perfect Inscriptions (Assuming 100% uptime!)
+    <span class="text-guardian">
+      Guardian
+      <span data-armory-size="24" data-armory-embed="traits" data-armory-ids="579"></span>
+      Perfect Inscriptions (Assuming 100% uptime!)
+    </span>
 
   bane-signet:
     text: "Bane Signet"
