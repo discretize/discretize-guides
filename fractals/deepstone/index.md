@@ -39,6 +39,9 @@ After two players passed, they stand on the cyan glowing runes to stop the tetri
 <Tab specialization="Weaver">
 <Video title="Tetris skip" youtube="Fy1rYx73keI"/>
 </Tab>
+ <Tab specialization="Herald">
+<Video title="Tetris skip" youtube="DlCSFn5VK18"/>
+</Tab>
 </Tabs>
 </GridItem>
 
