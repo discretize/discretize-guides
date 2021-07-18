@@ -47,14 +47,14 @@
   high-caliber:
     text: "High Caliber"
     modifiers:
-      buff: { "Critical Chance": 15 }
+      flat: { "Critical Chance": 15 }
     gw2-id: 1914
     armory-type: "traits"
 
   hematic-focus:
     text: "Hematic Focus"
     modifiers:
-      buff: { "Critical Chance": 10 }
+      flat: { "Critical Chance": 10 }
     gw2-id: 536
     armory-type: "traits"
 

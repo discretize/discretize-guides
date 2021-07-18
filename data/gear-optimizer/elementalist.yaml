@@ -46,7 +46,8 @@
   frost-bow:
     text: "Frost Bow <small>when equipped</small>"
     modifiers:
-      buff: { "Healing Power": 180, "Condition Duration": 20 }
+      buff: { "Healing Power": 180 }
+      flat: { "Condition Duration": 20 }
     gw2-id: 5567
     armory-type: "skills"
 
@@ -64,7 +65,7 @@
   burning-precision:
     text: "Burning Precision"
     modifiers:
-      buff: { "Burning Duration": 20 }
+      flat: { "Burning Duration": 20 }
     gw2-id: 296
     armory-type: "traits"
 
@@ -168,7 +169,7 @@
     text: "Serrated Stones"
     modifiers:
       multiplier: { "Effective Power": 0.05 }
-      buff: { "Bleeding Duration": 20 }
+      flat: { "Bleeding Duration": 20 }
     gw2-id: 1507
     armory-type: "traits"
 
@@ -277,7 +278,7 @@
   superior-elements:
     text: "Superior Elements <small>100% uptime</small>"
     modifiers:
-      buff: { "Critical Chance": 10 }
+      flat: { "Critical Chance": 10 }
     gw2-id: 2177
     armory-type: "traits"
 
@@ -300,7 +301,7 @@
     text: "Weaver's Prowess <small>100% uptime</small>"
     modifiers:
       multiplier: { "add: Effective Condition Damage": 0.1 }
-      buff: { "Condition Duration": 20 }
+      flat: { "Condition Duration": 20 }
     gw2-id: 2180
     armory-type: "traits"
 

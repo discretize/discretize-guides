@@ -112,7 +112,7 @@
   bloodlust:
     text: "Bloodlust"
     modifiers:
-      buff: { "Bleeding Duration": 33 }
+      flat: { "Bleeding Duration": 33 }
     gw2-id: 1337
     armory-type: "traits"
 
@@ -281,7 +281,7 @@
   king-of-fires:
     text: "King of Fires"
     modifiers:
-      buff: { "Burning Duration": 33 }
+      flat: { "Burning Duration": 33 }
     gw2-id: 2038
     armory-type: "traits"
 

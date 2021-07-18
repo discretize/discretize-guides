@@ -24,14 +24,14 @@
   pact-of-pain:
     text: "Pact of Pain"
     modifiers:
-      buff: { "Condition Duration": 15 }
+      flat: { "Condition Duration": 15 }
     gw2-id: 1714
     armory-type: "traits"
 
   yearning-empowerment:
     text: "Yearning Empowerement"
     modifiers:
-      buff: { "Condition Duration": 10 }
+      flat: { "Condition Duration": 10 }
     gw2-id: 1744
     armory-type: "traits"
 
@@ -84,7 +84,7 @@
   roiling-mists:
     text: "Roiling Mists"
     modifiers:
-      buff: { "Critical Chance": 20 }
+      flat: { "Critical Chance": 20 }
     gw2-id: 1719
     armory-type: "traits"
 
@@ -175,7 +175,7 @@
   blood-fury:
     text: "Blood Fury"
     modifiers:
-      buff: { "Bleeding Duration": 25 }
+      flat: { "Bleeding Duration": 25 }
     gw2-id: 2079
     armory-type: "traits"
 
@@ -189,7 +189,7 @@
   brutal-momentum:
     text: "Brutal Momentum"
     modifiers:
-      buff: { "Critical Chance": 33 }
+      flat: { "Critical Chance": 33 }
     gw2-id: 2142
     armory-type: "traits"
 

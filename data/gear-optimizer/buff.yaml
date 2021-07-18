@@ -14,7 +14,7 @@
       <span class="icon icon-fury"></span>
       Fury
     modifiers:
-      buff: { "Critical Chance": 20 }
+      flat: { "Critical Chance": 20 }
     default-enabled: true
 
   protection:
@@ -56,7 +56,8 @@
   banner-of-tactics:
     text: "Banner of Tactics"
     modifiers:
-      buff: { "Healing Power": 100, "Boon Duration": 10 }
+      buff: { "Healing Power": 100}
+      flat: { "Boon Duration": 10 }
     gw2-id: 14408
     armory-type: "skills"
     extraCSS: "text-warrior"
@@ -131,7 +132,7 @@
   signet-of-mercy:
     text: "Signet of Mercy"
     modifiers:
-      buff: { "Boon Duration": 10 }
+      flat: { "Boon Duration": 10 }
     gw2-id: 9163
     armory-type: "skills"
     extraCSS: "text-guardian"
@@ -158,7 +159,7 @@
   facet-of-nature:
     text: "Facet of Nature—Dragon"
     modifiers:
-      buff: { "Boon Duration": 20 }
+      flat: { "Boon Duration": 20 }
     gw2-id: 29371
     armory-type: "skills"
     extraCSS: "text-revenant"
