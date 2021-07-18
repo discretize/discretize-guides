@@ -119,7 +119,7 @@
   radiant-fire:
     text: "Radiant Fire"
     modifiers:
-      buff: { "Burning Duration": 20 }
+      flat: { "Burning Duration": 20 }
     gw2-id: 567
     armory-type: "traits"
 
@@ -133,7 +133,8 @@
   radiant-power:
     text: "Radiant Power"
     modifiers:
-      buff: { "Critical Chance": 10, "Ferocity": 150 }
+      flat: { "Critical Chance": 10 }
+      buff: { "Ferocity": 150 }
     gw2-id: 568
     armory-type: "traits"
 
@@ -147,7 +148,7 @@
   righteous-instincts:
     text: "Righteous Instincts"
     modifiers:
-      buff: { "Critical Chance": 25 }
+      flat: { "Critical Chance": 25 }
     gw2-id: 1683
     armory-type: "traits"
 
@@ -217,7 +218,7 @@
   virtue-of-retribution:
     text: "Virtue of Resolution"
     modifiers:
-      buff: { "Retaliation Duration": 25 }
+      flat: { "Retaliation Duration": 25 }
     gw2-id: 604
     armory-type: "traits"
 

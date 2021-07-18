@@ -114,7 +114,7 @@
   danger-time:
     text: "Danger Time"
     modifiers:
-      buff: { "Critical Chance": 15 }
+      flat: { "Critical Chance": 15 }
     gw2-id: 2009
     armory-type: "traits"
 

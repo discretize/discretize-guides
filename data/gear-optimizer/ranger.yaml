@@ -49,7 +49,7 @@
   hunters-tactics:
     text: "Hunter's Tactics"
     modifiers:
-      buff: { "Critical Chance": 10 }
+      flat: { "Critical Chance": 10 }
       multiplier: { "Effective Power": 0.1 }
     gw2-id: 1068
     armory-type: "traits"
@@ -58,14 +58,15 @@
     text: "Light on your Feet <small>100% uptime</small>"
     modifiers:
       multiplier: { "Effective Power": 0.1 }
-      buff: { "Condition Duration": 10 }
+      flat: { "Condition Duration": 10 }
     gw2-id: 1912
     armory-type: "traits"
 
   vicious-quarry:
     text: "Vicious Quarry"
     modifiers:
-      buff: { "Ferocity": 250, "Critical Chance": 10 }
+      buff: { "Ferocity": 250 }
+      flat: { "Critical Chance": 10 }
     gw2-id: 1888
     armory-type: "traits"
 
@@ -189,7 +190,7 @@
     text: "Oppressive Superiority"
     modifiers:
       multiplier: { "Effective Power": 0.1 }
-      buff: { "Condition Duration": 10 }
+      flat: { "Condition Duration": 10 }
     gw2-id: 2143
     armory-type: "traits"
 
