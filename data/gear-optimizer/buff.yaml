@@ -171,3 +171,21 @@
     gw2-id: 27975
     armory-type: "skills"
     extraCSS: "text-revenant"
+
+- SECTION: "Effects"
+
+  exposed:
+    text: >
+      <span class="icon icon-exposed"></span>
+      Exposed
+      <small class="text-muted font-italic">(100% uptime)</small>
+    modifiers:
+      multiplier: { "Effective Power": 0.3, "Effective Condition Damage": 1.0 }
+
+  low-armor:
+    text: >
+      Low Boss Armor (VG, KC)
+      <small class="text-muted font-italic">1910 vs 2597</small>
+    modifiers:
+      multiplier: { "Effective Power": 0.359685864 }
+
