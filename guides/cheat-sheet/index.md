@@ -1,6 +1,6 @@
 ---
 title: 'Cheat sheet'
-date: '2021-02-24'
+date: '2021-07-20'
 image: './images/consumables.jpg'
 description: 'Learn how to use various potions and sigils to increase damage output.'
 hidden: 'false'
