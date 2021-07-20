@@ -82,7 +82,8 @@
   pack:
     text: "Superior Rune of the Pack"
     modifiers:
-      flat: { "Power": 175, "Boon Duration": 15, "Precision": 125 }
+      flat: { "Power": 175, "Boon Duration": 15 }
+      buff: { "Precision": 125 }
     gw2-id: 24702
     armory-type: "items"
 
