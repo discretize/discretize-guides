@@ -1,6 +1,6 @@
 ---
 title: "Siren's Reef"
-date: '2021-04-25'
+date: '2021-07-20'
 image: './images/header.jpg'
 group: 'T4'
 api: 4494
@@ -52,6 +52,9 @@ _Blast Black Peter_ the skeleton boss is kind of a DPS race. He starts spawning 
 ### The treasures
 
 Your objective is simple. You need to collect 3 treasures and carry them to the treasure chest at the end of the cave. There will be moving AoEs spawning enemies if you move into it. If you touch the treasure, you will gain a debuff that slows you down significantly, to move the treasure fast, throw the item at each other moving towards the treasure chest.
+
+> <Effect name="Superspeed"/> overrides the slow inflicted by holding a treasure chest.
+
 </GridItem>
 
 <GridItem sm="6">
