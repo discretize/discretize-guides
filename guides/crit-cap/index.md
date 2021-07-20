@@ -81,7 +81,7 @@ Below are some popular trait choices to push Critical Chance.
 
 #### Traits increasing Critical Chance
 
-| Profession                            | Specialization   | Trait                               | Condition                                                   | Critical Chance | Precision  |
+| Profession                            | Trait Line       | Trait                               | Condition                                                   | Critical Chance | Precision  |
 | ------------------------------------- | ---------------- | ----------------------------------- | ----------------------------------------------------------- | --------------- | ---------- |
 | <Specialization name="Elementalist"/> | Weaver           | <Trait name="Superior Elements"/>   | Target must have <Condition name="Weakness"/>               | 10%             | 210        |
 | <Specialization name="Guardian"/>     | Radiance         | <Trait name="Radiant Power"/>       | Target must have <Condition name="Burning"/>                | 10%             | 210        |
