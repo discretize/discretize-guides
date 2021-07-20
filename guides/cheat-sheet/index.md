@@ -1,6 +1,6 @@
 ---
 title: 'Cheat sheet'
-date: '2021-02-24'
+date: '2021-07-20'
 image: './images/consumables.jpg'
 description: 'Learn how to use various potions and sigils to increase damage output.'
 hidden: 'false'
@@ -32,4 +32,4 @@ This sheet is used to give quick access to the most optimal sigils and potions f
 | [Underground Facility](/fractals/underground-facility)       | <Item id="36053" disableText size="large"/> <Item id="24684" disableText size="large"/> <Item id="8892" disableText size="large"/>                       | <Item id="24661"/> and <Item id="8885"/> if the final boss is the Ice Elemental |
 | [Solid Ocean](/fractals/solid-ocean)       | <Item id="36053" disableText size="large"/> <Item id="24661" disableText size="large"/> <Item id="8885" disableText size="large"/>                       | None  |
 | [Siren's Reef](/fractals/sirens-reef)       | <Item id="24615" disableText size="large"/> <Item id="24868" disableText size="large"/> <Item id="9443" disableText size="large"/>                       | Standard setups on condition damage classes such as [<Specialization name="Firebrand" text="Condition Firebrand" disableLink/>](/builds/guardian/condi-firebrand) are preferred here  |
-| [Aquatic Ruins](/fractals/aquatic-ruins)       | <Item id="24615" disableText size="large"/> <Item id="24658" disableText size="large"/> <Item id="50082" disableText size="large"/>                       |  |
+| [Aquatic Ruins](/fractals/aquatic-ruins)       | <Item id="24615" disableText size="large"/> <Item id="24658" disableText size="large"/> <Item id="50082" disableText size="large"/>                       | <Item id="24658"/> does not work against the main boss of this fractal. Instead, it works on the split phases and adds as well as the krait on the way to the main boss arena.  |

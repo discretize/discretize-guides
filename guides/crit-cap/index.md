@@ -1,6 +1,6 @@
 ---
 title: 'Crit Cap'
-date: '2021-02-24'
+date: '2021-07-20'
 image: './images/crit.png'
 description: 'Learn how to achieve crit cap on various Guild Wars 2 professions.'
 hidden: 'false'
@@ -20,8 +20,8 @@ You can subtract the following values in general:
 
 - **1000 base Precision** at level 80
 - 20% Critical Chance from **<Boon name="Fury"/>** (= **420 Precision**)
-- **100 Precision** from **<Skill name="Banner of Discipline"/>**
-- In groups with a <Specialization name="Druid"/>: **100 Precision** from **<Trait name="Spotter"/>**
+- In groups with a <Specialization name="Berserker"/>: **100 Precision** from **<Skill name="Banner of Discipline"/>**
+- In groups with a <Specialization name="Druid"/> or <Specialization name="Soulbeast"/>: **100 Precision** from **<Trait name="Spotter"/>**
 
 Which brings it down to **1475 Precision** or **1375 Precision** required (with <Trait name="Spotter"/>).
 
@@ -81,7 +81,7 @@ Below are some popular trait choices to push Critical Chance.
 
 #### Traits increasing Critical Chance
 
-| Profession                            | Specialization   | Trait                               | Condition                                                   | Critical Chance | Precision  |
+| Profession                            | Trait Line       | Trait                               | Condition                                                   | Critical Chance | Precision  |
 | ------------------------------------- | ---------------- | ----------------------------------- | ----------------------------------------------------------- | --------------- | ---------- |
 | <Specialization name="Elementalist"/> | Weaver           | <Trait name="Superior Elements"/>   | Target must have <Condition name="Weakness"/>               | 10%             | 210        |
 | <Specialization name="Guardian"/>     | Radiance         | <Trait name="Radiant Power"/>       | Target must have <Condition name="Burning"/>                | 10%             | 210        |
