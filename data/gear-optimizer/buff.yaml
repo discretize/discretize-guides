@@ -30,7 +30,7 @@
       Vulnerability
       <small class="text-muted font-italic">(25x)</small>
     modifiers:
-      multiplier: { "Effective Power": 0.25, "Effective Condition Damage": 0.25 }
+      multiplier: { "target: Effective Power": 0.25, "target: Effective Condition Damage": 0.25 }
     default-enabled: true
 
 - SECTION: ""
@@ -180,7 +180,7 @@
       Exposed
       <small class="text-muted font-italic">(100% uptime)</small>
     modifiers:
-      multiplier: { "Effective Power": 0.3, "Effective Condition Damage": 1.0 }
+      multiplier: { "target: Effective Power": 0.3, "target: Effective Condition Damage": 1.0 }
 
   low-armor:
     text: >
