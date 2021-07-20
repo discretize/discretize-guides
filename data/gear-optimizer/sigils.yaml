@@ -19,7 +19,7 @@
       Superior Sigil of the Night/Impact/Slaying<br>
       <small class="text-muted font-italic">(Both 7%/3%)</small>
     modifiers:
-      multiplier: { "add: Effective Power": 0.1 }
+      multiplier: { "add: Effective Power": 0.03, "Effective Power": 0.07 }
     gw2-id: 36053
     armory-type: "items"
 
