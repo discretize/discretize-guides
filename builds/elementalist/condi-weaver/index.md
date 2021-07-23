@@ -139,7 +139,7 @@ It is recommended to use separate precast builds to get additional buffs like <T
 
 Precasting build template:
 
-<Traits unembossed traits1="Arcane" traits1Selected=",,Elemental Surge" traits2="Air" traits2Selected="One with air, Fresh Air" traits3="Weaver" traits3Selected=", Weavers Prowess, Elements of Rage"/>
+<Traits unembossed traits1="Arcane" traits1Selected=",Renewing Stamina, Elemental Lockdown, Elemental Surge" traits2="Air" traits2Selected="One with air, Raging Storm, Fresh Air" traits3="Weaver" traits3Selected=",Superior Elements, Weavers Prowess, Elements of Rage"/>
 
 ### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak)**
 If you have an extra set of weapons (or legendary sigils), you can also precast the effects of <Item name="Doom"/> and <Item name="Leeching"/>. To do that:
@@ -280,7 +280,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem xs= "12" sm="12">
 <Card title="Important Notes">
 
-- <Skill name="Signet of Fire"/> is one or your most important DPS skills. Use it off cooldown!
+- <Skill name="Signet of Fire"/> is one of your most important DPS skills. Use it off cooldown!
 
 - Make sure to always use <Skill name="Glyph of ELemental Power"/> in <Skill name="Fire Attunement"/>. If the boss is about to phase or die, your next best option is to use it in <Skill name="Earth Attunement"/>. If you find yourself is any other element, you should use it regardless, as it grants increased strike damage on your next few attacks.
 
