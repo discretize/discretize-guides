@@ -226,3 +226,51 @@
       multiplier: { "add: Effective Power": 0.05, "add: Effective Condition Damage": 0.05 }
     gw2-id: 2100
     armory-type: "traits"
+
+- SECTION: "Herald"
+
+  draconic-fortitude:
+    text: "Draconic Fortitude"
+    modifiers:
+      multiplier: { "Health": 0.1 }
+    gw2-id: 1737
+    armory-type: "traits"
+
+  hardening-persistence:
+    text: >
+      Hardening Persistence<br>
+      <small class="text-muted font-italic">10x</small>
+    modifiers:
+      multiplier: { "add: Damage Reduction": 0.15 }
+    gw2-id: 1730
+    armory-type: "traits"
+
+  reinforced-potency-6:
+    text: >
+      Reinforced Potency<br>
+      <small class="text-muted font-italic">6x</small>
+    modifiers:
+      multiplier: { "Effective Power": 0.6 }
+      buff: { "Concentration": 120 }
+    gw2-id: 1788
+    armory-type: "traits"
+
+  reinforced-potency-9:
+    text: >
+      Reinforced Potency<br>
+      <small class="text-muted font-italic">9x</small>
+    modifiers:
+      multiplier: { "Effective Power": 0.9 }
+      buff: { "Concentration": 120 }
+    gw2-id: 1788
+    armory-type: "traits"
+
+  reinforced-potency-11:
+    text: >
+      Reinforced Potency<br>
+      <small class="text-muted font-italic">11x</small>
+    modifiers:
+      multiplier: { "Effective Power": 0.11 }
+      buff: { "Concentration": 120 }
+    gw2-id: 1788
+    armory-type: "traits"
