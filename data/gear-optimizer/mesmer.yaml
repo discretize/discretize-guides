@@ -58,7 +58,7 @@
   illusionary-defense:
     text: "Illusionary Defense <small>5x</small>"
     modifiers:
-      multiplier: { "Effective Health": 0.25 }
+      multiplier: { "add: Damage Reduction": 0.25 }
     gw2-id: 675
     armory-type: "traits"
 

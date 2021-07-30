@@ -3,7 +3,7 @@
   slaying-potion:
     text: "Slaying Potion"
     modifiers:
-      multiplier: { "Effective Power": 0.1, "Effective Health": 0.1 }
+      multiplier: { "Effective Power": 0.1, "Damage Reduction": 0.1 }
     gw2-id: 50082
     armory-type: "items"
 

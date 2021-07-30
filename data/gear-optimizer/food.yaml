@@ -122,7 +122,7 @@
     text: "Plate of Mussels Gnashblade"
     modifiers:
       flat: { "Concentration": 70 }
-      multiplier: { "Effective Health": 0.1 }
+      multiplier: { "add: Damage Reduction": 0.1 }
     gw2-id: 74969
     armory-type: "items"
 

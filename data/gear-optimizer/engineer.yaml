@@ -106,7 +106,7 @@
   over-shield:
     text: "Over Shield"
     modifiers:
-      multiplier: { "Effective Health": 0.066 }
+      multiplier: { "add: Damage Reduction": 0.066 }
     gw2-id: 394
     armory-type: "traits"
 

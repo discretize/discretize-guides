@@ -75,7 +75,7 @@
   oakheart-salve:
     text: "Oakheart Salve"
     modifiers:
-      multiplier: { "Effective Health": 0.05 }
+      multiplier: { "Damage Reduction": 0.05 }
     gw2-id: 1086
     armory-type: "traits"
 

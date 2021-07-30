@@ -1,3 +1,12 @@
+- SECTION: "Skills"
+
+  vengeful-hammers:
+    text: "Vengeful Hammers"
+    modifiers:
+      multiplier: { "add: Damage Reduction": 0.2 }
+    gw2-id: 26557
+    armory-type: "skills"
+
 - SECTION: "Corruption"
 
   acolyte-of-torment:
@@ -17,7 +26,7 @@
   demonic-resistance:
     text: "Demonic Resistance"
     modifiers:
-      multiplier: { "Effective Health": 0.2 }
+      multiplier: { "add: Damage Reduction": 0.2 }
     gw2-id: 1726
     armory-type: "traits"
 
@@ -37,6 +46,15 @@
 
 - SECTION: "Retribution"
 
+  close-quarters:
+    text: >
+      Close Quarters<br>
+      <small class="text-muted font-italic">100% from range</small>
+    modifiers:
+      multiplier: { "Damage Reduction": 0.1 }
+    gw2-id: 1728
+    armory-type: "traits"
+
   dwarven-battle-training:
     text: "Dwarven Battle Training"
     modifiers:
@@ -47,7 +65,7 @@
   determined-resolution:
     text: "Determined Resolution"
     modifiers:
-      multiplier: { "Effective Health": 0.1 }
+      multiplier: { "add: Damage Reduction": 0.1 }
     gw2-id: 1713
     armory-type: "traits"
 
@@ -161,6 +179,15 @@
     modifiers:
       multiplier: { "Effective Healing": 0.2 }
     gw2-id: 1818
+    armory-type: "traits"
+
+  unyielding-devotion:
+    text: >
+      Unyielding Devotion<br>
+      <small class="text-muted font-italic">100%</small>
+    modifiers:
+      multiplier: { "Damage Reduction": 0.15 }
+    gw2-id: 1825
     armory-type: "traits"
 
 - SECTION: "Renegade"

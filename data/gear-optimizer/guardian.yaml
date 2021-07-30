@@ -17,14 +17,14 @@
   signet-of-judgement:
     text: "Signet of Judgement"
     modifiers:
-      multiplier: { "Effective Health": 0.1 }
+      multiplier: { "add: Damage Reduction": 0.1 }
     gw2-id: 9150
     armory-type: "skills"
 
   signet-of-judgement-2:
     text: "Signet of Judgement <small>traited</small>"
     modifiers:
-      multiplier: { "Effective Health": 0.12 }
+      multiplier: { "add: Damage Reduction": 0.12 }
     gw2-id: 9150
     armory-type: "skills"
 
@@ -262,7 +262,7 @@
   hunters-fortification:
     text: "Hunter's Fortification"
     modifiers:
-      multiplier: { "Effective Health": 0.1 }
+      multiplier: { "Damage Reduction": 0.1 }
     gw2-id: 1908
     armory-type: "traits"
 

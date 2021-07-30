@@ -136,7 +136,7 @@
     text: "Superior Rune of Durability"
     modifiers:
       flat: { "Toughness": 175, "Boon Duration": 15 }
-      multiplier: { "Effective Health": 0.1 }
+      multiplier: { "Health": 0.1 }
     gw2-id: 73653
     armory-type: "items"
 
@@ -152,6 +152,14 @@
     modifiers:
       flat: { "Toughness": 175, "Boon Duration": 15 }
     gw2-id: 76100
+    armory-type: "items"
+
+  scrapper:
+    text: "Superior Rune of the Scrapper"
+    modifiers:
+      flat: { "Power": 175, "Toughness": 100 }
+      multiplier: { "Damage Reduction": 0.07 }
+    gw2-id: 71276
     armory-type: "items"
 
   rebirth: &rebirth
@@ -188,6 +196,15 @@
     armory-type: "items"
 
   rebirth: *rebirth
+
+  flock:
+    text: "Superior Rune of the Flock"
+    modifiers:
+      flat: { "Healing Power": 175, "Vitality": 100 }
+      multiplier: { "Health": 0.1 }
+    gw2-id: 24696
+    armory-type: "items"
+
 
 - SECTION: "Condition Runes"
 
@@ -281,7 +298,7 @@
     text: "Superior Rune of Balthazar"
     modifiers:
       flat: { "Condition Damage": 175, "Burning Duration": 50 }
-      multiplier: { "Effective Health": 0.1 }
+      multiplier: { "Health": 0.1 }
     gw2-id: 24765
     armory-type: "items"
 
@@ -348,6 +365,7 @@
     text: "Superior Rune of Perplexity"
     modifiers:
       flat: { "Condition Damage": 175, "Confusion Duration": 50 }
+      modifer: { "Damage Reduction": 0.1 }
     gw2-id: 44957
     armory-type: "items"
 
@@ -374,7 +392,7 @@
           "Power": 78, "Precision": 78, "Toughness": 78, "Vitality": 78,
           "Concentration": 78, "Condition Damage": 78, "Expertise": 78, "Ferocity": 78, "Healing Power": 78,
         }
-      multiplier: { "Effective Health": 0.1 }
+      multiplier: { "Health": 0.1 }
     gw2-id: 24732
     armory-type: "items"
 

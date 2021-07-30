@@ -22,7 +22,7 @@
       <span class="icon icon-protection"></span>
       Protection
     modifiers:
-      multiplier: { "Effective Health": 0.33 }
+      multiplier: { "add: Damage Reduction": 0.33 }
 
   vulnerability:
     text: >
@@ -124,7 +124,7 @@
   signet-of-judgement:
     text: "Signet of Judgement"
     modifiers:
-      multiplier: { "Effective Health": 0.12 }
+      multiplier: { "add: Damage Reduction": 0.12 }
     gw2-id: 9150
     armory-type: "skills"
     extraCSS: "text-guardian"
@@ -156,18 +156,16 @@
     default-enabled: true
     extraCSS: "text-revenant"
 
-  facet-of-nature:
-    text: "Facet of Nature—Dragon"
+  facet-of-nature-dwarf:
+    text: "Facet of Nature—Dwarf"
     modifiers:
-      flat: { "Boon Duration": 20 }
-    gw2-id: 29371
-    armory-type: "skills"
+      flat: { "Damage Reduction": 0.1 }
     extraCSS: "text-revenant"
 
   rite-of-the-great-dwarf:
     text: "Rite of the Great Dwarf"
     modifiers:
-      multiplier: { "Effective Health": 0.5 }
+      multiplier: { "Damage Reduction": 0.5 }
     gw2-id: 27975
     armory-type: "skills"
     extraCSS: "text-revenant"
