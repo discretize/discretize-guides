@@ -161,7 +161,7 @@
       Stone Flesh (100% in
       <span data-armory-size="16" data-armory-embed="skills" data-armory-ids="5495"></span>)
     modifiers:
-      multiplier: { "Damage Reduction": 0.07 }
+      multiplier: { "add: Damage Reduction": 0.07 }
     gw2-id: 278
     armory-type: "traits"
 
@@ -183,7 +183,7 @@
   geomancers-training:
     text: "Geomancer's Training"
     modifiers:
-      multiplier: { "add: Damage Reduction": 0.1 }
+      multiplier: { "Damage Reduction": 0.1 }
     gw2-id: 280
     armory-type: "traits"
 
