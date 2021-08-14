@@ -365,7 +365,7 @@
     text: "Superior Rune of Perplexity"
     modifiers:
       flat: { "Condition Damage": 175, "Confusion Duration": 50 }
-      modifer: { "Damage Reduction": 0.1 }
+      multiplier: { "Damage Reduction": 0.1 }
     gw2-id: 44957
     armory-type: "items"
 

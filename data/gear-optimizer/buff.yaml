@@ -159,7 +159,7 @@
   facet-of-nature-dwarf:
     text: "Facet of Nature—Dwarf"
     modifiers:
-      flat: { "Damage Reduction": 0.1 }
+      multiplier: { "add: Damage Reduction": 0.1 }
     extraCSS: "text-revenant"
 
   rite-of-the-great-dwarf:
