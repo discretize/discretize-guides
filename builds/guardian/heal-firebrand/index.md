@@ -61,7 +61,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Healers Retribution, Wrath of justice, Perfect Inscriptions" traits2="Honor" traits2Selected="Invigorated Bulwark, Honorable Staff, Writ of Persistence" traits3="Firebrand" traits3Selected="Liberators Vow, Weighty Terms, Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Healers Resolution, Wrath of justice, Perfect Inscriptions" traits2="Honor" traits2Selected="Invigorated Bulwark, Honorable Staff, Writ of Persistence" traits3="Firebrand" traits3Selected="Liberators Vow, Weighty Terms, Loremaster"/>
  
 </GridItem>
 
@@ -80,7 +80,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | -- | -- |
 | <Skill name="Bow of Truth" size="big" disableText/> | A strong AoE heal for 5 seconds. |
 | <Skill name="Mantra of Lore" size="big" disableText/> | A strong condition cleanse to counterplay <Instability name="Afflicted"/>. Also offers extra passive healing through <Boon name="Regeneration"/>. |
-| <Skill name="Retreat" size="big" disableText/> | Extra <Boon name="Aegis"/> without a cast time. Use this when when the extra damage mitigation from <Boon name="Aegis"/> is more beneficial than the cleanse or healing from another utility.|
+| <Skill name="Advance" size="big" disableText/> | Extra <Boon name="Aegis"/> without a cast time. Use this when when the extra damage mitigation from <Boon name="Aegis"/> is more beneficial than the cleanse or healing from another utility.|
 | <Skill name="Hammer of Wisdom" size="big" disableText/> | Provides 200 extra Defiance bar damage when no other utility is needed. |
 | <Skill name="Stand Your Ground" size="big" disableText/> | Can be used for extra <Boon name="Stability"/>. Advantages over <Skill name="Hallowed Ground"/> are the instant cast and the lower cooldown. |
 | <Skill name="Hallowed Ground" size="big" disableText/> | Can be used for extra <Boon name="Stability"/>. This skill provides more <Boon name="Stability"/> on a stationary target than <Skill name="Stand Your Ground"/>.
@@ -115,7 +115,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="7">
 <Card title="Virtues">
-<Traits unembossed traits1="Virtues" traits1Selected="Retaliatory Subconscious, Absolute Resolution, Battle Presence"/>
+<Traits unembossed traits1="Virtues" traits1Selected="Resolute Subconscious, Absolute Resolve, Battle Presence"/>
 If you need more healing or an extra free utility slot, you can swap out Radiance for Virtues. You can then remove <Skill name="Bane Signet"/> for a 2nd utility of choice. Keep in mind that you will lose out on a lot of CC, the shared 216 <Attribute name="Power"/> from <Skill name="Bane Signet"/> and the shared 216 <Attribute name="Condition Damage"/> from triggering <Trait name="Wrath of Justice"/>, so only take this when the extra healing is needed, most likely when dealing with bad instabilities or for less experienced groups.
 </Card>
 </GridItem>
@@ -123,7 +123,7 @@ If you need more healing or an extra free utility slot, you can swap out Radianc
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait name="Right-Hand Strength" size="big" disableText/> | If there is no need for the personal <Boon name="Resolution"/> from <Trait name="Healers Retribution"/>. |
+| <Trait name="Right-Hand Strength" size="big" disableText/> | If there is no need for the personal <Boon name="Resolution"/> from <Trait name="Healers Resolution"/>. |
 | <Trait name="Pure of Heart" size="big" disableText/> | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds. |
 | <Trait name="Master of Consecrations" size="big" disableText/> | Use this when you are using a Consecration skill while running the Virtues trait line. |
 </Card>
@@ -185,41 +185,45 @@ Entering a Tome has a cast time and your Skill 5 on both weapon sets can cancel 
 Tomes also have the passive effect from the Virtues. Through <Trait name="Loremaster"/> those passive effects will be kept even if the Tomes are on cooldown.
 
 All Tomes are built in a similar way:
-* Skill 1 creates an effect in a cone in front of you.
-* Skill 2 creates an effect around you.
-* Skill 3 is a ground target skill.
-* Skill 4 creates a field.
-* Skill 5 grants a unique buff to your allies.
+
+- Skill 1 creates an effect in a cone in front of you.
+- Skill 2 creates an effect around you.
+- Skill 3 is a ground target skill.
+- Skill 4 creates a field.
+- Skill 5 grants a unique buff to your allies.
 
 <Skill name="Tome of Justice"/>:
-* Use this Tome mainly for providing a Fire Field.
-* Skill 1 and 2 are mostly useless on <Specialization name="Firebrand" text="Heal Firebrand"/>.
-* Skill 3 is a CC. It pulls enemies together and can be used from range.
-* Skill 4 creates a Fire Field that can be used to blast <Boon name="Might"/>.
-* Skill 5 grants an effect to allies that makes them inflict burning on their next attacks. This scales with <Attribute name="Condition Damage"/> so be careful when using this skill or skip it entirely when running with <Specialization name="Firebrand" text="Condi Firebrands"/>.
-* When running Radiance, dealing damage with any skill in this Tome will trigger <Trait name="Wrath of Justice"/> and share the <Attribute name="Condition Damage"/> to allies.
-* When running Radiance killing certain enemies will reset this Tome. Keep in mind this will not reset the skills in the Tome.
-* A common rotation in this Tome is 4-(5)-exit.
+
+- Use this Tome mainly for providing a Fire Field.
+- Skill 1 and 2 are mostly useless on <Specialization name="Firebrand" text="Heal Firebrand"/>.
+- Skill 3 is a CC. It pulls enemies together and can be used from range.
+- Skill 4 creates a Fire Field that can be used to blast <Boon name="Might"/>.
+- Skill 5 grants an effect to allies that makes them inflict burning on their next attacks. This scales with <Attribute name="Condition Damage"/> so be careful when using this skill or skip it entirely when running with <Specialization name="Firebrand" text="Condi Firebrands"/>.
+- When running Radiance, dealing damage with any skill in this Tome will trigger <Trait name="Wrath of Justice"/> and share the <Attribute name="Condition Damage"/> to allies.
+- When running Radiance killing certain enemies will reset this Tome. Keep in mind this will not reset the skills in the Tome.
+- A common rotation in this Tome is 4-(5)-exit.
 
 <Skill name="Tome of Resolve"/>:
-* Use this Tome for emergency healing and cleansing.
-* Skill 1 heals in a cone in front of you.
-* Skill 2 heals and cleanses conditions.
-* skill 3 gives some boons but will rarely be used.
-* Skill 4 places a healing field that can also be blasted for extra healing.
-* Skill 5 converts conditions into boons and grants allies an cimoning healing modifier.
-* When running Virtues entering this Tome also cleanses conditions.
-* Common rotations in this Tome are 2-5-4-1-2 for maximum sustained healing or 5-4-2-1-1 for maximum burst healing.
+
+- Use this Tome for emergency healing and cleansing.
+- Skill 1 heals in a cone in front of you.
+- Skill 2 heals and cleanses conditions.
+- skill 3 gives some boons but will rarely be used.
+- Skill 4 places a healing field that can also be blasted for extra healing.
+- Skill 5 converts conditions into boons and grants allies an cimoning healing modifier.
+- When running Virtues entering this Tome also cleanses conditions.
+- Common rotations in this Tome are 2-5-4-1-2 for maximum sustained healing or 5-4-2-1-1 for maximum burst healing.
 
 <Skill name="Tome of Courage"/>:
-* Use this Tome for massive <Boon name="Stability"/>, <Boon name="Resistance"/> or a reflect.
-* Skill 1 grants <Boon name="Stability"/>.
-* Skill 2 inflicts 1 second of <Condition name="Taunt"/> on the enemy.
-* Skill 3 places a bubble that reflects incoming projectiles.
-* Skill 4 places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
-* Skill 5 provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
-* There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
-* You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example a 2nd reflect. However only do this when absolutely needed as you will not have access to the boons and healing your weapon skills provide.
+
+- Use this Tome for massive <Boon name="Stability"/>, <Boon name="Resistance"/> or a reflect.
+- Skill 1 grants <Boon name="Stability"/>.
+- Skill 2 inflicts 1 second of <Condition name="Taunt"/> on the enemy.
+- Skill 3 places a bubble that reflects incoming projectiles.
+- Skill 4 places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
+- Skill 5 provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
+- There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
+- You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example a 2nd reflect. However only do this when absolutely needed as you will not have access to the boons and healing your weapon skills provide.
 
 </Card>
 
@@ -248,7 +252,6 @@ All Tomes are built in a similar way:
 
 </Card>
 
-
 <Grid>
 
 <GridItem sm="6">
@@ -257,9 +260,9 @@ All Tomes are built in a similar way:
 * As mentioned above keep <Skill name="Mantra of Solace"/> and 2 charges and use them when <Boon name="Aegis"/> is needed.
 * <Skill name="Shield of Judgment"/> will also give <Boon name="Aegis"/>. Prioritize this over the charges of <Skill name="Mantra of Solace"/> since this is also your main source of <Boon name="Protection"/>.
 * <Skill name="Tome of Courage"/> Skill 5 will also provide <Boon name="Aegis"/>, however you will not enter this Tome for a single application of <Boon name="Aegis"/>.
-* <Skill name="Retreat"/> is an instant-cast skill providing <Boon name="Aegis"/> when chosen.
+* <Skill name="Advance"/> is an instant-cast skill providing <Boon name="Aegis"/> when chosen.
 * If Mace is equipped, <Skill name="Protectors Strike"/> also grants <Boon name="Aegis"/> when blocking an attack while channeling.
-* You can use instant-cast skills, namely <Skill name="Mantra of Solace"/> and <Skill name="Retreat"/> while channeling other skills so if you need to use <Skill name="Empower"/> but an attack is incoming you can still cast it and get <Boon name="Aegis"/> from one of those skills.
+* You can use instant-cast skills, namely <Skill name="Mantra of Solace"/> and <Skill name="Advance"/> while channeling other skills so if you need to use <Skill name="Empower"/> but an attack is incoming you can still cast it and get <Boon name="Aegis"/> from one of those skills.
 
 </Card>
 </GridItem>
@@ -278,7 +281,6 @@ All Tomes are built in a similar way:
 </GridItem>
 
 </Grid>
-
 
 <Divider text="Healing"/>
 
@@ -305,7 +307,6 @@ All Tomes are built in a similar way:
 * <Skill name="Tome of Resolve"/> Skill 2 and 5 will cleanse conditions as well, however same as with burst healing this is often a last resort. When running Virtues, opening this Tome will also cleanse conditions.
 
 </Card>
-
 
 <Divider text="Videos"/>
 <Message>

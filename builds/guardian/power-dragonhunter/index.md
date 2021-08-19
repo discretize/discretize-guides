@@ -5,8 +5,7 @@ rating: 'Power Meta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
-benchmark:
-  { small: { dps: 35132, by: 'Shetsa [SC]', youtube: 'C98JaabU6_c' } }
+benchmark: { small: { dps: 35132, by: 'Shetsa [SC]', youtube: 'C98JaabU6_c' } }
 skills: [30783, 30039, 9153, 9251]
 boons: ['Resolution', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
@@ -14,8 +13,9 @@ code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Princeps.6481'
 cmguides: '/cm-guides/guardian/power-dragonhunter'
 classification: [3, 4, 3, 2, 4]
-compositions: [ { name: '_RGB' }]
+compositions: [{ name: '_RGB' }]
 ---
+
 <Message>
 <Specialization title="Power Dragonhunter" name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand" /> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups or when played in the <Composition name="_RGB" /> composition. 
 </Message>
@@ -130,14 +130,10 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 </Grid>
 
-
 <Divider text="Details"/>
 As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
 
-Generally it is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersretribution"/> your heal skill applies long lasting  <Trait name="retribution"/>. Since <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> have almost the same cooldown they will line up well (<Skill name="processionofblades"/> has a slightly shorter cooldown thanks to <Trait name ="piercinglight"/>). You can also trigger a <Skill id="13677"/> by losing health below the 75% threshould to trigger <Trait id="648"/>, however you need to be careful to not die. 
-
-
-
+Generally it is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersresolution"/> your heal skill applies long lasting <Trait name="retribution"/>. Since <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> have almost the same cooldown they will line up well (<Skill name="processionofblades"/> has a slightly shorter cooldown thanks to <Trait name ="piercinglight"/>). You can also trigger a <Skill id="13677"/> by losing health below the 75% threshould to trigger <Trait id="648"/>, however you need to be careful to not die.
 
 <Divider text="Rotation / Skill Usage"/>
 
@@ -173,7 +169,6 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 </Card>
 
 </GridItem>
-
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
@@ -212,6 +207,6 @@ It is very much recommended to play <BuildLink build="Condi Firebrand" specializ
 - Open with <Skill name="refraction"/> for <Boon name="resolution"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
 - Priority list:
-  1) <Skill name="Zealots flurry"/> (Spear 2)
-  2) <Skill name="Symbol of spears"/> (Spear 4)
-  3) <Skill name="brilliance"/> (Spear 3)
+  1. <Skill name="Zealots flurry"/> (Spear 2)
+  2. <Skill name="Symbol of spears"/> (Spear 4)
+  3. <Skill name="brilliance"/> (Spear 3)

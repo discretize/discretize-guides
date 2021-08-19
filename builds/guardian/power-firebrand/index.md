@@ -5,7 +5,8 @@ rating: 'Power Meta'
 role: 'Damage'
 profession: 'Guardian'
 specialization: 'Firebrand'
-benchmark: { small: { dps: 23300, by: 'MajesticNoodle [BATS]', youtube: 'G1Y1u4ZwJh8' } }
+benchmark:
+  { small: { dps: 23300, by: 'MajesticNoodle [BATS]', youtube: 'G1Y1u4ZwJh8' } }
 skills: [9093, 9153, 9251]
 boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Resolution', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
@@ -13,7 +14,7 @@ code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'ganymed.3541'
 cmguides: '/cm-guides/guardian/power-firebrand'
 classification: [5, 3, 4, 2, 4]
-compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_RGB' }]
+compositions: [{ name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_RGB' }]
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.
@@ -100,7 +101,7 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Healers Retribution, Retribution, Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath, Zealous Blade, Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow, Stalwart Speed, Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Healers Resolution, Retribution, Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath, Zealous Blade, Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow, Stalwart Speed, Loremaster"/>
  <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
@@ -135,13 +136,12 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 </GridItem>
 </Grid>
 
-
 <Divider text="Details"/>
 
 To keep up <Boon name="Quickness"/>:
 
 - Use <Skill name="Feel My Wrath"/> whenever ready
-- Use <Skill name="mantraofpotence"/> and <Skill name="mantraofsolace"/> 
+- Use <Skill name="mantraofpotence"/> and <Skill name="mantraofsolace"/>
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 - Keep in mind that equipping/stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
@@ -153,15 +153,17 @@ The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-drag
   - And finally, equip Sword and cast <Skill name="Symbol of Blades"/>
   - This way, when the encounter starts, 3 symbols will hit the target and get up your stacks of <Trait name="symbolicavenger"/>
 - On greatsword:
+
   - Use <Skill name="Symbol of Wrath"/>, you should cancel the aftercast with weapon stowing or simply moving
   - Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
-  
+
 - On Sword:
-  - Use <Skill name="Ray of Judgment"/>, try if possible to cancel the aftercast with weaponswap or <Skill name="Symbol of Blades"/> 
-  - Use <Skill name="Symbol of Blades"/> 
-  - Use <Skill name="Zealots Defense"/> 
+
+  - Use <Skill name="Ray of Judgment"/>, try if possible to cancel the aftercast with weaponswap or <Skill name="Symbol of Blades"/>
+  - Use <Skill name="Symbol of Blades"/>
+  - Use <Skill name="Zealots Defense"/>
   - <Skill name="Shield of Wrath"/> when you're not receiving hits - use it shortly before breaking defiance bars. Can also be used to help with stacking <Boon name="Might"/>
- 
+
 - Apart from that:
   - <Skill name="Bane Signet"/> to break defiance bars and provide the group with a temporary 216 <Attribute name="Power"/> buff
   - <Skill id="9226"/> (after <Skill id="9147"/>) is nice CC skill as well
@@ -212,11 +214,10 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take _Mistlock Singularity_
-8) Use <Skill name="Feelmywrath"/> 
+8) Use <Skill name="Feelmywrath"/>
 
 </Card>
 </GridItem>
-
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
@@ -251,6 +252,6 @@ It is very much recommended to play <BuildLink build="Condi Firebrand" specializ
 - Open with <Skill name="refraction"/> for <Boon name="resolution"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
 - Priority list:
-  1) <Skill name="Zealots flurry"/> (Spear 2)
-  2) <Skill name="Symbol of spears"/> (Spear 4)
-  3) <Skill name="brilliance"/> (Spear 3)
+  1. <Skill name="Zealots flurry"/> (Spear 2)
+  2. <Skill name="Symbol of spears"/> (Spear 4)
+  3. <Skill name="brilliance"/> (Spear 3)

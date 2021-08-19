@@ -122,19 +122,20 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 </GridItem>
 </Grid>
 
-
 <Divider text="Details"/>
 
 Keeping up <Boon name="Quickness"/> is a lot easier than with a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> thanks to the increased <Attribute name="Boon Duration"/>. Nevertheless, it has less room for errors compared to <BuildLink build="Heal Firebrand" specialization="Firebrand"/>! General guidelines for keeping up <Boon name="Quickness"/>:
+
 - Use <Skill name="Feel My Wrath"/> whenever ready.
 - Use <Skill name="Mantra of Potence"/> off cooldown and <Skill name="Mantra of Solace"/> every 7 seconds due to the cooldown of <Trait name="Liberators Vow"/>
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 - Keep in mind that equipping/stowing a tome grants you (only you, not your party members!) 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 The rotation is a **lot** simpler compared to any other <Specialization name="Guardian"/> build (except for hfb where your weapons do not have immediate effect on how efficient the build is). However, weapon swaps require careful consideration, because it is not efficient to be stuck on staff or to have less than 25 <Boon name="might"/> during a damage phase.  
-Getting the weapon swaps right is probably the hardest part (more info below). Generally, it is recommended to always camp Axe/Torch and only swap to staff to use <Skill name="Empower"/> to top up <Boon name="Might"/>.   
+Getting the weapon swaps right is probably the hardest part (more info below). Generally, it is recommended to always camp Axe/Torch and only swap to staff to use <Skill name="Empower"/> to top up <Boon name="Might"/>.
 
 **General information:**
+
 - On Axe/Torch:
   - Use <Skill name="Symbol of Vengeance"/>
   - Use <Skill name="Zealots Flame"/> into <Skill name="Zealots Fire"/>
@@ -146,21 +147,22 @@ Getting the weapon swaps right is probably the hardest part (more info below). G
   - Dont be afraid to replace a skill, preferably Chapter 1: Searing Spell (F1-1) or Chapter 2: Igniting Burst (F1-2), with Chapter 3: Heated Rebuke (F1-3) for more CC or to pull any adds.
 - On Staff:
   - Use <Skill name="Empower"/>
-  - Blast fire fields with <Skill name="holystrike"/>. If there is no fire field you can put one down with tome1-4 
+  - Blast fire fields with <Skill name="holystrike"/>. If there is no fire field you can put one down with tome1-4
   - Use <Skill name="Symbol of Swiftness"/>
 - Apart from that:
-  - <Skill name="Sanctuary"/> or <Skill name="Bane Signet"/> to break defiance bars. Using <Skill name="Bane Signet"/> to provide the group with a temporary 216 <Attribute name="Power"/> buff (Should also be used when there is no defiance bar ready but it will be off cooldown for the next phase). 
+  - <Skill name="Sanctuary"/> or <Skill name="Bane Signet"/> to break defiance bars. Using <Skill name="Bane Signet"/> to provide the group with a temporary 216 <Attribute name="Power"/> buff (Should also be used when there is no defiance bar ready but it will be off cooldown for the next phase).
   - Remember to be smart about your free utility swap and adjust as necessary to the encounter and your party.
 
-Suggested key moments to swap to staff and <Skill name="Empower"/>: 
-- **MAMA**: There is no exact key moment and you need to decide on your own when to swap to staff. 
+Suggested key moments to swap to staff and <Skill name="Empower"/>:
+
+- **MAMA**: There is no exact key moment and you need to decide on your own when to swap to staff.
 - **Siax**: This build has quite good damage and is fairly self sustained enabling you to kill your add quickly. Swap to staff for the last few percent and be ready to <Skill name="Empower"/> in the middle. This works better the slower the group is due to weapon swap cooldown. If another person helps you kill your add (typically the <Specialization name="Renegade"/>) you can chill on staff for the add so you are ready to swap to Axe/Torch sooner.
-- **Enso**: Be on staff at the beginning of every phase and use <Skill name="Empower"/> while Ensolyss is invulnerable. 
+- **Enso**: Be on staff at the beginning of every phase and use <Skill name="Empower"/> while Ensolyss is invulnerable.
 - **Skorvald**: Anomalies 2 and 4. In case your group gets too fast you might have to skip <Skill name="Empower"/> at the 2nd island. When using the 66% portal make sure to drop a <Skill name="Symbol of Swiftness"/> on Skorvald before swapping to Axe/Torch.
 - **Artsariiv**: If your party deals the majority of its damage in the middle you want to empower at 66% and 33% shortly before she becomes vulnerable. If not you may empower while she is jumping away and the team kills the Anomaly.
 - **Arkk**: Finish your orb first by camping in the light field and auto attacking with the superior weapon (staff) so you can precast <Skill name="Empower"/> and <Skill name="Symbol of Swiftness"/>.
 - **Ai**: On light Ai you will want to <Skill name="Empower"/> mid at the beginning of the fight and after each split phase. You should also swap to Staff during the split mechanic so you can cast <Skill name="Empower"/> as everyone returns to the middle. On Dark Ai this is mostly the same aside from the lack of split phases so keep an eye on <Boon name="might"/> and be ready to swap to Staff when needed. Remember with the amount of movement on this fight to be casting <Skill name="Symbol of Swiftness"/> where possible to help keep everyone moving.
-  
+
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
@@ -176,7 +178,6 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - Skill 4 grants <Boon name="Resistance"/> and breaks stun
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
-
 <Grid>
 <GridItem xs="12" sm="6">
 <Card title="Precasting">
@@ -188,7 +189,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>  (If you have it)
 7) Take _Mistlock Singularity_
-8) Use <Skill name="Feelmywrath"/> 
+8) Use <Skill name="Feelmywrath"/>
 
 </Card>
 </GridItem>
@@ -212,7 +213,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 1. <Skill name="Zealots Flame" profession="guardian"/> (Torch 4)
 1. <Skill name="Zealots Fire" profession="guardian"/> (Torch 4)
 1. <Skill name="Symbol of Vengeance " profession="guardian"/> (Axe 2)
-1. Auto Attack 
+1. Auto Attack
 
 </Card>
 </GridItem>

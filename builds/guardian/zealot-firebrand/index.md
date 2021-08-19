@@ -14,7 +14,7 @@ classification: [5, 2, 3, 3, 4]
 
 The **<Specialization text="Zealot Firebrand" name="Firebrand"/>** (also **_ZBrand_**) is a niche build for people that are able to consistently avoid one shot mechanics and don't require burst heals. This build is useful for parties that are in the transition of swapping to a no-heal composition but still struggle to give up the convenience of having a dedicated healer. It provides permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>. The healing output is slow but steady helping to keep up everybody's <Item name="scholar"/> buff and therefore serving as a light safety net for minor mistakes.
 
-It plays very similar to <BuildLink build="Power Firebrand" specialization="Firebrand"/>, except that the damage output is significantly lowered due to slotting the Honor trait line. 
+It plays very similar to <BuildLink build="Power Firebrand" specialization="Firebrand"/>, except that the damage output is significantly lowered due to slotting the Honor trait line.
 
 The basic design idea of the Zealotbrand originates from the infamous Seraphbrand build, which is essentially a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with 600-800 <Attribute name="Healing Power"/> and healing via the trait <Trait name="Writ of persistence"/> in the Honor trait line. A big downside of the Seraphbrand is that it provides not much CC and also no party damage buffs. This is where the Zealotbrand draws on: by being a power-oriented build there is no harm in slotting <Trait name="perfect inscriptions"/> and sharing the <Skill name="bane signet"/> buff.
 
@@ -85,7 +85,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Healers Retribution, Retribution, Perfect Inscriptions" traits2="Honor" traits2Selected="protectorsrestoration, Empowering Might, Writ of Persistence" traits3="Firebrand" traits3Selected="Liberators Vow, Stalwart Speed, Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Healers Resolution, Retribution, Perfect Inscriptions" traits2="Honor" traits2Selected="protectorsrestoration, Empowering Might, Writ of Persistence" traits3="Firebrand" traits3Selected="Liberators Vow, Stalwart Speed, Loremaster"/>
  <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
@@ -113,7 +113,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | <Skill id="9153" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
 | <Skill id="9125" size="big" disableText/> | Deals an additional 200 defiance bar damage. |
 | <Skill id="9251" size="big" disableText/> | A stationary reflect lasting for 10 seconds. |
-| <Skill id="43357" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
+| <Skill name="mantraofliberation" size="big" disableText/> | When <Boon name="Stability"/> or a stunbreak is needed. |
 | <Skill id="9247" size="big" disableText/> | A 1200 range teleport to an enemy. |
 | <Skill name="Purging flames" size="big" disableText/> | Cleanses conditions. |
 | <Skill name="Sanctuary" size="big" disableText/> | Huge CC and projectile destruction. |
@@ -124,19 +124,20 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 </Grid>
 
-
 <Divider text="Details"/>
 
 Keeping up <Boon name="Quickness"/> is a lot easier than with a <BuildLink build="Power Firebrand" specialization="Firebrand"/> thanks to the increased <Attribute name="Boon Duration"/> (if you chose to run the 162 <Attribute name="Agony Resistance"/> build). Nevertheless, it has significantly less room for errors compared to <BuildLink build="Heal Firebrand" specialization="Firebrand"/>. While you might get away with missing one puke, you will not get away with missing it twice! General guidelines for keeping up <Boon name="Quickness"/>:
+
 - Use <Skill name="Feel My Wrath"/> whenever ready. This is especially important considering it provides <Boon name="Fury"/> to the team, which is the one thing this particular build struggles with.
 - Use <Skill name="Mantra of Potence"/> off cooldown and <Skill name="Mantra of Solace"/> every 7 seconds due to the cooldown of <Trait name="Stalwart Speed"/>
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 - Keep in mind that equipping/stowing a tome grants you (only you, not your party members!) 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 The rotation is a **lot** simpler compared to any other <Specialization name="Guardian"/> build (except for hfb where your weapons do not have immediate effect on how efficient the build is). However, weapon swaps require careful consideration, because it is not efficient to be stuck on staff or to have less than 25 <Boon name="might"/> during a damage phase.  
-Getting the weapon swaps right is probably the hardest part (more info below). Generally, it is recommended to always camp greatsword and only swap to staff to use <Skill name="Empower"/> to top up <Boon name="Might"/>.   
+Getting the weapon swaps right is probably the hardest part (more info below). Generally, it is recommended to always camp greatsword and only swap to staff to use <Skill name="Empower"/> to top up <Boon name="Might"/>.
 
 **General information:**
+
 - If the encounter allows you to, you can prestack the following symbols:
   - Equip Mace and precast <Skill name="Symbol of Faith"/>
   - Equip Scepter and precast <Skill name="Symbol of Punishment"/>
@@ -147,21 +148,22 @@ Getting the weapon swaps right is probably the hardest part (more info below). G
   - Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
 - On Staff:
   - Use <Skill name="Empower"/>
-  - Blast fire fields with <Skill name="holystrike"/>. If there is no fire field you can put one down with tome1-4 
+  - Blast fire fields with <Skill name="holystrike"/>. If there is no fire field you can put one down with tome1-4
   - Use <Skill name="Symbol of Swiftness"/>
 - Apart from that:
   - <Skill name="Bane Signet"/> to break defiance bars and provide the group with a temporary 216 <Attribute name="Power"/> buff. Should also be used when there is no defiance bar ready but it will be off cooldown for the next phase.
   - <Skill id="9226"/> (after <Skill id="9147"/>) is nice CC skill as well
-  - <Skill name="Sword of Justice"/> for additional DPS and  12 stacks of <Condition name="vulnerability"/>. Also provides 3 seconds of <Condition name="Crippled"/>
+  - <Skill name="Sword of Justice"/> for additional DPS and 12 stacks of <Condition name="vulnerability"/>. Also provides 3 seconds of <Condition name="Crippled"/>
 
-Suggested key moments to swap to staff and <Skill name="Empower"/>: 
+Suggested key moments to swap to staff and <Skill name="Empower"/>:
+
 - **Skorvald**: Anomalies 2 and 4. In case your group gets too fast you might have to skip <Skill name="Empower"/>ing at the 2nd island. When using the 66% portal make sure to drop a <Skill name="Symbol of Swiftness"/> on Skorvald before swapping to Greatsword.
 - **Artsariiv**: If your party deals the majority of its damage in the middle you want to empower at 66% and 33% shortly before she becomes vulnerable. If not you may empower while she is jumping away and the team kills the Anomaly.
 - **Arkk**: finish your orb first by camping in the light field and autoattacking with the superior weapon (staff) so you can precast <Skill name="Empower"/> and <Skill name="Symbol of Swiftness"/>.
-- **MAMA**: There is no exact key moment and you need to decide on your own when to swap to staff. 
+- **MAMA**: There is no exact key moment and you need to decide on your own when to swap to staff.
 - **Siax**: This build has quite good burst abilities and is fairly self sustained enabling you to kill your add quickly. Make sure to save a <Skill name="Sword of justice"/> for your add (for insta <Condition name="Vulnerability"/> application). Swap to staff for the last few percent and be ready to <Skill name="Empower"/> in the middle. This works better the slower the group is due to weapon swap cooldown. If another person helps you killing your add (typically the <Specialization name="Renegade"/>) you can chill on staff for the add and have your big greatsword burst available for the <Effect name="Exposed"/> burst.
-- **Enso**: Be on staff at the beginning of every phase and use <Skill name="Empower"/> while Ensolyss is invulnerable. 
-  
+- **Enso**: Be on staff at the beginning of every phase and use <Skill name="Empower"/> while Ensolyss is invulnerable.
+
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
@@ -182,7 +184,6 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - Skill 4 grants <Boon name="Resistance"/> and breaks stun
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
-
 <Grid>
 <GridItem xs="12" sm="6">
 <Card title="Precasting">
@@ -194,7 +195,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 5) Use <Skill name="Feelmywrath"/> 
 6) Use <Skill name="banesignet"/>
 7) Take _Mistlock Singularity_
-8) Use <Skill name="Feelmywrath"/> 
+8) Use <Skill name="Feelmywrath"/>
 
 </Card>
 </GridItem>
@@ -227,6 +228,6 @@ It is very much recommended to play <BuildLink build="Condi Firebrand" specializ
 - Open with <Skill name="refraction"/> for <Boon name="Resolution"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
 - Priority list:
-  1) <Skill name="Zealots flurry"/> (Spear 2)
-  2) <Skill name="Symbol of spears"/> (Spear 4)
-  3) <Skill name="brilliance"/> (Spear 3)
+  1. <Skill name="Zealots flurry"/> (Spear 2)
+  2. <Skill name="Symbol of spears"/> (Spear 4)
+  3. <Skill name="brilliance"/> (Spear 3)
