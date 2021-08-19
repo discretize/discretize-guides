@@ -220,7 +220,7 @@ You can trait <Trait id="1852"/> to share <Boon name="Aegis" disableText/> with 
 - <Skill id="42259"/> <Specialization disableText name="Firebrand"/>  
    (F3, periodically)  
    (Tome skill 2 and 5)
-- <Skill id="41475"/> <Specialization disableText name="Firebrand"/>  
+- <Skill id="41714"/> <Specialization disableText name="Firebrand"/>  
    (Heal skill)
   </Card>
   </GridItem>
