@@ -281,7 +281,7 @@ At the boss (prespawned bosses)
 - Precast rotation. Start on Staff or Shield.
 
 1. <Skill name="Phantasmal Warlock"/>
-2. <Skill name="Phase Advance"/>
+2. <Skill name="Phase Retreat"/>
    2. Omit this step if <Skill name="Mimic"/> is precasted
 
 3. Swap to Greatsword from inventory
