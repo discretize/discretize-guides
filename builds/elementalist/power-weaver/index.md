@@ -300,7 +300,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 <GridItem sm="10">
 1. <Skill name="Invoke Lightning"/>   
     <Label>Only if pre-casted LH</Label>
-2. <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap" profession="bundle"/>   
+2. <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap"/>   
     <Label>Only if pre-casted LH</Label>
 3. <Skill name="Cauterizing Strike"/>
 4. <Skill name="Fire Grab"/>
@@ -339,7 +339,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 <GridItem sm="10">
 1. <Skill name="Fiery Rush"/>
-2. <Skill name="Firestorm" profession="bundle"/>
+2. <Skill name="Firestorm"/>
 3. <Skill name="Cauterizing Strike"/>
 4. <Skill name="Ring of Fire"/>
 5. <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
@@ -356,7 +356,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 </Grid>
 
-If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto-attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> => <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap" profession="bundle"/> instead.
+If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto-attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> => <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap"/> instead.
 
 With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill name="Water Attunement" disableText/> before going directly into <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> after using your Fire skills.
 
