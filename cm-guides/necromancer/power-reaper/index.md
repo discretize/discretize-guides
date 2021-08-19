@@ -233,7 +233,7 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
 1) Cast <Skill name="Lich Form"/> 4 before _Skorvald_ starts 
 	1) if your group is really fast, keep Lich Form for the last phase
 2) <Skill name="Grasping Darkness"/> (GS 5)
-3) <Skill name="Nihgtfall"/> (GS 4)
+3) <Skill name="Nightfall"/> (GS 4)
 4) Place both of your wells
 5) If _Skorvald_ is still not broken:
         2) <Skill name="Infusing Terror"/> (Shroud 3)

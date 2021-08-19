@@ -182,7 +182,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 1. <Skill name="Zealotsdefense" profession="guardian"/> (Sword 3)
 1. <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
 1. **Weapon Swap**
-1. <Skill name="Symbol of Wrath " profession="guardian"/> (GS 4)
+1. <Skill name="Symbol of Resolution" profession="guardian"/> (GS 4)
 1. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
 1.  <Skill name="Sword of Justice" profession="guardian"/> 
 1. <Skill name="Dragons Maw" profession="guardian"/>

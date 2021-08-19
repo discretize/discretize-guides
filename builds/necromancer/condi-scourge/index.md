@@ -107,7 +107,7 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | <Skill name="Oppressive Collapse" size="big" disableText/> | 200 damage with <Control name="Knockdown"/> |
 | <Skill name="Garish Pillar" size="big" disableText/> | 200 damage with <Condition name="Fear"/> |
 | <Skill name="Wail of Doom" size="big" disableText/> | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>) |
-| <Skill name="Charge" size="big" disableText/> | 200 damage with <Control name="Knockdown"/> and 232 with <Control name="Launch"/> coming from <Skill name="Summon Flesh Golem"/>| 
+| <Skill name="Charge" profession="necromancer" size="big" disableText/> | 200 damage with <Control name="Knockdown"/> and 232 with <Control name="Launch"/> coming from <Skill name="Summon Flesh Golem"/>| 
 | <Skill name="Spectral Grasp" size="big" disableText/> | 150-750 damage with <Control name="Pull" /> (see situational skills) |
 </Card>
 </GridItem> 
