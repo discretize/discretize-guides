@@ -199,12 +199,12 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 
 **How to deal damage:**
 * Use <Skill name="decapitate"/> as often as possible. Three crits are required to gain a single <Skill name="decapitate"/>:
-    1. <Skill name="Cycloneaxe"/> and <Skill name="throwaxe"/>. 
-    2. <Skill name="Dualstrike"/> and <Skill name="throwaxe"/>. 
+    1. <Skill name="Cycloneaxe"/> and <Skill name="Throw axe" profession="warrior"/>. 
+    2. <Skill name="Dualstrike"/> and <Skill name="Throw axe" profession="warrior"/>. 
     3. <Skill name="whirlingaxe"/>.
 * Get three <Skill name="decapitate"/> before pressing <Skill name="Whirling axe"/>.
 * If the boss has a breakbar, make sure to use <Skill name="Tremor"/> to proc <Item name="severance"/>, then swap to Axe/Axe.
-* Only use <Skill name="Throw Axe"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
+* Only use <Skill name="Throw axe" profession="warrior"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
 * Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase. 
 * Keep in mind that <Skill name="Crushing Blow"/> inflicts 10x <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst.
 * It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
@@ -293,23 +293,23 @@ For that reason you can find a video with openers, that are efficient to use her
 
 or depending on the phase length:
 
-- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
-- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
+- <Skill name="cycloneaxe"/>, <Skill name="Throw axe" profession="warrior"/> and <Skill name="decapitate"/>.
+- <Skill name="dualstrike"/>, <Skill name="Throw axe" profession="warrior"/> and <Skill name="decapitate"/>.
 
 **Short phases (6 seconds):**
 
-- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
-- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
+- <Skill name="cycloneaxe"/>, <Skill name="Throw axe" profession="warrior"/> and <Skill name="decapitate"/>.
+- <Skill name="dualstrike"/>, <Skill name="Throw axe" profession="warrior"/> and <Skill name="decapitate"/>.
 - <Skill name="whirlingaxe"/> and <Skill name="decapitate"/>.
 - <Skill name="cycloneaxe"/>, <Skill name="chop"/> and <Skill name="decapitate"/>.
 
 **Longer phases (>10 seconds):**
 
-- <Skill name="dualstrike"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
-- <Skill name="cycloneaxe"/>, <Skill name="Throwaxe"/> and <Skill name="decapitate"/>.
+- <Skill name="dualstrike"/>, <Skill name="Throw axe" profession="warrior"/> and <Skill name="decapitate"/>.
+- <Skill name="cycloneaxe"/>, <Skill name="Throw axe" profession="warrior"/> and <Skill name="decapitate"/>.
 - <Skill name="whirlingaxe"/> and <Skill name="decapitate"/>.
 - <Skill name="cycloneaxe"/>, <Skill name="chop"/> and <Skill name="decapitate"/>.
-- <Skill name="Throwaxe"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
+- <Skill name="Throw axe" profession="warrior"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
 
 </Card>
 

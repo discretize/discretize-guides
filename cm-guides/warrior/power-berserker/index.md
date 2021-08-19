@@ -451,7 +451,7 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
 - Swap to offhand mace.
 - Dodge into the lightning.
 - Auto attack the bloom.
-- Use a <Skill name="Throwaxe"/> against the bloom to push it to the tower.
+- Use a <Skill name="Throw axe" profession="warrior"/> against the bloom to push it to the tower.
 - Dodge out.
 - Use <Skill name="mending"/> to restore <Item name="scholar"/>.
 
