@@ -144,7 +144,7 @@ Getting the weapon swaps right is probably the hardest part (more info below). G
   - And finally, equip Sword and cast <Skill name="Symbol of Blades"/>
   - This way, when the encounter starts, 3 symbols will hit the target and deal significant damage during the opening burst.
 - On greatsword:
-  - Use <Skill name="Symbol of Wrath"/>, you should cancel the aftercast with weapon stowing or simply moving
+  - Use <Skill name="Symbol of Resolution"/>, you should cancel the aftercast with weapon stowing or simply moving
   - Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
 - On Staff:
   - Use <Skill name="Empower"/>
@@ -208,7 +208,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 1. <Skill name="Holystrike"/> (Staff 2)
 1. **Weapon Swap**
 2. <Skill name="Sword of Justice" profession="guardian"/>
-1. <Skill name="Symbol of Wrath " profession="guardian"/> (GS 4)
+1. <Skill name="Symbol of Resolution " profession="guardian"/> (GS 4)
 1. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
 2. <Skill name="Sword of Justice" profession="guardian"/>
 1. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)

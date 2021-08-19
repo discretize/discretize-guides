@@ -26,7 +26,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 </ConditionalComponent>
 
 ### **Phase 1**
-- Precast <Skill name="tome of justice"/> skill 4 and 5, <Skill name="Symbolofblades"/>, <Skill name="shieldofwrath"/> and <Skill name="Symbolofwrath"/> when she is still invulnerable
+- Precast <Skill name="tome of justice"/> skill 4 and 5, <Skill name="Symbolofblades"/>, <Skill name="shieldofwrath"/> and <Skill name="Symbol of Resolution"/> when she is still invulnerable
 - Cast <Skill name="banesignet"/> to CC
 - Use <Skill name="whirlingwrath"/> 
 
@@ -36,7 +36,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 
 ### **Phase 2**
 - <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath
-- <Skill name="symbol of wrath"/> 
+- <Skill name="Symbol of Resolution"/> 
 - <Skill name="whirling wrath"/>
 - Weapon swap
 - <Skill name="rayof judgment"/>
@@ -52,7 +52,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 - <Skill name="symbol of blades"/> 
 - <Skill name="zealots defense"/>
 - Weapon Swap
-- <Skill name="symbol of wrath"/>
+- <Skill name="Symbol of Resolution"/>
 - <Skill name="whirling wrath"/>
 
 ### *Third Add*
@@ -62,7 +62,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 ### **Phase 4**
 - <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath for stacking <Boon name="Might"/> before she reach the party (Ideally right when the third add dies)
 - Help with CC with  whatever you have
-- <Skill name="symbol of wrath"/>
+- <Skill name="Symbol of Resolution"/>
 - <Skill name="whirling wrath"/>
 - Weapon swap
 - <Skill name="ray of judgment"/>
@@ -86,7 +86,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 - <Skill name="shield of wrath"/>
 - Weapon swap
 - Use <Skill name="banesignet"/> to CC
-- <Skill name="symbol of wrath"/> 
+- <Skill name="Symbol of Resolution"/> 
 - <Skill name="whirling wrath"/>
 
 ### *Split Phase 1*
@@ -97,7 +97,7 @@ NOTE - you should help your <Specialization name="Weaver"/> on the north
 
 ### **Phase 2**
 - <Skill name="sword of justice"/>
-- <Skill name="symbol of wrath"/>
+- <Skill name="Symbol of Resolution"/>
 - <Skill name="whirling wrath"/>
 - Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
 - Weapon swap
@@ -117,7 +117,7 @@ NOTE - you should help both <Specialization name="Weaver"/>  and <Specialization
 - <Skill name="zealotsdefense"/>
 - <Skill name="shield of wrath"/>
 - Weapon swap
-- <Skill name="symbol of wrath"/>
+- <Skill name="Symbol of Resolution"/>
 - <Skill name="whirling wrath"/>
 - Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
 
@@ -145,7 +145,7 @@ These builds only work if you can kill Siax in under 40 seconds. If there is any
 - <Skill name="ray of judgment"/>
 - Weapon swap
 - <Skill name="banesignet"/>
-- <Skill name="symbol of wrath"/> (only use it if it's in P2 off cooldown)
+- <Skill name="Symbol of Resolution"/> (only use it if it's in P2 off cooldown)
 - <Skill name="whirling wrath"/>
 
 ### *Split 1*
@@ -158,7 +158,7 @@ These builds only work if you can kill Siax in under 40 seconds. If there is any
 - <Skill name="sword of justice"/>
 - <Skill name="processionofblades"/>
 - <Skill name="spear of justice"/>
-- <Skill name="symbol of wrath"/>
+- <Skill name="Symbol of Resolution"/>
 - <Skill name="whirling wrath"/>
 - Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
 - Weapon swap
@@ -180,7 +180,7 @@ These builds only work if you can kill Siax in under 40 seconds. If there is any
 - <Skill name="symbol of punishment"/>
 - <Skill name="shield of wrath"/>
 - Weapon swap
-- <Skill name="symbol of wrath"/>
+- <Skill name="Symbol of Resolution"/>
 - <Skill name="whirling wrath"/>
 - Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
 </Tab>
@@ -208,7 +208,7 @@ These builds only work if you can kill Siax in under 40 seconds. If there is any
 
 ### **Phase 2**
 - <Skill name="sword of justice"/>
-- <Skill name="symbol of wrath"/>
+- <Skill name="Symbol of Resolution"/>
 - <Skill name="virtue of resolve"/>
 - <Skill name="whirling wrath"/>
 - Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
@@ -232,7 +232,7 @@ Keep in mind that if your group is not fast enough, you need to use <Skill name=
 - <Skill name="zealots defense"/>
 - <Skill name="shield of wrath"/>
 - Weapon swap
-- <Skill name="symbol of wrath"/>
+- <Skill name="Symbol of Resolution"/>
 - <Skill name="whirling wrath"/>
 - Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
 </Tab>
@@ -267,7 +267,7 @@ If your group can phase Ensolyss in under 16 seconds you can swap to <Specializa
 - <Skill name="zealotsdefense"/>
 - <Skill name="sword of justice"/>
 - Weapon swap
-- <Skill name="symbol of wrath"/>
+- <Skill name="Symbol of Resolution"/>
 - <Skill name="whirling wrath"/>
 - <Skill name="Bindingblade"/>
 - <Skill name="leapoffaith"/>
@@ -284,7 +284,7 @@ If your group can phase Ensolyss in under 16 seconds you can swap to <Specializa
 - <Skill name="sword of justice"/>
 -  <Skill name="zealotsdefense"/>
 - Weapon swap
-- <Skill name="symbol of wrath"/>
+- <Skill name="Symbol of Resolution"/>
 - <Skill name="whirling wrath"/>
 - <Skill name="Bindingblade"/>
 - <Skill name="leapoffaith"/>
@@ -319,7 +319,7 @@ Skill usage on Skorvald depends on whether your <Specialization name="Renegade"/
  2) Precast <Skill name="Shield of wrath"/>
  3) <Skill name="bane signet"/> to CC
  4) <Skill name="ray of judgment"/>
- 5) <Skill name="symbol of wrath"/>
+ 5) <Skill name="Symbol of Resolution"/>
  6) <Skill name="whirling wrath"/>
  
  ### *Split phases*
@@ -328,7 +328,7 @@ Skill usage on Skorvald depends on whether your <Specialization name="Renegade"/
      2) <Skill name="whirling wrath"/>
  2) Second Island
      1) <Skill name="tome of justice"/> Skill 4
-     2) <Skill name="symbol of wrath"/>
+     2) <Skill name="Symbol of Resolution"/>
      3) <Skill name="whirling wrath"/>
      4) Weapon Swap
  3) Third island
@@ -343,7 +343,7 @@ Skill usage on Skorvald depends on whether your <Specialization name="Renegade"/
  ### **Phase 2 and 3**
  1) <Skill name="symbol of punishment"/>
  2) <Skill name="ray of judgment"/>
- 3) <Skill name="symbol of wrath"/>
+ 3) <Skill name="Symbol of Resolution"/>
  4) <Skill name="whirling wrath"/>
  5) <Skill name="bindingblade"/>
      
@@ -374,7 +374,7 @@ Stay in the middle
 2) Precast <Skill name="Shield of wrath"/>
 3) <Skill name ="zealotsdefense"/>
 4) Weapon swap
-5) <Skill name="symbol of wrath"/>
+5) <Skill name="Symbol of Resolution"/>
 6) <Skill name="bindingblade"/>
 7) <Skill name="whirling wrath"/>
 8) Use <SpecialActionKey name="hypernovalaunch"/> to the corner
@@ -390,14 +390,14 @@ Stay in the middle
 4) <Skill name="ray of judgment"/>
 5) <Skill name="shield of wrath"/> (if its off CD)
 6) Weapon swap
-7) <Skill name="symbol of wrath"/>
+7) <Skill name="Symbol of Resolution"/>
 8) Use <Skill name="Stand your ground"/> and share <Boon name="Aegis"/>
 9) <Skill name="whirling wrath"/>
 10) <Skill name="bindingblade"/>
 11) <Skill name="leapoffaith"/>
 12) Use <SpecialActionKey name="hypernovalaunch"/> to the corner
 13) <Skill name="whirling wrath"/>
-14) <Skill name="symbol of wrath"/>
+14) <Skill name="Symbol of Resolution"/>
 15) Weapon swap
 16) <Skill name="symbol of blades"/>
 
@@ -411,7 +411,7 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 
 ### **Phase 1**
 1) Precast <Skill name="Banesignet"/>, <Skill name="symbol of punishment"/>, <Skill name="Shield of wrath"/>.
-3) <Skill name="symbol of wrath"/>
+3) <Skill name="Symbol of Resolution"/>
 4) <Skill name="bindingblade"/>
 5) <Skill name="whirling wrath"/>
 1) Weapon Swap
@@ -424,7 +424,7 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 3) <Skill name="ray of judgment"/>
 2) <Skill name="zealotsdefense"/>
 3) Use <Skill name="shield of wrath"/> to block the expanding aoe
-5) <Skill name="symbol of wrath"/>
+5) <Skill name="Symbol of Resolution"/>
 7) <Skill name="whirling wrath"/>
 
 </ConditionalComponent>
@@ -468,7 +468,7 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 3) <Skill name="ray of judgment"/>
 5) <Skill name="shield of wrath"/>
 6) Weapon swap
-7) <Skill name="symbol of wrath"/>
+7) <Skill name="Symbol of Resolution"/>
 8) <Skill name="whirling wrath"/>
 9) <Skill name="bindingblade"/>
 10) <Skill name="whirling wrath"/> if not phased yet
@@ -478,7 +478,7 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 
 You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 1) <Skill name="sword of justice"/>
-2) <Skill name="symbol of wrath"/>
+2) <Skill name="Symbol of Resolution"/>
 3) <Skill name="whirling wrath"/>
 
 ### *Add Phase 1*
@@ -489,7 +489,7 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 
 ### **Phase 3**
 1) Precast <Skill name="sword of justice"/>
-2) <Skill name="symbol of wrath"/>
+2) <Skill name="Symbol of Resolution"/>
 3) <Skill name="whirling wrath"/>
 4) Weapon swap
 8) <Skill name="shield of wrath"/>
@@ -503,7 +503,7 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 2) <Skill name="symbol of blades"/>
 3) <Skill name="ray of judgment"/>
 4) Weapon swap
-5) <Skill name="symbol of wrath"/>
+5) <Skill name="Symbol of Resolution"/>
 6) <Skill name="whirling wrath"/>
 
 ### *Add Phase 2*
@@ -514,7 +514,7 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 
 ### **Phase 5**
 1) Precast <Skill name="sword of justice"/>
-2) <Skill name="symbol of wrath"/>
+2) <Skill name="Symbol of Resolution"/>
 3) <Skill name="whirling wrath"/>
 4) Weapon swap
 5) <Skill name="symbol of blades"/>
@@ -529,7 +529,7 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 5) <Skill name="symbol of blades"/>
 6) <Skill name="zealotsdefense"/>
 4) Weapon swap
-5) <Skill name="symbol of wrath"/>
+5) <Skill name="Symbol of Resolution"/>
 6) <Skill name="whirling wrath"/>
 
 Annotation:

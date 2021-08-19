@@ -154,7 +154,7 @@ The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-drag
   - This way, when the encounter starts, 3 symbols will hit the target and get up your stacks of <Trait name="symbolicavenger"/>
 - On greatsword:
 
-  - Use <Skill name="Symbol of Wrath"/>, you should cancel the aftercast with weapon stowing or simply moving
+  - Use <Skill name="Symbol of Resolution"/>, you should cancel the aftercast with weapon stowing or simply moving
   - Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
 
 - On Sword:
@@ -230,7 +230,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 1. <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
 1. **Weapon Swap**
 1. <Skill name="Sword of Justice" profession="guardian"/>
-1. <Skill name="Symbol of Wrath " profession="guardian"/> (GS 4)
+1. <Skill name="Symbol of Resolution " profession="guardian"/> (GS 4)
 1. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
 1. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
 1. <Skill name="Binding Blade" profession="guardian"/> (GS 5)
