@@ -73,15 +73,15 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 | -- | -- |
 | <Skill id="45402"/> | 150 damage |
 | <Skill name="Hammer of Wisdom"/> | 200 damage |
-| Skill 3 in <Skill name="Tome of Justice"/> (F1) | 150 damage |
+| <Skill name="Tome of Justice"/> (F1) Skill 3 | 150 damage |
 | <Skill name="Chains of light"/> | 325 damage over 6 seconds |
-| <Skill name="sanctuary" /> | 750 damage |
+| <Skill name="Sanctuary" /> | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
 
 </Card>
 </GridItem>
 
 <GridItem sm="5">
-<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence"  utility3="Signet of Wrath" elite="Feel My Wrath"/>
+<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Signet of Wrath" elite="Feel My Wrath"/>
 
 <Card title="Situational Skills">
 | | |
@@ -197,9 +197,9 @@ When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 </Card>
 <Card title="Precasting">
 <Message>
-The most important part is to get the precast of Ashes of Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
+The most important part is to get the precast of Ashes of the Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
 </Message>
-1) Swap to <Trait name="quickfire"/> for more Ashes of Just.
+1) Swap to <Trait name="quickfire"/> for more Ashes of the Just.
 1) Use <Skill name ="hallowedground"/>
 1) Blast a firefield with <Skill name ="	holystrike"/>
 1) While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
