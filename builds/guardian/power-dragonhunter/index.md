@@ -28,6 +28,7 @@ The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather se
 It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 <Divider text="Equipment"/>
+
 <Tabs>
 <Tab title="162 Agony Resistance">
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
@@ -131,6 +132,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </Grid>
 
 <Divider text="Details"/>
+
 As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
 
 Generally it is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersresolution"/> your heal skill applies long lasting <Trait name="retribution"/>. Since <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> have almost the same cooldown they will line up well (<Skill name="processionofblades"/> has a slightly shorter cooldown thanks to <Trait name ="piercinglight"/>). You can also trigger a <Skill id="13677"/> by losing health below the 75% threshould to trigger <Trait id="648"/>, however you need to be careful to not die.

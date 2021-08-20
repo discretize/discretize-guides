@@ -130,6 +130,7 @@ Watching videos of players performing the rotation for this build, one might thi
 - Lastly, it should be understood that <Trait id="2136"/> is a crucial trait for longer fights, as the use of a cantrip like <Skill name="shadowmeld"/> or <Skill name="Mercy"/> will allow you to use a second Stolen ability, on top of the one that the <Skill name="deadeyesmark"/> gives you every twenty seconds or so.
 
 <br/><br/>
+
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>

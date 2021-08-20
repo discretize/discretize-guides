@@ -25,6 +25,7 @@ This build also does not have a formal rotation, and instead has a prioritizatio
 Due to being a condition based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
 
 <Divider text="Equipment"/>
+
 <Grid>
 <GridItem sm="4">
 <Armor weight="Light" helmAffix="Viper" helmRune="Lich" shouldersAffix="Viper" shouldersRune="Lich" coatAffix="Viper" coatRune="Lich" glovesAffix="Viper" glovesRune="Lich" leggingsAffix="Viper" leggingsRune="Lich" bootsAffix="Viper" bootsRune="Lich" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
@@ -57,7 +58,7 @@ Due to being a condition based build, it will not benefit as highly from slaying
 <Grid>
 <GridItem sm="7">
 <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Sadistic Searing, Demonic Lore"/>
-</GridItem>  
+</GridItem>
 
 <GridItem sm="5">
 <Skills heal="Sand Flare" utility1="Signet of Undeath" utility2="Blood is Power" utility3="Epidemic" elite="Plaguelands"/>
@@ -70,6 +71,7 @@ Due to being a condition based build, it will not benefit as highly from slaying
 </Grid>
 
 <Divider text="Further information"/>
+
 <Grid>
 <GridItem sm="7">
 <Card title="Situational Skills">
@@ -126,18 +128,14 @@ You can preemptively cast some shades before a fight starts to begin ramping up 
 **Prioritization: [Weapon/Utility Skills]**
 
 Always use this skill off-cooldown, even if it means interrupting auto-attack chains:
+
 1. <Skill name="Feast of Corruption"/> (Scepter 3)
 
-Use after finishing your current auto-attack chain:
-2. <Skill name="Harrowing Wave"/> (Torch 4)
-3. <Skill name="Grasping Dead"/> (Scepter 2)
-4. <Skill name="Oppressive Collapse"/> (Torch 5)
-5. <Skill name="Blood is Power"/> (Utility) (combo this with <Skill name="Desert Shroud"/>)
-6. <Skill name="Manifest Sand Shade"/> (F1)
+Use after finishing your current auto-attack chain: 2. <Skill name="Harrowing Wave"/> (Torch 4) 3. <Skill name="Grasping Dead"/> (Scepter 2) 4. <Skill name="Oppressive Collapse"/> (Torch 5) 5. <Skill name="Blood is Power"/> (Utility) (combo this with <Skill name="Desert Shroud"/>) 6. <Skill name="Manifest Sand Shade"/> (F1)
 
 **Shade Skills**
 
-While you perform the above prioritization, you'll be using your shade skills to get additional applications of <Condition name="Burning"/> (from <Trait name="Dhuumfire"/>)  and <Condition name="Torment"/>. If you can ensure that you have enough Life Force to cast <Skill name="Nefarious Favor"/> and <Skill name="Desert Shroud"/> at all times, you can use any excess Life Force with the following prioritization:
+While you perform the above prioritization, you'll be using your shade skills to get additional applications of <Condition name="Burning"/> (from <Trait name="Dhuumfire"/>) and <Condition name="Torment"/>. If you can ensure that you have enough Life Force to cast <Skill name="Nefarious Favor"/> and <Skill name="Desert Shroud"/> at all times, you can use any excess Life Force with the following prioritization:
 
 1. <Skill name="Nefarious Favor"/>
 2. <Skill name="Sand Cascade"/>
@@ -156,7 +154,7 @@ While you perform the above prioritization, you'll be using your shade skills to
 
 - Be sure to place shades on significant targets: A <Specialization name="Scourge"/> itself counts as a shade activator, and will already hit your primary target with shade abilities from your character. (For example, place them on Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal)
 
-- If your group has three (or more) Scourges, you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown). 
+- If your group has three (or more) Scourges, you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown).
 - Your <Trait name="Dhuumfire"/> trait has an internal cooldown of one second. Be sure to space out your shade skills (including <Skill name="Manifest Sand Shade"/> and <Skill name="Desert Shroud"/>) instead of blindly spamming them off cooldown.
 
 </GridItem>

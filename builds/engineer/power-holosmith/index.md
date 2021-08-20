@@ -18,6 +18,7 @@ The engineer build that currently fares best in fractals is the <Specialization 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
+
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">

@@ -32,7 +32,9 @@ You'll provide boon removal through your clones, auto-attack chains, <Skill name
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized.
 
 This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
+
 <Divider text="Equipment"/>
+
 <Tabs outlined>
 
 <Tab title="162 Agony Resistance">

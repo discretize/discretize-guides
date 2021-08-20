@@ -22,7 +22,7 @@ The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build t
 Condi <Specialization name="Weaver"/> can deal very high amounts of damage, and even rival [META](/guides/meta-explained) builds like <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> and <BuildLink build="Condi Firebrand" specialization="Firebrand"/> when played properly.
 
 This build is naturally tanky due to its rotation, having easy access to skills that provide evasion frames with <Skill name="Earthen Vortex"/>, barrier with <Skill name="Lava Skin"/>, condition cleansing with <Skill name="Magnetic Wave"/> and even <Skill name="Obsidian Flesh"/>, a powerful skill that grants <Effect name="Invulnerability"/> against most attacks. It can also bring some group utility in the form of projectile destruction with <Skill name="Swirling Winds"/>.
- 
+
 The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apart from the complexity of its rotation is the lack of unique party buffs and overall boon generation, apart from some <Boon name="Might"/> granted by placing fire fields and randomly blasting them.
 
 <Divider text="Equipment"/>
@@ -62,6 +62,7 @@ This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="sp
 <Skills heal="Signet of Restoration" utility1="Glyph of Elemental Power" utility2="Primordial Stance" utility3="Signet of Fire" elite="Weave Self"/>
 </Grid>
 </GridItem>
+
 <Divider text="Situational"/>
 
 <Grid>
@@ -131,6 +132,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 <Card title="Precasting">
 
 ### **Weaver Precast**
+
 - Start on <Skill name="Fire Attunement"/>/<Skill name="Earth Attunement"/> and precast <Skill name="Glyph of ELemental Power"/>, <Skill name="Arcane Power"/>.
 - Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and precast <Skill name="Weave Self"/>.
 - Take the _Mistlock Singularity_ and attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/>.
@@ -142,7 +144,9 @@ Precasting build template:
 <Traits unembossed traits1="Arcane" traits1Selected=",Renewing Stamina, Elemental Lockdown, Elemental Surge" traits2="Air" traits2Selected="One with air, Raging Storm, Fresh Air" traits3="Weaver" traits3Selected=",Superior Elements, Weavers Prowess, Elements of Rage"/>
 
 ### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak)**
+
 If you have an extra set of weapons (or legendary sigils), you can also precast the effects of <Item name="Doom"/> and <Item name="Leeching"/>. To do that:
+
 - Switch to the sigils, fall below the stairs before the boss' arena to get in combat and switch to any attunement.
 - Once you are out of combat, you can switch the sigils back to <Item name="Earth"/> and <Item name="Geomancy"/>.
 
@@ -289,8 +293,8 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 - Although it is important to finish auto attack chains, during <Skill name="Weave Self"/>, you should prioritize using your skills and entering <Skill name="Tailored Victory"/>, even if it means skipping some auto attacks. Maintaining the <Skill name="Fire Attunement" disableText/> buff of <Skill name="Weave Self"/> is most important.
 
 - In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is different from the 1st. However, due to the faster nature of fractal bosses, you will either phase the boss before you reach the 2nd rotation or there will be enough downtime to reset to the written rotation when <Skill name="Weave Self"/> is on cooldown.
-</GridItem>
-</Card>
+  </GridItem>
+  </Card>
 
 </GridItem>
 </Grid>

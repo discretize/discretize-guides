@@ -6,52 +6,53 @@ description: 'Everything around Meta and the current Meta composition'
 hidden: 'false'
 ---
 
-## What does meta mean? 
-There are many different interpretations for meta, but we consider **[urbandictionary's](https://www.urbandictionary.com/define.php?term=meta) definition** to be the most accurate one: meta is "a term used in MMO meaning the Most Effective Tactic Available. It's basically what works in a game regardless of what you wish would work."  
-Many players are using certain compositions - non meta ones - on a daily basis, which does not elevate them to meta. It might work adequately for their goal - a wipe-less and safe clear - however, it is not the fastest or the most efficient way to play. 
+## What does meta mean?
 
-The meta for fractals therefore not only encompasses what classes and builds are most effective but also how to play - in other words - what rotation should be used. Example skill rotations for every meta build can be found in the CM-Guides of the respective builds. 
+There are many different interpretations for meta, but we consider **[urbandictionary's](https://www.urbandictionary.com/define.php?term=meta) definition** to be the most accurate one: meta is "a term used in MMO meaning the Most Effective Tactic Available. It's basically what works in a game regardless of what you wish would work."  
+Many players are using certain compositions - non meta ones - on a daily basis, which does not elevate them to meta. It might work adequately for their goal - a wipe-less and safe clear - however, it is not the fastest or the most efficient way to play.
+
+The meta for fractals therefore not only encompasses what classes and builds are most effective but also how to play - in other words - what rotation should be used. Example skill rotations for every meta build can be found in the CM-Guides of the respective builds.
 
 ## What is necessary to clear fractals efficiently?
+
 It boils down to three important concepts that need to be fulfilled permanently while in combat. Failing one of these will decelerate the speed and smoothness of the run:
+
 1. Boons: 25x<Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>.
 2. Breaking [CC bars](guides/cc-distribution) immediately to gain the damage modifier from <Effect name="Exposed"/>.
 3. High and fast single target burst potential.
 4. Stacking unique damage buffs such as <Skill name="banesignet"/> or <Skill name="onewolfpack"/>
 
 <Message>
-It is vital to understand that these three concepts in conjunction create massive amounts of burst causing phases to only last a few seconds. This is also due to the fact that the <Effect name="Exposed"/> modifier stacks multiplicative with many other damage modifiers. This is the reason why Power builds are generally more powerful in fractals. 
+It is vital to understand that these three concepts in conjunction create massive amounts of burst causing phases to only last a few seconds. This is also due to the fact that the <Effect name="Exposed"/> modifier stacks multiplicative with many other damage modifiers. This is the reason why Power builds are generally more powerful in fractals.
 
 The gameplay is therefore much more fast paced compared to raids and requires different thinking and rotations that are tailored around the <Effect name="Exposed"/> window.
 </Message>
 
-For T4s there are several other important concepts:
-4. Projectile reflects and <Boon name="Stability"/>.
-5. High cleave damage. 
-6. Fast movement using leaps, blinks and teleports to perform skips for the team. 
-7. <Effect name="Stealth"/> to skip trash mobs. 
+For T4s there are several other important concepts: 4. Projectile reflects and <Boon name="Stability"/>. 5. High cleave damage. 6. Fast movement using leaps, blinks and teleports to perform skips for the team. 7. <Effect name="Stealth"/> to skip trash mobs.
 
 ## What is the current fractal meta?
 
-It is important to note, that each challenge mote encounter has a different most effective tactic available (meta), which means the proposed compositions below are not always the optimal choice per boss. Discretize focuses on clearing daily fractals efficiently, and the proposed compositions brings enough utility to deal with all situations that are occurring in fractals without needing to relog to another character. This allows for a smooth experience in getting a clear done while still being quite effective regardless of the situation. 
+It is important to note, that each challenge mote encounter has a different most effective tactic available (meta), which means the proposed compositions below are not always the optimal choice per boss. Discretize focuses on clearing daily fractals efficiently, and the proposed compositions brings enough utility to deal with all situations that are occurring in fractals without needing to relog to another character. This allows for a smooth experience in getting a clear done while still being quite effective regardless of the situation.
 
-Most fights in fractals are so short that condi classes or power damage classes with a longer ramp-up time (e.g. <Specialization name="Chronomancer"/>) do not get to the point where they unfold their potential; also slaying potions such as <Item name="powerfulpotionofslayingscarletsarmies"/> favor power burst classes over condi. 
+Most fights in fractals are so short that condi classes or power damage classes with a longer ramp-up time (e.g. <Specialization name="Chronomancer"/>) do not get to the point where they unfold their potential; also slaying potions such as <Item name="powerfulpotionofslayingscarletsarmies"/> favor power burst classes over condi.
 
 There are some fights however that condi benefits more from because of long phases, bosses moving often and the 100% condition damage modifier from <Effect name="Exposed"/> (e.g. Sunqua Peak and Ensolyss). Condition comps are also fantastic for groups who just want to safely clear and don't mind killing bosses slower than power comps do. Also on some T4 fights condition comps outperform power due to incoming damage pressure or the fact you can skip phases when bosses go invulnerable due to condis still ticking (e.g. Sirens Reef and Volcanic).
 
 The recommended composition is often called the <Composition name="_RGB"/> comp, with its condition counterpart being the <Composition name="_CRGB"/> comp.
 
 ### <Composition name="_RGB"/>
+
 Currently the RGB comp (or variants of it) is the most optimal comps to be running in a static scenario on 98cm, 99cm (minus Ensolyss) and many of the T4 fractals. It has high overall damage with insane burst, enough CC to delete any breakbar and great boon generation and extension for longer fights. Read below to see why each class is taken;
 <Tabs>
 <Tab specialization="Renegade">
-* Provides permanent <Boon name="Alacrity"/> and around 10 stacks of <Boon name="Might"/>.
-* Knocks out large chunks of the CC bar, however, is not solely responsible for CC! 
-* Provides a unique damage buff <Trait name="assassinspresence"/>, which increases the entire group's ferocity by 150. 
-* Deals solid damage, can also burst very high making some of your DPS classes sweat. 
-* Has blinks available from skills such as <Skill name="phasetraversal"/> and <Skill name="deathstrike"/>.
-* Provides <Boon name="Stability"/> and projectile destruction on demand (from <Skill name="Legendary Dwarf stance"/> and <Skill name="Legendary Centaur Stance"/> respectively).
-* If <Instability name="No Pain, No Gain"/> or <Instability name="Vengeance"/> instability is present it can strip boons with <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon stance"/>).
+
+- Provides permanent <Boon name="Alacrity"/> and around 10 stacks of <Boon name="Might"/>.
+- Knocks out large chunks of the CC bar, however, is not solely responsible for CC!
+- Provides a unique damage buff <Trait name="assassinspresence"/>, which increases the entire group's ferocity by 150.
+- Deals solid damage, can also burst very high making some of your DPS classes sweat.
+- Has blinks available from skills such as <Skill name="phasetraversal"/> and <Skill name="deathstrike"/>.
+- Provides <Boon name="Stability"/> and projectile destruction on demand (from <Skill name="Legendary Dwarf stance"/> and <Skill name="Legendary Centaur Stance"/> respectively).
+- If <Instability name="No Pain, No Gain"/> or <Instability name="Vengeance"/> instability is present it can strip boons with <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon stance"/>).
 
 [Build](builds/revenant/power-renegade)
 </Tab>
@@ -127,25 +128,25 @@ The previous section shows how well the current meta builds synergize with each 
 
 ### <Composition name="_RGB"/>
 
-Thanks to the addition of <Skill name = "Moa Stance"/> and the additional <Specialization name="Dragonhunter"/> <Boon name="Quickness"/> is able to be maintained soley from the precast and some coordinated uses of <Skill name = "Feel my Wrath"/>. This means the two <Specialization name="Dragonhunter"/> are able to fully unload their high damage low cooldown bursts to cover for the two <Specialization name="Soulbeast"/> during their downtime. The loss of the <Specialization name="Berserker"/> banners is made of for a bit by the extra <Skill name = "Bane Signet"/> with  <Trait name = "Perfect Inscriptions"/> providing a high amount of power when it's needed to phase bosses. The missing precision can be made up for by either gear swaps or a <Specialization name="Soulbeast"/> running <Trait name="spotter"/>.
+Thanks to the addition of <Skill name = "Moa Stance"/> and the additional <Specialization name="Dragonhunter"/> <Boon name="Quickness"/> is able to be maintained soley from the precast and some coordinated uses of <Skill name = "Feel my Wrath"/>. This means the two <Specialization name="Dragonhunter"/> are able to fully unload their high damage low cooldown bursts to cover for the two <Specialization name="Soulbeast"/> during their downtime. The loss of the <Specialization name="Berserker"/> banners is made of for a bit by the extra <Skill name = "Bane Signet"/> with <Trait name = "Perfect Inscriptions"/> providing a high amount of power when it's needed to phase bosses. The missing precision can be made up for by either gear swaps or a <Specialization name="Soulbeast"/> running <Trait name="spotter"/>.
 
 Pros of the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/> composition:
 
-* Very high burst potential on specific phases
-* Good boon duration on demand allowing more aggressive variants of support builds
-* Precasting powerful traps such as <Skill name = "Frost Trap"/> and <Skill name = "Procession of Blades"/> allows for strong openers
+- Very high burst potential on specific phases
+- Good boon duration on demand allowing more aggressive variants of support builds
+- Precasting powerful traps such as <Skill name = "Frost Trap"/> and <Skill name = "Procession of Blades"/> allows for strong openers
 
 Cons of the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/> composition:
 
-* Requires fast phasing and transitions or starts to suffer from lack of sustained damage
-* Can be gated on certain bosses by <Skill name = "SicEm!"/>
-* If fights take to long to complete boons start dropping causing a domino effect making the end of fights potentially ugly
+- Requires fast phasing and transitions or starts to suffer from lack of sustained damage
+- Can be gated on certain bosses by <Skill name = "SicEm!"/>
+- If fights take to long to complete boons start dropping causing a domino effect making the end of fights potentially ugly
 
 Specific bosses where this comp excels:
 
-* Skorvald
-* Artsariiv
-* Arkk
+- Skorvald
+- Artsariiv
+- Arkk
 
 <Card title="META Comps Comparison">
 | | <Specialization name="Dragonhunter" disableText/><Specialization name="Firebrand" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/> **Daily RGB**| <Specialization name="Firebrand" disableText/><Specialization name="Firebrand" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/> **Condi RGB** | <Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/> **Advanced RGB** |
@@ -169,19 +170,19 @@ Some people are for whatever reasons not able to find a static or not committed 
 | | |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Specialization name="Renegade"/> | <br/>The <Specialization name="Renegade"/>'s role is to provide 100% <Boon name="Alacrity"/> uptime, and some <Boon name="Might"/> uptime, strong utilities in terms of heavy crowd control, <Skill name="Soulcleaves Summit"/> for extra team DPS and low to medium power DPS. <Specialization name="Renegade"/> has party heals with <Skill name="Soulcleaves Summit"/> and <Skill name="Breakrazors Bastion"/>. It can also give <Boon name="Stability"/> where needed with <Skill name="Legendary Dwarf Stance"/>. If <Instability name="No Pain, No Gain"/> or <Instability name="Vengeance"/> instability is present use <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon stance"/>) to strip boons.<br/> |
-| <Specialization name="Firebrand" text="Firebrand"/> | <br/>The <Specialization text="Firebrand" name="Firebrand"/> role consists of providing 100% <Boon name="Quickness"/> uptime, utilities in terms of crowd control, reflects, shared <Boon name="Aegis"/>. It can even provide <Boon name="Resistance"/> for a short time with tomes. <br/><br/><Card><Specialization text="Heal Firebrand" name="Firebrand"/> is usually used in PuGs, making fractals effortless even with very bad instability combos. Remember to use the signet share variant found in [our builds section!](/builds/guardian/heal-firebrand) <br/>However due to the high sustain condi comps have <Specialization name="Firebrand" text="Condi Firebrand"/> can be safely used if the group is confident. In depth knowledge of all encounters and builds is required.</Card><br/>      |
-| <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Scourge" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Deadeye" disableText/><Specialization name="Mirage" disableText/>  | <br/>Pick any of the condition meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
-| <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Scourge" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Deadeye" disableText/><Specialization name="Mirage" disableText/>  | <br/>Pick any of the condition meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play)<br/><br/> |
-| <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Scourge" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Deadeye" disableText/><Specialization name="Mirage" disableText/>  | <br/>Pick any of the condition meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
+| <Specialization name="Firebrand" text="Firebrand"/> | <br/>The <Specialization text="Firebrand" name="Firebrand"/> role consists of providing 100% <Boon name="Quickness"/> uptime, utilities in terms of crowd control, reflects, shared <Boon name="Aegis"/>. It can even provide <Boon name="Resistance"/> for a short time with tomes. <br/><br/><Card><Specialization text="Heal Firebrand" name="Firebrand"/> is usually used in PuGs, making fractals effortless even with very bad instability combos. Remember to use the signet share variant found in [our builds section!](/builds/guardian/heal-firebrand) <br/>However due to the high sustain condi comps have <Specialization name="Firebrand" text="Condi Firebrand"/> can be safely used if the group is confident. In depth knowledge of all encounters and builds is required.</Card><br/> |
+| <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Scourge" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Deadeye" disableText/><Specialization name="Mirage" disableText/> | <br/>Pick any of the condition meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
+| <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Scourge" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Deadeye" disableText/><Specialization name="Mirage" disableText/> | <br/>Pick any of the condition meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play)<br/><br/> |
+| <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Scourge" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Deadeye" disableText/><Specialization name="Mirage" disableText/> | <br/>Pick any of the condition meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
 </Tab>
 <Tab title="Power Comp">
 | | |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Specialization name="Renegade"/> | <br/>The <Specialization name="Renegade"/>'s role is to provide 100% <Boon name="Alacrity"/> uptime, and some <Boon name="Might"/> uptime, strong utilities in terms of heavy crowd control, <Skill name="Soulcleaves Summit"/> for extra team DPS and low to medium power DPS. <Specialization name="Renegade"/> has party heals with <Skill name="Soulcleaves Summit"/> and <Skill name="Breakrazors Bastion"/>. It can also give <Boon name="Stability"/> where needed with <Skill name="Legendary Dwarf Stance"/>. If <Instability name="No Pain, No Gain"/> or <Instability name="Vengeance"/> instability is present use <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon stance"/>) to strip boons.<br/> |
-| <Specialization name="Firebrand" text="Firebrand"/> | <br/>The <Specialization text="Firebrand" name="Firebrand"/> role consists of providing 100% <Boon name="Quickness"/> uptime, utilities in terms of crowd control, reflects, shared <Boon name="Aegis"/> and medium DPS. It can even provide <Boon name="Resistance"/> for a short time with tomes. <br/><br/><Card><Specialization text="Heal Firebrand" name="Firebrand"/> is usually used in PuGs, making fractals effortless even with very bad instability combos. Remember to use <Skill name="Bane Signet"/> share variant found in [our builds section!](/builds/guardian/heal-firebrand)</Card><br/>      |
-| <Specialization name="Berserker" text="Banner Berserker"/> | <br/>The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals, essential to any team, providing party buffs in the form of <Skill id="14405" profession="warrior"/>, <Skill id="14407" profession="warrior"/>. Furthermore, it has excellent single defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>. The build also has medium burst and excellent sustained damage. In case you are playing without a <Specialization name="Weaver"/> and your <Specialization name="Firebrand" text="Heal Firebrand"/> is not able to **maintain 25x <Boon name="Might"/> you can cover the mistake by taking <Skill name="For great justice"/>!** <br/><br/>**<Specialization name="Spellbreaker"/> is not used, only in some T4 encounters like Molten Boss Effigy and Twilight Oasis last boss Amala if you don't have a <Specialization name="Reaper" text="Power Reaper"/> in your group or your <Specialization name="Renegade"/> can't fulfill it's boonstripping role properly with <Skill name="Legendary Demon stance" disableText/> or you are specifically asked to run it.**<br/><br/>If your group are playing condi DPS classes you should also swap since your banners aren't needed or the extra CC.<br/>  |
-| <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Holosmith" disableText/><br/><Specialization name="Chronomancer" disableText/><Specialization name="Reaper" disableText/><Specialization name="Dragonhunter" disableText/>  | <br/>Pick any of the power meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play)<br/><br/> |
-| <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Holosmith" disableText/><br/><Specialization name="Chronomancer" disableText/><Specialization name="Reaper" disableText/><Specialization name="Dragonhunter" disableText/>  | <br/>Pick any of the power meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
+| <Specialization name="Firebrand" text="Firebrand"/> | <br/>The <Specialization text="Firebrand" name="Firebrand"/> role consists of providing 100% <Boon name="Quickness"/> uptime, utilities in terms of crowd control, reflects, shared <Boon name="Aegis"/> and medium DPS. It can even provide <Boon name="Resistance"/> for a short time with tomes. <br/><br/><Card><Specialization text="Heal Firebrand" name="Firebrand"/> is usually used in PuGs, making fractals effortless even with very bad instability combos. Remember to use <Skill name="Bane Signet"/> share variant found in [our builds section!](/builds/guardian/heal-firebrand)</Card><br/> |
+| <Specialization name="Berserker" text="Banner Berserker"/> | <br/>The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals, essential to any team, providing party buffs in the form of <Skill id="14405" profession="warrior"/>, <Skill id="14407" profession="warrior"/>. Furthermore, it has excellent single defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>. The build also has medium burst and excellent sustained damage. In case you are playing without a <Specialization name="Weaver"/> and your <Specialization name="Firebrand" text="Heal Firebrand"/> is not able to **maintain 25x <Boon name="Might"/> you can cover the mistake by taking <Skill name="For great justice"/>!** <br/><br/>**<Specialization name="Spellbreaker"/> is not used, only in some T4 encounters like Molten Boss Effigy and Twilight Oasis last boss Amala if you don't have a <Specialization name="Reaper" text="Power Reaper"/> in your group or your <Specialization name="Renegade"/> can't fulfill it's boonstripping role properly with <Skill name="Legendary Demon stance" disableText/> or you are specifically asked to run it.**<br/><br/>If your group are playing condi DPS classes you should also swap since your banners aren't needed or the extra CC.<br/> |
+| <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Holosmith" disableText/><br/><Specialization name="Chronomancer" disableText/><Specialization name="Reaper" disableText/><Specialization name="Dragonhunter" disableText/> | <br/>Pick any of the power meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play)<br/><br/> |
+| <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Holosmith" disableText/><br/><Specialization name="Chronomancer" disableText/><Specialization name="Reaper" disableText/><Specialization name="Dragonhunter" disableText/> | <br/>Pick any of the power meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
 </Tab>
 </Tabs>
 
@@ -190,13 +191,13 @@ Although both condition and power builds perform great in PuGs, it is recommende
 </Message>
 
 ## What are the differences between the meta and how PuGs play?
-One of the biggest differences is that they don't always understand how their actions translate into the game. Learning to do the mechanics correctly, flawlessly, and reliably is - in the beginning - the most important task. PuGs assume the worst usually, so one player in the party is a healer instead. 
+
+One of the biggest differences is that they don't always understand how their actions translate into the game. Learning to do the mechanics correctly, flawlessly, and reliably is - in the beginning - the most important task. PuGs assume the worst usually, so one player in the party is a healer instead.
 
 Another difference is that PuGs often claim that CC is solely the job of the <Specialization name="Renegade"/>. That is not true since <Specialization name="Renegade"/> can only knock out **about half** of the bars. CC is a group effort involving **all** party members!
 
-Many PuGs like to play <Specialization name="Dragonhunter"/>. That is just fine as you don't know what to expect of your fellow PuG mates and you prefer to be self-sufficient. But please use <Skill name="bane signet"/> with <Trait name="perfectinscriptions"/> to CC and provide a party-wide unique damage buff! It is more worth it than the +500 DPS you gain from pressing an auto-attack instead. 
+Many PuGs like to play <Specialization name="Dragonhunter"/>. That is just fine as you don't know what to expect of your fellow PuG mates and you prefer to be self-sufficient. But please use <Skill name="bane signet"/> with <Trait name="perfectinscriptions"/> to CC and provide a party-wide unique damage buff! It is more worth it than the +500 DPS you gain from pressing an auto-attack instead.
 
 <Divider text="What now?"/>
+
 ### If you do not know what to play yet we can help you with very basic description of the classes [here](/guides/what-should-i-play) or if you already read that we recommend reading how you can utilize the Defiance bar by breaking it [here!](/guides/cc-distribution)
-
-

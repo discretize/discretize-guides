@@ -11,23 +11,24 @@ boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Resolution', 'Aegis']
 conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
 code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 classification: [3, 4, 5, 2, 3]
-compositions: [ { name: '_CRGB'} ]
+compositions: [{ name: '_CRGB' }]
 ---
 
 <Message>
 This build is [META](/guides/meta-explained) in Sunqua Peak. Outside Sunqua Peak in faster groups this build will fall behind <Specialization name="Dragonhunter"/> or <Specialization name="Guardian"/> - the power damage counterparts.
 </Message>
 
-The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide permanent <Boon name="Quickness"/> (if necessary) to the party while dealing high consistent DPS. In organized teams this build is inferior to <Specialization name="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very competitive results making DPS players sweat. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls. 
+The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide permanent <Boon name="Quickness"/> (if necessary) to the party while dealing high consistent DPS. In organized teams this build is inferior to <Specialization name="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very competitive results making DPS players sweat. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
 
 This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
+
 - Permanent <Boon name="Quickness"/>.
 - Good <Boon name = "Might"/> uptime.
 - <Skill id="41780"/> for heals.
 - <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
 - Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
- 
-One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 <Attribute name="Power"/> buff provided by <Skill name="Bane Signet"/>. 
+
+One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 <Attribute name="Power"/> buff provided by <Skill name="Bane Signet"/>.
 
 Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
 
@@ -36,10 +37,10 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 - Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longers fights drop <Item id="24560"/> for <Item id="72339"/>.
 - If u have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>
 - Playing the raid DPS build with this traits performs almost identically.
-<Grid>
-<GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Viper" helmRune="Balthazar" shouldersAffix="Viper" shouldersRune="Balthazar" coatAffix="Viper" coatRune="Balthazar" glovesAffix="Viper" glovesRune="Balthazar" leggingsAffix="Viper" leggingsRune="Balthazar" bootsAffix="Viper" bootsRune="Balthazar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
-</GridItem>
+  <Grid>
+  <GridItem sm="4">
+  <Armor weight="Heavy" helmAffix="Viper" helmRune="Balthazar" shouldersAffix="Viper" shouldersRune="Balthazar" coatAffix="Viper" coatRune="Balthazar" glovesAffix="Viper" glovesRune="Balthazar" leggingsAffix="Viper" leggingsRune="Balthazar" bootsAffix="Viper" bootsRune="Balthazar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
+  </GridItem>
 
 <GridItem sm="4">
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="geomancy" weapon2OffType="Torch" weapon2OffAffix="Viper" weapon2OffSigil="bursting" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2OffInfusionId="49432"/>
@@ -105,6 +106,7 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 <Divider text="Build Variants"/>
 
 ### Full DPS variant
+
 You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS by making minor adjustments to the build.
 <Grid>
 <GridItem sm="4">
@@ -116,6 +118,7 @@ You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS 
 </Grid>
 
 ### Organized Sunqua Peak group
+
 This build assumes the <Composition name="_CRGB" />. <BuildLink specialization="Soulbeast" build="Condi Soulbeast"/> provides <Skill name="Moa Stance"/> which greatly increases the duration of applied <Boon name="Quickness"/> and allows <Skill name="Renewed Focus" /> to be played for an additional Tome reset. Both <Specialization name="Firebrand"/> have to play this build!
 <Grid>
 <GridItem sm="4">
@@ -125,7 +128,6 @@ This build assumes the <Composition name="_CRGB" />. <BuildLink specialization="
 <Traits unembossed traits1="Firebrand" traits1Selected="Liberators Vow, Legendary Lore, Loremaster" />
 </GridItem>
 </Grid>
-
 
 <Divider text="Details"/>
 
@@ -158,6 +160,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
 <br/><br/>
+
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
@@ -199,17 +202,19 @@ When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 <Message>
 The most important part is to get the precast of Ashes of Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
 </Message>
-1) Swap to <Trait name="quickfire"/> for more Ashes of Just.
-1) Use <Skill name ="hallowedground"/>
-1) Blast a firefield with <Skill name ="	holystrike"/>
-1) While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
-1) Use <Skill name="Feelmywrath"/>
-1) Open <Skill id="44364"/> and use Skill 5 for more Ahes of the Just
-1) Take the _Mistlock Singularity_ 
-1) Use <Skill name="Feelmywrath"/> again
-1) Remember to swap back to <Trait name="loremaster"/>
+
+1. Swap to <Trait name="quickfire"/> for more Ashes of Just.
+1. Use <Skill name ="hallowedground"/>
+1. Blast a firefield with <Skill name ="	holystrike"/>
+1. While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+1. Use <Skill name="Feelmywrath"/>
+1. Open <Skill id="44364"/> and use Skill 5 for more Ahes of the Just
+1. Take the _Mistlock Singularity_
+1. Use <Skill name="Feelmywrath"/> again
+1. Remember to swap back to <Trait name="loremaster"/>
 
 On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrath"/> for <Skill name="Renewed Focus"/>:
+
 - Cast <Skill name="Renewed Focus"/> while approaching the boss to refresh <Skill id="44364"/>.
 
 </Card>

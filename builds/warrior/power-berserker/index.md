@@ -5,7 +5,8 @@ rating: 'Good'
 role: 'Damage'
 profession: 'Warrior'
 specialization: 'Berserker'
-benchmark: { small: { dps: 33563, by: 'KingMarcus.1408', youtube: 'LxHu4l36Zl0' } }
+benchmark:
+  { small: { dps: 33563, by: 'KingMarcus.1408', youtube: 'LxHu4l36Zl0' } }
 teaserVideo: ''
 skills: [14407, 14405]
 traits: [1444, 1977, 2049]
@@ -14,8 +15,8 @@ boons: ['Might']
 code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 author: 'Princeps.6481'
 cmguides: '/cm-guides/warrior/power-berserker'
-classification: [ 4, 4, 4, 2, 4]
-compositions: [ { name: '_Rainbow' }]
+classification: [4, 4, 4, 2, 4]
+compositions: [{ name: '_Rainbow' }]
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
@@ -26,7 +27,8 @@ The <Specialization text="Banner Berserker" name="Berserker"/> is one of the cla
 
 Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
 
-### **Nightmare Challenge Mode PuG videos** 
+### **Nightmare Challenge Mode PuG videos**
+
 <Grid>
 <GridItem sm="4">
 <Video caption="by Roach [dT], edited by Vince [dT]" youtube="YMy7HUTQEJI"/> 
@@ -52,6 +54,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 </Grid>
 
 <Divider text="Equipment"/>
+
 <Tabs outlined>
 
 <Tab title="162 Agony Resistance">
@@ -153,7 +156,6 @@ You are an actual mad lad for considering this build. It costs about 3500 gold..
 </Tab>
 </Tabs>
 
-
 <Divider text="Build"/>
 
 <Grid>
@@ -198,17 +200,18 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 <GridItem sm="8">
 
 **How to deal damage:**
-* Use <Skill name="decapitate"/> as often as possible. Three crits are required to gain a single <Skill name="decapitate"/>:
-    1. <Skill name="Cycloneaxe"/> and <Skill name="Throw axe" profession="warrior"/>. 
-    2. <Skill name="Dualstrike"/> and <Skill name="Throw axe" profession="warrior"/>. 
-    3. <Skill name="whirlingaxe"/>.
-* Get three <Skill name="decapitate"/> before pressing <Skill name="Whirling axe"/>.
-* If the boss has a breakbar, make sure to use <Skill name="Tremor"/> to proc <Item name="severance"/>, then swap to Axe/Axe.
-* Only use <Skill name="Throw axe" profession="warrior"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
-* Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase. 
-* Keep in mind that <Skill name="Crushing Blow"/> inflicts 10x <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst.
-* It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
-* Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
+
+- Use <Skill name="decapitate"/> as often as possible. Three crits are required to gain a single <Skill name="decapitate"/>:
+  1. <Skill name="Cycloneaxe"/> and <Skill name="Throw axe" profession="warrior"/>.
+  2. <Skill name="Dualstrike"/> and <Skill name="Throw axe" profession="warrior"/>.
+  3. <Skill name="whirlingaxe"/>.
+- Get three <Skill name="decapitate"/> before pressing <Skill name="Whirling axe"/>.
+- If the boss has a breakbar, make sure to use <Skill name="Tremor"/> to proc <Item name="severance"/>, then swap to Axe/Axe.
+- Only use <Skill name="Throw axe" profession="warrior"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
+- Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase.
+- Keep in mind that <Skill name="Crushing Blow"/> inflicts 10x <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst.
+- It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
+- Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
 
 **Extra notes:**
 
@@ -251,8 +254,6 @@ If using <Skill id="14483"/>:
 </GridItem>
 </Grid>
 
-
-
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
@@ -285,7 +286,6 @@ For that reason you can find a video with openers, that are efficient to use her
 </Card>
 </GridItem>
 
-
 <GridItem xs="12" sm="6">
 <Card title="Skill usage">
 **Ultra short phases (3 seconds):**
@@ -312,7 +312,6 @@ or depending on the phase length:
 - <Skill name="Throw axe" profession="warrior"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
 
 </Card>
-
 
 </GridItem>
 

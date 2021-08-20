@@ -5,30 +5,35 @@ rating: 'Condi Meta'
 role: 'Damage'
 profession: 'Ranger'
 specialization: 'Soulbeast'
-benchmark:
-  { small: { dps: 36197, by: 'Eren', youtube: 'WSuDmiuAwC8' } }
+benchmark: { small: { dps: 36197, by: 'Eren', youtube: 'WSuDmiuAwC8' } }
 skills: [45717, 12498, 12508, 46432]
 conditions: ['Bleeding', 'Poisoned', 'Burning']
 code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/ranger/condi-soulbeast'
 classification: [5, 4, 3, 2, 3]
-compositions: [ { name: '_CRGB', roles: 'DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC', composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade' }]
+compositions:
+  [
+    {
+      name: '_CRGB',
+      roles: 'DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC',
+      composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade',
+    },
+  ]
 ---
 
 <Message>
 This build is [META](/guides/meta-explained) in full condi groups. In power groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
 </Message>
 
-
 Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group are playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
 
-
 This build is rather self sufficient due to:
-- Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/> 
+
+- Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
 - Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
 - High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
 
-Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike. 
+Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
 
 <Divider text="Equipment"/>
 
@@ -84,6 +89,7 @@ This build is probably only worth running in a static group. It's damage depends
 </Tabs>
 
 <Divider text="Build"/>
+
 <Grid>
 <GridItem sm="7">
 <Traits traits1Id="33" traits1="Wilderness Survival" traits1SelectedIds="1099,1101,1701" traits2Id="30" traits2="Skirmishing" traits2SelectedIds="1069,1846,1912" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2161,2128"/>
@@ -101,6 +107,7 @@ This build is probably only worth running in a static group. It's damage depends
 </Grid>
 
 <Divider text="Further information"/>
+
 <Grid>
 <GridItem sm="7">
 <Card title="Situational Traits">
@@ -136,8 +143,8 @@ Running an off-hand Dagger is slightly more DPS than running Torch providing you
 </GridItem> 
 </Grid>
 
-
 <Divider text="Rotation / Skill usage"/>
+
 <Grid>
 <GridItem sm="6">
 <Card title="Information">
@@ -203,4 +210,3 @@ In 100CM boons get stripped but unique buffs do not, so you can precast these sk
 </Card>
 </GridItem>
 </Grid>
-
