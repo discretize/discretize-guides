@@ -253,7 +253,7 @@ Weaver precasting build template:
 
 Tempest precasting build template:
 
-<Traits unembossed traits1="Arcane" traits1Selected=",,Elemental Surge" traits2="Air" traits2Selected="Zephyrs Boon, Inscription, Fresh Air" traits3="Tempest" traits3Selected=", Invigorating Torrents, Elemental Bastion"/>
+<Traits unembossed traits1="Arcane" traits1Selected="Renewing Stamina, Elemental Lockdown, Elemental Surge" traits2="Air" traits2Selected="Zephyrs Boon, Inscription, Fresh Air" traits3="Tempest" traits3Selected="Unstable Conduit, Invigorating Torrents, Elemental Bastion"/>
 
 
 ### **Other advices**  
