@@ -10,7 +10,6 @@ skills: [30783, 30039, 9153, 9251]
 boons: ['Resolution', 'Aegis']
 conditions: ['Vulnerability', 'Blinded', 'Crippled']
 code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-author: 'Princeps.6481'
 cmguides: '/cm-guides/guardian/power-dragonhunter'
 classification: [3, 4, 3, 2, 4]
 compositions: [{ name: '_RGB' }]
