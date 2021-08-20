@@ -171,7 +171,7 @@ If you need more healing or an extra free utility slot, you can swap out Radianc
 | <Skill name="Bane Signet"/> | 300 damage |
 | <Skill name="Hammer of Wisdom"/> | 200 damage |
 | <Skill name="Tome of Justice"/> Skill 3 | 150 damage |
-| <Skill name="Sanctuary"/> | 150/s damage |
+| <Skill name="Sanctuary"/> | 150/s damage (for 5 seconds,<br/> adding up to 750 damage) |
 </Card>
 </GridItem>
 
