@@ -309,6 +309,7 @@ All Tomes are built in a similar way:
 </Card>
 
 <Divider text="Videos"/>
+
 <Message>
 Here's two In-Depth video guides on <Specialization name="Firebrand" text="Heal Firebrand"/>. Keep in mind that we still highly recommend playing the default Radiance/Honor build from the build section.
 </Message>

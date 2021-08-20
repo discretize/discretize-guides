@@ -13,8 +13,9 @@ conditions: ['Vulnerability']
 code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
 author: 'PineappleMan.1430'
 classification: [4, 3, 4, 3, 5]
-compositions: [ { name: '_CRGB'} ]
+compositions: [{ name: '_CRGB' }]
 ---
+
 <Message>
 This build has to be used in [Sunqua Peak](/fractals/sunqua-peak) only. Apart from this fractal, <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support and being more versatile.
 </Message>
@@ -48,7 +49,6 @@ This build is designed for 207 AR, if you only have 162 AR take <Item id="80616"
 <Card title="Notes">
 * If there is <Instability name="Boon Overload"/>, take <Item id="86997"/> and <Item id="48917"/> instead
 
-
 </Card>
 </GridItem>
 </Grid>
@@ -75,7 +75,6 @@ This build is designed for 207 AR, if you only have 162 AR take <Item id="80616"
 <Card title="Notes">
 * If there is <Instability name="Boon Overload"/>, take 2 Viper <Item id="80058"/> <Item id="86997"/> and <Item id="48917"/> instead
 
-
 </Card>
 </GridItem>
 </Grid>
@@ -97,7 +96,6 @@ This build requires 2 <Specialization name="Renegade"/> with <Trait id="2182"/> 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
 
-
 </GridItem>
 </Grid>
 </Tab>
@@ -105,6 +103,7 @@ This build requires 2 <Specialization name="Renegade"/> with <Trait id="2182"/> 
 </Tabs>
 
 <Divider text="Build"/>
+
 <Grid>
 <GridItem sm="7">
 <Traits traits1Id="3" traits1="Invocation" traits1SelectedIds="1761,1781,1791" traits2Id="14" traits2="Corruption" traits2SelectedIds="1793,1714,1795" traits3Id="63" traits3="Renegade" traits3SelectedIds="2079,2092,2182"/>
@@ -121,6 +120,7 @@ This build requires 2 <Specialization name="Renegade"/> with <Trait id="2182"/> 
 </Grid>
 
 <Divider text="Further information"/>
+
 <Grid>
 <GridItem sm="7">
 <Card title="Key Skills">
@@ -131,28 +131,31 @@ This build requires 2 <Specialization name="Renegade"/> with <Trait id="2182"/> 
 * <Skill id="41220"/>: very good CC skill that does a total of 600 breakbar damage
 * <Skill id="45773"/>: situational skill that allows your party members to quickly replenish their health at the cost of damage in when you are attuned to <Skill id="41858"/>
 
-<Skill id="28494"/> skills: 
-* <Skill id="27505"/>: not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condition builds (which are less affected by <Boon name="Protection"/> than power builds), still a good skill to boonstrip quickly
-* <Skill id="27917"/>: pretty good mobility skill that also does 150 breakbar damage
-* <Skill id="28287"/>: one of your most important damage skills as it applies a lot of <Condition name="Torment"/>
+<Skill id="28494"/> skills:
+
+- <Skill id="27505"/>: not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condition builds (which are less affected by <Boon name="Protection"/> than power builds), still a good skill to boonstrip quickly
+- <Skill id="27917"/>: pretty good mobility skill that also does 150 breakbar damage
+- <Skill id="28287"/>: one of your most important damage skills as it applies a lot of <Condition name="Torment"/>
 
 Shortbow skills:
-* <Skill id="40175"/>: fast and low-cost damage skill and applies some <Condition name="Bleeding"/>
-* <Skill id="41829"/>: very good damage skill and applies a good amount of <Condition name="Torment"/>
-* <Skill id="43993"/>: good damage skill and applies <Condition name="Burning"/> and <Condition name=Slow/>
-* <Skill id="41820"/> : applies <Condition name="Burning"/> and does 200 breakbar damage
+
+- <Skill id="40175"/>: fast and low-cost damage skill and applies some <Condition name="Bleeding"/>
+- <Skill id="41829"/>: very good damage skill and applies a good amount of <Condition name="Torment"/>
+- <Skill id="43993"/>: good damage skill and applies <Condition name="Burning"/> and <Condition name=Slow/>
+- <Skill id="41820"/> : applies <Condition name="Burning"/> and does 200 breakbar damage
 
 Mace/Axe skills:
-* <Skill id="28357"/>: fast and low-cost damage skill and applies <Condition name=Burning/>
-* <Skill id="27964"/>: fast and low-cost damage skill and a good mobility skill as well, applies <Condition name=Torment/>
-* <Skill id="28029"/>: good mobility skill
-* <Skill id="28409"/>: good damage skill that deals good amount of breakbar damage as well, applies <Condition name=Torment/>
 
+- <Skill id="28357"/>: fast and low-cost damage skill and applies <Condition name=Burning/>
+- <Skill id="27964"/>: fast and low-cost damage skill and a good mobility skill as well, applies <Condition name=Torment/>
+- <Skill id="28029"/>: good mobility skill
+- <Skill id="28409"/>: good damage skill that deals good amount of breakbar damage as well, applies <Condition name=Torment/>
 
 <Specialization name="Renegade"/> skills:
-* <Skill id="44076"/>: give 2 <Boon name="Might"/> to you and your group per <SpecialActionKey name="Kallas Fervor"/> you have
-* <Skill id="41294"/>: your best burst skill that applies a lot of <Condition name=Burning/>
-* <Skill id="45537"/>: one of your most important skills as it gives <Boon name=Alacrity/> to you and your group
+
+- <Skill id="44076"/>: give 2 <Boon name="Might"/> to you and your group per <SpecialActionKey name="Kallas Fervor"/> you have
+- <Skill id="41294"/>: your best burst skill that applies a lot of <Condition name=Burning/>
+- <Skill id="45537"/>: one of your most important skills as it gives <Boon name=Alacrity/> to you and your group
 
 </Card>
 </GridItem> 
@@ -183,14 +186,15 @@ Do not use <Skill id="45537"/> right before a mechanic or any reason that would 
 </GridItem> 
 </Grid>
 
-
 <Divider text="Rotation / Skill usage"/>
+
 <Grid>
 <GridItem sm="6">
 <Card title="Information">
 <Specialization name="Renegade" text="Condi Renegade"/>'s raid rotation is not super efficient in fractals due to the lack of time to ramp up with <Skill id="28494"/>, and the fact that you want to save skills you usually use while in <Skill id="41858"/> to CC or keep skills like <Skill name="Citadel Bombardment"/> for exposed phases.
 
 You'll want to respect these rules :
+
 1. <Skill id="41858"/> : be on Mace/Axe
 2. <Skill id="28494"/> : be on Shortbow
 
@@ -198,7 +202,7 @@ You'll usually want to be in <Skill id="41858"/> for exposed phases, as <Skill n
 
 Right after you're done with <Skill id="41858"/> skills, swap to <Skill id="28494"/> and do the Shortbow Rotation shown below.
 
-You will want to use <Skill id="45537"/> and <Skill name="Heroic Command"/> off cooldown/at key moments. If <Skill id="45537"/> will be off cooldown during a <Skill id="28494"/> Rotation, stop <Skill name="Embrace The Darkness"/> right before __Step 9__. If it will be off cooldown during a <Skill id="41858"/> Rotation, don't use <Skill id="40485"/>.
+You will want to use <Skill id="45537"/> and <Skill name="Heroic Command"/> off cooldown/at key moments. If <Skill id="45537"/> will be off cooldown during a <Skill id="28494"/> Rotation, stop <Skill name="Embrace The Darkness"/> right before **Step 9**. If it will be off cooldown during a <Skill id="41858"/> Rotation, don't use <Skill id="40485"/>.
 
 When you swap your legend first and then your weapon, you will be able to proc Sigil effects twice due to them triggering on legend swap.
 </Card>
@@ -233,7 +237,6 @@ In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don'
 9. <Skill name="Spiritcrush"/>
 10. Swap to <Skill id="41858"/>
 * Make sure to use a <Skill id="40497"/> between each skill to make sure that enhanced <Skill id="28287"/> pulse procs without overriding it!
-
 
 </Card>
 <Card title="Kalla Mace Rotation">

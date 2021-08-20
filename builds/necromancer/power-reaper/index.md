@@ -23,8 +23,8 @@ The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-
 <Divider text="Equipment"/>
+
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Grid>
 <GridItem sm="4">
@@ -71,7 +71,6 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 | <Skill name="Summon Shadow Fiend" size="big" disableText/> | Possible alternative instead of <Skill name="Well of Darkness"/> for longer bosses like Artsariiv, Arkk in the [Shattered Observatory Fractal](/fractals/shattered-observatory) and Ensolyss in the [Nightmare Fractal](/fractals/nightmare). |
 </Card>
 
-
 </GridItem>
 
 <GridItem sm="5">
@@ -99,10 +98,12 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 <Card title="Rotation">
 
 **Precasting:**
-1. Use <Skill name="Lich Form"/> (Elite) to precast <Skill id="10636"/> (Skill 4), 
+
+1. Use <Skill name="Lich Form"/> (Elite) to precast <Skill id="10636"/> (Skill 4),
 2. If you have Mistfire Wolf (Deluxe Upgrade) precast it on MAMA, Siax and Ensolyss (then put back <Skill name="Lich Form"/>) since you are too far away from _Mistlock Singularity_ to make use of <Skill name="Lich Form" disableText/> precast.
 
 **Opener:**
+
 1. <Skill name="Well of Darkness"/> (Utility)
 2. <Skill name="Well of Suffering"/> (Utility)
 3. **Weapon Swap**
@@ -118,7 +119,7 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 13. <Skill name="Nightfall"/> (Greatsword 4)
 14. <Skill name="Grasping Darkness"/> (Greatsword 5)
 15. **Weapon Swap**
-  
+
 </GridItem>
 </Card>
 
@@ -144,5 +145,3 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 </GridItem>
 </Card>
 </Grid>
-
- 
