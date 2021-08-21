@@ -1,6 +1,6 @@
 ---
 title: 'Condi Soulbeast'
-date: '2021-06-01'
+date: '2021-20-08'
 rating: 'Condi Meta'
 role: 'Damage'
 profession: 'Ranger'
@@ -38,6 +38,31 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <Divider text="Equipment"/>
 
 <Tabs outlined>
+<Tab title="Condi Soulbeast Afflicted">
+<Message>
+This build is taken when you have at least 2 <Specialization name="Soulbeast" text="Condi Soulbeasts"/> or <Specialization name="Firebrand" text="Condi Firebrands"/> in the party. If you are alone with 1 <Specialization name="Firebrand"/> play the Krait setup. 
+</Message>
+<Grid>
+<GridItem sm="4">
+<Armor weight="Medium" helmAffix="Viper" helmRune="Afflicted" shouldersAffix="Viper" shouldersRune="Afflicted" coatAffix="Viper" coatRune="Afflicted" glovesAffix="Viper" glovesRune="Afflicted" leggingsAffix="Viper" leggingsRune="Afflicted" bootsAffix="Viper" bootsRune="Afflicted" helmInfusionId="86113" shouldersInfusionId="86113" coatInfusionId="86113" glovesInfusionId="86113" leggingsInfusionId="86113" bootsInfusionId="86113"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Malice" weapon1MainSigil1Id="44950" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560	" weapon2MainSigil1Id="44950" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Malice" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
+
+<Consumables foodId="92478" utilityId="48917" infusion="Spiteful +9 Agony Infusion"/>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="86113" backItemInfusion2Id="86113" accessory1InfusionId="86113" accessory2InfusionId="86113" ring1Infusion1Id="86113" ring1Infusion2Id="86113" ring1Infusion3Id="86113" ring2Infusion1Id="86113" ring2Infusion2Id="86113" ring2Infusion3Id="86113"/>
+
+<Card title="Swap Weapons">
+* A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
+
+</Card>
+</GridItem>
+</Grid>
+</Tab>
 <Tab title="Condi Soulbeast Krait">
 <Grid>
 <GridItem sm="4">
@@ -52,32 +77,6 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
-
-<Card title="Swap Weapons">
-* A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
-
-</Card>
-</GridItem>
-</Grid>
-</Tab>
-
-<Tab title="Condi Soulbeast Afflicted">
-<Message>
-This build is probably only worth running in a static group. It's damage depends on the amount of <Specialization name="Soulbeast" text="Soulbeasts"/> in the party. The build deals similar DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3 Soulbeasts in the party. If you are going to be on your own run the Krait rune setup!
-</Message>
-<Grid>
-<GridItem sm="4">
-<Armor weight="Medium" helmAffix="Viper" helmRune="Afflicted" shouldersAffix="Viper" shouldersRune="Afflicted" coatAffix="Viper" coatRune="Afflicted" glovesAffix="Viper" glovesRune="Afflicted" leggingsAffix="Viper" leggingsRune="Afflicted" bootsAffix="Viper" bootsRune="Afflicted" helmInfusionId="86113" shouldersInfusionId="86113" coatInfusionId="86113" glovesInfusionId="86113" leggingsInfusionId="86113" bootsInfusionId="86113"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Malice" weapon1MainSigil1Id="44950" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560	" weapon2MainSigil1Id="44950" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Malice" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
-
-<Consumables foodId="92478" utilityId="48917" infusion="Spiteful +9 Agony Infusion"/>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="86113" backItemInfusion2Id="86113" accessory1InfusionId="86113" accessory2InfusionId="86113" ring1Infusion1Id="86113" ring1Infusion2Id="86113" ring1Infusion3Id="86113" ring2Infusion1Id="86113" ring2Infusion2Id="86113" ring2Infusion3Id="86113"/>
 
 <Card title="Swap Weapons">
 * A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
@@ -114,10 +113,7 @@ This build is probably only worth running in a static group. It's damage depends
 | | |
 | -- | -- |
 | <Trait name="Essence of Speed" size="big" disableText/> | Take this instead of <Trait name="Predators Cunning"/> if boon uptime in your party is bad and you want some extra generation. |
-| <Trait name="Quickdraw" size="big" disableText/> | Take this instead of <Trait name="Light on your Feet"/> if the boss you will be fighting doesn't change position often and you can't keep a high <Trait name="Light on your Feet"/> uptime. |
-</Card>
-<Card title="Shortbow vs Axe/Dagger">
-Although Axe/Dagger benches higher, typically this build is only run in 100CM where Shortbow shines due to the amount of moving Ai does. This allows you to keep attacking while at range. If you are running this build elsewhere you will probably find that Axe/Dagger with <Trait name="Quickdraw"/> will do more DPS. Although in situations with short phases such as Ensolyss where you can keep a high <Trait name="Light on your Feet"/> uptime along with the 100% modifier from <Effect name="Exposed"/> you will find that Shortbow is still better.
+| <Trait name="Quickdraw" size="big" disableText/> | Situationally better if you are playing with Krait runes and the boss you are fighting will stay in your <Skill name="Bonfire"/> |
 </Card>
 <Card title="Off-hand Dagger">
 Running an off-hand Dagger is slightly more DPS than running Torch providing you can flank permanently and your group can't make use of the fire field from <Skill name="Bonfire"/>. It also has the benefit of having an evade through using <Skill id="12478"/>. 
@@ -127,7 +123,7 @@ Running an off-hand Dagger is slightly more DPS than running Torch providing you
 <Card title="Situational Skills">
 | | |
 | -- | -- |
-| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Vulture Stance"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. 
+| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>.  
 | <Skill name="Vipers Nest" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>. |
 | <Skill name="Bear stance" size="big" disableText/> | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. |
 | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM! |
