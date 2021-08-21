@@ -122,7 +122,8 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 - Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
 - Swap to Axe/Axe as soon as you are done with CCing and DPS.
-  </ConditionalComponent>
+
+</ConditionalComponent>
 
 ---
 
@@ -233,7 +234,8 @@ Swap to your off set (mace/torch) and cap the circle. After you meet in the midd
 - <Skill name="Headbutt"/> to trigger <Item name="severance"/>.
 - Swap weapons.
 - Smash <Skill name="Decapitate"/> hard.
-  </ConditionalComponent>
+
+</ConditionalComponent>
 
 <ConditionalComponent condition="static">
 <Boss name="ensolyss" video="NbJl4FQFTaI" timestamp="63" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="severance" weapon2OffType="torch" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
@@ -263,7 +265,10 @@ Swap to your off set (axe/torch) and cap the circle. After you meet in the middl
 - Swap weapons.
 - Smash <Skill name="Decapitate"/> hard.
 - Use <Skill name="bullscharge"/> before <Skill name="Whirlingaxe"/> to refresh <Trait name="peakperformance"/>.
-  </ConditionalComponent>
+
+</ConditionalComponent>
+
+---
 
 <ConditionalComponent condition="pug">
 
@@ -338,7 +343,8 @@ The rest of the fight follows accordingly.
 ### **33%-0%**
 
 - Follow the standard fractal rotation.
-  </ConditionalComponent>
+
+</ConditionalComponent>
 
 ---
 
@@ -401,7 +407,8 @@ The rest of the fight follows accordingly.
 
 - Normal rotation, remember to integrate <Skill name="signetoffury"/> for the increased <Attribute name="Ferocity"/>.
 - Fire everything to kill her in middle.
-  </ConditionalComponent>
+
+</ConditionalComponent>
 
 ---
 
@@ -434,7 +441,8 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
   - Precast <Skill name="Flames of war"/> for DPS then swap back to mace.
   - Precast <Skill name="Mending"/>.
   - Take the _Mistlock Singularity_ to start the fight with maximum adrenaline.
-    </ConditionalComponent>
+
+</ConditionalComponent>
 
 ### **1st Phase (100%-80%)**
 
