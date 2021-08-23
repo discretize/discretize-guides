@@ -13,7 +13,6 @@ traits: [1444, 1977, 2049]
 conditions: ['Vulnerability']
 boons: ['Might']
 code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
-author: 'Princeps.6481'
 cmguides: '/cm-guides/warrior/power-berserker'
 classification: [4, 4, 4, 2, 4]
 compositions: [{ name: '_Rainbow' }]

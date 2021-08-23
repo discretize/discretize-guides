@@ -68,12 +68,11 @@ Due to being a condition based build, it will not benefit as highly from slaying
 | -- | -- |
 | <Trait id="2059" size="big" disableText/> | If you are having trouble staying alive and needing a little bit of extra support and more frequent barrier, you can opt into it and drop <Trait id="2067"/>. This will also be your go-to option if you are not playing with <Skill name="Sand Flare"/> or any other Punishment skill.
 </Card>
+</GridItem>
 </Grid>
 
 <Divider text="Further information"/>
 
-<Grid>
-<GridItem sm="7">
 <Card title="Situational Skills">
 <Message>
 <Skill name="Summon Shadow Fiend"/> will replace <Skill name="Epidemic"/> on any fight that is single target or cleave is not needed.
@@ -94,6 +93,10 @@ If you are going to replace a skill, <Skill name="Summon Shadow Fiend"/> is your
 | <Skill name="Signet of Vampirism" size="big" disableText/> | This can provide you a minor dps increase in situations where barrier application is not needed. If you are using <Skill name="Signet of Vampirism"/> and no other Punishment skill, you can take <Trait name="Desert Empowerment"/> over <Trait name="Sadistic Searing"/>. |
 | <Skill name="Sand Swell" size="big" disableText/> | A useful skill that allows you to double up on blinks. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>. |
 </Card>
+
+<Grid>
+<GridItem sm="7">
+
 <Card title="Blood Magic">
 Running Blood Magic instead of Soul Reaping can be an option if you really need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/> and more sustain in general. It will cause a personal damage loss but it can be helpful if your party is having trouble staying alive.
 <Traits unembossed traits1="Blood Magic" traits1SelectedIds="780, 1844, 778"/>
@@ -101,8 +104,10 @@ Running Blood Magic instead of Soul Reaping can be an option if you really need 
 Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn skill <Skill name="Wail of Doom"/>.
 </Message>
 </Card>
-</GridItem> 
+</GridItem>
+
 <GridItem sm="5">
+
 <Card title="Defiance Bar Damage">
 | | |
 | -- | -- |
@@ -112,7 +117,8 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | <Skill name="Charge" profession="necromancer" size="big" disableText/> | 200 damage with <Control name="Knockdown"/> and 232 with <Control name="Launch"/> coming from <Skill name="Summon Flesh Golem"/>| 
 | <Skill name="Spectral Grasp" size="big" disableText/> | 150-750 damage with <Control name="Pull" /> (see situational skills) |
 </Card>
-</GridItem> 
+</GridItem>
+
 </Grid>
 
 <Divider text="Skill Usage"/>

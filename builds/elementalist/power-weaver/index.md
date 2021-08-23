@@ -5,8 +5,7 @@ rating: 'Good'
 role: 'Damage'
 profession: 'Elementalist'
 specialization: 'Weaver'
-benchmark:
-  { small: { dps: 38483, by: 'Fallen [SC]', youtube: 'ZtEY4lXt6Hc' } }
+benchmark: { small: { dps: 38483, by: 'Fallen [SC]', youtube: 'ZtEY4lXt6Hc' } }
 skills: [5734, 5516, 44451, 5557]
 traits: [1502, 226, 1503]
 boons: ['Fury', 'Might', 'Swiftness']
@@ -14,12 +13,13 @@ conditions: ['Burning', 'Chilled', 'Vulnerability']
 code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmguides: '/cm-guides/elementalist/power-weaver'
 classification: [4, 5, 2, 3, 4]
-compositions: [ { name: '_Rainbow' }, { name: '_Rainbearbow' }]
+compositions: [{ name: '_Rainbow' }, { name: '_Rainbearbow' }]
+timeToRead: 6
 ---
 
 The <Specialization name="Weaver" text="Power Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some t4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>. 
+Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
 
 Also this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
@@ -203,25 +203,23 @@ Keep eye on boss HP/<Effect name="Exposed"/> duration to optimize the <Skill id=
 
 - <Skill name="Fire Grab"/> -> <Skill name="Cauterizing Strike"/> -> <Skill name="Ring of Fire"/>
 
-When phases are that fast that you are not sure to get both hits with <Skill name="Fire Grab"/> + <Skill name="Cauterizing Strike"/>, OR When <Effect name="exposed"/> window is tight and you have time to cast only one of those skills within it.  <Skill name="Fire Grab"/> has **ALWAYS** higher priority than other two skills in <Skill id="5492" disableText />/<Skill id="5492" disableText/>
+When phases are that fast that you are not sure to get both hits with <Skill name="Fire Grab"/> + <Skill name="Cauterizing Strike"/>, OR When <Effect name="exposed"/> window is tight and you have time to cast only one of those skills within it. <Skill name="Fire Grab"/> has **ALWAYS** higher priority than other two skills in <Skill id="5492" disableText />/<Skill id="5492" disableText/>
 
 - <Skill name="Cauterizing Strike"/> -> <Skill name="Ring of Fire"/> -> <Skill name="Fire Grab"/>
-  
 
 When you have enough time to use all those skills within phase time/<Effect name="exposed"/> window or its situation like Skorvald/Siax phase 2 where you delay your <Skill name="Fire Grab"/> like that to let it hit with <Trait name="Bolt To The Heart"/> modifier
 
 - <Skill name="Ring of Fire"/> -> <Skill name="Cauterizing Strike"/> -> <Skill name="Fire Grab"/>
-   
 
 When there are a lot of adds around and you have to time to hit both burst skills within <Effect name="exposed"/>/phase time. That option gives additional <Trait name="persisting flames"/> stacks before burst.
 
 ### **Other**
+
 - Try to finish your auto-attack chains (<Skill name="Fire Attunement" disableText/>/<Skill name="Searing Slash" disableText/> and <Skill name="Air Attunement" disableText/>/<Skill name="Call Lightning" profession="elementalist" disableText/>).
 - Use <Skill name="Arcane Blast"/> when the target's defiance bar is broken and you have <Trait name="Elements of Rage"/> and <Skill name="Conjure Lightning Hammer"/> up.
 - On small hitboxes <Skill name="Firestorm"/> is better than <Skill name="Lightning Storm"/>, use it while attuning to <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
-</Card>
-</GridItem>
-
+  </Card>
+  </GridItem>
 
 <GridItem xs="12" sm="12">
 <Card title="Precasting">
@@ -230,10 +228,11 @@ If a _Mistlock Singularity_ is present you should precast boons and particular e
 There are two possible ways to precast boons as <Specialization name="elementalist"/>.
 
 ### **Weaver Precast**
+
 - Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
 - Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
 - Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
-- Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>. 
+- Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>.
 - Take the _Mistlock Singularity_.
 
 It is recommended to use separate precast build to get additional buffs like <Trait name="Elemental Surge"/> for openers and more boons from them.
@@ -245,9 +244,9 @@ Weaver precasting build template:
 ### **Tempest Precast**
 
 - Start on <Skill id="5495"/> with your warhorn/staff tempest precast template and cast <Skill id="29453"/> just when you get <Boon name="Quickness"/> from any source ( the best if fire field is actually placed for might blast ).
-- Swap to  <Skill id="5492"/> and use <Skill id="29548"/> and cast <Skill id="21656"/> and weapon swap to staff.
+- Swap to <Skill id="5492"/> and use <Skill id="29548"/> and cast <Skill id="21656"/> and weapon swap to staff.
 - Precast <Skill id="5506"/> and <Skill id="5635"/> while in <Skill id="5492"/>
-- Precast <Skill id="5516"/>, take the _Mistlock Singularity_ and swap your template to weaver. Attune to  <Skill id="5494"/>/<Skill id="5492"/>. 
+- Precast <Skill id="5516"/>, take the _Mistlock Singularity_ and swap your template to weaver. Attune to <Skill id="5494"/>/<Skill id="5492"/>.
 - Take the _Mistlock Singularity_
 - **NOTE:** When using this precast it is recommended that one party member will bring the fire field. Otherwise use <Skill name="Wildfire"/> before using <Skill id="29548"/>.
 
@@ -255,13 +254,13 @@ Tempest precasting build template:
 
 <Traits unembossed traits1="Arcane" traits1Selected="Renewing Stamina, Elemental Lockdown, Elemental Surge" traits2="Air" traits2Selected="Zephyrs Boon, Inscription, Fresh Air" traits3="Tempest" traits3Selected="Unstable Conduit, Invigorating Torrents, Elemental Bastion"/>
 
+### **Other advices**
 
-### **Other advices**  
 - If you have spare time before the encounter becomes active
-   - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
-   - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
-- When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself. 
-</Card>
+  - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
+  - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
+- When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself.
+  </Card>
 
 </GridItem>
 
@@ -292,7 +291,6 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
     <Label>Only if pre-casted LH</Label>
     <Label>Skip the fire auto-attack chain above</Label>
 </GridItem>
-
 
 <GridItem sm="2">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
@@ -360,7 +358,6 @@ If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto
 
 With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill name="Water Attunement" disableText/> before going directly into <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> after using your Fire skills.
 
-
 <Grid>
 <GridItem sm="6">
 <Card title="Golem Rotation">
@@ -370,6 +367,5 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 </Grid>
 </Card>
 </GridItem>
-
 
 </Grid>

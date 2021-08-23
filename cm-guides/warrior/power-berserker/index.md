@@ -8,8 +8,6 @@ disableOrganized: 'false'
 disableBosses: ['LightAi', 'DarkAi']
 ---
 
-
-
 <ConditionalComponent condition="pug">
 
 <Boss name="mama" video="YMy7HUTQEJI" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="14401" utility1Id="29941" utility2Id="14405" utility3Id="14407" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131" weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Severance" weapon2MainInfusion1Id="37131" >
@@ -19,7 +17,7 @@ disableBosses: ['LightAi', 'DarkAi']
 <Message>
 This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab extra CC skills to make up for the lack of CC of your team mates. 
 </Message>
-This guide is a PuG friendly version without banner precast. Please remember that CCing all bars fast is the most important bit in this fight. You won't get a good kill - might even wipe your party - if you greed DPS without CC. 
+This guide is a PuG friendly version without banner precast. Please remember that CCing all bars fast is the most important bit in this fight. You won't get a good kill - might even wipe your party - if you greed DPS without CC.
 
 There is an invisible hitbox in the center of the arena allowing you to gain enough adrenaline for one <Skill name="decapitate"/> with only two critical hits!
 
@@ -68,19 +66,17 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 </ConditionalComponent>
 
-
 <ConditionalComponent condition="static">
 
 <Boss name="mama" video="uIkrq7fPIhg" videoCreator="Rubby" foodId="43360" utilityId="50082" heal="bloodreckoning" utility1Id="29941" utility2="outrage" utility3="bullscharge" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131" >
 - Change <Skill name="bullscharge"/> to <Skill name="throwbolas"/> if you don't need the additional CC
 - Play <Trait name="Smashbrawler"/>!
 <Message>
-This guide assumes you kill MAMA in less about 45 seconds (p1 break). The CC-distribution greatly changes depending on the speed the party is going. 
+This guide assumes you kill MAMA in less about 45 seconds (p1 break). The CC-distribution greatly changes depending on the speed the party is going.
 
 If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
 </Message>
 </Boss>
-
 
 There is an invisible hitbox in the center of the arena allowing you to gain enough adrenaline for one <Skill name="decapitate"/> with only two critical hits!
 
@@ -104,31 +100,34 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 ### **2nd Phase**
 
 - <Skill name="outrage"/> as soon as it's off cd.
-- Normal rotation according to the guide. Take advantage off the invisible hitbox to get more decapitates in. 
+- Normal rotation according to the guide. Take advantage off the invisible hitbox to get more decapitates in.
 
 ### _2nd Add_
+
 - Swap to Mace to trigger <Item name="severance"/>
 - <Skill name="Headbutt"/>, <Skill name="outrage"/>. In case your party goes too fast <Skill name="Headbutt"/> won't be off cooldown. In that case you need a <Item name="frenzy"/> on your mainhand axe.
 - <Skill name="crushing blow"/> for <Condition name="Vulnerability"/> application.
 
 ### **3rd Phase**
+
 - Stay on Mace to trigger <Item name="severance"/> again.
 - <Skill name="bullscharge"/>, <Skill name="tremor"/>.
 
 ### _3rd Add_
+
 - <Skill name="Wildblow"/>
 - Swap to Mace and use <Skill name="crushing blow"/> for <Condition name="Vulnerability"/> application.
 
-
 ### **4th Phase**
+
 - Use <Skill name="headbutt"/> and <Skill name="outrage"/> to CC quickly.
 - Swap to Axe/Axe as soon as you are done with CCing and DPS.
+
 </ConditionalComponent>
 
 ---
 
 <ConditionalComponent condition="pug">
-
 
 <Boss name="siax" video="b2Xi8dRE5js" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="14401" utility1Id="30258" utility2Id="14405" utility3Id="14407" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="Greatsword" weapon2MainSigil1="force" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 - It is recommended to play Greatsword in PuGs so you can cleave down the exploding adds! 
@@ -162,9 +161,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 - Warrior business as usual.
 
-
 </ConditionalComponent>
-
 
 <ConditionalComponent condition="static">
 <Boss name="siax" video="yfPvLIHZaRM" timestamp="5" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="rifle" weapon2MainSigil1="force" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -218,9 +215,9 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 - In fast teams bring <Skill name="bullscharge"/> over <Skill name="signetofmight"/>.
 </Boss>
 
-
 ### **1st Phase**
-- Get adrenaline with <Skill name="Whirlingaxe"/> and open <Skill name="Berserk"/> in the dome. 
+
+- Get adrenaline with <Skill name="Whirlingaxe"/> and open <Skill name="Berserk"/> in the dome.
 - After the dome cast <Skill name="Headbutt"/> and <Skill name="outrage"/>.
 - Smash <Skill name="Decapitate"/> hard.
 
@@ -237,6 +234,7 @@ Swap to your off set (mace/torch) and cap the circle. After you meet in the midd
 - <Skill name="Headbutt"/> to trigger <Item name="severance"/>.
 - Swap weapons.
 - Smash <Skill name="Decapitate"/> hard.
+
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
@@ -267,8 +265,10 @@ Swap to your off set (axe/torch) and cap the circle. After you meet in the middl
 - Swap weapons.
 - Smash <Skill name="Decapitate"/> hard.
 - Use <Skill name="bullscharge"/> before <Skill name="Whirlingaxe"/> to refresh <Trait name="peakperformance"/>.
+
 </ConditionalComponent>
 
+---
 
 <ConditionalComponent condition="pug">
 
@@ -306,7 +306,7 @@ The rest of the fight follows accordingly.
 
 <ConditionalComponent condition="static">
 
-<Boss name="skorvald" video="iIH6qeeggyo" videoCreator="Princeps [dT]" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="elementalslaying" weapon2OffType="warhorn" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
+<Boss name="skorvald" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="force" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="elementalslaying" weapon2OffType="warhorn" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
 - Play <Trait name="savageinstinct"/>!
 - 4-way split: you solo the first anomaly at 33% with a <Item id="78978"/>
 - Precast <Skill name="flamesofwar"/> before the boss starts and swap immediately to warhorn.
@@ -334,6 +334,7 @@ The rest of the fight follows accordingly.
 - Follow the standard fractal rotation.
 
 ### _Solo Island 1_
+
 - Open your <Item id="78978"/> and take it.
 - Kill your add quickly. You need at least one <Skill name="decapitate"/> to solo the add before your portal runs out.
 - Take it back, immediately recast your banners
@@ -342,6 +343,7 @@ The rest of the fight follows accordingly.
 ### **33%-0%**
 
 - Follow the standard fractal rotation.
+
 </ConditionalComponent>
 
 ---
@@ -371,12 +373,11 @@ The rest of the fight follows accordingly.
 - After the mid burn replace your banners at the corner Artsariiv is going to jump to.
 - Depending on your team's DPS you either wanna engage <Skill name="Berserk"/> in the middle or in the corner.
 
-
 </ConditionalComponent>
 
 <ConditionalComponent condition="static">
 
-<Boss name="artsariiv" video="iIH6qeeggyo" videoCreator="Princeps [dT]" timestamp="74" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3="signetoffury" elite="battlestandard" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="sword" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131">
+<Boss name="artsariiv" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3="signetoffury" elite="battlestandard" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe"  weapon1OffSigil="impact" weapon1OffInfusionId="37131"  weapon2MainAffix="Berserker" weapon2MainType="sword" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131"  weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131">
 - Play <Trait name="smashbrawler"/>!
 - Mid-strategy: the strategy is focused around phasing the boss in the middle before she moves.
 </Boss>
@@ -403,8 +404,10 @@ The rest of the fight follows accordingly.
 - Finish the boss on the side.
 
 ### **33%-0%**
+
 - Normal rotation, remember to integrate <Skill name="signetoffury"/> for the increased <Attribute name="Ferocity"/>.
 - Fire everything to kill her in middle.
+
 </ConditionalComponent>
 
 ---
@@ -417,7 +420,6 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
 </Message>
 - Play <Trait name="smashbrawler"/>!
 </Boss>
-
 
 </ConditionalComponent>
 
@@ -439,6 +441,7 @@ It is not your job as <Specialization name="Berserker"/> to slay the Temporal An
   - Precast <Skill name="Flames of war"/> for DPS then swap back to mace.
   - Precast <Skill name="Mending"/>.
   - Take the _Mistlock Singularity_ to start the fight with maximum adrenaline.
+
 </ConditionalComponent>
 
 ### **1st Phase (100%-80%)**
