@@ -39,7 +39,7 @@ benchmark:
     by: MajesticNoodle [BATS]
     youtube: G1Y1u4ZwJh8
 ---
-The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also ***Quickness Firebrand*** or ***Quickbrand***) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.
+The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also ***Quickness Firebrand*** or ***Quickbrand***) provides permanent <Boon name="Quickness"/> to the party while dealing very decent DPS.
 
 It plays very similar to <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> with the addition of <Specialization name="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
 
