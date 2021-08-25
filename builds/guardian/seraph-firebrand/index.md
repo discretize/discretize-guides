@@ -1,26 +1,42 @@
 ---
-title: 'Seraph Firebrand'
-date: '2021-07-25'
-rating: 'Good'
-role: 'Hybrid'
-profession: 'Guardian'
-specialization: 'Firebrand'
-skills: [9153, 9251, 9084, 9128, 9093]
-boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Swiftness', 'Aegis']
-conditions: ['Burning']
-code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-classification: [5, 3, 4, 3, 4]
+title: Seraph Firebrand
+date: 2021-07-25
+rating: Good
+role: Hybrid
+profession: Guardian
+specialization: Firebrand
+skills:
+  - 9153
+  - 9251
+  - 9084
+  - 9128
+  - 9093
+conditions:
+  - Burning
+boons:
+  - Quickness
+  - Fury
+  - Might
+  - Stability
+  - Swiftness
+  - Aegis
+code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 5
+  - 3
+  - 4
+  - 3
+  - 4
 ---
-
 The **<Specialization text="Seraph Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
 
 <Divider text="Equipment"/>
 
-The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are two variants shown below; a Seraph variant and a Celestial variant. The Seraph Variant is a more offensive build and offers the most damage. While the Celestial variant is much more supportive. Both of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](http://old.discretize.eu).
+The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option if playing outside of fractals. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](http://old.discretize.eu).
 
 <Tabs>
 <Tab title="Seraph Variant">
-**This is the standard build variant. It provides higher damage then the Celestial build whilst still providing more than enough support for most groups.**
+**This is the standard build variant. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**
 <Grid>
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Seraph" helmRune="Balthazar" shouldersAffix="Seraph" shouldersRune="Balthazar" coatAffix="Seraph" coatRune="Balthazar" glovesAffix="Seraph" glovesRune="Balthazar" leggingsAffix="Seraph" leggingsRune="Balthazar" bootsAffix="Seraph" bootsRune="Balthazar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
@@ -45,6 +61,32 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 </Grid>
 </Tab>
 <Tab title="Celestial Variant">
+**This build bursts less than the Seraph variant but over time in long phases it deals slightly more damage. If you intend to play the build outside of fractals also this is a better build to use than Seraph. It also has the advantage of having more survivability due to gaining <Attribute name="Vitality"/> and <Attribute name="Toughness"/> from the Celestial stat type.**
+<Grid>
+<GridItem sm="4">
+<Armor weight="Heavy" helmAffix="Celestial" helmRune="Balthazar" shouldersAffix="Celestial" shouldersRune="Balthazar" coatAffix="Celestial" coatRune="Balthazar" glovesAffix="Celestial" glovesRune="Balthazar" leggingsAffix="Celestial" leggingsRune="Balthazar" bootsAffix="Celestial" bootsRune="Balthazar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Axe" weapon1MainAffix="Celestial" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Celestial" weapon1OffSigil="Bursting" weapon2MainType="Staff" weapon2MainAffix="Celestial" weapon2MainSigil1="Transference" weapon2MainSigil2="Bursting" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2MainInfusion2Id="49432"/>
+
+<Card title="Alternative Gear">
+ - Playing full Celestial over caps <Condition name="burning"/> duration, so if you want to optimize you can swap all but one of your trinkets to Seraphs, leaving one Celestial Accessory.
+ - <Item id="47016"/> to replace <Item id="47020"/> in groups where less support or <Boon name="Might"/> is needed,
+ - In groups that require more support you can always swap consumables to <Item id="68634"/> and <Item id="67528"/>
+
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Celestial" accessory1Affix="Celestial" accessory2Affix="Celestial" amuletAffix="Celestial" ring1Affix="Celestial"  ring2Affix="Celestial" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
+
+<Consumables foodId="92505" utilityId="48917" infusionId="37130"/>
+
+</GridItem>
+</Grid>
+</Tab>
+<Tab title="Celestial Heal Variant">
 **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**
 <Grid>
 <GridItem sm="4">
@@ -55,7 +97,6 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Celestial" weapon1MainSigil1="Smoldering" weapon1OffType="Torch" weapon1OffAffix="Celestial" weapon1OffSigil="Bursting" weapon2MainType="Staff" weapon2MainAffix="Celestial" weapon2MainSigil1="Transference" weapon2MainSigil2="Smoldering" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2MainInfusion2Id="49432"/>
 
 <Card title="Alternative Gear">
- - If you want to stay with Celestial gear but play a more offensive variant, you can adjust your gear as follows. Use <Item id="24765"/> and replace the <Item id="24624"/> with <Item id="24560"/> on Axe, and <Item id="44944"/> on Staff.
  - <Item id="47016"/> to replace <Item id="47020"/> in groups where less support or <Boon name="Might"/> is needed,
  - In groups that require more support you can always swap consumables to <Item id="68634"/> and <Item id="67528"/>
 
@@ -130,6 +171,10 @@ Keeping up <Boon name="Quickness"/> is a lot easier than with a <BuildLink build
 - Use <Skill name="Mantra of Potence"/> off cooldown and <Skill name="Mantra of Solace"/> every 7 seconds due to the cooldown of <Trait name="Liberators Vow"/>
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 - Keep in mind that equipping/stowing a tome grants you (only you, not your party members!) 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
+
+<Message>
+To play <Trait name="Legendary Lore"/> you need to have at least 60% boon duration to upkeep <Boon name="Quickness"/>. Both the Seraph and the Celestial builds have 40% from gear. meaning you will need to get the rest from agony resistance and consumables. If you cannot get enough boon duration to be safe just play with <Trait name="Stalwart Speed"/>!
+</Message>
 
 The rotation is a **lot** simpler compared to any other <Specialization name="Guardian"/> build (except for hfb where your weapons do not have immediate effect on how efficient the build is). However, weapon swaps require careful consideration, because it is not efficient to be stuck on staff or to have less than 25 <Boon name="might"/> during a damage phase.  
 Getting the weapon swaps right is probably the hardest part (more info below). Generally, it is recommended to always camp Axe/Torch and only swap to staff to use <Skill name="Empower"/> to top up <Boon name="Might"/>.
