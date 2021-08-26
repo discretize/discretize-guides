@@ -1,9 +1,10 @@
-﻿---
-title: 'Damage Mitigation'
-date: '2021-02-24'
-image: './images/reflect.jpg'
-description: 'Learn which skills and traits your profession can use to avoid damaging mechanics.'
-hidden: 'false'
+---
+title: Damage Mitigation
+date: 2021-02-24
+image: ./images/reflect.jpg
+description: Learn which skills and traits your profession can use to avoid
+  damaging mechanics.
+hidden: "false"
 ---
 
 ## Projectiles Destruction / Reflection
@@ -136,6 +137,8 @@ Below is a list of commonly used defensive skills:
 (Sword 3)
 * <Skill name="Riposting Shadows"/>  <Specialization disableText name="Revenant"/>  
 (Shiro Utility skill)
+* <Skill name="Infuse Light"/> <Specialization disableText name="Herald"/>  
+(<Specialization name="Herald"/> Heal Skill)
 </Card>
 </GridItem>
 
