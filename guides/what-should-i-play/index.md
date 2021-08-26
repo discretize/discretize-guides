@@ -1,9 +1,9 @@
 ---
-title: 'What Should I Play?'
-date: '2021-05-31'
-image: './images/whatshouldiplaylogo.png'
-description: 'If you do not know what class you want to play.'
-hidden: 'false'
+title: What Should I Play?
+date: 2021-05-31
+image: ./images/whatshouldiplaylogo.png
+description: If you do not know what class you want to play.
+hidden: "false"
 ---
 
 This page introduces all the builds on this website by giving a very short overview over the gameplay. It may help you to choose the right class for your very own playstyle. Generally there are three types of builds: DPS, offensive support and defensive support builds. A META team for example is only running DPS and offensive support builds.
@@ -40,9 +40,9 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 | --------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Renegade" disableLink />](/builds/revenant/power-renegade) | <Rating value="5"/> | <Rating value="2"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="5"/> |
 
-<Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, an insanely strong party heal and additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
+<Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
-Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty.
+Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty.
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 </Card>
