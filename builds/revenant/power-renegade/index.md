@@ -1,6 +1,6 @@
 ---
 title: Power Renegade
-date: 2021-06-01
+date: 2021-08-26
 rating: Power Meta
 role: Damage
 author: Casual Sophie - Jin Su Liang.9036
@@ -136,7 +136,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 <Card title="Situational Traits">
 | | |
 | -- | -- |
-| <Trait id="1754" size="big" disableText/> | With low group DPS and long phases this might pull ahead of <Trait id="1800"/>. It is also more personal survivability and higher Scholar uptime if the phases are long. |
+| <Trait id="1754" size="big" disableText/> | On a lot of encounters and especially in slower groups, <Trait name="SwiftTermination"/> will be worse than <Trait name="DanceOfDeath"/>. <Trait name="SwiftTermination"/> offers less survivability but is burstier. |
 | <Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low. |
 </Card>
 <Card title="Situational Skills">
@@ -195,7 +195,7 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 
 - <Skill name="Rapid Swipe"/> - The auto-attack chain cleaves and the last hit provides a small amount of healing to allies.
 - <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
-- <Skill name="Warding Rift"/> - A two second block that <Condition name="Blinded"/> foes.
+- <Skill name="Warding Rift"/> - A two second block that causes <Condition name="Blinded"/> foes.
 - <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
 - <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Control name="Knockback"/>.
 
