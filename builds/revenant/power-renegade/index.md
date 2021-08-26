@@ -1,21 +1,39 @@
 ---
-title: 'Power Renegade'
-date: '2021-06-01'
-rating: 'Power Meta'
-role: 'Damage'
-profession: 'Revenant'
-specialization: 'Renegade'
+title: Power Renegade
+date: 2021-06-01
+rating: Power Meta
+role: Damage
+author: Casual Sophie - Jin Su Liang.9036
+profession: Revenant
+specialization: Renegade
+skills:
+  - 45773
+  - 27505
+traits:
+  - 1786
+conditions:
+  - Vulnerability
+boons:
+  - Alacrity
+  - Might
+  - Stability
+code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
+cmguides: /cm-guides/revenant/power-renegade
+classification:
+  - 5
+  - 2
+  - 4
+  - 3
+  - 5
+compositions:
+  - name: _Rainbow
+  - name: _Rainbearbow
+  - name: _RGB
 benchmark:
-  { large: { dps: 23973, by: 'MajesticNoodle [BATS]', youtube: 'p4D96l_GVPg' } }
-skills: [45773, 27505]
-traits: [1786]
-boons: ['Alacrity', 'Might', 'Stability']
-conditions: ['Vulnerability']
-code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
-author: 'Casual Sophie - Jin Su Liang.9036'
-cmguides: '/cm-guides/revenant/power-renegade'
-classification: [5, 2, 4, 3, 5]
-compositions: [{ name: '_Rainbow' }, { name: '_Rainbearbow' }, { name: '_RGB' }]
+  large:
+    dps: 23973
+    by: MajesticNoodle [BATS]
+    youtube: p4D96l_GVPg
 ---
 
 <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, a moderate party heal and some additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -28,9 +46,9 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 
 - Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 - Check the CM-guides for information when to play 50% and 80% boon duration. For newer <Specialization name="Renegade"/>s it is recommended to play at least 80% boon duration.
-  <Tabs outlined>
-  <Tab title="162 Agony Resistance">
-
+  
+<Tabs outlined>
+<Tab title="162 Agony Resistance">
 <Grid>
 <GridItem sm="2">
 </GridItem>
