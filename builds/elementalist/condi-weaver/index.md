@@ -112,7 +112,7 @@ If you do want to switch any of your utilites in favor of one of the skills list
 | <Skill name="Magnetic Wave" size="big" disableText/> | 15 / s (135) with <Condition name="Crippled"/> |
 | <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (82,5) with <Condition name="Crippled"/> |
 | <Skill name="Twin Strike" size="big" disableText/> | 33 / s (181,5) with <Condition name="Chilled"/> |
-| <Skill name="Tailored Victory" size="big" disableText/> | 250 with <Control name="Float"/>
+| <Skill name="Tailored Victory" size="big" disableText/> | 250 with <Control name="Float"/> |
  **Conditions applied are calculated by taking the maximum condition duration into account.**
 
 </Card>
@@ -281,7 +281,6 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <Video youtube="H5ZyMQln6hw" caption="by Roul [SC]" />
 </Card>
 
-<GridItem xs= "12" sm="12">
 <Card title="Important Notes">
 
 - <Skill name="Signet of Fire"/> is one of your most important DPS skills. Use it off cooldown!
@@ -293,10 +292,9 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 - Although it is important to finish auto attack chains, during <Skill name="Weave Self"/>, you should prioritize using your skills and entering <Skill name="Tailored Victory"/>, even if it means skipping some auto attacks. Maintaining the <Skill name="Fire Attunement" disableText/> buff of <Skill name="Weave Self"/> is most important.
 
 - In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is different from the 1st. However, due to the faster nature of fractal bosses, you will either phase the boss before you reach the 2nd rotation or there will be enough downtime to reset to the written rotation when <Skill name="Weave Self"/> is on cooldown.
-  </GridItem>
-  </Card>
+</Card>
+</GridItem> 
 
-</GridItem>
 </Grid>
 
 <GridItem xs="12" sm="6">
