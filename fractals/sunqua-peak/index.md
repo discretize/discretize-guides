@@ -1,33 +1,47 @@
 ---
-title: 'Sunqua Peak'
-date: '2021-02-24'
-image: './images/hero_sunqua2.jpg'
-group: 'Challenge Mode'
+date: 2021-02-24
+cycle: Day (non CM) / Night (CM)
+consumables:
+  - 78978
+record:
+  time: 1:09
+  by:
+    - name: Quantify
+      tag: qT
+    - name: Discretize
+      tag: dT
+    - name: Seventeen Elitists
+      tag: XVII
+  youtube:
+    - id: bX03q6P1IIw
+      name: Tym
+      specialization: Soulbeast
+    - id: KhX6wzYaIdc
+      name: Eupneo
+      specialization: Soulbeast
+    - id: CuD8VoHkWYQ
+      name: Tantor
+      specialization: Firebrand
+    - id: rGp3LjjZQB4
+      name: Roach
+      specialization: Firebrand
+    - id: 5KM5x9mCjyU
+      name: Decados
+      specialization: Renegade
+title: Sunqua Peak
+image: ./images/hero_sunqua2.jpg
+group: Challenge Mode
 api: 5446
 bosses: 5
-difficulties: [{ level: 100, ar: 150 }]
-cycle: 'Day (non CM) / Night (CM)'
-sigils: [{ id: 36053 }, { id: 24868 }]
-consumables: [78978]
-record:
-  {
-    time: '1:09',
-    by: [
-        { name: 'Quantify', tag: 'qT' }, 
-        { name: 'Discretize', tag: 'dT'},
-        { name: 'Seventeen Elitists', tag: 'XVII'}
-    ],
-    youtube: [
-      { id: 'bX03q6P1IIw', name: 'Tym', specialization: 'Soulbeast' },
-      { id: 'KhX6wzYaIdc', name: 'Eupneo', specialization: 'Soulbeast' },
-      { id: 'CuD8VoHkWYQ', name: 'Tantor', specialization: 'Firebrand' },
-      { id: 'rGp3LjjZQB4', name: 'Roach', specialization: 'Firebrand' },
-      { id: '5KM5x9mCjyU', name: 'Decados', specialization: 'Renegade' },
-    ],
-  }
+difficulties:
+  - level: 100
+    ar: 150
+sigils:
+  - id: 36053
+  - id: 24868
 ---
 
-The Sunqua Peak fractal is different from previously released fractals: After doing all the achievements a Challange Mote is unlocked which opens a portal to the last boss in Challenge Mode. The bosses in normal mode are supposed to teach the mechanics of the endboss. 
+The Sunqua Peak fractal is different from previously released fractals: After doing all the achievements a Challenge Mote is unlocked which opens a portal to the last boss in Challenge Mode. The bosses in normal mode are supposed to teach the mechanics of the endboss. 
 
 ## First jumping puzzle 
 Killing elementals spawns lightning strikes that periodically leave behind an orb like item. Upon collection it grants the temporary buff <Uncategorized name="chargedleap"/> that enhances the jumping height. Since it stacks up to 3 times, it is recommended to collect 2-3 to ease the jumping part. After approaching the platform with the *Mistlock Singularity*, jump over to the boss via the updraft to set a checkpoint for possibly left behind teammates. `/gg` and pre-stack boons like <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> on the *Mistlock Singularity*.
@@ -66,7 +80,7 @@ After the Voice of the mountain is dead, take the updraft and follow the path. I
 </GridItem>
 
 <GridItem sm="12">
-However, the waterfalls have two states, active and inactive. When inactive, they will not push you over the edge. An easy way to tell which state they are in is if the water flow is more intense with more white streaks running through it or not. When the effects expire and the flow slows down, it's safe to simply walk through. Alternativly, you can also try and dodge through the intense flow or use <Item id="85244"/> or a movement skill to quickly get past. The second waterfall can be easily skipped by walking behind it. 
+However, the waterfalls have two states, active and inactive. When inactive, they will not push you over the edge. An easy way to tell which state they are in is if the water flow is more intense with more white streaks running through it or not. When the effects expire and the flow slows down, it's safe to simply walk through. Alternatively, you can also try and dodge through the intense flow or use <Item id="85244"/> or a movement skill to quickly get past. The second waterfall can be easily skipped by walking behind it. 
 
 Do the mini jumping puzzle to the 2nd boss, remember to talk to the elementals. As soon as you have interacted with all 3, `/gg` so your team can catch up with the front runner.
 
@@ -154,7 +168,7 @@ When you break Ai's breakbar she gets a buff on her bar preventing a new breakba
 <GridItem sm="8">
 The Sorrowful Spellcaster is the fourth and final boss of the fractal. Unlike other fractal CM encounters pre-booning does not work, because once you cross the green circle around the boss all boons will get removed. However, you can still precast unique buffs like <Skill name="Bane Signet"/> or <Skill name="One Wolf Pack"/>. 
 
-The boss has multiple phases themed around the different elements air, fire, water. The previously introduced mechanics are reoccuring.
+The boss has multiple phases themed around the different elements air, fire, water. The previously introduced mechanics are reoccurring.
 
 </GridItem>
 <GridItem sm="4">
@@ -202,9 +216,9 @@ After the meteor attack, the pattern from the Air Phase repeats. If you do not m
 
 <Grid>
 <GridItem xs="12" sm="7">
-After bringing the boss down to 33%, she gets <Effect name="Invulnerability"/> and pushes the group to the edge. After a short while, dark orbs appear on set intervals that tether to players. The player closest to the orb gets tethered and receives the debuff <Uncategorized name="tidalbargain"/>. You can take over the <Uncategorized name="tidalbargain"/> by standing inbetween the tethered person and the orb. Players are also targeted by green AoEs, stay stacked to share the damage taken.
+After bringing the boss down to 33%, she gets <Effect name="Invulnerability"/> and pushes the group to the edge. After a short while, dark orbs appear on set intervals that tether to players. The player closest to the orb gets tethered and receives the debuff <Uncategorized name="tidalbargain"/>. You can take over the <Uncategorized name="tidalbargain"/> by standing in-between the tethered person and the orb. Players are also targeted by green AoEs, stay stacked to share the damage taken.
 
-After the 4th orb disappears, the boss dashes to the side and repeats the same pattern as before, only this time she starts casting a more poweful version of the previous line attacks, summoning water tornados that deal heavy damage. Be very careful and avoid them.
+After the 4th orb disappears, the boss dashes to the side and repeats the same pattern as before, only this time she starts casting a more powerful version of the previous line attacks, summoning water tornados that deal heavy damage. Be very careful and avoid them.
 
 </GridItem>
 
@@ -232,10 +246,10 @@ Be aware that every time a person dies, a Doubt spawns. It behaves like a Vindic
 <GifPlayer caption="Avoid getting hit by the lasor attack pattern" url="https://cdn.discordapp.com/attachments/662333637143822339/759379953451401236/shadowphasestartvol2.webm"/>
 </GridItem>
 <GridItem xs="12" sm="7">
-After recovering from being tethered by her Doubt the boss will initially dash in a random direction into the wall and start her attack pattern. Be careful to not stand in her dash path or to simply dodge through it as it deals heavy damage. Upon hitting the wall lasers will start to spawn in a set attack pattern that will be consistant throughout the fight this is also when the first breakbar appears which lasts 7 seconds. The hitboxes of the lasers are quite thin and it is therefore possible to stand inbetween two lasers and not get hit. 
+After recovering from being tethered by her Doubt the boss will initially dash in a random direction into the wall and start her attack pattern. Be careful to not stand in her dash path or to simply dodge through it as it deals heavy damage. Upon hitting the wall lasers will start to spawn in a set attack pattern that will be consistent throughout the fight this is also when the first breakbar appears which lasts 7 seconds. The hitboxes of the lasers are quite thin and it is therefore possible to stand in-between two lasers and not get hit. 
 </GridItem>
 <GridItem xs="12" sm="12">  
-After 5 waves of lasers Ai will dash again in a random direction towards a wall. This is when the first split phase will occur, a bunch of heavy ticking damage AoE's will spawn around the boss aswell as very large expanding circles around each players. Make sure to spread out to avoid heavy damage. She will then do a series of basic attacks before finally doing another split phase with a slightly different AoE pattern on the floor (this is the same basic attack pattern as the one in all previous phases, mentioned in the air phase).
+After 5 waves of lasers Ai will dash again in a random direction towards a wall. This is when the first split phase will occur, a bunch of heavy ticking damage AoE's will spawn around the boss as well as very large expanding circles around each players. Make sure to spread out to avoid heavy damage. She will then do a series of basic attacks before finally doing another split phase with a slightly different AoE pattern on the floor (this is the same basic attack pattern as the one in all previous phases, mentioned in the air phase).
 </GridItem>
 </Grid>
 She will keep dashing around the arena and mixing and matching her abilities described above until she dashes to the middle of the arena. The only difference with being in the middle of the arena is that during the split phase, instead of pulsing AoE's, lasers appear that will converge once the player specific AoE's explode. Be careful when walking back into the boss as these lasers will converge on her in two waves and deal heavy damage.
@@ -246,7 +260,7 @@ From this point onward the boss will mostly stay in the center of the arena, das
 <Message>
 Any AoE's on the floor prior to her hitting 66% will still last the full duration so be careful when walking back to the center
 </Message>
-Upon hitting 66% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena. She will then instantly start channeling and pulsing out AoE's in a set ring pattern. Where the first ring is close, second is in the middle and third is far from the boss. However no AoE's will spawn directly next to the boss so staying in melee range is safe. There are also small safe zones between the AoE's.
+Upon hitting 66% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena. She will then instantly start channeling and pulsing out AoE's in a set ring pattern. Where the first ring is close, second is in the middle and third is far from the boss. However no AoEs will spawn directly next to the boss so staying in melee range is safe. There are also small safe zones between the AoEs.
 
 <Grid>
 <GridItem xs="12" sm="4">
