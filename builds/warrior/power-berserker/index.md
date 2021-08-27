@@ -1,21 +1,37 @@
 ---
-title: 'Power Berserker'
-date: '2021-06-01'
-rating: 'Good'
-role: 'Damage'
-profession: 'Warrior'
-specialization: 'Berserker'
+title: Power Berserker
+date: 2021-06-01
+rating: Good
+role: Damage
+profession: Warrior
+specialization: Berserker
+skills:
+  - 14407
+  - 14405
+traits:
+  - 1444
+  - 1977
+  - 2049
+conditions:
+  - Vulnerability
+boons:
+  - Might
+code: "[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmguides: /cm-guides/warrior/power-berserker
+classification:
+  - 4
+  - 4
+  - 4
+  - 2
+  - 4
+compositions:
+  - name: _Rainbow
+teaserVideo: ""
 benchmark:
-  { small: { dps: 33563, by: 'KingMarcus.1408', youtube: 'LxHu4l36Zl0' } }
-teaserVideo: ''
-skills: [14407, 14405]
-traits: [1444, 1977, 2049]
-conditions: ['Vulnerability']
-boons: ['Might']
-code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmguides: '/cm-guides/warrior/power-berserker'
-classification: [4, 4, 4, 2, 4]
-compositions: [{ name: '_Rainbow' }]
+  small:
+    dps: 33563
+    by: KingMarcus.1408
+    youtube: LxHu4l36Zl0
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
@@ -92,7 +108,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <GridItem sm="4">
 <Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
 <Card title="Requirements:">
-* All fractal augumentations
+* All fractal augmentations
 * 18x <Item id="49432"/>
 * <Item id="70596"/>
 </Card>
@@ -181,7 +197,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 | <Skill name="Signet of fury" disableText size="big"/> | Fills up the adrenaline bar and grants a huge damage buff.|
 | <Skill name="Signet of might" disableText size="big"/> | Flat 180 power buff. Only take this when no other utility is needed.|
 | <Skill name="Battle Standard" disableText size="big"/> | For Arkk and Artsariiv. |
-| <Skill name="banneroftactics" disableText size="big"/> | Can be precasted at encounters. |
+| <Skill name="banneroftactics" disableText size="big"/> | Can be precast at encounters. |
 | <Skill name="onmymark" disableText size="big"/> | Can be used to pull Krait from the side altars at the Nightmare CM fractal. |
 | <Skill name="featherfootgrace" disableText size="big"/> | Grants <Effect name="Superspeed"/> for skips. |
 | <Skill name="frenzy" disableText size="big"/> | Self <Boon name="Quickness"/> for precasting banners. |
