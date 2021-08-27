@@ -1,18 +1,35 @@
 ---
-title: 'Power Soulbeast'
-date: '2021-06-01'
-rating: 'Power Meta'
-role: 'Damage'
-profession: 'Ranger'
-specialization: 'Soulbeast'
-benchmark: { small: { dps: 35484, by: 'Ares [EoE]', youtube: 'jUyBMhlq13o' } }
-skills: [45717, 12497, 12639, 12638]
-conditions: ['Vulnerability']
-effects: ['Stealth']
-code: '[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
-cmguides: '/cm-guides/ranger/power-soulbeast'
-classification: [5, 5, 3, 3, 4]
-compositions: [{ name: '_Rainbow' }, { name: '_RGB' }]
+date: 2021-06-01
+rating: Power Meta
+role: Damage
+skills:
+  - 45717
+  - 12497
+  - 12639
+  - 12638
+cmguides: /cm-guides/ranger/power-soulbeast
+effects:
+  - Stealth
+title: Power Soulbeast
+profession: Ranger
+specialization: Soulbeast
+conditions:
+  - Vulnerability
+code: "[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]"
+classification:
+  - 5
+  - 5
+  - 3
+  - 3
+  - 4
+compositions:
+  - name: _Rainbow
+  - name: _RGB
+benchmark:
+  small:
+    dps: 35484
+    by: Ares [EoE]
+    youtube: jUyBMhlq13o
 ---
 
 <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
@@ -114,7 +131,7 @@ To crit cap without <Skill name="Banner of Discipline"/> you will ned to take <I
 </GridItem>
 </Grid>
 <Message>
-It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full zerk on both.
+It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full Berserker gear on both.
 </Message>
 </Tab>
 </Tabs>
@@ -204,7 +221,7 @@ For your First weapon set you have a choice of 3 weapons:
 - Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. Greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck auto attacking) and you don't have time for another Longbow burst.
 - Warhorn is your final option and can be taken if your phases are short enough to not need to swap back after Sword/Axe AND you will not be able to cast another <Skill name="Barrage"/> during the fight. "
 
-For your second weapon set you always want Axe off-hand, but mainhand you have a choice of 3 weapons again:
+For your second weapon set you always want Axe off-hand, but main hand you have a choice of 3 weapons again:
 
 - **You should mostly run a main-hand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
 - You may take a main-hand axe (to fill with <Skill name="wintersbite"/>) for certain encounters, such as midburn Artsariiv, where you almost never auto attack with your dual wielding weapons set.
