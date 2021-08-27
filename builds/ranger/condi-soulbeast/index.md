@@ -1,24 +1,36 @@
 ---
-title: 'Condi Soulbeast'
-date: '2021-20-08'
-rating: 'Condi Meta'
-role: 'Damage'
-profession: 'Ranger'
-specialization: 'Soulbeast'
-benchmark: { small: { dps: 36197, by: 'Eren', youtube: 'WSuDmiuAwC8' } }
-skills: [45717, 12498, 12508, 46432]
-conditions: ['Bleeding', 'Poisoned', 'Burning']
-code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
-cmguides: '/cm-guides/ranger/condi-soulbeast'
-classification: [5, 4, 3, 2, 3]
+title: Condi Soulbeast
+date: 2021-20-08
+rating: Condi Meta
+role: Damage
+profession: Ranger
+specialization: Soulbeast
+skills:
+  - 45717
+  - 12498
+  - 12508
+  - 46432
+conditions:
+  - Bleeding
+  - Poisoned
+  - Burning
+code: "[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]"
+cmguides: /cm-guides/ranger/condi-soulbeast
+classification:
+  - 5
+  - 4
+  - 3
+  - 2
+  - 3
 compositions:
-  [
-    {
-      name: '_CRGB',
-      roles: 'DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC',
-      composition: 'Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade',
-    },
-  ]
+  - name: _CRGB
+    roles: DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC
+    composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
+benchmark:
+  small:
+    dps: 36197
+    by: Eren
+    youtube: WSuDmiuAwC8
 ---
 
 <Message>
@@ -158,7 +170,7 @@ The rotation in general is very simple, just keep rotating between your Shortbow
 <Card title="Precasting">
 In 100CM boons get stripped but unique buffs do not, so you can precast these skills and traits:
 1. If you can get in combat briefly stack <Item id="24609"/> and <Item id="24599"/>
-2. While in combat you can precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
+2. While in combat you can precast <Trait name="Poison Master"/> by using a <Skill id="42944"/> ability.
 2. <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
 3. With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
 3. As you are dodging use <Skill name="Moa Stance"/>, <Skill id="12537"/> and <Skill name="Vulture Stance"/> 
