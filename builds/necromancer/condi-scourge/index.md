@@ -1,22 +1,46 @@
 ---
-title: 'Condi Scourge'
-date: '2021-06-01'
-rating: 'Good'
-role: 'Damage'
-profession: 'Necromancer'
-specialization: 'Scourge'
-benchmark: { small: { dps: 37044, by: 'Prud', youtube: '6NbhBMCyjmw' } }
-skills: [10606, 44663, 10602]
-traits: [801, 905, 2164, 2121]
-boons: ['Might', 'Fury', 'Quickness']
+title: Condi Scourge
+date: 2021-06-01
+rating: Good
+role: Damage
+author: "Discord: Amerikajinn#9784"
+profession: Necromancer
+specialization: Scourge
+skills:
+  - 10606
+  - 44663
+  - 10602
+traits:
+  - 801
+  - 905
+  - 2164
+  - 2121
 conditions:
-  ['Vulnerability', 'Weakness', 'Crippled', 'Chilled', 'Poisoned', 'Blinded']
-code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
-author: 'Discord: Amerikajinn#9784'
-classification: [2, 4, 4, 2, 3]
+  - Vulnerability
+  - Weakness
+  - Crippled
+  - Chilled
+  - Poisoned
+  - Blinded
+boons:
+  - Might
+  - Fury
+  - Quickness
+code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 2
+  - 4
+  - 4
+  - 2
+  - 3
+benchmark:
+  small:
+    dps: 37044
+    by: Prud
+    youtube: 6NbhBMCyjmw
 ---
 
-The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools and can be augmented to provide the means of a safety net at an acceptable amount of dps loss with the Blood Magic traitline (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades and <Skill name="Epidemic"/>. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
+The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic traitline (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades and <Skill name="Epidemic"/>. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
 
 <Specialization name="Scourge" text="Condi Scourge"/> has multiple offensive control skill options, like using <Control name="Pull"/>, corrupt boons for <Instability name="No Pain, No Gain"/>, cause conditions like <Condition name="Blinded"/> and <Condition name="Immobile"/>, etc. <Specialization name="Scourge" text="Condi Scourge"/> and can modify itself to fit many given situations in fractals.
 
@@ -41,7 +65,7 @@ Due to being a condition based build, it will not benefit as highly from slaying
 
 <Card title="Situational Runes">
 * <Item id=83502/> works best for using and utilizing <Skill name="Epidemic"/>, as its damage will be maximized with this rune. Note that you will have a loss of condition duration with this rune choice.
-* <Item id=44956/> provides a large boost to personal survivability on top of your barrier generation at the cost of a minor dps loss.
+* <Item id=44956/> provides a large boost to personal survivability on top of your barrier generation at the cost of a minor DPS loss.
 
 </Card> 
 </GridItem>
@@ -82,9 +106,9 @@ If you are going to replace a skill, <Skill name="Summon Shadow Fiend"/> is your
 </Message>
 | | |
 | -- | -- |
-| <Skill name="Summon Flesh Golem" size="big" disableText/> | Can be taken if your group needs additional CC at the cost of a small dps loss. |
-| <Skill name="Summon Bone Minions" size="big" disableText/> | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak)). |
-| <Skill name="Corrupt Boon" size="big" disableText/> | A strong boon corrput which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.
+| <Skill name="Summon Flesh Golem" size="big" disableText/> | Can be taken if your group needs additional CC at the cost of a small DPS loss. |
+| <Skill name="Summon Bone Minions" size="big" disableText/> | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g. Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak)). |
+| <Skill name="Corrupt Boon" size="big" disableText/> | A strong boon corrupt which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.
 | <Skill name="Summon Flesh Wurm" size="big" disableText/> | A 1200 range teleport skill that can also work as a projectile blocker for fights like Old Tom in the [Uncategorized](/fractals/uncategorized) fractal. |
 | <Skill name="Spectral Walk " size="big" disableText/> | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova](/fractals/thaumanova-reactor) fractal. Also great for consuming conditions on consoles in the [Aetherblade](/fractals/aetherblade) fractal. |
 | <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
@@ -129,7 +153,7 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 
 **Precasting:**
 
-You can preemptively cast some shades before a fight starts to begin ramping up the benefits from <Trait name="Sand Sage"/>.
+You can pre-emptively cast some shades before a fight starts to begin ramping up the benefits from <Trait name="Sand Sage"/>.
 
 **Prioritization: [Weapon/Utility Skills]**
 
