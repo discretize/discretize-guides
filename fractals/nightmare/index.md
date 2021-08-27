@@ -1,28 +1,47 @@
 ---
-title: 'Nightmare'
-date: '2021-02-24'
-image: './images/ensolyss_crazy.jpg'
-group: 'Challenge Mode'
+potions:
+  - id: 50082
+title: Nightmare
+date: 2021-02-24
+image: ./images/ensolyss_crazy.jpg
+group: Challenge Mode
 api: 3177
 bosses: 3
-difficulties: [{ level: 98, ar: 147 }]
+difficulties:
+  - level: 98
+    ar: 147
+cycle: Day
+consumables:
+  - 43360
+  - 8764
+  - 8801
+  - 78978
 record:
-  {
-    time: '5:44',
-    by: [{ name: 'Invicta Luna', tag: 'iV' }],
-    youtube:
-      [
-        { id: 'DYP_RuapR8c', name: 'Delay', specialization: 'Soulbeast' },
-        { id: 'UlPsUMH7vZE', name: 'BlackHawk', specialization: 'Soulbeast' },
-        { id: 'SIdcWSGkL-M', name: 'Cloyd', specialization: 'Berserker' },
-        { id: 'JONEqZ9rARM', name: 'Tantor', specialization: 'Guardian' },
-        { id: 'x_2ahQx_QDQ', name: 'Pineapple', specialization: 'Renegade' },
-      ],
-  }
-cycle: 'Day'
-potions: [{ id: 50082 }]
-sigils: [{ id: 24615 }, { id: 24868 }, { id: 24658, description: 'after MAMA' }]
-consumables: [43360, 8764, 8801, 78978]
+  time: 5:44
+  by:
+    - name: Invicta Luna
+      tag: iV
+  youtube:
+    - id: DYP_RuapR8c
+      name: Delay
+      specialization: Soulbeast
+    - id: UlPsUMH7vZE
+      name: BlackHawk
+      specialization: Soulbeast
+    - id: SIdcWSGkL-M
+      name: Cloyd
+      specialization: Berserker
+    - id: JONEqZ9rARM
+      name: Tantor
+      specialization: Guardian
+    - id: x_2ahQx_QDQ
+      name: Pineapple
+      specialization: Renegade
+sigils:
+  - id: 24615
+  - id: 24868
+  - id: 24658
+    description: after MAMA
 ---
 
 ## Assault Knights <Item id="50082" disableText/><Label>426,071 HP</Label>
@@ -86,9 +105,9 @@ Both side altars can easily be capped by a single person after another player ha
 
 Contrary to the first set of altars, respawning _Veteran Hallucinations_ counteract capping here. Use <Control name="Pull"/> to grab them out of the central altar and always have a positive amount of players inside.
 
-After you capped all three altars, use `/gg` immediately if someone in the party needs it, then you can continue up to the 2nd boss. Before the ramp up, a group of Krait will attack you - simply keep walking to skip them. Use dodges, evades or invulnerables to get through the cascading orbs and disable them by walking through the orb at the top of the ramp.
+After you capped all three altars, use `/gg` immediately if someone in the party needs it, then you can continue up to the 2nd boss. Before the ramp up, a group of Krait will attack you - simply keep walking to skip them. Use dodges, evades or skills that make you invulnerable to get through the cascading orbs and disable them by walking through the orb at the top of the ramp.
 
-Usually a single person with high mobility (<Specialization name="Warrior"/>, <Specialization name="Dragonhunter"/>, <Specialization name="Soulbeast"/>, <Specialization name="Weaver"/>) and <Item name="endlesschoyapinatatonic"/> or <Item id="49940"/> skips to Siax while the rest of the party stays dead. Trigger Siax and wait for Siax to appear, then `/gg` aswell.
+Usually a single person with high mobility (<Specialization name="Warrior"/>, <Specialization name="Dragonhunter"/>, <Specialization name="Soulbeast"/>, <Specialization name="Weaver"/>) and <Item name="endlesschoyapinatatonic"/> or <Item id="49940"/> skips to Siax while the rest of the party stays dead. Trigger Siax and wait for Siax to appear, then `/gg` as well.
 
 <Tabs>
 <Tab specialization="Weaver">
@@ -130,13 +149,13 @@ At the second set of altars use your <Skill name="Huntersverdict"/> to pull out 
 | CC | 2000 |
 
 
-Stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before approaching the red orb and starting the fight. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlock to siax.
+Stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before approaching the red orb and starting the fight. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlock to Siax.
 
 The duration of the encounter heavily relies on how much damage your group can generate in each phase and how quickly you can finish the adds. This is a rather fast clear time and can be reached by organized teams. Pick up groups might have a hard time reaching this duration, however the class-outlines below are still suitable for slower kills.
 
 During the fight, break his defiance bar (2000 CC damage) as fast as possible to interrupt his _Caustic Explosion_ skill. Siax will wipe your party if you fail to interrupt it with enough crowd control. Pay attention to his bouncing orb barrages, the _Vomit Toxin_ and the exploding _Volatile Hallucinations_ (below 75% health). Do not stand in the red PBAoE when the inner circle reaches the outer to avoid spawning a _Nightmare Hallucination_. Watch your buffs: the <Specialization name="Firebrand"/> should give you <Boon name="Aegis"/>, which blocks this attack and requires no further action from your side.
 
-Attention! In average groups 5 _Volatile Hallucinations_ will spawn in various locations around the arena. Each of them will target the closest player and apply a teather-like effect on them effectively making visible to who they are targeted on. Approaching the add will cause it explode the moment it reaches melee range which will cause <Control name="Daze"/> and apply conditions to all players in it's explosion radius. However the add will not explode if it's killed while it's target is outside of the explosion radius. A good practice is to move to the opposite side of the boss and let the add walk through the hitbox. This will cause the add to die by cleave before it reaches it's target, neutralizing the threat.  
+Attention! In average groups 5 _Volatile Hallucinations_ will spawn in various locations around the arena. Each of them will target the closest player and apply a tether-like effect on them effectively making visible to who they are targeted on. Approaching the add will cause it explode the moment it reaches melee range which will cause <Control name="Daze"/> and apply conditions to all players in it's explosion radius. However the add will not explode if it's killed while it's target is outside of the explosion radius. A good practice is to move to the opposite side of the boss and let the add walk through the hitbox. This will cause the add to die by cleave before it reaches it's target, neutralizing the threat.  
 
 When Siax reaches 66% health, he gains <Effect name="Invulnerability"/> and four _Echoes of the Unclean_ will spawn in the North, East, South and West which need to be killed quickly to interrupt his _Caustic Explosions_. The same occurs at 33%, though the adds will have their spawning positions shifted clockwise.
 
