@@ -1,29 +1,36 @@
 ---
-title: 'Urban Battlegrounds'
-date: '2021-02-24'
-image: './images/header.jpg'
-group: 'T4'
+date: 2021-02-24
+cycle: Day
+consumables:
+  - 78978
+  - 8764
+  - 8801
+record:
+  time: 4:50
+  by:
+    - name: Happens
+      tag: hP
+  youtube:
+    - id: vBuC5qwHmTk
+      name: Elo Quentz
+      specialization: Chronomancer
+    - id: xgY2-9wtxS8
+      name: Guts
+      specialization: Tempest
+    - id: LrUdzjbZQoQ
+      name: Goni
+      specialization: Tempest
+title: Urban Battlegrounds
+image: ./images/header.jpg
+group: T4
 api: 2941
 bosses: 2
-difficulties: [{ level: 85, ar: 124 }]
-record:
-  {
-    time: '4:50',
-    by: [{ name: 'Happens', tag: 'hP' }],
-    youtube:
-      [
-        {
-          id: 'vBuC5qwHmTk',
-          name: 'Elo Quentz',
-          specialization: 'Chronomancer',
-        },
-        { id: 'xgY2-9wtxS8', name: 'Guts', specialization: 'Tempest' },
-        { id: 'LrUdzjbZQoQ', name: 'Goni', specialization: 'Tempest' },
-      ],
-  }
-cycle: 'Day'
-sigils: [{ id: 24868 }, { id: 24615 }]
-consumables: [78978, 8764, 8801]
+difficulties:
+  - level: 85
+    ar: 124
+sigils:
+  - id: 24868
+  - id: 24615
 ---
 
 <Grid>
@@ -65,7 +72,7 @@ Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profe
   
 Again, stack <Effect name="Stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
 
-Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference. Using <Item id="8764"/> and <Item id="8801"/> also helps not aggroing the guards nearby. Watch out for the chicken that spawns there for an achievemnt (it is random if it's there or not), putting you in combat using the items, thus not being able to pull off the skip.
+Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference. Using <Item id="8764"/> and <Item id="8801"/> also helps not aggroing the guards nearby. Watch out for the chicken that spawns there for an achievement (it is random if it's there or not), putting you in combat using the items, thus not being able to pull off the skip.
 
 <Tabs> 
 <Tab specialization="thief">
