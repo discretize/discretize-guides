@@ -37,10 +37,11 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 - Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longers fights drop <Item id="24560"/> for <Item id="72339"/>.
 - If u have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>
 - Playing the raid DPS build with this traits performs almost identically.
-  <Grid>
-  <GridItem sm="4">
-  <Armor weight="Heavy" helmAffix="Viper" helmRune="Balthazar" shouldersAffix="Viper" shouldersRune="Balthazar" coatAffix="Viper" coatRune="Balthazar" glovesAffix="Viper" glovesRune="Balthazar" leggingsAffix="Viper" leggingsRune="Balthazar" bootsAffix="Viper" bootsRune="Balthazar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
-  </GridItem>
+
+<Grid>
+<GridItem sm="4">
+<Armor weight="Heavy" helmAffix="Viper" helmRune="Balthazar" shouldersAffix="Viper" shouldersRune="Balthazar" coatAffix="Viper" coatRune="Balthazar" glovesAffix="Viper" glovesRune="Balthazar" leggingsAffix="Viper" leggingsRune="Balthazar" bootsAffix="Viper" bootsRune="Balthazar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
+</GridItem>
 
 <GridItem sm="4">
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="geomancy" weapon2OffType="Torch" weapon2OffAffix="Viper" weapon2OffSigil="bursting" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2OffInfusionId="49432"/>
