@@ -1,17 +1,39 @@
 ---
-title: 'Condi Firebrand'
-date: '2021-06-01'
-rating: 'Condi Meta'
-role: 'Damage'
-profession: 'Guardian'
-specialization: 'Firebrand'
-benchmark: { small: { dps: 36732, by: 'TJ [SC]', youtube: 'U1yYDskt3Cw' } }
-skills: [9251, 9153]
-boons: ['Quickness', 'Fury', 'Might', 'Stability', 'Resolution', 'Aegis']
-conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding']
-code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-classification: [3, 4, 5, 2, 3]
-compositions: [{ name: '_CRGB' }]
+title: Condi Firebrand
+date: 2021-06-01
+rating: Condi Meta
+role: Damage
+profession: Guardian
+specialization: Firebrand
+skills:
+  - 9251
+  - 9153
+conditions:
+  - Burning
+  - Vulnerability
+  - Crippled
+  - Bleeding
+boons:
+  - Quickness
+  - Fury
+  - Might
+  - Stability
+  - Resolution
+  - Aegis
+code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 3
+  - 4
+  - 5
+  - 2
+  - 3
+compositions:
+  - name: _CRGB
+benchmark:
+  small:
+    dps: 36732
+    by: TJ [SC]
+    youtube: U1yYDskt3Cw
 ---
 
 <Message>
@@ -34,7 +56,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 
 <Divider text="Equipment"/>
 
-- Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longers fights drop <Item id="24560"/> for <Item id="72339"/>.
+- Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
 - If u have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>
 - Playing the raid DPS build with this traits performs almost identically.
 
