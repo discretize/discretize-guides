@@ -33,7 +33,7 @@ classification:
 <Divider text="Overview"/>
 
 <Message>
-This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a new heal variant that is in-between the full heal and damage version called [Zealot Firebrand](/builds/guardian/zealot-firebrand) for parties wanting to transition to no heal runs.
+This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a new heal variant that is in-between the full heal and damage version called [Seraph Firebrand](/builds/guardian/seraph-firebrand) for parties wanting to transition to no heal runs.
 
 </Message>
 
