@@ -1,29 +1,36 @@
 ---
-title: 'Swampland'
-date: '2021-02-24'
-image: './images/bloomhunger_spirit_onslaught.jpg'
-group: 'T4'
+date: 2021-02-24
+cycle: Night
+consumables:
+  - 78978
+record:
+  time: 5:09
+  by:
+    - name: Lucky Noobs
+      tag: LN
+  youtube:
+    - id: 2NeDItrX44I
+      name: Nightmare
+      specialization: Chronomancer
+    - id: XTynF47Ekz4
+      name: Flaschor
+      specialization: Tempest
+    - id: W3shEwUN0hU
+      name: Roca
+      specialization: Druid
+title: Swampland
+image: ./images/bloomhunger_spirit_onslaught.jpg
+group: T4
 api: 2892
 bosses: 1
-difficulties: [{ level: 77, ar: 109 }, { level: 89, ar: 130 }]
-record:
-  {
-    time: '5:09',
-    by: [{ name: 'Lucky Noobs', tag: 'LN' }],
-    youtube:
-      [
-        {
-          id: '2NeDItrX44I',
-          name: 'Nightmare',
-          specialization: 'Chronomancer',
-        },
-        { id: 'XTynF47Ekz4', name: 'Flaschor', specialization: 'Tempest' },
-        { id: 'W3shEwUN0hU', name: 'Roca', specialization: 'Druid' },
-      ],
-  }
-cycle: 'Night'
-sigils: [{ id: 36053 }, { id: 24868 }]
-consumables: [78978]
+difficulties:
+  - level: 77
+    ar: 109
+  - level: 89
+    ar: 130
+sigils:
+  - id: 36053
+  - id: 24868
 ---
 
 
@@ -74,7 +81,7 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 
 <Grid>
 <GridItem sm="8">
-In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="Stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the _Mistlock Singularity_ insite the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
+In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="Stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the _Mistlock Singularity_ inside the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
 <Message>  
 **Beware, there is a wisp that has <Effect name="Invulnerability"/> and can attack you, putting you in combat during pre-stack**!
 </Message>
