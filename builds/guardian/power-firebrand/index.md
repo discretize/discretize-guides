@@ -181,7 +181,7 @@ The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-drag
   * Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
 * On Sword:
 
-  * Use <Skill name="Ray of Judgment"/>, try if possible to cancel the aftercast with weaponswap or <Skill name="Symbol of Blades"/>
+  * Use <Skill name="Ray of Judgment"/>, try if possible to cancel the aftercast with weapon swap, stow or <Skill name="Symbol of Blades"/>
   * Use <Skill name="Symbol of Blades"/>
   * Use <Skill name="Zealots Defense"/>
   * <Skill name="Shield of Wrath"/> when you're not receiving hits - use it shortly before breaking defiance bars. Can also be used to help with stacking <Boon name="Might"/>
