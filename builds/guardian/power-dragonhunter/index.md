@@ -1,18 +1,37 @@
 ---
-title: 'Power Dragonhunter'
-date: '2021-06-01'
-rating: 'Power Meta'
-role: 'Damage'
-profession: 'Guardian'
-specialization: 'Dragonhunter'
-benchmark: { small: { dps: 35132, by: 'Shetsa [SC]', youtube: 'C98JaabU6_c' } }
-skills: [30783, 30039, 9153, 9251]
-boons: ['Resolution', 'Aegis']
-conditions: ['Vulnerability', 'Blinded', 'Crippled']
-code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-cmguides: '/cm-guides/guardian/power-dragonhunter'
-classification: [3, 4, 3, 2, 4]
-compositions: [{ name: '_RGB' }]
+title: Power Dragonhunter
+date: 2021-06-01
+rating: Power Meta
+role: Damage
+profession: Guardian
+specialization: Dragonhunter
+skills:
+  - 30783
+  - 30039
+  - 9153
+  - 9251
+conditions:
+  - Vulnerability
+  - Blinded
+  - Crippled
+boons:
+  - Resolution
+  - Aegis
+code: "[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+cmguides: /cm-guides/guardian/power-dragonhunter
+classification:
+  - 3
+  - 4
+  - 3
+  - 2
+  - 4
+compositions:
+  - name: _RGB
+benchmark:
+  small:
+    dps: 35132
+    by: Shetsa [SC]
+    youtube: C98JaabU6_c
 ---
 
 <Message>
@@ -134,7 +153,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
 
-Generally it is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersresolution"/> your heal skill applies long lasting <Trait name="retribution"/>. Since <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> have almost the same cooldown they will line up well (<Skill name="processionofblades"/> has a slightly shorter cooldown thanks to <Trait name ="piercinglight"/>). You can also trigger a <Skill id="13677"/> by losing health below the 75% threshould to trigger <Trait id="648"/>, however you need to be careful to not die.
+Generally it is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersresolution"/> your heal skill applies long lasting <Trait name="retribution"/>. Since <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> have almost the same cooldown they will line up well (<Skill name="processionofblades"/> has a slightly shorter cooldown thanks to <Trait name ="piercinglight"/>). You can also trigger a <Skill id="13677"/> by losing health below the 75% threshold to trigger <Trait id="648"/>, however you need to be careful to not die.
 
 <Divider text="Rotation / Skill Usage"/>
 
