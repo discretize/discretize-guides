@@ -1,14 +1,19 @@
 ---
-title: 'Molten Furnace'
-date: '2021-02-24'
-image: './images/header.jpg'
-group: 'T4'
+potions:
+  - id: 50082
+title: Molten Furnace
+date: 2021-02-24
+image: ./images/header.jpg
+group: T4
 api: 2903
 bosses: 1
-difficulties: [{ level: 83, ar: 121 }]
-cycle: 'Day'
-potions: [{ id: 50082 }]
-sigils: [{ id: 24868 }, { id: 24554 }]
+difficulties:
+  - level: 83
+    ar: 121
+cycle: Day
+sigils:
+  - id: 24868
+  - id: 24554
 ---
 
 <Grid>
@@ -31,7 +36,7 @@ Go to Rox and Braham, wait for the mobs to spawn, kill them. After killing them,
 <GridItem sm="6">
 ## On your way to the Boss  
   
-You exit the tunnel and kill the group of mobs coming to you. Then proceed to the Steam Walls. The first Steam Wall is unpassable, each Steam Wall knocks you back and damage you. After the first, you can pass the following Steam Walls by walking backwards in them (do not walk into them with low hp, that downs or even kills you) or use <Boon name="Stability"/>. Make your way on to the weapon testing arena.
+You exit the tunnel and kill the group of mobs coming to you. Then proceed to the Steam Walls. The first Steam Wall is unpassable, each Steam Wall knocks you back and damage you. After the first, you can pass the following Steam Walls by walking backwards in them (do not walk into them with low HP, that downs or even kills you) or use <Boon name="Stability"/>. Make your way on to the weapon testing arena.
 </GridItem>
 </Grid>
 
