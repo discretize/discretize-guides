@@ -1,22 +1,28 @@
 ---
-title: 'Captain Mai Trin Boss'
-date: '2021-02-24'
-image: './images/header.jpg'
-group: 'T4'
+potions:
+  - id: 50082
+title: Captain Mai Trin Boss
+date: 2021-02-24
+image: ./images/header.jpg
+group: T4
 api: 2932
+cycle: Day
+consumables:
+  - 78978
 bosses: 1
-difficulties: [{ level: 95, ar: 141 }]
-cycle: 'Day'
-potions: [{ id: 50082 }]
-sigils: [{ id: 24615 }, { id: 24868 }]
-consumables: [78978]
+difficulties:
+  - level: 95
+    ar: 141
+sigils:
+  - id: 24615
+  - id: 24868
 ---
 
 <Grid>
 <GridItem sm="12">
 ## Start  
   
-Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="Daze"/> with his stunning shield, use <Boon name="Stability"/>, blocks or invulnerables against it.
+Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="Daze"/> with his stunning shield, use <Boon name="Stability"/>, blocks or skills that make you invulnerable against it.
 
 After you killed the mobs, use the Mistlock Singularity to reset cooldown then the teleporter to enter the boss area.
 </GridItem>
@@ -62,7 +68,7 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 
 <Tabs>
 <Tab specialization="Revenant">
-It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorbtion with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade trainline combo variant for more energy for the whole fight. Do not forget that <Skill name="Warding Rift"/> (Staff 3) can block Horrik's projectile if you stand into it!
+It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade trainline combo variant for more energy for the whole fight. Do not forget that <Skill name="Warding Rift"/> (Staff 3) can block Horrik's projectile if you stand into it!
 </Tab>
 </Tabs>
 
