@@ -1,26 +1,39 @@
 ---
-title: 'Twilight Oasis'
-date: '2021-02-24'
-image: './images/header.jpg'
-group: 'T4'
+date: 2021-02-24
+cycle: Night
+consumables:
+  - 78978
+  - 8764
+  - 8801
+record:
+  time: 6:50
+  by:
+    - name: Discretize
+      tag: dT
+  youtube:
+    - id: N0dwuUeFoNo
+      name: Metagame
+      specialization: Chronomancer
+    - id: -oH2DE07cKY
+      name: Nimajeb
+      specialization: Spellbreaker
+    - id: -BA76INzsxw
+      name: Hyperiel
+      specialization: Holosmith
+    - id: BtfjQbzRg5E
+      name: Hutselflutsje
+      specialization: Weaver
+title: Twilight Oasis
+image: ./images/header.jpg
+group: T4
 api: 3973
 bosses: 3
-difficulties: [{ level: 87, ar: 127 }]
-cycle: 'Night'
-sigils: [{ id: 36053 }, { id: 24615 }]
-consumables: [78978, 8764, 8801]
-record:
-  {
-    time: '6:50',
-    by: [{ name: 'Discretize', tag: 'dT' }],
-    youtube:
-      [
-        { id: 'N0dwuUeFoNo', name: 'Metagame', specialization: 'Chronomancer' },
-        { id: '-oH2DE07cKY', name: 'Nimajeb', specialization: 'Spellbreaker' },
-        { id: '-BA76INzsxw', name: 'Hyperiel', specialization: 'Holosmith' },
-        { id: 'BtfjQbzRg5E', name: 'Hutselflutsje', specialization: 'Weaver' },
-      ],
-  }
+difficulties:
+  - level: 87
+    ar: 127
+sigils:
+  - id: 36053
+  - id: 24615
 ---
 
 <Grid>
@@ -144,7 +157,7 @@ Stack <Boon name="Might"/> and be ready to dodge the initial <Control name="Knoc
 | **Breakbars** | A breakbar will occur at 85, 65, 45, 25 and 5% health. Amala will cancel any ability and teleport to the middle, break her bar or she deals high damage to the team and recovers health. |
 | **Scythe Slash** | A small AoE centered around Amala that will <Control name="Knockback"/> players hit by it. |
 | **Scythe Combo** (below 85% health) | A 9-part attack chain dealing AoE in a fixed pattern, depending on the current god incorporation. |
-| **Energy Wave** (below 85% health) | This attack is telegraphed by a small AoE on the ground, which then erupts into a large shockwave after 2.5 seconds. This can be avoided by either dodging, blocking or using sak. |
+| **Energy Wave** (below 85% health) | This attack is telegraphed by a small AoE on the ground, which then erupts into a large shockwave after 2.5 seconds. This can be avoided by either dodging, blocking or using SAK. |
 </GridItem>
 
 <GridItem sm="3">
