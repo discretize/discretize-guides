@@ -1,28 +1,43 @@
 ---
-title: 'Shattered Observatory'
-date: '2021-02-24'
-image: './images/header.jpg'
-group: 'Challenge Mode'
+potions:
+  - id: 50082
+    description: against Arkk
+title: Shattered Observatory
+date: 2021-02-24
+image: ./images/header.jpg
+group: Challenge Mode
 api: 3458
 bosses: 3
-difficulties: [{ level: 99, ar: 148 }]
+difficulties:
+  - level: 99
+    ar: 148
+cycle: Day
+consumables:
+  - 78978
 record:
-  {
-    time: '5:15',
-    by: [{ name: 'Nightmare Shattered', tag: 'Ns' }],
-    youtube:
-      [
-        { id: 'gniUy_2k2hM', name: 'Xarax', specialization: 'Soulbeast' },
-        { id: 'rmaBOh_xi7Y', name: 'Ryan', specialization: 'Soulbeast' },
-        { id: '2clUITx7nZQ', name: 'CopyThisStatic', specialization: 'Weaver' },
-        { id: 'TT8pBa8mQOc', name: 'NCDope', specialization: 'Renegade' },
-        { id: 'ypaokpTJE9k', name: 'Fines', specialization: 'Firebrand' },
-      ],
-  }
-cycle: 'Day'
-potions: [{ id: 50082, description: 'against Arkk' }]
-sigils: [{ id: 24615 }, { id: 24868 }]
-consumables: [78978]
+  time: 5:15
+  by:
+    - name: Nightmare Shattered
+      tag: Ns
+  youtube:
+    - id: gniUy_2k2hM
+      name: Xarax
+      specialization: Soulbeast
+    - id: rmaBOh_xi7Y
+      name: Ryan
+      specialization: Soulbeast
+    - id: 2clUITx7nZQ
+      name: CopyThisStatic
+      specialization: Weaver
+    - id: TT8pBa8mQOc
+      name: NCDope
+      specialization: Renegade
+    - id: ypaokpTJE9k
+      name: Fines
+      specialization: Firebrand
+sigils:
+  - id: 24615
+  - id: 24868
 ---
 
 ## Skorvald the Shattered <Label>5,551,340 HP</Label>
@@ -47,7 +62,7 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 |                                      |                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Solar Bolt**                       | Skorvald often throws a red orb which splits into three after each bounce. Every orb leaves a <Condition name="Burning"/> field which deals high damage.                                                                                                                                                                                                                         |
-| **Horizon Strike**                   | He marks orange triangles around him and blasts them counter-clockwise which deals high damage and <Control name="Knockback"/>. The orange zones themselves don't deal any damage but explode in order, practice the pattern and move into the first triangle after it is gone. Followed by Crimsown Dawn.                                                                        |
+| **Horizon Strike**                   | He marks orange triangles around him and blasts them counter-clockwise which deals high damage and <Control name="Knockback"/>. The orange zones themselves don't deal any damage but explode in order, practice the pattern and move into the first triangle after it is gone. Followed by Crimson Dawn.                                                                        |
 | **Crimson Dawn**                     | Blasts the entire platform only excluding a small triangle behind him. Deals high damage.                                                                                                                                                                                                                                                                                        |
 | **Radiant Fury**                     | Applies <Condition name="Blinded"/> and <Condition name="Burning"/> to all players it hits and damages allies around them. Recognizable by diminishing red circles around every player, dodge when they collapse. Also sends out a **Solar Discharge** shockwave with <Control name="Stun"/> from Skorvald.                                                                        |
 | **Warp & Spiral Strike**             | Skorvard teleports to the target location and executes a spinning strike which damages players and applies <Control name="Knockback"/>. Also sends out a volley of bolts. Noticeable by a large bomb icon above a player.                                                                                                                                                        |
