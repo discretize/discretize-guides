@@ -1,23 +1,47 @@
 ---
-title: 'Power Weaver'
-date: '2021-06-01'
-rating: 'Good'
-role: 'Damage'
-profession: 'Elementalist'
-specialization: 'Weaver'
-benchmark: { small: { dps: 38483, by: 'Fallen [SC]', youtube: 'ZtEY4lXt6Hc' } }
-skills: [5734, 5516, 44451, 5557]
-traits: [1502, 226, 1503]
-boons: ['Fury', 'Might', 'Swiftness']
-conditions: ['Burning', 'Chilled', 'Vulnerability']
-code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmguides: '/cm-guides/elementalist/power-weaver'
-classification: [4, 5, 2, 3, 4]
-compositions: [{ name: '_Rainbow' }, { name: '_Rainbearbow' }]
+title: Power Weaver
+date: 2021-06-01
+rating: Good
+role: Damage
+profession: Elementalist
+specialization: Weaver
+skills:
+  - 5734
+  - 5516
+  - 44451
+  - 5557
+traits:
+  - 1502
+  - 226
+  - 1503
+conditions:
+  - Burning
+  - Chilled
+  - Vulnerability
+boons:
+  - Fury
+  - Might
+  - Swiftness
+code: "[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmguides: /cm-guides/elementalist/power-weaver
+classification:
+  - 4
+  - 5
+  - 2
+  - 3
+  - 4
+compositions:
+  - name: _Rainbow
+  - name: _Rainbearbow
+benchmark:
+  small:
+    dps: 38483
+    by: Fallen [SC]
+    youtube: ZtEY4lXt6Hc
 timeToRead: 6
 ---
 
-The <Specialization name="Weaver" text="Power Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some t4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
+The <Specialization name="Weaver" text="Power Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
 Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
 
@@ -145,7 +169,7 @@ You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"
 |Offensive|
 | <Skill name="Arcane Wave" size="big" disableText/> | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field. |
 | <Skill name="Unravel" size="big" disableText/> | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.
-| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>.  **Precast that skill everywhere where it is possible for dps increase.**
+| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>.  **Precast that skill everywhere where it is possible for DPS increase.**
 | <Skill name="Conjure Frostbow" size="big" disableText/> | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.| 
 |Defensive|
 | <Skill name="Arcane Shield" size="big" disableText/> | Provides three blocks for things like the console in [Aetherblade Fractal](/fractals/aetherblade). |
