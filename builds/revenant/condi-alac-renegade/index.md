@@ -1,25 +1,41 @@
 ---
-title: 'Condi Alac Renegade'
-date: '2021-06-01'
-rating: 'Condi Meta'
-role: 'Damage'
-profession: 'Revenant'
-specialization: 'Renegade'
-benchmark: { huge: { dps: 38011, by: 'Le Mós ', youtube: 'fBYzCIj7RAU' } }
-skills: [45773, 27505]
-traits: [2182]
-boons: ['Alacrity', 'Might']
-conditions: ['Vulnerability']
-code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
-author: 'PineappleMan.1430'
-classification: [4, 3, 4, 3, 5]
-compositions: [{ name: '_CRGB' }]
+title: Condi Alac Renegade
+date: 2021-06-01
+rating: Condi Meta
+role: Damage
+author: PineappleMan.1430
+profession: Revenant
+specialization: Renegade
+skills:
+  - 45773
+  - 27505
+traits:
+  - 2182
+conditions:
+  - Vulnerability
+boons:
+  - Alacrity
+  - Might
+code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
+classification:
+  - 4
+  - 3
+  - 4
+  - 3
+  - 5
+compositions:
+  - name: _CRGB
+benchmark:
+  huge:
+    dps: 38011
+    by: "Le Mós "
+    youtube: fBYzCIj7RAU
 ---
 
 <Message>
 This build has to be used in [Sunqua Peak](/fractals/sunqua-peak) only. Apart from this fractal, <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support and being more versatile.
 </Message>
-Condi <Specialization name="Renegade"/> is an unique build that may only be played in [Sunqua Peak](/fractals/sunqua-peak), since it performs much better than <BuildLink build="Power Renegade" specialization="Renegade"/>. Condi <Specialization name="Renegade"/> has decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively and <Skill id="45773"/> that can help your party sustain high pressure situations. Finally, to top it off this build has high CC capabilities with <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
+Condi <Specialization name="Renegade"/> is an unique build that may only be played in [Sunqua Peak](/fractals/sunqua-peak), since it performs much better than <BuildLink build="Power Renegade" specialization="Renegade"/>. Condi <Specialization name="Renegade"/> has decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively. Finally, to top it off this build has high CC capabilities with <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
 
 Condi <Specialization name="Renegade"/> is pretty independent due to its rather good mobility (<Skill id="28029"/>, <Skill id="27917"/>) and permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
 
