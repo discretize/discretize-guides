@@ -1,16 +1,37 @@
 ---
-title: 'Condi Weaver'
-date: '2021-06-01'
-rating: 'Good'
-role: 'Damage'
-profession: 'Elementalist'
-specialization: 'Weaver'
-benchmark: { small: { dps: 38500, by: 'Roul [SC]', youtube: 'H5ZyMQln6hw' } }
-skills: [43638, 5542, 40183]
-boons: ['Might', 'Stability', 'Swiftness', 'Regeneration']
-conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding', 'Chilled']
-code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
-classification: [3, 4, 3, 4, 5]
+title: Condi Weaver
+date: 2021-06-01
+rating: Good
+role: Damage
+profession: Elementalist
+specialization: Weaver
+skills:
+  - 43638
+  - 5542
+  - 40183
+conditions:
+  - Burning
+  - Vulnerability
+  - Crippled
+  - Bleeding
+  - Chilled
+boons:
+  - Might
+  - Stability
+  - Swiftness
+  - Regeneration
+code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 3
+  - 4
+  - 3
+  - 4
+  - 5
+benchmark:
+  small:
+    dps: 38500
+    by: Roul [SC]
+    youtube: H5ZyMQln6hw
 ---
 
 <Message>
@@ -86,7 +107,7 @@ This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="sp
 | <Skill name="Glyph of Renewal" size="big" disableText/> | You can sacrifice some DPS for a powerful insta rez, can be very useful during "Dancing with Demons" runs.|
 
 <Message>
-If you do want to switch any of your utilites in favor of one of the skills listed above, you should prioritise dropping <Skill name="Glyph of Elemental Power"/> before <Skill name="Primordial Stance"/> and <Skill name="Signet of fire"/>.
+If you do want to switch any of your utilities in favor of one of the skills listed above, you should prioritise dropping <Skill name="Glyph of Elemental Power"/> before <Skill name="Primordial Stance"/> and <Skill name="Signet of fire"/>.
 </Message>
 
 </Card>
