@@ -1,22 +1,39 @@
 ---
-title: 'Heal Firebrand'
-date: '2021-06-01'
-rating: 'Good'
-role: 'Support'
-profession: 'Guardian'
-specialization: 'Firebrand'
-skills: [9093, 9153, 9251]
-boons: ['Quickness', 'Fury', 'Might', 'Swiftness', 'Stability', 'Aegis']
-conditions: ['Vulnerability', 'Blinded', 'Crippled']
-code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-cmguides: '/cm-guides/guardian/heal-firebrand'
-classification: [4, 1, 3, 1, 2]
+title: Heal Firebrand
+date: 2021-06-01
+rating: Good
+role: Support
+profession: Guardian
+specialization: Firebrand
+skills:
+  - 9093
+  - 9153
+  - 9251
+conditions:
+  - Vulnerability
+  - Blinded
+  - Crippled
+boons:
+  - Quickness
+  - Fury
+  - Might
+  - Swiftness
+  - Stability
+  - Aegis
+code: "[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+cmguides: /cm-guides/guardian/heal-firebrand
+classification:
+  - 4
+  - 1
+  - 3
+  - 1
+  - 2
 ---
 
 <Divider text="Overview"/>
 
 <Message>
-This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a new heal variant that is inbetween the full heal and damage versiont called [Zealot Firebrand](/builds/guardian/zealot-firebrand) for parties wanting to transition to no heal runs.
+This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a new heal variant that is in-between the full heal and damage version called [Zealot Firebrand](/builds/guardian/zealot-firebrand) for parties wanting to transition to no heal runs.
 
 </Message>
 
@@ -230,9 +247,9 @@ All Tomes are built in a similar way:
 <Divider text="Providing Boons"/>
 
 <Card title="Standard Boons">
-+ <Boon name="Quickness"/> will be provided by using <Skill name="Mantra of Solace"/> (which triggers <Trait name="Liberators Vow"/> every 7 seconds) and <Skill name="Mantra of Potence"/>. Keep 2 charges of <Skill name="Mantra of Solace"/> to provide <Boon name="Aegis"/> and use it evrey time you go back to 3 charges. You can use <Skill name="Mantra of Potence"/> down to 0 charges whenever you are stacked with your group.
++ <Boon name="Quickness"/> will be provided by using <Skill name="Mantra of Solace"/> (which triggers <Trait name="Liberators Vow"/> every 7 seconds) and <Skill name="Mantra of Potence"/>. Keep 2 charges of <Skill name="Mantra of Solace"/> to provide <Boon name="Aegis"/> and use it every time you go back to 3 charges. You can use <Skill name="Mantra of Potence"/> down to 0 charges whenever you are stacked with your group.
 + <Boon name="Might"/> comes from different sources. <Skill name="Empower"/> is a big source of <Boon name="Might"/> and should be used off-cooldown whenever you are on Staff and on the group. Using <Skill name="Tome of Justice"/> Skill 4 and blasting it with <Skill name="Holy Strike"/> will also grant <Boon name="Might"/> and give others the option to also blast additional <Boon name="Might"/>. Using <Skill name="Mantra of Potence"/> as mentioned above will also contribute to <Boon name="Might"/> generation.
-+ <Boon name="Fury"/> will be provided through <Skill name="Symbol of Vengeance"/>. Make sure to use this off-cooldown when on the Axe weapon set while peopel are stacked together. Try to use this skill 2 times before swapping to Staff.
++ <Boon name="Fury"/> will be provided through <Skill name="Symbol of Vengeance"/>. Make sure to use this off-cooldown when on the Axe weapon set while people are stacked together. Try to use this skill 2 times before swapping to Staff.
 + <Boon name="Swiftness"/> mainly comes from <Skill name="Symbol of Swiftness"/>. Make sure to use this whenever you are on Staff.
 + <Boon name="Regeneration"/> will be provided through <Skill name="Mantra of Lore"/> when equipped. You can use it similarly to <Skill name="Mantra of Solace"/> and keep 2 charges for condi cleanse while providing some <Boon name="Regeneration"/> whenever it goes back to 3 charges.
 + Some <Boon name="Protection"/> can be provided through <Skill name="Shield of Judgment"/>. This is your only reliable source of <Boon name="Protection"/> as you do not want to use <Skill name="Tome of Courage"/> just for the <Boon name="Protection"/> from Skill 5.
@@ -297,7 +314,7 @@ All Tomes are built in a similar way:
 * For emergency situations you have some smaller burst healing options as well as your <Skill name="Tome of Resolve"/>.
 * If you are swapping to Staff when healing is needed keep in mind that <Skill name="Symbol of Swiftness"/> provides healing over time while <Skill name="Holy Strike"/> and <Skill name="Empower"/> provide burst healing.
 * <Skill name="Bow of Truth"/> is a great option for high burst healing when slotted.
-* <Skill name="Tome of Resolve"/> is the biggest source of burst healing and should be used as a last resort due to its long cooldown. However due to the cast of both opening the Tome and the skils within, make sure to not hesitate too long. If hte healing does not need to be immediate you can use 2-5-4-1-2, if you need the instant burst healing you can use 5-4-2-1-1.
+* <Skill name="Tome of Resolve"/> is the biggest source of burst healing and should be used as a last resort due to its long cooldown. However due to the cast of both opening the Tome and the skills within, make sure to not hesitate too long. If the healing does not need to be immediate you can use 2-5-4-1-2, if you need the instant burst healing you can use 5-4-2-1-1.
  
 </Card>
 
