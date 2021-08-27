@@ -1,31 +1,41 @@
 ---
-title: 'Chaos Isles'
-date: '2021-02-24'
-image: './images/legendary_brazen_gladiator.jpg'
-group: 'T4'
+date: 2021-02-24
+cycle: Day
+consumables:
+  - 49940
+record:
+  time: 3:48
+  by:
+    - name: Discretize
+      tag: dT
+  youtube:
+    - id: WN_ohtdzUEY
+      name: Hyperiel
+      specialization: Chronomancer
+    - id: W0heJU1YHRs
+      name: Metagame
+      specialization: Warrior
+    - id: p4Swksv1-To
+      name: Nimajeb
+      specialization: Holosmith
+    - id: uCu_f50blpc
+      name: Xarlor
+      specialization: Weaver
+title: Chaos Isles
+image: ./images/legendary_brazen_gladiator.jpg
+group: T4
 api: 3038
 bosses: 2
-difficulties: [{ level: 88, ar: 129 }, { level: 97, ar: 145 }]
-record:
-  {
-    time: '3:48',
-    by: [{ name: 'Discretize', tag: 'dT' }],
-    youtube:
-      [
-        { id: 'WN_ohtdzUEY', name: 'Hyperiel', specialization: 'Chronomancer' },
-        { id: 'W0heJU1YHRs', name: 'Metagame', specialization: 'Warrior' },
-        { id: 'p4Swksv1-To', name: 'Nimajeb', specialization: 'Holosmith' },
-        { id: 'uCu_f50blpc', name: 'Xarlor', specialization: 'Weaver' },
-      ],
-  }
-cycle: 'Day'
+difficulties:
+  - level: 88
+    ar: 129
+  - level: 97
+    ar: 145
 sigils:
-  [
-    { id: 24615 },
-    { id: 24554, description: 'for the Chaos Anomaly' },
-    { id: 24868 },
-  ]
-consumables: [49940]
+  - id: 24615
+  - id: 24554
+    description: for the Chaos Anomaly
+  - id: 24868
 ---
 
 <Grid>
@@ -99,7 +109,7 @@ Learn to dodge the tentacle <Control name="Knockback"/>s. Mobility skills and <I
 ## Legendary Brazen Gladiator  
   
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.    
-He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and invulnerables or simply do not stand in front of him when it hits. Learn to recognize the animation.
+He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and skills that make you invulnerable or simply do not stand in front of him when it hits. Learn to recognize the animation.
 
 Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.  
 Another trick is to bypass the damage from purple zones by repeated jumping.
