@@ -1,10 +1,10 @@
 ---
-title: 'Fractal Basics'
-date: '2021-02-24'
-image: './images/instabilities.jpg'
-description: 'A beginners guide to being successful in fractals.'
-hidden: 'false'
-author: 'Princeps.6481 and Mistlocked [FotM]'
+title: Fractal Basics
+date: 2021-02-24
+image: ./images/instabilities.jpg
+description: A beginners guide to being successful in fractals.
+hidden: "false"
+author: Princeps.6481 and Mistlocked [FotM]
 ---
 
 ## Introduction to fractals
@@ -81,7 +81,7 @@ Homework:
 - Start working towards the accessories that you can buy with guild commendations or - if you have a lot of spare laurels - buy them for laurels. Keep in mind you need 30 laurels later for crafting your ascended armor.
 - Save up relics to buy ascended rings (5 days of T1 fractal dailies are required)
 - Alternatively, buy Living World Season 3 Episode 3: A Crack in the ice and farm <Item id="79899"/> for trinkets (or any other living story maps: Bloodstone fen, Dragonfall). The fastest way is to farm both Bitterfrost Frontier and Dragonfall.
-- Craft <Item id="77482"/> or buy an aquivalent via laurels (if your build uses base game stats)
+- Craft <Item id="77482"/> or buy an equivalent via laurels (if your build uses base game stats)
 
 ---
 
@@ -105,7 +105,7 @@ Acquire on your journey in T3:
 
 - You need 5 more <Item id="49432"/> to fit the maximum requirement of 106 <Attribute name="Agony Resistance"/>.
 - Suggestion: craft 4 ascended armor pieces and hope to get a <Item id="38024"/> to upgrade one of your rings to <Item id="75669" upgrades='49432,49432,49432'/>
-- Alternatively, do strike missions and open the weekly chest for a chance of recieving an ascended armor box.
+- Alternatively, do strike missions and open the weekly chest for a chance of receiving an ascended armor box.
 
 Homework:
 
@@ -135,7 +135,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 | `QFB` | Quick Firebrand    | `pfb`, `fb`   | <Specialization name="Firebrand" text="Power Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/>              | [Build](/builds/firebrand)          |
 | `HB`  | Heal Firebrand     | `fb`, `hfb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/>, Healer build | [Build](/builds/heal-firebrand)     |
 | `CFB` | Condi Firebrand    | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                  | [Build](/builds/condi-firebrand)    |
-| `Ren` | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilties                                                  | [Build](/builds/renegade)           |
+| `Ren` | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities                                                  | [Build](/builds/renegade)           |
 | `Slb` | Soulbeast          | `dps`         | <Specialization name="Soulbeast"/> as [meta](/guides/meta-explained) DPS                                                            | [Build](/builds/soulbeast)          |
 | `Wea` | Weaver             | `dps`, `ele`  | <Specialization name="Weaver"/> as [meta](/guides/meta-explained) DPS                                                               | [Build](/builds/weaver)             |
 | `DH`  | Dragonhunter       | `dps`         | <Specialization name="Dragonhunter"/> as offmeta DPS                                                                                | [Build](/builds/power-dragonhunter) |
@@ -147,7 +147,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 
 ## Current fractal META
 
-Although most groups in LFG don't follow the META it can be beneficial for you to understand how it works in theory to play your own build more efficiently. All the builds in the META have very specific key roles. It is important to fulfill your role to aid the best possible support to your team (also DPS classes support the team with CC and other unique buffs).
+Although most groups in LFG don't follow the META it can be beneficial for you to understand how it works in theory to play your own build more efficiently. All the builds in the META have very specific key roles. It is important to fulfil your role to aid the best possible support to your team (also DPS classes support the team with CC and other unique buffs).
 
 Please consult the [meta-page](guides/meta-explained) for more information about the current fractal META.
 
