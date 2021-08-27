@@ -1,26 +1,39 @@
 ---
-title: 'Power Chronomancer'
-date: '2021-06-01'
-rating: 'Good'
-role: 'Damage'
-profession: 'Mesmer'
-specialization: 'Chronomancer'
-skills: [10311, 29830, 21750]
-traits: [2020, 2018, 853]
-boons: ['Might', 'Fury', 'Quickness', 'Alacrity']
+title: Power Chronomancer
+date: 2021-06-01
+rating: Good
+role: Damage
+author: "Discord: [CnD] Tipcat#0698"
+profession: Mesmer
+specialization: Chronomancer
+skills:
+  - 10311
+  - 29830
+  - 21750
+traits:
+  - 2020
+  - 2018
+  - 853
 conditions:
-  [
-    'Vulnerability',
-    'Weakness',
-    'Crippled',
-    'Chilled',
-    'Poisoned',
-    'Blinded',
-    'Slow',
-  ]
-code: '[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]'
-author: 'Discord: [CnD] Tipcat#0698'
-classification: [2, 4, 4, 3, 4]
+  - Vulnerability
+  - Weakness
+  - Crippled
+  - Chilled
+  - Poisoned
+  - Blinded
+  - Slow
+boons:
+  - Might
+  - Fury
+  - Quickness
+  - Alacrity
+code: "[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 2
+  - 4
+  - 4
+  - 3
+  - 4
 ---
 
 The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long rampup times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
@@ -159,7 +172,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/>.
 <Card title="Situational Traits">
 <Traits unembossed traits1="Illusions" traits1Selected="Shatter Storm, Phantasmal Haste, Phantasmal Force" />
 
-You can go this Illusions variant over the Domination traitline when you're facing <Boon name="Quickness"/> uptime issues to be more sulf-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small" /> as well.
+You can go this Illusions variant over the Domination traitline when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small" /> as well.
 | | |
 | -- | -- |
 | <Trait name="Bountiful Blades" size="big" disableText/> | If you're playing with Greatsword instead of Focus. |
@@ -179,7 +192,7 @@ Utilize Mirage for skips!
 Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 | | |
 | -- | -- |
-| <Skill name="Gravity Well" disableText size="big"/> | Higher DpS but slower and less CC |
+| <Skill name="Gravity Well" disableText size="big"/> | Higher DPS but slower and less CC |
 | <Skill name="Mimic" disableText size="big"/> | For precasting <Skill name="Mirror Images" Size="small"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips. |
 | <Skill name="Null Field" disableText size="big"/> | When you have issues with boons on the boss (should only be used in extreme cases). |
 | <Skill name="Signet of Inspiration" disableText size="big"/> | For precasting before the boss. |
@@ -216,7 +229,7 @@ If you lose yourself in the rotation follow this priority list.
 4. Use <Skill name="Rewinder"/> whenever you don't have any clones, situationally you can shatter it with three clones such as in your burst rotation or when a phase is about to end and <Skill name="Split Second"/> is on cooldown.
 5. Use <Skill id="10334"/> and <Skill id="30525"/> (if used) off recharge.
 
-- <Skill name="Illusionary Riposte"/> is a DpS increase if you time it well, and don't interrupt other casts.
+- <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
 
 Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that <Skill name="Blurred Frenzy"/> and auto-attacks get higher priority if the boss is close to phasing.
 
@@ -269,7 +282,7 @@ They do however benefit from <Effect name="Exposed"/>.
 <Card title="Precasting">
 At the Mistlock Singularity
 
-- Blast firefields with <Skill name="The Prestige"/>.
+- Blast fire fields with <Skill name="The Prestige"/>.
 - Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
 - Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
 - Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
@@ -284,7 +297,7 @@ At the boss (prespawned bosses)
 
 1. <Skill name="Phantasmal Warlock"/>
 2. <Skill name="Phase Retreat"/>
-   2. Omit this step if <Skill name="Mimic"/> is precasted
+   2. Omit this step if <Skill name="Mimic"/> is precast
 
 3. Swap to Greatsword from inventory
 4. <Skill name="Phantasmal Berserker"/>
@@ -315,7 +328,7 @@ These are basic openers, refer to the video for more advanced openers (video des
 2. Weapon Swap
 3. <Skill name="Phantasmal Swordsman"/>
    3. <Skill name="Continuum Split"/> 
-   3. <Skill name="Mirror Images"/>(if you precasted <Skill name="Mimic"/> )   
+   3. <Skill name="Mirror Images"/>(if you precast <Skill name="Mimic"/> )   
    * You can delay your <Skill disableText name="Continuum Split"/> towards the end of the cast of <Skill disableText name="Phantasmal Swordsman"/> to give yourself more time.
 
 4. <Skill  name="Phantasmal Disenchanter"/>
