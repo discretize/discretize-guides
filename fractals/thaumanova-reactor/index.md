@@ -1,27 +1,41 @@
 ---
-title: 'Thaumanova Reactor'
-date: '2021-02-24'
-image: './images/header.jpg'
-group: 'T4'
+date: 2021-02-24
+cycle: Day
+consumables:
+  - 78978
+  - 49940
+record:
+  time: 2:43
+  by:
+    - name: Discretize
+      tag: dT
+  youtube:
+    - id: QCele6YZeow
+      name: Metagame
+      specialization: Chronomancer
+    - id: KP5bbAK9Dqs
+      name: Nimajeb
+      specialization: Warrior
+    - id: 8jPj3qhxSek
+      name: Xarlor
+      specialization: Weaver
+    - id: VErPFTieTk8
+      name: Hyperiel
+      specialization: Weaver
+    - id: 4xRc7pEAfv8
+      name: The Way To God
+      specialization: Weaver
+title: Thaumanova Reactor
+image: ./images/header.jpg
+group: T4
 api: 2967
 bosses: 2
-difficulties: [{ level: 82, ar: 118 }]
-record:
-  {
-    time: '2:43',
-    by: [{ name: 'Discretize', tag: 'dT' }],
-    youtube:
-      [
-        { id: 'QCele6YZeow', name: 'Metagame', specialization: 'Chronomancer' },
-        { id: 'KP5bbAK9Dqs', name: 'Nimajeb', specialization: 'Warrior' },
-        { id: '8jPj3qhxSek', name: 'Xarlor', specialization: 'Weaver' },
-        { id: 'VErPFTieTk8', name: 'Hyperiel', specialization: 'Weaver' },
-        { id: '4xRc7pEAfv8', name: 'The Way To God', specialization: 'Weaver' },
-      ],
-  }
-cycle: 'Day'
-sigils: [{ id: 24615 }, { id: 24868 }]
-consumables: [78978, 49940]
+difficulties:
+  - level: 82
+    ar: 118
+sigils:
+  - id: 24615
+  - id: 24868
 ---
 
 <Grid>
@@ -108,7 +122,7 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 
 <GridItem sm="8">
 ## Superheated Room <Label>West</Label>
-This is usually solo'ed by the <Specialization name="Weaver"/> but other classes can do it as well, like in the **video shown below**.
+This is usually soloed by the <Specialization name="Weaver"/> but other classes can do it as well, like in the **video shown below**.
 </GridItem>
 
 <GridItem sm="12">
