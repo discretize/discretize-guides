@@ -158,7 +158,7 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 | -- | -- |
 | <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>. |
 | <Trait name="pureofheart" size="big" disableText/> | Taken if the group is struggling with healing. |
-| <Trait name="stalwartspeed" size="big" disableText/> | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particuarly useful if you are playing <Skill id="43357"/>). |
+| <Trait name="stalwartspeed" size="big" disableText/> | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/>). |
 </Card>
 </GridItem>
 </Grid>
@@ -176,7 +176,7 @@ Keeping up <Boon name="Quickness"/> is a lot easier than with a <BuildLink build
 To play <Trait name="Legendary Lore"/> you need to have at least 60% boon duration to upkeep <Boon name="Quickness"/>. Both the Seraph and the Celestial builds have 40% from gear. meaning you will need to get the rest from agony resistance and consumables. If you cannot get enough boon duration to be safe just play with <Trait name="Stalwart Speed"/>!
 </Message>
 
-The rotation is a **lot** simpler compared to any other <Specialization name="Guardian"/> build (except for hfb where your weapons do not have immediate effect on how efficient the build is). However, weapon swaps require careful consideration, because it is not efficient to be stuck on staff or to have less than 25 <Boon name="might"/> during a damage phase.  
+The rotation is a **lot** simpler compared to any other <Specialization name="Guardian"/> build (except for HFB where your weapons do not have immediate effect on how efficient the build is). However, weapon swaps require careful consideration, because it is not efficient to be stuck on staff or to have less than 25 <Boon name="might"/> during a damage phase.  
 Getting the weapon swaps right is probably the hardest part (more info below). Generally, it is recommended to always camp Axe/Torch and only swap to staff to use <Skill name="Empower"/> to top up <Boon name="Might"/>.
 
 **General information:**
@@ -185,11 +185,11 @@ Getting the weapon swaps right is probably the hardest part (more info below). G
   - Use <Skill name="Symbol of Vengeance"/>
   - Use <Skill name="Zealots Flame"/> into <Skill name="Zealots Fire"/>
   - Use <Skill name="Cleansing Flame"/>
-  - Try not to interupt you auto attack chain
+  - Try not to interrupt you auto attack chain
   - Make sure to have <Skill name="Blazing Edge"/> ready for when you need to CC or need to pull in any adds.
 - In <Skill name="Tome of Justice"/>:
   - Your standard DPS rotation is Chapter 2: Igniting Burst (F1-2), Chapter 4: Scorched Aftermath (F1-4), Epilogue: Ashes of the Just (F1-5), Chapter 1: Searing Spell (F1-1), Igniting Burst (F1-2).
-  - Dont be afraid to replace a skill, preferably Chapter 1: Searing Spell (F1-1) or Chapter 2: Igniting Burst (F1-2), with Chapter 3: Heated Rebuke (F1-3) for more CC or to pull any adds.
+  - Don't be afraid to replace a skill, preferably Chapter 1: Searing Spell (F1-1) or Chapter 2: Igniting Burst (F1-2), with Chapter 3: Heated Rebuke (F1-3) for more CC or to pull any adds.
 - On Staff:
   - Use <Skill name="Empower"/>
   - Blast fire fields with <Skill name="holystrike"/>. If there is no fire field you can put one down with tome1-4
