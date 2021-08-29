@@ -32,7 +32,6 @@ record:
 Skip the first two bridges, you can use <Effect name="Stealth"/> but since it is difficult to reapply just stay together while moving.
 **You can use <Item id="78978"/> to skip the entire first part, video below.**
 
-
 You will reach an area with two _Molten Protectors_, drag them with you to the next group of mobs where you can't proceed. Kill everything there and the bridge to the Molten Effigy will come down.
 
 Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effect name="Invulnerability"/> (recognizable by an electric beam). Therefore, killing and controlling the Molten Protectors is your highest priority throughout the entire fractal.
@@ -42,9 +41,9 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 <GridItem sm="4">
 <Image src="./images/start.jpg" caption="The long way down"/>
 </GridItem>
+
 </Grid>
 
-<GridItem sm="12">
 <Tabs>
 <Tab specialization="Revenant">
 <Video title="Revenant skip" youtube="vn2UvjuDW1M"/>  
@@ -58,13 +57,12 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 <Video title="Thief skip" timestamp="172"  youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
-</GridItem>
 
 ---
 
 ## Molten Effigy <Item id="50082" disableText/>
 
-Stack <Boon name="Might"/> if possible before moving on to the Molten Effigy. **<Specialization name="Revenant"/> take <Skill name="Legendary Demon Stance"/> for <Skill name="Banish Enchantment"/> to remove <Boon name="Protection"> from the _Molten Effigy_**.
+Stack <Boon name="Might" /> if possible before moving on to the Molten Effigy. **<Specialization name="Revenant"/> take <Skill name="Legendary Demon Stance"/> for <Skill name="Banish Enchantment"/> to remove <Boon name="Protection" /> from the _Molten Effigy_**.
 
 There is another single Molten Protector which needs to be focused before switching to the _Molten Effigy_. **<Specialization name="Revenant"/> use <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon Stance" disableText/>) and remove <Boon name="Protection"/> from the _Molten Effigy_**. Use interrupts or reflects against the Effigy's _Firestorm_ attack, pay attention to the _Charge_ (large arrow) and _Shockwave_ attacks and cleave mobs around if possible.
 
