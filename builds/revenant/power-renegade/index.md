@@ -66,7 +66,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 <GridItem sm="2">
 </GridItem>
 
- <GridItem sm="2">
+<GridItem sm="2">
 </GridItem>
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Diviner" accessory1Affix="Berserker" accessory2Affix="Diviner" amuletAffix="Diviner" ring1Affix="Diviner" ring2Affix="Diviner" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
@@ -97,7 +97,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 <GridItem sm="2">
 </GridItem>
 
- <GridItem sm="2">
+<GridItem sm="2">
 </GridItem>
 <GridItem sm="4">
 <BackAndTrinkets backItemAffix="Diviner" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Diviner" ring1Affix="Diviner" ring2Affix="Diviner" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
@@ -117,6 +117,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 
 <Grid>
 <GridItem sm="4">
+
 <Grid>
 <GridItem sm="12">
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Diviner" weapon1MainSigil1="Impact" weapon1OffType="Sword" weapon1OffAffix="Diviner" weapon1OffSigil="Force" weapon2MainType="Staff" weapon2MainAffix="Diviner" weapon2MainSigil1="Severance" weapon2MainSigil2="Force" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2MainInfusion2Id="37131"/>
@@ -214,8 +215,8 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 
 </Card>
 </GridItem>
-
 </Grid>
+
 <Grid>
 <GridItem sm="12">
 <Card title="Legends">
