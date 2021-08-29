@@ -6,7 +6,7 @@ consumables:
   - 8764
   - 8801
 record:
-  time: 6:50
+  time: '6:50'
   by:
     - name: Discretize
       tag: dT
@@ -139,11 +139,10 @@ Please note that you can't `/gg` after any Sandbinder, because you spawn behind 
 
 </Grid>
 
-
-
 ---
 
 ## Priestess Amala
+
 <Message>
 **Bring boon removal because she is spamming <Boon name="Protection"/> on herself like there is no tomorrow!**  
 </Message>  

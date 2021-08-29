@@ -20,7 +20,7 @@ boons:
   - Swiftness
   - Stability
   - Aegis
-code: "[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 cmguides: /cm-guides/guardian/heal-firebrand
 classification:
   - 4
@@ -110,21 +110,26 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <GridItem sm="6">
 <Card title="Less Common Utility Skills">
-| | |
-| -- | -- |
-| <Skill name="Signet of Wrath" size="big" disableText/> | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Condition Damage"/> through <Trait name="Perfect Inscriptions"/>. Keep in mind that this does not provide the immediate defiance bar damage of <Skill name="Bane Signet"/>. |
-| <Skill name="Hold the Line" size="big" disableText/> | Provides extra <Boon name="Protection"/>. |
-| <Skill name="Judges Intervention" size="big" disableText/> | 1200 range blink to an enemy. Mainly useful for skips. |
-| <Skill name="Merciful Intervention" size="big" disableText/> | 1200 range blink to an ally. Can be used for skips to blink to a <Skill name="Sword of Justice"/>. Can also be taken to help allies who frequently down. |
+
+|                                                              |                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <Skill name="Signet of Wrath" size="big" disableText/>       | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Condition Damage"/> through <Trait name="Perfect Inscriptions"/>. Keep in mind that this does not provide the immediate defiance bar damage of <Skill name="Bane Signet"/>. |
+| <Skill name="Hold the Line" size="big" disableText/>         | Provides extra <Boon name="Protection"/>.                                                                                                                                                                                                                    |
+| <Skill name="Judges Intervention" size="big" disableText/>   | 1200 range blink to an enemy. Mainly useful for skips.                                                                                                                                                                                                       |
+| <Skill name="Merciful Intervention" size="big" disableText/> | 1200 range blink to an ally. Can be used for skips to blink to a <Skill name="Sword of Justice"/>. Can also be taken to help allies who frequently down.                                                                                                     |
+
 </Card>
 
 <Card title="Elite Skills">
-| | |
-| -- | -- |
-| <Skill name="Mantra of Liberation" size="big" disableText>| Should always be used unless there is absolutely no need for <Boon name="Stability"/> and <Boon name="Resolution"/>. |
-| <Skill name="Feel My Wrath" size="big" disableText/> | Can be used if you struggle upkeeping <Boon name="Quickness"/> or <Boon name="Fury"/>. |
-| <Skill name="Signet of Courage" size="big" disableText/> | Good passive healing if neither of the other 2 skills are useful in a given situation. |
+
+|                                                            |                                                                                                                      |
+| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Mantra of Liberation" size="big" disableText> | Should always be used unless there is absolutely no need for <Boon name="Stability"/> and <Boon name="Resolution"/>. |
+| <Skill name="Feel My Wrath" size="big" disableText/>       | Can be used if you struggle upkeeping <Boon name="Quickness"/> or <Boon name="Fury"/>.                               |
+| <Skill name="Signet of Courage" size="big" disableText/>   | Good passive healing if neither of the other 2 skills are useful in a given situation.                               |
+
 </Card>
+
 </GridItem>
 
 </Grid>
@@ -138,11 +143,13 @@ If you need more healing or an extra free utility slot, you can swap out Radianc
 </GridItem>
 <GridItem sm="5">
 <Card title="Situational Traits">
-| | |
-| -- | -- |
-| <Trait name="Right-Hand Strength" size="big" disableText/> | If there is no need for the personal <Boon name="Resolution"/> from <Trait name="Healers Resolution"/>. |
-| <Trait name="Pure of Heart" size="big" disableText/> | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds. |
-| <Trait name="Master of Consecrations" size="big" disableText/> | Use this when you are using a Consecration skill while running the Virtues trait line. |
+
+|                                                                |                                                                                                                     |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Right-Hand Strength" size="big" disableText/>     | If there is no need for the personal <Boon name="Resolution"/> from <Trait name="Healers Resolution"/>.             |
+| <Trait name="Pure of Heart" size="big" disableText/>           | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds. |
+| <Trait name="Master of Consecrations" size="big" disableText/> | Use this when you are using a Consecration skill while running the Virtues trait line.                              |
+
 </Card>
 </GridItem>
 
@@ -181,14 +188,16 @@ If you need more healing or an extra free utility slot, you can swap out Radianc
 </GridItem>
 <GridItem sm="6">
 <Card title="CC Skills">
-| | |
-| -- | -- |
-| <Skill name="Blazing Edge"/> | 150 damage |
-| <Skill name="Shield of Absorption"/> | 150 damage |
-| <Skill name="Bane Signet"/> | 300 damage |
-| <Skill name="Hammer of Wisdom"/> | 200 damage |
-| <Skill name="Tome of Justice"/> Skill 3 | 150 damage |
-| <Skill name="Sanctuary"/> | 150/s damage (for 5 seconds,<br/> adding up to 750 damage) |
+
+|                                         |                                                            |
+| --------------------------------------- | ---------------------------------------------------------- |
+| <Skill name="Blazing Edge"/>            | 150 damage                                                 |
+| <Skill name="Shield of Absorption"/>    | 150 damage                                                 |
+| <Skill name="Bane Signet"/>             | 300 damage                                                 |
+| <Skill name="Hammer of Wisdom"/>        | 200 damage                                                 |
+| <Skill name="Tome of Justice"/> Skill 3 | 150 damage                                                 |
+| <Skill name="Sanctuary"/>               | 150/s damage (for 5 seconds,<br/> adding up to 750 damage) |
+
 </Card>
 </GridItem>
 

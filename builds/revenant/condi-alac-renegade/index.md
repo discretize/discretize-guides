@@ -16,7 +16,7 @@ conditions:
 boons:
   - Alacrity
   - Might
-code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
+code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
 classification:
   - 4
   - 3
@@ -28,7 +28,7 @@ compositions:
 benchmark:
   huge:
     dps: 38011
-    by: "Le Mós "
+    by: 'Le Mós '
     youtube: fBYzCIj7RAU
 ---
 
@@ -157,21 +157,21 @@ Shortbow skills:
 
 - <Skill id="40175"/>: fast and low-cost damage skill and applies some <Condition name="Bleeding"/>
 - <Skill id="41829"/>: very good damage skill and applies a good amount of <Condition name="Torment"/>
-- <Skill id="43993"/>: good damage skill and applies <Condition name="Burning"/> and <Condition name=Slow/>
+- <Skill id="43993"/>: good damage skill and applies <Condition name="Burning"/> and <Condition name="Slow"/>
 - <Skill id="41820"/> : applies <Condition name="Burning"/> and does 200 breakbar damage
 
 Mace/Axe skills:
 
-- <Skill id="28357"/>: fast and low-cost damage skill and applies <Condition name=Burning/>
-- <Skill id="27964"/>: fast and low-cost damage skill and a good mobility skill as well, applies <Condition name=Torment/>
+- <Skill id="28357"/>: fast and low-cost damage skill and applies <Condition name="Burning"/>
+- <Skill id="27964"/>: fast and low-cost damage skill and a good mobility skill as well, applies <Condition name="Torment"/>
 - <Skill id="28029"/>: good mobility skill
-- <Skill id="28409"/>: good damage skill that deals good amount of breakbar damage as well, applies <Condition name=Torment/>
+- <Skill id="28409"/>: good damage skill that deals good amount of breakbar damage as well, applies <Condition name="Torment"/>
 
 <Specialization name="Renegade"/> skills:
 
 - <Skill id="44076"/>: give 2 <Boon name="Might"/> to you and your group per <SpecialActionKey name="Kallas Fervor"/> you have
-- <Skill id="41294"/>: your best burst skill that applies a lot of <Condition name=Burning/>
-- <Skill id="45537"/>: one of your most important skills as it gives <Boon name=Alacrity/> to you and your group
+- <Skill id="41294"/>: your best burst skill that applies a lot of <Condition name="Burning"/>
+- <Skill id="45537"/>: one of your most important skills as it gives <Boon name="Alacrity"/> to you and your group
 
 </Card>
 </GridItem> 

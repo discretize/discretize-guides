@@ -15,7 +15,7 @@ cycle: Day
 consumables:
   - 78978
 record:
-  time: 5:15
+  time: '5:15'
   by:
     - name: Nightmare Shattered
       tag: Ns
@@ -64,13 +64,13 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 | **Solar Bolt**                       | Skorvald often throws a red orb which splits into three after each bounce. Every orb leaves a <Condition name="Burning"/> field which deals high damage.                                                                                                                                                                                                                         |
 | **Horizon Strike**                   | He marks orange triangles around him and blasts them counter-clockwise which deals high damage and <Control name="Knockback"/>. The orange zones themselves don't deal any damage but explode in order, practice the pattern and move into the first triangle after it is gone. Followed by Crimson Dawn.                                                                        |
 | **Crimson Dawn**                     | Blasts the entire platform only excluding a small triangle behind him. Deals high damage.                                                                                                                                                                                                                                                                                        |
-| **Radiant Fury**                     | Applies <Condition name="Blinded"/> and <Condition name="Burning"/> to all players it hits and damages allies around them. Recognizable by diminishing red circles around every player, dodge when they collapse. Also sends out a **Solar Discharge** shockwave with <Control name="Stun"/> from Skorvald.                                                                        |
+| **Radiant Fury**                     | Applies <Condition name="Blinded"/> and <Condition name="Burning"/> to all players it hits and damages allies around them. Recognizable by diminishing red circles around every player, dodge when they collapse. Also sends out a **Solar Discharge** shockwave with <Control name="Stun"/> from Skorvald.                                                                      |
 | **Warp & Spiral Strike**             | Skorvard teleports to the target location and executes a spinning strike which damages players and applies <Control name="Knockback"/>. Also sends out a volley of bolts. Noticeable by a large bomb icon above a player.                                                                                                                                                        |
 | **Punishing Kick & Cranial Cascade** | Both attacks release a blast of chaotic mists with high damage and <Control name="Knockback"/>. _Punishing Kick_ generates a line in front of him, _Cranial Cascade_ a cascading triangle.                                                                                                                                                                                       |
 | **Rush**                             | **Only below 66% health.** Skorvald fixates on a player and charges through him from one edge of the platform to the other.                                                                                                                                                                                                                                                      |
 | **Focused Rage**                     | **Only below 66% health.** Basically a larger version of _Cranial Cascade _. Skorvald marks a player with a cross-hair and blasts a large orange cone for high damage and <Control name="Knockback"/>. The marked player should turn Skorvald away from other players, during the last second of the animation he does not follow the target anymore and it is safe to step out. |
 | **Solar Bloom**                      | **Only below 50% health.** Solar Blooms spawn on the platform which need to be knocked back by damaging them. They fixate on the closest player and explode for high area damage and <Control name="Knockback"/>, keep them away from the party.                                                                                                                                 |
-| **Beaming Smile**                    | **Only below 50% health.** Skorvald teleports to a random location and summons three large and deadly laser beams. Move out to prevent instant death. He also projects a white beam onto players inflicting <Condition name="fear"/> and <Condition name="Blinded"/> if you face him upon triggering - simply turn away to avoid it.                                               |
+| **Beaming Smile**                    | **Only below 50% health.** Skorvald teleports to a random location and summons three large and deadly laser beams. Move out to prevent instant death. He also projects a white beam onto players inflicting <Condition name="fear"/> and <Condition name="Blinded"/> if you face him upon triggering - simply turn away to avoid it.                                             |
 | **Solar Cyclone**                    | **Only below 33% health.** Skorvald starts spinning counter-clockwise and releases conical shockwaves similar to _Cranial Cascade _. There are small safe-spots between each shockwave, learn to stand inside them to avoid the high damage and interrupts.                                                                                                                      |
 | **Combustion Rush**                  | **Only below 33% health.** Elite Flux Anomalies start charging through players and <Control name="Knockback"/>, indicated by a large arrow on the platform.                                                                                                                                                                                                                      |
 
@@ -92,7 +92,6 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 </GridItem>
 
 </Grid>
-
 
 ---
 

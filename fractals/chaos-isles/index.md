@@ -4,7 +4,7 @@ cycle: Day
 consumables:
   - 49940
 record:
-  time: 3:48
+  time: '3:48'
   by:
     - name: Discretize
       tag: dT
@@ -93,16 +93,15 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 <GridItem sm="7">
 ## Blizzard path (Forest)
 
-You will need to enlighten four *bonfires* on the path to progress to the end boss, **the *Enlighten* charges have unlimited use so this can be soloed** but if you want to be safe simply wait for everyone.
+You will need to enlighten four _bonfires_ on the path to progress to the end boss, **the _Enlighten_ charges have unlimited use so this can be soloed** but if you want to be safe simply wait for everyone.
 
-You can stack <Effect name="Stealth"/> to skip the mobs though it usually is not necessary. 
+You can stack <Effect name="Stealth"/> to skip the mobs though it usually is not necessary.
 Learn to dodge the tentacle <Control name="Knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
 
 </GridItem>
 </Grid>
 
 ---
-
 
 <Grid>
 <GridItem sm="8">
@@ -147,5 +146,3 @@ Take <Skill name="Headbutt"/> for the 50% Defiance bar and <Skill name="Outrage"
 </Tabs>
 </GridItem>
 </Grid>
-
-

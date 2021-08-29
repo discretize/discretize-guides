@@ -4,7 +4,7 @@ cycle: Night
 consumables:
   - 78978
 record:
-  time: 5:09
+  time: '5:09'
   by:
     - name: Lucky Noobs
       tag: LN
@@ -32,7 +32,6 @@ sigils:
   - id: 36053
   - id: 24868
 ---
-
 
 <Grid>
 <GridItem sm="8">
@@ -94,8 +93,6 @@ In the passage, the Mossman is waiting to fight you. You can break his defiance 
 
 ---
 
-
-
 <Grid>
 <GridItem sm="8">
 ## Bloomhunger
@@ -146,5 +143,3 @@ Take Greatsword and <Skill name="Blood Reckoning"/> here for cleave!
 </Tabs>
 </GridItem>
 </Grid>
-
-

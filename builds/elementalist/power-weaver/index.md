@@ -22,7 +22,7 @@ boons:
   - Fury
   - Might
   - Swiftness
-code: "[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmguides: /cm-guides/elementalist/power-weaver
 classification:
   - 4
@@ -242,8 +242,9 @@ When there are a lot of adds around and you have to time to hit both burst skill
 - Try to finish your auto-attack chains (<Skill name="Fire Attunement" disableText/>/<Skill name="Searing Slash" disableText/> and <Skill name="Air Attunement" disableText/>/<Skill name="Call Lightning" profession="elementalist" disableText/>).
 - Use <Skill name="Arcane Blast"/> when the target's defiance bar is broken and you have <Trait name="Elements of Rage"/> and <Skill name="Conjure Lightning Hammer"/> up.
 - On small hitboxes <Skill name="Firestorm"/> is better than <Skill name="Lightning Storm"/>, use it while attuning to <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
-  </Card>
-  </GridItem>
+
+</Card>
+</GridItem>
 
 <GridItem xs="12" sm="12">
 <Card title="Precasting">
@@ -284,7 +285,8 @@ Tempest precasting build template:
   - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
   - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
 - When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself.
-  </Card>
+
+</Card>
 
 </GridItem>
 

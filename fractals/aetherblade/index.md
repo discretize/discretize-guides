@@ -66,6 +66,7 @@ You don't need to kill a single mob and can bypass all traps with the following 
 1.  One person (or more) teleports up to the first level and activates all four consoles using condition cleanses
 2.  Everyone does `/gg` and resurrects immediately (you will spawn on the ramp up after the first console room)
 3.  The team splits up to activate the second set of consoles (the spinning lasers won't be active if you're fast enough)
+
 </GridItem>
 
 <GridItem sm="4">
@@ -76,7 +77,7 @@ You don't need to kill a single mob and can bypass all traps with the following 
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="Revenant">
-To skip this part you are going to need a little jumping, damaging the Inquest with an AoE, non targetable skill like <Skill name="Shackling Wave"/>, then use <Skill name="Phase Traversal"/> on it, **when he came down from the ramp**. Give yourself <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>). 
+To skip this part you are going to need a little jumping, damaging the Inquest with an AoE, non targetable skill like <Skill name="Shackling Wave"/>, then use <Skill name="Phase Traversal"/> on it, **when he came down from the ramp**. Give yourself <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 
 <Video title="Revenant skip" youtube="rePLyrDp3Pc"/>
 </Tab>

@@ -6,7 +6,7 @@ consumables:
   - 8764
   - 8801
 record:
-  time: 4:50
+  time: '4:50'
   by:
     - name: Happens
       tag: hP
@@ -61,12 +61,12 @@ Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profe
 </Tabs>
 </GridItem>
 
-
 </Grid>
 
 ---
 
-## The town  
+## The town
+
 <Grid>
 <GridItem sm="6">
   
@@ -99,7 +99,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 <GridItem sm="6">
 ## Courtyard
 
-To capture the courtyard, you have to kill (or kite away) four groups of *Veteran Ascalonians*. 
+To capture the courtyard, you have to kill (or kite away) four groups of _Veteran Ascalonians_.
 
 As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and enemy groups spawn at the gates (clockwise starting north).  
 <Image src="./images/the_courtyard.jpg" caption="The courtyard"/>
@@ -119,7 +119,6 @@ For more experienced groups it is favorable to take <Skill name="Legendary Dwarf
 </Tabs>
 </GridItem>
 </Grid>
-
 
 ## Captain Ashym
 

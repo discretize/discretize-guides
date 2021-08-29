@@ -5,7 +5,7 @@ consumables:
   - 78978
   - 49940
 record:
-  time: 2:43
+  time: '2:43'
   by:
     - name: Discretize
       tag: dT

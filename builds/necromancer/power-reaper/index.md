@@ -3,7 +3,7 @@ title: Power Reaper
 date: 2021-06-01
 rating: Good
 role: Damage
-author: "Discord: Jes#6596"
+author: 'Discord: Jes#6596'
 profession: Necromancer
 specialization: Reaper
 skills:
@@ -23,7 +23,7 @@ boons:
   - Might
   - Fury
   - Quickness
-code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmguides: /cm-guides/necromancer/power-reaper
 classification:
   - 1
@@ -146,6 +146,7 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 
 <GridItem sm="5">
 <Card title="Rotation: Loop">
+
 1. <Skill name="Ghastly Claws"/> (Axe 2)
 2. <Skill name="Well of Suffering"/> (Utility)
 3. <Skill name="Reapers Shroud"/> (F1)
@@ -163,6 +164,8 @@ If you are going to replace a skill, <Skill name="Well of Darkness"/> is your le
 15. <Skill name="Nightfall"/> (Greatsword 4)
 16. <Skill name="Grasping Darkness"/> (Greatsword 5)
 17. **Weapon Swap**
-</GridItem>
+
 </Card>
+</GridItem>
+
 </Grid>
