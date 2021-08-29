@@ -145,7 +145,7 @@ This build requires 2 <Specialization name="Renegade"/> with <Trait id="2182"/> 
 * <Skill id="42949"/>: excellent damage source and applies a lot of <Condition name="Bleeding"/>
 * <Skill id="40485"/>: suboptimal on Condi <Specialization name="Renegade"/>, however, still a good source of <Condition name="Vulnerability"/>
 * <Skill id="41220"/>: very good CC skill that does a total of 600 breakbar damage
-* <Skill id="45773"/>: situational skill that allows your party members to quickly replenish their health at the cost of damage in when you are attuned to <Skill id="41858"/>
+* <Skill id="45773"/>: a situational skill that allows your party members to quickly replenish their health at the cost of damage when you are attuned to <Skill id="41858"/>
 
 <Skill id="28494"/> skills:
 
@@ -169,7 +169,7 @@ Mace/Axe skills:
 
 <Specialization name="Renegade"/> skills:
 
-- <Skill id="44076"/>: give 2 <Boon name="Might"/> to you and your group per <SpecialActionKey name="Kallas Fervor"/> you have
+- <Skill id="44076"/>: give 2 <Boon name="Might"/> to you and your group per <SpecialActionKey name="KallasFervor"/> you have
 - <Skill id="41294"/>: your best burst skill that applies a lot of <Condition name="Burning"/>
 - <Skill id="45537"/>: one of your most important skills as it gives <Boon name="Alacrity"/> to you and your group
 

@@ -217,8 +217,8 @@ In PuGs, however, it is quite hard to predict when the boss will be CC'd as well
 
 For your First weapon set you have a choice of 3 weapons:
 
-- Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus.
-- Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. Greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck auto attacking) and you don't have time for another Longbow burst.
+- Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however, you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus.
+- Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. Greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck auto-attacking) and you don't have time for another Longbow burst.
 - Warhorn is your final option and can be taken if your phases are short enough to not need to swap back after Sword/Axe AND you will not be able to cast another <Skill name="Barrage"/> during the fight. "
 
 For your second weapon set you always want Axe off-hand, but main hand you have a choice of 3 weapons again:
@@ -236,7 +236,7 @@ For your second weapon set you always want Axe off-hand, but main hand you have 
 
 - **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team!**
 - You want to always run <Skill name="Sicem"/> as it grants you a **25% damage bonus** for its duration. One thing to keep in mind is that it only grants you a 25% damage bonus against the foe you use it on, so if you are cleaving trash mobs it might not be worth using. Secondly, you only get the buff if you are in <Skill id="42944"/> so also don't activate it if you are unmerged.
-- Your final utility varies depending on the situation. Generally you want to run either <Skill name="Frost trap"/> or <Skill name="Signet of the Wild"/> since they are your most damaging utilities
+- Your final utility varies depending on the situation. Generally, you want to run either <Skill name="Frost trap"/> or <Skill name="Signet of the Wild"/> since they are your most damaging utilities
 
   - <Skill name="Frost trap"/> is generally taken as it increases your burst damage a substantial amount.
   - <Skill name="Signet of the Wild"/> is taken on fights with longer phases where your <Skill name="Frost trap"/> comes off cooldown but you don't have enough time for another burst.
