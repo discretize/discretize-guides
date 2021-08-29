@@ -38,14 +38,14 @@ benchmark:
 
 <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
-Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty.
+Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
 - Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
-- Check the CM-guides for information when to play 50% and 80% boon duration. For newer <Specialization name="Renegade"/>s it is recommended to play at least 80% boon duration.
+- Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade"/>s it is recommended to play at least 80% boon duration.
   
 <Tabs outlined>
 <Tab title="162 Agony Resistance">
@@ -150,13 +150,13 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 <Card title="Herald Precasting">
 Sometimes it is worth precasting with <Specialization name="Herald"/> because <Specialization name="Herald"/> has access to <Skill id="51667"/> which is *incredibly* strong skill to precast, if you can manage to fit it into your groups precasting. If your group is blasting <Boon name="Might"/>, you can forgo using <Skill id="29321"/> in your precasting and just precast <Boon name="Alacrity"/> and extending everyone else's boons with <Skill id="51667"/>.
 
-It is recommended to have a build template for this, so you can quickly swap between templates by using hotkeys (need to be setup in the settings). Here's the Herald trait line:
+It is recommended to have a build template for this, so you can quickly swap between templates by using hotkeys (need to be set up in the settings). Here's the Herald trait line:
 <Traits unembossed traits1Id="52" traits1="Herald" traits1SelectedIds="1806,1738,1772"/>
 
 Template code: `[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
 
 <Message>
-The other legend is unselected for a good reason. If you have the other legend slot empty, it will minimise the amount of possible bugs with <Specialization name="Renegade"/> and build templates. You can read more about the bugs [here](https://wiki.guildwars2.com/wiki/Template#Build_Template).
+The other legend is unselected for a good reason. If you have the other legend slot empty, it will minimise the number of possible bugs with <Specialization name="Renegade"/> and build templates. You can read more about the bugs [here](https://wiki.guildwars2.com/wiki/Template#Build_Template).
 </Message>
 
 To precast with <Specialization name="Herald"/>, you can go very simple:
@@ -177,7 +177,7 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 <Card title="Abilities">
 **Citadel Order Skills:**
 
-- <Skill name="Heroic Command"/> - Share two stacks of <Boon name="Might"/> for each <SpecialActionKey name="kallas fervor"/> stack.
+- <Skill name="Heroic Command"/> - Share two stacks of <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack.
 - <Skill name="Citadel Bombardment"/> - Fire ten missiles that inflict high damage and <Condition name="Burning"/>.
 - <Skill name="Orders from Above"/> - Share four pulses of <Boon name="Alacrity"/>.
 
@@ -188,7 +188,7 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 - <Skill name="Preparation Thrust"/> - The auto-attack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on up to three targets, with each explosion hitting three targets. Potentially hitting nine times.
 - <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
 - <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to yourself.
-- <Skill name="Shackling Wave"/> - High damage skill, however should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
+- <Skill name="Shackling Wave"/> - High damage skill, however, should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
 - <Skill name="Death strike"/> - Shadowstep to the target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allow it to be used for damage.
 
 **Staff Skills:**
@@ -204,7 +204,7 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **Notable Traits:**
 
 - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
-- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="Battle Scars"/>, which makes your attack steal health. This trait is the DPS alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of damage, but doesn't scale with <Effect name="Exposed"/>. Pulls ahead over <Trait name="Swift Termination"/> in fights where majority of damage is dealt outside of <Effect name="Exposed"/> debuff (on Artsariiv and Arkk). Also worth taking in PuG groups on most bosses to ensure Scholar buff uptime and due to lower <Effect name="Exposed"/> uptime on bosses.
+- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which makes your attack steal health. This trait is the DPS alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of damage, but doesn't scale with <Effect name="Exposed"/>. Pulls ahead over <Trait name="Swift Termination"/> in fights where majority of damage is dealt outside of <Effect name="Exposed"/> debuff (on Artsariiv and Arkk). Also worth taking in PuG groups on most bosses to ensure Scholar buff uptime and due to lower <Effect name="Exposed"/> uptime on bosses.
 - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
 - <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
 - <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
