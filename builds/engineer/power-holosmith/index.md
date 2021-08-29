@@ -1,16 +1,32 @@
 ---
-title: 'Power Holosmith'
-date: '2021-06-01'
-rating: 'Good'
-role: 'Damage'
-profession: 'Engineer'
-specialization: 'Holosmith'
-benchmark: { small: { dps: 38143, by: 'TJ [SC]', youtube: 'p6mZtHhu7GM' } }
-skills: [30815, 43739]
-conditions: ['Vulnerability', 'Blinded', 'Crippled', 'Immobile']
-effects: ['Stealth']
-code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
-classification: [2, 4, 4, 3, 4]
+skills:
+  - 30815
+  - 43739
+effects:
+  - Stealth
+title: Power Holosmith
+date: 2021-06-01
+rating: Good
+role: Damage
+profession: Engineer
+specialization: Holosmith
+conditions:
+  - Vulnerability
+  - Blinded
+  - Crippled
+  - Immobile
+code: "[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 2
+  - 4
+  - 4
+  - 3
+  - 4
+benchmark:
+  small:
+    dps: 38143
+    by: TJ [SC]
+    youtube: p6mZtHhu7GM
 ---
 
 The engineer build that currently fares best in fractals is the <Specialization text="Power Holosmith" name="Holosmith"/>, offering a mix of high damage and a relatively good amount of crowd control and utility in form of <Condition name="Vulnerability"/> and some <Condition name="Blinded"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>.
@@ -26,11 +42,12 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker"  weapon1MainSigil1="Force" weapon1OffSigil="Impact" weapon1OffType="Pistol" weapon1OffAffix="Berserker" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker"  weapon1MainSigil1="Force" weapon1OffSigil="Impact" weapon1OffType="Shield" weapon1OffAffix="Berserker" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
 
 <Card title="Alternative weapons">
-* Rifle with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
+* <Item id="46768"/> with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils.
 * Swords with slaying sigils.
+* <Item id="46767"/> to swap with <Item id="46770"/> for when you don't need CC.
 </Card>
 </GridItem>
 
@@ -133,9 +150,12 @@ You can switch to <Specialization name="Scrapper"/> and equip <Skill id="30815"/
 <Card title="CC skills">
 | | |
 | -- | -- |
+| <Skill id="21661"/> | 100 damage |
+| <Skill id="6057"/>  | 100 damage |
 | <Skill id="42009"/> | 232 damage |
 | <Skill id="42521"/> | 232 damage |
-| <Skill id="21661"/> | 100 damage |
+| <Skill id="42521"/> | 232 damage |
+
 </Card>
 
 </GridItem>
