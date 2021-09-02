@@ -53,10 +53,10 @@ Overall, this build is an excellent pick if taken as an alt class: it is meant f
 - Note that there are two slightly different variants of this build: one is meant for bosses with very short phases such as Ensolyss or Light Ai; the other one is meant for longer fights, where you will need to sustain damage for a longer period of time. This will also depend on your group. It will always be better to use the first variant with people you do not know well, or in situations where your party doesn't bring enough damage.
 - <Item name="afflicted"/> is a viable, more accessible alternative.
 - If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
-  <Grid>
-  <GridItem sm="4">
-  <Armor weight="Medium" helmAffix="Viper" helmRune="Nightmare" shouldersAffix="Viper" shouldersRune="Nightmare" coatAffix="Viper" coatRune="Nightmare" glovesAffix="Viper" glovesRune="Nightmare" leggingsAffix="Viper" leggingsRune="Nightmare" bootsAffix="Viper" bootsRune="Nightmare" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
-  </GridItem>
+<Grid>
+<GridItem sm="4">
+<Armor weight="Medium" helmAffix="Viper" helmRune="Nightmare" shouldersAffix="Viper" shouldersRune="Nightmare" coatAffix="Viper" coatRune="Nightmare" glovesAffix="Viper" glovesRune="Nightmare" leggingsAffix="Viper" leggingsRune="Nightmare" bootsAffix="Viper" bootsRune="Nightmare" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432" />
+</GridItem>
 
 <GridItem sm="4">
 <Weapons weapon1MainType="Pistol" weapon1MainAffix="Viper" weapon1MainSigil1="Malice" weapon1OffType="Dagger" weapon1OffAffix="Viper" weapon1OffSigil="bursting"   weapon2MainType="shortbow" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
