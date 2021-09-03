@@ -30,7 +30,7 @@ consumables: [78978, 49940]
 <GridItem sm="8">
 Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="Pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
 
-If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them by standing at the bonfire.
+If you gain too many stacks of *Hypothermia* (one every 5 seconds), reset them by standing at the bonfire.
 
 When there are only a few percent remaining, go near the fire to leave combat and pre-equip <Item id="49940"/> to be faster on the bridge.
 </GridItem>
@@ -44,9 +44,9 @@ When there are only a few percent remaining, go near the fire to leave combat an
 <Tab specialization="Weaver">
 Cast a <Skill name="Conjure Fiery Greatsword"/> for <Specialization name="Renegade"/> at the wall right before it melts.
 </Tab>
-  
+
 <Tab specialization="Renegade">
-First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Place <Item id="78978"/> then  skip to the first bonfire on the left with anything like: <Skill name="Conjure Fiery Greatsword"/> or <Item id="49940"/> or <Item id="85244"/>, place portal exit when you lit the fire, then go to the _Elemental source_, deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, what you need to do is in the next paragraph with video.
+First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Place <Item id="78978"/> then  skip to the first bonfire on the left with anything like: <Skill name="Conjure Fiery Greatsword"/> or <Item id="49940"/> or <Item id="85244"/>, place portal exit when you lit the fire, then go to the *Elemental source*, deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, what you need to do is in the next paragraph with video.
 </Tab>
 </Tabs>
 
@@ -54,11 +54,11 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 
 <Grid>
 <GridItem sm="6">
-## Elemental Source 
+## Elemental Source
 
 At the start of the fight, light up the five bonfires to remove the 10 stacks of *Rime Shield* from the boss. Each stack reduces its damage taken by 10%.
 
-Every 25%, the Elemental Source casts _Wind Gust_ (icy projectiles) which makes the bonfires loose health. If a bonfire goes down, you will need to throw firewood into it and light it up again using your special action key.
+Every 25%, the Elemental Source casts *Wind Gust* (icy projectiles) which makes the bonfires loose health. If a bonfire goes down, you will need to throw firewood into it and light it up again using your special action key.
 
 With reflects and high DPS you can simply burst the boss before any bonfire expires. Note that the Elemental Source is a structure so no potion or sigil will work on it.
 </GridItem>
@@ -70,8 +70,8 @@ With reflects and high DPS you can simply burst the boss before any bonfire expi
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="Renegade">
-Place a bubble on top of the _Elemental Source_, absorbing **EVERY** projectile so you do not have to dodge anymore.
-  
+Place a bubble on top of the *Elemental Source*, absorbing **EVERY** projectile so you do not have to dodge anymore.
+
 <Video title="Renegade bubble" youtube="ORcJL1p1pN8"/>
 </Tab>
 
@@ -82,34 +82,33 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 </GridItem>
 </Grid>
 
-
-
 ---
-
-
 
 <Grid>
 <GridItem sm="5">
 <Image src="./images/the_icy_forest.jpg" caption="The icy forest"/>
 </GridItem>
-  
+
 <GridItem sm="7">
-## Forest <Item id="8883" disableText/><Item id="24667" disableText/>  
-  
+## Forest <Item id="8883" disableText/><Item id="24667" disableText/>
+
 After the Elemental Source is destroyed, everyone except the fastest player can `/gg` and wait for the next checkpoint at the cave to trigger. Mobility skills and <Item id="85244"/> / <Item id="49940"/> are very good here, **skip videos below**.
 </GridItem>
-  
-<GridItem sm="12">  
+
+<GridItem sm="12">
 <Tabs>
 <Tab specialization="Soulbeast">
-<Video title="Ranger skip" timestamp="100"  youtube="3Zc_ZJqPD0s"/>  
+<Video title="Ranger skip" timestamp="100" youtube="3Zc_ZJqPD0s"/>
 </Tab>
+
 <Tab specialization="Berserker">
-<Video title="Warrior skip" timestamp="21"  youtube="29qQ2xU1YHk"/>
+<Video title="Warrior skip" timestamp="21" youtube="29qQ2xU1YHk"/>
 </Tab>
+
 <Tab specialization="Guardian">
 <Video title="Guardian skip" timestamp="258" youtube="MmJTsOhdQeo"/>
 </Tab>
+
 <Tab specialization="Daredevil">
 <Video title="Thief skip" timestamp="125" youtube="Alpgs_GaZV0"/>
 </Tab>
@@ -119,13 +118,13 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 
 <Grid>
 <GridItem sm="8">
-## Shaman Lornarr Dragonseeker <Item id="8883" disableText/><Item id="24667" disableText/>  
-  
+## Shaman Lornarr Dragonseeker <Item id="8883" disableText/><Item id="24667" disableText/>
+
 Stack <Boon name="Might"/> before the final boss. Make sure to dodge into the boss room to avoid getting <Condition name="Chilled"/> from the icy bolts.
 
-He gains 3 stacks of _Rime Shield_ reducing his incoming damage from the three respawning _Corrupted Ice Crystals_, destroy them before focusing the Shaman.
+He gains 3 stacks of *Rime Shield* reducing his incoming damage from the three respawning *Corrupted Ice Crystals*, destroy them before focusing the Shaman.
 
-At 75%, 50% and 25% you will need to kill a summoned _Icebrood Effigy_. Basically dodge every red circle during the fight and break the defiance bars immediately to prevent mechanics.
+At 75%, 50% and 25% you will need to kill a summoned *Icebrood Effigy*. Basically dodge every red circle during the fight and break the defiance bars immediately to prevent mechanics.
 
 <Image src="./images/shaman_lornarr_dragonseeker.jpg" caption="Shaman Lornarr Dragonseekers cave"/>
 </GridItem>
@@ -141,11 +140,10 @@ Take either <Skill name="Legendary Dwarf Stance"/> or <Skill name="Legendary Cen
 <Tab specialization="Tempest">
 Use <Specialization name="Tempest"/> <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.
 </Tab>
+
 <Tab specialization="Berserker">
-Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly! 
+Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly!
 </Tab>
 </Tabs>
 </GridItem>
 </Grid>
-
-

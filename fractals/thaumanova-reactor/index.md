@@ -41,6 +41,7 @@ sigils:
 <Grid>
 <GridItem sm="8">
 ## Start
+
 Activate the *Detonator* and wait for the <Specialization name="Renegade"/>, <Specialization name="Weaver"/>, <Specialization name="Guardian"/> or <Specialization name="Daredevil"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="Might"/> in the vestibule) or if no one can skip just walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
 </GridItem>
 
@@ -51,13 +52,13 @@ Activate the *Detonator* and wait for the <Specialization name="Renegade"/>, <Sp
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="Renegade">
-<Video title="Renegade skip" youtube="lEdoox14vME"/> 
+<Video title="Renegade skip" youtube="lEdoox14vME"/>
 </Tab>
 
 <Tab specialization="Weaver">
 <Video title="Weaver skip" timestamp="8" youtube="OjUvCp2h_04"/>
 </Tab>
-  
+
 <Tab specialization="Guardian">
 <Video title="Guardian skip" timestamp="480" youtube="MmJTsOhdQeo"/>
 </Tab>
@@ -66,45 +67,49 @@ Activate the *Detonator* and wait for the <Specialization name="Renegade"/>, <Sp
 <Video title="Daredevil skip" timestamp="217" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
-</GridItem> 
+</GridItem>
 </Grid>
 
 ---
 
 <Grid>
-<GridItem sm="12">  
+<GridItem sm="12">
 <Message>
 For a faster completion time you can split up. <Specialization name="Berserker"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Weaver"/> soloes Superheated Room <Label>West</Label> and <Specialization name="Renegade"/> and <Specialization name="Soulbeast"/> do Researcher Dormitories <Label>East</Label>.
-</Message> 
+</Message>
 </GridItem>
-  
+
 <GridItem sm="7">
 <Image src="./images/turret_room.jpg" caption="Golems patrol in the turret room"/>
+
 <Tabs>
 <Tab specialization="Guardian">
-If you decide to do it with 2 people ping anyone with least DPS to come help you. 
+If you decide to do it with 2 people ping anyone with least DPS to come help you.
 </Tab>
-</Tabs>  
+</Tabs>
 </GridItem>
+
 <GridItem sm="5">
 ## Repulsor lab <Label>South</Label>
-  
+
 This should be done by two people, **but can be soloed (usually by <Specialization name="Guardian"/>) as shown in the video below**. Learn the timing of the turret shots and jump or dodge over them. You can also take a *Safety Shield* from the beginning and use it to block shots for a short duration.
 
-One person activates the console to the left <Label circular>1</Label> to grant the other person short access to the console at the right <Label circular>2</Label>.
+One person activates the console to the left <Label>1</Label> to grant the other person short access to the console at the right <Label>2</Label>.
 
-Activating <Label circular>2</Label> enables short access to the two final consoles at <Label circular>3</Label>. You can bypass the <Condition name="Immobile"/> from triggering them by standing exactly in the middle and pressing both buttons at the same time.
+Activating <Label>2</Label> enables short access to the two final consoles at <Label>3</Label>. You can bypass the <Condition name="Immobile"/> from triggering them by standing exactly in the middle and pressing both buttons at the same time.
 </GridItem>
+
 <GridItem sm="12">
-<Video title="Guardian skip (But any class can do it)" timestamp="545" youtube="MmJTsOhdQeo"/>  
+<Video title="Guardian skip (But any class can do it)" timestamp="545" youtube="MmJTsOhdQeo"/>
 </GridItem>
 </Grid>
 
 ---
 
 <Grid>
-<GridItem sm="8">  
+<GridItem sm="8">
 ## Researcher Dormitories <Label>East</Label>
+
 2 people (usually <Specialization name="Renegade"/> and <Specialization name="Soulbeast"/>) should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
 </GridItem>
 
@@ -122,6 +127,7 @@ Activating <Label circular>2</Label> enables short access to the two final conso
 
 <GridItem sm="8">
 ## Superheated Room <Label>West</Label>
+
 This is usually soloed by the <Specialization name="Weaver"/> but other classes can do it as well, like in the **video shown below**.
 </GridItem>
 
@@ -134,9 +140,9 @@ This is usually soloed by the <Specialization name="Weaver"/> but other classes 
 <Tab specialization="Weaver">
 <Video title="Weaver skip" timestamp="28" youtube="OjUvCp2h_04"/>
 </Tab>
-   
+
 <Tab specialization="Guardian">
-<Video title="Guardian skip" timestamp="519" youtube="MmJTsOhdQeo"/>  
+<Video title="Guardian skip" timestamp="519" youtube="MmJTsOhdQeo"/>
 </Tab>
 
 <Tab specialization="Soulbeast">
@@ -144,7 +150,7 @@ This is usually soloed by the <Specialization name="Weaver"/> but other classes 
 </Tab>
 
 <Tab specialization="Berserker">
-<Video title="Berserker skip" timestamp="160"  youtube="REnmbN7sZFQ"/>
+<Video title="Berserker skip" timestamp="160" youtube="REnmbN7sZFQ"/>
 </Tab>
 
 <Tab specialization="Daredevil">
@@ -159,11 +165,12 @@ This is usually soloed by the <Specialization name="Weaver"/> but other classes 
 <Grid>
 <GridItem>
 ## Ooze Room: Subject 6 <Label>Northwest</Label>
+
 Gather at Subject 6 after finishing the other three colliders. During the fight, small and large (at 75%/50/25% health) Oozes will spawn and move toward it slowly, restoring its health when they reach it. Subject 6 also has a easily distinguishable *Shield Form*, hitting him then will give him stacks of *Overload*. Reaching 20 stacks results in a party wipe.
 
 There are two main tactics for killing it:
 
-**Option 1 (easy):** Everyone goes AFK until Subject 6 blocks for the first time. After the blocking is over, nuke him without killing any Oozes.  
+**Option 1 (easy):** Everyone goes AFK until Subject 6 blocks for the first time. After the blocking is over, nuke him without killing any Oozes.\
 Requires high damage and you may have to wait a while as the blocking occurs at random times.
 
 **Option 2 (coordinated):** The team nukes from the beginning ignoring the Oozes, but refrains from using crowd control effects and breaking his defiance bar. If Subject 6 starts blocking, immediately break the defiance bar using **unblockable** CC skills to bypass the Overload mechanic.
@@ -176,11 +183,10 @@ Requires high damage and you may have to wait a while as the blocking occurs at 
 <Tab specialization="Daredevil">
 Share <Skill id="13132"/> with 5 allies to deal 750 unblockable defiance bar damage.
 </Tab>
-<Tab specialization="Berserker">
-Equip <Skill id="14404"/> to make your CC skills unblockable.
-<Video youtube="XjRteFiMY2Y"/>
-</Tab>
 
+<Tab specialization="Berserker">
+Equip <Skill id="14404"/> to make your CC skills unblockable.<Video youtube="XjRteFiMY2Y"/>
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>
@@ -189,12 +195,12 @@ Equip <Skill id="14404"/> to make your CC skills unblockable.
 
 <Grid>
 <GridItem sm="8">
-## Thaumanova Anomaly  
-  
-After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="Might"/>.    
+## Thaumanova Anomaly
+
+After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="Might"/>.\
 During the fight, try to stack as much as possible on one or two adjacent platforms but don't die from <Instability name="Social Awkwardness"/> if it is present.
 
-Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (the beam dissolving the platforms) and the _Cosmic Instability_ debuff (occurring after 50% health). The _Flux Bomb_ debuff will also cause nearby platforms to disappear.
+Alternate the special *Hex Shield* skill between players for her *Gaze* attack (the beam dissolving the platforms) and the *Cosmic Instability* debuff (occurring after 50% health). The *Flux Bomb* debuff will also cause nearby platforms to disappear.
 </GridItem>
 
 <GridItem sm="4">

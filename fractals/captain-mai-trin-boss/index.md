@@ -20,8 +20,8 @@ sigils:
 
 <Grid>
 <GridItem sm="12">
-## Start  
-  
+## Start
+
 Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="Daze"/> with his stunning shield, use <Boon name="Stability"/>, blocks or skills that make you invulnerable against it.
 
 After you killed the mobs, use the Mistlock Singularity to reset cooldown then the teleporter to enter the boss area.
@@ -52,7 +52,7 @@ The key is to stack on Mai Trin during the whole fight: this way she will always
 
 Every 25% health, Mai Trin disappears and additional enemies will spawn while fiery cannons start shooting. Change your target to Horrik and bring him down by 25% of his health to make Mai Trin return. Use <Control name="Pull"/>s to stack the adds together and cleave them down.
 
-Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily, Mai Trin won't have any protective stacks below 25%, so focus your damage on Mai Trin. Killing Mai Trin finishes the fractal, therefore there is no incentive to kill Horrik before that. It is vital to bring reflections and <Boon name="Stability"/> to counter the elite adds that spawn after Mai Trin disappears at 25%. 
+Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily, Mai Trin won't have any protective stacks below 25%, so focus your damage on Mai Trin. Killing Mai Trin finishes the fractal, therefore there is no incentive to kill Horrik before that. It is vital to bring reflections and <Boon name="Stability"/> to counter the elite adds that spawn after Mai Trin disappears at 25%.
 
 <Tabs>
 <Tab specialization="Spellbreaker">
@@ -62,9 +62,7 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 </GridItem>
 
 <GridItem sm="5">
-  
-<Image src="./images/horrik.jpg" caption="First Mate Horrik"/>
-<Image src="./images/mai_trin.jpg" caption="Captain Mai Trin"/>
+<Image src="./images/horrik.jpg" caption="First Mate Horrik"/><Image src="./images/mai_trin.jpg" caption="Captain Mai Trin"/>
 
 <Tabs>
 <Tab specialization="Revenant">
@@ -74,12 +72,12 @@ It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile a
 
 <Tabs>
 <Tab specialization="soulbeast">
-You can block Horrik's cannon projectile with <Skill name="Counterattack" specialization="ranger"/> (Greatsword 4).
+You can block Horrik's cannon projectile with <Skill name="Counterattack"/> (Greatsword 4).
 </Tab>
+
 <Tab specialization="berserker">
 Play Greatsword with <Skill name="blood reckoning"/> for maximum cleave with double <Skill name="arcdivider"/>.
 </Tab>
 </Tabs>
 </GridItem>
-
 </Grid>
