@@ -17,7 +17,7 @@ conditions:
 boons:
   - Resolution
   - Aegis
-code: "[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 cmguides: /cm-guides/guardian/power-dragonhunter
 classification:
   - 3
@@ -61,15 +61,16 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46774" weapon2MainSigil1Id="24615" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2OffInfusionId="49432"/>
 
 <Card title="Alternative weapons">
--   Greatswords and Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 
--   Greatswords and foci with (see [Cheat Sheet](/guides/cheat-sheet))
+- Greatswords and Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 
--   Scepter for situational use
+- Greatswords and foci with (see [Cheat Sheet](/guides/cheat-sheet))
 
--   Maces for symbol precasting
+- Scepter for situational use
 
--   Staff for <Boon name="Might"/> stacking
+- Maces for symbol precasting
+
+- Staff for <Boon name="Might"/> stacking
 
 </Card>
 </GridItem>
@@ -80,6 +81,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
 <Card title="Notes">
+
 If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore the assassins pieces. You can of course mitigate this by increasing your agony resistance. You need at least 203 agony resistance to compensate the lacking precision.
 
 It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
@@ -100,13 +102,14 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46774" weapon2MainSigil1Id="24615" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2OffInfusionId="37131"/>
 
 <Card title="Alternative weapons">
--   Greatswords and Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 
--   Greatswords and foci with (see [Cheat Sheet](/guides/cheat-sheet))
+- Greatswords and Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 
--   Scepter for situational use
+- Greatswords and foci with (see [Cheat Sheet](/guides/cheat-sheet))
 
--   Staff for <Boon name="Might"/> stacking
+- Scepter for situational use
+
+- Staff for <Boon name="Might"/> stacking
 
 </Card>
 </GridItem>
@@ -127,6 +130,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 
 <Card title="CC skills">
+
 |                                                 |            |
 | ----------------------------------------------- | ---------- |
 | <Skill id="9093"/>                              | 300 damage |
@@ -136,6 +140,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | <Skill name="chainsoflight"/>                   | 250 damage |
 | <Skill name="hammerofwisdom"/>                  | 200 damage |
 | <Skill name="sanctuary"/>                       | 750 damage |
+
 </Card>
 </GridItem>
 
@@ -143,6 +148,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 <Skills healId="21664" utility1Id="30364" utility2Id="9168" utility3Id="9093" eliteId="30273"/>
 
 <Card title="Situational">
+
 |                                                        |                                                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
@@ -156,6 +162,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 | <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
 | <Skill name="testoffaith" size="big" disableText/>     | Can be precasted for a bit of extra damage.                                         |
 | <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+
 </Card>
 </GridItem>
 </Grid>
@@ -171,11 +178,13 @@ Generally it is important to apply <Boon name="Resolution"/> when you are about 
 <Grid>
 <GridItem xs="12" sm="6">
 <Card title="Information">
+
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt their rotation to the amount of time a group needs to finish a phase.\
 For that reason you will find some general notes for skill usage here.
 </Card>
 
 <Card title="Precasting">
+
 If you have a Mistlock Singularity present you can use these skills for precasts:
 
 1.  Cast <Skill name="litany of wrath"/> for <Boon name="Resolution"/>
@@ -199,23 +208,24 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 <Card title="Notes on skill usage:">
 -   Always start on sword
 
--   Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC.
+- Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC.
 
--   Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
+- Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
 
--   Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at **Artsariiv**, **Arkk**, **Siax** and **Ensolyss**.
+- Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at **Artsariiv**, **Arkk**, **Siax** and **Ensolyss**.
 
--   Don't interrupt your GS auto-attack chain.
+- Don't interrupt your GS auto-attack chain.
 
--   In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
+- In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
 
--   Don't waste your key skills on meaningless adds.
+- Don't waste your key skills on meaningless adds.
 
 </Card>
 </GridItem>
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
+
 **Rotation:**
 
 1.  <Skill name="banesignet" profession="guardian"/>
@@ -257,6 +267,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
+
 <Video youtube="C98JaabU6_c" caption="by Shetsa [SC]"/>
 </Card>
 </GridItem>
@@ -266,15 +277,14 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
 
--   Open with <Skill name="refraction"/> for <Boon name="resolution"/>
+- Open with <Skill name="refraction"/> for <Boon name="resolution"/>
 
--   Cast <Skill name="purify"/> and swap to spear. Camp spear now.
+- Cast <Skill name="purify"/> and swap to spear. Camp spear now.
 
--   Priority list:
+- Priority list:
 
-    1.  <Skill name="Zealots flurry"/> (Spear 2)
+  1.  <Skill name="Zealots flurry"/> (Spear 2)
 
-    2.  <Skill name="Symbol of spears"/> (Spear 4)
+  2.  <Skill name="Symbol of spears"/> (Spear 4)
 
-    3.  <Skill name="brilliance"/> (Spear 3)
-
+  3.  <Skill name="brilliance"/> (Spear 3)

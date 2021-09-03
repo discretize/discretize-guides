@@ -20,7 +20,7 @@ boons:
   - Stability
   - Resolution
   - Aegis
-code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -44,16 +44,15 @@ The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide pe
 
 This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
 
--   Permanent <Boon name="Quickness"/>.
+- Permanent <Boon name="Quickness"/>.
 
--   Good <Boon name="Might"/> uptime.
+- Good <Boon name="Might"/> uptime.
 
--   <Skill id="41780"/> for heals.
+- <Skill id="41780"/> for heals.
 
--   <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
+- <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
 
--   Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
-
+- Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
 
 One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 <Attribute name="Power"/> buff provided by <Skill name="Bane Signet"/>.
 
@@ -61,12 +60,11 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 
 <Divider text="Equipment"/>
 
--   Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
+- Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
 
--   If u have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>
+- If u have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>
 
--   Playing the raid DPS build with this traits performs almost identically.
-
+- Playing the raid DPS build with this traits performs almost identically.
 
 <Grid>
 <GridItem sm="4">
@@ -77,9 +75,10 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="geomancy" weapon2OffType="Torch" weapon2OffAffix="Viper" weapon2OffSigil="bursting" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2OffInfusionId="49432"/>
 
 <Card title="Swap Weapons">
--   Greatsword for pulling adds in Nightmare CM after MAMA.
 
--   A staff for <Boon name="Might"/> pre-stacking.
+- Greatsword for pulling adds in Nightmare CM after MAMA.
+
+- A staff for <Boon name="Might"/> pre-stacking.
 
 </Card>
 </GridItem>
@@ -102,6 +101,7 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 </Message>
 
 <Card title="Defiance Bar Damage">
+
 |                                              |                                                                                |
 | -------------------------------------------- | ------------------------------------------------------------------------------ |
 | <Skill id="45402"/>                          | 150 damage                                                                     |
@@ -109,6 +109,7 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 | <Skill name="Tome of Justice"/> (F1) Skill 3 | 150 damage                                                                     |
 | <Skill name="Chains of light"/>              | 325 damage over 6 seconds                                                      |
 | <Skill name="Sanctuary"/>                    | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
+
 </Card>
 </GridItem>
 
@@ -116,6 +117,7 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 <Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Signet of Wrath" elite="Feel My Wrath"/>
 
 <Card title="Situational Skills">
+
 |                                                        |                                                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
@@ -129,6 +131,7 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 | <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
 | <Skill name="Mantra of lore" size="big" disableText/>  | Cleanses multiple conditions thanks to charges.                                     |
 | <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+
 </Card>
 </GridItem>
 </Grid>
@@ -167,64 +170,59 @@ This build assumes the <Composition name="_CRGB"/>. <BuildLink specialization="S
 
 To keep up <Boon name="Quickness"/>:
 
--   Use <Skill name="Feel My Wrath"/> whenever ready
+- Use <Skill name="Feel My Wrath"/> whenever ready
 
--   Use <Skill name=" mantraofsolace"/> and <Skill name="mantraofpotence"/>. Keep in mind that <Skill name="mantraofsolace"/> does <Boon name="Quickness"/> only every seven seconds (<Trait name="liberatorsvow"/>)!
+- Use <Skill name=" mantraofsolace"/> and <Skill name="mantraofpotence"/>. Keep in mind that <Skill name="mantraofsolace"/> does <Boon name="Quickness"/> only every seven seconds (<Trait name="liberatorsvow"/>)!
 
--   Only use these skills close to your allies - try to "puke" on them with the mantras
+- Only use these skills close to your allies - try to "puke" on them with the mantras
 
--   Keep in mind that equipping or stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
-
+- Keep in mind that equipping or stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
--   <Skill name="Tome of Justice"/> (F1):
+- <Skill name="Tome of Justice"/> (F1):
 
-    -   Skill 1: One stack of <Condition name="Burning"/>
+  - Skill 1: One stack of <Condition name="Burning"/>
 
-    -   Skill 2: Two stacks of <Condition name="Burning"/>
+  - Skill 2: Two stacks of <Condition name="Burning"/>
 
-    -   Skill 3: An AoE pull
+  - Skill 3: An AoE pull
 
-    -   Skill 4: High power damage skill, applies five stacks of <Condition name="Burning"/>.
+  - Skill 4: High power damage skill, applies five stacks of <Condition name="Burning"/>.
 
-    -   Skill 5: Your bread and butter as <Specialization text="Condi Firebrand" name="Firebrand"/>: Share Ashes of the Just with allies applying a magnitude of <Condition name="Burning"/>.
+  - Skill 5: Your bread and butter as <Specialization text="Condi Firebrand" name="Firebrand"/>: Share Ashes of the Just with allies applying a magnitude of <Condition name="Burning"/>.
 
+- <Skill name="Tome of Resolve"/> (F2):
 
--   <Skill name="Tome of Resolve"/> (F2):
+  - Skill 2 is a party condition cleanse
 
-    -   Skill 2 is a party condition cleanse
+  - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
 
-    -   Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
+  - Skill 4 is a good party heal
 
-    -   Skill 4 is a good party heal
+  - Skill 5 increases healing on allies for 8s by 33% and converts up to 5 conditions to boons
 
-    -   Skill 5 increases healing on allies for 8s by 33% and converts up to 5 conditions to boons
+- <Skill name="Tome of Courage"/> (F3):
 
+  - Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
 
--   <Skill name="Tome of Courage"/> (F3):
+  - Skill 3 is a 5s reflect
 
-    -   Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
+  - Skill 4 grants <Boon name="Resistance"/> and breaks stun
 
-    -   Skill 3 is a 5s reflect
-
-    -   Skill 4 grants <Boon name="Resistance"/> and breaks stun
-
-    -   Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
-
-
+  - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
 \
 \
-
 
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
 <GridItem sm="6">
 <Card title="Rotation">
+
 <Message>
 **Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast! Never interrupt your axe auto attack chain! Keep <Skill name="purgingflames"/> on cooldown!**
 </Message>
@@ -271,17 +269,18 @@ Starting on Axe:
 
 20. <Skill name="Blazing Edge"/> (Axe 3)
 
-
 When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 </Card>
 </GridItem>
 
 <GridItem sm="6">
 <Card title="Golem rotation">
+
 <Video youtube="U1yYDskt3Cw" caption="by TJ"/>
 </Card>
 
 <Card title="Precasting">
+
 <Message>
 The most important part is to get the precast of Ashes of the Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
 </Message>
@@ -298,16 +297,15 @@ The most important part is to get the precast of Ashes of the Just right! You ha
 
 6.  Open <Skill id="44364"/> and use Skill 5 for more Ahes of the Just
 
-7.  Take the *Mistlock Singularity*
+7.  Take the _Mistlock Singularity_
 
 8.  Use <Skill name="Feelmywrath"/> again
 
 9.  Remember to swap back to <Trait name="loremaster"/>
 
-
 On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrath"/> for <Skill name="Renewed Focus"/>:
 
--   Cast <Skill name="Renewed Focus"/> while approaching the boss to refresh <Skill id="44364"/>.
+- Cast <Skill name="Renewed Focus"/> while approaching the boss to refresh <Skill id="44364"/>.
 
 </Card>
 </GridItem>

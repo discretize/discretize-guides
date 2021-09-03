@@ -3,7 +3,7 @@ title: Power Chronomancer
 date: 2021-06-01
 rating: Good
 role: Damage
-author: "Discord: [CnD] Tipcat#0698"
+author: 'Discord: [CnD] Tipcat#0698'
 profession: Mesmer
 specialization: Chronomancer
 skills:
@@ -27,7 +27,7 @@ boons:
   - Fury
   - Quickness
   - Alacrity
-code: "[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 2
   - 4
@@ -69,20 +69,20 @@ Utilize the gear optimizer if you are somewhere between 162 and 212 Agony Resist
 <BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Assassin" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
 <Card title="Extra Weapons">
--   Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 
--   Pistol is faster but lower burst so swap accordingly depending on your group.
+- Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 
-    -   Use it on Arkk to not wipe your group since the Warden 'protects' the Balls from your SAK.
+- Pistol is faster but lower burst so swap accordingly depending on your group.
 
+  - Use it on Arkk to not wipe your group since the Warden 'protects' the Balls from your SAK.
 
--   Torch for stealth, blasting and precasting
+- Torch for stealth, blasting and precasting
 
--   Greatsword for precasting at certain bosses.
+- Greatsword for precasting at certain bosses.
 
--   Staff for precasting at certain bosses.
+- Staff for precasting at certain bosses.
 
--   Shield for CC, blocks and precasting.
+- Shield for CC, blocks and precasting.
 
 </Card>
 </GridItem>
@@ -99,6 +99,7 @@ Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 <Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
 
 <Card title="Extra Note">
+
 You need Fractal Champion, <Item id="86175"/> and <Item id="70596"/>.
 </Card>
 </GridItem>
@@ -111,20 +112,20 @@ You need Fractal Champion, <Item id="86175"/> and <Item id="70596"/>.
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Assassin" accessory2Affix="Assassin" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
 <Card title="Extra Weapons">
--   Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 
--   Pistol is faster but lower burst so swap accordingly depending on your group.
+- Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 
-    -   Use it on Arkk to not wipe your group since the Warden 'protects' the Balls from your SAK.
+- Pistol is faster but lower burst so swap accordingly depending on your group.
 
+  - Use it on Arkk to not wipe your group since the Warden 'protects' the Balls from your SAK.
 
--   Torch for stealth, blasting and precasting
+- Torch for stealth, blasting and precasting
 
--   Greatsword for precasting at certain bosses.
+- Greatsword for precasting at certain bosses.
 
--   Staff for precasting at certain bosses.
+- Staff for precasting at certain bosses.
 
--   Shield for CC, blocks and precasting.
+- Shield for CC, blocks and precasting.
 
 </Card>
 </GridItem>
@@ -139,6 +140,7 @@ Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 <Armor weight="Light" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Assassin" leggingsRune="Scholar" bootsAffix="Assassin" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
 
 <Card title="Extra Note">
+
 You need Fractal God, <Item id="86175"/> and <Item id="70596"/>.
 </Card>
 </GridItem>
@@ -151,20 +153,20 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/>.
 <BackAndTrinkets backItemAffix="Berserker" accessory1Affix="Berserker" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Assassin" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
 
 <Card title="Extra Weapons">
--   Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 
--   Pistol is faster but lower burst so swap accordingly depending on your group.
+- Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 
-    -   Use it on Arkk to not wipe your group since the Warden 'protects' the Balls from your SAK.
+- Pistol is faster but lower burst so swap accordingly depending on your group.
 
+  - Use it on Arkk to not wipe your group since the Warden 'protects' the Balls from your SAK.
 
--   Torch for stealth, blasting and precasting
+- Torch for stealth, blasting and precasting
 
--   Greatsword for precasting at certain bosses.
+- Greatsword for precasting at certain bosses.
 
--   Staff for precasting at certain bosses.
+- Staff for precasting at certain bosses.
 
--   Shield for CC, blocks and precasting.
+- Shield for CC, blocks and precasting.
 
 </Card>
 </GridItem>
@@ -179,6 +181,7 @@ You need Fractal God, <Item id="86175"/> and <Item id="70596"/>.
 <Traits traits1="Dueling" traits1Selected="Phantasmal Fury,Fencers Finesse,Superiority Complex" traits2="Domination" traits2Selected="Empowered Illusions,Egotism,Vicious Expression" traits3="Chronomancer" traits3Selected="Time Catches Up,Improved Alacrity,Chronophantasma"/>
 
 <Card title="Situational Traits">
+
 <Traits traits1="Illusions" traits1Selected="Shatter Storm,Phantasmal Haste,Phantasmal Force" unembossed/>
 
 You can go this Illusions variant over the Domination traitline when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small"/> as well.
@@ -197,6 +200,7 @@ You can go this Illusions variant over the Domination traitline when you're faci
 <Skills heal="Signet of the Ether" utility1="Mirror Images" utility2="Mantra of Pain" utility3="Phantasmal Disenchanter" elite="Signet of Humility"/>
 
 <Card title="Situational Skills">
+
 Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 
 |                                                              |                                                                                                                                                                                            |
@@ -214,6 +218,7 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 | <Skill name="Mirage Thrust" size="big" disableText/>         | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
 | <Skill name="Jaunt" size="big" disableText/>                 | 450 range blink, 3 charges.                                                                                                                                                                |
 | <Skill name="Illusionary Ambush" size="big" disableText/>    | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
+
 </Card>
 </GridItem>
 </Grid>
@@ -223,18 +228,18 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 <Grid>
 <GridItem sm="8">
 <Card title="Skill priority">
-To play <Specialization text="Power Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go as phantasms are our main damage source but they are slower than  skills from other classes
+
+To play <Specialization text="Power Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go as phantasms are our main damage source but they are slower than skills from other classes
 
 If you lose yourself in the rotation follow this priority list.
 
 1.  Cast your phantasms whenever ready.
 
-    -   <Skill id="10174"/>
+    - <Skill id="10174"/>
 
-    -   <Skill id="10267"/>
+    - <Skill id="10267"/>
 
-    -   <Skill id="10282"/>
-
+    - <Skill id="10282"/>
 
 2.  Use <Skill id="21750"/> to recharge them all.
 
@@ -244,9 +249,7 @@ If you lose yourself in the rotation follow this priority list.
 
 5.  Use <Skill id="10334"/> and <Skill id="30525"/> (if used) off recharge.
 
-
--   <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
-
+- <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
 
 Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that <Skill name="Blurred Frenzy"/> and auto-attacks get higher priority if the boss is close to phasing.
 
@@ -258,6 +261,7 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 
 <GridItem sm="4">
 <Card title="CC skills">
+
 |                                    |                      |
 | ---------------------------------- | -------------------- |
 | <Skill name="Time Sink"/>          | 100-400 damage       |
@@ -270,6 +274,7 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 | <Skill name="Magic Bullet"/>       | 250 damage           |
 | <Skill name="Phantasmal Mage"/>    | 100 damage           |
 | <Condition name="Slow"/>           | 50 damage per second |
+
 </Card>
 </GridItem>
 </Grid>
@@ -279,6 +284,7 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 <Grid>
 <GridItem xs="12" sm="6">
 <Card title="Information">
+
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
 For that reason you can find a video with openers, that are efficient to use here.
 
@@ -288,37 +294,35 @@ They do however benefit from <Effect name="Exposed"/>.
 </Card>
 
 <Card title="Chronomancer openers">
+
 <Video caption="by Tipcat, edited by [dT] Vince" youtube="UY5HgwrCYoE"/>
 </Card>
 
 <Card title="Precasting">
+
 At the Mistlock Singularity
 
--   Blast fire fields with <Skill name="The Prestige"/>.
+- Blast fire fields with <Skill name="The Prestige"/>.
 
--   Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
+- Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
 
--   Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
+- Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
 
--   Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
-
+- Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
 
 At the boss (spawnable bosses)
 
--   You can precast <Skill name="The Prestige"/>, <Skill name="Tides of Time"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
-
+- You can precast <Skill name="The Prestige"/>, <Skill name="Tides of Time"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
 
 At the boss (prespawned bosses)
 
--   Precast rotation. Start on Staff or Shield.
-
+- Precast rotation. Start on Staff or Shield.
 
 1.  <Skill name="Phantasmal Warlock"/>
 
 2.  <Skill name="Phase Retreat"/>
 
     1.  Omit this step if <Skill name="Mimic"/> is precast
-
 
 3.  Swap to Greatsword from inventory
 
@@ -328,11 +332,9 @@ At the boss (prespawned bosses)
 
 6.  Swap to Focus and proceed with the regular rotation
 
+- If you start on Shield use <Skill name="Echo of Memory"/> before step 1.
 
--   If you start on Shield use <Skill name="Echo of Memory"/> before step 1.
-
--   Precasting phantasms on MAMA is possible but the timing is trickier in PuGs as combat starts once your group hits the boss.
-
+- Precasting phantasms on MAMA is possible but the timing is trickier in PuGs as combat starts once your group hits the boss.
 
 **Optional**
 
@@ -346,15 +348,14 @@ Alternatively you can also precast <Skill name="Well of Recall"/> to help with <
 
 <GridItem xs="12" sm="6">
 <Card title="Opener">
+
 These are basic openers, refer to the video for more advanced openers (video description for written rotation).
 
--   With <Skill name="Continuum Split"/>, Start on Sword/Focus
-
+- With <Skill name="Continuum Split"/>, Start on Sword/Focus
 
 1.  <Skill name="Phantasmal Warden"/>
 
     1.  <Skill name="Mirror Images"/> mid-cast.
-
 
 2.  Weapon Swap
 
@@ -364,21 +365,17 @@ These are basic openers, refer to the video for more advanced openers (video des
 
     2.  <Skill name="Mirror Images"/>(if you precast <Skill name="Mimic"/> )
 
-
-    -   You can delay your <Skill name="Continuum Split" disableText/> towards the end of the cast of <Skill name="Phantasmal Swordsman" disableText/> to give yourself more time.
-
+    - You can delay your <Skill name="Continuum Split" disableText/> towards the end of the cast of <Skill name="Phantasmal Swordsman" disableText/> to give yourself more time.
 
 4.  <Skill name="Phantasmal Disenchanter"/>
 
 5.  <Skill name="Illusionary Leap"/> into <Skill name="Signet of the Ether"/>
 
-    -   You want to use <Skill name="Signet of the Ether" disableText/> as soon as you see a clone spawn from <Skill name="Illusionary Leap"/>.
-
+    - You want to use <Skill name="Signet of the Ether" disableText/> as soon as you see a clone spawn from <Skill name="Illusionary Leap"/>.
 
 6.  <Skill name="Phantasmal Swordsman"/>
 
     1.  You'll want to cast <Skill name="Split Second"/>, <Skill name="Rewinder"/> and <Skill name="Time Sink"/> between this step and the next.
-
 
 7.  <Skill name="Phantasmal Disenchanter"/>
 
@@ -386,17 +383,13 @@ These are basic openers, refer to the video for more advanced openers (video des
 
 9.  <Skill name="Blurred Frenzy"/>(<Skill name="Continuum Split" disableText/> ends)
 
-    -   It's important that you use <Skill name="Blurred Frenzy" disableText/> to cancel the aftercast of <Skill name="Time Warp"/>.
+    - It's important that you use <Skill name="Blurred Frenzy" disableText/> to cancel the aftercast of <Skill name="Time Warp"/>.
 
-
-
--   Without <Skill name="Continuum Split"/>, Start on Sword/Focus
-
+- Without <Skill name="Continuum Split"/>, Start on Sword/Focus
 
 1.  <Skill name="Phantasmal Warden"/>
 
     1.  <Skill name="Mirror Images"/> mid-cast.
-
 
 2.  Weapon Swap
 
@@ -406,13 +399,11 @@ These are basic openers, refer to the video for more advanced openers (video des
 
 5.  <Skill name="Illusionary Leap"/> into <Skill name="Signet of the Ether"/>
 
-    -   You want to use <Skill name="Signet of the Ether" disableText/> as soon as you see a clone spawn from <Skill name="Illusionary Leap"/>.
-
+    - You want to use <Skill name="Signet of the Ether" disableText/> as soon as you see a clone spawn from <Skill name="Illusionary Leap"/>.
 
 6.  <Skill name="Phantasmal Swordsman"/>
 
     1.  You'll want to cast <Skill name="Split Second"/> and <Skill name="Rewinder"/> between this step and the next.
-
 
 7.  <Skill name="Phantasmal Disenchanter"/>
 
@@ -421,6 +412,7 @@ These are basic openers, refer to the video for more advanced openers (video des
 </Card>
 
 <Card title="Golem Rotation">
+
 <Video youtube="hkl9kewy_1k" caption="by Tipcat"/>
 </Card>
 </GridItem>

@@ -21,7 +21,7 @@ boons:
   - Stability
   - Resolution
   - Aegis
-code: "[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 cmguides: /cm-guides/guardian/power-firebrand
 classification:
   - 5
@@ -40,7 +40,7 @@ benchmark:
     youtube: G1Y1u4ZwJh8
 ---
 
-The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also ***Quickness Firebrand*** or ***Quickbrand***) provides permanent <Boon name="Quickness"/> to the party while dealing very decent DPS.
+The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing very decent DPS.
 
 It plays very similar to <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> with the addition of <Specialization name="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
 
@@ -69,13 +69,14 @@ Check the \[gear optimizer]\(http://old.discretize.eu) for more gear variants!
 <Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2OffInfusionId="49432"/>
 
 <Card title="Alternative weapons">
--   Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 
--   Greatswords and foci with (see \[Cheat Sheet]\(/guides/cheat-sheet))
+- Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 
--   Maces for symbol precast
+- Greatswords and foci with (see \[Cheat Sheet]\(/guides/cheat-sheet))
 
--   Hammer and/or Staff for <Boon name="Might"/> stacking
+- Maces for symbol precast
+
+- Hammer and/or Staff for <Boon name="Might"/> stacking
 
 </Card>
 </GridItem>
@@ -86,6 +87,7 @@ Check the \[gear optimizer]\(http://old.discretize.eu) for more gear variants!
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
 <Card title="Notes">
+
 Use <Trait name="Righthandstrength"/> when there are multiple <Specialization name="Guardian"/>s in your party. Only then you have permanent <Boon name="resolution"/>. \*\*Taking <Trait name="Righthandstrength"/> requires no assassin's pieces!\*\*
 </Card>
 </GridItem>
@@ -104,13 +106,14 @@ Check the \[gear optimizer]\(http://old.discretize.eu) for more gear variants!
 <Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffInfusionId="37131"/>
 
 <Card title="Alternative weapons">
--   Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 
--   Greatswords and foci with (see \[Cheat Sheet]\(/guides/cheat-sheet))
+- Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 
--   Maces for symbol precast
+- Greatswords and foci with (see \[Cheat Sheet]\(/guides/cheat-sheet))
 
--   Hammer and/or Staff for <Boon name="Might"/> stacking
+- Maces for symbol precast
+
+- Hammer and/or Staff for <Boon name="Might"/> stacking
 
 </Card>
 </GridItem>
@@ -121,6 +124,7 @@ Check the \[gear optimizer]\(http://old.discretize.eu) for more gear variants!
 <Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
 
 <Card title="Notes">
+
 You can play full berserker when you can ensure that <Boon name="Quickness"/> doesn't drop in combat.
 </Card>
 </GridItem>
@@ -135,6 +139,7 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 <Traits traits1="Radiance" traits1Selected="Healers Resolution,Retribution,Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath,Zealous Blade,Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>
 
 <Card title="Defiance Bar Damage">
+
 |                                                 |            |
 | ----------------------------------------------- | ---------- |
 | <Skill id="9093"/>                              | 300 damage |
@@ -143,6 +148,7 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 | Skill 3 in <Skill name="Tome of Justice"/> (F1) | 150 damage |
 | <Skill name="Chains of light"/>                 | 250 damage |
 | <Skill name="Sanctuary"/>                       | 750 damage |
+
 </Card>
 </GridItem>
 
@@ -150,6 +156,7 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 <Skills heal="Mantra of Solace" utility1="Mantra of Potence" utility2="Sword of Justice" utility3="Bane Signet" elite="Feel My Wrath"/>
 
 <Card title="Situational Skills">
+
 |                                                        |                                                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
@@ -163,6 +170,7 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 | <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
 | <Skill name="Mantra of lore" size="big" disableText/>  | Cleanses multiple conditions thanks to charges.                                     |
 | <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+
 </Card>
 </GridItem>
 </Grid>
@@ -171,112 +179,105 @@ You can play full berserker when you can ensure that <Boon name="Quickness"/> do
 
 To keep up <Boon name="Quickness"/>:
 
--   Use <Skill name="Feel My Wrath"/> whenever ready
+- Use <Skill name="Feel My Wrath"/> whenever ready
 
--   Use <Skill name="mantraofpotence"/> and <Skill name="mantraofsolace"/>
+- Use <Skill name="mantraofpotence"/> and <Skill name="mantraofsolace"/>
 
--   Only use these skills close to your allies - try to "puke" on them with the mantras
+- Only use these skills close to your allies - try to "puke" on them with the mantras
 
--   Keep in mind that equipping/stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
-
+- Keep in mind that equipping/stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-dragonhunter):
 
--   If the encounter allows you to, you can prestack the following symbols:
+- If the encounter allows you to, you can prestack the following symbols:
 
-    -   Equip Mace and precast <Skill name="Symbol of Faith"/>
+  - Equip Mace and precast <Skill name="Symbol of Faith"/>
 
-    -   Equip Scepter and precast <Skill name="Symbol of Punishment"/>
+  - Equip Scepter and precast <Skill name="Symbol of Punishment"/>
 
-    -   And finally, equip Sword and cast <Skill name="Symbol of Blades"/>
+  - And finally, equip Sword and cast <Skill name="Symbol of Blades"/>
 
-    -   This way, when the encounter starts, 3 symbols will hit the target and get up your stacks of <Trait name="symbolicavenger"/>
+  - This way, when the encounter starts, 3 symbols will hit the target and get up your stacks of <Trait name="symbolicavenger"/>
 
+- On greatsword:
 
--   On greatsword:
+  - Use <Skill name="Symbol of Resolution"/>, you should cancel the aftercast with weapon stowing or simply moving
 
-    -   Use <Skill name="Symbol of Resolution"/>, you should cancel the aftercast with weapon stowing or simply moving
+  - Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
 
-    -   Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
+- On Sword:
 
+  - Use <Skill name="Ray of Judgment"/>, try if possible to cancel the aftercast with weapon swap, stow or <Skill name="Symbol of Blades"/>
 
--   On Sword:
+  - Use <Skill name="Symbol of Blades"/>
 
-    -   Use <Skill name="Ray of Judgment"/>, try if possible to cancel the aftercast with weapon swap, stow or <Skill name="Symbol of Blades"/>
+  - Use <Skill name="Zealots Defense"/>
 
-    -   Use <Skill name="Symbol of Blades"/>
+  - <Skill name="Shield of Wrath"/> when you're not receiving hits - use it shortly before breaking defiance bars. Can also be used to help with stacking <Boon name="Might"/>
 
-    -   Use <Skill name="Zealots Defense"/>
+- Apart from that:
 
-    -   <Skill name="Shield of Wrath"/> when you're not receiving hits - use it shortly before breaking defiance bars. Can also be used to help with stacking <Boon name="Might"/>
+  - <Skill name="Bane Signet"/> to break defiance bars and provide the group with a temporary 216 <Attribute name="Power"/> buff
 
+  - <Skill id="9226"/> (after <Skill id="9147"/>) is nice CC skill as well
 
--   Apart from that:
+  - <Skill name="Sword of Justice"/> for additional DPS and vulnerability. Also provides 3 seconds of <Condition name="Crippled"/>
 
-    -   <Skill name="Bane Signet"/> to break defiance bars and provide the group with a temporary 216 <Attribute name="Power"/> buff
-
-    -   <Skill id="9226"/> (after <Skill id="9147"/>) is nice CC skill as well
-
-    -   <Skill name="Sword of Justice"/> for additional DPS and vulnerability. Also provides 3 seconds of <Condition name="Crippled"/>
-
-    -   Scepter plays the same as the sword, just without <Skill name="Zealots Defense"/>
-
-
+  - Scepter plays the same as the sword, just without <Skill name="Zealots Defense"/>
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
--   <Skill name="Tome of Justice"/> (F1):
+- <Skill name="Tome of Justice"/> (F1):
 
-    -   Skill 4 is a ticking AoE, good for single target and great for AoE DPS, provides fire field so make sure to use it before the fight to stack some might
+  - Skill 4 is a ticking AoE, good for single target and great for AoE DPS, provides fire field so make sure to use it before the fight to stack some might
 
-    -   Skill 5 makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
+  - Skill 5 makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
 
-    -   Skill 3 is an AoE pull (150 defiance bar damage)
+  - Skill 3 is an AoE pull (150 defiance bar damage)
 
-    -   Often these skills are used as an opener
+  - Often these skills are used as an opener
 
+- <Skill name="Tome of Resolve"/> (F2):
 
--   <Skill name="Tome of Resolve"/> (F2):
+  - Skill 2 is a party condition cleanse
 
-    -   Skill 2 is a party condition cleanse
+  - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
 
-    -   Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
+  - Skill 4 is a good party heal
 
-    -   Skill 4 is a good party heal
+  - Skill 5 increases healing on allies for 8s by 33% and converts up to 5 conditions to boons
 
-    -   Skill 5 increases healing on allies for 8s by 33% and converts up to 5 conditions to boons
+- <Skill name="Tome of Courage"/> (F3):
 
+  - Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
 
--   <Skill name="Tome of Courage"/> (F3):
+  - Skill 3 is a 5s reflect
 
-    -   Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
+  - Skill 4 grants <Boon name="Resistance"/> and breaks stun
 
-    -   Skill 3 is a 5s reflect
-
-    -   Skill 4 grants <Boon name="Resistance"/> and breaks stun
-
-    -   Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
-
-
+  - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
 <Divider text="Rotation / Skill Usage"/>
 
 <Grid>
 <GridItem xs="12" sm="6">
 <Card title="Information">
+
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
 For that reason you can find a video with openers, that are efficient to use here.
 </Card>
 
 <Card title="Firebrand openers">
+
 <Video caption="by MagicBot \[dT], edited by Vince \[dT]" youtube="pFUHvaqPOO0"/>
 </Card>
 </GridItem>
 
 <GridItem xs="12" sm="6">
 <Card title="Precasting">
+
 If you have a \_Mistlock Singularity\_ present you can use these skills for precasts:
 
 1.  Cast <Skill name="tome of justice"/> skill 4 and 5
@@ -300,6 +301,7 @@ If you have a \_Mistlock Singularity\_ present you can use these skills for prec
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
+
 \*\*Scepter/Sword Rotation:\*\*
 
 1.  <Skill name="banesignet" profession="guardian"/>
@@ -333,6 +335,7 @@ If you have a \_Mistlock Singularity\_ present you can use these skills for prec
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
+
 <Video youtube="G1Y1u4ZwJh8" caption="MajesticNoodle \[BATS]"/>
 </Card>
 </GridItem>
@@ -342,15 +345,14 @@ If you have a \_Mistlock Singularity\_ present you can use these skills for prec
 
 It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the power variant. If you still want to play <Specialization text="Power Quickness Firebrand" name="Firebrand"/> for whatever reason follow these rough guidelines.
 
--   Open with <Skill name="refraction"/> for <Boon name="resolution"/>
+- Open with <Skill name="refraction"/> for <Boon name="resolution"/>
 
--   Cast <Skill name="purify"/> and swap to spear. Camp spear now.
+- Cast <Skill name="purify"/> and swap to spear. Camp spear now.
 
--   Priority list:
+- Priority list:
 
-    1.  <Skill name="Zealots flurry"/> (Spear 2)
+  1.  <Skill name="Zealots flurry"/> (Spear 2)
 
-    2.  <Skill name="Symbol of spears"/> (Spear 4)
+  2.  <Skill name="Symbol of spears"/> (Spear 4)
 
-    3.  <Skill name="brilliance"/> (Spear 3)
-
+  3.  <Skill name="brilliance"/> (Spear 3)

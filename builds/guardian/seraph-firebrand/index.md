@@ -20,7 +20,7 @@ boons:
   - Stability
   - Swiftness
   - Aegis
-code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 5
   - 3
@@ -48,11 +48,12 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Seraph" weapon1MainSigil1="Smoldering" weapon1OffType="Torch" weapon1OffAffix="Seraph" weapon1OffSigil="Bursting" weapon2MainType="Staff" weapon2MainAffix="Seraph" weapon2MainSigil1="Transference" weapon2MainSigil2="Smoldering" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2MainInfusion2Id="49432"/>
 
 <Card title="Alternative Gear">
--   <Item id="80375"/> to replace <Item id="80158"/> in groups where less support or <Boon name="Might"/> is needed,
 
--   If you want to optimise for 100% <Condition name="Burning"/> duration, swap one Accessory to Vipers and use <Item id="92505"/>
+- <Item id="80375"/> to replace <Item id="80158"/> in groups where less support or <Boon name="Might"/> is needed,
 
--   In groups that require more support you can always swap consumables to <Item id="68634"/> and <Item id="67528"/>
+- If you want to optimise for 100% <Condition name="Burning"/> duration, swap one Accessory to Vipers and use <Item id="92505"/>
+
+- In groups that require more support you can always swap consumables to <Item id="68634"/> and <Item id="67528"/>
 
 </Card>
 </GridItem>
@@ -77,11 +78,12 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Celestial" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Celestial" weapon1OffSigil="Bursting" weapon2MainType="Staff" weapon2MainAffix="Celestial" weapon2MainSigil1="Transference" weapon2MainSigil2="Bursting" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2MainInfusion2Id="49432"/>
 
 <Card title="Alternative Gear">
--   Playing full Celestial over caps <Condition name="burning"/> duration, so if you want to optimize you can swap all but one of your trinkets to Seraphs, leaving one Celestial Accessory.
 
--   <Item id="47016"/> to replace <Item id="47020"/> in groups where less support or <Boon name="Might"/> is needed,
+- Playing full Celestial over caps <Condition name="burning"/> duration, so if you want to optimize you can swap all but one of your trinkets to Seraphs, leaving one Celestial Accessory.
 
--   In groups that require more support you can always swap consumables to <Item id="68634"/> and <Item id="67528"/>
+- <Item id="47016"/> to replace <Item id="47020"/> in groups where less support or <Boon name="Might"/> is needed,
+
+- In groups that require more support you can always swap consumables to <Item id="68634"/> and <Item id="67528"/>
 
 </Card>
 </GridItem>
@@ -106,9 +108,10 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 <Weapons weapon1MainType="Axe" weapon1MainAffix="Celestial" weapon1MainSigil1="Smoldering" weapon1OffType="Torch" weapon1OffAffix="Celestial" weapon1OffSigil="Bursting" weapon2MainType="Staff" weapon2MainAffix="Celestial" weapon2MainSigil1="Transference" weapon2MainSigil2="Smoldering" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2MainInfusion2Id="49432"/>
 
 <Card title="Alternative Gear">
--   <Item id="47016"/> to replace <Item id="47020"/> in groups where less support or <Boon name="Might"/> is needed,
 
--   In groups that require more support you can always swap consumables to <Item id="68634"/> and <Item id="67528"/>
+- <Item id="47016"/> to replace <Item id="47020"/> in groups where less support or <Boon name="Might"/> is needed,
+
+- In groups that require more support you can always swap consumables to <Item id="68634"/> and <Item id="67528"/>
 
 </Card>
 </GridItem>
@@ -127,12 +130,14 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 <Grid>
 <GridItem sm="7">
 <Card title="Build Guide by Ciello">
+
 <Video youtube="uV6eHEQKTms" caption="Although made in a previous patch, nothing has changed for this build."/>
 </Card>
 
 <Traits traits1="Radiance" traits1Selected="Right Hand Strength,Radiant Fire,Amplified Wrath" traits2="Honor" traits2Selected="protectorsrestoration,Empowering Might,Writ of Persistence" traits3="Firebrand" traits3Selected="Liberators Vow,Legendary Lore,Loremaster"/>
 
 <Card title="Defiance Bar Damage">
+
 |                                                 |                   |
 | ----------------------------------------------- | ----------------- |
 | <Skill name="Sanctuary"/>                       | 750 damage        |
@@ -141,6 +146,7 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 | <Skill id="9093"/>                              | 300 damage        |
 | <Skill name="Hammer of Wisdom"/>                | 200 damage        |
 | <Skill name="Chains of light"/>                 | 250 damage (50/s) |
+
 </Card>
 </GridItem>
 
@@ -148,6 +154,7 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 <Skills heal="Mantra of Solace" utility1="Mantra of Potence" utility2="" utility3="Sanctuary" elite="Feel My Wrath"/>
 
 <Card title="Situational Skills">
+
 |                                                       |                                                                                                                                                                                  |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill id="9153" size="big" disableText/>             | When <Boon name="Stability"/> or a stunbreak is needed.                                                                                                                          |
@@ -162,14 +169,17 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 | <Skill name="renewed focus" size="big" disableText/>  | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds.                                                                                              |
 | <Skill id="9247" size="big" disableText/>             | A 1200 range teleport to an enemy.                                                                                                                                               |
 | <Skill id="9246" size="big" disableText/>             | A 1,200 range teleport to an ally.                                                                                                                                               |
+
 </Card>
 
 <Card title="Alternative traits">
+
 |                                                             |                                                                                                                              |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>.                                                     |
 | <Trait name="pureofheart" size="big" disableText/>          | Taken if the group is struggling with healing.                                                                               |
 | <Trait name="stalwartspeed" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/>). |
+
 </Card>
 </GridItem>
 </Grid>
@@ -178,14 +188,13 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 
 Keeping up <Boon name="Quickness"/> is a lot easier than with a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> thanks to the increased <Attribute name="Boon Duration"/>. Nevertheless, it has less room for errors compared to <BuildLink build="Heal Firebrand" specialization="Firebrand"/>! General guidelines for keeping up <Boon name="Quickness"/>:
 
--   Use <Skill name="Feel My Wrath"/> whenever ready.
+- Use <Skill name="Feel My Wrath"/> whenever ready.
 
--   Use <Skill name="Mantra of Potence"/> off cooldown and <Skill name="Mantra of Solace"/> every 7 seconds due to the cooldown of <Trait name="Liberators Vow"/>
+- Use <Skill name="Mantra of Potence"/> off cooldown and <Skill name="Mantra of Solace"/> every 7 seconds due to the cooldown of <Trait name="Liberators Vow"/>
 
--   Only use these skills close to your allies - try to "puke" on them with the mantras
+- Only use these skills close to your allies - try to "puke" on them with the mantras
 
--   Keep in mind that equipping/stowing a tome grants you (only you, not your party members!) 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
-
+- Keep in mind that equipping/stowing a tome grants you (only you, not your party members!) 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 <Message>
 To play <Trait name="Legendary Lore"/> you need to have at least 60% boon duration to upkeep <Boon name="Quickness"/>. Both the Seraph and the Celestial builds have 40% from gear. meaning you will need to get the rest from agony resistance and consumables. If you cannot get enough boon duration to be safe just play with <Trait name="Stalwart Speed"/>!
@@ -196,91 +205,83 @@ Getting the weapon swaps right is probably the hardest part (more info below). G
 
 **General information:**
 
--   On Axe/Torch:
+- On Axe/Torch:
 
-    -   Use <Skill name="Symbol of Vengeance"/>
+  - Use <Skill name="Symbol of Vengeance"/>
 
-    -   Use <Skill name="Zealots Flame"/> into <Skill name="Zealots Fire"/>
+  - Use <Skill name="Zealots Flame"/> into <Skill name="Zealots Fire"/>
 
-    -   Use <Skill name="Cleansing Flame"/>
+  - Use <Skill name="Cleansing Flame"/>
 
-    -   Try not to interrupt you auto attack chain
+  - Try not to interrupt you auto attack chain
 
-    -   Make sure to have <Skill name="Blazing Edge"/> ready for when you need to CC or need to pull in any adds.
+  - Make sure to have <Skill name="Blazing Edge"/> ready for when you need to CC or need to pull in any adds.
 
+- In <Skill name="Tome of Justice"/>:
 
--   In <Skill name="Tome of Justice"/>:
+  - Your standard DPS rotation is Chapter 2: Igniting Burst (F1-2), Chapter 4: Scorched Aftermath (F1-4), Epilogue: Ashes of the Just (F1-5), Chapter 1: Searing Spell (F1-1), Igniting Burst (F1-2).
 
-    -   Your standard DPS rotation is Chapter 2: Igniting Burst (F1-2), Chapter 4: Scorched Aftermath (F1-4), Epilogue: Ashes of the Just (F1-5), Chapter 1: Searing Spell (F1-1), Igniting Burst (F1-2).
+  - Don't be afraid to replace a skill, preferably Chapter 1: Searing Spell (F1-1) or Chapter 2: Igniting Burst (F1-2), with Chapter 3: Heated Rebuke (F1-3) for more CC or to pull any adds.
 
-    -   Don't be afraid to replace a skill, preferably Chapter 1: Searing Spell (F1-1) or Chapter 2: Igniting Burst (F1-2), with Chapter 3: Heated Rebuke (F1-3) for more CC or to pull any adds.
+- On Staff:
 
+  - Use <Skill name="Empower"/>
 
--   On Staff:
+  - Blast fire fields with <Skill name="holystrike"/>. If there is no fire field you can put one down with tome1-4
 
-    -   Use <Skill name="Empower"/>
+  - Use <Skill name="Symbol of Swiftness"/>
 
-    -   Blast fire fields with <Skill name="holystrike"/>. If there is no fire field you can put one down with tome1-4
+- Apart from that:
 
-    -   Use <Skill name="Symbol of Swiftness"/>
+  - <Skill name="Sanctuary"/> or <Skill name="Bane Signet"/> to break defiance bars. Using <Skill name="Bane Signet"/> to provide the group with a temporary 216 <Attribute name="Power"/> buff (Should also be used when there is no defiance bar ready but it will be off cooldown for the next phase).
 
-
--   Apart from that:
-
-    -   <Skill name="Sanctuary"/> or <Skill name="Bane Signet"/> to break defiance bars. Using <Skill name="Bane Signet"/> to provide the group with a temporary 216 <Attribute name="Power"/> buff (Should also be used when there is no defiance bar ready but it will be off cooldown for the next phase).
-
-    -   Remember to be smart about your free utility swap and adjust as necessary to the encounter and your party.
-
-
+  - Remember to be smart about your free utility swap and adjust as necessary to the encounter and your party.
 
 Suggested key moments to swap to staff and <Skill name="Empower"/>:
 
--   **MAMA**: There is no exact key moment and you need to decide on your own when to swap to staff.
+- **MAMA**: There is no exact key moment and you need to decide on your own when to swap to staff.
 
--   **Siax**: This build has quite good damage and is fairly self sustained enabling you to kill your add quickly. Swap to staff for the last few percent and be ready to <Skill name="Empower"/> in the middle. This works better the slower the group is due to weapon swap cooldown. If another person helps you kill your add (typically the <Specialization name="Renegade"/>) you can chill on staff for the add so you are ready to swap to Axe/Torch sooner.
+- **Siax**: This build has quite good damage and is fairly self sustained enabling you to kill your add quickly. Swap to staff for the last few percent and be ready to <Skill name="Empower"/> in the middle. This works better the slower the group is due to weapon swap cooldown. If another person helps you kill your add (typically the <Specialization name="Renegade"/>) you can chill on staff for the add so you are ready to swap to Axe/Torch sooner.
 
--   **Enso**: Be on staff at the beginning of every phase and use <Skill name="Empower"/> while Ensolyss is invulnerable.
+- **Enso**: Be on staff at the beginning of every phase and use <Skill name="Empower"/> while Ensolyss is invulnerable.
 
--   **Skorvald**: Anomalies 2 and 4. In case your group gets too fast you might have to skip <Skill name="Empower"/> at the 2nd island. When using the 66% portal make sure to drop a <Skill name="Symbol of Swiftness"/> on Skorvald before swapping to Axe/Torch.
+- **Skorvald**: Anomalies 2 and 4. In case your group gets too fast you might have to skip <Skill name="Empower"/> at the 2nd island. When using the 66% portal make sure to drop a <Skill name="Symbol of Swiftness"/> on Skorvald before swapping to Axe/Torch.
 
--   **Artsariiv**: If your party deals the majority of its damage in the middle you want to empower at 66% and 33% shortly before she becomes vulnerable. If not you may empower while she is jumping away and the team kills the Anomaly.
+- **Artsariiv**: If your party deals the majority of its damage in the middle you want to empower at 66% and 33% shortly before she becomes vulnerable. If not you may empower while she is jumping away and the team kills the Anomaly.
 
--   **Arkk**: Finish your orb first by camping in the light field and auto attacking with the superior weapon (staff) so you can precast <Skill name="Empower"/> and <Skill name="Symbol of Swiftness"/>.
+- **Arkk**: Finish your orb first by camping in the light field and auto attacking with the superior weapon (staff) so you can precast <Skill name="Empower"/> and <Skill name="Symbol of Swiftness"/>.
 
--   **Ai**: On light Ai you will want to <Skill name="Empower"/> mid at the beginning of the fight and after each split phase. You should also swap to Staff during the split mechanic so you can cast <Skill name="Empower"/> as everyone returns to the middle. On Dark Ai this is mostly the same aside from the lack of split phases so keep an eye on <Boon name="might"/> and be ready to swap to Staff when needed. Remember with the amount of movement on this fight to be casting <Skill name="Symbol of Swiftness"/> where possible to help keep everyone moving.
-
+- **Ai**: On light Ai you will want to <Skill name="Empower"/> mid at the beginning of the fight and after each split phase. You should also swap to Staff during the split mechanic so you can cast <Skill name="Empower"/> as everyone returns to the middle. On Dark Ai this is mostly the same aside from the lack of split phases so keep an eye on <Boon name="might"/> and be ready to swap to Staff when needed. Remember with the amount of movement on this fight to be casting <Skill name="Symbol of Swiftness"/> where possible to help keep everyone moving.
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
--   <Skill name="Tome of Resolve"/> (F2):
+- <Skill name="Tome of Resolve"/> (F2):
 
-    -   Skill 2 is a party condition cleanse
+  - Skill 2 is a party condition cleanse
 
-    -   Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
+  - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
 
-    -   Skill 4 is a good party heal
+  - Skill 4 is a good party heal
 
-    -   Skill 5 increases healing on allies for 8s by 33% and converts up to 5 conditions to boons
+  - Skill 5 increases healing on allies for 8s by 33% and converts up to 5 conditions to boons
 
+- <Skill name="Tome of Courage"/> (F3):
 
--   <Skill name="Tome of Courage"/> (F3):
+  - Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
 
-    -   Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
+  - Skill 3 is a 5s reflect
 
-    -   Skill 3 is a 5s reflect
+  - Skill 4 grants <Boon name="Resistance"/> and breaks stun
 
-    -   Skill 4 grants <Boon name="Resistance"/> and breaks stun
-
-    -   Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
-
-
+  - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
 <Grid>
 <GridItem xs="12" sm="6">
 <Card title="Precasting">
-If you have a *Mistlock Singularity* present you can use these skills for precasts:
+
+If you have a _Mistlock Singularity_ present you can use these skills for precasts:
 
 1.  Cast <Skill name="tome of justice"/> skill 4 and 5
 
@@ -292,9 +293,9 @@ If you have a *Mistlock Singularity* present you can use these skills for precas
 
 5.  Use <Skill name="Feelmywrath"/>
 
-6.  Use <Skill name="banesignet"/>  (If you have it)
+6.  Use <Skill name="banesignet"/> (If you have it)
 
-7.  Take *Mistlock Singularity*
+7.  Take _Mistlock Singularity_
 
 8.  Use <Skill name="Feelmywrath"/>
 
@@ -303,6 +304,7 @@ If you have a *Mistlock Singularity* present you can use these skills for precas
 
 <GridItem xs="12" sm="6">
 <Card title="Example opener">
+
 **Staff/Axe - Torch "Rotation":**
 
 1.  <Skill name="Symbol of Swiftness" profession="guardian"/> (Staff 3)
@@ -328,7 +330,6 @@ If you have a *Mistlock Singularity* present you can use these skills for precas
     4.  Chapter 1: Searing Spell (F1-1)
 
     5.  Chapter 2: Igniting Burst (F1-2)
-
 
 8.  <Skill name="Cleansing Flame" profession="guardian"/> (Torch 5)
 

@@ -37,6 +37,7 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 </Card>
 
 <Card title="Soft CC table">
+
 | Condition                    | CC per second  |
 | ---------------------------- | -------------- |
 | <Condition name="Fear"/>     | 100 per second |
@@ -47,6 +48,7 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 | <Condition name="Blinded"/>  | 20 per second  |
 | <Condition name="Weakness"/> | 20 per second  |
 | <Condition name="Crippled"/> | 15 per second  |
+
 </Card>
 </GridItem>
 </Grid>

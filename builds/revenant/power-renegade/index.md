@@ -17,7 +17,7 @@ boons:
   - Alacrity
   - Might
   - Stability
-code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
+code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 cmguides: /cm-guides/revenant/power-renegade
 classification:
   - 5
@@ -44,10 +44,9 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 
 <Divider text="Equipment"/>
 
--   Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
+- Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
--   Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade"/>s it is recommended to play at least 80% boon duration.
-
+- Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade"/>s it is recommended to play at least 80% boon duration.
 
 <Tabs outlined>
 <Tab title="162 Agony Resistance">
@@ -128,22 +127,27 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 
 <GridItem sm="4">
 <Card title="Situational Traits">
+
 |                                           |                                                                                                                                                                                                                       |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait id="1754" size="big" disableText/> | On a lot of encounters and especially in slower groups, <Trait name="SwiftTermination"/> will be worse than <Trait name="DanceOfDeath"/>. <Trait name="SwiftTermination"/> offers less survivability but is burstier. |
 | <Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low.                                                                                                                            |
+
 </Card>
 
 <Card title="Situational Skills">
+
 |                                            |                                                                                        |
 | ------------------------------------------ | -------------------------------------------------------------------------------------- |
 | <Skill id="28075" size="big" disableText/> | This skill grants you <Effect name="Superspeed"/> which is really useful for skipping. |
+
 </Card>
 </GridItem>
 
 <GridItem sm="8">
 <Card title="Herald Precasting">
-Sometimes it is worth precasting with <Specialization name="Herald"/> because <Specialization name="Herald"/> has access to <Skill id="51667"/> which is *incredibly* strong skill to precast, if you can manage to fit it into your groups precasting. If your group is blasting <Boon name="Might"/>, you can forgo using <Skill id="29321"/> in your precasting and just precast <Boon name="Alacrity"/> and extending everyone else's boons with <Skill id="51667"/>.
+
+Sometimes it is worth precasting with <Specialization name="Herald"/> because <Specialization name="Herald"/> has access to <Skill id="51667"/> which is _incredibly_ strong skill to precast, if you can manage to fit it into your groups precasting. If your group is blasting <Boon name="Might"/>, you can forgo using <Skill id="29321"/> in your precasting and just precast <Boon name="Alacrity"/> and extending everyone else's boons with <Skill id="51667"/>.
 
 It is recommended to have a build template for this, so you can quickly swap between templates by using hotkeys (need to be set up in the settings). Here's the Herald trait line:<Traits traits1Id="52" traits1="Herald" traits1SelectedIds="1806,1738,1772" unembossed/>
 
@@ -174,62 +178,60 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 <Grid>
 <GridItem sm="12">
 <Card title="Abilities">
+
 **Citadel Order Skills:**
 
--   <Skill name="Heroic Command"/> - Share two stacks of <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack.
+- <Skill name="Heroic Command"/> - Share two stacks of <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack.
 
--   <Skill name="Citadel Bombardment"/> - Fire ten missiles that inflict high damage and <Condition name="Burning"/>.
+- <Skill name="Citadel Bombardment"/> - Fire ten missiles that inflict high damage and <Condition name="Burning"/>.
 
--   <Skill name="Orders from Above"/> - Share four pulses of <Boon name="Alacrity"/>.
-
+- <Skill name="Orders from Above"/> - Share four pulses of <Boon name="Alacrity"/>.
 
 ---
 
 **Sword Skills:**
 
--   <Skill name="Preparation Thrust"/> - The auto-attack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on up to three targets, with each explosion hitting three targets. Potentially hitting nine times.
+- <Skill name="Preparation Thrust"/> - The auto-attack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on up to three targets, with each explosion hitting three targets. Potentially hitting nine times.
 
--   <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
+- <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
 
--   <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to yourself.
+- <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to yourself.
 
--   <Skill name="Shackling Wave"/> - High damage skill, however, should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
+- <Skill name="Shackling Wave"/> - High damage skill, however, should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
 
--   <Skill name="Death strike"/> - Shadowstep to the target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allow it to be used for damage.
-
+- <Skill name="Death strike"/> - Shadowstep to the target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allow it to be used for damage.
 
 **Staff Skills:**
 
--   <Skill name="Rapid Swipe"/> - The auto-attack chain cleaves and the last hit provides a small amount of healing to allies.
+- <Skill name="Rapid Swipe"/> - The auto-attack chain cleaves and the last hit provides a small amount of healing to allies.
 
--   <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
+- <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
 
--   <Skill name="Warding Rift"/> - A two second block that causes <Condition name="Blinded"/> foes.
+- <Skill name="Warding Rift"/> - A two second block that causes <Condition name="Blinded"/> foes.
 
--   <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
+- <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
 
--   <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Control name="Knockback"/>.
-
+- <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Control name="Knockback"/>.
 
 ---
 
 **Notable Traits:**
 
--   <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
+- <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
 
--   <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which makes your attack steal health. This trait is the DPS alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of damage, but doesn't scale with <Effect name="Exposed"/>. Pulls ahead over <Trait name="Swift Termination"/> in fights where majority of damage is dealt outside of <Effect name="Exposed"/> debuff (on Artsariiv and Arkk). Also worth taking in PuG groups on most bosses to ensure Scholar buff uptime and due to lower <Effect name="Exposed"/> uptime on bosses.
+- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which makes your attack steal health. This trait is the DPS alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of damage, but doesn't scale with <Effect name="Exposed"/>. Pulls ahead over <Trait name="Swift Termination"/> in fights where majority of damage is dealt outside of <Effect name="Exposed"/> debuff (on Artsariiv and Arkk). Also worth taking in PuG groups on most bosses to ensure Scholar buff uptime and due to lower <Effect name="Exposed"/> uptime on bosses.
 
--   <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
+- <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
 
--   <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
+- <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
 
--   <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
+- <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
 
--   <Trait name="Brutal Momentum"/> - 33% Critical chance increase when your endurance is full.
+- <Trait name="Brutal Momentum"/> - 33% Critical chance increase when your endurance is full.
 
--   <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased by 50%.
+- <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased by 50%.
 
--   <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%.
+- <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%.
 
 </Card>
 </GridItem>
@@ -238,103 +240,100 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 <Grid>
 <GridItem sm="12">
 <Card title="Legends">
+
 **<Skill name="Legendary Renegade Stance"/>**
 
--   <Skill name="Breakrazors Bastion"/> - Summons a spirit that heals you on cast and pulses heal to allies in an area around it. Reduces damage taken from conditions by 50%.
+- <Skill name="Breakrazors Bastion"/> - Summons a spirit that heals you on cast and pulses heal to allies in an area around it. Reduces damage taken from conditions by 50%.
 
--   <Skill name="Razorclaws Rage"/> - Summons a spirit that causes your party to inflict <Condition name="Bleeding"/> on attack.
+- <Skill name="Razorclaws Rage"/> - Summons a spirit that causes your party to inflict <Condition name="Bleeding"/> on attack.
 
--   <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ of a second once per second for six seconds.
+- <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ of a second once per second for six seconds.
 
--   <Skill name="Icerazors Ire"/> - Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.</Condition>
+- <Skill name="Icerazors Ire"/> - Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.</Condition>
 
--   <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealt by your party while healing them for each attack.
-
+- <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealt by your party while healing them for each attack.
 
 ---
 
 **<Skill name="Legendary Assassin Stance"/>**
 
--   <Skill name="Enchanted Daggers"/> - Every ½ second your next six attacks siphon life from your target.
+- <Skill name="Enchanted Daggers"/> - Every ½ second your next six attacks siphon life from your target.
 
--   <Skill name="Phase Traversal"/> - Shadowsteps you to your target and gives you two stacks of unblockable.
+- <Skill name="Phase Traversal"/> - Shadowsteps you to your target and gives you two stacks of unblockable.
 
--   <Skill name="Riposting Shadows"/> - Stunbreak and evade that removes movement-impairing conditions like <Condition name="Crippled"/>.
+- <Skill name="Riposting Shadows"/> - Stunbreak and evade that removes movement-impairing conditions like <Condition name="Crippled"/>.
 
--   <Skill name="Impossible Odds"/> - **Toggle:** Damage modifier, grants you another hit on your attacks and increases your movement speed.
+- <Skill name="Impossible Odds"/> - **Toggle:** Damage modifier, grants you another hit on your attacks and increases your movement speed.
 
--   <Skill name="Jade Winds"/> - Deal damage, inflict <Condition name="Vulnerability"/> and <Control name="Stun"/> five nearby enemies.
-
+- <Skill name="Jade Winds"/> - Deal damage, inflict <Condition name="Vulnerability"/> and <Control name="Stun"/> five nearby enemies.
 
 ---
 
 **<Skill name="Legendary Dwarf Stance"/>**
 
--   <Skill name="Soothing Stone"/> - Powerful self heal and condition cleanse.
+- <Skill name="Soothing Stone"/> - Powerful self heal and condition cleanse.
 
--   <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field.
+- <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field.
 
--   <Skill name="Forced Engagement"/> - Shoot out a chain to your target that applies <Condition name="Taunt"/> and <Condition name="Slow"/> to your target and four nearby enemies.
+- <Skill name="Forced Engagement"/> - Shoot out a chain to your target that applies <Condition name="Taunt"/> and <Condition name="Slow"/> to your target and four nearby enemies.
 
--   <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
+- <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
 
--   <Skill name="Rite of the Great Dwarf"/> - Stunbreak which reduces incoming damage by 50% for your party.
-
+- <Skill name="Rite of the Great Dwarf"/> - Stunbreak which reduces incoming damage by 50% for your party.
 
 ---
 
 **<Skill name="Legendary Demon Stance"/>**
 
--   <Skill name="Empowering Misery"/> - A decent self-heal that heals more for each unique condition on you.
+- <Skill name="Empowering Misery"/> - A decent self-heal that heals more for each unique condition on you.
 
--   <Skill name="Pain Absorption"/> - Draw one condition from nearby allies and provide <Boon name="Resistance"/> to your party. Also works as a stunbreak.
+- <Skill name="Pain Absorption"/> - Draw one condition from nearby allies and provide <Boon name="Resistance"/> to your party. Also works as a stunbreak.
 
--   <Skill name="Banish Enchantment"/> - Removes three boons from enemies in a line up to five unique enemies and causes <Condition name="Chilled"/> on enemies hit.
+- <Skill name="Banish Enchantment"/> - Removes three boons from enemies in a line up to five unique enemies and causes <Condition name="Chilled"/> on enemies hit.
 
--   <Skill name="Call to Anguish"/> - Jump to a location and pull five nearby enemies inflicting <Condition name="Chilled"/> on them.
+- <Skill name="Call to Anguish"/> - Jump to a location and pull five nearby enemies inflicting <Condition name="Chilled"/> on them.
 
--   <Skill name="Embrace the Darkness"/> - **Toggle:** Deal damage to nearby enemies and pulse <Condition name="Torment"/> to them. Drains energy when toggled on.
-
+- <Skill name="Embrace the Darkness"/> - **Toggle:** Deal damage to nearby enemies and pulse <Condition name="Torment"/> to them. Drains energy when toggled on.
 
 ---
 
 **<Skill name="Legendary Centaur Stance"/>**
 
--   <Skill name="Project Tranquility"/> - Summon Ventari's Tablet which heals nearby allies every few seconds.
+- <Skill name="Project Tranquility"/> - Summon Ventari's Tablet which heals nearby allies every few seconds.
 
--   <Skill name="Ventaris Will"/> - Move Ventari's Tablet to the target location.
+- <Skill name="Ventaris Will"/> - Move Ventari's Tablet to the target location.
 
--   <Skill name="Protective Solace"/> - **Toggle:** Summons a protective barrier that **absorbs** (not reflect) projectiles around the tablet.
+- <Skill name="Protective Solace"/> - **Toggle:** Summons a protective barrier that **absorbs** (not reflect) projectiles around the tablet.
 
--   <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
+- <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
 
--   <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
+- <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
 
--   <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet, cleansing one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
+- <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet, cleansing one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
 
 </Card>
 </GridItem>
 
 <GridItem sm="12">
 <Card title="Defiance Bar">
+
 **Hard Crowd Control:**
 
--   <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
+- <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
 
--   <Skill name="Darkrazors Daring"/> - Up to six hits of 100 <Control name="Daze"/>.
+- <Skill name="Darkrazors Daring"/> - Up to six hits of 100 <Control name="Daze"/>.
 
--   <Skill name="Jade Winds"/> - 300 <Control name="Stun"/>.
+- <Skill name="Jade Winds"/> - 300 <Control name="Stun"/>.
 
--   <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
-
+- <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
 
 **Soft Crowd Control:**
 
--   <Skill name="Chilling Isolation"/> - <Condition name="Chilled"/> for 33 per second.
+- <Skill name="Chilling Isolation"/> - <Condition name="Chilled"/> for 33 per second.
 
--   <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
+- <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
 
--   <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
+- <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
 
 </Card>
 </GridItem>
@@ -345,12 +344,14 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 <Grid>
 <GridItem xs="12" sm="6">
 <Card title="Information">
+
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
 
 For that reason you can find a video with openers, that are efficient to use here.
 </Card>
 
 <Card title="Renegade openers">
+
 <Video caption="by Rubby, edited by Vince [dT]" youtube="QXmckcAyKf4"/>
 </Card>
 </GridItem>
@@ -367,6 +368,7 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 
 <GridItem xs="12" sm="6">
 <Card title="Burst Rotation">
+
 1.  <Skill name="Citadel Bombardment"/>
 
 2.  <Skill name="Chilling Isolation"/>
@@ -382,6 +384,7 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 
 <GridItem xs="12" sm="6">
 <Card title="Notes">
+
 Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/> and while your <Skill name="Impossibleodds"/> is up. This might not always be possible if you need to reserve energy for boons or in the case that your legend timings are off.
 
 With <Skill name="Legendary Demon Stance"/> you would want to use these abilities with <Skill name="Embrace the darkness"/> on.
