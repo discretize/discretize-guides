@@ -88,7 +88,7 @@ Check the \[gear optimizer]\(http://old.discretize.eu) for more gear variants!
 
 <Card title="Notes">
 
-Use <Trait name="Righthandstrength"/> when there are multiple <Specialization name="Guardian"/>s in your party. Only then you have permanent <Boon name="resolution"/>. \*\*Taking <Trait name="Righthandstrength"/> requires no assassin's pieces!\*\*
+Use <Trait name="Righthandstrength"/> when there are multiple <Specialization name="Guardian"/>s in your party. Only then you have permanent <Boon name="resolution"/>. **Taking <Trait name="Righthandstrength"/> requires no assassin's pieces!**
 </Card>
 </GridItem>
 </Grid>
@@ -302,7 +302,7 @@ If you have a \_Mistlock Singularity\_ present you can use these skills for prec
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-\*\*Scepter/Sword Rotation:\*\*
+**Scepter/Sword Rotation:**
 
 1.  <Skill name="banesignet" profession="guardian"/>
 
@@ -316,7 +316,7 @@ If you have a \_Mistlock Singularity\_ present you can use these skills for prec
 
 6.  <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
 
-7.  \*\*Weapon Swap\*\*
+7.  **Weapon Swap**
 
 8.  <Skill name="Sword of Justice" profession="guardian"/>
 
