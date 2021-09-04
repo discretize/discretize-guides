@@ -61,7 +61,7 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 
 At 1800 MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800, each MAMA becomes the most CC heavy fractal boss in the game. The <Specialization name="Berserker"/> needs to take an offhand mace with <Item id="24639"/> in addition to <Skill name="wildblow"/> and <Skill name="bullscharge"/>, and the <Specialization name="Firebrand"/> needs to bring <Skill name="HammerofWisdom"/> instead of <Skill name="sword of justice"/>.
 
-<Image src="./images/mama_restricted.png" caption="Restricted Mama CC distribution by Dissect [Dc]"/>
+<MDImage src="guides/cc-distribution/images/mama_restricted.png" caption="Restricted Mama CC distribution by Dissect [Dc]"/>
 </Tab>
 
 <Tab title="Siax">
@@ -69,7 +69,7 @@ At 1800 MAMA has a small defiance bar, but you need to break it three times duri
 
 At 2000 Siax has a medium-sized defiance bar that you should only have to break once if you are fast.
 
-<Image src="./images/siax.png" caption="Siax CC distribution"/>
+<MDImage src="guides/cc-distribution/images/siax.png" caption="Siax CC distribution"/>
 </Tab>
 
 <Tab title="Ensolyss">
@@ -79,13 +79,13 @@ At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss ha
 
 <Divider text="phase 1"/>
 
-<Image src="./images/enso_1.png" caption="Ensolyss Phase 1 CC distribution"/>
+<MDImage src="guides/cc-distribution/images/enso_1.png" caption="Ensolyss Phase 1 CC distribution"/>
 
 <Divider text="phase 2 and 3"/>
 
 The bigger bar in the second and third phase means that the <Specialization name="Berserker"/> needs to do an extra <Skill name="pommelbash"/> and that the weaver needs to do an extra <Skill name="polaricleap"/>.
 
-<Image src="./images/enso_2.png" caption="Ensolyss Phase 2 and 3 CC distribution"/>
+<MDImage src="guides/cc-distribution/images/enso_2.png" caption="Ensolyss Phase 2 and 3 CC distribution"/>
 </Tab>
 </Tabs>
 
@@ -97,7 +97,7 @@ At 2200 Skorvald the Shattered has one of the largest defiance bars out of all t
 
 If the <Specialization name="Renegade"/> precasts <Skill name="Darkrazorsdaring"/> and has decent positioning, getting 5 hits of <Skill name="Surge of the mists"/>, then the <Specialization name="Berserker"/> can forgo offhand mace in favour of a warhorn (with <Item id="24639"/>) for blasting <Boon name="Might"/> on the islands.
 
-<Image src="./images/skorvald.png" caption="Skorvald CC distribution"/>
+<MDImage src="guides/cc-distribution/images/skorvald.png" caption="Skorvald CC distribution"/>
 </Tab>
 
 <Tab title="Artsariiv">
@@ -107,7 +107,7 @@ At 2100 Artsariiv has a large defiance bar that needs to be broken quickly for t
 
 The remaining 750 defiance bar damage should come from the <Specialization name="Firebrand"/>'s <Skill name="Banesignet"/> and from <Specialization name="Berserker"/>'s <Skill name="headbutt"/> and either <Skill name="Tremor"/> or <Skill name="updraft"/> from <Specialization name="Weaver"/> if the <Specialization name="Berserker"/> isn't bringing an offhand mace.
 
-<Image src="./images/artsariiv.png" caption="Artsariiv CC distribution"/>
+<MDImage src="guides/cc-distribution/images/artsariiv.png" caption="Artsariiv CC distribution"/>
 </Tab>
 
 <Tab title="Arkk">
@@ -117,7 +117,7 @@ At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase
 
 The only reason the <Specialization name="Berserker"/> carries an off-hand mace on Arkk is to get the <Item name="severance"/> buff by precasting <Skill name="Tremor"/> after each bloom phase.
 
-<Image src="./images/arkk.png" caption="Arkk CC distribution"/>
+<MDImage src="guides/cc-distribution/images/arkk.png" caption="Arkk CC distribution"/>
 </Tab>
 </Tabs>
 

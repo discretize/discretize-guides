@@ -46,11 +46,11 @@ sigils:
 
 ## Assault Knights <Item id="50082" disableText/><Label>426,071 HP</Label>
 
-Stack <Boon name="Might"/> before jumping down. Kill the three *Assault Knights* (Red, Blue and Green), each of them has the same set of abilities: a PBAoE <Control name="Knockdown"/> and an AoE <Control name="Pull"/> which covers the entire room except the knight's position, both can be dodged.
+Stack <Boon name="Might"/> before jumping down. Kill the three _Assault Knights_ (Red, Blue and Green), each of them has the same set of abilities: a PBAoE <Control name="Knockdown"/> and an AoE <Control name="Pull"/> which covers the entire room except the knight's position, both can be dodged.
 
 Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your cooldowns.
 
-<Image src="./images/mama.jpg" caption="MAMA: The first boss"/>
+<MDImage src="fractals/nightmare/images/mama.jpg" caption="MAMA: The first boss"/>
 
 ## MAMA <Label>5,200,519 HP</Label>
 
@@ -66,13 +66,13 @@ Stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>
 
 The duration of the encounter heavily relies on how quickly your party can break the defiance bars throughout the fight, in addition to the amount of damage your party can generate in each phase. This is an average clear time and can be reached by organized teams as well as pick up groups. The class outlines below will be suitable for faster and slower kills as well.
 
-MAMA will arise, after being invulnerable for a few seconds its first attack will be a *spinning <Control name="Knockback"/>*. This one should be interrupted by CCing the boss fast enough. The consecutive spin attacks should be taken care of by the <Specialization name="Firebrand"/> as long as there is not to much AoE, that potentially removes <Boon name="Aegis"/> is around. This spin attack always hits on the *second* spin animation.
+MAMA will arise, after being invulnerable for a few seconds its first attack will be a _spinning <Control name="Knockback"/>_. This one should be interrupted by CCing the boss fast enough. The consecutive spin attacks should be taken care of by the <Specialization name="Firebrand"/> as long as there is not to much AoE, that potentially removes <Boon name="Aegis"/> is around. This spin attack always hits on the _second_ spin animation.
 
-Apart from that, turn away from your party members shortly before the *Vomit Toxin* hits (orange cone), otherwise you will 'infect' party members in front of you with it.
+Apart from that, turn away from your party members shortly before the _Vomit Toxin_ hits (orange cone), otherwise you will 'infect' party members in front of you with it.
 
-Every 25%, MAMA gets <Effect name="Invulnerability"/> and an *Assault Knight* (similar to the knights before) will spawn. Quickly break their defiance bar and burst them down as MAMA will continue it's attacks.
+Every 25%, MAMA gets <Effect name="Invulnerability"/> and an _Assault Knight_ (similar to the knights before) will spawn. Quickly break their defiance bar and burst them down as MAMA will continue it's attacks.
 
-When MAMA reaches 33%, it conjures a large *Nightmare Miasma* field around it which deals enormous damage. It will also become mobile, start jumping to players, offloading shockwaves which <Control name="Knockdown"/> and attacking with <Control name="Stun"/> cones. It is especially important to immediately kill the last *Assault Knight* at 25% health.
+When MAMA reaches 33%, it conjures a large _Nightmare Miasma_ field around it which deals enormous damage. It will also become mobile, start jumping to players, offloading shockwaves which <Control name="Knockdown"/> and attacking with <Control name="Stun"/> cones. It is especially important to immediately kill the last _Assault Knight_ at 25% health.
 
 Fast crowd control and animation knowledge are the keys to this fight.
 
@@ -83,12 +83,14 @@ Fast crowd control and animation knowledge are the keys to this fight.
 ## First set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
 
 Swap your weapon set to <Item name="Impact"/> and <Item name="Serpentslaying"/>. You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="Agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.\
-Learn the *Red Orb* patterns as they can quickly kill you, *Blue Orbs* will heal you for a large amount of health (even with Agony).\
+Learn the _Red Orb_ patterns as they can quickly kill you, _Blue Orbs_ will heal you for a large amount of health (even with Agony).\
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/altars.jpg" caption="The altars"/>
+
+<MDImage src="fractals/nightmare/images/altars.jpg" caption="The altars"/>
+
 </GridItem>
 </Grid>
 
@@ -106,7 +108,7 @@ Again, pull all enemies to the center (wait for the <Specialization name="Firebr
 
 Both side altars can easily be capped by a single person after another player has pulled down the mobs. Please note that you have to wait until the mobs are down before teleporting elsewhere to prevent them from running back.
 
-Contrary to the first set of altars, respawning *Veteran Hallucinations* counteract capping here. Use <Control name="Pull"/> to grab them out of the central altar and always have a positive amount of players inside.
+Contrary to the first set of altars, respawning _Veteran Hallucinations_ counteract capping here. Use <Control name="Pull"/> to grab them out of the central altar and always have a positive amount of players inside.
 
 After you capped all three altars, use `/gg` immediately if someone in the party needs it, then you can continue up to the 2nd boss. Before the ramp up, a group of Krait will attack you - simply keep walking to skip them. Use dodges, evades or skills that make you invulnerable to get through the cascading orbs and disable them by walking through the orb at the top of the ramp.
 
@@ -155,15 +157,15 @@ Stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>
 
 The duration of the encounter heavily relies on how much damage your group can generate in each phase and how quickly you can finish the adds. This is a rather fast clear time and can be reached by organized teams. Pick up groups might have a hard time reaching this duration, however the class-outlines below are still suitable for slower kills.
 
-During the fight, break his defiance bar (2000 CC damage) as fast as possible to interrupt his *Caustic Explosion* skill. Siax will wipe your party if you fail to interrupt it with enough crowd control. Pay attention to his bouncing orb barrages, the *Vomit Toxin* and the exploding *Volatile Hallucinations* (below 75% health). Do not stand in the red PBAoE when the inner circle reaches the outer to avoid spawning a *Nightmare Hallucination*. Watch your buffs: the <Specialization name="Firebrand"/> should give you <Boon name="Aegis"/>, which blocks this attack and requires no further action from your side.
+During the fight, break his defiance bar (2000 CC damage) as fast as possible to interrupt his _Caustic Explosion_ skill. Siax will wipe your party if you fail to interrupt it with enough crowd control. Pay attention to his bouncing orb barrages, the _Vomit Toxin_ and the exploding _Volatile Hallucinations_ (below 75% health). Do not stand in the red PBAoE when the inner circle reaches the outer to avoid spawning a _Nightmare Hallucination_. Watch your buffs: the <Specialization name="Firebrand"/> should give you <Boon name="Aegis"/>, which blocks this attack and requires no further action from your side.
 
-Attention! In average groups 5 *Volatile Hallucinations* will spawn in various locations around the arena. Each of them will target the closest player and apply a tether-like effect on them effectively making visible to who they are targeted on. Approaching the add will cause it explode the moment it reaches melee range which will cause <Control name="Daze"/> and apply conditions to all players in it's explosion radius. However the add will not explode if it's killed while it's target is outside of the explosion radius. A good practice is to move to the opposite side of the boss and let the add walk through the hitbox. This will cause the add to die by cleave before it reaches it's target, neutralizing the threat.
+Attention! In average groups 5 _Volatile Hallucinations_ will spawn in various locations around the arena. Each of them will target the closest player and apply a tether-like effect on them effectively making visible to who they are targeted on. Approaching the add will cause it explode the moment it reaches melee range which will cause <Control name="Daze"/> and apply conditions to all players in it's explosion radius. However the add will not explode if it's killed while it's target is outside of the explosion radius. A good practice is to move to the opposite side of the boss and let the add walk through the hitbox. This will cause the add to die by cleave before it reaches it's target, neutralizing the threat.
 
-When Siax reaches 66% health, he gains <Effect name="Invulnerability"/> and four *Echoes of the Unclean* will spawn in the North, East, South and West which need to be killed quickly to interrupt his *Caustic Explosions*. The same occurs at 33%, though the adds will have their spawning positions shifted clockwise.
+When Siax reaches 66% health, he gains <Effect name="Invulnerability"/> and four _Echoes of the Unclean_ will spawn in the North, East, South and West which need to be killed quickly to interrupt his _Caustic Explosions_. The same occurs at 33%, though the adds will have their spawning positions shifted clockwise.
 
 Assign players to each add before the fight starts by setting waypoints. In PuGs the <Specialization name="Firebrand"/> and <Specialization name="Renegade"/> will usually focus on one mob together due to their lower DPS.
 
-<Image src="./images/siax.jpg" caption="Siax the Corrupted"/>
+<MDImage src="fractals/nightmare/images/siax.jpg" caption="Siax the Corrupted"/>
 
 ---
 
@@ -186,14 +188,16 @@ Again, the key to this fight is fast crowd control. Break his defiance bar quick
 </GridItem>
 
 <GridItem>
-<Image src="./images/ensolyss.jpg" caption="Ensolyss: The final boss"/>
+
+<MDImage src="fractals/nightmare/images/ensolyss.jpg" caption="Ensolyss: The final boss"/>
+
 </GridItem>
 </Grid>
 
 ### Orb phases <Label>66%, 33%</Label>
 
 At 66% and 33%, Ensolyss will teleport to the middle and gain <Effect name="Invulnerability"/>. Your party will need to split up and cap five altars, similar to the ones before.\
-*Red Orbs* and stunning shockwaves emerge from the middle, learn the patterns to avoid any damage. Try to catch the *Blue Orbs* as they heal you for a significant amount. Note that *Blue Orbs* only spawn at 66% if all altars are capped as fast as possible.
+_Red Orbs_ and stunning shockwaves emerge from the middle, learn the patterns to avoid any damage. Try to catch the _Blue Orbs_ as they heal you for a significant amount. Note that _Blue Orbs_ only spawn at 66% if all altars are capped as fast as possible.
 
 After the orb phases, the defiance bar needs to be broken immediately to prevent Ensolyss from knocking everyone off the platform. His defiance bar will recover shortly after being broken for the first time, break it a second time (especially at 33% health) to further prevent his attacks and deal more damage thanks to <Item id="24868"/> and <Trait id="1502"/>.
 

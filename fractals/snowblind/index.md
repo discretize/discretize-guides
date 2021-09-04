@@ -30,13 +30,15 @@ consumables: [78978, 49940]
 <GridItem sm="8">
 Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="Pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
 
-If you gain too many stacks of *Hypothermia* (one every 5 seconds), reset them by standing at the bonfire.
+If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them by standing at the bonfire.
 
 When there are only a few percent remaining, go near the fire to leave combat and pre-equip <Item id="49940"/> to be faster on the bridge.
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/the_start_area.jpg" caption="The start area"/>
+
+<MDImage src="fractals/snowblind/images/the_start_area.jpg" caption="The start area"/>
+
 </GridItem>
 </Grid>
 
@@ -56,15 +58,17 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 <GridItem sm="6">
 ## Elemental Source
 
-At the start of the fight, light up the five bonfires to remove the 10 stacks of *Rime Shield* from the boss. Each stack reduces its damage taken by 10%.
+At the start of the fight, light up the five bonfires to remove the 10 stacks of _Rime Shield_ from the boss. Each stack reduces its damage taken by 10%.
 
-Every 25%, the Elemental Source casts *Wind Gust* (icy projectiles) which makes the bonfires loose health. If a bonfire goes down, you will need to throw firewood into it and light it up again using your special action key.
+Every 25%, the Elemental Source casts _Wind Gust_ (icy projectiles) which makes the bonfires loose health. If a bonfire goes down, you will need to throw firewood into it and light it up again using your special action key.
 
 With reflects and high DPS you can simply burst the boss before any bonfire expires. Note that the Elemental Source is a structure so no potion or sigil will work on it.
 </GridItem>
 
 <GridItem sm="6">
-<Image src="./images/the_elemental_source.jpg" caption="The Elemental Source"/>
+
+<MDImage src="fractals/snowblind/images/the_elemental_source.jpg" caption="The Elemental Source"/>
+
 </GridItem>
 
 <GridItem sm="12">
@@ -86,7 +90,9 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 
 <Grid>
 <GridItem sm="5">
-<Image src="./images/the_icy_forest.jpg" caption="The icy forest"/>
+
+<MDImage src="fractals/snowblind/images/the_icy_forest.jpg" caption="The icy forest"/>
+
 </GridItem>
 
 <GridItem sm="7">
@@ -122,11 +128,11 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 
 Stack <Boon name="Might"/> before the final boss. Make sure to dodge into the boss room to avoid getting <Condition name="Chilled"/> from the icy bolts.
 
-He gains 3 stacks of *Rime Shield* reducing his incoming damage from the three respawning *Corrupted Ice Crystals*, destroy them before focusing the Shaman.
+He gains 3 stacks of _Rime Shield_ reducing his incoming damage from the three respawning _Corrupted Ice Crystals_, destroy them before focusing the Shaman.
 
-At 75%, 50% and 25% you will need to kill a summoned *Icebrood Effigy*. Basically dodge every red circle during the fight and break the defiance bars immediately to prevent mechanics.
+At 75%, 50% and 25% you will need to kill a summoned _Icebrood Effigy_. Basically dodge every red circle during the fight and break the defiance bars immediately to prevent mechanics.
 
-<Image src="./images/shaman_lornarr_dragonseeker.jpg" caption="Shaman Lornarr Dragonseekers cave"/>
+<MDImage src="fractals/snowblind/images/shaman_lornarr_dragonseeker.jpg" caption="Shaman Lornarr Dragonseekers cave"/>
 </GridItem>
 
 <GridItem sm="4">

@@ -36,7 +36,9 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
 </GridItem>
 
 <GridItem sm="6">
-<Image src="./images/the_start_area.jpg" caption="The start area"/>
+
+<MDImage src="fractals/volcanic/images/the_start_area.jpg" caption="The start area"/>
+
 </GridItem>
 
 <GridItem sm="12">
@@ -71,15 +73,15 @@ If everyone LoS'ed the boss correctly, he will be close enough to <Skill id="569
 <GridItem sm="7">
 ## Grawl Shaman <Item id="8890" disableText/><Item id="24648" disableText/>
 
-Kill the *Veteran Grawl Shamans* to prevent them from sacrificing the captives. Control effects like <Control name="Stun"/> and <Condition name="Immobile"/> hinder them from reaching the edge.
+Kill the _Veteran Grawl Shamans_ to prevent them from sacrificing the captives. Control effects like <Control name="Stun"/> and <Condition name="Immobile"/> hinder them from reaching the edge.
 
-You will need to throw eight *Infused Stones* at the bubble protecting the Grawl Shaman boss to break it and make him vulnerable. The stones spawn on rockfalls, wait until the falling animation finishes and dodge into it to collect it. You can ping the Grawl Shaman (`Ctrl + T`) for easy targeting.
+You will need to throw eight _Infused Stones_ at the bubble protecting the Grawl Shaman boss to break it and make him vulnerable. The stones spawn on rockfalls, wait until the falling animation finishes and dodge into it to collect it. You can ping the Grawl Shaman (`Ctrl + T`) for easy targeting.
 
-After the bubble is broken, stand below the boss to LoS him and he will come down immediately. Throw another *Infused Stone* at him if his bubble reappears during the fight.
+After the bubble is broken, stand below the boss to LoS him and he will come down immediately. Throw another _Infused Stone_ at him if his bubble reappears during the fight.
 </GridItem>
 </Grid>
 
-<Image src="./images/the_grawl_shaman.jpg" caption="The Grawl Shaman"/>
+<MDImage src="fractals/volcanic/images/the_grawl_shaman.jpg" caption="The Grawl Shaman"/>
 
 ---
 
@@ -91,11 +93,11 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 
 Every 25% health, it gains a protective bubble and starts moving to a random villager. It will heal for about 20% health if it reaches their target, so break the bubble quickly by casting 40 offensive abilities while targeting the Imbued Shaman (you actually don't have to hit him). Try to keep him in the center as the villagers are located at the edge of the area.
 
-He will also spawn 10-30 *Lava Elementals* during this phase, kill them fast as they cast a lot of projectiles and inflict high <Condition name="Burning"/> stacks on the team. Note that repeated jumping prevents the application of <Condition name="Burning"/> from the floor.
+He will also spawn 10-30 _Lava Elementals_ during this phase, kill them fast as they cast a lot of projectiles and inflict high <Condition name="Burning"/> stacks on the team. Note that repeated jumping prevents the application of <Condition name="Burning"/> from the floor.
 
-Avoid the *Bash* and *Wing Buffer* attacks (they <Control name="Knockback"/>) and utilize conditions clears & reflects to finish the fractal successfully.
+Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="Knockback"/>) and utilize conditions clears & reflects to finish the fractal successfully.
 
-<Image src="./images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
+<MDImage src="fractals/volcanic/images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
 </GridItem>
 
 <GridItem sm="4">

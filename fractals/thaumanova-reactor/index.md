@@ -42,11 +42,13 @@ sigils:
 <GridItem sm="8">
 ## Start
 
-Activate the *Detonator* and wait for the <Specialization name="Renegade"/>, <Specialization name="Weaver"/>, <Specialization name="Guardian"/> or <Specialization name="Daredevil"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="Might"/> in the vestibule) or if no one can skip just walk up to the *Elite Flame Legion Fire Shaman*. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
+Activate the _Detonator_ and wait for the <Specialization name="Renegade"/>, <Specialization name="Weaver"/>, <Specialization name="Guardian"/> or <Specialization name="Daredevil"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="Might"/> in the vestibule) or if no one can skip just walk up to the _Elite Flame Legion Fire Shaman_. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/fire_shaman.jpg" caption="The Elite Flame Legion Fire Shaman"/>
+
+<MDImage src="fractals/thaumanova-reactor/images/fire_shaman.jpg" caption="The Elite Flame Legion Fire Shaman"/>
+
 </GridItem>
 
 <GridItem sm="12">
@@ -80,7 +82,7 @@ For a faster completion time you can split up. <Specialization name="Berserker"/
 </GridItem>
 
 <GridItem sm="7">
-<Image src="./images/turret_room.jpg" caption="Golems patrol in the turret room"/>
+<MDImage src="fractals/thaumanova-reactor/images/turret_room.jpg" caption="Golems patrol in the turret room"/>
 
 <Tabs>
 <Tab specialization="Guardian">
@@ -92,7 +94,7 @@ If you decide to do it with 2 people ping anyone with least DPS to come help you
 <GridItem sm="5">
 ## Repulsor lab <Label>South</Label>
 
-This should be done by two people, **but can be soloed (usually by <Specialization name="Guardian"/>) as shown in the video below**. Learn the timing of the turret shots and jump or dodge over them. You can also take a *Safety Shield* from the beginning and use it to block shots for a short duration.
+This should be done by two people, **but can be soloed (usually by <Specialization name="Guardian"/>) as shown in the video below**. Learn the timing of the turret shots and jump or dodge over them. You can also take a _Safety Shield_ from the beginning and use it to block shots for a short duration.
 
 One person activates the console to the left <Label>1</Label> to grant the other person short access to the console at the right <Label>2</Label>.
 
@@ -114,7 +116,9 @@ Activating <Label>2</Label> enables short access to the two final consoles at <L
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/researcher_dormitories.jpg" caption="The Researcher Dormitories"/>
+
+<MDImage src="fractals/thaumanova-reactor/images/researcher_dormitories.jpg" caption="The Researcher Dormitories"/>
+
 </GridItem>
 </Grid>
 
@@ -122,7 +126,9 @@ Activating <Label>2</Label> enables short access to the two final consoles at <L
 
 <Grid>
 <GridItem sm="4">
-<Image src="./images/superheated_room.jpg" caption="The Superheated Room"/>
+
+<MDImage src="fractals/thaumanova-reactor/images/superheated_room.jpg" caption="The Superheated Room"/>
+
 </GridItem>
 
 <GridItem sm="8">
@@ -166,7 +172,7 @@ This is usually soloed by the <Specialization name="Weaver"/> but other classes 
 <GridItem>
 ## Ooze Room: Subject 6 <Label>Northwest</Label>
 
-Gather at Subject 6 after finishing the other three colliders. During the fight, small and large (at 75%/50/25% health) Oozes will spawn and move toward it slowly, restoring its health when they reach it. Subject 6 also has a easily distinguishable *Shield Form*, hitting him then will give him stacks of *Overload*. Reaching 20 stacks results in a party wipe.
+Gather at Subject 6 after finishing the other three colliders. During the fight, small and large (at 75%/50/25% health) Oozes will spawn and move toward it slowly, restoring its health when they reach it. Subject 6 also has a easily distinguishable _Shield Form_, hitting him then will give him stacks of _Overload_. Reaching 20 stacks results in a party wipe.
 
 There are two main tactics for killing it:
 
@@ -177,7 +183,8 @@ Requires high damage and you may have to wait a while as the blocking occurs at 
 </GridItem>
 
 <GridItem>
-<Image src="./images/subject_6_block.jpg" caption="Subject 6 in block mode"/>
+
+<MDImage src="fractals/thaumanova-reactor/images/subject_6_block.jpg" caption="Subject 6 in block mode"/>
 
 <Tabs>
 <Tab specialization="Daredevil">
@@ -200,7 +207,7 @@ Equip <Skill id="14404"/> to make your CC skills unblockable.<Video youtube="XjR
 After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="Might"/>.\
 During the fight, try to stack as much as possible on one or two adjacent platforms but don't die from <Instability name="Social Awkwardness"/> if it is present.
 
-Alternate the special *Hex Shield* skill between players for her *Gaze* attack (the beam dissolving the platforms) and the *Cosmic Instability* debuff (occurring after 50% health). The *Flux Bomb* debuff will also cause nearby platforms to disappear.
+Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (the beam dissolving the platforms) and the _Cosmic Instability_ debuff (occurring after 50% health). The _Flux Bomb_ debuff will also cause nearby platforms to disappear.
 </GridItem>
 
 <GridItem sm="4">
@@ -212,4 +219,4 @@ It is favorable to run <Skill name="Legendary Renegade Stance"/> / <Skill name="
 </GridItem>
 </Grid>
 
-<Image src="./images/thaumanova_anomaly.jpg" caption="The Thaumanova Anomaly"/>
+<MDImage src="fractals/thaumanova-reactor/images/thaumanova_anomaly.jpg" caption="The Thaumanova Anomaly"/>

@@ -45,7 +45,9 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/start.jpg" caption="Mines in the water tunnel"/>
+
+<MDImage src="fractals/aetherblade/images/start.jpg" caption="Mines in the water tunnel"/>
+
 </GridItem>
 </Grid>
 
@@ -57,9 +59,9 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 <GridItem sm="8">
 After the door opens, you enter a large area with two deathly laser puzzles.
 
-The first one consists of a *moving laser square pattern* and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="Immobile"/> to you.
+The first one consists of a _moving laser square pattern_ and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="Immobile"/> to you.
 
-The second area is filled with *spinning lasers*. In exactly the same way as before, four consoles around the area have to be activated to disable the traps.
+The second area is filled with _spinning lasers_. In exactly the same way as before, four consoles around the area have to be activated to disable the traps.
 
 You don't need to kill a single mob and can bypass all traps with the following steps:
 
@@ -72,30 +74,38 @@ You don't need to kill a single mob and can bypass all traps with the following 
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/moving_lasers.jpg" caption="The moving laser pattern"/><Image src="./images/spinning_lasers.jpg" caption="The spinning lasers"/>
+
+<MDImage src="fractals/aetherblade/images/moving_lasers.jpg" caption="The moving laser pattern"/>
+
+<MDImage src="fractals/aetherblade/images/spinning_lasers.jpg" caption="The spinning lasers"/>
+
 </GridItem>
 
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="Revenant">
+
 To skip this part you are going to need a little jumping, damaging the Inquest with an AoE, non targetable skill like <Skill name="Shackling Wave"/>, then use <Skill name="Phase Traversal"/> on it, **when he came down from the ramp**. Give yourself <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 
 <Video title="Revenant skip" youtube="rePLyrDp3Pc"/>
 </Tab>
 
 <Tab specialization="elementalist">
+
 Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="Immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 
 <Video title="Elementalist skip" timestamp="45" youtube="OjUvCp2h_04"/>
 </Tab>
 
 <Tab specialization="Guardian">
+
 Use <Skill name="Sword of Justice"/> upon the platform, then teleport to it with <Skill name="Merciful Intervention"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 
 <Video title="Guardian skip" timestamp="460" youtube="MmJTsOhdQeo"/>
 </Tab>
 
 <Tab specialization="daredevil">
+
 You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> as condition clears. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 
 <Video title="Thief skip" youtube="Alpgs_GaZV0"/>
@@ -124,6 +134,7 @@ You can use <Skill name="Binding Blade"/> to group the mobs.
 </GridItem>
 
 <GridItem>
+
 ## Breach the gate <Item id="50082" disableText/>
 
 Kill the respawning enemies to fill the progress bar and open the gate. Avoid the dazing cannon shots and switch back your skills & traits if needed.
@@ -134,23 +145,25 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 
 <Grid>
 <GridItem>
+
 ## Final room (Frizz) <Item id="8887" disableText/><Item id="24672" disableText/>
 
-Talk to *Inspector Ellen Kiel* to teleport your party into the final room. Stack <Boon name="Might"/> as soon as you are in.
+Talk to _Inspector Ellen Kiel_ to teleport your party into the final room. Stack <Boon name="Might"/> as soon as you are in.
 
 Initially, there are Frizz and two Inquest enemies to fight. As soon as Frizz reaches 75%, he teleports to the middle and becomes invulnerable.
 
-After about five seconds, the first *Aetherblade Golem* wakes up and two *Small Lasers* start spinning. You can jump over the small lasers by utilizing the elevated boxes around.
+After about five seconds, the first _Aetherblade Golem_ wakes up and two _Small Lasers_ start spinning. You can jump over the small lasers by utilizing the elevated boxes around.
 
-When the first golem dies, the two *Small Lasers* will disappear and two more *Aetherblade Golems* wake up. *Large Lasers* start spinning which you cannot bypass without <Effect name="Invulnerability"/>.
+When the first golem dies, the two _Small Lasers_ will disappear and two more _Aetherblade Golems_ wake up. _Large Lasers_ start spinning which you cannot bypass without <Effect name="Invulnerability"/>.
 
-As soon as the two golems are dead, the two *Small Lasers* will join the two large lasers again and two final golems wake up. Kill those to finish the fight.
+As soon as the two golems are dead, the two _Small Lasers_ will join the two large lasers again and two final golems wake up. Kill those to finish the fight.
 
 If a golem walks through a laser, he powers up and blocks all attacks for a short time. Pay attention to their <Control name="Pull"/> attack, though it should not be a problem with high damage.
 </GridItem>
 
 <GridItem>
-<Image src="./images/frizz.jpg" caption="Frizz"/>
+
+<MDImage src="fractals/aetherblade/images/frizz.jpg" caption="Frizz"/>
 
 <Tabs>
 <Tab specialization="revenant">

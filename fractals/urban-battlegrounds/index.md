@@ -35,7 +35,9 @@ sigils:
 
 <Grid>
 <GridItem sm="6">
-<Image src="./images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy"/>
+
+<MDImage src="fractals/urban-battlegrounds/images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy"/>
+
 </GridItem>
 
 <GridItem sm="6">
@@ -43,7 +45,7 @@ sigils:
 
 Stack <Effect name="Stealth"/> in the tent and run towards Dulfy.
 
-Killing the *Burning Oil* above her is your highest priority. Control and cleave the trash mobs and utilize reflects and blocks while nuking her down. Destroy the gate after finishing her and gather on the other side of the wall.
+Killing the _Burning Oil_ above her is your highest priority. Control and cleave the trash mobs and utilize reflects and blocks while nuking her down. Destroy the gate after finishing her and gather on the other side of the wall.
 </GridItem>
 
 <GridItem sm="12">
@@ -81,7 +83,8 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply ca
 </GridItem>
 
 <GridItem sm="6">
-<Image src="./images/the_town.jpg" caption="A barricade in the town"/>
+
+<MDImage src="fractals/urban-battlegrounds/images/the_town.jpg" caption="A barricade in the town"/>
 
 <Tabs>
 <Tab specialization="ranger">
@@ -97,10 +100,12 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 <GridItem sm="6">
 ## Courtyard
 
-To capture the courtyard, you have to kill (or kite away) four groups of *Veteran Ascalonians*.
+To capture the courtyard, you have to kill (or kite away) four groups of _Veteran Ascalonians_.
 
-As soon as you capture the courtyard, the *Fire Caller* will start a ritual and enemy groups spawn at the gates (clockwise starting north).\
-<Image src="./images/the_courtyard.jpg" caption="The courtyard"/>
+As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and enemy groups spawn at the gates (clockwise starting north).
+
+<MDImage src="fractals/urban-battlegrounds/images/the_courtyard.jpg" caption="The courtyard"/>
+
 </GridItem>
 
 <GridItem sm="6">
@@ -121,6 +126,6 @@ Stay in <Skill id="5492"/> before Ashym for <Boon name="Might"/> stacking.
 
 ## Captain Ashym
 
-Stack <Boon name="Might"/> while Captain Ashym runs towards you. Break his defiance bar as frequent as possible and be careful with his *Meteor Shower* AoE skill. He also tends to block multiple times during the fight, stop wasting your skills in that case.
+Stack <Boon name="Might"/> while Captain Ashym runs towards you. Break his defiance bar as frequent as possible and be careful with his _Meteor Shower_ AoE skill. He also tends to block multiple times during the fight, stop wasting your skills in that case.
 
-Also pay attention to his boons as <Boon name="Resolution"/> deals high damage to yourself. At 25% health, he will equip a *Fiery Greatsword* and gain additional skills, just make sure to end the fight quickly.
+Also pay attention to his boons as <Boon name="Resolution"/> deals high damage to yourself. At 25% health, he will equip a _Fiery Greatsword_ and gain additional skills, just make sure to end the fight quickly.

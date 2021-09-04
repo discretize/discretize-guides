@@ -20,23 +20,29 @@ sigils:
 
 <Grid>
 <GridItem sm="12">
+
 ## Start
 
-Aggro the mobs and stack them on the corner. The *Champion Inquest Technician* applies a group-wide <Control name="Daze"/> with his stunning shield, use <Boon name="Stability"/>, blocks or skills that make you invulnerable against it.
+Aggro the mobs and stack them on the corner. The _Champion Inquest Technician_ applies a group-wide <Control name="Daze"/> with his stunning shield, use <Boon name="Stability"/>, blocks or skills that make you invulnerable against it.
 
 After you killed the mobs, use the Mistlock Singularity to reset cooldown then the teleporter to enter the boss area.
+
 </GridItem>
 
 <GridItem sm="8">
 <Tabs>
 <Tab specialization="Weaver">
+
 You can precast <Skill name="Conjure Fiery Greatsword"/> without it despawning early by placing a portal utilizing <Item id="78978"/> near the Mistlock Singularity and using it to return to the Mistlock Singularity for the precast before Mai Trin starts talking.
+
 </Tab>
 </Tabs>
 </GridItem>
 
 <GridItem sm="4">
-<Image src="./images/start.jpg" caption="The start area"/>
+
+<MDImage src="fractals/captain-mai-trin-boss/images/start.jpg" caption="The start area"/>
+
 </GridItem>
 </Grid>
 
@@ -46,7 +52,8 @@ You can precast <Skill name="Conjure Fiery Greatsword"/> without it despawning e
 
 <Grid>
 <GridItem sm="7">
-Mai Trin is protected by ten stacks of *Captain's Shield*, each stack reducing her incoming damage by 10%. The only way to remove stacks is by pulling her into electric fields from Horrik's alternating projectiles. Standing in the electric field will remove one stack per second from her. The fire field projectile from Horrik can be reflected and absorbed. You can easily recognize the projectile type from the icon above the targeted player.
+
+Mai Trin is protected by ten stacks of _Captain's Shield_, each stack reducing her incoming damage by 10%. The only way to remove stacks is by pulling her into electric fields from Horrik's alternating projectiles. Standing in the electric field will remove one stack per second from her. The fire field projectile from Horrik can be reflected and absorbed. You can easily recognize the projectile type from the icon above the targeted player.
 
 The key is to stack on Mai Trin during the whole fight: this way she will always be in an electric field, even if she teleports to the furthest player away.
 
@@ -62,17 +69,24 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 </GridItem>
 
 <GridItem sm="5">
-<Image src="./images/horrik.jpg" caption="First Mate Horrik"/><Image src="./images/mai_trin.jpg" caption="Captain Mai Trin"/>
+
+<MDImage src="fractals/captain-mai-trin-boss/images/horrik.jpg" caption="First Mate Horrik"/>
+
+<MDImage src="fractals/captain-mai-trin-boss/images/mai_trin.jpg" caption="Captain Mai Trin"/>
 
 <Tabs>
 <Tab specialization="Revenant">
+
 It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade trainline combo variant for more energy for the whole fight. Do not forget that <Skill name="Warding Rift"/> (Staff 3) can block Horrik's projectile if you stand into it!
+
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="soulbeast">
+
 You can block Horrik's cannon projectile with <Skill name="Counterattack"/> (Greatsword 4).
+
 </Tab>
 
 <Tab specialization="berserker">
