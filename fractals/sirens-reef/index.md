@@ -1,14 +1,20 @@
 ---
-title: "Siren's Reef"
-date: '2021-07-20'
-image: './images/header.jpg'
-group: 'T4'
+title: Siren's Reef
+date: 2021-07-20
+image: ./images/header.jpg
+group: T4
 api: 4494
 bosses: 3
-difficulties: [{ level: 78, ar: 111 }]
-cycle: 'Day'
-sigils: [{ id: 24868 }, { id: 24615 }]
-consumables: [8764, 8801]
+difficulties:
+  - level: 78
+    ar: 111
+cycle: Day
+consumables:
+  - 8764
+  - 8801
+sigils:
+  - id: 24868
+  - id: 24615
 ---
 
 <Grid>
@@ -92,7 +98,7 @@ You need to get a chest again, now from one of the shores (random which one). Us
 
 You need to get the chest once again from one of the shores. Use same tactic as before, throw the chest across. Use cannons to clear mobs.
 
-After recovering the treasure the second mini boss spawns named _First Mate Calix_. During the boss there will be a new mechanic that spawns AoE on one player, place this AoE outside the fighting zone. The knockoff mechanic from Mad Jack Squall is present as well. Kill him to start the next objective.
+After recovering the treasure the second mini boss spawns named _First Mate Calix_. During the boss there will be a new mechanic that spawns AoE on the player furthest away from the boss, place this AoE outside the fighting zone. The knockoff mechanic from Mad Jack Squall is present as well. Kill him to start the next objective.
 
 It will be a point capture event, you need to stay alive long enough to kill all mobs coming from the two sides of the ship. Use the cannon to clear most of the ghosts. After the event is done, the main boss spawns.
 
