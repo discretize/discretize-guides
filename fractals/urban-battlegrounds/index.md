@@ -35,11 +35,14 @@ sigils:
 
 <Grid>
 <GridItem sm="6">
-<Image src="./images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy"/>
-</GridItem>  
+
+<MDImage src="fractals/urban-battlegrounds/images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy"/>
+
+</GridItem>
+
 <GridItem sm="6">
 ## Siegemaster Dulfy
-  
+
 Stack <Effect name="Stealth"/> in the tent and run towards Dulfy.
 
 Killing the _Burning Oil_ above her is your highest priority. Control and cleave the trash mobs and utilize reflects and blocks while nuking her down. Destroy the gate after finishing her and gather on the other side of the wall.
@@ -48,7 +51,7 @@ Killing the _Burning Oil_ above her is your highest priority. Control and cleave
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="elementalist">
- If you are the first Weaver at the gate and still have <Effect name="Stealth"/>, cast <Skill id="5501"/> on the Burning Oil above Dulfy. At least one weaver should use <Skill id="5738"/> on the mobs and Dulfy. You can use <Skill id="5697"/> against the door for more damage. Use <Skill id="22572"/> for better cleave.
+If you are the first Weaver at the gate and still have <Effect name="Stealth"/>, cast <Skill id="5501"/> on the Burning Oil above Dulfy. At least one weaver should use <Skill id="5738"/> on the mobs and Dulfy. You can use <Skill id="5697"/> against the door for more damage. Use <Skill id="22572"/> for better cleave.
 </Tab>
 
 <Tab specialization="ranger">
@@ -60,7 +63,6 @@ Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profe
 </Tab>
 </Tabs>
 </GridItem>
-
 </Grid>
 
 ---
@@ -69,52 +71,54 @@ Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profe
 
 <Grid>
 <GridItem sm="6">
-  
 Again, stack <Effect name="Stealth"/> and skip past all the mob groups. Plan ahead to not run into any obstacles. Gather after reaching the courtyard.
 
 Note that there is a little jumping puzzle in case you are unlucky with barricades spawning, check out [this video](https://www.youtube.com/watch?v=d5uTRJ9iyEY) for reference. Using <Item id="8764"/> and <Item id="8801"/> also helps not aggroing the guards nearby. Watch out for the chicken that spawns there for an achievement (it is random if it's there or not), putting you in combat using the items, thus not being able to pull off the skip.
 
-<Tabs> 
+<Tabs>
 <Tab specialization="thief">
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
-</Tab>  
+</Tab>
 </Tabs>
 </GridItem>
 
 <GridItem sm="6">
-<Image src="./images/the_town.jpg" caption="A barricade in the town"/>  
-  
+
+<MDImage src="fractals/urban-battlegrounds/images/the_town.jpg" caption="A barricade in the town"/>
+
 <Tabs>
 <Tab specialization="ranger">
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
 </Tab>
-</Tabs> 
-</GridItem>  
+</Tabs>
+</GridItem>
 </Grid>
 
 ---
 
 <Grid>
-
 <GridItem sm="6">
 ## Courtyard
 
 To capture the courtyard, you have to kill (or kite away) four groups of _Veteran Ascalonians_.
 
-As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and enemy groups spawn at the gates (clockwise starting north).  
-<Image src="./images/the_courtyard.jpg" caption="The courtyard"/>
+As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and enemy groups spawn at the gates (clockwise starting north).
+
+<MDImage src="fractals/urban-battlegrounds/images/the_courtyard.jpg" caption="The courtyard"/>
+
 </GridItem>
 
 <GridItem sm="6">
 <Tabs>
 <Tab specialization="Renegade">
 For more experienced groups it is favorable to take <Skill name="Legendary Dwarf Stance"/> and go into the middle and casting <Skill name="Inspiring reinforcement"/> for <Boon name="Stability"/> against <Control name="Knockback"/> and <Control name="Daze"/> and <Skill name="Rite of the Great Dwarf"/> for damage reduction.
-</Tab>  
+</Tab>
 </Tabs>
+
 <Tabs>
 <Tab specialization="elementalist">
-<Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors *Rush* attack.    
-        Stay in <Skill id="5492"/> before Ashym for <Boon name="Might"/> stacking.
+<Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors *Rush* attack.\
+Stay in <Skill id="5492"/> before Ashym for <Boon name="Might"/> stacking.
 </Tab>
 </Tabs>
 </GridItem>

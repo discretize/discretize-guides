@@ -50,7 +50,7 @@ Stack <Boon name="Might"/> before jumping down. Kill the three _Assault Knights_
 
 Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your cooldowns.
 
-<Image src="./images/mama.jpg" caption="MAMA: The first boss"/>
+<MDImage src="fractals/nightmare/images/mama.jpg" caption="MAMA: The first boss"/>
 
 ## MAMA <Label>5,200,519 HP</Label>
 
@@ -81,12 +81,16 @@ Fast crowd control and animation knowledge are the keys to this fight.
 <Grid>
 <GridItem sm="8">
 ## First set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
-Swap your weapon set to <Item name="Impact"/> and <Item name="Serpentslaying"/>. You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="Agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.    
-Learn the *Red Orb* patterns as they can quickly kill you, *Blue Orbs* will heal you for a large amount of health (even with Agony).    
+
+Swap your weapon set to <Item name="Impact"/> and <Item name="Serpentslaying"/>. You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="Agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.\
+Learn the _Red Orb_ patterns as they can quickly kill you, _Blue Orbs_ will heal you for a large amount of health (even with Agony).\
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
 </GridItem>
+
 <GridItem sm="4">
-<Image src="./images/altars.jpg" caption="The altars"/>
+
+<MDImage src="fractals/nightmare/images/altars.jpg" caption="The altars"/>
+
 </GridItem>
 </Grid>
 
@@ -161,7 +165,7 @@ When Siax reaches 66% health, he gains <Effect name="Invulnerability"/> and four
 
 Assign players to each add before the fight starts by setting waypoints. In PuGs the <Specialization name="Firebrand"/> and <Specialization name="Renegade"/> will usually focus on one mob together due to their lower DPS.
 
-<Image src="./images/siax.jpg" caption="Siax the Corrupted"/>
+<MDImage src="fractals/nightmare/images/siax.jpg" caption="Siax the Corrupted"/>
 
 ---
 
@@ -182,14 +186,17 @@ Nearly all of Ensolyss' attacks do a <Control name="Knockback"/> or <Control nam
 
 Again, the key to this fight is fast crowd control. Break his defiance bar quickly to interrupt his high damage attacks. Always stack around the center area and do not try to follow him to the edge as he will simply teleport back most of the time.
 </GridItem>
+
 <GridItem>
-<Image src="./images/ensolyss.jpg" caption="Ensolyss: The final boss"/>
+
+<MDImage src="fractals/nightmare/images/ensolyss.jpg" caption="Ensolyss: The final boss"/>
+
 </GridItem>
 </Grid>
 
 ### Orb phases <Label>66%, 33%</Label>
 
-At 66% and 33%, Ensolyss will teleport to the middle and gain <Effect name="Invulnerability"/>. Your party will need to split up and cap five altars, similar to the ones before.  
+At 66% and 33%, Ensolyss will teleport to the middle and gain <Effect name="Invulnerability"/>. Your party will need to split up and cap five altars, similar to the ones before.\
 _Red Orbs_ and stunning shockwaves emerge from the middle, learn the patterns to avoid any damage. Try to catch the _Blue Orbs_ as they heal you for a significant amount. Note that _Blue Orbs_ only spawn at 66% if all altars are capped as fast as possible.
 
 After the orb phases, the defiance bar needs to be broken immediately to prevent Ensolyss from knocking everyone off the platform. His defiance bar will recover shortly after being broken for the first time, break it a second time (especially at 33% health) to further prevent his attacks and deal more damage thanks to <Item id="24868"/> and <Trait id="1502"/>.
@@ -198,6 +205,6 @@ Below 66%, Ensolyss gains a new ability where he smashes two quarters of the pla
 
 Below 33%, he may summon a special shockwave which travels inwards to him (contrary to the ones before) and deal enormous damage to everyone near him. With enough crowd control and DPS this should never occur.
 
-### Final phase <Label><15%</Label>
+### Final phase <Label>\<15%</Label>
 
 When Ensolyss reaches 15% health, he will stop using his usual attacks, but only a small bubble in the middle will protect you from his deathly rain. Krait will charge through the middle (indicated by large arrows on the ground) and make positioning harder, kill Ensolyss quickly to finish the fractal.
