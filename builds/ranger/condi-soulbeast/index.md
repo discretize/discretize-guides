@@ -14,7 +14,7 @@ conditions:
   - Bleeding
   - Poisoned
   - Burning
-code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]"
 cmguides: /cm-guides/ranger/condi-soulbeast
 classification:
   - 5
@@ -52,18 +52,42 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <Divider text="Equipment"/>
 
 <Tabs outlined>
+<Tab title="Condi Soulbeast Krait">
+<Grid>
+<GridItem sm="4">
+<Armor weight="Medium" helmAffix="Viper" helmRune="Krait" shouldersAffix="Viper" shouldersRune="Krait" coatAffix="Viper" coatRune="Krait" glovesAffix="Viper" glovesRune="Krait" leggingsAffix="Viper" leggingsRune="Krait" bootsAffix="Viper" bootsRune="Krait" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
+</GridItem>
+
+<GridItem sm="4">
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="37130" weapon2MainInfusion1Id="37130" weapon1OffInfusionId="37130" weapon2MainInfusion2Id="37130"/>
+
+<Consumables foodId="92456" utilityId="48917" infusion="Malign +9 Agony Infusion"/>
+</GridItem>
+
+<GridItem sm="4">
+<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
+
+<Card title="Swap Weapons">
+* A <Item id="75325"/> (selected attribute does not matter!) to blast might when prestacking boons.
+
+* A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
+
+</Card>
+</GridItem>
+</Grid>
+</Tab>
+
 <Tab title="Condi Soulbeast Afflicted">
 <Message>
-This build is taken when you have at least 2 <Specialization name="Soulbeast" text="Condi Soulbeasts"/> or <Specialization name="Firebrand" text="Condi Firebrands"/> in the party. If you are alone with 1 <Specialization name="Firebrand"/> play the Krait setup.
+This builds damage depends on the amount of <Specialization name="Soulbeast" text="Soulbeasts"/> in the party. The build deals similar DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3 Soulbeasts in the party. If you are going to be on your own run the Krait rune setup!
 </Message>
-
 <Grid>
 <GridItem sm="4">
 <Armor weight="Medium" helmAffix="Viper" helmRune="Afflicted" shouldersAffix="Viper" shouldersRune="Afflicted" coatAffix="Viper" coatRune="Afflicted" glovesAffix="Viper" glovesRune="Afflicted" leggingsAffix="Viper" leggingsRune="Afflicted" bootsAffix="Viper" bootsRune="Afflicted" helmInfusionId="86113" shouldersInfusionId="86113" coatInfusionId="86113" glovesInfusionId="86113" leggingsInfusionId="86113" bootsInfusionId="86113"/>
 </GridItem>
 
 <GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Malice" weapon1MainSigil1Id="44950" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Earth" weapon1OffSigilId="24560" weapon2MainSigil1Id="44950" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Malice" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
+<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Malice" weapon1MainSigil1Id="44950" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560	" weapon2MainSigil1Id="44950" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Malice" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
 
 <Consumables foodId="92478" utilityId="48917" infusion="Spiteful +9 Agony Infusion"/>
 </GridItem>
@@ -72,32 +96,9 @@ This build is taken when you have at least 2 <Specialization name="Soulbeast" te
 <BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="86113" backItemInfusion2Id="86113" accessory1InfusionId="86113" accessory2InfusionId="86113" ring1Infusion1Id="86113" ring1Infusion2Id="86113" ring1Infusion3Id="86113" ring2Infusion1Id="86113" ring2Infusion2Id="86113" ring2Infusion3Id="86113"/>
 
 <Card title="Swap Weapons">
+* A <Item id="75325"/> (selected attribute does not matter!) to blast might when prestacking boons.
 
-- A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
-
-</Card>
-</GridItem>
-</Grid>
-</Tab>
-
-<Tab title="Condi Soulbeast Krait">
-<Grid>
-<GridItem sm="4">
-<Armor weight="Medium" helmAffix="Viper" helmRune="Krait" shouldersAffix="Viper" shouldersRune="Krait" coatAffix="Viper" coatRune="Krait" glovesAffix="Viper" glovesRune="Krait" leggingsAffix="Viper" leggingsRune="Krait" bootsAffix="Viper" bootsRune="Krait" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="Earth" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="37130" weapon2MainInfusion1Id="37130" weapon1OffInfusionId="37130" weapon2MainInfusion2Id="37130"/>
-
-<Consumables foodId="92456" utilityId="48917" infusion="Malign +9 Agony Infusion"/>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
-
-<Card title="Swap Weapons">
-
-- A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
+* A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
 
 </Card>
 </GridItem>
@@ -180,40 +181,6 @@ When playing <Specialization name="Soulbeast" text="Condi Soulbeast"/> in 100CM,
 
 The rotation in general is very simple, just keep rotating between your Shortbow and Dagger/Torch set using your utility skills as often as you can. When you get to the point of auto attacking use your <Skill id="42944"/> skills to fill.
 </Card>
-
-<Card title=" Shortbow Golem Rotation">
-
-<Video youtube="iKKWM4F3ayg" caption="by Eren"/>
-</Card>
-</GridItem>
-
-<GridItem sm="6">
-<Card title="Precasting">
-
-In 100CM boons get stripped but unique buffs do not, so you can precast these skills and traits:
-
-1.  If you can get in combat briefly stack <Item id="24609"/> and <Item id="24599"/>
-
-2.  While in combat you can precast <Trait name="Poison Master"/> by using a <Skill id="42944"/> ability.
-
-3.  <Skill name="Sharpen Spines"/> while merged with Bristleback then swap to your desired pet and enter <Skill id="42944"/> (If you are staying with Bristleback you can cast <Skill name="Sharpen Spines"/> a second time after taking the _Mistlock Singularity_)
-
-4.  With <Trait name="Light on your Feet"/> selected, use <Skill name="Quick Shot"/> and dodge twice.
-
-5.  As you are dodging use <Skill name="Moa Stance"/>, <Skill id="12537"/> and <Skill name="Vulture Stance"/>
-
-6.  <Skill name="One Wolf Pack"/>
-
-7.  Swap skills if necessary
-
-8.  Cast <Skill name="Double Arc"/>
-
-9.  Take the _Mistlock Singularity_
-
-10. Cast <Skill name="Double Arc"/> again
-
-</Card>
-
 <Card title="Shortbow Golem Rotation">
 
 1.  <Skill name="Vipers Nest"/>
@@ -281,5 +248,62 @@ In 100CM boons get stripped but unique buffs do not, so you can precast these sk
 32. Repeat from `Step 5`
 
 </Card>
+</GridItem>
+
+<GridItem sm="6">
+<Card title="Shortbow Golem Rotation">
+
+<Video youtube="iKKWM4F3ayg" caption="by Eren"/>
+</Card>
+<Card title="Precasting">
+
+When precasting in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Soulbeast" text="Condi Soulbeast"/> this means your stances such as <Skill name="Vulture Stance"/>, <Skill name="Moa Stance"/> and <Skill name="One Wolf Pack"/>. 
+
+As a <Specialization name="Soulbeast" text="Condi Soulbeast"/> there are also multiple skills and traits that can be quickly prestacked for extra condis and damage at the start of fights. These aren't necessary to do and depending on the encounter not all are possible, but if you have the time and can make use of them they are worth to use.
+
+### **Stances**
+
+
+
+As a <Specialization name="Soulbeast" text="Condi Soulbeast"/> we have three important stances to share with <Trait name="Leader of the Pack"/> when precasting.
+
+**<Skill name="Moa Stance"/> -** This will increase your party members boon duration by 66%, which when added to the conversion from <Item id="74185"/> means your party will have close to 100% boon duration without even swapping gear. This means any boons your party stacks duration will be close to doubled.
+
+**<Skill name="Vulture Stance"/> -** This will help your party stack some initial condis and some initial <Boon name="Might"/> at the start of the fight and should be the last thing you cast before taking the _Mistlock Singularity_.
+
+### **Boons**
+
+
+
+**<Boon name="Might"/> -** Before starting fights we want to have 25 stacks of <Boon name="Might"/>, the standard way of this in fractals is from blasting a fire field. If no one else in your party will provide one you can use <Skill name="Bonfire"/> on torch. in the fire field we want to use blast finishers which each one will give 3 stacks of <Boon name="Might"/> for 20 seconds (not accounting for boon duration). Our main blast is from <Skill name="Call of the Wild"/> which can be used twice and also gives 6 stacks of might for 10 seconds along with the blast (again not accounting for boon duration).
+
+
+
+**<Boon name="Fury"/> and <Boon name="Swiftness"/> -** We can provide these boons again by using <Skill name="Call of the Wild"/>. These boons stack up to 30 seconds, so by blasting twice with Warhorn and under the effect of <Skill name="Moa Stance"/>, we can provide the maximum duration for our party.
+
+
+
+### **Traits**
+
+
+
+**<Trait name="Poison Master"/> -** If you can get into combat before precasting you can use <Skill id="40588"/> (Merged F3) to proc <Trait name="Poison Master"/> for some extra <Condition name="poisoned" text ="Poison"/> stacks on your opener
+        
+**<Trait name="Light on your Feet"/> -** Stacks in duration by dodging and using <Skill name="Quick Shot"/>. This will increase you condi duration which means if you are playing with <Item id="24687"/> means your duration will be almost capped. It also will increase your strike damage (power) for a bit of extra damage.
+
+
+
+### **Skills**
+
+**<Skill name="Sharpening Stone"/> -** Used for some additional <Condition name="Bleeding"/> at the start of the fight. If you use a second time while ou still have charges left, the original charges will be overwritten.
+
+
+**<Skill name="Sharpen Spines"/> -** Can be precasted by merging with Bristleback for extra bleeding at the start of the fight. This stacks in intensity so you can use the skill after taking the mistlock giving you 10 stacks of <Condition name="Bleeding"/>.
+
+**<Skill name="Crippling Shot"/> -** Can be precasted giving you the effect _Blood Thirst_ lasting for 11 seconds. When you have this effect and are merged your next 3 attacks will inflict 1 stack of <Condition name="Bleeding"/> lasting for 12 seconds.
+
+**<Skill name="Double Arc"/> -** Can be precasted giving you the effect +Poisonous Strike_ lasting for 7 seconds. When you have this effect and are merged your next 2 attacks will inflict 1 stack of <Condition name="poisoned" text ="Poison"/> lasting for 6 seconds. This skill can be used twice giving you 3 charges.
+</Card>
+
 </GridItem>
 </Grid>
