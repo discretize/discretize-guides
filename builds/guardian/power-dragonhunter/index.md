@@ -1,6 +1,93 @@
 ---
 title: Power Dragonhunter
 date: 2021-06-01
+sections:
+  - title: Summary
+    content: >-
+      <Message> 
+
+      <Specialization name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand"/> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups or when played in the <Composition name="_RGB"/> composition. 
+
+      </Message>
+
+
+      <Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
+
+      The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
+
+      The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
+
+      It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+  - title: Equipment
+    type: equipment
+  - title: Build
+    content: >-
+      <Grid>
+
+      <GridItem sm="7">
+
+      <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
+
+
+      <Card title="CC skills">
+
+
+      |                                                 |            |
+      | ----------------------------------------------- | ---------- |
+      | <Skill id="9093"/>                              | 300 damage |
+      | <Skill id="9226"/> (after <Skill id="9147"/>)   | 150 damage |
+      | <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
+      | <Skill id="30273"/>                             | 150 damage |
+      | <Skill name="chainsoflight"/>                   | 250 damage |
+      | <Skill name="hammerofwisdom"/>                  | 200 damage |
+      | <Skill name="sanctuary"/>                       | 750 damage |
+
+
+      </Card>
+
+      </GridItem>
+
+
+      <GridItem sm="5">
+
+      <Skills healId="21664" utility1Id="30364" utility2Id="9168" utility3Id="9093" eliteId="30273"/>
+
+
+      <Card title="Situational">
+
+
+      |                                                        |                                                                                     |
+
+      | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+
+      | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
+
+      | <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
+
+      | <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
+
+      | <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
+
+      | <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |
+
+      | <Skill name="feelmywrath" size="big" disableText/>     | When <Boon name="Quickness"/> or <Boon name="Fury"/> is needed.                     |
+
+      | <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                  |
+
+      | <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                |
+
+      | <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
+
+      | <Skill name="testoffaith" size="big" disableText/>     | Can be precasted for a bit of extra damage.                                         |
+
+      | <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+
+
+      </Card>
+
+      </GridItem>
+
+      </Grid>
 rating: Power Meta
 role: Damage
 profession: Guardian
@@ -27,145 +114,182 @@ classification:
   - 4
 compositions:
   - name: _RGB
-benchmark:
-  small:
-    dps: 35132
-    by: Shetsa [SC]
-    youtube: C98JaabU6_c
+character:
+  - |-
+    {
+     "weight":"Heavy",
+     "gear":[
+         "Berserker",
+         "Berserker",
+         "Berserker",
+         "Berserker",
+         "Berserker",
+         "Berserker",
+         "Berserker",
+         "Berserker",
+         "Berserker",
+         "Berserker",
+         "Berserker",
+         "Berserker",
+         "Berserker",
+         "Berserker"
+     ],
+     "attributes":{
+         "Health":11645,
+         "Armor":2514,
+         "Power":3933,
+         "Precision":2363,
+         "Toughness":1243,
+         "Vitality":1000,
+         "Ferocity":1656,
+         "Condition Damage":850,
+         "Expertise":0,
+         "Concentration":243,
+         "Healing Power":0,
+         "Agony Resistance":162,
+         "Condition Duration":0,
+         "Boon Duration":16.2,
+         "Critical Chance":99.9047619047619,
+         "Critical Damage":260.4,
+         "Effective Power":36090.11227985033,
+         "Power DPS":46137.53283369391,
+         "Burning Damage":377.703125,
+         "Burning Stacks":1.85,
+         "Burning DPS":698.75078125,
+         "Bleeding Damage":104.9375,
+         "Bleeding Stacks":0,
+         "Bleeding DPS":0,
+         "Poison Damage":121.46875,
+         "Poison Stacks":0,
+         "Poison DPS":0,
+         "Torment Damage":155.68125,
+         "Torment Stacks":0,
+         "Torment DPS":0,
+         "Confusion Damage":104.9375,
+         "Confusion Stacks":0,
+         "Confusion DPS":0,
+         "Damage":46836.28361494391,
+         "Effective Health":40253853.75,
+         "Survivability":20464.592653787495,
+         "Effective Healing":390,
+         "Healing":390
+     },
+     "runeId":24836,
+     "runeName":"Scholar",
+     "infusions":[
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131,
+         37131
+     ],
+     "weapons":{
+         "weapon1MainType":"Sword",
+         "weapon1MainSigil1":"Force",
+         "weapon1OffType":"Focus",
+         "weapon1OffSigil":"Impact",
+         "weapon2MainType":"Greatsword",
+         "weapon2MainSigil1":"Force",
+         "weapon2MainSigil2":"Impact"
+     }
+    }
+  - |-
+    { "title":"222 Ar", "weight":"Heavy", "gear":[
+        "Berserker",
+        "Berserker",
+        "Berserker",
+        "Berserker",
+        "Berserker",
+        "Berserker",
+        "Berserker",
+        "Berserker",
+        "Berserker",
+        "Assassin",
+        "Berserker",
+        "Assassin",
+        "Berserker",
+        "Berserker"
+    ], "attributes":{
+        "Health":11645,
+        "Armor":2514,
+        "Power":3933,
+        "Precision":2363,
+        "Toughness":1243,
+        "Vitality":1000,
+        "Ferocity":1656,
+        "Condition Damage":850,
+        "Expertise":0,
+        "Concentration":243,
+        "Healing Power":0,
+        "Agony Resistance":162,
+        "Condition Duration":0,
+        "Boon Duration":162.2,
+        "Critical Chance":99.9047619047619,
+        "Critical Damage":260.4,
+        "Effective Power":36090.11227985033,
+        "Power DPS":46137.53283369391,
+        "Burning Damage":377.703125,
+        "Burning Stacks":1.85,
+        "Burning DPS":698.75078125,
+        "Bleeding Damage":104.9375,
+        "Bleeding Stacks":0,
+        "Bleeding DPS":0,
+        "Poison Damage":121.46875,
+        "Poison Stacks":0,
+        "Poison DPS":0,
+        "Torment Damage":155.68125,
+        "Torment Stacks":0,
+        "Torment DPS":0,
+        "Confusion Damage":104.9375,
+        "Confusion Stacks":0,
+        "Confusion DPS":0,
+        "Damage":46836.28361494391,
+        "Effective Health":40253853.75,
+        "Survivability":20464.592653787495,
+        "Effective Healing":390,
+        "Healing":390
+    }, "runeId":24836, "runeName":"Scholar", "infusions":[
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131,
+        37131
+    ], "weapons":{
+        "weapon1MainType":"Scepter",
+        "weapon1MainSigil1":"Force",
+        "weapon1OffType":"Focus",
+        "weapon1OffSigil":"Impact",
+        "weapon2MainType":"Greatsword",
+        "weapon2MainSigil1":"Force",
+        "weapon2MainSigil2":"Impact"
+    } }
 ---
-
-<Message>
-<Specialization name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand"/> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups or when played in the <Composition name="_RGB"/> composition.
-</Message>
-
-<Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
-
-The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
-
-The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
-
-It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
-
-<Divider text="Equipment"/>
-
-<Tabs>
-<Tab title="162 Agony Resistance">
-Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
-
-<Grid>
-<GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46774" weapon2MainSigil1Id="24615" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1MainInfusion2Id="49432" weapon2OffInfusionId="49432"/>
-
-<Card title="Alternative weapons">
-
-- Greatswords and Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
-
-- Greatswords and foci with (see [Cheat Sheet](/guides/cheat-sheet))
-
-- Scepter for situational use
-
-- Maces for symbol precasting
-
-- Staff for <Boon name="Might"/> stacking
-
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemAffix="Assassin" accessory1Affix="Assassin" accessory2Affix="Berserker" amuletAffix="Berserker" ring1Affix="Berserker" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
-
-<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
-
-<Card title="Notes">
-
-If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore the assassins pieces. You can of course mitigate this by increasing your agony resistance. You need at least 203 agony resistance to compensate the lacking precision.
-
-It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
-</Card>
-</GridItem>
-</Grid>
-</Tab>
-
-<Tab title="222 Agony Resistance">
-Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
-
-<Grid>
-<GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Berserker" helmRune="Scholar" shouldersAffix="Berserker" shouldersRune="Scholar" coatAffix="Berserker" coatRune="Scholar" glovesAffix="Berserker" glovesRune="Scholar" leggingsAffix="Berserker" leggingsRune="Scholar" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="37131" shouldersInfusionId="37131" coatInfusionId="37131" glovesInfusionId="37131" leggingsInfusionId="37131" bootsInfusionId="37131"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainId="46762" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868" weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon2MainId="46774" weapon2MainSigil1Id="24615" weapon2MainType="Sword" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffId="46761" weapon2OffSigilId="24868" weapon2OffType="Focus" weapon2OffAffix="Berserker" weapon2OffSigil="Impact" weapon1MainInfusion1Id="37131" weapon2MainInfusion1Id="37131" weapon1OffInfusionId="37131" weapon2OffInfusionId="37131"/>
-
-<Card title="Alternative weapons">
-
-- Greatswords and Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
-
-- Greatswords and foci with (see [Cheat Sheet](/guides/cheat-sheet))
-
-- Scepter for situational use
-
-- Staff for <Boon name="Might"/> stacking
-
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker" backItemInfusion1Id="37131" backItemInfusion2Id="37131" accessory1InfusionId="37131" accessory2InfusionId="37131" ring1Infusion1Id="37131" ring1Infusion2Id="37131" ring1Infusion3Id="37131" ring2Infusion1Id="37131" ring2Infusion2Id="37131" ring2Infusion3Id="37131"/>
-
-<Consumables foodId="41569" utilityId="77569" infusionId="37131"/>
-</GridItem>
-</Grid>
-</Tab>
-</Tabs>
-
-<Divider text="Build"/>
-
-<Grid>
-<GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
-
-<Card title="CC skills">
-
-|                                                 |            |
-| ----------------------------------------------- | ---------- |
-| <Skill id="9093"/>                              | 300 damage |
-| <Skill id="9226"/> (after <Skill id="9147"/>)   | 150 damage |
-| <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
-| <Skill id="30273"/>                             | 150 damage |
-| <Skill name="chainsoflight"/>                   | 250 damage |
-| <Skill name="hammerofwisdom"/>                  | 200 damage |
-| <Skill name="sanctuary"/>                       | 750 damage |
-
-</Card>
-</GridItem>
-
-<GridItem sm="5">
-<Skills healId="21664" utility1Id="30364" utility2Id="9168" utility3Id="9093" eliteId="30273"/>
-
-<Card title="Situational">
-
-|                                                        |                                                                                     |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
-| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
-| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
-| <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
-| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |
-| <Skill name="feelmywrath" size="big" disableText/>     | When <Boon name="Quickness"/> or <Boon name="Fury"/> is needed.                     |
-| <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                  |
-| <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                |
-| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
-| <Skill name="testoffaith" size="big" disableText/>     | Can be precasted for a bit of extra damage.                                         |
-| <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
-
-</Card>
-</GridItem>
-</Grid>
 
 <Divider text="Details"/>
 
