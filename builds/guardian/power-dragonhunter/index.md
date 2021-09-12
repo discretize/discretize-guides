@@ -3,6 +3,7 @@ title: Power Dragonhunter
 date: 2021-06-01
 sections:
   - title: Summary
+    type: mdx
     content: >-
       <Message> 
 
@@ -33,13 +34,21 @@ sections:
 
 
       |                                                 |            |
+
       | ----------------------------------------------- | ---------- |
+
       | <Skill id="9093"/>                              | 300 damage |
+
       | <Skill id="9226"/> (after <Skill id="9147"/>)   | 150 damage |
+
       | <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
+
       | <Skill id="30273"/>                             | 150 damage |
+
       | <Skill name="chainsoflight"/>                   | 250 damage |
+
       | <Skill name="hammerofwisdom"/>                  | 200 damage |
+
       | <Skill name="sanctuary"/>                       | 750 damage |
 
 
@@ -115,180 +124,194 @@ classification:
 compositions:
   - name: _RGB
 character:
-  - |-
-    {
-     "weight":"Heavy",
-     "gear":[
-         "Berserker",
-         "Berserker",
-         "Berserker",
-         "Berserker",
-         "Berserker",
-         "Berserker",
-         "Berserker",
-         "Berserker",
-         "Berserker",
-         "Berserker",
-         "Berserker",
-         "Berserker",
-         "Berserker",
-         "Berserker"
-     ],
-     "attributes":{
-         "Health":11645,
-         "Armor":2514,
-         "Power":3933,
-         "Precision":2363,
-         "Toughness":1243,
-         "Vitality":1000,
-         "Ferocity":1656,
-         "Condition Damage":850,
-         "Expertise":0,
-         "Concentration":243,
-         "Healing Power":0,
-         "Agony Resistance":162,
-         "Condition Duration":0,
-         "Boon Duration":16.2,
-         "Critical Chance":99.9047619047619,
-         "Critical Damage":260.4,
-         "Effective Power":36090.11227985033,
-         "Power DPS":46137.53283369391,
-         "Burning Damage":377.703125,
-         "Burning Stacks":1.85,
-         "Burning DPS":698.75078125,
-         "Bleeding Damage":104.9375,
-         "Bleeding Stacks":0,
-         "Bleeding DPS":0,
-         "Poison Damage":121.46875,
-         "Poison Stacks":0,
-         "Poison DPS":0,
-         "Torment Damage":155.68125,
-         "Torment Stacks":0,
-         "Torment DPS":0,
-         "Confusion Damage":104.9375,
-         "Confusion Stacks":0,
-         "Confusion DPS":0,
-         "Damage":46836.28361494391,
-         "Effective Health":40253853.75,
-         "Survivability":20464.592653787495,
-         "Effective Healing":390,
-         "Healing":390
-     },
-     "runeId":24836,
-     "runeName":"Scholar",
-     "infusions":[
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131,
-         37131
-     ],
-     "weapons":{
-         "weapon1MainType":"Sword",
-         "weapon1MainSigil1":"Force",
-         "weapon1OffType":"Focus",
-         "weapon1OffSigil":"Impact",
-         "weapon2MainType":"Greatsword",
-         "weapon2MainSigil1":"Force",
-         "weapon2MainSigil2":"Impact"
-     }
-    }
-  - |-
-    { "title":"222 Ar", "weight":"Heavy", "gear":[
-        "Berserker",
-        "Berserker",
-        "Berserker",
-        "Berserker",
-        "Berserker",
-        "Berserker",
-        "Berserker",
-        "Berserker",
-        "Berserker",
-        "Assassin",
-        "Berserker",
-        "Assassin",
-        "Berserker",
-        "Berserker"
-    ], "attributes":{
-        "Health":11645,
-        "Armor":2514,
-        "Power":3933,
-        "Precision":2363,
-        "Toughness":1243,
-        "Vitality":1000,
-        "Ferocity":1656,
-        "Condition Damage":850,
-        "Expertise":0,
-        "Concentration":243,
-        "Healing Power":0,
-        "Agony Resistance":162,
-        "Condition Duration":0,
-        "Boon Duration":162.2,
-        "Critical Chance":99.9047619047619,
-        "Critical Damage":260.4,
-        "Effective Power":36090.11227985033,
-        "Power DPS":46137.53283369391,
-        "Burning Damage":377.703125,
-        "Burning Stacks":1.85,
-        "Burning DPS":698.75078125,
-        "Bleeding Damage":104.9375,
-        "Bleeding Stacks":0,
-        "Bleeding DPS":0,
-        "Poison Damage":121.46875,
-        "Poison Stacks":0,
-        "Poison DPS":0,
-        "Torment Damage":155.68125,
-        "Torment Stacks":0,
-        "Torment DPS":0,
-        "Confusion Damage":104.9375,
-        "Confusion Stacks":0,
-        "Confusion DPS":0,
-        "Damage":46836.28361494391,
-        "Effective Health":40253853.75,
-        "Survivability":20464.592653787495,
-        "Effective Healing":390,
-        "Healing":390
-    }, "runeId":24836, "runeName":"Scholar", "infusions":[
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131,
-        37131
-    ], "weapons":{
-        "weapon1MainType":"Scepter",
-        "weapon1MainSigil1":"Force",
-        "weapon1OffType":"Focus",
-        "weapon1OffSigil":"Impact",
-        "weapon2MainType":"Greatsword",
-        "weapon2MainSigil1":"Force",
-        "weapon2MainSigil2":"Impact"
-    } }
+  - note: >-
+      If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>. You need at least  <Attribute name="Agony Resistance" text="203 Agony Resistance"/> to compensate the lacking <Attribute name="Precision"/>.  
+
+
+      It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
+    gear: >-
+      {
+      "weight":"Heavy",
+      "gear":[
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker"
+      ],
+      "attributes":{
+          "Health":11645,
+          "Armor":2514,
+          "Power":3933,
+          "Precision":2363,
+          "Toughness":1243,
+          "Vitality":1000,
+          "Ferocity":1656,
+          "Condition Damage":850,
+          "Expertise":0,
+          "Concentration":243,
+          "Healing Power":0,
+          "Agony Resistance":162,
+          "Condition Duration":0,
+          "Boon Duration":16.2,
+          "Critical Chance":99.9047619047619,
+          "Critical Damage":260.4,
+          "Effective Power":36090.11227985033,
+          "Power DPS":46137.53283369391,
+          "Burning Damage":377.703125,
+          "Burning Stacks":1.85,
+          "Burning DPS":698.75078125,
+          "Bleeding Damage":104.9375,
+          "Bleeding Stacks":0,
+          "Bleeding DPS":0,
+          "Poison Damage":121.46875,
+          "Poison Stacks":0,
+          "Poison DPS":0,
+          "Torment Damage":155.68125,
+          "Torment Stacks":0,
+          "Torment DPS":0,
+          "Confusion Damage":104.9375,
+          "Confusion Stacks":0,
+          "Confusion DPS":0,
+          "Damage":46836.28361494391,
+          "Effective Health":40253853.75,
+          "Survivability":20464.592653787495,
+          "Effective Healing":390,
+          "Healing":390
+      },
+      "runeId":24836,
+      "runeName":"Scholar",
+      "infusions":[
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131
+      ],
+      "weapons":{
+          "weapon1MainType":"Sword",
+          "weapon1MainSigil1":"Force",
+          "weapon1OffType":"Focus",
+          "weapon1OffSigil":"Impact",
+          "weapon2MainType":"Greatsword",
+          "weapon2MainSigil1":"Force",
+          "weapon2MainSigil2":"Impact"
+      }, "consumables":{
+          "food": "Bowl of Sweet and Spicy Butternut Squash Soup",
+          "utility": "Tin of Fruitcake",
+          "infusion": "Mighty +9 Agony Infusion"
+      }
+      }
+
+  - gear: >-
+      { "title":"222 Ar", "weight":"Heavy", "gear":[
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Assassin",
+          "Berserker",
+          "Assassin",
+          "Berserker",
+          "Berserker"
+      ], "attributes":{
+          "Health":11645,
+          "Armor":2514,
+          "Power":3933,
+          "Precision":2363,
+          "Toughness":1243,
+          "Vitality":1000,
+          "Ferocity":1656,
+          "Condition Damage":850,
+          "Expertise":0,
+          "Concentration":243,
+          "Healing Power":0,
+          "Agony Resistance":162,
+          "Condition Duration":0,
+          "Boon Duration":162.2,
+          "Critical Chance":99.9047619047619,
+          "Critical Damage":260.4,
+          "Effective Power":36090.11227985033,
+          "Power DPS":46137.53283369391,
+          "Burning Damage":377.703125,
+          "Burning Stacks":1.85,
+          "Burning DPS":698.75078125,
+          "Bleeding Damage":104.9375,
+          "Bleeding Stacks":0,
+          "Bleeding DPS":0,
+          "Poison Damage":121.46875,
+          "Poison Stacks":0,
+          "Poison DPS":0,
+          "Torment Damage":155.68125,
+          "Torment Stacks":0,
+          "Torment DPS":0,
+          "Confusion Damage":104.9375,
+          "Confusion Stacks":0,
+          "Confusion DPS":0,
+          "Damage":46836.28361494391,
+          "Effective Health":40253853.75,
+          "Survivability":20464.592653787495,
+          "Effective Healing":390,
+          "Healing":390
+      }, "runeId":24836, "runeName":"Scholar", "infusions":[
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131
+      ], "weapons":{
+          "weapon1MainType":"Scepter",
+          "weapon1MainSigil1":"Force",
+          "weapon1OffType":"Focus",
+          "weapon1OffSigil":"Impact",
+          "weapon2MainType":"Greatsword",
+          "weapon2MainSigil1":"Force",
+          "weapon2MainSigil2":"Impact"
+      }, "consumables":{
+          "food": "Bowl of Sweet and Spicy Butternut Squash Soup",
+          "utility": "Tin of Fruitcake",
+          "infusion": "Mighty +9 Agony Infusion"
+      } }
 ---
 
 <Divider text="Details"/>
