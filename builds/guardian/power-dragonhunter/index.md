@@ -1,6 +1,6 @@
 ---
 title: Power Dragonhunter
-date: 2021-06-01
+date: 2021-06-02
 sections:
   - title: Summary
     type: mdx
@@ -113,7 +113,7 @@ conditions:
 boons:
   - Resolution
   - Aegis
-code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
 cmguides: /cm-guides/guardian/power-dragonhunter
 classification:
   - 3
@@ -125,14 +125,17 @@ compositions:
   - name: _RGB
 character:
   - note: >-
-      If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>. You need at least  <Attribute name="Agony Resistance" text="203 Agony Resistance"/> to compensate the lacking <Attribute name="Precision"/>.  
+      If you use <Trait name="Perfectinscriptions"/> you are lacking critical
+      chance, therefore additional assassins pieces are required. You can of
+      course mitigate this by increasing your <Attribute name="Agony
+      Resistance"/>. You need at least  <Attribute name="Agony Resistance"
+      text="203 Agony Resistance"/> to compensate the lacking <Attribute
+      name="Precision"/>.  
 
 
       It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
-    gear: >-
-      {
-      "weight":"Heavy",
-      "gear":[
+    gear: |-
+      { "weight":"Heavy", "gear":[
           "Berserker",
           "Berserker",
           "Berserker",
@@ -147,8 +150,7 @@ character:
           "Berserker",
           "Berserker",
           "Berserker"
-      ],
-      "attributes":{
+      ], "attributes":{
           "Health":11645,
           "Armor":2514,
           "Power":3933,
@@ -187,10 +189,7 @@ character:
           "Survivability":20464.592653787495,
           "Effective Healing":390,
           "Healing":390
-      },
-      "runeId":24836,
-      "runeName":"Scholar",
-      "infusions":[
+      }, "runeId":24836, "runeName":"Scholar", "infusions":[
           37131,
           37131,
           37131,
@@ -209,8 +208,7 @@ character:
           37131,
           37131,
           37131
-      ],
-      "weapons":{
+      ], "weapons":{
           "weapon1MainType":"Sword",
           "weapon1MainSigil1":"Force",
           "weapon1OffType":"Focus",
@@ -222,10 +220,8 @@ character:
           "food": "Bowl of Sweet and Spicy Butternut Squash Soup",
           "utility": "Tin of Fruitcake",
           "infusion": "Mighty +9 Agony Infusion"
-      }
-      }
-
-  - gear: >-
+      } }
+  - gear: |-
       { "title":"222 Ar", "weight":"Heavy", "gear":[
           "Berserker",
           "Berserker",
@@ -313,7 +309,6 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
       } }
 ---
-
 <Divider text="Details"/>
 
 As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
