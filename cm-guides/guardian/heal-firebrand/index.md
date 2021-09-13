@@ -1,10 +1,10 @@
 ---
-title: 'Heal Firebrand CM guides'
-build: 'Heal Firebrand'
-profession: 'Guardian'
-specialization: 'Firebrand'
-date: '2021-06-01'
-disableOrganized: 'true'
+title: Heal Firebrand CM guides
+date: 2021-06-01
+build: Heal Firebrand
+profession: Guardian
+specialization: Firebrand
+disableOrganized: "true"
 ---
 
 <Boss name="mama" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Hammer of Wisdom" eliteId="43357" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
@@ -815,7 +815,7 @@ Corner:
 5.  If the phase continues for longer, it can get very chaotic. Try to use up whatever you have left to get thrugh the rest of the phase.
 
 
-<Boss name="LightAi" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Signet of Wrath" utility3="Sanctuary" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
+<Boss name="LightAi" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Signet of Wrath" utility3="Sanctuary" elite="Feel My Wrath" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
 -   When <Instability name="Afflicted"/> is present, run <Skill name="Mantra of Lore"/> instead of <Skill name="Signet of Wrath"/>. You will still be able to share <Attribute name="Condition Damage"/> through <Trait name="Wrath of Justice"/>. You can also take this skill if people struggle with attacks that inflict conditions during the fire phase.
 
 -   Other good utility skills are <Skill name="Advance"/> for extra <Boon name="Aegis"/> or <Skill name="Bow of Truth"/> for extra healing.
