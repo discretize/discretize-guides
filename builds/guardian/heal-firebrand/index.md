@@ -38,12 +38,7 @@ This build is very common in PuGs. It is part of a composition called PuG Meta. 
 
 </Message>
 
-<Specialization name="Firebrand" text="Heal Firebrand" /> provides a good amount
-of <Boon name="Might" />, permanent <Boon name="Quickness" />, <Boon name="Fury" />
-, <Boon name="Regeneration" /> and <Boon name="Swiftness" /> as well as some <Boon name="Protection" /> and <Boon name="Resolution" />
-. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability" /> and <Boon name="Resistance" />
-
-.
+<Specialization name="Firebrand" text="Heal Firebrand" /> provides a good amount of <Boon name="Might" />, permanent <Boon name="Quickness" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Swiftness" /> as well as some <Boon name="Protection" /> and <Boon name="Resolution" />. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability" /> and <Boon name="Resistance" />.
 
 It offers a decent amount of healing through symbols, dodges, <Skill name="Mantra of Solace"/>, <Boon name="Regeneration"/>, <Skill name="Bow of Truth"/>, etc.
 
@@ -66,28 +61,28 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </GridItem>
 
 <GridItem sm="4">
-  <Weapons
-    weapon1MainType="Staff"
-    weapon1MainAffix="Harrier"
-    weapon1MainSigil1="Transference"
-    weapon1MainSigil2="Concentration"
-    weapon2MainType="Axe"
-    weapon2MainAffix="Harrier"
-    weapon2MainSigil1="Transference"
-    weapon2OffType="Shield"
-    weapon2OffAffix="Harrier"
-    weapon2OffSigil="Concentration"
-    weapon1MainInfusion1Id="49432"
-    weapon2MainInfusion1Id="49432"
-    weapon1MainInfusion2Id="49432"
-    weapon2OffInfusionId="49432"
-  />
-  <Card title="Swap Weapons">
+<Weapons
+  weapon1MainType="Staff"
+  weapon1MainAffix="Harrier"
+  weapon1MainSigil1="Transference"
+  weapon1MainSigil2="Concentration"
+  weapon2MainType="Axe"
+  weapon2MainAffix="Harrier"
+  weapon2MainSigil1="Transference"
+  weapon2OffType="Shield"
+  weapon2OffAffix="Harrier"
+  weapon2OffSigil="Concentration"
+  weapon1MainInfusion1Id="49432"
+  weapon2MainInfusion1Id="49432"
+  weapon1MainInfusion2Id="49432"
+  weapon2OffInfusionId="49432"
+/>
+<Card title="Swap Weapons">
 
-    * Greatsword for pulling adds in Nightmare CM after MAMA. * Mace when{' '}
-    <Boon name="Fury" /> is fully covered by others.
+- Greatsword for pulling adds in Nightmare CM after MAMA.
+- Mace when <Boon name="Fury" /> is fully covered by others.
 
-  </Card>
+</Card>
 </GridItem>
 
 <GridItem sm="4">
