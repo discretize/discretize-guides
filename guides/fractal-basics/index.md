@@ -3,7 +3,7 @@ title: Fractal Basics
 date: 2021-02-24
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
-hidden: 'false'
+hidden: "false"
 author: Princeps.6481 and Mistlocked [FotM]
 ---
 
@@ -252,11 +252,8 @@ Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone 
 
 <Grid>
 <GridItem sm="12" md="6">
-### Smoke fields <Label>
-<Effect name="Stealth"/>
 
-stacking
-</Label>
+### Smoke fields <Label> <Effect name="Stealth"/> stacking </Label>
 
 Be careful not to aggro mobs with blasts or you will get <Effect name="Revealed"/>.
 
