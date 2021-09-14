@@ -2,7 +2,7 @@
 title: Power Firebrand
 date: 2021-06-01
 rating: Power Meta
-role: Damage
+role: Power Damage
 author: ganymed.3541
 profession: Guardian
 specialization: Firebrand

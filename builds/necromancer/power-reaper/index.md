@@ -2,7 +2,7 @@
 title: Power Reaper
 date: 2021-06-01
 rating: Good
-role: Damage
+role: Power Damage
 author: 'Discord: Jes#6596'
 profession: Necromancer
 specialization: Reaper

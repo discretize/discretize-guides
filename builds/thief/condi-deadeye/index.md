@@ -2,7 +2,7 @@
 title: Condi Deadeye
 date: 2021-06-01
 rating: Condi Meta
-role: Damage
+role: Condi Damage
 profession: Thief
 specialization: Deadeye
 skills:

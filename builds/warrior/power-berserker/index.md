@@ -2,7 +2,7 @@
 title: Power Berserker
 date: 2021-06-01
 rating: Good
-role: Damage
+role: Power Damage
 profession: Warrior
 specialization: Berserker
 skills:

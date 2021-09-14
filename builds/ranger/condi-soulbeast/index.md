@@ -2,7 +2,7 @@
 title: Condi Soulbeast
 date: 2021-20-08
 rating: Condi Meta
-role: Damage
+role: Condi Damage
 profession: Ranger
 specialization: Soulbeast
 skills:
@@ -14,7 +14,7 @@ conditions:
   - Bleeding
   - Poisoned
   - Burning
-code: "[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 cmguides: /cm-guides/ranger/condi-soulbeast
 classification:
   - 5
@@ -70,7 +70,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <Card title="Swap Weapons">
 * A <Item id="75325"/> (selected attribute does not matter!) to blast might when prestacking boons.
 
-* A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
+- A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
 
 </Card>
 </GridItem>
@@ -98,7 +98,7 @@ This builds damage depends on the amount of <Specialization name="Soulbeast" tex
 <Card title="Swap Weapons">
 * A <Item id="75325"/> (selected attribute does not matter!) to blast might when prestacking boons.
 
-* A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
+- A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
 
 </Card>
 </GridItem>
@@ -257,13 +257,11 @@ The rotation in general is very simple, just keep rotating between your Shortbow
 </Card>
 <Card title="Precasting">
 
-When precasting in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Soulbeast" text="Condi Soulbeast"/> this means your stances such as <Skill name="Vulture Stance"/>, <Skill name="Moa Stance"/> and <Skill name="One Wolf Pack"/>. 
+When precasting in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Soulbeast" text="Condi Soulbeast"/> this means your stances such as <Skill name="Vulture Stance"/>, <Skill name="Moa Stance"/> and <Skill name="One Wolf Pack"/>.
 
 As a <Specialization name="Soulbeast" text="Condi Soulbeast"/> there are also multiple skills and traits that can be quickly prestacked for extra condis and damage at the start of fights. These aren't necessary to do and depending on the encounter not all are possible, but if you have the time and can make use of them they are worth to use.
 
 ### **Stances**
-
-
 
 As a <Specialization name="Soulbeast" text="Condi Soulbeast"/> we have three important stances to share with <Trait name="Leader of the Pack"/> when precasting.
 
@@ -273,36 +271,25 @@ As a <Specialization name="Soulbeast" text="Condi Soulbeast"/> we have three imp
 
 ### **Boons**
 
-
-
 **<Boon name="Might"/> -** Before starting fights we want to have 25 stacks of <Boon name="Might"/>, the standard way of this in fractals is from blasting a fire field. If no one else in your party will provide one you can use <Skill name="Bonfire"/> on torch. in the fire field we want to use blast finishers which each one will give 3 stacks of <Boon name="Might"/> for 20 seconds (not accounting for boon duration). Our main blast is from <Skill name="Call of the Wild"/> which can be used twice and also gives 6 stacks of might for 10 seconds along with the blast (again not accounting for boon duration).
-
-
 
 **<Boon name="Fury"/> and <Boon name="Swiftness"/> -** We can provide these boons again by using <Skill name="Call of the Wild"/>. These boons stack up to 30 seconds, so by blasting twice with Warhorn and under the effect of <Skill name="Moa Stance"/>, we can provide the maximum duration for our party.
 
-
-
 ### **Traits**
 
-
-
 **<Trait name="Poison Master"/> -** If you can get into combat before precasting you can use <Skill id="40588"/> (Merged F3) to proc <Trait name="Poison Master"/> for some extra <Condition name="poisoned" text ="Poison"/> stacks on your opener
-        
+
 **<Trait name="Light on your Feet"/> -** Stacks in duration by dodging and using <Skill name="Quick Shot"/>. This will increase you condi duration which means if you are playing with <Item id="24687"/> means your duration will be almost capped. It also will increase your strike damage (power) for a bit of extra damage.
-
-
 
 ### **Skills**
 
 **<Skill name="Sharpening Stone"/> -** Used for some additional <Condition name="Bleeding"/> at the start of the fight. If you use a second time while ou still have charges left, the original charges will be overwritten.
 
-
 **<Skill name="Sharpen Spines"/> -** Can be precasted by merging with Bristleback for extra bleeding at the start of the fight. This stacks in intensity so you can use the skill after taking the mistlock giving you 10 stacks of <Condition name="Bleeding"/>.
 
 **<Skill name="Crippling Shot"/> -** Can be precasted giving you the effect _Blood Thirst_ lasting for 11 seconds. When you have this effect and are merged your next 3 attacks will inflict 1 stack of <Condition name="Bleeding"/> lasting for 12 seconds.
 
-**<Skill name="Double Arc"/> -** Can be precasted giving you the effect +Poisonous Strike_ lasting for 7 seconds. When you have this effect and are merged your next 2 attacks will inflict 1 stack of <Condition name="poisoned" text ="Poison"/> lasting for 6 seconds. This skill can be used twice giving you 3 charges.
+**<Skill name="Double Arc"/> -** Can be precasted giving you the effect +Poisonous Strike\_ lasting for 7 seconds. When you have this effect and are merged your next 2 attacks will inflict 1 stack of <Condition name="poisoned" text ="Poison"/> lasting for 6 seconds. This skill can be used twice giving you 3 charges.
 </Card>
 
 </GridItem>

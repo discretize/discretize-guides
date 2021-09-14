@@ -98,7 +98,7 @@ sections:
 
       </Grid>
 rating: Power Meta
-role: Damage
+role: Power Damage
 profession: Guardian
 specialization: Dragonhunter
 skills:
@@ -113,7 +113,7 @@ conditions:
 boons:
   - Resolution
   - Aegis
-code: "[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 cmguides: /cm-guides/guardian/power-dragonhunter
 classification:
   - 3
@@ -309,6 +309,7 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
       } }
 ---
+
 <Divider text="Details"/>
 
 As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.

@@ -7,7 +7,7 @@ effects:
 title: Power Holosmith
 date: 2021-06-01
 rating: Good
-role: Damage
+role: Power Damage
 profession: Engineer
 specialization: Holosmith
 conditions:

@@ -2,7 +2,7 @@
 title: Power Weaver
 date: 2021-06-01
 rating: Good
-role: Damage
+role: Power Damage
 profession: Elementalist
 specialization: Weaver
 skills:

@@ -2,7 +2,7 @@
 title: Power Renegade
 date: 2021-08-26
 rating: Power Meta
-role: Damage
+role: Power Damage
 author: Casual Sophie - Jin Su Liang.9036
 profession: Revenant
 specialization: Renegade

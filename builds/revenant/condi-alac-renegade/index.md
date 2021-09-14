@@ -2,7 +2,7 @@
 title: Condi Alac Renegade
 date: 2021-06-01
 rating: Condi Meta
-role: Damage
+role: Hybrid
 author: PineappleMan.1430
 profession: Revenant
 specialization: Renegade

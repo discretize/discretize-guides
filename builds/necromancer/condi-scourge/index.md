@@ -2,7 +2,7 @@
 title: Condi Scourge
 date: 2021-06-01
 rating: Good
-role: Damage
+role: Condi Damage
 author: 'Discord: Amerikajinn#9784'
 profession: Necromancer
 specialization: Scourge

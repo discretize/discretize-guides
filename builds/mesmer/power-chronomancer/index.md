@@ -2,7 +2,7 @@
 title: Power Chronomancer
 date: 2021-06-01
 rating: Good
-role: Damage
+role: Power Damage
 author: 'Discord: [CnD] Tipcat#0698'
 profession: Mesmer
 specialization: Chronomancer

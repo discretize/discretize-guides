@@ -1,7 +1,7 @@
 ---
 date: 2021-06-01
 rating: Power Meta
-role: Damage
+role: Power Damage
 skills:
   - 45717
   - 12497
