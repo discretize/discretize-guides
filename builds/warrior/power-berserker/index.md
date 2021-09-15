@@ -42,43 +42,12 @@ The <Specialization text="Banner Berserker" name="Berserker"/> is one of the cla
 
 Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
 
-### **Nightmare Challenge Mode PuG videos**
-
-<Grid>
-<GridItem sm="4">
-<Video caption="by Roach [dT], edited by Vince [dT]" youtube="YMy7HUTQEJI"/>
-</GridItem>
-
-<GridItem sm="4">
-<Video caption="by Roach [dT], edited by Vince [dT]" youtube="b2Xi8dRE5js"/>
-</GridItem>
-
-<GridItem sm="4">
-<Video caption="by Roach [dT], edited by Vince [dT]" youtube="K6S6yrQcxkY"/>
-</GridItem>
-</Grid>
-
-### **Shattered Observatory Challenge Mode PuG videos**
-
-<Grid>
-<GridItem sm="4">
-<Video caption="by Roach [dT], edited by Vince [dT]" youtube="yioeHPEHAK4"/>
-</GridItem>
-
-<GridItem sm="4">
-<Video caption="by Roach [dT], edited by Vince [dT]" youtube="anHIsOj_USY"/>
-</GridItem>
-
-<GridItem sm="4">
-<Video caption="by Roach [dT], edited by Vince [dT]" youtube="xElMtN7QKMo"/>
-</GridItem>
-</Grid>
-
 <Divider text="Equipment"/>
 
 <Tabs outlined>
 <Tab title="162 Agony Resistance">
--   Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
+
+- Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 
 - Alternative gear for 162 <Attribute name="Agony Resistance"/>: full berserker gear with <Item id="24723"/>. This variant is superior for PuG groups due to not relying on <Item name="scholar"/>. However, higher <Attribute name="Agony Resistance"/> builds will not benefit from the additional <Attribute name="Precision"/> as much as this variant, so it is recommended to stick with <Item name="scholar"/> since it provides a strict upgrade path.
 
@@ -114,6 +83,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 </Tab>
 
 <Tab title="222 Agony Resistance">
+
 Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 
 <Grid>
@@ -157,6 +127,7 @@ Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
 </Tab>
 
 <Tab title="276 Agony Resistance">
+
 You are an actual mad lad for considering this build. It costs about 3500 gold... You gain 41 power more over the 222 AR build. It is up to you to decide if you want to pay over 80g per extra power.
 
 <Grid>
