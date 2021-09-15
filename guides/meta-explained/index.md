@@ -4,7 +4,6 @@ date: 2021-09-13T20:56:24.756Z
 sections: []
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
-hidden: "false"
 ---
 
 ## What does meta mean?  
