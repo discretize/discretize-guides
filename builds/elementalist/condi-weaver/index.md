@@ -26,7 +26,7 @@ classification:
   - 3
   - 4
   - 5
-date: 2021-09-15T10:14:53.136Z
+date: 2021-09-15T10:17:04.077Z
 ---
 
 <Message>
@@ -296,8 +296,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <Card title="Golem Rotation">
 <Video youtube="H5ZyMQln6hw" caption="by Roul [SC]" />
 </Card>
-</GridItem>
-<GridItem xs="12" sm="6">
+
 
 <Card title="Important Notes">
 
