@@ -19,14 +19,14 @@ boons:
   - Stability
   - Swiftness
   - Regeneration
-code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: 2021-09-15T10:17:04.077Z
+date: 2021-09-15T16:10:15.110Z
 ---
 
 <Message>
@@ -84,6 +84,7 @@ This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="sp
 <Grid>
 <GridItem sm="7">
 <Card title="Situational Skills">
+
 | | |
 | -- | -- |
 |Heal|
@@ -110,13 +111,16 @@ If you do want to switch any of your utilites in favor of one of the skills list
 
 <GridItem sm="5">
 <Card title="Situational Traits">
+
 | | |
 | -- | -- |
 | <Trait name="Pyromancers Puissance" size="big" disableText/> | Can easily cover a large amount of <Boon name="Might"/> for your group at some personal DPS loss. |
 | <Trait name="Masters Fortitude" size="big" disableText/> | Provides a bit of tankiness in the form of extra vitality for minimal DPS loss. |
+
 </Card>
 
 <Card title="Defiance Bar Damage">
+
 | | |
 | -- | -- |
 | <Skill name="Gale" size="big" disableText/> | 400 with <Control name="Knockdown"/> |
@@ -129,6 +133,7 @@ If you do want to switch any of your utilites in favor of one of the skills list
 | <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (82,5) with <Condition name="Crippled"/> |
 | <Skill name="Twin Strike" size="big" disableText/> | 33 / s (181,5) with <Condition name="Chilled"/> |
 | <Skill name="Tailored Victory" size="big" disableText/> | 250 with <Control name="Float"/> |
+
  **Conditions applied are calculated by taking the maximum condition duration into account.**
 
 </Card>
