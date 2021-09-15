@@ -153,7 +153,7 @@ sections:
       </Card>
 
 
-      <Card title="Organized Sunqua Peak group">
+      <Card title="Multiple DPS Firebrands">
 
 
       This build assumes you are playing in a comp with multiple <Specialization name="Firebrand" text="Condi Firebrands"/> and allows <Trait name="Legendary Lore"/> and <Skill name="Renewed Focus"/> to be played for more DPS and an additional Tome reset. You need at least 2 <Specialization name="Firebrand" text="Firebrands"/> to play this build to maintain <Boon name="Quickness"/>!
@@ -363,7 +363,7 @@ character:
       - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s.
       - A staff for <Boon name="Might"/> pre-stacking.
     title: Condi Firebrand
-date: 2021-09-15T23:00:17.248Z
+date: 2021-09-15T23:53:58.742Z
 benchmark:
   small:
     dps: 36732
