@@ -103,7 +103,7 @@ sections:
 
       <GridItem sm="5">
 
-      <Skills healId="21659" utility1Id="5818" utility2Id="6020" utility3Id="42842" eliteId="42009"/>
+      <Skills healId="21659" utility1Id="6020" utility2Id="5818" utility3Id="42842" eliteId="42009"/>
 
 
       <Card title="Additional Skills">
@@ -113,7 +113,7 @@ sections:
 
       | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-      | Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6178" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="42163" size="big" disableText/>                                        |
+      | Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6178" size="big" disableText/><Skill id="42163" size="big" disableText/>                                        |
 
       | <Skill id="6020" size="big" disableText/> | <Skill id="5806" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5810" size="big" disableText/> |
 
@@ -151,7 +151,7 @@ sections:
 
       <Traits traits1="Scrapper" traits1Selected="Gyroscopic Acceleration" unembossed />
 
-      For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect name="Stealth"/> and <Effect name="Superspeed"/>. <Effect name="Stealth"/> can be provided through <Skill name="Sneak Gyro"/>. <Effect name="Superspeed"/>
+      For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect name="Stealth"/> and <Effect name="Superspeed"/>. <Effect name="Stealth"/> can be provided through <Skill name="Sneak Gyro"/>. <Effect name="Superspeed"/> is provided through Gyros with a delay due to <Trait name="Gyroscopic Acceleration"/>. <Skill name="Medic Gyro"/> also provides some instant <Effect name="Superspeed"/> on top. <Skill name="Bulwark Gyro"/> and <Skill name="Purge Gyro"/> can be used without drawing aggro from enemies. <Skill name="Bypass Coating"/> can provide some instant <Effect name="Superspeed"/> as well.
 
       </Card>
 
@@ -344,7 +344,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2021-09-15T17:37:52.932Z
+date: 2021-09-15T17:46:11.469Z
 benchmark:
   small:
     dps: 38143
