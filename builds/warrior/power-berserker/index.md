@@ -225,6 +225,7 @@ For fights of less than 1 minute with access to a _Mistlock Singularity_, precas
 
 <Grid>
 <GridItem sm="8">
+
 **How to deal damage:**
 
 - Use <Skill name="decapitate"/> as often as possible. Three crits are required to gain a single <Skill name="decapitate"/>:

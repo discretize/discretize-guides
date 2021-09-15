@@ -50,6 +50,7 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 
 <Tabs outlined>
 <Tab title="162 Agony Resistance">
+
 Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 
 This is a budget variant, aim for at least 212 Agony Resistance.
@@ -90,6 +91,7 @@ Utilize the gear optimizer if you are somewhere between 162 and 212 Agony Resist
 </Tab>
 
 <Tab title="212 Agony Resistance">
+
 Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 
 210 Agony Resistance allows you to run the typical raid gear for <Specialization text="Power Chronomancer" name="Chronomancer"/>.
@@ -133,6 +135,7 @@ You need Fractal Champion, <Item id="86175"/> and <Item id="70596"/>.
 </Tab>
 
 <Tab title="222 Agony Resistance">
+
 Check the [gear optimizer](https://old.discretize.eu) for more gear variants!
 
 <Grid>
