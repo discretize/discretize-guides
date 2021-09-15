@@ -1,15 +1,32 @@
 ---
-title: 'Condi Weaver'
-date: '2021-06-01'
-rating: 'Good'
-role: 'Damage'
-profession: 'Elementalist'
-specialization: 'Weaver'
-skills: [43638, 5542, 40183]
-boons: ['Might', 'Stability', 'Swiftness', 'Regeneration']
-conditions: ['Burning', 'Vulnerability', 'Crippled', 'Bleeding', 'Chilled']
-code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
-classification: [3, 4, 3, 4, 5]
+title: Condi Weaver
+rating: Good
+role: Damage
+profession: Elementalist
+specialization: Weaver
+skills:
+  - 43638
+  - 5542
+  - 40183
+conditions:
+  - Burning
+  - Vulnerability
+  - Crippled
+  - Bleeding
+  - Chilled
+boons:
+  - Might
+  - Stability
+  - Swiftness
+  - Regeneration
+code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 3
+  - 4
+  - 3
+  - 4
+  - 5
+date: 2021-09-15T10:17:04.077Z
 ---
 
 <Message>
@@ -59,8 +76,8 @@ This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="sp
 
 <GridItem sm="5">
 <Skills heal="Signet of Restoration" utility1="Glyph of Elemental Power" utility2="Primordial Stance" utility3="Signet of Fire" elite="Weave Self"/>
-</Grid>
 </GridItem>
+</Grid>
 
 <Divider text="Situational"/>
 
@@ -280,6 +297,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <Video youtube="H5ZyMQln6hw" caption="by Roul [SC]" />
 </Card>
 
+
 <Card title="Important Notes">
 
 - <Skill name="Signet of Fire"/> is one of your most important DPS skills. Use it off cooldown!
@@ -291,13 +309,15 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 - Although it is important to finish auto attack chains, during <Skill name="Weave Self"/>, you should prioritize using your skills and entering <Skill name="Tailored Victory"/>, even if it means skipping some auto attacks. Maintaining the <Skill name="Fire Attunement" disableText/> buff of <Skill name="Weave Self"/> is most important.
 
 - In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is different from the 1st. However, due to the faster nature of fractal bosses, you will either phase the boss before you reach the 2nd rotation or there will be enough downtime to reset to the written rotation when <Skill name="Weave Self"/> is on cooldown.
-  </Card>
-  </GridItem>
 
+</Card>
+</GridItem>
 </Grid>
 
+<Grid>
 <GridItem xs="12" sm="6">
 <Card title="Rotation out of Weave Self">
+
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
@@ -425,3 +445,5 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 3. <Skill name="Earthen Vortex"/>
 </GridItem>
 </Card>
+</GridItem>
+</Grid>
