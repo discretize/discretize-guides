@@ -3,7 +3,6 @@ title: 'Crit Cap'
 date: '2021-07-20'
 image: './images/crit.png'
 description: 'Learn how to achieve crit cap on various Guild Wars 2 professions.'
-hidden: 'false'
 ---
 
 ## Reasoning
@@ -18,14 +17,13 @@ From the above equation, it follows that **2995 Precision** is enough to reach 1
 
 You can subtract the following values in general:
 
--   **1000 base Precision** at level 80
+- **1000 base Precision** at level 80
 
--   20% Critical Chance from **<Boon name="Fury"/>** (= **420 Precision**)
+- 20% Critical Chance from **<Boon name="Fury"/>** (= **420 Precision**)
 
--   In groups with a <Specialization name="Berserker"/>: **100 Precision** from **<Skill name="Banner of Discipline"/>**
+- In groups with a <Specialization name="Berserker"/>: **100 Precision** from **<Skill name="Banner of Discipline"/>**
 
--   In groups with a <Specialization name="Druid"/> or <Specialization name="Soulbeast"/>: **100 Precision** from **<Trait name="Spotter"/>**
-
+- In groups with a <Specialization name="Druid"/> or <Specialization name="Soulbeast"/>: **100 Precision** from **<Trait name="Spotter"/>**
 
 Which brings it down to **1475 Precision** or **1375 Precision** required (with <Trait name="Spotter"/>).
 
@@ -110,4 +108,4 @@ Below are some popular trait choices to push Critical Chance.
 | <Specialization name="Thief"/>        | Deadeye        | <Trait name="Be Quick or Be Killed"/> | Target must be marked                                                 | 200       |
 | <Specialization name="Elementalist"/> | Weaver         | <Trait name="Elements of Rage"/>      | Converts 13% of your Vitality to Precision                            |           |
 
-*Note: Conversion traits only take flat modifiers from items, runes, food and infusions into consideration. Things like boons (e.g. <Boon name="Might"/>), traits (e.g. other conversions), skills (e.g. <Skill name="Signet of Fury"/>), group buffs (e.g. <Skill name="Banner of Strength"/>) or the <Item id="79722"/> are not included.*
+_Note: Conversion traits only take flat modifiers from items, runes, food and infusions into consideration. Things like boons (e.g. <Boon name="Might"/>), traits (e.g. other conversions), skills (e.g. <Skill name="Signet of Fury"/>), group buffs (e.g. <Skill name="Banner of Strength"/>) or the <Item id="79722"/> are not included._

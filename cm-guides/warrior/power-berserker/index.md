@@ -1,10 +1,8 @@
 ---
-title: 'Berserker CM guides'
-build: 'Power Berserker'
+title: 'Banner Berserker'
 profession: 'Warrior'
 specialization: 'Berserker'
 date: '2021-06-01'
-disableOrganized: 'false'
 disableBosses: ['LightAi', 'DarkAi']
 ---
 

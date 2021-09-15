@@ -114,15 +114,13 @@ boons:
   - Resolution
   - Aegis
 code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-cmguides: /cm-guides/guardian/power-dragonhunter
+hasCMGuide: true
 classification:
   - 3
   - 4
   - 3
   - 2
   - 4
-compositions:
-  - name: _RGB
 character:
   - note: >-
       If you use <Trait name="Perfectinscriptions"/> you are lacking critical

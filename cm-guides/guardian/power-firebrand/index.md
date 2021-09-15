@@ -1,10 +1,8 @@
 ---
 title: 'Firebrand CM guides'
-build: 'Power Firebrand'
 profession: 'Guardian'
 specialization: 'Firebrand'
 date: '2021-02-24'
-disableOrganized: 'false'
 disableBosses: ['LightAi', 'DarkAi']
 ---
 
@@ -22,84 +20,77 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 
 ### **Phase 1**
 
--   Precast <Skill name="tome of justice"/> skill 4 and 5, <Skill name="Symbolofblades"/>, <Skill name="shieldofwrath"/> and <Skill name="Symbol of Resolution"/> when she is still invulnerable
+- Precast <Skill name="tome of justice"/> skill 4 and 5, <Skill name="Symbolofblades"/>, <Skill name="shieldofwrath"/> and <Skill name="Symbol of Resolution"/> when she is still invulnerable
 
--   Cast <Skill name="banesignet"/> to CC
+- Cast <Skill name="banesignet"/> to CC
 
--   Use <Skill name="whirlingwrath"/>
+- Use <Skill name="whirlingwrath"/>
 
+### _First Add_
 
-### *First Add*
+- Use <Skill name="hammerofwisdom"/>
 
--   Use <Skill name="hammerofwisdom"/>
-
--   Use <Skill name="Bindingblade"/> -> <Skill name="Pull"/>
-
+- Use <Skill name="Bindingblade"/> -> <Skill name="Pull"/>
 
 ### **Phase 2**
 
--   <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath
+- <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   Weapon swap
+- Weapon swap
 
--   <Skill name="rayof judgment"/>
+- <Skill name="rayof judgment"/>
 
--   <Skill name="symbol of blades"/>
+- <Skill name="symbol of blades"/>
 
--   <Skill name="zealots defense"/> if Mama is about to phase (50% HP), keep it for either the add or better for phase 3
+- <Skill name="zealots defense"/> if Mama is about to phase (50% HP), keep it for either the add or better for phase 3
 
+### _Second Add_
 
-### *Second Add*
-
--   Use <Skill name="hammerofwisdom"/>
-
+- Use <Skill name="hammerofwisdom"/>
 
 ### **Phase 3**
 
--   Cast <Skill name="banesignet"/> to CC
+- Cast <Skill name="banesignet"/> to CC
 
--   <Skill name="shield of wrath"/> while casting <Skill name="banesignet"/>
+- <Skill name="shield of wrath"/> while casting <Skill name="banesignet"/>
 
--   <Skill name="symbol of blades"/>
+- <Skill name="symbol of blades"/>
 
--   <Skill name="zealots defense"/>
+- <Skill name="zealots defense"/>
 
--   Weapon Swap
+- Weapon Swap
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
+### _Third Add_
 
-### *Third Add*
+- Use <Skill name="hammerofwisdom"/>
 
--   Use <Skill name="hammerofwisdom"/>
-
--   Use <Skill name="Bindingblade"/> -> <Skill name="Pull"/> ( can be used if the bar is not broken yet)
-
+- Use <Skill name="Bindingblade"/> -> <Skill name="Pull"/> ( can be used if the bar is not broken yet)
 
 ### **Phase 4**
 
--   <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath for stacking <Boon name="Might"/> before she reach the party (Ideally right when the third add dies)
+- <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath for stacking <Boon name="Might"/> before she reach the party (Ideally right when the third add dies)
 
--   Help with CC with  whatever you have
+- Help with CC with whatever you have
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   Weapon swap
+- Weapon swap
 
--   <Skill name="ray of judgment"/>
+- <Skill name="ray of judgment"/>
 
--   <Skill name="symbol of blades"/>
+- <Skill name="symbol of blades"/>
 
--   <Skill name="zealots defense"/> (if Mama is not dead yet)
-
+- <Skill name="zealots defense"/> (if Mama is not dead yet)
 
 ---
 
@@ -111,85 +102,81 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 
 ### **Phase 1**
 
--   Cast <Skill name="tome of justice"/> skill 4 and 5 before the encounter starts
+- Cast <Skill name="tome of justice"/> skill 4 and 5 before the encounter starts
 
--   Cast <Skill name="symbolofblades"/> slightly before the encounter starts
+- Cast <Skill name="symbolofblades"/> slightly before the encounter starts
 
--   Use <Skill name="swordofjustice"/>
+- Use <Skill name="swordofjustice"/>
 
--   <Skill name="zealotsdefense"/>
+- <Skill name="zealotsdefense"/>
 
--   <Skill name="ray of judgment"/>
+- <Skill name="ray of judgment"/>
 
--   <Skill name="shield of wrath"/>
+- <Skill name="shield of wrath"/>
 
--   Weapon swap
+- Weapon swap
 
--   Use <Skill name="banesignet"/> to CC
+- Use <Skill name="banesignet"/> to CC
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
-
-### *Split Phase 1*
+### _Split Phase 1_
 
 NOTE - you should help your <Specialization name="Weaver"/> on the north
 
--   Use <Skill name="swordofjustice"/> for <Condition name="vulnerability"/> and damage
+- Use <Skill name="swordofjustice"/> for <Condition name="vulnerability"/> and damage
 
--   Feel free to use <Skill name="leapoffaith"/>
+- Feel free to use <Skill name="leapoffaith"/>
 
--   Auto attack
-
+- Auto attack
 
 ### **Phase 2**
 
--   <Skill name="sword of justice"/>
+- <Skill name="sword of justice"/>
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
+- Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
 
--   Weapon swap
+- Weapon swap
 
--   <Skill name="symbolofblades"/>
+- <Skill name="symbolofblades"/>
 
--   <Skill name="zealotsdefense"/>
+- <Skill name="zealotsdefense"/>
 
--   Share Aegis to block the red AoE
+- Share Aegis to block the red AoE
 
+### _Split Phase 2_
 
-### *Split Phase 2*
+NOTE - you should help both <Specialization name="Weaver"/> and <Specialization name="Soulbeast"/> with their adds
 
-NOTE - you should help both <Specialization name="Weaver"/>  and <Specialization name="Soulbeast"/> with their adds
+- Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
 
--   Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
-
--   Help <Specialization name="Weaver"/> by using <Skill name="ray of judgment"/> on his add
-
+- Help <Specialization name="Weaver"/> by using <Skill name="ray of judgment"/> on his add
 
 ### **Phase 3**
 
--   Precast <Skill name="banesignet"/>
+- Precast <Skill name="banesignet"/>
 
--   Use <Skill name="sword of justice"/>
+- Use <Skill name="sword of justice"/>
 
--   <Skill name="symbolofblades"/>
+- <Skill name="symbolofblades"/>
 
--   <Skill name="zealotsdefense"/>
+- <Skill name="zealotsdefense"/>
 
--   <Skill name="shield of wrath"/>
+- <Skill name="shield of wrath"/>
 
--   Weapon swap
+- Weapon swap
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
+- Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
 
 </ConditionalComponent>
 
@@ -197,9 +184,9 @@ NOTE - you should help both <Specialization name="Weaver"/>  and <Specialization
 <Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" healId="21664" utility1Id="30364" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   The rotation for scepter/sword is the same for every specialization. **Sword tends to perform much better on both <Specialization name="Firebrand"/> and <Specialization name="Dragonhunter"/>**!
 
--   When playing <Specialization text="Core Guardian" name="Guardian"/> you will have a free utility slot. Take <Skill name="judges intervention"/> to get back to siax fast after the seoncd split phase.
+- When playing <Specialization text="Core Guardian" name="Guardian"/> you will have a free utility slot. Take <Skill name="judges intervention"/> to get back to siax fast after the seoncd split phase.
 
--   As <Specialization text="Core Guardian" name="Guardian"/> you may run <Trait name="righthand strength"/> for lower cooldowns on sword and additional stat increase!
+- As <Specialization text="Core Guardian" name="Guardian"/> you may run <Trait name="righthand strength"/> for lower cooldowns on sword and additional stat increase!
 
 </Boss>
 
@@ -211,91 +198,87 @@ These builds only work if you can kill Siax in under 40 seconds. If there is any
 <Tab specialization="Dragonhunter" title="Dragonhunter">
 ### **Phase 1**
 
--   <Skill name="symbolofblades"/>
+- <Skill name="symbolofblades"/>
 
--   <Skill name="sword of justice"/>
+- <Skill name="sword of justice"/>
 
--   <Skill name="spear of justice"/>
+- <Skill name="spear of justice"/>
 
--   <Skill name="zealotsdefense"/>
+- <Skill name="zealotsdefense"/>
 
--   <Skill name="ray of judgment"/>
+- <Skill name="ray of judgment"/>
 
--   Weapon swap
+- Weapon swap
 
--   <Skill name="banesignet"/>
+- <Skill name="banesignet"/>
 
--   <Skill name="Symbol of Resolution"/> (only use it if it's in P2 off cooldown)
+- <Skill name="Symbol of Resolution"/> (only use it if it's in P2 off cooldown)
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
+### _Split 1_
 
-### *Split 1*
+- you should help your <Specialization name="Weaver"/> on the north
 
--   you should help your <Specialization name="Weaver"/> on the north
+- <Skill name="sword of justice"/>
 
--   <Skill name="sword of justice"/>
+- Feel free to use <Skill name="leapoffaith"/>
 
--   Feel free to use <Skill name="leapoffaith"/>
-
--   Auto attack
-
+- Auto attack
 
 ### **Phase 2**
 
--   <Skill name="sword of justice"/>
+- <Skill name="sword of justice"/>
 
--   <Skill name="processionofblades"/>
+- <Skill name="processionofblades"/>
 
--   <Skill name="spear of justice"/>
+- <Skill name="spear of justice"/>
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
+- Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
 
--   Weapon swap
+- Weapon swap
 
--   <Skill name="symbolofblades"/>
+- <Skill name="symbolofblades"/>
 
--   <Skill name="zealotsdefense"/>
+- <Skill name="zealotsdefense"/>
 
--   Share Aegis by using <Skill name="shieldofcourage"/> to block the red AoE
+- Share Aegis by using <Skill name="shieldofcourage"/> to block the red AoE
 
+### _Split 2_
 
-### *Split 2*
+- you should help both <Specialization name="Weaver"/> and <Specialization name="Soulbeast"/> with their adds
 
--   you should help both <Specialization name="Weaver"/>  and <Specialization name="Soulbeast"/> with their adds
+- Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
 
--   Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
-
--   Help <Specialization name="Weaver"/> by using <Skill name="ray of judgment"/> and add some auto attacks
-
+- Help <Specialization name="Weaver"/> by using <Skill name="ray of judgment"/> and add some auto attacks
 
 ### **Phase 3**
 
--   Precast <Skill name="banesignet"/>
+- Precast <Skill name="banesignet"/>
 
--   <Skill name="feelmywrath"/>
+- <Skill name="feelmywrath"/>
 
--   Use <Skill name="sword of justice"/>
+- Use <Skill name="sword of justice"/>
 
--   <Skill name="procession of blades"/>
+- <Skill name="procession of blades"/>
 
--   <Skill name="spear of justice"/>
+- <Skill name="spear of justice"/>
 
--   <Skill name="symbol of punishment"/>
+- <Skill name="symbol of punishment"/>
 
--   <Skill name="shield of wrath"/>
+- <Skill name="shield of wrath"/>
 
--   Weapon swap
+- Weapon swap
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
+- Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
 
 </Tab>
 
@@ -306,87 +289,83 @@ These builds only work if you can kill Siax in under 40 seconds. If there is any
 
 ### **Phase 1**
 
--   <Skill name="symbol of blades"/>
+- <Skill name="symbol of blades"/>
 
--   <Skill name="sword of justice"/>
+- <Skill name="sword of justice"/>
 
--   <Skill name="ray of judgment"/>
+- <Skill name="ray of judgment"/>
 
--   <Skill name="shield of wrath"/>
+- <Skill name="shield of wrath"/>
 
--   <Skill name="virtue of justice"/>
+- <Skill name="virtue of justice"/>
 
--   <Skill name="zealots defense"/>
+- <Skill name="zealots defense"/>
 
--   <Skill name="banesignet"/>
+- <Skill name="banesignet"/>
 
--   <Skill name="symbol of blades"/>
+- <Skill name="symbol of blades"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
+### _Split 1_
 
-### *Split 1*
+- you should help your <Specialization name="Weaver"/> on the north
 
--   you should help your <Specialization name="Weaver"/> on the north
+- Feel free to use <Skill name="leapoffaith"/>
 
--   Feel free to use <Skill name="leapoffaith"/>
-
--   Auto attack
-
+- Auto attack
 
 ### **Phase 2**
 
--   <Skill name="sword of justice"/>
+- <Skill name="sword of justice"/>
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="virtue of resolve"/>
+- <Skill name="virtue of resolve"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
+- Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
 
--   Weapon swap
+- Weapon swap
 
--   <Skill name="symbol of blades"/>
+- <Skill name="symbol of blades"/>
 
--   <Skill name="zealots defense"/>
-
+- <Skill name="zealots defense"/>
 
 Keep in mind that if your group is not fast enough, you need to use <Skill name="virtue of courage"/> for <Boon name="Aegis"/>.
 
-### *Split 2*
+### _Split 2_
 
--   you should help both <Specialization name="Weaver"/>  and <Specialization name="Soulbeast"/> with their adds
+- you should help both <Specialization name="Weaver"/> and <Specialization name="Soulbeast"/> with their adds
 
--   Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
+- Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
 
--   Help <Specialization name="Weaver"/> by using <Skill name="symbol of blades"/> and/or <Skill name="ray of judgment"/> on his add
+- Help <Specialization name="Weaver"/> by using <Skill name="symbol of blades"/> and/or <Skill name="ray of judgment"/> on his add
 
--   You can run <Skill name="judges intervention"/> to get back to Siax fast
-
+- You can run <Skill name="judges intervention"/> to get back to Siax fast
 
 ### **Phase 3**
 
--   Precast <Skill name="banesignet"/>
+- Precast <Skill name="banesignet"/>
 
--   Use <Skill name="sword of justice"/>
+- Use <Skill name="sword of justice"/>
 
--   <Skill name="feelmywrath"/>
+- <Skill name="feelmywrath"/>
 
--   <Skill name="virtue of justice"/>
+- <Skill name="virtue of justice"/>
 
--   <Skill name="zealots defense"/>
+- <Skill name="zealots defense"/>
 
--   <Skill name="shield of wrath"/>
+- <Skill name="shield of wrath"/>
 
--   Weapon swap
+- Weapon swap
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
+- Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
 
 </Tab>
 </Tabs>
@@ -406,78 +385,75 @@ If your group can phase Ensolyss in under 16 seconds you can swap to <Specializa
 
 ### **Phase 1**
 
--   Precast <Skill name="tome of justice"/> skill 4 and 5
+- Precast <Skill name="tome of justice"/> skill 4 and 5
 
--   <Skill name="sword of justice"/> and  <Skill name="shield of wrath"/> as soon as Ensolyss lands
+- <Skill name="sword of justice"/> and <Skill name="shield of wrath"/> as soon as Ensolyss lands
 
--   Use <Skill name="banesignet"/> to CC
+- Use <Skill name="banesignet"/> to CC
 
--   <Skill name="symbol of blades"/>
+- <Skill name="symbol of blades"/>
 
--   <Skill name="sword of justice"/>
+- <Skill name="sword of justice"/>
 
--   <Skill name="ray of judgment"/>
+- <Skill name="ray of judgment"/>
 
--   <Skill name="zealotsdefense"/>
+- <Skill name="zealotsdefense"/>
 
--   <Skill name="sword of justice"/>
+- <Skill name="sword of justice"/>
 
--   Weapon swap
+- Weapon swap
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   <Skill name="Bindingblade"/>
+- <Skill name="Bindingblade"/>
 
--   <Skill name="leapoffaith"/>
+- <Skill name="leapoffaith"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   Weapon swap
-
+- Weapon swap
 
 ### **Phase 2 and 3**
 
--   Cast <Skill name="tome of justice"/> Skill 4
+- Cast <Skill name="tome of justice"/> Skill 4
 
--   <Skill name="symbol of blades"/>
+- <Skill name="symbol of blades"/>
 
--   <Skill name="sword of justice"/>
+- <Skill name="sword of justice"/>
 
--   <Skill name="ray of judgment"/>
+- <Skill name="ray of judgment"/>
 
--   <Skill name="shield of wrath"/>
+- <Skill name="shield of wrath"/>
 
--   <Skill name="banesignet"/> to CC
+- <Skill name="banesignet"/> to CC
 
--   <Skill name="sword of justice"/>
+- <Skill name="sword of justice"/>
 
--   <Skill name="zealotsdefense"/>
+- <Skill name="zealotsdefense"/>
 
--   Weapon swap
+- Weapon swap
 
--   <Skill name="Symbol of Resolution"/>
+- <Skill name="Symbol of Resolution"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   <Skill name="Bindingblade"/>
+- <Skill name="Bindingblade"/>
 
--   <Skill name="leapoffaith"/>
+- <Skill name="leapoffaith"/>
 
--   <Skill name="sword of justice"/>
+- <Skill name="sword of justice"/>
 
--   <Skill name="whirling wrath"/>
+- <Skill name="whirling wrath"/>
 
--   Weapon swap
-
+- Weapon swap
 
 Notes:
 
--   Share your <Boon name="Quickness"/> only while fighting the boss!
+- Share your <Boon name="Quickness"/> only while fighting the boss!
 
--   Your rotation might be slightly different depending on the recharge of your <Skill name="sword of justice"/>.
-
+- Your rotation might be slightly different depending on the recharge of your <Skill name="sword of justice"/>.
 
 <ConditionalComponent condition="pug">
 <Boss name="Skorvald" video="4E3fM2vqwrU" videoCreator="SLifeR [dT]" foodId="91805" utilityId="9443" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
@@ -505,15 +481,13 @@ Skill usage on Skorvald depends on whether your <Specialization name="Renegade"/
 
 6.  <Skill name="whirling wrath"/>
 
-
-### *Split phases*
+### _Split phases_
 
 1.  First Island
 
     1.  Share <Boon name="Aegis"/>
 
     2.  <Skill name="whirling wrath"/>
-
 
 2.  Second Island
 
@@ -525,13 +499,11 @@ Skill usage on Skorvald depends on whether your <Specialization name="Renegade"/
 
     4.  Weapon Swap
 
-
 3.  Third island
 
     1.  <Skill name="tome of courage"/> Skill 5 and 1 for <Boon name="Stability"/> and share <Boon name="Aegis"/> as well
 
     2.  <Skill name="symbol of punishment"/>
-
 
 4.  Fourth island
 
@@ -542,8 +514,6 @@ Skill usage on Skorvald depends on whether your <Specialization name="Renegade"/
     3.  <Skill name="bane signet"/>
 
     4.  Blast the fire field with <Skill name="Shield of wrath"/>
-
-
 
 ### **Phase 2 and 3**
 
@@ -557,13 +527,11 @@ Skill usage on Skorvald depends on whether your <Specialization name="Renegade"/
 
 5.  <Skill name="bindingblade"/>
 
-
 Notes:
 
 1.  If your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/> precast one <Skill name="sword of justice"/> at the start, Then use on each island and at the start of both phase 2 and 3
 
 2.  Be careful with what island you choose for your <Item name="white mantle portal device"/>: Don't use it at the island where you are supposed to enter any of your tomes
-
 
 ---
 
@@ -607,7 +575,6 @@ Stay in the middle
 11. <Skill name="whirling wrath"/>
 
 12. Weapon swap
-
 
 ### **Phase 2 and 3**
 
@@ -666,7 +633,6 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 
 7.  <Skill name="zealotsdefense"/> while she jumps away.
 
-
 ### **Phase 2 and 3**
 
 1.  Cast <Skill name="banesignet"/> as soon as possible
@@ -691,7 +657,7 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 <Boss name="Arkk" video="ZeqPBPfK7Ow" videoCreator="SLifeR [dT]" foodId="91805" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   Play scepter on this encounter
 
--   Place markers for the blooms
+- Place markers for the blooms
 
 </Boss>
 </ConditionalComponent>
@@ -700,9 +666,9 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 <Boss name="Arkk" video="BzokxHx0ufM" timestamp="135" videoCreator="Ganny [dT]" foodId="91805" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   Play scepter on this encounter
 
--   Place markers for the blooms
+- Place markers for the blooms
 
--   You can run <Item id="43360"/> if you are able to damage the first anomaly and adds in the later phases.
+- You can run <Item id="43360"/> if you are able to damage the first anomaly and adds in the later phases.
 
 </Boss>
 </ConditionalComponent>
@@ -723,8 +689,7 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 
 7.  Take mistlock
 
-8.  Use  <Skill name="Feelmywrath"/>  and <Skill name="banesignet"/> again!
-
+8.  Use <Skill name="Feelmywrath"/> and <Skill name="banesignet"/> again!
 
 ### **Phase 1**
 
@@ -752,7 +717,6 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 
 12. Take your orb and stay on greatsword
 
-
 ### **Phase 2**
 
 You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
@@ -763,8 +727,7 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 
 3.  <Skill name="whirling wrath"/>
 
-
-### *Add Phase 1*
+### _Add Phase 1_
 
 1.  Precast <Skill name="sword of justice"/> to apply <Condition name="vulnerability"/>
 
@@ -773,7 +736,6 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 3.  You can enter <Skill name="tome of justice"/> and pull (skill 3) the mobs closer to the middle, then use skill 4
 
 4.  Cast <Skill name="banesignet"/> as the add is about to die
-
 
 ### **Phase 3**
 
@@ -795,7 +757,6 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 
 9.  Take your orb and stay on sword
 
-
 ### **Phase 4**
 
 1.  <Skill name="sword of justice"/>
@@ -810,8 +771,7 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 
 6.  <Skill name="whirling wrath"/>
 
-
-### *Add Phase 2*
+### _Add Phase 2_
 
 1.  Precast <Skill name="sword of justice"/> to apply <Condition name="vulnerability"/>
 
@@ -820,7 +780,6 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 3.  You can enter <Skill name="tome of justice"/> and pull (skill 3) the mobs closer to the middle, then use skill 4
 
 4.  Cast <Skill name="banesignet"/> as the add is about to die
-
 
 ### **Phase 5**
 
@@ -837,7 +796,6 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 6.  <Skill name="zealotsdefense"/>
 
 7.  Take your orb and stay on sword
-
 
 ### **Phase 6**
 
@@ -858,7 +816,6 @@ You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 8.  <Skill name="Symbol of Resolution"/>
 
 9.  <Skill name="whirling wrath"/>
-
 
 Annotation:
 

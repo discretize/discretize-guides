@@ -1,11 +1,9 @@
 ---
 title: 'Weaver CM guides'
-build: 'Power Weaver'
 profession: 'Elementalist'
 specialization: 'Weaver'
 date: '2021-02-24'
 author: 'KalzeN.8709'
-disableOrganized: 'false'
 disableBosses: ['LightAi', 'DarkAi']
 ---
 

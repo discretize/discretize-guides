@@ -21,7 +21,7 @@ boons:
   - Stability
   - Aegis
 code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-cmguides: /cm-guides/guardian/heal-firebrand
+hasCMGuide: true
 classification:
   - 4
   - 1

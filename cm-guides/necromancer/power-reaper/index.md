@@ -1,11 +1,10 @@
 ---
 title: 'Reaper CM guides'
-build: 'Power-Reaper'
 profession: 'Necromancer'
 specialization: 'Reaper'
 date: '2021-02-24'
 author: 'Discord: Jes#6596'
-disableOrganized: 'true'
+disableSwitch: true
 disableBosses: ['LightAi', 'DarkAi']
 ---
 
@@ -17,10 +16,9 @@ disableBosses: ['LightAi', 'DarkAi']
 
 2.  Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
 
-3.  Take *Mistlock Singularity*
+3.  Take _Mistlock Singularity_
 
-4.  Cast <Skill name="Lich Form"/> 4 halfway to *MAMA*
-
+4.  Cast <Skill name="Lich Form"/> 4 halfway to _MAMA_
 
 ### **Phase 1**
 
@@ -34,10 +32,9 @@ disableBosses: ['LightAi', 'DarkAi']
 
 5.  enter shroud and use <Skill name="Soul Spiral"/> (Shroud 4)
 
-6.  Auto Attack in shroud until *MAMA* phases
+6.  Auto Attack in shroud until _MAMA_ phases
 
-
-### *First Add*
+### _First Add_
 
 1.  CC the add if needed
 
@@ -47,10 +44,9 @@ disableBosses: ['LightAi', 'DarkAi']
 
 4.  <Skill name="Gravedigger"/> (GS 2) until the add dies
 
-
 ### **Phase 2**
 
-1.  Cast your healing signet on *MAMA* if it is off cooldown as you run to her
+1.  Cast your healing signet on _MAMA_ if it is off cooldown as you run to her
 
 2.  Use <Skill name="Death Spiral"/> (GS 3) (if off cooldown)
 
@@ -66,10 +62,9 @@ disableBosses: ['LightAi', 'DarkAi']
 
 8.  <Skill name="Soul Spiral"/> (Shroud 4)
 
-9.  Auto attack until *MAMA* phases
+9.  Auto attack until _MAMA_ phases
 
-
-### *Second Add*
+### _Second Add_
 
 1.  <Skill name="Wail of Doom"/> (Warhorn 4) to help CC
 
@@ -77,18 +72,15 @@ disableBosses: ['LightAi', 'DarkAi']
 
 3.  Weapon swap
 
-
 If under 50% health:
 
 1.  Use <Skill name="Gravedigger"/> (GS 2)
-
 
 If not under 50% health:
 
 1.  Use <Skill name="Death Spiral"/> (GS 3)
 
 2.  then <Skill name="Gravedigger"/> (GS 2)
-
 
 ### **Phase 3**
 
@@ -98,9 +90,9 @@ If not under 50% health:
 
 3.  Place both of your wells
 
-4.  If *MAMA* is broken: <Skill name="Soul Spiral"/> (Shroud 4)
+4.  If _MAMA_ is broken: <Skill name="Soul Spiral"/> (Shroud 4)
 
-5.  If *MAMA* isn't broken:
+5.  If _MAMA_ isn't broken:
 
     1.  <Skill name="Infusing Terror"/> (Shroud 3)
 
@@ -108,11 +100,9 @@ If not under 50% health:
 
     3.  <Skill name="Soul Spiral"/> (Shroud 4)
 
+6.  Auto attack until _MAMA_ phases
 
-6.  Auto attack until *MAMA* phases
-
-
-### *Third Add*
+### _Third Add_
 
 1.  CC the add
 
@@ -122,12 +112,11 @@ If not under 50% health:
 
 4.  <Skill name="Gravedigger"/> (GS 2) until the add dies
 
-
 ### **Phase 4**
 
-1.  Use <Skill name="Signet of Vampirism"/> (Heal) when *MAMA* jumps
+1.  Use <Skill name="Signet of Vampirism"/> (Heal) when _MAMA_ jumps
 
-2.  CC *MAMA*
+2.  CC _MAMA_
 
 3.  Use <Skill name="Grasping Darkness"/> (GS 5)
 
@@ -143,8 +132,7 @@ If not under 50% health:
 
 9.  <Skill name="Soul Spiral"/> (Shroud 4)
 
-10. Auto attack until *MAMA* dies (if yourun out of life force, <Skill name="Gravedigger"/> (GS 2))
-
+10. Auto attack until _MAMA_ dies (if yourun out of life force, <Skill name="Gravedigger"/> (GS 2))
 
 ---
 
@@ -162,10 +150,9 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 
 3.  Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
 
-4.  Take *Mistlock Singularity*
+4.  Take _Mistlock Singularity_
 
 5.  Cast <Skill name="Lich Form"/> 4 at the orb before the encounter starts\_
-
 
 ### **Phase 1**
 
@@ -181,22 +168,19 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 
 6.  <Skill name="Executioners Scythe"/> (Shroud 5)
 
-7.  Shroud auto attack until *Siax* phases **or** you are at ~6k Life force
+7.  Shroud auto attack until _Siax_ phases **or** you are at ~6k Life force
 
     1.  Use <Skill name="Gravedigger"/> (GS 2)
 
-    2.  Autoattack until *Siax* phases
+    2.  Autoattack until _Siax_ phases
 
-
-
-### *Split Phase 1*
+### _Split Phase 1_
 
 1.  Use <Skill name="Death Spiral"/> (GS 3)
 
 2.  Auto attack until 50%
 
 3.  <Skill name="Gravedigger"/> (GS 2)
-
 
 ### **Phase 2**
 
@@ -210,20 +194,17 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 
 5.  <Skill name="Soul Spiral"/> (Shroud 4)
 
-6.  Shroud auto attack until *Siax* phases **or** you are at ~6k Life force
+6.  Shroud auto attack until _Siax_ phases **or** you are at ~6k Life force
 
     1.  Use <Skill name="Gravedigger"/> (GS 2) until phases
 
-
-
-### *Split Phase 2*
+### _Split Phase 2_
 
 1.  Use <Skill name="Death Spiral"/> (GS 3)
 
 2.  Auto attack until 50%
 
 3.  Use <Skill name="Gravedigger"/> (GS 2)
-
 
 ### **Phase 3**
 
@@ -241,9 +222,7 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 
     1.  (If <Skill name="Soul Spiral"/> comes off colldown, use it)
 
-    2.  Use <Skill name="Gravedigger"/> (GS 2) until *Siax* dies
-
-
+    2.  Use <Skill name="Gravedigger"/> (GS 2) until _Siax_ dies
 
 ---
 
@@ -263,14 +242,13 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 
 2.  Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
 
-3.  Take *Mistlock Singularity*
+3.  Take _Mistlock Singularity_
 
 4.  Cast <Skill name="Lich Form"/> 4 at the orb
 
-
 ### **Phase 1**
 
-If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the golem so that the charge hits *ENSOLYSS* as the invulnerability disappearsIf you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and use <Skill name="Wail of Doom"/> (warhorn 4) as the invulnerability disappears and weapon swap
+If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the golem so that the charge hits _ENSOLYSS_ as the invulnerability disappearsIf you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and use <Skill name="Wail of Doom"/> (warhorn 4) as the invulnerability disappears and weapon swap
 
 1.  Cst your healing signet into the invulnerability
 
@@ -298,11 +276,11 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 13. <Skill name="Grasping Darkness"/> (GS 5)
 
-14. <Skill name="Nightfall"/> (GS 4)1)  Weapon swap2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC, if needed3) <Skill name="Ghastly Claws"/> (Axe 2)
+14. <Skill name="Nightfall"/> (GS 4)1) Weapon swap2) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC, if needed3) <Skill name="Ghastly Claws"/> (Axe 2)
 
 15. Place both of your wells
 
-16. help to CC *Ensolyss* if a break bar is up:
+16. help to CC _Ensolyss_ if a break bar is up:
 
     1.  <Skill name="Infusing Terror"/> (Shroud 3)
 
@@ -312,15 +290,13 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     4.  Auto attack
 
-
 17. Exit shroud on last few % until phase
 
 18. <Skill name="Ghastly Claws"/> (Axe 2) to refill life force
 
-
 ### **Phase 2**
 
-1.  Use  <Skill name="Signet of Vampirism"/> (Heal) to get back Scholar faster
+1.  Use <Skill name="Signet of Vampirism"/> (Heal) to get back Scholar faster
 
 2.  <Skill name="Locust Swarm"/> (Warhorn 5)
 
@@ -342,7 +318,7 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 11. continue rotation
 
-12. *Ensolyss* will charge, <Skill name="Signet of Vampirism"/> (Heal) **during his charge**
+12. _Ensolyss_ will charge, <Skill name="Signet of Vampirism"/> (Heal) **during his charge**
 
 13. <Skill name="Grasping Darkness"/> (GS 5)
 
@@ -352,8 +328,7 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 16. <Skill name="Soul Spiral"/> (Shroud 4)
 
-17. Spam <Skill name="Gravedigger"/> until *Ensolyss* phases
-
+17. Spam <Skill name="Gravedigger"/> until _Ensolyss_ phases
 
 ### **Phase 3**
 
@@ -367,8 +342,7 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 5.  For the last 15% stay in shroud until you have no life force left
 
-6.  If *Ensolyss* isn’t dead by then, place wells and spam <Skill name="Gravedigger"/>
-
+6.  If _Ensolyss_ isn’t dead by then, place wells and spam <Skill name="Gravedigger"/>
 
 ---
 
@@ -385,15 +359,13 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 3.  Cast <Skill name="Lich Form"/> 4
 
-4.  Take *Mistlock Singularity*
-
+4.  Take _Mistlock Singularity_
 
 ### **Phase 1**
 
-1.  Cast <Skill name="Lich Form"/> 4 before *Skorvald* starts
+1.  Cast <Skill name="Lich Form"/> 4 before _Skorvald_ starts
 
     1.  if your group is really fast, keep Lich Form for the last phase
-
 
 2.  <Skill name="Grasping Darkness"/> (GS 5)
 
@@ -401,15 +373,13 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 4.  Place both of your wells
 
-5.  If *Skorvald* is still not broken:2) <Skill name="Infusing Terror"/> (Shroud 3)
+5.  If _Skorvald_ is still not broken:2) <Skill name="Infusing Terror"/> (Shroud 3)
 
-    1.  <Skill name="Executioners Scythe"/> (Shroud 5)                                                                                                                       6) <Skill name="Soul Spiral"/> (Shroud 4)
+    1.  <Skill name="Executioners Scythe"/> (Shroud 5) 6) <Skill name="Soul Spiral"/> (Shroud 4)
 
+6.  Auto attack until _Skorvald_ phases
 
-6.  Auto attack until *Skorvald* phases
-
-
-### *Split Phase 1*
+### _Split Phase 1_
 
 1.  First Island
 
@@ -421,7 +391,6 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     4.  Auto attack until add dies
 
-
 2.  Second Island
 
     1.  <Skill name="Soul Spiral"/> (Shroud 4) after add evades attacks
@@ -429,7 +398,6 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
     2.  Shroud auto attack until add dies
 
     3.  <Skill name="Deaths Charge"/> (Shroud 2) into the updraft
-
 
 3.  Third island
 
@@ -439,7 +407,6 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     3.  Auto attack until add dies
 
-
 4.  Fourth island
 
     1.  <Skill name="Death Spiral"/> (GS 3)
@@ -447,8 +414,6 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
     2.  <Skill name="Gravedigger"/> (GS 2)
 
     3.  Auto attack until add dies, take portal back
-
-
 
 ### **Phase 2**
 
@@ -460,7 +425,7 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 4.  <Skill name="Soul Spiral"/> (Shroud 4)
 
-5.  Weapon swap (if *Skorvald* is not phased)
+5.  Weapon swap (if _Skorvald_ is not phased)
 
 6.  Continue attacking during his charges
 
@@ -474,10 +439,9 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 11. <Skill name="Soul Spiral"/> (Shroud 4)
 
-12. Shroud auto attack until *Skorvald* phases
+12. Shroud auto attack until _Skorvald_ phases
 
-
-### *Split Phase 2*
+### _Split Phase 2_
 
 1.  First Island
 
@@ -489,7 +453,6 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     4.  Auto attack until add dies
 
-
 2.  Second Island
 
     1.  <Skill name="Soul Spiral"/> (Shroud 4) after add evades attacks
@@ -497,7 +460,6 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
     2.  Shroud auto attack until add dies
 
     3.  <Skill name="Deaths Charge"/> (Shroud 2) into the updraft
-
 
 3.  Third island
 
@@ -507,14 +469,11 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     3.  Auto attack until add dies
 
-
 4.  Fourth island
 
     1.  <Skill name="Gravedigger"/> (GS 2)
 
     2.  Enter <Skill name="Lich Form"/>, auto until 15%, take portal back
-
-
 
 ### **Phase 3**
 
@@ -528,8 +487,7 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 5.  <Skill name="Soul Spiral"/> (Shroud 4)
 
-6.  Shroud auto attack until *Skorvald* dies
-
+6.  Shroud auto attack until _Skorvald_ dies
 
 ---
 
@@ -541,10 +499,9 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 2.  Precast <Skill id="12363"/> / Mistfire Wolf, etc (if you have it)
 
-3.  Take *Mistlock Singularity*
+3.  Take _Mistlock Singularity_
 
-4.  Precast Staff symbols on the corner *Artsariiv* goes to or on the 2 elites at start
-
+4.  Precast Staff symbols on the corner _Artsariiv_ goes to or on the 2 elites at start
 
 ### **Phase 1**
 
@@ -556,7 +513,7 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 4.  enter <Skill name="Lich Form"/>
 
-5.  Special action key to *Artsariiv*
+5.  Special action key to _Artsariiv_
 
 6.  cast Lich Form 4
 
@@ -582,14 +539,11 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     3.  Auto Attacks
 
-
-
-### *Split Phase 1*
+### _Split Phase 1_
 
 1.  Go to your marker/direction
 
 2.  CC the add with <Skill name="Grasping Darkness"/> (GS5), <Skill name="Wail of Doom"/> (Warhorn 4) and <Skill name="Executioners Scythe"/> (Shroud 5)
-
 
 ### **Phase 2**
 
@@ -599,7 +553,6 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     2.  <Skill name="Signet of Vampirism"/> (Heal)
 
-
 2.  <Skill name="Soul Spiral"/> (Shroud 4)
 
 3.  <Skill name="Ghastly Claws"/> (Axe 2)
@@ -608,11 +561,11 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 5.  <Skill name="Gravedigger"/> (GS 2)
 
-6.  Kill the anomaly, special action to *Artsariiv*
+6.  Kill the anomaly, special action to _Artsariiv_
 
-7.  Use both wells (hit the *Elite* add too)
+7.  Use both wells (hit the _Elite_ add too)
 
-8.  <Skill name="Nightfall"/> (GS 4) (hit the *Elite* add too)
+8.  <Skill name="Nightfall"/> (GS 4) (hit the _Elite_ add too)
 
 9.  Shroud auto attack
 
@@ -624,14 +577,11 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     1.  Spam <Skill name="Gravedigger"/> (GS 2)
 
-
-
-### *Split Phase 2*
+### _Split Phase 2_
 
 1.  Go to your marker/direction
 
 2.  CC the adds
-
 
 ### **Phase 3**
 
@@ -639,9 +589,9 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 2.  kill the anomaly
 
-3.  <Skill name="Nightfall"/> (GS 4) (hit the *Elite* add too)
+3.  <Skill name="Nightfall"/> (GS 4) (hit the _Elite_ add too)
 
-4.  Place both of your wells (hit the *Elite* add too)
+4.  Place both of your wells (hit the _Elite_ add too)
 
 5.  <Skill name="Soul Spiral"/> (Shroud 4)
 
@@ -649,9 +599,7 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     1.  <Skill name="Soul Spiral"/> (Shroud 4) if it gets off cooldown
 
-
 7.  Spam <Skill name="Gravedigger"/> (GS 2)
-
 
 ---
 
@@ -670,10 +618,9 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 4.  Cast <Skill name="Lich Form"/> 4
 
-5.  Take *Mistlock Singularity*
+5.  Take _Mistlock Singularity_
 
 6.  Cast <Skill name="Lich Form"/> 4 **again**
-
 
 ### **Phase 1**
 
@@ -685,7 +632,7 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 4.  <Skill name="Soul Spiral"/> (Shroud 4)
 
-5.  Shroud auto attack until *Arkk* phases **or**
+5.  Shroud auto attack until _Arkk_ phases **or**
 
 6.  you are at ~6k Life force
 
@@ -693,13 +640,11 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     2.  <Skill name="Death Spiral"/> (GS 3)
 
-
 7.  Weapon swap
 
-8.  if *Arkk* is still not phased <Skill name="Ghastly Claws"/> (Axe 2)
+8.  if _Arkk_ is still not phased <Skill name="Ghastly Claws"/> (Axe 2)
 
 9.  Position yourself so that you can push the solar bloom with axe auto attacks into the pillar
-
 
 ### **Phase 2**
 
@@ -709,21 +654,19 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     2.  <Skill name="Signet of Vampirism"/> (Heal)
 
-
 2.  <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
 
-3.  <SpecialActionKey name="hypernovalaunch"/> on *Arkk* to help with CC
+3.  <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
 
 4.  <Skill name="Nightfall"/> (GS 4)
 
-5.  Place both of your wells (if your group is relatively fast, do *not* place wells here)
+5.  Place both of your wells (if your group is relatively fast, do _not_ place wells here)
 
 6.  <Skill name="Soul Spiral"/> (Shroud 4)
 
-7.  Shroud auto attack until *Arkk* phases
+7.  Shroud auto attack until _Arkk_ phases
 
-
-### *Add Phase 1*
+### _Add Phase 1_
 
 1.  Pull an add with <Skill name="Grasping Darkness"/> (GS 5)
 
@@ -734,7 +677,6 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 4.  Spam <Skill name="Gravedigger"/> (GS 2)
 
 5.  <SpecialActionKey name="hypernovalaunch"/> on the Elite to help with CC
-
 
 ### **Phase 3**
 
@@ -748,19 +690,17 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 5.  <Skill name="Soul Spiral"/> (Shroud 4)
 
-6.  Shroud auto attacks until *Arkk* phases **or** you reach ~6k life force
+6.  Shroud auto attacks until _Arkk_ phases **or** you reach ~6k life force
 
     1.  Use <Skill name="Gravedigger"/> (GS 2)
 
     2.  <Skill name="Death Spiral"/> (GS 3)
-
 
 7.  Weapon swap
 
 8.  <Skill name="Ghastly Claws"/> (Axe 2)
 
 9.  Position yourself so that you can push the solar bloom with axe auto attacks into the pillar
-
 
 ### **Phase 4**
 
@@ -770,21 +710,19 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
     2.  <Skill name="Signet of Vampirism"/> (Heal)
 
-
 2.  <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
 
-3.  <SpecialActionKey name="hypernovalaunch"/> on *Arkk* to help with CC
+3.  <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
 
 4.  <Skill name="Nightfall"/> (GS 4)
 
-5.  Place both of your wells (if your group is relatively fast, do *not* place wells here)
+5.  Place both of your wells (if your group is relatively fast, do _not_ place wells here)
 
 6.  <Skill name="Soul Spiral"/> (Shroud 4)
 
-7.  Shroud auto attack until *Arkk* phases
+7.  Shroud auto attack until _Arkk_ phases
 
-
-### *Add Phase 2*
+### _Add Phase 2_
 
 1.  Pull a golem (**preferably the blue one so it doesn't knock you back**) with <Skill name="Grasping Darkness"/> (GS 5)
 
@@ -795,7 +733,6 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 4.  Spam <Skill name="Gravedigger"/> (GS 2)
 
 5.  <SpecialActionKey name="hypernovalaunch"/> on the Elite to help with CC
-
 
 ### **Phase 5**
 
@@ -809,10 +746,9 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 5.  <Skill name="Soul Spiral"/> (Shroud 4)
 
-6.  Shroud auto attacks until *Arkk* phases **or**
+6.  Shroud auto attacks until _Arkk_ phases **or**
 
     1.  Use <Skill name="Gravedigger"/> (GS 2)
-
 
 7.  Weapon swap
 
@@ -820,35 +756,30 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 9.  Position yourself so that you can push the solar bloom with axe auto attacks into the pillar
 
-
 ### **Phase 6**
 
 1.  If you have <Skill name="Lich Form"/> off cooldown, use <Skill name="Lich Form"/> 4 after you have pushed your solar bloom into the pillar
 
-2.  Before *Skorvald*\_ becomes vulnerable:
+2.  Before _Skorvald_\_ becomes vulnerable:
 
     1.  <Skill name="Locust Swarm"/> (Warhorn 5)
 
     2.  <Skill name="Signet of Vampirism"/> (Heal)
 
-
 3.  help with CC
 
     1.  <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
 
-    2.  <SpecialActionKey name="hypernovalaunch"/> on *Arkk* to help with CC
-
+    2.  <SpecialActionKey name="hypernovalaunch"/> on _Arkk_ to help with CC
 
 4.  <Skill name="Grasping Darkness"/> (GS 5)
 
 5.  <Skill name="Nightfall"/> (GS 4)
 
-6.  Place both of your wells7 <Skill name="Soul Spiral"/> (Shroud 4)8 Shroud auto attack until *Arkk* dead9 If not dead spam <Skill name="Gravedigger"/> (GS 2)
-
+6.  Place both of your wells7 <Skill name="Soul Spiral"/> (Shroud 4)8 Shroud auto attack until _Arkk_ dead9 If not dead spam <Skill name="Gravedigger"/> (GS 2)
 
 Annotation:
 
 1.  If possible make sure you use <SpecialActionKey name="hypernovalaunch"/> to CC the adds
 
     1.  First add spawn AoE's that strips boons, make sure you avoid them
-

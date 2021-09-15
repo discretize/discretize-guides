@@ -1,5 +1,5 @@
 ---
-title: Power Berserker
+title: Banner Berserker
 date: 2021-06-01
 rating: Good
 role: Power Damage
@@ -17,21 +17,13 @@ conditions:
 boons:
   - Might
 code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmguides: /cm-guides/warrior/power-berserker
+hasCMGuide: true
 classification:
   - 4
   - 4
   - 4
   - 2
   - 4
-compositions:
-  - name: _Rainbow
-teaserVideo: ''
-benchmark:
-  small:
-    dps: 33563
-    by: KingMarcus.1408
-    youtube: LxHu4l36Zl0
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.

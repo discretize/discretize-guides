@@ -23,22 +23,13 @@ boons:
   - Might
   - Swiftness
 code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmguides: /cm-guides/elementalist/power-weaver
+hasCMGuide: true
 classification:
   - 4
   - 5
   - 2
   - 3
   - 4
-compositions:
-  - name: _Rainbow
-  - name: _Rainbearbow
-benchmark:
-  small:
-    dps: 38483
-    by: Fallen [SC]
-    youtube: ZtEY4lXt6Hc
-timeToRead: 6
 ---
 
 The <Specialization name="Weaver" text="Power Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.

@@ -18,7 +18,7 @@ boons:
   - Might
   - Stability
 code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
-cmguides: /cm-guides/revenant/power-renegade
+hasCMGuide: true
 classification:
   - 5
   - 2

@@ -4,7 +4,6 @@ date: 2021-08-26
 image: ./images/reflect.jpg
 description: Learn which skills and traits your profession can use to avoid
   damaging mechanics.
-hidden: "false"
 ---
 
 ## Projectiles Destruction / Reflection

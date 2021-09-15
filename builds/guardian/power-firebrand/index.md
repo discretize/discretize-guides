@@ -22,22 +22,13 @@ boons:
   - Resolution
   - Aegis
 code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-cmguides: /cm-guides/guardian/power-firebrand
+hasCMGuide: true
 classification:
   - 5
   - 3
   - 4
   - 2
   - 4
-compositions:
-  - name: _Rainbow
-  - name: _Rainbearbow
-  - name: _RGB
-benchmark:
-  small:
-    dps: 23300
-    by: MajesticNoodle [BATS]
-    youtube: G1Y1u4ZwJh8
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing very decent DPS.

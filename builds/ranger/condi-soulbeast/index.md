@@ -15,7 +15,7 @@ conditions:
   - Poisoned
   - Burning
 code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
-cmguides: /cm-guides/ranger/condi-soulbeast
+hasCMGuide: true
 classification:
   - 5
   - 4

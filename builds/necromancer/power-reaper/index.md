@@ -24,7 +24,7 @@ boons:
   - Fury
   - Quickness
 code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmguides: /cm-guides/necromancer/power-reaper
+hasCMGuide: true
 classification:
   - 1
   - 3

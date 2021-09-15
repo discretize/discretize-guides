@@ -3,7 +3,6 @@ title: Meta explained
 date: 2021-08-27
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
-hidden: 'false'
 ---
 
 ## What does meta mean?

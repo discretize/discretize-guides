@@ -1,6 +1,5 @@
 ---
 title: Condi Deadeye
-date: 2021-06-01
 rating: Condi Meta
 role: Condi Damage
 profession: Thief
@@ -22,7 +21,7 @@ boons:
   - Regeneration
   - Swiftness
   - Vigor
-code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
+hasCMGuide: false
 classification:
   - 3
   - 5
@@ -31,6 +30,8 @@ classification:
   - 4
 compositions:
   - name: _CRGB
+code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2021-09-15T15:43:26.792Z
 benchmark:
   small:
     dps: 40094
@@ -39,6 +40,7 @@ benchmark:
 ---
 
 <Message>
+
 This build is [META](/guides/meta-explained) in Sunqua Peak. In terms of DPS, this build is unlikely to fall behind any other specialization, whether they be running a power or condi build, as it has very high sustained DPS on single targets. It is however not recommended to play **<Specialization text="Condi Deadeye" name="Deadeye"/>** on encounters where power builds would perform better: a condi build will always have a tendency to interfere with a power composition, as it is not meant to have a higher upfront or burst damage. It is worth mentioning that *Venom Skills* are very strong, and precasting them on the *Mistlock Singularity* will allow for a very high burst, quite uncommon for condi builds but very valuable.
 </Message>
 

@@ -1,7 +1,7 @@
 ---
 title: Condi Weaver
 rating: Good
-role: Damage
+role: Condi Damage
 profession: Elementalist
 specialization: Weaver
 skills:
@@ -19,7 +19,7 @@ boons:
   - Stability
   - Swiftness
   - Regeneration
-code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -296,7 +296,6 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <Card title="Golem Rotation">
 <Video youtube="H5ZyMQln6hw" caption="by Roul [SC]" />
 </Card>
-
 
 <Card title="Important Notes">
 
