@@ -5,7 +5,146 @@ skills:
 effects:
   - Stealth
 title: Power Holosmith
-date: 2021-06-01
+sections:
+  - type: mdx
+    title: General
+    content: >-
+      The <Specialization text="Power Holosmith" name="Holosmith"/> is a
+      flexible build that can do well in a variety of different group
+      compositions.
+
+      It offers:
+
+      - High burst and good sustained damage
+
+      - Good crowd control
+
+      - Good utility through <Condition name="Vulnerability"/> and access to some <Condition name="Blinded"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>
+
+      - The ability to boonstrip with <Skill name="Detonate Mine Field"/> when running <Skill name="Throw Mine"/>
+
+      - An increbile skill set for various skips in Tier 4 fractals due to access to <Effect name="Stealth"/>, as well as <Effect name="Superspeed"/> and a targeted leap with <Skill name="Jump Shot"/>
+
+      - Some **self**-generation of <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Fury"/>
+
+
+      The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>.
+
+
+      The main thing the build lacks compared to other Power DPS classes is a unique party buff for Power compositions like <Specialization text="Power Dragonhunter" name="Dragonhunter"/>'s <Skill name="Bane Signet"/> share.
+
+
+      There are 3 different versions of <Specialization text="Power Holosmith" name="Holosmith"/>, namely Sword ECSU, Sword PBM and Rifle PBM. They are named after:
+
+      - The weapon they are holding, Sword+Shield vs Rifle.
+
+      - The Grandmaster Holosmith Trait they use, Enhanced Capacity Storage Unit (ECSU) vs Photonic Blasting Module (PBM).
+       
+      This guide will focus mainly on the Sword ECSU variant since it is the most flexible of the 3.
+  - type: equipment
+    title: Equipment
+    content: ""
+  - type: mdx
+    title: Default Build
+    content: >-
+      <Grid>
+
+      <GridItem sm="7">
+
+      <Traits traits1Id="38" traits1="Firearms" traits1SelectedIds="1914,1923,526" traits2Id="6" traits2="Explosives" traits2SelectedIds="1882,1892,1947" traits3Id="57" traits3="Holosmith" traits3SelectedIds="2106,2152,2137"/>
+
+
+      </GridItem>
+
+
+      <GridItem sm="5">
+
+      <Skills healId="21659" utility1Id="6020" utility2Id="5818" utility3Id="42842" eliteId="42009"/>
+
+
+      <Card title="Additional Skills">
+
+
+      |                                           |                                                                                                                                                                                                               |
+
+      | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+      | Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6178" size="big" disableText/><Skill id="42163" size="big" disableText/>                                        |
+
+      | <Skill id="6020" size="big" disableText/> | <Skill id="5806" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5810" size="big" disableText/> |
+
+
+      </Card>
+
+
+      </GridItem>
+
+      </Grid>
+  - type: mdx
+    title: Variations
+    content: >-
+      <Grid>
+
+
+      <GridItem sm="7">
+
+      <Card title="Situational Traits">
+
+
+      |                                                       |                                                                                                                    |
+
+      | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+
+      | <Trait name="Photonic Blasting Module" size="big" disableText/> | When running the Rifle or Sword PBM build. |
+
+      | <Trait name="Sanguine Array" size="big" disableText/> | If you are already crit capped without <Trait name="High Caliber"/> and struggle with <Boon name="Might"/> uptime. |
+
+
+      <Traits traits1Id="21" traits1="Tools" traits1SelectedIds="532,512,1856" unembossed/>
+
+      If your <Boon name="Quickness"/> uptime is low, you can swap out the Firearms trait line with Tools and replace <Skill id="5805"/> with <Skill id="43739"/>.
+
+
+      <Traits traits1="Scrapper" traits1Selected="Gyroscopic Acceleration" unembossed />
+
+      For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect name="Stealth"/> and <Effect name="Superspeed"/>. <Effect name="Stealth"/> can be provided through <Skill name="Sneak Gyro"/>. <Effect name="Superspeed"/> is provided through Gyros with a delay due to <Trait name="Gyroscopic Acceleration"/>. <Skill name="Medic Gyro"/> also provides some instant <Effect name="Superspeed"/> on top. <Skill name="Bulwark Gyro"/> and <Skill name="Purge Gyro"/> can be used without drawing aggro from enemies. <Skill name="Bypass Coating"/> can provide some instant <Effect name="Superspeed"/> as well.
+
+      </Card>
+
+      </GridItem>
+
+
+      <GridItem sm="5">
+
+      <Card title="Situational Skills">
+
+
+      |                                            |                                                                                                                                                                                                       |
+
+      | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
+      | <Skill id="5857" size="big" disableText/>  | An alternative heal skill if condition cleanse is needed. You can cast it AFTER (cause of water field) a fire field to blast <Boon name="might"/>.                                                                      |
+
+      | <Skill id="43739" size="big" disableText/> | A (group) block that also reflects projectiles if heat is above 50. (replace <Skill id="6020"/>)                                                                                        |
+
+      | <Skill id="30337" size="big" disableText/> | Offers higher burst than <Skill id="5818"/>. Very effective countermeasure for <Instability name="No Pain, No Gain"/>! |
+
+
+      | <Skill name="Bomb Kit" size="big" disableText/> | Default pick for the Rifle variant instead of <Skill name="Rifle Turret"/>. Can be helpful to provide a smoke field through <Skill name="Smoke Bomb"/> or fire field through <Skill name="Fire Bomb"/>. |
+
+      | <Skill name="Flamethrower" size="big" disableText/> | Can provide a fire field and a blast finisher. You can pre-cast the toolbelt skill <Skill name="Incendiary Ammo"/> for some extra damage.
+
+
+      </Card>
+
+
+      </GridItem>
+
+      </Grid>
+  - type: mdx
+    title: Rotation/Skill Usage
+    content: ""
 rating: Good
 role: Power Damage
 profession: Engineer
@@ -15,99 +154,128 @@ conditions:
   - Blinded
   - Crippled
   - Immobile
-code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]"
+hasCMGuide: false
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
+character:
+  - title: 150 Agony Resistance
+    gear: |-
+      {
+        "gear": [
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker"
+        ],
+        "attributes": {
+          "Health": 15922,
+          "Armor": 2343,
+          "Power": 3496,
+          "Precision": 2286,
+          "Toughness": 1225,
+          "Vitality": 1000,
+          "Ferocity": 1756,
+          "Condition Damage": 750,
+          "Expertise": 0,
+          "Concentration": 225,
+          "Healing Power": 0,
+          "Agony Resistance": 150,
+          "Condition Duration": 0,
+          "Boon Duration": 15,
+          "Critical Chance": 111.23809523809524,
+          "Critical Damage": 267.06666666666666,
+          "Bleeding Duration": 33,
+          "Effective Power": 30616.976963743986,
+          "Power DPS": 42677.49580621996,
+          "Burning Damage": 355.421875,
+          "Burning Stacks": 4,
+          "Burning DPS": 1421.6875,
+          "Bleeding Damage": 96.3125,
+          "Bleeding Stacks": 15.561,
+          "Bleeding DPS": 1498.7188125,
+          "Poison Damage": 112.84375,
+          "Poison Stacks": 2,
+          "Poison DPS": 225.6875,
+          "Torment Damage": 142.74375,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 96.3125,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 45823.58961871996,
+          "Effective Health": 51294713.25,
+          "Survivability": 26077.637646161667,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131
+        ],
+        "weight": "medium",
+        "runeId": 24836,
+        "runeName": "Scholar",
+        "weapons": {
+          "weapon1MainType": "Sword",
+          "weapon1MainSigil1": "force",
+          "weapon1OffType": "Shield",
+          "weapon1OffSigil": "impact",
+          "weapon2MainSigil2": ""
+        },
+        "consumables": {
+          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
+          "utility": "superior-sharpening-stone",
+          "infusion": "Mighty +9 Agony Infusion"
+        }
+      }
+    note: >-
+      Due to the naturally high crit-chance from the Firearms Trait Line, this
+      build does not rely on high Agony Resistance to reach crit-cap. You will
+      only need higher AR or Assassin pieces if you want to swap to <Trait
+      name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.
+
+
+      You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
+date: 2021-09-16T21:19:56.036Z
 benchmark:
   small:
     dps: 38143
     by: TJ [SC]
     youtube: p6mZtHhu7GM
 ---
-
-The engineer build that currently fares best in fractals is the <Specialization text="Power Holosmith" name="Holosmith"/>, offering a mix of high damage and a relatively good amount of crowd control and utility in form of <Condition name="Vulnerability"/> and some <Condition name="Blinded"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>.
-
-The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-
-<Divider text="Equipment"/>
-
-Check the [gear optimizer](http://old.discretize.eu) for more gear variants!
-
 <Grid>
-<GridItem sm="4">
-<Armor weight="Medium" helmId="48087" helmRuneId="24836" helmAffix="Berserker" helmRune="Scholar" shouldersId="48089" shouldersRuneId="24836" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48085" coatRuneId="24836" coatAffix="Berserker" coatRune="Scholar" glovesId="48086" glovesRuneId="24836" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48088" leggingsRuneId="24836" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48084" bootsRuneId="24836" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffSigil="Impact" weapon1OffType="Shield" weapon1OffAffix="Berserker" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
-
-<Card title="Alternative weapons">
-
-- <Item id="46768"/> with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils.
-
-- Swords with slaying sigils.
-
-- <Item id="46767"/> to swap with <Item id="46770"/> for when you don't need CC.
-
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
-
-<Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
-</GridItem>
-</Grid>
-
-<Divider text="Build"/>
-
-<Grid>
-<GridItem sm="7">
-<Traits traits1Id="38" traits1="Firearms" traits1SelectedIds="1914,1923,526" traits2Id="6" traits2="Explosives" traits2SelectedIds="1882,1892,1947" traits3Id="57" traits3="Holosmith" traits3SelectedIds="2106,2152,2137"/>
-
-<Card title="Situational Traits">
-
-|                                                       |                                                                                                                    |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| <Trait name="Sanguine Array" size="big" disableText/> | If you are already crit capped without <Trait name="High Caliber"/> and struggle with <Boon name="Might"/> uptime. |
-
-You can swap Firearms trait line with Tools and replace <Skill id="5805"/> on <Skill id="43739"/>. This will help you to maintain your <Boon name="Quickness"/> better. Especially in weaker groups, this build shines. It is pretty friendly for new players.<Traits traits1Id="21" traits1="Tools" traits1SelectedIds="532,512,1856" unembossed/>
-</Card>
-</GridItem>
-
-<GridItem sm="5">
-<Skills healId="21659" utility1Id="5818" utility2Id="6020" utility3Id="42842" eliteId="42009"/>
-
-<Card title="Additional Skills">
-
-|                                           |                                                                                                                                                                                                               |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6178" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="42163" size="big" disableText/>                                        |
-| <Skill id="6020" size="big" disableText/> | <Skill id="5806" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5810" size="big" disableText/> |
-
-</Card>
-
-<Card title="Situational Skills">
-
-|                                            |                                                                                                                                                                                                       |
-| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="5977" size="big" disableText/>  | You can equip <Skill id="5927"/> shortly before the fight and precast its toolbelt skill if you want to go the extra mile.                                                                            |
-| <Skill id="5857" size="big" disableText/>  | An alternative heal skill if condition cleanse is needed, you can cast it AFTER (cause of water field) firefield to blast might.                                                                      |
-| <Skill id="43739" size="big" disableText/> | Another (group) block that even reflects projectiles if heat is above 50. (replace it with <Skill id="6020"/>)                                                                                        |
-| <Skill id="30337" size="big" disableText/> | Good alternative for burst, replace it with <Skill id="5818"/>. Very effective **countermeasure for <Instability name="No Pain, No Gain"/>**! Can stack multiple <Skill id="6164"/> before the start. |
-
-</Card>
-</GridItem>
-</Grid>
-
-<Divider text="Details"/>
-
-<Grid>
-<GridItem sm="7">
+<GridItem sm="6">
 <Card title="Rotation">
 
 1.  **Preheat to 90%**
@@ -124,13 +292,7 @@ You can swap Firearms trait line with Tools and replace <Skill id="5805"/> on <S
 
 7.  <Skill name="Photon Blitz" profession="Engineer"/>
 
-8.  <Skill name="Light Strike" profession="Engineer"/>
-
-    1.  <Skill name="Bright Slash" profession="Engineer"/>
-
-    2.  <Skill name="Flash Cutter" profession="Engineer"/>
-
-    3.  x2
+8.  2x <Skill name="Light Strike" profession="Engineer"/> -> <Skill name="Bright Slash" profession="Engineer"/> -> <Skill name="Flash Cutter" profession="Engineer"/>
 
 9.  <Skill name="Corona Burst" profession="Engineer"/>
 
@@ -140,59 +302,42 @@ You can swap Firearms trait line with Tools and replace <Skill id="5805"/> on <S
 
 12. <Skill name="Shrapnel Grenade" profession="Engineer"/>
 
-    1.  <Skill name="Poison Grenade" profession="Engineer"/>
+13.  <Skill name="Poison Grenade" profession="Engineer"/>
 
-13. <Skill name="Sun Edge" profession="Engineer"/>
+14. 2x <Skill name="Sun Edge" profession="Engineer"/> -> <Skill name="Sun Ripper" profession="Engineer"/> -> <Skill name="Gleam Saber" profession="Engineer"/>
 
-    1.  <Skill name="Sun Ripper" profession="Engineer"/>
+15. <Skill name="Refraction Cutter" profession="Engineer"/>
 
-    2.  <Skill name="Gleam Saber" profession="Engineer"/>
+16. <Skill name="Shrapnel Grenade" profession="Engineer"/>
 
-    3.  x2
+17. 2x <Skill name="Sun Edge" profession="Engineer"/> -> <Skill name="Sun Ripper" profession="Engineer"/> -> <Skill name="Gleam Saber" profession="Engineer"/>
 
-14. <Skill name="Refraction Cutter" profession="Engineer"/>
+18. <Skill name="Refraction Cutter" profession="Engineer"/>
 
-15. <Skill name="Shrapnel Grenade" profession="Engineer"/>
+19. <Skill name="Shrapnel Grenade" profession="Engineer"/>
+ 
+20.  <Skill name="Freeze Grenade" profession="Engineer"/>
 
-16. <Skill name="Sun Edge" profession="Engineer"/>
+21. <Skill name="engage Photon Forge" profession="Engineer"/> (your heat should be around 90%)
 
-    1.  <Skill name="Sun Ripper" profession="Engineer"/>
-
-    2.  <Skill name="Gleam Saber" profession="Engineer"/>
-
-    3.  x2
-
-17. <Skill name="Refraction Cutter" profession="Engineer"/>
-
-    1.  <Skill name="Blowtorch" profession="Engineer"/>
-
-18. <Skill name="Shrapnel Grenade" profession="Engineer"/>
-
-19. <Skill name="engage Photon Forge" profession="Engineer"/> (your heat should be around 90%)
-
-20. Repeat from step 4
+22. Repeat from step 6
 
 </Card>
-</GridItem>
+<Card title="Notes">
 
-<GridItem sm="5">
-<Card title="Notes and Tips">
 
-- Don't interrupt your auto attack chain in Photon Forge
+- Use <Skill id="6178"/> off cooldown.
 
-- Keep in mind that <Trait id="2106"/> consumes its charges while <Trait id="2122"/> is a duration buff.
+- Use <Skill id="42163"/> off-cooldown. This skill can be used inside the hitbox when multiple enemies are around to hit the boss multiple times. If this can be done, for example on Ensolyss, you can delay this skill for that.
 
-- Use <Skill id="42842"/> and <Skill id="42009"/> off cooldown.
+- <Skill id="5808"/> can be used to mitigate damage in add heavy fights.
+ 
+- When running off-hand Pistol, <Skill name="Blowtorch"/> is used instead of <Skill name="Freeze Grenade"/> in step 20.
 
-- Use <Skill id="6178"/> and <Skill id="42163"/> off cooldown.
+- When running off-hand Pistol, <Skill id="5830"/> can help in controlling movement of enemies without breakbar.
 
-- Make use of <Skill id="5808"/> to mitigate damage in add heavy fights.
+- Try to manage your Heat in split phases. Ideally you always want to be back at 90 Heat when starting to burst in a new phase.
 
-- <Skill id="5830"/> can help in controlling movement of enemies without breakbar.
-
-- Never <Skill id="44386"/>, always try to <Skill id="41123"/> at 149 heat.
-
-You can switch to <Specialization name="Scrapper"/> and equip <Skill id="30815"/> if you need <Effect name="Stealth"/> for longer passages (e.g. [Twilight Oasis Fractal](https://discretize.eu/fractals/twilight-oasis)). It provides >40 seconds for the whole group. A smoke field can also be provided by <Skill id="5824"/> to blast <Effect name="Stealth"/>.
 </Card>
 
 <Card title="CC skills">
@@ -200,11 +345,46 @@ You can switch to <Specialization name="Scrapper"/> and equip <Skill id="30815"/
 |                     |            |
 | ------------------- | ---------- |
 | <Skill id="21661"/> | 100 damage |
+| <Skill name="Magnetic Inversion"/> | 100 damage |
 | <Skill id="6057"/>  | 100 damage |
 | <Skill id="42009"/> | 232 damage |
 | <Skill id="42521"/> | 232 damage |
-| <Skill id="42521"/> | 232 damage |
 
 </Card>
+
+</GridItem>
+
+<GridItem sm="6">
+
+<Card title="Rotation Explanation">
+
+- The idea of the opening is to stack as many damage modifiers as possible with your biggest skills. By entering Forge at the start, you will trigger <Trait name="Solar Focusing Lens"/>. Due to being in Forge, you will also gain the extra damage from <Trait name="Lasers Edge"/>. <Skill name="Grenade Barrage"/> will help with stacking <Trait name="Explosive Temper"/>.
+- You want to always use your big damaging skills like <Skill name="Laser Disk"/> and <Skill name="Prime Light Beam"/> in Forge when possible. Only use them outside of Forge if the boss will die/phase before you can go back into Forge to use them there.
+- In Forge, your high damage weapon skills are <Skill name="Corona Burst"/> and <Skill name="Photon Blitz"/>, as well as auto-attack chains. Try to not interrupt your Forge auto-attack chain. Your goal is to <Skill name="Deactivate Photon forge"/> at exactly 149 Heat. This can be achieved by using auto-attack chains until around 140 Heat (as seen in step 8), then using <Skill name="Corona Burst"/> and <Skill name="Deactivate Photon forge"/>. <Skill name="Corona Burst"/> will keep building up some Heat, however you cannot <Skill id="44386"/> if you already left Forge directly after its cast.
+- Out of Forge, your basic rotation can be seen in steps 15-17. The main goal is to use <Skill name="Refraction Cutter"/> above 100 Heat 3 times. If you are slow, you might want to skip some extra skills like <Skill name="Poison Grenade"/> and <Skill name="Freeze Grenade"/> and prioritize <Skill name="Engage Photon Forge"/> at 90 Heat.
+</Card>
+
+<Card title="Pre-Casting">
+
+
+- Make sure that you will start the fight on your desired Heat (usually 90%).
+- You want to make sure to always at least pre-cast <Skill name="Laser Disk"/> before taking the singularity.
+- You can either swap utiltiy skills manually or via template. Make sure to have the same traits in both templates selected if you choose the template route.
+- If this is taken care of, you can do the following extra pre-casts:
+1. Equip <Skill name="Thumper Turret"/>, <Skill name="Bomb Kit"/> and <Skill name="Flamethrower"/>.
+2. Place <Skill name="Big Ol Bomb"/>.
+3. Use <Skill name="Fire Bomb"/> or <Skill name="Napalm"/> to provide a fire field.
+4. Use <Skill name="Rumble"/>, <Skill name="Flame Blast"/> and <Skill name="Magnetic Inversion"/> to blast.
+5. Use <Skill name="Incendiary Ammo"/>.
+6. Swap to your regular utilities and use <Skill name="Laser Disk"/>.
+7. Take the singularity.
+
+- If you want to go the extra mile, you can keep the Flamethrower equipped and use <Skill name="Incendiary Ammo"/> again and place <Skill name="Napalm"/> on the boss spawn location before swapping it out.
+- <Skill name="Holographic Shockwave"/> provides yet another blast finisher if it works with your Heat management.
+
+</Card>
+
+
+
 </GridItem>
 </Grid>
