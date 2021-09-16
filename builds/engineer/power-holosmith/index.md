@@ -38,54 +38,9 @@ sections:
       - The Grandmaster Holosmith Trait they use, Enhanced Capacity Storage Unit (ECSU) vs Photonic Blasting Module (PBM).
        
       This guide will focus mainly on the Sword ECSU variant since it is the most flexible of the 3.
-  - type: mdx
+  - type: equipment
     title: Equipment
-    content: >-
-      Check the [gear optimizer](http://old.discretize.eu) for more gear
-      variants!
-
-
-      <Grid>
-
-      <GridItem sm="4">
-
-      <Armor weight="Medium" helmId="48087" helmRuneId="24836" helmAffix="Berserker" helmRune="Scholar" shouldersId="48089" shouldersRuneId="24836" shouldersAffix="Berserker" shouldersRune="Scholar" coatId="48085" coatRuneId="24836" coatAffix="Berserker" coatRune="Scholar" glovesId="48086" glovesRuneId="24836" glovesAffix="Berserker" glovesRune="Scholar" leggingsId="48088" leggingsRuneId="24836" leggingsAffix="Berserker" leggingsRune="Scholar" bootsId="48084" bootsRuneId="24836" bootsAffix="Berserker" bootsRune="Scholar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
-
-      </GridItem>
-
-
-      <GridItem sm="4">
-
-      <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffSigil="Impact" weapon1OffType="Shield" weapon1OffAffix="Berserker" weapon1MainInfusion1Id="49432" weapon1OffInfusionId="49432"/>
-
-
-      <Card title="Alternative weapons">
-
-
-      - <Item id="46768"/> with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils.
-
-
-      - Swords with slaying sigils.
-
-
-      - <Item id="46767"/> to swap with <Item id="46770"/> for when you don't need CC.
-
-
-      </Card>
-
-      </GridItem>
-
-
-      <GridItem sm="4">
-
-      <BackAndTrinkets backItemId="49390" backItemAffix="Berserker" accessory1Id="39233" accessory1Affix="Berserker" accessory2Id="39232" accessory2Affix="Berserker" amuletId="39273" amuletAffix="Berserker" ring1Id="75669" ring1Affix="Berserker" ring2Id="76024" ring2Affix="Berserker" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
-
-
-      <Consumables foodId="41569" utilityId="67530" infusionId="37131"/>
-
-      </GridItem>
-
-      </Grid>
+    content: ""
   - type: mdx
     title: Default Build
     content: >-
@@ -430,16 +385,20 @@ character:
           "weapon1MainType": "Sword",
           "weapon1MainSigil1": "force",
           "weapon1OffType": "Shield",
-          "weapon1OffSigil": "night/impact/slaying-both",
-          "weapon2MainSigil2": "night/impact/slaying-both"
+          "weapon1OffSigil": "impact",
+          "weapon2MainSigil2": "impact"
         },
         "consumables": {
-          "food": "sweet-and-spicy-butternut-squash-soup",
+          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-16T11:50:15.139Z
+    note: Due to the naturally high crit-chance from the Firearms Trait Line, this
+      build does not rely on high Agony Resistance to reach crit-cap. You will
+      only need higher AR or Assassin pieces if you want to swap to <Trait
+      name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.
+date: 2021-09-16T12:03:40.050Z
 benchmark:
   small:
     dps: 38143
