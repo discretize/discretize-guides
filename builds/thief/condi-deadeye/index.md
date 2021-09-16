@@ -198,7 +198,7 @@ character:
 
 
       - Shortbow for additional movement during downtime and <Item name="doom"/> precasts, as well as <Boon name="might"/> blasts on the _Mistlock Singularity_.
-    title: Condi Deadeye
+    title: ""
     gear: |-
       {
         "gear": [
@@ -295,7 +295,7 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-16T21:47:39.679Z
+date: 2021-09-16T22:22:38.149Z
 benchmark:
   small:
     dps: 40094
