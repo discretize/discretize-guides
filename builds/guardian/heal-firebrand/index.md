@@ -701,23 +701,8 @@ character:
           "infusion": "Healing +9 Agony Infusion"
         }
       }
-    note: "Note that this build variant is optimized for 150 agony resistance.\r
-
-      If you have more AR, feel free to swap out more Harrier pieces for
-      Cleric but make sure you are maintaining 100% boon duration on both weapon
-      sets.\r
-
-      \r
-
-      You can play full Harrier, however you will lose some <Attribute
-      name=\"Healing Power\"/>.\r
-
-      \r
-
-      Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!\r\n"
-date: 2021-09-16T18:58:51.213Z
+    note: ""
+date: 2021-09-16T19:21:14.957Z
 ---
 <Divider text="Videos" />
 
