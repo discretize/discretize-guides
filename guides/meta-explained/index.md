@@ -1,6 +1,6 @@
 ---
 title: Meta explained
-date: 2021-09-16T23:44:43.611Z
+date: 2021-09-16T23:45:43.877Z
 sections: []
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
@@ -39,13 +39,13 @@ It is important to note, that each challenge mote encounter has a different most
 
 With the May 11th 2021 balance patch came a huge shake up to the fractal META due to the <Effect name="Exposed"/> change. Instead of being a 50% damage modifier, it was nerfed to 30% power and buffed to 100% condi damage. This has led to condition builds becoming competetive with power builds on many fractals. This has led to a massive shake up of the fractal META and a big split between daily run comps and boss kill comps. For individual bosses power still shines and in most cases can get much faster kills than condi comps can (apart from Ensolyss and 100CM), but for full runs due to the minimal time needed to precast, ease of the comp and the fact it gets similar if not faster times to power runs, for most groups condi comps tend to be a safer pick. 
 
-With this in mind we have two comps we use for our runs. A <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Daredevil" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/> comp for runs where people want to get in and out asap with minimal effort. And a <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/> comp for days when groups want to get some faster boss kills requiring more co-ordination.
+With this in mind we have two comps we use for our runs. A <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Deadeye" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/> comp for runs where people want to get in and out asap with minimal effort. And a <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/> comp for days when groups want to get some faster boss kills requiring more co-ordination.
 
 <Message>
 For groups such as PuGs or statics less focused on optimal strats and comps the meta changes entirely. To find out more information about what changes click [here](#pug), or scroll down to the bottom of the page.
 </Message>
 
-### <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Daredevil" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/>
+### <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Deadeye" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/>
 
 As mentioned above this comp is ran for an easy daily clear without class swapping. It has high burst for a condi comp with lots of sustain, while being easy to play regardless of instabilities, perfroming well on every encounter. Read below to see why each class is taken;
 
@@ -80,14 +80,14 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 
 <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>
 </Tab>
-<Tab specialization="Daredevil">
+<Tab specialization="Deadeye">
 * Currently both <Specialization name="Daredevil" text="Condi Daredevil"/> and <Specialization name="Deadeye" text="Condi Deadeye"/> are viable options.
 * Both builds have the highest burst of any condi class in the game
 * Provides strong party dps buffs through <Skill name="Spider Venom"/> and <Skill name="Skale Venom"/>.
 * Provides a massive amount of CC by sharing <Skill name="Basilisk Venom"/>.
 * Has high mobility with many blinks, portals and <Effect name="Stealth"/>, great for skips and completing T4s fast.
 
-<BuildLink build="Condi Daredevil" specialization="Daredevil"/> / <BuildLink build="Condi Deadeye" specialization="Deadeye"/>
+<BuildLink build="Condi Daredevil" specialization="Deadeye"/> / <BuildLink build="Condi Deadeye" specialization="Deadeye"/>
 </Tab>
 </Tabs>
 
