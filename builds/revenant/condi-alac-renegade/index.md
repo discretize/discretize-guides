@@ -54,9 +54,6 @@ sections:
   - type: mdx
     title: Further Information
     content: >-
-      <Divider text="Further information"/>
-
-
       <Grid>
 
       <GridItem sm="7">
@@ -526,7 +523,7 @@ character:
     note: If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you
       can both play <Trait name="Righteous Rebel"/> to provide <Boon
       name="alacrity"/>,
-date: 2021-09-16T22:28:15.766Z
+date: 2021-09-16T22:29:49.490Z
 hasCMGuide: false
 benchmark:
   huge:
