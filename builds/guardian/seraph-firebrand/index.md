@@ -465,7 +465,7 @@ character:
           "weapon2MainSigil2": "transference"
         },
         "consumables": {
-          "food": "mint-pear-cured-flatbread",
+          "food": "beef-rendang",
           "utility": "toxic-focusing-crystal",
           "infusion": "Mighty +9 Agony Infusion"
         }
@@ -575,12 +575,12 @@ character:
           "weapon2MainSigil2": "smoldering"
         },
         "consumables": {
-          "food": "mint-and-veggie-flatbread",
+          "food": "fire-meat-chili",
           "utility": "toxic-focusing-crystal",
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-16T19:02:09.859Z
+date: 2021-09-16T19:06:29.708Z
 ---
 <Divider text="Rotation"/>
 
