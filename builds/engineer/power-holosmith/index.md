@@ -128,6 +128,11 @@ sections:
       | <Skill id="30337" size="big" disableText/> | Offers higher burst than <Skill id="5818"/>. Very effective countermeasure for <Instability name="No Pain, No Gain"/>! |
 
 
+      | <Skill name="Bomb Kit" size="big" disableText/> | Default pick for the Rifle variant instead of <Skill name="Rifle Turret"/>. Can be helpful to provide a smoke field through <Skill name="Smoke Bomb"/> or fire field through <Skill name="Fire Bomb"/>. |
+
+      | <Skill name="Flamethrower" size="big" disableText/> | Can provide a fire field and a blast finisher. You can pre-cast the toolbelt skill <Skill name="Incendiary Ammo"/> for some extra damage.
+
+
       </Card>
 
 
@@ -235,6 +240,27 @@ sections:
       </Card>
 
 
+      <Card title="CC skills">
+
+
+      |                     |            |
+
+      | ------------------- | ---------- |
+
+      | <Skill id="21661"/> | 100 damage |
+
+      | <Skill name="Magnetic Inversion"/> | 100 damage |
+
+      | <Skill id="6057"/>  | 100 damage |
+
+      | <Skill id="42009"/> | 232 damage |
+
+      | <Skill id="42521"/> | 232 damage |
+
+
+      </Card>
+
+
       </GridItem>
 
 
@@ -255,26 +281,41 @@ sections:
       </Card>
 
 
+      <Card title="Pre-Casting">
 
-      <Card title="CC skills">
 
 
-      |                     |            |
+      - Make sure that you will start the fight on your desired Heat (usually 90%).
 
-      | ------------------- | ---------- |
+      - You want to make sure to always at least pre-cast <Skill name="Laser Disk"/> before taking the singularity.
 
-      | <Skill id="21661"/> | 100 damage |
+      - You can either swap utiltiy skills manually or via template. Make sure to have the same traits in both templates selected if you choose the template route.
 
-      | <Skill id="6057"/>  | 100 damage |
+      - If this is taken care of, you can do the following extra pre-casts:
 
-      | <Skill id="42009"/> | 232 damage |
+      1. Equip <Skill name="Thumper Turret"/>, <Skill name="Bomb Kit"/> and <Skill name="Flamethrower"/>.
 
-      | <Skill id="42521"/> | 232 damage |
+      2. Place <Skill name="Big Ol Bomb"/>.
 
-      | <Skill id="42521"/> | 232 damage |
+      3. Use <Skill name="Fire Bomb"/> or <Skill name="Napalm"/> to provide a fire field.
+
+      4. Use <Skill name="Rumble"/>, <Skill name="Flame Blast"/> and <Skill name="Magnetic Inversion"/> to blast.
+
+      5. Use <Skill name="Incendiary Ammo"/>.
+
+      6. Swap to your regular utilities and use <Skill name="Laser Disk"/>.
+
+      7. Take the singularity.
+
+
+      - If you want to go the extra mile, you can keep the Flamethrower equipped and use <Skill name="Incendiary Ammo"/> again and place <Skill name="Napalm"/> on the boss spawn location before swapping it out.
+
+      - <Skill name="Holographic Shockwave"/> provides yet another blast finisher if it works with your Heat management.
 
 
       </Card>
+
+
 
 
       </GridItem>
@@ -398,7 +439,7 @@ character:
       build does not rely on high Agony Resistance to reach crit-cap. You will
       only need higher AR or Assassin pieces if you want to swap to <Trait
       name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.
-date: 2021-09-16T12:55:47.298Z
+date: 2021-09-16T13:14:04.463Z
 benchmark:
   small:
     dps: 38143
