@@ -185,12 +185,12 @@ character:
         "attributes": {
           "Health": 15922,
           "Armor": 2343,
-          "Power": 3946,
+          "Power": 3496,
           "Precision": 2286,
           "Toughness": 1225,
           "Vitality": 1000,
-          "Ferocity": 1856,
-          "Condition Damage": 850,
+          "Ferocity": 1756,
+          "Condition Damage": 750,
           "Expertise": 0,
           "Concentration": 225,
           "Healing Power": 0,
@@ -198,28 +198,28 @@ character:
           "Condition Duration": 0,
           "Boon Duration": 15,
           "Critical Chance": 111.23809523809524,
-          "Critical Damage": 273.73333333333335,
+          "Critical Damage": 267.06666666666666,
           "Bleeding Duration": 33,
-          "Effective Power": 32200.5492289586,
-          "Power DPS": 44884.86261410479,
-          "Burning Damage": 377.703125,
+          "Effective Power": 30616.976963743986,
+          "Power DPS": 42677.49580621996,
+          "Burning Damage": 355.421875,
           "Burning Stacks": 4,
-          "Burning DPS": 1510.8125,
-          "Bleeding Damage": 104.9375,
+          "Burning DPS": 1421.6875,
+          "Bleeding Damage": 96.3125,
           "Bleeding Stacks": 15.561,
-          "Bleeding DPS": 1632.9324375,
-          "Poison Damage": 121.46875,
+          "Bleeding DPS": 1498.7188125,
+          "Poison Damage": 112.84375,
           "Poison Stacks": 2,
-          "Poison DPS": 242.9375,
-          "Torment Damage": 155.68125,
+          "Poison DPS": 225.6875,
+          "Torment Damage": 142.74375,
           "Torment Stacks": 0,
           "Torment DPS": 0,
-          "Confusion Damage": 104.9375,
+          "Confusion Damage": 96.3125,
           "Confusion Stacks": 0,
           "Confusion DPS": 0,
-          "Damage": 48271.54505160479,
-          "Effective Health": 46631557.5,
-          "Survivability": 23706.943314692424,
+          "Damage": 45823.58961871996,
+          "Effective Health": 51294713.25,
+          "Survivability": 26077.637646161667,
           "Effective Healing": 390,
           "Healing": 390
         },
@@ -251,7 +251,7 @@ character:
           "weapon1MainSigil1": "force",
           "weapon1OffType": "Shield",
           "weapon1OffSigil": "impact",
-          "weapon2MainSigil2": "impact"
+          "weapon2MainSigil2": ""
         },
         "consumables": {
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
@@ -259,11 +259,15 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-    note: Due to the naturally high crit-chance from the Firearms Trait Line, this
+    note: >-
+      Due to the naturally high crit-chance from the Firearms Trait Line, this
       build does not rely on high Agony Resistance to reach crit-cap. You will
       only need higher AR or Assassin pieces if you want to swap to <Trait
       name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.
-date: 2021-09-16T16:57:07.809Z
+
+
+      You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
+date: 2021-09-16T21:19:56.036Z
 benchmark:
   small:
     dps: 38143
