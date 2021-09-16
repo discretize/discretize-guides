@@ -361,7 +361,7 @@ character:
           "weapon2MainSigil2": "smoldering"
         },
         "consumables": {
-          "food": "fire-meat-chili",
+          "food": "bowl-of-fire-meat-chili",
           "utility": "toxic-focusing-crystal",
           "infusion": "Mighty +9 Agony Infusion"
         }
@@ -465,7 +465,7 @@ character:
           "weapon2MainSigil2": "transference"
         },
         "consumables": {
-          "food": "beef-rendang",
+          "food": "plate-of-beef-rendang",
           "utility": "toxic-focusing-crystal",
           "infusion": "Mighty +9 Agony Infusion"
         }
@@ -575,12 +575,12 @@ character:
           "weapon2MainSigil2": "smoldering"
         },
         "consumables": {
-          "food": "fire-meat-chili",
+          "food": "bowl-of-fire-meat-chili",
           "utility": "toxic-focusing-crystal",
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-16T19:06:29.708Z
+date: 2021-09-16T19:17:21.089Z
 ---
 <Divider text="Rotation"/>
 
