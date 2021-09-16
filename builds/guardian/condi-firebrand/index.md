@@ -32,7 +32,7 @@ sections:
 
 
       Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
-  - type: mdx
+  - type: equipment
     title: Equipment
     content: >-
       - Note that this build variant gains boon duration from the <Item
@@ -363,40 +363,13 @@ character:
       - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s.
       - A staff for <Boon name="Might"/> pre-stacking.
     title: Condi Firebrand
-date: 2021-09-16T00:01:10.504Z
+date: 2021-09-16T18:55:59.217Z
 benchmark:
   small:
     dps: 36732
     by: TJ [SC]
     youtube: U1yYDskt3Cw
 ---
-
-
-<Grid>
-<GridItem sm="4">
-<Armor weight="Heavy" helmAffix="Viper" helmRune="Balthazar" shouldersAffix="Viper" shouldersRune="Balthazar" coatAffix="Viper" coatRune="Balthazar" glovesAffix="Viper" glovesRune="Balthazar" leggingsAffix="Viper" leggingsRune="Balthazar" bootsAffix="Viper" bootsRune="Balthazar" helmInfusionId="49432" shouldersInfusionId="49432" coatInfusionId="49432" glovesInfusionId="49432" leggingsInfusionId="49432" bootsInfusionId="49432"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainType="Axe" weapon1MainAffix="Viper" weapon1MainSigil1="Earth" weapon1OffType="Torch" weapon1OffAffix="Viper" weapon1OffSigil="bursting" weapon2MainType="Scepter" weapon2MainAffix="Viper" weapon2MainSigil1="geomancy" weapon2OffType="Torch" weapon2OffAffix="Viper" weapon2OffSigil="bursting" weapon1MainInfusion1Id="49432" weapon2MainInfusion1Id="49432" weapon1OffInfusionId="49432" weapon2OffInfusionId="49432"/>
-
-<Card title="Swap Weapons">
-
-- Greatsword for pulling adds in Nightmare CM after MAMA.
-
-- A staff for <Boon name="Might"/> pre-stacking.
-
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemAffix="Sinister" accessory1Affix="Sinister" accessory2Affix="Sinister" amuletAffix="Sinister" ring1Affix="Sinister" ring2Affix="Viper" backItemInfusion1Id="49432" backItemInfusion2Id="49432" accessory1InfusionId="49432" accessory2InfusionId="49432" ring1Infusion1Id="49432" ring1Infusion2Id="49432" ring1Infusion3Id="49432" ring2Infusion1Id="49432" ring2Infusion2Id="49432" ring2Infusion3Id="49432"/>
-
-<Consumables foodId="86997" utilityId="48916" infusionId="37130"/>
-</GridItem>
-</Grid>
-
-
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
