@@ -120,16 +120,16 @@ sections:
 
       | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-      | <Skill id="5977" size="big" disableText/>  | You can equip <Skill id="5927"/> shortly before the fight and precast its toolbelt skill if you want to go the extra mile.                                                                            |
 
-      | <Skill id="5857" size="big" disableText/>  | An alternative heal skill if condition cleanse is needed, you can cast it AFTER (cause of water field) firefield to blast might.                                                                      |
+      | <Skill id="5857" size="big" disableText/>  | An alternative heal skill if condition cleanse is needed. You can cast it AFTER (cause of water field) a fire field to blast <Boon name="might"/>.                                                                      |
 
-      | <Skill id="43739" size="big" disableText/> | Another (group) block that even reflects projectiles if heat is above 50. (replace it with <Skill id="6020"/>)                                                                                        |
+      | <Skill id="43739" size="big" disableText/> | A (group) block that also reflects projectiles if heat is above 50. (replace <Skill id="6020"/>)                                                                                        |
 
-      | <Skill id="30337" size="big" disableText/> | Good alternative for burst, replace it with <Skill id="5818"/>. Very effective **countermeasure for <Instability name="No Pain, No Gain"/>**! Can stack multiple <Skill id="6164"/> before the start. |
+      | <Skill id="30337" size="big" disableText/> | Offers higher burst than <Skill id="5818"/>. Very effective countermeasure for <Instability name="No Pain, No Gain"/>! |
 
 
       </Card>
+
 
       </GridItem>
 
@@ -139,7 +139,7 @@ sections:
     content: >
       <Grid>
 
-      <GridItem sm="7">
+      <GridItem sm="6">
 
       <Card title="Rotation">
 
@@ -165,13 +165,8 @@ sections:
       7.  <Skill name="Photon Blitz" profession="Engineer"/>
 
 
-      8.  <Skill name="Light Strike" profession="Engineer"/>
+      8.  2x <Skill name="Light Strike" profession="Engineer"/> -> <Skill name="Bright Slash" profession="Engineer"/> -> <Skill name="Flash Cutter" profession="Engineer"/>
 
-          1.  <Skill name="Bright Slash" profession="Engineer"/>
-
-          2.  <Skill name="Flash Cutter" profession="Engineer"/>
-
-          3.  x2
 
       9.  <Skill name="Corona Burst" profession="Engineer"/>
 
@@ -184,77 +179,81 @@ sections:
 
       12. <Skill name="Shrapnel Grenade" profession="Engineer"/>
 
-          1.  <Skill name="Poison Grenade" profession="Engineer"/>
 
-      13. <Skill name="Sun Edge" profession="Engineer"/>
-
-          1.  <Skill name="Sun Ripper" profession="Engineer"/>
-
-          2.  <Skill name="Gleam Saber" profession="Engineer"/>
-
-          3.  x2
-
-      14. <Skill name="Refraction Cutter" profession="Engineer"/>
+      13.  <Skill name="Poison Grenade" profession="Engineer"/>
 
 
-      15. <Skill name="Shrapnel Grenade" profession="Engineer"/>
+      14. 2x <Skill name="Sun Edge" profession="Engineer"/> -> <Skill name="Sun Ripper" profession="Engineer"/> -> <Skill name="Gleam Saber" profession="Engineer"/>
 
 
-      16. <Skill name="Sun Edge" profession="Engineer"/>
-
-          1.  <Skill name="Sun Ripper" profession="Engineer"/>
-
-          2.  <Skill name="Gleam Saber" profession="Engineer"/>
-
-          3.  x2
-
-      17. <Skill name="Refraction Cutter" profession="Engineer"/>
-
-          1.  <Skill name="Blowtorch" profession="Engineer"/>
-
-      18. <Skill name="Shrapnel Grenade" profession="Engineer"/>
+      15. <Skill name="Refraction Cutter" profession="Engineer"/>
 
 
-      19. <Skill name="engage Photon Forge" profession="Engineer"/> (your heat should be around 90%)
+      16. <Skill name="Shrapnel Grenade" profession="Engineer"/>
 
 
-      20. Repeat from step 4
+      17. 2x <Skill name="Sun Edge" profession="Engineer"/> -> <Skill name="Sun Ripper" profession="Engineer"/> -> <Skill name="Gleam Saber" profession="Engineer"/>
+
+
+      18. <Skill name="Refraction Cutter" profession="Engineer"/>
+
+
+      19. <Skill name="Shrapnel Grenade" profession="Engineer"/>
+       
+      20.  <Skill name="Freeze Grenade" profession="Engineer"/>
+
+
+      21. <Skill name="engage Photon Forge" profession="Engineer"/> (your heat should be around 90%)
+
+
+      22. Repeat from step 6
 
 
       </Card>
+
+      <Card title="Notes">
+
+
+
+      - Use <Skill id="6178"/> off cooldown.
+
+
+      - Use <Skill id="42163"/> off-cooldown. This skill can be used inside the hitbox when multiple enemies are around to hit the boss multiple times. If this can be done, for example on Ensolyss, you can delay this skill for that.
+
+
+      - <Skill id="5808"/> can be used to mitigate damage in add heavy fights.
+       
+      - When running off-hand Pistol, <Skill name="Blowtorch"/> is used instead of <Skill name="Freeze Grenade"/> in step 20.
+
+
+      - When running off-hand Pistol, <Skill id="5830"/> can help in controlling movement of enemies without breakbar.
+
+
+      - Try to manage your Heat in split phases. Ideally you always want to be back at 90 Heat when starting to burst in a new phase.
+
+
+      </Card>
+
 
       </GridItem>
 
 
-      <GridItem sm="5">
-
-      <Card title="Notes and Tips">
+      <GridItem sm="6">
 
 
-      - Don't interrupt your auto attack chain in Photon Forge
+      <Card title="Rotation Explanation">
 
 
-      - Keep in mind that <Trait id="2106"/> consumes its charges while <Trait id="2122"/> is a duration buff.
+      - The idea of the opening is to stack as many damage modifiers as possible with your biggest skills. By entering Forge at the start, you will trigger <Trait name="Solar Focusing Lens"/>. Due to being in Forge, you will also gain the extra damage from <Trait name="Lasers Edge"/>. <Skill name="Grenade Barrage"/> will help with stacking <Trait name="Explosive Temper"/>.
 
+      - You want to always use your big damaging skills like <Skill name="Laser Disk"/> and <Skill name="Prime Light Beam"/> in Forge when possible. Only use them outside of Forge if the boss will die/phase before you can go back into Forge to use them there.
 
-      - Use <Skill id="42842"/> and <Skill id="42009"/> off cooldown.
+      - In Forge, your high damage weapon skills are <Skill name="Corona Burst"/> and <Skill name="Photon Blitz"/>, as well as auto-attack chains. Try to not interrupt your Forge auto-attack chain. Your goal is to <Skill name="Deactivate Photon forge"/> at exactly 149 Heat. This can be achieved by using auto-attack chains until around 140 Heat (as seen in step 8), then using <Skill name="Corona Burst"/> and <Skill name="Deactivate Photon forge"/>. <Skill name="Corona Burst"/> will keep building up some Heat, however you cannot <Skill id="44386"/> if you already left Forge directly after its cast.
 
-
-      - Use <Skill id="6178"/> and <Skill id="42163"/> off cooldown.
-
-
-      - Make use of <Skill id="5808"/> to mitigate damage in add heavy fights.
-
-
-      - <Skill id="5830"/> can help in controlling movement of enemies without breakbar.
-
-
-      - Never <Skill id="44386"/>, always try to <Skill id="41123"/> at 149 heat.
-
-
-      You can switch to <Specialization name="Scrapper"/> and equip <Skill id="30815"/> if you need <Effect name="Stealth"/> for longer passages (e.g. [Twilight Oasis Fractal](https://discretize.eu/fractals/twilight-oasis)). It provides >40 seconds for the whole group. A smoke field can also be provided by <Skill id="5824"/> to blast <Effect name="Stealth"/>.
+      - Out of Forge, your basic rotation can be seen in steps 15-17. The main goal is to use <Skill name="Refraction Cutter"/> above 100 Heat 3 times. If you are slow, you might want to skip some extra skills like <Skill name="Poison Grenade"/> and <Skill name="Freeze Grenade"/> and prioritize <Skill name="Engage Photon Forge"/> at 90 Heat.
 
       </Card>
+
 
 
       <Card title="CC skills">
@@ -276,6 +275,7 @@ sections:
 
 
       </Card>
+
 
       </GridItem>
 
@@ -398,7 +398,7 @@ character:
       build does not rely on high Agony Resistance to reach crit-cap. You will
       only need higher AR or Assassin pieces if you want to swap to <Trait
       name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.
-date: 2021-09-16T12:03:40.050Z
+date: 2021-09-16T12:55:47.298Z
 benchmark:
   small:
     dps: 38143
