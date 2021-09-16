@@ -1,9 +1,7 @@
 ---
 title: Condi Scourge
 sections:
-  - type:
-      - label: MDX
-        value: mdx
+  - type: mdx
     title: Overview
     content: >-
       The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build
@@ -165,7 +163,7 @@ sections:
       </Grid>
 rating: Good
 role: Condi Damage
-author: "Discord: Amerikajinn#9784"
+author: 'Discord: Amerikajinn#9784'
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -188,7 +186,7 @@ boons:
   - Might
   - Fury
   - Quickness
-code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 2
@@ -317,6 +315,7 @@ benchmark:
     by: Prud
     youtube: 6NbhBMCyjmw
 ---
+
 <Divider text="Skill Usage" />
 
 <Grid>
