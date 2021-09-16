@@ -43,7 +43,7 @@ sections:
       This guide will focus mainly on the Sword ECSU variant since it is the most flexible of the 3.
   - type: equipment
     title: Equipment
-    content: ''
+    content: ""
   - type: mdx
     title: Default Build
     content: >-
@@ -133,7 +133,7 @@ sections:
 
       | <Skill name="Bomb Kit" size="big" disableText/> | Default pick for the Rifle variant instead of <Skill name="Rifle Turret"/>. Can be helpful to provide a smoke field through <Skill name="Smoke Bomb"/> or fire field through <Skill name="Fire Bomb"/>. |
 
-      | <Skill name="Flamethrower" size="big" disableText/> | Can provide a fire field and a blast finisher. You can pre-cast the toolbelt skill <Skill name="Incendiary Ammo"/> for some extra damage.
+      | <Skill name="Flamethrower" size="big" disableText/> | Can provide a fire field and a blast finisher. You can pre-cast the toolbelt skill <Skill name="Incendiary Ammo"/> for some extra damage. |
 
 
       </Card>
@@ -144,7 +144,7 @@ sections:
       </Grid>
   - type: mdx
     title: Rotation/Skill Usage
-    content: ''
+    content: ""
 rating: Good
 role: Power Damage
 profession: Engineer
@@ -154,7 +154,7 @@ conditions:
   - Blinded
   - Crippled
   - Immobile
-code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 classification:
   - 2
@@ -267,7 +267,7 @@ character:
 
 
       You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
-date: 2021-09-16T21:19:56.036Z
+date: 2021-09-16T22:53:28.059Z
 ---
 
 <Grid>
