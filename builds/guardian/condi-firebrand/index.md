@@ -41,7 +41,7 @@ sections:
       fights drop <Item id="24560"/> for <Item id="72339"/>.
 
 
-      - If u have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>
+      - If you have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>
   - type: mdx
     title: Build
     content: >-
@@ -363,7 +363,7 @@ character:
       - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s.
       - A staff for <Boon name="Might"/> pre-stacking.
     title: Condi Firebrand
-date: 2021-09-15T23:53:58.742Z
+date: 2021-09-16T00:01:10.504Z
 benchmark:
   small:
     dps: 36732
