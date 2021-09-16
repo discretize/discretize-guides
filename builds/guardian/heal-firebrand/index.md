@@ -594,7 +594,7 @@ boons:
   - Swiftness
   - Stability
   - Aegis
-code: "[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 4
@@ -658,9 +658,6 @@ character:
           "Confusion Stacks": 0,
           "Confusion DPS": 0,
           "Damage": 575.749,
-          "Effective Health": 59,728,893.75,
-          "Survivability": 30365.477,
-          "Effective Healing": 2,151.134,
           "Healing": 720.39
         },
         "infusions": [
@@ -701,9 +698,10 @@ character:
           "infusion": "Healing +9 Agony Infusion"
         }
       }
-    note: ""
+    note: ''
 date: 2021-09-16T19:21:14.957Z
 ---
+
 <Divider text="Videos" />
 
 <Message>
