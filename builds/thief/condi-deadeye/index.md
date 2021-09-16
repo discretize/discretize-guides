@@ -287,14 +287,15 @@ character:
           "weapon1MainSigil1": "bursting",
           "weapon1OffType": "Dagger",
           "weapon1OffSigil": "earth",
+          "weapon2MainSigil2": ""
         },
         "consumables": {
           "foodId": "86997",
-          "utility": "Tuning Icicle",
-          "infusion": "Malign +9 Agony Infusion"
+          "utility": "tuning-icicle",
+          "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-16T21:45:54.250Z
+date: 2021-09-16T21:47:39.679Z
 benchmark:
   small:
     dps: 40094
