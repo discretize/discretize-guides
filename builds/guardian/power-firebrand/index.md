@@ -21,6 +21,8 @@ sections:
       Its worth mentioning that \*<Specialization text="Power Quickness Firebrand" name="Firebrand"/>\* is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run \*<BuildLink build="Condi Firebrand" specialization="Firebrand"/>\* as it provides much higher sustained DPS.
 
       </Message>
+  - type: equipment
+    title: Equipment
   - type: mdx
     title: Build
     content: >-
@@ -243,7 +245,7 @@ character:
       If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 
-      Check the \[gear optimizer]\(http://https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
     gear: |-
       {
         "gear": [
@@ -335,8 +337,8 @@ character:
           "weapon2OffSigil": "impact"
         },
         "consumables": {
-          "food": "sweet-and-spicy-butternut-squash-soup",
-          "utility": "slaying-potion",
+          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
+          "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
@@ -348,7 +350,7 @@ character:
       If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 
-      Check the \[gear optimizer]\(http://https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
     title: 222 Agony Resistance (24.6% BD)
     gear: |-
       {
@@ -441,12 +443,12 @@ character:
           "weapon2OffSigil": "impact"
         },
         "consumables": {
-          "food": "sweet-and-spicy-butternut-squash-soup",
-          "utility": "slaying-potion",
+          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
+          "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-15T23:49:16.997Z
+date: 2021-09-16T19:20:26.308Z
 ---
 <Divider text="Rotation / Skill Usage"/>
 
