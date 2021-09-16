@@ -1,6 +1,6 @@
 ---
 title: Meta explained
-date: 2021-09-16T23:45:43.877Z
+date: 2021-09-16T23:46:53.468Z
 sections: []
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
@@ -87,7 +87,7 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 * Provides a massive amount of CC by sharing <Skill name="Basilisk Venom"/>.
 * Has high mobility with many blinks, portals and <Effect name="Stealth"/>, great for skips and completing T4s fast.
 
-<BuildLink build="Condi Daredevil" specialization="Deadeye"/> / <BuildLink build="Condi Deadeye" specialization="Deadeye"/>
+<BuildLink build="Condi Deadeye" specialization="Deadeye"/>
 </Tab>
 </Tabs>
 
