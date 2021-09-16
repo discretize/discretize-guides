@@ -443,12 +443,12 @@ character:
           "weapon2OffSigil": "impact"
         },
         "consumables": {
-          "food": "sweet-and-spicy-butternut-squash-soup",
-          "utility": "slaying-potion",
+          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
+          "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-16T19:18:57.222Z
+date: 2021-09-16T19:19:07.875Z
 ---
 <Divider text="Rotation / Skill Usage"/>
 
