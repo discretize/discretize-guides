@@ -465,7 +465,7 @@ character:
           "weapon2MainSigil2": "transference"
         },
         "consumables": {
-          "food": "plate-of-beef-rendang",
+          "foodId": "86997",
           "utility": "toxic-focusing-crystal",
           "infusion": "Mighty +9 Agony Infusion"
         }
@@ -580,7 +580,7 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-16T19:17:21.089Z
+date: 2021-09-16T19:32:15.738Z
 ---
 <Divider text="Rotation"/>
 
