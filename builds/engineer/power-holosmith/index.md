@@ -38,9 +38,7 @@ sections:
       - The Grandmaster Holosmith Trait they use, Enhanced Capacity Storage Unit (ECSU) vs Photonic Blasting Module (PBM).
        
       This guide will focus mainly on the Sword ECSU variant since it is the most flexible of the 3.
-  - type:
-      - label: MDX
-        value: mdx
+  - type: mdx
     title: Equipment
     content: >-
       Check the [gear optimizer](http://old.discretize.eu) for more gear
@@ -344,7 +342,104 @@ classification:
   - 4
   - 3
   - 4
-date: 2021-09-15T17:46:11.469Z
+character:
+  - title: 150 Agony Resistance
+    gear: |-
+      {
+        "gear": [
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker"
+        ],
+        "attributes": {
+          "Health": 15922,
+          "Armor": 2343,
+          "Power": 3946,
+          "Precision": 2286,
+          "Toughness": 1225,
+          "Vitality": 1000,
+          "Ferocity": 1856,
+          "Condition Damage": 850,
+          "Expertise": 0,
+          "Concentration": 225,
+          "Healing Power": 0,
+          "Agony Resistance": 150,
+          "Condition Duration": 0,
+          "Boon Duration": 15,
+          "Critical Chance": 111.23809523809524,
+          "Critical Damage": 273.73333333333335,
+          "Bleeding Duration": 33,
+          "Effective Power": 32200.5492289586,
+          "Power DPS": 44884.86261410479,
+          "Burning Damage": 377.703125,
+          "Burning Stacks": 4,
+          "Burning DPS": 1510.8125,
+          "Bleeding Damage": 104.9375,
+          "Bleeding Stacks": 15.561,
+          "Bleeding DPS": 1632.9324375,
+          "Poison Damage": 121.46875,
+          "Poison Stacks": 2,
+          "Poison DPS": 242.9375,
+          "Torment Damage": 155.68125,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 104.9375,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 48271.54505160479,
+          "Effective Health": 46631557.5,
+          "Survivability": 23706.943314692424,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131
+        ],
+        "weight": "medium",
+        "runeId": 24836,
+        "runeName": "Scholar",
+        "weapons": {
+          "weapon1MainType": "Sword",
+          "weapon1MainSigil1": "force",
+          "weapon1OffType": "Shield",
+          "weapon1OffSigil": "night/impact/slaying-both",
+          "weapon2MainSigil2": "night/impact/slaying-both"
+        },
+        "consumables": {
+          "food": "sweet-and-spicy-butternut-squash-soup",
+          "utility": "superior-sharpening-stone",
+          "infusion": "Mighty +9 Agony Infusion"
+        }
+      }
+date: 2021-09-16T11:50:15.139Z
 benchmark:
   small:
     dps: 38143
