@@ -1,11 +1,10 @@
 ---
 title: Meta explained
-date: 2021-09-13T20:56:24.756Z
+date: 2021-09-16T23:44:43.611Z
 sections: []
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
 ---
-
 ## What does meta mean?  
 There are many different interpretations for meta, but we consider **[Urban Dictionary's](https://www.urbandictionary.com/define.php?term=meta) definition** to be the most accurate one. According to Urban Dictionary meta is "*a term used in MMO meaning the Most Effective Tactic Available. It's basically what works in a game regardless of what you wish would work.*"  
 Many players are using certain compositions - non meta ones - on a daily basis, which does not elevate them to meta. It might work adequately for their goal - a wipe-less and safe clear - however, it is not the fastest or the most efficient way to play. 
@@ -142,36 +141,15 @@ This comp is used when parties want to go for some faster boss kills and would l
 </Tab>
 </Tabs>
 
-## Advanced Comps
-
-The previous section shows how well the current meta builds synergize with each other and how important it is that every single player maxes out their role. However, if your group is filled with good players and you're starting to feel capped by the firebrand damage in your daily kills times there are other more advanced comps that can offer some higher celings on certain bosses while still being stable picks for daily usage.
-
-### <Composition name="_RGB"/>
-
-Thanks to the addition of <Skill name = "Moa Stance"/> and the additional <Specialization name="Dragonhunter"/> <Boon name="Quickness"/> is able to be maintained soley from the precast and some coordinated uses of <Skill name = "Feel my Wrath"/>. This means the two <Specialization name="Dragonhunter"/> are able to fully unload their high damage low cooldown bursts to cover for the two <Specialization name="Soulbeast"/> during their downtime. The loss of the <Specialization name="Berserker"/> banners is made of for a bit by the extra <Skill name = "Bane Signet"/> with  <Trait name = "Perfect Inscriptions"/> providing a high ammount of power when its needed to phase bosses. The missing precision can be made up for by either gear swaps or a <Specialization name="Soulbeast"/> running <Trait name="spotter"/>.
-
-Pros of the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/> composition:
-
-* Very high burst potential on specific phases
-* Good boon duration on demand allowing more aggressive variants of support builds
-* Precasting powerful traps such as <Skill name = "Frost Trap"/> and <Skill name = "Procession of Blades"/> allows for strong openers
-
-Cons of the <Specialization name="Soulbeast" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Renegade" disableText/><Specialization name="Dragonhunter" disableText/><Specialization name="Dragonhunter" disableText/> composition:
-
-* Requires fast phasing and transitions or starts to suffer from lack of sustained damage
-* Can be gated on certain bosses by <Skill name = "SicEm!"/>
-* If fights take to long to complete boons start dropping causing a domino effect making the end of fights potentially ugly
-
 <Card title="META Comps Comparison">
-| | <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Daredevil" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/> | <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/> | <Composition name="_RGB"/> |
-| -- | -- | -- | -- |
-| **General Info** | A very easy to play comp that can faceroll all fractals regardless of instabilities. This is a great option if your group wants to clear fractals safely with little effort. Unless you are an organised consistant static, overall the run time is often the same or faster than playing power. |  A solid, consistant power comp providing plenty of CC and group support. This comp is a great start for people looking to run no healer and start to decrease their individual boss kill times. Additionally the <Specialization name="Dragonhunter"/> can be replaced with a different [DPS class](/guides/what-should-i-play) relatively easily. | A more offensive comp that pushes past the DPS barriers that Rainbow comp suffers from. Requires co-ordinated play and high DPS to phase bosses before boons run out, especially since most of your <Boon name="Quickness"/> comes from the precast. |
-| **Difficulty** | Easy | Medium | Advanced |
-| **Pros** | Lots of sustain and can deal with [ bad Instabilities](/guides/fractal-basics) very easily.<br/><br/>Comp can run pretty much any [Condition DPS class](/guides/what-should-i-play) and will still work on all fractals. |Access to an abundant amount of [CC](/guides/cc-distrobution)<br/><br/>Keeping up boons is easy with plenty of sources for <Boon name="Might"/> and plenty of sources to keep <Condition name="Vulnerability"/> at 25 stacks.<br/> | Very high burst potential on specific phases<br/><br/>Good boon duration on demand allowing more aggressive variants of support builds<br/><br/>Precasting powerful traps such as <Skill name = "Frost Trap"/> and <Skill name = "Procession of Blades"/> allows for strong openers |
-| **Cons** | Some bosses can really start to drag on due to short phases and the time condis take to ramp up.<br/><br/>Condi comps can be quite boring to play if you enjoy optimizing your gameplay and pushing boss times.<br/> | The comp is fairly restrictive due to the fact you want two <Specialization name="Soulbeast"/> for <Skill name="One Wolf Pack"/>, meaning only the <Specialization name="Dragonhunter"/> can be replaced easily.<br/><br/>In terms of clear time this comp requires a lot more effort and co-ordination to be faster than running a condi comp. Also requiring you to swap to a condi comp for a quick Ensolyss and 100CM kill. <br/> | Requires fast phasing and transitions or starts to suffer from lack of sustained damage<br/><br/>Can be gated on certain bosses by <Skill name = "SicEm!"/><br/><br/>If fights take to long to complete boons start dropping causing a domino effect making the end of fights potentially ugly |
-| **Strong Bosses** | Ensolyss<br/>Ai, Keeper of the peak<br/>Artsariiv | Skorvald<br/>Artsariiv<br/>Arkk | Skorvald<br/>Artsariiv<br/>Arkk |
-| **Weaker Bosses** | MAMA<br/>Arkk | Ensolyss<br/>Siax | MAMA<br/>Ensolyss |
-
+| | <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Daredevil" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/> | <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/> |
+| -- | -- | -- |
+| **General Info** | A very easy to play comp that can faceroll all fractals regardless of instabilities. This is a great option if your group wants to clear fractals safely with little effort. Unless you are an organised consistant static, overall the run time is often the same or faster than playing power. |  A solid, consistant power comp providing plenty of CC and group support. This comp is a great start for people looking to run no healer and start to decrease their individual boss kill times. Additionally the <Specialization name="Dragonhunter"/> can be replaced with a different [DPS class](/guides/what-should-i-play) relatively easily. |
+| **Difficulty** | Easy | Medium |
+| **Pros** | Lots of sustain and can deal with [ bad Instabilities](/guides/fractal-basics) very easily.<br/><br/>Comp can run pretty much any [Condition DPS class](/guides/what-should-i-play) and will still work on all fractals. |Access to an abundant amount of [CC](/guides/cc-distrobution)<br/><br/>Keeping up boons is easy with plenty of sources for <Boon name="Might"/> and plenty of sources to keep <Condition name="Vulnerability"/> at 25 stacks.<br/> |
+| **Cons** | Some bosses can really start to drag on due to short phases and the time condis take to ramp up.<br/><br/>Condi comps can be quite boring to play if you enjoy optimizing your gameplay and pushing boss times.<br/> | The comp is fairly restrictive due to the fact you want two <Specialization name="Soulbeast"/> for <Skill name="One Wolf Pack"/>, meaning only the <Specialization name="Dragonhunter"/> can be replaced easily.<br/><br/>In terms of clear time this comp requires a lot more effort and co-ordination to be faster than running a condi comp. Also requiring you to swap to a condi comp for a quick Ensolyss and 100CM kill. <br/> |
+| **Strong Bosses** | Ensolyss<br/>Ai, Keeper of the peak<br/>Artsariiv | Skorvald<br/>Artsariiv<br/>Arkk |
+| **Weaker Bosses** | MAMA<br/>Arkk | Ensolyss<br/>Siax |
 </Card>
 
 <a name="pug">
@@ -214,3 +192,4 @@ Many PuGs like to play <Specialization name="Firebrand"/> or <Specialization nam
 
 <Divider text="What now?"/>
 ### If you do not know what to play yet we can help you with very basic description of the classes [here](/guides/what-should-i-play) or if you already read that we recommend reading how you can utilize the Defiance bar by breaking it [here!](/guides/cc-distribution)
+
