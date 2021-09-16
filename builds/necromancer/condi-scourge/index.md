@@ -1,9 +1,42 @@
 ---
 title: Condi Scourge
-date: 2021-06-01
+sections:
+  - type:
+      - label: MDX
+        value: mdx
+    title: Overview
+    content: >-
+      The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build
+      to learn and provides access to good off-support tools and can be
+      augmented to provide the means of a safety net at an acceptable amount of
+      DPS loss with the Blood Magic traitline (without any stat changes). The
+      build can place lots of conditions and crowd control on multiple targets
+      simultaneously with its shades and <Skill name="Epidemic"/>. Due to large
+      amounts of self-produced <Condition name="Vulnerability"/> and <Boon
+      name="Might"/> in combination with its other tools, it is quite
+      self-substantial.
+
+
+      <Specialization name="Scourge" text="Condi Scourge" /> has multiple offensive control
+
+      skill options, like using <Control name="Pull" />, corrupt boons for <Instability name="No Pain, No Gain" />
+
+      , cause conditions like <Condition name="Blinded" /> and <Condition name="Immobile" />
+
+      , etc. <Specialization name="Scourge" text="Condi Scourge" /> and can modify
+
+      itself to fit many given situations in fractals.
+
+
+      This build also does not have a formal rotation, and instead has a prioritization for its skills making it easy to focus on side objectives and quickly pick up where you left off in dealing damage.
+
+
+      Due to being a condition based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
+  - type: equipment
+    title: Equipment
 rating: Good
 role: Condi Damage
-author: 'Discord: Amerikajinn#9784'
+author: "Discord: Amerikajinn#9784"
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -26,32 +59,125 @@ boons:
   - Might
   - Fury
   - Quickness
-code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+hasCMGuide: false
 classification:
   - 2
   - 4
   - 4
   - 2
   - 3
+character:
+  - gear: |-
+      {
+        "gear": [
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper"
+        ],
+        "attributes": {
+          "Health": 19212,
+          "Armor": 2210,
+          "Power": 2923,
+          "Precision": 2056,
+          "Toughness": 1243,
+          "Vitality": 1000,
+          "Ferocity": 150,
+          "Condition Damage": 3083,
+          "Expertise": 1036,
+          "Concentration": 468,
+          "Healing Power": 0,
+          "Agony Resistance": 162,
+          "Condition Duration": 89.06666666666666,
+          "Boon Duration": 31.2,
+          "Critical Chance": 95.28571428571428,
+          "Critical Damage": 160,
+          "Fear Duration": 10,
+          "Bleeding Duration": 20,
+          "Effective Power": 7264.453605357142,
+          "Power DPS": 3930.133737207079,
+          "Burning Damage": 989.405625,
+          "Burning Stacks": 6.428266666666667,
+          "Burning DPS": 6360.163199,
+          "Bleeding Damage": 336.3425,
+          "Bleeding Stacks": 41.2,
+          "Bleeding DPS": 13857.311,
+          "Poison Damage": 355.03,
+          "Poison Stacks": 6.995466666666667,
+          "Poison DPS": 2483.6005306666666,
+          "Torment Damage": 628.2046875,
+          "Torment Stacks": 26.847466666666666,
+          "Torment DPS": 16865.704407499998,
+          "Confusion Damage": 336.3425,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 43496.912874373746,
+          "Effective Health": 53073150,
+          "Survivability": 26981.77427554652,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130
+        ],
+        "weight": "Light",
+        "runeId": 24848,
+        "runeName": "Nightmare",
+        "weapons": {
+          "weapon1MainType": "Scepter",
+          "weapon1MainSigil1": "bursting",
+          "weapon1OffType": "Torch",
+          "weapon1OffSigil": "torment",
+          "weapon2MainType": "Scepter",
+          "weapon2MainSigil1": "bursting",
+          "weapon2OffType": "Warhorn",
+          "weapon2OffSigil": "torment"
+        },
+        "consumables": {
+          "foodId": "86997",
+          "utility": "master-tuning-crystal",
+          "infusion": "Mighty +9 Agony Infusion"
+        }
+      }
+    note: Note that the build does not rely on precision as much as Power builds and
+      you can build your AR around the 150 breakpoint. You should however aim
+      for a fully +9 stated infusion gear setup for maximum <item name="Infinite
+      Mist Omnipotion"/> stat conversion value.
+date: 2021-09-16T21:48:52.706Z
 benchmark:
   small:
     dps: 37044
     by: Prud
     youtube: 6NbhBMCyjmw
 ---
-
-The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic traitline (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades and <Skill name="Epidemic"/>. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
-
-<Specialization name="Scourge" text="Condi Scourge" /> has multiple offensive control
-skill options, like using <Control name="Pull" />, corrupt boons for <Instability name="No Pain, No Gain" />
-, cause conditions like <Condition name="Blinded" /> and <Condition name="Immobile" />
-, etc. <Specialization name="Scourge" text="Condi Scourge" /> and can modify
-itself to fit many given situations in fractals.
-
-This build also does not have a formal rotation, and instead has a prioritization for its skills making it easy to focus on side objectives and quickly pick up where you left off in dealing damage.
-
-Due to being a condition based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
-
 <Divider text="Equipment" />
 
 <Grid>
