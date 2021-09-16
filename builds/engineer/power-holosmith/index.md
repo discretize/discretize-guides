@@ -43,7 +43,7 @@ sections:
       This guide will focus mainly on the Sword ECSU variant since it is the most flexible of the 3.
   - type: equipment
     title: Equipment
-    content: ""
+    content: ''
   - type: mdx
     title: Default Build
     content: >-
@@ -144,7 +144,7 @@ sections:
       </Grid>
   - type: mdx
     title: Rotation/Skill Usage
-    content: ""
+    content: ''
 rating: Good
 role: Power Damage
 profession: Engineer
@@ -154,7 +154,7 @@ conditions:
   - Blinded
   - Crippled
   - Immobile
-code: "[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 2
@@ -268,12 +268,8 @@ character:
 
       You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
 date: 2021-09-16T21:19:56.036Z
-benchmark:
-  small:
-    dps: 38143
-    by: TJ [SC]
-    youtube: p6mZtHhu7GM
 ---
+
 <Grid>
 <GridItem sm="6">
 <Card title="Rotation">
@@ -302,7 +298,7 @@ benchmark:
 
 12. <Skill name="Shrapnel Grenade" profession="Engineer"/>
 
-13.  <Skill name="Poison Grenade" profession="Engineer"/>
+13. <Skill name="Poison Grenade" profession="Engineer"/>
 
 14. 2x <Skill name="Sun Edge" profession="Engineer"/> -> <Skill name="Sun Ripper" profession="Engineer"/> -> <Skill name="Gleam Saber" profession="Engineer"/>
 
@@ -315,8 +311,8 @@ benchmark:
 18. <Skill name="Refraction Cutter" profession="Engineer"/>
 
 19. <Skill name="Shrapnel Grenade" profession="Engineer"/>
- 
-20.  <Skill name="Freeze Grenade" profession="Engineer"/>
+
+20. <Skill name="Freeze Grenade" profession="Engineer"/>
 
 21. <Skill name="engage Photon Forge" profession="Engineer"/> (your heat should be around 90%)
 
@@ -325,13 +321,12 @@ benchmark:
 </Card>
 <Card title="Notes">
 
-
 - Use <Skill id="6178"/> off cooldown.
 
 - Use <Skill id="42163"/> off-cooldown. This skill can be used inside the hitbox when multiple enemies are around to hit the boss multiple times. If this can be done, for example on Ensolyss, you can delay this skill for that.
 
 - <Skill id="5808"/> can be used to mitigate damage in add heavy fights.
- 
+
 - When running off-hand Pistol, <Skill name="Blowtorch"/> is used instead of <Skill name="Freeze Grenade"/> in step 20.
 
 - When running off-hand Pistol, <Skill id="5830"/> can help in controlling movement of enemies without breakbar.
@@ -342,13 +337,13 @@ benchmark:
 
 <Card title="CC skills">
 
-|                     |            |
-| ------------------- | ---------- |
-| <Skill id="21661"/> | 100 damage |
+|                                    |            |
+| ---------------------------------- | ---------- |
+| <Skill id="21661"/>                | 100 damage |
 | <Skill name="Magnetic Inversion"/> | 100 damage |
-| <Skill id="6057"/>  | 100 damage |
-| <Skill id="42009"/> | 232 damage |
-| <Skill id="42521"/> | 232 damage |
+| <Skill id="6057"/>                 | 100 damage |
+| <Skill id="42009"/>                | 232 damage |
+| <Skill id="42521"/>                | 232 damage |
 
 </Card>
 
@@ -362,15 +357,16 @@ benchmark:
 - You want to always use your big damaging skills like <Skill name="Laser Disk"/> and <Skill name="Prime Light Beam"/> in Forge when possible. Only use them outside of Forge if the boss will die/phase before you can go back into Forge to use them there.
 - In Forge, your high damage weapon skills are <Skill name="Corona Burst"/> and <Skill name="Photon Blitz"/>, as well as auto-attack chains. Try to not interrupt your Forge auto-attack chain. Your goal is to <Skill name="Deactivate Photon forge"/> at exactly 149 Heat. This can be achieved by using auto-attack chains until around 140 Heat (as seen in step 8), then using <Skill name="Corona Burst"/> and <Skill name="Deactivate Photon forge"/>. <Skill name="Corona Burst"/> will keep building up some Heat, however you cannot <Skill id="44386"/> if you already left Forge directly after its cast.
 - Out of Forge, your basic rotation can be seen in steps 15-17. The main goal is to use <Skill name="Refraction Cutter"/> above 100 Heat 3 times. If you are slow, you might want to skip some extra skills like <Skill name="Poison Grenade"/> and <Skill name="Freeze Grenade"/> and prioritize <Skill name="Engage Photon Forge"/> at 90 Heat.
+
 </Card>
 
 <Card title="Pre-Casting">
-
 
 - Make sure that you will start the fight on your desired Heat (usually 90%).
 - You want to make sure to always at least pre-cast <Skill name="Laser Disk"/> before taking the singularity.
 - You can either swap utiltiy skills manually or via template. Make sure to have the same traits in both templates selected if you choose the template route.
 - If this is taken care of, you can do the following extra pre-casts:
+
 1. Equip <Skill name="Thumper Turret"/>, <Skill name="Bomb Kit"/> and <Skill name="Flamethrower"/>.
 2. Place <Skill name="Big Ol Bomb"/>.
 3. Use <Skill name="Fire Bomb"/> or <Skill name="Napalm"/> to provide a fire field.
@@ -383,8 +379,6 @@ benchmark:
 - <Skill name="Holographic Shockwave"/> provides yet another blast finisher if it works with your Heat management.
 
 </Card>
-
-
 
 </GridItem>
 </Grid>
