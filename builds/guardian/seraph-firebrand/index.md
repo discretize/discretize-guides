@@ -3,7 +3,8 @@ title: Seraph Firebrand
 sections:
   - type: mdx
     title: Overview
-    content: The **<Specialization text="Seraph Firebrand" name="Firebrand"/>** is a
+    content: >-
+      The **<Specialization text="Seraph Firebrand" name="Firebrand"/>** is a
       build for groups to use instead of a **<Specialization text="Heal
       Firebrand" name="Firebrand"/>**. It provides more than enough healing for
       most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18
@@ -14,23 +15,12 @@ sections:
       but the convenience of having a more supportive player pumping out
       important boons such as <Boon name="might"/>, <Boon name="Stability"/>,
       <Boon name="Aegis"/> and heals is invaluable.
-  - type: mdx
+
+
+      The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option if playing outside of fractals. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/).
+  - type: equipment
     title: Equipment
-    content: The general idea of this build is to leverage the Seraph stat combo
-      (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>,
-      <Attribute name="Condition Damage"/> and <Attribute
-      name="Concentration"/>). This gives a high amount of <Attribute
-      name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then
-      uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration
-      allowing you to deal a good amount of damage. There are three variants
-      shown below; a Seraph variant, Celestial variant and a Celestial Heal
-      variant. The Seraph Variant is a more offensive build and offers the most
-      damage. The Celestial variant is slightly less damage but also a better
-      option if playing outside of fractals. While the Celestial Heal variant is
-      much more supportive and a last resort before swapping to <BuildLink
-      build="Heal Firebrand" specialization="Firebrand"/> . All of these builds
-      can be optimised further with a mix of gear to suit your needs using our
-      [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/).
+    content: ""
   - type: mdx
     title: Build
     content: >-
@@ -371,7 +361,7 @@ character:
           "weapon2MainSigil2": "smoldering"
         },
         "consumables": {
-          "food": "fire-meat-chili",
+          "food": "bowl-of-fire-meat-chili",
           "utility": "toxic-focusing-crystal",
           "infusion": "Mighty +9 Agony Infusion"
         }
@@ -475,7 +465,7 @@ character:
           "weapon2MainSigil2": "transference"
         },
         "consumables": {
-          "food": "mint-pear-cured-flatbread",
+          "foodId": "86997",
           "utility": "toxic-focusing-crystal",
           "infusion": "Mighty +9 Agony Infusion"
         }
@@ -585,12 +575,12 @@ character:
           "weapon2MainSigil2": "smoldering"
         },
         "consumables": {
-          "food": "mint-and-veggie-flatbread",
+          "food": "bowl-of-fire-meat-chili",
           "utility": "toxic-focusing-crystal",
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-15T18:50:36.994Z
+date: 2021-09-16T19:32:15.738Z
 ---
 <Divider text="Rotation"/>
 
