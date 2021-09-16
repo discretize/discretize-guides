@@ -17,15 +17,7 @@ sections:
       Condi <Specialization name="Renegade"/> is pretty independent due to its rather good mobility (<Skill id="28029"/>, <Skill id="27917"/>) and permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
   - type: equipment
     title: Equipment
-    content: >-
-      For more variations check our [Gear
-      Optimizer](https://discretize.github.io/discretize-gear-optimizer/).
-
-
-      If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="92418"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
-
-
-      If you have 2 <Specialization name-"Renegade" text="Condi Renegades"/> you can both play <Trait name="Rightous Rebel"/> to provide <Boon name="alacrity"/>,
+    content: ""
   - type: mdx
     title: Build
     content: >-
@@ -311,10 +303,10 @@ character:
           "weapon1MainType": "Mace",
           "weapon1MainSigil1": "concentration",
           "weapon1OffType": "Axe",
-          "weapon1OffSigil": "bursting",
+          "weapon1OffSigil": "doom",
           "weapon2MainType": "Shortbow",
           "weapon2MainSigil1": "concentration",
-          "weapon2MainSigil2": "bursting"
+          "weapon2MainSigil2": "geomancy"
         },
         "consumables": {
           "foodId": "86997",
@@ -322,7 +314,12 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-    note: ""
+    note: >-
+      For more variations to suit your needs/AR check our [Gear
+      Optimizer](https://discretize.github.io/discretize-gear-optimizer/).
+
+
+      If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="92418"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
   - title: 80% Boon Duration 222AR
     gear: |-
       {
@@ -410,10 +407,10 @@ character:
           "weapon1MainType": "Mace",
           "weapon1MainSigil1": "concentration",
           "weapon1OffType": "Axe",
-          "weapon1OffSigil": "bursting",
+          "weapon1OffSigil": "doom",
           "weapon2MainType": "Shortbow",
           "weapon2MainSigil1": "concentration",
-          "weapon2MainSigil2": "bursting"
+          "weapon2MainSigil2": "geomancy"
         },
         "consumables": {
           "foodId": "86997",
@@ -421,6 +418,12 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
+    note: >-
+      For more variations to suit your needs/AR check our [Gear
+      Optimizer](https://discretize.github.io/discretize-gear-optimizer/).
+
+
+      If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="92418"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
   - title: Condi DPS Renegade
     gear: |-
       {
@@ -520,7 +523,10 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-16T22:24:15.227Z
+    note: If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you
+      can both play <Trait name="Righteous Rebel"/> to provide <Boon
+      name="alacrity"/>,
+date: 2021-09-16T22:28:15.766Z
 hasCMGuide: false
 benchmark:
   huge:
