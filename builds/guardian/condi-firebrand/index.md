@@ -353,7 +353,7 @@ character:
           "weapon2MainSigil2": ""
         },
         "consumables": {
-          "food": "plate-of-beef-rendang",
+          "foodId": "86997",
           "utility": "toxic-focusing-crystal",
           "infusion": "Mighty +9 Agony Infusion"
         }
@@ -363,7 +363,7 @@ character:
       - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s.
       - A staff for <Boon name="Might"/> pre-stacking.
     title: Condi Firebrand
-date: 2021-09-16T19:18:09.923Z
+date: 2021-09-16T19:31:49.546Z
 benchmark:
   small:
     dps: 36732
