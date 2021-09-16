@@ -28,6 +28,9 @@ sections:
       - Some self-generation of <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Fury"/>
 
 
+      The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>.
+
+
       The main thing the build lacks compared to other Power DPS classes is a unique party buff for Power compositions like <Specialization text="Power Dragonhunter" name="Dragonhunter"/>'s <Skill name="Bane Signet"/> share.
 
 
@@ -439,7 +442,7 @@ character:
       build does not rely on high Agony Resistance to reach crit-cap. You will
       only need higher AR or Assassin pieces if you want to swap to <Trait
       name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.
-date: 2021-09-16T13:14:04.463Z
+date: 2021-09-16T13:18:45.511Z
 benchmark:
   small:
     dps: 38143
