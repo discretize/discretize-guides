@@ -21,6 +21,8 @@ sections:
       Its worth mentioning that \*<Specialization text="Power Quickness Firebrand" name="Firebrand"/>\* is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run \*<BuildLink build="Condi Firebrand" specialization="Firebrand"/>\* as it provides much higher sustained DPS.
 
       </Message>
+  - type: equipment
+    title: Equipment
   - type: mdx
     title: Build
     content: >-
@@ -446,7 +448,7 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-15T23:49:16.997Z
+date: 2021-09-16T19:00:29.006Z
 ---
 <Divider text="Rotation / Skill Usage"/>
 
