@@ -25,7 +25,7 @@ sections:
 
       - An increbile skill set for various skips in Tier 4 fractals due to access to <Effect name="Stealth"/>, as well as <Effect name="Superspeed"/> and a targeted leap with <Skill name="Jump Shot"/>
 
-      - Some self-generation of <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Fury"/>
+      - Some **self**-generation of <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Fury"/>
 
 
       The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>.
@@ -442,7 +442,7 @@ character:
       build does not rely on high Agony Resistance to reach crit-cap. You will
       only need higher AR or Assassin pieces if you want to swap to <Trait
       name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.
-date: 2021-09-16T13:18:45.511Z
+date: 2021-09-16T13:20:43.636Z
 benchmark:
   small:
     dps: 38143
