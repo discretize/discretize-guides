@@ -245,7 +245,7 @@ character:
       If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 
-      Check the \[gear optimizer]\(http://https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
     gear: |-
       {
         "gear": [
@@ -350,7 +350,7 @@ character:
       If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 
-      Check the \[gear optimizer]\(http://https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
     title: 222 Agony Resistance (24.6% BD)
     gear: |-
       {
@@ -448,7 +448,7 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-16T19:19:07.875Z
+date: 2021-09-16T19:20:26.308Z
 ---
 <Divider text="Rotation / Skill Usage"/>
 
