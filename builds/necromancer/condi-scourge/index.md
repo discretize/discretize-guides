@@ -71,7 +71,7 @@ sections:
 
 
       <Message>
-        <Skill name="Summon Shadow Fiend" /> will replace <Skill name="Epidemic" /> on
+        <Skill name="Spectral Grasp" /> will replace <Skill name="Epidemic" /> on
         any fight that is single target or cleave is not needed.
       </Message>
 
@@ -163,7 +163,7 @@ sections:
       </Grid>
 rating: Good
 role: Condi Damage
-author: 'Discord: Amerikajinn#9784'
+author: "Discord: Amerikajinn#9784"
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -186,7 +186,7 @@ boons:
   - Might
   - Fury
   - Quickness
-code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 classification:
   - 2
@@ -308,7 +308,7 @@ character:
         of condition duration with this rune choice.
       - <Item id="44956" /> provides a large boost to personal survivability on top of
         your barrier generation at the cost of a minor DPS loss.
-date: 2021-09-16T22:01:37.757Z
+date: 2021-09-16T23:42:44.238Z
 benchmark:
   small:
     dps: 37044
