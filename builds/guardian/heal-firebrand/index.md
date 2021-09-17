@@ -603,8 +603,7 @@ classification:
   - 1
   - 2
 character:
-  - title: Heal Firebrand
-    gear: |-
+  - gear: |-
       {
         "gear": [
           "Harrier",
@@ -698,7 +697,6 @@ character:
           "infusion": "Healing +9 Agony Infusion"
         }
       }
-    note: ''
 date: 2021-09-16T19:21:14.957Z
 ---
 

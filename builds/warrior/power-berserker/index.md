@@ -23,9 +23,6 @@ sections:
   - type: mdx
     title: Build
     content: >-
-      <Divider text="Build"/>
-
-
       <Grid>
 
       <GridItem sm="7">
@@ -123,9 +120,6 @@ sections:
   - type: mdx
     title: Details
     content: >-
-      <Divider text="Details"/>
-
-
       <Grid>
 
       <GridItem sm="8">
@@ -252,7 +246,7 @@ conditions:
   - Vulnerability
 boons:
   - Might
-code: "[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 4
@@ -261,8 +255,7 @@ classification:
   - 2
   - 4
 character:
-  - title: 162 Agony Resistance
-    gear: |-
+  - gear: |-
       {
         "gear": [
           "Berserker",
@@ -366,8 +359,7 @@ character:
       additional <Attribute name="Precision"/> as much as this variant, so it is
       recommended to stick with <Item name="scholar"/> since it provides a
       strict upgrade path.'
-  - title: 222 Agony Resistance
-    gear: |-
+  - gear: |-
       {
         "gear": [
           "Berserker",
@@ -464,110 +456,9 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-  - title: 276 Agony Resistance
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Berserker"
-        ],
-        "attributes": {
-          "Health": 21912,
-          "Armor": 2385,
-          "Power": 4326,
-          "Precision": 2575,
-          "Toughness": 1114,
-          "Vitality": 1270,
-          "Ferocity": 2348,
-          "Condition Damage": 1200,
-          "Expertise": 0,
-          "Concentration": 414,
-          "Healing Power": 0,
-          "Agony Resistance": 276,
-          "Condition Duration": 0,
-          "Boon Duration": 27.6,
-          "Critical Chance": 100,
-          "Critical Damage": 306.5333333333333,
-          "Effective Power": 42121.647825018306,
-          "Power DPS": 46062.949489045815,
-          "Burning Damage": 455.6875,
-          "Burning Stacks": 0.7,
-          "Burning DPS": 318.98125,
-          "Bleeding Damage": 135.125,
-          "Bleeding Stacks": 0,
-          "Bleeding DPS": 0,
-          "Poison Damage": 151.65625,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 200.9625,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 135.125,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 46381.93073904581,
-          "Effective Health": 71857665,
-          "Survivability": 36531.60396542959,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Heavy",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Axe",
-          "weapon1MainSigil1": "force",
-          "weapon1OffType": "Axe",
-          "weapon1OffSigil": "impact",
-          "weapon2MainType": "Mace",
-          "weapon2MainSigil1": "severance",
-          "weapon2OffType": "Mace",
-          "weapon2OffSigil": "paralyzation"
-        },
-        "consumables": {
-          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
-          "utility": "superior-sharpening-stone",
-          "infusion": "Mighty +9 Agony Infusion"
-        }
-      }
-    note: You are an actual mad lad for considering this build. It costs about 3500
-      gold... You gain 41 power more over the 222 AR build. It is up to you to
-      decide if you want to pay over 80g per extra power. If you want to go full
-      Berserker now you will need 304 AR.
 date: 2021-09-16T20:49:51.604Z
 ---
+
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>

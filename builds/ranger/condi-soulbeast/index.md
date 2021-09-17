@@ -173,7 +173,7 @@ conditions:
   - Bleeding
   - Poisoned
   - Burning
-code: "[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 character:
   - title: Krait Runes
@@ -260,7 +260,7 @@ character:
         "runeId": 24762,
         "runeName": "Krait",
         "weapons": {
-          "weapon1MainType": "Shortbow",
+          "weapon1MainType": "Short Bow",
           "weapon1MainSigil1": "bursting",
           "weapon1MainSigil2": "earth",
           "weapon2MainType": "Dagger",
@@ -359,7 +359,7 @@ character:
         "runeId": 24687,
         "runeName": "Afflicted",
         "weapons": {
-          "weapon1MainType": "Shortbow",
+          "weapon1MainType": "Short Bow",
           "weapon1MainSigil1": "malice",
           "weapon1MainSigil2": "earth",
           "weapon2MainType": "Dagger",
@@ -385,6 +385,7 @@ benchmark:
     by: Eren
     youtube: WSuDmiuAwC8
 ---
+
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
