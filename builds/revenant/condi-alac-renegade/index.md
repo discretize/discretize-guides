@@ -4,11 +4,11 @@ sections:
   - type: mdx
     title: Overview
     content: >-
-      <Message>
+      <Warning>
 
       This build is mainly to be used in condition comps. In power comps <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support and being more versatile.
 
-      </Message>
+      </Warning>
 
 
       Condi <Specialization name="Renegade"/> is an unique build that may only be played in condition comps, since it performs much better than <BuildLink build="Power Renegade" specialization="Renegade"/>. Condi <Specialization name="Renegade"/> has decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively. Finally, to top it off this build has high CC capabilities with <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
@@ -177,11 +177,11 @@ sections:
       - If you use the 3rd build (Double Renegade) always use <Skill id="45537"/> during a <Skill id="41858"/> rotation
 
 
-      <Message>
+      <Warning>
 
       Do not use <Skill id="45537"/> right before a mechanic or any reason that would not let your whole party get every tick from <Skill id="45537"/> (like spreading around): you are already very tight on <Boon name="Alacrity"/>!
 
-      </Message>
+      </Warning>
 
       </Card>
 

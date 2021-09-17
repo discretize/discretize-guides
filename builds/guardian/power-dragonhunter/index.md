@@ -5,11 +5,11 @@ sections:
   - title: Summary
     type: mdx
     content: >-
-      <Message> 
+      <Warning> 
 
       <Specialization name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand"/> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups or when played in the <Composition name="_RGB"/> composition. 
 
-      </Message>
+      </Warning>
 
 
       <Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.

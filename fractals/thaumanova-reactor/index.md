@@ -76,9 +76,9 @@ Activate the _Detonator_ and wait for the <Specialization name="Renegade"/>, <Sp
 
 <Grid>
 <GridItem sm="12">
-<Message>
+<Warning>
 For a faster completion time you can split up. <Specialization name="Berserker"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Weaver"/> soloes Superheated Room <Label>West</Label> and <Specialization name="Renegade"/> and <Specialization name="Soulbeast"/> do Researcher Dormitories <Label>East</Label>.
-</Message>
+</Warning>
 </GridItem>
 
 <GridItem sm="7">

@@ -64,9 +64,9 @@ It plays very similar to <BuildLink build="Power Dragonhunter" specialization="D
 
 Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' <Attribute name="Power"/> by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
-<Message>
+<Warning>
 Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="Firebrand"/>* is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run *<BuildLink build="Condi Firebrand" specialization="Firebrand"/>* as it provides much higher sustained DPS.
-</Message>
+</Warning>
 </Card>
 
 <Card specialization="Dragonhunter" title="Power Dragonhunter">
@@ -260,9 +260,9 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
 | --------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Firebrand" disableLink/>](/builds/guardian/heal-firebrand) | <Rating value="4"/> | <Rating value="1"/> | <Rating value="3"/> | <Rating value="1"/> | <Rating value="2"/> |
 
-<Message>
+<Warning>
 This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a hybrid variant that is in-between the full heal and damage versions called [Seraph Firebrand](/builds/guardian/seraph-firebrand) for parties wanting to transition to no heal runs.
-</Message>
+</Warning>
 
 It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is important to understand that the signet share is essential to faster runs and sharing extra power during <Effect name="Exposed"/> (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Mantra of Solace"/> and <Skill name="Mantra of Potence"/>; <Skill name="Feel My Wrath"/> is optional.
 

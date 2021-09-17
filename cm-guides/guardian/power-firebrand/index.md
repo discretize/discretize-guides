@@ -8,9 +8,9 @@ disableBosses: ['LightAi', 'DarkAi']
 
 <ConditionalComponent condition="pug">
 <Boss name="mama" video="odHRC78RDGU" videoCreator="SLifeR [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9125" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
-<Message>
+<Warning>
 This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab additional CC skills to make up for the lack of CC of your team mates.
-</Message>
+</Warning>
 </Boss>
 </ConditionalComponent>
 
@@ -190,9 +190,9 @@ NOTE - you should help both <Specialization name="Weaver"/> and <Specialization 
 
 </Boss>
 
-<Message>
+<Warning>
 These builds only work if you can kill Siax in under 40 seconds. If there is any doubt about the kill time, go with the PuG version.
-</Message>
+</Warning>
 
 <Tabs>
 <Tab specialization="Dragonhunter" title="Dragonhunter">
@@ -283,9 +283,9 @@ These builds only work if you can kill Siax in under 40 seconds. If there is any
 </Tab>
 
 <Tab specialization="Guardian" title="Core">
-<Message>
+<Warning>
 <Specialization text="Core Guardian" name="Guardian"/> can be very tricky as its dps is heavily influenced on how you can keep your <Boon name="Aegis"/>. If you are unable to keep your <Boon name="Aegis"/>, <Specialization name="Dragonhunter"/> will perform much better.
-</Message>
+</Warning>
 
 ### **Phase 1**
 

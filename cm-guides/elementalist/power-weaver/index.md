@@ -93,9 +93,9 @@ This version is made mostly for PuGs that are not phasing fast enough to get pro
 
 <ConditionalComponent condition="static">
 <Boss name="MAMA" video="WFYMOt5gf_4" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="force" weapon1OffInfusionId="37131">
-<Message>
+<Warning>
 This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
-</Message>
+</Warning>
 
 In more organised groups it's recommended to run <Specialization name="Tempest"/>+<Skill name="conjurelightninghammer"/> precast to get extra phase 2 DPS and better <Boon name="Quickness"/>/<Boon name="Fury"/> uptime after the <Skill name="feelmywrath"/> changes (especially if you want to run with <Specialization name="Dragonhunter"/> instead of <Specialization name="Firebrand"/>).
 </Boss>
@@ -227,9 +227,9 @@ This version is made mostly for pugs that are not phasing fast enough to profit 
 
 <ConditionalComponent condition="static">
 <Boss name="siax" video="toqlXSTRSVg" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="signetofrestoration" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
-<Message>
+<Warning>
 This build only works if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
-</Message>
+</Warning>
 
 In more organised groups it's recommended to run <Specialization name="Tempest"/>+<Skill name="conjurelightninghammer"/> precast to get extra phase 2 DPS and better <Boon name="Quickness"/>/<Boon name="Fury"/> uptime after the <Skill name="feelmywrath"/> changes (especially if you want to run with <Specialization name="Dragonhunter"/> instead of <Specialization name="Firebrand"/>).
 </Boss>
@@ -496,9 +496,9 @@ Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the
 -   In **VERY** fast groups it's not that bad to use <Skill id="5539"/> instead of <Skill id="40183"/>. Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase, if playing <Skill id="5539"/> spam it during <Effect name="Exposed"/> window.
 
 
-<Message>
+<Warning>
 One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four *Elite Flux Anomalies*. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
-</Message>
+</Warning>
 </Boss>
 
 ### **Precast**

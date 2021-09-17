@@ -4,13 +4,13 @@ sections:
   - type: mdx
     title: Overview
     content: >-
-      <Message>
+      <Warning>
 
 
       This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a new heal variant that is in-between the full heal and damage version called [Seraph Firebrand](/builds/guardian/seraph-firebrand) for parties wanting to transition to no heal runs.
 
 
-      </Message>
+      </Warning>
 
 
       <Specialization name="Firebrand" text="Heal Firebrand" /> provides a good amount of <Boon name="Might" />, permanent <Boon name="Quickness" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Swiftness" /> as well as some <Boon name="Protection" /> and <Boon name="Resolution" />. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability" /> and <Boon name="Resistance" />.
@@ -702,13 +702,13 @@ date: 2021-09-16T19:21:14.957Z
 
 <Divider text="Videos" />
 
-<Message>
+<Warning>
 
 Here's two In-Depth video guides on <Specialization name="Firebrand" text="Heal Firebrand" />. Keep in mind that
 we still highly recommend playing the default Radiance/Honor build from the
 build section.
 
-</Message>
+</Warning>
 
 <Grid>
 

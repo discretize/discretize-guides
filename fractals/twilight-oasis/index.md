@@ -119,9 +119,9 @@ Jump up to the roof on the right-hand side and kill two Sandbinders on the roofs
 
 It is also possible to skip the tornado between the two Sandbinder using this portal skip shown below.
 
-<Message>
+<Warning>
 Please note that you can't `/gg` after any Sandbinder, because you spawn behind the ideal checkpoints.
-</Message>
+</Warning>
 </GridItem>
 
 <GridItem sm="5">
@@ -149,9 +149,9 @@ Please note that you can't `/gg` after any Sandbinder, because you spawn behind 
 
 ## Priestess Amala
 
-<Message>
+<Warning>
 **Bring boon removal because she is spamming <Boon name="Protection"/> on herself like there is no tomorrow!**
-</Message>
+</Warning>
 
 Stack <Boon name="Might"/> and be ready to dodge the initial <Control name="Knockback"/> after activating the encounter.
 

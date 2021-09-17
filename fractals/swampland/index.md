@@ -81,9 +81,9 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 <GridItem sm="8">
 In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="Stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the *Mistlock Singularity* inside the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
 
-<Message>
+<Warning>
 **Beware, there is a wisp that has <Effect name="Invulnerability"/> and can attack you, putting you in combat during pre-stack**!
-</Message>
+</Warning>
 </GridItem>
 
 <GridItem sm="4">

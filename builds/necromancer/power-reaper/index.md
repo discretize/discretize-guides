@@ -38,10 +38,10 @@ sections:
       <Card title="Situational Skills">
 
 
-      <Message>
+      <Warning>
         If you are going to replace a skill, <Skill name="Well of Darkness" /> is your
         least damaging skill.
-      </Message>
+      </Warning>
 
 
       |                                                               |                                                                                                                                                                                                                                                      |

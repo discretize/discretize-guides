@@ -3,11 +3,11 @@ title: Condi Weaver
 sections:
   - type: mdx
     content: >-
-      <Message>
+      <Warning>
 
       This build performs best in [Sunqua Peak](/fractals/sunqua-peak). Outside of this fractal, it will fall behind <BuildLink build="Power Weaver" specialization="Weaver"/> due to its fairly slower damage ramp-up.
 
-      </Message>
+      </Warning>
 
 
       The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak), and will almost always outperform <BuildLink build="Power Weaver" specialization="Weaver"/> (if you find yourself in a slow group, this build can also be an attractive choice for ''slower'' encounters like Ensolyss and Arkk).
@@ -86,11 +86,11 @@ sections:
       | <Skill name="Glyph of Renewal" size="big" disableText/> | You can sacrifice some DPS for a powerful insta rez, can be very useful during "Dancing with Demons" runs.|
 
 
-      <Message>
+      <Warning>
 
       If you do want to switch any of your utilites in favor of one of the skills listed above, you should prioritise dropping <Skill name="Glyph of Elemental Power"/> before <Skill name="Primordial Stance"/> and <Skill name="Signet of fire"/>.
 
-      </Message>
+      </Warning>
 
 
       </Card>

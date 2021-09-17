@@ -24,9 +24,9 @@ disableBosses: ['Skorvald', 'Artsariiv', 'Arkk', 'MAMA', 'Siax', 'Ensolyss']
 
 ### **Precast**
 
-<Message>
+<Warning>
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
-</Message>
+</Warning>
 
 - Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
 
@@ -46,9 +46,9 @@ Boons get removed upon entering combat here, so stacking them is pointless. Effe
 
 - Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
 
-<Message>
+<Warning>
 In pug groups it is recommended to cc Ai in the middle of the arena. This will give you  the maximum amount of time to DPS Ai, which will allow most groups to skip most of the split phases. On SLB you don't want to delay your <Skill name="Concussion Shot"/> as it will stop you from swapping to Dagger/Torch and dealing  as much damage, but you should delay your <Skill id="46432"/> if you need to. Ideally Ai's CC bar should break as the Red Agony field spawns beneath her.
-</Message>
+</Warning>
 
 ### _Air Phase_
 
@@ -66,9 +66,9 @@ In pug groups it is recommended to cc Ai in the middle of the arena. This will g
 
 ### _Fire Phase_
 
-<Message>
+<Warning>
 Ideally your group will use a Xera portal to get back to the middle to DPS Ai quickly. Make sure you communicate with your team before the fight to work out if you or someone else will drop one.
-</Message>
+</Warning>
 
 - Start this phase on Dagger/Torch
 
@@ -88,9 +88,9 @@ Ideally your group will use a Xera portal to get back to the middle to DPS Ai qu
 
 ### _Water Phase_
 
-<Message>
+<Warning>
 There is not much you can do in the split phase here, so just make sure to keep an eye on tethers and to give/take them if you or someone else is close to 9 stacks. If your <Skill name="Sun Spirit"/> has died remember to summon it towards the end of the split phase. It is also beneficial to be in the middle of the arena her so you have less distance to walk when Ai dashes to the side again.
-</Message>
+</Warning>
 
 - Summon <Skill name="Sun Spirit"/> if it has died shortly before ai becomes vulnerable,
 
@@ -130,15 +130,15 @@ There is not much you can do in the split phase here, so just make sure to keep 
 
 </Boss>
 
-<Message>
+<Warning>
 The following guide assumes your group will CC Ai at the side of the arena; and will phase at the side or shortly after, Your comp and pet choice will change the amount of CC required and skill usage, so be prepared to adjust your rotation.
-</Message>
+</Warning>
 
 ### **Precast**
 
-<Message>
+<Warning>
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
-</Message>
+</Warning>
 
 - Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
 
@@ -174,9 +174,9 @@ Boons get removed upon entering combat here, so stacking them is pointless. Effe
 
 ### _Fire Phase_
 
-<Message>
+<Warning>
 Ideally your group will use a Xera portal to get back to the middle to DPS Ai quickly. If you are running <Trait name="Quickdraw"/> make sure someone else uses their portal as the trait will proc when you open portal which isn't ideal.
-</Message>
+</Warning>
 
 - Start this phase on Dagger/Torch
 
@@ -194,9 +194,9 @@ Ideally your group will use a Xera portal to get back to the middle to DPS Ai qu
 
 ### _Water Phase_
 
-<Message>
+<Warning>
 There is not much you can do in the split phase here, so just make sure to keep an eye on tethers and to give/take them if you or someone else is close to 9 stacks. If your <Skill name="Sun Spirit"/> has died remember to summon it towards the end of the split phase.
-</Message>
+</Warning>
 
 - As Ai becomes vulnerable use <Skill name="Vulture Stance"/> and <Skill name="Sharpening Stone"/>. Use <Skill name="Concussion Shot"/>, <Skill name="Crippling Shot"/>, <Skill name="Poison Volley"/> and follow Ai to the side.
 
@@ -232,9 +232,9 @@ There is not much you can do in the split phase here, so just make sure to keep 
 
 ### **Precast**
 
-<Message>
+<Warning>
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
-</Message>
+</Warning>
 
 - Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
 
@@ -254,9 +254,9 @@ Boons get removed upon entering combat here, so stacking them is pointless. Effe
 
 - Cast <Skill name="Sun Spirit"/> so it spawns towards the middle of the arena.
 
-<Message>
+<Warning>
 In pug groups it is recommended to cc Ai after she dashes from the side on the 100%-66% phase. This will give you the maximum amount of time to DPS Ai to 66% stopping some mechanics from overlapping as you go to CC the first Sorrow. On SLB you don't want to delay your <Skill name="Concussion Shot"/> as it will stop you from swapping to Dagger/Torch and dealing as much damage, but you should delay your <Skill id="46432"/> if you need to. Ideally Ai's CC bar should break as the Red Agony field spawns beneath her. After 66% you should CC Ai if you can, but it is more important to make sure you have enough CC to break the Sorrows so you don't wipe.
-</Message>
+</Warning>
 
 ### _100% - 66%_
 
@@ -276,9 +276,9 @@ In pug groups it is recommended to cc Ai after she dashes from the side on the 1
 
 ### _66% - 33%_
 
-<Message>
+<Warning>
 Your rotation from here will depend on your groups DPS and Ai's RNG. In general remember to dodge as much as you can to keep <Trait name="Light on your Feet"/> active and use your mobility skills to keep attacking Ai as much as you can. <Skill name="Sun Spirit"/> will probably die a couple of times so make sure you re-summon it as soon as you can, and call it to you when you move. Finally CC Ai when you can, but also remember to use <Skill name="Concussion Shot"/> and <Skill id="46432"/> to keep up <Trait name="Twice as Vicious"/>.
-</Message>
+</Warning>
 
 - Follow Ai to the middle of the arena summoning <Skill name="Sun Spirit"/> as soon as you can and camp Shortbow until the first Sorrow spawns. Use <Skill name="Concussion Shot"/> to CC.
 
@@ -320,15 +320,15 @@ Your rotation from here will depend on your groups DPS and Ai's RNG. In general 
 
 </Boss>
 
-<Message>
+<Warning>
 The following guide assumes your group will CC Ai at the side of the arena; There is a fair amount of rng on this encounter so don't blindly follow the guide. Your comp and pet choice will change the amount of CC required and skill usage, so be prepared to adjust your rotation.
-</Message>
+</Warning>
 
 ### **Precast**
 
-<Message>
+<Warning>
 Boons get removed upon entering combat here, so stacking them is pointless. Effects will stay though so take advantage of that and precast what you can.
-</Message>
+</Warning>
 
 - Optionally before pre-stacking you can get into combat by jumping off the side of the map. This allows you to pre-stack on weapon swap sigils such as <Item id="24609"/> and <Item id="24599"/>. While in combat you can also precast <Trait name="Poison MAster"/> by using a <Skill id="42944"/> ability.
 
@@ -360,9 +360,9 @@ Boons get removed upon entering combat here, so stacking them is pointless. Effe
 
 - Use <Skill name="Double Arc"/> and <Skill name="Throw Torch"/>, then swap to Shortbow using your Shortbow and <Skill id="42944"/> skills until the boss phases.
 
-<Message>
+<Warning>
 Your rotation from here will depend on your groups DPS and Ai's RNG. In general remember to dodge as much as you can to keep <Trait name="Light on your Feet"/> active and use your mobility skills to keep attacking Ai as much as you can. <Skill name="Sun Spirit"/> will probably die a couple of times so make sure you re-summon it as soon as you can, and call it to you when you move. Finally CC Ai when you can, but also remember to use <Skill name="Concussion Shot"/> and <Skill id="46432"/> (If you run Warthog) to keep up <Trait name="Twice as Vicious"/>.
-</Message>
+</Warning>
 
 ### _66% - 33%_
 

@@ -70,16 +70,16 @@ sections:
       <Card title="Situational Skills">
 
 
-      <Message>
+      <Warning>
         <Skill name="Spectral Grasp" /> will replace <Skill name="Epidemic" /> on
         any fight that is single target or cleave is not needed.
-      </Message>
+      </Warning>
 
 
-      <Message>
+      <Warning>
         If you are going to replace a skill, <Skill name="Summon Shadow Fiend" /> is
         your least beneficial utility, followed by <Skill name="Signet of Undeath" />.
-      </Message>
+      </Warning>
 
 
       |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -123,11 +123,11 @@ sections:
 
       <Traits unembossed traits1="Blood Magic" traits1SelectedIds="780, 1844, 778"/>
 
-      <Message>
+      <Warning>
 
       Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn skill <Skill name="Wail of Doom"/>.
 
-      </Message>
+      </Warning>
 
       </Card>
 

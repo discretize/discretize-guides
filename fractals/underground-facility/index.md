@@ -34,9 +34,9 @@ consumables: [78978, 49940, 8764, 8801, 8686]
 
 ## Start: Locked Gates <Item id="8892" disableText/><Item id="24684" disableText/>
 
-<Message>
+<Warning>
 There are two ways to do this. For the faster way you require <Item id="78978"/>. The normal way takes much longer but needs nothing.
-</Message>
+</Warning>
 
 <Divider text="Fast way"/>
 
@@ -121,9 +121,9 @@ On the **rifles** path you lose all your endurance and therefore you are unable 
 
 On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and** at the end to permanently keep <Effect name="Stealth"/> up on yourself. Same applies if you gain aggro of any mob, just walk into a <Effect name="Stealth"/> zone.
 
-<Message>
+<Warning>
 **You can use portals and blinks/teleports with bombs**
-</Message>
+</Warning>
 </GridItem>
 
 <GridItem sm="4">

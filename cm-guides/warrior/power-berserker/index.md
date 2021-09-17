@@ -12,9 +12,9 @@ disableBosses: ['LightAi', 'DarkAi']
 
 </Boss>
 
-<Message>
+<Warning>
 This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab extra CC skills to make up for the lack of CC of your team mates.
-</Message>
+</Warning>
 
 This guide is a PuG friendly version without banner precast. Please remember that CCing all bars fast is the most important bit in this fight. You won't get a good kill - might even wipe your party - if you greed DPS without CC.
 
@@ -86,11 +86,11 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 - Play <Trait name="Smashbrawler"/>!
 
-<Message>
+<Warning>
 This guide assumes you kill MAMA in less about 45 seconds (p1 break). The CC-distribution greatly changes depending on the speed the party is going.
 
 If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
-</Message>
+</Warning>
 </Boss>
 
 There is an invisible hitbox in the center of the arena allowing you to gain enough adrenaline for one <Skill name="decapitate"/> with only two critical hits!
@@ -207,9 +207,9 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 - Play <Trait name="Smashbrawler"/>!
 
-<Message>
+<Warning>
 This build only works if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
-</Message>
+</Warning>
 </Boss>
 
 ### **1st Phase**
@@ -527,9 +527,9 @@ The rest of the fight follows accordingly.
 
 <ConditionalComponent condition="pug">
 <Boss name="arkk" video="fKGKMh41bWI" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe" weapon1OffSigil="impact" weapon1OffInfusionId="37131" weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="severance" weapon2OffInfusionId="37131">
-<Message>
+<Warning>
 It is not your job as <Specialization name="Berserker"/> to slay the Temporal Anomaly!
-</Message>
+</Warning>
 
 - Play <Trait name="smashbrawler"/>!
 

@@ -146,11 +146,11 @@ sections:
       - Keep in mind that equipping/stowing a tome grants you (only you, not your party members!) 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 
-      <Message>
+      <Warning>
 
       To play <Trait name="Legendary Lore"/> you need to have at least 60% boon duration to upkeep <Boon name="Quickness"/>. Both the Seraph and the Celestial builds have 40% from gear. meaning you will need to get the rest from agony resistance and consumables. If you cannot get enough boon duration to be safe just play with <Trait name="Stalwart Speed"/>!
 
-      </Message>
+      </Warning>
 
 
       The rotation is a **lot** simpler compared to any other <Specialization name="Guardian"/> build (except for HFB where your weapons do not have immediate effect on how efficient the build is). However, weapon swaps require careful consideration, because it is not efficient to be stuck on staff or to have less than 25 <Boon name="might"/> during a damage phase.\

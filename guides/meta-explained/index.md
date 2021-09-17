@@ -19,11 +19,11 @@ It boils down to five important concepts that need to be fulfilled permanently w
 4. High and fast group single target burst potential.
 5. Stacking unique damage buffs such as <Skill name="banesignet"/> or <Skill name="onewolfpack"/>
 
-<Message>
+<Warning>
 It is vital to understand that these concepts in conjunction create massive amounts of burst causing phases to only last a few seconds (even with condi classes). This is also due to the fact that the <Effect name="Exposed"/> modifier stacks multiplicative with many other damage modifiers. 
 
 The gameplay is therefore much more fast paced compared to raids and requires different thinking and rotations that are tailored around the <Effect name="Exposed"/> window.
-</Message>
+</Warning>
 
 For T4s there are several other important concepts:
 1. Projectile reflects and <Boon name="Stability"/>.
@@ -33,17 +33,17 @@ For T4s there are several other important concepts:
 
 ## What is the current fractal meta?
 
-<Message>
+<Warning>
 It is important to note, that each challenge mote encounter has a different most effective tactic available (meta), which is often different to the proposed compositions below. Discretize focuses on clearing daily fractals efficiently, and the proposed compositions brings enough utility to deal with all situations that are occurring in fractals without needing to relog to another character. 
-</Message>
+</Warning>
 
 With the May 11th 2021 balance patch came a huge shake up to the fractal META due to the <Effect name="Exposed"/> change. Instead of being a 50% damage modifier, it was nerfed to 30% power and buffed to 100% condi damage. This has led to condition builds becoming competetive with power builds on many fractals. This has led to a massive shake up of the fractal META and a big split between daily run comps and boss kill comps. For individual bosses power still shines and in most cases can get much faster kills than condi comps can (apart from Ensolyss and 100CM), but for full runs due to the minimal time needed to precast, ease of the comp and the fact it gets similar if not faster times to power runs, for most groups condi comps tend to be a safer pick. 
 
 With this in mind we have two comps we use for our runs. A <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Deadeye" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/> comp for runs where people want to get in and out asap with minimal effort. And a <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/> comp for days when groups want to get some faster boss kills requiring more co-ordination.
 
-<Message>
+<Warning>
 For groups such as PuGs or statics less focused on optimal strats and comps the meta changes entirely. To find out more information about what changes click [here](#pug), or scroll down to the bottom of the page.
-</Message>
+</Warning>
 
 ### <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Deadeye" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/>
 
@@ -158,9 +158,9 @@ This comp is used when parties want to go for some faster boss kills and would l
 PuGs rarely play optimally as a group, causing people to generaly deal lower damage and perform worse overall due to lack of synergy. If you are one of those that seek to improve we highly encourage you to find a static via our `#looking-for-static` channel on [discord](https://discord.gg/NpS2gN5) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
 
 Some people are for what ever reasons not able to find a static or not committed enough to put time into a game **(which is totally understandable)** and just want a fast and wipe-less clear. For those we recommend a different, much more open team composition:
-<Message>
+<Warning>
 Although both condition and power builds preform great in PuGs, it is reccomended to choose between a condition or power comp before starting. This is because you will want to CC bosses at different times depending on the comp and will affect the damage output of some classes. It should also be noted that condition comps are significantly easier to play and currently in most cases faster overall than power based comps, with a **significantly higher success rate!**
-</Message>
+</Warning>
 
 <Tabs>
 <Tab title="Condi Comp">

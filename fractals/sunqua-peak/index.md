@@ -69,9 +69,9 @@ The Voice of the mountain is the first boss in the fractal. This boss deals litt
 
 <Grid>
 <GridItem sm="8">
-<Message>
+<Warning>
 Not a single trash mob needs to be killed for progression!
-</Message>
+</Warning>
 
 After the Voice of the mountain is dead, take the updraft and follow the path. In order to trigger the next boss, you have to interact with three Frightened Water Elementals found along the path. Right after taking the updraft, there are waterfalls that periodically push you down the cliff. <Boon name="Stability"/> is ineffective.
 </GridItem>
@@ -155,9 +155,9 @@ Kill the boss and move on to the final encounter of this fractal.
 
 This section explains CM and non-CM. The first part is for both the same, except that the Sorrowful Spellcaster has more HP and hits harder on CM. Mechanically it is the same.
 
-<Message>
+<Warning>
 When you break Ai's breakbar she gets a buff on her bar preventing a new breakbar from spawning for 30 seconds. The breakbar has an insane size of 3200 making it hard to break. It is recommended to bring all the CC skills your class provides.
-</Message>
+</Warning>
 
 ### Part 1: Normal Form <Label>Day</Label>
 
@@ -237,9 +237,9 @@ After a long roleplay, Ai transforms into her demon form and the whole arena get
 
 #### Pre-Sorrow<Label>100%-66%</Label>
 
-<Message>
+<Warning>
 Be aware that every time a person dies, a Doubt spawns. It behaves like a Vindicator from <Instability name="Fractal Vindicators"/>. Don't forget to assign 2 people for CCing Sorrow at 66% and a third person to CC the 2 Sorrows near Guilt for maximum efficiency!
-</Message>
+</Warning>
 
 <Grid>
 <GridItem xs="12" sm="5">
@@ -261,9 +261,9 @@ From this point onward the boss will mostly stay in the center of the arena, das
 
 #### Sorrow <Label>66%-33%</Label>
 
-<Message>
+<Warning>
 Any AoE's on the floor prior to her hitting 66% will still last the full duration so be careful when walking back to the center
-</Message>
+</Warning>
 
 Upon hitting 66% the boss will stop any current animation and fizzle any current attack and dash towards the center of the arena. She will then instantly start channeling and pulsing out AoE's in a set ring pattern. Where the first ring is close, the second is in the middle and the third is far from the boss. However, no AoEs will spawn directly next to the boss so staying in melee range is safe. There are also small safe zones between the AoEs.
 

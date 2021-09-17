@@ -125,11 +125,11 @@ sections:
       If you meet these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:<Traits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888" unembossed/>
 
 
-      <Message>
+      <Warning>
 
       <Trait name="trappersexpertise"/> is worth over <Trait id="1069"/> if it allows you to get another <Skill name="Frost trap"/> in a phase.
 
-      </Message>
+      </Warning>
 
       </Card>
 

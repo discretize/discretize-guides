@@ -7,9 +7,9 @@ description: 'Learn how to use various potions and sigils to increase damage out
 
 This sheet is used to give quick access to the most optimal sigils and potions for each fractal in an average group. However some fractals have small variations where different parts of the fractal benefit from different potions or specific sigils, for further information consult the individual fractal guides.
 
-<Message>
+<Warning>
 Condition classes should use the sigils and utilities that are mentioned in the build pages.
-</Message>
+</Warning>
 
 | Fractal                                                  | Sigil & Potion                                                                                                                      | Description                                                                                                                                                                          |
 | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

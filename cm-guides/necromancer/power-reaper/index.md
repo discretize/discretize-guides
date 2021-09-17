@@ -137,9 +137,9 @@ If not under 50% health:
 ---
 
 <Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
-<Message>
+<Warning>
 Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this encounter!
-</Message>
+</Warning>
 </Boss>
 
 ### **Precast**
@@ -227,13 +227,13 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 ---
 
 <Boss name="ensolyss" video="" videoCreator="" foodId="91805" utilityId="50082" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
-<Message>
+<Warning>
 Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this encounter!
-</Message>
+</Warning>
 
-<Message>
+<Warning>
 The exploding adds after Ensolyss’ slam attack fully restore your life force, so auto attack in shroud, dodge the explosions at the very last moment and leave shroud mid dodge!
-</Message>
+</Warning>
 </Boss>
 
 ### **Precast**

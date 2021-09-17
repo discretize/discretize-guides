@@ -141,9 +141,9 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 Certain mechanics can be bypassed by using block, evade, <Effect name="Invulnerability"/> or <Boon name="Aegis"/> skills. Those ward against any attack (including projectiles) and usually prevent the application of conditions and control effects.
 
-<Message>
+<Warning>
 Note that some abilities are unblockable!
-</Message>
+</Warning>
 
 Below is a list of commonly used defensive skills:
 

@@ -21,9 +21,9 @@ This guide's aim is to help you understand how your team should cooperate to bre
 
 In Tier 4 fractals (T4) a breakbar usually does not exceed 600 units, nevertheless, it is everyone's responsibility to break bars as quickly as possible.In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for their lack of CC with additional CC skills.
 
-<Message>
+<Warning>
 **Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**
-</Message>
+</Warning>
 </GridItem>
 
 <GridItem sm="6">

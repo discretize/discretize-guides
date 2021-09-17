@@ -12,9 +12,9 @@ Fractals of the mists or also frequently called FOTM (or just "fracs") are 5-man
 
 The higher level the more mechanics are added to fractals, the harder hit enemies but you also receive more loot. Starting from level 20 the players need to deal with <Effect name="Agony"/> which requires <Attribute name="Agony Resistance"/> to counter effectively. Every level has a recommendation of how much <Attribute name="Agony Resistance"/> you should have at least. Without <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
 
-<Message>
+<Warning>
 <Effect name="Agony"/> reduces your healing by 70% per stack. Never use your heal skill while you are under the effect of <Effect name="Agony"/>.
-</Message>
+</Warning>
 
 Starting with tier 2 the heroes are encountering _Mistlock instabilities_ which add another layer of difficulty. A complete list of _Mistlock instabilities_ and countermeasures can be found at the bottom of this page.
 
@@ -31,10 +31,10 @@ Starting with tier 2 the heroes are encountering _Mistlock instabilities_ which 
 
 Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss by 50%. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally everyone in the team contributes to break the bar as it appears.
 
-<Message>
+<Warning>
 **Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**  \
 Read more about breaking Defiance bars here: [CC-distribution examples](/guides/cc-distribution)!
-</Message>
+</Warning>
 
 ---
 
@@ -196,9 +196,9 @@ After maxing the fractal masteries to level 4 you get access to *Mistlock Singul
 
 The most common applications are <Boon name="Might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="Stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
-<Message>
+<Warning>
 Do not use other combo fields than fire on the *Mistlock Singularity*! All combo fields but the *Fire Field* are useless in terms of prebooning.
-</Message>
+</Warning>
 </GridItem>
 </Grid>
 

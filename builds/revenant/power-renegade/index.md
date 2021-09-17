@@ -77,11 +77,11 @@ sections:
       Template code: `[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
 
 
-      <Message>
+      <Warning>
 
       The other legend is unselected for a good reason. If you have the other legend slot empty, it will minimise the number of possible bugs with <Specialization name="Renegade"/> and build templates. You can read more about the bugs [here](https://wiki.guildwars2.com/wiki/Template#Build_Template).
 
-      </Message>
+      </Warning>
 
 
       To precast with <Specialization name="Herald"/>, you can go very simple:

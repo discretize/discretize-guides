@@ -52,11 +52,11 @@ sections:
       <Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>If your team has a hard time applying <Condition name="Vulnerability"/> you can swap Virtues trait line with Zeal and replace <Skill name="purgingflames"/> with <Skill name="swordofjustice"/>. This will help you to maintain <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
 
 
-      <Message>
+      <Warning>
 
       This build provides permanent <Boon name="Quickness"/>. For different variants, such as organized Sunqua Peak groups or full DPS, please scroll down.
 
-      </Message>
+      </Warning>
 
 
       <Card title="Defiance Bar Damage">
@@ -376,9 +376,9 @@ benchmark:
 <GridItem sm="6">
 <Card title="Rotation">
 
-<Message>
+<Warning>
 **Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast! Never interrupt your axe auto attack chain! Keep <Skill name="purgingflames"/> on cooldown!**
-</Message>
+</Warning>
 
 Starting on Axe:
 
@@ -434,9 +434,9 @@ When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 
 <Card title="Precasting">
 
-<Message>
+<Warning>
 The most important part is to get the precast of Ashes of the Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
-</Message>
+</Warning>
 
 1.  Swap to <Trait name="quickfire"/> for more Ashes of the Just.
 
