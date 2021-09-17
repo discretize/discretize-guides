@@ -1,21 +1,163 @@
 ---
 title: Condi Soulbeast
-date: 2021-20-08
+sections:
+  - type: mdx
+    title: Overview
+    content: >-
+      <Message>
+
+      This build is [META](/guides/meta-explained) in full condi groups. In power groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
+
+      </Message>
+
+
+      Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group are playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
+
+
+      This build is rather self sufficient due to:
+
+
+      - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
+
+
+      - Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
+
+
+      - High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
+
+
+      Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
+  - type: equipment
+    title: Equipment
+  - type: mdx
+    title: Build
+    content: >-
+      <Grid>
+
+      <GridItem sm="7">
+
+      <Traits traits1Id="33" traits1="Wilderness Survival" traits1SelectedIds="1099,1101,1701" traits2Id="30" traits2="Skirmishing" traits2SelectedIds="1069,1846,1912" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2161,2128"/>
+
+      </GridItem>
+
+
+      <GridItem sm="5">
+
+      <Skills healId="31914" utility1Id="40498" utility2Id="12537" utility3Id="12498" eliteId="45717"/>
+
+
+      <Card title="Pets">
+
+
+      |                                            |                                                                                                                                                                                                                                                                                                               |
+
+      | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+      | <Skill id="46432" size="big" disableText/> | [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>.                                                                                                                                                        |
+
+      | <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets. Only take Bristleback if you can consistently get 5+ hits from <Skill name="Rain of Spikes"/> without delaying the skill too much. |
+
+      | <Skill id="44514" size="big" disableText/> | [Lynx](https://wiki.guildwars2.com/wiki/Juvenile_Lynx) - Best single target CDPS pet. Taken if you don't need the CC from Warthog                                                                                                                                                                             |
+
+
+      </Card>
+
+      </GridItem>
+
+      </Grid>
+
+
+      <Divider text="Further information"/>
+
+
+      <Grid>
+
+      <GridItem sm="7">
+
+      <Card title="Situational Traits">
+
+
+      |                                                         |                                                                                                                                  |
+
+      | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+
+      | <Trait name="Essence of Speed" size="big" disableText/> | Take this instead of <Trait name="Predators Cunning"/> if boon uptime in your party is bad and you want some extra generation.   |
+
+      | <Trait name="Quickdraw" size="big" disableText/>        | Situationally better if you are playing with Krait runes and the boss you are fighting will stay in your <Skill name="Bonfire"/> |
+
+
+      </Card>
+
+
+      <Card title="Off-hand Dagger">
+
+      Running an off-hand Dagger is slightly more DPS than running Torch providing you can flank permanently and your group can't make use of the fire field from <Skill name="Bonfire"/>. It also has the benefit of having an evade through using <Skill id="12478"/>.
+
+      </Card>
+
+      <Card title="Swap Weapons">
+
+      * A <Item id="75325"/> (selected attribute does not matter!) to blast might when prestacking boons.
+
+
+      - A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
+
+
+      </Card>
+
+      </GridItem>
+
+
+      <GridItem sm="5">
+
+      <Card title="Situational Skills">
+
+
+      |                                                       |                                                                                                                                                                                                                                                                                     |
+
+      | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+      | <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Sun Spirit"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
+
+      | <Skill name="Vipers Nest" size="big" disableText/>    | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>.                                                                                                                                    |
+
+      | <Skill name="Bear stance" size="big" disableText/>    | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>.                                                                                                                                                                                                    |
+
+      | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM!                                                                                                                          |
+
+
+      </Card>
+
+
+      <Card title="Defiance Bar Damage">
+
+
+      |                                            |                                                                                   |
+
+      | ------------------------------------------ | --------------------------------------------------------------------------------- |
+
+      | <Skill id="46432" size="big" disableText/> | 300 damage (F2 in <Skill id="42944"/>)                                            |
+
+      | <Skill id="12508" size="big" disableText/> | 200 damage (Shortbow 5)                                                           |
+
+      | <Skill id="12507" size="big" disableText/> | 50/s <Condition name="Immobile"/>, 15/s <Condition name="Crippled"/> (Shortbow 4) |
+
+      | <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3)       |
+
+
+      </Card>
+
+      </GridItem>
+
+      </Grid>
 rating: Condi Meta
 role: Condi Damage
 profession: Ranger
-specialization: Soulbeast
 skills:
   - 45717
   - 12498
   - 12508
   - 46432
-conditions:
-  - Bleeding
-  - Poisoned
-  - Burning
-code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
-hasCMGuide: true
 classification:
   - 5
   - 4
@@ -26,151 +168,223 @@ compositions:
   - name: _CRGB
     roles: DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC
     composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
+specialization: Soulbeast
+conditions:
+  - Bleeding
+  - Poisoned
+  - Burning
+code: "[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]"
+hasCMGuide: true
+character:
+  - title: Krait Runes
+    gear: |-
+      {
+        "gear": [
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper"
+        ],
+        "attributes": {
+          "Health": 17122,
+          "Armor": 2361,
+          "Power": 2923,
+          "Precision": 1976,
+          "Toughness": 1243,
+          "Vitality": 1120,
+          "Ferocity": 150,
+          "Condition Damage": 3023,
+          "Expertise": 773,
+          "Concentration": 243,
+          "Healing Power": 0,
+          "Agony Resistance": 162,
+          "Condition Duration": 51.53333333333333,
+          "Boon Duration": 16.2,
+          "Critical Chance": 81.47619047619048,
+          "Critical Damage": 160,
+          "Bleeding Duration": 50,
+          "Effective Power": 8601.860511160714,
+          "Power DPS": 5051.150280908775,
+          "Burning Damage": 974.2931250000001,
+          "Burning Stacks": 3.4852666666666665,
+          "Burning DPS": 3395.6713521250003,
+          "Bleeding Damage": 439.55502500000006,
+          "Bleeding Stacks": 51.8,
+          "Bleeding DPS": 22768.950295000002,
+          "Poison Damage": 436.475,
+          "Poison Stacks": 23.336133333333336,
+          "Poison DPS": 10185.638796666668,
+          "Torment Damage": 493.78875,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 330.4925,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 41401.41072470044,
+          "Effective Health": 50531302.5,
+          "Survivability": 25689.52846975089,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130,
+          37130
+        ],
+        "weight": "medium",
+        "runeId": 24762,
+        "runeName": "Krait",
+        "weapons": {
+          "weapon1MainType": "Shortbow",
+          "weapon1MainSigil1": "bursting",
+          "weapon1MainSigil2": "earth",
+          "weapon2MainType": "Dagger",
+          "weapon2MainSigil1": "bursting",
+          "weapon2OffType": "Torch",
+          "weapon2OffSigil": "earth"
+        },
+        "consumables": {
+          "foodId": "86997",
+          "utility": "toxic-focusing-crystal",
+          "infusion": "Mighty +9 Agony Infusion"
+        }
+      }
+  - title: Afflicted Runes
+    gear: |-
+      {
+        "gear": [
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper",
+          "Viper"
+        ],
+        "attributes": {
+          "Health": 17122,
+          "Armor": 2361,
+          "Power": 2923,
+          "Precision": 1976,
+          "Toughness": 1243,
+          "Vitality": 1120,
+          "Ferocity": 150,
+          "Condition Damage": 2885,
+          "Expertise": 893,
+          "Concentration": 243,
+          "Healing Power": 0,
+          "Agony Resistance": 162,
+          "Condition Duration": 79.53333333333333,
+          "Boon Duration": 16.2,
+          "Critical Chance": 81.47619047619048,
+          "Critical Damage": 160,
+          "Bleeding Duration": 20,
+          "Poison Duration": 10,
+          "Effective Power": 8601.860511160714,
+          "Power DPS": 5051.150280908775,
+          "Burning Damage": 903.3984374999999,
+          "Burning Stacks": 4.129266666666666,
+          "Burning DPS": 3730.373054687499,
+          "Bleeding Damage": 405.44218750000005,
+          "Bleeding Stacks": 51.67913333333333,
+          "Bleeding DPS": 20952.900866770837,
+          "Poison Damage": 403.515625,
+          "Poison Stacks": 29.188133333333333,
+          "Poison DPS": 11777.867864583333,
+          "Torment Damage": 455.390625,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 304.84375,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 41512.292066950446,
+          "Effective Health": 50531302.5,
+          "Survivability": 25689.52846975089,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113,
+          86113
+        ],
+        "weight": "medium",
+        "runeId": 24687,
+        "runeName": "Afflicted",
+        "weapons": {
+          "weapon1MainType": "Shortbow",
+          "weapon1MainSigil1": "malice",
+          "weapon1MainSigil2": "earth",
+          "weapon2MainType": "Dagger",
+          "weapon2MainSigil1": "malice",
+          "weapon2OffType": "Torch",
+          "weapon2OffSigil": "earth"
+        },
+        "consumables": {
+          "food": "rare-veggie-pizza",
+          "utility": "toxic-focusing-crystal",
+          "infusion": "Mighty +9 Agony Infusion"
+        }
+      }
+    note: This builds damage depends on the amount of <Specialization
+      name="Soulbeast" text="Soulbeasts"/> in the party. The build deals similar
+      DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3
+      Soulbeasts in the party. If you are going to be on your own run the Krait
+      rune setup!
+date: 2021-09-16T23:22:18.585Z
 benchmark:
   small:
     dps: 36197
     by: Eren
     youtube: WSuDmiuAwC8
 ---
-
-<Message>
-This build is [META](/guides/meta-explained) in full condi groups. In power groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
-</Message>
-
-Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group are playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
-
-This build is rather self sufficient due to:
-
-- Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
-
-- Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
-
-- High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
-
-Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
-
-<Divider text="Equipment"/>
-
-<Tabs outlined>
-<Tab title="Condi Soulbeast Krait">
-<Grid>
-<GridItem sm="4">
-<Armor weight="Medium" helmAffix="Viper" helmRune="Krait" shouldersAffix="Viper" shouldersRune="Krait" coatAffix="Viper" coatRune="Krait" glovesAffix="Viper" glovesRune="Krait" leggingsAffix="Viper" leggingsRune="Krait" bootsAffix="Viper" bootsRune="Krait" helmInfusionId="37130" shouldersInfusionId="37130" coatInfusionId="37130" glovesInfusionId="37130" leggingsInfusionId="37130" bootsInfusionId="37130"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Bursting" weapon1MainSigil1Id="44944" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560" weapon2MainSigil1Id="44944" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Bursting" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="37130" weapon2MainInfusion1Id="37130" weapon1OffInfusionId="37130" weapon2MainInfusion2Id="37130"/>
-
-<Consumables foodId="92456" utilityId="48917" infusion="Malign +9 Agony Infusion"/>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="37130" backItemInfusion2Id="37130" accessory1InfusionId="37130" accessory2InfusionId="37130" ring1Infusion1Id="37130" ring1Infusion2Id="37130" ring1Infusion3Id="37130" ring2Infusion1Id="37130" ring2Infusion2Id="37130" ring2Infusion3Id="37130"/>
-
-<Card title="Swap Weapons">
-* A <Item id="75325"/> (selected attribute does not matter!) to blast might when prestacking boons.
-
-- A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
-
-</Card>
-</GridItem>
-</Grid>
-</Tab>
-
-<Tab title="Condi Soulbeast Afflicted">
-<Message>
-This builds damage depends on the amount of <Specialization name="Soulbeast" text="Soulbeasts"/> in the party. The build deals similar DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3 Soulbeasts in the party. If you are going to be on your own run the Krait rune setup!
-</Message>
-<Grid>
-<GridItem sm="4">
-<Armor weight="Medium" helmAffix="Viper" helmRune="Afflicted" shouldersAffix="Viper" shouldersRune="Afflicted" coatAffix="Viper" coatRune="Afflicted" glovesAffix="Viper" glovesRune="Afflicted" leggingsAffix="Viper" leggingsRune="Afflicted" bootsAffix="Viper" bootsRune="Afflicted" helmInfusionId="86113" shouldersInfusionId="86113" coatInfusionId="86113" glovesInfusionId="86113" leggingsInfusionId="86113" bootsInfusionId="86113"/>
-</GridItem>
-
-<GridItem sm="4">
-<Weapons weapon1MainType="Dagger" weapon1MainAffix="Viper" weapon1MainSigil1="Malice" weapon1MainSigil1Id="44950" weapon1OffType="Torch" weapon1OffAffix="Viper"  weapon1OffSigil="Earth" weapon1OffSigilId="24560	" weapon2MainSigil1Id="44950" weapon2MainSigil2Id="24560" weapon2MainType="Shortbow" weapon2MainAffix="Viper" weapon2MainSigil1="Malice" weapon2MainSigil2="Earth" weapon1MainInfusion1Id="86113" weapon2MainInfusion1Id="86113" weapon1OffInfusionId="86113" weapon2MainInfusion2Id="86113"/>
-
-<Consumables foodId="92478" utilityId="48917" infusion="Spiteful +9 Agony Infusion"/>
-</GridItem>
-
-<GridItem sm="4">
-<BackAndTrinkets backItemAffix="Viper" accessory1Affix="Viper" accessory2Affix="Viper" amuletAffix="Viper" ring1Affix="Viper" ring2Affix="Viper" backItemInfusion1Id="86113" backItemInfusion2Id="86113" accessory1InfusionId="86113" accessory2InfusionId="86113" ring1Infusion1Id="86113" ring1Infusion2Id="86113" ring1Infusion3Id="86113" ring2Infusion1Id="86113" ring2Infusion2Id="86113" ring2Infusion3Id="86113"/>
-
-<Card title="Swap Weapons">
-* A <Item id="75325"/> (selected attribute does not matter!) to blast might when prestacking boons.
-
-- A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
-
-</Card>
-</GridItem>
-</Grid>
-</Tab>
-</Tabs>
-
-<Divider text="Build"/>
-
-<Grid>
-<GridItem sm="7">
-<Traits traits1Id="33" traits1="Wilderness Survival" traits1SelectedIds="1099,1101,1701" traits2Id="30" traits2="Skirmishing" traits2SelectedIds="1069,1846,1912" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2161,2128"/>
-</GridItem>
-
-<GridItem sm="5">
-<Skills healId="31914" utility1Id="40498" utility2Id="12537" utility3Id="12498" eliteId="45717"/>
-
-<Card title="Pets">
-
-|                                            |                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="46432" size="big" disableText/> | [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>.                                                                                                                                                        |
-| <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets. Only take Bristleback if you can consistently get 5+ hits from <Skill name="Rain of Spikes"/> without delaying the skill too much. |
-| <Skill id="44514" size="big" disableText/> | [Lynx](https://wiki.guildwars2.com/wiki/Juvenile_Lynx) - Best single target CDPS pet. Taken if you don't need the CC from Warthog                                                                                                                                                                             |
-
-</Card>
-</GridItem>
-</Grid>
-
-<Divider text="Further information"/>
-
-<Grid>
-<GridItem sm="7">
-<Card title="Situational Traits">
-
-|                                                         |                                                                                                                                  |
-| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Essence of Speed" size="big" disableText/> | Take this instead of <Trait name="Predators Cunning"/> if boon uptime in your party is bad and you want some extra generation.   |
-| <Trait name="Quickdraw" size="big" disableText/>        | Situationally better if you are playing with Krait runes and the boss you are fighting will stay in your <Skill name="Bonfire"/> |
-
-</Card>
-
-<Card title="Off-hand Dagger">
-Running an off-hand Dagger is slightly more DPS than running Torch providing you can flank permanently and your group can't make use of the fire field from <Skill name="Bonfire"/>. It also has the benefit of having an evade through using <Skill id="12478"/>.
-</Card>
-</GridItem>
-
-<GridItem sm="5">
-<Card title="Situational Skills">
-
-|                                                       |                                                                                                                                                                                                                                                                                     |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Sun Spirit"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
-| <Skill name="Vipers Nest" size="big" disableText/>    | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>.                                                                                                                                    |
-| <Skill name="Bear stance" size="big" disableText/>    | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>.                                                                                                                                                                                                    |
-| <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM!                                                                                                                          |
-
-</Card>
-
-<Card title="Defiance Bar Damage">
-
-|                                            |                                                                                   |
-| ------------------------------------------ | --------------------------------------------------------------------------------- |
-| <Skill id="46432" size="big" disableText/> | 300 damage (F2 in <Skill id="42944"/>)                                            |
-| <Skill id="12508" size="big" disableText/> | 200 damage (Shortbow 5)                                                           |
-| <Skill id="12507" size="big" disableText/> | 50/s <Condition name="Immobile"/>, 15/s <Condition name="Crippled"/> (Shortbow 4) |
-| <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3)       |
-
-</Card>
-</GridItem>
-</Grid>
-
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
