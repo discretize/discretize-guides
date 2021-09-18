@@ -51,41 +51,6 @@ sections:
 
       <Traits traits1Id="8" traits1="Marksmanship" traits1SelectedIds="1014,1000,996" traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1606,970,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128"/>
 
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-      <Skills healId="31914" utility1Id="12633" utility2Id="12492" utility3Id="12497" eliteId="45717"/>
-
-
-      <Card title="Pets">
-
-
-      |                                            |                                                                                                                                                               |
-
-      | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-      | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
-
-      | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                 |
-
-      | <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.         |
-
-
-      </Card>
-
-      </GridItem>
-
-      </Grid>
-
-
-      <Divider text="Further information"/>
-
-      <Grid>
-
-      <GridItem sm="7">
-
       <Card title="Situational Traits">
 
 
@@ -103,33 +68,6 @@ sections:
 
       | <Trait name="potentally" size="big" disableText/>          | For longer encounters, more <Boon name="Might"/> generation.                                                                                                              |
 
-
-      </Card>
-
-
-      <Card title="Skirmishing and Fractals">
-
-
-      Running Skirmishing in fractals is quite a niche choice, you need to satisfy **the following requirements:**
-
-
-      - You can be sure that you can flank the boss permanently.
-
-
-      - You want to replace a <Specialization name="Berserker"/> by providing your team with <Trait name="Spotter"/> so they can crit cap.
-
-
-      - You are running a double Soulbeast comp and need <Trait name="Quickdraw"/> to reduce your <Skill name="Whirling Defense"/> cooldown.
-
-
-      If you meet these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:<Traits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888" unembossed/>
-
-
-      <Warning>
-
-      <Trait name="trappersexpertise"/> is worth over <Trait id="1069"/> if it allows you to get another <Skill name="Frost trap"/> in a phase.
-
-      </Warning>
 
       </Card>
 
@@ -162,6 +100,63 @@ sections:
 
       </Card>
 
+      <Card title="Pets">
+
+
+      |                                            |                                                                                                                                                               |
+
+      | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+      | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
+
+      | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                 |
+
+      | <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.         |
+
+
+      </Card>
+
+      </GridItem>
+
+      </Grid>
+
+
+      <Divider text="Further information"/>
+
+      <Grid>
+
+      <GridItem sm="7">
+
+      <Card title="Skirmishing and Fractals">
+
+
+      Running Skirmishing in fractals is quite a niche choice, you need to satisfy **the following requirements:**
+
+
+      - You can be sure that you can flank the boss permanently.
+
+
+      - You want to replace a <Specialization name="Berserker"/> by providing your team with <Trait name="Spotter"/> so they can crit cap.
+
+
+      - You are running a double Soulbeast comp and need <Trait name="Quickdraw"/> to reduce your <Skill name="Whirling Defense"/> cooldown.
+
+
+      If you meet these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:<Traits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888" unembossed/>
+
+
+      <Warning>
+
+      <Trait name="trappersexpertise"/> is worth over <Trait id="1069"/> if it allows you to get another <Skill name="Frost trap"/> in a phase.
+
+      </Warning>
+
+      </Card>
+
+      </GridItem>
+
+
+      <GridItem sm="5">
 
       <Card title="Defiance Bar Damage">
 
@@ -391,6 +386,12 @@ character:
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "We Heal as One",
+          "utility2": "Sic Em",
+          "utility3": "Frost Spirit",
+          "elite": "One Wolf Pack"
         }
       }
     note: Check the [gear
@@ -491,6 +492,12 @@ character:
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "We Heal as One",
+          "utility2": "Sic Em",
+          "utility3": "Frost Spirit",
+          "elite": "One Wolf Pack"
         }
       }
     note: Check the [gear
@@ -591,6 +598,12 @@ character:
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "We Heal as One",
+          "utility2": "Sic Em",
+          "utility3": "Frost Spirit",
+          "elite": "One Wolf Pack"
         }
       }
     note: >-
@@ -600,7 +613,7 @@ character:
 
 
       It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full Berserker gear on both.
-date: 2021-09-16T23:10:43.997Z
+date: 2021-09-18T22:25:40.394Z
 ---
 <Divider text="Rotation / Skill usage"/>
 
