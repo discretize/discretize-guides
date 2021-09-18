@@ -1,9 +1,7 @@
 ---
 title: Power Weaver
 sections:
-  - type:
-      - label: MDX
-        value: mdx
+  - type: mdx
     title: Overview
     content: >-
       The <Specialization name="Weaver" text="Power Weaver"/> is currently one
