@@ -119,17 +119,15 @@ sections:
       <Card title="Situational Skills">
 
 
-      |                                            |                                                                                                                                                                                                       |
+      |                                                       |                                                                                                                    |
 
-      | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+      | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 
+      | <Skill id="5857" size="big" disableText/>  | An alternative heal skill if condition cleanse is needed. You can cast it AFTER (cause of water field) a fire field to blast <Boon name="might"/>. |
 
-      | <Skill id="5857" size="big" disableText/>  | An alternative heal skill if condition cleanse is needed. You can cast it AFTER (cause of water field) a fire field to blast <Boon name="might"/>.                                                                      |
-
-      | <Skill id="43739" size="big" disableText/> | A (group) block that also reflects projectiles if heat is above 50. (replace <Skill id="6020"/>)                                                                                        |
+      | <Skill id="43739" size="big" disableText/> | A (group) block that also reflects projectiles if heat is above 50. (replace <Skill id="6020"/>) |
 
       | <Skill id="30337" size="big" disableText/> | Offers higher burst than <Skill id="5818"/>. Very effective countermeasure for <Instability name="No Pain, No Gain"/>! |
-
 
       | <Skill name="Bomb Kit" size="big" disableText/> | Default pick for the Rifle variant instead of <Skill name="Rifle Turret"/>. Can be helpful to provide a smoke field through <Skill name="Smoke Bomb"/> or fire field through <Skill name="Fire Bomb"/>. |
 
@@ -267,7 +265,7 @@ character:
 
 
       You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
-date: 2021-09-16T22:53:28.059Z
+date: 2021-09-18T10:54:19.631Z
 ---
 
 <Grid>
