@@ -292,10 +292,10 @@ character:
         "consumables": {
           "foodId": "86997",
           "utility": "tuning-icicle",
-          "infusion": "Mighty +9 Agony Infusion"
+          "infusion": "Malign +9 Agony Infusion"
         }
       }
-date: 2021-09-16T22:23:51.282Z
+date: 2021-09-18T15:02:48.668Z
 benchmark:
   small:
     dps: 40094
