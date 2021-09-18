@@ -66,9 +66,6 @@ sections:
 
       <GridItem sm="5">
 
-      <Skills heal="Mantra of Solace" utility1="Mantra of Potence" utility2="" utility3="Sanctuary" elite="Feel My Wrath"/>
-
-
       <Card title="Situational Skills">
 
 
@@ -364,6 +361,12 @@ character:
           "food": "bowl-of-fire-meat-chili",
           "utility": "toxic-focusing-crystal",
           "infusion": "Malign +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mantra of Solace",
+          "utility2": "Mantra of Potence",
+          "utility3": "Sanctuary",
+          "elite": "Feel my Wrath"
         }
       }
     title: Seraph
@@ -371,7 +374,7 @@ character:
       Celestial build in fractals whilst still providing more than enough
       support for most groups.** This setup currently overcaps <Condition
       name="Burning"/> duration. If you want to optimise for 100%, swap one
-      Accessory to Vipers and use <Item id="92505"/>'
+      Accessory to Celestial and use <Item id="92505"/>'
   - title: Celestial
     gear: |-
       {
@@ -468,6 +471,12 @@ character:
           "foodId": "86997",
           "utility": "toxic-focusing-crystal",
           "infusion": "Malign +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mantra of Solace",
+          "utility2": "Mantra of Potence",
+          "utility3": "Sanctuary",
+          "elite": "Feel my Wrath"
         }
       }
     note: '**This build bursts less than the Seraph variant but the difference is
@@ -578,9 +587,15 @@ character:
           "food": "bowl-of-fire-meat-chili",
           "utility": "toxic-focusing-crystal",
           "infusion": "Malign +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mantra of Solace",
+          "utility2": "Mantra of Potence",
+          "utility3": "Sanctuary",
+          "elite": "Feel my Wrath"
         }
       }
-date: 2021-09-18T15:04:20.801Z
+date: 2021-09-18T23:13:00.737Z
 ---
 
 <Divider text="Rotation"/>
