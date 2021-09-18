@@ -20,7 +20,7 @@ sections:
       The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option if playing outside of fractals. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/).
   - type: equipment
     title: Equipment
-    content: ''
+    content: ""
   - type: mdx
     title: Build
     content: >-
@@ -260,7 +260,7 @@ boons:
   - Stability
   - Swiftness
   - Aegis
-code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 classification:
   - 4
@@ -363,12 +363,11 @@ character:
         "consumables": {
           "food": "bowl-of-fire-meat-chili",
           "utility": "toxic-focusing-crystal",
-          "infusion": "Mighty +9 Agony Infusion"
+          "infusion": "Malign +9 Agony Infusion"
         }
       }
     title: Seraph
-    note:
-      '**This is the standard build variant. It provides higher damage then the
+    note: '**This is the standard build variant. It provides higher damage then the
       Celestial build in fractals whilst still providing more than enough
       support for most groups.** This setup currently overcaps <Condition
       name="Burning"/> duration. If you want to optimise for 100%, swap one
@@ -468,11 +467,10 @@ character:
         "consumables": {
           "foodId": "86997",
           "utility": "toxic-focusing-crystal",
-          "infusion": "Mighty +9 Agony Infusion"
+          "infusion": "Malign +9 Agony Infusion"
         }
       }
-    note:
-      '**This build bursts less than the Seraph variant but the difference is
+    note: '**This build bursts less than the Seraph variant but the difference is
       minimal. It also has the advantage of having more survivability due to
       gaining <Attribute name="Vitality"/> and <Attribute name="Toughness"/>
       from the Celestial stat type.** Playing full Celestial does over cap
@@ -579,10 +577,10 @@ character:
         "consumables": {
           "food": "bowl-of-fire-meat-chili",
           "utility": "toxic-focusing-crystal",
-          "infusion": "Mighty +9 Agony Infusion"
+          "infusion": "Malign +9 Agony Infusion"
         }
       }
-date: 2021-09-16T19:32:15.738Z
+date: 2021-09-18T15:04:20.801Z
 ---
 
 <Divider text="Rotation"/>
