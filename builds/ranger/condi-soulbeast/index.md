@@ -276,7 +276,7 @@ character:
           "heal": "We Heal as One",
           "utility2": "Sharpening Stone",
           "utility3": "Vulture Stance",
-          "elite": "Head Butt"
+          "elite": "One Wolf Pack"
         }
       }
   - title: Afflicted Runes
@@ -376,6 +376,12 @@ character:
           "food": "rare-veggie-pizza",
           "utility": "toxic-focusing-crystal",
           "infusion": "Malign +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "We Heal as One",
+          "utility2": "Sharpening Stone",
+          "utility3": "Vulture Stance",
+          "elite": "One Wolf Pack"
         }
       }
     note: This builds damage depends on the amount of <Specialization
@@ -383,7 +389,7 @@ character:
       DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3
       Soulbeasts in the party. If you are going to be on your own run the Krait
       rune setup!
-date: 2021-09-18T22:21:06.039Z
+date: 2021-09-18T22:22:58.333Z
 benchmark:
   small:
     dps: 36197
