@@ -50,7 +50,7 @@ Stack <Boon name="Might"/> before jumping down. Kill the three _Assault Knights_
 
 Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your cooldowns.
 
-<MDImage src="fractals/nightmare/images/mama.jpg" caption="MAMA: The first boss"/>
+<MDImage src="fractals/nightmare/images/bosses/mama.jpg" caption="MAMA: The first boss"/>
 
 ## MAMA <Label>5,200,519 HP</Label>
 
@@ -165,7 +165,7 @@ When Siax reaches 66% health, he gains <Effect name="Invulnerability"/> and four
 
 Assign players to each add before the fight starts by setting waypoints. In PuGs the <Specialization name="Firebrand"/> and <Specialization name="Renegade"/> will usually focus on one mob together due to their lower DPS.
 
-<MDImage src="fractals/nightmare/images/siax.jpg" caption="Siax the Corrupted"/>
+<MDImage src="fractals/nightmare/images/bosses/siax.jpg" caption="Siax the Corrupted"/>
 
 ---
 

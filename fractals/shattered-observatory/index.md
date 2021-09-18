@@ -214,7 +214,7 @@ Stack <Boon name="Might"/> (you can use <SpecialActionKey name="hypernovalaunch"
 
 <GridItem sm="4">
 
-<MDImage src="fractals/shattered-observatory/images/arkk.jpg" caption="Arkk: The final boss"/>
+<MDImage src="fractals/shattered-observatory/images/bosses/bosses/arkk.jpg" caption="Arkk: The final boss"/>
 
 </GridItem>
 </Grid>
