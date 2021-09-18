@@ -84,9 +84,6 @@ sections:
 
       <GridItem sm="5">
 
-      <Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Sanctuary" elite="Feel My Wrath"/>
-
-
       <Card title="Situational Skills">
 
 
@@ -356,6 +353,13 @@ character:
           "foodId": "86997",
           "utility": "toxic-focusing-crystal",
           "infusion": "Malign +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mantra of Solace",
+          "utility1": "Mantra of Potence",
+          "utility2": "Purging Flames",
+          "utility3": "Sanctuary",
+          "elite": "Feel my Wrath"
         }
       }
     note: |-
@@ -363,7 +367,7 @@ character:
       - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s.
       - A staff for <Boon name="Might"/> pre-stacking.
     title: Condi Firebrand
-date: 2021-09-18T15:03:31.167Z
+date: 2021-09-18T22:51:42.690Z
 benchmark:
   small:
     dps: 36732
