@@ -275,7 +275,7 @@ character:
           "weapon1MainType": "Sword",
           "weapon1MainSigil1Id": 24615,
           "weapon1OffType": "Dagger",
-          "weapon1OffSigilId": 36053,
+          "weapon1OffSigilId": 24868,
           "weapon2MainSigil2Id": 36053
         },
         "consumables": {
@@ -374,7 +374,7 @@ character:
           "weapon1MainType": "Sword",
           "weapon1MainSigil1Id": 24615,
           "weapon1OffType": "Dagger",
-          "weapon1OffSigilId": 36053,
+          "weapon1OffSigilId": 24868,
           "weapon2MainSigil2Id": 36053
         },
         "consumables": {
@@ -484,7 +484,7 @@ character:
           "weapon1MainType": "Sword",
           "weapon1MainSigil1Id": 24615,
           "weapon1OffType": "Dagger",
-          "weapon1OffSigilId": 36053,
+          "weapon1OffSigilId": 24868,
           "weapon2MainSigil2Id": 36053
         },
         "consumables": {
@@ -493,7 +493,7 @@ character:
           "infusion": "Mighty +9 Agony Infusion"
         }
       }
-date: 2021-09-18T14:43:55.313Z
+date: 2021-09-18T15:01:57.570Z
 ---
 <Divider text="Rotation / Skill usage"/>
 
