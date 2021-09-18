@@ -43,8 +43,25 @@ sections:
 
       <GridItem sm="5">
 
-      <Skills healId="31914" utility1Id="40498" utility2Id="12537" utility3Id="12498" eliteId="45717"/>
+      <Card title="Situational Skills">
 
+
+      |                                                       |                                                                                                                                                                                                                                                                                     |
+
+      | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+      | <Skill name="Sun Spirit" size="big" disableText/>    | Your standard 3rd utility. Provides a partywide damage increase by causing you and allies to periodically inflict <Condition name="Burning"/>.                                                                                                                                                                                                    |
+
+      | <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Sun Spirit"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
+
+      | <Skill name="Vipers Nest" size="big" disableText/>    | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>.                                                                                                                                    |
+
+      | <Skill name="Bear stance" size="big" disableText/>    | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>.                                                                                                                                                                                                    |
+
+      | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM!                                                                                                                          |
+
+
+      </Card>
 
       <Card title="Pets">
 
@@ -109,24 +126,6 @@ sections:
 
 
       <GridItem sm="5">
-
-      <Card title="Situational Skills">
-
-
-      |                                                       |                                                                                                                                                                                                                                                                                     |
-
-      | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-      | <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Sun Spirit"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
-
-      | <Skill name="Vipers Nest" size="big" disableText/>    | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>.                                                                                                                                    |
-
-      | <Skill name="Bear stance" size="big" disableText/>    | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>.                                                                                                                                                                                                    |
-
-      | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM!                                                                                                                          |
-
-
-      </Card>
 
 
       <Card title="Defiance Bar Damage">
@@ -272,6 +271,12 @@ character:
           "foodId": "86997",
           "utility": "toxic-focusing-crystal",
           "infusion": "Malign +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "We Heal as One",
+          "utility2": "Sharpening Stone",
+          "utility3": "Vulture Stance",
+          "elite": "Head Butt"
         }
       }
   - title: Afflicted Runes
@@ -378,7 +383,7 @@ character:
       DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3
       Soulbeasts in the party. If you are going to be on your own run the Krait
       rune setup!
-date: 2021-09-18T15:06:00.405Z
+date: 2021-09-18T22:21:06.039Z
 benchmark:
   small:
     dps: 36197
