@@ -30,25 +30,6 @@ sections:
       <Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance,Great Fortitude,Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint,Doubled Standards,Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct,Blood Reaction,Bloody Roar"/>
 
 
-      <Card title="Maximizing berserk uptime">
-
-
-      For fights of less than 1 minute with access to a _Mistlock Singularity_, precast <Skill name="Banner of Discipline"/>, <Skill name="Banner of Strength"/>, and <Skill name="Battle Standard"/>, replace the trait <Trait name="Savage Instinct"/> with <Trait name="Smash Brawler"/>. Two such examples can be seen below for the first two bosses of the Nightmare CM fractal:
-
-
-      ### **Mama**
-
-
-      <Skills healId="30189" utility1Id="29941" utility2Id="30258" utility3Id="14516" eliteId="30343" unembossed/>
-
-
-      ### **Siax**
-
-
-      <Skills healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343" unembossed/>
-
-      </Card>
-
       <Card title="Extra Weapons">
 
 
@@ -77,9 +58,6 @@ sections:
 
       <GridItem sm="5">
 
-      <Skills heal="Mending" utility2="Banner of Strength" utility3="Banner of Discipline" elite="Head Butt"/>
-
-
       <Card title="Situational Skills">
 
 
@@ -89,19 +67,15 @@ sections:
 
       | <Skill name="For Great Justice!" size="big" disableText/> | Whenever you notice less than 25 stacks of <Boon name="Might"/> on your buff bar.                  |
 
-      | <Skill name="Signet of fury" size="big" disableText/>     | Fills up the adrenaline bar and grants a huge damage buff.                                         |
+      | <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use and fills up the entire adrenalin bar.                                         |
 
       | <Skill name="Signet of might" size="big" disableText/>    | Flat 180 power buff. Only take this when no other utility is needed.                               |
 
-      | <Skill name="Battle Standard" size="big" disableText/>    | For Arkk and Artsariiv.                                                                            |
-
-      | <Skill name="banneroftactics" size="big" disableText/>    | Can be precast at encounters.                                                                      |
+      | <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.                                                                     |
 
       | <Skill name="onmymark" size="big" disableText/>           | Can be used to pull Krait from the side altars at the Nightmare CM fractal.                        |
 
-      | <Skill name="featherfootgrace" size="big" disableText/>   | Grants <Effect name="Superspeed"/> for skips.                                                      |
-
-      | <Skill name="frenzy" size="big" disableText/>             | Self <Boon name="Quickness"/> for precasting banners.                                              |
+      | <Skill name="featherfootgrace" size="big" disableText/>   | Grants <Effect name="Superspeed"/> for skips.       |
 
       | <Skill name="bloodreckoning" size="big" disableText/>     | For double <Skill name="arcdivider"/> or the situational <Specialization name="Berserker"/> build. |
 
@@ -148,10 +122,10 @@ sections:
       - Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase.
 
 
-      - Keep in mind that <Skill name="Crushing Blow"/> inflicts 10x <Condition name="Vulnerability"/> if your party is running low, and can often be used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst.
+      - Keep in mind that <Skill name="Crushing Blow"/> inflicts <Condition name="Vulnerability" count={10}/>! This can be often used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst. If the foe is disabled it even inflicts <Condition name="Vulnerability" count={20} />
 
 
-      - It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t stunned if that means it will be back up right before another burst window.
+      - It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t <Effect name="Exposed"/> if that means it will be back up right before another burst window.
 
 
       - Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
@@ -163,7 +137,7 @@ sections:
       - If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!
 
 
-      - If you expect your party to be slow it can make sense to bring <Trait name="smashbrawler"/> and either eat the initial <Control name="Stun"/> of <Skill name="headbutt"/> or break it with <Item id="24"/>.
+      - If you expect your party to be slow it can make sense to bring <Trait name="smashbrawler"/> and eat the initial <Control name="Stun"/> of <Skill name="headbutt"/>.
 
 
       - Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
@@ -201,26 +175,10 @@ sections:
       | <Skill id="14503"/>          | 100 damage |
 
 
-      If using <Skill id="14483"/>:
+      **When to take Mace:**
 
 
-      |                     |                                |
-
-      | ------------------- | ------------------------------ |
-
-      | <Skill id="14490"/> | 260 damage (while on Mace set) |
-
-      | <Skill id="14556"/> | 200 damage                     |
-
-      | <Skill id="14488"/> | 150 damage                     |
-
-      | <Skill id="14487"/> | 100 damage                     |
-
-
-      **When to take Maces:**
-
-
-      - In fights with only one defiance bar, in the beginning, use Mace/Mace.
+      - In fights with only one defiance bar, in the beginning, use Axe/Mace.
 
 
       - In T4s and encounters that have defiance bars during the fight, use an offhand mace only.
@@ -255,18 +213,19 @@ classification:
   - 2
   - 4
 character:
-  - gear: |-
+  - title: 162 AR + Scholar Rune
+    gear: |-
       {
         "gear": [
           "Berserker",
-          "Assassin",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
           "Berserker",
           "Assassin",
-          "Assassin",
-          "Assassin",
           "Berserker",
-          "Assassin",
-          "Assassin",
+          "Berserker",
           "Assassin",
           "Assassin",
           "Berserker",
@@ -274,13 +233,13 @@ character:
           "Berserker"
         ],
         "attributes": {
-          "Health": 21742,
+          "Health": 21652,
           "Armor": 2214,
-          "Power": 4156,
-          "Precision": 2574,
+          "Power": 4205,
+          "Precision": 2575,
           "Toughness": 943,
-          "Vitality": 1253,
-          "Ferocity": 2354,
+          "Vitality": 1244,
+          "Ferocity": 2345,
           "Condition Damage": 1200,
           "Expertise": 0,
           "Concentration": 243,
@@ -288,10 +247,10 @@ character:
           "Agony Resistance": 162,
           "Condition Duration": 0,
           "Boon Duration": 16.2,
-          "Critical Chance": 99.95238095238095,
-          "Critical Damage": 306.93333333333334,
-          "Effective Power": 40506.178638384976,
-          "Power DPS": 44296.321653066356,
+          "Critical Chance": 100,
+          "Critical Damage": 306.33333333333337,
+          "Effective Power": 37197.06737656876,
+          "Power DPS": 40677.578494206886,
           "Burning Damage": 455.6875,
           "Burning Stacks": 0.7,
           "Burning DPS": 318.98125,
@@ -307,80 +266,197 @@ character:
           "Confusion Damage": 135.125,
           "Confusion Stacks": 0,
           "Confusion DPS": 0,
-          "Damage": 44615.30290306635,
-          "Effective Health": 66188083.5,
-          "Survivability": 33649.25444839858,
+          "Damage": 40996.55974420688,
+          "Effective Health": 79696140.3,
+          "Survivability": 40516.593950177936,
           "Effective Healing": 390,
           "Healing": 390
         },
         "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432
         ],
         "weight": "Heavy",
         "runeId": 24836,
         "runeName": "Scholar",
         "weapons": {
           "weapon1MainType": "Axe",
-          "weapon1MainSigil1": "force",
+          "weapon1MainSigil1Id": 24615,
           "weapon1OffType": "Axe",
-          "weapon1OffSigil": "impact",
-          "weapon2MainType": "Mace",
-          "weapon2MainSigil1": "severance",
+          "weapon1OffSigilId": 24868,
+          "weapon2MainType": "Axe",
+          "weapon2MainSigil1": "Paralyzation",
           "weapon2OffType": "Mace",
-          "weapon2OffSigil": "paralyzation"
+          "weapon2OffSigil": "Severance"
         },
         "consumables": {
-          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
-          "utility": "superior-sharpening-stone",
+          "foodId": 12486,
+          "utilityId": 9443,
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mending",
+          "utility2": "Banner of Strength",
+          "utility3": "Banner of Discipline",
+          "elite": "Head Butt"
         }
       }
-    note: 'Alternative gear for 162 <Attribute name="Agony Resistance"/>: full
-      berserker gear with <Item id="24723"/>. This variant is superior for PuG
-      groups due to not relying on <Item name="scholar"/>. However, higher
-      <Attribute name="Agony Resistance"/> builds will not benefit from the
-      additional <Attribute name="Precision"/> as much as this variant, so it is
-      recommended to stick with <Item name="scholar"/> since it provides a
-      strict upgrade path.'
+    note:
+      This build is future proof for upgrading to higher <Attribute name="Agony
+      Resistance"/> later without overwriting runes. However, most people would
+      profit more from the <Item name="eagle" text="Eagle"/> rune build due to
+      not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait
+      name="Spotter"/> assumed.
+  - title: 162 AR + Eagle Rune
+    note: Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute
+      name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
+    gear: |-
+      {
+        "gear": [
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Assassin",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker"
+        ],
+        "attributes": {
+          "Health": 21652,
+          "Armor": 2214,
+          "Power": 4210,
+          "Precision": 2575,
+          "Toughness": 943,
+          "Vitality": 1244,
+          "Ferocity": 2345,
+          "Condition Damage": 1200,
+          "Expertise": 0,
+          "Concentration": 243,
+          "Healing Power": 0,
+          "Agony Resistance": 162,
+          "Condition Duration": 0,
+          "Boon Duration": 16.2,
+          "Critical Chance": 100,
+          "Critical Damage": 306.33333333333337,
+          "Effective Power": 37241.296945387505,
+          "Power DPS": 40725.94660180998,
+          "Burning Damage": 455.6875,
+          "Burning Stacks": 0.7,
+          "Burning DPS": 318.98125,
+          "Bleeding Damage": 135.125,
+          "Bleeding Stacks": 0,
+          "Bleeding DPS": 0,
+          "Poison Damage": 151.65625,
+          "Poison Stacks": 0,
+          "Poison DPS": 0,
+          "Torment Damage": 200.9625,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 135.125,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 41044.927851809975,
+          "Effective Health": 79696140.3,
+          "Survivability": 40516.593950177936,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          37132,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432
+        ],
+        "weight": "Heavy",
+        "runeId": 24723,
+        "runeName": "Eagle",
+        "weapons": {
+          "weapon1MainType": "Axe",
+          "weapon1MainSigil1Id": 24615,
+          "weapon1OffType": "Axe",
+          "weapon1OffSigilId": 24868,
+          "weapon2MainType": "Axe",
+          "weapon2MainSigil1": "Paralyzation",
+          "weapon2OffType": "Mace",
+          "weapon2OffSigil": "Severance"
+        },
+        "consumables": {
+          "foodId": 41569,
+          "utilityId": 9443,
+          "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mending",
+          "utility2": "Banner of Strength",
+          "utility3": "Banner of Discipline",
+          "elite": "Head Butt"
+        },
+        "skills": {
+          "heal": "Mending",
+          "utility2": "Banner of Strength",
+          "utility3": "Banner of Discipline",
+          "elite": "Head Butt"
+        }
+      }
   - gear: |-
       {
         "gear": [
           "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
           "Berserker",
           "Berserker",
           "Berserker",
-          "Assassin",
-          "Assassin",
           "Berserker",
           "Berserker",
           "Assassin",
+          "Assassin",
+          "Berserker",
+          "Berserker",
+          "Assassin",
+          "Berserker",
           "Berserker",
           "Berserker"
         ],
         "attributes": {
           "Health": 21832,
           "Armor": 2304,
-          "Power": 4245,
+          "Power": 4383,
           "Precision": 2575,
           "Toughness": 1033,
           "Vitality": 1262,
@@ -394,8 +470,8 @@ character:
           "Boon Duration": 22.2,
           "Critical Chance": 100,
           "Critical Damage": 306.73333333333335,
-          "Effective Power": 41359.93032982388,
-          "Power DPS": 45229.95846619169,
+          "Effective Power": 38822.26675995676,
+          "Power DPS": 42454.84697661809,
           "Burning Damage": 455.6875,
           "Burning Stacks": 0.7,
           "Burning DPS": 318.98125,
@@ -411,14 +487,14 @@ character:
           "Confusion Damage": 135.125,
           "Confusion Stacks": 0,
           "Confusion DPS": 0,
-          "Damage": 45548.939716191686,
-          "Effective Health": 69163776,
-          "Survivability": 35162.062023385864,
+          "Damage": 42773.82822661809,
+          "Effective Health": 83625292.8,
+          "Survivability": 42514.12953736655,
           "Effective Healing": 390,
           "Healing": 390
         },
         "infusions": [
-          37131,
+          37132,
           37131,
           37131,
           37131,
@@ -442,21 +518,29 @@ character:
         "runeName": "Scholar",
         "weapons": {
           "weapon1MainType": "Axe",
-          "weapon1MainSigil1": "force",
+          "weapon1MainSigil1Id": 24615,
           "weapon1OffType": "Axe",
-          "weapon1OffSigil": "impact",
-          "weapon2MainType": "Mace",
-          "weapon2MainSigil1": "severance",
+          "weapon1OffSigilId": 24868,
+          "weapon2MainType": "Axe",
+          "weapon2MainSigil1": "Paralyzation",
           "weapon2OffType": "Mace",
-          "weapon2OffSigil": "paralyzation"
+          "weapon2OffSigil": "Severance"
         },
         "consumables": {
-          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
-          "utility": "superior-sharpening-stone",
+          "foodId": 41569,
+          "utilityId": 9443,
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mending",
+          "utility2": "Banner of Strength",
+          "utility3": "Banner of Discipline",
+          "elite": "Head Butt"
         }
       }
-date: 2021-09-16T20:49:51.604Z
+    note: Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute
+      name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
+date: 2021-09-18T20:50:43.237Z
 ---
 
 <Divider text="Rotation / Skill usage"/>
@@ -548,7 +632,7 @@ or depending on the phase length:
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="LxHu4l36Zl0" caption="by KingMarcus.1408"/>
+<Video youtube="NkoFpwfcxfw" caption="by TheCryophoenix.4587"/>
 </Card>
 </GridItem>
 </Grid>
