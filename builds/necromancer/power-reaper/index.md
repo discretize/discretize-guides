@@ -34,52 +34,6 @@ sections:
 
       <Traits traits1="Spite" traits1Selected="Spiteful Talisman, Awaken the Pain, Close to Death" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Death Perception" traits3="Reaper" traits3Selected="Chilling Nova , Soul Eater, Reapers Onslaught"/>
 
-
-      <Card title="Situational Skills">
-
-
-      <Warning>
-        If you are going to replace a skill, <Skill name="Well of Darkness" /> is your
-        least damaging skill.
-      </Warning>
-
-
-      |                                                               |                                                                                                                                                                                                                                                      |
-
-      | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-      | <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used to boon rip on days with the No Pain No Gain instability                                                                                                                                                 |
-
-      | <Skill name="Summon flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized).                                                                                                 |
-
-      | <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade).                   |
-
-      | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
-
-      | <Skill name="Suffer" size="big" disableText/>                 | A defensive utility to help mitigate conditions on you, as well as apply extra Chill for usage with <Trait name="Cold Shoulder"/>                                                                                                                    |
-
-      | <Skill name="You are all Weaklings" size="big" disableText/>  | A defensive stun break utility.                                                                                                                                                                                                                      |
-
-      | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles.                                                                                                                                                                                                           |
-
-      | <Skill name="Nothing Can Save You" size="big" disableText/>   | Makes your attacks unblockable, great to break the Ooze in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor). It is great to have at Volcanic Boss in Volcanic fractal and Champion Dredge in Underground Facility too.                     |
-
-      | <Skill name="Rise!" size="big" disableText/>                  | Swap with <Skill name="Well of Darkness"/> if you need a meat shield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals). It is your hardest hitting shout, has no cast time so you can go in shroud faster.             |
-
-      | <Skill name="Summon Shadow Fiend" size="big" disableText/>    | Possible alternative instead of <Skill name="Well of Darkness"/> for longer bosses like Artsariiv, Arkk in the [Shattered Observatory Fractal](/fractals/shattered-observatory) and Ensolyss in the [Nightmare Fractal](/fractals/nightmare).        |
-
-
-      </Card>
-
-
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-      <Skills heal="Signet of Vampirism" utility1="Well of Suffering" utility2="Well of Darkness" utility3="Signet of Spite" elite="Lich Form"/>
-
-
       <Card title="Situational Traits">
 
 
@@ -105,6 +59,50 @@ sections:
       | <Skill name="Terrify" size="big" disableText/>                         | 100 with <Condition name="Fear"/>                                          |
 
       | <Skill name="Executioners Scythe" size="big" disableText/>             | 150 with <Control name="Stun"/>                                            |
+
+
+      </Card>
+
+
+      </GridItem>
+
+
+      <GridItem sm="5">
+
+      <Card title="Situational Skills">
+
+
+      <Warning>
+        If you are going to replace a skill, <Skill name="Well of Darkness" /> is your
+        least damaging skill.
+      </Warning>
+
+
+      |                                                               |                                                                                                                                                                                                                                                      |
+
+      | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+      | <Skill name="Well of Darkness" size="big" disableText/>     | Your most damaging option for a third utility. Deals some AoE damage as well as applying <Condition name="Blinded" text="Blind"/> and <Condition name="Chilled" text="Chill"/> to targets inside the well.                                                                                                                                                |
+
+      | <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used to boon rip on days with the No Pain No Gain instability                                                                                                                                                 |
+
+      | <Skill name="Summon flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized).                                                                                                 |
+
+      | <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade).                   |
+
+      | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
+
+      | <Skill name="Suffer" size="big" disableText/>                 | A defensive utility to help mitigate conditions on you, as well as apply extra Chill for usage with <Trait name="Cold Shoulder"/>                                                                                                                    |
+
+      | <Skill name="You are all Weaklings" size="big" disableText/>  | A defensive stun break utility.                                                                                                                                                                                                                      |
+
+      | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles.                                                                                                                                                                                                           |
+
+      | <Skill name="Nothing Can Save You" size="big" disableText/>   | Makes your attacks unblockable, great to break the Ooze in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor). It is great to have at Volcanic Boss in Volcanic fractal and Champion Dredge in Underground Facility too.                     |
+
+      | <Skill name="Rise!" size="big" disableText/>                  | Swap with <Skill name="Well of Darkness"/> if you need a meat shield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals). It is your hardest hitting shout, has no cast time so you can go in shroud faster.             |
+
+      | <Skill name="Summon Shadow Fiend" size="big" disableText/>    | Possible alternative instead of <Skill name="Well of Darkness"/> for longer bosses like Artsariiv, Arkk in the [Shattered Observatory Fractal](/fractals/shattered-observatory) and Ensolyss in the [Nightmare Fractal](/fractals/nightmare).        |
 
 
       </Card>
@@ -237,10 +235,16 @@ character:
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Signet of Vampirism",
+          "utility2": "Well of Suffering",
+          "utility3": "Signet of Spite",
+          "elite": "Lich Form"
         }
       }
     note: You will be crit-capped in <Skill name="Reapers Shroud"/>.
-date: 2021-09-16T22:16:01.603Z
+date: 2021-09-18T22:42:53.455Z
 benchmark:
   small:
     dps: 34302
