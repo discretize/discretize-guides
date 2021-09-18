@@ -28,12 +28,50 @@ sections:
 
       <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude,Swift Revenge,Elements of Rage"/>
 
+      <Card title="Situational Traits">
+
+
+      |                                                     |                                                                                                                                                                       |
+
+      | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+      | <Trait name="Fresh Air" size="big" disableText/>    | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>.                                                                        |
+
+      | <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
+
+      | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+
+
+      </Card>
+
+      <Card title="Defiance Bar Damage">
+
+
+      |                                                       |                                               |
+
+      | ----------------------------------------------------- | --------------------------------------------- |
+
+      | <Skill name="Updraft" size="big" disableText/>        | 332 with <Control name="Launch"/>             |
+
+      | <Skill name="Wind Blast" size="big" disableText/>     | 232 with <Control name="Launch"/>             |
+
+      | <Skill name="Polaric Leap" size="big" disableText/>   | 100 with <Control name="Daze"/>               |
+
+      | <Skill name="Earthquake" size="big" disableText/>     | 200 with <Control name="Knockdown"/>          |
+
+      | <Skill name="Gale Strike" size="big" disableText/>    | 125 with <Control name="Float"/>              |
+
+      | <Skill name="Twin Strike" size="big" disableText/>    | 33 / s (99) with <Condition name="Chilled"/>  |
+
+      | <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
+
+
+      </Card>
+
       </GridItem>
 
 
       <GridItem sm="5">
-
-      <Skills heal="Glyph of Elemental Harmony" utility1="Primordial Stance" utility2="Glyph of Storms" utility3="Arcane Blast" elite="Conjure Fiery Greatsword"/>
 
       <Card title="Swap Weapons">
 
@@ -54,18 +92,6 @@ sections:
 
 
       </Card>
-
-      </GridItem>
-
-      </Grid>
-
-
-      <Divider text="Situational"/>
-
-
-      <Grid>
-
-      <GridItem sm="7">
 
       <Card title="Situational Skills">
 
@@ -103,52 +129,6 @@ sections:
       | Utility                                                         |                                                                                                                                                                                                                                                                                                                                            |
 
       | <Skill name="Lightning Flash" size="big" disableText/>          | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
-
-
-      </Card>
-
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-      <Card title="Situational Traits">
-
-
-      |                                                     |                                                                                                                                                                       |
-
-      | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-      | <Trait name="Fresh Air" size="big" disableText/>    | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>.                                                                        |
-
-      | <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
-
-      | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
-
-
-      </Card>
-
-
-      <Card title="Defiance Bar Damage">
-
-
-      |                                                       |                                               |
-
-      | ----------------------------------------------------- | --------------------------------------------- |
-
-      | <Skill name="Updraft" size="big" disableText/>        | 332 with <Control name="Launch"/>             |
-
-      | <Skill name="Wind Blast" size="big" disableText/>     | 232 with <Control name="Launch"/>             |
-
-      | <Skill name="Polaric Leap" size="big" disableText/>   | 100 with <Control name="Daze"/>               |
-
-      | <Skill name="Earthquake" size="big" disableText/>     | 200 with <Control name="Knockdown"/>          |
-
-      | <Skill name="Gale Strike" size="big" disableText/>    | 125 with <Control name="Float"/>              |
-
-      | <Skill name="Twin Strike" size="big" disableText/>    | 33 / s (99) with <Condition name="Chilled"/>  |
-
-      | <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
 
 
       </Card>
@@ -280,6 +260,13 @@ character:
           "foodId": 41569,
           "utilityId": 50082,
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Glyph of Elemental Harmony",
+          "utility1": "Primordial Stance",
+          "utility2": "Glyph of Storms",
+          "utility3": "Arcane Blast",
+          "elite": "Conjure Fiery Greatsword"
         }
       }
     note: Check the [gear
@@ -379,6 +366,13 @@ character:
           "foodId": 41569,
           "utilityId": 50082,
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Glyph of Elemental Harmony",
+          "utility1": "Primordial Stance",
+          "utility2": "Glyph of Storms",
+          "utility3": "Arcane Blast",
+          "elite": "Conjure Fiery Greatsword"
         }
       }
     note: >-
@@ -489,9 +483,16 @@ character:
           "foodId": 41569,
           "utilityId": 50082,
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Glyph of Elemental Harmony",
+          "utility1": "Primordial Stance",
+          "utility2": "Glyph of Storms",
+          "utility3": "Arcane Blast",
+          "elite": "Conjure Fiery Greatsword"
         }
       }
-date: 2021-09-18T15:01:57.570Z
+date: 2021-09-18T23:27:05.068Z
 ---
 <Divider text="Rotation / Skill usage"/>
 
