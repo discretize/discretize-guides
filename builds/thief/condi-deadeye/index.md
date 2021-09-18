@@ -293,9 +293,16 @@ character:
           "foodId": "86997",
           "utility": "tuning-icicle",
           "infusion": "Malign +9 Agony Infusion"
+         },
+        "skills": {
+          "heal": "Hide in Shadows",
+          "utility1": "Mercy",
+          "utility2": "Skale Venom",
+          "utility3": "Spider Venom",
+          "elite": "Shadow Meld"
         }
       }
-date: 2021-09-18T15:02:48.668Z
+date: 2021-09-18T22:07:37.164Z
 benchmark:
   small:
     dps: 40094
