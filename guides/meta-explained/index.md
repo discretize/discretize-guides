@@ -1,6 +1,6 @@
 ---
 title: Meta explained
-date: 2021-09-16T23:46:53.468Z
+date: 2021-09-18T09:52:11.557Z
 sections: []
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
@@ -142,6 +142,7 @@ This comp is used when parties want to go for some faster boss kills and would l
 </Tabs>
 
 <Card title="META Comps Comparison">
+
 | | <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Daredevil" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/> | <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/> |
 | -- | -- | -- |
 | **General Info** | A very easy to play comp that can faceroll all fractals regardless of instabilities. This is a great option if your group wants to clear fractals safely with little effort. Unless you are an organised consistant static, overall the run time is often the same or faster than playing power. |  A solid, consistant power comp providing plenty of CC and group support. This comp is a great start for people looking to run no healer and start to decrease their individual boss kill times. Additionally the <Specialization name="Dragonhunter"/> can be replaced with a different [DPS class](/guides/what-should-i-play) relatively easily. |
@@ -150,6 +151,7 @@ This comp is used when parties want to go for some faster boss kills and would l
 | **Cons** | Some bosses can really start to drag on due to short phases and the time condis take to ramp up.<br/><br/>Condi comps can be quite boring to play if you enjoy optimizing your gameplay and pushing boss times.<br/> | The comp is fairly restrictive due to the fact you want two <Specialization name="Soulbeast"/> for <Skill name="One Wolf Pack"/>, meaning only the <Specialization name="Dragonhunter"/> can be replaced easily.<br/><br/>In terms of clear time this comp requires a lot more effort and co-ordination to be faster than running a condi comp. Also requiring you to swap to a condi comp for a quick Ensolyss and 100CM kill. <br/> |
 | **Strong Bosses** | Ensolyss<br/>Ai, Keeper of the peak<br/>Artsariiv | Skorvald<br/>Artsariiv<br/>Arkk |
 | **Weaker Bosses** | MAMA<br/>Arkk | Ensolyss<br/>Siax |
+
 </Card>
 
 <a name="pug">
@@ -164,6 +166,7 @@ Although both condition and power builds preform great in PuGs, it is reccomende
 
 <Tabs>
 <Tab title="Condi Comp">
+
 | | |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> | <br/>The <Specialization name="Renegade"/>'s role is to provide 100% <Boon name="Alacrity"/> uptime, and some <Boon name="Might"/> uptime, strong utilities in terms of heavy crowd control and decent DPS on its own. Although <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> deals more damage, playing <BuildLink build="Power Renegade" specialization="Renegade"/> is also acceptable.|
@@ -171,6 +174,7 @@ Although both condition and power builds preform great in PuGs, it is reccomende
 | <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Scourge" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Deadeye" disableText/><Specialization name="Mirage" disableText/>  | <br/>Pick any of the condition meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
 | <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Scourge" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Deadeye" disableText/><Specialization name="Mirage" disableText/>  | <br/>Pick any of the condition meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play)<br/><br/> |
 | <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Scourge" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Deadeye" disableText/><Specialization name="Mirage" disableText/>  | <br/>Pick any of the condition meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
+
 </Tab>
 <Tab title="Power Comp">
 | | |
@@ -180,6 +184,7 @@ Although both condition and power builds preform great in PuGs, it is reccomende
 | <BuildLink build="Power Berserker" specialization="Berserker"/> | <br/>The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals, essential to any team, providing party buffs in the form of <Skill id="14405" profession="warrior"/>, <Skill id="14407" profession="warrior"/>. Furthermore, it has excellent single defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>. The build also has medium burst and excellent sustained damage. In case you are playing without a <Specialization name="Weaver"/> and your <Specialization name="Firebrand" text="Heal Firebrand"/> is not able to **maintain 25x <Boon name="Might"/> you can cover the mistake by taking <Skill name="For great justice"/>!** <br/><br/>**<Specialization name="Spellbreaker"/> is not used, only in some T4 encounters like Molten Boss Effigy and Twilight Oasis last boss Amala if you don't have a <Specialization name="Reaper" text="Power Reaper"/> in your group or your <Specialization name="Renegade"/> can't fulfill it's boonstripping role properly with <Skill name="Legendary Demon stance" disableText/> or you are specifically asked to run it.**<br/><br/>If your group are playing condi DPS classes you should also swap since your banners aren't needed or the extra CC.<br/>  |
 | <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Holosmith" disableText/><br/><Specialization name="Chronomancer" disableText/><Specialization name="Reaper" disableText/><Specialization name="Dragonhunter" disableText/>  | <br/>Pick any of the power meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play)<br/><br/> |
 | <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Holosmith" disableText/><br/><Specialization name="Chronomancer" disableText/><Specialization name="Reaper" disableText/><Specialization name="Dragonhunter" disableText/>  | <br/>Pick any of the power meta or offmeta classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
+
 </Tab>
 </Tabs>
 
