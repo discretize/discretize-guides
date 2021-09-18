@@ -173,7 +173,7 @@ conditions:
   - Bleeding
   - Poisoned
   - Burning
-code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 character:
   - title: Krait Runes
@@ -271,7 +271,7 @@ character:
         "consumables": {
           "foodId": "86997",
           "utility": "toxic-focusing-crystal",
-          "infusion": "Mighty +9 Agony Infusion"
+          "infusion": "Malign +9 Agony Infusion"
         }
       }
   - title: Afflicted Runes
@@ -370,7 +370,7 @@ character:
         "consumables": {
           "food": "rare-veggie-pizza",
           "utility": "toxic-focusing-crystal",
-          "infusion": "Mighty +9 Agony Infusion"
+          "infusion": "Malign +9 Agony Infusion"
         }
       }
     note: This builds damage depends on the amount of <Specialization
@@ -378,7 +378,7 @@ character:
       DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3
       Soulbeasts in the party. If you are going to be on your own run the Krait
       rune setup!
-date: 2021-09-16T23:22:18.585Z
+date: 2021-09-18T15:05:30.024Z
 benchmark:
   small:
     dps: 36197
