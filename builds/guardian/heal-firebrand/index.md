@@ -66,25 +66,6 @@ sections:
 
       <GridItem sm="5">
 
-
-      <Skills
-        heal="Mantra of Solace"
-        utility1="Mantra of Potence"
-        utility2="Sanctuary"
-        elite="Mantra of Liberation"
-      />
-
-
-      </GridItem>
-
-      </Grid>
-  - type: mdx
-    title: Situational  Traits and Skills
-    content: >-
-      <Grid>
-
-      <GridItem sm="6">
-
       <Card title="Common Utility Skills">
 
 
@@ -115,6 +96,11 @@ sections:
 
       </GridItem>
 
+      </Grid>
+  - type: mdx
+    title: Situational  Traits and Skills
+    content: >-
+      <Grid>
 
       <GridItem sm="6">
 
@@ -135,6 +121,11 @@ sections:
 
 
       </Card>
+
+      </GridItem>
+
+
+      <GridItem sm="6">
 
 
       <Card title="Elite Skills">
@@ -594,7 +585,7 @@ boons:
   - Swiftness
   - Stability
   - Aegis
-code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 classification:
   - 4
@@ -695,9 +686,15 @@ character:
           "food": "delicious-rice-ball",
           "utility": "bountiful-maintenance-oil",
           "infusion": "Healing +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mantra of Solace",
+          "utility2": "mantra of Potence",
+          "utility3": "Sanctuary",
+          "elite": "Mantra of Liberation"
         }
       }
-date: 2021-09-16T19:21:14.957Z
+date: 2021-09-18T22:56:33.144Z
 ---
 
 <Divider text="Videos" />
