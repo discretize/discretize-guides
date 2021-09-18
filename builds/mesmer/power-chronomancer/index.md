@@ -58,7 +58,6 @@ sections:
 
       <Traits traits1="Dueling" traits1Selected="Phantasmal Fury,Fencers Finesse,Superiority Complex" traits2="Domination" traits2Selected="Empowered Illusions,Egotism,Vicious Expression" traits3="Chronomancer" traits3Selected="Time Catches Up,Improved Alacrity,Chronophantasma"/>
 
-
       <Card title="Situational Traits">
 
 
@@ -86,9 +85,6 @@ sections:
 
 
       <GridItem sm="5">
-
-      <Skills heal="Signet of the Ether" utility1="Mirror Images" utility2="Mantra of Pain" utility3="Phantasmal Disenchanter" elite="Signet of Humility"/>
-
 
       <Card title="Situational Skills">
 
@@ -348,6 +344,13 @@ character:
           "foodId": 41569,
           "utilityId": 50082,
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Signet of the Ether",
+          "utility1": "Mantra of Pain",
+          "utility2": "Phantasmal Disenchanter",
+          "utility3": "MIrror Images",
+          "elite": "Signet of Humility"
         }
       }
     note: >-
@@ -454,6 +457,13 @@ character:
           "foodId": 41569,
           "utilityId": 50082,
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Signet of the Ether",
+          "utility1": "Mantra of Pain",
+          "utility2": "Phantasmal Disenchanter",
+          "utility3": "MIrror Images",
+          "elite": "Signet of Humility"
         }
       }
     note: Check the [gear
@@ -553,12 +563,19 @@ character:
           "foodId": 41569,
           "utilityId": 50082,
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Signet of the Ether",
+          "utility1": "Mantra of Pain",
+          "utility2": "Phantasmal Disenchanter",
+          "utility3": "MIrror Images",
+          "elite": "Signet of Humility"
         }
       }
     note: Check the [gear
       optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
       more gear variants!
-date: 2021-09-18T15:01:08.567Z
+date: 2021-09-18T22:48:19.470Z
 ---
 <Divider text="Rotation / Skill usage"/>
 
