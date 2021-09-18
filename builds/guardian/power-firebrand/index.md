@@ -77,9 +77,6 @@ sections:
 
       <GridItem sm="5">
 
-      <Skills heal="Mantra of Solace" utility1="Mantra of Potence" utility2="Sword of Justice" utility3="Bane Signet" elite="Feel My Wrath"/>
-
-
       <Card title="Situational Skills">
 
 
@@ -340,6 +337,13 @@ character:
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mantra of Solace",
+          "utility1": "Mantra of Potence",
+          "utility2": "Sword of Justice",
+          "utility3": "Bane Signet",
+          "elite": "Feel my Wrath"
         }
       }
   - note: >-
@@ -446,9 +450,16 @@ character:
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mantra of Solace",
+          "utility1": "Mantra of Potence",
+          "utility2": "Sword of Justice",
+          "utility3": "Bane Signet",
+          "elite": "Feel my Wrath"
         }
       }
-date: 2021-09-16T19:20:26.308Z
+date: 2021-09-18T23:11:08.356Z
 ---
 <Divider text="Rotation / Skill Usage"/>
 
