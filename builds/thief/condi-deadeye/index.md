@@ -61,7 +61,7 @@ sections:
 
       | <Skill id="13132"/> | up to 750 damage |
 
-      | <Skill name="Headshot"/> | 200 damage (260 with <Item id="24639"/> |
+      | <Skill name="Headshot"/> | 200 damage (260 with <Item id="24639"/>) |
 
 
       </Card>
@@ -302,7 +302,7 @@ character:
           "elite": "Shadow Meld"
         }
       }
-date: 2021-09-18T22:09:52.928Z
+date: 2021-09-18T22:10:09.799Z
 benchmark:
   small:
     dps: 40094
