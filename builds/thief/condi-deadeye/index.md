@@ -30,24 +30,10 @@ sections:
       <Traits traits1="Trickery" traits1Selected="Burst of Agility,Pressure Striking,Deadly Ambush" traits2="Deadly Arts" traits2Selected="Deadly Ambition,Panic Strike,Potent Poison" traits3="Deadeye" traits3Selected="One in the Chamber,Premeditation,Maleficent Seven"/>
 
 
-      <Card title="Defiance Bar Damage">
-
-
-      |                     |                  |
-
-      | ------------------- | ---------------- |
-
-      | <Skill id="13132"/> | up to 750 damage |
-
-
-      </Card>
-
       </GridItem>
 
 
       <GridItem sm="5">
-
-      <Skills heal="Hide in Shadows" utility1="Mercy" utility2="Skale Venom" utility3="Spider Venom" elite="Shadow Meld"/>
 
 
       <Card title="Situational Skills">
@@ -62,6 +48,20 @@ sections:
       | <Skill name="infiltratorssignet" size="big" disableText/> | A quick shadowstep. Beginner-friendly alternative, which can be used for a bit more survivability. |
 
       | <Skill name="signetofmalice" size="big" disableText/>     | Highest sustained healing.                                                                         |
+
+
+      </Card>
+
+      <Card title="Defiance Bar Damage">
+
+
+      |                     |                  |
+
+      | ------------------- | ---------------- |
+
+      | <Skill id="13132"/> | up to 750 damage |
+
+      | <Skill name="Headshot"/> | 200 damage (260 with <Item id="24639"/> |
 
 
       </Card>
@@ -302,7 +302,7 @@ character:
           "elite": "Shadow Meld"
         }
       }
-date: 2021-09-18T22:07:37.164Z
+date: 2021-09-18T22:09:52.928Z
 benchmark:
   small:
     dps: 40094
