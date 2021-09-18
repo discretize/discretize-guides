@@ -1,6 +1,5 @@
 ---
 title: Power Dragonhunter
-date: 2021-06-02
 sections:
   - title: Summary
     type: mdx
@@ -59,10 +58,7 @@ sections:
 
       <GridItem sm="5">
 
-      <Skills healId="21664" utility1Id="30364" utility2Id="9168" utility3Id="9093" eliteId="30273"/>
-
-
-      <Card title="Situational">
+      <Card title="Situational Skills">
 
 
       |                                                        |                                                                                     |
@@ -113,7 +109,7 @@ conditions:
 boons:
   - Resolution
   - Aegis
-code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 classification:
   - 3
@@ -122,103 +118,6 @@ classification:
   - 2
   - 4
 character:
-  - note: >-
-      If you use <Trait name="Perfectinscriptions"/> you are lacking critical
-      chance, therefore additional assassins pieces are required. You can of
-      course mitigate this by increasing your <Attribute name="Agony
-      Resistance"/>. You need at least  <Attribute name="Agony Resistance"
-      text="203 Agony Resistance"/> to compensate the lacking <Attribute
-      name="Precision"/>.  
-
-
-      It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
-    gear: |-
-      { "weight":"Heavy", "gear":[
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker"
-      ], "attributes":{
-          "Health":11645,
-          "Armor":2514,
-          "Power":3933,
-          "Precision":2363,
-          "Toughness":1243,
-          "Vitality":1000,
-          "Ferocity":1656,
-          "Condition Damage":850,
-          "Expertise":0,
-          "Concentration":243,
-          "Healing Power":0,
-          "Agony Resistance":162,
-          "Condition Duration":0,
-          "Boon Duration":16.2,
-          "Critical Chance":99.9047619047619,
-          "Critical Damage":260.4,
-          "Effective Power":36090.11227985033,
-          "Power DPS":46137.53283369391,
-          "Burning Damage":377.703125,
-          "Burning Stacks":1.85,
-          "Burning DPS":698.75078125,
-          "Bleeding Damage":104.9375,
-          "Bleeding Stacks":0,
-          "Bleeding DPS":0,
-          "Poison Damage":121.46875,
-          "Poison Stacks":0,
-          "Poison DPS":0,
-          "Torment Damage":155.68125,
-          "Torment Stacks":0,
-          "Torment DPS":0,
-          "Confusion Damage":104.9375,
-          "Confusion Stacks":0,
-          "Confusion DPS":0,
-          "Damage":46836.28361494391,
-          "Effective Health":40253853.75,
-          "Survivability":20464.592653787495,
-          "Effective Healing":390,
-          "Healing":390
-      }, "runeId":24836, "runeName":"Scholar", "infusions":[
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-      ], "weapons":{
-          "weapon1MainType":"Sword",
-          "weapon1MainSigil1":"Force",
-          "weapon1OffType":"Focus",
-          "weapon1OffSigil":"Impact",
-          "weapon2MainType":"Greatsword",
-          "weapon2MainSigil1":"Force",
-          "weapon2MainSigil2":"Impact"
-      }, "consumables":{
-          "food": "Bowl of Sweet and Spicy Butternut Squash Soup",
-          "utility": "Tin of Fruitcake",
-          "infusion": "Mighty +9 Agony Infusion"
-      } }
   - gear: |-
       { "title":"222 Ar", "weight":"Heavy", "gear":[
           "Berserker",
@@ -294,7 +193,7 @@ character:
           37131,
           37131
       ], "weapons":{
-          "weapon1MainType":"Scepter",
+          "weapon1MainType":"Sword",
           "weapon1MainSigil1":"Force",
           "weapon1OffType":"Focus",
           "weapon1OffSigil":"Impact",
@@ -303,9 +202,136 @@ character:
           "weapon2MainSigil2":"Impact"
       }, "consumables":{
           "food": "Bowl of Sweet and Spicy Butternut Squash Soup",
-          "utility": "Tin of Fruitcake",
+          "utility": "Superior Sharpening Stone",
           "infusion": "Mighty +9 Agony Infusion"
-      } }
+      },
+        "skills": {
+          "heal": "Litany of Wrath",
+          "utility1": "Procession of Blades",
+          "utility2": "Sword of Justice",
+          "utility3": "Bane Signet",
+          "elite": "Dragons Maw"
+        } 
+      }
+    title: 162AR
+    note: >-
+      If you use <Trait name="Perfectinscriptions"/> you are lacking critical
+      chance, therefore additional assassins pieces are required. You can of
+      course mitigate this by increasing your <Attribute name="Agony
+      Resistance"/>. You need at least  <Attribute name="Agony Resistance"
+      text="203 Agony Resistance"/> to compensate the lacking <Attribute
+      name="Precision"/>.  
+
+
+      It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
+  - note: It is not recommended to run <Trait name="Righthandstrength"/> unless you
+      have multiple <Specialization name="Guardian"/> or another source of <Boon
+      name="Resolution"/>.
+    gear: |-
+      {
+        "gear": [
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker"
+        ],
+        "attributes": {
+          "Health": 11645,
+          "Armor": 2575,
+          "Power": 3892,
+          "Precision": 2365,
+          "Toughness": 1304,
+          "Vitality": 1000,
+          "Ferocity": 1556,
+          "Condition Damage": 750,
+          "Expertise": 0,
+          "Concentration": 304,
+          "Healing Power": 0,
+          "Agony Resistance": 203,
+          "Condition Duration": 0,
+          "Boon Duration": 20.266666666666666,
+          "Critical Chance": 100,
+          "Critical Damage": 253.73333333333335,
+          "Effective Power": 34819.97973867529,
+          "Power DPS": 44513.797740624555,
+          "Burning Damage": 355.421875,
+          "Burning Stacks": 1.85,
+          "Burning DPS": 657.5304687500001,
+          "Bleeding Damage": 96.3125,
+          "Bleeding Stacks": 0,
+          "Bleeding DPS": 0,
+          "Poison Damage": 112.84375,
+          "Poison Stacks": 0,
+          "Poison DPS": 0,
+          "Torment Damage": 142.74375,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 96.3125,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 45171.32820937456,
+          "Effective Health": 54836668.90625001,
+          "Survivability": 27878.326846085412,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131
+        ],
+        "weight": "Heavy",
+        "runeId": 24836,
+        "runeName": "Scholar",
+        "weapons": {
+          "weapon1MainType": "Sword",
+          "weapon1MainSigil1Id": 24615,
+          "weapon1OffType": "Focus",
+          "weapon1OffSigilId": 24868,
+          "weapon2MainType": "Greatsword",
+          "weapon2MainSigil1Id": 24615,
+          "weapon2MainSigil2Id": 24868
+        },
+        "consumables": {
+          "foodId": 41569,
+          "utilityId": 9443,
+          "infusion": "Mighty +9 Agony Infusion"
+       },
+        "skills": {
+          "heal": "Litany of Wrath",
+          "utility1": "Procession of Blades",
+          "utility2": "Sword of Justice",
+          "utility3": "Bane Signet",
+          "elite": "Dragons Maw"
+        } 
+      }
+    title: 203 AR
+date: 2021-09-18T23:04:32.535Z
 ---
 
 <Divider text="Details"/>
