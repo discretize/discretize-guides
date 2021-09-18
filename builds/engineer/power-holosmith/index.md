@@ -59,9 +59,6 @@ sections:
 
       <GridItem sm="5">
 
-      <Skills healId="21659" utility1Id="6020" utility2Id="5818" utility3Id="42842" eliteId="42009"/>
-
-
       <Card title="Additional Skills">
 
 
@@ -255,6 +252,13 @@ character:
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "A.E.D",
+          "utility1": "Grenade Kit",
+          "utility2": "Rifle Turret",
+          "utility3": "Laser Disk",
+          "elite": "Prime Light Beam"
         }
       }
     note: >-
@@ -265,7 +269,7 @@ character:
 
 
       You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
-date: 2021-09-18T10:54:19.631Z
+date: 2021-09-18T23:15:47.090Z
 ---
 
 <Grid>
