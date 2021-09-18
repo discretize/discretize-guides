@@ -91,7 +91,7 @@ sections:
 
       <Card title="Off-hand Dagger">
 
-      Running an off-hand Dagger is slightly more DPS than running Torch providing you can flank permanently and your group can't make use of the fire field from <Skill name="Bonfire"/>. It also has the benefit of having an evade through using <Skill id="12478"/>.
+      Running an off-hand Dagger is similar DPS to Torch providing you can flank permanently and your group can't make use of the fire field from <Skill name="Bonfire"/>. It also has the benefit of having an evade through using <Skill id="12478"/>.
 
       </Card>
 
@@ -378,7 +378,7 @@ character:
       DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3
       Soulbeasts in the party. If you are going to be on your own run the Krait
       rune setup!
-date: 2021-09-18T15:05:30.024Z
+date: 2021-09-18T15:06:00.405Z
 benchmark:
   small:
     dps: 36197
