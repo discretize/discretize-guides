@@ -33,73 +33,6 @@ sections:
 
       <Traits traits1="Fire" traits1Selected="Burning Precision, Burning Rage, Persisting Flames" traits2="Earth" traits2Selected="Serrated Stones, Strength of Stone, Written in Stone" traits3="Weaver" traits3Selected="Superior Elements, Weavers Prowess, Elements of Rage"/>
 
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-      <Skills heal="Signet of Restoration" utility1="Glyph of Elemental Power" utility2="Primordial Stance" utility3="Signet of Fire" elite="Weave Self"/>
-
-      </GridItem>
-
-      </Grid>
-  - type: mdx
-    title: Situational
-    content: >-
-      <Grid>
-
-      <GridItem sm="7">
-
-      <Card title="Situational Skills">
-
-
-      | | |
-
-      | -- | -- |
-
-      |Heal|
-
-      | <Skill name="Arcane Brilliance" size="big" disableText/> | An additional <Boon name="Might"/> source from blasting fire fields. Overall provides less healing than <Skill name="Signet Of Restoration"/>.|
-
-      | <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A stronger alternative healing skill when you need to restore a large amount of health very quickly.
-
-      | <Skill name="Aquatic stance" size="big" disableText/> | Another alternative healing skill affecting allies close to the target you strike.|
-
-      |Offensive|
-
-      | <Skill name="Glyph of Lesser Elementals" size="big" disableText/> | A rather unreliable alternative to  <Skill name="Glyph of Elemental Power"/> due to the nature of the pet's AI. Use with caution.|
-
-      |Defensive|
-
-      | <Skill name="Arcane Shield" size="big" disableText/> | A stun break with the addition of 3 blocks.|
-
-      | <Skill name="Armor of Earth" size="big" disableText/> | Another stun break that provides extra <Boon name= "Protection"/> and <Boon name= "Stability"/>.|
-
-      | <Skill name="Stone Resonance" size="big" disableText/> | A strong skill providing a lot of barrier and extra <Boon name= "Stability"/>.|
-
-      | <Skill name="Twist of Fate" size="big" disableText/> | Yet another stun break with the addition of evade frames.|
-
-      | Utility |
-
-      | <Skill name="Lightning Flash" size="big" disableText/> | A 900 units teleport for easy repositioning.|
-
-      | <Skill name="Glyph of Renewal" size="big" disableText/> | You can sacrifice some DPS for a powerful insta rez, can be very useful during "Dancing with Demons" runs.|
-
-
-      <Warning>
-
-      If you do want to switch any of your utilites in favor of one of the skills listed above, you should prioritise dropping <Skill name="Glyph of Elemental Power"/> before <Skill name="Primordial Stance"/> and <Skill name="Signet of fire"/>.
-
-      </Warning>
-
-
-      </Card>
-
-      </GridItem>
-
-
-      <GridItem sm="5">
-
       <Card title="Situational Traits">
 
 
@@ -143,6 +76,54 @@ sections:
       | <Skill name="Tailored Victory" size="big" disableText/> | 250 with <Control name="Float"/> |
 
        **Conditions applied are calculated by taking the maximum condition duration into account.**
+
+      </Card>
+
+      </GridItem>
+
+
+      <GridItem sm="5">
+
+      <Card title="Situational Skills">
+
+      <Warning>
+
+      If you do want to switch any of your utilites in favor of one of the skills listed above, you should prioritise dropping <Skill name="Glyph of Elemental Power"/> before <Skill name="Primordial Stance"/> and <Skill name="Signet of fire"/>.
+
+      </Warning>
+
+      | | |
+
+      | -- | -- |
+
+      |Heal|
+
+      | <Skill name="Arcane Brilliance" size="big" disableText/> | An additional <Boon name="Might"/> source from blasting fire fields. Overall provides less healing than <Skill name="Signet Of Restoration"/>.|
+
+      | <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A stronger alternative healing skill when you need to restore a large amount of health very quickly.
+
+      | <Skill name="Aquatic stance" size="big" disableText/> | Another alternative healing skill affecting allies close to the target you strike.|
+
+      |Offensive|
+
+      | <Skill name="Glyph of Lesser Elementals" size="big" disableText/> | A rather unreliable alternative to  <Skill name="Glyph of Elemental Power"/> due to the nature of the pet's AI. Use with caution.|
+
+      |Defensive|
+
+      | <Skill name="Arcane Shield" size="big" disableText/> | A stun break with the addition of 3 blocks.|
+
+      | <Skill name="Armor of Earth" size="big" disableText/> | Another stun break that provides extra <Boon name= "Protection"/> and <Boon name= "Stability"/>.|
+
+      | <Skill name="Stone Resonance" size="big" disableText/> | A strong skill providing a lot of barrier and extra <Boon name= "Stability"/>.|
+
+      | <Skill name="Twist of Fate" size="big" disableText/> | Yet another stun break with the addition of evade frames.|
+
+      | Utility |
+
+      | <Skill name="Lightning Flash" size="big" disableText/> | A 900 units teleport for easy repositioning.|
+
+      | <Skill name="Glyph of Renewal" size="big" disableText/> | You can sacrifice some DPS for a powerful insta rez, can be very useful during "Dancing with Demons" runs.|
+
 
       </Card>
 
@@ -271,6 +252,13 @@ character:
           "food": "rare-veggie-pizza",
           "utility": "toxic-focusing-crystal",
           "infusion": "Malign +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Signet of Restoration",
+          "utility1": "Glyph of Elemental Power",
+          "utility2": "Primordial Stance",
+          "utility3": "Signet of Fire",
+          "elite": "Weave Self"
         }
       }
     note: >-
@@ -282,7 +270,7 @@ character:
 
 
       This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="spitefulagonyinfusion"/>.
-date: 2021-09-16T20:51:16.418Z
+date: 2021-09-18T23:21:57.325Z
 ---
 <Divider text="Rotation / Skill usage"/>
 
