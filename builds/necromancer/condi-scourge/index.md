@@ -41,14 +41,6 @@ sections:
 
       <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Sadistic Searing, Demonic Lore"/>
 
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-      <Skills heal="Sand Flare" utility1="Signet of Undeath" utility2="Blood is Power" utility3="Epidemic" elite="Plaguelands"/>
-
-
       <Card title="Situational Traits">
 
 
@@ -63,10 +55,9 @@ sections:
 
       </GridItem>
 
-      </Grid>
-  - type: mdx
-    title: Further Information
-    content: >-
+
+      <GridItem sm="5">
+
       <Card title="Situational Skills">
 
 
@@ -76,15 +67,13 @@ sections:
       </Warning>
 
 
-      <Warning>
-        If you are going to replace a skill, <Skill name="Summon Shadow Fiend" /> is
-        your least beneficial utility, followed by <Skill name="Signet of Undeath" />.
-      </Warning>
-
-
       |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
       | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+      | <Skill name="Epidemic" size="big" disableText/>         | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Particularly useful on mob heavy T4s and also Sunqua Peak CM, where it can be used in the dark phase to kill the Sorrows.                                                           |
+
+      | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside.                                                          |
 
       | <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                   |
 
@@ -95,8 +84,6 @@ sections:
       | <Skill name="Summon Flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can also work as a projectile blocker for fights like Old Tom in the [Uncategorized](/fractals/uncategorized) fractal.                                                                                                                                                                                                                                                           |
 
       | <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova](/fractals/thaumanova-reactor) fractal. Also great for consuming conditions on consoles in the [Aetherblade](/fractals/aetherblade) fractal.                                                                                                                                                                                |
-
-      | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside.                                                          |
 
       | <Skill name="Trail of Anguish" size="big" disableText/>       | A go-to stunbreak skill for Scourge, that can also provide some decent conditions if you step in and out of your targets hitbox to proc it multiple times. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>.                                                                                                                                                                |
 
@@ -109,6 +96,13 @@ sections:
 
       </Card>
 
+      </GridItem>
+
+      </Grid>
+  - type: mdx
+    title: Further Information
+    content: >-
+      
 
       <Grid>
 
@@ -292,6 +286,12 @@ character:
           "foodId": "86997",
           "utility": "master-tuning-crystal",
           "infusion": "Malign +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Sand Flare",
+          "utility2": "Blood is Power",
+          "utility3": "Signet of Undeath",
+          "elite": "Plaguelands"
         }
       }
     note: >-
@@ -308,7 +308,7 @@ character:
         of condition duration with this rune choice.
       - <Item id="44956" /> provides a large boost to personal survivability on top of
         your barrier generation at the cost of a minor DPS loss.
-date: 2021-09-16T23:42:44.238Z
+date: 2021-09-18T22:37:14.710Z
 benchmark:
   small:
     dps: 37044
