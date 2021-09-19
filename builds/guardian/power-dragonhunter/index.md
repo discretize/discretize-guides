@@ -109,7 +109,7 @@ conditions:
 boons:
   - Resolution
   - Aegis
-code: "[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 3
@@ -224,7 +224,8 @@ character:
 
 
       It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
-  - note: It is not recommended to run <Trait name="Righthandstrength"/> unless you
+  - note:
+      It is not recommended to run <Trait name="Righthandstrength"/> unless you
       have multiple <Specialization name="Guardian"/> or another source of <Boon
       name="Resolution"/>.
     gear: |-
@@ -333,6 +334,8 @@ character:
     title: 203 AR
 date: 2021-09-18T23:04:32.535Z
 ---
+
+<div inject></div>
 
 <Divider text="Details"/>
 

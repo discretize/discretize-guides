@@ -7,7 +7,7 @@ date: 2021-09-19T17:27:53.415Z
 consumables:
   - 78978
 record:
-  time: 5:15
+  time: '5:15'
   by:
     - name: Nightmare Shattered
       tag: Ns
@@ -131,7 +131,7 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 | Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
 | CC Artsariiv       | 2100                                                      |
 | 1. Add phase each  | 650                                                       |
-| 2. Add phase each  | less than 375                                                      |
+| 2. Add phase each  | less than 375                                             |
 
 <Grid>
 <GridItem sm="8">
