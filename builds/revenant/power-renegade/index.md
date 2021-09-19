@@ -390,7 +390,7 @@ compositions:
   - name: _Rainbow
   - name: _Rainbearbow
   - name: _RGB
-code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
+code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 character:
   - title: 80% Boon Duration 162AR
     gear: |-
@@ -487,6 +487,10 @@ character:
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
+        },
+        "legends": {
+          "legend1": "legendaryassassinstance",
+          "legend2": "legendaryrenegadestance"
         }
       }
     note: >-
@@ -816,6 +820,7 @@ benchmark:
     by: MajesticNoodle [BATS]
     youtube: p4D96l_GVPg
 ---
+
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
