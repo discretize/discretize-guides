@@ -499,7 +499,7 @@ character:
       more gear variants!
 
 
-      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade"/>s it is recommended to play at least 80% boon duration.
+      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
   - title: 50% Boon Duration 162AR
     note: >-
       - Check the [gear
@@ -507,7 +507,7 @@ character:
       more gear variants!
 
 
-      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade"/>s it is recommended to play at least 80% boon duration.
+      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
     gear: |-
       {
         "gear": [
@@ -602,7 +602,11 @@ character:
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
-        }
+        },
+      "legends": {
+                "legend1": "legendaryassassinstance",
+                "legend2": "legendaryrenegadestance"
+      }
       }
   - title: 80% Boon Duration 222AR
     note: >-
@@ -611,7 +615,7 @@ character:
       more gear variants!
 
 
-      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade"/>s it is recommended to play at least 80% boon duration.
+      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
     gear: |-
       {
         "gear": [
@@ -706,9 +710,13 @@ character:
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
-        }
+        },
+      "legends": {
+                "legend1": "legendaryassassinstance",
+                "legend2": "legendaryrenegadestance"
       }
-  - title: 80% Boon Duration 222AR
+      }
+  - title: 50% Boon Duration 222AR
     gear: |-
       {
         "gear": [
@@ -803,7 +811,11 @@ character:
           "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
           "utility": "superior-sharpening-stone",
           "infusion": "Mighty +9 Agony Infusion"
-        }
+        },
+      "legends": {
+                "legend1": "legendaryassassinstance",
+                "legend2": "legendaryrenegadestance"
+      }
       }
     note: >-
       - Check the [gear
@@ -811,8 +823,8 @@ character:
       more gear variants!
 
 
-      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade"/>s it is recommended to play at least 80% boon duration.
-date: 2021-09-16T22:58:31.794Z
+      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
+date: 2021-09-19T16:53:42.435Z
 hasCMGuide: true
 benchmark:
   large:
