@@ -335,7 +335,7 @@ character:
 date: 2021-09-18T23:04:32.535Z
 ---
 
-<div inject></div>
+<div inject />
 
 <Divider text="Details"/>
 
