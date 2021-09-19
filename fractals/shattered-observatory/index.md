@@ -2,20 +2,12 @@
 potions:
   - id: 50082
     description: against Arkk
-title: Shattered Observatory
-date: 2021-02-24
-image: ./images/header.jpg
-group: Challenge Mode
-api: 3458
-bosses: 3
-difficulties:
-  - level: 99
-    ar: 148
 cycle: Day
+date: 2021-09-19T17:27:53.415Z
 consumables:
   - 78978
 record:
-  time: '5:15'
+  time: 5:15
   by:
     - name: Nightmare Shattered
       tag: Ns
@@ -35,6 +27,14 @@ record:
     - id: ypaokpTJE9k
       name: Fines
       specialization: Firebrand
+title: Shattered Observatory
+image: ./images/header.jpg
+group: Challenge Mode
+api: 3458
+bosses: 3
+difficulties:
+  - level: 99
+    ar: 148
 sigils:
   - id: 24615
   - id: 24868
@@ -131,7 +131,7 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 | Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
 | CC Artsariiv       | 2100                                                      |
 | 1. Add phase each  | 650                                                       |
-| 2. Add phase each  | <375                                                      |
+| 2. Add phase each  | less than 375                                                      |
 
 <Grid>
 <GridItem sm="8">
@@ -163,6 +163,7 @@ Assign a player for the _Globolla Marble_ bouncing (typically the <Specializatio
 | **Slam**                           | Deals <Control name="Knockback"/> and deals damage in a short range around Artsariiv. Recognizable by an orange circle around her, simply dodge it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Mib Ring**                       | Artsariiv herself and all her clones during the intermediate phases create a purple miasma field inside their hitboxes, don't stand too close to avoid damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Globolla Marble**                | **Only below 66% health.** Artsariiv throws a huge, white *Globolla Marble* which needs to be bounced back to her. The next position of the marble is always indicated by a large white circle, the next but one position by a smaller white circle. This part is typically soloed by the <Specialization name="Renegade"/>. Strip boons if <Instability name="No Pain, No Gain"/> is present before you hop to the second circle. don't forget to assign a backup. Use <SpecialActionKey name="hypernovalaunch"/> to travel between the locations as it refreshes after each bounce. The backup only needs to stand inside the first blue circle. The main bouncer can take over after that. Note: There is enough time to do the first blue circle, launch into the containment chamber and bounce into the second circle. This however is not recommended for inexperienced players. |
+
 </GridItem>
 
 <GridItem sm="3">
@@ -234,6 +235,7 @@ Stack <Boon name="Might"/> (you can use <SpecialActionKey name="hypernovalaunch"
 | **Solar Stomp**                       | **Only below 40% health.** Arkk vanishes in dust evading all attacks, when he reappears he stomps the ground, damages nearby enemies, executes a <Control name="Knockback"/> and sends out a volley of bolts. Be careful to not let it push you off the platform.                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Rolling Chaos**                     | **Only below 40% health.** Recognizable by a small red arrow emanating from Arkk. Launches a rolling red marble in the designated direction which deals high damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Beaming Smile / DDR**               | **Only below 30% health.** Similar to the previous bosses, Arkk summons three large laser beams while simultaneously projecting the white beams onto players. Move out and turn away.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
 </GridItem>
 
 <GridItem sm="3">
