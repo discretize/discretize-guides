@@ -1,6 +1,6 @@
 ---
 title: Damage Mitigation
-date: 2021-08-26
+date: 2021-09-19T17:31:47.594Z
 image: ./images/reflect.jpg
 description: Learn which skills and traits your profession can use to avoid
   damaging mechanics.
@@ -173,9 +173,6 @@ Below is a list of commonly used defensive skills:
 -   <Skill id="10192"/> <Specialization name="Mesmer" disableText/>  \
     (F4, personal evade)\
     You can trait <Trait id="1852"/> to share <Boon name="Aegis" disableText/> with allies (5 seconds internal cooldown) when you gain distortion
-
-
-<!---->
 
 -   <Skill id="10280"/> <Specialization name="Mesmer" disableText/>  \
     (Sword 4)\
