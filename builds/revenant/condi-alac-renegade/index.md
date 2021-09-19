@@ -309,7 +309,11 @@ character:
           "foodId": "86997",
           "utility": "toxic-maintenance-oil",
           "infusion": "Malign +9 Agony Infusion"
-        }
+        },
+      "legends": {
+                "legend1": "legendarydemonstance",
+                "legend2": "legendaryrenegadestance"
+      }
       }
     note: >-
       For more variations to suit your needs/AR check our [Gear
@@ -413,7 +417,11 @@ character:
           "foodId": "86997",
           "utility": "toxic-maintenance-oil",
           "infusion": "Malign +9 Agony Infusion"
-        }
+        },
+      "legends": {
+                "legend1": "legendarydemonstance",
+                "legend2": "legendaryrenegadestance"
+      }
       }
     note: >-
       For more variations to suit your needs/AR check our [Gear
@@ -518,12 +526,16 @@ character:
           "foodId": "86997",
           "utility": "toxic-focusing-crystal",
           "infusion": "Malign +9 Agony Infusion"
-        }
+        },
+      "legends": {
+                "legend1": "legendarydemonstance",
+                "legend2": "legendaryrenegadestance"
+      }
       }
     note: If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you
       can both play <Trait name="Righteous Rebel"/> to provide <Boon
       name="alacrity"/>,
-date: 2021-09-18T15:06:56.592Z
+date: 2021-09-19T16:55:13.941Z
 hasCMGuide: false
 benchmark:
   huge:
