@@ -1,10 +1,13 @@
 ---
-title: 'Renegade CM guides'
-profession: 'Revenant'
-specialization: 'Renegade'
-date: '2021-02-24'
-author: 'Casual Sophie - Jin Su Liang.9036'
-disableBosses: ['LightAi', 'DarkAi']
+title: Renegade CM guides
+profession: Revenant
+specialization: Renegade
+date: 2021-09-19T17:30:55.370Z
+author: Casual Sophie - Jin Su Liang.9036
+disableBosses:
+  - LightAi
+  - DarkAi
+disableSwitch: false
 ---
 
 <ConditionalComponent condition="pug">
@@ -245,8 +248,6 @@ disableBosses: ['LightAi', 'DarkAi']
 
   - Precast <Skill name="Darkrazors Daring"/> and <Skill name="icerazors ire"/> and change to <Skill name="Legendary Assassin Stance"/> **using the legend swap UI**.
 
-  <!---->
-
   - Activate <Skill name="Impossible Odds"/>, cast <Skill name="Citadel Bombardment"/> and spend time autoattacking.
 
   - Change to <Skill name=" Legendary Renegade Stance"/> and use <Skill name="Surge of the mists"/> before continuing with the steps listed above.
@@ -321,7 +322,6 @@ disableBosses: ['LightAi', 'DarkAi']
 
   - <Skill name="Legendary Assassin Stance"/>, UI change.
 
-  <!---->
 
   - <Skill name="Impossible Odds"/>, <Skill name="Citadel Bombardment"/>.
 
