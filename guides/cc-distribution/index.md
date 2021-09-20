@@ -96,7 +96,7 @@ At 2200 Skorvald the Shattered has one of the largest defiance bars out of all t
 
 If the <Specialization name="Renegade"/> precasts <Skill name="Darkrazorsdaring"/> and has decent positioning, getting 5 hits of <Skill name="Surge of the mists"/>, then the <Specialization name="Berserker"/> can forgo offhand mace in favour of a warhorn (with <Item id="24639"/>) for blasting <Boon name="Might"/> on the islands.
 
-<MDImage src="guides/cc-distribution/images/skorvald.png" caption="Skorvald CC distribution"/>
+<MDImage src="guides/cc-distribution/images/skorvald.jpg" caption="Skorvald CC distribution"/>
 </Tab>
 
 <Tab title="Artsariiv">
