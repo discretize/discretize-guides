@@ -279,51 +279,51 @@ character:
           "Seraph",
           "Seraph",
           "Seraph",
-          "Seraph",
+          "Celestial",
           "Seraph",
           "Seraph",
           "Seraph"
         ],
         "attributes": {
-          "Health": 17145,
-          "Armor": 2514,
-          "Power": 1790,
-          "Precision": 2566,
-          "Toughness": 1243,
-          "Vitality": 1550,
-          "Ferocity": 300,
-          "Condition Damage": 2788,
-          "Expertise": 0,
-          "Concentration": 876,
-          "Healing Power": 883,
+          "Health": 17645,
+          "Armor": 2564,
+          "Power": 1840,
+          "Precision": 2454,
+          "Toughness": 1293,
+          "Vitality": 1600,
+          "Ferocity": 350,
+          "Condition Damage": 2854,
+          "Expertise": 120,
+          "Concentration": 877,
+          "Healing Power": 884,
           "Agony Resistance": 162,
-          "Condition Duration": 0,
-          "Boon Duration": 58.4,
-          "Critical Chance": 109.57142857142857,
-          "Critical Damage": 170,
-          "Burning Duration": 105,
-          "Effective Power": 4374.3125,
-          "Power DPS": 3776.3606565267614,
-          "Burning Damage": 971.4164999999999,
-          "Burning Stacks": 24.4,
-          "Burning DPS": 23702.562599999997,
-          "Bleeding Damage": 283.92,
-          "Bleeding Stacks": 3.7,
-          "Bleeding DPS": 1050.5040000000001,
-          "Poison Damage": 301.17,
+          "Condition Duration": 8,
+          "Boon Duration": 58.46666666666667,
+          "Critical Chance": 104.23809523809524,
+          "Critical Damage": 173.33333333333334,
+          "Burning Duration": 90,
+          "Effective Power": 4584.666666666667,
+          "Power DPS": 3428.349120780388,
+          "Burning Damage": 989.06325,
+          "Burning Stacks": 27.324,
+          "Burning DPS": 27025.164243000003,
+          "Bleeding Damage": 289.85999999999996,
+          "Bleeding Stacks": 3.24,
+          "Bleeding DPS": 939.1464,
+          "Poison Damage": 307.10999999999996,
           "Poison Stacks": 0,
           "Poison DPS": 0,
-          "Torment Damage": 424.0799999999999,
+          "Torment Damage": 432.99,
           "Torment Stacks": 0,
           "Torment DPS": 0,
-          "Confusion Damage": 283.92,
+          "Confusion Damage": 289.85999999999996,
           "Confusion Stacks": 0,
           "Confusion DPS": 0,
-          "Damage": 28529.42725652676,
-          "Effective Health": 59265978.75,
-          "Survivability": 30130.13662938485,
-          "Effective Healing": 720.39,
-          "Healing": 720.39
+          "Damage": 31392.659763780393,
+          "Effective Health": 82735905.17500001,
+          "Survivability": 42061.97517793595,
+          "Effective Healing": 720.7200000000001,
+          "Healing": 720.7200000000001
         },
         "infusions": [
           37130,
@@ -350,17 +350,17 @@ character:
         "runeName": "Balthazar",
         "weapons": {
           "weapon1MainType": "Axe",
-          "weapon1MainSigil1": "bursting",
+          "weapon1MainSigil1Id": 44944,
           "weapon1OffType": "Torch",
-          "weapon1OffSigil": "smoldering",
+          "weapon1OffSigilId": 24624,
           "weapon2MainType": "Staff",
-          "weapon2MainSigil1": "transference",
-          "weapon2MainSigil2": "smoldering"
+          "weapon2MainSigil1Id": 44944,
+          "weapon2MainSigil2Id": 74326
         },
         "consumables": {
-          "food": "bowl-of-fire-meat-chili",
-          "utility": "toxic-focusing-crystal",
-          "infusion": "Malign +9 Agony Infusion"
+          "foodId": 86997,
+          "utilityId": 48917,
+          "infusion": "Mighty +9 Agony Infusion"
         },
         "skills": {
           "heal": "Mantra of Solace",
@@ -370,11 +370,9 @@ character:
         }
       }
     title: Seraph
-    note: '**This is the standard build variant. It provides higher damage then the
+    note: "**This is the standard build variant. It provides higher damage then the
       Celestial build in fractals whilst still providing more than enough
-      support for most groups.** This setup currently overcaps <Condition
-      name="Burning"/> duration. If you want to optimise for 100%, swap one
-      Accessory to Celestial and use <Item id="92505"/>'
+      support for most groups.**"
   - title: Celestial
     gear: |-
       {
@@ -595,7 +593,7 @@ character:
           "elite": "Feel my Wrath"
         }
       }
-date: 2021-09-18T23:13:00.737Z
+date: 2021-09-21T23:17:49.020Z
 ---
 
 <Divider text="Rotation"/>
