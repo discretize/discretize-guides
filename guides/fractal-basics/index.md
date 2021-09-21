@@ -1,10 +1,9 @@
 ---
-title: 'Fractal Basics'
-date: '2021-02-24'
-image: './images/instabilities.jpg'
-description: 'A beginners guide to being successful in fractals.'
-hidden: 'false'
-author: 'Princeps.6481 and Mistlocked [FotM]'
+title: Fractal Basics
+date: 2021-02-24
+image: ./images/instabilities.jpg
+description: A beginners guide to being successful in fractals.
+author: Princeps.6481 and Mistlocked [FotM]
 ---
 
 ## Introduction to fractals
@@ -13,17 +12,18 @@ Fractals of the mists or also frequently called FOTM (or just "fracs") are 5-man
 
 The higher level the more mechanics are added to fractals, the harder hit enemies but you also receive more loot. Starting from level 20 the players need to deal with <Effect name="Agony"/> which requires <Attribute name="Agony Resistance"/> to counter effectively. Every level has a recommendation of how much <Attribute name="Agony Resistance"/> you should have at least. Without <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
 
-<Message>
+<Warning>
 <Effect name="Agony"/> reduces your healing by 70% per stack. Never use your heal skill while you are under the effect of <Effect name="Agony"/>.
-</Message>
+</Warning>
 
 Starting with tier 2 the heroes are encountering _Mistlock instabilities_ which add another layer of difficulty. A complete list of _Mistlock instabilities_ and countermeasures can be found at the bottom of this page.
-| Tier | max. required <Attribute name="Agony Resistance"/> | Instabilities | Description |
-| ---- | ---- | ---- | --- |
-| 1 | 17 | 0 | This tier is meant as an introduction to fractals. Mechanics and damage are very forgiving. |
-| 2 | 61 | 1 | Tier 2 fractals should be played in a party with 5. The mechanics hit slightly harder and you encounter mistlock instabilities and <Effect name="Agony"/> |
-| 3 | 106 | 2 | When starting to do tier 3 fractals you are expected to start reading up on how your class and fractals work. Enemies hit hard, are more frequent and you have to deal with two mistlock instabilities at the same time! |
-| 4 | 150 | 3 | When running tier 4 fractals you should be comfortable with your class and the mechanics. It is expected that you carry your own weight. Running with optimal utility and food as well as fractal potions (<Item id="71659" disableText/>, <Item id="76150" disableText/>, <Item id="75427" disableText/>) is expected. |
+
+| Tier | max. required <Attribute name="Agony Resistance"/> | Instabilities | Description                                                                                                                                                                                                                                                                                                             |
+| ---- | -------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | 17                                                 | 0             | This tier is meant as an introduction to fractals. Mechanics and damage are very forgiving.                                                                                                                                                                                                                             |
+| 2    | 61                                                 | 1             | Tier 2 fractals should be played in a party with 5. The mechanics hit slightly harder and you encounter mistlock instabilities and <Effect name="Agony"/>                                                                                                                                                               |
+| 3    | 106                                                | 2             | When starting to do tier 3 fractals you are expected to start reading up on how your class and fractals work. Enemies hit hard, are more frequent and you have to deal with two mistlock instabilities at the same time!                                                                                                |
+| 4    | 150                                                | 3             | When running tier 4 fractals you should be comfortable with your class and the mechanics. It is expected that you carry your own weight. Running with optimal utility and food as well as fractal potions (<Item id="71659" disableText/>, <Item id="76150" disableText/>, <Item id="75427" disableText/>) is expected. |
 
 ---
 
@@ -31,10 +31,10 @@ Starting with tier 2 the heroes are encountering _Mistlock instabilities_ which 
 
 Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss by 50%. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally everyone in the team contributes to break the bar as it appears.
 
-<Message>
-**Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**  
-Read more about breaking Defiance bars here: [CC-distribution examples](/guides/cc-distribution)! 
-</Message>
+<Warning>
+**Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**  \
+Read more about breaking Defiance bars here: [CC-distribution examples](/guides/cc-distribution)!
+</Warning>
 
 ---
 
@@ -65,7 +65,7 @@ The fractal specific potions influence the way builds are designed. Each of them
 
 ## Acquiring gear to counter <Effect name="Agony"/>
 
-For beginners, it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all 18 infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>. In case you are tight on money you can also slot <Item id="49430"/> and upgrade them later by extracting them with <Item id ="76409"/>.
+For beginners, it is recommended to socket only <Item id="49432"/> in infusion slots of ascended gear since they are the most efficient ones to use and the [builds](/builds) on this website are optimized for having all 18 infusion slots occupied with <Item id="49432"/> to reach 162 <Attribute name="Agony Resistance"/>. In case you are tight on money you can also slot <Item id="49430"/> and upgrade them later by extracting them with <Item id="76409"/>.
 
 For a temporary 15 <Attribute name="Agony Resistance"/> buff, you can buy a <Item id="70596"/> and skip ahead of the suggested table below. We suggest acquiring most of the gear in fractals, however, you of course can buy your gear in WvW or open world or any other place.
 
@@ -73,15 +73,18 @@ For a temporary 15 <Attribute name="Agony Resistance"/> buff, you can buy a <Ite
 
 ### Tier 1: max 17 <Attribute name="Agony Resistance"/>
 
-Requirement: Full exotic gear  
-Optional: Level Chef to 400 (costs about 2.76g, check [gw2crafts.net](https://gw2crafts.net/)), craft <Item id="62921" upgrades='49432'/> which enables a fast track to Tier 2 fractals. Since Tier 1 and 2 are essentially identically in difficulty it is recommended to go that route, however, you will need to exchange the backpiece very soon.
+Requirement: Full exotic gear\
+Optional: Level Chef to 400 (costs about 2.76g, check [gw2crafts.net](https://gw2crafts.net/)), craft <Item id="62921" upgrades="49432"/> which enables a fast track to Tier 2 fractals. Since Tier 1 and 2 are essentially identically in difficulty it is recommended to go that route, however, you will need to exchange the backpiece very soon.
 
 Homework:
 
 - Start working towards the accessories that you can buy with guild commendations or - if you have a lot of spare laurels - buy them for laurels. Keep in mind you need 30 laurels later for crafting your ascended armor.
+
 - Save up relics to buy ascended rings (5 days of T1 fractal dailies are required)
+
 - Alternatively, buy Living World Season 3 Episode 3: A Crack in the ice and farm <Item id="79899"/> for trinkets (or any other living story maps: Bloodstone fen, Dragonfall). The fastest way is to farm both Bitterfrost Frontier and Dragonfall.
-- Craft <Item id="77482"/> or buy an aquivalent via laurels (if your build uses base game stats)
+
+- Craft <Item id="77482"/> or buy an equivalent via laurels (if your build uses base game stats)
 
 ---
 
@@ -89,8 +92,10 @@ Homework:
 
 Acquire on your journey in T2:
 
-- 18 <Attribute name="Agony Resistance"/>: Two ascended accessories of your [build](/builds) of choice. Example: <Item id="39232" upgrades='49432'/> and <Item id="39233" upgrades='49432'/>.
-- 36 <Attribute name="Agony Resistance"/>: By attuning ascended rings. Example: <Item id="75187" upgrades='49432,49432'/> and <Item id="74440" upgrades='49432,49432'/>
+- 18 <Attribute name="Agony Resistance"/>: Two ascended accessories of your [build](/builds) of choice. Example: <Item id="39232" upgrades="49432"/> and <Item id="39233" upgrades="49432"/>.
+
+- 36 <Attribute name="Agony Resistance"/>: By attuning ascended rings. Example: <Item id="75187" upgrades="49432,49432"/> and <Item id="74440" upgrades="49432,49432"/>
+
 - 9 <Attribute name="Agony Resistance"/>: Getting a back item such as: <Item id="79830" upgrades="49432"/>
 
 Homework:
@@ -104,8 +109,10 @@ Homework:
 Acquire on your journey in T3:
 
 - You need 5 more <Item id="49432"/> to fit the maximum requirement of 106 <Attribute name="Agony Resistance"/>.
-- Suggestion: craft 4 ascended armor pieces and hope to get a <Item id="38024"/> to upgrade one of your rings to <Item id="75669" upgrades='49432,49432,49432'/>
-- Alternatively, do strike missions and open the weekly chest for a chance of recieving an ascended armor box.
+
+- Suggestion: craft 4 ascended armor pieces and hope to get a <Item id="38024"/> to upgrade one of your rings to <Item id="75669" upgrades="49432,49432,49432"/>
+
+- Alternatively, do strike missions and open the weekly chest for a chance of receiving an ascended armor box.
 
 Homework:
 
@@ -117,11 +124,15 @@ Homework:
 
 Wrapping up:
 
-1. Finish your ascended armor
-2. Infuse your remaining ring(s)
-3. Craft ascended weapons (easy way: [Caladbolg](https://wiki.guildwars2.com/wiki/Caladbolg_weapons) alternatively profession weapons from Path of Fire)
-4. Infuse your backpack
-5. Upgrade - if necessary - <Item id="49430"/> to <Item id="49432"/>
+1.  Finish your ascended armor
+
+2.  Infuse your remaining ring(s)
+
+3.  Craft ascended weapons (easy way: [Caladbolg](https://wiki.guildwars2.com/wiki/Caladbolg_weapons) alternatively profession weapons from Path of Fire)
+
+4.  Infuse your backpack
+
+5.  Upgrade - if necessary - <Item id="49430"/> to <Item id="49432"/>
 
 Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistance"/> and match the gear in our [builds](/builds) page.
 
@@ -135,7 +146,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 | `QFB` | Quick Firebrand    | `pfb`, `fb`   | <Specialization name="Firebrand" text="Power Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/>              | [Build](/builds/firebrand)          |
 | `HB`  | Heal Firebrand     | `fb`, `hfb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/>, Healer build | [Build](/builds/heal-firebrand)     |
 | `CFB` | Condi Firebrand    | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                  | [Build](/builds/condi-firebrand)    |
-| `Ren` | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilties                                                  | [Build](/builds/renegade)           |
+| `Ren` | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities                                                 | [Build](/builds/renegade)           |
 | `Slb` | Soulbeast          | `dps`         | <Specialization name="Soulbeast"/> as [meta](/guides/meta-explained) DPS                                                            | [Build](/builds/soulbeast)          |
 | `Wea` | Weaver             | `dps`, `ele`  | <Specialization name="Weaver"/> as [meta](/guides/meta-explained) DPS                                                               | [Build](/builds/weaver)             |
 | `DH`  | Dragonhunter       | `dps`         | <Specialization name="Dragonhunter"/> as offmeta DPS                                                                                | [Build](/builds/power-dragonhunter) |
@@ -147,7 +158,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 
 ## Current fractal META
 
-Although most groups in LFG don't follow the META it can be beneficial for you to understand how it works in theory to play your own build more efficiently. All the builds in the META have very specific key roles. It is important to fulfill your role to aid the best possible support to your team (also DPS classes support the team with CC and other unique buffs).
+Although most groups in LFG don't follow the META it can be beneficial for you to understand how it works in theory to play your own build more efficiently. All the builds in the META have very specific key roles. It is important to fulfil your role to aid the best possible support to your team (also DPS classes support the team with CC and other unique buffs).
 
 Please consult the [meta-page](guides/meta-explained) for more information about the current fractal META.
 
@@ -163,8 +174,11 @@ If everyone in the party is dead at the same time, cooldowns will reset for all 
 
 Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization name="Druid"/>'s <Skill id="31869"/> and <Skill name="Reapers Shroud"/> for <Specialization name="Reaper"/> will fully recharge after the resurrection. Also the _Mistlock Singularity_ resets once everyone in the party is dead.
 </GridItem>
+
 <GridItem sm="4">
-<Image src="./images/gg.jpg" caption="A dead player"/>
+
+<MDImage src="guides/fractal-basics/images/gg.jpg" caption="A dead player"/>
+
 </GridItem>
 </Grid>
 
@@ -176,25 +190,31 @@ Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization
 <GridItem sm="12" md="6">
 <Video caption="by Rubby" youtube="sMEBz5MJOk8"/>
 </GridItem>
+
 <GridItem sm="12" md="6">
-After maxing the fractal masteries to level 4 you get access to _Mistlock Singularities_. Taking one of these will reset the cooldowns of all your skills! This allows you to precast certain skills before entering the battle without a penalty. It makes sense to precast <Boon name="Quickness"/>, <Boon name="Alacrity"/> and use blast finishers on certain Combo Fields.
+After maxing the fractal masteries to level 4 you get access to *Mistlock Singularities*. Taking one of these will reset the cooldowns of all your skills! This allows you to precast certain skills before entering the battle without a penalty. It makes sense to precast <Boon name="Quickness"/>, <Boon name="Alacrity"/> and use blast finishers on certain Combo Fields.
 
 The most common applications are <Boon name="Might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="Stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
-<Message>
-Do not use other combo fields than fire on the _Mistlock Singularity_! All combo fields but the _Fire Field_ are useless in terms of prebooning.
-</Message>
+<Warning>
+Do not use other combo fields than fire on the *Mistlock Singularity*! All combo fields but the *Fire Field* are useless in terms of prebooning.
+</Warning>
 </GridItem>
 </Grid>
-You can find out which skills are _Combo Fields_ and _Combo Finishers_ by hovering over the skill and reading the tooltip. Hover over the following skills: <Skill name="Ring of Fire"/> is a _Fire Field_ and <Skill name="Holy Strike"/> a _Blast Finisher_.  
+
+You can find out which skills are _Combo Fields_ and _Combo Finishers_ by hovering over the skill and reading the tooltip. Hover over the following skills: <Skill name="Ring of Fire"/> is a _Fire Field_ and <Skill name="Holy Strike"/> a _Blast Finisher_.\
 Below is a list of frequently used blast finishers among all professions. Note that it is often required to swap to different weapons, make sure to swap back before you enter combat.
 
 ### <Boon name="Might"/> stacking for groups using <Skill name="Moa Stance"/> from <Specialization name="Soulbeast"/>.
 
 - <Specialization name="Renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
+
 - <Specialization name="Firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5), <Skill name="Holy Strike"/> (Staff 2) and <Skill name="Mighty Blow"/> (Hammer 2)
+
 - <Specialization name="Berserker"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
+
 - <Specialization name="Weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
+
 - <Specialization name="Soulbeast"/>: Take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer, use <Skill id="12621"/> (Warhorn 5)
 
 ### Fire fields <Label><Boon name="Might"/> stacking</Label>
@@ -202,43 +222,69 @@ Below is a list of frequently used blast finishers among all professions. Note t
 Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone is back on their main weapon set before starting a fight.**
 
 - <Specialization name="Elementalist"/>:
+
   - <Skill id="5548"/> (Staff 2, <Skill id="5492" disableText/>)
+
   - <Skill id="5691"/> (Dagger 4, <Skill id="5492" disableText/>)
+
   - <Skill id="5497"/> (Focus 4, <Skill id="5492" disableText/>)
-  - <Skill id="29533"/> (Warhorn 5, <Skill id="5492" disableText/>, <Specialization disableText name="Tempest"/>)
+
+  - <Skill id="29533"/> (Warhorn 5, <Skill id="5492" disableText/>, <Specialization name="Tempest" disableText/>)
+
 - <Specialization name="Berserker"/>:
+
   - <Skill id="29940"/> (Torch 5)
+
 - <Specialization name="Ranger"/>:
+
   - <Skill id="12504"/> (Torch 5)
+
 - <Specialization name="Firebrand"/>:
+
   - <Skill id="44364"/> Skill 4 (Chapter 4: Scorched Aftermath)
+
   - <Skill id="9253"/>
+
 - <Specialization name="Renegade"/>:
+
   - <Skill id="45773"/> (<Skill id="41858"/> Elite Skill)
 
 <Grid>
 <GridItem sm="12" md="6">
-### Smoke fields <Label><Effect name="Stealth"/> stacking</Label>
+
+### Smoke fields <Label> <Effect name="Stealth"/> stacking </Label>
 
 Be careful not to aggro mobs with blasts or you will get <Effect name="Revealed"/>.
 
 - <Specialization name="Thief"/>:
+
   - <Skill id="13113"/> (Pistol 5)
+
   - <Skill id="13065"/>
+
 - <Specialization name="Ranger"/>:
+
   - <Skill id="31568"/> (Smokescale pet)
+
 - <Specialization name="Engineer"/>:
+
   - <Skill id="5824"/> (Bomb kit)
 
 </GridItem>
+
 <GridItem sm="12" md="6">
 #### Other skills that grant party <Effect name="Stealth"/>
 
 - <Specialization name="Mesmer"/>:
+
   - <Skill id="10245"/>
+
   - <Skill id="10187"/>
-  - Double any skill with <Skill id="29830"/> (<Specialization disableText name="Chronomancer"/>)
+
+  - Double any skill with <Skill id="29830"/> (<Specialization name="Chronomancer" disableText/>)
+
 - <Specialization name="Thief"/>:
+
   - <Skill id="13117"/>
 
 </GridItem>
@@ -294,9 +340,13 @@ Below is a list of all current instabilities and their possible countermeasures.
 ## Key findings
 
 - Don't use your heal skill while under the effect of <Effect name="Agony"/>.
+
 - CC the boss first, then use your burst skills. **Everyone has to contribute!**
+
 - Only use _Fire Fields_ on the _Mistlock Singularity_ during pre-stacking.
+
 - Always stack together, boons are shared in close proximity.
+
 - Don't be afraid to communicate with your team if you are new.
 
 ---
@@ -305,10 +355,13 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 <Grid>
 <GridItem sm="1" md="1">
-<Image src="images/mistlocked.png" caption="[FotM]" />
+
+<MDImage src="guides/fractal-basics/images/mistlocked.png" caption="[FotM]"/>
+
 </GridItem>
+
 <GridItem sm="11" md="11">
-Mistlocked [FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!  
+Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!\
 While Fractals are their main focus, they do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons!
 
 All information is available on their [discord](https://discord.gg/CE3TswT).

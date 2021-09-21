@@ -1,34 +1,48 @@
 ---
-title: 'Twilight Oasis'
-date: '2021-02-24'
-image: './images/header.jpg'
-group: 'T4'
+date: 2021-02-24
+cycle: Night
+consumables:
+  - 78978
+  - 8764
+  - 8801
+record:
+  time: '6:50'
+  by:
+    - name: Discretize
+      tag: dT
+  youtube:
+    - id: N0dwuUeFoNo
+      name: Metagame
+      specialization: Chronomancer
+    - id: -oH2DE07cKY
+      name: Nimajeb
+      specialization: Spellbreaker
+    - id: -BA76INzsxw
+      name: Hyperiel
+      specialization: Holosmith
+    - id: BtfjQbzRg5E
+      name: Hutselflutsje
+      specialization: Weaver
+title: Twilight Oasis
+image: ./images/header.jpg
+group: T4
 api: 3973
 bosses: 3
-difficulties: [{ level: 87, ar: 127 }]
-cycle: 'Night'
-sigils: [{ id: 36053 }, { id: 24615 }]
-consumables: [78978, 8764, 8801]
-record:
-  {
-    time: '6:50',
-    by: [{ name: 'Discretize', tag: 'dT' }],
-    youtube:
-      [
-        { id: 'N0dwuUeFoNo', name: 'Metagame', specialization: 'Chronomancer' },
-        { id: '-oH2DE07cKY', name: 'Nimajeb', specialization: 'Spellbreaker' },
-        { id: '-BA76INzsxw', name: 'Hyperiel', specialization: 'Holosmith' },
-        { id: 'BtfjQbzRg5E', name: 'Hutselflutsje', specialization: 'Weaver' },
-      ],
-  }
+difficulties:
+  - level: 87
+    ar: 127
+sigils:
+  - id: 36053
+  - id: 24615
 ---
 
 <Grid>
 <GridItem sm="7">
-<Image src="./images/start.jpg" caption="The starting area"/>  
-  
-## Start: Run!  
-  
+
+<MDImage src="fractals/twilight-oasis/images/start.jpg" caption="The starting area"/>
+
+## Start: Run!
+
 Let your <Specialization name="Renegade"/> skip the first part or use <Effect name="Stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders. If the instabilities are too harsh, you can take your time killing them as some of them will follow you to the first Sand Binder but it will make the fractal way longer than it should be!
 </GridItem>
 
@@ -56,12 +70,11 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply ca
 <Tabs>
 <Tab specialization="Renegade">
 You can skip this first part with <Item id="78978"/>.
-  
-<Video title="Renegade skip" youtube="xHeZuQ5zWMU"/> 
+
+<Video title="Renegade skip" youtube="xHeZuQ5zWMU"/>
 </Tab>
 </Tabs>
 </GridItem>
-
 </Grid>
 
 ## First Sandbinder
@@ -76,11 +89,14 @@ Treat each Sandbinder like any immobile boss and attack accordingly. Keep in min
 
 <Grid>
 <GridItem sm="4">
-<Image src="./images/header.jpg" caption="Entry to Amala"/>
+
+<MDImage src="fractals/twilight-oasis/images/header.jpg" caption="Entry to Amala"/>
+
 </GridItem>
 
 <GridItem sm="8">
 ## Priestess Amala (Basic)
+
 Next up you will encounter Priestess Amala for the first time, bring her to 75% health and she wipes your party to praise Joko.
 
 She uses the _Scythe Slash_ attack (causes <Control name="Knockback"/>) and a basic version of her 9-part attack chain applying <Condition name="Bleeding"/> with each AoE.
@@ -96,20 +112,24 @@ You can freely use `/gg` after she downs the party to reset cooldowns, just wait
 <Grid>
 <GridItem sm="7">
 Now that you're awakened, you gain access to a new special action skill which launches you high into the air and breaks <Control name="Stun"/>. It doesn't have a cooldown out of combat so do not get in fight during skips if possible.
-    
+
 It can also be used to jump while casting any skill that requires you to stand still otherwise, as long as you do not move in any direction (<Skill id="5501" profession="Weaver"/> and similar skills).
 
 Jump up to the roof on the right-hand side and kill two Sandbinders on the roofs. The first is a copy of the Sandbinder you fought at the beginning, the second one also uses Dwayna's _Lightning Storm_ (strafe sideways from allies to avoid it).
 
 It is also possible to skip the tornado between the two Sandbinder using this portal skip shown below.
-<Message>
+
+<Warning>
 Please note that you can't `/gg` after any Sandbinder, because you spawn behind the ideal checkpoints.
-</Message>
+</Warning>
 </GridItem>
 
 <GridItem sm="5">
-<Image src="./images/first_sandbinder.jpg" caption="The First Sandbinder on the roof"/>
-<Image src="./images/second_sandbinder.jpg" caption="The Second Sandbinder"/>
+
+<MDImage src="fractals/twilight-oasis/images/first_sandbinder.jpg" caption="The First Sandbinder on the roof"/>
+
+<MDImage src="fractals/twilight-oasis/images/second_sandbinder.jpg" caption="The Second Sandbinder"/>
+
 </GridItem>
 
 <GridItem sm="12">
@@ -117,48 +137,52 @@ Please note that you can't `/gg` after any Sandbinder, because you spawn behind 
 <Tab title="Slower skip">
 <Video title="Any class" timestamp="306" youtube="MmJTsOhdQeo"/>
 </Tab>
+
 <Tab title="Faster skip">
 <Video title="Any class" timestamp="341" youtube="MmJTsOhdQeo"/>
 </Tab>
 </Tabs>
-
 </GridItem>
-
 </Grid>
-
-
 
 ---
 
 ## Priestess Amala
-<Message>
-**Bring boon removal because she is spamming <Boon name="Protection"/> on herself like there is no tomorrow!**  
-</Message>  
+
+<Warning>
+**Bring boon removal because she is spamming <Boon name="Protection"/> on herself like there is no tomorrow!**
+</Warning>
+
 Stack <Boon name="Might"/> and be ready to dodge the initial <Control name="Knockback"/> after activating the encounter.
 
 <Grid>
 <GridItem sm="9">
 ### Permanent Mechanics
-| | |
-| -- | -- |
-| **Breakbars** | A breakbar will occur at 85, 65, 45, 25 and 5% health. Amala will cancel any ability and teleport to the middle, break her bar or she deals high damage to the team and recovers health. |
-| **Scythe Slash** | A small AoE centered around Amala that will <Control name="Knockback"/> players hit by it. |
-| **Scythe Combo** (below 85% health) | A 9-part attack chain dealing AoE in a fixed pattern, depending on the current god incorporation. |
-| **Energy Wave** (below 85% health) | This attack is telegraphed by a small AoE on the ground, which then erupts into a large shockwave after 2.5 seconds. This can be avoided by either dodging, blocking or using sak. |
+
+|                                     |                                                                                                                                                                                          |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Breakbars**                       | A breakbar will occur at 85, 65, 45, 25 and 5% health. Amala will cancel any ability and teleport to the middle, break her bar or she deals high damage to the team and recovers health. |
+| **Scythe Slash**                    | A small AoE centered around Amala that will <Control name="Knockback"/> players hit by it.                                                                                               |
+| **Scythe Combo** (below 85% health) | A 9-part attack chain dealing AoE in a fixed pattern, depending on the current god incorporation.                                                                                        |
+| **Energy Wave** (below 85% health)  | This attack is telegraphed by a small AoE on the ground, which then erupts into a large shockwave after 2.5 seconds. This can be avoided by either dodging, blocking or using SAK.       |
+
 </GridItem>
 
 <GridItem sm="3">
-<Image src="./images/praise_joko.jpg" caption="Praise Joko."/>
+
+<MDImage src="fractals/twilight-oasis/images/praise_joko.jpg" caption="Praise Joko."/>
+
 </GridItem>
 </Grid>
 
 ### Lyssa <Label>100%-85%</Label>
 
-First off, figure out which out of all the clones is the real Amala and ping her for the other players.
-There are a few tells to help you:
+First off, figure out which out of all the clones is the real Amala and ping her for the other players.There are a few tells to help you:
 
 - Amala herself is the only Legendary rank enemy, other clones are above level 80
+
 - She uses _Scythe Slash_ when someone is in melee range
+
 - When she uses her _Moa Signet_, the <Skill id="29519"/> icon will appear above her
 
 The player targeted by the _Moa Signet_ should use sak the moment it completes to prevent others from being transformed.
@@ -177,7 +201,7 @@ The biggest danger of this phase is the _Earth Elemental_, which has a multitude
 
 In this phase, Amala's **Scythe Combo** AoEs apply a small <Control name="Knockback"/>, but many of them can be avoided by stacking directly on her. Make sure to dodge the _Eruption_ (delayed AoE appearing below random players) and ring-shaped attacks, as they <Control name="Knockdown"/> as well.
 
-<Image src="./images/amala.jpg" caption="Amala invoking the human gods"/>
+<MDImage src="fractals/twilight-oasis/images/amala.jpg" caption="Amala invoking the human gods"/>
 
 #### Priestess of Melandru
 

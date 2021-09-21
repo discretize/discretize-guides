@@ -1,45 +1,58 @@
 ---
-title: 'Chaos Isles'
-date: '2021-02-24'
-image: './images/legendary_brazen_gladiator.jpg'
-group: 'T4'
+date: 2021-02-24
+cycle: Day
+consumables:
+  - 49940
+record:
+  time: '3:48'
+  by:
+    - name: Discretize
+      tag: dT
+  youtube:
+    - id: WN_ohtdzUEY
+      name: Hyperiel
+      specialization: Chronomancer
+    - id: W0heJU1YHRs
+      name: Metagame
+      specialization: Warrior
+    - id: p4Swksv1-To
+      name: Nimajeb
+      specialization: Holosmith
+    - id: uCu_f50blpc
+      name: Xarlor
+      specialization: Weaver
+title: Chaos Isles
+image: ./images/legendary_brazen_gladiator.jpg
+group: T4
 api: 3038
 bosses: 2
-difficulties: [{ level: 88, ar: 129 }, { level: 97, ar: 145 }]
-record:
-  {
-    time: '3:48',
-    by: [{ name: 'Discretize', tag: 'dT' }],
-    youtube:
-      [
-        { id: 'WN_ohtdzUEY', name: 'Hyperiel', specialization: 'Chronomancer' },
-        { id: 'W0heJU1YHRs', name: 'Metagame', specialization: 'Warrior' },
-        { id: 'p4Swksv1-To', name: 'Nimajeb', specialization: 'Holosmith' },
-        { id: 'uCu_f50blpc', name: 'Xarlor', specialization: 'Weaver' },
-      ],
-  }
-cycle: 'Day'
+difficulties:
+  - level: 88
+    ar: 129
+  - level: 97
+    ar: 145
 sigils:
-  [
-    { id: 24615 },
-    { id: 24554, description: 'for the Chaos Anomaly' },
-    { id: 24868 },
-  ]
-consumables: [49940]
+  - id: 24615
+  - id: 24554
+    description: for the Chaos Anomaly
+  - id: 24868
 ---
 
 <Grid>
 <GridItem sm="8">
-## Start: You think this is Cliffside  
-  
-Kill the four *Veteran Chanters* at the beginning to open the gate on the right-hand side. The fastest person can rush ahead and move to the next checkpoint at the *Chaos Anomaly*, everyone else can `/gg` and resurrect at the checkpoint there.
+## Start: You think this is Cliffside
+
+Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-hand side. The fastest person can rush ahead and move to the next checkpoint at the _Chaos Anomaly_, everyone else can `/gg` and resurrect at the checkpoint there.
 </GridItem>
+
 <GridItem sm="4">
-<Image src="./images/start.jpg" caption="The starting area"/>
+
+<MDImage src="fractals/chaos-isles/images/start.jpg" caption="The starting area"/>
+
 </GridItem>
-  
+
 <GridItem sm="12">
-<Video title="Skip to Chaos Anomaly (Any class)" timestamp="19" youtube="Alpgs_GaZV0"/>  
+<Video title="Skip to Chaos Anomaly (Any class)" timestamp="19" youtube="Alpgs_GaZV0"/>
 </GridItem>
 </Grid>
 
@@ -71,44 +84,44 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 </GridItem>
 </Grid>
 
-<Image src="./images/kitty_golems.jpg" caption="The four K1T-A golems before the Chaos Anomaly"/>
+<MDImage src="fractals/chaos-isles/images/kitty_golems.jpg" caption="The four K1T-A golems before the Chaos Anomaly"/>
 
 ---
 
 <Grid>
 <GridItem sm="5">
-<Image src="./images/forest.jpg" caption="The blizzard forest"/>
+
+<MDImage src="fractals/chaos-isles/images/forest.jpg" caption="The blizzard forest"/>
+
 </GridItem>
-  
+
 <GridItem sm="7">
 ## Blizzard path (Forest)
 
-You will need to enlighten four *bonfires* on the path to progress to the end boss, **the *Enlighten* charges have unlimited use so this can be soloed** but if you want to be safe simply wait for everyone.
+You will need to enlighten four _bonfires_ on the path to progress to the end boss, **the _Enlighten_ charges have unlimited use so this can be soloed** but if you want to be safe simply wait for everyone.
 
-You can stack <Effect name="Stealth"/> to skip the mobs though it usually is not necessary. 
-Learn to dodge the tentacle <Control name="Knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
-
+You can stack <Effect name="Stealth"/> to skip the mobs though it usually is not necessary.Learn to dodge the tentacle <Control name="Knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
 </GridItem>
 </Grid>
 
 ---
 
-
 <Grid>
 <GridItem sm="8">
-## Legendary Brazen Gladiator  
-  
-The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.    
-He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and invulnerables or simply do not stand in front of him when it hits. Learn to recognize the animation.
+## Legendary Brazen Gladiator
 
-Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.  
+The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.\
+He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and skills that make you invulnerable or simply do not stand in front of him when it hits. Learn to recognize the animation.
+
+Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.\
 Another trick is to bypass the damage from purple zones by repeated jumping.
 
 Starting at 50% health, he will randomly start a _pulling attack_ which can be prevented by breaking his defiance bar. Save your crowd control skills for this.
 
 Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Control name="Knockback"/> and can shove you off the platform.
 
-<Image src="./images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
+<MDImage src="fractals/chaos-isles/images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
+
 </GridItem>
 
 <GridItem sm="4">
@@ -116,8 +129,8 @@ Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Con
 <Tab specialization="Revenant">
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="Daze"/>.
 </Tab>
-</Tabs> 
-  
+</Tabs>
+
 <Tabs>
 <Tab specialization="soulbeast">
 Use <Skill name="Path of Scars"/> to pull the small JT-12 golems closer. <Skill name="Dolyak stance"/> with the trait <Trait name=" Leader of the Pack"/> gives the whole party <Boon name="Stability"/>.
@@ -133,9 +146,7 @@ Tome 3 skill 1 and 5 grants <Boon name="Stability"/>, if that's not enough take 
 <Tabs>
 <Tab specialization="Berserker">
 Take <Skill name="Headbutt"/> for the 50% Defiance bar and <Skill name="Outrage"/> against the <Control name="Daze"/>!
-</Tab>  
+</Tab>
 </Tabs>
 </GridItem>
 </Grid>
-
-
