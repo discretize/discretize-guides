@@ -40,6 +40,7 @@ sigils:
 
 <Grid>
 <GridItem sm="8">
+
 ## Start: You think this is Cliffside
 
 Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-hand side. The fastest person can rush ahead and move to the next checkpoint at the _Chaos Anomaly_, everyone else can `/gg` and resurrect at the checkpoint there.
@@ -62,6 +63,7 @@ Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-
 
 <Grid>
 <GridItem>
+
 Stack <Boon name="Might"/> before the four *K1T-A golems* and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health.
 
 Pay attention to the <Control name="Knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
@@ -70,14 +72,17 @@ Pay attention to the <Control name="Knockback"/> zones from the small JT-12 gole
 <GridItem>
 <Tabs>
 <Tab specialization="Revenant">
+
 It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade variant for more energy for the whole fight.
 </Tab>
 
 <Tab specialization="Guardian">
+
 You can use <Skill name="Binding Blade"/> to group the little cats at the start and then every phase of Chaos Anomaly, the position you need to place yourself for perfect pull can vary based on what cat you killed last, there are variations you can't pull all of them, only 2.
 </Tab>
 
 <Tab specialization="ranger">
+
 Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 </Tabs>
@@ -96,6 +101,7 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 </GridItem>
 
 <GridItem sm="7">
+
 ## Blizzard path (Forest)
 
 You will need to enlighten four _bonfires_ on the path to progress to the end boss, **the _Enlighten_ charges have unlimited use so this can be soloed** but if you want to be safe simply wait for everyone.
@@ -108,6 +114,7 @@ You can stack <Effect name="Stealth"/> to skip the mobs though it usually is not
 
 <Grid>
 <GridItem sm="8">
+
 ## Legendary Brazen Gladiator
 
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.\

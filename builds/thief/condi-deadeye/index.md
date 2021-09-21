@@ -316,6 +316,7 @@ benchmark:
 <Card title="Rotation">
 
 <Warning>
+
 **Make sure to only press <Skill name="mercy"/> *after* completing <Skill name="malicioussneakattack"/> !**
 </Warning>
 
@@ -327,12 +328,14 @@ benchmark:
 
 4.  **<Skill name="Repeater"/> Three times** (Pistol 3)
 
-5.  **One Stealth Ability**\*
+5.  **One Stealth Ability**
 
 6.  <Skill name="malicioussneakattack"/>
 
 <Warning>
-\***Stealth abilities priority: <Skill name="stealtime"/> > <Skill name="hideinshadows"/> > <Skill name="shadowmeld"/> > <Skill name="cloakanddagger"/>(only if <Skill name="deadeyesmark"/> is coming off cooldown).**
+
+**Stealth abilities priority: <Skill name="stealtime"/> > <Skill name="hideinshadows"/> > <Skill name="shadowmeld"/> > <Skill name="cloakanddagger"/> (only if <Skill name="deadeyesmark"/> is coming off cooldown).**
+
 </Warning>
 
 **Repeat from 2.** Use <Skill name="deadeyesmark"/>, <Skill name="skalevenom"/> and <Skill name="spidervenom"/> whenever these abilities go off cooldown.
@@ -347,7 +350,7 @@ benchmark:
 
 <Card title="Precasting">
 
-All Damaging Venom Skills should be casted on the _Mistlock Singularity_:<Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown.
+All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown.
 
 1.  Spam <Skill name="clusterbomb"/> for <Boon name="might"/> blasts on the _Mistlock Singularity_.
 

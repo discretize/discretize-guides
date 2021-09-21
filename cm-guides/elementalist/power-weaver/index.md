@@ -9,6 +9,7 @@ disableBosses: ['LightAi', 'DarkAi']
 
 <ConditionalComponent condition="pug">
 <Boss name="MAMA" video="KlTuxWA9uKE" videoCreator="Elda [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="force" weapon1OffInfusionId="37131">
+
 This version is made mostly for PuGs that are not phasing fast enough to get profit from <Skill id="44612"/>. If group is good you can follow the organised rotation and just add <Skill id="5687"/> at start of the boss for cc (it will be up for phase 3). Precast <Skill id="40183"/> for 1 tick in <Skill id="5494"/>/<Skill id="5494"/> at the beginning of each phase.
 </Boss>
 
@@ -94,6 +95,7 @@ This version is made mostly for PuGs that are not phasing fast enough to get pro
 <ConditionalComponent condition="static">
 <Boss name="MAMA" video="WFYMOt5gf_4" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="force" weapon1OffInfusionId="37131">
 <Warning>
+
 This build only works if you kill MAMA in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
 </Warning>
 
@@ -177,6 +179,7 @@ In more organised groups it's recommended to run <Specialization name="Tempest"/
 
 <ConditionalComponent condition="pug">
 <Boss name="siax" video="XnTBfLMMic4" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
+
 This version is made mostly for pugs that are not phasing fast enough to profit from <Skill id="44612"/> and where you have to solo your add. Use <Skill id="40183"/> slightly delayed to get more <Condition name="Burning"/> ticks.
 </Boss>
 
@@ -228,6 +231,7 @@ This version is made mostly for pugs that are not phasing fast enough to profit 
 <ConditionalComponent condition="static">
 <Boss name="siax" video="toqlXSTRSVg" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="signetofrestoration" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 <Warning>
+
 This build only works if you kill Siax in less than 55 seconds. If there is any doubt about the kill time, go with the PuG version.
 </Warning>
 
@@ -289,6 +293,7 @@ In more organised groups it's recommended to run <Specialization name="Tempest"/
 
 <ConditionalComponent condition="pug">
 <Boss name="ensolyss" video="dAn5Uy0--hc" timestamp="" videoCreator="Elda [dT]" foodId="41569" utilityId="50082" heal="glyphofelementalharmony" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
+
 If group DPS is low its recommended to run <Trait id="214"/> instead of <Trait id="1502"/>. In PuGs it is recommended to use the raid rotation from Snow Crows.Use <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>. If phases are long try to use next ones in <Skill id="5492"/>/<Skill id="5494"/> -> <Skill id="5492"/>/<Skill id="5492"/> to get more burning stacks. Spam your <Skill id="5539"/> during <Effect name="Exposed"/> window.
 </Boss>
 
@@ -348,6 +353,7 @@ If group DPS is low its recommended to run <Trait id="214"/> instead of <Trait i
 
 <ConditionalComponent condition="static">
 <Boss name="ensolyss" video="0mmm-CBLrn8" videoCreator="KalzeN [dT]" foodId="41569" utilityId="50082" heal="arcanebrilliance" utility1="arcaneblast" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
+
 Use first <Skill id="40183"/> precasted for instant <Condition name="Vulnerability"/>, if phases are long try to use the next ones in <Skill id="5492"/>/<Skill id="5494"/> -> <Skill id="5492"/>/<Skill id="5492"/> to get more <Condition name="Burning"/> stacks.
 </Boss>
 
@@ -417,6 +423,7 @@ Use first <Skill id="40183"/> precasted for instant <Condition name="Vulnerabili
 
 <ConditionalComponent condition="pug">
 <Boss name="skorvald" video="RoixkWVPAaU" timestamp="" videoCreator="Elda [dT]" foodId="41569" utilityId="9443" heal="arcanebrilliance" utility1="primordialstance" utility2="glyphofstorms" utility3="unravel" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="force" weapon1OffInfusionId="37131">
+
 Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase, if playing <Skill id="5539"/> spam it during <Effect name="Exposed"/> window.
 </Boss>
 
@@ -491,12 +498,14 @@ Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the
 
 <ConditionalComponent condition="static">
 <Boss name="skorvald" video="DaKI7Ccr_Ss" videoCreator="Tym [dT]" foodId="91805" utilityId="9443" heal="arcanebrilliance" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="force" weapon1OffInfusionId="37131">
+
 -   Make sure to drop your <Skill id="5516"/> on the 4th platform ASAP so that your <Specialization name="Soulbeast"/> can pick it up before taking the Portal
 
 -   In **VERY** fast groups it's not that bad to use <Skill id="5539"/> instead of <Skill id="40183"/>. Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase, if playing <Skill id="5539"/> spam it during <Effect name="Exposed"/> window.
 
 
 <Warning>
+
 One of the most important things in this fight is to keep up <Boon name="Might"/> and boons at the four *Elite Flux Anomalies*. To achieve this you need to be fast enough with your damage, hit your blasts correctly and not get hit by the shockwaves and knockbacks.
 </Warning>
 </Boss>
@@ -583,6 +592,7 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 
 <ConditionalComponent condition="pug">
 <Boss name="artsariiv" video="FErf2jfVRRM" timestamp="" videoCreator="Elda [dT]" foodId="41569" utilityId="9443" heal="glyphofelementalharmony" utility1="primordialstance" utility2="glyphofstorms" utility3="arcaneblast" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="force" weapon1OffInfusionId="37131">
+
 -   Play <Trait name="ragingstorm"/> over <Trait name="stormsoul"/>!
 
 -   Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase.
@@ -647,6 +657,7 @@ One of the most important things in this fight is to keep up <Boon name="Might"/
 
 <ConditionalComponent condition="static">
 <Boss name="Artsariiv" video="DaKI7Ccr_Ss" timestamp="109" videoCreator="Tym [dT]" foodId="91805" utilityId="9443" heal="arcanebrilliance" utility1="primordialstance" utility2="glyphofstorms" utility3="arcaneblast" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="force" weapon1OffInfusionId="37131">
+
 -   Play <Trait name="ragingstorm"/> over <Trait name="stormsoul"/>!
 
 -   Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase.
@@ -743,6 +754,7 @@ It's not that easy precast and opener, it's recommended to check any PoV before 
 
 <ConditionalComponent condition="pug">
 <Boss name="arkk" video="9pMxn4HtUyI" timestamp="" videoCreator="Elda [dT]" foodId="41569" utilityId="50082" heal="glyphofelementalharmony" utility1="primordialstance" utility2="glyphofstorms" utility3="arcaneblast" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="force" weapon1OffInfusionId="37131">
+
 -   Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase and mini bosses.
 
 -   Spam your <Skill id="5539"/> during <Effect name="Exposed"/> window. Use one blast at start of phase 1 and in phase 3 when <Skill name="onewolfpack"/> is up.
@@ -858,6 +870,7 @@ It's not that easy precast and opener, it's recommended to check any PoV before 
 
 <ConditionalComponent condition="static">
 <Boss name="Arkk" video="DaKI7Ccr_Ss" timestamp="212" videoCreator="Tym [dT]" foodId="91805" utilityId="50082" heal="glyphofelementalharmony" utility1="primordialstance" utility2="glyphofstorms" utility3="arcaneblast" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="force" weapon1OffInfusionId="37131">
+
 -   Precast <Skill id="40183"/> for instant <Condition name="Vulnerability"/> at the start of each phase and mini bosses.
 
 -   Spam your <Skill id="5539"/> during <Effect name="Exposed"/> window. Use one blast at start of phase 1 and in phase 3 when <Skill name="onewolfpack"/> is up.

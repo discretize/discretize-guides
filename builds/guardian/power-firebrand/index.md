@@ -18,7 +18,7 @@ sections:
 
       <Warning>
 
-      Its worth mentioning that \*<Specialization text="Power Quickness Firebrand" name="Firebrand"/>\* is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run \*<BuildLink build="Condi Firebrand" specialization="Firebrand"/>\* as it provides much higher sustained DPS.
+      Its worth mentioning that <Specialization text="Power Quickness Firebrand" name="Firebrand"/> is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run <BuildLink build="Condi Firebrand" specialization="Firebrand"/> as it provides much higher sustained DPS.
 
       </Warning>
   - type: equipment
@@ -61,7 +61,7 @@ sections:
       - Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
 
 
-      - Greatswords and foci with (see \[Cheat Sheet]\(/guides/cheat-sheet))
+      - Greatswords and foci with (see [Cheat Sheet](/guides/cheat-sheet))
 
 
       - Maces for symbol precast
@@ -473,14 +473,14 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <Card title="Firebrand openers">
 
-<Video caption="by MagicBot \[dT], edited by Vince \[dT]" youtube="pFUHvaqPOO0"/>
+<Video caption="by MagicBot [dT], edited by Vince [dT]" youtube="pFUHvaqPOO0"/>
 </Card>
 </GridItem>
 
 <GridItem xs="12" sm="6">
 <Card title="Precasting">
 
-If you have a \_Mistlock Singularity\_ present you can use these skills for precasts:
+If you have a _Mistlock Singularity_ present you can use these skills for precasts:
 
 1.  Cast <Skill name="tome of justice"/> skill 4 and 5
 
@@ -494,7 +494,7 @@ If you have a \_Mistlock Singularity\_ present you can use these skills for prec
 
 6.  Use <Skill name="banesignet"/>
 
-7.  Take \_Mistlock Singularity\_
+7.  Take _Mistlock Singularity_
 
 8.  Use <Skill name="Feelmywrath"/>
 
@@ -538,7 +538,7 @@ If you have a \_Mistlock Singularity\_ present you can use these skills for prec
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="G1Y1u4ZwJh8" caption="MajesticNoodle \[BATS]"/>
+<Video youtube="G1Y1u4ZwJh8" caption="MajesticNoodle [BATS]"/>
 </Card>
 </GridItem>
 </Grid>

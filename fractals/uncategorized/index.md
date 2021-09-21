@@ -39,6 +39,7 @@ consumables: [78978, 49940, 8764, 8801]
 
 <Grid>
 <GridItem sm="7">
+
 ## Start
 
 **Option 1 (recommended):** The whole party stacks <Effect name="Stealth"/> and skips together until the holding area. If a single Harpy spawned immediately at the begin, you can kill it before stealthing.
@@ -57,18 +58,22 @@ Reflects are strong here as well, especially against the Fire Shaman's projectil
 
 <Tabs>
 <Tab specialization="Weaver">
+
 If positioned correctly, you can use <Skill id="5697"/> against the wall and deal lots of damage to the adds.
 </Tab>
 
 <Tab specialization="Berserker">
+
 Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly!
 </Tab>
 
 <Tab specialization="Firebrand">
+
 Try to share <Boon name="Aegis"/> with your group by using <Skill name="Mantra of Solace"/> when the Ettin is about to hit the group.
 </Tab>
 
 <Tab specialization="Holosmith">
+
 You can use <Skill name="Holographic Shockwave"/> and <Skill name="Primelight Beam"/> to help break the defiance bars. Try to land those skills on all adds!
 </Tab>
 </Tabs>
@@ -77,15 +82,16 @@ You can use <Skill name="Holographic Shockwave"/> and <Skill name="Primelight Be
 <GridItem sm="5">
 <Tabs>
 <Tab specialization="Thief">
-Use the smoke field from <Skill id="13113"/> or <Skill id="13065" profession="Daredevil"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.\
-<Skill id="13065"/> is also useful against the Holding Area bosses.
+Use the smoke field from <Skill id="13113"/> or <Skill id="13065" profession="Daredevil"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>. <Skill id="13065"/> is also useful against the Holding Area bosses.
 </Tab>
 
 <Tab specialization="Ranger">
+
 Use <Skill id="31568"/> from your Smokescale pet and blast the smoke field to stack <Effect name="Stealth"/>.
 </Tab>
 
 <Tab specialization="Engineer">
+
 You can spec into <Specialization name="Scrapper"/> and use the <Skill name="Sneak Gyro"/> which grants lots of <Effect name="Stealth"/> for your party. Alternatively, use <Skill id="5824"/> in the <Skill name="Bomb Kit"/> for a smoke field which you can then blast to stack <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
@@ -98,6 +104,7 @@ You can spec into <Specialization name="Scrapper"/> and use the <Skill name="Sne
 
 <Grid>
 <GridItem sm="8">
+
 ## Pulsing Orbs
 
 After killing the adds, walk past the three Harpies and run up the ramp towards Old Tom. You can dodge through or reflect the pulsing orbs and even skip the last part by walking on the left wall.
@@ -118,6 +125,7 @@ Note: Activating all three consoles at the same time will turn off the turrets. 
 </GridItem>
 
 <GridItem sm="8">
+
 ## Old Tom <Item id="8887" disableText/><Item id="24672" disableText/>
 
 Stack <Boon name="Might"/> before Old Tom, break his defiance bar as quickly as possible and burst him down. Be careful with <Effect name="Agony"/> and try to not stand in his hitbox or very close to him while he is firing his projectiles. <Specialization name="Soulbeast"/> can use <Skill id="12489"/> or take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to help out with the Poison from the green projectiles.
@@ -128,6 +136,7 @@ Stack <Boon name="Might"/> before Old Tom, break his defiance bar as quickly as 
 
 <Grid>
 <GridItem sm="5">
+
 ## Raving Asura <Item id="8887" disableText/><Item id="24672" disableText/>
 
 Stack <Effect name="Stealth"/> before the Harpies and jump to the top. As soon as someone reaches the top level, you can safely use `/gg` and resurrect at the checkpoint there. Watch your objectives list on the top right of the screen. As soon as you see a change in the objective you have triggered the checkpoint and may use `/gg`.

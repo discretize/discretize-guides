@@ -95,6 +95,7 @@ Treat each Sandbinder like any immobile boss and attack accordingly. Keep in min
 </GridItem>
 
 <GridItem sm="8">
+
 ## Priestess Amala (Basic)
 
 Next up you will encounter Priestess Amala for the first time, bring her to 75% health and she wipes your party to praise Joko.
@@ -111,6 +112,7 @@ You can freely use `/gg` after she downs the party to reset cooldowns, just wait
 
 <Grid>
 <GridItem sm="7">
+
 Now that you're awakened, you gain access to a new special action skill which launches you high into the air and breaks <Control name="Stun"/>. It doesn't have a cooldown out of combat so do not get in fight during skips if possible.
 
 It can also be used to jump while casting any skill that requires you to stand still otherwise, as long as you do not move in any direction (<Skill id="5501" profession="Weaver"/> and similar skills).
@@ -157,6 +159,7 @@ Stack <Boon name="Might"/> and be ready to dodge the initial <Control name="Knoc
 
 <Grid>
 <GridItem sm="9">
+
 ### Permanent Mechanics
 
 |                                     |                                                                                                                                                                                          |

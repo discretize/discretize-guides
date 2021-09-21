@@ -600,6 +600,7 @@ Tempest precasting build template:
 
 <GridItem xs="12" sm="12">
 <Card title="Rotation (Bolt to the Heart)">
+
 The general idea is to loop between <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> using your strongest skills like <Skill name="Invoke Lightning"/> in Fire with <Trait name="Elements of Rage"/> up.
 
 <Grid>
@@ -608,6 +609,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 
 <GridItem sm="10">
+
 1.  <Skill name="Lightning Storm"/>
 
 2.  <Skill name="Quantum Strike"/>
@@ -619,6 +621,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 
 <GridItem sm="10">
+
 1.  <Skill name="Pyro Vortex"/>
 
 2.  <Skill name="Ride the Lightning"/>
@@ -637,6 +640,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 
 <GridItem sm="10">
+
 1.  <Skill name="Invoke Lightning"/>   \
     <Label>Only if pre-casted LH</Label>
 
@@ -656,6 +660,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 
 <GridItem sm="10">
+
 1.  <Skill name="Ring of Fire"/>
 
 2.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
@@ -669,6 +674,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 
 <GridItem sm="10">
+
 1.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
 
 2.  <Skill name="Quantum Strike"/>
@@ -680,6 +686,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 
 <GridItem sm="10">
+
 1.  <Skill name="Pyro Vortex"/>
 
 2.  <Skill name="Ride the Lightning"/>
@@ -695,6 +702,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 
 <GridItem sm="10">
+
 1.  <Skill name="Fiery Rush"/>
 
 2.  <Skill name="Firestorm"/>
@@ -714,6 +722,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 
 <GridItem sm="10">
+
 1.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
 
 2.  <Skill name="Fire Grab"/>
