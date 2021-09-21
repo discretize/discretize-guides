@@ -22,7 +22,7 @@ sections:
       Similar to the <Specialization name="Firebrand" text="Power Firebrand"/> it provides good offensive support by sharing the 216 <Attribute name="Power"/> from <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>.
 
 
-      The build is very flexible and can be adapted to the encounter, instabilities and the group you are playing with.
+      The build is very flexible and can be adapted to the encounter, instabilities and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
   - type: equipment
     title: Equipment
     content: "Note that this build variant is optimized for 150 agony
@@ -66,12 +66,25 @@ sections:
 
       <GridItem sm="5">
 
+
+      </GridItem>
+
+      </Grid>
+  - type: mdx
+    title: Situational  Traits and Skills
+    content: >-
+      <Grid>
+
+      <GridItem sm="6">
+
       <Card title="Common Utility Skills">
 
 
       |                                                           |                                                                                                                                                                                               |
 
       | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+      | <Skill name="Signet of Wrath" size="big" disableText/>       | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Condition Damage"/> through <Trait name="Perfect Inscriptions"/>. Keep in mind that this does not provide the immediate defiance bar damage of <Skill name="Bane Signet"/>. |
 
       | <Skill name="Bow of Truth" size="big" disableText/>       | A strong AoE heal for 5 seconds.                                                                                                                                                              |
 
@@ -94,33 +107,6 @@ sections:
 
       </Card>
 
-      </GridItem>
-
-      </Grid>
-  - type: mdx
-    title: Situational  Traits and Skills
-    content: >-
-      <Grid>
-
-      <GridItem sm="6">
-
-      <Card title="Less Common Utility Skills">
-
-
-      |                                                              |                                                                                                                                                                                                                                                              |
-
-      | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-      | <Skill name="Signet of Wrath" size="big" disableText/>       | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Condition Damage"/> through <Trait name="Perfect Inscriptions"/>. Keep in mind that this does not provide the immediate defiance bar damage of <Skill name="Bane Signet"/>. |
-
-      | <Skill name="Hold the Line" size="big" disableText/>         | Provides extra <Boon name="Protection"/>.                                                                                                                                                                                                                    |
-
-      | <Skill name="Judges Intervention" size="big" disableText/>   | 1200 range blink to an enemy. Mainly useful for skips.                                                                                                                                                                                                       |
-
-      | <Skill name="Merciful Intervention" size="big" disableText/> | 1200 range blink to an ally. Can be used for skips to blink to a <Skill name="Sword of Justice"/>. Can also be taken to help allies who frequently down.                                                                                                     |
-
-
-      </Card>
 
       </GridItem>
 
@@ -140,6 +126,23 @@ sections:
       | <Skill name="Feel My Wrath" size="big" disableText/>         | Can be used if you struggle upkeeping <Boon name="Quickness"/> or <Boon name="Fury"/>.                               |
 
       | <Skill name="Signet of Courage" size="big" disableText/>     | Good passive healing if neither of the other 2 skills are useful in a given situation.                               |
+
+
+      </Card>
+
+
+      <Card title="Less Common Utility Skills">
+
+
+      |                                                              |                                                                                                                                                                                                                                                              |
+
+      | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+      | <Skill name="Hold the Line" size="big" disableText/>         | Provides extra <Boon name="Protection"/>.                                                                                                                                                                                                                    |
+
+      | <Skill name="Judges Intervention" size="big" disableText/>   | 1200 range blink to an enemy. Mainly useful for skips.                                                                                                                                                                                                       |
+
+      | <Skill name="Merciful Intervention" size="big" disableText/> | 1200 range blink to an ally. Can be used for skips to blink to a <Skill name="Sword of Justice"/>. Can also be taken to help allies who frequently down.                                                                                                     |
 
 
       </Card>
@@ -695,7 +698,7 @@ character:
           "elite": "Mantra of Liberation"
         }
       }
-date: 2021-09-21T23:02:50.969Z
+date: 2021-09-21T23:10:30.686Z
 ---
 
 <Divider text="Videos" />
