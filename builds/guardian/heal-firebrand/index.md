@@ -689,12 +689,13 @@ character:
         },
         "skills": {
           "heal": "Mantra of Solace",
-          "utility2": "mantra of Potence",
+          "utility1": "mantra of Potence",
+          "utility2": "bane signet",
           "utility3": "Sanctuary",
           "elite": "Mantra of Liberation"
         }
       }
-date: 2021-09-18T22:56:33.144Z
+date: 2021-09-21T23:02:50.969Z
 ---
 
 <Divider text="Videos" />
