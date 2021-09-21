@@ -551,6 +551,7 @@ date: 2021-09-18T20:50:43.237Z
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
 For that reason you can find a video with openers, that are efficient to use here.
+
 </Card>
 
 <Card title="Berserker openers">
@@ -560,6 +561,7 @@ For that reason you can find a video with openers, that are efficient to use her
 </GridItem>
 
 <GridItem xs="12" sm="6">
+
 <Card title="Precasting">
 
 - Stack <Boon name="Might"/>:
@@ -589,9 +591,11 @@ For that reason you can find a video with openers, that are efficient to use her
   - <Skill name="Headbutt"/> with <Item name="Paralyzation" type="Sigil"/> for a total of 390 CC.
 
 </Card>
+
 </GridItem>
 
 <GridItem xs="12" sm="6">
+
 <Card title="Skill usage">
 
 **Ultra short phases (3 seconds):**
@@ -627,6 +631,7 @@ or depending on the phase length:
 - <Skill name="Throw axe" profession="warrior"/>, <Skill name="dualstrike"/> and <Skill name="decapitate"/>.
 
 </Card>
+
 </GridItem>
 
 <GridItem xs="12" sm="6">
