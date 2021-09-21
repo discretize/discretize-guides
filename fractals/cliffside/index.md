@@ -201,6 +201,7 @@ Do not get caught in any of the Arch Diviner's voidzones, otherwise you will be 
 <GridItem sm="6">
 <Tabs>
 <Tab specialization="revenant">
+
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the <Control name="Knockdown"/> the boss does after every seal break phase.
 </Tab>
 </Tabs>

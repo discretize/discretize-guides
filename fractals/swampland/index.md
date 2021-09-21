@@ -50,24 +50,28 @@ The remaining two players can take the _Invigorator Rifle Prototypes_ from the g
 <GridItem sm="4">
 <Tabs>
 <Tab specialization="renegade">
+
 Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance" disableText/>) for better mobility.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="berserker">
+
 Use <Skill id="14516"/> for better mobility. Also <Skill name="shake it off"/> comes in handy to cleanse conditions!
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Weaver">
+
 Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cleanse.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="daredevil">
+
 Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 </Tab>
 </Tabs>
@@ -81,7 +85,7 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 <Grid>
 <GridItem sm="8">
 
-In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="Stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the *Mistlock Singularity* inside the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
+In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="Stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the _Mistlock Singularity_ inside the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
 
 <Warning>
 **Beware, there is a wisp that has <Effect name="Invulnerability"/> and can attack you, putting you in combat during pre-stack**!
@@ -127,24 +131,28 @@ As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again
 
 <Tabs>
 <Tab specialization="renegade">
+
 Take <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> for this fight. Remove <Boon name="Protection"/> from Bloomhunger when he steps into the poison AoE.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Tempest">
+
 Use <Specialization name="Tempest"/> for this fight and <Skill id="22572"/> for better cleave during the Spirit Onslaught phases.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Soulbeast">
+
 Take <Skill id="12489"/> for pulsing condition cleanse! Great way the clean the huge stacks of <Condition name="Poisoned"/> at every phase. You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Berserker">
+
 Take Greatsword and <Skill name="Blood Reckoning"/> here for cleave!
 </Tab>
 </Tabs>

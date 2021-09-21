@@ -55,18 +55,22 @@ Activate the _Detonator_ and wait for the <Specialization name="Renegade"/>, <Sp
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="Renegade">
+
 <Video title="Renegade skip" youtube="lEdoox14vME"/>
 </Tab>
 
 <Tab specialization="Weaver">
+
 <Video title="Weaver skip" timestamp="8" youtube="OjUvCp2h_04"/>
 </Tab>
 
 <Tab specialization="Guardian">
+
 <Video title="Guardian skip" timestamp="480" youtube="MmJTsOhdQeo"/>
 </Tab>
 
 <Tab specialization="Daredevil">
+
 <Video title="Daredevil skip" timestamp="217" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
@@ -77,6 +81,7 @@ Activate the _Detonator_ and wait for the <Specialization name="Renegade"/>, <Sp
 
 <Grid>
 <GridItem sm="12">
+
 <Warning>
 
 For a faster completion time you can split up. <Specialization name="Berserker"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Weaver"/> soloes Superheated Room <Label>West</Label> and <Specialization name="Renegade"/> and <Specialization name="Soulbeast"/> do Researcher Dormitories <Label>East</Label>.
@@ -84,6 +89,7 @@ For a faster completion time you can split up. <Specialization name="Berserker"/
 </GridItem>
 
 <GridItem sm="7">
+
 <MDImage src="fractals/thaumanova-reactor/images/turret_room.jpg" caption="Golems patrol in the turret room"/>
 
 <Tabs>
@@ -106,6 +112,7 @@ Activating <Label>2</Label> enables short access to the two final consoles at <L
 </GridItem>
 
 <GridItem sm="12">
+
 <Video title="Guardian skip (But any class can do it)" timestamp="545" youtube="MmJTsOhdQeo"/>
 </GridItem>
 </Grid>
@@ -146,26 +153,32 @@ This is usually soloed by the <Specialization name="Weaver"/> but other classes 
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="renegade">
+
 <Video title="renegade skip" timestamp="0" youtube="jfat_6yDqV4"/>
 </Tab>
 
 <Tab specialization="Weaver">
+
 <Video title="Weaver skip" timestamp="28" youtube="OjUvCp2h_04"/>
 </Tab>
 
 <Tab specialization="Guardian">
+
 <Video title="Guardian skip" timestamp="519" youtube="MmJTsOhdQeo"/>
 </Tab>
 
 <Tab specialization="Soulbeast">
+
 <Video title="Soulbeast skip" timestamp="152" youtube="3Zc_ZJqPD0s"/>
 </Tab>
 
 <Tab specialization="Berserker">
+
 <Video title="Berserker skip" timestamp="160" youtube="REnmbN7sZFQ"/>
 </Tab>
 
 <Tab specialization="Daredevil">
+
 <Video title="Daredevil skip" timestamp="241" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
@@ -222,7 +235,9 @@ Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (
 
 <GridItem sm="4">
 <Tabs>
+
 <Tab specialization="renegade">
+
 It is favorable to run <Skill name="Legendary Renegade Stance"/> / <Skill name="Legendary Centaur Stance"/> for projectile absorption of the Anomaly's attacks from 50% health with <Skill name="Protective Solace"/>.
 </Tab>
 </Tabs>

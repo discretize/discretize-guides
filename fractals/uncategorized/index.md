@@ -82,6 +82,7 @@ You can use <Skill name="Holographic Shockwave"/> and <Skill name="Primelight Be
 <GridItem sm="5">
 <Tabs>
 <Tab specialization="Thief">
+
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065" profession="Daredevil"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>. <Skill id="13065"/> is also useful against the Holding Area bosses.
 </Tab>
 
@@ -147,10 +148,12 @@ Use reflects against the _Lightning Bolts_ from the Raving Asura (or let others 
 <GridItem sm="7">
 <Tabs>
 <Tab specialization="Renegade">
+
 First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Go to the golems and deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, then just use <Skill name="Protective Solace"/> to block the Raving Asura's projectiles until the end of fight.
 </Tab>
 
 <Tab specialization="Firebrand">
+
 Drop a <Skill name="Wall of Reflection"/> first on Raving Asura, slightly offset towards your party. Once all four golems become active at the same time, go into <Skill name="Tome of Courage"/> and use "Chapter 3: Valiant Bulwark" to help avoiding the projectiles and reduce incoming damage with "Epilogue: Unbroken Lines".
 </Tab>
 </Tabs>

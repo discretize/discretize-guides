@@ -64,7 +64,7 @@ Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-
 <Grid>
 <GridItem>
 
-Stack <Boon name="Might"/> before the four *K1T-A golems* and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health.
+Stack <Boon name="Might"/> before the four _K1T-A golems_ and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health.
 
 Pay attention to the <Control name="Knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
 </GridItem>
@@ -134,24 +134,28 @@ Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Con
 <GridItem sm="4">
 <Tabs>
 <Tab specialization="Revenant">
+
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="Daze"/>.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="soulbeast">
+
 Use <Skill name="Path of Scars"/> to pull the small JT-12 golems closer. <Skill name="Dolyak stance"/> with the trait <Trait name=" Leader of the Pack"/> gives the whole party <Boon name="Stability"/>.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Firebrand">
+
 Tome 3 skill 1 and 5 grants <Boon name="Stability"/>, if that's not enough take <Skill name="Stand your ground"/>.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Berserker">
+
 Take <Skill name="Headbutt"/> for the 50% Defiance bar and <Skill name="Outrage"/> against the <Control name="Daze"/>!
 </Tab>
 </Tabs>

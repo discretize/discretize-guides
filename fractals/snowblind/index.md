@@ -29,7 +29,7 @@ consumables: [78978, 49940]
 <Grid>
 <GridItem sm="8">
 
-Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="Pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
+Light up the _Bonfire_ with your special action key skill. Kill the spawning _Icebrood Elementals_ or use control effects like <Control name="Pull"/> to prevent them from extinguishing it and throw _Firewood_ into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
 
 If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them by standing at the bonfire.
 
@@ -45,11 +45,13 @@ When there are only a few percent remaining, go near the fire to leave combat an
 
 <Tabs>
 <Tab specialization="Weaver">
+
 Cast a <Skill name="Conjure Fiery Greatsword"/> for <Specialization name="Renegade"/> at the wall right before it melts.
 </Tab>
 
 <Tab specialization="Renegade">
-First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Place <Item id="78978"/> then  skip to the first bonfire on the left with anything like: <Skill name="Conjure Fiery Greatsword"/> or <Item id="49940"/> or <Item id="85244"/>, place portal exit when you lit the fire, then go to the *Elemental source*, deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, what you need to do is in the next paragraph with video.
+
+First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Place <Item id="78978"/> then skip to the first bonfire on the left with anything like: <Skill name="Conjure Fiery Greatsword"/> or <Item id="49940"/> or <Item id="85244"/>, place portal exit when you lit the fire, then go to the _Elemental source_, deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, what you need to do is in the next paragraph with video.
 </Tab>
 </Tabs>
 
@@ -76,12 +78,14 @@ With reflects and high DPS you can simply burst the boss before any bonfire expi
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="Renegade">
-Place a bubble on top of the *Elemental Source*, absorbing **EVERY** projectile so you do not have to dodge anymore.
+
+Place a bubble on top of the _Elemental Source_, absorbing **EVERY** projectile so you do not have to dodge anymore.
 
 <Video title="Renegade bubble" youtube="ORcJL1p1pN8"/>
 </Tab>
 
 <Tab specialization="Weaver">
+
 With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 </Tab>
 </Tabs>
@@ -107,18 +111,22 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="Soulbeast">
+
 <Video title="Ranger skip" timestamp="100" youtube="3Zc_ZJqPD0s"/>
 </Tab>
 
 <Tab specialization="Berserker">
+
 <Video title="Warrior skip" timestamp="21" youtube="29qQ2xU1YHk"/>
 </Tab>
 
 <Tab specialization="Guardian">
+
 <Video title="Guardian skip" timestamp="258" youtube="MmJTsOhdQeo"/>
 </Tab>
 
 <Tab specialization="Daredevil">
+
 <Video title="Thief skip" timestamp="125" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
@@ -142,16 +150,19 @@ At 75%, 50% and 25% you will need to kill a summoned _Icebrood Effigy_. Basicall
 <GridItem sm="4">
 <Tabs>
 <Tab specialization="Renegade">
+
 Take either <Skill name="Legendary Dwarf Stance"/> or <Skill name="Legendary Centaur Stance"/> as secondary legend, both have their advantages. <Skill name="Legendary Dwarf Stance" disableText/> can give <Boon name="Stability"/> while <Skill name="Legendary Centaur Stance" disableText/> can give more condition cleanse and projectile absorption with <Skill name="Protective solace"/>.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Tempest">
-Use <Specialization name="Tempest"/> <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one *Corrupted Ice Crystals* at the side, so make sure you aim accordingly.
+
+Use <Specialization name="Tempest"/> <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one _Corrupted Ice Crystals_ at the side, so make sure you aim accordingly.
 </Tab>
 
 <Tab specialization="Berserker">
+
 Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly!
 </Tab>
 </Tabs>

@@ -10,6 +10,7 @@ description: 'Learn how to contribute your share of CC to break all the bars.'
 <Grid>
 <GridItem sm="6">
 <Card title="What is a Defiance bar?">
+
 The [Defiance bar](https://wiki.guildwars2.com/wiki/Defiance_bar) (also called a breakbar) is a very important mechanic in fractals mainly due to its ability to let players do more damage to a mob for a certain amount of time after breaking it.
 
 Usually elite or higher mobs will have a defiance bar in fractals, your goal should be to break this bar as fast as possible. In order to break a defiance bar, you need to use CC skills on the enemy whose breakbar you want to break. The size of the bar varies from boss to boss and between mobs too, what matters is that you should break it.
@@ -22,12 +23,15 @@ This guide's aim is to help you understand how your team should cooperate to bre
 In Tier 4 fractals (T4) a breakbar usually does not exceed 600 units, nevertheless, it is everyone's responsibility to break bars as quickly as possible.In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for their lack of CC with additional CC skills.
 
 <Warning>
+
 **Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**
+
 </Warning>
 </GridItem>
 
 <GridItem sm="6">
 <Card title="What does CC mean?">
+
 CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_effect). A Crowd Control skill is any skill that disables an enemy or even a group of enemies and therefore deals damage to a defiance bar, it can be split into soft CC or hard CC
 
 **Hard CC** skills usually inflict the enemy with some kind of movement effect like <Control name="Stun"/> or <Control name="Knockback"/>. As they disable the enemy right now they deal defiance bar damage **instantaneously**. This is the most commonly used type of CC skills to break a defiance bar.

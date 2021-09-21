@@ -20,11 +20,12 @@ sigils:
 <GridItem sm="12">
 
 ## Always start Left path with the Deepstone Sentinel (Air Elemental)
+
 </GridItem>
 
 <GridItem sm="5">
 
-Before the *Deepstone Sentinel*, there is a Tetris-like obstacle you have to pass. You have to avoid the green tiles because it damages you. You can dodge and block the green tiles between the safe non glowing tiles, proceed to the end. **This can be skipped by <Specialization name="Berserker"/>, <Specialization name="Soulbeast"/>, <Specialization name="Firebrand"/>, like in the video down below.**
+Before the _Deepstone Sentinel_, there is a Tetris-like obstacle you have to pass. You have to avoid the green tiles because it damages you. You can dodge and block the green tiles between the safe non glowing tiles, proceed to the end. **This can be skipped by <Specialization name="Berserker"/>, <Specialization name="Soulbeast"/>, <Specialization name="Firebrand"/>, like in the video down below.**
 
 After two players passed, they stand on the cyan glowing runes to stop the Tetris trap so others can pass. <Specialization name="Elementalist"/> can use <Skill name="Lightning flash"/> to activate both button, a little higher ping helps with this immensely.
 </GridItem>
@@ -61,7 +62,7 @@ After two players passed, they stand on the cyan glowing runes to stop the Tetri
 
 <GridItem sm="7">
 
-After prestacking <Boon name="Might"/> at the Mistlock Singularity move in and the *Deepstone Sentinel* spawns. The only dangerous attack it has is an AoE tornado (called Wind Sprites) that you have to dodge at every 20%. It is a well telegraphed attack so you only have to make sure you are not standing in it 1 second later. If it manages to catch you, others have to use CC to break you out of it before it floats you to the depths and kill you. There is a possibility you get caught even if you are not standing in it, use Skill 1 to break out of it (If you get caught in it and you stood in the AoE Skill 1 does nothing else than pinging on minimap, so keep that in mind).
+After prestacking <Boon name="Might"/> at the Mistlock Singularity move in and the _Deepstone Sentinel_ spawns. The only dangerous attack it has is an AoE tornado (called Wind Sprites) that you have to dodge at every 20%. It is a well telegraphed attack so you only have to make sure you are not standing in it 1 second later. If it manages to catch you, others have to use CC to break you out of it before it floats you to the depths and kill you. There is a possibility you get caught even if you are not standing in it, use Skill 1 to break out of it (If you get caught in it and you stood in the AoE Skill 1 does nothing else than pinging on minimap, so keep that in mind).
 
 The other three attacks are a mini tornado that applies <Condition name="Chilled"/> and the AoEs that <Control name="Daze"/>, the third attack is a projectile it shoots in-between which can be reflected / absorbed. After killing the _Deepstone Sentinel_ the crystal energy orb spawns, take it and interact with the Vibrant Crystal in the middle.
 </GridItem>
@@ -69,6 +70,7 @@ The other three attacks are a mini tornado that applies <Condition name="Chilled
 <GridItem sm="5">
 <Tabs>
 <Tab specialization="Renegade">
+
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the AoE <Control name="Daze"/>.
 </Tab>
 </Tabs>
@@ -80,16 +82,18 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 <GridItem sm="12">
 
 ## The Brood Queen (Spider)
+
 </GridItem>
 
 <GridItem sm="8">
 
-Commonly the Brood Queen is picked second from the two paths. On your way to the *Brood Queen* you will see spider nests, destroy them. You have to stand on two cyan glowing runes in the middle of the bridge to unblock the path to the *Brood Queen*. There are telegraphed wind currents that are unblockable, if you happen to get hit by one it puts you back at the start of the bridge. Kill the two elite *Broodmother Spider* to spawn the *Brood Queen*. This boss does not hit hard and most attack are telegraphed. After killing her the crystal energy ball comes down. Take it and you get spawned back in the middle. Take the ball to the Vibrant crystal in the end of the hall.
+Commonly the Brood Queen is picked second from the two paths. On your way to the _Brood Queen_ you will see spider nests, destroy them. You have to stand on two cyan glowing runes in the middle of the bridge to unblock the path to the _Brood Queen_. There are telegraphed wind currents that are unblockable, if you happen to get hit by one it puts you back at the start of the bridge. Kill the two elite _Broodmother Spider_ to spawn the _Brood Queen_. This boss does not hit hard and most attack are telegraphed. After killing her the crystal energy ball comes down. Take it and you get spawned back in the middle. Take the ball to the Vibrant crystal in the end of the hall.
 </GridItem>
 
 <GridItem sm="4">
 <Tabs>
 <Tab specialization="Renegade">
+
 Use <Skill name="Legendary Demon Stance"/> to remove <Boon name="Protection"/> with <Skill name="Banish Enchantment"/> from the boss. If you have a <Item id="72872"/> on your set of swords or on your staff, you can use <Skill id="41220"/> to remove the <Boon name="Protection"/>.
 </Tab>
 </Tabs>
@@ -164,6 +168,7 @@ Here you have to use the <SpecialActionKey name="lightofdeldrimor"/> to reveal t
 <GridItem sm="12">
 
 ### Elevator (Sinking platform)
+
 </GridItem>
 
 <GridItem sm="7">

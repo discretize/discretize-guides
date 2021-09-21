@@ -30,7 +30,9 @@ After you killed the mobs, use the Mistlock Singularity to reset cooldown then t
 </GridItem>
 
 <GridItem sm="8">
+
 <Tabs>
+
 <Tab specialization="Weaver">
 
 You can precast <Skill name="Conjure Fiery Greatsword"/> without it despawning early by placing a portal utilizing <Item id="78978"/> near the Mistlock Singularity and using it to return to the Mistlock Singularity for the precast before Mai Trin starts talking.
@@ -62,8 +64,11 @@ Every 25% health, Mai Trin disappears and additional enemies will spawn while fi
 Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily, Mai Trin won't have any protective stacks below 25%, so focus your damage on Mai Trin. Killing Mai Trin finishes the fractal, therefore there is no incentive to kill Horrik before that. It is vital to bring reflections and <Boon name="Stability"/> to counter the elite adds that spawn after Mai Trin disappears at 25%.
 
 <Tabs>
+
 <Tab specialization="Spellbreaker">
+
 <Video youtube="U-DzD9IzujI" caption="by Roach [dT]"/>
+
 </Tab>
 </Tabs>
 </GridItem>
@@ -90,6 +95,7 @@ You can block Horrik's cannon projectile with <Skill name="Counterattack"/> (Gre
 </Tab>
 
 <Tab specialization="berserker">
+
 Play Greatsword with <Skill name="blood reckoning"/> for maximum cleave with double <Skill name="arcdivider"/>.
 </Tab>
 </Tabs>

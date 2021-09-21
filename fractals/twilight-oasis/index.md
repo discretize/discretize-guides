@@ -49,18 +49,21 @@ Let your <Specialization name="Renegade"/> skip the first part or use <Effect na
 <GridItem sm="5">
 <Tabs>
 <Tab specialization="Soulbeast">
+
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Weaver">
+
 It is worth to run <Skill name="arcane wave"/> for the whole fractal for more <Boon name="Might"/>, since you can't really stack anywhere.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Daredevil">
+
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
@@ -69,6 +72,7 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply ca
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="Renegade">
+
 You can skip this first part with <Item id="78978"/>.
 
 <Video title="Renegade skip" youtube="xHeZuQ5zWMU"/>
@@ -137,10 +141,12 @@ Please note that you can't `/gg` after any Sandbinder, because you spawn behind 
 <GridItem sm="12">
 <Tabs>
 <Tab title="Slower skip">
+
 <Video title="Any class" timestamp="306" youtube="MmJTsOhdQeo"/>
 </Tab>
 
 <Tab title="Faster skip">
+
 <Video title="Any class" timestamp="341" youtube="MmJTsOhdQeo"/>
 </Tab>
 </Tabs>

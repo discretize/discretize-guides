@@ -35,7 +35,9 @@ consumables: [78978, 49940, 8764, 8801, 8686]
 ## Start: Locked Gates <Item id="8892" disableText/><Item id="24684" disableText/>
 
 <Warning>
+
 There are two ways to do this. For the faster way you require <Item id="78978"/>. The normal way takes much longer but needs nothing.
+
 </Warning>
 
 <Divider text="Fast way"/>
@@ -44,22 +46,27 @@ There are two ways to do this. For the faster way you require <Item id="78978"/>
 <GridItem sm="12">
 <Tabs>
 <Tab specialization="Guardian">
+
 <Video title="Guardian skip" youtube="N5RcWdIbIRs"/>
 </Tab>
 
 <Tab specialization="Guardian">
+
 <Video title="Guardian skip 2" youtube="Nzi7wRSNY7Q"/>
 </Tab>
 
 <Tab specialization="Warrior">
+
 <Video title="Warrior skip" timestamp="105" youtube="REnmbN7sZFQ"/>
 </Tab>
 
 <Tab specialization="Revenant">
+
 <Video title="Revenant skip" timestamp="144" youtube="REnmbN7sZFQ"/>
 </Tab>
 
 <Tab specialization="Thief">
+
 <Video title="Thief skip" timestamp="484" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
@@ -78,19 +85,24 @@ There are two ways to do this. For the faster way you require <Item id="78978"/>
 <Grid>
 <GridItem sm="12">
 <Tabs>
+
 <Tab specialization="elementalist">
+
 Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.
 </Tab>
 
 <Tab specialization="Guardian">
+
 <Skill id="30029"/>, <Skill id="9084"/> and <Skill id="9253"/> block the console <Control name="Knockback"/>.
 </Tab>
 
 <Tab specialization="thief">
+
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> to stack <Effect name="Stealth"/>. <Skill id="13027"/> and <Skill id="13117"/> combined with <Trait id="1136"/> provide enough <Effect name="Stealth"/> to completely activate the console.
 </Tab>
 
 <Tab specialization="ranger">
+
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
@@ -132,7 +144,9 @@ On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and*
 <MDImage src="fractals/underground-facility/images/gun_path.jpg" caption="The gun path"/>
 
 <Tabs>
+
 <Tab specialization="thief">
+
 Cast <Skill id="13117"/> for immediate <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
@@ -149,10 +163,12 @@ Skip here by one of the classes below:
 
 <Tabs>
 <Tab specialization="Guardian">
+
 <Video title="Guarian skip to last boss, same for Ranger and Warrior" timestamp="103" youtube="MmJTsOhdQeo"/>
 </Tab>
 
 <Tab specialization="Thief">
+
 <Video title="Thief skip to last boss" timestamp="531" youtube="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
@@ -172,8 +188,11 @@ The most deadly skills here are the _Bombs_ from the Dredge Powersuit (they spaw
 </GridItem>
 
 <GridItem sm="5">
+
 <Tabs>
+
 <Tab specialization="thief">
+
 Teleport to the lava buckets from below with <Skill id="13025"/>.
 </Tab>
 </Tabs>

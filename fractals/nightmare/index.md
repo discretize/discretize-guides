@@ -118,6 +118,7 @@ Usually a single person with high mobility (<Specialization name="Warrior"/>, <S
 
 <Tabs>
 <Tab specialization="Weaver">
+
 <Skill id="5738"/> is very strong against the groups of Krait.
 
 Use <Skill id="5536"/> to teleport up to the altars.

@@ -33,7 +33,7 @@ consumables: [78978, 49940]
 <Grid>
 <GridItem sm="6">
 
-While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="Renegade"/> but anyone can run) should run ahead to the next area and trigger the checkpoint at the *Grawl Shaman*. This way, everyone can portal after the section is completed and resurrect to skip the Boulder passage. <Specialization name="Elementalist"/> can precast strong DPS skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear. You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster. <Specialization name="Berserker"/> can equip a greatsword and <Skill name="bloodreckoning"/> for 2x <Skill name="arcdivider"/>!
+While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="Renegade"/> but anyone can run) should run ahead to the next area and trigger the checkpoint at the _Grawl Shaman_. This way, everyone can portal after the section is completed and resurrect to skip the Boulder passage. <Specialization name="Elementalist"/> can precast strong DPS skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear. You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster. <Specialization name="Berserker"/> can equip a greatsword and <Skill name="bloodreckoning"/> for 2x <Skill name="arcdivider"/>!
 </GridItem>
 
 <GridItem sm="6">
@@ -66,7 +66,7 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
 <Tabs>
 <Tab specialization="Weaver">
 
-Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the *Veteran Grawl Shamans* in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>. If everyone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.
+Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the _Veteran Grawl Shamans_ in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>. If everyone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.
 </Tab>
 </Tabs>
 </GridItem>
@@ -106,24 +106,28 @@ Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="Knockback"/>) an
 <GridItem sm="4">
 <Tabs>
 <Tab specialization="Renegade">
+
 Use <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> to spam <Boon name="Resistance"/> after the bosses bubble phase.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Firebrand">
+
 Use Tome 3 skill 4 for party wide <Boon name="Resistance"/>!
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Elementalist">
+
 Take <Skill id="5507"/> for an additional condition cleanse. Use <Skill id="22572"/> to cleave the Lava Elementals faster.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="Soulbeast">
+
 Take <Skill id="12489"/> for pulsing condition cleanse! You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
 </Tab>
 </Tabs>
