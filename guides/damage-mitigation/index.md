@@ -15,6 +15,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 <Grid>
 <GridItem sm="4">
 <Card specialization="Revenant">
+
 -   <Skill name="Protective Solace"/>  <Specialization name="Revenant" disableText/>  \
     (Ventari Utility)
 
@@ -23,6 +24,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <GridItem sm="4">
 <Card specialization="Mesmer">
+
 -   <Skill id="10302"/> <Specialization name="Mesmer" disableText/>   \
     (Utility, best used during <Skill id="29830" disableText/>, <Specialization name="Chronomancer" disableText/>)
 
@@ -40,6 +42,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <GridItem sm="4">
 <Card specialization="Warrior">
+
 -   <Skill id="30074"/> <Specialization name="Berserker" disableText/>  \
     (Utility skill)
 
@@ -57,6 +60,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <GridItem sm="4">
 <Card specialization="Elementalist">
+
 -   <Skill id="5685"/> <Specialization name="Elementalist" disableText/>  \
     (Staff 3, <Skill id="5495" disableText/>)
 
@@ -74,6 +78,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <GridItem sm="4">
 <Card specialization="Ranger">
+
 -   <Skill id="12639"/> <Specialization name="Ranger" disableText/>  \
     (Axe 5)
 
@@ -85,6 +90,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <GridItem sm="4">
 <Card specialization="Guardian">
+
 -   <Skill id="9251"/> <Specialization name="Guardian" disableText/>  \
     (Utility skill)
 
@@ -105,6 +111,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <GridItem sm="4">
 <Card specialization="Thief">
+
 -   <Skill name="Punishing Strikes"/> <Specialization name="Thief" disableText/>  \
     (3rd Autoattack)
 
@@ -125,6 +132,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 
 <GridItem sm="4">
 <Card specialization="Necromancer">
+
 -   <Skill name="Corrosive Poison Cloud"/> <Specialization name="Necromancer" disableText/>  \
     (Utility skill)
 
@@ -142,6 +150,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 Certain mechanics can be bypassed by using block, evade, <Effect name="Invulnerability"/> or <Boon name="Aegis"/> skills. Those ward against any attack (including projectiles) and usually prevent the application of conditions and control effects.
 
 <Warning>
+
 Note that some abilities are unblockable!
 </Warning>
 
@@ -150,6 +159,7 @@ Below is a list of commonly used defensive skills:
 <Grid>
 <GridItem sm="4">
 <Card specialization="Revenant">
+
 -   <Skill name="Warding Rift"/>  <Specialization name="Revenant" disableText/>  \
     (Staff 3)
 
@@ -170,6 +180,7 @@ Below is a list of commonly used defensive skills:
 
 <GridItem sm="4">
 <Card specialization="Mesmer">
+
 -   <Skill id="10192"/> <Specialization name="Mesmer" disableText/>  \
     (F4, personal evade)\
     You can trait <Trait id="1852"/> to share <Boon name="Aegis" disableText/> with allies (5 seconds internal cooldown) when you gain distortion
@@ -197,6 +208,7 @@ Below is a list of commonly used defensive skills:
 
 <GridItem sm="4">
 <Card specialization="Warrior">
+
 -   <Skill name="Whirlwind Attack"/> <Specialization name="Warrior" disableText/>  \
     (Mace 2)
 
@@ -219,6 +231,7 @@ Below is a list of commonly used defensive skills:
 
 <GridItem sm="4">
 <Card specialization="Elementalist">
+
 -   <Skill id="5641"/> <Specialization name="Elementalist" disableText/>  \
     (Utility skill)
 
@@ -242,6 +255,7 @@ Below is a list of commonly used defensive skills:
 
 <GridItem sm="4">
 <Card specialization="Ranger">
+
 -   <Skill name="Signet of Stone" profession="Ranger"/> <Specialization name="Ranger" disableText/>  \
     (Utility)
 
@@ -253,6 +267,7 @@ Below is a list of commonly used defensive skills:
 
 <GridItem sm="4">
 <Card specialization="Guardian">
+
 -   <Skill id="9102"/> <Specialization name="Guardian" disableText/>  \
     (Heal skill)
 
@@ -283,6 +298,7 @@ Below is a list of commonly used defensive skills:
 
 <GridItem sm="4">
 <Card specialization="Thief">
+
 -   <Skill id="30661"/> <Specialization name="Daredevil" disableText/>  \
     (Utility skill)
 

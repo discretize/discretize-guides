@@ -31,14 +31,17 @@ sigils:
 
 <Grid>
 <GridItem sm="8">
+
 You can stack <Effect name="Stealth"/> before entering the water to cheat the exploding mines. Clear the group of *Elite Aetherblades* to open the door.
 
 <Tabs>
 <Tab specialization="thief">
+
 Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="thief"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
 </Tab>
 
 <Tab specialization="ranger">
+
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/> at the beginning.
 </Tab>
 </Tabs>
@@ -57,6 +60,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 
 <Grid>
 <GridItem sm="8">
+
 After the door opens, you enter a large area with two deathly laser puzzles.
 
 The first one consists of a _moving laser square pattern_ and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="Immobile"/> to you.
@@ -120,14 +124,17 @@ You can solo both the first and second room if you are fast enough. Use <Skill i
 <GridItem>
 <Tabs>
 <Tab specialization="Revenant">
+
 You can <Skill name="Call to Anguish"/> most mobs to group them.
 </Tab>
 
 <Tab specialization="elementalist">
+
 Stay in <Skill id="5492"/> after the last trash group for <Boon name="Might"/> stacking at Frizz.
 </Tab>
 
 <Tab specialization="Guardian">
+
 You can use <Skill name="Binding Blade"/> to group the mobs.
 </Tab>
 </Tabs>
@@ -167,20 +174,24 @@ If a golem walks through a laser, he powers up and blocks all attacks for a shor
 
 <Tabs>
 <Tab specialization="revenant">
+
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the *Lasers* and *Small Lasers*.
 </Tab>
 
 <Tab specialization="Warrior">
+
 Drop your banners in the very center of the arena.Using <Skill name="whirlwind attack"/> against the wall is very effective.
 </Tab>
 </Tabs>
 
 <Tabs>
 <Tab specialization="ranger">
+
 Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 
 <Tab specialization="elementalist">
+
 Use <Skill id="5697"/> against the golems next to a wall or box.
 </Tab>
 </Tabs>

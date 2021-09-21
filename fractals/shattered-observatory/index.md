@@ -51,6 +51,7 @@ sigils:
 
 <Grid>
 <GridItem sm="7">
+
 Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the *Mistlock Singularity* after accepting the Harbringer's challenge, stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> on the platform below and start the encounter by activating the orb in the center of the platform.
 </GridItem>
 
@@ -84,6 +85,7 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 </GridItem>
 
 <GridItem sm="9">
+
 ### Tactic
 
 The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health. Please note, that you cannot _precast_ CC here. Your CC affects Skorvald, as soon as his HP bar appears in the top right corner.
@@ -104,6 +106,7 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 
 <Grid>
 <GridItem sm="8">
+
 After Skorvald is dead, take the portal to the East and take the left portal in the control center area. You can activate a <Item id="78786"/> to walk during the cutscene and save some time.
 
 You gain a new special action key: <SpecialActionKey name="hypernovalaunch"/>. For the moment, it is a 2100-range teleport with stunbreak that blocks the next attack (1.75s <Boon name="Aegis"/>). Its cooldown refreshes after you bounce a _Globolla Marble_.
@@ -135,6 +138,7 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 
 <Grid>
 <GridItem sm="8">
+
 The second boss of the fractal is Artsariiv. The encounter gets activated by bouncing a *Globolla Marble* into her, be sure to prepare <Boon name="Might"/> and skills in the northwest beforehand.
 
 Artsariiv summons copies which split into smaller clones upon death, they use martial arts skills, <Control name="Knockdown"/>, shoot shocking projectiles and apply a lot of damaging conditions. Discuss whether you kill all adds (safe tactic) or not.
@@ -153,6 +157,7 @@ Assign a player for the _Globolla Marble_ bouncing (typically the <Specializatio
 
 <Grid>
 <GridItem sm="9">
+
 |                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Beaming Smile**                  | Similar to Skorvald below 50% health, Artsariiv generates three large laser beams and projects a white beam onto players which inflicts high damage, <Condition name="Blinded"/> and <Condition name="fear"/>. Turn away from the source to prevent application.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -204,6 +209,7 @@ After the fight is over, take the portal in the North and move forward to get to
 
 <Grid>
 <GridItem sm="8">
+
 Arkk is the third and final boss of the fractal. An attentive player may have noticed the <SpecialActionKey name="hypernovalaunch"/> special action key became even stronger now, doing medium damage, a 232 <Control name="Launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
 
 In contrast to the other enemies in this fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him.
@@ -222,6 +228,7 @@ Stack <Boon name="Might"/> (you can use <SpecialActionKey name="hypernovalaunch"
 
 <Grid>
 <GridItem sm="9">
+
 |                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Blinding Radiance**                 | Similar to the other bosses, Arkk has the white beam ability which damages players facing him and inflicts <Condition name="Blinded"/> and <Condition name="fear"/>. It is easily recognizable by a large eye icon above Arkk. If you have problems receiving damage despite looking away, try to wiggle left/right while turned away to minimize the risk.                                                                                                                                                                                                                                                                                                                                                                  |
