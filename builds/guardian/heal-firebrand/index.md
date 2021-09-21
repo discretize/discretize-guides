@@ -22,7 +22,7 @@ sections:
       Similar to the <Specialization name="Firebrand" text="Power Firebrand"/> it provides good offensive support by sharing the 216 <Attribute name="Power"/> from <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>.
 
 
-      The build is very flexible and can be adapted to the encounter, instabilities and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
+      The build is very flexible and can be adapted to the encounter, instabilities and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. The [CM Guides](/cm-guides/guardian/heal-firebrand/) will also give an overview of what you can run on different encounters.
   - type: equipment
     title: Equipment
     content: "Note that this build variant is optimized for 150 agony
@@ -45,12 +45,6 @@ sections:
   - type: mdx
     title: Default Build
     content: >-
-      <Grid>
-
-
-      <GridItem sm="7">
-
-
       <Traits
         traits1="Radiance"
         traits1Selected="Healers Resolution, Wrath of justice, Perfect Inscriptions"
@@ -59,17 +53,6 @@ sections:
         traits3="Firebrand"
         traits3Selected="Liberators Vow, Weighty Terms, Loremaster"
       />
-
-
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-
-      </GridItem>
-
-      </Grid>
   - type: mdx
     title: Situational  Traits and Skills
     content: >-
@@ -86,6 +69,8 @@ sections:
 
       | <Skill name="Signet of Wrath" size="big" disableText/>       | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Condition Damage"/> through <Trait name="Perfect Inscriptions"/>. Keep in mind that this does not provide the immediate defiance bar damage of <Skill name="Bane Signet"/>. |
 
+      | <Skill name="Sanctuary" size="big" disableText/>          | Strong CC over time for mostly stationary enemies with a defiance bar.                                                                                                                        |
+
       | <Skill name="Bow of Truth" size="big" disableText/>       | A strong AoE heal for 5 seconds.                                                                                                                                                              |
 
       | <Skill name="Mantra of Lore" size="big" disableText/>     | A strong condition cleanse to counterplay <Instability name="Afflicted"/>. Also offers extra passive healing through <Boon name="Regeneration"/>.                                             |
@@ -98,11 +83,7 @@ sections:
 
       | <Skill name="Hallowed Ground" size="big" disableText/>    | Can be used for extra <Boon name="Stability"/>. This skill provides more <Boon name="Stability"/> on a stationary target than <Skill name="Stand Your Ground"/>.                              |
 
-      | <Skill name="Sanctuary" size="big" disableText/>          | Strong CC over time for mostly stationary enemies with a defiance bar.                                                                                                                        |
-
       | <Skill name="Wall of Reflection" size="big" disableText/> | Stationary reflect for 8 seconds.                                                                                                                                                             |
-
-      | <Skill name="Purging Flames" size="big" disableText/>     | Burns enemies and cleanses conditions from allies within. Useful when conditions are inflicted multiple times in a short period of time but often inferior to <Skill name="Mantra of Lore"/>. |
 
 
       </Card>
@@ -144,6 +125,8 @@ sections:
 
       | <Skill name="Merciful Intervention" size="big" disableText/> | 1200 range blink to an ally. Can be used for skips to blink to a <Skill name="Sword of Justice"/>. Can also be taken to help allies who frequently down.                                                                                                     |
 
+      | <Skill name="Purging Flames" size="big" disableText/>     | Burns enemies and cleanses conditions from allies within. Useful when conditions are inflicted multiple times in a short period of time but often inferior to <Skill name="Mantra of Lore"/>. |
+
 
       </Card>
 
@@ -166,7 +149,7 @@ sections:
       <Traits
         unembossed
         traits1="Virtues"
-        traits1Selected="Resolute Subconscious, Absolute Resolve, Battle Presence"
+        traits1Selected="Master of Consecrations, Absolute Resolve, Battle Presence"
       />
 
       If you need more healing or an extra free utility slot, you can swap out Radiance
@@ -201,7 +184,7 @@ sections:
 
       | <Trait name="Pure of Heart" size="big" disableText/>           | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds. |
 
-      | <Trait name="Master of Consecrations" size="big" disableText/> | Use this when you are using a Consecration skill while running the Virtues trait line.                              |
+      | <Trait name="Resolute Subconscious" size="big" disableText/> | Use this when you are not using any Consecration skill while running the Virtues trait line.                              |
 
 
       </Card>
@@ -571,6 +554,7 @@ sections:
       </Card>
 rating: Good
 role: Support
+author: Ascers.6082
 profession: Guardian
 specialization: Firebrand
 skills:
@@ -698,7 +682,7 @@ character:
           "elite": "Mantra of Liberation"
         }
       }
-date: 2021-09-21T23:10:30.686Z
+date: 2021-09-21T23:17:59.020Z
 ---
 
 <Divider text="Videos" />
