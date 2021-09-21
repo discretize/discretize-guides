@@ -374,6 +374,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <GridItem xs="12" sm="6">
 <Card title="Notes on skill usage:">
+
 -   Always start on sword
 
 - Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC.

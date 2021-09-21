@@ -115,6 +115,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 
 <Grid>
 <GridItem sm="8">
+
 After resurrecting, skip the mobs with <Effect name="Stealth"/> and the guns or nine bombs to destroy the gate.
 
 On the **rifles** path you lose all your endurance and therefore you are unable to dodge. Walk to the gate with an equipped rifle and avoid the orange AoEs on the ramp. If you get hit by an AoE the rifle is no longer usable and you have to pick up a new one. Use the rifle skill 1 to damage the gate. Note that using a portal with a new rifle causes it to become unusable. **Only use a portal to get back from the gate.**
@@ -162,6 +163,7 @@ Skip here by one of the classes below:
 
 <Grid>
 <GridItem sm="7">
+
 If you did not skip, stack <Effect name="Stealth"/> and skip towards the Endboss together.
 
 After loosing potential aggro of the mobs from the corridor, pull the boss to the next lava bucket, trigger it to inflict _Superheated_ for 10x damage and nuke. Stay on the boss as long as possible before moving to the next bucket but pay attention to his _Mending_ heal skill, which can be interrupted by simply attacking him as long as the Superheated debuff is up.

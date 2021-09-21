@@ -19,6 +19,7 @@ Outline:
 <Divider text="Meta builds"/>
 
 <Card specialization="Soulbeast">
+
 | Build                                                                            | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | -------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Soulbeast" disableLink/>](/builds/ranger/power-soulbeast) | <Rating value="5"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="3"/> | <Rating value="4"/> |
@@ -42,6 +43,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 </Card>
 
 <Card specialization="Renegade">
+
 | Build                                                                            | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | -------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Renegade" disableLink/>](/builds/revenant/power-renegade) | <Rating value="5"/> | <Rating value="2"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="5"/> |
@@ -54,6 +56,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 </Card>
 
 <Card specialization="Firebrand">
+
 | Build                                                                             | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | --------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Firebrand" disableLink/>](/builds/revenant/power-renegade) | <Rating value="5"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="4"/> |
@@ -65,11 +68,13 @@ It plays very similar to <BuildLink build="Power Dragonhunter" specialization="D
 Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' <Attribute name="Power"/> by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
 <Warning>
+
 Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="Firebrand"/>* is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run *<BuildLink build="Condi Firebrand" specialization="Firebrand"/>* as it provides much higher sustained DPS.
 </Warning>
 </Card>
 
 <Card specialization="Dragonhunter" title="Power Dragonhunter">
+
 | Build                                                                                    | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | ---------------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Dragonhunter" disableLink/>](/builds/guardian/power-dragonhunter) | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> |
@@ -88,6 +93,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 <Divider text="Condi Meta builds"/>
 
 <Card specialization="Firebrand" title="Condi Firebrand">
+
 | Build                                                                              | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | ---------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Firebrand" disableLink/>](/builds/guardian/condi-firebrand) | <Rating value="3"/> | <Rating value="4"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="3"/> |
@@ -115,6 +121,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 </Card>
 
 <Card specialization="Renegade" title="Condi Alac Renegade">
+
 | Build                                                                                 | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | ------------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Renegade" disableLink/>](/builds/revenant/condi-alac-renegade) | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="5"/> |
@@ -127,6 +134,7 @@ Even if Condi <Specialization name="Renegade"/> does less damage than a <BuildLi
 </Card>
 
 <Card specialization="Soulbeast" title="Condi Soulbeast">
+
 | Build                                                                            | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | -------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Soulbeast" disableLink/>](/builds/ranger/condi-soulbeast) | <Rating value="5"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="3"/> |
@@ -146,6 +154,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 </Card>
 
 <Card specialization="Deadeye" title="Condi Deadeye">
+
 | Build                                                                      | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | -------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Deadeye" disableLink/>](builds/thief/condi-deadeye) | <Rating value="3"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> |
@@ -160,6 +169,7 @@ Overall, this build is an excellent pick if taken as an alt class: it is meant f
 <Divider text="Power Offmeta builds"/>
 
 <Card specialization="Weaver">
+
 | Build                                                                            | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | -------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Weaver" disableLink/>](/builds/elementalist/power-weaver) | <Rating value="4"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="3"/> | <Rating value="4"/> |
@@ -172,6 +182,7 @@ Also this build depends pretty much on supports and boon uptimes, as it can't pr
 </Card>
 
 <Card specialization="Berserker">
+
 | Build                                                                             | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | --------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Berserker" disableLink/>](/builds/warrior/power-berserker) | <Rating value="4"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="4"/> |
@@ -186,6 +197,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 </Card>
 
 <Card specialization="Holosmith" title="Power Holosmith">
+
 | Build                                                                              | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | ---------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Holosmith" disableLink/>](/builds/engineer/power-holosmith) | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> |
@@ -196,6 +208,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 </Card>
 
 <Card specialization="Reaper" title="Power Reaper">
+
 | Build                                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | ------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Reaper" disableLink/>](/builds/necromancer/power-reaper) | <Rating value="1"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="3"/> |
@@ -208,6 +221,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 </Card>
 
 <Card specialization="Chronomancer" title="Power Chronomancer">
+
 | Build                                                                                  | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | -------------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Chronomancer" disableLink/>](/builds/mesmer/power-chronomancer) | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> |
@@ -226,6 +240,7 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 <Divider text="Condi Offmeta builds"/>
 
 <Card specialization="Scourge" title="Condi Scourge">
+
 | Build                                                                             | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | --------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Scourge" disableLink/>](/builds/necromancer/condi-scourge) | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="3"/> |
@@ -240,6 +255,7 @@ Due to being a condition based build, it will not benefit as highly from slaying
 </Card>
 
 <Card specialization="Weaver" title="Condi Weaver">
+
 | Build                                                                            | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | -------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Weaver" disableLink/>](/builds/elementalist/condi-weaver) | <Rating value="3"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="5"/> |
@@ -256,11 +272,13 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
 <Divider text="Heal builds"/>
 
 <Card specialization="Firebrand" title="Heal Firebrand">
+
 | Build                                                                             | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | --------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Firebrand" disableLink/>](/builds/guardian/heal-firebrand) | <Rating value="4"/> | <Rating value="1"/> | <Rating value="3"/> | <Rating value="1"/> | <Rating value="2"/> |
 
 <Warning>
+
 This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a hybrid variant that is in-between the full heal and damage versions called [Seraph Firebrand](/builds/guardian/seraph-firebrand) for parties wanting to transition to no heal runs.
 </Warning>
 
@@ -274,14 +292,15 @@ If you play this build we highly recommend learning the <Skill name="Bane Signet
 </Card>
 
 <Card specialization="Firebrand" title="Seraph Firebrand">
+
 | Build                                                                               | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | ----------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Firebrand" disableLink/>](/builds/guardian/seraph-firebrand) | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> |
 
-The **<Specialization text="Seraph Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable. \
-\
- It plays very similar to <BuildLink build="Condi Firebrand" specialization="Firebrand"/>, except that the damage output is significantly lowered due to slotting the Honor trait line. \
-\
+The **<Specialization text="Seraph Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable. 
+
+ It plays very similar to <BuildLink build="Condi Firebrand" specialization="Firebrand"/>, except that the damage output is significantly lowered due to slotting the Honor trait line. 
+
  The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option than Seraph for raids and strikes. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/>.
 </Card>
 

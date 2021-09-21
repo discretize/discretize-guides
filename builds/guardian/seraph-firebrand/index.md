@@ -150,7 +150,7 @@ sections:
       </Warning>
 
 
-      The rotation is a **lot** simpler compared to any other <Specialization name="Guardian"/> build (except for HFB where your weapons do not have immediate effect on how efficient the build is). However, weapon swaps require careful consideration, because it is not efficient to be stuck on staff or to have less than 25 <Boon name="might"/> during a damage phase.\
+      The rotation is a **lot** simpler compared to any other <Specialization name="Guardian"/> build (except for HFB where your weapons do not have immediate effect on how efficient the build is). However, weapon swaps require careful consideration, because it is not efficient to be stuck on staff or to have less than 25 <Boon name="might"/> during a damage phase.
 
       Getting the weapon swaps right is probably the hardest part (more info below). Generally, it is recommended to always camp Axe/Torch and only swap to staff to use <Skill name="Empower"/> to top up <Boon name="Might"/>.
 

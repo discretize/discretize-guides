@@ -28,6 +28,7 @@ consumables: [78978, 49940]
 
 <Grid>
 <GridItem sm="8">
+
 Light up the *Bonfire* with your special action key skill. Kill the spawning *Icebrood Elementals* or use control effects like <Control name="Pull"/> to prevent them from extinguishing it and throw *Firewood* into the fire to keep it burning. The stronger the bonfire, the faster the ice wall will melt - usually after around 75 seconds.
 
 If you gain too many stacks of _Hypothermia_ (one every 5 seconds), reset them by standing at the bonfire.
@@ -56,6 +57,7 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 
 <Grid>
 <GridItem sm="6">
+
 ## Elemental Source
 
 At the start of the fight, light up the five bonfires to remove the 10 stacks of _Rime Shield_ from the boss. Each stack reduces its damage taken by 10%.
@@ -96,6 +98,7 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 </GridItem>
 
 <GridItem sm="7">
+
 ## Forest <Item id="8883" disableText/><Item id="24667" disableText/>
 
 After the Elemental Source is destroyed, everyone except the fastest player can `/gg` and wait for the next checkpoint at the cave to trigger. Mobility skills and <Item id="85244"/> / <Item id="49940"/> are very good here, **skip videos below**.
@@ -124,6 +127,7 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 
 <Grid>
 <GridItem sm="8">
+
 ## Shaman Lornarr Dragonseeker <Item id="8883" disableText/><Item id="24667" disableText/>
 
 Stack <Boon name="Might"/> before the final boss. Make sure to dodge into the boss room to avoid getting <Condition name="Chilled"/> from the icy bolts.

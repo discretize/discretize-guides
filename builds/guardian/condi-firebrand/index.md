@@ -381,6 +381,7 @@ benchmark:
 <Card title="Rotation">
 
 <Warning>
+
 **Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast! Never interrupt your axe auto attack chain! Keep <Skill name="purgingflames"/> on cooldown!**
 </Warning>
 
@@ -439,6 +440,7 @@ When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 <Card title="Precasting">
 
 <Warning>
+
 The most important part is to get the precast of Ashes of the Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
 </Warning>
 

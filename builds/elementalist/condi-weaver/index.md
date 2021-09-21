@@ -277,6 +277,7 @@ date: 2021-09-18T23:21:57.325Z
 <Grid>
 <GridItem xs="12" sm="12">
 <Card title="Disclaimer">
+
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
 </Card>
 </GridItem>
@@ -312,119 +313,147 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <Skill name="Air Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Weave Self"/>
 2. <Skill name="Signet of Fire"/>
 3. <Skill name="Gale Strike"/>
 4. <Skill name="Magnetic Wave"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Flame Uprising"/>
 2. <Skill name="Pyro Vortex"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Transmute Fire"/>
 2. <Skill name="Cauterizing Strike"/>   
 3. <Skill name="Flamewall"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Lava Skin"/>
 2. <Skill name="Earthen Vortex"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Rust Frenzy"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Flame Uprising"/>
 2. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> =>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Searing Slash"/>
 2. <Skill name="Transmute Fire"/>
 3. <Skill name="Signet of Fire"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Pyro Vortex"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Flame Uprising"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Cauterizing Strike"/>
 2. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> =>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Searing Slash"/>
 2. <Skill name="Transmute Fire"/>
 3. <Skill name="Flamewall"/>
 4. <Skill name="Earthen Vortex"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Water Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Natural Frenzy"/>
 2. <Skill name="Magnetic Wave"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Water Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Flame Uprising"/>
 2. <Skill name="Signet of Fire"/>
 3. <Skill name="Twin strike"/>
-4. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/> 
+4. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Transmute Fire"/>
 2. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
 3. <Skill name="Cauterizing Strike"/>
 4. <Skill name="Flame Uprising"/>
+
 </GridItem>
 </Card>
 
@@ -458,127 +487,153 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Lava Skin"/>
 2. <Skill name="Earthen Vortex"/>
 3. <Skill name="Crystal Slash"/> => <Skill name="Crystalline Strike"/> => <Skill name="Crystalline Sunder"/>
 4. <Skill name="Transmute Fire"/>
 5. <Skill name="Flamewall"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Signet of Fire"/>
 2. <Skill name="Rust Frenzy"/>
 3. <Skill name="Crystal Slash"/> => <Skill name="Crystalline Strike"/> =>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Crystalline Sunder"/>
 2. <Skill name="Flame Uprising"/> + <Skill name="Magnetic Wave"/>
 3. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Transmute Fire"/>
 2. <Skill name="Cauterizing Strike"/>
 3. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
 4. <Skill name="Flame Uprising"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Signet of Fire"/>
 2. <Skill name="Pyro Vortex"/>
 3. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill id="45216"/>
 4. <Skill name="Flamewall"/>
 5. <Skill name="Transmute Fire"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
 2. <Skill name="Flame Uprising"/>
 3. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> =>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Searing Slash"/>
 2. <Skill name="Lava Skin"/>
 3. <Skill name="Earthen Vortex"/>
 4. <Skill name="Crystal Slash"/> => <Skill name="Crystalline Strike"/> => <Skill name="Crystalline Sunder"/>
 5. <Skill name="Transmute Fire"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Signet of Fire"/> + <Skill name="Magnetic Wave"/>
 2. <Skill name="Rust Frenzy"/>
 3. <Skill name="Crystal Slash"/> => <Skill name="Crystalline Strike"/> =>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Crystalline Sunder"/>
 2. <Skill name="Flame Uprising"/>
 3. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/> x2
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Transmute Fire"/>
 2. <Skill name="Flamewall"/>
 3. <Skill name="Cauterizing Strike"/>
 3. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
 4. <Skill name="Flame Uprising"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Signet of Fire"/>
 2. <Skill name="Pyro Vortex"/>
 3. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill id="45216"/>
 4. <Skill name="Transmute Fire"/>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
 2. <Skill name="Flame Uprising"/>
 3. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> =>
+
 </GridItem>
 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="10">
+
 1. <Skill name="Searing Slash"/>
 2. <Skill name="Lava Skin"/>
 3. <Skill name="Earthen Vortex"/>
+
 </GridItem>
 </Card>
 </GridItem>

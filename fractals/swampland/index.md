@@ -35,6 +35,7 @@ sigils:
 
 <Grid>
 <GridItem sm="8">
+
 ## Running the wisps
 
 Trigger the start event by walking to the three _Wisp Clefts_ in the South. Wait for three players to be ready at each of the randomly spawned Wisps, usually indicated by typing `ready` in chat. Count down to go and deliver the Wisps to the Clefts within 30 seconds while avoiding <Control name="Stun"/>, <Condition name="Immobile"/> and <Condition name="crippled"/> from the spike, wire and hunting traps on the ground.
@@ -79,6 +80,7 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 
 <Grid>
 <GridItem sm="8">
+
 In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="Stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the *Mistlock Singularity* inside the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
 
 <Warning>
@@ -97,6 +99,7 @@ In the passage, the Mossman is waiting to fight you. You can break his defiance 
 
 <Grid>
 <GridItem sm="8">
+
 ## Bloomhunger
 
 Activate the encounter by placing the nearby Wisp into an empty Wisp Cleft. Bloomhunger (and all trash mobs) are only vulnerable inside the active Wisp Cleft area, additionally all players gain 100% increased endurance regeneration from it. The active area switches clockwise, move to the next position as soon as it decreases in size.

@@ -40,6 +40,7 @@ sigils:
 
 <Grid>
 <GridItem sm="8">
+
 ## Start
 
 Activate the _Detonator_ and wait for the <Specialization name="Renegade"/>, <Specialization name="Weaver"/>, <Specialization name="Guardian"/> or <Specialization name="Daredevil"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="Might"/> in the vestibule) or if no one can skip just walk up to the _Elite Flame Legion Fire Shaman_. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
@@ -77,6 +78,7 @@ Activate the _Detonator_ and wait for the <Specialization name="Renegade"/>, <Sp
 <Grid>
 <GridItem sm="12">
 <Warning>
+
 For a faster completion time you can split up. <Specialization name="Berserker"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Weaver"/> soloes Superheated Room <Label>West</Label> and <Specialization name="Renegade"/> and <Specialization name="Soulbeast"/> do Researcher Dormitories <Label>East</Label>.
 </Warning>
 </GridItem>
@@ -86,12 +88,14 @@ For a faster completion time you can split up. <Specialization name="Berserker"/
 
 <Tabs>
 <Tab specialization="Guardian">
+
 If you decide to do it with 2 people ping anyone with least DPS to come help you.
 </Tab>
 </Tabs>
 </GridItem>
 
 <GridItem sm="5">
+
 ## Repulsor lab <Label>South</Label>
 
 This should be done by two people, **but can be soloed (usually by <Specialization name="Guardian"/>) as shown in the video below**. Learn the timing of the turret shots and jump or dodge over them. You can also take a _Safety Shield_ from the beginning and use it to block shots for a short duration.
@@ -110,6 +114,7 @@ Activating <Label>2</Label> enables short access to the two final consoles at <L
 
 <Grid>
 <GridItem sm="8">
+
 ## Researcher Dormitories <Label>East</Label>
 
 2 people (usually <Specialization name="Renegade"/> and <Specialization name="Soulbeast"/>) should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
@@ -132,6 +137,7 @@ Activating <Label>2</Label> enables short access to the two final consoles at <L
 </GridItem>
 
 <GridItem sm="8">
+
 ## Superheated Room <Label>West</Label>
 
 This is usually soloed by the <Specialization name="Weaver"/> but other classes can do it as well, like in the **video shown below**.
@@ -170,6 +176,7 @@ This is usually soloed by the <Specialization name="Weaver"/> but other classes 
 
 <Grid>
 <GridItem>
+
 ## Ooze Room: Subject 6 <Label>Northwest</Label>
 
 Gather at Subject 6 after finishing the other three colliders. During the fight, small and large (at 75%/50/25% health) Oozes will spawn and move toward it slowly, restoring its health when they reach it. Subject 6 also has a easily distinguishable _Shield Form_, hitting him then will give him stacks of _Overload_. Reaching 20 stacks results in a party wipe.
@@ -188,10 +195,12 @@ Requires high damage and you may have to wait a while as the blocking occurs at 
 
 <Tabs>
 <Tab specialization="Daredevil">
+
 Share <Skill id="13132"/> with 5 allies to deal 750 unblockable defiance bar damage.
 </Tab>
 
 <Tab specialization="Berserker">
+
 Equip <Skill id="14404"/> to make your CC skills unblockable.<Video youtube="XjRteFiMY2Y"/>
 </Tab>
 </Tabs>
@@ -202,6 +211,7 @@ Equip <Skill id="14404"/> to make your CC skills unblockable.<Video youtube="XjR
 
 <Grid>
 <GridItem sm="8">
+
 ## Thaumanova Anomaly
 
 After all four colliders are disabled, use `/gg` to reset any cooldowns and resurrect directly at the Thaumanova Anomaly console. Activate it to teleport up and stack <Boon name="Might"/>.\

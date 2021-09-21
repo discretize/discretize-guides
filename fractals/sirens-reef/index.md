@@ -19,6 +19,7 @@ sigils:
 
 <Grid>
 <GridItem sm="12">
+
 ## Start: Wipe out the dinosaurs!
 
 When you enter the fractal, first you need to kill 2 _Veteran Bristlebacks_, 2 _Veteran Smogscales_ and 1 _Veteran Bonebreaker_. After you killed them, you need to move to the rock wall to kill the _Champion Stonehead_. Break his breakbar to kill it easily. After killing it, he will <Condition name="Fear"/> you back and die in the mines. Use the cannon to clear out the mines to gain access to the next encounter.
@@ -37,6 +38,7 @@ When you enter the fractal, first you need to kill 2 _Veteran Bristlebacks_, 2 _
 </GridItem>
 
 <GridItem sm="12">
+
 ## The Forgotten Fortress
 
 Prestack boons on the _Mistlock Singularity_ nearby.
@@ -63,6 +65,7 @@ _Blast Black Peter_ the skeleton boss is kind of a DPS race. He starts spawning 
 
 <Grid>
 <GridItem sm="12">
+
 ## The Maze
 
 ### The treasures
@@ -92,6 +95,7 @@ Your objective is simple. You need to collect 3 treasures and carry them to the 
 </GridItem>
 
 <GridItem sm="6">
+
 ### The way to the ship
 
 Here you have to get the chest onto the ship by throwing the treasure chest at each other, same tactic as before. You can use the _Mistlock Singularity_ at the entrance to reset your cooldowns. If you happen to be in combat (you triggered the AoE circles) then just skip it and take it when you '/gg' before you fight Arabella Crowe (it is to reset mobs from the previous event and to start with no cd and fresh boons).
@@ -104,6 +108,7 @@ Here you have to get the chest onto the ship by throwing the treasure chest at e
 
 <Grid>
 <GridItem sm="6">
+
 ### Retrieve the second treasure
 
 You need to get a chest again, now from one of the shores (random which one). Use same tactic as before, throw the chest across. There are 2 cannons each side of the ship, use it to clear mobs easily. After recovering the treasure the first mini boss spawns named _Mad Jack Squall_. During the boss there will be AoEs across the ship that blows players down the ship into the poisonous water. These AoEs cannot be ignored with <Boon name="Stability"> so avoid standing in them to stay on the platform. Kill him to start the next objective.</Boon>

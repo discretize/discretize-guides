@@ -9,6 +9,7 @@ disableBosses: ['LightAi', 'DarkAi']
 <ConditionalComponent condition="pug">
 <Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
 <Warning>
+
 This fight gets very messy if the adds are not immediately CCed. Especially at this fight it is recommended to grab extra CC skills to make up for the lack of CC of your team mates.
 </Warning>
 
@@ -19,10 +20,12 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 </Boss>
 
 <Warning>
+
 The timing of <Skill name="One Wolf Pack"/> later on in the fight will depend on your groups DPS and when you first cast it. If it is off cooldown at the start of phase 3 use it then. If not use it after you have casted <Skill name="Barrage"/> on P4.
 </Warning>
 
 <Warning>
+
 Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Warning>
 
@@ -114,6 +117,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 <ConditionalComponent condition="static">
 <Boss name="mama" video="HsGMLaDKzrA" videoCreator="Stellan [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+
 -   Pet: <Skill id="43636" disableText/> Rock Gazelle.
 
 - Take <Trait id="2143"/>.
@@ -126,6 +130,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 <Tabs>
 <Tab title="Standard Rotation">
+
 ### **Precast**
 
 - Make sure you have <Trait name="Leader of the pack"/> while precasting!
@@ -220,6 +225,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 <Tab title="Delayed Rotation">
 <Warning>
+
 This rotation is designed to be used when playing double Soulbeast comps, it bursts into phases two and four covering the damage that a Soulbeast doing the standard rotation loses and covers the CC that a Weaver would normally do. You should also swap <Skill name="Frost Spirit"/> for <Skill name="Frost Trap"/>. To see a PoV of this in action check the [Videos page](/videos).
 </Warning>
 
@@ -297,6 +303,7 @@ This rotation is designed to be used when playing double Soulbeast comps, it bur
 
 <ConditionalComponent condition="pug">
 <Boss name="siax" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
+
 -   Pet: <Skill id="43636" disableText/> Rock Gazelle.
 
 - Take <Trait id="2128"/>, <Trait name="Two handed training"/>.
@@ -308,14 +315,17 @@ This rotation is designed to be used when playing double Soulbeast comps, it bur
 </Boss>
 
 <Warning>
+
 The timing of <Skill name="One Wolf Pack"/> in this fight will depend on your group. If your group has low DPS and/or is running into the fight use <Skill name="One Wolf Pack"/> just before the CC bar appears on P1 and again at the start of P3. If your group is portalling into the fight and has reasonable DPS cast <Skill name="One Wolf Pack"/> as late as you can in the precast, then save it for the start of P2.
 </Warning>
 
 <Warning>
+
 If your P1 is slow you may have time to swap to Greatsword for the first split phase. When you go back to Siax use <Skill id="46629"/> -> <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/> to burst into <Effect name="Exposed"/>.
 </Warning>
 
 <Warning>
+
 Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up.
 </Warning>
 
@@ -383,6 +393,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 <ConditionalComponent condition="static">
 <Boss name="siax" video="6JGgL1pGqmM" videoCreator="Jetrell [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Impact" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
+
 -   Pet: <Skill id="43636" disableText/> Rock Gazelle if you CC, <Skill id="44617" disableText/> Red Moa if you aren't breaking.
 
 - Take <Trait id="2128"/>.
@@ -397,6 +408,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 <Tabs>
 <Tab title="Standard Rotation">
+
 ### **Precast**
 
 - Precast <Skill name="Frost Trap"/> and a <Item id="78978"/> entrance on the boss orb before the fight starts.
@@ -467,6 +479,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 <Tab title="Quickdraw Rotation">
 <Warning>
+
 When you play this rotation you will want to replace the Marksmanship traitline with the following traits on the Skirmishing traitline; <Trait name="Sharpened Edges"/>, <Trait name="Hidden Barbs"/> and <Trait name="Quickdraw"/>. <Trait name="Spotter"/> is optional and should be run if your group needs the precision to Crit cap, and <Trait name="Trappers Expertise"/> can be run if it will allow you to fit a <Skill name="Frost Trap"/> in on Phase 2 (Will only be worth taking if your group is slow!). To see a PoV of this in action check the [Videos page](/videos).<Traits traits1Id="30" traits1="Skirmishing" traits1SelectedIds="1069,1846,1064" unembossed/>There are Two ways to handle the splits with this strat. With a double <Specialization name="Dragonhunter"/> comp you can solo your first add with the help of precasted traps and duo the second add with the other <Specialization name="Soulbeast"/>. If you run other comps you should duo both adds.
 </Warning>
 
@@ -538,6 +551,7 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 
 <ConditionalComponent condition="pug">
 <Boss name="ensolyss" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Force" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
+
 -   Pet: <Skill id="43636" disableText/> Rock Gazelle.
 
 - Take <Trait id="2128"/>.
@@ -547,10 +561,12 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 </Boss>
 
 <Warning>
+
 The following guide is assuming your group doesn't instabreak the first CC bar. If you are going to instabreak you should refer to the static opener then follow the rest of the rotation from this guide.
 </Warning>
 
 <Warning>
+
 Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Warning>
 
@@ -620,6 +636,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 <ConditionalComponent condition="static">
 <Boss name="ensolyss" video="x1hLiHyN3t8" videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
+
 -   Pet: <Skill id="43636" disableText/> Rock Gazelle.
 
 - Take <Trait id="2128"/> and <Trait name="Clarion Bond"/>.
@@ -700,6 +717,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 <ConditionalComponent condition="pug">
 <Boss name="skorvald" video="o7R-tnLH4ws" videoCreator="Elu" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+
 -   Pet: <Skill id="43636" disableText/> Rock Gazelle.
 
 - Take <Trait id="2128"/>.
@@ -713,10 +731,12 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 </Boss>
 
 <Warning>
+
 Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Warning>
 
 <Warning>
+
 Spirit Management:
 
 - If you run with a healer you can summon it on the platform and you can forget about it as it will probably stay alive the whole fight (Obviously if it dies resummon it!).
@@ -787,6 +807,7 @@ Spirit Management:
 
 <ConditionalComponent condition="static">
 <Boss name="skorvald" video="CTfw_n75sR4" videoCreator="BlackHawk [dT]" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+
 -   Pet: <Skill id="43636" disableText/> Rock Gazelle.
 
 - Take <Trait id="2128"/>.
@@ -804,6 +825,7 @@ Spirit Management:
 <Tabs>
 <Tab title="4 Way Split">
 <Warning>
+
 Spirit Management:
 
 - You should spwan your spirit at the entrance to the fractal and let it tick down to around 70% before starting to precast. This means the spirit will die after the first phase and you can resummon it before phase 2, where it will survive for the rest of the fight.
@@ -874,6 +896,7 @@ Spirit Management:
 
 <Tab title="Portal Strat">
 <Warning>
+
 Spirit Management:
 
 - This depends on how your <Specialization name="Renegade"/> plays, if they precast <Skill id="45686"/> before Skorvald spawns then you can summon your <Skill name="Frostspirit"/> down on the boss platform after the precast and the Kalla heal skill will sustain it until the second phase. In this scenario you don't teleport it at all you just leave it behind.
@@ -932,6 +955,7 @@ Spirit Management:
 
 <ConditionalComponent condition="pug">
 <Boss name="artsariiv" video="o7R-tnLH4ws" timestamp="112" videoCreator="Elu" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+
 -   Pet: <Skill id="43636" disableText/> Rock Gazelle.
 
 - Take <Trait name="Oppressive Superiority"/>.
@@ -945,18 +969,22 @@ Spirit Management:
 </Boss>
 
 <Warning>
+
 If you group is going to skip the first anomaly, follow the rotation for side strat in the static section.
 </Warning>
 
 <Warning>
+
 This guide assumes you are going to let your group kill the 2nd and 3rd anomalies or skip them completely. If you get the bomb don't panic. Attempt to get the reflect and then if you have time special action key to the dome or /gg! If your group can't kill the anomaly without you you can still attempt to reflect. When you get to the side use <Skill name="Point Blank Shot"/>, quickly weapon swap and <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
 </Warning>
 
 <Warning>
+
 If your group has fast or organised CC on the split phases, your <Skill name="Whirling Defense"/> probably won't be off cooldown in the middle. If this is the case use <Skill name="pathofscars"/> and swap to Longbow and proc <Item id="84505"/> with <Skill name="Point Blank Shot"/>. Then use <Skill name="Rapid Fire"/> and your pet skills.
 </Warning>
 
 <Warning>
+
 Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Warning>
 
@@ -1016,6 +1044,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 <ConditionalComponent condition="static">
 <Boss name="artsariiv" video="rYhC4Ne7JCU" timestamp="" videoCreator="BlackHawk [dT]" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131">
+
 -   Pet: <Skill id="44617" disableText/> Red Moa for DPS, <Skill id="43636" disableText/> Rock Gazelle for CC.
 
 - Take <Trait id="2128"/>.
@@ -1033,6 +1062,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 <Tabs>
 <Tab title="Mid Strat">
 <Warning>
+
 If you are going to triple mid burn you may want to run the replace Marksmanship with the following traits which will allow you to use <Skill name="Frost Trap"/> each phase.<Traits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1075,1846,1888" unembossed/>Since there is no <Effect name="Exposed"/> in mid strat, it is worth swapping <Item id="24868"/> for <Item id="24597"/> on your off-hand Axe.
 </Warning>
 
@@ -1095,6 +1125,7 @@ If you are going to triple mid burn you may want to run the replace Marksmanship
 </Tab>
 
 <Tab title="Side Strat">
+
 ### **Precast**
 
 - Remember to share <Skill name="Moastance"/> and blast <Boon name="Might"/> with <Skill name="Callofthewild"/>.
@@ -1163,6 +1194,7 @@ If you are going to triple mid burn you may want to run the replace Marksmanship
 
 <ConditionalComponent condition="pug">
 <Boss name="arkk" video="o7R-tnLH4ws" timestamp="228" videoCreator="Elu" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+
 -   Pet: <Skill id="44617" disableText/> Red Moa.
 
 - Take <Trait id="2128"/>.
@@ -1182,6 +1214,7 @@ If you are going to triple mid burn you may want to run the replace Marksmanship
 </Boss>
 
 <Warning>
+
 Your rotation will depend on your groups DPS and ability to CC! In general make sure you have as many damage modifiers up as you can when you do your burst and try to time it with the <Effect name="Exposed"/> effect. Outside of your burst use skills with shorter cooldowns while you wait for your cooldowns to line up and try not to get stuck auto attacking on Longbow.
 </Warning>
 
@@ -1311,6 +1344,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 <ConditionalComponent condition="static">
 <Boss name="arkk" video="pcBwuDwX8zo" timestamp="187" videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="12483" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+
 -   Pet: <Skill id="44617" disableText/> Red Moa.
 
 - Take <Trait id="2128"/>.

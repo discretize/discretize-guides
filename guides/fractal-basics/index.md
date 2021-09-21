@@ -32,8 +32,10 @@ Starting with tier 2 the heroes are encountering _Mistlock instabilities_ which 
 Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss by 50%. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally everyone in the team contributes to break the bar as it appears.
 
 <Warning>
+
 **Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**  \
 Read more about breaking Defiance bars here: [CC-distribution examples](/guides/cc-distribution)!
+
 </Warning>
 
 ---
@@ -168,6 +170,7 @@ Please consult the [meta-page](guides/meta-explained) for more information about
 
 <Grid>
 <GridItem sm="8">
+
 You can use the chat command `/gg` within fractals to immediately kill your character (dead, not downed). This can be used generously in fractal skips, as it allows the entire party to teleport to a checkpoint once one player activates it.
 
 If everyone in the party is dead at the same time, cooldowns will reset for all players. Therefore it is advised for the entire group to use `/gg` at certain key positions to reset long cooldowns, like between Siax (2nd boss) and Ensolyss (3rd boss) in Nightmare CM. Never resurrect as long as another player is still alive. If another player tells you `/gg` he is probably doing a skip that you are unaware of or he wasn't ready for combat yet. Either way, do not waste time questioning it.
@@ -192,11 +195,13 @@ Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization
 </GridItem>
 
 <GridItem sm="12" md="6">
+
 After maxing the fractal masteries to level 4 you get access to *Mistlock Singularities*. Taking one of these will reset the cooldowns of all your skills! This allows you to precast certain skills before entering the battle without a penalty. It makes sense to precast <Boon name="Quickness"/>, <Boon name="Alacrity"/> and use blast finishers on certain Combo Fields.
 
 The most common applications are <Boon name="Might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="Stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
 <Warning>
+
 Do not use other combo fields than fire on the *Mistlock Singularity*! All combo fields but the *Fire Field* are useless in terms of prebooning.
 </Warning>
 </GridItem>
@@ -273,6 +278,7 @@ Be careful not to aggro mobs with blasts or you will get <Effect name="Revealed"
 </GridItem>
 
 <GridItem sm="12" md="6">
+
 #### Other skills that grant party <Effect name="Stealth"/>
 
 - <Specialization name="Mesmer"/>:
@@ -296,6 +302,7 @@ Be careful not to aggro mobs with blasts or you will get <Effect name="Revealed"
 
 <Grid>
 <GridItem sm="12" md="6">
+
 In many Fractals the concept of "Line of Sight" can be applied to pack mobs together without using any skills that <Control name="Pull"/>. As soon as a player takes aggro of a mob it tries to attack the player. In doing so it needs to find a valid path. For enemies with melee weapons this means it will run right towards you, ranged enemies need a clear sight towards the player without obstruction. After taking aggro of a mob the player wants to move behind a wall so the mob loses Line of Sight and is forced to take the shortest path to the player.
 
 Generally, you **always** want to stick together as a group. Reason being that boons and unique buffs won't reach players that are standing too far away. Since most classes deal high damage in melee the logical conclusion is to stack up, pull mobs together either with <Control name="Pull"/>s or Line of Sight and burst them down as quickly as possible. **Even if the amount of enemies seems dangerous at the first glance the most secure position on the map is in the center of the stack!**
@@ -361,10 +368,12 @@ Below is a list of all current instabilities and their possible countermeasures.
 </GridItem>
 
 <GridItem sm="11" md="11">
+
 Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!\
 While Fractals are their main focus, they do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons!
 
 All information is available on their [discord](https://discord.gg/CE3TswT).
+
 </GridItem>
 </Grid>
 
