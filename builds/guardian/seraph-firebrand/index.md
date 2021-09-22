@@ -17,7 +17,7 @@ sections:
       <Boon name="Aegis"/> and heals is invaluable.
 
 
-      The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option if playing outside of fractals. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/).
+      The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option if playing outside of fractals or with low AR. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/).
   - type: equipment
     title: Equipment
     content: ""
@@ -122,6 +122,26 @@ sections:
       </Grid>
 
       <Card title="Common Gear Adjustments">
+
+      As you will have seen from the equipment, Celestial/Seraphbrand has many variations you can use to adapt to youparty and needs. Here is a bfief overview of the common Attribute types, Runes, Sigils and Consumables that are used when gearing Celestial and Seraph variants. As mentioned above you can use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) to help calculate what gear will be best, but in general remember you want to aim for 100% <Condition name="Burning"/> duration and at least 60% <Boon name="Quickness"/> duration to allow you to play <Trait name="LEgendary Lore"/>!
+
+
+
+      | Attributes | Runes | Sigils | Food | Utility | 
+
+      | --- | --- | --- | --- | --- | 
+
+      | **Celestial -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/> | <Item id="24765"/> | <Item id="44944"/> | <Item id="92469"/> <br/> 10% Outgoing Healing , 100 Condi Damage, <br/> 70 Condi Duration | <Item id="48917"/> |
+
+      | **Seraph -** <Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/> | <Item id="24691"/> | <Item id="24624"/> | <Item id="92505"/> <br/> 10% Outgoing Healing , 100 Condi Duration, <br/> 70 Condi Damage | <Item id="48916"/> |
+
+      | **Viper -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Condition Damage"/>, <Attribute name="Expertise"/> | <Item id="70600"/> | <Item id="24560"/> | <Item id="92509"/> <br/> 10% Outgoing Healing , 100 Concentration, <br/> 70 Condi Duration | <Item id="67528"/> |
+
+      | | <Item id="24842"/> | <Item id="74326"/> | <Item id="92440"/> <br/> 10% Outgoing Healing , 100 Healing Power, <br/> 70 Concentration |  |
+
+      | | <Item id="83338"/> | <Item id="72339"/> | <Item id="12484"/> |  |
+
+      | | | <Item id="44950"/> |
 
 
       </Card>
@@ -610,7 +630,7 @@ character:
           "elite": "Feel my Wrath"
         }
       }
-date: 2021-09-21T23:54:22.873Z
+date: 2021-09-22T00:55:19.613Z
 ---
 
 <Divider text="Rotation"/>
