@@ -1,7 +1,9 @@
 ---
 skills:
+  - 42938
+  - 42842
+  - 42009
   - 30815
-  - 43739
 effects:
   - Stealth
 title: Power Holosmith
@@ -142,6 +144,7 @@ sections:
     content: ""
 rating: Good
 role: Power Damage
+author: Ascers.6082
 profession: Engineer
 specialization: Holosmith
 conditions:
@@ -269,9 +272,8 @@ character:
 
 
       You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
-date: 2021-09-18T23:15:47.090Z
+date: 2021-09-21T22:56:29.404Z
 ---
-
 <Grid>
 <GridItem sm="6">
 <Card title="Rotation">
