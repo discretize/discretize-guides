@@ -123,7 +123,7 @@ sections:
 
       <Card title="Common Gear Adjustments">
 
-      As you will have seen from the equipment, Celestial/Seraphbrand has many variations you can use to adapt to youparty and needs. Here is a bfief overview of the common Attribute types, Runes, Sigils and Consumables that are used when gearing Celestial and Seraph variants. As mentioned above you can use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) to help calculate what gear will be best, but in general remember you want to aim for 100% <Condition name="Burning"/> duration and at least 60% <Boon name="Quickness"/> duration to allow you to play <Trait name="LEgendary Lore"/>!
+      As you will have seen from the equipment, Celestial/Seraphbrand has many variations you can use to adapt to your needs. Here is a brief overview of the common Attribute types, Runes, Sigils and Consumables that are used when gearing Celestial and Seraph variants. As mentioned above you can use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) to help calculate what gear will be best, but in general remember you want to aim for 100% <Condition name="Burning"/> duration and at least 60% <Boon name="Quickness"/> duration to allow you to play <Trait name="LEgendary Lore"/>!
 
 
 
@@ -630,7 +630,7 @@ character:
           "elite": "Feel my Wrath"
         }
       }
-date: 2021-09-22T00:56:07.599Z
+date: 2021-09-22T00:58:11.534Z
 ---
 
 <Divider text="Rotation"/>
