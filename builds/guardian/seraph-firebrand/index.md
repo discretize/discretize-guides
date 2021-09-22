@@ -398,7 +398,7 @@ character:
     note: >-
       **This build deals less damage than the seraph version, but gains more
       boon duration which allows it to be played with lower AR (typically you
-      want a minimum of 60% to play <Trait name="Legendary Lore"/>. If you have
+      want a minimum of 60% to play <Trait name="Legendary Lore"/>). If you have
       higer AR but dont want to play Seraph you can swap to <Item id="24765"/>
       and replace your <Item id="24624"/> with <Item id="24560"/> for some more
       damage (this will start to overcap on <Condition name="Burning"/>
@@ -630,7 +630,7 @@ character:
           "elite": "Feel my Wrath"
         }
       }
-date: 2021-09-22T00:55:19.613Z
+date: 2021-09-22T00:56:07.599Z
 ---
 
 <Divider text="Rotation"/>
