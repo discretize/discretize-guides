@@ -18,9 +18,296 @@ sections:
 
 
       The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option if playing outside of fractals or with low AR. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/).
-  - type: equipment
+  - type: null
     title: Equipment
-    content: ''
+    content: >-
+      <CharacterWithAr> <Character title="Celestial 162 AR" 
+                 gear={{ "profession": "Guardian",
+                  "weight":"Heavy", "gear":[
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial"
+              ], "attributes":{
+                   "Health": 23895,
+                   "Armor": 3189,
+                   "Power": 2465,
+                   "Precision": 1998,
+                   "Toughness": 1918,
+                   "Vitality": 2225,
+                   "Ferocity": 975,
+                   "Condition Damage": 2132,
+                   "Expertise": 745,
+                   "Concentration": 918,
+                   "Healing Power": 925,
+                   "Agony Resistance": 162,
+                   "Condition Duration": 59.666666666666664,
+                   "Boon Duration": 76.2,
+                   "Critical Chance": 82.52380952380952,
+                   "Critical Damage": 215,
+                   "Burning Duration": 40,
+                   "Effective Power": 6906.244055059524,
+                   "Power DPS": 5962.186819962823,
+                   "Burning Damage": 796.0184999999999,
+                   "Burning Stacks": 24.359333333333332,
+                   "Burning DPS": 19390.479980999997,
+                   "Bleeding Damage": 224.88000000000002,
+                   "Bleeding Stacks": 5.907666666666667,
+                   "Bleeding DPS": 1328.51608,
+                   "Poison Damage": 242.13000000000002,
+                   "Poison Stacks": 0,
+                   "Poison DPS": 0,
+                   "Torment Damage": 335.52,
+                   "Torment Stacks": 0,
+                   "Torment DPS": 0,
+                   "Confusion Damage": 224.88000000000002,
+                   "Confusion Stacks": 0,
+                   "Confusion DPS": 0,
+                   "Damage": 26681.18288096282,
+                   "Effective Health": 126684420.1875,
+                   "Survivability": 64404.89079181495,
+                   "Effective Healing": 734.2500000000001,
+                   "Healing": 734.2500000000001
+              }, "runeId":24691, "runeName":"Traveler", "infusions":[
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130
+              ], "weapons":{
+                  "weapon1MainType": "Axe",
+                  "weapon1MainSigil1Id": 44944,
+                  "weapon1OffType": "Torch",
+                  "weapon1OffSigilId": 24624,
+                  "weapon2MainType": "Staff",
+                  "weapon2MainSigil1Id": 74326,
+                  "weapon2MainSigil2Id": 24624
+              }, "consumables":{
+                   "foodId": 91703,
+                   "utilityId": 48917,
+                   "infusion": "Malign +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Mantra of Solace",
+                  "utility2": "Mantra of Potence",
+                  "utility3": "Sanctuary",
+                  "elite": "Feel my Wrath"
+                } 
+              }}
+      > **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower AR (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>). If you have higer AR but dont want to play Seraph you can swap to <Item id="24765"/> and replace your <Item id="24624"/> with <Item id="24560"/> for some more damage (this will start to overcap on <Condition name="Burning"/> duration, so you will also need some Seraph pieces).**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!  </Character> <Character title="Seraph 203 AR"
+                  gear={{ "profession": "Guardian",
+                  "weight":"Heavy", "gear":[
+                  "Seraph",
+                  "Seraph",
+                  "Seraph",
+                  "Seraph",
+                  "Seraph",
+                  "Seraph",
+                  "Seraph",
+                  "Seraph",
+                  "Seraph",
+                  "Seraph",
+                  "Celestial",
+                  "Seraph",
+                  "Seraph",
+                  "Seraph"
+              ], "attributes":{
+                  "Health": 23895,
+                  "Armor": 3189,
+                  "Power": 2465,
+                  "Precision": 1998,
+                  "Toughness": 1918,
+                  "Vitality": 2225,
+                  "Ferocity": 975,
+                  "Condition Damage": 2132,
+                  "Expertise": 745,
+                  "Concentration": 918,
+                  "Healing Power": 925,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 59.666666666666664,
+                  "Boon Duration": 76.2,
+                  "Critical Chance": 82.52380952380952,
+                  "Critical Damage": 215,
+                  "Burning Duration": 40,
+                  "Effective Power": 6906.244055059524,
+                  "Power DPS": 5962.186819962823,
+                  "Burning Damage": 796.0184999999999,
+                  "Burning Stacks": 24.359333333333332,
+                  "Burning DPS": 19390.479980999997,
+                  "Bleeding Damage": 224.88000000000002,
+                  "Bleeding Stacks": 5.907666666666667,
+                  "Bleeding DPS": 1328.51608,
+                  "Poison Damage": 242.13000000000002,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 335.52,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 224.88000000000002,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 26681.18288096282,
+                  "Effective Health": 126684420.1875,
+                  "Survivability": 64404.89079181495,
+                  "Effective Healing": 734.2500000000001,
+                  "Healing": 734.2500000000001
+              }, "runeId":24765, "runeName":"Balthazar", "infusions":[
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130
+              ], "weapons":{
+                  "weapon1MainType": "Axe",
+                  "weapon1MainSigil1Id": 44944,
+                  "weapon1OffType": "Torch",
+                  "weapon1OffSigilId": 24624,
+                  "weapon2MainType": "Staff",
+                  "weapon2MainSigil1Id": 74326,
+                  "weapon2MainSigil2Id": 24624
+              }, "consumables":{
+                   "foodId": 91727,
+                   "utilityId": 48917,
+                   "infusion": "Malign +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Mantra of Solace",
+                  "utility2": "Mantra of Potence",
+                  "utility3": "Sanctuary",
+                  "elite": "Feel my Wrath"
+                } 
+              }}> **This is the standard build variant for high AR. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! </Character> <Character title="Celestial Heal 162AR"
+                  gear={{ "profession": "Guardian",
+                  "weight":"Heavy", "gear":[
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial"
+              ], "attributes":{
+                  "Health": 23535,
+                  "Armor": 3153,
+                  "Power": 2429,
+                  "Precision": 1962,
+                  "Toughness": 1882,
+                  "Vitality": 2189,
+                  "Ferocity": 939,
+                  "Condition Damage": 2049,
+                  "Expertise": 744,
+                  "Concentration": 882,
+                  "Healing Power": 1064,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 49.6,
+                  "Boon Duration": 73.8,
+                  "Critical Chance": 80.80952380952381,
+                  "Critical Damage": 212.6,
+                  "Burning Duration": 40,
+                  "Effective Power": 6668.827162916666,
+                  "Power DPS": 5757.223911921125,
+                  "Burning Damage": 773.8263749999999,
+                  "Burning Stacks": 23.131199999999996,
+                  "Burning DPS": 17899.532645399995,
+                  "Bleeding Damage": 217.41,
+                  "Bleeding Stacks": 5.535200000000001,
+                  "Bleeding DPS": 1203.407832,
+                  "Poison Damage": 234.66,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 324.315,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 217.41,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 24860.164389321122,
+                  "Effective Health": 92757318.75,
+                  "Survivability": 47156.74567869853,
+                  "Effective Healing": 936.1440000000001,
+                  "Healing": 936.1440000000001
+              }, "runeId":24842, "runeName":"Monk", "infusions":[
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130
+              ], "weapons":{
+                  "weapon1MainType": "Axe",
+                  "weapon1MainSigil1": "bursting",
+                  "weapon1OffType": "Torch",
+                  "weapon1OffSigil": "smoldering",
+                  "weapon2MainType": "Staff",
+                  "weapon2MainSigil1": "transference",
+                  "weapon2MainSigil2": "smoldering"
+              }, "consumables":{
+                  "food": "bowl-of-fire-meat-chili",
+                  "utility": "toxic-focusing-crystal",
+                  "infusion": "Malign +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Mantra of Solace",
+                  "utility2": "Mantra of Potence",
+                  "utility3": "Sanctuary",
+                  "elite": "Feel my Wrath"
+                } 
+              }}> **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!</Character> </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -131,13 +418,13 @@ sections:
 
       | --- | --- | --- | --- | --- | 
 
-      | **Celestial -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/> | <Item id="24765"/> | <Item id="44944"/> | <Item id="92469"/> <br/> 10% Outgoing Healing , 100 Condi Damage, <br/> 70 Condi Duration | <Item id="48917"/> |
+      | **Celestial -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/> | <Item id="24765"/> | <Item id="44944"/> | <Item id="92469"/> | <Item id="48917"/> |
 
-      | **Seraph -** <Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/> | <Item id="24691"/> | <Item id="24624"/> | <Item id="92505"/> <br/> 10% Outgoing Healing , 100 Condi Duration, <br/> 70 Condi Damage | <Item id="48916"/> |
+      | **Seraph -** <Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/> | <Item id="24691"/> | <Item id="24624"/> | <Item id="92505"/> | <Item id="48916"/> |
 
-      | **Viper -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Condition Damage"/>, <Attribute name="Expertise"/> | <Item id="70600"/> | <Item id="24560"/> | <Item id="92509"/> <br/> 10% Outgoing Healing , 100 Concentration, <br/> 70 Condi Duration | <Item id="67528"/> |
+      | **Viper -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Condition Damage"/>, <Attribute name="Expertise"/> | <Item id="70600"/> | <Item id="24560"/> | <Item id="92509"/> | <Item id="67528"/> |
 
-      | | <Item id="24842"/> | <Item id="74326"/> | <Item id="92440"/> <br/> 10% Outgoing Healing , 100 Healing Power, <br/> 70 Concentration |  |
+      | | <Item id="24842"/> | <Item id="74326"/> | <Item id="92440"/> |  |
 
       | | <Item id="83338"/> | <Item id="72339"/> | <Item id="12484"/> |  |
 
@@ -283,347 +570,8 @@ classification:
   - 4
   - 3
   - 4
-character:
-  - title: Celestial 162AR
-    gear: |-
-      {
-        "gear": [
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial"
-        ],
-        "attributes": {
-          "Health": 23895,
-          "Armor": 3189,
-          "Power": 2465,
-          "Precision": 1998,
-          "Toughness": 1918,
-          "Vitality": 2225,
-          "Ferocity": 975,
-          "Condition Damage": 2132,
-          "Expertise": 745,
-          "Concentration": 918,
-          "Healing Power": 925,
-          "Agony Resistance": 162,
-          "Condition Duration": 59.666666666666664,
-          "Boon Duration": 76.2,
-          "Critical Chance": 82.52380952380952,
-          "Critical Damage": 215,
-          "Burning Duration": 40,
-          "Effective Power": 6906.244055059524,
-          "Power DPS": 5962.186819962823,
-          "Burning Damage": 796.0184999999999,
-          "Burning Stacks": 24.359333333333332,
-          "Burning DPS": 19390.479980999997,
-          "Bleeding Damage": 224.88000000000002,
-          "Bleeding Stacks": 5.907666666666667,
-          "Bleeding DPS": 1328.51608,
-          "Poison Damage": 242.13000000000002,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 335.52,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 224.88000000000002,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 26681.18288096282,
-          "Effective Health": 126684420.1875,
-          "Survivability": 64404.89079181495,
-          "Effective Healing": 734.2500000000001,
-          "Healing": 734.2500000000001
-        },
-        "infusions": [
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130
-        ],
-        "weight": "Heavy",
-        "runeId": 24691,
-        "runeName": "Traveler",
-        "weapons": {
-          "weapon1MainType": "Axe",
-          "weapon1MainSigil1Id": 44944,
-          "weapon1OffType": "Torch",
-          "weapon1OffSigilId": 24624,
-          "weapon2MainType": "Staff",
-          "weapon2MainSigil1Id": 74326,
-          "weapon2MainSigil2Id": 24624
-        },
-        "consumables": {
-          "foodId": 86997,
-          "utilityId": 48917,
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Mantra of Solace",
-          "utility2": "Mantra of Potence",
-          "utility3": "Sanctuary",
-          "elite": "Feel my Wrath"
-        }
-      }
-    note: >-
-      **This build deals less damage than the seraph version, but gains more
-      boon duration which allows it to be played with lower AR (typically you
-      want a minimum of 60% to play <Trait name="Legendary Lore"/>). If you have
-      higer AR but dont want to play Seraph you can swap to <Item id="24765"/>
-      and replace your <Item id="24624"/> with <Item id="24560"/> for some more
-      damage (this will start to overcap on <Condition name="Burning"/>
-      duration, so you will also need some Seraph pieces).** <br/>
-
-
-      Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
-  - gear: |-
-      {
-        "gear": [
-          "Seraph",
-          "Seraph",
-          "Seraph",
-          "Seraph",
-          "Seraph",
-          "Seraph",
-          "Seraph",
-          "Seraph",
-          "Seraph",
-          "Seraph",
-          "Celestial",
-          "Seraph",
-          "Seraph",
-          "Seraph"
-        ],
-        "attributes": {
-          "Health": 17645,
-          "Armor": 2625,
-          "Power": 1840,
-          "Precision": 2515,
-          "Toughness": 1354,
-          "Vitality": 1600,
-          "Ferocity": 350,
-          "Condition Damage": 2819,
-          "Expertise": 150,
-          "Concentration": 938,
-          "Healing Power": 884,
-          "Agony Resistance": 203,
-          "Condition Duration": 10,
-          "Boon Duration": 62.53333333333333,
-          "Critical Chance": 107.14285714285714,
-          "Critical Damage": 173.33333333333334,
-          "Burning Duration": 90,
-          "Effective Power": 4584.666666666667,
-          "Power DPS": 3957.960210499294,
-          "Burning Damage": 979.7051249999998,
-          "Burning Stacks": 24.4,
-          "Burning DPS": 23904.805049999995,
-          "Bleeding Damage": 286.71,
-          "Bleeding Stacks": 4.07,
-          "Bleeding DPS": 1166.9097,
-          "Poison Damage": 303.96,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 428.265,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 286.71,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 29029.67496049929,
-          "Effective Health": 84704271.09375001,
-          "Survivability": 43062.66959519574,
-          "Effective Healing": 720.7200000000001,
-          "Healing": 720.7200000000001
-        },
-        "infusions": [
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130
-        ],
-        "weight": "Heavy",
-        "runeId": 24765,
-        "runeName": "Balthazar",
-        "weapons": {
-          "weapon1MainType": "Axe",
-          "weapon1MainSigil1Id": 44944,
-          "weapon1OffType": "Torch",
-          "weapon1OffSigilId": 24624,
-          "weapon2MainType": "Staff",
-          "weapon2MainSigil1Id": 74326,
-          "weapon2MainSigil2Id": 24624
-        },
-        "consumables": {
-          "foodId": 12464,
-          "utilityId": 48917,
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Mantra of Solace",
-          "utility2": "Mantra of Potence",
-          "utility3": "Sanctuary",
-          "elite": "Feel my Wrath"
-        }
-      }
-    title: Seraph 203AR
-    note: >-
-      **This is the standard build variant for high AR. It provides higher
-      damage then the Celestial build in fractals whilst still providing more
-      than enough support for most groups.** <br/>
-
-
-      Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
-  - title: Celestial Heal 162AR
-    note: >-
-      **This build has much higher <Attribute name="Concentration"/> and
-      <Attribute name="Healing Power"/> , with the trade off being it deals less
-      damage. This variant is more suited to use in groups who are less
-      confident and require more support or if you want to have more of a safety
-      net to carry your party.** <br/>
-
-
-      Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
-    gear: |-
-      {
-        "gear": [
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial",
-          "Celestial"
-        ],
-        "attributes": {
-          "Health": 23535,
-          "Armor": 3153,
-          "Power": 2429,
-          "Precision": 1962,
-          "Toughness": 1882,
-          "Vitality": 2189,
-          "Ferocity": 939,
-          "Condition Damage": 2049,
-          "Expertise": 744,
-          "Concentration": 882,
-          "Healing Power": 1064,
-          "Agony Resistance": 162,
-          "Condition Duration": 49.6,
-          "Boon Duration": 73.8,
-          "Critical Chance": 80.80952380952381,
-          "Critical Damage": 212.6,
-          "Burning Duration": 40,
-          "Effective Power": 6668.827162916666,
-          "Power DPS": 5757.223911921125,
-          "Burning Damage": 773.8263749999999,
-          "Burning Stacks": 23.131199999999996,
-          "Burning DPS": 17899.532645399995,
-          "Bleeding Damage": 217.41,
-          "Bleeding Stacks": 5.535200000000001,
-          "Bleeding DPS": 1203.407832,
-          "Poison Damage": 234.66,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 324.315,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 217.41,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 24860.164389321122,
-          "Effective Health": 92757318.75,
-          "Survivability": 47156.74567869853,
-          "Effective Healing": 936.1440000000001,
-          "Healing": 936.1440000000001
-        },
-        "infusions": [
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          86113
-        ],
-        "weight": "Heavy",
-        "runeId": 24842,
-        "runeName": "Monk",
-        "weapons": {
-          "weapon1MainType": "Axe",
-          "weapon1MainSigil1": "bursting",
-          "weapon1OffType": "Torch",
-          "weapon1OffSigil": "smoldering",
-          "weapon2MainType": "Staff",
-          "weapon2MainSigil1": "transference",
-          "weapon2MainSigil2": "smoldering"
-        },
-        "consumables": {
-          "food": "bowl-of-fire-meat-chili",
-          "utility": "toxic-focusing-crystal",
-          "infusion": "Malign +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Mantra of Solace",
-          "utility2": "Mantra of Potence",
-          "utility3": "Sanctuary",
-          "elite": "Feel my Wrath"
-        }
-      }
-date: 2021-09-22T00:58:11.534Z
+character: []
+date: 2021-09-24T01:23:59.401Z
 ---
 
 <Divider text="Rotation"/>
