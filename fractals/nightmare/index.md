@@ -50,7 +50,7 @@ Stack <Boon name="Might"/> before jumping down. Kill the three _Assault Knights_
 
 Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your cooldowns.
 
-<MDImage src="fractals/nightmare/images/bosses/mama.jpg" caption="MAMA: The first boss"/>
+<MDImage src="fractals/nightmare/images/mama.jpg" caption="MAMA: The first boss"/>
 
 ## MAMA <Label>5,200,519 HP</Label>
 
