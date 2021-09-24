@@ -117,7 +117,11 @@ sections:
                   "elite": "Feel my Wrath"
                 } 
               }}
-      > **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower AR (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>). If you have higer AR but dont want to play Seraph you can swap to <Item id="24765"/> and replace your <Item id="24624"/> with <Item id="24560"/> for some more damage (this will start to overcap on <Condition name="Burning"/> duration, so you will also need some Seraph pieces).**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!  </Character> <Character title="Seraph 203 AR"
+      > 
+
+      **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower AR (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>). If you have higer AR but dont want to play Seraph you can swap to <Item id="24765"/> and replace your <Item id="24624"/> with <Item id="24560"/> for some more damage (this will start to overcap on <Condition name="Burning"/> duration, so you will also need some Seraph pieces).**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!  
+      </Character> 
+      <Character title="Seraph 203 AR"
                   gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
                   "Seraph",
@@ -212,7 +216,10 @@ sections:
                   "utility3": "Sanctuary",
                   "elite": "Feel my Wrath"
                 } 
-              }}> **This is the standard build variant for high AR. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! </Character> <Character title="Celestial Heal 162AR"
+              }}> 
+              **This is the standard build variant for high AR. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
+              </Character> 
+              <Character title="Celestial Heal 162AR"
                   gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
                   "Celestial",
@@ -307,7 +314,11 @@ sections:
                   "utility3": "Sanctuary",
                   "elite": "Feel my Wrath"
                 } 
-              }}> **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!</Character> </CharacterWithAr>
+              }}
+              > 
+              **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
+              </Character> 
+              </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -414,49 +425,101 @@ sections:
 
 
       <Grid>
-        <GridItem>
-          ### Attributes
-          - **Celestial -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/>
-          -  **Seraph -** <Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>
-          - **Viper -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Condition Damage"/>, <Attribute name="Expertise"/>
-          
-        </GridItem>
+      <GridItem>
 
-        <GridItem>
-          ### Runes
-          - <Item id="24765"/>
-          - <Item id="24691"/>
-          - <Item id="70600"/>
-          - <Item id="24842"/>
-          - <Item id="83338"/>
-          
-        </GridItem>
 
-        <GridItem>
-          ### Sigils
-          - <Item id="44944"/>
-          - <Item id="24624"/>
-          - <Item id="24560"/>
-          - <Item id="74326"/>
-          - <Item id="72339"/>
-          - <Item id="44950"/>
-        </GridItem>
+      ### Attributes
+
+
+      - **Celestial -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/>
         
-        <GridItem>
-          ### Consumables
-          - <Item id="91703"/>
-          - <Item id="91727"/>
-          - <Item id="91758"/>
-          - <Item id="91690"/>
-          - <Item id="12484"/>
-          - <Item id="48917"/>
-          - <Item id="48916"/>
-          - <Item id="67528"/>
-          
-        </GridItem>
+
+      -  **Seraph -** <Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>
+        
+
+      - **Viper -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Condition Damage"/>, <Attribute name="Expertise"/>
+        
+
+      </GridItem>
+
+      <GridItem>
+
+
+      ### Runes
+
+
+      - <Item id="24765"/>
+
+
+      - <Item id="24691"/>
+
+
+      - <Item id="70600"/>
+
+
+      - <Item id="24842"/>
+
+
+      - <Item id="83338"/>
+        
+      </GridItem>
+
+      <GridItem>
+
+
+      ### Sigils
+
+
+      - <Item id="44944"/>
+
+
+      - <Item id="24624"/>
+
+
+      - <Item id="24560"/>
+
+
+      - <Item id="74326"/>
+
+
+      - <Item id="72339"/>
+
+
+      - <Item id="44950"/>
+
+
+      </GridItem>
+
+      <GridItem>
+
+
+      ### Consumables
+
+      - <Item id="91703"/>
+
+
+      - <Item id="91727"/>
+
+
+      - <Item id="91758"/>
+
+
+      - <Item id="91690"/>
+
+
+      - <Item id="12484"/>
+
+
+      - <Item id="48917"/>
+
+
+      - <Item id="48916"/>
+
+
+      - <Item id="67528"/>
+        
+      </GridItem>
       </Grid>
-
-
 
       </Card>
   - type: mdx
@@ -492,6 +555,7 @@ sections:
       The rotation is a **lot** simpler compared to any other <Specialization name="Guardian"/> build (except for HFB where your weapons do not have immediate effect on how efficient the build is). However, weapon swaps require careful consideration, because it is not efficient to be stuck on staff or to have less than 25 <Boon name="might"/> during a damage phase.
 
       Getting the weapon swaps right is probably the hardest part (more info below). Generally, it is recommended to always camp Axe/Torch and only swap to staff to use <Skill name="Empower"/> to top up <Boon name="Might"/>.
+
 
       **General information:**
 
@@ -589,7 +653,7 @@ skills:
   - 9093
 conditions:
   - Burning
-code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 4
