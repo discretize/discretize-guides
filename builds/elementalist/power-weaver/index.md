@@ -109,7 +109,7 @@ sections:
         },
         "consumables": {
           "foodId": 91805,
-          "utilityId": 50082,
+          "utilityId": 9443,
           "infusion": "Mighty +9 Agony Infusion"
         },
         "skills": {
@@ -119,7 +119,9 @@ sections:
           "utility3": "Arcane Blast",
           "elite": "Conjure Fiery Greatsword"
                 } 
-      }}> If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!</Character> <Character title="222 AR" 
+      }}
+
+      >If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!</Character> <Character title="222 AR" 
                  gear={{ "profession": "Elementalist",
                   "weight":"Light", "gear": [
           "Berserker",
@@ -208,7 +210,7 @@ sections:
         },
         "consumables": {
           "foodId": 91805,
-          "utilityId": 50082,
+          "utilityId": 9443,
           "infusion": "Mighty +9 Agony Infusion"
         },
         "skills": {
@@ -307,7 +309,7 @@ sections:
         },
         "consumables": {
           "foodId": 91805,
-          "utilityId": 50082,
+          "utilityId": 9443,
           "infusion": "Mighty +9 Agony Infusion"
         },
         "skills": {
@@ -452,7 +454,7 @@ conditions:
   - Burning
   - Chilled
   - Vulnerability
-code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 classification:
   - 4
@@ -461,7 +463,7 @@ classification:
   - 3
   - 4
 character: []
-date: 2021-09-24T00:48:58.026Z
+date: 2021-09-24T23:40:58.789Z
 ---
 
 <Divider text="Rotation / Skill usage"/>
