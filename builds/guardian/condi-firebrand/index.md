@@ -32,16 +32,123 @@ sections:
 
 
       Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
-  - type: equipment
+  - type: null
     title: Equipment
     content: >-
-      - Note that this build variant gains boon duration from the <Item
-      id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon
-      name="Quickness"/> you will need to reach 24.6% boon duration. For longer
-      fights drop <Item id="24560"/> for <Item id="72339"/>.
+      <CharacterWithAr> 
 
+      <Character title="162 AR" 
+                 gear={{ "profession": "Guardian",
+                  "weight":"Heavy", "gear":[
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Sinister",
+                  "Sinister",
+                  "Viper",
+                  "Sinister",
+                  "Sinister",
+                  "Sinister",
+                  "Viper",
+                  "Viper"
+              ], "attributes":{
+                  "Health": 14145,
+                  "Armor": 2514,
+                  "Power": 2869,
+                  "Precision": 2085,
+                  "Toughness": 1243,
+                  "Vitality": 1250,
+                  "Ferocity": 300,
+                  "Condition Damage": 3188,
+                  "Expertise": 451,
+                  "Concentration": 243,
+                  "Healing Power": 250,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 30.066666666666666,
+                  "Boon Duration": 16.2,
+                  "Critical Chance": 86.66666666666666,
+                  "Critical Damage": 170,
+                  "Burning Duration": 70,
+                  "Resolution Duration": 25,
+                  "Effective Power": 7222.552095833332,
+                  "Power DPS": 6674.672710820176,
+                  "Burning Damage": 1078.3664999999999,
+                  "Burning Stacks": 30.8,
+                  "Burning DPS": 33213.6882,
+                  "Bleeding Damage": 319.92,
+                  "Bleeding Stacks": 6.113133333333334,
+                  "Bleeding DPS": 1955.7136160000002,
+                  "Poison Damage": 337.17,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 478.08000000000004,
+                  "Torment Stacks": 1.5608,
+                  "Torment DPS": 746.187264,
+                  "Confusion Damage": 319.92,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 42590.26179082017,
+                  "Effective Health": 48895728.75,
+                  "Survivability": 24858.021733604473,
+                  "Effective Healing": 465,
+                  "Healing": 465
+              }, "runeId":24765, "runeName":"Balthazar", "infusions":[
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130
+              ], "weapons":{
+                  "weapon1MainType": "Axe",
+                  "weapon1MainSigil1": "Earth",
+                  "weapon1OffType": "Torch",
+                  "weapon1OffSigil": "Bursting",
+                  "weapon2MainType": "Scepter",
+                  "weapon2MainSigil1": "Geomancy",
+              }, "consumables":{
+                  "foodId": "91878",
+                  "utility": "toxic-focusing-crystal",
+                  "infusion": "Malign +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Mantra of Solace",
+                  "utility1": "Mantra of Potence",
+                  "utility2": "Purging Flames",
+                  "utility3": "Sanctuary",
+                  "elite": "Feel my Wrath"
+                } 
+              }}
+      > 
 
-      - If you have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>
+      Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
+
+      You will want the following weapons to swap to durning fractal runs:
+
+      - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
+
+      - A staff for <Boon name="Might"/> pre-stacking. 
+
+      - If you have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>. 
+
+      </Character> 
+
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -240,10 +347,16 @@ conditions:
   - Crippled
   - Bleeding
 boons:
-  - { name: Quickness, uptime: '100%', variant: 'party' }
-  - { name: Stability, uptime: 'on demand', variant: 'party' }
-  - { name: Aegis, uptime: 'on demand', variant: 'party' }
-code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+  - name: Quickness
+    uptime: 100%
+    variant: party
+  - name: Stability
+    uptime: on demand
+    variant: party
+  - name: Aegis
+    uptime: on demand
+    variant: party
+code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 4
@@ -253,118 +366,8 @@ classification:
 compositions:
   - name: _CRGB
 hasCMGuide: false
-character:
-  - gear: |-
-      {
-        "gear": [
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Sinister",
-          "Sinister",
-          "Viper",
-          "Sinister",
-          "Sinister",
-          "Sinister",
-          "Viper",
-          "Viper"
-        ],
-        "attributes": {
-          "Health": 14145,
-          "Armor": 2514,
-          "Power": 2869,
-          "Precision": 2085,
-          "Toughness": 1243,
-          "Vitality": 1250,
-          "Ferocity": 300,
-          "Condition Damage": 3188,
-          "Expertise": 451,
-          "Concentration": 243,
-          "Healing Power": 250,
-          "Agony Resistance": 162,
-          "Condition Duration": 30.066666666666666,
-          "Boon Duration": 16.2,
-          "Critical Chance": 86.66666666666666,
-          "Critical Damage": 170,
-          "Burning Duration": 70,
-          "Resolution Duration": 25,
-          "Effective Power": 7222.552095833332,
-          "Power DPS": 6674.672710820176,
-          "Burning Damage": 1078.3664999999999,
-          "Burning Stacks": 30.8,
-          "Burning DPS": 33213.6882,
-          "Bleeding Damage": 319.92,
-          "Bleeding Stacks": 6.113133333333334,
-          "Bleeding DPS": 1955.7136160000002,
-          "Poison Damage": 337.17,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 478.08000000000004,
-          "Torment Stacks": 1.5608,
-          "Torment DPS": 746.187264,
-          "Confusion Damage": 319.92,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 42590.26179082017,
-          "Effective Health": 48895728.75,
-          "Survivability": 24858.021733604473,
-          "Effective Healing": 465,
-          "Healing": 465
-        },
-        "infusions": [
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130
-        ],
-        "weight": "Heavy",
-        "runeId": 24765,
-        "runeName": "Balthazar",
-        "weapons": {
-          "weapon1MainType": "Axe",
-          "weapon1MainSigil1": "Earth",
-          "weapon1OffType": "Torch",
-          "weapon1OffSigil": "Bursting",
-          "weapon2MainType": "Scepter",
-          "weapon2MainSigil1": "Earth",
-          "weapon2MainSigil2": ""
-        },
-        "consumables": {
-          "foodId": "86997",
-          "utility": "toxic-focusing-crystal",
-          "infusion": "Malign +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Mantra of Solace",
-          "utility1": "Mantra of Potence",
-          "utility2": "Purging Flames",
-          "utility3": "Sanctuary",
-          "elite": "Feel my Wrath"
-        }
-      }
-    note: |-
-      You will want the following weapons to swap to durning fractal runs:
-      - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s.
-      - A staff for <Boon name="Might"/> pre-stacking.
-    title: Condi Firebrand
-date: 2021-09-18T22:51:42.690Z
+character: []
+date: 2021-09-24T19:19:58.770Z
 benchmark:
   small:
     dps: 36732
@@ -432,7 +435,7 @@ When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 <GridItem sm="6">
 <Card title="Golem rotation">
 
-<Video youtube="U1yYDskt3Cw" caption="by TJ"/>
+<Video youtube="XbbfgCUGwlY" caption="by Frenzy"/>
 </Card>
 
 <Card title="Precasting">

@@ -23,25 +23,112 @@ sections:
 
 
       The build is very flexible and can be adapted to the encounter, instabilities and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. The [CM Guides](/cm-guides/guardian/heal-firebrand/) will also give an overview of what you can run on different encounters.
-  - type: equipment
+  - type: null
     title: Equipment
-    content: "Note that this build variant is optimized for 150 agony
-      resistance.  \r
+    content: >-
+      <CharacterWithAr> 
 
-      If you have more AR, feel free to swap out more Harrier pieces for
-      Cleric but make sure you are maintaining 100% boon duration on both weapon
-      sets.\r
+      <Character title="Heal Firebrand" 
+                 gear={{ "profession": "Guardian",
+                  "weight":"Heavy", "gear":[
+                  "Harrier",
+                  "Harrier",
+                  "Harrier",
+                  "Harrier",
+                  "Harrier",
+                  "Harrier",
+                  "Harrier",
+                  "Cleric",
+                  "Harrier",
+                  "Cleric",
+                  "Cleric",
+                  "Cleric",
+                  "Harrier",
+                  "Harrier"
+              ], "attributes":{
+                  "Health": 17145,
+                  "Armor": 2787,
+                  "Power": 3035,
+                  "Precision": 1323,
+                  "Toughness": 1516,
+                  "Vitality": 1550,
+                  "Ferocity": 300,
+                  "Condition Damage": 1038,
+                  "Expertise": 0,
+                  "Concentration": 1121,
+                  "Healing Power": 1712,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 0,
+                  "Boon Duration": 99.73,
+                  "Critical Chance": 50.38,
+                  "Critical Damage": 170,
+                  "Burning Duration": 105,
+                  "Effective Power": 5901.431,
+                  "Power DPS": 575.749,
+                  "Burning Damage": 0,
+                  "Burning Stacks": 0,
+                  "Burning DPS": 0,
+                  "Bleeding Damage": 0,
+                  "Bleeding Stacks": 0,
+                  "Bleeding DPS": 0,
+                  "Poison Damage": 0,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 0,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 0,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 575.749,
+                  "Healing": 720.39
+              }, "runeId":24842, "runeName":"Monk", "infusions":[
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125,
+                  37125
+              ], "weapons":{
+                  "weapon1MainType": "Axe",
+                  "weapon1MainSigil1": "transference",
+                  "weapon1OffType": "Shield",
+                  "weapon1OffSigil": "concentration",
+                  "weapon2MainType": "Staff",
+                  "weapon2MainSigil1": "transference",
+                  "weapon2MainSigil2": "concentration"
+              }, "consumables":{
+                  "foodId": "91690",
+                  "utility": "bountiful-maintenance-oil",
+                  "infusion": "Healing +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Mantra of Solace",
+                  "utility1": "mantra of Potence",
+                  "utility2": "bane signet",
+                  "utility3": "Sanctuary",
+                  "elite": "Mantra of Liberation"
+                } 
+              }}
+      > 
 
-      \r
+      Note that this build variant is optimized for 150 agony resistance. If you have more AR, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
-      You can play full Harrier, however you will lose some <Attribute
-      name=\"Healing Power\"/>.\r
+      </Character> 
 
-      \r
-
-      Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!"
+      </CharacterWithAr>
   - type: mdx
     title: Default Build
     content: >-
@@ -565,7 +652,7 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 classification:
   - 4
@@ -675,7 +762,7 @@ character:
           "elite": "Mantra of Liberation"
         }
       }
-date: 2021-09-21T23:17:59.020Z
+date: 2021-09-24T19:33:50.711Z
 ---
 
 <Divider text="Videos" />

@@ -202,7 +202,7 @@ sections:
                   "weapon2MainSigil1Id": 74326,
                   "weapon2MainSigil2Id": 24624
               }, "consumables":{
-                   "foodId": 91727,
+                   "foodId": 91703,
                    "utilityId": 48917,
                    "infusion": "Malign +9 Agony Infusion"
               },
@@ -413,22 +413,49 @@ sections:
       As you will have seen from the equipment, Celestial/Seraphbrand has many variations you can use to adapt to your needs. Here is a brief overview of the common Attribute types, Runes, Sigils and Consumables that are used when gearing Celestial and Seraph variants. As mentioned above you can use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) to help calculate what gear will be best, but in general remember you want to aim for 100% <Condition name="Burning"/> duration and at least 60% <Boon name="Quickness"/> duration to allow you to play <Trait name="LEgendary Lore"/>!
 
 
+      <Grid>
+        <GridItem>
+          ### Attributes
+          - **Celestial -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/>
+          -  **Seraph -** <Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>
+          - **Viper -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Condition Damage"/>, <Attribute name="Expertise"/>
+          
+        </GridItem>
 
-      | Attributes | Runes | Sigils | Food | Utility | 
+        <GridItem>
+          ### Runes
+          - <Item id="24765"/>
+          - <Item id="24691"/>
+          - <Item id="70600"/>
+          - <Item id="24842"/>
+          - <Item id="83338"/>
+          
+        </GridItem>
 
-      | --- | --- | --- | --- | --- | 
+        <GridItem>
+          ### Sigils
+          - <Item id="44944"/>
+          - <Item id="24624"/>
+          - <Item id="24560"/>
+          - <Item id="74326"/>
+          - <Item id="72339"/>
+          - <Item id="44950"/>
+        </GridItem>
+        
+        <GridItem>
+          ### Consumables
+          - <Item id="91703"/>
+          - <Item id="91727"/>
+          - <Item id="91758"/>
+          - <Item id="91690"/>
+          - <Item id="12484"/>
+          - <Item id="48917"/>
+          - <Item id="48916"/>
+          - <Item id="67528"/>
+          
+        </GridItem>
+      </Grid>
 
-      | **Celestial -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/> | <Item id="24765"/> | <Item id="44944"/> | <Item id="92469"/> | <Item id="48917"/> |
-
-      | **Seraph -** <Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/> | <Item id="24691"/> | <Item id="24624"/> | <Item id="92505"/> | <Item id="48916"/> |
-
-      | **Viper -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Condition Damage"/>, <Attribute name="Expertise"/> | <Item id="70600"/> | <Item id="24560"/> | <Item id="92509"/> | <Item id="67528"/> |
-
-      | | <Item id="24842"/> | <Item id="74326"/> | <Item id="92440"/> |  |
-
-      | | <Item id="83338"/> | <Item id="72339"/> | <Item id="12484"/> |  |
-
-      | | | <Item id="44950"/> |
 
 
       </Card>
@@ -562,7 +589,7 @@ skills:
   - 9093
 conditions:
   - Burning
-code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 classification:
   - 4
@@ -571,7 +598,7 @@ classification:
   - 3
   - 4
 character: []
-date: 2021-09-24T01:23:59.401Z
+date: 2021-09-24T15:44:47.262Z
 ---
 
 <Divider text="Rotation"/>
