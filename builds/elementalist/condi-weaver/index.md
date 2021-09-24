@@ -106,9 +106,9 @@ sections:
                   "weapon1OffType":"Focus",
                   "weapon1OffSigil":"Geomancy"
               }, "consumables":{
-                  "food": "Bowl of Sweet and Spicy Butternut Squash Soup",
-                  "utilityId": "91876",
-                  "infusion": "toxic-focusing-crystal"
+                  "foodId": "91876",
+                  "utilityId": "48917",
+                  "infusion": "Malign +9 Agony Infusion"
               },
                 "skills": {
                   "heal": "Signet of Restoration",
@@ -240,7 +240,7 @@ conditions:
   - Crippled
   - Bleeding
   - Chilled
-code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 classification:
   - 3
@@ -249,7 +249,7 @@ classification:
   - 4
   - 5
 character: []
-date: 2021-09-24T00:28:25.608Z
+date: 2021-09-24T23:43:54.553Z
 ---
 
 <Divider text="Rotation / Skill usage"/>
