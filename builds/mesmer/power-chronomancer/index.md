@@ -23,8 +23,329 @@ sections:
 
 
       This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
-  - type: equipment
+  - type: null
     title: Equipment
+    content: >-
+      <CharacterWithAr> 
+
+      <Character title="162 AR" 
+                 gear={{ "profession": "Mesmer",
+                  "weight":"Light", "gear":[
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Assassin",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Assassin"
+                ],
+                "attributes": {
+                  "Health": 15922,
+                  "Armor": 2210,
+                  "Power": 3225,
+                  "Precision": 2575,
+                  "Toughness": 1243,
+                  "Vitality": 1000,
+                  "Ferocity": 1556,
+                  "Condition Damage": 750,
+                  "Expertise": 0,
+                  "Concentration": 243,
+                  "Healing Power": 0,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 0,
+                  "Boon Duration": 16.2,
+                  "Critical Chance": 100,
+                  "Critical Damage": 253.73333333333335,
+                  "Effective Power": 28053.276783011115,
+                  "Power DPS": 41664.03101735613,
+                  "Burning Damage": 355.421875,
+                  "Burning Stacks": 0.63,
+                  "Burning DPS": 223.91578125,
+                  "Bleeding Damage": 96.3125,
+                  "Bleeding Stacks": 24,
+                  "Bleeding DPS": 2311.5,
+                  "Poison Damage": 112.84375,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 142.74375,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 96.3125,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 44199.44679860613,
+                  "Effective Health": 64349360.07500001,
+                  "Survivability": 32714.468772242,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType": "Sword",
+                  "weapon1MainSigil1Id": 24615,
+                  "weapon1OffType": "Sword",
+                  "weapon1OffSigilId": 24868,
+                  "weapon2OffType": "Focus",
+                  "weapon2OffSigilId": 24868
+              }, "consumables":{
+                  "foodId": 91805,
+                  "utilityId": 50082,
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Signet of the Ether",
+                  "utility1": "Mantra of Pain",
+                  "utility2": "Phantasmal Disenchanter",
+                  "utility3": "MIrror Images",
+                  "elite": "Signet of Humility"
+                } 
+              }}
+      > 
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+
+      This is a budget variant, aim for at least 212 Agony Resistance.
+
+
+      Utilize the gear optimizer if you are somewhere between 162 and 212 Agony Resistance.
+
+
+      If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
+      </Character> <Character title="212 AR" 
+                 gear={{ "profession": "Mesmer",
+                  "weight":"Light", "gear":[
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Assassin",
+                  "Assassin"
+                ],
+                "attributes": {
+                  "Health": 15922,
+                  "Armor": 2285,
+                  "Power": 3300,
+                  "Precision": 2575,
+                  "Toughness": 1318,
+                  "Vitality": 1000,
+                  "Ferocity": 1556,
+                  "Condition Damage": 750,
+                  "Expertise": 0,
+                  "Concentration": 318,
+                  "Healing Power": 0,
+                  "Agony Resistance": 212,
+                  "Condition Duration": 0,
+                  "Boon Duration": 21.2,
+                  "Critical Chance": 100,
+                  "Critical Damage": 253.73333333333335,
+                  "Effective Power": 28705.678568662537,
+                  "Power DPS": 42632.961971248136,
+                  "Burning Damage": 355.421875,
+                  "Burning Stacks": 0.63,
+                  "Burning DPS": 223.91578125,
+                  "Bleeding Damage": 96.3125,
+                  "Bleeding Stacks": 24,
+                  "Bleeding DPS": 2311.5,
+                  "Poison Damage": 112.84375,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 142.74375,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 96.3125,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 45168.377752498134,
+                  "Effective Health": 66533161.88750001,
+                  "Survivability": 33824.68830071175,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType": "Sword",
+                  "weapon1MainSigil1Id": 24615,
+                  "weapon1OffType": "Sword",
+                  "weapon1OffSigilId": 24868,
+                  "weapon2OffType": "Focus",
+                  "weapon2OffSigilId": 24868
+              }, "consumables":{
+                  "foodId": 91805,
+                  "utilityId": 50082,
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Signet of the Ether",
+                  "utility1": "Mantra of Pain",
+                  "utility2": "Phantasmal Disenchanter",
+                  "utility3": "MIrror Images",
+                  "elite": "Signet of Humility"
+                } 
+              }}
+      > 
+
+      If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+      </Character> <Character title="222 AR" 
+                 gear={{ "profession": "Mesmer",
+                  "weight":"Light", "gear":[
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Assassin",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Assassin"
+                ],
+                "attributes": {
+                  "Health": 15922,
+                  "Armor": 2300,
+                  "Power": 3315,
+                  "Precision": 2575,
+                  "Toughness": 1333,
+                  "Vitality": 1000,
+                  "Ferocity": 1556,
+                  "Condition Damage": 750,
+                  "Expertise": 0,
+                  "Concentration": 333,
+                  "Healing Power": 0,
+                  "Agony Resistance": 222,
+                  "Condition Duration": 0,
+                  "Boon Duration": 22.2,
+                  "Critical Chance": 100,
+                  "Critical Damage": 253.73333333333335,
+                  "Effective Power": 28836.158925792817,
+                  "Power DPS": 42826.74816202653,
+                  "Burning Damage": 355.421875,
+                  "Burning Stacks": 0.63,
+                  "Burning DPS": 223.91578125,
+                  "Bleeding Damage": 96.3125,
+                  "Bleeding Stacks": 24,
+                  "Bleeding DPS": 2311.5,
+                  "Poison Damage": 112.84375,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 142.74375,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 96.3125,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 45362.16394327653,
+                  "Effective Health": 66969922.250000015,
+                  "Survivability": 34046.7322064057,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType": "Sword",
+                  "weapon1MainSigil1Id": 24615,
+                  "weapon1OffType": "Sword",
+                  "weapon1OffSigilId": 24868,
+                  "weapon2OffType": "Focus",
+                  "weapon2OffSigilId": 24868
+              }, "consumables":{
+                  "foodId": 91805,
+                  "utilityId": 50082,
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Signet of the Ether",
+                  "utility1": "Mantra of Pain",
+                  "utility2": "Phantasmal Disenchanter",
+                  "utility3": "MIrror Images",
+                  "elite": "Signet of Humility"
+                } 
+              }}
+      > 
+
+      If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+      </Character> 
+
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -217,7 +538,7 @@ sections:
       </Grid>
 rating: Good
 role: Power Damage
-author: 'Discord: [CnD] Tipcat#0698'
+author: "Discord: [CnD] Tipcat#0698"
 profession: Mesmer
 specialization: Chronomancer
 skills:
@@ -236,7 +557,7 @@ conditions:
   - Poisoned
   - Blinded
   - Slow
-code: '[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 classification:
   - 2
@@ -244,333 +565,8 @@ classification:
   - 4
   - 3
   - 4
-character:
-  - title: 162AR
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Assassin",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Assassin"
-        ],
-        "attributes": {
-          "Health": 15922,
-          "Armor": 2210,
-          "Power": 3225,
-          "Precision": 2575,
-          "Toughness": 1243,
-          "Vitality": 1000,
-          "Ferocity": 1556,
-          "Condition Damage": 750,
-          "Expertise": 0,
-          "Concentration": 243,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 0,
-          "Boon Duration": 16.2,
-          "Critical Chance": 100,
-          "Critical Damage": 253.73333333333335,
-          "Effective Power": 28053.276783011115,
-          "Power DPS": 41664.03101735613,
-          "Burning Damage": 355.421875,
-          "Burning Stacks": 0.63,
-          "Burning DPS": 223.91578125,
-          "Bleeding Damage": 96.3125,
-          "Bleeding Stacks": 24,
-          "Bleeding DPS": 2311.5,
-          "Poison Damage": 112.84375,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 142.74375,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 96.3125,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 44199.44679860613,
-          "Effective Health": 64349360.07500001,
-          "Survivability": 32714.468772242,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Light",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Sword",
-          "weapon1MainSigil1Id": 24615,
-          "weapon1OffType": "Sword",
-          "weapon1OffSigilId": 24868,
-          "weapon2OffType": "Focus",
-          "weapon2OffSigilId": 24868
-        },
-        "consumables": {
-          "foodId": 41569,
-          "utilityId": 50082,
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Signet of the Ether",
-          "utility1": "Mantra of Pain",
-          "utility2": "Phantasmal Disenchanter",
-          "utility3": "MIrror Images",
-          "elite": "Signet of Humility"
-        }
-      }
-    note: >-
-      Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-
-
-      This is a budget variant, aim for at least 212 Agony Resistance.
-
-
-      Utilize the gear optimizer if you are somewhere between 162 and 212 Agony Resistance.
-  - title: 212 AR
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Assassin",
-          "Assassin"
-        ],
-        "attributes": {
-          "Health": 15922,
-          "Armor": 2285,
-          "Power": 3300,
-          "Precision": 2575,
-          "Toughness": 1318,
-          "Vitality": 1000,
-          "Ferocity": 1556,
-          "Condition Damage": 750,
-          "Expertise": 0,
-          "Concentration": 318,
-          "Healing Power": 0,
-          "Agony Resistance": 212,
-          "Condition Duration": 0,
-          "Boon Duration": 21.2,
-          "Critical Chance": 100,
-          "Critical Damage": 253.73333333333335,
-          "Effective Power": 28705.678568662537,
-          "Power DPS": 42632.961971248136,
-          "Burning Damage": 355.421875,
-          "Burning Stacks": 0.63,
-          "Burning DPS": 223.91578125,
-          "Bleeding Damage": 96.3125,
-          "Bleeding Stacks": 24,
-          "Bleeding DPS": 2311.5,
-          "Poison Damage": 112.84375,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 142.74375,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 96.3125,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 45168.377752498134,
-          "Effective Health": 66533161.88750001,
-          "Survivability": 33824.68830071175,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Light",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Sword",
-          "weapon1MainSigil1Id": 24615,
-          "weapon1OffType": "Sword",
-          "weapon1OffSigilId": 24868,
-          "weapon2OffType": "Focus",
-          "weapon2OffSigilId": 24868
-        },
-        "consumables": {
-          "foodId": 41569,
-          "utilityId": 50082,
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Signet of the Ether",
-          "utility1": "Mantra of Pain",
-          "utility2": "Phantasmal Disenchanter",
-          "utility3": "MIrror Images",
-          "elite": "Signet of Humility"
-        }
-      }
-    note: Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-  - title: 222AR
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Assassin"
-        ],
-        "attributes": {
-          "Health": 15922,
-          "Armor": 2300,
-          "Power": 3315,
-          "Precision": 2575,
-          "Toughness": 1333,
-          "Vitality": 1000,
-          "Ferocity": 1556,
-          "Condition Damage": 750,
-          "Expertise": 0,
-          "Concentration": 333,
-          "Healing Power": 0,
-          "Agony Resistance": 222,
-          "Condition Duration": 0,
-          "Boon Duration": 22.2,
-          "Critical Chance": 100,
-          "Critical Damage": 253.73333333333335,
-          "Effective Power": 28836.158925792817,
-          "Power DPS": 42826.74816202653,
-          "Burning Damage": 355.421875,
-          "Burning Stacks": 0.63,
-          "Burning DPS": 223.91578125,
-          "Bleeding Damage": 96.3125,
-          "Bleeding Stacks": 24,
-          "Bleeding DPS": 2311.5,
-          "Poison Damage": 112.84375,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 142.74375,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 96.3125,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 45362.16394327653,
-          "Effective Health": 66969922.250000015,
-          "Survivability": 34046.7322064057,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Light",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Sword",
-          "weapon1MainSigil1Id": 24615,
-          "weapon1OffType": "Sword",
-          "weapon1OffSigilId": 24868,
-          "weapon2OffType": "Focus",
-          "weapon2OffSigilId": 24868
-        },
-        "consumables": {
-          "foodId": 41569,
-          "utilityId": 50082,
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Signet of the Ether",
-          "utility1": "Mantra of Pain",
-          "utility2": "Phantasmal Disenchanter",
-          "utility3": "MIrror Images",
-          "elite": "Signet of Humility"
-        }
-      }
-    note: Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-date: 2021-09-18T22:48:19.470Z
+character: []
+date: 2021-09-24T20:23:14.068Z
 ---
 
 <Divider text="Rotation / Skill usage"/>
