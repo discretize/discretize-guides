@@ -17,9 +17,122 @@ sections:
 
 
       Overall, this build is an excellent pick if taken as an alt class: it is meant for players who enjoy high-risk, high-reward rotations. Played correctly, it is excellent in PuGs on single-target bosses such as the ones from Challenge Mode Fractals, most notably Sorrowful Spellcaster (Light and Dark Ai) and Ensolyss, or any boss with little to no phases. We do not recommend running this build in Shattered Observatory, as positioning is most important there, and jumping <Skill name="shadowstrike"/> becomes terrible due to Cosmic Energy (low gravity). Details for this build can be found at the bottom of the page.
-  - type: equipment
+  - type: null
     title: Equipment
-    content: ''
+    content: >-
+      <CharacterWithAr> 
+
+      <Character title="162 AR" 
+                 gear={{ "profession": "Thief",
+                  "weight":"Medium", "gear":[
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper"
+              ], "attributes":{
+                  "Health": 11645,
+                  "Armor": 2361,
+                  "Power": 2923,
+                  "Precision": 1876,
+                  "Toughness": 1243,
+                  "Vitality": 1000,
+                  "Ferocity": 150,
+                  "Condition Damage": 2756,
+                  "Expertise": 853,
+                  "Concentration": 423,
+                  "Healing Power": 0,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 76.86666666666667,
+                  "Boon Duration": 28.2,
+                  "Critical Chance": 66.71428571428572,
+                  "Critical Damage": 160,
+                  "Fear Duration": 10,
+                  "Poison Duration": 33,
+                  "Effective Power": 9735.350599106787,
+                  "Power DPS": 6297.800926645899,
+                  "Burning Damage": 941.9287500000002,
+                  "Burning Stacks": 0.8843333333333334,
+                  "Burning DPS": 832.9789912500003,
+                  "Bleeding Damage": 395.2125,
+                  "Bleeding Stacks": 35.019600000000004,
+                  "Bleeding DPS": 13840.183665,
+                  "Poison Damage": 446.31641249999996,
+                  "Poison Stacks": 29.4,
+                  "Poison DPS": 13121.702527499998,
+                  "Torment Damage": 472.22999999999996,
+                  "Torment Stacks": 19.27846666666667,
+                  "Torment DPS": 9103.870314000002,
+                  "Confusion Damage": 316.16999999999996,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 43196.5364243959,
+                  "Effective Health": 37804036.875,
+                  "Survivability": 19219.13415099136,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24848, "runeName":"Nightmare", "infusions":[
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130
+              ], "weapons":{
+                  "weapon1MainType": "Pistol",
+                  "weapon1MainSigil1": "bursting",
+                  "weapon1OffType": "Dagger",
+                  "weapon1OffSigil": "earth",
+              }, "consumables":{
+                  "foodId": "91878",
+                  "utility": "tuning-icicle",
+                  "infusion": "Malign +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Hide in Shadows",
+                  "utility1": "Mercy",
+                  "utility2": "Skale Venom",
+                  "utility3": "Spider Venom",
+                  "elite": "Shadow Meld"
+                } 
+              }}
+      > 
+
+      Note that there are two slightly different variants of this build: one is meant for bosses with very short phases such as Ensolyss or Light Ai; the other one is meant for longer fights, where you will need to sustain damage for a longer period of time. This will also depend on your group. It will always be better to use the first variant with people you do not know well, or in situations where your party doesn't bring enough damage.
+
+
+      <Item name="afflicted"/> is a viable, more accessible alternative.
+
+
+      If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
+
+
+      Shortbow for additional movement during downtime and <Item name="doom"/> precasts, as well as <Boon name="might"/> blasts on the _Mistlock Singularity_. You will also want a Pistol with <Item id="24639"/> to help CC during Artsariiv splits.
+
+      </Character> 
+
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -153,17 +266,8 @@ sections:
 rating: Condi Meta
 role: Condi Damage
 profession: Thief
-specialization: Deadeye
 skills:
   - 13132
-conditions:
-  - Vulnerability
-  - Weakness
-  - Immobilize
-  - Poisoned
-  - Bleeding
-  - Torment
-code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 5
@@ -172,129 +276,18 @@ classification:
   - 4
 compositions:
   - name: _CRGB
+specialization: Deadeye
+conditions:
+  - Vulnerability
+  - Weakness
+  - Immobilize
+  - Poisoned
+  - Bleeding
+  - Torment
+code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
-character:
-  - note: >
-      - Note that there are two slightly different variants of this build: one
-      is meant for bosses with very short phases such as Ensolyss or Light Ai;
-      the other one is meant for longer fights, where you will need to sustain
-      damage for a longer period of time. This will also depend on your group.
-      It will always be better to use the first variant with people you do not
-      know well, or in situations where your party doesn't bring enough damage.
-
-
-      - <Item name="afflicted"/> is a viable, more accessible alternative.
-
-
-      - If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
-
-
-      - Shortbow for additional movement during downtime and <Item name="doom"/> precasts, as well as <Boon name="might"/> blasts on the _Mistlock Singularity_.
-    title: ''
-    gear: |-
-      {
-        "gear": [
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper"
-        ],
-        "attributes": {
-          "Health": 11645,
-          "Armor": 2361,
-          "Power": 2923,
-          "Precision": 1876,
-          "Toughness": 1243,
-          "Vitality": 1000,
-          "Ferocity": 150,
-          "Condition Damage": 2756,
-          "Expertise": 853,
-          "Concentration": 423,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 76.86666666666667,
-          "Boon Duration": 28.2,
-          "Critical Chance": 66.71428571428572,
-          "Critical Damage": 160,
-          "Fear Duration": 10,
-          "Poison Duration": 33,
-          "Effective Power": 9735.350599106787,
-          "Power DPS": 6297.800926645899,
-          "Burning Damage": 941.9287500000002,
-          "Burning Stacks": 0.8843333333333334,
-          "Burning DPS": 832.9789912500003,
-          "Bleeding Damage": 395.2125,
-          "Bleeding Stacks": 35.019600000000004,
-          "Bleeding DPS": 13840.183665,
-          "Poison Damage": 446.31641249999996,
-          "Poison Stacks": 29.4,
-          "Poison DPS": 13121.702527499998,
-          "Torment Damage": 472.22999999999996,
-          "Torment Stacks": 19.27846666666667,
-          "Torment DPS": 9103.870314000002,
-          "Confusion Damage": 316.16999999999996,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 43196.5364243959,
-          "Effective Health": 37804036.875,
-          "Survivability": 19219.13415099136,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130
-        ],
-        "weight": "medium",
-        "runeId": 24848,
-        "runeName": "Nightmare",
-        "weapons": {
-          "weapon1MainType": "Pistol",
-          "weapon1MainSigil1": "bursting",
-          "weapon1OffType": "Dagger",
-          "weapon1OffSigil": "earth",
-          "weapon2MainSigil2": ""
-        },
-        "consumables": {
-          "foodId": "86997",
-          "utility": "tuning-icicle",
-          "infusion": "Malign +9 Agony Infusion"
-         },
-        "skills": {
-          "heal": "Hide in Shadows",
-          "utility1": "Mercy",
-          "utility2": "Skale Venom",
-          "utility3": "Spider Venom",
-          "elite": "Shadow Meld"
-        }
-      }
-date: 2021-09-18T22:10:09.799Z
+character: []
+date: 2021-09-24T23:38:36.712Z
 benchmark:
   small:
     dps: 40094
