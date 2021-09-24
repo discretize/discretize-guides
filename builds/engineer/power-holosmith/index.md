@@ -60,7 +60,7 @@ sections:
                   "Berserker",
                   "Berserker",
                   "Berserker",
-                  "Assassin",
+                  "Berserker",
                   "Berserker",
                   "Berserker"
               ], "attributes":{
@@ -256,7 +256,7 @@ classification:
   - 3
   - 4
 character: []
-date: 2021-09-24T01:01:58.313Z
+date: 2021-09-24T23:45:09.143Z
 ---
 <Grid>
 <GridItem sm="6">
