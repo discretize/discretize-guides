@@ -30,8 +30,124 @@ sections:
 
 
       Due to being a condition based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
-  - type: equipment
+  - type: null
     title: Equipment
+    content: >-
+      <CharacterWithAr> 
+
+      <Character title="162 AR" 
+                 gear={{ "profession": "Necromancer",
+                  "weight":"Light", "gear":[
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+          "Viper"
+              ], "attributes":{
+                  "Health": 19212,
+                  "Armor": 2210,
+                  "Power": 2923,
+                  "Precision": 2056,
+                  "Toughness": 1243,
+                  "Vitality": 1000,
+                  "Ferocity": 150,
+                  "Condition Damage": 3083,
+                  "Expertise": 1036,
+                  "Concentration": 468,
+                  "Healing Power": 0,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 89.06666666666666,
+                  "Boon Duration": 31.2,
+                  "Critical Chance": 95.28571428571428,
+                  "Critical Damage": 160,
+                  "Fear Duration": 10,
+                  "Bleeding Duration": 20,
+                  "Effective Power": 7264.453605357142,
+                  "Power DPS": 3930.133737207079,
+                  "Burning Damage": 989.405625,
+                  "Burning Stacks": 6.428266666666667,
+                  "Burning DPS": 6360.163199,
+                  "Bleeding Damage": 336.3425,
+                  "Bleeding Stacks": 41.2,
+                  "Bleeding DPS": 13857.311,
+                  "Poison Damage": 355.03,
+                  "Poison Stacks": 6.995466666666667,
+                  "Poison DPS": 2483.6005306666666,
+                  "Torment Damage": 628.2046875,
+                  "Torment Stacks": 26.847466666666666,
+                  "Torment DPS": 16865.704407499998,
+                  "Confusion Damage": 336.3425,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 43496.912874373746,
+                  "Effective Health": 53073150,
+                  "Survivability": 26981.77427554652,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24848, "runeName":"Nightmare", "infusions":[
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130
+              ], "weapons":{
+                  "weapon1MainType": "Scepter",
+                  "weapon1MainSigil1": "bursting",
+                  "weapon1OffType": "Torch",
+                  "weapon1OffSigil": "torment",
+                  "weapon2MainType": "Scepter",
+                  "weapon2MainSigil1": "bursting",
+                  "weapon2OffType": "Warhorn",
+                  "weapon2OffSigil": "torment"
+              }, "consumables":{
+                  "foodId": "91878",
+                  "utility": "toxic-focusing-crystal",
+                  "infusion": "Malign +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Sand Flare",
+                  "utility2": "Blood is Power",
+                  "utility3": "Signet of Undeath",
+                  "elite": "Plaguelands"
+                } 
+              }}
+      > 
+
+      Note that the build does not rely on precision as much as Power builds and you can build your AR around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value.
+
+
+      Situational Runes:
+
+      - <Item id="83502" /> works best for using and utilizing <Skill name="Epidemic" />
+        , as its damage will be maximized with this rune. Note that you will have a loss
+        of condition duration with this rune choice.
+      - <Item id="44956" /> provides a large boost to personal survivability on top of
+        your barrier generation at the cost of a minor DPS loss.
+      </Character> 
+
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -102,7 +218,7 @@ sections:
   - type: mdx
     title: Further Information
     content: >-
-
+      
 
       <Grid>
 
@@ -157,7 +273,7 @@ sections:
       </Grid>
 rating: Good
 role: Condi Damage
-author: 'Discord: Amerikajinn#9784'
+author: "Discord: Amerikajinn#9784"
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -176,7 +292,7 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 classification:
   - 2
@@ -184,127 +300,8 @@ classification:
   - 4
   - 2
   - 3
-character:
-  - gear: |-
-      {
-        "gear": [
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper"
-        ],
-        "attributes": {
-          "Health": 19212,
-          "Armor": 2210,
-          "Power": 2923,
-          "Precision": 2056,
-          "Toughness": 1243,
-          "Vitality": 1000,
-          "Ferocity": 150,
-          "Condition Damage": 3083,
-          "Expertise": 1036,
-          "Concentration": 468,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 89.06666666666666,
-          "Boon Duration": 31.2,
-          "Critical Chance": 95.28571428571428,
-          "Critical Damage": 160,
-          "Fear Duration": 10,
-          "Bleeding Duration": 20,
-          "Effective Power": 7264.453605357142,
-          "Power DPS": 3930.133737207079,
-          "Burning Damage": 989.405625,
-          "Burning Stacks": 6.428266666666667,
-          "Burning DPS": 6360.163199,
-          "Bleeding Damage": 336.3425,
-          "Bleeding Stacks": 41.2,
-          "Bleeding DPS": 13857.311,
-          "Poison Damage": 355.03,
-          "Poison Stacks": 6.995466666666667,
-          "Poison DPS": 2483.6005306666666,
-          "Torment Damage": 628.2046875,
-          "Torment Stacks": 26.847466666666666,
-          "Torment DPS": 16865.704407499998,
-          "Confusion Damage": 336.3425,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 43496.912874373746,
-          "Effective Health": 53073150,
-          "Survivability": 26981.77427554652,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130
-        ],
-        "weight": "Light",
-        "runeId": 24848,
-        "runeName": "Nightmare",
-        "weapons": {
-          "weapon1MainType": "Scepter",
-          "weapon1MainSigil1": "bursting",
-          "weapon1OffType": "Torch",
-          "weapon1OffSigil": "torment",
-          "weapon2MainType": "Scepter",
-          "weapon2MainSigil1": "bursting",
-          "weapon2OffType": "Warhorn",
-          "weapon2OffSigil": "torment"
-        },
-        "consumables": {
-          "foodId": "86997",
-          "utility": "master-tuning-crystal",
-          "infusion": "Malign +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Sand Flare",
-          "utility2": "Blood is Power",
-          "utility3": "Signet of Undeath",
-          "elite": "Plaguelands"
-        }
-      }
-    note: >-
-      Note that the build does not rely on precision as much as Power builds and
-      you can build your AR around the 150 breakpoint. You should however aim
-      for a fully +9 stated infusion gear setup for maximum <Item id="79722"/>
-      stat conversion value.
-
-
-      Situational Runes:
-
-      - <Item id="83502" /> works best for using and utilizing <Skill name="Epidemic" />
-        , as its damage will be maximized with this rune. Note that you will have a loss
-        of condition duration with this rune choice.
-      - <Item id="44956" /> provides a large boost to personal survivability on top of
-        your barrier generation at the cost of a minor DPS loss.
-date: 2021-09-18T22:37:14.710Z
+character: []
+date: 2021-09-24T22:31:52.483Z
 benchmark:
   small:
     dps: 37044
