@@ -17,8 +17,307 @@ sections:
 
 
       Also this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
-  - type: equipment
+  - type: null
     title: Equipment
+    content: >-
+      <CharacterWithAr> <Character title="162 AR" 
+                 gear={{ "profession": "Elementalist",
+                  "weight":"Light", "gear": [
+          "Berserker",
+          "Assassin",
+          "Berserker",
+          "Assassin",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Assassin",
+          "Assassin",
+          "Berserker",
+          "Berserker",
+          "Assassin",
+          "Berserker",
+          "Berserker"
+        ],
+        "attributes": {
+          "Health": 14155,
+          "Armor": 2210,
+          "Power": 3941,
+          "Precision": 2575,
+          "Toughness": 1243,
+          "Vitality": 1251,
+          "Ferocity": 1972,
+          "Condition Damage": 750,
+          "Expertise": 0,
+          "Concentration": 243,
+          "Healing Power": 0,
+          "Agony Resistance": 162,
+          "Condition Duration": 0,
+          "Boon Duration": 16.2,
+          "Critical Chance": 100,
+          "Critical Damage": 281.4666666666667,
+          "Burning Duration": 20,
+          "Effective Power": 32261.918293667994,
+          "Power DPS": 44970.4059388056,
+          "Burning Damage": 370.875,
+          "Burning Stacks": 8.04,
+          "Burning DPS": 2981.8349999999996,
+          "Bleeding Damage": 100.5,
+          "Bleeding Stacks": 0,
+          "Bleeding DPS": 0,
+          "Poison Damage": 117.75,
+          "Poison Stacks": 0,
+          "Poison DPS": 0,
+          "Torment Damage": 148.95,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 100.5,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 47952.2409388056,
+          "Effective Health": 57207963.31250001,
+          "Survivability": 29083.865435943066,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131
+        ],
+        "runeId": 24836,
+        "runeName": "Scholar",
+        "weapons": {
+          "weapon1MainType": "Sword",
+          "weapon1MainSigil1Id": 24615,
+          "weapon1OffType": "Dagger",
+          "weapon1OffSigilId": 24868
+        },
+        "consumables": {
+          "foodId": 91805,
+          "utilityId": 50082,
+          "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Glyph of Elemental Harmony",
+          "utility1": "Primordial Stance",
+          "utility2": "Glyph of Storms",
+          "utility3": "Arcane Blast",
+          "elite": "Conjure Fiery Greatsword"
+                } 
+      }}> If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!</Character> <Character title="222 AR" 
+                 gear={{ "profession": "Elementalist",
+                  "weight":"Light", "gear": [
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Assassin",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker"
+        ],
+        "attributes": {
+          "Health": 14205,
+          "Armor": 2300,
+          "Power": 4031,
+          "Precision": 2575,
+          "Toughness": 1333,
+          "Vitality": 1256,
+          "Ferocity": 1966,
+          "Condition Damage": 750,
+          "Expertise": 0,
+          "Concentration": 333,
+          "Healing Power": 0,
+          "Agony Resistance": 222,
+          "Condition Duration": 0,
+          "Boon Duration": 22.2,
+          "Critical Chance": 100,
+          "Critical Damage": 281.06666666666666,
+          "Burning Duration": 20,
+          "Effective Power": 32951.78334349984,
+          "Power DPS": 45932.01990892161,
+          "Burning Damage": 370.875,
+          "Burning Stacks": 8.04,
+          "Burning DPS": 2981.8349999999996,
+          "Bleeding Damage": 100.5,
+          "Bleeding Stacks": 0,
+          "Bleeding DPS": 0,
+          "Poison Damage": 117.75,
+          "Poison Stacks": 0,
+          "Poison DPS": 0,
+          "Torment Damage": 148.95,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 100.5,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 48913.85490892161,
+          "Effective Health": 59748005.62500001,
+          "Survivability": 30375.19350533808,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131
+        ],
+        "runeId": 24836,
+        "runeName": "Scholar",
+        "weapons": {
+          "weapon1MainType": "Sword",
+          "weapon1MainSigil1Id": 24615,
+          "weapon1OffType": "Dagger",
+          "weapon1OffSigilId": 24868
+        },
+        "consumables": {
+          "foodId": 91805,
+          "utilityId": 50082,
+          "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Glyph of Elemental Harmony",
+          "utility1": "Primordial Stance",
+          "utility2": "Glyph of Storms",
+          "utility3": "Arcane Blast",
+          "elite": "Conjure Fiery Greatsword"
+        } 
+      }}> You need Fractal God, <Item id="86175"/> and 18 +9 Agony Infusion!  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!</Character> <Character title="245 AR" 
+                 gear={{ "profession": "Elementalist",
+                  "weight":"Light", "gear": [
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker"
+        ],
+        "attributes": {
+          "Health": 14215,
+          "Armor": 2335,
+          "Power": 4066,
+          "Precision": 2575,
+          "Toughness": 1368,
+          "Vitality": 1257,
+          "Ferocity": 1963,
+          "Condition Damage": 750,
+          "Expertise": 0,
+          "Concentration": 368,
+          "Healing Power": 0,
+          "Agony Resistance": 245,
+          "Condition Duration": 0,
+          "Boon Duration": 24.533333333333335,
+          "Critical Chance": 100,
+          "Critical Damage": 280.8666666666667,
+          "Burning Duration": 20,
+          "Effective Power": 33214.2428365642,
+          "Power DPS": 46297.86641061317,
+          "Burning Damage": 370.875,
+          "Burning Stacks": 8.04,
+          "Burning DPS": 2981.8349999999996,
+          "Bleeding Damage": 100.5,
+          "Bleeding Stacks": 0,
+          "Bleeding DPS": 0,
+          "Poison Damage": 117.75,
+          "Poison Stacks": 0,
+          "Poison DPS": 0,
+          "Torment Damage": 148.95,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 100.5,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 49279.70141061317,
+          "Effective Health": 60699915.71875001,
+          "Survivability": 30859.133563167263,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131
+        ],
+        "runeId": 24836,
+        "runeName": "Scholar",
+        "weapons": {
+          "weapon1MainType": "Sword",
+          "weapon1MainSigil1Id": 24615,
+          "weapon1OffType": "Dagger",
+          "weapon1OffSigilId": 24868
+        },
+        "consumables": {
+          "foodId": 91805,
+          "utilityId": 50082,
+          "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Glyph of Elemental Harmony",
+          "utility1": "Primordial Stance",
+          "utility2": "Glyph of Storms",
+          "utility3": "Arcane Blast",
+          "elite": "Conjure Fiery Greatsword"
+        } 
+      }}> You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"/>, the rest is Mighty +9 Agony Infusion! **You get +5 Agony Resistance to cap critical chance from _Mistlock Singularity_.**  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!</Character> </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -165,334 +464,8 @@ classification:
   - 2
   - 3
   - 4
-character:
-  - title: 162AR
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Assassin",
-          "Berserker"
-        ],
-        "attributes": {
-          "Health": 14155,
-          "Armor": 2210,
-          "Power": 3941,
-          "Precision": 2575,
-          "Toughness": 1243,
-          "Vitality": 1251,
-          "Ferocity": 1972,
-          "Condition Damage": 750,
-          "Expertise": 0,
-          "Concentration": 243,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 0,
-          "Boon Duration": 16.2,
-          "Critical Chance": 100,
-          "Critical Damage": 281.4666666666667,
-          "Burning Duration": 20,
-          "Effective Power": 32261.918293667994,
-          "Power DPS": 44970.4059388056,
-          "Burning Damage": 370.875,
-          "Burning Stacks": 8.04,
-          "Burning DPS": 2981.8349999999996,
-          "Bleeding Damage": 100.5,
-          "Bleeding Stacks": 0,
-          "Bleeding DPS": 0,
-          "Poison Damage": 117.75,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 148.95,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 100.5,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 47952.2409388056,
-          "Effective Health": 57207963.31250001,
-          "Survivability": 29083.865435943066,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Light",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Sword",
-          "weapon1MainSigil1Id": 24615,
-          "weapon1OffType": "Dagger",
-          "weapon1OffSigilId": 24868,
-          "weapon2MainSigil2Id": 36053
-        },
-        "consumables": {
-          "foodId": 41569,
-          "utilityId": 50082,
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Glyph of Elemental Harmony",
-          "utility1": "Primordial Stance",
-          "utility2": "Glyph of Storms",
-          "utility3": "Arcane Blast",
-          "elite": "Conjure Fiery Greatsword"
-        }
-      }
-    note: Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-  - title: 222AR
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Berserker"
-        ],
-        "attributes": {
-          "Health": 14205,
-          "Armor": 2300,
-          "Power": 4031,
-          "Precision": 2575,
-          "Toughness": 1333,
-          "Vitality": 1256,
-          "Ferocity": 1966,
-          "Condition Damage": 750,
-          "Expertise": 0,
-          "Concentration": 333,
-          "Healing Power": 0,
-          "Agony Resistance": 222,
-          "Condition Duration": 0,
-          "Boon Duration": 22.2,
-          "Critical Chance": 100,
-          "Critical Damage": 281.06666666666666,
-          "Burning Duration": 20,
-          "Effective Power": 32951.78334349984,
-          "Power DPS": 45932.01990892161,
-          "Burning Damage": 370.875,
-          "Burning Stacks": 8.04,
-          "Burning DPS": 2981.8349999999996,
-          "Bleeding Damage": 100.5,
-          "Bleeding Stacks": 0,
-          "Bleeding DPS": 0,
-          "Poison Damage": 117.75,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 148.95,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 100.5,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 48913.85490892161,
-          "Effective Health": 59748005.62500001,
-          "Survivability": 30375.19350533808,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Light",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Sword",
-          "weapon1MainSigil1Id": 24615,
-          "weapon1OffType": "Dagger",
-          "weapon1OffSigilId": 24868,
-          "weapon2MainSigil2Id": 36053
-        },
-        "consumables": {
-          "foodId": 41569,
-          "utilityId": 50082,
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Glyph of Elemental Harmony",
-          "utility1": "Primordial Stance",
-          "utility2": "Glyph of Storms",
-          "utility3": "Arcane Blast",
-          "elite": "Conjure Fiery Greatsword"
-        }
-      }
-    note: >-
-      Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-
-
-      You need Fractal God, <Item id="86175"/> and 18 +9 Agony Infusion!
-  - title: 245AR
-    note: >-
-      Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-
-
-      You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"/>, the rest is Mighty +9 Agony Infusion! **You get +5 Agony Resistance to cap critical chance from _Mistlock Singularity_.**
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker"
-        ],
-        "attributes": {
-          "Health": 14215,
-          "Armor": 2335,
-          "Power": 4066,
-          "Precision": 2575,
-          "Toughness": 1368,
-          "Vitality": 1257,
-          "Ferocity": 1963,
-          "Condition Damage": 750,
-          "Expertise": 0,
-          "Concentration": 368,
-          "Healing Power": 0,
-          "Agony Resistance": 245,
-          "Condition Duration": 0,
-          "Boon Duration": 24.533333333333335,
-          "Critical Chance": 100,
-          "Critical Damage": 280.8666666666667,
-          "Burning Duration": 20,
-          "Effective Power": 33214.2428365642,
-          "Power DPS": 46297.86641061317,
-          "Burning Damage": 370.875,
-          "Burning Stacks": 8.04,
-          "Burning DPS": 2981.8349999999996,
-          "Bleeding Damage": 100.5,
-          "Bleeding Stacks": 0,
-          "Bleeding DPS": 0,
-          "Poison Damage": 117.75,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 148.95,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 100.5,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 49279.70141061317,
-          "Effective Health": 60699915.71875001,
-          "Survivability": 30859.133563167263,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Light",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Sword",
-          "weapon1MainSigil1Id": 24615,
-          "weapon1OffType": "Dagger",
-          "weapon1OffSigilId": 24868,
-          "weapon2MainSigil2Id": 36053
-        },
-        "consumables": {
-          "foodId": 41569,
-          "utilityId": 50082,
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Glyph of Elemental Harmony",
-          "utility1": "Primordial Stance",
-          "utility2": "Glyph of Storms",
-          "utility3": "Arcane Blast",
-          "elite": "Conjure Fiery Greatsword"
-        }
-      }
-date: 2021-09-18T23:27:05.068Z
+character: []
+date: 2021-09-24T00:48:58.026Z
 ---
 <Divider text="Rotation / Skill usage"/>
 
