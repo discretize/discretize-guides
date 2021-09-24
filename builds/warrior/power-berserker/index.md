@@ -15,11 +15,337 @@ sections:
 
 
       Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
-  - type: equipment
-    title: Equipment
-    content: Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
+  - title: Equipment
+    content: >-
+      <CharacterWithAr>
+      <Character title="162 AR + Scholar Rune" gear={{
+        "profession": "warrior",
+        "gear": [
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Assassin",
+          "Berserker",
+          "Berserker",
+          "Assassin",
+          "Assassin",
+          "Berserker",
+          "Berserker",
+          "Berserker"
+        ],
+        "attributes": {
+          "Health": 21652,
+          "Armor": 2214,
+          "Power": 4205,
+          "Precision": 2575,
+          "Toughness": 943,
+          "Vitality": 1244,
+          "Ferocity": 2345,
+          "Condition Damage": 1200,
+          "Expertise": 0,
+          "Concentration": 243,
+          "Healing Power": 0,
+          "Agony Resistance": 162,
+          "Condition Duration": 0,
+          "Boon Duration": 16.2,
+          "Critical Chance": 100,
+          "Critical Damage": 306.33333333333337,
+          "Effective Power": 37197.06737656876,
+          "Power DPS": 40677.578494206886,
+          "Burning Damage": 455.6875,
+          "Burning Stacks": 0.7,
+          "Burning DPS": 318.98125,
+          "Bleeding Damage": 135.125,
+          "Bleeding Stacks": 0,
+          "Bleeding DPS": 0,
+          "Poison Damage": 151.65625,
+          "Poison Stacks": 0,
+          "Poison DPS": 0,
+          "Torment Damage": 200.9625,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 135.125,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 40996.55974420688,
+          "Effective Health": 79696140.3,
+          "Survivability": 40516.593950177936,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432
+        ],
+        "weight": "Heavy",
+        "runeId": 24836,
+        "runeName": "Scholar",
+        "weapons": {
+          "weapon1MainType": "Axe",
+          "weapon1MainSigil1Id": 24615,
+          "weapon1OffType": "Axe",
+          "weapon1OffSigilId": 24868,
+          "weapon2MainType": "Axe",
+          "weapon2MainSigil1": "Paralyzation",
+          "weapon2OffType": "Mace",
+          "weapon2OffSigil": "Severance"
+        },
+        "consumables": {
+          "foodId": 12486,
+          "utilityId": 9443,
+          "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mending",
+          "utility2": "Banner of Strength",
+          "utility3": "Banner of Discipline",
+          "elite": "Head Butt"
+        }
+      }}>
+      This build is future proof for upgrading to higher <Attribute name="Agony
+      Resistance"/> later without overwriting runes. However, most people would
+      profit more from the <Item name="eagle" text="Eagle"/> rune build due to
+      not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait
+      name="Spotter"/> assumed.
+      </Character>
+      <Character title="162 AR + Eagle Rune" gear={{
+        "profession": "warrior",
+        "gear": [
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Assassin",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker"
+        ],
+        "attributes": {
+          "Health": 21652,
+          "Armor": 2214,
+          "Power": 4210,
+          "Precision": 2575,
+          "Toughness": 943,
+          "Vitality": 1244,
+          "Ferocity": 2345,
+          "Condition Damage": 1200,
+          "Expertise": 0,
+          "Concentration": 243,
+          "Healing Power": 0,
+          "Agony Resistance": 162,
+          "Condition Duration": 0,
+          "Boon Duration": 16.2,
+          "Critical Chance": 100,
+          "Critical Damage": 306.33333333333337,
+          "Effective Power": 37241.296945387505,
+          "Power DPS": 40725.94660180998,
+          "Burning Damage": 455.6875,
+          "Burning Stacks": 0.7,
+          "Burning DPS": 318.98125,
+          "Bleeding Damage": 135.125,
+          "Bleeding Stacks": 0,
+          "Bleeding DPS": 0,
+          "Poison Damage": 151.65625,
+          "Poison Stacks": 0,
+          "Poison DPS": 0,
+          "Torment Damage": 200.9625,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 135.125,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 41044.927851809975,
+          "Effective Health": 79696140.3,
+          "Survivability": 40516.593950177936,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          37132,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432,
+          49432
+        ],
+        "weight": "Heavy",
+        "runeId": 24723,
+        "runeName": "Eagle",
+        "weapons": {
+          "weapon1MainType": "Axe",
+          "weapon1MainSigil1Id": 24615,
+          "weapon1OffType": "Axe",
+          "weapon1OffSigilId": 24868,
+          "weapon2MainType": "Axe",
+          "weapon2MainSigil1": "Paralyzation",
+          "weapon2OffType": "Mace",
+          "weapon2OffSigil": "Severance"
+        },
+        "consumables": {
+          "foodId": 41569,
+          "utilityId": 9443,
+          "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mending",
+          "utility2": "Banner of Strength",
+          "utility3": "Banner of Discipline",
+          "elite": "Head Butt"
+        },
+        "skills": {
+          "heal": "Mending",
+          "utility2": "Banner of Strength",
+          "utility3": "Banner of Discipline",
+          "elite": "Head Butt"
+        }
+      }}>
+      Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute
+      name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
+      </Character>
+      <Character gear={{
+        "profession": "warrior",
+        "gear": [
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Berserker",
+          "Assassin",
+          "Assassin",
+          "Berserker",
+          "Berserker",
+          "Assassin",
+          "Berserker",
+          "Berserker",
+          "Berserker"
+        ],
+        "attributes": {
+          "Health": 21832,
+          "Armor": 2304,
+          "Power": 4383,
+          "Precision": 2575,
+          "Toughness": 1033,
+          "Vitality": 1262,
+          "Ferocity": 2351,
+          "Condition Damage": 1200,
+          "Expertise": 0,
+          "Concentration": 333,
+          "Healing Power": 0,
+          "Agony Resistance": 222,
+          "Condition Duration": 0,
+          "Boon Duration": 22.2,
+          "Critical Chance": 100,
+          "Critical Damage": 306.73333333333335,
+          "Effective Power": 38822.26675995676,
+          "Power DPS": 42454.84697661809,
+          "Burning Damage": 455.6875,
+          "Burning Stacks": 0.7,
+          "Burning DPS": 318.98125,
+          "Bleeding Damage": 135.125,
+          "Bleeding Stacks": 0,
+          "Bleeding DPS": 0,
+          "Poison Damage": 151.65625,
+          "Poison Stacks": 0,
+          "Poison DPS": 0,
+          "Torment Damage": 200.9625,
+          "Torment Stacks": 0,
+          "Torment DPS": 0,
+          "Confusion Damage": 135.125,
+          "Confusion Stacks": 0,
+          "Confusion DPS": 0,
+          "Damage": 42773.82822661809,
+          "Effective Health": 83625292.8,
+          "Survivability": 42514.12953736655,
+          "Effective Healing": 390,
+          "Healing": 390
+        },
+        "infusions": [
+          37132,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131,
+          37131
+        ],
+        "weight": "Heavy",
+        "runeId": 24836,
+        "runeName": "Scholar",
+        "weapons": {
+          "weapon1MainType": "Axe",
+          "weapon1MainSigil1Id": 24615,
+          "weapon1OffType": "Axe",
+          "weapon1OffSigilId": 24868,
+          "weapon2MainType": "Axe",
+          "weapon2MainSigil1": "Paralyzation",
+          "weapon2OffType": "Mace",
+          "weapon2OffSigil": "Severance"
+        },
+        "consumables": {
+          "foodId": 41569,
+          "utilityId": 9443,
+          "infusion": "Mighty +9 Agony Infusion"
+        },
+        "skills": {
+          "heal": "Mending",
+          "utility2": "Banner of Strength",
+          "utility3": "Banner of Discipline",
+          "elite": "Head Butt"
+        }
+      }}>
+      Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute
+      name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
+      </Character>
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -205,7 +531,6 @@ conditions:
 boons:
   - { name: Quickness, uptime: '50%', variant: 'self' }
   - { name: Might, uptime: '12 stacks', variant: 'party' }
-
 code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
@@ -214,334 +539,6 @@ classification:
   - 4
   - 2
   - 4
-character:
-  - title: 162 AR + Scholar Rune
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Berserker"
-        ],
-        "attributes": {
-          "Health": 21652,
-          "Armor": 2214,
-          "Power": 4205,
-          "Precision": 2575,
-          "Toughness": 943,
-          "Vitality": 1244,
-          "Ferocity": 2345,
-          "Condition Damage": 1200,
-          "Expertise": 0,
-          "Concentration": 243,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 0,
-          "Boon Duration": 16.2,
-          "Critical Chance": 100,
-          "Critical Damage": 306.33333333333337,
-          "Effective Power": 37197.06737656876,
-          "Power DPS": 40677.578494206886,
-          "Burning Damage": 455.6875,
-          "Burning Stacks": 0.7,
-          "Burning DPS": 318.98125,
-          "Bleeding Damage": 135.125,
-          "Bleeding Stacks": 0,
-          "Bleeding DPS": 0,
-          "Poison Damage": 151.65625,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 200.9625,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 135.125,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 40996.55974420688,
-          "Effective Health": 79696140.3,
-          "Survivability": 40516.593950177936,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432
-        ],
-        "weight": "Heavy",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Axe",
-          "weapon1MainSigil1Id": 24615,
-          "weapon1OffType": "Axe",
-          "weapon1OffSigilId": 24868,
-          "weapon2MainType": "Axe",
-          "weapon2MainSigil1": "Paralyzation",
-          "weapon2OffType": "Mace",
-          "weapon2OffSigil": "Severance"
-        },
-        "consumables": {
-          "foodId": 12486,
-          "utilityId": 9443,
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Mending",
-          "utility2": "Banner of Strength",
-          "utility3": "Banner of Discipline",
-          "elite": "Head Butt"
-        }
-      }
-    note:
-      This build is future proof for upgrading to higher <Attribute name="Agony
-      Resistance"/> later without overwriting runes. However, most people would
-      profit more from the <Item name="eagle" text="Eagle"/> rune build due to
-      not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait
-      name="Spotter"/> assumed.
-  - title: 162 AR + Eagle Rune
-    note: Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute
-      name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker"
-        ],
-        "attributes": {
-          "Health": 21652,
-          "Armor": 2214,
-          "Power": 4210,
-          "Precision": 2575,
-          "Toughness": 943,
-          "Vitality": 1244,
-          "Ferocity": 2345,
-          "Condition Damage": 1200,
-          "Expertise": 0,
-          "Concentration": 243,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 0,
-          "Boon Duration": 16.2,
-          "Critical Chance": 100,
-          "Critical Damage": 306.33333333333337,
-          "Effective Power": 37241.296945387505,
-          "Power DPS": 40725.94660180998,
-          "Burning Damage": 455.6875,
-          "Burning Stacks": 0.7,
-          "Burning DPS": 318.98125,
-          "Bleeding Damage": 135.125,
-          "Bleeding Stacks": 0,
-          "Bleeding DPS": 0,
-          "Poison Damage": 151.65625,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 200.9625,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 135.125,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 41044.927851809975,
-          "Effective Health": 79696140.3,
-          "Survivability": 40516.593950177936,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37132,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432,
-          49432
-        ],
-        "weight": "Heavy",
-        "runeId": 24723,
-        "runeName": "Eagle",
-        "weapons": {
-          "weapon1MainType": "Axe",
-          "weapon1MainSigil1Id": 24615,
-          "weapon1OffType": "Axe",
-          "weapon1OffSigilId": 24868,
-          "weapon2MainType": "Axe",
-          "weapon2MainSigil1": "Paralyzation",
-          "weapon2OffType": "Mace",
-          "weapon2OffSigil": "Severance"
-        },
-        "consumables": {
-          "foodId": 41569,
-          "utilityId": 9443,
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Mending",
-          "utility2": "Banner of Strength",
-          "utility3": "Banner of Discipline",
-          "elite": "Head Butt"
-        },
-        "skills": {
-          "heal": "Mending",
-          "utility2": "Banner of Strength",
-          "utility3": "Banner of Discipline",
-          "elite": "Head Butt"
-        }
-      }
-  - gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Berserker"
-        ],
-        "attributes": {
-          "Health": 21832,
-          "Armor": 2304,
-          "Power": 4383,
-          "Precision": 2575,
-          "Toughness": 1033,
-          "Vitality": 1262,
-          "Ferocity": 2351,
-          "Condition Damage": 1200,
-          "Expertise": 0,
-          "Concentration": 333,
-          "Healing Power": 0,
-          "Agony Resistance": 222,
-          "Condition Duration": 0,
-          "Boon Duration": 22.2,
-          "Critical Chance": 100,
-          "Critical Damage": 306.73333333333335,
-          "Effective Power": 38822.26675995676,
-          "Power DPS": 42454.84697661809,
-          "Burning Damage": 455.6875,
-          "Burning Stacks": 0.7,
-          "Burning DPS": 318.98125,
-          "Bleeding Damage": 135.125,
-          "Bleeding Stacks": 0,
-          "Bleeding DPS": 0,
-          "Poison Damage": 151.65625,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 200.9625,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 135.125,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 42773.82822661809,
-          "Effective Health": 83625292.8,
-          "Survivability": 42514.12953736655,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37132,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Heavy",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Axe",
-          "weapon1MainSigil1Id": 24615,
-          "weapon1OffType": "Axe",
-          "weapon1OffSigilId": 24868,
-          "weapon2MainType": "Axe",
-          "weapon2MainSigil1": "Paralyzation",
-          "weapon2OffType": "Mace",
-          "weapon2OffSigil": "Severance"
-        },
-        "consumables": {
-          "foodId": 41569,
-          "utilityId": 9443,
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Mending",
-          "utility2": "Banner of Strength",
-          "utility3": "Banner of Discipline",
-          "elite": "Head Butt"
-        }
-      }
-    note: Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute
-      name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
 date: 2021-09-18T20:50:43.237Z
 ---
 
