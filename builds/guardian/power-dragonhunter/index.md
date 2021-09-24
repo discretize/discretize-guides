@@ -20,8 +20,7 @@ sections:
       It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
   - title: Equipment
     content: >-
-      <CharacterWithAr>
-      <Character title="162 AR" 
+      <CharacterWithAr> <Character title="162 AR" 
                  gear={{ "profession": "Guardian",
                   "title":"222 Ar", "weight":"Heavy", "gear":[
                   "Berserker",
@@ -105,7 +104,7 @@ sections:
                   "weapon2MainSigil1":"Force",
                   "weapon2MainSigil2":"Impact"
               }, "consumables":{
-                  "food": "Bowl of Sweet and Spicy Butternut Squash Soup",
+                  "foodID": "91805",
                   "utility": "Superior Sharpening Stone",
                   "infusion": "Mighty +9 Agony Infusion"
               },
@@ -117,11 +116,7 @@ sections:
                   "elite": "Dragons Maw"
                 } 
               }}
-      >
-      If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>. You need at least  <Attribute name="Agony Resistance" text="203 Agony Resistance"/> to compensate the lacking <Attribute name="Precision"/>.  
-      It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>. 
-      </Character>
-      <Character gear={{
+      > If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>. You need at least  <Attribute name="Agony Resistance" text="203 Agony Resistance"/> to compensate the lacking <Attribute name="Precision"/>.   It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.  </Character> <Character title="203 AR" gear={{
         "profession": "Guardian",
         "gear": [
           "Berserker",
@@ -212,7 +207,7 @@ sections:
           "weapon2MainSigil2Id": 24868
         },
         "consumables": {
-          "foodId": 41569,
+          "foodId": 91805,
           "utilityId": 9443,
           "infusion": "Mighty +9 Agony Infusion"
        },
@@ -223,12 +218,7 @@ sections:
           "utility3": "Bane Signet",
           "elite": "Dragons Maw"
         } 
-      }}>
-      It is not recommended to run <Trait name="Righthandstrength"/> unless you
-      have multiple <Specialization name="Guardian"/> or another source of <Boon
-      name="Resolution"/>.
-      </Character>
-      </CharacterWithAr>
+      }}> It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>. </Character> </CharacterWithAr>
   - title: Build
     content: >-
       <Grid>
@@ -315,7 +305,7 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 classification:
   - 3
@@ -323,7 +313,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2021-09-18T23:04:32.535Z
+date: 2021-09-24T19:36:37.920Z
 ---
 
 <Divider text="Details"/>
