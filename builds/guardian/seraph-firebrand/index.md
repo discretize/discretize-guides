@@ -202,7 +202,7 @@ sections:
                   "weapon2MainSigil1Id": 74326,
                   "weapon2MainSigil2Id": 24624
               }, "consumables":{
-                   "foodId": 91727,
+                   "foodId": 91703,
                    "utilityId": 48917,
                    "infusion": "Malign +9 Agony Infusion"
               },
@@ -598,7 +598,7 @@ classification:
   - 3
   - 4
 character: []
-date: 2021-09-24T15:19:27.068Z
+date: 2021-09-24T15:44:47.262Z
 ---
 
 <Divider text="Rotation"/>
