@@ -43,9 +43,104 @@ sections:
       - The Grandmaster Holosmith Trait they use, Enhanced Capacity Storage Unit (ECSU) vs Photonic Blasting Module (PBM).
        
       This guide will focus mainly on the Sword ECSU variant since it is the most flexible of the 3.
-  - type: equipment
+  - type: null
     title: Equipment
-    content: ""
+    content: >-
+      <CharacterWithAr> <Character title="150 AR" 
+                 gear={{ "profession": "Engineer",
+                  "weight":"Medium", "gear":[
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Berserker"
+              ], "attributes":{
+                  "Health": 15922,
+                  "Armor": 2343,
+                  "Power": 3496,
+                  "Precision": 2286,
+                  "Toughness": 1225,
+                  "Vitality": 1000,
+                  "Ferocity": 1756,
+                  "Condition Damage": 750,
+                  "Expertise": 0,
+                  "Concentration": 225,
+                  "Healing Power": 0,
+                  "Agony Resistance": 150,
+                  "Condition Duration": 0,
+                  "Boon Duration": 15,
+                  "Critical Chance": 111.23809523809524,
+                  "Critical Damage": 267.06666666666666,
+                  "Bleeding Duration": 33,
+                  "Effective Power": 30616.976963743986,
+                  "Power DPS": 42677.49580621996,
+                  "Burning Damage": 355.421875,
+                  "Burning Stacks": 4,
+                  "Burning DPS": 1421.6875,
+                  "Bleeding Damage": 96.3125,
+                  "Bleeding Stacks": 15.561,
+                  "Bleeding DPS": 1498.7188125,
+                  "Poison Damage": 112.84375,
+                  "Poison Stacks": 2,
+                  "Poison DPS": 225.6875,
+                  "Torment Damage": 142.74375,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 96.3125,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 45823.58961871996,
+                  "Effective Health": 51294713.25,
+                  "Survivability": 26077.637646161667,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType":"Sword",
+                  "weapon1MainSigil1":"Force",
+                  "weapon1OffType":"Shield",
+                  "weapon1OffSigil":"Impact"
+              }, "consumables":{
+                  "foodId": "91805",
+                  "utility": "Superior Sharpening Stone",
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "A.E.D",
+                  "utility1": "Grenade Kit",
+                  "utility2": "Rifle Turret",
+                  "utility3": "Laser Disk",
+                  "elite": "Prime Light Beam"
+                } 
+              }}
+      > Due to the naturally high crit-chance from the Firearms Trait Line, this build does not rely on high Agony Resistance to reach crit-cap. You will only need higher AR or Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.  You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield. </Character></CharacterWithAr>
   - type: mdx
     title: Default Build
     content: >-
@@ -272,7 +367,7 @@ character:
 
 
       You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
-date: 2021-09-21T22:56:29.404Z
+date: 2021-09-24T01:01:43.950Z
 ---
 <Grid>
 <GridItem sm="6">
