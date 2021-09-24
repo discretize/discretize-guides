@@ -21,8 +21,104 @@ sections:
 
       The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apart from the complexity of its rotation is the lack of unique party buffs and overall boon generation, apart from some <Boon name="Might"/> granted by placing fire fields and randomly blasting them.
     title: Overview
-  - type: equipment
-    content: ""
+  - type: null
+    content: >-
+      <CharacterWithAr> <Character title="162 AR" 
+                 gear={{ "profession": "Guardian",
+                  "title":"162 Ar", "weight":"Heavy", "gear":[
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper"
+              ],  "attributes": {
+                  "Health": 11645,
+                  "Armor": 2210,
+                  "Power": 3368,
+                  "Precision": 2006,
+                  "Toughness": 1243,
+                  "Vitality": 1000,
+                  "Ferocity": 270,
+                  "Condition Damage": 2929,
+                  "Expertise": 743,
+                  "Concentration": 243,
+                  "Healing Power": 0,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 79.53333333333333,
+                  "Boon Duration": 16.2,
+                  "Critical Chance": 82.9047619047619,
+                  "Critical Damage": 168,
+                  "Burning Duration": 20,
+                  "Bleeding Duration": 20,
+                  "Effective Power": 8744.397760999998,
+                  "Power DPS": 9427.922114285711,
+                  "Burning Damage": 950.616875,
+                  "Burning Stacks": 25.540266666666668,
+                  "Burning DPS": 24279.008485333336,
+                  "Bleeding Damage": 321.3275,
+                  "Bleeding Stacks": 32.3244,
+                  "Bleeding DPS": 10386.718641,
+                  "Poison Damage": 340.015,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 480.04125000000005,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 321.3275,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 44093.64924061905,
+                  "Effective Health": 34421164.375,
+                  "Survivability": 17499.32098373157,
+                  "Effective Healing": 390,
+                  "Healing": 390
+        }, "runeId":24800, "runeName":"Elementalist", "infusions":[
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130
+              ], "weapons":{
+                  "weapon1MainType":"Sword",
+                  "weapon1MainSigil1":"Earth",
+                  "weapon1OffType":"Focus",
+                  "weapon1OffSigil":"Geomancy"
+              }, "consumables":{
+                  "food": "Bowl of Sweet and Spicy Butternut Squash Soup",
+                  "utilityId": "91876",
+                  "infusion": "toxic-focusing-crystal"
+              },
+                "skills": {
+                  "heal": "Signet of Restoration",
+                  "utility1": "Glyph of Elemental Power",
+                  "utility2": "Primordial Stance",
+                  "utility3": "Signet of Fire",
+                  "elite": "Weave Self"
+                } 
+              }}
+      > Note that the build does not rely on precision as much as the <BuildLink build="Power Weaver" specialization="Weaver"/> variant and you can build your AR around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. The stats shown are with 162 AR.  This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="spitefulagonyinfusion"/>.  </Character> </CharacterWithAr>
     title: Equipment
   - type: mdx
     title: Build
@@ -157,120 +253,8 @@ classification:
   - 3
   - 4
   - 5
-character:
-  - gear: |-
-      {
-        "gear": [
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper"
-        ],
-        "attributes": {
-          "Health": 11645,
-          "Armor": 2210,
-          "Power": 3368,
-          "Precision": 2006,
-          "Toughness": 1243,
-          "Vitality": 1000,
-          "Ferocity": 270,
-          "Condition Damage": 2929,
-          "Expertise": 743,
-          "Concentration": 243,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 79.53333333333333,
-          "Boon Duration": 16.2,
-          "Critical Chance": 82.9047619047619,
-          "Critical Damage": 168,
-          "Burning Duration": 20,
-          "Bleeding Duration": 20,
-          "Effective Power": 8744.397760999998,
-          "Power DPS": 9427.922114285711,
-          "Burning Damage": 950.616875,
-          "Burning Stacks": 25.540266666666668,
-          "Burning DPS": 24279.008485333336,
-          "Bleeding Damage": 321.3275,
-          "Bleeding Stacks": 32.3244,
-          "Bleeding DPS": 10386.718641,
-          "Poison Damage": 340.015,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 480.04125000000005,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 321.3275,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 44093.64924061905,
-          "Effective Health": 34421164.375,
-          "Survivability": 17499.32098373157,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          86113,
-          86113
-        ],
-        "weight": "Light",
-        "runeId": 24800,
-        "runeName": "Elementalist",
-        "weapons": {
-          "weapon1MainType": "Sword",
-          "weapon1MainSigil1": "Earth",
-          "weapon1OffType": "Focus",
-          "weapon1OffSigil": "Geomancy",
-          "weapon2MainSigil2": ""
-        },
-        "consumables": {
-          "food": "rare-veggie-pizza",
-          "utility": "toxic-focusing-crystal",
-          "infusion": "Malign +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Signet of Restoration",
-          "utility1": "Glyph of Elemental Power",
-          "utility2": "Primordial Stance",
-          "utility3": "Signet of Fire",
-          "elite": "Weave Self"
-        }
-      }
-    note: >-
-      Note that the build does not rely on precision as much as the <BuildLink
-      build="Power Weaver" specialization="Weaver"/> variant and you can build
-      your AR around the 150 breakpoint. You should however aim for a fully +9
-      stated infusion gear setup for maximum <Item id="79722"/> stat conversion
-      value. The stats shown are with 162 AR.
-
-
-      This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="spitefulagonyinfusion"/>.
-date: 2021-09-18T23:21:57.325Z
+character: []
+date: 2021-09-24T00:28:25.608Z
 ---
 <Divider text="Rotation / Skill usage"/>
 
