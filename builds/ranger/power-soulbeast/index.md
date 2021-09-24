@@ -40,8 +40,323 @@ sections:
 
 
       Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
-  - type: equipment
+  - type: null
     title: Equipment
+    content: >-
+      <CharacterWithAr> 
+
+      <Character title="162 AR" 
+                 gear={{ "profession": "Ranger",
+                  "weight":"Medium", "gear":[
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Berserker",
+                  "Assassin",
+                  "Assassin",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker"
+              ], "attributes":{
+                  "Health": 17422,
+                  "Armor": 2511,
+                  "Power": 3675,
+                  "Precision": 2575,
+                  "Toughness": 1393,
+                  "Vitality": 1150,
+                  "Ferocity": 2106,
+                  "Condition Damage": 900,
+                  "Expertise": 0,
+                  "Concentration": 243,
+                  "Healing Power": 0,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 0,
+                  "Boon Duration": 16.2,
+                  "Critical Chance": 100,
+                  "Critical Damage": 290.4,
+                  "Effective Power": 34752.53438459952,
+                  "Power DPS": 37201.40376942113,
+                  "Burning Damage": 422.65625,
+                  "Burning Stacks": 0.67,
+                  "Burning DPS": 283.1796875,
+                  "Bleeding Damage": 118.75,
+                  "Bleeding Stacks": 4.5,
+                  "Bleeding DPS": 534.375,
+                  "Poison Damage": 136.71875,
+                  "Poison Stacks": 2.4,
+                  "Poison DPS": 328.125,
+                  "Torment Damage": 176.25,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 118.75,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 38347.08345692113,
+                  "Effective Health": 60151632.75,
+                  "Survivability": 30580.39285714286,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType": "Longbow",
+                  "weapon1MainSigil1": "force",
+                  "weapon1MainSigil2": "impact",
+                  "weapon2MainType": "Sword",
+                  "weapon2MainSigil1": "force",
+                  "weapon2OffType": "Axe",
+                  "weapon2OffSigil": "impact"
+              }, "consumables":{
+                  "foodId": "91805",
+                  "utility": "superior-sharpening-stone",
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "We Heal as One",
+                  "utility2": "Sic Em",
+                  "utility3": "Frost Spirit",
+                  "elite": "One Wolf Pack"
+                } 
+              }}
+      > 
+
+      If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+      </Character> <Character title="222 AR" 
+                 gear={{ "profession": "Ranger",
+                  "weight":"Medium", "gear":[
+                  "Assassin",
+                  "Assassin",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker"
+              ], "attributes":{
+                  "Health": 17422,
+                  "Armor": 2601,
+                  "Power": 3765,
+                  "Precision": 2575,
+                  "Toughness": 1483,
+                  "Vitality": 1150,
+                  "Ferocity": 2106,
+                  "Condition Damage": 900,
+                  "Expertise": 0,
+                  "Concentration": 333,
+                  "Healing Power": 0,
+                  "Agony Resistance": 222,
+                  "Condition Duration": 0,
+                  "Boon Duration": 22.2,
+                  "Critical Chance": 100,
+                  "Critical Damage": 290.4,
+                  "Effective Power": 35603.61685932441,
+                  "Power DPS": 38112.45855561103,
+                  "Burning Damage": 422.65625,
+                  "Burning Stacks": 0.67,
+                  "Burning DPS": 283.1796875,
+                  "Bleeding Damage": 118.75,
+                  "Bleeding Stacks": 4.5,
+                  "Bleeding DPS": 534.375,
+                  "Poison Damage": 136.71875,
+                  "Poison Stacks": 2.4,
+                  "Poison DPS": 328.125,
+                  "Torment Damage": 176.25,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 118.75,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 39258.13824311103,
+                  "Effective Health": 62307605.25,
+                  "Survivability": 31676.464285714286,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType": "Longbow",
+                  "weapon1MainSigil1": "force",
+                  "weapon1MainSigil2": "impact",
+                  "weapon2MainType": "Sword",
+                  "weapon2MainSigil1": "force",
+                  "weapon2OffType": "Axe",
+                  "weapon2OffSigil": "impact"
+              }, "consumables":{
+                  "foodId": "91805",
+                  "utility": "superior-sharpening-stone",
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "We Heal as One",
+                  "utility2": "Sic Em",
+                  "utility3": "Frost Spirit",
+                  "elite": "One Wolf Pack"
+                } 
+              }}
+      > 
+
+      If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+      </Character> <Character title="243 AR" 
+                 gear={{ "profession": "Ranger",
+                  "weight":"Medium", "gear":[
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker"
+              ], "attributes":{
+                  "Health": 17422,
+                  "Armor": 2632,
+                  "Power": 3796,
+                  "Precision": 2575,
+                  "Toughness": 1514,
+                  "Vitality": 1150,
+                  "Ferocity": 2106,
+                  "Condition Damage": 900,
+                  "Expertise": 0,
+                  "Concentration": 364,
+                  "Healing Power": 0,
+                  "Agony Resistance": 243,
+                  "Condition Duration": 0,
+                  "Boon Duration": 24.266666666666666,
+                  "Critical Chance": 100,
+                  "Critical Damage": 290.4,
+                  "Effective Power": 35896.76748950742,
+                  "Power DPS": 38426.266315298664,
+                  "Burning Damage": 422.65625,
+                  "Burning Stacks": 0.67,
+                  "Burning DPS": 283.1796875,
+                  "Bleeding Damage": 118.75,
+                  "Bleeding Stacks": 4.5,
+                  "Bleeding DPS": 534.375,
+                  "Poison Damage": 136.71875,
+                  "Poison Stacks": 2.4,
+                  "Poison DPS": 328.125,
+                  "Torment Damage": 176.25,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 118.75,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 39571.946002798664,
+                  "Effective Health": 63050218,
+                  "Survivability": 32054,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType": "Longbow",
+                  "weapon1MainSigil1": "force",
+                  "weapon1MainSigil2": "impact",
+                  "weapon2MainType": "Sword",
+                  "weapon2MainSigil1": "force",
+                  "weapon2OffType": "Axe",
+                  "weapon2OffSigil": "impact"
+              }, "consumables":{
+                  "foodId": "91805",
+                  "utility": "superior-sharpening-stone",
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "We Heal as One",
+                  "utility2": "Sic Em",
+                  "utility3": "Frost Spirit",
+                  "elite": "One Wolf Pack"
+                } 
+              }}
+      >
+
+      It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full Berserker gear on both.
+
+
+      If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+      </Character>
+
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -290,330 +605,8 @@ classification:
   - 3
   - 3
   - 4
-character:
-  - title: 162AR
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Berserker",
-          "Assassin",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker"
-        ],
-        "attributes": {
-          "Health": 17422,
-          "Armor": 2511,
-          "Power": 3675,
-          "Precision": 2575,
-          "Toughness": 1393,
-          "Vitality": 1150,
-          "Ferocity": 2106,
-          "Condition Damage": 900,
-          "Expertise": 0,
-          "Concentration": 243,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 0,
-          "Boon Duration": 16.2,
-          "Critical Chance": 100,
-          "Critical Damage": 290.4,
-          "Effective Power": 34752.53438459952,
-          "Power DPS": 37201.40376942113,
-          "Burning Damage": 422.65625,
-          "Burning Stacks": 0.67,
-          "Burning DPS": 283.1796875,
-          "Bleeding Damage": 118.75,
-          "Bleeding Stacks": 4.5,
-          "Bleeding DPS": 534.375,
-          "Poison Damage": 136.71875,
-          "Poison Stacks": 2.4,
-          "Poison DPS": 328.125,
-          "Torment Damage": 176.25,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 118.75,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 38347.08345692113,
-          "Effective Health": 60151632.75,
-          "Survivability": 30580.39285714286,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "medium",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Longbow",
-          "weapon1MainSigil1": "force",
-          "weapon1MainSigil2": "impact",
-          "weapon2MainType": "Sword",
-          "weapon2MainSigil1": "force",
-          "weapon2OffType": "Axe",
-          "weapon2OffSigil": "impact"
-        },
-        "consumables": {
-          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
-          "utility": "superior-sharpening-stone",
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "We Heal as One",
-          "utility2": "Sic Em",
-          "utility3": "Frost Spirit",
-          "elite": "One Wolf Pack"
-        }
-      }
-    note: Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-  - title: 222AR
-    gear: |-
-      {
-        "gear": [
-          "Assassin",
-          "Assassin",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker"
-        ],
-        "attributes": {
-          "Health": 17422,
-          "Armor": 2601,
-          "Power": 3765,
-          "Precision": 2575,
-          "Toughness": 1483,
-          "Vitality": 1150,
-          "Ferocity": 2106,
-          "Condition Damage": 900,
-          "Expertise": 0,
-          "Concentration": 333,
-          "Healing Power": 0,
-          "Agony Resistance": 222,
-          "Condition Duration": 0,
-          "Boon Duration": 22.2,
-          "Critical Chance": 100,
-          "Critical Damage": 290.4,
-          "Effective Power": 35603.61685932441,
-          "Power DPS": 38112.45855561103,
-          "Burning Damage": 422.65625,
-          "Burning Stacks": 0.67,
-          "Burning DPS": 283.1796875,
-          "Bleeding Damage": 118.75,
-          "Bleeding Stacks": 4.5,
-          "Bleeding DPS": 534.375,
-          "Poison Damage": 136.71875,
-          "Poison Stacks": 2.4,
-          "Poison DPS": 328.125,
-          "Torment Damage": 176.25,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 118.75,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 39258.13824311103,
-          "Effective Health": 62307605.25,
-          "Survivability": 31676.464285714286,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "medium",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Longbow",
-          "weapon1MainSigil1": "force",
-          "weapon1MainSigil2": "impact",
-          "weapon2MainType": "Sword",
-          "weapon2MainSigil1": "force",
-          "weapon2OffType": "Axe",
-          "weapon2OffSigil": "impact"
-        },
-        "consumables": {
-          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
-          "utility": "superior-sharpening-stone",
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "We Heal as One",
-          "utility2": "Sic Em",
-          "utility3": "Frost Spirit",
-          "elite": "One Wolf Pack"
-        }
-      }
-    note: Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-  - title: 243AR
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker"
-        ],
-        "attributes": {
-          "Health": 17422,
-          "Armor": 2632,
-          "Power": 3796,
-          "Precision": 2575,
-          "Toughness": 1514,
-          "Vitality": 1150,
-          "Ferocity": 2106,
-          "Condition Damage": 900,
-          "Expertise": 0,
-          "Concentration": 364,
-          "Healing Power": 0,
-          "Agony Resistance": 243,
-          "Condition Duration": 0,
-          "Boon Duration": 24.266666666666666,
-          "Critical Chance": 100,
-          "Critical Damage": 290.4,
-          "Effective Power": 35896.76748950742,
-          "Power DPS": 38426.266315298664,
-          "Burning Damage": 422.65625,
-          "Burning Stacks": 0.67,
-          "Burning DPS": 283.1796875,
-          "Bleeding Damage": 118.75,
-          "Bleeding Stacks": 4.5,
-          "Bleeding DPS": 534.375,
-          "Poison Damage": 136.71875,
-          "Poison Stacks": 2.4,
-          "Poison DPS": 328.125,
-          "Torment Damage": 176.25,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 118.75,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 39571.946002798664,
-          "Effective Health": 63050218,
-          "Survivability": 32054,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "medium",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Longbow",
-          "weapon1MainSigil1": "force",
-          "weapon1MainSigil2": "impact",
-          "weapon2MainType": "Sword",
-          "weapon2MainSigil1": "force",
-          "weapon2OffType": "Axe",
-          "weapon2OffSigil": "impact"
-        },
-        "consumables": {
-          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
-          "utility": "superior-sharpening-stone",
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "We Heal as One",
-          "utility2": "Sic Em",
-          "utility3": "Frost Spirit",
-          "elite": "One Wolf Pack"
-        }
-      }
-    note: >-
-      Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-
-
-      It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full Berserker gear on both.
-date: 2021-09-18T22:25:40.394Z
+character: []
+date: 2021-09-24T22:58:14.595Z
 ---
 <Divider text="Rotation / Skill usage"/>
 
