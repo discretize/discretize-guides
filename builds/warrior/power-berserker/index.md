@@ -203,7 +203,9 @@ traits:
 conditions:
   - Vulnerability
 boons:
-  - Might
+  - { name: Quickness, uptime: '50%', variant: 'self' }
+  - { name: Might, uptime: '12 stacks', variant: 'party' }
+
 code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:

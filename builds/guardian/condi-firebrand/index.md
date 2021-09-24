@@ -240,13 +240,10 @@ conditions:
   - Crippled
   - Bleeding
 boons:
-  - Quickness
-  - Fury
-  - Might
-  - Stability
-  - Resolution
-  - Aegis
-code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+  - { name: Quickness, uptime: '100%', variant: 'party' }
+  - { name: Stability, uptime: 'on demand', variant: 'party' }
+  - { name: Aegis, uptime: 'on demand', variant: 'party' }
+code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 5
   - 4
@@ -374,6 +371,7 @@ benchmark:
     by: TJ [SC]
     youtube: U1yYDskt3Cw
 ---
+
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>

@@ -24,7 +24,7 @@ sections:
       It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
   - type: equipment
     title: Equipment
-    content: ""
+    content: ''
   - type: mdx
     title: Build
     content: >-
@@ -112,7 +112,7 @@ sections:
       </Grid>
 rating: Good
 role: Power Damage
-author: "Discord: Jes#6596"
+author: 'Discord: Jes#6596'
 profession: Necromancer
 specialization: Reaper
 skills:
@@ -128,11 +128,7 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-boons:
-  - Might
-  - Fury
-  - Quickness
-code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 1
@@ -251,6 +247,7 @@ benchmark:
     by: Westet
     youtube: I1Tjyfk-DKI
 ---
+
 <Divider text="Details" />
 
 <Grid>

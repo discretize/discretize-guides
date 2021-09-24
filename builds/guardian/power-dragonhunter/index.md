@@ -315,9 +315,6 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-boons:
-  - Resolution
-  - Aegis
 code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:

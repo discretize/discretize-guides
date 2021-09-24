@@ -217,14 +217,7 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-boons:
-  - Quickness
-  - Fury
-  - Might
-  - Stability
-  - Resolution
-  - Aegis
-code: "[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 5
@@ -461,6 +454,7 @@ character:
       }
 date: 2021-09-18T23:11:08.356Z
 ---
+
 <Divider text="Rotation / Skill Usage"/>
 
 <Grid>

@@ -19,7 +19,7 @@ sections:
       Overall, this build is an excellent pick if taken as an alt class: it is meant for players who enjoy high-risk, high-reward rotations. Played correctly, it is excellent in PuGs on single-target bosses such as the ones from Challenge Mode Fractals, most notably Sorrowful Spellcaster (Light and Dark Ai) and Ensolyss, or any boss with little to no phases. We do not recommend running this build in Shattered Observatory, as positioning is most important there, and jumping <Skill name="shadowstrike"/> becomes terrible due to Cosmic Energy (low gravity). Details for this build can be found at the bottom of the page.
   - type: equipment
     title: Equipment
-    content: ""
+    content: ''
   - type: mdx
     title: Build
     content: >-
@@ -163,15 +163,7 @@ conditions:
   - Poisoned
   - Bleeding
   - Torment
-boons:
-  - Quickness
-  - Fury
-  - Might
-  - Protection
-  - Regeneration
-  - Swiftness
-  - Vigor
-code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 5
@@ -198,7 +190,7 @@ character:
 
 
       - Shortbow for additional movement during downtime and <Item name="doom"/> precasts, as well as <Boon name="might"/> blasts on the _Mistlock Singularity_.
-    title: ""
+    title: ''
     gear: |-
       {
         "gear": [
@@ -309,6 +301,7 @@ benchmark:
     by: Incera [XVII]
     youtube: -Rk0Lu8QpbU
 ---
+
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
@@ -317,7 +310,7 @@ benchmark:
 
 <Warning>
 
-**Make sure to only press <Skill name="mercy"/> *after* completing <Skill name="malicioussneakattack"/> !**
+**Make sure to only press <Skill name="mercy"/> _after_ completing <Skill name="malicioussneakattack"/> !**
 </Warning>
 
 1.  <Skill name="deadeyesmark"/>

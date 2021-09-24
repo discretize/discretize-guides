@@ -20,7 +20,7 @@ sections:
       The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option if playing outside of fractals or with low AR. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/).
   - type: equipment
     title: Equipment
-    content: ""
+    content: ''
   - type: mdx
     title: Build
     content: >-
@@ -275,14 +275,7 @@ skills:
   - 9093
 conditions:
   - Burning
-boons:
-  - Quickness
-  - Fury
-  - Might
-  - Stability
-  - Swiftness
-  - Aegis
-code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 4

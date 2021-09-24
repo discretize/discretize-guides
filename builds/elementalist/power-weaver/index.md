@@ -153,11 +153,7 @@ conditions:
   - Burning
   - Chilled
   - Vulnerability
-boons:
-  - Fury
-  - Might
-  - Swiftness
-code: "[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 4
@@ -494,6 +490,7 @@ character:
       }
 date: 2021-09-18T23:27:05.068Z
 ---
+
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
@@ -641,7 +638,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 
 <GridItem sm="10">
 
-1.  <Skill name="Invoke Lightning"/>   \
+1.  <Skill name="Invoke Lightning"/> \
     <Label>Only if pre-casted LH</Label>
 
 2.  <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap"/> \

@@ -102,7 +102,7 @@ sections:
   - type: mdx
     title: Further Information
     content: >-
-      
+
 
       <Grid>
 
@@ -157,7 +157,7 @@ sections:
       </Grid>
 rating: Good
 role: Condi Damage
-author: "Discord: Amerikajinn#9784"
+author: 'Discord: Amerikajinn#9784'
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -176,11 +176,7 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-boons:
-  - Might
-  - Fury
-  - Quickness
-code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 2

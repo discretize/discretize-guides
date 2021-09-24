@@ -17,7 +17,7 @@ sections:
       Condi <Specialization name="Renegade"/> is pretty independent due to its rather good mobility (<Skill id="28029"/>, <Skill id="27917"/>) and permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
   - type: equipment
     title: Equipment
-    content: ""
+    content: ''
   - type: mdx
     title: Build
     content: >-
@@ -200,9 +200,6 @@ traits:
   - 2182
 conditions:
   - Vulnerability
-boons:
-  - Alacrity
-  - Might
 classification:
   - 4
   - 3
@@ -211,7 +208,7 @@ classification:
   - 5
 compositions:
   - name: _CRGB
-code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
+code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
 character:
   - title: 80% Boon Duration 162AR
     gear: |-
@@ -532,7 +529,8 @@ character:
                 "legend2": "legendaryrenegadestance"
       }
       }
-    note: If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you
+    note:
+      If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you
       can both play <Trait name="Righteous Rebel"/> to provide <Boon
       name="alacrity"/>,
 date: 2021-09-19T16:55:13.941Z
@@ -540,7 +538,7 @@ hasCMGuide: false
 benchmark:
   huge:
     dps: 38011
-    by: "Le Mós "
+    by: 'Le Mós '
     youtube: fBYzCIj7RAU
 ---
 

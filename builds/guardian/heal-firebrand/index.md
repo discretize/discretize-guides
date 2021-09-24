@@ -565,14 +565,7 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-boons:
-  - Quickness
-  - Fury
-  - Might
-  - Swiftness
-  - Stability
-  - Aegis
-code: "[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 4

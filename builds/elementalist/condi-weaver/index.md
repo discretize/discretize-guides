@@ -22,7 +22,7 @@ sections:
       The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apart from the complexity of its rotation is the lack of unique party buffs and overall boon generation, apart from some <Boon name="Might"/> granted by placing fire fields and randomly blasting them.
     title: Overview
   - type: equipment
-    content: ""
+    content: ''
     title: Equipment
   - type: mdx
     title: Build
@@ -144,12 +144,7 @@ conditions:
   - Crippled
   - Bleeding
   - Chilled
-boons:
-  - Might
-  - Stability
-  - Swiftness
-  - Regeneration
-code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 3
@@ -272,6 +267,7 @@ character:
       This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="spitefulagonyinfusion"/>.
 date: 2021-09-18T23:21:57.325Z
 ---
+
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
@@ -337,7 +333,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="10">
 
 1. <Skill name="Transmute Fire"/>
-2. <Skill name="Cauterizing Strike"/>   
+2. <Skill name="Cauterizing Strike"/>
 3. <Skill name="Flamewall"/>
 
 </GridItem>
@@ -597,8 +593,8 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 1. <Skill name="Transmute Fire"/>
 2. <Skill name="Flamewall"/>
 3. <Skill name="Cauterizing Strike"/>
-3. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
-4. <Skill name="Flame Uprising"/>
+4. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
+5. <Skill name="Flame Uprising"/>
 
 </GridItem>
 

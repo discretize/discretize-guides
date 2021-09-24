@@ -377,9 +377,7 @@ traits:
 conditions:
   - Vulnerability
 boons:
-  - Alacrity
-  - Might
-  - Stability
+  - { name: Alacrity, uptime: '100%', variant: 'party' }
 classification:
   - 5
   - 2
@@ -852,7 +850,7 @@ For that reason you can find a video with openers, that are efficient to use her
 <GridItem xs="12" sm="6">
 <Card title="Dealing with No Pain, No Gain">
 
-There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "*interrupted*" message.
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message.
 
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed/>
 
