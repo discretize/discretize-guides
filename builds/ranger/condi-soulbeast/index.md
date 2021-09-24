@@ -27,8 +27,213 @@ sections:
 
 
       Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
-  - type: equipment
+  - type: null
     title: Equipment
+    content: >-
+      <CharacterWithAr> 
+
+      <Character title="Krait Runes" 
+                 gear={{ "profession": "Ranger",
+                  "weight":"Light", "gear":[
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper"
+              ], "attributes":{
+                  "Health": 17122,
+                  "Armor": 2361,
+                  "Power": 2923,
+                  "Precision": 1976,
+                  "Toughness": 1243,
+                  "Vitality": 1120,
+                  "Ferocity": 150,
+                  "Condition Damage": 3023,
+                  "Expertise": 773,
+                  "Concentration": 243,
+                  "Healing Power": 0,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 51.53333333333333,
+                  "Boon Duration": 16.2,
+                  "Critical Chance": 81.47619047619048,
+                  "Critical Damage": 160,
+                  "Bleeding Duration": 50,
+                  "Effective Power": 8601.860511160714,
+                  "Power DPS": 5051.150280908775,
+                  "Burning Damage": 974.2931250000001,
+                  "Burning Stacks": 3.4852666666666665,
+                  "Burning DPS": 3395.6713521250003,
+                  "Bleeding Damage": 439.55502500000006,
+                  "Bleeding Stacks": 51.8,
+                  "Bleeding DPS": 22768.950295000002,
+                  "Poison Damage": 436.475,
+                  "Poison Stacks": 23.336133333333336,
+                  "Poison DPS": 10185.638796666668,
+                  "Torment Damage": 493.78875,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 330.4925,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 41401.41072470044,
+                  "Effective Health": 50531302.5,
+                  "Survivability": 25689.52846975089,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24762, "runeName":"Krait", "infusions":[
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130
+              ], "weapons":{
+                  "weapon1MainType": "Short Bow",
+                  "weapon1MainSigil1": "bursting",
+                  "weapon1MainSigil2": "earth",
+                  "weapon2MainType": "Dagger",
+                  "weapon2MainSigil1": "bursting",
+                  "weapon2OffType": "Torch",
+                  "weapon2OffSigil": "earth"
+              }, "consumables":{
+                  "foodId": "91878",
+                  "utility": "toxic-focusing-crystal",
+                  "infusion": "Malign +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "We Heal as One",
+                  "utility2": "Sharpening Stone",
+                  "utility3": "Vulture Stance",
+                  "elite": "One Wolf Pack"
+                } 
+              }}
+      > 
+       
+      </Character> <Character title="Afflicted Runes" 
+                 gear={{ "profession": "Ranger",
+                  "weight":"Light", "gear":[
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper",
+                  "Viper"
+              ], "attributes":{
+                  "Health": 17122,
+                  "Armor": 2361,
+                  "Power": 2923,
+                  "Precision": 1976,
+                  "Toughness": 1243,
+                  "Vitality": 1120,
+                  "Ferocity": 150,
+                  "Condition Damage": 2885,
+                  "Expertise": 893,
+                  "Concentration": 243,
+                  "Healing Power": 0,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 79.53333333333333,
+                  "Boon Duration": 16.2,
+                  "Critical Chance": 81.47619047619048,
+                  "Critical Damage": 160,
+                  "Bleeding Duration": 20,
+                  "Poison Duration": 10,
+                  "Effective Power": 8601.860511160714,
+                  "Power DPS": 5051.150280908775,
+                  "Burning Damage": 903.3984374999999,
+                  "Burning Stacks": 4.129266666666666,
+                  "Burning DPS": 3730.373054687499,
+                  "Bleeding Damage": 405.44218750000005,
+                  "Bleeding Stacks": 51.67913333333333,
+                  "Bleeding DPS": 20952.900866770837,
+                  "Poison Damage": 403.515625,
+                  "Poison Stacks": 29.188133333333333,
+                  "Poison DPS": 11777.867864583333,
+                  "Torment Damage": 455.390625,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 304.84375,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 41512.292066950446,
+                  "Effective Health": 50531302.5,
+                  "Survivability": 25689.52846975089,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24687, "runeName":"Afflicted", "infusions":[
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113,
+                  86113
+              ], "weapons":{
+                  "weapon1MainType": "Short Bow",
+                  "weapon1MainSigil1": "malice",
+                  "weapon1MainSigil2": "earth",
+                  "weapon2MainType": "Dagger",
+                  "weapon2MainSigil1": "malice",
+                  "weapon2OffType": "Torch",
+                  "weapon2OffSigil": "earth"
+              }, "consumables":{
+                  "foodId": "91876",
+                  "utility": "toxic-focusing-crystal",
+                  "infusion": "Spiteful +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "We Heal as One",
+                  "utility2": "Sharpening Stone",
+                  "utility3": "Vulture Stance",
+                  "elite": "One Wolf Pack"
+                } 
+              }}
+      > 
+
+      This builds damage depends on the amount of <Specialization name="Soulbeast" text="condi Soulbeasts"/> in the party. The build deals similar DPS with 2 <Specialization name="Soulbeast" text="condi Soulbeasts"/>, and outperforms the Krait build if you have 3 <Specialization name="Soulbeast" text="condi Soulbeasts"/> in the party. If you are going to be on your own run the Krait rune setup! 
+
+      </Character>
+
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -174,222 +379,8 @@ conditions:
   - Burning
 code: "[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
-character:
-  - title: Krait Runes
-    gear: |-
-      {
-        "gear": [
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper"
-        ],
-        "attributes": {
-          "Health": 17122,
-          "Armor": 2361,
-          "Power": 2923,
-          "Precision": 1976,
-          "Toughness": 1243,
-          "Vitality": 1120,
-          "Ferocity": 150,
-          "Condition Damage": 3023,
-          "Expertise": 773,
-          "Concentration": 243,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 51.53333333333333,
-          "Boon Duration": 16.2,
-          "Critical Chance": 81.47619047619048,
-          "Critical Damage": 160,
-          "Bleeding Duration": 50,
-          "Effective Power": 8601.860511160714,
-          "Power DPS": 5051.150280908775,
-          "Burning Damage": 974.2931250000001,
-          "Burning Stacks": 3.4852666666666665,
-          "Burning DPS": 3395.6713521250003,
-          "Bleeding Damage": 439.55502500000006,
-          "Bleeding Stacks": 51.8,
-          "Bleeding DPS": 22768.950295000002,
-          "Poison Damage": 436.475,
-          "Poison Stacks": 23.336133333333336,
-          "Poison DPS": 10185.638796666668,
-          "Torment Damage": 493.78875,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 330.4925,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 41401.41072470044,
-          "Effective Health": 50531302.5,
-          "Survivability": 25689.52846975089,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130,
-          37130
-        ],
-        "weight": "medium",
-        "runeId": 24762,
-        "runeName": "Krait",
-        "weapons": {
-          "weapon1MainType": "Short Bow",
-          "weapon1MainSigil1": "bursting",
-          "weapon1MainSigil2": "earth",
-          "weapon2MainType": "Dagger",
-          "weapon2MainSigil1": "bursting",
-          "weapon2OffType": "Torch",
-          "weapon2OffSigil": "earth"
-        },
-        "consumables": {
-          "foodId": "86997",
-          "utility": "toxic-focusing-crystal",
-          "infusion": "Malign +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "We Heal as One",
-          "utility2": "Sharpening Stone",
-          "utility3": "Vulture Stance",
-          "elite": "One Wolf Pack"
-        }
-      }
-  - title: Afflicted Runes
-    gear: |-
-      {
-        "gear": [
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper",
-          "Viper"
-        ],
-        "attributes": {
-          "Health": 17122,
-          "Armor": 2361,
-          "Power": 2923,
-          "Precision": 1976,
-          "Toughness": 1243,
-          "Vitality": 1120,
-          "Ferocity": 150,
-          "Condition Damage": 2885,
-          "Expertise": 893,
-          "Concentration": 243,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 79.53333333333333,
-          "Boon Duration": 16.2,
-          "Critical Chance": 81.47619047619048,
-          "Critical Damage": 160,
-          "Bleeding Duration": 20,
-          "Poison Duration": 10,
-          "Effective Power": 8601.860511160714,
-          "Power DPS": 5051.150280908775,
-          "Burning Damage": 903.3984374999999,
-          "Burning Stacks": 4.129266666666666,
-          "Burning DPS": 3730.373054687499,
-          "Bleeding Damage": 405.44218750000005,
-          "Bleeding Stacks": 51.67913333333333,
-          "Bleeding DPS": 20952.900866770837,
-          "Poison Damage": 403.515625,
-          "Poison Stacks": 29.188133333333333,
-          "Poison DPS": 11777.867864583333,
-          "Torment Damage": 455.390625,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 304.84375,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 41512.292066950446,
-          "Effective Health": 50531302.5,
-          "Survivability": 25689.52846975089,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113,
-          86113
-        ],
-        "weight": "medium",
-        "runeId": 24687,
-        "runeName": "Afflicted",
-        "weapons": {
-          "weapon1MainType": "Short Bow",
-          "weapon1MainSigil1": "malice",
-          "weapon1MainSigil2": "earth",
-          "weapon2MainType": "Dagger",
-          "weapon2MainSigil1": "malice",
-          "weapon2OffType": "Torch",
-          "weapon2OffSigil": "earth"
-        },
-        "consumables": {
-          "food": "rare-veggie-pizza",
-          "utility": "toxic-focusing-crystal",
-          "infusion": "Malign +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "We Heal as One",
-          "utility2": "Sharpening Stone",
-          "utility3": "Vulture Stance",
-          "elite": "One Wolf Pack"
-        }
-      }
-    note: This builds damage depends on the amount of <Specialization
-      name="Soulbeast" text="Soulbeasts"/> in the party. The build deals similar
-      DPS with 2 condi Soulbeasts, and outperforms the Krait build if you have 3
-      Soulbeasts in the party. If you are going to be on your own run the Krait
-      rune setup!
-date: 2021-09-18T22:22:58.333Z
+character: []
+date: 2021-09-24T22:48:57.228Z
 benchmark:
   small:
     dps: 36197
