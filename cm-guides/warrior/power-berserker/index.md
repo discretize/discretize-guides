@@ -222,9 +222,11 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 ### _1st Add_
 
-- Swap to rifle, start with <Skill name="volley"/> to apply <Condition name="Vulnerability"/>.
+- Swap to rifle, start with <Skill name="explosiveshell"/> to apply <Condition name="Vulnerability"/>.
 
-- Finish the add with <Skill name="gunflame"/> and <Skill name="aimedshot"/>.
+- <Skill name="Volley" /> for big damage.
+
+- Finish the add with <Skill name="gunflame"/> and <Skill name="brutalshot"/>.
 
 ### **2nd Phase**
 
@@ -234,9 +236,11 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 ### _2nd Add_
 
-- Swap to rifle, start with <Skill name="volley"/> to apply <Condition name="Vulnerability"/>.
+- Swap to rifle, start with <Skill name="explosiveshell"/> to apply <Condition name="Vulnerability"/>.
 
-- Finish the add with <Skill name="gunflame"/> and <Skill name="aimedshot"/>.
+- <Skill name="Volley" /> for big damage.
+
+- Finish the add with <Skill name="gunflame"/> and <Skill name="brutalshot"/>.
 
 ### **3rd Phase**
 
