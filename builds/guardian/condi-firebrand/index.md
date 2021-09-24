@@ -35,7 +35,9 @@ sections:
   - type: null
     title: Equipment
     content: >-
-      <CharacterWithAr> <Character title="162 AR" 
+      <CharacterWithAr> 
+
+      <Character title="162 AR" 
                  gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
                   "Viper",
@@ -132,11 +134,21 @@ sections:
                   "elite": "Feel my Wrath"
                 } 
               }}
-      > Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
+      > 
 
-      You will want the following weapons to swap to durning fractal runs; Greatsword for pulling adds in Nightmare CM after MAMA and some T4s and a staff for <Boon name="Might"/> pre-stacking. 
+      Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
 
-      If you have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>.  </Character> </CharacterWithAr>
+      You will want the following weapons to swap to durning fractal runs:
+
+      - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
+
+      - A staff for <Boon name="Might"/> pre-stacking. 
+
+      - If you have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>. 
+
+      </Character> 
+
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -355,7 +367,7 @@ compositions:
   - name: _CRGB
 hasCMGuide: false
 character: []
-date: 2021-09-24T16:14:22.948Z
+date: 2021-09-24T19:19:58.770Z
 benchmark:
   small:
     dps: 36732
@@ -423,7 +435,7 @@ When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 <GridItem sm="6">
 <Card title="Golem rotation">
 
-<Video youtube="U1yYDskt3Cw" caption="by TJ"/>
+<Video youtube="XbbfgCUGwlY" caption="by Frenzy"/>
 </Card>
 
 <Card title="Precasting">
