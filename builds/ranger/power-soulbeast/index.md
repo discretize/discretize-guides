@@ -44,8 +44,7 @@ sections:
     title: Equipment
     content: >-
       <CharacterWithAr> 
-
-      <Character title="162 AR" 
+      <Character title="162 Agony Resistance" 
                  gear={{ "profession": "Ranger",
                   "weight":"Medium", "gear":[
                   "Berserker",
@@ -141,13 +140,12 @@ sections:
                 } 
               }}
       > 
-
       If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
-
 
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
-      </Character> <Character title="222 AR" 
+      </Character> 
+      <Character title="222 Agony Resistance" 
                  gear={{ "profession": "Ranger",
                   "weight":"Medium", "gear":[
                   "Assassin",
@@ -243,13 +241,12 @@ sections:
                 } 
               }}
       > 
-
       If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
-
 
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
-      </Character> <Character title="243 AR" 
+      </Character> 
+      <Character title="243 Agony Resistance" 
                  gear={{ "profession": "Ranger",
                   "weight":"Medium", "gear":[
                   "Berserker",
@@ -345,17 +342,13 @@ sections:
                 } 
               }}
       >
-
       It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full Berserker gear on both.
 
-
       If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
-
 
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
       </Character>
-
       </CharacterWithAr>
   - type: mdx
     title: Build
@@ -597,7 +590,7 @@ profession: Ranger
 specialization: Soulbeast
 conditions:
   - Vulnerability
-code: "[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]"
+code: '[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 5
@@ -608,6 +601,7 @@ classification:
 character: []
 date: 2021-09-24T22:58:14.595Z
 ---
+
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>

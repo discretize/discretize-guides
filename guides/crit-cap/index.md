@@ -28,7 +28,7 @@ You can subtract the following values in general:
 Which brings it down to **1475 Precision** or **1375 Precision** required (with <Trait name="Spotter"/>).
 
 Apart from that, the <Item id="79722"/> grants Precision, Concentration and Toughness as high as `1.5 * Agony Resistance`.\
-So **with 150 AR you'd receive 225 additional Precision**.
+So **with 150 Agony Resistance you'd receive 225 additional Precision**.
 
 Now we only need **1250 Precision** (without <Trait name="Spotter"/>) or **1150 Precision** (with <Trait name="Spotter"/>) to achieve 100% Critical Chance (`2995 - 1000 - 420 - 100 - 225` and `-100`)!\
 We have two options to accomplish that - via items or skills/traits.

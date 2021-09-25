@@ -20,7 +20,8 @@ sections:
   - type: null
     title: Equipment
     content: >-
-      <CharacterWithAr> <Character title="162 AR" 
+      <CharacterWithAr> 
+      <Character title="162 Agony Resistance" 
                  gear={{ "profession": "Elementalist",
                   "weight":"Light", "gear": [
           "Berserker",
@@ -121,7 +122,9 @@ sections:
                 } 
       }}
 
-      >If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!</Character> <Character title="222 AR" 
+      >If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+      </Character> 
+      <Character title="222 Agony Resistance" 
                  gear={{ "profession": "Elementalist",
                   "weight":"Light", "gear": [
           "Berserker",
@@ -220,7 +223,9 @@ sections:
           "utility3": "Arcane Blast",
           "elite": "Conjure Fiery Greatsword"
         } 
-      }}> You need Fractal God, <Item id="86175"/> and 18 +9 Agony Infusion!  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!</Character> <Character title="245 AR" 
+      }}> You need Fractal God, <Item id="86175"/> and 18 +9 Agony Infusion!  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+      </Character> 
+      <Character title="245 Agony Resistance" 
                  gear={{ "profession": "Elementalist",
                   "weight":"Light", "gear": [
           "Berserker",
@@ -319,7 +324,10 @@ sections:
           "utility3": "Arcane Blast",
           "elite": "Conjure Fiery Greatsword"
         } 
-      }}> You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"/>, the rest is Mighty +9 Agony Infusion! **You get +5 Agony Resistance to cap critical chance from _Mistlock Singularity_.**  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!</Character> </CharacterWithAr>
+      }}> 
+      You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"/>, the rest is Mighty +9 Agony Infusion! **You get +5 Agony Resistance to cap critical chance from _Mistlock Singularity_.**  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer) for more gear variants!
+      </Character> 
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -454,7 +462,7 @@ conditions:
   - Burning
   - Chilled
   - Vulnerability
-code: "[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 4

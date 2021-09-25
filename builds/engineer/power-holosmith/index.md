@@ -46,7 +46,7 @@ sections:
   - type: null
     title: Equipment
     content: >-
-      <CharacterWithAr> <Character title="150 AR" 
+      <CharacterWithAr> <Character title="150 Agony Resistance" 
                  gear={{ "profession": "Engineer",
                   "weight":"Medium", "gear":[
                   "Berserker",
@@ -140,7 +140,7 @@ sections:
                   "elite": "Prime Light Beam"
                 } 
               }}
-      > Due to the naturally high crit-chance from the Firearms Trait Line, this build does not rely on high Agony Resistance to reach crit-cap. You will only need higher AR or Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.  You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield. </Character></CharacterWithAr>
+      > Due to the naturally high crit-chance from the Firearms Trait Line, this build does not rely on high Agony Resistance to reach crit-cap. You will only need higher Agony Resistance or Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.  You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield. </Character></CharacterWithAr>
   - type: mdx
     title: Default Build
     content: >-
@@ -236,7 +236,7 @@ sections:
       </Grid>
   - type: mdx
     title: Rotation/Skill Usage
-    content: ""
+    content: ''
 rating: Good
 role: Power Damage
 author: Ascers.6082
@@ -247,7 +247,7 @@ conditions:
   - Blinded
   - Crippled
   - Immobile
-code: "[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 2
@@ -258,6 +258,7 @@ classification:
 character: []
 date: 2021-09-24T23:45:09.143Z
 ---
+
 <Grid>
 <GridItem sm="6">
 <Card title="Rotation">

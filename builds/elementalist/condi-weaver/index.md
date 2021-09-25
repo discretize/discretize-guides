@@ -23,7 +23,8 @@ sections:
     title: Overview
   - type: null
     content: >-
-      <CharacterWithAr> <Character title="162 AR" 
+      <CharacterWithAr> 
+      <Character title="162 Agony Resistance" 
                  gear={{ "profession": "Guardian",
                   "title":"162 Ar", "weight":"Heavy", "gear":[
                   "Viper",
@@ -118,7 +119,10 @@ sections:
                   "elite": "Weave Self"
                 } 
               }}
-      > Note that the build does not rely on precision as much as the <BuildLink build="Power Weaver" specialization="Weaver"/> variant and you can build your AR around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. The stats shown are with 162 AR.  This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="spitefulagonyinfusion"/>.  </Character> </CharacterWithAr>
+      > 
+      Note that the build does not rely on precision as much as the <BuildLink build="Power Weaver" specialization="Weaver"/> variant and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. The stats shown are with 162 Agony Resistance.  This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="spitefulagonyinfusion"/>.  
+      </Character> 
+      </CharacterWithAr>
     title: Equipment
   - type: mdx
     title: Build
@@ -240,7 +244,7 @@ conditions:
   - Crippled
   - Bleeding
   - Chilled
-code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 3

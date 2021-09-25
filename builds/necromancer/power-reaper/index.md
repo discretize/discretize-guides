@@ -26,7 +26,7 @@ sections:
     title: Equipment
     content: |-
       <CharacterWithAr> 
-      <Character title="162 AR" 
+      <Character title="162 Agony Resistance" 
                  gear={{ "profession": "Necromancer",
                   "weight":"Light", "gear":[
                   "Berserker",
@@ -212,7 +212,7 @@ sections:
       </Grid>
 rating: Good
 role: Power Damage
-author: "Discord: Jes#6596"
+author: 'Discord: Jes#6596'
 profession: Necromancer
 specialization: Reaper
 skills:
@@ -228,7 +228,7 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 1

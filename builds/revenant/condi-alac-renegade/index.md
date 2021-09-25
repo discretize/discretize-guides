@@ -19,8 +19,7 @@ sections:
     title: Equipment
     content: >-
       <CharacterWithAr> 
-
-      <Character title="80% Boon Duration 162AR" 
+      <Character title="80% Boon Duration 162 Agony Resistance" 
                  gear={{ "profession": "Revenant",
                   "weight":"Heavy", "gear":[
                   "Celestial",
@@ -115,13 +114,10 @@ sections:
                 } 
               }}
       > 
-
-      For more variations to suit your needs/AR check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/).
-
-
+      For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/).
       If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
-
-      </Character> <Character title="80% Boon Duration 222AR" 
+      </Character> 
+      <Character title="80% Boon Duration 222 Agony Resistance" 
                  gear={{ "profession": "Revenant",
                   "weight":"Heavy", "gear":[
                   "Celestial",
@@ -216,13 +212,10 @@ sections:
                 } 
               }}
       > 
-
-      For more variations to suit your needs/AR check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/).
-
-
+      For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/).
       If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
-
-      </Character> <Character title="Condi DPS Renegade" 
+      </Character> 
+      <Character title="Condi DPS Renegade" 
                  gear={{ "profession": "Revenant",
                   "weight":"Heavy", "gear":[
                   "Viper",
@@ -318,11 +311,8 @@ sections:
                 } 
               }}
       > 
-
       If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can both play <Trait name="Righteous Rebel"/> to provide <Boon name="alacrity"/>,
-
       </Character>
-
       </CharacterWithAr>
   - type: mdx
     title: Build
@@ -494,7 +484,7 @@ sections:
       </GridItem>
 
       </Grid>
-rating: Condi Meta
+rating: Meta
 role: Condi Damage
 author: PineappleMan.1430
 profession: Revenant
@@ -514,14 +504,14 @@ compositions:
   - name: _CRGB
 conditions:
   - Vulnerability
-code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
+code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
 character: []
 date: 2021-09-24T23:10:55.878Z
 hasCMGuide: false
 benchmark:
   huge:
     dps: 38011
-    by: "Le Mós "
+    by: 'Le Mós '
     youtube: fBYzCIj7RAU
 ---
 

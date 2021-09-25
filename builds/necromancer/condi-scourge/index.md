@@ -34,8 +34,7 @@ sections:
     title: Equipment
     content: >-
       <CharacterWithAr> 
-
-      <Character title="162 AR" 
+      <Character title="162 Agony Resistance" 
                  gear={{ "profession": "Necromancer",
                   "weight":"Light", "gear":[
                   "Viper",
@@ -51,7 +50,7 @@ sections:
                   "Viper",
                   "Viper",
                   "Viper",
-          "Viper"
+                  "Viper"
               ], "attributes":{
                   "Health": 19212,
                   "Armor": 2210,
@@ -134,19 +133,13 @@ sections:
                 } 
               }}
       > 
+      Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value.
+      Situational Runes:  
 
-      Note that the build does not rely on precision as much as Power builds and you can build your AR around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value.
+      - <Item id="83502" /> works best for using and utilizing <Skill name="Epidemic" />, as its damage will be maximized with this rune. Note that you will have a loss of condition duration with this rune choice.  
 
-
-      Situational Runes:
-
-      - <Item id="83502" /> works best for using and utilizing <Skill name="Epidemic" />
-        , as its damage will be maximized with this rune. Note that you will have a loss
-        of condition duration with this rune choice.
-      - <Item id="44956" /> provides a large boost to personal survivability on top of
-        your barrier generation at the cost of a minor DPS loss.
+      - <Item id="44956" /> provides a large boost to personal survivability on top of your barrier generation at the cost of a minor DPS loss.  
       </Character> 
-
       </CharacterWithAr>
   - type: mdx
     title: Build
@@ -218,7 +211,7 @@ sections:
   - type: mdx
     title: Further Information
     content: >-
-      
+
 
       <Grid>
 
@@ -273,7 +266,7 @@ sections:
       </Grid>
 rating: Good
 role: Condi Damage
-author: "Discord: Amerikajinn#9784"
+author: 'Discord: Amerikajinn#9784'
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -292,7 +285,7 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 2

@@ -17,11 +17,11 @@ sections:
       <Boon name="Aegis"/> and heals is invaluable.
 
 
-      The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option if playing outside of fractals or with low AR. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/).
+      The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option if playing outside of fractals or with low Agony Resistance. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/).
   - type: null
     title: Equipment
     content: >-
-      <CharacterWithAr> <Character title="Celestial 162 AR" 
+      <CharacterWithAr> <Character title="Celestial 162 Agony Resistance" 
                  gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
                   "Celestial",
@@ -119,9 +119,9 @@ sections:
               }}
       > 
 
-      **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower AR (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>). If you have higer AR but dont want to play Seraph you can swap to <Item id="24765"/> and replace your <Item id="24624"/> with <Item id="24560"/> for some more damage (this will start to overcap on <Condition name="Burning"/> duration, so you will also need some Seraph pieces).**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!  
+      **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower Agony Resistance (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>). If you have higer Agony Resistance but dont want to play Seraph you can swap to <Item id="24765"/> and replace your <Item id="24624"/> with <Item id="24560"/> for some more damage (this will start to overcap on <Condition name="Burning"/> duration, so you will also need some Seraph pieces).**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!  
       </Character> 
-      <Character title="Seraph 203 AR"
+      <Character title="Seraph 203 Agony Resistance"
                   gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
                   "Seraph",
@@ -217,9 +217,9 @@ sections:
                   "elite": "Feel my Wrath"
                 } 
               }}> 
-              **This is the standard build variant for high AR. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
+              **This is the standard build variant for high Agony Resistance. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
               </Character> 
-              <Character title="Celestial Heal 162AR"
+              <Character title="Celestial Heal 162 Agony Resistance"
                   gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
                   "Celestial",

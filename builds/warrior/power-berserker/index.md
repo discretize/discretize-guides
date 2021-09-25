@@ -18,7 +18,7 @@ sections:
   - title: Equipment
     content: >-
       <CharacterWithAr>
-      <Character title="162 AR + Scholar Rune" gear={{
+      <Character title="162 Agony Resistance + Scholar Rune" gear={{
         "profession": "warrior",
         "gear": [
           "Berserker",
@@ -127,7 +127,7 @@ sections:
       not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait
       name="Spotter"/> assumed.
       </Character>
-      <Character title="162 AR + Eagle Rune" gear={{
+      <Character title="162 Agony Resistance + Eagle Rune" gear={{
         "profession": "warrior",
         "gear": [
           "Berserker",

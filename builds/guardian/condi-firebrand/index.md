@@ -37,7 +37,7 @@ sections:
     content: >-
       <CharacterWithAr> 
 
-      <Character title="162 AR" 
+      <Character title="162 Agony Resistance" 
                  gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
                   "Viper",
@@ -120,7 +120,7 @@ sections:
                   "weapon1OffType": "Torch",
                   "weapon1OffSigil": "Bursting",
                   "weapon2MainType": "Scepter",
-                  "weapon2MainSigil1": "Geomancy",
+                  "weapon2MainSigil1": "Geomancy"
               }, "consumables":{
                   "foodId": "91878",
                   "utility": "toxic-focusing-crystal",
@@ -336,7 +336,7 @@ sections:
         - Skill 4 grants <Boon name="Resistance"/> and breaks stun
 
         - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
-rating: Condi Meta
+rating: Meta
 role: Condi Damage
 profession: Guardian
 specialization: Firebrand
@@ -356,7 +356,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 5
   - 4

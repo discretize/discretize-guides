@@ -31,7 +31,6 @@ sections:
     title: Equipment
     content: >-
       <CharacterWithAr> 
-
       <Character title="Krait Runes" 
                  gear={{ "profession": "Ranger",
                   "weight":"Light", "gear":[
@@ -128,9 +127,9 @@ sections:
                   "elite": "One Wolf Pack"
                 } 
               }}
-      > 
-       
-      </Character> <Character title="Afflicted Runes" 
+      >
+      </Character> 
+      <Character title="Afflicted Runes" 
                  gear={{ "profession": "Ranger",
                   "weight":"Light", "gear":[
                   "Viper",
@@ -228,11 +227,8 @@ sections:
                 } 
               }}
       > 
-
       This builds damage depends on the amount of <Specialization name="Soulbeast" text="condi Soulbeasts"/> in the party. The build deals similar DPS with 2 <Specialization name="Soulbeast" text="condi Soulbeasts"/>, and outperforms the Krait build if you have 3 <Specialization name="Soulbeast" text="condi Soulbeasts"/> in the party. If you are going to be on your own run the Krait rune setup! 
-
       </Character>
-
       </CharacterWithAr>
   - type: mdx
     title: Build
@@ -354,7 +350,7 @@ sections:
       </GridItem>
 
       </Grid>
-rating: Condi Meta
+rating: Meta
 role: Condi Damage
 profession: Ranger
 skills:
@@ -377,7 +373,7 @@ conditions:
   - Bleeding
   - Poisoned
   - Burning
-code: "[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 character: []
 date: 2021-09-24T22:48:57.228Z
