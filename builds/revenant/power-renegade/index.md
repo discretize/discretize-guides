@@ -18,8 +18,414 @@ sections:
 
 
       Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-  - type: equipment
+  - type: null
     title: Equipment
+    content: >-
+      <CharacterWithAr> 
+
+      <Character title="80% Boon Duration 162AR" 
+                 gear={{ "profession": "Revenant",
+                  "weight":"Heavy", "gear":[
+                  "Diviner",
+                  "Berserker",
+                  "Diviner",
+                  "Berserker",
+                  "Diviner",
+                  "Berserker",
+                  "Diviner",
+                  "Diviner",
+                  "Diviner",
+                  "Berserker",
+                  "Diviner",
+                  "Diviner",
+                  "Diviner",
+                  "Diviner"
+              ], "attributes":{
+                  "Health": 15922,
+                  "Armor": 2514,
+                  "Power": 3327,
+                  "Precision": 2037,
+                  "Toughness": 1243,
+                  "Vitality": 1000,
+                  "Ferocity": 1139,
+                  "Condition Damage": 750,
+                  "Expertise": 0,
+                  "Concentration": 1204,
+                  "Healing Power": 0,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 0,
+                  "Boon Duration": 80.26666666666667,
+                  "Critical Chance": 107.38095238095238,
+                  "Critical Damage": 225.93333333333334,
+                  "Effective Power": 25745.248386407973,
+                  "Power DPS": 36610.39749364831,
+                  "Burning Damage": 438.86875,
+                  "Burning Stacks": 1.7,
+                  "Burning DPS": 746.076875,
+                  "Bleeding Damage": 118.925,
+                  "Bleeding Stacks": 0,
+                  "Bleeding DPS": 0,
+                  "Poison Damage": 139.3375,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 176.2575,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 118.925,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 37356.474368648305,
+                  "Effective Health": 55038373.5,
+                  "Survivability": 27980.87112353838,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType": "Sword",
+                  "weapon1MainSigil1": "force",
+                  "weapon1OffType": "Sword",
+                  "weapon1OffSigil": "impact",
+                  "weapon2MainType": "Staff",
+                  "weapon2MainSigil1": "force",
+                  "weapon2MainSigil2": "severance"
+              }, "consumables":{
+                  "foodId": "91805",
+                  "utility": "superior-sharpening-stone",
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                 "legends": {
+                  "legend1": "legendaryassassinstance",
+                  "legend2": "legendaryrenegadestance"
+                } 
+              }}
+      > 
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+
+      Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
+
+      </Character> <Character title="50% Boon Duration 162AR" 
+                 gear={{ "profession": "Revenant",
+                  "weight":"Heavy", "gear":[
+                  "Diviner",
+                  "Berserker",
+                  "Diviner",
+                  "Berserker",
+                  "Diviner",
+                  "Diviner",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Diviner",
+                  "Diviner"
+              ], "attributes":{
+                  "Health": 15922,
+                  "Armor": 2514,
+                  "Power": 3413,
+                  "Precision": 2158,
+                  "Toughness": 1243,
+                  "Vitality": 1000,
+                  "Ferocity": 1260,
+                  "Condition Damage": 750,
+                  "Expertise": 0,
+                  "Concentration": 755,
+                  "Healing Power": 0,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 0,
+                  "Boon Duration": 50.333333333333336,
+                  "Critical Chance": 113.14285714285714,
+                  "Critical Damage": 234,
+                  "Effective Power": 27353.702627550432,
+                  "Power DPS": 38897.660301711105,
+                  "Burning Damage": 438.86875,
+                  "Burning Stacks": 1.7,
+                  "Burning DPS": 746.076875,
+                  "Bleeding Damage": 118.925,
+                  "Bleeding Stacks": 0,
+                  "Bleeding DPS": 0,
+                  "Poison Damage": 139.3375,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 176.2575,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 118.925,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 39643.7371767111,
+                  "Effective Health": 55038373.5,
+                  "Survivability": 27980.87112353838,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType": "Sword",
+                  "weapon1MainSigil1": "force",
+                  "weapon1OffType": "Sword",
+                  "weapon1OffSigil": "impact",
+                  "weapon2MainType": "Staff",
+                  "weapon2MainSigil1": "force",
+                  "weapon2MainSigil2": "severance"
+              }, "consumables":{
+                  "foodId": "91805",
+                  "utility": "superior-sharpening-stone",
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                 "legends": {
+                  "legend1": "legendaryassassinstance",
+                  "legend2": "legendaryrenegadestance"
+                } 
+              }}
+      > 
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+
+      Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
+
+      </Character> <Character title="80% Boon Duration 222AR" 
+                 gear={{ "profession": "Revenant",
+                  "weight":"Heavy", "gear":[
+                  "Diviner",
+                  "Berserker",
+                  "Diviner",
+                  "Berserker",
+                  "Diviner",
+                  "Berserker",
+                  "Diviner",
+                  "Diviner",
+                  "Diviner",
+                  "Berserker",
+                  "Berserker",
+                  "Diviner",
+                  "Diviner",
+                  "Diviner"
+              ], "attributes":{
+                  "Health": 15922,
+                  "Armor": 2604,
+                  "Power": 3345,
+                  "Precision": 2152,
+                  "Toughness": 1333,
+                  "Vitality": 1000,
+                  "Ferocity": 1164,
+                  "Condition Damage": 750,
+                  "Expertise": 0,
+                  "Concentration": 1202,
+                  "Healing Power": 0,
+                  "Agony Resistance": 222,
+                  "Condition Duration": 0,
+                  "Boon Duration": 80.13333333333334,
+                  "Critical Chance": 112.85714285714286,
+                  "Critical Damage": 227.6,
+                  "Effective Power": 26075.48262151496,
+                  "Power DPS": 37079.9989685232,
+                  "Burning Damage": 438.86875,
+                  "Burning Stacks": 1.7,
+                  "Burning DPS": 746.076875,
+                  "Bleeding Damage": 118.925,
+                  "Bleeding Stacks": 0,
+                  "Bleeding DPS": 0,
+                  "Poison Damage": 139.3375,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 176.2575,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 118.925,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 37826.0758435232,
+                  "Effective Health": 57008721,
+                  "Survivability": 28982.572953736653,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType": "Sword",
+                  "weapon1MainSigil1": "force",
+                  "weapon1OffType": "Sword",
+                  "weapon1OffSigil": "impact",
+                  "weapon2MainType": "Staff",
+                  "weapon2MainSigil1": "force",
+                  "weapon2MainSigil2": "severance"
+              }, "consumables":{
+                  "foodId": "91805",
+                  "utility": "superior-sharpening-stone",
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                 "legends": {
+                  "legend1": "legendaryassassinstance",
+                  "legend2": "legendaryrenegadestance"
+                } 
+              }}
+      > 
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+
+      Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
+
+      </Character> <Character title="50% Boon Duration 222AR" 
+                 gear={{ "profession": "Revenant",
+                  "weight":"Heavy", "gear":[
+                  "Berserker",
+                  "Berserker",
+                  "Diviner",
+                  "Berserker",
+                  "Diviner",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Diviner",
+                  "Diviner"
+              ], "attributes":{
+                  "Health": 15922,
+                  "Armor": 2604,
+                  "Power": 3429,
+                  "Precision": 2275,
+                  "Toughness": 1333,
+                  "Vitality": 1000,
+                  "Ferocity": 1287,
+                  "Condition Damage": 750,
+                  "Expertise": 0,
+                  "Concentration": 751,
+                  "Healing Power": 0,
+                  "Agony Resistance": 222,
+                  "Condition Duration": 0,
+                  "Boon Duration": 50.06666666666667,
+                  "Critical Chance": 118.71428571428572,
+                  "Critical Damage": 235.8,
+                  "Effective Power": 27693.335136228063,
+                  "Power DPS": 39380.62636045061,
+                  "Burning Damage": 438.86875,
+                  "Burning Stacks": 1.7,
+                  "Burning DPS": 746.076875,
+                  "Bleeding Damage": 118.925,
+                  "Bleeding Stacks": 0,
+                  "Bleeding DPS": 0,
+                  "Poison Damage": 139.3375,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 176.2575,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 118.925,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 40126.70323545061,
+                  "Effective Health": 57008721,
+                  "Survivability": 28982.572953736653,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType": "Sword",
+                  "weapon1MainSigil1": "force",
+                  "weapon1OffType": "Sword",
+                  "weapon1OffSigil": "impact",
+                  "weapon2MainType": "Staff",
+                  "weapon2MainSigil1": "force",
+                  "weapon2MainSigil2": "severance"
+              }, "consumables":{
+                  "foodId": "91805",
+                  "utility": "superior-sharpening-stone",
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                 "legends": {
+                  "legend1": "legendaryassassinstance",
+                  "legend2": "legendaryrenegadestance"
+                } 
+              }}
+      > 
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+
+      Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
+
+      </Character>
+
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -377,7 +783,9 @@ traits:
 conditions:
   - Vulnerability
 boons:
-  - { name: Alacrity, uptime: '100%', variant: 'party' }
+  - name: Alacrity
+    uptime: 100%
+    variant: party
 classification:
   - 5
   - 2
@@ -388,441 +796,9 @@ compositions:
   - name: _Rainbow
   - name: _Rainbearbow
   - name: _RGB
-code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
-character:
-  - title: 80% Boon Duration 162AR
-    gear: |-
-      {
-        "gear": [
-          "Diviner",
-          "Berserker",
-          "Diviner",
-          "Berserker",
-          "Diviner",
-          "Berserker",
-          "Diviner",
-          "Diviner",
-          "Diviner",
-          "Berserker",
-          "Diviner",
-          "Diviner",
-          "Diviner",
-          "Diviner"
-        ],
-        "attributes": {
-          "Health": 15922,
-          "Armor": 2514,
-          "Power": 3327,
-          "Precision": 2037,
-          "Toughness": 1243,
-          "Vitality": 1000,
-          "Ferocity": 1139,
-          "Condition Damage": 750,
-          "Expertise": 0,
-          "Concentration": 1204,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 0,
-          "Boon Duration": 80.26666666666667,
-          "Critical Chance": 107.38095238095238,
-          "Critical Damage": 225.93333333333334,
-          "Effective Power": 25745.248386407973,
-          "Power DPS": 36610.39749364831,
-          "Burning Damage": 438.86875,
-          "Burning Stacks": 1.7,
-          "Burning DPS": 746.076875,
-          "Bleeding Damage": 118.925,
-          "Bleeding Stacks": 0,
-          "Bleeding DPS": 0,
-          "Poison Damage": 139.3375,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 176.2575,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 118.925,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 37356.474368648305,
-          "Effective Health": 55038373.5,
-          "Survivability": 27980.87112353838,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Heavy",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Sword",
-          "weapon1MainSigil1": "force",
-          "weapon1OffType": "Sword",
-          "weapon1OffSigil": "impact",
-          "weapon2MainType": "Staff",
-          "weapon2MainSigil1": "force",
-          "weapon2MainSigil2": "severance"
-        },
-        "consumables": {
-          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
-          "utility": "superior-sharpening-stone",
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "legends": {
-          "legend1": "legendaryassassinstance",
-          "legend2": "legendaryrenegadestance"
-        }
-      }
-    note: >-
-      - Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-
-
-      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
-  - title: 50% Boon Duration 162AR
-    note: >-
-      - Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-
-
-      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
-    gear: |-
-      {
-        "gear": [
-          "Diviner",
-          "Berserker",
-          "Diviner",
-          "Berserker",
-          "Diviner",
-          "Diviner",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Diviner",
-          "Diviner"
-        ],
-        "attributes": {
-          "Health": 15922,
-          "Armor": 2514,
-          "Power": 3413,
-          "Precision": 2158,
-          "Toughness": 1243,
-          "Vitality": 1000,
-          "Ferocity": 1260,
-          "Condition Damage": 750,
-          "Expertise": 0,
-          "Concentration": 755,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 0,
-          "Boon Duration": 50.333333333333336,
-          "Critical Chance": 113.14285714285714,
-          "Critical Damage": 234,
-          "Effective Power": 27353.702627550432,
-          "Power DPS": 38897.660301711105,
-          "Burning Damage": 438.86875,
-          "Burning Stacks": 1.7,
-          "Burning DPS": 746.076875,
-          "Bleeding Damage": 118.925,
-          "Bleeding Stacks": 0,
-          "Bleeding DPS": 0,
-          "Poison Damage": 139.3375,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 176.2575,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 118.925,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 39643.7371767111,
-          "Effective Health": 55038373.5,
-          "Survivability": 27980.87112353838,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Heavy",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Sword",
-          "weapon1MainSigil1": "force",
-          "weapon1OffType": "Sword",
-          "weapon1OffSigil": "impact",
-          "weapon2MainType": "Staff",
-          "weapon2MainSigil1": "force",
-          "weapon2MainSigil2": "severance"
-        },
-        "consumables": {
-          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
-          "utility": "superior-sharpening-stone",
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-      "legends": {
-                "legend1": "legendaryassassinstance",
-                "legend2": "legendaryrenegadestance"
-      }
-      }
-  - title: 80% Boon Duration 222AR
-    note: >-
-      - Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-
-
-      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
-    gear: |-
-      {
-        "gear": [
-          "Diviner",
-          "Berserker",
-          "Diviner",
-          "Berserker",
-          "Diviner",
-          "Berserker",
-          "Diviner",
-          "Diviner",
-          "Diviner",
-          "Berserker",
-          "Berserker",
-          "Diviner",
-          "Diviner",
-          "Diviner"
-        ],
-        "attributes": {
-          "Health": 15922,
-          "Armor": 2604,
-          "Power": 3345,
-          "Precision": 2152,
-          "Toughness": 1333,
-          "Vitality": 1000,
-          "Ferocity": 1164,
-          "Condition Damage": 750,
-          "Expertise": 0,
-          "Concentration": 1202,
-          "Healing Power": 0,
-          "Agony Resistance": 222,
-          "Condition Duration": 0,
-          "Boon Duration": 80.13333333333334,
-          "Critical Chance": 112.85714285714286,
-          "Critical Damage": 227.6,
-          "Effective Power": 26075.48262151496,
-          "Power DPS": 37079.9989685232,
-          "Burning Damage": 438.86875,
-          "Burning Stacks": 1.7,
-          "Burning DPS": 746.076875,
-          "Bleeding Damage": 118.925,
-          "Bleeding Stacks": 0,
-          "Bleeding DPS": 0,
-          "Poison Damage": 139.3375,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 176.2575,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 118.925,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 37826.0758435232,
-          "Effective Health": 57008721,
-          "Survivability": 28982.572953736653,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Heavy",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Sword",
-          "weapon1MainSigil1": "force",
-          "weapon1OffType": "Sword",
-          "weapon1OffSigil": "impact",
-          "weapon2MainType": "Staff",
-          "weapon2MainSigil1": "force",
-          "weapon2MainSigil2": "severance"
-        },
-        "consumables": {
-          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
-          "utility": "superior-sharpening-stone",
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-      "legends": {
-                "legend1": "legendaryassassinstance",
-                "legend2": "legendaryrenegadestance"
-      }
-      }
-  - title: 50% Boon Duration 222AR
-    gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Berserker",
-          "Diviner",
-          "Berserker",
-          "Diviner",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Diviner",
-          "Diviner"
-        ],
-        "attributes": {
-          "Health": 15922,
-          "Armor": 2604,
-          "Power": 3429,
-          "Precision": 2275,
-          "Toughness": 1333,
-          "Vitality": 1000,
-          "Ferocity": 1287,
-          "Condition Damage": 750,
-          "Expertise": 0,
-          "Concentration": 751,
-          "Healing Power": 0,
-          "Agony Resistance": 222,
-          "Condition Duration": 0,
-          "Boon Duration": 50.06666666666667,
-          "Critical Chance": 118.71428571428572,
-          "Critical Damage": 235.8,
-          "Effective Power": 27693.335136228063,
-          "Power DPS": 39380.62636045061,
-          "Burning Damage": 438.86875,
-          "Burning Stacks": 1.7,
-          "Burning DPS": 746.076875,
-          "Bleeding Damage": 118.925,
-          "Bleeding Stacks": 0,
-          "Bleeding DPS": 0,
-          "Poison Damage": 139.3375,
-          "Poison Stacks": 0,
-          "Poison DPS": 0,
-          "Torment Damage": 176.2575,
-          "Torment Stacks": 0,
-          "Torment DPS": 0,
-          "Confusion Damage": 118.925,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 40126.70323545061,
-          "Effective Health": 57008721,
-          "Survivability": 28982.572953736653,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Heavy",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Sword",
-          "weapon1MainSigil1": "force",
-          "weapon1OffType": "Sword",
-          "weapon1OffSigil": "impact",
-          "weapon2MainType": "Staff",
-          "weapon2MainSigil1": "force",
-          "weapon2MainSigil2": "severance"
-        },
-        "consumables": {
-          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
-          "utility": "superior-sharpening-stone",
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-      "legends": {
-                "legend1": "legendaryassassinstance",
-                "legend2": "legendaryrenegadestance"
-      }
-      }
-    note: >-
-      - Check the [gear
-      optimizer](https://discretize.github.io/discretize-gear-optimizer/) for
-      more gear variants!
-
-
-      - Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
-date: 2021-09-19T16:53:42.435Z
+code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
+character: []
+date: 2021-09-24T23:31:52.273Z
 hasCMGuide: true
 benchmark:
   large:
