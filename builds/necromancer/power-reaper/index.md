@@ -22,9 +22,109 @@ sections:
 
 
       It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-  - type: equipment
+  - type: null
     title: Equipment
-    content: ''
+    content: |-
+      <CharacterWithAr> 
+      <Character title="162 AR" 
+                 gear={{ "profession": "Necromancer",
+                  "weight":"Light", "gear":[
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker",
+                  "Berserker"
+              ], "attributes":{
+                  "Health": 19212,
+                  "Armor": 2210,
+                  "Power": 4060,
+                  "Precision": 2304,
+                  "Toughness": 1243,
+                  "Vitality": 1000,
+                  "Ferocity": 1406,
+                  "Condition Damage": 500,
+                  "Expertise": 0,
+                  "Concentration": 243,
+                  "Healing Power": 0,
+                  "Agony Resistance": 162,
+                  "Condition Duration": 0,
+                  "Boon Duration": 16.2,
+                  "Critical Chance": 87.0952380952381,
+                  "Critical Damage": 243.73333333333335,
+                  "Effective Power": 25980.256646773483,
+                  "Power DPS": 23709.360128168333,
+                  "Burning Damage": 325.78125,
+                  "Burning Stacks": 1.9,
+                  "Burning DPS": 618.984375,
+                  "Bleeding Damage": 81.25,
+                  "Bleeding Stacks": 39.9,
+                  "Bleeding DPS": 3241.875,
+                  "Poison Damage": 99.21875,
+                  "Poison Stacks": 2.7,
+                  "Poison DPS": 267.890625,
+                  "Torment Damage": 120,
+                  "Torment Stacks": 3.9,
+                  "Torment DPS": 468,
+                  "Confusion Damage": 81.25,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 28306.110128168333,
+                  "Effective Health": 53073150,
+                  "Survivability": 26981.77427554652,
+                  "Effective Healing": 390,
+                  "Healing": 390
+              }, "runeId":24836, "runeName":"Scholar", "infusions":[
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131,
+                  37131
+              ], "weapons":{
+                  "weapon1MainType": "Greatsword",
+                  "weapon1MainSigil1": "force",
+                  "weapon1MainSigil2": "impact",
+                  "weapon2MainType": "Axe",
+                  "weapon2MainSigil1": "force",
+                  "weapon2OffType": "Warhorn",
+                  "weapon2OffSigil": "impact"
+              }, "consumables":{
+                  "foodId": "91805",
+                  "utility": "superior-sharpening-stone",
+                  "infusion": "Mighty +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Signet of Vampirism",
+                  "utility2": "Well of Suffering",
+                  "utility3": "Signet of Spite",
+                  "elite": "Lich Form"
+                } 
+              }}
+      > 
+      You will be crit-capped in <Skill name="Reapers Shroud"/>. 
+      </Character> 
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -112,7 +212,7 @@ sections:
       </Grid>
 rating: Good
 role: Power Damage
-author: 'Discord: Jes#6596'
+author: "Discord: Jes#6596"
 profession: Necromancer
 specialization: Reaper
 skills:
@@ -128,7 +228,7 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 classification:
   - 1
@@ -136,111 +236,8 @@ classification:
   - 4
   - 2
   - 3
-character:
-  - gear: |-
-      {
-        "gear": [
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker",
-          "Berserker"
-        ],
-        "attributes": {
-          "Health": 19212,
-          "Armor": 2210,
-          "Power": 4060,
-          "Precision": 2304,
-          "Toughness": 1243,
-          "Vitality": 1000,
-          "Ferocity": 1406,
-          "Condition Damage": 500,
-          "Expertise": 0,
-          "Concentration": 243,
-          "Healing Power": 0,
-          "Agony Resistance": 162,
-          "Condition Duration": 0,
-          "Boon Duration": 16.2,
-          "Critical Chance": 87.0952380952381,
-          "Critical Damage": 243.73333333333335,
-          "Effective Power": 25980.256646773483,
-          "Power DPS": 23709.360128168333,
-          "Burning Damage": 325.78125,
-          "Burning Stacks": 1.9,
-          "Burning DPS": 618.984375,
-          "Bleeding Damage": 81.25,
-          "Bleeding Stacks": 39.9,
-          "Bleeding DPS": 3241.875,
-          "Poison Damage": 99.21875,
-          "Poison Stacks": 2.7,
-          "Poison DPS": 267.890625,
-          "Torment Damage": 120,
-          "Torment Stacks": 3.9,
-          "Torment DPS": 468,
-          "Confusion Damage": 81.25,
-          "Confusion Stacks": 0,
-          "Confusion DPS": 0,
-          "Damage": 28306.110128168333,
-          "Effective Health": 53073150,
-          "Survivability": 26981.77427554652,
-          "Effective Healing": 390,
-          "Healing": 390
-        },
-        "infusions": [
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131,
-          37131
-        ],
-        "weight": "Light",
-        "runeId": 24836,
-        "runeName": "Scholar",
-        "weapons": {
-          "weapon1MainType": "Greatsword",
-          "weapon1MainSigil1": "force",
-          "weapon1MainSigil2": "impact",
-          "weapon2MainType": "Axe",
-          "weapon2MainSigil1": "force",
-          "weapon2OffType": "Warhorn",
-          "weapon2OffSigil": "impact"
-        },
-        "consumables": {
-          "food": "bowl-of-sweet-and-spicy-butternut-squash-soup",
-          "utility": "superior-sharpening-stone",
-          "infusion": "Mighty +9 Agony Infusion"
-        },
-        "skills": {
-          "heal": "Signet of Vampirism",
-          "utility2": "Well of Suffering",
-          "utility3": "Signet of Spite",
-          "elite": "Lich Form"
-        }
-      }
-    note: You will be crit-capped in <Skill name="Reapers Shroud"/>.
-date: 2021-09-18T22:42:53.455Z
+character: []
+date: 2021-09-24T22:37:41.704Z
 benchmark:
   small:
     dps: 34302
