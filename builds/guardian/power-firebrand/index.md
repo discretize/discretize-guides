@@ -24,8 +24,7 @@ sections:
   - type: null
     title: Equipment
     content: >-
-      <CharacterWithAr> 
-      <Character title="162 Agony Resistance (24.6% BD)" 
+      <CharacterWithAr>  <Character title="162 Agony Resistance (24.6% BD)" 
                  gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
                   "Assassin",
@@ -121,7 +120,8 @@ sections:
                   "elite": "Feel my Wrath"
                 } 
               }}
-      > 
+      >  
+
       Note that this build variant only gains boon duration from the <Item id="79722"/>.
 
       If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
@@ -130,7 +130,8 @@ sections:
 
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants! 
 
-      </Character> 
+      </Character>  
+
       <Character title="222 Agony Resistance (24.6% BD)" 
                  gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
@@ -227,7 +228,8 @@ sections:
                   "elite": "Feel my Wrath"
                 } 
               }}
-      > 
+      >  
+
       Note that this build variant only gains boon duration from the <Item id="79722"/>.
 
       If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
@@ -236,7 +238,8 @@ sections:
 
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants! 
 
-      </Character>
+      </Character> 
+
       </CharacterWithAr>
   - type: mdx
     title: Build
@@ -432,7 +435,7 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 classification:
   - 5
@@ -668,7 +671,7 @@ character:
           "elite": "Feel my Wrath"
         }
       }
-date: 2021-09-24T19:48:52.034Z
+date: 2021-10-02T11:20:37.328Z
 ---
 
 <Divider text="Rotation / Skill Usage"/>
