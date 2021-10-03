@@ -5,7 +5,7 @@ sections:
     title: Overview
     content: >-
       The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build
-      to learn and provides access to good off-support tools and can be
+      to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be
       augmented to provide the means of a safety net at an acceptable amount of
       DPS loss with the Blood Magic traitline (without any stat changes). The
       build can place lots of conditions and crowd control on multiple targets
@@ -216,7 +216,7 @@ sections:
   - type: mdx
     title: Further Information
     content: >-
-      
+
 
       <Grid>
 
@@ -271,7 +271,7 @@ sections:
       </Grid>
 rating: Good
 role: Condi Damage
-author: "Discord: Amerikajinn#9784"
+author: 'Discord: Amerikajinn#9784'
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -290,7 +290,7 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 2
@@ -314,7 +314,7 @@ benchmark:
 
 **Precasting:**
 
-You can pre-emptively cast some shades before a fight starts to begin ramping up the benefits from <Trait name="Sand Sage"/>.
+You can pre-emptively cast some shades before a fight starts to begin ramping up the benefits from <Trait name="Sand Sage"/>. <Skill name="Desert Shroud"/> can be precasted for the increase damage modifier and to transfer the conditions from <Skill name="Blood is Power"/> as the first cast of fight.
 
 **Prioritization: [Weapon/Utility Skills]**
 
@@ -342,7 +342,7 @@ While you perform the above prioritization, you'll be using your shade skills to
 - If you're using <Skill name="Summon Shadow Fiend"/>, you should use <Skill name="Haunt"/> off cooldown as it has no cast time.
 - You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically).
 - While you want to maintain 3 shades up, you still want to focus on the rest of the skill prioritization as the wasted cooldown time outweighs the minor loss of Expertise.
-- Be sure to place shades on significant targets: A <Specialization name="Scourge"/> itself counts as a shade activator, and will already hit your primary target with shade abilities from your character. (For example, place them on Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal)
+- Casting your <Skill name="Manifest Sand Shade"/> on the group will provide large amounts of barrier passively through your rotation. They can also be used on other significant targets such as the Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal. A <Sepcialization name="Scourge"/> counts as a shade activator itself and will also hit any targets within range from your shade abilites.
 - If your group has three (or more) Scourges, you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown).
 - Your <Trait name="Dhuumfire"/> trait has an internal cooldown of one second. Be sure to space out your shade skills (including <Skill name="Manifest Sand Shade"/> and <Skill name="Desert Shroud"/>) instead of blindly spamming them off cooldown.
 
