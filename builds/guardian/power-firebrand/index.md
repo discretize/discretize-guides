@@ -111,7 +111,7 @@ sections:
                   "weapon2MainSigil2Id": 24868
               }, "consumables":{
                   "foodId": 91805,
-                  "utilityId": 50082,
+                  "utilityId": 9443,
                   "infusion": "Mighty +9 Agony Infusion"
               },
                 "skills": {
@@ -222,7 +222,7 @@ sections:
                   "weapon2MainSigil2Id": 24868
               }, "consumables":{
                   "foodId": 91805,
-                  "utilityId": 50082,
+                  "utilityId": 9443,
                   "infusion": "Mighty +9 Agony Infusion"
               },
                 "skills": {
