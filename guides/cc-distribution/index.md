@@ -1,6 +1,6 @@
 ---
 title: CC Distribution
-date: 2021-09-21T22:56:00.312Z
+date: 2021-10-03T16:06:47.703Z
 image: ./images/preview.jpg
 description: Learn how to contribute your share of CC to break all the bars.
 ---
@@ -18,7 +18,7 @@ Once you break an enemy's defiance bar they will gain an effect named <Effect na
 
 This guide's aim is to help you understand how your team should cooperate to break all the CC bars.The present <Specialization name="Firebrand"/> + <Specialization name="Renegade"/> meta demands CC contributions from every member of the party, **even the DPS players!** A list of CC skills along with their defiance bar damage can be found on each class respective [Build page](/builds).
 
-In Tier 4 fractals (T4) a breakbar usually does not exceed 600 units, nevertheless, it is everyone's responsibility to break bars as quickly as possible.In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for their lack of CC with additional CC skills.
+In Tier 4 fractals (T4) a breakbar usually does not exceed 600 units, nevertheless, it is everyone's responsibility to break bars as quickly as possible. In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for their lack of CC with additional CC skills.
 
 <Warning>
 **Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**
@@ -58,12 +58,14 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 <Divider text="Challenge Mode CC distributions"/>
 
 <Tabs>
-<Tab title="Daily Condi">
-<Tabs>
-<Tab title="Mama">
+<Tab title="Condi">
+
+### <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Deadeye" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/>
+
 <Divider text="MAMA"/>
 
 At 1800 MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800, each MAMA becomes the most CC heavy fractal boss in the game.
+
 
 | **Phase** | **CC Required** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Condi Deadeye" specialization="Deadeye"/> | **Total** |
 | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -74,10 +76,8 @@ At 1800 MAMA has a small defiance bar, but you need to break it three times duri
 | **Knight 3** | **800** | <Skill name="Temporal Rift"/> <br/> 150 damage | <Skill name="Blazing Edge"/> <br/> 150 damage | <Skill name="Blazing Edge"/> <br/> 150 damage <br/> <Skill name="Hammer of Wisdom"/> <br/> 200 damage | <Skill name="Concussion Shot"/> <br/> 200 damage | | **850** |
 | **Phase 4** | **1800** | <Skill name="Darkrazors Daring"/> (4 hits) <br/> 400 damage <br/> <Skill name="Scorchrazor"/> <br/> 200 damage | <Skill name="Tome of Justice"/> (Tome 1-3) <br/> 150 damage | <Skill name="Tome of Justice"/> (Tome 1-3) <br/> 150 damage <br/> <Skill name="Hammer of Wisdom"/> <br/> 200 damage |  | <Skill name="Basilisk Venom"/> (5 hits) <br/> 750 damage | **1850** |
 
-</Tab>
-
-<Tab title="Siax">
 <Divider text="Siax"/>
+
 At 2000 Siax has a medium-sized defiance bar that will need to be broken twice in the fight. Once in Phase 1 and again in Phase 3.
 
 | **Phase** | **CC Required** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Condi Deadeye" specialization="Deadeye"/> | **Total** |
@@ -85,10 +85,8 @@ At 2000 Siax has a medium-sized defiance bar that will need to be broken twice i
 | **Phase 1** | **2000** | <Skill name="Scorchrazor"/> <br/> 200 damage | <Skill name="Sanctuary"/> (2 hits) <br/> 300 damage <br/> <Skill name="Tome of Justice"/> (Tome 1-3) <br/> 150 damage | <Skill name="Sanctuary"/> (2 hits) <br/> 300 damage <br/> <Skill name="Tome of Justice"/> (Tome 1-3) <br/> 150 damage  | <Skill name="Concussion Shot"/> <br/> 200 damage | <Skill name="Basilisk Venom"/> (5 hits) <br/> 750 damage | **2050** |
 | **Phase 3** | **2000** | <Skill name="Scorchrazor"/> <br/> 200 damage | <Skill name="Sanctuary"/> (2 hits) <br/> 300 damage <br/> <Skill name="Tome of Justice"/> (Tome 1-3) <br/> 150 damage | <Skill name="Sanctuary"/> (2 hits) <br/> 300 damage <br/> <Skill name="Tome of Justice"/> (Tome 1-3) <br/> 150 damage  | <Skill name="Concussion Shot"/> <br/> 200 damage | <Skill name="Basilisk Venom"/> (5 hits) <br/> 750 damage | **2050** |
 
-</Tab>
-
-<Tab title="Ensolyss">
 <Divider text="Ensolyss"/>
+
 At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizeable defiance bars, but since condi is now played here you actually want to delay them to maximise the times your condis have to ramp up. In phase 1 ideally you will break just before Ensolyss does his slam attack. In phase 2+3 ideally you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Also if you want to go for faster times on thiss boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
 
 **Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your groups DPS changes the time you want to CC. There is no schedule below and instead the common skills you have availible, because it will vary between groups.** 
@@ -98,23 +96,22 @@ At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss ha
 | **Phase 1** | **2000** | <Skill name="Temporal Rift"/> <br/> 150 damage <br/> <Skill name="Darkrazors Daring"/> (max 6 hits) <br/> 100/s damage <br/> <Skill name="Scorchrazor"/> <br/> 200 damage | <Skill name="Blazing Edge"/> <br/> 150 damage <br/> <Skill name="Chains of Light"/> <br/> <Skill name="Sanctuary"/> (max 7 hits) <br/> 150/s damage | <Skill name="Blazing Edge"/> <br/> 150 damage <br/> <Skill name="Chains of Light"/> <br/> <Skill name="Sanctuary"/> (max 7 hits) <br/> 150/s damage | <Skill name="Concussion Shot"/> <br/> 200 damage | <Skill name="Basilisk Venom"/> (max 5 Hits) <br/> 150 damage per hit | <Condition name="Immobile"/> <br/> 50/s <br/> <Condition name="Slow"/> <br/> 50/s <br/> <Condition name="Chilled"/> <br/> 33/s <br/> <Condition name="Blinded"/> <br/> 20/s <br/> <Condition name="Weakness"/> <br/> 20/s <br/> <Condition name="Crippled"/> <br/> 15/s |
 | **Phase 2+3** | **2250** | <Skill name="Temporal Rift"/> <br/> 150 damage <br/> <Skill name="Darkrazors Daring"/> (max 6 hits) <br/> 100/s damage <br/> <Skill name="Scorchrazor"/> <br/> 200 damage | <Skill name="Blazing Edge"/> <br/> 150 damage <br/> <Skill name="Chains of Light"/> <br/> <Skill name="Sanctuary"/> (max 7 hits) <br/> 150/s damage | <Skill name="Blazing Edge"/> <br/> 150 damage <br/> <Skill name="Chains of Light"/> <br/> <Skill name="Sanctuary"/> (max 7 hits) <br/> 150/s damage | <Skill name="Concussion Shot"/> <br/> 200 damage | <Skill name="Basilisk Venom"/> (max 5 hits) <br/> 150 damage per hit | <Condition name="Immobile"/> <br/> 50/s <br/> <Condition name="Slow"/> <br/> 50/s <br/> <Condition name="Chilled"/> <br/> 33/s <br/> <Condition name="Blinded"/> <br/> 20/s <br/> <Condition name="Weakness"/> <br/> 20/s <br/> <Condition name="Crippled"/> <br/> 15/s |
 
-</Tab>
-
-<Tab title="Skorvald">
 <Divider text="Skorvald"/>
+
 At 2200 Skorvald the Shattered has one of the largest defiance bars out of all the Challenge Mode fractal bosses, meaning that the whole group needs to contribute to break it quickly. 
 
 | **Phase** | **CC Required** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Condi Deadeye" specialization="Deadeye"/> | **Total** |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | **Phase 1** | **2200** | <Skill name="Darkrazors Daring"/> (2 hits) <br/> 200 damage <br/> <Skill name="Temporal Rift"/> <br/> 150 damage <br/> <Skill name="Scorchrazor"/> <br/> 200 damage | <Skill name="Tome of Justice"/> (Tome 1-3) <br/> 150 damage | <Skill name="Tome of Justice"/> (Tome 1-3) <br/> 150 damage | <Skill name="Concussion Shot"/> <br/> 200 damage | <Skill name="Basilisk Venom"/> (5 hits) <br/> 750 damage <br/> <Skill name="Headshot"/> (Para Sigil) <br/> 260 damage | **2160** |
 
-</Tab>
-
-<Tab title="Artsariiv">
 <Divider text="Artsariiv"/>
+
 At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if you want to skip the anomaly. The good news is if you do mid strat (which you should d0 if you are an organised group) you get to completely ignore it, this means you can focus your CC on the split phases. On the first split each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
+
 <Tabs>
+
 <Tab title="1st Split">
+
 | **Phase** | **CC Required** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Condi Deadeye" specialization="Deadeye"/> | **Total** |
 | -- | -- | -- | -- | -- | -- | -- | -- | 
 | **North West** | **600e** | <Skill name="Darkrazors Daring"/> (6 hits) <br/> 600 damage <br/> <Skill name="Spiritcrush"/> <br/> 50/s damage | | | | | **600** |
@@ -126,6 +123,7 @@ At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if yo
 </Tab>
 
 <Tab title="2nd Split">
+
 | **Phase** | **CC Required** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Condi Deadeye" specialization="Deadeye"/> | **Total** |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | **North West** | **350** | | | | <Skill name="Concussion Shot"/> <br/> 200 damage | <Skill name="Basilisk Venom"/> (1 hit) <br/> 150 damage | **350** |
@@ -140,10 +138,9 @@ At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if yo
 
 </Tab>
 </Tabs>
-</Tab>
 
-<Tab title="Arkk">
 <Divider text="Arkk"/>
+
 At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50% and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favour, providing a 232 damage CC. **Everyone** should use this to CC! But be ready to use other skills if the bar doesnt break.
 
  Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance"/> buff by using CC after each bloom phase with either weapon skills or the <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/>. The <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/> is a 232 CC ability and should be used by **ANYONE** if breakbars are slow on Arkk, the Archdiviner and the Gladiator.
@@ -152,10 +149,8 @@ At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | **Phase 2 + 4 + 6** | **1800** | <SpecialActionKey name="hypernovalaunch"/> <br/> 232 damage | <SpecialActionKey name="hypernovalaunch"/> <br/> 232 damage | <SpecialActionKey name="hypernovalaunch"/> <br/> 232 damage | <SpecialActionKey name="hypernovalaunch"/> <br/> 232 damage | <SpecialActionKey name="hypernovalaunch"/> <br/> 232 damage <br/> <Skill name="Basilisk Venom"/> <br/> 750 damage | **1910** |
 
-</Tab>
-
-<Tab title ="Sunqua Peak">
 <Divider text="Ai, Keeper of the Peak"/>
+
 At 3200 Ai has the largest breakbar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like ensolyss this cc schedule should be adjusted to fit your groups DPS. Also if you want to go for faster times on thiss boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
 
 | **Phase** | **CC Required** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Condi Deadeye" specialization="Deadeye"/> | **Total** |
@@ -167,17 +162,17 @@ At 3200 Ai has the largest breakbar in fractals. Bear in mind the following valu
 | **Right 33% Sorrow** | **1500** | |  | <Skill name="Sanctuary"/> (7 hits)  <br/> 1050 damage <br/> <Skill name="Chains of Light"/> (5 hits) <br/> 250 damage | <Skill name="Concussion Shot"/> <br/> 200 damage | | **1500** |
 
 </Tab>
-</Tabs>
-</Tab>
+<Tab title="Power">
 
-<Tab title="Daily Power">
-<Tabs>
-<Tab title="Mama">
+### <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/>
+
 <Divider text="MAMA"/>
 
 At 1800 MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800, each MAMA becomes the most CC heavy fractal boss in the game. There are 2 variations of the daily comp that work equally well check the tabs below for the schedule/classes that suit you best. The <Specialization name="Berserker"/> is run due to the CC and damage on the Knights it provides is invaluable in daily runs and is worth to swap to just for MAMA (if playing a comp without one) and swapping back during the alters. <Specialization name="Berserker"/> needs to take an offhand mace with <Item id="24639"/> in addition to <Skill name="wildblow"/> and <Skill name="bullscharge"/>.
+
 <Tabs>
 <Tab title="2 SLB">
+
 | **Phase** | **CC Required** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <BuildLink build="Power Berserker" specialization="Berserker"/> | <BuildLink build="Power Firebrand" specialization="Firebrand"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | **Total** |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | **Phase 1** | **1800** | <Skill name="Surge of the Mists"/> (5 hits) <br/> 750 damage <br/> | <Skill name="Headbutt"/> <br/> 390 damage | <Skill name="Bane Signet"/> <br/> 300 damage | <Skill name="Point Blank Shot"/> <br/> 150 damage | <Skill name="Point Blank Shot"/> <br/> 150 damage <br/> <Skill name="Path of Scars"/> <br/> 150 damage | **1890** |
@@ -190,6 +185,7 @@ At 1800 MAMA has a small defiance bar, but you need to break it three times duri
 </Tab>
 
 <Tab title="2 Guard">
+
 | **Phase** | **CC Required** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <BuildLink build="Power Berserker" specialization="Berserker"/> | <BuildLink build="Power Firebrand" specialization="Firebrand"/>| <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | **Total** |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | **Phase 1** | **1800** | <Skill name="Surge of the Mists"/> (5 hits) <br/> 750 damage <br/> <Skill name="Darkrazors Daring"/> (1 hit) <br/> 100 damage | <Skill name="Headbutt"/> <br/> 390 damage | <Skill name="Bane Signet"/> <br/> 300 damage | | <Skill name="Point Blank Shot"/> <br/> 150 damage <br/> <Skill name="Path of Scars"/> <br/> 150 damage | **1840** |
@@ -201,10 +197,9 @@ At 1800 MAMA has a small defiance bar, but you need to break it three times duri
 
 </Tab>
 </Tabs>
-</Tab>
 
-<Tab title="Siax">
 <Divider text="Siax"/>
+
 At 2000 Siax has a medium-sized defiance bar that shouldnt really need to be broken in an organised group, since you should have more than enough DPS to ignore it. If you do want to break it you should only need to break it once, unless your group is slow, where you may need to also break it in P3.
 
 | **Phase** | **CC Required** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <BuildLink build="Power Firebrand" specialization="Firebrand"/> | <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | **Total** |
@@ -212,33 +207,27 @@ At 2000 Siax has a medium-sized defiance bar that shouldnt really need to be bro
 | **Phase 1** | **1800** | <Skill name="Surge of the Mists"/> (5 hits) <br/> 750 damage <br/> <Skill name="Darkrazors Daring"/> (1 hit) <br/> 100 damage | <Skill name="Bane Signet"/> <br/> 300 damage | <Skill name="Bane Signet"/> <br/> 300 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Path of Scars"/> <br/> 150 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Path of Scars"/> <br/> 150 damage | **2150** |
 | **Phase 3** | **1800** | <Skill name="Surge of the Mists"/> (5 hits) <br/> 750 damage <br/> <Skill name="Darkrazors Daring"/> (1 hit) <br/> 100 damage | <Skill name="Bane Signet"/> <br/> 300 damage | <Skill name="Bane Signet"/> <br/> 300 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Point Blank Shot"/> <br/> 150 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Point Blank Shot"/> <br/> 150 damage | **2150** |
 
-</Tab>
-
-<Tab title="Ensolyss">
 <Divider text="Ensolyss"/>
+
 At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizeable defiance bars, but since condi is now played here you actually want to delay them to maximise the times your condis have to ramp up. In phase 1 ideally you will break just before Ensolyss does his slam attack. In phase 2+3 ideally you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Additionally if you have someone that can play <BuildLink build="Condi Deadeye" specialization="Deadeye"/> or <Specialization name="Daredevil" text="Condi Daredevil"/>, it is worth replacing a <Specialization name="Firebrand" text ="Condi Firebrand"/> for a huge damage increase, or alternitively a <Specialization name="Soulbeast" text ="Condi Soulbeast"/>
 
-**Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your groups DPS changes the time you want to CC. There is no schedule below and instead the common skills you have availible, because it will vary between groups.** 
+**Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your groups DPS changes the time you want to CC. There is no schedule below and instead the common skills you have available, because it will vary between groups.** 
 
 | **Phase** | **CC Required** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/>| <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> | **Conditions** |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | **Phase 1** | **2000** | <Skill name="Temporal Rift"/> <br/> 150 damage <br/> <Skill name="Darkrazors Daring"/> (max 6 hits) <br/> 100/s damage <br/> <Skill name="Scorchrazor"/> <br/> 200 damage | <Skill name="Blazing Edge"/> <br/> 150 damage <br/> <Skill name="Chains of Light"/> <br/> <Skill name="Sanctuary"/> (max 7 hits) <br/> 150/s damage | <Skill name="Blazing Edge"/> <br/> 150 damage <br/> <Skill name="Chains of Light"/> <br/> <Skill name="Sanctuary"/> (max 7 hits) <br/> 150/s damage | <Skill name="Concussion Shot"/> <br/> 200 damage | <Skill name="Concussion Shot"/> <br/> 200 damage | <Condition name="Immobile"/> <br/> 50/s <br/> <Condition name="Slow"/> <br/> 50/s <br/> <Condition name="Chilled"/> <br/> 33/s <br/> <Condition name="Blinded"/> <br/> 20/s <br/> <Condition name="Weakness"/> <br/> 20/s <br/> <Condition name="Crippled"/> <br/> 15/s |
 | **Phase 2+3** | **2250** | <Skill name="Temporal Rift"/> <br/> 150 damage <br/> <Skill name="Darkrazors Daring"/> (max 6 hits) <br/> 100/s damage <br/> <Skill name="Scorchrazor"/> <br/> 200 damage | <Skill name="Blazing Edge"/> <br/> 150 damage <br/> <Skill name="Chains of Light"/> <br/> <Skill name="Sanctuary"/> (max 7 hits) <br/> 150/s damage | <Skill name="Blazing Edge"/> <br/> 150 damage <br/> <Skill name="Chains of Light"/> <br/> <Skill name="Sanctuary"/> (max 7 hits) <br/> 150/s damage | <Skill name="Concussion Shot"/> <br/> 200 damage | <Skill name="Concussion Shot"/> <br/> 200 damage | <Condition name="Immobile"/> <br/> 50/s <br/> <Condition name="Slow"/> <br/> 50/s <br/> <Condition name="Chilled"/> <br/> 33/s <br/> <Condition name="Blinded"/> <br/> 20/s <br/> <Condition name="Weakness"/> <br/> 20/s <br/> <Condition name="Crippled"/> <br/> 15/s |
 
-</Tab>
-
-<Tab title="Skorvald">
 <Divider text="Skorvald"/>
+
 At 2200 Skorvald the Shattered has one of the largest defiance bars out of all the Challenge Mode fractal bosses, meaning that the whole group needs to contribute to break it quickly. 
 
 | **Phase** | **CC Required** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <BuildLink build="Power Firebrand" specialization="Firebrand"/> | <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>| <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | **Total** |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | **Phase 1** | **2200** | <Skill name="Surge of the Mists"/> (5 hits) <br/> 750 damage <br/> <Skill name="Darkrazors Daring"/> (2 hit) <br/> 200 damage | <Skill name="Bane Signet"/> <br/> 300 damage | <Skill name="Bane Signet"/> <br/> 300 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Path of Scars"/> <br/> 150 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Path of Scars"/> <br/> 150 damage | **2250** |
 
-</Tab>
-
-<Tab title="Artsariiv">
 <Divider text="Artsariiv"/>
+
 At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if you want to skip the anomaly. The good news is if you do mid strat (which you should od if you are an organised group playing power) you get to completely ignore it, this means you can focus your CC on the split phases. On the first split each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
 <Tabs>
 <Tab title="1st Split">
@@ -251,7 +240,9 @@ At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if yo
 | **Middle** | **600** | | | <Skill name="Dragons Maw"/> <br/> 150 damage <br/> <Condition name="Slow"/> (50/s) <br/> 200 damage | <Skill name="Cold Snap"/> (33/s) <br/> 165 damage | <Skill id="45743"/> <br/> 200 damage | **715** |
 
 </Tab>
+
 <Tab title="2nd Split">
+
 | **2nd Split Phase** | **CC Required** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <BuildLink build="Power Firebrand" specialization="Firebrand"/> | <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | **Total** |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | **North West** | **350** | <Skill name="Surge of the Mists"/> (3 hits) <br/> 450 damage | | | | | **450** |
@@ -266,10 +257,9 @@ At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if yo
 
 </Tab>
 </Tabs>
-</Tab>
 
-<Tab title="Arkk">
 <Divider text="Arkk"/>
+
 At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50% and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favour, which in addition to causing <Skill name="Surge of the mists"/> to hit 9 times, the <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/> will also double-hit, bringing the <Specialization name="Renegade"/>'s defiance bar damage to 1814 alone!
 
  Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance"/> buff by using CC after each bloom phase with either weapon skills or the <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/>. The <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/> is a 232 CC ability and should be used by **ANYONE** if breakbars are slow on Arkk, the Archdiviner and the Gladiator.
@@ -278,10 +268,8 @@ At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | **Phase 2 + 4 + 6** | **1800** | <Skill name="Surge of the Mists"/> (9 hits) <br/> 1350 damage <br/> <SpecialActionKey name="hypernovalaunch"/> (2 hits) <br/> 464 damage | | | <Skill name="Point Blank Shot"/> <br/> 150 damage | <Skill name="Point Blank Shot"/> <br/> 150 damage | **2114** |
 
-</Tab>
-
-<Tab title ="Sunqua Peak">
 <Divider text="Ai, Keeper of the Peak"/>
+
 At 3200 Ai has the largest breakbar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like ensolyss this cc schedule should be adjusted to fit your groups DPS, but especially if you are running a <BuildLink build="Condi Deadeye" specialization="Deadeye"/> or <Specialization name="Daredevil" text="Condi Daredevil"/> you will need to change things.
 
 | **Phase** | **CC Required** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> | **Total** |
@@ -292,7 +280,5 @@ At 3200 Ai has the largest breakbar in fractals. Bear in mind the following valu
 | **Left 33% Sorrow** | **1500** | <Skill name="Darkrazors Daring"/> (6 hits) <br/> 600 damage | <Skill name="Sanctuary"/> (6 hits) <br/> 900 damage |  | | | **1500** |
 | **Right 33% Sorrow** | **1500** | |  | <Skill name="Sanctuary"/> (7 hits)  <br/> 1050 damage <br/> <Skill name="Chains of Light"/> (1 hits) <br/> 50 damage  |  <Skill name="Concussion Shot"/> <br/> 200 damage | <Skill name="Concussion Shot"/> <br/> 200 damage | **1500** |
 
-</Tab>
-</Tabs>
 </Tab>
 </Tabs>
