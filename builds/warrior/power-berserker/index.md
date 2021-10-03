@@ -221,7 +221,7 @@ sections:
           "weapon2OffSigil": "Severance"
         },
         "consumables": {
-          "foodId": 41569,
+          "foodId": 91805,
           "utilityId": 9443,
           "infusion": "Mighty +9 Agony Infusion"
         },
@@ -336,7 +336,7 @@ sections:
           "weapon2OffSigil": "Severance"
         },
         "consumables": {
-          "foodId": 41569,
+          "foodId": 91805,
           "utilityId": 9443,
           "infusion": "Mighty +9 Agony Infusion"
         },
