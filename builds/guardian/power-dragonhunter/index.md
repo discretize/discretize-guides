@@ -105,10 +105,12 @@ sections:
                   "weapon2MainType":"Greatsword",
                   "weapon2MainSigil1":"Force",
                   "weapon2MainSigil2":"Impact"
-              }, "consumables":{
-                  "foodID": "91805",
-                  "utility": "Superior Sharpening Stone",
+              },
+                  "consumables": {
+                  "foodId": 91805,
+                  "utilityId": 9443,
                   "infusion": "Mighty +9 Agony Infusion"
+          
               },
                 "skills": {
                   "heal": "Litany of Wrath",
@@ -331,7 +333,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2021-10-03T12:26:34.080Z
+date: 2021-10-03T16:15:49.085Z
 ---
 
 <Divider text="Details"/>
