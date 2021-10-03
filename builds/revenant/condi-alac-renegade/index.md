@@ -1,5 +1,19 @@
 ---
 title: Condi Alac Renegade
+rating: Meta
+skills:
+  - 45773
+  - 27505
+traits:
+  - 2182
+classification:
+  - 4
+  - 3
+  - 4
+  - 3
+  - 5
+compositions:
+  - name: _CRGB
 sections:
   - type: mdx
     title: Overview
@@ -23,60 +37,60 @@ sections:
       <Character title="80% Boon Duration 162 Agony Resistance" 
                  gear={{ "profession": "Revenant",
                   "weight":"Heavy", "gear":[
+                  "Viper",
                   "Celestial",
                   "Celestial",
                   "Celestial",
                   "Viper",
                   "Viper",
+                  "Celestial",
                   "Viper",
                   "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
+                  "Celestial",
+                  "Celestial",
                   "Celestial",
                   "Celestial",
                   "Celestial"
               ], "attributes":{
-                  "Health": 18932,
-                  "Armor": 2815,
-                  "Power": 2741,
-                  "Precision": 1913,
-                  "Toughness": 1544,
-                  "Vitality": 1301,
-                  "Ferocity": 451,
-                  "Condition Damage": 2108,
-                  "Expertise": 740,
-                  "Concentration": 675,
-                  "Healing Power": 301,
+                  "Health": 20572,
+                  "Armor": 2979,
+                  "Power": 2602,
+                  "Precision": 1916,
+                  "Toughness": 1708,
+                  "Vitality": 1465,
+                  "Ferocity": 615,
+                  "Condition Damage": 2068,
+                  "Expertise": 743,
+                  "Concentration": 827,
+                  "Healing Power": 465,
                   "Agony Resistance": 162,
-                  "Condition Duration": 64.33333333333334,
-                  "Boon Duration": 80,
-                  "Critical Chance": 101.47619047619048,
-                  "Critical Damage": 180.06666666666666,
+                  "Condition Duration": 74.53333333333333,
+                  "Boon Duration": 80.13333333333333,
+                  "Critical Chance": 101.61904761904762,
+                  "Critical Damage": 191,
                   "Bleeding Duration": 25,
-                  "Effective Power": 9753.802159968749,
-                  "Power DPS": 11192.272020295291,
-                  "Burning Damage": 786.740625,
-                  "Burning Stacks": 7.559333333333334,
-                  "Burning DPS": 5947.23463125,
-                  "Bleeding Damage": 319,
-                  "Bleeding Stacks": 25.938666666666666,
-                  "Bleeding DPS": 8274.434666666666,
-                  "Poison Damage": 274.965625,
-                  "Poison Stacks": 8.052333333333335,
-                  "Poison DPS": 2214.114867708334,
-                  "Torment Damage": 418.81125000000003,
-                  "Torment Stacks": 30.073000000000004,
-                  "Torment DPS": 12594.910721250002,
-                  "Confusion Damage": 255.2,
+                  "Effective Power": 9821.3738146875,
+                  "Power DPS": 11262.245367785667,
+                  "Burning Damage": 747.8631250000001,
+                  "Burning Stacks": 7.330400000000001,
+                  "Burning DPS": 5482.135851500001,
+                  "Bleeding Damage": 302.43125,
+                  "Bleeding Stacks": 26.138866666666665,
+                  "Bleeding DPS": 7905.210119583332,
+                  "Poison Damage": 260.991875,
+                  "Poison Stacks": 7.854,
+                  "Poison DPS": 2049.8301862499998,
+                  "Torment Damage": 397.023,
+                  "Torment Stacks": 29.147066666666667,
+                  "Torment DPS": 11572.055849200002,
+                  "Confusion Damage": 241.94499999999996,
                   "Confusion Stacks": 0,
                   "Confusion DPS": 0,
-                  "Damage": 40222.966907170296,
-                  "Effective Health": 66616975,
-                  "Survivability": 33867.29791560752,
-                  "Effective Healing": 480.3,
-                  "Healing": 480.3
+                  "Damage": 38271.477374319,
+                  "Effective Health": 101884630.05000001,
+                  "Survivability": 51796.96494661922,
+                  "Effective Healing": 529.5,
+                  "Healing": 529.5
               }, "runeId":70600, "runeName":"Leadership", "infusions":[
                   37130,
                   37130,
@@ -98,15 +112,15 @@ sections:
                   37130
               ], "weapons":{
                   "weapon1MainType": "Mace",
-                  "weapon1MainSigil1": "concentration",
+                  "weapon1MainSigil1": "earth",
                   "weapon1OffType": "Axe",
                   "weapon1OffSigil": "doom",
                   "weapon2MainType": "Short Bow",
-                  "weapon2MainSigil1": "concentration",
+                  "weapon2MainSigil1": "torment",
                   "weapon2MainSigil2": "geomancy"
               }, "consumables":{
                   "foodId": "91878",
-                  "utility": "toxic-focusing-crystal",
+                  "utility": "toxic-maintenance-oil",
                   "infusion": "Malign +9 Agony Infusion"
               },
                 "legends": {
@@ -128,57 +142,57 @@ sections:
                   "Celestial",
                   "Celestial",
                   "Celestial",
+                  "Celestial",
                   "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
+                  "Celestial",
                   "Viper",
                   "Viper",
                   "Viper",
                   "Celestial",
+                  "Viper",
+                  "Viper",
                   "Celestial",
                   "Celestial"
               ], "attributes":{
-                  "Health": 17972,
-                  "Armor": 2809,
-                  "Power": 2821,
+                  "Health": 19592,
+                  "Armor": 2971,
+                  "Power": 2687,
                   "Precision": 2003,
-                  "Toughness": 1538,
-                  "Vitality": 1205,
-                  "Ferocity": 355,
-                  "Condition Damage": 2200,
+                  "Toughness": 1700,
+                  "Vitality": 1367,
+                  "Ferocity": 517,
+                  "Condition Damage": 2166,
                   "Expertise": 740,
-                  "Concentration": 676,
-                  "Healing Power": 205,
+                  "Concentration": 826,
+                  "Healing Power": 367,
                   "Agony Resistance": 222,
-                  "Condition Duration": 64.33333333333334,
+                  "Condition Duration": 74.33333333333334,
                   "Boon Duration": 80.06666666666666,
                   "Critical Chance": 105.76190476190476,
-                  "Critical Damage": 173.66666666666666,
+                  "Critical Damage": 184.46666666666667,
                   "Bleeding Duration": 25,
-                  "Effective Power": 9681.689190468749,
-                  "Power DPS": 11109.523984442385,
-                  "Burning Damage": 811.25,
-                  "Burning Stacks": 7.559333333333334,
-                  "Burning DPS": 6132.509166666667,
-                  "Bleeding Damage": 330.859375,
-                  "Bleeding Stacks": 25.938666666666666,
-                  "Bleeding DPS": 8582.051041666666,
-                  "Poison Damage": 284.453125,
-                  "Poison Stacks": 8.052333333333335,
-                  "Poison DPS": 2290.511380208334,
-                  "Torment Damage": 434.46562500000005,
-                  "Torment Stacks": 30.073000000000004,
-                  "Torment DPS": 13065.684740625004,
-                  "Confusion Damage": 264.6875,
+                  "Effective Power": 9795.28661596875,
+                  "Power DPS": 11232.330975107792,
+                  "Burning Damage": 773.0215625000001,
+                  "Burning Stacks": 7.322000000000001,
+                  "Burning DPS": 5660.063880625001,
+                  "Bleeding Damage": 314.6046875,
+                  "Bleeding Stacks": 26.112666666666666,
+                  "Bleeding DPS": 8215.167336458333,
+                  "Poison Damage": 270.73062500000003,
+                  "Poison Stacks": 7.845000000000001,
+                  "Poison DPS": 2123.8817531250006,
+                  "Torment Damage": 413.0919375000001,
+                  "Torment Stacks": 29.113666666666667,
+                  "Torment DPS": 12026.620971062503,
+                  "Confusion Damage": 251.68375,
                   "Confusion Stacks": 0,
                   "Confusion DPS": 0,
-                  "Damage": 41180.28031360905,
-                  "Effective Health": 63104185,
-                  "Survivability": 32081.4361972547,
-                  "Effective Healing": 451.5,
-                  "Healing": 451.5
+                  "Damage": 39258.06491637863,
+                  "Effective Health": 96770520.7,
+                  "Survivability": 49197.01103202847,
+                  "Effective Healing": 500.1,
+                  "Healing": 500.1
               }, "runeId":70600, "runeName":"Leadership", "infusions":[
                   37130,
                   37130,
@@ -200,15 +214,15 @@ sections:
                   37130
               ], "weapons":{
                   "weapon1MainType": "Mace",
-                  "weapon1MainSigil1": "concentration",
+                  "weapon1MainSigil1": "earth",
                   "weapon1OffType": "Axe",
                   "weapon1OffSigil": "doom",
                   "weapon2MainType": "Short Bow",
-                  "weapon2MainSigil1": "concentration",
+                  "weapon2MainSigil1": "torment",
                   "weapon2MainSigil2": "geomancy"
               }, "consumables":{
                   "foodId": "91878",
-                  "utility": "toxic-focusing-crystal",
+                  "utility": "toxic-maintenance-oil",
                   "infusion": "Malign +9 Agony Infusion"
               },
                 "legends": {
@@ -498,28 +512,14 @@ sections:
       </GridItem>
 
       </Grid>
-rating: Meta
 role: Condi Damage
 author: PineappleMan.1430
 profession: Revenant
 specialization: Renegade
-skills:
-  - 45773
-  - 27505
-traits:
-  - 2182
-classification:
-  - 4
-  - 3
-  - 4
-  - 3
-  - 5
-compositions:
-  - name: _CRGB
 conditions:
   - Vulnerability
 code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
-date: 2021-10-03T12:17:58.179Z
+date: 2021-10-03T16:56:36.150Z
 hasCMGuide: false
 benchmark:
   huge:
