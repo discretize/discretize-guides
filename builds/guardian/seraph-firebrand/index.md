@@ -122,7 +122,7 @@ sections:
       > 
 
 
-      **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower Agony Resistance (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>).**
+      **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower Agony Resistance (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>). This build also has the advantage of working in other content such as Raids and Strike Missions**
 
 
       Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!  
@@ -229,7 +229,7 @@ sections:
       > 
 
 
-      **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph varian, but has the advantage of some extra survivabilty with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**  
+      **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivabilty with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**  
 
 
       Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
@@ -790,7 +790,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2021-10-03T16:36:00.279Z
+date: 2021-10-03T16:36:57.362Z
 ---
 
 <Divider text="Rotation"/>
