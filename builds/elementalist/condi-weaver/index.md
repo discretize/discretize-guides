@@ -258,7 +258,6 @@ classification:
   - 3
   - 4
   - 5
-character: []
 date: 2021-10-03T12:28:43.340Z
 ---
 

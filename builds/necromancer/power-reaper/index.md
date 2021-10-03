@@ -238,7 +238,6 @@ classification:
   - 4
   - 2
   - 3
-character: []
 date: 2021-10-03T12:24:43.882Z
 benchmark:
   small:

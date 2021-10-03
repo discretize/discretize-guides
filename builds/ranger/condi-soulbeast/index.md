@@ -381,7 +381,6 @@ conditions:
   - Burning
 code: "[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
-character: []
 date: 2021-10-03T12:22:28.674Z
 benchmark:
   small:

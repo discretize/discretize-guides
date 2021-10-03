@@ -805,7 +805,6 @@ compositions:
   - name: _Rainbearbow
   - name: _RGB
 code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
-character: []
 date: 2021-10-03T12:19:18.334Z
 hasCMGuide: true
 benchmark:

@@ -368,7 +368,6 @@ classification:
 compositions:
   - name: _CRGB
 hasCMGuide: false
-character: []
 date: 2021-10-03T12:25:49.308Z
 benchmark:
   small:

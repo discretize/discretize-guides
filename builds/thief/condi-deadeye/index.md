@@ -283,15 +283,9 @@ conditions:
   - Poisoned
   - Bleeding
   - Torment
-code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
-character: []
 date: 2021-10-03T12:19:56.299Z
-benchmark:
-  small:
-    dps: 40094
-    by: Incera [XVII]
-    youtube: -Rk0Lu8QpbU
 ---
 
 <Divider text="Rotation / Skill usage"/>

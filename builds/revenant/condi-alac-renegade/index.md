@@ -519,7 +519,6 @@ compositions:
 conditions:
   - Vulnerability
 code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
-character: []
 date: 2021-10-03T12:17:58.179Z
 hasCMGuide: false
 benchmark:
