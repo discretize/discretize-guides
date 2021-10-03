@@ -48,7 +48,7 @@ sections:
                    "Toughness": 1918,
                    "Vitality": 2225,
                    "Ferocity": 975,
-                   "Condition Damage": 2132,
+                   "Condition Damage": 2139,
                    "Expertise": 745,
                    "Concentration": 918,
                    "Healing Power": 925,
@@ -109,6 +109,113 @@ sections:
                   "weapon2MainSigil2Id": 24624
               }, "consumables":{
                    "foodId": 91703,
+                   "utilityId": 77567,
+                   "infusion": "Malign +9 Agony Infusion"
+              },
+                "skills": {
+                  "heal": "Mantra of Solace",
+                  "utility2": "Mantra of Potence",
+                  "utility3": "Sanctuary",
+                  "elite": "Feel my Wrath"
+                } 
+              }}
+      > 
+
+
+      **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower Agony Resistance (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>). This build also has the advantage of working in other content such as Raids and Strike Missions**
+
+
+      Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!  
+
+
+      </Character>
+
+      <Character title="Celestial 203 Agony Resistance"
+                  gear={{ "profession": "Guardian",
+                  "weight":"Heavy", "gear":[
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Celestial",
+                  "Seraph",
+                  "Seraph",
+                  "Seraph",
+                  "Seraph",
+                  "Celestial",
+                  "Seraph",
+                  "Celestial",
+                  "Celestial"
+              ], "attributes":{
+                  "Health": 20895,
+                  "Armor": 2950,
+                  "Power": 2165,
+                  "Precision": 2248,
+                  "Toughness": 1679,
+                  "Vitality": 1925,
+                  "Ferocity": 675,
+                  "Condition Damage": 2548,
+                  "Expertise": 445,
+                  "Concentration": 938,
+                  "Healing Power": 884,
+                  "Agony Resistance": 203,
+                  "Condition Duration": 29.666666666666668,
+                  "Boon Duration": 62.53333333333333,
+                  "Critical Chance": 94.42857142857143,
+                  "Critical Damage": 195,
+                  "Burning Duration": 70,
+                  "Effective Power": 5904.0419866071425,
+                  "Power DPS": 5096.981953782523,
+                  "Burning Damage": 907.2465,
+                  "Burning Stacks": 24.359333333333332,
+                  "Burning DPS": 22099.919908999997,
+                  "Bleeding Damage": 262.32,
+                  "Bleeding Stacks": 4.797666666666667,
+                  "Bleeding DPS": 1258.52392,
+                  "Poison Damage": 279.57,
+                  "Poison Stacks": 0,
+                  "Poison DPS": 0,
+                  "Torment Damage": 391.68,
+                  "Torment Stacks": 0,
+                  "Torment DPS": 0,
+                  "Confusion Damage": 262.32,
+                  "Confusion Stacks": 0,
+                  "Confusion DPS": 0,
+                  "Damage": 28455.42578278252,
+                  "Effective Health": 112724607.18750001,
+                  "Survivability": 57307.88367437723,
+                  "Effective Healing": 720.7200000000001,
+                  "Healing": 720.7200000000001
+              }, "runeId":24765, "runeName":"Balthazar", "infusions":[
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130,
+                  37130
+              ], "weapons":{
+                  "weapon1MainType": "Axe",
+                  "weapon1MainSigil1Id": 44944,
+                  "weapon1OffType": "Torch",
+                  "weapon1OffSigilId": 24560,
+                  "weapon2MainType": "Staff",
+                  "weapon2MainSigil1Id": 74326,
+                  "weapon2MainSigil2Id": 44944
+              }, "consumables":{
+                   "foodId": 91703,
                    "utilityId": 48917,
                    "infusion": "Malign +9 Agony Infusion"
               },
@@ -122,9 +229,11 @@ sections:
       > 
 
 
-      **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower Agony Resistance (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>). If you have higer Agony Resistance but dont want to play Seraph you can swap to <Item id="24765"/> and replace your <Item id="24624"/> with <Item id="24560"/> for some more damage (this will start to overcap on <Condition name="Burning"/> duration, so you will also need some Seraph pieces).**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!  
+      **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivabilty with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**  
 
 
+      Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
+              
       </Character>  
 
       <Character title="Seraph 203 Agony Resistance"
@@ -145,45 +254,45 @@ sections:
                   "Seraph",
                   "Seraph"
               ], "attributes":{
-                  "Health": 23895,
-                  "Armor": 3189,
-                  "Power": 2465,
-                  "Precision": 1998,
-                  "Toughness": 1918,
-                  "Vitality": 2225,
-                  "Ferocity": 975,
-                  "Condition Damage": 2132,
-                  "Expertise": 745,
-                  "Concentration": 918,
-                  "Healing Power": 925,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 59.666666666666664,
-                  "Boon Duration": 76.2,
-                  "Critical Chance": 82.52380952380952,
-                  "Critical Damage": 215,
-                  "Burning Duration": 40,
-                  "Effective Power": 6906.244055059524,
-                  "Power DPS": 5962.186819962823,
-                  "Burning Damage": 796.0184999999999,
-                  "Burning Stacks": 24.359333333333332,
-                  "Burning DPS": 19390.479980999997,
-                  "Bleeding Damage": 224.88000000000002,
-                  "Bleeding Stacks": 5.907666666666667,
-                  "Bleeding DPS": 1328.51608,
-                  "Poison Damage": 242.13000000000002,
+                  "Health": 17645,
+                  "Armor": 2625,
+                  "Power": 1840,
+                  "Precision": 2515,
+                  "Toughness": 1354,
+                  "Vitality": 1600,
+                  "Ferocity": 350,
+                  "Condition Damage": 2854,
+                  "Expertise": 120,
+                  "Concentration": 938,
+                  "Healing Power": 884,
+                  "Agony Resistance": 203,
+                  "Condition Duration": 8,
+                  "Boon Duration": 62.53333333333333,
+                  "Critical Chance": 107.14285714285714,
+                  "Critical Damage": 173.33333333333334,
+                  "Burning Duration": 90,
+                  "Effective Power": 4584.666666666667,
+                  "Power DPS": 3957.960210499294,
+                  "Burning Damage": 989.06325,
+                  "Burning Stacks": 24.156,
+                  "Burning DPS": 23891.811867,
+                  "Bleeding Damage": 289.85999999999996,
+                  "Bleeding Stacks": 3.9960000000000004,
+                  "Bleeding DPS": 1158.28056,
+                  "Poison Damage": 307.10999999999996,
                   "Poison Stacks": 0,
                   "Poison DPS": 0,
-                  "Torment Damage": 335.52,
+                  "Torment Damage": 432.99,
                   "Torment Stacks": 0,
                   "Torment DPS": 0,
-                  "Confusion Damage": 224.88000000000002,
+                  "Confusion Damage": 289.85999999999996,
                   "Confusion Stacks": 0,
                   "Confusion DPS": 0,
-                  "Damage": 26681.18288096282,
-                  "Effective Health": 126684420.1875,
-                  "Survivability": 64404.89079181495,
-                  "Effective Healing": 734.2500000000001,
-                  "Healing": 734.2500000000001
+                  "Damage": 29008.052637499295,
+                  "Effective Health": 84704271.09375001,
+                  "Survivability": 43062.66959519574,
+                  "Effective Healing": 720.7200000000001,
+                  "Healing": 720.7200000000001
               }, "runeId":24765, "runeName":"Balthazar", "infusions":[
                   37130,
                   37130,
@@ -226,7 +335,10 @@ sections:
       > 
 
 
-      **This is the standard build variant for high Agony Resistance. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
+      **This is the standard build variant for high Agony Resistance. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**
+
+
+      Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
               
       </Character>  
 
@@ -329,7 +441,10 @@ sections:
       >
 
 
-      **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
+      **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**
+
+
+      Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
 
 
       </Character> 
@@ -675,7 +790,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2021-10-03T12:27:44.641Z
+date: 2021-10-03T16:36:57.362Z
 ---
 
 <Divider text="Rotation"/>
@@ -745,6 +860,6 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 8.  Use <Skill name="Feelmywrath"/>
 
 </Card>
-<Video title="Example Rotationby Ares" youtube="H3qHPXbFGyA" caption="The build used here is a different variation than the ones listed above, but the idea and survavability is essentially the same."/>
+<Video title="Example Rotation by Ares" youtube="a9cnmBvu9G8" caption="The build used here is the 162 Agony Resistance variant."/>
 </GridItem>
 </Grid>
