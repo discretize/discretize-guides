@@ -48,7 +48,7 @@ sections:
                    "Toughness": 1918,
                    "Vitality": 2225,
                    "Ferocity": 975,
-                   "Condition Damage": 2132,
+                   "Condition Damage": 2139,
                    "Expertise": 745,
                    "Concentration": 918,
                    "Healing Power": 925,
@@ -109,7 +109,7 @@ sections:
                   "weapon2MainSigil2Id": 24624
               }, "consumables":{
                    "foodId": 91703,
-                   "utilityId": 48917,
+                   "utilityId": 77567,
                    "infusion": "Malign +9 Agony Infusion"
               },
                 "skills": {
@@ -675,7 +675,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2021-10-03T12:27:44.641Z
+date: 2021-10-03T16:21:29.113Z
 ---
 
 <Divider text="Rotation"/>
@@ -745,6 +745,6 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 8.  Use <Skill name="Feelmywrath"/>
 
 </Card>
-<Video title="Example Rotationby Ares" youtube="H3qHPXbFGyA" caption="The build used here is a different variation than the ones listed above, but the idea and survavability is essentially the same."/>
+<Video title="Example Rotation by Ares" youtube="a9cnmBvu9G8" caption="The build used here is the 162 Agony Resistance variant."/>
 </GridItem>
 </Grid>
