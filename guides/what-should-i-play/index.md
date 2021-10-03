@@ -41,7 +41,7 @@ The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish
 
 This build possesses a decent amount of self-sustain, due to <Trait id="2111"/>, but it suffers greatly from a <Boon name="Quickness"/> deficit. However, it doesn't suffer too much from a lack of <Boon name="Alacrity"/> due to the nature of _Initiative_.
 
-Overall, this build is an excellent pick if taken as an alt class: it is meant for players who enjoy high-risk, high-reward rotations. Played correctly, it is excellent in PuGs on single-target bosses such as the ones from Challenge Mode Fractals, most notably Sorrowful Spellcaster (Light and Dark Ai) and Ensolyss, or any boss with little to no phases. We do not recommand running this build in 99CM, as positioning is most important there, and jumping <Skill name="shadowstrike"/> becomes terrible due to Cosmic Energy (low gravity). Details for this build can be found at the bottom of the page.
+Overall, this build is an excellent pick if taken as an alt class: it is meant for players who enjoy high-risk, high-reward rotations. Played correctly, it is excellent in PuGs on single-target bosses such as the ones from Challenge Mode Fractals, most notably Sorrowful Spellcaster (Light and Dark Ai) and Ensolyss, or any boss with little to no phases. Details for this build can be found at the bottom of the page.
 
 </Card>
 
@@ -140,6 +140,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
 | <BuildLink build="Power Chronomancer" specialization="Chronomancer"/>| <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> | 
+
 The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long rampup times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
 
 To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation on the go and push the limits of your class, but even then you will probably be a hinderance for your group.
@@ -218,6 +219,7 @@ There are 3 different versions of <Specialization text="Power Holosmith" name="H
 | Build | Synergy | DPS | Independence | Basics | Mastery | 
 | ---- | --------- | -- | ------------| ------ | ------- |
 | <BuildLink build="Power Reaper" specialization="Reaper"/> | <Rating value="1"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="3"/> | 
+
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
 
 <Specialization name="Reaper" text="Power Reaper"/> has multiple offensive skill options (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Reaper" text="Power Reaper"/> can modify itself to fit many given situations in fractals.
