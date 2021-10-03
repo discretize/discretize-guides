@@ -56,40 +56,44 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 
 <Tabs>
 <Tab specialization="Renegade">
-* Provides permanent <Boon name="Alacrity"/> and around 10 stacks of <Boon name="Might"/>.
-* Deals a large amount of CC through <Skill name="Darkrazors Daring"/> and <Skill name="Scorchrazor"/>
-* Deals a good amount of damage, coming close or beating other classes on some encounters
-* Has blinks available from skills such as <Skill name="phasetraversal"/>
+
+- Provides permanent <Boon name="Alacrity"/> and around 10 stacks of <Boon name="Might"/>.
+- Deals a large amount of CC through <Skill name="Darkrazors Daring"/> and <Skill name="Scorchrazor"/>
+- Deals a good amount of damage, coming close or beating other classes on some encounters
+- Has blinks available from skills such as <Skill name="phasetraversal"/>
 
 <BuildLink build="Condi Alac Renegade" specialization="Renegade"/>
 </Tab>
 
 <Tab specialization="Firebrand">
-* Provides permanent <Boon name="Quickness"/>, on demand <Boon name="Aegis"/>, <Boon name="Resistance"/> and some <Boon name="Might"/>.
-* Generates a fair share of <Boon name="Fury"/> by <Skill name="Feel my wrath"/> and the sword symbol <Skill name="Symbol of Vengeance"/>.
-* Deals a decent amount of DPS with reasonable burst. Also by playing two <Specialization name="Firebrand"/> you can run <Trait name="Legendary Lore"/> for even more damage while still maintaining <Boon name="Quickness"/>.
-* Contributes a huge amount of CC with <Skill name="sanctuary"/>.
-* Provides a party damage increase through Ashes of the Just (Tome 1-5).
-* Can provide situational <Boon name="Stability"/> using <Skill name="Stand your ground"/>, <Skill name="Tome of Courage"/> and <Skill name="Mantra of Liberation"/>.
+
+- Provides permanent <Boon name="Quickness"/>, on demand <Boon name="Aegis"/>, <Boon name="Resistance"/> and some <Boon name="Might"/>.
+- Generates a fair share of <Boon name="Fury"/> by <Skill name="Feel my wrath"/> and the sword symbol <Skill name="Symbol of Vengeance"/>.
+- Deals a decent amount of DPS with reasonable burst. Also by playing two <Specialization name="Firebrand"/> you can run <Trait name="Legendary Lore"/> for even more damage while still maintaining <Boon name="Quickness"/>.
+- Contributes a huge amount of CC with <Skill name="sanctuary"/>.
+- Provides a party damage increase through Ashes of the Just (Tome 1-5).
+- Can provide situational <Boon name="Stability"/> using <Skill name="Stand your ground"/>, <Skill name="Tome of Courage"/> and <Skill name="Mantra of Liberation"/>.
 
 <BuildLink build="Condi Firebrand" specialization="Firebrand"/>
 </Tab>
 
 <Tab specialization="Soulbeast">
-* Deals high damage, especially on encounters with longer phases such as Ensloyss and 100CM. 
-* Provides strong party DPS boosts through <Skill name="vulture stance"/> while also helping with <Boon name="Might"/> generation. 
-* Provides a unique damage modifier with <Skill name="sun spirit"/>
-* Can bring <Skill name="Moa Stance"/> allowing your <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> to play a very offensive build with minimal boon duration.
-* Brings a good amount of CC with <Skill name="Concussion Shot"/> and <Skill id="46432"/>.
+
+- Deals high damage, especially on encounters with longer phases such as Ensloyss and 100CM.
+- Provides strong party DPS boosts through <Skill name="vulture stance"/> while also helping with <Boon name="Might"/> generation.
+- Provides a unique damage modifier with <Skill name="sun spirit"/>
+- Can bring <Skill name="Moa Stance"/> allowing your <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> to play a very offensive build with minimal boon duration.
+- Brings a good amount of CC with <Skill name="Concussion Shot"/> and <Skill id="46432"/>.
 
 <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>
 </Tab>
 <Tab specialization="Deadeye">
-* Currently both <Specialization name="Daredevil" text="Condi Daredevil"/> and <Specialization name="Deadeye" text="Condi Deadeye"/> are viable options.
-* Both builds have the highest burst of any condi class in the game
-* Provides strong party dps buffs through <Skill name="Spider Venom"/> and <Skill name="Skale Venom"/>.
-* Provides a massive amount of CC by sharing <Skill name="Basilisk Venom"/>.
-* Has high mobility with many blinks, portals and <Effect name="Stealth"/>, great for skips and completing T4s fast.
+
+- Currently both <Specialization name="Daredevil" text="Condi Daredevil"/> and <Specialization name="Deadeye" text="Condi Deadeye"/> are viable options.
+- Both builds have the highest burst of any condi class in the game
+- Provides strong party dps buffs through <Skill name="Spider Venom"/> and <Skill name="Skale Venom"/>.
+- Provides a massive amount of CC by sharing <Skill name="Basilisk Venom"/>.
+- Has high mobility with many blinks, portals and <Effect name="Stealth"/>, great for skips and completing T4s fast.
 
 <BuildLink build="Condi Deadeye" specialization="Deadeye"/>
 </Tab>
