@@ -804,7 +804,7 @@ compositions:
   - name: _Rainbow
   - name: _Rainbearbow
   - name: _RGB
-code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
+code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 date: 2021-10-03T12:19:18.334Z
 hasCMGuide: true
 benchmark:
@@ -820,7 +820,7 @@ benchmark:
 <GridItem xs="12" sm="6">
 <Card title="Information">
 
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
 For that reason you can find a video with openers, that are efficient to use here.
 </Card>
 

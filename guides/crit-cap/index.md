@@ -27,20 +27,20 @@ You can subtract the following values in general:
 
 Which brings it down to **1475 Precision** or **1375 Precision** required (with <Trait name="Spotter"/>).
 
-Apart from that, the <Item id="79722"/> grants Precision, Concentration and Toughness as high as `1.5 * Agony Resistance`.\
+Apart from that, the <Item id="79722"/> grants Precision, Concentration and Toughness as high as `1.5 * Agony Resistance`.  
 So **with 150 Agony Resistance you'd receive 225 additional Precision**.
 
-Now we only need **1250 Precision** (without <Trait name="Spotter"/>) or **1150 Precision** (with <Trait name="Spotter"/>) to achieve 100% Critical Chance (`2995 - 1000 - 420 - 100 - 225` and `-100`)!\
+Now we only need **1250 Precision** (without <Trait name="Spotter"/>) or **1150 Precision** (with <Trait name="Spotter"/>) to achieve 100% Critical Chance (`2995 - 1000 - 420 - 100 - 225` and `-100`)!  
 We have two options to accomplish that - via items or skills/traits.
 
 ---
 
 ### Items
 
-The most obvious choice would be <Item name="Accuracy" type="Sigil"/>, but in Fractals we want to take <Item name="Impact" type="Sigil"/> (and <Item name="Force" type="Sigil"/>) to benefit from frequently broken defiance bars.\
+The most obvious choice would be <Item name="Accuracy" type="Sigil"/>, but in Fractals we want to take <Item name="Impact" type="Sigil"/> (and <Item name="Force" type="Sigil"/>) to benefit from frequently broken defiance bars.  
 Which leaves us with item affixes and runes as other sources of Precision.
 
-A full ascended set of **Berserker** items is equal to **961 Precision** (dual wield) or **960 Precision** (two-handed).\
+A full ascended set of **Berserker** items is equal to **961 Precision** (dual wield) or **960 Precision** (two-handed).  
 So you'll only need a few more points of Precision to reach 100% Critical Chance:
 
 | Agony Resistance                                                                                                                         | Without <Trait name="Spotter"/> + Dual Wield | Without <Trait name="Spotter"/> + Two-handed | With <Trait name="Spotter"/> + Dual Wield | With <Trait name="Spotter"/> + Two-handed |
@@ -50,7 +50,7 @@ So you'll only need a few more points of Precision to reach 100% Critical Chance
 | 207 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                     | 203                                          | 204                                          | 103                                       | 104                                       |
 | 222 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation), <Item id="70596"/>) | 181                                          | 182                                          | 81                                        | 82                                        |
 
-In general, you want to stack as much Agony Resistance as possible to benefit from the Precision conversion if you're not crit capped with profession-specific traits. <Item id="37131"/> is usually the way to go as better regular infusions (e.g. <Item id="49439"/>) are very expensive.\
+In general, you want to stack as much Agony Resistance as possible to benefit from the Precision conversion if you're not crit capped with profession-specific traits. <Item id="37131"/> is usually the way to go as better regular infusions (e.g. <Item id="49439"/>) are very expensive.  
 After that, you need to swap Berserker items (Major: Power; Minor: Precision, Ferocity) for Assassins (Major: Precision; Minor: Power, Ferocity) to gain more Precision.
 
 Keep in mind that you can also take <Item id="37132"/> but normally it is easier to calculate with a full set of Power infusions.
@@ -61,10 +61,10 @@ Use our [Gear Optimizer](http://old.discretize.eu) to calculate the optimal dist
 
 ### Skills/Traits
 
-While some professions have access to passive signet utility skills increasing Precision by 180 points, there is usually a better DPS skill if you are crit capped already.\
+While some professions have access to passive signet utility skills increasing Precision by 180 points, there is usually a better DPS skill if you are crit capped already.  
 If for some reason your build isn't optimized yet and you are missing at least those 180 points, it is recommended to take the Precision signet instead of the weakest other utility skill.
 
-Apart from that, various traits increase either Precision or Critical Chance directly.\
+Apart from that, various traits increase either Precision or Critical Chance directly.  
 Some of them will easily put you above 100% Critical Chance so you don't need any Assassin's pieces.
 
 Below are some popular trait choices to push Critical Chance.

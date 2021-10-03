@@ -33,7 +33,7 @@ Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd C
 
 <Warning>
 
-**Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**  \
+**Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!** \
 Read more about breaking Defiance bars here: [CC-distribution examples](/guides/cc-distribution)!
 
 </Warning>
@@ -196,13 +196,13 @@ Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization
 
 <GridItem sm="12" md="6">
 
-After maxing the fractal masteries to level 4 you get access to *Mistlock Singularities*. Taking one of these will reset the cooldowns of all your skills! This allows you to precast certain skills before entering the battle without a penalty. It makes sense to precast <Boon name="Quickness"/>, <Boon name="Alacrity"/> and use blast finishers on certain Combo Fields.
+After maxing the fractal masteries to level 4 you get access to _Mistlock Singularities_. Taking one of these will reset the cooldowns of all your skills! This allows you to precast certain skills before entering the battle without a penalty. It makes sense to precast <Boon name="Quickness"/>, <Boon name="Alacrity"/> and use blast finishers on certain Combo Fields.
 
 The most common applications are <Boon name="Might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="Stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
 <Warning>
 
-Do not use other combo fields than fire on the *Mistlock Singularity*! All combo fields but the *Fire Field* are useless in terms of prebooning.
+Do not use other combo fields than fire on the _Mistlock Singularity_! All combo fields but the _Fire Field_ are useless in terms of prebooning.
 </Warning>
 </GridItem>
 </Grid>
@@ -378,7 +378,3 @@ All information is available on their [discord](https://discord.gg/CE3TswT).
 </Grid>
 
 If you are one of those that seek to improve beyond clearing fractals for the loot we highly encourage you to find a static via our `#looking-for-static` channel on [our discord](https://discord.com/invite/G3QDSv) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
-
-<Divider text="What now?"/>
-
-### Continue reading the basics of fractals like group compositions and what is the meta for organized groups and PuGs [here](guides/meta-explained) or if you already read that we recommend taking a look at what classes of meta compositions can do to break the Defiance bar [here!](/guides/cc-distribution)

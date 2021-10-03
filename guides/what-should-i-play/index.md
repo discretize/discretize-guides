@@ -15,7 +15,6 @@ Outline:
 
 3.  **OFFMETA:** Builds in this category can substitute builds of the META category, but will provide worse performance in an optimal scenario.
 
-
 <Divider text="Meta builds"/>
 
 <Card specialization="Soulbeast">
@@ -28,16 +27,15 @@ Outline:
 
 This build is rather self sufficient due to:
 
--   <Boon name="Quickness"/> from <Trait name="livefast"/>
+- <Boon name="Quickness"/> from <Trait name="livefast"/>
 
--   <Boon name="Might"/> from <Trait name="Huntersgaze"/>
+- <Boon name="Might"/> from <Trait name="Huntersgaze"/>
 
--   Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
+- Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
 
--   High CC with <Skill id="45743"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
+- High CC with <Skill id="45743"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
 
--   High mobility via <Skill name="monarchsleap"/>, <Skill id="45743"/> and <Skill id="12521"/>
-
+- High mobility via <Skill name="monarchsleap"/>, <Skill id="45743"/> and <Skill id="12521"/>
 
 Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
 </Card>
@@ -61,7 +59,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 | --------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Firebrand" disableLink/>](/builds/revenant/power-renegade) | <Rating value="5"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="4"/> |
 
-The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also ***Quickness Firebrand*** or ***Quickbrand***) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.
+The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.
 
 It plays very similar to <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> with the addition of <Specialization name="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
 
@@ -69,7 +67,7 @@ Using <Skill name="Bane Signet"/> to break defiance bars also increases your all
 
 <Warning>
 
-Its worth to mention that *<Specialization text="Power Quickness Firebrand" name="Firebrand"/>* is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run *<BuildLink build="Condi Firebrand" specialization="Firebrand"/>* as it provides much higher sustained DPS.
+Its worth to mention that _<Specialization text="Power Quickness Firebrand" name="Firebrand"/>_ is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run _<BuildLink build="Condi Firebrand" specialization="Firebrand"/>_ as it provides much higher sustained DPS.
 </Warning>
 </Card>
 
@@ -102,18 +100,17 @@ The **<Specialization text="Condi Firebrand" name="Firebrand"/>** provides perma
 
 This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
 
--   Permanent <Boon name="Quickness"/>.
+- Permanent <Boon name="Quickness"/>.
 
--   Good self-<Boon name="Might"/> when you use Zeal instead of Virtues due to <Trait name="Zealous Scepter"/>.
+- Good self-<Boon name="Might"/> when you use Zeal instead of Virtues due to <Trait name="Zealous Scepter"/>.
 
--   <Skill id="41780"/> for heals.
+- <Skill id="41780"/> for heals.
 
--   <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
+- <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
 
--   On-demand <Boon name="Aegis"/> when you have <Skill name="MantraOfSolace"/>.
+- On-demand <Boon name="Aegis"/> when you have <Skill name="MantraOfSolace"/>.
 
--   Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
-
+- Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
 
 One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 <Attribute name="Power"/> buff provided by <Skill name="Bane Signet"/>.
 
@@ -143,12 +140,11 @@ Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained dama
 
 This build is rather self sufficient due to:
 
--   Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
+- Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
 
--   Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
+- Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
 
--   High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
-
+- High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
 
 Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
 </Card>
@@ -159,9 +155,9 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 | -------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Deadeye" disableLink/>](builds/thief/condi-deadeye) | <Rating value="3"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> |
 
-The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the *Mistlock Sanctuary*, and cast again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an unneglectable amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consummed when the boss is vulnerable to this type of damage (up to ten stacks, two per player).
+The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Sanctuary_, and cast again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an unneglectable amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consummed when the boss is vulnerable to this type of damage (up to ten stacks, two per player).
 
-This build possesses a decent amount of self-sustain, due to <Trait id="2111"/>, but it suffers greatly from a <Boon name="Quickness"/> deficit. However, it doesn't suffer too much from a lack of <Boon name="Alacrity"/> due to the nature of *Initiative*.
+This build possesses a decent amount of self-sustain, due to <Trait id="2111"/>, but it suffers greatly from a <Boon name="Quickness"/> deficit. However, it doesn't suffer too much from a lack of <Boon name="Alacrity"/> due to the nature of _Initiative_.
 
 Overall, this build is an excellent pick if taken as an alt class: it is meant for players who enjoy high-risk, high-reward rotations. Played correctly, it is excellent in PuGs on single-target bosses such as the ones from Challenge Mode Fractals, most notably Sorrowful Spellcaster (Light and Dark Ai) and Ensolyss, or any boss with little to no phases.
 </Card>
@@ -284,7 +280,7 @@ This build is very common in PuGs. It is part of a composition called PuG Meta. 
 
 It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is important to understand that the signet share is essential to faster runs and sharing extra power during <Effect name="Exposed"/> (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Mantra of Solace"/> and <Skill name="Mantra of Potence"/>; <Skill name="Feel My Wrath"/> is optional.
 
-The <Specialization name="Firebrand" text="Heal Firebrand"/> heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Mantra of Solace"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals, *but* it should not be needed.
+The <Specialization name="Firebrand" text="Heal Firebrand"/> heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Mantra of Solace"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radiance) to virtues for more heals, _but_ it should not be needed.
 
 When <Instability name="Afflicted"/> is present or enemies are applying conditions, you can use <Skill name="Symbol of Swiftness"/> (Staff3) and blast it with <Skill name="Holy Strike"/> (Staff2) for area condition cleanse.
 
@@ -297,13 +293,9 @@ If you play this build we highly recommend learning the <Skill name="Bane Signet
 | ----------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | [<Specialization name="Firebrand" disableLink/>](/builds/guardian/seraph-firebrand) | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> |
 
-The **<Specialization text="Seraph Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable. 
+The **<Specialization text="Seraph Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
 
- It plays very similar to <BuildLink build="Condi Firebrand" specialization="Firebrand"/>, except that the damage output is significantly lowered due to slotting the Honor trait line. 
+It plays very similar to <BuildLink build="Condi Firebrand" specialization="Firebrand"/>, except that the damage output is significantly lowered due to slotting the Honor trait line.
 
- The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option than Seraph for raids and strikes. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/>.
+The general idea of this build is to leverage the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. It then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage. There are three variants shown below; a Seraph variant, Celestial variant and a Celestial Heal variant. The Seraph Variant is a more offensive build and offers the most damage. The Celestial variant is slightly less damage but also a better option than Seraph for raids and strikes. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/>.
 </Card>
-
-<Divider text="What now?"/>
-
-### Read about the basics of fractals as in group compositions and instabilities [here](/guides/fractal-basics) or taking a look at how to break the Defiance bar [here!](/guides/cc-distribution)

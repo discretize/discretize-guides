@@ -205,6 +205,3 @@ One of the biggest difference is, that they don't always understand how their ac
 Another difference is that PuGs often claim, that CC is solely the job of the <Specialization name="Renegade"/>. That is not true since <Specialization name="Renegade"/> can only knock out **about half** of the bars. CC is a group effort involving **all** party members, **EVEN IN CONDI COMPS!**
 
 Many PuGs like to play <Specialization name="Firebrand"/> or <Specialization name="Scourge"/>. That is just fine as you don't know what to expect of your fellow PuG mates and you prefer to be self-sufficient. But please dont be afraid to run more supportive skills such as <Skill name="Sanctuary"/> or <Skill name="Spectral Grasp"/>! It is more worth it than the +500 DPS you gain from having a minor dps utility instead.
-
-<Divider text="What now?"/>
-### If you do not know what to play yet we can help you with very basic description of the classes [here](/guides/what-should-i-play) or if you already read that we recommend reading how you can utilize the Defiance bar by breaking it [here!](/guides/cc-distribution)
