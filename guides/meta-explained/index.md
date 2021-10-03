@@ -1,6 +1,6 @@
 ---
 title: Meta explained
-date: 2021-09-18T14:23:31.881Z
+date: 2021-10-03T16:10:17.114Z
 sections: []
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
@@ -56,6 +56,7 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 
 <Tabs>
 <Tab specialization="Renegade">
+
 * Provides permanent <Boon name="Alacrity"/> and around 10 stacks of <Boon name="Might"/>.
 * Deals a large amount of CC through <Skill name="Darkrazors Daring"/> and <Skill name="Scorchrazor"/>
 * Deals a good amount of damage, coming close or beating other classes on some encounters
@@ -65,6 +66,7 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 </Tab>
 
 <Tab specialization="Firebrand">
+
 * Provides permanent <Boon name="Quickness"/>, on demand <Boon name="Aegis"/>, <Boon name="Resistance"/> and some <Boon name="Might"/>.
 * Generates a fair share of <Boon name="Fury"/> by <Skill name="Feel my wrath"/> and the sword symbol <Skill name="Symbol of Vengeance"/>.
 * Deals a decent amount of DPS with reasonable burst. Also by playing two <Specialization name="Firebrand"/> you can run <Trait name="Legendary Lore"/> for even more damage while still maintaining <Boon name="Quickness"/>.
@@ -76,6 +78,7 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 </Tab>
 
 <Tab specialization="Soulbeast">
+
 * Deals high damage, especially on encounters with longer phases such as Ensloyss and 100CM. 
 * Provides strong party DPS boosts through <Skill name="vulture stance"/> while also helping with <Boon name="Might"/> generation. 
 * Provides a unique damage modifier with <Skill name="sun spirit"/>
@@ -85,6 +88,7 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>
 </Tab>
 <Tab specialization="Deadeye">
+
 * Currently both <Specialization name="Daredevil" text="Condi Daredevil"/> and <Specialization name="Deadeye" text="Condi Deadeye"/> are viable options.
 * Both builds have the highest burst of any condi class in the game
 * Provides strong party dps buffs through <Skill name="Spider Venom"/> and <Skill name="Skale Venom"/>.
