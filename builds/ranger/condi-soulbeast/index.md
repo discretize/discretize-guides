@@ -6,6 +6,7 @@ sections:
     content: >-
       <Warning>
 
+
       This build is [META](/guides/meta-explained) in full condi groups. In power groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
 
       </Warning>
@@ -379,7 +380,7 @@ conditions:
   - Bleeding
   - Poisoned
   - Burning
-code: "[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 date: 2021-10-03T12:22:28.674Z
 benchmark:
