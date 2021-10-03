@@ -5,6 +5,7 @@ sections:
     content: >-
       <Warning>
 
+
       This build performs best in [Sunqua Peak](/fractals/sunqua-peak). Outside of this fractal, it will fall behind <BuildLink build="Power Weaver" specialization="Weaver"/> due to its fairly slower damage ramp-up.
 
       </Warning>
@@ -198,6 +199,7 @@ sections:
 
       </Warning>
 
+
       | | |
 
       | -- | -- |
@@ -250,7 +252,7 @@ conditions:
   - Crippled
   - Bleeding
   - Chilled
-code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 3
@@ -297,11 +299,14 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 
 <GridItem xs="12" sm="6">
+
 <Card title="Rotation during Weave Self">
+
+<Grid>
 <GridItem sm="3">
 <Skill name="Air Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Weave Self"/>
 2. <Skill name="Signet of Fire"/>
@@ -313,7 +318,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Flame Uprising"/>
 2. <Skill name="Pyro Vortex"/>
@@ -323,7 +328,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Transmute Fire"/>
 2. <Skill name="Cauterizing Strike"/>
@@ -334,7 +339,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Lava Skin"/>
 2. <Skill name="Earthen Vortex"/>
@@ -344,7 +349,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Rust Frenzy"/>
 
@@ -353,7 +358,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Flame Uprising"/>
 2. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> =>
@@ -363,7 +368,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Searing Slash"/>
 2. <Skill name="Transmute Fire"/>
@@ -374,7 +379,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Pyro Vortex"/>
 
@@ -383,7 +388,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Flame Uprising"/>
 
@@ -392,7 +397,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Cauterizing Strike"/>
 2. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> =>
@@ -402,7 +407,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Searing Slash"/>
 2. <Skill name="Transmute Fire"/>
@@ -414,7 +419,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Water Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Natural Frenzy"/>
 2. <Skill name="Magnetic Wave"/>
@@ -424,7 +429,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Water Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Flame Uprising"/>
 2. <Skill name="Signet of Fire"/>
@@ -436,7 +441,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Transmute Fire"/>
 2. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
@@ -444,10 +449,14 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 4. <Skill name="Flame Uprising"/>
 
 </GridItem>
+</Grid>
+
 </Card>
 
 </GridItem>
+
 <GridItem xs="12" sm="6">
+
 <Card title="Golem Rotation">
 <Video youtube="H5ZyMQln6hw" caption="by Roul [SC]" />
 </Card>
@@ -466,16 +475,15 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 
 </Card>
 </GridItem>
-</Grid>
 
-<Grid>
 <GridItem xs="12" sm="6">
 <Card title="Rotation out of Weave Self">
 
+<Grid>
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Lava Skin"/>
 2. <Skill name="Earthen Vortex"/>
@@ -488,7 +496,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Signet of Fire"/>
 2. <Skill name="Rust Frenzy"/>
@@ -499,7 +507,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Crystalline Sunder"/>
 2. <Skill name="Flame Uprising"/> + <Skill name="Magnetic Wave"/>
@@ -510,7 +518,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Transmute Fire"/>
 2. <Skill name="Cauterizing Strike"/>
@@ -522,7 +530,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Signet of Fire"/>
 2. <Skill name="Pyro Vortex"/>
@@ -535,7 +543,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
 2. <Skill name="Flame Uprising"/>
@@ -546,7 +554,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Searing Slash"/>
 2. <Skill name="Lava Skin"/>
@@ -559,7 +567,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Signet of Fire"/> + <Skill name="Magnetic Wave"/>
 2. <Skill name="Rust Frenzy"/>
@@ -570,7 +578,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Crystalline Sunder"/>
 2. <Skill name="Flame Uprising"/>
@@ -581,7 +589,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Transmute Fire"/>
 2. <Skill name="Flamewall"/>
@@ -594,7 +602,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Signet of Fire"/>
 2. <Skill name="Pyro Vortex"/>
@@ -606,7 +614,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
 2. <Skill name="Flame Uprising"/>
@@ -617,13 +625,15 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="3">
 <Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
-<GridItem sm="10">
+<GridItem sm="9">
 
 1. <Skill name="Searing Slash"/>
 2. <Skill name="Lava Skin"/>
 3. <Skill name="Earthen Vortex"/>
 
 </GridItem>
+</Grid>
+
 </Card>
 </GridItem>
 </Grid>
