@@ -1,5 +1,5 @@
 ---
-title: Meta explained
+title: Meta
 date: 2021-09-18T14:23:31.881Z
 sections: []
 image: ./images/preview.png
