@@ -20,7 +20,8 @@ sections:
   - type: null
     title: Equipment
     content: >-
-      <CharacterWithAr> 
+      <CharacterWithAr>  
+
       <Character title="162 Agony Resistance" 
                  gear={{ "profession": "Thief",
                   "weight":"Medium", "gear":[
@@ -116,15 +117,20 @@ sections:
                   "elite": "Shadow Meld"
                 } 
               }}
-      > 
+      >  
+
+
       Note that there are two slightly different variants of this build: one is meant for bosses with very short phases such as Ensolyss or Light Ai; the other one is meant for longer fights, where you will need to sustain damage for a longer period of time. This will also depend on your group. It will always be better to use the first variant with people you do not know well, or in situations where your party doesn't bring enough damage.
 
       <Item name="afflicted"/> is a viable, more accessible alternative.
 
       If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
 
-      Shortbow for additional movement during downtime and <Item name="doom"/> precasts, as well as <Boon name="might"/> blasts on the _Mistlock Singularity_. You will also want a Pistol with <Item id="24639"/> to help CC during Artsariiv splits.
-      </Character> 
+      Shortbow for additional movement during downtime and <Item name="doom"/> precasts, as well as <Boon name="might"/> blasts on the _Mistlock Singularity_. You will also want a Pistol with <Item id="24639"/> to help CC during Artsariiv splits. 
+
+
+      </Character>  
+
       </CharacterWithAr>
   - type: mdx
     title: Build
@@ -277,10 +283,10 @@ conditions:
   - Poisoned
   - Bleeding
   - Torment
-code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 character: []
-date: 2021-09-24T23:38:36.712Z
+date: 2021-10-03T12:19:56.299Z
 benchmark:
   small:
     dps: 40094

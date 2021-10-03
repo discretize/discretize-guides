@@ -136,6 +136,7 @@ sections:
               }}
       > 
 
+
       Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
 
       You will want the following weapons to swap to durning fractal runs:
@@ -145,6 +146,7 @@ sections:
       - A staff for <Boon name="Might"/> pre-stacking. 
 
       - If you have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>. 
+
 
       </Character> 
 
@@ -356,7 +358,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 4
@@ -367,7 +369,7 @@ compositions:
   - name: _CRGB
 hasCMGuide: false
 character: []
-date: 2021-09-24T19:19:58.770Z
+date: 2021-10-03T12:25:49.308Z
 benchmark:
   small:
     dps: 36732

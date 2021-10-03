@@ -122,7 +122,9 @@ sections:
                 } 
               }}
       > 
+
       You will be crit-capped in <Skill name="Reapers Shroud"/>. 
+
       </Character> 
       </CharacterWithAr>
   - type: mdx
@@ -212,7 +214,7 @@ sections:
       </Grid>
 rating: Good
 role: Power Damage
-author: 'Discord: Jes#6596'
+author: "Discord: Jes#6596"
 profession: Necromancer
 specialization: Reaper
 skills:
@@ -228,7 +230,7 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 classification:
   - 1
@@ -237,7 +239,7 @@ classification:
   - 2
   - 3
 character: []
-date: 2021-09-24T22:37:41.704Z
+date: 2021-10-03T12:24:43.882Z
 benchmark:
   small:
     dps: 34302

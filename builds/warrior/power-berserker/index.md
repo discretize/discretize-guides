@@ -17,7 +17,8 @@ sections:
       Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
   - title: Equipment
     content: >-
-      <CharacterWithAr>
+      <CharacterWithAr> 
+
       <Character title="162 Agony Resistance + Scholar Rune" gear={{
         "profession": "warrior",
         "gear": [
@@ -120,13 +121,14 @@ sections:
           "utility3": "Banner of Discipline",
           "elite": "Head Butt"
         }
-      }}>
-      This build is future proof for upgrading to higher <Attribute name="Agony
-      Resistance"/> later without overwriting runes. However, most people would
-      profit more from the <Item name="eagle" text="Eagle"/> rune build due to
-      not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait
-      name="Spotter"/> assumed.
-      </Character>
+      }}> 
+
+
+      This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed. 
+
+
+      </Character> 
+
       <Character title="162 Agony Resistance + Eagle Rune" gear={{
         "profession": "warrior",
         "gear": [
@@ -235,10 +237,13 @@ sections:
           "utility3": "Banner of Discipline",
           "elite": "Head Butt"
         }
-      }}>
-      Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute
-      name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
-      </Character>
+      }}> 
+
+
+      Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed. 
+
+      </Character> 
+
       <Character gear={{
         "profession": "warrior",
         "gear": [
@@ -341,10 +346,13 @@ sections:
           "utility3": "Banner of Discipline",
           "elite": "Head Butt"
         }
-      }}>
-      Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute
-      name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
-      </Character>
+      }}> 
+
+
+      Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
+
+      </Character> 
+
       </CharacterWithAr>
   - type: mdx
     title: Build
@@ -529,9 +537,13 @@ traits:
 conditions:
   - Vulnerability
 boons:
-  - { name: Quickness, uptime: '50%', variant: 'self' }
-  - { name: Might, uptime: '12 stacks', variant: 'party' }
-code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
+  - name: Quickness
+    uptime: 50%
+    variant: self
+  - name: Might
+    uptime: 12 stacks
+    variant: party
+code: "[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 classification:
   - 4
@@ -539,7 +551,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2021-09-18T20:50:43.237Z
+date: 2021-10-03T12:20:55.402Z
 ---
 
 <Divider text="Rotation / Skill usage"/>

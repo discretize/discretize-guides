@@ -33,7 +33,8 @@ sections:
   - type: null
     title: Equipment
     content: >-
-      <CharacterWithAr> 
+      <CharacterWithAr>  
+
       <Character title="162 Agony Resistance" 
                  gear={{ "profession": "Necromancer",
                   "weight":"Light", "gear":[
@@ -132,14 +133,18 @@ sections:
                   "elite": "Plaguelands"
                 } 
               }}
-      > 
-      Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value.
-      Situational Runes:  
+      >  
+
+
+      Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. Situational Runes:  
 
       - <Item id="83502" /> works best for using and utilizing <Skill name="Epidemic" />, as its damage will be maximized with this rune. Note that you will have a loss of condition duration with this rune choice.  
 
-      - <Item id="44956" /> provides a large boost to personal survivability on top of your barrier generation at the cost of a minor DPS loss.  
-      </Character> 
+      - <Item id="44956" /> provides a large boost to personal survivability on top of your barrier generation at the cost of a minor DPS loss.   
+
+
+      </Character>  
+
       </CharacterWithAr>
   - type: mdx
     title: Build
@@ -211,7 +216,7 @@ sections:
   - type: mdx
     title: Further Information
     content: >-
-
+      
 
       <Grid>
 
@@ -266,7 +271,7 @@ sections:
       </Grid>
 rating: Good
 role: Condi Damage
-author: 'Discord: Amerikajinn#9784'
+author: "Discord: Amerikajinn#9784"
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -285,7 +290,7 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 classification:
   - 2
@@ -294,7 +299,7 @@ classification:
   - 2
   - 3
 character: []
-date: 2021-09-24T22:31:52.483Z
+date: 2021-10-03T12:24:10.537Z
 benchmark:
   small:
     dps: 37044

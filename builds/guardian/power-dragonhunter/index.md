@@ -20,7 +20,8 @@ sections:
       It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
   - title: Equipment
     content: >-
-      <CharacterWithAr> 
+      <CharacterWithAr>  
+
       <Character title="162 Agony Resistance" 
                  gear={{ "profession": "Guardian",
                   "title":"222 Ar", "weight":"Heavy", "gear":[
@@ -117,9 +118,14 @@ sections:
                   "elite": "Dragons Maw"
                 } 
               }}
-      > 
-      If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>. You need at least  <Attribute name="Agony Resistance" text="203 Agony Resistance"/> to compensate the lacking <Attribute name="Precision"/>.   It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.  
-      </Character> 
+      >  
+
+
+      If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>. You need at least  <Attribute name="Agony Resistance" text="203 Agony Resistance"/> to compensate the lacking <Attribute name="Precision"/>.   It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.   
+
+
+      </Character>  
+
       <Character title="203 Agony Resistance" gear={{
         "profession": "Guardian",
         "gear": [
@@ -222,9 +228,14 @@ sections:
           "utility3": "Bane Signet",
           "elite": "Dragons Maw"
         } 
-      }}> 
+      }}>  
+
+
       It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>. 
-      </Character> 
+
+
+      </Character>  
+
       </CharacterWithAr>
   - title: Build
     content: >-
@@ -312,7 +323,7 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 classification:
   - 3
@@ -320,7 +331,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2021-09-24T19:36:37.920Z
+date: 2021-10-03T12:26:34.080Z
 ---
 
 <Divider text="Details"/>

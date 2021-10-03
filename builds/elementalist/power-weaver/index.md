@@ -20,7 +20,8 @@ sections:
   - type: null
     title: Equipment
     content: >-
-      <CharacterWithAr> 
+      <CharacterWithAr>  
+
       <Character title="162 Agony Resistance" 
                  gear={{ "profession": "Elementalist",
                   "weight":"Light", "gear": [
@@ -122,8 +123,17 @@ sections:
                 } 
       }}
 
-      >If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+      >
+
+
+      If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+
       </Character> 
+
       <Character title="222 Agony Resistance" 
                  gear={{ "profession": "Elementalist",
                   "weight":"Light", "gear": [
@@ -223,8 +233,13 @@ sections:
           "utility3": "Arcane Blast",
           "elite": "Conjure Fiery Greatsword"
         } 
-      }}> You need Fractal God, <Item id="86175"/> and 18 +9 Agony Infusion!  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+      }}> 
+
+
+      You need Fractal God, <Item id="86175"/> and 18 +9 Agony Infusion!  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants! 
+
       </Character> 
+
       <Character title="245 Agony Resistance" 
                  gear={{ "profession": "Elementalist",
                   "weight":"Light", "gear": [
@@ -324,9 +339,17 @@ sections:
           "utility3": "Arcane Blast",
           "elite": "Conjure Fiery Greatsword"
         } 
-      }}> 
-      You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"/>, the rest is Mighty +9 Agony Infusion! **You get +5 Agony Resistance to cap critical chance from _Mistlock Singularity_.**  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer) for more gear variants!
+      }}>  
+
+
+      You need Fractal God, one ring with 3 x +15 Agony Resistance, a <Item id="70596"/>, the rest is Mighty +9 Agony Infusion! **You get +5 Agony Resistance to cap critical chance from _Mistlock Singularity_.**  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>. 
+
+
+      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer) for more gear variants!
+
+
       </Character> 
+
       </CharacterWithAr>
   - type: mdx
     title: Build
@@ -462,7 +485,7 @@ conditions:
   - Burning
   - Chilled
   - Vulnerability
-code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: true
 classification:
   - 4
@@ -471,7 +494,7 @@ classification:
   - 3
   - 4
 character: []
-date: 2021-09-24T23:40:58.789Z
+date: 2021-10-03T12:29:55.649Z
 ---
 
 <Divider text="Rotation / Skill usage"/>

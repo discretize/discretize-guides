@@ -124,7 +124,8 @@ sections:
               }}
       > 
 
-      Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+      Note that  this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
       </Character> 
 

@@ -21,7 +21,8 @@ sections:
   - type: null
     title: Equipment
     content: >-
-      <CharacterWithAr> 
+      <CharacterWithAr>  
+
       <Character title="80% Boon Duration 162 Agony Resistance" 
                  gear={{ "profession": "Revenant",
                   "weight":"Heavy", "gear":[
@@ -116,11 +117,15 @@ sections:
                 } 
               }}
       > 
+
+
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
       Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
-      </Character> 
+
+      </Character>  
+
       <Character title="50% Boon Duration 162 Agony Resistance" 
                  gear={{ "profession": "Revenant",
                   "weight":"Heavy", "gear":[
@@ -214,12 +219,16 @@ sections:
                   "legend2": "legendaryrenegadestance"
                 } 
               }}
-      > 
+      >  
+
+
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
       Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
-      </Character> 
+
+      </Character>  
+
       <Character title="80% Boon Duration 222 Agony Resistance" 
                  gear={{ "profession": "Revenant",
                   "weight":"Heavy", "gear":[
@@ -313,12 +322,15 @@ sections:
                   "legend2": "legendaryrenegadestance"
                 } 
               }}
-      > 
+      >  
+
+
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
       Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
-      </Character> 
+      </Character>  
+
       <Character title="50% Boon Duration 222 Agony Resistance" 
                  gear={{ "profession": "Revenant",
                   "weight":"Heavy", "gear":[
@@ -412,12 +424,15 @@ sections:
                   "legend2": "legendaryrenegadestance"
                 } 
               }}
-      > 
+      >  
+
+
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
       Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
-      </Character>
+      </Character> 
+
       </CharacterWithAr>
   - type: mdx
     title: Build
@@ -789,9 +804,9 @@ compositions:
   - name: _Rainbow
   - name: _Rainbearbow
   - name: _RGB
-code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
+code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
 character: []
-date: 2021-09-24T23:31:52.273Z
+date: 2021-10-03T12:19:18.334Z
 hasCMGuide: true
 benchmark:
   large:

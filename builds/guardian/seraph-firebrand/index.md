@@ -21,7 +21,9 @@ sections:
   - type: null
     title: Equipment
     content: >-
-      <CharacterWithAr> <Character title="Celestial 162 Agony Resistance" 
+      <CharacterWithAr> 
+
+      <Character title="Celestial 162 Agony Resistance" 
                  gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
                   "Celestial",
@@ -119,8 +121,12 @@ sections:
               }}
       > 
 
+
       **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower Agony Resistance (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>). If you have higer Agony Resistance but dont want to play Seraph you can swap to <Item id="24765"/> and replace your <Item id="24624"/> with <Item id="24560"/> for some more damage (this will start to overcap on <Condition name="Burning"/> duration, so you will also need some Seraph pieces).**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!  
-      </Character> 
+
+
+      </Character>  
+
       <Character title="Seraph 203 Agony Resistance"
                   gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
@@ -216,10 +222,15 @@ sections:
                   "utility3": "Sanctuary",
                   "elite": "Feel my Wrath"
                 } 
-              }}> 
-              **This is the standard build variant for high Agony Resistance. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
-              </Character> 
-              <Character title="Celestial Heal 162 Agony Resistance"
+              }}
+      > 
+
+
+      **This is the standard build variant for high Agony Resistance. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
+              
+      </Character>  
+
+      <Character title="Celestial Heal 162 Agony Resistance"
                   gear={{ "profession": "Guardian",
                   "weight":"Heavy", "gear":[
                   "Celestial",
@@ -315,10 +326,15 @@ sections:
                   "elite": "Feel my Wrath"
                 } 
               }}
-              > 
-              **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
-              </Character> 
-              </CharacterWithAr>
+      >
+
+
+      **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**  Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
+
+
+      </Character> 
+
+      </CharacterWithAr>
   - type: mdx
     title: Build
     content: >-
@@ -424,8 +440,7 @@ sections:
       As you will have seen from the equipment, Celestial/Seraphbrand has many variations you can use to adapt to your needs. Here is a brief overview of the common Attribute types, Runes, Sigils and Consumables that are used when gearing Celestial and Seraph variants. As mentioned above you can use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) to help calculate what gear will be best, but in general remember you want to aim for 100% <Condition name="Burning"/> duration and at least 60% <Boon name="Quickness"/> duration to allow you to play <Trait name="LEgendary Lore"/>!
 
 
-      <Grid>
-      <GridItem>
+      <Grid> <GridItem>
 
 
       ### Attributes
@@ -518,8 +533,7 @@ sections:
 
       - <Item id="67528"/>
         
-      </GridItem>
-      </Grid>
+      </GridItem> </Grid>
 
       </Card>
   - type: mdx
@@ -653,7 +667,7 @@ skills:
   - 9093
 conditions:
   - Burning
-code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 classification:
   - 4
@@ -662,7 +676,7 @@ classification:
   - 3
   - 4
 character: []
-date: 2021-09-24T15:44:47.262Z
+date: 2021-10-03T12:27:44.641Z
 ---
 
 <Divider text="Rotation"/>

@@ -26,7 +26,8 @@ sections:
   - type: null
     title: Equipment
     content: >-
-      <CharacterWithAr> 
+      <CharacterWithAr>  
+
       <Character gear={{ "profession": "Mesmer",
                   "weight":"Light", "gear":[
                   "Berserker",
@@ -122,8 +123,11 @@ sections:
                   "elite": "Signet of Humility"
                 } 
               }}
-      > 
+      >  
+
+
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
 
       This is a budget variant, aim for at least 212 Agony Resistance.
 
@@ -131,7 +135,9 @@ sections:
 
       If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-      </Character> 
+
+      </Character>  
+
       <Character gear={{ "profession": "Mesmer",
                   "weight":"Light", "gear":[
                   "Berserker",
@@ -227,12 +233,17 @@ sections:
                   "elite": "Signet of Humility"
                 } 
               }}
-      > 
+      >  
+
+
       If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
 
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
-      </Character> 
+
+      </Character>  
+
       <Character gear={{ "profession": "Mesmer",
                   "weight":"Light", "gear":[
                   "Berserker",
@@ -328,12 +339,17 @@ sections:
                   "elite": "Signet of Humility"
                 } 
               }}
-      > 
+      >  
+
+
       If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
 
       Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
+
       </Character> 
+
       </CharacterWithAr>
   - type: mdx
     title: Build
@@ -527,7 +543,7 @@ sections:
       </Grid>
 rating: Good
 role: Power Damage
-author: 'Discord: [CnD] Tipcat#0698'
+author: "Discord: [CnD] Tipcat#0698"
 profession: Mesmer
 specialization: Chronomancer
 skills:
@@ -546,7 +562,7 @@ conditions:
   - Poisoned
   - Blinded
   - Slow
-code: '[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 classification:
   - 2
@@ -555,7 +571,7 @@ classification:
   - 3
   - 4
 character: []
-date: 2021-09-24T20:23:14.068Z
+date: 2021-10-03T12:25:28.281Z
 ---
 
 <Divider text="Rotation / Skill usage"/>
