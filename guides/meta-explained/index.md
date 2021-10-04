@@ -1,6 +1,6 @@
 ---
 title: Meta
-date: 2021-09-18T14:23:31.881Z
+date: 2021-10-04T08:57:21.733Z
 sections: []
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
@@ -101,7 +101,9 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 
 ### <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/>
 
-This comp is used when parties want to go for some faster boss kills and would like a run requiring more co-ordination. It brings insanely high burst with lots of CC, whilst still being a safe pick for consistant daily clears. In addition although we often chose to play <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/>, it is very easy to replace with a different class. Classes such as <BuildLink build="Power Weaver" specialization="Weaver"/>, <BuildLink build="Power Berserker" specialization="Berserker"/> and <BuildLink build="Power Holosmith" specialization="Holosmith"/> are all great picks! Read below to see why each class is taken;
+This comp is used when parties want to go for some faster boss kills and would like a run requiring more co-ordination. It brings insanely high burst with lots of CC, whilst still being a safe pick for consistant daily clears. In addition although we often chose to play <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/>, it is very easy to replace with a different class. Classes such as <BuildLink build="Power Weaver" specialization="Weaver"/>, <BuildLink build="Power Berserker" specialization="Berserker"/> and <BuildLink build="Power Holosmith" specialization="Holosmith"/> are all great picks! Read below to see why each class is taken.
+
+
 <Tabs>
 <Tab specialization="Renegade">
 
@@ -114,9 +116,11 @@ This comp is used when parties want to go for some faster boss kills and would l
 - If <Instability name="No Pain, No Gain"/> or <Instability name="Vengeance"/> instability is present it can strip boons with <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon stance"/>).
 
 <BuildLink build="Power Renegade" specialization="Renegade"/>
+
 </Tab>
 
 <Tab specialization="Firebrand">
+
 * Provides permanent <Boon name="Quickness"/>, on demand <Boon name="Aegis"/> and <Boon name="Resistance"/>.
 * Generates a fair share of <Boon name="Fury"/> by <Skill name="Feel my wrath"/> and the sword symbol <Skill name="Symbol of Blades"/>.
 * Contributes to CC with <Skill name="banesignet"/>, which is also a **unique damage buff** that increases the entire group's power by 216. 
@@ -126,9 +130,11 @@ This comp is used when parties want to go for some faster boss kills and would l
 * Can provide situational <Boon name="Stability"/> for T4s or Artsariiv using <Skill name="Stand your ground"/>.
 
 <BuildLink build="Power Firebrand" specialization="Firebrand"/>
+
 </Tab>
 
 <Tab specialization="Dragonhunter">
+
 * Generates a fair share of <Boon name="Fury"/> by <Skill name="Feel my wrath"/> and the sword symbol <Skill name="Symbol of Blades"/>.
 * Contributes to CC with <Skill name="banesignet"/>, which is also a **unique damage buff** that increases the entire group's power by 216. 
 * Has a high burst with a reasonably short cooldown. Also by prestacking symbols and traps before the fight you can increase your burst a massive amount and destroy any other DPS class out there.
@@ -138,9 +144,11 @@ This comp is used when parties want to go for some faster boss kills and would l
 * If you want to play a different DPS class, this can be swapped out relatively easily.
 
 <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/>
+
 </Tab>
 
 <Tab specialization="Soulbeast">
+
 * Contributes to CC with <Skill id="45743"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>.
 * Provides the strongest unique temporary DPS boost, <Skill name="onewolfpack"/>, which helps to meet DPS checks. 
 * Provides a unique 5% damage modifier with <Skill name="frost spirit"/>
@@ -148,6 +156,7 @@ This comp is used when parties want to go for some faster boss kills and would l
 * Allows the team to <Effect name="Stealth"/> in T4s due to the smoke field from the <Skill id="31568" disableText/> [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) pet.
 
 <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>
+
 </Tab>
 </Tabs>
 
