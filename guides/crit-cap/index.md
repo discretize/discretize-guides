@@ -3,7 +3,6 @@ title: 'Crit Cap'
 date: '2021-07-20'
 image: './images/crit.png'
 description: 'Learn how to achieve crit cap on various Guild Wars 2 professions.'
-hidden: 'false'
 ---
 
 ## Reasoning
@@ -19,14 +18,17 @@ From the above equation, it follows that **2995 Precision** is enough to reach 1
 You can subtract the following values in general:
 
 - **1000 base Precision** at level 80
+
 - 20% Critical Chance from **<Boon name="Fury"/>** (= **420 Precision**)
+
 - In groups with a <Specialization name="Berserker"/>: **100 Precision** from **<Skill name="Banner of Discipline"/>**
+
 - In groups with a <Specialization name="Druid"/> or <Specialization name="Soulbeast"/>: **100 Precision** from **<Trait name="Spotter"/>**
 
 Which brings it down to **1475 Precision** or **1375 Precision** required (with <Trait name="Spotter"/>).
 
 Apart from that, the <Item id="79722"/> grants Precision, Concentration and Toughness as high as `1.5 * Agony Resistance`.  
-So **with 150 AR you'd receive 225 additional Precision**.
+So **with 150 Agony Resistance you'd receive 225 additional Precision**.
 
 Now we only need **1250 Precision** (without <Trait name="Spotter"/>) or **1150 Precision** (with <Trait name="Spotter"/>) to achieve 100% Critical Chance (`2995 - 1000 - 420 - 100 - 225` and `-100`)!  
 We have two options to accomplish that - via items or skills/traits.
@@ -85,7 +87,7 @@ Below are some popular trait choices to push Critical Chance.
 | ------------------------------------- | ---------------- | ----------------------------------- | ----------------------------------------------------------- | --------------- | ---------- |
 | <Specialization name="Elementalist"/> | Weaver           | <Trait name="Superior Elements"/>   | Target must have <Condition name="Weakness"/>               | 10%             | 210        |
 | <Specialization name="Guardian"/>     | Radiance         | <Trait name="Radiant Power"/>       | Target must have <Condition name="Burning"/>                | 10%             | 210        |
-| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Righteous Instincts"/> | Player must have <Boon name="Resolution"/>                 | 25%             | 525        |
+| <Specialization name="Guardian"/>     | Radiance         | <Trait name="Righteous Instincts"/> | Player must have <Boon name="Resolution"/>                  | 25%             | 525        |
 | <Specialization name="Guardian"/>     | Radiance         | <Trait name="Right-Hand Strength"/> | -                                                           | 3.8%            | 80         |
 | <Specialization name="Ranger"/>       | Skirmishing      | <Trait name="Hunters Tactics"/>     | Player must hit from behind or the side                     | 10%             | 210        |
 | <Specialization name="Ranger"/>       | Skirmishing      | <Trait name="Vicious Quarry"/>      | Player must have <Boon name="Fury"/>                        | 10%             | 210        |
