@@ -1,40 +1,48 @@
 ---
-title: 'Uncategorized'
-date: '2021-06-01'
-image: './images/header.jpg'
-group: 'T4'
+potions:
+  - id: 8887
+    description: for Old Tom and the Raving Asura
+sections: []
+cycle: Day
+date: 2021-10-05T09:11:03.407Z
+consumables:
+  - 78978
+  - 49940
+  - 8764
+  - 8801
+record:
+  time: 2:14
+  by:
+    - name: Lucky Noobs
+      tag: LN
+  youtube:
+    - id: CipdjbelW-0
+      name: Nightmare
+      specialization: Chronomancer
+    - id: iwpSxdqcdyY
+      name: CopyThisStatic
+      specialization: Firebrand
+    - id: rgh5tnrg29o
+      name: Runitdown
+      specialization: Berserker
+    - id: BHXFkdm3TFY
+      name: Inam
+      specialization: Renegade
+title: Uncategorized
+image: ./images/header.jpg
+group: T4
 api: 2939
 bosses: 3
-difficulties: [{ level: 79, ar: 113 }, { level: 91, ar: 134 }]
-record:
-  {
-    time: '2:14',
-    by: [{ name: 'Lucky Noobs', tag: 'LN' }],
-    youtube:
-      [
-        {
-          id: 'CipdjbelW-0',
-          name: 'Nightmare',
-          specialization: 'Chronomancer',
-        },
-        {
-          id: 'iwpSxdqcdyY',
-          name: 'CopyThisStatic',
-          specialization: 'Firebrand',
-        },
-        { id: 'rgh5tnrg29o', name: 'Runitdown', specialization: 'Berserker' },
-        { id: 'BHXFkdm3TFY', name: 'Inam', specialization: 'Renegade' },
-      ],
-  }
-cycle: 'Day'
-potions: [{ id: 8887, description: 'for Old Tom and the Raving Asura' }]
+difficulties:
+  - level: 79
+    ar: 113
+  - level: 91
+    ar: 134
 sigils:
-  [
-    { id: 24868 },
-    { id: 24615 },
-    { id: 24672, description: 'for Old Tom and the Raving Asura' },
-  ]
-consumables: [78978, 49940, 8764, 8801]
+  - id: 24868
+  - id: 24615
+  - id: 24672
+    description: for Old Tom and the Raving Asura
 ---
 
 <Grid>
@@ -46,15 +54,15 @@ consumables: [78978, 49940, 8764, 8801]
 
 **Option 2:** Anyone with a <Item id="78978"/> skips alone and teleports the team to the holding area.
 
-**Option 3:** Proceed as a group and either kill the Harpies or skip them. <Boon name="Aegis"/> and <Boon name="Stability"/> helps a lot; you can also reflect all of the attacks.
+**Option 3:** Proceed as a group and either kill the Harpies or skip them. <Boon name="Aegis"/> and <Boon name="Stability"/> helps a lot. All of the harpie attacks classify as projectiles and therefore can be reflected.
 
 ## Holding Area
 
-Stack <Boon name="Might"/> while destroying the _Power Generator_, then stack in the structure on the left side of the room and let the adds come to you (line of sight).
+Stack <Boon name="Might"/> while destroying the _Power Generator_, then stack in the structure on the left side of the room break line of sight so the adds converge on you.
 
-Then kill the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's _Massive Smash_ attack.
+Proceed with killing the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's _Massive Smash_ attack nor the Fire Shaman's _Dragon Punch_. Both of these abilities deal high amounts of damage and CC in an AoE.
 
-Reflects are strong here as well, especially against the Fire Shaman's projectiles. Well timed <Boon name="Aegis"/> also helps out against the hard hitting Ettin attacks. Try to break the defiance bars to maximize your damage.
+Reflects are strong here as well, especially against the Fire Shaman's projectiles. Well timed <Boon name="Aegis"/>  helps out against the hard hitting Ettin attacks and use of <Boon name="Stability"/> is encouraged to prevent knockbacks from both the Ettin and the Fire Shaman. Try to break the defiance bars to maximize your damage. 
 
 <Tabs>
 <Tab specialization="Weaver">
@@ -64,7 +72,7 @@ If positioned correctly, you can use <Skill id="5697"/> against the wall and dea
 
 <Tab specialization="Berserker">
 
-Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly!
+Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Keep in mind to use <Skill name="Whirlwind Attack"/> against a wall to get all four hits in. The idea is to only swap to axe to use <Skill name="Whirling Axe"/> and then camp greatsword until there is one add remaining. Use your greatsword to cleave down the adds quickly!
 </Tab>
 
 <Tab specialization="Firebrand">
