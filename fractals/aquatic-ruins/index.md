@@ -30,7 +30,9 @@ sigils:
 ---
 
 <Warning>
+
 This is an underwater fractal. Make sure you have appropriate underwater equipment with enough Agony Resistance.
+
 </Warning>
 
 ---
