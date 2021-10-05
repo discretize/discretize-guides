@@ -4,7 +4,7 @@ cycle: Day
 consumables:
   - 49940
 record:
-  time: '3:48'
+  time: 3 min 48 sec
   by:
     - name: Discretize
       tag: dT

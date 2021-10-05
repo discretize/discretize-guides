@@ -1,28 +1,45 @@
 ---
-title: 'Molten Boss'
-date: '2021-02-24'
-image: './images/header.jpg'
-group: 'T4'
+cycle: Day
+potions:
+  - id: 50082
+date: 2021-10-05T12:50:55.575Z
+consumables:
+  - 78978
+  - 49940
+  - 8764
+  - 8801
+title: Molten Boss
+image: ./images/header.jpg
+group: T4
 api: 2966
 bosses: 2
-difficulties: [{ level: 90, ar: 132 }]
-cycle: 'Day'
-potions: [{ id: 50082 }]
-sigils: [{ id: 24615 }, { id: 24868 }]
-consumables: [78978, 49940, 8764, 8801]
+difficulties:
+  - level: 90
+    ar: 132
+sigils:
+  - id: 24615
+  - id: 24868
 record:
-  {
-    time: '4:24',
-    by: [{ name: 'Discretize', tag: 'dT' }],
-    youtube:
-      [
-        { id: '1IwsZyYrjmA', name: 'Metagame', specialization: 'Chronomancer' },
-        { id: 'uS1gDsdXrh8', name: 'Nimajeb', specialization: 'Spellbreaker' },
-        { id: '1DiIqiNB69A', name: 'Hyperiel', specialization: 'Holosmith' },
-        { id: '-0eOZUOaYz8', name: 'Xarlor', specialization: 'Weaver' },
-        { id: 'uOLhW3wIVoU', name: 'Hutselflutsje', specialization: 'Weaver' },
-      ],
-  }
+  time: 4 min 24 sec
+  by:
+    - name: Discretize
+      tag: dT
+  youtube:
+    - id: 1IwsZyYrjmA
+      name: Metagame
+      specialization: Chronomancer
+    - id: uS1gDsdXrh8
+      name: Nimajeb
+      specialization: Spellbreaker
+    - id: 1DiIqiNB69A
+      name: Hyperiel
+      specialization: Holosmith
+    - id: -0eOZUOaYz8
+      name: Xarlor
+      specialization: Weaver
+    - id: uOLhW3wIVoU
+      name: Hutselflutsje
+      specialization: Weaver
 ---
 
 ## Start area <Item id="50082" disableText/>

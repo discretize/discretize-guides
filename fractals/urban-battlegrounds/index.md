@@ -6,7 +6,7 @@ consumables:
   - 8764
   - 8801
 record:
-  time: '4:50'
+  time: '4 min 50 sec'
   by:
     - name: Happens
       tag: hP

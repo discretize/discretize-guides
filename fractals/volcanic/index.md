@@ -8,7 +8,7 @@ bosses: 2
 difficulties: [{ level: 92, ar: 137 }]
 record:
   {
-    time: '3:48',
+    time: '3 min 48 sec',
     by: [{ name: 'Quantify', tag: 'qT' }],
     youtube:
       [{ id: 'un7xbSP-7KI', name: 'Deathly', specialization: 'Chronomancer' }],

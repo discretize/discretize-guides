@@ -8,7 +8,7 @@ bosses: 2
 difficulties: [{ level: 81, ar: 117 }]
 record:
   {
-    time: '3:52',
+    time: '3 min 52 sec',
     by: [{ name: 'Quantify', tag: 'qT' }],
     youtube:
       [

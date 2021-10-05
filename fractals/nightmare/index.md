@@ -17,7 +17,7 @@ consumables:
   - 8801
   - 78978
 record:
-  time: '5:44'
+  time: '5 min 44 sec'
   by:
     - name: Invicta Luna
       tag: iV

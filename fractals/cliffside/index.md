@@ -8,7 +8,7 @@ bosses: 1
 difficulties: [{ level: 94, ar: 140 }]
 record:
   {
-    time: '4:29',
+    time: '4 min 29 sec',
     by: [{ name: 'Happens', tag: 'hP' }],
     youtube:
       [

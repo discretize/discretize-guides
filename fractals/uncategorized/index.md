@@ -11,7 +11,7 @@ consumables:
   - 8764
   - 8801
 record:
-  time: 2:14
+  time: '2 min 14 sec'
   by:
     - name: Lucky Noobs
       tag: LN
@@ -62,7 +62,7 @@ Stack <Boon name="Might"/> while destroying the _Power Generator_, then stack in
 
 Proceed with killing the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's _Massive Smash_ attack nor the Fire Shaman's _Dragon Punch_. Both of these abilities deal high amounts of damage and CC in an AoE.
 
-Reflects are strong here as well, especially against the Fire Shaman's projectiles. Well timed <Boon name="Aegis"/>  helps out against the hard hitting Ettin attacks and use of <Boon name="Stability"/> is encouraged to prevent knockbacks from both the Ettin and the Fire Shaman. Try to break the defiance bars to maximize your damage. 
+Reflects are strong here as well, especially against the Fire Shaman's projectiles. Well timed <Boon name="Aegis"/> helps out against the hard hitting Ettin attacks and use of <Boon name="Stability"/> is encouraged to prevent knockbacks from both the Ettin and the Fire Shaman. Try to break the defiance bars to maximize your damage.
 
 <Tabs>
 <Tab specialization="Weaver">

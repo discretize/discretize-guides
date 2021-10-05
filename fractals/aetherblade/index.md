@@ -8,7 +8,7 @@ bosses: 1
 difficulties: [{ level: 96, ar: 144 }]
 record:
   {
-    time: '3:10',
+    time: '3 min 10 sec',
     by: [{ name: 'Happens', tag: 'hP' }],
     youtube:
       [{ id: 'VkfhMuvB4a0', name: 'Guts', specialization: 'Chronomancer' }],
@@ -32,7 +32,7 @@ sigils:
 <Grid>
 <GridItem sm="8">
 
-You can stack <Effect name="Stealth"/> before entering the water to cheat the exploding mines. Clear the group of *Elite Aetherblades* to open the door.
+You can stack <Effect name="Stealth"/> before entering the water to cheat the exploding mines. Clear the group of _Elite Aetherblades_ to open the door.
 
 <Tabs>
 <Tab specialization="thief">
@@ -175,7 +175,7 @@ If a golem walks through a laser, he powers up and blocks all attacks for a shor
 <Tabs>
 <Tab specialization="revenant">
 
-Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the *Lasers* and *Small Lasers*.
+Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the _Lasers_ and _Small Lasers_.
 </Tab>
 
 <Tab specialization="Warrior">
