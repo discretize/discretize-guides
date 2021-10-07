@@ -543,7 +543,7 @@ sections:
       </Grid>
 rating: Good
 role: Power Damage
-author: "Discord: [CnD] Tipcat#0698"
+author: 'Discord: [CnD] Tipcat#0698'
 profession: Mesmer
 specialization: Chronomancer
 skills:
@@ -562,7 +562,7 @@ conditions:
   - Poisoned
   - Blinded
   - Slow
-code: "[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 classification:
   - 2
@@ -571,6 +571,13 @@ classification:
   - 3
   - 4
 date: 2021-10-03T12:25:28.281Z
+boons:
+  - name: Quickness
+    uptime: 100%
+    variant: self - on demand
+  - name: Might
+    uptime: 25 stacks
+    variant: self - on demand
 ---
 
 <Divider text="Rotation / Skill usage"/>

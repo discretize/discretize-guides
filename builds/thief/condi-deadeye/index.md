@@ -289,6 +289,10 @@ conditions:
 code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: false
 date: 2021-10-03T12:19:56.299Z
+boons:
+  - name: Might
+    uptime: 3 stacks
+    variant: party - situational
 ---
 
 <Divider text="Rotation / Skill usage"/>

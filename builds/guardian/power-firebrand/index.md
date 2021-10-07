@@ -1,5 +1,5 @@
 ---
-title: Power Firebrand
+title: Power Quickness Firebrand
 sections:
   - type: mdx
     title: Overview
@@ -452,6 +452,13 @@ classification:
   - 2
   - 4
 date: 2021-10-03T12:36:20.229Z
+boons:
+  - name: Quickness
+    uptime: 100%
+    variant: group
+  - name: Might
+    uptime: 2 stacks
+    variant: group
 ---
 
 <Divider text="Rotation / Skill Usage"/>

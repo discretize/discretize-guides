@@ -793,6 +793,19 @@ classification:
   - 3
   - 4
 date: 2021-10-03T16:36:57.362Z
+boons:
+  - name: Quickness
+    uptime: 100%
+    variant: group
+  - name: Might
+    uptime: 23 stacks
+    variant: group
+  - name: Stability
+    uptime: on demand
+    variant: group
+  - name: Aegis
+    uptime: on demand
+    variant: group
 ---
 
 <Divider text="Rotation"/>

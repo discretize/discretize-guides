@@ -325,7 +325,7 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-code: "[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 3
@@ -334,6 +334,16 @@ classification:
   - 2
   - 4
 date: 2021-10-03T16:15:49.085Z
+boons:
+  - name: Quickness
+    uptime: ~10%
+    variant: group
+  - name: Quickness
+    uptime: ~25%
+    variant: self
+  - name: Might
+    uptime: 2 stacks
+    variant: party
 ---
 
 <Divider text="Details"/>
