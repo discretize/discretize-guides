@@ -319,7 +319,7 @@ sections:
 
         - <TomeSkill name="Chapter 4: Scorched Aftermath"/>
 
-        - <TomeSkill name="Ashes of the Just"/>
+        - <TomeSkill name="Epilogue: Ashes of the Just"/>
 
       - <Skill name="Tome of Resolve"/> (F2):
 
@@ -416,7 +416,7 @@ Starting on Axe:
 
 10. <TomeSkill name="Chapter 4: Scorched Aftermath"/>
 
-11. <TomeSkill name="Ashes of the Just"/>
+11. <TomeSkill name="Epilogue: Ashes of the Just"/>
 
 12. <TomeSkill name="Chapter 1: Searing Spell"/>
 
@@ -461,7 +461,7 @@ The most important part is to get the precast of Ashes of the Just right! You ha
 
 4.  Use <Skill name="Feelmywrath"/>
 
-5.  Open <Skill id="44364"/> and use <TomeSkill name="Ashes of the Just"/>
+5.  Open <Skill id="44364"/> and use <TomeSkill name="Epilogue: Ashes of the Just"/>
 
 6.  Take the _Mistlock Singularity_
 
