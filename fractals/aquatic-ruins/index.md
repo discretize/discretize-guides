@@ -15,7 +15,7 @@ cycle: Day
 consumables:
   - 78978
 record:
-  time: '2:13'
+  time: 2 min 13 sec
   by:
     - name: Happens
       tag: hP
@@ -30,7 +30,9 @@ sigils:
 ---
 
 <Warning>
+
 This is an underwater fractal. Make sure you have appropriate underwater equipment with enough Agony Resistance.
+
 </Warning>
 
 ---

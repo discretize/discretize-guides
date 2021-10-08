@@ -1,6 +1,6 @@
 ---
 title: Fractal Basics
-date: 2021-02-24
+date: 2021-10-06T18:27:22.614Z
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -29,7 +29,7 @@ Starting with tier 2 the heroes are encountering _Mistlock instabilities_ which 
 
 ## Defiance bars
 
-Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss by 50%. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally everyone in the team contributes to break the bar as it appears.
+Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss for power damage by 30% and 100% for condition damage. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally everyone in the team contributes to break the bar as it appears.
 
 <Warning>
 

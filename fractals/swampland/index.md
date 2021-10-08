@@ -4,7 +4,7 @@ cycle: Night
 consumables:
   - 78978
 record:
-  time: '5:09'
+  time: '5 min 9 sec'
   by:
     - name: Lucky Noobs
       tag: LN

@@ -7,7 +7,7 @@ date: 2021-09-19T17:27:53.415Z
 consumables:
   - 78978
 record:
-  time: '5:15'
+  time: '5 min 15 sec'
   by:
     - name: Nightmare Shattered
       tag: Ns

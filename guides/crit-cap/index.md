@@ -1,8 +1,8 @@
 ---
-title: 'Crit Cap'
-date: '2021-07-20'
-image: './images/crit.png'
-description: 'Learn how to achieve crit cap on various Guild Wars 2 professions.'
+title: Crit Cap
+date: 2021-10-06T20:04:20.871Z
+image: ./images/crit.png
+description: Learn how to achieve crit cap on various Guild Wars 2 professions.
 ---
 
 ## Reasoning
@@ -104,7 +104,7 @@ Below are some popular trait choices to push Critical Chance.
 
 | Profession                            | Specialization | Trait                                 | Note                                                                  | Precision |
 | ------------------------------------- | -------------- | ------------------------------------- | --------------------------------------------------------------------- | --------- |
-| <Specialization name="Warrior"/>      | Discipline     | <Trait name="Doubled Standards"/>     | <Skill name="Banner of Discipline"/> (this only applies to yourself!) | 100       |
+| <Specialization name="Warrior"/>      | Discipline     | <Trait name="Doubled Standards"/>     | <Skill name="Banner of Discipline"/> (this only applies to yourself!) | 50       |
 | <Specialization name="Thief"/>        | Deadeye        | <Trait name="Be Quick or Be Killed"/> | Target must be marked                                                 | 200       |
 | <Specialization name="Elementalist"/> | Weaver         | <Trait name="Elements of Rage"/>      | Converts 13% of your Vitality to Precision                            |           |
 

@@ -8,7 +8,7 @@ bosses: 2
 difficulties: [{ level: 86, ar: 125 }, { level: 93, ar: 137 }]
 record:
   {
-    time: '3:32',
+    time: '3 min 32 sec',
     by: [{ name: 'Snow Crows', tag: 'SC' }],
     youtube:
       [

@@ -4,7 +4,7 @@ cycle: Day (non CM) / Night (CM)
 consumables:
   - 78978
 record:
-  time: '1:09'
+  time: '1 min 9 sec'
   by:
     - name: Quantify
       tag: qT
@@ -54,7 +54,7 @@ Killing elementals spawns lightning strikes that periodically leave behind an or
 <Grid>
 <GridItem sm="7">
 
-The Voice of the mountain is the first boss in the fractal. This boss deals little damage, however, its basic attack will knock you back, stay in max melee range to avoid that. Every 33%, the boss gets <Effect name="Invulnerability"/> and summons a tornado, tethered to 4 clouds. Lightning strikes appear shortly after and leave the same collectable orbs as before. You must collect 3 and jump into the clouds to disperse them, using the <Uncategorized name="chargedleap"/> buff. Players are also targeted by <Skill id="61190"/>, red AoEs  that deal heavy damage and apply <Condition name="Vulnerability"/> and <Condition name="Weakness"/>. Keep moving to avoid their damage.
+The Voice of the mountain is the first boss in the fractal. This boss deals little damage, however, its basic attack will knock you back, stay in max melee range to avoid that. Every 33%, the boss gets <Effect name="Invulnerability"/> and summons a tornado, tethered to 4 clouds. Lightning strikes appear shortly after and leave the same collectable orbs as before. You must collect 3 and jump into the clouds to disperse them, using the <Uncategorized name="chargedleap"/> buff. Players are also targeted by <Skill id="61190"/>, red AoEs that deal heavy damage and apply <Condition name="Vulnerability"/> and <Condition name="Weakness"/>. Keep moving to avoid their damage.
 </GridItem>
 
 <GridItem sm="5">

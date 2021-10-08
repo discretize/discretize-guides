@@ -12,8 +12,13 @@ classification:
   - 4
   - 3
   - 5
-compositions:
-  - name: _CRGB
+boons:
+  - name: Alacrity
+    uptime: 100%
+    variant: party
+  - name: Might
+    uptime: 13 stacks
+    variant: party
 sections:
   - type: mdx
     title: Overview
@@ -356,13 +361,6 @@ sections:
 
       <GridItem sm="5">
 
-      <Card title="Legends">
-
-
-      <Legends legend1Id="41858" legend2Id="28494"/>
-
-      </Card>
-
 
       <Card title="Situational Traits">
 
@@ -518,14 +516,9 @@ profession: Revenant
 specialization: Renegade
 conditions:
   - Vulnerability
-code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
-date: 2021-10-03T16:56:36.150Z
+code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
+date: 2021-10-05T11:17:37.841Z
 hasCMGuide: false
-benchmark:
-  huge:
-    dps: 38011
-    by: "Le Mós "
-    youtube: fBYzCIj7RAU
 ---
 
 <Divider text="Rotation / Skill usage"/>

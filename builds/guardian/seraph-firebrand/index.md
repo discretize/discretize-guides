@@ -360,45 +360,45 @@ sections:
                   "Celestial",
                   "Celestial"
               ], "attributes":{
-                  "Health": 23535,
+                  "Health": 20535,
                   "Armor": 3153,
                   "Power": 2429,
                   "Precision": 1962,
                   "Toughness": 1882,
-                  "Vitality": 2189,
+                  "Vitality": 1889,
                   "Ferocity": 939,
-                  "Condition Damage": 2049,
-                  "Expertise": 744,
+                  "Condition Damage": 1907,
+                  "Expertise": 739,
                   "Concentration": 882,
                   "Healing Power": 1064,
                   "Agony Resistance": 162,
-                  "Condition Duration": 49.6,
+                  "Condition Duration": 59.266666666666666,
                   "Boon Duration": 73.8,
                   "Critical Chance": 80.80952380952381,
                   "Critical Damage": 212.6,
                   "Burning Duration": 40,
                   "Effective Power": 6668.827162916666,
                   "Power DPS": 5757.223911921125,
-                  "Burning Damage": 773.8263749999999,
-                  "Burning Stacks": 23.131199999999996,
-                  "Burning DPS": 17899.532645399995,
-                  "Bleeding Damage": 217.41,
-                  "Bleeding Stacks": 5.535200000000001,
-                  "Bleeding DPS": 1203.407832,
-                  "Poison Damage": 234.66,
+                  "Burning Damage": 705.198328125,
+                  "Burning Stacks": 24.310533333333332,
+                  "Burning DPS": 17143.74746249375,
+                  "Bleeding Damage": 196.10375000000002,
+                  "Bleeding Stacks": 5.892866666666667,
+                  "Bleeding DPS": 1155.6132515833335,
+                  "Poison Damage": 212.63500000000002,
                   "Poison Stacks": 0,
                   "Poison DPS": 0,
-                  "Torment Damage": 324.315,
+                  "Torment Damage": 292.430625,
                   "Torment Stacks": 0,
                   "Torment DPS": 0,
-                  "Confusion Damage": 217.41,
+                  "Confusion Damage": 196.10375000000002,
                   "Confusion Stacks": 0,
                   "Confusion DPS": 0,
-                  "Damage": 24860.164389321122,
-                  "Effective Health": 92757318.75,
-                  "Survivability": 47156.74567869853,
-                  "Effective Healing": 936.1440000000001,
-                  "Healing": 936.1440000000001
+                  "Damage": 24056.58462599821,
+                  "Effective Health": 107641646.4375,
+                  "Survivability": 54723.76534697509,
+                  "Effective Healing": 851.0400000000001,
+                  "Healing": 851.0400000000001
               }, "runeId":24842, "runeName":"Monk", "infusions":[
                   37130,
                   37130,
@@ -420,15 +420,15 @@ sections:
                   37130
               ], "weapons":{
                   "weapon1MainType": "Axe",
-                  "weapon1MainSigil1": "bursting",
+                  "weapon1MainSigil1": "Malice",
                   "weapon1OffType": "Torch",
                   "weapon1OffSigil": "smoldering",
                   "weapon2MainType": "Staff",
                   "weapon2MainSigil1": "transference",
                   "weapon2MainSigil2": "smoldering"
               }, "consumables":{
-                  "food": "bowl-of-fire-meat-chili",
-                  "utility": "toxic-focusing-crystal",
+                  "foodId": 91727,
+                  "utilityId": 77567,
                   "infusion": "Malign +9 Agony Infusion"
               },
                 "skills": {
@@ -479,7 +479,7 @@ sections:
 
       | <Skill id="45402"/>                             | 150 damage        |
 
-      | Skill 3 in <Skill name="Tome of Justice"/> (F1) | 150 damage        |
+      | <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage        |
 
       | <Skill id="9093"/>                              | 300 damage        |
 
@@ -556,8 +556,7 @@ sections:
       As you will have seen from the equipment, Celestial/Seraphbrand has many variations you can use to adapt to your needs. Here is a brief overview of the common Attribute types, Runes, Sigils and Consumables that are used when gearing Celestial and Seraph variants. As mentioned above you can use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) to help calculate what gear will be best, but in general remember you want to aim for 100% <Condition name="Burning"/> duration and at least 60% <Boon name="Quickness"/> duration to allow you to play <Trait name="LEgendary Lore"/>!
 
 
-      <Grid> 
-      <GridItem>
+      <Grid>  <GridItem>
 
 
       ### Attributes
@@ -705,9 +704,9 @@ sections:
 
       - In <Skill name="Tome of Justice"/>:
 
-        - Your standard DPS rotation is Chapter 2: Igniting Burst (F1-2), Chapter 4: Scorched Aftermath (F1-4), Epilogue: Ashes of the Just (F1-5), Chapter 1: Searing Spell (F1-1), Igniting Burst (F1-2).
+        - Your standard DPS rotation is <TomeSkill name="Chapter 2: Ignite Burst"/>, <TomeSkill name="Chapter 4: Scorched Aftermath"/>, <TomeSkill name="Epilogue: Ashes of the Just"/>, <TomeSkill name="Chapter 1: Searing Spell"/>, <TomeSkill name="Chapter 2: Ignite Burst"/>.
 
-        - Don't be afraid to replace a skill, preferably Chapter 1: Searing Spell (F1-1) or Chapter 2: Igniting Burst (F1-2), with Chapter 3: Heated Rebuke (F1-3) for more CC or to pull any adds.
+        - Don't be afraid to replace a skill, preferably <TomeSkill name="Chapter 1: Searing Spell"/> or <TomeSkill name="Chapter 2: Ignite Burst"/>, with <TomeSkill name="Chapter 3: Heated Rebuke"/> for more CC or to pull any adds.
 
       - On Staff:
 
@@ -755,36 +754,53 @@ sections:
 
       - <Skill name="Tome of Resolve"/> (F2):
 
-        - Skill 2 is a party condition cleanse
+        - <TomeSkill name="Chapter 1: Desert Bloom"/>
 
-        - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
+        - <TomeSkill name="Chapter 2: Radiant Recovery"/>
 
-        - Skill 4 is a good party heal
+        - <TomeSkill name="Chapter 3: Azure Sun"/>
 
-        - Skill 5 increases healing on allies for 8s by 33% and converts up to 5 conditions to boons
+        - <TomeSkill name="Chapter 4: Shining River"/>
+        
+        - <TomeSkill name="Epilogue: Eternal Oasis"/>
 
       - <Skill name="Tome of Courage"/> (F3):
 
-        - Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
+        - <TomeSkill name="Chapter 1: Unflinching Charge"/>
 
-        - Skill 3 is a 5s reflect
+        - <TomeSkill name="Chapter 2: Daring Challenge"/>
 
-        - Skill 4 grants <Boon name="Resistance"/> and breaks stun
+        - <TomeSkill name="Chapter 3: Valiant Bulwark"/>
 
-        - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
+        - <TomeSkill name="Chapter 4: Stalwart Stand"/>
+        
+        - <TomeSkill name="Epilogue: Unbroken Lines"/>
 rating: Good
 role: Hybrid
 profession: Guardian
 specialization: Firebrand
 skills:
+  - 40915
+  - 41714
+  - 9128
   - 9153
   - 9251
-  - 9084
-  - 9128
-  - 9093
 conditions:
   - Burning
-code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+boons:
+  - name: Quickness
+    uptime: 100%
+    variant: group
+  - name: Might
+    uptime: 18 stacks
+    variant: group
+  - name: Stability
+    uptime: on demand
+    variant: group
+  - name: Aegis
+    uptime: on demand
+    variant: group
+code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 hasCMGuide: false
 classification:
   - 4
@@ -792,7 +808,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2021-10-03T16:36:57.362Z
+date: 2021-10-07T12:19:25.990Z
 ---
 
 <Divider text="Rotation"/>
@@ -817,15 +833,15 @@ date: 2021-10-03T16:36:57.362Z
 
 7.  <Skill name="Tome of Justice" profession="guardian"/> (F1)
 
-    1.  Chapter 2: Igniting Burst (F1-2)
+    1.  <TomeSkill name="Chapter 2: Ignite Burst"/>
 
-    2.  Chapter 4: Scorched Aftermath (F1-4)
+    2.  <TomeSkill name="Chapter 4: Scorched Aftermath"/>
 
-    3.  Epilogue: Ashes of the Just (F1-5)
+    3.  <TomeSkill name="Epilogue: Ashes of the Just"/>
 
-    4.  Chapter 1: Searing Spell (F1-1)
+    4.  <TomeSkill name="Chapter 1: Searing Spell"/>
 
-    5.  Chapter 2: Igniting Burst (F1-2)
+    5.  <TomeSkill name="Chapter 2: Ignite Burst"/>
 
 8.  <Skill name="Cleansing Flame" profession="guardian"/> (Torch 5)
 

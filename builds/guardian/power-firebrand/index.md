@@ -1,5 +1,5 @@
 ---
-title: Power Firebrand
+title: Power Quickness Firebrand
 sections:
   - type: mdx
     title: Overview
@@ -272,7 +272,7 @@ sections:
 
       | <Skill name="Hammer of Wisdom"/>                | 200 damage |
 
-      | Skill 3 in <Skill name="Tome of Justice"/> (F1) | 150 damage |
+      | <TomeSkill name="Chapter 3: Heated Rebuke"/> (F1) | 150 damage |
 
       | <Skill name="Chains of light"/>                 | 250 damage |
 
@@ -403,11 +403,11 @@ sections:
 
       - <Skill name="Tome of Justice"/> (F1):
 
-        - Skill 4 is a ticking AoE, good for single target and great for AoE DPS, provides fire field so make sure to use it before the fight to stack some might
+        - <TomeSkill name="chapterscorchedaftermath"/> is a ticking AoE, good for single target and great for AoE DPS, provides fire field so make sure to use it before the fight to stack some might
 
-        - Skill 5 makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
+        - <TomeSkill name="epilogue ashes of the just"/> makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
 
-        - Skill 3 is an AoE pull (150 defiance bar damage)
+        - <TomeSkill name="Chapter 3: Heated Rebuke"/> is an AoE pull (150 defiance bar damage)
 
         - Often these skills are used as an opener
 
@@ -443,7 +443,7 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-code: "[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 hasCMGuide: true
 classification:
   - 5
@@ -452,6 +452,13 @@ classification:
   - 2
   - 4
 date: 2021-10-03T12:36:20.229Z
+boons:
+  - name: Quickness
+    uptime: 100%
+    variant: group
+  - name: Might
+    uptime: 2 stacks
+    variant: group
 ---
 
 <Divider text="Rotation / Skill Usage"/>
@@ -475,7 +482,7 @@ For that reason you can find a video with openers, that are efficient to use her
 
 If you have a _Mistlock Singularity_ present you can use these skills for precasts:
 
-1.  Cast <Skill name="tome of justice"/> skill 4 and 5
+1.  Cast <Skill name="tome of justice"/>: <TomeSkill name="chapterscorchedaftermath"/> and <TomeSkill name="Epilogue: Ashes of the just"/>
 
 2.  Blast the fire field by casting <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 
