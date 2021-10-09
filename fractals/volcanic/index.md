@@ -5,7 +5,7 @@ potions:
     description: for all the Grawl enemies
   - id: 8886
     description: for the Imbued Shaman endboss
-date: 2021-10-09T21:02:34.078Z
+date: 2021-10-09T21:19:37.895Z
 title: Volcanic
 image: ./images/header.jpg
 group: T4
@@ -73,6 +73,7 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
 <Tab specialization="Weaver">
 
 Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the _Veteran Grawl Shamans_ in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>. If everyone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.
+
 </Tab>
 </Tabs>
 </GridItem>
@@ -86,10 +87,14 @@ Kill the _Veteran Grawl Shamans_ to prevent them from sacrificing the captives. 
 You will need to throw eight _Infused Stones_ at the bubble protecting the Grawl Shaman boss to break it and make him vulnerable. The stones spawn on rockfalls, wait until the falling animation finishes and dodge into it to collect it. You can ping the Grawl Shaman (`Ctrl + T`) for easy targeting.
 
 After the bubble is broken, stand below the boss to LoS him and he will come down immediately. Throw another _Infused Stone_ at him if his bubble reappears during the fight.
+
 </GridItem>
 </Grid>
 
+
+
 <MDImage src="fractals/volcanic/images/the_grawl_shaman.jpg" caption="The Grawl Shaman"/>
+
 
 ---
 
@@ -106,9 +111,12 @@ He will also spawn 10-30 _Lava Elementals_ during this phase, kill them fast as 
 
 Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="Knockback"/>) and utilize conditions clears & reflects to finish the fractal successfully.
 
-<MDImage src="fractals/volcanic/images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
 </GridItem>
+<GridItem sm="4">
 
+<MDImage src="fractals/volcanic/images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
+
+</GridItem>
 <GridItem sm="8">
 <Tabs>
 <Tab specialization="Renegade">
