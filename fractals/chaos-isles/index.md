@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2021-10-09T14:49:28.337Z
+date: 2021-10-09T14:51:53.347Z
 title: Chaos Isles
 image: ./images/legendary_brazen_gladiator.jpg
 group: T4
@@ -117,6 +117,8 @@ You can stack <Effect name="Stealth"/> to skip the mobs though it usually is not
 
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.\
 He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and skills that make you invulnerable or simply do not stand in front of him when it hits. Learn to recognize the animation.
+
+By bringing permanent <Boon name="Stability"/>, enough DPS or a dedicated healer the fight can be very easily cheesed.
 
 Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.\
 Another trick is to bypass the damage from purple zones by repeated jumping.
