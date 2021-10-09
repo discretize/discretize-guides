@@ -1,6 +1,21 @@
 ---
-date: 2021-02-24
 cycle: Day
+date: 2021-10-09T14:51:53.347Z
+title: Chaos Isles
+image: ./images/legendary_brazen_gladiator.jpg
+group: T4
+api: 3038
+bosses: 2
+difficulties:
+  - level: 88
+    ar: 129
+  - level: 97
+    ar: 145
+sigils:
+  - id: 24615
+  - id: 24554
+    description: for the Chaos Anomaly
+  - id: 24868
 consumables:
   - 49940
 record:
@@ -21,40 +36,23 @@ record:
     - id: uCu_f50blpc
       name: Xarlor
       specialization: Weaver
-title: Chaos Isles
-image: ./images/legendary_brazen_gladiator.jpg
-group: T4
-api: 3038
-bosses: 2
-difficulties:
-  - level: 88
-    ar: 129
-  - level: 97
-    ar: 145
-sigils:
-  - id: 24615
-  - id: 24554
-    description: for the Chaos Anomaly
-  - id: 24868
 ---
 
 <Grid>
-<GridItem sm="8">
+<GridItem sm="6">
 
 ## Start: You think this is Cliffside
 
 Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-hand side. The fastest person can rush ahead and move to the next checkpoint at the _Chaos Anomaly_, everyone else can `/gg` and resurrect at the checkpoint there.
-</GridItem>
-
-<GridItem sm="4">
 
 <MDImage src="fractals/chaos-isles/images/start.jpg" caption="The starting area"/>
 
 </GridItem>
 
-<GridItem sm="12">
+<GridItem sm="6">
 <Video title="Skip to Chaos Anomaly (Any class)" timestamp="19" youtube="Alpgs_GaZV0"/>
 </GridItem>
+
 </Grid>
 
 ---
@@ -64,7 +62,7 @@ Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-
 <Grid>
 <GridItem>
 
-Stack <Boon name="Might"/> before the four _K1T-A golems_ and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health.
+Stack <Boon name="Might"/> before the four _K1T-A golems_ and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health. Always the golem that gets killed last will bee eliminated.
 
 Pay attention to the <Control name="Knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
 </GridItem>
@@ -120,6 +118,8 @@ You can stack <Effect name="Stealth"/> to skip the mobs though it usually is not
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.\
 He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and skills that make you invulnerable or simply do not stand in front of him when it hits. Learn to recognize the animation.
 
+By bringing permanent <Boon name="Stability"/>, enough DPS or a dedicated healer the fight can be very easily cheesed.
+
 Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.\
 Another trick is to bypass the damage from purple zones by repeated jumping.
 
@@ -127,37 +127,36 @@ Starting at 50% health, he will randomly start a _pulling attack_ which can be p
 
 Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Control name="Knockback"/> and can shove you off the platform.
 
-<MDImage src="fractals/chaos-isles/images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
-
-</GridItem>
-
-<GridItem sm="4">
 <Tabs>
 <Tab specialization="Revenant">
 
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="Daze"/>.
 </Tab>
-</Tabs>
 
-<Tabs>
+
 <Tab specialization="soulbeast">
 
 Use <Skill name="Path of Scars"/> to pull the small JT-12 golems closer. <Skill name="Dolyak stance"/> with the trait <Trait name=" Leader of the Pack"/> gives the whole party <Boon name="Stability"/>.
 </Tab>
-</Tabs>
 
-<Tabs>
+
 <Tab specialization="Firebrand">
 
 Tome 3 skill 1 and 5 grants <Boon name="Stability"/>, if that's not enough take <Skill name="Stand your ground"/>.
 </Tab>
-</Tabs>
 
-<Tabs>
+
 <Tab specialization="Berserker">
 
 Take <Skill name="Headbutt"/> for the 50% Defiance bar and <Skill name="Outrage"/> against the <Control name="Daze"/>!
 </Tab>
 </Tabs>
+
+</GridItem>
+
+<GridItem sm="4">
+
+<MDImage src="fractals/chaos-isles/images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
+
 </GridItem>
 </Grid>
