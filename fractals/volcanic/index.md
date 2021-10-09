@@ -5,7 +5,7 @@ potions:
     description: for all the Grawl enemies
   - id: 8886
     description: for the Imbued Shaman endboss
-date: 2021-10-09T21:19:37.895Z
+date: 2021-10-09T21:20:48.557Z
 title: Volcanic
 image: ./images/header.jpg
 group: T4
@@ -48,7 +48,7 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
 
 </GridItem>
 
-<GridItem sm="12">
+<GridItem sm="8">
 <Tabs>
 <Tab specialization="Guardian">
 <Video title="Guardian skip" timestamp="403" youtube="MmJTsOhdQeo"/>
