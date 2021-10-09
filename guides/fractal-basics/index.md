@@ -144,17 +144,17 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 
 | Short | Long               | Aliases       | Description                                                                                                                         | Link                                |
 | ----- | ------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| `BS`  | Bannerslave        | `war`, `bers` | <Specialization name="Berserker"/> that carries <Skill name="Bannerofstrength"/> and <Skill name="Bannerofdiscipline"/>             | [Build](/builds/berserker)          |
-| `QFB` | Quick Firebrand    | `pfb`, `fb`   | <Specialization name="Firebrand" text="Power Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/>              | [Build](/builds/firebrand)          |
-| `HB`  | Heal Firebrand     | `fb`, `hfb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and <Skill name="Bane Signet"/>, Healer build | [Build](/builds/heal-firebrand)     |
-| `CFB` | Condi Firebrand    | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                  | [Build](/builds/condi-firebrand)    |
-| `Ren` | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities                                                 | [Build](/builds/renegade)           |
-| `Slb` | Soulbeast          | `dps`         | <Specialization name="Soulbeast"/> as [meta](/guides/meta-explained) DPS                                                            | [Build](/builds/soulbeast)          |
-| `Wea` | Weaver             | `dps`, `ele`  | <Specialization name="Weaver"/> as [meta](/guides/meta-explained) DPS                                                               | [Build](/builds/weaver)             |
-| `DH`  | Dragonhunter       | `dps`         | <Specialization name="Dragonhunter"/> as offmeta DPS                                                                                | [Build](/builds/power-dragonhunter) |
+| `CFB` | Condi Firebrand    | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                  | <BuildLink build="Condi Firebrand" specialization="Firebrand"/>  |
+| `SFB` | Seraph Firebrand    | `qfb`, `fb`   | <Specialization name="Firebrand" text="Seraph Firebrand"/> for <Boon name="Quickness"/>. Hybrid build that deals some DPS and heals            | <BuildLink build="Seraph Firebrand" specialization="Firebrand"/> |
+| `HB`  | Heal Firebrand     | `fb`, `hfb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and grpup support, Healer build | <BuildLink build="Heal Firebrand" specialization="Firebrand"/> |
+| `Ren` | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities  (can be power or condi)                                             | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> <br/> <BuildLink build="Power Renegade" specialization="Renegade"/> |
+| `SCG` | Condi Scourge    | `cscg` | <Specialization name="Scourge" text="Condi Scourge"/>, a common condition dps class played in pugs                                  | <BuildLink build="Condi Scourge" specialization="Scourge"/> |
+| `CDPS`  | Condition DPS | `dps`, `cdps` | A suitable condition dps build from a class of your choice  | [What Should I play](/guides/what-should-i-play/) |
+| `PDPS`  | Power DPS | `dps`, `pdps` | A suitable power dps build from a class of your choice  | [What Should I play](/guides/what-should-i-play/) |
+| `BS`  | Bannerslave        | `war`, `bers` | <Specialization name="Berserker"/> that carries <Skill name="Bannerofstrength"/> and <Skill name="Bannerofdiscipline"/>             | <BuildLink build="Power Berserker" specialization="Berserker"/> |
 | `DoD` | Defier of Doubt    | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode                                                                |                                     |
 | `DwD` | Dances with Demons | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode without someone dying.                                         |                                     |
-| `kp`  | Kill proof         | `UCE`         | <Item id="81743"/>: Requirement in LFG, cannot be earned any longer.                                                                |                                     |
+| `kp`  | Kill proof         | `UFE`         | <Item id="94020"/>: Requirement in LFG, can be shown through killproof.me (replaced <Item id="81743"/> in Sept 2020)                                                                |                                     |
 
 ---
 
@@ -214,7 +214,7 @@ Below is a list of frequently used blast finishers among all professions. Note t
 
 - <Specialization name="Renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
 
-- <Specialization name="Firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5), <Skill name="Holy Strike"/> (Staff 2) and <Skill name="Mighty Blow"/> (Hammer 2)
+- <Specialization name="Firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5), <Skill name="Holy Strike"/> (Staff 2), <Skill name="Hammer of Wisdom"/> and <Skill name="Mighty Blow"/> (Hammer 2)
 
 - <Specialization name="Berserker"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
 
@@ -246,7 +246,7 @@ Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone 
 
 - <Specialization name="Firebrand"/>:
 
-  - <Skill id="44364"/> Skill 4 (Chapter 4: Scorched Aftermath)
+  - <TomeSkill name="Chapter 4: Scorched Aftermath"/> in <Skill id="44364"/>
 
   - <Skill id="9253"/>
 
