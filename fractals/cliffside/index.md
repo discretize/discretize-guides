@@ -1,26 +1,36 @@
 ---
-title: 'Cliffside'
-date: '2021-02-24'
-image: './images/header.jpg'
-group: 'T4'
+cycle: Day
+potions:
+  - id: 8881
+date: 2021-10-09T21:00:00.241Z
+title: Cliffside
+image: ./images/header.jpg
+group: T4
 api: 2930
 bosses: 1
-difficulties: [{ level: 94, ar: 140 }]
+difficulties:
+  - level: 94
+    ar: 140
+sigils:
+  - id: 24678
+  - id: 24615
+consumables:
+  - 78978
 record:
-  {
-    time: '4 min 29 sec',
-    by: [{ name: 'Happens', tag: 'hP' }],
-    youtube:
-      [
-        { id: '05wgY9N_pdc', name: 'Guts', specialization: 'Chronomancer' },
-        { id: '3iqOCAT23S8', name: 'Never Moa', specialization: 'Tempest' },
-        { id: 'fqK7UO-6R7M', name: 'Goni', specialization: 'Tempest' },
-      ],
-  }
-cycle: 'Day'
-potions: [{ id: 8881 }]
-sigils: [{ id: 24678 }, { id: 24615 }]
-consumables: [78978]
+  time: 4 min 29 sec
+  by:
+    - name: Happens
+      tag: hP
+  youtube:
+    - id: 05wgY9N_pdc
+      name: Guts
+      specialization: Chronomancer
+    - id: 3iqOCAT23S8
+      name: Never Moa
+      specialization: Tempest
+    - id: fqK7UO-6R7M
+      name: Goni
+      specialization: Tempest
 ---
 
 <Grid>
@@ -95,9 +105,7 @@ Take <Skill name="Legendary Demon stance"/> and spam <Skill name="Pain absorptio
 After 2-3 hits against the Seal, place <Item id="78978"/>, run up to the _Right Arm Seal_, wait for the destruction of the _Chest Seal_ then open the portal for the party.
 
 </Tab>
-</Tabs>
 
-<Tabs>
 <Tab specialization="soulbeast">
 
 <Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you. Take <Skill id="12489"/> for pulsing condition cleanse! Great way the clean the huge stacks of <Condition name="Burning"/>. You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
