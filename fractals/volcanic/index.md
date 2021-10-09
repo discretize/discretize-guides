@@ -1,31 +1,37 @@
 ---
-title: 'Volcanic'
-date: '2021-02-24'
-image: './images/header.jpg'
-group: 'T4'
+cycle: Night
+potions:
+  - id: 8890
+    description: for all the Grawl enemies
+  - id: 8886
+    description: for the Imbued Shaman endboss
+date: 2021-10-09T21:02:34.078Z
+title: Volcanic
+image: ./images/header.jpg
+group: T4
 api: 2989
 bosses: 2
-difficulties: [{ level: 92, ar: 137 }]
-record:
-  {
-    time: '3 min 48 sec',
-    by: [{ name: 'Quantify', tag: 'qT' }],
-    youtube:
-      [{ id: 'un7xbSP-7KI', name: 'Deathly', specialization: 'Chronomancer' }],
-  }
-cycle: 'Night'
-potions:
-  [
-    { id: 8890, description: 'for all the Grawl enemies' },
-    { id: 8886, description: 'for the Imbued Shaman endboss' },
-  ]
+difficulties:
+  - level: 92
+    ar: 137
 sigils:
-  [
-    { id: 36053 },
-    { id: 24648, description: 'for the Grawl enemies' },
-    { id: 24868, description: 'for the Imbued Shaman endboss' },
-  ]
-consumables: [78978, 49940]
+  - id: 36053
+  - id: 24648
+    description: for the Grawl enemies
+  - id: 24868
+    description: for the Imbued Shaman endboss
+consumables:
+  - 78978
+  - 49940
+record:
+  time: 3 min 48 sec
+  by:
+    - name: Quantify
+      tag: qT
+  youtube:
+    - id: un7xbSP-7KI
+      name: Deathly
+      specialization: Chronomancer
 ---
 
 ## Start: Grawl slaughter! <Item id="8890" disableText/><Item id="24648" disableText/>
@@ -103,29 +109,24 @@ Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="Knockback"/>) an
 <MDImage src="fractals/volcanic/images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
 </GridItem>
 
-<GridItem sm="4">
+<GridItem sm="8">
 <Tabs>
 <Tab specialization="Renegade">
 
 Use <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> to spam <Boon name="Resistance"/> after the bosses bubble phase.
 </Tab>
-</Tabs>
 
-<Tabs>
+
 <Tab specialization="Firebrand">
 
 Use Tome 3 skill 4 for party wide <Boon name="Resistance"/>!
 </Tab>
-</Tabs>
 
-<Tabs>
 <Tab specialization="Elementalist">
 
 Take <Skill id="5507"/> for an additional condition cleanse. Use <Skill id="22572"/> to cleave the Lava Elementals faster.
 </Tab>
-</Tabs>
 
-<Tabs>
 <Tab specialization="Soulbeast">
 
 Take <Skill id="12489"/> for pulsing condition cleanse! You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
