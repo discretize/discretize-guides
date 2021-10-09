@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2021-10-09T20:51:59.424Z
+date: 2021-10-09T22:42:46.808Z
 title: Thaumanova Reactor
 image: ./images/header.jpg
 group: T4
@@ -236,9 +236,9 @@ Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (
 <GridItem sm="4">
 <Tabs>
 
-<Tab specialization="renegade">
+<Tab specialization="guardian">
 
-It is favorable to run <Skill name="Legendary Renegade Stance"/> / <Skill name="Legendary Centaur Stance"/> for projectile absorption of the Anomaly's attacks from 50% health with <Skill name="Protective Solace"/>.
+On 50% the Anomaly will fire projectiles, use <TomeSkill name="Chapter 3: Valiant Bulwark"/> (Tome 3) there or give <Boon name="aegis"/> to your party to block this attack.
 </Tab>
 </Tabs>
 </GridItem>
