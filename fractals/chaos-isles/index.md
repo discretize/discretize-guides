@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2021-10-07T16:16:07.292Z
+date: 2021-10-09T14:49:28.337Z
 title: Chaos Isles
 image: ./images/legendary_brazen_gladiator.jpg
 group: T4
@@ -39,22 +39,20 @@ record:
 ---
 
 <Grid>
-<GridItem sm="8">
+<GridItem sm="6">
 
 ## Start: You think this is Cliffside
 
 Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-hand side. The fastest person can rush ahead and move to the next checkpoint at the _Chaos Anomaly_, everyone else can `/gg` and resurrect at the checkpoint there.
-</GridItem>
-
-<GridItem sm="4">
 
 <MDImage src="fractals/chaos-isles/images/start.jpg" caption="The starting area"/>
 
 </GridItem>
 
-<GridItem sm="12">
+<GridItem sm="6">
 <Video title="Skip to Chaos Anomaly (Any class)" timestamp="19" youtube="Alpgs_GaZV0"/>
 </GridItem>
+
 </Grid>
 
 ---
@@ -64,7 +62,7 @@ Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-
 <Grid>
 <GridItem>
 
-Stack <Boon name="Might"/> before the four _K1T-A golems_ and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health. Always the last Golem gets Eliminated.
+Stack <Boon name="Might"/> before the four _K1T-A golems_ and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health. Always the golem that gets killed last will bee eliminated.
 
 Pay attention to the <Control name="Knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
 </GridItem>
@@ -127,11 +125,6 @@ Starting at 50% health, he will randomly start a _pulling attack_ which can be p
 
 Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Control name="Knockback"/> and can shove you off the platform.
 
-<MDImage src="fractals/chaos-isles/images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
-
-</GridItem>
-
-<GridItem sm="8" xs="12">
 <Tabs>
 <Tab specialization="Revenant">
 
@@ -156,5 +149,12 @@ Tome 3 skill 1 and 5 grants <Boon name="Stability"/>, if that's not enough take 
 Take <Skill name="Headbutt"/> for the 50% Defiance bar and <Skill name="Outrage"/> against the <Control name="Daze"/>!
 </Tab>
 </Tabs>
+
+</GridItem>
+
+<GridItem sm="4">
+
+<MDImage src="fractals/chaos-isles/images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
+
 </GridItem>
 </Grid>
