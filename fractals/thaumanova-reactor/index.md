@@ -1,11 +1,22 @@
 ---
-date: 2021-02-24
 cycle: Day
+date: 2021-10-09T20:51:59.424Z
+title: Thaumanova Reactor
+image: ./images/header.jpg
+group: T4
+api: 2967
+bosses: 2
+difficulties:
+  - level: 82
+    ar: 118
+sigils:
+  - id: 24615
+  - id: 24868
 consumables:
   - 78978
   - 49940
 record:
-  time: '2 min 43 sec'
+  time: 2 min 43 sec
   by:
     - name: Discretize
       tag: dT
@@ -25,17 +36,6 @@ record:
     - id: 4xRc7pEAfv8
       name: The Way To God
       specialization: Weaver
-title: Thaumanova Reactor
-image: ./images/header.jpg
-group: T4
-api: 2967
-bosses: 2
-difficulties:
-  - level: 82
-    ar: 118
-sigils:
-  - id: 24615
-  - id: 24868
 ---
 
 <Grid>
@@ -154,7 +154,7 @@ This is usually soloed by the <Specialization name="Weaver"/> but other classes 
 <Tabs>
 <Tab specialization="renegade">
 
-<Video title="renegade skip" timestamp="0" youtube="jfat_6yDqV4"/>
+<Video title="Renegade skip" timestamp="0" youtube="jfat_6yDqV4"/>
 </Tab>
 
 <Tab specialization="Weaver">
