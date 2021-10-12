@@ -160,7 +160,7 @@ sections:
           "Healing Power": 0,
           "Agony Resistance": 203,
           "Condition Duration": 0/100,
-          "Boon Duration": .20266666666666666,
+          "Boon Duration": 0.20266666666666666,
           "Critical Chance": 100/100,
           "Critical Damage": 2.5373333333333335,
           "Effective Power": 34819.97973867529,
