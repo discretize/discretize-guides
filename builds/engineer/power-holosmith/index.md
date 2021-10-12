@@ -78,7 +78,7 @@ sections:
                   "Concentration": 225,
                   "Healing Power": 0,
                   "Agony Resistance": 150,
-                  "Condition Duration": 0/100,
+                  "Condition Duration": 0,
                   "Boon Duration": 0.15,
                   "Critical Chance": 1.1123809523809524,
                   "Critical Damage": 2.6706666666666666,
