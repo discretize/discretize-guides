@@ -159,7 +159,7 @@ sections:
                   "Condition Duration": 0/100,
                   "Boon Duration": 0.50333333333333336,
                   "Critical Chance": 1.1314285714285714,
-                  "Critical Damage": 234/100,
+                  "Critical Damage": 2.34,
                   "Effective Power": 27353.702627550432,
                   "Power DPS": 38897.660301711105,
                   "Burning Damage": 438.86875,

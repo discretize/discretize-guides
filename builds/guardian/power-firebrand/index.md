@@ -58,7 +58,7 @@ sections:
                   "Agony Resistance": 162,
                   "Condition Duration": 0/100,
                   "Boon Duration": 0.25066666666666666,
-                  "Critical Chance": 100/100,
+                  "Critical Chance": 1.00,
                   "Critical Damage": 2.5126666666666665,
                   "Effective Power": 25146.327163648635,
                   "Power DPS": 32824.81674423137,
