@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2021-10-09T22:42:46.808Z
+date: 2021-10-13T14:29:16.176Z
 title: Thaumanova Reactor
 image: ./images/header.jpg
 group: T4
@@ -39,20 +39,20 @@ record:
 ---
 
 <Grid>
-<GridItem sm="8">
+<GridItem xs="12" sm="8">
 
 ## Start
 
 Activate the _Detonator_ and wait for the <Specialization name="Renegade"/>, <Specialization name="Weaver"/>, <Specialization name="Guardian"/> or <Specialization name="Daredevil"/> to open a portal with <Item id="78978"/> (the rest of the group stacks <Boon name="Might"/> in the vestibule) or if no one can skip just walk up to the _Elite Flame Legion Fire Shaman_. Kill him, `/gg` to reset your cooldowns and split up to disable the four colliders.
 </GridItem>
 
-<GridItem sm="4">
+<GridItem xs="12" sm="4">
 
 <MDImage src="fractals/thaumanova-reactor/images/fire_shaman.jpg" caption="The Elite Flame Legion Fire Shaman"/>
 
 </GridItem>
 
-<GridItem sm="12">
+<GridItem xs="12" sm="6">
 <Tabs>
 <Tab specialization="Renegade">
 
@@ -80,11 +80,12 @@ Activate the _Detonator_ and wait for the <Specialization name="Renegade"/>, <Sp
 ---
 
 <Grid>
-<GridItem sm="12">
+<GridItem xs="12" sm="12">
 
 <Warning>
 
 For a faster completion time you can split up. <Specialization name="Berserker"/> activates Subject 6 <Label>Northwest</Label>. <Specialization name="Guardian"/> soloes Repulsor lab<Label>South</Label>. <Specialization name="Weaver"/> soloes Superheated Room <Label>West</Label> and <Specialization name="Renegade"/> and <Specialization name="Soulbeast"/> do Researcher Dormitories <Label>East</Label>.
+
 </Warning>
 </GridItem>
 
@@ -92,15 +93,10 @@ For a faster completion time you can split up. <Specialization name="Berserker"/
 
 <MDImage src="fractals/thaumanova-reactor/images/turret_room.jpg" caption="Golems patrol in the turret room"/>
 
-<Tabs>
-<Tab specialization="Guardian">
 
-If you decide to do it with 2 people ping anyone with least DPS to come help you.
-</Tab>
-</Tabs>
 </GridItem>
 
-<GridItem sm="5">
+<GridItem xs="12" sm="5">
 
 ## Repulsor lab <Label>South</Label>
 
@@ -111,10 +107,22 @@ One person activates the console to the left <Label>1</Label> to grant the other
 Activating <Label>2</Label> enables short access to the two final consoles at <Label>3</Label>. You can bypass the <Condition name="Immobile"/> from triggering them by standing exactly in the middle and pressing both buttons at the same time.
 </GridItem>
 
-<GridItem sm="12">
+<GridItem xs="12" sm="6">
 
 <Video title="Guardian skip (But any class can do it)" timestamp="545" youtube="MmJTsOhdQeo"/>
 </GridItem>
+
+<GridItem xs="12" sm="6">
+
+<Tabs>
+<Tab specialization="Guardian">
+
+If you decide to do it with 2 people ping anyone with least DPS to come help you.
+</Tab>
+</Tabs>
+
+</GridItem>
+
 </Grid>
 
 ---
@@ -150,7 +158,7 @@ Activating <Label>2</Label> enables short access to the two final consoles at <L
 This is usually soloed by the <Specialization name="Weaver"/> but other classes can do it as well, like in the **video shown below**.
 </GridItem>
 
-<GridItem sm="12">
+<GridItem sm="6">
 <Tabs>
 <Tab specialization="renegade">
 
