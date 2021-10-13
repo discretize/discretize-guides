@@ -5,7 +5,7 @@ potions:
     description: for all the Grawl enemies
   - id: 8886
     description: for the Imbued Shaman endboss
-date: 2021-10-09T21:20:48.557Z
+date: 2021-10-13T14:24:33.520Z
 title: Volcanic
 image: ./images/header.jpg
 group: T4
@@ -36,19 +36,17 @@ record:
 
 ## Start: Grawl slaughter! <Item id="8890" disableText/><Item id="24648" disableText/>
 
-<Grid>
-<GridItem sm="6">
-
 While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="Renegade"/> but anyone can run) should run ahead to the next area and trigger the checkpoint at the _Grawl Shaman_. This way, everyone can portal after the section is completed and resurrect to skip the Boulder passage. <Specialization name="Elementalist"/> can precast strong DPS skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear. You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster. <Specialization name="Berserker"/> can equip a greatsword and <Skill name="bloodreckoning"/> for 2x <Skill name="arcdivider"/>!
-</GridItem>
 
-<GridItem sm="6">
+<Grid>
+ 
+<GridItem xs="12" sm="6">
 
 <MDImage src="fractals/volcanic/images/the_start_area.jpg" caption="The start area"/>
 
 </GridItem>
 
-<GridItem sm="8">
+<GridItem xs="12" sm="6">
 <Tabs>
 <Tab specialization="Guardian">
 <Video title="Guardian skip" timestamp="403" youtube="MmJTsOhdQeo"/>
@@ -68,7 +66,7 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
 ---
 
 <Grid>
-<GridItem sm="5">
+<GridItem xs="12" sm="5">
 <Tabs>
 <Tab specialization="Weaver">
 
@@ -78,7 +76,7 @@ Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to ke
 </Tabs>
 </GridItem>
 
-<GridItem sm="7">
+<GridItem xs="12" sm="7">
 
 ## Grawl Shaman <Item id="8890" disableText/><Item id="24648" disableText/>
 
@@ -101,7 +99,7 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 ## Imbued Shaman <Item id="8886" disableText/><Item id="24868" disableText/>
 
 <Grid>
-<GridItem sm="8">
+<GridItem xs="12" sm="8">
 
 **Take the shortcut on the right-hand side down, jump into the lava then run and jump to the final platform to trigger the next checkpoint**, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="Might"/> and jump down to the Imbued Shaman (the bat follows you to the end of the walkway, but it takes 10 or more seconds to reach it. Make sure you have the boons stacked and are on the correct weapon before she flies in you fire field).
 
@@ -112,12 +110,12 @@ He will also spawn 10-30 _Lava Elementals_ during this phase, kill them fast as 
 Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="Knockback"/>) and utilize conditions clears & reflects to finish the fractal successfully.
 
 </GridItem>
-<GridItem sm="4">
+<GridItem xs="12" sm="4">
 
 <MDImage src="fractals/volcanic/images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
 
 </GridItem>
-<GridItem sm="8">
+<GridItem xs="12" sm="8">
 <Tabs>
 <Tab specialization="Renegade">
 
