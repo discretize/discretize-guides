@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 8881
-date: 2021-10-09T21:00:00.241Z
+date: 2021-10-15T16:46:56.912Z
 title: Cliffside
 image: ./images/header.jpg
 group: T4
@@ -162,7 +162,7 @@ Again, <Skill id="12638"/> on offhand Axe helps pulling the Cultists to you.
 ---
 
 <Grid>
-<GridItem sm="12">
+<GridItem sm="8">
 
 ## The way up
 
@@ -174,7 +174,7 @@ Blink up to the Arch Diviner, open the portal and **walk away from it** before d
 Now the whole party can resurrect and use the portal, type `go` in chat to indicate that. Before taking the portal on your own, switch your skills and traits back. This takes some timing to get right.
 </GridItem>
 
-<GridItem sm="12">
+<GridItem sm="4">
 <Tabs>
 <Tab specialization="renegade">
 <Video title="Revenant skip" youtube="-zJLBwkO1Cg"/>
