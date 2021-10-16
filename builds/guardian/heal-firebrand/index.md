@@ -59,10 +59,10 @@ sections:
                   "Healing Power": 1712,
                   "Agony Resistance": 162,
                   "Condition Duration": 0,
-                  "Boon Duration": 99.73,
-                  "Critical Chance": 50.38,
-                  "Critical Damage": 170,
-                  "Burning Duration": 105,
+                  "Boon Duration": 0.9973,
+                  "Critical Chance": 0.5038,
+                  "Critical Damage": 1.70,
+                  "Burning Duration": 1.05,
                   "Effective Power": 5901.431,
                   "Power DPS": 575.749,
                   "Burning Damage": 0,
@@ -372,7 +372,7 @@ sections:
 
       | <Skill name="Hammer of Wisdom"/>        | 200 damage                                                 |
 
-      | <Skill name="Tome of Justice"/> Skill 3 | 150 damage                                                 |
+      | <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage         |
 
       | <Skill name="Sanctuary"/>               | 150/s damage (for 5 seconds,<br/> adding up to 750 damage) |
 
@@ -416,13 +416,13 @@ sections:
 
       - Use this Tome mainly for providing a Fire Field.
 
-      - Skill 1 and 2 are mostly useless on <Specialization name="Firebrand" text="Heal Firebrand"/>.
+      - <TomeSkill name="Chapter 1: Searing Spell"/> and <TomeSkill name="Chapter 2: Ignite Burst"/> are mostly useless on <Specialization name="Firebrand" text="Heal Firebrand"/>.
 
-      - Skill 3 is a CC. It pulls enemies together and can be used from range.
+      - <TomeSkill name="Chapter 3: Heated Rebuke"/> is a CC. It pulls enemies together and can be used from range.
 
-      - Skill 4 creates a Fire Field that can be used to blast <Boon name="Might"/>.
+      - <TomeSkill name="Chapter 4: Scorched Aftermath"/> creates a Fire Field that can be used to blast <Boon name="Might"/>.
 
-      - Skill 5 grants an effect to allies that makes them inflict burning on their next attacks. This scales with <Attribute name="Condition Damage"/> so be careful when using this skill or skip it entirely when running with <Specialization name="Firebrand" text="Condi Firebrands"/>.
+      - <TomeSkill name="Epilogue: Ashes of the Just"/> grants an effect to allies that makes them inflict burning on their next attacks. This scales with <Attribute name="Condition Damage"/> so be careful when using this skill or skip it entirely when running with <Specialization name="Firebrand" text="Condi Firebrands"/>.
 
       - When running Radiance, dealing damage with any skill in this Tome will trigger <Trait name="Wrath of Justice"/> and share the <Attribute name="Condition Damage"/> to allies.
 
@@ -436,15 +436,15 @@ sections:
 
       - Use this Tome for emergency healing and cleansing.
 
-      - Skill 1 heals in a cone in front of you.
+      - <TomeSkill name="Chapter 1: Desert Bloom"/> heals in a cone in front of you.
 
-      - Skill 2 heals and cleanses conditions.
+      - <TomeSkill name="Chapter 2: Radiant Recovery"/> heals and cleanses conditions.
 
-      - skill 3 gives some boons but will rarely be used.
+      - <TomeSkill name="Chapter 3: Azure Sun"/> gives some boons but will rarely be used.
 
-      - Skill 4 places a healing field that can also be blasted for extra healing.
+      - <TomeSkill name="Chapter 4: Shining River"/> places a healing field that can also be blasted for extra healing.
 
-      - Skill 5 converts conditions into boons and grants allies an cimoning healing modifier.
+      - <TomeSkill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an cimoning healing modifier.
 
       - When running Virtues entering this Tome also cleanses conditions.
 
@@ -456,15 +456,15 @@ sections:
 
       - Use this Tome for massive <Boon name="Stability"/>, <Boon name="Resistance"/> or a reflect.
 
-      - Skill 1 grants <Boon name="Stability"/>.
+      - <TomeSkill name="Chapter 1: Unflinching Charge"/> grants <Boon name="Stability"/>.
 
-      - Skill 2 inflicts 1 second of <Condition name="Taunt"/> on the enemy.
+      - <TomeSkill name="Chapter 2: Daring Challenge"/> inflicts 1 second of <Condition name="Taunt"/> on the enemy which is a 75/s soft CC.
 
-      - Skill 3 places a bubble that reflects incoming projectiles.
+      - <TomeSkill name="Chapter 3: Valiant Bulwark"/> places a bubble that reflects incoming projectiles.
 
-      - Skill 4 places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
+      - <TomeSkill name="Chapter 4: Stalwart Stand"/> places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
 
-      - Skill 5 provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
+      - <TomeSkill name="Epilogue: Unbroken Lines"/> provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
 
       - There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
 
@@ -511,12 +511,13 @@ sections:
       <Card title="Pre-Stacking Boons">
 
 
-      - Provide a Fire Field if needed. <Skill name="Tome of Justice"/> Skill 4 provides a short Fire Field. <Skill name="Hallowed Ground"/> provides a longer Fire Field as well as extra <Boon name="Resolution"/> but has to be specifically slotted for pre-stacking.
+      - Provide a Fire Field if needed. <TomeSkill name="Chapter 4: Scorched Aftermath"/> in <Skill name="Tome of Justice"/> provides a short Fire Field. <Skill name="Hallowed Ground"/> provides a longer Fire Field as well as extra <Boon name="Resolution"/> but has to be specifically slotted for pre-stacking.
 
       - <Skill name="Holy Strike" /> to blast <Boon name="Might" />.
 
       - <Skill name="Empower" /> and cast <Skill name="Mantra of Solace" /> once and every
         other equipped Mantra as often as you can during the cast.
+
       - <Skill name="Feel My Wrath" /> if you have it equipped.
 
       - <Skill name="Bane Signet" /> if you can start the fight within 10 seconds of usage.
@@ -525,6 +526,7 @@ sections:
 
       - <Skill name="Empower" /> and use <Skill name="Mantra of Potence" /> once during
         this cast.
+
       - <Skill name="Symbol of Swiftness" /> on the way to the boss and swap to Axe before
         the fight starts to place <Skill name="Symbol of Vengeance" />.
 
@@ -546,7 +548,7 @@ sections:
       - <Skill name="Shield of Judgment" /> will also give <Boon name="Aegis" />.
         Prioritize this over the charges of <Skill name="Mantra of Solace" /> since
         this is also your main source of <Boon name="Protection" />.
-      - <Skill name="Tome of Courage" /> Skill 5 will also provide <Boon name="Aegis" />
+      - <TomeSkill name="Epilogue: Unbroken Lines"/> in <Skill name="Tome of Courage" /> will also provide <Boon name="Aegis" />
         , however you will not enter this Tome for a single application of <Boon name="Aegis" />
         .
       - <Skill name="Advance" /> is an instant-cast skill providing <Boon name="Aegis" /> when
@@ -635,7 +637,7 @@ sections:
 
       - Blasting Light Fields also causes area condition cleanse. On Staff you can place <Skill name="Symbol of Swiftness"/> and blast it with <Skill name="Holy Strike"/>.
 
-      - <Skill name="Tome of Resolve" /> Skill 2 and 5 will cleanse conditions as well,
+      - In <Skill name="Tome of Resolve" /> <TomeSkill name="Chapter 2: Radiant Recovery"/> and <TomeSkill name="Epilogue: Eternal Oasis"/> will cleanse conditions as well,
         however same as with burst healing this is often a last resort. When running Virtues,
         opening this Tome will also cleanse conditions.
 

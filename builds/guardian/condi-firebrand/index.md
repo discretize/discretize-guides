@@ -67,12 +67,12 @@ sections:
                   "Concentration": 243,
                   "Healing Power": 250,
                   "Agony Resistance": 162,
-                  "Condition Duration": 30.066666666666666,
-                  "Boon Duration": 16.2,
-                  "Critical Chance": 86.66666666666666,
-                  "Critical Damage": 170,
-                  "Burning Duration": 70,
-                  "Resolution Duration": 25,
+                  "Condition Duration": 0.30066666666666666,
+                  "Boon Duration": 0.162,
+                  "Critical Chance": 0.8666666666666666,
+                  "Critical Damage": 1.70,
+                  "Burning Duration": 0.70,
+                  "Resolution Duration": 0.25,
                   "Effective Power": 7222.552095833332,
                   "Power DPS": 6674.672710820176,
                   "Burning Damage": 1078.3664999999999,
@@ -179,11 +179,13 @@ sections:
 
       | <Skill name="Hammer of Wisdom"/>             | 200 damage                                                                     |
 
-      | <Skill name="Tome of Justice"/> (F1) Skill 3 | 150 damage                                                                     |
-
-      | <Skill name="Chains of light"/>              | 325 damage over 6 seconds                                                      |
+      | <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage                                  |
 
       | <Skill name="Sanctuary"/>                    | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
+       
+      | <Skill name="Chains of light"/>              | <Condition name="Immobile"/> 50/s                                              |
+        
+      | <TomeSkill name="Chapter 2: Daring Challenge"/> | <Condition name="Taunt"/> 75/s |
 
 
       </Card>
@@ -309,35 +311,40 @@ sections:
 
       - <Skill name="Tome of Justice"/> (F1):
 
-        - Skill 1: One stack of <Condition name="Burning"/>
+        - <TomeSkill name="Chapter 1: Searing Spell"/>
 
-        - Skill 2: Two stacks of <Condition name="Burning"/>
+        - <TomeSkill name="Chapter 2: Ignite Burst"/>
 
-        - Skill 3: An AoE pull
+        - <TomeSkill name="Chapter 3: Heated Rebuke"/>
 
-        - Skill 4: High power damage skill, applies five stacks of <Condition name="Burning"/>.
+        - <TomeSkill name="Chapter 4: Scorched Aftermath"/>
 
-        - Skill 5: Your bread and butter as <Specialization text="Condi Firebrand" name="Firebrand"/>: Share Ashes of the Just with allies applying a magnitude of <Condition name="Burning"/>.
+        - <TomeSkill name="Epilogue: Ashes of the Just"/>
 
       - <Skill name="Tome of Resolve"/> (F2):
 
-        - Skill 2 is a party condition cleanse
+        - <TomeSkill name="Chapter 1: Desert Bloom"/>
 
-        - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
+        - <TomeSkill name="Chapter 2: Radiant Recovery"/>
 
-        - Skill 4 is a good party heal
+        - <TomeSkill name="Chapter 3: Azure Sun"/>
 
-        - Skill 5 increases healing on allies for 8s by 33% and converts up to 5 conditions to boons
+        - <TomeSkill name="Chapter 4: Shining River"/>
+
+        - <TomeSkill name="Epilogue: Eternal Oasis"/>
 
       - <Skill name="Tome of Courage"/> (F3):
 
-        - Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
+        - <TomeSkill name="Chapter 1: Unflinching Charge"/>
 
-        - Skill 3 is a 5s reflect
+        - <TomeSkill name="Chapter 2: Daring Challenge"/>
 
-        - Skill 4 grants <Boon name="Resistance"/> and breaks stun
+        - <TomeSkill name="Chapter 3: Valiant Bulwark"/>
 
-        - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
+        - <TomeSkill name="Chapter 4: Stalwart Stand"/>
+
+        - <TomeSkill name="Epilogue: Unbroken Lines"/>
+
 rating: Meta
 role: Condi Damage
 profession: Guardian
@@ -405,15 +412,15 @@ Starting on Axe:
 
 8.  <Skill name="Tome of Justice"/> (F1)
 
-9.  Chapter 2 Igniting Burst (Tome Skill 2)
+9.  <TomeSkill name="Chapter 2: Ignite Burst"/>
 
-10. Chapter 4 Scorched Aftermath (Tome Skill 4)
+10. <TomeSkill name="Chapter 4: Scorched Aftermath"/>
 
-11. Epilogue Ashes of the Just (Tome Skill 5)
+11. <TomeSkill name="Epilogue: Ashes of the Just"/>
 
-12. Chapter 1 Searing Spell (Tome Skill 1)
+12. <TomeSkill name="Chapter 1: Searing Spell"/>
 
-13. Chapter 2 Igniting Burst (Tome Skill 2)
+13. <TomeSkill name="Chapter 2: Ignite Burst"/>
 
 14. <Skill name="Cleansing Flame"/> (Torch 5)
 
@@ -446,27 +453,21 @@ When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 The most important part is to get the precast of Ashes of the Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
 </Warning>
 
-1.  Swap to <Trait name="quickfire"/> for more Ashes of the Just.
+1.  Use <Skill name="hallowedground"/>
 
-2.  Use <Skill name="hallowedground"/>
+2.  Blast a firefield with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
 
-3.  Blast a firefield with <Skill name="    holystrike"/>
+3.  While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 
-4.  While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+4.  Use <Skill name="Feelmywrath"/>
 
-5.  Use <Skill name="Feelmywrath"/>
+5.  Open <Skill id="44364"/> and use <TomeSkill name="Epilogue: Ashes of the Just"/>
 
-6.  Open <Skill id="44364"/> and use Skill 5 for more Ahes of the Just
+6.  Take the _Mistlock Singularity_
 
-7.  Take the _Mistlock Singularity_
-
-8.  Use <Skill name="Feelmywrath"/> again
-
-9.  Remember to swap back to <Trait name="loremaster"/>
+7.  Use <Skill name="Feelmywrath"/> again
 
 On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrath"/> for <Skill name="Renewed Focus"/>:
-
-- Cast <Skill name="Renewed Focus"/> while approaching the boss to refresh <Skill id="44364"/>.
 
 </Card>
 </GridItem>
