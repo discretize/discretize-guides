@@ -59,6 +59,7 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 
 <GridItem sm="4">
 
+{' '}
 
 <MDImage
   src="fractals/molten-boss/images/start.jpg"
