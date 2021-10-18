@@ -1,11 +1,11 @@
 ---
 title: Firebrand CM guides
 sections:
-  - title: Mama
+  - title: ""
     content: >-
       <ConditionalComponent condition="pug">
 
-      <Boss name="mama" video="odHRC78RDGU" videoCreator="SLifeR [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9125" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+      <Boss name="mama" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9125" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
       <Warning>
 
@@ -138,11 +138,11 @@ sections:
 
 
       ---
-  - title: Siax
+  - title: ""
     content: >-
       <ConditionalComponent condition="pug">
 
-      <Boss name="siax" video="7B1LNFpHYdc" videoCreator="SLifeR [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpent slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+      <Boss name="siax" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpent slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 
       -   The rotation for scepter/sword is the same for every specialization. **Sword tends to perform much better on both <Specialization name="Firebrand"/> and <Specialization name="Dragonhunter"/>**!
@@ -567,7 +567,7 @@ sections:
 
 
       ---
-  - title: Ensolyss
+  - title: ""
     content: >
       <Boss name="ensolyss" foodId="91805" utilityId="50082" healId="41714"
       utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965"
@@ -584,11 +584,11 @@ sections:
 
 
       </Boss>
-  - title: Skorvald
+  - title: ""
     content: >-
       <ConditionalComponent condition="pug">
 
-      <Boss name="Skorvald" video="4E3fM2vqwrU" videoCreator="SLifeR [dT]" foodId="91805" utilityId="9443" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" hideRotation>
+      <Boss name="Skorvald" foodId="43360" utilityId="9443" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" elite="mantraofliberation" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" hideRotation>
 
 
 
@@ -602,7 +602,7 @@ sections:
 
       <ConditionalComponent condition="static">
 
-      <Boss name="Skorvald" video="l3c5DxfiX14" videoCreator="Princeps [dT]" foodId="91805" utilityId="73191" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+      <Boss name="Skorvald" video="l3c5DxfiX14" videoCreator="Princeps [dT]" foodId="43360" utilityId="73191" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" elite="mantraofliberation" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 
       Skill usage on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, you should play with <Skill name="sword of justice"/>. Else take <Skill name="standyourground"/> to grant <Boon name="Stability"/> on the third island.
@@ -610,87 +610,185 @@ sections:
       </Boss>
 
 
-      ### **Phase 1**
+      <Phase title="Precast">
 
 
-      1.  Precast <Skill name="symbol of punishment"/>
+      <CMInformation>
 
 
-      2.  Precast <Skill name="Shield of wrath"/>
+      <InformationBlock title="Overview">
 
 
-      3.  <Skill name="bane signet"/> to CC
+      When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Firebrand"/> this means your signets such as <Skill name="Banesignet"/>. 
 
 
-      4.  <Skill name="ray of judgment"/>
+      As soon as you see <Skill name="moastance"/> from the <Specialization name="Soulbeast"/> on your bar lay down a fire field with <TomeSkill name="chapterscorchedaftermath"/> (F1-4), close the tome, blast with <Skill name="Shieldofwrath"/> (Focus 5) and stack boons with your mantras. To maximize the duration of <Skill name="Banesignet"/> use it as late as possible! You do not need to wait for the full aftercast before taking the _Mistlock Singularity_. 
 
 
-      5.  <Skill name="Symbol of Resolution"/>
+      </InformationBlock>
 
 
-      6.  <Skill name="whirling wrath"/>
+      <InformationBlock title="At the boss">
 
 
-      ### _Split phases_
+      If your team coordinates via voice chat you should be able to ~~precast~~ cause lags with your symbols.  
+
+      If not you have to observe your fellow <Specialization name="Soulbeast"/> friend's <Skill name="Barrage"/> animation. As soon as it finishes you can assume that you will be put in combat.
 
 
-      1.  First Island
-
-          1.  Share <Boon name="Aegis"/>
-
-          2.  <Skill name="whirling wrath"/>
-
-      2.  Second Island
-
-          1.  <Skill name="tome of justice"/> Skill 4
-
-          2.  <Skill name="Symbol of Resolution"/>
-
-          3.  <Skill name="whirling wrath"/>
-
-          4.  Weapon Swap
-
-      3.  Third island
-
-          1.  <Skill name="tome of courage"/> Skill 5 and 1 for <Boon name="Stability"/> and share <Boon name="Aegis"/> as well
-
-          2.  <Skill name="symbol of punishment"/>
-
-      4.  Fourth island
-
-          1.  Use <Skill name="Stand your ground"/>
-
-          2.  <Skill name="symbol of punishment"/>
-
-          3.  <Skill name="bane signet"/>
-
-          4.  Blast the fire field with <Skill name="Shield of wrath"/>
-
-      ### **Phase 2 and 3**
+      The symbol precast priority is as always: Mace > Scepter > GS > Sw > Staff
 
 
-      1.  <Skill name="symbol of punishment"/>
+      </InformationBlock>
 
 
-      2.  <Skill name="ray of judgment"/>
+      </CMInformation>
+        
+      <IdealRotation>
+
+       1. <TomeSkill name="chapterscorchedaftermath"/> (F1-4)
+       2. <Skill name="Shieldofwrath"/> (Focus 5)
+       3. 1x <Skill name="Mantra of solace"/>
+       4. 3x <Skill name="Mantra of potence" />
+       5. <Skill name="BaneSignet"/>
+       5. Take _Mistlock Singularity_ and approach boss
+       6. Symbol precast
+       7. <Skill name="Shieldofwrath"/> (Focus 5)
+
+      </IdealRotation>
+
+      </Phase>
 
 
-      3.  <Skill name="Symbol of Resolution"/>
+      <Phase title="Phase 1">
 
 
-      4.  <Skill name="whirling wrath"/>
+      <CMInformation>
 
 
-      5.  <Skill name="bindingblade"/>
+      <InformationBlock title="Overview">
 
 
-      Notes:
+      Phase 1 starts right when you finished your symbol precast. Immediately use a <Skill name="Swordofjustice"/> (ideally while you are still out of combat) to ramp up <Condition name="Vulnerability"/> as quick as possible. Either enable "Autotargeting" in the options or spam "Take target" (tab) while casting your <Skill name="Banesignet"/>. 
 
 
-      1.  If your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/> precast one <Skill name="sword of justice"/> at the start, Then use on each island and at the start of both phase 2 and 3
+      Cast <Skill name="Ray of Judgment"/> before swapping to your greatsword, because it applies ticking damage and is therefore more valuable in combination with <Skill name="Onewolfpack"/>. Swap to greatsword and finish the phase with as many skills as you can.
 
 
-      2.  Be careful with what island you choose for your <Item name="white mantle portal device"/>: Don't use it at the island where you are supposed to enter any of your tomes
+      </InformationBlock>
+
+
+      </CMInformation>
+        
+      <IdealRotation>
+
+       1. <Skill name="Swordofjustice"/>
+       2. <Skill name="Ray of Judgment"/> (Focus 4)
+       3. _Swap_
+       4. <Skill name="Symbolofresolution"/>
+       5. <Skill name="whirlingwrath"/>
+
+      </IdealRotation>
+
+      </Phase>
+
+
+      <Phase title="Islands">
+
+
+      <CMInformation>
+
+
+      <InformationBlock title="Island 1">
+
+
+      You want to save your <Skill name="Leapoffaith"/> for the rift to the second island. Therefore you will most likely arrive last on the first island. Make sure to share <Boon name="Aegis"/> and <Boon name="Quickness"/> against the <Control name="Knockback"/> from the anomaly. Since you are last you have a good aim at your fellow friends and everyone will get the <Boon name="Aegis"/>. Finish the add with <Skill name="Whirlingwrath"/>.  
+
+      For fast transitioning leap with <Skill name="Leapoffaith"/> towards the left side of the rift.
+
+
+      </InformationBlock>
+
+
+      <InformationBlock title="Island 2">
+
+
+      Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right when you land so your party has the chance to blast some <Boon name="Might"/>. While the anomaly is evading you can drop your <Skill name="symbolofresolution"/> and start casting <Skill name="whirlingwrath"/> just before you jump to avoid the <Control name="Knockback"/> circle attack.  
+
+      Again, for fast transitioning leap with <Skill name="Leapoffaith"/> towards the left side of the rift and swap weapons in the rift.
+
+      </InformationBlock>
+
+
+      <InformationBlock title="Island 3">
+
+
+      Drop a <Skill name="Swordofjustice"/> as soon as you land to quickly ramp up <Condition name="Vulnerability"/> up. This is key to kill the anomaly quickly! In case your team can't kill the anomaly before the first <Control name="Knockback"/> attack happens you should preemptively apply <Boon name="Stability"/> with <Skill name="Mantraofliberation"/>. Use <Skill name="symbol of blades"/> to keep up your stacks of <Trait name="Symbolicavenger"/>. Before you enter the rift open your <Skill name="tomeofjustice"/>!
+
+
+      </InformationBlock>
+
+
+      <InformationBlock title="Island 4">
+
+
+      Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right when you land so your party has the chance to blast some <Boon name="Might"/>. While the anomaly is evading blast <Boon name="Might"/> with <Skill name="Shieldofwrath"/>. Share your <Skill name="Banesignet"/> already! This is not an issue since phase 2 and 3 are each about 6-8 seconds long; so for the majority of the fight <Skill name="Banesignet"/> will be up. Just before the anomaly finishes its evade frame drop a <Skill name="Swordofjustice"/> for quick <Condition name="Vulnerability"/> rampup.  
+
+      During our testing applying one stack of <Boon name="Stability"/> with <Skill name="Mantraofliberation"/> was not enough to reliably not get knockbacked by the anomaly, so it is recommended to jump!  
+
+      You should stay at the anomaly till the very last moment since you do not have any important skills to precast on skorvald. 
+
+
+      </InformationBlock>
+
+
+      </CMInformation>
+        
+      </Phase>
+
+
+      <Phase title="Phase 2 and 3">
+
+
+      <CMInformation>
+
+
+      <InformationBlock title="Overview">
+
+
+      Cycle through your dps skill starting with <Skill name="Ray of Judgment"/> (Focus 4) due to it being a ticking damage skill. Swap to greatsword and finish the phase with as many skills as you can. 
+
+
+      This time around feel free to use <Skill name="Leapoffaith"/> to get to the island quicker since the party will travel via portals now!
+
+
+      </InformationBlock>
+
+
+      <InformationBlock title="Rest of the fight">
+
+
+      Use the information from above for the remaining encounter!
+
+
+      </InformationBlock>
+
+
+      </CMInformation>
+        
+      <IdealRotation>
+
+       1. <Skill name="Swordofjustice"/>
+       2. <Skill name="Ray of Judgment"/> (Focus 4)
+       3. <Skill name="Zealotsdefense"/> (Sword 3)
+       4. <Skill name="Symbol of blades"/> (Sword 2)
+       3. _Swap_
+       4. <Skill name="Symbolofresolution"/>
+       5. <Skill name="whirlingwrath"/>
+
+      </IdealRotation>
+
+      </Phase>
 
 
       </ConditionalComponent>
@@ -698,11 +796,11 @@ sections:
 
 
       ---
-  - title: Artsariiv
+  - title: ""
     content: >-
       <ConditionalComponent condition="pug">
 
-      <Boss name="Artsariiv" video="fHP_i0ti9PQ" videoCreator="SLifeR [dT]" foodId="91805" utilityId="9443" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+      <Boss name="Artsariiv" foodId="91805" utilityId="9443" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
       <Grid>
 
@@ -883,22 +981,11 @@ sections:
 
 
       ---
-  - title: Arkk
+  - title: ""
     content: >
-      
-
-
-
-
-
-
-
-
-
-
       <ConditionalComponent condition="pug">
 
-      <Boss name="Arkk" video="ZeqPBPfK7Ow" videoCreator="SLifeR [dT]" foodId="91805" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+      <Boss name="Arkk" foodId="91805" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 
       -   Play scepter on this encounter
@@ -1156,7 +1243,7 @@ sections:
       2.  The archdiviner spawns AoE's that strips boons, avoid them!
 profession: Guardian
 specialization: Firebrand
-date: 2021-10-18T20:54:24.997Z
+date: 2021-10-18T22:42:39.502Z
 disableBosses:
   - LightAi
   - DarkAi
