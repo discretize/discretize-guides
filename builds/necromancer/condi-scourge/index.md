@@ -290,7 +290,7 @@ conditions:
   - Poisoned
   - Blinded
 code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
-hasCMGuide: false
+cmGuide: ''
 classification:
   - 2
   - 4

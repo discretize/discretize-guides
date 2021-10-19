@@ -543,8 +543,8 @@ boons:
   - name: Might
     uptime: 12 stacks
     variant: party
-code: "[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]"
-hasCMGuide: true
+code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: 'pug'
 classification:
   - 4
   - 4

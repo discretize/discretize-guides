@@ -4,7 +4,7 @@ profession: 'Necromancer'
 specialization: 'Reaper'
 date: '2021-02-24'
 author: 'Discord: Jes#6596'
-disableSwitch: true
+
 disableBosses: ['LightAi', 'DarkAi']
 ---
 
@@ -351,7 +351,7 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 <Boss name="skorvald" video="" videoCreator="" foodId="91805" utilityId="9443" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
--   Skorvald has one of the biggest CC bars in CMs (2200). Make sure to use your CC skills!
+- Skorvald has one of the biggest CC bars in CMs (2200). Make sure to use your CC skills!
 
 </Boss>
 
@@ -609,7 +609,7 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 <Boss name="arkk" video="" videoCreator="" foodId="91805" utilityId="50082" heal="signetofvampirism" utility1="wellofsuffering" utility2="wellofdarkness" utility3="signetofspite" elite="lichform" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
--   Place markers for the blooms
+- Place markers for the blooms
 
 </Boss>
 

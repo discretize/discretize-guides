@@ -246,7 +246,7 @@ sections:
       </Grid>
   - type: mdx
     title: Rotation/Skill Usage
-    content: ""
+    content: ''
 rating: Good
 role: Power Damage
 author: Ascers.6082
@@ -257,8 +257,8 @@ conditions:
   - Blinded
   - Crippled
   - Immobile
-code: "[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]"
-hasCMGuide: false
+code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
