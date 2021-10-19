@@ -2,8 +2,7 @@
 title: 'Dragonhunter CM guides'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
-date: '2021-02-24'
-
+date: 2021-10-19T03:41:48.490Z
 disableBosses: ['LightAi', 'DarkAi']
 ---
 
@@ -125,22 +124,48 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 
 - Repeat this every single phase.
 
-<Boss name="Skorvald" video="" videoCreator="" foodId="91805" utilityId="9443" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
--   Bring <Skill name="standyourground"/> if you have the feeling that your team can't cover <Boon name="Stability"/>.
+<Boss name="Skorvald" video="https://www.youtube.com/watch?v=exFFA244Hyc" videoCreator="Zyp" foodId="43360" utilityId="73191" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+-   Bring <Skill name="feelmywrath"/> so your firebrand doesn't have to. This will allow him to cover <Boon name="Stability"/> with <Skill name="Mantra Of Liberation"/>
 
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
 
 - In fast groups you want to play with <Trait name="heavylight"/> instead of <Trait name="biggamehunter"/>
 
+- Use  <Skill name="Leap Of Faith"/> slightly left of the updrafts to travel quickly between islands.
+
+
 </Boss>
 
-### **Burn phases**
+### **Phase 1**
 
-Your gameplay is heavily influenced by the DPS your team can pull. If your team has very high DPS (i.e. they phase Skorvald in less than 5 seconds) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
+Phase 1 is heavily influenced by the DPS your team can pull. If your team has very high DPS (i.e. they phase Skorvald in less than 4 seconds) you can start on greatsword. Spam tab or use auto targeting to cc as soon as possible using <Skill name="Bane Signet"/> and finish the phase with <Skill id="9081"/>. Prepare to use <Skill id="30783"/> to travel towards the first island fast.
 
-### **Adds**
+If the group dps isn't that high you can start on sword/focus instead, allowing you to fit in a <Skill id="9112"/> before swapping to greatsword.
 
-You can kill the first two adds with a greatsword. You can use traps on the 2nd add, without having them on cooldown when you are back at Skorvald. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weapon swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
+### **Split 1**
+
+- You can use <Skill id="9081"/> and <Skill id="9146"/> on island 1, 2 and 3 for big damage. (Having a symbol up on island 3 is especially important to keep up <Trait name="Symbolic Avenger"/> for phase 2).
+- Use <Skill name="Procession of Blades"/> and <Skill id="9168"/> on island 2 (coordinate with your firebrand so he can use sword of justice on island 3) <Condition name="Vulnerability"/> **is the key for a fast and smooth splitphase!**
+- Make sure to be on sword/focus **before** arriving on island 4.
+- On island 4, make sure to cast <Skill name="Bane Signet"/> before the anomaly jumps, otherwise people that leave early (mainly the <Specialization name="Soulbeast"/> precasting <Skill id="12469"/> ) will miss the buff!
+- Blast a firefield with <Skill id="9082"/> to generate <Boon name="Might"/>, drop a <Skill id="9168"/> right before the anomaly lands and make sure to reduce its hp to 0% with <Skill id="9107"/> before you take the portal. (Unfortunately for us dragonhunters this fight is a soulbeast show in terms of target dps so we cannot afford to leave island 4 early).
+
+
+### **Phase 2**
+Do a standard burst rotation like in the video. You can use  <Skill id="30039"/> after the phase to give your party long lasting <Boon name="aegis"/> for island 1.
+
+### **Split 2**
+
+- Split 2 rotation is almost the same as split 1, except you cannot afford to drop <Skill name="Procession of Blades"/> on island 2 as it won't be off cooldown before phase 3.
+- Keep in mind it is your job (and the <Specialization name="Renegade"/> + <Specialization name="Firebrand"/>) to finish off island 4. Dont be greedy and leave too early for it will often end up with the anomaly still being alive. As long as the <Specialization name="Soulbeast"/> can get their precast off, there should be enough damage for a quick phase even with you not being able to precast anything.
+
+### **Phase 3**
+Exactly the same as phase 2.
+
+
+
+ 
+
 
 <Boss name="Artsariiv" video="" videoCreator="" foodId="91805" utilityId="9443" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   If your team does not have a <Specialization name="Soulbeast"/>, you can take <Skill name="Wall of reflection"/> for reflects. Please don't steal the reflect from a <Specialization name="Soulbeast"/>!
