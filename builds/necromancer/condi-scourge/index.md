@@ -296,7 +296,7 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-cmGuide: true
+cmGuide: " "
 benchmark:
   small:
     dps: 37044
