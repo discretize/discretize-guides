@@ -3,7 +3,7 @@ title: 'Dragonhunter CM guides'
 profession: 'Guardian'
 specialization: 'Dragonhunter'
 date: '2021-02-24'
-disableSwitch: true
+
 disableBosses: ['LightAi', 'DarkAi']
 ---
 

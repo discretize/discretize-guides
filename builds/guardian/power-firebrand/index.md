@@ -444,7 +444,7 @@ conditions:
   - Blinded
   - Crippled
 code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-hasCMGuide: true
+cmGuide: static
 classification:
   - 5
   - 3

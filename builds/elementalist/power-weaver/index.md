@@ -485,8 +485,8 @@ conditions:
   - Burning
   - Chilled
   - Vulnerability
-code: "[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-hasCMGuide: true
+code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: 'pug'
 classification:
   - 4
   - 5

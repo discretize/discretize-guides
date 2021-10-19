@@ -656,7 +656,7 @@ conditions:
   - Blinded
   - Crippled
 code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-hasCMGuide: true
+cmGuide: ' '
 classification:
   - 4
   - 1
