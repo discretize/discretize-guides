@@ -1,18 +1,17 @@
 ---
-title: Condi Scourge
 sections:
   - type: mdx
     title: Overview
     content: >-
       The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build
-      to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be
-      augmented to provide the means of a safety net at an acceptable amount of
-      DPS loss with the Blood Magic traitline (without any stat changes). The
-      build can place lots of conditions and crowd control on multiple targets
-      simultaneously with its shades and <Skill name="Epidemic"/>. Due to large
-      amounts of self-produced <Condition name="Vulnerability"/> and <Boon
-      name="Might"/> in combination with its other tools, it is quite
-      self-substantial.
+      to learn and provides access to good off-support tools (large amounts of
+      passive barrier from <Trait id="2059"/>) and can be augmented to provide
+      the means of a safety net at an acceptable amount of DPS loss with the
+      Blood Magic traitline (without any stat changes). The build can place lots
+      of conditions and crowd control on multiple targets simultaneously with
+      its shades and <Skill name="Epidemic"/>. Due to large amounts of
+      self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/>
+      in combination with its other tools, it is quite self-substantial.
 
 
       <Specialization name="Scourge" text="Condi Scourge" /> has multiple offensive control
@@ -126,7 +125,7 @@ sections:
                   "infusion": "Malign +9 Agony Infusion"
               },
                 "skills": {
-                  "heal": "Sand Flare",
+                  "heal": "Signet of Vampirism",
                   "utility2": "Blood is Power",
                   "utility3": "Signet of Undeath",
                   "elite": "Plaguelands"
@@ -152,16 +151,16 @@ sections:
 
       <GridItem sm="7">
 
-      <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Sadistic Searing, Demonic Lore"/>
+      <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Desert Empowerment, Demonic Lore"/>
 
-      <Card title="Situational Traits">
+      <Card title="Traits">
 
 
       |                                           |                                                                                                                                                                                                                                                                                         |
 
       | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-      | <Trait id="2059" size="big" disableText/> | If you are having trouble staying alive and needing a little bit of extra support and more frequent barrier, you can opt into it and drop <Trait id="2067"/>. This will also be your go-to option if you are not playing with <Skill name="Sand Flare"/> or any other Punishment skill. |
+      | <Trait id="2059" size="big" disableText/> | After the nerf to Barrier granted from <Skill name="Sand Flare"/> it's now best to run <Trait name="Desert Empowerment"/>. It is a very potent Barrier-spam, if you still need more personal Barrier feel free to use <Skill name="Sand Flare"/> for only a minor dps loss over <Skill name="Signet of Vampirism"/>. |
 
 
       </Card>
@@ -215,7 +214,7 @@ sections:
   - type: mdx
     title: Further Information
     content: >-
-
+      
 
       <Grid>
 
@@ -268,10 +267,7 @@ sections:
 
 
       </Grid>
-rating: Good
-role: Condi Damage
-author: 'Discord: Amerikajinn#9784'
-profession: Necromancer
+author: "Discord: Amerikajinn#9784"
 specialization: Scourge
 skills:
   - 10606
@@ -282,6 +278,17 @@ traits:
   - 905
   - 2164
   - 2121
+code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 2
+  - 4
+  - 4
+  - 2
+  - 3
+date: 2021-10-19T20:54:19.083Z
+title: Condi Scourge
+role: Condi Damage
+profession: Necromancer
 conditions:
   - Vulnerability
   - Weakness
@@ -289,20 +296,13 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
-classification:
-  - 2
-  - 4
-  - 4
-  - 2
-  - 3
-date: 2021-10-03T12:24:10.537Z
+cmGuide: true
 benchmark:
   small:
     dps: 37044
     by: Prud
     youtube: 6NbhBMCyjmw
+rating: Good
 ---
 
 <Divider text="Skill Usage" />
