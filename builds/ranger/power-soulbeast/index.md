@@ -606,8 +606,8 @@ profession: Ranger
 specialization: Soulbeast
 conditions:
   - Vulnerability
-code: "[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]"
-hasCMGuide: true
+code: '[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
+cmGuide: 'pug'
 classification:
   - 5
   - 5

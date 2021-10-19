@@ -801,7 +801,7 @@ boons:
     uptime: on demand
     variant: group
 code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-hasCMGuide: false
+cmGuide: ''
 classification:
   - 4
   - 3

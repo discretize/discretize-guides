@@ -253,7 +253,7 @@ conditions:
   - Bleeding
   - Chilled
 code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
-hasCMGuide: false
+cmGuide: ''
 classification:
   - 3
   - 4

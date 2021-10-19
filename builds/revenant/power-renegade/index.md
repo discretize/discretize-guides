@@ -800,18 +800,9 @@ classification:
   - 4
   - 3
   - 5
-compositions:
-  - name: _Rainbow
-  - name: _Rainbearbow
-  - name: _RGB
 code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 date: 2021-10-03T12:19:18.334Z
-hasCMGuide: true
-benchmark:
-  large:
-    dps: 23973
-    by: MajesticNoodle [BATS]
-    youtube: p4D96l_GVPg
+cmGuide: 'pug'
 ---
 
 <Divider text="Rotation / Skill usage"/>

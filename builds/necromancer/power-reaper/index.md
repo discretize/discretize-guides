@@ -214,7 +214,7 @@ sections:
       </Grid>
 rating: Good
 role: Power Damage
-author: "Discord: Jes#6596"
+author: 'Discord: Jes#6596'
 profession: Necromancer
 specialization: Reaper
 skills:
@@ -230,8 +230,8 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
-hasCMGuide: true
+code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ' '
 classification:
   - 1
   - 3

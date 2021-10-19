@@ -563,7 +563,7 @@ conditions:
   - Blinded
   - Slow
 code: '[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]'
-hasCMGuide: false
+cmGuide: ''
 classification:
   - 2
   - 4

@@ -1,12 +1,9 @@
 ---
-title: Dragonhunter CM guides
-profession: Guardian
-specialization: Dragonhunter
+title: 'Dragonhunter CM guides'
+profession: 'Guardian'
+specialization: 'Dragonhunter'
 date: 2021-10-19T03:41:48.490Z
-disableBosses:
-  - LightAi
-  - DarkAi
-disableSwitch: true
+disableBosses: ['LightAi', 'DarkAi']
 ---
 
 <Warning>

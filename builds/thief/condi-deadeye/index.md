@@ -286,7 +286,7 @@ conditions:
   - Bleeding
   - Torment
 code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
-hasCMGuide: false
+cmGuide: ''
 date: 2021-10-03T12:19:56.299Z
 boons:
   - name: Might
