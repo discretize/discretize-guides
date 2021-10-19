@@ -1,10 +1,12 @@
 ---
-title: 'Dragonhunter CM guides'
-profession: 'Guardian'
-specialization: 'Dragonhunter'
-date: '2021-02-24'
+title: Dragonhunter CM guides
+profession: Guardian
+specialization: Dragonhunter
+date: 2021-10-19T02:04:13.708Z
+disableBosses:
+  - LightAi
+  - DarkAi
 disableSwitch: true
-disableBosses: ['LightAi', 'DarkAi']
 ---
 
 <Warning>
@@ -125,7 +127,7 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 
 - Repeat this every single phase.
 
-<Boss name="Skorvald" video="" videoCreator="" foodId="91805" utilityId="9443" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+<Boss name="Skorvald" video="" videoCreator="" foodId="91805" utilityId="9443" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   Bring <Skill name="standyourground"/> if you have the feeling that your team can't cover <Boon name="Stability"/>.
 
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
@@ -134,13 +136,22 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 
 </Boss>
 
-### **Burn phases**
+### **Phase 1**
 
-Your gameplay is heavily influenced by the DPS your team can pull. If your team has very high DPS (i.e. they phase Skorvald in less than 5 seconds) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
+Phase 1 is heavily influenced by the DPS your team can pull. If your team has very high DPS (i.e. they phase Skorvald in less than 4 seconds) you can start on greatsword. Spam tab or use auto targeting to cc as soon as possible using <Skill name="Bane Signet"/> and finish the phase with <Skill id="9081"/>. Prepare to use <Skill id="30783"/> to travel towards the first island fast.
 
-### **Adds**
+If the group dps isn't that high you can start on sword/focus instead, allowing you to fit in a <Skill id="9112"/> before swapping to greatsword.
 
-You can kill the first two adds with a greatsword. You can use traps on the 2nd add, without having them on cooldown when you are back at Skorvald. Make sure, that you are on scepter/sword at the last add and you are not having cooldown on the weapon swap, or you DPS will suffer a lot. You can freely use Traps and GS on the first two adds. Swap to scepter/sword after that.
+### **Split 1**
+
+- You can use <Skill id="9081"/> and <Skill id="9146"/> on island 1, 2 and 3 for big damage. (Having a symbol up on island 3 is especially important to keep up <Trait name="Symbolic Avenger"/> for phase 2)
+- Use <Skill name="Procession of Blades"/> and <Skill id="9168"/> on island 2 (coordinate with your firebrand so he can use sword of justice on island 3)
+- Make sure to be on sword/focus before arriving on island 4
+- On island 4 make sure to cast <Skill name="Bane Signet"/> before the anomaly jumps, otherwise people that leave early (mainly the soulbeasts) will miss the buff!
+- Blast a firefield with <Skill id="9082"/>, drop a <Skill id="9168"/> right before the anomaly lands and make sure to reduce its hp to 0% with <Skill id="9107"/> before you take the portal. (Unfortunately for us dragonhunters this fight is a soulbeast show in terms of target dps so we cannot afford to leave island 4 early)
+
+
+### **Phase 2**
 
 <Boss name="Artsariiv" video="" videoCreator="" foodId="91805" utilityId="9443" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   If your team does not have a <Specialization name="Soulbeast"/>, you can take <Skill name="Wall of reflection"/> for reflects. Please don't steal the reflect from a <Specialization name="Soulbeast"/>!
