@@ -3,7 +3,7 @@ title: Firebrand CM guide
 type: Static
 profession: Guardian
 specialization: Firebrand
-date: 2021-10-18T22:42:39.502Z
+date: 2021-10-19T17:04:14.478Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -280,7 +280,16 @@ Keep in mind that if your group is not fast enough, you need to use <Skill name=
 
 <Boss name="Skorvald" video="l3c5DxfiX14" videoCreator="Princeps [dT]" foodId="43360" utilityId="73191" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" elite="mantraofliberation" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
-Skill usage on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, you should play with <Skill name="sword of justice"/>. Else take <Skill name="standyourground"/> to grant <Boon name="Stability"/> on the third island.
+### Utility skill variation:
+
+- If your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, you should play with <Skill name="sword of justice"/>.
+- Else (for example when <Specialization name="Renegade"/> plays <Skill name="Legendary Demon Stance"/> due to <Instability name="No Pain, No Gain"/>) take <Skill name="standyourground"/> to grant <Boon name="Stability"/> on the third island.
+
+### Elite skill variation:
+
+- If you do not have a <Specialization name="Dragonhunter"/> that plays <Skill name="Feelmywrath"/> you need to take <Skill name="Feelmywrath"/> over <Skill name="mantraofliberation"/>
+
+
 </Boss>
 
 <Phase>
@@ -312,6 +321,7 @@ The symbol precast priority is as always: Mace > Scepter > GS > Sw > Staff
 2.  <Skill name="Shieldofwrath"/> (Focus 5)
 3.  1x <Skill name="Mantra of solace"/>
 4.  3x <Skill name="Mantra of potence" />
+5.  <Skill name="Feelmywrath"/>
 5.  <Skill name="BaneSignet"/>
 6.  Take _Mistlock Singularity_ and approach boss
 7.  Symbol precast
@@ -336,6 +346,7 @@ Cast <Skill name="Ray of Judgment"/> before swapping to your greatsword, because
   
 <IdealRotation>
 
+1. <Skill name="Banesignet"/>
 1.  <Skill name="Swordofjustice"/>
 2.  <Skill name="Ray of Judgment"/> (Focus 4)
 3.  _Swap_
