@@ -283,9 +283,9 @@ Keep in mind that if your group is not fast enough, you need to use <Skill name=
 Skill usage on Skorvald depends on whether your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/> or <Skill name="Legendary Demon Stance"/>. If your <Specialization name="Renegade"/> runs <Skill name="Legendary Dwarf Stance"/>, you should play with <Skill name="sword of justice"/>. Else take <Skill name="standyourground"/> to grant <Boon name="Stability"/> on the third island.
 </Boss>
 
-<Phase title="Precast">
+<Phase>
 
-<CMInformation>
+<CMInformation title="Precast">
 
 <InformationBlock title="Overview">
 
@@ -320,9 +320,9 @@ The symbol precast priority is as always: Mace > Scepter > GS > Sw > Staff
 </IdealRotation>
 </Phase>
 
-<Phase title="Phase 1">
+<Phase>
 
-<CMInformation>
+<CMInformation title="Phase 1">
 
 <InformationBlock title="Overview">
 
@@ -345,9 +345,9 @@ Cast <Skill name="Ray of Judgment"/> before swapping to your greatsword, because
 </IdealRotation>
 </Phase>
 
-<Phase title="Islands">
+<Phase>
 
-<CMInformation>
+<CMInformation title="Islands">
 
 <InformationBlock title="Island 1">
 
@@ -380,9 +380,9 @@ You should stay at the anomaly till the very last moment since you do not have a
   
 </Phase>
 
-<Phase title="Phase 2 and 3">
+<Phase>
 
-<CMInformation>
+<CMInformation title="Phase 2 and 3">
 
 <InformationBlock title="Overview">
 
