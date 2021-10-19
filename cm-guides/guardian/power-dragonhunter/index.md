@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-10-19T02:35:58.869Z
+date: 2021-10-19T02:42:57.918Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -145,9 +145,9 @@ If the group dps isn't that high you can start on sword/focus instead, allowing 
 ### **Split 1**
 
 - You can use <Skill id="9081"/> and <Skill id="9146"/> on island 1, 2 and 3 for big damage. (Having a symbol up on island 3 is especially important to keep up <Trait name="Symbolic Avenger"/> for phase 2)
-- Use <Skill name="Procession of Blades"/> and <Skill id="9168"/> on island 2 (coordinate with your firebrand so he can use sword of justice on island 3) <Condition name="Vulnerability"/> is the key for a fast and smooth splitphase!
+- Use <Skill name="Procession of Blades"/> and <Skill id="9168"/> on island 2 (coordinate with your firebrand so he can use sword of justice on island 3) <Condition name="Vulnerability"/> **is the key for a fast and smooth splitphase!**
 - Make sure to be on sword/focus before arriving on island 4.
-- On island 4, make sure to cast <Skill name="Bane Signet"/> before the anomaly jumps, otherwise people that leave early (mainly the soulbeasts) will miss the buff!
+- On island 4, make sure to cast <Skill name="Bane Signet"/> before the anomaly jumps, otherwise people that leave early (mainly the <Specialization name="Soulbeast"/>) will miss the buff!
 - Blast a firefield with <Skill id="9082"/>, drop a <Skill id="9168"/> right before the anomaly lands and make sure to reduce its hp to 0% with <Skill id="9107"/> before you take the portal. (Unfortunately for us dragonhunters this fight is a soulbeast show in terms of target dps so we cannot afford to leave island 4 early).
 
 
