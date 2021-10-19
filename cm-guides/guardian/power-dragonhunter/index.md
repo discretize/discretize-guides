@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-10-19T03:40:23.862Z
+date: 2021-10-19T03:41:48.490Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -155,7 +155,7 @@ If the group dps isn't that high you can start on sword/focus instead, allowing 
 
 
 ### **Phase 2**
-Do a standard burst rotation like in the video. You can use  <Skill id="30039"/> after the phase to give your party long lasting aegis for island 1.
+Do a standard burst rotation like in the video. You can use  <Skill id="30039"/> after the phase to give your party long lasting <Boon name="aegis"/> for island 1.
 
 ### **Split 2**
 
