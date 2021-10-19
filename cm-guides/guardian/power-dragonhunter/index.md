@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-10-19T20:06:17.430Z
+date: 2021-10-19T21:32:59.240Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -137,12 +137,30 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 
 
 </Boss>
+### **Precast**
+When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Dragonhunter"/> this means your signets such as <Skill name="Banesignet"/>. Furthermore, it's important for a  <Specialization name="Dragonhunter"/> to stack <Boon name="Resolution"/> since it boosts their strike damage thanks to <Trait name="Retribution"/>.
+
+As soon as you see <Skill name="moastance"/> from the <Specialization name="Soulbeast"/> on your bar you can start your precast.
+1.  Blast a firefield to generate <Boon name="Might"/> using <Skill name="Hammer Of Wisdom"/> and <Skill name="Shieldofwrath"/> (Focus 5). If your team is still short on blasts you could also use <Skill name="Holy Strike"/> (Staff 2)
+2.  Use <Skill name="Save yourselves"/> to generate <Boon name="Resolution"/> for yourself
+3.  Use <Skill name="Feelmywrath"/> to generate <Boon name="Quickness"/>
+4.  Share <Skill name="BaneSignet"/>
+6.  Take _Mistlock Singularity_ and approach the boss
+7.  Symbol precast
+8.  <Skill name="Shieldofwrath"/> (Focus 5)
+9.  <Skill name="Procession of Blades"/>
 
 ### **Phase 1**
 
 Phase 1 is heavily influenced by the DPS your team can pull. If your team has very high DPS (i.e. they phase Skorvald in less than 4 seconds) you can start on greatsword. Spam tab or use auto targeting to cc as soon as possible using <Skill name="Bane Signet"/> and finish the phase with <Skill id="9081"/>. Prepare to use <Skill id="30783"/> to travel towards the first island fast.
 
 If the group dps isn't that high you can start on sword/focus instead, allowing you to fit in a <Skill id="9112"/> before swapping to greatsword.
+1.  <Skill name="Swordofjustice"/>
+1.  <Skill name="Banesignet"/>
+2.  <Skill name="Ray of Judgment"/> (Focus 4)
+3.  _Swap_
+4.  <Skill name="Symbolofresolution"/>
+5.  <Skill name="whirlingwrath"/>
 
 ### **Split 1**
 
@@ -155,6 +173,13 @@ If the group dps isn't that high you can start on sword/focus instead, allowing 
 
 ### **Phase 2**
 Do a standard burst rotation like in the video. You can use  <Skill id="30039"/> after the phase to give your party long lasting <Boon name="aegis"/> for island 1.
+1.  <Skill name="Swordofjustice"/>
+2.  <Skill name="Procession of Blades"/>
+3.  <Skill name="Ray of Judgment"/> (Focus 4)
+4.  <Skill name="Symbol of blades"/> (Sword 2)
+5.  _Swap_
+6.  <Skill name="Symbolofresolution"/>
+7.  <Skill name="whirlingwrath"/>
 
 ### **Split 2**
 
