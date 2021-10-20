@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-10-19T23:10:41.011Z
+date: 2021-10-20T01:56:09.336Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -138,10 +138,9 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 
 </Boss>
 <Phase>
-
 <CMInformation title="Precast">
 
-<InformationBlock title="Prestack">
+<InformationBlock title="Overview">
 
 When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Dragonhunter"/> this means your signets such as <Skill name="Banesignet"/>. Furthermore, it's important for a  <Specialization name="Dragonhunter"/> to stack <Boon name="Resolution"/> since it boosts their strike damage thanks to <Trait name="Retribution"/>.
 
@@ -176,7 +175,7 @@ You don't have to precast every symbol, however it's recommended to always inclu
 
 <CMInformation title="Phase 1">
 
-<InformationBlock title="Phase 1">
+<InformationBlock title="Overview">
 Phase 1 is heavily influenced by the DPS your team can pull. If your team has very high DPS (i.e. they phase Skorvald in less than 4 seconds) you can start on greatsword. Spam tab or use auto targeting to cc as soon as possible using <Skill name="Bane Signet"/> and finish the phase with <Skill id="9081"/>. Prepare to use <Skill id="30783"/> to travel towards the first island fast.
 
 If the group dps isn't that high you can start on sword/focus instead, allowing you to fit in a <Skill id="9112"/> before swapping to greatsword.
@@ -235,7 +234,7 @@ Cast <Skill name="Bane Signet"/> before the anomaly jumps, otherwise people that
 
 <CMInformation title="Phase 2 and 3">
 
-<InformationBlock title="Phase 2 & 3">
+<InformationBlock title="Overview">
 
 Do a standard burst rotation starting on sword/focus. You can use  <Skill id="30039"/> after the phase to give your party long lasting <Boon name="aegis"/> to block the next <Control name="Knockback"/> on island 1.
 
