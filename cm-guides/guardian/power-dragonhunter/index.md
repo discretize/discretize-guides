@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-10-20T01:56:09.336Z
+date: 2021-10-20T02:10:07.459Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -127,7 +127,7 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 - Repeat this every single phase.
 
 <Boss name="Skorvald" video="exFFA244Hyc" videoCreator="Zyp [dT]" foodId="43360" utilityId="73191" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
--   Bring <Skill name="feelmywrath"/> so your firebrand doesn't have to. This will allow him to cover <Boon name="Stability"/> with <Skill name="Mantra Of Liberation"/>
+-   Bring <Skill name="feelmywrath"/> so your <Specialization name="Firebrand"/> doesn't have to. This will allow him to cover <Boon name="Stability"/> with <Skill name="Mantra Of Liberation"/>
 
 - You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss.
 
