@@ -133,16 +133,16 @@ Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Tr
 
 - In fast groups you want to play with <Trait name="heavylight"/> instead of <Trait name="biggamehunter"/>
 
-- Use  <Skill name="Leap Of Faith"/> slightly left of the updrafts to travel quickly between islands.
-
+- Use <Skill name="Leap Of Faith"/> slightly left of the updrafts to travel quickly between islands.
 
 </Boss>
+
 <Phase>
 <CMInformation title="Precast">
 
 <InformationBlock title="Overview">
 
-When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Dragonhunter"/> this means your signets such as <Skill name="Banesignet"/>. Furthermore, it's important for a  <Specialization name="Dragonhunter"/> to stack <Boon name="Resolution"/> since it boosts their strike damage thanks to <Trait name="Retribution"/>.
+When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Dragonhunter"/> this means your signets such as <Skill name="Banesignet"/>. Furthermore, it's important for a <Specialization name="Dragonhunter"/> to stack <Boon name="Resolution"/> since it boosts their strike damage thanks to <Trait name="Retribution"/>.
 
 As soon as you see <Skill name="moastance"/> from the <Specialization name="Soulbeast"/> on your bar you can start your precast.
 
@@ -151,7 +151,6 @@ As soon as you see <Skill name="moastance"/> from the <Specialization name="Soul
 <InformationBlock title="At the boss">
 
 You don't have to precast every symbol, however it's recommended to always include <Skill id="29789"/> (LB4) since it's the strongest by far ever since the May 11th patch. Keep an eye on the <Skill name="Barrage"/> animation from the <Specialization name="Soulbeast"/> as you will be put in combat when he's done.
-
 
 </InformationBlock>
 
@@ -163,10 +162,10 @@ You don't have to precast every symbol, however it's recommended to always inclu
 2.  <Skill name="Save yourselves"/> to generate <Boon name="Resolution"/> for yourself
 3.  <Skill name="Feelmywrath"/> to generate <Boon name="Quickness"/>
 4.  <Skill name="BaneSignet"/>
-6.  Take _Mistlock Singularity_ and approach the boss
-7.  Symbol precast
-8.  <Skill name="Shieldofwrath"/> (Focus 5)
-9.  <Skill name="Procession of Blades"/>
+5.  Take _Mistlock Singularity_ and approach the boss
+6.  Symbol precast
+7.  <Skill name="Shieldofwrath"/> (Focus 5)
+8.  <Skill name="Procession of Blades"/>
 
 </IdealRotation>
 </Phase>
@@ -176,35 +175,34 @@ You don't have to precast every symbol, however it's recommended to always inclu
 <CMInformation title="Phase 1">
 
 <InformationBlock title="Overview">
+
 Phase 1 is heavily influenced by the DPS your team can pull. If your team has very high DPS (i.e. they phase Skorvald in less than 4 seconds) you can start on greatsword. Spam tab or use auto targeting to cc as soon as possible using <Skill name="Bane Signet"/> and finish the phase with <Skill id="9081"/>. Prepare to use <Skill id="30783"/> to travel towards the first island fast.
 
 If the group dps isn't that high you can start on sword/focus instead, allowing you to fit in a <Skill id="9112"/> before swapping to greatsword.
-
 
 </InformationBlock>
 
 </CMInformation>
   
 <IdealRotation>
+
 1.  <Skill name="Swordofjustice"/>
 1.  <Skill name="Banesignet"/>
-2.  <Skill name="Ray of Judgment"/> (Focus 4)
-3.  _Swap_
-4.  <Skill name="Symbolofresolution"/>
-5.  <Skill name="whirlingwrath"/>
-
+1.  <Skill name="Ray of Judgment"/> (Focus 4)
+1.  _Swap_
+1.  <Skill name="Symbolofresolution"/>
+1.  <Skill name="whirlingwrath"/>
 
 </IdealRotation>
 </Phase>
-
 
 <Phase>
 
 <CMInformation title="Islands">
 
 <InformationBlock title="Island 1">
-Drop a <Skill name="Swordofjustice"/> as soon as you arrive. This in combination with <Skill id="9146"/> will ramp up <Condition name="Vulnerability"/> fast. Finish with <Skill id="9081"/> and use <Skill name="Leapoffaith"/> slightly left of the rift to travel to island 2.
 
+Drop a <Skill name="Swordofjustice"/> as soon as you arrive. This in combination with <Skill id="9146"/> will ramp up <Condition name="Vulnerability"/> fast. Finish with <Skill id="9081"/> and use <Skill name="Leapoffaith"/> slightly left of the rift to travel to island 2.
 
 </InformationBlock>
 
@@ -221,8 +219,8 @@ Use <Skill id="9146"/> for <Condition name="Vulnerability"/> and to generate <Tr
 </InformationBlock>
 
 <InformationBlock title="Island 4">
-Cast <Skill name="Bane Signet"/> before the anomaly jumps, otherwise people that leave early (mainly the <Specialization name="Soulbeast"/> precasting <Skill id="12469"/> ) will miss the buff! Blast a firefield with <Skill id="9082"/> to generate <Boon name="Might"/>, drop a <Skill id="9168"/> right before the anomaly lands and make sure to reduce its hp to 0% with <Skill id="9107"/> before you take the portal. (Unfortunately for us dragonhunters this fight is a soulbeast show in terms of target dps so we cannot afford to leave island 4 early).
 
+Cast <Skill name="Bane Signet"/> before the anomaly jumps, otherwise people that leave early (mainly the <Specialization name="Soulbeast"/> precasting <Skill id="12469"/> ) will miss the buff! Blast a firefield with <Skill id="9082"/> to generate <Boon name="Might"/>, drop a <Skill id="9168"/> right before the anomaly lands and make sure to reduce its hp to 0% with <Skill id="9107"/> before you take the portal. (Unfortunately for us dragonhunters this fight is a soulbeast show in terms of target dps so we cannot afford to leave island 4 early).
 
 </InformationBlock>
 
@@ -236,7 +234,7 @@ Cast <Skill name="Bane Signet"/> before the anomaly jumps, otherwise people that
 
 <InformationBlock title="Overview">
 
-Do a standard burst rotation starting on sword/focus. You can use  <Skill id="30039"/> after the phase to give your party long lasting <Boon name="aegis"/> to block the next <Control name="Knockback"/> on island 1.
+Do a standard burst rotation starting on sword/focus. You can use <Skill id="30039"/> after the phase to give your party long lasting <Boon name="aegis"/> to block the next <Control name="Knockback"/> on island 1.
 
 </InformationBlock>
 
@@ -249,6 +247,7 @@ Use the information from above for the remaining encounter!
 </CMInformation>
   
 <IdealRotation>
+
 1.  <Skill name="Swordofjustice"/>
 2.  <Skill name="Procession of Blades"/>
 3.  <Skill name="Ray of Judgment"/> (Focus 4)
@@ -257,12 +256,8 @@ Use the information from above for the remaining encounter!
 6.  <Skill name="Symbolofresolution"/>
 7.  <Skill name="whirlingwrath"/>
 
-
 </IdealRotation>
 </Phase>
-
- 
-
 
 <Boss name="Artsariiv" video="" videoCreator="" foodId="91805" utilityId="9443" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   If your team does not have a <Specialization name="Soulbeast"/>, you can take <Skill name="Wall of reflection"/> for reflects. Please don't steal the reflect from a <Specialization name="Soulbeast"/>!
