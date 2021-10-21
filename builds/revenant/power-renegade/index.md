@@ -1,5 +1,5 @@
 ---
-title: Power Renegade
+title: Power Alac Renegade
 sections:
   - type: mdx
     title: Overview

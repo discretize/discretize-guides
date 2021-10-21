@@ -1,5 +1,5 @@
 ---
-title: Condi Firebrand
+title: Condi (Quick) Firebrand
 sections:
   - type: mdx
     title: Overview
