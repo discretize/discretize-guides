@@ -645,7 +645,7 @@ sections:
 
       </Phase>
   - content: >-
-      <Boss name="Artsariiv" video="PrWib9gJ6sA" videoCreator="Princeps [dT]"
+      <Boss name="Artsariiv" video="1KDJjkkGw70" videoCreator="Princeps [dT]"
       foodId="91805" utilityId="73191" healId="41714" utility1Id="40915"
       utility2Id="9168" utility3Id="9093" eliteId="29965"
       weapon1MainAffix="Berserker" weapon1MainType="Greatsword"
@@ -674,21 +674,16 @@ sections:
       When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Firebrand"/> this means your signets such as <Skill name="Banesignet"/>.
 
 
-      As soon as you see <Skill name="moastance"/> from the <Specialization name="Soulbeast"/> on your bar lay down a fire field with <TomeSkill name="chapterscorchedaftermath"/> (F1-4), close the tome, blast with <Skill name="Shieldofwrath"/> (Focus 5) and stack boons with your mantras. To maximize the duration of <Skill name="Banesignet"/> use it as late as possible! You do not need to wait for the full aftercast before taking the _Mistlock Singularity_.
+      Ideally everyone waits at Artsariiv together to give the <Specialization name="Renegade"/> more time to ~~precast~~ lag the game with casting <Boon name="Resistance"/>. Take the portal and lay down a fire field with <TomeSkill name="chapterscorchedaftermath"/> (F1-4), close the tome, blast with <Skill name="Shieldofwrath"/> (Focus 5), <Skill name="hammerofwisdom"/> and stack boons with your mantras. To maximize the duration of <Skill name="Banesignet"/> use it as late as possible! You do not need to wait for the full aftercast before taking the _Mistlock Singularity_. If you are very quick, cast <Skill name="banesignet"/> again, however, this is only worth it if your party instatriggers the boss.
 
 
       </InformationBlock>
 
 
-      <InformationBlock title="At the boss">
+      <InformationBlock title="Portal to the boss">
 
 
-      If your team coordinates via voice chat you should be able to ~~precast~~ cause lags with your symbols.  
-
-      If not you have to observe your fellow <Specialization name="Soulbeast"/> friend's <Skill name="Barrage"/> animation. As soon as it finishes you can assume that you will be put in combat.
-
-
-      The symbol precast priority is as always: Mace > Scepter > GS > Sw > Staff
+      Immidately start precasting your symbols. The symbol precast priority is as always: Mace > Scepter > GS > Sw > Staff. Make sure to end on greatsword to be able to proceed optimally.
 
 
       </InformationBlock>
@@ -703,6 +698,8 @@ sections:
 
       2.  <Skill name="Shieldofwrath"/> (Focus 5)
 
+      3.  <Skill name="Hammerofwisdom"/>
+
       3.  1x <Skill name="Mantra of solace"/>
 
       4.  3x <Skill name="Mantra of potence" />
@@ -711,11 +708,9 @@ sections:
 
       5.  <Skill name="BaneSignet"/>
 
-      6.  Take _Mistlock Singularity_ and approach boss
+      6.  Take _Mistlock Singularity_ and take portal
 
       7.  Symbol precast
-
-      8.  <Skill name="Shieldofwrath"/> (Focus 5)
 
 
       </IdealRotation>
@@ -822,15 +817,6 @@ sections:
       </InformationBlock>
 
 
-      <InformationBlock title="Rest of the fight">
-
-
-      Use the information from above for the remaining encounter!
-
-
-      </InformationBlock>
-
-
       </CMInformation>
         
       <IdealRotation>
@@ -856,9 +842,44 @@ sections:
       </IdealRotation>
 
       </Phase>
+
+
+      <Phase>
+
+
+      <CMInformation title="CC phase">
+
+
+      <InformationBlock title="Middle Add">
+
+
+      Open a <Skill name="Tomeofjustice"/> and use <TomeSkill name="Chapter 3: Heated Rebuke"/>. Dont close your tome yet.
+
+
+      </InformationBlock>
+
+
+      <InformationBlock title="Southwest adds">
+
+
+      Use <SpecialActionKey name="hypernovalaunch"/> as soon as you can to jump to the two southwest adds. You will cc these two adds together with the <Specialization name="Dragonhunter"/>. Since <Skill name="Bindingblade"/> for CC cannot applied at the same time you need to hurry to not slow down your party. Leap with <Skill name="leapoffaith"/> against the corder southwest add, swap weapons immediately and open <Skill name="tomeofjustice"/> and cc the west add with <TomeSkill name="Chapter 3: Heated Rebuke"/>.
+
+
+      Jump back into the middle while still having targeted the west add. Cast <Skill name="feelmywrath"/> so your party friends can ~~precast~~ lag the game. Finish the west add with <Skill name="banesignet"/>.
+
+
+      Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right after so your party has the chance to blast some <Boon name="Might"/>. Before closing the tome use <TomeSkill name="epilogueashesofthejust"/>. Blast the fire field with <Skill name="Shield of wrath"/> and finish the fight as described in phase 2.
+
+      </InformationBlock>
+
+
+
+      </CMInformation>
+        
+      </Phase>
 profession: Guardian
 specialization: Firebrand
-date: 2021-10-22T23:11:43.894Z
+date: 2021-10-23T10:35:28.804Z
 disableBosses:
   - LightAi
   - DarkAi
