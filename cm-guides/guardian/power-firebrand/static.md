@@ -3,8 +3,8 @@ title: Firebrand CM guide
 type: Static
 sections:
   - content: >-
-      
-      <Boss name="mama" video="e323qch7Kq4" videoCreator="Princeps [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9125" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusüion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131"/>
+
+      <Boss name="mama" video="e323qch7Kq4" videoCreator="Princeps [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9125" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusüion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" hideNotes/>
 
 
       ### **Phase 1**
@@ -886,6 +886,7 @@ disableBosses:
   - Ensolyss
 date: 2021-10-23T10:38:22.222Z
 ---
+
 <Boss name="Arkk" video="BzokxHx0ufM" timestamp="135" videoCreator="Ganny [dT]" foodId="91805" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 - Play scepter on this encounter
