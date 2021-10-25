@@ -229,7 +229,7 @@ sections:
       > 
 
 
-      **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivabilty with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**  
+      **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivability with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**  
 
 
       Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 

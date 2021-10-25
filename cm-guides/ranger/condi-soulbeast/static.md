@@ -14,7 +14,7 @@ disableBosses: ['Skorvald', 'Artsariiv', 'Arkk', 'MAMA', 'Siax', 'Ensolyss']
 
 - <Trait id="1912"/>.
 
-- <Skill name="Vulture Stance"/> can be replaced with <Skill id="45970"/> this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Altenatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. Just remember to sync up <Skill id="45970"/> with <Skill id="45537"/> so <Boon name="Alacrity"/> doesn't drop.
+- <Skill name="Vulture Stance"/> can be replaced with <Skill id="45970"/> this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. Just remember to sync up <Skill id="45970"/> with <Skill id="45537"/> so <Boon name="Alacrity"/> doesn't drop.
 
 - <Skill name="Quick shot"/> and <Skill name="Instinctive Engage"/> are great movement abilities for following Ai when dashing and also to dodge suicidal teammates.
 
@@ -113,7 +113,7 @@ There is not much you can do in the split phase here, so just make sure to keep 
 
 - <Trait id="1912"/>.
 
-- <Skill name="Vulture Stance"/> can be replaced with <Skill id="45970"/> this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Altenatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. Just remember to sync up <Skill id="45970"/> with <Skill id="45537"/> so <Boon name="Alacrity"/> doesn't drop.
+- <Skill name="Vulture Stance"/> can be replaced with <Skill id="45970"/> this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. Just remember to sync up <Skill id="45970"/> with <Skill id="45537"/> so <Boon name="Alacrity"/> doesn't drop.
 
 - <Skill name="Quick shot"/> and <Skill name="Instinctive Engage"/> are great movement abilities for following Ai when dashing and also to dodge suicidal teammates.
 
@@ -122,7 +122,7 @@ There is not much you can do in the split phase here, so just make sure to keep 
 </Boss>
 
 <Warning>
-The following guide assumes your group will CC Ai at the side of the arena; There is a fair amount of rng on this encounter so don't blindly follow the guide. Your comp and pet choice will change the amount of CC required and skill usage, so be prepared to adjust your rotation.
+The following guide assumes your group will CC Ai at the side of the arena; There is a fair amount of RNG on this encounter so don't blindly follow the guide. Your comp and pet choice will change the amount of CC required and skill usage, so be prepared to adjust your rotation.
 </Warning>
 
 ### **Precast**

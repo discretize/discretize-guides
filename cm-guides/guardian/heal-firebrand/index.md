@@ -60,7 +60,7 @@ specialization: Firebrand
 
 2.  Share a stack of <Boon name="Stability"/> through <Skill name="Mantra of liberation"/> if instant CC fails.
 
-3.  If you still have <Skill name="Tome of Justice"/> use its skill 3 to help with additioonal CC if needed as it will be reset after killing the Knight when running Radiance.
+3.  If you still have <Skill name="Tome of Justice"/> use its skill 3 to help with additional CC if needed as it will be reset after killing the Knight when running Radiance.
 
 ### **75%-50%**
 
@@ -84,11 +84,11 @@ specialization: Firebrand
 
 2.  Share a stack of <Boon name="Stability"/> through <Skill name="Mantra of liberation"/> if instant CC fails.
 
-3.  If you still have <Skill name="Tome of Justice"/> use its skill 3 to help with additioonal CC if needed as it will be reset after killing the Knight when running Radiance.
+3.  If you still have <Skill name="Tome of Justice"/> use its skill 3 to help with additional CC if needed as it will be reset after killing the Knight when running Radiance.
 
 ### **50%-25%**
 
-- Rotation in this phase will depend a lot on the group DPS and CC as well as what ewapon set you started on. Remember the basics of keeping up boons from the build guide.
+- Rotation in this phase will depend a lot on the group DPS and CC as well as what weapon set you started on. Remember the basics of keeping up boons from the build guide.
 
 1.  Assist on the breakbar with <Skill name="banesignet"/>, <Skill name="Blazing Edge"/> and, if needed, <Skill name="Tome of Justice"/> skill 3.
 
@@ -104,7 +104,7 @@ specialization: Firebrand
 
 2.  Share a stack of <Boon name="Stability"/> through <Skill name="Mantra of liberation"/> if instant CC fails.
 
-3.  If you still have <Skill name="Tome of Justice"/> use its skill 3 to help with additioonal CC if needed as it will be reset after killing the Knight when running Radiance.
+3.  If you still have <Skill name="Tome of Justice"/> use its skill 3 to help with additional CC if needed as it will be reset after killing the Knight when running Radiance.
 
 ### **25%-0%**
 
@@ -171,11 +171,11 @@ specialization: Firebrand
 
 1.  Position yourself with the <Specialization name="Renegade"/> using Axe to help with DPS!
 
-2.  Be ready to swap to Staff early or even use <Skill name="tomeofresolve"/> if a DPS desperatly needs healing. On Staff you can throw <Skill name="Holy Strike"/> and <Skill name="Symbol of Swiftness"/> on someone for a bit of healing from range.
+2.  Be ready to swap to Staff early or even use <Skill name="tomeofresolve"/> if a DPS desperately needs healing. On Staff you can throw <Skill name="Holy Strike"/> and <Skill name="Symbol of Swiftness"/> on someone for a bit of healing from range.
 
 ### **66%-33%**
 
-- Breakbar timings will heavily depend on your group DPS. In a fast group, you will not encounter a beakbar in this phase, in lower DPS groups you might encounter it towards the end or even in the middle of this phase.
+- Breakbar timings will heavily depend on your group DPS. In a fast group, you will not encounter a breakbar in this phase, in lower DPS groups you might encounter it towards the end or even in the middle of this phase.
 
 1.  If you are still on Axe, you can drop a <Skill name="Symbol of Vengeance"/> on the boss while running back to it. If you do this, make sure to already start casting it before you fully reach the boss (since the symbol has a quite large radius) so you can swap to Staff to give <Boon name="Might"/> as fast as possible.
 
@@ -193,11 +193,11 @@ specialization: Firebrand
 
 1.  Position yourself with the <Specialization name="Renegade"/> using Axe to help with DPS!
 
-2.  Be ready to swap to Staff early or even use <Skill name="tomeofresolve"/> if a DPS desperatly needs healing. On Staff you can throw <Skill name="Holy Strike"/> and <Skill name="Symbol of Swiftness"/> on someone for a bit of healing from range.
+2.  Be ready to swap to Staff early or even use <Skill name="tomeofresolve"/> if a DPS desperately needs healing. On Staff you can throw <Skill name="Holy Strike"/> and <Skill name="Symbol of Swiftness"/> on someone for a bit of healing from range.
 
 ### **33%-0%**
 
-- Breakbar timings will heavily depend on your group DPS. In a fast group, you will not encounter a beakbar in the 2nd phase which will lead to a breakbar at the start of this phase. If there was a breakbar at the end of the 2nd phase, there will most likely be a breakbar towards the end of this phase as well. In that case, consider sharing <Skill name="Bane Signet"/> earlier for the group DPS buff.
+- Breakbar timings will heavily depend on your group DPS. In a fast group, you will not encounter a breakbar in the 2nd phase which will lead to a breakbar at the start of this phase. If there was a breakbar at the end of the 2nd phase, there will most likely be a breakbar towards the end of this phase as well. In that case, consider sharing <Skill name="Bane Signet"/> earlier for the group DPS buff.
 
 - If there will be no early breakbar, handle this phase exactly the same as the 2nd phase. If there will be an early breakbar, do this instead:
 
@@ -474,7 +474,7 @@ specialization: Firebrand
 ---
 
 <Boss name="artsariiv" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Stand Your Ground" eliteId="43357" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
--   This can be a very high pressure fight. As a <Specialization name="Firebrand" text="Heal Firebrand"/> in this fight you need to provide sufficient <Boon name="aegis"/> and <Boon name="stability"/> for various attacks to ensure your DPS players are not being interupted as well as providing enough healing and condi cleanse.
+-   This can be a very high pressure fight. As a <Specialization name="Firebrand" text="Heal Firebrand"/> in this fight you need to provide sufficient <Boon name="aegis"/> and <Boon name="stability"/> for various attacks to ensure your DPS players are not being interrupted as well as providing enough healing and condi cleanse.
 
 - **Important:** The reflect on Artsariiv scales with the player's <Attribute name="Precision"/>! If you have another class that can provide a reflect, let them reflect as they will be doing much more damage with it. If nobody else can provide a reflect, it might be worth taking it yourself as a defense against the boss' attacks.
 
@@ -512,7 +512,7 @@ specialization: Firebrand
 
 1.  Precast <Skill name="symbol of vengeance"/> for <Boon name="fury"/>.
 
-2.  Use <Skill name="standyourground"/> so players don't get <Condition name="Fear"/> by the boss or <Control name="Knockdown"/> by the adds. Skip this step if your <Specialization name="Renegade"/> is prvoding <Skill name="Inspiring reinforcement"/> and use <Skill name="Stand Your Ground"/> in he corner instead.
+2.  Use <Skill name="standyourground"/> so players don't get <Condition name="Fear"/> by the boss or <Control name="Knockdown"/> by the adds. Skip this step if your <Specialization name="Renegade"/> is providing <Skill name="Inspiring reinforcement"/> and use <Skill name="Stand Your Ground"/> in he corner instead.
 
 3.  Use <SpecialActionKey name="hypernovalaunch"/> to the corner after the anomaly is dead.
 
@@ -575,13 +575,13 @@ Corner:
 
 ### **General**
 
-- Share <Skill name="Bane Signet"/> in DPS phases independant of breakbars.
+- Share <Skill name="Bane Signet"/> in DPS phases independent of breakbars.
 
 - Try to use <Boon name="Stability"/> when Arkk has the eye above his head to prevent your group from getting <Condition name="Fear"/>.
 
 - Try to share <Boon name="Aegis"/> and/or <Boon name="Stability"/> for his <Control name="Float"/> attack after 60%.
 
-- Other than that, just try to handle the mechanics yoruself as best as you can and time your heals based on which mechanics the group struggles with.
+- Other than that, just try to handle the mechanics yourself as best as you can and time your heals based on which mechanics the group struggles with.
 
 - <SpecialActionKey name="hypernovalaunch"/> is a blast finisher. Therefore you can use a <Skill name="Tome of Justice"/> skill 4 to create a fire field before everyone is using their Special Action Key. This would be when he has the red orb above his head and after the bloom phase when he gets a breakbar.
 
@@ -615,7 +615,7 @@ Corner:
 
 3.  Stay on Axe until the boss phases or until you used a 2nd <Skill name="Symbol of Vengeance"/> for <Boon name="Fury"/>.
 
-4.  Try to handle the mechanics as desribed in the general section and make sure to swap to Staff when you reach 80%.
+4.  Try to handle the mechanics as described in the general section and make sure to swap to Staff when you reach 80%.
 
 ### **80%**
 
@@ -719,7 +719,7 @@ Corner:
 
 4.  This is a perfect time to use <Skill name="tomeofcourage"/> again with skill 5,4,3 and spam 1. This provides <Boon name="stability"/> for <Condition name="Fear"/>, <Boon name="aegis"/> for melee attacks and a reflect for the agony AoEs.
 
-5.  If the phase continues for longer, it can get very chaotic. Try to use up whatever you have left to get thrugh the rest of the phase.
+5.  If the phase continues for longer, it can get very chaotic. Try to use up whatever you have left to get through the rest of the phase.
 
 <Boss name="LightAi" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Signet of Wrath" utility3="Sanctuary" elite="Feel My Wrath" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
 -   When <Instability name="Afflicted"/> is present, run <Skill name="Mantra of Lore"/> instead of <Skill name="Signet of Wrath"/>. You will still be able to share <Attribute name="Condition Damage"/> through <Trait name="Wrath of Justice"/>. You can also take this skill if people struggle with attacks that inflict conditions during the fire phase.

@@ -194,7 +194,7 @@ First off, figure out which out of all the clones is the real Amala and ping her
 
 - When she uses her _Moa Signet_, the <Skill id="29519"/> icon will appear above her
 
-The player targeted by the _Moa Signet_ should use sak the moment it completes to prevent others from being transformed.
+The player targeted by the _Moa Signet_ should use the special action key the moment it completes to prevent others from being transformed.
 
 When Amala drops below 95% health she will begin teleporting around, making new clones whenever she does so. Using the change target key (usually `TAB`) will automatically target her if she is in your line of sight. Try to step around the purple portals on the ground so you avoid being teleported up in the air.
 

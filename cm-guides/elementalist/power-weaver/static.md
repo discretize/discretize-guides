@@ -79,7 +79,7 @@ In more organised groups it's recommended to run <Specialization name="Tempest"/
 
 - Attune directly to <Skill id="5494"/>/<Skill id="5494"/> using <Skill id="44612"/> and continue to auto attack till MAMA is dead.
 
-- NOTE: If youre fast and Boss is in range when she s going to jump you can use <Skill id="43803"/> -> dodge -> and then rest of combo.
+- NOTE: If you're fast and Boss is in range when she s going to jump you can use <Skill id="43803"/> -> dodge -> and then rest of combo.
 
 <Boss name="siax" video="toqlXSTRSVg" videoCreator="KalzeN [dT]" foodId="43360" utilityId="50082" heal="signetofrestoration" utility1="unravel" utility2="glyphofstorms" utility3="primordialstance" elite="conjurefierygreatsword" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="dagger" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131">
 <Warning>
@@ -187,7 +187,7 @@ Use first <Skill id="40183"/> precasted for instant <Condition name="Vulnerabili
 
 - Precast <Skill id="5737"/>
 
-- <Skill id="5687"/>-> <Skill id="44998"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Autoattach Chain -> <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
+- <Skill id="5687"/>-> <Skill id="44998"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Autoattack Chain -> <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
 
 - Continue loop with BTTH rotation until boss is phased.
 
@@ -291,7 +291,7 @@ _Island 4_
 
 ### **Precast**
 
-- Precast <Skill id="5624"/> behind boss hitbox (on edge of it, sligthly left to not get cucked with marbles during picking it up, watch any PoV for more input ). /gg or use portal to get back to _Mistlock Singularity_.
+- Precast <Skill id="5624"/> behind boss hitbox (on edge of it, slightly left to not get cucked with marbles during picking it up, watch any PoV for more input ). /gg or use portal to get back to _Mistlock Singularity_.
 
 - **NOTE:** You can use tempest precast as well if any party member is placing fire field.
 

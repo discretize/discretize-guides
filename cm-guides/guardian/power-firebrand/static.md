@@ -124,7 +124,7 @@ sections:
       - The rotation for scepter/sword is the same for every specialization. **Sword tends to perform much better on both <Specialization name="Firebrand"/> and <Specialization name="Dragonhunter"/>**!
 
 
-      - When playing <Specialization text="Core Guardian" name="Guardian"/> you will have a free utility slot. Take <Skill name="judges intervention"/> to get back to siax fast after the seoncd split phase.
+      - When playing <Specialization text="Core Guardian" name="Guardian"/> you will have a free utility slot. Take <Skill name="judges intervention"/> to get back to siax fast after the second split phase.
 
 
       - As <Specialization text="Core Guardian" name="Guardian"/> you may run <Trait name="righthand strength"/> for lower cooldowns on sword and additional stat increase!
@@ -579,7 +579,7 @@ sections:
       <InformationBlock title="Island 4">
 
 
-      Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right when you land so your party has the chance to blast some <Boon name="Might"/>. While the anomaly is evading blast <Boon name="Might"/> with <Skill name="Shieldofwrath"/>. Share your <Skill name="Banesignet"/> already! This is not an issue since phase 2 and 3 are each about 6-8 seconds long; so for the majority of the fight <Skill name="Banesignet"/> will be up. Just before the anomaly finishes its evade frame drop a <Skill name="Swordofjustice"/> for quick <Condition name="Vulnerability"/> rampup.  
+      Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right when you land so your party has the chance to blast some <Boon name="Might"/>. While the anomaly is evading blast <Boon name="Might"/> with <Skill name="Shieldofwrath"/>. Share your <Skill name="Banesignet"/> already! This is not an issue since phase 2 and 3 are each about 6-8 seconds long; so for the majority of the fight <Skill name="Banesignet"/> will be up. Just before the anomaly finishes its evade frame drop a <Skill name="Swordofjustice"/> for quick <Condition name="Vulnerability"/> ramp-up.  
 
       During our testing applying one stack of <Boon name="Stability"/> with <Skill name="Mantraofliberation"/> was not enough to reliably not get knockbacked by the anomaly, so it is recommended to jump!  
 
@@ -683,7 +683,7 @@ sections:
       <InformationBlock title="Portal to the boss">
 
 
-      Immidately start precasting your symbols. The symbol precast priority is as always: Mace > Scepter > GS > Sw > Staff. Make sure to end on greatsword to be able to proceed optimally.
+      Immediately start precasting your symbols. The symbol precast priority is as always: Mace > Scepter > GS > Sw > Staff. Make sure to end on greatsword to be able to proceed optimally.
 
 
       </InformationBlock>
@@ -768,7 +768,7 @@ sections:
       <InformationBlock title="Middle Add">
 
 
-      Open a <Skill name="Tomeofjustice"/> and use <TomeSkill name="Chapter 3: Heated Rebuke"/>. Dont close your tome yet.
+      Open a <Skill name="Tomeofjustice"/> and use <TomeSkill name="Chapter 3: Heated Rebuke"/>. Don't close your tome yet.
 
 
       </InformationBlock>
@@ -811,7 +811,7 @@ sections:
       Before following Artsariiv to the corner it is expected to heal the <Skill name="Frostspirit"/> with <Skill name="tomeofresolve"/>: <TomeSkill name="Epilogue: Eternal Oasis"/>, <TomeSkill name="Chapter 4: Shining River"/>, <TomeSkill name="Chapter 3: Azure Sun"/>. Use your <SpecialActionKey name="hypernovalaunch"/> to jump to Artsariiv. 
 
 
-      Finish the phase on greatsword. Do not swap to sword since you will need to use your CC abilities on greatsword to complete the split phase quickly. In case your team is slow you can carry them by reflecting Artsariivs `Taw Shot` attack with <TomeSkill name="Chapter 3: Valiant Bulwark"/>. 
+      Finish the phase on greatsword. Do not swap to sword since you will need to use your CC abilities on greatsword to complete the split phase quickly. In case your team is slow you can carry them by reflecting Artsariiv's `Taw Shot` attack with <TomeSkill name="Chapter 3: Valiant Bulwark"/>. 
 
 
       </InformationBlock>
@@ -853,7 +853,7 @@ sections:
       <InformationBlock title="Middle Add">
 
 
-      Open a <Skill name="Tomeofjustice"/> and use <TomeSkill name="Chapter 3: Heated Rebuke"/>. Dont close your tome yet.
+      Open a <Skill name="Tomeofjustice"/> and use <TomeSkill name="Chapter 3: Heated Rebuke"/>. Don't close your tome yet.
 
 
       </InformationBlock>

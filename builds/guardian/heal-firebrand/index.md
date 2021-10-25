@@ -348,7 +348,7 @@ sections:
         . Due to <Trait name="Writ of Persistence" /> this will also passively heal allies
         within. This skill should be used off-cooldown when on the Mace weapon set.
       - <Skill name="Protectors Strike" /> grants <Boon name="Aegis" /> if you block an
-        attack while channeling it. It can sometimes be useful to run itno an attack on
+        attack while channeling it. It can sometimes be useful to run into an attack on
         purpose while channeling this attack to trigger the <Boon name="Aegis" /> application.
 
       </Card>
@@ -444,7 +444,7 @@ sections:
 
       - <TomeSkill name="Chapter 4: Shining River"/> places a healing field that can also be blasted for extra healing.
 
-      - <TomeSkill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an cimoning healing modifier.
+      - <TomeSkill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an incoming healing modifier.
 
       - When running Virtues entering this Tome also cleanses conditions.
 

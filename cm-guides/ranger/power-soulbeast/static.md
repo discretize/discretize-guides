@@ -152,11 +152,11 @@ This rotation is designed to be used when playing double Soulbeast comps, it bur
 
 ### **2nd Phase**
 
-- As soon as MAMA becomes vunerable cast <Skill name="Sicem"/> and <Skill name="Frost Trap"/>
+- As soon as MAMA becomes vulnerable cast <Skill name="Sicem"/> and <Skill name="Frost Trap"/>
 
 - Burst with <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/>.
 
-- Use <Skill id="41524"/> and Sword autoattacks untill MAMA phases moving to the bubble if it spawns.
+- Use <Skill id="41524"/> and Sword autoattacks until MAMA phases moving to the bubble if it spawns.
 
 ### _2nd Add_
 
@@ -186,7 +186,7 @@ This rotation is designed to be used when playing double Soulbeast comps, it bur
 
 - Weaponswap and burst with <Skill name="Worldly Impact"/>, <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/>.
 
-- Use <Skill id="41524"/> and Sword autoattacks untill MAMA dies.
+- Use <Skill id="41524"/> and Sword autoattacks until MAMA dies.
 
 </Tab>
 </Tabs>
@@ -201,7 +201,7 @@ This rotation is designed to be used when playing double Soulbeast comps, it bur
 
 - In faster kills you want to run <Item id="82876"/> instead of <Item id="24868"/> on Longbow.
 
-- If you are running with double Soulbeasts, we recomend both soulbeasts run skirmishing and follow the <Trait name="Quickdraw"/> rotation below. It also works out well to replace Sword mainhand with Axe, as it allows you to stay in the middle on the 1st split meaning you can fit more skills into <Effect name="Exposed"/> on Phase 2.
+- If you are running with double Soulbeasts, we recommend both soulbeasts run skirmishing and follow the <Trait name="Quickdraw"/> rotation below. It also works out well to replace Sword mainhand with Axe, as it allows you to stay in the middle on the 1st split meaning you can fit more skills into <Effect name="Exposed"/> on Phase 2.
 
 </Boss>
 
@@ -296,13 +296,13 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 
 ### **1st Phase**
 
-- Precast <Skill name="Barrage"/> amd use <Skill name="Frosttrap"/> as soon as your first trap procs so you have both ticking at the same time.
+- Precast <Skill name="Barrage"/> and use <Skill name="Frosttrap"/> as soon as your first trap procs so you have both ticking at the same time.
 
 - <Skill name="Sicem"/> as soon as Siax is targetable and use <Skill name="Point Blank Shot"/> to proc <Trait name="Twice as Vicious"/>.
 
 - Weapon swap to proc <Trait name="Quickdraw"/> and use <Skill name="Whirling Defense"/>.
 
-- <Skill name="Path of Scars"/> and <Skill id="45743"/> to CC. Alternitively if you plan to ignore the CC bar continue bursting with <Skill name="Path of Scars"/> and <Skill name="Worldly Impact"/>
+- <Skill name="Path of Scars"/> and <Skill id="45743"/> to CC. Alternatively if you plan to ignore the CC bar continue bursting with <Skill name="Path of Scars"/> and <Skill name="Worldly Impact"/>
 
 - Auto attack to finish the phase.
 
@@ -318,7 +318,7 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 
 - Burst into exposed with <Skill name="Frenzied Attack"/> (If you run Moa) and <Skill name="Whirling Defense"/>.
 
-- If your group has high DPS you will want to open a bundle during the cast of <Skill name="Whirling Defense"/> to proc <Trait name="Quickdraw"/> so it iss off cooldown for the 3rd phase.
+- If your group has high DPS you will want to open a bundle during the cast of <Skill name="Whirling Defense"/> to proc <Trait name="Quickdraw"/> so it is off cooldown for the 3rd phase.
 
 - Cast <Skill name="Winters Bite"/> (if you play Axe mainhand), and then <Skill name="Path of Scars"/> to refresh <Trait name="Twice as Vicious"/>.
 
@@ -445,7 +445,7 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 
 Spirit Management:
 
-- You should spwan your spirit at the entrance to the fractal and let it tick down to around 70% before starting to precast. This means the spirit will die after the first phase and you can resummon it before phase 2, where it will survive for the rest of the fight.
+- You should spawn your spirit at the entrance to the fractal and let it tick down to around 70% before starting to precast. This means the spirit will die after the first phase and you can resummon it before phase 2, where it will survive for the rest of the fight.
 
 </Warning>
 
@@ -493,7 +493,7 @@ Spirit Management:
 
 - Instantly use <Skill name="Rapid Fire"/> to stack <Condition name="Vulnerability"/>.
 
-- As the Anomaly goes invunerable cast <Skill name="Barrage"/>.
+- As the Anomaly goes invulnerable cast <Skill name="Barrage"/>.
 
 - Finish the Anomaly with <Skill name="Point Blank Shot"/> and autoattacks.
 

@@ -158,7 +158,7 @@ You don't have to precast every symbol, however it's recommended to always inclu
   
 <IdealRotation>
 
-1.  Blast a firefield to generate <Boon name="Might"/> using <Skill name="Hammer Of Wisdom"/> and <Skill name="Shieldofwrath"/> (Focus 5). If your team is still short on blasts you could also use <Skill name="Holy Strike"/> (Staff 2)
+1.  Blast a fire field to generate <Boon name="Might"/> using <Skill name="Hammer Of Wisdom"/> and <Skill name="Shieldofwrath"/> (Focus 5). If your team is still short on blasts you could also use <Skill name="Holy Strike"/> (Staff 2)
 2.  <Skill name="Save yourselves"/> to generate <Boon name="Resolution"/> for yourself
 3.  <Skill name="Feelmywrath"/> to generate <Boon name="Quickness"/>
 4.  <Skill name="BaneSignet"/>
@@ -220,7 +220,7 @@ Use <Skill id="9146"/> for <Condition name="Vulnerability"/> and to generate <Tr
 
 <InformationBlock title="Island 4">
 
-Cast <Skill name="Bane Signet"/> before the anomaly jumps, otherwise people that leave early (mainly the <Specialization name="Soulbeast"/> precasting <Skill id="12469"/> ) will miss the buff! Blast a firefield with <Skill id="9082"/> to generate <Boon name="Might"/>, drop a <Skill id="9168"/> right before the anomaly lands and make sure to reduce its hp to 0% with <Skill id="9107"/> before you take the portal. (Unfortunately for us dragonhunters this fight is a soulbeast show in terms of target dps so we cannot afford to leave island 4 early).
+Cast <Skill name="Bane Signet"/> before the anomaly jumps, otherwise people that leave early (mainly the <Specialization name="Soulbeast"/> precasting <Skill id="12469"/> ) will miss the buff! Blast a fire field with <Skill id="9082"/> to generate <Boon name="Might"/>, drop a <Skill id="9168"/> right before the anomaly lands and make sure to reduce its hp to 0% with <Skill id="9107"/> before you take the portal. (Unfortunately for us dragonhunters this fight is a soulbeast show in terms of target dps so we cannot afford to leave island 4 early).
 
 </InformationBlock>
 
@@ -278,7 +278,7 @@ Use the information from above for the remaining encounter!
 
 - Use your <Skill name="Bane Signet"/> to help with CC and boost the party DPS as soon as Artsariiv arrives at the corners.
 
-- Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariivs hitbox for big damage.
+- Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariiv's hitbox for big damage.
 
 ### _Adds_
 

@@ -123,7 +123,7 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 - Do what a warrior does: smash <Skill name="decapitate"/>.
 
-**Annnotation:**
+**Annotation:**
 
 - Depending on your kill time you might want to use the <Skill name="headbutt"/> - <Skill name="outrage"/> combo earlier.
 
