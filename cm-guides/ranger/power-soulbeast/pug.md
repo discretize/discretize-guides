@@ -61,7 +61,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 - Autoattack as well as using <Skill name="Worldly impact"/> and <Skill id="41524"/>.
 
-- If your group is slow wou may have time to switch back to Longbow here and cast <Skill name="Barrage"/>. Only do this if you will have time to burst P2 and still swap back to Longbow after for the 2nd add.
+- If your group is slow you may have time to switch back to Longbow here and cast <Skill name="Barrage"/>. Only do this if you will have time to burst P2 and still swap back to Longbow after for the 2nd add.
 
 ### **2nd Phase**
 
@@ -335,7 +335,7 @@ Spirit Management:
 
 - Use <Skill name="Worldly Impact"/>, auto attack and your pet skills if Skorvald hasn't phased.
 
-- Place a portal if you volounteered to do 66%.
+- Place a portal if you volunteered to do 66%.
 
 - Use <Skill name="Hornet Sting"/> to get to the first island once it is phased.
 
@@ -435,7 +435,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 ### **66-33%**
 
-- As Artsariiv becomes vunerable <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
+- As Artsariiv becomes vulnerable <Skill name="Path of Scars"/> -> <Skill name="Whirling Defense"/>.
 
 - Dodge the shock wave and use <Skill name="Point Blank Shot"/> -> <Skill name="Rapid Fire"/>
 
@@ -522,7 +522,7 @@ Your rotation will depend on your groups DPS and ability to CC! In general make 
 
 ### _Archdiviner_
 
-- There is not much you can do here so use <Skill name="Rapidfire"/> and aouto attacks to help kill the add.
+- There is not much you can do here so use <Skill name="Rapidfire"/> and autoattacks to help kill the add.
 
 - Use special action key to CC the add so the boon corrupt AoE's don't spawn.
 

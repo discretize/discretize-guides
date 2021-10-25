@@ -173,7 +173,7 @@ If group DPS is low its recommended to run <Trait id="214"/> instead of <Trait i
 
 - Precast <Skill id="5531"/> and <Skill id="5737"/>
 
-- <Skill id="5687"/>-> <Skill id="44998"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Autoattach Chain -> <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
+- <Skill id="5687"/>-> <Skill id="44998"/> -><Skill id="43803"/> -> <Skill id="45313"/> -> <Skill id="5529"/> -> <Skill id="43074"/> -> Autoattack Chain -> <Skill id="5557"/> -> <Skill id="44451"/> -> <Skill id="5691"/> -> <Skill id="45313"/>
 
 - When boss jumps to the corner and bubble phase begins pick up your remaining <Skill id="5516"/> and <Skill id="5517"/> to it. Cast <Skill id="5531"/> on it and continue with standard BTTH rotation til it's dead.
 
@@ -404,4 +404,4 @@ _Island 4_
 
 - Continue with BTTH rotation until boss is dead.
 
-- Use <SpecialActionKey name="hypernovalaunch"/> or Burn Rigorous Certainty to don't get hit by deathray.
+- Use <SpecialActionKey name="hypernovalaunch"/> or Burn Rigorous Certainty to not get hit by deathray.

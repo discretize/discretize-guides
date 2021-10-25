@@ -146,7 +146,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 | ----- | ------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | `CFB` | Condi Firebrand    | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                  | <BuildLink build="Condi Firebrand" specialization="Firebrand"/>  |
 | `SFB` | Seraph Firebrand    | `qfb`, `fb`   | <Specialization name="Firebrand" text="Seraph Firebrand"/> for <Boon name="Quickness"/>. Hybrid build that deals some DPS and heals            | <BuildLink build="Seraph Firebrand" specialization="Firebrand"/> |
-| `HB`  | Heal Firebrand     | `fb`, `hfb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and grpup support, Healer build | <BuildLink build="Heal Firebrand" specialization="Firebrand"/> |
+| `HB`  | Heal Firebrand     | `fb`, `hfb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and group support, Healer build | <BuildLink build="Heal Firebrand" specialization="Firebrand"/> |
 | `Ren` | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities  (can be power or condi)                                             | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> <br/> <BuildLink build="Power Renegade" specialization="Renegade"/> |
 | `SCG` | Condi Scourge    | `cscg` | <Specialization name="Scourge" text="Condi Scourge"/>, a common condition dps class played in pugs                                  | <BuildLink build="Condi Scourge" specialization="Scourge"/> |
 | `CDPS`  | Condition DPS | `dps`, `cdps` | A suitable condition dps build from a class of your choice  | [What Should I play](/guides/what-should-i-play/) |
@@ -160,7 +160,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 
 ## Current fractal META
 
-Although most groups in LFG don't follow the META it can be beneficial for you to understand how it works in theory to play your own build more efficiently. All the builds in the META have very specific key roles. It is important to fulfil your role to aid the best possible support to your team (also DPS classes support the team with CC and other unique buffs).
+Although most groups in LFG don't follow the META it can be beneficial for you to understand how it works in theory to play your own build more efficiently. All the builds in the META have very specific key roles. It is important to fulfill your role to aid the best possible support to your team (also DPS classes support the team with CC and other unique buffs).
 
 Please consult the [meta-page](guides/meta-explained) for more information about the current fractal META.
 

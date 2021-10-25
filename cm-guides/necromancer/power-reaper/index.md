@@ -132,7 +132,7 @@ If not under 50% health:
 
 9.  <Skill name="Soul Spiral"/> (Shroud 4)
 
-10. Auto attack until _MAMA_ dies (if yourun out of life force, <Skill name="Gravedigger"/> (GS 2))
+10. Auto attack until _MAMA_ dies (if you run out of life force, <Skill name="Gravedigger"/> (GS 2))
 
 ---
 
@@ -185,7 +185,7 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 
 ### **Phase 2**
 
-1.  If Siax is still invulnerable, when your add dies, cast your healing signet into the invulnerabiltiy
+1.  If Siax is still invulnerable, when your add dies, cast your healing signet into the invulnerability
 
 2.  <Skill name="Grasping Darkness"/> (GS 5)
 
@@ -209,7 +209,7 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 
 ### **Phase 3**
 
-1.  If Siax is still invulnerable, when your add dies, cast your healing signet into the invulnerabiltiy
+1.  If Siax is still invulnerable, when your add dies, cast your healing signet into the invulnerability
 
 2.  Use both wells when the fight starts
 
@@ -253,7 +253,7 @@ The exploding adds after Ensolyss’ slam attack fully restore your life force, 
 
 If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the golem so that the charge hits _ENSOLYSS_ as the invulnerability disappearsIf you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and use <Skill name="Wail of Doom"/> (warhorn 4) as the invulnerability disappears and weapon swap
 
-1.  Cst your healing signet into the invulnerability
+1.  Cast your healing signet into the invulnerability
 
 2.  precast <Skill name="Grasping Darkness"/> (GS 5) so it lands into the brief cc window
 
@@ -535,7 +535,7 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 
 13. <Skill name="Souls Spiral"/> (Shroud 4)
 
-14. Shroud Auto Attacks until she phases or you raech ~6k life force
+14. Shroud Auto Attacks until she phases or you reach ~6k life force
 
     1.  <Skill name="Gravedigger"/> (GS 2)
 

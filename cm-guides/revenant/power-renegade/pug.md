@@ -364,7 +364,7 @@ _In the case of reaching the Upswing attack:_
 
 - Weapon swap and use <Skill name="Inspiring Reinforcement"/> to grant <Boon name="Stability"/> for the party.
 
-- Change to <Skill name="Legendary Renegade Stance"/>, and precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at the location where Artsarriv will appear.
+- Change to <Skill name="Legendary Renegade Stance"/>, and precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, and <Skill name="Soulcleaves Summit"/> at the location where Artsariiv will appear.
 
 - Use <Skill name="Surge of the Mists"/> to break the defiance bar. Use it with the <SpecialActionKey name="hypernovalaunch"/> to gain additional hits.
 

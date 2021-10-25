@@ -37,7 +37,7 @@ Even if Condi <Specialization name="Renegade"/> does less damage than a <BuildLi
 | ----------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Condi Deadeye" specialization="Deadeye"/> | <Rating value="3"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> |
 
-The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precasted on the _Mistlock Sanctuary_, and casted again as soon as your allies have consummed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an unneglectable amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consummed when the boss is vulnerable to this type of damage (up to ten stacks, two per player).
+The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precasted on the _Mistlock Sanctuary_, and casted again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an non-negligible amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consumed when the boss is vulnerable to this type of damage (up to ten stacks, two per player).
 
 This build possesses a decent amount of self-sustain, due to <Trait id="2111"/>, but it suffers greatly from a <Boon name="Quickness"/> deficit. However, it doesn't suffer too much from a lack of <Boon name="Alacrity"/> due to the nature of _Initiative_.
 
@@ -53,7 +53,7 @@ Overall, this build is an excellent pick if taken as an alt class: it is meant f
 
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high consistent DPS. In organized teams this build is inferior to <Specialization name="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very competitive results making DPS players sweat. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
 
-This build has tremendous amounts of self-sustain and is therfore also a great build for soloing content:
+This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
 
 - Permanent <Boon name="Quickness"/>.
 - Permanent 25x Might if you swap to <Trait name="zealous scepter"/>.
@@ -63,7 +63,7 @@ This build has tremendous amounts of self-sustain and is therfore also a great b
 
 One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 <Attribute name="Power"/> buff provided by <Skill name="Bane Signet"/>.
 
-Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independant of their groups.
+Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
 
 </Card>
 
@@ -141,7 +141,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 | --------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Power Chronomancer" specialization="Chronomancer"/> | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> |
 
-The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long rampup times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
+The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long ramp-up times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
 
 To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation on the go and push the limits of your class, but even then you will probably be a hinderance for your group.
 
@@ -203,7 +203,7 @@ It offers:
 - Good crowd control
 - Good utility through <Condition name="Vulnerability"/> and access to some <Condition name="Blinded"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>
 - The ability to boonstrip with <Skill name="Detonate Mine Field"/> when running <Skill name="Throw Mine"/>
-- An increbile skill set for various skips in Tier 4 fractals due to access to <Effect name="Stealth"/>, as well as <Effect name="Superspeed"/> and a targeted leap with <Skill name="Jump Shot"/>
+- An incredible skill set for various skips in Tier 4 fractals due to access to <Effect name="Stealth"/>, as well as <Effect name="Superspeed"/> and a targeted leap with <Skill name="Jump Shot"/>
 - Some **self**-generation of <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Fury"/>
 
 The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>. The main thing the build lacks compared to other Power DPS classes is a unique party buff for Power compositions like <Specialization text="Power Dragonhunter" name="Dragonhunter"/>'s <Skill name="Bane Signet"/> share.

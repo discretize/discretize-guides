@@ -59,7 +59,7 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 
 <Divider text="What now?"/>
 
-### We recommend taking a look at group compositions and what is the meta for organized groups and PuGs [here](guides/meta-explained). Alternitively you can look below and see how we utilize CC skills to break the Defiance Bars on the Challenge Mode bosses.
+### We recommend taking a look at group compositions and what is the meta for organized groups and PuGs [here](guides/meta-explained). Alternatively, you can look below and see how we utilize CC skills to break the Defiance Bars on the Challenge Mode bosses.
 
 <Divider text="Challenge Mode CC distributions"/>
 
@@ -96,9 +96,9 @@ At 2000 Siax has a medium-sized defiance bar that will need to be broken twice i
 
 <Boss name="Ensolyss" hideRotation>
 
-At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizeable defiance bars, but since condi is now played here you actually want to delay them to maximise the times your condis have to ramp up. In phase 1 ideally you will break just before Ensolyss does his slam attack. In phase 2+3 ideally you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Also if you want to go for faster times on thiss boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
+At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizable defiance bars, but since condi is now played here you actually want to delay them to maximise the times your condis have to ramp up. In phase 1 ideally you will break just before Ensolyss does his slam attack. In phase 2+3 ideally you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Also if you want to go for faster times on this boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
 
-**Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your groups DPS changes the time you want to CC. There is no schedule below and instead the common skills you have availible, because it will vary between groups.**
+**Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your groups DPS changes the time you want to CC. There is no schedule below and instead the common skills you have available, because it will vary between groups.**
 
 </Boss>
 
@@ -156,7 +156,7 @@ At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if yo
 
 <Boss name="Arkk" hideRotation>
 
-At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50% and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favour, providing a 232 damage CC. **Everyone** should use this to CC! But be ready to use other skills if the bar doesnt break.
+At 1800 Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50% and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favour, providing a 232 damage CC. **Everyone** should use this to CC! But be ready to use other skills if the bar doesn't break.
 
 Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance"/> buff by using CC after each bloom phase with either weapon skills or the <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/>. The <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/> is a 232 CC ability and should be used by **EVERYONE** if breakbars are slow on Arkk, the Archdiviner and the Gladiator.
 
@@ -168,7 +168,7 @@ Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance
 
 <Boss name="LightAi" hideRotation>
 
-At 3200 Ai has the largest breakbar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like ensolyss this cc schedule should be adjusted to fit your groups DPS. Also if you want to go for faster times on thiss boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
+At 3200 Ai has the largest breakbar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like ensolyss this cc schedule should be adjusted to fit your groups DPS. Also if you want to go for faster times on this boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
 
 </Boss>
 
@@ -221,7 +221,7 @@ At 1800 MAMA has a small defiance bar, but you need to break it three times duri
 
 <Boss name="Siax" hideRotation>
 
-At 2000 Siax has a medium-sized defiance bar that shouldnt really need to be broken in an organised group, since you should have more than enough DPS to ignore it. If you do want to break it you should only need to break it once, unless your group is slow, where you may need to also break it in P3.
+At 2000 Siax has a medium-sized defiance bar that shouldn't really need to be broken in an organised group, since you should have more than enough DPS to ignore it. If you do want to break it you should only need to break it once, unless your group is slow, where you may need to also break it in P3.
 
 </Boss>
 
@@ -232,7 +232,7 @@ At 2000 Siax has a medium-sized defiance bar that shouldnt really need to be bro
 
 <Boss name="Ensolyss" hideRotation>
 
-At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizeable defiance bars, but since condi is now played here you actually want to delay them to maximise the times your condis have to ramp up. In phase 1 ideally you will break just before Ensolyss does his slam attack. In phase 2+3 ideally you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Additionally if you have someone that can play <BuildLink build="Condi Deadeye" specialization="Deadeye"/> or <Specialization name="Daredevil" text="Condi Daredevil"/>, it is worth replacing a <Specialization name="Firebrand" text ="Condi Firebrand"/> for a huge damage increase, or alternitively a <Specialization name="Soulbeast" text ="Condi Soulbeast"/>
+At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizable defiance bars, but since condi is now played here you actually want to delay them to maximise the times your condis have to ramp up. In phase 1 ideally you will break just before Ensolyss does his slam attack. In phase 2+3 ideally you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Additionally if you have someone that can play <BuildLink build="Condi Deadeye" specialization="Deadeye"/> or <Specialization name="Daredevil" text="Condi Daredevil"/>, it is worth replacing a <Specialization name="Firebrand" text ="Condi Firebrand"/> for a huge damage increase, or alternatively a <Specialization name="Soulbeast" text ="Condi Soulbeast"/>
 
 **Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your groups DPS changes the time you want to CC. There is no schedule below and instead the common skills you have available, because it will vary between groups.**
 
@@ -255,7 +255,7 @@ At 2200 Skorvald the Shattered has one of the largest defiance bars out of all t
 
 <Boss name="Artsariiv" hideRotation>
 
-At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if you want to skip the anomaly. The good news is if you do mid strat (which you should od if you are an organised group playing power) you get to completely ignore it, this means you can focus your CC on the split phases. On the first split each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
+At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if you want to skip the anomaly. The good news is if you do mid strat (which you should do if you are an organised group playing power) you get to completely ignore it, this means you can focus your CC on the split phases. On the first split each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
 
 </Boss>
 
@@ -265,7 +265,7 @@ At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if yo
 | **1st Split Phase** | **CC Required** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <BuildLink build="Power Firebrand" specialization="Firebrand"/> | <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/>                                          | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>                       | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>                       | **Total** |
 | ------------------- | --------------- | ------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------- |
 | **North West**      | **600e**        | <Skill name="Surge of the Mists"/> (4 hits) <br/> 600 damage  |                                                                 |                                                                                                                |                                                                                       |                                                                                       | **600**   |
-| **North East**      | **600**         | <Skill name="Forced Engagement"/> (125/s) <br/> 250 damage    |                                                                 | <Skill name="Dragons Maw"/> (Precasted) <br/> 150 damage <br/> <Condition name="Slow"/> (50/s) <br/> 200 dmage |                                                                                       |                                                                                       | **600**   |
+| **North East**      | **600**         | <Skill name="Forced Engagement"/> (125/s) <br/> 250 damage    |                                                                 | <Skill name="Dragons Maw"/> (Precasted) <br/> 150 damage <br/> <Condition name="Slow"/> (50/s) <br/> 200 damage |                                                                                       |                                                                                       | **600**   |
 | **South East**      | **600**         |                                                               |                                                                 | <Skill name="Bane Signet"/> <br/> 300 damage                                                                   |                                                                                       | <Skill id="43636"/> <br/> 232 <br/> <Skill name="Point Blank Shot"/> <br/> 150 damage | **682**   |
 | **South West**      | **600**         |                                                               | <Skill name="Bane Signet"/> <br/> 300 damage                    |                                                                                                                | <Skill id="43636"/> <br/> 232 <br/> <Skill name="Point Blank Shot"/> <br/> 150 damage |                                                                                       | **682**   |
 | **Middle**          | **600**         |                                                               |                                                                 | <Skill name="Dragons Maw"/> <br/> 150 damage <br/> <Condition name="Slow"/> (50/s) <br/> 200 damage            | <Skill name="Cold Snap"/> (33/s) <br/> 165 damage                                     | <Skill id="45743"/> <br/> 200 damage                                                  | **715**   |
