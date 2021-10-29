@@ -13,7 +13,7 @@ sections:
       </Warning>
 
 
-      The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an unneglectable amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consumed when the boss is vulnerable to this type of damage (up to ten stacks, two per player).
+      The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an non-negligible amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consumed when the boss is vulnerable to this type of damage (up to ten stacks, two per player).
 
 
       This build possesses a decent amount of self-sustain, due to <Trait id="2111"/>, but it suffers greatly from a <Boon name="Quickness"/> deficit. However, it doesn't suffer too much from a lack of <Boon name="Alacrity"/> due to the nature of _Initiative_.
@@ -254,7 +254,7 @@ sections:
       - The rotation requires a good sense of timing, as do pretty much all **<Specialization text="Deadeye" name="Deadeye"/>** builds, to maximize your DPS: timing some abilities incorrectly, such as <Skill id="41372"/> (which will consume your Malice in exchange for some _Initiative_ points), can have dramatic consequences for the rest of the fight: you might end up being completely unable to use any ability whatsoever, because you have run out of _Initiative_ points to spend. Not being able to use abilities keeps your Malice bar too low, and this chain reaction can leave you powerless to do anything, until you can use <Skill name="mercy"/> or <Skill name="deadeyesmark"/> again.
 
 
-      - Missing an ability like <Skill name="shadowstrike"/> or hitting nothing but thin air with <Skill name="repeater"/>, both of which might happen from being out of range, will unecessarily use up some of your _Initiative_, and might delay your <Trait id="2111"/> which could cause some issues for the rest of the fight, like not filling up your _Initiative_ bar at the proper moment.
+      - Missing an ability like <Skill name="shadowstrike"/> or hitting nothing but thin air with <Skill name="repeater"/>, both of which might happen from being out of range, will unnecessarily use up some of your _Initiative_, and might delay your <Trait id="2111"/> which could cause some issues for the rest of the fight, like not filling up your _Initiative_ bar at the proper moment.
 
 
       - It is important to learn the rotation by heart, if you do not fully understand the _Malice_ mechanic. abilities such as <Skill id="50466"/> are only enabled when you are under the effect of <Effect name="Stealth"/>; notably, the latter has additional effects when Malice is consumed, so it is important _not_ to use <Skill name="mercy"/> before, or while casting it. Specifically, <Skill name="mercy"/> should always be used upon completing the <Skill id="50466"/>, so as not to interfere with <Effect name="stealth"/>-application skills like the random F2 Stolen skills (<Skill name="stealtime"/>, ...), <Skill name="hideinshadows"/> or <Skill name="shadowmeld"/>.
@@ -286,7 +286,7 @@ conditions:
   - Bleeding
   - Torment
 code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
-hasCMGuide: false
+cmGuide: ''
 date: 2021-10-03T12:19:56.299Z
 boons:
   - name: Might

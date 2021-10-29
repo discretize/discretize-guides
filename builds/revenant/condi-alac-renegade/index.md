@@ -517,7 +517,7 @@ conditions:
   - Vulnerability
 code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
 date: 2021-10-05T11:17:37.841Z
-hasCMGuide: false
+cmGuide: ''
 ---
 
 <Divider text="Rotation / Skill usage"/>

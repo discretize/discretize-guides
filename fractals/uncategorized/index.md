@@ -54,7 +54,7 @@ sigils:
 
 **Option 2:** Anyone with a <Item id="78978"/> skips alone and teleports the team to the holding area.
 
-**Option 3:** Proceed as a group and either kill the Harpies or skip them. <Boon name="Aegis"/> and <Boon name="Stability"/> helps a lot. All of the harpie attacks classify as projectiles and therefore can be reflected.
+**Option 3:** Proceed as a group and either kill the Harpies or skip them. <Boon name="Aegis"/> and <Boon name="Stability"/> helps a lot. All of the harpy attacks are classified as projectiles and therefore can be reflected.
 
 ## Holding Area
 

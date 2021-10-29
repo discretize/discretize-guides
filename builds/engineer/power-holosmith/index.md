@@ -25,7 +25,7 @@ sections:
 
       - The ability to boonstrip with <Skill name="Detonate Mine Field"/> when running <Skill name="Throw Mine"/>
 
-      - An increbile skill set for various skips in Tier 4 fractals due to access to <Effect name="Stealth"/>, as well as <Effect name="Superspeed"/> and a targeted leap with <Skill name="Jump Shot"/>
+      - An incredible skill set for various skips in Tier 4 fractals due to access to <Effect name="Stealth"/>, as well as <Effect name="Superspeed"/> and a targeted leap with <Skill name="Jump Shot"/>
 
       - Some **self**-generation of <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Fury"/>
 
@@ -246,7 +246,7 @@ sections:
       </Grid>
   - type: mdx
     title: Rotation/Skill Usage
-    content: ""
+    content: ''
 rating: Good
 role: Power Damage
 author: Ascers.6082
@@ -257,8 +257,8 @@ conditions:
   - Blinded
   - Crippled
   - Immobile
-code: "[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]"
-hasCMGuide: false
+code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
@@ -362,7 +362,7 @@ date: 2021-10-03T12:28:17.580Z
 
 - Make sure that you will start the fight on your desired Heat (usually 90%).
 - You want to make sure to always at least pre-cast <Skill name="Laser Disk"/> before taking the singularity.
-- You can either swap utiltiy skills manually or via template. Make sure to have the same traits in both templates selected if you choose the template route.
+- You can either swap utility skills manually or via template. Make sure to have the same traits in both templates selected if you choose the template route.
 - If this is taken care of, you can do the following extra pre-casts:
 
 1. Equip <Skill name="Thumper Turret"/>, <Skill name="Bomb Kit"/> and <Skill name="Flamethrower"/>.

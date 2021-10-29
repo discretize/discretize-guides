@@ -229,7 +229,7 @@ sections:
       > 
 
 
-      **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivabilty with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**  
+      **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivability with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**  
 
 
       Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
@@ -266,7 +266,7 @@ sections:
                   "Concentration": 938,
                   "Healing Power": 884,
                   "Agony Resistance": 203,
-                  "Condition Duration": 8/100,
+                  "Condition Duration": 0.08,
                   "Boon Duration": 0.6253333333333333,
                   "Critical Chance": 1.0714285714285714,
                   "Critical Damage": 1.7333333333333334,
@@ -800,8 +800,8 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-hasCMGuide: false
+code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 4
   - 3

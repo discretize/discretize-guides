@@ -55,7 +55,7 @@ After that, you need to swap Berserker items (Major: Power; Minor: Precision, Fe
 
 Keep in mind that you can also take <Item id="37132"/> but normally it is easier to calculate with a full set of Power infusions.
 
-Use our [Gear Optimizer](http://old.discretize.eu) to calculate the optimal distribution of Assassin's items.
+Use our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/) to calculate the optimal distribution of Assassin's items.
 
 ---
 
@@ -104,7 +104,7 @@ Below are some popular trait choices to push Critical Chance.
 
 | Profession                            | Specialization | Trait                                 | Note                                                                  | Precision |
 | ------------------------------------- | -------------- | ------------------------------------- | --------------------------------------------------------------------- | --------- |
-| <Specialization name="Warrior"/>      | Discipline     | <Trait name="Doubled Standards"/>     | <Skill name="Banner of Discipline"/> (this only applies to yourself!) | 50       |
+| <Specialization name="Warrior"/>      | Discipline     | <Trait name="Doubled Standards"/>     | <Skill name="Banner of Discipline"/> (this only applies to yourself!) | 50        |
 | <Specialization name="Thief"/>        | Deadeye        | <Trait name="Be Quick or Be Killed"/> | Target must be marked                                                 | 200       |
 | <Specialization name="Elementalist"/> | Weaver         | <Trait name="Elements of Rage"/>      | Converts 13% of your Vitality to Precision                            |           |
 

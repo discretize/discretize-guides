@@ -52,7 +52,7 @@ sigils:
 <Grid>
 <GridItem sm="7">
 
-Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the _Mistlock Singularity_ after accepting the Harbringer's challenge, stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> on the platform below and start the encounter by activating the orb in the center of the platform.
+Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the _Mistlock Singularity_ after accepting the Harbinger's challenge, stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> on the platform below and start the encounter by activating the orb in the center of the platform.
 </GridItem>
 
 <GridItem sm="5">

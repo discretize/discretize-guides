@@ -1,5 +1,5 @@
 ---
-title: Condi Firebrand
+title: Condi (Quick) Firebrand
 sections:
   - type: mdx
     title: Overview
@@ -365,7 +365,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 5
   - 4
@@ -374,7 +374,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-hasCMGuide: false
+cmGuide: ''
 date: 2021-10-03T12:25:49.308Z
 benchmark:
   small:
@@ -455,7 +455,7 @@ The most important part is to get the precast of Ashes of the Just right! You ha
 
 1.  Use <Skill name="hallowedground"/>
 
-2.  Blast a firefield with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
+2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
 
 3.  While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 
