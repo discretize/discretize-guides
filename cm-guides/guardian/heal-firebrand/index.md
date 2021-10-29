@@ -5,8 +5,9 @@ profession: Guardian
 specialization: Firebrand
 ---
 
-<Boss name="mama" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Hammer of Wisdom" eliteId="43357" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
--   There are many setups that work on this boss. This variant helps a lot with CC which makes the fight a lot easier. However if your group struggles with this setup, consider swapping to a more healing-focused setup.
+<Boss name="mama" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Hammer of Wisdom" eliteId="43357" weapon1MainAffix="Berserker" weapon1MainType="Staff" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="Shield" weapon2OffSigil="Transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Concentration" weapon2MainInfusion1Id="37125">
+
+- There are many setups that work on this boss. This variant helps a lot with CC which makes the fight a lot easier. However if your group struggles with this setup, consider swapping to a more healing-focused setup.
 
 - When <Instability name="Afflicted"/> is present or if your group struggles with conditions, run <Skill name="Mantra of Lore"/> instead of <Skill name="Hammer of Wisdom"/>.
 
@@ -68,7 +69,7 @@ specialization: Firebrand
 
 - If the group DPS is high, do not break the defiance bar before 50%, otherwise try to break it as fast as possible. This is because you want to have the bar up after 50% to break it and get the boss to 25% with the <Effect name="Exposed"/> debuff.
 
-1.  Use <Skill name="shieldofjudgment"/> to provide <Boon name="Protection"/> for MAMA's melee attacks if you are still on Axe/Shield and then swap to Staff.
+1.  Use <Skill name="Shieldofjudgment"/> to provide <Boon name="Protection"/> for MAMA's melee attacks if you are still on Axe/Shield and then swap to Staff.
 
 2.  Use <Skill name="Empower"/> to renew <Boon name="Might"/>.
 
@@ -120,8 +121,9 @@ specialization: Firebrand
 
 ---
 
-<Boss name="siax" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Advance" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
--   Once you get more familiar with sharing <Boon name="Aegis"/> at the correct times, you can also swap out <Skill name="Advance"/>. However taking <Skill name="Advance"/> will allow you to save it for using it on the Hallucination AoE every time.
+<Boss name="siax" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Advance" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="Staff" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="Shield" weapon2OffSigil="Transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Concentration" weapon2MainInfusion1Id="37125">
+
+- Once you get more familiar with sharing <Boon name="Aegis"/> at the correct times, you can also swap out <Skill name="Advance"/>. However taking <Skill name="Advance"/> will allow you to save it for using it on the Hallucination AoE every time.
 
 - The <Boon name="Stability"/> from <Skill name="Mantra of Liberation"/> is less useful here compared to other fights, however the <Boon name="Resolution"/> can be very strong. If you are unable to upkeep <Boon name="Fury"/>, swap to <Skill name="Feel My Wrath"/>. Providing <Boon name="Quickness"/> should not be an issue even without it.
 
@@ -211,8 +213,9 @@ specialization: Firebrand
 
 ---
 
-<Boss name="ensolyss" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Mantra of Lore" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
--   <Skill name="Sanctuary"/> is a great CC skill on Ensolyss as <Specialization name="Firebrand" text="Heal Firebrand"/>.
+<Boss name="ensolyss" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Mantra of Lore" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="Staff" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="Shield" weapon2OffSigil="Transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Concentration" weapon2MainInfusion1Id="37125">
+
+- <Skill name="Sanctuary"/> is a great CC skill on Ensolyss as <Specialization name="Firebrand" text="Heal Firebrand"/>.
 
 - <Skill name="Advance"/> and <Skill name="Stand Your Ground"/> can help out if you struggle giving <Boon name="Aegis"/> and <Boon name="Stability"/> for the important attacks.
 
@@ -328,8 +331,9 @@ specialization: Firebrand
 
 ---
 
-<Boss name="skorvald" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="STand Your Ground" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
--   This encounter is fairly straight forward for a <Specialization name="Firebrand" text="Heal Firebrand"/>. You can mainly focus on helping with breakbars and sharing <Boon name="Aegis"/> and <Boon name="Stability"/> at key moments.
+<Boss name="skorvald" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="STand Your Ground" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="Staff" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="Shield" weapon2OffSigil="Transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Concentration" weapon2MainInfusion1Id="37125">
+
+- This encounter is fairly straight forward for a <Specialization name="Firebrand" text="Heal Firebrand"/>. You can mainly focus on helping with breakbars and sharing <Boon name="Aegis"/> and <Boon name="Stability"/> at key moments.
 
 - There is usually no need to swap to any other utility, however <Skill name="Hallowed Ground"/> is another strong choice for <Boon name="Stability"/> after 33%.
 
@@ -473,8 +477,9 @@ specialization: Firebrand
 
 ---
 
-<Boss name="artsariiv" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Stand Your Ground" eliteId="43357" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
--   This can be a very high pressure fight. As a <Specialization name="Firebrand" text="Heal Firebrand"/> in this fight you need to provide sufficient <Boon name="aegis"/> and <Boon name="stability"/> for various attacks to ensure your DPS players are not being interrupted as well as providing enough healing and condi cleanse.
+<Boss name="artsariiv" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Stand Your Ground" eliteId="43357" weapon1MainAffix="Berserker" weapon1MainType="Staff" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="Shield" weapon2OffSigil="Transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Concentration" weapon2MainInfusion1Id="37125">
+
+- This can be a very high pressure fight. As a <Specialization name="Firebrand" text="Heal Firebrand"/> in this fight you need to provide sufficient <Boon name="aegis"/> and <Boon name="stability"/> for various attacks to ensure your DPS players are not being interrupted as well as providing enough healing and condi cleanse.
 
 - **Important:** The reflect on Artsariiv scales with the player's <Attribute name="Precision"/>! If you have another class that can provide a reflect, let them reflect as they will be doing much more damage with it. If nobody else can provide a reflect, it might be worth taking it yourself as a defense against the boss' attacks.
 
@@ -564,8 +569,9 @@ Corner:
 
 ---
 
-<Boss name="arkk" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Stand Your Ground" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
--   Your 3rd utility slot in this fight is rather open. You can take whatever you need most, <Skill name="Stand Your Ground"/> for extra <Boon name="Stability"/>, <Skill name="Bow of Truth"/> for the extra healing or even <Skill name="Merciful Intervention"/> if your group downs a lot.
+<Boss name="arkk" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Bane Signet" utility3="Stand Your Ground" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="Staff" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="Shield" weapon2OffSigil="Transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Concentration" weapon2MainInfusion1Id="37125">
+
+- Your 3rd utility slot in this fight is rather open. You can take whatever you need most, <Skill name="Stand Your Ground"/> for extra <Boon name="Stability"/>, <Skill name="Bow of Truth"/> for the extra healing or even <Skill name="Merciful Intervention"/> if your group downs a lot.
 
 - <Skill name="Mantra of Lore"/> is still great against <Instability name="Afflicted"/> and <Skill name="Wall of Reflection"/> can help with <Instability name="We Bleed Fire"/> and to a lesser degree with the red orb attack.
 
@@ -659,7 +665,7 @@ Corner:
 
 5.  This is a great time to use <Skill name="tomeofcourage"/> skills 5,4,3 and spam 1. This provides <Boon name="stability"/> for <Condition name="Fear"/>, <Boon name="aegis"/> for melee attacks and a reflect for the agony circles. It will also help the <Specialization name="Renegade"/> not getting caught off guard by an agony AoE, with his back to the boss while killing the anomaly. It will also most likely be up again for the last phase if you use it here.
 
-6.  Use <Skill name="shieldofjudgment"/> for <Boon name="aegis"/> and extra <Boon name="Protection"/> before swapping back to Staff.
+6.  Use <Skill name="Shieldofjudgment"/> for <Boon name="aegis"/> and extra <Boon name="Protection"/> before swapping back to Staff.
 
 ### **50%**
 
@@ -721,8 +727,9 @@ Corner:
 
 5.  If the phase continues for longer, it can get very chaotic. Try to use up whatever you have left to get through the rest of the phase.
 
-<Boss name="LightAi" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Signet of Wrath" utility3="Sanctuary" elite="Feel My Wrath" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
--   When <Instability name="Afflicted"/> is present, run <Skill name="Mantra of Lore"/> instead of <Skill name="Signet of Wrath"/>. You will still be able to share <Attribute name="Condition Damage"/> through <Trait name="Wrath of Justice"/>. You can also take this skill if people struggle with attacks that inflict conditions during the fire phase.
+<Boss name="LightAi" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Signet of Wrath" utility3="Sanctuary" elite="Feel My Wrath" weapon1MainAffix="Berserker" weapon1MainType="Staff" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="Shield" weapon2OffSigil="Transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Concentration" weapon2MainInfusion1Id="37125">
+
+- When <Instability name="Afflicted"/> is present, run <Skill name="Mantra of Lore"/> instead of <Skill name="Signet of Wrath"/>. You will still be able to share <Attribute name="Condition Damage"/> through <Trait name="Wrath of Justice"/>. You can also take this skill if people struggle with attacks that inflict conditions during the fire phase.
 
 - Other good utility skills are <Skill name="Advance"/> for extra <Boon name="Aegis"/> or <Skill name="Bow of Truth"/> for extra healing.
 
@@ -858,8 +865,9 @@ Corner:
 
 7.  After this handle the mechanics the same way as before until Ai is dead.
 
-<Boss name="DarkAi" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Signet of Wrath" utility3="Sanctuary" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="staff" weapon1MainSigil1="transference" weapon1MainSigil2="concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="shield" weapon2OffSigil="transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="concentration" weapon2MainInfusion1Id="37125">
--   When <Instability name="Afflicted"/> is present, run <Skill name="Mantra of Lore"/> instead of <Skill name="Signet of Wrath"/>. You will still be able to share <Attribute name="Condition Damage"/> through <Trait name="Wrath of Justice"/>.
+<Boss name="DarkAi" video="" videoCreator="" foodId="68634" utilityId="67528" healId="41714" utility1Id="40915" utility2="Signet of Wrath" utility3="Sanctuary" elite="Mantra of Liberation" weapon1MainAffix="Berserker" weapon1MainType="Staff" weapon1MainSigil1="Transference" weapon1MainSigil2="Concentration" weapon1MainInfusion1Id="37125" weapon1MainInfusion2Id="37125" weapon2OffAffix="Berserker" weapon2OffType="Shield" weapon2OffSigil="Transference" weapon2OffInfusionId="37125" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Concentration" weapon2MainInfusion1Id="37125">
+
+- When <Instability name="Afflicted"/> is present, run <Skill name="Mantra of Lore"/> instead of <Skill name="Signet of Wrath"/>. You will still be able to share <Attribute name="Condition Damage"/> through <Trait name="Wrath of Justice"/>.
 
 - Other good utility skills are <Skill name="Advance"/> for extra <Boon name="Aegis"/> or <Skill name="Bow of Truth"/> for extra healing.
 
