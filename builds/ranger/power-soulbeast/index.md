@@ -277,7 +277,7 @@ sections:
               ], "attributes":{
                   "Health": 17422,
                   "Armor": 2632,
-                  "Power": 3796,
+                  "Power": 3781,
                   "Precision": 2575,
                   "Toughness": 1514,
                   "Vitality": 1150,
@@ -322,9 +322,9 @@ sections:
                   37131,
                   37131,
                   37131,
-                  37131,
-                  37131,
-                  37131,
+                  49437,
+                  49437,
+                  49438,
                   37131,
                   37131,
                   37131,
@@ -606,15 +606,15 @@ profession: Ranger
 specialization: Soulbeast
 conditions:
   - Vulnerability
-code: '[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
-cmGuide: 'pug'
+code: "[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]"
+cmGuide: pug
 classification:
   - 5
   - 5
   - 3
   - 3
   - 4
-date: 2021-10-03T12:23:26.435Z
+date: 2021-10-31T11:46:07.395Z
 ---
 
 <Divider text="Rotation / Skill usage"/>
