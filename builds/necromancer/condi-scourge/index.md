@@ -1,4 +1,5 @@
 ---
+title: Condi Scourge
 sections:
   - type: mdx
     title: Overview
@@ -267,7 +268,10 @@ sections:
 
 
       </Grid>
+rating: Good
+role: Condi Damage
 author: "Discord: Amerikajinn#9784"
+profession: Necromancer
 specialization: Scourge
 skills:
   - 10606
@@ -278,17 +282,6 @@ traits:
   - 905
   - 2164
   - 2121
-code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-classification:
-  - 2
-  - 4
-  - 4
-  - 2
-  - 3
-date: 2021-10-19T20:54:19.083Z
-title: Condi Scourge
-role: Condi Damage
-profession: Necromancer
 conditions:
   - Vulnerability
   - Weakness
@@ -296,13 +289,20 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
+code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: " "
+classification:
+  - 2
+  - 4
+  - 4
+  - 2
+  - 3
+date: 2021-11-01T11:47:08.021Z
 benchmark:
   small:
     dps: 37044
     by: Prud
     youtube: 6NbhBMCyjmw
-rating: Good
 ---
 
 <Divider text="Skill Usage" />
@@ -321,7 +321,13 @@ Always use this skill off-cooldown, even if it means interrupting auto-attack ch
 
 1. <Skill name="Feast of Corruption" /> (Scepter 3)
 
-Use after finishing your current auto-attack chain: 2. <Skill name="Harrowing Wave"/> (Torch 4) 3. <Skill name="Grasping Dead"/> (Scepter 2) 4. <Skill name="Oppressive Collapse"/> (Torch 5) 5. <Skill name="Blood is Power"/> (Utility) (combo this with <Skill name="Desert Shroud"/>) 6. <Skill name="Manifest Sand Shade"/> (F1)
+Use after finishing your current auto-attack chain: 
+
+2. <Skill name="Harrowing Wave"/> (Torch 4) 
+3. <Skill name="Grasping Dead"/> (Scepter 2) 
+4. <Skill name="Oppressive Collapse"/> (Torch 5) 
+5. <Skill name="Blood is Power"/> (Utility) (combo this with <Skill name="Desert Shroud"/>) 
+6. <Skill name="Manifest Sand Shade"/> (F1)
 
 **Shade Skills**
 
