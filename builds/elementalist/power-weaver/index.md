@@ -261,7 +261,7 @@ sections:
         "attributes": {
           "Health": 14215,
           "Armor": 2335,
-          "Power": 4066,
+          "Power": 4057,
           "Precision": 2575,
           "Toughness": 1368,
           "Vitality": 1257,
@@ -308,9 +308,9 @@ sections:
           37131,
           37131,
           37131,
-          37131,
-          37131,
-          37131,
+          49438,
+          49438,
+          49438,
           37131,
           37131,
           37131,
@@ -485,15 +485,15 @@ conditions:
   - Burning
   - Chilled
   - Vulnerability
-code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: 'pug'
+code: "[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: pug
 classification:
   - 4
   - 5
   - 2
   - 3
   - 4
-date: 2021-10-03T12:29:55.649Z
+date: 2021-11-02T20:41:11.280Z
 ---
 
 <Divider text="Rotation / Skill usage"/>
