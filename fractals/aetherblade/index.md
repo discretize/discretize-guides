@@ -27,12 +27,12 @@ sigils:
   ]
 ---
 
-## Start (Water tunnel) <Item id="50082" disableText/>
+## Start (water tunnel) <Item id="50082" disableText/>
 
 <Grid>
 <GridItem sm="8">
 
-You can stack <Effect name="Stealth"/> before entering the water to cheat the exploding mines. Clear the group of _Elite Aetherblades_ to open the door.
+You can stack <Effect name="Stealth"/> before entering the water to avoid that the mines explode. Clear the group of _Elite Aetherblades_ to open the door.
 
 <Tabs>
 <Tab specialization="thief">
@@ -75,6 +75,39 @@ You don't need to kill a single mob and can bypass all traps with the following 
 
 3.  The team splits up to activate the second set of consoles (the spinning lasers won't be active if you're fast enough)
 
+<Tabs>
+<Tab specialization="Revenant">
+
+<ProfessionVideo title="First puzzle skip" profession="Revenant" src="rePLyrDp3Pc"/>
+
+To skip this part you are going to need a little jumping, damaging the Inquest with an AoE, non targetable skill like <Skill name="Shackling Wave"/>, then use <Skill name="Phase Traversal"/> on it, **when he came down from the ramp**. Give yourself <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
+</Tab>
+
+<Tab specialization="elementalist">
+
+<ProfessionVideo title="First puzzle skip" profession="Elementalist" src="OjUvCp2h_04" timestamp="45"/>
+
+Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="Immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
+
+</Tab>
+
+<Tab specialization="Guardian">
+
+<ProfessionVideo title="First puzzle skip" profession="Guardian" src="MmJTsOhdQeo" timestamp="460"/>
+
+Use <Skill name="Sword of Justice"/> upon the platform, then teleport to it with <Skill name="Merciful Intervention"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
+
+</Tab>
+
+<Tab specialization="Thief">
+
+<ProfessionVideo title="First puzzle skip" profession="Thief" src="Alpgs_GaZV0" />
+
+You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> as condition clears. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
+
+</Tab>
+</Tabs>
+
 </GridItem>
 
 <GridItem sm="4">
@@ -85,42 +118,19 @@ You don't need to kill a single mob and can bypass all traps with the following 
 
 </GridItem>
 
-<GridItem sm="12">
-<Tabs>
-<Tab specialization="Revenant">
-
-To skip this part you are going to need a little jumping, damaging the Inquest with an AoE, non targetable skill like <Skill name="Shackling Wave"/>, then use <Skill name="Phase Traversal"/> on it, **when he came down from the ramp**. Give yourself <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
-
-<Video title="Revenant skip" youtube="rePLyrDp3Pc"/>
-</Tab>
-
-<Tab specialization="elementalist">
-
-Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="Immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
-
-<Video title="Elementalist skip" timestamp="45" youtube="OjUvCp2h_04"/>
-</Tab>
-
-<Tab specialization="Guardian">
-
-Use <Skill name="Sword of Justice"/> upon the platform, then teleport to it with <Skill name="Merciful Intervention"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
-
-<Video title="Guardian skip" timestamp="460" youtube="MmJTsOhdQeo"/>
-</Tab>
-
-<Tab specialization="daredevil">
-
-You can solo both the first and second room if you are fast enough. Use <Skill id="13002"/> or <Skill id="13025"/> to teleport and <Trait id="1964"/> or <Skill id="13062"/> as condition clears. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
-
-<Video title="Thief skip" youtube="Alpgs_GaZV0"/>
-</Tab>
-</Tabs>
-</GridItem>
 </Grid>
 
 ---
 
 <Grid>
+
+<GridItem>
+
+## Breach the gate <Item id="50082" disableText/>
+
+Kill the respawning enemies to fill the progress bar and open the gate. Avoid the dazing cannon shots and switch back your skills & traits if needed.
+</GridItem>
+
 <GridItem>
 <Tabs>
 <Tab specialization="Revenant">
@@ -140,12 +150,6 @@ You can use <Skill name="Binding Blade"/> to group the mobs.
 </Tabs>
 </GridItem>
 
-<GridItem>
-
-## Breach the gate <Item id="50082" disableText/>
-
-Kill the respawning enemies to fill the progress bar and open the gate. Avoid the dazing cannon shots and switch back your skills & traits if needed.
-</GridItem>
 </Grid>
 
 ---
@@ -172,6 +176,9 @@ If a golem walks through a laser, he powers up and blocks all attacks for a shor
 
 <MDImage src="fractals/aetherblade/images/frizz.jpg" caption="Frizz"/>
 
+</GridItem>
+</Grid>
+
 <Tabs>
 <Tab specialization="revenant">
 
@@ -182,9 +189,7 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 
 Drop your banners in the very center of the arena.Using <Skill name="whirlwind attack"/> against the wall is very effective.
 </Tab>
-</Tabs>
 
-<Tabs>
 <Tab specialization="ranger">
 
 Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
@@ -195,5 +200,3 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 Use <Skill id="5697"/> against the golems next to a wall or box.
 </Tab>
 </Tabs>
-</GridItem>
-</Grid>
