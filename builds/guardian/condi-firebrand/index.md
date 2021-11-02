@@ -364,7 +364,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-cmGuide: false
+cmGuide: ''
 classification:
   - 5
   - 4
@@ -373,7 +373,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2021-11-02T19:48:13.249Z
 benchmark:
   small:
