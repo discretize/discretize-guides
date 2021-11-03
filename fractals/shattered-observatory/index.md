@@ -40,19 +40,17 @@ sigils:
   - id: 24868
 ---
 
-## Skorvald the Shattered <Label>5,551,340 HP</Label>
-
-|                    |                                                           |
-| ------------------ | --------------------------------------------------------- |
-| Encounter duration | 1:05min                                                   |
-| Sigils             | <Item name="impact"/> <Item name="force"/>                |
-| Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
-| CC                 | 2200                                                      |
+## Skorvald the Shattered <Label>5,551,340 HP</Label> <Label>CC: 2200</Label>
 
 <Grid>
 <GridItem sm="7">
 
 Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the _Mistlock Singularity_ after accepting the Harbinger's challenge, stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> on the platform below and start the encounter by activating the orb in the center of the platform.
+
+### Tactic
+
+The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health. Please note, that you cannot _precast_ CC here. Your CC affects Skorvald, as soon as his HP bar appears in the top right corner.
+
 </GridItem>
 
 <GridItem sm="5">
@@ -60,7 +58,29 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 <MDImage src="fractals/shattered-observatory/images/skorvald.jpg" caption="Skorvald the Shattered"/>
 
 </GridItem>
+
+<GridItem sm="2">
+
+<MDImage src="fractals/shattered-observatory/images/elite-flux-anomaly.jpg" caption="An Elite Flux Anomaly"/>
+
+</GridItem>
+
+<GridItem sm="10">
+
+### 66% + 33% island phase
+
+At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four _Elite Flux Anomalies_ to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies don't have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the animations and position yourself between Anomaly and wall.
+
+It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately when you reach the 4th _Elite Flux Anomaly_ to deal more damage to Skorvald before he continues his attacks, especially at 33%. **_Do not take the portal back to the boss before the add has landed its first jump. Otherwise it will leap out of all the damage zones and not die in time for your nuke._**
+
+</GridItem>
 </Grid>
+
+Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="Stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, but be ready to dodge if it explodes in party range. Under no circumstances stand inside of _Skorvalds_ hitbox as it will kill you immediately.
+
+After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his Defiance bar, if he is not dead yet break the bar and finish him.
+
+### Comprehensive list of all attacks:
 
 |                                      |                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -77,29 +97,6 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 | **Solar Cyclone**                    | **Only below 33% health.** Skorvald starts spinning counter-clockwise and releases conical shockwaves similar to _Cranial Cascade _. There are small safe-spots between each shockwave, learn to stand inside them to avoid the high damage and interrupts.                                                                                                                      |
 | **Combustion Rush**                  | **Only below 33% health.** Elite Flux Anomalies start charging through players and <Control name="Knockback"/>, indicated by a large arrow on the platform.                                                                                                                                                                                                                      |
 
-<Grid>
-<GridItem sm="3">
-
-<MDImage src="fractals/shattered-observatory/images/elite-flux-anomaly.jpg" caption="An Elite Flux Anomaly"/>
-
-</GridItem>
-
-<GridItem sm="9">
-
-### Tactic
-
-The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health. Please note, that you cannot _precast_ CC here. Your CC affects Skorvald, as soon as his HP bar appears in the top right corner.
-
-At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four _Elite Flux Anomalies_ to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies don't have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the animations and position yourself between Anomaly and wall.
-
-It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately when you reach the 4th _Elite Flux Anomaly_ to deal more damage to Skorvald before he continues his attacks, especially at 33%. **_Do not take the portal back to the boss before the add has landed its first jump. Otherwise it will leap out of all the damage zones and not die in time for your nuke._**
-
-Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="Stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, but be ready to dodge if it explodes in party range.
-
-After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his Defiance bar, if he is not dead yet break the bar and finish him.
-</GridItem>
-</Grid>
-
 ---
 
 ## Intermediate part
@@ -113,28 +110,21 @@ You gain a new special action key: <SpecialActionKey name="hypernovalaunch"/>. F
 
 You will encounter several glass mobs on the way to the second boss, there are no differences to the regular Shattered Observatory. After the first group of mobs, you will have to bounce a white _Globolla Marble_ nine times with your head to progress.
 
-If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip directly to Artsariiv using [this cut](https://www.youtube.com/watch?v=dirYlXZMCc4), otherwise use your <SpecialActionKey name="hypernovalaunch"/> on the next platform to jump to the elite mob and kill it to proceed to Artsariiv.
+If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip directly to Artsariiv using the shortcut (video on the side), otherwise use your <SpecialActionKey name="hypernovalaunch"/> on the next platform to jump to the elite mob and kill it to proceed to Artsariiv.
+
 </GridItem>
 
 <GridItem sm="4">
 
 <MDImage src="fractals/shattered-observatory/images/way_to_artsariiv.jpg" caption="The way to Artsariiv"/>
+<ProfessionVideo src="dirYlXZMCc4" profession="Renegade" title="Skip to Artsariiv (any class)"/>
 
 </GridItem>
 </Grid>
 
 ---
 
-## Artsariiv <Label>5,962,266 HP</Label>
-
-|                    |                                                           |
-| ------------------ | --------------------------------------------------------- |
-| Encounter duration | 52s                                                       |
-| Sigils             | <Item name="impact"/> <Item name="force"/>                |
-| Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
-| CC Artsariiv       | 2100                                                      |
-| 1. Add phase each  | 650                                                       |
-| 2. Add phase each  | less than 375                                             |
+## Artsariiv <Label>5,962,266 HP</Label> <Label>CC boss: 2100, first adds: 650, second adds: > 375</Label>
 
 <Grid>
 <GridItem sm="8">
@@ -155,8 +145,26 @@ Assign a player for the _Globolla Marble_ bouncing (typically the <Specializatio
 </GridItem>
 </Grid>
 
+### Tactic
+
+Immediately after the fight starts, Artsariiv channels her huge triple-laser attack _Beaming Smile_ (similar to Skorvald at low health). Do not get caught within those lasers and turn away from her to prevent <Condition name="Blinded"/> and <Condition name="fear"/>.
+
+Kill the first _Temporal Anomaly_ to spawn a containment for _Corporal Reassignment_ and cleave the first set of clones. When you feel safe enough, move northwest to Artsariiv, break her defiance bar and bring her down to 66% health.
+
+At 66% and 33% health, Artsariiv splits up into five and nine clones respectively. Those clones can't be damaged and only despawn when their defiance bar is broken. All party members get resurrected afterwards, so don't waste time on dead players.
+
+The central clone has the highest priority as it shoots additional damaging orbs. Also pay attention to the single _Globolla Marble_ during the CC phase, if it isn't bounced it deals medium damage to the party.
+
+After the crowd control phases are over, Artsariiv reappears in the middle of the platform and conjures an _Obliterate_ attack and multiple orange void zones which need to be dodged. She also does her _Beaming Smile_ attack similar to the start of the fight. Kill the respawned _Temporal Anomaly_ and clones (optional) before switching to her again.
+
+Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time which needs to be bounced back to her over nine locations. Failing to bounce usually results in a party wipe, choose a reliable player beforehand to solo this (usually the profession with the least amount of damage <Specialization name="Renegade"/>).
+
+After the fight is over, take the portal in the North and move forward to get to Arkk.
+
 <Grid>
 <GridItem sm="9">
+
+### Comprehensive list of all attacks:
 
 |                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -180,32 +188,9 @@ Assign a player for the _Globolla Marble_ bouncing (typically the <Specializatio
 </GridItem>
 </Grid>
 
-### Tactic
-
-Immediately after the fight starts, Artsariiv channels her huge triple-laser attack _Beaming Smile_ (similar to Skorvald at low health). Do not get caught within those lasers and turn away from her to prevent <Condition name="Blinded"/> and <Condition name="fear"/>.
-
-Kill the first _Temporal Anomaly_ to spawn a containment for _Corporal Reassignment_ and cleave the first set of clones. When you feel safe enough, move northwest to Artsariiv, break her defiance bar and bring her down to 66% health.
-
-At 66% and 33% health, Artsariiv splits up into five and nine clones respectively. Those clones can't be damaged and only despawn when their defiance bar is broken. All party members get resurrected afterwards, so don't waste time on dead players.
-
-The central clone has the highest priority as it shoots additional damaging orbs. Also pay attention to the single _Globolla Marble_ during the CC phase, if it isn't bounced it deals medium damage to the party.
-
-After the crowd control phases are over, Artsariiv reappears in the middle of the platform and conjures an _Obliterate_ attack and multiple orange void zones which need to be dodged. She also does her _Beaming Smile_ attack similar to the start of the fight. Kill the respawned _Temporal Anomaly_ and clones (optional) before switching to her again.
-
-Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time which needs to be bounced back to her over nine locations. Failing to bounce usually results in a party wipe, choose a reliable player beforehand to solo this (usually the profession with the least amount of damage <Specialization name="Renegade"/>).
-
-After the fight is over, take the portal in the North and move forward to get to Arkk.
-
 ---
 
-## Arkk <Item id="50082" disableText/><Label>9,942,250 HP</Label>
-
-|                    |                                                                         |
-| ------------------ | ----------------------------------------------------------------------- |
-| Encounter duration | 1:40min                                                                 |
-| Sigils             | <Item name="impact"/> <Item name="force"/>                              |
-| Food               | <Item id="41569"/> <Item name="powerfulpotionofslayingscarletsarmies"/> |
-| CC                 | 1800                                                                    |
+## Arkk <Item id="50082" disableText/><Label>9,942,250 HP</Label> <Label>CC: 1800</Label>
 
 <Grid>
 <GridItem sm="8">
@@ -226,33 +211,7 @@ Stack <Boon name="Might"/> (you can use <SpecialActionKey name="hypernovalaunch"
 </GridItem>
 </Grid>
 
-<Grid>
-<GridItem sm="9">
-
-|                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Blinding Radiance**                 | Similar to the other bosses, Arkk has the white beam ability which damages players facing him and inflicts <Condition name="Blinded"/> and <Condition name="fear"/>. It is easily recognizable by a large eye icon above Arkk. If you have problems receiving damage despite looking away, try to wiggle left/right while turned away to minimize the risk.                                                                                                                                                                                                                                                                                                                                                                  |
-| **Solar Fury & Solar Discharge**      | Arkk prepares this ability by conjuring a large red orb above his head. When the orbs disappears (after ~4 seconds), he launches bouncing orbs towards every player, leaving a <Condition name="Burning"/> fire field after each bounce. At the same time, he emerges a stunning _Solar Discharge_ shockwave which needs to be dodged or jumped over. The orbs from this attack can be **reflected** to prevent the fire zones on the floor from spawning. **If your party has no reflects, every player needs to use <SpecialActionKey name="hypernovalaunch"/> the moment he throws the orbs to block the fire zones. This is especially important below 40% and can easily wipe your team if one player fails to do so.** |
-| **Corporal Reassignment** (_Doom_)    | The same mechanic as on Artsariiv. Designates a player for timed explosion, the party has to kill a **Temporal Anomaly** (56k HP) to spawn a containment for the target.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Temporal Realignment** (_Green_)    | Similar to the green circle mechanic on _Vale Guardian_. Designates a player to take 80% of their health in damage, split between any nearby allies. Try to have at least three players inside the green circle. **If no other player is inside the circle upon collapsing, it detonates the whole party.**                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Focused Rage**                      | Similar to Skorvald, Arkk marks a player with a crosshair and blasts the area with damage and a <Control name="Knockback"/>. If you are marked, turn Arkk away from the other party members and the white containment bubble and move out during the last second of the animation.                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Horizon Strike & Diffractive Edge** | Again, a mechanic taken from Skorvald. Arkk marks orange triangles around him and blasts them counter-clockwise. The first triangle is always the first to be blasted. _Diffractive Edge_ is basically the same ability, it just blasts all triangles at the same time but leaves a small safe spot behind Arkk.                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Starburst Cascade**                 | **Only below 60% health.** Arkk sends out a wave of cascading energy across the platform, applying <Control name="Float"/> to every player caught inside. This ability can be jumped over.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Disappearing Platforms**            | **Only below 40% health.** In the final phase of the fight, random platforms temporarily disappear. If you fall through the ground, you will get teleported to above and start falling down - use your <SpecialActionKey name="hypernovalaunch"/> to get back into the fight.                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Solar Stomp**                       | **Only below 40% health.** Arkk vanishes in dust evading all attacks, when he reappears he stomps the ground, damages nearby enemies, executes a <Control name="Knockback"/> and sends out a volley of bolts. Be careful to not let it push you off the platform.                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Rolling Chaos**                     | **Only below 40% health.** Recognizable by a small red arrow emanating from Arkk. Launches a rolling red marble in the designated direction which deals high damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Beaming Smile / DDR**               | **Only below 30% health.** Similar to the previous bosses, Arkk summons three large laser beams while simultaneously projecting the white beams onto players. Move out and turn away.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-
-</GridItem>
-
-<GridItem sm="3">
-
-<MDImage src="fractals/shattered-observatory/images/so-arkk-eye.jpg" caption="The Blinding Radiance ability"/>
-<MDImage src="fractals/shattered-observatory/images/so-arkk-solar.jpg" caption="Arkk preparing Solar Fury"/>
-<MDImage src="fractals/shattered-observatory/images/so-arkk-green.jpg" caption="Temporal Realignment"/>
-
-</GridItem>
-</Grid>
+<GridItem sm="12">
 
 ### Tactic
 
@@ -280,8 +239,40 @@ At 70% and 40% of Arkk's health, the party gets teleported to another dimension 
 
 Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Try to kill the adds before finishing the boss as they follow you back to Arkk. Remember the party-wide <Control name="Daze"/> if the third auto-attack of the Gladiator hits someone. The _Elite Brazen Gladiator_ also does his huge pull attack below 50% health, prepare your <SpecialActionKey name="hypernovalaunch"/> skill to break his breakbar then.
 
-#### Final phase <Label>\<40%</Label>
+#### Final phase <Label><40%</Label>
 
 Below 40% health, random platforms start disappearing temporarily. Due to this mechanic, space is very limited and resurrecting a downed player is nearly impossible.Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight even more challenging.
 
 The most important thing is to keep calm. Remember that every single ability can be avoided, <SpecialActionKey name="hypernovalaunch"/> the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!
+
+</GridItem>
+
+<Grid>
+<GridItem sm="9">
+
+### Comprehensive list of all attacks:
+
+|                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Blinding Radiance**                 | Similar to the other bosses, Arkk has the white beam ability which damages players facing him and inflicts <Condition name="Blinded"/> and <Condition name="fear"/>. It is easily recognizable by a large eye icon above Arkk. If you have problems receiving damage despite looking away, try to wiggle left/right while turned away to minimize the risk.                                                                                                                                                                                                                                                                                                                                                                  |
+| **Solar Fury & Solar Discharge**      | Arkk prepares this ability by conjuring a large red orb above his head. When the orbs disappears (after ~4 seconds), he launches bouncing orbs towards every player, leaving a <Condition name="Burning"/> fire field after each bounce. At the same time, he emerges a stunning _Solar Discharge_ shockwave which needs to be dodged or jumped over. The orbs from this attack can be **reflected** to prevent the fire zones on the floor from spawning. **If your party has no reflects, every player needs to use <SpecialActionKey name="hypernovalaunch"/> the moment he throws the orbs to block the fire zones. This is especially important below 40% and can easily wipe your team if one player fails to do so.** |
+| **Corporal Reassignment** (_Doom_)    | The same mechanic as on Artsariiv. Designates a player for timed explosion, the party has to kill a **Temporal Anomaly** (56k HP) to spawn a containment for the target.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Temporal Realignment** (_Green_)    | Similar to the green circle mechanic on _Vale Guardian_. Designates a player to take 80% of their health in damage, split between any nearby allies. Try to have at least three players inside the green circle. **If no other player is inside the circle upon collapsing, it detonates the whole party.**                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Focused Rage**                      | Similar to Skorvald, Arkk marks a player with a crosshair and blasts the area with damage and a <Control name="Knockback"/>. If you are marked, turn Arkk away from the other party members and the white containment bubble and move out during the last second of the animation.                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Horizon Strike & Diffractive Edge** | Again, a mechanic taken from Skorvald. Arkk marks orange triangles around him and blasts them counter-clockwise. The first triangle is always the first to be blasted. _Diffractive Edge_ is basically the same ability, it just blasts all triangles at the same time but leaves a small safe spot behind Arkk.                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Starburst Cascade**                 | **Only below 60% health.** Arkk sends out a wave of cascading energy across the platform, applying <Control name="Float"/> to every player caught inside. This ability can be jumped over.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Disappearing Platforms**            | **Only below 40% health.** In the final phase of the fight, random platforms temporarily disappear. If you fall through the ground, you will get teleported to above and start falling down - use your <SpecialActionKey name="hypernovalaunch"/> to get back into the fight.                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Solar Stomp**                       | **Only below 40% health.** Arkk vanishes in dust evading all attacks, when he reappears he stomps the ground, damages nearby enemies, executes a <Control name="Knockback"/> and sends out a volley of bolts. Be careful to not let it push you off the platform.                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Rolling Chaos**                     | **Only below 40% health.** Recognizable by a small red arrow emanating from Arkk. Launches a rolling red marble in the designated direction which deals high damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Beaming Smile / DDR**               | **Only below 30% health.** Similar to the previous bosses, Arkk summons three large laser beams while simultaneously projecting the white beams onto players. Move out and turn away.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+</GridItem>
+
+<GridItem sm="3">
+
+<MDImage src="fractals/shattered-observatory/images/so-arkk-eye.jpg" caption="The Blinding Radiance ability"/>
+<MDImage src="fractals/shattered-observatory/images/so-arkk-solar.jpg" caption="Arkk preparing Solar Fury"/>
+<MDImage src="fractals/shattered-observatory/images/so-arkk-green.jpg" caption="Temporal Realignment"/>
+
+</GridItem>
+</Grid>
