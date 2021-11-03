@@ -36,7 +36,7 @@ Go to Rox and Braham, wait for the mobs to spawn, kill them. After killing them,
 <Grid>
 <GridItem sm="6">
 
-<MDImage src="fractals/molten-furnace/drill.jpg" caption="The drill"/>
+<MDImage src="fractals/molten-furnace/images/drill.jpg" caption="The drill"/>
 
 </GridItem>
 
