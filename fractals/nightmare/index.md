@@ -46,21 +46,23 @@ sigils:
 
 ## Assault Knights <Item id="50082" disableText/><Label>426,071 HP</Label>
 
+<Grid>
+<GridItem sm="7">
+
 Stack <Boon name="Might"/> before jumping down. Kill the three _Assault Knights_ (Red, Blue and Green), each of them has the same set of abilities: a PBAoE <Control name="Knockdown"/> and an AoE <Control name="Pull"/> which covers the entire room except the knight's position, both can be dodged.
 
-Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your cooldowns.
+Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your cooldowns. Ideally the group splits up here and kills the knights simultaniously.
+
+</GridItem>
+
+<GridItem sm="5">
 
 <MDImage src="fractals/nightmare/images/mama.jpg" caption="MAMA: The first boss"/>
 
-## MAMA <Label>5,200,519 HP</Label>
+</GridItem>
+</Grid>
 
-|                    |                                                                         |
-| ------------------ | ----------------------------------------------------------------------- |
-| Encounter duration | 40-45s                                                                  |
-| Sigils             | <Item name="impact"/> <Item name="Force"/>                              |
-| Food               | <Item id="43360"/> <Item name="powerfulpotionofslayingscarletsarmies"/> |
-| CC-bar MAMA        | 1800                                                                    |
-| CC-bar adds        | 800                                                                     |
+## MAMA <Item id="50082" disableText/><Item id="43360" disableText/> <Label>5,200,519 HP</Label> <Label>CC mama: 1800, CC adds: 800</Label>
 
 Stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before jumping down. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlock to MAMA.
 
@@ -83,17 +85,9 @@ Fast crowd control and animation knowledge are the keys to this fight.
 
 ## First set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
 
-Swap your weapon set to <Item name="Impact"/> and <Item name="Serpentslaying"/>. You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="Agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.\
-Learn the _Red Orb_ patterns as they can quickly kill you, _Blue Orbs_ will heal you for a large amount of health (even with Agony).\
+Swap your weapon set to <Item name="Impact"/> and <Item name="Serpentslaying"/>. You need to cap two altars to continue. Pull the two groups of Krait back to the passage and kill all enemies there. Start capping the altars as soon as possible, but keep in mind that standing inside puts <Effect name="Agony"/> on yourself. Only enemy Krait counteract the capping here, you can ignore the Hallucinations.  
+Learn the _Red Orb_ patterns as they can quickly kill you, _Blue Orbs_ will heal you for a large amount of health (even with Agony).  
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
-</GridItem>
-
-<GridItem sm="4">
-
-<MDImage src="fractals/nightmare/images/altars.jpg" caption="The altars"/>
-
-</GridItem>
-</Grid>
 
 <Tabs>
 <Tab specialization="berserker">
@@ -103,18 +97,48 @@ Exchange <Skill name="signetofmight"/> or <Skill name="forgreatjustice"/> for <S
 At the first set of altars draw the Elite Nightmare Hypnoss with <Skill name="on my mark" profession="Warrior"/> to the narrow corridor so that the <Specialization name="Firebrand"/> can pull them together with <Skill name="Binding Blade"/> and disable them with <Skill name="Tremor" profession="Warrior"/>. Assist in killing the Elite Nightmare Hypnoss and capturing one of the two altars.
 </Tab>
 </Tabs>
+</GridItem>
+
+<GridItem sm="4">
+
+<MDImage src="fractals/nightmare/images/altars.jpg" caption="The altars"/>
+
+</GridItem>
+</Grid>
 
 ## Second set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
+
+<Grid>
+
+<GridItem>
+
+<Card title="Variant 1: PuG variant, pulling all mobs">
 
 Again, pull all enemies to the center (wait for the <Specialization name="Firebrand"/> to cast <Skill id="9147"/>) and kill them there. The mobs at the left altar (West) can be aggroed with a simple projectile, the mobs on the right side (East) need to be pulled with <Skill id="14381"/> (Longbow), <Skill id="14575"/>, <Skill id="5491"/> (Staff) or by teleporting up and jumping down.
 
 Both side altars can easily be capped by a single person after another player has pulled down the mobs. Please note that you have to wait until the mobs are down before teleporting elsewhere to prevent them from running back.
 
+</Card>
+</GridItem>
+
+<GridItem>
+
+<Card title="Variant 2: Organized fast variant">
+
+The group splits up, so that a team of 2 and 3 will cap each altar. While running up stick to the very wall farthest away from the mobs in the center to avoid pulling them. Use <Item name="harpyfeathers"/> if necessary.
+
+Pull out the mobs of the side altar circles, kill them and quickly cap. One person is supposed to aggro the remaining mobs in the center circle, so that the party can cap now without any interferance.
+
+</Card>
+</GridItem>
+
+</Grid>
+
 Contrary to the first set of altars, respawning _Veteran Hallucinations_ counteract capping here. Use <Control name="Pull"/> to grab them out of the central altar and always have a positive amount of players inside.
 
 After you capped all three altars, use `/gg` immediately if someone in the party needs it, then you can continue up to the 2nd boss. Before the ramp up, a group of Krait will attack you - simply keep walking to skip them. Use dodges, evades or skills that make you invulnerable to get through the cascading orbs and disable them by walking through the orb at the top of the ramp.
 
-Usually a single person with high mobility (<Specialization name="Warrior"/>, <Specialization name="Dragonhunter"/>, <Specialization name="Soulbeast"/>, <Specialization name="Weaver"/>) and <Item name="endlesschoyapinatatonic"/> or <Item id="49940"/> skips to Siax while the rest of the party stays dead. Trigger Siax and wait for Siax to appear, then `/gg` as well.
+Usually a single person with high mobility (<Specialization name="Warrior"/>, <Specialization name="Dragonhunter"/>, <Specialization name="Soulbeast"/>, <Specialization name="Weaver"/>) and <Item id="85244"/> or <Item id="49940"/> skips to Siax while the rest of the party stays dead. Trigger Siax and wait for Siax to appear, then `/gg` as well.
 
 <Tabs>
 <Tab specialization="Weaver">
@@ -150,14 +174,7 @@ At the second set of altars use your <Skill name="Huntersverdict"/> to pull out 
 
 ---
 
-## Siax the Corrupted <Label>6,138,797 HP</Label>
-
-|                    |                                                                         |
-| ------------------ | ----------------------------------------------------------------------- |
-| Encounter duration | 30-35s                                                                  |
-| Sigils             | <Item name="impact"/> <Item name="serpentslaying"/>                     |
-| Food               | <Item id="43360"/> <Item name="powerfulpotionofslayingscarletsarmies"/> |
-| CC                 | 2000                                                                    |
+## Siax the Corrupted <Item id="50082" disableText/><Item id="43360" disableText/> <Label>6,138,797 HP</Label> <Label>CC: 2000</Label>
 
 Stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before approaching the red orb and starting the fight. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlock to Siax.
 
@@ -171,22 +188,18 @@ When Siax reaches 66% health, he gains <Effect name="Invulnerability"/> and four
 
 Assign players to each add before the fight starts by setting waypoints. In PuGs the <Specialization name="Firebrand"/> and <Specialization name="Renegade"/> will usually focus on one mob together due to their lower DPS.
 
-<MDImage src="fractals/nightmare/images/bosses/siax.jpg" caption="Siax the Corrupted"/>
+<MDImage src="fractals/nightmare/images/siax.jpg" caption="Siax the Corrupted"/>
 
 ---
 
-## Ensolyss of the Endless Torment <Label>14,059,890 HP</Label>
-
-|                    |                                                                         |
-| ------------------ | ----------------------------------------------------------------------- |
-| Encounter duration | 1:40-1:45min                                                            |
-| Sigils             | <Item name="impact"/> <Item name="serpentslaying"/>                     |
-| Food               | <Item id="41569"/> <Item name="powerfulpotionofslayingscarletsarmies"/> |
-| CC                 | 2000                                                                    |
+## Ensolyss of the Endless Torment <Label>14,059,890 HP</Label> <Label>CC phase 1: 2000, phase 2: 2250 </Label>
 
 <Grid>
 <GridItem>
 
+<Information>
+This boss heavily favours condition damage!
+</Information>
 Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before starting the fight. Good teams will use a <Item id="78978"/> to teleport to the boss. When you start the fight don't stand in the center area of the platform or you will receive a <Control name="Knockback"/>. Right after he looses his <Effect name="Invulnerability"/> there is a CC bar. This bar is only breakable for approximately one second. Time your CC wise.
 
 Nearly all of Ensolyss' attacks do a <Control name="Knockback"/> or <Control name="Pull"/>, learn to dodge or walk out of every attack. The most dangerous one is his shockwave-shatter combo, he smashes down a stunning yellow shockwave (like MAMA below 33% health), spawns hallucinations on each players position and shatters them after two seconds.
@@ -212,6 +225,6 @@ Below 66%, Ensolyss gains a new ability where he smashes two quarters of the pla
 
 Below 33%, he may summon a special shockwave which travels inwards to him (contrary to the ones before) and deal enormous damage to everyone near him. With enough crowd control and DPS this should never occur.
 
-### Final phase <Label>\<15%</Label>
+### Final phase <Label><15%</Label>
 
 When Ensolyss reaches 15% health, he will stop using his usual attacks, but only a small bubble in the middle will protect you from his deathly rain. Krait will charge through the middle (indicated by large arrows on the ground) and make positioning harder, kill Ensolyss quickly to finish the fractal.
