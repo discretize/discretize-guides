@@ -29,21 +29,41 @@ sigils:
   - id: 24615
 ---
 
-<Warning>
+<Grid>
+
+<GridItem sm="8">
+
+<Warning >
 
 This is an underwater fractal. Make sure you have appropriate underwater equipment with enough Agony Resistance.
 
 </Warning>
 
----
+It is highly recommended to bring one of the following builds, due them performing well in underwater combat:
+
+- <BuildLink specialization="Firebrand" build="Condi Firebrand"/>: due to high dps and easy access to <Boon name="Stability"/> and <Boon name="Quickness"/>
+- <BuildLink specialization="Holosmith" build="Power Holosmith"/>: due to very high underwater dps
+- <BuildLink specialization="Soulbeast" build="Power Soulbeast"/>: due to very high underwater dps and decent offensive capabilities
+- <Specialization name="Tempest" text="Power Tempest" />: due to decent damage and cleave
+
+</GridItem>
+<GridItem sm="4">
+<MDImage src="fractals/aquatic-ruins/images/wooden_rack.jpg" caption="The wooden rack"/>
+</GridItem>
+</Grid>
 
 ## Save the villagers <Item id="50082" disableText/><Item id="24658" disableText/>
 
 <Grid>
-<GridItem sm="8">
+<GridItem sm="7">
 
 You can stack <Boon name="Might"/> on the rack before entering the water. Kill the two groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
 
+<MDImage src="fractals/aquatic-ruins/images/trapped_villagers.jpg" caption="Villagers are trapped in cages"/>
+
+</GridItem>
+
+<GridItem sm="5">
 <Tabs>
 <Tab specialization="Weaver">
 
@@ -61,11 +81,6 @@ You can re-trait to Tempest for this fractal as it is one of the best choices fo
 Trait Air with <Trait id="232" disableText/>, <Trait id="214" disableText/> and most importantly <Trait id="1503"/>. For utility, use <Skill id="5638" disableText/>, <Skill id="5539" disableText/>, <Skill id="30662" disableText/> and <Skill id="29968" disableText/> as Elite skill.
 
 As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" disableText/>) and <Skill id="5597"/> (<Skill id="5492" disableText/>) and <Skill id="5655"/> and Air autoattack (<Skill id="5494" disableText/>) to maximize DPS.
-</Tab>
-
-<Tab specialization="Warrior">
-
-Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="Fury"/> and <Boon name="Might"/>.
 </Tab>
 
 <Tab specialization="reaper">
@@ -90,13 +105,6 @@ Take <Skill id="14403"/> and trait <Trait id="1711"/> to grant <Boon name="Fury"
 </Tabs>
 </GridItem>
 
-<GridItem sm="4">
-
-<MDImage src="fractals/aquatic-ruins/images/wooden_rack.jpg" caption="The wooden rack"/>
-
-<MDImage src="fractals/aquatic-ruins/images/trapped_villagers.jpg" caption="Villagers are trapped in cages"/>
-
-</GridItem>
 </Grid>
 
 ---
@@ -125,11 +133,13 @@ If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Kra
 
 ## Jellyfish Beast
 
-The Jellyfish Beast does not have a Breakbar since the rework. It uses a special version of <Effect name="Exposed"/> called Weakened, sadly the <Item id="24868"/> does not work on this effect. Use <Item id="24615"/> and <Item id="24658"/> (Krait for the split phases) instead.
+The Jellyfish Beast does not have a breakbar since the rework. Instead a special version of <Effect name="Exposed"/> called Weakened is given to the boss. Sadly the <Item id="24868"/> does not work with this effect. Use <Item id="24615"/> and <Item id="24658"/> (Krait for the split phases) instead - when playing power based builds.
 
-It starts it's rotation with an AoE stun. If you get eaten by the boss, your weapon skills get replaced from 1 to 5. Click the specific skill every time to get free. If you miss the right skill too often you die.
+The boss always starts with an AoE stun-spin attack. <Boon name="Stability"/> spam is recommended to handle this encounter gracefully. Every now and then the boss eats a player. To free themselves, the player will need to complete a guitar-hero styled puzzle by always clicking the highlighted skill. If you miss the right skill too often you die.
 
 Every 25% the boss gets <Effect name="Invulnerability"/> and Elite Krait spawn. Kill them to continue the fight.
+
+When the <Instability name="Afflicted"/> is present, it is highly recommended to bring some kind of condition-cleanse due to the ticking aura during the split phases applying conditions.
 </GridItem>
 
 <GridItem sm="5">
@@ -146,9 +156,6 @@ Use <Skill name="Stand your ground"/>. If you have multiple Guardians in your te
 </Tabs>
 </GridItem>
 
-<GridItem sm="12">
+</Grid>
 
 <MDImage src="fractals/aquatic-ruins/images/the_jellyfish_beast.jpg" caption="The Jellyfish Beast"/>
-
-</GridItem>
-</Grid>
