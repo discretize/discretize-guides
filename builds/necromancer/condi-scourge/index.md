@@ -257,7 +257,7 @@ sections:
 
       | <Skill name="Wail of Doom" size="big" disableText/>                    | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>)                                       |
 
-      | <Skill name="Charge" profession="necromancer" size="big" disableText/> | 200 damage with <Control name="Knockdown"/> and 232 with <Control name="Launch"/> coming from <Skill name="Summon Flesh Golem"/> |
+      | <Skill name="Charge" profession="necromancer" size="big" disableText/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox |
 
       | <Skill name="Spectral Grasp" size="big" disableText/>                  | 150-750 damage with <Control name="Pull" /> (see situational skills)                                                             |
 
@@ -297,7 +297,7 @@ classification:
   - 4
   - 2
   - 3
-date: 2021-11-01T11:47:08.021Z
+date: 2021-11-03T12:26:18.616Z
 benchmark:
   small:
     dps: 37044
