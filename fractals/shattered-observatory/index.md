@@ -190,7 +190,7 @@ After the fight is over, take the portal in the North and move forward to get to
 
 ---
 
-## Arkk <Item id="50082" disableText/><Label>9,942,250 HP</Label> <Label>CC: 1800</Label>
+## Arkk <Item id="50082" disableText/> <Label>9,942,250 HP</Label> <Label>CC: 1800</Label>
 
 <Grid>
 <GridItem sm="8">
