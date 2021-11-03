@@ -267,7 +267,7 @@ sections:
       </Grid>
   - type: mdx
     title: Rotation/Skill Usage
-    content: ""
+    content: ''
 rating: Good
 role: Power Damage
 author: Ascers.6082
@@ -278,8 +278,8 @@ conditions:
   - Blinded
   - Crippled
   - Immobile
-code: "[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: false
+code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
@@ -353,8 +353,6 @@ date: 2021-11-03T12:19:55.362Z
 - Try to manage your Heat in split phases. Ideally you always want to be back at 90 Heat when starting to burst in a new phase.
 
 </Card>
-
-
 
 </GridItem>
 <GridItem sm="6">
