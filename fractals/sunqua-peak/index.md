@@ -47,8 +47,6 @@ The Sunqua Peak fractal is different from previously released fractals: After do
 
 Killing elementals spawn lightning strikes that periodically leave behind an orb-like item. Upon collection, it grants the temporary buff <Uncategorized name="chargedleap"/> that enhances the jumping height. Since it stacks up to 3 times, it is recommended to collect 2-3 to ease the jumping part. After approaching the platform with the _Mistlock Singularity_, jump over to the boss via the updraft to set a checkpoint for possibly left behind teammates. `/gg` and pre-stack boons like <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> on the _Mistlock Singularity_.
 
-Killing elementals spawns lightning strikes that periodically leave behind an orb like item. Upon collection it grants the temporary buff <Uncategorized name="chargedleap"/> that enhances the jumping height. Since it stacks up to 3 times, it is recommended to collect 2-3 to ease the jumping part. After approaching the platform with the _Mistlock Singularity_, jump over to the boss via the updraft to set a checkpoint for possibly left behind teammates. `/gg` and pre-stack boons like <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> on the _Mistlock Singularity_.
-
 ## Voice of the mountain
 
 <Grid>
@@ -70,12 +68,12 @@ The Voice of the mountain is the first boss in the fractal. This boss deals litt
 
 <Grid>
 <GridItem sm="8">
-<Warning>
+<Information>
 
 Not a single trash mob needs to be killed for progression!
-</Warning>
+</Information>
 
-After the Voice of the mountain is dead, take the updraft and follow the path. In order to trigger the next boss, you have to interact with three Frightened Water Elementals found along the path. Right after taking the updraft, there are waterfalls that periodically push you down the cliff. <Boon name="Stability"/> is ineffective.
+After the Voice of the mountain is dead, take the updraft and follow the path. In order to trigger the next boss, you have to interact with three Frightened Water Elementals found along the path. Right after taking the updraft, there are waterfalls that periodically push you down the cliff. <Boon name="Stability"/> is ineffective. Wait until you see the water particles disappearing before walking through the waterfalls or use blinks.
 </GridItem>
 
 <GridItem sm="4">
