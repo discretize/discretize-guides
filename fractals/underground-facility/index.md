@@ -34,42 +34,40 @@ consumables: [78978, 49940, 8764, 8801, 8686]
 
 ## Start: Locked Gates <Item id="8892" disableText/><Item id="24684" disableText/>
 
+<Grid>
+<GridItem sm="7">
+
 <Warning>
 
-There are two ways to do this. For the faster way you require <Item id="78978"/>. The normal way takes much longer but needs nothing.
+There are two ways to do this. The fast one requires a <Item id="78978"/> and some jumping skills. The second one requires more team coordination and awareness.
 
 </Warning>
 
 <Divider text="Fast way"/>
 
-<Grid>
-<GridItem sm="12">
 <Tabs>
 <Tab specialization="Guardian">
-
-<Video title="Guardian skip" youtube="N5RcWdIbIRs"/>
-</Tab>
-
-<Tab specialization="Guardian">
-
-<Video title="Guardian skip 2" youtube="Nzi7wRSNY7Q"/>
+<ProfessionVideo title="Portal into the cage (variant 1)" profession="Guardian" src="N5RcWdIbIRs"/>
+<ProfessionVideo title="Portal into the cage (variant 2)" profession="Guardian" src="Nzi7wRSNY7Q"/>
 </Tab>
 
 <Tab specialization="Warrior">
-
-<Video title="Warrior skip" timestamp="105" youtube="REnmbN7sZFQ"/>
+<ProfessionVideo title="Portal past the first gate" profession="Warrior" timestamp="105" src="REnmbN7sZFQ"/>
 </Tab>
 
 <Tab specialization="Revenant">
-
-<Video title="Revenant skip" timestamp="144" youtube="REnmbN7sZFQ"/>
+<ProfessionVideo title="Portal past the first gate" profession="Renegade" timestamp="144" src="REnmbN7sZFQ"/>
 </Tab>
 
 <Tab specialization="Thief">
-
-<Video title="Thief skip" timestamp="484" youtube="Alpgs_GaZV0"/>
+<ProfessionVideo title="Portal into the cage" profession="Thief" timestamp="484" src="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
+
+</GridItem>
+<GridItem sm="5">
+
+<MDImage src="fractals/underground-facility/images/start.jpg" caption="The starting area"/>
 </GridItem>
 </Grid>
 
@@ -82,8 +80,6 @@ There are two ways to do this. For the faster way you require <Item id="78978"/>
 | **The Second Pressure Plate** | This is usually done by an <Specialization name="Elementalist"/> who teleports up from below while the others keep up <Effect name="Stealth"/>. Other option is <Specialization name="Thief"/> who can even come back easily for the console room using <Skill id="13106"/> or <Skill id="10197"/> respectively. **Activating the second pressure plate permanently opens the first door.**                                                                                                                                                                                                                                                                                                                                           |
 | **The Console Room**          | Two people without special abilities should step on the two pressure plates to open the console locker. They are also responsible for keeping aggro from the opener, especially the spawning _Veteran Dredge_ next to the locker. Now for the actual console, <Item id="8686"/> and other <Effect name="Stealth"/> sources are very strong. It should be activated by someone who's able to block the <Control name="Knockback"/> from the locker closing, so the other two people can step off the pressure plates and protect the opener from the spawning mobs. The opener should indicate the step off in chat to time it with block skills. **The whole party can do `/gg` after the console is done, but it is not necessary**. |
 
-<Grid>
-<GridItem sm="12">
 <Tabs>
 
 <Tab specialization="elementalist">
@@ -106,20 +102,8 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> to stack <Ef
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
-</GridItem>
-
-<GridItem sm="6">
-
-<MDImage src="fractals/underground-facility/images/start.jpg" caption="The starting area"/>
-
-</GridItem>
-
-<GridItem sm="6">
 
 <MDImage src="fractals/underground-facility/images/console_locker.jpg" caption="The console locker"/>
-
-</GridItem>
-</Grid>
 
 ---
 
@@ -135,7 +119,9 @@ On the **rifles** path you lose all your endurance and therefore you are unable 
 On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and** at the end to permanently keep <Effect name="Stealth"/> up on yourself. Same applies if you gain aggro of any mob, just walk into a <Effect name="Stealth"/> zone.
 
 <Warning>
+
 **You can use portals and blinks/teleports with bombs**
+
 </Warning>
 </GridItem>
 
@@ -157,19 +143,17 @@ Cast <Skill id="13117"/> for immediate <Effect name="Stealth"/>.
 
 ## Champion Rabsovich <Item id="8892" disableText/><Item id="24684" disableText/>
 
-When you destroy the door, you will reach an annoying boss. There's really no trick with him apart from breaking his defiance bar as often as possible. If needed, do `/gg` afterwards to reset your wasted cooldowns.
+When you destroy the door, you will reach _Champion Rabsovich_. Break his defiance bar as often as possible. This boss has an annoying mechanic where he interrupts every incoming attack for a couple seconds. There is no way to circumvent that.
 
-Skip here by one of the classes below:
+The party should `/gg` afterwards to reset cooldowns in preparation for the skip to the endboss:
 
 <Tabs>
 <Tab specialization="Guardian">
-
-<Video title="Guarian skip to last boss, same for Ranger and Warrior" timestamp="103" youtube="MmJTsOhdQeo"/>
+<ProfessionVideo title="Skip to last boss, same for Ranger and Warrior" profession="Guardian" timestamp="103" src="MmJTsOhdQeo"/>
 </Tab>
 
 <Tab specialization="Thief">
-
-<Video title="Thief skip to last boss" timestamp="531" youtube="Alpgs_GaZV0"/>
+<ProfessionVideo title="Thief skip to last boss" profession="Thief" timestamp="531" src="Alpgs_GaZV0"/>
 </Tab>
 </Tabs>
 
@@ -197,6 +181,7 @@ Teleport to the lava buckets from below with <Skill id="13025"/>.
 </Tab>
 </Tabs>
 
-<MDImage src="fractals/underground-facility/images/ice_elemental.jpg" caption="The Rampaging Ice Elemental"/>
 </GridItem>
 </Grid>
+
+<MDImage src="fractals/underground-facility/images/ice_elemental.jpg" caption="The Rampaging Ice Elemental"/>
