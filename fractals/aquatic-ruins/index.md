@@ -31,7 +31,7 @@ sigils:
 
 <Grid>
 
-<GridItem sm="8">
+<GridItem sm="7">
 
 <Warning >
 
@@ -39,15 +39,17 @@ This is an underwater fractal. Make sure you have appropriate underwater equipme
 
 </Warning>
 
-It is highly recommended to bring one of the following builds, due them performing well in underwater combat:
+It is highly recommended to bring one of the following builds due them performing well in underwater combat:
 
-- <BuildLink specialization="Firebrand" build="Condi Firebrand"/>: due to high dps and easy access to <Boon name="Stability"/> and <Boon name="Quickness"/>
-- <BuildLink specialization="Holosmith" build="Power Holosmith"/>: due to very high underwater dps
-- <BuildLink specialization="Soulbeast" build="Power Soulbeast"/>: due to very high underwater dps and decent offensive capabilities
-- <Specialization name="Tempest" text="Power Tempest" />: due to decent damage and cleave
+- <BuildLink specialization="Firebrand" build="Condi Firebrand"/>: high dps and easy access to <Boon name="Stability"/> and <Boon name="Quickness"/>
+- <BuildLink specialization="Holosmith" build="Power Holosmith"/>: very high underwater dps
+- <BuildLink specialization="Soulbeast" build="Power Soulbeast"/>: very high underwater dps and decent offensive capabilities
+- <BuildLink specialization="Reaper" build="Power Reaper"/> or <BuildLink specialization="Scourge" build="Condi Scourge"/>: very high cleave
+- <Specialization name="Tempest" text="Power Tempest" />: decent damage and cleave
+- <BuildLink specialization="Chronomancer" build="Power Chronomancer"/>: very high single target dps, pulls.
 
 </GridItem>
-<GridItem sm="4">
+<GridItem sm="5">
 <MDImage src="fractals/aquatic-ruins/images/wooden_rack.jpg" caption="The wooden rack"/>
 </GridItem>
 </Grid>
@@ -65,24 +67,6 @@ You can stack <Boon name="Might"/> on the rack before entering the water. Kill t
 
 <GridItem sm="5">
 <Tabs>
-<Tab specialization="Weaver">
-
-You can stay Weaver for this fractal and trait Air with <Trait id="232" disableText/>, <Trait id="214" disableText/> and most importantly <Trait id="1503"/> or re-trait to Tempest. For utility, use <Skill id="5638" disableText/>, <Skill id="40183" disableText/>, <Skill id="5539" disableText/> and <Skill id="43638"/> as Elite skill.
-
-Rotate to <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/> while swimming to the boss for <Trait name="Elements of Rage"/> and use <Skill name="Forked Lightning" profession="Elementalist"/> (Air autoattack) and <Skill name="Electrocute" profession="Elementalist"/> (Skill 2). Then rotate to <Skill name="Earth Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/> use <Skill name="Rock Spray" profession="Elementalist"/> (Skill 2) and <Skill name="Sodden Swath" profession="Elementalist"/> (Earth/Air Skill 3) use <Skill name="Forked Lightning" profession="Elementalist"/> (Air autoattack) rotate to <Skill name="Fire Attunement" profession="Elementalist" disableText/> / <Skill name="Earth Attunement" profession="Elementalist" disableText/>. Use <Skill name="Boil" profession="Elementalist"/> (Skill 2) <Skill name="Molten Burst" profession="Elementalist"/> (Fire/Earth Skill 3) and <Skill name="Rock Anchor" profession="Elementalist"/> (Skill 4) <Skill name="Murky water" profession="Elementalist"/> (Skill 5). Rotate to <Skill name="Fire Attunement" profession="Elementalist" disableText/> / <Skill name="Fire Attunement" profession="Elementalist" disableText/> use <Skill name="LavaChains" profession="Elementalist"/> (Skill 4) and <Skill name="Heat Wave" profession="Elementalist"/> (Skill 5). Rotate to <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Fire Attunement" profession="Elementalist" disableText/> use <Skill name="Plasmic Strike" profession="Elementalist"/> (Air/Fire Skill 3), <Skill name="Electrocute" profession="Elementalist"/> (Skill 2) and <Skill name="Forked Lightning" profession="Elementalist"/> (Air autoattack). Rotate to <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/> and start again.
-
-Use your utility while in <Skill name="Fire Attunement" profession="Elementalist" disableText/> / <Skill name="Fire Attunement" profession="Elementalist" disableText/> or <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/> when the vulnerability debuff is up (breaking out from the Jellyfish's belly).
-</Tab>
-
-<Tab specialization="tempest">
-
-You can re-trait to Tempest for this fractal as it is one of the best choices for underwater combat (because of cleave and vulnerability uptime).
-
-Trait Air with <Trait id="232" disableText/>, <Trait id="214" disableText/> and most importantly <Trait id="1503"/>. For utility, use <Skill id="5638" disableText/>, <Skill id="5539" disableText/>, <Skill id="30662" disableText/> and <Skill id="29968" disableText/> as Elite skill.
-
-As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" disableText/>) and <Skill id="5597"/> (<Skill id="5492" disableText/>) and <Skill id="5655"/> and Air autoattack (<Skill id="5494" disableText/>) to maximize DPS.
-</Tab>
-
 <Tab specialization="reaper">
 
 1.  <Skill name="Frozen Abyss"/> (Trident 5)
@@ -102,6 +86,24 @@ As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" disableText
 8.  Repeat from step `1`
 
 </Tab>
+<Tab specialization="Weaver">
+
+You can stay Weaver for this fractal and trait Air with <Trait id="232" disableText/>, <Trait id="214" disableText/> and most importantly <Trait id="1503"/> or re-trait to Tempest. For utility, use <Skill id="5638" disableText/>, <Skill id="40183" disableText/>, <Skill id="5539" disableText/> and <Skill id="43638"/> as Elite skill.
+
+Rotate to <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/> while swimming to the boss for <Trait name="Elements of Rage"/> and use <Skill name="Forked Lightning" profession="Elementalist"/> (Air autoattack) and <Skill name="Electrocute" profession="Elementalist"/> (Skill 2). Then rotate to <Skill name="Earth Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/> use <Skill name="Rock Spray" profession="Elementalist"/> (Skill 2) and <Skill name="Sodden Swath" profession="Elementalist"/> (Earth/Air Skill 3) use <Skill name="Forked Lightning" profession="Elementalist"/> (Air autoattack) rotate to <Skill name="Fire Attunement" profession="Elementalist" disableText/> / <Skill name="Earth Attunement" profession="Elementalist" disableText/>. Use <Skill name="Boil" profession="Elementalist"/> (Skill 2) <Skill name="Molten Burst" profession="Elementalist"/> (Fire/Earth Skill 3) and <Skill name="Rock Anchor" profession="Elementalist"/> (Skill 4) <Skill name="Murky water" profession="Elementalist"/> (Skill 5). Rotate to <Skill name="Fire Attunement" profession="Elementalist" disableText/> / <Skill name="Fire Attunement" profession="Elementalist" disableText/> use <Skill name="LavaChains" profession="Elementalist"/> (Skill 4) and <Skill name="Heat Wave" profession="Elementalist"/> (Skill 5). Rotate to <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Fire Attunement" profession="Elementalist" disableText/> use <Skill name="Plasmic Strike" profession="Elementalist"/> (Air/Fire Skill 3), <Skill name="Electrocute" profession="Elementalist"/> (Skill 2) and <Skill name="Forked Lightning" profession="Elementalist"/> (Air autoattack). Rotate to <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/> and start again.
+
+Use your utility while in <Skill name="Fire Attunement" profession="Elementalist" disableText/> / <Skill name="Fire Attunement" profession="Elementalist" disableText/> or <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/> when the vulnerability debuff is up (breaking out from the Jellyfish's belly).
+</Tab>
+
+<Tab specialization="tempest">
+
+You can re-trait to Tempest for this fractal as it is one of the best choices for underwater combat (because of cleave and vulnerability uptime).
+
+Trait Air with <Trait id="232" disableText/>, <Trait id="214" disableText/> and most importantly <Trait id="1503"/>. For utility, use <Skill id="5638" disableText/>, <Skill id="5539" disableText/>, <Skill id="30662" disableText/> and <Skill id="29968" disableText/> as Elite skill.
+
+As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" disableText/>) and <Skill id="5597"/> (<Skill id="5492" disableText/>) and <Skill id="5655"/> and Air autoattack (<Skill id="5494" disableText/>) to maximize DPS.
+</Tab>
+
 </Tabs>
 </GridItem>
 
