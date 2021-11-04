@@ -185,7 +185,7 @@ Gather at Subject 6 after finishing the other three colliders. During the fight,
 
 There are two main tactics for killing it:
 
-**Option 1 (easy):** Everyone goes AFK until Subject 6 blocks for the first time. After the blocking is over, nuke him without killing any Oozes.\
+**Option 1 (easy):** Everyone goes AFK until Subject 6 blocks for the first time. After the blocking is over, nuke him without killing any Oozes.  
 Requires high damage and you may have to wait a while as the blocking occurs at random times.
 
 **Option 2 (coordinated):** The team nukes from the beginning ignoring the Oozes, but refrains from using crowd control effects and breaking his defiance bar. If Subject 6 starts blocking, immediately break the defiance bar using **unblockable** CC skills to bypass the Overload mechanic.
