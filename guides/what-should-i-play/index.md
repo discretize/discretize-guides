@@ -181,11 +181,11 @@ It plays very similar to <BuildLink build="Power Dragonhunter" specialization="D
 
 Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' <Attribute name="Power"/> by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
-<Message>
+<Warning>
 
 Its worth to mention that _<Specialization text="Power Quickness Firebrand" name="Firebrand"/>_ is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run <BuildLink build="Condi Firebrand" specialization="Firebrand"/> as it provides much higher sustained DPS.
 
-</Message>
+</Warning>
 
 </Card>
 
