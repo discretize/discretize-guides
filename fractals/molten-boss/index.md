@@ -81,10 +81,7 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 
 <GridItem sm="4">
 
-<MDImage
-  src="fractals/molten-boss/images/start.jpg"
-  caption="The long way down"
-/>
+<MDImage src="images/start.jpg" caption="The long way down" />
 
 </GridItem>
 
@@ -106,10 +103,8 @@ The moment you killed the Effigy you can `/gg` if necessary so you don't have to
 </GridItem>
 <GridItem sm="5">
 
-<MDImage
-  src="fractals/molten-boss/images/molten_effigy.jpg"
-  caption="The Molten Effigy"
-/>
+<MDImage src="images/molten_effigy.jpg" caption="The Molten Effigy" />
+
 </GridItem>
 </Grid>
 
@@ -117,10 +112,8 @@ The moment you killed the Effigy you can `/gg` if necessary so you don't have to
 
 <Grid>
 <GridItem sm="5">
-<MDImage
-  src="fractals/molten-boss/images/endboss.jpg"
-  caption="The Molten Berserker & Molten Firestorm"
-/>
+
+<MDImage src="images/endboss.jpg" caption="The Molten Berserker & Molten Firestorm" />
 
 </GridItem>
 <GridItem sm="7">

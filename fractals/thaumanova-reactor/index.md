@@ -74,7 +74,7 @@ Activate the _Detonator_ and wait for the <Specialization name="Renegade"/>, <Sp
 
 <GridItem xs="12" sm="4">
 
-<MDImage src="fractals/thaumanova-reactor/images/fire_shaman.jpg" caption="The Elite Flame Legion Fire Shaman"/>
+<MDImage src="images/fire_shaman.jpg" caption="The Elite Flame Legion Fire Shaman"/>
 
 </GridItem>
 
@@ -108,7 +108,7 @@ Activating <Label>2</Label> enables short access to the two final consoles at <L
 
 <GridItem sm="6">
 
-<MDImage src="fractals/thaumanova-reactor/images/turret_room.jpg" caption="Golems patrol in the turret room"/>
+<MDImage src="images/turret_room.jpg" caption="Golems patrol in the turret room"/>
 
 </GridItem>
 
@@ -126,7 +126,7 @@ Activating <Label>2</Label> enables short access to the two final consoles at <L
 
 <GridItem sm="4">
 
-<MDImage src="fractals/thaumanova-reactor/images/researcher_dormitories.jpg" caption="The Researcher Dormitories"/>
+<MDImage src="images/researcher_dormitories.jpg" caption="The Researcher Dormitories"/>
 
 </GridItem>
 </Grid>
@@ -168,7 +168,7 @@ This is usually soloed by the <Specialization name="Weaver"/> but other classes 
 </GridItem>
 <GridItem sm="4">
 
-<MDImage src="fractals/thaumanova-reactor/images/superheated_room.jpg" caption="The Superheated Room"/>
+<MDImage src="images/superheated_room.jpg" caption="The Superheated Room"/>
 
 </GridItem>
 
@@ -206,7 +206,7 @@ Equip <Skill id="14404"/> to make your CC skills unblockable.
 
 <GridItem>
 
-<MDImage src="fractals/thaumanova-reactor/images/subject_6_block.jpg" caption="Subject 6 in block mode"/>
+<MDImage src="images/subject_6_block.jpg" caption="Subject 6 in block mode"/>
 
 </GridItem>
 </Grid>
@@ -235,4 +235,4 @@ On 50% the Anomaly will fire projectiles, use <TomeSkill name="Chapter 3: Valian
 </GridItem>
 </Grid>
 
-<MDImage src="fractals/thaumanova-reactor/images/thaumanova_anomaly.jpg" caption="The Thaumanova Anomaly"/>
+<MDImage src="images/thaumanova_anomaly.jpg" caption="The Thaumanova Anomaly"/>

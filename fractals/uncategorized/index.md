@@ -105,7 +105,8 @@ You can spec into <Specialization name="Scrapper"/> and use the <Skill name="Sne
 </Tab>
 </Tabs>
 
-<MDImage src="fractals/uncategorized/images/harpies_jp.jpg" caption="Harpies protect their jumping puzzle"/>
+<MDImage src="images/harpies_jp.jpg" caption="Harpies protect their jumping puzzle"/>
+
 </GridItem>
 </Grid>
 
@@ -123,13 +124,13 @@ Note: Activating all three consoles at the same time will turn off the turrets. 
 
 <GridItem sm="4">
 
-<MDImage src="fractals/uncategorized/images/pulsing_orbs.jpg" caption="The ramp up"/>
+<MDImage src="images/pulsing_orbs.jpg" caption="The ramp up"/>
 
 </GridItem>
 
 <GridItem sm="4">
 
-<MDImage src="fractals/uncategorized/images/old_tom.jpg" caption="Old Tom"/>
+<MDImage src="images/old_tom.jpg" caption="Old Tom"/>
 
 </GridItem>
 
@@ -169,4 +170,4 @@ Drop a <Skill name="Wall of Reflection"/> first on Raving Asura, slightly offset
 
 </Grid>
 
-<MDImage src="fractals/uncategorized/images/raving_asura.jpg" caption="The Raving Asura and his entourage"/>
+<MDImage src="images/raving_asura.jpg" caption="The Raving Asura and his entourage"/>

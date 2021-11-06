@@ -70,7 +70,7 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 
 <GridItem sm="4">
 
-<MDImage src="fractals/swampland/images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
+<MDImage src="images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
 
 </GridItem>
 </Grid>
@@ -93,7 +93,7 @@ In the passage, the Mossman is waiting to fight you. You can break his defiance 
 
 <GridItem sm="4">
 
-<MDImage src="fractals/swampland/images/the_mossman.jpg" caption="The Mossman"/>
+<MDImage src="images/the_mossman.jpg" caption="The Mossman"/>
 
 </GridItem>
 </Grid>
@@ -144,9 +144,9 @@ Take Greatsword and <Skill name="Blood Reckoning"/> here for cleave!
 
 <GridItem sm="4">
 
-<MDImage src="fractals/swampland/images/bloomhunger.jpg" caption="Bloomhunger"/>
+<MDImage src="images/bloomhunger.jpg" caption="Bloomhunger"/>
 
-<MDImage src="fractals/swampland/images/bloomhunger_spirit_onslaught.jpg" caption="Bloomhunger during Spirit Onslaught"/>
+<MDImage src="images/bloomhunger_spirit_onslaught.jpg" caption="Bloomhunger during Spirit Onslaught"/>
 
 </GridItem>
 </Grid>

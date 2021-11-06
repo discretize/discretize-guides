@@ -50,7 +50,9 @@ It is highly recommended to bring one of the following builds due them performin
 
 </GridItem>
 <GridItem sm="5">
-<MDImage src="fractals/aquatic-ruins/images/wooden_rack.jpg" caption="The wooden rack"/>
+
+<MDImage src="images/wooden_rack.jpg" caption="The wooden rack"/>
+
 </GridItem>
 </Grid>
 
@@ -61,7 +63,7 @@ It is highly recommended to bring one of the following builds due them performin
 
 You can stack <Boon name="Might"/> on the rack before entering the water. Kill the two groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
 
-<MDImage src="fractals/aquatic-ruins/images/trapped_villagers.jpg" caption="Villagers are trapped in cages"/>
+<MDImage src="images/trapped_villagers.jpg" caption="Villagers are trapped in cages"/>
 
 </GridItem>
 
@@ -160,4 +162,4 @@ Use <Skill name="Stand your ground"/>. If you have multiple Guardians in your te
 
 </Grid>
 
-<MDImage src="fractals/aquatic-ruins/images/the_jellyfish_beast.jpg" caption="The Jellyfish Beast"/>
+<MDImage src="images/the_jellyfish_beast.jpg" caption="The Jellyfish Beast"/>

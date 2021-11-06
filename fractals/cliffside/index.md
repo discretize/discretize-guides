@@ -85,7 +85,7 @@ Keep walking until you reach the last wooden board, then `/gg` as well.
 
 <GridItem sm="5">
 
-<MDImage src="fractals/cliffside/images/ankle_seals.jpg" caption="The ankle seals"/>
+<MDImage src="images/ankle_seals.jpg" caption="The ankle seals"/>
 
 </GridItem>
 </Grid>
@@ -95,7 +95,7 @@ Keep walking until you reach the last wooden board, then `/gg` as well.
 <Grid>
 <GridItem sm="5">
 
-<MDImage src="fractals/cliffside/images/chest_seal.jpg" caption="The chest seal"/>
+<MDImage src="images/chest_seal.jpg" caption="The chest seal"/>
 
 </GridItem>
 
@@ -154,7 +154,7 @@ Again, <Skill id="12638"/> on offhand Axe helps pulling the Cultists to you.
 
 <GridItem sm="5">
 
-<MDImage src="fractals/cliffside/images/arm_seal.jpg" caption="One of the arm seals"/>
+<MDImage src="images/arm_seal.jpg" caption="One of the arm seals"/>
 
 </GridItem>
 </Grid>
@@ -218,7 +218,7 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 
 <GridItem sm="6">
 
-<MDImage src="fractals/cliffside/images/arch_diviner.jpg" caption="The arch diviner and the final seal"/>
+<MDImage src="images/arch_diviner.jpg" caption="The arch diviner and the final seal"/>
 
 </GridItem>
 </Grid>

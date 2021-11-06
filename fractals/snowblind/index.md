@@ -50,7 +50,7 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 
 <GridItem sm="4">
 
-<MDImage src="fractals/snowblind/images/the_start_area.jpg" caption="The start area"/>
+<MDImage src="images/the_start_area.jpg" caption="The start area"/>
 
 </GridItem>
 </Grid>
@@ -86,7 +86,7 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 
 <GridItem sm="6">
 
-<MDImage src="fractals/snowblind/images/the_elemental_source.jpg" caption="The Elemental Source"/>
+<MDImage src="images/the_elemental_source.jpg" caption="The Elemental Source"/>
 
 </GridItem>
 
@@ -97,7 +97,7 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 <Grid>
 <GridItem sm="5">
 
-<MDImage src="fractals/snowblind/images/the_icy_forest.jpg" caption="The icy forest"/>
+<MDImage src="images/the_icy_forest.jpg" caption="The icy forest"/>
 
 </GridItem>
 
@@ -167,7 +167,7 @@ Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="a
 
 <GridItem sm="4">
 
-<MDImage src="fractals/snowblind/images/shaman_lornarr_dragonseeker.jpg" caption="Shaman Lornarr Dragonseekers cave"/>
+<MDImage src="images/shaman_lornarr_dragonseeker.jpg" caption="Shaman Lornarr Dragonseekers cave"/>
 
 </GridItem>
 </Grid>

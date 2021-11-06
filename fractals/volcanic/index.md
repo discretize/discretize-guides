@@ -46,7 +46,7 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
  
 <GridItem xs="12" sm="6">
 
-<MDImage src="fractals/volcanic/images/the_start_area.jpg" caption="The start area"/>
+<MDImage src="images/the_start_area.jpg" caption="The start area"/>
 
 </GridItem>
 
@@ -98,7 +98,7 @@ Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to ke
 </GridItem>
 </Grid>
 
-<MDImage src="fractals/volcanic/images/the_grawl_shaman.jpg" caption="The Grawl Shaman"/>
+<MDImage src="images/the_grawl_shaman.jpg" caption="The Grawl Shaman"/>
 
 ---
 
@@ -118,7 +118,7 @@ Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="Knockback"/>) an
 </GridItem>
 <GridItem xs="12" sm="4">
 
-<MDImage src="fractals/volcanic/images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
+<MDImage src="images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
 
 </GridItem>
 <GridItem xs="12" sm="8">

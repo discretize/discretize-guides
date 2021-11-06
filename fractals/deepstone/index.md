@@ -32,7 +32,7 @@ After two players passed, they stand on the cyan glowing runes to stop the Tetri
 
 <GridItem sm="6">
 
-<MDImage src="fractals/deepstone/images/maze.jpg" caption="The Tetris / Green Tiles"/>
+<MDImage src="images/maze.jpg" caption="The Tetris / Green Tiles"/>
 
 </GridItem>
 
@@ -84,7 +84,7 @@ Bring <Skill name="Mantraofliberation"/> and <Skill name="Standyourground"/>.
 
 <GridItem sm="5">
 
-<MDImage src="fractals/deepstone/images/deepstone_sentinel.jpg" caption="The Deepstone Sentinel"/>
+<MDImage src="images/deepstone_sentinel.jpg" caption="The Deepstone Sentinel"/>
 
 </GridItem>
 
@@ -103,7 +103,8 @@ Sometimes the npc is lagging behind a bit causing the cyan buttons to not work. 
 </GridItem>
 
 <GridItem sm="4">
-<MDImage src="fractals/deepstone/images/windy_bridge.jpg" caption="The Bridge"/>
+
+<MDImage src="images/windy_bridge.jpg" caption="The Bridge"/>
 
 </GridItem>
 
@@ -121,7 +122,7 @@ Use <Skill name="Legendary Demon Stance"/> to remove <Boon name="Protection"/> w
 
 <GridItem sm="6">
 
-<MDImage src="fractals/deepstone/images/the_brood_queen.jpg" caption="The Brood Queen"/>
+<MDImage src="images/the_brood_queen.jpg" caption="The Brood Queen"/>
 
 </GridItem>
 </Grid>
@@ -153,13 +154,13 @@ Use <Skill name="Lightning Flash"/>, <Skill name="Ride the Lightning"/> or <Skil
 
 <GridItem sm="6">
 
-<MDImage src="fractals/deepstone/images/deepstone_middle_room.jpg" caption="The Middle Room"/>
+<MDImage src="images/deepstone_middle_room.jpg" caption="The Middle Room"/>
 
 </GridItem>
 
 <GridItem sm="6">
 
-<MDImage src="fractals/deepstone/images/disappearing_tiles.jpg" caption="The Maze"/>
+<MDImage src="images/disappearing_tiles.jpg" caption="The Maze"/>
 
 </GridItem>
 
@@ -227,7 +228,7 @@ After the 20% invulnerability he doesn't teleport away and you can nuke him. Aft
 
 <GridItem sm="4">
 
-<MDImage src="fractals/deepstone/images/the_voice.jpg" caption="The Voice"/>
+<MDImage src="images/the_voice.jpg" caption="The Voice"/>
 
 </GridItem>
 </Grid>

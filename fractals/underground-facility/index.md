@@ -67,7 +67,8 @@ There are two ways to do this. The fast one requires a <Item id="78978"/> and so
 </GridItem>
 <GridItem sm="5">
 
-<MDImage src="fractals/underground-facility/images/start.jpg" caption="The starting area"/>
+<MDImage src="images/start.jpg" caption="The starting area"/>
+
 </GridItem>
 </Grid>
 
@@ -103,7 +104,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 </Tab>
 </Tabs>
 
-<MDImage src="fractals/underground-facility/images/console_locker.jpg" caption="The console locker"/>
+<MDImage src="images/console_locker.jpg" caption="The console locker"/>
 
 ---
 
@@ -127,7 +128,7 @@ On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and*
 
 <GridItem sm="4">
 
-<MDImage src="fractals/underground-facility/images/gun_path.jpg" caption="The gun path"/>
+<MDImage src="images/gun_path.jpg" caption="The gun path"/>
 
 <Tabs>
 
@@ -184,4 +185,4 @@ Teleport to the lava buckets from below with <Skill id="13025"/>.
 </GridItem>
 </Grid>
 
-<MDImage src="fractals/underground-facility/images/ice_elemental.jpg" caption="The Rampaging Ice Elemental"/>
+<MDImage src="images/ice_elemental.jpg" caption="The Rampaging Ice Elemental"/>

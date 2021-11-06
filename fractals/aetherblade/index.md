@@ -49,7 +49,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 
 <GridItem sm="4">
 
-<SharpImage src="images/start.jpg" caption="Mines in the water tunnel"/>
+<MDImage src="images/start.jpg" caption="Mines in the water tunnel"/>
 
 </GridItem>
 </Grid>
@@ -112,9 +112,9 @@ You can solo both the first and second room if you are fast enough. Use <Skill i
 
 <GridItem sm="4">
 
-<SharpImage src="images/moving_lasers.jpg" caption="The moving laser pattern"/>
+<MDImage src="images/moving_lasers.jpg" caption="The moving laser pattern"/>
 
-<SharpImage src="images/spinning_lasers.jpg" caption="The spinning lasers"/>
+<MDImage src="images/spinning_lasers.jpg" caption="The spinning lasers"/>
 
 </GridItem>
 
@@ -174,7 +174,7 @@ If a golem walks through a laser, he powers up and blocks all attacks for a shor
 
 <GridItem>
 
-<SharpImage src="images/frizz.jpg" caption="Frizz"/>
+<MDImage src="images/frizz.jpg" caption="Frizz"/>
 
 </GridItem>
 </Grid>

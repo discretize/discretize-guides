@@ -142,19 +142,19 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 
 ## Abbreviations for navigating the LFG
 
-| Short | Long               | Aliases       | Description                                                                                                                         | Link                                |
-| ----- | ------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| `CFB` | Condi Firebrand    | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                  | <BuildLink build="Condi Firebrand" specialization="Firebrand"/>  |
-| `SFB` | Seraph Firebrand    | `qfb`, `fb`   | <Specialization name="Firebrand" text="Seraph Firebrand"/> for <Boon name="Quickness"/>. Hybrid build that deals some DPS and heals            | <BuildLink build="Seraph Firebrand" specialization="Firebrand"/> |
-| `HB`  | Heal Firebrand     | `fb`, `hfb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and group support, Healer build | <BuildLink build="Heal Firebrand" specialization="Firebrand"/> |
-| `Ren` | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities  (can be power or condi)                                             | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> <br/> <BuildLink build="Power Renegade" specialization="Renegade"/> |
-| `SCG` | Condi Scourge    | `cscg` | <Specialization name="Scourge" text="Condi Scourge"/>, a common condition dps class played in pugs                                  | <BuildLink build="Condi Scourge" specialization="Scourge"/> |
-| `CDPS`  | Condition DPS | `dps`, `cdps` | A suitable condition dps build from a class of your choice  | [What Should I play](/guides/what-should-i-play/) |
-| `PDPS`  | Power DPS | `dps`, `pdps` | A suitable power dps build from a class of your choice  | [What Should I play](/guides/what-should-i-play/) |
-| `BS`  | Bannerslave        | `war`, `bers` | <Specialization name="Berserker"/> that carries <Skill name="Bannerofstrength"/> and <Skill name="Bannerofdiscipline"/>             | <BuildLink build="Power Berserker" specialization="Berserker"/> |
-| `DoD` | Defier of Doubt    | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode                                                                |                                     |
-| `DwD` | Dances with Demons | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode without someone dying.                                         |                                     |
-| `kp`  | Kill proof         | `UFE`         | <Item id="94020"/>: Requirement in LFG, can be shown through killproof.me (replaced <Item id="81743"/> in Sept 2020)                                                                |                                     |
+| Short  | Long               | Aliases       | Description                                                                                                                         | Link                                                                                                                                   |
+| ------ | ------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `CFB`  | Condi Firebrand    | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                  | <BuildLink build="Condi Firebrand" specialization="Firebrand"/>                                                                        |
+| `SFB`  | Seraph Firebrand   | `qfb`, `fb`   | <Specialization name="Firebrand" text="Seraph Firebrand"/> for <Boon name="Quickness"/>. Hybrid build that deals some DPS and heals | <BuildLink build="Seraph Firebrand" specialization="Firebrand"/>                                                                       |
+| `HB`   | Heal Firebrand     | `fb`, `hfb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and group support, Healer build               | <BuildLink build="Heal Firebrand" specialization="Firebrand"/>                                                                         |
+| `Ren`  | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities (can be power or condi)                         | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> <br/> <BuildLink build="Power Renegade" specialization="Renegade"/> |
+| `SCG`  | Condi Scourge      | `cscg`        | <Specialization name="Scourge" text="Condi Scourge"/>, a common condition dps class played in pugs                                  | <BuildLink build="Condi Scourge" specialization="Scourge"/>                                                                            |
+| `CDPS` | Condition DPS      | `dps`, `cdps` | A suitable condition dps build from a class of your choice                                                                          | [What Should I play](/guides/what-should-i-play/)                                                                                      |
+| `PDPS` | Power DPS          | `dps`, `pdps` | A suitable power dps build from a class of your choice                                                                              | [What Should I play](/guides/what-should-i-play/)                                                                                      |
+| `BS`   | Bannerslave        | `war`, `bers` | <Specialization name="Berserker"/> that carries <Skill name="Bannerofstrength"/> and <Skill name="Bannerofdiscipline"/>             | <BuildLink build="Power Berserker" specialization="Berserker"/>                                                                        |
+| `DoD`  | Defier of Doubt    | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode                                                                |                                                                                                                                        |
+| `DwD`  | Dances with Demons | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode without someone dying.                                         |                                                                                                                                        |
+| `kp`   | Kill proof         | `UFE`         | <Item id="94020"/>: Requirement in LFG, can be shown through killproof.me (replaced <Item id="81743"/> in Sept 2020)                |                                                                                                                                        |
 
 ---
 
@@ -180,7 +180,7 @@ Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization
 
 <GridItem sm="4">
 
-<MDImage src="guides/fractal-basics/images/gg.jpg" caption="A dead player"/>
+<MDImage src="images/gg.jpg" caption="A dead player"/>
 
 </GridItem>
 </Grid>
@@ -363,7 +363,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 <Grid>
 <GridItem sm="1" md="1">
 
-<MDImage src="guides/fractal-basics/images/mistlocked.png" caption="[FotM]"/>
+<MDImage src="images/mistlocked.png" caption="[FotM]"/>
 
 </GridItem>
 
