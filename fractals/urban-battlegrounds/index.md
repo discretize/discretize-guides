@@ -37,7 +37,7 @@ sigils:
 
 <GridItem sm="6">
 
-<MDImage src="fractals/urban-battlegrounds/images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy"/>
+<MDImage src="images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy"/>
 
 </GridItem>
 
@@ -108,7 +108,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 
 <GridItem sm="6">
 
-<MDImage src="fractals/urban-battlegrounds/images/the_town.jpg" caption="A barricade in the town"/>
+<MDImage src="images/the_town.jpg" caption="A barricade in the town"/>
 
 </GridItem>
 </Grid>
@@ -147,7 +147,7 @@ For more experienced groups it is favorable to take <Skill name="Legendary Dwarf
 </GridItem>
 </Grid>
 
-<MDImage src="fractals/urban-battlegrounds/images/the_courtyard.jpg" caption="The courtyard"/>
+<MDImage src="images/the_courtyard.jpg" caption="The courtyard"/>
 
 ## Captain Ashym
 

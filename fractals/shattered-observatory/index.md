@@ -55,13 +55,13 @@ The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar 
 
 <GridItem sm="5">
 
-<MDImage src="fractals/shattered-observatory/images/skorvald.jpg" caption="Skorvald the Shattered"/>
+<MDImage src="images/skorvald.jpg" caption="Skorvald the Shattered"/>
 
 </GridItem>
 
 <GridItem sm="2">
 
-<MDImage src="fractals/shattered-observatory/images/elite-flux-anomaly.jpg" caption="An Elite Flux Anomaly"/>
+<MDImage src="images/elite-flux-anomaly.jpg" caption="An Elite Flux Anomaly"/>
 
 </GridItem>
 
@@ -116,7 +116,8 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 
 <GridItem sm="4">
 
-<MDImage src="fractals/shattered-observatory/images/way_to_artsariiv.jpg" caption="The way to Artsariiv"/>
+<MDImage src="images/way_to_artsariiv.jpg" caption="The way to Artsariiv"/>
+
 <ProfessionVideo src="dirYlXZMCc4" profession="Renegade" title="Skip to Artsariiv (any class)"/>
 
 </GridItem>
@@ -140,7 +141,7 @@ Assign a player for the _Globolla Marble_ bouncing (typically the <Specializatio
 
 <GridItem sm="4">
 
-<MDImage src="fractals/shattered-observatory/images/artsariiv.jpg" caption="Artsariiv: The second boss"/>
+<MDImage src="images/artsariiv.jpg" caption="Artsariiv: The second boss"/>
 
 </GridItem>
 </Grid>
@@ -181,9 +182,9 @@ After the fight is over, take the portal in the North and move forward to get to
 
 <GridItem sm="3">
 
-<MDImage src="fractals/shattered-observatory/images/so-doom.jpg" caption="A player doomed to explode"/>
+<MDImage src="images/so-doom.jpg" caption="A player doomed to explode"/>
 
-<MDImage src="fractals/shattered-observatory/images/so-temporal-anomaly.jpg" caption="A Temporal Anomaly"/>
+<MDImage src="images/so-temporal-anomaly.jpg" caption="A Temporal Anomaly"/>
 
 </GridItem>
 </Grid>
@@ -206,7 +207,7 @@ Stack <Boon name="Might"/> (you can use <SpecialActionKey name="hypernovalaunch"
 
 <GridItem sm="4">
 
-<MDImage src="fractals/shattered-observatory/images/arkk.jpg" caption="Arkk: The final boss"/>
+<MDImage src="images/arkk.jpg" caption="Arkk: The final boss"/>
 
 </GridItem>
 </Grid>
@@ -227,7 +228,7 @@ When Arkk reaches 80% health, he gains <Effect name="Invulnerability"/> and play
 
 A common strategy is to assign four players to the spawning locations in the North, East, South and West, as the Solar Blooms fixate on the closest player a few seconds after their spawn. Players take aggro of their designated Solar Bloom and kite them clockwise to the next pillar on the right. You can also use direct damage skills to push back the Blooms.
 
-<MDImage src="fractals/shattered-observatory/images/so-solar-bloom.jpg" caption="Solar Blooms fixate on the closest player"/>
+<MDImage src="images/so-solar-bloom.jpg" caption="Solar Blooms fixate on the closest player"/>
 
 The fifth, remaining player should be a DPS ready to take out a possibly spawning _Temporal Anomaly_ during the phase. This player must also be ready to join the player with the green circle.
 
@@ -270,9 +271,11 @@ The most important thing is to keep calm. Remember that every single ability can
 
 <GridItem sm="3">
 
-<MDImage src="fractals/shattered-observatory/images/so-arkk-eye.jpg" caption="The Blinding Radiance ability"/>
-<MDImage src="fractals/shattered-observatory/images/so-arkk-solar.jpg" caption="Arkk preparing Solar Fury"/>
-<MDImage src="fractals/shattered-observatory/images/so-arkk-green.jpg" caption="Temporal Realignment"/>
+<MDImage src="images/so-arkk-eye.jpg" caption="The Blinding Radiance ability"/>
+
+<MDImage src="images/so-arkk-solar.jpg" caption="Arkk preparing Solar Fury"/>
+
+<MDImage src="images/so-arkk-green.jpg" caption="Temporal Realignment"/>
 
 </GridItem>
 </Grid>

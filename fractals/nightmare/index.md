@@ -57,7 +57,7 @@ Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your 
 
 <GridItem sm="5">
 
-<MDImage src="fractals/nightmare/images/mama.jpg" caption="MAMA: The first boss"/>
+<MDImage src="images/mama.jpg" caption="MAMA: The first boss"/>
 
 </GridItem>
 </Grid>
@@ -101,7 +101,7 @@ At the first set of altars draw the Elite Nightmare Hypnoss with <Skill name="on
 
 <GridItem sm="4">
 
-<MDImage src="fractals/nightmare/images/altars.jpg" caption="The altars"/>
+<MDImage src="images/altars.jpg" caption="The altars"/>
 
 </GridItem>
 </Grid>
@@ -188,7 +188,7 @@ When Siax reaches 66% health, he gains <Effect name="Invulnerability"/> and four
 
 Assign players to each add before the fight starts by setting waypoints. In PuGs the <Specialization name="Firebrand"/> and <Specialization name="Renegade"/> will usually focus on one mob together due to their lower DPS.
 
-<MDImage src="fractals/nightmare/images/siax.jpg" caption="Siax the Corrupted"/>
+<MDImage src="images/siax.jpg" caption="Siax the Corrupted"/>
 
 ---
 
@@ -209,7 +209,7 @@ Again, the key to this fight is fast crowd control. Break his defiance bar quick
 
 <GridItem>
 
-<MDImage src="fractals/nightmare/images/ensolyss.jpg" caption="Ensolyss: The final boss"/>
+<MDImage src="images/ensolyss.jpg" caption="Ensolyss: The final boss"/>
 
 </GridItem>
 </Grid>

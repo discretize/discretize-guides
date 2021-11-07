@@ -28,19 +28,19 @@ You have to run to the boss first, the only obstacle in your way is your own jum
 
 <GridItem sm="4">
 
-<MDImage src="fractals/solid-ocean/images/start_1.jpg"/>
+<MDImage src="images/start_1.jpg"/>
 
 </GridItem>
 
 <GridItem sm="4">
 
-<MDImage src="fractals/solid-ocean/images/start_2.jpg"/>
+<MDImage src="images/start_2.jpg"/>
 
 </GridItem>
 
 <GridItem sm="4">
 
-<MDImage src="fractals/solid-ocean/images/start_3.jpg"/>
+<MDImage src="images/start_3.jpg"/>
 
 </GridItem>
 </Grid>
@@ -66,4 +66,4 @@ Constantly pick up Reflecting Crystal if you have the red skull above your head 
 
 </Grid>
 
-<MDImage src="fractals/solid-ocean/images/jade_maw.jpg"/>
+<MDImage src="images/jade_maw.jpg"/>

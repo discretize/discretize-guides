@@ -73,7 +73,7 @@ You can skip this first part with <Item id="78978"/>.
 </GridItem>
 </Grid>
 
-<MDImage src="fractals/twilight-oasis/images/start.jpg" caption="The starting area"/>
+<MDImage src="images/start.jpg" caption="The starting area"/>
 
 ---
 
@@ -88,7 +88,7 @@ After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/
 <Grid>
 <GridItem sm="4">
 
-<MDImage src="fractals/twilight-oasis/images/header.jpg" caption="Entry to Amala"/>
+<MDImage src="images/header.jpg" caption="Entry to Amala"/>
 
 </GridItem>
 
@@ -140,9 +140,9 @@ Please note that you can't `/gg` after any Sandbinder, because you spawn behind 
 
 <GridItem sm="5">
 
-<MDImage src="fractals/twilight-oasis/images/first_sandbinder.jpg" caption="The First Sandbinder on the roof"/>
+<MDImage src="images/first_sandbinder.jpg" caption="The First Sandbinder on the roof"/>
 
-<MDImage src="fractals/twilight-oasis/images/second_sandbinder.jpg" caption="The Second Sandbinder"/>
+<MDImage src="images/second_sandbinder.jpg" caption="The Second Sandbinder"/>
 
 </GridItem>
 
@@ -176,7 +176,7 @@ Stack <Boon name="Might"/> and be ready to dodge the initial <Control name="Knoc
 
 <GridItem sm="3">
 
-<MDImage src="fractals/twilight-oasis/images/praise_joko.jpg" caption="Praise Joko."/>
+<MDImage src="images/praise_joko.jpg" caption="Praise Joko."/>
 
 </GridItem>
 </Grid>
@@ -207,7 +207,7 @@ The biggest danger of this phase is the _Earth Elemental_, which has a multitude
 
 In this phase, Amala's **Scythe Combo** AoEs apply a small <Control name="Knockback"/>, but many of them can be avoided by stacking directly on her. Make sure to dodge the _Eruption_ (delayed AoE appearing below random players) and ring-shaped attacks, as they <Control name="Knockdown"/> as well.
 
-<MDImage src="fractals/twilight-oasis/images/amala.jpg" caption="Amala invoking the human gods"/>
+<MDImage src="images/amala.jpg" caption="Amala invoking the human gods"/>
 
 #### Priestess of Melandru
 

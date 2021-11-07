@@ -53,7 +53,7 @@ While the video showcases the skip for <Specialization name="Thief"/> any class 
 
 <GridItem sm="6">
 
-<MDImage src="fractals/chaos-isles/images/start.jpg" caption="The starting area"/>
+<MDImage src="images/start.jpg" caption="The starting area"/>
 
 </GridItem>
 
@@ -89,7 +89,8 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 </GridItem>
 
 <GridItem>
-<MDImage src="fractals/chaos-isles/images/kitty_golems.jpg" caption="The four K1T-A golems before the Chaos Anomaly"/>
+
+<MDImage src="images/kitty_golems.jpg" caption="The four K1T-A golems before the Chaos Anomaly"/>
 
 </GridItem>
 </Grid>
@@ -99,7 +100,7 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 <Grid>
 <GridItem sm="5">
 
-<MDImage src="fractals/chaos-isles/images/forest.jpg" caption="The blizzard forest"/>
+<MDImage src="images/forest.jpg" caption="The blizzard forest"/>
 
 </GridItem>
 
@@ -158,7 +159,7 @@ Take <Skill name="Headbutt"/> for the 50% Defiance bar and <Skill name="Outrage"
 
 <GridItem sm="5">
 
-<MDImage src="fractals/chaos-isles/images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
+<MDImage src="images/legendary_brazen_gladiator.jpg" caption="The Legendary Brazen Gladiator"/>
 
 </GridItem>
 </Grid>

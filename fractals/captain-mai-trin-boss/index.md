@@ -43,7 +43,7 @@ You can precast <Skill name="Conjure Fiery Greatsword"/> without it despawning e
 
 <GridItem sm="4">
 
-<MDImage src="fractals/captain-mai-trin-boss/images/start.jpg" caption="The start area"/>
+<MDImage src="images/start.jpg" caption="The start area"/>
 
 </GridItem>
 </Grid>
@@ -91,9 +91,9 @@ Bring <Skill name="mantraofliberation"/> and <Skill name="wallofreflection"/>. C
 
 <GridItem sm="5">
 
-<MDImage src="fractals/captain-mai-trin-boss/images/horrik.jpg" caption="First Mate Horrik"/>
+<MDImage src="images/horrik.jpg" caption="First Mate Horrik"/>
 
-<MDImage src="fractals/captain-mai-trin-boss/images/mai_trin.jpg" caption="Captain Mai Trin"/>
+<MDImage src="images/mai_trin.jpg" caption="Captain Mai Trin"/>
 
 </GridItem>
 </Grid>

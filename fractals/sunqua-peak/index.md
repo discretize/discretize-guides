@@ -57,7 +57,7 @@ The Voice of the mountain is the first boss in the fractal. This boss deals litt
 
 <GridItem sm="5">
 
-<MDImage src="fractals/sunqua-peak/images/elemental.jpg" caption="Voice of the mountain"/>
+<MDImage src="images/elemental.jpg" caption="Voice of the mountain"/>
 
 </GridItem>
 </Grid>
@@ -78,7 +78,7 @@ After the Voice of the mountain is dead, take the updraft and follow the path. I
 
 <GridItem sm="4">
 
-<MDImage src="fractals/sunqua-peak/images/waterfall.png" caption="The left waterfall is in an active state while the right one is passable"/>
+<MDImage src="images/waterfall.png" caption="The left waterfall is in an active state while the right one is passable"/>
 
 </GridItem>
 
@@ -102,7 +102,7 @@ The second boss of the fractal is a big pile of rocks. Avoid the orange AoEs tha
 
 <GridItem sm="4">
 
-<MDImage src="fractals/sunqua-peak/images/water_rocks.png" caption="The stone of the mountain: The second boss"/>
+<MDImage src="images/water_rocks.png" caption="The stone of the mountain: The second boss"/>
 
 </GridItem>
 </Grid>
@@ -125,7 +125,7 @@ There are stone piles blocking the way. Kill the lava elementals before each pil
 
 <GridItem sm="4">
 
-<MDImage src="fractals/sunqua-peak/images/lava_elementals.png" caption="Lava Elementals blocking the way."/>
+<MDImage src="images/lava_elementals.png" caption="Lava Elementals blocking the way."/>
 
 </GridItem>
 </Grid>
@@ -148,7 +148,7 @@ Kill the boss and move on to the final encounter of this fractal.
 
 <GridItem sm="4">
 
-<MDImage src="fractals/sunqua-peak/images/fire_cat.png" caption="Target meteor attack of the Fury of the mountain"/>
+<MDImage src="images/fire_cat.png" caption="Target meteor attack of the Fury of the mountain"/>
 
 </GridItem>
 </Grid>
@@ -176,7 +176,7 @@ The boss has multiple phases themed around the different elements air, fire, wat
 
 <GridItem sm="4">
 
-<MDImage src="fractals/sunqua-peak/images/ai_arena.png" caption="Ai the sorrowful spellcaster: The final boss"/>
+<MDImage src="images/ai_arena.png" caption="Ai the sorrowful spellcaster: The final boss"/>
 
 </GridItem>
 </Grid>
