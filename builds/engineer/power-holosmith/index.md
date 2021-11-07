@@ -181,6 +181,27 @@ sections:
       </Card>
 
 
+      <Card title="CC skills">
+
+
+      |                                    |            |
+
+      | ---------------------------------- | ---------- |
+
+      | <Skill id="21661"/>                | 200 damage |
+
+      | <Skill name="Magnetic Inversion"/> | 100 damage |
+
+      | <Skill id="6057"/>                 | 100 damage |
+
+      | <Skill id="42009"/>                | 232 damage |
+
+      | <Skill id="42521"/>                | 232 damage |
+
+
+      </Card>
+
+
       </GridItem>
 
       </Grid>
@@ -265,7 +286,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2021-10-03T12:28:17.580Z
+date: 2021-11-03T12:19:55.362Z
 ---
 
 <Grid>
@@ -333,20 +354,7 @@ date: 2021-10-03T12:28:17.580Z
 
 </Card>
 
-<Card title="CC skills">
-
-|                                    |            |
-| ---------------------------------- | ---------- |
-| <Skill id="21661"/>                | 100 damage |
-| <Skill name="Magnetic Inversion"/> | 100 damage |
-| <Skill id="6057"/>                 | 100 damage |
-| <Skill id="42009"/>                | 232 damage |
-| <Skill id="42521"/>                | 232 damage |
-
-</Card>
-
 </GridItem>
-
 <GridItem sm="6">
 
 <Card title="Rotation Explanation">

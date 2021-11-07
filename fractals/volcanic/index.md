@@ -36,28 +36,38 @@ record:
 
 ## Start: Grawl slaughter! <Item id="8890" disableText/><Item id="24648" disableText/>
 
-While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="Renegade"/> but anyone can run) should run ahead to the next area and trigger the checkpoint at the _Grawl Shaman_. This way, everyone can portal after the section is completed and resurrect to skip the Boulder passage. <Specialization name="Elementalist"/> can precast strong DPS skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear. You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster. <Specialization name="Berserker"/> can equip a greatsword and <Skill name="bloodreckoning"/> for 2x <Skill name="arcdivider"/>!
+At the start of the fractal four grawls have to be killed in order to start the first event. Use <Control name="Pull"/>s to group them up and quickly burst them down.
+
+The next event requires to fill up a progress bar. For every grawl killed the party gains progress. Note, that the grawls always spawn in groups and can be attacked before they are visible. They always spawn at the same spots, so you can focus AoE damage on these spots.
+
+While four people kill the respawning Grawls to fill the progress bar, one person (usually the <Specialization name="Renegade"/> but anyone can) should run ahead to the next area and trigger the checkpoint at the _Grawl Shaman_. This way, everyone can portal after the section is completed and resurrect to skip the Boulder passage.
 
 <Grid>
  
 <GridItem xs="12" sm="6">
 
-<MDImage src="fractals/volcanic/images/the_start_area.jpg" caption="The start area"/>
+<MDImage src="images/the_start_area.jpg" caption="The start area"/>
 
 </GridItem>
 
 <GridItem xs="12" sm="6">
 <Tabs>
 <Tab specialization="Guardian">
-<Video title="Guardian skip" timestamp="403" youtube="MmJTsOhdQeo"/>
+<ProfessionVideo title="Skip to 2nd encounter" profession="Guardian" timestamp="403" src="MmJTsOhdQeo"/>
 </Tab>
 
 <Tab specialization="ranger">
-<Video title="Ranger skip" timestamp="202" youtube="3Zc_ZJqPD0s"/>
+<ProfessionVideo title="Skip to 2nd encounter" profession="Ranger" timestamp="202" src="3Zc_ZJqPD0s"/>
 </Tab>
 
 <Tab specialization="Warrior">
-<Video title="Warrior skip" timestamp="45" youtube="REnmbN7sZFQ"/>
+<Specialization name="Berserker"/> can equip a greatsword and <Skill name="bloodreckoning"/> for 2x <Skill name="arcdivider"/>!
+<ProfessionVideo title="Skip to 2nd encounter" profession="Warrior" timestamp="45" src="REnmbN7sZFQ"/>
+</Tab>
+
+<Tab specialization="Weaver">
+
+<Specialization name="Elementalist"/> can precast strong DPS skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear. You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster.
 </Tab>
 </Tabs>
 </GridItem>
@@ -66,16 +76,6 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
 ---
 
 <Grid>
-<GridItem xs="12" sm="5">
-<Tabs>
-<Tab specialization="Weaver">
-
-Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the _Veteran Grawl Shamans_ in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>. If everyone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.
-
-</Tab>
-</Tabs>
-</GridItem>
-
 <GridItem xs="12" sm="7">
 
 ## Grawl Shaman <Item id="8890" disableText/><Item id="24648" disableText/>
@@ -87,12 +87,18 @@ You will need to throw eight _Infused Stones_ at the bubble protecting the Grawl
 After the bubble is broken, stand below the boss to LoS him and he will come down immediately. Throw another _Infused Stone_ at him if his bubble reappears during the fight.
 
 </GridItem>
+<GridItem xs="12" sm="5">
+<Tabs>
+<Tab specialization="Weaver">
+
+Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the _Veteran Grawl Shamans_ in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>. If everyone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.
+
+</Tab>
+</Tabs>
+</GridItem>
 </Grid>
 
-
-
-<MDImage src="fractals/volcanic/images/the_grawl_shaman.jpg" caption="The Grawl Shaman"/>
-
+<MDImage src="images/the_grawl_shaman.jpg" caption="The Grawl Shaman"/>
 
 ---
 
@@ -101,18 +107,18 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 <Grid>
 <GridItem xs="12" sm="8">
 
-**Take the shortcut on the right-hand side down, jump into the lava then run and jump to the final platform to trigger the next checkpoint**, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="Might"/> and jump down to the Imbued Shaman (the bat follows you to the end of the walkway, but it takes 10 or more seconds to reach it. Make sure you have the boons stacked and are on the correct weapon before she flies in you fire field).
+**Take the shortcut on the right-hand side down, jump into the lava then run and jump to the final platform to trigger the next checkpoint**, then everyone uses `/gg` to reset cooldowns. Walk until the end of the boardwalk, stack <Boon name="Might"/> and jump down to the Imbued Shaman (the bat follows you to the end of the walkway, but it takes 10 or more seconds to reach it. Make sure you have the boons stacked and are on the correct weapon before the bat flies in you fire field).
 
-Every 25% health, it gains a protective bubble and starts moving to a random villager. It will heal for about 20% health if it reaches their target, so break the bubble quickly by casting 40 offensive abilities while targeting the Imbued Shaman (you actually don't have to hit him). Try to keep him in the center as the villagers are located at the edge of the area.
+Every 25% health, the boss gains a protective bubble and starts moving to a random villager. It will heal for about 20% health if it reaches their target, so break the bubble quickly by casting 40 abilities while targeting the Imbued Shaman (you actually don't have to hit him). Try to keep him in the center as the villagers are located at the edge of the area.
 
-He will also spawn 10-30 _Lava Elementals_ during this phase, kill them fast as they cast a lot of projectiles and inflict high <Condition name="Burning"/> stacks on the team. Note that repeated jumping prevents the application of <Condition name="Burning"/> from the floor.
+He will also spawn 10-20 _Lava Elementals_ during this phase, kill them fast as they cast a lot of projectiles and inflict high <Condition name="Burning"/> stacks on the team. Note that repeated jumping prevents the application of <Condition name="Burning"/> from the floor.
 
 Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="Knockback"/>) and utilize conditions clears & reflects to finish the fractal successfully.
 
 </GridItem>
 <GridItem xs="12" sm="4">
 
-<MDImage src="fractals/volcanic/images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
+<MDImage src="images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
 
 </GridItem>
 <GridItem xs="12" sm="8">
@@ -121,7 +127,6 @@ Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="Knockback"/>) an
 
 Use <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> to spam <Boon name="Resistance"/> after the bosses bubble phase.
 </Tab>
-
 
 <Tab specialization="Firebrand">
 

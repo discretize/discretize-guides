@@ -39,62 +39,56 @@ sigils:
 <Grid>
 <GridItem sm="7">
 
-<MDImage src="fractals/twilight-oasis/images/start.jpg" caption="The starting area"/>
-
 ## Start: Run!
 
-Let your <Specialization name="Renegade"/> skip the first part or use <Effect name="Stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders. If the instabilities are too harsh, you can take your time killing them as some of them will follow you to the first Sand Binder but it will make the fractal way longer than it should be!
+Let your <Specialization name="Renegade"/> skip the first part or use <Effect name="Stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders. If the instabilities are harder to deal with, a party may decide to take the time to kill the adds on the way, however, this will take a long time.
+
+<Boon name="Swiftness"/>, <Effect name="Superspeed"/> and <Item name="executioneraxetoy"/> help to quickly skip to the first _Sand Binder_.
+
 </GridItem>
 
 <GridItem sm="5">
+
 <Tabs>
 <Tab specialization="Soulbeast">
 
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
 </Tab>
-</Tabs>
-
-<Tabs>
 <Tab specialization="Weaver">
 
 It is worth to run <Skill name="arcane wave"/> for the whole fractal for more <Boon name="Might"/>, since you can't really stack anywhere.
 </Tab>
-</Tabs>
-
-<Tabs>
 <Tab specialization="Daredevil">
 
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
 </Tab>
-</Tabs>
-</GridItem>
-
-<GridItem sm="12">
-<Tabs>
 <Tab specialization="Renegade">
+
+<ProfessionVideo title="Portal skip" profession="Renegade" src="xHeZuQ5zWMU"/>
 
 You can skip this first part with <Item id="78978"/>.
 
-<Video title="Renegade skip" youtube="xHeZuQ5zWMU"/>
 </Tab>
 </Tabs>
 </GridItem>
 </Grid>
 
+<MDImage src="images/start.jpg" caption="The starting area"/>
+
+---
+
 ## First Sandbinder
 
-<Grid>
-Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="Pull"/> abilities will cancel any attack currently executing. After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/> and <Specialization name="Berserker"/>'s cooldowns for the Amala fight.
+Treat each Sandbinder like any immobile boss and attack accordingly. Keep in mind that <Control name="Pull"/> abilities will cancel any attack currently executing. Try to avoid the _Tornadoes_ as they take control of your character and also <Condition name="Blinded"/>. <Boon name="Aegis"/> is not helpful here as the _Tornadoes_ quickly remove it.
 
-<Boon name="Aegis"/> is not helpful here as the _Tornadoes_ quickly remove it.
-</Grid>
+After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/> and <Specialization name="Berserker"/>'s cooldowns for the Amala fight.
 
 ---
 
 <Grid>
 <GridItem sm="4">
 
-<MDImage src="fractals/twilight-oasis/images/header.jpg" caption="Entry to Amala"/>
+<MDImage src="images/header.jpg" caption="Entry to Amala"/>
 
 </GridItem>
 
@@ -106,7 +100,8 @@ Next up you will encounter Priestess Amala for the first time, bring her to 75% 
 
 She uses the _Scythe Slash_ attack (causes <Control name="Knockback"/>) and a basic version of her 9-part attack chain applying <Condition name="Bleeding"/> with each AoE.
 
-You can freely use `/gg` after she downs the party to reset cooldowns, just wait until you get resurrected. (If you decide to respawn please not that male characters cannot move until Joko resurrects Amala)
+You can freely use `/gg` after the roleplay starts to reset cooldowns. Note that you will not be able to move your character until Joko resurrects Amala or your character is female (human female is meta afterall).
+
 </GridItem>
 </Grid>
 
@@ -126,31 +121,31 @@ Jump up to the roof on the right-hand side and kill two Sandbinders on the roofs
 It is also possible to skip the tornado between the two Sandbinder using this portal skip shown below.
 
 <Warning>
+
 Please note that you can't `/gg` after any Sandbinder, because you spawn behind the ideal checkpoints.
+
 </Warning>
+
+<Tabs>
+<Tab title="Slower skip">
+<ProfessionVideo title="Slower skip (any class)" profession="Guardian" timestamp="306" src="MmJTsOhdQeo"/>
+</Tab>
+
+<Tab title="Faster skip">
+<ProfessionVideo title="Faster skip (any class)" profession="Guardian" timestamp="341" src="MmJTsOhdQeo"/>
+</Tab>
+</Tabs>
+
 </GridItem>
 
 <GridItem sm="5">
 
-<MDImage src="fractals/twilight-oasis/images/first_sandbinder.jpg" caption="The First Sandbinder on the roof"/>
+<MDImage src="images/first_sandbinder.jpg" caption="The First Sandbinder on the roof"/>
 
-<MDImage src="fractals/twilight-oasis/images/second_sandbinder.jpg" caption="The Second Sandbinder"/>
+<MDImage src="images/second_sandbinder.jpg" caption="The Second Sandbinder"/>
 
 </GridItem>
 
-<GridItem sm="12">
-<Tabs>
-<Tab title="Slower skip">
-
-<Video title="Any class" timestamp="306" youtube="MmJTsOhdQeo"/>
-</Tab>
-
-<Tab title="Faster skip">
-
-<Video title="Any class" timestamp="341" youtube="MmJTsOhdQeo"/>
-</Tab>
-</Tabs>
-</GridItem>
 </Grid>
 
 ---
@@ -158,7 +153,9 @@ Please note that you can't `/gg` after any Sandbinder, because you spawn behind 
 ## Priestess Amala
 
 <Warning>
-**Bring boon removal because she is spamming <Boon name="Protection"/> on herself like there is no tomorrow!**
+
+**Bring boon strips because she is reapplying <Boon name="Protection"/> on herself every few seconds**
+
 </Warning>
 
 Stack <Boon name="Might"/> and be ready to dodge the initial <Control name="Knockback"/> after activating the encounter.
@@ -179,7 +176,7 @@ Stack <Boon name="Might"/> and be ready to dodge the initial <Control name="Knoc
 
 <GridItem sm="3">
 
-<MDImage src="fractals/twilight-oasis/images/praise_joko.jpg" caption="Praise Joko."/>
+<MDImage src="images/praise_joko.jpg" caption="Praise Joko."/>
 
 </GridItem>
 </Grid>
@@ -210,7 +207,7 @@ The biggest danger of this phase is the _Earth Elemental_, which has a multitude
 
 In this phase, Amala's **Scythe Combo** AoEs apply a small <Control name="Knockback"/>, but many of them can be avoided by stacking directly on her. Make sure to dodge the _Eruption_ (delayed AoE appearing below random players) and ring-shaped attacks, as they <Control name="Knockdown"/> as well.
 
-<MDImage src="fractals/twilight-oasis/images/amala.jpg" caption="Amala invoking the human gods"/>
+<MDImage src="images/amala.jpg" caption="Amala invoking the human gods"/>
 
 #### Priestess of Melandru
 

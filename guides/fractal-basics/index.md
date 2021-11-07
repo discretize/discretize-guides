@@ -1,6 +1,6 @@
 ---
 title: Fractal Basics
-date: 2021-10-06T18:27:22.614Z
+date: 2021-11-07T19:21:46.361Z
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -24,6 +24,39 @@ Starting with tier 2 the heroes are encountering _Mistlock instabilities_ which 
 | 2    | 61                                                 | 1             | Tier 2 fractals should be played in a party with 5. The mechanics hit slightly harder and you encounter mistlock instabilities and <Effect name="Agony"/>                                                                                                                                                               |
 | 3    | 106                                                | 2             | When starting to do tier 3 fractals you are expected to start reading up on how your class and fractals work. Enemies hit hard, are more frequent and you have to deal with two mistlock instabilities at the same time!                                                                                                |
 | 4    | 150                                                | 3             | When running tier 4 fractals you should be comfortable with your class and the mechanics. It is expected that you carry your own weight. Running with optimal utility and food as well as fractal potions (<Item id="71659" disableText/>, <Item id="76150" disableText/>, <Item id="75427" disableText/>) is expected. |
+
+
+---
+
+## Trouble finding groups? Looking for training runs?
+
+<Grid>
+<GridItem sm="1" md="1">
+
+<MDImage src="guides/fractal-basics/images/mistlocked.png" caption="[FotM]"/>
+
+</GridItem>
+
+<GridItem sm="11" md="11">
+
+Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!\
+While Fractals are their main focus, they do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons! For fractals, trainings will be offered every saturday at 20:00 CET for T1, T2, T3, T4 and CM fractals. There is no sign-up, just join their discord.
+
+All information is available on their [discord](https://discord.gg/CE3TswT).
+
+</GridItem>
+</Grid>
+
+---
+
+## External tools
+
+Players use a number of tools / addons to analyze gameplay more efficiently. Here is a list of common tools: 
+
+1. [arc dps](https://www.deltaconnected.com/arcdps/): DPS meter. Almost everybody uses it, no one got banned for using it. 
+2. [log manager](https://gw2scratch.com/tools/manager): helps you organize your logs, which can be optionally recorded by arc dps.
+3. [gw2wingman](https://gw2wingman.nevermindcreations.de/home): compare your performance against averages of the community
+
 
 ---
 
@@ -142,19 +175,19 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 
 ## Abbreviations for navigating the LFG
 
-| Short | Long               | Aliases       | Description                                                                                                                         | Link                                |
-| ----- | ------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| `CFB` | Condi Firebrand    | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                  | <BuildLink build="Condi Firebrand" specialization="Firebrand"/>  |
-| `SFB` | Seraph Firebrand    | `qfb`, `fb`   | <Specialization name="Firebrand" text="Seraph Firebrand"/> for <Boon name="Quickness"/>. Hybrid build that deals some DPS and heals            | <BuildLink build="Seraph Firebrand" specialization="Firebrand"/> |
-| `HB`  | Heal Firebrand     | `fb`, `hfb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and group support, Healer build | <BuildLink build="Heal Firebrand" specialization="Firebrand"/> |
-| `Ren` | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities  (can be power or condi)                                             | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> <br/> <BuildLink build="Power Renegade" specialization="Renegade"/> |
-| `SCG` | Condi Scourge    | `cscg` | <Specialization name="Scourge" text="Condi Scourge"/>, a common condition dps class played in pugs                                  | <BuildLink build="Condi Scourge" specialization="Scourge"/> |
-| `CDPS`  | Condition DPS | `dps`, `cdps` | A suitable condition dps build from a class of your choice  | [What Should I play](/guides/what-should-i-play/) |
-| `PDPS`  | Power DPS | `dps`, `pdps` | A suitable power dps build from a class of your choice  | [What Should I play](/guides/what-should-i-play/) |
-| `BS`  | Bannerslave        | `war`, `bers` | <Specialization name="Berserker"/> that carries <Skill name="Bannerofstrength"/> and <Skill name="Bannerofdiscipline"/>             | <BuildLink build="Power Berserker" specialization="Berserker"/> |
-| `DoD` | Defier of Doubt    | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode                                                                |                                     |
-| `DwD` | Dances with Demons | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode without someone dying.                                         |                                     |
-| `kp`  | Kill proof         | `UFE`         | <Item id="94020"/>: Requirement in LFG, can be shown through killproof.me (replaced <Item id="81743"/> in Sept 2020)                                                                |                                     |
+| Short  | Long               | Aliases       | Description                                                                                                                         | Link                                                                                                                                   |
+| ------ | ------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `CFB`  | Condi Firebrand    | `cqfb`, `fb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                  | <BuildLink build="Condi Firebrand" specialization="Firebrand"/>                                                                        |
+| `SFB`  | Seraph Firebrand   | `qfb`, `fb`   | <Specialization name="Firebrand" text="Seraph Firebrand"/> for <Boon name="Quickness"/>. Hybrid build that deals some DPS and heals | <BuildLink build="Seraph Firebrand" specialization="Firebrand"/>                                                                       |
+| `HB`   | Heal Firebrand     | `fb`, `hfb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and group support, Healer build               | <BuildLink build="Heal Firebrand" specialization="Firebrand"/>                                                                         |
+| `Ren`  | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities (can be power or condi)                         | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> <br/> <BuildLink build="Power Renegade" specialization="Renegade"/> |
+| `SCG`  | Condi Scourge      | `cscg`        | <Specialization name="Scourge" text="Condi Scourge"/>, a common condition dps class played in pugs                                  | <BuildLink build="Condi Scourge" specialization="Scourge"/>                                                                            |
+| `CDPS` | Condition DPS      | `dps`, `cdps` | A suitable condition dps build from a class of your choice                                                                          | [What Should I play](/guides/what-should-i-play/)                                                                                      |
+| `PDPS` | Power DPS          | `dps`, `pdps` | A suitable power dps build from a class of your choice                                                                              | [What Should I play](/guides/what-should-i-play/)                                                                                      |
+| `BS`   | Bannerslave        | `war`, `bers` | <Specialization name="Berserker"/> that carries <Skill name="Bannerofstrength"/> and <Skill name="Bannerofdiscipline"/>             | <BuildLink build="Power Berserker" specialization="Berserker"/>                                                                        |
+| `DoD`  | Defier of Doubt    | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode                                                                |                                                                                                                                        |
+| `DwD`  | Dances with Demons | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode without someone dying.                                         |                                                                                                                                        |
+| `kp`   | Kill proof         | `UFE`         | <Item id="94020"/>: Requirement in LFG, can be shown through killproof.me (replaced <Item id="81743"/> in Sept 2020)                |                                                                                                                                        |
 
 ---
 
@@ -180,7 +213,7 @@ Note that the <Specialization name="Warrior"/>'s Adrenaline bar, <Specialization
 
 <GridItem sm="4">
 
-<MDImage src="guides/fractal-basics/images/gg.jpg" caption="A dead player"/>
+<MDImage src="images/gg.jpg" caption="A dead player"/>
 
 </GridItem>
 </Grid>
@@ -363,7 +396,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 <Grid>
 <GridItem sm="1" md="1">
 
-<MDImage src="guides/fractal-basics/images/mistlocked.png" caption="[FotM]"/>
+<MDImage src="images/mistlocked.png" caption="[FotM]"/>
 
 </GridItem>
 

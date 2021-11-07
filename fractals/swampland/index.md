@@ -44,37 +44,34 @@ Learn and practice to jump over the emerging walls, for nearly every wall there 
 
 The remaining two players can take the _Invigorator Rifle Prototypes_ from the ground and use `Skill 3` to grant <Boon name="Stability"/> to the Wisp runners. Note that it is possible to carry the Wisp from the farthest point without using any movement skills.
 
-<MDImage src="fractals/swampland/images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
-</GridItem>
-
-<GridItem sm="4">
 <Tabs>
 <Tab specialization="renegade">
 
 Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance" disableText/>) for better mobility.
 </Tab>
-</Tabs>
 
-<Tabs>
 <Tab specialization="berserker">
 
 Use <Skill id="14516"/> for better mobility. Also <Skill name="shake it off"/> comes in handy to cleanse conditions!
 </Tab>
-</Tabs>
 
-<Tabs>
 <Tab specialization="Weaver">
 
 Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cleanse.
 </Tab>
-</Tabs>
 
-<Tabs>
 <Tab specialization="daredevil">
 
 Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 </Tab>
 </Tabs>
+
+</GridItem>
+
+<GridItem sm="4">
+
+<MDImage src="images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
+
 </GridItem>
 </Grid>
 
@@ -88,13 +85,15 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="Stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the _Mistlock Singularity_ inside the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
 
 <Warning>
+
 **Beware, there is a wisp that has <Effect name="Invulnerability"/> and can attack you, putting you in combat during pre-stack**!
+
 </Warning>
 </GridItem>
 
 <GridItem sm="4">
 
-<MDImage src="fractals/swampland/images/the_mossman.jpg" caption="The Mossman"/>
+<MDImage src="images/the_mossman.jpg" caption="The Mossman"/>
 
 </GridItem>
 </Grid>
@@ -122,39 +121,32 @@ Try to position yourself before Bloomhunger reaches 25% health. Again, he will t
 
 As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again and you can finish him off to complete the fractal.
 
-<MDImage src="fractals/swampland/images/bloomhunger_spirit_onslaught.jpg" caption="Bloomhunger during Spirit Onslaught"/>
-</GridItem>
-
-<GridItem sm="4">
-
-<MDImage src="fractals/swampland/images/bloomhunger.jpg" caption="Bloomhunger"/>
-
 <Tabs>
 <Tab specialization="renegade">
 
 Take <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> for this fight. Remove <Boon name="Protection"/> from Bloomhunger when he steps into the poison AoE.
 </Tab>
-</Tabs>
-
-<Tabs>
 <Tab specialization="Tempest">
 
 Use <Specialization name="Tempest"/> for this fight and <Skill id="22572"/> for better cleave during the Spirit Onslaught phases.
 </Tab>
-</Tabs>
-
-<Tabs>
 <Tab specialization="Soulbeast">
 
 Take <Skill id="12489"/> for pulsing condition cleanse! Great way the clean the huge stacks of <Condition name="Poisoned"/> at every phase. You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
 </Tab>
-</Tabs>
-
-<Tabs>
 <Tab specialization="Berserker">
 
 Take Greatsword and <Skill name="Blood Reckoning"/> here for cleave!
 </Tab>
 </Tabs>
+
+</GridItem>
+
+<GridItem sm="4">
+
+<MDImage src="images/bloomhunger.jpg" caption="Bloomhunger"/>
+
+<MDImage src="images/bloomhunger_spirit_onslaught.jpg" caption="Bloomhunger during Spirit Onslaught"/>
+
 </GridItem>
 </Grid>

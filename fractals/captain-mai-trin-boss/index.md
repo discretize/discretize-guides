@@ -43,7 +43,7 @@ You can precast <Skill name="Conjure Fiery Greatsword"/> without it despawning e
 
 <GridItem sm="4">
 
-<MDImage src="fractals/captain-mai-trin-boss/images/start.jpg" caption="The start area"/>
+<MDImage src="images/start.jpg" caption="The start area"/>
 
 </GridItem>
 </Grid>
@@ -64,30 +64,11 @@ Every 25% health, Mai Trin disappears and additional enemies will spawn while fi
 Keep in mind that with each phase more cannons start shooting at you, the fight can get quite chaotic in the last phases. Luckily, Mai Trin won't have any protective stacks below 25%, so focus your damage on Mai Trin. Killing Mai Trin finishes the fractal, therefore there is no incentive to kill Horrik before that. It is vital to bring reflections and <Boon name="Stability"/> to counter the elite adds that spawn after Mai Trin disappears at 25%.
 
 <Tabs>
-
-<Tab specialization="Spellbreaker">
-
-<Video youtube="U-DzD9IzujI" caption="by Roach [dT]"/>
-
-</Tab>
-</Tabs>
-</GridItem>
-
-<GridItem sm="5">
-
-<MDImage src="fractals/captain-mai-trin-boss/images/horrik.jpg" caption="First Mate Horrik"/>
-
-<MDImage src="fractals/captain-mai-trin-boss/images/mai_trin.jpg" caption="Captain Mai Trin"/>
-
-<Tabs>
 <Tab specialization="Revenant">
 
 It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade traitline combo variant for more energy for the whole fight. Do not forget that <Skill name="Warding Rift"/> (Staff 3) can block Horrik's projectile if you stand into it!
 
 </Tab>
-</Tabs>
-
-<Tabs>
 <Tab specialization="soulbeast">
 
 You can block Horrik's cannon projectile with <Skill name="Counterattack"/> (Greatsword 4).
@@ -98,6 +79,21 @@ You can block Horrik's cannon projectile with <Skill name="Counterattack"/> (Gre
 
 Play Greatsword with <Skill name="blood reckoning"/> for maximum cleave with double <Skill name="arcdivider"/>.
 </Tab>
+
+<Tab specialization="firebrand">
+
+Bring <Skill name="mantraofliberation"/> and <Skill name="wallofreflection"/>. Coordinate with your <Specialization name="Renegade"/>! Use your pulls on <Skill name="Blazing Edge"/> and <TomeSkill name="Chapter 3: Heated Rebuke"/> to stack up the additional adds.
+
+</Tab>
 </Tabs>
+
+</GridItem>
+
+<GridItem sm="5">
+
+<MDImage src="images/horrik.jpg" caption="First Mate Horrik"/>
+
+<MDImage src="images/mai_trin.jpg" caption="Captain Mai Trin"/>
+
 </GridItem>
 </Grid>

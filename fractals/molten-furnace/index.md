@@ -26,7 +26,7 @@ Go to Rox and Braham, wait for the mobs to spawn, kill them. After killing them,
 
 <GridItem sm="6">
 
-<MDImage src="fractals/molten-furnace/images/portal.jpg" caption="The portal"/>
+<MDImage src="images/portal.jpg" caption="The portal"/>
 
 </GridItem>
 </Grid>
@@ -36,7 +36,7 @@ Go to Rox and Braham, wait for the mobs to spawn, kill them. After killing them,
 <Grid>
 <GridItem sm="6">
 
-<MDImage src="fractals/molten-furnace/drill.jpg" caption="The drill"/>
+<MDImage src="images/drill.jpg" caption="The drill"/>
 
 </GridItem>
 
@@ -60,7 +60,7 @@ You enter the arena and survive the 3 weapon test. After entering the arena 2 Ch
 
 <GridItem sm="7">
 
-<MDImage src="fractals/molten-furnace/images/testing_area.jpg" caption="Testing area"/>
+<MDImage src="images/testing_area.jpg" caption="Testing area"/>
 
 </GridItem>
 

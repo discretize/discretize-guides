@@ -181,11 +181,11 @@ sections:
 
       | <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage                                  |
 
-      | <Skill name="Sanctuary"/>                    | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
-       
-      | <Skill name="Chains of light"/>              | <Condition name="Immobile"/> 50/s                                              |
-        
-      | <TomeSkill name="Chapter 2: Daring Challenge"/> | <Condition name="Taunt"/> 75/s |
+      |  <Skill name="Sanctuary"/> | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>)           |
+
+      | <Skill name="Chains of light"/> | <Condition name="Immobile"/> 50/s                                                           |
+
+      | <TomeSkill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s         |
 
 
       </Card>
@@ -344,7 +344,6 @@ sections:
         - <TomeSkill name="Chapter 4: Stalwart Stand"/>
 
         - <TomeSkill name="Epilogue: Unbroken Lines"/>
-
 rating: Meta
 role: Condi Damage
 profession: Guardian
@@ -365,7 +364,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 5
   - 4
@@ -374,8 +373,8 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-cmGuide: ''
-date: 2021-10-03T12:25:49.308Z
+code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+date: 2021-11-02T19:48:13.249Z
 benchmark:
   small:
     dps: 36732

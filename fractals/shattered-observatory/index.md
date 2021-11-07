@@ -40,27 +40,47 @@ sigils:
   - id: 24868
 ---
 
-## Skorvald the Shattered <Label>5,551,340 HP</Label>
-
-|                    |                                                           |
-| ------------------ | --------------------------------------------------------- |
-| Encounter duration | 1:05min                                                   |
-| Sigils             | <Item name="impact"/> <Item name="force"/>                |
-| Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
-| CC                 | 2200                                                      |
+## Skorvald the Shattered <Label>5,551,340 HP</Label> <Label>CC: 2200</Label>
 
 <Grid>
 <GridItem sm="7">
 
 Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the _Mistlock Singularity_ after accepting the Harbinger's challenge, stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> on the platform below and start the encounter by activating the orb in the center of the platform.
+
+### Tactic
+
+The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health. Please note, that you cannot _precast_ CC here. Your CC affects Skorvald, as soon as his HP bar appears in the top right corner.
+
 </GridItem>
 
 <GridItem sm="5">
 
-<MDImage src="fractals/shattered-observatory/images/skorvald.jpg" caption="Skorvald the Shattered"/>
+<MDImage src="images/skorvald.jpg" caption="Skorvald the Shattered"/>
+
+</GridItem>
+
+<GridItem sm="2">
+
+<MDImage src="images/elite-flux-anomaly.jpg" caption="An Elite Flux Anomaly"/>
+
+</GridItem>
+
+<GridItem sm="10">
+
+### 66% + 33% island phase
+
+At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four _Elite Flux Anomalies_ to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies don't have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the animations and position yourself between Anomaly and wall.
+
+It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately when you reach the 4th _Elite Flux Anomaly_ to deal more damage to Skorvald before he continues his attacks, especially at 33%. **_Do not take the portal back to the boss before the add has landed its first jump. Otherwise it will leap out of all the damage zones and not die in time for your nuke._**
 
 </GridItem>
 </Grid>
+
+Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="Stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, but be ready to dodge if it explodes in party range. Under no circumstances stand inside of _Skorvalds_ hitbox as it will kill you immediately.
+
+After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his Defiance bar, if he is not dead yet break the bar and finish him.
+
+### Comprehensive list of all attacks:
 
 |                                      |                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -77,29 +97,6 @@ Skorvald the Shattered is the first boss in the Shattered Observatory fractal. B
 | **Solar Cyclone**                    | **Only below 33% health.** Skorvald starts spinning counter-clockwise and releases conical shockwaves similar to _Cranial Cascade _. There are small safe-spots between each shockwave, learn to stand inside them to avoid the high damage and interrupts.                                                                                                                      |
 | **Combustion Rush**                  | **Only below 33% health.** Elite Flux Anomalies start charging through players and <Control name="Knockback"/>, indicated by a large arrow on the platform.                                                                                                                                                                                                                      |
 
-<Grid>
-<GridItem sm="3">
-
-<MDImage src="fractals/shattered-observatory/images/elite-flux-anomaly.jpg" caption="An Elite Flux Anomaly"/>
-
-</GridItem>
-
-<GridItem sm="9">
-
-### Tactic
-
-The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health. Please note, that you cannot _precast_ CC here. Your CC affects Skorvald, as soon as his HP bar appears in the top right corner.
-
-At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four _Elite Flux Anomalies_ to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies don't have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the animations and position yourself between Anomaly and wall.
-
-It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately when you reach the 4th _Elite Flux Anomaly_ to deal more damage to Skorvald before he continues his attacks, especially at 33%. **_Do not take the portal back to the boss before the add has landed its first jump. Otherwise it will leap out of all the damage zones and not die in time for your nuke._**
-
-Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="Stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, but be ready to dodge if it explodes in party range.
-
-After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his Defiance bar, if he is not dead yet break the bar and finish him.
-</GridItem>
-</Grid>
-
 ---
 
 ## Intermediate part
@@ -113,28 +110,22 @@ You gain a new special action key: <SpecialActionKey name="hypernovalaunch"/>. F
 
 You will encounter several glass mobs on the way to the second boss, there are no differences to the regular Shattered Observatory. After the first group of mobs, you will have to bounce a white _Globolla Marble_ nine times with your head to progress.
 
-If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip directly to Artsariiv using [this cut](https://www.youtube.com/watch?v=dirYlXZMCc4), otherwise use your <SpecialActionKey name="hypernovalaunch"/> on the next platform to jump to the elite mob and kill it to proceed to Artsariiv.
+If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip directly to Artsariiv using the shortcut (video on the side), otherwise use your <SpecialActionKey name="hypernovalaunch"/> on the next platform to jump to the elite mob and kill it to proceed to Artsariiv.
+
 </GridItem>
 
 <GridItem sm="4">
 
-<MDImage src="fractals/shattered-observatory/images/way_to_artsariiv.jpg" caption="The way to Artsariiv"/>
+<MDImage src="images/way_to_artsariiv.jpg" caption="The way to Artsariiv"/>
+
+<ProfessionVideo src="dirYlXZMCc4" profession="Renegade" title="Skip to Artsariiv (any class)"/>
 
 </GridItem>
 </Grid>
 
 ---
 
-## Artsariiv <Label>5,962,266 HP</Label>
-
-|                    |                                                           |
-| ------------------ | --------------------------------------------------------- |
-| Encounter duration | 52s                                                       |
-| Sigils             | <Item name="impact"/> <Item name="force"/>                |
-| Food               | <Item id="41569"/> <Item name="superiorsharpeningstone"/> |
-| CC Artsariiv       | 2100                                                      |
-| 1. Add phase each  | 650                                                       |
-| 2. Add phase each  | less than 375                                             |
+## Artsariiv <Label>5,962,266 HP</Label> <Label>CC boss: 2100, first adds: 650, second adds: > 375</Label>
 
 <Grid>
 <GridItem sm="8">
@@ -150,32 +141,7 @@ Assign a player for the _Globolla Marble_ bouncing (typically the <Specializatio
 
 <GridItem sm="4">
 
-<MDImage src="fractals/shattered-observatory/images/artsariiv.jpg" caption="Artsariiv: The second boss"/>
-
-</GridItem>
-</Grid>
-
-<Grid>
-<GridItem sm="9">
-
-|                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Beaming Smile**                  | Similar to Skorvald below 50% health, Artsariiv generates three large laser beams and projects a white beam onto players which inflicts high damage, <Condition name="Blinded"/> and <Condition name="fear"/>. Turn away from the source to prevent application.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Astral Surge**                   | Artsariiv spawns a lot of small point blank area of effects (PBAoE) on the ground which deal medium damage, try to stay out of them when the inner circle reaches the outer.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Corporal Reassignment** (_Doom_) | Designates a player for timed explosion, recognizable by a red skull above the target and a large notification message. The player must seek containment inside the white bubble in the center area or will kill himself and allies. The white bubble is only available after the respawning **Temporal Anomaly** is killed. _This is the highest priority for any damage dealer._                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Solar Discharge**                | From time to time, Artsariiv switches her location and moves to another corner. When doing so, she jumps over the platform and emerges a single _Solar Discharge_ shockwave which applies <Control name="Knockdown"/>. This ability can be jumped over.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Red Marble**                     | Artsariiv throws a lot of red orbs during the fight, watch out for a large _Red Marble_ surrounded by red orbs - it deals <Control name="Knockdown"/> and deals medium damage. Unfortunately reacting in close melee range is nearly impossible. You can utilize reflects against the various orbs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Slam**                           | Deals <Control name="Knockback"/> and deals damage in a short range around Artsariiv. Recognizable by an orange circle around her, simply dodge it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Mib Ring**                       | Artsariiv herself and all her clones during the intermediate phases create a purple miasma field inside their hitboxes, don't stand too close to avoid damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Globolla Marble**                | **Only below 66% health.** Artsariiv throws a huge, white _Globolla Marble_ which needs to be bounced back to her. The next position of the marble is always indicated by a large white circle, the next but one position by a smaller white circle. This part is typically soloed by the <Specialization name="Renegade"/>. Strip boons if <Instability name="No Pain, No Gain"/> is present before you hop to the second circle. don't forget to assign a backup. Use <SpecialActionKey name="hypernovalaunch"/> to travel between the locations as it refreshes after each bounce. The backup only needs to stand inside the first blue circle. The main bouncer can take over after that. Note: There is enough time to do the first blue circle, launch into the containment chamber and bounce into the second circle. This however is not recommended for inexperienced players. |
-
-</GridItem>
-
-<GridItem sm="3">
-
-<MDImage src="fractals/shattered-observatory/images/so-doom.jpg" caption="A player doomed to explode"/>
-
-<MDImage src="fractals/shattered-observatory/images/so-temporal-anomaly.jpg" caption="A Temporal Anomaly"/>
+<MDImage src="images/artsariiv.jpg" caption="Artsariiv: The second boss"/>
 
 </GridItem>
 </Grid>
@@ -196,16 +162,36 @@ Below 66% health, Artsariiv throws a large _Globolla Marble_ from time to time w
 
 After the fight is over, take the portal in the North and move forward to get to Arkk.
 
+<Grid>
+<GridItem sm="9">
+
+### Comprehensive list of all attacks:
+
+|                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Beaming Smile**                  | Similar to Skorvald below 50% health, Artsariiv generates three large laser beams and projects a white beam onto players which inflicts high damage, <Condition name="Blinded"/> and <Condition name="fear"/>. Turn away from the source to prevent application.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Astral Surge**                   | Artsariiv spawns a lot of small point blank area of effects (PBAoE) on the ground which deal medium damage, try to stay out of them when the inner circle reaches the outer.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Corporal Reassignment** (_Doom_) | Designates a player for timed explosion, recognizable by a red skull above the target and a large notification message. The player must seek containment inside the white bubble in the center area or will kill himself and allies. The white bubble is only available after the respawning **Temporal Anomaly** is killed. _This is the highest priority for any damage dealer._                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Solar Discharge**                | From time to time, Artsariiv switches her location and moves to another corner. When doing so, she jumps over the platform and emerges a single _Solar Discharge_ shockwave which applies <Control name="Knockdown"/>. This ability can be jumped over.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Red Marble**                     | Artsariiv throws a lot of red orbs during the fight, watch out for a large _Red Marble_ surrounded by red orbs - it deals <Control name="Knockdown"/> and deals medium damage. Unfortunately reacting in close melee range is nearly impossible. You can utilize reflects against the various orbs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Slam**                           | Deals <Control name="Knockback"/> and deals damage in a short range around Artsariiv. Recognizable by an orange circle around her, simply dodge it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Mib Ring**                       | Artsariiv herself and all her clones during the intermediate phases create a purple miasma field inside their hitboxes, don't stand too close to avoid damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Globolla Marble**                | **Only below 66% health.** Artsariiv throws a huge, white _Globolla Marble_ which needs to be bounced back to her. The next position of the marble is always indicated by a large white circle, the next but one position by a smaller white circle. This part is typically soloed by the <Specialization name="Renegade"/>. Strip boons if <Instability name="No Pain, No Gain"/> is present before you hop to the second circle. don't forget to assign a backup. Use <SpecialActionKey name="hypernovalaunch"/> to travel between the locations as it refreshes after each bounce. The backup only needs to stand inside the first blue circle. The main bouncer can take over after that. Note: There is enough time to do the first blue circle, launch into the containment chamber and bounce into the second circle. This however is not recommended for inexperienced players. |
+
+</GridItem>
+
+<GridItem sm="3">
+
+<MDImage src="images/so-doom.jpg" caption="A player doomed to explode"/>
+
+<MDImage src="images/so-temporal-anomaly.jpg" caption="A Temporal Anomaly"/>
+
+</GridItem>
+</Grid>
+
 ---
 
-## Arkk <Item id="50082" disableText/><Label>9,942,250 HP</Label>
-
-|                    |                                                                         |
-| ------------------ | ----------------------------------------------------------------------- |
-| Encounter duration | 1:40min                                                                 |
-| Sigils             | <Item name="impact"/> <Item name="force"/>                              |
-| Food               | <Item id="41569"/> <Item name="powerfulpotionofslayingscarletsarmies"/> |
-| CC                 | 1800                                                                    |
+## Arkk <Item id="50082" disableText/> <Label>9,942,250 HP</Label> <Label>CC: 1800</Label>
 
 <Grid>
 <GridItem sm="8">
@@ -221,13 +207,51 @@ Stack <Boon name="Might"/> (you can use <SpecialActionKey name="hypernovalaunch"
 
 <GridItem sm="4">
 
-<MDImage src="fractals/shattered-observatory/images/arkk.jpg" caption="Arkk: The final boss"/>
+<MDImage src="images/arkk.jpg" caption="Arkk: The final boss"/>
 
 </GridItem>
 </Grid>
 
+<GridItem sm="12">
+
+### Tactic
+
+Immediately when the fight starts, turn away as Arkk uses his _Blinding Radiance_ ability. Always prioritize the respawning _Temporal Anomalies_, you only have a short time window to kill them before the player designated for _Corporal Reassignment_ explodes. The doomed person can see a white circle collapsing below the Temporal Anomaly, the moment it completes the explosion goes off.
+
+A lot of the mechanics can occur at the same time, practice to avoid every single one.
+
+Before triggering the Solar Bloom phases, you might want to wait for another Temporal Anomaly/Corporal Reassignment combination to prevent chaos during the intermediate phase.
+
+#### Solar Blooms <Label>80%, 50%, 30%</Label>
+
+When Arkk reaches 80% health, he gains <Effect name="Invulnerability"/> and players have to kite four _Solar Blooms_ into the pillars in the corners to destroy them.
+
+A common strategy is to assign four players to the spawning locations in the North, East, South and West, as the Solar Blooms fixate on the closest player a few seconds after their spawn. Players take aggro of their designated Solar Bloom and kite them clockwise to the next pillar on the right. You can also use direct damage skills to push back the Blooms.
+
+<MDImage src="images/so-solar-bloom.jpg" caption="Solar Blooms fixate on the closest player"/>
+
+The fifth, remaining player should be a DPS ready to take out a possibly spawning _Temporal Anomaly_ during the phase. This player must also be ready to join the player with the green circle.
+
+After every Solar Bloom phase, Arkk's defiance bar has to be broken immediately or he kills all players. Use your <SpecialActionKey name="hypernovalaunch"/> ability for an additional <Control name="Launch"/> if you are short of crowd control skills.
+
+#### Elite Bosses <Label>70%, 40%</Label>
+
+At 70% and 40% of Arkk's health, the party gets teleported to another dimension where you have to fight the _Elite Archdiviner_ from the [Cliffside Fractal](/fractals/cliffside) and the _Elite Brazen Gladiator_ from the [Chaos Isles Fractal](/fractals/chaos-isles) respectively.
+
+Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Try to kill the adds before finishing the boss as they follow you back to Arkk. Remember the party-wide <Control name="Daze"/> if the third auto-attack of the Gladiator hits someone. The _Elite Brazen Gladiator_ also does his huge pull attack below 50% health, prepare your <SpecialActionKey name="hypernovalaunch"/> skill to break his breakbar then.
+
+#### Final phase <Label><40%</Label>
+
+Below 40% health, random platforms start disappearing temporarily. Due to this mechanic, space is very limited and resurrecting a downed player is nearly impossible.Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight even more challenging.
+
+The most important thing is to keep calm. Remember that every single ability can be avoided, <SpecialActionKey name="hypernovalaunch"/> the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!
+
+</GridItem>
+
 <Grid>
 <GridItem sm="9">
+
+### Comprehensive list of all attacks:
 
 |                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -247,41 +271,11 @@ Stack <Boon name="Might"/> (you can use <SpecialActionKey name="hypernovalaunch"
 
 <GridItem sm="3">
 
-<MDImage src="fractals/shattered-observatory/images/so-arkk-eye.jpg" caption="The Blinding Radiance ability"/>
-<MDImage src="fractals/shattered-observatory/images/so-arkk-solar.jpg" caption="Arkk preparing Solar Fury"/>
-<MDImage src="fractals/shattered-observatory/images/so-arkk-green.jpg" caption="Temporal Realignment"/>
+<MDImage src="images/so-arkk-eye.jpg" caption="The Blinding Radiance ability"/>
+
+<MDImage src="images/so-arkk-solar.jpg" caption="Arkk preparing Solar Fury"/>
+
+<MDImage src="images/so-arkk-green.jpg" caption="Temporal Realignment"/>
 
 </GridItem>
 </Grid>
-
-### Tactic
-
-Immediately when the fight starts, turn away as Arkk uses his _Blinding Radiance_ ability. Always prioritize the respawning _Temporal Anomalies_, you only have a short time window to kill them before the player designated for _Corporal Reassignment_ explodes. The doomed person can see a white circle collapsing below the Temporal Anomaly, the moment it completes the explosion goes off.
-
-A lot of the mechanics can occur at the same time, practice to avoid every single one.
-
-Before triggering the Solar Bloom phases, you might want to wait for another Temporal Anomaly/Corporal Reassignment combination to prevent chaos during the intermediate phase.
-
-#### Solar Blooms <Label>80%, 50%, 30%</Label>
-
-When Arkk reaches 80% health, he gains <Effect name="Invulnerability"/> and players have to kite four _Solar Blooms_ into the pillars in the corners to destroy them.
-
-A common strategy is to assign four players to the spawning locations in the North, East, South and West, as the Solar Blooms fixate on the closest player a few seconds after their spawn. Players take aggro of their designated Solar Bloom and kite them clockwise to the next pillar on the right. You can also use direct damage skills to push back the Blooms.
-
-<MDImage src="fractals/shattered-observatory/images/so-solar-bloom.jpg" caption="Solar Blooms fixate on the closest player"/>
-
-The fifth, remaining player should be a DPS ready to take out a possibly spawning _Temporal Anomaly_ during the phase. This player must also be ready to join the player with the green circle.
-
-After every Solar Bloom phase, Arkk's defiance bar has to be broken immediately or he kills all players. Use your <SpecialActionKey name="hypernovalaunch"/> ability for an additional <Control name="Launch"/> if you are short of crowd control skills.
-
-#### Elite Bosses <Label>70%, 40%</Label>
-
-At 70% and 40% of Arkk's health, the party gets teleported to another dimension where you have to fight the _Elite Archdiviner_ from the [Cliffside Fractal](/fractals/cliffside) and the _Elite Brazen Gladiator_ from the [Chaos Isles Fractal](/fractals/chaos-isles) respectively.
-
-Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Try to kill the adds before finishing the boss as they follow you back to Arkk. Remember the party-wide <Control name="Daze"/> if the third auto-attack of the Gladiator hits someone. The _Elite Brazen Gladiator_ also does his huge pull attack below 50% health, prepare your <SpecialActionKey name="hypernovalaunch"/> skill to break his breakbar then.
-
-#### Final phase <Label>\<40%</Label>
-
-Below 40% health, random platforms start disappearing temporarily. Due to this mechanic, space is very limited and resurrecting a downed player is nearly impossible.Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight even more challenging.
-
-The most important thing is to keep calm. Remember that every single ability can be avoided, <SpecialActionKey name="hypernovalaunch"/> the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!

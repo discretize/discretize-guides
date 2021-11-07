@@ -37,7 +37,7 @@ sigils:
 
 <GridItem sm="6">
 
-<MDImage src="fractals/urban-battlegrounds/images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy"/>
+<MDImage src="images/siegemaster_dulfy.jpg" caption="Siegemaster Dulfy"/>
 
 </GridItem>
 
@@ -97,23 +97,18 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply ca
 
 </Tab>
 
+<Tab specialization="ranger">
+
+Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
+
+</Tab>
 </Tabs>
 
 </GridItem>
 
 <GridItem sm="6">
 
-<MDImage src="fractals/urban-battlegrounds/images/the_town.jpg" caption="A barricade in the town"/>
-
-<Tabs>
-
-<Tab specialization="ranger">
-
-Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
-
-</Tab>
-
-</Tabs>
+<MDImage src="images/the_town.jpg" caption="A barricade in the town"/>
 
 </GridItem>
 </Grid>
@@ -130,8 +125,6 @@ To capture the courtyard, you have to kill (or kite away) four groups of _Vetera
 
 As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and enemy groups spawn at the gates (clockwise starting north).
 
-<MDImage src="fractals/urban-battlegrounds/images/the_courtyard.jpg" caption="The courtyard"/>
-
 </GridItem>
 
 <GridItem sm="6">
@@ -143,11 +136,6 @@ As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and 
 For more experienced groups it is favorable to take <Skill name="Legendary Dwarf Stance"/> and go into the middle and casting <Skill name="Inspiring reinforcement"/> for <Boon name="Stability"/> against <Control name="Knockback"/> and <Control name="Daze"/> and <Skill name="Rite of the Great Dwarf"/> for damage reduction.
 
 </Tab>
-
-</Tabs>
-
-<Tabs>
-
 <Tab specialization="elementalist">
 
 <Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors _Rush_ attack. Stay in <Skill id="5492"/> before Ashym for <Boon name="Might"/> stacking.
@@ -158,6 +146,8 @@ For more experienced groups it is favorable to take <Skill name="Legendary Dwarf
 
 </GridItem>
 </Grid>
+
+<MDImage src="images/the_courtyard.jpg" caption="The courtyard"/>
 
 ## Captain Ashym
 

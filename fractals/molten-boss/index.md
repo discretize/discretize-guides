@@ -55,39 +55,44 @@ You will reach an area with two _Molten Protectors_, drag them with you to the n
 
 Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effect name="Invulnerability"/> (recognizable by an electric beam). Therefore, killing and controlling the Molten Protectors is your highest priority throughout the entire fractal.
 
+<Tabs>
+
+<Tab specialization="Revenant">
+
+<ProfessionVideo title="First skip" profession="Revenant" src="vn2UvjuDW1M"/>
+
+</Tab>
+
+<Tab specialization="Guardian">
+
+<ProfessionVideo title="First skip" profession="Guardian" timestamp="364" src="MmJTsOhdQeo"/>
+
+</Tab>
+
+<Tab specialization="Thief">
+
+<ProfessionVideo title="First skip" profession="Thief" timestamp="172" src="Alpgs_GaZV0"/>
+
+</Tab>
+
+</Tabs>
+
 </GridItem>
 
 <GridItem sm="4">
 
-
-<MDImage
-  src="fractals/molten-boss/images/start.jpg"
-  caption="The long way down"
-/>
+<MDImage src="images/start.jpg" caption="The long way down" />
 
 </GridItem>
 
 </Grid>
 
-<Tabs>
-
-<Tab specialization="Revenant">
-  <Video title="Revenant skip" youtube="vn2UvjuDW1M" />
-</Tab>
-
-<Tab specialization="Guardian">
-  <Video title="Guardian skip" timestamp="364" youtube="MmJTsOhdQeo" />
-</Tab>
-
-<Tab specialization="Thief">
-  <Video title="Thief skip" timestamp="172" youtube="Alpgs_GaZV0" />
-</Tab>
-
-</Tabs>
-
 ---
 
 ## Molten Effigy <Item id="50082" disableText/>
+
+<Grid>
+<GridItem sm="7">
 
 Stack <Boon name="Might" /> if possible before moving on to the Molten Effigy. **<Specialization name="Revenant"/> take <Skill name="Legendary Demon Stance"/> for <Skill name="Banish Enchantment"/> to remove <Boon name="Protection" /> from the _Molten Effigy_**.
 
@@ -95,12 +100,23 @@ There is another single Molten Protector which needs to be focused before switch
 
 The moment you killed the Effigy you can `/gg` if necessary so you don't have to take the Mistlock Singularity (this prevents the problem where you can't take the Mistlock Singularity due to being in fight), then you can continue to the next trash group. All following groups of mobs are progress-blocking, clear them to make it to the final area. Molten Protectors have the highest priority (because they cast AoE <Effect name="Invulnerability"/>) and Smoke Shamans are second to them (they apply <Effect name="Stealth"/> to surrounding enemies). You can `/gg` once directly before the end boss if necessary.
 
-<MDImage
-  src="fractals/molten-boss/images/molten_effigy.jpg"
-  caption="The Molten Effigy"
-/>
+</GridItem>
+<GridItem sm="5">
+
+<MDImage src="images/molten_effigy.jpg" caption="The Molten Effigy" />
+
+</GridItem>
+</Grid>
 
 ---
+
+<Grid>
+<GridItem sm="5">
+
+<MDImage src="images/endboss.jpg" caption="The Molten Berserker & Molten Firestorm" />
+
+</GridItem>
+<GridItem sm="7">
 
 ## Molten Berserker & Molten Firestorm <Item id="50082" disableText/>
 
@@ -110,13 +126,12 @@ Kill the _Molten Firestorm_ first and pay attention to the AoEs and _Shockwave_ 
 
 Do not walk into the hitboxes of the two bosses to prevent them from moving out of damaging fields.
 
-## Advanced tactics for Molten Berserker & Molten Firestorm:
+</GridItem>
+
+</Grid>
+
+### Advanced tactics for Molten Berserker & Molten Firestorm:
 
 You enter the arena after killing the group of mobs before the bridge, before anyone enters the arena place a <Item id="78978"/> at the Mistlock Singularity and open at the respawn place (entering the arena teleports everyone in), then you all `/gg` fast, revive and take the portal to the Mistlock Singularity. It only works well if you know where you respawn.
 
 After entering the arena again you kill the _Molten Firestorm_, then use `/gg` the moment it's dead, this resets your cooldowns (after `/gg` the boss progress doesn't reset so you do not have to worry) and you go back into the arena and kill the _Molten Berserker_.
-
-<MDImage
-  src="fractals/molten-boss/images/endboss.jpg"
-  caption="The Molten Berserker & Molten Firestorm"
-/>

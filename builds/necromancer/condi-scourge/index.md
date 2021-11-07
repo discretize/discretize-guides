@@ -1,4 +1,5 @@
 ---
+title: Condi Scourge
 sections:
   - type: mdx
     title: Overview
@@ -214,7 +215,7 @@ sections:
   - type: mdx
     title: Further Information
     content: >-
-      
+
 
       <Grid>
 
@@ -256,7 +257,7 @@ sections:
 
       | <Skill name="Wail of Doom" size="big" disableText/>                    | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>)                                       |
 
-      | <Skill name="Charge" profession="necromancer" size="big" disableText/> | 200 damage with <Control name="Knockdown"/> and 232 with <Control name="Launch"/> coming from <Skill name="Summon Flesh Golem"/> |
+      | <Skill name="Charge" profession="necromancer" size="big" disableText/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox |
 
       | <Skill name="Spectral Grasp" size="big" disableText/>                  | 150-750 damage with <Control name="Pull" /> (see situational skills)                                                             |
 
@@ -267,7 +268,10 @@ sections:
 
 
       </Grid>
-author: "Discord: Amerikajinn#9784"
+rating: Good
+role: Condi Damage
+author: 'Discord: Amerikajinn#9784'
+profession: Necromancer
 specialization: Scourge
 skills:
   - 10606
@@ -278,17 +282,6 @@ traits:
   - 905
   - 2164
   - 2121
-code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-classification:
-  - 2
-  - 4
-  - 4
-  - 2
-  - 3
-date: 2021-10-19T20:54:19.083Z
-title: Condi Scourge
-role: Condi Damage
-profession: Necromancer
 conditions:
   - Vulnerability
   - Weakness
@@ -296,13 +289,20 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-cmGuide: " "
+code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
+classification:
+  - 2
+  - 4
+  - 4
+  - 2
+  - 3
+date: 2021-11-03T12:26:18.616Z
 benchmark:
   small:
     dps: 37044
     by: Prud
     youtube: 6NbhBMCyjmw
-rating: Good
 ---
 
 <Divider text="Skill Usage" />
@@ -321,7 +321,13 @@ Always use this skill off-cooldown, even if it means interrupting auto-attack ch
 
 1. <Skill name="Feast of Corruption" /> (Scepter 3)
 
-Use after finishing your current auto-attack chain: 2. <Skill name="Harrowing Wave"/> (Torch 4) 3. <Skill name="Grasping Dead"/> (Scepter 2) 4. <Skill name="Oppressive Collapse"/> (Torch 5) 5. <Skill name="Blood is Power"/> (Utility) (combo this with <Skill name="Desert Shroud"/>) 6. <Skill name="Manifest Sand Shade"/> (F1)
+Use after finishing your current auto-attack chain:
+
+2. <Skill name="Harrowing Wave"/> (Torch 4)
+3. <Skill name="Grasping Dead"/> (Scepter 2)
+4. <Skill name="Oppressive Collapse"/> (Torch 5)
+5. <Skill name="Blood is Power"/> (Utility) (combo this with <Skill name="Desert Shroud"/>)
+6. <Skill name="Manifest Sand Shade"/> (F1)
 
 **Shade Skills**
 
@@ -341,7 +347,7 @@ While you perform the above prioritization, you'll be using your shade skills to
 - If you're using <Skill name="Summon Shadow Fiend"/>, you should use <Skill name="Haunt"/> off cooldown as it has no cast time.
 - You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically).
 - While you want to maintain 3 shades up, you still want to focus on the rest of the skill prioritization as the wasted cooldown time outweighs the minor loss of Expertise.
-- Casting your <Skill name="Manifest Sand Shade"/> on the group will provide large amounts of barrier passively through your rotation. They can also be used on other significant targets such as the Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal. A <Sepcialization name="Scourge"/> counts as a shade activator itself and will also hit any targets within range from your shade abilities.
+- Casting your <Skill name="Manifest Sand Shade"/> on the group will provide large amounts of barrier passively through your rotation. They can also be used on other significant targets such as the Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal. A <Specialization name="Scourge"/> counts as a shade activator itself and will also hit any targets within range from your shade abilities.
 - If your group has three (or more) Scourges, you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown).
 - Your <Trait name="Dhuumfire"/> trait has an internal cooldown of one second. Be sure to space out your shade skills (including <Skill name="Manifest Sand Shade"/> and <Skill name="Desert Shroud"/>) instead of blindly spamming them off cooldown.
 

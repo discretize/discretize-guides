@@ -27,13 +27,13 @@ When you enter the fractal, first you need to kill 2 _Veteran Bristlebacks_, 2 _
 
 <GridItem sm="6">
 
-<MDImage src="fractals/sirens-reef/images/sirens_mountains.jpg" caption="Scenery"/>
+<MDImage src="images/sirens_mountains.jpg" caption="Scenery"/>
 
 </GridItem>
 
 <GridItem sm="6">
 
-<MDImage src="fractals/sirens-reef/images/sirens_shipwreck.jpg" caption="The Shipwreck"/>
+<MDImage src="images/sirens_shipwreck.jpg" caption="The Shipwreck"/>
 
 </GridItem>
 
@@ -50,13 +50,13 @@ _Blast Black Peter_ the skeleton boss is kind of a DPS race. He starts spawning 
 
 <GridItem sm="6">
 
-<MDImage src="fractals/sirens-reef/images/sirens_blasting_black_peter.jpg" caption="Ghosts of the fortress"/>
+<MDImage src="images/sirens_blasting_black_peter.jpg" caption="Ghosts of the fortress"/>
 
 </GridItem>
 
 <GridItem sm="6">
 
-<MDImage src="fractals/sirens-reef/images/sirens_way_to_cave.jpg" caption="The way to the Maze"/>
+<MDImage src="images/sirens_way_to_cave.jpg" caption="The way to the Maze"/>
 
 </GridItem>
 </Grid>
@@ -78,19 +78,19 @@ Your objective is simple. You need to collect 3 treasures and carry them to the 
 
 <GridItem sm="6">
 
-<MDImage src="fractals/sirens-reef/images/sirens_cursed_treasure.jpg" caption="The revealing AoE"/>
+<MDImage src="images/sirens_cursed_treasure.jpg" caption="The revealing AoE"/>
 
 </GridItem>
 
 <GridItem sm="6">
 
-<MDImage src="fractals/sirens-reef/images/sirens_cursed_treasure_sack.jpg" caption="The cursed treasure"/>
+<MDImage src="images/sirens_cursed_treasure_sack.jpg" caption="The cursed treasure"/>
 
 </GridItem>
 
 <GridItem sm="6">
 
-<MDImage src="fractals/sirens-reef/images/sirens_cursed_chest.jpg" caption="The treasure chest"/>
+<MDImage src="images/sirens_cursed_chest.jpg" caption="The treasure chest"/>
 
 </GridItem>
 
@@ -128,11 +128,11 @@ Use `/gg` to reset mobs on the ship and use the _Mistlock Singularity_ to stack 
 
 <GridItem sm="6">
 
-<MDImage src="fractals/sirens-reef/images/sirens_ship.jpg" caption="The ship"/>
+<MDImage src="images/sirens_ship.jpg" caption="The ship"/>
 
-<MDImage src="fractals/sirens-reef/images/sirens_mad_jack_squall.jpg" caption="Mad Jack Squall"/>
+<MDImage src="images/sirens_mad_jack_squall.jpg" caption="Mad Jack Squall"/>
 
-<MDImage src="fractals/sirens-reef/images/sirens_first_mate_calix.jpg" caption="First Mate Calix"/>
+<MDImage src="images/sirens_first_mate_calix.jpg" caption="First Mate Calix"/>
 
 </GridItem>
 </Grid>

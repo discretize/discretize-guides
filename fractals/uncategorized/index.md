@@ -105,7 +105,8 @@ You can spec into <Specialization name="Scrapper"/> and use the <Skill name="Sne
 </Tab>
 </Tabs>
 
-<MDImage src="fractals/uncategorized/images/harpies_jp.jpg" caption="Harpies protect their jumping puzzle"/>
+<MDImage src="images/harpies_jp.jpg" caption="Harpies protect their jumping puzzle"/>
+
 </GridItem>
 </Grid>
 
@@ -114,7 +115,7 @@ You can spec into <Specialization name="Scrapper"/> and use the <Skill name="Sne
 <Grid>
 <GridItem sm="8">
 
-## Pulsing Orbs
+## Ramp puzzle
 
 After killing the adds, walk past the three Harpies and run up the ramp towards Old Tom. You can dodge through or reflect the pulsing orbs and even skip the last part by walking on the left wall.
 
@@ -123,13 +124,13 @@ Note: Activating all three consoles at the same time will turn off the turrets. 
 
 <GridItem sm="4">
 
-<MDImage src="fractals/uncategorized/images/pulsing_orbs.jpg" caption="The ramp up"/>
+<MDImage src="images/pulsing_orbs.jpg" caption="The ramp up"/>
 
 </GridItem>
 
 <GridItem sm="4">
 
-<MDImage src="fractals/uncategorized/images/old_tom.jpg" caption="Old Tom"/>
+<MDImage src="images/old_tom.jpg" caption="Old Tom"/>
 
 </GridItem>
 
@@ -162,11 +163,11 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 
 <Tab specialization="Firebrand">
 
-Drop a <Skill name="Wall of Reflection"/> first on Raving Asura, slightly offset towards your party. Once all four golems become active at the same time, go into <Skill name="Tome of Courage"/> and use "Chapter 3: Valiant Bulwark" to help avoiding the projectiles and reduce incoming damage with "Epilogue: Unbroken Lines".
+Drop a <Skill name="Wall of Reflection"/> first on Raving Asura, slightly offset towards your party. Once all four golems become active at the same time, go into <Skill name="Tome of Courage"/> and use <TomeSkill name="Chapter 3: Valiant Bulwark"/> to help avoiding the projectiles and reduce incoming damage with <TomeSkill name="Epilogue: Unbroken Lines"/>.
 </Tab>
 </Tabs>
 </GridItem>
 
 </Grid>
 
-<MDImage src="fractals/uncategorized/images/raving_asura.jpg" caption="The Raving Asura and his entourage"/>
+<MDImage src="images/raving_asura.jpg" caption="The Raving Asura and his entourage"/>
