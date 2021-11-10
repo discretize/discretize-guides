@@ -1,5 +1,18 @@
 ---
-title: Condi Deadeye
+skills:
+  - 13132
+boons:
+  - name: Might
+    uptime: 3 stacks
+    variant: party - situational
+classification:
+  - 3
+  - 5
+  - 3
+  - 2
+  - 4
+compositions:
+  - name: _CRGB
 sections:
   - type: mdx
     title: Overview
@@ -7,7 +20,12 @@ sections:
       <Warning>
 
 
-      This build is [META](/guides/meta-explained) in condi comps. In terms of DPS, this build is unlikely to fall behind any other specialization, whether they be running a power or condi build, as it has very high sustained DPS on single targets. It is however not recommended to play **<Specialization text="Condi Deadeye" name="Deadeye"/>** on encounters where power builds would perform better: a condi build will always have a tendency to interfere with a power composition, as it is not meant to have a higher upfront or burst damage. It is worth mentioning that *Venom Skills* are very strong, and precasting them on the *Mistlock Singularity* will allow for a very high burst, quite uncommon for condi builds but very valuable.
+      This build is [META](/guides/meta-explained) in condi comps. In terms of DPS, it is unlikely to fall behind any other specialization, whether they be running a power or condi build, as it has very high sustained DPS on single targets.
+
+
+      > As an additional piece of advice, we do not however recommend to play **<Specialization text="Condi Deadeye" name="Deadeye"/>** on encounters where **<Specialization text="Condi Daredevil" name="Daredevil"/>**  would perform better, specifically Dark Ai. In unorganized parties, where DPS might be lower most of the time, we also believe that the **<Specialization text="Condi Daredevil" name="Daredevil"/>** build brings more utility in the form of CC, with <Skill id="13132"/>, and is overall easier to play.  **<Specialization text="Condi Deadeye" name="Deadeye"/>** will have a tendancy to wear out and fall behind on longer fights, especially if Payback cannot be utilized properly. We did not make a proper guide for this build as of yet, but we believe it is very easy to grasp. The build can be found on the [Snow Crows Website](https://snowcrows.com/builds/thief/daredevil/condition-daredevil).
+
+      Lastly, a condi build will always have a tendency to interfere with a power composition, as it is not meant to have a higher upfront or burst damage, but both of these builds will do a lot of burst damage as well. It is worth mentioning that *Venom Skills* are very strong in that regard, and precasting them on the *Mistlock Singularity* will allow for a very high burst, quite uncommon for condi builds but very valuable.
 
 
       </Warning>
@@ -16,10 +34,15 @@ sections:
       The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an non-negligible amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consumed when the boss is vulnerable to this type of damage (up to ten stacks, two per player).
 
 
-      This build possesses a decent amount of self-sustain, due to <Trait id="2111"/>, but it suffers greatly from a <Boon name="Quickness"/> deficit. However, it doesn't suffer too much from a lack of <Boon name="Alacrity"/> due to the nature of _Initiative_.
+      This build possesses a decent amount of self-sustain, due to <Trait id="2111"/>, but it will suffer greatly from a <Boon name="Quickness"/> deficit. However, it won't suffer too much from a lack of <Boon name="Alacrity"/> due to the nature of _Initiative_.
 
 
-      Overall, this build is an excellent pick if taken as an alt class: it is meant for players who enjoy high-risk, high-reward rotations. Played correctly, it is excellent in PuGs on single-target bosses such as the ones from Challenge Mode Fractals, most notably Sorrowful Spellcaster (Light and Dark Ai) and Ensolyss, or any boss with little to no phases. We do not recommend running this build in Shattered Observatory, as positioning is most important there, and jumping <Skill name="shadowstrike"/> becomes terrible due to Cosmic Energy (low gravity). Details for this build can be found at the bottom of the page.
+      Overall, this build is an excellent pick if taken as an alt class: it is meant for players who enjoy high-risk, high-reward rotations. Played correctly, it is excellent in PuGs on single-target bosses such as the ones from Challenge Mode Fractals, most notably Sorrowful Spellcaster (Light Ai) and Ensolyss, or any boss with little to no phases, as well as multiple add phases, such as the ones from Shattered Observatory. 
+
+      A playlist of videos showcasing the **<Specialization text="Condi Deadeye" name="Deadeye"/>** and the **<Specialization text="Condi Daredevil" name="Daredevil"/>** can be found on [Magic's channel](https://www.youtube.com/playlist?list=PLC8zIP7qMiNPQAHWjt_V_B_EtGaJaGJaM). It is currently incomplete, but you will find benchmarks, CM boss kills, and some T4 gameplay in organized groups. 
+
+
+      We do not recommend running these builds in Shattered Observatory for new players or beginners, as positioning is most important there, and jumping <Skill name="shadowstrike"/> becomes an issue due to Cosmic Energy (low gravity). Extensive details for the build can be found at the bottom of the page.
   - type: null
     title: Equipment
     content: >-
@@ -141,7 +164,7 @@ sections:
 
       <GridItem sm="7">
 
-      <Traits traits1="Trickery" traits1Selected="Burst of Agility,Pressure Striking,Deadly Ambush" traits2="Deadly Arts" traits2Selected="Deadly Ambition,Panic Strike,Potent Poison" traits3="Deadeye" traits3Selected="One in the Chamber,Premeditation,Maleficent Seven"/>
+      <Traits traits1="Trickery" traits1Selected="Burst of Agility,Pressure Striking,Deadly Ambush" traits2="Deadly Arts" traits2Selected="Deadly Ambition,Panic Strike,Potent Poison" traits3="Deadeye" traits3Selected="One in the Chamber,Payback,Maleficent Seven"/>
 
 
       </GridItem>
@@ -205,7 +228,7 @@ sections:
 
       <GridItem sm="8">
 
-      <Traits traits1="Deadeye" traits1Selected="Malicious Intent,Premeditation,Maleficent Seven" unembossed/>
+      <Traits traits1="Deadeye" traits1Selected="Malicious Intent,Payback,Maleficent Seven" unembossed/>
 
       </GridItem>
 
@@ -260,24 +283,21 @@ sections:
       - It is important to learn the rotation by heart, if you do not fully understand the _Malice_ mechanic. abilities such as <Skill id="50466"/> are only enabled when you are under the effect of <Effect name="Stealth"/>; notably, the latter has additional effects when Malice is consumed, so it is important _not_ to use <Skill name="mercy"/> before, or while casting it. Specifically, <Skill name="mercy"/> should always be used upon completing the <Skill id="50466"/>, so as not to interfere with <Effect name="stealth"/>-application skills like the random F2 Stolen skills (<Skill name="stealtime"/>, ...), <Skill name="hideinshadows"/> or <Skill name="shadowmeld"/>.
 
 
+
       - Stolen abilities (<Skill name="stealhealth"/>, <Skill name="stealstrength"/>...) should _not_ be used if you have less than four _Malice_ points, as four of them ought to be consumed to provide you with <Effect name="Stealth"/>, enabling <Skill id="50466"/>.
 
 
-      - Lastly, it should be understood that <Trait id="2136"/> is a crucial trait for longer fights, as the use of a cantrip like <Skill name="shadowmeld"/> or <Skill name="Mercy"/> will allow you to use a second Stolen ability, on top of the one that the <Skill name="deadeyesmark"/> gives you every twenty seconds or so.
+      - <Trait id="2078"/> is a key trait will lower the cooldown of all of your Utility Skills by 20% of their total cooldown after killing a _Marked_ target. Targets can be _Marked_ with <Skill name="deadeyesmark"/>. A good way to reset your <Skill name="deadeyesmark"/> in order to reapply it to a new foe is to run <Skill name="mercy"/>. It is absolutely essential to run this trait on every CM boss, as it will allow you to precast additional **<Skill name="preparethousandneedles"/>** on Ensolyss, or more _Venom Skills_ on all of the other bosses. We also recommand <Skill name="mercy"/> on bosses such as MAMA, Siax, Skorvald, Artsariiv and Arkk so as not to run out of initiative, and allow for more procs of <Trait id="2078"/>.
+
+
+      - Lastly, it should be noted that <Trait id="2136"/> is a crucial trait for longer fights, as the use of a cantrip like <Skill name="shadowmeld"/> or <Skill name="Mercy"/> will allow you to use a second Stolen ability, on top of the one that the <Skill name="deadeyesmark"/> gives you every twenty seconds or so.
+specialization: Deadeye
+code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2021-11-10T14:29:20.075Z
+title: Condi Deadeye
 rating: Meta
 role: Condi Damage
 profession: Thief
-skills:
-  - 13132
-classification:
-  - 3
-  - 5
-  - 3
-  - 2
-  - 4
-compositions:
-  - name: _CRGB
-specialization: Deadeye
 conditions:
   - Vulnerability
   - Weakness
@@ -285,13 +305,7 @@ conditions:
   - Poisoned
   - Bleeding
   - Torment
-code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
-date: 2021-10-03T12:19:56.299Z
-boons:
-  - name: Might
-    uptime: 3 stacks
-    variant: party - situational
+cmGuide: ""
 ---
 
 <Divider text="Rotation / Skill usage"/>
@@ -336,8 +350,10 @@ boons:
 <Card title="Precasting">
 
 All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown.
+-  On Dark Ai, make sure to precast venoms on your <Skill id="13082"/> minions, as every boon and special ability effect currently on you will be stripped upon starting the encounter.
 
-1.  Spam <Skill name="clusterbomb"/> for <Boon name="might"/> blasts on the _Mistlock Singularity_.
+
+-  Spam <Skill name="clusterbomb"/> for <Boon name="might"/> blasts on the _Mistlock Singularity_.
 
 </Card>
 </GridItem>
