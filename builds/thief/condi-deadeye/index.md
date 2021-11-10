@@ -10,7 +10,7 @@ classification:
   - 5
   - 3
   - 2
-  - 4
+  - 5
 compositions:
   - name: _CRGB
 sections:
@@ -31,7 +31,7 @@ sections:
       </Warning>
 
 
-      The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an non-negligible amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consumed when the boss is vulnerable to this type of damage (up to ten stacks, two per player).
+      The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an non-negligible amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consumed when the boss is vulnerable to this type of damage (up to five stacks, one per player).
 
 
       This build possesses a decent amount of self-sustain, due to <Trait id="2111"/>, but it will suffer greatly from a <Boon name="Quickness"/> deficit. However, it won't suffer too much from a lack of <Boon name="Alacrity"/> due to the nature of _Initiative_.
@@ -145,13 +145,16 @@ sections:
       >  
 
 
-      Note that there are two slightly different variants of this build: one is meant for bosses with very short phases such as Ensolyss or Light Ai; the other one is meant for longer fights, where you will need to sustain damage for a longer period of time. This will also depend on your group. It will always be better to use the first variant with people you do not know well, or in situations where your party doesn't bring enough damage.
+      Note that there are two slightly different variants of this build: one is meant for bosses with very short phases such as Ensolyss or Light Ai; the other one is meant for longer fights, where you will need to sustain damage for a longer period of time. This will also depend on your group. It will always be better to use the latter with people you do not know well, or in situations where your party doesn't bring enough damage.
 
       <Item name="afflicted"/> is a viable, more accessible alternative.
 
-      If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
+      If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
 
-      Shortbow for additional movement during downtime and <Item name="doom"/> precasts, as well as <Boon name="might"/> blasts on the _Mistlock Singularity_. You will also want a Pistol with <Item id="24639"/> to help CC during Artsariiv splits. 
+
+      <Skill name="skelkvenom"/> is a much better option to support your party as it brings a tremendous amount of party heal.
+
+      It's recommended to run a shortbow for additional movement during downtime and <Item name="doom"/> precasts, as well as <Boon name="might"/> blasts on the _Mistlock Singularity_. You will also want a Pistol with <Item id="24639"/> to help CC during Artsariiv splits. 
 
 
       </Character>  
@@ -184,7 +187,9 @@ sections:
 
       | <Skill name="infiltratorssignet" size="big" disableText/> | A quick shadowstep. Beginner-friendly alternative, which can be used for a bit more survivability. |
 
-      | <Skill name="signetofmalice" size="big" disableText/>     | Highest sustained healing.                                                                         |
+      | <Skill name="signetofmalice" size="big" disableText/>     | Highest sustained healing.   
+
+      | <Skill name="skelkvenom" size="big" disableText/>     | Best party healing.|
 
 
       </Card>
@@ -214,7 +219,7 @@ sections:
       ### High-Burst Variant
 
 
-      This variant is meant for short-duration fights or bosses with short phases; without any Cantrip slotted, take <Trait name="maliciousintent"/> over <Trait name="oneinthechamber"/>. Take <Skill id="13026"/> over <Skill name="devourervenom"/> on Ensolyss, or <Skill name="mercy"/> with <Trait name="oneinthechamber"/> if group DPS is not high enough not to run out of _Initiative_.
+      This variant is meant for short-duration fights or bosses with short phases; without any Cantrip slotted, take <Trait name="maliciousintent"/> over <Trait name="oneinthechamber"/>. Take <Skill id="13026"/> over <Skill name="devourervenom"/> on Ensolyss, Skorvald or Artsariiv, or <Skill name="mercy"/> with <Trait name="oneinthechamber"/> if group DPS is not high enough not to run out of _Initiative_. <Skill name="mercy"/> can still be taken over <Skill name="devourervenom"/> as a safety net. <Skill name="hideinshadows"/> becomes a necessity because of the lack of stealth applications.
 
 
       <Grid>
@@ -268,10 +273,13 @@ sections:
       fight. It is easy to see that one ability will always perform better than
       other ones, based on the ratio of damage dealt over _Initiative_ points
       spent. Here are a the main reasons as to why this rotation isn't actually
-      as easy as it looks.
+      as easy as it looks, as well as some tips to master the rotation,
+      depending on the encounter.
 
 
       - The **<Specialization text="Condi Deadeye" name="Deadeye"/>** has three primary damaging abilities: <Skill id="50466"/>, <Skill id="59526"/>, and <Skill id="13010"/>. Due to the nature of <Skill id="13010"/> (which has to be casted to enable <Skill id="59526"/>), this rotation becomes very tricky, as it forces your character to Shadowstep Backwards: this is because the intention behind designing the Pistol/Dagger setup was probably to make a kiting kit, and it was never really meant to be a Best in Slot DPS kit. One way to bypass this is to **jump** during, or immediately after casting <Skill id="13010"/>. Not only is it an inconvenience for the rotation, but it also lowers your DPS slightly, as there will be a small, but significant delay where you will still be up in the air, unable to make your next move. It is necessary to jump <Skill id="13010"/> sometimes, such as when Dark Ai pulses AoEs in a set ring pattern, so as not to lose too much health, and fall into Downstate far away from your friends.
+
+      - <Skill name="shadowstrike"/> can see its range alleviated by positioning the camera at a steep angle, above your character, and running inside of the hitbox. The latter reduces the porting range to approximately 400 units, while combining the two reduces the range to about 180 units (courtesy of [Darkz](https://youtu.be/lYSjF4Q7zZA)).
 
 
       - The rotation requires a good sense of timing, as do pretty much all **<Specialization text="Deadeye" name="Deadeye"/>** builds, to maximize your DPS: timing some abilities incorrectly, such as <Skill id="41372"/> (which will consume your Malice in exchange for some _Initiative_ points), can have dramatic consequences for the rest of the fight: you might end up being completely unable to use any ability whatsoever, because you have run out of _Initiative_ points to spend. Not being able to use abilities keeps your Malice bar too low, and this chain reaction can leave you powerless to do anything, until you can use <Skill name="mercy"/> or <Skill name="deadeyesmark"/> again.
@@ -287,13 +295,14 @@ sections:
       - Stolen abilities (<Skill name="stealhealth"/>, <Skill name="stealstrength"/>...) should _not_ be used if you have less than four _Malice_ points, as four of them ought to be consumed to provide you with <Effect name="Stealth"/>, enabling <Skill id="50466"/>.
 
 
-      - <Trait id="2078"/> is a key trait will lower the cooldown of all of your Utility Skills by 20% of their total cooldown after killing a _Marked_ target. Targets can be _Marked_ with <Skill name="deadeyesmark"/>. A good way to reset your <Skill name="deadeyesmark"/> in order to reapply it to a new foe is to run <Skill name="mercy"/>. It is absolutely essential to run this trait on every CM boss, as it will allow you to precast additional **<Skill name="preparethousandneedles"/>** on Ensolyss, or more _Venom Skills_ on all of the other bosses. We also recommand <Skill name="mercy"/> on bosses such as MAMA, Siax, Skorvald, Artsariiv and Arkk so as not to run out of initiative, and allow for more procs of <Trait id="2078"/>.
+      - <Trait id="2078"/> is a key trait will lower the cooldown of all of your Utility Skills by 20% of their total cooldown after killing a _Marked_ target. Targets can be _Marked_ with <Skill name="deadeyesmark"/>. A good way to reset your <Skill name="deadeyesmark"/> in order to reapply it to a new foe is to run <Skill name="mercy"/>. It is absolutely essential to run this trait on every CM boss, as it will allow you to precast additional **<Skill name="preparethousandneedles"/>** on Ensolyss, or more _Venom Skills_ on all of the other bosses. We also recommend <Skill name="mercy"/> on bosses such as MAMA, Siax, Skorvald, Artsariiv and Arkk so as not to run out of initiative, and allow for more procs of <Trait id="2078"/>. Note that <Skill name="deadeyesmark"/> will always reset upon your _Marked_ target's death.
 
 
       - Lastly, it should be noted that <Trait id="2136"/> is a crucial trait for longer fights, as the use of a cantrip like <Skill name="shadowmeld"/> or <Skill name="Mercy"/> will allow you to use a second Stolen ability, on top of the one that the <Skill name="deadeyesmark"/> gives you every twenty seconds or so.
+author: MagicBot.1570
 specialization: Deadeye
 code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2021-11-10T14:29:20.075Z
+date: 2021-11-10T14:53:06.549Z
 title: Condi Deadeye
 rating: Meta
 role: Condi Damage
@@ -349,7 +358,7 @@ cmGuide: ""
 
 <Card title="Precasting">
 
-All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown.
+All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown. This is possible on Skorvald, Artsariiv, Arkk, MAMA and Ensolyss with the use of a <Item name="White Mantle Portal Device"/>, or on Siax without. It is also possible on the Sorrowful Spellcaster (Light & Dark Ai), but with a 1/4 chance of success.
 -  On Dark Ai, make sure to precast venoms on your <Skill id="13082"/> minions, as every boon and special ability effect currently on you will be stripped upon starting the encounter.
 
 
