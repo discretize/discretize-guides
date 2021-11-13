@@ -249,6 +249,8 @@ sections:
       >  
 
 
+      You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also <Item id="70596"/>. <br/>
+
       If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
 
@@ -277,7 +279,7 @@ sections:
               ], "attributes":{
                   "Health": 17422,
                   "Armor": 2632,
-                  "Power": 3796,
+                  "Power": 3781,
                   "Precision": 2575,
                   "Toughness": 1514,
                   "Vitality": 1150,
@@ -322,9 +324,9 @@ sections:
                   37131,
                   37131,
                   37131,
-                  37131,
-                  37131,
-                  37131,
+                  49437,
+                  49437,
+                  49438,
                   37131,
                   37131,
                   37131,
@@ -355,7 +357,7 @@ sections:
       > 
 
 
-      It can be easier to use a ring with 3 <Item id="49438"/> in order to reach 245 Agony Resistance so you can share 1 ring between <Specialization name="Soulbeast"/> and <Specialization name="Weaver"/> and use full Berserker gear on both.
+      You need <Item id="85743"/>, <Item id="86175"/>, 2x <Item id="49437"/> and 1x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>
 
       If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
@@ -606,15 +608,15 @@ profession: Ranger
 specialization: Soulbeast
 conditions:
   - Vulnerability
-code: '[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
-cmGuide: 'pug'
+code: "[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]"
+cmGuide: pug
 classification:
   - 5
   - 5
   - 3
   - 3
   - 4
-date: 2021-10-03T12:23:26.435Z
+date: 2021-11-03T12:04:01.818Z
 ---
 
 <Divider text="Rotation / Skill usage"/>
