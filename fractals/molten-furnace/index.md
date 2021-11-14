@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 50082
-date: 2021-11-14T12:50:00.406Z
+date: 2021-11-14T22:35:37.007Z
 title: Molten Furnace
 image: ./images/header.jpg
 group: T4
@@ -57,7 +57,7 @@ Exit the tunnel and kill the group of mobs coming towards you. Then proceed to t
 
 ## Weapon Testing Arena 
 
-After entering the arena (and at each new phase), 2 Champions spawn, which your party needs to separate and kill. Not separating them will cause them to reflect damage back to the attacker via a unique buff called [Sentinel Retribution](https://wiki.guildwars2.com/wiki/Sentinel_Retribution).
+After entering the arena (and at each new phase), 2 Champions spawn, which your party needs to separate and kill. Not separating them will cause them to reflect damage back to the attacker via a unique buff called <Skill data={{ name: "Sentinel Retribution", description: "Sentinel suit is shielding its target; attack damage is reflected back to its source.", icon: "https://wiki.guildwars2.com/images/b/b5/Sentinel_Retribution.png" }} />.
 
 At the same time, you will survive a series of weapons tests. 
 
