@@ -3,7 +3,7 @@ title: Renegade CM guides
 type: Static
 profession: Revenant
 specialization: Renegade
-date: 2021-09-19T17:30:55.370Z
+date: 2021-11-12T12:13:30.691Z
 author: Casual Sophie - Jin Su Liang.9036
 disableBosses:
   - LightAi
@@ -11,7 +11,8 @@ disableBosses:
 ---
 
 <Boss name="mama" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword" weapon1OffSigil="force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="force" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
--   Suggested Boon Duration: `20%`
+  
+- Suggested Boon Duration: `20%`
 
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
 
@@ -78,7 +79,8 @@ disableBosses:
 - <Skill name="Impossible Odds"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Deathstrike"/>.
 
 <Boss name="siax" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
--   Suggested Boon Duration: `20%`
+  
+- Suggested Boon Duration: `20%`
 
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
 
@@ -143,7 +145,8 @@ disableBosses:
   - <Skill name=" Legendary Renegade Stance"/>, <Skill name="Surge of the mists"/>.
 
 <Boss name="ensolyss" video="" timestamp="" videoCreator="" foodId="91805" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="Celerity" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
--   Suggested Boon Duration: `20%`
+  
+- Suggested Boon Duration: `20%`
 
 - Increase boon duration if you notice significant downtime in <Boon name="Alacrity"/>.
 
@@ -188,7 +191,8 @@ disableBosses:
 - Coordinate with <Specialization name="Soulbeast"/> when to use <Skill name="Orders from Above"/> with <Skill name="Moa Stance"/>.
 
 <Boss name="skorvald" video="Ew0ebu3oUTY" timestamp="5" videoCreator="Lasse [dT]" foodId="91805" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="sword" weapon1OffSigil="Elementalslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="Impact" weapon2MainSigil2="Force" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
--   Suggested Boon Duration: `80%`
+  
+- Suggested Boon Duration: `80%`
 
 - Lower boon duration when possible.
 
@@ -261,7 +265,8 @@ disableBosses:
 - <Skill name="Icerazors Ire"/>, <Skill name="Shackling Wave"/>, <Skill name="Heroic Command"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Deathstrike"/>.
 
 <Boss name="artsariiv" video="Ew0ebu3oUTY" timestamp="86" videoCreator="Lasse [dT]" foodId="91805" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="sword" weapon1OffSigil="force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="force" weapon2MainSigil2="severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
--   Suggested Boon Duration: `60%`
+  
+- Suggested Boon Duration: `60%`
 
 - Lower boon duration when possible.
 
@@ -318,7 +323,8 @@ disableBosses:
 - Make sure <Skill name="Soulcleaves Summit"/> is up from the moment Artsariiv is vulnerable at 33%.
 
 <Boss name="arkk" video="pydLOIq9peQ" timestamp="140" videoCreator="Lasse [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="sword" weapon1OffSigil="force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="force" weapon2MainSigil2="severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
--   Suggested Boon Duration: `80%`
+  
+- Suggested Boon Duration: `80%`
 
 - <Trait name="Dance of Death"/>.
 
