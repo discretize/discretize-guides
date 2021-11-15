@@ -3,7 +3,7 @@ title: Renegade CM guides
 type: Pick up Group
 profession: Revenant
 specialization: Renegade
-date: 2021-09-19T17:30:55.370Z
+date: 2021-11-15T08:42:19.819Z
 author: Casual Sophie - Jin Su Liang.9036
 disableBosses:
   - LightAi
@@ -11,7 +11,7 @@ disableBosses:
 ---
 
 <Boss name="mama" video="p2wUMQEQNUY" timestamp="" videoCreator="Deen [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword" weapon1OffSigil="force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="force" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
-**Suggested Boon Duration:** `50%`
+ **Suggested Boon Duration:** `50%`
 
 - Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon duration due to the length of the fight. This allows you to take a more damage focused approach. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
 
@@ -92,6 +92,7 @@ disableBosses:
 - Adjust your weapon swap to staff in the second phase to accommodate the weapon swap back to swords for the burst in phase three.
 
 <Boss name="siax" video="FwVEqdngirM" timestamp="" videoCreator="Deen [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+
 **Suggested Boon Duration:** `50%`
 
 - Maintaining <Boon name="Alacrity"/> in this encounter does not require high boon duration due to the length of the fight. This allows you to take a more damage focused approach. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
@@ -183,6 +184,7 @@ disableBosses:
 - If you are running higher boon duration you will have to use <Skill name="Chilling Isolation"/> and <Skill name="Shackling Wave"/> on your add to kill it quick enough in both phases.
 
 <Boss name="ensolyss" video="eexNfMx2J_w" timestamp="" videoCreator="Deen [dT]" foodId="91805" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="sword" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="severance" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+
 **Suggested Boon Duration:** `80%`
 
 - Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
@@ -258,6 +260,7 @@ _In the case of reaching the Upswing attack:_
 - Coordinate with the <Specialization name="Soulbeast"/> in which orb phase to use <Skill name="Breakrazors Bastion"/> to heal the <Skill name="Frost Spirit"/>.
 
 <Boss name="skorvald" video="BVTXG2SMP6Y" timestamp="" videoCreator="Deen [dT]" foodId="91805" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="sword" weapon1OffSigil="force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="force" weapon2MainSigil2="severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+
 **Suggested Boon Duration:** `80%`
 
 - Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
@@ -339,6 +342,7 @@ _In the case of reaching the Upswing attack:_
 - Cancel <Skill name="Surge of the Mists"/> once you are through the hitbox to gain time to do more damage in the first phase.
 
 <Boss name="artsariiv" video="Mw1lAIF-n0k" timestamp="" videoCreator="Deen [dT]" foodId="91805" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="sword" weapon1OffSigil="force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="force" weapon2MainSigil2="severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+
 **Suggested Boon Duration:** `80%`
 
 - Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
@@ -437,6 +441,7 @@ _In the case of reaching the Upswing attack:_
 - Be aware of energy management before changing to <Skill name="Legendary Renegade Stance"/> in the middle in order to gain the extra energy from <Trait name="Charged Mists"/>.
 
 <Boss name="arkk" video="yadsI_KvvDo" timestamp="" videoCreator="Deen [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="sword" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="sword" weapon1OffSigil="force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="staff" weapon2MainSigil1="force" weapon2MainSigil2="severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+
 **Suggested Boon Duration:** `80%`
 
 - Maintaining <Boon name="Alacrity"/> in this encounter does require higher boon duration due to the length of the fight, and the necessity for <Boon name="Alacrity"/> throughout the encounter. Increase your concentration if you notice downtime in <Boon name="Alacrity"/>.
