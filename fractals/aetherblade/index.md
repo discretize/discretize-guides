@@ -4,7 +4,7 @@ potions:
   - id: 50082
   - id: 8887
     description: against the golems in the final room
-date: 2021-11-14T23:55:12.429Z
+date: 2021-11-15T09:25:52.161Z
 title: Aetherblade
 image: ./images/header.jpg
 group: T4
@@ -124,7 +124,7 @@ Use <Skill id="10543"/> to teleport to the platform. Clear conditions with skill
 
 </GridItem>
 
-<GridItem sm="4">
+<GridItem sm="3">
 
 <MDImage src="images/moving_lasers.jpg" caption="The moving laser pattern"/>
 
