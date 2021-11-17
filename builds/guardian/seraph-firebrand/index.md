@@ -746,7 +746,7 @@ sections:
       - **Ai**: On light Ai you will want to <Skill name="Empower"/> mid at the beginning of the fight and after each split phase. You should also swap to Staff during the split mechanic so you can cast <Skill name="Empower"/> as everyone returns to the middle. On Dark Ai this is mostly the same aside from the lack of split phases so keep an eye on <Boon name="might"/> and be ready to swap to Staff when needed. Remember with the amount of movement on this fight to be casting <Skill name="Symbol of Swiftness"/> where possible to help keep everyone moving.
 
 
-      Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
+      Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
 
       <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
@@ -800,15 +800,15 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 4
   - 3
   - 4
   - 3
   - 4
-date: 2021-10-07T12:19:25.990Z
+date: 2021-11-17T17:20:17.040Z
 ---
 
 <Divider text="Rotation"/>
