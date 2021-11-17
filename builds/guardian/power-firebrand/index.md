@@ -395,7 +395,7 @@ sections:
 
         - Scepter plays the same as the sword, just without <Skill name="Zealots Defense"/>
 
-      Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
+      Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
 
       <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
@@ -443,15 +443,6 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: static
-classification:
-  - 5
-  - 3
-  - 4
-  - 2
-  - 4
-date: 2021-10-03T12:36:20.229Z
 boons:
   - name: Quickness
     uptime: 100%
@@ -459,6 +450,15 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
+code: "[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: static
+classification:
+  - 5
+  - 3
+  - 4
+  - 2
+  - 4
+date: 2021-11-17T17:17:25.744Z
 ---
 
 <Divider text="Rotation / Skill Usage"/>
