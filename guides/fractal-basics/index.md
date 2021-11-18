@@ -1,6 +1,6 @@
 ---
 title: Fractal Basics
-date: 2021-11-18T12:42:42.776Z
+date: 2021-11-18T12:42:43.092Z
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
