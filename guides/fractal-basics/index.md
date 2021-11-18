@@ -1,6 +1,6 @@
 ---
 title: Fractal Basics
-date: 2021-11-07T19:21:46.361Z
+date: 2021-11-18T12:42:42.776Z
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -25,27 +25,6 @@ Starting with tier 2 the heroes are encountering _Mistlock instabilities_ which 
 | 3    | 106                                                | 2             | When starting to do tier 3 fractals you are expected to start reading up on how your class and fractals work. Enemies hit hard, are more frequent and you have to deal with two mistlock instabilities at the same time!                                                                                                |
 | 4    | 150                                                | 3             | When running tier 4 fractals you should be comfortable with your class and the mechanics. It is expected that you carry your own weight. Running with optimal utility and food as well as fractal potions (<Item id="71659" disableText/>, <Item id="76150" disableText/>, <Item id="75427" disableText/>) is expected. |
 
-
----
-
-## Trouble finding groups? Looking for training runs?
-
-<Grid>
-<GridItem sm="1" md="1">
-
-<MDImage src="guides/fractal-basics/images/mistlocked.png" caption="[FotM]"/>
-
-</GridItem>
-
-<GridItem sm="11" md="11">
-
-Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!\
-While Fractals are their main focus, they do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons! For fractals, trainings will be offered every saturday at 20:00 CET for T1, T2, T3, T4 and CM fractals. There is no sign-up, just join their discord.
-
-All information is available on their [discord](https://discord.gg/CE3TswT).
-
-</GridItem>
-</Grid>
 
 ---
 
