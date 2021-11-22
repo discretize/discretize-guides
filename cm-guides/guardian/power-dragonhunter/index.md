@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-10-20T02:10:07.459Z
+date: 2021-11-22T23:54:00.772Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -261,42 +261,47 @@ Use the information from above for the remaining encounter!
 </IdealRotation>
 </Phase>
 
-<Boss name="Artsariiv" video="" videoCreator="" foodId="91805" utilityId="9443" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
--   If your team does not have a <Specialization name="Soulbeast"/>, you can take <Skill name="Wall of reflection"/> for reflects. Please don't steal the reflect from a <Specialization name="Soulbeast"/>!
+<Boss name="Artsariiv" video="yj--KBwQSmA" videoCreator="Zyp [dT]" foodId="91805" utilityId="73191" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="30273" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+-   If your team aims for a double midburn, theres no need for <Skill name="Wall of reflection"/> as you want to finish the boss before the corner. 
+- Save a <Skill name="shieldofcourage"/> for the expanding AoE so you and your party can deal continues DPS during the mid burn.
+- Precast a <Skill id="30273"/> on the northeast clone
 
-- Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the <Control name="Knockback"/> attacks.
-
-- Save a <Skill name="shieldofcourage"/> or <Skill name="shieldofwrath"/> for the expanding AoE so you can deal continues DPS during the mid burn.
-
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss in a coordinated team.
 
 </Boss>
 
-### **100%**
+<Phase>
 
-- If you are not skipping the first Anomaly, you should place the <Skill name="wallofreflection"/> in the middle.
+<CMInformation title="Precast">
 
-- Again it is recommended to start on scepter or sword.
+<InformationBlock title="Overview">
 
-- Use your <Skill name="Bane Signet"/> to help with CC and boost the party DPS as soon as Artsariiv arrives at the corners.
+When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Dragonhunter"/> this means your signets such as <Skill name="Banesignet"/>. Furthermore, it's important for a <Specialization name="Dragonhunter"/> to stack <Boon name="Resolution"/> since it boosts their strike damage thanks to <Trait name="Retribution"/>.
 
-- Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariiv's hitbox for big damage.
+Precast your <Skill id="30273"/> on the northeast clone for cc and your <Skill name= "Test of Faith"/> on the tile near Artsariiv for extra damage in phase 1. Ideally everyone waits at Artsariiv together to give the <Specialization name="Renegade"/> more time to ~~precast~~ lag the game with casting <Boon name="Resistance"/>. Take the portal and blast with <Skill name="Shieldofwrath"/> (Focus 5) and <Skill name="hammerofwisdom"/>. To maximize the duration of <Skill name="Banesignet"/> use it as late as possible! You do not need to wait for the full aftercast before taking the _Mistlock Singularity_. If you are very quick, cast <Skill name="banesignet"/> again, however, this is only worth it if your party instatriggers the boss.
 
-### _Adds_
+</InformationBlock>
 
-- Swap to scepter and camp it to be ready for the mid burst.
+<InformationBlock title="Portal to the boss">
 
-- Do not waste your <Skill name="banesignet"/> or <Skill name="Binding Blade"/> (GS5) for this.
+Start casting symbols and make sure you also include <Skill name="Shieldofwrath"/> in your precast. Right before the boss triggers you can cast <Skill name= "Litany of Wrath"/> which allows you to stay in the hitbox and tank the laser. The precasted <Boon name="Resistance"/> from the <Specialization name="Renegade"/> protects you against the <Condition name="Fear"/> and <Condition name="Weakness"/>.
 
-- Use your <SpecialActionKey name="hypernovalaunch"/> to quickly navigate to adds.
+</InformationBlock>
 
-### **66% and 33%**
+</CMInformation>
+  
+<IdealRotation>
 
-- When all adds are broken, your traps will be off cooldown again.
 
-- Start on scepter again, use <Skill name="Shield of Wrath"/> to block the expanding AoE and fire everything you have.
+1.  <Skill name="Shieldofwrath"/> (Focus 5)
+2.  <Skill name="Hammerofwisdom"/>
+3.  <Skill name="BaneSignet"/>
+4.  Take _Mistlock Singularity_ and take portal
+5.  Symbol precast (including <Skill name="Shieldofwrath"/>)
+6.  <Skill name= "Litany of Wrath"/>
 
-- When Artsariiv arrives at the corners again immediately place your <Skill name="Wall of reflection"/>.
+</IdealRotation>
+</Phase>
+
 
 <Boss name="Arkk" video="" videoCreator="" foodId="91805" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   Play scepter on this encounter
