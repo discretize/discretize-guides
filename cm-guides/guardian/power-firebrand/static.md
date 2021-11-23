@@ -143,112 +143,112 @@ sections:
       ### **Phase 1**
 
 
-      - Precast <Skill name="tome of justice"/> skill 4 and 5, <Skill name="Symbolofblades"/>, <Skill name="shieldofwrath"/> and <Skill name="Symbol of Resolution"/> when she is still invulnerable
+      - Cast <Skill name="tome of justice"/> skill 4 and 5 before the encounter starts
 
 
-      - Cast <Skill name="banesignet"/> to CC
+      - Cast <Skill name="symbolofblades"/> slightly before the encounter starts
 
 
-      - Use <Skill name="whirlingwrath"/>
+      - Use <Skill name="swordofjustice"/>
 
 
-      ### _First Add_
-
-
-      - Use <Skill name="hammerofwisdom"/>
-
-
-      - Use <Skill name="Bindingblade"/> -> <Skill name="Pull"/>
-
-
-      ### **Phase 2**
-
-
-      - <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath
-
-
-      - <Skill name="Symbol of Resolution"/>
-
-
-      - <Skill name="whirling wrath"/>
-
-
-      - Weapon swap
-
-
-      - <Skill name="rayof judgment"/>
-
-
-      - <Skill name="symbol of blades"/>
-
-
-      - <Skill name="zealots defense"/> if Mama is about to phase (50% HP), keep it for either the add or better for phase 3
-
-
-      ### _Second Add_
-
-
-      - Use <Skill name="hammerofwisdom"/>
-
-
-      ### **Phase 3**
-
-
-      - Cast <Skill name="banesignet"/> to CC
-
-
-      - <Skill name="shield of wrath"/> while casting <Skill name="banesignet"/>
-
-
-      - <Skill name="symbol of blades"/>
-
-
-      - <Skill name="zealots defense"/>
-
-
-      - Weapon Swap
-
-
-      - <Skill name="Symbol of Resolution"/>
-
-
-      - <Skill name="whirling wrath"/>
-
-
-      ### _Third Add_
-
-
-      - Use <Skill name="hammerofwisdom"/>
-
-
-      - Use <Skill name="Bindingblade"/> -> <Skill name="Pull"/> ( can be used if the bar is not broken yet)
-
-
-      ### **Phase 4**
-
-
-      - <Skill name="tome of justice"/> Chapter 4: Scorched Aftermath for stacking <Boon name="Might"/> before she reach the party (Ideally right when the third add dies)
-
-
-      - Help with CC with whatever you have
-
-
-      - <Skill name="Symbol of Resolution"/>
-
-
-      - <Skill name="whirling wrath"/>
-
-
-      - Weapon swap
+      - <Skill name="zealotsdefense"/>
 
 
       - <Skill name="ray of judgment"/>
 
 
-      - <Skill name="symbol of blades"/>
+      - <Skill name="shield of wrath"/>
 
 
-      - <Skill name="zealots defense"/> (if Mama is not dead yet)
+      - Weapon swap
+
+
+      - Use <Skill name="banesignet"/> to CC
+
+
+      - <Skill name="Symbol of Resolution"/>
+
+
+      - <Skill name="whirling wrath"/>
+
+
+      ### _Split Phase 1_
+
+
+      - Use <Skill name="swordofjustice"/> for <Condition name="vulnerability"/> and damage
+
+
+      - Feel free to use <Skill name="leapoffaith"/>
+
+
+      - Auto attack
+
+
+      ### **Phase 2**
+
+
+      - <Skill name="sword of justice"/>
+
+
+      - <Skill name="Symbol of Resolution"/>
+
+
+      - <Skill name="whirling wrath"/>
+
+
+      - Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
+
+
+      - Weapon swap
+
+
+      - <Skill name="symbolofblades"/>
+
+
+      - <Skill name="zealotsdefense"/>
+
+
+      - Share Aegis to block the red AoE
+
+
+      ### _Split Phase 2_
+
+
+      - Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
+
+
+      - Help by using <Skill name="ray of judgment"/> on your add
+
+
+      ### **Phase 3**
+
+
+      - Precast <Skill name="banesignet"/>
+
+
+      - Use <Skill name="sword of justice"/>
+
+
+      - <Skill name="symbolofblades"/>
+
+
+      - <Skill name="zealotsdefense"/>
+
+
+      - <Skill name="shield of wrath"/>
+
+
+      - Weapon swap
+
+
+      - <Skill name="Symbol of Resolution"/>
+
+
+      - <Skill name="whirling wrath"/>
+
+
+      - Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
 
 
       </Tab>
@@ -862,7 +862,7 @@ disableBosses:
   - LightAi
   - DarkAi
   - Ensolyss
-date: 2021-11-23T22:33:21.796Z
+date: 2021-11-23T22:36:43.910Z
 ---
 
 <Boss name="Arkk" video="BzokxHx0ufM" timestamp="135" videoCreator="Ganny [dT]" foodId="91805" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
