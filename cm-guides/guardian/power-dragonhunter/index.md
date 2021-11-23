@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-11-22T23:54:00.772Z
+date: 2021-11-23T00:42:01.518Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -265,6 +265,7 @@ Use the information from above for the remaining encounter!
 -   If your team aims for a double midburn, theres no need for <Skill name="Wall of reflection"/> as you want to finish the boss before the corner. 
 - Save a <Skill name="shieldofcourage"/> for the expanding AoE so you and your party can deal continues DPS during the mid burn.
 - Precast a <Skill id="30273"/> on the northeast clone
+- Always start on greatsword!
 
 
 </Boss>
@@ -283,7 +284,7 @@ Precast your <Skill id="30273"/> on the northeast clone for cc and your <Skill n
 
 <InformationBlock title="Portal to the boss">
 
-Start casting symbols and make sure you also include <Skill name="Shieldofwrath"/> in your precast. Right before the boss triggers you can cast <Skill name= "Litany of Wrath"/> which allows you to stay in the hitbox and tank the laser. The precasted <Boon name="Resistance"/> from the <Specialization name="Renegade"/> protects you against the <Condition name="Fear"/> and <Condition name="Weakness"/>.
+Start casting symbols and make sure you also include <Skill name="Shieldofwrath"/> in your precast. Right before the boss triggers you can cast <Skill name= "Litany of Wrath"/> which allows you to stay in the hitbox and tank the laser. The precasted <Boon name="Resistance"/> from the <Specialization name="Renegade"/> protects you against the <Condition name="Fear"/> and <Condition name="Weakness"/>. Finish the precast with <Skill name="Procession of Blades"/>  and <Skill name="Swordofjustice"/>.
 
 </InformationBlock>
 
@@ -298,10 +299,92 @@ Start casting symbols and make sure you also include <Skill name="Shieldofwrath"
 4.  Take _Mistlock Singularity_ and take portal
 5.  Symbol precast (including <Skill name="Shieldofwrath"/>)
 6.  <Skill name= "Litany of Wrath"/>
+7.  <Skill name="Procession of Blades"/>
+8.  <Skill name="Swordofjustice"/>
 
 </IdealRotation>
 </Phase>
 
+<Phase>
+
+<CMInformation title="Phase 1">
+
+<InformationBlock title="Overview">
+
+Try to time it so <Skill name="spear of justice"/> connects with Artsariiv as soon as she becomes vulnerable. Use <Skill name="symbol of resolution"/> (If not already precasted) and follow up with <Skill name="whirlingwrath"/>, into <Skill name="Bindingblade"/> (**dont miss this!**) due to multiple targets around the boss this skill will hit up to 5 times provided you use it in the bosses hitbox.
+
+Switch weapons as soon as possible and cast <Skill name="Ray of Judgment"/> first, because it applies ticking damage and is therefore more valuable in combination with <Skill name="Onewolfpack"/>. Finish the phase with <Skill name="zealotsdefense"/> and <Skill name="symbolofblades"/>. 
+
+</InformationBlock>
+
+</CMInformation>
+  
+<IdealRotation>
+
+1. <Skill name="spear of justice"/>
+2. <Skill name="symbol of resolution"/>
+3. <Skill name="whirlingwrath"/> (Gs 2)
+4. <Skill name="bindingblade"/> (Gs 5)
+4. _Swap_
+2. <Skill name="Ray of Judgment"/> (Focus 4)
+4. <Skill name="zealotsdefense"/> (Sword 3)
+
+</IdealRotation>
+</Phase>
+
+<Phase>
+
+<CMInformation title="CC phase">
+
+<InformationBlock title="Middle Add">
+
+Use <Skill name="Wings of resolve"/> to navigate towards the middle while also healing the <Skill name="Frostspirit"/>. Drop your <Skill id="30273"/> to CC the middle clone.
+
+</InformationBlock>
+
+<InformationBlock title="Southwest add">
+
+Use <Skill name="Banesignet"/> as soon as you see the rock gazelle charging with <Skill id="43636"/> at the add.  
+Regroup with your team slightly south of the middle and get ready for the phase 2 burst.
+
+</InformationBlock>
+
+
+</CMInformation>
+  
+</Phase>
+
+<Phase>
+
+<CMInformation title="Phase 2">
+
+<InformationBlock title="Overview">
+
+It's best to start casting a couple of skills just before Artsariiv becomes vulnerable to steal some time in order to fit more skills in. Start with <Skill name="Symbol of blades"/> into <Skill name="Swordofjustice"/> and <Skill name="Procession of Blades"/>. With those skills out of the way you can time it so <Skill name="spear of justice"/> connects with Artsariiv as soon as she becomes vulnerable. Follow up with <Skill name="Ray of Judgment"/> into <Skill name="zealotsdefense"/> and fit in another <Skill name="Swordofjustice"/> before swapping to greatsword. Use <Skill name="symbol of resolution"/> into  <Skill name="whirlingwrath"/> and finish with <Skill name="Bindingblade"/>.
+
+You don't have to worry about dodging the expanding circle <Control name="Knockback"/> attack since the <Specialization name="Renegade"/> will provide <Boon name="Stability"/> and the <Specialization name="Firebrand"/> covers <Boon name="Aegis"/>.
+
+If done correctly you can fit in atleast 2 <Skill name="Swordofjustice"/> in the rotation. Make sure your rotation is fast so you can be on greatsword just before Artsariivs expanding circle attack hits, otherwise you lose out on <Skill name="symbol of resolution"/> hits by being slow.
+
+After the mid burst, use your <SpecialActionKey name="hypernovalaunch"/> to jump to Artsariiv and finis the phase in the corner. In case the team is slow, the <Specialization name="Firebrand"/> can reflect Artsariiv's `Taw Shot` attack with <TomeSkill name="Chapter 3: Valiant Bulwark"/>.
+
+</InformationBlock>
+
+</CMInformation>
+  
+<IdealRotation>
+
+1.  <Skill name="Swordofjustice"/>
+2.  <Skill name="Ray of Judgment"/> (Focus 4)
+3.  <Skill name="Zealotsdefense"/> (Sword 3)
+4.  <Skill name="Symbol of blades"/> (Sword 2)
+5.  _Swap_
+6.  <Skill name="Symbolofresolution"/> -> <Skill name="whirlingwrath"/>
+8.  Heal spirit and <SpecialActionKey name="hypernovalaunch"/> to the side
+6.  <Skill name="Symbolofresolution"/> -> <Skill name="whirlingwrath"/>
+
+</IdealRotation>
+</Phase>
 
 <Boss name="Arkk" video="" videoCreator="" foodId="91805" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   Play scepter on this encounter
