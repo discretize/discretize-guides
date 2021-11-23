@@ -3,13 +3,13 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: 2021-11-23T22:12:20.789Z
+date: 2021-11-23T22:14:34.477Z
 disableBosses:
   - LightAi
   - DarkAi
 ---
 
-<Boss name="mama" video="9cKqo2nM6d0" videoCreator="Delay [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+<Boss name="mama" video="9cKqo2nM6d0" videoCreator="Delay [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 
@@ -429,7 +429,7 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 
 - Autoattack until your <Skill name="pathofscars"/> is off cd.
 
-<Boss name="skorvald" video="ZtLfHTg51x4" videoCreator="Jetrell [dT]" foodId="43360" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+<Boss name="skorvald" video="ZtLfHTg51x4" videoCreator="Jetrell [dT]" foodId="43360" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 
@@ -575,7 +575,7 @@ Spirit Management:
 </Tab>
 </Tabs>
 
-<Boss name="artsariiv" video="e_u4pxdW_yw" timestamp="" videoCreator="Jetrell [dT]" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131">
+<Boss name="artsariiv" video="e_u4pxdW_yw" timestamp="" videoCreator="Jetrell [dT]" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131">
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle for CC.
 
@@ -723,7 +723,7 @@ If you are going to triple mid burn you may want to run the replace Marksmanship
 </Tab>
 </Tabs>
 
-<Boss name="arkk" video="pcBwuDwX8zo" timestamp="187" videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="12483" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+<Boss name="arkk" video="pcBwuDwX8zo" timestamp="187" videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="12483" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Impact" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="44617" disableText/> Red Moa.
 
