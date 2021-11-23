@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-11-23T01:37:53.552Z
+date: 2021-11-23T22:22:15.669Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -46,70 +46,55 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 
 - You can take <Skill name="hammerofwisdom"/> to help CC the adds.
 
-<Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpent slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+<Boss name="siax" video="iowOfTXXaMw" videoCreator="Zyp [dT]" foodId="43360" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="30273" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpent slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
 -   Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reason why <Specialization name="Guardian"/> is very strong at this boss. Do not miss this.
 
-- Use one <Skill id="9168"/> at the start of every phase and save one <Skill id="9168"/> for every add.
-
-- It is beneficial to take a sword here to quickly blink to the add.
+- Save one <Skill id="9168"/> for every add.
 
 - Use <Skill name="Wings of resolve"/> to navigate around and keep your HP up.
 
-- Use <Skill name="Bane Signet"/> to help with CC and buff your party.
+- Use <Skill name="Shieldofcourage"/> to block the expanding AoE.
 
-- Use <Skill name="shieldofwrath"/> and <Skill name="Shieldofcourage"/> to block the expanding AoEs.
+- Precast <Skill id="30273"/> and <Skill name= "Test of Faith"/> on your add for split 1.
 
-- Check with your team if you take <Skill name="Feelmywrath"/>
+- Start on Sword/Focus. 
+
 
 </Boss>
 
-### **Precast**
+<Phase>
 
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
+<CMInformation title="Precast">
 
-- Use <Skill name="Empower"/> to help with <Boon name="Might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+<InformationBlock title="Overview">
 
-- Take the _Mistlock Singularity_.
+When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Dragonhunter"/> this means your signets such as <Skill name="Banesignet"/>. Furthermore, it's important for a <Specialization name="Dragonhunter"/> to stack <Boon name="Resolution"/> since it boosts their strike damage thanks to <Trait name="Retribution"/>.
 
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
+Precast <Skill id="30273"/> and <Skill name= "Test of Faith"/> for the first add so you can solo kill it fast and easy. Precast a <Skill name="Procession of Blades"/> on Siax's spawn location.
 
-### **100%-66%**
+</InformationBlock>
 
-- Your gameplay is heavily influenced by the DPS your team can pull.
+<InformationBlock title="At The Mistlock">
+Blast a fire field to generate <Boon name="Might"/> using <Skill name="Hammer Of Wisdom"/> and <Skill name="Shieldofwrath"/> (Focus 5). If your team is still short on blasts, you could also use <Skill name="Holy Strike"/> (Staff 2). Use <Skill name="Save yourselves"/> or <Skill name="Hallowed Ground"/> to generate <Boon name="Resolution"/>. Use <Skill name="BaneSignet"/> either once or twice (depending on wether or not your team plans break the first breakbar). Take the  _Mistlock Singularity_, enter the portal to the boss and start with your symbol precast. The number of symbols is up to you, however it's recommended to atleast include <Skill id="29789"/> (LB4) since it's the strongest.
 
-- If your team has very high DPS (phases Siax in >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
+</InformationBlock>
 
-- No matter what group you are running with, start on scepter/sword!
+</CMInformation>
+  
+<IdealRotation>
 
-- If you are running in a PuG or just clear it daily, it is beneficial to delay your traps slightly, to fit more of the hits into the cc bar.
 
-- In a fast team save <Skill name="bindingblade"/> for the 2nd phase when the adds spawn, if not use it. Just make sure to press it when the adds are in range for big DPS.
+1.  <Skill name="Shieldofwrath"/> (Focus 5)
+2.  <Skill name="Hammerofwisdom"/>
+3.  <Skill name="BaneSignet"/>
+4.  Take _Mistlock Singularity_ and take portal
+5.  Symbol precast (including <Skill name="Shieldofwrath"/>)
+6.  <Skill name= "Litany of Wrath"/>
+7.  <Skill name="Procession of Blades"/>
+8.  <Skill name="Swordofjustice"/>
 
-- Use <Skill id="30364"/> and <Skill name="bindingblade"/> only if it's during second's phase expose up again.
-
-### _1st Add_
-
-- Use <Skill id="9168"/> for <Condition name="vulnerability"/> and damage.
-
-- <Skill name="Whirling wrath"/> and a couple AA to kill it.
-
-- Use <Skill name="wingsofresolve"/>, <Skill name="Symbol of blades"/> and <Skill name="Leapoffaith"/> for movement.
-
-### **66%-33%**
-
-Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Try to end on scepter/sword.
-
-### _2nd Add_
-
-- Use <Skill id="9168"/> for <Condition name="vulnerability"/> and damage..
-
-- Kill it with a symbol and AAs.
-
-- In fast runs you might wanna save a <Skill name="Swordofjustice"/>.
-
-### **33%-0%**
-
-Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Try to end on scepter/sword.
+</IdealRotation>
+</Phase>
 
 <Boss name="ensolyss" video="" videoCreator="" foodId="91805" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   You can abuse <Skill name="bindingblade"/> here. After Ensolyss spawns the a circle under every party member there is a short period of time where these circles spawn an add which can be abused to get all hits with <Skill name="bindingblade"/>.
