@@ -303,7 +303,7 @@ sections:
       - Keep in mind that equipping or stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 
-      Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
+      Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
 
       <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
@@ -364,7 +364,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-cmGuide: ''
+cmGuide: ""
 classification:
   - 5
   - 4
@@ -373,8 +373,8 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2021-11-02T19:48:13.249Z
+code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2021-11-17T17:19:18.390Z
 benchmark:
   small:
     dps: 36732
