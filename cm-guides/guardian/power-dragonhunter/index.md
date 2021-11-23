@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-11-23T00:42:01.518Z
+date: 2021-11-23T01:17:54.537Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -321,8 +321,8 @@ Switch weapons as soon as possible and cast <Skill name="Ray of Judgment"/> firs
   
 <IdealRotation>
 
-1. <Skill name="spear of justice"/>
-2. <Skill name="symbol of resolution"/>
+1. <Skill name="spear of justice"/> (F1)
+2. <Skill name="symbol of resolution"/> (Gs 4)
 3. <Skill name="whirlingwrath"/> (Gs 2)
 4. <Skill name="bindingblade"/> (Gs 5)
 4. _Swap_
@@ -364,9 +364,9 @@ It's best to start casting a couple of skills just before Artsariiv becomes vuln
 
 You don't have to worry about dodging the expanding circle <Control name="Knockback"/> attack since the <Specialization name="Renegade"/> will provide <Boon name="Stability"/> and the <Specialization name="Firebrand"/> covers <Boon name="Aegis"/>.
 
-If done correctly you can fit in atleast 2 <Skill name="Swordofjustice"/> in the rotation. Make sure your rotation is fast so you can be on greatsword just before Artsariivs expanding circle attack hits, otherwise you lose out on <Skill name="symbol of resolution"/> hits by being slow.
+If done correctly, you should be able to fit in atleast 2x <Skill name="Swordofjustice"/> in the rotation. Make sure your rotation is fast so you can be on greatsword just before Artsariiv's expanding circle attack hits otherwise you lose out on <Skill name="symbol of resolution"/> hits.
 
-After the mid burst, use your <SpecialActionKey name="hypernovalaunch"/> to jump to Artsariiv and finis the phase in the corner. In case the team is slow, the <Specialization name="Firebrand"/> can reflect Artsariiv's `Taw Shot` attack with <TomeSkill name="Chapter 3: Valiant Bulwark"/>.
+After the mid burst, use your <SpecialActionKey name="hypernovalaunch"/> to jump to Artsariiv and finish the phase in the corner. In case the team is slow, the <Specialization name="Firebrand"/> can reflect Artsariiv's `Taw Shot` attack with <TomeSkill name="Chapter 3: Valiant Bulwark"/>.
 
 </InformationBlock>
 
@@ -374,18 +374,43 @@ After the mid burst, use your <SpecialActionKey name="hypernovalaunch"/> to jump
   
 <IdealRotation>
 
-1.  <Skill name="Swordofjustice"/>
+1.  <Skill name="Symbol of blades"/> (Sword 2)
+2.  <Skill name="Swordofjustice"/>
+3.  <Skill name="Procession of Blades"/>
+4.  <Skill name="spear of justice"/> (F1)
 2.  <Skill name="Ray of Judgment"/> (Focus 4)
 3.  <Skill name="Zealotsdefense"/> (Sword 3)
-4.  <Skill name="Symbol of blades"/> (Sword 2)
+4.  <Skill name="Swordofjustice"/>
 5.  _Swap_
-6.  <Skill name="Symbolofresolution"/> -> <Skill name="whirlingwrath"/>
-8.  Heal spirit and <SpecialActionKey name="hypernovalaunch"/> to the side
+6.  <Skill name="Symbolofresolution"/> -> <Skill name="whirlingwrath"/> -> <Skill name="Bindingblade"/>.
+8.  <SpecialActionKey name="hypernovalaunch"/> to the side
 6.  <Skill name="Symbolofresolution"/> -> <Skill name="whirlingwrath"/>
 
 </IdealRotation>
 </Phase>
 
+<Phase>
+
+<CMInformation title="CC phase">
+
+<InformationBlock title="Southwest adds">
+
+Use <SpecialActionKey name="hypernovalaunch"/> as soon as you can to jump to the two southwest adds. You will CC these clones together with the <Specialization name="Firebrand"/>. Since <Skill name="Bindingblade"/> for CC cannot be applied at the same time, you will have to wait for the <Specialization name="Firebrand"/> until he has used it first. In the meantime you use <Skill name="leapoffaith"/> to CC the south add and use <Skill name="symbol of resolution"/> to upkeep <Trait name="Symbolicavenger"/> stacks. You can savely use <Skill name="Bindingblade"/> to CC after that without causing any conflicts.  
+
+</InformationBlock>
+
+<InformationBlock title="Middle add">
+Swap to your sword/focus set and use <SpecialActionKey name="hypernovalaunch"/> to jump back to the middle. CC this one with <Skill name="BaneSignet"/>.
+
+
+
+Blast a fire field with <Skill name="Shield of wrath"/> and finish the fight as described in phase 2.
+</InformationBlock>
+
+
+</CMInformation>
+  
+</Phase>
 <Boss name="Arkk" video="" videoCreator="" foodId="91805" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   Play scepter on this encounter
 
