@@ -1,19 +1,20 @@
 ---
-title: 'Banner Berserker'
+title: Banner Berserker
 type: Static
-profession: 'Warrior'
-specialization: 'Berserker'
-date: '2021-06-01'
-disableBosses: ['LightAi', 'DarkAi']
+profession: Warrior
+specialization: Berserker
+date: 2021-11-23T22:45:31.935Z
+disableBosses:
+  - LightAi
+  - DarkAi
 ---
 
-<Boss name="mama" video="uIkrq7fPIhg" videoCreator="Rubby" foodId="43360" utilityId="50082" heal="bloodreckoning" utility1Id="29941" utility2="outrage" utility3="bullscharge" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe" weapon1OffSigil="impact" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131">
--   Change <Skill name="bullscharge"/> to <Skill name="throwbolas"/> if you don't need the additional CC
+<Boss name="mama" video="GbaPfzA13uI" videoCreator="Jetrell [dT]" foodId="43360" utilityId="50082" heal="bloodreckoning" utility1Id="29941" utility2="outrage" utility3="bullscharge" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="Axe" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="Axe" weapon1OffSigil="Force" weapon1OffInfusionId="37131"  weapon2OffAffix="Berserker" weapon2OffType="Mace" weapon2OffSigil="Paralyzation" weapon2OffInfusionId="37131">
 
 - Play <Trait name="Smashbrawler"/>!
 
 <Warning>
-This guide assumes you kill MAMA in less about 45 seconds (p1 break). The CC-distribution greatly changes depending on the speed the party is going.
+This guide assumes you kill MAMA in under 50 seconds (p1 break). The CC-distribution greatly changes depending on the speed the party is going.
 
 If there is any doubt about the kill time, go with the PuG version. The following guide assumes you are following the proposed [CC-Distribution](/guides/cc-distribution).
 </Warning>
@@ -75,7 +76,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 - Swap to Axe/Axe as soon as you are done with CCing and DPS.
 
-<Boss name="siax" video="yfPvLIHZaRM" timestamp="5" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="rifle" weapon2MainSigil1="force" weapon2MainSigil2="serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+<Boss name="siax" video="yfPvLIHZaRM" timestamp="5" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="Axe" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Axe" weapon1OffSigil="Serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Rifle" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 -   In organized teams a rifle can kill the adds very efficiently!
 
 - Play <Trait name="Smashbrawler"/>!
@@ -127,7 +128,7 @@ This build only works if you kill Siax in less than 55 seconds. If there is any 
 
 - Depending on your kill time you might want to use the <Skill name="headbutt"/> - <Skill name="outrage"/> combo earlier.
 
-<Boss name="ensolyss" video="NbJl4FQFTaI" timestamp="63" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe" weapon1OffSigil="serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="severance" weapon2OffType="torch" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
+<Boss name="ensolyss" video="NbJl4FQFTaI" timestamp="63" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14516" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="Axe" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="Axe" weapon1OffSigil="Serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Severance" weapon2OffType="Torch" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
 -   Take <Trait name="savageinstinct"/>!
 
 - In slow teams (PuGs) bring <Trait name="smashbrawler"/> and <Skill name="outrage"/>.
@@ -168,7 +169,7 @@ Swap to your off set (axe/torch) and cap the circle. After you meet in the middl
 
 - Use <Skill name="bullscharge"/> before <Skill name="Whirlingaxe"/> to refresh <Trait name="peakperformance"/>.
 
-<Boss name="skorvald" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe" weapon1OffSigil="force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="axe" weapon2MainSigil1="elementalslaying" weapon2OffType="warhorn" weapon2OffAffix="Berserker" weapon2OffSigil="paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
+<Boss name="skorvald" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="Axe" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Axe" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Elementalslaying" weapon2OffType="Warhorn" weapon2OffAffix="Berserker" weapon2OffSigil="Paralyzation" weapon2MainInfusion1Id="37131" weapon2OffInfusionId="37131">
 -   Play <Trait name="savageinstinct"/>!
 
 - 4-way split: you solo the first anomaly at 33% with a <Item id="78978"/>
@@ -221,7 +222,7 @@ Swap to your off set (axe/torch) and cap the circle. After you meet in the middl
 
 - Follow the standard fractal rotation.
 
-<Boss name="artsariiv" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3="signetoffury" elite="battlestandard" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe" weapon1OffSigil="impact" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="sword" weapon2MainSigil1="severance" weapon2MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="warhorn" weapon2OffSigil="paralyzation" weapon2OffInfusionId="37131">
+<Boss name="artsariiv" foodId="91805" utilityId="73191" healId="14401" utility1Id="14405" utility2Id="14407" utility3="signetoffury" elite="battlestandard" weapon1MainAffix="Berserker" weapon1MainType="Axe" weapon1MainSigil1="Force" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Axe" weapon1OffSigil="Impact" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Severance" weapon2MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Warhorn" weapon2OffSigil="Paralyzation" weapon2OffInfusionId="37131">
 -   Play <Trait name="smashbrawler"/>!
 
 - Mid-strategy: the strategy is focused around phasing the boss in the middle before she moves.
@@ -264,7 +265,7 @@ Swap to your off set (axe/torch) and cap the circle. After you meet in the middl
 
 - Fire everything to kill her in middle.
 
-<Boss name="arkk" video="CmqdVeGttOI" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419" weapon1MainAffix="Berserker" weapon1MainType="axe" weapon1MainSigil1="force" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="axe" weapon1OffSigil="impact" weapon1OffInfusionId="37131" weapon2OffAffix="Berserker" weapon2OffType="mace" weapon2OffSigil="severance" weapon2OffInfusionId="37131">
+<Boss name="arkk" video="CmqdVeGttOI" videoCreator="Roach [dT]" foodId="91805" utilityId="50082" healId="14401" utility1Id="14405" utility2Id="14407" utility3Id="14404" eliteId="14419" weapon1MainAffix="Berserker" weapon1MainType="Axe" weapon1MainSigil1="Force" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Axe" weapon1OffSigil="Impact" weapon1OffInfusionId="37131" weapon2OffAffix="Berserker" weapon2OffType="Mace" weapon2OffSigil="Severance" weapon2OffInfusionId="37131">
 -   Play <Trait name="smashbrawler"/>!
 
 </Boss>
