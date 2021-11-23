@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-11-23T01:17:54.537Z
+date: 2021-11-23T01:37:53.552Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -311,7 +311,7 @@ Start casting symbols and make sure you also include <Skill name="Shieldofwrath"
 
 <InformationBlock title="Overview">
 
-Try to time it so <Skill name="spear of justice"/> connects with Artsariiv as soon as she becomes vulnerable. Use <Skill name="symbol of resolution"/> (If not already precasted) and follow up with <Skill name="whirlingwrath"/>, into <Skill name="Bindingblade"/> (**dont miss this!**) due to multiple targets around the boss this skill will hit up to 5 times provided you use it in the bosses hitbox.
+Try to time it so <Skill name="spear of justice"/> connects with Artsariiv right as she becomes vulnerable. Use <Skill name="symbol of resolution"/> (If not already precasted) and follow up with <Skill name="whirlingwrath"/>, into <Skill name="Bindingblade"/> (**dont miss this!**) due to multiple targets around the boss this skill will hit up to 5 times provided you use it in the bosses hitbox.
 
 Switch weapons as soon as possible and cast <Skill name="Ray of Judgment"/> first, because it applies ticking damage and is therefore more valuable in combination with <Skill name="Onewolfpack"/>. Finish the phase with <Skill name="zealotsdefense"/> and <Skill name="symbolofblades"/>. 
 
@@ -360,7 +360,7 @@ Regroup with your team slightly south of the middle and get ready for the phase 
 
 <InformationBlock title="Overview">
 
-It's best to start casting a couple of skills just before Artsariiv becomes vulnerable to steal some time in order to fit more skills in. Start with <Skill name="Symbol of blades"/> into <Skill name="Swordofjustice"/> and <Skill name="Procession of Blades"/>. With those skills out of the way you can time it so <Skill name="spear of justice"/> connects with Artsariiv as soon as she becomes vulnerable. Follow up with <Skill name="Ray of Judgment"/> into <Skill name="zealotsdefense"/> and fit in another <Skill name="Swordofjustice"/> before swapping to greatsword. Use <Skill name="symbol of resolution"/> into  <Skill name="whirlingwrath"/> and finish with <Skill name="Bindingblade"/>.
+It's best to start casting a couple of skills just before Artsariiv becomes vulnerable to steal some time, allowing you to fit more skills in. Start with <Skill name="Symbol of blades"/> into <Skill name="Swordofjustice"/> and <Skill name="Procession of Blades"/>. With those skills out of the way you can time it so <Skill name="spear of justice"/> connects with Artsariiv as soon as she becomes vulnerable. Follow up with <Skill name="Ray of Judgment"/> into <Skill name="zealotsdefense"/> and fit in another <Skill name="Swordofjustice"/> before swapping to greatsword. Use <Skill name="symbol of resolution"/> into  <Skill name="whirlingwrath"/> and finish with <Skill name="Bindingblade"/>.
 
 You don't have to worry about dodging the expanding circle <Control name="Knockback"/> attack since the <Specialization name="Renegade"/> will provide <Boon name="Stability"/> and the <Specialization name="Firebrand"/> covers <Boon name="Aegis"/>.
 
