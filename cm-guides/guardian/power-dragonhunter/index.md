@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-11-24T03:16:43.421Z
+date: 2021-11-24T03:31:47.346Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -51,7 +51,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 
 - Save one <Skill id="9168"/> for every add.
 
-- Use <Skill name="Wings of resolve"/> to navigate around and keep your HP up.
+- Use <Skill name="Wings of resolve"/> to navigate around from add to boss.
 
 - Use <Skill name="Shieldofcourage"/> to block the expanding AoE.
 
@@ -70,7 +70,7 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 
 When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Dragonhunter"/> this means your signets such as <Skill name="Banesignet"/>. Furthermore, it's important for a <Specialization name="Dragonhunter"/> to stack <Boon name="Resolution"/> since it boosts their strike damage thanks to <Trait name="Retribution"/>.
 
-Precast <Skill id="30273"/> and <Skill name= "Test of Faith"/> for the first add so you can solo kill it fast and easy. Precast a <Skill name="Procession of Blades"/> on Siax's spawn location.
+Precast <Skill id="30273"/> and <Skill name= "Test of Faith"/> for the first add so you can solo it fast and easy. Precast a <Skill name="Procession of Blades"/> on Siax's spawn location.
 
 </InformationBlock>
 
@@ -194,10 +194,11 @@ Phase 3 is basically the same as phase 2 but reversed. Start with <Skill name="P
 
 1.  <Skill name="Procession of Blades"/>
 2.  <Skill name="spear of justice"/> (F1)
-3.  <Skill name="zealotsdefense"/> (Sw3)
-4.  _Swap_
-5.  <Skill name="Symbolofresolution"/> (Gs4) -> <Skill name="whirlingwrath"/> (Gs2)
-6.  <Skill name="Bindingblade"/> (Gs5)
+3.  <Skill name="Shieldofwrath"/> (Focus 5)
+4.  <Skill name="zealotsdefense"/> (Sw3)
+5.  _Swap_
+6.  <Skill name="Symbolofresolution"/> (Gs4) -> <Skill name="whirlingwrath"/> (Gs2)
+7.  <Skill name="Bindingblade"/> (Gs5)
 
 
 </IdealRotation>
