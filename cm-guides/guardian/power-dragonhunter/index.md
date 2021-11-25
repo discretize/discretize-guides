@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2021-10-20T02:10:07.459Z
+date: 2021-11-24T03:31:47.346Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -46,70 +46,163 @@ This fight gets very messy if the adds are not immediately CCed. Especially at t
 
 - You can take <Skill name="hammerofwisdom"/> to help CC the adds.
 
-<Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpent slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+<Boss name="siax" video="iowOfTXXaMw" videoCreator="Zyp [dT]" foodId="43360" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="30273" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpent slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
 -   Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reason why <Specialization name="Guardian"/> is very strong at this boss. Do not miss this.
 
-- Use one <Skill id="9168"/> at the start of every phase and save one <Skill id="9168"/> for every add.
+- Save one <Skill id="9168"/> for every add.
 
-- It is beneficial to take a sword here to quickly blink to the add.
+- Use <Skill name="Wings of resolve"/> to navigate around from add to boss.
 
-- Use <Skill name="Wings of resolve"/> to navigate around and keep your HP up.
+- Use <Skill name="Shieldofcourage"/> to block the expanding AoE.
 
-- Use <Skill name="Bane Signet"/> to help with CC and buff your party.
+- Precast <Skill id="30273"/> and <Skill name= "Test of Faith"/> on your add for split 1.
 
-- Use <Skill name="shieldofwrath"/> and <Skill name="Shieldofcourage"/> to block the expanding AoEs.
+- Start on Sword/Focus. 
 
-- Check with your team if you take <Skill name="Feelmywrath"/>
 
 </Boss>
 
-### **Precast**
+<Phase>
 
-- Precast your Traps (<Skill id="30364"/> and <Skill id="30273"/>) on the boss and force your team to `/gg`.
+<CMInformation title="Precast">
 
-- Use <Skill name="Empower"/> to help with <Boon name="Might"/>. Blast the fire field with <Skill name="Holy Strike"/> and <Skill name="Mighty blow"/>.
+<InformationBlock title="Overview">
 
-- Take the _Mistlock Singularity_.
+When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Dragonhunter"/> this means your signets such as <Skill name="Banesignet"/>. Furthermore, it's important for a <Specialization name="Dragonhunter"/> to stack <Boon name="Resolution"/> since it boosts their strike damage thanks to <Trait name="Retribution"/>.
 
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss if you are using a portal.
+Precast <Skill id="30273"/> and <Skill name= "Test of Faith"/> for the first add so you can solo it fast and easy. Precast a <Skill name="Procession of Blades"/> on Siax's spawn location.
 
-### **100%-66%**
+</InformationBlock>
 
-- Your gameplay is heavily influenced by the DPS your team can pull.
+<InformationBlock title="At The Mistlock">
+Blast a fire field to generate <Boon name="Might"/> using <Skill name="Shieldofwrath"/> (Focus 5). If your team is short on blasts, you can also use <Skill name="Holy Strike"/> (Staff 2). Use <Skill name="Save yourselves"/> or <Skill name="Hallowed Ground"/> to generate <Boon name="Resolution"/>. Use <Skill name="BaneSignet"/> either once or twice (depending on wether or not your team plans to break the first breakbar). Take the  _Mistlock Singularity_, enter the portal to the boss and start your symbol precast. The number of symbols is up to you, however it's recommended to atleast include <Skill id="29789"/> (LB4) since it's the strongest.
 
-- If your team has very high DPS (phases Siax in >5s) you wanna precast <Skill name="Bane Signet"/> and fire everything you have as soon as you are getting in combat.
+</InformationBlock>
 
-- No matter what group you are running with, start on scepter/sword!
+</CMInformation>
+  
+<IdealRotation>
 
-- If you are running in a PuG or just clear it daily, it is beneficial to delay your traps slightly, to fit more of the hits into the cc bar.
 
-- In a fast team save <Skill name="bindingblade"/> for the 2nd phase when the adds spawn, if not use it. Just make sure to press it when the adds are in range for big DPS.
+1.  <Skill name="Shieldofwrath"/> (Focus 5)
+2.  <Skill name="Save yourselves"/>
+3.  <Skill name="BaneSignet"/> (Either once or twice)
+4.  Take _Mistlock Singularity_ and take portal
+5.  Symbol precast 
+6.  <Skill name="Shieldofwrath"/> (Focus 5)
+7.  <Skill name="Swordofjustice"/>
 
-- Use <Skill id="30364"/> and <Skill name="bindingblade"/> only if it's during second's phase expose up again.
+</IdealRotation>
+</Phase>
 
-### _1st Add_
+<Phase>
 
-- Use <Skill id="9168"/> for <Condition name="vulnerability"/> and damage.
+<CMInformation title="Phase 1">
 
-- <Skill name="Whirling wrath"/> and a couple AA to kill it.
+<InformationBlock title="Overview">
 
-- Use <Skill name="wingsofresolve"/>, <Skill name="Symbol of blades"/> and <Skill name="Leapoffaith"/> for movement.
+Start this phase on Sword/Focus and try to time it so <Skill name="spear of justice"/> connects with Siax right as he becomes vulnerable. Depending on the group speed you might want to save <Skill name="Procession of Blades"/> so you can use it at the start of phase 2 instead.  Open with <Skill name="zealotsdefense"/> and <Skill name="Ray of Judgment"/>. Swap to greatsword and use <Skill name="symbol of resolution"/> (If not already precasted) and follow up with <Skill name="whirlingwrath"/>. If your team aims to break the bar, use <Skill name="BaneSignet"/> after <Skill name="symbol of resolution"/>. **Don't use <Skill name="Binding Blade"/> as you will need this for big damage in p2!**
 
-### **66%-33%**
 
-Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Try to end on scepter/sword.
+</InformationBlock>
 
-### _2nd Add_
+</CMInformation>
+  
+<IdealRotation>
 
-- Use <Skill id="9168"/> for <Condition name="vulnerability"/> and damage..
+1. <Skill name="symbolofblades"/> (Sw2)
+2. <Skill name="spear of justice"/> (F1)
+3. <Skill name="zealotsdefense"/> (Sw3)
+4. <Skill name="Ray of Judgment"/> (Focus 4)
+5. _Swap_
+6. <Skill name="symbol of resolution"/> (Gs4)
+7. <Skill name="BaneSignet"/> (If going for CC)
+8. <Skill name="whirlingwrath"/> (Gs2)
 
-- Kill it with a symbol and AAs.
+</IdealRotation>
+</Phase>
 
-- In fast runs you might wanna save a <Skill name="Swordofjustice"/>.
 
-### **33%-0%**
+<Phase>
 
-Nothing extraordinary, all information from 100-66 and tl;dr are still valid. Try to end on scepter/sword.
+<CMInformation title="Split 1">
+
+<InformationBlock title="South add">
+
+As soon as Siax reaches 66% hp, cast a <Skill name="Swordofjustice"/> on your add to quickly ramp up <Condition name="Vulnerability"/>. Use <Skill name="Leapoffaith"/> to jump to your add while dealing a moderate amount of damage. Assuming you precasted the proper traps, you only need to cast <Skill id="30273"/> to finish the remainder of it's HP. Use <Skill name="Wings of resolve"/> to travel back to the middle.
+
+
+</InformationBlock>
+
+</CMInformation>
+  
+</Phase>
+
+<Phase>
+
+<CMInformation title="Phase 2">
+
+<InformationBlock title="Overview">
+
+As soon as you come back you can start precasting <Skill name="Procession of Blades"/> and <Skill name="Swordofjustice"/>. Again, try to time <Skill name="spear of justice"/> with Siax becoming vulnerable. Keep an eye on the adds that might be tethered to you; make sure you stand on the opposite side of the boss so they will get cleaved before exploding. When these adds are close, use <Skill name="Binding Blade"/> inside Siax's hitbox to get 5 hits in. Continue the phase with <Skill name="symbol of resolution"/> and <Skill name="whirlingwrath"/>. Swap to Sword/Focus and use <Skill name="symbolofblades"/> into <Skill name="zealotsdefense"/>. Don't use <Skill name="Ray of Judgment"/> as you will need it to kill the second add. Use <Skill name="Shieldofcourage"/> to give your team <Boon name="Aegis"/> for the expanding AoE attack at the end of the phase.
+
+</InformationBlock>
+
+</CMInformation>
+  
+<IdealRotation>
+
+1.  <Skill name="Procession of Blades"/> -> <Skill name="Swordofjustice"/>
+2.  <Skill name="spear of justice"/> (F1)
+3.  <Skill name="Bindingblade"/> (Gs5)
+4.  <Skill name="Symbolofresolution"/> (Gs4) -> <Skill name="whirlingwrath"/> (Gs2)
+5.  _Swap_
+6.  <Skill name="symbolofblades"/> (Sw2) -> <Skill name="zealotsdefense"/> (Sw3)
+
+
+</IdealRotation>
+</Phase>
+
+<Phase>
+
+<CMInformation title="Split 2">
+
+<InformationBlock title="South add">
+
+As soon as Siax reaches 33% hp, cast a <Skill name="Swordofjustice"/> on your add to quickly ramp up <Condition name="Vulnerability"/>. Use <Skill name="Ray of Judgment"/> and auto attacks to finish it. Use <Skill name="symbolofblades"/> to blink back to Siax and cast <Skill name="BaneSignet"/> to buff your team.
+
+
+</InformationBlock>
+
+</CMInformation>
+  
+</Phase>
+
+<Phase>
+
+<CMInformation title="Phase 3">
+
+<InformationBlock title="Overview">
+
+Phase 3 is basically the same as phase 2 but reversed. Start with <Skill name="Procession of Blades"/>, <Skill name="spear of justice"/> and use <Skill name="zealotsdefense"/> before swapping to greatsword. Use <Skill name="symbol of resolution"/> and <Skill name="whirlingwrath"/>. Use <Skill name="Binding Blade"/> whenever the tethered adds are in close proximity to get 5 hits again.
+
+</InformationBlock>
+
+</CMInformation>
+  
+<IdealRotation>
+
+1.  <Skill name="Procession of Blades"/>
+2.  <Skill name="spear of justice"/> (F1)
+3.  <Skill name="Shieldofwrath"/> (Focus 5)
+4.  <Skill name="zealotsdefense"/> (Sw3)
+5.  _Swap_
+6.  <Skill name="Symbolofresolution"/> (Gs4) -> <Skill name="whirlingwrath"/> (Gs2)
+7.  <Skill name="Bindingblade"/> (Gs5)
+
+
+</IdealRotation>
+</Phase>
 
 <Boss name="ensolyss" video="" videoCreator="" foodId="91805" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   You can abuse <Skill name="bindingblade"/> here. After Ensolyss spawns the a circle under every party member there is a short period of time where these circles spawn an add which can be abused to get all hits with <Skill name="bindingblade"/>.
@@ -261,43 +354,156 @@ Use the information from above for the remaining encounter!
 </IdealRotation>
 </Phase>
 
-<Boss name="Artsariiv" video="" videoCreator="" foodId="91805" utilityId="9443" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
--   If your team does not have a <Specialization name="Soulbeast"/>, you can take <Skill name="Wall of reflection"/> for reflects. Please don't steal the reflect from a <Specialization name="Soulbeast"/>!
+<Boss name="Artsariiv" video="yj--KBwQSmA" videoCreator="Zyp [dT]" foodId="91805" utilityId="73191" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="30273" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+-   If your team aims for a double midburn, theres no need for <Skill name="Wall of reflection"/> as you want to finish the boss before the corner. 
+- Save a <Skill name="shieldofcourage"/> for the expanding AoE so you and your party can deal continues DPS during the mid burn.
+- Precast a <Skill id="30273"/> on the northeast clone
+- Always start on greatsword!
 
-- Use <Skill name="shieldofcourage"/> and <Skill name="shieldofwrath"/> strategically to block the <Control name="Knockback"/> attacks.
-
-- Save a <Skill name="shieldofcourage"/> or <Skill name="shieldofwrath"/> for the expanding AoE so you can deal continues DPS during the mid burn.
-
-- You can precast <Skill id="29789"/> (LB4), <Skill id="9097"/> (Sw2) and <Skill id="9090"/> (Sc2) on the boss in a coordinated team.
 
 </Boss>
 
-### **100%**
+<Phase>
 
-- If you are not skipping the first Anomaly, you should place the <Skill name="wallofreflection"/> in the middle.
+<CMInformation title="Precast">
 
-- Again it is recommended to start on scepter or sword.
+<InformationBlock title="Overview">
 
-- Use your <Skill name="Bane Signet"/> to help with CC and boost the party DPS as soon as Artsariiv arrives at the corners.
+When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Dragonhunter"/> this means your signets such as <Skill name="Banesignet"/>. Furthermore, it's important for a <Specialization name="Dragonhunter"/> to stack <Boon name="Resolution"/> since it boosts their strike damage thanks to <Trait name="Retribution"/>.
 
-- Always use <Skill name="Bindingblade"/> and <Skill name="Whirlingwrath"/> inside Artsariiv's hitbox for big damage.
+Precast your <Skill id="30273"/> on the northeast clone for cc and your <Skill name= "Test of Faith"/> on the tile near Artsariiv for extra damage in phase 1. Ideally everyone waits at Artsariiv together to give the <Specialization name="Renegade"/> more time to ~~precast~~ lag the game with casting <Boon name="Resistance"/>. Take the portal and blast with <Skill name="Shieldofwrath"/> (Focus 5) and <Skill name="hammerofwisdom"/>. To maximize the duration of <Skill name="Banesignet"/> use it as late as possible! You do not need to wait for the full aftercast before taking the _Mistlock Singularity_. If you are very quick, cast <Skill name="banesignet"/> again, however, this is only worth it if your party instatriggers the boss.
 
-### _Adds_
+</InformationBlock>
 
-- Swap to scepter and camp it to be ready for the mid burst.
+<InformationBlock title="Portal to the boss">
 
-- Do not waste your <Skill name="banesignet"/> or <Skill name="Binding Blade"/> (GS5) for this.
+Start casting symbols and make sure you also include <Skill name="Shieldofwrath"/> in your precast. Right before the boss triggers you can cast <Skill name= "Litany of Wrath"/> which allows you to stay in the hitbox and tank the laser. The precasted <Boon name="Resistance"/> from the <Specialization name="Renegade"/> protects you against the <Condition name="Fear"/> and <Condition name="Weakness"/>. Finish the precast with <Skill name="Procession of Blades"/>  and <Skill name="Swordofjustice"/>.
 
-- Use your <SpecialActionKey name="hypernovalaunch"/> to quickly navigate to adds.
+</InformationBlock>
 
-### **66% and 33%**
+</CMInformation>
+  
+<IdealRotation>
 
-- When all adds are broken, your traps will be off cooldown again.
 
-- Start on scepter again, use <Skill name="Shield of Wrath"/> to block the expanding AoE and fire everything you have.
+1.  <Skill name="Shieldofwrath"/> (Focus 5)
+2.  <Skill name="Hammerofwisdom"/>
+3.  <Skill name="BaneSignet"/>
+4.  Take _Mistlock Singularity_ and take portal
+5.  Symbol precast (including <Skill name="Shieldofwrath"/>)
+6.  <Skill name= "Litany of Wrath"/>
+7.  <Skill name="Procession of Blades"/>
+8.  <Skill name="Swordofjustice"/>
 
-- When Artsariiv arrives at the corners again immediately place your <Skill name="Wall of reflection"/>.
+</IdealRotation>
+</Phase>
 
+<Phase>
+
+<CMInformation title="Phase 1">
+
+<InformationBlock title="Overview">
+
+Try to time it so <Skill name="spear of justice"/> connects with Artsariiv right as she becomes vulnerable. Use <Skill name="symbol of resolution"/> (If not already precasted) and follow up with <Skill name="whirlingwrath"/>, into <Skill name="Bindingblade"/> (**dont miss this!**) due to multiple targets around the boss this skill will hit up to 5 times provided you use it in the bosses hitbox.
+
+Switch weapons as soon as possible and cast <Skill name="Ray of Judgment"/> first, because it applies ticking damage and is therefore more valuable in combination with <Skill name="Onewolfpack"/>. Finish the phase with <Skill name="zealotsdefense"/> and <Skill name="symbolofblades"/>. 
+
+</InformationBlock>
+
+</CMInformation>
+  
+<IdealRotation>
+
+1. <Skill name="spear of justice"/> (F1)
+2. <Skill name="symbol of resolution"/> (Gs 4)
+3. <Skill name="whirlingwrath"/> (Gs 2)
+4. <Skill name="bindingblade"/> (Gs 5)
+4. _Swap_
+2. <Skill name="Ray of Judgment"/> (Focus 4)
+4. <Skill name="zealotsdefense"/> (Sword 3)
+
+</IdealRotation>
+</Phase>
+
+<Phase>
+
+<CMInformation title="CC phase">
+
+<InformationBlock title="Middle Add">
+
+Use <Skill name="Wings of resolve"/> to navigate towards the middle while also healing the <Skill name="Frostspirit"/>. Drop your <Skill id="30273"/> to CC the middle clone.
+
+</InformationBlock>
+
+<InformationBlock title="Southwest add">
+
+Use <Skill name="Banesignet"/> as soon as you see the rock gazelle charging with <Skill id="43636"/> at the add.  
+Regroup with your team slightly south of the middle and get ready for the phase 2 burst.
+
+</InformationBlock>
+
+
+</CMInformation>
+  
+</Phase>
+
+<Phase>
+
+<CMInformation title="Phase 2">
+
+<InformationBlock title="Overview">
+
+It's best to start casting a couple of skills just before Artsariiv becomes vulnerable to steal some time, allowing you to fit more skills in. Start with <Skill name="Symbol of blades"/> into <Skill name="Swordofjustice"/> and <Skill name="Procession of Blades"/>. With those skills out of the way you can time it so <Skill name="spear of justice"/> connects with Artsariiv as soon as she becomes vulnerable. Follow up with <Skill name="Ray of Judgment"/> into <Skill name="zealotsdefense"/> and fit in another <Skill name="Swordofjustice"/> before swapping to greatsword. Use <Skill name="symbol of resolution"/> into  <Skill name="whirlingwrath"/> and finish with <Skill name="Bindingblade"/>.
+
+You don't have to worry about dodging the expanding circle <Control name="Knockback"/> attack since the <Specialization name="Renegade"/> will provide <Boon name="Stability"/> and the <Specialization name="Firebrand"/> covers <Boon name="Aegis"/>.
+
+If done correctly, you should be able to fit in atleast 2x <Skill name="Swordofjustice"/> in the rotation. Make sure your rotation is fast so you can be on greatsword just before Artsariiv's expanding circle attack hits otherwise you lose out on <Skill name="symbol of resolution"/> hits.
+
+After the mid burst, use your <SpecialActionKey name="hypernovalaunch"/> to jump to Artsariiv and finish the phase in the corner. In case the team is slow, the <Specialization name="Firebrand"/> can reflect Artsariiv's `Taw Shot` attack with <TomeSkill name="Chapter 3: Valiant Bulwark"/>.
+
+</InformationBlock>
+
+</CMInformation>
+  
+<IdealRotation>
+
+1.  <Skill name="Symbol of blades"/> (Sword 2)
+2.  <Skill name="Swordofjustice"/>
+3.  <Skill name="Procession of Blades"/>
+4.  <Skill name="spear of justice"/> (F1)
+2.  <Skill name="Ray of Judgment"/> (Focus 4)
+3.  <Skill name="Zealotsdefense"/> (Sword 3)
+4.  <Skill name="Swordofjustice"/>
+5.  _Swap_
+6.  <Skill name="Symbolofresolution"/> -> <Skill name="whirlingwrath"/> -> <Skill name="Bindingblade"/>.
+8.  <SpecialActionKey name="hypernovalaunch"/> to the side
+6.  <Skill name="Symbolofresolution"/> -> <Skill name="whirlingwrath"/>
+
+</IdealRotation>
+</Phase>
+
+<Phase>
+
+<CMInformation title="CC phase">
+
+<InformationBlock title="Southwest adds">
+
+Use <SpecialActionKey name="hypernovalaunch"/> as soon as you can to jump to the two southwest adds. You will CC these clones together with the <Specialization name="Firebrand"/>. Since <Skill name="Bindingblade"/> for CC cannot be applied at the same time, you will have to wait for the <Specialization name="Firebrand"/> until he has used it first. In the meantime you use <Skill name="leapoffaith"/> to CC the south add and use <Skill name="symbol of resolution"/> to upkeep <Trait name="Symbolicavenger"/> stacks. You can savely use <Skill name="Bindingblade"/> to CC after that without causing any conflicts.  
+
+</InformationBlock>
+
+<InformationBlock title="Middle add">
+Swap to your sword/focus set and use <SpecialActionKey name="hypernovalaunch"/> to jump back to the middle. CC this one with <Skill name="BaneSignet"/>.
+
+
+
+Blast a fire field with <Skill name="Shield of wrath"/> and finish the fight as described in phase 2.
+</InformationBlock>
+
+
+</CMInformation>
+  
+</Phase>
 <Boss name="Arkk" video="" videoCreator="" foodId="91805" utilityId="50082" heal="litanyofwrath" utility1="swordofjustice" utility2="processionofblades" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Scepter" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 -   Play scepter on this encounter
 

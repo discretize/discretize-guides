@@ -1,6 +1,6 @@
 ---
 title: Fractal Basics
-date: 2021-11-07T19:21:46.361Z
+date: 2021-11-23T09:09:57.467Z
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -33,7 +33,7 @@ Starting with tier 2 the heroes are encountering _Mistlock instabilities_ which 
 <Grid>
 <GridItem sm="1" md="1">
 
-<MDImage src="guides/fractal-basics/images/mistlocked.png" caption="[FotM]"/>
+<MDImage src="images/mistlocked.png" caption="[FotM]"/>
 
 </GridItem>
 

@@ -19,7 +19,7 @@ sections:
       It offers a decent amount of healing through symbols, dodges, <Skill name="Mantra of Solace"/>, <Boon name="Regeneration"/>, <Skill name="Bow of Truth"/>, etc.
 
 
-      Similar to the <Specialization name="Firebrand" text="Power Firebrand"/> it provides good offensive support by sharing the 216 <Attribute name="Power"/> from <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>.
+      This build can provide good offensive support by sharing the 216 <Attribute name="Power"/> from <Skill name="Bane Signet"/> or 216 <Attribute name="Condition Damage"/> from <Skill name="Signet of Wrath"/>  through <Trait name="Perfect Inscriptions"/> when running the Radiance trait line.
 
 
       The build is very flexible and can be adapted to the encounter, instabilities and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. The [CM Guides](/cm-guides/guardian/heal-firebrand/) will also give an overview of what you can run on different encounters.
@@ -117,9 +117,8 @@ sections:
                 "skills": {
                   "heal": "Mantra of Solace",
                   "utility1": "mantra of Potence",
-                  "utility2": "bane signet",
                   "utility3": "Sanctuary",
-                  "elite": "Mantra of Liberation"
+                  "elite": "Feel My Wrath"
                 } 
               }}
       > 
@@ -134,8 +133,8 @@ sections:
     title: Default Build
     content: >-
       <Traits
-        traits1="Radiance"
-        traits1Selected="Healers Resolution, Wrath of justice, Perfect Inscriptions"
+        traits1="Virtues"
+        traits1Selected="Master of Consecrations, Absolute Resolve, Battle Presence"
         traits2="Honor"
         traits2Selected="Invigorated Bulwark, Honorable Staff, Writ of Persistence"
         traits3="Firebrand"
@@ -144,6 +143,24 @@ sections:
   - type: mdx
     title: Situational  Traits and Skills
     content: >-
+      <Card title="Radiance">
+
+      <Traits
+
+      unembossed
+
+      traits1="Radiance"
+        traits1Selected="Healers Resolution, Wrath of justice, Perfect Inscriptions"
+        />
+      If you can afford to give up some healing for extra group DPS, you can swap out Virtues
+
+      for Radiance. Your 3rd utility will then be either <Skill name="Bane Signet" /> or <Skill name="Signet of Wrath"/> to share the passive through <Trait name="Perfect Inscriptions"/> . In Condition-based groups you can also take advantage of the extra shared 216 <Attribute name="Condition Damage" /> from triggering <Trait name="Wrath of Justice" />.
+
+      The advantage of this trait line is the increased group DPS. It gives up some passive healing from Virtues, the lower cooldown on Tomes and the 3rd open utility slot to achieve this.
+
+
+      </Card>
+        
       <Grid>
 
       <GridItem sm="6">
@@ -155,7 +172,9 @@ sections:
 
       | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-      | <Skill name="Signet of Wrath" size="big" disableText/>       | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Condition Damage"/> through <Trait name="Perfect Inscriptions"/>. Keep in mind that this does not provide the immediate defiance bar damage of <Skill name="Bane Signet"/>. |
+      | <Skill name="Bane Signet" size="big" disableText/> | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Power"/> through <Trait name="Perfect Inscriptions"/>. Provides good instant CC.
+
+      | <Skill name="Signet of Wrath" size="big" disableText/>       | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Condition Damage"/> through <Trait name="Perfect Inscriptions"/>. |
 
       | <Skill name="Sanctuary" size="big" disableText/>          | Strong CC over time for mostly stationary enemies with a defiance bar.                                                                                                                        |
 
@@ -190,9 +209,9 @@ sections:
 
       | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
 
-      | <Skill name="Mantra of Liberation" size="big" disableText /> | Should always be used unless there is absolutely no need for <Boon name="Stability"/> and <Boon name="Resolution"/>. |
+      | <Skill name="Mantra of Liberation" size="big" disableText /> | Great for on-demand <Boon name="Stability"/> and <Boon name="Resolution"/>. Make sure you are able to upkeep <Boon name="Quickness"/> or <Boon name="Fury"/> when not running <Skill name="Feel My Wrath"/>. |
 
-      | <Skill name="Feel My Wrath" size="big" disableText/>         | Can be used if you struggle upkeeping <Boon name="Quickness"/> or <Boon name="Fury"/>.                               |
+      | <Skill name="Feel My Wrath" size="big" disableText/>         | Use this if you otherwise struggle upkeeping <Boon name="Quickness"/> or <Boon name="Fury"/>.                               |
 
       | <Skill name="Signet of Courage" size="big" disableText/>     | Good passive healing if neither of the other 2 skills are useful in a given situation.                               |
 
@@ -219,48 +238,6 @@ sections:
       </Card>
 
 
-      </GridItem>
-
-
-      </Grid>
-
-
-      <Grid>
-
-
-      <GridItem sm="7">
-
-
-      <Card title="Virtues">
-
-
-      <Traits
-        unembossed
-        traits1="Virtues"
-        traits1Selected="Master of Consecrations, Absolute Resolve, Battle Presence"
-      />
-
-      If you need more healing or an extra free utility slot, you can swap out Radiance
-
-      for Virtues. You can then remove <Skill name="Bane Signet" /> for a 2nd utility of
-
-      choice. Keep in mind that you will lose out on a lot of CC, the shared 216 <Attribute name="Power" /> from <Skill name="Bane Signet" /> and
-
-      the shared 216 <Attribute name="Condition Damage" /> from triggering <Trait name="Wrath of Justice" />
-
-      , so only take this when the extra healing is needed, most likely when dealing with
-
-      bad instabilities or for less experienced groups.
-
-
-      </Card>
-
-
-      </GridItem>
-
-
-      <GridItem sm="5">
-
       <Card title="Situational Traits">
 
 
@@ -268,7 +245,7 @@ sections:
 
       | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 
-      | <Trait name="Right-Hand Strength" size="big" disableText/>     | If there is no need for the personal <Boon name="Resolution"/> from <Trait name="Healers Resolution"/>.             |
+      | <Trait name="Right-Hand Strength" size="big" disableText/>     | If there is no need for the personal <Boon name="Resolution"/> from <Trait name="Healers Resolution"/> while running the Radiance trait line.             |
 
       | <Trait name="Pure of Heart" size="big" disableText/>           | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds. |
 
@@ -276,6 +253,7 @@ sections:
 
 
       </Card>
+
 
       </GridItem>
 
@@ -655,15 +633,6 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ' '
-classification:
-  - 4
-  - 1
-  - 3
-  - 1
-  - 2
-date: 2021-09-24T19:33:50.711Z
 boons:
   - name: Quickness
     uptime: 150%
@@ -680,6 +649,15 @@ boons:
   - name: Regeneration
     uptime: 100%
     variant: group
+code: "[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: " "
+classification:
+  - 4
+  - 1
+  - 3
+  - 1
+  - 2
+date: 2021-11-11T14:12:00.965Z
 ---
 
 <Divider text="Videos" />
