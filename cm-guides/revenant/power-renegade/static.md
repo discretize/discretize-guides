@@ -3,7 +3,7 @@ title: Renegade CM guides
 type: Static
 profession: Revenant
 specialization: Renegade
-date: 2021-11-23T21:52:03.690Z
+date: 2021-11-27T21:53:51.255Z
 author: Casual Sophie - Jin Su Liang.9036
 disableBosses:
   - LightAi
@@ -316,7 +316,7 @@ disableBosses:
 
 - Make sure <Skill name="Soulcleaves Summit"/> is up from the moment Artsariiv is vulnerable at 33%.
 
-<Boss name="arkk" video="pydLOIq9peQ" timestamp="140" videoCreator="Lasse [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Force" weapon2MainSigil2="Severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+<Boss name="arkk" video="85qgi63s2hc" timestamp="" videoCreator="Inky [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Force" weapon2MainSigil2="Severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
   
 - Suggested Boon Duration: `80%`
 
