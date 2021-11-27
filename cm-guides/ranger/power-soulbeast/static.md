@@ -3,7 +3,7 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: 2021-11-23T22:14:34.477Z
+date: 2021-11-27T15:56:47.155Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -443,6 +443,8 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 
 - 4 Way Split assumes you will solo the second island with Longbow on the 33% split phase.
 
+- A PoV for the second <Specialization name="Soulbeast"/> can be found [here](https://www.youtube.com/watch?v=A2BNl1l6vCQ).  
+
 </Boss>
 
 <Tabs>
@@ -589,6 +591,8 @@ Spirit Management:
 
 - Middle strategy assumes you each phase before Artsariiv reaches the corner, or shortly after.
 
+- A PoV for the second <Specialization name="Soulbeast"/> can be found [here](https://www.youtube.com/watch?v=6VCVMHw-I_s). 
+
 </Boss>
 
 <Tabs>
@@ -723,7 +727,7 @@ If you are going to triple mid burn you may want to run the replace Marksmanship
 </Tab>
 </Tabs>
 
-<Boss name="arkk" video="pcBwuDwX8zo" timestamp="187" videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="12483" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Impact" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+<Boss name="arkk" video="MWEVqsSDeLI" timestamp="" videoCreator="Jetrell [dT]" foodId="91805" utilityId="50082" healId="12483" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Impact" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="44617" disableText/> Red Moa.
 
@@ -742,6 +746,8 @@ If you are going to triple mid burn you may want to run the replace Marksmanship
 - Pulling the adds is also great since they can hurt your teams <Item id="24836"/> uptime.
 
 - If you drop on quickness for some reason, make sure to use <Skill name="Worldlyimpact"/> before bursting to get yourself some.
+
+- A PoV for the second <Specialization name="Soulbeast"/> can be found [here](https://www.youtube.com/watch?v=MVj5ge2AcH4). 
 
 </Boss>
 
