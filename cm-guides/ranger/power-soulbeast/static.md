@@ -1,21 +1,27 @@
 ---
-title: 'Soulbeast CM guides'
+title: Soulbeast CM guides
 type: Static
-profession: 'Ranger'
-specialization: 'Soulbeast'
-date: '2021-02-24'
-disableBosses: ['LightAi', 'DarkAi']
+profession: Ranger
+specialization: Soulbeast
+date: 2021-11-27T15:56:47.155Z
+disableBosses:
+  - LightAi
+  - DarkAi
 ---
 
-<Boss name="mama" video="HsGMLaDKzrA" videoCreator="Stellan [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+<Boss name="mama" video="9cKqo2nM6d0" videoCreator="Delay [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 
-- Take <Trait id="2143"/>.
+- Take <Trait id="2128"/>.
 
 - In faster kills you want to run <Item id="82876"/> instead of <Item id="24615"/> on longbow.
 
-- If you don't trust your group to deal DPS in phase 2 then you can take <Trait id="2128"/> and use <Skill name="OneWolfPack"/> when you return to MAMA in phase 2. The reason for this is because in phase 1, 3 and 4 you have the damage modifier from <Effect name="Exposed"/>, so compensating with <Skill name="OneWolfPack"/> can help the team phase MAMA faster here.
+- Use <Skill name="OneWolfPack"/> when you return to MAMA in phase 2. The reason for this is because in phase 1, 3 and 4 you have the damage modifier from <Effect name="Exposed"/>, so compensating with <Skill name="OneWolfPack"/> can help the team phase MAMA faster here.
+
+- If you are doing the delayed rotation you may find it worth swapping <Item id="24615"/> for <Item id="24868"/> on Longbow.
+
+- A PoV for the delayed rotation can be found [here](https://www.youtube.com/watch?v=7ZpU3jfXDP0).  
 
 </Boss>
 
@@ -191,17 +197,17 @@ This rotation is designed to be used when playing double Soulbeast comps, it bur
 </Tab>
 </Tabs>
 
-<Boss name="siax" video="6JGgL1pGqmM" videoCreator="Jetrell [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Impact" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
+<Boss name="siax" video="aU3EBusYlWg" videoCreator="MkChan [dT]" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle if you CC, <Skill id="44617" disableText/> Red Moa if you aren't breaking.
 
 - Take <Trait id="2128"/>.
 
-- Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
+- Remember to use <Item id="24658"/> for this encounter!
 
-- In faster kills you want to run <Item id="82876"/> instead of <Item id="24868"/> on Longbow.
+- If you are running with double <Specialization name="Soulbeast" text="Soulbeasts"/>, we recommend one <Specialization name="Soulbeast"/> runs skirmishing and follows the <Trait name="Quickdraw"/> rotation below. It also works out well to replace Sword mainhand with Axe on fast kills, as it allows you to stay in the middle on the 1st split meaning you can fit more skills into <Effect name="Exposed"/> on Phase 2.
 
-- If you are running with double Soulbeasts, we recommend both soulbeasts run skirmishing and follow the <Trait name="Quickdraw"/> rotation below. It also works out well to replace Sword mainhand with Axe, as it allows you to stay in the middle on the 1st split meaning you can fit more skills into <Effect name="Exposed"/> on Phase 2.
+- A PoV for the <Trait name="Quickdraw"/> rotation can be found [here](https://www.youtube.com/watch?v=G1C9C42pWrI). 
 
 </Boss>
 
@@ -423,7 +429,7 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 
 - Autoattack until your <Skill name="pathofscars"/> is off cd.
 
-<Boss name="skorvald" video="CTfw_n75sR4" videoCreator="BlackHawk [dT]" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+<Boss name="skorvald" video="ZtLfHTg51x4" videoCreator="Jetrell [dT]" foodId="43360" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 
@@ -436,6 +442,8 @@ When you play this rotation you will want to replace the Marksmanship traitline 
 - Warhorn can be a replacement for Longbow here, <Skill name="Callofthewild"/> is a blast finisher allowing you to stack <Boon name="Might"/> on the islands. You simply use <Skill id="12620"/> before you start attacking in each phase.
 
 - 4 Way Split assumes you will solo the second island with Longbow on the 33% split phase.
+
+- A PoV for the second <Specialization name="Soulbeast"/> can be found [here](https://www.youtube.com/watch?v=A2BNl1l6vCQ).  
 
 </Boss>
 
@@ -569,9 +577,9 @@ Spirit Management:
 </Tab>
 </Tabs>
 
-<Boss name="artsariiv" video="rYhC4Ne7JCU" timestamp="" videoCreator="BlackHawk [dT]" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131">
+<Boss name="artsariiv" video="e_u4pxdW_yw" timestamp="" videoCreator="Jetrell [dT]" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131">
 
-- Pet: <Skill id="44617" disableText/> Red Moa for DPS, <Skill id="43636" disableText/> Rock Gazelle for CC.
+- Pet: <Skill id="43636" disableText/> Rock Gazelle for CC.
 
 - Take <Trait id="2128"/>.
 
@@ -582,6 +590,8 @@ Spirit Management:
 - If you are doing side strat, replace <Skill name="Frost Trap"/> with <Skill name="Signet of the Wild"/>
 
 - Middle strategy assumes you each phase before Artsariiv reaches the corner, or shortly after.
+
+- A PoV for the second <Specialization name="Soulbeast"/> can be found [here](https://www.youtube.com/watch?v=6VCVMHw-I_s). 
 
 </Boss>
 
@@ -717,7 +727,7 @@ If you are going to triple mid burn you may want to run the replace Marksmanship
 </Tab>
 </Tabs>
 
-<Boss name="arkk" video="pcBwuDwX8zo" timestamp="187" videoCreator="Stellan [dT]" foodId="91805" utilityId="50082" healId="12483" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+<Boss name="arkk" video="MWEVqsSDeLI" timestamp="" videoCreator="Jetrell [dT]" foodId="91805" utilityId="50082" healId="12483" utility1Id="12633" utility2Id="12497" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Impact" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="44617" disableText/> Red Moa.
 
@@ -736,6 +746,8 @@ If you are going to triple mid burn you may want to run the replace Marksmanship
 - Pulling the adds is also great since they can hurt your teams <Item id="24836"/> uptime.
 
 - If you drop on quickness for some reason, make sure to use <Skill name="Worldlyimpact"/> before bursting to get yourself some.
+
+- A PoV for the second <Specialization name="Soulbeast"/> can be found [here](https://www.youtube.com/watch?v=MVj5ge2AcH4). 
 
 </Boss>
 
