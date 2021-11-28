@@ -3,8 +3,8 @@ title: Firebrand CM guide
 type: Static
 sections:
   - content: >-
-
-      <Boss name="mama" video="e323qch7Kq4" videoCreator="Princeps [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9125" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusüion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" hideNotes/>
+      
+      <Boss name="mama" video="8tsjCFLxq-I" videoCreator="Zyp [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusüion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" hideNotes/>
 
 
       ### **Phase 1**
@@ -118,16 +118,9 @@ sections:
       - <Skill name="zealots defense"/> (if Mama is not dead yet)
 
 
-      <Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" healId="21664" utility1Id="30364" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+      <Boss name="siax" video="zLE72fLTt1Q" videoCreator="Danni [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 
-      - The rotation for scepter/sword is the same for every specialization. **Sword tends to perform much better on both <Specialization name="Firebrand"/> and <Specialization name="Dragonhunter"/>**!
-
-
-      - When playing <Specialization text="Core Guardian" name="Guardian"/> you will have a free utility slot. Take <Skill name="judges intervention"/> to get back to siax fast after the second split phase.
-
-
-      - As <Specialization text="Core Guardian" name="Guardian"/> you may run <Trait name="righthand strength"/> for lower cooldowns on sword and additional stat increase!
 
 
       </Boss>
@@ -136,12 +129,129 @@ sections:
       <Warning>
 
 
-      These builds only work if you can kill Siax in under 40 seconds. If there is any doubt about the kill time, go with the PuG version.
+      <Specialization name="Dragonhunter"/> will only work in double <Specialization name="Dragonhunter"/> comps and only if the kill is short.
+
 
       </Warning>
 
 
       <Tabs>
+
+      <Tab specialization="Firebrand" title="Firebrand">
+
+
+      ### **Phase 1**
+
+
+      - Cast <Skill name="tome of justice"/> skill 4 and 5 before the encounter starts
+
+
+      - Cast <Skill name="symbolofblades"/> slightly before the encounter starts
+
+
+      - Use <Skill name="swordofjustice"/>
+
+
+      - <Skill name="zealotsdefense"/>
+
+
+      - <Skill name="ray of judgment"/>
+
+
+      - <Skill name="shield of wrath"/>
+
+
+      - Weapon swap
+
+
+      - Use <Skill name="banesignet"/> to CC
+
+
+      - <Skill name="Symbol of Resolution"/>
+
+
+      - <Skill name="whirling wrath"/>
+
+
+      ### _Split Phase 1_
+
+
+      - Use <Skill name="swordofjustice"/> for <Condition name="vulnerability"/> and damage
+
+
+      - Feel free to use <Skill name="leapoffaith"/>
+
+
+      - Auto attack
+
+
+      ### **Phase 2**
+
+
+      - <Skill name="sword of justice"/>
+
+
+      - <Skill name="Symbol of Resolution"/>
+
+
+      - <Skill name="whirling wrath"/>
+
+
+      - Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
+
+
+      - Weapon swap
+
+
+      - <Skill name="symbolofblades"/>
+
+
+      - <Skill name="zealotsdefense"/>
+
+
+      - Share Aegis to block the red AoE
+
+
+      ### _Split Phase 2_
+
+
+      - Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
+
+
+      - Help by using <Skill name="ray of judgment"/> on your add
+
+
+      ### **Phase 3**
+
+
+      - Precast <Skill name="banesignet"/>
+
+
+      - Use <Skill name="sword of justice"/>
+
+
+      - <Skill name="symbolofblades"/>
+
+
+      - <Skill name="zealotsdefense"/>
+
+
+      - <Skill name="shield of wrath"/>
+
+
+      - Weapon swap
+
+
+      - <Skill name="Symbol of Resolution"/>
+
+
+      - <Skill name="whirling wrath"/>
+
+
+      - Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
+
+
+      </Tab>
 
       <Tab specialization="Dragonhunter" title="Dragonhunter">
 
@@ -274,145 +384,13 @@ sections:
 
       </Tab>
 
-
-      <Tab specialization="Guardian" title="Core">
-
-      <Warning>
-
-      <Specialization text="Core Guardian" name="Guardian"/> can be very tricky as its dps is heavily influenced on how you can keep your <Boon name="Aegis"/>. If you are unable to keep your <Boon name="Aegis"/>, <Specialization name="Dragonhunter"/> will perform much better.
-
-      </Warning>
-
-
-      ### **Phase 1**
-
-
-      - <Skill name="symbol of blades"/>
-
-
-      - <Skill name="sword of justice"/>
-
-
-      - <Skill name="ray of judgment"/>
-
-
-      - <Skill name="shield of wrath"/>
-
-
-      - <Skill name="virtue of justice"/>
-
-
-      - <Skill name="zealots defense"/>
-
-
-      - <Skill name="banesignet"/>
-
-
-      - <Skill name="symbol of blades"/>
-
-
-      - <Skill name="whirling wrath"/>
-
-
-      ### _Split 1_
-
-
-      - you should help your <Specialization name="Weaver"/> on the north
-
-
-      - Feel free to use <Skill name="leapoffaith"/>
-
-
-      - Auto attack
-
-
-      ### **Phase 2**
-
-
-      - <Skill name="sword of justice"/>
-
-
-      - <Skill name="Symbol of Resolution"/>
-
-
-      - <Skill name="virtue of resolve"/>
-
-
-      - <Skill name="whirling wrath"/>
-
-
-      - Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
-
-
-      - Weapon swap
-
-
-      - <Skill name="symbol of blades"/>
-
-
-      - <Skill name="zealots defense"/>
-
-
-      Keep in mind that if your group is not fast enough, you need to use <Skill name="virtue of courage"/> for <Boon name="Aegis"/>.
-
-
-      ### _Split 2_
-
-
-      - you should help both <Specialization name="Weaver"/> and <Specialization name="Soulbeast"/> with their adds
-
-
-      - Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
-
-
-      - Help <Specialization name="Weaver"/> by using <Skill name="symbol of blades"/> and/or <Skill name="ray of judgment"/> on his add
-
-
-      - You can run <Skill name="judges intervention"/> to get back to Siax fast
-
-
-      ### **Phase 3**
-
-
-      - Precast <Skill name="banesignet"/>
-
-
-      - Use <Skill name="sword of justice"/>
-
-
-      - <Skill name="feelmywrath"/>
-
-
-      - <Skill name="virtue of justice"/>
-
-
-      - <Skill name="zealots defense"/>
-
-
-      - <Skill name="shield of wrath"/>
-
-
-      - Weapon swap
-
-
-      - <Skill name="Symbol of Resolution"/>
-
-
-      - <Skill name="whirling wrath"/>
-
-
-      - Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
-
-
-      </Tab>
-
       </Tabs>
   - content: >-
       <Boss name="Skorvald" video="l3c5DxfiX14" videoCreator="Princeps [dT]"
       foodId="43360" utilityId="73191" healId="41714" utility1Id="40915"
       utility2Id="9168" utility3Id="9093" elite="mantraofliberation"
       weapon1MainAffix="Berserker" weapon1MainType="Greatsword"
-      weapon1MainSigil1="force" weapon1MainSigil2="Impact"
+      weapon1MainSigil1="Force" weapon1MainSigil2="Impact"
       weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker"
       weapon2OffType="Focus" weapon2OffSigil="Force"
       weapon2OffInfusionId="37131" weapon2MainAffix="Berserker"
@@ -884,10 +862,10 @@ disableBosses:
   - LightAi
   - DarkAi
   - Ensolyss
-date: 2021-10-23T10:38:22.222Z
+date: 2021-11-27T20:11:43.467Z
 ---
 
-<Boss name="Arkk" video="BzokxHx0ufM" timestamp="135" videoCreator="Ganny [dT]" foodId="91805" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+<Boss name="Arkk" video="gvgezfhaAE4" timestamp="" videoCreator="Danni [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 - Play scepter on this encounter
 
