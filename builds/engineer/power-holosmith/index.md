@@ -267,7 +267,7 @@ sections:
       </Grid>
   - type: mdx
     title: Rotation/Skill Usage
-    content: ''
+    content: ""
 rating: Good
 role: Power Damage
 author: Ascers.6082
@@ -278,22 +278,22 @@ conditions:
   - Blinded
   - Crippled
   - Immobile
-code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: 2021-11-03T12:19:55.362Z
+date: 2021-11-29T16:13:47.148Z
 ---
 
 <Grid>
 <GridItem sm="6">
 <Card title="Rotation">
 
-1.  **Preheat to 90%**
+1.  **Preheat to 90**
 
 2.  <Skill name="Laser Disk" profession="Engineer"/>
 
@@ -368,7 +368,7 @@ date: 2021-11-03T12:19:55.362Z
 
 <Card title="Pre-Casting">
 
-- Make sure that you will start the fight on your desired Heat (usually 90%).
+- Make sure that you will start the fight on your desired Heat (usually 90).
 - You want to make sure to always at least pre-cast <Skill name="Laser Disk"/> before taking the singularity.
 - You can either swap utility skills manually or via template. Make sure to have the same traits in both templates selected if you choose the template route.
 - If this is taken care of, you can do the following extra pre-casts:
