@@ -1,6 +1,6 @@
 ---
 title: Fractal Basics
-date: 2021-12-07T17:07:47.688Z
+date: 2021-12-07T17:08:27.784Z
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -8,7 +8,7 @@ author: Princeps.6481 and Mistlocked [FotM]
 
 ## Introduction to fractals
 
-Fractals of the mists, frequently called "fracs" are 5-man repeatable endgame dungeon-like instances with a large scale of difficulty and rewards. There are 100 levels that are structured into 4 different tiers, each consisting out of 25 levels. You can find the portal entrance to fractals in Fort Marriner in Lions Arch. There are no gear requirements for tier 1 fractals, allowing anybody to try fractals out.
+Fractals of the mists, frequently called "fracs" are 5-man repeatable endgame dungeon-like instances with a large scale of difficulty and rewards. There are 100 levels that are structured into 4 different tiers, each consisting of 25 levels. You can find the portal entrance to fractals in Fort Marriner in Lions Arch. There are no gear requirements for tier 1 fractals, allowing anybody to try fractals out.
 
 As you move up in fractal level, the content becomes more difficult – but also more rewarding.
 
