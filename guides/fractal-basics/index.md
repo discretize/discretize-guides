@@ -1,6 +1,6 @@
 ---
 title: Fractal Basics
-date: 2021-12-07T17:08:27.784Z
+date: 2021-12-07T17:09:26.074Z
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -8,9 +8,11 @@ author: Princeps.6481 and Mistlocked [FotM]
 
 ## Introduction to fractals
 
-Fractals of the mists, frequently called "fracs" are 5-man repeatable endgame dungeon-like instances with a large scale of difficulty and rewards. There are 100 levels that are structured into 4 different tiers, each consisting of 25 levels. You can find the portal entrance to fractals in Fort Marriner in Lions Arch. There are no gear requirements for tier 1 fractals, allowing anybody to try fractals out.
+Fractals of the mists, frequently called "fracs" are 5-man repeatable endgame dungeon-like instances with a large scale of difficulty and rewards. There are 100 levels that are structured into 4 different tiers, each consisting of 25 levels. 
 
 As you move up in fractal level, the content becomes more difficult – but also more rewarding.
+
+You can find the portal entrance to fractals in Fort Marriner in Lions Arch. There are no gear requirements for tier 1 fractals, allowing anybody to try fractals out.
 
 Starting atlevel 20, players need to deal with <Effect name="Agony"/> which requires increasing amounts of <Attribute name="Agony Resistance"/> to counter effectively as you move up in fractal level. Without enough <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
 
