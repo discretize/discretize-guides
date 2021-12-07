@@ -1,6 +1,6 @@
 ---
 title: Fractal Basics
-date: 2021-12-07T17:09:26.074Z
+date: 2021-12-07T17:26:16.744Z
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -78,7 +78,7 @@ This invariably leads to a META or "best" way to tackle these encounters, explai
 
 While there are no hard-set rules or things you "must" bring to clear an encounter, finding the best way your character can strengthen and serve the group as you learn can help make fractals more enjoyable and satisfying to play for both yourself and your party.
 
-Learn more about your character and what you can bring to a group by reading [What should I Play? ](/what-should-i-play) 
+Learn more about your character and what you can bring to a group by reading [What Should I Play? ](/what-should-i-play) 
 
 | Tier | max. required <Attribute name="Agony Resistance"/> | Instabilities | Description                                                                                                                                                                                                                                                                                                             |
 | ---- | -------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
