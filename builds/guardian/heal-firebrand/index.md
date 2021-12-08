@@ -172,7 +172,7 @@ sections:
 
       | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-      | <Skill name="Bane Signet" size="big" disableText/> | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Power"/> through <Trait name="Perfect Inscriptions"/>. Provides good instant CC.
+      | <Skill name="Bane Signet" size="big" disableText/> | Can be run with Radiance in Power-based groups to share 216 <Attribute name="Power"/> through <Trait name="Perfect Inscriptions"/>. Provides good instant CC.
 
       | <Skill name="Signet of Wrath" size="big" disableText/>       | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Condition Damage"/> through <Trait name="Perfect Inscriptions"/>. |
 
@@ -657,7 +657,7 @@ classification:
   - 3
   - 1
   - 2
-date: 2021-11-11T14:12:00.965Z
+date: 2021-11-29T16:15:34.948Z
 ---
 
 <Divider text="Videos" />
