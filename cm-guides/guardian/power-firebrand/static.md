@@ -29,68 +29,90 @@ sections:
 
       \        </Information>\r
 
-      \        There are two main approaches to precasting on MAMA, you
-      can precast your <Skill name=\"tome of justice\"/> or you can stack
+      \        <InformationBlock>\r
+
+      \            As a firebrand your job during this encounter, besides
+      helping with CC and dps, is to upkeep <Boon name=\"quickness\"/>. You also
+      wnat to help out by supplying <Boon name=\"Aegis\"/> and <Boon
+      name=\"Stability\"/> on demand. \r
+
+      \            \r
+
+      \            The precast supplies you and your group with a lot of
+      <Boon name=\"Quickness\"/> from the get-go, so you can focus on using
+      <Skill name=\"Mantra of Solace\"/> to negate MAMAs spin attacks with <Boon
+      name=\"Aegis\"/>\r
+
+      \        </InformationBlock>\r
+
+      \        <InformationBlock title=\"Precasting\">\r
+
+      \            There are two main approaches to precasting on MAMA,
+      you can precast your <Skill name=\"tome of justice\"/> or you can stack
       symbols.\r
 
-      \        These approaches have a slightly different opener, the
+      \            These approaches have a slightly different opener, the
       rotation seen here is written with the symbol-stack in mind.\r
 
-      \        <Tabs>\r
+      \            <Tabs>\r
 
-      \            <Tab title=\"Symbol stacking\">\r
+      \                <Tab title=\"Symbol stacking\">\r
 
-      \                The goal is to place as many symbols as possible
-      before the boss becomes vulnerable.                \r
+      \                    The goal is to place as many symbols as
+      possible before the boss becomes vulnerable.                \r
 
-      \                If you decide to precast symbols keep in mind the
-      priority order: Mace > Scepter > Sw > Staff. If you have difficulties
+      \                    If you decide to precast symbols keep in mind
+      the priority order: Mace > Scepter > Sw > Staff. If you have difficulties
       placing them all, you can drop the staff symbol.\r
 
       \r
 
-      \                Symbol precast shown in the example video:\r
+      \                    Symbol precast shown in the example video:\r
 
-      \                1. Mace <Skill name=\"Symbol of Faith\"/>\r
+      \                    1. Mace <Skill name=\"Symbol of Faith\"/>\r
 
-      \                1. Scepter <Skill name=\"Symbol of Punishment\"/>\r
+      \                    1. Scepter <Skill name=\"Symbol of
+      Punishment\"/>\r
 
-      \                1. Focus <Skill name=\"shieldofwrath\"/>\r
+      \                    1. Focus <Skill name=\"shieldofwrath\"/>\r
 
-      \                1. Sword <Skill name=\"Symbol of Blades\"/>\r
+      \                    1. Sword <Skill name=\"Symbol of Blades\"/>\r
 
-      \                1. Staff <Skill name=\"Symbol of Swiftness\"/>\r
+      \                    1. Staff <Skill name=\"Symbol of
+      Swiftness\"/>\r
 
-      \                1. _swap gear template_ and do your opener\r
+      \                    1. _swap gear template_ and do your opener\r
 
-      \                <Warning>\r
+      \                    <Warning>\r
 
-      \                    Note that you have to position yourself
+      \                        Note that you have to position yourself
       correctly so the symbols don't put you in combat before are finished.\r
 
-      \                </Warning>\r
+      \                    </Warning>\r
 
-      \            </Tab>\r
+      \                </Tab>\r
 
-      \            <Tab title=\"Tome opener\">\r
+      \                <Tab title=\"Tome opener\">\r
 
-      \                - Start on sword set\r
+      \                    - Start on sword set\r
 
-      \                - Cast <Skill name=\"tome of
+      \                    - Cast <Skill name=\"tome of
       justice\"/><br/><TomeSkill
       name=\"chapterscorchedaftermath\"/><br/><TomeSkill
       name=\"epilogueashesofthejust\"/>\r
 
-      \                - <Skill name=\"Symbolofblades\"/>\r
+      \                    - <Skill name=\"Symbolofblades\"/>\r
 
-      \                - <Skill name=\"shieldofwrath\"/> \r
+      \                    - <Skill name=\"shieldofwrath\"/> \r
 
-      \                - weaponswap to place <Skill name=\"Symbol of
+      \                    - weaponswap to place <Skill name=\"Symbol of
       Resolution\"/> while she is still invulnerable.\r
 
-      \            </Tab>\r
+      \                </Tab>\r
 
-      \        </Tabs>\r
+      \            </Tabs>\r
+
+      \        </InformationBlock>\r
 
       \    </CMInformation>\r
 
@@ -177,8 +199,6 @@ sections:
       \            </CMInformation>\r
 
       \            <IdealRotation title=\"Knight 2\">\r
-
-      \                1. <Skill name=\"Ray of Judgment\"/>\r
 
       \                1. <Skill name=\"Sword of Wrath\"/><br/><Skill
       name=\"Sword Arc\"/><br/><Skill name=\"Sword Wave\"/>\r
@@ -305,8 +325,6 @@ sections:
       \            </CMInformation>\r
 
       \            <IdealRotation title=\"Knight 2\">\r
-
-      \                1. <Skill name=\"Ray of Judgment\"/>\r
 
       \                1. <Skill name=\"Sword of Wrath\"/><br/><Skill
       name=\"Sword Arc\"/><br/><Skill name=\"Sword Wave\"/>\r
@@ -1485,5 +1503,5 @@ disableBosses:
   - LightAi
   - DarkAi
   - Ensolyss
-date: 2021-12-16T16:15:12.602Z
+date: 2021-12-17T12:35:45.176Z
 ---
