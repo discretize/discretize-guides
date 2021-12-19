@@ -17,388 +17,560 @@ sections:
 
       \r
 
-      <Phase>\r
-
-      \    <CMInformation title=\"Overview\">\r
-
-      \        <Information> \r
-
-      \            The cc schedule for this fight varies depending on
-      teamcomp. Check out the [CC Distribution](/guides/cc-distribution/) page
-      for more details.\r
-
-      \        </Information>\r
-
-      \        <InformationBlock>\r
-
-      \            As a firebrand your job during this encounter, besides
-      helping with CC and dps, is to upkeep <Boon name=\"quickness\"/>. You also
-      wnat to help out by supplying <Boon name=\"Aegis\"/> and <Boon
-      name=\"Stability\"/> on demand. \r
-
-      \            \r
-
-      \            The precast supplies you and your group with a lot of
-      <Boon name=\"Quickness\"/> from the get-go, so you can focus on using
-      <Skill name=\"Mantra of Solace\"/> to negate MAMAs spin attacks with <Boon
-      name=\"Aegis\"/>\r
-
-      \        </InformationBlock>\r
-
-      \        <InformationBlock title=\"Precasting\">\r
-
-      \            There are two main approaches to precasting on MAMA,
-      you can precast your <Skill name=\"tome of justice\"/> or you can stack
-      symbols.\r
-
-      \            These approaches have a slightly different opener, the
-      rotation seen here is written with the symbol-stack in mind.\r
-
-      \            <Tabs>\r
-
-      \                <Tab title=\"Symbol stacking\">\r
-
-      \                    The goal is to place as many symbols as
-      possible before the boss becomes vulnerable.                \r
-
-      \                    If you decide to precast symbols keep in mind
-      the priority order: Mace > Scepter > Sw > Staff. If you have difficulties
-      placing them all, you can drop the staff symbol.\r
+      <Phase> \r
 
       \r
 
-      \                    Symbol precast shown in the example video:\r
+      <CMInformation title=\"Overview\">\r
 
-      \                    1. Mace <Skill name=\"Symbol of Faith\"/>\r
+      \r
 
-      \                    1. Scepter <Skill name=\"Symbol of
-      Punishment\"/>\r
+      <Information> \r
 
-      \                    1. Focus <Skill name=\"shieldofwrath\"/>\r
+      \r
 
-      \                    1. Sword <Skill name=\"Symbol of Blades\"/>\r
+      The cc schedule for this fight varies depending on teamcomp. Check
+      out the [CC Distribution](/guides/cc-distribution/) page for more
+      details.\r
 
-      \                    1. Staff <Skill name=\"Symbol of
-      Swiftness\"/>\r
+      \r
 
-      \                    1. _swap gear template_ and do your opener\r
+      </Information>\r
 
-      \                    <Warning>\r
+      \r
 
-      \                        Note that you have to position yourself
-      correctly so the symbols don't put you in combat before are finished.\r
+      <InformationBlock>\r
 
-      \                    </Warning>\r
+      \r
 
-      \                </Tab>\r
+      As a firebrand your job during this encounter, besides helping with
+      CC and dps, is to upkeep <Boon name=\"quickness\"/>. You also wnat to help
+      out by supplying <Boon name=\"Aegis\"/> and <Boon name=\"Stability\"/> on
+      demand. \r
 
-      \                <Tab title=\"Tome opener\">\r
+      \r
 
-      \                    - Start on sword set\r
+      The precast supplies you and your group with a lot of <Boon
+      name=\"Quickness\"/> from the get-go, so you can focus on using <Skill
+      name=\"Mantra of Solace\"/> to negate MAMAs spin attacks with <Boon
+      name=\"Aegis\"/>\r
 
-      \                    - Cast <Skill name=\"tome of
-      justice\"/><br/><TomeSkill
-      name=\"chapterscorchedaftermath\"/><br/><TomeSkill
-      name=\"epilogueashesofthejust\"/>\r
+      \r
 
-      \                    - <Skill name=\"Symbolofblades\"/>\r
+      </InformationBlock>\r
 
-      \                    - <Skill name=\"shieldofwrath\"/> \r
+      \r
 
-      \                    - weaponswap to place <Skill name=\"Symbol of
-      Resolution\"/> while she is still invulnerable.\r
+      <InformationBlock title=\"Precasting\">\r
 
-      \                </Tab>\r
+      \r
 
-      \            </Tabs>\r
+      There are two main approaches to precasting on MAMA, you can precast
+      your <Skill name=\"tome of justice\"/> or you can stack symbols.\r
 
-      \        </InformationBlock>\r
+      These approaches have a slightly different opener, the rotation seen
+      here is written with the symbol-stack in mind.\r
 
-      \    </CMInformation>\r
-
-      \    <IdealRotation title=\"Prestack\">\r
-
-      \        1.  Blast a fire field to generate <Boon name=\"Might\"/>
-      (<Skill name=\"Hallowed Ground\"/>  or <TomeSkill
-      name=\"chapterscorchedaftermath\"/>+<Skill name=\"saveyourselves\"/> for
-      <Boon name=\"Resolution\"/> uptime)\r
-
-      \        1.  <Skill name=\"Feelmywrath\"/>, <Skill name=\"mantra of
-      potence\"/> and <Skill name=\"mantra of solace\"/> to generate <Boon
-      name=\"Quickness\"/>\r
-
-      \        1.  <Skill name=\"BaneSignet\"/>\r
-
-      \        1.  Take the _Mistlock Singularity_ and move to the boss\r
-
-      \    </IdealRotation>\r
-
-      </Phase>\r
-
-      <br/>\r
+      \r
 
       <Tabs>\r
 
-      \    <Tab title=\"Double Soulbeast comp\">\r
+      \r
 
-      \        <Phase>\r
+      <Tab title=\"Symbol stacking\">\r
 
-      \            <CMInformation title=\"Phase 1\">\r
+      \r
 
-      \                1. Precast\r
+      The goal is to place as many symbols as possible before the boss
+      becomes vulnerable.                \r
 
-      \                1. <Skill name=\"sword of justice\"/>\r
+      If you decide to precast symbols keep in mind the priority order:
+      Mace > Scepter > Sw > Staff. If you have difficulties placing them all,
+      you can drop the staff symbol.\r
 
-      \                1. <Skill name=\"Symbol of Resolution\"/>\r
+      \r
 
-      \                1. <Skill name=\"bane signet\"/>\r
+      Symbol precast shown in the example video:\r
 
-      \                1. <Skill name=\"Whirling Wrath\"/>\r
+      1. Mace <Skill name=\"Symbol of Faith\"/>\r
 
-      \                1. <Skill name=\"leap of faith\"/>\r
+      1. Scepter <Skill name=\"Symbol of Punishment\"/>\r
 
-      \            </CMInformation>\r
+      1. Focus <Skill name=\"shieldofwrath\"/>\r
 
-      \            <IdealRotation title=\"Knight 1\">\r
+      1. Sword <Skill name=\"Symbol of Blades\"/>\r
 
-      \                1. <Skill name=\"swordofjustice\"/>\r
+      1. Staff <Skill name=\"Symbol of Swiftness\"/>\r
 
-      \                1. <Skill name=\"Binding Blade\"/><br/><Skill
-      name=\"pull\"/>\r
+      1. _swap gear template_ and do your opener\r
 
-      \                1. <Skill name=\"Strike\"/><br/><Skill
-      name=\"Vengeful Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
+      \r
 
-      \            </IdealRotation>\r
+      <Warning>\r
 
-      \        </Phase>\r
+      \r
 
-      \        <Phase>\r
+      Note that you have to position yourself correctly so the symbols
+      don't put you in combat before are finished.\r
 
-      \            <CMInformation title=\"Phase 2\">\r
+      \r
 
-      \                1. <Skill name=\"sword of justice\"/> \r
+      </Warning>\r
 
-      \                1. <TomeSkill name=\"chapterscorchedaftermath\"/>\r
+      \r
 
-      \                1. <Skill name=\"Symbol of Resolution\"/>\r
+      </Tab>\r
 
-      \                1. <Skill name=\"Whirling Wrath\"/>\r
+      \r
 
-      \                1. <Skill name=\"Ray of Judgment\"/>\r
+      <Tab title=\"Tome opener\">\r
 
-      \                1. <Skill name=\"Symbol of Blades\"/>\r
+      \r
 
-      \                1. <Skill name=\"zealots defense\"/>\r
+      - Start on sword set\r
 
-      \                \r
+      - Cast <Skill name=\"tome of justice\"/><br/><TomeSkill
+      name=\"chapterscorchedaftermath\"/><br/><TomeSkill
+      name=\"epilogueashesofthejust\"/>\r
 
-      \                if Mama is about to phase (50% HP), keep <Skill
-      name=\"zealots defense\"/> for either the add, or better, for phase 3\r
+      - <Skill name=\"Symbolofblades\"/>\r
 
-      \            </CMInformation>\r
+      - <Skill name=\"shieldofwrath\"/> \r
 
-      \            <IdealRotation title=\"Knight 2\">\r
+      - weaponswap to place <Skill name=\"Symbol of Resolution\"/> while
+      she is still invulnerable.\r
 
-      \                1. <Skill name=\"Sword of Wrath\"/><br/><Skill
-      name=\"Sword Arc\"/><br/><Skill name=\"Sword Wave\"/>\r
+      \r
 
-      \            </IdealRotation>\r
+      </Tab>\r
 
-      \        </Phase>\r
+      \r
 
-      \        <Phase>\r
+      </Tabs>\r
 
-      \            <CMInformation title=\"Phase 3\">\r
+      \r
 
-      \                1. <Skill name=\"swordofjustice\"/>\r
+      </InformationBlock>\r
 
-      \                1. <Skill name=\"bane signet\"/>\r
+      \r
 
-      \                1. <Skill name=\"Symbol of Blades\"/>\r
+      </CMInformation>\r
 
-      \                1. <Skill name=\"zealots defense\"/>\r
+      \r
 
-      \                1. <Skill name=\"Symbol of Resolution\"/>\r
+      <IdealRotation title=\"Prestack\">\r
 
-      \                1. <Skill name=\"Whirling Wrath\"/>\r
+      \r
 
-      \            </CMInformation>\r
+      1.  Blast a fire field to generate <Boon name=\"Might\"/> (<Skill
+      name=\"Hallowed Ground\"/>  or <TomeSkill
+      name=\"chapterscorchedaftermath\"/>+<Skill name=\"saveyourselves\"/> for
+      <Boon name=\"Resolution\"/> uptime)\r
 
-      \            <IdealRotation title=\"Knight 3\">\r
+      1.  <Skill name=\"Feelmywrath\"/>, <Skill name=\"mantra of
+      potence\"/> and <Skill name=\"mantra of solace\"/> to generate <Boon
+      name=\"Quickness\"/>\r
 
-      \                1. <Skill name=\"Binding Blade\"/><br/><Skill
-      name=\"pull\"/>\r
+      1.  <Skill name=\"BaneSignet\"/>\r
 
-      \                1. <Skill name=\"Strike\"/><br/><Skill
-      name=\"Vengeful Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
+      1.  Take the _Mistlock Singularity_ and move to the boss\r
 
-      \                1.  <Skill name=\"Feelmywrath\"/>\r
+      \r
 
-      \            </IdealRotation>\r
+      </IdealRotation>\r
 
-      \        </Phase>\r
+      \r
 
-      \        <Phase>\r
+      </Phase>\r
 
-      \            <CMInformation title=\"Phase 4\">\r
+      \r
 
-      \                For the final phase you want to drop some <Boon
-      name=\"Stability\"/> from <Skill name=\"tome of courage\"/> as well as
-      dropping a <TomeSkill name=\"chapterscorchedaftermath\"/> from <Skill
-      name=\"tome of justice\"/> for stacking <Boon name=\"Might\"/> before MAMA
-      reaches the party (Ideally right when the third add dies)\r
+      <br/>\r
 
-      \                1. <Skill name=\"swordofjustice\"/>\r
+      \r
 
-      \                1. <Skill name=\"Symbol of Resolution\"/>\r
+      <Tabs>\r
 
-      \                1. <Skill name=\"Whirling Wrath\"/>\r
+      \r
 
-      \                if the boss is not dead use what you have on your
-      sword set.\r
+      <Tab title=\"Double Soulbeast comp\">\r
 
-      \                1. <Skill name=\"Ray of Judgment\"/>\r
+      \r
 
-      \                1. <Skill name=\"zealots defense\"/>\r
+      <Phase>\r
 
-      \                1. <Skill name=\"Symbol of Blades\"/>\r
+      \r
 
-      \            </CMInformation>\r
+      <CMInformation title=\"Phase 1\">\r
 
-      \        </Phase>\r
+      \r
 
-      \    </Tab> \r
+      1. Precast\r
 
-      \    <Tab title=\"Double Guardian comp\">\r
+      1. <Skill name=\"sword of justice\"/>\r
 
-      \        <Phase>\r
+      1. <Skill name=\"Symbol of Resolution\"/>\r
 
-      \            <CMInformation title=\"Phase 1\">\r
+      1. <Skill name=\"bane signet\"/>\r
 
-      \                1. Precast\r
+      1. <Skill name=\"Whirling Wrath\"/>\r
 
-      \                1. <Skill name=\"sword of justice\"/>\r
+      1. <Skill name=\"leap of faith\"/>\r
 
-      \                1. <Skill name=\"Symbol of Resolution\"/>\r
+      \r
 
-      \                1. <Skill name=\"bane signet\"/>\r
+      </CMInformation>\r
 
-      \                1. <Skill name=\"Whirling Wrath\"/>\r
+      \r
 
-      \                1. <Skill name=\"leap of faith\"/>\r
+      <IdealRotation title=\"Knight 1\">\r
 
-      \            </CMInformation>\r
+      \r
 
-      \            <IdealRotation title=\"Knight 1\">\r
+      1. <Skill name=\"swordofjustice\"/>\r
 
-      \                1. <Skill name=\"swordofjustice\"/>\r
+      1. <Skill name=\"Binding Blade\"/><br/><Skill name=\"pull\"/>\r
 
-      \                1. <Skill name=\"Strike\"/><br/><Skill
-      name=\"Vengeful Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
+      1. <Skill name=\"Strike\"/><br/><Skill name=\"Vengeful
+      Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
 
-      \            </IdealRotation>\r
+      \r
 
-      \        </Phase>\r
+      </IdealRotation>\r
 
-      \        <Phase>\r
+      \r
 
-      \            <CMInformation title=\"Phase 2\">\r
+      </Phase>\r
 
-      \                1. <Skill name=\"sword of justice\"/> \r
+      \r
 
-      \                1. <Skill name=\"Symbol of Resolution\"/>\r
+      <Phase>\r
 
-      \                1. <Skill name=\"Whirling Wrath\"/>\r
+      \r
 
-      \                1. <Skill name=\"Ray of Judgment\"/>\r
+      <CMInformation title=\"Phase 2\">\r
 
-      \                1. <Skill name=\"Symbol of Blades\"/>\r
+      \r
 
-      \                1. <Skill name=\"zealots defense\"/>\r
+      1. <Skill name=\"sword of justice\"/> \r
 
-      \                \r
+      1. <TomeSkill name=\"chapterscorchedaftermath\"/>\r
 
-      \                if Mama is about to phase (50% HP), keep <Skill
-      name=\"zealots defense\"/> for either the add, or better, for phase 3\r
+      1. <Skill name=\"Symbol of Resolution\"/>\r
 
-      \            </CMInformation>\r
+      1. <Skill name=\"Whirling Wrath\"/>\r
 
-      \            <IdealRotation title=\"Knight 2\">\r
+      1. <Skill name=\"Ray of Judgment\"/>\r
 
-      \                1. <Skill name=\"Sword of Wrath\"/><br/><Skill
-      name=\"Sword Arc\"/><br/><Skill name=\"Sword Wave\"/>\r
+      1. <Skill name=\"Symbol of Blades\"/>\r
 
-      \            </IdealRotation>\r
+      1. <Skill name=\"zealots defense\"/>\r
 
-      \        </Phase>\r
+      \r
 
-      \        <Phase>\r
+      if Mama is about to phase (50% HP), keep <Skill name=\"zealots
+      defense\"/> for either the add, or better, for phase 3\r
 
-      \            <CMInformation title=\"Phase 3\">\r
+      \r
 
-      \                1. <TomeSkill name=\"ChapterHeatedRebuke\"/>\r
+      </CMInformation>\r
 
-      \                1. <Skill name=\"bane signet\"/>\r
+      \r
 
-      \                1. <Skill name=\"swordofjustice\"/>\r
+      <IdealRotation title=\"Knight 2\">\r
 
-      \                1. <Skill name=\"Symbol of Blades\"/>\r
+      \r
 
-      \                1. <Skill name=\"zealots defense\"/>\r
+      1. <Skill name=\"Sword of Wrath\"/><br/><Skill name=\"Sword
+      Arc\"/><br/><Skill name=\"Sword Wave\"/>\r
 
-      \                1. <Skill name=\"Symbol of Resolution\"/>\r
+      \r
 
-      \                1. <Skill name=\"Whirling Wrath\"/>\r
+      </IdealRotation>\r
 
-      \            </CMInformation>\r
+      \r
 
-      \            <IdealRotation title=\"Knight 3\">\r
+      </Phase>\r
 
-      \                1. <Skill name=\"Binding Blade\"/><br/><Skill
-      name=\"pull\"/>\r
+      \r
 
-      \                1. <Skill name=\"Strike\"/><br/><Skill
-      name=\"Vengeful Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
+      <Phase>\r
 
-      \                1.  <Skill name=\"Feelmywrath\"/>\r
+      \r
 
-      \            </IdealRotation>\r
+      <CMInformation title=\"Phase 3\">\r
 
-      \        </Phase>\r
+      \r
 
-      \        <Phase>\r
+      1. <Skill name=\"swordofjustice\"/>\r
 
-      \            <CMInformation title=\"Phase 4\">\r
+      1. <Skill name=\"bane signet\"/>\r
 
-      \                For the final phase you want to drop some <Boon
-      name=\"Stability\"/> from <Skill name=\"tome of courage\"/> as well as
-      dropping a <TomeSkill name=\"chapterscorchedaftermath\"/> from <Skill
-      name=\"tome of justice\"/> for stacking <Boon name=\"Might\"/> before MAMA
-      reaches the party (Ideally right when the third add dies). If your party
-      is a bit slow on the cc, you can also squeeze in a <TomeSkill
-      name=\"ChapterHeatedRebuke\"/>.\r
+      1. <Skill name=\"Symbol of Blades\"/>\r
 
-      \                1. <Skill name=\"swordofjustice\"/>\r
+      1. <Skill name=\"zealots defense\"/>\r
 
-      \                1. <Skill name=\"Symbol of Resolution\"/>\r
+      1. <Skill name=\"Symbol of Resolution\"/>\r
 
-      \                1. <Skill name=\"Whirling Wrath\"/>\r
+      1. <Skill name=\"Whirling Wrath\"/>\r
 
-      \                if the boss is not dead use what you have on your
-      sword set.\r
+      \r
 
-      \                1. <Skill name=\"Ray of Judgment\"/>\r
+      </CMInformation>\r
 
-      \                1. <Skill name=\"zealots defense\"/>\r
+      \r
 
-      \                1. <Skill name=\"Symbol of Blades\"/>\r
+      <IdealRotation title=\"Knight 3\">\r
 
-      \            </CMInformation>\r
+      \r
 
-      \        </Phase>\r
+      1. <Skill name=\"Binding Blade\"/><br/><Skill name=\"pull\"/>\r
 
-      \    </Tab>\r
+      1. <Skill name=\"Strike\"/><br/><Skill name=\"Vengeful
+      Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
+
+      1.  <Skill name=\"Feelmywrath\"/>\r
+
+      \r
+
+      </IdealRotation>\r
+
+      \r
+
+      </Phase>\r
+
+      \r
+
+      <Phase>\r
+
+      \r
+
+      <CMInformation title=\"Phase 4\">\r
+
+      \r
+
+      For the final phase you want to drop some <Boon name=\"Stability\"/>
+      from <Skill name=\"tome of courage\"/> as well as dropping a <TomeSkill
+      name=\"chapterscorchedaftermath\"/> from <Skill name=\"tome of justice\"/>
+      for stacking <Boon name=\"Might\"/> before MAMA reaches the party (Ideally
+      right when the third add dies)\r
+
+      1. <Skill name=\"swordofjustice\"/>\r
+
+      1. <Skill name=\"Symbol of Resolution\"/>\r
+
+      1. <Skill name=\"Whirling Wrath\"/>\r
+
+      if the boss is not dead use what you have on your sword set.\r
+
+      1. <Skill name=\"Ray of Judgment\"/>\r
+
+      1. <Skill name=\"zealots defense\"/>\r
+
+      1. <Skill name=\"Symbol of Blades\"/>\r
+
+      \r
+
+      </CMInformation>\r
+
+      \r
+
+      </Phase>\r
+
+      \r
+
+      </Tab> \r
+
+      \r
+
+      <Tab title=\"Double Guardian comp\">\r
+
+      \r
+
+      <Phase>\r
+
+      \r
+
+      <CMInformation title=\"Phase 1\">\r
+
+      \r
+
+      1. Precast\r
+
+      1. <Skill name=\"sword of justice\"/>\r
+
+      1. <Skill name=\"Symbol of Resolution\"/>\r
+
+      1. <Skill name=\"bane signet\"/>\r
+
+      1. <Skill name=\"Whirling Wrath\"/>\r
+
+      1. <Skill name=\"leap of faith\"/>\r
+
+      \r
+
+      </CMInformation>\r
+
+      \r
+
+      <IdealRotation title=\"Knight 1\">\r
+
+      \r
+
+      1. <Skill name=\"swordofjustice\"/>\r
+
+      1. <Skill name=\"Strike\"/><br/><Skill name=\"Vengeful
+      Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
+
+      \r
+
+      </IdealRotation>\r
+
+      \r
+
+      </Phase>\r
+
+      \r
+
+      <Phase>\r
+
+      \r
+
+      <CMInformation title=\"Phase 2\">\r
+
+      \r
+
+      1. <Skill name=\"sword of justice\"/> \r
+
+      1. <Skill name=\"Symbol of Resolution\"/>\r
+
+      1. <Skill name=\"Whirling Wrath\"/>\r
+
+      1. <Skill name=\"Ray of Judgment\"/>\r
+
+      1. <Skill name=\"Symbol of Blades\"/>\r
+
+      1. <Skill name=\"zealots defense\"/>\r
+
+      \r
+
+      if Mama is about to phase (50% HP), keep <Skill name=\"zealots
+      defense\"/> for either the add, or better, for phase 3\r
+
+      \r
+
+      </CMInformation>\r
+
+      \r
+
+      <IdealRotation title=\"Knight 2\">\r
+
+      \r
+
+      1. <Skill name=\"Sword of Wrath\"/><br/><Skill name=\"Sword
+      Arc\"/><br/><Skill name=\"Sword Wave\"/>\r
+
+      \r
+
+      </IdealRotation>\r
+
+      \r
+
+      </Phase>\r
+
+      \r
+
+      <Phase>\r
+
+      \r
+
+      <CMInformation title=\"Phase 3\">\r
+
+      \r
+
+      1. <TomeSkill name=\"ChapterHeatedRebuke\"/>\r
+
+      1. <Skill name=\"bane signet\"/>\r
+
+      1. <Skill name=\"swordofjustice\"/>\r
+
+      1. <Skill name=\"Symbol of Blades\"/>\r
+
+      1. <Skill name=\"zealots defense\"/>\r
+
+      1. <Skill name=\"Symbol of Resolution\"/>\r
+
+      1. <Skill name=\"Whirling Wrath\"/>\r
+
+      \r
+
+      </CMInformation>\r
+
+      \r
+
+      <IdealRotation title=\"Knight 3\">\r
+
+      \r
+
+      1. <Skill name=\"Binding Blade\"/><br/><Skill name=\"pull\"/>\r
+
+      1. <Skill name=\"Strike\"/><br/><Skill name=\"Vengeful
+      Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
+
+      1.  <Skill name=\"Feelmywrath\"/>\r
+
+      \r
+
+      </IdealRotation>\r
+
+      \r
+
+      </Phase>\r
+
+      \r
+
+      <Phase>\r
+
+      \r
+
+      <CMInformation title=\"Phase 4\">\r
+
+      \r
+
+      For the final phase you want to drop some <Boon name=\"Stability\"/>
+      from <Skill name=\"tome of courage\"/> as well as dropping a <TomeSkill
+      name=\"chapterscorchedaftermath\"/> from <Skill name=\"tome of justice\"/>
+      for stacking <Boon name=\"Might\"/> before MAMA reaches the party (Ideally
+      right when the third add dies). If your party is a bit slow on the cc, you
+      can also squeeze in a <TomeSkill name=\"ChapterHeatedRebuke\"/>.\r
+
+      1. <Skill name=\"swordofjustice\"/>\r
+
+      1. <Skill name=\"Symbol of Resolution\"/>\r
+
+      1. <Skill name=\"Whirling Wrath\"/>\r
+
+      if the boss is not dead use what you have on your sword set.\r
+
+      1. <Skill name=\"Ray of Judgment\"/>\r
+
+      1. <Skill name=\"zealots defense\"/>\r
+
+      1. <Skill name=\"Symbol of Blades\"/>\r
+
+      \r
+
+      </CMInformation>\r
+
+      \r
+
+      </Phase>\r
+
+      \r
+
+      </Tab>\r
+
+      \r
 
       </Tabs>"
     title: MAMA
@@ -1503,5 +1675,5 @@ disableBosses:
   - LightAi
   - DarkAi
   - Ensolyss
-date: 2021-12-17T12:35:45.176Z
+date: 2021-12-19T12:30:05.226Z
 ---
