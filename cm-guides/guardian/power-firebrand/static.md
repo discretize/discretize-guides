@@ -2,959 +2,954 @@
 title: Firebrand CM guide
 type: Static
 sections:
-  - content: "\r
+  - content: >-
+      <Boss name="mama" video="8tsjCFLxq-I" videoCreator="Zyp [dT]"
+      foodId="43360" utilityId="50082" healId="41714" utility1Id="40915"
+      utility2Id="9168" utility3Id="9093" eliteId="29965"
+      weapon1MainAffix="Berserker" weapon1MainType="Greatsword"
+      weapon1MainSigil1="force" weapon1MainSigil2="Impact"
+      weapon1MainInfusüion1Id="37131" weapon2OffAffix="Berserker"
+      weapon2OffType="Focus" weapon2OffSigil="Force"
+      weapon2OffInfusionId="37131" weapon2MainAffix="Berserker"
+      weapon2MainType="Sword" weapon2MainSigil1="Impact"
+      weapon2MainInfusion1Id="37131" hideNotes/>
 
-      <Boss name=\"mama\" video=\"8tsjCFLxq-I\" videoCreator=\"Zyp [dT]\"
-      foodId=\"43360\" utilityId=\"50082\" healId=\"41714\" utility1Id=\"40915\"
-      utility2Id=\"9168\" utility3Id=\"9093\" eliteId=\"29965\"
-      weapon1MainAffix=\"Berserker\" weapon1MainType=\"Greatsword\"
-      weapon1MainSigil1=\"force\" weapon1MainSigil2=\"Impact\"
-      weapon1MainInfusüion1Id=\"37131\" weapon2OffAffix=\"Berserker\"
-      weapon2OffType=\"Focus\" weapon2OffSigil=\"Force\"
-      weapon2OffInfusionId=\"37131\" weapon2MainAffix=\"Berserker\"
-      weapon2MainType=\"Sword\" weapon2MainSigil1=\"Impact\"
-      weapon2MainInfusion1Id=\"37131\" hideNotes/>\r
 
-      \r
 
-      <Phase> \r
+      <Phase> 
 
-      \r
 
-      <CMInformation title=\"Overview\">\r
 
-      \r
+      <CMInformation title="Overview">
 
-      <Information> \r
 
-      \r
+
+      <Information> 
+
+
 
       The cc schedule for this fight varies depending on teamcomp. Check
       out the [CC Distribution](/guides/cc-distribution/) page for more
-      details.\r
+      details.
 
-      \r
 
-      </Information>\r
 
-      \r
+      </Information>
 
-      <InformationBlock>\r
 
-      \r
+
+      <InformationBlock>
+
+
 
       As a firebrand your job during this encounter, besides helping with
-      CC and dps, is to upkeep <Boon name=\"quickness\"/>. You also wnat to help
-      out by supplying <Boon name=\"Aegis\"/> and <Boon name=\"Stability\"/> on
-      demand. \r
+      CC and dps, is to upkeep <Boon name="quickness"/>. You also wnat to help
+      out by supplying <Boon name="Aegis"/> and <Boon name="Stability"/> on
+      demand. 
 
-      \r
+
 
       The precast supplies you and your group with a lot of <Boon
-      name=\"Quickness\"/> from the get-go, so you can focus on using <Skill
-      name=\"Mantra of Solace\"/> to negate MAMAs spin attacks with <Boon
-      name=\"Aegis\"/>\r
+      name="Quickness"/> from the get-go, so you can focus on using <Skill
+      name="Mantra of Solace"/> to negate MAMAs spin attacks with <Boon
+      name="Aegis"/>
 
-      \r
 
-      </InformationBlock>\r
 
-      \r
+      </InformationBlock>
 
-      <InformationBlock title=\"Precasting\">\r
 
-      \r
+
+      <InformationBlock title="Precasting">
+
+
 
       There are two main approaches to precasting on MAMA, you can precast
-      your <Skill name=\"tome of justice\"/> or you can stack symbols.\r
+      your <Skill name="tome of justice"/> or you can stack symbols.
 
       These approaches have a slightly different opener, the rotation seen
-      here is written with the symbol-stack in mind.\r
+      here is written with the symbol-stack in mind.
 
-      \r
 
-      <Tabs>\r
 
-      \r
+      <Tabs>
 
-      <Tab title=\"Symbol stacking\">\r
 
-      \r
+
+      <Tab title="Symbol stacking">
+
+
 
       The goal is to place as many symbols as possible before the boss
-      becomes vulnerable.                \r
+      becomes vulnerable.                
 
       If you decide to precast symbols keep in mind the priority order:
       Mace > Scepter > Sw > Staff. If you have difficulties placing them all,
-      you can drop the staff symbol.\r
+      you can drop the staff symbol.
 
-      \r
 
-      Symbol precast shown in the example video:\r
 
-      1. Mace <Skill name=\"Symbol of Faith\"/>\r
+      Symbol precast shown in the example video:
 
-      1. Scepter <Skill name=\"Symbol of Punishment\"/>\r
+      1. Mace <Skill name="Symbol of Faith"/>
 
-      1. Focus <Skill name=\"shieldofwrath\"/>\r
+      1. Scepter <Skill name="Symbol of Punishment"/>
 
-      1. Sword <Skill name=\"Symbol of Blades\"/>\r
+      1. Focus <Skill name="shieldofwrath"/>
 
-      1. Staff <Skill name=\"Symbol of Swiftness\"/>\r
+      1. Sword <Skill name="Symbol of Blades"/>
 
-      1. _swap gear template_ and do your opener\r
+      1. Staff <Skill name="Symbol of Swiftness"/>
 
-      \r
+      1. _swap gear template_ and do your opener
 
-      <Warning>\r
 
-      \r
+
+      <Warning>
+
+
 
       Note that you have to position yourself correctly so the symbols
-      don't put you in combat before are finished.\r
+      don't put you in combat before are finished.
 
-      \r
 
-      </Warning>\r
 
-      \r
+      </Warning>
 
-      </Tab>\r
 
-      \r
 
-      <Tab title=\"Tome opener\">\r
+      </Tab>
 
-      \r
 
-      - Start on sword set\r
 
-      - Cast <Skill name=\"tome of justice\"/><br/><TomeSkill
-      name=\"chapterscorchedaftermath\"/><br/><TomeSkill
-      name=\"epilogueashesofthejust\"/>\r
+      <Tab title="Tome opener">
 
-      - <Skill name=\"Symbolofblades\"/>\r
 
-      - <Skill name=\"shieldofwrath\"/> \r
 
-      - weaponswap to place <Skill name=\"Symbol of Resolution\"/> while
-      she is still invulnerable.\r
+      - Start on sword set
 
-      \r
+      - Cast <Skill name="tome of justice"/><br/><TomeSkill
+      name="chapterscorchedaftermath"/><br/><TomeSkill
+      name="epilogueashesofthejust"/>
 
-      </Tab>\r
+      - <Skill name="Symbolofblades"/>
 
-      \r
+      - <Skill name="shieldofwrath"/> 
 
-      </Tabs>\r
+      - weaponswap to place <Skill name="Symbol of Resolution"/> while
+      she is still invulnerable.
 
-      \r
 
-      </InformationBlock>\r
 
-      \r
+      </Tab>
 
-      </CMInformation>\r
 
-      \r
 
-      <IdealRotation title=\"Prestack\">\r
+      </Tabs>
 
-      \r
 
-      1.  Blast a fire field to generate <Boon name=\"Might\"/> (<Skill
-      name=\"Hallowed Ground\"/>  or <TomeSkill
-      name=\"chapterscorchedaftermath\"/>+<Skill name=\"saveyourselves\"/> for
-      <Boon name=\"Resolution\"/> uptime)\r
 
-      1.  <Skill name=\"Feelmywrath\"/>, <Skill name=\"mantra of
-      potence\"/> and <Skill name=\"mantra of solace\"/> to generate <Boon
-      name=\"Quickness\"/>\r
+      </InformationBlock>
 
-      1.  <Skill name=\"BaneSignet\"/>\r
 
-      1.  Take the _Mistlock Singularity_ and move to the boss\r
 
-      \r
+      </CMInformation>
 
-      </IdealRotation>\r
 
-      \r
 
-      </Phase>\r
+      <IdealRotation title="Prestack">
 
-      \r
 
-      <br/>\r
 
-      \r
+      1.  Blast a fire field to generate <Boon name="Might"/> (<Skill
+      name="Hallowed Ground"/>  or <TomeSkill
+      name="chapterscorchedaftermath"/>+<Skill name="saveyourselves"/> for
+      <Boon name="Resolution"/> uptime)
 
-      <Tabs>\r
+      1.  <Skill name="Feelmywrath"/>, <Skill name="mantra of
+      potence"/> and <Skill name="mantra of solace"/> to generate <Boon
+      name="Quickness"/>
 
-      \r
+      1.  <Skill name="BaneSignet"/>
 
-      <Tab title=\"Double Soulbeast comp\">\r
+      1.  Take the _Mistlock Singularity_ and move to the boss
 
-      \r
 
-      <Phase>\r
 
-      \r
+      </IdealRotation>
 
-      <CMInformation title=\"Phase 1\">\r
 
-      \r
 
-      1. Precast\r
+      </Phase>
 
-      1. <Skill name=\"sword of justice\"/>\r
 
-      1. <Skill name=\"Symbol of Resolution\"/>\r
 
-      1. <Skill name=\"bane signet\"/>\r
+      <br/>
 
-      1. <Skill name=\"Whirling Wrath\"/>\r
 
-      1. <Skill name=\"leap of faith\"/>\r
 
-      \r
+      <Tabs>
 
-      </CMInformation>\r
 
-      \r
 
-      <IdealRotation title=\"Knight 1\">\r
+      <Tab title="Double Soulbeast comp">
 
-      \r
 
-      1. <Skill name=\"swordofjustice\"/>\r
 
-      1. <Skill name=\"Binding Blade\"/><br/><Skill name=\"pull\"/>\r
+      <Phase>
 
-      1. <Skill name=\"Strike\"/><br/><Skill name=\"Vengeful
-      Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
 
-      \r
 
-      </IdealRotation>\r
+      <CMInformation title="Phase 1">
 
-      \r
 
-      </Phase>\r
 
-      \r
+      1. Precast
 
-      <Phase>\r
+      1. <Skill name="sword of justice"/>
 
-      \r
+      1. <Skill name="Symbol of Resolution"/>
 
-      <CMInformation title=\"Phase 2\">\r
+      1. <Skill name="bane signet"/>
 
-      \r
+      1. <Skill name="Whirling Wrath"/>
 
-      1. <Skill name=\"sword of justice\"/> \r
+      1. <Skill name="leap of faith"/>
 
-      1. <TomeSkill name=\"chapterscorchedaftermath\"/>\r
 
-      1. <Skill name=\"Symbol of Resolution\"/>\r
 
-      1. <Skill name=\"Whirling Wrath\"/>\r
+      </CMInformation>
 
-      1. <Skill name=\"Ray of Judgment\"/>\r
 
-      1. <Skill name=\"Symbol of Blades\"/>\r
 
-      1. <Skill name=\"zealots defense\"/>\r
+      <IdealRotation title="Knight 1">
 
-      \r
 
-      if Mama is about to phase (50% HP), keep <Skill name=\"zealots
-      defense\"/> for either the add, or better, for phase 3\r
 
-      \r
+      1. <Skill name="swordofjustice"/>
 
-      </CMInformation>\r
+      1. <Skill name="Binding Blade"/><br/><Skill name="pull"/>
 
-      \r
+      1. <Skill name="Strike"/><br/><Skill name="Vengeful
+      Strike"/><br/><Skill name="Wrathful Strike"/>
 
-      <IdealRotation title=\"Knight 2\">\r
 
-      \r
 
-      1. <Skill name=\"Sword of Wrath\"/><br/><Skill name=\"Sword
-      Arc\"/><br/><Skill name=\"Sword Wave\"/>\r
+      </IdealRotation>
 
-      \r
 
-      </IdealRotation>\r
 
-      \r
+      </Phase>
 
-      </Phase>\r
 
-      \r
 
-      <Phase>\r
+      <Phase>
 
-      \r
 
-      <CMInformation title=\"Phase 3\">\r
 
-      \r
+      <CMInformation title="Phase 2">
 
-      1. <Skill name=\"swordofjustice\"/>\r
 
-      1. <Skill name=\"bane signet\"/>\r
 
-      1. <Skill name=\"Symbol of Blades\"/>\r
+      1. <Skill name="sword of justice"/> 
 
-      1. <Skill name=\"zealots defense\"/>\r
+      1. <TomeSkill name="chapterscorchedaftermath"/>
 
-      1. <Skill name=\"Symbol of Resolution\"/>\r
+      1. <Skill name="Symbol of Resolution"/>
 
-      1. <Skill name=\"Whirling Wrath\"/>\r
+      1. <Skill name="Whirling Wrath"/>
 
-      \r
+      1. <Skill name="Ray of Judgment"/>
 
-      </CMInformation>\r
+      1. <Skill name="Symbol of Blades"/>
 
-      \r
+      1. <Skill name="zealots defense"/>
 
-      <IdealRotation title=\"Knight 3\">\r
 
-      \r
 
-      1. <Skill name=\"Binding Blade\"/><br/><Skill name=\"pull\"/>\r
+      if Mama is about to phase (50% HP), keep <Skill name="zealots
+      defense"/> for either the add, or better, for phase 3
 
-      1. <Skill name=\"Strike\"/><br/><Skill name=\"Vengeful
-      Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
 
-      1.  <Skill name=\"Feelmywrath\"/>\r
 
-      \r
+      </CMInformation>
 
-      </IdealRotation>\r
 
-      \r
 
-      </Phase>\r
+      <IdealRotation title="Knight 2">
 
-      \r
 
-      <Phase>\r
 
-      \r
+      1. <Skill name="Sword of Wrath"/><br/><Skill name="Sword
+      Arc"/><br/><Skill name="Sword Wave"/>
 
-      <CMInformation title=\"Phase 4\">\r
 
-      \r
 
-      For the final phase you want to drop some <Boon name=\"Stability\"/>
-      from <Skill name=\"tome of courage\"/> as well as dropping a <TomeSkill
-      name=\"chapterscorchedaftermath\"/> from <Skill name=\"tome of justice\"/>
-      for stacking <Boon name=\"Might\"/> before MAMA reaches the party (Ideally
-      right when the third add dies)\r
+      </IdealRotation>
 
-      1. <Skill name=\"swordofjustice\"/>\r
 
-      1. <Skill name=\"Symbol of Resolution\"/>\r
 
-      1. <Skill name=\"Whirling Wrath\"/>\r
+      </Phase>
 
-      if the boss is not dead use what you have on your sword set.\r
 
-      1. <Skill name=\"Ray of Judgment\"/>\r
 
-      1. <Skill name=\"zealots defense\"/>\r
+      <Phase>
 
-      1. <Skill name=\"Symbol of Blades\"/>\r
 
-      \r
 
-      </CMInformation>\r
+      <CMInformation title="Phase 3">
 
-      \r
 
-      </Phase>\r
 
-      \r
+      1. <Skill name="swordofjustice"/>
 
-      </Tab> \r
+      1. <Skill name="bane signet"/>
 
-      \r
+      1. <Skill name="Symbol of Blades"/>
 
-      <Tab title=\"Double Guardian comp\">\r
+      1. <Skill name="zealots defense"/>
 
-      \r
+      1. <Skill name="Symbol of Resolution"/>
 
-      <Phase>\r
+      1. <Skill name="Whirling Wrath"/>
 
-      \r
 
-      <CMInformation title=\"Phase 1\">\r
 
-      \r
+      </CMInformation>
 
-      1. Precast\r
 
-      1. <Skill name=\"sword of justice\"/>\r
 
-      1. <Skill name=\"Symbol of Resolution\"/>\r
+      <IdealRotation title="Knight 3">
 
-      1. <Skill name=\"bane signet\"/>\r
 
-      1. <Skill name=\"Whirling Wrath\"/>\r
 
-      1. <Skill name=\"leap of faith\"/>\r
+      1. <Skill name="Binding Blade"/><br/><Skill name="pull"/>
 
-      \r
+      1. <Skill name="Strike"/><br/><Skill name="Vengeful
+      Strike"/><br/><Skill name="Wrathful Strike"/>
 
-      </CMInformation>\r
+      1.  <Skill name="Feelmywrath"/>
 
-      \r
 
-      <IdealRotation title=\"Knight 1\">\r
 
-      \r
+      </IdealRotation>
 
-      1. <Skill name=\"swordofjustice\"/>\r
 
-      1. <Skill name=\"Strike\"/><br/><Skill name=\"Vengeful
-      Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
 
-      \r
+      </Phase>
 
-      </IdealRotation>\r
 
-      \r
 
-      </Phase>\r
+      <Phase>
 
-      \r
 
-      <Phase>\r
 
-      \r
+      <CMInformation title="Phase 4">
 
-      <CMInformation title=\"Phase 2\">\r
 
-      \r
 
-      1. <Skill name=\"sword of justice\"/> \r
+      For the final phase you want to drop some <Boon name="Stability"/>
+      from <Skill name="tome of courage"/> as well as dropping a <TomeSkill
+      name="chapterscorchedaftermath"/> from <Skill name="tome of justice"/>
+      for stacking <Boon name="Might"/> before MAMA reaches the party (Ideally
+      right when the third add dies)
 
-      1. <Skill name=\"Symbol of Resolution\"/>\r
+      1. <Skill name="swordofjustice"/>
 
-      1. <Skill name=\"Whirling Wrath\"/>\r
+      1. <Skill name="Symbol of Resolution"/>
 
-      1. <Skill name=\"Ray of Judgment\"/>\r
+      1. <Skill name="Whirling Wrath"/>
 
-      1. <Skill name=\"Symbol of Blades\"/>\r
+      if the boss is not dead use what you have on your sword set.
 
-      1. <Skill name=\"zealots defense\"/>\r
+      1. <Skill name="Ray of Judgment"/>
 
-      \r
+      1. <Skill name="zealots defense"/>
 
-      if Mama is about to phase (50% HP), keep <Skill name=\"zealots
-      defense\"/> for either the add, or better, for phase 3\r
+      1. <Skill name="Symbol of Blades"/>
 
-      \r
 
-      </CMInformation>\r
 
-      \r
+      </CMInformation>
 
-      <IdealRotation title=\"Knight 2\">\r
 
-      \r
 
-      1. <Skill name=\"Sword of Wrath\"/><br/><Skill name=\"Sword
-      Arc\"/><br/><Skill name=\"Sword Wave\"/>\r
+      </Phase>
 
-      \r
 
-      </IdealRotation>\r
 
-      \r
+      </Tab> 
 
-      </Phase>\r
 
-      \r
 
-      <Phase>\r
+      <Tab title="Double Guardian comp">
 
-      \r
 
-      <CMInformation title=\"Phase 3\">\r
 
-      \r
+      <Phase>
 
-      1. <TomeSkill name=\"ChapterHeatedRebuke\"/>\r
 
-      1. <Skill name=\"bane signet\"/>\r
 
-      1. <Skill name=\"swordofjustice\"/>\r
+      <CMInformation title="Phase 1">
 
-      1. <Skill name=\"Symbol of Blades\"/>\r
 
-      1. <Skill name=\"zealots defense\"/>\r
 
-      1. <Skill name=\"Symbol of Resolution\"/>\r
+      1. Precast
 
-      1. <Skill name=\"Whirling Wrath\"/>\r
+      1. <Skill name="sword of justice"/>
 
-      \r
+      1. <Skill name="Symbol of Resolution"/>
 
-      </CMInformation>\r
+      1. <Skill name="bane signet"/>
 
-      \r
+      1. <Skill name="Whirling Wrath"/>
 
-      <IdealRotation title=\"Knight 3\">\r
+      1. <Skill name="leap of faith"/>
 
-      \r
 
-      1. <Skill name=\"Binding Blade\"/><br/><Skill name=\"pull\"/>\r
 
-      1. <Skill name=\"Strike\"/><br/><Skill name=\"Vengeful
-      Strike\"/><br/><Skill name=\"Wrathful Strike\"/>\r
+      </CMInformation>
 
-      1.  <Skill name=\"Feelmywrath\"/>\r
 
-      \r
 
-      </IdealRotation>\r
+      <IdealRotation title="Knight 1">
 
-      \r
 
-      </Phase>\r
 
-      \r
+      1. <Skill name="swordofjustice"/>
 
-      <Phase>\r
+      1. <Skill name="Strike"/><br/><Skill name="Vengeful
+      Strike"/><br/><Skill name="Wrathful Strike"/>
 
-      \r
 
-      <CMInformation title=\"Phase 4\">\r
 
-      \r
+      </IdealRotation>
 
-      For the final phase you want to drop some <Boon name=\"Stability\"/>
-      from <Skill name=\"tome of courage\"/> as well as dropping a <TomeSkill
-      name=\"chapterscorchedaftermath\"/> from <Skill name=\"tome of justice\"/>
-      for stacking <Boon name=\"Might\"/> before MAMA reaches the party (Ideally
+
+
+      </Phase>
+
+
+
+      <Phase>
+
+
+
+      <CMInformation title="Phase 2">
+
+
+
+      1. <Skill name="sword of justice"/> 
+
+      1. <Skill name="Symbol of Resolution"/>
+
+      1. <Skill name="Whirling Wrath"/>
+
+      1. <Skill name="Ray of Judgment"/>
+
+      1. <Skill name="Symbol of Blades"/>
+
+      1. <Skill name="zealots defense"/>
+
+
+
+      if Mama is about to phase (50% HP), keep <Skill name="zealots
+      defense"/> for either the add, or better, for phase 3
+
+
+
+      </CMInformation>
+
+
+
+      <IdealRotation title="Knight 2">
+
+
+
+      1. <Skill name="Sword of Wrath"/><br/><Skill name="Sword
+      Arc"/><br/><Skill name="Sword Wave"/>
+
+
+
+      </IdealRotation>
+
+
+
+      </Phase>
+
+
+
+      <Phase>
+
+
+
+      <CMInformation title="Phase 3">
+
+
+
+      1. <TomeSkill name="ChapterHeatedRebuke"/>
+
+      1. <Skill name="bane signet"/>
+
+      1. <Skill name="swordofjustice"/>
+
+      1. <Skill name="Symbol of Blades"/>
+
+      1. <Skill name="zealots defense"/>
+
+      1. <Skill name="Symbol of Resolution"/>
+
+      1. <Skill name="Whirling Wrath"/>
+
+
+
+      </CMInformation>
+
+
+
+      <IdealRotation title="Knight 3">
+
+
+
+      1. <Skill name="Binding Blade"/><br/><Skill name="pull"/>
+
+      1. <Skill name="Strike"/><br/><Skill name="Vengeful
+      Strike"/><br/><Skill name="Wrathful Strike"/>
+
+      1.  <Skill name="Feelmywrath"/>
+
+
+
+      </IdealRotation>
+
+
+
+      </Phase>
+
+
+
+      <Phase>
+
+
+
+      <CMInformation title="Phase 4">
+
+
+
+      For the final phase you want to drop some <Boon name="Stability"/>
+      from <Skill name="tome of courage"/> as well as dropping a <TomeSkill
+      name="chapterscorchedaftermath"/> from <Skill name="tome of justice"/>
+      for stacking <Boon name="Might"/> before MAMA reaches the party (Ideally
       right when the third add dies). If your party is a bit slow on the cc, you
-      can also squeeze in a <TomeSkill name=\"ChapterHeatedRebuke\"/>.\r
+      can also squeeze in a <TomeSkill name="ChapterHeatedRebuke"/>.
 
-      1. <Skill name=\"swordofjustice\"/>\r
+      1. <Skill name="swordofjustice"/>
 
-      1. <Skill name=\"Symbol of Resolution\"/>\r
+      1. <Skill name="Symbol of Resolution"/>
 
-      1. <Skill name=\"Whirling Wrath\"/>\r
+      1. <Skill name="Whirling Wrath"/>
 
-      if the boss is not dead use what you have on your sword set.\r
+      if the boss is not dead use what you have on your sword set.
 
-      1. <Skill name=\"Ray of Judgment\"/>\r
+      1. <Skill name="Ray of Judgment"/>
 
-      1. <Skill name=\"zealots defense\"/>\r
+      1. <Skill name="zealots defense"/>
 
-      1. <Skill name=\"Symbol of Blades\"/>\r
+      1. <Skill name="Symbol of Blades"/>
 
-      \r
 
-      </CMInformation>\r
 
-      \r
+      </CMInformation>
 
-      </Phase>\r
 
-      \r
 
-      </Tab>\r
+      </Phase>
 
-      \r
 
-      </Tabs>"
+
+      </Tab>
+
+
+
+      </Tabs>
     title: MAMA
   - title: Siax
-    content: "<Boss name=\"siax\" video=\"zLE72fLTt1Q\" videoCreator=\"Danni [dT]\"
-      foodId=\"43360\" utilityId=\"50082\" healId=\"41714\" utility1Id=\"40915\"
-      utility2Id=\"9168\" utility3Id=\"9093\" eliteId=\"29965\"
-      weapon1MainAffix=\"Berserker\" weapon1MainType=\"Greatsword\"
-      weapon1MainSigil1=\"Serpentslaying\" weapon1MainSigil2=\"Impact\"
-      weapon1MainInfusion1Id=\"37131\" weapon2OffAffix=\"Berserker\"
-      weapon2OffType=\"Focus\" weapon2OffSigil=\"Serpentslaying\"
-      weapon2OffInfusionId=\"37131\" weapon2MainAffix=\"Berserker\"
-      weapon2MainType=\"Sword\" weapon2MainSigil1=\"Impact\"
-      weapon2MainInfusion1Id=\"37131\">\r
+    content: >-
+      <Boss name="siax" video="zLE72fLTt1Q" videoCreator="Danni [dT]"
+      foodId="43360" utilityId="50082" healId="41714" utility1Id="40915"
+      utility2Id="9168" utility3Id="9093" eliteId="29965"
+      weapon1MainAffix="Berserker" weapon1MainType="Greatsword"
+      weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact"
+      weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker"
+      weapon2OffType="Focus" weapon2OffSigil="Serpentslaying"
+      weapon2OffInfusionId="37131" weapon2MainAffix="Berserker"
+      weapon2MainType="Sword" weapon2MainSigil1="Impact"
+      weapon2MainInfusion1Id="37131">
 
-      \r
+      <Warning>
 
-      \r
 
-      \r
 
-      </Boss>\r
+      <Specialization name="Dragonhunter"/> will only work in double
+      <Specialization name="Dragonhunter"/> comps and only if the kill is short.
 
-      \r
 
-      <Warning>\r
 
-      \r
+      </Warning>
 
-      <Specialization name=\"Dragonhunter\"/> will only work in double
-      <Specialization name=\"Dragonhunter\"/> comps and only if the kill is
-      short.\r
+      </Boss>
 
-      \r
 
-      </Warning>\r
 
-      \r
 
-      <Tabs>\r
 
-      <Tab specialization=\"Firebrand\" title=\"Firebrand\">\r
 
-      \r
 
-      ### **Phase 1**\r
+      <Tabs>
 
-      \r
+      <Tab specialization="Firebrand" title="Firebrand">
 
-      - Cast <Skill name=\"tome of justice\"/> skill 4 and 5 before the
-      encounter starts\r
 
-      \r
 
-      - Cast <Skill name=\"symbolofblades\"/> slightly before the
-      encounter starts\r
+      ### **Phase 1**
 
-      \r
 
-      - Use <Skill name=\"swordofjustice\"/>\r
 
-      \r
+      - Cast <Skill name="tome of justice"/> skill 4 and 5 before the
+      encounter starts
 
-      - <Skill name=\"zealotsdefense\"/>\r
 
-      \r
 
-      - <Skill name=\"ray of judgment\"/>\r
+      - Cast <Skill name="symbolofblades"/> slightly before the
+      encounter starts
 
-      \r
 
-      - <Skill name=\"shield of wrath\"/>\r
 
-      \r
+      - Use <Skill name="swordofjustice"/>
 
-      - Weapon swap\r
 
-      \r
 
-      - Use <Skill name=\"banesignet\"/> to CC\r
+      - <Skill name="zealotsdefense"/>
 
-      \r
 
-      - <Skill name=\"Symbol of Resolution\"/>\r
 
-      \r
+      - <Skill name="ray of judgment"/>
 
-      - <Skill name=\"whirling wrath\"/>\r
 
-      \r
 
-      ### _Split Phase 1_\r
+      - <Skill name="shield of wrath"/>
 
-      \r
 
-      - Use <Skill name=\"swordofjustice\"/> for <Condition
-      name=\"vulnerability\"/> and damage\r
 
-      \r
+      - Weapon swap
 
-      - Feel free to use <Skill name=\"leapoffaith\"/>\r
 
-      \r
 
-      - Auto attack\r
+      - Use <Skill name="banesignet"/> to CC
 
-      \r
 
-      ### **Phase 2**\r
 
-      \r
+      - <Skill name="Symbol of Resolution"/>
 
-      - <Skill name=\"sword of justice\"/>\r
 
-      \r
 
-      - <Skill name=\"Symbol of Resolution\"/>\r
+      - <Skill name="whirling wrath"/>
 
-      \r
 
-      - <Skill name=\"whirling wrath\"/>\r
 
-      \r
+      ### _Split Phase 1_
 
-      - Use <Skill name=\"Bindingblade\"/> for additional hits (Very
-      strong - do not miss it)\r
 
-      \r
 
-      - Weapon swap\r
+      - Use <Skill name="swordofjustice"/> for <Condition
+      name="vulnerability"/> and damage
 
-      \r
 
-      - <Skill name=\"symbolofblades\"/>\r
 
-      \r
+      - Feel free to use <Skill name="leapoffaith"/>
 
-      - <Skill name=\"zealotsdefense\"/>\r
 
-      \r
 
-      - Share Aegis to block the red AoE\r
+      - Auto attack
 
-      \r
 
-      ### _Split Phase 2_\r
 
-      \r
+      ### **Phase 2**
 
-      - Help <Specialization name=\"Soulbeast\"/> simply by casting <Skill
-      name=\"sword of justice\"/> on his add\r
 
-      \r
 
-      - Help by using <Skill name=\"ray of judgment\"/> on your add\r
+      - <Skill name="sword of justice"/>
 
-      \r
 
-      ### **Phase 3**\r
 
-      \r
+      - <Skill name="Symbol of Resolution"/>
 
-      - Precast <Skill name=\"banesignet\"/>\r
 
-      \r
 
-      - Use <Skill name=\"sword of justice\"/>\r
+      - <Skill name="whirling wrath"/>
 
-      \r
 
-      - <Skill name=\"symbolofblades\"/>\r
 
-      \r
+      - Use <Skill name="Bindingblade"/> for additional hits (Very
+      strong - do not miss it)
 
-      - <Skill name=\"zealotsdefense\"/>\r
 
-      \r
 
-      - <Skill name=\"shield of wrath\"/>\r
+      - Weapon swap
 
-      \r
 
-      - Weapon swap\r
 
-      \r
+      - <Skill name="symbolofblades"/>
 
-      - <Skill name=\"Symbol of Resolution\"/>\r
 
-      \r
 
-      - <Skill name=\"whirling wrath\"/>\r
+      - <Skill name="zealotsdefense"/>
 
-      \r
 
-      - Use <Skill name=\"Bindingblade\"/> for additional hits (very
-      strong - do not miss it)\r
 
-      \r
+      - Share Aegis to block the red AoE
 
-      </Tab>\r
 
-      <Tab specialization=\"Dragonhunter\" title=\"Dragonhunter\">\r
 
-      \r
+      ### _Split Phase 2_
 
-      ### **Phase 1**\r
 
-      \r
 
-      - <Skill name=\"symbolofblades\"/>\r
+      - Help <Specialization name="Soulbeast"/> simply by casting <Skill
+      name="sword of justice"/> on his add
 
-      \r
 
-      - <Skill name=\"sword of justice\"/>\r
 
-      \r
+      - Help by using <Skill name="ray of judgment"/> on your add
 
-      - <Skill name=\"spear of justice\"/>\r
 
-      \r
 
-      - <Skill name=\"zealotsdefense\"/>\r
+      ### **Phase 3**
 
-      \r
 
-      - <Skill name=\"ray of judgment\"/>\r
 
-      \r
+      - Precast <Skill name="banesignet"/>
 
-      - Weapon swap\r
 
-      \r
 
-      - <Skill name=\"banesignet\"/>\r
+      - Use <Skill name="sword of justice"/>
 
-      \r
 
-      - <Skill name=\"Symbol of Resolution\"/> (only use it if it's in P2
-      off cooldown)\r
 
-      \r
+      - <Skill name="symbolofblades"/>
 
-      - <Skill name=\"whirling wrath\"/>\r
 
-      \r
 
-      ### _Split 1_\r
+      - <Skill name="zealotsdefense"/>
 
-      \r
 
-      - you should help your <Specialization name=\"Weaver\"/> on the
-      north\r
 
-      \r
+      - <Skill name="shield of wrath"/>
 
-      - <Skill name=\"sword of justice\"/>\r
 
-      \r
 
-      - Feel free to use <Skill name=\"leapoffaith\"/>\r
+      - Weapon swap
 
-      \r
 
-      - Auto attack\r
 
-      \r
+      - <Skill name="Symbol of Resolution"/>
 
-      ### **Phase 2**\r
 
-      \r
 
-      - <Skill name=\"sword of justice\"/>\r
+      - <Skill name="whirling wrath"/>
 
-      \r
 
-      - <Skill name=\"processionofblades\"/>\r
 
-      \r
+      - Use <Skill name="Bindingblade"/> for additional hits (very
+      strong - do not miss it)
 
-      - <Skill name=\"spear of justice\"/>\r
 
-      \r
 
-      - <Skill name=\"Symbol of Resolution\"/>\r
+      </Tab>
 
-      \r
+      <Tab specialization="Dragonhunter" title="Dragonhunter">
 
-      - <Skill name=\"whirling wrath\"/>\r
 
-      \r
 
-      - Use <Skill name=\"Bindingblade\"/> for additional hits (Very
-      strong - do not miss it)\r
+      ### **Phase 1**
 
-      \r
 
-      - Weapon swap\r
 
-      \r
+      - <Skill name="symbolofblades"/>
 
-      - <Skill name=\"symbolofblades\"/>\r
 
-      \r
 
-      - <Skill name=\"zealotsdefense\"/>\r
+      - <Skill name="sword of justice"/>
 
-      \r
 
-      - Share Aegis by using <Skill name=\"shieldofcourage\"/> to block
-      the red AoE\r
 
-      \r
+      - <Skill name="spear of justice"/>
 
-      ### _Split 2_\r
 
-      \r
 
-      - you should help both <Specialization name=\"Weaver\"/> and
-      <Specialization name=\"Soulbeast\"/> with their adds\r
+      - <Skill name="zealotsdefense"/>
 
-      \r
 
-      - Help <Specialization name=\"Soulbeast\"/> simply by casting <Skill
-      name=\"sword of justice\"/> on his add\r
 
-      \r
+      - <Skill name="ray of judgment"/>
 
-      - Help <Specialization name=\"Weaver\"/> by using <Skill name=\"ray
-      of judgment\"/> and add some auto attacks\r
 
-      \r
 
-      ### **Phase 3**\r
+      - Weapon swap
 
-      \r
 
-      - Precast <Skill name=\"banesignet\"/>\r
 
-      \r
+      - <Skill name="banesignet"/>
 
-      - <Skill name=\"feelmywrath\"/>\r
 
-      \r
 
-      - Use <Skill name=\"sword of justice\"/>\r
+      - <Skill name="Symbol of Resolution"/> (only use it if it's in P2
+      off cooldown)
 
-      \r
 
-      - <Skill name=\"procession of blades\"/>\r
 
-      \r
+      - <Skill name="whirling wrath"/>
 
-      - <Skill name=\"spear of justice\"/>\r
 
-      \r
 
-      - <Skill name=\"symbol of punishment\"/>\r
+      ### _Split 1_
 
-      \r
 
-      - <Skill name=\"shield of wrath\"/>\r
 
-      \r
+      - you should help your <Specialization name="Weaver"/> on the
+      north
 
-      - Weapon swap\r
 
-      \r
 
-      - <Skill name=\"Symbol of Resolution\"/>\r
+      - <Skill name="sword of justice"/>
 
-      \r
 
-      - <Skill name=\"whirling wrath\"/>\r
 
-      \r
+      - Feel free to use <Skill name="leapoffaith"/>
 
-      - Use <Skill name=\"Bindingblade\"/> for additional hits (very
-      strong - do not miss it)\r
 
-      \r
 
-      </Tab>\r
+      - Auto attack
 
-      </Tabs>"
+
+
+      ### **Phase 2**
+
+
+
+      - <Skill name="sword of justice"/>
+
+
+
+      - <Skill name="processionofblades"/>
+
+
+
+      - <Skill name="spear of justice"/>
+
+
+
+      - <Skill name="Symbol of Resolution"/>
+
+
+
+      - <Skill name="whirling wrath"/>
+
+
+
+      - Use <Skill name="Bindingblade"/> for additional hits (Very
+      strong - do not miss it)
+
+
+
+      - Weapon swap
+
+
+
+      - <Skill name="symbolofblades"/>
+
+
+
+      - <Skill name="zealotsdefense"/>
+
+
+
+      - Share Aegis by using <Skill name="shieldofcourage"/> to block
+      the red AoE
+
+
+
+      ### _Split 2_
+
+
+
+      - you should help both <Specialization name="Weaver"/> and
+      <Specialization name="Soulbeast"/> with their adds
+
+
+
+      - Help <Specialization name="Soulbeast"/> simply by casting <Skill
+      name="sword of justice"/> on his add
+
+
+
+      - Help <Specialization name="Weaver"/> by using <Skill name="ray
+      of judgment"/> and add some auto attacks
+
+
+
+      ### **Phase 3**
+
+
+
+      - Precast <Skill name="banesignet"/>
+
+
+
+      - <Skill name="feelmywrath"/>
+
+
+
+      - Use <Skill name="sword of justice"/>
+
+
+
+      - <Skill name="procession of blades"/>
+
+
+
+      - <Skill name="spear of justice"/>
+
+
+
+      - <Skill name="symbol of punishment"/>
+
+
+
+      - <Skill name="shield of wrath"/>
+
+
+
+      - Weapon swap
+
+
+
+      - <Skill name="Symbol of Resolution"/>
+
+
+
+      - <Skill name="whirling wrath"/>
+
+
+
+      - Use <Skill name="Bindingblade"/> for additional hits (very
+      strong - do not miss it)
+
+
+
+      </Tab>
+
+      </Tabs>
   - content: >-
       <Boss name="Skorvald" video="l3c5DxfiX14" videoCreator="Princeps [dT]"
       foodId="43360" utilityId="73191" healId="41714" utility1Id="40915"
@@ -1428,8 +1423,8 @@ sections:
       </Phase>
     title: Artsariiv
   - content: >
-      
-      <Boss name="Arkk" video="gvgezfhaAE4" timestamp="" videoCreator="Danni [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+
+      <Boss name="Arkk" video="gvgezfhaAE4" videoCreator="Danni [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 
       - Play scepter on this encounter
