@@ -790,7 +790,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-01-02T16:49:49.969Z
+date: 2022-01-02T16:49:50.019Z
 title: Power Alac Renegade
 rating: Power Meta
 role: Power Damage
