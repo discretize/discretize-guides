@@ -1,5 +1,4 @@
 ---
-title: Power Alac Renegade
 sections:
   - type: mdx
     title: Overview
@@ -441,7 +440,7 @@ sections:
 
       <GridItem sm="8">
 
-      <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
+      <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Dance of Death" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 
       </GridItem>
 
@@ -485,10 +484,14 @@ sections:
       Sometimes it is worth precasting with <Specialization name="Herald"/> because <Specialization name="Herald"/> has access to <Skill id="51667"/> which is _incredibly_ strong skill to precast, if you can manage to fit it into your groups precasting. If your group is blasting <Boon name="Might"/>, you can forgo using <Skill id="29321"/> in your precasting and just precast <Boon name="Alacrity"/> and extending everyone else's boons with <Skill id="51667"/>.
 
 
-      It is recommended to have a build template for this, so you can quickly swap between templates by using hotkeys (need to be set up in the settings). Here's the Herald trait line:<Traits traits1Id="52" traits1="Herald" traits1SelectedIds="1806,1738,1772" unembossed/>
+      After the [status reset update of August 31st](https://wiki.guildwars2.com/wiki/Game_updates/August_2021), this precast has become more difficult to perform and isn't recommended anymore for fast prestacking in pugs due to the fact that it increases the length of a precast. However, if you do have the the time, it is still a really valid precast and does help with the boons initially. You will have to manually swap between <Specialization name="Herald"/> and <Specialization name="Renegade"/> trait lines or use a saved build template in the template storage (not one of the build template tabs) to swap between them in order to not trigger status reset. Here's the <Specialization name="Herald"/> trait line:
+
+      <Traits traits1Id="52" traits1="Herald" traits1SelectedIds="1806,1772" unembossed/>
 
 
-      Template code: `[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
+      <div align="left">Template code:</div>
+
+      `[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
 
 
       <Warning>
@@ -530,14 +533,13 @@ sections:
 
       - <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
 
-
       - <Skill name="Darkrazors Daring"/> - Up to six hits of 100 <Control name="Daze"/>.
-
 
       - <Skill name="Jade Winds"/> - 300 <Control name="Stun"/>.
 
-
       - <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
+
+      - <Skill name="Energy Expulsion"/> - 150 <Control name="Knockback"/>.
 
 
       **Soft Crowd Control:**
@@ -545,11 +547,19 @@ sections:
 
       - <Skill name="Chilling Isolation"/> - <Condition name="Chilled"/> for 33 per second.
 
-
       - <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
 
-
       - <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
+
+      - <Skill name="Icerazors Ire"/> - <Condition name="Crippled"/> for 15 per second.
+
+      - <Skill name="Banish Enchantment"/> - <Condition name="Chilled"/> for 33 per second.
+
+      - <Skill name="Warding Rift"/> - <Condition name="Blinded"/> for 20 per second.
+
+      - <Skill name="Inspiring Reinforcement"/> - <Condition name="Weakness"/> for 20 per second.
+
+      - <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
 
 
       </Card>
@@ -627,7 +637,7 @@ sections:
       - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
 
 
-      - <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which makes your attack steal health. This trait is the DPS alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of damage, but doesn't scale with <Effect name="Exposed"/>. Pulls ahead over <Trait name="Swift Termination"/> in fights where majority of damage is dealt outside of <Effect name="Exposed"/> debuff (on Artsariiv and Arkk). Also worth taking in PuG groups on most bosses to ensure Scholar buff uptime and due to lower <Effect name="Exposed"/> uptime on bosses.
+      - <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which makes your attack steal health. This trait is the DPS alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of damage, but doesn't scale with <Effect name="Exposed"/>. Pulls ahead over <Trait name="Swift Termination"/> in fights where majority of damage is dealt outside of <Effect name="Exposed"/> debuff. Also worth taking in PuG groups on most bosses to ensure <Item id="24836"/> buff uptime and due to lower <Effect name="Exposed"/> uptime on bosses.
 
 
       - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
@@ -707,7 +717,7 @@ sections:
       **<Skill name="Legendary Dwarf Stance"/>**
 
 
-      - <Skill name="Soothing Stone"/> - Powerful self heal and condition cleanse.
+      - <Skill name="Soothing Stone"/> - Powerful self-heal and condition cleanse.
 
 
       - <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field.
@@ -778,31 +788,32 @@ sections:
       </GridItem>
 
       </Grid>
-rating: Power Meta
-role: Power Damage
 author: Casual Sophie - Jin Su Liang.9036
-profession: Revenant
 specialization: Renegade
 skills:
   - 45773
   - 27505
 traits:
   - 1786
-conditions:
-  - Vulnerability
 boons:
   - name: Alacrity
     uptime: 100%
     variant: party
+code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
-date: 2021-10-03T12:19:18.334Z
-cmGuide: 'pug'
+date: 2022-01-01T23:43:28.962Z
+title: Power Alac Renegade
+rating: Power Meta
+role: Power Damage
+profession: Revenant
+conditions:
+  - Vulnerability
+cmGuide: pug
 ---
 
 <Divider text="Rotation / Skill usage"/>
