@@ -1,24 +1,4 @@
 ---
-title: Condi Alac Renegade
-rating: Meta
-skills:
-  - 45773
-  - 27505
-traits:
-  - 2182
-classification:
-  - 4
-  - 3
-  - 4
-  - 3
-  - 5
-boons:
-  - name: Alacrity
-    uptime: 100%
-    variant: party
-  - name: Might
-    uptime: 13 stacks
-    variant: party
 sections:
   - type: mdx
     title: Overview
@@ -509,15 +489,35 @@ sections:
       </GridItem>
 
       </Grid>
-role: Condi Damage
 author: PineappleMan.1430
-profession: Revenant
 specialization: Renegade
+skills:
+  - 45773
+  - 27505
+traits:
+  - 2182
+boons:
+  - name: Alacrity
+    uptime: 100%
+    variant: party
+  - name: Might
+    uptime: 13 stacks
+    variant: party
+code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
+classification:
+  - 4
+  - 3
+  - 4
+  - 3
+  - 5
+date: 2022-01-02T16:50:19.610Z
+title: Condi (Alac) Renegade
+rating: Meta
+role: Condi Damage
+profession: Revenant
 conditions:
   - Vulnerability
-code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
-date: 2021-10-05T11:17:37.841Z
-cmGuide: ''
+cmGuide: ""
 ---
 
 <Divider text="Rotation / Skill usage"/>
