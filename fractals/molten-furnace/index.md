@@ -59,7 +59,7 @@ Exit the tunnel and kill the group of mobs coming towards you. Then proceed to t
 
 ## Weapon Testing Arena
 
-After entering the arena (and at each new phase), 2 Champions spawn, which your party needs to separate and kill. Not separating them will cause them to reflect damage back to the attacker via a unique buff called <Link to="https://wiki.guildwars2.com/images/b/b5/Sentinel_Retribution.png">Sentinel Retribution</Link>
+After entering the arena (and at each new phase), 2 Champions spawn, which your party needs to separate and kill. Not separating them will cause them to reflect damage back to the attacker via a unique buff called [Sentinel Retribution](https://wiki.guildwars2.com/images/b/b5/Sentinel_Retribution.png).
 
 At the same time, you will survive a series of weapons tests.
 

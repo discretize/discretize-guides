@@ -284,13 +284,13 @@ Use the information from above for the remaining encounter!
 
 When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Dragonhunter"/> this means your signets such as <Skill name="Banesignet"/>. Furthermore, it's important for a <Specialization name="Dragonhunter"/> to stack <Boon name="Resolution"/> since it boosts their strike damage thanks to <Trait name="Retribution"/>.
 
-Precast your <Skill id="30273"/> on the northeast clone for cc and your <Skill name= "Test of Faith"/> on the tile near Artsariiv for extra damage in phase 1. Ideally everyone waits at Artsariiv together to give the <Specialization name="Renegade"/> more time to ~~precast~~ lag the game with casting <Boon name="Resistance"/>. Take the portal and blast with <Skill name="Shieldofwrath"/> (Focus 5) and <Skill name="hammerofwisdom"/>. To maximize the duration of <Skill name="Banesignet"/> use it as late as possible! You do not need to wait for the full aftercast before taking the _Mistlock Singularity_. If you are very quick, cast <Skill name="banesignet"/> again, however, this is only worth it if your party instatriggers the boss.
+Precast your <Skill id="30273"/> on the northeast clone for cc and your <Skill name="Test of Faith"/> on the tile near Artsariiv for extra damage in phase 1. Ideally everyone waits at Artsariiv together to give the <Specialization name="Renegade"/> more time to ~~precast~~ lag the game with casting <Boon name="Resistance"/>. Take the portal and blast with <Skill name="Shieldofwrath"/> (Focus 5) and <Skill name="hammerofwisdom"/>. To maximize the duration of <Skill name="Banesignet"/> use it as late as possible! You do not need to wait for the full aftercast before taking the _Mistlock Singularity_. If you are very quick, cast <Skill name="banesignet"/> again, however, this is only worth it if your party instatriggers the boss.
 
 </InformationBlock>
 
 <InformationBlock title="Portal to the boss">
 
-Start casting symbols and make sure you also include <Skill name="Shieldofwrath"/> in your precast. Right before the boss triggers you can cast <Skill name= "Litany of Wrath"/> which allows you to stay in the hitbox and tank the laser. The precasted <Boon name="Resistance"/> from the <Specialization name="Renegade"/> protects you against the <Condition name="Fear"/> and <Condition name="Weakness"/>. Finish the precast with <Skill name="Procession of Blades"/>  and <Skill name="Swordofjustice"/>.
+Start casting symbols and make sure you also include <Skill name="Shieldofwrath"/> in your precast. Right before the boss triggers you can cast <Skill name="Litany of Wrath"/> which allows you to stay in the hitbox and tank the laser. The precasted <Boon name="Resistance"/> from the <Specialization name="Renegade"/> protects you against the <Condition name="Fear"/> and <Condition name="Weakness"/>. Finish the precast with <Skill name="Procession of Blades"/>  and <Skill name="Swordofjustice"/>.
 
 </InformationBlock>
 
@@ -304,7 +304,7 @@ Start casting symbols and make sure you also include <Skill name="Shieldofwrath"
 3.  <Skill name="BaneSignet"/>
 4.  Take _Mistlock Singularity_ and take portal
 5.  Symbol precast (including <Skill name="Shieldofwrath"/>)
-6.  <Skill name= "Litany of Wrath"/>
+6.  <Skill name="Litany of Wrath"/>
 7.  <Skill name="Procession of Blades"/>
 8.  <Skill name="Swordofjustice"/>
 

@@ -1,5 +1,4 @@
 ---
-title: Power Alac Renegade
 sections:
   - type: mdx
     title: Overview
@@ -12,6 +11,7 @@ sections:
       not enough already, the <Specialization name="Renegade"/> has also
       excellent CC capabilities with <Skill name="Surge of the mists"/> and
       <Skill name="Darkrazorsdaring"/>.
+
 
 
       Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
@@ -501,19 +501,13 @@ sections:
       To precast with <Specialization name="Herald"/>, you can go very simple:
 
 
-      1.  Start on <Specialization name="Renegade"/> and use <Skill id="45537"/>.
+      1.  Start on <Specialization name="Herald"/> and double tap <Skill name="Facet of Nature"/>/<Skill name="True Nature"/> (F2 while in <Skill name="Legendary Dragon Stance"/>).
 
-
-      2.  Swap to <Specialization name="Herald"/> template and use <Skill id="51667"/>.
-
+      2.  Manually swap to <Specialization name="Renegade"/> and press <Skill name="Orders From Above"/> (F4).
 
       3.  Take the Mistlock Singularity.
 
-
-      4.  Cast <Skill id="51667"/> again.
-
-
-      5.  Swap to <Specialization name="Renegade"/> and use <Skill id="45537"/>.
+      4.  Press <Skill name="Orders From Above"/> (F4) again.
 
 
       </Card>
@@ -570,13 +564,13 @@ sections:
       **Citadel Order Skills:**
 
 
-      - <Skill name="Heroic Command"/> - Share two stacks of <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack.
+      - <Skill name="Heroic Command"/> (F2) - Share two stacks of <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack.
 
 
-      - <Skill name="Citadel Bombardment"/> - Fire ten missiles that inflict high damage and <Condition name="Burning"/>.
+      - <Skill name="Citadel Bombardment"/> (F3) - Fire ten missiles that inflict high damage and <Condition name="Burning"/>.
 
 
-      - <Skill name="Orders from Above"/> - Share four pulses of <Boon name="Alacrity"/>.
+      - <Skill name="Orders from Above"/> (F4) - Share four pulses of <Boon name="Alacrity"/>. Increased to a total of six pulses of <Boon name="Alacrity"/> with <Trait name="Righteous Rebel"/>.
 
 
       ---
@@ -778,31 +772,32 @@ sections:
       </GridItem>
 
       </Grid>
-rating: Power Meta
-role: Power Damage
 author: Casual Sophie - Jin Su Liang.9036
-profession: Revenant
 specialization: Renegade
 skills:
   - 45773
   - 27505
 traits:
   - 1786
-conditions:
-  - Vulnerability
 boons:
   - name: Alacrity
     uptime: 100%
     variant: party
+code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
-date: 2021-10-03T12:19:18.334Z
-cmGuide: 'pug'
+date: 2022-01-02T16:49:50.019Z
+title: Power Alac Renegade
+rating: Power Meta
+role: Power Damage
+profession: Revenant
+conditions:
+  - Vulnerability
+cmGuide: pug
 ---
 
 <Divider text="Rotation / Skill usage"/>
@@ -819,6 +814,9 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <Video caption="by Rubby, edited by Vince [dT]" youtube="QXmckcAyKf4"/>
 </Card>
+<Warning>
+Note that with a class like <Specialization name="Scourge"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>. Since <Instability name="No Pain, No Gain"/> doesn't give the enemy <Boon name="Resolution"/>, you do not need to worry about this instability in a group whose damage mostly consists of condition damage.
+</Warning>
 </GridItem>
 
 <GridItem xs="12" sm="6">
@@ -829,6 +827,8 @@ There are multiple weapons in your arsenal to deal with the instability <Instabi
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed/>
 
 As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the stability, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
+
+
 </Card>
 </GridItem>
 
