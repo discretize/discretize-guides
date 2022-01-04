@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 8881
-date: 2021-10-15T16:46:56.912Z
+date: 2022-01-04T16:46:56.912Z
 title: Cliffside
 image: ./images/header.jpg
 group: T4
@@ -17,20 +17,23 @@ sigils:
 consumables:
   - 78978
 record:
-  time: 4 min 29 sec
+  time: 3 min 0 sec
   by:
-    - name: Happens
-      tag: hP
+    - name: Invicta Luna
+      tag: iV
   youtube:
-    - id: 05wgY9N_pdc
-      name: Guts
-      specialization: Chronomancer
-    - id: 3iqOCAT23S8
-      name: Never Moa
-      specialization: Tempest
-    - id: fqK7UO-6R7M
-      name: Goni
-      specialization: Tempest
+    - id: yV9JYwr5Tx0
+      name: Delay
+      specialization: Necromancer
+    - id: lT7bpb6v63o
+      name: PineappleMan
+      specialization: Berserker
+    - id: JVJNb-uzIQs
+      name: MagicBot
+      specialization: Daredevil
+    - id: clm7GF7bxWI
+      name: BlackHawk
+      specialization: Renegade
 ---
 
 <Grid>
