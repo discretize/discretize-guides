@@ -23,103 +23,97 @@ sections:
     content: >-
       <CharacterWithAr> 
 
-      <Character title="Celestial 162 Agony Resistance" 
-                 gear={{ "profession": "Guardian",
-                  "weight":"Heavy", "gear":[
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial"
-              ], "attributes":{
-                   "Health": 23895,
-                   "Armor": 3189,
-                   "Power": 2465,
-                   "Precision": 1998,
-                   "Toughness": 1918,
-                   "Vitality": 2225,
-                   "Ferocity": 975,
-                   "Condition Damage": 2139,
-                   "Expertise": 745,
-                   "Concentration": 918,
-                   "Healing Power": 925,
-                   "Agony Resistance": 162,
-                   "Condition Duration": 0.59666666666666664,
-                   "Boon Duration": 0.762,
-                   "Critical Chance": 0.8252380952380952,
-                   "Critical Damage": 2.15,
-                   "Burning Duration": 0.40,
-                   "Effective Power": 6906.244055059524,
-                   "Power DPS": 5962.186819962823,
-                   "Burning Damage": 796.0184999999999,
-                   "Burning Stacks": 24.359333333333332,
-                   "Burning DPS": 19390.479980999997,
-                   "Bleeding Damage": 224.88000000000002,
-                   "Bleeding Stacks": 5.907666666666667,
-                   "Bleeding DPS": 1328.51608,
-                   "Poison Damage": 242.13000000000002,
-                   "Poison Stacks": 0,
-                   "Poison DPS": 0,
-                   "Torment Damage": 335.52,
-                   "Torment Stacks": 0,
-                   "Torment DPS": 0,
-                   "Confusion Damage": 224.88000000000002,
-                   "Confusion Stacks": 0,
-                   "Confusion DPS": 0,
-                   "Damage": 26681.18288096282,
-                   "Effective Health": 126684420.1875,
-                   "Survivability": 64404.89079181495,
-                   "Effective Healing": 734.2500000000001,
-                   "Healing": 734.2500000000001
-              }, "runeId":24691, "runeName":"Traveler", "infusions":[
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130
-              ], "weapons":{
-                  "weapon1MainType": "Axe",
-                  "weapon1MainSigil1Id": 44944,
-                  "weapon1OffType": "Torch",
-                  "weapon1OffSigilId": 24624,
-                  "weapon2MainType": "Staff",
-                  "weapon2MainSigil1Id": 74326,
-                  "weapon2MainSigil2Id": 24624
-              }, "consumables":{
-                   "foodId": 91703,
-                   "utilityId": 77567,
-                   "infusion": "Malign +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Mantra of Solace",
-                  "utility2": "Mantra of Potence",
-                  "utility3": "Sanctuary",
-                  "elite": "Feel my Wrath"
-                } 
-              }}
-      > 
+      <Character
+        title="Celestial 162 Agony Resistance"
+        gear={{
+          "profession": "Guardian",
+          "weight": "Heavy",
+          "gear": [
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial"
+          ],
+          "attributes": {
+            "Health": 23895,
+            "Armor": 3189,
+            "Power": 2465,
+            "Precision": 1998,
+            "Toughness": 1918,
+            "Vitality": 2225,
+            "Ferocity": 975,
+            "Condition Damage": 2139,
+            "Expertise": 745,
+            "Concentration": 918,
+            "Healing Power": 925,
+            "Agony Resistance": 162,
+            "Condition Duration": 0.59666666666666664,
+            "Boon Duration": 0.762,
+            "Critical Chance": 0.8252380952380952,
+            "Critical Damage": 2.15,
+            "Burning Duration": 0.4,
+            "Effective Power": 6906.244055059524,
+            "Power DPS": 5962.186819962823,
+            "Burning Damage": 796.0184999999999,
+            "Burning Stacks": 24.359333333333332,
+            "Burning DPS": 19390.479980999997,
+            "Bleeding Damage": 224.88000000000002,
+            "Bleeding Stacks": 5.907666666666667,
+            "Bleeding DPS": 1328.51608,
+            "Poison Damage": 242.13000000000002,
+            "Poison Stacks": 0,
+            "Poison DPS": 0,
+            "Torment Damage": 335.52,
+            "Torment Stacks": 0,
+            "Torment DPS": 0,
+            "Confusion Damage": 224.88000000000002,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 26681.18288096282,
+            "Effective Health": 126684420.1875,
+            "Survivability": 64404.89079181495,
+            "Effective Healing": 734.2500000000001,
+            "Healing": 734.2500000000001
+          },
+          "runeId": 24691,
+          "runeName": "Traveler",
+          "infusions": [
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130
+          ],
+          "weapons": {
+            "weapon1MainType": "Axe",
+            "weapon1MainSigil1Id": 44944,
+            "weapon1OffType": "Torch",
+            "weapon1OffSigilId": 24624,
+            "weapon2MainType": "Staff",
+            "weapon2MainSigil1Id": 74326,
+            "weapon2MainSigil2Id": 24624
+          },
+          "consumables": {
+            "foodId": 91703,
+            "utilityId": 77567,
+            "infusion": "Malign +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "Mantra of Solace",
+            "utility2": "Mantra of Potence",
+            "utility3": "Sanctuary",
+            "elite": "Feel my Wrath"
+          }
+        }}
+      >
 
 
       **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower Agony Resistance (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>). This build also has the advantage of working in other content such as Raids and Strike Missions**
@@ -130,103 +124,97 @@ sections:
 
       </Character>
 
-      <Character title="Celestial 203 Agony Resistance"
-                  gear={{ "profession": "Guardian",
-                  "weight":"Heavy", "gear":[
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Seraph",
-                  "Seraph",
-                  "Seraph",
-                  "Seraph",
-                  "Celestial",
-                  "Seraph",
-                  "Celestial",
-                  "Celestial"
-              ], "attributes":{
-                  "Health": 20895,
-                  "Armor": 2950,
-                  "Power": 2165,
-                  "Precision": 2248,
-                  "Toughness": 1679,
-                  "Vitality": 1925,
-                  "Ferocity": 675,
-                  "Condition Damage": 2548,
-                  "Expertise": 445,
-                  "Concentration": 938,
-                  "Healing Power": 884,
-                  "Agony Resistance": 203,
-                  "Condition Duration": 0.29666666666666668,
-                  "Boon Duration": 0.6253333333333333,
-                  "Critical Chance": 0.9442857142857143,
-                  "Critical Damage": 1.95,
-                  "Burning Duration": 0.70,
-                  "Effective Power": 5904.0419866071425,
-                  "Power DPS": 5096.981953782523,
-                  "Burning Damage": 907.2465,
-                  "Burning Stacks": 24.359333333333332,
-                  "Burning DPS": 22099.919908999997,
-                  "Bleeding Damage": 262.32,
-                  "Bleeding Stacks": 4.797666666666667,
-                  "Bleeding DPS": 1258.52392,
-                  "Poison Damage": 279.57,
-                  "Poison Stacks": 0,
-                  "Poison DPS": 0,
-                  "Torment Damage": 391.68,
-                  "Torment Stacks": 0,
-                  "Torment DPS": 0,
-                  "Confusion Damage": 262.32,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 28455.42578278252,
-                  "Effective Health": 112724607.18750001,
-                  "Survivability": 57307.88367437723,
-                  "Effective Healing": 720.7200000000001,
-                  "Healing": 720.7200000000001
-              }, "runeId":24765, "runeName":"Balthazar", "infusions":[
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130
-              ], "weapons":{
-                  "weapon1MainType": "Axe",
-                  "weapon1MainSigil1Id": 44944,
-                  "weapon1OffType": "Torch",
-                  "weapon1OffSigilId": 24560,
-                  "weapon2MainType": "Staff",
-                  "weapon2MainSigil1Id": 74326,
-                  "weapon2MainSigil2Id": 44944
-              }, "consumables":{
-                   "foodId": 91703,
-                   "utilityId": 48917,
-                   "infusion": "Malign +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Mantra of Solace",
-                  "utility2": "Mantra of Potence",
-                  "utility3": "Sanctuary",
-                  "elite": "Feel my Wrath"
-                } 
-              }}
-      > 
+      <Character
+        title="Celestial 203 Agony Resistance"
+        gear={{
+          "profession": "Guardian",
+          "weight": "Heavy",
+          "gear": [
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Seraph",
+            "Seraph",
+            "Seraph",
+            "Seraph",
+            "Celestial",
+            "Seraph",
+            "Celestial",
+            "Celestial"
+          ],
+          "attributes": {
+            "Health": 20895,
+            "Armor": 2950,
+            "Power": 2165,
+            "Precision": 2248,
+            "Toughness": 1679,
+            "Vitality": 1925,
+            "Ferocity": 675,
+            "Condition Damage": 2548,
+            "Expertise": 445,
+            "Concentration": 938,
+            "Healing Power": 884,
+            "Agony Resistance": 203,
+            "Condition Duration": 0.29666666666666668,
+            "Boon Duration": 0.6253333333333333,
+            "Critical Chance": 0.9442857142857143,
+            "Critical Damage": 1.95,
+            "Burning Duration": 0.7,
+            "Effective Power": 5904.0419866071425,
+            "Power DPS": 5096.981953782523,
+            "Burning Damage": 907.2465,
+            "Burning Stacks": 24.359333333333332,
+            "Burning DPS": 22099.919908999997,
+            "Bleeding Damage": 262.32,
+            "Bleeding Stacks": 4.797666666666667,
+            "Bleeding DPS": 1258.52392,
+            "Poison Damage": 279.57,
+            "Poison Stacks": 0,
+            "Poison DPS": 0,
+            "Torment Damage": 391.68,
+            "Torment Stacks": 0,
+            "Torment DPS": 0,
+            "Confusion Damage": 262.32,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 28455.42578278252,
+            "Effective Health": 112724607.18750001,
+            "Survivability": 57307.88367437723,
+            "Effective Healing": 720.7200000000001,
+            "Healing": 720.7200000000001
+          },
+          "runeId": 24765,
+          "runeName": "Balthazar",
+          "infusions": [
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130
+          ],
+          "weapons": {
+            "weapon1MainType": "Axe",
+            "weapon1MainSigil1Id": 44944,
+            "weapon1OffType": "Torch",
+            "weapon1OffSigilId": 24560,
+            "weapon2MainType": "Staff",
+            "weapon2MainSigil1Id": 74326,
+            "weapon2MainSigil2Id": 44944
+          },
+          "consumables": {
+            "foodId": 91703,
+            "utilityId": 48917,
+            "infusion": "Malign +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "Mantra of Solace",
+            "utility2": "Mantra of Potence",
+            "utility3": "Sanctuary",
+            "elite": "Feel my Wrath"
+          }
+        }}
+      >
 
 
       **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivability with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**  
@@ -236,103 +224,97 @@ sections:
               
       </Character>  
 
-      <Character title="Seraph 203 Agony Resistance"
-                  gear={{ "profession": "Guardian",
-                  "weight":"Heavy", "gear":[
-                  "Seraph",
-                  "Seraph",
-                  "Seraph",
-                  "Seraph",
-                  "Seraph",
-                  "Seraph",
-                  "Seraph",
-                  "Seraph",
-                  "Seraph",
-                  "Seraph",
-                  "Celestial",
-                  "Seraph",
-                  "Seraph",
-                  "Seraph"
-              ], "attributes":{
-                  "Health": 17645,
-                  "Armor": 2625,
-                  "Power": 1840,
-                  "Precision": 2515,
-                  "Toughness": 1354,
-                  "Vitality": 1600,
-                  "Ferocity": 350,
-                  "Condition Damage": 2854,
-                  "Expertise": 120,
-                  "Concentration": 938,
-                  "Healing Power": 884,
-                  "Agony Resistance": 203,
-                  "Condition Duration": 0.08,
-                  "Boon Duration": 0.6253333333333333,
-                  "Critical Chance": 1.0714285714285714,
-                  "Critical Damage": 1.7333333333333334,
-                  "Burning Duration": 0.90,
-                  "Effective Power": 4584.666666666667,
-                  "Power DPS": 3957.960210499294,
-                  "Burning Damage": 989.06325,
-                  "Burning Stacks": 24.156,
-                  "Burning DPS": 23891.811867,
-                  "Bleeding Damage": 289.85999999999996,
-                  "Bleeding Stacks": 3.9960000000000004,
-                  "Bleeding DPS": 1158.28056,
-                  "Poison Damage": 307.10999999999996,
-                  "Poison Stacks": 0,
-                  "Poison DPS": 0,
-                  "Torment Damage": 432.99,
-                  "Torment Stacks": 0,
-                  "Torment DPS": 0,
-                  "Confusion Damage": 289.85999999999996,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 29008.052637499295,
-                  "Effective Health": 84704271.09375001,
-                  "Survivability": 43062.66959519574,
-                  "Effective Healing": 720.7200000000001,
-                  "Healing": 720.7200000000001
-              }, "runeId":24765, "runeName":"Balthazar", "infusions":[
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130
-              ], "weapons":{
-                  "weapon1MainType": "Axe",
-                  "weapon1MainSigil1Id": 44944,
-                  "weapon1OffType": "Torch",
-                  "weapon1OffSigilId": 24624,
-                  "weapon2MainType": "Staff",
-                  "weapon2MainSigil1Id": 74326,
-                  "weapon2MainSigil2Id": 24624
-              }, "consumables":{
-                   "foodId": 91703,
-                   "utilityId": 48917,
-                   "infusion": "Malign +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Mantra of Solace",
-                  "utility2": "Mantra of Potence",
-                  "utility3": "Sanctuary",
-                  "elite": "Feel my Wrath"
-                } 
-              }}
-      > 
+      <Character
+        title="Seraph 203 Agony Resistance"
+        gear={{
+          "profession": "Guardian",
+          "weight": "Heavy",
+          "gear": [
+            "Seraph",
+            "Seraph",
+            "Seraph",
+            "Seraph",
+            "Seraph",
+            "Seraph",
+            "Seraph",
+            "Seraph",
+            "Seraph",
+            "Seraph",
+            "Celestial",
+            "Seraph",
+            "Seraph",
+            "Seraph"
+          ],
+          "attributes": {
+            "Health": 17645,
+            "Armor": 2625,
+            "Power": 1840,
+            "Precision": 2515,
+            "Toughness": 1354,
+            "Vitality": 1600,
+            "Ferocity": 350,
+            "Condition Damage": 2854,
+            "Expertise": 120,
+            "Concentration": 938,
+            "Healing Power": 884,
+            "Agony Resistance": 203,
+            "Condition Duration": 0.08,
+            "Boon Duration": 0.6253333333333333,
+            "Critical Chance": 1.0714285714285714,
+            "Critical Damage": 1.7333333333333334,
+            "Burning Duration": 0.9,
+            "Effective Power": 4584.666666666667,
+            "Power DPS": 3957.960210499294,
+            "Burning Damage": 989.06325,
+            "Burning Stacks": 24.156,
+            "Burning DPS": 23891.811867,
+            "Bleeding Damage": 289.85999999999996,
+            "Bleeding Stacks": 3.9960000000000004,
+            "Bleeding DPS": 1158.28056,
+            "Poison Damage": 307.10999999999996,
+            "Poison Stacks": 0,
+            "Poison DPS": 0,
+            "Torment Damage": 432.99,
+            "Torment Stacks": 0,
+            "Torment DPS": 0,
+            "Confusion Damage": 289.85999999999996,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 29008.052637499295,
+            "Effective Health": 84704271.09375001,
+            "Survivability": 43062.66959519574,
+            "Effective Healing": 720.7200000000001,
+            "Healing": 720.7200000000001
+          },
+          "runeId": 24765,
+          "runeName": "Balthazar",
+          "infusions": [
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130
+          ],
+          "weapons": {
+            "weapon1MainType": "Axe",
+            "weapon1MainSigil1Id": 44944,
+            "weapon1OffType": "Torch",
+            "weapon1OffSigilId": 24624,
+            "weapon2MainType": "Staff",
+            "weapon2MainSigil1Id": 74326,
+            "weapon2MainSigil2Id": 24624
+          },
+          "consumables": {
+            "foodId": 91703,
+            "utilityId": 48917,
+            "infusion": "Malign +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "Mantra of Solace",
+            "utility2": "Mantra of Potence",
+            "utility3": "Sanctuary",
+            "elite": "Feel my Wrath"
+          }
+        }}
+      >
 
 
       **This is the standard build variant for high Agony Resistance. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**
@@ -342,102 +324,96 @@ sections:
               
       </Character>  
 
-      <Character title="Celestial Heal 162 Agony Resistance"
-                  gear={{ "profession": "Guardian",
-                  "weight":"Heavy", "gear":[
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial"
-              ], "attributes":{
-                  "Health": 20535,
-                  "Armor": 3153,
-                  "Power": 2429,
-                  "Precision": 1962,
-                  "Toughness": 1882,
-                  "Vitality": 1889,
-                  "Ferocity": 939,
-                  "Condition Damage": 1907,
-                  "Expertise": 739,
-                  "Concentration": 882,
-                  "Healing Power": 1064,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 0.59266666666666666,
-                  "Boon Duration": 0.738,
-                  "Critical Chance": 0.8080952380952381,
-                  "Critical Damage": 2.126,
-                  "Burning Duration": 0.40,
-                  "Effective Power": 6668.827162916666,
-                  "Power DPS": 5757.223911921125,
-                  "Burning Damage": 705.198328125,
-                  "Burning Stacks": 24.310533333333332,
-                  "Burning DPS": 17143.74746249375,
-                  "Bleeding Damage": 196.10375000000002,
-                  "Bleeding Stacks": 5.892866666666667,
-                  "Bleeding DPS": 1155.6132515833335,
-                  "Poison Damage": 212.63500000000002,
-                  "Poison Stacks": 0,
-                  "Poison DPS": 0,
-                  "Torment Damage": 292.430625,
-                  "Torment Stacks": 0,
-                  "Torment DPS": 0,
-                  "Confusion Damage": 196.10375000000002,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 24056.58462599821,
-                  "Effective Health": 107641646.4375,
-                  "Survivability": 54723.76534697509,
-                  "Effective Healing": 851.0400000000001,
-                  "Healing": 851.0400000000001
-              }, "runeId":24842, "runeName":"Monk", "infusions":[
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130
-              ], "weapons":{
-                  "weapon1MainType": "Axe",
-                  "weapon1MainSigil1": "Malice",
-                  "weapon1OffType": "Torch",
-                  "weapon1OffSigil": "smoldering",
-                  "weapon2MainType": "Staff",
-                  "weapon2MainSigil1": "transference",
-                  "weapon2MainSigil2": "smoldering"
-              }, "consumables":{
-                  "foodId": 91727,
-                  "utilityId": 77567,
-                  "infusion": "Malign +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Mantra of Solace",
-                  "utility2": "Mantra of Potence",
-                  "utility3": "Sanctuary",
-                  "elite": "Feel my Wrath"
-                } 
-              }}
+      <Character
+        title="Celestial Heal 162 Agony Resistance"
+        gear={{
+          "profession": "Guardian",
+          "weight": "Heavy",
+          "gear": [
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial"
+          ],
+          "attributes": {
+            "Health": 20535,
+            "Armor": 3153,
+            "Power": 2429,
+            "Precision": 1962,
+            "Toughness": 1882,
+            "Vitality": 1889,
+            "Ferocity": 939,
+            "Condition Damage": 1907,
+            "Expertise": 739,
+            "Concentration": 882,
+            "Healing Power": 1064,
+            "Agony Resistance": 162,
+            "Condition Duration": 0.59266666666666666,
+            "Boon Duration": 0.738,
+            "Critical Chance": 0.8080952380952381,
+            "Critical Damage": 2.126,
+            "Burning Duration": 0.4,
+            "Effective Power": 6668.827162916666,
+            "Power DPS": 5757.223911921125,
+            "Burning Damage": 705.198328125,
+            "Burning Stacks": 24.310533333333332,
+            "Burning DPS": 17143.74746249375,
+            "Bleeding Damage": 196.10375000000002,
+            "Bleeding Stacks": 5.892866666666667,
+            "Bleeding DPS": 1155.6132515833335,
+            "Poison Damage": 212.63500000000002,
+            "Poison Stacks": 0,
+            "Poison DPS": 0,
+            "Torment Damage": 292.430625,
+            "Torment Stacks": 0,
+            "Torment DPS": 0,
+            "Confusion Damage": 196.10375000000002,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 24056.58462599821,
+            "Effective Health": 107641646.4375,
+            "Survivability": 54723.76534697509,
+            "Effective Healing": 851.0400000000001,
+            "Healing": 851.0400000000001
+          },
+          "runeId": 24842,
+          "runeName": "Monk",
+          "infusions": [
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130
+          ],
+          "weapons": {
+            "weapon1MainType": "Axe",
+            "weapon1MainSigil1": "Malice",
+            "weapon1OffType": "Torch",
+            "weapon1OffSigil": "smoldering",
+            "weapon2MainType": "Staff",
+            "weapon2MainSigil1": "transference",
+            "weapon2MainSigil2": "smoldering"
+          },
+          "consumables": {
+            "foodId": 91727,
+            "utilityId": 77567,
+            "infusion": "Malign +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "Mantra of Solace",
+            "utility2": "Mantra of Potence",
+            "utility3": "Sanctuary",
+            "elite": "Feel my Wrath"
+          }
+        }}
       >
 
 

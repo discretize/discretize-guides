@@ -26,102 +26,97 @@ sections:
     title: Equipment
     content: |-
       <CharacterWithAr> 
-      <Character title="162 Agony Resistance" 
-                 gear={{ "profession": "Necromancer",
-                  "weight":"Light", "gear":[
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker"
-              ], "attributes":{
-                  "Health": 19212,
-                  "Armor": 2210,
-                  "Power": 4060,
-                  "Precision": 2304,
-                  "Toughness": 1243,
-                  "Vitality": 1000,
-                  "Ferocity": 1406,
-                  "Condition Damage": 500,
-                  "Expertise": 0,
-                  "Concentration": 243,
-                  "Healing Power": 0,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 0,
-                  "Boon Duration": 0.162,
-                  "Critical Chance": 0.870952380952381,
-                  "Critical Damage": 2.4373333333333335,
-                  "Effective Power": 25980.256646773483,
-                  "Power DPS": 23709.360128168333,
-                  "Burning Damage": 325.78125,
-                  "Burning Stacks": 1.9,
-                  "Burning DPS": 618.984375,
-                  "Bleeding Damage": 81.25,
-                  "Bleeding Stacks": 39.9,
-                  "Bleeding DPS": 3241.875,
-                  "Poison Damage": 99.21875,
-                  "Poison Stacks": 2.7,
-                  "Poison DPS": 267.890625,
-                  "Torment Damage": 120,
-                  "Torment Stacks": 3.9,
-                  "Torment DPS": 468,
-                  "Confusion Damage": 81.25,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 28306.110128168333,
-                  "Effective Health": 53073150,
-                  "Survivability": 26981.77427554652,
-                  "Effective Healing": 390,
-                  "Healing": 390
-              }, "runeId":24836, "runeName":"Scholar", "infusions":[
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131
-              ], "weapons":{
-                  "weapon1MainType": "Greatsword",
-                  "weapon1MainSigil1": "force",
-                  "weapon1MainSigil2": "impact",
-                  "weapon2MainType": "Axe",
-                  "weapon2MainSigil1": "force",
-                  "weapon2OffType": "Warhorn",
-                  "weapon2OffSigil": "impact"
-              }, "consumables":{
-                  "foodId": "91805",
-                  "utility": "superior-sharpening-stone",
-                  "infusion": "Mighty +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Signet of Vampirism",
-                  "utility2": "Well of Suffering",
-                  "utility3": "Signet of Spite",
-                  "elite": "Lich Form"
-                } 
-              }}
-      > 
+      
+      <Character
+        title="162 Agony Resistance"
+        gear={{
+          "profession": "Necromancer",
+          "weight": "Light",
+          "gear": [
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker"
+          ],
+          "attributes": {
+            "Health": 19212,
+            "Armor": 2210,
+            "Power": 4060,
+            "Precision": 2304,
+            "Toughness": 1243,
+            "Vitality": 1000,
+            "Ferocity": 1406,
+            "Condition Damage": 500,
+            "Expertise": 0,
+            "Concentration": 243,
+            "Healing Power": 0,
+            "Agony Resistance": 162,
+            "Condition Duration": 0,
+            "Boon Duration": 0.162,
+            "Critical Chance": 0.870952380952381,
+            "Critical Damage": 2.4373333333333335,
+            "Effective Power": 25980.256646773483,
+            "Power DPS": 23709.360128168333,
+            "Burning Damage": 325.78125,
+            "Burning Stacks": 1.9,
+            "Burning DPS": 618.984375,
+            "Bleeding Damage": 81.25,
+            "Bleeding Stacks": 39.9,
+            "Bleeding DPS": 3241.875,
+            "Poison Damage": 99.21875,
+            "Poison Stacks": 2.7,
+            "Poison DPS": 267.890625,
+            "Torment Damage": 120,
+            "Torment Stacks": 3.9,
+            "Torment DPS": 468,
+            "Confusion Damage": 81.25,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 28306.110128168333,
+            "Effective Health": 53073150,
+            "Survivability": 26981.77427554652,
+            "Effective Healing": 390,
+            "Healing": 390
+          },
+          "runeId": 24836,
+          "runeName": "Scholar",
+          "infusions": [
+            37131, 37131, 37131, 37131, 37131, 37131, 37131,
+            37131, 37131, 37131, 37131, 37131, 37131, 37131,
+            37131, 37131, 37131, 37131
+          ],
+          "weapons": {
+            "weapon1MainType": "Greatsword",
+            "weapon1MainSigil1": "force",
+            "weapon1MainSigil2": "impact",
+            "weapon2MainType": "Axe",
+            "weapon2MainSigil1": "force",
+            "weapon2OffType": "Warhorn",
+            "weapon2OffSigil": "impact"
+          },
+          "consumables": {
+            "foodId": "91805",
+            "utility": "superior-sharpening-stone",
+            "infusion": "Mighty +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "Signet of Vampirism",
+            "utility2": "Well of Suffering",
+            "utility3": "Signet of Spite",
+            "elite": "Lich Form"
+          }
+        }}
+      >
 
       You will be crit-capped in <Skill name="Reapers Shroud"/>. 
 

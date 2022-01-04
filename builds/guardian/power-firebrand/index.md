@@ -26,103 +26,97 @@ sections:
     content: >-
       <CharacterWithAr>  
 
-      <Character title="162 Agony Resistance (24.6% BD)" 
-                 gear={{ "profession": "Guardian",
-                  "weight":"Heavy", "gear":[
-                  "Assassin",
-                  "Assassin",
-                  "Assassin",
-                  "Berserker",
-                  "Assassin",
-                  "Berserker",
-                  "Diviner",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker"
-              ], "attributes":{
-                  "Health": 14145,
-                  "Armor": 2514,
-                  "Power": 3770,
-                  "Precision": 2365,
-                  "Toughness": 1243,
-                  "Vitality": 1250,
-                  "Ferocity": 1519,
-                  "Condition Damage": 1038,
-                  "Expertise": 0,
-                  "Concentration": 376,
-                  "Healing Power": 250,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 0,
-                  "Boon Duration": 0.25066666666666666,
-                  "Critical Chance": 1.00,
-                  "Critical Damage": 2.5126666666666665,
-                  "Effective Power": 25146.327163648635,
-                  "Power DPS": 32824.81674423137,
-                  "Burning Damage": 419.59187499999996,
-                  "Burning Stacks": 1.1,
-                  "Burning DPS": 461.5510625,
-                  "Bleeding Damage": 121.1525,
-                  "Bleeding Stacks": 0,
-                  "Bleeding DPS": 0,
-                  "Poison Damage": 137.68375,
-                  "Poison Stacks": 0,
-                  "Poison DPS": 0,
-                  "Torment Damage": 180.00375,
-                  "Torment Stacks": 0,
-                  "Torment DPS": 0,
-                  "Confusion Damage": 121.1525,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 33286.367806731374,
-                  "Effective Health": 65031319.23750001,
-                  "Survivability": 33061.16890569396,
-                  "Effective Healing": 465,
-                  "Healing": 465
-              }, "runeId":24836, "runeName":"Scholar", "infusions":[
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131
-              ], "weapons":{
-                  "weapon1MainType": "Sword",
-                  "weapon1MainSigil1Id": 24615,
-                  "weapon1OffType": "Focus",
-                  "weapon1OffSigilId": 24868,
-                  "weapon2MainType": "Greatsword",
-                  "weapon2MainSigil1Id": 24615,
-                  "weapon2MainSigil2Id": 24868
-              }, "consumables":{
-                  "foodId": 91805,
-                  "utilityId": 9443,
-                  "infusion": "Mighty +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Mantra of Solace",
-                  "utility1": "Mantra of Potence",
-                  "utility2": "Sword of Justice",
-                  "utility3": "Bane Signet",
-                  "elite": "Feel my Wrath"
-                } 
-              }}
-      >  
+      <Character
+        title="162 Agony Resistance (24.6% BD)"
+        gear={{
+          "profession": "Guardian",
+          "weight": "Heavy",
+          "gear": [
+            "Assassin",
+            "Assassin",
+            "Assassin",
+            "Berserker",
+            "Assassin",
+            "Berserker",
+            "Diviner",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker"
+          ],
+          "attributes": {
+            "Health": 14145,
+            "Armor": 2514,
+            "Power": 3770,
+            "Precision": 2365,
+            "Toughness": 1243,
+            "Vitality": 1250,
+            "Ferocity": 1519,
+            "Condition Damage": 1038,
+            "Expertise": 0,
+            "Concentration": 376,
+            "Healing Power": 250,
+            "Agony Resistance": 162,
+            "Condition Duration": 0,
+            "Boon Duration": 0.25066666666666666,
+            "Critical Chance": 1.0,
+            "Critical Damage": 2.5126666666666665,
+            "Effective Power": 25146.327163648635,
+            "Power DPS": 32824.81674423137,
+            "Burning Damage": 419.59187499999996,
+            "Burning Stacks": 1.1,
+            "Burning DPS": 461.5510625,
+            "Bleeding Damage": 121.1525,
+            "Bleeding Stacks": 0,
+            "Bleeding DPS": 0,
+            "Poison Damage": 137.68375,
+            "Poison Stacks": 0,
+            "Poison DPS": 0,
+            "Torment Damage": 180.00375,
+            "Torment Stacks": 0,
+            "Torment DPS": 0,
+            "Confusion Damage": 121.1525,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 33286.367806731374,
+            "Effective Health": 65031319.23750001,
+            "Survivability": 33061.16890569396,
+            "Effective Healing": 465,
+            "Healing": 465
+          },
+          "runeId": 24836,
+          "runeName": "Scholar",
+          "infusions": [
+            37131, 37131, 37131, 37131, 37131, 37131, 37131,
+            37131, 37131, 37131, 37131, 37131, 37131, 37131,
+            37131, 37131, 37131, 37131
+          ],
+          "weapons": {
+            "weapon1MainType": "Sword",
+            "weapon1MainSigil1Id": 24615,
+            "weapon1OffType": "Focus",
+            "weapon1OffSigilId": 24868,
+            "weapon2MainType": "Greatsword",
+            "weapon2MainSigil1Id": 24615,
+            "weapon2MainSigil2Id": 24868
+          },
+          "consumables": {
+            "foodId": 91805,
+            "utilityId": 9443,
+            "infusion": "Mighty +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "Mantra of Solace",
+            "utility1": "Mantra of Potence",
+            "utility2": "Sword of Justice",
+            "utility3": "Bane Signet",
+            "elite": "Feel my Wrath"
+          }
+        }}
+      >
 
 
       Note that this build variant only gains boon duration from the <Item id="79722"/>.
@@ -137,103 +131,97 @@ sections:
 
       </Character>  
 
-      <Character title="222 Agony Resistance (24.6% BD)" 
-                 gear={{ "profession": "Guardian",
-                  "weight":"Heavy", "gear":[
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Diviner",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker"
-              ], "attributes":{
-                  "Health": 14145,
-                  "Armor": 2604,
-                  "Power": 3885,
-                  "Precision": 2382,
-                  "Toughness": 1333,
-                  "Vitality": 1250,
-                  "Ferocity": 1544,
-                  "Condition Damage": 1038,
-                  "Expertise": 0,
-                  "Concentration": 373,
-                  "Healing Power": 250,
-                  "Agony Resistance": 222,
-                  "Condition Duration": 0,
-                  "Boon Duration": 0.24866666666666667,
-                  "Critical Chance": 1.0080952380952381,
-                  "Critical Damage": 2.5293333333333334,
-                  "Effective Power": 26085.275244209894,
-                  "Power DPS": 34050.47480857588,
-                  "Burning Damage": 419.59187499999996,
-                  "Burning Stacks": 1.1,
-                  "Burning DPS": 461.5510625,
-                  "Bleeding Damage": 121.1525,
-                  "Bleeding Stacks": 0,
-                  "Bleeding DPS": 0,
-                  "Poison Damage": 137.68375,
-                  "Poison Stacks": 0,
-                  "Poison DPS": 0,
-                  "Torment Damage": 180.00375,
-                  "Torment Stacks": 0,
-                  "Torment DPS": 0,
-                  "Confusion Damage": 121.1525,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 34512.02587107588,
-                  "Effective Health": 50646172.5,
-                  "Survivability": 25747.927046263347,
-                  "Effective Healing": 465,
-                  "Healing": 465
-              }, "runeId":24836, "runeName":"Scholar", "infusions":[
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131
-              ], "weapons":{
-                  "weapon1MainType": "Sword",
-                  "weapon1MainSigil1Id": 24615,
-                  "weapon1OffType": "Focus",
-                  "weapon1OffSigilId": 24868,
-                  "weapon2MainType": "Greatsword",
-                  "weapon2MainSigil1Id": 24615,
-                  "weapon2MainSigil2Id": 24868
-              }, "consumables":{
-                  "foodId": 91805,
-                  "utilityId": 9443,
-                  "infusion": "Mighty +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Mantra of Solace",
-                  "utility1": "Mantra of Potence",
-                  "utility2": "Sword of Justice",
-                  "utility3": "Bane Signet",
-                  "elite": "Feel my Wrath"
-                } 
-              }}
-      >  
+      <Character
+        title="222 Agony Resistance (24.6% BD)"
+        gear={{
+          "profession": "Guardian",
+          "weight": "Heavy",
+          "gear": [
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Diviner",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker"
+          ],
+          "attributes": {
+            "Health": 14145,
+            "Armor": 2604,
+            "Power": 3885,
+            "Precision": 2382,
+            "Toughness": 1333,
+            "Vitality": 1250,
+            "Ferocity": 1544,
+            "Condition Damage": 1038,
+            "Expertise": 0,
+            "Concentration": 373,
+            "Healing Power": 250,
+            "Agony Resistance": 222,
+            "Condition Duration": 0,
+            "Boon Duration": 0.24866666666666667,
+            "Critical Chance": 1.0080952380952381,
+            "Critical Damage": 2.5293333333333334,
+            "Effective Power": 26085.275244209894,
+            "Power DPS": 34050.47480857588,
+            "Burning Damage": 419.59187499999996,
+            "Burning Stacks": 1.1,
+            "Burning DPS": 461.5510625,
+            "Bleeding Damage": 121.1525,
+            "Bleeding Stacks": 0,
+            "Bleeding DPS": 0,
+            "Poison Damage": 137.68375,
+            "Poison Stacks": 0,
+            "Poison DPS": 0,
+            "Torment Damage": 180.00375,
+            "Torment Stacks": 0,
+            "Torment DPS": 0,
+            "Confusion Damage": 121.1525,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 34512.02587107588,
+            "Effective Health": 50646172.5,
+            "Survivability": 25747.927046263347,
+            "Effective Healing": 465,
+            "Healing": 465
+          },
+          "runeId": 24836,
+          "runeName": "Scholar",
+          "infusions": [
+            37131, 37131, 37131, 37131, 37131, 37131, 37131,
+            37131, 37131, 37131, 37131, 37131, 37131, 37131,
+            37131, 37131, 37131, 37131
+          ],
+          "weapons": {
+            "weapon1MainType": "Sword",
+            "weapon1MainSigil1Id": 24615,
+            "weapon1OffType": "Focus",
+            "weapon1OffSigilId": 24868,
+            "weapon2MainType": "Greatsword",
+            "weapon2MainSigil1Id": 24615,
+            "weapon2MainSigil2Id": 24868
+          },
+          "consumables": {
+            "foodId": 91805,
+            "utilityId": 9443,
+            "infusion": "Mighty +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "Mantra of Solace",
+            "utility1": "Mantra of Potence",
+            "utility2": "Sword of Justice",
+            "utility3": "Bane Signet",
+            "elite": "Feel my Wrath"
+          }
+        }}
+      >
 
 
       Note that this build variant only gains boon duration from the <Item id="79722"/>.

@@ -45,102 +45,96 @@ sections:
     content: >-
       <CharacterWithAr>  
 
-      <Character title="162 Agony Resistance" 
-                 gear={{ "profession": "Ranger",
-                  "weight":"Medium", "gear":[
-                  "Berserker",
-                  "Assassin",
-                  "Berserker",
-                  "Assassin",
-                  "Berserker",
-                  "Assassin",
-                  "Berserker",
-                  "Assassin",
-                  "Assassin",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker"
-              ], "attributes":{
-                  "Health": 17422,
-                  "Armor": 2511,
-                  "Power": 3675,
-                  "Precision": 2575,
-                  "Toughness": 1393,
-                  "Vitality": 1150,
-                  "Ferocity": 2106,
-                  "Condition Damage": 900,
-                  "Expertise": 0,
-                  "Concentration": 243,
-                  "Healing Power": 0,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 0,
-                  "Boon Duration": 0.162,
-                  "Critical Chance": 1.00,
-                  "Critical Damage": 2.904,
-                  "Effective Power": 34752.53438459952,
-                  "Power DPS": 37201.40376942113,
-                  "Burning Damage": 422.65625,
-                  "Burning Stacks": 0.67,
-                  "Burning DPS": 283.1796875,
-                  "Bleeding Damage": 118.75,
-                  "Bleeding Stacks": 4.5,
-                  "Bleeding DPS": 534.375,
-                  "Poison Damage": 136.71875,
-                  "Poison Stacks": 2.4,
-                  "Poison DPS": 328.125,
-                  "Torment Damage": 176.25,
-                  "Torment Stacks": 0,
-                  "Torment DPS": 0,
-                  "Confusion Damage": 118.75,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 38347.08345692113,
-                  "Effective Health": 60151632.75,
-                  "Survivability": 30580.39285714286,
-                  "Effective Healing": 390,
-                  "Healing": 390
-              }, "runeId":24836, "runeName":"Scholar", "infusions":[
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131
-              ], "weapons":{
-                  "weapon1MainType": "Longbow",
-                  "weapon1MainSigil1": "force",
-                  "weapon1MainSigil2": "impact",
-                  "weapon2MainType": "Sword",
-                  "weapon2MainSigil1": "force",
-                  "weapon2OffType": "Axe",
-                  "weapon2OffSigil": "impact"
-              }, "consumables":{
-                  "foodId": "91805",
-                  "utility": "superior-sharpening-stone",
-                  "infusion": "Mighty +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "We Heal as One",
-                  "utility2": "Sic Em",
-                  "utility3": "Frost Spirit",
-                  "elite": "One Wolf Pack"
-                } 
-              }}
-      >  
+      <Character
+        title="162 Agony Resistance"
+        gear={{
+          "profession": "Ranger",
+          "weight": "Medium",
+          "gear": [
+            "Berserker",
+            "Assassin",
+            "Berserker",
+            "Assassin",
+            "Berserker",
+            "Assassin",
+            "Berserker",
+            "Assassin",
+            "Assassin",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker"
+          ],
+          "attributes": {
+            "Health": 17422,
+            "Armor": 2511,
+            "Power": 3675,
+            "Precision": 2575,
+            "Toughness": 1393,
+            "Vitality": 1150,
+            "Ferocity": 2106,
+            "Condition Damage": 900,
+            "Expertise": 0,
+            "Concentration": 243,
+            "Healing Power": 0,
+            "Agony Resistance": 162,
+            "Condition Duration": 0,
+            "Boon Duration": 0.162,
+            "Critical Chance": 1.0,
+            "Critical Damage": 2.904,
+            "Effective Power": 34752.53438459952,
+            "Power DPS": 37201.40376942113,
+            "Burning Damage": 422.65625,
+            "Burning Stacks": 0.67,
+            "Burning DPS": 283.1796875,
+            "Bleeding Damage": 118.75,
+            "Bleeding Stacks": 4.5,
+            "Bleeding DPS": 534.375,
+            "Poison Damage": 136.71875,
+            "Poison Stacks": 2.4,
+            "Poison DPS": 328.125,
+            "Torment Damage": 176.25,
+            "Torment Stacks": 0,
+            "Torment DPS": 0,
+            "Confusion Damage": 118.75,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 38347.08345692113,
+            "Effective Health": 60151632.75,
+            "Survivability": 30580.39285714286,
+            "Effective Healing": 390,
+            "Healing": 390
+          },
+          "runeId": 24836,
+          "runeName": "Scholar",
+          "infusions": [
+            37131, 37131, 37131, 37131, 37131, 37131, 37131,
+            37131, 37131, 37131, 37131, 37131, 37131, 37131,
+            37131, 37131, 37131, 37131
+          ],
+          "weapons": {
+            "weapon1MainType": "Longbow",
+            "weapon1MainSigil1": "force",
+            "weapon1MainSigil2": "impact",
+            "weapon2MainType": "Sword",
+            "weapon2MainSigil1": "force",
+            "weapon2OffType": "Axe",
+            "weapon2OffSigil": "impact"
+          },
+          "consumables": {
+            "foodId": "91805",
+            "utility": "superior-sharpening-stone",
+            "infusion": "Mighty +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "We Heal as One",
+            "utility2": "Sic Em",
+            "utility3": "Frost Spirit",
+            "elite": "One Wolf Pack"
+          }
+        }}
+      >
 
 
       If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
@@ -151,102 +145,96 @@ sections:
 
       </Character> 
 
-      <Character title="222 Agony Resistance" 
-                 gear={{ "profession": "Ranger",
-                  "weight":"Medium", "gear":[
-                  "Assassin",
-                  "Assassin",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker"
-              ], "attributes":{
-                  "Health": 17422,
-                  "Armor": 2601,
-                  "Power": 3765,
-                  "Precision": 2575,
-                  "Toughness": 1483,
-                  "Vitality": 1150,
-                  "Ferocity": 2106,
-                  "Condition Damage": 900,
-                  "Expertise": 0,
-                  "Concentration": 333,
-                  "Healing Power": 0,
-                  "Agony Resistance": 222,
-                  "Condition Duration": 0,
-                  "Boon Duration": 0.222,
-                  "Critical Chance": 1.00,
-                  "Critical Damage": 2.904,
-                  "Effective Power": 35603.61685932441,
-                  "Power DPS": 38112.45855561103,
-                  "Burning Damage": 422.65625,
-                  "Burning Stacks": 0.67,
-                  "Burning DPS": 283.1796875,
-                  "Bleeding Damage": 118.75,
-                  "Bleeding Stacks": 4.5,
-                  "Bleeding DPS": 534.375,
-                  "Poison Damage": 136.71875,
-                  "Poison Stacks": 2.4,
-                  "Poison DPS": 328.125,
-                  "Torment Damage": 176.25,
-                  "Torment Stacks": 0,
-                  "Torment DPS": 0,
-                  "Confusion Damage": 118.75,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 39258.13824311103,
-                  "Effective Health": 62307605.25,
-                  "Survivability": 31676.464285714286,
-                  "Effective Healing": 390,
-                  "Healing": 390
-              }, "runeId":24836, "runeName":"Scholar", "infusions":[
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131
-              ], "weapons":{
-                  "weapon1MainType": "Longbow",
-                  "weapon1MainSigil1": "force",
-                  "weapon1MainSigil2": "impact",
-                  "weapon2MainType": "Sword",
-                  "weapon2MainSigil1": "force",
-                  "weapon2OffType": "Axe",
-                  "weapon2OffSigil": "impact"
-              }, "consumables":{
-                  "foodId": "91805",
-                  "utility": "superior-sharpening-stone",
-                  "infusion": "Mighty +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "We Heal as One",
-                  "utility2": "Sic Em",
-                  "utility3": "Frost Spirit",
-                  "elite": "One Wolf Pack"
-                } 
-              }}
-      >  
+      <Character
+        title="222 Agony Resistance"
+        gear={{
+          "profession": "Ranger",
+          "weight": "Medium",
+          "gear": [
+            "Assassin",
+            "Assassin",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker"
+          ],
+          "attributes": {
+            "Health": 17422,
+            "Armor": 2601,
+            "Power": 3765,
+            "Precision": 2575,
+            "Toughness": 1483,
+            "Vitality": 1150,
+            "Ferocity": 2106,
+            "Condition Damage": 900,
+            "Expertise": 0,
+            "Concentration": 333,
+            "Healing Power": 0,
+            "Agony Resistance": 222,
+            "Condition Duration": 0,
+            "Boon Duration": 0.222,
+            "Critical Chance": 1.0,
+            "Critical Damage": 2.904,
+            "Effective Power": 35603.61685932441,
+            "Power DPS": 38112.45855561103,
+            "Burning Damage": 422.65625,
+            "Burning Stacks": 0.67,
+            "Burning DPS": 283.1796875,
+            "Bleeding Damage": 118.75,
+            "Bleeding Stacks": 4.5,
+            "Bleeding DPS": 534.375,
+            "Poison Damage": 136.71875,
+            "Poison Stacks": 2.4,
+            "Poison DPS": 328.125,
+            "Torment Damage": 176.25,
+            "Torment Stacks": 0,
+            "Torment DPS": 0,
+            "Confusion Damage": 118.75,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 39258.13824311103,
+            "Effective Health": 62307605.25,
+            "Survivability": 31676.464285714286,
+            "Effective Healing": 390,
+            "Healing": 390
+          },
+          "runeId": 24836,
+          "runeName": "Scholar",
+          "infusions": [
+            37131, 37131, 37131, 37131, 37131, 37131, 37131,
+            37131, 37131, 37131, 37131, 37131, 37131, 37131,
+            37131, 37131, 37131, 37131
+          ],
+          "weapons": {
+            "weapon1MainType": "Longbow",
+            "weapon1MainSigil1": "force",
+            "weapon1MainSigil2": "impact",
+            "weapon2MainType": "Sword",
+            "weapon2MainSigil1": "force",
+            "weapon2OffType": "Axe",
+            "weapon2OffSigil": "impact"
+          },
+          "consumables": {
+            "foodId": "91805",
+            "utility": "superior-sharpening-stone",
+            "infusion": "Mighty +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "We Heal as One",
+            "utility2": "Sic Em",
+            "utility3": "Frost Spirit",
+            "elite": "One Wolf Pack"
+          }
+        }}
+      >
 
 
       You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also <Item id="70596"/>. <br/>
@@ -259,102 +247,96 @@ sections:
 
       </Character>  
 
-      <Character title="243 Agony Resistance" 
-                 gear={{ "profession": "Ranger",
-                  "weight":"Medium", "gear":[
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker",
-                  "Berserker"
-              ], "attributes":{
-                  "Health": 17422,
-                  "Armor": 2632,
-                  "Power": 3781,
-                  "Precision": 2575,
-                  "Toughness": 1514,
-                  "Vitality": 1150,
-                  "Ferocity": 2106,
-                  "Condition Damage": 900,
-                  "Expertise": 0,
-                  "Concentration": 364,
-                  "Healing Power": 0,
-                  "Agony Resistance": 243,
-                  "Condition Duration": 0,
-                  "Boon Duration": 0.24266666666666666,
-                  "Critical Chance": 1.00,
-                  "Critical Damage": 2.904,
-                  "Effective Power": 35896.76748950742,
-                  "Power DPS": 38426.266315298664,
-                  "Burning Damage": 422.65625,
-                  "Burning Stacks": 0.67,
-                  "Burning DPS": 283.1796875,
-                  "Bleeding Damage": 118.75,
-                  "Bleeding Stacks": 4.5,
-                  "Bleeding DPS": 534.375,
-                  "Poison Damage": 136.71875,
-                  "Poison Stacks": 2.4,
-                  "Poison DPS": 328.125,
-                  "Torment Damage": 176.25,
-                  "Torment Stacks": 0,
-                  "Torment DPS": 0,
-                  "Confusion Damage": 118.75,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 39571.946002798664,
-                  "Effective Health": 63050218,
-                  "Survivability": 32054,
-                  "Effective Healing": 390,
-                  "Healing": 390
-              }, "runeId":24836, "runeName":"Scholar", "infusions":[
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  49437,
-                  49437,
-                  49438,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131,
-                  37131
-              ], "weapons":{
-                  "weapon1MainType": "Longbow",
-                  "weapon1MainSigil1": "force",
-                  "weapon1MainSigil2": "impact",
-                  "weapon2MainType": "Sword",
-                  "weapon2MainSigil1": "force",
-                  "weapon2OffType": "Axe",
-                  "weapon2OffSigil": "impact"
-              }, "consumables":{
-                  "foodId": "91805",
-                  "utility": "superior-sharpening-stone",
-                  "infusion": "Mighty +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "We Heal as One",
-                  "utility2": "Sic Em",
-                  "utility3": "Frost Spirit",
-                  "elite": "One Wolf Pack"
-                } 
-              }}
-      > 
+      <Character
+        title="243 Agony Resistance"
+        gear={{
+          "profession": "Ranger",
+          "weight": "Medium",
+          "gear": [
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker",
+            "Berserker"
+          ],
+          "attributes": {
+            "Health": 17422,
+            "Armor": 2632,
+            "Power": 3781,
+            "Precision": 2575,
+            "Toughness": 1514,
+            "Vitality": 1150,
+            "Ferocity": 2106,
+            "Condition Damage": 900,
+            "Expertise": 0,
+            "Concentration": 364,
+            "Healing Power": 0,
+            "Agony Resistance": 243,
+            "Condition Duration": 0,
+            "Boon Duration": 0.24266666666666666,
+            "Critical Chance": 1.0,
+            "Critical Damage": 2.904,
+            "Effective Power": 35896.76748950742,
+            "Power DPS": 38426.266315298664,
+            "Burning Damage": 422.65625,
+            "Burning Stacks": 0.67,
+            "Burning DPS": 283.1796875,
+            "Bleeding Damage": 118.75,
+            "Bleeding Stacks": 4.5,
+            "Bleeding DPS": 534.375,
+            "Poison Damage": 136.71875,
+            "Poison Stacks": 2.4,
+            "Poison DPS": 328.125,
+            "Torment Damage": 176.25,
+            "Torment Stacks": 0,
+            "Torment DPS": 0,
+            "Confusion Damage": 118.75,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 39571.946002798664,
+            "Effective Health": 63050218,
+            "Survivability": 32054,
+            "Effective Healing": 390,
+            "Healing": 390
+          },
+          "runeId": 24836,
+          "runeName": "Scholar",
+          "infusions": [
+            37131, 37131, 37131, 37131, 37131, 37131, 37131,
+            37131, 49437, 49437, 49438, 37131, 37131, 37131,
+            37131, 37131, 37131, 37131
+          ],
+          "weapons": {
+            "weapon1MainType": "Longbow",
+            "weapon1MainSigil1": "force",
+            "weapon1MainSigil2": "impact",
+            "weapon2MainType": "Sword",
+            "weapon2MainSigil1": "force",
+            "weapon2OffType": "Axe",
+            "weapon2OffSigil": "impact"
+          },
+          "consumables": {
+            "foodId": "91805",
+            "utility": "superior-sharpening-stone",
+            "infusion": "Mighty +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "We Heal as One",
+            "utility2": "Sic Em",
+            "utility3": "Frost Spirit",
+            "elite": "One Wolf Pack"
+          }
+        }}
+      >
 
 
       You need <Item id="85743"/>, <Item id="86175"/>, 2x <Item id="49437"/> and 1x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>
