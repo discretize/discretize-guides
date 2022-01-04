@@ -37,104 +37,98 @@ sections:
     content: >-
       <CharacterWithAr> 
 
-      <Character title="162 Agony Resistance" 
-                 gear={{ "profession": "Guardian",
-                  "weight":"Heavy", "gear":[
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Sinister",
-                  "Sinister",
-                  "Viper",
-                  "Sinister",
-                  "Sinister",
-                  "Sinister",
-                  "Viper",
-                  "Viper"
-              ], "attributes":{
-                  "Health": 14145,
-                  "Armor": 2514,
-                  "Power": 2869,
-                  "Precision": 2085,
-                  "Toughness": 1243,
-                  "Vitality": 1250,
-                  "Ferocity": 300,
-                  "Condition Damage": 3188,
-                  "Expertise": 451,
-                  "Concentration": 243,
-                  "Healing Power": 250,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 0.30066666666666666,
-                  "Boon Duration": 0.162,
-                  "Critical Chance": 0.8666666666666666,
-                  "Critical Damage": 1.70,
-                  "Burning Duration": 0.70,
-                  "Resolution Duration": 0.25,
-                  "Effective Power": 7222.552095833332,
-                  "Power DPS": 6674.672710820176,
-                  "Burning Damage": 1078.3664999999999,
-                  "Burning Stacks": 30.8,
-                  "Burning DPS": 33213.6882,
-                  "Bleeding Damage": 319.92,
-                  "Bleeding Stacks": 6.113133333333334,
-                  "Bleeding DPS": 1955.7136160000002,
-                  "Poison Damage": 337.17,
-                  "Poison Stacks": 0,
-                  "Poison DPS": 0,
-                  "Torment Damage": 478.08000000000004,
-                  "Torment Stacks": 1.5608,
-                  "Torment DPS": 746.187264,
-                  "Confusion Damage": 319.92,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 42590.26179082017,
-                  "Effective Health": 48895728.75,
-                  "Survivability": 24858.021733604473,
-                  "Effective Healing": 465,
-                  "Healing": 465
-              }, "runeId":24765, "runeName":"Balthazar", "infusions":[
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130
-              ], "weapons":{
-                  "weapon1MainType": "Axe",
-                  "weapon1MainSigil1": "Earth",
-                  "weapon1OffType": "Torch",
-                  "weapon1OffSigil": "Bursting",
-                  "weapon2MainType": "Scepter",
-                  "weapon2MainSigil1": "Geomancy"
-              }, "consumables":{
-                  "foodId": "91878",
-                  "utility": "toxic-focusing-crystal",
-                  "infusion": "Malign +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Mantra of Solace",
-                  "utility1": "Mantra of Potence",
-                  "utility2": "Purging Flames",
-                  "utility3": "Sanctuary",
-                  "elite": "Feel my Wrath"
-                } 
-              }}
-      > 
+      <Character
+        title="162 Agony Resistance"
+        gear={{
+          "profession": "Guardian",
+          "weight": "Heavy",
+          "gear": [
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Sinister",
+            "Sinister",
+            "Viper",
+            "Sinister",
+            "Sinister",
+            "Sinister",
+            "Viper",
+            "Viper"
+          ],
+          "attributes": {
+            "Health": 14145,
+            "Armor": 2514,
+            "Power": 2869,
+            "Precision": 2085,
+            "Toughness": 1243,
+            "Vitality": 1250,
+            "Ferocity": 300,
+            "Condition Damage": 3188,
+            "Expertise": 451,
+            "Concentration": 243,
+            "Healing Power": 250,
+            "Agony Resistance": 162,
+            "Condition Duration": 0.30066666666666666,
+            "Boon Duration": 0.162,
+            "Critical Chance": 0.8666666666666666,
+            "Critical Damage": 1.7,
+            "Burning Duration": 0.7,
+            "Resolution Duration": 0.25,
+            "Effective Power": 7222.552095833332,
+            "Power DPS": 6674.672710820176,
+            "Burning Damage": 1078.3664999999999,
+            "Burning Stacks": 30.8,
+            "Burning DPS": 33213.6882,
+            "Bleeding Damage": 319.92,
+            "Bleeding Stacks": 6.113133333333334,
+            "Bleeding DPS": 1955.7136160000002,
+            "Poison Damage": 337.17,
+            "Poison Stacks": 0,
+            "Poison DPS": 0,
+            "Torment Damage": 478.08000000000004,
+            "Torment Stacks": 1.5608,
+            "Torment DPS": 746.187264,
+            "Confusion Damage": 319.92,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 42590.26179082017,
+            "Effective Health": 48895728.75,
+            "Survivability": 24858.021733604473,
+            "Effective Healing": 465,
+            "Healing": 465
+          },
+          "runeId": 24765,
+          "runeName": "Balthazar",
+          "infusions": [
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130
+          ],
+          "weapons": {
+            "weapon1MainType": "Axe",
+            "weapon1MainSigil1": "Earth",
+            "weapon1OffType": "Torch",
+            "weapon1OffSigil": "Bursting",
+            "weapon2MainType": "Scepter",
+            "weapon2MainSigil1": "Geomancy"
+          },
+          "consumables": {
+            "foodId": "91878",
+            "utility": "toxic-focusing-crystal",
+            "infusion": "Malign +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "Mantra of Solace",
+            "utility1": "Mantra of Potence",
+            "utility2": "Purging Flames",
+            "utility3": "Sanctuary",
+            "elite": "Feel my Wrath"
+          }
+        }}
+      >
 
 
       Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.

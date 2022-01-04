@@ -19,101 +19,95 @@ sections:
     content: >-
       <CharacterWithAr>  
 
-      <Character title="80% Boon Duration 162 Agony Resistance" 
-                 gear={{ "profession": "Revenant",
-                  "weight":"Heavy", "gear":[
-                  "Viper",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Viper",
-                  "Viper",
-                  "Celestial",
-                  "Viper",
-                  "Viper",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial"
-              ], "attributes":{
-                  "Health": 20572,
-                  "Armor": 2979,
-                  "Power": 2602,
-                  "Precision": 1916,
-                  "Toughness": 1708,
-                  "Vitality": 1465,
-                  "Ferocity": 615,
-                  "Condition Damage": 2068,
-                  "Expertise": 743,
-                  "Concentration": 827,
-                  "Healing Power": 465,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 0.7453333333333333,
-                  "Boon Duration": 0.8013333333333333,
-                  "Critical Chance": 1.0161904761904762,
-                  "Critical Damage": 1.91,
-                  "Bleeding Duration": 0.25,
-                  "Effective Power": 9821.3738146875,
-                  "Power DPS": 11262.245367785667,
-                  "Burning Damage": 747.8631250000001,
-                  "Burning Stacks": 7.330400000000001,
-                  "Burning DPS": 5482.135851500001,
-                  "Bleeding Damage": 302.43125,
-                  "Bleeding Stacks": 26.138866666666665,
-                  "Bleeding DPS": 7905.210119583332,
-                  "Poison Damage": 260.991875,
-                  "Poison Stacks": 7.854,
-                  "Poison DPS": 2049.8301862499998,
-                  "Torment Damage": 397.023,
-                  "Torment Stacks": 29.147066666666667,
-                  "Torment DPS": 11572.055849200002,
-                  "Confusion Damage": 241.94499999999996,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 38271.477374319,
-                  "Effective Health": 101884630.05000001,
-                  "Survivability": 51796.96494661922,
-                  "Effective Healing": 529.5,
-                  "Healing": 529.5
-              }, "runeId":70600, "runeName":"Leadership", "infusions":[
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130
-              ], "weapons":{
-                  "weapon1MainType": "Mace",
-                  "weapon1MainSigil1": "earth",
-                  "weapon1OffType": "Axe",
-                  "weapon1OffSigil": "doom",
-                  "weapon2MainType": "Short Bow",
-                  "weapon2MainSigil1": "torment",
-                  "weapon2MainSigil2": "geomancy"
-              }, "consumables":{
-                  "foodId": "91878",
-                  "utility": "toxic-maintenance-oil",
-                  "infusion": "Malign +9 Agony Infusion"
-              },
-                "legends": {
-                "legend1": "legendarydemonstance",
-                "legend2": "legendaryrenegadestance"
-                } 
-              }}
-      >  
+      <Character
+        title="80% Boon Duration 162 Agony Resistance"
+        gear={{
+          "profession": "Revenant",
+          "weight": "Heavy",
+          "gear": [
+            "Viper",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Viper",
+            "Viper",
+            "Celestial",
+            "Viper",
+            "Viper",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial"
+          ],
+          "attributes": {
+            "Health": 20572,
+            "Armor": 2979,
+            "Power": 2602,
+            "Precision": 1916,
+            "Toughness": 1708,
+            "Vitality": 1465,
+            "Ferocity": 615,
+            "Condition Damage": 2068,
+            "Expertise": 743,
+            "Concentration": 827,
+            "Healing Power": 465,
+            "Agony Resistance": 162,
+            "Condition Duration": 0.7453333333333333,
+            "Boon Duration": 0.8013333333333333,
+            "Critical Chance": 1.0161904761904762,
+            "Critical Damage": 1.91,
+            "Bleeding Duration": 0.25,
+            "Effective Power": 9821.3738146875,
+            "Power DPS": 11262.245367785667,
+            "Burning Damage": 747.8631250000001,
+            "Burning Stacks": 7.330400000000001,
+            "Burning DPS": 5482.135851500001,
+            "Bleeding Damage": 302.43125,
+            "Bleeding Stacks": 26.138866666666665,
+            "Bleeding DPS": 7905.210119583332,
+            "Poison Damage": 260.991875,
+            "Poison Stacks": 7.854,
+            "Poison DPS": 2049.8301862499998,
+            "Torment Damage": 397.023,
+            "Torment Stacks": 29.147066666666667,
+            "Torment DPS": 11572.055849200002,
+            "Confusion Damage": 241.94499999999996,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 38271.477374319,
+            "Effective Health": 101884630.05000001,
+            "Survivability": 51796.96494661922,
+            "Effective Healing": 529.5,
+            "Healing": 529.5
+          },
+          "runeId": 70600,
+          "runeName": "Leadership",
+          "infusions": [
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130
+          ],
+          "weapons": {
+            "weapon1MainType": "Mace",
+            "weapon1MainSigil1": "earth",
+            "weapon1OffType": "Axe",
+            "weapon1OffSigil": "doom",
+            "weapon2MainType": "Short Bow",
+            "weapon2MainSigil1": "torment",
+            "weapon2MainSigil2": "geomancy"
+          },
+          "consumables": {
+            "foodId": "91878",
+            "utility": "toxic-maintenance-oil",
+            "infusion": "Malign +9 Agony Infusion"
+          },
+          "legends": {
+            "legend1": "legendarydemonstance",
+            "legend2": "legendaryrenegadestance"
+          }
+        }}
+      >
 
 
       For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration. 
@@ -121,101 +115,95 @@ sections:
 
       </Character>  
 
-      <Character title="80% Boon Duration 222 Agony Resistance" 
-                 gear={{ "profession": "Revenant",
-                  "weight":"Heavy", "gear":[
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Celestial",
-                  "Viper",
-                  "Celestial",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Celestial",
-                  "Viper",
-                  "Viper",
-                  "Celestial",
-                  "Celestial"
-              ], "attributes":{
-                  "Health": 19592,
-                  "Armor": 2971,
-                  "Power": 2687,
-                  "Precision": 2003,
-                  "Toughness": 1700,
-                  "Vitality": 1367,
-                  "Ferocity": 517,
-                  "Condition Damage": 2166,
-                  "Expertise": 740,
-                  "Concentration": 826,
-                  "Healing Power": 367,
-                  "Agony Resistance": 222,
-                  "Condition Duration": 0.7433333333333334,
-                  "Boon Duration": 0.8006666666666666,
-                  "Critical Chance": 1.0576190476190476,
-                  "Critical Damage": 1.8446666666666667,
-                  "Bleeding Duration": 0.25,
-                  "Effective Power": 9795.28661596875,
-                  "Power DPS": 11232.330975107792,
-                  "Burning Damage": 773.0215625000001,
-                  "Burning Stacks": 7.322000000000001,
-                  "Burning DPS": 5660.063880625001,
-                  "Bleeding Damage": 314.6046875,
-                  "Bleeding Stacks": 26.112666666666666,
-                  "Bleeding DPS": 8215.167336458333,
-                  "Poison Damage": 270.73062500000003,
-                  "Poison Stacks": 7.845000000000001,
-                  "Poison DPS": 2123.8817531250006,
-                  "Torment Damage": 413.0919375000001,
-                  "Torment Stacks": 29.113666666666667,
-                  "Torment DPS": 12026.620971062503,
-                  "Confusion Damage": 251.68375,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 39258.06491637863,
-                  "Effective Health": 96770520.7,
-                  "Survivability": 49197.01103202847,
-                  "Effective Healing": 500.1,
-                  "Healing": 500.1
-              }, "runeId":70600, "runeName":"Leadership", "infusions":[
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130
-              ], "weapons":{
-                  "weapon1MainType": "Mace",
-                  "weapon1MainSigil1": "earth",
-                  "weapon1OffType": "Axe",
-                  "weapon1OffSigil": "doom",
-                  "weapon2MainType": "Short Bow",
-                  "weapon2MainSigil1": "torment",
-                  "weapon2MainSigil2": "geomancy"
-              }, "consumables":{
-                  "foodId": "91878",
-                  "utility": "toxic-maintenance-oil",
-                  "infusion": "Malign +9 Agony Infusion"
-              },
-                "legends": {
-                "legend1": "legendarydemonstance",
-                "legend2": "legendaryrenegadestance"
-                } 
-              }}
-      >  
+      <Character
+        title="80% Boon Duration 222 Agony Resistance"
+        gear={{
+          "profession": "Revenant",
+          "weight": "Heavy",
+          "gear": [
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Celestial",
+            "Viper",
+            "Celestial",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Celestial",
+            "Viper",
+            "Viper",
+            "Celestial",
+            "Celestial"
+          ],
+          "attributes": {
+            "Health": 19592,
+            "Armor": 2971,
+            "Power": 2687,
+            "Precision": 2003,
+            "Toughness": 1700,
+            "Vitality": 1367,
+            "Ferocity": 517,
+            "Condition Damage": 2166,
+            "Expertise": 740,
+            "Concentration": 826,
+            "Healing Power": 367,
+            "Agony Resistance": 222,
+            "Condition Duration": 0.7433333333333334,
+            "Boon Duration": 0.8006666666666666,
+            "Critical Chance": 1.0576190476190476,
+            "Critical Damage": 1.8446666666666667,
+            "Bleeding Duration": 0.25,
+            "Effective Power": 9795.28661596875,
+            "Power DPS": 11232.330975107792,
+            "Burning Damage": 773.0215625000001,
+            "Burning Stacks": 7.322000000000001,
+            "Burning DPS": 5660.063880625001,
+            "Bleeding Damage": 314.6046875,
+            "Bleeding Stacks": 26.112666666666666,
+            "Bleeding DPS": 8215.167336458333,
+            "Poison Damage": 270.73062500000003,
+            "Poison Stacks": 7.845000000000001,
+            "Poison DPS": 2123.8817531250006,
+            "Torment Damage": 413.0919375000001,
+            "Torment Stacks": 29.113666666666667,
+            "Torment DPS": 12026.620971062503,
+            "Confusion Damage": 251.68375,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 39258.06491637863,
+            "Effective Health": 96770520.7,
+            "Survivability": 49197.01103202847,
+            "Effective Healing": 500.1,
+            "Healing": 500.1
+          },
+          "runeId": 70600,
+          "runeName": "Leadership",
+          "infusions": [
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130
+          ],
+          "weapons": {
+            "weapon1MainType": "Mace",
+            "weapon1MainSigil1": "earth",
+            "weapon1OffType": "Axe",
+            "weapon1OffSigil": "doom",
+            "weapon2MainType": "Short Bow",
+            "weapon2MainSigil1": "torment",
+            "weapon2MainSigil2": "geomancy"
+          },
+          "consumables": {
+            "foodId": "91878",
+            "utility": "toxic-maintenance-oil",
+            "infusion": "Malign +9 Agony Infusion"
+          },
+          "legends": {
+            "legend1": "legendarydemonstance",
+            "legend2": "legendaryrenegadestance"
+          }
+        }}
+      >
 
 
       For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration. 
@@ -223,101 +211,95 @@ sections:
 
       </Character>  
 
-      <Character title="Condi DPS Renegade" 
-                 gear={{ "profession": "Revenant",
-                  "weight":"Heavy", "gear":[
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper"
-              ], "attributes":{
-                  "Health": 15922,
-                  "Armor": 2514,
-                  "Power": 2923,
-                  "Precision": 1876,
-                  "Toughness": 1243,
-                  "Vitality": 1000,
-                  "Ferocity": 150,
-                  "Condition Damage": 2633,
-                  "Expertise": 703,
-                  "Concentration": 243,
-                  "Healing Power": 0,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 0.8186666666666667,
-                  "Boon Duration": 0.162,
-                  "Critical Chance": 0.9971428571428572,
-                  "Critical Damage": 1.60,
-                  "Bleeding Duration": 0.25,
-                  "Effective Power": 9625.272571687501,
-                  "Power DPS": 11044.787163507413,
-                  "Burning Damage": 926.60390625,
-                  "Burning Stacks": 8.365866666666665,
-                  "Burning DPS": 7751.844732499999,
-                  "Bleeding Damage": 386.67578125,
-                  "Bleeding Stacks": 27.4,
-                  "Bleeding DPS": 10594.916406249999,
-                  "Poison Damage": 329.10625,
-                  "Poison Stacks": 8.911466666666668,
-                  "Poison DPS": 2932.819376666667,
-                  "Torment Damage": 508.14328125,
-                  "Torment Stacks": 33.281600000000005,
-                  "Torment DPS": 16911.82142925,
-                  "Confusion Damage": 309.340625,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 49236.189108174076,
-                  "Effective Health": 50034885,
-                  "Survivability": 25437.155566853075,
-                  "Effective Healing": 390,
-                  "Healing": 390
-              }, "runeId":24848, "runeName":"Nightmare", "infusions":[
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130
-              ], "weapons":{
-                  "weapon1MainType": "Mace",
-                  "weapon1MainSigil1": "earth",
-                  "weapon1OffType": "Axe",
-                  "weapon1OffSigil": "doom",
-                  "weapon2MainType": "Short Bow",
-                  "weapon2MainSigil1": "geomancy",
-                  "weapon2MainSigil2": "torment"
-              }, "consumables":{
-                  "foodId": "91878",
-                  "utility": "toxic-focusing-crystal",
-                  "infusion": "Malign +9 Agony Infusion"
-              },
-                "legends": {
-                "legend1": "legendarydemonstance",
-                "legend2": "legendaryrenegadestance"
-                } 
-              }}
-      >  
+      <Character
+        title="Condi DPS Renegade"
+        gear={{
+          "profession": "Revenant",
+          "weight": "Heavy",
+          "gear": [
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper"
+          ],
+          "attributes": {
+            "Health": 15922,
+            "Armor": 2514,
+            "Power": 2923,
+            "Precision": 1876,
+            "Toughness": 1243,
+            "Vitality": 1000,
+            "Ferocity": 150,
+            "Condition Damage": 2633,
+            "Expertise": 703,
+            "Concentration": 243,
+            "Healing Power": 0,
+            "Agony Resistance": 162,
+            "Condition Duration": 0.8186666666666667,
+            "Boon Duration": 0.162,
+            "Critical Chance": 0.9971428571428572,
+            "Critical Damage": 1.6,
+            "Bleeding Duration": 0.25,
+            "Effective Power": 9625.272571687501,
+            "Power DPS": 11044.787163507413,
+            "Burning Damage": 926.60390625,
+            "Burning Stacks": 8.365866666666665,
+            "Burning DPS": 7751.844732499999,
+            "Bleeding Damage": 386.67578125,
+            "Bleeding Stacks": 27.4,
+            "Bleeding DPS": 10594.916406249999,
+            "Poison Damage": 329.10625,
+            "Poison Stacks": 8.911466666666668,
+            "Poison DPS": 2932.819376666667,
+            "Torment Damage": 508.14328125,
+            "Torment Stacks": 33.281600000000005,
+            "Torment DPS": 16911.82142925,
+            "Confusion Damage": 309.340625,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 49236.189108174076,
+            "Effective Health": 50034885,
+            "Survivability": 25437.155566853075,
+            "Effective Healing": 390,
+            "Healing": 390
+          },
+          "runeId": 24848,
+          "runeName": "Nightmare",
+          "infusions": [
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130
+          ],
+          "weapons": {
+            "weapon1MainType": "Mace",
+            "weapon1MainSigil1": "earth",
+            "weapon1OffType": "Axe",
+            "weapon1OffSigil": "doom",
+            "weapon2MainType": "Short Bow",
+            "weapon2MainSigil1": "geomancy",
+            "weapon2MainSigil2": "torment"
+          },
+          "consumables": {
+            "foodId": "91878",
+            "utility": "toxic-focusing-crystal",
+            "infusion": "Malign +9 Agony Infusion"
+          },
+          "legends": {
+            "legend1": "legendarydemonstance",
+            "legend2": "legendaryrenegadestance"
+          }
+        }}
+      >
 
 
       If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can both play <Trait name="Righteous Rebel"/> to provide <Boon name="alacrity"/>, 

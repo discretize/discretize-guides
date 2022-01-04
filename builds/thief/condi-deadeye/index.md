@@ -48,101 +48,95 @@ sections:
     content: >-
       <CharacterWithAr>  
 
-      <Character title="162 Agony Resistance" 
-                 gear={{ "profession": "Thief",
-                  "weight":"Medium", "gear":[
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper"
-              ], "attributes":{
-                  "Health": 11645,
-                  "Armor": 2361,
-                  "Power": 2923,
-                  "Precision": 1876,
-                  "Toughness": 1243,
-                  "Vitality": 1000,
-                  "Ferocity": 150,
-                  "Condition Damage": 2756,
-                  "Expertise": 853,
-                  "Concentration": 423,
-                  "Healing Power": 0,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 0.7686666666666667,
-                  "Boon Duration": 0.282,
-                  "Critical Chance": 0.6671428571428572,
-                  "Critical Damage": 1.60,
-                  "Poison Duration": 0.33,
-                  "Effective Power": 9735.350599106787,
-                  "Power DPS": 6297.800926645899,
-                  "Burning Damage": 941.9287500000002,
-                  "Burning Stacks": 0.8843333333333334,
-                  "Burning DPS": 832.9789912500003,
-                  "Bleeding Damage": 395.2125,
-                  "Bleeding Stacks": 35.019600000000004,
-                  "Bleeding DPS": 13840.183665,
-                  "Poison Damage": 446.31641249999996,
-                  "Poison Stacks": 29.4,
-                  "Poison DPS": 13121.702527499998,
-                  "Torment Damage": 472.22999999999996,
-                  "Torment Stacks": 19.27846666666667,
-                  "Torment DPS": 9103.870314000002,
-                  "Confusion Damage": 316.16999999999996,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 43196.5364243959,
-                  "Effective Health": 37804036.875,
-                  "Survivability": 19219.13415099136,
-                  "Effective Healing": 390,
-                  "Healing": 390
-              }, "runeId":24848, "runeName":"Nightmare", "infusions":[
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130
-              ], "weapons":{
-                  "weapon1MainType": "Pistol",
-                  "weapon1MainSigil1": "bursting",
-                  "weapon1OffType": "Dagger",
-                  "weapon1OffSigil": "earth"
-              }, "consumables":{
-                  "foodId": "91878",
-                  "utility": "tuning-icicle",
-                  "infusion": "Malign +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Hide in Shadows",
-                  "utility1": "Mercy",
-                  "utility2": "Skale Venom",
-                  "utility3": "Spider Venom",
-                  "elite": "Shadow Meld"
-                } 
-              }}
-      >  
+      <Character
+        title="162 Agony Resistance"
+        gear={{
+          "profession": "Thief",
+          "weight": "Medium",
+          "gear": [
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper"
+          ],
+          "attributes": {
+            "Health": 11645,
+            "Armor": 2361,
+            "Power": 2923,
+            "Precision": 1876,
+            "Toughness": 1243,
+            "Vitality": 1000,
+            "Ferocity": 150,
+            "Condition Damage": 2756,
+            "Expertise": 853,
+            "Concentration": 423,
+            "Healing Power": 0,
+            "Agony Resistance": 162,
+            "Condition Duration": 0.7686666666666667,
+            "Boon Duration": 0.282,
+            "Critical Chance": 0.6671428571428572,
+            "Critical Damage": 1.6,
+            "Poison Duration": 0.33,
+            "Effective Power": 9735.350599106787,
+            "Power DPS": 6297.800926645899,
+            "Burning Damage": 941.9287500000002,
+            "Burning Stacks": 0.8843333333333334,
+            "Burning DPS": 832.9789912500003,
+            "Bleeding Damage": 395.2125,
+            "Bleeding Stacks": 35.019600000000004,
+            "Bleeding DPS": 13840.183665,
+            "Poison Damage": 446.31641249999996,
+            "Poison Stacks": 29.4,
+            "Poison DPS": 13121.702527499998,
+            "Torment Damage": 472.22999999999996,
+            "Torment Stacks": 19.27846666666667,
+            "Torment DPS": 9103.870314000002,
+            "Confusion Damage": 316.16999999999996,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 43196.5364243959,
+            "Effective Health": 37804036.875,
+            "Survivability": 19219.13415099136,
+            "Effective Healing": 390,
+            "Healing": 390
+          },
+          "runeId": 24848,
+          "runeName": "Nightmare",
+          "infusions": [
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130
+          ],
+          "weapons": {
+            "weapon1MainType": "Pistol",
+            "weapon1MainSigil1": "bursting",
+            "weapon1OffType": "Dagger",
+            "weapon1OffSigil": "earth"
+          },
+          "consumables": {
+            "foodId": "91878",
+            "utility": "tuning-icicle",
+            "infusion": "Malign +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "Hide in Shadows",
+            "utility1": "Mercy",
+            "utility2": "Skale Venom",
+            "utility3": "Spider Venom",
+            "elite": "Shadow Meld"
+          }
+        }}
+      >
 
 
       Note that there are two slightly different variants of this build: one is meant for bosses with very short phases such as Ensolyss or Light Ai; the other one is meant for longer fights, where you will need to sustain damage for a longer period of time. This will also depend on your group. It will always be better to use the latter with people you do not know well, or in situations where your party doesn't bring enough damage.

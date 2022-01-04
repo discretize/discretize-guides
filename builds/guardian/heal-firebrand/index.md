@@ -28,100 +28,94 @@ sections:
     content: >-
       <CharacterWithAr> 
 
-      <Character title="Heal Firebrand" 
-                 gear={{ "profession": "Guardian",
-                  "weight":"Heavy", "gear":[
-                  "Harrier",
-                  "Harrier",
-                  "Harrier",
-                  "Harrier",
-                  "Harrier",
-                  "Harrier",
-                  "Harrier",
-                  "Cleric",
-                  "Harrier",
-                  "Cleric",
-                  "Cleric",
-                  "Cleric",
-                  "Harrier",
-                  "Harrier"
-              ], "attributes":{
-                  "Health": 17145,
-                  "Armor": 2787,
-                  "Power": 3035,
-                  "Precision": 1323,
-                  "Toughness": 1516,
-                  "Vitality": 1550,
-                  "Ferocity": 300,
-                  "Condition Damage": 1038,
-                  "Expertise": 0,
-                  "Concentration": 1121,
-                  "Healing Power": 1712,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 0,
-                  "Boon Duration": 0.9973,
-                  "Critical Chance": 0.5038,
-                  "Critical Damage": 1.70,
-                  "Burning Duration": 1.05,
-                  "Effective Power": 5901.431,
-                  "Power DPS": 575.749,
-                  "Burning Damage": 0,
-                  "Burning Stacks": 0,
-                  "Burning DPS": 0,
-                  "Bleeding Damage": 0,
-                  "Bleeding Stacks": 0,
-                  "Bleeding DPS": 0,
-                  "Poison Damage": 0,
-                  "Poison Stacks": 0,
-                  "Poison DPS": 0,
-                  "Torment Damage": 0,
-                  "Torment Stacks": 0,
-                  "Torment DPS": 0,
-                  "Confusion Damage": 0,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 575.749,
-                  "Healing": 720.39
-              }, "runeId":24842, "runeName":"Monk", "infusions":[
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125,
-                  37125
-              ], "weapons":{
-                  "weapon1MainType": "Axe",
-                  "weapon1MainSigil1": "transference",
-                  "weapon1OffType": "Shield",
-                  "weapon1OffSigil": "concentration",
-                  "weapon2MainType": "Staff",
-                  "weapon2MainSigil1": "transference",
-                  "weapon2MainSigil2": "concentration"
-              }, "consumables":{
-                  "foodId": "91690",
-                  "utility": "bountiful-maintenance-oil",
-                  "infusion": "Healing +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Mantra of Solace",
-                  "utility1": "mantra of Potence",
-                  "utility3": "Sanctuary",
-                  "elite": "Feel My Wrath"
-                } 
-              }}
-      > 
+      <Character
+        title="Heal Firebrand"
+        gear={{
+          "profession": "Guardian",
+          "weight": "Heavy",
+          "gear": [
+            "Harrier",
+            "Harrier",
+            "Harrier",
+            "Harrier",
+            "Harrier",
+            "Harrier",
+            "Harrier",
+            "Cleric",
+            "Harrier",
+            "Cleric",
+            "Cleric",
+            "Cleric",
+            "Harrier",
+            "Harrier"
+          ],
+          "attributes": {
+            "Health": 17145,
+            "Armor": 2787,
+            "Power": 3035,
+            "Precision": 1323,
+            "Toughness": 1516,
+            "Vitality": 1550,
+            "Ferocity": 300,
+            "Condition Damage": 1038,
+            "Expertise": 0,
+            "Concentration": 1121,
+            "Healing Power": 1712,
+            "Agony Resistance": 162,
+            "Condition Duration": 0,
+            "Boon Duration": 0.9973,
+            "Critical Chance": 0.5038,
+            "Critical Damage": 1.7,
+            "Burning Duration": 1.05,
+            "Effective Power": 5901.431,
+            "Power DPS": 575.749,
+            "Burning Damage": 0,
+            "Burning Stacks": 0,
+            "Burning DPS": 0,
+            "Bleeding Damage": 0,
+            "Bleeding Stacks": 0,
+            "Bleeding DPS": 0,
+            "Poison Damage": 0,
+            "Poison Stacks": 0,
+            "Poison DPS": 0,
+            "Torment Damage": 0,
+            "Torment Stacks": 0,
+            "Torment DPS": 0,
+            "Confusion Damage": 0,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 575.749,
+            "Healing": 720.39
+          },
+          "runeId": 24842,
+          "runeName": "Monk",
+          "infusions": [
+            37125, 37125, 37125, 37125, 37125, 37125, 37125,
+            37125, 37125, 37125, 37125, 37125, 37125, 37125,
+            37125, 37125, 37125, 37125
+          ],
+          "weapons": {
+            "weapon1MainType": "Axe",
+            "weapon1MainSigil1": "transference",
+            "weapon1OffType": "Shield",
+            "weapon1OffSigil": "concentration",
+            "weapon2MainType": "Staff",
+            "weapon2MainSigil1": "transference",
+            "weapon2MainSigil2": "concentration"
+          },
+          "consumables": {
+            "foodId": "91690",
+            "utility": "bountiful-maintenance-oil",
+            "infusion": "Healing +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "Mantra of Solace",
+            "utility1": "mantra of Potence",
+            "utility3": "Sanctuary",
+            "elite": "Feel My Wrath"
+          }
+        }}
+      >
 
 
       Note that  this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
