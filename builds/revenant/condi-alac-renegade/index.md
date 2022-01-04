@@ -1,7 +1,6 @@
 ---
 sections:
-  - type: mdx
-    title: Overview
+  - title: Overview
     content: >-
       <Warning>
 
@@ -14,8 +13,7 @@ sections:
 
 
       Condi <Specialization name="Renegade"/> is pretty independent due to its rather good mobility (<Skill id="28029"/>, <Skill id="27917"/>) and permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
-  - type: null
-    title: Equipment
+  - title: Equipment
     content: >-
       <CharacterWithAr>  
 
@@ -326,8 +324,7 @@ sections:
       </Character> 
 
       </CharacterWithAr>
-  - type: mdx
-    title: Build
+  - title: Build
     content: >-
       <Grid>
 
@@ -352,8 +349,7 @@ sections:
       </GridItem>
 
       </Grid>
-  - type: mdx
-    title: Further Information
+  - title: Further Information
     content: >-
       <Grid>
 
@@ -503,7 +499,7 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
+code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
 classification:
   - 4
   - 3
@@ -517,7 +513,7 @@ role: Condi Damage
 profession: Revenant
 conditions:
   - Vulnerability
-cmGuide: ""
+cmGuide: ''
 ---
 
 <Divider text="Rotation / Skill usage"/>
