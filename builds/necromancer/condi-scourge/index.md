@@ -35,104 +35,98 @@ sections:
     content: >-
       <CharacterWithAr>  
 
-      <Character title="162 Agony Resistance" 
-                 gear={{ "profession": "Necromancer",
-                  "weight":"Light", "gear":[
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper"
-              ], "attributes":{
-                  "Health": 19212,
-                  "Armor": 2210,
-                  "Power": 2923,
-                  "Precision": 2056,
-                  "Toughness": 1243,
-                  "Vitality": 1000,
-                  "Ferocity": 150,
-                  "Condition Damage": 3083,
-                  "Expertise": 1036,
-                  "Concentration": 468,
-                  "Healing Power": 0,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 0.8906666666666666,
-                  "Boon Duration": 0.312,
-                  "Critical Chance": 0.9528571428571428,
-                  "Critical Damage": 1.60,
-                  "Bleeding Duration": 0.20,
-                  "Effective Power": 7264.453605357142,
-                  "Power DPS": 3930.133737207079,
-                  "Burning Damage": 989.405625,
-                  "Burning Stacks": 6.428266666666667,
-                  "Burning DPS": 6360.163199,
-                  "Bleeding Damage": 336.3425,
-                  "Bleeding Stacks": 41.2,
-                  "Bleeding DPS": 13857.311,
-                  "Poison Damage": 355.03,
-                  "Poison Stacks": 6.995466666666667,
-                  "Poison DPS": 2483.6005306666666,
-                  "Torment Damage": 628.2046875,
-                  "Torment Stacks": 26.847466666666666,
-                  "Torment DPS": 16865.704407499998,
-                  "Confusion Damage": 336.3425,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 43496.912874373746,
-                  "Effective Health": 53073150,
-                  "Survivability": 26981.77427554652,
-                  "Effective Healing": 390,
-                  "Healing": 390
-              }, "runeId":24848, "runeName":"Nightmare", "infusions":[
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130
-              ], "weapons":{
-                  "weapon1MainType": "Scepter",
-                  "weapon1MainSigil1": "bursting",
-                  "weapon1OffType": "Torch",
-                  "weapon1OffSigil": "torment",
-                  "weapon2MainType": "Scepter",
-                  "weapon2MainSigil1": "bursting",
-                  "weapon2OffType": "Warhorn",
-                  "weapon2OffSigil": "torment"
-              }, "consumables":{
-                  "foodId": "91878",
-                  "utility": "toxic-focusing-crystal",
-                  "infusion": "Malign +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Signet of Vampirism",
-                  "utility2": "Blood is Power",
-                  "utility3": "Signet of Undeath",
-                  "elite": "Plaguelands"
-                } 
-              }}
-      >  
+      <Character
+          title="162 Agony Resistance"
+          gear={{
+            "profession": "Necromancer",
+            "weight": "Light",
+            "gear": [
+              "Viper",
+              "Viper",
+              "Viper",
+              "Viper",
+              "Viper",
+              "Viper",
+              "Viper",
+              "Viper",
+              "Viper",
+              "Viper",
+              "Viper",
+              "Viper",
+              "Viper",
+              "Viper"
+            ],
+            "attributes": {
+              "Health": 19212,
+              "Armor": 2210,
+              "Power": 2923,
+              "Precision": 2056,
+              "Toughness": 1243,
+              "Vitality": 1000,
+              "Ferocity": 150,
+              "Condition Damage": 3083,
+              "Expertise": 1036,
+              "Concentration": 468,
+              "Healing Power": 0,
+              "Agony Resistance": 162,
+              "Condition Duration": 0.8906666666666666,
+              "Boon Duration": 0.312,
+              "Critical Chance": 0.9528571428571428,
+              "Critical Damage": 1.6,
+              "Bleeding Duration": 0.2,
+              "Effective Power": 7264.453605357142,
+              "Power DPS": 3930.133737207079,
+              "Burning Damage": 989.405625,
+              "Burning Stacks": 6.428266666666667,
+              "Burning DPS": 6360.163199,
+              "Bleeding Damage": 336.3425,
+              "Bleeding Stacks": 41.2,
+              "Bleeding DPS": 13857.311,
+              "Poison Damage": 355.03,
+              "Poison Stacks": 6.995466666666667,
+              "Poison DPS": 2483.6005306666666,
+              "Torment Damage": 628.2046875,
+              "Torment Stacks": 26.847466666666666,
+              "Torment DPS": 16865.704407499998,
+              "Confusion Damage": 336.3425,
+              "Confusion Stacks": 0,
+              "Confusion DPS": 0,
+              "Damage": 43496.912874373746,
+              "Effective Health": 53073150,
+              "Survivability": 26981.77427554652,
+              "Effective Healing": 390,
+              "Healing": 390
+            },
+            "runeId": 24848,
+            "runeName": "Nightmare",
+            "infusions": [
+              37130, 37130, 37130, 37130, 37130, 37130, 37130,
+              37130, 37130, 37130, 37130, 37130, 37130, 37130,
+              37130, 37130, 37130, 37130
+            ],
+            "weapons": {
+              "weapon1MainType": "Scepter",
+              "weapon1MainSigil1": "bursting",
+              "weapon1OffType": "Torch",
+              "weapon1OffSigil": "torment",
+              "weapon2MainType": "Scepter",
+              "weapon2MainSigil1": "bursting",
+              "weapon2OffType": "Warhorn",
+              "weapon2OffSigil": "torment"
+            },
+            "consumables": {
+              "foodId": "91878",
+              "utility": "toxic-focusing-crystal",
+              "infusion": "Malign +9 Agony Infusion"
+            },
+            "skills": {
+              "heal": "Signet of Vampirism",
+              "utility2": "Blood is Power",
+              "utility3": "Signet of Undeath",
+              "elite": "Plaguelands"
+            }
+          }}
+        >
 
 
       Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. Situational Runes:  

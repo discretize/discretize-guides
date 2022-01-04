@@ -26,102 +26,97 @@ sections:
     content: >-
       <CharacterWithAr>  
 
-      <Character title="162 Agony Resistance" 
-                 gear={{ "profession": "Guardian",
-                  "title":"162 Ar", "weight":"Heavy", "gear":[
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper",
-                  "Viper"
-              ],  "attributes": {
-                  "Health": 11645,
-                  "Armor": 2210,
-                  "Power": 3368,
-                  "Precision": 2006,
-                  "Toughness": 1243,
-                  "Vitality": 1000,
-                  "Ferocity": 270,
-                  "Condition Damage": 2929,
-                  "Expertise": 743,
-                  "Concentration": 243,
-                  "Healing Power": 0,
-                  "Agony Resistance": 162,
-                  "Condition Duration": 0.7953333333333333,
-                  "Boon Duration": 0.162,
-                  "Critical Chance": 0.829047619047619,
-                  "Critical Damage": 1.68,
-                  "Burning Duration": 0.20,
-                  "Bleeding Duration": 0.20,
-                  "Effective Power": 8744.397760999998,
-                  "Power DPS": 9427.922114285711,
-                  "Burning Damage": 950.616875,
-                  "Burning Stacks": 25.540266666666668,
-                  "Burning DPS": 24279.008485333336,
-                  "Bleeding Damage": 321.3275,
-                  "Bleeding Stacks": 32.3244,
-                  "Bleeding DPS": 10386.718641,
-                  "Poison Damage": 340.015,
-                  "Poison Stacks": 0,
-                  "Poison DPS": 0,
-                  "Torment Damage": 480.04125000000005,
-                  "Torment Stacks": 0,
-                  "Torment DPS": 0,
-                  "Confusion Damage": 321.3275,
-                  "Confusion Stacks": 0,
-                  "Confusion DPS": 0,
-                  "Damage": 44093.64924061905,
-                  "Effective Health": 34421164.375,
-                  "Survivability": 17499.32098373157,
-                  "Effective Healing": 390,
-                  "Healing": 390
-        }, "runeId":24800, "runeName":"Elementalist", "infusions":[
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130,
-                  37130
-              ], "weapons":{
-                  "weapon1MainType":"Sword",
-                  "weapon1MainSigil1":"Earth",
-                  "weapon1OffType":"Focus",
-                  "weapon1OffSigil":"Geomancy"
-              }, "consumables":{
-                  "foodId": "91876",
-                  "utilityId": "48917",
-                  "infusion": "Malign +9 Agony Infusion"
-              },
-                "skills": {
-                  "heal": "Signet of Restoration",
-                  "utility1": "Glyph of Elemental Power",
-                  "utility2": "Primordial Stance",
-                  "utility3": "Signet of Fire",
-                  "elite": "Weave Self"
-                } 
-              }}
-      >  
+      <Character
+        title="162 Agony Resistance"
+        gear={{
+          "profession": "Guardian",
+          "title": "162 Ar",
+          "weight": "Heavy",
+          "gear": [
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper",
+            "Viper"
+          ],
+          "attributes": {
+            "Health": 11645,
+            "Armor": 2210,
+            "Power": 3368,
+            "Precision": 2006,
+            "Toughness": 1243,
+            "Vitality": 1000,
+            "Ferocity": 270,
+            "Condition Damage": 2929,
+            "Expertise": 743,
+            "Concentration": 243,
+            "Healing Power": 0,
+            "Agony Resistance": 162,
+            "Condition Duration": 0.7953333333333333,
+            "Boon Duration": 0.162,
+            "Critical Chance": 0.829047619047619,
+            "Critical Damage": 1.68,
+            "Burning Duration": 0.2,
+            "Bleeding Duration": 0.2,
+            "Effective Power": 8744.397760999998,
+            "Power DPS": 9427.922114285711,
+            "Burning Damage": 950.616875,
+            "Burning Stacks": 25.540266666666668,
+            "Burning DPS": 24279.008485333336,
+            "Bleeding Damage": 321.3275,
+            "Bleeding Stacks": 32.3244,
+            "Bleeding DPS": 10386.718641,
+            "Poison Damage": 340.015,
+            "Poison Stacks": 0,
+            "Poison DPS": 0,
+            "Torment Damage": 480.04125000000005,
+            "Torment Stacks": 0,
+            "Torment DPS": 0,
+            "Confusion Damage": 321.3275,
+            "Confusion Stacks": 0,
+            "Confusion DPS": 0,
+            "Damage": 44093.64924061905,
+            "Effective Health": 34421164.375,
+            "Survivability": 17499.32098373157,
+            "Effective Healing": 390,
+            "Healing": 390
+          },
+          "runeId": 24800,
+          "runeName": "Elementalist",
+          "infusions": [
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130, 37130, 37130, 37130,
+            37130, 37130, 37130, 37130
+          ],
+          "weapons": {
+            "weapon1MainType": "Sword",
+            "weapon1MainSigil1": "Earth",
+            "weapon1OffType": "Focus",
+            "weapon1OffSigil": "Geomancy"
+          },
+          "consumables": {
+            "foodId": "91876",
+            "utilityId": "48917",
+            "infusion": "Malign +9 Agony Infusion"
+          },
+          "skills": {
+            "heal": "Signet of Restoration",
+            "utility1": "Glyph of Elemental Power",
+            "utility2": "Primordial Stance",
+            "utility3": "Signet of Fire",
+            "elite": "Weave Self"
+          }
+        }}
+      >
 
 
       Note that the build does not rely on precision as much as the <BuildLink build="Power Weaver" specialization="Weaver"/> variant and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. The stats shown are with 162 Agony Resistance.  This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="spitefulagonyinfusion"/>.  
