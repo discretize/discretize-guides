@@ -1,437 +1,6 @@
 ---
 title: Power Weaver
-sections:
-  - type: mdx
-    title: Overview
-    content: >-
-      The <Specialization name="Weaver" text="Power Weaver"/> is currently one
-      of the strongest DPS builds for fractals. <Specialization name="Weaver"
-      text="Power Weaver"/> provides conjures, <Condition
-      name="Vulnerability"/>, and additional <Boon name="Might"/> through
-      placing fire fields and blasting them. Also it is very useful for some T4
-      skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high
-      mobility and <Skill id="5536"/>.
-
-
-      Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
-
-
-      Also this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
-  - type: null
-    title: Equipment
-    content: >-
-      <CharacterWithAr>  
-
-      <Character
-        title="162 Agony Resistance"
-        gear={{
-          "profession": "Elementalist",
-          "weight": "Light",
-          "gear": [
-            "Berserker",
-            "Assassin",
-            "Berserker",
-            "Assassin",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Assassin",
-            "Assassin",
-            "Berserker",
-            "Berserker",
-            "Assassin",
-            "Berserker",
-            "Berserker"
-          ],
-          "attributes": {
-            "Health": 14155,
-            "Armor": 2210,
-            "Power": 3941,
-            "Precision": 2575,
-            "Toughness": 1243,
-            "Vitality": 1251,
-            "Ferocity": 1972,
-            "Condition Damage": 750,
-            "Expertise": 0,
-            "Concentration": 243,
-            "Healing Power": 0,
-            "Agony Resistance": 162,
-            "Condition Duration": 0,
-            "Boon Duration": 0.162,
-            "Critical Chance": 1.0,
-            "Critical Damage": 2.814666666666667,
-            "Burning Duration": 0.2,
-            "Effective Power": 32261.918293667994,
-            "Power DPS": 44970.4059388056,
-            "Burning Damage": 370.875,
-            "Burning Stacks": 8.04,
-            "Burning DPS": 2981.8349999999996,
-            "Bleeding Damage": 100.5,
-            "Bleeding Stacks": 0,
-            "Bleeding DPS": 0,
-            "Poison Damage": 117.75,
-            "Poison Stacks": 0,
-            "Poison DPS": 0,
-            "Torment Damage": 148.95,
-            "Torment Stacks": 0,
-            "Torment DPS": 0,
-            "Confusion Damage": 100.5,
-            "Confusion Stacks": 0,
-            "Confusion DPS": 0,
-            "Damage": 47952.2409388056,
-            "Effective Health": 57207963.31250001,
-            "Survivability": 29083.865435943066,
-            "Effective Healing": 390,
-            "Healing": 390
-          },
-          "infusions": [
-            37131, 37131, 37131, 37131, 37131, 37131, 37131,
-            37131, 37131, 37131, 37131, 37131, 37131, 37131,
-            37131, 37131, 37131, 37131
-          ],
-          "runeId": 24836,
-          "runeName": "Scholar",
-          "weapons": {
-            "weapon1MainType": "Sword",
-            "weapon1MainSigil1Id": 24615,
-            "weapon1OffType": "Dagger",
-            "weapon1OffSigilId": 24868
-          },
-          "consumables": {
-            "foodId": 91805,
-            "utilityId": 9443,
-            "infusion": "Mighty +9 Agony Infusion"
-          },
-          "skills": {
-            "heal": "Glyph of Elemental Harmony",
-            "utility1": "Primordial Stance",
-            "utility2": "Glyph of Storms",
-            "utility3": "Arcane Blast",
-            "elite": "Conjure Fiery Greatsword"
-          }
-        }}
-      >
-
-      If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
-
-
-      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
-
-
-      </Character> 
-
-      <Character
-        title="222 Agony Resistance"
-        gear={{
-          "profession": "Elementalist",
-          "weight": "Light",
-          "gear": [
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Assassin",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker"
-          ],
-          "attributes": {
-            "Health": 14205,
-            "Armor": 2300,
-            "Power": 4031,
-            "Precision": 2575,
-            "Toughness": 1333,
-            "Vitality": 1256,
-            "Ferocity": 1966,
-            "Condition Damage": 750,
-            "Expertise": 0,
-            "Concentration": 333,
-            "Healing Power": 0,
-            "Agony Resistance": 222,
-            "Condition Duration": 0,
-            "Boon Duration": 0.222,
-            "Critical Chance": 1.0,
-            "Critical Damage": 2.8106666666666666,
-            "Burning Duration": 0.2,
-            "Effective Power": 32951.78334349984,
-            "Power DPS": 45932.01990892161,
-            "Burning Damage": 370.875,
-            "Burning Stacks": 8.04,
-            "Burning DPS": 2981.8349999999996,
-            "Bleeding Damage": 100.5,
-            "Bleeding Stacks": 0,
-            "Bleeding DPS": 0,
-            "Poison Damage": 117.75,
-            "Poison Stacks": 0,
-            "Poison DPS": 0,
-            "Torment Damage": 148.95,
-            "Torment Stacks": 0,
-            "Torment DPS": 0,
-            "Confusion Damage": 100.5,
-            "Confusion Stacks": 0,
-            "Confusion DPS": 0,
-            "Damage": 48913.85490892161,
-            "Effective Health": 59748005.62500001,
-            "Survivability": 30375.19350533808,
-            "Effective Healing": 390,
-            "Healing": 390
-          },
-          "infusions": [
-            37131, 37131, 37131, 37131, 37131, 37131, 37131,
-            37131, 37131, 37131, 37131, 37131, 37131, 37131,
-            37131, 37131, 37131, 37131
-          ],
-          "runeId": 24836,
-          "runeName": "Scholar",
-          "weapons": {
-            "weapon1MainType": "Sword",
-            "weapon1MainSigil1Id": 24615,
-            "weapon1OffType": "Dagger",
-            "weapon1OffSigilId": 24868
-          },
-          "consumables": {
-            "foodId": 91805,
-            "utilityId": 9443,
-            "infusion": "Mighty +9 Agony Infusion"
-          },
-          "skills": {
-            "heal": "Glyph of Elemental Harmony",
-            "utility1": "Primordial Stance",
-            "utility2": "Glyph of Storms",
-            "utility3": "Arcane Blast",
-            "elite": "Conjure Fiery Greatsword"
-          }
-        }}
-      > 
-
-
-      You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also <Item id="70596"/>. <br/>  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants! 
-
-      </Character> 
-
-      <Character
-        title="245 Agony Resistance"
-        gear={{
-          "profession": "Elementalist",
-          "weight": "Light",
-          "gear": [
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker"
-          ],
-          "attributes": {
-            "Health": 14215,
-            "Armor": 2335,
-            "Power": 4057,
-            "Precision": 2575,
-            "Toughness": 1368,
-            "Vitality": 1257,
-            "Ferocity": 1963,
-            "Condition Damage": 750,
-            "Expertise": 0,
-            "Concentration": 368,
-            "Healing Power": 0,
-            "Agony Resistance": 245,
-            "Condition Duration": 0,
-            "Boon Duration": 0.24533333333333335,
-            "Critical Chance": 1.0,
-            "Critical Damage": 2.808666666666667,
-            "Burning Duration": 0.2,
-            "Effective Power": 33214.2428365642,
-            "Power DPS": 46297.86641061317,
-            "Burning Damage": 370.875,
-            "Burning Stacks": 8.04,
-            "Burning DPS": 2981.8349999999996,
-            "Bleeding Damage": 100.5,
-            "Bleeding Stacks": 0,
-            "Bleeding DPS": 0,
-            "Poison Damage": 117.75,
-            "Poison Stacks": 0,
-            "Poison DPS": 0,
-            "Torment Damage": 148.95,
-            "Torment Stacks": 0,
-            "Torment DPS": 0,
-            "Confusion Damage": 100.5,
-            "Confusion Stacks": 0,
-            "Confusion DPS": 0,
-            "Damage": 49279.70141061317,
-            "Effective Health": 60699915.71875001,
-            "Survivability": 30859.133563167263,
-            "Effective Healing": 390,
-            "Healing": 390
-          },
-          "infusions": [
-            37131, 37131, 37131, 37131, 37131, 37131, 37131,
-            37131, 49438, 49438, 49438, 37131, 37131, 37131,
-            37131, 37131, 37131, 37131
-          ],
-          "runeId": 24836,
-          "runeName": "Scholar",
-          "weapons": {
-            "weapon1MainType": "Sword",
-            "weapon1MainSigil1Id": 24615,
-            "weapon1OffType": "Dagger",
-            "weapon1OffSigilId": 24868
-          },
-          "consumables": {
-            "foodId": 91805,
-            "utilityId": 9443,
-            "infusion": "Mighty +9 Agony Infusion"
-          },
-          "skills": {
-            "heal": "Glyph of Elemental Harmony",
-            "utility1": "Primordial Stance",
-            "utility2": "Glyph of Storms",
-            "utility3": "Arcane Blast",
-            "elite": "Conjure Fiery Greatsword"
-          }
-        }}
-      >  
-
-
-      You need <Item id="85743"/>, <Item id="86175"/>, 3x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>. 
-
-
-      Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer) for more gear variants!
-
-
-      </Character> 
-
-      </CharacterWithAr>
-  - type: mdx
-    title: Build
-    content: >-
-      <Grid>
-
-      <GridItem sm="7">
-
-      <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude,Swift Revenge,Elements of Rage"/>
-
-      <Card title="Situational Traits">
-
-
-      |                                                     |                                                                                                                                                                       |
-
-      | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-      | <Trait name="Fresh Air" size="big" disableText/>    | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>.                                                                        |
-
-      | <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
-
-      | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
-
-
-      </Card>
-
-      <Card title="Defiance Bar Damage">
-
-
-      |                                                       |                                               |
-
-      | ----------------------------------------------------- | --------------------------------------------- |
-
-      | <Skill name="Updraft" size="big" disableText/>        | 332 with <Control name="Launch"/>             |
-
-      | <Skill name="Wind Blast" size="big" disableText/>     | 232 with <Control name="Launch"/>             |
-
-      | <Skill name="Polaric Leap" size="big" disableText/>   | 100 with <Control name="Daze"/>               |
-
-      | <Skill name="Earthquake" size="big" disableText/>     | 200 with <Control name="Knockdown"/>          |
-
-      | <Skill name="Gale Strike" size="big" disableText/>    | 125 with <Control name="Float"/>              |
-
-      | <Skill name="Twin Strike" size="big" disableText/>    | 33 / s (99) with <Condition name="Chilled"/>  |
-
-      | <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
-
-
-      </Card>
-
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-      <Card title="Swap Weapons">
-
-
-      - Dagger with <Item name="Night" type="Sigil"/>
-
-
-      - Dagger with <Item name="Serpent Slaying" type="Sigil"/>
-
-
-      - Daggers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
-
-
-      - A warhorn for <Skill name="Sand Squall"/> and <Skill name="Heat Sync"/> for tempest precast.
-
-
-      - A staff to precast <Skill name="Meteor Shower"/> on some encounters
-
-
-      </Card>
-
-      <Card title="Situational Skills">
-
-
-      |                                                                 |                                                                                                                                                                                                                                                                                                                                            |
-
-      | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-      | Heal                                                            |                                                                                                                                                                                                                                                                                                                                            |
-
-      | <Skill name="Arcane Brilliance" size="big" disableText/>        | Take it for additional <Boon name="Might"/> from fire fields. It is much less healing than glyph.                                                                                                                                                                                                                                          |
-
-      | <Skill name="Signet of Restoration" size="big" disableText/>    | Helps with keeping up <Item name="scholar"/> when burst heal is not needed.                                                                                                                                                                                                                                                                |
-
-      | <Skill name="Aquatic stance" size="big" disableText/>           | Another alternative healing skill affecting allies close to the target you strike.                                                                                                                                                                                                                                                         |
-
-      | Offensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
-
-      | <Skill name="Arcane Wave" size="big" disableText/>              | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                     |
-
-      | <Skill name="Unravel" size="big" disableText/>                  | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.                                                                                                                                                                                         |
-
-      | <Skill name="Conjure Lightning Hammer" size="big" disableText/> | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                        |
-
-      | <Skill name="Conjure Frostbow" size="big" disableText/>         | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.                                                                                                                                                                                                                                                |
-
-      | Defensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
-
-      | <Skill name="Arcane Shield" size="big" disableText/>            | Provides three blocks for things like the console in [Aetherblade Fractal](/fractals/aetherblade).                                                                                                                                                                                                                                         |
-
-      | <Skill name="Armor of Earth" size="big" disableText/>           | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>.                                                                                                                                                                                                                                           |
-
-      | <Skill name="Stone Resonance" size="big" disableText/>          | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).                                                                                                                                                                                                                    |
-
-      | Utility                                                         |                                                                                                                                                                                                                                                                                                                                            |
-
-      | <Skill name="Lightning Flash" size="big" disableText/>          | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
-
-
-      </Card>
-
-      </GridItem>
-
-      </Grid>
+sections: []
 rating: Good
 role: Power Damage
 profession: Elementalist
@@ -457,8 +26,368 @@ classification:
   - 2
   - 3
   - 4
-date: 2021-11-03T12:08:39.993Z
+date: 2022-01-05T21:55:47.026Z
 ---
+<Divider text="Overview"/>
+
+The <Specialization name="Weaver" text="Power Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
+
+Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
+
+Also this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+
+<Divider text="Equipment"/>
+
+<CharacterWithAr>  
+<Character
+  title="162 Agony Resistance"
+  gear={{
+    "profession": "Elementalist",
+    "weight": "Light",
+    "gear": [
+      "Berserker",
+      "Assassin",
+      "Berserker",
+      "Assassin",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Assassin",
+      "Assassin",
+      "Berserker",
+      "Berserker",
+      "Assassin",
+      "Berserker",
+      "Berserker"
+    ],
+    "attributes": {
+      "Health": 14155,
+      "Armor": 2210,
+      "Power": 3941,
+      "Precision": 2575,
+      "Toughness": 1243,
+      "Vitality": 1251,
+      "Ferocity": 1972,
+      "Condition Damage": 750,
+      "Expertise": 0,
+      "Concentration": 243,
+      "Healing Power": 0,
+      "Agony Resistance": 162,
+      "Condition Duration": 0,
+      "Boon Duration": 0.162,
+      "Critical Chance": 1.0,
+      "Critical Damage": 2.814666666666667,
+      "Burning Duration": 0.2,
+      "Effective Power": 32261.918293667994,
+      "Power DPS": 44970.4059388056,
+      "Burning Damage": 370.875,
+      "Burning Stacks": 8.04,
+      "Burning DPS": 2981.8349999999996,
+      "Bleeding Damage": 100.5,
+      "Bleeding Stacks": 0,
+      "Bleeding DPS": 0,
+      "Poison Damage": 117.75,
+      "Poison Stacks": 0,
+      "Poison DPS": 0,
+      "Torment Damage": 148.95,
+      "Torment Stacks": 0,
+      "Torment DPS": 0,
+      "Confusion Damage": 100.5,
+      "Confusion Stacks": 0,
+      "Confusion DPS": 0,
+      "Damage": 47952.2409388056,
+      "Effective Health": 57207963.31250001,
+      "Survivability": 29083.865435943066,
+      "Effective Healing": 390,
+      "Healing": 390
+    },
+    "infusions": [
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131
+    ],
+    "runeId": 24836,
+    "runeName": "Scholar",
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1Id": 24615,
+      "weapon1OffType": "Dagger",
+      "weapon1OffSigilId": 24868
+    },
+    "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Glyph of Elemental Harmony",
+      "utility1": "Primordial Stance",
+      "utility2": "Glyph of Storms",
+      "utility3": "Arcane Blast",
+      "elite": "Conjure Fiery Greatsword"
+    }
+  }}
+>
+If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
+Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+</Character> 
+<Character
+  title="222 Agony Resistance"
+  gear={{
+    "profession": "Elementalist",
+    "weight": "Light",
+    "gear": [
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Assassin",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker"
+    ],
+    "attributes": {
+      "Health": 14205,
+      "Armor": 2300,
+      "Power": 4031,
+      "Precision": 2575,
+      "Toughness": 1333,
+      "Vitality": 1256,
+      "Ferocity": 1966,
+      "Condition Damage": 750,
+      "Expertise": 0,
+      "Concentration": 333,
+      "Healing Power": 0,
+      "Agony Resistance": 222,
+      "Condition Duration": 0,
+      "Boon Duration": 0.222,
+      "Critical Chance": 1.0,
+      "Critical Damage": 2.8106666666666666,
+      "Burning Duration": 0.2,
+      "Effective Power": 32951.78334349984,
+      "Power DPS": 45932.01990892161,
+      "Burning Damage": 370.875,
+      "Burning Stacks": 8.04,
+      "Burning DPS": 2981.8349999999996,
+      "Bleeding Damage": 100.5,
+      "Bleeding Stacks": 0,
+      "Bleeding DPS": 0,
+      "Poison Damage": 117.75,
+      "Poison Stacks": 0,
+      "Poison DPS": 0,
+      "Torment Damage": 148.95,
+      "Torment Stacks": 0,
+      "Torment DPS": 0,
+      "Confusion Damage": 100.5,
+      "Confusion Stacks": 0,
+      "Confusion DPS": 0,
+      "Damage": 48913.85490892161,
+      "Effective Health": 59748005.62500001,
+      "Survivability": 30375.19350533808,
+      "Effective Healing": 390,
+      "Healing": 390
+    },
+    "infusions": [
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131
+    ],
+    "runeId": 24836,
+    "runeName": "Scholar",
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1Id": 24615,
+      "weapon1OffType": "Dagger",
+      "weapon1OffSigilId": 24868
+    },
+    "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Glyph of Elemental Harmony",
+      "utility1": "Primordial Stance",
+      "utility2": "Glyph of Storms",
+      "utility3": "Arcane Blast",
+      "elite": "Conjure Fiery Greatsword"
+    }
+  }}
+> 
+
+You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also <Item id="70596"/>. <br/>  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants! 
+</Character> 
+<Character
+  title="245 Agony Resistance"
+  gear={{
+    "profession": "Elementalist",
+    "weight": "Light",
+    "gear": [
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker"
+    ],
+    "attributes": {
+      "Health": 14215,
+      "Armor": 2335,
+      "Power": 4057,
+      "Precision": 2575,
+      "Toughness": 1368,
+      "Vitality": 1257,
+      "Ferocity": 1963,
+      "Condition Damage": 750,
+      "Expertise": 0,
+      "Concentration": 368,
+      "Healing Power": 0,
+      "Agony Resistance": 245,
+      "Condition Duration": 0,
+      "Boon Duration": 0.24533333333333335,
+      "Critical Chance": 1.0,
+      "Critical Damage": 2.808666666666667,
+      "Burning Duration": 0.2,
+      "Effective Power": 33214.2428365642,
+      "Power DPS": 46297.86641061317,
+      "Burning Damage": 370.875,
+      "Burning Stacks": 8.04,
+      "Burning DPS": 2981.8349999999996,
+      "Bleeding Damage": 100.5,
+      "Bleeding Stacks": 0,
+      "Bleeding DPS": 0,
+      "Poison Damage": 117.75,
+      "Poison Stacks": 0,
+      "Poison DPS": 0,
+      "Torment Damage": 148.95,
+      "Torment Stacks": 0,
+      "Torment DPS": 0,
+      "Confusion Damage": 100.5,
+      "Confusion Stacks": 0,
+      "Confusion DPS": 0,
+      "Damage": 49279.70141061317,
+      "Effective Health": 60699915.71875001,
+      "Survivability": 30859.133563167263,
+      "Effective Healing": 390,
+      "Healing": 390
+    },
+    "infusions": [
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 49438, 49438, 49438, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131
+    ],
+    "runeId": 24836,
+    "runeName": "Scholar",
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1Id": 24615,
+      "weapon1OffType": "Dagger",
+      "weapon1OffSigilId": 24868
+    },
+    "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Glyph of Elemental Harmony",
+      "utility1": "Primordial Stance",
+      "utility2": "Glyph of Storms",
+      "utility3": "Arcane Blast",
+      "elite": "Conjure Fiery Greatsword"
+    }
+  }}
+>  
+
+You need <Item id="85743"/>, <Item id="86175"/>, 3x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>. 
+
+Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer) for more gear variants!
+
+</Character> 
+</CharacterWithAr>
+
+<Divider text="Build"/>
+
+<Grid>
+<GridItem sm="7">
+<Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude,Swift Revenge,Elements of Rage"/>
+<Card title="Situational Traits">
+
+|                                                     |                                                                                                                                                                       |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Fresh Air" size="big" disableText/>    | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>.                                                                        |
+| <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+
+</Card>
+<Card title="Defiance Bar Damage">
+
+|                                                       |                                               |
+| ----------------------------------------------------- | --------------------------------------------- |
+| <Skill name="Updraft" size="big" disableText/>        | 332 with <Control name="Launch"/>             |
+| <Skill name="Wind Blast" size="big" disableText/>     | 232 with <Control name="Launch"/>             |
+| <Skill name="Polaric Leap" size="big" disableText/>   | 100 with <Control name="Daze"/>               |
+| <Skill name="Earthquake" size="big" disableText/>     | 200 with <Control name="Knockdown"/>          |
+| <Skill name="Gale Strike" size="big" disableText/>    | 125 with <Control name="Float"/>              |
+| <Skill name="Twin Strike" size="big" disableText/>    | 33 / s (99) with <Condition name="Chilled"/>  |
+| <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
+
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Swap Weapons">
+
+- Dagger with <Item name="Night" type="Sigil"/>
+
+- Dagger with <Item name="Serpent Slaying" type="Sigil"/>
+
+- Daggers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
+
+- A warhorn for <Skill name="Sand Squall"/> and <Skill name="Heat Sync"/> for tempest precast.
+
+- A staff to precast <Skill name="Meteor Shower"/> on some encounters
+
+</Card>
+<Card title="Situational Skills">
+
+|                                                                 |                                                                                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Heal                                                            |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Arcane Brilliance" size="big" disableText/>        | Take it for additional <Boon name="Might"/> from fire fields. It is much less healing than glyph.                                                                                                                                                                                                                                          |
+| <Skill name="Signet of Restoration" size="big" disableText/>    | Helps with keeping up <Item name="scholar"/> when burst heal is not needed.                                                                                                                                                                                                                                                                |
+| <Skill name="Aquatic stance" size="big" disableText/>           | Another alternative healing skill affecting allies close to the target you strike.                                                                                                                                                                                                                                                         |
+| Offensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Arcane Wave" size="big" disableText/>              | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                     |
+| <Skill name="Unravel" size="big" disableText/>                  | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.                                                                                                                                                                                         |
+| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                        |
+| <Skill name="Conjure Frostbow" size="big" disableText/>         | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.                                                                                                                                                                                                                                                |
+| Defensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Arcane Shield" size="big" disableText/>            | Provides three blocks for things like the console in [Aetherblade Fractal](/fractals/aetherblade).                                                                                                                                                                                                                                         |
+| <Skill name="Armor of Earth" size="big" disableText/>           | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>.                                                                                                                                                                                                                                           |
+| <Skill name="Stone Resonance" size="big" disableText/>          | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).                                                                                                                                                                                                                    |
+| Utility                                                         |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Lightning Flash" size="big" disableText/>          | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
+
+</Card>
+</GridItem>
+</Grid>
 
 <Divider text="Rotation / Skill usage"/>
 
