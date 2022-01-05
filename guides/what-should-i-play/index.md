@@ -1,9 +1,9 @@
 ---
-title: 'What Should I Play?'
-date: '2021-10-03'
-image: './images/whatshouldiplaylogo.png'
-description: 'If you do not know what class you want to play.'
-hidden: 'false'
+title: What Should I Play?
+date: 2022-01-05T22:48:25.333Z
+image: ./images/whatshouldiplaylogo.png
+description: If you do not know what class you want to play.
+hidden: "false"
 ---
 
 This page introduces all the builds on this website by giving a very short overview over the gameplay. It may help you to choose the right class for your very own playstyle. Generally there are three types of builds: DPS, offensive support and defensive support builds. A META team for example is only running DPS and offensive support builds.
@@ -12,7 +12,7 @@ Outline:
 
 1. **Condi:** These builds utilize condition damage as their main damage source. Due to <Effect name="Exposed"/> now granting 100% increased <Attribute name="Condition Damage"/> these builds perform well in daily clears. [Click here](/guides/meta-explained) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
 2. **Power:** These builds utilize power damage as their main damage source. These builds perform well in daily clears, but require more coordination to play, and also in more organised groups looking to push for faster kill times. [Click here](/guides/meta-explained) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
-3. **Hybrid:** It is not possible to unambiguously assign a hybrid build to any of the other categories. For example a hybrid build might be dealing damage while also providing more party support, which is especially strong in PuG groups. It could also have a rather mixed damage distribution (power <-> condition damage). [Click here](/guides/meta-explained) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
+3. **Hybrid:** It is not possible to unambiguously assign a hybrid build to any of the other categories. For example a hybrid build might be dealing damage while also providing more party support, which is especially strong in PuG groups. It could also have a rather mixed damage distribution (power vs. condition damage). [Click here](/guides/meta-explained) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
 4. **Heal:** These builds are full support builds. Due to the current META these builds are less effective due to the general tankiness and support most builds can bring, but are a great option for newer groups who would like more of a safety net to complete their fractals. [Click here](/guides/meta-explained) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
 
 <Divider text="Condi builds"/>
