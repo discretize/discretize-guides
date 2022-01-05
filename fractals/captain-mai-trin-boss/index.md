@@ -69,18 +69,18 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade traitline combo variant for more energy for the whole fight. Do not forget that <Skill name="Warding Rift"/> (Staff 3) can block Horrik's projectile if you stand into it!
 
 </Tab>
-<Tab specialization="soulbeast">
+<Tab specialization="Soulbeast">
 
 You can block Horrik's cannon projectile with <Skill name="Counterattack"/> (Greatsword 4).
 
 </Tab>
 
-<Tab specialization="berserker">
+<Tab specialization="Berserker">
 
 Play Greatsword with <Skill name="blood reckoning"/> for maximum cleave with double <Skill name="arcdivider"/>.
 </Tab>
 
-<Tab specialization="firebrand">
+<Tab specialization="Firebrand">
 
 Bring <Skill name="mantraofliberation"/> and <Skill name="wallofreflection"/>. Coordinate with your <Specialization name="Renegade"/>! Use your pulls on <Skill name="Blazing Edge"/> and <TomeSkill name="Chapter 3: Heated Rebuke"/> to stack up the additional adds.
 
