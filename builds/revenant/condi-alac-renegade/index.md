@@ -1,4 +1,5 @@
 ---
+title: Condi (Alac) Renegade
 sections:
   - title: Overview
     content: >-
@@ -307,173 +308,19 @@ sections:
 
       </CharacterWithAr>
   - title: Build
-    content: >-
-      <Grid>
-
-      <GridItem sm="7">
-
-      <Traits traits1Id="3" traits1="Invocation" traits1SelectedIds="1761,1781,1791" traits2Id="14" traits2="Corruption" traits2SelectedIds="1793,1714,1795" traits3Id="63" traits3="Renegade" traits3SelectedIds="2079,2092,2182"/>
-
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-
-      <Card title="Situational Traits">
-
-
-      - Take <Trait id="1774"/> if your <Boon name="Might"/> uptime is good enough without <Trait id="1781"/>.
-
-
-      </Card>
-
-      </GridItem>
-
-      </Grid>
-  - title: Further Information
-    content: >-
-      <Grid>
-
-      <GridItem sm="7">
-
-      <Card title="Key Skills">
-
-
-      <Skill id="41858"/> skills:
-
-
-      - <Skill id="45686"/>: self heal + pulsing area heal skill that can help <Skill id="12498"/> to stay alive
-
-
-      - <Skill id="42949"/>: excellent damage source and applies a lot of <Condition name="Bleeding"/>
-
-
-      - <Skill id="40485"/>: suboptimal on Condi <Specialization name="Renegade"/>, however, still a good source of <Condition name="Vulnerability"/>
-
-
-      - <Skill id="41220"/>: very good CC skill that does a total of 600 breakbar damage
-
-
-      - <Skill id="45773"/>: a situational skill that allows your party members to quickly replenish their health at the cost of damage when you are attuned to <Skill id="41858"/>
-
-
-      <Skill id="28494"/> skills:
-
-
-      - <Skill id="27505"/>: not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condition builds (which are less affected by <Boon name="Protection"/> than power builds), still a good skill to boonstrip quickly
-
-
-      - <Skill id="27917"/>: pretty good mobility skill that also does 150 breakbar damage
-
-
-      - <Skill id="28287"/>: one of your most important damage skills as it applies a lot of <Condition name="Torment"/>
-
-
-      Shortbow skills:
-
-
-      - <Skill id="40175"/>: fast and low-cost damage skill and applies some <Condition name="Bleeding"/>
-
-
-      - <Skill id="41829"/>: very good damage skill and applies a good amount of <Condition name="Torment"/>
-
-
-      - <Skill id="43993"/>: good damage skill and applies <Condition name="Burning"/> and <Condition name="Slow"/>
-
-
-      - <Skill id="41820"/> : applies <Condition name="Burning"/> and does 200 breakbar damage
-
-
-      Mace/Axe skills:
-
-
-      - <Skill id="28357"/>: fast and low-cost damage skill and applies <Condition name="Burning"/>
-
-
-      - <Skill id="27964"/>: fast and low-cost damage skill and a good mobility skill as well, applies <Condition name="Torment"/>
-
-
-      - <Skill id="28029"/>: good mobility skill
-
-
-      - <Skill id="28409"/>: good damage skill that deals good amount of breakbar damage as well, applies <Condition name="Torment"/>
-
-
-      <Specialization name="Renegade"/> skills:
-
-
-      - <Skill id="44076"/>: give 2 <Boon name="Might"/> to you and your group per <SpecialActionKey name="KallasFervor"/> you have
-
-
-      - <Skill id="41294"/>: your best burst skill that applies a lot of <Condition name="Burning"/>
-
-
-      - <Skill id="45537"/>: one of your most important skills as it gives <Boon name="Alacrity"/> to you and your group
-
-
-      </Card>
-
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-      <Card title="Defiance Bar Damage">
-
-
-      |                                            |                                                                                |
-
-      | ------------------------------------------ | ------------------------------------------------------------------------------ |
-
-      | <Skill id="41220" size="big" disableText/> | 100/s, 600 damage in total (<Skill id="41858"/> 3rd Utility )                  |
-
-      | <Skill id="27917" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 150 damage (<Skill id="28494"/> 3rd Utility) |
-
-      | <Skill id="41820" size="big" disableText/> | 200 damage (Shortbow 5)                                                        |
-
-      | <Skill id="43993" size="big" disableText/> | 50/s <Condition name="Slow"/> (Shortbow 4)                                     |
-
-      | <Skill id="28409" size="big" disableText/> | 150 damage (Axe 5)                                                             |
-
-      | <Skill id="28029" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 50/s <Condition name="Slow"/> (Axe 4)        |
-
-      | <Skill id="27505" size="big" disableText/> | 33/s <Condition name="Chilled"/>                                               |
-
-
-      </Card>
-
-
-      <Card title="When to use Order From Above">
-
-
-      - If you use the 80% Boon Duration build use your <Skill id="45537"/> off cooldown
-
-
-      - If you use the 30% Boon Duration build you will want to use your <Skill id="45537"/> whenever you see <Skill id="45970"/> on your bar
-
-
-      - If you use the 3rd build (Double Renegade) always use <Skill id="45537"/> during a <Skill id="41858"/> rotation
-
-
-      <Warning>
-
-      Do not use <Skill id="45537"/> right before a mechanic or any reason that would not let your whole party get every tick from <Skill id="45537"/> (like spreading around): you are already very tight on <Boon name="Alacrity"/>!
-
-      </Warning>
-
-      </Card>
-
-      </GridItem>
-
-      </Grid>
+    content: ""
+rating: Meta
+role: Condi Damage
 author: PineappleMan.1430
+profession: Revenant
 specialization: Renegade
 skills:
   - 45773
   - 27505
 traits:
   - 2182
+conditions:
+  - Vulnerability
 boons:
   - name: Alacrity
     uptime: 100%
@@ -481,22 +328,136 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
+code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
+cmGuide: ""
 classification:
   - 4
   - 3
   - 4
   - 3
   - 5
-date: 2022-01-02T16:50:19.610Z
-title: Condi (Alac) Renegade
-rating: Meta
-role: Condi Damage
-profession: Revenant
-conditions:
-  - Vulnerability
-cmGuide: ''
+date: 2022-01-05T22:44:23.430Z
 ---
+
+<Divider text="Overview"/>
+
+
+
+
+
+<Divider text="Equipment"/>
+
+
+
+
+
+<Divider text="Build"/>
+
+<Grid>
+<GridItem sm="7">
+<Traits traits1Id="3" traits1="Invocation" traits1SelectedIds="1761,1781,1791" traits2Id="14" traits2="Corruption" traits2SelectedIds="1793,1714,1795" traits3Id="63" traits3="Renegade" traits3SelectedIds="2079,2092,2182"/>
+</GridItem>
+
+<GridItem sm="5">
+
+<Card title="Situational Traits">
+
+- Take <Trait id="1774"/> if your <Boon name="Might"/> uptime is good enough without <Trait id="1781"/>.
+
+</Card>
+</GridItem>
+</Grid>
+
+
+
+<Divider text="Further Information"/>
+
+<Grid>
+<GridItem sm="7">
+<Card title="Key Skills">
+
+<Skill id="41858"/> skills:
+
+- <Skill id="45686"/>: self heal + pulsing area heal skill that can help <Skill id="12498"/> to stay alive
+
+- <Skill id="42949"/>: excellent damage source and applies a lot of <Condition name="Bleeding"/>
+
+- <Skill id="40485"/>: suboptimal on Condi <Specialization name="Renegade"/>, however, still a good source of <Condition name="Vulnerability"/>
+
+- <Skill id="41220"/>: very good CC skill that does a total of 600 breakbar damage
+
+- <Skill id="45773"/>: a situational skill that allows your party members to quickly replenish their health at the cost of damage when you are attuned to <Skill id="41858"/>
+
+<Skill id="28494"/> skills:
+
+- <Skill id="27505"/>: not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condition builds (which are less affected by <Boon name="Protection"/> than power builds), still a good skill to boonstrip quickly
+
+- <Skill id="27917"/>: pretty good mobility skill that also does 150 breakbar damage
+
+- <Skill id="28287"/>: one of your most important damage skills as it applies a lot of <Condition name="Torment"/>
+
+Shortbow skills:
+
+- <Skill id="40175"/>: fast and low-cost damage skill and applies some <Condition name="Bleeding"/>
+
+- <Skill id="41829"/>: very good damage skill and applies a good amount of <Condition name="Torment"/>
+
+- <Skill id="43993"/>: good damage skill and applies <Condition name="Burning"/> and <Condition name="Slow"/>
+
+- <Skill id="41820"/> : applies <Condition name="Burning"/> and does 200 breakbar damage
+
+Mace/Axe skills:
+
+- <Skill id="28357"/>: fast and low-cost damage skill and applies <Condition name="Burning"/>
+
+- <Skill id="27964"/>: fast and low-cost damage skill and a good mobility skill as well, applies <Condition name="Torment"/>
+
+- <Skill id="28029"/>: good mobility skill
+
+- <Skill id="28409"/>: good damage skill that deals good amount of breakbar damage as well, applies <Condition name="Torment"/>
+
+<Specialization name="Renegade"/> skills:
+
+- <Skill id="44076"/>: give 2 <Boon name="Might"/> to you and your group per <SpecialActionKey name="KallasFervor"/> you have
+
+- <Skill id="41294"/>: your best burst skill that applies a lot of <Condition name="Burning"/>
+
+- <Skill id="45537"/>: one of your most important skills as it gives <Boon name="Alacrity"/> to you and your group
+
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Defiance Bar Damage">
+
+|                                            |                                                                                |
+| ------------------------------------------ | ------------------------------------------------------------------------------ |
+| <Skill id="41220" size="big" disableText/> | 100/s, 600 damage in total (<Skill id="41858"/> 3rd Utility )                  |
+| <Skill id="27917" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 150 damage (<Skill id="28494"/> 3rd Utility) |
+| <Skill id="41820" size="big" disableText/> | 200 damage (Shortbow 5)                                                        |
+| <Skill id="43993" size="big" disableText/> | 50/s <Condition name="Slow"/> (Shortbow 4)                                     |
+| <Skill id="28409" size="big" disableText/> | 150 damage (Axe 5)                                                             |
+| <Skill id="28029" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 50/s <Condition name="Slow"/> (Axe 4)        |
+| <Skill id="27505" size="big" disableText/> | 33/s <Condition name="Chilled"/>                                               |
+
+</Card>
+
+<Card title="When to use Order From Above">
+
+- If you use the 80% Boon Duration build use your <Skill id="45537"/> off cooldown
+
+- If you use the 30% Boon Duration build you will want to use your <Skill id="45537"/> whenever you see <Skill id="45970"/> on your bar
+
+- If you use the 3rd build (Double Renegade) always use <Skill id="45537"/> during a <Skill id="41858"/> rotation
+
+<Warning>
+Do not use <Skill id="45537"/> right before a mechanic or any reason that would not let your whole party get every tick from <Skill id="45537"/> (like spreading around): you are already very tight on <Boon name="Alacrity"/>!
+</Warning>
+</Card>
+</GridItem>
+</Grid>
+
+
 
 <Divider text="Rotation / Skill usage"/>
 
