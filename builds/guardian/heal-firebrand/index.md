@@ -1,9 +1,6 @@
 ---
 title: Heal Firebrand
-sections:
-  - type: mdx
-    title: Healing
-    content: ""
+sections: []
 rating: Good
 role: Support
 author: Ascers.6082
@@ -41,7 +38,7 @@ classification:
   - 3
   - 1
   - 2
-date: 2022-01-05T22:13:16.143Z
+date: 2022-01-05T22:13:48.016Z
 ---
 <Divider text="Overview"/>
 
