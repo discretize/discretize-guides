@@ -15,11 +15,10 @@ compositions:
     roles: DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC
     composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
 title: Condi Soulbeast
-sections: []
 rating: Meta
 role: Condi Damage
 specialization: Soulbeast
-code: "[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
 date: 2022-01-05T22:51:09.763Z
 profession: Ranger
 conditions:
@@ -33,6 +32,7 @@ benchmark:
     by: Eren
     youtube: WSuDmiuAwC8
 ---
+
 <Divider text="Overview"/>
 
 <Warning>
@@ -55,9 +55,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <Divider text="Equipment"/>
 
 <CharacterWithAr>
-<Character
-  title="Krait Runes"
-  gear={{
+<Character title="Krait Runes" gear={{
     "profession": "Ranger",
     "weight": "Light",
     "gear": [
@@ -146,9 +144,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
     }
   }}
 />
-<Character
-  title="Afflicted Runes"
-  gear={{
+<Character title="Afflicted Runes" gear={{
     "profession": "Ranger",
     "weight": "Light",
     "gear": [
@@ -238,7 +234,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
     }
   }}
 >
-This builds damage depends on the amount of <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. The build deals similar DPS with 2 <Specialization name="Soulbeast" text="Condi Soulbeasts"/>, and outperforms the Krait build if you have 3 <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. If you are going to be on your own run the Krait rune setup!  
+This builds damage depends on the amount of <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. The build deals similar DPS with 2 <Specialization name="Soulbeast" text="Condi Soulbeasts"/>, and outperforms the Krait build if you have 3 <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. If you are going to be on your own run the Krait rune setup!
 
 </Character> 
 </CharacterWithAr>
@@ -255,7 +251,7 @@ This builds damage depends on the amount of <Specialization name="Soulbeast" tex
 
 |                                                       |                                                                                                                                                                                                                                                                                     |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Sun Spirit" size="big" disableText/>    | Your standard 3rd utility. Provides a partywide damage increase by causing you and allies to periodically inflict <Condition name="Burning"/>.                                                                                                                                                                                                    |
+| <Skill name="Sun Spirit" size="big" disableText/>     | Your standard 3rd utility. Provides a partywide damage increase by causing you and allies to periodically inflict <Condition name="Burning"/>.                                                                                                                                      |
 | <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Sun Spirit"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
 | <Skill name="Vipers Nest" size="big" disableText/>    | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>.                                                                                                                                    |
 | <Skill name="Bear stance" size="big" disableText/>    | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>.                                                                                                                                                                                                    |
@@ -280,9 +276,9 @@ This builds damage depends on the amount of <Specialization name="Soulbeast" tex
 <GridItem sm="7">
 <Card title="Situational Traits">
 
-|                                                         |                                                                                                                                  |
-| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Essence of Speed" size="big" disableText/> | Take this instead of <Trait name="Predators Cunning"/> if boon uptime in your party is bad and you want some extra generation.   |
+|                                                         |                                                                                                                                |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| <Trait name="Essence of Speed" size="big" disableText/> | Take this instead of <Trait name="Predators Cunning"/> if boon uptime in your party is bad and you want some extra generation. |
 
 </Card>
 

@@ -1,9 +1,8 @@
 ---
 title: Condi Scourge
-sections: []
 rating: Good
 role: Condi Damage
-author: "Discord: Amerikajinn#9784"
+author: 'Discord: Amerikajinn#9784'
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -22,8 +21,8 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: "[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
@@ -37,6 +36,7 @@ benchmark:
     by: Prud
     youtube: 6NbhBMCyjmw
 ---
+
 <Divider text="Overview"/>
 
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic traitline (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades and <Skill name="Epidemic"/>. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
@@ -54,9 +54,7 @@ Due to being a condition based build, it will not benefit as highly from slaying
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character
-    title="162 Agony Resistance"
-    gear={{
+<Character title="162 Agony Resistance" gear={{
       "profession": "Necromancer",
       "weight": "Light",
       "gear": [
@@ -147,10 +145,10 @@ Due to being a condition based build, it will not benefit as highly from slaying
     }}
   >
 
+Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. Situational Runes:
 
-Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. Situational Runes:  
-- <Item id="83502" /> works best for using and utilizing <Skill name="Epidemic" />, as its damage will be maximized with this rune. Note that you will have a loss of condition duration with this rune choice.  
-- <Item id="44956" /> provides a large boost to personal survivability on top of your barrier generation at the cost of a minor DPS loss.   
+- <Item id="83502" /> works best for using and utilizing <Skill name="Epidemic" />, as its damage will be maximized with this rune. Note that you will have a loss of condition duration with this rune choice.
+- <Item id="44956" /> provides a large boost to personal survivability on top of your barrier generation at the cost of a minor DPS loss.
 
 </Character>  
 </CharacterWithAr>
@@ -162,8 +160,8 @@ Note that the build does not rely on precision as much as Power builds and you c
 <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Desert Empowerment, Demonic Lore"/>
 <Card title="Traits">
 
-|                                           |                                                                                                                                                                                                                                                                                         |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                           |                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait id="2059" size="big" disableText/> | After the nerf to Barrier granted from <Skill name="Sand Flare"/> it's now best to run <Trait name="Desert Empowerment"/>. It is a very potent Barrier-spam, if you still need more personal Barrier feel free to use <Skill name="Sand Flare"/> for only a minor dps loss over <Skill name="Signet of Vampirism"/>. |
 
 </Card>
@@ -179,7 +177,7 @@ Note that the build does not rely on precision as much as Power builds and you c
 
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Epidemic" size="big" disableText/>         | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Particularly useful on mob heavy T4s and also Sunqua Peak CM, where it can be used in the dark phase to kill the Sorrows.                                                           |
+| <Skill name="Epidemic" size="big" disableText/>               | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Particularly useful on mob heavy T4s and also Sunqua Peak CM, where it can be used in the dark phase to kill the Sorrows.                                                                                                                                                                                                   |
 | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside.                                                          |
 | <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                   |
 | <Skill name="Summon Bone Minions" size="big" disableText/>    | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g. Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak)). |
@@ -215,13 +213,13 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 
 <Card title="Defiance Bar Damage">
 
-|                                                                        |                                                                                                                                  |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Oppressive Collapse" size="big" disableText/>             | 200 damage with <Control name="Knockdown"/>                                                                                      |
-| <Skill name="Garish Pillar" size="big" disableText/>                   | 200 damage with <Condition name="Fear"/>                                                                                         |
-| <Skill name="Wail of Doom" size="big" disableText/>                    | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>)                                       |
-| <Skill name="Charge" profession="necromancer" size="big" disableText/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox |
-| <Skill name="Spectral Grasp" size="big" disableText/>                  | 150-750 damage with <Control name="Pull" /> (see situational skills)                                                             |
+|                                                                        |                                                                                            |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| <Skill name="Oppressive Collapse" size="big" disableText/>             | 200 damage with <Control name="Knockdown"/>                                                |
+| <Skill name="Garish Pillar" size="big" disableText/>                   | 200 damage with <Condition name="Fear"/>                                                   |
+| <Skill name="Wail of Doom" size="big" disableText/>                    | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>) |
+| <Skill name="Charge" profession="necromancer" size="big" disableText/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox   |
+| <Skill name="Spectral Grasp" size="big" disableText/>                  | 150-750 damage with <Control name="Pull" /> (see situational skills)                       |
 
 </Card>
 </GridItem>

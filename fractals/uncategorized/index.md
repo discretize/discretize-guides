@@ -2,7 +2,6 @@
 potions:
   - id: 8887
     description: for Old Tom and the Raving Asura
-sections: []
 cycle: Day
 date: 2021-10-05T09:11:03.407Z
 consumables:

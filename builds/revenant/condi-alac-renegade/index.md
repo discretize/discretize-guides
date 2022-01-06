@@ -1,6 +1,5 @@
 ---
 title: Condi (Alac) Renegade
-sections: []
 rating: Meta
 role: Condi Damage
 author: PineappleMan.1430
@@ -20,8 +19,8 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
-cmGuide: ""
+code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
+cmGuide: ''
 classification:
   - 4
   - 3
@@ -41,14 +40,10 @@ Condi <Specialization name="Renegade"/> is an unique build that may only be play
 
 Condi <Specialization name="Renegade"/> is pretty independent due to its rather good mobility (<Skill id="28029"/>, <Skill id="27917"/>) and permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
 
-
-
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character
-  title="80% Boon Duration 162 Agony Resistance"
-  gear={{
+<Character title="80% Boon Duration 162 Agony Resistance" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
     "gear": [
@@ -136,12 +131,10 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
   }}
 >
 
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration. 
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
 
 </Character>  
-<Character
-  title="80% Boon Duration 222 Agony Resistance"
-  gear={{
+<Character title="80% Boon Duration 222 Agony Resistance" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
     "gear": [
@@ -229,12 +222,10 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
   }}
 >
 
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration. 
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
 
 </Character>  
-<Character
-  title="Condi DPS Renegade"
-  gear={{
+<Character title="Condi DPS Renegade" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
     "gear": [
@@ -322,12 +313,10 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
   }}
 >
 
-If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can both play <Trait name="Righteous Rebel"/> to provide <Boon name="alacrity"/>, 
+If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can both play <Trait name="Righteous Rebel"/> to provide <Boon name="alacrity"/>,
 
 </Character> 
 </CharacterWithAr>
-
-
 
 <Divider text="Build"/>
 
@@ -345,8 +334,6 @@ If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can b
 </Card>
 </GridItem>
 </Grid>
-
-
 
 <Divider text="Further Information"/>
 
@@ -434,8 +421,6 @@ Do not use <Skill id="45537"/> right before a mechanic or any reason that would 
 </Card>
 </GridItem>
 </Grid>
-
-
 
 <Divider text="Rotation / Skill usage"/>
 

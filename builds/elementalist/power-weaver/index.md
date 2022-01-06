@@ -1,6 +1,5 @@
 ---
 title: Power Weaver
-sections: []
 rating: Good
 role: Power Damage
 profession: Elementalist
@@ -18,7 +17,7 @@ conditions:
   - Burning
   - Chilled
   - Vulnerability
-code: "[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfHSkfOBsnD3QAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
   - 4
@@ -28,6 +27,7 @@ classification:
   - 4
 date: 2022-01-05T21:55:47.026Z
 ---
+
 <Divider text="Overview"/>
 
 The <Specialization name="Weaver" text="Power Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -38,10 +38,9 @@ Also this build depends pretty much on supports and boon uptimes, as it can't pr
 
 <Divider text="Equipment"/>
 
-<CharacterWithAr>  
-<Character
-  title="162 Agony Resistance"
-  gear={{
+<CharacterWithAr>
+
+<Character title="162 Agony Resistance" gear={{
     "profession": "Elementalist",
     "weight": "Light",
     "gear": [
@@ -126,16 +125,14 @@ Also this build depends pretty much on supports and boon uptimes, as it can't pr
       "utility3": "Arcane Blast",
       "elite": "Conjure Fiery Greatsword"
     }
-  }}
->
+}}>
+
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
 Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
 </Character> 
-<Character
-  title="222 Agony Resistance"
-  gear={{
+<Character title="222 Agony Resistance" gear={{
     "profession": "Elementalist",
     "weight": "Light",
     "gear": [
@@ -221,13 +218,12 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
       "elite": "Conjure Fiery Greatsword"
     }
   }}
-> 
+>
 
-You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also <Item id="70596"/>. <br/>  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.  Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants! 
-</Character> 
-<Character
-  title="245 Agony Resistance"
-  gear={{
+You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also <Item id="70596"/>. <br/> If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>. Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+
+</Character>
+<Character title="245 Agony Resistance" gear={{
     "profession": "Elementalist",
     "weight": "Light",
     "gear": [
@@ -313,9 +309,9 @@ You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also
       "elite": "Conjure Fiery Greatsword"
     }
   }}
->  
+>
 
-You need <Item id="85743"/>, <Item id="86175"/>, 3x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>  If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>. 
+You need <Item id="85743"/>, <Item id="86175"/>, 3x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/> If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
 Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer) for more gear variants!
 

@@ -7,7 +7,6 @@ skills:
 effects:
   - Stealth
 title: Power Holosmith
-sections: []
 rating: Good
 role: Power Damage
 author: Ascers.6082
@@ -18,8 +17,8 @@ conditions:
   - Blinded
   - Crippled
   - Immobile
-code: "[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
@@ -28,10 +27,12 @@ classification:
   - 4
 date: 2022-01-05T22:03:03.559Z
 ---
+
 <Divider text="Overview"/>
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
 It offers:
+
 - High burst and good sustained damage
 - Good crowd control
 - Good utility through <Condition name="Vulnerability"/> and access to some <Condition name="Blinded"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>
@@ -44,17 +45,16 @@ The build benefits from slaying potions such as <Item name="Powerful Potion of s
 The main thing the build lacks compared to other Power DPS classes is a unique party buff for Power compositions like <Specialization text="Power Dragonhunter" name="Dragonhunter"/>'s <Skill name="Bane Signet"/> share.
 
 There are 3 different versions of <Specialization text="Power Holosmith" name="Holosmith"/>, namely Sword ECSU, Sword PBM and Rifle PBM. They are named after:
+
 - The weapon they are holding, Sword+Shield vs Rifle.
 - The Grandmaster Holosmith Trait they use, Enhanced Capacity Storage Unit (ECSU) vs Photonic Blasting Module (PBM).
- 
+
 This guide will focus mainly on the Sword ECSU variant since it is the most flexible of the 3.
 
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character
-  title="150 Agony Resistance"
-  gear={{
+<Character title="150 Agony Resistance" gear={{
     "profession": "Engineer",
     "weight": "Medium",
     "gear": [
@@ -142,7 +142,7 @@ This guide will focus mainly on the Sword ECSU variant since it is the most flex
   }}
 >
 
-Due to the naturally high crit-chance from the Firearms Trait Line, this build does not rely on high Agony Resistance to reach crit-cap. You will only need higher Agony Resistance or Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.  You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield. 
+Due to the naturally high crit-chance from the Firearms Trait Line, this build does not rely on high Agony Resistance to reach crit-cap. You will only need higher Agony Resistance or Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>. You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
 
 </Character>
 </CharacterWithAr>
@@ -185,10 +185,10 @@ Due to the naturally high crit-chance from the Firearms Trait Line, this build d
 <GridItem sm="7">
 <Card title="Situational Traits">
 
-|                                                       |                                                                                                                    |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| <Trait name="Photonic Blasting Module" size="big" disableText/> | When running the Rifle or Sword PBM build. |
-| <Trait name="Sanguine Array" size="big" disableText/> | If you are already crit capped without <Trait name="High Caliber"/> and struggle with <Boon name="Might"/> uptime. |
+|                                                                 |                                                                                                                    |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| <Trait name="Photonic Blasting Module" size="big" disableText/> | When running the Rifle or Sword PBM build.                                                                         |
+| <Trait name="Sanguine Array" size="big" disableText/>           | If you are already crit capped without <Trait name="High Caliber"/> and struggle with <Boon name="Might"/> uptime. |
 
 <Traits traits1Id="21" traits1="Tools" traits1SelectedIds="532,512,1856" unembossed/>
 If your <Boon name="Quickness"/> uptime is low, you can swap out the Firearms trait line with Tools and replace <Skill id="5805"/> with <Skill id="43739"/>.
@@ -201,13 +201,13 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                       |                                                                                                                    |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| <Skill id="5857" size="big" disableText/>  | An alternative heal skill if condition cleanse is needed. You can cast it AFTER (cause of water field) a fire field to blast <Boon name="might"/>. |
-| <Skill id="43739" size="big" disableText/> | A (group) block that also reflects projectiles if heat is above 50. (replace <Skill id="6020"/>) |
-| <Skill id="30337" size="big" disableText/> | Offers higher burst than <Skill id="5818"/>. Very effective countermeasure for <Instability name="No Pain, No Gain"/>! |
-| <Skill name="Bomb Kit" size="big" disableText/> | Default pick for the Rifle variant instead of <Skill name="Rifle Turret"/>. Can be helpful to provide a smoke field through <Skill name="Smoke Bomb"/> or fire field through <Skill name="Fire Bomb"/>. |
-| <Skill name="Flamethrower" size="big" disableText/> | Can provide a fire field and a blast finisher. You can pre-cast the toolbelt skill <Skill name="Incendiary Ammo"/> for some extra damage. |
+|                                                     |                                                                                                                                                                                                         |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill id="5857" size="big" disableText/>           | An alternative heal skill if condition cleanse is needed. You can cast it AFTER (cause of water field) a fire field to blast <Boon name="might"/>.                                                      |
+| <Skill id="43739" size="big" disableText/>          | A (group) block that also reflects projectiles if heat is above 50. (replace <Skill id="6020"/>)                                                                                                        |
+| <Skill id="30337" size="big" disableText/>          | Offers higher burst than <Skill id="5818"/>. Very effective countermeasure for <Instability name="No Pain, No Gain"/>!                                                                                  |
+| <Skill name="Bomb Kit" size="big" disableText/>     | Default pick for the Rifle variant instead of <Skill name="Rifle Turret"/>. Can be helpful to provide a smoke field through <Skill name="Smoke Bomb"/> or fire field through <Skill name="Fire Bomb"/>. |
+| <Skill name="Flamethrower" size="big" disableText/> | Can provide a fire field and a blast finisher. You can pre-cast the toolbelt skill <Skill name="Incendiary Ammo"/> for some extra damage.                                                               |
 
 </Card>
 

@@ -1,6 +1,5 @@
 ---
 title: Power Quickness Firebrand
-sections: []
 rating: Power Meta
 role: Power Damage
 author: ganymed.3541
@@ -21,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: "[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: static
 classification:
   - 5
@@ -31,6 +30,7 @@ classification:
   - 4
 date: 2022-01-05T22:19:36.092Z
 ---
+
 <Divider text="Overview"/>
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing very decent DPS.
@@ -46,9 +46,7 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character
-  title="162 Agony Resistance (24.6% BD)"
-  gear={{
+<Character title="162 Agony Resistance (24.6% BD)" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
@@ -142,12 +140,10 @@ Note that this build variant only gains boon duration from the <Item id="79722"/
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants! 
+Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
 </Character>  
-<Character
-  title="222 Agony Resistance (24.6% BD)"
-  gear={{
+<Character title="222 Agony Resistance (24.6% BD)" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
@@ -241,7 +237,7 @@ Note that this build variant only gains boon duration from the <Item id="79722"/
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants! 
+Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
 </Character> 
 </CharacterWithAr>
@@ -254,14 +250,14 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 
 <Card title="Defiance Bar Damage">
 
-|                                                 |            |
-| ----------------------------------------------- | ---------- |
-| <Skill id="9093"/>                              | 300 damage |
-| <Skill id="9226"/> (after <Skill id="9147"/>)   | 150 damage |
-| <Skill name="Hammer of Wisdom"/>                | 200 damage |
+|                                                   |            |
+| ------------------------------------------------- | ---------- |
+| <Skill id="9093"/>                                | 300 damage |
+| <Skill id="9226"/> (after <Skill id="9147"/>)     | 150 damage |
+| <Skill name="Hammer of Wisdom"/>                  | 200 damage |
 | <TomeSkill name="Chapter 3: Heated Rebuke"/> (F1) | 150 damage |
-| <Skill name="Chains of light"/>                 | 250 damage |
-| <Skill name="Sanctuary"/>                       | 750 damage |
+| <Skill name="Chains of light"/>                   | 250 damage |
+| <Skill name="Sanctuary"/>                         | 750 damage |
 
 </Card>
 <Card title="Alternative Weapons">

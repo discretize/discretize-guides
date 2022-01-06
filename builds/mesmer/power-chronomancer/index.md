@@ -1,9 +1,8 @@
 ---
 title: Power Chronomancer
-sections: []
 rating: Good
 role: Power Damage
-author: "Discord: [CnD] Tipcat#0698"
+author: 'Discord: [CnD] Tipcat#0698'
 profession: Mesmer
 specialization: Chronomancer
 skills:
@@ -29,8 +28,8 @@ boons:
   - name: Might
     uptime: 25 stacks
     variant: self - on demand
-code: "[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
@@ -39,6 +38,7 @@ classification:
   - 4
 date: 2022-01-05T22:34:20.174Z
 ---
+
 <Divider text="Overview"/>
 
 The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long ramp-up times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
@@ -54,8 +54,7 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character
-    gear={{
+<Character gear={{
       "profession": "Mesmer",
       "weight": "Light",
       "gear": [
@@ -144,7 +143,6 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
     }}
   >
 
-
 Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
 This is a budget variant, aim for at least 212 Agony Resistance.
@@ -152,8 +150,7 @@ Utilize the gear optimizer if you are somewhere between 162 and 212 Agony Resist
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
 </Character>  
-<Character
-  gear={{
+<Character gear={{
     "profession": "Mesmer",
     "weight": "Light",
     "gear": [
@@ -247,8 +244,7 @@ If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner 
 Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
 </Character>  
-<Character
-    gear={{
+<Character gear={{
       "profession": "Mesmer",
       "weight": "Light",
       "gear": [
@@ -336,7 +332,6 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
       }
     }}
   >
-
 
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 

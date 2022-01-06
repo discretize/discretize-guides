@@ -1,6 +1,5 @@
 ---
 title: Seraph Firebrand
-sections: []
 rating: Good
 role: Hybrid
 profession: Guardian
@@ -26,8 +25,8 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 4
   - 3
@@ -36,6 +35,7 @@ classification:
   - 4
 date: 2022-01-05T22:31:14.691Z
 ---
+
 <Divider text="Overview"/>
 
 The **<Specialization text="Seraph Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
@@ -45,9 +45,7 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character
-  title="Celestial 162 Agony Resistance"
-  gear={{
+<Character title="Celestial 162 Agony Resistance" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
@@ -139,12 +137,10 @@ The general idea of this build is to leverage the Seraph stat combo (<Attribute 
 
 **This build deals less damage than the seraph version, but gains more boon duration which allows it to be played with lower Agony Resistance (typically you want a minimum of 60% to play <Trait name="Legendary Lore"/>). This build also has the advantage of working in other content such as Raids and Strike Missions**
 
-Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!  
+Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
 
 </Character>
-<Character
-  title="Celestial 203 Agony Resistance"
-  gear={{
+<Character title="Celestial 203 Agony Resistance" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
@@ -234,14 +230,12 @@ Check the build section for some common gear variations. You can also use our [g
   }}
 >
 
-**This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivability with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**  
+**This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivability with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**
 
-Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
-        
+Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
+
 </Character>  
-<Character
-  title="Seraph 203 Agony Resistance"
-  gear={{
+<Character title="Seraph 203 Agony Resistance" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
@@ -333,12 +327,10 @@ Check the build section for some common gear variations. You can also use our [g
 
 **This is the standard build variant for high Agony Resistance. It provides higher damage then the Celestial build in fractals whilst still providing more than enough support for most groups.**
 
-Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants! 
-        
+Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
+
 </Character>  
-<Character
-  title="Celestial Heal 162 Agony Resistance"
-  gear={{
+<Character title="Celestial Heal 162 Agony Resistance" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
@@ -448,14 +440,14 @@ Check the build section for some common gear variations. You can also use our [g
 
 <Card title="Defiance Bar Damage">
 
-|                                                 |                   |
-| ----------------------------------------------- | ----------------- |
-| <Skill name="Sanctuary"/>                       | 750 damage        |
-| <Skill id="45402"/>                             | 150 damage        |
+|                                                                                 |                   |
+| ------------------------------------------------------------------------------- | ----------------- |
+| <Skill name="Sanctuary"/>                                                       | 750 damage        |
+| <Skill id="45402"/>                                                             | 150 damage        |
 | <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage        |
-| <Skill id="9093"/>                              | 300 damage        |
-| <Skill name="Hammer of Wisdom"/>                | 200 damage        |
-| <Skill name="Chains of light"/>                 | 250 damage (50/s) |
+| <Skill id="9093"/>                                                              | 300 damage        |
+| <Skill name="Hammer of Wisdom"/>                                                | 200 damage        |
+| <Skill name="Chains of light"/>                                                 | 250 damage (50/s) |
 
 </Card>
 </GridItem>
@@ -495,18 +487,15 @@ Check the build section for some common gear variations. You can also use our [g
 
 As you will have seen from the equipment, Celestial/Seraphbrand has many variations you can use to adapt to your needs. Here is a brief overview of the common Attribute types, Runes, Sigils and Consumables that are used when gearing Celestial and Seraph variants. As mentioned above you can use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) to help calculate what gear will be best, but in general remember you want to aim for 100% <Condition name="Burning"/> duration and at least 60% <Boon name="Quickness"/> duration to allow you to play <Trait name="LEgendary Lore"/>!
 
-<Grid>  <GridItem>
+<Grid> <GridItem>
 
 ### Attributes
 
 - **Celestial -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/>
-  
 
--  **Seraph -** <Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>
-  
+- **Seraph -** <Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>
 
 - **Viper -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Condition Damage"/>, <Attribute name="Expertise"/>
-  
 
 </GridItem>
 <GridItem>
@@ -522,7 +511,7 @@ As you will have seen from the equipment, Celestial/Seraphbrand has many variati
 - <Item id="24842"/>
 
 - <Item id="83338"/>
-  
+
 </GridItem>
 <GridItem>
 
@@ -544,6 +533,7 @@ As you will have seen from the equipment, Celestial/Seraphbrand has many variati
 <GridItem>
 
 ### Consumables
+
 - <Item id="91703"/>
 
 - <Item id="91727"/>
@@ -559,7 +549,7 @@ As you will have seen from the equipment, Celestial/Seraphbrand has many variati
 - <Item id="48916"/>
 
 - <Item id="67528"/>
-  
+
 </GridItem> </Grid>
 </Card>
 
@@ -645,7 +635,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - <TomeSkill name="Chapter 3: Azure Sun"/>
 
   - <TomeSkill name="Chapter 4: Shining River"/>
-  
+
   - <TomeSkill name="Epilogue: Eternal Oasis"/>
 
 - <Skill name="Tome of Courage"/> (F3):
@@ -657,7 +647,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
   - <TomeSkill name="Chapter 3: Valiant Bulwark"/>
 
   - <TomeSkill name="Chapter 4: Stalwart Stand"/>
-  
+
   - <TomeSkill name="Epilogue: Unbroken Lines"/>
 
 <Divider text="Rotation"/>

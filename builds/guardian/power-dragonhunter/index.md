@@ -1,6 +1,5 @@
 ---
 title: Power Dragonhunter
-sections: []
 rating: Power Meta
 role: Power Damage
 profession: Guardian
@@ -24,8 +23,8 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: " "
+code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ' '
 classification:
   - 3
   - 4
@@ -34,6 +33,7 @@ classification:
   - 4
 date: 2022-01-05T22:28:41.837Z
 ---
+
 <Divider text="Overview"/>
 
 <Warning> 
@@ -48,9 +48,7 @@ It benefits from slaying potions and slaying sigils such as <Item id="50082"/> a
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character
-  title="162 Agony Resistance"
-  gear={{
+<Character title="162 Agony Resistance" gear={{
     "profession": "Guardian",
     "title": "222 Ar",
     "weight": "Heavy",
@@ -141,12 +139,10 @@ It benefits from slaying potions and slaying sigils such as <Item id="50082"/> a
   }}
 >
 
-If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>. You need at least  <Attribute name="Agony Resistance" text="203 Agony Resistance"/> to compensate the lacking <Attribute name="Precision"/>.   It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.   
+If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>. You need at least <Attribute name="Agony Resistance" text="203 Agony Resistance"/> to compensate the lacking <Attribute name="Precision"/>. It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
 
 </Character>  
-<Character
-  title="203 Agony Resistance"
-  gear={{
+<Character title="203 Agony Resistance" gear={{
     "profession": "Guardian",
     "gear": [
       "Berserker",
@@ -236,7 +232,7 @@ If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, 
   }}
 >
 
-It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>. 
+It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
 
 </Character>  
 </CharacterWithAr>

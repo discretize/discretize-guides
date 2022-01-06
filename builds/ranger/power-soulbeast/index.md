@@ -7,14 +7,13 @@ skills:
 effects:
   - Stealth
 title: Power Soulbeast
-sections: []
 rating: Power Meta
 role: Power Damage
 profession: Ranger
 specialization: Soulbeast
 conditions:
   - Vulnerability
-code: "[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]"
+code: '[&DQQIGiA/Nyp5AC4XpQGlAbUAvAC8AKwBLhYuFjsuFS8AAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
   - 5
@@ -24,6 +23,7 @@ classification:
   - 4
 date: 2022-01-05T22:54:03.870Z
 ---
+
 <Divider text="Overview"/>
 
 <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
@@ -45,9 +45,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character
-  title="162 Agony Resistance"
-  gear={{
+<Character title="162 Agony Resistance" gear={{
     "profession": "Ranger",
     "weight": "Medium",
     "gear": [
@@ -141,9 +139,7 @@ If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner 
 Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
 </Character> 
-<Character
-  title="222 Agony Resistance"
-  gear={{
+<Character title="222 Agony Resistance" gear={{
     "profession": "Ranger",
     "weight": "Medium",
     "gear": [
@@ -238,9 +234,7 @@ If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner 
 Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
 </Character>  
-<Character
-  title="243 Agony Resistance"
-  gear={{
+<Character title="243 Agony Resistance" gear={{
     "profession": "Ranger",
     "weight": "Medium",
     "gear": [

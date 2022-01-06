@@ -1,6 +1,5 @@
 ---
 title: Heal Firebrand
-sections: []
 rating: Good
 role: Support
 author: Ascers.6082
@@ -30,8 +29,8 @@ boons:
   - name: Regeneration
     uptime: 100%
     variant: group
-code: "[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: " "
+code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ' '
 classification:
   - 4
   - 1
@@ -40,6 +39,7 @@ classification:
   - 2
 date: 2022-01-05T22:13:48.016Z
 ---
+
 <Divider text="Overview"/>
 
 <Warning>
@@ -52,16 +52,14 @@ This build is very common in PuGs. It is part of a composition called PuG Meta. 
 
 It offers a decent amount of healing through symbols, dodges, <Skill name="Mantra of Solace"/>, <Boon name="Regeneration"/>, <Skill name="Bow of Truth"/>, etc.
 
-This build can provide good offensive support by sharing the 216 <Attribute name="Power"/> from <Skill name="Bane Signet"/> or 216 <Attribute name="Condition Damage"/> from <Skill name="Signet of Wrath"/>  through <Trait name="Perfect Inscriptions"/> when running the Radiance trait line.
+This build can provide good offensive support by sharing the 216 <Attribute name="Power"/> from <Skill name="Bane Signet"/> or 216 <Attribute name="Condition Damage"/> from <Skill name="Signet of Wrath"/> through <Trait name="Perfect Inscriptions"/> when running the Radiance trait line.
 
 The build is very flexible and can be adapted to the encounter, instabilities and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. The [CM Guides](/cm-guides/guardian/heal-firebrand/) will also give an overview of what you can run on different encounters.
 
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character
-  title="Heal Firebrand"
-  gear={{
+<Character title="Heal Firebrand" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
@@ -148,8 +146,8 @@ The build is very flexible and can be adapted to the encounter, instabilities an
   }}
 >
 
-Note that  this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
-</Character> 
+Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+</Character>
 </CharacterWithAr>
 
 <Divider text="Default Build"/>
@@ -183,8 +181,8 @@ The advantage of this trait line is the increased group DPS. It gives up some pa
 
 |                                                           |                                                                                                                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Bane Signet" size="big" disableText/> | Can be run with Radiance in Power-based groups to share 216 <Attribute name="Power"/> through <Trait name="Perfect Inscriptions"/>. Provides good instant CC.
-| <Skill name="Signet of Wrath" size="big" disableText/>       | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Condition Damage"/> through <Trait name="Perfect Inscriptions"/>. |
+| <Skill name="Bane Signet" size="big" disableText/>        | Can be run with Radiance in Power-based groups to share 216 <Attribute name="Power"/> through <Trait name="Perfect Inscriptions"/>. Provides good instant CC.                                 |
+| <Skill name="Signet of Wrath" size="big" disableText/>    | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Condition Damage"/> through <Trait name="Perfect Inscriptions"/>.                                            |
 | <Skill name="Sanctuary" size="big" disableText/>          | Strong CC over time for mostly stationary enemies with a defiance bar.                                                                                                                        |
 | <Skill name="Bow of Truth" size="big" disableText/>       | A strong AoE heal for 5 seconds.                                                                                                                                                              |
 | <Skill name="Mantra of Lore" size="big" disableText/>     | A strong condition cleanse to counterplay <Instability name="Afflicted"/>. Also offers extra passive healing through <Boon name="Regeneration"/>.                                             |
@@ -202,32 +200,32 @@ The advantage of this trait line is the increased group DPS. It gives up some pa
 
 <Card title="Elite Skills">
 
-|                                                              |                                                                                                                      |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+|                                                              |                                                                                                                                                                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <Skill name="Mantra of Liberation" size="big" disableText /> | Great for on-demand <Boon name="Stability"/> and <Boon name="Resolution"/>. Make sure you are able to upkeep <Boon name="Quickness"/> or <Boon name="Fury"/> when not running <Skill name="Feel My Wrath"/>. |
-| <Skill name="Feel My Wrath" size="big" disableText/>         | Use this if you otherwise struggle upkeeping <Boon name="Quickness"/> or <Boon name="Fury"/>.                               |
-| <Skill name="Signet of Courage" size="big" disableText/>     | Good passive healing if neither of the other 2 skills are useful in a given situation.                               |
+| <Skill name="Feel My Wrath" size="big" disableText/>         | Use this if you otherwise struggle upkeeping <Boon name="Quickness"/> or <Boon name="Fury"/>.                                                                                                                |
+| <Skill name="Signet of Courage" size="big" disableText/>     | Good passive healing if neither of the other 2 skills are useful in a given situation.                                                                                                                       |
 
 </Card>
 
 <Card title="Less Common Utility Skills">
 
-|                                                              |                                                                                                                                                                                                                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill name="Hold the Line" size="big" disableText/>         | Provides extra <Boon name="Protection"/>.                                                                                                                                                                                                                    |
-| <Skill name="Judges Intervention" size="big" disableText/>   | 1200 range blink to an enemy. Mainly useful for skips.                                                                                                                                                                                                       |
-| <Skill name="Merciful Intervention" size="big" disableText/> | 1200 range blink to an ally. Can be used for skips to blink to a <Skill name="Sword of Justice"/>. Can also be taken to help allies who frequently down.                                                                                                     |
-| <Skill name="Purging Flames" size="big" disableText/>     | Burns enemies and cleanses conditions from allies within. Useful when conditions are inflicted multiple times in a short period of time but often inferior to <Skill name="Mantra of Lore"/>. |
+|                                                              |                                                                                                                                                                                               |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Hold the Line" size="big" disableText/>         | Provides extra <Boon name="Protection"/>.                                                                                                                                                     |
+| <Skill name="Judges Intervention" size="big" disableText/>   | 1200 range blink to an enemy. Mainly useful for skips.                                                                                                                                        |
+| <Skill name="Merciful Intervention" size="big" disableText/> | 1200 range blink to an ally. Can be used for skips to blink to a <Skill name="Sword of Justice"/>. Can also be taken to help allies who frequently down.                                      |
+| <Skill name="Purging Flames" size="big" disableText/>        | Burns enemies and cleanses conditions from allies within. Useful when conditions are inflicted multiple times in a short period of time but often inferior to <Skill name="Mantra of Lore"/>. |
 
 </Card>
 
 <Card title="Situational Traits">
 
-|                                                                |                                                                                                                     |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Right-Hand Strength" size="big" disableText/>     | If there is no need for the personal <Boon name="Resolution"/> from <Trait name="Healers Resolution"/> while running the Radiance trait line.             |
-| <Trait name="Pure of Heart" size="big" disableText/>           | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds. |
-| <Trait name="Resolute Subconscious" size="big" disableText/> | Use this when you are not using any Consecration skill while running the Virtues trait line.                              |
+|                                                              |                                                                                                                                               |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Right-Hand Strength" size="big" disableText/>   | If there is no need for the personal <Boon name="Resolution"/> from <Trait name="Healers Resolution"/> while running the Radiance trait line. |
+| <Trait name="Pure of Heart" size="big" disableText/>         | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds.                           |
+| <Trait name="Resolute Subconscious" size="big" disableText/> | Use this when you are not using any Consecration skill while running the Virtues trait line.                                                  |
 
 </Card>
 
@@ -296,14 +294,14 @@ The advantage of this trait line is the increased group DPS. It gives up some pa
 <GridItem sm="6">
 <Card title="CC Skills">
 
-|                                         |                                                            |
-| --------------------------------------- | ---------------------------------------------------------- |
-| <Skill name="Blazing Edge"/>            | 150 damage                                                 |
-| <Skill name="Shield of Absorption"/>    | 150 damage                                                 |
-| <Skill name="Bane Signet"/>             | 300 damage                                                 |
-| <Skill name="Hammer of Wisdom"/>        | 200 damage                                                 |
-| <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage         |
-| <Skill name="Sanctuary"/>               | 150/s damage (for 5 seconds,<br/> adding up to 750 damage) |
+|                                                                                 |                                                            |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <Skill name="Blazing Edge"/>                                                    | 150 damage                                                 |
+| <Skill name="Shield of Absorption"/>                                            | 150 damage                                                 |
+| <Skill name="Bane Signet"/>                                                     | 300 damage                                                 |
+| <Skill name="Hammer of Wisdom"/>                                                | 200 damage                                                 |
+| <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage                                                 |
+| <Skill name="Sanctuary"/>                                                       | 150/s damage (for 5 seconds,<br/> adding up to 750 damage) |
 
 </Card>
 </GridItem>

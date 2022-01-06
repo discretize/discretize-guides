@@ -1,6 +1,5 @@
 ---
 title: Power Alac Renegade
-sections: []
 rating: Power Meta
 role: Power Damage
 author: Casual Sophie - Jin Su Liang.9036
@@ -17,7 +16,7 @@ boons:
   - name: Alacrity
     uptime: 100%
     variant: party
-code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
+code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 cmGuide: pug
 classification:
   - 5
@@ -27,24 +26,19 @@ classification:
   - 5
 date: 2022-01-05T22:40:06.718Z
 ---
+
 <Divider text="Overview"/>
 
 <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
-
 
 Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-
-
-
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character
-  title="80% Boon Duration 162 Agony Resistance"
-  gear={{
+<Character title="80% Boon Duration 162 Agony Resistance" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
     "gear": [
@@ -135,9 +129,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
 </Character>  
-<Character
-  title="50% Boon Duration 162 Agony Resistance"
-  gear={{
+<Character title="50% Boon Duration 162 Agony Resistance" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
     "gear": [
@@ -228,9 +220,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
 </Character>  
-<Character
-  title="80% Boon Duration 222 Agony Resistance"
-  gear={{
+<Character title="80% Boon Duration 222 Agony Resistance" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
     "gear": [
@@ -320,9 +310,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
 Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 </Character>  
-<Character
-  title="50% Boon Duration 222 Agony Resistance"
-  gear={{
+<Character title="50% Boon Duration 222 Agony Resistance" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
     "gear": [
@@ -406,15 +394,12 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
     }
-  }}
->
+}}>
 
 Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
-</Character> 
+</Character>
 </CharacterWithAr>
-
-
 
 <Divider text="Build"/>
 
@@ -448,7 +433,6 @@ Sometimes it is worth precasting with <Specialization name="Herald"/> because <S
 
 After the [status reset update of August 31st](https://wiki.guildwars2.com/wiki/Game_updates/August_2021), this precast has become more difficult to perform and isn't recommended anymore for fast prestacking in pugs due to the fact that it increases the length of a precast. However, if you do have the the time, it is still a really valid precast and does help with the boons initially. You will have to manually swap between <Specialization name="Herald"/> and <Specialization name="Renegade"/> trait lines or use a saved build template in the template storage (not one of the build template tabs) to swap between them in order to not trigger status reset. Here's the <Specialization name="Herald"/> trait line:
 <Traits traits1Id="52" traits1="Herald" traits1SelectedIds="1806,1772" unembossed/>
-
 
 <div align="left">Template code:</div>
 `[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
@@ -491,8 +475,6 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 </Card>
 </GridItem>
 </Grid>
-
-
 
 <Divider text="Details"/>
 
@@ -633,8 +615,6 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 </GridItem>
 </Grid>
 
-
-
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
@@ -662,7 +642,6 @@ There are multiple weapons in your arsenal to deal with the instability <Instabi
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed/>
 
 As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the stability, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
-
 
 </Card>
 </GridItem>

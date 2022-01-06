@@ -1,6 +1,5 @@
 ---
 title: Condi (Quick) Firebrand
-sections: []
 rating: Meta
 role: Condi Damage
 profession: Guardian
@@ -21,7 +20,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-cmGuide: ""
+cmGuide: ''
 classification:
   - 5
   - 4
@@ -30,7 +29,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-01-05T22:26:09.549Z
 benchmark:
   small:
@@ -38,6 +37,7 @@ benchmark:
     by: TJ [SC]
     youtube: U1yYDskt3Cw
 ---
+
 <Divider text="Overview"/>
 
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide permanent <Boon name="Quickness"/> (if necessary) to the party while dealing high consistent DPS. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
@@ -59,9 +59,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character
-  title="162 Agony Resistance"
-  gear={{
+<Character title="162 Agony Resistance" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
@@ -154,9 +152,10 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 
 Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
 You will want the following weapons to swap to durning fractal runs:
+
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
-- A staff for <Boon name="Might"/> pre-stacking. 
-- If you have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>. 
+- A staff for <Boon name="Might"/> pre-stacking.
+- If you have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>.
 
 </Character> 
 </CharacterWithAr>
@@ -173,14 +172,14 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 
 <Card title="Defiance Bar Damage">
 
-|                                              |                                                                                |
-| -------------------------------------------- | ------------------------------------------------------------------------------ |
-| <Skill id="45402"/>                          | 150 damage                                                                     |
-| <Skill name="Hammer of Wisdom"/>             | 200 damage                                                                     |
-| <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage                                  |
-|  <Skill name="Sanctuary"/> | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>)           |
-| <Skill name="Chains of light"/> | <Condition name="Immobile"/> 50/s                                                           |
-| <TomeSkill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s         |
+|                                                                                    |                                                                                |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| <Skill id="45402"/>                                                                | 150 damage                                                                     |
+| <Skill name="Hammer of Wisdom"/>                                                   | 200 damage                                                                     |
+| <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/>    | 150 damage                                                                     |
+| <Skill name="Sanctuary"/>                                                          | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
+| <Skill name="Chains of light"/>                                                    | <Condition name="Immobile"/> 50/s                                              |
+| <TomeSkill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s                                                 |
 
 </Card>
 </GridItem>

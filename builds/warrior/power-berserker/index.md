@@ -1,6 +1,5 @@
 ---
 title: Banner Berserker
-sections: []
 rating: Good
 role: Power Damage
 profession: Warrior
@@ -21,7 +20,7 @@ boons:
   - name: Might
     uptime: 12 stacks
     variant: party
-code: "[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQIEGzMWEhenAPISqQCpAKoAqgCsAKwAwhLuAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
   - 4
@@ -31,6 +30,7 @@ classification:
   - 4
 date: 2022-01-05T22:28:57.249Z
 ---
+
 <Divider text="Overview"/>
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
@@ -41,15 +41,10 @@ The <Specialization text="Banner Berserker" name="Berserker"/> is one of the cla
 
 Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
 
-
-
-
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character
-  title="162 Agony Resistance + Scholar Rune"
-  gear={{
+<Character title="162 Agony Resistance + Scholar Rune" gear={{
     "profession": "warrior",
     "gear": [
       "Berserker",
@@ -139,12 +134,10 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
   }}
 >
 
-This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed. 
+This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed.
 
 </Character> 
-<Character
-  title="162 Agony Resistance + Eagle Rune"
-  gear={{
+<Character title="162 Agony Resistance + Eagle Rune" gear={{
     "profession": "warrior",
     "gear": [
       "Berserker",
@@ -238,12 +231,11 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
       "elite": "Head Butt"
     }
   }}
-> 
+>
 
-Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed. 
-</Character> 
-<Character
-  gear={{
+Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
+</Character>
+<Character gear={{
     "profession": "warrior",
     "gear": [
       "Berserker",
@@ -330,14 +322,11 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
       "utility3": "Banner of Discipline",
       "elite": "Head Butt"
     }
-  }}
->
+}}>
 
 Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
-</Character> 
+</Character>
 </CharacterWithAr>
-
-
 
 <Divider text="Build"/>
 
@@ -365,24 +354,22 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                           |                                                                                                    |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| <Skill name="For Great Justice!" size="big" disableText/> | Whenever you notice less than 25 stacks of <Boon name="Might"/> on your buff bar.                  |
-| <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use and fills up the entire adrenalin bar.                                         |
-| <Skill name="Signet of might" size="big" disableText/>    | Flat 180 power buff. Only take this when no other utility is needed.                               |
-| <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.                                                                     |
-| <Skill name="onmymark" size="big" disableText/>           | Can be used to pull Krait from the side altars at the Nightmare CM fractal.                        |
-| <Skill name="featherfootgrace" size="big" disableText/>   | Grants <Effect name="Superspeed"/> for skips.       |
-| <Skill name="bloodreckoning" size="big" disableText/>     | For double <Skill name="arcdivider"/> or the situational <Specialization name="Berserker"/> build. |
-| <Skill name="outrage" size="big" disableText/>            | Very strong in conjunction with <Skill name="headbutt"/> for <Skill name="berserk"/> extension.    |
-| <Skill name="Wild Blow" size="big" disableText/>          | 332 CC and 4s <Skill name="berserk"/> extension.                                                   |
-| <Skill name="bullscharge" size="big" disableText/>        | 300 CC, gives <Trait name="Peakperformance"/>.                                                     |
+|                                                           |                                                                                                                                                                                              |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="For Great Justice!" size="big" disableText/> | Whenever you notice less than 25 stacks of <Boon name="Might"/> on your buff bar.                                                                                                            |
+| <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use and fills up the entire adrenalin bar. |
+| <Skill name="Signet of might" size="big" disableText/>    | Flat 180 power buff. Only take this when no other utility is needed.                                                                                                                         |
+| <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.                                                                                                    |
+| <Skill name="onmymark" size="big" disableText/>           | Can be used to pull Krait from the side altars at the Nightmare CM fractal.                                                                                                                  |
+| <Skill name="featherfootgrace" size="big" disableText/>   | Grants <Effect name="Superspeed"/> for skips.                                                                                                                                                |
+| <Skill name="bloodreckoning" size="big" disableText/>     | For double <Skill name="arcdivider"/> or the situational <Specialization name="Berserker"/> build.                                                                                           |
+| <Skill name="outrage" size="big" disableText/>            | Very strong in conjunction with <Skill name="headbutt"/> for <Skill name="berserk"/> extension.                                                                                              |
+| <Skill name="Wild Blow" size="big" disableText/>          | 332 CC and 4s <Skill name="berserk"/> extension.                                                                                                                                             |
+| <Skill name="bullscharge" size="big" disableText/>        | 300 CC, gives <Trait name="Peakperformance"/>.                                                                                                                                               |
 
 </Card>
 </GridItem>
 </Grid>
-
-
 
 <Divider text="Details"/>
 
@@ -448,8 +435,6 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
 </Card>
 </GridItem>
 </Grid>
-
-
 
 <Divider text="Rotation / Skill usage"/>
 

@@ -1,9 +1,8 @@
 ---
 title: Power Reaper
-sections: []
 rating: Good
 role: Power Damage
-author: "Discord: Jes#6596"
+author: 'Discord: Jes#6596'
 profession: Necromancer
 specialization: Reaper
 skills:
@@ -19,8 +18,8 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: " "
+code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ' '
 classification:
   - 1
   - 3
@@ -34,6 +33,7 @@ benchmark:
     by: Westet
     youtube: I1Tjyfk-DKI
 ---
+
 <Divider text="Overview" />
 
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
@@ -49,11 +49,9 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 
 <Divider text="Equipment" />
 
-<CharacterWithAr> 
+<CharacterWithAr>
 
-<Character
-  title="162 Agony Resistance"
-  gear={{
+<Character title="162 Agony Resistance" gear={{
     "profession": "Necromancer",
     "weight": "Light",
     "gear": [
@@ -139,10 +137,9 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
       "utility3": "Signet of Spite",
       "elite": "Lich Form"
     }
-  }}
->
+}}>
 
-You will be crit-capped in <Skill name="Reapers Shroud"/>. 
+You will be crit-capped in <Skill name="Reapers Shroud"/>.
 
 </Character> 
 </CharacterWithAr>
@@ -182,7 +179,7 @@ You will be crit-capped in <Skill name="Reapers Shroud"/>.
 
 |                                                               |                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Well of Darkness" size="big" disableText/>     | Your most damaging option for a third utility. Deals some AoE damage as well as applying <Condition name="Blinded" text="Blind"/> and <Condition name="Chilled" text="Chill"/> to targets inside the well.                                                                                                                                                |
+| <Skill name="Well of Darkness" size="big" disableText/>       | Your most damaging option for a third utility. Deals some AoE damage as well as applying <Condition name="Blinded" text="Blind"/> and <Condition name="Chilled" text="Chill"/> to targets inside the well.                                           |
 | <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used to boon rip on days with the No Pain No Gain instability                                                                                                                                                 |
 | <Skill name="Summon flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized).                                                                                                 |
 | <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade).                   |
