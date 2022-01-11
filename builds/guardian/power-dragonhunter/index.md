@@ -30,7 +30,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-01-11T02:37:26.351Z
+date: 2022-01-11T02:53:58.478Z
 cmGuide: " "
 ---
 
@@ -161,20 +161,20 @@ If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, 
     ],
     "attributes": {
       "Health": 11645,
-      "Armor": 2604,
+      "Armor": 2575,
       "Power": 3892,
-      "Precision": 2394,
-      "Toughness": 1333,
+      "Precision": 2365,
+      "Toughness": 1304,
       "Vitality": 1000,
       "Ferocity": 1556,
       "Condition Damage": 750,
       "Expertise": 0,
-      "Concentration": 333,
+      "Concentration": 304,
       "Healing Power": 0,
-      "Agony Resistance": 222,
+      "Agony Resistance": 203,
       "Condition Duration": 0,
-      "Boon Duration": 0.222,
-      "Critical Chance": 1.013809523809524,
+      "Boon Duration": 0.20266666666666666,
+      "Critical Chance": 1,
       "Critical Damage": 2.5373333333333337,
       "Effective Power": 34819.979738675305,
       "Power DPS": 45063.51632718048,
@@ -194,8 +194,8 @@ If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, 
       "Torment Stacks": 0,
       "Torment DPS": 0,
       "Damage": 45745.92632718048,
-      "Effective Health": 67050480.92868989,
-      "Survivability": 34087.68730487539,
+      "Effective Health": 66303758.98286346,
+      "Survivability": 33708.06252306226,
       "Effective Healing": 390,
       "Healing": 390
     },
