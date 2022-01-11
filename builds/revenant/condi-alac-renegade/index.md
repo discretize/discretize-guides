@@ -1,17 +1,11 @@
 ---
-title: Condi (Alac) Renegade
-rating: Meta
-role: Condi Damage
 author: PineappleMan.1430
-profession: Revenant
 specialization: Renegade
 skills:
   - 45773
   - 27505
 traits:
   - 2182
-conditions:
-  - Vulnerability
 boons:
   - name: Alacrity
     uptime: 100%
@@ -19,15 +13,21 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
-cmGuide: ''
+code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
 classification:
   - 4
   - 3
   - 4
   - 3
   - 5
-date: 2022-01-05T22:45:00.600Z
+date: 2022-01-11T17:38:02.705Z
+title: Condi (Alac) Renegade
+rating: Meta
+role: Condi Damage
+profession: Revenant
+conditions:
+  - Vulnerability
+cmGuide: ""
 ---
 
 <Divider text="Overview"/>
@@ -112,12 +112,12 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
     ],
     "weapons": {
       "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "earth",
+      "weapon1MainSigil1": "geomancy",
       "weapon1OffType": "Axe",
       "weapon1OffSigil": "doom",
       "weapon2MainType": "Short Bow",
       "weapon2MainSigil1": "torment",
-      "weapon2MainSigil2": "geomancy"
+      "weapon2MainSigil2": "earth"
     },
     "consumables": {
       "foodId": "91878",
@@ -203,12 +203,12 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
     ],
     "weapons": {
       "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "earth",
+      "weapon1MainSigil1": "geomancy",
       "weapon1OffType": "Axe",
       "weapon1OffSigil": "doom",
       "weapon2MainType": "Short Bow",
       "weapon2MainSigil1": "torment",
-      "weapon2MainSigil2": "geomancy"
+      "weapon2MainSigil2": "earth"
     },
     "consumables": {
       "foodId": "91878",
@@ -294,12 +294,12 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
     ],
     "weapons": {
       "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "earth",
+      "weapon1MainSigil1": "geomancy",
       "weapon1OffType": "Axe",
       "weapon1OffSigil": "doom",
       "weapon2MainType": "Short Bow",
-      "weapon2MainSigil1": "geomancy",
-      "weapon2MainSigil2": "torment"
+      "weapon2MainSigil1": "torment",
+      "weapon2MainSigil2": "earth"
     },
     "consumables": {
       "foodId": "91878",
