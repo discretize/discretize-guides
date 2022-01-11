@@ -20,7 +20,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-cmGuide: ''
+cmGuide: ""
 classification:
   - 5
   - 4
@@ -29,8 +29,8 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: '[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-01-05T22:26:09.549Z
+code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-01-11T02:27:33.670Z
 benchmark:
   small:
     dps: 36732
@@ -79,44 +79,45 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
       "Viper"
     ],
     "attributes": {
-      "Health": 14145,
+      "Health": 15560,
       "Armor": 2514,
-      "Power": 2869,
+      "Power": 2909,
       "Precision": 2085,
       "Toughness": 1243,
       "Vitality": 1250,
       "Ferocity": 300,
-      "Condition Damage": 3188,
+      "Condition Damage": 2791,
       "Expertise": 451,
-      "Concentration": 243,
+      "Concentration": 421,
       "Healing Power": 250,
       "Agony Resistance": 162,
-      "Condition Duration": 0.30066666666666666,
-      "Boon Duration": 0.162,
+      "Condition Duration": 0.30066666666666664,
+      "Boon Duration": 0.2806666666666667,
       "Critical Chance": 0.8666666666666666,
       "Critical Damage": 1.7,
       "Burning Duration": 0.7,
+      "Maximum Health": 0.10000000000000009,
       "Resolution Duration": 0.25,
-      "Effective Power": 7222.552095833332,
-      "Power DPS": 6674.672710820176,
-      "Burning Damage": 1078.3664999999999,
-      "Burning Stacks": 30.8,
-      "Burning DPS": 33213.6882,
-      "Bleeding Damage": 319.92,
-      "Bleeding Stacks": 6.113133333333334,
-      "Bleeding DPS": 1955.7136160000002,
-      "Poison Damage": 337.17,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 478.08000000000004,
-      "Torment Stacks": 1.5608,
-      "Torment DPS": 746.187264,
-      "Confusion Damage": 319.92,
+      "Effective Power": 7256.064149999999,
+      "Power DPS": 6236.247663765883,
+      "Bleeding Damage": 284.19,
+      "Bleeding Stacks": 4.5133133333333335,
+      "Bleeding DPS": 1282.6385162000001,
+      "Burning Damage": 972.218625,
+      "Burning Stacks": 28.16,
+      "Burning DPS": 27377.67648,
+      "Confusion Damage": 335.06850000000003,
       "Confusion Stacks": 0,
       "Confusion DPS": 0,
-      "Damage": 42590.26179082017,
-      "Effective Health": 48895728.75,
-      "Survivability": 24858.021733604473,
+      "Poison Damage": 301.44,
+      "Poison Stacks": 0,
+      "Poison DPS": 0,
+      "Torment Damage": 424.485,
+      "Torment Stacks": 1.6648533333333333,
+      "Torment DPS": 706.7052672,
+      "Damage": 35603.26792716588,
+      "Effective Health": 77846447.76119404,
+      "Survivability": 39576.2317037082,
       "Effective Healing": 465,
       "Healing": 465
     },
@@ -129,7 +130,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
     ],
     "weapons": {
       "weapon1MainType": "Axe",
-      "weapon1MainSigil1": "Earth",
+      "weapon1MainSigil1": "Torment",
       "weapon1OffType": "Torch",
       "weapon1OffSigil": "Bursting",
       "weapon2MainType": "Scepter",
@@ -137,8 +138,8 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
     },
     "consumables": {
       "foodId": "91878",
-      "utility": "toxic-focusing-crystal",
-      "infusion": "Malign +9 Agony Infusion"
+      "utilityId": 48916,
+      "infusion": "Mighty +9 Agony Infusion"
     },
     "skills": {
       "heal": "Mantra of Solace",
@@ -155,7 +156,7 @@ You will want the following weapons to swap to durning fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
 - A staff for <Boon name="Might"/> pre-stacking.
-- If you have low might uptime you can change <Item id="24560"/> to <Item id="24562"/>.
+- If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
 </Character> 
 </CharacterWithAr>
