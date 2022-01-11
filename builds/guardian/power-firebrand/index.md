@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: '[&DQEqOhAvPjpLF0sX/gA2AXoWehZIAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLio6PjpLFwAAehYAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: static
 classification:
   - 5
@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-01-05T22:19:36.092Z
+date: 2022-01-11T02:19:54.770Z
 ---
 
 <Divider text="Overview"/>
@@ -50,13 +50,13 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
-      "Assassin",
-      "Assassin",
+      "Diviner",
       "Assassin",
       "Berserker",
-      "Assassin",
       "Berserker",
       "Diviner",
+      "Berserker",
+      "Berserker",
       "Berserker",
       "Berserker",
       "Berserker",
@@ -68,40 +68,40 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
     "attributes": {
       "Health": 14145,
       "Armor": 2514,
-      "Power": 3770,
-      "Precision": 2365,
+      "Power": 3897,
+      "Precision": 2359,
       "Toughness": 1243,
       "Vitality": 1250,
-      "Ferocity": 1519,
-      "Condition Damage": 1038,
+      "Ferocity": 1518,
+      "Condition Damage": 1000,
       "Expertise": 0,
-      "Concentration": 376,
+      "Concentration": 378,
       "Healing Power": 250,
       "Agony Resistance": 162,
       "Condition Duration": 0,
-      "Boon Duration": 0.25066666666666666,
-      "Critical Chance": 1.0,
-      "Critical Damage": 2.5126666666666665,
-      "Effective Power": 25146.327163648635,
-      "Power DPS": 32824.81674423137,
-      "Burning Damage": 419.59187499999996,
-      "Burning Stacks": 1.1,
-      "Burning DPS": 461.5510625,
-      "Bleeding Damage": 121.1525,
+      "Boon Duration": 0.252,
+      "Critical Chance": 0.9971428571428571,
+      "Critical Damage": 2.512,
+      "Effective Power": 25941.8446954537,
+      "Power DPS": 33573.56181032726,
+      "Bleeding Damage": 117.875,
       "Bleeding Stacks": 0,
       "Bleeding DPS": 0,
-      "Poison Damage": 137.68375,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 180.00375,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Confusion Damage": 121.1525,
+      "Burning Damage": 411.125,
+      "Burning Stacks": 1.92,
+      "Burning DPS": 789.36,
+      "Confusion Damage": 143.4625,
       "Confusion Stacks": 0,
       "Confusion DPS": 0,
-      "Damage": 33286.367806731374,
-      "Effective Health": 65031319.23750001,
-      "Survivability": 33061.16890569396,
+      "Poison Damage": 134.40625,
+      "Poison Stacks": 0,
+      "Poison DPS": 0,
+      "Torment Damage": 175.0875,
+      "Torment Stacks": 0,
+      "Torment DPS": 0,
+      "Damage": 34362.92181032726,
+      "Effective Health": 78630248.75621891,
+      "Survivability": 39974.707044341085,
       "Effective Healing": 465,
       "Healing": 465
     },
@@ -165,40 +165,40 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
     "attributes": {
       "Health": 14145,
       "Armor": 2604,
-      "Power": 3885,
-      "Precision": 2382,
+      "Power": 3925,
+      "Precision": 2462,
       "Toughness": 1333,
       "Vitality": 1250,
       "Ferocity": 1544,
-      "Condition Damage": 1038,
+      "Condition Damage": 1000,
       "Expertise": 0,
       "Concentration": 373,
       "Healing Power": 250,
       "Agony Resistance": 222,
       "Condition Duration": 0,
       "Boon Duration": 0.24866666666666667,
-      "Critical Chance": 1.0080952380952381,
-      "Critical Damage": 2.5293333333333334,
-      "Effective Power": 26085.275244209894,
-      "Power DPS": 34050.47480857588,
-      "Burning Damage": 419.59187499999996,
-      "Burning Stacks": 1.1,
-      "Burning DPS": 461.5510625,
-      "Bleeding Damage": 121.1525,
+      "Critical Chance": 1.0461904761904761,
+      "Critical Damage": 2.5293333333333337,
+      "Effective Power": 26353.84950669856,
+      "Power DPS": 34106.77250366341,
+      "Bleeding Damage": 117.875,
       "Bleeding Stacks": 0,
       "Bleeding DPS": 0,
-      "Poison Damage": 137.68375,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 180.00375,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Confusion Damage": 121.1525,
+      "Burning Damage": 411.125,
+      "Burning Stacks": 1.92,
+      "Burning DPS": 789.36,
+      "Confusion Damage": 143.4625,
       "Confusion Stacks": 0,
       "Confusion DPS": 0,
-      "Damage": 34512.02587107588,
-      "Effective Health": 50646172.5,
-      "Survivability": 25747.927046263347,
+      "Poison Damage": 134.40625,
+      "Poison Stacks": 0,
+      "Poison DPS": 0,
+      "Torment Damage": 175.0875,
+      "Torment Stacks": 0,
+      "Torment DPS": 0,
+      "Damage": 34896.13250366341,
+      "Effective Health": 81445174.12935324,
+      "Survivability": 41405.78247552275,
       "Effective Healing": 465,
       "Healing": 465
     },
@@ -246,7 +246,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Healers Resolution,Retribution,Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath,Zealous Blade,Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Right Hand Strength,Retribution,Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath,Zealous Blade,Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>
 
 <Card title="Defiance Bar Damage">
 
