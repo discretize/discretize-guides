@@ -25,14 +25,14 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: "[&DQEQGjEvPj5LFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 3
   - 4
   - 3
   - 4
-date: 2022-01-11T02:52:31.510Z
+date: 2022-01-11T02:56:30.551Z
 cmGuide: ""
 ---
 
