@@ -29,15 +29,15 @@ boons:
   - name: Regeneration
     uptime: 100%
     variant: group
-code: '[&DQEQLjElPjZLF0sXehZ6FksBNgH+AP4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ' '
+code: "[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: " "
 classification:
   - 4
   - 1
   - 3
   - 1
   - 2
-date: 2022-01-05T22:13:48.016Z
+date: 2022-01-11T02:12:05.170Z
 ---
 
 <Divider text="Overview"/>
@@ -79,42 +79,46 @@ The build is very flexible and can be adapted to the encounter, instabilities an
       "Harrier"
     ],
     "attributes": {
-      "Health": 17145,
+      "Health": 14145,
       "Armor": 2787,
-      "Power": 3035,
-      "Precision": 1323,
+      "Power": 2995,
+      "Precision": 1243,
       "Toughness": 1516,
-      "Vitality": 1550,
-      "Ferocity": 300,
-      "Condition Damage": 1038,
+      "Vitality": 1250,
+      "Ferocity": 150,
+      "Condition Damage": 1162,
       "Expertise": 0,
       "Concentration": 1121,
       "Healing Power": 1712,
       "Agony Resistance": 162,
       "Condition Duration": 0,
-      "Boon Duration": 0.9973,
-      "Critical Chance": 0.5038,
-      "Critical Damage": 1.7,
-      "Burning Duration": 1.05,
-      "Effective Power": 5901.431,
-      "Power DPS": 575.749,
-      "Burning Damage": 0,
-      "Burning Stacks": 0,
-      "Burning DPS": 0,
-      "Bleeding Damage": 0,
+      "Boon Duration": 0.9973333333333333,
+      "Critical Chance": 0.3657142857142857,
+      "Critical Damage": 1.6,
+      "Outgoing Healing": 0.8133600000000001,
+      "Resolution Duration": 0.25,
+      "Effective Power": 5670.022757142858,
+      "Power DPS": 0,
+      "Bleeding Damage": 131.8475,
       "Bleeding Stacks": 0,
       "Bleeding DPS": 0,
-      "Poison Damage": 0,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 0,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Confusion Damage": 0,
+      "Burning Damage": 447.22062500000004,
+      "Burning Stacks": 0,
+      "Burning DPS": 0,
+      "Confusion Damage": 159.530875,
       "Confusion Stacks": 0,
       "Confusion DPS": 0,
-      "Damage": 575.749,
-      "Healing": 720.39
+      "Poison Damage": 148.37875,
+      "Poison Stacks": 0,
+      "Poison DPS": 0,
+      "Torment Damage": 196.04625,
+      "Torment Stacks": 0,
+      "Torment DPS": 0,
+      "Damage": 0,
+      "Effective Health": 78451970.14925374,
+      "Survivability": 39884.07226703291,
+      "Effective Healing": 1638.5520960000001,
+      "Healing": 1638.5520960000001
     },
     "runeId": 24842,
     "runeName": "Monk",
