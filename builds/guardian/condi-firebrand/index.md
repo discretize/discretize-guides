@@ -29,8 +29,8 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: "[&DQEQGi4fPjpLF0sXTAFIAXoWehYxATYBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-01-11T02:27:33.670Z
+code: "[&DQEQGi4fPjpLF0sXehZ6FkwBTAEWAUgBiRIYFgAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-01-11T02:29:01.849Z
 benchmark:
   small:
     dps: 36732
