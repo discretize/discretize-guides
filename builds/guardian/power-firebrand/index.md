@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: "[&DQEQLio6PjpLFwAAehYAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQEQLyo6PjpLFwAAehYAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: static
 classification:
   - 5
@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-01-11T02:19:54.770Z
+date: 2022-01-11T02:40:49.201Z
 ---
 
 <Divider text="Overview"/>
@@ -53,14 +53,14 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
       "Diviner",
       "Assassin",
       "Berserker",
-      "Berserker",
+      "Assassin",
       "Diviner",
       "Berserker",
       "Berserker",
       "Berserker",
       "Berserker",
-      "Berserker",
-      "Berserker",
+      "Assassin",
+      "Assassin",
       "Berserker",
       "Berserker",
       "Berserker"
@@ -68,8 +68,8 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
     "attributes": {
       "Health": 14145,
       "Armor": 2514,
-      "Power": 3897,
-      "Precision": 2359,
+      "Power": 3772,
+      "Precision": 2364,
       "Toughness": 1243,
       "Vitality": 1250,
       "Ferocity": 1518,
@@ -80,16 +80,16 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
       "Agony Resistance": 162,
       "Condition Duration": 0,
       "Boon Duration": 0.252,
-      "Critical Chance": 0.9971428571428571,
+      "Critical Chance": 0.9995238095238095,
       "Critical Damage": 2.512,
-      "Effective Power": 25941.8446954537,
-      "Power DPS": 33573.56181032726,
+      "Effective Power": 25145.782511467416,
+      "Power DPS": 32824.10578123779,
       "Bleeding Damage": 117.875,
       "Bleeding Stacks": 0,
       "Bleeding DPS": 0,
       "Burning Damage": 411.125,
-      "Burning Stacks": 1.92,
-      "Burning DPS": 789.36,
+      "Burning Stacks": 1.1,
+      "Burning DPS": 452.2375,
       "Confusion Damage": 143.4625,
       "Confusion Stacks": 0,
       "Confusion DPS": 0,
@@ -99,7 +99,7 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
       "Torment Damage": 175.0875,
       "Torment Stacks": 0,
       "Torment DPS": 0,
-      "Damage": 34362.92181032726,
+      "Damage": 33276.343281237794,
       "Effective Health": 78630248.75621891,
       "Survivability": 39974.707044341085,
       "Effective Healing": 465,
@@ -165,8 +165,8 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
     "attributes": {
       "Health": 14145,
       "Armor": 2604,
-      "Power": 3925,
-      "Precision": 2462,
+      "Power": 3885,
+      "Precision": 2382,
       "Toughness": 1333,
       "Vitality": 1250,
       "Ferocity": 1544,
@@ -177,16 +177,16 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
       "Agony Resistance": 222,
       "Condition Duration": 0,
       "Boon Duration": 0.24866666666666667,
-      "Critical Chance": 1.0461904761904761,
+      "Critical Chance": 1.0080952380952382,
       "Critical Damage": 2.5293333333333337,
-      "Effective Power": 26353.84950669856,
-      "Power DPS": 34106.77250366341,
+      "Effective Power": 26085.275244209908,
+      "Power DPS": 34050.47480857589,
       "Bleeding Damage": 117.875,
       "Bleeding Stacks": 0,
       "Bleeding DPS": 0,
       "Burning Damage": 411.125,
-      "Burning Stacks": 1.92,
-      "Burning DPS": 789.36,
+      "Burning Stacks": 1.1,
+      "Burning DPS": 452.2375,
       "Confusion Damage": 143.4625,
       "Confusion Stacks": 0,
       "Confusion DPS": 0,
@@ -196,7 +196,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
       "Torment Damage": 175.0875,
       "Torment Stacks": 0,
       "Torment DPS": 0,
-      "Damage": 34896.13250366341,
+      "Damage": 34502.712308575894,
       "Effective Health": 81445174.12935324,
       "Survivability": 41405.78247552275,
       "Effective Healing": 465,
@@ -246,7 +246,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Right Hand Strength,Retribution,Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath,Zealous Blade,Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Healers Retribution,Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath,Zealous Blade,Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>
 
 <Card title="Defiance Bar Damage">
 
