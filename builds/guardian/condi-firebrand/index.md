@@ -139,7 +139,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
     "consumables": {
       "foodId": "91878",
       "utilityId": 48916,
-      "infusion": "Mighty +9 Agony Infusion"
+      "infusion": "Malign +9 Agony Infusion"
     },
     "skills": {
       "heal": "Mantra of Solace",
