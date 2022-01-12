@@ -1,4 +1,8 @@
 ---
+title: Condi Soulbeast
+rating: Meta
+role: Condi Damage
+profession: Ranger
 skills:
   - 45717
   - 12498
@@ -14,13 +18,9 @@ compositions:
   - name: _CRGB
     roles: DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC
     composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
-title: Condi Soulbeast
-rating: Meta
-role: Condi Damage
 specialization: Soulbeast
-code: '[&DQQhNx4tNy55AAAA6RYAAL8AAAC9AAAALhYAACU0AAAAAAAAAAAAAAAAAAA=]'
-date: 2022-01-05T22:51:09.763Z
-profession: Ranger
+code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-01-12T02:05:45.106Z
 conditions:
   - Bleeding
   - Poisoned
@@ -74,47 +74,47 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "Viper",
       "Viper"
     ],
-    "attributes": {
-      "Health": 17122,
-      "Armor": 2361,
-      "Power": 2923,
-      "Precision": 1976,
-      "Toughness": 1243,
-      "Vitality": 1120,
-      "Ferocity": 150,
-      "Condition Damage": 3023,
-      "Expertise": 773,
-      "Concentration": 243,
-      "Healing Power": 0,
-      "Agony Resistance": 162,
-      "Condition Duration": 0.5153333333333333,
-      "Boon Duration": 0.162,
-      "Critical Chance": 0.8147619047619048,
-      "Critical Damage": 1.6,
-      "Bleeding Duration": 0.5,
-      "Effective Power": 8601.860511160714,
-      "Power DPS": 5051.150280908775,
-      "Burning Damage": 974.2931250000001,
-      "Burning Stacks": 3.4852666666666665,
-      "Burning DPS": 3395.6713521250003,
-      "Bleeding Damage": 439.55502500000006,
-      "Bleeding Stacks": 51.8,
-      "Bleeding DPS": 22768.950295000002,
-      "Poison Damage": 436.475,
-      "Poison Stacks": 23.336133333333336,
-      "Poison DPS": 10185.638796666668,
-      "Torment Damage": 493.78875,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Confusion Damage": 330.4925,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Damage": 41401.41072470044,
-      "Effective Health": 50531302.5,
-      "Survivability": 25689.52846975089,
-      "Effective Healing": 390,
-      "Healing": 390
-    },
+  "attributes": {
+    "Health": 17122,
+    "Armor": 2361,
+    "Power": 2923,
+    "Precision": 1976,
+    "Toughness": 1243,
+    "Vitality": 1120,
+    "Ferocity": 150,
+    "Condition Damage": 2732,
+    "Expertise": 773,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.5153333333333333,
+    "Boon Duration": 0.162,
+    "Critical Chance": 0.8147619047619048,
+    "Critical Damage": 1.6,
+    "Bleeding Duration": 0.5,
+    "Effective Power": 8223.37864866964,
+    "Power DPS": 5037.888113220408,
+    "Bleeding Damage": 384.81953999999996,
+    "Bleeding Stacks": 55.4,
+    "Bleeding DPS": 21319.002515999997,
+    "Burning Damage": 862.878375,
+    "Burning Stacks": 3.6368,
+    "Burning DPS": 3138.1160742,
+    "Confusion Damage": 341.298075,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 384.04359374999996,
+    "Poison Stacks": 25.003,
+    "Poison DPS": 9602.241974531249,
+    "Torment Damage": 432.1395,
+    "Torment Stacks": 0.3030666666666667,
+    "Torment DPS": 130.96707780000003,
+    "Damage": 39228.21575575165,
+    "Effective Health": 80447844.77611941,
+    "Survivability": 40898.751792638235,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
     "runeId": 24762,
     "runeName": "Krait",
     "infusions": [
@@ -163,48 +163,48 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "Viper",
       "Viper"
     ],
-    "attributes": {
-      "Health": 17122,
-      "Armor": 2361,
-      "Power": 2923,
-      "Precision": 1976,
-      "Toughness": 1243,
-      "Vitality": 1120,
-      "Ferocity": 150,
-      "Condition Damage": 2885,
-      "Expertise": 893,
-      "Concentration": 243,
-      "Healing Power": 0,
-      "Agony Resistance": 162,
-      "Condition Duration": 0.7953333333333333,
-      "Boon Duration": 0.162,
-      "Critical Chance": 0.8147619047619048,
-      "Critical Damage": 1.6,
-      "Bleeding Duration": 0.2,
-      "Poison Duration": 0.1,
-      "Effective Power": 8601.860511160714,
-      "Power DPS": 5051.150280908775,
-      "Burning Damage": 903.3984374999999,
-      "Burning Stacks": 4.129266666666666,
-      "Burning DPS": 3730.373054687499,
-      "Bleeding Damage": 405.44218750000005,
-      "Bleeding Stacks": 51.67913333333333,
-      "Bleeding DPS": 20952.900866770837,
-      "Poison Damage": 403.515625,
-      "Poison Stacks": 29.188133333333333,
-      "Poison DPS": 11777.867864583333,
-      "Torment Damage": 455.390625,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Confusion Damage": 304.84375,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Damage": 41512.292066950446,
-      "Effective Health": 50531302.5,
-      "Survivability": 25689.52846975089,
-      "Effective Healing": 390,
-      "Healing": 390
-    },
+  "attributes": {
+    "Health": 17122,
+    "Armor": 2361,
+    "Power": 2923,
+    "Precision": 1976,
+    "Toughness": 1243,
+    "Vitality": 1120,
+    "Ferocity": 150,
+    "Condition Damage": 2613,
+    "Expertise": 893,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.7953333333333332,
+    "Boon Duration": 0.162,
+    "Critical Chance": 0.8147619047619048,
+    "Critical Damage": 1.6,
+    "Bleeding Duration": 0.2,
+    "Poison Duration": 0.1,
+    "Effective Power": 8223.37864866964,
+    "Power DPS": 5037.888113220408,
+    "Bleeding Damage": 355.17999125,
+    "Bleeding Stacks": 55.270733333333325,
+    "Bleeding DPS": 19631.058581714413,
+    "Burning Damage": 800.6724062499999,
+    "Burning Stacks": 4.3088,
+    "Burning DPS": 3449.937264049999,
+    "Confusion Damage": 315.32614375,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 355.2884375,
+    "Poison Stacks": 31.273,
+    "Poison DPS": 11110.935305937499,
+    "Torment Damage": 398.7864374999999,
+    "Torment Stacks": 0.35906666666666665,
+    "Torment DPS": 143.19091682499996,
+    "Damage": 39373.01018174732,
+    "Effective Health": 80447844.77611941,
+    "Survivability": 40898.751792638235,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
     "runeId": 24687,
     "runeName": "Afflicted",
     "infusions": [
@@ -223,7 +223,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
     },
     "consumables": {
       "foodId": "91876",
-      "utility": "toxic-focusing-crystal",
+      "utility": "tuning-Icicle",
       "infusion": "Spiteful +9 Agony Infusion"
     },
     "skills": {
