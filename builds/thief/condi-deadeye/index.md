@@ -18,6 +18,7 @@ boons:
   - name: Might
     uptime: 3 stacks
     variant: party - situational
+cmGuide: ""
 classification:
   - 3
   - 5
@@ -26,9 +27,8 @@ classification:
   - 5
 compositions:
   - name: _CRGB
-code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-01-05T22:36:43.043Z
-cmGuide: ''
+code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-01-12T02:19:49.021Z
 ---
 
 <Divider text="Overview"/>
@@ -73,47 +73,47 @@ We do not recommend running these builds in Shattered Observatory for new player
       "Viper",
       "Viper"
     ],
-    "attributes": {
-      "Health": 11645,
-      "Armor": 2361,
-      "Power": 2923,
-      "Precision": 1876,
-      "Toughness": 1243,
-      "Vitality": 1000,
-      "Ferocity": 150,
-      "Condition Damage": 2756,
-      "Expertise": 853,
-      "Concentration": 423,
-      "Healing Power": 0,
-      "Agony Resistance": 162,
-      "Condition Duration": 0.7686666666666667,
-      "Boon Duration": 0.282,
-      "Critical Chance": 0.6671428571428572,
-      "Critical Damage": 1.6,
-      "Poison Duration": 0.33,
-      "Effective Power": 9735.350599106787,
-      "Power DPS": 6297.800926645899,
-      "Burning Damage": 941.9287500000002,
-      "Burning Stacks": 0.8843333333333334,
-      "Burning DPS": 832.9789912500003,
-      "Bleeding Damage": 395.2125,
-      "Bleeding Stacks": 35.019600000000004,
-      "Bleeding DPS": 13840.183665,
-      "Poison Damage": 446.31641249999996,
-      "Poison Stacks": 29.4,
-      "Poison DPS": 13121.702527499998,
-      "Torment Damage": 472.22999999999996,
-      "Torment Stacks": 19.27846666666667,
-      "Torment DPS": 9103.870314000002,
-      "Confusion Damage": 316.16999999999996,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Damage": 43196.5364243959,
-      "Effective Health": 37804036.875,
-      "Survivability": 19219.13415099136,
-      "Effective Healing": 390,
-      "Healing": 390
-    },
+  "attributes": {
+    "Health": 11645,
+    "Armor": 2361,
+    "Power": 2923,
+    "Precision": 1876,
+    "Toughness": 1243,
+    "Vitality": 1000,
+    "Ferocity": 150,
+    "Condition Damage": 2525,
+    "Expertise": 853,
+    "Concentration": 423,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.7686666666666666,
+    "Boon Duration": 0.282,
+    "Critical Chance": 0.6671428571428571,
+    "Critical Damage": 1.6,
+    "Poison Duration": 0.33,
+    "Effective Power": 9646.035455995714,
+    "Power DPS": 6277.165930162787,
+    "Bleeding Damage": 365.97656249999994,
+    "Bleeding Stacks": 33.60466666666667,
+    "Bleeding DPS": 12298.520390624999,
+    "Burning Damage": 881.5078124999999,
+    "Burning Stacks": 0.8843333333333333,
+    "Burning DPS": 779.5467421874998,
+    "Confusion Damage": 345.97968749999995,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 415.20937499999997,
+    "Poison Stacks": 29.2,
+    "Poison DPS": 12124.113749999999,
+    "Torment Damage": 437.14687499999997,
+    "Torment Stacks": 16.802333333333333,
+    "Torment DPS": 7345.087509374999,
+    "Damage": 38824.43432235029,
+    "Effective Health": 60793466.00331675,
+    "Survivability": 30906.693443475724,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
     "runeId": 24848,
     "runeName": "Nightmare",
     "infusions": [
