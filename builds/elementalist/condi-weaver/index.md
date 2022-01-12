@@ -14,15 +14,15 @@ conditions:
   - Crippled
   - Bleeding
   - Chilled
-code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: 2021-10-03T12:28:43.340Z
+date: 2022-01-10T23:30:08.573Z
+cmGuide: ""
 ---
 
 <Divider text="Overview"/>
@@ -64,46 +64,45 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
       "Viper",
       "Viper",
       "Viper"
-    ],
     "attributes": {
       "Health": 11645,
       "Armor": 2210,
-      "Power": 3368,
-      "Precision": 2006,
+      "Power": 3272.6,
+      "Precision": 2186,
       "Toughness": 1243,
       "Vitality": 1000,
-      "Ferocity": 270,
-      "Condition Damage": 2929,
-      "Expertise": 743,
+      "Ferocity": 184.8,
+      "Condition Damage": 2692,
+      "Expertise": 748,
       "Concentration": 243,
       "Healing Power": 0,
       "Agony Resistance": 162,
-      "Condition Duration": 0.7953333333333333,
+      "Condition Duration": 0.7986666666666666,
       "Boon Duration": 0.162,
-      "Critical Chance": 0.829047619047619,
-      "Critical Damage": 1.68,
+      "Critical Chance": 0.9147619047619048,
+      "Critical Damage": 1.6232,
       "Burning Duration": 0.2,
       "Bleeding Duration": 0.2,
-      "Effective Power": 8744.397760999998,
-      "Power DPS": 9427.922114285711,
-      "Burning Damage": 950.616875,
-      "Burning Stacks": 25.540266666666668,
-      "Burning DPS": 24279.008485333336,
-      "Bleeding Damage": 321.3275,
-      "Bleeding Stacks": 32.3244,
-      "Bleeding DPS": 10386.718641,
-      "Poison Damage": 340.015,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 480.04125000000005,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Confusion Damage": 321.3275,
+      "Effective Power": 9298.886304280046,
+      "Power DPS": 9767.948339651894,
+      "Bleeding Damage": 295.926,
+      "Bleeding Stacks": 32.578266666666664,
+      "Bleeding DPS": 9640.756141599999,
+      "Burning Damage": 884.06925,
+      "Burning Stacks": 25.782799999999998,
+      "Burning DPS": 22793.7806589,
+      "Confusion Damage": 349.18365000000006,
       "Confusion Stacks": 0,
       "Confusion DPS": 0,
-      "Damage": 44093.64924061905,
-      "Effective Health": 34421164.375,
-      "Survivability": 17499.32098373157,
+      "Poison Damage": 314.46975,
+      "Poison Stacks": 0,
+      "Poison DPS": 0,
+      "Torment Damage": 441.954,
+      "Torment Stacks": 0,
+      "Torment DPS": 0,
+      "Damage": 42202.48514015189,
+      "Effective Health": 56905362.07849641,
+      "Survivability": 28930.02647610392,
       "Effective Healing": 390,
       "Healing": 390
     },
@@ -112,7 +111,7 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
     "infusions": [
       37130, 37130, 37130, 37130, 37130, 37130, 37130,
       37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130
+      37130, 86113, 86113, 86113
     ],
     "weapons": {
       "weapon1MainType": "Sword",
@@ -134,7 +133,7 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
     }
 }}>
 
-Note that the build does not rely on precision as much as the <BuildLink build="Power Weaver" specialization="Weaver"/> variant and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. The stats shown are with 162 Agony Resistance. This build requires 16x <Item name="malignagonyinfusion"/> and 2x <Item name="spitefulagonyinfusion"/>.
+Note that the build does not rely on precision as much as the <BuildLink build="Power Weaver" specialization="Weaver"/> variant and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. The stats shown are with 162 Agony Resistance. This build requires 15x <Item name="malignagonyinfusion"/> and 3x <Item name="spitefulagonyinfusion"/>.
 
 </Character>
 
