@@ -2,7 +2,7 @@
 title: Condi Scourge
 rating: Good
 role: Condi Damage
-author: 'Discord: Amerikajinn#9784'
+author: "Discord: Amerikajinn#9784"
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -21,15 +21,15 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 2
   - 4
   - 4
   - 2
   - 3
-date: 2022-01-05T22:38:01.001Z
+date: 2022-01-11T03:17:48.414Z
 benchmark:
   small:
     dps: 37044
@@ -73,47 +73,47 @@ Due to being a condition based build, it will not benefit as highly from slaying
         "Viper",
         "Viper"
       ],
-      "attributes": {
-        "Health": 19212,
-        "Armor": 2210,
-        "Power": 2923,
-        "Precision": 2056,
-        "Toughness": 1243,
-        "Vitality": 1000,
-        "Ferocity": 150,
-        "Condition Damage": 3083,
-        "Expertise": 1036,
-        "Concentration": 468,
-        "Healing Power": 0,
-        "Agony Resistance": 162,
-        "Condition Duration": 0.8906666666666666,
-        "Boon Duration": 0.312,
-        "Critical Chance": 0.9528571428571428,
-        "Critical Damage": 1.6,
-        "Bleeding Duration": 0.2,
-        "Effective Power": 7264.453605357142,
-        "Power DPS": 3930.133737207079,
-        "Burning Damage": 989.405625,
-        "Burning Stacks": 6.428266666666667,
-        "Burning DPS": 6360.163199,
-        "Bleeding Damage": 336.3425,
-        "Bleeding Stacks": 41.2,
-        "Bleeding DPS": 13857.311,
-        "Poison Damage": 355.03,
-        "Poison Stacks": 6.995466666666667,
-        "Poison DPS": 2483.6005306666666,
-        "Torment Damage": 628.2046875,
-        "Torment Stacks": 26.847466666666666,
-        "Torment DPS": 16865.704407499998,
-        "Confusion Damage": 336.3425,
-        "Confusion Stacks": 0,
-        "Confusion DPS": 0,
-        "Damage": 43496.912874373746,
-        "Effective Health": 53073150,
-        "Survivability": 26981.77427554652,
-        "Effective Healing": 390,
-        "Healing": 390
-      },
+    "attributes": {
+      "Health": 19212,
+      "Armor": 2210,
+      "Power": 2923,
+      "Precision": 2056,
+      "Toughness": 1243,
+      "Vitality": 1000,
+      "Ferocity": 150,
+      "Condition Damage": 2837,
+      "Expertise": 1036,
+      "Concentration": 468,
+      "Healing Power": 0,
+      "Agony Resistance": 162,
+      "Condition Duration": 0.8906666666666667,
+      "Boon Duration": 0.312,
+      "Critical Chance": 0.9528571428571428,
+      "Critical Damage": 1.6,
+      "Bleeding Duration": 0.2,
+      "Effective Power": 7264.453605357143,
+      "Power DPS": 3930.1337372070793,
+      "Bleeding Damage": 312.3575,
+      "Bleeding Stacks": 41.2,
+      "Bleeding DPS": 12869.129,
+      "Burning Damage": 927.444375,
+      "Burning Stacks": 6.428266666666667,
+      "Burning DPS": 5961.859761,
+      "Confusion Damage": 368.14862500000004,
+      "Confusion Stacks": 0,
+      "Confusion DPS": 0,
+      "Poison Damage": 331.045,
+      "Poison Stacks": 6.995466666666667,
+      "Poison DPS": 2315.8142626666668,
+      "Torment Damage": 583.2328125,
+      "Torment Stacks": 26.847466666666666,
+      "Torment DPS": 15658.3234925,
+      "Damage": 40735.260253373744,
+      "Effective Health": 84494567.16417912,
+      "Survivability": 42956.05854813376,
+      "Effective Healing": 390,
+      "Healing": 390
+    },
       "runeId": 24848,
       "runeName": "Nightmare",
       "infusions": [
