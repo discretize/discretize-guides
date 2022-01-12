@@ -28,7 +28,7 @@ boons:
   - name: Might
     uptime: 25 stacks
     variant: self - on demand
-code: "[&DQcBHQoaKD4jDwAAawEAAGkBAACPAQAAvAEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: ""
 classification:
   - 2
@@ -36,7 +36,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-01-11T03:12:36.781Z
+date: 2022-01-12T01:53:32.983Z
 ---
 
 <Divider text="Overview"/>
@@ -151,64 +151,64 @@ If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner 
 
 </Character>  
 <Character gear={{
-    "profession": "Mesmer",
-    "weight": "Light",
-    "gear": [
-      "Assassin",
-      "Assassin",
-      "Assassin",
-      "Assassin",
-      "Assassin",
-      "Assassin",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Assassin",
-      "Assassin",
-      "Berserker",
-      "Berserker",
-      "Berserker"
-    ],
-    "attributes": {
-      "Health": 15922,
-      "Armor": 2285,
-      "Power": 3300,
-      "Precision": 2575,
-      "Toughness": 1318,
-      "Vitality": 1000,
-      "Ferocity": 1556,
-      "Condition Damage": 750,
-      "Expertise": 0,
-      "Concentration": 318,
-      "Healing Power": 0,
-      "Agony Resistance": 212,
-      "Condition Duration": 0,
-      "Boon Duration": 0.212,
-      "Critical Chance": 1,
-      "Critical Damage": 2.5373333333333337,
-      "Effective Power": 28885.089059716684,
-      "Power DPS": 42899.41798356844,
-      "Bleeding Damage": 96.3125,
-      "Bleeding Stacks": 24,
-      "Bleeding DPS": 2311.5,
-      "Burning Damage": 355.421875,
-      "Burning Stacks": 0.63,
-      "Burning DPS": 223.91578125,
-      "Confusion Damage": 118.665625,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 112.84375,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 142.74375,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Damage": 45434.83376481844,
-      "Effective Health": 80446147.04256496,
-      "Survivability": 40897.888684578014,
-      "Effective Healing": 390,
-      "Healing": 390
-    },
+  "profession": "Mesmer",
+  "weight": "Light",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 15922,
+    "Armor": 2300,
+    "Power": 3454,
+    "Precision": 2575,
+    "Toughness": 1333,
+    "Vitality": 1000,
+    "Ferocity": 1556,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 333,
+    "Healing Power": 0,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.222,
+    "Critical Chance": 1,
+    "Critical Damage": 2.5373333333333337,
+    "Effective Power": 27484.599893184964,
+    "Power DPS": 40819.44620254694,
+    "Bleeding Damage": 96.3125,
+    "Bleeding Stacks": 24,
+    "Bleeding DPS": 2311.5,
+    "Burning Damage": 355.421875,
+    "Burning Stacks": 0.63,
+    "Burning DPS": 223.91578125,
+    "Confusion Damage": 118.665625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 112.84375,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 142.74375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 43354.86198379694,
+    "Effective Health": 72876815.92039803,
+    "Survivability": 37049.72848012101,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
     "runeId": 24836,
     "runeName": "Scholar",
     "infusions": [
