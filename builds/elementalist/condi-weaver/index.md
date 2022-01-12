@@ -14,7 +14,7 @@ conditions:
   - Crippled
   - Bleeding
   - Chilled
-code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -22,7 +22,7 @@ classification:
   - 4
   - 5
 date: 2022-01-10T23:30:08.573Z
-cmGuide: ""
+cmGuide: ''
 ---
 
 <Divider text="Overview"/>
@@ -64,6 +64,7 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
       "Viper",
       "Viper",
       "Viper"
+    ],
     "attributes": {
       "Health": 11645,
       "Armor": 2210,
