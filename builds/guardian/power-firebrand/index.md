@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-01-11T02:40:49.201Z
+date: 2022-01-12T01:56:10.382Z
 ---
 
 <Divider text="Overview"/>
@@ -246,7 +246,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Healers Retribution,Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath,Zealous Blade,Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Healers Resolution,Retribution,Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath,Zealous Blade,Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>
 
 <Card title="Defiance Bar Damage">
 
