@@ -121,7 +121,11 @@ After 2-3 hits against the Seal, place <Item id="78978"/>, run up to the _Right 
 
 <Tab specialization="soulbeast">
 
+<p>
+
 <Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you. Take <Skill id="12489"/> for pulsing condition cleanse! Great way the clean the huge stacks of <Condition name="Burning"/>. You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
+
+</p>
 
 </Tab>
 </Tabs>

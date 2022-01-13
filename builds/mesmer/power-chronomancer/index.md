@@ -370,9 +370,14 @@ You can go this Illusions variant over the Domination traitline when you're faci
 | ------------------------------------------------------- | --------------------------------------------------- |
 | <Trait name="Bountiful Blades" size="big" disableText/> | If you're playing with Greatsword instead of Focus. |
 
-<Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>Utilize Mirage for skips!
+<Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
 
+Utilize Mirage for skips!
+
+<p>
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
+</p>
+
 </Card>
 </GridItem>
 

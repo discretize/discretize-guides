@@ -36,7 +36,7 @@ benchmark:
 
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
 
-<Specialization name="Reaper" text="Power Reaper" /> has multiple offensive skill
+The <Specialization name="Reaper" text="Power Reaper" /> has multiple offensive skill
 options (<Control name="Pull" />, boon corruptions for <Instability name="No Pain, No Gain" />
 , <Condition name="Blinded" />, <Condition name="Immobile" />, etc.) <Specialization
   name="Reaper"

@@ -90,7 +90,7 @@ Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.
 
 <Tab specialization="Guardian">
 
-<Skill id="30029"/>, <Skill id="9084"/> and <Skill id="9253"/> block the console <Control name="Knockback"/>.
+Use <Skill id="30029"/>, <Skill id="9084"/> and <Skill id="9253"/> block the console <Control name="Knockback"/>.
 </Tab>
 
 <Tab specialization="thief">

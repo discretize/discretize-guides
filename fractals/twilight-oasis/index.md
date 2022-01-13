@@ -43,7 +43,7 @@ sigils:
 
 Let your <Specialization name="Renegade"/> skip the first part or use <Effect name="Stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders. If the instabilities are harder to deal with, a party may decide to take the time to kill the adds on the way, however, this will take a long time.
 
-<Boon name="Swiftness"/>, <Effect name="Superspeed"/> and <Item name="executioneraxetoy"/> help to quickly skip to the first _Sand Binder_.
+Use Boons like <Boon name="Swiftness"/>, <Effect name="Superspeed"/> and <Item name="executioneraxetoy"/> help to quickly skip to the first _Sand Binder_.
 
 </GridItem>
 

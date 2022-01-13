@@ -344,7 +344,9 @@ The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-drag
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
+<p>
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
+</p>
 
 - <Skill name="Tome of Justice"/> (F1):
 

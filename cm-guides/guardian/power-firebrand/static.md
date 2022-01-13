@@ -283,7 +283,9 @@ For the final phase you want to drop some <Boon name="Stability"/> from <Skill n
 <Boss name="siax" video="zLE72fLTt1Q" videoCreator="Danni [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 <Warning>
 
+<p>
 <Specialization name="Dragonhunter"/> will only work in double <Specialization name="Dragonhunter"/> comps and only if the kill is short.
+</p>
 
 </Warning>
 </Boss>

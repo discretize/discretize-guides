@@ -17,7 +17,7 @@ You can find the portal entrance to fractals in Fort Marriner in Lions Arch. The
 Starting atlevel 20, players need to deal with <Effect name="Agony"/> which requires increasing amounts of <Attribute name="Agony Resistance"/> to counter effectively as you move up in fractal level. Without enough <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
 
 <Warning>
-<Effect name="Agony"/> reduces your healing by 70% per stack. Never use your heal skill while you are under the effect of <Effect name="Agony"/>.
+Be aware of <Effect name="Agony"/>; it reduces your healing by 70% per stack. Never use your heal skill while you are under the effect of <Effect name="Agony"/>.
 </Warning>
 
 Starting with tier 2, the heroes begin encountering _Mistlock instabilities_ which add another mechanic to play around, and therefore another layer of difficulty. By tier 4, each fractal will apply multiple _Mistlock instabilities_. A complete list of _Mistlock instabilities_ and countermeasures can be found at the bottom of this page.

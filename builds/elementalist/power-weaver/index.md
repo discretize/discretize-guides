@@ -404,7 +404,11 @@ For that reason you can find a video with openers, that are efficient to use her
 
 ### **Burst priority**
 
+<p>
+
 <Skill id="5492" disableText/>/<Skill id="5492" disableText/> bursting options and priority:
+
+</p>
 
 Keep eye on boss HP/<Effect name="Exposed"/> duration to optimize the <Skill id="5492" disableText/>/<Skill id="5492" disableText/> burst priority there are 3 options for that burst:
 

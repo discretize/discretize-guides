@@ -34,11 +34,13 @@ date: 2022-01-11T02:53:58.478Z
 cmGuide: ' '
 ---
 
-<Warning> 
-<Specialization name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand"/> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups or when played in the <Composition name="_RGB"/> composition. 
+<Warning>
+
+The <Specialization name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand"/> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups or when played in the <Composition name="_RGB"/> composition.
+
 </Warning>
 
-<Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
+The <Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
 The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
 The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
 It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.

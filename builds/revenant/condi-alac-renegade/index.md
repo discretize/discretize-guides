@@ -338,8 +338,9 @@ If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can b
 <Grid>
 <GridItem sm="7">
 <Card title="Key Skills">
-
+<p>
 <Skill id="41858"/> skills:
+</p>
 
 - <Skill id="45686"/>: self heal + pulsing area heal skill that can help <Skill id="12498"/> to stay alive
 
@@ -351,7 +352,9 @@ If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can b
 
 - <Skill id="45773"/>: a situational skill that allows your party members to quickly replenish their health at the cost of damage when you are attuned to <Skill id="41858"/>
 
+<p>
 <Skill id="28494"/> skills:
+</p>
 
 - <Skill id="27505"/>: not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condition builds (which are less affected by <Boon name="Protection"/> than power builds), still a good skill to boonstrip quickly
 
@@ -379,7 +382,9 @@ Mace/Axe skills:
 
 - <Skill id="28409"/>: good damage skill that deals good amount of breakbar damage as well, applies <Condition name="Torment"/>
 
+<p>
 <Specialization name="Renegade"/> skills:
+</p>
 
 - <Skill id="44076"/>: give 2 <Boon name="Might"/> to you and your group per <SpecialActionKey name="KallasFervor"/> you have
 
@@ -426,7 +431,7 @@ Do not use <Skill id="45537"/> right before a mechanic or any reason that would 
 <GridItem sm="6">
 <Card title="Information">
 
-<Specialization name="Renegade" text="Condi Renegade"/>'s raid rotation is not super efficient in fractals due to the lack of time to ramp up with <Skill id="28494"/>, and the fact that you want to save skills you usually use while in <Skill id="41858"/> to CC or keep skills like <Skill name="Citadel Bombardment"/> for exposed phases.
+The <Specialization name="Renegade" text="Condi Renegade"/>'s raid rotation is not super efficient in fractals due to the lack of time to ramp up with <Skill id="28494"/>, and the fact that you want to save skills you usually use while in <Skill id="41858"/> to CC or keep skills like <Skill name="Citadel Bombardment"/> for exposed phases.
 
 You'll want to respect these rules :
 

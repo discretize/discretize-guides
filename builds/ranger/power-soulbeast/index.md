@@ -383,7 +383,9 @@ Running Skirmishing in fractals is quite a niche choice, you need to satisfy **t
 If you meet these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:<Traits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888" unembossed/>
 
 <Warning>
+<p>
 <Trait name="trappersexpertise"/> is worth over <Trait id="1069"/> if it allows you to get another <Skill name="Frost trap"/> in a phase.
+</p>
 </Warning>
 </Card>
 </GridItem>
@@ -472,7 +474,9 @@ For that reason you can find a video below with openers for each of the CM bosse
 
 <Card title="Golem Rotation">
 
-<Video youtube="jUyBMhlq13o" caption="by Ares [EoE]"/>Note: The golem benchmark uses a different build setup to the ones above due to its use in raids. Check the description of the benchmark for a link to the build used.
+<Video youtube="jUyBMhlq13o" caption="by Ares [EoE]"/>
+
+Note: The golem benchmark uses a different build setup to the ones above due to its use in raids. Check the description of the benchmark for a link to the build used.
 </Card>
 
 <Card title="Golem Rotation">

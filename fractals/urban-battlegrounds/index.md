@@ -138,7 +138,7 @@ For more experienced groups it is favorable to take <Skill name="Legendary Dwarf
 </Tab>
 <Tab specialization="elementalist">
 
-<Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors _Rush_ attack. Stay in <Skill id="5492"/> before Ashym for <Boon name="Might"/> stacking.
+The <Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors _Rush_ attack. Stay in <Skill id="5492"/> before Ashym for <Boon name="Might"/> stacking.
 
 </Tab>
 

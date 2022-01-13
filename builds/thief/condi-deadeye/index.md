@@ -141,10 +141,10 @@ We do not recommend running these builds in Shattered Observatory for new player
 >
 
 Note that there are two slightly different variants of this build: one is meant for bosses with very short phases such as Ensolyss or Light Ai; the other one is meant for longer fights, where you will need to sustain damage for a longer period of time. This will also depend on your group. It will always be better to use the latter with people you do not know well, or in situations where your party doesn't bring enough damage.
-<Item name="afflicted"/> is a viable, more accessible alternative.
+The <Item name="afflicted"/> is a viable, more accessible alternative.
 If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
 
-<Skill name="skelkvenom"/> is a much better option to support your party as it brings a tremendous amount of party heal.
+The <Skill name="skelkvenom"/> is a much better option to support your party as it brings a tremendous amount of party heal.
 It's recommended to run a shortbow for additional movement during downtime and <Item name="doom"/> precasts, as well as <Boon name="might"/> blasts on the _Mistlock Singularity_. You will also want a Pistol with <Item id="24639"/> to help CC during Artsariiv splits.
 
 </Character>  
@@ -199,7 +199,9 @@ This variant is meant for short-duration fights or bosses with short phases; wit
 
 ### No Pain, No Gain Variant
 
+<p>
 <Trait id="1277"/> over <Trait id="1190"/> on <Instability name="No Pain, No Gain"/> days, or for some more support.
+</p>
 
 <Grid>
 <GridItem sm="4">

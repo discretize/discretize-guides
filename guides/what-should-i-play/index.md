@@ -74,7 +74,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy to learn build that provides access to good off-support tools, can be augmented to provide the means to provide a safety net at an acceptable dps loss with the Blood Magic traitline (without any stat changes), and can place conditions/cc on multiple targets simultaneously with its shades and <Skill name="Epidemic" />. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools it can help
 
-<Specialization name="Scourge" text="Condi Scourge"/> has multiple offensive control skill options: (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Scourge" text="Condi Scourge"/> and can modify itself to fit many given situations in fractals.
+The <Specialization name="Scourge" text="Condi Scourge"/> has multiple offensive control skill options: (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Scourge" text="Condi Scourge"/> and can modify itself to fit many given situations in fractals.
 
 This build also does not have a formal rotation, and instead has a prioritization for its skills making it easy to focus on side objectives and quickly pick up where you left off in dealing damage.
 
@@ -158,7 +158,7 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 | --------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> |
 
-<Specialization name="Dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
+The <Specialization name="Dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
 
 The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/>, <Skill name="standyourground"/>.
 
@@ -222,7 +222,7 @@ There are 3 different versions of <Specialization text="Power Holosmith" name="H
 
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
 
-<Specialization name="Reaper" text="Power Reaper"/> has multiple offensive skill options (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Reaper" text="Power Reaper"/> can modify itself to fit many given situations in fractals.
+The <Specialization name="Reaper" text="Power Reaper"/> has multiple offensive skill options (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Reaper" text="Power Reaper"/> can modify itself to fit many given situations in fractals.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -234,7 +234,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 | ------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Power Renegade" specialization="Renegade"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="5"/> |
 
-<Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, an insanely strong party heal and additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
+The <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, an insanely strong party heal and additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
 Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty.
 
@@ -248,7 +248,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 | --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | <Rating value="5"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="3"/> | <Rating value="4"/> |
 
-<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+The <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 This build is rather self sufficient due to:
 

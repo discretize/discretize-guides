@@ -163,7 +163,9 @@ You will want the following weapons to swap to durning fractal runs:
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>If your team has a hard time applying <Condition name="Vulnerability"/> you can swap Virtues trait line with Zeal and replace <Skill name="purgingflames"/> with <Skill name="swordofjustice"/>. This will help you to maintain <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
+<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>
+
+If your team has a hard time applying <Condition name="Vulnerability"/> you can swap Virtues trait line with Zeal and replace <Skill name="purgingflames"/> with <Skill name="swordofjustice"/>. This will help you to maintain <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
 
 <Warning>
 This build provides permanent <Boon name="Quickness"/>. For different variants, such as organized Sunqua Peak groups or full DPS, please scroll down.
@@ -250,7 +252,7 @@ To keep up <Boon name="Quickness"/>:
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
 
-<Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
+The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
 - <Skill name="Tome of Justice"/> (F1):
 
