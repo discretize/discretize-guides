@@ -31,7 +31,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-01-13T16:51:29.179Z
+date: 2022-01-13T16:53:16.828Z
 cmGuide: ""
 ---
 
@@ -630,29 +630,27 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
-- <Skill name="Tome of Resolve"/> (F2):
+<Skill name="Tome of Resolve" />:
 
-  - <TomeSkill name="Chapter 1: Desert Bloom"/>
+- Use this Tome for emergency healing and cleansing.
+- <TomeSkill name="Chapter 1: Desert Bloom"/> heals in a cone in front of you.
+- <TomeSkill name="Chapter 2: Radiant Recovery"/> heals and cleanses conditions.
+- <TomeSkill name="Chapter 3: Azure Sun"/> gives some boons but will rarely be used.
+- <TomeSkill name="Chapter 4: Shining River"/> places a healing field that can also be blasted for extra healing.
+- <TomeSkill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an incoming healing modifier.
+- When running Virtues entering this Tome also cleanses conditions.
+- Common rotations in this Tome are 2-5-4-1-2 for maximum sustained healing or 5-4-2-1-1 for maximum burst healing.
 
-  - <TomeSkill name="Chapter 2: Radiant Recovery"/>
+<Skill name="Tome of Courage" />:
 
-  - <TomeSkill name="Chapter 3: Azure Sun"/>
-
-  - <TomeSkill name="Chapter 4: Shining River"/>
-
-  - <TomeSkill name="Epilogue: Eternal Oasis"/>
-
-- <Skill name="Tome of Courage"/> (F3):
-
-  - <TomeSkill name="Chapter 1: Unflinching Charge"/>
-
-  - <TomeSkill name="Chapter 2: Daring Challenge"/>
-
-  - <TomeSkill name="Chapter 3: Valiant Bulwark"/>
-
-  - <TomeSkill name="Chapter 4: Stalwart Stand"/>
-
-  - <TomeSkill name="Epilogue: Unbroken Lines"/>
+- Use this Tome for massive <Boon name="Stability"/>, <Boon name="Resistance"/> or a reflect.
+- <TomeSkill name="Chapter 1: Unflinching Charge"/> grants <Boon name="Stability"/>.
+- <TomeSkill name="Chapter 2: Daring Challenge"/> inflicts 1 second of <Condition name="Taunt"/> on the enemy which is a 75/s soft CC.
+- <TomeSkill name="Chapter 3: Valiant Bulwark"/> places a bubble that reflects incoming projectiles.
+- <TomeSkill name="Chapter 4: Stalwart Stand"/> places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
+- <TomeSkill name="Epilogue: Unbroken Lines"/> provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
+- There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
+- You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example a 2nd reflect. However only do this when absolutely needed as you will not have access to the boons and healing your weapon skills provide.
 
 <Divider text="Rotation"/>
 
