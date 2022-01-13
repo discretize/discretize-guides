@@ -24,11 +24,7 @@ conditions:
 cmGuide: pug
 ---
 
-<p>
-
-<Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
-
-</p>
+The <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 This build is rather self-sufficient due to:
 
@@ -381,9 +377,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 Running Skirmishing in fractals is quite a niche choice, you need to satisfy **the following requirements:**
 
 - You can be sure that you can flank the boss permanently.
-
 - You want to replace a <Specialization name="Berserker"/> by providing your team with <Trait name="Spotter"/> so they can crit cap.
-
 - You are running a double Soulbeast comp and need <Trait name="Quickdraw"/> to reduce your <Skill name="Whirling Defense"/> cooldown.
 
 If you meet these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:<Traits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888" unembossed/>
@@ -410,9 +404,7 @@ If you meet these requirements then you can swap Marksmanship for Skirmishing wi
 <Card title="Swap Weapons">
 
 - Warhorn for <Boon name="Might"/> pre-stacking.
-
 - Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
-
 - Axes, Longbows, and Greatswords with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
 
 </Card>
@@ -432,37 +424,28 @@ In PuGs, however, it is quite hard to predict when the boss will be CC'd as well
 For your First weapon set you have a choice of 3 weapons:
 
 - Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however, you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus.
-
 - Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. Greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck auto-attacking) and you don't have time for another Longbow burst.
-
 - Warhorn is your final option and can be taken if your phases are short enough to not need to swap back after Sword/Axe AND you will not be able to cast another <Skill name="Barrage"/> during the fight. "
 
 For your second weapon set you always want Axe off-hand, but main hand you have a choice of 3 weapons again:
 
 - **You should mostly run a main-hand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
-
 - You may take a main-hand axe (to fill with <Skill name="wintersbite"/>) for certain encounters, such as midburn Artsariiv, where you almost never auto attack with your dual wielding weapons set.
-
 - Dagger, although its lower DPS than Sword in fractals can be taken and also has <Skill name="Instinctive Engage"/> which is a nice source of <Boon name="Quickness"/>.
 
 **Pets:**
 
 - For pets you simply run <Skill id="43636" disableText/> [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) if you need CC or <Skill id="44617" disableText/> [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) if you don't. **It is safer to just run Gazelle most of the time and only swap to Moa when you are sure you don't need the CC. You never know when a little CC can come in handy!**
-
 - You want to have <Skill id="31568" disableText/> [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) on swap to have quick access if you need stealth for skips at any point.
 
 **Utility Skills:**
 
 - **You should never swap out <Skill name="Frost spirit"/> or <Skill name="OneWolfPack"/> as they are both massive damage buffs both personally and for the team!**
-
 - You want to always run <Skill name="Sicem"/> as it grants you a **25% damage bonus** for its duration. One thing to keep in mind is that it only grants you a 25% damage bonus against the foe you use it on, so if you are cleaving trash mobs it might not be worth using. Secondly, you only get the buff if you are in <Skill id="42944"/> so also don't activate it if you are unmerged.
-
 - Your final utility varies depending on the situation. Generally, you want to run either <Skill name="Frost trap"/> or <Skill name="Signet of the Wild"/> since they are your most damaging utilities
 
   - <Skill name="Frost trap"/> is generally taken as it increases your burst damage a substantial amount.
-
   - <Skill name="Signet of the Wild"/> is taken on fights with longer phases where your <Skill name="Frost trap"/> comes off cooldown but you don't have enough time for another burst.
-
   - <Skill name="Moa Stance"/> is another common final utility used to extend boons in your party allowing very offensive comps to be run.
 
 - Most healing skills on ranger are quite useful: <Skill name="We heal as one"/> is a large heal and extends the boons on yourself thanks to <Skill id="42944"/>. Secondly <Skill name="Bear stance"/> is a great condi cleanse either personally or for your team. Finally <Skill name="Troll unguent"/> is a ticking heal that can be useful for pushing orbs at Arkk to enter the damage field.
@@ -470,7 +453,6 @@ For your second weapon set you always want Axe off-hand, but main hand you have 
 **Extra Notes:**
 
 - <Trait name="Essence of speed"/> in combination with <Trait name="Live fast"/> means that using <Skill name="Worldly impact"/> extends your boons, this can be helpful in Ensolyss split phases to maintain boons on yourself. The healing skill <Skill name="We heal as one"/> also allows you to extend boons on yourself.
-
 - <Skill name="Quickening Zephyr"/> in combination with the <Item id="85244"/> allows you to move extremely fast and is useful for a few skips. Check the [Fractal Guides](/fractals) for specific skips.
 
 <Divider text="Rotation / Skill usage"/>
@@ -541,30 +523,21 @@ For that reason you can find a video below with openers for each of the CM bosse
 <GridItem sm="6">
 <Card title="Precasting">
 
-If you have a _Mistlock Singularity_ present you can use this rotation
+If you have a _Mistlock Singularity_ present you can use this rotation:
 
 1.  If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-
 2.  <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
-
 3.  `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
-
 4.  <Skill id="12621"/> to blast might.
-
 5.  <Skill id="31914"/> to extend your boons.
-
 6.  Pick up <Skill id="5516"/> if there is one.
-
 7.  <Skill name="One Wolf Pack"/> then take the _Mistlock Singularity_ and trigger the boss.
 
 If you don't have _Mistlock Singularity_ present you can use this simplified rotation:
 
 1.  If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-
 2.  <Skill id="12621"/> to blast might.
-
 3.  <Skill id="31914"/> to extend your boons.
-
 4.  Pick up <Skill id="5516"/> if there is one.
 
 </Card>
@@ -601,7 +574,9 @@ Many thanks to Elu \[SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4f
 
 <Card title="Traits">
 
-<Traits traits1Id="32" traits1="Beastmastery" traits1SelectedIds="1606,1047,1066" unembossed/>Your other traitlines remain the same as on land. The reason for swapping traits here is to provide a 10% damage increase and cooldown reduction on spear skills.
+<Traits traits1Id="32" traits1="Beastmastery" traits1SelectedIds="1606,1047,1066" unembossed/>
+
+Your other traitlines remain the same as on land. The reason for swapping traits here is to provide a 10% damage increase and cooldown reduction on spear skills.
 </Card>
 
 <Card title="Underwater Rotation">
@@ -611,7 +586,6 @@ For a DPS rotation the same rules apply as above land, try to fit lots of damage
 **Bonus Tips:**
 
 - If you know that a blockable attack is coming then be sure to use <Skill name="Counterstrike"/> (Skill 4) since you can proc <Trait name="Twice as Vicious"/> for a nice 10% damage bonus.
-
 - At the end of a phase you can use <Skill id="12528"/> (Harpoon 3) and <Skill name="Mercy Shot"/> (Harpoon 4) again.
 
 </Card>

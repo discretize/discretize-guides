@@ -46,7 +46,7 @@ This build is very common in PuGs. It is part of a composition called PuG Meta. 
 
 </Warning>
 
-<Specialization name="Firebrand" text="Heal Firebrand" /> provides a good amount of <Boon name="Might" />, permanent <Boon name="Quickness" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Swiftness" /> as well as some <Boon name="Protection" /> and <Boon name="Resolution" />. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability" /> and <Boon name="Resistance" />.
+The <Specialization name="Firebrand" text="Heal Firebrand" /> provides a good amount of <Boon name="Might" />, permanent <Boon name="Quickness" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Swiftness" /> as well as some <Boon name="Protection" /> and <Boon name="Resolution" />. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability" /> and <Boon name="Resistance" />.
 
 It offers a decent amount of healing through symbols, dodges, <Skill name="Mantra of Solace"/>, <Boon name="Regeneration"/>, <Skill name="Bow of Truth"/>, etc.
 
