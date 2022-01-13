@@ -2,7 +2,7 @@
 title: Power Chronomancer
 rating: Good
 role: Power Damage
-author: "Discord: [CnD] Tipcat#0698"
+author: 'Discord: [CnD] Tipcat#0698'
 profession: Mesmer
 specialization: Chronomancer
 skills:
@@ -28,8 +28,8 @@ boons:
   - name: Might
     uptime: 25 stacks
     variant: self - on demand
-code: "[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
@@ -38,8 +38,6 @@ classification:
   - 4
 date: 2022-01-12T01:53:33.017Z
 ---
-
-<Divider text="Overview"/>
 
 The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long ramp-up times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
 

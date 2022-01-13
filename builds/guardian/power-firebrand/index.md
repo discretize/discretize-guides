@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: "[&DQEQLyo6PjpLFwAAehYAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLyo6PjpLFwAAehYAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: static
 classification:
   - 5
@@ -30,8 +30,6 @@ classification:
   - 4
 date: 2022-01-12T01:56:10.382Z
 ---
-
-<Divider text="Overview"/>
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing very decent DPS.
 

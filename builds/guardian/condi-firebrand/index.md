@@ -20,7 +20,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-cmGuide: ""
+cmGuide: ''
 classification:
   - 5
   - 4
@@ -29,7 +29,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: "[&DQEQGi4fPjpLF0sXehZ6FkwBTAEWAUgBiRIYFgAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4fPjpLF0sXehZ6FkwBTAEWAUgBiRIYFgAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-01-11T02:29:01.849Z
 benchmark:
   small:
@@ -37,8 +37,6 @@ benchmark:
     by: TJ [SC]
     youtube: U1yYDskt3Cw
 ---
-
-<Divider text="Overview"/>
 
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide permanent <Boon name="Quickness"/> (if necessary) to the party while dealing high consistent DPS. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
 

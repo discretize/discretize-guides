@@ -11,7 +11,7 @@ rating: Power Meta
 role: Power Damage
 profession: Ranger
 specialization: Soulbeast
-code: "[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
+code: '[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]'
 classification:
   - 5
   - 5
@@ -24,20 +24,18 @@ conditions:
 cmGuide: pug
 ---
 
-<Divider text="Overview"/>
+<p>
 
 <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+
+</p>
 
 This build is rather self-sufficient due to:
 
 - <Boon name="Quickness"/> from <Trait name="livefast"/>
-
 - <Boon name="Might"/> from <Trait name="Huntersgaze"/>
-
 - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
-
 - High CC with <Skill id="45743"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
-
 - High mobility via <Skill name="monarchsleap"/>, <Skill id="45743"/> and <Skill id="12521"/>
 
 Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.

@@ -19,7 +19,7 @@ compositions:
     roles: DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC
     composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
 specialization: Soulbeast
-code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-01-12T02:05:45.106Z
 conditions:
   - Bleeding
@@ -32,8 +32,6 @@ benchmark:
     by: Eren
     youtube: WSuDmiuAwC8
 ---
-
-<Divider text="Overview"/>
 
 <Warning>
 
@@ -283,11 +281,13 @@ This builds damage depends on the amount of <Specialization name="Soulbeast" tex
 </Card>
 
 <Card title="Off-hand Dagger">
+
 Running an off-hand Dagger is similar DPS to Torch providing you can flank permanently and your group can't make use of the fire field from <Skill name="Bonfire"/>. It also has the benefit of having an evade through using <Skill id="12478"/>.
+
 </Card>
 <Card title="Swap Weapons">
-* A <Item id="75325"/> (selected attribute does not matter!) to blast might when prestacking boons.
 
+- A <Item id="75325"/> (selected attribute does not matter!) to blast might when prestacking boons.
 - A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
 
 </Card>

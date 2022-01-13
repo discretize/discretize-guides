@@ -23,7 +23,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQLyo6GzkmDwAAihIAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLyo6GzkmDwAAihIAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -31,10 +31,8 @@ classification:
   - 2
   - 4
 date: 2022-01-11T02:53:58.478Z
-cmGuide: " "
+cmGuide: ' '
 ---
-
-<Divider text="Overview"/>
 
 <Warning> 
 <Specialization name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand"/> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups or when played in the <Composition name="_RGB"/> composition. 

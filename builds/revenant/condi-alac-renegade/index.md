@@ -13,7 +13,7 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
+code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
 classification:
   - 4
   - 3
@@ -27,10 +27,8 @@ role: Condi Damage
 profession: Revenant
 conditions:
   - Vulnerability
-cmGuide: ""
+cmGuide: ''
 ---
-
-<Divider text="Overview"/>
 
 <Warning>
 This build is mainly to be used in condition comps. In power comps <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support and being more versatile.

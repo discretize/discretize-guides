@@ -29,8 +29,8 @@ boons:
   - name: Regeneration
     uptime: 100%
     variant: group
-code: "[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: " "
+code: '[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ' '
 classification:
   - 4
   - 1
@@ -39,8 +39,6 @@ classification:
   - 2
 date: 2022-01-11T02:12:05.170Z
 ---
-
-<Divider text="Overview"/>
 
 <Warning>
 

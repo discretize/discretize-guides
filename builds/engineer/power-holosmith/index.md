@@ -28,8 +28,6 @@ classification:
 date: 2022-01-05T22:03:03.559Z
 ---
 
-<Divider text="Overview"/>
-
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
 It offers:
 
@@ -191,9 +189,11 @@ Due to the naturally high crit-chance from the Firearms Trait Line, this build d
 | <Trait name="Sanguine Array" size="big" disableText/>           | If you are already crit capped without <Trait name="High Caliber"/> and struggle with <Boon name="Might"/> uptime. |
 
 <Traits traits1Id="21" traits1="Tools" traits1SelectedIds="532,512,1856" unembossed/>
+
 If your <Boon name="Quickness"/> uptime is low, you can swap out the Firearms trait line with Tools and replace <Skill id="5805"/> with <Skill id="43739"/>.
 
 <Traits traits1="Scrapper" traits1Selected="Gyroscopic Acceleration" unembossed />
+
 For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect name="Stealth"/> and <Effect name="Superspeed"/>. <Effect name="Stealth"/> can be provided through <Skill name="Sneak Gyro"/>. <Effect name="Superspeed"/> is provided through Gyros with a delay due to <Trait name="Gyroscopic Acceleration"/>. <Skill name="Medic Gyro"/> also provides some instant <Effect name="Superspeed"/> on top. <Skill name="Bulwark Gyro"/> and <Skill name="Purge Gyro"/> can be used without drawing aggro from enemies. <Skill name="Bypass Coating"/> can provide some instant <Effect name="Superspeed"/> as well.
 </Card>
 </GridItem>

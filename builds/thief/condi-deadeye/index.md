@@ -18,7 +18,7 @@ boons:
   - name: Might
     uptime: 3 stacks
     variant: party - situational
-cmGuide: ""
+cmGuide: ''
 classification:
   - 3
   - 5
@@ -27,11 +27,9 @@ classification:
   - 5
 compositions:
   - name: _CRGB
-code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-01-12T02:19:49.021Z
 ---
-
-<Divider text="Overview"/>
 
 <Warning>
 

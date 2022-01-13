@@ -25,8 +25,6 @@ date: 2022-01-10T23:30:08.573Z
 cmGuide: ''
 ---
 
-<Divider text="Overview"/>
-
 <Warning>
 
 This build performs best in [Sunqua Peak](/fractals/sunqua-peak). Outside of this fractal, it will fall behind <BuildLink build="Power Weaver" specialization="Weaver"/> due to its fairly slower damage ramp-up.

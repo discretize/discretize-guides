@@ -34,8 +34,6 @@ benchmark:
     youtube: I1Tjyfk-DKI
 ---
 
-<Divider text="Overview" />
-
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
 
 <Specialization name="Reaper" text="Power Reaper" /> has multiple offensive skill
