@@ -399,13 +399,11 @@ All Tomes are built in a similar way:
 - <Skill name="Holy Strike" /> to blast <Boon name="Might" />.
 - <Skill name="Empower" /> and cast <Skill name="Mantra of Solace" /> once and every
   other equipped Mantra as often as you can during the cast.
-
 - <Skill name="Feel My Wrath" /> if you have it equipped.
 - <Skill name="Bane Signet" /> if you can start the fight within 10 seconds of usage.
 - Take the singularity.
 - <Skill name="Empower" /> and use <Skill name="Mantra of Potence" /> once during
   this cast.
-
 - <Skill name="Symbol of Swiftness" /> on the way to the boss and swap to Axe before
   the fight starts to place <Skill name="Symbol of Vengeance" />.
 
@@ -418,14 +416,9 @@ All Tomes are built in a similar way:
 
 - Correct application of <Boon name="Aegis"/> requires knowledge of the encounters and which attacks are impactful to block.
 - As mentioned above keep <Skill name="Mantra of Solace"/> and 2 charges and use them when <Boon name="Aegis"/> is needed.
-- <Skill name="Shield of Judgment" /> will also give <Boon name="Aegis" />.
-  Prioritize this over the charges of <Skill name="Mantra of Solace" /> since
-  this is also your main source of <Boon name="Protection" />.
-- <TomeSkill name="Epilogue: Unbroken Lines"/> in <Skill name="Tome of Courage" /> will also provide <Boon name="Aegis" />
-  , however you will not enter this Tome for a single application of <Boon name="Aegis" />
-  .
-- <Skill name="Advance" /> is an instant-cast skill providing <Boon name="Aegis" /> when
-  chosen.
+- <Skill name="Shield of Judgment" /> will also give <Boon name="Aegis" />. Prioritize this over the charges of <Skill name="Mantra of Solace" /> since this is also your main source of <Boon name="Protection" />.
+- <TomeSkill name="Epilogue: Unbroken Lines"/> in <Skill name="Tome of Courage" /> will also provide <Boon name="Aegis" />, however you will not enter this Tome for a single application of <Boon name="Aegis" />.
+- <Skill name="Advance" /> is an instant-cast skill providing <Boon name="Aegis" /> when chosen.
 - If Mace is equipped, <Skill name="Protectors Strike"/> also grants <Boon name="Aegis"/> when blocking an attack while channeling.
 - You can use instant-cast skills, namely <Skill name="Mantra of Solace"/> and <Skill name="Advance"/> while channeling other skills so if you need to use <Skill name="Empower"/> but an attack is incoming you can still cast it and get <Boon name="Aegis"/> from one of those skills.
 
@@ -437,13 +430,10 @@ All Tomes are built in a similar way:
 
 - Correct application of <Boon name="Stability"/> requires knowledge of the encounters and which attacks and be negated with <Boon name="Stability"/> without taking too much damage.
 - Make sure to not apply too much <Boon name="Stability"/> at once. For example if you use <Skill name="Stand Your Ground"/>, you will most likely not need to apply any more <Boon name="Stability"/> until the boon ends since it provides 5 stacks.
-- <Skill name="Mantra of Liberation" /> is the easiest access to <Boon name="Stability" />
-  . However keep in mind this only provides one stack.
+- <Skill name="Mantra of Liberation" /> is the easiest access to <Boon name="Stability" />. However keep in mind this only provides one stack.
 - The most common utility skill choice for extra <Boon name="Stability"/> is <Skill name="Stand Your Ground"/> but when the longer cooldown of <Skill name="Hallowed Ground"/> is not an issue that one can be used very well on stationary targets.
 - You can use <Skill name="Mantra of Liberation"/> and <Skill name="Stand Your Ground"/> while casting <Skill name="Empower"/> if an interrupt is incoming.
-- <Skill name="Tome of Courage" /> will also grant access to a very high amount of <Boon name="Stability" /> but
-  is on a fairly long cooldown. Make sure to open the Tome ahead of time due to both
-  the Tome and the skills within having a cast time.
+- <Skill name="Tome of Courage" /> will also grant access to a very high amount of <Boon name="Stability" /> but is on a fairly long cooldown. Make sure to open the Tome ahead of time due to both the Tome and the skills within having a cast time.
 - Make sure to provide enough healing while in <Skill name="Tome of Courage"/> since it replaces your weapons skills. This can be achieved though dodges, utility skills or pre-placed symbols.
 
 </Card>
