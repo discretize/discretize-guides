@@ -1,30 +1,30 @@
 ---
-title: Power Alac Renegade
-rating: Power Meta
-role: Power Damage
 author: Casual Sophie - Jin Su Liang.9036
-profession: Revenant
 specialization: Renegade
 skills:
   - 45773
   - 27505
 traits:
   - 1786
-conditions:
-  - Vulnerability
 boons:
   - name: Alacrity
     uptime: 100%
     variant: party
-code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
-cmGuide: pug
+code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: 2022-01-05T22:40:06.718Z
+date: 2022-01-16T22:30:33.412Z
+title: Power Alac Renegade
+rating: Power Meta
+role: Power Damage
+profession: Revenant
+conditions:
+  - Vulnerability
+cmGuide: pug
 ---
 
 The <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -436,7 +436,7 @@ After the [status reset update of August 31st](https://wiki.guildwars2.com/wiki/
 `[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
 
 <Warning>
-The other legend is unselected for a good reason. If you have the other legend slot empty, it will minimise the number of possible bugs with <Specialization name="Renegade"/> and build templates. You can read more about the bugs [here](https://wiki.guildwars2.com/wiki/Template#Build_Template).
+The other legend is unselected for a good reason. If you have the other legend slot empty, it will minimise the number of possible bugs with <Specialization name="Renegade"/> and build templates. You can read more about the bugs, [the official wiki has them documented](https://wiki.guildwars2.com/wiki/Template#Build_Template)
 </Warning>
 
 To precast with <Specialization name="Herald"/>, you can go very simple:
