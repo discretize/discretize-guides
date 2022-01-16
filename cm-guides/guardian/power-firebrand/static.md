@@ -8,7 +8,7 @@ disableBosses:
   - LightAi
   - DarkAi
   - Ensolyss
-date: 2022-01-05T22:14:58.554Z
+date: 2022-01-16T18:57:31.840Z
 ---
 
  <Divider text="98 CM"/>
@@ -279,183 +279,141 @@ For the final phase you want to drop some <Boon name="Stability"/> from <Skill n
 </Tabs>
 
 <Divider text="98 CM"/>
-
 <Boss name="siax" video="zLE72fLTt1Q" videoCreator="Danni [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
-<Warning>
 
-<p>
-<Specialization name="Dragonhunter"/> will only work in double <Specialization name="Dragonhunter"/> comps and only if the kill is short.
-</p>
+-   Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reason why <Specialization name="Guardian"/> is very strong at this boss. Do not miss this.
 
-</Warning>
+- Use one <Skill name="sword of justice"/> at the start of every phase and save one <Skill name="sword of justice"/> for every add.
+
+- Use <Skill name="Bane Signet"/> to help with CC and buff your party.
+
+- Use the <Boon name="Aegis"/> from <Skill name="Mantra of Solace"/> to block the expanding AoEs for your team.
+
 </Boss>
 
+<CMInformation title="Overview">
+
+Daily strategies for Siax can vary heavily depending on group composition, dps, and expected kill times.
+
+<Warning>
+
+It is possible to replace the <Specialization name="Firebrand"/> with an additional <Specialization name="Dragonhunter"/> on this fight. This will only work in double <Specialization name="Dragonhunter"/> comps and only if the kill is short (a rought kill-time estimate would be ~30 seconds).
+
+</Warning>
+
+If you are staying as <Specialization name="Firebrand"/> then the rotation does not change too much between daily strats, specifically the cc and cc-skip ones.
+
+There are three small differences between these strategies for you. 
+
 <Tabs>
-<Tab specialization="Firebrand" title="Firebrand">
+<Tab title="CC">
 
-### **Phase 1**
-
-- Cast <Skill name="tome of justice"/> skill 4 and 5 before the encounter starts
-
-- Cast <Skill name="symbolofblades"/> slightly before the encounter starts
-
-- Use <Skill name="swordofjustice"/>
-
-- <Skill name="zealotsdefense"/>
-
-- <Skill name="ray of judgment"/>
-
-- <Skill name="shield of wrath"/>
-
-- Weapon swap
-
-- Use <Skill name="banesignet"/> to CC
-
-- <Skill name="Symbol of Resolution"/>
-
-- <Skill name="whirling wrath"/>
-
-### _Split Phase 1_
-
-- Use <Skill name="swordofjustice"/> for <Condition name="vulnerability"/> and damage
-
-- Feel free to use <Skill name="leapoffaith"/>
-
-- Auto attack
-
-### **Phase 2**
-
-- <Skill name="sword of justice"/>
-
-- <Skill name="Symbol of Resolution"/>
-
-- <Skill name="whirling wrath"/>
-
-- Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
-
-- Weapon swap
-
-- <Skill name="symbolofblades"/>
-
-- <Skill name="zealotsdefense"/>
-
-- Share Aegis to block the red AoE
-
-### _Split Phase 2_
-
-- Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
-
-- Help by using <Skill name="ray of judgment"/> on your add
-
-### **Phase 3**
-
-- Precast <Skill name="banesignet"/>
-
-- Use <Skill name="sword of justice"/>
-
-- <Skill name="symbolofblades"/>
-
-- <Skill name="zealotsdefense"/>
-
-- <Skill name="shield of wrath"/>
-
-- Weapon swap
-
-- <Skill name="Symbol of Resolution"/>
-
-- <Skill name="whirling wrath"/>
-
-- Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
+1. Precast one instance of <Skill name="bane signet"/> before taking the mistlock, and then use it to break the breakbar when the pull starts
+1. Split 1 (at 66%) The two guardians go together, usually north
+1. Split 2 (at 33%) You will be helping the <Specialization name="Soulbeast"/> with the NW add, and then the <Specialization name="Dragonhunter"/> with the NE add
 
 </Tab>
-<Tab specialization="Dragonhunter" title="Dragonhunter">
 
-### **Phase 1**
+<Tab title="CC-Skip">
 
-- <Skill name="symbolofblades"/>
-
-- <Skill name="sword of justice"/>
-
-- <Skill name="spear of justice"/>
-
-- <Skill name="zealotsdefense"/>
-
-- <Skill name="ray of judgment"/>
-
-- Weapon swap
-
-- <Skill name="banesignet"/>
-
-- <Skill name="Symbol of Resolution"/> (only use it if it's in P2 off cooldown)
-
-- <Skill name="whirling wrath"/>
-
-### _Split 1_
-
-- you should help your <Specialization name="Weaver"/> on the north
-
-- <Skill name="sword of justice"/>
-
-- Feel free to use <Skill name="leapoffaith"/>
-
-- Auto attack
-
-### **Phase 2**
-
-- <Skill name="sword of justice"/>
-
-- <Skill name="processionofblades"/>
-
-- <Skill name="spear of justice"/>
-
-- <Skill name="Symbol of Resolution"/>
-
-- <Skill name="whirling wrath"/>
-
-- Use <Skill name="Bindingblade"/> for additional hits (Very strong - do not miss it)
-
-- Weapon swap
-
-- <Skill name="symbolofblades"/>
-
-- <Skill name="zealotsdefense"/>
-
-- Share Aegis by using <Skill name="shieldofcourage"/> to block the red AoE
-
-### _Split 2_
-
-- you should help both <Specialization name="Weaver"/> and <Specialization name="Soulbeast"/> with their adds
-
-- Help <Specialization name="Soulbeast"/> simply by casting <Skill name="sword of justice"/> on his add
-
-- Help <Specialization name="Weaver"/> by using <Skill name="ray of judgment"/> and add some auto attacks
-
-### **Phase 3**
-
-- Precast <Skill name="banesignet"/>
-
-- <Skill name="feelmywrath"/>
-
-- Use <Skill name="sword of justice"/>
-
-- <Skill name="procession of blades"/>
-
-- <Skill name="spear of justice"/>
-
-- <Skill name="symbol of punishment"/>
-
-- <Skill name="shield of wrath"/>
-
-- Weapon swap
-
-- <Skill name="Symbol of Resolution"/>
-
-- <Skill name="whirling wrath"/>
-
-- Use <Skill name="Bindingblade"/> for additional hits (very strong - do not miss it)
+1. Precast two instances of <Skill name="bane signet"/>. One before taking the mistlock, and one after
+1. Split 1 (at 66%) you will be assisting one of the <Specialization name="Soulbeast"/>s, usually north
+1. Split 2 (at 33%) you will be assisting both of the <Specialization name="Soulbeast"/>s. On the NE add you will use <Skill name="swordofjustice"/> + <Skill name="Ray of Judgment"/> as you do in the cc-strat, but instead of helping the <Specialization name="Dragonhunter"/> finish the NE add you will be helping the second <Specialization name="Soulbeast"/>.
 
 </Tab>
 </Tabs>
+
+<Information>
+
+The following written guide is based on the cc strategy, if you are skipping p1 cc, make the substitutions outlined above
+
+</Information>
+
+</CMInformation>
+
+<br/>
+
+<Phase>
+
+<CMInformation title="Phase 1">
+
+1. Precast symbols and/or <TomeSkill name="chapterscorchedaftermath"/> + <TomeSkill name="epilogueashesofthejust"/>
+1. <Skill name="swordofjustice"/>
+1. <Skill name="zealots defense"/>
+1. <Skill name="Ray of Judgment"/>
+1. <Skill name="Shield of wrath"/>
+1. weapon swap
+1. <Skill name="bane signet"/> when the breakbar is up
+1. <Skill name="Symbol of Resolution"/>
+1. <Skill name="Whirling Wrath"/>
+
+</CMInformation>
+
+<IdealRotation title="Split 1">
+
+1. <Skill name="swordofjustice"/>
+1. <Skill name="leap of faith"/> to the add
+1. <Skill name="Strike"/><br/><Skill name="Vengeful Strike"/><br/><Skill name="Wrathful Strike"/>
+make sure the add is dead before moving back 
+
+</IdealRotation>
+
+</Phase>
+
+<Phase>
+
+<CMInformation title="Phase 2">
+
+The skill-order for phase 2 depends on how fast split 1 is, so be flexible and adapt the burst order to your need. The main thing you want to focus on is getting multiple hits of <Skill name="Bindingblade"/> by casting it inside of Siax's hitbox while the exploding adds are in range.
+
+1. <Skill name="Symbol of Resolution"/>
+1. <Skill name="Whirling Wrath"/>
+1. <Skill name="Bindingblade"/> (Do not miss it)
+1. weapon swap
+1. <Skill name="zealots defense"/>
+1. <Skill name="Ray of Judgment"/>
+
+Share <Boon name="Aegis"/> to block the AoE and tailswipe when/if needed
+
+For the upcoming split phase you can either use <Skill name="Ray of Judgment"/> to help on NW or
+
+</CMInformation>
+
+<IdealRotation title="Split 2">
+
+**NW add**
+1. <Skill name="sword of justice"/> 
+1. <Skill name="Ray of Judgment"/>
+**NE add**
+1. <Skill name="Symbol of Blades"/>
+1. <Skill name="Sword of Wrath"/><br/><Skill name="Sword Arc"/><br/><Skill name="Sword Wave"/><br/>until dead
+
+</IdealRotation>
+
+</Phase>
+
+<Phase>
+
+<CMInformation title="Phase 3">
+
+As in phase 2 the skill-order should be modified to make sure you get multiple hits from <Skill name="Bindingblade"/>
+
+1. <Skill name="bane signet"/> 
+1. <Skill name="swordofjustice"/>
+1. <Skill name="zealots defense"/>
+1. <Skill name="Ray of Judgment"/>
+1. <Skill name="Shield of wrath"/>
+1. weapon swap
+1. <TomeSkill name="chapterscorchedaftermath"/> if you have time
+1. <Skill name="Symbol of Resolution"/>
+1. <Skill name="Bindingblade"/> (Do not miss it)
+1. <Skill name="Whirling Wrath"/>
+
+</CMInformation>
+
+</Phase>
+
+<br/>
 
 <Divider text="99 CM"/>
 
