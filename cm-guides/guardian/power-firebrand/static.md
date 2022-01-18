@@ -297,7 +297,7 @@ Daily strategies for Siax can vary heavily depending on group composition, dps, 
 
 <Warning>
 
-It is possible to replace the <Specialization name="Firebrand"/> with an additional <Specialization name="Dragonhunter"/> on this fight. This will only work in double <Specialization name="Dragonhunter"/> comps and only if the kill is short (a rought kill-time estimate would be ~30 seconds).
+It is possible to replace the <Specialization name="Firebrand"/> with an additional <Specialization name="Dragonhunter"/> on this fight. This will only work in double <Specialization name="Dragonhunter"/> comps and only if the kill is short (a rough kill-time estimate would be ~30 seconds).
 
 </Warning>
 
