@@ -3,7 +3,7 @@ title: Banner Berserker
 type: Static
 profession: Warrior
 specialization: Berserker
-date: 2021-11-23T22:45:31.935Z
+date: 2022-01-18T19:52:34.830Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -76,7 +76,7 @@ There is an invisible hitbox in the center of the arena allowing you to gain eno
 
 - Swap to Axe/Axe as soon as you are done with CCing and DPS.
 
-<Boss name="siax" video="yfPvLIHZaRM" timestamp="5" videoCreator="Roach [dT]" foodId="43360" utilityId="50082" healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="Axe" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Axe" weapon1OffSigil="Serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Rifle" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+<Boss name="siax" video="Rle5n7NIye4" timestamp="5" videoCreator="Zyp [dT]" foodId="43360" utilityId="50082" healId="30189" utility1Id="14354" utility2Id="30258" utility3Id="14404" eliteId="30343" weapon1MainAffix="Berserker" weapon1MainType="Axe" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Axe" weapon1OffSigil="Serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Rifle" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 -   In organized teams a rifle can kill the adds very efficiently!
 
 - Play <Trait name="Smashbrawler"/>!
