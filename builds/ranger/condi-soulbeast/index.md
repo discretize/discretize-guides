@@ -1,8 +1,4 @@
 ---
-title: Condi Soulbeast
-rating: Meta
-role: Condi Damage
-profession: Ranger
 skills:
   - 45717
   - 12498
@@ -19,8 +15,11 @@ compositions:
     roles: DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC
     composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
 specialization: Soulbeast
-code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-01-12T02:05:45.106Z
+code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-01-20T13:07:45.232Z
+title: Condi Soulbeast
+role: Condi Damage
+profession: Ranger
 conditions:
   - Bleeding
   - Poisoned
@@ -31,6 +30,7 @@ benchmark:
     dps: 36197
     by: Eren
     youtube: WSuDmiuAwC8
+rating: Meta
 ---
 
 <Warning>
@@ -55,7 +55,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <CharacterWithAr>
 <Character title="Krait Runes" gear={{
     "profession": "Ranger",
-    "weight": "Light",
+    "weight": "Medium",
     "gear": [
       "Viper",
       "Viper",
