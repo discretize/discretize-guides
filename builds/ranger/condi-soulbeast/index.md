@@ -16,7 +16,7 @@ compositions:
     composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
 specialization: Soulbeast
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-01-20T13:07:45.232Z
+date: 2022-01-20T14:02:38.957Z
 title: Condi Soulbeast
 role: Condi Damage
 profession: Ranger
@@ -144,7 +144,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 />
 <Character title="Afflicted Runes" gear={{
     "profession": "Ranger",
-    "weight": "Light",
+    "weight": "Medium",
     "gear": [
       "Viper",
       "Viper",
