@@ -1,28 +1,28 @@
 ---
-title: Condi Weaver
-rating: Good
-role: Condi Damage
-profession: Elementalist
 specialization: Weaver
 skills:
   - 43638
   - 5542
   - 40183
-conditions:
-  - Burning
-  - Vulnerability
-  - Crippled
-  - Bleeding
-  - Chilled
-code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: 2022-01-10T23:30:08.573Z
-cmGuide: ''
+date: 2022-01-20T14:03:18.677Z
+title: Condi Weaver
+rating: Good
+role: Condi Damage
+profession: Elementalist
+conditions:
+  - Burning
+  - Vulnerability
+  - Crippled
+  - Bleeding
+  - Chilled
+cmGuide: ""
 ---
 
 <Warning>
@@ -44,9 +44,9 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
 <CharacterWithAr>
 
 <Character title="162 Agony Resistance" gear={{
-    "profession": "Guardian",
+    "profession": "Elementalist",
     "title": "162 Ar",
-    "weight": "Heavy",
+    "weight": "Light",
     "gear": [
       "Viper",
       "Viper",
