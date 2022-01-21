@@ -27,7 +27,7 @@ benchmark:
     dps: 36197
     by: Eren
     youtube: WSuDmiuAwC8
-hidden: false
+hidden: true
 ---
 
 <Divider text="Overview"/>
