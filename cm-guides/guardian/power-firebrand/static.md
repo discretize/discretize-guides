@@ -11,9 +11,9 @@ disableBosses:
 date: 2022-01-16T18:57:31.840Z
 ---
 
- <Divider text="98 CM"/>
+<Divider text="98 CM"/>
  
- <Boss name="mama" video="8tsjCFLxq-I" videoCreator="Zyp [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusüion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" hideNotes/>
+<Boss name="mama" video="8tsjCFLxq-I" videoCreator="Zyp [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusüion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131" hideNotes/>
 
 <Phase>
 
@@ -281,17 +281,14 @@ For the final phase you want to drop some <Boon name="Stability"/> from <Skill n
 <Divider text="98 CM"/>
 <Boss name="siax" video="zLE72fLTt1Q" videoCreator="Danni [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Serpentslaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
--   Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reason why <Specialization name="Guardian"/> is very strong at this boss. Do not miss this.
-
+- Use your <Skill name="Binding Blade"/> inside Siax' hitbox to get 5 additional hits. This is the reason why <Specialization name="Guardian"/> is very strong at this boss. Do not miss this.
 - Use one <Skill name="sword of justice"/> at the start of every phase and save one <Skill name="sword of justice"/> for every add.
-
 - Use <Skill name="Bane Signet"/> to help with CC and buff your party.
-
 - Use the <Boon name="Aegis"/> from <Skill name="Mantra of Solace"/> to block the expanding AoEs for your team.
 
 </Boss>
 
-<CMInformation title="Overview">
+## **General Information**
 
 Daily strategies for Siax can vary heavily depending on group composition, dps, and expected kill times.
 
@@ -303,7 +300,7 @@ It is possible to replace the <Specialization name="Firebrand"/> with an additio
 
 If you are staying as <Specialization name="Firebrand"/> then the rotation does not change too much between daily strats, specifically the cc and cc-skip ones.
 
-There are three small differences between these strategies for you. 
+There are three small differences between these strategies for you.
 
 <Tabs>
 <Tab title="CC">
@@ -329,10 +326,6 @@ The following written guide is based on the cc strategy, if you are skipping p1 
 
 </Information>
 
-</CMInformation>
-
-<br/>
-
 <Phase>
 
 <CMInformation title="Phase 1">
@@ -354,7 +347,7 @@ The following written guide is based on the cc strategy, if you are skipping p1 
 1. <Skill name="swordofjustice"/>
 1. <Skill name="leap of faith"/> to the add
 1. <Skill name="Strike"/><br/><Skill name="Vengeful Strike"/><br/><Skill name="Wrathful Strike"/>
-make sure the add is dead before moving back 
+   make sure the add is dead before moving back
 
 </IdealRotation>
 
@@ -382,9 +375,10 @@ For the upcoming split phase you can either use <Skill name="Ray of Judgment"/> 
 <IdealRotation title="Split 2">
 
 **NW add**
-1. <Skill name="sword of justice"/> 
+
+1. <Skill name="sword of justice"/>
 1. <Skill name="Ray of Judgment"/>
-**NE add**
+   **NE add**
 1. <Skill name="Symbol of Blades"/>
 1. <Skill name="Sword of Wrath"/><br/><Skill name="Sword Arc"/><br/><Skill name="Sword Wave"/><br/>until dead
 
@@ -398,7 +392,7 @@ For the upcoming split phase you can either use <Skill name="Ray of Judgment"/> 
 
 As in phase 2 the skill-order should be modified to make sure you get multiple hits from <Skill name="Bindingblade"/>
 
-1. <Skill name="bane signet"/> 
+1. <Skill name="bane signet"/>
 1. <Skill name="swordofjustice"/>
 1. <Skill name="zealots defense"/>
 1. <Skill name="Ray of Judgment"/>
@@ -712,9 +706,7 @@ Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right after so your p
 <Boss name="Arkk" video="gvgezfhaAE4" videoCreator="Danni [dT]" foodId="43360" utilityId="50082" healId="41714" utility1Id="40915" utility2Id="9168" utility3Id="9093" eliteId="29965" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Focus" weapon2OffSigil="Force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 - Play scepter on this encounter
-
 - Place markers for the blooms
-
 - You can run <Item id="43360"/> if you are able to damage the first anomaly and adds in the later phases.
 
 </Boss>
@@ -722,45 +714,27 @@ Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right after so your p
 ### **Precast**
 
 1.  Cast <Skill name="tome of justice"/> skill 4 and 5
-
 2.  Blast the fire field with cast <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
-
 3.  Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
-
 4.  Use <Skill name="Stand your ground"/>
-
 5.  Use <Skill name="Feelmywrath"/>
-
 6.  Use <Skill name="banesignet"/>
-
 7.  Take mistlock
-
 8.  Use <Skill name="Feelmywrath"/> and <Skill name="banesignet"/> again!
 
 ### **Phase 1**
 
 1.  Cast <Skill name="tome of justice"/> skill 4
-
 2.  <Skill name="symbol of blades"/>
-
 3.  <Skill name="sword of justice"/>
-
 4.  <Skill name="zealotsdefense"/>
-
 5.  <Skill name="ray of judgment"/>
-
 6.  <Skill name="shield of wrath"/>
-
 7.  Weapon swap
-
 8.  <Skill name="Symbol of Resolution"/>
-
 9.  <Skill name="whirling wrath"/>
-
 10. <Skill name="bindingblade"/>
-
 11. <Skill name="whirling wrath"/> if not phased yet
-
 12. Take your orb and stay on greatsword
 
 ### **Phase 2**
@@ -768,103 +742,67 @@ Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right after so your p
 You can use <SpecialActionKey name="hypernovalaunch"/> to the middle
 
 1.  <Skill name="sword of justice"/>
-
 2.  <Skill name="Symbol of Resolution"/>
-
 3.  <Skill name="whirling wrath"/>
 
 ### _Add Phase 1_
 
 1.  Precast <Skill name="sword of justice"/> to apply <Condition name="vulnerability"/>
-
 2.  <Skill name="bindingblade"/> -> <Skill name="Pull"/> 2 mobs
-
 3.  You can enter <Skill name="tome of justice"/> and pull (skill 3) the mobs closer to the middle, then use skill 4
-
 4.  Cast <Skill name="banesignet"/> as the add is about to die
 
 ### **Phase 3**
 
 1.  Precast <Skill name="sword of justice"/>
-
 2.  <Skill name="Symbol of Resolution"/>
-
 3.  <Skill name="whirling wrath"/>
-
 4.  Weapon swap
-
 5.  <Skill name="shield of wrath"/>
-
 6.  <Skill name="ray of judgment"/>
-
 7.  <Skill name="symbol of blades"/>
-
 8.  <Skill name="zealotsdefense"/>
-
 9.  Take your orb and stay on sword
 
 ### **Phase 4**
 
 1.  <Skill name="sword of justice"/>
-
 2.  <Skill name="symbol of blades"/>
-
 3.  <Skill name="ray of judgment"/>
-
 4.  Weapon swap
-
 5.  <Skill name="Symbol of Resolution"/>
-
 6.  <Skill name="whirling wrath"/>
 
 ### _Add Phase 2_
 
 1.  Precast <Skill name="sword of justice"/> to apply <Condition name="vulnerability"/>
-
 2.  <Skill name="bindingblade"/> -> <Skill name="Pull"/> 2 mobs
-
 3.  You can enter <Skill name="tome of justice"/> and pull (skill 3) the mobs closer to the middle, then use skill 4
-
 4.  Cast <Skill name="banesignet"/> as the add is about to die
 
 ### **Phase 5**
 
 1.  Precast <Skill name="sword of justice"/>
-
 2.  <Skill name="Symbol of Resolution"/>
-
 3.  <Skill name="whirling wrath"/>
-
 4.  Weapon swap
-
 5.  <Skill name="symbol of blades"/>
-
 6.  <Skill name="zealotsdefense"/>
-
 7.  Take your orb and stay on sword
 
 ### **Phase 6**
 
 1.  Precast <Skill name="banesignet"/>
-
 2.  <Skill name="shield of wrath"/>
-
 3.  <Skill name="sword of justice"/>
-
 4.  <Skill name="ray of judgment"/>
-
 5.  <Skill name="symbol of blades"/>
-
 6.  <Skill name="zealotsdefense"/>
-
 7.  Weapon swap
-
 8.  <Skill name="Symbol of Resolution"/>
-
 9.  <Skill name="whirling wrath"/>
 
 Annotation:
 
 1.  If possible make sure you use <SpecialActionKey name="hypernovalaunch"/> to CC the adds
-
 2.  The archdiviner spawns AoE's that strips boons, avoid them!
