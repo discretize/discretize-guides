@@ -8,7 +8,7 @@ disableBosses:
   - LightAi
   - DarkAi
   - Ensolyss
-date: 2022-01-16T18:57:31.840Z
+date: 2022-01-21T18:25:43.964Z
 ---
 
 <Divider text="98 CM"/>
@@ -377,8 +377,9 @@ For the upcoming split phase you can either use <Skill name="Ray of Judgment"/> 
 **NW add**
 
 1. <Skill name="sword of justice"/>
-1. <Skill name="Ray of Judgment"/>
-   **NE add**
+1. *optional:* <Skill name="Ray of Judgment"/>
+
+**NE add**
 1. <Skill name="Symbol of Blades"/>
 1. <Skill name="Sword of Wrath"/><br/><Skill name="Sword Arc"/><br/><Skill name="Sword Wave"/><br/>until dead
 
