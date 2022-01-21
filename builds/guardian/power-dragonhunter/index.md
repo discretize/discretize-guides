@@ -1,298 +1,5 @@
 ---
 title: Power Dragonhunter
-sections:
-  - title: Summary
-    type: mdx
-    content: >-
-      <Warning> 
-
-      <Specialization name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand"/> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups or when played in the <Composition name="_RGB"/> composition. 
-
-      </Warning>
-
-
-      <Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
-
-      The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
-
-      The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
-
-      It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
-  - title: Equipment
-    content: >-
-      <CharacterWithAr>  
-
-      <Character
-        title="162 Agony Resistance"
-        gear={{
-          "profession": "Guardian",
-          "title": "222 Ar",
-          "weight": "Heavy",
-          "gear": [
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Assassin",
-            "Berserker",
-            "Assassin",
-            "Berserker",
-            "Berserker"
-          ],
-          "attributes": {
-            "Health": 11645,
-            "Armor": 2514,
-            "Power": 3933,
-            "Precision": 2363,
-            "Toughness": 1243,
-            "Vitality": 1000,
-            "Ferocity": 1656,
-            "Condition Damage": 850,
-            "Expertise": 0,
-            "Concentration": 243,
-            "Healing Power": 0,
-            "Agony Resistance": 162,
-            "Condition Duration": 0,
-            "Boon Duration": 1.622,
-            "Critical Chance": 0.999047619047619,
-            "Critical Damage": 2.604,
-            "Effective Power": 36090.11227985033,
-            "Power DPS": 46137.53283369391,
-            "Burning Damage": 377.703125,
-            "Burning Stacks": 1.85,
-            "Burning DPS": 698.75078125,
-            "Bleeding Damage": 104.9375,
-            "Bleeding Stacks": 0,
-            "Bleeding DPS": 0,
-            "Poison Damage": 121.46875,
-            "Poison Stacks": 0,
-            "Poison DPS": 0,
-            "Torment Damage": 155.68125,
-            "Torment Stacks": 0,
-            "Torment DPS": 0,
-            "Confusion Damage": 104.9375,
-            "Confusion Stacks": 0,
-            "Confusion DPS": 0,
-            "Damage": 46836.28361494391,
-            "Effective Health": 40253853.75,
-            "Survivability": 20464.592653787495,
-            "Effective Healing": 390,
-            "Healing": 390
-          },
-          "runeId": 24836,
-          "runeName": "Scholar",
-          "infusions": [
-            37131, 37131, 37131, 37131, 37131, 37131, 37131,
-            37131, 37131, 37131, 37131, 37131, 37131, 37131,
-            37131, 37131, 37131, 37131
-          ],
-          "weapons": {
-            "weapon1MainType": "Sword",
-            "weapon1MainSigil1": "Force",
-            "weapon1OffType": "Focus",
-            "weapon1OffSigil": "Impact",
-            "weapon2MainType": "Greatsword",
-            "weapon2MainSigil1": "Force",
-            "weapon2MainSigil2": "Impact"
-          },
-          "consumables": {
-            "foodId": 91805,
-            "utilityId": 9443,
-            "infusion": "Mighty +9 Agony Infusion"
-          },
-          "skills": {
-            "heal": "Litany of Wrath",
-            "utility1": "Procession of Blades",
-            "utility2": "Sword of Justice",
-            "utility3": "Bane Signet",
-            "elite": "Dragons Maw"
-          }
-        }}
-      >
-
-
-      If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>. You need at least  <Attribute name="Agony Resistance" text="203 Agony Resistance"/> to compensate the lacking <Attribute name="Precision"/>.   It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.   
-
-
-      </Character>  
-
-      <Character
-        title="203 Agony Resistance"
-        gear={{
-          "profession": "Guardian",
-          "gear": [
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker",
-            "Berserker"
-          ],
-          "attributes": {
-            "Health": 11645,
-            "Armor": 2575,
-            "Power": 3892,
-            "Precision": 2365,
-            "Toughness": 1304,
-            "Vitality": 1000,
-            "Ferocity": 1556,
-            "Condition Damage": 750,
-            "Expertise": 0,
-            "Concentration": 304,
-            "Healing Power": 0,
-            "Agony Resistance": 203,
-            "Condition Duration": 0,
-            "Boon Duration": 0.20266666666666666,
-            "Critical Chance": 1.0,
-            "Critical Damage": 2.5373333333333335,
-            "Effective Power": 34819.97973867529,
-            "Power DPS": 44513.797740624555,
-            "Burning Damage": 355.421875,
-            "Burning Stacks": 1.85,
-            "Burning DPS": 657.5304687500001,
-            "Bleeding Damage": 96.3125,
-            "Bleeding Stacks": 0,
-            "Bleeding DPS": 0,
-            "Poison Damage": 112.84375,
-            "Poison Stacks": 0,
-            "Poison DPS": 0,
-            "Torment Damage": 142.74375,
-            "Torment Stacks": 0,
-            "Torment DPS": 0,
-            "Confusion Damage": 96.3125,
-            "Confusion Stacks": 0,
-            "Confusion DPS": 0,
-            "Damage": 45171.32820937456,
-            "Effective Health": 54836668.90625001,
-            "Survivability": 27878.326846085412,
-            "Effective Healing": 390,
-            "Healing": 390
-          },
-          "infusions": [
-            37131, 37131, 37131, 37131, 37131, 37131, 37131,
-            37131, 37131, 37131, 37131, 37131, 37131, 37131,
-            37131, 37131, 37131, 37131
-          ],
-          "weight": "Heavy",
-          "runeId": 24836,
-          "runeName": "Scholar",
-          "weapons": {
-            "weapon1MainType": "Sword",
-            "weapon1MainSigil1Id": 24615,
-            "weapon1OffType": "Focus",
-            "weapon1OffSigilId": 24868,
-            "weapon2MainType": "Greatsword",
-            "weapon2MainSigil1Id": 24615,
-            "weapon2MainSigil2Id": 24868
-          },
-          "consumables": {
-            "foodId": 91805,
-            "utilityId": 9443,
-            "infusion": "Mighty +9 Agony Infusion"
-          },
-          "skills": {
-            "heal": "Litany of Wrath",
-            "utility1": "Procession of Blades",
-            "utility2": "Sword of Justice",
-            "utility3": "Bane Signet",
-            "elite": "Dragons Maw"
-          }
-        }}
-      >
-
-
-      It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>. 
-
-
-      </Character>  
-
-      </CharacterWithAr>
-  - title: Build
-    content: >-
-      <Grid>
-
-      <GridItem sm="7">
-
-      <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
-
-
-      <Card title="CC skills">
-
-
-      |                                                 |            |
-
-      | ----------------------------------------------- | ---------- |
-
-      | <Skill id="9093"/>                              | 300 damage |
-
-      | <Skill id="9226"/> (after <Skill id="9147"/>)   | 150 damage |
-
-      | <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
-
-      | <Skill id="30273"/>                             | 150 damage |
-
-      | <Skill name="chainsoflight"/>                   | 250 damage |
-
-      | <Skill name="hammerofwisdom"/>                  | 200 damage |
-
-      | <Skill name="sanctuary"/>                       | 750 damage |
-
-
-      </Card>
-
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-      <Card title="Situational Skills">
-
-
-      |                                                        |                                                                                     |
-
-      | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-
-      | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
-
-      | <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
-
-      | <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
-
-      | <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
-
-      | <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |
-
-      | <Skill name="feelmywrath" size="big" disableText/>     | When <Boon name="Quickness"/> or <Boon name="Fury"/> is needed.                     |
-
-      | <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                  |
-
-      | <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                |
-
-      | <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
-
-      | <Skill name="testoffaith" size="big" disableText/>     | Can be precasted for a bit of extra damage.                                         |
-
-      | <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
-
-
-      </Card>
-
-      </GridItem>
-
-      </Grid>
 rating: Power Meta
 role: Power Damage
 profession: Guardian
@@ -306,15 +13,6 @@ conditions:
   - Vulnerability
   - Blinded
   - Crippled
-code: '[&DQEQLyo6GzkmDyYPihI2AUgBSAH+AP4AtRKJEgAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ' '
-classification:
-  - 3
-  - 4
-  - 3
-  - 2
-  - 4
-date: 2021-10-03T16:15:49.085Z
 boons:
   - name: Quickness
     uptime: ~10%
@@ -325,7 +23,260 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
+code: '[&DQEQLyo6GzkmDwAAihIAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+classification:
+  - 3
+  - 4
+  - 3
+  - 2
+  - 4
+date: 2022-01-11T02:53:58.478Z
+cmGuide: ' '
 ---
+
+<Warning>
+
+The <Specialization name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand"/> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups or when played in the <Composition name="_RGB"/> composition.
+
+</Warning>
+
+The <Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
+The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
+The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
+It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+
+<Divider text="Equipment"/>
+
+<CharacterWithAr>  
+<Character title="162 Agony Resistance" gear={{
+    "profession": "Guardian",
+    "weight": "Heavy",
+    "gear": [
+      "Assassin",
+      "Berserker",
+      "Assassin",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker"
+    ],
+    "attributes": {
+      "Health": 11645,
+      "Armor": 2514,
+      "Power": 3834,
+      "Precision": 2362,
+      "Toughness": 1243,
+      "Vitality": 1000,
+      "Ferocity": 1556,
+      "Condition Damage": 750,
+      "Expertise": 0,
+      "Concentration": 243,
+      "Healing Power": 0,
+      "Agony Resistance": 162,
+      "Condition Duration": 0,
+      "Boon Duration": 0.162,
+      "Critical Chance": 0.9985714285714286,
+      "Critical Damage": 2.5373333333333337,
+      "Effective Power": 34271.39041097145,
+      "Power DPS": 44353.539919628434,
+      "Bleeding Damage": 96.3125,
+      "Bleeding Stacks": 0,
+      "Bleeding DPS": 0,
+      "Burning Damage": 355.421875,
+      "Burning Stacks": 1.92,
+      "Burning DPS": 682.41,
+      "Confusion Damage": 118.665625,
+      "Confusion Stacks": 0,
+      "Confusion DPS": 0,
+      "Poison Damage": 112.84375,
+      "Poison Stacks": 0,
+      "Poison DPS": 0,
+      "Torment Damage": 142.74375,
+      "Torment Stacks": 0,
+      "Torment DPS": 0,
+      "Damage": 45035.94991962844,
+      "Effective Health": 64733067.9933665,
+      "Survivability": 32909.541430282916,
+      "Effective Healing": 390,
+      "Healing": 390
+    },
+    "runeId": 24836,
+    "runeName": "Scholar",
+    "infusions": [
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131
+    ],
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1": "Force",
+      "weapon1OffType": "Focus",
+      "weapon1OffSigil": "Impact",
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1": "Force",
+      "weapon2MainSigil2": "Impact"
+    },
+    "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Litany of Wrath",
+      "utility1": "Procession of Blades",
+      "utility2": "Sword of Justice",
+      "utility3": "Bane Signet",
+      "elite": "Dragons Maw"
+    }
+  }}
+>
+
+If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>. You need at least <Attribute name="Agony Resistance" text="203 Agony Resistance"/> to compensate the lacking <Attribute name="Precision"/>. It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
+
+</Character>  
+<Character title="203 Agony Resistance" gear={{
+    "profession": "Guardian",
+    "gear": [
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker"
+    ],
+    "attributes": {
+      "Health": 11645,
+      "Armor": 2575,
+      "Power": 3892,
+      "Precision": 2365,
+      "Toughness": 1304,
+      "Vitality": 1000,
+      "Ferocity": 1556,
+      "Condition Damage": 750,
+      "Expertise": 0,
+      "Concentration": 304,
+      "Healing Power": 0,
+      "Agony Resistance": 203,
+      "Condition Duration": 0,
+      "Boon Duration": 0.20266666666666666,
+      "Critical Chance": 1,
+      "Critical Damage": 2.5373333333333337,
+      "Effective Power": 34819.979738675305,
+      "Power DPS": 45063.51632718048,
+      "Bleeding Damage": 96.3125,
+      "Bleeding Stacks": 0,
+      "Bleeding DPS": 0,
+      "Burning Damage": 355.421875,
+      "Burning Stacks": 1.92,
+      "Burning DPS": 682.41,
+      "Confusion Damage": 118.665625,
+      "Confusion Stacks": 0,
+      "Confusion DPS": 0,
+      "Poison Damage": 112.84375,
+      "Poison Stacks": 0,
+      "Poison DPS": 0,
+      "Torment Damage": 142.74375,
+      "Torment Stacks": 0,
+      "Torment DPS": 0,
+      "Damage": 45745.92632718048,
+      "Effective Health": 66303758.98286346,
+      "Survivability": 33708.06252306226,
+      "Effective Healing": 390,
+      "Healing": 390
+    },
+    "infusions": [
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131
+    ],
+    "weight": "Heavy",
+    "runeId": 24836,
+    "runeName": "Scholar",
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1Id": 24615,
+      "weapon1OffType": "Focus",
+      "weapon1OffSigilId": 24868,
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1Id": 24615,
+      "weapon2MainSigil2Id": 24868
+    },
+    "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Litany of Wrath",
+      "utility1": "Procession of Blades",
+      "utility2": "Sword of Justice",
+      "utility3": "Bane Signet",
+      "elite": "Dragons Maw"
+    }
+  }}
+>
+
+It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
+
+</Character>  
+</CharacterWithAr>
+
+<Divider text="Build"/>
+
+<Grid>
+<GridItem sm="7">
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
+
+<Card title="CC skills">
+
+|                                                 |            |
+| ----------------------------------------------- | ---------- |
+| <Skill id="9093"/>                              | 300 damage |
+| <Skill id="9226"/> (after <Skill id="9147"/>)   | 150 damage |
+| <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
+| <Skill id="30273"/>                             | 150 damage |
+| <Skill name="chainsoflight"/>                   | 250 damage |
+| <Skill name="hammerofwisdom"/>                  | 200 damage |
+| <Skill name="sanctuary"/>                       | 750 damage |
+
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Situational Skills">
+
+|                                                        |                                                                                     |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
+| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
+| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
+| <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
+| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |
+| <Skill name="feelmywrath" size="big" disableText/>     | When <Boon name="Quickness"/> or <Boon name="Fury"/> is needed.                     |
+| <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                  |
+| <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                |
+| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
+| <Skill name="testoffaith" size="big" disableText/>     | Can be precasted for a bit of extra damage.                                         |
+| <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+
+</Card>
+</GridItem>
+</Grid>
 
 <Divider text="Details"/>
 

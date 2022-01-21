@@ -1,4 +1,8 @@
 ---
+title: Condi Mirage
+rating: Good
+role: Condi Damage
+profession: Mesmer
 skills:
   - 45717
   - 12498
@@ -10,28 +14,23 @@ classification:
   - 3
   - 2
   - 3
-compositions:
-  - name: _CRGB
-    roles: DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC
-    composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
-specialization: Soulbeast
-code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-01-20T14:02:38.957Z
-title: Condi Soulbeast
-role: Condi Damage
-profession: Ranger
+specialization: Mirage
+code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
+date: 2022-01-12T02:05:45.106Z
 conditions:
   - Bleeding
   - Poisoned
   - Burning
-cmGuide: pug
+cmGuide: ''
 benchmark:
   small:
     dps: 36197
     by: Eren
     youtube: WSuDmiuAwC8
-rating: Meta
+hidden: true
 ---
+
+<Divider text="Overview"/>
 
 <Warning>
 
@@ -55,7 +54,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <CharacterWithAr>
 <Character title="Krait Runes" gear={{
     "profession": "Ranger",
-    "weight": "Medium",
+    "weight": "Light",
     "gear": [
       "Viper",
       "Viper",
@@ -144,7 +143,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 />
 <Character title="Afflicted Runes" gear={{
     "profession": "Ranger",
-    "weight": "Medium",
+    "weight": "Light",
     "gear": [
       "Viper",
       "Viper",
@@ -247,13 +246,10 @@ This builds damage depends on the amount of <Specialization name="Soulbeast" tex
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                       |                                                                                                                                                                                                                                                                                     |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Sun Spirit" size="big" disableText/>     | Your standard 3rd utility. Provides a partywide damage increase by causing you and allies to periodically inflict <Condition name="Burning"/>.                                                                                                                                      |
-| <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Sun Spirit"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
-| <Skill name="Vipers Nest" size="big" disableText/>    | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>.                                                                                                                                    |
-| <Skill name="Bear stance" size="big" disableText/>    | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>.                                                                                                                                                                                                    |
-| <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM!                                                                                                                          |
+|                                                   |                                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Sun Spirit" size="big" disableText/> | Your standard 3rd utility. Provides a partywide damage increase by causing you and allies to periodically inflict <Condition name="Burning"/>.                                                                                                                                      |
+| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
 
 </Card>
 <Card title="Pets">
@@ -281,9 +277,7 @@ This builds damage depends on the amount of <Specialization name="Soulbeast" tex
 </Card>
 
 <Card title="Off-hand Dagger">
-
 Running an off-hand Dagger is similar DPS to Torch providing you can flank permanently and your group can't make use of the fire field from <Skill name="Bonfire"/>. It also has the benefit of having an evade through using <Skill id="12478"/>.
-
 </Card>
 <Card title="Swap Weapons">
 
@@ -320,69 +314,8 @@ The rotation in general is very simple, just keep rotating between your Shortbow
 </Card>
 <Card title="Shortbow Golem Rotation">
 
-1.  <Skill name="Vipers Nest"/>
-
-2.  <Skill name="One Wolf Pack"/>
-
-3.  <Skill name="Poison Volley"/>
-
-4.  <Skill name="Crippling Shot"/>
-
-5.  <Skill name="Concussion Shot"/>
-
-6.  `Weapon Swap`
-
-7.  <Skill name="Vulture Stance"/> + <Skill name="Sharpening Stone"/>
-
-8.  <Skill name="Double Arc"/>
-
-9.  <Skill name="Throw Torch"/>
-
-10. <Skill name="Bonfire"/>
-
-11. <Skill id="44514"/>
-
-12. <Skill name="Primal Cry"/>
-
-13. `Autoattack chain x2`
-
-14. <Skill name="Double Arc"/>
-
-15. `Autoattack chain x3`
-
-16. <Skill name="Double Arc"/>
-
-17. <Skill name="Throw Torch"/>
-
-18. `Weapon Swap`
-
-19. <Skill name="Poison Volley"/>
-
-20. <Skill name="Crippling Shot"/>
-
-21. `Autoattack`
-
-22. <Skill id="44514"/>
-
-23. `Autoattack`
-
-24. <Skill name="Concussion Shot"/>
-
-25. <Skill name="Poison Volley"/>
-
-26. `Autoattack`
-
-27. <Skill name="Primal Cry"/>
-
-28. `Autoattack`
-
-29. <Skill name="Poison Volley"/>
-
-30. `Autoattack`
-
-31. <Skill name="Crippling Shot"/>
-
-32. Repeat from `Step 5`
+1. something
+2. something else
 
 </Card>
 </GridItem>
@@ -392,41 +325,9 @@ The rotation in general is very simple, just keep rotating between your Shortbow
 
 <Video youtube="iKKWM4F3ayg" caption="by Eren"/>
 </Card>
+
 <Card title="Precasting">
 
-When precasting in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Soulbeast" text="Condi Soulbeast"/> this means your stances such as <Skill name="Vulture Stance"/>, <Skill name="Moa Stance"/> and <Skill name="One Wolf Pack"/>.
-
-As a <Specialization name="Soulbeast" text="Condi Soulbeast"/> there are also multiple skills and traits that can be quickly prestacked for extra condis and damage at the start of fights. These aren't necessary to do and depending on the encounter not all are possible, but if you have the time and can make use of them they are worth to use.
-
-### **Stances**
-
-As a <Specialization name="Soulbeast" text="Condi Soulbeast"/> we have three important stances to share with <Trait name="Leader of the Pack"/> when precasting.
-
-**<Skill name="Moa Stance"/> -** This will increase your party members boon duration by 66%, which when added to the conversion from <Item id="74185"/> means your party will have close to 100% boon duration without even swapping gear. This means any boons your party stacks duration will be close to doubled.
-
-**<Skill name="Vulture Stance"/> -** This will help your party stack some initial condis and some initial <Boon name="Might"/> at the start of the fight and should be the last thing you cast before taking the _Mistlock Singularity_.
-
-### **Boons**
-
-**<Boon name="Might"/> -** Before starting fights we want to have 25 stacks of <Boon name="Might"/>, the standard way of this in fractals is from blasting a fire field. If no one else in your party will provide one you can use <Skill name="Bonfire"/> on torch. in the fire field we want to use blast finishers which each one will give 3 stacks of <Boon name="Might"/> for 20 seconds (not accounting for boon duration). Our main blast is from <Skill name="Call of the Wild"/> which can be used twice and also gives 6 stacks of might for 10 seconds along with the blast (again not accounting for boon duration).
-
-**<Boon name="Fury"/> and <Boon name="Swiftness"/> -** We can provide these boons again by using <Skill name="Call of the Wild"/>. These boons stack up to 30 seconds, so by blasting twice with Warhorn and under the effect of <Skill name="Moa Stance"/>, we can provide the maximum duration for our party.
-
-### **Traits**
-
-**<Trait name="Poison Master"/> -** If you can get into combat before precasting you can use <Skill id="40588"/> (Merged F3) to proc <Trait name="Poison Master"/> for some extra <Condition name="poisoned" text ="Poison"/> stacks on your opener
-
-**<Trait name="Light on your Feet"/> -** Stacks in duration by dodging and using <Skill name="Quick Shot"/>. This will increase you condi duration which means if you are playing with <Item id="24687"/> means your duration will be almost capped. It also will increase your strike damage (power) for a bit of extra damage.
-
-### **Skills**
-
-**<Skill name="Sharpening Stone"/> -** Used for some additional <Condition name="Bleeding"/> at the start of the fight. If you use a second time while you still have charges left, the original charges will be overwritten.
-
-**<Skill name="Sharpen Spines"/> -** Can be precasted by merging with Bristleback for extra bleeding at the start of the fight. This stacks in intensity so you can use the skill after taking the mistlock giving you 10 stacks of <Condition name="Bleeding"/>.
-
-**<Skill name="Crippling Shot"/> -** Can be precasted giving you the effect _Blood Thirst_ lasting for 11 seconds. When you have this effect and are merged your next 3 attacks will inflict 1 stack of <Condition name="Bleeding"/> lasting for 12 seconds.
-
-**<Skill name="Double Arc"/> -** Can be precasted giving you the effect _Poisonous Strike_ lasting for 7 seconds. When you have this effect and are merged your next 2 attacks will inflict 1 stack of <Condition name="poisoned" text ="Poison"/> lasting for 6 seconds. This skill can be used twice giving you 3 charges.
 </Card>
 
 </GridItem>

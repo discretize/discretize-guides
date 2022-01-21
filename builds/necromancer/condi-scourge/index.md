@@ -1,267 +1,5 @@
 ---
 title: Condi Scourge
-sections:
-  - type: mdx
-    title: Overview
-    content: >-
-      The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build
-      to learn and provides access to good off-support tools (large amounts of
-      passive barrier from <Trait id="2059"/>) and can be augmented to provide
-      the means of a safety net at an acceptable amount of DPS loss with the
-      Blood Magic traitline (without any stat changes). The build can place lots
-      of conditions and crowd control on multiple targets simultaneously with
-      its shades and <Skill name="Epidemic"/>. Due to large amounts of
-      self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/>
-      in combination with its other tools, it is quite self-substantial.
-
-
-      <Specialization name="Scourge" text="Condi Scourge" /> has multiple offensive control
-
-      skill options, like using <Control name="Pull" />, corrupt boons for <Instability name="No Pain, No Gain" />
-
-      , cause conditions like <Condition name="Blinded" /> and <Condition name="Immobile" />
-
-      , etc. <Specialization name="Scourge" text="Condi Scourge" /> and can modify
-
-      itself to fit many given situations in fractals.
-
-
-      This build also does not have a formal rotation, and instead has a prioritization for its skills making it easy to focus on side objectives and quickly pick up where you left off in dealing damage.
-
-
-      Due to being a condition based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
-  - type: null
-    title: Equipment
-    content: >-
-      <CharacterWithAr>  
-
-      <Character
-          title="162 Agony Resistance"
-          gear={{
-            "profession": "Necromancer",
-            "weight": "Light",
-            "gear": [
-              "Viper",
-              "Viper",
-              "Viper",
-              "Viper",
-              "Viper",
-              "Viper",
-              "Viper",
-              "Viper",
-              "Viper",
-              "Viper",
-              "Viper",
-              "Viper",
-              "Viper",
-              "Viper"
-            ],
-            "attributes": {
-              "Health": 19212,
-              "Armor": 2210,
-              "Power": 2923,
-              "Precision": 2056,
-              "Toughness": 1243,
-              "Vitality": 1000,
-              "Ferocity": 150,
-              "Condition Damage": 3083,
-              "Expertise": 1036,
-              "Concentration": 468,
-              "Healing Power": 0,
-              "Agony Resistance": 162,
-              "Condition Duration": 0.8906666666666666,
-              "Boon Duration": 0.312,
-              "Critical Chance": 0.9528571428571428,
-              "Critical Damage": 1.6,
-              "Bleeding Duration": 0.2,
-              "Effective Power": 7264.453605357142,
-              "Power DPS": 3930.133737207079,
-              "Burning Damage": 989.405625,
-              "Burning Stacks": 6.428266666666667,
-              "Burning DPS": 6360.163199,
-              "Bleeding Damage": 336.3425,
-              "Bleeding Stacks": 41.2,
-              "Bleeding DPS": 13857.311,
-              "Poison Damage": 355.03,
-              "Poison Stacks": 6.995466666666667,
-              "Poison DPS": 2483.6005306666666,
-              "Torment Damage": 628.2046875,
-              "Torment Stacks": 26.847466666666666,
-              "Torment DPS": 16865.704407499998,
-              "Confusion Damage": 336.3425,
-              "Confusion Stacks": 0,
-              "Confusion DPS": 0,
-              "Damage": 43496.912874373746,
-              "Effective Health": 53073150,
-              "Survivability": 26981.77427554652,
-              "Effective Healing": 390,
-              "Healing": 390
-            },
-            "runeId": 24848,
-            "runeName": "Nightmare",
-            "infusions": [
-              37130, 37130, 37130, 37130, 37130, 37130, 37130,
-              37130, 37130, 37130, 37130, 37130, 37130, 37130,
-              37130, 37130, 37130, 37130
-            ],
-            "weapons": {
-              "weapon1MainType": "Scepter",
-              "weapon1MainSigil1": "bursting",
-              "weapon1OffType": "Torch",
-              "weapon1OffSigil": "torment",
-              "weapon2MainType": "Scepter",
-              "weapon2MainSigil1": "bursting",
-              "weapon2OffType": "Warhorn",
-              "weapon2OffSigil": "torment"
-            },
-            "consumables": {
-              "foodId": "91878",
-              "utility": "toxic-focusing-crystal",
-              "infusion": "Malign +9 Agony Infusion"
-            },
-            "skills": {
-              "heal": "Signet of Vampirism",
-              "utility2": "Blood is Power",
-              "utility3": "Signet of Undeath",
-              "elite": "Plaguelands"
-            }
-          }}
-        >
-
-
-      Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. Situational Runes:  
-
-      - <Item id="83502" /> works best for using and utilizing <Skill name="Epidemic" />, as its damage will be maximized with this rune. Note that you will have a loss of condition duration with this rune choice.  
-
-      - <Item id="44956" /> provides a large boost to personal survivability on top of your barrier generation at the cost of a minor DPS loss.   
-
-
-      </Character>  
-
-      </CharacterWithAr>
-  - type: mdx
-    title: Build
-    content: >-
-      <Grid>
-
-      <GridItem sm="7">
-
-      <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Desert Empowerment, Demonic Lore"/>
-
-      <Card title="Traits">
-
-
-      |                                           |                                                                                                                                                                                                                                                                                         |
-
-      | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-      | <Trait id="2059" size="big" disableText/> | After the nerf to Barrier granted from <Skill name="Sand Flare"/> it's now best to run <Trait name="Desert Empowerment"/>. It is a very potent Barrier-spam, if you still need more personal Barrier feel free to use <Skill name="Sand Flare"/> for only a minor dps loss over <Skill name="Signet of Vampirism"/>. |
-
-
-      </Card>
-
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-      <Card title="Situational Skills">
-
-
-      <Warning>
-        <Skill name="Spectral Grasp" /> will replace <Skill name="Epidemic" /> on
-        any fight that is single target or cleave is not needed.
-      </Warning>
-
-
-      |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
-
-      | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-      | <Skill name="Epidemic" size="big" disableText/>         | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Particularly useful on mob heavy T4s and also Sunqua Peak CM, where it can be used in the dark phase to kill the Sorrows.                                                           |
-
-      | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside.                                                          |
-
-      | <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                   |
-
-      | <Skill name="Summon Bone Minions" size="big" disableText/>    | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g. Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak)). |
-
-      | <Skill name="Corrupt Boon" size="big" disableText/>           | A strong boon corrupt which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.                                                                                                                                                                                                                                                                                                          |
-
-      | <Skill name="Summon Flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can also work as a projectile blocker for fights like Old Tom in the [Uncategorized](/fractals/uncategorized) fractal.                                                                                                                                                                                                                                                           |
-
-      | <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova](/fractals/thaumanova-reactor) fractal. Also great for consuming conditions on consoles in the [Aetherblade](/fractals/aetherblade) fractal.                                                                                                                                                                                |
-
-      | <Skill name="Trail of Anguish" size="big" disableText/>       | A go-to stunbreak skill for Scourge, that can also provide some decent conditions if you step in and out of your targets hitbox to proc it multiple times. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>.                                                                                                                                                                |
-
-      | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles.                                                                                                                                                                                                                                                                                                                                                                        |
-
-      | <Skill name="Signet of Vampirism" size="big" disableText/>    | This can provide you a minor dps increase in situations where barrier application is not needed. If you are using <Skill name="Signet of Vampirism"/> and no other Punishment skill, you can take <Trait name="Desert Empowerment"/> over <Trait name="Sadistic Searing"/>.                                                                                                                                       |
-
-      | <Skill name="Sand Swell" size="big" disableText/>             | A useful skill that allows you to double up on blinks. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>.                                                                                                                                                                                                                                                                    |
-
-
-      </Card>
-
-      </GridItem>
-
-      </Grid>
-  - type: mdx
-    title: Further Information
-    content: >-
-
-
-      <Grid>
-
-      <GridItem sm="7">
-
-
-      <Card title="Blood Magic">
-
-
-      Running Blood Magic instead of Soul Reaping can be an option if you really need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/> and more sustain in general. It will cause a personal damage loss but it can be helpful if your party is having trouble staying alive.
-
-
-      <Traits unembossed traits1="Blood Magic" traits1SelectedIds="780, 1844, 778"/>
-
-      <Warning>
-
-      Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn skill <Skill name="Wail of Doom"/>.
-
-      </Warning>
-
-      </Card>
-
-      </GridItem>
-
-
-      <GridItem sm="5">
-
-
-      <Card title="Defiance Bar Damage">
-
-
-      |                                                                        |                                                                                                                                  |
-
-      | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-
-      | <Skill name="Oppressive Collapse" size="big" disableText/>             | 200 damage with <Control name="Knockdown"/>                                                                                      |
-
-      | <Skill name="Garish Pillar" size="big" disableText/>                   | 200 damage with <Condition name="Fear"/>                                                                                         |
-
-      | <Skill name="Wail of Doom" size="big" disableText/>                    | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>)                                       |
-
-      | <Skill name="Charge" profession="necromancer" size="big" disableText/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox |
-
-      | <Skill name="Spectral Grasp" size="big" disableText/>                  | 150-750 damage with <Control name="Pull" /> (see situational skills)                                                             |
-
-
-      </Card>
-
-      </GridItem>
-
-
-      </Grid>
 rating: Good
 role: Condi Damage
 author: 'Discord: Amerikajinn#9784'
@@ -283,7 +21,7 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: '[&DQgnNjI1PCp+FigPbwGBAIAAQAGZAXUBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: '[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: ''
 classification:
   - 2
@@ -291,7 +29,7 @@ classification:
   - 4
   - 2
   - 3
-date: 2021-11-03T12:26:18.616Z
+date: 2022-01-11T03:17:48.414Z
 benchmark:
   small:
     dps: 37044
@@ -299,7 +37,194 @@ benchmark:
     youtube: 6NbhBMCyjmw
 ---
 
-<Divider text="Skill Usage" />
+The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic traitline (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades and <Skill name="Epidemic"/>. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
+
+The <Specialization name="Scourge" text="Condi Scourge" /> has multiple offensive control
+skill options, like using <Control name="Pull" />, corrupt boons for <Instability name="No Pain, No Gain" />
+, cause conditions like <Condition name="Blinded" /> and <Condition name="Immobile" />
+, etc. <Specialization name="Scourge" text="Condi Scourge" /> and can modify
+itself to fit many given situations in fractals.
+
+This build also does not have a formal rotation, and instead has a prioritization for its skills making it easy to focus on side objectives and quickly pick up where you left off in dealing damage.
+
+Due to being a condition based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
+
+<Divider text="Equipment"/>
+
+<CharacterWithAr>  
+<Character title="162 Agony Resistance" gear={{
+      "profession": "Necromancer",
+      "weight": "Light",
+      "gear": [
+        "Viper",
+        "Viper",
+        "Viper",
+        "Viper",
+        "Viper",
+        "Viper",
+        "Viper",
+        "Viper",
+        "Viper",
+        "Viper",
+        "Viper",
+        "Viper",
+        "Viper",
+        "Viper"
+      ],
+    "attributes": {
+      "Health": 19212,
+      "Armor": 2210,
+      "Power": 2923,
+      "Precision": 2056,
+      "Toughness": 1243,
+      "Vitality": 1000,
+      "Ferocity": 150,
+      "Condition Damage": 2837,
+      "Expertise": 1036,
+      "Concentration": 468,
+      "Healing Power": 0,
+      "Agony Resistance": 162,
+      "Condition Duration": 0.8906666666666667,
+      "Boon Duration": 0.312,
+      "Critical Chance": 0.9528571428571428,
+      "Critical Damage": 1.6,
+      "Bleeding Duration": 0.2,
+      "Effective Power": 7264.453605357143,
+      "Power DPS": 3930.1337372070793,
+      "Bleeding Damage": 312.3575,
+      "Bleeding Stacks": 41.2,
+      "Bleeding DPS": 12869.129,
+      "Burning Damage": 927.444375,
+      "Burning Stacks": 6.428266666666667,
+      "Burning DPS": 5961.859761,
+      "Confusion Damage": 368.14862500000004,
+      "Confusion Stacks": 0,
+      "Confusion DPS": 0,
+      "Poison Damage": 331.045,
+      "Poison Stacks": 6.995466666666667,
+      "Poison DPS": 2315.8142626666668,
+      "Torment Damage": 583.2328125,
+      "Torment Stacks": 26.847466666666666,
+      "Torment DPS": 15658.3234925,
+      "Damage": 40735.260253373744,
+      "Effective Health": 84494567.16417912,
+      "Survivability": 42956.05854813376,
+      "Effective Healing": 390,
+      "Healing": 390
+    },
+      "runeId": 24848,
+      "runeName": "Nightmare",
+      "infusions": [
+        37130, 37130, 37130, 37130, 37130, 37130, 37130,
+        37130, 37130, 37130, 37130, 37130, 37130, 37130,
+        37130, 37130, 37130, 37130
+      ],
+      "weapons": {
+        "weapon1MainType": "Scepter",
+        "weapon1MainSigil1": "bursting",
+        "weapon1OffType": "Torch",
+        "weapon1OffSigil": "torment",
+        "weapon2MainType": "Scepter",
+        "weapon2MainSigil1": "bursting",
+        "weapon2OffType": "Warhorn",
+        "weapon2OffSigil": "torment"
+      },
+      "consumables": {
+        "foodId": "91878",
+        "utility": "toxic-focusing-crystal",
+        "infusion": "Malign +9 Agony Infusion"
+      },
+      "skills": {
+        "heal": "Signet of Vampirism",
+        "utility2": "Blood is Power",
+        "utility3": "Signet of Undeath",
+        "elite": "Plaguelands"
+      }
+    }}
+  >
+
+Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. Situational Runes:
+
+- <Item id="83502" /> works best for using and utilizing <Skill name="Epidemic" />, as its damage will be maximized with this rune. Note that you will have a loss of condition duration with this rune choice.
+- <Item id="44956" /> provides a large boost to personal survivability on top of your barrier generation at the cost of a minor DPS loss.
+
+</Character>  
+</CharacterWithAr>
+
+<Divider text="Build"/>
+
+<Grid>
+<GridItem sm="7">
+<Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Desert Empowerment, Demonic Lore"/>
+<Card title="Traits">
+
+|                                           |                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait id="2059" size="big" disableText/> | After the nerf to Barrier granted from <Skill name="Sand Flare"/> it's now best to run <Trait name="Desert Empowerment"/>. It is a very potent Barrier-spam, if you still need more personal Barrier feel free to use <Skill name="Sand Flare"/> for only a minor dps loss over <Skill name="Signet of Vampirism"/>. |
+
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Situational Skills">
+
+<Warning>
+  <Skill name="Spectral Grasp" /> will replace <Skill name="Epidemic" /> on
+  any fight that is single target or cleave is not needed.
+</Warning>
+
+|                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Epidemic" size="big" disableText/>               | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Particularly useful on mob heavy T4s and also Sunqua Peak CM, where it can be used in the dark phase to kill the Sorrows.                                                                                                                                                                                                   |
+| <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside.                                                          |
+| <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                   |
+| <Skill name="Summon Bone Minions" size="big" disableText/>    | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g. Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak)). |
+| <Skill name="Corrupt Boon" size="big" disableText/>           | A strong boon corrupt which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.                                                                                                                                                                                                                                                                                                          |
+| <Skill name="Summon Flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can also work as a projectile blocker for fights like Old Tom in the [Uncategorized](/fractals/uncategorized) fractal.                                                                                                                                                                                                                                                           |
+| <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova](/fractals/thaumanova-reactor) fractal. Also great for consuming conditions on consoles in the [Aetherblade](/fractals/aetherblade) fractal.                                                                                                                                                                                |
+| <Skill name="Trail of Anguish" size="big" disableText/>       | A go-to stunbreak skill for Scourge, that can also provide some decent conditions if you step in and out of your targets hitbox to proc it multiple times. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>.                                                                                                                                                                |
+| <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles.                                                                                                                                                                                                                                                                                                                                                                        |
+| <Skill name="Signet of Vampirism" size="big" disableText/>    | This can provide you a minor dps increase in situations where barrier application is not needed. If you are using <Skill name="Signet of Vampirism"/> and no other Punishment skill, you can take <Trait name="Desert Empowerment"/> over <Trait name="Sadistic Searing"/>.                                                                                                                                       |
+| <Skill name="Sand Swell" size="big" disableText/>             | A useful skill that allows you to double up on blinks. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>.                                                                                                                                                                                                                                                                    |
+
+</Card>
+</GridItem>
+</Grid>
+
+<Divider text="Further Information"/>
+
+<Grid>
+<GridItem sm="7">
+
+<Card title="Blood Magic">
+
+Running Blood Magic instead of Soul Reaping can be an option if you really need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/> and more sustain in general. It will cause a personal damage loss but it can be helpful if your party is having trouble staying alive.
+
+<Traits unembossed traits1="Blood Magic" traits1SelectedIds="780, 1844, 778"/>
+<Warning>
+Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn skill <Skill name="Wail of Doom"/>.
+</Warning>
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+
+<Card title="Defiance Bar Damage">
+
+|                                                                        |                                                                                            |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| <Skill name="Oppressive Collapse" size="big" disableText/>             | 200 damage with <Control name="Knockdown"/>                                                |
+| <Skill name="Garish Pillar" size="big" disableText/>                   | 200 damage with <Condition name="Fear"/>                                                   |
+| <Skill name="Wail of Doom" size="big" disableText/>                    | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>) |
+| <Skill name="Charge" profession="necromancer" size="big" disableText/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox   |
+| <Skill name="Spectral Grasp" size="big" disableText/>                  | 150-750 damage with <Control name="Pull" /> (see situational skills)                       |
+
+</Card>
+</GridItem>
+
+</Grid>
+
+<Divider text="Skill Usage"/>
 
 <Grid>
 <GridItem sm="7">

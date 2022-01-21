@@ -48,7 +48,10 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 </Tab>
 <Tab specialization="Engineer">
 
+<p>
 <Skill id="30815"/> will provide <Effect name="Stealth"/> for the party, as well as a smoke field for the party to blast. You can also use <Skill id="5824"/> for a field to blast as well.
+</p>
+
 </Tab>
 </Tabs>
 
@@ -70,7 +73,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 
 After the door opens, you enter a large area with two deathly laser puzzles.
 
-The first one consists of a _moving laser square pattern_ and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="Immobile"/> to you. 
+The first one consists of a _moving laser square pattern_ and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="Immobile"/> to you.
 
 The second area is filled with _spinning lasers_. In exactly the same way as before, four consoles around the area have to be activated to disable the traps.
 
@@ -136,8 +139,6 @@ Use <Skill id="10543"/> to teleport to the platform. Clear conditions with skill
 
 ---
 
-
-
 ## Breach the gate <Item id="50082" disableText/>
 
 Kill the respawning enemies to fill the progress bar and open the gate. Avoid the dazing cannon shots and switch back your skills & traits if needed.
@@ -162,7 +163,6 @@ You can use <Skill name="Binding Blade"/> to group the mobs.
 You can use <Skill name="spectral grasp"/> to group the mobs.
 </Tab>
 </Tabs>
-
 
 ---
 

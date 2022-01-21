@@ -3,7 +3,7 @@ title: Renegade CM guides
 type: Static
 profession: Revenant
 specialization: Renegade
-date: 2021-11-27T21:53:51.255Z
+date: 2022-01-18T19:53:54.020Z
 author: Casual Sophie - Jin Su Liang.9036
 disableBosses:
   - LightAi
@@ -142,7 +142,7 @@ disableBosses:
 
   - <Skill name=" Legendary Renegade Stance"/>, <Skill name="Surge of the mists"/>.
 
-<Boss name="ensolyss" video="" timestamp="" videoCreator="" foodId="91805" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+<Boss name="ensolyss" video="KK3Onf7Q0d4" timestamp="" videoCreator="Inky [dT]" foodId="91805" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
   
 - Suggested Boon Duration: `20%`
 
