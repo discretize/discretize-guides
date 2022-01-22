@@ -14,7 +14,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-01-22T19:42:36.650Z
+date: 2022-01-22T19:46:37.026Z
 title: Power Soulbeast
 rating: Power Meta
 role: Power Damage
@@ -319,8 +319,9 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
       "weapon2OffSigil": "impact"
   },
   "consumables": {
-    "foodId": 41569,
-    "utilityId": 9443
+    "foodId": "91805",
+    "utility": "superior-sharpening-stone",
+    "infusion": "Mighty +9 Agony Infusion"
   },
   "skills": {
     "healId": 31914,
@@ -332,7 +333,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 }}
 >
 
-You need <Item id="85743"/>, <Item id="86175"/>, 2x <Item id="49437"/> and 1x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>
+You need <Item id="85743"/>, <Item id="86175"/>, 1x <Item id="49437"/> and 2x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
 Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
