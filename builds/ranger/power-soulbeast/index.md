@@ -6,19 +6,19 @@ skills:
   - 12638
 effects:
   - Stealth
-title: Power Soulbeast
-rating: Power Meta
-role: Power Damage
-profession: Ranger
 specialization: Soulbeast
-code: '[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]'
+code: "[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 5
   - 3
   - 3
   - 4
-date: 2022-01-12T02:12:27.534Z
+date: 2022-01-22T19:46:37.026Z
+title: Power Soulbeast
+rating: Power Meta
+role: Power Damage
+profession: Ranger
 conditions:
   - Vulnerability
 cmGuide: pug
@@ -228,41 +228,41 @@ If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner 
 Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
 
 </Character>  
-<Character title="243 Agony Resistance" gear={{
-    "profession": "Ranger",
-    "weight": "Medium",
-    "gear": [
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker"
-    ],
+<Character title="244 Agony Resistance" gear={{
+  "profession": "Ranger",
+  "weight": "medium",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
   "attributes": {
     "Health": 17422,
-    "Armor": 2632,
+    "Armor": 2634,
     "Power": 3915,
-    "Precision": 2575,
-    "Toughness": 1514,
+    "Precision": 2577,
+    "Toughness": 1516,
     "Vitality": 1150,
     "Ferocity": 2106,
     "Condition Damage": 900,
     "Expertise": 0,
-    "Concentration": 364,
+    "Concentration": 366,
     "Healing Power": 0,
-    "Agony Resistance": 243,
+    "Agony Resistance": 244,
     "Condition Duration": 0,
-    "Boon Duration": 0.24266666666666667,
-    "Critical Chance": 1,
+    "Boon Duration": 0.244,
+    "Critical Chance": 1.000952380952381,
     "Critical Damage": 2.904,
     "Effective Power": 33656.44331866597,
     "Power DPS": 36248.39120612581,
@@ -282,42 +282,58 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
     "Torment Stacks": 0,
     "Torment DPS": 0,
     "Damage": 37364.48495612581,
-    "Effective Health": 91253142.28855723,
-    "Survivability": 46392.03980099504,
+    "Effective Health": 91322483.58208956,
+    "Survivability": 46427.2921108742,
     "Effective Healing": 390,
     "Healing": 390
   },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 49437, 49437, 49438, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Longbow",
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    49438,
+    49438,
+    37131,
+    49437,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Longbow",
       "weapon1MainSigil1": "force",
       "weapon1MainSigil2": "impact",
       "weapon2MainType": "Sword",
       "weapon2MainSigil1": "force",
       "weapon2OffType": "Axe",
       "weapon2OffSigil": "impact"
-    },
-    "consumables": {
-      "foodId": "91805",
-      "utility": "superior-sharpening-stone",
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "We Heal as One",
-      "utility2": "Sic Em",
-      "utility3": "Frost Spirit",
-      "elite": "One Wolf Pack"
-    }
-  }}
+  },
+  "consumables": {
+    "foodId": "91805",
+    "utility": "superior-sharpening-stone",
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "skills": {
+    "healId": 31914,
+    "utility1Id": "",
+    "utility2Id": 12633,
+    "utility3Id": 12497,
+    "eliteId": 45717
+  }
+}}
 >
 
-You need <Item id="85743"/>, <Item id="86175"/>, 2x <Item id="49437"/> and 1x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>
+You need <Item id="85743"/>, <Item id="86175"/>, 1x <Item id="49437"/> and 2x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
 Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
