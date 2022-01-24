@@ -6,26 +6,26 @@ skills:
   - 30815
 effects:
   - Stealth
-title: Power Holosmith
-rating: Good
-role: Power Damage
 author: Ascers.6082
-profession: Engineer
 specialization: Holosmith
-conditions:
-  - Vulnerability
-  - Blinded
-  - Crippled
-  - Immobile
-code: '[&DQMGOyYfOSsqDyoPowCGAIYAowBXFlcW8BWJAQAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: 2022-01-05T22:03:03.559Z
+date: 2022-01-24T17:30:31.960Z
+title: Power Holosmith
+rating: Good
+role: Power Damage
+profession: Engineer
+conditions:
+  - Vulnerability
+  - Blinded
+  - Crippled
+  - Immobile
+cmGuide: ""
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
