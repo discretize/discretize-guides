@@ -15,7 +15,6 @@ sigils:
 consumables:
   - 49940
 record:
-  time: N/A
 ---
 
 <Grid>
