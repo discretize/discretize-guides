@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2021-10-09T14:51:53.347Z
+date: 2022-01-28T02:16:12.757Z
 title: Chaos Isles
 image: ./images/legendary_brazen_gladiator.jpg
 group: T4
@@ -73,7 +73,7 @@ Pay attention to the <Control name="Knockback"/> zones from the small JT-12 gole
 <Tabs>
 <Tab specialization="Revenant">
 
-It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade variant for more energy for the whole fight.
+It is favorable to run <Skill name="Legendary Dwarf Stance"/> to be able to use <Skill name="Inspiring Reinforcement"/>. <Skill name="Inspiring Reinforcement"/> pulses <Boon name="Stability"/> which is extremely crucial to allow your party to keep on DPSing.
 </Tab>
 
 <Tab specialization="Guardian">
@@ -136,7 +136,7 @@ Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Con
 <Tabs>
 <Tab specialization="Revenant">
 
-Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="Daze"/>.
+Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="Daze"/> and <Control name="Knockback"/>.
 </Tab>
 
 <Tab specialization="soulbeast">
