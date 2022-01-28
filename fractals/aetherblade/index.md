@@ -4,7 +4,7 @@ potions:
   - id: 50082
   - id: 8887
     description: against the golems in the final room
-date: 2021-11-15T09:25:52.161Z
+date: 2022-01-28T02:23:45.675Z
 title: Aetherblade
 image: ./images/header.jpg
 group: T4
@@ -146,7 +146,7 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 <Tabs>
 <Tab specialization="Revenant">
 
-You can <Skill name="Call to Anguish"/> most mobs to group them.
+You can <Skill name="Call to Anguish"/> most mobs to group them. If you have enough pulls in your group you should use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Inspiring Reinforcement"/> to deny the <Control name="Daze"/>s from the air strikes constantly hitting you.
 </Tab>
 
 <Tab specialization="elementalist">
@@ -156,7 +156,7 @@ Stay in <Skill id="5492"/> after the last trash group for <Boon name="Might"/> s
 
 <Tab specialization="Guardian">
 
-You can use <Skill name="Binding Blade"/> to group the mobs.
+You can use <Skill name="Binding Blade"/> and <TomeSkill name="Chapter 3: Heated Rebuke"/> to group the mobs.
 </Tab>
 <Tab specialization="Necromancer">
 
@@ -199,12 +199,12 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 
 <Tab specialization="Warrior">
 
-Drop your banners in the very center of the arena.Using <Skill name="whirlwind attack"/> against the wall is very effective.
+Drop your banners in the very center of the arena. Using <Skill name="whirlwind attack"/> against the wall is very effective.
 </Tab>
 
 <Tab specialization="ranger">
 
-Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
+Run an off-hand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 
 <Tab specialization="elementalist">
