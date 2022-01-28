@@ -5,7 +5,7 @@ potions:
     description: for all the Grawl enemies
   - id: 8886
     description: for the Imbued Shaman endboss
-date: 2021-10-13T14:24:33.520Z
+date: 2022-01-28T09:28:09.759Z
 title: Volcanic
 image: ./images/header.jpg
 group: T4
@@ -127,12 +127,15 @@ Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="Knockback"/>) an
 <Tabs>
 <Tab specialization="Renegade">
 
-Use <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> to spam <Boon name="Resistance"/> after the bosses bubble phase.
+You have multiple options for your legend of choice:
+1. <Skill name="Legendary Centaur Stance"/> helps you with the split phases and adds since you can use <Skill name="Protective Solace"/> to block their projectiles.
+2. <Skill name="Legendary Demon Stance"/> will help you get <Boon name="Resistance"/> for the <Condition name="Burning"/> stacks via <Skill name="Pain Absorption"/>. Be careful, however, since there have been significant changes to <Boon name="Resistance"/> and you can kill yourself. Use <Skill name="Call to Anguish"/> to pull in the mobs during split phases.
+3. <Skill name="Legendary Assassin Stance"/> will be the best choice damage-wise if your group doesn't need either of the two choices above.
 </Tab>
 
 <Tab specialization="Firebrand">
 
-Use Tome 3 skill 4 for party wide <Boon name="Resistance"/>!
+Use <tomeSkill name="Chapter 4: Stalwart Stand"/> for party wide <Boon name="Resistance"/>, <tomeSkill name="Chapter 3: Valiant Bulwark"/> to block enemy projectiles and <tomeSkill name="Chapter 3: Heated Rebuke"/> to pull in the enemies.
 </Tab>
 
 <Tab specialization="Elementalist">
