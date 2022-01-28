@@ -16,7 +16,6 @@ consumables:
   - 8764
   - 8801
 record:
-  time: N/A
 ---
 
 <Grid>
