@@ -1,23 +1,6 @@
 ---
-date: 2021-02-24
 cycle: Night
-consumables:
-  - 78978
-record:
-  time: '5 min 9 sec'
-  by:
-    - name: Lucky Noobs
-      tag: LN
-  youtube:
-    - id: 2NeDItrX44I
-      name: Nightmare
-      specialization: Chronomancer
-    - id: XTynF47Ekz4
-      name: Flaschor
-      specialization: Tempest
-    - id: W3shEwUN0hU
-      name: Roca
-      specialization: Druid
+date: 2022-01-28T09:40:58.201Z
 title: Swampland
 image: ./images/bloomhunger_spirit_onslaught.jpg
 group: T4
@@ -31,6 +14,23 @@ difficulties:
 sigils:
   - id: 36053
   - id: 24868
+consumables:
+  - 78978
+record:
+  time: 5 min 9 sec
+  by:
+    - name: Lucky Noobs
+      tag: LN
+  youtube:
+    - id: 2NeDItrX44I
+      name: Nightmare
+      specialization: Chronomancer
+    - id: XTynF47Ekz4
+      name: Flaschor
+      specialization: Tempest
+    - id: W3shEwUN0hU
+      name: Roca
+      specialization: Druid
 ---
 
 <Grid>
@@ -107,6 +107,8 @@ In the passage, the Mossman is waiting to fight you. You can break his defiance 
 
 Activate the encounter by placing the nearby Wisp into an empty Wisp Cleft. Bloomhunger (and all trash mobs) are only vulnerable inside the active Wisp Cleft area, additionally all players gain 100% increased endurance regeneration from it. The active area switches clockwise, move to the next position as soon as it decreases in size.
 
+Bloomhunger gets <Boon name="Protection"/> from the flowers that start to fill up the battlefield and also inflict <Condition name="Poisoned"/> you, so cleave is appreciated for this fight.
+
 When Bloomhunger casts _Poison Rain_, immediately break his defiance bar (especially at the start of the fight) and nuke him to 75%/50%/25% life. Avoid his _Leap_ and _Charge_ attacks to prevent being <Control name="Knockdown"/>ed.
 
 ### Spirit Onslaught <Label>75%, 50%</Label>
@@ -124,7 +126,7 @@ As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again
 <Tabs>
 <Tab specialization="renegade">
 
-Take <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> for this fight. Remove <Boon name="Protection"/> from Bloomhunger when he steps into the poison AoE.
+Use <Item id="72872"/> to strip the boons from Bloomhunger with <Skill name="Darkrazor's Daring"/>.
 </Tab>
 <Tab specialization="Tempest">
 
