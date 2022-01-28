@@ -1,12 +1,23 @@
 ---
-date: 2021-02-24
 cycle: Day
+date: 2022-01-28T09:52:57.345Z
+title: Urban Battlegrounds
+image: ./images/header.jpg
+group: T4
+api: 2941
+bosses: 2
+difficulties:
+  - level: 85
+    ar: 124
+sigils:
+  - id: 24868
+  - id: 24615
 consumables:
   - 78978
   - 8764
   - 8801
 record:
-  time: '4 min 50 sec'
+  time: 4 min 50 sec
   by:
     - name: Happens
       tag: hP
@@ -20,17 +31,6 @@ record:
     - id: LrUdzjbZQoQ
       name: Goni
       specialization: Tempest
-title: Urban Battlegrounds
-image: ./images/header.jpg
-group: T4
-api: 2941
-bosses: 2
-difficulties:
-  - level: 85
-    ar: 124
-sigils:
-  - id: 24868
-  - id: 24615
 ---
 
 <Grid>
@@ -69,6 +69,15 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 <Tab specialization="thief">
 
 Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="thief"/> (also useful for reflects) or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
+
+</Tab>
+
+<Tab specialization="Renegade">
+
+Legend choices:
+1. <Skill name="Legendary Dwarf Stance"/> to have access to <Skill name="Inspiring Reinforcement"/> for <Boon name="Stability"/>.
+2. <Skill name="Legendary Centaur Stance"/> for <Skill name="Protective Solace"/> for the multiple different projectiles knocking you down and occasional condition cleanse for <Condition name="Burning"/>.
+3. <Skill name="Legendary Assassin Stance"/> if neither of the aforementioned choices are relevant for your group.
 
 </Tab>
 
