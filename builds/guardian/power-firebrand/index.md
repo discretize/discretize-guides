@@ -138,7 +138,7 @@ Note that this build variant only gains boon duration from the <Item id="79722"/
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
 <Character title="222 Agony Resistance (24.6% BD)" gear={{
@@ -235,7 +235,7 @@ Note that this build variant only gains boon duration from the <Item id="79722"/
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character> 
 </CharacterWithAr>

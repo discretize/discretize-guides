@@ -19,8 +19,8 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
-cmGuide: ""
+code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
+cmGuide: ''
 classification:
   - 4
   - 3
@@ -131,7 +131,7 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
   }}
 >
 
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
 
 </Character>  
 <Character title="80% Boon Duration 222 Agony Resistance" gear={{
@@ -222,7 +222,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
   }}
 >
 
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
 
 </Character>  
 <Character title="Condi DPS Renegade" gear={{

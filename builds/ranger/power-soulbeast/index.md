@@ -7,7 +7,7 @@ skills:
 effects:
   - Stealth
 specialization: Soulbeast
-code: "[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
+code: '[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]'
 classification:
   - 5
   - 5
@@ -130,7 +130,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character> 
 <Character title="222 Agony Resistance" gear={{
@@ -225,7 +225,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also <Item id="70596"/>. <br/>
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
 <Character title="244 Agony Resistance" gear={{
@@ -336,7 +336,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 You need <Item id="85743"/>, <Item id="86175"/>, 1x <Item id="49437"/> and 2x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character> 
 </CharacterWithAr>

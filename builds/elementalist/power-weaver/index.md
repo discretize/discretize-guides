@@ -127,7 +127,7 @@ Also this build depends pretty much on supports and boon uptimes, as it can't pr
 
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character> 
 <Character title="222 Agony Resistance" gear={{
@@ -218,7 +218,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
   }}
 >
 
-You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also <Item id="70596"/>. <br/> If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>. Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also <Item id="70596"/>. <br/> If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 <Character title="245 Agony Resistance" gear={{

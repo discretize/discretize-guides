@@ -24,7 +24,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 3
@@ -32,14 +32,14 @@ classification:
   - 3
   - 4
 date: 2022-01-13T16:53:16.828Z
-cmGuide: ""
+cmGuide: ''
 ---
 
 The **<Specialization text="Celestial Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
 
 The general idea of these builds is to leverage the Celestial stat combo (<Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/>) and the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. They then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage.
 
-There are Four variants shown below; a low AR Celestial variant, a high AR Celestial variant, a high AR Seraph variant, and a Celestial Heal variant. The Celestial 162 variant is the standard version with high boon duration and provides solid damage while being fairly forgiving with boon uptimes. It also has the advantage of wroking well in other content outside of fractals with minimal changes. The high AR Celestial and Seraph variants are more offensive build and offer the most damage. Both builds pull similar damage with the Seraph version being slightly ahead due to having higher <Attribute name="Condition Damage"/> and <Effect name="Exposed"/>. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/).
+There are Four variants shown below; a low AR Celestial variant, a high AR Celestial variant, a high AR Seraph variant, and a Celestial Heal variant. The Celestial 162 variant is the standard version with high boon duration and provides solid damage while being fairly forgiving with boon uptimes. It also has the advantage of wroking well in other content outside of fractals with minimal changes. The high AR Celestial and Seraph variants are more offensive build and offer the most damage. Both builds pull similar damage with the Seraph version being slightly ahead due to having higher <Attribute name="Condition Damage"/> and <Effect name="Exposed"/>. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](https://optimizer.discretize.eu/).
 
 <Divider text="Equipment"/>
 
@@ -136,7 +136,7 @@ There are Four variants shown below; a low AR Celestial variant, a high AR Celes
 
 **This is the standard build with high boon duration which allows it to be played with lower Agony Resistance and has an easier time maintaining boons. This build also has the advantage of working in other content such as Raids and Strike Missions**
 
-Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
+Check the build section for some common gear variations. You can also use our [gear optimizer](https://optimizer.discretize.eu/) for more variants!
 
 </Character>
 <Character title="Celestial 203 Agony Resistance" gear={{
@@ -232,7 +232,7 @@ Check the build section for some common gear variations. You can also use our [g
 
 **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivability with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**
 
-Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
+Check the build section for some common gear variations. You can also use our [gear optimizer](https://optimizer.discretize.eu/) for more variants!
 
 </Character>  
 <Character title="Seraph 203 Agony Resistance" gear={{
@@ -328,7 +328,7 @@ Check the build section for some common gear variations. You can also use our [g
 
 **This build provides slightly higher damage then the Celestial build in fractals due to having higher <Attribute name="Condition Damage"/> and <Effect name="Exposed"/>, whilst still providing more than enough support for most groups.**
 
-Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
+Check the build section for some common gear variations. You can also use our [gear optimizer](https://optimizer.discretize.eu/) for more variants!
 
 </Character>  
 <Character title="Celestial Heal 162 Agony Resistance" gear={{
@@ -424,7 +424,7 @@ Check the build section for some common gear variations. You can also use our [g
 
 **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**
 
-Check the build section for some common gear variations. You can also use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more variants!
+Check the build section for some common gear variations. You can also use our [gear optimizer](https://optimizer.discretize.eu/) for more variants!
 
 </Character> 
 </CharacterWithAr>
@@ -487,7 +487,7 @@ Check the build section for some common gear variations. You can also use our [g
 </Grid>
 <Card title="Common Gear Adjustments">
 
-As you will have seen from the equipment, Celestial/Seraph Firebrand has many variations you can use to adapt to your needs. Here is a brief overview of the common Attribute types, Runes, Sigils and Consumables that are used when gearing Celestial and Seraph variants. As mentioned above you can use our [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) to help calculate what gear will be best, but in general remember you want to aim for 100% <Condition name="Burning"/> duration and at least 60% <Boon name="Quickness"/> duration to allow you to play <Trait name="Legendary Lore"/> in Fractals (although the higher you can get your <Attribute name="Concentration"/> the easier time you will have maintaining boons)!
+As you will have seen from the equipment, Celestial/Seraph Firebrand has many variations you can use to adapt to your needs. Here is a brief overview of the common Attribute types, Runes, Sigils and Consumables that are used when gearing Celestial and Seraph variants. As mentioned above you can use our [gear optimizer](https://optimizer.discretize.eu/) to help calculate what gear will be best, but in general remember you want to aim for 100% <Condition name="Burning"/> duration and at least 60% <Boon name="Quickness"/> duration to allow you to play <Trait name="Legendary Lore"/> in Fractals (although the higher you can get your <Attribute name="Concentration"/> the easier time you will have maintaining boons)!
 
 <Grid> <GridItem>
 

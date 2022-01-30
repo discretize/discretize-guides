@@ -141,7 +141,7 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
     }}
   >
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 This is a budget variant, aim for at least 212 Agony Resistance.
 Utilize the gear optimizer if you are somewhere between 162 and 212 Agony Resistance.
@@ -239,7 +239,7 @@ If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner 
 
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
 <Character gear={{
@@ -333,7 +333,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character> 
 </CharacterWithAr>

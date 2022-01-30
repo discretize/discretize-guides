@@ -10,7 +10,7 @@ boons:
   - name: Alacrity
     uptime: 100%
     variant: party
-code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
+code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 classification:
   - 5
   - 2
@@ -123,7 +123,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
   }}
 >
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
 </Character>  
@@ -214,7 +214,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
   }}
 >
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
 </Character>  
@@ -305,7 +305,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
   }}
 >
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 </Character>  
 <Character title="50% Boon Duration 222 Agony Resistance" gear={{
@@ -394,7 +394,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
     }
 }}>
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 </Character>
 </CharacterWithAr>
