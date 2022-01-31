@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2021-10-13T14:29:16.176Z
+date: 2022-01-31T15:45:07.750Z
 title: Thaumanova Reactor
 image: ./images/header.jpg
 group: T4
@@ -16,26 +16,26 @@ consumables:
   - 78978
   - 49940
 record:
-  time: 2 min 43 sec
+  time: 2 min 2 sec
   by:
-    - name: Discretize
-      tag: dT
+    - name: Snow Crows
+      tag: SC
   youtube:
-    - id: QCele6YZeow
-      name: Metagame
-      specialization: Chronomancer
-    - id: KP5bbAK9Dqs
-      name: Nimajeb
-      specialization: Warrior
-    - id: 8jPj3qhxSek
-      name: Xarlor
-      specialization: Weaver
-    - id: VErPFTieTk8
-      name: Hyperiel
-      specialization: Weaver
-    - id: 4xRc7pEAfv8
-      name: The Way To God
-      specialization: Weaver
+    - id: lxkzfx4iOYo
+      name: Trace
+      specialization: Thief
+    - id: DT4GWaM3bUw
+      name: Nika
+      specialization: Mesmer
+    - id: bYvbWGXh0kg
+      name: Tobi
+      specialization: Guardian
+    - id: 1wI2nI8O8oU
+      name: Max
+      specialization: Guardian
+    - id: eg1lAdxwsJk
+      name: Skii
+      specialization: Renegade
 ---
 
 <Grid>
