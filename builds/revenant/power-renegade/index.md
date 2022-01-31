@@ -10,14 +10,14 @@ boons:
   - name: Alacrity
     uptime: 100%
     variant: party
-code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
+code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: 2022-01-16T22:30:33.412Z
+date: 2022-01-31T21:02:21.287Z
 title: Power Alac Renegade
 rating: Power Meta
 role: Power Damage
@@ -436,7 +436,9 @@ After the [status reset update of August 31st](https://wiki.guildwars2.com/wiki/
 `[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
 
 <Warning>
+
 The other legend is unselected for a good reason. If you have the other legend slot empty, it will minimise the number of possible bugs with <Specialization name="Renegade"/> and build templates. You can read more about the bugs, [the official wiki has them documented](https://wiki.guildwars2.com/wiki/Template#Build_Template)
+
 </Warning>
 
 To precast with <Specialization name="Herald"/>, you can go very simple:
