@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2022-01-28T02:16:12.757Z
+date: 2022-01-31T15:30:02.866Z
 title: Chaos Isles
 image: ./images/legendary_brazen_gladiator.jpg
 group: T4
@@ -19,23 +19,20 @@ sigils:
 consumables:
   - 49940
 record:
-  time: 3 min 48 sec
+  time: 2 min 43 sec
   by:
     - name: Discretize
       tag: dT
   youtube:
-    - id: WN_ohtdzUEY
-      name: Hyperiel
-      specialization: Chronomancer
-    - id: W0heJU1YHRs
-      name: Metagame
-      specialization: Warrior
-    - id: p4Swksv1-To
-      name: Nimajeb
-      specialization: Holosmith
-    - id: uCu_f50blpc
-      name: Xarlor
-      specialization: Weaver
+    - id: x9pdTWKzQeU
+      name: Roach
+      specialization: Berserker
+    - id: XTasNHmddXo
+      name: Marty
+      specialization: Daredevil
+    - id: 5NXsBD5S5JE
+      name: Princeps
+      specialization: Firebrand
 ---
 
 <Grid>
