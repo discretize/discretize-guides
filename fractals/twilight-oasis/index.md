@@ -1,12 +1,23 @@
 ---
-date: 2021-02-24
 cycle: Night
+date: 2022-02-01T02:47:53.806Z
+title: Twilight Oasis
+image: ./images/header.jpg
+group: T4
+api: 3973
+bosses: 3
+difficulties:
+  - level: 87
+    ar: 127
+sigils:
+  - id: 36053
+  - id: 24615
 consumables:
   - 78978
   - 8764
   - 8801
 record:
-  time: '6 min 50 sec'
+  time: 6 min 50 sec
   by:
     - name: Discretize
       tag: dT
@@ -23,17 +34,6 @@ record:
     - id: BtfjQbzRg5E
       name: Hutselflutsje
       specialization: Weaver
-title: Twilight Oasis
-image: ./images/header.jpg
-group: T4
-api: 3973
-bosses: 3
-difficulties:
-  - level: 87
-    ar: 127
-sigils:
-  - id: 36053
-  - id: 24615
 ---
 
 <Grid>
@@ -41,7 +41,7 @@ sigils:
 
 ## Start: Run!
 
-Let your <Specialization name="Renegade"/> skip the first part or use <Effect name="Stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sand Binders. If the instabilities are harder to deal with, a party may decide to take the time to kill the adds on the way, however, this will take a long time.
+Let your <Specialization name="Renegade"/> skip the first part or use <Effect name="Stealth"/> to skip past the initial Sunspears (as well as any further groups of Sunspears) and head to the first of the Sandbinders. If the instabilities are harder to deal with, a party may decide to take the time to kill the adds on the way, however, this will take a long time.
 
 Use Boons like <Boon name="Swiftness"/>, <Effect name="Superspeed"/> and <Item name="executioneraxetoy"/> help to quickly skip to the first _Sand Binder_.
 
