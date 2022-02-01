@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2022-01-28T10:20:54.329Z
+date: 2022-02-01T02:46:24.744Z
 title: Siren's Reef
 image: ./images/header.jpg
 group: T4
@@ -15,7 +15,7 @@ sigils:
 consumables:
   - 8764
   - 8801
-record:
+record: null
 ---
 
 <Grid>
@@ -46,7 +46,7 @@ Prestack boons on the _Mistlock Singularity_ nearby.
 
 Kill the ghosts to start the encounter.
 
-_Blast Black Peter_ the skeleton boss is kind of a DPS race. He starts spawning many minions by the end of the encounter so you can wipe easily. He spawns mines which you can blow up with the cannon on top. The boss periodically gains <Boon name="Swiftness"/> <Boon name="Protection"/> and <Boon name="Stability"/> so removing it is priority and a key to kill him fast. He has a breakbar too so break that also helps.
+_Blast Black Peter_ the skeleton boss is kind of a DPS-race. He starts spawning many minions by the end of the encounter so you can wipe easily. He spawns mines which you can blow up with the cannon on top. The boss periodically gains <Boon name="Swiftness"/> <Boon name="Protection"/> and <Boon name="Stability"/> so removing it is priority and a key to kill him fast. He has a breakbar, too, so breaking it as fast as possible also helps.
 </GridItem>
 
 <GridItem sm="6">
