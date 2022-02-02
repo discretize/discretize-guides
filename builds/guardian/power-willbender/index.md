@@ -238,7 +238,7 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 
 <Card title="Virtues">
 
-If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sharing <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>. You can drop the Radiance traitline for Virtues for more personal damage. Please note you will need to adjust your gear potentially to crit cap! Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer) for more gear variants!
+If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sharing <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>. You can drop the Radiance traitline for Virtues for more personal damage. Please note you will need to adjust your gear potentially to crit cap! Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
 <Traits unembossed traits1="Virtues" traits1Selected="Unscathed Contender,Inspiring Virtue,Permeating Wrath"/>
 
