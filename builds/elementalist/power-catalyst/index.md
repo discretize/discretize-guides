@@ -141,7 +141,7 @@ This build has one of the most harder rotations in game which makes it enjoyable
     "utility3Id": 62965,
     "eliteId": 5516
   }
-}} >
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
@@ -246,9 +246,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu) for more gear varian
     "utility3Id": 62965,
     "eliteId": 5516
   }
-  }}
-
->
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
@@ -353,9 +351,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu) for more gear varian
     "utility3Id": 62965,
     "eliteId": 5516
   }
-  }}
-
->
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
