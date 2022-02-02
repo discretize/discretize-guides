@@ -34,12 +34,6 @@ date: 2022-01-11T02:53:58.478Z
 cmGuide: ' '
 ---
 
-<Warning>
-
-The <Specialization name="Dragonhunter"/> is a meta build only if it replaces <Specialization name="Firebrand"/> and being the main source of <Boon name="Quickness"/> by taking <Skill name="feelmywrath"/>, which is used only in short encounters in higher end groups or when played in the <Composition name="_RGB"/> composition.
-
-</Warning>
-
 The <Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
 The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
 The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
@@ -242,6 +236,14 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 <GridItem sm="7">
 <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 
+<Card title="Virtues">
+
+If you can reliabbly upkeep <Boon name="Aegis"/>, and you dont gain value from sharing <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>. You can drop the Radiance traitline for Virtues for more personal damage. Please note you will need to adjust your gear potentially to crit cap! Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer) for more gear variants!
+
+<Traits unembossed traits1="Virtues" traits1Selected="Unscathed Contender,Inspiring Virtue,Permeating Wrath"/>
+
+</Card>
+  
 <Card title="CC skills">
 
 |                                                 |            |
