@@ -126,7 +126,7 @@ It has great burst options and deals high consistent damage while providing medi
       "utility1": "Flash Combo",
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
-      "elite": "Feel My Wrath"
+      "elite": "Heavens Palm"
     }
   }}
 >
@@ -220,7 +220,7 @@ If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, 
       "utility1": "Flash Combo",
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
-      "elite": "Feel My Wrath"
+      "elite": "Heavens Palm"
     }
   }}
 >
