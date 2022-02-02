@@ -1,18 +1,10 @@
 ---
-title: Power Dragonhunter
-rating: Power Meta
-role: Power Damage
-profession: Guardian
 specialization: Dragonhunter
 skills:
   - 30783
   - 30039
   - 9153
   - 9251
-conditions:
-  - Vulnerability
-  - Blinded
-  - Crippled
 boons:
   - name: Quickness
     uptime: ~10%
@@ -23,15 +15,23 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: '[&DQEQLyo6GzkmDwAAihIAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLyo6GzkmDwAAihIAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 2
   - 4
-date: 2022-01-11T02:53:58.478Z
-cmGuide: ' '
+date: 2022-02-02T14:59:09.196Z
+title: Power Dragonhunter
+rating: Power Meta
+role: Power Damage
+profession: Guardian
+conditions:
+  - Vulnerability
+  - Blinded
+  - Crippled
+cmGuide: " "
 ---
 
 The <Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
@@ -338,7 +338,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 </GridItem>
 
 <GridItem xs="12" sm="6">
-<Card title="Golem Rotation">
+<Card title="Standard Opener">
 
 **Rotation:**
 
@@ -382,7 +382,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="C98JaabU6_c" caption="by Shetsa [SC]"/>
+<Video youtube="aIUZegO1_EA" caption="by Nagy"/>
 </Card>
 </GridItem>
 </Grid>
