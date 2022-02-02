@@ -5,7 +5,7 @@ potions:
     description: for all the Grawl enemies
   - id: 8886
     description: for the Imbued Shaman endboss
-date: 2021-10-13T14:24:33.520Z
+date: 2022-01-30T18:10:52.328Z
 title: Volcanic
 image: ./images/header.jpg
 group: T4
@@ -24,14 +24,26 @@ consumables:
   - 78978
   - 49940
 record:
-  time: 3 min 48 sec
+  time: 2 min 40 sec
   by:
-    - name: Quantify
-      tag: qT
+    - name: Discretize
+      tag: dT
   youtube:
-    - id: un7xbSP-7KI
-      name: Deathly
-      specialization: Chronomancer
+    - id: 7HamspG273o
+      name: Marty
+      specialization: Firebrand
+    - id: f-Mo6tv4OtI
+      name: Tukul
+      specialization: Renegade
+    - id: oAyE0fSvN0c
+      name: Princeps
+      specialization: Firebrand
+    - id: deSKsypqdH0
+      name: Seatek
+      specialization: Soulbeast
+    - id: cSn-lnvcAgA
+      name: Hyp
+      specialization: Daredevil
 ---
 
 ## Start: Grawl slaughter! <Item id="8890" disableText/><Item id="24648" disableText/>
@@ -61,13 +73,15 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
 </Tab>
 
 <Tab specialization="Warrior">
-<Specialization name="Berserker"/> can equip a greatsword and <Skill name="bloodreckoning"/> for 2x <Skill name="arcdivider"/>!
+
+The <Specialization name="Berserker"/> can equip a greatsword and <Skill name="bloodreckoning"/> for 2x <Skill name="arcdivider"/>!
+
 <ProfessionVideo title="Skip to 2nd encounter" profession="Warrior" timestamp="45" src="REnmbN7sZFQ"/>
 </Tab>
 
 <Tab specialization="Weaver">
 
-<Specialization name="Elementalist"/> can precast strong DPS skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear. You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster.
+The <Specialization name="Elementalist"/> can precast strong DPS skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear. You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster.
 </Tab>
 </Tabs>
 </GridItem>
@@ -125,12 +139,17 @@ Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="Knockback"/>) an
 <Tabs>
 <Tab specialization="Renegade">
 
-Use <Skill name="Legendary Demon Stance"/> / <Skill name="Legendary Renegade Stance"/> to spam <Boon name="Resistance"/> after the bosses bubble phase.
+You have multiple options for your legend of choice:
+
+1. <Skill name="Legendary Centaur Stance"/> helps you with the split phases and adds since you can use <Skill name="Protective Solace"/> to block their projectiles.
+2. <Skill name="Legendary Demon Stance"/> will help you get <Boon name="Resistance"/> for the <Condition name="Burning"/> stacks via <Skill name="Pain Absorption"/>. Be careful, however, since there have been significant changes to <Boon name="Resistance"/> and you can kill yourself. Use <Skill name="Call to Anguish"/> to pull in the mobs during split phases.
+3. <Skill name="Legendary Assassin Stance"/> will be the best choice damage-wise if your group doesn't need either of the two choices above.
+
 </Tab>
 
 <Tab specialization="Firebrand">
 
-Use Tome 3 skill 4 for party wide <Boon name="Resistance"/>!
+Use <tomeSkill name="Chapter 4: Stalwart Stand"/> for party wide <Boon name="Resistance"/>, <tomeSkill name="Chapter 3: Valiant Bulwark"/> to block enemy projectiles and <tomeSkill name="Chapter 3: Heated Rebuke"/> to pull in the enemies.
 </Tab>
 
 <Tab specialization="Elementalist">

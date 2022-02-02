@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 8881
-date: 2021-10-15T16:46:56.912Z
+date: 2022-01-28T02:30:37.889Z
 title: Cliffside
 image: ./images/header.jpg
 group: T4
@@ -17,20 +17,23 @@ sigils:
 consumables:
   - 78978
 record:
-  time: 4 min 29 sec
+  time: 3 min 0 sec
   by:
-    - name: Happens
-      tag: hP
+    - name: Invicta Luna
+      tag: iV
   youtube:
-    - id: 05wgY9N_pdc
-      name: Guts
-      specialization: Chronomancer
-    - id: 3iqOCAT23S8
-      name: Never Moa
-      specialization: Tempest
-    - id: fqK7UO-6R7M
-      name: Goni
-      specialization: Tempest
+    - id: yV9JYwr5Tx0
+      name: Delay
+      specialization: Necromancer
+    - id: lT7bpb6v63o
+      name: PineappleMan
+      specialization: Berserker
+    - id: JVJNb-uzIQs
+      name: MagicBot
+      specialization: Daredevil
+    - id: clm7GF7bxWI
+      name: BlackHawk
+      specialization: Renegade
 ---
 
 <Grid>
@@ -118,7 +121,11 @@ After 2-3 hits against the Seal, place <Item id="78978"/>, run up to the _Right 
 
 <Tab specialization="soulbeast">
 
+<p>
+
 <Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you. Take <Skill id="12489"/> for pulsing condition cleanse! Great way the clean the huge stacks of <Condition name="Burning"/>. You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
+
+</p>
 
 </Tab>
 </Tabs>
@@ -168,10 +175,7 @@ Again, <Skill id="12638"/> on offhand Axe helps pulling the Cultists to you.
 
 Do not resurrect yourself yet, wait for the <Specialization name="Revenant"/>, <Specialization name="Elementalist"/>, <Specialization name="Guardian"/> or <Specialization name="Thief"/> to finish his portal and do `/gg` himself again or you will be stuck with a useless person for the entire end fight.
 
-After the whole party `/gg`'ed, resurrect yourself and place <Item id="78978"/> at the revival position.  
-Blink up to the Arch Diviner, open the portal and **walk away from it** before doing `/gg` again to reset your cooldowns. If you kill yourself on the portal it bugs so watch it!
-
-Now the whole party can resurrect and use the portal, type `go` in chat to indicate that. Before taking the portal on your own, switch your skills and traits back. This takes some timing to get right.
+After the whole party `/gg`'ed, resurrect and place <Item id="78978"/> at the revival position. Blink up, and open the portal. Note that after the *Status Reset* change you cannot blink up and `/gg` anymore, since it will clear the portal.
 </GridItem>
 
 <GridItem sm="5">
@@ -202,7 +206,7 @@ Now the whole party can resurrect and use the portal, type `go` in chat to indic
 
 ## Arch Diviner <Item id="8881" disableText/><Item id="24678" disableText/>
 
-After the portal opens you resurrect, take the portal up and start the fight against the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Effect name="Exposed"/>.
+Take the portal up and start the fight against the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Effect name="Exposed"/>.
 
 Every 25% of his health, you will need to collect a _Cultist Hammer_ charge similar to before by killing one of the four spawned Cultists and hit the final Seal to make the Arch Diviner vulnerable again. Cultists apply a lot of conditions so kill them fast and try to stay out of their aggro range.
 

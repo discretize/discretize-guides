@@ -7,8 +7,9 @@ date: '2021-02-24'
 disableBosses: ['Skorvald', 'Artsariiv', 'Arkk', 'MAMA', 'Siax', 'Ensolyss']
 ---
 
-<Boss name="LightAi" video="lxfXSd9Y8oE" timestamp="" videoCreator="BlackHawk [dT]" foodId="92456" utilityId="48917" healId="31914" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130">
--   Pet: <Skill id="41206" disableText/> Bristleback for dps. <Skill id="46432" disableText/> Warthog if your group needs the CC.
+<Boss name="LightAi" video="lxfXSd9Y8oE" videoCreator="BlackHawk [dT]" foodId="92456" utilityId="48917" healId="31914" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Short Bow" weapon1MainSigil1="Bursting" weapon1MainSigil2="Earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="Earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="Bursting" weapon2MainInfusion1Id="37130">
+
+- Pet: <Skill id="41206" disableText/> Bristleback for dps. <Skill id="46432" disableText/> Warthog if your group needs the CC.
 
 - Take <Trait id="2128"/>.
 
@@ -106,8 +107,9 @@ There is not much you can do in the split phase here, so just make sure to keep 
 
 ### **Dark Ai, Keeper of the Peak**
 
-<Boss name="DarkAi" video="WkU20J-00gQ" timestamp="" videoCreator="BlackHawk [dT]" foodId="92456" utilityId="48917" healId="31914" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Shortbow" weapon1MainSigil1="bursting" weapon1MainSigil2="earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="bursting" weapon2MainInfusion1Id="37130">
--   Pet: <Skill id="41206" disableText/> Bristleback for dps. <Skill id="46432" disableText/> Warthog if your group needs the CC.
+<Boss name="DarkAi" video="WkU20J-00gQ" videoCreator="BlackHawk [dT]" foodId="92456" utilityId="48917" healId="31914" utility1Id="40498" utility2Id="12498" utility3Id="12537" eliteId="45717" weapon1MainAffix="Viper" weapon1MainType="Short Bow" weapon1MainSigil1="Bursting" weapon1MainSigil2="Earth" weapon1MainInfusion1Id="37130" weapon2OffAffix="Viper" weapon2OffType="Torch" weapon2OffSigil="Earth" weapon2OffInfusionId="37130" weapon2MainAffix="Viper" weapon2MainType="Dagger" weapon2MainSigil1="Bursting" weapon2MainInfusion1Id="37130">
+
+- Pet: <Skill id="41206" disableText/> Bristleback for dps. <Skill id="46432" disableText/> Warthog if your group needs the CC.
 
 - Take <Trait id="2128"/>.
 

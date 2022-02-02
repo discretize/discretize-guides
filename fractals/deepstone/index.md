@@ -1,6 +1,7 @@
 ---
+cycle: Day
+date: 2022-01-28T09:57:48.815Z
 title: Deepstone
-date: 2021-07-06
 image: ./images/header.jpg
 group: T4
 api: 4224
@@ -8,12 +9,12 @@ bosses: 3
 difficulties:
   - level: 84
     ar: 121
-cycle: Day
-consumables:
-  - 49940
 sigils:
   - id: 24615
   - id: 24554
+consumables:
+  - 49940
+record:
 ---
 
 <Grid>
@@ -230,5 +231,10 @@ After the 20% invulnerability he doesn't teleport away and you can nuke him. Aft
 
 <MDImage src="images/the_voice.jpg" caption="The Voice"/>
 
+<Tabs>
+<Tab specialization="Renegade">
+Use <Skill name="Legendary Dwarf Stance"/> to keep the shades from CCing your party with <Skill name="Inspiring Reinforcement"/>. Alternatively you can use <Skill name="Legendary Demon Stance"/> to pull the shades together with <Skill name="Call to Anguish"/>, but this is hardly relevant with the abundance of either cleave or pulls groups have today.
+</Tab>
+</Tabs>
 </GridItem>
 </Grid>

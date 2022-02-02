@@ -4,7 +4,7 @@ potions:
   - id: 50082
   - id: 8887
     description: against the golems in the final room
-date: 2021-11-15T09:25:52.161Z
+date: 2022-01-31T15:38:02.821Z
 title: Aetherblade
 image: ./images/header.jpg
 group: T4
@@ -19,14 +19,17 @@ sigils:
   - id: 24672
     description: against the golems in the final room
 record:
-  time: 3 min 10 sec
+  time: 2 min 34 sec
   by:
-    - name: Happens
-      tag: hP
+    - name: Discretize
+      tag: dT
   youtube:
-    - id: VkfhMuvB4a0
-      name: Guts
-      specialization: Chronomancer
+    - id: PWoxS6xSSCc
+      name: Seatek
+      specialization: Renegade
+    - id: yWlIQAVaSQA
+      name: Delay
+      specialization: Reaper
 ---
 
 ## Start (water tunnel) <Item id="50082" disableText/>
@@ -48,7 +51,10 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 </Tab>
 <Tab specialization="Engineer">
 
+<p>
 <Skill id="30815"/> will provide <Effect name="Stealth"/> for the party, as well as a smoke field for the party to blast. You can also use <Skill id="5824"/> for a field to blast as well.
+</p>
+
 </Tab>
 </Tabs>
 
@@ -70,7 +76,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 
 After the door opens, you enter a large area with two deathly laser puzzles.
 
-The first one consists of a _moving laser square pattern_ and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="Immobile"/> to you. 
+The first one consists of a _moving laser square pattern_ and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="Immobile"/> to you.
 
 The second area is filled with _spinning lasers_. In exactly the same way as before, four consoles around the area have to be activated to disable the traps.
 
@@ -136,8 +142,6 @@ Use <Skill id="10543"/> to teleport to the platform. Clear conditions with skill
 
 ---
 
-
-
 ## Breach the gate <Item id="50082" disableText/>
 
 Kill the respawning enemies to fill the progress bar and open the gate. Avoid the dazing cannon shots and switch back your skills & traits if needed.
@@ -145,7 +149,7 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 <Tabs>
 <Tab specialization="Revenant">
 
-You can <Skill name="Call to Anguish"/> most mobs to group them.
+You can <Skill name="Call to Anguish"/> most mobs to group them. If you have enough pulls in your group you should use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Inspiring Reinforcement"/> to deny the <Control name="Daze"/>s from the air strikes constantly hitting you.
 </Tab>
 
 <Tab specialization="elementalist">
@@ -155,14 +159,13 @@ Stay in <Skill id="5492"/> after the last trash group for <Boon name="Might"/> s
 
 <Tab specialization="Guardian">
 
-You can use <Skill name="Binding Blade"/> to group the mobs.
+You can use <Skill name="Binding Blade"/> and <TomeSkill name="Chapter 3: Heated Rebuke"/> to group the mobs.
 </Tab>
 <Tab specialization="Necromancer">
 
 You can use <Skill name="spectral grasp"/> to group the mobs.
 </Tab>
 </Tabs>
-
 
 ---
 
@@ -199,12 +202,12 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 
 <Tab specialization="Warrior">
 
-Drop your banners in the very center of the arena.Using <Skill name="whirlwind attack"/> against the wall is very effective.
+Drop your banners in the very center of the arena. Using <Skill name="whirlwind attack"/> against the wall is very effective.
 </Tab>
 
 <Tab specialization="ranger">
 
-Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
+Run an off-hand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 
 <Tab specialization="elementalist">
