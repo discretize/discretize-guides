@@ -8,13 +8,13 @@ skills:
 traits:
 conditions:
 boons:
-  - Might
+  - name: Might
     uptime: 12 Stacks
     variant: party
-  - Fury
+  - name: Fury
     uptime: 100&
     variant: party
-code: ""
+code: ''
 classification:
   - 3
   - 3
@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
 date: 2022-01-12T18:26:52.203Z
-Hidden: True
+hidden: true
 ---
 
 <Warning>
@@ -217,7 +217,7 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
       "utility2": "Banner of Strength",
       "utility3": "Banner of Discipline",
       "elite": "Signet of Rage"
-    },
+    }
   }}
 >
 
@@ -311,7 +311,6 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
     }
 }}>
 
-
 </Character>
 </CharacterWithAr>
 
@@ -324,11 +323,8 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
 <Card title="Extra Weapons">
 
 - Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-
 - Warhorn for pre-stacking <Boon name="Might"/>, can be run instead of Mace if CC isn’t needed.
-
 - Greatsword for mobility and cleave.
-
 - Torch (trade CC for DPS or a fire field).
 
 </Card>
@@ -368,9 +364,7 @@ If the encounter is short enough to precast Banners and swap to different skills
 **Extra notes:**
 
 - If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!
-
 - If you expect your party to be slow it can make sense to bring <Trait name="smashbrawler"/> and eat the initial <Control name="Stun"/> of <Skill name="headbutt"/>.
-
 - Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
 
 </GridItem>
@@ -378,17 +372,16 @@ If the encounter is short enough to precast Banners and swap to different skills
 <GridItem sm="4">
 <Card title="CC skills">
 
-|                              |            |
-| ---------------------------- | ---------- |
-| <Skill name="bullscharge"/>  | 300 damage |
-| <Skill id="14502"/>          | 150 damage |
-| <Skill id="14415"/>          | 300 damage |
-| <Skill id="14503"/>          | 100 damage |
+|                             |            |
+| --------------------------- | ---------- |
+| <Skill name="bullscharge"/> | 300 damage |
+| <Skill id="14502"/>         | 150 damage |
+| <Skill id="14415"/>         | 300 damage |
+| <Skill id="14503"/>         | 100 damage |
 
 **When to take Mace:**
 
 - In fights with only one defiance bar, in the beginning, use Axe/Mace.
-
 - In T4s and encounters that have defiance bars during the fight, use an offhand mace only.
 
 </Card>
@@ -412,23 +405,14 @@ For that reason you can find a video with openers, that are efficient to use her
 <Card title="Precasting">
 
 - Stack <Boon name="Might"/>:
-
   - Use both charges of <Skill name="For Great Justice!"/>.
-
   - Drop a fire field with <Skill name="Flames of War"/>.
-
   - (if available) blast with banners for a total of 6 stacks of <Boon name="Might"/>
-
   - Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand warhorn.
-
 - Precast damage skills:
-
   - (optional) <Skill name="Flames of War"/>
-
   - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
-
   - Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
-
 - If there is a defiance bar present immediately at the start of the fight, start on your Mace set - otherwise swap to it when necessary.
 
 </Card>
@@ -442,23 +426,14 @@ For that reason you can find a video with openers, that are efficient to use her
 Hopefully Anet add these skills to the api otherwise we will have to add them manually
 
 1. <Skill name="Cyclone Trigger"/>
-
 2. <Skill name="Sheathe Gunsaber"/>
-
 3. <Skill name="Dragons Roar"/>
-
 4. <Skill name="Gunstinger"/>
-
 5. <Skill name="Cyclone Axe"/>
-
 6. <Skill name="Throw Axe"/>
-
 7. <Skill name="Chop"/> -> <Skill name="Double Chop"/> -> <Skill name="Triple Chop"/>
-
-8. <Skill name="Unsheathe Gunsaber"/> 
-
+8. <Skill name="Unsheathe Gunsaber"/>
 9. <Skill name="Dragon Trigger"/>
-
 10. <Skill name="Dragon Slash-Force"/>
 
 _Repeat from Step 1_

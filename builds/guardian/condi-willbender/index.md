@@ -28,7 +28,7 @@ classification:
   - 3
 code: ''
 date: 2022-01-11T02:29:01.849Z
-Hidden: True
+hidden: true
 ---
 
 <Warning>
@@ -125,11 +125,11 @@ This build guide is not complete, gear and sections may chage regularly as we ex
     49432
   ],
   "weapons": {
-    "weapon1MainType": 30699,
+    "weapon1MainId": 30699,
     "weapon1MainSigil1Id": 48911,
-    "weapon1OffType": 30700,
+    "weapon1OffId": 30700,
     "weapon1OffSigil1Id": 44944,
-    "weapon2MainType": 30695,
+    "weapon2MainId": 30695,
     "weapon2MainSigil1Id": 24605
   },
   "consumables": {
@@ -164,12 +164,12 @@ You will want the following weapons to swap to durning fractal runs:
 
 <Card title="Defiance Bar Damage">
 
-|                                                                                    |                                                                                |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <Skill name="Hammer of Wisdom"/>                                                   | 200 damage                                                                     |
-| <Skill name="Sanctuary"/>                                                          | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
-| <Skill name="Chains of light"/>                                                    | <Condition name="Immobile"/> 50/s                                              |
-| <Skill name="Heavens Palm"/>                                                       | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
+|                                  |                                                                                |
+| -------------------------------- | ------------------------------------------------------------------------------ |
+| <Skill name="Hammer of Wisdom"/> | 200 damage                                                                     |
+| <Skill name="Sanctuary"/>        | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
+| <Skill name="Chains of light"/>  | <Condition name="Immobile"/> 50/s                                              |
+| <Skill name="Heavens Palm"/>     | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
 
 </Card>
 </GridItem>
@@ -207,59 +207,32 @@ You will want the following weapons to swap to durning fractal runs:
 </Warning>
 
 1.  <Skill name="Rushing Justice"/> (F1)
-
 2.  <Skill id="9104"/> (Torch 4)
-
 3.  <Skill name="Symbol of Blades"/> (Sword 2)
-
 4.  _Weapon Swap_
-
 5.  <Skill name="Purging Flames"/>
-
-6.  <Skill name="Whirling Light"/> 
-
+6.  <Skill name="Whirling Light"/>
 7.  <Skill name="Symbol of Punishment"/> (Scepter 2)
-
 8.  <Skill name="Cleansing Flame"/> (Torch 5)
-
 9.  <Skill id="9089"/> x2 (Torch 4)
-
 10. <Skill name="Orb of Wrath"/> (Scepter 1)
-
 11. <Skill name="Rushing Justice"/> (F1)
-
 12. <Skill name="Orb of Wrath"/> (Scepter 1)
-
 13. <Skill id="9104"/> (Torch 4)
-
 14. <Skill id="9089"/> (Torch 4)
-
 15. <Skill name="Symbol of Punishment"/> (Scepter 2)
-
 16. _Weapon Swap_
-
 17. <Skill name="Symbol of Blades"/> (Sword 2)
-
 18. <Skill name="Zealots Defence"/> (Sword 3)
-
 19. <Skill id="9089"/> (Torch 4)
-
 20. <Skill name="Cleansing Flame"/> (Torch 5)
-
 21. <Skill name="Symbol of Blades"/> (Sword 2)
-
 22. <Skill name="Rushing Justice"/> (F1)
-
 23. <Skill name="Purging Flames"/>
-
-24. <Skill name="Whirling Light"/> 
-
+24. <Skill name="Whirling Light"/>
 25. <Skill id="9104"/> -> <Skill id="9089"/> (Torch 4)
-
 26. <Skill name="Sword of Wrath"/> -> <Skill name="Sword Arc"/> -> <Skill name="Sword Wave"/> (Sword 1)
-
 27. <Skill name="Zealots Defence"/> (Sword 3)
-
 28. <Skill name="Symbol of Blades"/> (Sword 2)
 
 Repeat from step 7.
@@ -281,14 +254,10 @@ The most important part is to get the precast of Ashes of the Just right! You ha
 </Warning>
 
 1.  Use <Skill name="hallowedground"/>
-
 2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
-
-4.  Use <Skill name="Feelmywrath"/>
-
-6.  Take the _Mistlock Singularity_
-
-7.  Use <Skill name="Feelmywrath"/> again
+3.  Use <Skill name="Feelmywrath"/>
+4.  Take the _Mistlock Singularity_
+5.  Use <Skill name="Feelmywrath"/> again
 
 </Card>
 </GridItem>

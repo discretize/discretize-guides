@@ -27,7 +27,7 @@ classification:
   - 3
   - 3
 date: 2022-01-11T02:53:58.478Z
-Hidden: True
+hidden: true
 ---
 
 <Warning>
@@ -246,14 +246,14 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sh
 
 <Card title="CC skills">
 
-|                                                 |            |
-| ----------------------------------------------- | ---------- |
-| <Skill id="9093"/>                              | 300 damage |
-| <Skill id="9226"/> (after <Skill id="9147"/>)   | 150 damage |
-| <Skill name="chainsoflight"/>                   | 250 damage |
-| <Skill name="hammerofwisdom"/>                  | 200 damage |
-| <Skill name="sanctuary"/>                       | 750 damage |
-| <Skill name="Heavens Palm"/>                    | 400 damage (Knockdown) <br/> 150 damage (Knockback)|
+|                                               |                                                     |
+| --------------------------------------------- | --------------------------------------------------- |
+| <Skill id="9093"/>                            | 300 damage                                          |
+| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage                                          |
+| <Skill name="chainsoflight"/>                 | 250 damage                                          |
+| <Skill name="hammerofwisdom"/>                | 200 damage                                          |
+| <Skill name="sanctuary"/>                     | 750 damage                                          |
+| <Skill name="Heavens Palm"/>                  | 400 damage (Knockdown) <br/> 150 damage (Knockback) |
 
 </Card>
 </GridItem>
@@ -351,7 +351,7 @@ This is wrong, just seeing if new skills show
 
 5.  <Skill name="Rushing Justice" profession="guardian"/> (F1)
 
-6.  <Skill name="Flash Combo" profession="guardian"/> 
+6.  <Skill name="Flash Combo" profession="guardian"/>
 
 7.  <Skill name="Zealotsdefense" profession="guardian"/> (Sword 3)
 
@@ -365,13 +365,13 @@ This is wrong, just seeing if new skills show
 
 12. <Skill name="Sword of Justice" profession="guardian"/>
 
-14. <Skill name="Sword of Justice" profession="guardian"/>
+13. <Skill name="Sword of Justice" profession="guardian"/>
 
-15. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
+14. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
 
-16. <Skill name="Binding Blade" profession="guardian"/> (GS 5)
+15. <Skill name="Binding Blade" profession="guardian"/> (GS 5)
 
-17. If the phase lasts longer than this, continue with the SC rotation.
+16. If the phase lasts longer than this, continue with the SC rotation.
 
 </Card>
 </GridItem>

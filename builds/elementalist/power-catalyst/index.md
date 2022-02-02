@@ -17,13 +17,13 @@ conditions:
   - Chilled
   - Vulnerability
 Boons:
-  - Quickness
+  - name: Quickness
     uptime: 100%
-    variant: group 
-  - Might
+    variant: group
+  - name: Might
     uptime:
     variant: party
-Hidden: True
+hidden: true
 ---
 
 <Warning>
@@ -125,11 +125,11 @@ This build has one of the most harder rotations in game which makes it enjoyable
     49432
   ],
   "weapons": {
-    "weapon1MainType": "Hammer",  
+    "weapon1MainType": "Hammer",
     "weapon1MainSigil1Id": 24615,
     "weapon1MainSigil2Id": 24868
   },
-  "consumables": {  
+  "consumables": {
     "foodId": 91805,
     "utilityId": 9443,
     "infusion": "Mighty +9 Agony Infusion"
@@ -230,11 +230,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu) for more gear varian
     49432
   ],
     "weapons": {
-    "weapon1MainType": "Hammer",  
+    "weapon1MainType": "Hammer",
     "weapon1MainSigil1Id": 24615,
     "weapon1MainSigil2Id": 24868
   },
-  "consumables": {  
+  "consumables": {
     "foodId": 91805,
     "utilityId": 9443,
     "infusion": "Mighty +9 Agony Infusion"
@@ -247,6 +247,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu) for more gear varian
     "eliteId": 5516
   }
   }}
+
 >
 
 Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
@@ -336,11 +337,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu) for more gear varian
     49432
   ],
     "weapons": {
-    "weapon1MainType": "Hammer",  
+    "weapon1MainType": "Hammer",
     "weapon1MainSigil1Id": 24615,
     "weapon1MainSigil2Id": 24868
   },
-  "consumables": {  
+  "consumables": {
     "foodId": 91805,
     "utilityId": 9443,
     "infusion": "Mighty +9 Agony Infusion"
@@ -353,11 +354,12 @@ Check the [gear optimizer](https://optimizer.discretize.eu) for more gear varian
     "eliteId": 5516
   }
   }}
+
 >
 
 Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
-</Character> 
+</Character>
 
 </CharacterWithAr>
 
@@ -368,25 +370,25 @@ Check the [gear optimizer](https://optimizer.discretize.eu) for more gear varian
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Catalyst" traits3Selected="Vicious Empowerment,Empowering Auras,Empowered Empowerment"/>
 <Card title="Situational Traits">
 
-|                                                             |                                                                                                                                                                       |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Sphere Specialist" size="big" disableText/>    | If you need extra boon duration from your Jade Sphere (With this trait you can play the DPS gear)                                                                     |
-| <Trait name="Raging Storm" size="big" disableText/>         | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
-| <Trait name="One with Air" size="big" disableText/>         | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+|                                                          |                                                                                                                                                                       |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Sphere Specialist" size="big" disableText/> | If you need extra boon duration from your Jade Sphere (With this trait you can play the DPS gear)                                                                     |
+| <Trait name="Raging Storm" size="big" disableText/>      | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
+| <Trait name="One with Air" size="big" disableText/>      | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
 
 </Card>
 <Card title="Defiance Bar Damage">
 
-|                                                       |                                               |
-| ----------------------------------------------------- | --------------------------------------------- |
-| <Skill name="Wind Storm" size="big" disableText/>     | 200 with <Control name="Knockdown"/>          |
-| <Skill name="Shock Blast" size="big" disableText/>    | 150 with <Control name="Stun"/>               |
-| <Skill name="Wind Blast" size="big" disableText/>     | 232 with <Control name="Launch"/>             |
-| <Skill name="Deep Freeze" size="big" disableText/>    | 300 with <Control name="Stun"/>               |
-| <Skill name="Magnetic Surge" size="big" disableText/> | 200 with <Control name="Daze"/>               |
-| <Skill name="Magnetic Shield" size="big" disableText/> | 150 with <Control name="Pull"/>              |
-| <Skill name="Chilling Crack" size="big" disableText/> <br/> <Skill name="Rain of Blows" size="big" disableText/> <br/> <Skill name="Twin Strike" size="big" disableText/>  | 33 / s with <Condition name="Chilled"/>       |
-| <Skill name="Crescent Wind" size="big" disableText/>  | 20 / s  with <Condition name="Weakness"/>     |
+|                                                                                                                                                                           |                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| <Skill name="Wind Storm" size="big" disableText/>                                                                                                                         | 200 with <Control name="Knockdown"/>     |
+| <Skill name="Shock Blast" size="big" disableText/>                                                                                                                        | 150 with <Control name="Stun"/>          |
+| <Skill name="Wind Blast" size="big" disableText/>                                                                                                                         | 232 with <Control name="Launch"/>        |
+| <Skill name="Deep Freeze" size="big" disableText/>                                                                                                                        | 300 with <Control name="Stun"/>          |
+| <Skill name="Magnetic Surge" size="big" disableText/>                                                                                                                     | 200 with <Control name="Daze"/>          |
+| <Skill name="Magnetic Shield" size="big" disableText/>                                                                                                                    | 150 with <Control name="Pull"/>          |
+| <Skill name="Chilling Crack" size="big" disableText/> <br/> <Skill name="Rain of Blows" size="big" disableText/> <br/> <Skill name="Twin Strike" size="big" disableText/> | 33 / s with <Condition name="Chilled"/>  |
+| <Skill name="Crescent Wind" size="big" disableText/>                                                                                                                      | 20 / s with <Condition name="Weakness"/> |
 
 </Card>
 </GridItem>
@@ -413,13 +415,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu) for more gear varian
 | <Skill name="Arcane Brilliance" size="big" disableText/>        | Take it for additional <Boon name="Might"/> from fire fields.                                                                                                                                                                                                                                                                              |
 | <Skill name="Signet of Restoration" size="big" disableText/>    | Helps with keeping up <Item name="scholar"/> when burst heal is not needed.                                                                                                                                                                                                                                                                |
 | Offensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | Good on larger hitboxes and fast phase times instead of <Skill name="Shattering Ice"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                        |
+| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | Good on larger hitboxes and fast phase times instead of <Skill name="Shattering Ice"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                           |
 | <Skill name="Conjure Frostbow" size="big" disableText/>         | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.                                                                                                                                                                                                                                                |
 | Defensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
 | <Skill name="Arcane Shield" size="big" disableText/>            | Provides three blocks for things like the console in [Aetherblade Fractal](/fractals/aetherblade).                                                                                                                                                                                                                                         |
 | <Skill name="Armor of Earth" size="big" disableText/>           | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>.                                                                                                                                                                                                                                           |
 | <Skill name="Fortified Earth" size="big" disableText/>          | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).                                                                                                                                                                                                                    |
-| <Skill name="Conjure Earth Shield" size="big" disableText/>     | Precasted for additional cc on encounters like Artsariiv.                                                                                                                                                                                                                                                |
+| <Skill name="Conjure Earth Shield" size="big" disableText/>     | Precasted for additional cc on encounters like Artsariiv.                                                                                                                                                                                                                                                                                  |
 | Utility                                                         | Another defensive utility skill granting a block and some barrier.                                                                                                                                                                                                                                                                         |
 | <Skill name="Lightning Flash" size="big" disableText/>          | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Arcane Wave" size="big" disableText/>              | Also Useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                                                                                                                                            |
@@ -456,7 +458,7 @@ If a _Mistlock Singularity_ is present you should precast boons and particular e
 <GridItem xs="12" sm="12">
 <Card title="Rotation (Bolt to the Heart)">
 
-This is very wrong, borrowed a kind of loop from one of Rouls benchmarks just to see if the skills are working. 
+This is very wrong, borrowed a kind of loop from one of Rouls benchmarks just to see if the skills are working.
 
 </Card>
 
@@ -469,13 +471,13 @@ This is very wrong, borrowed a kind of loop from one of Rouls benchmarks just to
 
 1.  <Skill name="Hurricane of Pain"/>
 
-2. <Skill id="63439"/>
+2.  <Skill id="63439"/>
 
 3.  <Skill name="Grand Finale"/>
 
 4.  <Skill name="Wind Slam"/> x 2
 
-5. <Skill name="Shock Blast"/>
+5.  <Skill name="Shock Blast"/>
 
 </GridItem>
 
@@ -491,17 +493,17 @@ This is very wrong, borrowed a kind of loop from one of Rouls benchmarks just to
 
 3.  <Skill name="Surging Flames"/>
 
-4. <Skill id="63458"/>
+4.  <Skill id="63458"/>
 
 5.  <Skill name="Singeing Strike"/>
 
-6.  <Skill name="Relentless Fire"/> 
+6.  <Skill name="Relentless Fire"/>
 
 7.  <Skill name="Singeing Strike"/> x3
 
-8. <Skill name="Molten End"/>
+8.  <Skill name="Molten End"/>
 
-9. <Skill id="63458"/>
+9.  <Skill id="63458"/>
 
 </GridItem>
 
@@ -511,9 +513,9 @@ This is very wrong, borrowed a kind of loop from one of Rouls benchmarks just to
 
 <GridItem sm="10">
 
-1.  <Skill name="Rain of Blows"/> 
+1.  <Skill name="Rain of Blows"/>
 
-2.  <Skill name="Cleansing Typhoon"/> 
+2.  <Skill name="Cleansing Typhoon"/>
 
 3.  <Skill name="Shattering Ice"/>
 
