@@ -21,14 +21,14 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: no code
+code: "[&DQExOQ0mPj9LFwAAeAEAAFMXAAC5AQAAcRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-date: 2022-02-02T15:25:28.272Z
+date: 2022-02-02T15:28:00.602Z
 ---
 
 <Warning>
