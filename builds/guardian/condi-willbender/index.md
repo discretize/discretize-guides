@@ -1,10 +1,11 @@
 ---
 title: Condi Willbender
+hidden: true
 rating: Good
 role: Condi Damage
 profession: Guardian
 specialization: Willbender
-skills:
+skills: null
 conditions:
   - Burning
   - Vulnerability
@@ -20,15 +21,14 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
+code: "[&DQExOQ0mPj9LFwAAeAEAAFMXAAC5AQAAcRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-code: ''
-date: 2022-01-11T02:29:01.849Z
-hidden: true
+date: 2022-02-02T15:28:00.602Z
 ---
 
 <Warning>
@@ -124,14 +124,14 @@ This build guide is not complete, gear and sections may chage regularly as we ex
     49432,
     49432
   ],
-  "weapons": {
-    "weapon1MainId": 30699,
-    "weapon1MainSigil1Id": 48911,
-    "weapon1OffId": 30700,
-    "weapon1OffSigil1Id": 44944,
-    "weapon2MainId": 30695,
-    "weapon2MainSigil1Id": 24605
-  },
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1Id": 48911,
+      "weapon1OffType": "Torch",
+      "weapon1OffSigilId": 44944,
+      "weapon2MainType": "Scepter",
+      "weapon2MainSigil1Id": 24605
+    },
   "consumables": {
       "foodId": "91878",
       "utility": "toxic-focusing-crystal",
