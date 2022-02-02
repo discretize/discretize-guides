@@ -143,7 +143,7 @@ This build has one of the most harder rotations in game which makes it enjoyable
   }
 }} >
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
 </Character>
 
@@ -249,7 +249,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
   }}
 >
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
 </Character>
 
@@ -355,7 +355,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
   }}
 >
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
 </Character> 
 
