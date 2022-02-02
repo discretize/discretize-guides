@@ -143,7 +143,7 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-This is a budget variant, aim for at least 212 Agony Resistance.
+This is a budget variant, aim for as much Agony Resistance as possible.
 Utilize the gear optimizer if you are somewhere between 162 and 212 Agony Resistance.
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
@@ -242,100 +242,6 @@ If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
-<Character gear={{
-    "profession": "Mesmer",
-    "weight": "Light",
-    "gear": [
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Assassin",
-      "Berserker",
-      "Berserker",
-      "Assassin",
-      "Assassin",
-      "Assassin",
-      "Assassin",
-      "Berserker",
-      "Berserker",
-      "Berserker"
-    ],
-    "attributes": {
-      "Health": 15922,
-      "Armor": 2300,
-      "Power": 3315,
-      "Precision": 2575,
-      "Toughness": 1333,
-      "Vitality": 1000,
-      "Ferocity": 1556,
-      "Condition Damage": 750,
-      "Expertise": 0,
-      "Concentration": 333,
-      "Healing Power": 0,
-      "Agony Resistance": 222,
-      "Condition Duration": 0,
-      "Boon Duration": 0.222,
-      "Critical Chance": 1,
-      "Critical Damage": 2.5373333333333337,
-      "Effective Power": 29016.38491907903,
-      "Power DPS": 43094.41533803921,
-      "Bleeding Damage": 96.3125,
-      "Bleeding Stacks": 24,
-      "Bleeding DPS": 2311.5,
-      "Burning Damage": 355.421875,
-      "Burning Stacks": 0.63,
-      "Burning DPS": 223.91578125,
-      "Confusion Damage": 118.665625,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 112.84375,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 142.74375,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Damage": 45629.83111928921,
-      "Effective Health": 80974239.91155335,
-      "Survivability": 41166.36497791223,
-      "Effective Healing": 390,
-      "Healing": 390
-    },
-      "runeId": 24836,
-      "runeName": "Scholar",
-      "infusions": [
-        37131, 37131, 37131, 37131, 37131, 37131, 37131,
-        37131, 37131, 37131, 37131, 37131, 37131, 37131,
-        37131, 37131, 37131, 37131
-      ],
-      "weapons": {
-        "weapon1MainType": "Sword",
-        "weapon1MainSigil1Id": 24615,
-        "weapon1OffType": "Sword",
-        "weapon1OffSigilId": 24868,
-        "weapon2OffType": "Focus",
-        "weapon2OffSigilId": 24868
-      },
-      "consumables": {
-        "foodId": 91805,
-        "utilityId": 9443,
-        "infusion": "Mighty +9 Agony Infusion"
-      },
-      "skills": {
-        "heal": "Signet of the Ether",
-        "utility1": "Mantra of Pain",
-        "utility2": "Phantasmal Disenchanter",
-        "utility3": "MIrror Images",
-        "elite": "Signet of Humility"
-      }
-    }}
-  >
-
-If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Character> 
 </CharacterWithAr>
 
 <Divider text="Build"/>
