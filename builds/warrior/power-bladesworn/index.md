@@ -35,9 +35,7 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a strong buil
 
 Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
-The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone.
-
-Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
+The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone. Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
 <Divider text="Equipment"/>
 
