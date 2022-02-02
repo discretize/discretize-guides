@@ -1,9 +1,9 @@
 ---
-title: Condi Spectre
+title: Condi Specter
 rating: Good
 role: Condi Damage
 profession: Thief
-specialization: Spectre
+specialization: Specter
 skills:
 conditions:
   - Vulnerability
