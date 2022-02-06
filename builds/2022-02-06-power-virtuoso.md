@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-02-06T12:57:50.971Z
+date: 2022-02-06T13:00:40.378Z
 ---
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals. You'll provide boon removal through your clones, auto-attack chains, <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
 
@@ -390,6 +390,7 @@ At the Mistlock Singularity
 - Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
 - Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
 - Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
+- Make sure to start with 5 Blades. If you need use <Skill name="Blade Renewal"/> to replenish them.
 
 At the boss (spawnable bosses)
 
