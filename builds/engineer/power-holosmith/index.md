@@ -25,7 +25,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-02-17T17:01:58.660Z
+date: 2022-02-17T22:17:40.858Z
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
@@ -168,7 +168,7 @@ Due to the naturally high crit-chance from the Firearms Trait Line, this build d
 |                                    |            |
 | ---------------------------------- | ---------- |
 | <Skill id="21661"/>                | 200 damage |
-| <Skill name="Magnetic Inversion"/> | 100 damage |
+| <Skill name="Magnetic Inversion"/> | 150 damage |
 | <Skill id="6057"/>                 | 100 damage |
 | <Skill id="42009"/>                | 232 damage |
 | <Skill id="42521"/>                | 232 damage |
