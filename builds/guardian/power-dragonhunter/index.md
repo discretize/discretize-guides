@@ -23,14 +23,14 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQLyo6GzkmDwAAihIAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 2
   - 4
-date: 2022-03-02T22:29:12.887Z
+date: 2022-03-02T22:40:33.634Z
 cmGuide: " "
 ---
 
@@ -464,7 +464,7 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 
 <Card title="Virtues">
 
