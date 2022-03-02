@@ -1,12 +1,13 @@
 ---
 title: Power (Banner) Bladesworn
+hidden: false
 rating: Good
 role: Power Damage
 profession: Warrior
 specialization: BLadesworn
-skills:
-traits:
-conditions:
+skills: null
+traits: null
+conditions: null
 boons:
   - name: Might
     uptime: 12 Stacks
@@ -14,15 +15,14 @@ boons:
   - name: Fury
     uptime: 100&
     variant: party
-code: ''
+code: "[&DQIEHzMWRCunAAAAAAAAAKwACgCqAKIBnACcAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-date: 2022-01-12T18:26:52.203Z
-hidden: true
+date: 2022-03-02T20:29:02.907Z
 ---
 
 <Warning>
@@ -112,8 +112,6 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
       "weapon1MainSigil1Id": 24615,
       "weapon1OffType": "Pistol",
       "weapon1OffSigilId": 24868,
-      "weapon2OffType": "Mace",
-      "weapon2OffSigil": "Paralyzation"
     },
     "consumables": {
       "foodId": 91805,
@@ -204,8 +202,6 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
       "weapon1MainSigil1Id": 24615,
       "weapon1OffType": "Pistol",
       "weapon1OffSigilId": 24868,
-      "weapon2OffType": "Mace",
-      "weapon2OffSigil": "Paralyzation"
     },
     "consumables": {
       "foodId": 91805,
@@ -295,8 +291,6 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
       "weapon1MainSigil1Id": 24615,
       "weapon1OffType": "Pistol",
       "weapon1OffSigilId": 24868,
-      "weapon2OffType": "Mace",
-      "weapon2OffSigil": "Severance"
     },
     "consumables": {
       "foodId": 91805,
@@ -322,8 +316,8 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
 
 <Card title="Extra Weapons">
 
-- Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-- Warhorn for pre-stacking <Boon name="Might"/>, can be run instead of Mace if CC isn’t needed.
+- Axes and Pistols with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+- Warhorn for pre-stacking <Boon name="Might"/>
 - Greatsword for mobility and cleave.
 - Torch (trade CC for DPS or a fire field).
 
@@ -423,9 +417,9 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <Card title="Golem Rotation">
 
-Hopefully Anet add these skills to the api otherwise we will have to add them manually
+Start in <Skill name="Unsheathe Gunsaber"/> 
 
-1. <Skill name="Cyclone Trigger"/>
+1. Cyclone Trigger in <Skill name="Unsheathe Gunsaber"/> (Skill 4)
 2. <Skill name="Sheathe Gunsaber"/>
 3. <Skill name="Dragons Roar"/>
 4. <Skill name="Gunstinger"/>
@@ -434,7 +428,7 @@ Hopefully Anet add these skills to the api otherwise we will have to add them ma
 7. <Skill name="Chop"/> -> <Skill name="Double Chop"/> -> <Skill name="Triple Chop"/>
 8. <Skill name="Unsheathe Gunsaber"/>
 9. <Skill name="Dragon Trigger"/>
-10. <Skill name="Dragon Slash-Force"/>
+10. Dragon Slash-Force in <Skill name="Dragon Trigger"/> (Skill 1)
 
 _Repeat from Step 1_
 
