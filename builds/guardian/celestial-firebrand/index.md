@@ -24,15 +24,15 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: '[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 3
   - 4
   - 3
   - 4
-date: 2022-01-13T16:53:16.828Z
-cmGuide: ''
+date: 2022-03-02T02:08:54.091Z
+cmGuide: ""
 ---
 
 The **<Specialization text="Celestial Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
@@ -499,6 +499,7 @@ As you will have seen from the equipment, Celestial/Seraph Firebrand has many va
 
 - **Viper -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Condition Damage"/>, <Attribute name="Expertise"/>
 
+- **Ritualist -** <Attribute name="Vitality"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/>
 </GridItem>
 <GridItem>
 
@@ -706,7 +707,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 
 2.  Blast the fire field by casting <Skill name="Holy Strike"/>
 
-3.  Use <Skill name="Mantra of Potence"/> 3 times and <Skill name="Mantra of Solace"/> once due to the cooldown of <Trait name="Stalwart Speed"/>
+3.  Use <Skill name="Mantra of Potence"/> 3 times and <Skill name="Mantra of Solace"/> once due to the cooldown of <Trait name="Liberators Vow"/>
 
 4.  Use <Skill name="Empower"/> as you are sharing <Boon name="Quickness"/>.
 
