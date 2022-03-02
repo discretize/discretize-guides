@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-03-02T01:51:31.446Z
+date: 2022-03-02T20:09:43.532Z
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing good DPS.
@@ -44,65 +44,72 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="162 Agony Resistance (Spotter/Banner 46%bd)" gear={{
-    "profession": "Guardian",
-    "weight": "Heavy",
-    "gear": [
-      "Diviner",
-      "Assassin",
-      "Berserker",
-      "Assassin",
-      "Diviner",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Assassin",
-      "Assassin",
-      "Berserker",
-      "Berserker",
-      "Berserker"
-    ],
-    "attributes": {
-      "Health": 14145,
-      "Armor": 2514,
-      "Power": 3772,
-      "Precision": 2364,
-      "Toughness": 1243,
-      "Vitality": 1250,
-      "Ferocity": 1518,
-      "Condition Damage": 1000,
-      "Expertise": 0,
-      "Concentration": 378,
-      "Healing Power": 250,
-      "Agony Resistance": 162,
-      "Condition Duration": 0,
-      "Boon Duration": 0.252,
-      "Critical Chance": 0.9995238095238095,
-      "Critical Damage": 2.512,
-      "Effective Power": 25145.782511467416,
-      "Power DPS": 32824.10578123779,
-      "Bleeding Damage": 117.875,
-      "Bleeding Stacks": 0,
-      "Bleeding DPS": 0,
-      "Burning Damage": 411.125,
-      "Burning Stacks": 1.1,
-      "Burning DPS": 452.2375,
-      "Confusion Damage": 143.4625,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 134.40625,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 175.0875,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Damage": 33276.343281237794,
-      "Effective Health": 78630248.75621891,
-      "Survivability": 39974.707044341085,
-      "Effective Healing": 465,
-      "Healing": 465
-    },
+<Character title="162 Agony Resistance (No Spotter/Banner)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Assassin",
+    "Assassin",
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Diviner",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 14145,
+    "Armor": 2514,
+    "Power": 3850,
+    "Precision": 2364,
+    "Toughness": 1243,
+    "Vitality": 1250,
+    "Ferocity": 1474,
+    "Condition Damage": 1000,
+    "Expertise": 0,
+    "Concentration": 537,
+    "Healing Power": 250,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.358,
+    "Critical Chance": 0.9995238095238095,
+    "Critical Damage": 2.482666666666667,
+    "Power Coefficient": 3390,
+    "Burning Coefficient": 1.1,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Effective Power": 23060.10425679192,
+    "Power DPS": 30101.560812677944,
+    "Bleeding Damage": 117.875,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 411.125,
+    "Burning Stacks": 1.1,
+    "Burning DPS": 452.2375,
+    "Confusion Damage": 143.4625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 134.40625,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 175.0875,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 30553.798312677944,
+    "Effective Health": 70767223.88059703,
+    "Survivability": 35977.23633990698,
+    "Effective Healing": 465,
+    "Healing": 465
+  },
     "runeId": 24836,
     "runeName": "Scholar",
     "infusions": [
@@ -136,7 +143,113 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
-If you play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will need to use <Item name="Bowl of Curry Butternut Squash Soup"/> or <Trait name="Right Hand Strength"/> to [Crit Cap](/guides/crit-cap/).
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+
+</Character>
+
+<Character title="162 Agony Resistance (Spotter/Banner)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Berserker",
+    "Assassin",
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Diviner",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 14145,
+    "Armor": 2514,
+    "Power": 3947,
+    "Precision": 2364,
+    "Toughness": 1243,
+    "Vitality": 1250,
+    "Ferocity": 1474,
+    "Condition Damage": 1000,
+    "Expertise": 0,
+    "Concentration": 537,
+    "Healing Power": 250,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.358,
+    "Critical Chance": 0.9995238095238095,
+    "Critical Damage": 2.482666666666667,
+    "Power Coefficient": 3390,
+    "Burning Coefficient": 1.1,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Effective Power": 23641.099091313692,
+    "Power DPS": 30859.963773412946,
+    "Bleeding Damage": 117.875,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 411.125,
+    "Burning Stacks": 1.1,
+    "Burning DPS": 452.2375,
+    "Confusion Damage": 143.4625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 134.40625,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 175.0875,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 31312.201273412946,
+    "Effective Health": 70767223.88059703,
+    "Survivability": 35977.23633990698,
+    "Effective Healing": 465,
+    "Healing": 465
+  },
+    "runeId": 24836,
+    "runeName": "Scholar",
+    "infusions": [
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131
+    ],
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1Id": 24615,
+      "weapon1OffType": "Focus",
+      "weapon1OffSigilId": 24868,
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1Id": 24615,
+      "weapon2MainSigil2Id": 24868
+    },
+    "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Mantra of Solace",
+      "utility1": "Mantra of Potence",
+      "utility2": "Sword of Justice",
+      "utility3": "Bane Signet",
+      "elite": "Feel my Wrath"
+    }
+  }}
+>
+
+If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
+
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -147,17 +260,17 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
-    "Assassin",
-    "Assassin",
     "Diviner",
-    "Assassin",
-    "Assassin",
-    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
     "Berserker",
     "Assassin",
-    "Assassin",
+    "Berserker",
     "Diviner",
-    "Diviner",
+    "Berserker",
+    "Berserker",
     "Diviner",
     "Berserker",
     "Berserker"
@@ -165,20 +278,20 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   "attributes": {
     "Health": 14145,
     "Armor": 2604,
-    "Power": 3790,
-    "Precision": 2363,
+    "Power": 3974,
+    "Precision": 2366,
     "Toughness": 1333,
     "Vitality": 1250,
-    "Ferocity": 1459,
+    "Ferocity": 1499,
     "Condition Damage": 1000,
     "Expertise": 0,
-    "Concentration": 690,
+    "Concentration": 545,
     "Healing Power": 250,
     "Agony Resistance": 222,
     "Condition Duration": 0,
-    "Boon Duration": 0.46,
-    "Critical Chance": 0.999047619047619,
-    "Critical Damage": 2.4726666666666666,
+    "Boon Duration": 0.36333333333333334,
+    "Critical Chance": 1.0004761904761905,
+    "Critical Damage": 2.4993333333333334,
     "Power Coefficient": 3390,
     "Burning Coefficient": 1.1,
     "Bleeding Coefficient": 0,
@@ -186,8 +299,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Effective Power": 22602.892669740893,
-    "Power DPS": 29504.7386023957,
+    "Effective Power": 23969.429198123482,
+    "Power DPS": 31288.550243218564,
     "Bleeding Damage": 117.875,
     "Bleeding Stacks": 0,
     "Bleeding DPS": 0,
@@ -203,7 +316,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Torment Damage": 175.0875,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 29956.9761023957,
+    "Damage": 31740.787743218563,
     "Effective Health": 73300656.71641792,
     "Survivability": 37265.20422797048,
     "Effective Healing": 465,
@@ -242,7 +355,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
-If you can upkeep <Boon name="resolution"/>, you can play <Trait name="Right Hand Strength"/> allowing you to run more Berserker gear.
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -252,38 +365,38 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
+    "Diviner",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Dragon",
     "Berserker",
     "Berserker",
     "Diviner",
+    "Dragon",
     "Berserker",
-    "Assassin",
     "Berserker",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Diviner",
-    "Diviner",
     "Diviner",
     "Berserker",
     "Berserker"
   ],
   "attributes": {
-    "Health": 14145,
+    "Health": 15145,
     "Armor": 2604,
-    "Power": 3885,
+    "Power": 3989,
     "Precision": 2365,
     "Toughness": 1333,
-    "Vitality": 1250,
-    "Ferocity": 1459,
+    "Vitality": 1350,
+    "Ferocity": 1534,
     "Condition Damage": 1000,
     "Expertise": 0,
-    "Concentration": 690,
+    "Concentration": 545,
     "Healing Power": 250,
     "Agony Resistance": 222,
     "Condition Duration": 0,
-    "Boon Duration": 0.46,
+    "Boon Duration": 0.36333333333333334,
     "Critical Chance": 1,
-    "Critical Damage": 2.4726666666666666,
+    "Critical Damage": 2.522666666666667,
     "Power Coefficient": 3390,
     "Burning Coefficient": 1.1,
     "Bleeding Coefficient": 0,
@@ -291,8 +404,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Effective Power": 23182.605520864166,
-    "Power DPS": 30261.46812311495,
+    "Effective Power": 24284.521624612687,
+    "Power DPS": 31699.85687617906,
     "Bleeding Damage": 117.875,
     "Bleeding Stacks": 0,
     "Bleeding DPS": 0,
@@ -308,9 +421,9 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Torment Damage": 175.0875,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 30713.70562311495,
-    "Effective Health": 73300656.71641792,
-    "Survivability": 37265.20422797048,
+    "Damage": 32152.09437617906,
+    "Effective Health": 78482746.26865673,
+    "Survivability": 39899.71848940352,
     "Effective Healing": 465,
     "Healing": 465
   },
@@ -347,7 +460,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
-If you can upkeep <Boon name="resolution"/>, you can play <Trait name="Right Hand Strength"/> allowing you to run more Berserker gear.
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
