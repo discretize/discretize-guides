@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-02T20:31:34.386Z
+date: 2022-03-02T21:38:06.608Z
 ---
 
 <Warning>
@@ -46,59 +46,66 @@ This build guide is not complete, gear and sections may chage regularly as we ex
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
+    "Grieving",
+    "Sinister",
+    "Grieving",
+    "Sinister",
+    "Grieving",
+    "Sinister",
     "Viper",
-    "Viper",
-    "Viper",
+    "Grieving",
     "Viper",
     "Viper",
     "Viper",
     "Sinister",
-    "Sinister",
-    "Viper",
-    "Sinister",
-    "Sinister",
-    "Sinister",
-    "Viper",
-    "Viper"
+    "Grieving",
+    "Grieving"
   ],
   "attributes": {
     "Health": 12810,
     "Armor": 2514,
-    "Power": 2909,
-    "Precision": 2085,
+    "Power": 2973,
+    "Precision": 2075,
     "Toughness": 1243,
     "Vitality": 1000,
-    "Ferocity": 300,
-    "Condition Damage": 2927,
-    "Expertise": 451,
+    "Ferocity": 615,
+    "Condition Damage": 2770,
+    "Expertise": 225,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.30066666666666664,
+    "Condition Duration": 0.15,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.8666666666666666,
-    "Critical Damage": 1.7,
-    "Burning Duration": 0.7,
+    "Critical Chance": 0.8619047619047618,
+    "Critical Damage": 1.91,
+    "Power Coefficient": 2715,
+    "Burning Coefficient": 14.65,
+    "Bleeding Coefficient": 1.14,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 1.33,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Burning Duration": 0.8500000000000001,
     "Maximum Health": 0.10000000000000009,
     "Resolution Duration": 0.25,
-    "Effective Power": 8852.398263000001,
-    "Power DPS": 9254.625061241817,
-    "Bleeding Damage": 333.48375,
-    "Bleeding Stacks": 1.4827599999999999,
-    "Bleeding DPS": 494.47636514999994,
-    "Burning Damage": 1134.654328125,
+    "Effective Power": 10047.60000315,
+    "Power DPS": 10504.133233943878,
+    "Bleeding Damage": 317.5875,
+    "Bleeding Stacks": 1.3109999999999997,
+    "Bleeding DPS": 416.3572124999999,
+    "Burning Damage": 1087.42921875,
     "Burning Stacks": 29.3,
-    "Burning DPS": 33245.3718140625,
-    "Confusion Damage": 392.7875625,
+    "Burning DPS": 31861.676109375003,
+    "Confusion Damage": 374.506875,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 352.89,
+    "Poison Damage": 336.99375,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 498.20062500000006,
-    "Torment Stacks": 1.7298866666666668,
-    "Torment DPS": 861.8306185125001,
-    "Damage": 43856.303858966814,
+    "Torment Damage": 474.35624999999993,
+    "Torment Stacks": 1.5294999999999999,
+    "Torment DPS": 725.5278843749999,
+    "Damage": 43507.69444019388,
     "Effective Health": 64088238.805970155,
     "Survivability": 32581.717745790622,
     "Effective Healing": 390,
@@ -147,6 +154,8 @@ This build guide is not complete, gear and sections may chage regularly as we ex
   }
 }} 
 >
+
+This is the optimal gear setup but at a minimal DPS loss you can also use the same gear as <BuildLink build="Condi Firebrand" specialization="Firebrand"/>.
 
 If you need to swap a utility out, <Skill name="Signet of Wrath"/> is a minor dps increase and should be swapped out when other skills suit the encounter better.
 You will want the following weapons to swap to durning fractal runs:
