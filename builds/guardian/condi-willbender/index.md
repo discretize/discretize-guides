@@ -1,6 +1,6 @@
 ---
 title: Condi Willbender
-hidden: true
+hidden: false
 rating: Good
 role: Condi Damage
 profession: Guardian
@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-02T01:06:10.949Z
+date: 2022-03-02T01:59:48.299Z
 ---
 
 <Warning>
