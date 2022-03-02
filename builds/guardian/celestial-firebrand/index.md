@@ -31,7 +31,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-03-02T02:08:54.091Z
+date: 2022-03-02T02:09:49.799Z
 cmGuide: ""
 ---
 
@@ -480,7 +480,7 @@ Check the build section for some common gear variations. You can also use our [g
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>.                                                     |
 | <Trait name="pureofheart" size="big" disableText/>          | Taken if the group is struggling with healing.                                                                               |
-| <Trait name="stalwartspeed" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/>). |
+| <Trait name="stalwartspeed" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/> or <Skill name="Advance"/>). |
 
 </Card>
 </GridItem>
