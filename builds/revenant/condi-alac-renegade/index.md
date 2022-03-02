@@ -27,7 +27,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-03-01T23:23:24.748Z
+date: 2022-03-02T01:16:19.619Z
 ---
 
 <Divider text="Overview"/>
@@ -338,12 +338,12 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
     ],
     "weapons": {
       "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "geomancy",
+      "weapon1MainSigil1": "earth",
       "weapon1OffType": "Axe",
-      "weapon1OffSigil": "doom",
+      "weapon1OffSigil": "geomancy",
       "weapon2MainType": "Short Bow",
       "weapon2MainSigil1": "torment",
-      "weapon2MainSigil2": "earth"
+      "weapon2MainSigil2": "geomancy"
     },
     "consumables": {
       "foodId": "91878",
