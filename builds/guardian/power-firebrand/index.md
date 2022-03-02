@@ -1,5 +1,5 @@
 ---
-title: Power Quickness Firebrand
+title: Power (Quick) Firebrand
 rating: Power Meta
 role: Power Damage
 author: ganymed.3541
@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: '[&DQEQLyo6PjpLFwAAehYAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: static
 classification:
   - 5
@@ -28,12 +28,12 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-01-12T01:56:10.382Z
+date: 2022-03-02T20:18:42.895Z
 ---
 
-The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing very decent DPS.
+The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing good DPS.
 
-It plays very similar to <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> with the addition of <Specialization name="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
+It plays very similar to <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> and <BuildLink build="Power Willbender" specialization="Willbender"/> with the addition of <Specialization name="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
 
 Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' <Attribute name="Power"/> by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
@@ -41,68 +41,82 @@ Using <Skill name="Bane Signet"/> to break defiance bars also increases your all
 Its worth mentioning that <Specialization text="Power Quickness Firebrand" name="Firebrand"/> is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run <BuildLink build="Condi Firebrand" specialization="Firebrand"/> as it provides much higher sustained DPS.
 </Warning>
 
+<Warning>
+There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
+- <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 35.6%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Stalwart Speed"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 47.6%bd
+</Warning>
+
+
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="162 Agony Resistance (24.6% BD)" gear={{
-    "profession": "Guardian",
-    "weight": "Heavy",
-    "gear": [
-      "Diviner",
-      "Assassin",
-      "Berserker",
-      "Assassin",
-      "Diviner",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Assassin",
-      "Assassin",
-      "Berserker",
-      "Berserker",
-      "Berserker"
-    ],
-    "attributes": {
-      "Health": 14145,
-      "Armor": 2514,
-      "Power": 3772,
-      "Precision": 2364,
-      "Toughness": 1243,
-      "Vitality": 1250,
-      "Ferocity": 1518,
-      "Condition Damage": 1000,
-      "Expertise": 0,
-      "Concentration": 378,
-      "Healing Power": 250,
-      "Agony Resistance": 162,
-      "Condition Duration": 0,
-      "Boon Duration": 0.252,
-      "Critical Chance": 0.9995238095238095,
-      "Critical Damage": 2.512,
-      "Effective Power": 25145.782511467416,
-      "Power DPS": 32824.10578123779,
-      "Bleeding Damage": 117.875,
-      "Bleeding Stacks": 0,
-      "Bleeding DPS": 0,
-      "Burning Damage": 411.125,
-      "Burning Stacks": 1.1,
-      "Burning DPS": 452.2375,
-      "Confusion Damage": 143.4625,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 134.40625,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 175.0875,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Damage": 33276.343281237794,
-      "Effective Health": 78630248.75621891,
-      "Survivability": 39974.707044341085,
-      "Effective Healing": 465,
-      "Healing": 465
-    },
+<Character title="162 Agony Resistance (No Spotter/Banner)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Assassin",
+    "Assassin",
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Diviner",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 14145,
+    "Armor": 2514,
+    "Power": 3850,
+    "Precision": 2364,
+    "Toughness": 1243,
+    "Vitality": 1250,
+    "Ferocity": 1474,
+    "Condition Damage": 1000,
+    "Expertise": 0,
+    "Concentration": 537,
+    "Healing Power": 250,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.358,
+    "Critical Chance": 0.9995238095238095,
+    "Critical Damage": 2.482666666666667,
+    "Power Coefficient": 3390,
+    "Burning Coefficient": 1.1,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Effective Power": 23060.10425679192,
+    "Power DPS": 30101.560812677944,
+    "Bleeding Damage": 117.875,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 411.125,
+    "Burning Stacks": 1.1,
+    "Burning DPS": 452.2375,
+    "Confusion Damage": 143.4625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 134.40625,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 175.0875,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 30553.798312677944,
+    "Effective Health": 70767223.88059703,
+    "Survivability": 35977.23633990698,
+    "Effective Healing": 465,
+    "Healing": 465
+  },
     "runeId": 24836,
     "runeName": "Scholar",
     "infusions": [
@@ -134,72 +148,81 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
   }}
 >
 
-Note that this build variant only gains boon duration from the <Item id="79722"/>.
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
-If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-</Character>  
-<Character title="222 Agony Resistance (24.6% BD)" gear={{
-    "profession": "Guardian",
-    "weight": "Heavy",
-    "gear": [
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Diviner",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker"
-    ],
-    "attributes": {
-      "Health": 14145,
-      "Armor": 2604,
-      "Power": 3885,
-      "Precision": 2382,
-      "Toughness": 1333,
-      "Vitality": 1250,
-      "Ferocity": 1544,
-      "Condition Damage": 1000,
-      "Expertise": 0,
-      "Concentration": 373,
-      "Healing Power": 250,
-      "Agony Resistance": 222,
-      "Condition Duration": 0,
-      "Boon Duration": 0.24866666666666667,
-      "Critical Chance": 1.0080952380952382,
-      "Critical Damage": 2.5293333333333337,
-      "Effective Power": 26085.275244209908,
-      "Power DPS": 34050.47480857589,
-      "Bleeding Damage": 117.875,
-      "Bleeding Stacks": 0,
-      "Bleeding DPS": 0,
-      "Burning Damage": 411.125,
-      "Burning Stacks": 1.1,
-      "Burning DPS": 452.2375,
-      "Confusion Damage": 143.4625,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 134.40625,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 175.0875,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Damage": 34502.712308575894,
-      "Effective Health": 81445174.12935324,
-      "Survivability": 41405.78247552275,
-      "Effective Healing": 465,
-      "Healing": 465
-    },
+
+</Character>
+
+<Character title="162 Agony Resistance (Spotter/Banner)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Berserker",
+    "Assassin",
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Diviner",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 14145,
+    "Armor": 2514,
+    "Power": 3947,
+    "Precision": 2364,
+    "Toughness": 1243,
+    "Vitality": 1250,
+    "Ferocity": 1474,
+    "Condition Damage": 1000,
+    "Expertise": 0,
+    "Concentration": 537,
+    "Healing Power": 250,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.358,
+    "Critical Chance": 0.9995238095238095,
+    "Critical Damage": 2.482666666666667,
+    "Power Coefficient": 3390,
+    "Burning Coefficient": 1.1,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Effective Power": 23641.099091313692,
+    "Power DPS": 30859.963773412946,
+    "Bleeding Damage": 117.875,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 411.125,
+    "Burning Stacks": 1.1,
+    "Burning DPS": 452.2375,
+    "Confusion Damage": 143.4625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 134.40625,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 175.0875,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 31312.201273412946,
+    "Effective Health": 70767223.88059703,
+    "Survivability": 35977.23633990698,
+    "Effective Healing": 465,
+    "Healing": 465
+  },
     "runeId": 24836,
     "runeName": "Scholar",
     "infusions": [
@@ -231,20 +254,232 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   }}
 >
 
-Note that this build variant only gains boon duration from the <Item id="79722"/>.
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
-If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-</Character> 
+
+</Character>
+
+<Character title="222 Agony Resistance (No Spotter/Banner 46%bd)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Diviner",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 14145,
+    "Armor": 2604,
+    "Power": 3974,
+    "Precision": 2366,
+    "Toughness": 1333,
+    "Vitality": 1250,
+    "Ferocity": 1499,
+    "Condition Damage": 1000,
+    "Expertise": 0,
+    "Concentration": 545,
+    "Healing Power": 250,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.36333333333333334,
+    "Critical Chance": 1.0004761904761905,
+    "Critical Damage": 2.4993333333333334,
+    "Power Coefficient": 3390,
+    "Burning Coefficient": 1.1,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Effective Power": 23969.429198123482,
+    "Power DPS": 31288.550243218564,
+    "Bleeding Damage": 117.875,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 411.125,
+    "Burning Stacks": 1.1,
+    "Burning DPS": 452.2375,
+    "Confusion Damage": 143.4625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 134.40625,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 175.0875,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 31740.787743218563,
+    "Effective Health": 73300656.71641792,
+    "Survivability": 37265.20422797048,
+    "Effective Healing": 465,
+    "Healing": 465
+  },
+    "runeId": 24836,
+    "runeName": "Scholar",
+    "infusions": [
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131
+    ],
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1Id": 24615,
+      "weapon1OffType": "Focus",
+      "weapon1OffSigilId": 24868,
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1Id": 24615,
+      "weapon2MainSigil2Id": 24868
+    },
+    "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Mantra of Solace",
+      "utility1": "Mantra of Potence",
+      "utility2": "Sword of Justice",
+      "utility3": "Bane Signet",
+      "elite": "Feel my Wrath"
+    }
+  }}
+>
+
+If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
+
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+
+</Character>
+<Character title="222 Agony Resistance (Spotter/Banner 46%bd)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Diviner",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Dragon",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Dragon",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 15145,
+    "Armor": 2604,
+    "Power": 3989,
+    "Precision": 2365,
+    "Toughness": 1333,
+    "Vitality": 1350,
+    "Ferocity": 1534,
+    "Condition Damage": 1000,
+    "Expertise": 0,
+    "Concentration": 545,
+    "Healing Power": 250,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.36333333333333334,
+    "Critical Chance": 1,
+    "Critical Damage": 2.522666666666667,
+    "Power Coefficient": 3390,
+    "Burning Coefficient": 1.1,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Effective Power": 24284.521624612687,
+    "Power DPS": 31699.85687617906,
+    "Bleeding Damage": 117.875,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 411.125,
+    "Burning Stacks": 1.1,
+    "Burning DPS": 452.2375,
+    "Confusion Damage": 143.4625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 134.40625,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 175.0875,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 32152.09437617906,
+    "Effective Health": 78482746.26865673,
+    "Survivability": 39899.71848940352,
+    "Effective Healing": 465,
+    "Healing": 465
+  },
+    "runeId": 24836,
+    "runeName": "Scholar",
+    "infusions": [
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131
+    ],
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1Id": 24615,
+      "weapon1OffType": "Focus",
+      "weapon1OffSigilId": 24868,
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1Id": 24615,
+      "weapon2MainSigil2Id": 24868
+    },
+    "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Mantra of Solace",
+      "utility1": "Mantra of Potence",
+      "utility2": "Sword of Justice",
+      "utility3": "Bane Signet",
+      "elite": "Feel my Wrath"
+    }
+  }}
+>
+
+If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
+
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+
+</Character>
 </CharacterWithAr>
 
 <Divider text="Build"/>
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Healers Resolution,Retribution,Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath,Zealous Blade,Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Healers Resolution,Retribution,Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath,Zealous Blade,Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Loremaster"/>
 
 <Card title="Defiance Bar Damage">
 
@@ -278,10 +513,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
 | <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
-| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
+| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                           |
+| <Skill name="advance" size="big" disableText/>         | When <Boon name="Aegis"/> is needed.                                                |
 | <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
 | <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |
-| <Skill id="43357" size="big" disableText/>             | When <Boon name="Stability"/> or a stunbreak is needed.                             |
+| <Skill id="43357" size="big" disableText/>             | When <Boon name="Stability"/> or a stunbreak is needed.                           |
 | <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                  |
 | <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                |
 | <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
@@ -298,7 +534,7 @@ To keep up <Boon name="Quickness"/>:
 
 - Use <Skill name="Feel My Wrath"/> whenever ready
 
-- Use <Skill name="mantraofpotence"/> and <Skill name="mantraofsolace"/>
+- Use <Skill name="mantraofpotence"/> and <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 
@@ -403,7 +639,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 
 2.  Blast the fire field by casting <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 
-3.  Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/> and <Trait name=" stalwartspeed"/>)
+3.  Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 
 4.  Use <Skill name="Stand your ground"/> or <Skill name="saveyourselves"/>
 
