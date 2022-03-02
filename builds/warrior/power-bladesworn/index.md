@@ -1,12 +1,13 @@
 ---
 title: Power (Banner) Bladesworn
+hidden: false
 rating: Good
 role: Power Damage
 profession: Warrior
 specialization: BLadesworn
-skills:
-traits:
-conditions:
+skills: null
+traits: null
+conditions: null
 boons:
   - name: Might
     uptime: 12 Stacks
@@ -14,15 +15,14 @@ boons:
   - name: Fury
     uptime: 100&
     variant: party
-code: ''
+code: "[&DQIEHzMWRCunAAAAAAAAAKwACgCqAKIBnACcAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-date: 2022-01-12T18:26:52.203Z
-hidden: true
+date: 2022-03-02T02:04:36.970Z
 ---
 
 <Warning>
@@ -112,8 +112,6 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
       "weapon1MainSigil1Id": 24615,
       "weapon1OffType": "Pistol",
       "weapon1OffSigilId": 24868,
-      "weapon2OffType": "Mace",
-      "weapon2OffSigil": "Paralyzation"
     },
     "consumables": {
       "foodId": 91805,
@@ -204,8 +202,6 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
       "weapon1MainSigil1Id": 24615,
       "weapon1OffType": "Pistol",
       "weapon1OffSigilId": 24868,
-      "weapon2OffType": "Mace",
-      "weapon2OffSigil": "Paralyzation"
     },
     "consumables": {
       "foodId": 91805,
@@ -295,8 +291,6 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
       "weapon1MainSigil1Id": 24615,
       "weapon1OffType": "Pistol",
       "weapon1OffSigilId": 24868,
-      "weapon2OffType": "Mace",
-      "weapon2OffSigil": "Severance"
     },
     "consumables": {
       "foodId": 91805,
@@ -322,8 +316,8 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
 
 <Card title="Extra Weapons">
 
-- Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-- Warhorn for pre-stacking <Boon name="Might"/>, can be run instead of Mace if CC isn’t needed.
+- Axes and Pistols with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+- Warhorn for pre-stacking <Boon name="Might"/>
 - Greatsword for mobility and cleave.
 - Torch (trade CC for DPS or a fire field).
 
