@@ -1,6 +1,6 @@
 ---
 title: Condi Willbender
-hidden: true
+hidden: false
 rating: Good
 role: Condi Damage
 profession: Guardian
@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-02-02T15:28:00.602Z
+date: 2022-03-02T20:31:34.386Z
 ---
 
 <Warning>
@@ -36,6 +36,8 @@ date: 2022-02-02T15:28:00.602Z
 This build guide is not complete, gear and sections may chage regularly as we explore the new elite spec and spend more time playing it in fractals!
 
 </Warning>
+
+<Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC and mobility making it a strong choice for all groups. It alsocan easily slot more supportive utility skills allowing you to provide yourself and your party wwith <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects easily.
 
 <Divider text="Equipment"/>
 
@@ -141,13 +143,12 @@ This build guide is not complete, gear and sections may chage regularly as we ex
     "healId": 62622,
     "utility1Id": 62565,
     "utility2Id": 9187,
-    "utility3Id": 9151,
     "eliteId": 62561
   }
 }} 
 >
 
-If you need to swap a utility out, <Skill name="Signet of Fire"/> is a minor dps increase and should be swapped out when other skills suit the encounter better.
+If you need to swap a utility out, <Skill name="Signet of Wrath"/> is a minor dps increase and should be swapped out when other skills suit the encounter better.
 You will want the following weapons to swap to durning fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
@@ -179,14 +180,16 @@ You will want the following weapons to swap to durning fractal runs:
 
 |                                                        |                                                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| <Skill name="Sword of Justice" size="big" disableText/>| Used as a source of <Condition name="Vulnerability"/>            |
+| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
+| <Skill name="Signet of Wrath" size="big" disableText/> | Taken as a 3rd utility if no other skill is needed.                                   |
 | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
 | <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
 | <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
+| <Skill name="Advance" size="big" disableText/>         | When <Boon name="Aegis"/> is needed.                             |
 | <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
 | <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |
 | <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                  |
-| <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                |
-| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
 | <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
 
 </Card>
@@ -203,39 +206,18 @@ You will want the following weapons to swap to durning fractal runs:
 
 <Warning>
 
-**Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast! Never interrupt your axe auto attack chain! Keep <Skill name="purgingflames"/> on cooldown!**
+**Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast! Keep <Skill name="Rushing Justice"/> (F1) on cooldown!**
 </Warning>
 
 1.  <Skill name="Rushing Justice"/> (F1)
 2.  <Skill id="9104"/> (Torch 4)
-3.  <Skill name="Symbol of Blades"/> (Sword 2)
+3.  <Skill name="Symbol of Punishment"/> (Scepter 2)
 4.  _Weapon Swap_
-5.  <Skill name="Purging Flames"/>
-6.  <Skill name="Whirling Light"/>
-7.  <Skill name="Symbol of Punishment"/> (Scepter 2)
-8.  <Skill name="Cleansing Flame"/> (Torch 5)
-9.  <Skill id="9089"/> x2 (Torch 4)
-10. <Skill name="Orb of Wrath"/> (Scepter 1)
-11. <Skill name="Rushing Justice"/> (F1)
-12. <Skill name="Orb of Wrath"/> (Scepter 1)
-13. <Skill id="9104"/> (Torch 4)
-14. <Skill id="9089"/> (Torch 4)
-15. <Skill name="Symbol of Punishment"/> (Scepter 2)
-16. _Weapon Swap_
-17. <Skill name="Symbol of Blades"/> (Sword 2)
-18. <Skill name="Zealots Defence"/> (Sword 3)
-19. <Skill id="9089"/> (Torch 4)
-20. <Skill name="Cleansing Flame"/> (Torch 5)
-21. <Skill name="Symbol of Blades"/> (Sword 2)
-22. <Skill name="Rushing Justice"/> (F1)
-23. <Skill name="Purging Flames"/>
-24. <Skill name="Whirling Light"/>
-25. <Skill id="9104"/> -> <Skill id="9089"/> (Torch 4)
-26. <Skill name="Sword of Wrath"/> -> <Skill name="Sword Arc"/> -> <Skill name="Sword Wave"/> (Sword 1)
-27. <Skill name="Zealots Defence"/> (Sword 3)
-28. <Skill name="Symbol of Blades"/> (Sword 2)
-
-Repeat from step 7.
+5.  <Skill name="Symbol of Blades"/> (Sword 2)
+6.  <Skill name="Purging Flames"/>
+7.  <Skill name="Whirling Light"/>
+8.  <Skill id="9089"/> x2 (Torch 4)
+9.  <Skill name="Zealot's Defense"/> (Sword 3)
 
 </Card>
 </GridItem>
@@ -255,9 +237,8 @@ The most important part is to get the precast of Ashes of the Just right! You ha
 
 1.  Use <Skill name="hallowedground"/>
 2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
-3.  Use <Skill name="Feelmywrath"/>
 4.  Take the _Mistlock Singularity_
-5.  Use <Skill name="Feelmywrath"/> again
+
 
 </Card>
 </GridItem>
