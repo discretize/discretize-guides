@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: "[&DQEQLyo6PjpLFwAAehYAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: static
 classification:
   - 5
@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-03-02T01:45:26.713Z
+date: 2022-03-02T01:50:39.460Z
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing very decent DPS.
@@ -44,7 +44,7 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="162 Agony Resistance (No Spotter/Banner 46%bd)" gear={{
+<Character title="162 Agony Resistance (Spotter/Banner 46%bd)" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
@@ -134,10 +134,9 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
   }}
 >
 
-Note that this build variant only gains boon duration from the <Item id="79722"/>.
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
-If you play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will need to use <Item name="Bowl of Curry Butternut Squash Soup"/> or <Trait name="Right Hand Strength"/> to [Crit Cap](/guides/crit-cap/)
+If you play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will need to use <Item name="Bowl of Curry Butternut Squash Soup"/> or <Trait name="Right Hand Strength"/> to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -241,7 +240,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   }}
 >
 
-Note that this build variant only gains boon duration from the <Item id="79722"/>.
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 If you can upkeep <Boon name="resolution"/>, you can play <Trait name="Right Hand Strength"/> allowing you to run more Berserker gear.
@@ -347,7 +345,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   }}
 >
 
-Note that this build variant only gains boon duration from the <Item id="79722"/>.
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 If you can upkeep <Boon name="resolution"/>, you can play <Trait name="Right Hand Strength"/> allowing you to run more Berserker gear.
@@ -417,7 +414,7 @@ To keep up <Boon name="Quickness"/>:
 
 - Use <Skill name="Feel My Wrath"/> whenever ready
 
-- Use <Skill name="mantraofpotence"/>
+- Use <Skill name="mantraofpotence"/> and <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 
@@ -522,7 +519,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 
 2.  Blast the fire field by casting <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 
-3.  Use 3 charges of <Skill name="mantraofpotence"/>
+3.  Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 
 4.  Use <Skill name="Stand your ground"/> or <Skill name="saveyourselves"/>
 
