@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-02T02:04:36.970Z
+date: 2022-03-02T20:29:02.907Z
 ---
 
 <Warning>
@@ -417,9 +417,9 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <Card title="Golem Rotation">
 
-Hopefully Anet add these skills to the api otherwise we will have to add them manually
+Start in <Skill name="Unsheathe Gunsaber"/> 
 
-1. <Skill name="Cyclone Trigger"/>
+1. Cyclone Trigger in <Skill name="Unsheathe Gunsaber"/> (Skill 4)
 2. <Skill name="Sheathe Gunsaber"/>
 3. <Skill name="Dragons Roar"/>
 4. <Skill name="Gunstinger"/>
@@ -428,7 +428,7 @@ Hopefully Anet add these skills to the api otherwise we will have to add them ma
 7. <Skill name="Chop"/> -> <Skill name="Double Chop"/> -> <Skill name="Triple Chop"/>
 8. <Skill name="Unsheathe Gunsaber"/>
 9. <Skill name="Dragon Trigger"/>
-10. <Skill name="Dragon Slash-Force"/>
+10. Dragon Slash-Force in <Skill name="Dragon Trigger"/> (Skill 1)
 
 _Repeat from Step 1_
 
