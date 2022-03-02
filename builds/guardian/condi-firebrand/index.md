@@ -20,7 +20,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-cmGuide: ''
+cmGuide: ""
 classification:
   - 5
   - 4
@@ -29,8 +29,8 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: '[&DQEQGi4fPjpLF0sXehZ6FkwBTAEWAUgBiRIYFgAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-01-11T02:29:01.849Z
+code: "[&DQEQGi4fPjpLF0sXehZ6FkwBTAEWAUgBiRIYFgAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-03-02T21:39:32.640Z
 benchmark:
   small:
     dps: 36732
@@ -53,6 +53,14 @@ This build has tremendous amounts of self-sustain and is therefore also a great 
 - Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
 
 Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
+
+<Warning>
+There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
+- <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 35.6%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Stalwart Speed"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 47.6%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 69.8%bd
+
+</Warning>
 
 <Divider text="Equipment"/>
 
