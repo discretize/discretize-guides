@@ -27,7 +27,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-02T22:34:54.972Z
+date: 2022-03-02T22:38:09.508Z
 ---
 
 <Warning>
@@ -36,7 +36,7 @@ This build guide is not complete, gear and sections may chage regularly as we ex
 
 </Warning>
 
-It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>. It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="62532"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>. It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -508,7 +508,7 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sh
 
 <Divider text="Details"/>
 
-As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
+As a <Specialization name="Willbender" text="Power Willbender"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
 
 Generally it is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersresolution"/> your heal skill applies long lasting <Trait name="retribution"/>. Since <Skill name="litanyofwrath"/> has a low cooldown it lines up well with your burst. You can also trigger a <Skill id="13677"/> by losing health below the 75% threshold to trigger <Trait id="648"/>, however you need to be careful to not die.
 
@@ -556,7 +556,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 - Don't interrupt your GS auto-attack chain.
 
-- In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
+- In certain scenarios (precasting symbols, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="Rushing Justice"/> out first.
 
 - Don't waste your key skills on meaningless adds.
 
