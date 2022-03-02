@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-02T01:59:48.299Z
+date: 2022-03-02T20:31:34.386Z
 ---
 
 <Warning>
@@ -216,10 +216,8 @@ You will want the following weapons to swap to durning fractal runs:
 5.  <Skill name="Symbol of Blades"/> (Sword 2)
 6.  <Skill name="Purging Flames"/>
 7.  <Skill name="Whirling Light"/>
-8.  <Skill name="Zealot's Defense"/> (Sword 3)
-
-
-Repeat from step 7.
+8.  <Skill id="9089"/> x2 (Torch 4)
+9.  <Skill name="Zealot's Defense"/> (Sword 3)
 
 </Card>
 </GridItem>
