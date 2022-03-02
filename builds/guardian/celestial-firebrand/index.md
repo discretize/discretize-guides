@@ -31,7 +31,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-03-02T20:21:58.949Z
+date: 2022-03-02T20:22:10.715Z
 cmGuide: ""
 ---
 
@@ -46,6 +46,7 @@ There are a number of different gear, utility and trait setups that allow you to
 - <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 69.8%bd
 - <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 35.6%bd
 - <Trait name="Liberators Vow"/>, <Trait name="Stalwart Speed"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 47.6%bd
+
 </Warning>
 
 <Divider text="Equipment"/>
