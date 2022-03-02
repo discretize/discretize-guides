@@ -1,5 +1,5 @@
 ---
-title: Power Quickness Firebrand
+title: Power (Quick) Firebrand
 rating: Power Meta
 role: Power Damage
 author: ganymed.3541
@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-03-02T01:45:10.341Z
+date: 2022-03-02T01:45:26.713Z
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing very decent DPS.
