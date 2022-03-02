@@ -24,15 +24,15 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: '[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 3
   - 4
   - 3
   - 4
-date: 2022-01-13T16:53:16.828Z
-cmGuide: ''
+date: 2022-03-02T20:22:10.715Z
+cmGuide: ""
 ---
 
 The **<Specialization text="Celestial Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
@@ -40,6 +40,14 @@ The **<Specialization text="Celestial Firebrand" name="Firebrand"/>** is a build
 The general idea of these builds is to leverage the Celestial stat combo (<Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/>) and the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. They then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage.
 
 There are Four variants shown below; a low AR Celestial variant, a high AR Celestial variant, a high AR Seraph variant, and a Celestial Heal variant. The Celestial 162 variant is the standard version with high boon duration and provides solid damage while being fairly forgiving with boon uptimes. It also has the advantage of wroking well in other content outside of fractals with minimal changes. The high AR Celestial and Seraph variants are more offensive build and offer the most damage. Both builds pull similar damage with the Seraph version being slightly ahead due to having higher <Attribute name="Condition Damage"/> and <Effect name="Exposed"/>. While the Celestial Heal variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/> . All of these builds can be optimised further with a mix of gear to suit your needs using our [gear optimizer](https://optimizer.discretize.eu/).
+
+<Warning>
+There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
+- <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 69.8%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 35.6%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Stalwart Speed"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 47.6%bd
+
+</Warning>
 
 <Divider text="Equipment"/>
 
@@ -480,7 +488,7 @@ Check the build section for some common gear variations. You can also use our [g
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>.                                                     |
 | <Trait name="pureofheart" size="big" disableText/>          | Taken if the group is struggling with healing.                                                                               |
-| <Trait name="stalwartspeed" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/>). |
+| <Trait name="stalwartspeed" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/> or <Skill name="Advance"/>). |
 
 </Card>
 </GridItem>
@@ -499,6 +507,7 @@ As you will have seen from the equipment, Celestial/Seraph Firebrand has many va
 
 - **Viper -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Condition Damage"/>, <Attribute name="Expertise"/>
 
+- **Ritualist -** <Attribute name="Vitality"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/>
 </GridItem>
 <GridItem>
 
@@ -706,7 +715,7 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 
 2.  Blast the fire field by casting <Skill name="Holy Strike"/>
 
-3.  Use <Skill name="Mantra of Potence"/> 3 times and <Skill name="Mantra of Solace"/> once due to the cooldown of <Trait name="Stalwart Speed"/>
+3.  Use <Skill name="Mantra of Potence"/> 3 times and <Skill name="Mantra of Solace"/> once due to the cooldown of <Trait name="Liberators Vow"/>
 
 4.  Use <Skill name="Empower"/> as you are sharing <Boon name="Quickness"/>.
 
