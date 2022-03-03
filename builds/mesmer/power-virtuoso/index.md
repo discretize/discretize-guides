@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-02-06T13:00:40.378Z
+date: 2022-03-03T18:35:07.156Z
 ---
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals. You'll provide boon removal through your clones, auto-attack chains, <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
 
@@ -30,32 +30,33 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character gear={{
+<Character title="162 Agony Resistance (No Spotter/Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
     "Berserker",
     "Assassin",
-    "Berserker",
+    "Assassin",
     "Berserker",
     "Berserker",
     "Berserker",
     "Assassin",
     "Berserker",
     "Berserker",
+    "Assassin",
     "Berserker",
-    "Berserker",
+    "Assassin",
     "Berserker",
     "Berserker"
   ],
   "attributes": {
     "Health": 15922,
     "Armor": 2210,
-    "Power": 3571,
+    "Power": 3474,
     "Precision": 2365,
     "Toughness": 1243,
     "Vitality": 1000,
-    "Ferocity": 1625,
+    "Ferocity": 1626,
     "Condition Damage": 750,
     "Expertise": 0,
     "Concentration": 243,
@@ -64,9 +65,16 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
     "Condition Duration": 0,
     "Boon Duration": 0.162,
     "Critical Chance": 1,
-    "Critical Damage": 2.583333333333333,
-    "Effective Power": 33415.029062959606,
-    "Power DPS": 45535.53633184985,
+    "Critical Damage": 2.584,
+    "Power Coefficient": 3539,
+    "Burning Coefficient": 0.53,
+    "Bleeding Coefficient": 7.11,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0.24,
+    "Flat DPS": 0,
+    "Effective Power": 32515.756952458334,
+    "Power DPS": 44310.07464564885,
     "Bleeding Damage": 126.41015625,
     "Bleeding Stacks": 7.11,
     "Bleeding DPS": 898.7762109375001,
@@ -82,7 +90,7 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
     "Torment Damage": 149.8809375,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 46662.00855372485,
+    "Damage": 45436.54686752385,
     "Effective Health": 70025114.4278607,
     "Survivability": 35599.95649611627,
     "Effective Healing": 390,
@@ -136,10 +144,8 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
-
-</Character>  
-<Character gear={{
+</Character>
+<Character  title="162 Agony Resistance (Spotter/Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -152,30 +158,38 @@ If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner 
     "Berserker",
     "Berserker",
     "Berserker",
+    "Assassin",
     "Berserker",
-    "Berserker",
+    "Assassin",
     "Berserker",
     "Berserker"
   ],
   "attributes": {
     "Health": 15922,
-    "Armor": 2300,
-    "Power": 3631,
-    "Precision": 2393,
-    "Toughness": 1333,
+    "Armor": 2210,
+    "Power": 3573,
+    "Precision": 2363,
+    "Toughness": 1243,
     "Vitality": 1000,
-    "Ferocity": 1625,
+    "Ferocity": 1626,
     "Condition Damage": 750,
     "Expertise": 0,
-    "Concentration": 333,
+    "Concentration": 243,
     "Healing Power": 0,
-    "Agony Resistance": 222,
+    "Agony Resistance": 162,
     "Condition Duration": 0,
-    "Boon Duration": 0.222,
-    "Critical Chance": 1.0133333333333332,
-    "Critical Damage": 2.583333333333333,
-    "Effective Power": 33976.468924000656,
-    "Power DPS": 46300.625152883455,
+    "Boon Duration": 0.162,
+    "Critical Chance": 0.999047619047619,
+    "Critical Damage": 2.584,
+    "Power Coefficient": 3539,
+    "Burning Coefficient": 0.53,
+    "Bleeding Coefficient": 7.11,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0.24,
+    "Flat DPS": 0,
+    "Effective Power": 33420.72961528832,
+    "Power DPS": 45543.30462399129,
     "Bleeding Damage": 126.41015625,
     "Bleeding Stacks": 7.11,
     "Bleeding DPS": 898.7762109375001,
@@ -191,7 +205,122 @@ If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner 
     "Torment Damage": 149.8809375,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 47427.09737475846,
+    "Damage": 46669.77684586629,
+    "Effective Health": 70025114.4278607,
+    "Survivability": 35599.95649611627,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+      "weapon1MainType": "Dagger",
+      "weapon1MainSigil1": "Force",
+      "weapon1OffType": "Sword",
+      "weapon1OffSigil": "Impact",
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1": "Force",
+      "weapon2MainSigil2": "Impact"
+    },
+  "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+  "skills": {
+    "healId": 21750,
+    "utility1Id": 10267,
+    "utility2Id": 45425,
+    "utility3Id": 10211,
+    "eliteId": 24755
+  }
+    }}
+  >
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>  
+<Character  title="222 Agony Resistance (No Spotter/Banner)" gear={{
+  "profession": "Mesmer",
+  "weight": "Light",
+  "gear": [
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 15922,
+    "Armor": 2300,
+    "Power": 3560,
+    "Precision": 2366,
+    "Toughness": 1333,
+    "Vitality": 1000,
+    "Ferocity": 1626,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 333,
+    "Healing Power": 0,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.222,
+    "Critical Chance": 1.0004761904761905,
+    "Critical Damage": 2.584,
+    "Power Coefficient": 3539,
+    "Burning Coefficient": 0.53,
+    "Bleeding Coefficient": 7.11,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0.24,
+    "Flat DPS": 0,
+    "Effective Power": 33320.69509232921,
+    "Power DPS": 45406.98495639318,
+    "Bleeding Damage": 126.41015625,
+    "Bleeding Stacks": 7.11,
+    "Bleeding DPS": 898.7762109375001,
+    "Burning Damage": 373.19296875,
+    "Burning Stacks": 0.53,
+    "Burning DPS": 197.7922734375,
+    "Confusion Damage": 124.59890625,
+    "Confusion Stacks": 0.24,
+    "Confusion DPS": 29.9037375,
+    "Poison Damage": 118.48593749999999,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 149.8809375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 46533.45717826818,
     "Effective Health": 72876815.92039803,
     "Survivability": 37049.72848012101,
     "Effective Healing": 390,
@@ -240,10 +369,123 @@ If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner 
     "utility3Id": 10211,
     "eliteId": 24755
   }
+    }}
+  >
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>  
+<Character title="222 Agony Resistance (Spotter/Banner)" gear={{
+  "profession": "Mesmer",
+  "weight": "Light",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Dragon",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 16482,
+    "Armor": 2300,
+    "Power": 3611,
+    "Precision": 2365,
+    "Toughness": 1333,
+    "Vitality": 1056,
+    "Ferocity": 1651,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 333,
+    "Healing Power": 0,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.222,
+    "Critical Chance": 1,
+    "Critical Damage": 2.6006666666666667,
+    "Power Coefficient": 3539,
+    "Burning Coefficient": 0.53,
+    "Bleeding Coefficient": 7.11,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0.24,
+    "Flat DPS": 0,
+    "Effective Power": 34016.03775652977,
+    "Power DPS": 46354.54663856714,
+    "Bleeding Damage": 126.41015625,
+    "Bleeding Stacks": 7.11,
+    "Bleeding DPS": 898.7762109375001,
+    "Burning Damage": 373.19296875,
+    "Burning Stacks": 0.53,
+    "Burning DPS": 197.7922734375,
+    "Confusion Damage": 124.59890625,
+    "Confusion Stacks": 0.24,
+    "Confusion DPS": 29.9037375,
+    "Poison Damage": 118.48593749999999,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 149.8809375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 47481.01886044214,
+    "Effective Health": 75440000.00000001,
+    "Survivability": 38352.82155566854,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+      "weapon1MainType": "Dagger",
+      "weapon1MainSigil1": "Force",
+      "weapon1OffType": "Sword",
+      "weapon1OffSigil": "Impact",
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1": "Force",
+      "weapon2MainSigil2": "Impact"
+    },
+  "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+  "skills": {
+    "healId": 21750,
+    "utility1Id": 10267,
+    "utility2Id": 45425,
+    "utility3Id": 10211,
+    "eliteId": 24755
+  }
   }}
 >
-
-If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
