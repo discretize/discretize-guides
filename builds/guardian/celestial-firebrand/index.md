@@ -24,7 +24,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 3
@@ -32,7 +32,7 @@ classification:
   - 3
   - 4
 date: 2022-03-02T20:22:10.715Z
-cmGuide: ""
+cmGuide: ''
 ---
 
 The **<Specialization text="Celestial Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
@@ -484,10 +484,10 @@ Check the build section for some common gear variations. You can also use our [g
 
 <Card title="Alternative traits">
 
-|                                                             |                                                                                                                              |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>.                                                     |
-| <Trait name="pureofheart" size="big" disableText/>          | Taken if the group is struggling with healing.                                                                               |
+|                                                             |                                                                                                                                                         |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>.                                                                                |
+| <Trait name="pureofheart" size="big" disableText/>          | Taken if the group is struggling with healing.                                                                                                          |
 | <Trait name="stalwartspeed" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/> or <Skill name="Advance"/>). |
 
 </Card>
@@ -502,25 +502,19 @@ As you will have seen from the equipment, Celestial/Seraph Firebrand has many va
 ### Attributes
 
 - **Celestial -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/>
-
 - **Seraph -** <Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>
-
 - **Viper -** <Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Condition Damage"/>, <Attribute name="Expertise"/>
-
 - **Ritualist -** <Attribute name="Vitality"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/>
+
 </GridItem>
 <GridItem>
 
 ### Runes
 
 - <Item id="24765"/>
-
 - <Item id="24691"/>
-
 - <Item id="70600"/>
-
 - <Item id="24842"/>
-
 - <Item id="83338"/>
 
 </GridItem>
@@ -529,15 +523,10 @@ As you will have seen from the equipment, Celestial/Seraph Firebrand has many va
 ### Sigils
 
 - <Item id="44944"/>
-
 - <Item id="24624"/>
-
 - <Item id="24560"/>
-
 - <Item id="74326"/>
-
 - <Item id="72339"/>
-
 - <Item id="44950"/>
 
 </GridItem>
@@ -546,19 +535,12 @@ As you will have seen from the equipment, Celestial/Seraph Firebrand has many va
 ### Consumables
 
 - <Item id="91703"/>
-
 - <Item id="91727"/>
-
 - <Item id="91758"/>
-
 - <Item id="91690"/>
-
 - <Item id="12484"/>
-
 - <Item id="48917"/>
-
 - <Item id="48916"/>
-
 - <Item id="67528"/>
 
 </GridItem> </Grid>
@@ -569,14 +551,12 @@ As you will have seen from the equipment, Celestial/Seraph Firebrand has many va
 Keeping up <Boon name="Quickness"/> is a lot easier than with a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> thanks to the increased <Attribute name="Boon Duration"/>. Nevertheless, it has less room for errors compared to <BuildLink build="Heal Firebrand" specialization="Firebrand"/>! General guidelines for keeping up <Boon name="Quickness"/>:
 
 - Use <Skill name="Feel My Wrath"/> whenever ready.
-
 - Use <Skill name="Mantra of Potence"/> off cooldown and <Skill name="Mantra of Solace"/> every 7 seconds due to the cooldown of <Trait name="Liberators Vow"/>
-
 - Only use these skills close to your allies - try to "puke" on them with the mantras
-
 - Keep in mind that equipping/stowing a tome grants you (only you, not your party members!) 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 <Warning>
+
 To play <Trait name="Legendary Lore"/> in Fractals you need to have at least 60% boon duration to upkeep <Boon name="Quickness"/>. Both the Seraph and the Celestial builds have 40% from gear. meaning you will need to get the rest from agony resistance and consumables. If you cannot get enough boon duration to be safe just play with <Trait name="Stalwart Speed"/>!
 
 Please note the minimum suggested boon duration is influenced prestacking and typically short phases. It is reccomended to get as much Boon Duration as you can for an easier time maintaining boons! Outside of fractals you need at least 70% Boon Duration to play <Trait name="Legendary Lore"/>.
@@ -588,51 +568,30 @@ Getting the weapon swaps right is probably the hardest part (more info below). G
 **General information:**
 
 - On Axe/Torch:
-
   - Use <Skill name="Symbol of Vengeance"/>
-
   - Use <Skill name="Zealots Flame"/> into <Skill name="Zealots Fire"/>
-
   - Use <Skill name="Cleansing Flame"/>
-
   - Try not to interrupt you auto attack chain
-
   - Make sure to have <Skill name="Blazing Edge"/> ready for when you need to CC or need to pull in any adds.
-
 - In <Skill name="Tome of Justice"/>:
-
   - Your standard DPS rotation is <TomeSkill name="Chapter 2: Ignite Burst"/>, <TomeSkill name="Chapter 4: Scorched Aftermath"/>, <TomeSkill name="Epilogue: Ashes of the Just"/>, <TomeSkill name="Chapter 1: Searing Spell"/>, <TomeSkill name="Chapter 2: Ignite Burst"/>.
-
   - Don't be afraid to replace a skill, preferably <TomeSkill name="Chapter 1: Searing Spell"/> or <TomeSkill name="Chapter 2: Ignite Burst"/>, with <TomeSkill name="Chapter 3: Heated Rebuke"/> for more CC or to pull any adds.
-
 - On Staff:
-
   - Use <Skill name="Empower"/>
-
   - Blast fire fields with <Skill name="holystrike"/>. If there is no fire field you can put one down with tome1-4
-
   - Use <Skill name="Symbol of Swiftness"/>
-
 - Apart from that:
-
   - <Skill name="Sanctuary"/> or <Skill name="Bane Signet"/> (if in a power group) to break defiance bars.
-
   - Remember to be smart about your free utility swap and adjust as necessary to the encounter and your party.
 
 Suggested key moments to swap to staff and <Skill name="Empower"/>:
 
 - **MAMA**: There is no exact key moment and you need to decide on your own when to swap to staff.
-
 - **Siax**: This build has quite good damage and is fairly self sustained enabling you to kill your add quickly. Swap to staff for the last few percent and be ready to <Skill name="Empower"/> in the middle. This works better the slower the group is due to weapon swap cooldown. If another person helps you kill your add (typically the <Specialization name="Renegade"/>) you can chill on staff for the add so you are ready to swap to Axe/Torch sooner.
-
 - **Enso**: Be on staff at the beginning of every phase and use <Skill name="Empower"/> while Ensolyss is invulnerable.
-
 - **Skorvald**: Anomalies 2 and 4. In case your group gets too fast you might have to skip <Skill name="Empower"/> at the 2nd island. When using the 66% portal make sure to drop a <Skill name="Symbol of Swiftness"/> on Skorvald before swapping to Axe/Torch.
-
 - **Artsariiv**: If your party deals the majority of its damage in the middle you want to empower at 66% and 33% shortly before she becomes vulnerable. If not you may empower while she is jumping away and the team kills the Anomaly.
-
 - **Arkk**: Finish your orb first by camping in the light field and auto attacking with the superior weapon (staff) so you can precast <Skill name="Empower"/> and <Skill name="Symbol of Swiftness"/>.
-
 - **Ai**: On light Ai you will want to <Skill name="Empower"/> mid at the beginning of the fight and after each split phase. You should also swap to Staff during the split mechanic so you can cast <Skill name="Empower"/> as everyone returns to the middle. On Dark Ai this is mostly the same aside from the lack of split phases so keep an eye on <Boon name="might"/> and be ready to swap to Staff when needed. Remember with the amount of movement on this fight to be casting <Skill name="Symbol of Swiftness"/> where possible to help keep everyone moving.
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
@@ -670,37 +629,21 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 **Staff/Axe - Torch "Rotation":**
 
 1.  <Skill name="Symbol of Swiftness" profession="guardian"/> (Staff 3)
-
 2.  <Skill name="Holystrike"/> (Staff 2)
-
 3.  **Weapon Swap**
-
 4.  <Skill name="Zealots Flame" profession="guardian"/> (Torch 4)
-
 5.  <Skill name="Symbol of Vengeance " profession="guardian"/> (Axe 2)
-
 6.  <Skill name="Zealots Fire" profession="guardian"/> (Torch 4) (Use twice if available)
-
 7.  <Skill name="Tome of Justice" profession="guardian"/> (F1)
-
     1.  <TomeSkill name="Chapter 2: Ignite Burst"/>
-
     2.  <TomeSkill name="Chapter 4: Scorched Aftermath"/>
-
     3.  <TomeSkill name="Epilogue: Ashes of the Just"/>
-
     4.  <TomeSkill name="Chapter 1: Searing Spell"/>
-
     5.  <TomeSkill name="Chapter 2: Ignite Burst"/>
-
 8.  <Skill name="Cleansing Flame" profession="guardian"/> (Torch 5)
-
 9.  <Skill name="Zealots Flame" profession="guardian"/> (Torch 4)
-
 10. <Skill name="Zealots Fire" profession="guardian"/> (Torch 4)
-
 11. <Skill name="Symbol of Vengeance " profession="guardian"/> (Axe 2)
-
 12. Auto Attack
 
 </Card>
@@ -712,19 +655,12 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 If you have a _Mistlock Singularity_ present you can use these skills for precasts:
 
 1.  Cast <Skill name="tome of justice"/> skill 4 and 5
-
 2.  Blast the fire field by casting <Skill name="Holy Strike"/>
-
 3.  Use <Skill name="Mantra of Potence"/> 3 times and <Skill name="Mantra of Solace"/> once due to the cooldown of <Trait name="Liberators Vow"/>
-
 4.  Use <Skill name="Empower"/> as you are sharing <Boon name="Quickness"/>.
-
 5.  Use <Skill name="Feelmywrath"/>
-
 6.  Use <Skill name="banesignet"/> (If you have it)
-
 7.  Take _Mistlock Singularity_
-
 8.  Use <Skill name="Feelmywrath"/>
 
 </Card>
