@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: "[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: static
 classification:
   - 5
@@ -38,15 +38,19 @@ It plays very similar to <BuildLink build="Power Dragonhunter" specialization="D
 Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' <Attribute name="Power"/> by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
 
 <Warning>
+
 Its worth mentioning that <Specialization text="Power Quickness Firebrand" name="Firebrand"/> is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run <BuildLink build="Condi Firebrand" specialization="Firebrand"/> as it provides much higher sustained DPS.
+
 </Warning>
 
 <Warning>
+
 There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
+
 - <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 41.7%bd
 - <Trait name="Liberators Vow"/>, <Trait name="Stalwart Speed"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 47.7%bd
-</Warning>
 
+</Warning>
 
 <Divider text="Equipment"/>
 
@@ -154,7 +158,6 @@ If you cannot maintain good <Boon name="resolution"/> uptime during your bursts,
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-
 </Character>
 
 <Character title="162 Agony Resistance (Spotter/Banner)" gear={{
@@ -251,15 +254,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Bane Signet",
       "elite": "Feel my Wrath"
     }
-  }}
->
+}}>
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
 
 </Character>
 
@@ -357,15 +358,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Bane Signet",
       "elite": "Feel my Wrath"
     }
-  }}
->
+}}>
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
 
 </Character>
 <Character title="222 Agony Resistance (Spotter/Banner 46%bd)" gear={{
@@ -471,7 +470,6 @@ If you cannot maintain good <Boon name="resolution"/> uptime during your bursts,
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-
 </Character>
 </CharacterWithAr>
 
@@ -513,11 +511,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
 | <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
-| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                           |
+| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
 | <Skill name="advance" size="big" disableText/>         | When <Boon name="Aegis"/> is needed.                                                |
 | <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
 | <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |
-| <Skill id="43357" size="big" disableText/>             | When <Boon name="Stability"/> or a stunbreak is needed.                           |
+| <Skill id="43357" size="big" disableText/>             | When <Boon name="Stability"/> or a stunbreak is needed.                             |
 | <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                  |
 | <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                |
 | <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
