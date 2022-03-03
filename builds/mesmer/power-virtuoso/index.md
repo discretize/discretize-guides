@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-03T18:33:38.061Z
+date: 2022-03-03T18:35:07.156Z
 ---
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals. You'll provide boon removal through your clones, auto-attack chains, <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
 
@@ -30,7 +30,7 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character gear={{
+<Character title="162 Agony Resistance (No Spotter/Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -145,7 +145,7 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character gear={{
+<Character  title="162 Agony Resistance (Spotter/Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -260,7 +260,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
-<Character gear={{
+<Character  title="222 Agony Resistance (No Spotter/Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -375,7 +375,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
-<Character gear={{
+<Character title="222 Agony Resistance (Spotter/Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
