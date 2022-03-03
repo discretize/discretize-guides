@@ -20,7 +20,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-cmGuide: ''
+cmGuide: ""
 classification:
   - 5
   - 4
@@ -29,8 +29,8 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: '[&DQEQGi4fPjpLF0sXehZ6FkwBTAEWAUgBiRIYFgAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-01-11T02:29:01.849Z
+code: "[&DQEQGi4fPjpLF0sXehZ6FkwBTAEWAUgBiRIYFgAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-03-03T10:24:48.488Z
 benchmark:
   small:
     dps: 36732
@@ -54,10 +54,235 @@ This build has tremendous amounts of self-sustain and is therefore also a great 
 
 Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
 
+<Warning>
+There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
+- <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 35.6%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Stalwart Speed"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 47.6%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 69.8%bd
+
+</Warning>
+
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character title="162 Agony Resistance" gear={{
+<Character title="Condi Quickbrand 162ar (35.8%bd)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Viper",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Sinister",
+    "Sinister",
+    "Viper",
+    "Sinister",
+    "Sinister",
+    "Sinister",
+    "Ritualist",
+    "Ritualist"
+  ],
+  "attributes": {
+    "Health": 21478,
+    "Armor": 2514,
+    "Power": 2371,
+    "Precision": 1790,
+    "Toughness": 1243,
+    "Vitality": 1788,
+    "Ferocity": 300,
+    "Condition Damage": 2954,
+    "Expertise": 451,
+    "Concentration": 538,
+    "Healing Power": 250,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.30066666666666664,
+    "Boon Duration": 0.3586666666666667,
+    "Critical Chance": 0.7261904761904762,
+    "Critical Damage": 1.7,
+    "Power Coefficient": 2232,
+    "Burning Coefficient": 14.08,
+    "Bleeding Coefficient": 3.47,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 1.28,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Burning Duration": 0.7,
+    "Maximum Health": 0.10000000000000009,
+    "Resolution Duration": 0.25,
+    "Effective Power": 5552.1410625,
+    "Power DPS": 4771.80548767809,
+    "Bleeding Damage": 298.85999999999996,
+    "Bleeding Stacks": 4.5133133333333335,
+    "Bleeding DPS": 1348.8488227999999,
+    "Burning Damage": 1015.8007499999999,
+    "Burning Stacks": 28.16,
+    "Burning DPS": 28604.949119999997,
+    "Confusion Damage": 351.93899999999996,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 316.10999999999996,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 446.49,
+    "Torment Stacks": 1.6648533333333333,
+    "Torment DPS": 743.3403648,
+    "Damage": 35468.943795278086,
+    "Effective Health": 107454113.43283583,
+    "Survivability": 54628.42574114684,
+    "Effective Healing": 465,
+    "Healing": 465
+  },
+    "runeId": 24765,
+    "runeName": "Balthazar",
+    "infusions": [
+      37130, 37130, 37130, 37130, 37130, 37130, 37130,
+      37130, 37130, 37130, 37130, 37130, 37130, 37130,
+      37130, 37130, 37130, 37130
+    ],
+    "weapons": {
+      "weapon1MainType": "Axe",
+      "weapon1MainSigil1": "Torment",
+      "weapon1OffType": "Torch",
+      "weapon1OffSigil": "Bursting",
+      "weapon2MainType": "Scepter",
+      "weapon2MainSigil1": "Geomancy"
+    },
+    "consumables": {
+      "foodId": "91878",
+      "utilityId": 48916,
+      "infusion": "Malign +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Mantra of Solace",
+      "utility1": "Mantra of Potence",
+      "utility2": "Purging Flames",
+      "utility3": "Sanctuary",
+      "elite": "Feel my Wrath"
+    }
+  }}
+>
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
+
+You will want the following weapons to swap to durning fractal runs:
+
+- Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
+- A staff for <Boon name="Might"/> pre-stacking.
+- If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
+
+</Character>
+<Character title="Condi Quickbrand 222ar (35.8%bd)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Viper",
+    "Ritualist",
+    "Viper",
+    "Ritualist",
+    "Ritualist",
+    "Viper",
+    "Sinister",
+    "Sinister",
+    "Viper",
+    "Sinister",
+    "Sinister",
+    "Sinister",
+    "Ritualist",
+    "Ritualist"
+  ],
+  "attributes": {
+    "Health": 19706,
+    "Armor": 2604,
+    "Power": 2532,
+    "Precision": 1969,
+    "Toughness": 1333,
+    "Vitality": 1627,
+    "Ferocity": 300,
+    "Condition Damage": 2941,
+    "Expertise": 451,
+    "Concentration": 539,
+    "Healing Power": 250,
+    "Agony Resistance": 222,
+    "Condition Duration": 0.30066666666666664,
+    "Boon Duration": 0.3593333333333333,
+    "Critical Chance": 0.8114285714285714,
+    "Critical Damage": 1.7,
+    "Power Coefficient": 2232,
+    "Burning Coefficient": 14.08,
+    "Bleeding Coefficient": 3.47,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 1.28,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Burning Duration": 0.7,
+    "Maximum Health": 0.10000000000000009,
+    "Resolution Duration": 0.25,
+    "Effective Power": 6163.69824,
+    "Power DPS": 5297.410270188679,
+    "Bleeding Damage": 297.68999999999994,
+    "Bleeding Stacks": 4.5133133333333335,
+    "Bleeding DPS": 1343.5682461999997,
+    "Burning Damage": 1012.3248749999999,
+    "Burning Stacks": 28.16,
+    "Burning DPS": 28507.068479999998,
+    "Confusion Damage": 350.5935,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 314.93999999999994,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 444.735,
+    "Torment Stacks": 1.6648533333333333,
+    "Torment DPS": 740.4185472,
+    "Damage": 35888.465543588674,
+    "Effective Health": 102118256.71641792,
+    "Survivability": 51915.73803579966,
+    "Effective Healing": 465,
+    "Healing": 465
+  },
+    "runeId": 24765,
+    "runeName": "Balthazar",
+    "infusions": [
+      37130, 37130, 37130, 37130, 37130, 37130, 37130,
+      37130, 37130, 37130, 37130, 37130, 37130, 37130,
+      37130, 37130, 37130, 37130
+    ],
+    "weapons": {
+      "weapon1MainType": "Axe",
+      "weapon1MainSigil1": "Torment",
+      "weapon1OffType": "Torch",
+      "weapon1OffSigil": "Bursting",
+      "weapon2MainType": "Scepter",
+      "weapon2MainSigil1": "Geomancy"
+    },
+    "consumables": {
+      "foodId": "91878",
+      "utilityId": 48916,
+      "infusion": "Malign +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Mantra of Solace",
+      "utility1": "Mantra of Potence",
+      "utility2": "Purging Flames",
+      "utility3": "Sanctuary",
+      "elite": "Feel my Wrath"
+    }
+  }}
+>
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
+
+Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
+You will want the following weapons to swap to durning fractal runs:
+
+- Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
+- A staff for <Boon name="Might"/> pre-stacking.
+- If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
+
+</Character>
+<Character title="Condi DPS (Quickness Share)" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
@@ -136,7 +361,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
     },
     "consumables": {
       "foodId": "91878",
-      "utilityId": 48916,
+      "utility": "Toxic Focusing Crystal",
       "infusion": "Malign +9 Agony Infusion"
     },
     "skills": {
@@ -144,19 +369,20 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
       "utility1": "Mantra of Potence",
       "utility2": "Purging Flames",
       "utility3": "Sanctuary",
-      "elite": "Feel my Wrath"
+      "elite": "Renewed Focus"
     }
   }}
 >
 
-Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
+To share quickness you will need at least two <Specialization name="Firebrand" text="Firebrands"/>. You can see the traits required in the Build Variants section further down the page.
+
 You will want the following weapons to swap to durning fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
 - A staff for <Boon name="Might"/> pre-stacking.
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
-</Character> 
+</Character>
 </CharacterWithAr>
 
 <Divider text="Build"/>
