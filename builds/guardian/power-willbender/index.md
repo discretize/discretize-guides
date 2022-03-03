@@ -27,7 +27,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-02T22:38:09.508Z
+date: 2022-03-02T22:39:33.303Z
 ---
 
 <Warning>
@@ -463,7 +463,7 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="65" traits3="Willbender" traits3SelectedIds="2190,2210,2201"/>
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="65" traits3="Willbender" traits3SelectedIds="2190,2210,2201"/>
 
 <Card title="Virtues">
 
