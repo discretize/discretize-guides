@@ -29,15 +29,21 @@ boons:
   - name: Regeneration
     uptime: 100%
     variant: group
-code: '[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ' '
+  - name: Protection
+    uptime: 100%
+    variant: group
+  - name: Resolution
+    uptime: 78%
+    variant: group
+code: "[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: " "
 classification:
   - 4
   - 1
   - 3
   - 1
   - 2
-date: 2022-01-13T16:52:14.731Z
+date: 2022-03-03T12:31:51.149Z
 ---
 
 <Warning>
@@ -249,8 +255,7 @@ The advantage of this trait line is the increased group DPS. It gives up some pa
   within. This skill should be used off-cooldown when on the Axe weapon set.
 - <Skill name="Blazing Edge" /> can be used for CC or to pull adds together.
 - <Skill name="Shield of Judgment" /> grants <Boon name="Protection" /> and <Boon name="Aegis" />
-  . This is your main source of <Boon name="Protection" /> so make sure to prioritize
-  this skill when <Boon name="Aegis" /> is needed.
+  . This is a main source of on-demand <Boon name="Aegis" /> and adds some extra <Boon name="Protection"/> on top of what you get from <Skill name="Mantra of Solace"/>.
 - <Skill name="Shield of Absorption" /> is very versatile. This skill can be double-tapped
   for quick CC or healing or can be channeled longer for negating projectiles. This
   skill will cancel other skills you are currently casting.
@@ -270,7 +275,7 @@ The advantage of this trait line is the increased group DPS. It gives up some pa
   within. This skill should be used off-cooldown when on the Staff weapon set.
 - <Skill name="Empower" /> is one of your main sources of <Boon name="Might" /> and
   should be used off-cooldown while on Staff. You can give yourself <Boon name="Aegis" /> while
-  channeling via instant cast skills if attacks are incoming.
+  channeling via <Skill name="Advance"/> for incoming attacks if you are using this skill.
 - <Skill name="Line of Warding" /> is a very niche skill. This skill will cancel
   other skills you are currently casting.
 
@@ -303,7 +308,7 @@ The advantage of this trait line is the increased group DPS. It gives up some pa
 | <Skill name="Bane Signet"/>                                                     | 300 damage                                                 |
 | <Skill name="Hammer of Wisdom"/>                                                | 200 damage                                                 |
 | <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage                                                 |
-| <Skill name="Sanctuary"/>                                                       | 150/s damage (for 5 seconds,<br/> adding up to 750 damage) |
+| <Skill name="Sanctuary"/>                                                       | 150/s damage for 5 (or 7 with Virtues) seconds,<br/> adding up to 750 (1050) damage |
 
 </Card>
 </GridItem>
@@ -333,8 +338,8 @@ All Tomes are built in a similar way:
 - <TomeSkill name="Chapter 3: Heated Rebuke"/> is a CC. It pulls enemies together and can be used from range.
 - <TomeSkill name="Chapter 4: Scorched Aftermath"/> creates a Fire Field that can be used to blast <Boon name="Might"/>.
 - <TomeSkill name="Epilogue: Ashes of the Just"/> grants an effect to allies that makes them inflict burning on their next attacks. This scales with <Attribute name="Condition Damage"/> so be careful when using this skill or skip it entirely when running with <Specialization name="Firebrand" text="Condi Firebrands"/>.
-- When running Radiance, dealing damage with any skill in this Tome will trigger <Trait name="Wrath of Justice"/> and share the <Attribute name="Condition Damage"/> to allies.
-- When running Radiance killing certain enemies will reset this Tome. Keep in mind this will not reset the skills in the Tome.
+- When running Radiance, dealing damage with any skill in this Tome will trigger <Trait name="Wrath of Justice"/> and share the <Attribute name="Condition Damage"/> to allies through <Trait name="Perfect Inscriptions"/>.
+- When running Radiance killing certain enemies will lower the cooldown on this Tome. Keep in mind this will not reset the skills in the Tome.
 - A common rotation in this Tome is 4-(5)-exit.
 
 <Skill name="Tome of Resolve" />:
@@ -366,30 +371,21 @@ All Tomes are built in a similar way:
 <Card title="Standard Boons">
 
 - <Boon name="Quickness" /> will be provided by using <Skill name="Mantra of Solace" /> (which
-  triggers <Trait name="Liberators Vow" /> every 7 seconds) and <Skill name="Mantra of Potence" />
-  . Keep 2 charges of <Skill name="Mantra of Solace" /> to provide <Boon name="Aegis" /> and
-  use it every time you go back to 3 charges. You can use <Skill name="Mantra of Potence" /> down
-  to 0 charges whenever you are stacked with your group.
+  triggers <Trait name="Liberators Vow" /> every 7 seconds algning nicely with the recharge time of the skill with Alacrity and <Trait name="Weighty Terms"/>) and <Skill name="Mantra of Potence" />. You can use <Skill name="Mantra of Potence" /> down to 0 charges whenever you are stacked with your group.
 - <Boon name="Might" /> comes from different sources. <Skill name="Empower" /> is
   a big source of <Boon name="Might" /> and should be used off-cooldown whenever
   you are on Staff and on the group. Using <Skill name="Tome of Justice" /> Skill
   4 and blasting it with <Skill name="Holy Strike" /> will also grant <Boon name="Might" /> and
-  give others the option to also blast additional <Boon name="Might" />. Using <Skill name="Mantra of Potence" /> as
-  mentioned above will also contribute to <Boon name="Might" /> generation.
+  give others the option to also blast additional <Boon name="Might" />. Using <Skill name="Mantra of Potence" /> as mentioned above will also contribute to <Boon name="Might" /> generation.
 - <Boon name="Fury" /> will be provided through <Skill name="Symbol of Vengeance" />
   . Make sure to use this off-cooldown when on the Axe weapon set while people are
   stacked together. Try to use this skill 2 times before swapping to Staff.
 - <Boon name="Swiftness" /> mainly comes from <Skill name="Symbol of Swiftness" />
   . Make sure to use this whenever you are on Staff.
 - <Boon name="Regeneration" /> will be provided through <Skill name="Mantra of Lore" /> when
-  equipped. You can use it similarly to <Skill name="Mantra of Solace" /> and keep
-  2 charges for condi cleanse while providing some <Boon name="Regeneration" /> whenever
-  it goes back to 3 charges.
-- Some <Boon name="Protection"/> can be provided through <Skill name="Shield of Judgment"/>. This is your only reliable source of <Boon name="Protection"/> as you do not want to use <Skill name="Tome of Courage"/> just for the <Boon name="Protection"/> from Skill 5.
-- <Boon name="Resolution" /> is provided through <Skill name="Mantra of Liberation" />
-  . If you think you will not need a lot of <Boon name="Stability" /> you can use
-  this down to 2 charges similar to <Skill name="Mantra of Solace" /> in order to
-  provide some <Boon name="Resolution" /> to the group.
+  equipped. You can keep 2 charges for condi cleanse while providing some <Boon name="Regeneration" /> whenever it goes back to 3 charges.
+- Your main source of <Boon name="Protection"/> comes from <Skill name="Mantra of Solace"/>. You can use it whenever you need it for healing but make sure to use it often enough to trigger <Trait name="Liberator's Vow"/> for <Boon name="Quickness"/>. Some <Boon name="Protection"/> can be provided through <Skill name="Shield of Judgment"/>. <Skill name="Tome of Courage"/> offers some <Boon name="Protection"/> from Skill 5 as well but you do not want to use this Tome just for a small boost in <Boon name="Protection"/>.
+- <Boon name="Resolution" /> is provided through <Skill name="Mantra of Solace" /> and <Skill name="Mantra of Liberation" />. If you think you will not need all 3 charges for <Boon name="Stability" />, you can use <Skill name="Mantra of Liberation" /> down to 2 charges in order to to keep up permanent <Boon name="Resolution" /> for the group alongside <Skill name="Mantra of Solace" />.
 
 </Card>
 
@@ -397,8 +393,7 @@ All Tomes are built in a similar way:
 
 - Provide a Fire Field if needed. <TomeSkill name="Chapter 4: Scorched Aftermath"/> in <Skill name="Tome of Justice"/> provides a short Fire Field. <Skill name="Hallowed Ground"/> provides a longer Fire Field as well as extra <Boon name="Resolution"/> but has to be specifically slotted for pre-stacking.
 - <Skill name="Holy Strike" /> to blast <Boon name="Might" />.
-- <Skill name="Empower" /> and cast <Skill name="Mantra of Solace" /> once and every
-  other equipped Mantra as often as you can during the cast.
+- <Skill name="Empower" /> and cast every equipped Mantra as often as you can during the cast.
 - <Skill name="Feel My Wrath" /> if you have it equipped.
 - <Skill name="Bane Signet" /> if you can start the fight within 10 seconds of usage.
 - Take the singularity.
@@ -415,12 +410,11 @@ All Tomes are built in a similar way:
 <Card title="Aegis">
 
 - Correct application of <Boon name="Aegis"/> requires knowledge of the encounters and which attacks are impactful to block.
-- As mentioned above keep <Skill name="Mantra of Solace"/> and 2 charges and use them when <Boon name="Aegis"/> is needed.
-- <Skill name="Shield of Judgment" /> will also give <Boon name="Aegis" />. Prioritize this over the charges of <Skill name="Mantra of Solace" /> since this is also your main source of <Boon name="Protection" />.
-- <TomeSkill name="Epilogue: Unbroken Lines"/> in <Skill name="Tome of Courage" /> will also provide <Boon name="Aegis" />, however you will not enter this Tome for a single application of <Boon name="Aegis" />.
-- <Skill name="Advance" /> is an instant-cast skill providing <Boon name="Aegis" /> when chosen.
+- <Skill name="Shield of Judgment" /> is your main accessible source of <Boon name="Aegis"/> unless you slot <Skill name="Advance"/>.
+- <TomeSkill name="Epilogue: Unbroken Lines"/> in <Skill name="Tome of Courage" /> will also provide <Boon name="Aegis" />. You do not want to enter this Tome only for the single application of <Boon name="Aegis" />, but it si nice to keep in mind when deciding whether to do into the Tome.
+- <Skill name="Advance" /> is the only instant-cast skill providing <Boon name="Aegis" /> when chosen and can be used while casting other skills to not get interrupted.
 - If Mace is equipped, <Skill name="Protectors Strike"/> also grants <Boon name="Aegis"/> when blocking an attack while channeling.
-- You can use instant-cast skills, namely <Skill name="Mantra of Solace"/> and <Skill name="Advance"/> while channeling other skills so if you need to use <Skill name="Empower"/> but an attack is incoming you can still cast it and get <Boon name="Aegis"/> from one of those skills.
+
 
 </Card>
 </GridItem>
@@ -484,9 +478,7 @@ All Tomes are built in a similar way:
 
 <Warning>
 
-Here's two In-Depth video guides on <Specialization name="Firebrand" text="Heal Firebrand" />. Keep in mind that
-we still highly recommend playing the default Radiance/Honor build from the
-build section.
+Here's two In-Depth video guides on <Specialization name="Firebrand" text="Heal Firebrand" />. Keep in mind that these videos were made before <Skill name="Mantra of solace"/> got changed from giving <Boon name="Aegis"/> to giving <Boon name="Protection"/> and <Boon name="Resolution"/>.
 
 </Warning>
 
