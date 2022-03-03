@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-02T21:42:04.592Z
+date: 2022-03-03T17:29:17.050Z
 ---
 
 <Warning>
@@ -47,37 +47,37 @@ This build guide is not complete, gear and sections may chage regularly as we ex
   "weight": "Heavy",
   "gear": [
     "Grieving",
-    "Sinister",
     "Grieving",
-    "Sinister",
     "Grieving",
-    "Sinister",
     "Viper",
     "Grieving",
     "Viper",
+    "Grieving",
+    "Grieving",
     "Viper",
     "Viper",
-    "Sinister",
+    "Viper",
+    "Viper",
     "Grieving",
     "Grieving"
   ],
   "attributes": {
     "Health": 12810,
     "Armor": 2514,
-    "Power": 2973,
-    "Precision": 2075,
+    "Power": 3003,
+    "Precision": 1956,
     "Toughness": 1243,
     "Vitality": 1000,
-    "Ferocity": 615,
-    "Condition Damage": 2770,
-    "Expertise": 225,
+    "Ferocity": 708,
+    "Condition Damage": 2745,
+    "Expertise": 295,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.15,
+    "Condition Duration": 0.19666666666666668,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.8619047619047618,
-    "Critical Damage": 1.91,
+    "Critical Chance": 0.8052380952380953,
+    "Critical Damage": 1.972,
     "Power Coefficient": 2715,
     "Burning Coefficient": 14.65,
     "Bleeding Coefficient": 1.14,
@@ -85,27 +85,27 @@ This build guide is not complete, gear and sections may chage regularly as we ex
     "Torment Coefficient": 1.33,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Burning Duration": 0.8500000000000001,
+    "Burning Duration": 0.7,
     "Maximum Health": 0.10000000000000009,
     "Resolution Duration": 0.25,
-    "Effective Power": 10047.60000315,
-    "Power DPS": 10504.133233943878,
-    "Bleeding Damage": 317.5875,
-    "Bleeding Stacks": 1.3109999999999997,
-    "Bleeding DPS": 416.3572124999999,
-    "Burning Damage": 1087.42921875,
-    "Burning Stacks": 29.3,
-    "Burning DPS": 31861.676109375003,
-    "Confusion Damage": 374.506875,
+    "Effective Power": 10139.649620958002,
+    "Power DPS": 10600.36531417057,
+    "Bleeding Damage": 315.05625,
+    "Bleeding Stacks": 1.3642,
+    "Bleeding DPS": 429.79973624999997,
+    "Burning Damage": 1079.9092968749999,
+    "Burning Stacks": 27.786166666666666,
+    "Burning DPS": 30006.53970785156,
+    "Confusion Damage": 371.5959375,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 336.99375,
+    "Poison Damage": 334.4625,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 474.35624999999993,
-    "Torment Stacks": 1.5294999999999999,
-    "Torment DPS": 725.5278843749999,
-    "Damage": 43507.69444019388,
+    "Torment Damage": 470.55937499999993,
+    "Torment Stacks": 1.5915666666666668,
+    "Torment DPS": 748.9266159375,
+    "Damage": 41785.63137420963,
     "Effective Health": 64088238.805970155,
     "Survivability": 32581.717745790622,
     "Effective Healing": 390,
@@ -142,7 +142,7 @@ This build guide is not complete, gear and sections may chage regularly as we ex
       "weapon2MainSigil1Id": 24605
     },
   "consumables": {
-      "foodId": "91878",
+      "food": "fishy rice bowl",
       "utility": "toxic-focusing-crystal",
       "infusion": "Malign +9 Agony Infusion"
   },
@@ -217,16 +217,6 @@ You will want the following weapons to swap to durning fractal runs:
 
 **Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast! Keep <Skill name="Rushing Justice"/> (F1) on cooldown!**
 </Warning>
-
-1.  <Skill name="Rushing Justice"/> (F1)
-2.  <Skill id="9104"/> (Torch 4)
-3.  <Skill name="Symbol of Punishment"/> (Scepter 2)
-4.  _Weapon Swap_
-5.  <Skill name="Symbol of Blades"/> (Sword 2)
-6.  <Skill name="Purging Flames"/>
-7.  <Skill name="Whirling Light"/>
-8.  <Skill id="9089"/> x2 (Torch 4)
-9.  <Skill name="Zealot's Defense"/> (Sword 3)
 
 </Card>
 </GridItem>
