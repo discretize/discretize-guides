@@ -1,10 +1,11 @@
 ---
 title: Condi Specter
+hidden: false
 rating: Good
 role: Condi Damage
 profession: Thief
 specialization: Specter
-skills:
+skills: null
 conditions:
   - Vulnerability
   - Weakness
@@ -12,18 +13,17 @@ conditions:
   - Poisoned
   - Bleeding
   - Torment
-boons:
-cmGuide: ''
+boons: null
+cmGuide: ""
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-compositions:
-code: ''
-date: 2022-01-12T02:19:49.021Z
-hidden: true
+compositions: null
+code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-03-03T18:47:16.210Z
 ---
 
 <Warning>
@@ -40,7 +40,7 @@ This build is [META](/guides/meta-explained) in condi comps. In terms of DPS, it
 
 </Warning>
 
-The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with team support options. tThe value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an non-negligible amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consumed when the boss is vulnerable to this type of damage (up to five stacks, one per player).
+The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. tThe value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target. At the same time it can generate barrier, heal and provide boons by targeting allied players.
 
 <Divider text="Equipment"/>
 
@@ -81,6 +81,13 @@ The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS cond
     "Boon Duration": 0.162,
     "Critical Chance": 0.6671428571428571,
     "Critical Damage": 1.6,
+    "Power Coefficient": 2111,
+    "Burning Coefficient": 0.55,
+    "Bleeding Coefficient": 2.7,
+    "Poison Coefficient": 20.68,
+    "Torment Coefficient": 22.67,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
     "Torment Duration": 0.5,
     "Poison Duration": 0.33,
     "Outgoing Healing": 0.2,
@@ -131,9 +138,13 @@ The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS cond
   ],
     "weapons": {
       "weapon1MainType": "Scepter",
-      "weapon1MainSigil1": "Torment",
-      "weapon2OffType": "Dagger",
-      "weapon2OffSigil": "Doom"
+      "weapon1MainSigil": "Torment",
+      "weapon1OffType": "Dagger",
+      "weapon1OffSigil": "Doom",
+      "weapon2MainType": "Scepter",
+      "weapon2MainSigil": "Doom",
+      "weapon2OffType": "Pistol",
+      "weapon2OffSigil": "Paralyzation"
     },
     "consumables": {
       "foodId": "91878",
