@@ -115,7 +115,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "weapon2OffSigil": "impact"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
@@ -209,7 +209,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "weapon2OffSigil": "impact"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
@@ -319,7 +319,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "weapon2OffSigil": "impact"
   },
   "consumables": {
-    "foodId": "91805",
+    "foodId": 91805,
     "utility": "superior-sharpening-stone",
     "infusion": "Mighty +9 Agony Infusion"
   },

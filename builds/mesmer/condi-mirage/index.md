@@ -129,7 +129,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "weapon2OffSigil": "earth"
     },
     "consumables": {
-      "foodId": "91878",
+      "foodId": 91878,
       "utility": "toxic-focusing-crystal",
       "infusion": "Malign +9 Agony Infusion"
     },
@@ -219,7 +219,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "weapon2OffSigil": "earth"
     },
     "consumables": {
-      "foodId": "91876",
+      "foodId": 91876,
       "utility": "tuning-Icicle",
       "infusion": "Spiteful +9 Agony Infusion"
     },

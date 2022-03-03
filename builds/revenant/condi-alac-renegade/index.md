@@ -19,8 +19,8 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: "[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 4
   - 3
@@ -33,7 +33,9 @@ date: 2022-03-03T18:57:04.705Z
 <Divider text="Overview"/>
 
 <Warning>
+
 This build is mainly to be used in condition comps. In power comps <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support and being more versatile.
+
 </Warning>
 
 Condi <Specialization name="Renegade"/> is an unique build that may only be played in condition comps, since it performs much better than <BuildLink build="Power Renegade" specialization="Renegade"/>. Condi <Specialization name="Renegade"/> has decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively. Finally, to top it off this build has high CC capabilities with <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
@@ -142,8 +144,8 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
       "weapon2MainSigil2": "geomancy"
     },
     "consumables": {
-      "foodId": "91878",
-      "utilityId": "48916",
+      "foodId": 91878,
+      "utilityId": 48916,
       "infusion": "Malign +9 Agony Infusion"
     },
     "legends": {
@@ -255,7 +257,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
       "weapon2MainSigil2": "geomancy"
     },
     "consumables": {
-      "foodId": "91878",
+      "foodId": 91878,
       "utility": "Toxic Focusing Crystal",
       "infusion": "Malign +9 Agony Infusion"
     },
@@ -346,7 +348,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
       "weapon2MainSigil2": "geomancy"
     },
     "consumables": {
-      "foodId": "91878",
+      "foodId": 91878,
       "utility": "toxic-focusing-crystal",
       "infusion": "Malign +9 Agony Infusion"
     },

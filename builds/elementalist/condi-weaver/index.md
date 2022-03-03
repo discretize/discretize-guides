@@ -4,7 +4,7 @@ skills:
   - 43638
   - 5542
   - 40183
-code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -22,7 +22,7 @@ conditions:
   - Crippled
   - Bleeding
   - Chilled
-cmGuide: ""
+cmGuide: ''
 ---
 
 <Warning>
@@ -119,8 +119,8 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
       "weapon1OffSigil": "Geomancy"
     },
     "consumables": {
-      "foodId": "91876",
-      "utilityId": "48917",
+      "foodId": 91876,
+      "utilityId": 48917,
       "infusion": "Malign +9 Agony Infusion"
     },
     "skills": {

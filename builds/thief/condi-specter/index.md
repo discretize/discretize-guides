@@ -14,7 +14,7 @@ conditions:
   - Bleeding
   - Torment
 boons: null
-cmGuide: ""
+cmGuide: ''
 classification:
   - 3
   - 3
@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
 compositions: null
-code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-03-03T18:47:16.210Z
 ---
 
@@ -147,7 +147,7 @@ The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS cond
       "weapon2OffSigil": "Paralyzation"
     },
     "consumables": {
-      "foodId": "91878",
+      "foodId": 91878,
       "utility": "tuning-icicle",
       "infusion": "Malign +9 Agony Infusion"
     },

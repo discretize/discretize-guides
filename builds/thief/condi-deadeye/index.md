@@ -126,7 +126,7 @@ We do not recommend running these builds in Shattered Observatory for new player
       "weapon1OffSigil": "earth"
     },
     "consumables": {
-      "foodId": "91878",
+      "foodId": 91878,
       "utility": "tuning-icicle",
       "infusion": "Malign +9 Agony Infusion"
     },

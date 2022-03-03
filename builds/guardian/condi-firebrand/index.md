@@ -20,7 +20,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-cmGuide: ""
+cmGuide: ''
 classification:
   - 5
   - 4
@@ -29,7 +29,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-03-03T17:48:23.721Z
 benchmark:
   small:
@@ -150,7 +150,7 @@ There are a number of different gear, utility and trait setups that allow you to
       "weapon2MainSigil1": "Geomancy"
     },
     "consumables": {
-      "foodId": "91878",
+      "foodId": 91878,
       "utility": "Toxic Focusing Crystal",
       "infusion": "Malign +9 Agony Infusion"
     },
@@ -359,7 +359,7 @@ You will want the following weapons to swap to durning fractal runs:
       "weapon2MainSigil1": "Geomancy"
     },
     "consumables": {
-      "foodId": "91878",
+      "foodId": 91878,
       "utility": "Toxic Focusing Crystal",
       "infusion": "Malign +9 Agony Infusion"
     },

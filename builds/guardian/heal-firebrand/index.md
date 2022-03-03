@@ -141,7 +141,7 @@ The build is very flexible and can be adapted to the encounter, instabilities an
       "weapon2MainSigil2": "concentration"
     },
     "consumables": {
-      "foodId": "91690",
+      "foodId": 91690,
       "utility": "bountiful-maintenance-oil",
       "infusion": "Healing +9 Agony Infusion"
     },
