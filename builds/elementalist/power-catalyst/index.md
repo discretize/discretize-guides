@@ -1,29 +1,29 @@
 ---
-title: Power (Quick) Catalyst
-rating: Good
-role: Power Damage
-profession: Elementalist
-specialization: Catalyst
-code: ''
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-date: 2022-01-12T02:17:12.062Z
-conditions:
-  - Burning
-  - Chilled
-  - Vulnerability
 Boons:
   - name: Quickness
     uptime: 100%
     variant: group
   - name: Might
-    uptime:
+    uptime: null
     variant: party
-hidden: true
+title: Power (Quick) Catalyst
+hidden: false
+rating: Good
+profession: Elementalist
+specialization: Catalyst
+code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-03-03T19:29:53.129Z
+role: Power Damage
+conditions:
+  - Burning
+  - Chilled
+  - Vulnerability
 ---
 
 <Warning>
@@ -42,7 +42,7 @@ This build has one of the most harder rotations in game which makes it enjoyable
 
 <CharacterWithAr>
 
-<Character title="DPS Catalyst 162 Agony Resistance" gear={{
+<Character title="162 Agony Resistance" gear={{
   "profession": "Elementalist",
   "weight": "Light",
   "gear": [
@@ -50,7 +50,7 @@ This build has one of the most harder rotations in game which makes it enjoyable
     "Berserker",
     "Berserker",
     "Berserker",
-    "Berserker",
+    "Dragon",
     "Berserker",
     "Berserker",
     "Berserker",
@@ -62,13 +62,13 @@ This build has one of the most harder rotations in game which makes it enjoyable
     "Berserker"
   ],
   "attributes": {
-    "Health": 13645,
+    "Health": 14175,
     "Armor": 2410,
-    "Power": 4449,
-    "Precision": 2696,
+    "Power": 4434,
+    "Precision": 2669,
     "Toughness": 1443,
-    "Vitality": 1200,
-    "Ferocity": 2172,
+    "Vitality": 1253,
+    "Ferocity": 2188,
     "Condition Damage": 750,
     "Expertise": 0,
     "Concentration": 243,
@@ -76,11 +76,18 @@ This build has one of the most harder rotations in game which makes it enjoyable
     "Agony Resistance": 162,
     "Condition Duration": 0,
     "Boon Duration": 0.162,
-    "Critical Chance": 1.1276190476190475,
-    "Critical Damage": 2.9480000000000004,
+    "Critical Chance": 1.1147619047619048,
+    "Critical Damage": 2.958666666666667,
+    "Power Coefficient": 3804,
+    "Burning Coefficient": 6.67,
+    "Bleeding Coefficient": 5.78,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
     "Burning Duration": 0.2,
-    "Effective Power": 38436.30749393017,
-    "Power DPS": 56300.23631378913,
+    "Effective Power": 38445.32192049862,
+    "Power DPS": 56313.4403487011,
     "Bleeding Damage": 118.38816773437502,
     "Bleeding Stacks": 5.78,
     "Bleeding DPS": 684.2836095046877,
@@ -96,9 +103,9 @@ This build has one of the most harder rotations in game which makes it enjoyable
     "Torment Damage": 175.46186650781252,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 60481.368903539835,
-    "Effective Health": 65441691.542288564,
-    "Survivability": 33269.79742871813,
+    "Damage": 60494.572938451805,
+    "Effective Health": 67983582.08955225,
+    "Survivability": 34562.06511924365,
     "Effective Healing": 390,
     "Healing": 390
   },
@@ -145,218 +152,11 @@ This build has one of the most harder rotations in game which makes it enjoyable
 
 Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
-</Character>
+The stat selection will not change with higher AR / <Trait name="Spotter"/> / <Skill name="Banner of Discipline"/>.
 
-<Character title="Quick Catalyst 162 Agony Resistance" gear={{
-  "profession": "Elementalist",
-  "weight": "Light",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Diviner",
-    "Berserker",
-    "Berserker",
-    "Diviner",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Diviner",
-    "Diviner",
-    "Diviner"
-  ],
-  "attributes": {
-    "Health": 13645,
-    "Armor": 2410,
-    "Power": 4352,
-    "Precision": 2551,
-    "Toughness": 1443,
-    "Vitality": 1200,
-    "Ferocity": 2019,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 758,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.5053333333333333,
-    "Critical Chance": 1.0585714285714287,
-    "Critical Damage": 2.846,
-    "Burning Duration": 0.2,
-    "Effective Power": 36297.40327570908,
-    "Power DPS": 53167.2399155939,
-    "Bleeding Damage": 118.38816773437502,
-    "Bleeding Stacks": 5.78,
-    "Bleeding DPS": 684.2836095046877,
-    "Burning Damage": 436.8876786914063,
-    "Burning Stacks": 8.004,
-    "Burning DPS": 3496.848980246016,
-    "Confusion Damage": 145.86482457421877,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 138.70852488281253,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 175.46186650781252,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 57348.3725053446,
-    "Effective Health": 65441691.542288564,
-    "Survivability": 33269.79742871813,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-    "weapons": {
-    "weapon1MainType": "Hammer",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1MainSigil2Id": 24868
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 9443,
-    "infusion": "Mighty +9 Agony Infusion"
-  },
-  "skills": {
-    "healId": 62827,
-    "utility1Id": 5734,
-    "utility2Id": 62698,
-    "utility3Id": 62965,
-    "eliteId": 5516
-  }
-}}>
-
-Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
+If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specialist"/>, at 162 ar you want to use <Item id="89912"/> and <Item id="48082"/>. Once you reach 20% boon duration from <Attribute name="Agony Resistance"/> you can use the gear below. At high <Attribute name="Agony Resistance"/> it is a very minor dps increase to play <Trait name="Empowered Empowerment"/> and use diviner gear to make up boon duration.
 
 </Character>
-
-<Character title="Quick Catalyst 222 Agony Resistance" gear={{
-  "profession": "Elementalist",
-  "weight": "Light",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Diviner",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Diviner",
-    "Diviner",
-    "Diviner"
-  ],
-  "attributes": {
-    "Health": 13645,
-    "Armor": 2500,
-    "Power": 4371,
-    "Precision": 2669,
-    "Toughness": 1533,
-    "Vitality": 1200,
-    "Ferocity": 2048,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 752,
-    "Healing Power": 0,
-    "Agony Resistance": 222,
-    "Condition Duration": 0,
-    "Boon Duration": 0.5013333333333333,
-    "Critical Chance": 1.1147619047619048,
-    "Critical Damage": 2.865333333333333,
-    "Burning Duration": 0.2,
-    "Effective Power": 36703.52136213809,
-    "Power DPS": 53762.108302492605,
-    "Bleeding Damage": 118.38816773437502,
-    "Bleeding Stacks": 5.78,
-    "Bleeding DPS": 684.2836095046877,
-    "Burning Damage": 436.8876786914063,
-    "Burning Stacks": 8.004,
-    "Burning DPS": 3496.848980246016,
-    "Confusion Damage": 145.86482457421877,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 138.70852488281253,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 175.46186650781252,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 57943.24089224331,
-    "Effective Health": 67885572.13930349,
-    "Survivability": 34512.23799659557,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-    "weapons": {
-    "weapon1MainType": "Hammer",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1MainSigil2Id": 24868
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 9443,
-    "infusion": "Mighty +9 Agony Infusion"
-  },
-  "skills": {
-    "healId": 62827,
-    "utility1Id": 5734,
-    "utility2Id": 62698,
-    "utility3Id": 62965,
-    "eliteId": 5516
-  }
-}}>
-
-Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
-
-</Character>
-
 </CharacterWithAr>
 
 <Divider text="Build"/>
@@ -368,9 +168,9 @@ Check the [gear optimizer](https://optimizer.discretize.eu) for more gear varian
 
 |                                                          |                                                                                                                                                                       |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Sphere Specialist" size="big" disableText/> | If you need extra boon duration from your Jade Sphere (With this trait you can play the DPS gear)                                                                     |
+| <Trait name="Sphere Specialist" size="big" disableText/> | Taken if you want to provide <Boon name="Quickness"/>                                                                    |
 | <Trait name="Raging Storm" size="big" disableText/>      | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
-| <Trait name="One with Air" size="big" disableText/>      | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+| <Trait name="One with Air" size="big" disableText/>      | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Piñata Tonic"/>. |
 
 </Card>
 <Card title="Defiance Bar Damage">
@@ -381,9 +181,9 @@ Check the [gear optimizer](https://optimizer.discretize.eu) for more gear varian
 | <Skill name="Shock Blast" size="big" disableText/>                                                                                                                        | 150 with <Control name="Stun"/>          |
 | <Skill name="Wind Blast" size="big" disableText/>                                                                                                                         | 232 with <Control name="Launch"/>        |
 | <Skill name="Deep Freeze" size="big" disableText/>                                                                                                                        | 300 with <Control name="Stun"/>          |
-| <Skill name="Magnetic Surge" size="big" disableText/>                                                                                                                     | 200 with <Control name="Daze"/>          |
-| <Skill name="Magnetic Shield" size="big" disableText/>                                                                                                                    | 150 with <Control name="Pull"/>          |
-| <Skill name="Chilling Crack" size="big" disableText/> <br/> <Skill name="Rain of Blows" size="big" disableText/> <br/> <Skill name="Twin Strike" size="big" disableText/> | 33 / s with <Condition name="Chilled"/>  |
+| <Skill id="5547" size="big" disableText/>                    | 200 with <Control name="Daze"/>          |
+| <Skill id="5747" size="big" disableText/>                    | 150 with <Control name="Pull"/>          |
+| <Skill name="Chilling Crack" size="big" disableText/> <br/> <Skill name="Rain of Blows" size="big" disableText/> <br/> | 33 / s with <Condition name="Chilled"/>  |
 | <Skill name="Crescent Wind" size="big" disableText/>                                                                                                                      | 20 / s with <Condition name="Weakness"/> |
 
 </Card>
