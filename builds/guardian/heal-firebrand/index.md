@@ -29,6 +29,12 @@ boons:
   - name: Regeneration
     uptime: 100%
     variant: group
+  - name: Protection
+    uptime: 100%
+    variant: group
+  - name: Resolution
+    uptime: 78%
+    variant: group
 code: "[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: " "
 classification:
@@ -37,7 +43,7 @@ classification:
   - 3
   - 1
   - 2
-date: 2022-03-03T12:23:51.631Z
+date: 2022-03-03T12:31:51.149Z
 ---
 
 <Warning>
