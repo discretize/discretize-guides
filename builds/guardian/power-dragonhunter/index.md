@@ -139,8 +139,6 @@ It benefits from slaying potions and slaying sigils such as <Item id="50082"/> a
   }}
 >
 
-If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>.
-
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
@@ -244,8 +242,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   }}
 >
 
-If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>.
-
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
@@ -348,8 +344,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     }
   }}
 >
-
-If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
@@ -455,7 +449,9 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   }}
 >
 
-It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
 </CharacterWithAr>
@@ -495,7 +491,8 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sh
 |                                                        |                                                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
-| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
+| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. Also useful for precasting a fire field and <Boon name="resolution"/> at the mistlock |
+| <Skill name="Advance" size="big" disableText/>         | When <Boon name="Aegis"/> is needed.                                                |
 | <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
 | <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
 | <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |

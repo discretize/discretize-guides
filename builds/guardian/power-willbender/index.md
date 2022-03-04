@@ -130,15 +130,13 @@ It has great burst options and deals high consistent damage while providing medi
     },
     "skills": {
       "heal": "Litany of Wrath",
-      "utility1": "Procession of Blades",
+      "utility1": "Flash Combo",
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
-      "elite": "Dragons Maw"
+      "eliteId": 62561
     }
   }}
 >
-
-If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
@@ -235,15 +233,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     },
     "skills": {
       "heal": "Litany of Wrath",
-      "utility1": "Procession of Blades",
+      "utility1": "Flash Combo",
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
-      "elite": "Dragons Maw"
+      "eliteId": 62561
     }
   }}
 >
-
-If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
@@ -340,15 +336,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     },
     "skills": {
       "heal": "Litany of Wrath",
-      "utility1": "Procession of Blades",
+      "utility1": "Flash Combo",
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
-      "elite": "Dragons Maw"
+      "eliteId": 62561
     }
   }}
 >
-
-If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
@@ -446,15 +440,17 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     },
     "skills": {
       "heal": "Litany of Wrath",
-      "utility1": "Procession of Blades",
+      "utility1": "Flash Combo",
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
-      "elite": "Dragons Maw"
+      "eliteId": 62561
     }
   }}
 >
 
-It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
 </CharacterWithAr>
@@ -463,7 +459,7 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="65" traits3="Willbender" traits3SelectedIds="2190,2210,2201"/>
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="65" traits3="Willbender" traits3SelectedIds="2190,2197,2201"/>
 
 <Card title="Virtues">
 
@@ -493,7 +489,8 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sh
 |                                                        |                                                                                     |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
-| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
+| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. Also useful for precasting a fire field and <Boon name="Resolution"/> at the mistlock. |
+| <Skill name="Advance" size="big" disableText/>         | When extra <Boon name="Aegis"/> is needed.                                          |
 | <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
 | <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
 | <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |

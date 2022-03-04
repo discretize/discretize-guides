@@ -344,7 +344,7 @@ If the encounter is short enough to precast Banners and swap to different skills
 
 |                                                           |                                                                                                                                                                                              |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="For Great Justice!" size="big" disableText/> | Whenever you notice less than 25 stacks of <Boon name="Might"/> on your buff bar.                                                                                                            |
+| <Skill name="For Great Justice!" size="big" disableText/> | If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!                                         |
 | <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use and fills up the entire adrenalin bar. |
 | <Skill name="Signet of might" size="big" disableText/>    | Flat 180 power buff. Only take this when no other utility is needed.                                                                                                                         |
 | <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.                                                                                                    |
@@ -353,25 +353,6 @@ If the encounter is short enough to precast Banners and swap to different skills
 | <Skill name="bullscharge" size="big" disableText/>        | 300 CC, gives <Trait name="Peakperformance"/>.                                                                                                                                               |
 
 </Card>
-</GridItem>
-</Grid>
-
-<Divider text="Details" />
-
-<Grid>
-<GridItem sm="8">
-
-**How to deal damage:**
-
-**Extra notes:**
-
-- If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!
-- If you expect your party to be slow it can make sense to bring <Trait name="smashbrawler"/> and eat the initial <Control name="Stun"/> of <Skill name="headbutt"/>.
-- Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
-
-</GridItem>
-
-<GridItem sm="4">
 <Card title="CC skills">
 
 |                             |            |
@@ -380,11 +361,6 @@ If the encounter is short enough to precast Banners and swap to different skills
 | <Skill id="14502"/>         | 150 damage |
 | <Skill id="14415"/>         | 300 damage |
 | <Skill id="14503"/>         | 100 damage |
-
-**When to take Mace:**
-
-- In fights with only one defiance bar, in the beginning, use Axe/Mace.
-- In T4s and encounters that have defiance bars during the fight, use an offhand mace only.
 
 </Card>
 </GridItem>
@@ -399,6 +375,8 @@ If the encounter is short enough to precast Banners and swap to different skills
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
 For that reason you can find a video with openers, that are efficient to use here.
 
+- Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
+  
 </Card>
 </GridItem>
 
@@ -423,7 +401,7 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <GridItem xs="12" sm="6">
 
-<Card title="Golem Rotation">
+<Card title="Rotation">
 
 Start in <Skill name="Unsheathe Gunsaber"/>
 
