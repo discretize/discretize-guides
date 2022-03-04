@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 12 stacks
     variant: party
-code: "[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
   - 4
@@ -324,7 +324,6 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
       "elite": "Head Butt"
     }
 }}>
-
 
 </Character>
 </CharacterWithAr>
