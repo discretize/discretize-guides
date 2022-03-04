@@ -1,28 +1,28 @@
 ---
 title: Power (Banner) Bladesworn
+hidden: false
 rating: Good
 role: Power Damage
 profession: Warrior
 specialization: BLadesworn
-skills:
-traits:
-conditions:
+skills: null
+traits: null
+conditions: null
 boons:
-  - Might
+  - name: Might
     uptime: 12 Stacks
     variant: party
-  - Fury
+  - name: Fury
     uptime: 100&
     variant: party
-code: ""
+code: '[&DQIEHzMWRCunAAAAAAAAAKwACgCqAKIBnACcAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-date: 2022-01-12T18:26:52.203Z
-Hidden: True
+date: 2022-03-02T20:29:02.907Z
 ---
 
 <Warning>
@@ -37,9 +37,9 @@ Besides providing the group with strong unique damage buffs through the stats of
 
 The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone. Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
-<Divider text="Equipment"/>
+<Divider text="Equipment" />
 
-<CharacterWithAr> 
+<CharacterWithAr>
 <Character title="162 Agony Resistance + Scholar Rune" gear={{
   "profession": "Warrior",
   "weight": "Heavy",
@@ -111,9 +111,7 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
       "weapon1MainType": "Axe",
       "weapon1MainSigil1Id": 24615,
       "weapon1OffType": "Pistol",
-      "weapon1OffSigilId": 24868,
-      "weapon2OffType": "Mace",
-      "weapon2OffSigil": "Paralyzation"
+      "weapon1OffSigilId": 24868
     },
     "consumables": {
       "foodId": 91805,
@@ -131,7 +129,7 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
 
 This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed.
 
-</Character> 
+</Character>
 <Character title="162 Agony Resistance + Eagle Rune" gear={{
   "profession": "Warrior",
   "weight": "Heavy",
@@ -203,9 +201,7 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
       "weapon1MainType": "Axe",
       "weapon1MainSigil1Id": 24615,
       "weapon1OffType": "Pistol",
-      "weapon1OffSigilId": 24868,
-      "weapon2OffType": "Mace",
-      "weapon2OffSigil": "Paralyzation"
+      "weapon1OffSigilId": 24868
     },
     "consumables": {
       "foodId": 91805,
@@ -217,11 +213,12 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
       "utility2": "Banner of Strength",
       "utility3": "Banner of Discipline",
       "elite": "Signet of Rage"
-    },
+    }
   }}
 >
 
 Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
+
 </Character>
 <Character gear={{
   "profession": "Warrior",
@@ -294,9 +291,7 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
       "weapon1MainType": "Axe",
       "weapon1MainSigil1Id": 24615,
       "weapon1OffType": "Pistol",
-      "weapon1OffSigilId": 24868,
-      "weapon2OffType": "Mace",
-      "weapon2OffSigil": "Severance"
+      "weapon1OffSigilId": 24868
     },
     "consumables": {
       "foodId": 91805,
@@ -311,11 +306,10 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
     }
 }}>
 
-
 </Character>
 </CharacterWithAr>
 
-<Divider text="Build"/>
+<Divider text="Build" />
 
 <Grid>
 <GridItem sm="7">
@@ -323,12 +317,9 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
 
 <Card title="Extra Weapons">
 
-- Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-
-- Warhorn for pre-stacking <Boon name="Might"/>, can be run instead of Mace if CC isn’t needed.
-
+- Axes and Pistols with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+- Warhorn for pre-stacking <Boon name="Might"/>
 - Greatsword for mobility and cleave.
-
 - Torch (trade CC for DPS or a fire field).
 
 </Card>
@@ -336,7 +327,14 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
 
 If the encounter is short enough to precast Banners and swap to different skills, or you want to play without them, you can play the following skills:
 
-<Skills unembossed heal="Mending" utility1="Signet of Might" utility2="Signet of Fury" utility3="Flow Stabilizer" elite="Signet of Rage"/>
+<Skills
+  unembossed
+  heal="Mending"
+  utility1="Signet of Might"
+  utility2="Signet of Fury"
+  utility3="Flow Stabilizer"
+  elite="Signet of Rage"
+/>
 
 </Card>
 </GridItem>
@@ -358,7 +356,7 @@ If the encounter is short enough to precast Banners and swap to different skills
 </GridItem>
 </Grid>
 
-<Divider text="Details"/>
+<Divider text="Details" />
 
 <Grid>
 <GridItem sm="8">
@@ -368,9 +366,7 @@ If the encounter is short enough to precast Banners and swap to different skills
 **Extra notes:**
 
 - If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!
-
 - If you expect your party to be slow it can make sense to bring <Trait name="smashbrawler"/> and eat the initial <Control name="Stun"/> of <Skill name="headbutt"/>.
-
 - Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
 
 </GridItem>
@@ -378,24 +374,23 @@ If the encounter is short enough to precast Banners and swap to different skills
 <GridItem sm="4">
 <Card title="CC skills">
 
-|                              |            |
-| ---------------------------- | ---------- |
-| <Skill name="bullscharge"/>  | 300 damage |
-| <Skill id="14502"/>          | 150 damage |
-| <Skill id="14415"/>          | 300 damage |
-| <Skill id="14503"/>          | 100 damage |
+|                             |            |
+| --------------------------- | ---------- |
+| <Skill name="bullscharge"/> | 300 damage |
+| <Skill id="14502"/>         | 150 damage |
+| <Skill id="14415"/>         | 300 damage |
+| <Skill id="14503"/>         | 100 damage |
 
 **When to take Mace:**
 
 - In fights with only one defiance bar, in the beginning, use Axe/Mace.
-
 - In T4s and encounters that have defiance bars during the fight, use an offhand mace only.
 
 </Card>
 </GridItem>
 </Grid>
 
-<Divider text="Rotation / Skill usage"/>
+<Divider text="Rotation / Skill usage" />
 
 <Grid>
 <GridItem xs="12" sm="6">
@@ -412,23 +407,14 @@ For that reason you can find a video with openers, that are efficient to use her
 <Card title="Precasting">
 
 - Stack <Boon name="Might"/>:
-
   - Use both charges of <Skill name="For Great Justice!"/>.
-
   - Drop a fire field with <Skill name="Flames of War"/>.
-
   - (if available) blast with banners for a total of 6 stacks of <Boon name="Might"/>
-
   - Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand warhorn.
-
 - Precast damage skills:
-
   - (optional) <Skill name="Flames of War"/>
-
   - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
-
   - Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
-
 - If there is a defiance bar present immediately at the start of the fight, start on your Mace set - otherwise swap to it when necessary.
 
 </Card>
@@ -439,27 +425,18 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <Card title="Golem Rotation">
 
-Hopefully Anet add these skills to the api otherwise we will have to add them manually
+Start in <Skill name="Unsheathe Gunsaber"/>
 
-1. <Skill name="Cyclone Trigger"/>
-
-2. <Skill name="Sheathe Gunsaber"/>
-
-3. <Skill name="Dragons Roar"/>
-
-4. <Skill name="Gunstinger"/>
-
-5. <Skill name="Cyclone Axe"/>
-
-6. <Skill name="Throw Axe"/>
-
-7. <Skill name="Chop"/> -> <Skill name="Double Chop"/> -> <Skill name="Triple Chop"/>
-
-8. <Skill name="Unsheathe Gunsaber"/> 
-
-9. <Skill name="Dragon Trigger"/>
-
-10. <Skill name="Dragon Slash-Force"/>
+1. Cyclone Trigger in <Skill name="Unsheathe Gunsaber"/> (Skill 4)
+2. <Skill name="Sheathe Gunsaber" />
+3. <Skill name="Dragons Roar" />
+4. <Skill name="Gunstinger" />
+5. <Skill name="Cyclone Axe" />
+6. <Skill name="Throw Axe" />
+7. <Skill name="Chop" /> -> <Skill name="Double Chop" /> -> <Skill name="Triple Chop" />
+8. <Skill name="Unsheathe Gunsaber" />
+9. <Skill name="Dragon Trigger" />
+10. Dragon Slash-Force in <Skill name="Dragon Trigger"/> (Skill 1)
 
 _Repeat from Step 1_
 

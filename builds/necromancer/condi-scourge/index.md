@@ -130,7 +130,7 @@ Due to being a condition based build, it will not benefit as highly from slaying
         "weapon2OffSigil": "torment"
       },
       "consumables": {
-        "foodId": "91878",
+        "foodId": 91878,
         "utility": "toxic-focusing-crystal",
         "infusion": "Malign +9 Agony Infusion"
       },

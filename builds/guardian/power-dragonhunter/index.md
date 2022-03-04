@@ -23,15 +23,15 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: '[&DQEQLyo6GzkmDwAAihIAAEgBAAD+AAAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 2
   - 4
-date: 2022-01-11T02:53:58.478Z
-cmGuide: ' '
+date: 2022-03-02T22:40:33.634Z
+cmGuide: " "
 ---
 
 The <Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
@@ -42,65 +42,72 @@ It benefits from slaying potions and slaying sigils such as <Item id="50082"/> a
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="162 Agony Resistance" gear={{
-    "profession": "Guardian",
-    "weight": "Heavy",
-    "gear": [
-      "Assassin",
-      "Berserker",
-      "Assassin",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker"
-    ],
-    "attributes": {
-      "Health": 11645,
-      "Armor": 2514,
-      "Power": 3834,
-      "Precision": 2362,
-      "Toughness": 1243,
-      "Vitality": 1000,
-      "Ferocity": 1556,
-      "Condition Damage": 750,
-      "Expertise": 0,
-      "Concentration": 243,
-      "Healing Power": 0,
-      "Agony Resistance": 162,
-      "Condition Duration": 0,
-      "Boon Duration": 0.162,
-      "Critical Chance": 0.9985714285714286,
-      "Critical Damage": 2.5373333333333337,
-      "Effective Power": 34271.39041097145,
-      "Power DPS": 44353.539919628434,
-      "Bleeding Damage": 96.3125,
-      "Bleeding Stacks": 0,
-      "Bleeding DPS": 0,
-      "Burning Damage": 355.421875,
-      "Burning Stacks": 1.92,
-      "Burning DPS": 682.41,
-      "Confusion Damage": 118.665625,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 112.84375,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 142.74375,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Damage": 45035.94991962844,
-      "Effective Health": 64733067.9933665,
-      "Survivability": 32909.541430282916,
-      "Effective Healing": 390,
-      "Healing": 390
-    },
+<Character title="162 Agony Resistance (No Spotter/Banner)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 11645,
+    "Armor": 2514,
+    "Power": 3988,
+    "Precision": 2364,
+    "Toughness": 1243,
+    "Vitality": 1000,
+    "Ferocity": 1556,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 0.9995238095238095,
+    "Critical Damage": 2.5373333333333337,
+    "Power Coefficient": 3361,
+    "Burning Coefficient": 1.92,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Effective Power": 32425.958877010824,
+    "Power DPS": 41965.209004864606,
+    "Bleeding Damage": 96.3125,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 355.421875,
+    "Burning Stacks": 1.92,
+    "Burning DPS": 682.41,
+    "Confusion Damage": 118.665625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 112.84375,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 142.74375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 42647.61900486461,
+    "Effective Health": 58259761.19402986,
+    "Survivability": 29618.58728725463,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
     "runeId": 24836,
     "runeName": "Scholar",
     "infusions": [
@@ -132,67 +139,290 @@ It benefits from slaying potions and slaying sigils such as <Item id="50082"/> a
   }}
 >
 
-If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>. You need at least <Attribute name="Agony Resistance" text="203 Agony Resistance"/> to compensate the lacking <Attribute name="Precision"/>. It is not recommended to run <Trait name="Righthandstrength"/> unless you have multiple <Specialization name="Guardian"/> or another source of <Boon name="Resolution"/>.
+If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>.
+
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>
+
+<Character title="162 Agony Resistance (Spotter/Banner)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Dragon",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 11915,
+    "Armor": 2514,
+    "Power": 4055,
+    "Precision": 2371,
+    "Toughness": 1243,
+    "Vitality": 1027,
+    "Ferocity": 1568,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 1.002857142857143,
+    "Critical Damage": 2.5453333333333332,
+    "Power Coefficient": 3361,
+    "Burning Coefficient": 1.92,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Effective Power": 33084.227304123226,
+    "Power DPS": 42817.13052335702,
+    "Bleeding Damage": 96.3125,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 355.421875,
+    "Burning Stacks": 1.92,
+    "Burning DPS": 682.41,
+    "Confusion Damage": 118.665625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 112.84375,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 142.74375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 43499.54052335702,
+    "Effective Health": 59610567.16417911,
+    "Survivability": 30305.321384941082,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+    "runeId": 24836,
+    "runeName": "Scholar",
+    "infusions": [
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131
+    ],
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1": "Force",
+      "weapon1OffType": "Focus",
+      "weapon1OffSigil": "Impact",
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1": "Force",
+      "weapon2MainSigil2": "Impact"
+    },
+    "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Litany of Wrath",
+      "utility1": "Procession of Blades",
+      "utility2": "Sword of Justice",
+      "utility3": "Bane Signet",
+      "elite": "Dragons Maw"
+    }
+  }}
+>
+
+If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>.
+
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
-<Character title="203 Agony Resistance" gear={{
-    "profession": "Guardian",
-    "gear": [
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker"
+
+<Character title="222 Agony Resistance (No Spotter/Banner)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 11645,
+    "Armor": 2604,
+    "Power": 4066,
+    "Precision": 2374,
+    "Toughness": 1333,
+    "Vitality": 1000,
+    "Ferocity": 1556,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 333,
+    "Healing Power": 0,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.222,
+    "Critical Chance": 1.0042857142857144,
+    "Critical Damage": 2.5373333333333337,
+    "Power Coefficient": 3361,
+    "Burning Coefficient": 1.92,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Effective Power": 33069.70887074973,
+    "Power DPS": 42798.34097596836,
+    "Bleeding Damage": 96.3125,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 355.421875,
+    "Burning Stacks": 1.92,
+    "Burning DPS": 682.41,
+    "Confusion Damage": 118.665625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 112.84375,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 142.74375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 43480.75097596837,
+    "Effective Health": 60345432.835820906,
+    "Survivability": 30678.91857438785,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+    "runeId": 24836,
+    "runeName": "Scholar",
+    "infusions": [
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131, 37131, 37131, 37131,
+      37131, 37131, 37131, 37131
     ],
-    "attributes": {
-      "Health": 11645,
-      "Armor": 2575,
-      "Power": 3892,
-      "Precision": 2365,
-      "Toughness": 1304,
-      "Vitality": 1000,
-      "Ferocity": 1556,
-      "Condition Damage": 750,
-      "Expertise": 0,
-      "Concentration": 304,
-      "Healing Power": 0,
-      "Agony Resistance": 203,
-      "Condition Duration": 0,
-      "Boon Duration": 0.20266666666666666,
-      "Critical Chance": 1,
-      "Critical Damage": 2.5373333333333337,
-      "Effective Power": 34819.979738675305,
-      "Power DPS": 45063.51632718048,
-      "Bleeding Damage": 96.3125,
-      "Bleeding Stacks": 0,
-      "Bleeding DPS": 0,
-      "Burning Damage": 355.421875,
-      "Burning Stacks": 1.92,
-      "Burning DPS": 682.41,
-      "Confusion Damage": 118.665625,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 112.84375,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 142.74375,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Damage": 45745.92632718048,
-      "Effective Health": 66303758.98286346,
-      "Survivability": 33708.06252306226,
-      "Effective Healing": 390,
-      "Healing": 390
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1": "Force",
+      "weapon1OffType": "Focus",
+      "weapon1OffSigil": "Impact",
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1": "Force",
+      "weapon2MainSigil2": "Impact"
     },
+    "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+    "skills": {
+      "heal": "Litany of Wrath",
+      "utility1": "Procession of Blades",
+      "utility2": "Sword of Justice",
+      "utility3": "Bane Signet",
+      "elite": "Dragons Maw"
+    }
+  }}
+>
+
+If you use <Trait name="Perfectinscriptions"/> you are lacking critical chance, therefore additional assassins pieces are required. You can of course mitigate this by increasing your <Attribute name="Agony Resistance"/>.
+
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>  
+
+<Character title="222 Agony Resistance (Spotter/Banner)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Dragon",
+    "Dragon",
+    "Dragon",
+    "Berserker",
+    "Berserker",
+    "Dragon",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 13745,
+    "Armor": 2604,
+    "Power": 3993,
+    "Precision": 2366,
+    "Toughness": 1333,
+    "Vitality": 1210,
+    "Ferocity": 1635,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 333,
+    "Healing Power": 0,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.222,
+    "Critical Chance": 1.0004761904761905,
+    "Critical Damage": 2.59,
+    "Power Coefficient": 3361,
+    "Burning Coefficient": 1.92,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Effective Power": 33150.0773960285,
+    "Power DPS": 42902.35276397836,
+    "Bleeding Damage": 96.3125,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 355.421875,
+    "Burning Stacks": 1.92,
+    "Burning DPS": 682.41,
+    "Confusion Damage": 118.665625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 112.84375,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 142.74375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 43584.76276397836,
+    "Effective Health": 71227820.8955224,
+    "Survivability": 36211.398523397256,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
     "infusions": [
       37131, 37131, 37131, 37131, 37131, 37131, 37131,
       37131, 37131, 37131, 37131, 37131, 37131, 37131,
@@ -234,7 +464,7 @@ It is not recommended to run <Trait name="Righthandstrength"/> unless you have m
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 
 <Card title="Virtues">
 
@@ -338,7 +568,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 </GridItem>
 
 <GridItem xs="12" sm="6">
-<Card title="Golem Rotation">
+<Card title="Standard Opener">
 
 **Rotation:**
 
@@ -382,7 +612,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="C98JaabU6_c" caption="by Shetsa [SC]"/>
+<Video youtube="aIUZegO1_EA" caption="by Nagy"/>
 </Card>
 </GridItem>
 </Grid>

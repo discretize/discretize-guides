@@ -10,7 +10,7 @@ boons:
   - name: Alacrity
     uptime: 100%
     variant: party
-code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
+code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 classification:
   - 5
   - 2
@@ -112,7 +112,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
       "weapon2MainSigil2": "severance"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
@@ -203,7 +203,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "weapon2MainSigil2": "severance"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
@@ -294,7 +294,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "weapon2MainSigil2": "severance"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
@@ -384,7 +384,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "weapon2MainSigil2": "severance"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },

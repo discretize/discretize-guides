@@ -1,10 +1,11 @@
 ---
 title: Condi Specter
+hidden: false
 rating: Good
 role: Condi Damage
 profession: Thief
 specialization: Specter
-skills:
+skills: null
 conditions:
   - Vulnerability
   - Weakness
@@ -12,7 +13,7 @@ conditions:
   - Poisoned
   - Bleeding
   - Torment
-boons:
+boons: null
 cmGuide: ''
 classification:
   - 3
@@ -20,10 +21,9 @@ classification:
   - 3
   - 3
   - 3
-compositions:
-code: ''
-date: 2022-01-12T02:19:49.021Z
-Hidden: True
+compositions: null
+code: '[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]'
+date: 2022-03-03T18:47:16.210Z
 ---
 
 <Warning>
@@ -36,11 +36,11 @@ This build guide is not complete, gear and sections may chage regularly as we ex
 
 This build is [META](/guides/meta-explained) in condi comps. In terms of DPS, it is unlikely to fall behind any other specialization, whether they be running a power or condi build, as it has very high sustained DPS on single targets.
 
->  a condi build will always have a tendency to interfere with a power composition, as it is not meant to have a higher upfront or burst damage, but both of these builds will do a lot of burst damage as well. It is worth mentioning that _Venom Skills_ are very strong in that regard, and precasting them on the _Mistlock Singularity_ will allow for a very high burst, quite uncommon for condi builds but very valuable.
+> a condi build will always have a tendency to interfere with a power composition, as it is not meant to have a higher upfront or burst damage, but both of these builds will do a lot of burst damage as well. It is worth mentioning that _Venom Skills_ are very strong in that regard, and precasting them on the _Mistlock Singularity_ will allow for a very high burst, quite uncommon for condi builds but very valuable.
 
 </Warning>
 
-The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with team support options. tThe value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an non-negligible amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consumed when the boss is vulnerable to this type of damage (up to five stacks, one per player).
+The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. tThe value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target. At the same time it can generate barrier, heal and provide boons by targeting allied players.
 
 <Divider text="Equipment"/>
 
@@ -81,6 +81,13 @@ The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS cond
     "Boon Duration": 0.162,
     "Critical Chance": 0.6671428571428571,
     "Critical Damage": 1.6,
+    "Power Coefficient": 2111,
+    "Burning Coefficient": 0.55,
+    "Bleeding Coefficient": 2.7,
+    "Poison Coefficient": 20.68,
+    "Torment Coefficient": 22.67,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
     "Torment Duration": 0.5,
     "Poison Duration": 0.33,
     "Outgoing Healing": 0.2,
@@ -131,12 +138,16 @@ The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS cond
   ],
     "weapons": {
       "weapon1MainType": "Scepter",
-      "weapon1MainSigil1": "Torment",
-      "weapon2OffType": "Dagger",
-      "weapon2OffSigil": "Doom"
+      "weapon1MainSigil": "Torment",
+      "weapon1OffType": "Dagger",
+      "weapon1OffSigil": "Doom",
+      "weapon2MainType": "Scepter",
+      "weapon2MainSigil": "Doom",
+      "weapon2OffType": "Pistol",
+      "weapon2OffSigil": "Paralyzation"
     },
     "consumables": {
-      "foodId": "91878",
+      "foodId": 91878,
       "utility": "tuning-icicle",
       "infusion": "Malign +9 Agony Infusion"
     },
@@ -170,19 +181,19 @@ It's recommended to run a shortbow for additional movement during downtime and <
 
 <Card title="Situational Skills">
 
-|                                                           |                                                                                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="13026" size="big" disableText/>                | A situational damage ability, to take over <Skill name="devourervenom"/> on stationary targets.                                               |
-| <Skill name="signetofmalice" size="big" disableText/>     | Highest sustained healing.                                                                                                                    |
-| <Skill name="skelkvenom" size="big" disableText/>         | Best party healing.                                                                                                                           |
-| <Skill id="13020" size="big" disableText/>                | Taken over <Skill name="Prepare Thousand Needles"/> when extra CC is needed (particularly useful on MAMA).                                    |
-| <Skill id="13082" size="big" disableText/>                | Taken for extra personal DPS, when  CC isn't needed. Can also be precasted on the mistlock before swapping to <Skill name="Basilisk Venom"/>, |
+|                                                       |                                                                                                                                              |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill id="13026" size="big" disableText/>            | A situational damage ability, to take over <Skill name="devourervenom"/> on stationary targets.                                              |
+| <Skill name="signetofmalice" size="big" disableText/> | Highest sustained healing.                                                                                                                   |
+| <Skill name="skelkvenom" size="big" disableText/>     | Best party healing.                                                                                                                          |
+| <Skill id="13020" size="big" disableText/>            | Taken over <Skill name="Prepare Thousand Needles"/> when extra CC is needed (particularly useful on MAMA).                                   |
+| <Skill id="13082" size="big" disableText/>            | Taken for extra personal DPS, when CC isn't needed. Can also be precasted on the mistlock before swapping to <Skill name="Basilisk Venom"/>, |
 
 </Card>
 <Card title="Defiance Bar Damage">
 
-|                          |                                                                          |
-| ------------------------ | ------------------------------------------------------------------------ |
+|                                            |                                                        |
+| ------------------------------------------ | ------------------------------------------------------ |
 | <Skill id="13132" size="big" disableText/> | 150 Defiance bar damage per ally (Up to 750 CC).       |
 | <Skill id="13020" size="big" disableText/> | 150 Defiance bar damage.                               |
 | <Skill id="13012" size="big" disableText/> | 200 Defiance bar damage (260 with <Item id="24639"/>). |
@@ -193,16 +204,16 @@ It's recommended to run a shortbow for additional movement during downtime and <
 
 <Card title="Useful skills for skips">
 
-| | |
-| -- | -- |
+|                                            |                                                                                                           |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
 | <Skill id="13117" size="big" disableText/> | Group stealth. Keep in mind, if you leave the AoE before it ends, you will be revealed for a long period. |
-| <Skill id="13065" size="big" disableText/> | Used for a smoke field to blast <Effect name="Stealth"/> for skips. |
-| <Skill id="13044" size="big" disableText/> | 3 seconds AoE <Effect name="Stealth"/> (also another blast). |
-| <Skill id="13064" size="big" disableText/> | 1200 range shadowstep, useful for some skips. |
-| <Skill id="13002" size="big" disableText/> | 1200 range teleport, use it again to teleport back. |
-| <Skill id="13038" size="big" disableText/> | One way portal, useful if you don't have <Item id="78978"/>. |
-| <Skill id="13025" size="big" disableText/> | 900 range shadowstep, useful for some skips. |
-| <Skill id="13041" size="big" disableText/> | Used as a blast finisher to stack <Effect name="Stealth"/>. |
+| <Skill id="13065" size="big" disableText/> | Used for a smoke field to blast <Effect name="Stealth"/> for skips.                                       |
+| <Skill id="13044" size="big" disableText/> | 3 seconds AoE <Effect name="Stealth"/> (also another blast).                                              |
+| <Skill id="13064" size="big" disableText/> | 1200 range shadowstep, useful for some skips.                                                             |
+| <Skill id="13002" size="big" disableText/> | 1200 range teleport, use it again to teleport back.                                                       |
+| <Skill id="13038" size="big" disableText/> | One way portal, useful if you don't have <Item id="78978"/>.                                              |
+| <Skill id="13025" size="big" disableText/> | 900 range shadowstep, useful for some skips.                                                              |
+| <Skill id="13041" size="big" disableText/> | Used as a blast finisher to stack <Effect name="Stealth"/>.                                               |
 
 </Card>
 
@@ -236,8 +247,6 @@ Watching videos of players performing the rotation for this build, one might thi
 <Grid>
 <GridItem sm="6">
 <Card title="Rotation">
-
-
 
 </Card>
 </GridItem>

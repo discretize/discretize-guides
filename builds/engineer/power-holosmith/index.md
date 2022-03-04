@@ -6,26 +6,26 @@ skills:
   - 30815
 effects:
   - Stealth
+title: Power Holosmith
+rating: Good
+role: Power Damage
 author: Ascers.6082
+profession: Engineer
 specialization: Holosmith
-code: "[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]"
+conditions:
+  - Vulnerability
+  - Blinded
+  - Crippled
+  - Immobile
+code: '[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: 2022-01-24T17:30:31.960Z
-title: Power Holosmith
-rating: Good
-role: Power Damage
-profession: Engineer
-conditions:
-  - Vulnerability
-  - Blinded
-  - Crippled
-  - Immobile
-cmGuide: ""
+date: 2022-02-17T22:17:40.858Z
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
@@ -126,7 +126,7 @@ This guide will focus mainly on the Sword ECSU variant since it is the most flex
       "weapon1OffSigil": "Impact"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "Superior Sharpening Stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
@@ -168,7 +168,7 @@ Due to the naturally high crit-chance from the Firearms Trait Line, this build d
 |                                    |            |
 | ---------------------------------- | ---------- |
 | <Skill id="21661"/>                | 200 damage |
-| <Skill name="Magnetic Inversion"/> | 100 damage |
+| <Skill name="Magnetic Inversion"/> | 150 damage |
 | <Skill id="6057"/>                 | 100 damage |
 | <Skill id="42009"/>                | 232 damage |
 | <Skill id="42521"/>                | 232 damage |
@@ -204,7 +204,7 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 |                                                     |                                                                                                                                                                                                         |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill id="5857" size="big" disableText/>           | An alternative heal skill if condition cleanse is needed. You can cast it AFTER (cause of water field) a fire field to blast <Boon name="might"/>.                                                      |
-| <Skill id="43739" size="big" disableText/>          | A (group) block that also reflects projectiles if heat is above 50. (replace <Skill id="6020"/>)                                                                                                        |
+| <Skill id="43739" size="big" disableText/>          | A (group) block that also reflects projectiles if heat is above 50.                                                                                                                                     |
 | <Skill id="30337" size="big" disableText/>          | Offers higher burst than <Skill id="5818"/>. Very effective countermeasure for <Instability name="No Pain, No Gain"/>!                                                                                  |
 | <Skill name="Bomb Kit" size="big" disableText/>     | Default pick for the Rifle variant instead of <Skill name="Rifle Turret"/>. Can be helpful to provide a smoke field through <Skill name="Smoke Bomb"/> or fire field through <Skill name="Fire Bomb"/>. |
 | <Skill name="Flamethrower" size="big" disableText/> | Can provide a fire field and a blast finisher. You can pre-cast the toolbelt skill <Skill name="Incendiary Ammo"/> for some extra damage.                                                               |
@@ -260,7 +260,7 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 
 20. <Skill name="Freeze Grenade" profession="Engineer"/>
 
-21. <Skill name="engage Photon Forge" profession="Engineer"/> (your heat should be around 90%)
+21. <Skill name="engage Photon Forge" profession="Engineer"/> (your heat should be around 90)
 
 22. Repeat from step 6
 
@@ -278,6 +278,8 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 - When running off-hand Pistol, <Skill id="5830"/> can help in controlling movement of enemies without breakbar.
 
 - Try to manage your Heat in split phases. Ideally you always want to be back at 90 Heat when starting to burst in a new phase.
+
+- <Skill name="Poison Grenade" profession="Engineer"/> will not always be up at the same step as its cooldown is higher than the duration of your loop. The general idea of using 2 extra damaging skills while cooling down still applies.
 
 </Card>
 

@@ -125,7 +125,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
       "weapon2OffSigil": "impact"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
