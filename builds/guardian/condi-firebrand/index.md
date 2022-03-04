@@ -20,7 +20,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-cmGuide: ''
+cmGuide: ""
 classification:
   - 5
   - 4
@@ -29,8 +29,8 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: '[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-03-03T17:48:23.721Z
+code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-03-04T18:46:05.977Z
 benchmark:
   small:
     dps: 36732
@@ -157,7 +157,7 @@ There are a number of different gear, utility and trait setups that allow you to
       "utility1": "Mantra of Potence",
       "utility2": "Purging Flames",
       "utility3": "Sanctuary",
-      "elite": "Renewed Focus"
+      "elite": "Feel My Wrath"
     }
   }}
 >
@@ -386,7 +386,7 @@ You will want the following weapons to swap to durning fractal runs:
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Stalwart Speed,Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Loremaster"/>
 
 If your team has a hard time applying <Condition name="Vulnerability"/> you can swap Virtues trait line with Zeal and replace <Skill name="purgingflames"/> with <Skill name="swordofjustice"/>. This will help you to maintain <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
 
