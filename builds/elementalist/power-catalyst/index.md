@@ -154,7 +154,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu) for more gear varian
 
 The stat selection will not change with higher AR / <Trait name="Spotter"/> / <Skill name="Banner of Discipline"/>.
 
-If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specialist"/>, at 162 ar you want to use <Item id="89912"/> and <Item id="48082"/>. Once you reach 20% boon duration from <Attribute name="Agony Resistance"/> you can use the gear below. At high <Attribute name="Agony Resistance"/> it is a very minor dps increase to play <Trait name="Empowered Empowerment"/> and use diviner gear to make up boon duration.
+If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specialist"/>, you can use the gear below. However, due to the conversion from <Attribute name="Agony Resistance"/> to <Attribute name="Concentration"/> it is more dps increase to play <Trait name="Empowered Empowerment"/> and use diviner gear to make up boon duration.
 
 </Character>
 </CharacterWithAr>
