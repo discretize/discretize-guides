@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-03T17:29:17.050Z
+date: 2022-03-05T18:36:45.518Z
 ---
 
 <Warning>
@@ -211,12 +211,20 @@ You will want the following weapons to swap to durning fractal runs:
 
 <Grid>
 <GridItem sm="6">
-<Card title="Rotation">
-
-<Warning>
-
-**Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast! Keep <Skill name="Rushing Justice"/> (F1) on cooldown!**
-</Warning>
+<Card title="Skill Priority">
+| Skill                                                                                 |
+| ------------------------------------------------------------------------------------- |
+| <Skill name="Rushing Justice"/>                                                       |
+| <Skill name="Purging Flames"/>                                                        |
+| <Skill name="Symbol of Punishment"/>                                                  |
+| <Skill name="Whirling Light"/>                                                        |
+| <Skill name="Zealot's Flame"/>, <Skill name="Zealot's Fire"/>                         |
+| <Skill name="Symbol of Blades"/>                                                      |
+| <Skill name="Rushing Justice"/> with <skill id="62618"/> already acive                | 
+| <Skill name="Zealot's Defense"/>                                                      |
+| <Skill name="Cleansing Flame"/>                                                       |
+| <Skill name="Sword of Wrath"/>, <Skill name="Sword Arc"/>, <Skill name="Sword Wave"/> |
+| <Skill name="Orb of Wrath"/>                                                          |
 
 </Card>
 </GridItem>
