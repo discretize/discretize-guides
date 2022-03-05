@@ -590,7 +590,7 @@ Many thanks to Elu \[SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4f
 
 <Grid>
 <GridItem sm="7">
-<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131"/>
+<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id={37131} weapon1MainInfusion2Id={37131} weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id={37131} weapon2MainInfusion2Id={37131}/>
 
 <Card title="Traits">
 
@@ -612,7 +612,7 @@ For a DPS rotation the same rules apply as above land, try to fit lots of damage
 </GridItem>
 
 <GridItem sm="5">
-<Skills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+<Skills healId={44948} utility1Id={12633} utility2Id={12497} utility3Id={12491} eliteId={45717}/>
 
 <Card title="Pets">
 
