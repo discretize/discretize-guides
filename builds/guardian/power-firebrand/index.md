@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: '[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: static
 classification:
   - 5
@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-03-03T18:20:33.493Z
+date: 2022-03-05T19:12:45.889Z
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing good DPS.
@@ -40,15 +40,6 @@ Using <Skill name="Bane Signet"/> to break defiance bars also increases your all
 <Warning>
 
 Its worth mentioning that <Specialization text="Power Quickness Firebrand" name="Firebrand"/> is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run <BuildLink build="Condi Firebrand" specialization="Firebrand"/> as it provides much higher sustained DPS.
-
-</Warning>
-
-<Warning>
-
-There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
-
-- <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 41.7%bd
-- <Trait name="Liberators Vow"/>, <Trait name="Stalwart Speed"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 47.7%bd
 
 </Warning>
 
