@@ -1,6 +1,6 @@
 ---
 title: Power Virtuoso
-hidden: true
+hidden: false
 rating: good
 role: Power Damage
 profession: Mesmer
@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-04T12:58:15.167Z
+date: 2022-03-05T17:30:34.383Z
 ---
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
