@@ -30,7 +30,7 @@ classification:
 compositions:
   - name: _CRGB
 code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-05T18:56:42.158Z
+date: 2022-03-05T19:05:46.275Z
 benchmark:
   small:
     dps: 36732
@@ -418,19 +418,22 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                        |                                                                                     |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
-| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
-| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
-| <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
-| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |
-| <Skill id="43357" size="big" disableText/>             | When <Boon name="Stability"/> or a stunbreak is needed.                             |
-| <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                  |
-| <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                |
-| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
-| <Skill name="Mantra of lore" size="big" disableText/>  | Cleanses multiple conditions thanks to charges.                                     |
-| <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+|                                                         |                                                                                          |
+| ------------------------------------------------------- | --------------------------------------- |
+| <Skill name="Sword of Justice" size="big" disableText/> | When <Condition name="Vulnerability"/> is needed                                         |
+| <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                                                      |
+| <Skill id="9125" size="big" disableText/>               | Deals an additional 200 defiance bar damage.                                             |
+| <Skill id="43357" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed. Or you want to provide <Boon name="Quickness"/> with <Trait name="Stalwart Speed"/> |
+| <Skill name="renewed focus" size="big" disableText/>    | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+| <Skill name="Mantra of Flame" size="big" disableText/>  | Taken as a 3rd utility for DPS if no other skil is required.                            |
+| <Skill name="Advance" size="big" disableText/>          | When <Boon name="Aegis"/> is needed.                                                     |
+| <Skill id="9246" size="big" disableText/>               | A 1,200 range teleport to an ally.                                                       |
+| <Skill name="Hallowed Ground" size="big" disableText/>  | When <Boon name="Stability"/> is needed.                                                 |
+| <Skill id="9153" size="big" disableText/>               | When <Boon name="Stability"/> or a stunbreak is needed.                                 |
+| <Skill id="9251" size="big" disableText/>               | A stationary reflect lasting for 10 seconds.                                             |
+| <Skill id="9247" size="big" disableText/>               | A 1200 range teleport to an enemy.                                                       |
+| <Skill name="Mantra of lore" size="big" disableText/>   | Cleanses multiple conditions thanks to charges.                                          |
+
 
 </Card>
 </GridItem>
