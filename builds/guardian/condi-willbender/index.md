@@ -21,14 +21,14 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: '[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-date: 2022-03-06T22:10:33.618Z
+date: 2022-03-06T23:30:19.204Z
 ---
 
 <Warning>
@@ -214,19 +214,17 @@ You will want the following weapons to swap to durning fractal runs:
 <GridItem sm="6">
 <Card title="Skill Priority">
 
-| Skill                                                                                 |
-| ------------------------------------------------------------------------------------- |
-| <Skill name="Rushing Justice"/>                                                       |
-| <Skill name="Purging Flames"/>                                                        |
-| <Skill name="Symbol of Punishment"/>                                                  |
-| <Skill name="Whirling Light"/>                                                        |
-| <Skill name="Zealot's Flame"/>, <Skill name="Zealot's Fire"/>                         |
-| <Skill name="Symbol of Blades"/>                                                      |
-| <Skill name="Rushing Justice"/> with <Skill id="62618"/> already active               |
-| <Skill name="Zealot's Defense"/>                                                      |
-| <Skill name="Cleansing Flame"/>                                                       |
-| <Skill name="Sword of Wrath"/>, <Skill name="Sword Arc"/>, <Skill name="Sword Wave"/> |
-| <Skill name="Orb of Wrath"/>                                                          |
+1. <Skill name="Rushing Justice"/>
+2. <Skill name="Purging Flames"/>
+3. <Skill name="Symbol of Punishment"/>
+4. <Skill name="Whirling Light"/>
+5. <Skill name="Zealot's Flame"/>, <Skill name="Zealot's Fire"/>
+6. <Skill name="Symbol of Blades"/>
+7. <Skill name="Rushing Justice"/> with <Skill id="62618"/> already active
+8. <Skill name="Zealot's Defense"/>
+9. <Skill name="Cleansing Flame"/>
+10. <Skill name="Sword of Wrath"/>, <Skill name="Sword Arc"/>, <Skill name="Sword Wave"/> 
+11. <Skill name="Orb of Wrath"/>
 
 </Card>
 </GridItem>
