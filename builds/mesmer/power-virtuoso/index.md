@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-05T17:30:34.383Z
+date: 2022-03-06T22:23:27.261Z
 ---
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
@@ -140,7 +140,8 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
     "utility2Id": 45425,
     "utility3Id": 10211,
     "eliteId": 24755
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
     }}
   >
 
@@ -255,7 +256,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility2Id": 45425,
     "utility3Id": 10211,
     "eliteId": 24755
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
     }}
   >
 
@@ -370,7 +372,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility2Id": 45425,
     "utility3Id": 10211,
     "eliteId": 24755
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
     }}
   >
 
@@ -485,7 +488,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility2Id": 45425,
     "utility3Id": 10211,
     "eliteId": 24755
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
