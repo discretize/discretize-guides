@@ -2,7 +2,7 @@
 title: Power Reaper
 rating: Good
 role: Power Damage
-author: 'Discord: Jes#6596'
+author: "Discord: Jes#6596"
 profession: Necromancer
 specialization: Reaper
 skills:
@@ -18,15 +18,15 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ' '
+code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: " "
 classification:
   - 1
   - 3
   - 4
   - 2
   - 3
-date: 2022-01-05T22:43:45.473Z
+date: 2022-03-06T22:25:26.603Z
 benchmark:
   small:
     dps: 34302
@@ -134,7 +134,8 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
       "utility2": "Well of Suffering",
       "utility3": "Signet of Spite",
       "elite": "Lich Form"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 You will be crit-capped in <Skill name="Reapers Shroud"/>.
