@@ -21,7 +21,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 3
@@ -188,19 +188,19 @@ You will want the following weapons to swap to durning fractal runs:
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                        |                                                                                     |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| <Skill name="Sword of Justice" size="big" disableText/>| Used as a source of <Condition name="Vulnerability"/>            |
-| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
-| <Skill name="Signet of Wrath" size="big" disableText/> | Taken as a 3rd utility if no other skill is needed.                                   |
-| <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
-| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
-| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
-| <Skill name="Advance" size="big" disableText/>         | When <Boon name="Aegis"/> is needed.                             |
-| <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
-| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |
-| <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                  |
-| <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+|                                                         |                                                                                     |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| <Skill name="Sword of Justice" size="big" disableText/> | Used as a source of <Condition name="Vulnerability"/>                               |
+| <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                                                 |
+| <Skill name="Signet of Wrath" size="big" disableText/>  | Taken as a 3rd utility if no other skill is needed.                                 |
+| <Skill id="9246" size="big" disableText/>               | A 1,200 range teleport to an ally.                                                  |
+| <Skill name="Hallowed Ground" size="big" disableText/>  | When <Boon name="Stability"/> is needed.                                            |
+| <Skill id="9153" size="big" disableText/>               | When <Boon name="Stability"/> or a stunbreak is needed.                             |
+| <Skill name="Advance" size="big" disableText/>          | When <Boon name="Aegis"/> is needed.                                                |
+| <Skill id="9125" size="big" disableText/>               | Deals an additional 200 defiance bar damage.                                        |
+| <Skill id="9251" size="big" disableText/>               | A stationary reflect lasting for 10 seconds.                                        |
+| <Skill id="9247" size="big" disableText/>               | A 1200 range teleport to an enemy.                                                  |
+| <Skill name="renewed focus" size="big" disableText/>    | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
 
 </Card>
 </GridItem>
@@ -222,7 +222,7 @@ You will want the following weapons to swap to durning fractal runs:
 | <Skill name="Whirling Light"/>                                                        |
 | <Skill name="Zealot's Flame"/>, <Skill name="Zealot's Fire"/>                         |
 | <Skill name="Symbol of Blades"/>                                                      |
-| <Skill name="Rushing Justice"/> with <skill id="62618"/> already acive                | 
+| <Skill name="Rushing Justice"/> with <Skill id="62618"/> already acive                |
 | <Skill name="Zealot's Defense"/>                                                      |
 | <Skill name="Cleansing Flame"/>                                                       |
 | <Skill name="Sword of Wrath"/>, <Skill name="Sword Arc"/>, <Skill name="Sword Wave"/> |
@@ -246,8 +246,7 @@ The most important part is to get the precast of Ashes of the Just right! You ha
 
 1.  Use <Skill name="hallowedground"/>
 2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
-4.  Take the _Mistlock Singularity_
-
+3.  Take the _Mistlock Singularity_
 
 </Card>
 </GridItem>
