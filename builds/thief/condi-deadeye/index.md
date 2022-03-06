@@ -18,7 +18,7 @@ boons:
   - name: Might
     uptime: 3 stacks
     variant: party - situational
-cmGuide: ''
+cmGuide: ""
 classification:
   - 3
   - 5
@@ -27,8 +27,8 @@ classification:
   - 5
 compositions:
   - name: _CRGB
-code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-01-12T02:19:49.021Z
+code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-03-06T22:32:24.670Z
 ---
 
 <Warning>
@@ -136,7 +136,8 @@ We do not recommend running these builds in Shattered Observatory for new player
       "utility2": "Skale Venom",
       "utility3": "Spider Venom",
       "elite": "Shadow Meld"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
