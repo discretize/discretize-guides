@@ -7,7 +7,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T17:12:41.722Z
+date: 2022-03-06T17:31:22.870Z
 ---
 <Warning>
 This is an early draft of the build.
@@ -263,12 +263,16 @@ This build uses 3 <Item name="Spiteful +9 Agony Infusion"/> to cap Torment Durat
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Desert Empowerment, Demonic Lore"/>
-<Card title="Traits">
+<Traits
+traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse"
+traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire"
+traits3="Harbinger" traits3Selected="Septic Corruption , Dark Gunslinger, Doom Approaches"/>
+<Card title="Quickness Variant">
 
-|                                           |                                                                                                                                                                                                                                                                                                                      |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait id="2059" size="big" disableText/> | After the nerf to Barrier granted from <Skill name="Sand Flare"/> it's now best to run <Trait name="Desert Empowerment"/>. It is a very potent Barrier-spam, if you still need more personal Barrier feel free to use <Skill name="Sand Flare"/> for only a minor dps loss over <Skill name="Signet of Vampirism"/>. |
+Use this setup if you are responsible for providing Quickness to your group.
+<Traits traits1="Harbinger" traits1Selected="Septic Corruption , Twisted Medicine, Deathly Haste" unembossed/>
+
+
 
 </Card>
 </GridItem>
@@ -276,29 +280,22 @@ This build uses 3 <Item name="Spiteful +9 Agony Infusion"/> to cap Torment Durat
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-<Warning>
-  <Skill name="Spectral Grasp" /> will replace <Skill name="Epidemic" /> on
-  any fight that is single target or cleave is not needed.
-</Warning>
-
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Epidemic" size="big" disableText/>               | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Particularly useful on mob heavy T4s and also Sunqua Peak CM, where it can be used in the dark phase to kill the Sorrows.                                                                                                                                                                                                   |
-| <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside.                                                          |
-| <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                   |
-| <Skill name="Summon Bone Minions" size="big" disableText/>    | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g. Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak)). |
-| <Skill name="Corrupt Boon" size="big" disableText/>           | A strong boon corrupt which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.                                                                                                                                                                                                                                                                                                          |
-| <Skill name="Summon Flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can also work as a projectile blocker for fights like Old Tom in the [Uncategorized](/fractals/uncategorized) fractal.                                                                                                                                                                                                                                                           |
-| <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova](/fractals/thaumanova-reactor) fractal. Also great for consuming conditions on consoles in the [Aetherblade](/fractals/aetherblade) fractal.                                                                                                                                                                                |
-| <Skill name="Trail of Anguish" size="big" disableText/>       | A go-to stunbreak skill for Scourge, that can also provide some decent conditions if you step in and out of your targets hitbox to proc it multiple times. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>.                                                                                                                                                                |
-| <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles.                                                                                                                                                                                                                                                                                                                                                                        |
-| <Skill name="Signet of Vampirism" size="big" disableText/>    | This can provide you a minor dps increase in situations where barrier application is not needed. If you are using <Skill name="Signet of Vampirism"/> and no other Punishment skill, you can take <Trait name="Desert Empowerment"/> over <Trait name="Sadistic Searing"/>.                                                                                                                                       |
-| <Skill name="Sand Swell" size="big" disableText/>             | A useful skill that allows you to double up on blinks. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>.                                                                                                                                                                                                                                                                    |
+| <Skill name="Summon Flesh Golem" size="big" disableText/> | Can be taken for additional CC.
+| <Skill name="Epidemic" size="big" disableText/> | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Can help to kill the anomaly at Arkk. |
+| <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target <Control name="Pull"/>. It provides an extra 150 defiance bar damage and can hit up to five times if you cast it inside the boss while there are other enemies outside.  | 
+| <Skill name="Summon Flesh Wurm" size="big" disableText/> | A 1200 range teleport skill useful for various skips. |
+| <Skill name="Spectral Walk " size="big" disableText/> | Another teleport skill. Useful for <Boon name="Swiftness"/> or skips such as soloing the turret room in the [Thaumanova](/fractals/thaumanova-reactor) fractal. |
+| <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles. |                                                                                                            
 
 </Card>
 </GridItem>
 </Grid>
 
-<Divider text="Additional Information"/>
+<Divider text="Details"/>
 
 <Divider text="Rotation"/>
+<Warning>
+
+</Warning>
