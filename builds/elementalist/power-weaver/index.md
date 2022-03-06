@@ -20,7 +20,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2022-03-06T22:02:05.368Z
+date: 2022-03-06T22:02:44.556Z
 conditions:
   - Burning
   - Chilled
@@ -215,7 +215,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility2": "Glyph of Storms",
       "utility3": "Arcane Blast",
       "elite": "Conjure Fiery Greatsword"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
@@ -306,7 +307,8 @@ You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also
       "utility2": "Glyph of Storms",
       "utility3": "Arcane Blast",
       "elite": "Conjure Fiery Greatsword"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
