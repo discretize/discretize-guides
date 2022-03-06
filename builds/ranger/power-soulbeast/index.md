@@ -6,19 +6,19 @@ skills:
   - 12638
 effects:
   - Stealth
+title: Power Soulbeast
+rating: Power Meta
+role: Power Damage
+profession: Ranger
 specialization: Soulbeast
-code: '[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]'
+code: "[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 5
   - 3
   - 3
   - 4
-date: 2022-01-22T19:46:37.026Z
-title: Power Soulbeast
-rating: Power Meta
-role: Power Damage
-profession: Ranger
+date: 2022-03-06T22:29:39.002Z
 conditions:
   - Vulnerability
 cmGuide: pug
@@ -124,7 +124,8 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "utility2": "Sic Em",
       "utility3": "Frost Spirit",
       "elite": "One Wolf Pack"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
@@ -218,7 +219,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility2": "Sic Em",
       "utility3": "Frost Spirit",
       "elite": "One Wolf Pack"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
@@ -329,7 +331,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility2Id": 12633,
     "utility3Id": 12497,
     "eliteId": 45717
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
 }}
 >
 
@@ -590,7 +593,7 @@ Many thanks to Elu \[SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4f
 
 <Grid>
 <GridItem sm="7">
-<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id={37131} weapon1MainInfusion2Id={37131} weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id={37131} weapon2MainInfusion2Id={37131}/>
+<Weapons weapon1MainType="Spear" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id={37131} weapon1MainInfusion2Id={37131} weapon2MainType="Harpoon Gun" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id={37131} weapon2MainInfusion2Id={37131}/>
 
 <Card title="Traits">
 
