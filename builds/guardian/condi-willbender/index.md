@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-06T22:10:00.842Z
+date: 2022-03-06T22:10:33.618Z
 ---
 
 <Warning>
@@ -213,6 +213,7 @@ You will want the following weapons to swap to durning fractal runs:
 <Grid>
 <GridItem sm="6">
 <Card title="Skill Priority">
+
 | Skill                                                                                 |
 | ------------------------------------------------------------------------------------- |
 | <Skill name="Rushing Justice"/>                                                       |
