@@ -8,7 +8,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T18:02:20.828Z
+date: 2022-03-06T22:25:55.191Z
 ---
 <Warning>
 This is an early draft of the build page.
@@ -132,7 +132,8 @@ Due to being a condition based build, it will not benefit from slaying potions o
     "utility2Id": 62530,
     "utility3Id": 10544,
     "eliteId": 10549
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}
 >
 This build uses the Jade Bot Core: Tier 10 (and the resulting conversion from <Trait name="Dark Gunslinger"/> ) in combination with 12 <Item name="Spiteful +9 Agony Infusion"/> to cap Bleeding Duration.
