@@ -13,14 +13,14 @@ traits:
   - 1502
   - 226
   - 1503
-code: '[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 5
   - 2
   - 3
   - 4
-date: 2022-01-12T02:17:12.062Z
+date: 2022-03-06T22:02:05.368Z
 conditions:
   - Burning
   - Chilled
@@ -122,7 +122,8 @@ Also this build depends pretty much on supports and boon uptimes, as it can't pr
       "utility2": "Glyph of Storms",
       "utility3": "Arcane Blast",
       "elite": "Conjure Fiery Greatsword"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
 }}>
 
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
@@ -397,6 +398,10 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <Video caption="by KalzeN [dT], edited by Vince [dT]" youtube="AUDqBOCrZUE"/>
 </Card>
+<Card title="Golem Rotation">
+
+<Video youtube="ZtEY4lXt6Hc" caption="by Fallen [SC]"/>
+</Card>
 </GridItem>
 
 <GridItem xs="12" sm="6">
@@ -454,31 +459,9 @@ There are two possible ways to precast boons as <Specialization name="elementali
 
 - Take the _Mistlock Singularity_.
 
-It is recommended to use separate precast build to get additional buffs like <Trait name="Elemental Surge"/> for openers and more boons from them.
+It is recommended to use separate precast templates to easily make use of different utility skills and weapons.Allowing you to precast multiple buffs, boons and skills easily.
 
-Weaver precasting build template:
-
-<Traits traits1="Arcane" traits1Selected="Arcane Precision,Elemental Lockdown,Elemental Surge" traits2="Air" traits2Selected="One with air,Inscription,Fresh Air" traits3="Weaver" traits3Selected="Masters Fortitude,Weavers Prowess,Elements of Rage" unembossed/>
-
-### **Tempest Precast**
-
-- Start on <Skill id="5495"/> with your warhorn/staff tempest precast template and cast <Skill id="29453"/> just when you get <Boon name="Quickness"/> from any source ( the best if fire field is actually placed for might blast ).
-
-- Swap to <Skill id="5492"/> and use <Skill id="29548"/> and cast <Skill id="21656"/> and weapon swap to staff.
-
-- Precast <Skill id="5506"/> and <Skill id="5635"/> while in <Skill id="5492"/>
-
-- Precast <Skill id="5516"/>, take the _Mistlock Singularity_ and swap your template to weaver. Attune to <Skill id="5494"/>/<Skill id="5492"/>.
-
-- Take the _Mistlock Singularity_
-
-- **NOTE:** When using this precast it is recommended that one party member will bring the fire field. Otherwise use <Skill name="Wildfire"/> before using <Skill id="29548"/>.
-
-Tempest precasting build template:
-
-<Traits traits1="Arcane" traits1Selected="Renewing Stamina,Elemental Lockdown,Elemental Surge" traits2="Air" traits2Selected="Zephyrs Boon,Inscription,Fresh Air" traits3="Tempest" traits3Selected="Unstable Conduit,Invigorating Torrents,Elemental Bastion" unembossed/>
-
-### **Other advices**
+### **Other advice**
 
 - If you have spare time before the encounter becomes active
 
@@ -629,14 +612,6 @@ If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto
 
 With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill name="Water Attunement" disableText/> before going directly into <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> after using your Fire skills.
 
-<Grid>
-<GridItem sm="6">
-<Card title="Golem Rotation">
-
-<Video youtube="ZtEY4lXt6Hc" caption="by Fallen [SC]"/>
-</Card>
-</GridItem>
-</Grid>
 </Card>
 </GridItem>
 </Grid>
