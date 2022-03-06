@@ -7,7 +7,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T17:31:22.870Z
+date: 2022-03-06T17:42:08.260Z
 ---
 <Warning>
 This is an early draft of the build.
@@ -297,5 +297,18 @@ Use this setup if you are responsible for providing Quickness to your group.
 
 <Divider text="Rotation"/>
 <Warning>
-
+This is not the actual rotation. Will be edited.
 </Warning>
+Some General Information:
+
+- Use <Skill name="Deathly Swarm"/> and <Skill name="Harbinger Shroud"/> (triggering <Trait name="Plague Sending"/>) to transfer Conditions you get from <Skill name="Blood is Power"/> and <Skill name="Plaguelands"/> to the boss.
+- Use all 3 Elixirs off-cooldown to keep up Blight. They have the same cooldown. Use <Skill name="Elixir of Promise"/> last to ensure you are using it at above the Blight threshold doubling the duration of the <Condition name="Poisoned"/> it applies.
+
+Shroud Rotation:
+1. <Skill name="Dark Barrage"/>
+2. <Skill name="Voracious Arc"/>
+3. <Skill name="Devouring Cut"/>
+4. <Skill name="Dark Barrage"/>
+5. <Skill name="Voracious Arc"/>
+6. <Skill name="Devouring Cut"/>
+7. <Skill name="Dark Barrage"/>
