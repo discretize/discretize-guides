@@ -11,7 +11,7 @@ rating: Power Meta
 role: Power Damage
 profession: Ranger
 specialization: Soulbeast
-code: "[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
+code: '[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]'
 classification:
   - 5
   - 5
@@ -593,7 +593,7 @@ Many thanks to Elu \[SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4f
 
 <Grid>
 <GridItem sm="7">
-<Weapons weapon1MainType="Spear" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id={37131} weapon1MainInfusion2Id={37131} weapon2MainType="Harpoon Gun" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id={37131} weapon2MainInfusion2Id={37131}/>
+<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id={37131} weapon1MainInfusion2Id={37131} weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id={37131} weapon2MainInfusion2Id={37131}/>
 
 <Card title="Traits">
 
