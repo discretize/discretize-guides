@@ -14,7 +14,7 @@ conditions:
   - Bleeding
   - Torment
 boons: null
-cmGuide: ''
+cmGuide: ""
 classification:
   - 3
   - 3
@@ -22,8 +22,8 @@ classification:
   - 3
   - 3
 compositions: null
-code: '[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-03-03T18:47:16.210Z
+code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-03-06T22:32:49.151Z
 ---
 
 <Warning>
@@ -157,7 +157,8 @@ The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS cond
       "utility2": "Skale Venom",
       "utility3": "Spider Venom",
       "elite": "Basilisk Venom"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
