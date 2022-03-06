@@ -17,15 +17,15 @@ conditions:
   - Blinded
   - Crippled
   - Immobile
-code: '[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: 2022-02-17T22:17:40.858Z
+date: 2022-03-06T22:03:28.519Z
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
@@ -136,7 +136,8 @@ This guide will focus mainly on the Sword ECSU variant since it is the most flex
       "utility2": "Rifle Turret",
       "utility3": "Laser Disk",
       "elite": "Prime Light Beam"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
   }}
 >
 
