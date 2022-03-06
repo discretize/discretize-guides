@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-03-05T19:12:45.889Z
+date: 2022-03-06T22:07:13.428Z
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing good DPS.
@@ -139,7 +139,8 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "elite": "Feel my Wrath"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
   }}
 >
 
@@ -244,7 +245,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "elite": "Feel my Wrath"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
@@ -348,7 +350,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "elite": "Feel my Wrath"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
@@ -451,7 +454,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "elite": "Feel my Wrath"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
   }}
 >
 
