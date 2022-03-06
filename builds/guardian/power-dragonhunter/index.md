@@ -30,7 +30,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-03-02T22:40:33.634Z
+date: 2022-03-06T22:19:33.384Z
 cmGuide: " "
 ---
 
@@ -135,7 +135,8 @@ It benefits from slaying potions and slaying sigils such as <Item id="50082"/> a
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "elite": "Dragons Maw"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
   }}
 >
 
@@ -238,7 +239,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "elite": "Dragons Maw"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
   }}
 >
 
@@ -341,7 +343,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "elite": "Dragons Maw"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
   }}
 >
 
@@ -445,7 +448,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "elite": "Dragons Maw"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
   }}
 >
 
