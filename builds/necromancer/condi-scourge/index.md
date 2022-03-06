@@ -2,7 +2,7 @@
 title: Condi Scourge
 rating: Good
 role: Condi Damage
-author: 'Discord: Amerikajinn#9784'
+author: "Discord: Amerikajinn#9784"
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -21,15 +21,15 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: '[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 2
   - 4
   - 4
   - 2
   - 3
-date: 2022-01-11T03:17:48.414Z
+date: 2022-03-06T22:24:37.724Z
 benchmark:
   small:
     dps: 37044
@@ -139,7 +139,8 @@ Due to being a condition based build, it will not benefit as highly from slaying
         "utility2": "Blood is Power",
         "utility3": "Signet of Undeath",
         "elite": "Plaguelands"
-      }
+      },
+      "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
     }}
   >
 
