@@ -222,7 +222,7 @@ You will want the following weapons to swap to durning fractal runs:
 | <Skill name="Whirling Light"/>                                                        |
 | <Skill name="Zealot's Flame"/>, <Skill name="Zealot's Fire"/>                         |
 | <Skill name="Symbol of Blades"/>                                                      |
-| <Skill name="Rushing Justice"/> with <Skill id="62618"/> already acive                |
+| <Skill name="Rushing Justice"/> with <Skill id="62618"/> already active               |
 | <Skill name="Zealot's Defense"/>                                                      |
 | <Skill name="Cleansing Flame"/>                                                       |
 | <Skill name="Sword of Wrath"/>, <Skill name="Sword Arc"/>, <Skill name="Sword Wave"/> |
