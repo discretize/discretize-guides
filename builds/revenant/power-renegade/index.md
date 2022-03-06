@@ -1,30 +1,30 @@
 ---
+title: Power Alac Renegade
+rating: Power Meta
+role: Power Damage
 author: Casual Sophie - Jin Su Liang.9036
+profession: Revenant
 specialization: Renegade
 skills:
   - 45773
   - 27505
 traits:
   - 1786
+conditions:
+  - Vulnerability
 boons:
   - name: Alacrity
     uptime: 100%
     variant: party
-code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
+code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
+cmGuide: pug
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: 2022-01-31T21:02:21.287Z
-title: Power Alac Renegade
-rating: Power Meta
-role: Power Damage
-profession: Revenant
-conditions:
-  - Vulnerability
-cmGuide: pug
+date: 2022-03-06T22:31:22.899Z
 ---
 
 The <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -119,7 +119,8 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
     "legends": {
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
   }}
 >
 
@@ -210,7 +211,8 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
     "legends": {
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
   }}
 >
 
@@ -301,7 +303,8 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
     "legends": {
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
   }}
 >
 
@@ -391,7 +394,8 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
     "legends": {
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
