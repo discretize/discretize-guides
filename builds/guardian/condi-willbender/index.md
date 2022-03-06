@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-05T18:36:45.518Z
+date: 2022-03-06T22:10:00.842Z
 ---
 
 <Warning>
@@ -151,7 +151,8 @@ This build guide is not complete, gear and sections may chage regularly as we ex
     "utility1Id": 62565,
     "utility2Id": 9187,
     "eliteId": 62561
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 9151, "type": "Skill"}]
 }} 
 >
 
