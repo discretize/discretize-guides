@@ -1,28 +1,28 @@
 ---
+title: Condi Weaver
+rating: Good
+role: Condi Damage
+profession: Elementalist
 specialization: Weaver
 skills:
   - 43638
   - 5542
   - 40183
-code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
-classification:
-  - 3
-  - 4
-  - 3
-  - 4
-  - 5
-date: 2022-01-20T14:03:18.677Z
-title: Condi Weaver
-rating: Good
-role: Condi Damage
-profession: Elementalist
 conditions:
   - Burning
   - Vulnerability
   - Crippled
   - Bleeding
   - Chilled
-cmGuide: ''
+code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 3
+  - 4
+  - 3
+  - 4
+  - 5
+date: 2022-03-06T22:00:44.095Z
+cmGuide: ""
 ---
 
 <Warning>
@@ -129,7 +129,8 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
       "utility2": "Primordial Stance",
       "utility3": "Signet of Fire",
       "elite": "Weave Self"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 5542, "type": "Skill"}]
 }}>
 
 Note that the build does not rely on precision as much as the <BuildLink build="Power Weaver" specialization="Weaver"/> variant and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. The stats shown are with 162 Agony Resistance. This build requires 15x <Item name="malignagonyinfusion"/> and 3x <Item name="spitefulagonyinfusion"/>.
