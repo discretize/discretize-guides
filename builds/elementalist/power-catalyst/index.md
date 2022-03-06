@@ -18,7 +18,7 @@ rating: Good
 profession: Elementalist
 specialization: Catalyst
 code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-03T19:29:53.129Z
+date: 2022-03-06T00:16:31.570Z
 role: Power Damage
 conditions:
   - Burning
@@ -233,30 +233,12 @@ If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specia
 <GridItem xs="12" sm="6">
 <Card title="Information">
 
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
-For that reason you can find a video with openers, that are efficient to use here.
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
 </Card>
 
-<Card title="Catalyst Rotation">
-
-<Video caption="" youtube=""/>
-</Card>
-</GridItem>
-
-<GridItem xs="12" sm="6">
-<Card title="Precasting">
-
-If a _Mistlock Singularity_ is present you should precast boons and particular effects for better group performance.
-
-</Card>
-</GridItem>
-
-<GridItem xs="12" sm="12">
 <Card title="Rotation (Bolt to the Heart)">
 
 This is very wrong, borrowed a kind of loop from one of Rouls benchmarks just to see if the skills are working.
-
-</Card>
 
 <Grid>
 <GridItem sm="2">
@@ -331,5 +313,26 @@ This is very wrong, borrowed a kind of loop from one of Rouls benchmarks just to
 
 </GridItem>
 </Grid>
+</Card>
+</GridItem>
+
+<GridItem xs="12" sm="6">
+<Card title="Precasting">
+
+If a _Mistlock Singularity_ is present you should precast boons and particular effects for better group performance.
+
+- Start on <Skill id="5492"/> and cast <Skill id="63458"/> to provide a fire field.
+- Blast it using <Skill name="Molten End"/>, then attune to <Skill id="5495"/> and cast <Skill name="Ground Pound"/>, then attune to <Skill id="5494"/> and cast <Skill name="Shock Blast"/>.
+- Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to your regular utility skills
+- Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5492"/>.
+- Take the _Mistlock Singularity_.
+
+It is recommended to use separate precast templates to cast different utility and weapon skills.
+
+</Card>
+<Card title="Catalyst Rotation">
+
+<Video caption="" youtube=""/>
+</Card>
 </GridItem>
 </Grid>
