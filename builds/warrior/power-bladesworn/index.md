@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-06T22:40:10.547Z
+date: 2022-03-06T22:44:42.267Z
 ---
 
 <Warning>
@@ -123,7 +123,8 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
       "utility2": "Banner of Strength",
       "utility3": "Banner of Discipline",
       "elite": "Signet of Rage"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
   }}
 >
 
@@ -213,7 +214,8 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
       "utility2": "Banner of Strength",
       "utility3": "Banner of Discipline",
       "elite": "Signet of Rage"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
   }}
 >
 
@@ -303,7 +305,8 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
       "utility2": "Banner of Strength",
       "utility3": "Banner of Discipline",
       "elite": "Signet of Rage"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
 
 </Character>
