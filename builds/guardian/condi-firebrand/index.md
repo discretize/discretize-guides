@@ -30,7 +30,7 @@ classification:
 compositions:
   - name: _CRGB
 code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-05T19:08:28.734Z
+date: 2022-03-06T22:08:53.686Z
 benchmark:
   small:
     dps: 36732
@@ -157,7 +157,8 @@ There are a number of different gear, utility and trait setups that allow you to
       "utility2": "Purging Flames",
       "utility3": "Sanctuary",
       "elite": "Feel My Wrath"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
@@ -264,7 +265,8 @@ You will want the following weapons to swap to durning fractal runs:
     "utility2Id": 9187,
     "utility3Id": 9128,
     "eliteId": 29965
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
@@ -373,7 +375,8 @@ You will want the following weapons to swap to durning fractal runs:
       "utility2": "Purging Flames",
       "utility3": "Sanctuary",
       "elite": "Renewed Focus"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
