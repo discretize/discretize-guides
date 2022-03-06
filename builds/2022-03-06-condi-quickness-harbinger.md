@@ -8,7 +8,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T17:48:36.823Z
+date: 2022-03-06T18:02:20.828Z
 ---
 <Warning>
 This is an early draft of the build page.
@@ -298,12 +298,26 @@ Use this setup if you are responsible for providing Quickness to your group.
 
 <Divider text="Rotation"/>
 <Warning>
-This is not the actual rotation. Will be edited.
+This is not finished yet.
 </Warning>
 Some General Information:
 
+- Keep in mind that skills that inflict Bleeding over Torment have a slightly lower priority on the Quickness build due to being significantly below Bleeding Duration cap.
 - Use <Skill name="Deathly Swarm"/> and <Skill name="Harbinger Shroud"/> (triggering <Trait name="Plague Sending"/>) to transfer Conditions you get from <Skill name="Blood is Power"/> and <Skill name="Plaguelands"/> to the boss.
 - Use all 3 Elixirs off-cooldown to keep up Blight. They have the same cooldown. Use <Skill name="Elixir of Promise"/> last to ensure you are using it at above the Blight threshold doubling the duration of the <Condition name="Poisoned"/> it applies.
+- Try to stay on Pistol as much as possible. Only swap to Scepter before going into <Skill name="Harbinger Shroud"/> to use <Skill name="Devouring Darkness"/> and <Skill name="Grasping Dead"/>. Use them again after exiting <Skill name="Harbinger Shroud"/> before swapping back to Pistol.
+
+Precast:
+1. <Skill name="Elixir of Anguish"/>
+2. <Skill name="Elixir of Risk"/>
+3. <Skill name="Elixir of Promise"/>
+
+Opener:
+1. <Skill name="Plaguelands"/>
+2. <Skill name="Devouring Darkness"/>
+3. Weapon swap
+4. <Skill name="Weeping Shots"/>
+5. <Skill name="Harbinger Shroud"/>
 
 Shroud Rotation:
 1. <Skill name="Dark Barrage"/>
