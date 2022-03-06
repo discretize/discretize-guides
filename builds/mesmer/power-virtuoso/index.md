@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-06T22:23:27.261Z
+date: 2022-03-06T23:24:41.754Z
 ---
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
@@ -625,9 +625,9 @@ It's important to note that phantasms do not benefit from most modifiers, unless
 They do however benefit from <Effect name="Exposed"/>.
 </Card>
 
-<Card title="Golem Rotation">
+<Card title="Greatsword Golem Rotation">
 
-<Video caption="" youtube=""/>
+<Video caption="by Tipcat [CnD]" youtube="92FJUY1IKh4"/>
 </Card>
 
 <Card title="Precasting">
