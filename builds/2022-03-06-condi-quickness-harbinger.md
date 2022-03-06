@@ -7,10 +7,10 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T17:42:08.260Z
+date: 2022-03-06T17:42:31.472Z
 ---
 <Warning>
-This is an early draft of the build.
+This is an early draft of the build page.
 </Warning>
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group.
