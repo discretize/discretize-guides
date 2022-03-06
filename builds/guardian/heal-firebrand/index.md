@@ -43,7 +43,7 @@ classification:
   - 3
   - 1
   - 2
-date: 2022-03-03T12:31:51.149Z
+date: 2022-03-06T22:04:57.566Z
 ---
 
 <Warning>
@@ -150,7 +150,8 @@ The build is very flexible and can be adapted to the encounter, instabilities an
       "utility1": "mantra of Potence",
       "utility3": "Sanctuary",
       "elite": "Feel My Wrath"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
