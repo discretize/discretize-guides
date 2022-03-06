@@ -31,7 +31,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-03-05T19:12:21.093Z
+date: 2022-03-06T22:08:03.204Z
 cmGuide: ""
 ---
 
@@ -137,7 +137,8 @@ There are a number of different gear, utility and trait setups that allow you to
       "utility2": "Mantra of Potence",
       "utility3": "Sanctuary",
       "elite": "Feel my Wrath"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
@@ -233,7 +234,8 @@ Check the build section for some common gear variations. You can also use our [g
       "utility2": "Mantra of Potence",
       "utility3": "Sanctuary",
       "elite": "Feel my Wrath"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
@@ -329,7 +331,8 @@ Check the build section for some common gear variations. You can also use our [g
       "utility2": "Mantra of Potence",
       "utility3": "Sanctuary",
       "elite": "Feel my Wrath"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
@@ -425,7 +428,8 @@ Check the build section for some common gear variations. You can also use our [g
       "utility2": "Mantra of Potence",
       "utility3": "Sanctuary",
       "elite": "Feel my Wrath"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
