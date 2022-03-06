@@ -20,7 +20,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2022-03-06T00:26:12.087Z
+date: 2022-03-06T22:02:05.368Z
 conditions:
   - Burning
   - Chilled
@@ -122,7 +122,8 @@ Also this build depends pretty much on supports and boon uptimes, as it can't pr
       "utility2": "Glyph of Storms",
       "utility3": "Arcane Blast",
       "elite": "Conjure Fiery Greatsword"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
 }}>
 
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
