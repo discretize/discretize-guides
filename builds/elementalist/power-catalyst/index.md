@@ -18,7 +18,7 @@ rating: Good
 profession: Elementalist
 specialization: Catalyst
 code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T00:16:31.570Z
+date: 2022-03-06T22:01:31.321Z
 role: Power Damage
 conditions:
   - Burning
@@ -147,7 +147,8 @@ This build has one of the most harder rotations in game which makes it enjoyable
     "utility2Id": 62698,
     "utility3Id": 62965,
     "eliteId": 5516
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
