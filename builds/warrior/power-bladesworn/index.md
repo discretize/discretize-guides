@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-06T00:20:17.911Z
+date: 2022-03-06T22:40:10.547Z
 ---
 
 <Warning>
@@ -31,7 +31,7 @@ This build guide is not complete, gear and sections may chage regularly as we ex
 
 </Warning>
 
-The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favour of frequent damage spkies. 
+The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favour of frequent damage spkies. Unfortuanately if enemies dont phaseor die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
 
 Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
@@ -393,7 +393,6 @@ For that reason you can find a video with openers, that are efficient to use her
   - (optional) <Skill name="Flames of War"/>
   - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
   - Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
-- If there is a defiance bar present immediately at the start of the fight, start on your Mace set - otherwise swap to it when necessary.
 
 </Card>
 
