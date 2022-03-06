@@ -1,5 +1,6 @@
 ---
 title: Condi (Quick) Harbinger
+hidden: true
 rating: Good
 role: Condi Damage
 profession: Necromancer
@@ -7,7 +8,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T17:42:31.472Z
+date: 2022-03-06T17:48:36.823Z
 ---
 <Warning>
 This is an early draft of the build page.
