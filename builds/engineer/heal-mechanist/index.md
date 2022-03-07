@@ -157,7 +157,7 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
     "weapon1MainType": "Mace",
     "weapon1MainSigil1Id": 74326,
     "weapon1OffType": "Shield",
-    "weapon1offSigil1": "Paralyzation"
+    "weapon1OffSigil1": "Paralyzation"
   },
   "consumables": {
     "foodId": 91690,
