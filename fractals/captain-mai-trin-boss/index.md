@@ -1,14 +1,12 @@
 ---
+cycle: Day
 potions:
   - id: 50082
+date: 2022-01-28T02:27:34.573Z
 title: Captain Mai Trin Boss
-date: 2021-02-24
 image: ./images/header.jpg
 group: T4
 api: 2932
-cycle: Day
-consumables:
-  - 78978
 bosses: 1
 difficulties:
   - level: 95
@@ -16,6 +14,9 @@ difficulties:
 sigils:
   - id: 24615
   - id: 24868
+consumables:
+  - 78978
+record:
 ---
 
 <Grid>
@@ -25,7 +26,7 @@ sigils:
 
 Aggro the mobs and stack them on the corner. The _Champion Inquest Technician_ applies a group-wide <Control name="Daze"/> with his stunning shield, use <Boon name="Stability"/>, blocks or skills that make you invulnerable against it.
 
-After you killed the mobs, use the Mistlock Singularity to reset cooldown then the teleporter to enter the boss area.
+After you killed the mobs, use the _Mistlock Singularity_ to reset cooldown then the teleporter to enter the boss area.
 
 </GridItem>
 
@@ -66,7 +67,7 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 <Tabs>
 <Tab specialization="Revenant">
 
-It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Recommended to use the Salvation / Invocation / Renegade traitline combo variant for more energy for the whole fight. Do not forget that <Skill name="Warding Rift"/> (Staff 3) can block Horrik's projectile if you stand into it!
+It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Alternatively, if more protection isn't needed, you can run <Skill name="Legendary Dwarf Stance"/> to give <Boon name="Stability"/> with <Skill name="Inspiring Reinforcement"/>. Do not forget that <Skill name="Warding Rift"/> (Staff 3) can block Horrik's projectile if you stand into it!
 
 </Tab>
 <Tab specialization="Soulbeast">

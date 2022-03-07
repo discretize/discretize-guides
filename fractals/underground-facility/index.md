@@ -1,35 +1,46 @@
 ---
-title: 'Underground Facility'
-date: '2021-02-24'
-image: './images/start.jpg'
-group: 'T4'
+cycle: Night
+potions:
+  - id: 8892
+    description: for all the Dredge enemies
+  - id: 8885
+    description: for the Ice Elemental endboss
+date: 2022-01-28T10:13:18.167Z
+title: Underground Facility
+image: ./images/start.jpg
+group: T4
 api: 2947
 bosses: 2
-difficulties: [{ level: 81, ar: 117 }]
-record:
-  {
-    time: '3 min 52 sec',
-    by: [{ name: 'Quantify', tag: 'qT' }],
-    youtube:
-      [
-        { id: 'jQCKegeS3DI', name: 'Subi', specialization: 'Chronomancer' },
-        { id: 'GsPXlgXHAZI', name: 'Fennec', specialization: 'Berserker' },
-        { id: 'OMUxEYbtnWE', name: 'Deathly', specialization: 'Daredevil' },
-      ],
-  }
-cycle: 'Night'
-potions:
-  [
-    { id: 8892, description: 'for all the Dredge enemies' },
-    { id: 8885, description: 'for the Ice Elemental endboss' },
-  ]
+difficulties:
+  - level: 81
+    ar: 117
 sigils:
-  [
-    { id: 36053 },
-    { id: 24684, description: 'for all Dredge enemies' },
-    { id: 24661, description: 'for the Ice Elemental endboss' },
-  ]
-consumables: [78978, 49940, 8764, 8801, 8686]
+  - id: 36053
+  - id: 24684
+    description: for all Dredge enemies
+  - id: 24661
+    description: for the Ice Elemental endboss
+consumables:
+  - 78978
+  - 49940
+  - 8764
+  - 8801
+  - 8686
+record:
+  time: 3 min 52 sec
+  by:
+    - name: Quantify
+      tag: qT
+  youtube:
+    - id: jQCKegeS3DI
+      name: Subi
+      specialization: Chronomancer
+    - id: GsPXlgXHAZI
+      name: Fennec
+      specialization: Berserker
+    - id: OMUxEYbtnWE
+      name: Deathly
+      specialization: Daredevil
 ---
 
 ## Start: Locked Gates <Item id="8892" disableText/><Item id="24684" disableText/>
@@ -101,6 +112,10 @@ Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> to stack <Ef
 <Tab specialization="ranger">
 
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
+</Tab>
+
+<Tab specialization="Renegade">
+Use <Skill name="Inspiring Reinforcement"/> to block the <Control name="Knockback"/> from the console doors closing, and then protect yourself with <Skill name="Protective Solace"/> until the door is open.
 </Tab>
 </Tabs>
 

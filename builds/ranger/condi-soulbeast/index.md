@@ -1,4 +1,8 @@
 ---
+title: Condi Soulbeast
+rating: Meta
+role: Condi Damage
+profession: Ranger
 skills:
   - 45717
   - 12498
@@ -16,10 +20,7 @@ compositions:
     composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
 specialization: Soulbeast
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-01-20T14:02:38.957Z
-title: Condi Soulbeast
-role: Condi Damage
-profession: Ranger
+date: 2022-03-06T22:26:42.922Z
 conditions:
   - Bleeding
   - Poisoned
@@ -30,7 +31,6 @@ benchmark:
     dps: 36197
     by: Eren
     youtube: WSuDmiuAwC8
-rating: Meta
 ---
 
 <Warning>
@@ -130,7 +130,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "weapon2OffSigil": "earth"
     },
     "consumables": {
-      "foodId": "91878",
+      "foodId": 91878,
       "utility": "toxic-focusing-crystal",
       "infusion": "Malign +9 Agony Infusion"
     },
@@ -139,7 +139,8 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "utility2": "Sharpening Stone",
       "utility3": "Vulture Stance",
       "elite": "One Wolf Pack"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 />
 <Character title="Afflicted Runes" gear={{
@@ -220,7 +221,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "weapon2OffSigil": "earth"
     },
     "consumables": {
-      "foodId": "91876",
+      "foodId": 91876,
       "utility": "tuning-Icicle",
       "infusion": "Spiteful +9 Agony Infusion"
     },
@@ -229,7 +230,8 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "utility2": "Sharpening Stone",
       "utility3": "Vulture Stance",
       "elite": "One Wolf Pack"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 This builds damage depends on the amount of <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. The build deals similar DPS with 2 <Specialization name="Soulbeast" text="Condi Soulbeasts"/>, and outperforms the Krait build if you have 3 <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. If you are going to be on your own run the Krait rune setup!

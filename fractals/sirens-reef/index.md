@@ -1,6 +1,7 @@
 ---
+cycle: Day
+date: 2022-02-01T02:46:24.744Z
 title: Siren's Reef
-date: 2021-07-20
 image: ./images/header.jpg
 group: T4
 api: 4494
@@ -8,13 +9,13 @@ bosses: 3
 difficulties:
   - level: 78
     ar: 111
-cycle: Day
-consumables:
-  - 8764
-  - 8801
 sigils:
   - id: 24868
   - id: 24615
+consumables:
+  - 8764
+  - 8801
+record: null
 ---
 
 <Grid>
@@ -45,7 +46,7 @@ Prestack boons on the _Mistlock Singularity_ nearby.
 
 Kill the ghosts to start the encounter.
 
-_Blast Black Peter_ the skeleton boss is kind of a DPS race. He starts spawning many minions by the end of the encounter so you can wipe easily. He spawns mines which you can blow up with the cannon on top. The boss periodically gains <Boon name="Swiftness"/> <Boon name="Protection"/> and <Boon name="Stability"/> so removing it is priority and a key to kill him fast. He has a breakbar too so break that also helps.
+_Blast Black Peter_ the skeleton boss is kind of a DPS-race. He starts spawning many minions by the end of the encounter so you can wipe easily. He spawns mines which you can blow up with the cannon on top. The boss periodically gains <Boon name="Swiftness"/> <Boon name="Protection"/> and <Boon name="Stability"/> so removing it is priority and a key to kill him fast. He has a breakbar, too, so breaking it as fast as possible also helps.
 </GridItem>
 
 <GridItem sm="6">
@@ -124,6 +125,20 @@ It will be a point capture event, you need to stay alive long enough to kill all
 ### Captain Arabella Crowe
 
 Use `/gg` to reset mobs on the ship and use the _Mistlock Singularity_ to stack boons. The two mechanics from before, the knockoff and AoE are present in this fight as well as a third one. It is an AoE placed on a player with a timer. If the circle fills, huge damage is dealt to the player, but you can split up the damage between players, to counter this mechanic simply stack in the circle to split up the damage dealt to each player. The boss will be teleporting around as well as spawning mobs every 10% health of the boss. Kill her to finish the fractal.
+
+<Tabs>
+<Tab specialization="Scourge">
+You can use <Skill name="Corrosive Poison Cloud"/> to block the projectiles and <Skill name="Chilling Grasp"/> to pull enemies to you.
+</Tab>
+<Tab specialization="Guardian">
+Use <Skill name="Wall of Reflection"/> to keep enemy projectiles from hitting your group. <TomeSkill name="Chapter 3: Valiant Bulwark"/>, <TomeSkill name="Chapter 4: Stalwart Stand"/> and <TomeSkill name="Epilogue: Unbroken Lines"/> are helpful here for <Boon name="Stability"/> and <Boon name="Resistance"/>.
+</Tab>
+<Tab specialization="Renegade">
+You can use two different legends here (in addition to your default one, <Skill name="Legendary Renegade Stance"/>).
+1. <Skill name="Legendary Dwarf Stance"/> will help your group from being interrupted with <Skill name="Inspiring Reinforcement"/> which grants <Boon name="Stability"/>.
+2. <Skill name="Legendary Centaur Stance"/> will block the enemy projectiles which hurt a lot and apply conditions.
+</Tab>
+</Tabs>
 </GridItem>
 
 <GridItem sm="6">

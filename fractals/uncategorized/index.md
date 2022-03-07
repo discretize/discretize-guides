@@ -1,16 +1,31 @@
 ---
+cycle: Day
 potions:
   - id: 8887
     description: for Old Tom and the Raving Asura
-cycle: Day
-date: 2021-10-05T09:11:03.407Z
+date: 2022-01-28T09:32:05.498Z
+title: Uncategorized
+image: ./images/header.jpg
+group: T4
+api: 2939
+bosses: 3
+difficulties:
+  - level: 79
+    ar: 113
+  - level: 91
+    ar: 134
+sigils:
+  - id: 24868
+  - id: 24615
+  - id: 24672
+    description: for Old Tom and the Raving Asura
 consumables:
   - 78978
   - 49940
   - 8764
   - 8801
 record:
-  time: '2 min 14 sec'
+  time: 2 min 14 sec
   by:
     - name: Lucky Noobs
       tag: LN
@@ -27,21 +42,6 @@ record:
     - id: BHXFkdm3TFY
       name: Inam
       specialization: Renegade
-title: Uncategorized
-image: ./images/header.jpg
-group: T4
-api: 2939
-bosses: 3
-difficulties:
-  - level: 79
-    ar: 113
-  - level: 91
-    ar: 134
-sigils:
-  - id: 24868
-  - id: 24615
-  - id: 24672
-    description: for Old Tom and the Raving Asura
 ---
 
 <Grid>
@@ -82,6 +82,10 @@ Try to share <Boon name="Aegis"/> with your group by using <Skill name="Mantra o
 <Tab specialization="Holosmith">
 
 You can use <Skill name="Holographic Shockwave"/> and <Skill name="Primelight Beam"/> to help break the defiance bars. Try to land those skills on all adds!
+</Tab>
+<Tab specialization="Renegade">
+
+You should use <Skill name="Legendary Dwarf Stance"/> here with <Item id="72872"/>. Use <Skill name="Inspiring Reinforcement"/> to prevent your group from being CC'd and use <Skill name="Forced Engagement"/> to strip the enemy boons.
 </Tab>
 </Tabs>
 </GridItem>

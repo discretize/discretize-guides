@@ -30,8 +30,6 @@ benchmark:
 hidden: true
 ---
 
-<Divider text="Overview"/>
-
 <Warning>
 
 This build is [META](/guides/meta-explained) in full condi groups. In power groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
@@ -129,7 +127,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "weapon2OffSigil": "earth"
     },
     "consumables": {
-      "foodId": "91878",
+      "foodId": 91878,
       "utility": "toxic-focusing-crystal",
       "infusion": "Malign +9 Agony Infusion"
     },
@@ -219,7 +217,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "weapon2OffSigil": "earth"
     },
     "consumables": {
-      "foodId": "91876",
+      "foodId": 91876,
       "utility": "tuning-Icicle",
       "infusion": "Spiteful +9 Agony Infusion"
     },

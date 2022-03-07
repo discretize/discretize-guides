@@ -14,9 +14,6 @@ difficulties:
 sigils:
   - id: 24868
   - id: 24554
-record:
-  time: No record
-  by: []
 ---
 
 <Grid>

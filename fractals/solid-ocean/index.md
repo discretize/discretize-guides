@@ -16,9 +16,6 @@ sigils:
   - id: 36053
   - id: 24661
     description: for the Jade enemies
-record:
-  time: No record
-  by: []
 ---
 
 <Grid>

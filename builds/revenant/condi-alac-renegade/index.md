@@ -19,21 +19,21 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
-cmGuide: ""
+code: '[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 4
   - 3
   - 4
   - 3
   - 5
-date: 2022-01-12T18:41:23.790Z
+date: 2022-03-06T22:32:02.102Z
 ---
 
-<Divider text="Overview"/>
-
 <Warning>
+
 This build is mainly to be used in condition comps. In power comps <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support and being more versatile.
+
 </Warning>
 
 Condi <Specialization name="Renegade"/> is an unique build that may only be played in condition comps, since it performs much better than <BuildLink build="Power Renegade" specialization="Renegade"/>. Condi <Specialization name="Renegade"/> has decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively. Finally, to top it off this build has high CC capabilities with <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
@@ -48,181 +48,227 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
   "weight": "Heavy",
   "gear": [
     "Viper",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
     "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Celestial",
-    "Viper",
-    "Viper",
-    "Celestial",
-    "Celestial",
-    "Celestial",
-    "Celestial",
-    "Celestial"
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist"
   ],
   "attributes": {
-    "Health": 19462,
-    "Armor": 2868,
-    "Power": 2692,
-    "Precision": 1916,
-    "Toughness": 1597,
-    "Vitality": 1354,
-    "Ferocity": 504,
-    "Condition Damage": 1902,
-    "Expertise": 743,
-    "Concentration": 817,
-    "Healing Power": 354,
+    "Health": 27072,
+    "Armor": 2550,
+    "Power": 1880,
+    "Precision": 1331,
+    "Toughness": 1279,
+    "Vitality": 2115,
+    "Ferocity": 186,
+    "Condition Damage": 2269,
+    "Expertise": 739,
+    "Concentration": 978,
+    "Healing Power": 36,
     "Agony Resistance": 162,
-    "Condition Duration": 0.7453333333333333,
-    "Boon Duration": 0.7946666666666666,
-    "Critical Chance": 1.0161904761904763,
-    "Critical Damage": 1.836,
+    "Condition Duration": 0.8426666666666667,
+    "Boon Duration": 0.802,
+    "Critical Chance": 0.7376190476190477,
+    "Critical Damage": 1.624,
+    "Power Coefficient": 1973,
+    "Burning Coefficient": 5,
+    "Bleeding Coefficient": 14.1,
+    "Poison Coefficient": 4.2,
+    "Torment Coefficient": 18.4,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
     "Bleeding Duration": 0.25,
-    "Effective Power": 8894.5754859,
-    "Power DPS": 6757.4114107357345,
-    "Bleeding Damage": 280.7475,
-    "Bleeding Stacks": 28.1342,
-    "Bleeding DPS": 7898.6063145,
-    "Burning Damage": 702.5865000000001,
-    "Burning Stacks": 8.726666666666667,
-    "Burning DPS": 6131.238190000001,
-    "Confusion Damage": 267.3627,
+    "Effective Power": 4940.4872148171435,
+    "Power DPS": 3753.4005678992007,
+    "Bleeding Damage": 326.16375,
+    "Bleeding Stacks": 28.2,
+    "Bleeding DPS": 9197.81775,
+    "Burning Damage": 796.4467500000001,
+    "Burning Stacks": 9.213333333333333,
+    "Burning DPS": 7337.92939,
+    "Confusion Damage": 309.14565000000005,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 243.57300000000004,
-    "Poison Stacks": 7.330400000000001,
-    "Poison DPS": 1785.4875192000004,
-    "Torment Damage": 368.4087000000001,
-    "Torment Stacks": 32.114133333333335,
-    "Torment DPS": 11831.126112960004,
-    "Damage": 34403.869547395734,
-    "Effective Health": 111078638.80597016,
-    "Survivability": 56471.09242804787,
-    "Effective Healing": 496.2,
-    "Healing": 496.2
+    "Poison Damage": 279.906,
+    "Poison Stacks": 7.7392,
+    "Poison DPS": 2166.2485152,
+    "Torment Damage": 428.3581500000001,
+    "Torment Stacks": 33.90506666666666,
+    "Torment DPS": 14523.51163296,
+    "Damage": 36978.9078560592,
+    "Effective Health": 137380298.5074627,
+    "Survivability": 69842.55135102324,
+    "Effective Healing": 400.8,
+    "Healing": 400.8
   },
-    "runeId": 70600,
-    "runeName": "Leadership",
-    "infusions": [
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130
-    ],
+  "runeId": 24691,
+  "runeName": "Traveler",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
     "weapons": {
       "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "geomancy",
+      "weapon1MainSigil1": "earth",
       "weapon1OffType": "Axe",
-      "weapon1OffSigil": "doom",
+      "weapon1OffSigil": "geomancy",
       "weapon2MainType": "Short Bow",
       "weapon2MainSigil1": "torment",
-      "weapon2MainSigil2": "earth"
+      "weapon2MainSigil2": "geomancy"
     },
     "consumables": {
-      "foodId": "91878",
-      "utility": "toxic-maintenance-oil",
+      "foodId": 91878,
+      "utilityId": 48916,
       "infusion": "Malign +9 Agony Infusion"
     },
     "legends": {
       "legend1": "legendarydemonstance",
       "legend2": "legendaryrenegadestance"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
 
 </Character>  
 <Character title="80% Boon Duration 222 Agony Resistance" gear={{
   "profession": "Revenant",
   "weight": "Heavy",
   "gear": [
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
     "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Celestial",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Celestial",
-    "Celestial",
-    "Celestial"
+    "Ritualist",
+    "Ritualist"
   ],
   "attributes": {
-    "Health": 18462,
-    "Armor": 2858,
-    "Power": 2776,
-    "Precision": 2004,
-    "Toughness": 1587,
-    "Vitality": 1254,
-    "Ferocity": 404,
-    "Condition Damage": 1986,
-    "Expertise": 741,
-    "Concentration": 815,
-    "Healing Power": 254,
+    "Health": 27492,
+    "Armor": 2640,
+    "Power": 1838,
+    "Precision": 1396,
+    "Toughness": 1369,
+    "Vitality": 2157,
+    "Ferocity": 186,
+    "Condition Damage": 2334,
+    "Expertise": 739,
+    "Concentration": 975,
+    "Healing Power": 36,
     "Agony Resistance": 222,
-    "Condition Duration": 0.744,
-    "Boon Duration": 0.7933333333333333,
-    "Critical Chance": 1.0580952380952382,
-    "Critical Damage": 1.7693333333333334,
+    "Condition Duration": 0.8426666666666667,
+    "Boon Duration": 0.8,
+    "Critical Chance": 0.7685714285714287,
+    "Critical Damage": 1.624,
+    "Power Coefficient": 1973,
+    "Burning Coefficient": 5,
+    "Bleeding Coefficient": 14.1,
+    "Poison Coefficient": 4.2,
+    "Torment Coefficient": 18.4,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
     "Bleeding Duration": 0.25,
-    "Effective Power": 8839.0708302,
-    "Power DPS": 6715.243260679476,
-    "Bleeding Damage": 291.1425,
-    "Bleeding Stacks": 28.115399999999998,
-    "Bleeding DPS": 8185.587844499999,
-    "Burning Damage": 724.0695000000001,
-    "Burning Stacks": 8.72,
-    "Burning DPS": 6313.886040000001,
-    "Confusion Damage": 276.9261,
+    "Effective Power": 4894.000032970287,
+    "Power DPS": 3718.083197940076,
+    "Bleeding Damage": 334.2075,
+    "Bleeding Stacks": 28.2,
+    "Bleeding DPS": 9424.6515,
+    "Burning Damage": 813.0705,
+    "Burning Stacks": 9.213333333333333,
+    "Burning DPS": 7491.08954,
+    "Confusion Damage": 316.5459,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 251.889,
-    "Poison Stacks": 7.324800000000001,
-    "Poison DPS": 1845.0365472000003,
-    "Torment Damage": 382.1301000000001,
-    "Torment Stacks": 32.0896,
-    "Torment DPS": 12262.402056960002,
-    "Damage": 35322.15574933948,
-    "Effective Health": 105003773.13432837,
-    "Survivability": 53382.701135906646,
-    "Effective Healing": 466.2,
-    "Healing": 466.2
+    "Poison Damage": 286.341,
+    "Poison Stacks": 7.7392,
+    "Poison DPS": 2216.0502672000002,
+    "Torment Damage": 438.97590000000014,
+    "Torment Stacks": 33.90506666666666,
+    "Torment DPS": 14883.507154560002,
+    "Damage": 37733.38165970008,
+    "Effective Health": 144435582.08955225,
+    "Survivability": 73429.37574456139,
+    "Effective Healing": 400.8,
+    "Healing": 400.8
   },
-    "runeId": 70600,
-    "runeName": "Leadership",
-    "infusions": [
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130
-    ],
+  "runeId": 24691,
+  "runeName": "Traveler",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
     "weapons": {
       "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "geomancy",
+      "weapon1MainSigil1": "earth",
       "weapon1OffType": "Axe",
-      "weapon1OffSigil": "doom",
+      "weapon1OffSigil": "geomancy",
       "weapon2MainType": "Short Bow",
       "weapon2MainSigil1": "torment",
-      "weapon2MainSigil2": "earth"
+      "weapon2MainSigil2": "geomancy"
     },
     "consumables": {
-      "foodId": "91878",
-      "utility": "toxic-maintenance-oil",
+      "foodId": 91878,
+      "utility": "Toxic Focusing Crystal",
       "infusion": "Malign +9 Agony Infusion"
     },
     "legends": {
       "legend1": "legendarydemonstance",
       "legend2": "legendaryrenegadestance"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
 
 </Character>  
 <Character title="Condi DPS Renegade" gear={{
@@ -294,22 +340,23 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
     ],
     "weapons": {
       "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "geomancy",
+      "weapon1MainSigil1": "earth",
       "weapon1OffType": "Axe",
-      "weapon1OffSigil": "doom",
+      "weapon1OffSigil": "geomancy",
       "weapon2MainType": "Short Bow",
       "weapon2MainSigil1": "torment",
-      "weapon2MainSigil2": "earth"
+      "weapon2MainSigil2": "geomancy"
     },
     "consumables": {
-      "foodId": "91878",
+      "foodId": 91878,
       "utility": "toxic-focusing-crystal",
       "infusion": "Malign +9 Agony Infusion"
     },
     "legends": {
       "legend1": "legendarydemonstance",
       "legend2": "legendaryrenegadestance"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
@@ -344,49 +391,35 @@ If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can b
 <Skill id="41858"/> skills:
 
 - <Skill id="45686"/>: self heal + pulsing area heal skill that can help <Skill id="12498"/> to stay alive
-
 - <Skill id="42949"/>: excellent damage source and applies a lot of <Condition name="Bleeding"/>
-
 - <Skill id="40485"/>: suboptimal on Condi <Specialization name="Renegade"/>, however, still a good source of <Condition name="Vulnerability"/>
-
 - <Skill id="41220"/>: very good CC skill that does a total of 600 breakbar damage
-
 - <Skill id="45773"/>: a situational skill that allows your party members to quickly replenish their health at the cost of damage when you are attuned to <Skill id="41858"/>
 
 <Skill id="28494"/> skills:
 
 - <Skill id="27505"/>: not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condition builds (which are less affected by <Boon name="Protection"/> than power builds), still a good skill to boonstrip quickly
-
 - <Skill id="27917"/>: pretty good mobility skill that also does 150 breakbar damage
-
 - <Skill id="28287"/>: one of your most important damage skills as it applies a lot of <Condition name="Torment"/>
 
 Shortbow skills:
 
 - <Skill id="40175"/>: fast and low-cost damage skill and applies some <Condition name="Bleeding"/>
-
 - <Skill id="41829"/>: very good damage skill and applies a good amount of <Condition name="Torment"/>
-
 - <Skill id="43993"/>: good damage skill and applies <Condition name="Burning"/> and <Condition name="Slow"/>
-
 - <Skill id="41820"/> : applies <Condition name="Burning"/> and does 200 breakbar damage
 
 Mace/Axe skills:
 
 - <Skill id="28357"/>: fast and low-cost damage skill and applies <Condition name="Burning"/>
-
 - <Skill id="27964"/>: fast and low-cost damage skill and a good mobility skill as well, applies <Condition name="Torment"/>
-
 - <Skill id="28029"/>: good mobility skill
-
 - <Skill id="28409"/>: good damage skill that deals good amount of breakbar damage as well, applies <Condition name="Torment"/>
 
 <Specialization name="Renegade"/> skills:
 
 - <Skill id="44076"/>: give 2 <Boon name="Might"/> to you and your group per <SpecialActionKey name="KallasFervor"/> you have
-
 - <Skill id="41294"/>: your best burst skill that applies a lot of <Condition name="Burning"/>
-
 - <Skill id="45537"/>: one of your most important skills as it gives <Boon name="Alacrity"/> to you and your group
 
 </Card>
@@ -410,13 +443,13 @@ Mace/Axe skills:
 <Card title="When to use Order From Above">
 
 - If you use the 80% Boon Duration build use your <Skill id="45537"/> off cooldown
-
 - If you use the 30% Boon Duration build you will want to use your <Skill id="45537"/> whenever you see <Skill id="45970"/> on your bar
-
 - If you use the 3rd build (Double Renegade) always use <Skill id="45537"/> during a <Skill id="41858"/> rotation
 
 <Warning>
+
 Do not use <Skill id="45537"/> right before a mechanic or any reason that would not let your whole party get every tick from <Skill id="45537"/> (like spreading around): you are already very tight on <Boon name="Alacrity"/>!
+
 </Warning>
 </Card>
 </GridItem>
@@ -428,12 +461,13 @@ Do not use <Skill id="45537"/> right before a mechanic or any reason that would 
 <GridItem sm="6">
 <Card title="Information">
 
+<p>
 <Specialization name="Renegade" text="Condi Renegade"/>'s raid rotation is not super efficient in fractals due to the lack of time to ramp up with <Skill id="28494"/>, and the fact that you want to save skills you usually use while in <Skill id="41858"/> to CC or keep skills like <Skill name="Citadel Bombardment"/> for exposed phases.
+</p>
 
 You'll want to respect these rules :
 
 1.  <Skill id="41858"/> : be on Mace/Axe
-
 2.  <Skill id="28494"/> : be on Shortbow
 
 You'll usually want to be in <Skill id="41858"/> for exposed phases, as <Skill name="Citadel Bombardment"/> is your best skill to damage quickly thanks to <Condition name="Burning"/>. You also want to be on <Skill id="41858"/> to be able to precast <Skill id="42949"/> for <Condition name="Bleeding"/>, and use <Skill id="41220"/> and <Skill name="Temporal Rift"/> to CC.
@@ -457,13 +491,9 @@ When you swap your legend first and then your weapon, you will be able to proc S
 In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don't, and you can play around the boonstripping thing.
 
 1.  If you can get in combat prestack <Item id="24609"/>
-
 2.  Be in <Skill id="28134"/> and press <Skill id="26937"/>
-
 3.  <Skill id="45537"/>
-
 4.  _UI Swap_ to <Skill id="28494"/>
-
 5.  Take the _Mistlock Singularity_
 
 - If your group is fast enough you'll get some <Skill id="45537"/> ticks in combat, and the <Boon name="Alacrity"/> from those ticks won't get stripped.
@@ -473,25 +503,15 @@ In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don'
 <Card title="Mallyx Shortbow Rotation">
 
 1.  <Skill name="Embrace The Darkness"/>
-
 2.  <Skill name="Searing Fissure"/>
-
 3.  `Weapon Swap`
-
 4.  <Skill name="Bloodbane Path"/>
-
 5.  <Skill name="Spiritcrush"/>
-
 6.  <Skill name="Sevenshot"/>
-
 7.  <Skill name="Bloodbane Path"/>
-
 8.  <Skill name="Bloodbane Path"/>
-
 9.  <Skill name="Sevenshot"/>
-
 10. <Skill name="Spiritcrush"/>
-
 11. Swap to <Skill id="41858"/>
 
 - Make sure to use a <Skill id="40497"/> between each skill to make sure that enhanced <Skill id="28287"/> pulse procs without overriding it!
@@ -501,27 +521,16 @@ In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don'
 <Card title="Kalla Mace Rotation">
 
 1.  <Skill name="Bloodbane Path"/>
-
 2.  `Weapon Swap`
-
 3.  <Skill name="Searing Fissure"/>
-
 4.  <Skill name="Echoing Eruption"/>
-
 5.  <Skill name="Citadel Bombardment"/>
-
 6.  <Skill name="Temporal Rift"/>
-
 7.  <Skill name="Searing Fissure"/>
-
 8.  <Skill name="Searing Fissure"/>
-
 9.  <Skill name="Razorclaws Rage"/>
-
 10. <Skill name="Icerazors Ire"/>
-
 11. <Skill name="Echoing Eruption"/>
-
 12. Swap to <Skill id="28494"/>
 
 </Card>

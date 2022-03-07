@@ -1,27 +1,44 @@
 ---
-title: 'Snowblind'
-date: '2021-02-24'
-image: './images/header.jpg'
-group: 'T4'
+cycle: Night
+potions:
+  - id: 8883
+    description: for the Svanir & end boss
+date: 2022-01-28T09:20:46.276Z
+title: Snowblind
+image: ./images/header.jpg
+group: T4
 api: 2952
 bosses: 2
-difficulties: [{ level: 86, ar: 125 }, { level: 93, ar: 137 }]
+difficulties:
+  - level: 86
+    ar: 125
+  - level: 93
+    ar: 137
+sigils:
+  - id: 36053
+  - id: 24667
+    description: for the Svanir & end boss
+consumables:
+  - 78978
+  - 49940
 record:
-  {
-    time: '3 min 32 sec',
-    by: [{ name: 'Snow Crows', tag: 'SC' }],
-    youtube:
-      [
-        { id: 'vvW8-vlCAjI', name: 'Yui', specialization: 'Chronomancer' },
-        { id: '5rJTZVRhEqQ', name: 'Derpy', specialization: 'Tempest' },
-        { id: 'WKvibVHOjsY', name: 'Roul', specialization: 'Daredevil' },
-        { id: '5OW6VHot8WQ', name: 'Cheezy', specialization: 'Druid' },
-      ],
-  }
-cycle: 'Night'
-potions: [{ id: 8883, description: 'for the Svanir & end boss' }]
-sigils: [{ id: 36053 }, { id: 24667, description: 'for the Svanir & end boss' }]
-consumables: [78978, 49940]
+  time: 3 min 32 sec
+  by:
+    - name: Snow Crows
+      tag: SC
+  youtube:
+    - id: vvW8-vlCAjI
+      name: Yui
+      specialization: Chronomancer
+    - id: 5rJTZVRhEqQ
+      name: Derpy
+      specialization: Tempest
+    - id: WKvibVHOjsY
+      name: Roul
+      specialization: Daredevil
+    - id: 5OW6VHot8WQ
+      name: Cheezy
+      specialization: Druid
 ---
 
 ## Ice Wall <Item id="8883" disableText/><Item id="24667" disableText/>
@@ -80,6 +97,10 @@ Place a bubble on top of the _Elemental Source_, absorbing **EVERY** projectile 
 <Tab specialization="Weaver">
 
 With the right angle, you can <Skill id="5697"/> against the Elemental Source.
+</Tab>
+<Tab specialization="Guardian">
+
+When cast on top of the Elemental Source, skills like <Skill name="Sanctuary"/>, <Skill name="Wall of Reflection"/> and <TomeSkill name="Chapter 3: Valiant Bulwark"/> will block the projectiles from putting off the bonfires and frees up a legend for your <Specialization name="Renegade"/>.
 </Tab>
 </Tabs>
 </GridItem>

@@ -18,7 +18,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-01-12T02:12:27.534Z
+date: 2022-03-07T20:05:50.252Z
 conditions:
   - Vulnerability
 cmGuide: pug
@@ -115,7 +115,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "weapon2OffSigil": "impact"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
@@ -124,13 +124,14 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "utility2": "Sic Em",
       "utility3": "Frost Spirit",
       "elite": "One Wolf Pack"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character> 
 <Character title="222 Agony Resistance" gear={{
@@ -209,7 +210,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
       "weapon2OffSigil": "impact"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
@@ -218,51 +219,52 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
       "utility2": "Sic Em",
       "utility3": "Frost Spirit",
       "elite": "One Wolf Pack"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
 You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also <Item id="70596"/>. <br/>
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
-<Character title="243 Agony Resistance" gear={{
-    "profession": "Ranger",
-    "weight": "Medium",
-    "gear": [
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker"
-    ],
+<Character title="244 Agony Resistance" gear={{
+  "profession": "Ranger",
+  "weight": "medium",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
   "attributes": {
     "Health": 17422,
-    "Armor": 2632,
+    "Armor": 2634,
     "Power": 3915,
-    "Precision": 2575,
-    "Toughness": 1514,
+    "Precision": 2577,
+    "Toughness": 1516,
     "Vitality": 1150,
     "Ferocity": 2106,
     "Condition Damage": 900,
     "Expertise": 0,
-    "Concentration": 364,
+    "Concentration": 366,
     "Healing Power": 0,
-    "Agony Resistance": 243,
+    "Agony Resistance": 244,
     "Condition Duration": 0,
-    "Boon Duration": 0.24266666666666667,
-    "Critical Chance": 1,
+    "Boon Duration": 0.244,
+    "Critical Chance": 1.000952380952381,
     "Critical Damage": 2.904,
     "Effective Power": 33656.44331866597,
     "Power DPS": 36248.39120612581,
@@ -282,45 +284,62 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
     "Torment Stacks": 0,
     "Torment DPS": 0,
     "Damage": 37364.48495612581,
-    "Effective Health": 91253142.28855723,
-    "Survivability": 46392.03980099504,
+    "Effective Health": 91322483.58208956,
+    "Survivability": 46427.2921108742,
     "Effective Healing": 390,
     "Healing": 390
   },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 49437, 49437, 49438, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Longbow",
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    49438,
+    49438,
+    37131,
+    49437,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Longbow",
       "weapon1MainSigil1": "force",
       "weapon1MainSigil2": "impact",
       "weapon2MainType": "Sword",
       "weapon2MainSigil1": "force",
       "weapon2OffType": "Axe",
       "weapon2OffSigil": "impact"
-    },
-    "consumables": {
-      "foodId": "91805",
-      "utility": "superior-sharpening-stone",
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "We Heal as One",
-      "utility2": "Sic Em",
-      "utility3": "Frost Spirit",
-      "elite": "One Wolf Pack"
-    }
-  }}
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utility": "superior-sharpening-stone",
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "skills": {
+    "healId": 31914,
+    "utility1Id": "",
+    "utility2Id": 12633,
+    "utility3Id": 12497,
+    "eliteId": 45717
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
+}}
 >
 
-You need <Item id="85743"/>, <Item id="86175"/>, 2x <Item id="49437"/> and 1x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>
+You need <Item id="85743"/>, <Item id="86175"/>, 1x <Item id="49437"/> and 2x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character> 
 </CharacterWithAr>
@@ -348,6 +367,7 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 
 |                                                           |                                                                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Frost Trap" size="big" disableText/>         | Your standard 3rd utility, dealing the most damage. For more info on when to run this read the CM-Guides!                                     |
 | <Skill name="Signet of the wild" size="big" disableText/> | A replacement for <Skill name="Frost Trap"/>. For more info on when to run this read the CM-Guides!                                           |
 | <Skill name="Moa Stance" size="big" disableText/>         | Allows all boons that are applied during its uptime to last longer, great for prestacking.                                                    |
 | <Skill name="Quickening Zephyr" size="big" disableText/>  | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>. |
@@ -359,11 +379,12 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 </Card>
 <Card title="Pets">
 
-|                                            |                                                                                                                                                               |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
-| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                 |
-| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.         |
+|                                            |                                                                                                                                                                                         |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>.                           |
+| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                                           |
+| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.                                   |
+| <Skill id="41908" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/>deals less damage than <Skill id="41524"/> |
 
 </Card>
 </GridItem>
@@ -400,6 +421,7 @@ If you meet these requirements then you can swap Marksmanship for Skirmishing wi
 | <Skill id="12638" size="big" disableText/> | 150 damage (Axe 4)                                                          |
 | <Skill id="12475" size="big" disableText/> | 150 damage (Greatsword 5)                                                   |
 | <Skill id="12523" size="big" disableText/> | 150 damage (Greatsword 4 after a block)                                     |
+| <Skill id="41908" size="big" disableText/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
 | <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3) |
 
 </Card>
@@ -574,7 +596,7 @@ Many thanks to Elu \[SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4f
 
 <Grid>
 <GridItem sm="7">
-<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131"/>
+<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id={37131} weapon1MainInfusion2Id={37131} weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id={37131} weapon2MainInfusion2Id={37131}/>
 
 <Card title="Traits">
 
@@ -596,7 +618,7 @@ For a DPS rotation the same rules apply as above land, try to fit lots of damage
 </GridItem>
 
 <GridItem sm="5">
-<Skills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+<Skills healId={44948} utility1Id={12633} utility2Id={12497} utility3Id={12491} eliteId={45717}/>
 
 <Card title="Pets">
 

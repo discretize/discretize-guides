@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 8881
-date: 2022-01-04T16:46:56.912Z
+date: 2022-01-28T02:30:37.889Z
 title: Cliffside
 image: ./images/header.jpg
 group: T4
@@ -175,10 +175,7 @@ Again, <Skill id="12638"/> on offhand Axe helps pulling the Cultists to you.
 
 Do not resurrect yourself yet, wait for the <Specialization name="Revenant"/>, <Specialization name="Elementalist"/>, <Specialization name="Guardian"/> or <Specialization name="Thief"/> to finish his portal and do `/gg` himself again or you will be stuck with a useless person for the entire end fight.
 
-After the whole party `/gg`'ed, resurrect yourself and place <Item id="78978"/> at the revival position.  
-Blink up to the Arch Diviner, open the portal and **walk away from it** before doing `/gg` again to reset your cooldowns. If you kill yourself on the portal it bugs so watch it!
-
-Now the whole party can resurrect and use the portal, type `go` in chat to indicate that. Before taking the portal on your own, switch your skills and traits back. This takes some timing to get right.
+After the whole party `/gg`'ed, resurrect and place <Item id="78978"/> at the revival position. Blink up, and open the portal. Note that after the *Status Reset* change you cannot blink up and `/gg` anymore, since it will clear the portal.
 </GridItem>
 
 <GridItem sm="5">
@@ -209,7 +206,7 @@ Now the whole party can resurrect and use the portal, type `go` in chat to indic
 
 ## Arch Diviner <Item id="8881" disableText/><Item id="24678" disableText/>
 
-After the portal opens you resurrect, take the portal up and start the fight against the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Effect name="Exposed"/>.
+Take the portal up and start the fight against the Arch Diviner. His defiance bar appears very shortly but frequently, try to break it as often as possible to benefit from <Effect name="Exposed"/>.
 
 Every 25% of his health, you will need to collect a _Cultist Hammer_ charge similar to before by killing one of the four spawned Cultists and hit the final Seal to make the Arch Diviner vulnerable again. Cultists apply a lot of conditions so kill them fast and try to stay out of their aggro range.
 

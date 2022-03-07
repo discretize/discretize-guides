@@ -1,10 +1,21 @@
 ---
-date: 2021-02-24
 cycle: Day (non CM) / Night (CM)
+date: 2022-01-29T01:49:28.096Z
+title: Sunqua Peak
+image: ./images/hero_sunqua2.jpg
+group: Challenge Mode
+api: 5446
+bosses: 5
+difficulties:
+  - level: 100
+    ar: 150
+sigils:
+  - id: 36053
+  - id: 24868
 consumables:
   - 78978
 record:
-  time: '1 min 9 sec'
+  time: 1 min 9 sec
   by:
     - name: Quantify
       tag: qT
@@ -28,17 +39,6 @@ record:
     - id: 5KM5x9mCjyU
       name: Decados
       specialization: Renegade
-title: Sunqua Peak
-image: ./images/hero_sunqua2.jpg
-group: Challenge Mode
-api: 5446
-bosses: 5
-difficulties:
-  - level: 100
-    ar: 150
-sigils:
-  - id: 36053
-  - id: 24868
 ---
 
 The Sunqua Peak fractal is different from previously released fractals: After doing all the achievements a Challenge Mote is unlocked which opens a portal to the last boss in Challenge Mode. The bosses in normal mode are supposed to teach the mechanics of the endboss.
@@ -53,6 +53,7 @@ Killing elementals spawn lightning strikes that periodically leave behind an orb
 <GridItem sm="7">
 
 The Voice of the mountain is the first boss in the fractal. This boss deals little damage, however, its basic attack will knock you back, stay in max melee range to avoid that. Every 33%, the boss gets <Effect name="Invulnerability"/> and summons a tornado, tethered to 4 clouds. Lightning strikes appear shortly after and leave the same collectable orbs as before. You must collect 3 and jump into the clouds to disperse them, using the <Uncategorized name="chargedleap"/> buff. Players are also targeted by <Skill id="61190"/>, red AoEs that deal heavy damage and apply <Condition name="Vulnerability"/> and <Condition name="Weakness"/>. Keep moving to avoid their damage.
+
 </GridItem>
 
 <GridItem sm="5">
@@ -71,6 +72,7 @@ The Voice of the mountain is the first boss in the fractal. This boss deals litt
 <Information>
 
 Not a single trash mob needs to be killed for progression!
+
 </Information>
 
 After the Voice of the mountain is dead, take the updraft and follow the path. In order to trigger the next boss, you have to interact with three Frightened Water Elementals found along the path. Right after taking the updraft, there are waterfalls that periodically push you down the cliff. <Boon name="Stability"/> is ineffective. Wait until you see the water particles disappearing before walking through the waterfalls or use blinks.
@@ -190,7 +192,7 @@ After crossing the green line, the fight starts. After about one second, Ai dash
 </GridItem>
 
 <GridItem xs="12" sm="5">
-<GifPlayer caption="Collect orbs to jump in white circles" url="https://cdn.discordapp.com/attachments/662333637143822339/759378636368510996/airphase.webm"/>
+<GifPlayer caption="Collect orbs to jump in white circles" url="/static/fbd66c6c78c7f9b351c639cc33ac4f92/airphase.webm"/>
 </GridItem>
 
 <GridItem xs="12" sm="12">
@@ -205,7 +207,8 @@ If you do not manage to bring her to 66%, she will dash twice and get <Effect na
 
 <Grid>
 <GridItem xs="12" sm="5">
-<GifPlayer caption="Dodge the Meteor AoE" url="https://cdn.discordapp.com/attachments/662333637143822339/759371940090871838/meteor.webm"/>
+
+<GifPlayer caption="Dodge the Meteor AoE" url="/static/73dc54e8e6d2f829328364648e3ab5c7/meteor.webm"/>
 </GridItem>
 
 <GridItem xs="12" sm="7">
@@ -232,7 +235,7 @@ After the 4th orb disappears, the boss dashes to the side and repeats the same p
 </GridItem>
 
 <GridItem xs="12" sm="5">
-<GifPlayer caption="Tethers during the water phase" url="https://cdn.discordapp.com/attachments/662333637143822339/759477691207778334/watermemems.webm"/>
+<GifPlayer caption="Tethers during the water phase" url="/static/71809f195a42aca542b2fccefda41be8/watermemems.webm"/>
 </GridItem>
 
 <GridItem xs="12" sm="12">
@@ -256,7 +259,7 @@ Be aware that every time a person dies, a Doubt spawns. It behaves like a Vindic
 
 <Grid>
 <GridItem xs="12" sm="5">
-<GifPlayer caption="Avoid getting hit by the lasor attack pattern" url="https://cdn.discordapp.com/attachments/662333637143822339/759379953451401236/shadowphasestartvol2.webm"/>
+<GifPlayer caption="Avoid getting hit by the lasor attack pattern" url="/static/5c315e28890f85924103b41b70baf8cb/shadowphasestartvol2.webm"/>
 </GridItem>
 
 <GridItem xs="12" sm="7">
@@ -285,7 +288,7 @@ Upon hitting 66% the boss will stop any current animation and fizzle any current
 
 <Grid>
 <GridItem xs="12" sm="4">
-<GifPlayer caption="CCing the Sorrow" url="https://cdn.discordapp.com/attachments/662333637143822339/759492028089761843/beamz.webm"/>
+<GifPlayer caption="CCing the Sorrow" url="/static/f03c9044ee341b8fa3f4f9bf5ca0789b/beamz.webm"/>
 </GridItem>
 
 <GridItem xs="12" sm="8">

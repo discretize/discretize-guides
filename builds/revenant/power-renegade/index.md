@@ -1,30 +1,30 @@
 ---
+title: Power Alac Renegade
+rating: Power Meta
+role: Power Damage
 author: Casual Sophie - Jin Su Liang.9036
+profession: Revenant
 specialization: Renegade
 skills:
   - 45773
   - 27505
 traits:
   - 1786
+conditions:
+  - Vulnerability
 boons:
   - name: Alacrity
     uptime: 100%
     variant: party
-code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
+code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
+cmGuide: pug
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: 2022-01-16T22:30:33.412Z
-title: Power Alac Renegade
-rating: Power Meta
-role: Power Damage
-profession: Revenant
-conditions:
-  - Vulnerability
-cmGuide: pug
+date: 2022-03-06T22:31:22.899Z
 ---
 
 The <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -112,18 +112,19 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
       "weapon2MainSigil2": "severance"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
     "legends": {
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
   }}
 >
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
 </Character>  
@@ -203,18 +204,19 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "weapon2MainSigil2": "severance"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
     "legends": {
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
   }}
 >
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
 </Character>  
@@ -294,18 +296,19 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "weapon2MainSigil2": "severance"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
     "legends": {
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
   }}
 >
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 </Character>  
 <Character title="50% Boon Duration 222 Agony Resistance" gear={{
@@ -384,17 +387,18 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "weapon2MainSigil2": "severance"
     },
     "consumables": {
-      "foodId": "91805",
+      "foodId": 91805,
       "utility": "superior-sharpening-stone",
       "infusion": "Mighty +9 Agony Infusion"
     },
     "legends": {
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
-Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimizer/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 </Character>
 </CharacterWithAr>
@@ -432,11 +436,12 @@ Sometimes it is worth precasting with <Specialization name="Herald"/> because <S
 After the [status reset update of August 31st](https://wiki.guildwars2.com/wiki/Game_updates/August_2021), this precast has become more difficult to perform and isn't recommended anymore for fast prestacking in pugs due to the fact that it increases the length of a precast. However, if you do have the the time, it is still a really valid precast and does help with the boons initially. You will have to manually swap between <Specialization name="Herald"/> and <Specialization name="Renegade"/> trait lines or use a saved build template in the template storage (not one of the build template tabs) to swap between them in order to not trigger status reset. Here's the <Specialization name="Herald"/> trait line:
 <Traits traits1Id="52" traits1="Herald" traits1SelectedIds="1806,1772" unembossed/>
 
-<div align="left">Template code:</div>
-`[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
+Template code: `[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
 
 <Warning>
+
 The other legend is unselected for a good reason. If you have the other legend slot empty, it will minimise the number of possible bugs with <Specialization name="Renegade"/> and build templates. You can read more about the bugs, [the official wiki has them documented](https://wiki.guildwars2.com/wiki/Template#Build_Template)
+
 </Warning>
 
 To precast with <Specialization name="Herald"/>, you can go very simple:
@@ -483,9 +488,7 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **Citadel Order Skills:**
 
 - <Skill name="Heroic Command"/> (F2) - Share two stacks of <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack.
-
 - <Skill name="Citadel Bombardment"/> (F3) - Fire ten missiles that inflict high damage and <Condition name="Burning"/>.
-
 - <Skill name="Orders from Above"/> (F4) - Share four pulses of <Boon name="Alacrity"/>. Increased to a total of six pulses of <Boon name="Alacrity"/> with <Trait name="Righteous Rebel"/>.
 
 ---
@@ -493,25 +496,17 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **Sword Skills:**
 
 - <Skill name="Preparation Thrust"/> - The auto-attack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on up to three targets, with each explosion hitting three targets. Potentially hitting nine times.
-
 - <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
-
 - <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to yourself.
-
 - <Skill name="Shackling Wave"/> - High damage skill, however, should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
-
 - <Skill name="Death strike"/> - Shadowstep to the target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allow it to be used for damage.
 
 **Staff Skills:**
 
 - <Skill name="Rapid Swipe"/> - The auto-attack chain cleaves and the last hit provides a small amount of healing to allies.
-
 - <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
-
 - <Skill name="Warding Rift"/> - A two second block that causes <Condition name="Blinded"/> foes.
-
 - <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
-
 - <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Control name="Knockback"/>.
 
 ---
@@ -538,13 +533,9 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **<Skill name="Legendary Renegade Stance"/>**
 
 - <Skill name="Breakrazors Bastion"/> - Summons a spirit that heals you on cast and pulses heal to allies in an area around it. Reduces damage taken from conditions by 50%.
-
 - <Skill name="Razorclaws Rage"/> - Summons a spirit that causes your party to inflict <Condition name="Bleeding"/> on attack.
-
 - <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ of a second once per second for six seconds.
-
 - <Skill name="Icerazors Ire"/> - Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.</Condition>
-
 - <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealt by your party while healing them for each attack.
 
 ---
@@ -552,13 +543,9 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **<Skill name="Legendary Assassin Stance"/>**
 
 - <Skill name="Enchanted Daggers"/> - Every ½ second your next six attacks siphon life from your target.
-
 - <Skill name="Phase Traversal"/> - Shadowsteps you to your target and gives you two stacks of unblockable.
-
 - <Skill name="Riposting Shadows"/> - Stunbreak and evade that removes movement-impairing conditions like <Condition name="Crippled"/>.
-
 - <Skill name="Impossible Odds"/> - **Toggle:** Damage modifier, grants you another hit on your attacks and increases your movement speed.
-
 - <Skill name="Jade Winds"/> - Deal damage, inflict <Condition name="Vulnerability"/> and <Control name="Stun"/> five nearby enemies.
 
 ---
@@ -566,13 +553,9 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **<Skill name="Legendary Dwarf Stance"/>**
 
 - <Skill name="Soothing Stone"/> - Powerful self-heal and condition cleanse.
-
 - <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field.
-
 - <Skill name="Forced Engagement"/> - Shoot out a chain to your target that applies <Condition name="Taunt"/> and <Condition name="Slow"/> to your target and four nearby enemies.
-
 - <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
-
 - <Skill name="Rite of the Great Dwarf"/> - Stunbreak which reduces incoming damage by 50% for your party.
 
 ---
@@ -580,13 +563,9 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **<Skill name="Legendary Demon Stance"/>**
 
 - <Skill name="Empowering Misery"/> - A decent self-heal that heals more for each unique condition on you.
-
 - <Skill name="Pain Absorption"/> - Draw one condition from nearby allies and provide <Boon name="Resistance"/> to your party. Also works as a stunbreak.
-
 - <Skill name="Banish Enchantment"/> - Removes three boons from enemies in a line up to five unique enemies and causes <Condition name="Chilled"/> on enemies hit.
-
 - <Skill name="Call to Anguish"/> - Jump to a location and pull five nearby enemies inflicting <Condition name="Chilled"/> on them.
-
 - <Skill name="Embrace the Darkness"/> - **Toggle:** Deal damage to nearby enemies and pulse <Condition name="Torment"/> to them. Drains energy when toggled on.
 
 ---
@@ -594,15 +573,10 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **<Skill name="Legendary Centaur Stance"/>**
 
 - <Skill name="Project Tranquility"/> - Summon Ventari's Tablet which heals nearby allies every few seconds.
-
 - <Skill name="Ventaris Will"/> - Move Ventari's Tablet to the target location.
-
 - <Skill name="Protective Solace"/> - **Toggle:** Summons a protective barrier that **absorbs** (not reflect) projectiles around the tablet.
-
 - <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
-
 - <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
-
 - <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet, cleansing one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
 
 </Card>
@@ -628,6 +602,7 @@ For that reason you can find a video with openers, that are efficient to use her
 <Video caption="by Rubby, edited by Vince [dT]" youtube="QXmckcAyKf4"/>
 </Card>
 <Warning>
+
 Note that with a class like <Specialization name="Scourge"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>. Since <Instability name="No Pain, No Gain"/> doesn't give the enemy <Boon name="Resolution"/>, you do not need to worry about this instability in a group whose damage mostly consists of condition damage.
 </Warning>
 </GridItem>
@@ -648,13 +623,9 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 <Card title="Burst Rotation">
 
 1.  <Skill name="Citadel Bombardment"/>
-
 2.  <Skill name="Chilling Isolation"/>
-
 3.  <Skill name="Shackling Wave"/>
-
 4.  <Skill name="Deathstrike"/>
-
 5.  <Skill name="ChillingIsolation"/>
 
 </Card>
@@ -666,6 +637,7 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/> and while your <Skill name="Impossibleodds"/> is up. This might not always be possible if you need to reserve energy for boons or in the case that your legend timings are off.
 
 With <Skill name="Legendary Demon Stance"/> you would want to use these abilities with <Skill name="Embrace the darkness"/> on.
+
 </Card>
 </GridItem>
 </Grid>

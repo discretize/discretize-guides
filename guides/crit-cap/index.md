@@ -55,7 +55,7 @@ After that, you need to swap Berserker items (Major: Power; Minor: Precision, Fe
 
 Keep in mind that you can also take <Item id="37132"/> but normally it is easier to calculate with a full set of Power infusions.
 
-Use our [Gear Optimizer](https://discretize.github.io/discretize-gear-optimizer/) to calculate the optimal distribution of Assassin's items.
+Use our [Gear Optimizer](https://optimizer.discretize.eu/) to calculate the optimal distribution of Assassin's items.
 
 ---
 
@@ -97,7 +97,7 @@ Below are some popular trait choices to push Critical Chance.
 | <Specialization name="Thief"/>        | Critical Strikes | <Trait name="Twin Fangs"/>          | Player must hit from behind or the side                     | 7%              | 147        |
 | <Specialization name="Necromancer"/>  | Curses           | <Trait name="Target the Weak"/>     | 2% per unique condition on target                           | up 28%          | up to 588  |
 | <Specialization name="Necromancer"/>  | Reaper           | <Trait name="Decimate Defenses"/>   | 2% per stack of <Condition name="Vulnerability"/> on target | up to 50%       | up to 1050 |
-| <Specialization name="Revenant"/>     | Invocation       | <Trait name="Roiling Mists"/>       | <Boon name="Fury"/> has increased effectiveness             | 20%             | 420
+| <Specialization name="Revenant"/>     | Invocation       | <Trait name="Roiling Mists"/>       | <Boon name="Fury"/> has increased effectiveness             | 20%             | 420        |
 | <Specialization name="Revenant"/>     | Renegade         | <Trait name="Brutal Momentum"/>     | Player must have full endurance                             | 33%             | 693        |
 
 ---

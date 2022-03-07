@@ -2,12 +2,7 @@
 cycle: Day
 potions:
   - id: 50082
-date: 2021-10-05T12:50:55.575Z
-consumables:
-  - 78978
-  - 49940
-  - 8764
-  - 8801
+date: 2022-01-31T15:39:17.801Z
 title: Molten Boss
 image: ./images/header.jpg
 group: T4
@@ -19,27 +14,23 @@ difficulties:
 sigils:
   - id: 24615
   - id: 24868
+consumables:
+  - 78978
+  - 49940
+  - 8764
+  - 8801
 record:
-  time: 4 min 24 sec
+  time: 2 min 39 sec
   by:
     - name: Discretize
       tag: dT
   youtube:
-    - id: 1IwsZyYrjmA
-      name: Metagame
-      specialization: Chronomancer
-    - id: uS1gDsdXrh8
-      name: Nimajeb
-      specialization: Spellbreaker
-    - id: 1DiIqiNB69A
-      name: Hyperiel
-      specialization: Holosmith
-    - id: -0eOZUOaYz8
-      name: Xarlor
-      specialization: Weaver
-    - id: uOLhW3wIVoU
-      name: Hutselflutsje
-      specialization: Weaver
+    - id: dUzFUuhu5IQ
+      name: Delay
+      specialization: Soulbeast
+    - id: 6FPJ4fLlN6k
+      name: Seatek
+      specialization: Renegade
 ---
 
 ## Start area <Item id="50082" disableText/>
@@ -65,7 +56,7 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 
 <Tab specialization="Guardian">
 
-<ProfessionVideo title="First skip" profession="Guardian" timestamp="364" src="MmJTsOhdQeo"/>
+<ProfessionVideo title="First skip" profession="Guardian" timestamp="364" src="Lz0bHmnSRbI"/>
 
 </Tab>
 
@@ -97,6 +88,8 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 Stack <Boon name="Might" /> if possible before moving on to the Molten Effigy. **<Specialization name="Revenant"/> take <Skill name="Legendary Demon Stance"/> for <Skill name="Banish Enchantment"/> to remove <Boon name="Protection" /> from the _Molten Effigy_**.
 
 There is another single Molten Protector which needs to be focused before switching to the _Molten Effigy_. **<Specialization name="Revenant"/> use <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon Stance" disableText/>) and remove <Boon name="Protection"/> from the _Molten Effigy_**. Use interrupts or reflects against the Effigy's _Firestorm_ attack, pay attention to the _Charge_ (large arrow) and _Shockwave_ attacks and cleave mobs around if possible.
+
+**Alternatively, you can use <Item id="72872"/> with <Skill name="Surge of the Mists"/> and <Skill name="Forced Engagement"/> to strip boons. This will also allow you to use <Skill name="Inspiring Reinforcement"/> for <Boon name="Stability"/>.**
 
 The moment you killed the Effigy you can `/gg` if necessary so you don't have to take the Mistlock Singularity (this prevents the problem where you can't take the Mistlock Singularity due to being in fight), then you can continue to the next trash group. All following groups of mobs are progress-blocking, clear them to make it to the final area. Molten Protectors have the highest priority (because they cast AoE <Effect name="Invulnerability"/>) and Smoke Shamans are second to them (they apply <Effect name="Stealth"/> to surrounding enemies). You can `/gg` once directly before the end boss if necessary.
 
