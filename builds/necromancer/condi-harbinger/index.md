@@ -1,22 +1,33 @@
 ---
 title: Condi (Quick) Harbinger
-hidden: true
+hidden: false
 rating: Good
 role: Condi Damage
 profession: Necromancer
 specialization: Harbinger
 traits: []
-boons: []
+boons:
+  - name: Quickness
+    uptime: 25% (100% party in Quickness variant)
+    variant: self
+  - name: Fury
+    uptime: 100% (party in Quickness variant)
+    variant: self
+  - name: Might
+    uptime: 12-13 stacks (~6 party on DPS variant, 13 party on Quickness variant)
+    variant: self
+  - name: Swiftness
+    uptime: 55% (65% party in Quickness variant)
+    variant: self
+  - name: Regeneration
+    uptime: 45% (50% party on Quickness variant)
+    variant: self
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T22:25:55.191Z
+date: 2022-03-07T17:33:48.970Z
 ---
-<Warning>
-This is an early draft of the build page.
-</Warning>
+The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
 
-The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group.
-
-<Specialization name="Harbinger" text="Condi Harbinger"/> can deal more DPS than a <Specialization name="Scourge" text="Condi Scourge"/> but is more squishy due to the Blight mechanic and offers less utility to the group when playing the full DPS variant. It can adapt the build to given encounters but will lose more DPS doing so than a <Specialization name="Scourge" text="Condi Scourge"/> would.
+<Specialization name="Harbinger" text="Condi Harbinger"/> is more squishy than other <Specialization name="Necromancer"/> builds because it loses maximum health due to the <Effect name="Blight"/> mechanic and <Skill name="Harbinger Shroud"/> does not act as a second health bar. However, even with maximum <Effect name="Blight"/> stacks, you will still be at around 15k health.
 
 Due to being a condition based build, it will not benefit from slaying potions or <Item name="Impact" type="Sigil"/>.
 
@@ -96,10 +107,12 @@ Due to being a condition based build, it will not benefit from slaying potions o
   "infusions": [
     86113,
     86113,
-    49432,
-    49432,
-    49432,
-    49432,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
     86113,
     86113,
     86113,
@@ -108,10 +121,8 @@ Due to being a condition based build, it will not benefit from slaying potions o
     86113,
     86113,
     86113,
-    86113,
-    86113,
-    49432,
-    49432
+    37130,
+    37130
   ],
   "weapons": {
     "weapon1MainType": "Pistol",
@@ -136,11 +147,11 @@ Due to being a condition based build, it will not benefit from slaying potions o
   "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}
 >
-This build uses the Jade Bot Core: Tier 10 (and the resulting conversion from <Trait name="Dark Gunslinger"/> ) in combination with 12 <Item name="Spiteful +9 Agony Infusion"/> to cap Bleeding Duration.
+This build uses the Jade Bot Core: Tier 10 (and the resulting conversion from <Trait name="Dark Gunslinger"/> ) in combination with 12 <Item id="86113"/> to cap Bleeding Duration.
 
-If you want to cap Bleeding Duration with a lower Tier core (or none), you will need extra <Item name="Spiteful +9 Agony Infusion"/>.
+If you want to cap Bleeding Duration with a lower Tier core (or none), you will need extra <Item id="86113"/>.
 
-You can also use <Item name="Malign +9 Agony Infusion"/> if you do not have the Spiteful ones for a minor DPS loss.
+You can also use <Item id="37130"/> if you do not have the Spiteful ones for a minor DPS loss.
 </Character>
 
 <Character title="Condi Quick Harbinger" gear={{
@@ -170,7 +181,7 @@ You can also use <Item name="Malign +9 Agony Infusion"/> if you do not have the 
     "Toughness": 1243,
     "Vitality": 1360,
     "Ferocity": 150,
-    "Condition Damage": 2792,
+    "Condition Damage": 2793,
     "Expertise": 748,
     "Concentration": 420,
     "Healing Power": 0,
@@ -214,24 +225,24 @@ You can also use <Item name="Malign +9 Agony Infusion"/> if you do not have the 
   "runeId": 44956,
   "runeName": "Tormenting",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
     86113,
     86113,
     86113,
-    49432,
-    49432,
-    49432,
-    49432
+    37130,
+    37130,
+    37130,
+    37130
   ],
   "weapons": {
     "weapon1MainType": "Axe",
@@ -243,7 +254,8 @@ You can also use <Item name="Malign +9 Agony Infusion"/> if you do not have the 
   },
   "consumables": {
     "foodId": 12464,
-    "utilityId": 48917
+    "utility": "Tuning Icicle",
+    "infusion": "Malign +9 Agony Infusion"
   },
   "skills": {
     "healId": 62667,
@@ -251,13 +263,14 @@ You can also use <Item name="Malign +9 Agony Infusion"/> if you do not have the 
     "utility2Id": 62530,
     "utility3Id": 10544,
     "eliteId": 10549
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }} >
-This build gains enough boon duration from the <Item id="79722"/> combined with the <Attribute name="Vitality"/> to <Attribute name="Concentration"/> conversion from <Trait name="Twisted Medicine"/>. If you have a higher Tier Jade Bot Core, you will have more boon duration, and therefore more room for error in your rotation.
+This build gains enough boon duration from the <Item id="79722"/> combined with the <Attribute name="Vitality"/> to <Attribute name="Concentration"/> conversion from <Trait id="2220"/>. If you have a higher Tier Jade Bot Core, you will have more boon duration, and therefore more room for error in your rotation.
 
-If you are unable to keep up Quickness with this build, swap out Viper pieces for Ritualist until you can keep up Quickness on your group. Ritualist pieces are very effective at increasing your boon duration on this build due to <Trait name="Twisted Medicine"/> converting the <Attribute name="Vitality"/> into extra <Attribute name="Concentration"/>.
+If you are unable to keep up Quickness with this build, swap out Viper pieces for Ritualist until you can keep up Quickness on your group. Ritualist pieces are very effective at increasing your boon duration on this build due to <Trait id="2220"/> converting the <Attribute name="Vitality"/> into extra <Attribute name="Concentration"/>.
 
-This build uses 3 <Item name="Spiteful +9 Agony Infusion"/> to cap Torment Duration.
+This build uses 3 <Item id="86113"/> to cap Torment Duration.
 </Character>
 </CharacterWithAr>
 
@@ -285,6 +298,9 @@ Use this setup if you are responsible for providing Quickness to your group.
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Summon Flesh Golem" size="big" disableText/> | Can be taken for additional CC.
+| <Skill name="Elixir of Ambition" size="big" disableText/> | Useful for stacking boons at the singularity. Can be useful in niche situations to increase boon uptime or give yourself <Boon name="Aegis"/>.
+| <Skill name="Elixir of Bliss" size="big" disableText/> | Can help cleansing conditions. Keep in mind that delaying your Elixirs also means delaying your <Effect name="Blight"/> application.
+| <Skill name="Elixir of Ignorance" size="big" disableText/> | Acts as a stun-break. Keep in mind that delaying your Elixirs also means delaying your <Effect name="Blight"/> application. |
 | <Skill name="Epidemic" size="big" disableText/> | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Can help to kill the anomaly at Arkk. |
 | <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target <Control name="Pull"/>. It provides an extra 150 defiance bar damage and can hit up to five times if you cast it inside the boss while there are other enemies outside.  | 
 | <Skill name="Summon Flesh Wurm" size="big" disableText/> | A 1200 range teleport skill useful for various skips. |
@@ -295,36 +311,158 @@ Use this setup if you are responsible for providing Quickness to your group.
 </GridItem>
 </Grid>
 
-<Divider text="Details"/>
+<Divider text="Skills and Basics"/>
+<Grid>
+
+<GridItem sm="6">
+
+<Card title="Blight">
+- Using Elixir skills and staying in <Skill name="Harbinger Shroud"/> will inflict <Effect name="Blight"/> on you, reducing your maximum health by 1.5% per stack (up to 37.5% at 25 stacks).
+- <Trait name="Septic Corruption"/> increases the damage you deal with conditions for each stack of <Effect name="Blight"/>.
+- <Trait name="Alchemic Vigor"/> heals you every second for each stack of <Effect name="Blight"/>.
+- Certain skills consume some <Effect name="Blight"/> when you are above a treshold to deal more damage, namely <Skill name="Devouring Cut"/> (Shroud 3) and your Elixirs when above 5 stacks of <Effect name="Blight"/> and <Skill name="Voracious Arc"/> (Shroud 4) when above 10 stacks.
+
+</Card>
+
+<Card title="Pistol skills">
+- Your auto-attack <Skill name="Vicious Shot"/> deals good damage and will be used to fill any gaps in the rotation.
+- <Skill name="Weeping Shots"/> sends out multiple bullets and fills up Life Force for each bullet that hits an enemy. This skill also pierces which can be useful to help with the anomaly at Arkk as an example.
+- <Skill name="Vile Blast"/> fires a dart that, on impact, will explode and give you some Life Force per enemy hit and <Control name="Stun"/> as well as inflict <Condition name="Weakness"/> and <Condition name="Poisoned"/>.
+
+</Card>
+
+<Card title="Harbinger Shroud">
+- Unlike on core <Specialization name="Necromancer"/> or <Specialization name="Reaper"/>, your <Skill name="Harbinger Shroud"/> will not absorb the damage for you while inside.
+- You can enter <Skill name="Harbinger Shroud"/> even at 0 Life Force since entering gives you 15% due to <Trait name="Corrupted Talent"/>.
+- While in <Skill name="Harbinger Shroud"/>, you constantly gain <Effect name="Blight"/> and drain Life Force.
+- All of your important Shroud skills are ranged. However, part of your damage comes from <Trait name="Doom Approaches"/> which has a small radius around you. Same goes for <Boon name="Quickness"/> uptime through <Trait name="Deathly Haste"/>.
+- Your auto-attack <Skill name="Tainted Bolts"/> deals damage around your target.
+- <Skill name="Dark Barrage"/> fires out 6 bolts. If you stand too far away, some bolts will miss the target.
+- <Skill name="Devouring Cut"/> dashes you to your target and then damages enemies on impact. If you are already in melee range, you can cancel this skill right away and still deal damage. If above 5 <Effect name="Blight"/>, this attack will consume 5 stacks and deal extra damage.
+- <Skill name="Voracious Arc"/> leaps you into the targeted area while evading, deals damage and <Control name="Daze"/> the enemy. If above 10 <Effect name="Blight"/>, this attack will consume 10 stacks and deal extra damage.
+- <Skill name="Vital Draw"/> is the only Shroud skill you will not actively use in your rotation. However, it is a strong CC skill that will deal 300 breakbar damage to enemies around you.
+
+</Card>
+
+
+
+</GridItem>
+
+<GridItem sm="6">
+
+
+<Card title="Elixirs">
+- As a <Specialization name="Harbinger"/> you gain access to Elixirs as utility skills.
+- Using an Elixir grants you Boons (that are shared with your allies when running <Trait name="Twisted Medicine"/>). Then the elixir will be thrown at your target location inflicting Conditions on your enemy.
+- If you are in the splash area of the Elixir, you gain <Effect name="Blight"/>.
+- If you are above the Blight threshold (5 for heal/utility, 10 for elite), you will lose this amount of <Effect name="Blight"/> to enhance the damage of the Elixir.
+- Using Elixirs will help us upkeep 
+- The most commonly used Elixirs are <Skill name="Elixir of Promise"/>, <Skill name="Elixir of Risk"/> and <Skill name="Elixir of Anguish"/> with <Skill name="Elixir of Promise"/> being the most interesting one for damage due to its <Condition name="Poisoned"/> application and the other 2 giving very useful boons.
+- <Skill name="Elixir of Bliss"/> can help cleansing conditions while <Skill name="Elixir of Ignorance"/> acts as a stun-break. However keep in mind that delaying your Elixirs also means delaying your <Effect name="Blight"/> application.
+
+</Card>
+
+<Card title="Important Traits">
+- <Trait name="Plague Sending"/> will transfer up to 2 conditions from you after entering <Skill name="Harbinger Shroud"/>. Always use <Skill name="Blood is Power"/> right before entering your Shroud to transfer the conditions for extra damage.
+- <Trait name="Twisted Medicine"/> (<Boon name="Quickness"/> variant) shares the boons from Elixirs with the group helping to upkeep many different boons. It also converts 13% of your <Attribute name="Vitality"/> into <Attribute name="Concentration"/> which, in fractals, allows us to run without any additional <Attribute name="Concentration"/> gear for the <Boon name="Quickness"/> variant.
+- <Trait name="Deathly Haste"/> (<Boon name="Quickness"/> variant) pulses <Boon name="Quickness"/> around you while in Shroud. Together with the Elixirs, this is your main way of keeping up this boon for your group.
+- <Trait name="Dark Gunslinger"/> (DPS variant) reduces the cooldown of Pistol skills. It also converts 13% of your <Attribute name="Vitality"/> into <Attribute name="Expertise"/> which allows us to run with <Item name="Nightmare" type="Rune"/> and almost cap both <Condition name="Bleeding"/> and <Condition name="Torment"/> duration.
+- <Trait name="Doom approaches"/> (DPS variant) pulses <Condition name="Torment"/> around you while in Shroud.
+
+</Card>
+
+<Card title="CC skills">
+
+| | |
+| - | - |
+| <Skill name="Vile Blast" size="big" disableText/> | 100 damage |
+| <Skill name="Voracious Arc" size="big" disableText/> | 100 damage |
+| <Skill name="Vital Draw" size="big" disableText/> | 300 damage |
+| <Skill name="Wail of Doom" size="big" disableText/> | 200 damage |
+| <Skill name="Charge" size="big" disableText/> | 600/800/1000 damage depending on hitbbox size |
+| <Skill name="Spectral Grasp" size="big" disableText/> | 150-750 damage (see situational skills)
+
+</Card>
+
+</GridItem>
+
+</Grid>
+
 
 <Divider text="Rotation"/>
-<Warning>
-This is not finished yet.
-</Warning>
-Some General Information:
 
-- Keep in mind that skills that inflict Bleeding over Torment have a slightly lower priority on the Quickness build due to being significantly below Bleeding Duration cap.
+<Grid>
+<GridItem sm="6">
+<Card title="General Information">
+- Enter <Skill name="Harbinger Shroud"/> approx. every 20 seconds.
+- You gain Life Force when units around you die or from some skills, namely <Skill name="Weeping Shots"/>, <Skill name="Vile Blast"/> and <Skill name="Devouring Darkness"/> as well as entering <Skill name="Harbinger Shroud"/>.
 - Use <Skill name="Deathly Swarm"/> and <Skill name="Harbinger Shroud"/> (triggering <Trait name="Plague Sending"/>) to transfer Conditions you get from <Skill name="Blood is Power"/> and <Skill name="Plaguelands"/> to the boss.
-- Use all 3 Elixirs off-cooldown to keep up Blight. They have the same cooldown. Use <Skill name="Elixir of Promise"/> last to ensure you are using it at above the Blight threshold doubling the duration of the <Condition name="Poisoned"/> it applies.
-- Try to stay on Pistol as much as possible. Only swap to Scepter before going into <Skill name="Harbinger Shroud"/> to use <Skill name="Devouring Darkness"/> and <Skill name="Grasping Dead"/>. Use them again after exiting <Skill name="Harbinger Shroud"/> before swapping back to Pistol.
+- Use all 3 Elixirs off-cooldown to keep up Blight. They have the same cooldown. Use <Skill name="Elixir of Promise"/> last to ensure you are using it above the Blight threshold doubling the duration of the <Condition name="Poisoned"/> it applies.
+- Try to stay on Pistol as much as possible. Ideally you will never use a single auto-attack on Scepter. It is just for using <Skill name="Devouring Darkness"/> and <Skill name="Grasping Dead"/> before and after every other <Skill name="Harbinger Shroud"/>.
+</Card>
+<Card title="Loop">
+After the Opener and your first Shroud Rotation is done, the loop will be:
+1. Pistol Rotation
+2. Weapon Swap
+3. <Skill name="Devouring Darkness"/>
+4. <Skill name="Grasping Dead"/>
+5. <Skill name="Blood is Power"/>
+6. <Skill name="Harbinger Shroud"/>
+7. Shroud Rotation
+8. <Skill name="Devouring Darkness"/>
+9. <Skill name="Grasping Dead"/>
+10. Weapon Swap
+11. Pistol Rotation
+12. <Skill name="Blood is Power"/>
+13. <Skill name="Harbinger Shroud"/>
+14. Shroud Rotation
+</Card>
+<Card title="Extra Information">
+- Fill any remaining gaps in the loop with Pistol auto-attacks.
+- <Skill name="Blood is Power"/> will recharge slightly more often than you enter <Skill name="Harbinger Shroud"/>. Use extra charges in combination with <Skill name="Deathly Swarm"/>. Otherwise use <Skill name="Deathly Swarm"/> for <Skill name="Plaguelands"/> when it comes off-cooldown.
+- <Skill name="Devouring Cut"/> has a cast-time but does its damage even if you cancel the skill right away.
 
-Precast:
-1. <Skill name="Elixir of Anguish"/>
-2. <Skill name="Elixir of Risk"/>
-3. <Skill name="Elixir of Promise"/>
+</Card>
+</GridItem>
 
-Opener:
+
+<GridItem sm="6">
+<Card title="Precast (at singularity)">
+- Use as many Elixirs as possible to stack boons for yourself (and allies when running <Trait id="2220"/>).
+- You can also use <Skill name="Harbinger Shroud"/> to pre-stack more <Bonn name="Quickness"/> when running <Trait name="Deathly Haste"/>.
+</Card>
+<Card title="Opener">
+
 1. <Skill name="Plaguelands"/>
 2. <Skill name="Devouring Darkness"/>
 3. Weapon swap
-4. <Skill name="Weeping Shots"/>
-5. <Skill name="Harbinger Shroud"/>
+4. <Skill name="Vile Blast"/> (skip this if the boss has no breakbar)
+5. <Skill name="Weeping Shots"/>
+6. <Skill name="Blood is Power"/>
+7. <Skill name="Harbinger Shroud"/>
+</Card>
+<Card title="Shroud Rotation">
 
-Shroud Rotation:
 1. <Skill name="Dark Barrage"/>
 2. <Skill name="Voracious Arc"/>
 3. <Skill name="Devouring Cut"/>
-4. <Skill name="Dark Barrage"/>
-5. <Skill name="Voracious Arc"/>
-6. <Skill name="Devouring Cut"/>
-7. <Skill name="Dark Barrage"/>
+4. 5x <Skill name="Tainted Bolts"/>
+5. <Skill name="Dark Barrage"/>
+6. 5x <Skill name="Tainted Bolts"/>
+7. <Skill name="Voracious Arc"/>
+8. <Skill name="Devouring Cut"/>
+9. <Skill name="Dark Barrage"/>
+10. <Skill name="Exit Harbinger Shroud"/>
+</Card>
+<Card title="Pistol Rotation">
+1. <Skill name="Weeping Shots"/>
+2. <Skill name="Vile Blast"/>
+3. <Skill name="Enfeebling Blood"/>
+4. <Skill name="Elixir of Risk"/>
+5. <Skill name="Elixir of Anguish"/>
+6. <Skill name="Elixir of Promise"/>
+7. <Skill name="Weeping Shots"/>
+</Card>
+
+</GridItem>
+</Grid>
