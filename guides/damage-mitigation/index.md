@@ -16,8 +16,7 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 <GridItem sm="4">
 <Card specialization="Revenant">
 
-- <Skill name="Protective Solace"/> <Specialization name="Revenant" disableText/> \
-  (Ventari Utility)
+- <Skill name="Protective Solace"/> <Specialization name="Revenant" disableText/> (Ventari Utility)
 
 </Card>
 </GridItem>
