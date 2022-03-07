@@ -8,7 +8,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T14:00:55.102Z
+date: 2022-03-07T14:02:33.198Z
 ---
 <Warning>
 This is an early draft of the build page.
@@ -338,7 +338,7 @@ Shroud Rotation:
 9. <Skill name="Dark Barrage"/>
 10. <Skill name="Exit Harbinger Shroud"/>
 
-Loop 1:
+Pistol Rotation:
 1. <Skill name="Weeping Shots"/>
 2. <Skill name="Vile Blast"/>
 3. <Skill name="Enfeebling Blood"/>
@@ -346,22 +346,3 @@ Loop 1:
 5. <Skill name="Elixir of Anguish"/>
 6. <Skill name="Elixir of Promise"/>
 7. <Skill name="Weeping Shots"/>
-8. Weapon Swap
-9. <Skill name="Devouring Darkness"/>
-10. <Skill name="Grasping Dead"/>
-11. <Skill name="Blood is Power"/>
-12. <Skill name="Harbinger Shroud"/>
-
-Loop 2:
-1. <Skill name="Devouring Darkness"/>
-2. <Skill name="Grasping Dead"/>
-3. Weapon Swap
-4. <Skill name="Weeping Shots"/>
-5. <Skill name="Vile Blast"/>
-6. <Skill name="Enfeebling Blood"/>
-7. <Skill name="Elixir of Risk"/>
-8. <Skill name="Elixir of Anguish"/>
-9. <Skill name="Elixir of Promise"/>
-10. <Skill name="Weeping Shots"/>
-11. <Skill name="Blood is Power"/>
-12. <Skill name="Harbinger Shroud"/>
