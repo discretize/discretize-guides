@@ -19,8 +19,8 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: "[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 4
   - 3
@@ -29,8 +29,6 @@ classification:
   - 5
 date: 2022-03-06T22:32:02.102Z
 ---
-
-<Divider text="Overview"/>
 
 <Warning>
 
