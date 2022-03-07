@@ -11,9 +11,10 @@ conditions:
   - Confusion
   - Vulnerability
 boons: []
-code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-03-07T20:05:18.636Z
 ---
+
 The <Specialization name="Mechanist" text="Heal Alacrity Mechanist" /> provides a permanent amount of <Boon name="Might" />, <Boon name="Alacrity" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Vigor" /> as well as some <Boon name="Protection" />. It also has access to a small amount of <Boon name="Aegis" />, <Boon name="Stability" /> througt <Skill id="63293"/>.
 
 It offers a very good amount of healing thanks to <Skill name="Med Kit"/>, <Skill name="Super Elixir"/>, permanent <Boon name="Regeneration"/> and <Boon name="Vigor"/> that you get from <Skill name="Energizing Slam"/>. Whenever you use a Jade Golem skill it pumps out as well a small amount of healing when traited with <Trait name="Soothing Detonation"/>. You can also provide a huge amount of barrier with <Skill id="63141"/>, <Skill name ="Barrier Signet"/> and <Skill name="Barrier Blast"/> making it nearly permanent.
@@ -92,7 +93,7 @@ It offers a very good amount of healing thanks to <Skill name="Med Kit"/>, <Skil
       "weapon1MainType": "Mace",
       "weapon1MainSigil1": "transference",
       "weapon1OffType": "Shield",
-      "weapon1OffSigil": "concentration",
+      "weapon1OffSigil": "concentration"
     },
     "consumables": {
       "foodId": 68634,
@@ -107,8 +108,7 @@ It offers a very good amount of healing thanks to <Skill name="Med Kit"/>, <Skil
       "elite": "Overclock Signet"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Magi but make sure you are maintaining 100% boon duration. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 </Character>
@@ -124,18 +124,18 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
   traits3="Mechanist"
   traits3Selected="Mech Arms: High-Impact Drivers, Mech Frame: Channeling Conduits, Mech Core: Barrier Engine"
 />
+
 <Divider text="Situational Traits and Skills"/>
 
 <Card title="Inventions">
-<Traits
-unembossed
-traits1="Inventions"
-  traits1Selected="Over Shield, Experimental Turrets, Medical Dispersion Field"
-  />
-  This build has inherently a lot of CCs but if your shield skills, <Skill name="Personal Battering Ram"/> and <Skill name="Rocket Fist Prototype"/> are not enough you can change <Trait name="Soothing Detonation"/> for <Trait name="Experimental Turrets"/> and take <Skill name="Supply Crate"/> instead of <Skill name="Overclock Signet"/>. If truly desperate, you can also drop <Skill name="Elixir Gun"/> for <Skill name="Thumper Turret"/>.
-  </Card>
+
+<Traits unembossed traits1="Inventions" traits1Selected="Over Shield, Experimental Turrets, Medical Dispersion Field" />
+
+This build has inherently a lot of CCs but if your shield skills, <Skill name="Personal Battering Ram"/> and <Skill name="Rocket Fist Prototype"/> are not enough you can change <Trait name="Soothing Detonation"/> for <Trait name="Experimental Turrets"/> and take <Skill name="Supply Crate"/> instead of <Skill name="Overclock Signet"/>. If truly desperate, you can also drop <Skill name="Elixir Gun"/> for <Skill name="Thumper Turret"/>.
+
+</Card>
   
-  | Skill                                                                           | Defiance Bar Damage                                        |
+| Skill                                                                           | Defiance Bar Damage                                        |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <Skill name="Rocket Fist Prototype"/>                                           | 100 damage                                                 |
 | <Skill name="Magnetic Inversion  "/>                                            | 150 damage                                                 |
@@ -143,5 +143,5 @@ traits1="Inventions"
 | <Skill name="Thump"/>                                                           | 232 damage                                                 | 
 | <TomeSkill name="Endothermic Shell"/>                                           | <Condition name="Chilled"/> 33/s damage                    |
 | <Skill name="Glob Shot"/>                                                       | <Condition name="Crippled"/> 20/s damage                   |
-| <Skill name="Personal Battering Ram"/> | 232 damage
-| <Skill name="Supply Crate"/> | 200 damage
+| <Skill name="Personal Battering Ram"/> | 232 damage | 
+| <Skill name="Supply Crate"/> | 200 damage |
