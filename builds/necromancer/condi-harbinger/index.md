@@ -8,7 +8,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T12:47:23.310Z
+date: 2022-03-07T13:24:53.816Z
 ---
 <Warning>
 This is an early draft of the build page.
@@ -16,7 +16,7 @@ This is an early draft of the build page.
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group.
 
-<Specialization name="Harbinger" text="Condi Harbinger"/> can deal more DPS than a <Specialization name="Scourge" text="Condi Scourge"/> but offers less utility to the group when playing the full DPS variant. It can adapt the build to given encounters but will lose more DPS doing so than a <Specialization name="Scourge" text="Condi Scourge"/> would.
+<Specialization name="Harbinger" text="Condi Harbinger"/> is more squishy than other <Specialization name="Necromancer"/> builds because it loses maximum health due to the <Effect name="Blight"/> mechanic and <Skill name="Harbinger Shroud"/> does not act as a second health bar. However, even with maximum <Effect name="Blight"/> stacks, you will still be at around 15k health.
 
 Due to being a condition based build, it will not benefit from slaying potions or <Item name="Impact" type="Sigil"/>.
 
@@ -285,6 +285,7 @@ Use this setup if you are responsible for providing Quickness to your group.
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Summon Flesh Golem" size="big" disableText/> | Can be taken for additional CC.
+| <Skill name="Elixir of Ambition" size="big" disableText/> | Useful for stacking boons at the singularity. Can be useful in niche situations to increase boon uptime or give yourself <Boon name="Aegis"/>.
 | <Skill name="Epidemic" size="big" disableText/> | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Can help to kill the anomaly at Arkk. |
 | <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target <Control name="Pull"/>. It provides an extra 150 defiance bar damage and can hit up to five times if you cast it inside the boss while there are other enemies outside.  | 
 | <Skill name="Summon Flesh Wurm" size="big" disableText/> | A 1200 range teleport skill useful for various skips. |
