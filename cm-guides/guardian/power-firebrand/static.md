@@ -25,7 +25,7 @@ The cc schedule for this fight varies depending on teamcomp. Check out the [CC D
 
 </Information>
 
-<InformationBlock>
+<InformationBlock title="General">
 
 As a firebrand your job during this encounter, besides helping with CC and dps, is to upkeep <Boon name="quickness"/>. You also wnat to help out by supplying <Boon name="Aegis"/> and <Boon name="Stability"/> on demand.
 
@@ -377,9 +377,10 @@ For the upcoming split phase you can either use <Skill name="Ray of Judgment"/> 
 **NW add**
 
 1. <Skill name="sword of justice"/>
-1. *optional:* <Skill name="Ray of Judgment"/>
+1. _optional:_ <Skill name="Ray of Judgment"/>
 
 **NE add**
+
 1. <Skill name="Symbol of Blades"/>
 1. <Skill name="Sword of Wrath"/><br/><Skill name="Sword Arc"/><br/><Skill name="Sword Wave"/><br/>until dead
 
