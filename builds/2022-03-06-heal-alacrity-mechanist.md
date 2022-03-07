@@ -11,7 +11,7 @@ conditions:
   - Vulnerability
 boons: []
 code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T17:43:30.513Z
+date: 2022-03-07T16:29:07.788Z
 ---
 The <Specialization name="Mechanist" text="Heal Alacrity Mechanist" /> provides a permanent amount of <Boon name="Might" />, <Boon name="Alacrity" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Vigor" /> as well as some <Boon name="Protection" />. It also has access to a small amount of <Boon name="Aegis" />, <Boon name="Stability" /> througt <Skill name="Crisis Zone"/>.
 
@@ -32,11 +32,11 @@ This build also has a lot of CCs but if your shield skills, <Skill name="Persona
       "Harrier",
       "Harrier",
       "Harrier",
-      "Magi",
-      "Magi",
-      "Magi",
       "Harrier",
       "Harrier",
+      "Magi",
+      "Magi",
+      "Magi",
       "Magi",
       "Harrier",
       "Harrier"
@@ -62,26 +62,26 @@ This build also has a lot of CCs but if your shield skills, <Skill name="Persona
       "Resolution Duration": 0.25,
       "Effective Power": 5670.022757142858,
       "Power DPS": 0,
-      "Bleeding Damage": 131.8475,
+      "Bleeding Damage": 346.61,
       "Bleeding Stacks": 0,
       "Bleeding DPS": 0,
-      "Burning Damage": 447.22062500000004,
+      "Burning Damage": 1446.24,
       "Burning Stacks": 0,
       "Burning DPS": 0,
       "Confusion Damage": 159.530875,
       "Confusion Stacks": 0,
       "Confusion DPS": 0,
-      "Poison Damage": 148.37875,
+      "Poison Damage": 392.95,
       "Poison Stacks": 0,
       "Poison DPS": 0,
-      "Torment Damage": 196.04625,
+      "Torment Damage": 0.00,
       "Torment Stacks": 0,
       "Torment DPS": 0,
       "Damage": 0,
       "Effective Health": 78451970.14925374,
-      "Survivability": 39884.07226703291,
+      "Survivability": 35,882.937,
       "Effective Healing": 1638.5520960000001,
-      "Healing": 1638.5520960000001
+      "Healing": 1,460.356
     },
     "runeId": 24842,
     "runeName": "Monk",
