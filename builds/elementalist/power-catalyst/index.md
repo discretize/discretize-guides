@@ -17,7 +17,7 @@ hidden: false
 rating: Good
 profession: Elementalist
 specialization: Catalyst
-code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-03-07T21:07:02.427Z
 role: Power Damage
 conditions:
@@ -41,7 +41,6 @@ This build has one of the most harder rotations in game which makes it enjoyable
 <Divider text="Equipment"/>
 
 <CharacterWithAr>
-
 <Character title="162 Agony Resistance" gear={{
   "profession": "Elementalist",
   "weight": "Light",
@@ -163,47 +162,50 @@ If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specia
 <Divider text="Build"/>
 
 <Grid>
+  
 <GridItem sm="7">
+
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Catalyst" traits3Selected="Vicious Empowerment,Empowering Auras,Empowered Empowerment"/>
+
 <Card title="Situational Traits">
 
-|                                                          |                                                                                                                                                                       |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Fresh Air" size="big" disableText/> | Will have a greater burst if playing <Specialization name="Catalyst" text="Quick Catalyst"/>                                                                    |
-| <Trait name="Raging Storm" size="big" disableText/>      | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
-| <Trait name="One with Air" size="big" disableText/>      | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Piñata Tonic"/>. |
+|                                                     |                                                                                                                                                                       |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Fresh Air" size="big" disableText/>    | Will have a greater burst if playing <Specialization name="Catalyst" text="Quick Catalyst"/>                                                                          |
+| <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Piñata Tonic"/>. |
 
 </Card>
+
 <Card title="Defiance Bar Damage">
 
-|                                                                                                                                                                           |                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| <Skill name="Wind Storm" size="big" disableText/>                                                                                                                         | 200 with <Control name="Knockdown"/>     |
-| <Skill name="Shock Blast" size="big" disableText/>                                                                                                                        | 150 with <Control name="Stun"/>          |
-| <Skill name="Wind Blast" size="big" disableText/>                                                                                                                         | 232 with <Control name="Launch"/>        |
-| <Skill name="Deep Freeze" size="big" disableText/>                                                                                                                        | 300 with <Control name="Stun"/>          |
-| <Skill id="5547" size="big" disableText/>                    | 200 with <Control name="Daze"/>          |
-| <Skill id="5747" size="big" disableText/>                    | 150 with <Control name="Pull"/>          |
+|                                                                                                                        |                                          |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| <Skill name="Wind Storm" size="big" disableText/>                                                                      | 200 with <Control name="Knockdown"/>     |
+| <Skill name="Shock Blast" size="big" disableText/>                                                                     | 150 with <Control name="Stun"/>          |
+| <Skill name="Wind Blast" size="big" disableText/>                                                                      | 232 with <Control name="Launch"/>        |
+| <Skill name="Deep Freeze" size="big" disableText/>                                                                     | 300 with <Control name="Stun"/>          |
+| <Skill id="5547" size="big" disableText/>                                                                              | 200 with <Control name="Daze"/>          |
+| <Skill id="5747" size="big" disableText/>                                                                              | 150 with <Control name="Pull"/>          |
 | <Skill name="Chilling Crack" size="big" disableText/> <br/> <Skill name="Rain of Blows" size="big" disableText/> <br/> | 33 / s with <Condition name="Chilled"/>  |
-| <Skill name="Crescent Wind" size="big" disableText/>                                                                                                                      | 20 / s with <Condition name="Weakness"/> |
+| <Skill name="Crescent Wind" size="big" disableText/>                                                                   | 20 / s with <Condition name="Weakness"/> |
 
 </Card>
+
 </GridItem>
 
 <GridItem sm="5">
+
 <Card title="Swap Weapons">
 
 - Hammers with <Item name="Night" type="Sigil"/>
-
 - Hammers with <Item name="Serpent Slaying" type="Sigil"/>
-
 - Hammers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
-
 - A staff to precast <Skill name="Meteor Shower"/> on some encounters
-
 - Weapons to precast <Boon name="Might"/>
 
 </Card>
+
 <Card title="Situational Skills">
 
 |                                                                 |                                                                                                                                                                                                                                                                                                                                            |
@@ -219,12 +221,13 @@ If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specia
 | <Skill name="Armor of Earth" size="big" disableText/>           | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>.                                                                                                                                                                                                                                           |
 | <Skill name="Fortified Earth" size="big" disableText/>          | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).                                                                                                                                                                                                                    |
 | <Skill name="Conjure Earth Shield" size="big" disableText/>     | Precasted for additional cc on encounters like Artsariiv.                                                                                                                                                                                                                                                                                  |
-| Utility                                                         | Another defensive utility skill granting a block and some barrier.                                                                                                                                                                                                                                                                         |
+| Utility                                                         |                                                                                                                                                                                                                                                                                                                                            |
 | <Skill name="Lightning Flash" size="big" disableText/>          | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
 | <Skill name="Arcane Wave" size="big" disableText/>              | Also Useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                                                                                                                                            |
-| <Skill name="Invigorating Air" size="big" disableText/>         | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>.                                                                                                                                                                      |
+| <Skill name="Invigorating Air" size="big" disableText/>         | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                                                                                                                            |
 
 </Card>
+
 </GridItem>
 </Grid>
 
@@ -232,13 +235,16 @@ If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specia
 
 <Grid>
 <GridItem xs="12" sm="6">
+
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
 </Card>
+
 </GridItem>
 
 <GridItem xs="12" sm="6">
+
 <Card title="Precasting">
 
 If a _Mistlock Singularity_ is present you should precast boons and particular effects for better group performance.
@@ -252,9 +258,11 @@ If a _Mistlock Singularity_ is present you should precast boons and particular e
 It is recommended to use separate precast templates to cast different utility and weapon skills.
 
 </Card>
+
 <Card title="Catalyst Rotation">
 
 <Video caption="" youtube=""/>
 </Card>
+
 </GridItem>
 </Grid>
