@@ -21,7 +21,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 3
@@ -37,7 +37,7 @@ This build guide is not complete, gear and sections may chage regularly as we ex
 
 </Warning>
 
-<Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC and mobility making it a strong choice for all groups. It alsocan easily slot more supportive utility skills allowing you to provide yourself and your party wwith <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects easily.
+The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC and mobility making it a strong choice for all groups. It alsocan easily slot more supportive utility skills allowing you to provide yourself and your party wwith <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects easily.
 
 <Divider text="Equipment"/>
 
@@ -223,7 +223,7 @@ You will want the following weapons to swap to durning fractal runs:
 7. <Skill name="Rushing Justice"/> with <Skill id="62618"/> already active
 8. <Skill name="Zealot's Defense"/>
 9. <Skill name="Cleansing Flame"/>
-10. <Skill name="Sword of Wrath"/>, <Skill name="Sword Arc"/>, <Skill name="Sword Wave"/> 
+10. <Skill name="Sword of Wrath"/>, <Skill name="Sword Arc"/>, <Skill name="Sword Wave"/>
 11. <Skill name="Orb of Wrath"/>
 
 </Card>
