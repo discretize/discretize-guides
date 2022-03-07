@@ -8,7 +8,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T16:48:21.434Z
+date: 2022-03-07T17:19:38.840Z
 ---
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
 
@@ -166,7 +166,7 @@ You can also use <Item id="37130"/> if you do not have the Spiteful ones for a m
     "Toughness": 1243,
     "Vitality": 1360,
     "Ferocity": 150,
-    "Condition Damage": 2792,
+    "Condition Damage": 2793,
     "Expertise": 748,
     "Concentration": 420,
     "Healing Power": 0,
@@ -239,7 +239,7 @@ You can also use <Item id="37130"/> if you do not have the Spiteful ones for a m
   },
   "consumables": {
     "foodId": 12464,
-    "utilityId": 48917,
+    "utility": "Tuning Icicle",
     "infusion": "Malign +9 Agony Infusion"
   },
   "skills": {
@@ -284,6 +284,8 @@ Use this setup if you are responsible for providing Quickness to your group.
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Summon Flesh Golem" size="big" disableText/> | Can be taken for additional CC.
 | <Skill name="Elixir of Ambition" size="big" disableText/> | Useful for stacking boons at the singularity. Can be useful in niche situations to increase boon uptime or give yourself <Boon name="Aegis"/>.
+| <Skill name="Elixir of Bliss" size="big" disableText/> | Can help cleansing conditions. Keep in mind that delaying your Elixirs also means delaying your <Effect name="Blight"/> application.
+| <Skill name="Elixir of Ignorance" size="big" disableText/> | Acts as a stun-break. Keep in mind that delaying your Elixirs also means delaying your <Effect name="Blight"/> application. |
 | <Skill name="Epidemic" size="big" disableText/> | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Can help to kill the anomaly at Arkk. |
 | <Skill name="Spectral Grasp" size="big" disableText/> | A useful 1200 range 5 target <Control name="Pull"/>. It provides an extra 150 defiance bar damage and can hit up to five times if you cast it inside the boss while there are other enemies outside.  | 
 | <Skill name="Summon Flesh Wurm" size="big" disableText/> | A 1200 range teleport skill useful for various skips. |
@@ -318,16 +320,15 @@ Use this setup if you are responsible for providing Quickness to your group.
 - Unlike on core <Specialization name="Necromancer"/> or <Specialization name="Reaper"/>, your <Skill name="Harbinger Shroud"/> will not absorb the damage for you while inside.
 - You can enter <Skill name="Harbinger Shroud"/> even at 0 Life Force since entering gives you 15% due to <Trait name="Corrupted Talent"/>.
 - While in <Skill name="Harbinger Shroud"/>, you constantly gain <Effect name="Blight"/> and drain Life Force.
-- 
+- All of your important Shroud skills are ranged. However, part of your damage comes from <Trait name="Doom Approaches"/> which has a small radius around you. Same goes for <Boon name="Quickness"/> uptime through <Trait name="Deathly Haste"/>.
+- Your auto-attack <Skill name="Tainted Bolts"/> deals damage around your target.
+- <Skill name="Dark Barrage"/> fires out 6 bolts. If you stand too far away, some bolts will miss the target.
+- <Skill name="Devouring Cut"/> dashes you to your target and then damages enemies on impact. If you are already in melee range, you can cancel this skill right away and still deal damage. If above 5 <Effect name="Blight"/>, this attack will consume 5 stacks and deal extra damage.
+- <Skill name="Voracious Arc"/> leaps you into the targeted area while evading, deals damage and <Control name="Daze"/> the enemy. If above 10 <Effect name="Blight"/>, this attack will consume 10 stacks and deal extra damage.
+- <Skill name="Vital Draw"/> is the only Shroud skill you will not actively use in your rotation. However, it is a strong CC skill that will deal 300 breakbar damage to enemies around you.
 
 </Card>
 
-<Card title="Important traits">
-- <Trait name="Plague Sending"/>
-- the conversion traits
-- Quickness in Shroud trait
-
-</Card>
 
 
 </GridItem>
@@ -346,12 +347,22 @@ Use this setup if you are responsible for providing Quickness to your group.
 
 </Card>
 
+<Card title="Important Traits">
+- <Trait name="Plague Sending"/> will transfer up to 2 conditions from you after entering <Skill name="Harbinger Shroud"/>. Always use <Skill name="Blood is Power"/> right before entering your Shroud to transfer the conditions for extra damage.
+- <Trait name="Twisted Medicine"/> (<Boon name="Quickness"/> variant) shares the boons from Elixirs with the group helping to upkeep many different boons. It also converts 13% of your <Attribute name="Vitality"/> into <Attribute name="Concentration"/> which, in fractals, allows us to run without any additional <Attribute name="Concentration"/> gear for the <Boon name="Quickness"/> variant.
+- <Trait name="Deathly Haste"/> (<Boon name="Quickness"/> variant) pulses <Boon name="Quickness"/> around you while in Shroud. Together with the Elixirs, this is your main way of keeping up this boon for your group.
+- <Trait name="Dark Gunslinger"/> (DPS variant) reduces the cooldown of Pistol skills. It also converts 13% of your <Attribute name="Vitality"/> into <Attribute name="Expertise"/> which allows us to run with <Item name="Nightmare" type="Rune"/> and almost cap both <Condition name="Bleeding"/> and <Condition name="Torment"/> duration.
+- <Trait name="Doom approaches"/> (DPS variant) pulses <Condition name="Torment"/> around you while in Shroud.
+
+</Card>
+
 <Card title="CC skills">
 
 | | |
 | - | - |
 | <Skill name="Vile Blast" size="big" disableText/> | 100 damage |
 | <Skill name="Voracious Arc" size="big" disableText/> | 100 damage |
+| <Skill name="Vital Draw" size="big" disableText/> | 300 damage |
 | <Skill name="Wail of Doom" size="big" disableText/> | 200 damage |
 | <Skill name="Charge" size="big" disableText/> | 600/800/1000 damage depending on hitbbox size |
 | <Skill name="Spectral Grasp" size="big" disableText/> | 150-750 damage (see situational skills)
@@ -364,13 +375,6 @@ Use this setup if you are responsible for providing Quickness to your group.
 
 
 <Divider text="Rotation"/>
-Some General Information:
-
-- Keep in mind that skills that inflict Bleeding over Torment have a slightly lower priority on the Quickness build due to being significantly below Bleeding Duration cap.
-
-
-
- 
 
 <Grid>
 <GridItem sm="6">
@@ -378,7 +382,7 @@ Some General Information:
 - Enter <Skill name="Harbinger Shroud"/> approx. every 20 seconds.
 - You gain Life Force when units around you die or from some skills, namely <Skill name="Weeping Shots"/>, <Skill name="Vile Blast"/> and <Skill name="Devouring Darkness"/> as well as entering <Skill name="Harbinger Shroud"/>.
 - Use <Skill name="Deathly Swarm"/> and <Skill name="Harbinger Shroud"/> (triggering <Trait name="Plague Sending"/>) to transfer Conditions you get from <Skill name="Blood is Power"/> and <Skill name="Plaguelands"/> to the boss.
-- Use all 3 Elixirs off-cooldown to keep up Blight. They have the same cooldown. Use <Skill name="Elixir of Promise"/> last to ensure you are using it at above the Blight threshold doubling the duration of the <Condition name="Poisoned"/> it applies.
+- Use all 3 Elixirs off-cooldown to keep up Blight. They have the same cooldown. Use <Skill name="Elixir of Promise"/> last to ensure you are using it above the Blight threshold doubling the duration of the <Condition name="Poisoned"/> it applies.
 - Try to stay on Pistol as much as possible. Ideally you will never use a single auto-attack on Scepter. It is just for using <Skill name="Devouring Darkness"/> and <Skill name="Grasping Dead"/> before and after every other <Skill name="Harbinger Shroud"/>.
 </Card>
 <Card title="Loop">
@@ -401,6 +405,8 @@ After the Opener and your first Shroud Rotation is done, the loop will be:
 <Card title="Extra Information">
 - Fill any remaining gaps in the loop with Pistol auto-attacks.
 - <Skill name="Blood is Power"/> will recharge slightly more often than you enter <Skill name="Harbinger Shroud"/>. Use extra charges in combination with <Skill name="Deathly Swarm"/>. Otherwise use <Skill name="Deathly Swarm"/> for <Skill name="Plaguelands"/> when it comes off-cooldown.
+- <Skill name="Devouring Cut"/> has a cast-time but does its damage even if you cancel the skill right away.
+
 </Card>
 </GridItem>
 
