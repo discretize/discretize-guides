@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-07T15:03:52.516Z
+date: 2022-03-07T15:30:58.367Z
 ---
 
 <Warning>
@@ -37,7 +37,7 @@ This build guide is not complete, gear and sections may chage regularly as we ex
 
 </Warning>
 
-The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC and mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party wwith <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
+The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC and mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party with <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
 
 <Divider text="Equipment"/>
 
@@ -46,38 +46,38 @@ The <Specialization name="Willbender" text="Condition Willbender"/> is a strong 
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
-    "Grieving",
-    "Grieving",
-    "Grieving",
-    "Viper",
-    "Grieving",
-    "Viper",
-    "Grieving",
-    "Grieving",
     "Viper",
     "Viper",
     "Viper",
     "Viper",
-    "Grieving",
-    "Grieving"
+    "Viper",
+    "Viper",
+    "Sinister",
+    "Sinister",
+    "Viper",
+    "Sinister",
+    "Sinister",
+    "Sinister",
+    "Viper",
+    "Viper"
   ],
   "attributes": {
-    "Health": 12810,
+    "Health": 14460,
     "Armor": 2514,
-    "Power": 3003,
-    "Precision": 1956,
+    "Power": 2909,
+    "Precision": 2085,
     "Toughness": 1243,
-    "Vitality": 1000,
-    "Ferocity": 708,
-    "Condition Damage": 2745,
-    "Expertise": 295,
+    "Vitality": 1150,
+    "Ferocity": 300,
+    "Condition Damage": 2947,
+    "Expertise": 451,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.19666666666666668,
+    "Condition Duration": 0.30066666666666664,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.8052380952380953,
-    "Critical Damage": 1.972,
+    "Critical Chance": 0.8666666666666666,
+    "Critical Damage": 1.7,
     "Power Coefficient": 2715,
     "Burning Coefficient": 14.65,
     "Bleeding Coefficient": 1.14,
@@ -88,26 +88,26 @@ The <Specialization name="Willbender" text="Condition Willbender"/> is a strong 
     "Burning Duration": 0.7,
     "Maximum Health": 0.10000000000000009,
     "Resolution Duration": 0.25,
-    "Effective Power": 10139.649620958002,
-    "Power DPS": 10600.36531417057,
-    "Bleeding Damage": 315.05625,
-    "Bleeding Stacks": 1.3642,
-    "Bleeding DPS": 429.79973624999997,
-    "Burning Damage": 1079.9092968749999,
-    "Burning Stacks": 27.786166666666666,
-    "Burning DPS": 30006.53970785156,
-    "Confusion Damage": 371.5959375,
+    "Effective Power": 10976.97384612,
+    "Power DPS": 11475.735075939852,
+    "Bleeding Damage": 603.91575,
+    "Bleeding Stacks": 1.4827599999999999,
+    "Bleeding DPS": 895.46211747,
+    "Burning Damage": 2053.206478125,
+    "Burning Stacks": 29.3,
+    "Burning DPS": 60158.949809062506,
+    "Confusion Damage": 711.2093625,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 334.4625,
+    "Poison Damage": 638.847,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 470.55937499999993,
-    "Torment Stacks": 1.5915666666666668,
-    "Torment DPS": 748.9266159375,
-    "Damage": 41785.63137420963,
-    "Effective Health": 64088238.805970155,
-    "Survivability": 32581.717745790622,
+    "Torment Damage": 902.2286250000001,
+    "Torment Stacks": 1.7298866666666668,
+    "Torment DPS": 1560.7532686725003,
+    "Damage": 74090.90027114486,
+    "Effective Health": 72343164.17910449,
+    "Survivability": 36778.426120541175,
     "Effective Healing": 390,
     "Healing": 390
   },
@@ -156,7 +156,9 @@ The <Specialization name="Willbender" text="Condition Willbender"/> is a strong 
 }} 
 >
 
-This is the optimal gear setup but at a minimal DPS loss you can also use the same gear as <BuildLink build="Condi Firebrand" specialization="Firebrand"/>.
+There are many different gear variations that can be run on this build that vary damage wise in certain situations. Overall when considering <Effect name="Exposed"/> and the fact you can share gear with <Specialization name="Firebrand" text ="Condi Firebrand"/> makes the setup below the best option for fractals. If you want to optimize for different situations you can use our [gear optimizer](https://optimizer.discretize.eu/).
+
+This build also makes use of a <Item id="96613"/> gaining <Attribute name="Condition Damage"/> from <Trait name="Power of the Virtuous"/>. Removing this does not change the gear!
 
 If you need to swap a utility out, <Skill name="Signet of Wrath"/> is a minor dps increase and should be swapped out when other skills suit the encounter better.
 You will want the following weapons to swap to durning fractal runs:
@@ -217,7 +219,7 @@ In general for fractals there is no set rotation for <Specialization name="Willb
 2. <Skill name="Purging Flames"/>
 3. <Skill name="Symbol of Punishment"/>
 4. <Skill name="Whirling Light"/>
-5. <Skill name="Zealot's Flame"/>, <Skill name="Zealot's Fire"/>
+5. <Skill name="Zealot's Flame"/>, <Skill name="Zealot's Fire"/> 
 6. <Skill name="Symbol of Blades"/>
 7. <Skill name="Rushing Justice"/> with <Skill id="62618"/> already active
 8. <Skill name="Zealot's Defense"/>
@@ -232,6 +234,7 @@ In general for fractals there is no set rotation for <Specialization name="Willb
 <Card title="Golem rotation">
 
 <Video youtube="LtopRJ1py04" caption="by Support Hero"/>
+Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
 </Card>
 
 <Card title="Precasting">
