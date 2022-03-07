@@ -1,5 +1,5 @@
 ---
-title: Power (Banner) Bladesworn
+title: Power Bladesworn
 hidden: false
 rating: Good
 role: Power Damage
@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-07T19:50:04.077Z
+date: 2022-03-07T19:58:11.731Z
 ---
 
 <Warning>
