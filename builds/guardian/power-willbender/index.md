@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 3
@@ -240,14 +240,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "eliteId": 62561
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
-  }}
->
+}}>
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-</Character>  
+</Character>
 
 <Character title="222 Agony Resistance (No Spotter/Banner)" gear={{
   "profession": "Guardian",
@@ -344,14 +343,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "eliteId": 62561
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
-  }}
->
+}}>
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-</Character>  
+</Character>
 
 <Character title="222 Agony Resistance (Spotter/Banner)" gear={{
   "profession": "Guardian",
@@ -449,8 +447,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "eliteId": 62561
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
-  }}
->
+}}>
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
@@ -490,18 +487,18 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sh
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                        |                                                                                     |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
+|                                                        |                                                                                                                                 |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                                                              |
 | <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. Also useful for precasting a fire field and <Boon name="Resolution"/> at the mistlock. |
-| <Skill name="Advance" size="big" disableText/>         | When extra <Boon name="Aegis"/> is needed.                                          |
-| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
-| <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
-| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |
-| <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                  |
-| <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                |
-| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
-| <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+| <Skill name="Advance" size="big" disableText/>         | When extra <Boon name="Aegis"/> is needed.                                                                                      |
+| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                                                                         |
+| <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                                                                    |
+| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                                                                    |
+| <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                                                              |
+| <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                                                            |
+| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                                                             |
+| <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds.                                             |
 
 </Card>
 </GridItem>
@@ -528,17 +525,11 @@ For that reason you will find some general notes for skill usage here.
 If you have a Mistlock Singularity present you can use these skills for precasts:
 
 1.  Cast <Skill name="litany of wrath"/> for <Boon name="Resolution"/>
-
 2.  Use <Skill name="Save yourselves"/> or <Skill name="hallowedground"/>
-
 3.  Blast a fire field with <Skill name="Holy Strike"/>
-
 4.  Use <Skill name="Feelmywrath"/>
-
 5.  Use <Skill name="banesignet"/>
-
 6.  Take mistlock
-
 7.  Blast a fire field with <Skill name="Holy Strike"/> again
 
 </Card>
@@ -548,17 +539,11 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 <Card title="Notes on skill usage:">
 
 - Always start on sword
-
 - Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC.
-
 - Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
-
 - Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at **Artsariiv**, **Arkk**, **Siax** and **Ensolyss**.
-
 - Don't interrupt your GS auto-attack chain.
-
 - In certain scenarios (precasting symbols, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="Rushing Justice"/> out first.
-
 - Don't waste your key skills on meaningless adds.
 
 </Card>
@@ -572,36 +557,21 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 This is wrong, just seeing if new skills show
 
 1.  <Skill name="banesignet" profession="guardian"/>
-
 2.  <Skill name="Symbol of Blades" profession="guardian"/> (Sword 2)
-
 3.  <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
-
 4.  <Skill name="Sword of Justice" profession="guardian"/>
-
 5.  <Skill name="Rushing Justice" profession="guardian"/> (F1)
-
 6.  <Skill name="Flash Combo" profession="guardian"/>
-
 7.  <Skill name="Zealotsdefense" profession="guardian"/> (Sword 3)
-
 8.  <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
-
 9.  **Weapon Swap**
-
 10. <Skill name="Symbol of Resolution" profession="guardian"/> (GS 4)
-
 11. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
-
 12. <Skill name="Sword of Justice" profession="guardian"/>
-
 13. <Skill name="Sword of Justice" profession="guardian"/>
-
 14. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
-
 15. <Skill name="Binding Blade" profession="guardian"/> (GS 5)
-
-16. If the phase lasts longer than this, continue with the SC rotation.
+16. If the phase lasts longer than this, continue with the [SC rotation](https://snowcrows.com/builds/guardian/willbender/power-willbender).
 
 </Card>
 </GridItem>
@@ -619,13 +589,8 @@ This is wrong, just seeing if new skills show
 It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the <Specialization text="Power Willbender" name="Willbender"/>. If you still want to play <Specialization text="Power Willbender" name="Willbender"/> for whatever reason follow these rough guidelines.
 
 - Open with <Skill name="refraction"/> for <Boon name="resolution"/>
-
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
-
 - Priority list:
-
   1.  <Skill name="Zealots flurry"/> (Spear 2)
-
   2.  <Skill name="Symbol of spears"/> (Spear 4)
-
   3.  <Skill name="brilliance"/> (Spear 3)
