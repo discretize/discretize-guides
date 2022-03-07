@@ -42,7 +42,7 @@ It benefits from slaying potions and slaying sigils such as <Item id="50082"/> a
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="162 Agony Resistance (No Spotter/Banner)" gear={{
+<Character title="162 AR (No Spotter/Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -146,7 +146,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Character>
 
-<Character title="162 Agony Resistance (Spotter/Banner)" gear={{
+<Character title="162 AR (Spotter/Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -249,7 +249,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Character>
 
-<Character title="222 Agony Resistance (No Spotter/Banner)" gear={{
+<Character title="222 AR (No Spotter/Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -352,7 +352,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Character>
 
-<Character title="222 Agony Resistance (Spotter/Banner)" gear={{
+<Character title="222 AR (Spotter/Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
