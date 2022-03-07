@@ -12,7 +12,7 @@ conditions:
   - Vulnerability
 boons: []
 code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T19:51:31.876Z
+date: 2022-03-07T20:05:18.636Z
 ---
 The <Specialization name="Mechanist" text="Heal Alacrity Mechanist" /> provides a permanent amount of <Boon name="Might" />, <Boon name="Alacrity" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Vigor" /> as well as some <Boon name="Protection" />. It also has access to a small amount of <Boon name="Aegis" />, <Boon name="Stability" /> througt <Skill id="63293"/>.
 
@@ -134,3 +134,14 @@ traits1="Inventions"
   />
   This build has inherently a lot of CCs but if your shield skills, <Skill name="Personal Battering Ram"/> and <Skill name="Rocket Fist Prototype"/> are not enough you can change <Trait name="Soothing Detonation"/> for <Trait name="Experimental Turrets"/> and take <Skill name="Supply Crate"/> instead of <Skill name="Overclock Signet"/>. If truly desperate, you can also drop <Skill name="Elixir Gun"/> for <Skill name="Thumper Turret"/>.
   </Card>
+  
+  | Skill                                                                           | Defiance Bar Damage                                        |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <Skill name="Rocket Fist Prototype"/>                                           | 100 damage                                                 |
+| <Skill name="Magnetic Inversion  "/>                                            | 150 damage                                                 |
+| <Skill name="Throw Shield"/>                                                    | 100 damage                                                 |
+| <Skill name="Thump"/>                                                           | 232 damage                                                 | 
+| <TomeSkill name="Endothermic Shell"/>                                           | <Condition name="Chilled"/> 33/s damage                    |
+| <Skill name="Glob Shot"/>                                                       | <Condition name="Crippled"/> 20/s damage                   |
+| <Skill name="Personal Battering Ram"/> | 232 damage
+| <Skill name="Supply Crate"/> | 200 damage
