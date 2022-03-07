@@ -1,6 +1,6 @@
 ---
 title: Condi (Quick) Harbinger
-hidden: true
+hidden: false
 rating: Good
 role: Condi Damage
 profession: Necromancer
@@ -8,13 +8,9 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T14:20:37.366Z
+date: 2022-03-07T16:23:06.740Z
 ---
-<Warning>
-This is an early draft of the build page.
-</Warning>
-
-The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group.
+The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
 
 <Specialization name="Harbinger" text="Condi Harbinger"/> is more squishy than other <Specialization name="Necromancer"/> builds because it loses maximum health due to the <Effect name="Blight"/> mechanic and <Skill name="Harbinger Shroud"/> does not act as a second health bar. However, even with maximum <Effect name="Blight"/> stacks, you will still be at around 15k health.
 
@@ -298,32 +294,82 @@ Use this setup if you are responsible for providing Quickness to your group.
 </GridItem>
 </Grid>
 
-<Divider text="Details"/>
+<Divider text="Skills and Basics"/>
+<Grid>
 
-- <Effect name="Blight"/>
-- <Skill name="Harbinger Shroud"/> skills
+<GridItem sm="8">
+
+<Card title="Blight">
+- Using Elixir skills and staying in <Skill name="Harbinger Shroud"/> will inflict <Effect name="Blight"/> on you, reducing your maximum health by 1.5% per stack (up to 37.5% at 25 stacks).
+- <Trait name="Septic Corruption"/> increases the damage you deal with conditions for each stack of <Effect name="Blight"/>.
+- <Trait name="Alchemic Vigor"/> heals you every second for each stack of <Effect name="Blight"/>.
+- Certain skills consume some <Effect name="Blight"/> when you are above a treshold to deal more damage, namely <Skill name="Devouring Cut"/> (Shroud 3) and your Elixirs when above 5 stacks of <Effect name="Blight"/> and <Skill name="Voracious Arc"/> (Shroud 4) when above 10 stacks.
+
+</Card>
+
+<Card title="Elixirs">
+- Your auto-attack <Skill name="Vicious Shot"/> deals good damage and will be used to fill any gaps in the rotation.
+- 
+
+</Card>
+
+<Card title="Pistol skills">
 - Pistol skills
+
+</Card>
+
+<Card title="Shroud">
+- <Skill name="Harbinger Shroud"/> skills
+
+</Card>
+
+<Card title="Important traits">
 - <Trait name="Plague Sending"/>
+- the conversion traits
+- Quickness in Shroud trait
+
+</Card>
+
+
+</GridItem>
+
+<GridItem sm="4">
+<Card title="CC skills">
+
+| | |
+| - | - |
+| <Skill name="Vile Blast" size="big" disableText/> | 100 damage |
+| <Skill name="Voracious Arc" size="big" disableText/> | 100 damage |
+| <Skill name="Wail of Doom" size="big" disableText/> | 200 damage |
+| <Skill name="Charge" size="big" disableText/> | 600/800/1000 damage depending on hitbbox size |
+| <Skill name="Spectral Grasp" size="big" disableText/> | 150-750 damage (see situational skills)
+
+</Card>
+
+</GridItem>
+
+</Grid>
+
 
 <Divider text="Rotation"/>
-<Warning>
-This is not finished yet.
-</Warning>
 Some General Information:
 
 - Keep in mind that skills that inflict Bleeding over Torment have a slightly lower priority on the Quickness build due to being significantly below Bleeding Duration cap.
+
+
+
+ 
+
+<Grid>
+<GridItem sm="6">
+<Card title="General Information">
+- Enter <Skill name="Harbinger Shroud"/> approx. every 20 seconds.
+- You gain Life Force when units around you die or from some skills, namely <Skill name="Weeping Shots"/>, <Skill name="Vile Blast"/> and <Skill name="Devouring Darkness"/> as well as entering <Skill name="Harbinger Shroud"/>.
 - Use <Skill name="Deathly Swarm"/> and <Skill name="Harbinger Shroud"/> (triggering <Trait name="Plague Sending"/>) to transfer Conditions you get from <Skill name="Blood is Power"/> and <Skill name="Plaguelands"/> to the boss.
 - Use all 3 Elixirs off-cooldown to keep up Blight. They have the same cooldown. Use <Skill name="Elixir of Promise"/> last to ensure you are using it at above the Blight threshold doubling the duration of the <Condition name="Poisoned"/> it applies.
-- Try to stay on Pistol as much as possible. Ideally you will never use a single auto-attack on Scepter. It is just for using <Skill name="Devouring Darkness"/> and <Skill name="Grasping Dead"/> before and after <Skill name="Harbinger Shroud"/>.
-- Fill any remaining gaps in the loops with Pistol auto-attacks.
-- <Skill name="Blood is Power"/> will recharge more often than you enter <Skill name="Harbinger Shroud"/>. Use extra charges in combination with <Skill name="Deathly Swarm"/>. Otherwise use <Skill name="Deathly Swarm"/> for <Skill name="Plaguelands"/> when it comes off-cooldown
-
-Precast (at singularity):
-- Use as many Elixirs as possible to stack boons for yourself (and allies when running <Trait id="2220"/>).
-- You can also use <Skill name="Harbinger Shroud"/> to pre-stack more <Bonn name="Quickness"/> when running <Trait name="Deathly Haste"/>.
-
-Rotation:
-
+- Try to stay on Pistol as much as possible. Ideally you will never use a single auto-attack on Scepter. It is just for using <Skill name="Devouring Darkness"/> and <Skill name="Grasping Dead"/> before and after every other <Skill name="Harbinger Shroud"/>.
+</Card>
+<Card title="Loop">
 After the Opener and your first Shroud Rotation is done, the loop will be:
 1. Pistol Rotation
 2. Weapon Swap
@@ -339,16 +385,31 @@ After the Opener and your first Shroud Rotation is done, the loop will be:
 12. <Skill name="Blood is Power"/>
 13. <Skill name="Harbinger Shroud"/>
 14. Shroud Rotation
+</Card>
+<Card title="Extra Information">
+- Fill any remaining gaps in the loop with Pistol auto-attacks.
+- <Skill name="Blood is Power"/> will recharge slightly more often than you enter <Skill name="Harbinger Shroud"/>. Use extra charges in combination with <Skill name="Deathly Swarm"/>. Otherwise use <Skill name="Deathly Swarm"/> for <Skill name="Plaguelands"/> when it comes off-cooldown.
+</Card>
+</GridItem>
 
-Opener:
+
+<GridItem sm="6">
+<Card title="Precast (at singularity)">
+- Use as many Elixirs as possible to stack boons for yourself (and allies when running <Trait id="2220"/>).
+- You can also use <Skill name="Harbinger Shroud"/> to pre-stack more <Bonn name="Quickness"/> when running <Trait name="Deathly Haste"/>.
+</Card>
+<Card title="Opener">
+
 1. <Skill name="Plaguelands"/>
 2. <Skill name="Devouring Darkness"/>
 3. Weapon swap
-4. <Skill name="Weeping Shots"/>
-5. <Skill name="Blood is Power"/>
-6. <Skill name="Harbinger Shroud"/>
+4. <Skill name="Vile Blast"/> (skip this if the boss has no breakbar)
+5. <Skill name="Weeping Shots"/>
+6. <Skill name="Blood is Power"/>
+7. <Skill name="Harbinger Shroud"/>
+</Card>
+<Card title="Shroud Rotation">
 
-Shroud Rotation:
 1. <Skill name="Dark Barrage"/>
 2. <Skill name="Voracious Arc"/>
 3. <Skill name="Devouring Cut"/>
@@ -359,8 +420,8 @@ Shroud Rotation:
 8. <Skill name="Devouring Cut"/>
 9. <Skill name="Dark Barrage"/>
 10. <Skill name="Exit Harbinger Shroud"/>
-
-Pistol Rotation:
+</Card>
+<Card title="Pistol Rotation">
 1. <Skill name="Weeping Shots"/>
 2. <Skill name="Vile Blast"/>
 3. <Skill name="Enfeebling Blood"/>
@@ -368,3 +429,7 @@ Pistol Rotation:
 5. <Skill name="Elixir of Anguish"/>
 6. <Skill name="Elixir of Promise"/>
 7. <Skill name="Weeping Shots"/>
+</Card>
+
+</GridItem>
+</Grid>
