@@ -18,7 +18,7 @@ boons:
   - name: Might
     uptime: 3 stacks
     variant: party - situational
-cmGuide: ""
+cmGuide: ''
 classification:
   - 3
   - 5
@@ -27,7 +27,7 @@ classification:
   - 5
 compositions:
   - name: _CRGB
-code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-03-06T22:32:24.670Z
 ---
 
@@ -220,17 +220,11 @@ Watching videos of players performing the rotation for this build, one might thi
 
 - The **<Specialization text="Condi Deadeye" name="Deadeye"/>** has three primary damaging abilities: <Skill id="50466"/>, <Skill id="59526"/>, and <Skill id="13010"/>. Due to the nature of <Skill id="13010"/> (which has to be casted to enable <Skill id="59526"/>), this rotation becomes very tricky, as it forces your character to Shadowstep Backwards: this is because the intention behind designing the Pistol/Dagger setup was probably to make a kiting kit, and it was never really meant to be a Best in Slot DPS kit. One way to bypass this is to **jump** during, or immediately after casting <Skill id="13010"/>. Not only is it an inconvenience for the rotation, but it also lowers your DPS slightly, as there will be a small, but significant delay where you will still be up in the air, unable to make your next move. It is necessary to jump <Skill id="13010"/> sometimes, such as when Dark Ai pulses AoEs in a set ring pattern, so as not to lose too much health, and fall into Downstate far away from your friends.
 - <Skill name="shadowstrike"/> can see its range alleviated by positioning the camera at a steep angle, above your character, and running inside of the hitbox. The latter reduces the porting range to approximately 400 units, while combining the two reduces the range to about 180 units (courtesy of [Darkz](https://youtu.be/lYSjF4Q7zZA)).
-
 - The rotation requires a good sense of timing, as do pretty much all **<Specialization text="Deadeye" name="Deadeye"/>** builds, to maximize your DPS: timing some abilities incorrectly, such as <Skill id="41372"/> (which will consume your Malice in exchange for some _Initiative_ points), can have dramatic consequences for the rest of the fight: you might end up being completely unable to use any ability whatsoever, because you have run out of _Initiative_ points to spend. Not being able to use abilities keeps your Malice bar too low, and this chain reaction can leave you powerless to do anything, until you can use <Skill name="mercy"/> or <Skill name="deadeyesmark"/> again.
-
 - Missing an ability like <Skill name="shadowstrike"/> or hitting nothing but thin air with <Skill name="repeater"/>, both of which might happen from being out of range, will unnecessarily use up some of your _Initiative_, and might delay your <Trait id="2111"/> which could cause some issues for the rest of the fight, like not filling up your _Initiative_ bar at the proper moment.
-
 - It is important to learn the rotation by heart, if you do not fully understand the _Malice_ mechanic. abilities such as <Skill id="50466"/> are only enabled when you are under the effect of <Effect name="Stealth"/>; notably, the latter has additional effects when Malice is consumed, so it is important _not_ to use <Skill name="mercy"/> before, or while casting it. Specifically, <Skill name="mercy"/> should always be used upon completing the <Skill id="50466"/>, so as not to interfere with <Effect name="stealth"/>-application skills like the random F2 Stolen skills (<Skill name="stealtime"/>, ...), <Skill name="hideinshadows"/> or <Skill name="shadowmeld"/>.
-
 - Stolen abilities (<Skill name="stealhealth"/>, <Skill name="stealstrength"/>...) should _not_ be used if you have less than four _Malice_ points, as four of them ought to be consumed to provide you with <Effect name="Stealth"/>, enabling <Skill id="50466"/>.
-
 - <Trait id="2078"/> is a key trait will lower the cooldown of all of your Utility Skills by 20% of their total cooldown after killing a _Marked_ target. Targets can be _Marked_ with <Skill name="deadeyesmark"/>. A good way to reset your <Skill name="deadeyesmark"/> in order to reapply it to a new foe is to run <Skill name="mercy"/>. It is absolutely essential to run this trait on every CM boss, as it will allow you to precast additional **<Skill name="preparethousandneedles"/>** on Ensolyss, or more _Venom Skills_ on all of the other bosses. We also recommend <Skill name="mercy"/> on bosses such as MAMA, Siax, Skorvald, Artsariiv and Arkk so as not to run out of initiative, and allow for more procs of <Trait id="2078"/>. Note that <Skill name="deadeyesmark"/> will always reset upon your _Marked_ target's death.
-
 - Lastly, it should be noted that <Trait id="2136"/> is a crucial trait for longer fights, as the use of a cantrip like <Skill name="shadowmeld"/> or <Skill name="Mercy"/> will allow you to use a second Stolen ability, on top of the one that the <Skill name="deadeyesmark"/> gives you every twenty seconds or so.
 
 <Divider text="Rotation / Skill usage"/>
@@ -245,15 +239,10 @@ Watching videos of players performing the rotation for this build, one might thi
 </Warning>
 
 1.  <Skill name="deadeyesmark"/>
-
 2.  <Skill name="Shadow Strike"/> (Pistol 3) + <Skill name="Skale Venom"/> + <Skill name="Spider Venom"/>
-
 3.  Optional Immediate **Jump** after <Skill name="Shadow Strike"/>
-
 4.  **<Skill name="Repeater"/> Three times** (Pistol 3)
-
 5.  **One Stealth Ability**
-
 6.  <Skill name="malicioussneakattack"/>
 
 <Warning>
@@ -277,7 +266,6 @@ Watching videos of players performing the rotation for this build, one might thi
 All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown. This is possible on Skorvald, Artsariiv, Arkk, MAMA and Ensolyss with the use of a <Item name="White Mantle Portal Device"/>, or on Siax without. It is also possible on the Sorrowful Spellcaster (Light & Dark Ai), but with a 1/4 chance of success.
 
 - On Dark Ai, make sure to precast venoms on your <Skill id="13082"/> minions, as every boon and special ability effect currently on you will be stripped upon starting the encounter.
-
 - Spam <Skill name="clusterbomb"/> for <Boon name="might"/> blasts on the _Mistlock Singularity_.
 
 </Card>
