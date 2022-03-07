@@ -18,7 +18,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-03-07T20:01:09.118Z
+date: 2022-03-07T20:05:34.042Z
 conditions:
   - Vulnerability
 cmGuide: pug
@@ -384,6 +384,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                 |
 | <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.         |
+| <Skill id="41908" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/>deals less damage than <SKill id="41524"/>       |
 
 </Card>
 </GridItem>
@@ -420,6 +421,7 @@ If you meet these requirements then you can swap Marksmanship for Skirmishing wi
 | <Skill id="12638" size="big" disableText/> | 150 damage (Axe 4)                                                          |
 | <Skill id="12475" size="big" disableText/> | 150 damage (Greatsword 5)                                                   |
 | <Skill id="12523" size="big" disableText/> | 150 damage (Greatsword 4 after a block)                                     |
+| <Skill id="41908" size="big" disableText/> | 200 damage (F2 in <Skill id="42944"/>)
 | <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3) |
 
 </Card>
