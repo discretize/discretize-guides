@@ -59,7 +59,7 @@ This build is very common in PuGs. It is part of a composition called PuG Meta. 
 
 The <Specialization name="Mechanist" text="Heal Alacrity Mechanist" /> provides permanent <Boon name="Might" />, <Boon name="Alacrity" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Vigor" />, as well as some <Boon name="Protection" />. It also has access to a small amount of <Boon name="Aegis" />, <Boon name="Stability" /> througt <Skill id="63293"/>.
 
-It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Super Elixir"/>, permanent <Boon name="Regeneration"/> and <Boon name="Vigor"/> that you get from <Skill name="Energizing Slam"/>. Whenever you use a Jade Golem skill it pumps out as well a small amount of healing when traited with <Trait name="Soothing Detonation"/>. You can also provide a huge amount of barrier with <Skill id="63141"/>, <Skill name ="Barrier Signet"/> and <Skill name="Barrier Blast"/> making it nearly permanent.
+It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Super Elixir"/>, permanent <Boon name="Regeneration"/> and <Boon name="Vigor"/> that you get from <Skill name="Energizing Slam"/>. Whenever you use a Jade Golem skill it pumps out as well a small amount of healing when traited with <Trait name="Soothing Detonation"/>. You can also provide a huge amount of barrier with <Skill id="63141"/>, <Skill name="Barrier Signet"/> and <Skill name="Barrier Blast"/> making it nearly permanent.
 
 <Divider text="Equipment"/>
 
@@ -196,7 +196,8 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
   ]
   }}
 >
-Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces but make sure you are maintaining as close to 100% <Attribute name="boon duration"/> as possible. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+Note that this build variant is optimized for 150 agony resistance. If you have more <Attribute name="Agony Resistance"/>, feel free to swap out more Harrier pieces but make sure you are maintaining as close to 100% <Attribute name="Boon Duration"/> as possible. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 </Character>
 </CharacterWithAr>
 
