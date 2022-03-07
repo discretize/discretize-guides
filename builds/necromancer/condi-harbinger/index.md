@@ -8,7 +8,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T22:25:55.191Z
+date: 2022-03-07T12:30:36.524Z
 ---
 <Warning>
 This is an early draft of the build page.
@@ -96,10 +96,12 @@ Due to being a condition based build, it will not benefit from slaying potions o
   "infusions": [
     86113,
     86113,
-    49432,
-    49432,
-    49432,
-    49432,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
     86113,
     86113,
     86113,
@@ -108,10 +110,8 @@ Due to being a condition based build, it will not benefit from slaying potions o
     86113,
     86113,
     86113,
-    86113,
-    86113,
-    49432,
-    49432
+    37130,
+    37130
   ],
   "weapons": {
     "weapon1MainType": "Pistol",
@@ -136,11 +136,11 @@ Due to being a condition based build, it will not benefit from slaying potions o
   "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}
 >
-This build uses the Jade Bot Core: Tier 10 (and the resulting conversion from <Trait name="Dark Gunslinger"/> ) in combination with 12 <Item name="Spiteful +9 Agony Infusion"/> to cap Bleeding Duration.
+This build uses the Jade Bot Core: Tier 10 (and the resulting conversion from <Trait name="Dark Gunslinger"/> ) in combination with 12 <Item id="86113"/> to cap Bleeding Duration.
 
-If you want to cap Bleeding Duration with a lower Tier core (or none), you will need extra <Item name="Spiteful +9 Agony Infusion"/>.
+If you want to cap Bleeding Duration with a lower Tier core (or none), you will need extra <Item id="86113"/>.
 
-You can also use <Item name="Malign +9 Agony Infusion"/> if you do not have the Spiteful ones for a minor DPS loss.
+You can also use <Item id="37130"/> if you do not have the Spiteful ones for a minor DPS loss.
 </Character>
 
 <Character title="Condi Quick Harbinger" gear={{
@@ -214,24 +214,24 @@ You can also use <Item name="Malign +9 Agony Infusion"/> if you do not have the 
   "runeId": 44956,
   "runeName": "Tormenting",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
     86113,
     86113,
     86113,
-    49432,
-    49432,
-    49432,
-    49432
+    37130,
+    37130,
+    37130,
+    37130
   ],
   "weapons": {
     "weapon1MainType": "Axe",
@@ -253,11 +253,11 @@ You can also use <Item name="Malign +9 Agony Infusion"/> if you do not have the 
     "eliteId": 10549
   }
 }} >
-This build gains enough boon duration from the <Item id="79722"/> combined with the <Attribute name="Vitality"/> to <Attribute name="Concentration"/> conversion from <Trait name="Twisted Medicine"/>. If you have a higher Tier Jade Bot Core, you will have more boon duration, and therefore more room for error in your rotation.
+This build gains enough boon duration from the <Item id="79722"/> combined with the <Attribute name="Vitality"/> to <Attribute name="Concentration"/> conversion from <Trait id="2220"/>. If you have a higher Tier Jade Bot Core, you will have more boon duration, and therefore more room for error in your rotation.
 
-If you are unable to keep up Quickness with this build, swap out Viper pieces for Ritualist until you can keep up Quickness on your group. Ritualist pieces are very effective at increasing your boon duration on this build due to <Trait name="Twisted Medicine"/> converting the <Attribute name="Vitality"/> into extra <Attribute name="Concentration"/>.
+If you are unable to keep up Quickness with this build, swap out Viper pieces for Ritualist until you can keep up Quickness on your group. Ritualist pieces are very effective at increasing your boon duration on this build due to <Trait id="2220"/> converting the <Attribute name="Vitality"/> into extra <Attribute name="Concentration"/>.
 
-This build uses 3 <Item name="Spiteful +9 Agony Infusion"/> to cap Torment Duration.
+This build uses 3 <Item id="86113"/> to cap Torment Duration.
 </Character>
 </CharacterWithAr>
 
