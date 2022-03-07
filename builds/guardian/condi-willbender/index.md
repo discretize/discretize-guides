@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-07T15:30:58.367Z
+date: 2022-03-07T15:32:09.136Z
 ---
 
 <Warning>
@@ -152,7 +152,7 @@ The <Specialization name="Willbender" text="Condition Willbender"/> is a strong 
     "utility2Id": 9187,
     "eliteId": 62561
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 9151, "type": "Skill"}]
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 9151, "type": "Skill"}, {"id": "jade-bot-per-tier", "value": 10, "type": "Text"}]
 }} 
 >
 
