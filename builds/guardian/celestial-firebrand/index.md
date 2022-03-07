@@ -24,7 +24,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 3
@@ -32,7 +32,7 @@ classification:
   - 3
   - 4
 date: 2022-03-06T22:08:03.204Z
-cmGuide: ""
+cmGuide: ''
 ---
 
 The **<Specialization text="Celestial Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
@@ -638,11 +638,13 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 5.  <Skill name="Symbol of Vengeance " profession="guardian"/> (Axe 2)
 6.  <Skill name="Zealots Fire" profession="guardian"/> (Torch 4) (Use twice if available)
 7.  <Skill name="Tome of Justice" profession="guardian"/> (F1)
-    1.  <TomeSkill name="Chapter 2: Ignite Burst"/>
-    2.  <TomeSkill name="Chapter 4: Scorched Aftermath"/>
-    3.  <TomeSkill name="Epilogue: Ashes of the Just"/>
-    4.  <TomeSkill name="Chapter 1: Searing Spell"/>
-    5.  <TomeSkill name="Chapter 2: Ignite Burst"/>
+
+    1. <TomeSkill name="Chapter 2: Ignite Burst"/>
+    2. <TomeSkill name="Chapter 4: Scorched Aftermath"/>
+    3. <TomeSkill name="Epilogue: Ashes of the Just"/>
+    4. <TomeSkill name="Chapter 1: Searing Spell"/>
+    5. <TomeSkill name="Chapter 2: Ignite Burst"/>
+
 8.  <Skill name="Cleansing Flame" profession="guardian"/> (Torch 5)
 9.  <Skill name="Zealots Flame" profession="guardian"/> (Torch 4)
 10. <Skill name="Zealots Fire" profession="guardian"/> (Torch 4)
