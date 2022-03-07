@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-06T23:24:41.754Z
+date: 2022-03-07T12:22:36.474Z
 ---
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
@@ -550,9 +550,10 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 | <Skill name="Null Field" size="big" disableText/>            | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
 | <Skill name="Signet of Inspiration" size="big" disableText/> | For precasting before the boss.                                                                                                                                                            |
 | <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
+| <Skill name="Signet of Humility" size="big" disableText/>              | Very high CC, can be casted while the boss is spawning in.                                                                                                                                                  |
 | **Skips**                                                    |                                                                                                                                                                                            |
-| <Skill name="Blade Leap" size="big" disableText/>            | A 600 leap (only availible as  <Specialization name="Virtuoso"/>                                                                                                              |
-| <Skill name="Returning Edge" size="big" disableText/>        | Useable after <Skill name="Blade Leap"/> to r return to your original location                                                                                                             |
+| <Skill name="Blade Leap" size="big" disableText/>            | A 600 leap (only availible as  <Specialization name="Virtuoso"/>)                                                                                                              |
+| <Skill name="Returning Edge" size="big" disableText/>        | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                             |
 | <Skill name="Portal Entre" size="big" disableText/>          | For skipping sections of the fractal for your party.                                                                                                                                    |
 | <Skill name="Blink" size="big" disableText/>                 | 1200 range blink, use it for skips!                                                                                                                                                        |
 | <Skill name="Mass Invisibility" size="big" disableText/>     | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
@@ -599,7 +600,7 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 
 |                                      |                             |
 | ------------------------------------ | --------------------------- |
-| <Skill name="Bladesong Dissonance"/> | 100 damage (per Blade)      |
+| <Skill name="Bladesong Dissonance"/> | 50 damage (per Blade)      |
 | <Skill name="Counter Blade"/>        | 200 damage                  |
 | <Skill name="Into the Void"/>        | 150 damage                  |
 | <Skill name="Signet of Humility"/>   | 600 damage                  |
@@ -625,39 +626,37 @@ It's important to note that phantasms do not benefit from most modifiers, unless
 They do however benefit from <Effect name="Exposed"/>.
 </Card>
 
-<Card title="Greatsword Golem Rotation">
-
-<Video caption="by Tipcat [CnD]" youtube="92FJUY1IKh4"/>
-</Card>
-
 <Card title="Precasting">
 
 At the Mistlock Singularity
 
-- Blast fire fields with <Skill name="The Prestige"/>.
-- Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
-- Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
-- Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
 - Make sure to start with 5 Blades. If you need use <Skill name="Blade Renewal"/> to replenish them.
+1. Blast fire fields with <Skill name="The Prestige"/>.
+2. Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
+3. Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
+4. Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
 
 At the boss (spawnable bosses)
 
-- You can precast <Skill name="The Prestige"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
+1. Cast <Skill name="Rain of Swords"/>. Skip this step if you did not use <Skill name="Mimic"/> at the singularity.
+2. You can precast <Skill name="The Prestige"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
+3. Cast <Skill name="Rain of Swords"/> (again).
+4. Start casting <Skill name="Signet of Humility"/> if the boss starts with a breakbar.
 
 At the boss (prespawned bosses)
 
-- You can precast <Skill name="Phantasmal Warlock"/> and then start your regular opener to regain Blades faster after using <Skill name="Bladesong Harmony"/>.
-
-**Optional**
-
-If you want to be more self-sufficient in fractals you can get a 100% boon duration set.
-
-Use <Skill name="Signet of Inspiration"/>. Precast <Skill name="Mimic"/> and take the singularity.
+- You can also precast <Skill name="Phantasmal Warlock"/>.
 
 </Card>
 </GridItem>
 
 <GridItem xs="12" sm="6">
+
+<Card title="Greatsword Golem Rotation">
+
+<Video caption="by Tipcat [CnD]" youtube="92FJUY1IKh4"/>
+</Card>
+
 <Card title="Opener">
 
 These is a basic opener, you will need to adapt this depending on the boss and cooldowns.
