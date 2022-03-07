@@ -18,7 +18,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-03-07T20:05:34.042Z
+date: 2022-03-07T20:05:50.252Z
 conditions:
   - Vulnerability
 cmGuide: pug
@@ -421,7 +421,7 @@ If you meet these requirements then you can swap Marksmanship for Skirmishing wi
 | <Skill id="12638" size="big" disableText/> | 150 damage (Axe 4)                                                          |
 | <Skill id="12475" size="big" disableText/> | 150 damage (Greatsword 5)                                                   |
 | <Skill id="12523" size="big" disableText/> | 150 damage (Greatsword 4 after a block)                                     |
-| <Skill id="41908" size="big" disableText/> | 200 damage (F2 in <Skill id="42944"/>)
+| <Skill id="41908" size="big" disableText/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
 | <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3) |
 
 </Card>
