@@ -6,9 +6,24 @@ role: Condi Damage
 profession: Necromancer
 specialization: Harbinger
 traits: []
-boons: []
+boons:
+  - name: Quickness
+    uptime: 25% (100% party in Quickness variant)
+    variant: self
+  - name: Fury
+    uptime: 100% (party in Quickness variant)
+    variant: self
+  - name: Might
+    uptime: 12-13 stacks (~6 party on DPS variant, 13 party on Quickness variant)
+    variant: self
+  - name: Swiftness
+    uptime: 55% (65% party in Quickness variant)
+    variant: self
+  - name: Regeneration
+    uptime: 45% (50% party on Quickness variant)
+    variant: self
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T17:19:38.840Z
+date: 2022-03-07T17:33:48.970Z
 ---
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
 
