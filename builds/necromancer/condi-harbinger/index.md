@@ -8,7 +8,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T13:24:53.816Z
+date: 2022-03-07T14:00:55.102Z
 ---
 <Warning>
 This is an early draft of the build page.
@@ -243,7 +243,8 @@ You can also use <Item id="37130"/> if you do not have the Spiteful ones for a m
   },
   "consumables": {
     "foodId": 12464,
-    "utilityId": 48917
+    "utilityId": 48917,
+    "infusion": "Malign +9 Agony Infusion"
   },
   "skills": {
     "healId": 62667,
@@ -251,7 +252,8 @@ You can also use <Item id="37130"/> if you do not have the Spiteful ones for a m
     "utility2Id": 62530,
     "utility3Id": 10544,
     "eliteId": 10549
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }} >
 This build gains enough boon duration from the <Item id="79722"/> combined with the <Attribute name="Vitality"/> to <Attribute name="Concentration"/> conversion from <Trait id="2220"/>. If you have a higher Tier Jade Bot Core, you will have more boon duration, and therefore more room for error in your rotation.
 
@@ -308,10 +310,12 @@ Some General Information:
 - Use <Skill name="Deathly Swarm"/> and <Skill name="Harbinger Shroud"/> (triggering <Trait name="Plague Sending"/>) to transfer Conditions you get from <Skill name="Blood is Power"/> and <Skill name="Plaguelands"/> to the boss.
 - Use all 3 Elixirs off-cooldown to keep up Blight. They have the same cooldown. Use <Skill name="Elixir of Promise"/> last to ensure you are using it at above the Blight threshold doubling the duration of the <Condition name="Poisoned"/> it applies.
 - Try to stay on Pistol as much as possible. Only swap to Scepter before going into <Skill name="Harbinger Shroud"/> to use <Skill name="Devouring Darkness"/> and <Skill name="Grasping Dead"/>. Use them again after exiting <Skill name="Harbinger Shroud"/> before swapping back to Pistol.
+- Fill any remaining gaps in the loops with Pistol auto-attacks.
+- <Skill name="Blood is Power"/> will recharge more often than you enter <Skill name="Harbinger Shroud"/>. Use extra charges in combination with <Skill name="Deathly Swarm"/>. Otherwise use <Skill name="Deathly Swarm"/> for <Skill name="Plaguelands"/> when it comes off-cooldown
 
 Precast:
-1. <Skill name="Elixir of Anguish"/>
-2. <Skill name="Elixir of Risk"/>
+1. <Skill name="Elixir of Risk"/>
+2. <Skill name="Elixir of Anguish"/>
 3. <Skill name="Elixir of Promise"/>
 
 Opener:
@@ -319,13 +323,45 @@ Opener:
 2. <Skill name="Devouring Darkness"/>
 3. Weapon swap
 4. <Skill name="Weeping Shots"/>
+5. <Skill name="Blood is Power"/>
 5. <Skill name="Harbinger Shroud"/>
 
 Shroud Rotation:
 1. <Skill name="Dark Barrage"/>
 2. <Skill name="Voracious Arc"/>
 3. <Skill name="Devouring Cut"/>
-4. <Skill name="Dark Barrage"/>
-5. <Skill name="Voracious Arc"/>
-6. <Skill name="Devouring Cut"/>
-7. <Skill name="Dark Barrage"/>
+4. 5x <Skill name="Tainted Bolts"/>
+5. <Skill name="Dark Barrage"/>
+6. 5x <Skill name="Tainted Bolts"/>
+7. <Skill name="Voracious Arc"/>
+8. <Skill name="Devouring Cut"/>
+9. <Skill name="Dark Barrage"/>
+10. <Skill name="Exit Harbinger Shroud"/>
+
+Loop 1:
+1. <Skill name="Weeping Shots"/>
+2. <Skill name="Vile Blast"/>
+3. <Skill name="Enfeebling Blood"/>
+4. <Skill name="Elixir of Risk"/>
+5. <Skill name="Elixir of Anguish"/>
+6. <Skill name="Elixir of Promise"/>
+7. <Skill name="Weeping Shots"/>
+8. Weapon Swap
+9. <Skill name="Devouring Darkness"/>
+10. <Skill name="Grasping Dead"/>
+11. <Skill name="Blood is Power"/>
+12. <Skill name="Harbinger Shroud"/>
+
+Loop 2:
+1. <Skill name="Devouring Darkness"/>
+2. <Skill name="Grasping Dead"/>
+3. Weapon Swap
+4. <Skill name="Weeping Shots"/>
+5. <Skill name="Vile Blast"/>
+6. <Skill name="Enfeebling Blood"/>
+7. <Skill name="Elixir of Risk"/>
+8. <Skill name="Elixir of Anguish"/>
+9. <Skill name="Elixir of Promise"/>
+10. <Skill name="Weeping Shots"/>
+11. <Skill name="Blood is Power"/>
+12. <Skill name="Harbinger Shroud"/>
