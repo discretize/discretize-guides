@@ -439,7 +439,7 @@ After the Opener and your first Shroud Rotation is done, the loop will be:
 <Card title="Precast (at singularity)">
 
 - Use as many Elixirs as possible to stack boons for yourself (and allies when running <Trait id="2220"/>).
-- You can also use <Skill name="Harbinger Shroud"/> to pre-stack more <Bonn name="Quickness"/> when running <Trait name="Deathly Haste"/>.
+- You can also use <Skill name="Harbinger Shroud"/> to pre-stack more <Boon name="Quickness"/> when running <Trait name="Deathly Haste"/>.
 
 </Card>
 

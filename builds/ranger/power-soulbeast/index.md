@@ -11,7 +11,7 @@ rating: Power Meta
 role: Power Damage
 profession: Ranger
 specialization: Soulbeast
-code: "[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
+code: '[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]'
 classification:
   - 5
   - 5
@@ -367,7 +367,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |                                                           |                                                                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Frost Trap" size="big" disableText/> | Your standard 3rd utility, dealing the most damage. For more info on when to run this read the CM-Guides!                                           |
+| <Skill name="Frost Trap" size="big" disableText/>         | Your standard 3rd utility, dealing the most damage. For more info on when to run this read the CM-Guides!                                     |
 | <Skill name="Signet of the wild" size="big" disableText/> | A replacement for <Skill name="Frost Trap"/>. For more info on when to run this read the CM-Guides!                                           |
 | <Skill name="Moa Stance" size="big" disableText/>         | Allows all boons that are applied during its uptime to last longer, great for prestacking.                                                    |
 | <Skill name="Quickening Zephyr" size="big" disableText/>  | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>. |
@@ -379,12 +379,12 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Card>
 <Card title="Pets">
 
-|                                            |                                                                                                                                                               |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
-| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                 |
-| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.         |
-| <Skill id="41908" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/>deals less damage than <SKill id="41524"/>       |
+|                                            |                                                                                                                                                                                         |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>.                           |
+| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                                           |
+| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.                                   |
+| <Skill id="41908" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/>deals less damage than <Skill id="41524"/> |
 
 </Card>
 </GridItem>
