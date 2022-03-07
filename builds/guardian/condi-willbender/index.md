@@ -21,14 +21,14 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: '[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-date: 2022-03-06T23:30:19.204Z
+date: 2022-03-07T15:03:06.739Z
 ---
 
 <Warning>
@@ -206,13 +206,12 @@ You will want the following weapons to swap to durning fractal runs:
 </GridItem>
 </Grid>
 
-<Divider text="Details"/>
-
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
 <GridItem sm="6">
 <Card title="Skill Priority">
+In general for fractals there is no set rotation for <Specialization name="Willbender" text="Condi Willbender"/>. Instead you want to adapt your rotation depending on phase length and cooldowns. You can use the skill priority list below to see what your most important skills are. In general though make sure to prioritise using <Skill name="Rushing Justice"/> to maintin <Skill id="62618"/> and aim for maximum uptime of <Trait name="lethal tempo"/>.
 
 1. <Skill name="Rushing Justice"/>
 2. <Skill name="Purging Flames"/>
@@ -232,15 +231,10 @@ You will want the following weapons to swap to durning fractal runs:
 <GridItem sm="6">
 <Card title="Golem rotation">
 
-<Video youtube="" caption=""/>
+<Video youtube="LtopRJ1py04" caption="by Support Hero"/>
 </Card>
 
 <Card title="Precasting">
-
-<Warning>
-
-The most important part is to get the precast of Ashes of the Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
-</Warning>
 
 1.  Use <Skill name="hallowedground"/>
 2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
