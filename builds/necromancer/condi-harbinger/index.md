@@ -8,7 +8,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T14:02:33.198Z
+date: 2022-03-07T14:20:37.366Z
 ---
 <Warning>
 This is an early draft of the build page.
@@ -300,6 +300,11 @@ Use this setup if you are responsible for providing Quickness to your group.
 
 <Divider text="Details"/>
 
+- <Effect name="Blight"/>
+- <Skill name="Harbinger Shroud"/> skills
+- Pistol skills
+- <Trait name="Plague Sending"/>
+
 <Divider text="Rotation"/>
 <Warning>
 This is not finished yet.
@@ -309,14 +314,31 @@ Some General Information:
 - Keep in mind that skills that inflict Bleeding over Torment have a slightly lower priority on the Quickness build due to being significantly below Bleeding Duration cap.
 - Use <Skill name="Deathly Swarm"/> and <Skill name="Harbinger Shroud"/> (triggering <Trait name="Plague Sending"/>) to transfer Conditions you get from <Skill name="Blood is Power"/> and <Skill name="Plaguelands"/> to the boss.
 - Use all 3 Elixirs off-cooldown to keep up Blight. They have the same cooldown. Use <Skill name="Elixir of Promise"/> last to ensure you are using it at above the Blight threshold doubling the duration of the <Condition name="Poisoned"/> it applies.
-- Try to stay on Pistol as much as possible. Only swap to Scepter before going into <Skill name="Harbinger Shroud"/> to use <Skill name="Devouring Darkness"/> and <Skill name="Grasping Dead"/>. Use them again after exiting <Skill name="Harbinger Shroud"/> before swapping back to Pistol.
+- Try to stay on Pistol as much as possible. Ideally you will never use a single auto-attack on Scepter. It is just for using <Skill name="Devouring Darkness"/> and <Skill name="Grasping Dead"/> before and after <Skill name="Harbinger Shroud"/>.
 - Fill any remaining gaps in the loops with Pistol auto-attacks.
 - <Skill name="Blood is Power"/> will recharge more often than you enter <Skill name="Harbinger Shroud"/>. Use extra charges in combination with <Skill name="Deathly Swarm"/>. Otherwise use <Skill name="Deathly Swarm"/> for <Skill name="Plaguelands"/> when it comes off-cooldown
 
-Precast:
-1. <Skill name="Elixir of Risk"/>
-2. <Skill name="Elixir of Anguish"/>
-3. <Skill name="Elixir of Promise"/>
+Precast (at singularity):
+- Use as many Elixirs as possible to stack boons for yourself (and allies when running <Trait id="2220"/>).
+- You can also use <Skill name="Harbinger Shroud"/> to pre-stack more <Bonn name="Quickness"/> when running <Trait name="Deathly Haste"/>.
+
+Rotation:
+
+After the Opener and your first Shroud Rotation is done, the loop will be:
+1. Pistol Rotation
+2. Weapon Swap
+3. <Skill name="Devouring Darkness"/>
+4. <Skill name="Grasping Dead"/>
+5. <Skill name="Blood is Power"/>
+6. <Skill name="Harbinger Shroud"/>
+7. Shroud Rotation
+8. <Skill name="Devouring Darkness"/>
+9. <Skill name="Grasping Dead"/>
+10. Weapon Swap
+11. Pistol Rotation
+12. <Skill name="Blood is Power"/>
+13. <Skill name="Harbinger Shroud"/>
+14. Shroud Rotation
 
 Opener:
 1. <Skill name="Plaguelands"/>
@@ -324,7 +346,7 @@ Opener:
 3. Weapon swap
 4. <Skill name="Weeping Shots"/>
 5. <Skill name="Blood is Power"/>
-5. <Skill name="Harbinger Shroud"/>
+6. <Skill name="Harbinger Shroud"/>
 
 Shroud Rotation:
 1. <Skill name="Dark Barrage"/>
