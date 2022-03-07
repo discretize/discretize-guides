@@ -11,7 +11,7 @@ conditions:
   - Vulnerability
 boons: []
 code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T16:43:45.554Z
+date: 2022-03-07T16:45:38.198Z
 ---
 The <Specialization name="Mechanist" text="Heal Alacrity Mechanist" /> provides a permanent amount of <Boon name="Might" />, <Boon name="Alacrity" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Vigor" /> as well as some <Boon name="Protection" />. It also has access to a small amount of <Boon name="Aegis" />, <Boon name="Stability" /> througt <Skill name="Crisis Zone"/>.
 
@@ -115,9 +115,6 @@ This build also has a lot of CCs but if your shield skills, <Skill name="Persona
     "weapon1MainSigil1Id": 72339,
     "weapon1OffType": "Shield",
     "weapon1OffSigilId": 74326,
-    "weapon2MainType": "Rifle",
-    "weapon2MainSigil1Id": 72339,
-    "weapon2MainSigil2Id": 74326
   },
   "consumables": {
     "foodId": 68634,
