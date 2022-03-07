@@ -11,14 +11,14 @@ rating: Power Meta
 role: Power Damage
 profession: Ranger
 specialization: Soulbeast
-code: '[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]'
+code: "[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 5
   - 3
   - 3
   - 4
-date: 2022-03-06T22:29:39.002Z
+date: 2022-03-07T20:00:34.547Z
 conditions:
   - Vulnerability
 cmGuide: pug
@@ -367,6 +367,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |                                                           |                                                                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Frost Trap" size="big" disableText/> | Your statndard 3rd utility, dealing the most damage. For more info on when to run this read the CM-Guides!                                           |
 | <Skill name="Signet of the wild" size="big" disableText/> | A replacement for <Skill name="Frost Trap"/>. For more info on when to run this read the CM-Guides!                                           |
 | <Skill name="Moa Stance" size="big" disableText/>         | Allows all boons that are applied during its uptime to last longer, great for prestacking.                                                    |
 | <Skill name="Quickening Zephyr" size="big" disableText/>  | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>. |
