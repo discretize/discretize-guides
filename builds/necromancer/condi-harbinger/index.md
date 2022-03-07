@@ -8,7 +8,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T12:30:36.524Z
+date: 2022-03-07T12:47:23.310Z
 ---
 <Warning>
 This is an early draft of the build page.
@@ -16,7 +16,7 @@ This is an early draft of the build page.
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group.
 
-<Specialization name="Harbinger" text="Condi Harbinger"/> can deal more DPS than a <Specialization name="Scourge" text="Condi Scourge"/> but is more squishy due to the Blight mechanic and offers less utility to the group when playing the full DPS variant. It can adapt the build to given encounters but will lose more DPS doing so than a <Specialization name="Scourge" text="Condi Scourge"/> would.
+<Specialization name="Harbinger" text="Condi Harbinger"/> can deal more DPS than a <Specialization name="Scourge" text="Condi Scourge"/> but offers less utility to the group when playing the full DPS variant. It can adapt the build to given encounters but will lose more DPS doing so than a <Specialization name="Scourge" text="Condi Scourge"/> would.
 
 Due to being a condition based build, it will not benefit from slaying potions or <Item name="Impact" type="Sigil"/>.
 
