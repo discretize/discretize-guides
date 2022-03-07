@@ -30,7 +30,7 @@ classification:
 compositions:
   - name: _CRGB
 code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T22:08:53.686Z
+date: 2022-03-07T19:36:19.663Z
 benchmark:
   small:
     dps: 36732
@@ -397,7 +397,7 @@ You will want the following weapons to swap to durning fractal runs:
 <GridItem sm="7">
 <Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Loremaster"/>
 
-If your team has a hard time applying <Condition name="Vulnerability"/> you can swap Virtues trait line with Zeal and replace <Skill name="purgingflames"/> with <Skill name="swordofjustice"/>. This will help you to maintain <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
+If your are playing solo you can swap Virtues trait line with Zeal and run <Skill name="swordofjustice"/>. This will help you to maintain <Boon name="Might"/> on yourself and <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
 
 <Warning>
 This build provides permanent <Boon name="Quickness"/>. For different variants, such as multiple DPS Firebrands or full DPS, please scroll down.
@@ -422,7 +422,7 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 
 |                                                         |                                                                                          |
 | ------------------------------------------------------- | --------------------------------------- |
-| <Skill name="Sword of Justice" size="big" disableText/> | When <Condition name="Vulnerability"/> is needed                                         |
+| <Skill name="Sword of Justice" size="big" disableText/> |  If your target doesn't have <Condition name="Vulnerability" text="25 stacks of Vulnerability"/>, this is a DPS increase! |
 | <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                                                      |
 | <Skill id="9125" size="big" disableText/>               | Deals an additional 200 defiance bar damage.                                             |
 | <Skill id="43357" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                                 |
