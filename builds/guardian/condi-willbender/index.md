@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-07T15:03:06.739Z
+date: 2022-03-07T15:03:52.516Z
 ---
 
 <Warning>
@@ -37,7 +37,7 @@ This build guide is not complete, gear and sections may chage regularly as we ex
 
 </Warning>
 
-The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC and mobility making it a strong choice for all groups. It alsocan easily slot more supportive utility skills allowing you to provide yourself and your party wwith <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects easily.
+The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC and mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party wwith <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
 
 <Divider text="Equipment"/>
 
