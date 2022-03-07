@@ -8,7 +8,7 @@ specialization: Harbinger
 traits: []
 boons: []
 code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T16:23:06.740Z
+date: 2022-03-07T16:48:21.434Z
 ---
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
 
@@ -297,7 +297,7 @@ Use this setup if you are responsible for providing Quickness to your group.
 <Divider text="Skills and Basics"/>
 <Grid>
 
-<GridItem sm="8">
+<GridItem sm="6">
 
 <Card title="Blight">
 - Using Elixir skills and staying in <Skill name="Harbinger Shroud"/> will inflict <Effect name="Blight"/> on you, reducing your maximum health by 1.5% per stack (up to 37.5% at 25 stacks).
@@ -307,19 +307,18 @@ Use this setup if you are responsible for providing Quickness to your group.
 
 </Card>
 
-<Card title="Elixirs">
-- Your auto-attack <Skill name="Vicious Shot"/> deals good damage and will be used to fill any gaps in the rotation.
-- 
-
-</Card>
-
 <Card title="Pistol skills">
-- Pistol skills
+- Your auto-attack <Skill name="Vicious Shot"/> deals good damage and will be used to fill any gaps in the rotation.
+- <Skill name="Weeping Shots"/> sends out multiple bullets and fills up Life Force for each bullet that hits an enemy. This skill also pierces which can be useful to help with the anomaly at Arkk as an example.
+- <Skill name="Vile Blast"/> fires a dart that, on impact, will explode and give you some Life Force per enemy hit and <Control name="Stun"/> as well as inflict <Condition name="Weakness"/> and <Condition name="Poisoned"/>.
 
 </Card>
 
-<Card title="Shroud">
-- <Skill name="Harbinger Shroud"/> skills
+<Card title="Harbinger Shroud">
+- Unlike on core <Specialization name="Necromancer"/> or <Specialization name="Reaper"/>, your <Skill name="Harbinger Shroud"/> will not absorb the damage for you while inside.
+- You can enter <Skill name="Harbinger Shroud"/> even at 0 Life Force since entering gives you 15% due to <Trait name="Corrupted Talent"/>.
+- While in <Skill name="Harbinger Shroud"/>, you constantly gain <Effect name="Blight"/> and drain Life Force.
+- 
 
 </Card>
 
@@ -333,7 +332,20 @@ Use this setup if you are responsible for providing Quickness to your group.
 
 </GridItem>
 
-<GridItem sm="4">
+<GridItem sm="6">
+
+
+<Card title="Elixirs">
+- As a <Specialization name="Harbinger"/> you gain access to Elixirs as utility skills.
+- Using an Elixir grants you Boons (that are shared with your allies when running <Trait name="Twisted Medicine"/>). Then the elixir will be thrown at your target location inflicting Conditions on your enemy.
+- If you are in the splash area of the Elixir, you gain <Effect name="Blight"/>.
+- If you are above the Blight threshold (5 for heal/utility, 10 for elite), you will lose this amount of <Effect name="Blight"/> to enhance the damage of the Elixir.
+- Using Elixirs will help us upkeep 
+- The most commonly used Elixirs are <Skill name="Elixir of Promise"/>, <Skill name="Elixir of Risk"/> and <Skill name="Elixir of Anguish"/> with <Skill name="Elixir of Promise"/> being the most interesting one for damage due to its <Condition name="Poisoned"/> application and the other 2 giving very useful boons.
+- <Skill name="Elixir of Bliss"/> can help cleansing conditions while <Skill name="Elixir of Ignorance"/> acts as a stun-break. However keep in mind that delaying your Elixirs also means delaying your <Effect name="Blight"/> application.
+
+</Card>
+
 <Card title="CC skills">
 
 | | |
