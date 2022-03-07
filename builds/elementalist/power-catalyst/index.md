@@ -18,7 +18,7 @@ rating: Good
 profession: Elementalist
 specialization: Catalyst
 code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T22:01:31.321Z
+date: 2022-03-07T21:07:02.427Z
 role: Power Damage
 conditions:
   - Burning
@@ -169,7 +169,7 @@ If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specia
 
 |                                                          |                                                                                                                                                                       |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Sphere Specialist" size="big" disableText/> | Taken if you want to provide <Boon name="Quickness"/>                                                                    |
+| <Trait name="Fresh Air" size="big" disableText/> | Will have a greater burst if playing <Specialization name="Catalyst" text="Quick Catalyst"/>                                                                    |
 | <Trait name="Raging Storm" size="big" disableText/>      | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
 | <Trait name="One with Air" size="big" disableText/>      | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Piñata Tonic"/>. |
 
@@ -235,85 +235,6 @@ If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specia
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
-</Card>
-
-<Card title="Rotation (Bolt to the Heart)">
-
-This is very wrong, borrowed a kind of loop from one of Rouls benchmarks just to see if the skills are working.
-
-<Grid>
-<GridItem sm="2">
-<Skill name="Air Attunement" size="large" disableText/>
-</GridItem>
-
-<GridItem sm="10">
-
-1.  <Skill name="Hurricane of Pain"/>
-
-2.  <Skill id="63439"/>
-
-3.  <Skill name="Grand Finale"/>
-
-4.  <Skill name="Wind Slam"/> x 2
-
-5.  <Skill name="Shock Blast"/>
-
-</GridItem>
-
-<GridItem sm="2">
-<Skill name="Fire Attunement" size="large" disableText/>
-</GridItem>
-
-<GridItem sm="10">
-
-1.  <Skill name="Triple Sear"/>
-
-2.  <Skill name="Firestorm"/>
-
-3.  <Skill name="Surging Flames"/>
-
-4.  <Skill id="63458"/>
-
-5.  <Skill name="Singeing Strike"/>
-
-6.  <Skill name="Relentless Fire"/>
-
-7.  <Skill name="Singeing Strike"/> x3
-
-8.  <Skill name="Molten End"/>
-
-9.  <Skill id="63458"/>
-
-</GridItem>
-
-<GridItem sm="2">
-<Skill name="Water Attunement" size="large" disableText/>
-</GridItem>
-
-<GridItem sm="10">
-
-1.  <Skill name="Rain of Blows"/>
-
-2.  <Skill name="Cleansing Typhoon"/>
-
-3.  <Skill name="Shattering Ice"/>
-
-4.  <Skill name="Crashing Font"/>
-
-</GridItem>
-
-<GridItem sm="2">
-<Skill name="Earth Attunement" size="large" disableText/>
-</GridItem>
-
-<GridItem sm="10">
-
-1.  <Skill name="Ground Pound"/>
-
-2.  <Skill name="Whirling Stones"/>
-
-</GridItem>
-</Grid>
 </Card>
 </GridItem>
 
