@@ -169,11 +169,11 @@ If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specia
 
 <Card title="Situational Traits">
 
-|                                                     |                                                                                                                                                                       |
-| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Fresh Air" size="big" disableText/>    | Will have a greater burst if playing <Specialization name="Catalyst" text="Quick Catalyst"/>                                                                          |
-| <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
-| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Piñata Tonic"/>. |
+|                                                     |                                                                                                                                                                   |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Fresh Air" size="big" disableText/>    | Will have a greater burst if playing <Specialization name="Catalyst" text="Quick Catalyst"/>                                                                      |
+| <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="endlesschoyapiatatonic"/>. |
 
 </Card>
 
