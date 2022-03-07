@@ -20,14 +20,14 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: '[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-date: 2022-03-06T22:21:40.585Z
+date: 2022-03-07T19:46:26.304Z
 ---
 
 <Warning>
@@ -36,7 +36,7 @@ This build guide is not complete, gear and sections may chage regularly as we ex
 
 </Warning>
 
-It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="62532"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>. It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+<Specialization name="Willbender" text="Power Willbender"/> has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="62532"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>. It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -554,7 +554,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 **Rotation:**
 
-This is wrong, just seeing if new skills show
+This is just a suggested opener. Depending on the encounter and the length of the phase you will want to start on different weapons and use different skills. <Specialization name="Willbender" text="Power Willbender"/> plays very similarly to <Specialization name="Dragonhunter" text="Power Dragonhunter"/>, if you need some ideas you can use the [Dragonhunter CM Guide](/cm-guides/guardian/power-dragonhunter/).
 
 1.  <Skill name="banesignet" profession="guardian"/>
 2.  <Skill name="Symbol of Blades" profession="guardian"/> (Sword 2)
