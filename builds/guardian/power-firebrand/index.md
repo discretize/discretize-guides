@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: "[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: static
 classification:
   - 5
@@ -489,11 +489,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Card title="Alternative Weapons">
 
 - Greatswords, Scepters, Swords with <Item name="Night" type="Sigil" disableText/>/<Item name="impact" type="Sigil" disableText/> and <Item name="Serpent Slaying" type="Sigil" disableText/>/<Item name="Impact" type="Sigil" disableText/>
-
 - Greatswords and foci with (see [Cheat Sheet](/guides/cheat-sheet))
-
 - Maces for symbol precast
-
 - Hammer and/or Staff for <Boon name="Might"/> stacking
 
 </Card>
@@ -526,49 +523,29 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 To keep up <Boon name="Quickness"/>:
 
 - Use <Skill name="Feel My Wrath"/> whenever ready
-
 - Use <Skill name="mantraofpotence"/> and <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
-
 - Only use these skills close to your allies - try to "puke" on them with the mantras
-
 - Keep in mind that equipping/stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
 The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-dragonhunter):
 
 - If the encounter allows you to, you can prestack the following symbols:
-
   - Equip Mace and precast <Skill name="Symbol of Faith"/>
-
   - Equip Scepter and precast <Skill name="Symbol of Punishment"/>
-
   - And finally, equip Sword and cast <Skill name="Symbol of Blades"/>
-
   - This way, when the encounter starts, 3 symbols will hit the target and get up your stacks of <Trait name="symbolicavenger"/>
-
 - On greatsword:
-
   - Use <Skill name="Symbol of Resolution"/>, you should cancel the aftercast with weapon stowing or simply moving
-
   - Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
-
 - On Sword:
-
   - Use <Skill name="Ray of Judgment"/>, try if possible to cancel the aftercast with weapon swap, stow or <Skill name="Symbol of Blades"/>
-
   - Use <Skill name="Symbol of Blades"/>
-
   - Use <Skill name="Zealots Defense"/>
-
   - <Skill name="Shield of Wrath"/> when you're not receiving hits - use it shortly before breaking defiance bars. Can also be used to help with stacking <Boon name="Might"/>
-
 - Apart from that:
-
   - <Skill name="Bane Signet"/> to break defiance bars and provide the group with a temporary 216 <Attribute name="Power"/> buff
-
   - <Skill id="9226"/> (after <Skill id="9147"/>) is nice CC skill as well
-
   - <Skill name="Sword of Justice"/> for additional DPS and vulnerability. Also provides 3 seconds of <Condition name="Crippled"/>
-
   - Scepter plays the same as the sword, just without <Skill name="Zealots Defense"/>
 
 Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
@@ -578,33 +555,19 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 </p>
 
 - <Skill name="Tome of Justice"/> (F1):
-
   - <TomeSkill name="chapterscorchedaftermath"/> is a ticking AoE, good for single target and great for AoE DPS, provides fire field so make sure to use it before the fight to stack some might
-
   - <TomeSkill name="epilogue ashes of the just"/> makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
-
   - <TomeSkill name="Chapter 3: Heated Rebuke"/> is an AoE pull (150 defiance bar damage)
-
   - Often these skills are used as an opener
-
 - <Skill name="Tome of Resolve"/> (F2):
-
   - Skill 2 is a party condition cleanse
-
   - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
-
   - Skill 4 is a good party heal
-
   - Skill 5 increases healing on allies for 8s by 33% and converts up to 5 conditions to boons
-
 - <Skill name="Tome of Courage"/> (F3):
-
   - Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
-
   - Skill 3 is a 5s reflect
-
   - Skill 4 grants <Boon name="Resistance"/> and breaks stun
-
   - Skill 5 grants <Boon name="Aegis"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and 300 toughness for 5 seconds
 
 <Divider text="Rotation / Skill Usage"/>
@@ -629,19 +592,12 @@ For that reason you can find a video with openers, that are efficient to use her
 If you have a _Mistlock Singularity_ present you can use these skills for precasts:
 
 1.  Cast <Skill name="tome of justice"/>: <TomeSkill name="chapterscorchedaftermath"/> and <TomeSkill name="Epilogue: Ashes of the just"/>
-
 2.  Blast the fire field by casting <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
-
 3.  Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
-
 4.  Use <Skill name="Stand your ground"/> or <Skill name="saveyourselves"/>
-
 5.  Use <Skill name="Feelmywrath"/>
-
 6.  Use <Skill name="banesignet"/>
-
 7.  Take _Mistlock Singularity_
-
 8.  Use <Skill name="Feelmywrath"/>
 
 </Card>
@@ -653,29 +609,17 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 **Scepter/Sword Rotation:**
 
 1.  <Skill name="banesignet" profession="guardian"/>
-
 2.  <Skill name="Sword of Justice" profession="guardian"/>
-
 3.  <Skill name="Symbol of Punishment" profession="guardian"/> (Scepter/Sword 2)
-
 4.  <Skill name="Sword of Justice" profession="guardian"/>
-
 5.  <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
-
 6.  <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
-
 7.  **Weapon Swap**
-
 8.  <Skill name="Sword of Justice" profession="guardian"/>
-
 9.  <Skill name="Symbol of Resolution " profession="guardian"/> (GS 4)
-
 10. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
-
 11. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
-
 12. <Skill name="Binding Blade" profession="guardian"/> (GS 5)
-
 13. If the phase lasts longer than this, continue with the SC rotation.
 
 </Card>
@@ -694,13 +638,8 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the power variant. If you still want to play <Specialization text="Power Quickness Firebrand" name="Firebrand"/> for whatever reason follow these rough guidelines.
 
 - Open with <Skill name="refraction"/> for <Boon name="resolution"/>
-
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
-
 - Priority list:
-
   1.  <Skill name="Zealots flurry"/> (Spear 2)
-
   2.  <Skill name="Symbol of spears"/> (Spear 4)
-
   3.  <Skill name="brilliance"/> (Spear 3)
