@@ -42,7 +42,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-07T22:46:04.770Z
+date: 2022-03-08T00:33:49.588Z
 ---
 <Warning>
 
@@ -52,7 +52,7 @@ This build is very common in PuGs. It is part of a composition called PuG Meta. 
 
 The <Specialization name="Mechanist" text="Heal Alacrity Mechanist" /> provides permanent <Boon name="Might" />, <Boon name="Alacrity" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Vigor" />, as well as some <Boon name="Protection" />. It also has access to a small amount of <Boon name="Aegis" />, <Boon name="Stability" /> througt <Skill id="63293"/>.
 
-It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Super Elixir"/>, permanent <Boon name="Regeneration"/> and <Boon name="Vigor"/> that you get from <Skill name="Energizing Slam"/>. Whenever you use a Jade Golem skill it pumps out as well a small amount of healing when traited with <Trait name="Soothing Detonation"/>. You can also provide a huge amount of barrier with <Skill id="63141"/>, <Skill name ="Barrier Signet"/> and <Skill name="Barrier Blast"/> making it nearly permanent.
+It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Super Elixir"/>, permanent <Boon name="Regeneration"/> and <Boon name="Vigor"/> that you get from <Skill name="Energizing Slam"/>. Whenever you use a Jade Golem skill it pumps out as well a small amount of healing when traited with <Trait name="Soothing Detonation"/>. You can also provide a huge amount of <Effect name="barrier"/> with <Skill id="63141"/>, <Skill name="Barrier Signet"/> and <Skill name="Barrier Blast"/> maintaing a near permanant uptime on your party.
 
 <Divider text="Equipment"/>
 
@@ -234,7 +234,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="Experimental Turrets" size="big" disableText/>   | Taken if you are running turret skills. Grant boons depending on the deployed skills. |
 | <Trait name="Purity of Purpose" size="big" disableText/>   | Useful on condi heavy and boonstrip heavy encounters to mass condi cleans and generate boons. |
-| <Trait name="Gyroscopic Aceleration" size="big" disableText/>   | In the <Specialization name="Scrapper"/> traitline. Useful to give <Effect name="superspeed"/> for movement and skips. |
+| <Trait name="Gyroscopic Acceleration" size="big" disableText/>   | In the <Specialization name="Scrapper"/> traitline. Useful to give <Effect name="superspeed"/> for movement and skips. |
 
 </Card>
 
