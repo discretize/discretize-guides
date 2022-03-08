@@ -28,7 +28,7 @@ date: 2022-03-07T19:27:34.625Z
 
 <Warning>
 
-This build guide is not complete, gear and sections may chage regularly as we explore the new elite spec and spend more time playing it in fractals!
+This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
 
 </Warning>
 
