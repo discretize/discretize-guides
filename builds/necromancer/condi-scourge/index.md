@@ -29,7 +29,7 @@ classification:
   - 4
   - 2
   - 3
-date: 2022-03-06T22:24:37.724Z
+date: 2022-03-08T00:30:26.491Z
 benchmark:
   small:
     dps: 37044
@@ -71,47 +71,55 @@ Due to being a condition based build, it will not benefit as highly from slaying
         "Viper",
         "Viper"
       ],
-    "attributes": {
-      "Health": 19212,
-      "Armor": 2210,
-      "Power": 2923,
-      "Precision": 2056,
-      "Toughness": 1243,
-      "Vitality": 1000,
-      "Ferocity": 150,
-      "Condition Damage": 2837,
-      "Expertise": 1036,
-      "Concentration": 468,
-      "Healing Power": 0,
-      "Agony Resistance": 162,
-      "Condition Duration": 0.8906666666666667,
-      "Boon Duration": 0.312,
-      "Critical Chance": 0.9528571428571428,
-      "Critical Damage": 1.6,
-      "Bleeding Duration": 0.2,
-      "Effective Power": 7264.453605357143,
-      "Power DPS": 3930.1337372070793,
-      "Bleeding Damage": 312.3575,
-      "Bleeding Stacks": 41.2,
-      "Bleeding DPS": 12869.129,
-      "Burning Damage": 927.444375,
-      "Burning Stacks": 6.428266666666667,
-      "Burning DPS": 5961.859761,
-      "Confusion Damage": 368.14862500000004,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 331.045,
-      "Poison Stacks": 6.995466666666667,
-      "Poison DPS": 2315.8142626666668,
-      "Torment Damage": 583.2328125,
-      "Torment Stacks": 26.847466666666666,
-      "Torment DPS": 15658.3234925,
-      "Damage": 40735.260253373744,
-      "Effective Health": 84494567.16417912,
-      "Survivability": 42956.05854813376,
-      "Effective Healing": 390,
-      "Healing": 390
-    },
+  "attributes": {
+    "Health": 19212,
+    "Armor": 2210,
+    "Power": 2923,
+    "Precision": 2056,
+    "Toughness": 1243,
+    "Vitality": 1000,
+    "Ferocity": 150,
+    "Condition Damage": 2811,
+    "Expertise": 964,
+    "Concentration": 468,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.8426666666666667,
+    "Boon Duration": 0.312,
+    "Critical Chance": 0.9528571428571428,
+    "Critical Damage": 1.6,
+    "Power Coefficient": 1405,
+    "Burning Coefficient": 3.4,
+    "Bleeding Coefficient": 20.6,
+    "Poison Coefficient": 3.7,
+    "Torment Coefficient": 14.2,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Torment Duration": 0.15,
+    "Bleeding Duration": 0.2,
+    "Effective Power": 7264.453605357143,
+    "Power DPS": 3930.1337372070793,
+    "Bleeding Damage": 309.8225,
+    "Bleeding Stacks": 41.2,
+    "Bleeding DPS": 12764.687,
+    "Burning Damage": 920.8956249999999,
+    "Burning Stacks": 6.265066666666667,
+    "Burning DPS": 5769.472483666666,
+    "Confusion Damage": 365.233375,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 328.51,
+    "Poison Stacks": 6.817866666666667,
+    "Poison DPS": 2239.7373786666667,
+    "Torment Damage": 578.4796875,
+    "Torment Stacks": 28.295866666666665,
+    "Torment DPS": 16368.584106874998,
+    "Damage": 41072.614706415414,
+    "Effective Health": 84494567.16417912,
+    "Survivability": 42956.05854813376,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
       "runeId": 24848,
       "runeName": "Nightmare",
       "infusions": [
@@ -130,8 +138,8 @@ Due to being a condition based build, it will not benefit as highly from slaying
         "weapon2OffSigil": "torment"
       },
       "consumables": {
-        "foodId": 91878,
-        "utility": "toxic-focusing-crystal",
+      "foodId": 95942,
+      "utilityId": 9476,
         "infusion": "Malign +9 Agony Infusion"
       },
       "skills": {
@@ -146,8 +154,8 @@ Due to being a condition based build, it will not benefit as highly from slaying
 
 Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. Situational Runes:
 
+- <Item id="24688"/> can be purchased from the trading post and are a minor dps loss compared to <Item id="24848"/>
 - <Item id="83502" /> works best for using and utilizing <Skill name="Epidemic" />, as its damage will be maximized with this rune. Note that you will have a loss of condition duration with this rune choice.
-- <Item id="44956" /> provides a large boost to personal survivability on top of your barrier generation at the cost of a minor DPS loss.
 
 </Character>  
 </CharacterWithAr>
