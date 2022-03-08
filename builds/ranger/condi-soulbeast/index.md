@@ -20,7 +20,7 @@ compositions:
     composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
 specialization: Soulbeast
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T22:26:42.922Z
+date: 2022-03-08T00:22:00.356Z
 conditions:
   - Bleeding
   - Poisoned
@@ -323,67 +323,36 @@ The rotation in general is very simple, just keep rotating between your Shortbow
 <Card title="Shortbow Golem Rotation">
 
 1.  <Skill name="Vipers Nest"/>
-
 2.  <Skill name="One Wolf Pack"/>
-
 3.  <Skill name="Poison Volley"/>
-
 4.  <Skill name="Crippling Shot"/>
-
 5.  <Skill name="Concussion Shot"/>
-
 6.  `Weapon Swap`
-
 7.  <Skill name="Vulture Stance"/> + <Skill name="Sharpening Stone"/>
-
 8.  <Skill name="Double Arc"/>
-
 9.  <Skill name="Throw Torch"/>
-
 10. <Skill name="Bonfire"/>
-
 11. <Skill id="44514"/>
-
 12. <Skill name="Primal Cry"/>
-
 13. `Autoattack chain x2`
-
 14. <Skill name="Double Arc"/>
-
 15. `Autoattack chain x3`
-
 16. <Skill name="Double Arc"/>
-
 17. <Skill name="Throw Torch"/>
-
 18. `Weapon Swap`
-
 19. <Skill name="Poison Volley"/>
-
 20. <Skill name="Crippling Shot"/>
-
 21. `Autoattack`
-
 22. <Skill id="44514"/>
-
 23. `Autoattack`
-
 24. <Skill name="Concussion Shot"/>
-
 25. <Skill name="Poison Volley"/>
-
 26. `Autoattack`
-
 27. <Skill name="Primal Cry"/>
-
 28. `Autoattack`
-
 29. <Skill name="Poison Volley"/>
-
 30. `Autoattack`
-
 31. <Skill name="Crippling Shot"/>
-
 32. Repeat from `Step 5`
 
 </Card>
