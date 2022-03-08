@@ -42,7 +42,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-08T00:35:00.687Z
+date: 2022-03-08T00:37:49.244Z
 ---
 <Warning>
 
@@ -155,7 +155,7 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
   "consumables": {
     "foodId": 91690,
     "utilityId": 67528,
-    "Infusion": "Healing +9 Agony Infusion"
+    "infusion": "Healing +9 Agony Infusion"
   },
   "skills": {
     "healId": 5802,
@@ -276,7 +276,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 </Card>
 </GridItem>
 </Grid>
-
+{/*
 <Card title="Kits">
 
 Activating a Tome will replace your weapon skills and grant you 5 skill usages in the Tome. You can also leave the Tome early though.
@@ -407,3 +407,4 @@ Tomes also have the passive effect from the Virtues. Through <Trait name="Lorema
   opening this Tome will also cleanse conditions.
 
 </Card>
+*/}
