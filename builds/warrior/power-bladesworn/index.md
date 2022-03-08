@@ -27,7 +27,7 @@ date: 2022-03-08T00:10:31.886Z
 
 <Warning>
 
-This build guide is not complete, gear and sections may chage regularly as we explore the new elite spec and spend more time playing it in fractals!
+This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
 
 </Warning>
 
@@ -390,8 +390,7 @@ For that reason you can find a video with openers, that are efficient to use her
 - Stack <Boon name="Might"/>:
   - Use both charges of <Skill name="For Great Justice!"/>.
   - Drop a fire field with <Skill name="Flames of War"/>.
-  - (if available) blast with banners for a total of 6 stacks of <Boon name="Might"/>
-  - Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand warhorn.
+  - Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand Warhorn to blast <Boon name="Might"/>.
 - Precast damage skills:
   - (optional) <Skill name="Flames of War"/>
   - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
