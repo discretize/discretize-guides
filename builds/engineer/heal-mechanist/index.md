@@ -42,7 +42,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-08T00:33:49.588Z
+date: 2022-03-08T00:35:00.687Z
 ---
 <Warning>
 
@@ -318,7 +318,7 @@ Tomes also have the passive effect from the Virtues. Through <Trait name="Lorema
 - When running Virtues entering this Tome also cleanses conditions.
 - Common rotations in this Tome are 2-5-4-1-2 for maximum sustained healing or 5-4-2-1-1 for maximum burst healing.
 
-<Skill name="Mortar Kit" />:
+<Skill name="Elite Mortar Kit"/>:
 
 - Use this Tome for massive <Boon name="Stability"/>, <Boon name="Resistance"/> or a reflect.
 - <TomeSkill name="Chapter 1: Unflinching Charge"/> grants <Boon name="Stability"/>.
