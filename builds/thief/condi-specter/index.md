@@ -14,7 +14,7 @@ conditions:
   - Bleeding
   - Torment
 boons: null
-cmGuide: ''
+cmGuide: ""
 classification:
   - 3
   - 3
@@ -22,8 +22,8 @@ classification:
   - 3
   - 3
 compositions: null
-code: '[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-03-03T18:47:16.210Z
+code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-03-07T19:27:34.625Z
 ---
 
 <Warning>
@@ -32,15 +32,9 @@ This build guide is not complete, gear and sections may chage regularly as we ex
 
 </Warning>
 
-<Warning>
+The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. The value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target.
 
-This build is [META](/guides/meta-explained) in condi comps. In terms of DPS, it is unlikely to fall behind any other specialization, whether they be running a power or condi build, as it has very high sustained DPS on single targets.
-
-> a condi build will always have a tendency to interfere with a power composition, as it is not meant to have a higher upfront or burst damage, but both of these builds will do a lot of burst damage as well. It is worth mentioning that _Venom Skills_ are very strong in that regard, and precasting them on the _Mistlock Singularity_ will allow for a very high burst, quite uncommon for condi builds but very valuable.
-
-</Warning>
-
-The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. tThe value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target. At the same time it can generate barrier, heal and provide boons by targeting allied players.
+At the same time it can generate large amounts of <Effect name="Barrier"/> for your party, some healing and a small amount of <Boon name="Might"/> and <Boon name="Swiftness"/> by targeting allied players.
 
 <Divider text="Equipment"/>
 
@@ -56,30 +50,30 @@ The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS cond
     "Viper",
     "Viper",
     "Viper",
+    "Sinister",
     "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
+    "Sinister",
+    "Sinister",
     "Viper",
     "Viper",
     "Viper"
   ],
   "attributes": {
-    "Health": 11645,
+    "Health": 13145,
     "Armor": 2361,
-    "Power": 2923,
-    "Precision": 1876,
+    "Power": 2866,
+    "Precision": 1955,
     "Toughness": 1243,
-    "Vitality": 1000,
+    "Vitality": 1150,
     "Ferocity": 150,
-    "Condition Damage": 2525,
-    "Expertise": 983,
+    "Condition Damage": 2548,
+    "Expertise": 779,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.6553333333333333,
+    "Condition Duration": 0.5193333333333333,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.6671428571428571,
+    "Critical Chance": 0.7047619047619047,
     "Critical Damage": 1.6,
     "Power Coefficient": 2111,
     "Burning Coefficient": 0.55,
@@ -89,28 +83,28 @@ The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS cond
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Torment Duration": 0.5,
-    "Poison Duration": 0.33,
+    "Poison Duration": 0.48,
     "Outgoing Healing": 0.2,
-    "Effective Power": 8006.5906946999985,
-    "Power DPS": 6508.245266273275,
-    "Bleeding Damage": 278.4675,
-    "Bleeding Stacks": 4.4694,
-    "Bleeding DPS": 1244.5826445,
-    "Burning Damage": 838.4118749999999,
-    "Burning Stacks": 0.9104333333333334,
-    "Burning DPS": 763.3181180624999,
-    "Confusion Damage": 329.06512499999997,
+    "Effective Power": 7977.000851999997,
+    "Power DPS": 6484.192837340005,
+    "Bleeding Damage": 280.6824,
+    "Bleeding Stacks": 4.102200000000001,
+    "Bleeding DPS": 1151.4153412800001,
+    "Burning Damage": 844.1337,
+    "Burning Stacks": 0.8356333333333335,
+    "Burning DPS": 705.3862575100001,
+    "Confusion Damage": 331.61226,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 394.91024999999996,
-    "Poison Stacks": 41.056693333333335,
-    "Poison DPS": 16213.70902844,
-    "Torment Damage": 498.93029999999993,
+    "Poison Damage": 397.85606699999994,
+    "Poison Stacks": 41.34621333333333,
+    "Poison DPS": 16449.841822142957,
+    "Torment Damage": 502.91711999999995,
     "Torment Stacks": 45.34,
-    "Torment DPS": 22621.499802,
-    "Damage": 47351.35485927577,
-    "Effective Health": 68392649.25373136,
-    "Survivability": 34770.0301239102,
+    "Torment DPS": 22802.2622208,
+    "Damage": 47593.09847907296,
+    "Effective Health": 77202350.74626867,
+    "Survivability": 39248.780247213355,
     "Effective Healing": 468,
     "Healing": 468
   },
@@ -138,17 +132,17 @@ The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS cond
   ],
     "weapons": {
       "weapon1MainType": "Scepter",
-      "weapon1MainSigil": "Torment",
+      "weapon1MainSigil1": "Doom",
       "weapon1OffType": "Dagger",
-      "weapon1OffSigil": "Doom",
+      "weapon1OffSigil": "Torment",
       "weapon2MainType": "Scepter",
-      "weapon2MainSigil": "Doom",
+      "weapon2MainSigil1": "Doom",
       "weapon2OffType": "Pistol",
       "weapon2OffSigil": "Paralyzation"
     },
     "consumables": {
-      "foodId": 91878,
-      "utility": "tuning-icicle",
+      "foodId": 97422,
+      "utilityId": 48917,
       "infusion": "Malign +9 Agony Infusion"
     },
     "skills": {
@@ -157,14 +151,17 @@ The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS cond
       "utility2": "Skale Venom",
       "utility3": "Spider Venom",
       "elite": "Basilisk Venom"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"id": "jade-bot-per-tier", "value": 10, "type": "Text"}]
   }}
 >
 
 If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
 
 The <Skill name="skelkvenom"/> is a much better option to support your party as it brings a tremendous amount of party heal.
-It's recommended to run a shortbow for additional movement during downtime and <Boon name="might"/> blasts on the _Mistlock Singularity_. You will also want a Pistol with <Item id="24639"/> to help CC during Artsariiv splits.
+It's recommended to run a shortbow for additional movement during downtime and <Boon name="might"/> blasts on the _Mistlock Singularity_.
+
+If you do not need the extra CC you can run a Dagger with <Item id="48911"/> instead of Pistol in your second weapon set.
 
 </Character>  
 </CharacterWithAr>
@@ -173,21 +170,20 @@ It's recommended to run a shortbow for additional movement during downtime and <
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Trickery" traits1Selected="Thrill of the Crime,Pressure Striking,Quick Pockets" traits2="Deadly Arts" traits2Selected="Deadly Ambition,Panic Strike,Potent Poison" traits3="Specter" traits3Selected="Consume Shadows,Larcenous Torment,Strength of Shadows"/>
+<Card title="Traits">
+<Traits unembossed traits1="Trickery" traits1Selected="Thrill of the Crime,Pressure Striking,Quick Pockets" traits2="Deadly Arts" traits2Selected="Deadly Ambition,Panic Strike,Potent Poison" traits3="Specter" traits3Selected="Consume Shadows,Larcenous Torment,Strength of Shadows"/>
 
-</GridItem>
+### No Pain, No Gain Variant
 
-<GridItem sm="5">
+<Trait id="1277"/> over <Trait id="1190"/> on <Instability name="No Pain, No Gain"/> days, or when boonstrip is needed.
+<Traits traits1="Trickery" traits1Selected="Thrill of the Crime,Bountiful Theft,Quick Pockets" unembossed/>
 
-<Card title="Situational Skills">
+### Alacrity Variant
 
-|                                                       |                                                                                                                                              |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="13026" size="big" disableText/>            | A situational damage ability, to take over <Skill name="devourervenom"/> on stationary targets.                                              |
-| <Skill name="signetofmalice" size="big" disableText/> | Highest sustained healing.                                                                                                                   |
-| <Skill name="skelkvenom" size="big" disableText/>     | Best party healing.                                                                                                                          |
-| <Skill id="13020" size="big" disableText/>            | Taken over <Skill name="Prepare Thousand Needles"/> when extra CC is needed (particularly useful on MAMA).                                   |
-| <Skill id="13082" size="big" disableText/>            | Taken for extra personal DPS, when CC isn't needed. Can also be precasted on the mistlock before swapping to <Skill name="Basilisk Venom"/>, |
+Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alacrity"/> source. You will need to adjust your gear using the [gear optimizer](https://optimizer.discretize.eu/) to gain at least 43% <Attribute name="Boon Duration"/> if you want to upkeep it permanantly.
+
+<Traits traits1="Specter" traits1Selected="Consume Shadows,Traversing Dusk,Strength of Shadows" unembossed/>
+<Skills heal="Well of Gloom" utility1="Well of Bounty" utility2="Well of Sorrow" utility3="Spider Venom" elite="Basilisk Venom" unembossed/>
 
 </Card>
 <Card title="Defiance Bar Damage">
@@ -195,10 +191,25 @@ It's recommended to run a shortbow for additional movement during downtime and <
 |                                            |                                                        |
 | ------------------------------------------ | ------------------------------------------------------ |
 | <Skill id="13132" size="big" disableText/> | 150 Defiance bar damage per ally (Up to 750 CC).       |
+| <Skill name="Mind Shock" size="big" disableText/> | 150 Defiance bar damage                         |
 | <Skill id="13020" size="big" disableText/> | 150 Defiance bar damage.                               |
 | <Skill id="13012" size="big" disableText/> | 200 Defiance bar damage (260 with <Item id="24639"/>). |
 | <Skill id="13019" size="big" disableText/> | <Condition name="Crippled"/> 15/s Defiance bar damage. |
 | <Skill id="13093" size="big" disableText/> | <Condition name="Immobile"/> 50/s Defiance bar damage. |
+
+</Card>
+</GridItem>
+<GridItem sm="5">
+
+<Card title="Situational Skills">
+
+|                                                       |                                                                                                                                              |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill id="13093" size="big" disableText/>            | A situational damage ability, to take over <Skill name="Thousand Needles"/> on moving targets.                                              |
+| <Skill name="signetofmalice" size="big" disableText/> | Highest sustained healing.                                                                                                                   |
+| <Skill name="skelkvenom" size="big" disableText/>     | Best party healing.                                                                                                                          |
+| <Skill id="13020" size="big" disableText/>            | Taken over <Skill name="Prepare Thousand Needles"/> when extra CC is needed (particularly useful on MAMA).                                   |
+| <Skill id="13082" size="big" disableText/>            | Taken for extra personal DPS, when CC isn't needed. Can also be precasted on the mistlock before swapping to <Skill name="Basilisk Venom"/>, |
 
 </Card>
 
@@ -220,41 +231,33 @@ It's recommended to run a shortbow for additional movement during downtime and <
 </GridItem>
 </Grid>
 
-<Divider text="Build Variants"/>
-
-### No Pain, No Gain Variant
-
-<p>
-<Trait id="1277"/> over <Trait id="1190"/> on <Instability name="No Pain, No Gain"/> days, or for some more support.
-</p>
-
-<Grid>
-<GridItem sm="4">
-<Skills heal="Hide in Shadows" utility1="Thousand Needles" utility2="Skale Venom" utility3="Spider Venom" elite="Basilisk Venom" unembossed/>
-</GridItem>
-
-<GridItem sm="8">
-<Traits traits1="Trickery" traits1Selected="Thrill of the Crime,Bountiful Theft,Quick Pockets" unembossed/>
-</GridItem>
-</Grid>
-
-<Divider text="Details"/>
-
-Watching videos of players performing the rotation for this build, one might think that it is easy to play; after all, the **<Specialization text="Thief" name="Thief"/>** tends to have spammy rotations, for the same reason mentioned before. The _Initiative_ system allows for multiple, redundant casts of the same ability, during the entire duration of the fight. It is easy to see that one ability will always perform better than other ones, based on the ratio of damage dealt over _Initiative_ points spent. Here are a the main reasons as to why this rotation isn't actually as easy as it looks, as well as some tips to master the rotation, depending on the encounter.
-
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
 <GridItem sm="6">
 <Card title="Rotation">
+There is no set rotation for <Specialization name="Specter" text="Condi Specter"/>, your rotation comes from skill priority. Your main aim when playing <Specialization name="Specter" text="Condi Specter"/> is to never have full Initiative, cast utility skills of cooldown and proc <Trait name="Quick Pockets"/> and <Item id="24609"/> as often as possible.
+
+You should be casting your <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Thousand Needles"/> off cooldown (unless a phase is about to end).
+
+On Scepter/Dagger you want to use:
+- <Skill name="Twilight Combo"/>
+- <Skill name="Shadow Bolt"/>, <Skill name="Double Bolt"/>, <Skill name="Triple Bolt"/>
+
+You should also be weapon swapping off cooldown if you are not playing Pistol to make the best use of <Trait name="Quick Pockets"/> and <Item id="24609"/>
+
+In <Skill name="Enter Shadow Shroud" text="Shadow Shorud"/> you want to use:
+- <Skill name="Mind Shock"/> (Skill 5)
+- <Skill name="Eternal Night"/> (Skill 4)
+- <Skill name="Grasping Shadows"/> (Skill 2)
+- <Skill name="Haunt SHot"/> (Skill 1)
 
 </Card>
 </GridItem>
 
 <GridItem sm="6">
 <Card title="Golem rotation">
-
-<Video youtube="" caption=""/>
+<Video youtube="7ZjQJmms_Dw" caption="by Incera"/>
 </Card>
 
 <Card title="Precasting">
@@ -262,7 +265,6 @@ Watching videos of players performing the rotation for this build, one might thi
 All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown. This is possible on Skorvald, Artsariiv, Arkk, MAMA and Ensolyss with the use of a <Item name="White Mantle Portal Device"/>, or on Siax without. It is also possible on the Sorrowful Spellcaster (Light & Dark Ai), but with a 1/4 chance of success.
 
 - On 100CM, make sure to precast venoms on your <Skill id="13082"/> minions, as every boon and special ability effect currently on you will be stripped upon starting the encounter.
-
 - Spam <Skill name="clusterbomb"/> for <Boon name="might"/> blasts on the _Mistlock Singularity_.
 
 </Card>

@@ -6,19 +6,19 @@ skills:
   - 12638
 effects:
   - Stealth
+title: Power Soulbeast
+rating: Power Meta
+role: Power Damage
+profession: Ranger
 specialization: Soulbeast
-code: '[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]'
+code: "[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 5
   - 3
   - 3
   - 4
-date: 2022-01-22T19:46:37.026Z
-title: Power Soulbeast
-rating: Power Meta
-role: Power Damage
-profession: Ranger
+date: 2022-03-08T00:21:08.409Z
 conditions:
   - Vulnerability
 cmGuide: pug
@@ -124,7 +124,8 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "utility2": "Sic Em",
       "utility3": "Frost Spirit",
       "elite": "One Wolf Pack"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
@@ -218,7 +219,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility2": "Sic Em",
       "utility3": "Frost Spirit",
       "elite": "One Wolf Pack"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
@@ -329,7 +331,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility2Id": 12633,
     "utility3Id": 12497,
     "eliteId": 45717
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
 }}
 >
 
@@ -364,6 +367,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |                                                           |                                                                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Frost Trap" size="big" disableText/>         | Your standard 3rd utility, dealing the most damage. For more info on when to run this read the CM-Guides!                                     |
 | <Skill name="Signet of the wild" size="big" disableText/> | A replacement for <Skill name="Frost Trap"/>. For more info on when to run this read the CM-Guides!                                           |
 | <Skill name="Moa Stance" size="big" disableText/>         | Allows all boons that are applied during its uptime to last longer, great for prestacking.                                                    |
 | <Skill name="Quickening Zephyr" size="big" disableText/>  | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>. |
@@ -375,11 +379,12 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Card>
 <Card title="Pets">
 
-|                                            |                                                                                                                                                               |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>. |
-| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                 |
-| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.         |
+|                                            |                                                                                                                                                                                         |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>.                           |
+| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                                           |
+| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.                                   |
+| <Skill id="41908" size="big" disableText/> | [Pheonix](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/> deals less damage than <Skill id="41524"/> |
 
 </Card>
 </GridItem>
@@ -416,6 +421,7 @@ If you meet these requirements then you can swap Marksmanship for Skirmishing wi
 | <Skill id="12638" size="big" disableText/> | 150 damage (Axe 4)                                                          |
 | <Skill id="12475" size="big" disableText/> | 150 damage (Greatsword 5)                                                   |
 | <Skill id="12523" size="big" disableText/> | 150 damage (Greatsword 4 after a block)                                     |
+| <Skill id="41908" size="big" disableText/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
 | <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3) |
 
 </Card>
@@ -498,43 +504,24 @@ Note: The golem benchmark uses a different build setup to the ones above due to 
 <Card title="Golem Rotation">
 
 1.  <Skill name="Barrage"/>
-
 2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-
 3.  <Skill name="One Wolf Pack"/>
-
 4.  <Skill name="Point Blank Shot"/>
-
 5.  <Skill name="Frost Trap"/>
-
 6.  <Skill name="worldlyimpact"/>
-
 7.  <Skill name="Frenzied Attack"/>
-
 8.  <Skill name="Rapid Fire"/>
-
 9.  `Weapon Swap`
-
 10. <Skill name="Path of scars"/>
-
 11. <Skill name="Whirling Defense"/>
-
 12. `Autoattack chain x5`
-
 13. <Skill name="Path of scars"/>
-
 14. `Weapon Swap`
-
 15. <Skill name="Rapid Fire"/>
-
 16. <Skill name="Long Range Shot"/> `Auto Attack x6`
-
 17. <Skill name="Point Blank Shot"/>
-
 18. <Skill name="Barrage"/>
-
 19. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-
 20. Repeat from `Step 5`
 
 </Card>
@@ -590,7 +577,7 @@ Many thanks to Elu \[SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4f
 
 <Grid>
 <GridItem sm="7">
-<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131"/>
+<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id={37131} weapon1MainInfusion2Id={37131} weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id={37131} weapon2MainInfusion2Id={37131}/>
 
 <Card title="Traits">
 
@@ -612,7 +599,7 @@ For a DPS rotation the same rules apply as above land, try to fit lots of damage
 </GridItem>
 
 <GridItem sm="5">
-<Skills healId="44948" utility1Id="12633" utility2Id="12497" utility3Id="12491" eliteId="45717"/>
+<Skills healId={44948} utility1Id={12633} utility2Id={12497} utility3Id={12491} eliteId={45717}/>
 
 <Card title="Pets">
 

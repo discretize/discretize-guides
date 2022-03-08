@@ -25,7 +25,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-02-17T22:17:40.858Z
+date: 2022-03-06T22:03:28.519Z
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
@@ -136,7 +136,8 @@ This guide will focus mainly on the Sword ECSU variant since it is the most flex
       "utility2": "Rifle Turret",
       "utility3": "Laser Disk",
       "elite": "Prime Light Beam"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
   }}
 >
 
@@ -221,64 +222,37 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 <Card title="Rotation">
 
 1.  **Preheat to 90**
-
 2.  <Skill name="Laser Disk" profession="Engineer"/>
-
 3.  <Skill name="engage Photon Forge" profession="Engineer"/>
-
 4.  <Skill name="Prime light beam" profession="Engineer"/> (To help with CCing)
-
 5.  <Skill name="Grenade Barrage" profession="Engineer"/>
-
 6.  <Skill name="Corona Burst" profession="Engineer"/>
-
 7.  <Skill name="Photon Blitz" profession="Engineer"/>
-
 8.  2x <Skill name="Light Strike" profession="Engineer"/> -> <Skill name="Bright Slash" profession="Engineer"/> -> <Skill name="Flash Cutter" profession="Engineer"/>
-
 9.  <Skill name="Corona Burst" profession="Engineer"/>
-
 10. <Skill name="Deactivate Photon Forge" profession="Engineer"/>
-
 11. <Skill name="Refraction Cutter" profession="Engineer"/>
-
 12. <Skill name="Shrapnel Grenade" profession="Engineer"/>
-
 13. <Skill name="Poison Grenade" profession="Engineer"/>
-
 14. 2x <Skill name="Sun Edge" profession="Engineer"/> -> <Skill name="Sun Ripper" profession="Engineer"/> -> <Skill name="Gleam Saber" profession="Engineer"/>
-
 15. <Skill name="Refraction Cutter" profession="Engineer"/>
-
 16. <Skill name="Shrapnel Grenade" profession="Engineer"/>
-
 17. 2x <Skill name="Sun Edge" profession="Engineer"/> -> <Skill name="Sun Ripper" profession="Engineer"/> -> <Skill name="Gleam Saber" profession="Engineer"/>
-
 18. <Skill name="Refraction Cutter" profession="Engineer"/>
-
 19. <Skill name="Shrapnel Grenade" profession="Engineer"/>
-
 20. <Skill name="Freeze Grenade" profession="Engineer"/>
-
 21. <Skill name="engage Photon Forge" profession="Engineer"/> (your heat should be around 90)
-
 22. Repeat from step 6
 
 </Card>
 <Card title="Notes">
 
 - Use <Skill id="6178"/> off cooldown.
-
 - Use <Skill id="42163"/> off-cooldown. This skill can be used inside the hitbox when multiple enemies are around to hit the boss multiple times. If this can be done, for example on Ensolyss, you can delay this skill for that.
-
 - <Skill id="5808"/> can be used to mitigate damage in add heavy fights.
-
 - When running off-hand Pistol, <Skill name="Blowtorch"/> is used instead of <Skill name="Freeze Grenade"/> in step 20.
-
 - When running off-hand Pistol, <Skill id="5830"/> can help in controlling movement of enemies without breakbar.
-
 - Try to manage your Heat in split phases. Ideally you always want to be back at 90 Heat when starting to burst in a new phase.
-
 - <Skill name="Poison Grenade" profession="Engineer"/> will not always be up at the same step as its cooldown is higher than the duration of your loop. The general idea of using 2 extra damaging skills while cooling down still applies.
 
 </Card>
@@ -301,15 +275,13 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 - You want to make sure to always at least pre-cast <Skill name="Laser Disk"/> before taking the singularity.
 - You can either swap utility skills manually or via template. Make sure to have the same traits in both templates selected if you choose the template route.
 - If this is taken care of, you can do the following extra pre-casts:
-
-1. Equip <Skill name="Thumper Turret"/>, <Skill name="Bomb Kit"/> and <Skill name="Flamethrower"/>.
-2. Place <Skill name="Big Ol Bomb"/>.
-3. Use <Skill name="Fire Bomb"/> or <Skill name="Napalm"/> to provide a fire field.
-4. Use <Skill name="Rumble"/>, <Skill name="Flame Blast"/> and <Skill name="Magnetic Inversion"/> to blast.
-5. Use <Skill name="Incendiary Ammo"/>.
-6. Swap to your regular utilities and use <Skill name="Laser Disk"/>.
-7. Take the singularity.
-
+  1. Equip <Skill name="Thumper Turret"/>, <Skill name="Bomb Kit"/> and <Skill name="Flamethrower"/>.
+  2. Place <Skill name="Big Ol Bomb"/>.
+  3. Use <Skill name="Fire Bomb"/> or <Skill name="Napalm"/> to provide a fire field.
+  4. Use <Skill name="Rumble"/>, <Skill name="Flame Blast"/> and <Skill name="Magnetic Inversion"/> to blast.
+  5. Use <Skill name="Incendiary Ammo"/>.
+  6. Swap to your regular utilities and use <Skill name="Laser Disk"/>.
+  7. Take the singularity.
 - If you want to go the extra mile, you can keep the Flamethrower equipped and use <Skill name="Incendiary Ammo"/> again and place <Skill name="Napalm"/> on the boss spawn location before swapping it out.
 - <Skill name="Holographic Shockwave"/> provides yet another blast finisher if it works with your Heat management.
 

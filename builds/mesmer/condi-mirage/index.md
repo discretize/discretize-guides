@@ -30,8 +30,6 @@ benchmark:
 hidden: true
 ---
 
-<Divider text="Overview"/>
-
 <Warning>
 
 This build is [META](/guides/meta-explained) in full condi groups. In power groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.

@@ -1,5 +1,5 @@
 ---
-title: Power (Banner) Bladesworn
+title: Banner Bladesworn
 hidden: false
 rating: Good
 role: Power Damage
@@ -15,14 +15,14 @@ boons:
   - name: Fury
     uptime: 100&
     variant: party
-code: '[&DQIEHzMWRCunAAAAAAAAAKwACgCqAKIBnACcAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQIEHzMWRCunAAAAAAAAAKwACgCqAKIBnACcAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-date: 2022-03-02T20:29:02.907Z
+date: 2022-03-08T00:10:31.886Z
 ---
 
 <Warning>
@@ -31,9 +31,9 @@ This build guide is not complete, gear and sections may chage regularly as we ex
 
 </Warning>
 
-The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a strong build for <Specialization name="Warrior"/> in fractals.
+The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favour of short damage spkies. Unfortuanately if enemies dont phase or die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
 
-Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
+Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
 The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone. Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
@@ -123,7 +123,8 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
       "utility2": "Banner of Strength",
       "utility3": "Banner of Discipline",
       "elite": "Signet of Rage"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
   }}
 >
 
@@ -213,7 +214,8 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
       "utility2": "Banner of Strength",
       "utility3": "Banner of Discipline",
       "elite": "Signet of Rage"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
   }}
 >
 
@@ -303,7 +305,8 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
       "utility2": "Banner of Strength",
       "utility3": "Banner of Discipline",
       "elite": "Signet of Rage"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
 
 </Character>
@@ -393,7 +396,6 @@ For that reason you can find a video with openers, that are efficient to use her
   - (optional) <Skill name="Flames of War"/>
   - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
   - Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
-- If there is a defiance bar present immediately at the start of the fight, start on your Mace set - otherwise swap to it when necessary.
 
 </Card>
 

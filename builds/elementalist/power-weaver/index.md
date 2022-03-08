@@ -20,7 +20,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2022-01-12T02:17:12.062Z
+date: 2022-03-06T22:02:44.556Z
 conditions:
   - Burning
   - Chilled
@@ -122,7 +122,8 @@ Also this build depends pretty much on supports and boon uptimes, as it can't pr
       "utility2": "Glyph of Storms",
       "utility3": "Arcane Blast",
       "elite": "Conjure Fiery Greatsword"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
 }}>
 
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
@@ -214,7 +215,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility2": "Glyph of Storms",
       "utility3": "Arcane Blast",
       "elite": "Conjure Fiery Greatsword"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
@@ -305,7 +307,8 @@ You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also
       "utility2": "Glyph of Storms",
       "utility3": "Arcane Blast",
       "elite": "Conjure Fiery Greatsword"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
@@ -323,11 +326,11 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude,Swift Revenge,Elements of Rage"/>
 <Card title="Situational Traits">
 
-|                                                     |                                                                                                                                                                       |
-| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Fresh Air" size="big" disableText/>    | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>.                                                                        |
-| <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                    |
-| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="Endless Choya Pinata Tonic"/>. |
+|                                                     |                                                                                                                                                                 |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Fresh Air" size="big" disableText/>    | With low group DPS and long phases this might pull ahead of <Trait name="Bolt to the Heart"/>.                                                                  |
+| <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                              |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>. |
 
 </Card>
 <Card title="Defiance Bar Damage">
@@ -349,13 +352,9 @@ Check the [gear optimizer](https://discretize.github.io/discretize-gear-optimize
 <Card title="Swap Weapons">
 
 - Dagger with <Item name="Night" type="Sigil"/>
-
 - Dagger with <Item name="Serpent Slaying" type="Sigil"/>
-
 - Daggers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
-
 - A warhorn for <Skill name="Sand Squall"/> and <Skill name="Heat Sync"/> for tempest precast.
-
 - A staff to precast <Skill name="Meteor Shower"/> on some encounters
 
 </Card>
@@ -397,6 +396,10 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <Video caption="by KalzeN [dT], edited by Vince [dT]" youtube="AUDqBOCrZUE"/>
 </Card>
+<Card title="Golem Rotation">
+
+<Video youtube="ZtEY4lXt6Hc" caption="by Fallen [SC]"/>
+</Card>
 </GridItem>
 
 <GridItem xs="12" sm="6">
@@ -427,9 +430,7 @@ When there are a lot of adds around and you have to time to hit both burst skill
 ### **Other**
 
 - Try to finish your auto-attack chains (<Skill name="Fire Attunement" disableText/>/<Skill name="Searing Slash" disableText/> and <Skill name="Air Attunement" disableText/>/<Skill name="Call Lightning" profession="elementalist" disableText/>).
-
 - Use <Skill name="Arcane Blast"/> when the target's defiance bar is broken and you have <Trait name="Elements of Rage"/> and <Skill name="Conjure Lightning Hammer"/> up.
-
 - On small hitboxes <Skill name="Firestorm"/> is better than <Skill name="Lightning Storm"/>, use it while attuning to <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
 
 </Card>
@@ -445,47 +446,18 @@ There are two possible ways to precast boons as <Specialization name="elementali
 ### **Weaver Precast**
 
 - Start on <Skill id="5495"/>/<Skill id="5492"/> with your Sword/Dagger and cast <Skill id="5691"/> to provide a fire field.
-
 - Blast it using <Skill id="40709"/>, then attune to <Skill id="5492"/>/<Skill id="5495"/> and cast <Skill id="5690"/>, <Skill id="21656"/> and <Skill id="5522"/> for extra blasts.
-
 - Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to <Skill id="5734"/> and <Skill id="5539"/>.
-
 - Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>.
-
 - Take the _Mistlock Singularity_.
 
-It is recommended to use separate precast build to get additional buffs like <Trait name="Elemental Surge"/> for openers and more boons from them.
+It is recommended to use separate precast templates to easily make use of different utility skills and weapons.Allowing you to precast multiple buffs, boons and skills easily.
 
-Weaver precasting build template:
-
-<Traits traits1="Arcane" traits1Selected="Arcane Precision,Elemental Lockdown,Elemental Surge" traits2="Air" traits2Selected="One with air,Inscription,Fresh Air" traits3="Weaver" traits3Selected="Masters Fortitude,Weavers Prowess,Elements of Rage" unembossed/>
-
-### **Tempest Precast**
-
-- Start on <Skill id="5495"/> with your warhorn/staff tempest precast template and cast <Skill id="29453"/> just when you get <Boon name="Quickness"/> from any source ( the best if fire field is actually placed for might blast ).
-
-- Swap to <Skill id="5492"/> and use <Skill id="29548"/> and cast <Skill id="21656"/> and weapon swap to staff.
-
-- Precast <Skill id="5506"/> and <Skill id="5635"/> while in <Skill id="5492"/>
-
-- Precast <Skill id="5516"/>, take the _Mistlock Singularity_ and swap your template to weaver. Attune to <Skill id="5494"/>/<Skill id="5492"/>.
-
-- Take the _Mistlock Singularity_
-
-- **NOTE:** When using this precast it is recommended that one party member will bring the fire field. Otherwise use <Skill name="Wildfire"/> before using <Skill id="29548"/>.
-
-Tempest precasting build template:
-
-<Traits traits1="Arcane" traits1Selected="Renewing Stamina,Elemental Lockdown,Elemental Surge" traits2="Air" traits2Selected="Zephyrs Boon,Inscription,Fresh Air" traits3="Tempest" traits3Selected="Unstable Conduit,Invigorating Torrents,Elemental Bastion" unembossed/>
-
-### **Other advices**
+### **Other advice**
 
 - If you have spare time before the encounter becomes active
-
   - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
-
   - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
-
 - When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself.
 
 </Card>
@@ -504,7 +476,6 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 <GridItem sm="10">
 
 1.  <Skill name="Lightning Storm"/>
-
 2.  <Skill name="Quantum Strike"/>
 
 </GridItem>
@@ -516,34 +487,25 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 <GridItem sm="10">
 
 1.  <Skill name="Pyro Vortex"/>
-
 2.  <Skill name="Ride the Lightning"/>
-
 3.  <Skill name="Flame Uprising"/>
-
 4.  <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
-
-5.  <Skill name="Conjure Lightning Hammer"/> \
-    <Label>Only if pre-casted LH</Label><Label>Skip the fire auto-attack chain above</Label>
+5.  <Skill name="Conjure Lightning Hammer"/> <Label>Only if pre-casted LH</Label> <Label>Skip the fire auto-attack chain above</Label>
 
 </GridItem>
 
 <GridItem sm="2">
+
 <Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+
 </GridItem>
 
 <GridItem sm="10">
 
-1.  <Skill name="Invoke Lightning"/> \
-    <Label>Only if pre-casted LH</Label>
-
-2.  <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap"/> \
-    <Label>Only if pre-casted LH</Label>
-
+1.  <Skill name="Invoke Lightning"/> <Label>Only if pre-casted LH</Label>
+2.  <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap"/> <Label>Only if pre-casted LH</Label>
 3.  <Skill name="Cauterizing Strike"/>
-
 4.  <Skill name="Fire Grab"/>
-
 5.  <Skill name="Flame Uprising"/>
 
 </GridItem>
@@ -555,9 +517,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 <GridItem sm="10">
 
 1.  <Skill name="Ring of Fire"/>
-
 2.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
-
 3.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
 
 </GridItem>
@@ -569,7 +529,6 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 <GridItem sm="10">
 
 1.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
-
 2.  <Skill name="Quantum Strike"/>
 
 </GridItem>
@@ -581,11 +540,8 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 <GridItem sm="10">
 
 1.  <Skill name="Pyro Vortex"/>
-
 2.  <Skill name="Ride the Lightning"/>
-
 3.  <Skill name="Flame Uprising"/>
-
 4.  <Skill name="Conjure Fiery Greatsword"/>
 
 </GridItem>
@@ -597,15 +553,10 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 <GridItem sm="10">
 
 1.  <Skill name="Fiery Rush"/>
-
 2.  <Skill name="Firestorm"/>
-
 3.  <Skill name="Cauterizing Strike"/>
-
 4.  <Skill name="Ring of Fire"/>
-
 5.  <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
-
 6.  <Skill name="Flame Uprising"/>
 
 </GridItem>
@@ -617,9 +568,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 <GridItem sm="10">
 
 1.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
-
 2.  <Skill name="Fire Grab"/>
-
 3.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
 
 </GridItem>
@@ -629,14 +578,6 @@ If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto
 
 With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill name="Water Attunement" disableText/> before going directly into <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> after using your Fire skills.
 
-<Grid>
-<GridItem sm="6">
-<Card title="Golem Rotation">
-
-<Video youtube="ZtEY4lXt6Hc" caption="by Fallen [SC]"/>
-</Card>
-</GridItem>
-</Grid>
 </Card>
 </GridItem>
 </Grid>

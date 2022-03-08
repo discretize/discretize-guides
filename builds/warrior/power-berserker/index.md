@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-01-12T18:26:52.203Z
+date: 2022-03-06T22:44:14.866Z
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
@@ -129,9 +129,9 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
     "utility2": "Banner of Strength",
     "utility3": "Banner of Discipline",
     "elite": "Head Butt"
-  }
-}}
->
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+}}>
 
 This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed.
 
@@ -222,7 +222,8 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
     "utility2": "Banner of Strength",
     "utility3": "Banner of Discipline",
     "elite": "Head Butt"
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}
 >
 
@@ -315,7 +316,8 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
     "utility2": "Banner of Strength",
     "utility3": "Banner of Discipline",
     "elite": "Head Butt"
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}
 >
 
@@ -331,15 +333,10 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
 <Card title="Extra Weapons">
 
 - Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-
 - Warhorn for pre-stacking <Boon name="Might"/>.
-
 - Sword for out of combat mobility.
-
 - Greatsword for mobility and cleave.
-
 - Rifle for Siax (coordinated).
-
 - Torch (trade CC for DPS or a fire field).
 
 </Card>
@@ -373,43 +370,22 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
 **How to deal damage:**
 
 - Use <Skill name="decapitate"/> as often as possible. Three crits are required to gain a single <Skill name="decapitate"/>:
-
-  1.  <Skill name="Cycloneaxe" /> and <Skill
-        name="Throw axe"
-        profession="warrior"
-      />
-      .
-
-  2.  <Skill name="Dualstrike" /> and <Skill
-        name="Throw axe"
-        profession="warrior"
-      />
-      .
-
+  1.  <Skill name="Cycloneaxe" /> and <Skill name="Throw axe" profession="warrior" />.
+  2.  <Skill name="Dualstrike" /> and <Skill name="Throw axe" profession="warrior" />.
   3.  <Skill name="whirlingaxe" />.
-
 - Get three <Skill name="decapitate"/> before pressing <Skill name="Whirling axe"/>.
-
 - If the boss has a breakbar, make sure to use <Skill name="Tremor"/> to proc <Item name="severance"/>, then swap to Axe/Axe.
-
 - Only use <Skill name="Throw axe" profession="warrior"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
-
 - Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase.
-
 - Keep in mind that <Skill name="Crushing Blow"/> inflicts <Condition name="Vulnerability" count={10}/>! This can be often used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst. If the foe is disabled it even inflicts <Condition name="Vulnerability" count={20} />
-
 - It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t <Effect name="Exposed"/> if that means it will be back up right before another burst window.
-
 - Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
 
 **Extra notes:**
 
 - If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!
-
 - If you expect your party to be slow it can make sense to bring <Trait name="smashbrawler"/> and eat the initial <Control name="Stun"/> of <Skill name="headbutt"/>.
-
 - Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
-
 - Entering <Skill name="Berserk"/> grants 3 stacks of <Trait name="Berserkers Power"/>, while <Skill name="Decapitate"/> only grants 1. You will find <Trait name="Berserkers Power"/> starting to run low when out of <Skill name="Berserk"/>, try to make sure you are in <Skill name="Berserk"/> for burn phases while also not delaying <Skill name="Berserk"/> where possible.
 
 </GridItem>
@@ -431,7 +407,6 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
 **When to take Mace:**
 
 - In fights with only one defiance bar, in the beginning, use Axe/Mace.
-
 - In T4s and encounters that have defiance bars during the fight, use an offhand mace only.
 
 </Card>
@@ -460,32 +435,18 @@ For that reason you can find a video with openers, that are efficient to use her
 <Card title="Precasting">
 
 - Stack <Boon name="Might"/>:
-
   - Use both charges of <Skill name="For Great Justice!"/>.
-
   - Drop a fire field with <Skill name="Flames of War"/>.
-
   - (if available) blast with banners for a total of 6 stacks of <Boon name="Might"/>
-
   - Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand warhorn.
-
 - Precast damage skills:
-
   - (optional) <Skill name="Flames of War"/>
-
   - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
-
   - Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
-
 - If there is a defiance bar present immediately at the start of the fight, start on your Mace set - otherwise swap to it when necessary.
-
 - With <Item name="Paralyzation" type="Sigil"/> you can deal 690 defiance bar damage with:
-
-  - <Skill name="Tremor" />, you can precast it and cancel the aftercast
-    animation.
-
-  - <Skill name="Headbutt" /> with <Item name="Paralyzation" type="Sigil" /> for
-    a total of 390 CC.
+  - <Skill name="Tremor" />, you can precast it and cancel the aftercast animation.
+  - <Skill name="Headbutt" /> with <Item name="Paralyzation" type="Sigil" /> for a total of 390 CC.
 
 </Card>
 
@@ -497,61 +458,27 @@ For that reason you can find a video with openers, that are efficient to use her
 
 **Ultra short phases (3 seconds):**
 
-- <Skill name="cycloneaxe" />, <Skill name="dualstrike" /> and <Skill name="decapitate" />
-
-  .
+- <Skill name="cycloneaxe" />, <Skill name="dualstrike" /> and <Skill name="decapitate" />.
 
 or depending on the phase length:
 
-- <Skill name="cycloneaxe" />, <Skill
-    name="Throw axe"
-    profession="warrior"
-  /> and <Skill name="decapitate" />.
-
-- <Skill name="dualstrike" />, <Skill
-    name="Throw axe"
-    profession="warrior"
-  /> and <Skill name="decapitate" />.
+- <Skill name="cycloneaxe" />, <Skill name="Throw axe" profession="warrior"/> and <Skill name="decapitate" />.
+- <Skill name="dualstrike" />, <Skill name="Throw axe" profession="warrior"/> and <Skill name="decapitate" />.
 
 **Short phases (6 seconds):**
 
-- <Skill name="cycloneaxe" />, <Skill
-    name="Throw axe"
-    profession="warrior"
-  /> and <Skill name="decapitate" />.
-
-- <Skill name="dualstrike" />, <Skill
-    name="Throw axe"
-    profession="warrior"
-  /> and <Skill name="decapitate" />.
-
+- <Skill name="cycloneaxe" />, <Skill name="Throw axe" profession="warrior"/> and <Skill name="decapitate" />.
+- <Skill name="dualstrike" />, <Skill name="Throw axe" profession="warrior"/> and <Skill name="decapitate" />.
 - <Skill name="whirlingaxe" /> and <Skill name="decapitate" />.
-
-- <Skill name="cycloneaxe" />, <Skill name="chop" /> and <Skill name="decapitate" />
-
-  .
+- <Skill name="cycloneaxe" />, <Skill name="chop" /> and <Skill name="decapitate" />.
 
 **Longer phases (>10 seconds):**
 
-- <Skill name="dualstrike" />, <Skill
-    name="Throw axe"
-    profession="warrior"
-  /> and <Skill name="decapitate" />.
-
-- <Skill name="cycloneaxe" />, <Skill
-    name="Throw axe"
-    profession="warrior"
-  /> and <Skill name="decapitate" />.
-
+- <Skill name="dualstrike" />, <Skill name="Throw axe" profession="warrior" /> and <Skill name="decapitate" />.
+- <Skill name="cycloneaxe" />, <Skill name="Throw axe" profession="warrior" /> and <Skill name="decapitate" />.
 - <Skill name="whirlingaxe" /> and <Skill name="decapitate" />.
-
-- <Skill name="cycloneaxe" />, <Skill name="chop" /> and <Skill name="decapitate" />
-
-  .
-
-- <Skill name="Throw axe" profession="warrior" />, <Skill name="dualstrike" /> and <Skill name="decapitate" />
-
-  .
+- <Skill name="cycloneaxe" />, <Skill name="chop" /> and <Skill name="decapitate" />.
+- <Skill name="Throw axe" profession="warrior" />, <Skill name="dualstrike" /> and <Skill name="decapitate" />.
 
 </Card>
 

@@ -30,7 +30,7 @@ classification:
 compositions:
   - name: _CRGB
 code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-04T18:46:05.977Z
+date: 2022-03-07T19:36:19.663Z
 benchmark:
   small:
     dps: 36732
@@ -55,7 +55,6 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
 
 - <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 41.7%bd
-- <Trait name="Liberators Vow"/>, <Trait name="Stalwart Speed"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 47.7%bd
 - <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 69.8%bd
 
 </Warning>
@@ -158,7 +157,8 @@ There are a number of different gear, utility and trait setups that allow you to
       "utility2": "Purging Flames",
       "utility3": "Sanctuary",
       "elite": "Feel My Wrath"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
@@ -265,7 +265,8 @@ You will want the following weapons to swap to durning fractal runs:
     "utility2Id": 9187,
     "utility3Id": 9128,
     "eliteId": 29965
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
@@ -298,49 +299,56 @@ You will want the following weapons to swap to durning fractal runs:
       "Viper",
       "Viper"
     ],
-    "attributes": {
-      "Health": 15560,
-      "Armor": 2514,
-      "Power": 2909,
-      "Precision": 2085,
-      "Toughness": 1243,
-      "Vitality": 1250,
-      "Ferocity": 300,
-      "Condition Damage": 2791,
-      "Expertise": 451,
-      "Concentration": 421,
-      "Healing Power": 250,
-      "Agony Resistance": 162,
-      "Condition Duration": 0.30066666666666664,
-      "Boon Duration": 0.2806666666666667,
-      "Critical Chance": 0.8666666666666666,
-      "Critical Damage": 1.7,
-      "Burning Duration": 0.7,
-      "Maximum Health": 0.10000000000000009,
-      "Resolution Duration": 0.25,
-      "Effective Power": 7256.064149999999,
-      "Power DPS": 6236.247663765883,
-      "Bleeding Damage": 284.19,
-      "Bleeding Stacks": 4.5133133333333335,
-      "Bleeding DPS": 1282.6385162000001,
-      "Burning Damage": 972.218625,
-      "Burning Stacks": 28.16,
-      "Burning DPS": 27377.67648,
-      "Confusion Damage": 335.06850000000003,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 301.44,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 424.485,
-      "Torment Stacks": 1.6648533333333333,
-      "Torment DPS": 706.7052672,
-      "Damage": 35603.26792716588,
-      "Effective Health": 77846447.76119404,
-      "Survivability": 39576.2317037082,
-      "Effective Healing": 465,
-      "Healing": 465
-    },
+  "attributes": {
+    "Health": 15560,
+    "Armor": 2514,
+    "Power": 2909,
+    "Precision": 2085,
+    "Toughness": 1243,
+    "Vitality": 1250,
+    "Ferocity": 300,
+    "Condition Damage": 3089,
+    "Expertise": 451,
+    "Concentration": 243,
+    "Healing Power": 250,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.30066666666666664,
+    "Boon Duration": 0.162,
+    "Critical Chance": 0.8666666666666666,
+    "Critical Damage": 1.7,
+    "Power Coefficient": 2314,
+    "Burning Coefficient": 15.19,
+    "Bleeding Coefficient": 4.77,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 1.28,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Burning Duration": 0.7,
+    "Maximum Health": 0.10000000000000009,
+    "Resolution Duration": 0.25,
+    "Effective Power": 7256.064149999999,
+    "Power DPS": 6465.357120947246,
+    "Bleeding Damage": 311.01,
+    "Bleeding Stacks": 6.204179999999999,
+    "Bleeding DPS": 1929.5620217999997,
+    "Burning Damage": 1051.896375,
+    "Burning Stacks": 30.38,
+    "Burning DPS": 31956.6118725,
+    "Confusion Damage": 365.91150000000005,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 328.26,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 464.71500000000003,
+    "Torment Stacks": 1.6648533333333333,
+    "Torment DPS": 773.6823168000001,
+    "Damage": 41125.21333204724,
+    "Effective Health": 77846447.76119404,
+    "Survivability": 39576.2317037082,
+    "Effective Healing": 465,
+    "Healing": 465
+  },
     "runeId": 24765,
     "runeName": "Balthazar",
     "infusions": [
@@ -367,7 +375,8 @@ You will want the following weapons to swap to durning fractal runs:
       "utility2": "Purging Flames",
       "utility3": "Sanctuary",
       "elite": "Renewed Focus"
-    }
+    },
+    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
   }}
 >
 
@@ -388,10 +397,10 @@ You will want the following weapons to swap to durning fractal runs:
 <GridItem sm="7">
 <Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Loremaster"/>
 
-If your team has a hard time applying <Condition name="Vulnerability"/> you can swap Virtues trait line with Zeal and replace <Skill name="purgingflames"/> with <Skill name="swordofjustice"/>. This will help you to maintain <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
+If your are playing solo you can swap Virtues trait line with Zeal and run <Skill name="swordofjustice"/>. This will help you to maintain <Boon name="Might"/> on yourself and <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
 
 <Warning>
-This build provides permanent <Boon name="Quickness"/>. For different variants, such as organized Sunqua Peak groups or full DPS, please scroll down.
+This build provides permanent <Boon name="Quickness"/>. For different variants, such as multiple DPS Firebrands or full DPS, please scroll down.
 </Warning>
 
 <Card title="Defiance Bar Damage">
@@ -411,19 +420,22 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                        |                                                                                     |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                  |
-| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed.                                            |
-| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                             |
-| <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                        |
-| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                        |
-| <Skill id="43357" size="big" disableText/>             | When <Boon name="Stability"/> or a stunbreak is needed.                             |
-| <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                  |
-| <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                |
-| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                 |
-| <Skill name="Mantra of lore" size="big" disableText/>  | Cleanses multiple conditions thanks to charges.                                     |
-| <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+|                                                         |                                                                                          |
+| ------------------------------------------------------- | --------------------------------------- |
+| <Skill name="Sword of Justice" size="big" disableText/> |  If your target doesn't have <Condition name="Vulnerability" text="25 stacks of Vulnerability"/>, this is a DPS increase! |
+| <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                                                      |
+| <Skill id="9125" size="big" disableText/>               | Deals an additional 200 defiance bar damage.                                             |
+| <Skill id="43357" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                                 |
+| <Skill name="renewed focus" size="big" disableText/>    | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
+| <Skill name="Mantra of Flame" size="big" disableText/>  | Taken as a 3rd utility for DPS if no other skil is required.                            |
+| <Skill name="Advance" size="big" disableText/>          | When <Boon name="Aegis"/> is needed.                                                     |
+| <Skill id="9246" size="big" disableText/>               | A 1,200 range teleport to an ally.                                                       |
+| <Skill name="Hallowed Ground" size="big" disableText/>  | When <Boon name="Stability"/> is needed.                                                 |
+| <Skill id="9153" size="big" disableText/>               | When <Boon name="Stability"/> or a stunbreak is needed.                                 |
+| <Skill id="9251" size="big" disableText/>               | A stationary reflect lasting for 10 seconds.                                             |
+| <Skill id="9247" size="big" disableText/>               | A 1200 range teleport to an enemy.                                                       |
+| <Skill name="Mantra of lore" size="big" disableText/>   | Cleanses multiple conditions thanks to charges.                                          |
+
 
 </Card>
 </GridItem>

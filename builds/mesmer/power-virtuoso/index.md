@@ -1,6 +1,6 @@
 ---
 title: Power Virtuoso
-hidden: true
+hidden: false
 rating: good
 role: Power Damage
 profession: Mesmer
@@ -21,9 +21,11 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-03T18:35:07.156Z
+date: 2022-03-07T12:22:36.474Z
 ---
-The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals. You'll provide boon removal through your clones, auto-attack chains, <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
+The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
+
+You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as Sword auto-attack chains when playing the Focus/Pistol variant.
 
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
@@ -138,7 +140,8 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
     "utility2Id": 45425,
     "utility3Id": 10211,
     "eliteId": 24755
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
     }}
   >
 
@@ -253,7 +256,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility2Id": 45425,
     "utility3Id": 10211,
     "eliteId": 24755
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
     }}
   >
 
@@ -368,7 +372,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility2Id": 45425,
     "utility3Id": 10211,
     "eliteId": 24755
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
     }}
   >
 
@@ -483,7 +488,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility2Id": 45425,
     "utility3Id": 10211,
     "eliteId": 24755
-  }
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
 
@@ -509,13 +515,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Traits traits1="Dueling" traits1Selected="Phantasmal Fury,Fencers Finesse,Superiority Complex" traits2="Domination" traits2Selected="Bountiful Blades,Egotism,Vicious Expression" traits3="Virtuoso" traits3Selected="Mental Focus,Phantasmal Blades,Bloodsong"/>
 <Card title="Situational Traits">
 
+|                                                         |                                                     |
+| ------------------------------------------------------- | --------------------------------------------------- |
+| <Trait name="Empowered Illusions" size="big" disableText/> | If you're playing with Sword / Focus (or Pistol) instead of Greatsword. |
+
 <Traits traits1="Illusions" traits1Selected="Shatter Storm,Phantasmal Haste,Phantasmal Force" unembossed/>
 
 You can go this Illusions variant over the Domination traitline when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small"/> as well.
-
-|                                                         |                                                     |
-| ------------------------------------------------------- | --------------------------------------------------- |
-| <Trait name="Empowered Illusions" size="big" disableText/> | If you're playing with Sword / Focus instead of Greatsword. |
 
 <Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
 
@@ -540,13 +546,14 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 |                                                              |                                                                                                                                                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <Skill name="Blade Renewal" size="big" disableText/>          | For prestacking blades                                                                                                                                                                    |
-| <Skill name="Mimic" size="big" disableText/>                 | For precasting <Skill name="Mirror Images"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                                |
+| <Skill name="Mimic" size="big" disableText/>                 | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                                |
 | <Skill name="Null Field" size="big" disableText/>            | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
 | <Skill name="Signet of Inspiration" size="big" disableText/> | For precasting before the boss.                                                                                                                                                            |
 | <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
+| <Skill name="Signet of Humility" size="big" disableText/>              | Very high CC, can be casted while the boss is spawning in.                                                                                                                                                  |
 | **Skips**                                                    |                                                                                                                                                                                            |
-| <Skill name="Blade Leap" size="big" disableText/>            | A 600 leap (only availible as  <Specialization name="Virtuoso"/>                                                                                                              |
-| <Skill name="Returning Edge" size="big" disableText/>        | Useable after <Skill name="Blade Leap"/> to r return to your original location                                                                                                             |
+| <Skill name="Blade Leap" size="big" disableText/>            | A 600 leap (only availible as  <Specialization name="Virtuoso"/>)                                                                                                              |
+| <Skill name="Returning Edge" size="big" disableText/>        | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                             |
 | <Skill name="Portal Entre" size="big" disableText/>          | For skipping sections of the fractal for your party.                                                                                                                                    |
 | <Skill name="Blink" size="big" disableText/>                 | 1200 range blink, use it for skips!                                                                                                                                                        |
 | <Skill name="Mass Invisibility" size="big" disableText/>     | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
@@ -565,7 +572,7 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 <GridItem sm="8">
 <Card title="Skill priority">
 
-To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals you need to adapt on the go as phantasms are our main damage source but they are slower than skills from other classes
+To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals you need to adapt on the go as phantasms are slower than skills from other classes.
 
 If you lose yourself in the rotation follow this priority list.
 
@@ -574,8 +581,8 @@ If you lose yourself in the rotation follow this priority list.
     - <Skill id="10267"/>
     - <Skill id="10221"/>
 2.  Use <Skill id="21750"/> to recharge them all.
-3.  Use <Skill name="Bladesong Harmony"/> with three clones as much as possible only delay it for <Effect name="Exposed"/>
-4.  Use <Skill name="Bladesong Sorrow"/> whenever you don't have any clones, situationally you can shatter it with three clones such as in your burst rotation or when a phase is about to end and <Skill name="Split Second"/> is on cooldown.
+3.  Use <Skill name="Bladesong Harmony"/> with 5 Blades as much as possible. Only delay it for <Effect name="Exposed"/> but remember that it also grants you a 5% damage buff through <Trait name="Deadly Blades"/>.
+4.  Use <Skill name="Bladesong Sorrow"/> for damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to prioritize having 5 Blades for <Skill name="Bladesong Harmony"/> though. Situationally you can use this with 5 Blades such as in your burst rotation or when a phase is about to end and <Skill name="Bladesong Harmony"/> is on cooldown.
 5. <Skill id="62553"/> deals damage over time so make sure to cast it at the start of phases. If a boss is close to phasing, save it for the start of the next phase.   
 6. Use <Skill id="62560"/>, <Skill id="62607"/>, <Skill id="10333"/> and <Skill id="10218"/> off recharge.
 - <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
@@ -593,7 +600,7 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 
 |                                      |                             |
 | ------------------------------------ | --------------------------- |
-| <Skill name="Bladesong Dissonance"/> | 100 damage (per Blade)      |
+| <Skill name="Bladesong Dissonance"/> | 50 damage (per Blade)      |
 | <Skill name="Counter Blade"/>        | 200 damage                  |
 | <Skill name="Into the Void"/>        | 150 damage                  |
 | <Skill name="Signet of Humility"/>   | 600 damage                  |
@@ -619,47 +626,37 @@ It's important to note that phantasms do not benefit from most modifiers, unless
 They do however benefit from <Effect name="Exposed"/>.
 </Card>
 
-<Card title="Golem Rotation">
-
-<Video caption="" youtube=""/>
-</Card>
-
 <Card title="Precasting">
 
 At the Mistlock Singularity
 
-- Blast fire fields with <Skill name="The Prestige"/>.
-- Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
-- Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
-- Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
 - Make sure to start with 5 Blades. If you need use <Skill name="Blade Renewal"/> to replenish them.
+1. Blast fire fields with <Skill name="The Prestige"/>.
+2. Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
+3. Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
+4. Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
 
 At the boss (spawnable bosses)
 
-- You can precast <Skill name="The Prestige"/>, <Skill name="Tides of Time"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
+1. Cast <Skill name="Rain of Swords"/>. Skip this step if you did not use <Skill name="Mimic"/> at the singularity.
+2. You can precast <Skill name="The Prestige"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
+3. Cast <Skill name="Rain of Swords"/> (again).
+4. Start casting <Skill name="Signet of Humility"/> if the boss starts with a breakbar.
 
 At the boss (prespawned bosses)
 
-- Precast rotation. Start on Staff.
-1.  <Skill name="Phantasmal Warlock"/>
-2.  <Skill name="Phase Retreat"/>
-    1.  Omit this step if <Skill name="Mimic"/> is precast
-3.  Swap to Greatsword
-4.  <Skill name="Phantasmal Berserker"/>
-5.  <Skill name="Mirror Blade"/>
-6.  Swap to Sword and proceed with the regular rotation
-- Precasting phantasms on MAMA is possible but the timing is trickier in PuGs as combat starts once your group hits the boss.
-
-**Optional**
-
-If you want to be more self-sufficient in fractals you can get a 100% boon duration set and take <Trait name="Bountiful disillusionment" size="small"/>.
-
-Use <Skill name="Signet of Inspiration"/>. Precast <Skill name="Mimic"/> and take the singularity.
+- You can also precast <Skill name="Phantasmal Warlock"/>.
 
 </Card>
 </GridItem>
 
 <GridItem xs="12" sm="6">
+
+<Card title="Greatsword Golem Rotation">
+
+<Video caption="by Tipcat [CnD]" youtube="92FJUY1IKh4"/>
+</Card>
+
 <Card title="Opener">
 
 These is a basic opener, you will need to adapt this depending on the boss and cooldowns.

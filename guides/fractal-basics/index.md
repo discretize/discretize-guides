@@ -371,7 +371,7 @@ Generally, you **always** want to stick together as a group. Reason being that b
 </GridItem>
 
 <GridItem>
-<GifPlayer caption="Pulling mobs by using Line of Sight" url="https://cdn.discordapp.com/attachments/637966976010027028/775683848733327360/lospull.webm"/>
+<GifPlayer caption="Pulling mobs by using Line of Sight" url="/static/0933403b3063070634bb7ce636f1d2a8/lospull.webm"/>
 </GridItem>
 </Grid>
 
