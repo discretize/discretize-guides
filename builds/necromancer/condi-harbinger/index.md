@@ -246,7 +246,7 @@ You can also use <Item id="37130"/> if you do not have the Spiteful ones for a m
     37130
   ],
   "weapons": {
-    "weapon1MainType": "Axe",
+    "weapon1MainType": "Pistol",
     "weapon1MainSigil1Id": 44944,
     "weapon1OffType": "Dagger",
     "weapon1OffSigil": "Torment",
