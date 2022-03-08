@@ -18,7 +18,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-03-08T00:12:01.403Z
+date: 2022-03-08T00:21:08.409Z
 conditions:
   - Vulnerability
 cmGuide: pug
@@ -384,7 +384,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>.                           |
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                                           |
 | <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.                                   |
-| <Skill id="41908" size="big" disableText/> | [Pheonix](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/>deals less damage than <Skill id="41524"/> |
+| <Skill id="41908" size="big" disableText/> | [Pheonix](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/> deals less damage than <Skill id="41524"/> |
 
 </Card>
 </GridItem>
@@ -504,43 +504,24 @@ Note: The golem benchmark uses a different build setup to the ones above due to 
 <Card title="Golem Rotation">
 
 1.  <Skill name="Barrage"/>
-
 2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-
 3.  <Skill name="One Wolf Pack"/>
-
 4.  <Skill name="Point Blank Shot"/>
-
 5.  <Skill name="Frost Trap"/>
-
 6.  <Skill name="worldlyimpact"/>
-
 7.  <Skill name="Frenzied Attack"/>
-
 8.  <Skill name="Rapid Fire"/>
-
 9.  `Weapon Swap`
-
 10. <Skill name="Path of scars"/>
-
 11. <Skill name="Whirling Defense"/>
-
 12. `Autoattack chain x5`
-
 13. <Skill name="Path of scars"/>
-
 14. `Weapon Swap`
-
 15. <Skill name="Rapid Fire"/>
-
 16. <Skill name="Long Range Shot"/> `Auto Attack x6`
-
 17. <Skill name="Point Blank Shot"/>
-
 18. <Skill name="Barrage"/>
-
 19. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-
 20. Repeat from `Step 5`
 
 </Card>
