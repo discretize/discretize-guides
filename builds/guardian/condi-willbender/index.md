@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-07T15:32:09.136Z
+date: 2022-03-08T00:09:58.382Z
 ---
 
 <Warning>
@@ -142,7 +142,7 @@ The <Specialization name="Willbender" text="Condition Willbender"/> is a strong 
       "weapon2MainSigil1Id": 24605
     },
   "consumables": {
-      "food": "fishy rice bowl",
+      "foodId": 91878,
       "utility": "toxic-focusing-crystal",
       "infusion": "Malign +9 Agony Infusion"
   },
