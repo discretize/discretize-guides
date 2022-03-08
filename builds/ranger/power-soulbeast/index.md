@@ -11,14 +11,14 @@ rating: Power Meta
 role: Power Damage
 profession: Ranger
 specialization: Soulbeast
-code: '[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]'
+code: "[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 5
   - 3
   - 3
   - 4
-date: 2022-03-07T20:05:50.252Z
+date: 2022-03-08T00:12:01.403Z
 conditions:
   - Vulnerability
 cmGuide: pug
@@ -384,7 +384,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>.                           |
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                                           |
 | <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.                                   |
-| <Skill id="41908" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/>deals less damage than <Skill id="41524"/> |
+| <Skill id="41908" size="big" disableText/> | [Pheonix](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/>deals less damage than <Skill id="41524"/> |
 
 </Card>
 </GridItem>
