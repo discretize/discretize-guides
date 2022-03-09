@@ -30,7 +30,7 @@ classification:
 compositions:
   - name: _CRGB
 code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T19:36:19.663Z
+date: 2022-03-09T15:07:52.256Z
 benchmark:
   small:
     dps: 36732
@@ -62,7 +62,7 @@ There are a number of different gear, utility and trait setups that allow you to
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character title="Condi Quickbrand 162ar (41.7%bd)" gear={{
+<Character title="Quickbrand 162ar (41.7%bd)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -171,7 +171,7 @@ You will want the following weapons to swap to durning fractal runs:
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
 </Character>
-<Character title="Condi Quickbrand 222ar (41.7%bd)" gear={{
+<Character title="Quickbrand 222ar (41.7%bd)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -280,7 +280,7 @@ You will want the following weapons to swap to durning fractal runs:
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
 </Character>
-<Character title="Condi DPS (Quickness Share)" gear={{
+<Character title="DPS/Quick Share" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
