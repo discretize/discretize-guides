@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-08T00:10:31.886Z
+date: 2022-03-11T00:58:54.452Z
 ---
 
 <Warning>
@@ -31,7 +31,7 @@ This build guide is not complete, gear and sections may change regularly as we e
 
 </Warning>
 
-The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favour of short damage spkies. Unfortuanately if enemies dont phase or die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
+The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favour of short damage spikes. Unfortuanately if enemies dont phase or die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
 
 Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
