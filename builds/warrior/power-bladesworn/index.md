@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-08T00:10:31.886Z
+date: 2022-03-09T15:25:42.558Z
 ---
 
 <Warning>
@@ -40,7 +40,7 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
 <Divider text="Equipment" />
 
 <CharacterWithAr>
-<Character title="162 Agony Resistance + Scholar Rune" gear={{
+<Character title="162 AR + Scholar Rune" gear={{
   "profession": "Warrior",
   "weight": "Heavy",
   "gear": [
@@ -131,7 +131,7 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
 This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed.
 
 </Character>
-<Character title="162 Agony Resistance + Eagle Rune" gear={{
+<Character title="162 AR + Eagle Rune" gear={{
   "profession": "Warrior",
   "weight": "Heavy",
   "gear": [
@@ -222,7 +222,7 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
 Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
 
 </Character>
-<Character gear={{
+<Character title="222 AR" gear={{
   "profession": "Warrior",
   "weight": "Heavy",
   "gear": [
