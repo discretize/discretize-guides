@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-11T00:58:54.452Z
+date: 2022-03-11T01:08:17.854Z
 ---
 
 <Warning>
@@ -31,7 +31,7 @@ This build guide is not complete, gear and sections may change regularly as we e
 
 </Warning>
 
-The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favour of short damage spikes. Unfortuanately if enemies dont phase or die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
+The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favour of short damage spikes. Unfortunately if enemies dont phase or die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
 
 Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
@@ -348,7 +348,7 @@ If the encounter is short enough to precast Banners and swap to different skills
 |                                                           |                                                                                                                                                                                              |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="For Great Justice!" size="big" disableText/> | If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!                                         |
-| <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use and fills up the entire adrenalin bar. |
+| <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use and fills up the entire adrenaline bar. |
 | <Skill name="Signet of might" size="big" disableText/>    | Flat 180 power buff. Only take this when no other utility is needed.                                                                                                                         |
 | <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.                                                                                                    |
 | <Skill name="onmymark" size="big" disableText/>           | Can be used to pull Krait from the side altars at the Nightmare CM fractal.                                                                                                                  |
