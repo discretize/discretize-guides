@@ -42,7 +42,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-08T00:37:49.244Z
+date: 2022-03-11T01:17:03.825Z
 ---
 <Warning>
 
@@ -159,7 +159,6 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
   },
   "skills": {
     "healId": 5802,
-    "utility1Id": 5838,
     "utility2Id": 5933,
     "utility3Id": 63262,
     "eliteId": 30800
