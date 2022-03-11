@@ -27,7 +27,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-07T19:46:26.304Z
+date: 2022-03-09T15:34:07.025Z
 ---
 
 <Warning>
@@ -41,7 +41,7 @@ This build guide is not complete, gear and sections may change regularly as we e
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="162 Agony Resistance (No Spotter/Banner)" gear={{
+<Character title="162 AR (No Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -139,13 +139,15 @@ This build guide is not complete, gear and sections may change regularly as we e
   }}
 >
 
+This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
+
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 
-<Character title="162 Agony Resistance (Spotter/Banner)" gear={{
+<Character title="162 AR (Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -242,13 +244,15 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
+This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
+
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 
-<Character title="222 Agony Resistance (No Spotter/Banner)" gear={{
+<Character title="222 AR (No Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -345,13 +349,15 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
+This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
+
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 
-<Character title="222 Agony Resistance (Spotter/Banner)" gear={{
+<Character title="222 AR (Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -448,6 +454,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
+
+This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
