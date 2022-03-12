@@ -30,7 +30,7 @@ classification:
 compositions:
   - name: _CRGB
 code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-09T15:07:52.256Z
+date: 2022-03-12T23:14:01.466Z
 benchmark:
   small:
     dps: 36732
@@ -272,7 +272,6 @@ You will want the following weapons to swap to durning fractal runs:
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
 
-Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
 You will want the following weapons to swap to durning fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
