@@ -20,7 +20,7 @@ compositions:
     composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
 specialization: Soulbeast
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-08T00:22:00.356Z
+date: 2022-03-12T23:15:07.926Z
 conditions:
   - Bleeding
   - Poisoned
@@ -130,7 +130,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "weapon2OffSigil": "earth"
     },
     "consumables": {
-      "foodId": 91878,
+      "foodId": 97422,
       "utility": "toxic-focusing-crystal",
       "infusion": "Malign +9 Agony Infusion"
     },
