@@ -42,7 +42,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-11T01:17:03.825Z
+date: 2022-03-12T23:19:26.305Z
 ---
 <Warning>
 
@@ -150,7 +150,7 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
     "weapon1MainType": "Mace",
     "weapon1MainSigil1Id": 74326,
     "weapon1OffType": "Shield",
-    "weapon1offSigil1": "Paralyzation"
+    "weapon1OffSigil1Id": 24639
   },
   "consumables": {
     "foodId": 91690,
