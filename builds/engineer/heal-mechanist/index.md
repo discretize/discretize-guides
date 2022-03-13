@@ -5,8 +5,6 @@ role: Support
 author: Parpage.9867
 profession: Engineer
 specialization: Mechanist
-archive: false
-hidden: false
 traits: []
 conditions:
   - Burning
@@ -37,19 +35,18 @@ boons:
   - name: Aegis
     variant: party
     uptime: On Demand
-code: '[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-date: 2022-03-12T23:19:26.305Z
+date: 2022-03-13T19:38:06.499Z
 ---
-
 <Warning>
 
-This build is very common in PuGs. More info about building team compositions can be found [here](/guides/effective-comp). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities.
+This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities.
 
 </Warning>
 
@@ -153,7 +150,7 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
     "weapon1MainType": "Mace",
     "weapon1MainSigil1Id": 74326,
     "weapon1OffType": "Shield",
-    "weapon1OffSigil1Id": 24639
+    "weapon1OffSigilId": 24639,
   },
   "consumables": {
     "foodId": 91690,
@@ -189,7 +186,8 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
       "type": "Trait"
     }
   ]
-}}>
+  }}
+>
 Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces but make sure you are maintaining as close to 100% <Attribute name="boon duration"/> as possible. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 </Character>
 </CharacterWithAr>
@@ -210,18 +208,19 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 <GridItem sm="6">
 <Card title="Common Utility Skills">
 
-|                                                               |                                                                                                                     |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                    |
-| <Skill name="Shift Signet" size="big" disableText/>           | Allows extra mobility when running through trash mobs and provides a useful stunbreak                               |
+|                                                               |                                                                                                                    |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                  |
+| <Skill name="Shift Signet" size="big" disableText/>           | Allows extra mobility when running through trash mobs and provides a useful stunbreak                              |
 | <Skill name="Thumper Turret" size="big" disableText/>         | Deals a large amount of CC. If using <Trait name="Experimental Turrets"/> will also share <Boon name="Protection"/> |
-| <Skill name="Flame Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Might"/>                           |
-| <Skill name="Rifle Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Fury"/>                            |
-| <Skill name="Net Turret" size="big" disableText/>             | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Swiftness"/>                       |
-| <Skill name="Rocket Turret" size="big" disableText/>          | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Resolution"/>                      |
-| <Skill name="Tool Kit" size="big" disableText/>               | Has access to a block with <Skill id="5998"/> and a pull with <Skill id="5996"/>                                    |
-| <Skill name="Throw Mine" size="big" disableText/>             | Can be used for some emergency boonstrip                                                                            |
+| <Skill name="Flame Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Might"/>                  |
+| <Skill name="Rifle Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Fury"/>                   |
+| <Skill name="Net Turret" size="big" disableText/>             | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Swiftness"/>              |
+| <Skill name="Rocket Turret" size="big" disableText/>          | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Resolution"/>             |
+| <Skill name="Tool Kit" size="big" disableText/>               | Has access to a block with <Skill id="5998"/> and a pull with <Skill id="5996"/>                          |
+| <Skill name="Throw Mine" size="big" disableText/>             | Can be used for some emergency boonstrip                                                                           |
 | <Skill name="Overclock Signet" size="big" disableText/>       | Can be used to resummon your mech if <Skill name="Crash Down"/> is on cooldown                                      |
+| <Skill name="Sneak Gyro" size="big" disableText/>             | A <Specialization name="Scrapper"/> skill, used for group <Effect name="Stealth"/> in T4 fractals.                 |
 
 </Card>
 
@@ -231,11 +230,11 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 
 <Card title="Situational Traits">
 
-|                                                                |                                                                                                                        |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Experimental Turrets" size="big" disableText/>    | Taken if you are running turret skills. Grant boons depending on the deployed skills.                                  |
-| <Trait name="Purity of Purpose" size="big" disableText/>       | Useful on condi heavy and boonstrip heavy encounters to mass condi cleans and generate boons.                          |
-| <Trait name="Gyroscopic Acceleration" size="big" disableText/> | In the <Specialization name="Scrapper"/> traitline. Useful to give <Effect name="superspeed"/> for movement and skips. |
+|                                                                  |                                                                                                                        |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| <Trait name="Experimental Turrets" size="big" disableText/>      | Taken if you are running turret skills. Grant boons depending on the deployed skills.                                  |
+| <Trait name="Purity of Purpose" size="big" disableText/>         | Useful on condi heavy and boonstrip heavy encounters to mass condi cleans and generate boons.                      |
+| <Trait name="Gyroscopic Acceleration" size="big" disableText/>   | In the <Specialization name="Scrapper"/> traitline. Useful to share <Effect name="superspeed"/> for movement and skips. |
 
 </Card>
 
@@ -261,7 +260,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 <GridItem sm="6">
 <Card title="Mace">
 
-- <Skill name="Barrier Blast" /> generates <Effect name="Barrier"/> in a 240 radius around you
+- <Skill name="Barrier Blast" /> Your third auto attack skill generates <Effect name="Barrier"/> in a 240 radius around you. When granting <Effect name="Barrier"/> you also grant <Boon name="Alacrity"/> thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
 - <Skill name="Energizing Slam" /> grants <Boon name="Regeneration"/> and <Boon name="Vigor"/> to allies, while applying some <Condition name="Vulnerability"/> to enemies.
 - <Skill name="Rocket Fist Prototype" /> can be used for CC.
 
@@ -271,7 +270,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 <GridItem sm="6">
 <Card title="Shield">
 
-- <Skill name="Magnetic Shield" /> offers projectile reflection and some CC when released though <Skill name="Magnetic Inversion  "/>.
+- <Skill name="Magnetic Shield" /> offers projectile reflection and some CC when released though <Skill name="Magnetic Inversion  "/>. 
 - <Skill name="Static Shield" /> can be used as a long block which CCs any enemies attacking you. After the block is over it will cc with <Skill name="Throw Shield"/>.
 
 </Card>
