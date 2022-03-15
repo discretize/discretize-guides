@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: '[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: static
 classification:
   - 5
@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-03-06T22:07:13.428Z
+date: 2022-03-09T15:29:48.527Z
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing good DPS.
@@ -46,7 +46,7 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="162 Agony Resistance (No Spotter/Banner)" gear={{
+<Character title="162 AR (No Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -144,6 +144,8 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
   }}
 >
 
+This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
+
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
@@ -152,7 +154,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Character>
 
-<Character title="162 Agony Resistance (Spotter/Banner)" gear={{
+<Character title="162 AR (Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -249,6 +251,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
+This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
+
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
@@ -257,7 +261,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Character>
 
-<Character title="222 Agony Resistance (No Spotter/Banner 46%bd)" gear={{
+<Character title="222 AR (No Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -354,6 +358,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
+This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
+
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
@@ -361,7 +367,7 @@ If you cannot maintain good <Boon name="resolution"/> uptime during your bursts,
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character title="222 Agony Resistance (Spotter/Banner 46%bd)" gear={{
+<Character title="222 AR (Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -458,6 +464,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
   }}
 >
+
+This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 

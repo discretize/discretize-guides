@@ -1,6 +1,6 @@
 ---
 title: Crit Cap
-date: 2022-01-11T17:24:16.073Z
+date: 2022-03-08T23:55:00.885Z
 image: ./images/crit.png
 description: Learn how to achieve crit cap on various Guild Wars 2 professions.
 ---
@@ -99,6 +99,7 @@ Below are some popular trait choices to push Critical Chance.
 | <Specialization name="Necromancer"/>  | Reaper           | <Trait name="Decimate Defenses"/>   | 2% per stack of <Condition name="Vulnerability"/> on target | up to 50%       | up to 1050 |
 | <Specialization name="Revenant"/>     | Invocation       | <Trait name="Roiling Mists"/>       | <Boon name="Fury"/> has increased effectiveness             | 20%             | 420        |
 | <Specialization name="Revenant"/>     | Renegade         | <Trait name="Brutal Momentum"/>     | Player must have full endurance                             | 33%             | 693        |
+| <Specialization name="Mesmer"/>     | Virtuoso         | <Trait name="Quiet Intensity"/>     | Player must have <Boon name="Fury"/>                               | 10%             | 210        |
 
 ---
 

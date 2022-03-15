@@ -30,7 +30,7 @@ classification:
 compositions:
   - name: _CRGB
 code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T19:36:19.663Z
+date: 2022-03-12T23:14:01.466Z
 benchmark:
   small:
     dps: 36732
@@ -62,7 +62,7 @@ There are a number of different gear, utility and trait setups that allow you to
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character title="Condi Quickbrand 162ar (41.7%bd)" gear={{
+<Character title="Quickbrand 162ar (41.7%bd)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -171,7 +171,7 @@ You will want the following weapons to swap to durning fractal runs:
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
 </Character>
-<Character title="Condi Quickbrand 222ar (41.7%bd)" gear={{
+<Character title="Quickbrand 222ar (41.7%bd)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -272,7 +272,6 @@ You will want the following weapons to swap to durning fractal runs:
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
 
-Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
 You will want the following weapons to swap to durning fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
@@ -280,7 +279,7 @@ You will want the following weapons to swap to durning fractal runs:
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
 </Character>
-<Character title="Condi DPS (Quickness Share)" gear={{
+<Character title="DPS/Quick Share" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
