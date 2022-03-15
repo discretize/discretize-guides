@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-09T15:32:25.782Z
+date: 2022-03-15T02:55:30.208Z
 ---
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
@@ -145,7 +145,7 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
     }}
   >
 
-This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
+This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
