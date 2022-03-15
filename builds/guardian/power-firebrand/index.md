@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-03-09T15:29:48.527Z
+date: 2022-03-15T09:03:33.453Z
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing good DPS.
@@ -465,7 +465,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   }}
 >
 
-This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
+This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
