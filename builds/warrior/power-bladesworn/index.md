@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-11T01:08:17.854Z
+date: 2022-03-16T21:23:58.496Z
 ---
 
 <Warning>
@@ -402,22 +402,19 @@ For that reason you can find a video with openers, that are efficient to use her
 
 <GridItem xs="12" sm="6">
 
-<Card title="Rotation">
+<Card title="Opener">
 
 Start in <Skill name="Unsheathe Gunsaber"/>
 
 1. Cyclone Trigger in <Skill name="Unsheathe Gunsaber"/> (Skill 4)
 2. <Skill name="Sheathe Gunsaber" />
 3. <Skill name="Dragons Roar" />
-4. <Skill name="Gunstinger" />
-5. <Skill name="Cyclone Axe" />
-6. <Skill name="Throw Axe" />
-7. <Skill name="Chop" /> -> <Skill name="Double Chop" /> -> <Skill name="Triple Chop" />
-8. <Skill name="Unsheathe Gunsaber" />
-9. <Skill name="Dragon Trigger" />
-10. Dragon Slash-Force in <Skill name="Dragon Trigger"/> (Skill 1)
-
-_Repeat from Step 1_
+4. <Skill name="Cyclone Axe" />
+5. <Skill name="Gunstinger" />
+6. <Skill name="Chop" /> -> <Skill name="Double Chop" /> -> <Skill name="Triple Chop" />
+7. <Skill name="Unsheathe Gunsaber" />
+8. <Skill name="Dragon Trigger" />
+9. Dragon Slash-Force in <Skill name="Dragon Trigger"/> (Skill 1) 
 
 </Card>
 
