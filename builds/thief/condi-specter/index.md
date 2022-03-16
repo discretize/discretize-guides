@@ -23,7 +23,7 @@ classification:
   - 3
 compositions: null
 code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T19:27:34.625Z
+date: 2022-03-16T20:45:44.412Z
 ---
 
 <Warning>
@@ -247,10 +247,10 @@ On Scepter/Dagger you want to use:
 You should also be weapon swapping off cooldown if you are not playing Pistol to make the best use of <Trait name="Quick Pockets"/> and <Item id="24609"/>
 
 In <Skill name="Enter Shadow Shroud" text="Shadow Shorud"/> you want to use:
-- <Skill name="Mind Shock"/> (Skill 5)
-- <Skill name="Eternal Night"/> (Skill 4)
-- <Skill name="Grasping Shadows"/> (Skill 2)
-- <Skill name="Haunt SHot"/> (Skill 1)
+- Mind Shock (Skill 5)
+- Eternal Night (Skill 4)
+- Grasping Shadows (Skill 2)
+- Haunt Shot (Skill 1)
 
 </Card>
 </GridItem>
