@@ -29,7 +29,7 @@ classification:
   - 4
   - 2
   - 3
-date: 2022-03-08T00:30:26.491Z
+date: 2022-03-16T22:32:39.826Z
 benchmark:
   small:
     dps: 37044
@@ -139,7 +139,7 @@ Due to being a condition based build, it will not benefit as highly from slaying
       },
       "consumables": {
       "foodId": 95942,
-      "utilityId": 9476,
+      "utilityId": 77567,
         "infusion": "Malign +9 Agony Infusion"
       },
       "skills": {
