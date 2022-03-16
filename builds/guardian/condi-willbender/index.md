@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-16T21:10:12.768Z
+date: 2022-03-16T21:31:37.139Z
 ---
 
 <Warning>
@@ -229,21 +229,23 @@ In general for fractals there is no set rotation for <Specialization name="Willb
 11. <Skill name="Orb of Wrath"/>
 
 </Card>
-</GridItem>
-
-<GridItem sm="6">
-<Card title="Golem rotation">
-
-<Video youtube="5Llk01nbHkU" caption="by Support Hero"/>
-Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
-</Card>
-
 <Card title="Precasting">
 
 1.  Use <Skill name="hallowedground"/>
 2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
 3.  Take the _Mistlock Singularity_
 
+You can also precast stacks of <Trait name="lethal tempo"/> using your virtue skills, but this can be tricky due to them being movement abilities.
+</Card>
+</GridItem>
+
+<GridItem sm="6">
+<Card title="Golem rotation">
+
+<Video youtube="5Llk01nbHkU" caption="Sword rotation by Support Hero"/>
+Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+<Video youtube="mCOEGlJkRJ0" caption="Greatsword rotation by [CnD] DaedDee"/>
+Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
 </Card>
 </GridItem>
 </Grid>
