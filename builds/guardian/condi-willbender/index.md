@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-16T21:31:37.139Z
+date: 2022-03-16T21:33:12.174Z
 ---
 
 <Warning>
@@ -184,6 +184,7 @@ You will want the following weapons to swap to durning fractal runs:
 | <Skill name="Sanctuary"/>        | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
 | <Skill name="Chains of light"/>  | <Condition name="Immobile"/> 50/s                                              |
 | <Skill name="Heavens Palm"/>     | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
+| <Skill id="9226"/> (after <Skill id="9147"/>)   | 150 damage |
 
 </Card>
 </GridItem>
