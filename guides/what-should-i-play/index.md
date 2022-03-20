@@ -1,6 +1,6 @@
 ---
 title: What Should I Play?
-date: 2022-03-20T18:07:58.794Z
+date: 2022-03-20T18:10:28.576Z
 image: ./images/whatshouldiplaylogo.png
 description: If you do not know what class you want to play.
 ---
@@ -292,7 +292,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 
 </Card>
 
-<Card specialization="Soulbeast">
+<Card specialization="Soulbeast" title="Power Soulbeast">
 
 | Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
@@ -309,6 +309,20 @@ This build is rather self sufficient due to:
 - High mobility via <Skill name="monarchsleap"/>, <Skill id="45743"/> and <Skill id="12521"/>
 
 Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
+
+</Card>
+
+<Card specialization="Virtuoso" title="Power Virtuoso">
+
+| Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <BuildLink build="Power Virtuoso" specialization="Virtuoso"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="3"/> | <Rating value="4"/> |
+
+The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
+
+You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as Sword auto-attack chains when playing the Focus/Pistol variant.
+
+The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
 </Card>
 
