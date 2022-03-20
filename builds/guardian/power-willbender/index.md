@@ -27,7 +27,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-20T15:47:20.783Z
+date: 2022-03-20T17:29:20.209Z
 ---
 
 <Warning>
@@ -495,6 +495,7 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sh
 <GridItem sm="5">
 <Card title="Situational Skills">
 If you need to use a different skill you can swap <Skill name="Whirling Light"/> without losing much damage.
+
 |                                                        |                                                                                                                                 |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                                                              |
