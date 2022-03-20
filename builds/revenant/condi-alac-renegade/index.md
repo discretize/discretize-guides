@@ -27,7 +27,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-03-09T14:32:39.438Z
+date: 2022-03-20T15:00:35.036Z
 ---
 
 <Warning>
@@ -257,7 +257,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
     },
     "consumables": {
       "foodId": 91878,
-      "utility": "Toxic Focusing Crystal",
+      "utility": "Tuning Icicle",
       "infusion": "Malign +9 Agony Infusion"
     },
     "legends": {
