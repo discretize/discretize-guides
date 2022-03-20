@@ -13,12 +13,12 @@ Boons:
     uptime: null
     variant: party
 title: Power (Quick) Catalyst
-hidden: false
+hidden: true
 rating: Good
 profession: Elementalist
 specialization: Catalyst
-code: '[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-03-07T21:07:02.427Z
+code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-03-20T16:36:08.287Z
 role: Power Damage
 conditions:
   - Burning
