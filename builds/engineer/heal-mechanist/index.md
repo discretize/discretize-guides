@@ -42,7 +42,7 @@ classification:
   - 2
   - 1
   - 2
-date: 2022-03-20T18:07:52.557Z
+date: 2022-03-20T23:28:10.092Z
 ---
 <Warning>
 
@@ -249,6 +249,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | <Skill name="Personal Battering Ram"/> | 232 damage                               |
 | <Skill name="Endothermic Shell"/>      | <Condition name="Chilled"/> 33/s damage  |
 | <Skill name="Glob Shot"/>              | <Condition name="Crippled"/> 20/s damage |
+| <Skill id="63365"/>                    | <Condition name="Weakness"/> 20/s damage |
 
 </Card>
 </GridItem>
@@ -276,29 +277,28 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 </Card>
 </GridItem>
 </Grid>
-{/*
+
 <Card title="Kits">
 
-Activating a Tome will replace your weapon skills and grant you 5 skill usages in the Tome. You can also leave the Tome early though.
+A large part of the support is generated through the use of your Jade Mech and Kits.
 
-Entering a Tome has a cast time and your Skill 5 on both weapon sets can cancel skill casts so make sure to not spam the 5 button when entering the Tome or you might end up cancelling the Tome.
+Entering a Tome has a csat time and your Skill 5 on both weapon sets can cancel skill casts so make sure to not spam the 5 button when entering the Tome or you might end up cancelling the Tome.
 
 Tomes also have the passive effect from the Virtues. Through <Trait name="Loremaster"/> those passive effects will be kept even if the Tomes are on cooldown.
 
 <Skill name="Crash Down" text="Jade Mech"/>:
 
-- Use this Tome mainly for providing a Fire Field.
-- <TomeSkill name="Chapter 1: Searing Spell"/> and <TomeSkill name="Chapter 2: Ignite Burst"/> are mostly useless on <Specialization name="Firebrand" text="Heal Firebrand"/>.
-- <TomeSkill name="Chapter 3: Heated Rebuke"/> is a CC. It pulls enemies together and can be used from range.
-- <TomeSkill name="Chapter 4: Scorched Aftermath"/> creates a Fire Field that can be used to blast <Boon name="Might"/>.
-- <TomeSkill name="Epilogue: Ashes of the Just"/> grants an effect to allies that makes them inflict burning on their next attacks. This scales with <Attribute name="Condition Damage"/> so be careful when using this skill or skip it entirely when running with <Specialization name="Firebrand" text="Condi Firebrands"/>.
-- When running Radiance, dealing damage with any skill in this Tome will trigger <Trait name="Wrath of Justice"/> and share the <Attribute name="Condition Damage"/> to allies through <Trait name="Perfect Inscriptions"/>.
-- When running Radiance killing certain enemies will lower the cooldown on this Tome. Keep in mind this will not reset the skills in the Tome.
-- A common rotation in this Tome is 4-(5)-exit.
+- Your jade mech is your main source of <Boon name="Alacrity"/> generation, while also providing a significant portion of your other boons. It inherits your concentration and healing power thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
+-  <Skill name="Explosive Knuckle"/> and your Mechs auto attacks will slowly generate a small amount of might thanks to <Trait name="Mech Arms: High-Impact Drivers"/>.
+- <Skill name="Crisis Zone"/> grants <Boon name="Alacrity"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and <Boon name="Aegis"/> to 5 targets. It also is a condition cleanse and a stun break.
+- <Skill name="Barrier Blast"/> pulses <Boon name="Might"/> abd <Boon name="Fury"/> to 5 targets resulting in 30 seconds of <Boon name="Might" text="15 Might"/> and <Boon name="Fury"/> being shared. It also generates a large amount of <Effect name="Barrier"/> which in turn generates <Boon name="Alacrity"/> thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
+- You can summon your Mech using <Skill name="Crash Down"/> and recall it with <Skill name="Recall Mech"/>
+- Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesnt work you may have to recall it instead.
+- Remember your Mech commands will generate boons in a radius around your Mech. Make sure it is in range of you and your party before using them! 
 
 <Skill name="Med Kit" />:
 
-- Use this Tome mainly for providing a Fire Field.
+- Your Med Kit is your main source of healing.
 - <TomeSkill name="Chapter 1: Searing Spell"/> and <TomeSkill name="Chapter 2: Ignite Burst"/> are mostly useless on <Specialization name="Firebrand" text="Heal Firebrand"/>.
 - <TomeSkill name="Chapter 3: Heated Rebuke"/> is a CC. It pulls enemies together and can be used from range.
 - <TomeSkill name="Chapter 4: Scorched Aftermath"/> creates a Fire Field that can be used to blast <Boon name="Might"/>.
@@ -407,4 +407,3 @@ Tomes also have the passive effect from the Virtues. Through <Trait name="Lorema
   opening this Tome will also cleanse conditions.
 
 </Card>
-*/}
