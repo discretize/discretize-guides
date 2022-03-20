@@ -16,14 +16,14 @@ conditions:
 boons: null
 cmGuide: ""
 classification:
+  - 5
+  - 4
   - 3
-  - 3
-  - 3
-  - 3
+  - 2
   - 3
 compositions: null
 code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-20T16:38:20.376Z
+date: 2022-03-20T17:44:08.565Z
 ---
 
 <Warning>
