@@ -22,8 +22,14 @@ boons:
   - name: Regeneration
     uptime: 45% (50% party on Quickness variant)
     variant: self
-code: '[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-03-07T17:33:48.970Z
+code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 3
+  - 4
+  - 4
+  - 3
+  - 4
+date: 2022-03-20T17:37:01.512Z
 ---
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
