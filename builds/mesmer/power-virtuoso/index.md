@@ -18,10 +18,10 @@ code: "null"
 classification:
   - 3
   - 4
-  - -2
+  - 3
+  - 3
   - 4
-  - 4
-date: 2022-03-20T18:09:39.167Z
+date: 2022-03-20T18:10:04.727Z
 ---
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
