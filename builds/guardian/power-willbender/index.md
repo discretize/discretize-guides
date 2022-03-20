@@ -27,7 +27,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-09T15:34:07.025Z
+date: 2022-03-20T15:47:20.783Z
 ---
 
 <Warning>
@@ -130,7 +130,7 @@ This build guide is not complete, gear and sections may change regularly as we e
     },
     "skills": {
       "heal": "Litany of Wrath",
-      "utility1": "Flash Combo",
+      "utility1": "Whirling Light",
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "eliteId": 62561
@@ -236,7 +236,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     },
     "skills": {
       "heal": "Litany of Wrath",
-      "utility1": "Flash Combo",
+      "utility1": "Whirling Light",
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "eliteId": 62561
@@ -341,7 +341,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     },
     "skills": {
       "heal": "Litany of Wrath",
-      "utility1": "Flash Combo",
+      "utility1": "Whirling Light",
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "eliteId": 62561
@@ -447,7 +447,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     },
     "skills": {
       "heal": "Litany of Wrath",
-      "utility1": "Flash Combo",
+      "utility1": "Whirling Light",
       "utility2": "Sword of Justice",
       "utility3": "Bane Signet",
       "eliteId": 62561
@@ -494,7 +494,7 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sh
 
 <GridItem sm="5">
 <Card title="Situational Skills">
-
+If you need to use a different skill you can swap <Skill name="Whirling Light"/> without losing much damage.
 |                                                        |                                                                                                                                 |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                                                              |
@@ -568,13 +568,13 @@ This is just a suggested opener. Depending on the encounter and the length of th
 2.  <Skill name="Symbol of Blades" profession="guardian"/> (Sword 2)
 3.  <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
 4.  <Skill name="Sword of Justice" profession="guardian"/>
-5.  <Skill name="Rushing Justice" profession="guardian"/> (F1)
-6.  <Skill name="Flash Combo" profession="guardian"/>
+5.  <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
+6.  <Skill name="Rushing Justice" profession="guardian"/> (F1)
 7.  <Skill name="Zealotsdefense" profession="guardian"/> (Sword 3)
-8.  <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
-9.  **Weapon Swap**
-10. <Skill name="Symbol of Resolution" profession="guardian"/> (GS 4)
-11. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
+8.  **Weapon Swap**
+9. <Skill name="Symbol of Resolution" profession="guardian"/> (GS 4)
+10. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
+11. <Skill name="Whirling Light" profession="guardian"/>
 12. <Skill name="Sword of Justice" profession="guardian"/>
 13. <Skill name="Sword of Justice" profession="guardian"/>
 14. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
