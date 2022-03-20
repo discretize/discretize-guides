@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-20T17:25:59.830Z
+date: 2022-03-20T17:27:03.829Z
 ---
 
 <Warning>
@@ -130,6 +130,8 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
 
 This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed.
 
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
 </Character>
 <Character title="162 AR + Eagle Rune" gear={{
   "profession": "Warrior",
@@ -221,6 +223,8 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
 
 Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
 
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
 </Character>
 <Character title="222 AR" gear={{
   "profession": "Warrior",
@@ -308,6 +312,8 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 </CharacterWithAr>
