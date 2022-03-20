@@ -37,12 +37,12 @@ boons:
     uptime: On Demand
 code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
-  - 3
-  - 3
-  - 3
-  - 3
-  - 3
-date: 2022-03-13T19:38:06.499Z
+  - 4
+  - 2
+  - 2
+  - 1
+  - 2
+date: 2022-03-20T18:07:52.557Z
 ---
 <Warning>
 
@@ -52,7 +52,7 @@ This build is very common in PuGs. It is part of a composition called PuG Meta. 
 
 The <Specialization name="Mechanist" text="Heal Alacrity Mechanist" /> provides permanent <Boon name="Might" />, <Boon name="Alacrity" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Vigor" />, as well as some <Boon name="Protection" />. It also has access to a small amount of <Boon name="Aegis" />, <Boon name="Stability" /> througt <Skill id="63293"/>.
 
-It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Super Elixir"/>, permanent <Boon name="Regeneration"/> and <Boon name="Vigor"/> that you get from <Skill name="Energizing Slam"/>. Whenever you use a Jade Golem skill it pumps out as well a small amount of healing when traited with <Trait name="Soothing Detonation"/>. You can also provide a huge amount of <Effect name="barrier"/> with <Skill id="63141"/>, <Skill name="Barrier Signet"/> and <Skill name="Barrier Blast"/> maintaing a near permanant uptime on your party.
+It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Super Elixir"/>, permanent <Boon name="Regeneration"/> and <Boon name="Vigor"/> that you get from <Skill name="Energizing Slam"/>. Whenever you use a Jade Golem skill it pumps out more healing when traited with <Trait name="Soothing Detonation"/>. You can also provide a huge amount of <Effect name="barrier"/> with <Skill id="63141"/>, <Skill name="Barrier Signet"/> and <Skill name="Barrier Blast"/> maintaing a near permanant uptime on your party.
 
 <Divider text="Equipment"/>
 
