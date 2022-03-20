@@ -22,7 +22,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-03-16T21:23:58.496Z
+date: 2022-03-20T17:25:59.830Z
 ---
 
 <Warning>
@@ -339,6 +339,10 @@ If the encounter is short enough to precast Banners and swap to different skills
   elite="Signet of Rage"
 />
 
+<Warning>
+
+Due to not actively using <Skill name="Signet of Fury"/> in the rotation you can adjust your gear using [gear optimizer](https://optimizer.discretize.eu/) to take advantage fo the extra <Attribute name="Precision"/>!
+</Warning>
 </Card>
 </GridItem>
 
@@ -354,6 +358,7 @@ If the encounter is short enough to precast Banners and swap to different skills
 | <Skill name="onmymark" size="big" disableText/>           | Can be used to pull Krait from the side altars at the Nightmare CM fractal.                                                                                                                  |
 | <Skill name="featherfootgrace" size="big" disableText/>   | Grants <Effect name="Superspeed"/> for skips.                                                                                                                                                |
 | <Skill name="bullscharge" size="big" disableText/>        | 300 CC, gives <Trait name="Peakperformance"/>.                                                                                                                                               |
+| <Skill name="Tactical Reload" size="big" disableText/>    | Used to recharge ammo on your profession skills.                                                                                                                                       |
 
 </Card>
 <Card title="CC skills">
@@ -423,7 +428,7 @@ Start in <Skill name="Unsheathe Gunsaber"/>
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="" caption=""/>
+<Video youtube="jT02tOOVGC8" caption="by Costa Primo"/>
 </Card>
 </GridItem>
 </Grid>
