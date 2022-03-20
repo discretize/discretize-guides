@@ -23,7 +23,7 @@ classification:
   - 3
 compositions: null
 code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-16T20:45:44.412Z
+date: 2022-03-20T16:38:20.376Z
 ---
 
 <Warning>
@@ -191,7 +191,7 @@ Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alac
 |                                            |                                                        |
 | ------------------------------------------ | ------------------------------------------------------ |
 | <Skill id="13132" size="big" disableText/> | 150 Defiance bar damage per ally (Up to 750 CC).       |
-| <Skill name="Mind Shock" size="big" disableText/> | 150 Defiance bar damage                         |
+| <Skill id="63155" size="big" disableText/> | Mind Shock (skill 5) 150 Defiance bar damage           |
 | <Skill id="13020" size="big" disableText/> | 150 Defiance bar damage.                               |
 | <Skill id="13012" size="big" disableText/> | 200 Defiance bar damage (260 with <Item id="24639"/>). |
 | <Skill id="13019" size="big" disableText/> | <Condition name="Crippled"/> 15/s Defiance bar damage. |
