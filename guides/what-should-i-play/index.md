@@ -1,6 +1,6 @@
 ---
 title: What Should I Play?
-date: 2022-01-13T16:55:41.737Z
+date: 2022-03-20T18:07:58.794Z
 image: ./images/whatshouldiplaylogo.png
 description: If you do not know what class you want to play.
 ---
@@ -16,17 +16,54 @@ Outline:
 
 <Divider text="Condi builds"/>
 
-<Card specialization="Renegade" title="Condi Alac Renegade">
+<Card specialization="Renegade" title="Condi (Alac) Renegade">
 
 | Build                                                              | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | ------------------------------------------------------------------ | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="5"/> |
 
-Condi <Specialization name="Renegade"/> is a unique role that you will want to play on [Sunqua Peak](/fractals/sunqua-peak) only, as <BuildLink build="Power Renegade" specialization="Renegade"/> is better in any other fractals. Though, Condi <Specialization name="Renegade"/> has a very decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively, <Skill id="45773"/> that can help your party sustain to high pressure situations, and to top it off, very good cc skills like <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
+<Warning>
 
-Condi <Specialization name="Renegade"/> is pretty independent due to its rather good mobility (<Skill id="27964"/>, <Skill id="28029"/>, <Skill id="27917"/>) and its permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
+This build is mainly to be used in condition comps. In power comps <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support and being more versatile.
 
-Even if Condi <Specialization name="Renegade"/> does less damage than a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> or a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>, it is still the better pick over <BuildLink build="Power Renegade" specialization="Renegade"/> on [Sunqua Peak CM](/fractals/sunqua-peak), especially on Dark Phase (Second Phase). In most cases a party wants to keep a <Specialization name="Renegade"/> as source for <Boon name="Alacrity"/>.
+</Warning>
+
+Condi <Specialization name="Renegade"/> is an unique build that may only be played in condition comps, since it performs much better than <BuildLink build="Power Renegade" specialization="Renegade"/>. Condi <Specialization name="Renegade"/> has decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively. Finally, to top it off this build has high CC capabilities with <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
+
+Condi <Specialization name="Renegade"/> is pretty independent due to its rather good mobility (<Skill id="28029"/>, <Skill id="27917"/>) and permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
+
+
+</Card>
+
+<Card specialization="Firebrand" title="Condi (Quick) Firebrand">
+
+| Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="3"/> |
+
+The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide permanent <Boon name="Quickness"/> (if necessary) to the party while dealing high consistent DPS. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
+
+This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
+
+- Permanent <Boon name="Quickness"/>.
+- Some <Boon name="Might"/> uptime.
+- <Skill id="41780"/> for heals.
+- <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
+- Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
+
+Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
+
+</Card>
+
+<Card specialization="Harbinger" title="Condi (Quick) Harbinger">
+
+| Build                                                           | Synergy             | DPS                | Independence        | Basics              | Mastery             |
+| --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <BuildLink build="Condi Harbinger" specialization="Harbinger"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> |
+
+The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
+
+The <Specialization name="Harbinger" text="Condi Harbinger"/> is more squishy than other <Specialization name="Necromancer"/> builds because it loses maximum health due to the <Effect name="Blight"/> mechanic and <Skill name="Harbinger Shroud"/> does not act as a second health bar. However, even with maximum <Effect name="Blight"/> stacks, you will still be at around 15k health.
 
 </Card>
 
@@ -36,33 +73,14 @@ Even if Condi <Specialization name="Renegade"/> does less damage than a <BuildLi
 | ----------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Condi Deadeye" specialization="Deadeye"/> | <Rating value="3"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> |
 
-The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precasted on the _Mistlock Sanctuary_, and casted again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an non-negligible amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consumed when the boss is vulnerable to this type of damage (up to ten stacks, two per player).
+The **<Specialization text="Condi Deadeye" name="Deadeye"/>** is quite a selfish build, that will not provide your party with any form of support. Instead, the value of this build comes almost entirely from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target. Consequently, the **<Specialization text="Condi Deadeye" name="Deadeye"/>** is able to apply a tremendous amount of <Condition name="Poisoned"/> and <Condition name="Bleeding"/> instances, as well as an non-negligible amount of <Condition name="Torment"/>. As such, it is necessary to be running with a <Item id="44944"/> as it will become very valuable in bursting phases. Lastly, <Skill id="13132"/> can bring up to 750 Defiance Bar damage, if used at the proper moment, meaning if all instances of this ability are consumed when the boss is vulnerable to this type of damage (up to five stacks, one per player).
 
-This build possesses a decent amount of self-sustain, due to <Trait id="2111"/>, but it suffers greatly from a <Boon name="Quickness"/> deficit. However, it doesn't suffer too much from a lack of <Boon name="Alacrity"/> due to the nature of _Initiative_.
+This build possesses a decent amount of self-sustain, due to <Trait id="2111"/>, but it will suffer greatly from a <Boon name="Quickness"/> deficit. However, it won't suffer too much from a lack of <Boon name="Alacrity"/> due to the nature of _Initiative_.
 
-Overall, this build is an excellent pick if taken as an alt class: it is meant for players who enjoy high-risk, high-reward rotations. Played correctly, it is excellent in PuGs on single-target bosses such as the ones from Challenge Mode Fractals, most notably Sorrowful Spellcaster (Light and Dark Ai) and Ensolyss, or any boss with little to no phases. Details for this build can be found at the bottom of the page.
+Overall, this build is an excellent pick if taken as an alt class: it is meant for players who enjoy high-risk, high-reward rotations. Played correctly, it is excellent in PuGs on single-target bosses such as the ones from Challenge Mode Fractals, most notably Sorrowful Spellcaster (Light Ai) and Ensolyss, or any boss with little to no phases, as well as multiple add phases, such as the ones from Shattered Observatory.
+A playlist of videos showcasing the **<Specialization text="Condi Deadeye" name="Deadeye"/>** and the **<Specialization text="Condi Daredevil" name="Daredevil"/>** can be found on [Magic's channel](https://www.youtube.com/playlist?list=PLC8zIP7qMiNPQAHWjt_V_B_EtGaJaGJaM). It is currently incomplete, but you will find benchmarks, CM boss kills, and some T4 gameplay in organized groups.
 
-</Card>
-
-<Card specialization="Firebrand" title="Condi Firebrand">
-
-| Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
-| --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="3"/> |
-
-The **<Specialization text="Condi Firebrand" name="Firebrand"/>** provides permanent <Boon name="Quickness"/> to the party while dealing high consistent DPS. In organized teams this build is inferior to <Specialization name="Firebrand" text="Power Firebrand"/> because it takes too much time to ramp up the damage. For slower groups however you can achieve very competitive results making DPS players sweat. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
-
-This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
-
-- Permanent <Boon name="Quickness"/>.
-- Permanent 25x Might if you swap to <Trait name="zealous scepter"/>.
-- <Skill id="41780"/> for heals.
-- <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
-- Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
-
-One main downside of <Specialization text="Condi Firebrand" name="Firebrand"/> is that you lack CC (Crowd Control), and missing the unique party wide +216 <Attribute name="Power"/> buff provided by <Skill name="Bane Signet"/>.
-
-Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
+We do not recommend running these builds in Shattered Observatory for new players or beginners, as positioning is most important there, and jumping <Skill name="shadowstrike"/> becomes an issue due to Cosmic Energy (low gravity). Extensive details for the build can be found at the bottom of the page.
 
 </Card>
 
@@ -72,13 +90,15 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 | ----------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Condi Scourge" specialization="Scourge"/> | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="3"/> |
 
-The <Specialization name="Scourge" text="Condi Scourge"/> is an easy to learn build that provides access to good off-support tools, can be augmented to provide the means to provide a safety net at an acceptable dps loss with the Blood Magic traitline (without any stat changes), and can place conditions/cc on multiple targets simultaneously with its shades and <Skill name="Epidemic" />. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools it can help
+The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic traitline (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades and <Skill name="Epidemic"/>. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
 
-The <Specialization name="Scourge" text="Condi Scourge"/> has multiple offensive control skill options: (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Scourge" text="Condi Scourge"/> and can modify itself to fit many given situations in fractals.
+The <Specialization name="Scourge" text="Condi Scourge" /> has multiple offensive control
+skill options, like using <Control name="Pull" />, corrupt boons for <Instability name="No Pain, No Gain" />
+, cause conditions like <Condition name="Blinded" /> and <Condition name="Immobile" />
+, etc. <Specialization name="Scourge" text="Condi Scourge" /> and can modify
+itself to fit many given situations in fractals.
 
 This build also does not have a formal rotation, and instead has a prioritization for its skills making it easy to focus on side objectives and quickly pick up where you left off in dealing damage.
-
-Due to being a condition based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
 
 </Card>
 
@@ -100,6 +120,19 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 </Card>
 
+<Card specialization="Specter" title="Condi Specter">
+
+| Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <BuildLink build="Condi Specter" specialization="Specter"/> | <Rating value="5"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="3"/> |
+
+The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. The value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target.
+
+At the same time it can generate large amounts of <Effect name="Barrier"/> for your party, some healing and a small amount of <Boon name="Might"/> and <Boon name="Swiftness"/> by targeting allied players.
+
+</Card>
+
+
 <Card specialization="Weaver" title="Condi Weaver">
 
 | Build                                                     | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
@@ -116,9 +149,30 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
 
 </Card>
 
+<Card specialization="Willbender" title="Condi Willbender">
+
+| Build                                                     | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| --------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <BuildLink build="Condi Willbender" specialization="Willbender"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="3"/> |
+
+The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC and mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party with <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
+
+There are many different gear variations that can be run on this build that vary damage wise in certain situations. Overall when considering <Effect name="Exposed"/> and the fact you can share gear with <Specialization name="Firebrand" text ="Condi Firebrand"/> makes the setup below the best option for fractals. If you want to optimize for different situations you can use our [gear optimizer](https://optimizer.discretize.eu/).
+
+This build also makes use of a <Item id="96613"/> gaining <Attribute name="Condition Damage"/> from <Trait name="Power of the Virtuous"/>. Removing this does not change the gear!
+
+If you need to swap a utility out, <Skill name="Signet of Wrath"/> is a minor dps increase and should be swapped out when other skills suit the encounter better.
+You will want the following weapons to swap to durning fractal runs:
+
+- Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
+- A staff for <Boon name="Might"/> pre-stacking.
+- Greatsword can also be run as an alternative to Sword offering extra cleave and a useful leap
+
+</Card>
+
 <Divider text="Power Builds"/>
 
-<Card specialization="Berserker">
+<Card specialization="Berserker" title="Banner Baerserker">
 
 | Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
@@ -134,21 +188,52 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 
 </Card>
 
-<Card specialization="Chronomancer" title="Power Chronomancer">
+<Card specialization="Bladesworn" title="Banner Bladesworn">
 
-| Build                                                                 | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
-| --------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| <BuildLink build="Power Chronomancer" specialization="Chronomancer"/> | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> |
+| Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <BuildLink build="Power Bladesworn" specialization="Bladesworn"/> | <Rating value="3"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="2"/> | <Rating value="4"/> |
 
-The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long ramp-up times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
+The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favour of short damage spikes. Unfortunately if enemies dont phase or die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
 
-To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation on the go and push the limits of your class, but even then you will probably be a hinderance for your group.
+Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
-You'll provide boon removal through your clones, auto-attack chains, <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
+The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone. Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
-The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized.
 
-This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
+</Card>
+
+<Card specialization="Firebrand" title="Power (Quick) Firebrand">
+
+| Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <BuildLink build="Power Firebrand" specialization="Firebrand"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="4"/> |
+
+The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing good DPS.
+
+It plays very similar to <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> and <BuildLink build="Power Willbender" specialization="Willbender"/> with the addition of <Specialization name="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
+
+Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' <Attribute name="Power"/> by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
+
+<Warning>
+
+Its worth mentioning that <Specialization text="Power Quickness Firebrand" name="Firebrand"/> is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run <BuildLink build="Condi Firebrand" specialization="Firebrand"/> as it provides much higher sustained DPS.
+
+</Warning>
+
+</Card>
+
+<Card specialization="Renegade" title="Power (Alac) Renegade">
+
+| Build                                                         | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| ------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <BuildLink build="Power Renegade" specialization="Renegade"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="5"/> |
+
+The <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
+
+Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
+
+Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 </Card>
 
@@ -158,33 +243,9 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 | --------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> |
 
-The <Specialization name="Dragonhunter" /> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
+<Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
 
-The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/>, <Skill name="standyourground"/>.
-
-Compared to other builds the <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
-
-It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-
-</Card>
-
-<Card specialization="Firebrand">
-
-| Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
-| --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| <BuildLink build="Power Firebrand" specialization="Firebrand"/> | <Rating value="5"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="4"/> |
-
-The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing decent DPS.
-
-It plays very similar to <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> with the addition of <Specialization name="Firebrand"/> mantras and tomes. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
-
-Using <Skill name="Bane Signet"/> to break defiance bars also increases your allies' <Attribute name="Power"/> by 216 for 10 seconds thanks to <Trait name="Perfect Inscriptions"/>.
-
-<Warning>
-
-Its worth to mention that _<Specialization text="Power Quickness Firebrand" name="Firebrand"/>_ is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run <BuildLink build="Condi Firebrand" specialization="Firebrand"/> as it provides much higher sustained DPS.
-
-</Warning>
+<Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds. It also benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 </Card>
 
@@ -195,7 +256,6 @@ Its worth to mention that _<Specialization text="Power Quickness Firebrand" name
 | <BuildLink build="Power Holosmith" specialization="Holosmith"/> | <Rating value="2"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> |
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
-
 It offers:
 
 - High burst and good sustained damage
@@ -205,7 +265,9 @@ It offers:
 - An incredible skill set for various skips in Tier 4 fractals due to access to <Effect name="Stealth"/>, as well as <Effect name="Superspeed"/> and a targeted leap with <Skill name="Jump Shot"/>
 - Some **self**-generation of <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Fury"/>
 
-The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>. The main thing the build lacks compared to other Power DPS classes is a unique party buff for Power compositions like <Specialization text="Power Dragonhunter" name="Dragonhunter"/>'s <Skill name="Bane Signet"/> share.
+The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>.
+
+The main thing the build lacks compared to other Power DPS classes is a unique party buff for Power compositions like <Specialization text="Power Dragonhunter" name="Dragonhunter"/>'s <Skill name="Bane Signet"/> share.
 
 There are 3 different versions of <Specialization text="Power Holosmith" name="Holosmith"/>, namely Sword ECSU, Sword PBM and Rifle PBM. They are named after:
 
@@ -222,23 +284,11 @@ There are 3 different versions of <Specialization text="Power Holosmith" name="H
 
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.
 
-The <Specialization name="Reaper" text="Power Reaper"/> has multiple offensive skill options (<Control name="Pull"/>, boon corruptions for <Instability name="No Pain, No Gain"/>, <Condition name="Blinded"/>, <Condition name="Immobile"/>, etc.) <Specialization name="Reaper" text="Power Reaper"/> can modify itself to fit many given situations in fractals.
+The <Specialization name="Reaper" text="Power Reaper" /> has multiple offensive skill
+options (<Control name="Pull" />, boon corruptions for <Instability name="No Pain, No Gain" />
+, <Condition name="Blinded" />, <Condition name="Immobile" />, etc.) <Specialization name="Reaper" text="Power Reaper" /> can modify itself to fit many given situations in fractals.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-
-</Card>
-
-<Card specialization="Renegade">
-
-| Build                                                         | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
-| ------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| <BuildLink build="Power Renegade" specialization="Renegade"/> | <Rating value="5"/> | <Rating value="2"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="5"/> |
-
-The <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/>, an insanely strong party heal and additional damage with <Skill name="soulcleavessummit"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
-
-Damage wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter: in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS player sweaty.
-
-Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 </Card>
 
@@ -262,7 +312,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 </Card>
 
-<Card specialization="Weaver">
+<Card specialization="Weaver" title="Power Weaver">
 
 | Build                                                     | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | --------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
@@ -273,6 +323,16 @@ The <Specialization name="Weaver" text="Power Sword Weaver"/> is currently one o
 Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
 
 Also this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+
+</Card>
+
+<Card specialization="Willbender" title="Power Willbender">
+
+| Build                                                     | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| --------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <BuildLink build="Power Willbender" specialization="Willbender"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> |
+
+<Specialization name="Willbender" text="Power Willbender"/> has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="62532"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>. It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 </Card>
 
@@ -295,6 +355,24 @@ There are Four variants on the site; a low AR Celestial variant, a high AR Celes
 </Card>
 
 <Divider text="Heal Builds"/>
+
+<Card specialization="Mechanist" title="Heal Alacrity Mechanist">
+
+| Build                                                          | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| -------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <BuildLink build="Heal Mechanist" specialization="Mechanist"/> | <Rating value="4"/> | <Rating value="2"/> | <Rating value="2"/> | <Rating value="1"/> | <Rating value="2"/> |
+
+<Warning>
+
+This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities.
+
+</Warning>
+
+The <Specialization name="Mechanist" text="Heal Alacrity Mechanist" /> provides permanent <Boon name="Might" />, <Boon name="Alacrity" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Vigor" />, as well as some <Boon name="Protection" />. It also has access to a small amount of <Boon name="Aegis" />, <Boon name="Stability" /> througt <Skill id="63293"/>.
+
+It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Super Elixir"/>, permanent <Boon name="Regeneration"/> and <Boon name="Vigor"/> that you get from <Skill name="Energizing Slam"/>. Whenever you use a Jade Golem skill it pumps out more healing when traited with <Trait name="Soothing Detonation"/>. You can also provide a huge amount of <Effect name="barrier"/> with <Skill id="63141"/>, <Skill name="Barrier Signet"/> and <Skill name="Barrier Blast"/> maintaing a near permanant uptime on your party.
+
+</Card>
 
 <Card specialization="Firebrand" title="Heal Firebrand">
 
