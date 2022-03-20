@@ -22,12 +22,12 @@ boons:
     variant: party
 code: "[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
+  - 4
+  - 4
   - 3
-  - 3
-  - 3
-  - 3
-  - 3
-date: 2022-03-20T17:29:20.209Z
+  - 2
+  - 4
+date: 2022-03-20T18:04:48.199Z
 ---
 
 <Warning>
