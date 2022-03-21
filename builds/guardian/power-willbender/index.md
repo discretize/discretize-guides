@@ -27,7 +27,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-03-20T18:04:48.199Z
+date: 2022-03-21T22:18:11.184Z
 ---
 
 <Warning>
@@ -559,7 +559,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 </GridItem>
 
 <GridItem xs="12" sm="6">
-<Card title="Golem Rotation">
+<Card title="Opener">
 
 **Rotation:**
 
@@ -588,7 +588,7 @@ This is just a suggested opener. Depending on the encounter and the length of th
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="" caption=""/>
+<Video youtube="OiH1BLuJpo" caption="by Nagy"/>
 </Card>
 </GridItem>
 </Grid>
