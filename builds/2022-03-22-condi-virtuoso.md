@@ -5,11 +5,11 @@ role: Condi Damage
 profession: Mesmer
 specialization: Virtuoso
 code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-22T09:02:41.343Z
+date: 2022-03-22T09:50:26.877Z
 ---
-The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condi build for <Specialization name="Mesmer"/> in fractals.
+The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
 
-It offers great sustained DPS with a very simple rotation and a ton of self-sustain.
+It offers great sustained DPS with a very simple rotation. On top of that it also has a high range and great sustain due to <Trait name="Jagged Mind"/>.
 
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized.
 
@@ -182,6 +182,7 @@ This is just a test. Rampager should replace some Sinister pieces.
 |                                                         |                                                     |
 | ------------------------------------------------------- | --------------------------------------------------- |
 | <Trait name="Duelist's Discipline" size="big" disableText/> | If you're playing with Pistol, take this over <Trait name="Phantasmal Fury"/>. |
+| <Trait name="Sharpening Sorrow" size="big" disableText/> | Remember to change your gear accordingly when running this trait.
 
 <Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
 
@@ -208,6 +209,7 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 | <Skill name="Null Field" size="big" disableText/>            | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
 | <Skill name="Signet of Inspiration" size="big" disableText/> | For precasting before the boss.                                                                                                                                                            |
 | <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |                                                                                                                                                |
+| <Skill name="Thousand Cuts" size="big" disableText/>              | Some extra DPS at the cost of the CC from <Skill name="Signet of Humility"/>.                                                                                                                                                  |                                                                                                                                                |
 | **Skips**                                                    |                                                                                                                                                                                            |
 | <Skill name="Blade Leap" size="big" disableText/>            | A 600 leap (only availible as  <Specialization name="Virtuoso"/>)                                                                                                              |
 | <Skill name="Returning Edge" size="big" disableText/>        | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                             |
@@ -223,6 +225,43 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 </GridItem>
 </Grid>
 
-<Divider text="Details"/>
+
 
 <Divider text="Rotation / Skill usage"/>
+
+<Card title="CC skills">
+
+</Card>
+
+
+
+<Card title="Important Traits">
+
+- <Trait name="Jagged Mind"/> will give you a large amount of sustain and makes your Blade skills inflict <Condition name="Bleeding"/>. Namely, those are your Dagger attacks as well as your Bladesongs.
+
+- <Trait name="Deadly Blades"/> gives you a 5% damage modifier after using a Bladesong. You'll want to keep up this buff as much as you can.
+
+- <Trait name="Bloodsong"/> stocks extra blades when you inflict enough <Condition name="Bleeding"/> and will make sure that you are always at 5 Blades for your Bladesongs as long as you keep attacking.
+- <Trait name="Sharper Images"/> makes your Phantasms inflict <Condition name="Bleeding"/> on critical hits, making multi-hit Phantasms stronger. <Trait name="Phantasmal Fury"/> combined with the gear choices will ensure ciritcal hits of your Phantasms.
+
+
+</Card>
+
+<Card title="Skill priority">
+
+If you lose yourself in the rotation follow this priority list.
+
+1. Use Bladesong skills to keep up the damage buff from <Trait name="Jagged Mind"/>. Make sure to delay <Skill name="Bladesong Sorrow"/> as little as possible and always use it with 5 Blades.
+2. Use Phantasms (<Skill name="Phantasmal Swordsman"/> and <Skill name="Phantasmal Warden"/>) whenever ready.
+3. Use <Skill name="Signet of the Ether"/> to reset <Skill name="Phantasmal Warden"/>.
+4. Use <Skill name="Signet of Illusions"/> to reset your Bladesongs.
+5. Use <Skill name="Bladecall"/> and <Skill name="Unstable Bladestorm"/> off-cooldown. You can also weave them in between other attacks, even ones with higher priority.
+6. Auto-attack on Dagger.
+
+Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that direct damageing skills such as Bladecall and auto-attacks get higher priority if the boss is close to phasing.
+
+Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not use too much CC on the breakbar and space out your big CC cooldowns like Signet of Humility so they don't overlap with other powerful CC skills.
+
+Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used for skips, blocks and damage mitigation. Make sure to read what they do and dont be afraid to swap to them situationally, ecpecially in T4s.
+
+</Card>
