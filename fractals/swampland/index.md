@@ -1,6 +1,6 @@
 ---
 cycle: Night
-date: 2022-01-28T09:40:58.201Z
+date: 2022-03-22T23:58:09.496Z
 title: Swampland
 image: ./images/bloomhunger_spirit_onslaught.jpg
 group: T4
@@ -17,20 +17,26 @@ sigils:
 consumables:
   - 78978
 record:
-  time: 5 min 9 sec
+  time: 3 min 01 sec
   by:
-    - name: Lucky Noobs
-      tag: LN
+    - name: Invicta Luna
+      tag: iV
   youtube:
-    - id: 2NeDItrX44I
-      name: Nightmare
+    - id: zO5I1PKzSds
+      name: Pineapple
+      specialization: Guardian
+    - id: lKBbJ6MKslE
+      name: Tantor
+      specialization: Guardian
+    - id: PtANhScACaE
+      name: Blackhawk
+      specialization: Renegade
+    - name: Delay
+      specialization: Soulbeast
+      id: GYiXAYsULHc
+    - name: Roul
       specialization: Chronomancer
-    - id: XTynF47Ekz4
-      name: Flaschor
-      specialization: Tempest
-    - id: W3shEwUN0hU
-      name: Roca
-      specialization: Druid
+      id: pvUsltVLoJM
 ---
 
 <Grid>
