@@ -5,7 +5,7 @@ role: Condi Damage
 profession: Mesmer
 specialization: Virtuoso
 code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-22T09:50:26.877Z
+date: 2022-03-22T09:51:44.033Z
 ---
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
 
@@ -169,11 +169,11 @@ This is just a test. Rampager should replace some Sinister pieces.
 <GridItem sm="7">
 <Card title="Extra Weapons">
 
-- Pistol for short phases/extra CC
+- Pistol instead of Sword for short phases/extra CC
 - Torch for stealth, blasting and precasting
 - Staff for precasting at certain bosses.
 - Shield for blocks if you are skipping with <Specialization name="Chronomancer"/>
-- Sword for a 600 leap or skips on <Specialization name="Mirage"/>
+- Sword (in main-hand) for a 600 leap on <Specialization name="Virtuoso"/> or skips on <Specialization name="Mirage"/>
 
 </Card>
 <Traits traits1="Illusions" traits1Selected="Shatter Storm, Maim the Disillusioned, Phantasmal Force" traits2="Dueling" traits2Selected="Phantasmal Fury, Fencer's Finesse, Superiority Complex" traits3="Virtuoso" traits3Selected="Jagged Mind,Phantasmal Blades,Bloodsong"/>
