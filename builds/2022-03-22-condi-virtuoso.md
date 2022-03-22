@@ -1,11 +1,12 @@
 ---
 title: Condi Virtuoso
+hidden: true
 rating: Good
-role: Condi Damage
 profession: Mesmer
 specialization: Virtuoso
 code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-22T09:51:44.033Z
+date: 2022-03-22T09:56:07.743Z
+role: Condi Damage
 ---
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
 
