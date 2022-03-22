@@ -3,7 +3,7 @@ cycle: Day
 potions:
   - id: 8887
     description: for Old Tom and the Raving Asura
-date: 2022-01-28T09:32:05.498Z
+date: 2022-03-22T23:51:43.539Z
 title: Uncategorized
 image: ./images/header.jpg
 group: T4
@@ -25,23 +25,20 @@ consumables:
   - 8764
   - 8801
 record:
-  time: 2 min 14 sec
+  time: 2 min 01 sec
   by:
-    - name: Lucky Noobs
-      tag: LN
+    - name: Discretize
+      tag: dT
   youtube:
-    - id: CipdjbelW-0
-      name: Nightmare
-      specialization: Chronomancer
-    - id: iwpSxdqcdyY
-      name: CopyThisStatic
+    - id: WwKgijZInZY
+      name: Hyp
+      specialization: Scourge
+    - id: TMaUAVzLx40
+      name: Marty
       specialization: Firebrand
-    - id: rgh5tnrg29o
-      name: Runitdown
-      specialization: Berserker
-    - id: BHXFkdm3TFY
-      name: Inam
-      specialization: Renegade
+    - id: 1hDaW8FnuH0
+      name: Jetrell
+      specialization: Firebrand
 ---
 
 <Grid>
