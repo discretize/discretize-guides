@@ -5,7 +5,7 @@ rating: Good
 profession: Mesmer
 specialization: Virtuoso
 code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-22T09:56:07.743Z
+date: 2022-03-24T11:43:08.714Z
 role: Condi Damage
 ---
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
@@ -16,6 +16,12 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
 
 
 <Divider text="Equipment"/>
+
+<Warning>
+This build has very high sustain and therefore you can usually use <Item name="Writ of Masterful Malice"/>.
+
+There are many different gear setups that work very similarly on <Specialization text="Condi Virtuoso" name="Virtuoso"/>. If you want to change the food/utility or sigils, check out the gear optimizer for more variants.
+</Warning>
 
 <CharacterWithAr>
 <Character title="Test" gear={{
@@ -162,6 +168,9 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
 This is just a test. Rampager should replace some Sinister pieces.
 
 </Character>
+
+
+
 </CharacterWithAr>
 
 <Divider text="Build"/>
@@ -183,7 +192,7 @@ This is just a test. Rampager should replace some Sinister pieces.
 |                                                         |                                                     |
 | ------------------------------------------------------- | --------------------------------------------------- |
 | <Trait name="Duelist's Discipline" size="big" disableText/> | If you're playing with Pistol, take this over <Trait name="Phantasmal Fury"/>. |
-| <Trait name="Sharpening Sorrow" size="big" disableText/> | Remember to change your gear accordingly when running this trait.
+| <Trait name="Sharpening Sorrow" size="big" disableText/> | Remember to change your gear accordingly if you decide to run this trait.
 
 <Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
 
@@ -230,11 +239,24 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 
 <Divider text="Rotation / Skill usage"/>
 
-<Card title="CC skills">
+<Grid>
 
+
+<GridItem sm="6">
+
+<Card title="Information">
+
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
+
+It's important to note that phantasms do not benefit from most modifiers, unless it is stated to be the case.
+
+They do however benefit from <Effect name="Exposed"/>.
 </Card>
 
+</GridItem>
 
+
+<GridItem sm="6">
 
 <Card title="Important Traits">
 
@@ -246,11 +268,17 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 - <Trait name="Sharper Images"/> makes your Phantasms inflict <Condition name="Bleeding"/> on critical hits, making multi-hit Phantasms stronger. <Trait name="Phantasmal Fury"/> combined with the gear choices will ensure ciritcal hits of your Phantasms.
 
 
+
 </Card>
+</GridItem>
+
+
+
+<GridItem sm="8">
 
 <Card title="Skill priority">
 
-If you lose yourself in the rotation follow this priority list.
+If you lose yourself in the exact rotation, follow this priority list.
 
 1. Use Bladesong skills to keep up the damage buff from <Trait name="Jagged Mind"/>. Make sure to delay <Skill name="Bladesong Sorrow"/> as little as possible and always use it with 5 Blades.
 2. Use Phantasms (<Skill name="Phantasmal Swordsman"/> and <Skill name="Phantasmal Warden"/>) whenever ready.
@@ -266,3 +294,72 @@ Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not us
 Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used for skips, blocks and damage mitigation. Make sure to read what they do and dont be afraid to swap to them situationally, ecpecially in T4s.
 
 </Card>
+
+</GridItem>
+
+<GridItem sm="4">
+
+<Card title="CC skills">
+
+|                                      |                             |
+| ------------------------------------ | --------------------------- |
+| <Skill name="Bladesong Dissonance"/> | 50 damage (per Blade)      |
+| <Skill name="Counter Blade"/>        | 200 damage                  |
+| <Skill name="Into the Void"/>        | 150 damage                  |
+| <Skill name="Signet of Humility"/>   | 600 damage                  |
+| <Skill name="Magic Bullet"/>         | 250 damage                  |
+| <Condition name="Slow"/>             | 50 damage per second        |
+
+</Card>
+
+</GridItem>
+
+<GridItem sm="6">
+<Card title="Precasting">
+
+At the Mistlock Singularity
+
+- Make sure to start with 5 Blades. If you need use <Skill name="Blade Renewal"/> to replenish them.
+1. Blast fire fields with <Skill name="The Prestige"/>.
+2. Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
+3. Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
+4. Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
+
+At the boss (spawnable bosses)
+
+1. You can cast <Skill name="Rain of Swords"/> and then swap back to another utility skill. Skip this step if you did not use <Skill name="Mimic"/> at the singularity.
+2. You can precast <Skill name="The Prestige"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
+3. Start casting <Skill name="Signet of Humility"/> if the boss starts with a breakbar.
+
+At the boss (prespawned bosses)
+
+- You can also precast <Skill name="Phantasmal Warlock"/>.
+
+</Card>
+
+
+</GridItem>
+
+<GridItem sm="6">
+<Card title="Example Opener">
+
+These is a basic opener, you will need to adapt this depending on the boss and cooldowns.
+
+- Start on Dagger/Sword (or Pistol)
+1. <Skill name="Phantasmal Swordsman"/>
+2. <Skill name="Bladesong Harmony"/>
+3. <Skill name="Bladecall"/>  
+4. _Weapon Swap_
+5. <Skill name="Unstable Bladestorm"/>
+6. <Skill name="Phantasmal Warden"/>
+7. <Skill name="Bladesong Sorrow"/>
+8. <Skill name="Signet of the Ether"/>
+9. <Skill name="Phantasmal Warden"/>
+10. <Skill name="Bladesong Harmony"/>
+11. <Skill name="Signet of Illusions"/>
+
+</Card>
+
+</GridItem>
+
+</Grid>
