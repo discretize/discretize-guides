@@ -28,7 +28,7 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-03-20T17:47:18.308Z
+date: 2022-03-26T19:38:24.409Z
 ---
 
 <Warning>
@@ -243,7 +243,7 @@ You can also precast stacks of <Trait name="lethal tempo"/> using your virtue sk
 <GridItem sm="6">
 <Card title="Golem rotation">
 
-<Video youtube="5Llk01nbHkU" caption="Sword rotation by Support Hero"/>
+<Video youtube="x76DgzoGCnA" caption="Sword rotation by Support Hero"/>
 Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
 <Video youtube="mCOEGlJkRJ0" caption="Greatsword rotation by [CnD] DaedDee"/>
 Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
