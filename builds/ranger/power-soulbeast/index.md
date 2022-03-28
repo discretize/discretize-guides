@@ -18,7 +18,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-03-08T00:21:08.409Z
+date: 2022-03-28T17:58:39.930Z
 conditions:
   - Vulnerability
 cmGuide: pug
@@ -39,32 +39,32 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="162 Agony Resistance" gear={{
+<Character title="162 AR (No Banner)"  gear={{
   "profession": "Ranger",
   "weight": "medium",
   "gear": [
     "Berserker",
+    "Assassin",
+    "Assassin",
     "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
+    "Assassin",
     "Berserker",
     "Berserker",
     "Assassin",
     "Assassin",
     "Assassin",
     "Berserker",
-    "Berserker",
+    "Assassin",
     "Berserker",
     "Berserker"
   ],
   "attributes": {
-    "Health": 17422,
+    "Health": 19772,
     "Armor": 2511,
-    "Power": 3815,
-    "Precision": 2572,
+    "Power": 3715,
+    "Precision": 2575,
     "Toughness": 1393,
-    "Vitality": 1150,
+    "Vitality": 1385,
     "Ferocity": 2106,
     "Condition Damage": 900,
     "Expertise": 0,
@@ -73,10 +73,19 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
     "Agony Resistance": 162,
     "Condition Duration": 0,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.9985714285714287,
+    "Critical Chance": 1,
     "Critical Damage": 2.904,
-    "Effective Power": 32766.045319097866,
-    "Power DPS": 35289.421932043406,
+    "Power Coefficient": 2797,
+    "Burning Coefficient": 0.6,
+    "Bleeding Coefficient": 4.5,
+    "Poison Coefficient": 2.4,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 31937.08478386822,
+    "Power DPS": 34396.62154042334,
+    "Siphon DPS": 34396.62154042334,
     "Bleeding Damage": 118.75,
     "Bleeding Stacks": 4.5,
     "Bleeding DPS": 534.375,
@@ -92,61 +101,272 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
     "Torment Damage": 176.25,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 36405.515682043406,
-    "Effective Health": 87057994.02985075,
-    "Survivability": 44259.275053304904,
+    "Damage": 35652.46529042334,
+    "Effective Health": 98800979.10447763,
+    "Survivability": 50229.2725493023,
     "Effective Healing": 390,
     "Healing": 390
   },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Longbow",
-      "weapon1MainSigil1": "force",
-      "weapon1MainSigil2": "impact",
-      "weapon2MainType": "Sword",
-      "weapon2MainSigil1": "force",
-      "weapon2OffType": "Axe",
-      "weapon2OffSigil": "impact"
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Longbow",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1MainSigil2Id": 24868,
+    "weapon2MainType": "Sword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2OffType": "Axe",
+    "weapon2OffSigilId": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 9443,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "skills": {
+    "healId": 31914,
+    "utility1Id": 12492,
+    "utility2Id": 12633,
+    "utility3Id": 12497,
+    "eliteId": 45717
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
     },
-    "consumables": {
-      "foodId": 91805,
-      "utility": "superior-sharpening-stone",
-      "infusion": "Mighty +9 Agony Infusion"
+    {
+      "id": "fury",
+      "type": "Boon"
     },
-    "skills": {
-      "heal": "We Heal as One",
-      "utility2": "Sic Em",
-      "utility3": "Frost Spirit",
-      "elite": "One Wolf Pack"
+    {
+      "id": "protection",
+      "type": "Boon"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
-  }}
->
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "frostSpirit",
+      "gw2id": 12497,
+      "type": "Skill"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}} >
 
-If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character> 
-<Character title="222 Agony Resistance" gear={{
+
+<Character title="162 AR (Banner)" gear={{
   "profession": "Ranger",
   "weight": "medium",
   "gear": [
     "Berserker",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Assassin",
     "Berserker",
     "Berserker",
     "Berserker",
     "Berserker",
     "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 19772,
+    "Armor": 2511,
+    "Power": 3812,
+    "Precision": 2575,
+    "Toughness": 1393,
+    "Vitality": 1385,
+    "Ferocity": 2106,
+    "Condition Damage": 900,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 1,
+    "Critical Damage": 2.904,
+    "Power Coefficient": 2797,
+    "Burning Coefficient": 0.6,
+    "Bleeding Coefficient": 4.5,
+    "Poison Coefficient": 2.4,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 32770.97367324513,
+    "Power DPS": 35294.72982828903,
+    "Siphon DPS": 35294.72982828903,
+    "Bleeding Damage": 118.75,
+    "Bleeding Stacks": 4.5,
+    "Bleeding DPS": 534.375,
+    "Burning Damage": 422.65625,
+    "Burning Stacks": 0.6,
+    "Burning DPS": 253.59375,
+    "Confusion Damage": 145.15625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 136.71875,
+    "Poison Stacks": 2.4,
+    "Poison DPS": 328.125,
+    "Torment Damage": 176.25,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 36550.57357828903,
+    "Effective Health": 98800979.10447763,
+    "Survivability": 50229.2725493023,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Longbow",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1MainSigil2Id": 24868,
+    "weapon2MainType": "Sword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2OffType": "Axe",
+    "weapon2OffSigilId": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 9443,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "skills": {
+    "healId": 31914,
+    "utility1Id": 12492,
+    "utility2Id": 12633,
+    "utility3Id": 12497,
+    "eliteId": 45717
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "spotter",
+      "gw2id": 1016,
+      "type": "Trait"
+    },
+    {
+      "id": "frostSpirit",
+      "gw2id": 12497,
+      "type": "Skill"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}} >
+
+This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
+
+If you have neither, use the 162 AR (No Banner) build or use <Item id="12486"/>.
+
+</Character>  
+
+<Character title="222 AR (No Banner)" gear={{
+  "profession": "Ranger",
+  "weight": "medium",
+  "gear": [
+    "Berserker",
+    "Assassin",
     "Berserker",
     "Berserker",
     "Berserker",
+    "Berserker",
+    "Berserker",
+    "Assassin",
+    "Assassin",
     "Assassin",
     "Berserker",
     "Berserker",
@@ -154,12 +374,12 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Berserker"
   ],
   "attributes": {
-    "Health": 17422,
+    "Health": 19772,
     "Armor": 2601,
-    "Power": 3895,
-    "Precision": 2580,
+    "Power": 3803,
+    "Precision": 2575,
     "Toughness": 1483,
-    "Vitality": 1150,
+    "Vitality": 1385,
     "Ferocity": 2106,
     "Condition Damage": 900,
     "Expertise": 0,
@@ -168,10 +388,19 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Agony Resistance": 222,
     "Condition Duration": 0,
     "Boon Duration": 0.222,
-    "Critical Chance": 1.0023809523809524,
+    "Critical Chance": 1,
     "Critical Damage": 2.904,
-    "Effective Power": 33484.507465186194,
-    "Power DPS": 36063.21423955556,
+    "Power Coefficient": 2797,
+    "Burning Coefficient": 0.6,
+    "Bleeding Coefficient": 4.5,
+    "Poison Coefficient": 2.4,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 32693.602539179232,
+    "Power DPS": 35211.400193332425,
+    "Siphon DPS": 35211.400193332425,
     "Bleeding Damage": 118.75,
     "Bleeding Stacks": 4.5,
     "Bleeding DPS": 534.375,
@@ -187,50 +416,260 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Torment Damage": 176.25,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 37179.30798955556,
-    "Effective Health": 90178352.23880598,
-    "Survivability": 45845.62899786781,
+    "Damage": 36467.243943332425,
+    "Effective Health": 102342232.83582091,
+    "Survivability": 52029.604898739664,
     "Effective Healing": 390,
     "Healing": 390
   },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Longbow",
-      "weapon1MainSigil1": "force",
-      "weapon1MainSigil2": "impact",
-      "weapon2MainType": "Sword",
-      "weapon2MainSigil1": "force",
-      "weapon2OffType": "Axe",
-      "weapon2OffSigil": "impact"
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Longbow",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1MainSigil2Id": 24868,
+    "weapon2MainType": "Sword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2OffType": "Axe",
+    "weapon2OffSigilId": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 9443,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "skills": {
+    "healId": 31914,
+    "utility1Id": 12492,
+    "utility2Id": 12633,
+    "utility3Id": 12497,
+    "eliteId": 45717
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
     },
-    "consumables": {
-      "foodId": 91805,
-      "utility": "superior-sharpening-stone",
-      "infusion": "Mighty +9 Agony Infusion"
+    {
+      "id": "fury",
+      "type": "Boon"
     },
-    "skills": {
-      "heal": "We Heal as One",
-      "utility2": "Sic Em",
-      "utility3": "Frost Spirit",
-      "elite": "One Wolf Pack"
+    {
+      "id": "protection",
+      "type": "Boon"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
-  }}
->
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "frostSpirit",
+      "gw2id": 12497,
+      "type": "Skill"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}} >
 
-You need <Item id="85743"/>, <Item id="86175"/>, 18x +9 Agony Infusions and also <Item id="70596"/>. <br/>
-If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-</Character>  
-<Character title="244 Agony Resistance" gear={{
+</Character>
+
+<Character title="222 AR (Banner)" gear={{
+  "profession": "Ranger",
+  "weight": "medium",
+  "gear": [
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 19772,
+    "Armor": 2601,
+    "Power": 3900,
+    "Precision": 2575,
+    "Toughness": 1483,
+    "Vitality": 1385,
+    "Ferocity": 2106,
+    "Condition Damage": 900,
+    "Expertise": 0,
+    "Concentration": 333,
+    "Healing Power": 0,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.222,
+    "Critical Chance": 1,
+    "Critical Damage": 2.904,
+    "Power Coefficient": 2797,
+    "Burning Coefficient": 0.6,
+    "Bleeding Coefficient": 4.5,
+    "Poison Coefficient": 2.4,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 33527.49142855614,
+    "Power DPS": 36109.50848119812,
+    "Siphon DPS": 36109.50848119812,
+    "Bleeding Damage": 118.75,
+    "Bleeding Stacks": 4.5,
+    "Bleeding DPS": 534.375,
+    "Burning Damage": 422.65625,
+    "Burning Stacks": 0.6,
+    "Burning DPS": 253.59375,
+    "Confusion Damage": 145.15625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 136.71875,
+    "Poison Stacks": 2.4,
+    "Poison DPS": 328.125,
+    "Torment Damage": 176.25,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 37365.35223119812,
+    "Effective Health": 102342232.83582091,
+    "Survivability": 52029.604898739664,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Longbow",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1MainSigil2Id": 24868,
+    "weapon2MainType": "Sword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2OffType": "Axe",
+    "weapon2OffSigilId": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 9443,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "skills": {
+    "healId": 31914,
+    "utility1Id": 12492,
+    "utility2Id": 12633,
+    "utility3Id": 12497,
+    "eliteId": 45717
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "spotter",
+      "gw2id": 1016,
+      "type": "Trait"
+    },
+    {
+      "id": "frostSpirit",
+      "gw2id": 12497,
+      "type": "Skill"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}} >
+
+This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
+
+If you have neither, use the 222 AR (No Banner) build or use <Item id="12486"/>.
+
+</Character>
+
+<Character title="244 AR" gear={{
   "profession": "Ranger",
   "weight": "medium",
   "gear": [
@@ -250,12 +689,12 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Berserker"
   ],
   "attributes": {
-    "Health": 17422,
+    "Health": 19772,
     "Armor": 2634,
-    "Power": 3915,
+    "Power": 3930,
     "Precision": 2577,
     "Toughness": 1516,
-    "Vitality": 1150,
+    "Vitality": 1385,
     "Ferocity": 2106,
     "Condition Damage": 900,
     "Expertise": 0,
@@ -266,8 +705,17 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Boon Duration": 0.244,
     "Critical Chance": 1.000952380952381,
     "Critical Damage": 2.904,
-    "Effective Power": 33656.44331866597,
-    "Power DPS": 36248.39120612581,
+    "Power Coefficient": 2797,
+    "Burning Coefficient": 0.6,
+    "Bleeding Coefficient": 4.5,
+    "Poison Coefficient": 2.4,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 33785.3952087758,
+    "Power DPS": 36387.27393105349,
+    "Siphon DPS": 36387.27393105349,
     "Bleeding Damage": 118.75,
     "Bleeding Stacks": 4.5,
     "Bleeding DPS": 534.375,
@@ -283,60 +731,100 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Torment Damage": 176.25,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 37364.48495612581,
-    "Effective Health": 91322483.58208956,
-    "Survivability": 46427.2921108742,
+    "Damage": 37643.11768105349,
+    "Effective Health": 103640692.53731345,
+    "Survivability": 52689.72676020002,
     "Effective Healing": 390,
     "Healing": 390
   },
   "runeId": 24836,
   "runeName": "Scholar",
   "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    49438,
-    49438,
-    37131,
-    49437,
-    37131,
-    37131
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
   ],
   "weapons": {
     "weapon1MainType": "Longbow",
-      "weapon1MainSigil1": "force",
-      "weapon1MainSigil2": "impact",
-      "weapon2MainType": "Sword",
-      "weapon2MainSigil1": "force",
-      "weapon2OffType": "Axe",
-      "weapon2OffSigil": "impact"
+    "weapon1MainSigil1Id": 24615,
+    "weapon1MainSigil2Id": 24868,
+    "weapon2MainType": "Sword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2OffType": "Axe",
+    "weapon2OffSigilId": 24868
   },
   "consumables": {
     "foodId": 91805,
-    "utility": "superior-sharpening-stone",
+    "utilityId": 9443,
     "infusion": "Mighty +9 Agony Infusion"
   },
   "skills": {
     "healId": 31914,
-    "utility1Id": "",
+    "utility1Id": 12492,
     "utility2Id": 12633,
     "utility3Id": 12497,
     "eliteId": 45717
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
-}}
->
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "spotter",
+      "gw2id": 1016,
+      "type": "Trait"
+    },
+    {
+      "id": "frostSpirit",
+      "gw2id": 12497,
+      "type": "Skill"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}} >
 
 You need <Item id="85743"/>, <Item id="86175"/>, 1x <Item id="49437"/> and 2x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>
+
 If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
