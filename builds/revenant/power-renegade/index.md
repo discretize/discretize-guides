@@ -1,30 +1,30 @@
 ---
-title: Power Alac Renegade
-rating: Power Meta
-role: Power Damage
 author: Casual Sophie - Jin Su Liang.9036
-profession: Revenant
 specialization: Renegade
 skills:
   - 45773
   - 27505
 traits:
   - 1786
-conditions:
-  - Vulnerability
 boons:
   - name: Alacrity
     uptime: 100%
     variant: party
-code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
-cmGuide: pug
+code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: 2022-03-06T22:31:22.899Z
+date: 2022-03-26T20:56:01.300Z
+title: Power Alac Renegade
+rating: Power Meta
+role: Power Damage
+profession: Revenant
+conditions:
+  - Vulnerability
+cmGuide: pug
 ---
 
 The <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -407,7 +407,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
 
 <Grid>
 <GridItem sm="8">
-<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Dance of Death" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
+<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 </GridItem>
 
 <GridItem sm="4">
@@ -415,42 +415,29 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
 
 |                                           |                                                                                                                                                                                                                       |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait id="1754" size="big" disableText/> | On a lot of encounters and especially in slower groups, <Trait name="SwiftTermination"/> will be worse than <Trait name="DanceOfDeath"/>. <Trait name="SwiftTermination"/> offers less survivability but is burstier. |
-| <Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low.                                                                                                                            |
+| <Trait id="1754" size="big" disableText/> | If necessary (usually in low damage groups), you can swap out <Trait name="SwiftTermination"/> for <Trait name="DanceOfDeath"/> to have more sustain at cost of damage. | 
+<Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low.                                                                                                                            |
 
 </Card>
-
 <Card title="Situational Skills">
-
-|                                            |                                                                                        |
+|                                            ||
 | ------------------------------------------ | -------------------------------------------------------------------------------------- |
-| <Skill id="28075" size="big" disableText/> | This skill grants you <Effect name="Superspeed"/> which is really useful for skipping. |
+| <Skill id="28075" size="big" disableText/> | This skill grants you <Effect name="Superspeed"/> which is really useful for skipping.
 
+Require the <Specialization name="Herald"/> specialization.
 </Card>
 </GridItem>
 <GridItem sm="8">
-<Card title="Herald Precasting">
+<Card title="Precasting">
+Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade Stance"/>.
 
-Sometimes it is worth precasting with <Specialization name="Herald"/> because <Specialization name="Herald"/> has access to <Skill id="51667"/> which is _incredibly_ strong skill to precast, if you can manage to fit it into your groups precasting. If your group is blasting <Boon name="Might"/>, you can forgo using <Skill id="29321"/> in your precasting and just precast <Boon name="Alacrity"/> and extending everyone else's boons with <Skill id="51667"/>.
-
-After the [status reset update of August 31st](https://wiki.guildwars2.com/wiki/Game_updates/August_2021), this precast has become more difficult to perform and isn't recommended anymore for fast prestacking in pugs due to the fact that it increases the length of a precast. However, if you do have the the time, it is still a really valid precast and does help with the boons initially. You will have to manually swap between <Specialization name="Herald"/> and <Specialization name="Renegade"/> trait lines or use a saved build template in the template storage (not one of the build template tabs) to swap between them in order to not trigger status reset. Here's the <Specialization name="Herald"/> trait line:
-<Traits traits1Id="52" traits1="Herald" traits1SelectedIds="1806,1772" unembossed/>
-
-Template code: `[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
-
-<Warning>
-
-The other legend is unselected for a good reason. If you have the other legend slot empty, it will minimise the number of possible bugs with <Specialization name="Renegade"/> and build templates. You can read more about the bugs, [the official wiki has them documented](https://wiki.guildwars2.com/wiki/Template#Build_Template)
-
-</Warning>
-
-To precast with <Specialization name="Herald"/>, you can go very simple:
-
-1.  Start on <Specialization name="Herald"/> and double tap <Skill name="Facet of Nature"/>/<Skill name="True Nature"/> (F2 while in <Skill name="Legendary Dragon Stance"/>).
-2.  Manually swap to <Specialization name="Renegade"/> and press <Skill name="Orders From Above"/> (F4).
-3.  Take the Mistlock Singularity.
-4.  Press <Skill name="Orders From Above"/> (F4) again.
-
+1. Cast <Skill name="Soulcleaves Summit"/> to generate a Fire field.
+2. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>.
+3. Press <Skill name="Orders From Above"/> to generate <Boon name="Alacrity"/>.
+4. Take the Mistlock Singularity.
+5. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
+6. Blast <Boon name="Might"/> with another <Skill name="Renewing Wave"/>.
+7. Share <Boon name="Alacrity"/> again and swap to <Skill name="Legendary Renegade Stance"/>.
 </Card>
 </GridItem>
 <GridItem sm="4">
@@ -488,7 +475,7 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **Citadel Order Skills:**
 
 - <Skill name="Heroic Command"/> (F2) - Share two stacks of <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack.
-- <Skill name="Citadel Bombardment"/> (F3) - Fire ten missiles that inflict high damage and <Condition name="Burning"/>.
+- <Skill name="Citadel Bombardment"/> (F3) - Fire 10 to 15 missiles that inflict high damage and <Condition name="Burning"/>.
 - <Skill name="Orders from Above"/> (F4) - Share four pulses of <Boon name="Alacrity"/>. Increased to a total of six pulses of <Boon name="Alacrity"/> with <Trait name="Righteous Rebel"/>.
 
 ---
@@ -514,14 +501,14 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **Notable Traits:**
 
 - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
-- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which makes your attack steal health. This trait is the DPS alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of damage, but doesn't scale with <Effect name="Exposed"/>. Pulls ahead over <Trait name="Swift Termination"/> in fights where majority of damage is dealt outside of <Effect name="Exposed"/> debuff. Also worth taking in PuG groups on most bosses to ensure <Item id="24836"/> buff uptime and due to lower <Effect name="Exposed"/> uptime on bosses.
+- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which makes your attack steal health.
 - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
 - <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
 - <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
 - <Trait name="Brutal Momentum"/> - 33% Critical chance increase when your endurance is full.
+- <Trait name="Vindication"/> - Increases <Skill name="Citadel Bombardment"/> max ordnance count to 15.
 - <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased by 50%.
 - <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%.
-
 </Card>
 </GridItem>
 </Grid>
@@ -622,8 +609,8 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 <GridItem xs="12" sm="6">
 <Card title="Burst Rotation">
 
-1.  <Skill name="Citadel Bombardment"/>
-2.  <Skill name="Chilling Isolation"/>
+1.  <Skill name="Chilling Isolation"/>
+2.  <Skill name="Citadel Bombardment"/>
 3.  <Skill name="Shackling Wave"/>
 4.  <Skill name="Deathstrike"/>
 5.  <Skill name="ChillingIsolation"/>
