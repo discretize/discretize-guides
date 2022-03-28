@@ -22,7 +22,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2022-03-20T17:50:19.889Z
+date: 2022-03-28T17:47:07.547Z
 ---
 
 <Warning>
@@ -357,8 +357,9 @@ Due to not actively using <Skill name="Signet of Fury"/> in the rotation you can
 
 |                                                           |                                                                                                                                                                                              |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="To The Limit" size="big" disableText/> | Alternative for extra Flow generation. However you will miss out on the extra damage from <Trait name="Peak Performance"/>.
 | <Skill name="For Great Justice!" size="big" disableText/> | If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!                                         |
-| <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use and fills up the entire adrenaline bar. |
+| <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use as well as additional Flow. |
 | <Skill name="Signet of might" size="big" disableText/>    | Flat 180 power buff. Only take this when no other utility is needed.                                                                                                                         |
 | <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.                                                                                                    |
 | <Skill name="onmymark" size="big" disableText/>           | Can be used to pull Krait from the side altars at the Nightmare CM fractal.                                                                                                                  |
@@ -400,10 +401,8 @@ For that reason you can find a video with openers, that are efficient to use her
 
 - Stack <Boon name="Might"/>:
   - Use both charges of <Skill name="For Great Justice!"/>.
-  - Drop a fire field with <Skill name="Flames of War"/>.
   - Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand Warhorn to blast <Boon name="Might"/>.
 - Precast damage skills:
-  - (optional) <Skill name="Flames of War"/>
   - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
   - Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
 
