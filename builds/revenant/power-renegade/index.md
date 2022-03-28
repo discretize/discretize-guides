@@ -17,7 +17,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-03-26T20:56:01.300Z
+date: 2022-03-28T10:42:29.500Z
 title: Power Alac Renegade
 rating: Power Meta
 role: Power Damage
@@ -435,9 +435,10 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 2. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>.
 3. Press <Skill name="Orders From Above"/> to generate <Boon name="Alacrity"/>.
 4. Take the Mistlock Singularity.
-5. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
-6. Blast <Boon name="Might"/> with another <Skill name="Renewing Wave"/>.
-7. Share <Boon name="Alacrity"/> again and swap to <Skill name="Legendary Renegade Stance"/>.
+5. Blast <Boon name="Might"/> with another <Skill name="Renewing Wave"/>.
+6. Share <Boon name="Alacrity"/> again with <Skill name="Orders From Above"/>.
+7. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
+8. Swap back to <Skill name="Legendary Renegade Stance"/>.
 </Card>
 </GridItem>
 <GridItem sm="4">
