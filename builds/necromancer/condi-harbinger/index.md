@@ -29,7 +29,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-03-20T17:37:01.512Z
+date: 2022-03-28T17:30:09.277Z
 ---
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
@@ -41,7 +41,7 @@ Due to being a condition based build, it will not benefit from slaying potions o
 <Divider text="Equipment"/>
 
 <CharacterWithAr>
-<Character title="Condi DPS Harbinger" gear={{
+<Character title="DPS (Nightmare Runes)" gear={{
   "profession": "Necromancer",
   "weight": "Light",
   "gear": [
@@ -133,11 +133,11 @@ Due to being a condition based build, it will not benefit from slaying potions o
   ],
   "weapons": {
     "weapon1MainType": "Pistol",
-    "weapon1MainSigil1Id": 44944,
+    "weapon1MainSigil1": "Torment",
     "weapon1OffType": "Dagger",
-    "weapon1OffSigil": "Torment",
+    "weapon1OffSigil": "Bursting",
     "weapon2MainType": "Scepter",
-    "weapon2MainSigil1Id": 44944
+    "weapon2MainSigil1": "Geomancy"
   },
   "consumables": {
     "foodId": 95942,
@@ -161,7 +161,155 @@ If you want to cap Bleeding Duration with a lower Tier core (or none), you will 
 You can also use <Item id="37130"/> if you do not have the Spiteful ones for a minor DPS loss.
 </Character>
 
-<Character title="Condi Quick Harbinger" gear={{
+<Character title="DPS (Tormenting Runes)" gear={{
+  "profession": "Necromancer",
+  "weight": "Light",
+  "gear": [
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper"
+  ],
+  "attributes": {
+    "Health": 23962,
+    "Armor": 2210,
+    "Power": 2923,
+    "Precision": 2056,
+    "Toughness": 1243,
+    "Vitality": 1475,
+    "Ferocity": 150,
+    "Condition Damage": 3077,
+    "Expertise": 910,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.6066666666666667,
+    "Boon Duration": 0.162,
+    "Critical Chance": 0.9528571428571428,
+    "Critical Damage": 1.6,
+    "Power Coefficient": 2271,
+    "Burning Coefficient": 1.81,
+    "Bleeding Coefficient": 12.970185714285714,
+    "Poison Coefficient": 5.83,
+    "Torment Coefficient": 24.07,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Bleeding Duration": 0.2,
+    "Torment Duration": 0.5,
+    "Effective Power": 7264.453605357143,
+    "Power DPS": 6352.550688396639,
+    "Siphon DPS": 6352.550688396639,
+    "Bleeding Damage": 355.23143500000003,
+    "Bleeding Stacks": 23.43280219047619,
+    "Bleeding DPS": 8324.067948194,
+    "Burning Damage": 1045.19224875,
+    "Burning Stacks": 2.9080666666666666,
+    "Burning DPS": 3039.4887388482503,
+    "Confusion Damage": 417.97202525,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 375.00281000000007,
+    "Poison Stacks": 9.366866666666667,
+    "Poison DPS": 3512.601320895334,
+    "Torment Damage": 530.7840525,
+    "Torment Stacks": 48.14,
+    "Torment DPS": 25551.94428735,
+    "Damage": 46780.652983684224,
+    "Effective Health": 105385114.4278607,
+    "Survivability": 53576.57062931403,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 44956,
+  "runeName": "Tormenting",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Pistol",
+    "weapon1MainSigil1Id": 48911,
+    "weapon1OffType": "Dagger",
+    "weapon1OffSigilId": 44944,
+    "weapon2MainType": "Scepter",
+    "weapon2MainSigil1": "Geomancy"
+  },
+  "consumables": {
+    "foodId": 86997,
+    "utilityId": 48917,
+    "infusion": "Malign +9 Agony Infusion"
+  },
+  "skills": {
+    "healId": 62667,
+    "utility1Id": 62530,
+    "utility2Id": 62662,
+    "utility3Id": 10544,
+    "eliteId": 10549
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}} >
+
+This build is only very slightly behind the Nightmare Runes setup in terms of DPS, but ift has the benefit of sharing a set with the Quickness variant, only requiring one Ring swap with 3 <Item name="Spiteful +9 Agony Infusion"/> for the Quickness variant sicne this build runs all 18 <Item name="Malign +9 Agony Infusion"/>.
+
+</Character>
+
+<Character title="Quickness" gear={{
   "profession": "Necromancer",
   "weight": "Light",
   "gear": [
@@ -253,11 +401,11 @@ You can also use <Item id="37130"/> if you do not have the Spiteful ones for a m
   ],
   "weapons": {
     "weapon1MainType": "Pistol",
-    "weapon1MainSigil1Id": 44944,
+    "weapon1MainSigil1": "Torment",
     "weapon1OffType": "Dagger",
-    "weapon1OffSigil": "Torment",
+    "weapon1OffSigil": "Bursting",
     "weapon2MainType": "Scepter",
-    "weapon2MainSigil1Id": 44944
+    "weapon2MainSigil1": "Geomancy"
   },
   "consumables": {
     "foodId": 12464,
