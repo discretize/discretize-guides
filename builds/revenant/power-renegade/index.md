@@ -17,7 +17,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-03-28T10:42:29.500Z
+date: 2022-03-29T01:11:49.300Z
 title: Power Alac Renegade
 rating: Power Meta
 role: Power Damage
@@ -408,40 +408,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
 <Grid>
 <GridItem sm="8">
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
-</GridItem>
 
-<GridItem sm="4">
-<Card title="Situational Traits">
-
-|                                           |                                                                                                                                                                                                                       |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait id="1754" size="big" disableText/> | If necessary (usually in low damage groups), you can swap out <Trait name="SwiftTermination"/> for <Trait name="DanceOfDeath"/> to have more sustain at cost of damage. | 
-<Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low.                                                                                                                            |
-
-</Card>
-<Card title="Situational Skills">
-|                                            ||
-| ------------------------------------------ | -------------------------------------------------------------------------------------- |
-| <Skill id="28075" size="big" disableText/> | This skill grants you <Effect name="Superspeed"/> which is really useful for skipping.
-
-Require the <Specialization name="Herald"/> specialization.
-</Card>
-</GridItem>
-<GridItem sm="8">
-<Card title="Precasting">
-Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade Stance"/>.
-
-1. Cast <Skill name="Soulcleaves Summit"/> to generate a Fire field.
-2. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>.
-3. Press <Skill name="Orders From Above"/> to generate <Boon name="Alacrity"/>.
-4. Take the Mistlock Singularity.
-5. Blast <Boon name="Might"/> with another <Skill name="Renewing Wave"/>.
-6. Share <Boon name="Alacrity"/> again with <Skill name="Orders From Above"/>.
-7. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
-8. Swap back to <Skill name="Legendary Renegade Stance"/>.
-</Card>
-</GridItem>
-<GridItem sm="4">
 <Card title="Defiance Bar">
 
 **Hard Crowd Control:**
@@ -463,6 +430,56 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 - <Skill name="Inspiring Reinforcement"/> - <Condition name="Weakness"/> for 20 per second.
 - <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
 
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<Card title="Situational Traits">
+
+|                                           |                                                                                                                                                                                                                       |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait id="1754" size="big" disableText/> | If necessary (usually in low damage groups), you can swap out <Trait name="SwiftTermination"/> for <Trait name="DanceOfDeath"/> to have more sustain at cost of damage. | 
+<Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low.                                                                                                                            |
+
+</Card>
+<Card title="Situational Skills">
+
+|                                           |                                                                                                                                                                                                                       |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill id="28075" size="big" disableText/> | This <Specialization name="Herald"/> skill grants you <Effect name="Superspeed"/>.| 
+<Skill name="Phase Traversal" size="big" disableText/> | Step through the Mists to your target. |
+<Skill name="Inspiring Reinforcement" size="big" disableText/> | Create a stone road granting <Boon name="Stability"/> to allies. |
+<Skill name="Call to Anguish" size="big" disableText/> | Pull enemies up to 360 radius. |
+<Skill name="Protective Solace" size="big" disableText/> | Protective barrier blocking enemy projectiles. |
+<Skill name="Breakrazor's Bastion" size="big" disableText/> | This <Specialization name="Renegade"/> skill shield your allies with -50% Incoming Condition Damage for 10s. |
+<Skill name="Nomad's Advance" size="big" disableText/> | This <Specialization name="Vindicator"/> skill lunge you forward up to 600 range. |
+
+</Card>
+</GridItem>
+<GridItem sm="8">
+<Card title="Precasting">
+Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade Stance"/>.
+
+1. Cast <Skill name="Soulcleaves Summit"/> to generate a Fire field.
+2. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>.
+3. Press <Skill name="Orders From Above"/> to generate <Boon name="Alacrity"/>.
+4. Take the Mistlock Singularity.
+5. Blast <Boon name="Might"/> with another <Skill name="Renewing Wave"/>.
+6. Share <Boon name="Alacrity"/> again with <Skill name="Orders From Above"/>.
+7. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
+8. Swap back to <Skill name="Legendary Renegade Stance"/>.
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<Card title="Burst Rotation">
+While <Skill name="Impossibleodds"/>, <Skill name="Embrace the darkness"/> or  <Skill name="Vengeful Hammers"/> is up depending on your legend.
+1.  <Skill name="Chilling Isolation"/>
+2.  <Skill name="Citadel Bombardment"/>
+3.  <Skill name="Shackling Wave"/>
+4.  <Skill name="Deathstrike"/>
+5.  <Skill name="ChillingIsolation"/>
+Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/>.
 </Card>
 </GridItem>
 </Grid>
@@ -603,28 +620,6 @@ There are multiple weapons in your arsenal to deal with the instability <Instabi
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed/>
 
 As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the stability, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
-
-</Card>
-</GridItem>
-
-<GridItem xs="12" sm="6">
-<Card title="Burst Rotation">
-
-1.  <Skill name="Chilling Isolation"/>
-2.  <Skill name="Citadel Bombardment"/>
-3.  <Skill name="Shackling Wave"/>
-4.  <Skill name="Deathstrike"/>
-5.  <Skill name="ChillingIsolation"/>
-
-</Card>
-</GridItem>
-
-<GridItem xs="12" sm="6">
-<Card title="Notes">
-
-Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/> and while your <Skill name="Impossibleodds"/> is up. This might not always be possible if you need to reserve energy for boons or in the case that your legend timings are off.
-
-With <Skill name="Legendary Demon Stance"/> you would want to use these abilities with <Skill name="Embrace the darkness"/> on.
 
 </Card>
 </GridItem>
