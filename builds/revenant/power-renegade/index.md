@@ -17,7 +17,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-03-29T01:11:49.300Z
+date: 2022-03-29T01:50:13.700Z
 title: Power Alac Renegade
 rating: Power Meta
 role: Power Damage
@@ -32,6 +32,8 @@ The <Specialization name="Renegade"/> is the profession with the most support an
 Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
+
+To see how the <Specialization name="Renegade"/> is played in Pick Up Groups refer to [Renegade CM guides](cm-guides/revenant/power-renegade/pug/).
 
 <Divider text="Equipment"/>
 
@@ -596,31 +598,47 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 
 <Grid>
 <GridItem xs="12" sm="6">
-<Card title="Information">
-
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
-For that reason you can find a video with openers, that are efficient to use here.
-</Card>
-
 <Card title="Renegade openers">
 
-<Video caption="by Rubby, edited by Vince [dT]" youtube="QXmckcAyKf4"/>
+<Video caption="Renegade Fractal Openings (outdated but a good base to work on)." youtube="QXmckcAyKf4"/>
 </Card>
-<Warning>
+</GridItem>
+<GridItem xs="12" sm="6">
+<Card title="Information">
 
-Note that with a class like <Specialization name="Scourge"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>. Since <Instability name="No Pain, No Gain"/> doesn't give the enemy <Boon name="Resolution"/>, you do not need to worry about this instability in a group whose damage mostly consists of condition damage.
-</Warning>
+|                                           |                                                                                                                                                                                                                       |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase. For that reason you can find a video with openers, that are efficient to use here. |
+For more information about advanced rotation and gameplay refer to [Static Renegade CM guides](/cm-guides/revenant/power-renegade/static/).
+
+</Card>
 </GridItem>
 
-<GridItem xs="12" sm="6">
+<GridItem xs="12" sm="-1">
 <Card title="Dealing with No Pain, No Gain">
 
+<Warning>
+
+Note that with a class like <Specialization name="Scourge"/> or <Specialization name="Holosmith"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>. Since <Instability name="No Pain, No Gain"/> doesn't give the enemy <Boon name="Resolution"/>, you do not need to worry about this instability in a group whose damage mostly consists of condition damage.
+</Warning>
+
+<Grid>
+<GridItem xs="12" sm="6">
 There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message.
 
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed/>
 
 As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the stability, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
 
+</GridItem>
+<GridItem xs="12" sm="6">
+<Card title="">
+<Video caption="NPNG Arkk Pug Guide." youtube="jZzoP8yMd8w"/>
+<Video caption="NPNG Arkk Pug Pov." youtube="vB2vizzgYiI"/>
 </Card>
 </GridItem>
+</Grid>
+</Card>
+</GridItem>
+
 </Grid>
