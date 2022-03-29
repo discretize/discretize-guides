@@ -17,7 +17,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-03-29T01:50:13.700Z
+date: 2022-03-29T01:54:06.400Z
 title: Power Alac Renegade
 rating: Power Meta
 role: Power Damage
@@ -475,7 +475,7 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 
 <GridItem sm="4">
 <Card title="Burst Rotation">
-While <Skill name="Impossibleodds"/>, <Skill name="Embrace the darkness"/> or  <Skill name="Vengeful Hammers"/> is up depending on your legend.
+While <Skill name="Impossibleodds"/>, <Skill name="Embrace the darkness"/> or  <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
 1.  <Skill name="Chilling Isolation"/>
 2.  <Skill name="Citadel Bombardment"/>
 3.  <Skill name="Shackling Wave"/>
