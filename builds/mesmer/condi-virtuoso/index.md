@@ -1,11 +1,11 @@
 ---
 title: Condi Virtuoso
-hidden: true
+hidden: false
 rating: Good
 profession: Mesmer
 specialization: Virtuoso
 code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-24T11:43:08.714Z
+date: 2022-03-30T16:43:55.137Z
 role: Condi Damage
 ---
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
@@ -21,71 +21,73 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
 This build has very high sustain and therefore you can usually use <Item name="Writ of Masterful Malice"/>.
 
 There are many different gear setups that work very similarly on <Specialization text="Condi Virtuoso" name="Virtuoso"/>. If you want to change the food/utility or sigils, check out the gear optimizer for more variants.
+
 </Warning>
 
 <CharacterWithAr>
-<Character title="Test" gear={{
+<Character gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
     "Viper",
-    "Sinister",
-    "Sinister",
-    "Sinister",
+    "Rampager",
     "Viper",
+    "Rampager",
     "Sinister",
-    "Sinister",
-    "Sinister",
-    "Sinister",
-    "Sinister",
+    "Rampager",
+    "Rampager",
+    "Rampager",
     "Viper",
-    "Viper",
+    "Rampager",
+    "Rampager",
+    "Sinister",
     "Viper",
     "Viper"
   ],
   "attributes": {
     "Health": 18272,
     "Armor": 2210,
-    "Power": 2800,
-    "Precision": 2166,
+    "Power": 2797,
+    "Precision": 2365,
     "Toughness": 1243,
     "Vitality": 1235,
     "Ferocity": 315.5,
-    "Condition Damage": 2831,
-    "Expertise": 448,
+    "Condition Damage": 2637,
+    "Expertise": 451,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.2986666666666667,
+    "Condition Duration": 0.30066666666666664,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.9052380952380953,
+    "Critical Chance": 1,
     "Critical Damage": 1.7103333333333333,
     "Power Coefficient": 3540,
     "Burning Coefficient": 0.52,
-    "Bleeding Coefficient": 35.23126190476191,
+    "Bleeding Coefficient": 38.42,
     "Poison Coefficient": 0.16,
     "Torment Coefficient": 8.46,
     "Confusion Coefficient": 3.3,
     "Flat DPS": 0,
     "Bleeding Duration": 0.7,
-    "Effective Power": 9123.016296133896,
-    "Power DPS": 12435.686441399303,
-    "Bleeding Damage": 361.6411109374999,
-    "Bleeding Stacks": 70.4155487936508,
-    "Bleeding DPS": 25465.157293009604,
-    "Burning Damage": 859.2303271874999,
-    "Burning Stacks": 0.6753066666666667,
-    "Burning DPS": 580.2439681519,
-    "Confusion Damage": 341.00347831249996,
-    "Confusion Stacks": 4.2856,
-    "Confusion DPS": 1461.4045066560498,
-    "Poison Damage": 306.6541699999999,
-    "Poison Stacks": 0.20778666666666668,
-    "Poison DPS": 63.71864780373332,
-    "Torment Damage": 432.15980812499987,
-    "Torment Stacks": 10.98672,
-    "Torment DPS": 4748.018807123099,
-    "Damage": 44754.229664143684,
+    "Effective Power": 9581.56372712842,
+    "Power DPS": 13060.737618034118,
+    "Siphon DPS": 13060.737618034118,
+    "Bleeding Damage": 339.70062031249995,
+    "Bleeding Stacks": 76.84,
+    "Bleeding DPS": 26102.595664812496,
+    "Burning Damage": 813.8866465624999,
+    "Burning Stacks": 0.6763466666666667,
+    "Burning DPS": 550.4695204470582,
+    "Confusion Damage": 320.81822693749996,
+    "Confusion Stacks": 4.292199999999999,
+    "Confusion DPS": 1377.0159936611371,
+    "Poison Damage": 289.10177749999997,
+    "Poison Stacks": 0.20810666666666666,
+    "Poison DPS": 60.16400724293332,
+    "Torment Damage": 405.83121937499993,
+    "Torment Stacks": 11.00364,
+    "Torment DPS": 4465.620638763525,
+    "Damage": 45616.60344296127,
     "Effective Health": 80360437.81094529,
     "Survivability": 40854.315104700196,
     "Effective Healing": 390,
@@ -123,7 +125,8 @@ There are many different gear setups that work very similarly on <Specialization
   },
   "consumables": {
     "foodId": 12485,
-    "utilityId": 48917
+    "utilityId": 48917,
+    "infusion": "Malign +9 Agony Infusion"
   },
   "skills": {
     "healId": 21750,
@@ -165,10 +168,161 @@ There are many different gear setups that work very similarly on <Specialization
   ]
 }} >
 
-This is just a test. Rampager should replace some Sinister pieces.
+This is the default setup when using the <Item type="Sigil" name="Agony"/> at 162 Agony Resistance.
+
+We chose the <Item type="Sigil" name="Agony"/> variant over the <Item type="Sigil" name="Bursting"/> or <Item type="Sigil" name="Geomancy"/> variant since they perform basically identically in fractals but the <Item type="Sigil" name="Agony"/> variant does not rely on <Item name="Writ of Masterful Accuracy"/> to reach crit-cap. This means you will not go below crit-cap when not running a Writ or going below 90% health.
+
 
 </Character>
 
+<Character gear={{
+  "profession": "Mesmer",
+  "weight": "Light",
+  "gear": [
+    "Viper",
+    "Rampager",
+    "Viper",
+    "Rampager",
+    "Sinister",
+    "Sinister",
+    "Rampager",
+    "Sinister",
+    "Viper",
+    "Rampager",
+    "Sinister",
+    "Sinister",
+    "Viper",
+    "Viper"
+  ],
+  "attributes": {
+    "Health": 18272,
+    "Armor": 2300,
+    "Power": 2797,
+    "Precision": 2365,
+    "Toughness": 1333,
+    "Vitality": 1235,
+    "Ferocity": 315.5,
+    "Condition Damage": 2724,
+    "Expertise": 451,
+    "Concentration": 333,
+    "Healing Power": 0,
+    "Agony Resistance": 222,
+    "Condition Duration": 0.30066666666666664,
+    "Boon Duration": 0.222,
+    "Critical Chance": 1,
+    "Critical Damage": 1.7103333333333333,
+    "Power Coefficient": 3540,
+    "Burning Coefficient": 0.52,
+    "Bleeding Coefficient": 38.42,
+    "Poison Coefficient": 0.16,
+    "Torment Coefficient": 8.46,
+    "Confusion Coefficient": 3.3,
+    "Flat DPS": 0,
+    "Bleeding Duration": 0.7,
+    "Effective Power": 9581.56372712842,
+    "Power DPS": 13060.737618034118,
+    "Siphon DPS": 13060.737618034118,
+    "Bleeding Damage": 349.5399124999999,
+    "Bleeding Stacks": 76.84,
+    "Bleeding DPS": 26858.64687649999,
+    "Burning Damage": 834.2211837499999,
+    "Burning Stacks": 0.6763466666666667,
+    "Burning DPS": 564.2227168920333,
+    "Confusion Damage": 329.87037575,
+    "Confusion Stacks": 4.292199999999999,
+    "Confusion DPS": 1415.8696267941498,
+    "Poison Damage": 296.97321124999996,
+    "Poison Stacks": 0.20810666666666666,
+    "Poison DPS": 61.80210508253332,
+    "Torment Damage": 417.6383699999999,
+    "Torment Stacks": 11.00364,
+    "Torment DPS": 4595.542273666799,
+    "Damage": 46556.82121696962,
+    "Effective Health": 83633034.82587066,
+    "Survivability": 42518.065493579394,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24762,
+  "runeName": "Krait",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Dagger",
+    "weapon1MainSigil1Id": 24612,
+    "weapon1OffType": "Sword",
+    "weapon1OffSigilId": 24560,
+    "weapon2OffType": "Focus",
+    "weapon2OffSigilId": 24560
+  },
+  "consumables": {
+    "foodId": 12485,
+    "utilityId": 48917,
+    "infusion": "Malign +9 Agony Infusion"
+  },
+  "skills": {
+    "healId": 21750,
+    "utility1Id": 10247,
+    "utility2Id": 10232,
+    "utility3Id": 10234,
+    "eliteId": 29519
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}} >
+
+This is the default setup when using the <Item type="Sigil" name="Agony"/> at 222 Agony Resistance.
+
+We chose the <Item type="Sigil" name="Agony"/> variant over the <Item type="Sigil" name="Bursting"/> or <Item type="Sigil" name="Geomancy"/> variant since they perform basically identically in fractals but the <Item type="Sigil" name="Agony"/> variant does not rely on <Item name="Writ of Masterful Accuracy"/> to reach crit-cap. This means you will not go below crit-cap when not running a Writ or going below 90% health.
+
+</Character>
 
 
 </CharacterWithAr>
@@ -192,7 +346,6 @@ This is just a test. Rampager should replace some Sinister pieces.
 |                                                         |                                                     |
 | ------------------------------------------------------- | --------------------------------------------------- |
 | <Trait name="Duelist's Discipline" size="big" disableText/> | If you're playing with Pistol, take this over <Trait name="Phantasmal Fury"/>. |
-| <Trait name="Sharpening Sorrow" size="big" disableText/> | Remember to change your gear accordingly if you decide to run this trait.
 
 <Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
 
@@ -341,9 +494,9 @@ At the boss (prespawned bosses)
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Example Opener">
+<Card title="Golem Opener">
 
-These is a basic opener, you will need to adapt this depending on the boss and cooldowns.
+These is a basic opener used on the golem for sustained DPS , you will need to adapt this depending on the boss and cooldowns.
 
 - Start on Dagger/Sword (or Pistol)
 1. <Skill name="Phantasmal Swordsman"/>
