@@ -10,7 +10,7 @@ boons:
   - name: Alacrity
     uptime: 100%
     variant: party
-code: "[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]"
+code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 classification:
   - 5
   - 2
@@ -438,28 +438,29 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
 <GridItem sm="4">
 <Card title="Situational Traits">
 
-|                                           |                                                                                                                                                                                                                       |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait id="1754" size="big" disableText/> | If necessary (usually in low damage groups), you can swap out <Trait name="SwiftTermination"/> for <Trait name="DanceOfDeath"/> to have more sustain at cost of damage. | 
-<Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low.                                                                                                                            |
+|                                           |                                                                                                                                                                         |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait id="1754" size="big" disableText/> | If necessary (usually in low damage groups), you can swap out <Trait name="SwiftTermination"/> for <Trait name="DanceOfDeath"/> to have more sustain at cost of damage. |
+| <Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low.                                                                              |
 
 </Card>
 <Card title="Situational Skills">
 
-|                                           |                                                                                                                                                                                                                       |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="28075" size="big" disableText/> | This <Specialization name="Herald"/> skill grants you <Effect name="Superspeed"/>.| 
-<Skill name="Phase Traversal" size="big" disableText/> | Step through the Mists to your target. |
-<Skill name="Inspiring Reinforcement" size="big" disableText/> | Create a stone road granting <Boon name="Stability"/> to allies. |
-<Skill name="Call to Anguish" size="big" disableText/> | Pull enemies up to 360 radius. |
-<Skill name="Protective Solace" size="big" disableText/> | Protective barrier blocking enemy projectiles. |
-<Skill name="Breakrazor's Bastion" size="big" disableText/> | This <Specialization name="Renegade"/> skill shield your allies with -50% Incoming Condition Damage for 10s. |
-<Skill name="Nomad's Advance" size="big" disableText/> | This <Specialization name="Vindicator"/> skill lunge you forward up to 600 range. |
+|                                                                |                                                                                                              |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| <Skill id="28075" size="big" disableText/>                     | This <Specialization name="Herald"/> skill grants you <Effect name="Superspeed"/>.                           |
+| <Skill name="Phase Traversal" size="big" disableText/>         | Step through the Mists to your target.                                                                       |
+| <Skill name="Inspiring Reinforcement" size="big" disableText/> | Create a stone road granting <Boon name="Stability"/> to allies.                                             |
+| <Skill name="Call to Anguish" size="big" disableText/>         | Pull enemies up to 360 radius.                                                                               |
+| <Skill name="Protective Solace" size="big" disableText/>       | Protective barrier blocking enemy projectiles.                                                               |
+| <Skill name="Breakrazor's Bastion" size="big" disableText/>    | This <Specialization name="Renegade"/> skill shield your allies with -50% Incoming Condition Damage for 10s. |
+| <Skill name="Nomad's Advance" size="big" disableText/>         | This <Specialization name="Vindicator"/> skill lunge you forward up to 600 range.                            |
 
 </Card>
 </GridItem>
 <GridItem sm="8">
 <Card title="Precasting">
+
 Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade Stance"/>.
 
 1. Cast <Skill name="Soulcleaves Summit"/> to generate a Fire field.
@@ -470,18 +471,23 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 6. Share <Boon name="Alacrity"/> again with <Skill name="Orders From Above"/>.
 7. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
 8. Swap back to <Skill name="Legendary Renegade Stance"/>.
+
 </Card>
 </GridItem>
 
 <GridItem sm="4">
 <Card title="Burst Rotation">
-While <Skill name="Impossibleodds"/>, <Skill name="Embrace the darkness"/> or  <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
+
+While <Skill name="Impossibleodds"/>, <Skill name="Embrace the darkness"/> or <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
+
 1.  <Skill name="Chilling Isolation"/>
 2.  <Skill name="Citadel Bombardment"/>
 3.  <Skill name="Shackling Wave"/>
 4.  <Skill name="Deathstrike"/>
 5.  <Skill name="ChillingIsolation"/>
+
 Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/>.
+
 </Card>
 </GridItem>
 </Grid>
@@ -529,6 +535,7 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 - <Trait name="Vindication"/> - Increases <Skill name="Citadel Bombardment"/> max ordnance count to 15.
 - <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased by 50%.
 - <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%.
+
 </Card>
 </GridItem>
 </Grid>
@@ -606,15 +613,15 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 <GridItem xs="12" sm="6">
 <Card title="Information">
 
-|                                           |                                                                                                                                                                                                                       |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase. For that reason you can find a video with openers, that are efficient to use here. |
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase. For that reason you can find a video with openers, that are efficient to use here.
+
 For more information about advanced rotation and gameplay refer to [Static Renegade CM guides](/cm-guides/revenant/power-renegade/static/).
 
 </Card>
 </GridItem>
 
-<GridItem xs="12" sm="-1">
+</Grid>
+
 <Card title="Dealing with No Pain, No Gain">
 
 <Warning>
@@ -623,22 +630,26 @@ Note that with a class like <Specialization name="Scourge"/> or <Specialization 
 </Warning>
 
 <Grid>
+
 <GridItem xs="12" sm="6">
+
 There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message.
 
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed/>
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
+
+<div style={{marginBottom: "16px"}} />
 
 As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the stability, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
 
 </GridItem>
+
 <GridItem xs="12" sm="6">
+
 <Card title="">
 <Video caption="NPNG Arkk Pug Guide." youtube="jZzoP8yMd8w"/>
 <Video caption="NPNG Arkk Pug Pov." youtube="vB2vizzgYiI"/>
-</Card>
-</GridItem>
-</Grid>
-</Card>
-</GridItem>
 
+</Card>
+</GridItem>
 </Grid>
+</Card>
