@@ -5,7 +5,7 @@ rating: Good
 profession: Mesmer
 specialization: Virtuoso
 code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-30T16:43:55.137Z
+date: 2022-03-30T22:56:03.998Z
 role: Condi Damage
 ---
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
@@ -20,7 +20,7 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
 <Warning>
 This build has very high sustain and therefore you can usually use <Item name="Writ of Masterful Malice"/>.
 
-There are many different gear setups that work very similarly on <Specialization text="Condi Virtuoso" name="Virtuoso"/>. If you want to change the food/utility or sigils, check out the gear optimizer for more variants.
+There are many different gear setups that work very similarly on <Specialization text="Condi Virtuoso" name="Virtuoso"/>. If you want to change the food/utility or sigils, check out the [gear optimizer](https://optimizer.discretize.eu/) for more variants.
 
 </Warning>
 
