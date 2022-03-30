@@ -1,6 +1,6 @@
 ---
 title: What Should I Play?
-date: 2022-03-20T18:10:28.576Z
+date: 2022-03-30T23:27:43.245Z
 image: ./images/whatshouldiplaylogo.png
 description: If you do not know what class you want to play.
 ---
@@ -132,6 +132,19 @@ At the same time it can generate large amounts of <Effect name="Barrier"/> for y
 
 </Card>
 
+<Card specialization="Virtuoso" title="Condi Virtuoso">
+
+| Build                                                     | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| --------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| <BuildLink build="Condi Virtuoso" specialization="Virtuoso"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="1"/> | <Rating value="3"/> |
+
+The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
+
+It offers great sustained DPS with a very simple rotation. On top of that it also has a high range and great sustain due to <Trait name="Jagged Mind"/>. At the same time it is quite an independant class with great boon generation, being able to upkeep a good amount of self <Boon name="fury"/> and <Boon name="Might"/> and if traited <Boon name="Quickness"/> from traits in the Dueling and Illusions traitlines. On top of this <Specialization name="Mesmer"/> also cna help provide a significant amount of <Condition name="Vulnerability"/> from <Skill name="Phantasmal Warden"/>.
+
+The <Specialization name="Mesmer"/>also provides an optimal skipping toolset for T4 fractals which should be utilized.
+
+</Card>
 
 <Card specialization="Weaver" title="Condi Weaver">
 
