@@ -14,12 +14,12 @@ boons:
     uptime: 25 Stacks
 code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
-  - 4
   - 3
+  - 4
   - 4
   - 1
   - 3
-date: 2022-03-30T23:19:30.003Z
+date: 2022-03-30T23:27:12.639Z
 ---
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
 
@@ -434,7 +434,6 @@ They do however benefit from <Effect name="Exposed"/>.
 - <Trait name="Sharper Images"/> makes your Phantasms inflict <Condition name="Bleeding"/> on critical hits, making multi-hit Phantasms stronger. <Trait name="Phantasmal Fury"/> combined with the gear choices will ensure ciritcal hits of your Phantasms.
 
 
-
 </Card>
 </GridItem>
 
@@ -453,7 +452,7 @@ If you lose yourself in the exact rotation, follow this priority list.
 5. Use <Skill name="Bladecall"/> and <Skill name="Unstable Bladestorm"/> off-cooldown. You can also weave them in between other attacks, even ones with higher priority.
 6. Auto-attack on Dagger.
 
-Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that direct damageing skills such as Bladecall and auto-attacks get higher priority if the boss is close to phasing.
+Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that direct damaging skills such as Bladecall and auto-attacks get higher priority if the boss is close to phasing.
 
 Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not use too much CC on the breakbar and space out your big CC cooldowns like Signet of Humility so they don't overlap with other powerful CC skills.
 
