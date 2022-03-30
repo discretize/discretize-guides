@@ -2,17 +2,30 @@
 title: Condi Virtuoso
 hidden: false
 rating: Good
+role: Condi Damage
 profession: Mesmer
 specialization: Virtuoso
+boons:
+  - name: Fury
+    variant: Self
+    uptime: 100%
+  - name: Might
+    variant: Self
+    uptime: 25 Stacks
 code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-30T22:56:03.998Z
-role: Condi Damage
+classification:
+  - 4
+  - 3
+  - 4
+  - 1
+  - 3
+date: 2022-03-30T23:19:30.003Z
 ---
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
 
-It offers great sustained DPS with a very simple rotation. On top of that it also has a high range and great sustain due to <Trait name="Jagged Mind"/>.
+It offers great sustained DPS with a very simple rotation. On top of that it also has a high range and great sustain due to <Trait name="Jagged Mind"/>. At the same time it is quite an independant class with great boon generation, being able to upkeep a good amount of self <Boon name="fury"/> and <Boon name="Might"/> and if traited <Boon name="Quickness"/> from traits in the Dueling and Illusions traitlines. On top of this <Specialization name="Mesmer"/> also cna help provide a significant amount of <Condition name="Vulnerability"/> from <Skill name="Phantasmal Warden"/>.
 
-The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized.
+The <Specialization name="Mesmer"/>also provides an optimal skipping toolset for T4 fractals which should be utilized.
 
 
 <Divider text="Equipment"/>
