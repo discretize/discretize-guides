@@ -14,14 +14,14 @@ boons:
   - name: Fury
     uptime: 100% - On Demand
     variant: Self
-code: "null"
+code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 3
   - 4
-date: 2022-03-20T18:10:04.727Z
+date: 2022-03-30T23:22:28.158Z
 ---
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
