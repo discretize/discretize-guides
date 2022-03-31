@@ -25,8 +25,8 @@ boons:
   - name: Fury
     uptime: 100%
     variant: party
-code: "[&DQExOQ0mPj9LFwAAeAEAAFMXAAC5AQAAcRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQExOQ0mPj9LFwAAeAEAAFMXAAC5AQAAcRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 5
   - 2
@@ -38,13 +38,16 @@ date: 2022-03-31T20:20:16.252Z
 
 <Divider text="Overview"/>
 <Grid>
-  <GridItem>
-    While there is no dedicated healing or tanking classes in Guild Wars 2, I've designed this build to provide the closet equivalent to a Paladin Healer or "Healadin" for fractal runs. The builds survivability is extremly high at the expense of DPS. This is the best heal build to play in fractals and **FAR** better than that toxic elitist signet share <Specialization name="Firebrand" text="Radiant Heal Firebrand"/>!
-  </GridItem>
 
-  <GridItem>
-    <GifPlayer caption="" url="https://cdn.discordapp.com/attachments/725436950831562793/909040759775297607/clown_pepe.mp4"/>
-  </GridItem>
+<GridItem>
+
+While there is no dedicated healing or tanking classes in Guild Wars 2, I've designed this build to provide the closet equivalent to a Paladin Healer or "Healadin" for fractal runs. The builds survivability is extremly high at the expense of DPS. This is the best heal build to play in fractals and **FAR** better than that toxic elitist signet share <Specialization name="Firebrand" text="Radiant Heal Firebrand"/>!
+
+</GridItem>
+
+<GridItem>
+<GifPlayer caption="" url="https://cdn.discordapp.com/attachments/725436950831562793/909040759775297607/clown_pepe.mp4"/>
+</GridItem>
 </Grid>
 
 <Divider text="Equipment"/>
@@ -172,12 +175,12 @@ date: 2022-03-31T20:20:16.252Z
 <GridItem sm="5">
 <Card title="Defiance Bar Damage">
 
-|                                                                                    |                                                                                |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <Skill id="45402"/>                                                                | 150 damage                                                                     |
-| <Skill name="Shield of Absorption"/>                                                   | 150 damage                                                                     |
-| <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/>    | 150 damage                                                                     |
-| <TomeSkill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s                                                 |
+|                                                                                    |                                |
+| ---------------------------------------------------------------------------------- | ------------------------------ |
+| <Skill id="45402"/>                                                                | 150 damage                     |
+| <Skill name="Shield of Absorption"/>                                               | 150 damage                     |
+| <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/>    | 150 damage                     |
+| <TomeSkill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s |
 
 </Card>
 </GridItem>
@@ -186,7 +189,9 @@ date: 2022-03-31T20:20:16.252Z
 <Divider text="The support Manifesto"/>
 <div>
 <Warning>
+
 **It is important to rmember you are irreplacable! You are the sole reason your party completes a fractal with a huge carry, they are lucky to have you! The manifesto below outlines all the things you do for your group, so you know exactly what to say if they complain.**
+
 </Warning>
 
 So, as we've already got a DPS player complaining about supports, I'll shed some light on the things that I'm doing that many DPS players aren't, so that they aren't getting abused with their super aggressive, often brainless gameplay.
@@ -205,6 +210,7 @@ So, as we've already got a DPS player complaining about supports, I'll shed some
 I have to keep tabs on the DPS, the skill-level (survivability) and the instability augments (eg; <Instability name="We Bleed Fire"/>). I go through several tool-kits worth of problem-solving to ensure that you either (a) don't get hit, (b) get hit don't take damage or (c) are instantly-cleansed before you lose 3/4ths of your HP on your <Specialization name="Scourge"/> and <Specialization name="Firebrand"/>.
 
 So, yeah, piss supports off, and we'll just run with friends. Many of the players that excel at playing support-classes have deep class pools -- you need us more than we need you. I don't have to pug Fractals at reset. I can grab a bunch of a friends a few hours later and we'll get through them much faster than with a bunch of DPS obsessed gremlins.
+
 </div>
 
 <Divider text="Details"/>
@@ -262,7 +268,9 @@ All Tomes are built in a similar way:
 <Card title="Precast">
 
 <Warning>
+
 For maximum benefit you need to do a complicated precast rotation that uses almost every guardian skill off cooldown. Once you have mastered this you will be one of the best <Specialization name="Firebrand" text="Healadin"/> players out there and is well worth the effort! This is the hard part of the rotation, after the precast it is easy.
+
 </Warning>
 
 Starting on Staff:
@@ -276,8 +284,8 @@ Starting on Staff:
 7.  <Skill name="Symbol of Resolution"/> (Greatsword 4)
 8.  _Swap to Sword / Shield_
 9.  _Swap to Staff_
-10.  <Skill name="Symbol of Swiftness"/> (Staff 3)
-11. _Swap to Axe / Focus_ 
+10. <Skill name="Symbol of Swiftness"/> (Staff 3)
+11. _Swap to Axe / Focus_
 12. <Skill name="Symbol of Vengeance"/> (Axe 2)
 13. <TomeSkill name="Chapter 2: Daring Challenge"/> (Tome 3-2)
 14. <TomeSkill name="Chapter 4: Stalwart Stand"/> (Tome 3-4)
@@ -297,7 +305,7 @@ While doing this spam your mantras off cooldown, and at the end of the rotation 
 <GridItem sm="6">
 <Card title="Precast">
 
-<GifPlayer caption="Prestacking Boons" url="https://cdn.discordapp.com/attachments/798616349450567692/871501176577859614/image0.gif"/>
+<GifPlayer caption="Prestacking Boons" url="https://cdn.discordapp.com/attachments/757704460582649886/959227318650417213/ezgif.com-gif-maker.webm"/>
 </Card>
 
 <Card title="Rotation">
@@ -310,35 +318,35 @@ Make Sure to dodge off cooldown for maximum healing output through <Trait name="
 2.  <Skill name="True Strike"/>
 3.  <Skill name="Pure Strike"/>
 4.  <Skill name="Faithful Strike"/>
-2.  <Skill name="True Strike"/>
-3.  <Skill name="Pure Strike"/>
-4.  <Skill name="Faithful Strike"/>
-2.  <Skill name="True Strike"/>
-3.  <Skill name="Pure Strike"/>
-4.  <Skill name="Faithful Strike"/>
-2.  <Skill name="True Strike"/>
-3.  <Skill name="Pure Strike"/>
-4.  <Skill name="Faithful Strike"/>
-5. _Weapon Swap_
-6. <Skill name="Core Cleave"/>
-7. <Skill name="Bleeding Edge"/>
-8. <Skill id="43826"/>
-6. <Skill name="Core Cleave"/>
-7. <Skill name="Bleeding Edge"/>
-8. <Skill id="43826"/>
-6. <Skill name="Core Cleave"/>
-7. <Skill name="Bleeding Edge"/>
-8. <Skill id="43826"/>
-6. <Skill name="Core Cleave"/>
-7. <Skill name="Bleeding Edge"/>
-8. <Skill id="43826"/>
-6. <Skill name="Core Cleave"/>
-7. <Skill name="Bleeding Edge"/>
-8. <Skill id="43826"/>
-6. <Skill name="Core Cleave"/>
-7. <Skill name="Bleeding Edge"/>
-8. <Skill id="43826"/>
-9. Repeat from Step 1
+5.  <Skill name="True Strike"/>
+6.  <Skill name="Pure Strike"/>
+7.  <Skill name="Faithful Strike"/>
+8.  <Skill name="True Strike"/>
+9.  <Skill name="Pure Strike"/>
+10. <Skill name="Faithful Strike"/>
+11. <Skill name="True Strike"/>
+12. <Skill name="Pure Strike"/>
+13. <Skill name="Faithful Strike"/>
+14. _Weapon Swap_
+15. <Skill name="Core Cleave"/>
+16. <Skill name="Bleeding Edge"/>
+17. <Skill id="43826"/>
+18. <Skill name="Core Cleave"/>
+19. <Skill name="Bleeding Edge"/>
+20. <Skill id="43826"/>
+21. <Skill name="Core Cleave"/>
+22. <Skill name="Bleeding Edge"/>
+23. <Skill id="43826"/>
+24. <Skill name="Core Cleave"/>
+25. <Skill name="Bleeding Edge"/>
+26. <Skill id="43826"/>
+27. <Skill name="Core Cleave"/>
+28. <Skill name="Bleeding Edge"/>
+29. <Skill id="43826"/>
+30. <Skill name="Core Cleave"/>
+31. <Skill name="Bleeding Edge"/>
+32. <Skill id="43826"/>
+33. Repeat from Step 1
 
 </Card>
 </GridItem>
