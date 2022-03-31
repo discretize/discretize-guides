@@ -18,7 +18,7 @@ boons:
   - name: Might
     uptime: 3 stacks
     variant: party - situational
-cmGuide: ''
+cmGuide: ""
 classification:
   - 3
   - 5
@@ -27,8 +27,8 @@ classification:
   - 5
 compositions:
   - name: _CRGB
-code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-03-06T22:32:24.670Z
+code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-03-20T17:41:23.631Z
 ---
 
 <Warning>
@@ -36,6 +36,7 @@ date: 2022-03-06T22:32:24.670Z
 This build is [META](/guides/meta-explained) in condi comps. In terms of DPS, it is unlikely to fall behind any other specialization, whether they be running a power or condi build, as it has very high sustained DPS on single targets.
 
 > As an additional piece of advice, we do not however recommend to play **<Specialization text="Condi Deadeye" name="Deadeye"/>** on encounters where **<Specialization text="Condi Daredevil" name="Daredevil"/>** would perform better, specifically Dark Ai. In unorganized parties, where DPS might be lower most of the time, we also believe that the **<Specialization text="Condi Daredevil" name="Daredevil"/>** build brings more utility in the form of CC, with <Skill id="13132"/>, and is overall easier to play. **<Specialization text="Condi Deadeye" name="Deadeye"/>** will have a tendancy to wear out and fall behind on longer fights, especially if Payback cannot be utilized properly. We did not make a proper guide for this build as of yet, but we believe it is very easy to grasp. The build can be found on the [Snow Crows Website](https://snowcrows.com/builds/thief/daredevil/condition-daredevil).
+
 > Lastly, a condi build will always have a tendency to interfere with a power composition, as it is not meant to have a higher upfront or burst damage, but both of these builds will do a lot of burst damage as well. It is worth mentioning that _Venom Skills_ are very strong in that regard, and precasting them on the _Mistlock Singularity_ will allow for a very high burst, quite uncommon for condi builds but very valuable.
 
 </Warning>

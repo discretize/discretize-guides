@@ -23,26 +23,25 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: '[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 2
   - 4
-date: 2022-03-06T22:19:33.384Z
-cmGuide: ' '
+date: 2022-03-21T22:16:43.660Z
+cmGuide: " "
 ---
 
-The <Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>.
-The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
-The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds.
-It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+<Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
+
+<Specialization name="Dragonhunter" text="Power Dragonhunter"/> is rather self-sufficient thanks to blocks from <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds. It also benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="162 AR (No Spotter/Banner)" gear={{
+<Character title="162 AR (No Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -140,13 +139,15 @@ It benefits from slaying potions and slaying sigils such as <Item id="50082"/> a
   }}
 >
 
+This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
+
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 
-<Character title="162 AR (Spotter/Banner)" gear={{
+<Character title="162 AR (Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -243,13 +244,15 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
+This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
+
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 
-<Character title="222 AR (No Spotter/Banner)" gear={{
+<Character title="222 AR (No Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -346,13 +349,15 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
-If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
+
+If you cannot maintaingood <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 
-<Character title="222 AR (Spotter/Banner)" gear={{
+<Character title="222 AR (Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -449,6 +454,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
+
+This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
@@ -583,7 +590,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="aIUZegO1_EA" caption="by Nagy"/>
+<Video youtube="faIaiHFG1qI" caption="by Nagy"/>
 </Card>
 </GridItem>
 </Grid>

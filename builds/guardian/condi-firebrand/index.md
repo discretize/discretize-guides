@@ -30,7 +30,7 @@ classification:
 compositions:
   - name: _CRGB
 code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T19:36:19.663Z
+date: 2022-03-22T19:20:10.236Z
 benchmark:
   small:
     dps: 36732
@@ -62,7 +62,7 @@ There are a number of different gear, utility and trait setups that allow you to
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character title="Condi Quickbrand 162ar (41.7%bd)" gear={{
+<Character title="Quickbrand 162ar (41.7%bd)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -171,7 +171,7 @@ You will want the following weapons to swap to durning fractal runs:
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
 </Character>
-<Character title="Condi Quickbrand 222ar (41.7%bd)" gear={{
+<Character title="Quickbrand 222ar (41.7%bd)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -272,7 +272,6 @@ You will want the following weapons to swap to durning fractal runs:
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
 
-Note that this build variant gains boon duration from the <Item id="79722"/> and <Item id="48916"/>. To keep up permanent <Boon name="Quickness"/> you will need to reach 24.6% boon duration. For longer fights drop <Item id="24560"/> for <Item id="72339"/>.
 You will want the following weapons to swap to durning fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
@@ -280,7 +279,7 @@ You will want the following weapons to swap to durning fractal runs:
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
 </Character>
-<Character title="Condi DPS (Quickness Share)" gear={{
+<Character title="DPS/Quick Share" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
     "gear": [
@@ -397,22 +396,48 @@ You will want the following weapons to swap to durning fractal runs:
 <GridItem sm="7">
 <Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Loremaster"/>
 
-If your are playing solo you can swap Virtues trait line with Zeal and run <Skill name="swordofjustice"/>. This will help you to maintain <Boon name="Might"/> on yourself and <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
-
 <Warning>
-This build provides permanent <Boon name="Quickness"/>. For different variants, such as multiple DPS Firebrands or full DPS, please scroll down.
+This build provides permanent <Boon name="Quickness"/>. For different variants, such as multiple DPS Firebrands or full DPS, see below.
 </Warning>
 
-<Card title="Defiance Bar Damage">
 
-|                                                                                    |                                                                                |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <Skill id="45402"/>                                                                | 150 damage                                                                     |
-| <Skill name="Hammer of Wisdom"/>                                                   | 200 damage                                                                     |
-| <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/>    | 150 damage                                                                     |
-| <Skill name="Sanctuary"/>                                                          | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
-| <Skill name="Chains of light"/>                                                    | <Condition name="Immobile"/> 50/s                                              |
-| <TomeSkill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s                                                 |
+<Divider text="Build Variants"/>
+
+
+
+<Card title="Full DPS variant">
+
+You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS by making minor adjustments to the build.
+
+<Grid>
+<GridItem sm="4">
+<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="" utility3="Sanctuary" elite="Renewed Focus" unembossed/>
+</GridItem>
+
+<GridItem sm="8">
+<Traits traits1="Firebrand" traits1Selected="Unrelenting Criticism,Legendary Lore,Loremaster" unembossed/>
+</GridItem>
+</Grid>
+</Card>
+
+<Card title="Quickness Share Variant">
+
+This build assumes you are playing in a comp with multiple <Specialization name="Firebrand" text="Condi Firebrands"/> and allows <Trait name="Legendary Lore"/> and <Skill name="Renewed Focus"/> to be played for more DPS and an additional Tome reset. You need at least 2 <Specialization name="Firebrand" text="Firebrands"/> to play this build to maintain <Boon name="Quickness"/>!
+
+<Grid>
+<GridItem sm="4">
+<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Sanctuary" elite="Renewed Focus" unembossed/>
+</GridItem>
+
+<GridItem sm="8">
+<Traits traits1="Firebrand" traits1Selected="Liberators Vow,Legendary Lore,Loremaster" unembossed/>
+</GridItem>
+</Grid>
+</Card>
+
+<Card title="Solo variant">
+
+If your are playing solo you can swap Virtues trait line with Zeal and run <Skill name="swordofjustice"/>. This will help you to maintain <Boon name="Might"/> on yourself and <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
 
 </Card>
 </GridItem>
@@ -436,42 +461,21 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 | <Skill id="9247" size="big" disableText/>               | A 1200 range teleport to an enemy.                                                       |
 | <Skill name="Mantra of lore" size="big" disableText/>   | Cleanses multiple conditions thanks to charges.                                          |
 
+</Card>
+<Card title="Defiance Bar Damage">
+
+|                                                                                    |                                                                                |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| <Skill id="45402"/>                                                                | 150 damage                                                                     |
+| <Skill name="Hammer of Wisdom"/>                                                   | 200 damage                                                                     |
+| <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/>    | 150 damage                                                                     |
+| <Skill name="Sanctuary"/>                                                          | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
+| <Skill name="Chains of light"/>                                                    | <Condition name="Immobile"/> 50/s                                              |
+| <TomeSkill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s                                                 |
 
 </Card>
 </GridItem>
 </Grid>
-
-<Divider text="Build Variants"/>
-
-<Card title="Full DPS variant">
-
-You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS by making minor adjustments to the build.
-
-<Grid>
-<GridItem sm="4">
-<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="" utility3="Sanctuary" elite="Renewed Focus" unembossed/>
-</GridItem>
-
-<GridItem sm="8">
-<Traits traits1="Firebrand" traits1Selected="Unrelenting Criticism,Legendary Lore,Loremaster" unembossed/>
-</GridItem>
-</Grid>
-</Card>
-
-<Card title="Multiple DPS Firebrands">
-
-This build assumes you are playing in a comp with multiple <Specialization name="Firebrand" text="Condi Firebrands"/> and allows <Trait name="Legendary Lore"/> and <Skill name="Renewed Focus"/> to be played for more DPS and an additional Tome reset. You need at least 2 <Specialization name="Firebrand" text="Firebrands"/> to play this build to maintain <Boon name="Quickness"/>!
-
-<Grid>
-<GridItem sm="4">
-<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Sanctuary" elite="Renewed Focus" unembossed/>
-</GridItem>
-
-<GridItem sm="8">
-<Traits traits1="Firebrand" traits1Selected="Liberators Vow,Legendary Lore,Loremaster" unembossed/>
-</GridItem>
-</Grid>
-</Card>
 
 <Divider text="Details"/>
 
@@ -486,24 +490,27 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 
 The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
-- <Skill name="Tome of Justice"/> (F1):
-  - <TomeSkill name="Chapter 1: Searing Spell"/>
-  - <TomeSkill name="Chapter 2: Ignite Burst"/>
-  - <TomeSkill name="Chapter 3: Heated Rebuke"/>
-  - <TomeSkill name="Chapter 4: Scorched Aftermath"/>
-  - <TomeSkill name="Epilogue: Ashes of the Just"/>
-- <Skill name="Tome of Resolve"/> (F2):
-  - <TomeSkill name="Chapter 1: Desert Bloom"/>
-  - <TomeSkill name="Chapter 2: Radiant Recovery"/>
-  - <TomeSkill name="Chapter 3: Azure Sun"/>
-  - <TomeSkill name="Chapter 4: Shining River"/>
-  - <TomeSkill name="Epilogue: Eternal Oasis"/>
-- <Skill name="Tome of Courage"/> (F3):
-  - <TomeSkill name="Chapter 1: Unflinching Charge"/>
-  - <TomeSkill name="Chapter 2: Daring Challenge"/>
-  - <TomeSkill name="Chapter 3: Valiant Bulwark"/>
-  - <TomeSkill name="Chapter 4: Stalwart Stand"/>
-  - <TomeSkill name="Epilogue: Unbroken Lines"/>
+<Skill name="Tome of Resolve" />:
+
+- Use this Tome for emergency healing and cleansing.
+- <TomeSkill name="Chapter 1: Desert Bloom"/> heals in a cone in front of you.
+- <TomeSkill name="Chapter 2: Radiant Recovery"/> heals and cleanses conditions.
+- <TomeSkill name="Chapter 3: Azure Sun"/> gives some boons but will rarely be used.
+- <TomeSkill name="Chapter 4: Shining River"/> places a healing field that can also be blasted for extra healing.
+- <TomeSkill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an incoming healing modifier.
+- When running Virtues entering this Tome also cleanses conditions.
+- Common rotations in this Tome are 2-5-4-1-2 for maximum sustained healing or 5-4-2-1-1 for maximum burst healing.
+
+<Skill name="Tome of Courage" />:
+
+- Use this Tome for massive <Boon name="Stability"/>, <Boon name="Resistance"/> or a reflect.
+- <TomeSkill name="Chapter 1: Unflinching Charge"/> grants <Boon name="Stability"/>.
+- <TomeSkill name="Chapter 2: Daring Challenge"/> inflicts 1 second of <Condition name="Taunt"/> on the enemy which is a 75/s soft CC.
+- <TomeSkill name="Chapter 3: Valiant Bulwark"/> places a bubble that reflects incoming projectiles.
+- <TomeSkill name="Chapter 4: Stalwart Stand"/> places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
+- <TomeSkill name="Epilogue: Unbroken Lines"/> provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
+- There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
+- You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example a 2nd reflect. However only do this when absolutely needed as you will not have access to the boons and healing your weapon skills provide.
 
 <Divider text="Rotation / Skill usage"/>
 

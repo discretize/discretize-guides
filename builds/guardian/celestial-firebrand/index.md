@@ -24,15 +24,15 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: '[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 3
   - 4
   - 3
   - 4
-date: 2022-03-06T22:08:03.204Z
-cmGuide: ''
+date: 2022-03-22T19:25:06.262Z
+cmGuide: ""
 ---
 
 The **<Specialization text="Celestial Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
@@ -44,7 +44,8 @@ There are Four variants shown below; a low AR Celestial variant, a high AR Celes
 <Warning>
 There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
 - <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 69.8%bd
-- <Trait name="Liberators Vow"/>, <Trait name="Stalwart Speed"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 47.7%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 70.61%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 41.7%bd
 
 </Warning>
 
@@ -491,7 +492,7 @@ Check the build section for some common gear variations. You can also use our [g
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>.                                                                                |
 | <Trait name="pureofheart" size="big" disableText/>          | Taken if the group is struggling with healing.                                                                                                          |
-| <Trait name="stalwartspeed" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/> or <Skill name="Advance"/>). |
+| <Trait name="weighty terms" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/>). |
 
 </Card>
 </GridItem>
@@ -560,7 +561,7 @@ Keeping up <Boon name="Quickness"/> is a lot easier than with a <BuildLink build
 
 <Warning>
 
-To play <Trait name="Legendary Lore"/> in Fractals you need to have at least 60% boon duration to upkeep <Boon name="Quickness"/>. Both the Seraph and the Celestial builds have 40% from gear. meaning you will need to get the rest from agony resistance and consumables. If you cannot get enough boon duration to be safe just play with <Trait name="Stalwart Speed"/>!
+To play <Trait name="Legendary Lore"/> in Fractals you need to have at least 60% boon duration to upkeep <Boon name="Quickness"/>. Both the Seraph and the Celestial builds have 40% from gear. meaning you will need to get the rest from agony resistance and consumables. If you cannot get enough boon duration to be safe just play with <Trait name="Weighty Terms"/>!
 
 Please note the minimum suggested boon duration is influenced prestacking and typically short phases. It is reccomended to get as much Boon Duration as you can for an easier time maintaining boons! Outside of fractals you need at least 70% Boon Duration to play <Trait name="Legendary Lore"/>.
 </Warning>

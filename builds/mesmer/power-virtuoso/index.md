@@ -14,14 +14,14 @@ boons:
   - name: Fury
     uptime: 100% - On Demand
     variant: Self
-code: "null"
+code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
+  - 4
   - 3
   - 3
-  - 3
-  - 3
-date: 2022-03-07T12:22:36.474Z
+  - 4
+date: 2022-03-30T23:22:28.158Z
 ---
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
@@ -32,7 +32,7 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="162 Agony Resistance (No Spotter/Banner)" gear={{
+<Character title="162 AR (No Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -145,10 +145,12 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
     }}
   >
 
+This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
+
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character  title="162 Agony Resistance (Spotter/Banner)" gear={{
+<Character  title="162 AR (Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -261,10 +263,12 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     }}
   >
 
+This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
+
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
-<Character  title="222 Agony Resistance (No Spotter/Banner)" gear={{
+<Character  title="222 AR (No Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -377,10 +381,12 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     }}
   >
 
+This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
+
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
-<Character title="222 Agony Resistance (Spotter/Banner)" gear={{
+<Character title="222 AR (Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -492,6 +498,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
   }}
 >
+
+This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 

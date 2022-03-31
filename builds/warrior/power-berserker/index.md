@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 12 stacks
     variant: party
-code: '[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: pug
 classification:
   - 4
@@ -28,7 +28,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-03-06T22:44:14.866Z
+date: 2022-03-20T17:27:31.785Z
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
@@ -43,7 +43,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 
 <CharacterWithAr>
 
-<Character title="162 Agony Resistance + Scholar Rune" gear={{
+<Character title="162 AR + Scholar Rune" gear={{
   "profession": "Warrior",
   "weight": "Heavy",
   "gear": [
@@ -135,8 +135,10 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 
 This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed.
 
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
 </Character>
-<Character title="162 Agony Resistance + Eagle Rune" gear={{
+<Character title="162 AR + Eagle Rune" gear={{
   "profession": "Warrior",
   "weight": "Heavy",
   "gear": [
@@ -229,8 +231,10 @@ This build is future proof for upgrading to higher <Attribute name="Agony Resist
 
 Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
 
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
 </Character>
-<Character gear={{
+<Character title="222 AR" gear={{
   "profession": "Warrior",
   "weight": "Heavy",
   "gear": [
@@ -320,6 +324,8 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
   "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}
 >
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 </CharacterWithAr>

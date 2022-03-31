@@ -29,7 +29,7 @@ classification:
   - 4
   - 2
   - 3
-date: 2022-03-08T00:30:26.491Z
+date: 2022-03-28T17:31:00.066Z
 benchmark:
   small:
     dps: 37044
@@ -139,7 +139,7 @@ Due to being a condition based build, it will not benefit as highly from slaying
       },
       "consumables": {
       "foodId": 95942,
-      "utilityId": 9476,
+      "utilityId": 77567,
         "infusion": "Malign +9 Agony Infusion"
       },
       "skills": {
@@ -184,7 +184,7 @@ Note that the build does not rely on precision as much as Power builds and you c
 
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Epidemic" size="big" disableText/>               | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Particularly useful on mob heavy T4s and also Sunqua Peak CM, where it can be used in the dark phase to kill the Sorrows.                                                                                                                                                                                                   |
+| <Skill name="Epidemic" size="big" disableText/>               | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Particularly useful on mob heavy T4s and also Arkk CM, where it can be used to kill the Anomaly.                                                                                                                                                                                                   |
 | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside.                                                          |
 | <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                   |
 | <Skill name="Summon Bone Minions" size="big" disableText/>    | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g. Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak)). |
