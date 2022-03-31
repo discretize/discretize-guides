@@ -33,7 +33,7 @@ classification:
   - 5
   - 1
   - 1
-date: 2022-03-31T19:06:25.090Z
+date: 2022-03-31T20:20:16.252Z
 ---
 
 <Divider text="Overview"/>
@@ -192,7 +192,7 @@ date: 2022-03-31T19:06:25.090Z
 So, as we've already got a DPS player complaining about supports, I'll shed some light on the things that I'm doing that many DPS players aren't, so that they aren't getting abused with their super aggressive, often brainless gameplay.
 
 1. I'm managing Fractal Instabilities like <Instability name="no pain, no gain"/> & <Instability name="Vengeance"/> so that you don't have to. Making sure that you can do an "extra" 33% more damage and don't have to learn how to play classes like <Specialization name="Chronomancer"/> or <Specialization name="Reaper"/>. Try doing Twilight Oasis with out boon-strip. It is not a fun experience and it really messes with our DPS.
-2. I'm providing important boons like <Been name="Aegis"/> or <Boon name="Stability"/> so that you don't get knocked off the 2nd/4th islands.
+2. I'm providing important boons like <Boon name="Aegis"/> or <Boon name="Stability"/> so that you don't get knocked off the 2nd/4th islands.
 3. I'm providing <Skill name="Wall of Reflection" text="reflects"/> in-case you get greedy and decide 200-300 DPS is worth more than your life.
 4. I'm adapting my rotation around variable DPS from one day to the next whereas you're at most playing around break-bars and dodging big telegraphs. My rotation is far more "fluid" than yours because it varies both with the skill levels of the players that I'm playing with, the DPS they achieve and the demands instabilities make on my gameplay.
 5. Oh yes, Break-Bars - I'm often using <Item id="8679" text="Consumable CC"/> because your rotation is more important than teamplay, and saving those skills to help out with break-bars would be a "dps loss."
@@ -297,7 +297,7 @@ While doing this spam your mantras off cooldown, and at the end of the rotation 
 <GridItem sm="6">
 <Card title="Precast">
 
-<GifPlayer caption="Prestacking Boons" url="https://media.discordapp.net/attachments/798616349450567692/871501176577859614/image0.gif"/>
+<GifPlayer caption="Prestacking Boons" url="https://cdn.discordapp.com/attachments/798616349450567692/871501176577859614/image0.gif"/>
 </Card>
 
 <Card title="Rotation">
