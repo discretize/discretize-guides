@@ -1,11 +1,17 @@
 ---
+skills:
+  - 30461
+  - 9109
+  - 45047
+Traits:
+  - 551
+  - 586
 title: Healadin
+hidden: true
 rating: Meta
 role: Hybrid
 profession: Guardian
 specialization: Firebrand
-skills: [30461,9109,45047]
-Traits: [551,586]
 boons:
   - name: Aegis
     uptime: 100%
@@ -19,20 +25,27 @@ boons:
   - name: Fury
     uptime: 100%
     variant: party
-cmGuide: ''
+code: "[&DQExOQ0mPj9LFwAAeAEAAFMXAAC5AQAAcRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 5
   - 2
   - 5
   - 1
   - 1
-code: '[&DQExOQ0mPj9LFwAAeAEAAFMXAAC5AQAAcRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-01-05T22:26:09.549Z
+date: 2022-03-31T19:06:25.090Z
 ---
 
 <Divider text="Overview"/>
+<Grid>
+  <GridItem>
+    While there is no dedicated healing or tanking classes in Guild Wars 2, I've designed this build to provide the closet equivalent to a Paladin Healer or "Healadin" for fractal runs. The builds survivability is extremly high at the expense of DPS. This is the best heal build to play in fractals and **FAR** better than that toxic elitist signet share <Specialization name="Firebrand" text="Radiant Heal Firebrand"/>!
+  </GridItem>
 
-While there is no dedicated healing or tanking classes in Guild Wars 2, I've designed this build to provide the closet equivalent to a Paladin Healer or "Healadin" for fractal runs. The builds survivability is extremly high at the expense of DPS. This is the best heal build to play in fractals and **FAR** better than that toxic elitist signet share Radiant Heal Firebrand!
+  <GridItem>
+    <GifPlayer caption="" url="https://cdn.discordapp.com/attachments/725436950831562793/909040759775297607/clown_pepe.mp4"/>
+  </GridItem>
+</Grid>
 
 <Divider text="Equipment"/>
 
@@ -131,8 +144,8 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
       "weapon2OffSigil": "Life"
     },
     "consumables": {
-      "foodId": "12473",
-      "utilityId": "81157",
+      "foodId": 12473,
+      "utilityId": 81157,
       "infusion": "Resilient +9 Agony Infusion"
     },
     "skills": {
@@ -171,7 +184,7 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
 </Grid>
 
 <Divider text="The support Manifesto"/>
-
+<div>
 <Warning>
 **It is important to rmember you are irreplacable! You are the sole reason your party completes a fractal with a huge carry, they are lucky to have you! The manifesto below outlines all the things you do for your group, so you know exactly what to say if they complain.**
 </Warning>
@@ -192,6 +205,7 @@ So, as we've already got a DPS player complaining about supports, I'll shed some
 I have to keep tabs on the DPS, the skill-level (survivability) and the instability augments (eg; <Instability name="We Bleed Fire"/>). I go through several tool-kits worth of problem-solving to ensure that you either (a) don't get hit, (b) get hit don't take damage or (c) are instantly-cleansed before you lose 3/4ths of your HP on your <Specialization name="Scourge"/> and <Specialization name="Firebrand"/>.
 
 So, yeah, piss supports off, and we'll just run with friends. Many of the players that excel at playing support-classes have deep class pools -- you need us more than we need you. I don't have to pug Fractals at reset. I can grab a bunch of a friends a few hours later and we'll get through them much faster than with a bunch of DPS obsessed gremlins.
+</div>
 
 <Divider text="Details"/>
 
@@ -257,24 +271,24 @@ Starting on Staff:
 2.  <Skill name="Holy Strike"/> (Staff 2)
 3.  _Swap to Axe / Focus_
 4.  _Swap to Scepter / Focus_
-4.  <Skill name="Symbol of Punishment"/> (Scepter 2)
-5.  _Swap to Greatsword_
-6.  <Skill name="Symbol of Resolution"/> (Greatsword 4)
-7.  _Swap to Sword / Shield_
-8.  _Swap to Staff_
-9.  <Skill name="Symbol of Swiftness"/> (Staff 3)
-10. _Swap to Axe / Focus_ 
-10. <Skill name="Symbol of Vengeance"/> (Axe 2)
-11. <TomeSkill name="Chapter 2: Daring Challenge"/> (Tome 3-2)
-12. <TomeSkill name="Chapter 4: Stalwart Stand"/> (Tome 3-4)
-13. <TomeSkill name="Epilogue: Unbroken Lines"/> (Tome 3-5)
-14. <TomeSkill name="Chapter 3: Valiant Bulwark"/> (Tome 3-3)
-15. <TomeSkill name="Chapter 1: Unflinching Charge"/> (Tome 3-1)
-15. <TomeSkill name="Chapter 3: Azure Sun"/> (Tome 2-3)
-15. <TomeSkill name="Chapter 1: Desert Bloom"/> (Tome 2-1)
-18. _Swap to Axe / Shield_
-19. <Skill name="Shield of Judgment"/> (Shield 4)
-20. <Skill name="Symbol of Vengeance"/> (Axe 2)
+5.  <Skill name="Symbol of Punishment"/> (Scepter 2)
+6.  _Swap to Greatsword_
+7.  <Skill name="Symbol of Resolution"/> (Greatsword 4)
+8.  _Swap to Sword / Shield_
+9.  _Swap to Staff_
+10.  <Skill name="Symbol of Swiftness"/> (Staff 3)
+11. _Swap to Axe / Focus_ 
+12. <Skill name="Symbol of Vengeance"/> (Axe 2)
+13. <TomeSkill name="Chapter 2: Daring Challenge"/> (Tome 3-2)
+14. <TomeSkill name="Chapter 4: Stalwart Stand"/> (Tome 3-4)
+15. <TomeSkill name="Epilogue: Unbroken Lines"/> (Tome 3-5)
+16. <TomeSkill name="Chapter 3: Valiant Bulwark"/> (Tome 3-3)
+17. <TomeSkill name="Chapter 1: Unflinching Charge"/> (Tome 3-1)
+18. <TomeSkill name="Chapter 3: Azure Sun"/> (Tome 2-3)
+19. <TomeSkill name="Chapter 1: Desert Bloom"/> (Tome 2-1)
+20. _Swap to Axe / Shield_
+21. <Skill name="Shield of Judgment"/> (Shield 4)
+22. <Skill name="Symbol of Vengeance"/> (Axe 2)
 
 While doing this spam your mantras off cooldown, and at the end of the rotation swap to Mace / Shield ready to start the fight.
 </Card>
