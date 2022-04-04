@@ -1,6 +1,6 @@
 ---
 title: Fractal Basics
-date: 2021-12-07T17:26:16.744Z
+date: 2022-04-04T10:01:57.062Z
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -136,16 +136,13 @@ For a temporary 15 <Attribute name="Agony Resistance"/> buff, you can buy a <Ite
 ### Tier 1: max 17 <Attribute name="Agony Resistance"/>
 
 Requirement: Full exotic gear\
-Optional: Level Chef to 400 (costs about 2.76g, check [gw2crafts.net](https://gw2crafts.net/)), craft <Item id="62921" upgrades="49432"/> which enables a fast track to Tier 2 fractals. Since Tier 1 and 2 are essentially identically in difficulty it is recommended to go that route, however, you will need to exchange the backpiece very soon.
+Optional: Level Chef to 400 (costs about 2.76g, check [gw2crafts.net](https://gw2crafts.net/)), craft <Item id="62921" upgrades={[49432]}/> which enables a fast track to Tier 2 fractals. Since Tier 1 and 2 are essentially identically in difficulty it is recommended to go that route, however, you will need to exchange the backpiece very soon.
 
 Homework:
 
 - Start working towards the accessories that you can buy with guild commendations or - if you have a lot of spare laurels - buy them for laurels. Keep in mind you need 30 laurels later for crafting your ascended armor.
-
 - Save up relics to buy ascended rings (5 days of T1 fractal dailies are required)
-
-- Alternatively, buy Living World Season 3 Episode 3: A Crack in the ice and farm <Item id="79899"/> for trinkets (or any other living story maps: Bloodstone fen, Dragonfall). The fastest way is to farm both Bitterfrost Frontier and Dragonfall.
-
+- Alternatively, buy Living World Season 3 Episode 3: A Crack in the ice and farm <Item id={79899}/> for trinkets (or any other living story maps: Bloodstone fen, Dragonfall). The fastest way is to farm both Bitterfrost Frontier and Dragonfall.
 - Craft <Item id="77482"/> or buy an equivalent via laurels (if your build uses base game stats)
 
 ---
@@ -154,11 +151,9 @@ Homework:
 
 Acquire on your journey in T2:
 
-- 18 <Attribute name="Agony Resistance"/>: Two ascended accessories of your [build](/builds) of choice. Example: <Item id="39232" upgrades="49432"/> and <Item id="39233" upgrades="49432"/>.
-
-- 36 <Attribute name="Agony Resistance"/>: By attuning ascended rings. Example: <Item id="75187" upgrades="49432,49432"/> and <Item id="74440" upgrades="49432,49432"/>
-
-- 9 <Attribute name="Agony Resistance"/>: Getting a back item such as: <Item id="79830" upgrades="49432"/>
+- 18 <Attribute name="Agony Resistance"/>: Two ascended accessories of your [build](/builds) of choice. Example: <Item id="39232" upgrades={[49432]}/> and <Item id="39233" upgrades={[49432]}/>.
+- 36 <Attribute name="Agony Resistance"/>: By attuning ascended rings. Example: <Item id="75187" upgrades={[49432,49432]}/> and <Item id="74440" upgrades={[49432,49432]}/>
+- 9 <Attribute name="Agony Resistance"/>: Getting a back item such as: <Item id="79830" upgrades={[49432]}/>
 
 Homework:
 
@@ -171,9 +166,7 @@ Homework:
 Acquire on your journey in T3:
 
 - You need 5 more <Item id="49432"/> to fit the maximum requirement of 106 <Attribute name="Agony Resistance"/>.
-
-- Suggestion: craft 4 ascended armor pieces and hope to get a <Item id="38024"/> to upgrade one of your rings to <Item id="75669" upgrades="49432,49432,49432"/>
-
+- Suggestion: craft 4 ascended armor pieces and hope to get a <Item id="38024"/> to upgrade one of your rings to <Item id="75669" upgrades={[49432,49432,49432]}/>
 - Alternatively, do strike missions and open the weekly chest for a chance of receiving an ascended armor box.
 
 Homework:
@@ -187,13 +180,9 @@ Homework:
 Wrapping up:
 
 1.  Finish your ascended armor
-
 2.  Infuse your remaining ring(s)
-
 3.  Craft ascended weapons (easy way: [Caladbolg](https://wiki.guildwars2.com/wiki/Caladbolg_weapons) alternatively profession weapons from Path of Fire)
-
 4.  Infuse your backpack (and/or begin working towards <Item id="74155"/>)
-
 5.  Upgrade - if necessary - <Item id="49430"/> to <Item id="49432"/>
 
 Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistance"/> and match the gear in our [builds](/builds) page.
@@ -275,13 +264,9 @@ Below is a list of frequently used blast finishers among all professions. Note t
 ### <Boon name="Might"/> stacking for groups using <Skill name="Moa Stance"/> from <Specialization name="Soulbeast"/>.
 
 - <Specialization name="Renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
-
 - <Specialization name="Firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5), <Skill name="Holy Strike"/> (Staff 2), <Skill name="Hammer of Wisdom"/> and <Skill name="Mighty Blow"/> (Hammer 2)
-
 - <Specialization name="Berserker"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
-
 - <Specialization name="Weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
-
 - <Specialization name="Soulbeast"/>: Take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer, use <Skill id="12621"/> (Warhorn 5)
 
 ### Fire fields <Label><Boon name="Might"/> stacking</Label>
@@ -289,31 +274,18 @@ Below is a list of frequently used blast finishers among all professions. Note t
 Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone is back on their main weapon set before starting a fight.**
 
 - <Specialization name="Elementalist"/>:
-
   - <Skill id="5548"/> (Staff 2, <Skill id="5492" disableText/>)
-
   - <Skill id="5691"/> (Dagger 4, <Skill id="5492" disableText/>)
-
   - <Skill id="5497"/> (Focus 4, <Skill id="5492" disableText/>)
-
   - <Skill id="29533"/> (Warhorn 5, <Skill id="5492" disableText/>, <Specialization name="Tempest" disableText/>)
-
 - <Specialization name="Berserker"/>:
-
   - <Skill id="29940"/> (Torch 5)
-
 - <Specialization name="Ranger"/>:
-
   - <Skill id="12504"/> (Torch 5)
-
 - <Specialization name="Firebrand"/>:
-
   - <TomeSkill name="Chapter 4: Scorched Aftermath"/> in <Skill id="44364"/>
-
   - <Skill id="9253"/>
-
 - <Specialization name="Renegade"/>:
-
   - <Skill id="45773"/> (<Skill id="41858"/> Elite Skill)
 
 <Grid>
@@ -324,17 +296,11 @@ Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone 
 Be careful not to aggro mobs with blasts or you will get <Effect name="Revealed"/>.
 
 - <Specialization name="Thief"/>:
-
   - <Skill id="13113"/> (Pistol 5)
-
   - <Skill id="13065"/>
-
 - <Specialization name="Ranger"/>:
-
   - <Skill id="31568"/> (Smokescale pet)
-
 - <Specialization name="Engineer"/>:
-
   - <Skill id="5824"/> (Bomb kit)
 
 </GridItem>
@@ -344,15 +310,10 @@ Be careful not to aggro mobs with blasts or you will get <Effect name="Revealed"
 #### Other skills that grant party <Effect name="Stealth"/>
 
 - <Specialization name="Mesmer"/>:
-
   - <Skill id="10245"/>
-
   - <Skill id="10187"/>
-
   - Double any skill with <Skill id="29830"/> (<Specialization name="Chronomancer" disableText/>)
-
 - <Specialization name="Thief"/>:
-
   - <Skill id="13117"/>
 
 </GridItem>
@@ -398,8 +359,8 @@ Below is a list of all current instabilities and their possible countermeasures.
 | <Instability name="Boon Overload"/>       | Each boon on a player increases incoming strike damage by 5%. Outgoing boon duration is increased by 20%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | <Instability name="Frailty"/>             | Players are smaller and have 30% less health, but they move 25% faster.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | <Instability name="We Bleed Fire"/>       | Enemies create flaming missiles when damaged. Incoming condition damage is reduced by 20%. It can be reflected for extra damage. In T4s <Specialization name="Renegade"/> should bring <Skill name="Legendary Centaur stance"/> and keep the bubble up in critical moments.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| <Instability name="Vengeance"/>           | When enemies die, they enhance nearby foes with multiple boons, it does not apply to elite foes. Strip any enemy boon to inflict them with weakness.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| <Instability name="Outflanked"/>          | Foes within 300 range do 300% more damage when attacking from behind, but do 25% less damage to you (their damage is reduced to 75%) when attacking from ahead.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| <Instability name="Vengeance"/>           | When enemies die, they enhance nearby foes with multiple boons, it does not apply to elite foes. Strip any enemy boon to inflict them with weakness.                                                                                                                                |
+| <Instability name="Outflanked"/>          | Foes within 300 range do 300% more damage when attacking from behind, but do 25% less damage to you (their damage is reduced to 75%) when attacking from ahead.|
 | <Instability name="Stick Together"/>      | Take 60% increased damage when not within a range of 300 of an ally. Take 20% reduced damage when within a range of 300 of an ally.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | <Instability name="Sugar Rush"/>          | Increases player movement speed and attack speed by 15%. Elite and lower enemies' movement speed and attack speed increases by 35%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | <Instability name="Toxic Sickness"/>      | Players are occasionally affected by the toxic vomit attack out of the Nightmare Fractal. Every player gets a cone AoE in front of him, aiming at a party member will deal lethal damage. Proper stacking and positioning nullify this instability effectively.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -409,13 +370,9 @@ Below is a list of all current instabilities and their possible countermeasures.
 ## Key findings
 
 - Don't use your heal skill while under the effect of <Effect name="Agony"/>.
-
 - CC the boss first, then use your burst skills. **Everyone has to contribute!**
-
 - Only use _Fire Fields_ on the _Mistlock Singularity_ during pre-stacking.
-
 - Always stack together, boons are shared in close proximity.
-
 - Don't be afraid to communicate with your team if you are new.
 
 ---
@@ -439,4 +396,4 @@ All information is available on their [discord](https://discord.gg/CE3TswT).
 </GridItem>
 </Grid>
 
-If you are one of those that seek to improve beyond clearing fractals for the loot we highly encourage you to find a static via our `#looking-for-static` channel on [our discord](https://discord.com/invite/G3QDSv) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
+If you are one of those that seek to improve beyond clearing fractals for the loot we highly encourage you to find a static via our `#looking-for-static` channel on [our discord](https://discord.gg/Qdt7nFY) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
