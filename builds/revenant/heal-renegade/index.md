@@ -1,6 +1,7 @@
 ---
 title: Heal Renegade
 archive: true
+hidden: false
 rating: Offmeta
 role: Support
 profession: Revenant
@@ -36,7 +37,7 @@ boons:
     uptime: On Demand
     variant: Party
 code: '[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]'
-cmGuide: /cm-guides/revenant/heal-renegade
+cmGuide: ''
 classification:
   - 4
   - 1
