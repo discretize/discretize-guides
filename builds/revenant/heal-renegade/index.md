@@ -1,7 +1,7 @@
 ---
 title: Heal Renegade
-archive: true
 hidden: false
+archive: true
 rating: Offmeta
 role: Support
 profession: Revenant
@@ -36,15 +36,15 @@ boons:
   - name: Resistance
     uptime: On Demand
     variant: Party
-code: '[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 4
   - 1
   - 3
   - 2
   - 2
-date: 2022-04-05T21:51:32.653Z
+date: 2022-04-05T22:39:42.575Z
 ---
 
 The **<Specialization text="Heal Renegade" name="Renegade"/>** plays with a mix of harrier's and cleric's gear for maximum power and healing power while still hitting 100% boon duration.
@@ -69,6 +69,7 @@ Feel free to run full Harrier if you are confident that you don't need the extra
     "Cleric",
     "Cleric",
     "Cleric",
+    "Harrier",
     "Harrier",
     "Harrier",
     "Harrier"
@@ -235,7 +236,9 @@ Template code:
 
 <GridItem sm="5">
 <Card title="Legend Combos">
+
 ## Normal
+
 <Skill name="Legendary Renegade Stance" disableText size="big"/> <Skill name="Legendary Centaur Stance" disableText size="big"/>
 
 ## When <Boon name="Stability"/> is needed
@@ -251,6 +254,7 @@ Template code:
 </Card>
 <Card title="Healing Basics">
 Your healing skills in order of effectiveness are:
+
 1. <Skill id="45773"/>
 2. <Skill id="45686"/>
 3. <Skill id="27025"/>
@@ -270,6 +274,7 @@ With <Skill id="45773"/> you can sustain your group for the whole time you have 
 <Grid>
 <GridItem sm="12">
 <Card title="Abilities">
+
 **Citadel Order Skills**
 
 - <Skill name="Heroic Command"/> - Share two stacks of <Boon name="Might"/> for each <SpecialActionKey name="kallas fervor"/> stack.
