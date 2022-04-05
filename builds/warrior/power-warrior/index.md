@@ -479,9 +479,9 @@ With enemy boons present (<Instability name="No Pain, No Gain"/>, Swampland, Mol
 
 <Weapons weapon1MainType="Dagger" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1OffType="Axe" weapon1OffAffix="Berserker" weapon1OffSigil="Impact"/>
 
-<Message>
+<Information>
 Offhand weapons are still Mace/Mace!
-</Message>
+</Information>
 
 </GridItem>
 </Grid>

@@ -204,11 +204,11 @@ If no one in your party can boonrip when the <Instability name="No Pain, No Gain
 
 <Traits unembossed traits1="Trickery" traits1Id="44" traits1SelectedIds="1163,1277,1158"/>
 
-<Message>
+<Information>
 
 **Note: this is kind of a meme way to deal with the instability and there are better options!**
 
-</Message>
+</Information>
 
 </Card>
 
