@@ -5,7 +5,7 @@ classification:
   - 3
   - 3
   - 3
-Boons:
+boons:
   - name: Quickness
     uptime: 100%
     variant: group
