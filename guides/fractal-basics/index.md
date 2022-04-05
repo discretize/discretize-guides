@@ -17,7 +17,9 @@ You can find the portal entrance to fractals in Fort Marriner in Lions Arch. The
 Starting atlevel 20, players need to deal with <Effect name="Agony"/> which requires increasing amounts of <Attribute name="Agony Resistance"/> to counter effectively as you move up in fractal level. Without enough <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
 
 <Warning>
+
 Be aware of <Effect name="Agony"/>; it reduces your healing by 70% per stack. Never use your heal skill while you are under the effect of <Effect name="Agony"/>.
+
 </Warning>
 
 Starting with tier 2, the heroes begin encountering _Mistlock instabilities_ which add another mechanic to play around, and therefore another layer of difficulty. By tier 4, each fractal will apply multiple _Mistlock instabilities_. A complete list of _Mistlock instabilities_ and countermeasures can be found at the bottom of this page.
@@ -30,7 +32,7 @@ Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd C
 
 <Warning>
 
-**Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!** \
+**Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**  
 Read more about breaking Defiance bars here: [CC-distribution examples](/guides/cc-distribution)!
 
 </Warning>
@@ -64,19 +66,11 @@ The fractal specific potions influence the way builds are designed. Each of them
 
 ## Tiers and Expectations
 
-Fractals are designed to gradually introduce you to the game mode and mechanics in a relatively unpunishing way in tiers 1 and 2, but become increasingly difficult and demanding on your party by tiers 3 and 4.
+Fractals are designed to gradually introduce you to the game mode and mechanics in a relatively unpunishing way in tiers 1 and 2, but become increasingly difficult and demanding on your party by tiers 3 and 4. Because of this increase in difficulty in the later tiers, the focus on teamplay starts to make a larger impact in every encounter. Without adapting to the difficulty scale and focusing on how an individual can best serve the party and encounter, groups may fail an encounter repeatedly or simply fall apart.
 
-Because of this increase in difficulty in the later tiers, the focus on teamplay starts to make a larger impact in every encounter. Without adapting to the difficulty scale and focusing on how an individual can best serve the party and encounter, groups may fail an encounter repeatedly or simply fall apart.
+There tends to be a gap that starts to appear in around T3, leading to the "T3 phenomenon"; a tier with more demand on the players meeting with players who are unaware or unwilling to adapt their build or play to meet that demand. This demand and disparity only increase in T4, making the focus on both team play and individual adaptation highly important to clear any encounter and continue improving as a player.
 
-There tends to be a gap that starts to appear in around T3, leading to the "T3 phenomenon"; a tier with more demand on the players meeting with players who are unaware or unwilling to adapt their build or play to meet that demand.
-
-This demand and disparity only increase in T4, making the focus on both team play and individual adaptation highly important to clear any encounter and continue improving as a player.
-
-A key part of this adaptation includes using an appropriate build, with traits and gear stats that fit your role in the group.
-
-While gear, traits, and builds will not matter much in your first adventures in fractals, they will make a large difference in later tiers.
-
-This invariably leads to a META or "best" way to tackle these encounters, explained in [META Explained](/meta-explained).
+A key part of this adaptation includes using an appropriate build, with traits and gear stats that fit your role in the group. While gear, traits, and builds will not matter much in your first adventures in fractals, they will make a large difference in later tiers. This invariably leads to a META or "best" way to tackle these encounters, explained in [META Explained](/meta-explained).
 
 While there are no hard-set rules or things you "must" bring to clear an encounter, finding the best way your character can strengthen and serve the group as you learn can help make fractals more enjoyable and satisfying to play for both yourself and your party.
 
@@ -102,7 +96,7 @@ Learn more about your character and what you can bring to a group by reading [Wh
 
 <GridItem sm="11" md="11">
 
-Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!\
+Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!  
 While Fractals are their main focus, they do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons! For fractals, trainings will be offered every saturday at 20:00 CET for T1, T2, T3, T4 and CM fractals. There is no sign-up, just join their discord.
 
 All information is available on their [discord](https://discord.gg/CE3TswT).
@@ -135,14 +129,14 @@ For a temporary 15 <Attribute name="Agony Resistance"/> buff, you can buy a <Ite
 
 ### Tier 1: max 17 <Attribute name="Agony Resistance"/>
 
-Requirement: Full exotic gear\
+Requirement: Full exotic gear  
 Optional: Level Chef to 400 (costs about 2.76g, check [gw2crafts.net](https://gw2crafts.net/)), craft <Item id="62921" upgrades={[49432]}/> which enables a fast track to Tier 2 fractals. Since Tier 1 and 2 are essentially identically in difficulty it is recommended to go that route, however, you will need to exchange the backpiece very soon.
 
 Homework:
 
 - Start working towards the accessories that you can buy with guild commendations or - if you have a lot of spare laurels - buy them for laurels. Keep in mind you need 30 laurels later for crafting your ascended armor.
 - Save up relics to buy ascended rings (5 days of T1 fractal dailies are required)
-- Alternatively, buy Living World Season 3 Episode 3: A Crack in the ice and farm <Item id={79899}/> for trinkets (or any other living story maps: Bloodstone fen, Dragonfall). The fastest way is to farm both Bitterfrost Frontier and Dragonfall.
+- Alternatively, buy Living World Season 3 Episode 3: A Crack in the ice and farm <Item id="79899"/> for trinkets (or any other living story maps: Bloodstone fen, Dragonfall). The fastest way is to farm both Bitterfrost Frontier and Dragonfall.
 - Craft <Item id="77482"/> or buy an equivalent via laurels (if your build uses base game stats)
 
 ---
@@ -258,7 +252,7 @@ Do not use other combo fields than fire on the _Mistlock Singularity_! All combo
 </GridItem>
 </Grid>
 
-You can find out which skills are _Combo Fields_ and _Combo Finishers_ by hovering over the skill and reading the tooltip. Hover over the following skills: <Skill name="Ring of Fire"/> is a _Fire Field_ and <Skill name="Holy Strike"/> a _Blast Finisher_.\
+You can find out which skills are _Combo Fields_ and _Combo Finishers_ by hovering over the skill and reading the tooltip. Hover over the following skills: <Skill name="Ring of Fire"/> is a _Fire Field_ and <Skill name="Holy Strike"/> a _Blast Finisher_.  
 Below is a list of frequently used blast finishers among all professions. Note that it is often required to swap to different weapons, make sure to swap back before you enter combat.
 
 ### <Boon name="Might"/> stacking for groups using <Skill name="Moa Stance"/> from <Specialization name="Soulbeast"/>.
@@ -332,7 +326,7 @@ Generally, you **always** want to stick together as a group. Reason being that b
 </GridItem>
 
 <GridItem>
-<GifPlayer caption="Pulling mobs by using Line of Sight" url="/static/0933403b3063070634bb7ce636f1d2a8/lospull.webm"/>
+<GifPlayer caption="Pulling mobs by using Line of Sight" url="https://cdn.discordapp.com/attachments/757704460582649886/960847967101804564/lospull.webm"/>
 </GridItem>
 </Grid>
 
@@ -359,8 +353,8 @@ Below is a list of all current instabilities and their possible countermeasures.
 | <Instability name="Boon Overload"/>       | Each boon on a player increases incoming strike damage by 5%. Outgoing boon duration is increased by 20%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | <Instability name="Frailty"/>             | Players are smaller and have 30% less health, but they move 25% faster.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | <Instability name="We Bleed Fire"/>       | Enemies create flaming missiles when damaged. Incoming condition damage is reduced by 20%. It can be reflected for extra damage. In T4s <Specialization name="Renegade"/> should bring <Skill name="Legendary Centaur stance"/> and keep the bubble up in critical moments.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| <Instability name="Vengeance"/>           | When enemies die, they enhance nearby foes with multiple boons, it does not apply to elite foes. Strip any enemy boon to inflict them with weakness.                                                                                                                                |
-| <Instability name="Outflanked"/>          | Foes within 300 range do 300% more damage when attacking from behind, but do 25% less damage to you (their damage is reduced to 75%) when attacking from ahead.|
+| <Instability name="Vengeance"/>           | When enemies die, they enhance nearby foes with multiple boons, it does not apply to elite foes. Strip any enemy boon to inflict them with weakness.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| <Instability name="Outflanked"/>          | Foes within 300 range do 300% more damage when attacking from behind, but do 25% less damage to you (their damage is reduced to 75%) when attacking from ahead.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | <Instability name="Stick Together"/>      | Take 60% increased damage when not within a range of 300 of an ally. Take 20% reduced damage when within a range of 300 of an ally.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | <Instability name="Sugar Rush"/>          | Increases player movement speed and attack speed by 15%. Elite and lower enemies' movement speed and attack speed increases by 35%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | <Instability name="Toxic Sickness"/>      | Players are occasionally affected by the toxic vomit attack out of the Nightmare Fractal. Every player gets a cone AoE in front of him, aiming at a party member will deal lethal damage. Proper stacking and positioning nullify this instability effectively.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -388,7 +382,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 <GridItem sm="11" md="11">
 
-Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!\
+Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!  
 While Fractals are their main focus, they do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons!
 
 All information is available on their [discord](https://discord.gg/CE3TswT).
