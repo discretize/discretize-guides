@@ -102,6 +102,20 @@ While Fractals are their main focus, they do offer other training & organized gr
 All information is available on their [discord](https://discord.gg/CE3TswT).
 
 </GridItem>
+
+<GridItem sm="1" md="1">
+
+<MDImage src="images/gw2university.png" caption="GW2University"/>
+
+</GridItem>
+<GridItem sm="11" md="11">
+
+Guild Wars 2 University is a discord-server-based community that focuses on helping and guiding new and returning players to learn everything that Guild Wars 2 has to offer. GWU provides a friendly and judgment-free environment where veterans from all areas of the game help teach and train anyone interested in learning.
+
+For more information, check out their [website](https://www.gw2university.com/)
+
+</GridItem>
+
 </Grid>
 
 ---
@@ -388,6 +402,19 @@ Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members o
 While Fractals are their main focus, they do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons!
 
 All information is available on their [discord](https://discord.gg/CE3TswT).
+
+</GridItem>
+
+<GridItem sm="1" md="1">
+
+<MDImage src="images/gw2university.png" caption="GW2University"/>
+
+</GridItem>
+<GridItem sm="11" md="11">
+
+Guild Wars 2 University is a discord-server-based community that focuses on helping and guiding new and returning players to learn everything that Guild Wars 2 has to offer. GWU provides a friendly and judgment-free environment where veterans from all areas of the game help teach and train anyone interested in learning.
+
+For more information, check out their [website](https://www.gw2university.com/)
 
 </GridItem>
 </Grid>
