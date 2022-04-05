@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 4
@@ -136,8 +136,7 @@ This build guide is not complete, gear and sections may change regularly as we e
       "eliteId": 62561
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
-  }}
->
+}}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
@@ -573,7 +572,7 @@ This is just a suggested opener. Depending on the encounter and the length of th
 6.  <Skill name="Rushing Justice" profession="guardian"/> (F1)
 7.  <Skill name="Zealotsdefense" profession="guardian"/> (Sword 3)
 8.  **Weapon Swap**
-9. <Skill name="Symbol of Resolution" profession="guardian"/> (GS 4)
+9.  <Skill name="Symbol of Resolution" profession="guardian"/> (GS 4)
 10. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
 11. <Skill name="Whirling Light" profession="guardian"/>
 12. <Skill name="Sword of Justice" profession="guardian"/>

@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 12 stacks
     variant: party
-code: "[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
   - 4
@@ -226,8 +226,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "elite": "Head Butt"
   },
   "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
-}}
->
+}}>
 
 Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
 
@@ -322,8 +321,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "elite": "Head Butt"
   },
   "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
-}}
->
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 

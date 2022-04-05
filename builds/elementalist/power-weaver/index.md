@@ -13,7 +13,7 @@ traits:
   - 1502
   - 226
   - 1503
-code: "[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 5
@@ -38,7 +38,7 @@ Also this build depends pretty much on supports and boon uptimes, as it can't pr
 
 <Warning>
 
-These builds assume a Tier 10 Jade Bot Core. The extra Vitality benefits Weaver due to <Trait name="Master's Fortitude"/>. If you do not have the Tier 10 Core, check out the  [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+These builds assume a Tier 10 Jade Bot Core. The extra Vitality benefits Weaver due to <Trait name="Master's Fortitude"/>. If you do not have the Tier 10 Core, check out the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Warning>
 
@@ -190,7 +190,7 @@ These builds assume a Tier 10 Jade Bot Core. The extra Vitality benefits Weaver 
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
@@ -349,7 +349,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
@@ -503,7 +503,7 @@ If you have neither, use the 162 AR (No Banner) build or use <Item id="12486"/>.
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
@@ -662,7 +662,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 

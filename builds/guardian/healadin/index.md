@@ -158,8 +158,7 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
       "utility3": "Merciful Intervention",
       "elite": "Signet of Courage"
     }
-  }}
->
+}}>
 
 </Character> 
 </CharacterWithAr>

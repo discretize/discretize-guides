@@ -19,7 +19,7 @@ compositions:
     roles: DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC
     composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
 specialization: Soulbeast
-code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-03-28T17:42:00.313Z
 conditions:
   - Bleeding
@@ -195,7 +195,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 If you do not have a Jade Bot Core: Tier 10, you will have slightly lower duration on your non-bleeding conditions but the build does not change!
 
@@ -344,7 +344,7 @@ If you do not have a Jade Bot Core: Tier 10, you will have slightly lower durati
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This builds damage depends on the amount of <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. The build deals similar DPS with 2 <Specialization name="Soulbeast" text="Condi Soulbeasts"/>, and outperforms the Krait build if you have 3 <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. If you are going to be on your own run the Krait rune setup!
 

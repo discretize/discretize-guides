@@ -24,7 +24,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 3
@@ -32,7 +32,7 @@ classification:
   - 3
   - 4
 date: 2022-03-22T19:25:06.262Z
-cmGuide: ""
+cmGuide: ''
 ---
 
 The **<Specialization text="Celestial Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
@@ -140,8 +140,7 @@ There are a number of different gear, utility and trait setups that allow you to
       "elite": "Feel my Wrath"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 **This is the standard build with high boon duration which allows it to be played with lower Agony Resistance and has an easier time maintaining boons. This build also has the advantage of working in other content such as Raids and Strike Missions**
 
@@ -237,8 +236,7 @@ Check the build section for some common gear variations. You can also use our [g
       "elite": "Feel my Wrath"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivability with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**
 
@@ -334,8 +332,7 @@ Check the build section for some common gear variations. You can also use our [g
       "elite": "Feel my Wrath"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 **This build provides slightly higher damage then the Celestial build in fractals due to having higher <Attribute name="Condition Damage"/> and <Effect name="Exposed"/>, whilst still providing more than enough support for most groups.**
 
@@ -431,8 +428,7 @@ Check the build section for some common gear variations. You can also use our [g
       "elite": "Feel my Wrath"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**
 
@@ -488,10 +484,10 @@ Check the build section for some common gear variations. You can also use our [g
 
 <Card title="Alternative traits">
 
-|                                                             |                                                                                                                                                         |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>.                                                                                |
-| <Trait name="pureofheart" size="big" disableText/>          | Taken if the group is struggling with healing.                                                                                                          |
+|                                                             |                                                                                                                              |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>.                                                     |
+| <Trait name="pureofheart" size="big" disableText/>          | Taken if the group is struggling with healing.                                                                               |
 | <Trait name="weighty terms" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/>). |
 
 </Card>

@@ -2,7 +2,7 @@
 title: Condi Scourge
 rating: Good
 role: Condi Damage
-author: "Discord: Amerikajinn#9784"
+author: 'Discord: Amerikajinn#9784'
 profession: Necromancer
 specialization: Scourge
 skills:
@@ -21,8 +21,8 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: "[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
@@ -149,8 +149,7 @@ Due to being a condition based build, it will not benefit as highly from slaying
         "elite": "Plaguelands"
       },
       "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-    }}
-  >
+}}>
 
 Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. Situational Runes:
 
@@ -184,7 +183,7 @@ Note that the build does not rely on precision as much as Power builds and you c
 
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Epidemic" size="big" disableText/>               | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Particularly useful on mob heavy T4s and also Arkk CM, where it can be used to kill the Anomaly.                                                                                                                                                                                                   |
+| <Skill name="Epidemic" size="big" disableText/>               | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Particularly useful on mob heavy T4s and also Arkk CM, where it can be used to kill the Anomaly.                                                                                                                                                                                                                            |
 | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside.                                                          |
 | <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                   |
 | <Skill name="Summon Bone Minions" size="big" disableText/>    | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g. Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak)). |

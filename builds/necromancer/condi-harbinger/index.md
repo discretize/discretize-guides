@@ -22,7 +22,7 @@ boons:
   - name: Regeneration
     uptime: 45% (50% party on Quickness variant)
     variant: self
-code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -303,7 +303,7 @@ You can also use <Item id="37130"/> if you do not have the Spiteful ones for a m
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This build is only very slightly behind the Nightmare Runes setup in terms of DPS, but ift has the benefit of sharing a set with the Quickness variant, only requiring one Ring swap with 3 <Item name="Spiteful +9 Agony Infusion"/> for the Quickness variant sicne this build runs all 18 <Item name="Malign +9 Agony Infusion"/>.
 

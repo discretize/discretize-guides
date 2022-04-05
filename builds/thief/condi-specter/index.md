@@ -14,7 +14,7 @@ conditions:
   - Bleeding
   - Torment
 boons: null
-cmGuide: ""
+cmGuide: ''
 classification:
   - 5
   - 4
@@ -22,7 +22,7 @@ classification:
   - 2
   - 3
 compositions: null
-code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-03-20T17:44:08.565Z
 ---
 
@@ -153,8 +153,7 @@ At the same time it can generate large amounts of <Effect name="Barrier"/> for y
       "elite": "Basilisk Venom"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"id": "jade-bot-per-tier", "value": 10, "type": "Text"}]
-  }}
->
+}}>
 
 If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
 
@@ -205,7 +204,7 @@ Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alac
 
 |                                                       |                                                                                                                                              |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="13093" size="big" disableText/>            | A situational damage ability, to take over <Skill name="Thousand Needles"/> on moving targets.                                              |
+| <Skill id="13093" size="big" disableText/>            | A situational damage ability, to take over <Skill name="Thousand Needles"/> on moving targets.                                               |
 | <Skill name="signetofmalice" size="big" disableText/> | Highest sustained healing.                                                                                                                   |
 | <Skill name="skelkvenom" size="big" disableText/>     | Best party healing.                                                                                                                          |
 | <Skill id="13020" size="big" disableText/>            | Taken over <Skill name="Prepare Thousand Needles"/> when extra CC is needed (particularly useful on MAMA).                                   |
@@ -241,12 +240,14 @@ There is no set rotation for <Specialization name="Specter" text="Condi Specter"
 You should be casting your <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Thousand Needles"/> off cooldown (unless a phase is about to end).
 
 On Scepter/Dagger you want to use:
+
 - <Skill name="Twilight Combo"/>
 - <Skill name="Shadow Bolt"/>, <Skill name="Double Bolt"/>, <Skill name="Triple Bolt"/>
 
 You should also be weapon swapping off cooldown if you are not playing Pistol to make the best use of <Trait name="Quick Pockets"/> and <Item id="24609"/>
 
 In <Skill name="Enter Shadow Shroud" text="Shadow Shorud"/> you want to use:
+
 - Mind Shock (Skill 5)
 - Eternal Night (Skill 4)
 - Grasping Shadows (Skill 2)

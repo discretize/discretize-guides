@@ -12,7 +12,7 @@ boons:
   - name: Might
     variant: Self
     uptime: 25 Stacks
-code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -21,12 +21,12 @@ classification:
   - 3
 date: 2022-03-30T23:27:12.639Z
 ---
+
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
 
 It offers great sustained DPS with a very simple rotation. On top of that it also has a high range and great sustain due to <Trait name="Jagged Mind"/>. At the same time it is quite an independant class with great boon generation, being able to upkeep a good amount of self <Boon name="fury"/> and <Boon name="Might"/> and if traited <Boon name="Quickness"/> from traits in the Dueling and Illusions traitlines. On top of this <Specialization name="Mesmer"/> also cna help provide a significant amount of <Condition name="Vulnerability"/> from <Skill name="Phantasmal Warden"/>.
 
 The <Specialization name="Mesmer"/>also provides an optimal skipping toolset for T4 fractals which should be utilized.
-
 
 <Divider text="Equipment"/>
 
@@ -179,12 +179,11 @@ There are many different gear setups that work very similarly on <Specialization
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This is the default setup when using the <Item type="Sigil" name="Agony"/> at 162 Agony Resistance.
 
 We chose the <Item type="Sigil" name="Agony"/> variant over the <Item type="Sigil" name="Bursting"/> or <Item type="Sigil" name="Geomancy"/> variant since they perform basically identically in fractals but the <Item type="Sigil" name="Agony"/> variant does not rely on <Item name="Writ of Masterful Accuracy"/> to reach crit-cap. This means you will not go below crit-cap when not running a Writ or going below 90% health.
-
 
 </Character>
 
@@ -329,14 +328,13 @@ We chose the <Item type="Sigil" name="Agony"/> variant over the <Item type="Sigi
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This is the default setup when using the <Item type="Sigil" name="Agony"/> at 222 Agony Resistance.
 
 We chose the <Item type="Sigil" name="Agony"/> variant over the <Item type="Sigil" name="Bursting"/> or <Item type="Sigil" name="Geomancy"/> variant since they perform basically identically in fractals but the <Item type="Sigil" name="Agony"/> variant does not rely on <Item name="Writ of Masterful Accuracy"/> to reach crit-cap. This means you will not go below crit-cap when not running a Writ or going below 90% health.
 
 </Character>
-
 
 </CharacterWithAr>
 
@@ -356,8 +354,8 @@ We chose the <Item type="Sigil" name="Agony"/> variant over the <Item type="Sigi
 <Traits traits1="Illusions" traits1Selected="Shatter Storm, Maim the Disillusioned, Phantasmal Force" traits2="Dueling" traits2Selected="Phantasmal Fury, Fencer's Finesse, Superiority Complex" traits3="Virtuoso" traits3Selected="Jagged Mind,Phantasmal Blades,Bloodsong"/>
 <Card title="Situational Traits">
 
-|                                                         |                                                     |
-| ------------------------------------------------------- | --------------------------------------------------- |
+|                                                             |                                                                                |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | <Trait name="Duelist's Discipline" size="big" disableText/> | If you're playing with Pistol, take this over <Trait name="Phantasmal Fury"/>. |
 
 <Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
@@ -379,21 +377,21 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 <Card title="Situational Skills">
 
 |                                                              |                                                                                                                                                                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill name="Blade Renewal" size="big" disableText/>          | For prestacking blades                                                                                                                                                                    |
-| <Skill name="Mimic" size="big" disableText/>                 | For precasting at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| <Skill name="Blade Renewal" size="big" disableText/>         | For prestacking blades                                                                                                                                                                     |
+| <Skill name="Mimic" size="big" disableText/>                 | For precasting at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                                                             |
 | <Skill name="Null Field" size="big" disableText/>            | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
 | <Skill name="Signet of Inspiration" size="big" disableText/> | For precasting before the boss.                                                                                                                                                            |
-| <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |                                                                                                                                                |
-| <Skill name="Thousand Cuts" size="big" disableText/>              | Some extra DPS at the cost of the CC from <Skill name="Signet of Humility"/>.                                                                                                                                                  |                                                                                                                                                |
+| <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |     |
+| <Skill name="Thousand Cuts" size="big" disableText/>         | Some extra DPS at the cost of the CC from <Skill name="Signet of Humility"/>.                                                                                                              |     |
 | **Skips**                                                    |                                                                                                                                                                                            |
-| <Skill name="Blade Leap" size="big" disableText/>            | A 600 leap (only availible as  <Specialization name="Virtuoso"/>)                                                                                                              |
-| <Skill name="Returning Edge" size="big" disableText/>        | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                             |
-| <Skill name="Portal Entre" size="big" disableText/>          | For skipping sections of the fractal for your party.                                                                                                                                    |
+| <Skill name="Blade Leap" size="big" disableText/>            | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |
+| <Skill name="Returning Edge" size="big" disableText/>        | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                               |
+| <Skill name="Portal Entre" size="big" disableText/>          | For skipping sections of the fractal for your party.                                                                                                                                       |
 | <Skill name="Blink" size="big" disableText/>                 | 1200 range blink, use it for skips!                                                                                                                                                        |
 | <Skill name="Mass Invisibility" size="big" disableText/>     | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
-| <Skill name="Well of Precognition" size="big" disableText/>  | Situational uses such as the Underground Facility door.                                                                                                                                 |
-| <Skill name="Mirage Thrust" size="big" disableText/>         | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                           |
+| <Skill name="Well of Precognition" size="big" disableText/>  | Situational uses such as the Underground Facility door.                                                                                                                                    |
+| <Skill name="Mirage Thrust" size="big" disableText/>         | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
 | <Skill name="Jaunt" size="big" disableText/>                 | 450 range blink, 3 charges.                                                                                                                                                                |
 | <Skill name="Illusionary Ambush" size="big" disableText/>    | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
 
@@ -401,12 +399,9 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 </GridItem>
 </Grid>
 
-
-
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
-
 
 <GridItem sm="6">
 
@@ -421,7 +416,6 @@ They do however benefit from <Effect name="Exposed"/>.
 
 </GridItem>
 
-
 <GridItem sm="6">
 
 <Card title="Important Traits">
@@ -433,11 +427,8 @@ They do however benefit from <Effect name="Exposed"/>.
 - <Trait name="Bloodsong"/> stocks extra blades when you inflict enough <Condition name="Bleeding"/> and will make sure that you are always at 5 Blades for your Bladesongs as long as you keep attacking.
 - <Trait name="Sharper Images"/> makes your Phantasms inflict <Condition name="Bleeding"/> on critical hits, making multi-hit Phantasms stronger. <Trait name="Phantasmal Fury"/> combined with the gear choices will ensure ciritcal hits of your Phantasms.
 
-
 </Card>
 </GridItem>
-
-
 
 <GridItem sm="8">
 
@@ -466,14 +457,14 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 
 <Card title="CC skills">
 
-|                                      |                             |
-| ------------------------------------ | --------------------------- |
-| <Skill name="Bladesong Dissonance"/> | 50 damage (per Blade)      |
-| <Skill name="Counter Blade"/>        | 200 damage                  |
-| <Skill name="Into the Void"/>        | 150 damage                  |
-| <Skill name="Signet of Humility"/>   | 600 damage                  |
-| <Skill name="Magic Bullet"/>         | 250 damage                  |
-| <Condition name="Slow"/>             | 50 damage per second        |
+|                                      |                       |
+| ------------------------------------ | --------------------- |
+| <Skill name="Bladesong Dissonance"/> | 50 damage (per Blade) |
+| <Skill name="Counter Blade"/>        | 200 damage            |
+| <Skill name="Into the Void"/>        | 150 damage            |
+| <Skill name="Signet of Humility"/>   | 600 damage            |
+| <Skill name="Magic Bullet"/>         | 250 damage            |
+| <Condition name="Slow"/>             | 50 damage per second  |
 
 </Card>
 
@@ -485,6 +476,7 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 At the Mistlock Singularity
 
 - Make sure to start with 5 Blades. If you need use <Skill name="Blade Renewal"/> to replenish them.
+
 1. Blast fire fields with <Skill name="The Prestige"/>.
 2. Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
 3. Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
@@ -502,7 +494,6 @@ At the boss (prespawned bosses)
 
 </Card>
 
-
 </GridItem>
 
 <GridItem sm="6">
@@ -511,9 +502,10 @@ At the boss (prespawned bosses)
 These is a basic opener used on the golem for sustained DPS , you will need to adapt this depending on the boss and cooldowns.
 
 - Start on Dagger/Sword (or Pistol)
+
 1. <Skill name="Phantasmal Swordsman"/>
 2. <Skill name="Bladesong Harmony"/>
-3. <Skill name="Bladecall"/>  
+3. <Skill name="Bladecall"/>
 4. _Weapon Swap_
 5. <Skill name="Unstable Bladestorm"/>
 6. <Skill name="Phantasmal Warden"/>

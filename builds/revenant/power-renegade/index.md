@@ -37,7 +37,8 @@ To see how the <Specialization name="Renegade"/> is played in Pick Up Groups ref
 
 <Divider text="Equipment"/>
 
-<CharacterWithAr>  
+<CharacterWithAr>
+
 <Character title="80% BD - 162 AR" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
@@ -123,13 +124,12 @@ To see how the <Specialization name="Renegade"/> is played in Pick Up Groups ref
       "legend2": "legendaryrenegadestance"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
-  }}
->
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
-</Character>  
+</Character>
 <Character title="50% BD - 162 AR" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
@@ -215,13 +215,12 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "legend2": "legendaryrenegadestance"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
-  }}
->
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
-</Character>  
+</Character>
 <Character title="80% BD - 222 AR" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
@@ -307,12 +306,12 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "legend2": "legendaryrenegadestance"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
-  }}
->
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
-</Character>  
+
+</Character>
 <Character title="50% BD - 222 AR" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
@@ -402,6 +401,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
+
 </Character>
 </CharacterWithAr>
 

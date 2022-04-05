@@ -20,7 +20,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-cmGuide: ""
+cmGuide: ''
 classification:
   - 5
   - 4
@@ -29,7 +29,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-03-22T19:20:10.236Z
 benchmark:
   small:
@@ -159,8 +159,7 @@ There are a number of different gear, utility and trait setups that allow you to
       "elite": "Feel My Wrath"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
 
@@ -267,8 +266,7 @@ You will want the following weapons to swap to durning fractal runs:
     "eliteId": 29965
   },
   "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
 
@@ -376,8 +374,7 @@ You will want the following weapons to swap to durning fractal runs:
       "elite": "Renewed Focus"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 To share quickness you will need at least two <Specialization name="Firebrand" text="Firebrands"/>. You can see the traits required in the Build Variants section further down the page.
 
@@ -400,10 +397,7 @@ You will want the following weapons to swap to durning fractal runs:
 This build provides permanent <Boon name="Quickness"/>. For different variants, such as multiple DPS Firebrands or full DPS, see below.
 </Warning>
 
-
 <Divider text="Build Variants"/>
-
-
 
 <Card title="Full DPS variant">
 
@@ -445,21 +439,21 @@ If your are playing solo you can swap Virtues trait line with Zeal and run <Skil
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                         |                                                                                          |
-| ------------------------------------------------------- | --------------------------------------- |
-| <Skill name="Sword of Justice" size="big" disableText/> |  If your target doesn't have <Condition name="Vulnerability" text="25 stacks of Vulnerability"/>, this is a DPS increase! |
-| <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                                                      |
-| <Skill id="9125" size="big" disableText/>               | Deals an additional 200 defiance bar damage.                                             |
-| <Skill id="43357" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                                 |
-| <Skill name="renewed focus" size="big" disableText/>    | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
-| <Skill name="Mantra of Flame" size="big" disableText/>  | Taken as a 3rd utility for DPS if no other skil is required.                            |
-| <Skill name="Advance" size="big" disableText/>          | When <Boon name="Aegis"/> is needed.                                                     |
-| <Skill id="9246" size="big" disableText/>               | A 1,200 range teleport to an ally.                                                       |
-| <Skill name="Hallowed Ground" size="big" disableText/>  | When <Boon name="Stability"/> is needed.                                                 |
-| <Skill id="9153" size="big" disableText/>               | When <Boon name="Stability"/> or a stunbreak is needed.                                 |
-| <Skill id="9251" size="big" disableText/>               | A stationary reflect lasting for 10 seconds.                                             |
-| <Skill id="9247" size="big" disableText/>               | A 1200 range teleport to an enemy.                                                       |
-| <Skill name="Mantra of lore" size="big" disableText/>   | Cleanses multiple conditions thanks to charges.                                          |
+|                                                         |                                                                                                                          |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| <Skill name="Sword of Justice" size="big" disableText/> | If your target doesn't have <Condition name="Vulnerability" text="25 stacks of Vulnerability"/>, this is a DPS increase! |
+| <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                                                                                      |
+| <Skill id="9125" size="big" disableText/>               | Deals an additional 200 defiance bar damage.                                                                             |
+| <Skill id="43357" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                                                                  |
+| <Skill name="renewed focus" size="big" disableText/>    | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds.                                      |
+| <Skill name="Mantra of Flame" size="big" disableText/>  | Taken as a 3rd utility for DPS if no other skil is required.                                                             |
+| <Skill name="Advance" size="big" disableText/>          | When <Boon name="Aegis"/> is needed.                                                                                     |
+| <Skill id="9246" size="big" disableText/>               | A 1,200 range teleport to an ally.                                                                                       |
+| <Skill name="Hallowed Ground" size="big" disableText/>  | When <Boon name="Stability"/> is needed.                                                                                 |
+| <Skill id="9153" size="big" disableText/>               | When <Boon name="Stability"/> or a stunbreak is needed.                                                                  |
+| <Skill id="9251" size="big" disableText/>               | A stationary reflect lasting for 10 seconds.                                                                             |
+| <Skill id="9247" size="big" disableText/>               | A 1200 range teleport to an enemy.                                                                                       |
+| <Skill name="Mantra of lore" size="big" disableText/>   | Cleanses multiple conditions thanks to charges.                                                                          |
 
 </Card>
 <Card title="Defiance Bar Damage">

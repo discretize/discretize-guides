@@ -18,7 +18,7 @@ boons:
   - name: Might
     uptime: 3 stacks
     variant: party - situational
-cmGuide: ""
+cmGuide: ''
 classification:
   - 3
   - 5
@@ -27,7 +27,7 @@ classification:
   - 5
 compositions:
   - name: _CRGB
-code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-03-20T17:41:23.631Z
 ---
 
@@ -139,8 +139,7 @@ We do not recommend running these builds in Shattered Observatory for new player
       "elite": "Shadow Meld"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 Note that there are two slightly different variants of this build: one is meant for bosses with very short phases such as Ensolyss or Light Ai; the other one is meant for longer fights, where you will need to sustain damage for a longer period of time. This will also depend on your group. It will always be better to use the latter with people you do not know well, or in situations where your party doesn't bring enough damage.
 The <Item name="afflicted"/> is a viable, more accessible alternative.

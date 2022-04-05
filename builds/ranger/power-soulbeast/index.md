@@ -11,7 +11,7 @@ rating: Power Meta
 role: Power Damage
 profession: Ranger
 specialization: Soulbeast
-code: "[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
+code: '[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]'
 classification:
   - 5
   - 5
@@ -186,13 +186,13 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-</Character> 
+</Character>
 
 <Character title="162 AR (Banner)" gear={{
   "profession": "Ranger",
@@ -346,13 +346,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
 If you have neither, use the 162 AR (No Banner) build or use <Item id="12486"/>.
 
-</Character>  
+</Character>
 
 <Character title="222 AR (No Banner)" gear={{
   "profession": "Ranger",
@@ -501,7 +501,7 @@ If you have neither, use the 162 AR (No Banner) build or use <Item id="12486"/>.
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
@@ -661,7 +661,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
@@ -821,7 +821,7 @@ If you have neither, use the 222 AR (No Banner) build or use <Item id="12486"/>.
       "type": "Trait"
     }
   ]
-}} >
+}}>
 
 You need <Item id="85743"/>, <Item id="86175"/>, 1x <Item id="49437"/> and 2x <Item id="49438"/>, with the rest being 15x +9 Agony Infusions. You also need <Item id="70596"/> and the 5 AR from _Mistlock Singularity_. <br/>
 
@@ -867,11 +867,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Card>
 <Card title="Pets">
 
-|                                            |                                                                                                                                                                                         |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>.                           |
-| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                                           |
-| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.                                   |
+|                                            |                                                                                                                                                                                          |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Best CC pet for small hitboxes, also this is the pet you use in <Skill id="42944"/>.                            |
+| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                                            |
+| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Higher DPS pet to use in <Skill id="42944"/> if the CC from Rock Gazelle isn't needed.                                    |
 | <Skill id="41908" size="big" disableText/> | [Pheonix](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/> deals less damage than <Skill id="41524"/> |
 
 </Card>

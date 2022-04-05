@@ -14,7 +14,7 @@ conditions:
   - Crippled
   - Bleeding
   - Chilled
-code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -22,7 +22,7 @@ classification:
   - 4
   - 5
 date: 2022-03-28T17:12:13.596Z
-cmGuide: ""
+cmGuide: ''
 ---
 
 <Warning>
@@ -45,7 +45,6 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
 
 <Character title="162 Agony Resistance" gear={{
     "profession": "Elementalist",
-    "title": "162 Ar",
     "weight": "Light",
     "gear": [
       "Viper",

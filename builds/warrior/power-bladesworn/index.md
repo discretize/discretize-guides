@@ -15,7 +15,7 @@ boons:
   - name: Fury
     uptime: 100&
     variant: party
-code: "[&DQIEHzMWRCunAAAAAAAAAKwACgCqAKIBnACcAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQIEHzMWRCunAAAAAAAAAKwACgCqAKIBnACcAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 3
@@ -125,8 +125,7 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
       "elite": "Signet of Rage"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
-  }}
->
+}}>
 
 This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed.
 
@@ -218,8 +217,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "elite": "Signet of Rage"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
-  }}
->
+}}>
 
 Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
 
@@ -355,17 +353,17 @@ Due to not actively using <Skill name="Signet of Fury"/> in the rotation you can
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                           |                                                                                                                                                                                              |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="To The Limit" size="big" disableText/> | Alternative for extra Flow generation. However you will miss out on the extra damage from <Trait name="Peak Performance"/>.
-| <Skill name="For Great Justice!" size="big" disableText/> | If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!                                         |
+|                                                           |                                                                                                                                                                                   |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="To The Limit" size="big" disableText/>       | Alternative for extra Flow generation. However you will miss out on the extra damage from <Trait name="Peak Performance"/>.                                                       |
+| <Skill name="For Great Justice!" size="big" disableText/> | If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!                              |
 | <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use as well as additional Flow. |
-| <Skill name="Signet of might" size="big" disableText/>    | Flat 180 power buff. Only take this when no other utility is needed.                                                                                                                         |
-| <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.                                                                                                    |
-| <Skill name="onmymark" size="big" disableText/>           | Can be used to pull Krait from the side altars at the Nightmare CM fractal.                                                                                                                  |
-| <Skill name="featherfootgrace" size="big" disableText/>   | Grants <Effect name="Superspeed"/> for skips.                                                                                                                                                |
-| <Skill name="bullscharge" size="big" disableText/>        | 300 CC, gives <Trait name="Peakperformance"/>.                                                                                                                                               |
-| <Skill name="Tactical Reload" size="big" disableText/>    | Used to recharge ammo on your profession skills.                                                                                                                                       |
+| <Skill name="Signet of might" size="big" disableText/>    | Flat 180 power buff. Only take this when no other utility is needed.                                                                                                              |
+| <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.                                                                                         |
+| <Skill name="onmymark" size="big" disableText/>           | Can be used to pull Krait from the side altars at the Nightmare CM fractal.                                                                                                       |
+| <Skill name="featherfootgrace" size="big" disableText/>   | Grants <Effect name="Superspeed"/> for skips.                                                                                                                                     |
+| <Skill name="bullscharge" size="big" disableText/>        | 300 CC, gives <Trait name="Peakperformance"/>.                                                                                                                                    |
+| <Skill name="Tactical Reload" size="big" disableText/>    | Used to recharge ammo on your profession skills.                                                                                                                                  |
 
 </Card>
 <Card title="CC skills">
@@ -391,7 +389,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 For that reason you can find a video with openers, that are efficient to use here.
 
 - Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
-  
+
 </Card>
 </GridItem>
 
@@ -424,7 +422,7 @@ Start in <Skill name="Unsheathe Gunsaber"/>
 6. <Skill name="Chop" /> -> <Skill name="Double Chop" /> -> <Skill name="Triple Chop" />
 7. <Skill name="Unsheathe Gunsaber" />
 8. <Skill name="Dragon Trigger" />
-9. Dragon Slash-Force in <Skill name="Dragon Trigger"/> (Skill 1) 
+9. Dragon Slash-Force in <Skill name="Dragon Trigger"/> (Skill 1)
 
 </Card>
 

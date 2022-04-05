@@ -20,7 +20,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: "[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: static
 classification:
   - 5
@@ -45,7 +45,8 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
 
 <Divider text="Equipment"/>
 
-<CharacterWithAr>  
+<CharacterWithAr>
+
 <Character title="162 AR (No Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
@@ -112,37 +113,36 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
     "Effective Healing": 465,
     "Healing": 465
   },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1Id": 24615,
-      "weapon1OffType": "Focus",
-      "weapon1OffSigilId": 24868,
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1Id": 24615,
-      "weapon2MainSigil2Id": 24868
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "Mantra of Solace",
-      "utility1": "Mantra of Potence",
-      "utility2": "Sword of Justice",
-      "utility3": "Bane Signet",
-      "elite": "Feel my Wrath"
-    },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
-  }}
->
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131, 37131, 37131, 37131, 37131, 37131, 37131,
+    37131, 37131, 37131, 37131, 37131, 37131, 37131,
+    37131, 37131, 37131, 37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Focus",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Greatsword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 9443,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "skills": {
+    "heal": "Mantra of Solace",
+    "utility1": "Mantra of Potence",
+    "utility2": "Sword of Justice",
+    "utility3": "Bane Signet",
+    "elite": "Feel my Wrath"
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
+}}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
@@ -220,47 +220,46 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Effective Healing": 465,
     "Healing": 465
   },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1Id": 24615,
-      "weapon1OffType": "Focus",
-      "weapon1OffSigilId": 24868,
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1Id": 24615,
-      "weapon2MainSigil2Id": 24868
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "Mantra of Solace",
-      "utility1": "Mantra of Potence",
-      "utility2": "Sword of Justice",
-      "utility3": "Bane Signet",
-      "elite": "Feel my Wrath"
-    },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131, 37131, 37131, 37131, 37131, 37131, 37131,
+    37131, 37131, 37131, 37131, 37131, 37131, 37131,
+    37131, 37131, 37131, 37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Focus",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Greatsword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 9443,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "skills": {
+    "heal": "Mantra of Solace",
+    "utility1": "Mantra of Potence",
+    "utility2": "Sword of Justice",
+    "utility3": "Bane Signet",
+    "elite": "Feel my Wrath"
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
-If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+If you cannot maintain good <Boon name="Resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-
 <Character title="222 AR (No Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
@@ -327,35 +326,35 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Effective Healing": 465,
     "Healing": 465
   },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1Id": 24615,
-      "weapon1OffType": "Focus",
-      "weapon1OffSigilId": 24868,
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1Id": 24615,
-      "weapon2MainSigil2Id": 24868
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "Mantra of Solace",
-      "utility1": "Mantra of Potence",
-      "utility2": "Sword of Justice",
-      "utility3": "Bane Signet",
-      "elite": "Feel my Wrath"
-    },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131, 37131, 37131, 37131, 37131, 37131, 37131,
+    37131, 37131, 37131, 37131, 37131, 37131, 37131,
+    37131, 37131, 37131, 37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Focus",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Greatsword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 9443,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "skills": {
+    "heal": "Mantra of Solace",
+    "utility1": "Mantra of Potence",
+    "utility2": "Sword of Justice",
+    "utility3": "Bane Signet",
+    "elite": "Feel my Wrath"
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
@@ -433,37 +432,36 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Effective Healing": 465,
     "Healing": 465
   },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1Id": 24615,
-      "weapon1OffType": "Focus",
-      "weapon1OffSigilId": 24868,
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1Id": 24615,
-      "weapon2MainSigil2Id": 24868
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "Mantra of Solace",
-      "utility1": "Mantra of Potence",
-      "utility2": "Sword of Justice",
-      "utility3": "Bane Signet",
-      "elite": "Feel my Wrath"
-    },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
-  }}
->
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131, 37131, 37131, 37131, 37131, 37131, 37131,
+    37131, 37131, 37131, 37131, 37131, 37131, 37131,
+    37131, 37131, 37131, 37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Focus",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Greatsword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 9443,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "skills": {
+    "heal": "Mantra of Solace",
+    "utility1": "Mantra of Potence",
+    "utility2": "Sword of Justice",
+    "utility3": "Bane Signet",
+    "elite": "Feel my Wrath"
+  },
+  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
+}}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
