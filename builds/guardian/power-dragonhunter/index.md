@@ -31,7 +31,7 @@ classification:
   - 2
   - 4
 date: 2022-03-21T22:16:43.660Z
-cmGuide: ' '
+cmGuide: 'static'
 ---
 
 <Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.

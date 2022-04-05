@@ -235,11 +235,13 @@ Note that resource bars such as <Specialization name="Warrior"/>'s Adrenaline ba
 ## Pre-stacking at Mistlock Singularity
 
 <Grid>
-<GridItem sm="12" md="6">
-<Video caption="by Rubby" youtube="sMEBz5MJOk8"/>
+<GridItem sm="12" md="2">
+
+<MDImage src="images/mistlock.jpg" alt="Mistlock Singularity" />
+
 </GridItem>
 
-<GridItem sm="12" md="6">
+<GridItem sm="12" md="10">
 
 After maxing the fractal masteries to level 4 you get access to _Mistlock Singularities_. Taking one of these will reset the cooldowns of all your skills! This allows you to precast certain skills before entering the battle without a penalty. It makes sense to precast <Boon name="Quickness"/>, <Boon name="Alacrity"/> and use blast finishers on certain Combo Fields.
 

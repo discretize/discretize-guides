@@ -36,7 +36,7 @@ boons:
     uptime: 78%
     variant: group
 code: '[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ' '
+cmGuide: 'pug'
 classification:
   - 4
   - 1
