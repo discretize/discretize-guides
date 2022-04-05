@@ -32,6 +32,8 @@ benchmark:
     dps: 34302
     by: Westet
     youtube: I1Tjyfk-DKI
+archive: false
+hidden: false
 ---
 
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.

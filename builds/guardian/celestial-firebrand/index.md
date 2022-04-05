@@ -4,6 +4,8 @@ rating: Good
 role: Hybrid
 profession: Guardian
 specialization: Firebrand
+archive: false
+hidden: false
 skills:
   - 9128
   - 9084

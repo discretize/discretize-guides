@@ -4,6 +4,8 @@ rating: Power Meta
 role: Power Damage
 profession: Guardian
 specialization: Dragonhunter
+archive: false
+hidden: false
 skills:
   - 30783
   - 30039

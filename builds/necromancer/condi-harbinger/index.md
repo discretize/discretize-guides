@@ -1,6 +1,7 @@
 ---
 title: Condi (Quick) Harbinger
 hidden: false
+archive: false
 rating: Good
 role: Condi Damage
 profession: Necromancer

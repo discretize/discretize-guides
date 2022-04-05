@@ -5,6 +5,8 @@ role: Power Damage
 author: ganymed.3541
 profession: Guardian
 specialization: Firebrand
+archive: false
+hidden: false
 skills:
   - 9093
   - 9153

@@ -5,6 +5,8 @@ role: Support
 author: Parpage.9867
 profession: Engineer
 specialization: Mechanist
+archive: false
+hidden: false
 traits: []
 conditions:
   - Burning

@@ -1,6 +1,5 @@
 ---
 title: Condi Specter
-hidden: false
 rating: Good
 role: Condi Damage
 profession: Thief
@@ -24,6 +23,8 @@ classification:
 compositions: null
 code: '[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-03-20T17:44:08.565Z
+archive: false
+hidden: false
 ---
 
 <Warning>

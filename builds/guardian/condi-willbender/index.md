@@ -1,11 +1,12 @@
 ---
 title: Condi Willbender
-hidden: false
 rating: Good
 role: Condi Damage
 profession: Guardian
 specialization: Willbender
 skills: null
+archive: false
+hidden: false
 conditions:
   - Burning
   - Vulnerability
@@ -21,7 +22,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -178,13 +179,13 @@ You will want the following weapons to swap to durning fractal runs:
 
 <Card title="Defiance Bar Damage">
 
-|                                  |                                                                                |
-| -------------------------------- | ------------------------------------------------------------------------------ |
-| <Skill name="Hammer of Wisdom"/> | 200 damage                                                                     |
-| <Skill name="Sanctuary"/>        | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
-| <Skill name="Chains of light"/>  | <Condition name="Immobile"/> 50/s                                              |
-| <Skill name="Heavens Palm"/>     | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
-| <Skill id="9226"/> (after <Skill id="9147"/>)   | 150 damage |
+|                                               |                                                                                |
+| --------------------------------------------- | ------------------------------------------------------------------------------ |
+| <Skill name="Hammer of Wisdom"/>              | 200 damage                                                                     |
+| <Skill name="Sanctuary"/>                     | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
+| <Skill name="Chains of light"/>               | <Condition name="Immobile"/> 50/s                                              |
+| <Skill name="Heavens Palm"/>                  | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
+| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage                                                                     |
 
 </Card>
 </GridItem>
@@ -221,7 +222,7 @@ In general for fractals there is no set rotation for <Specialization name="Willb
 2. <Skill name="Purging Flames"/>
 3. <Skill name="Symbol of Punishment"/>
 4. <Skill name="Whirling Light"/>
-5. <Skill name="Zealot's Flame"/>, <Skill name="Zealot's Fire"/> 
+5. <Skill name="Zealot's Flame"/>, <Skill name="Zealot's Fire"/>
 6. <Skill name="Symbol of Blades"/>
 7. <Skill name="Rushing Justice"/> with <Skill id="62618"/> already active
 8. <Skill name="Zealot's Defense"/>

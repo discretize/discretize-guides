@@ -4,6 +4,8 @@ rating: Good
 role: Power Damage
 profession: Elementalist
 specialization: Weaver
+archive: false
+hidden: false
 skills:
   - 5734
   - 5516

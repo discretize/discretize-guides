@@ -3,6 +3,7 @@ title: 'Power Daredevil'
 date: '2021-02-24'
 rating: 'Other'
 archive: true
+hidden: false
 role: 'Power Damage'
 profession: 'Thief'
 specialization: 'Daredevil'

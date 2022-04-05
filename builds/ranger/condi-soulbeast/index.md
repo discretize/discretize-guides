@@ -3,6 +3,8 @@ title: Condi Soulbeast
 rating: Meta
 role: Condi Damage
 profession: Ranger
+archive: false
+hidden: false
 skills:
   - 45717
   - 12498

@@ -5,6 +5,7 @@ role: Power Damage
 author: 'Discord: [CnD] Tipcat#0698'
 profession: Mesmer
 archive: true
+hidden: false
 specialization: Chronomancer
 skills:
   - 10311

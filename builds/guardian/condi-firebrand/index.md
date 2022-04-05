@@ -5,6 +5,8 @@ role: Condi Damage
 profession: Guardian
 specialization: Firebrand
 skills: []
+archive: false
+hidden: false
 conditions:
   - Burning
   - Vulnerability

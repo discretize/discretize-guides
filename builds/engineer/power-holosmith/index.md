@@ -8,6 +8,8 @@ effects:
   - Stealth
 title: Power Holosmith
 rating: Good
+archive: false
+hidden: false
 role: Power Damage
 author: Ascers.6082
 profession: Engineer

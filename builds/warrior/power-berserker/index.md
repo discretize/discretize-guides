@@ -29,6 +29,8 @@ classification:
   - 2
   - 4
 date: 2022-03-20T17:27:31.785Z
+archive: false
+hidden: false
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.

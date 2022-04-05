@@ -1,5 +1,6 @@
 ---
 title: Condi Virtuoso
+archive: false
 hidden: false
 rating: Good
 role: Condi Damage

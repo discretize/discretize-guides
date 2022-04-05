@@ -1,5 +1,6 @@
 ---
 title: Banner Bladesworn
+archive: false
 hidden: false
 rating: Good
 role: Power Damage

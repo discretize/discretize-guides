@@ -28,6 +28,7 @@ benchmark:
     by: Eren
     youtube: WSuDmiuAwC8
 hidden: true
+archive: false
 ---
 
 <Warning>

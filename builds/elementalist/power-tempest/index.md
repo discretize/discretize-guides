@@ -4,6 +4,7 @@ date: '2021-02-24'
 rating: 'Other'
 role: 'Power Damage'
 archive: true
+hidden: false
 profession: 'Elementalist'
 specialization: 'Tempest'
 benchmark: { large: { dps: 38069, by: 'Roul [SC]', youtube: '7tF8y7bUoQU' } }

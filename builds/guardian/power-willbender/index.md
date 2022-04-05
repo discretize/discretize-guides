@@ -1,11 +1,12 @@
 ---
 title: Power Willbender
-hidden: false
 rating: Good
 role: Power Damage
 profession: Guardian
 specialization: Willbender
 skills: null
+archive: false
+hidden: false
 conditions:
   - Vulnerability
   - Blinded

@@ -1,6 +1,7 @@
 ---
 title: Power Virtuoso
 hidden: false
+archive: false
 rating: good
 role: Power Damage
 profession: Mesmer
