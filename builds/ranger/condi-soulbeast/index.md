@@ -3,6 +3,8 @@ title: Condi Soulbeast
 rating: Meta
 role: Condi Damage
 profession: Ranger
+archive: false
+hidden: false
 skills:
   - 45717
   - 12498
@@ -19,8 +21,8 @@ compositions:
     roles: DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC
     composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
 specialization: Soulbeast
-code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-06T22:26:42.922Z
+code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
+date: 2022-03-28T17:42:00.313Z
 conditions:
   - Bleeding
   - Poisoned
@@ -54,187 +56,301 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 <CharacterWithAr>
 <Character title="Krait Runes" gear={{
-    "profession": "Ranger",
-    "weight": "Medium",
-    "gear": [
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper"
-    ],
+  "profession": "Ranger",
+  "weight": "medium",
+  "gear": [
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper"
+  ],
   "attributes": {
-    "Health": 17122,
+    "Health": 19472,
     "Armor": 2361,
     "Power": 2923,
     "Precision": 1976,
     "Toughness": 1243,
-    "Vitality": 1120,
+    "Vitality": 1355,
     "Ferocity": 150,
     "Condition Damage": 2732,
-    "Expertise": 773,
+    "Expertise": 797,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.5153333333333333,
+    "Condition Duration": 0.5313333333333333,
     "Boon Duration": 0.162,
     "Critical Chance": 0.8147619047619048,
     "Critical Damage": 1.6,
+    "Power Coefficient": 1591,
+    "Burning Coefficient": 2.42,
+    "Bleeding Coefficient": 27.82755714285714,
+    "Poison Coefficient": 16.41,
+    "Torment Coefficient": 0.16,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
     "Bleeding Duration": 0.5,
+    "Siphon Base Coefficient": 139.75,
     "Effective Power": 8223.37864866964,
     "Power DPS": 5037.888113220408,
+    "Siphon DPS": 5037.888113220408,
     "Bleeding Damage": 384.81953999999996,
-    "Bleeding Stacks": 55.4,
-    "Bleeding DPS": 21319.002515999997,
+    "Bleeding Stacks": 55.65511428571428,
+    "Bleeding DPS": 21417.175478076,
     "Burning Damage": 862.878375,
-    "Burning Stacks": 3.6368,
-    "Burning DPS": 3138.1160742,
+    "Burning Stacks": 3.705826666666667,
+    "Burning DPS": 3197.6776921650003,
     "Confusion Damage": 341.298075,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
     "Poison Damage": 384.04359374999996,
-    "Poison Stacks": 25.003,
-    "Poison DPS": 9602.241974531249,
+    "Poison Stacks": 25.12918,
+    "Poison DPS": 9650.700595190625,
     "Torment Damage": 432.1395,
-    "Torment Stacks": 0.3030666666666667,
-    "Torment DPS": 130.96707780000003,
-    "Damage": 39228.21575575165,
-    "Effective Health": 80447844.77611941,
-    "Survivability": 40898.751792638235,
+    "Torment Stacks": 0.24501333333333336,
+    "Torment DPS": 105.87993936000001,
+    "Damage": 39549.07181801203,
+    "Effective Health": 91489337.31343284,
+    "Survivability": 46512.11861384486,
     "Effective Healing": 390,
     "Healing": 390
   },
-    "runeId": 24762,
-    "runeName": "Krait",
-    "infusions": [
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130
-    ],
-    "weapons": {
-      "weapon1MainType": "Short Bow",
-      "weapon1MainSigil1": "bursting",
-      "weapon1MainSigil2": "earth",
-      "weapon2MainType": "Dagger",
-      "weapon2MainSigil1": "bursting",
-      "weapon2OffType": "Torch",
-      "weapon2OffSigil": "earth"
+  "runeId": 24762,
+  "runeName": "Krait",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Short Bow",
+    "weapon1MainSigil1Id": 44944,
+    "weapon1MainSigil2Id": 24560,
+    "weapon2MainType": "Dagger",
+    "weapon2MainSigil1Id": 44944,
+    "weapon2OffType": "Torch",
+    "weapon2OffSigilId": 24560
+  },
+  "consumables": {
+    "foodId": 91878,
+    "utilityId": 48917
+  },
+  "skills": {
+    "healId": 31914,
+    "utility1Id": 40498,
+    "utility2Id": 12537,
+    "utility3Id": 12498,
+    "eliteId": 45717
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
     },
-    "consumables": {
-      "foodId": 91878,
-      "utility": "toxic-focusing-crystal",
-      "infusion": "Malign +9 Agony Infusion"
+    {
+      "id": "fury",
+      "type": "Boon"
     },
-    "skills": {
-      "heal": "We Heal as One",
-      "utility2": "Sharpening Stone",
-      "utility3": "Vulture Stance",
-      "elite": "One Wolf Pack"
+    {
+      "id": "protection",
+      "type": "Boon"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
-/>
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}}>
+
+If you do not have a Jade Bot Core: Tier 10, you will have slightly lower duration on your non-bleeding conditions but the build does not change!
+
+</Character>
+
 <Character title="Afflicted Runes" gear={{
-    "profession": "Ranger",
-    "weight": "Medium",
-    "gear": [
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper"
-    ],
+  "profession": "Ranger",
+  "weight": "medium",
+  "gear": [
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper"
+  ],
   "attributes": {
-    "Health": 17122,
+    "Health": 19472,
     "Armor": 2361,
     "Power": 2923,
     "Precision": 1976,
     "Toughness": 1243,
-    "Vitality": 1120,
+    "Vitality": 1355,
     "Ferocity": 150,
-    "Condition Damage": 2613,
-    "Expertise": 893,
+    "Condition Damage": 2632,
+    "Expertise": 897,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.7953333333333332,
+    "Condition Duration": 0.798,
     "Boon Duration": 0.162,
     "Critical Chance": 0.8147619047619048,
     "Critical Damage": 1.6,
+    "Power Coefficient": 1591,
+    "Burning Coefficient": 2.42,
+    "Bleeding Coefficient": 27.66755714285714,
+    "Poison Coefficient": 16.25,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
     "Bleeding Duration": 0.2,
     "Poison Duration": 0.1,
+    "Siphon Base Coefficient": 139.75,
     "Effective Power": 8223.37864866964,
     "Power DPS": 5037.888113220408,
-    "Bleeding Damage": 355.17999125,
-    "Bleeding Stacks": 55.270733333333325,
-    "Bleeding DPS": 19631.058581714413,
-    "Burning Damage": 800.6724062499999,
-    "Burning Stacks": 4.3088,
-    "Burning DPS": 3449.937264049999,
-    "Confusion Damage": 315.32614375,
+    "Siphon DPS": 5037.888113220408,
+    "Bleeding Damage": 357.44481499999995,
+    "Bleeding Stacks": 55.27977917142857,
+    "Bleeding DPS": 19759.470439172135,
+    "Burning Damage": 805.0715,
+    "Burning Stacks": 4.35116,
+    "Burning DPS": 3502.9949079400003,
+    "Confusion Damage": 317.28445,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 355.2884375,
-    "Poison Stacks": 31.273,
-    "Poison DPS": 11110.935305937499,
-    "Torment Damage": 398.7864374999999,
-    "Torment Stacks": 0.35906666666666665,
-    "Torment DPS": 143.19091682499996,
-    "Damage": 39373.01018174732,
-    "Effective Health": 80447844.77611941,
-    "Survivability": 40898.751792638235,
+    "Poison Damage": 357.41703125,
+    "Poison Stacks": 30.8425,
+    "Poison DPS": 11023.634786328124,
+    "Torment Damage": 401.34075,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 39463.738246660665,
+    "Effective Health": 91489337.31343284,
+    "Survivability": 46512.11861384486,
     "Effective Healing": 390,
     "Healing": 390
   },
-    "runeId": 24687,
-    "runeName": "Afflicted",
-    "infusions": [
-      86113, 86113, 86113, 86113, 86113, 86113, 86113,
-      86113, 86113, 86113, 86113, 86113, 86113, 86113,
-      86113, 86113, 86113, 86113
-    ],
-    "weapons": {
-      "weapon1MainType": "Short Bow",
-      "weapon1MainSigil1": "malice",
-      "weapon1MainSigil2": "earth",
-      "weapon2MainType": "Dagger",
-      "weapon2MainSigil1": "malice",
-      "weapon2OffType": "Torch",
-      "weapon2OffSigil": "earth"
+  "runeId": 24687,
+  "runeName": "Afflicted",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Short Bow",
+    "weapon1MainSigil1Id": 44950,
+    "weapon1MainSigil2Id": 24560,
+    "weapon2MainType": "Dagger",
+    "weapon2MainSigil1Id": 44950,
+    "weapon2OffType": "Torch",
+    "weapon2OffSigilId": 24560
+  },
+  "consumables": {
+    "foodId": 91876,
+    "utilityId": 48917
+  },
+  "skills": {
+    "healId": 31914,
+    "utility1Id": 40498,
+    "utility2Id": 12537,
+    "utility3Id": 12498,
+    "eliteId": 45717
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
     },
-    "consumables": {
-      "foodId": 91876,
-      "utility": "tuning-Icicle",
-      "infusion": "Spiteful +9 Agony Infusion"
+    {
+      "id": "fury",
+      "type": "Boon"
     },
-    "skills": {
-      "heal": "We Heal as One",
-      "utility2": "Sharpening Stone",
-      "utility3": "Vulture Stance",
-      "elite": "One Wolf Pack"
+    {
+      "id": "protection",
+      "type": "Boon"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}}>
+
 This builds damage depends on the amount of <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. The build deals similar DPS with 2 <Specialization name="Soulbeast" text="Condi Soulbeasts"/>, and outperforms the Krait build if you have 3 <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. If you are going to be on your own run the Krait rune setup!
+
+This build uses the Jade Bot Core: Tier 10 in combination with 14 <Item name="Spiteful +9 Agony Infusion"/> to cap Bleeding duration. If you do not have the Jade Core, run all 18 <Item name="Spiteful +9 Agony Infusion"/>.
 
 </Character> 
 </CharacterWithAr>
@@ -323,67 +439,36 @@ The rotation in general is very simple, just keep rotating between your Shortbow
 <Card title="Shortbow Golem Rotation">
 
 1.  <Skill name="Vipers Nest"/>
-
 2.  <Skill name="One Wolf Pack"/>
-
 3.  <Skill name="Poison Volley"/>
-
 4.  <Skill name="Crippling Shot"/>
-
 5.  <Skill name="Concussion Shot"/>
-
 6.  `Weapon Swap`
-
 7.  <Skill name="Vulture Stance"/> + <Skill name="Sharpening Stone"/>
-
 8.  <Skill name="Double Arc"/>
-
 9.  <Skill name="Throw Torch"/>
-
 10. <Skill name="Bonfire"/>
-
 11. <Skill id="44514"/>
-
 12. <Skill name="Primal Cry"/>
-
 13. `Autoattack chain x2`
-
 14. <Skill name="Double Arc"/>
-
 15. `Autoattack chain x3`
-
 16. <Skill name="Double Arc"/>
-
 17. <Skill name="Throw Torch"/>
-
 18. `Weapon Swap`
-
 19. <Skill name="Poison Volley"/>
-
 20. <Skill name="Crippling Shot"/>
-
 21. `Autoattack`
-
 22. <Skill id="44514"/>
-
 23. `Autoattack`
-
 24. <Skill name="Concussion Shot"/>
-
 25. <Skill name="Poison Volley"/>
-
 26. `Autoattack`
-
 27. <Skill name="Primal Cry"/>
-
 28. `Autoattack`
-
 29. <Skill name="Poison Volley"/>
-
 30. `Autoattack`
-
 31. <Skill name="Crippling Shot"/>
-
 32. Repeat from `Step 5`
 
 </Card>
@@ -418,7 +503,7 @@ As a <Specialization name="Soulbeast" text="Condi Soulbeast"/> we have three imp
 
 **<Trait name="Poison Master"/> -** If you can get into combat before precasting you can use <Skill id="40588"/> (Merged F3) to proc <Trait name="Poison Master"/> for some extra <Condition name="poisoned" text ="Poison"/> stacks on your opener
 
-**<Trait name="Light on your Feet"/> -** Stacks in duration by dodging and using <Skill name="Quick Shot"/>. This will increase you condi duration which means if you are playing with <Item id="24687"/> means your duration will be almost capped. It also will increase your strike damage (power) for a bit of extra damage.
+**<Trait name="Light on your Feet"/> -** Stacks in duration by dodging and using <Skill name="Quick Shot"/>. This will increase you condi duration which means if you are playing with <Item id="24687"/> means your <Condition name="Poisoned"/> duration will be capped. It will also increase your strike damage (power) for a bit of extra damage.
 
 ### **Skills**
 

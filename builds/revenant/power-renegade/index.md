@@ -1,30 +1,32 @@
 ---
-title: Power Alac Renegade
-rating: Power Meta
-role: Power Damage
 author: Casual Sophie - Jin Su Liang.9036
-profession: Revenant
 specialization: Renegade
 skills:
   - 45773
   - 27505
 traits:
   - 1786
-conditions:
-  - Vulnerability
 boons:
   - name: Alacrity
     uptime: 100%
     variant: party
 code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
-cmGuide: pug
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: 2022-03-06T22:31:22.899Z
+date: 2022-03-29T01:54:06.400Z
+title: Power Alac Renegade
+rating: Power Meta
+role: Power Damage
+profession: Revenant
+conditions:
+  - Vulnerability
+cmGuide: pug
+archive: false
+hidden: false
 ---
 
 The <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -33,10 +35,13 @@ Damage-wise the <Specialization name="Renegade"/> is on the lower end compared t
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
+To see how the <Specialization name="Renegade"/> is played in Pick Up Groups refer to [Renegade CM guides](cm-guides/revenant/power-renegade/pug/).
+
 <Divider text="Equipment"/>
 
-<CharacterWithAr>  
-<Character title="80% Boon Duration 162 Agony Resistance" gear={{
+<CharacterWithAr>
+
+<Character title="80% BD - 162 AR" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
     "gear": [
@@ -121,14 +126,13 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
       "legend2": "legendaryrenegadestance"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
-  }}
->
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
-</Character>  
-<Character title="50% Boon Duration 162 Agony Resistance" gear={{
+</Character>
+<Character title="50% BD - 162 AR" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
     "gear": [
@@ -213,14 +217,13 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "legend2": "legendaryrenegadestance"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
-  }}
->
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
 
-</Character>  
-<Character title="80% Boon Duration 222 Agony Resistance" gear={{
+</Character>
+<Character title="80% BD - 222 AR" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
     "gear": [
@@ -305,13 +308,13 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "legend2": "legendaryrenegadestance"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
-  }}
->
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
-</Character>  
-<Character title="50% Boon Duration 222 Agony Resistance" gear={{
+
+</Character>
+<Character title="50% BD - 222 AR" gear={{
     "profession": "Revenant",
     "weight": "Heavy",
     "gear": [
@@ -400,6 +403,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
+
 </Character>
 </CharacterWithAr>
 
@@ -407,53 +411,8 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
 
 <Grid>
 <GridItem sm="8">
-<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Dance of Death" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
-</GridItem>
+<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 
-<GridItem sm="4">
-<Card title="Situational Traits">
-
-|                                           |                                                                                                                                                                                                                       |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait id="1754" size="big" disableText/> | On a lot of encounters and especially in slower groups, <Trait name="SwiftTermination"/> will be worse than <Trait name="DanceOfDeath"/>. <Trait name="SwiftTermination"/> offers less survivability but is burstier. |
-| <Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low.                                                                                                                            |
-
-</Card>
-
-<Card title="Situational Skills">
-
-|                                            |                                                                                        |
-| ------------------------------------------ | -------------------------------------------------------------------------------------- |
-| <Skill id="28075" size="big" disableText/> | This skill grants you <Effect name="Superspeed"/> which is really useful for skipping. |
-
-</Card>
-</GridItem>
-<GridItem sm="8">
-<Card title="Herald Precasting">
-
-Sometimes it is worth precasting with <Specialization name="Herald"/> because <Specialization name="Herald"/> has access to <Skill id="51667"/> which is _incredibly_ strong skill to precast, if you can manage to fit it into your groups precasting. If your group is blasting <Boon name="Might"/>, you can forgo using <Skill id="29321"/> in your precasting and just precast <Boon name="Alacrity"/> and extending everyone else's boons with <Skill id="51667"/>.
-
-After the [status reset update of August 31st](https://wiki.guildwars2.com/wiki/Game_updates/August_2021), this precast has become more difficult to perform and isn't recommended anymore for fast prestacking in pugs due to the fact that it increases the length of a precast. However, if you do have the the time, it is still a really valid precast and does help with the boons initially. You will have to manually swap between <Specialization name="Herald"/> and <Specialization name="Renegade"/> trait lines or use a saved build template in the template storage (not one of the build template tabs) to swap between them in order to not trigger status reset. Here's the <Specialization name="Herald"/> trait line:
-<Traits traits1Id="52" traits1="Herald" traits1SelectedIds="1806,1772" unembossed/>
-
-Template code: `[&DQkDKgwrNCbcEQAABhIAACsSAADUEQAAyhEAAAEAAAAAAAAAAAAAAAAAAAA=]`
-
-<Warning>
-
-The other legend is unselected for a good reason. If you have the other legend slot empty, it will minimise the number of possible bugs with <Specialization name="Renegade"/> and build templates. You can read more about the bugs, [the official wiki has them documented](https://wiki.guildwars2.com/wiki/Template#Build_Template)
-
-</Warning>
-
-To precast with <Specialization name="Herald"/>, you can go very simple:
-
-1.  Start on <Specialization name="Herald"/> and double tap <Skill name="Facet of Nature"/>/<Skill name="True Nature"/> (F2 while in <Skill name="Legendary Dragon Stance"/>).
-2.  Manually swap to <Specialization name="Renegade"/> and press <Skill name="Orders From Above"/> (F4).
-3.  Take the Mistlock Singularity.
-4.  Press <Skill name="Orders From Above"/> (F4) again.
-
-</Card>
-</GridItem>
-<GridItem sm="4">
 <Card title="Defiance Bar">
 
 **Hard Crowd Control:**
@@ -477,6 +436,62 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 
 </Card>
 </GridItem>
+
+<GridItem sm="4">
+<Card title="Situational Traits">
+
+|                                           |                                                                                                                                                                         |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait id="1754" size="big" disableText/> | If necessary (usually in low damage groups), you can swap out <Trait name="SwiftTermination"/> for <Trait name="DanceOfDeath"/> to have more sustain at cost of damage. |
+| <Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low.                                                                              |
+
+</Card>
+<Card title="Situational Skills">
+
+|                                                                |                                                                                                              |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| <Skill id="28075" size="big" disableText/>                     | This <Specialization name="Herald"/> skill grants you <Effect name="Superspeed"/>.                           |
+| <Skill name="Phase Traversal" size="big" disableText/>         | Step through the Mists to your target.                                                                       |
+| <Skill name="Inspiring Reinforcement" size="big" disableText/> | Create a stone road granting <Boon name="Stability"/> to allies.                                             |
+| <Skill name="Call to Anguish" size="big" disableText/>         | Pull enemies up to 360 radius.                                                                               |
+| <Skill name="Protective Solace" size="big" disableText/>       | Protective barrier blocking enemy projectiles.                                                               |
+| <Skill name="Breakrazor's Bastion" size="big" disableText/>    | This <Specialization name="Renegade"/> skill shield your allies with -50% Incoming Condition Damage for 10s. |
+| <Skill name="Nomad's Advance" size="big" disableText/>         | This <Specialization name="Vindicator"/> skill lunge you forward up to 600 range.                            |
+
+</Card>
+</GridItem>
+<GridItem sm="8">
+<Card title="Precasting">
+
+Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade Stance"/>.
+
+1. Cast <Skill name="Soulcleaves Summit"/> to generate a Fire field.
+2. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>.
+3. Press <Skill name="Orders From Above"/> to generate <Boon name="Alacrity"/>.
+4. Take the Mistlock Singularity.
+5. Blast <Boon name="Might"/> with another <Skill name="Renewing Wave"/>.
+6. Share <Boon name="Alacrity"/> again with <Skill name="Orders From Above"/>.
+7. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
+8. Swap back to <Skill name="Legendary Renegade Stance"/>.
+
+</Card>
+</GridItem>
+
+<GridItem sm="4">
+<Card title="Burst Rotation">
+
+While <Skill name="Impossibleodds"/>, <Skill name="Embrace the darkness"/> or <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
+
+1.  <Skill name="Chilling Isolation"/>
+2.  <Skill name="Citadel Bombardment"/>
+3.  <Skill name="Shackling Wave"/>
+4.  <Skill name="Deathstrike"/>
+5.  <Skill name="ChillingIsolation"/>
+
+Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/>.
+
+</Card>
+</GridItem>
 </Grid>
 
 <Divider text="Details"/>
@@ -488,7 +503,7 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **Citadel Order Skills:**
 
 - <Skill name="Heroic Command"/> (F2) - Share two stacks of <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack.
-- <Skill name="Citadel Bombardment"/> (F3) - Fire ten missiles that inflict high damage and <Condition name="Burning"/>.
+- <Skill name="Citadel Bombardment"/> (F3) - Fire 10 to 15 missiles that inflict high damage and <Condition name="Burning"/>.
 - <Skill name="Orders from Above"/> (F4) - Share four pulses of <Boon name="Alacrity"/>. Increased to a total of six pulses of <Boon name="Alacrity"/> with <Trait name="Righteous Rebel"/>.
 
 ---
@@ -514,11 +529,12 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 **Notable Traits:**
 
 - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
-- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which makes your attack steal health. This trait is the DPS alternative for <Trait name="Swift Termination"/>. Usually it stands for ~ 10 - 12 % of damage, but doesn't scale with <Effect name="Exposed"/>. Pulls ahead over <Trait name="Swift Termination"/> in fights where majority of damage is dealt outside of <Effect name="Exposed"/> debuff. Also worth taking in PuG groups on most bosses to ensure <Item id="24836"/> buff uptime and due to lower <Effect name="Exposed"/> uptime on bosses.
+- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which makes your attack steal health.
 - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
 - <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
 - <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
 - <Trait name="Brutal Momentum"/> - 33% Critical chance increase when your endurance is full.
+- <Trait name="Vindication"/> - Increases <Skill name="Citadel Bombardment"/> max ordnance count to 15.
 - <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased by 50%.
 - <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%.
 
@@ -591,53 +607,51 @@ To precast with <Specialization name="Herald"/>, you can go very simple:
 
 <Grid>
 <GridItem xs="12" sm="6">
-<Card title="Information">
-
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
-For that reason you can find a video with openers, that are efficient to use here.
-</Card>
-
 <Card title="Renegade openers">
 
-<Video caption="by Rubby, edited by Vince [dT]" youtube="QXmckcAyKf4"/>
+<Video caption="Renegade Fractal Openings (outdated but a good base to work on)." youtube="QXmckcAyKf4"/>
 </Card>
-<Warning>
+</GridItem>
+<GridItem xs="12" sm="6">
+<Card title="Information">
 
-Note that with a class like <Specialization name="Scourge"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>. Since <Instability name="No Pain, No Gain"/> doesn't give the enemy <Boon name="Resolution"/>, you do not need to worry about this instability in a group whose damage mostly consists of condition damage.
-</Warning>
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase. For that reason you can find a video with openers, that are efficient to use here.
+
+For more information about advanced rotation and gameplay refer to [Static Renegade CM guides](/cm-guides/revenant/power-renegade/static/).
+
+</Card>
 </GridItem>
 
-<GridItem xs="12" sm="6">
+</Grid>
+
 <Card title="Dealing with No Pain, No Gain">
+
+<Warning>
+
+Note that with a class like <Specialization name="Scourge"/> or <Specialization name="Holosmith"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>. Since <Instability name="No Pain, No Gain"/> doesn't give the enemy <Boon name="Resolution"/>, you do not need to worry about this instability in a group whose damage mostly consists of condition damage.
+</Warning>
+
+<Grid>
+
+<GridItem xs="12" sm="6">
 
 There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message.
 
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed/>
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
+
+<div style={{marginBottom: "16px"}} />
 
 As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the stability, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
 
-</Card>
 </GridItem>
 
 <GridItem xs="12" sm="6">
-<Card title="Burst Rotation">
 
-1.  <Skill name="Citadel Bombardment"/>
-2.  <Skill name="Chilling Isolation"/>
-3.  <Skill name="Shackling Wave"/>
-4.  <Skill name="Deathstrike"/>
-5.  <Skill name="ChillingIsolation"/>
-
-</Card>
-</GridItem>
-
-<GridItem xs="12" sm="6">
-<Card title="Notes">
-
-Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/> and while your <Skill name="Impossibleodds"/> is up. This might not always be possible if you need to reserve energy for boons or in the case that your legend timings are off.
-
-With <Skill name="Legendary Demon Stance"/> you would want to use these abilities with <Skill name="Embrace the darkness"/> on.
+<Card title="">
+<Video caption="NPNG Arkk Pug Guide." youtube="jZzoP8yMd8w"/>
+<Video caption="NPNG Arkk Pug Pov." youtube="vB2vizzgYiI"/>
 
 </Card>
 </GridItem>
 </Grid>
+</Card>

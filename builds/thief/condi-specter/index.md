@@ -1,6 +1,5 @@
 ---
 title: Condi Specter
-hidden: false
 rating: Good
 role: Condi Damage
 profession: Thief
@@ -14,21 +13,23 @@ conditions:
   - Bleeding
   - Torment
 boons: null
-cmGuide: ""
+cmGuide: ''
 classification:
+  - 5
+  - 4
   - 3
-  - 3
-  - 3
-  - 3
+  - 2
   - 3
 compositions: null
-code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2022-03-07T19:27:34.625Z
+code: '[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]'
+date: 2022-03-20T17:44:08.565Z
+archive: false
+hidden: false
 ---
 
 <Warning>
 
-This build guide is not complete, gear and sections may chage regularly as we explore the new elite spec and spend more time playing it in fractals!
+This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
 
 </Warning>
 
@@ -153,8 +154,7 @@ At the same time it can generate large amounts of <Effect name="Barrier"/> for y
       "elite": "Basilisk Venom"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"id": "jade-bot-per-tier", "value": 10, "type": "Text"}]
-  }}
->
+}}>
 
 If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
 
@@ -191,7 +191,7 @@ Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alac
 |                                            |                                                        |
 | ------------------------------------------ | ------------------------------------------------------ |
 | <Skill id="13132" size="big" disableText/> | 150 Defiance bar damage per ally (Up to 750 CC).       |
-| <Skill name="Mind Shock" size="big" disableText/> | 150 Defiance bar damage                         |
+| <Skill id="63155" size="big" disableText/> | Mind Shock (skill 5) 150 Defiance bar damage           |
 | <Skill id="13020" size="big" disableText/> | 150 Defiance bar damage.                               |
 | <Skill id="13012" size="big" disableText/> | 200 Defiance bar damage (260 with <Item id="24639"/>). |
 | <Skill id="13019" size="big" disableText/> | <Condition name="Crippled"/> 15/s Defiance bar damage. |
@@ -205,7 +205,7 @@ Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alac
 
 |                                                       |                                                                                                                                              |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="13093" size="big" disableText/>            | A situational damage ability, to take over <Skill name="Thousand Needles"/> on moving targets.                                              |
+| <Skill id="13093" size="big" disableText/>            | A situational damage ability, to take over <Skill name="Thousand Needles"/> on moving targets.                                               |
 | <Skill name="signetofmalice" size="big" disableText/> | Highest sustained healing.                                                                                                                   |
 | <Skill name="skelkvenom" size="big" disableText/>     | Best party healing.                                                                                                                          |
 | <Skill id="13020" size="big" disableText/>            | Taken over <Skill name="Prepare Thousand Needles"/> when extra CC is needed (particularly useful on MAMA).                                   |
@@ -241,16 +241,18 @@ There is no set rotation for <Specialization name="Specter" text="Condi Specter"
 You should be casting your <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Thousand Needles"/> off cooldown (unless a phase is about to end).
 
 On Scepter/Dagger you want to use:
+
 - <Skill name="Twilight Combo"/>
 - <Skill name="Shadow Bolt"/>, <Skill name="Double Bolt"/>, <Skill name="Triple Bolt"/>
 
 You should also be weapon swapping off cooldown if you are not playing Pistol to make the best use of <Trait name="Quick Pockets"/> and <Item id="24609"/>
 
 In <Skill name="Enter Shadow Shroud" text="Shadow Shorud"/> you want to use:
-- <Skill name="Mind Shock"/> (Skill 5)
-- <Skill name="Eternal Night"/> (Skill 4)
-- <Skill name="Grasping Shadows"/> (Skill 2)
-- <Skill name="Haunt SHot"/> (Skill 1)
+
+- Mind Shock (Skill 5)
+- Eternal Night (Skill 4)
+- Grasping Shadows (Skill 2)
+- Haunt Shot (Skill 1)
 
 </Card>
 </GridItem>

@@ -2,6 +2,8 @@
 title: Condi Weaver
 rating: Good
 role: Condi Damage
+archive: false
+hidden: false
 profession: Elementalist
 specialization: Weaver
 skills:
@@ -14,15 +16,15 @@ conditions:
   - Crippled
   - Bleeding
   - Chilled
-code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: 2022-03-06T22:00:44.095Z
-cmGuide: ""
+date: 2022-03-28T17:12:13.596Z
+cmGuide: ''
 ---
 
 <Warning>
@@ -45,7 +47,6 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
 
 <Character title="162 Agony Resistance" gear={{
     "profession": "Elementalist",
-    "title": "162 Ar",
     "weight": "Light",
     "gear": [
       "Viper",
@@ -228,12 +229,6 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 - Start on <Skill name="Fire Attunement"/>/<Skill name="Earth Attunement"/> and precast <Skill name="Glyph of ELemental Power"/>, <Skill name="Arcane Power"/>.
 - Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and precast <Skill name="Weave Self"/>.
 - Take the _Mistlock Singularity_ and attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/>.
-
-It is recommended to use separate precast builds to get additional buffs like <Trait name="Elemental Surge"/>.
-
-Precasting build template:
-
-<Traits unembossed traits1="Arcane" traits1Selected=",Renewing Stamina, Elemental Lockdown, Elemental Surge" traits2="Air" traits2Selected="One with air, Raging Storm, Fresh Air" traits3="Weaver" traits3Selected=",Superior Elements, Weavers Prowess, Elements of Rage"/>
 
 ### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak)**
 

@@ -2,7 +2,7 @@
 title: Power Reaper
 rating: Good
 role: Power Damage
-author: "Discord: Jes#6596"
+author: 'Discord: Jes#6596'
 profession: Necromancer
 specialization: Reaper
 skills:
@@ -18,8 +18,8 @@ conditions:
   - Chilled
   - Poisoned
   - Blinded
-code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: " "
+code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: 'pug'
 classification:
   - 1
   - 3
@@ -32,6 +32,8 @@ benchmark:
     dps: 34302
     by: Westet
     youtube: I1Tjyfk-DKI
+archive: false
+hidden: false
 ---
 
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/> and <Boon name="Might"/> it is good in parties where your teammates do not perform very well.

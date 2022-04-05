@@ -35,8 +35,8 @@ boons:
   - name: Resolution
     uptime: 78%
     variant: group
-code: "[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: " "
+code: '[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: 'pug'
 classification:
   - 4
   - 1
@@ -44,6 +44,8 @@ classification:
   - 1
   - 2
 date: 2022-03-06T22:04:57.566Z
+archive: false
+hidden: false
 ---
 
 <Warning>
@@ -152,8 +154,7 @@ The build is very flexible and can be adapted to the encounter, instabilities an
       "elite": "Feel My Wrath"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 </Character>
@@ -302,13 +303,13 @@ The advantage of this trait line is the increased group DPS. It gives up some pa
 <GridItem sm="6">
 <Card title="CC Skills">
 
-|                                                                                 |                                                            |
-| ------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <Skill name="Blazing Edge"/>                                                    | 150 damage                                                 |
-| <Skill name="Shield of Absorption"/>                                            | 150 damage                                                 |
-| <Skill name="Bane Signet"/>                                                     | 300 damage                                                 |
-| <Skill name="Hammer of Wisdom"/>                                                | 200 damage                                                 |
-| <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage                                                 |
+|                                                                                 |                                                                                     |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| <Skill name="Blazing Edge"/>                                                    | 150 damage                                                                          |
+| <Skill name="Shield of Absorption"/>                                            | 150 damage                                                                          |
+| <Skill name="Bane Signet"/>                                                     | 300 damage                                                                          |
+| <Skill name="Hammer of Wisdom"/>                                                | 200 damage                                                                          |
+| <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage                                                                          |
 | <Skill name="Sanctuary"/>                                                       | 150/s damage for 5 (or 7 with Virtues) seconds,<br/> adding up to 750 (1050) damage |
 
 </Card>
@@ -415,7 +416,6 @@ All Tomes are built in a similar way:
 - <TomeSkill name="Epilogue: Unbroken Lines"/> in <Skill name="Tome of Courage" /> will also provide <Boon name="Aegis" />. You do not want to enter this Tome only for the single application of <Boon name="Aegis" />, but it si nice to keep in mind when deciding whether to do into the Tome.
 - <Skill name="Advance" /> is the only instant-cast skill providing <Boon name="Aegis" /> when chosen and can be used while casting other skills to not get interrupted.
 - If Mace is equipped, <Skill name="Protectors Strike"/> also grants <Boon name="Aegis"/> when blocking an attack while channeling.
-
 
 </Card>
 </GridItem>

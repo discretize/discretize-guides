@@ -4,6 +4,8 @@ rating: Good
 role: Hybrid
 profession: Guardian
 specialization: Firebrand
+archive: false
+hidden: false
 skills:
   - 9128
   - 9084
@@ -31,7 +33,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-03-06T22:08:03.204Z
+date: 2022-03-22T19:25:06.262Z
 cmGuide: ''
 ---
 
@@ -44,7 +46,8 @@ There are Four variants shown below; a low AR Celestial variant, a high AR Celes
 <Warning>
 There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
 - <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 69.8%bd
-- <Trait name="Liberators Vow"/>, <Trait name="Stalwart Speed"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 47.7%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 70.61%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 41.7%bd
 
 </Warning>
 
@@ -139,8 +142,7 @@ There are a number of different gear, utility and trait setups that allow you to
       "elite": "Feel my Wrath"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 **This is the standard build with high boon duration which allows it to be played with lower Agony Resistance and has an easier time maintaining boons. This build also has the advantage of working in other content such as Raids and Strike Missions**
 
@@ -236,8 +238,7 @@ Check the build section for some common gear variations. You can also use our [g
       "elite": "Feel my Wrath"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivability with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**
 
@@ -333,8 +334,7 @@ Check the build section for some common gear variations. You can also use our [g
       "elite": "Feel my Wrath"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 **This build provides slightly higher damage then the Celestial build in fractals due to having higher <Attribute name="Condition Damage"/> and <Effect name="Exposed"/>, whilst still providing more than enough support for most groups.**
 
@@ -430,8 +430,7 @@ Check the build section for some common gear variations. You can also use our [g
       "elite": "Feel my Wrath"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**
 
@@ -487,11 +486,11 @@ Check the build section for some common gear variations. You can also use our [g
 
 <Card title="Alternative traits">
 
-|                                                             |                                                                                                                                                         |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>.                                                                                |
-| <Trait name="pureofheart" size="big" disableText/>          | Taken if the group is struggling with healing.                                                                                                          |
-| <Trait name="stalwartspeed" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/> or <Skill name="Advance"/>). |
+|                                                             |                                                                                                                              |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>.                                                     |
+| <Trait name="pureofheart" size="big" disableText/>          | Taken if the group is struggling with healing.                                                                               |
+| <Trait name="weighty terms" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/>). |
 
 </Card>
 </GridItem>
@@ -560,7 +559,7 @@ Keeping up <Boon name="Quickness"/> is a lot easier than with a <BuildLink build
 
 <Warning>
 
-To play <Trait name="Legendary Lore"/> in Fractals you need to have at least 60% boon duration to upkeep <Boon name="Quickness"/>. Both the Seraph and the Celestial builds have 40% from gear. meaning you will need to get the rest from agony resistance and consumables. If you cannot get enough boon duration to be safe just play with <Trait name="Stalwart Speed"/>!
+To play <Trait name="Legendary Lore"/> in Fractals you need to have at least 60% boon duration to upkeep <Boon name="Quickness"/>. Both the Seraph and the Celestial builds have 40% from gear. meaning you will need to get the rest from agony resistance and consumables. If you cannot get enough boon duration to be safe just play with <Trait name="Weighty Terms"/>!
 
 Please note the minimum suggested boon duration is influenced prestacking and typically short phases. It is reccomended to get as much Boon Duration as you can for an easier time maintaining boons! Outside of fractals you need at least 70% Boon Duration to play <Trait name="Legendary Lore"/>.
 </Warning>

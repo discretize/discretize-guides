@@ -1,11 +1,12 @@
 ---
 title: Condi Willbender
-hidden: false
 rating: Good
 role: Condi Damage
 profession: Guardian
 specialization: Willbender
 skills: null
+archive: false
+hidden: false
 conditions:
   - Burning
   - Vulnerability
@@ -21,19 +22,19 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
+  - 4
   - 3
+  - 2
   - 3
-  - 3
-  - 3
-date: 2022-03-07T15:32:09.136Z
+date: 2022-03-26T19:38:24.409Z
 ---
 
 <Warning>
 
-This build guide is not complete, gear and sections may chage regularly as we explore the new elite spec and spend more time playing it in fractals!
+This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
 
 </Warning>
 
@@ -142,7 +143,7 @@ The <Specialization name="Willbender" text="Condition Willbender"/> is a strong 
       "weapon2MainSigil1Id": 24605
     },
   "consumables": {
-      "food": "fishy rice bowl",
+      "foodId": 91878,
       "utility": "toxic-focusing-crystal",
       "infusion": "Malign +9 Agony Infusion"
   },
@@ -165,6 +166,7 @@ You will want the following weapons to swap to durning fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
 - A staff for <Boon name="Might"/> pre-stacking.
+- Greatsword can also be run as an alternative to Sword offering extra cleave and a useful leap
 
 </Character> 
 </CharacterWithAr>
@@ -177,12 +179,13 @@ You will want the following weapons to swap to durning fractal runs:
 
 <Card title="Defiance Bar Damage">
 
-|                                  |                                                                                |
-| -------------------------------- | ------------------------------------------------------------------------------ |
-| <Skill name="Hammer of Wisdom"/> | 200 damage                                                                     |
-| <Skill name="Sanctuary"/>        | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
-| <Skill name="Chains of light"/>  | <Condition name="Immobile"/> 50/s                                              |
-| <Skill name="Heavens Palm"/>     | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
+|                                               |                                                                                |
+| --------------------------------------------- | ------------------------------------------------------------------------------ |
+| <Skill name="Hammer of Wisdom"/>              | 200 damage                                                                     |
+| <Skill name="Sanctuary"/>                     | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
+| <Skill name="Chains of light"/>               | <Condition name="Immobile"/> 50/s                                              |
+| <Skill name="Heavens Palm"/>                  | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
+| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage                                                                     |
 
 </Card>
 </GridItem>
@@ -219,7 +222,7 @@ In general for fractals there is no set rotation for <Specialization name="Willb
 2. <Skill name="Purging Flames"/>
 3. <Skill name="Symbol of Punishment"/>
 4. <Skill name="Whirling Light"/>
-5. <Skill name="Zealot's Flame"/>, <Skill name="Zealot's Fire"/> 
+5. <Skill name="Zealot's Flame"/>, <Skill name="Zealot's Fire"/>
 6. <Skill name="Symbol of Blades"/>
 7. <Skill name="Rushing Justice"/> with <Skill id="62618"/> already active
 8. <Skill name="Zealot's Defense"/>
@@ -228,21 +231,23 @@ In general for fractals there is no set rotation for <Specialization name="Willb
 11. <Skill name="Orb of Wrath"/>
 
 </Card>
-</GridItem>
-
-<GridItem sm="6">
-<Card title="Golem rotation">
-
-<Video youtube="LtopRJ1py04" caption="by Support Hero"/>
-Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
-</Card>
-
 <Card title="Precasting">
 
 1.  Use <Skill name="hallowedground"/>
 2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
 3.  Take the _Mistlock Singularity_
 
+You can also precast stacks of <Trait name="lethal tempo"/> using your virtue skills, but this can be tricky due to them being movement abilities.
+</Card>
+</GridItem>
+
+<GridItem sm="6">
+<Card title="Golem rotation">
+
+<Video youtube="x76DgzoGCnA" caption="Sword rotation by Support Hero"/>
+Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+<Video youtube="mCOEGlJkRJ0" caption="Greatsword rotation by [CnD] DaedDee"/>
+Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
 </Card>
 </GridItem>
 </Grid>

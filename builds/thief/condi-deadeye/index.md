@@ -28,7 +28,9 @@ classification:
 compositions:
   - name: _CRGB
 code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-03-06T22:32:24.670Z
+date: 2022-03-20T17:41:23.631Z
+archive: false
+hidden: false
 ---
 
 <Warning>
@@ -36,6 +38,7 @@ date: 2022-03-06T22:32:24.670Z
 This build is [META](/guides/meta-explained) in condi comps. In terms of DPS, it is unlikely to fall behind any other specialization, whether they be running a power or condi build, as it has very high sustained DPS on single targets.
 
 > As an additional piece of advice, we do not however recommend to play **<Specialization text="Condi Deadeye" name="Deadeye"/>** on encounters where **<Specialization text="Condi Daredevil" name="Daredevil"/>** would perform better, specifically Dark Ai. In unorganized parties, where DPS might be lower most of the time, we also believe that the **<Specialization text="Condi Daredevil" name="Daredevil"/>** build brings more utility in the form of CC, with <Skill id="13132"/>, and is overall easier to play. **<Specialization text="Condi Deadeye" name="Deadeye"/>** will have a tendancy to wear out and fall behind on longer fights, especially if Payback cannot be utilized properly. We did not make a proper guide for this build as of yet, but we believe it is very easy to grasp. The build can be found on the [Snow Crows Website](https://snowcrows.com/builds/thief/daredevil/condition-daredevil).
+
 > Lastly, a condi build will always have a tendency to interfere with a power composition, as it is not meant to have a higher upfront or burst damage, but both of these builds will do a lot of burst damage as well. It is worth mentioning that _Venom Skills_ are very strong in that regard, and precasting them on the _Mistlock Singularity_ will allow for a very high burst, quite uncommon for condi builds but very valuable.
 
 </Warning>
@@ -138,8 +141,7 @@ We do not recommend running these builds in Shattered Observatory for new player
       "elite": "Shadow Meld"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 Note that there are two slightly different variants of this build: one is meant for bosses with very short phases such as Ensolyss or Light Ai; the other one is meant for longer fights, where you will need to sustain damage for a longer period of time. This will also depend on your group. It will always be better to use the latter with people you do not know well, or in situations where your party doesn't bring enough damage.
 The <Item name="afflicted"/> is a viable, more accessible alternative.

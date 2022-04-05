@@ -27,7 +27,9 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-03-06T22:32:02.102Z
+date: 2022-03-20T15:00:35.036Z
+archive: false
+hidden: false
 ---
 
 <Warning>
@@ -43,7 +45,7 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="80% Boon Duration 162 Agony Resistance" gear={{
+<Character title="80% BD, 162 AR" gear={{
   "profession": "Revenant",
   "weight": "Heavy",
   "gear": [
@@ -151,13 +153,12 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
       "legend2": "legendaryrenegadestance"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
 
 </Character>  
-<Character title="80% Boon Duration 222 Agony Resistance" gear={{
+<Character title="80% BD, 222 AR" gear={{
   "profession": "Revenant",
   "weight": "Heavy",
   "gear": [
@@ -257,7 +258,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
     },
     "consumables": {
       "foodId": 91878,
-      "utility": "Toxic Focusing Crystal",
+      "utility": "Tuning Icicle",
       "infusion": "Malign +9 Agony Infusion"
     },
     "legends": {
@@ -265,13 +266,13 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
       "legend2": "legendaryrenegadestance"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
 
-</Character>  
-<Character title="Condi DPS Renegade" gear={{
+</Character>
+
+<Character title="Condi DPS" gear={{
   "profession": "Revenant",
   "weight": "Heavy",
   "gear": [
@@ -357,12 +358,12 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
       "legend2": "legendaryrenegadestance"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-  }}
->
+}}>
 
 If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can both play <Trait name="Righteous Rebel"/> to provide <Boon name="alacrity"/>,
 
-</Character> 
+</Character>
+
 </CharacterWithAr>
 
 <Divider text="Build"/>

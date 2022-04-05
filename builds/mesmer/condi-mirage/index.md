@@ -28,6 +28,7 @@ benchmark:
     by: Eren
     youtube: WSuDmiuAwC8
 hidden: true
+archive: false
 ---
 
 <Warning>
@@ -227,8 +228,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
       "utility3": "Vulture Stance",
       "elite": "One Wolf Pack"
     }
-  }}
->
+}}>
 This builds damage depends on the amount of <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. The build deals similar DPS with 2 <Specialization name="Soulbeast" text="Condi Soulbeasts"/>, and outperforms the Krait build if you have 3 <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. If you are going to be on your own run the Krait rune setup!
 
 </Character> 
