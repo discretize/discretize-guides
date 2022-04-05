@@ -7,9 +7,10 @@ Traits:
   - 551
   - 586
 title: Healadin
-hidden: true
+hidden: false
+archive: true
 rating: Meta
-role: Hybrid
+role: April Fool
 profession: Guardian
 specialization: Firebrand
 boons:
@@ -52,26 +53,27 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
 
 <Divider text="Equipment"/>
 
-<CharacterWithAr> 
+<CharacterWithAr>
+
 <Character title="Healadin 162 Agony Resistance" gear={{
-    "profession": "Guardian",
-    "weight": "Heavy",
-    "gear": [
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Cleric"
-    ],
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Cleric",
+    "Cleric",
+    "Cleric",
+    "Cleric",
+    "Cleric",
+    "Cleric",
+    "Cleric",
+    "Cleric",
+    "Cleric",
+    "Cleric",
+    "Cleric",
+    "Cleric",
+    "Cleric",
+    "Cleric"
+  ],
   "attributes": {
     "Health": 19960,
     "Armor": 4050,
@@ -114,8 +116,8 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
     "Effective Healing": 1217.8305,
     "Healing": 1217.8305
   },
-    "runeId": 24699,
-    "runeName": "Dolyak",
+  "runeId": 24699,
+  "runeName": "Dolyak",
   "infusions": [
     37135,
     37135,
@@ -136,28 +138,28 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
     37135,
     37135
   ],
-    "weapons": {
-      "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "Energy",
-      "weapon1OffType": "Shield",
-      "weapon1OffSigil": "Transference",
-      "weapon2MainType": "Axe",
-      "weapon2MainSigil1": "Energy",
-      "weapon2OffType": "Focus",
-      "weapon2OffSigil": "Life"
-    },
-    "consumables": {
-      "foodId": 12473,
-      "utilityId": 81157,
-      "infusion": "Resilient +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "Mantra of Solace",
-      "utility1": "Smite Condition",
-      "utility2": "Mantra of Lore",
-      "utility3": "Merciful Intervention",
-      "elite": "Signet of Courage"
-    }
+  "weapons": {
+    "weapon1MainType": "Mace",
+    "weapon1MainSigil1": "Energy",
+    "weapon1OffType": "Shield",
+    "weapon1OffSigil": "Transference",
+    "weapon2MainType": "Axe",
+    "weapon2MainSigil1": "Energy",
+    "weapon2OffType": "Focus",
+    "weapon2OffSigil": "Life"
+  },
+  "consumables": {
+    "foodId": 12473,
+    "utilityId": 81157,
+    "infusion": "Resilient +9 Agony Infusion"
+  },
+  "skills": {
+    "heal": "Mantra of Solace",
+    "utility1": "Smite Condition",
+    "utility2": "Mantra of Lore",
+    "utility3": "Merciful Intervention",
+    "elite": "Signet of Courage"
+  }
 }}>
 
 </Character> 
