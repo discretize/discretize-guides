@@ -1,6 +1,6 @@
 ---
 title: Damage Mitigation
-date: 2022-04-07T20:02:19.680Z
+date: 2022-04-07T20:15:21.686Z
 image: ./images/reflect.jpg
 description: Learn which skills and traits your profession can use to avoid
   damaging mechanics.
@@ -68,6 +68,14 @@ Below is a list of currently used projectile reflect or absorb skills and traits
 <GridItem sm="4">
 <Card specialization="Engineer">
 
+- <Trait name="Experimental Turrets"/> <Specialization name="Engineer" disableText/> (Trait)
+- <Trait name="Streamlined Kits"/> <Specialization name="Engineer" disableText/> (Trait, grants <Effect name="Magnetic Aura"/> when entering <Skill name="Med Kit"/>)
+- <Skill name="Magnetic Shield"/> <Specialization name="Engineer" disableText/> (Shield 4)
+- <Skill name="Air Blast"/> <Specialization name="Engineer" disableText/> (<Skill name="Flamethrower"/> 3)
+- <Skill name="Defense Field"/> <Specialization name="Scrapper" disableText/> (Toolbelt skill from <Skill name="Bulwark Gyro"/>)
+- <Skill name="Electro-whirl"/> <Specialization name="Scrapper" disableText/> (Hammer 2)
+- <Skill name="Launch Wall"/> <Specialization name="Holosmith" disableText/> (Utility skill)
+- <Skill name="Photon Wall"/> <Specialization name="Holosmith" disableText/> (Utility skill)
 - <Skill name="Barrier Signet"/> <Specialization name="Mechanist" disableText/> (Utility skill)
 
 </Card>
@@ -189,6 +197,9 @@ Below is a list of commonly used defensive skills:
 <GridItem sm="4">
 <Card specialization="Engineer">
 
+- <Skill name="Elixir S"/> <Specialization name="Engineer" disableText/> (Utility skill)
+- <Skill name="Static Shield"/> <Specialization name="Engineer" disableText/> (Shield 5)
+- <Skill name="Shock Shield"/> <Specialization name="Scrapper" disableText/> (Hammer 4)
 - <Skill id="63293"/> <Specialization name="Mechanist" disableText/> (Jade Mech F2)
 
 </Card>
