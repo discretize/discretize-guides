@@ -1,6 +1,6 @@
 ---
 title: CC Distribution
-date: 2022-02-21T14:28:13.373Z
+date: 2022-04-07T19:31:57.139Z
 image: ./images/preview.jpg
 description: Learn how to contribute your share of CC to break all the bars.
 ---
@@ -15,7 +15,7 @@ The [Defiance bar](https://wiki.guildwars2.com/wiki/Defiance_bar) (also called a
 
 Usually elite or higher mobs will have a defiance bar in fractals, your goal should be to break this bar as fast as possible. In order to break a defiance bar, you need to use CC skills on the enemy whose breakbar you want to break. The size of the bar varies from boss to boss and between mobs too, what matters is that you should break it.
 
-Once you break an enemy's defiance bar they will gain an effect named <Effect name="Exposed"/>, which means they take **30% more power damage** and **100% more condition damage**. They will also usually be <Control name="Stun" text="Stunned"/>, which means they are unable to attack you or deal damage to you.
+Once you break an enemy's defiance bar they will gain an effect named <Effect name="Exposed"/>, which means they take **10% more power damage** and **20% more condition damage** for 10 seconds (in most cases). They will also usually be <Control name="Stun" text="Stunned"/>, which means they are unable to attack you or deal damage to you. The <Control name="Stun" text="Stunned"/> will usually last for a shorter duration than <Effect name="Exposed"/>
 
 </Card>
 
