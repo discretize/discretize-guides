@@ -1,6 +1,6 @@
 ---
 title: Damage Mitigation
-date: 2022-04-07T20:15:21.686Z
+date: 2022-04-07T20:15:49.972Z
 image: ./images/reflect.jpg
 description: Learn which skills and traits your profession can use to avoid
   damaging mechanics.
@@ -223,7 +223,7 @@ Below is a list of commonly used defensive skills:
 - <Skill name="Riptide" profession="elementalist"/> <Specialization name="Weaver" disableText/> (Sword 2, <Skill name="Water Attunement" profession="elementalist" disableText/>)
 - <Skill name="Earthen Vortex" profession="elementalist"/> <Specialization name="Weaver" disableText/> (Sword 2, <Skill name="Earth Attunement" profession="elementalist" disableText/>)
 - <Skill name="Immutable Stone"/> <Specialization name="Catalyst" disableText/> (Hammer 4)
-- <Skill name="Fortified Earth"/> <Specialization name="Catalyst" disableText/> (Utility Skill
+- <Skill name="Fortified Earth"/> <Specialization name="Catalyst" disableText/> (Utility skill
 
 </Card>
 </GridItem>
@@ -241,8 +241,8 @@ Below is a list of commonly used defensive skills:
 - <Skill id="30769"/> <Specialization name="Chronomancer" disableText/> (Shield 4)
 - <Skill id="29649"/> <Specialization name="Chronomancer" disableText/> (Shield 4, after block )
 - <Skill name="Bladeturn Requiem"/> <Specialization name="Virtuoso" disableText/> (F4)
-- <Skill name="Twin Blade Restoration"/> <Specialization name="Virtuoso" disableText/> (Heal Skill)
-- <Skill name="Blade Renewal"/> <Specialization name="Virtuoso" disableText/> (Utility Skill)
+- <Skill name="Twin Blade Restoration"/> <Specialization name="Virtuoso" disableText/> (Heal skill)
+- <Skill name="Blade Renewal"/> <Specialization name="Virtuoso" disableText/> (Utility skill)
 
 </Card>
 </GridItem>
