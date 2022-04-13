@@ -35,7 +35,7 @@ Damage-wise the <Specialization name="Renegade"/> is on the lower end compared t
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-To see how the <Specialization name="Renegade"/> is played in Pick Up Groups refer to [Renegade CM guides](cm-guides/revenant/power-renegade/pug/).
+To see how the <Specialization name="Renegade"/> is played in Pick Up Groups refer to [Renegade CM guides](https://discretize.eu/cm-guides/revenant/power-renegade/pug/).
 
 <Divider text="Equipment"/>
 
