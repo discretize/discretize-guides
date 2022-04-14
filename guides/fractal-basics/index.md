@@ -1,12 +1,16 @@
 ---
 title: Fractal Basics
 date: 2022-04-04T10:01:57.062Z
-image: ./images/instabilities.jpg
+image: ./images/lobby.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
 ---
 
 ## Introduction to fractals
+
+<Grid>
+
+<GridItem xs="12" sm="7">
 
 Fractals of the mists, frequently called "fracs" are 5-man repeatable endgame dungeon-like instances with a large scale of difficulty and rewards. There are 100 levels that are structured into 4 different tiers, each consisting of 25 levels.
 
@@ -15,6 +19,16 @@ As you move up in fractal level, the content becomes more difficult – but also
 You can find the portal entrance to fractals in Fort Marriner in Lions Arch. There are no gear requirements for tier 1 fractals, allowing anybody to try fractals out.
 
 Starting atlevel 20, players need to deal with <Effect name="Agony"/> which requires increasing amounts of <Attribute name="Agony Resistance"/> to counter effectively as you move up in fractal level. Without enough <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
+
+</GridItem>
+
+<GridItem xs="12" sm="5">
+
+<MDImage src="images/portal.jpg" caption="Portal to the fractals in Lions Arch (Fort Marriner)" />
+
+</GridItem>
+
+</Grid>
 
 <Warning>
 
@@ -28,7 +42,23 @@ Starting with tier 2, the heroes begin encountering _Mistlock instabilities_ whi
 
 ## Defiance bars
 
-Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss for power damage by 30% and 100% for condition damage. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally everyone in the team contributes to break the bar as it appears.
+<MDImage src="images/ccbar.png" caption="The CC bar is underneath the health bar" />
+
+<Grid>
+
+<GridItem sm="9">
+
+Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss for power damage by 10% and 20% for condition damage. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally everyone in the team contributes to break the bar as it appears.
+
+Skills that apply damage to the the breakbar are highlighted turquoise in the tooltip. Bosses have varying size of CC bar. Commonly, champions have a bar of the size `600`, while bosses in CM-fractals range around `2000`.
+
+</GridItem>
+<GridItem sm="3">
+
+<MDImage src="images/cchighlight.png" caption="The CC bar is underneath the health bar" />
+
+</GridItem>
+</Grid>
 
 <Warning>
 
@@ -50,6 +80,16 @@ The fractal specific potions influence the way builds are designed. Each of them
 | <Item id="71659"/> | <Attribute name="Precision"/>     | 243 <Attribute name="Precision"/> = 11.57% <Attribute name="Critical Chance"/>  |
 | <Item id="76150"/> | <Attribute name="Toughness"/>     | 243 <Attribute name="Toughness"/>                                               |
 | <Item id="75427"/> | <Attribute name="Concentration"/> | 243 <Attribute name="Concentration"/> = 16.2% <Attribute name="Boon Duration"/> |
+
+---
+
+## Navigating the Discretize website
+
+The Discretize website has three main categories of guides: General, builds and fractals. For new players all categories should be equally relevant.
+
+- [General](/guides/): Learn more about the mechanics you encounter in fractals and how to deal with them.
+- [Builds](/builds/): A collection of builds, which work reasonable well. Please note, that the builds are incomplete due to missing contributors. The quality of the build pages is of utmost importance to us; we'd rather have fewer builds but higher quality ones, than listing only rudimentary information about all possible builds. Most build pages also contain variations. For example, there is no dedicated page for DPS condi firebrand, as it is played almost the same like the <Boon name="Quickness"/> version.
+- [Fractals](/fractals/): An overview over each fractal including possible skips and shortcuts. Also mentions what kind of utility should be brought to mitigate damage at specific encounters.
 
 ---
 
@@ -128,6 +168,7 @@ Players use a number of tools / addons to analyze gameplay more efficiently. Her
 2. [log manager](https://gw2scratch.com/tools/manager): helps you organize your logs, which can be optionally recorded by arc dps.
 3. [gw2wingman](https://gw2wingman.nevermindcreations.de/home): compare your performance against averages of the community
 4. [Fractal farming](https://fast.farming-community.eu/instances/fractals) by [fast]: find out which fractals are best to farm; which daily fractals reward the most
+5. [Killproof.me](https://killproof.me/): Website for sharing your killproof for raids/fractals/strikes.
 
 ---
 
@@ -211,7 +252,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 | `BS`               | Bannerslave        | `war`, `bers` | <Specialization name="Berserker"/> that carries <Skill name="Bannerofstrength"/> and <Skill name="Bannerofdiscipline"/>             | <BuildLink build="Power Berserker" specialization="Berserker"/>                                                                        |
 | `DoD`              | Defier of Doubt    | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode                                                                |                                                                                                                                        |
 | `DwD`              | Dances with Demons | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode without someone dying.                                         |                                                                                                                                        |
-| `kp`               | Kill proof         | `UFE`         | <Item id="94020"/>: Requirement in LFG, can be shown through killproof.me (replaced <Item id="81743"/> in Sept 2020)                |                                                                                                                                        |
+| `kp`               | Kill proof         | `UFE`         | <Item id="94020"/>: Requirement in LFG, can be shown through [killproof.me](https://killproof.me/)                                  |                                                                                                                                        |
 
 ---
 
@@ -350,9 +391,23 @@ Generally, you **always** want to stick together as a group. Reason being that b
 
 ## Mistlock Instabilities
 
+<Grid>
+
+<GridItem sm="8">
+
 In tiers 2 to 4, fractal will always have Mistlock Instabilities active, which add additional mechanics to the fights. The selection is random for each difficulty level and changes daily. More information can be found [in the official wiki](https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists).
 
 Below is a list of all current instabilities and their possible countermeasures.
+
+</GridItem>
+
+<GridItem sm="4">
+
+<MDImage src="images/instabilities.jpg" alt="Instabilities" />
+
+</GridItem>
+
+</Grid>
 
 |                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
