@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-13T15:49:47.696Z
+date: 2022-04-14T10:02:52.030Z
 ---
 
 <Warning>
@@ -679,14 +679,20 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 
 <Card title="Situational Traits">
 
+
+|                                                     |                                                                                                                                                                   |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Spectacular Sphere" size="big" disableText/> | If your group has absolutely no <Boon name="Might"/> from other sources, you can run this to provide extra <Boon name="Might"/> as well as <Boon name="Fury"/>. However, this comes at a significant DPS loss of around 10%.                                                                                |
+| <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                |
+| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="endlesschoyapiatatonic"/>. |
+
 <Traits unembossed traits1="Arcane" traits1Selected="Arcane Precision, Final Shielding, Bountiful Power"/>
 You can run Arcane instead of Fire. This will trade in some damage for extra uptime on other boons such as <Boon name="Might"/> or <Boon name="Swiftness"/>. This also gives you some free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. You can either adjust your gear accordingly, or run the same geatup and enjoy the higher boon duration, making upkeeping boons easier.
 
 |                                                     |                                                                                                                                                                   |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="Arcane Resurrection" size="big" disableText/> | When running Arcane, you can use this for some group rezzing ability. You will trade in some personal defense from <Trait name="Final Shielding"/>.                                                                                |
-| <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                |
-| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="endlesschoyapiatatonic"/>. |
+
 
 </Card>
 
