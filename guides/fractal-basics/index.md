@@ -50,7 +50,7 @@ Starting with tier 2, the heroes begin encountering _Mistlock instabilities_ whi
 
 Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss for power damage by 10% and 20% for condition damage. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally everyone in the team contributes to break the bar as it appears.
 
-Skills that apply damage to the the breakbar are highlighted turquoise in the tooltip. Bosses have varying size of CC bar. Commonly, champions have a bar of the size `600`, while bosses in CM-fractals range around `2000`.
+Skills that apply damage to the the breakbar are highlighted turquoise in the tooltip. Bosses have varying size of CC bar. Commonly, champions have a bar of the size `600`, while bosses in CM-fractals range around `2000`. However, it is important to note that the tooltips are incorrect for many skills ([list of all missing or dead](https://wiki.guildwars2.com/wiki/Defiance_Break)). Often, the displayed numbers are off by a large margin and therefore do not even serve as a rough estimate. We suggest to instead consult the [wiki](https://wiki.guildwars2.com/wiki/Defiance_bar) for finding out the exact values.
 
 </GridItem>
 <GridItem sm="3">
@@ -253,14 +253,6 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 | `DoD`              | Defier of Doubt    | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode                                                                |                                                                                                                                        |
 | `DwD`              | Dances with Demons | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode without someone dying.                                         |                                                                                                                                        |
 | `kp`               | Kill proof         | `UFE`         | <Item id="94020"/>: Requirement in LFG, can be shown through [killproof.me](https://killproof.me/)                                  |                                                                                                                                        |
-
----
-
-## Current fractal META
-
-Although most groups in LFG don't follow the META it can be beneficial for you to understand how it works in theory to play your own build more efficiently. All the builds in the META have very specific key roles. It is important to fulfill your role to aid the best possible support to your team (also DPS classes support the team with CC and other unique buffs).
-
-Please consult the [meta-page](guides/meta-explained) for more information about the current fractal META.
 
 ---
 
