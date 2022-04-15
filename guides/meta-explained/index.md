@@ -1,6 +1,6 @@
 ---
 title: Building an Effective Comp
-date: 2022-04-15T23:02:11.487Z
+date: 2022-04-15T23:22:42.257Z
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
 ---
@@ -43,9 +43,9 @@ Although both condition and power builds preform great in PuGs, it is recommende
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Boon name="Alacrity"/> source | |
 | <Boon name="Quickness"/> source | | 
-| <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/> | Pick any of the condition classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
-| <Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/>      | Pick any of the condition classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
-| <br/><Specialization name="Weaver" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/> | Pick any of the condition classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
+| <br/><Specialization name="Mechanist" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/> | Pick any of the condition classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
+| <Specialization name="Mechanist" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/>      | Pick any of the condition classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
+| <br/><Specialization name="Mechanist" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/> | Pick any of the condition classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
 
 </Tab>
 <Tab title="Power Comp">
