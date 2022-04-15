@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-14T10:02:52.030Z
+date: 2022-04-15T11:40:46.806Z
 ---
 
 <Warning>
@@ -682,12 +682,13 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 
 |                                                     |                                                                                                                                                                   |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Spectacular Sphere" size="big" disableText/> | If your group has absolutely no <Boon name="Might"/> from other sources, you can run this to provide extra <Boon name="Might"/> as well as <Boon name="Fury"/>. However, this comes at a significant DPS loss of around 10%.                                                                                |
 | <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="endlesschoyapiatatonic"/>. |
+| <Trait name="Sphere Specialist" size="big" disableText/> | Use this if you are responsible for providing <Boon name="Quickness"/>.                                                                                |
+| <Trait name="Spectacular Sphere" size="big" disableText/> | If your group has absolutely no <Boon name="Might"/> from other sources, you can also run this to provide extra <Boon name="Might"/> as well as <Boon name="Fury"/>. However, this comes at a significant DPS loss of around 10%.                                                                                |
 
 <Traits unembossed traits1="Arcane" traits1Selected="Arcane Precision, Final Shielding, Bountiful Power"/>
-You can run Arcane instead of Fire. This will trade in some damage for extra uptime on other boons such as <Boon name="Might"/> or <Boon name="Swiftness"/>. This also gives you some free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. You can either adjust your gear accordingly, or run the same geatup and enjoy the higher boon duration, making upkeeping boons easier.
+On the Quickness variant, you can run Arcane instead of Fire. This will trade in some damage for extra uptime on other boons such as <Boon name="Might"/> or <Boon name="Swiftness"/>. This also gives you some free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. You can either adjust your gear accordingly, or run the same geatup and enjoy the higher boon duration, making upkeeping boons easier.
 
 |                                                     |                                                                                                                                                                   |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
