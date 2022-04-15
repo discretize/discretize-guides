@@ -27,7 +27,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-date: 2022-04-15T14:15:00.567Z
+date: 2022-04-15T14:17:16.933Z
 conditions:
   - Burning
   - Vulnerability
@@ -59,7 +59,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 This beginner version will focus on dealing good DPS while helping out the group with some <Boon name="Quickness"/>. For the full <Boon name="Quickness"/> variant, check out the advanced guide.
 </Beginner>
 
-
+<Advanced>
 <Warning>
 
 There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
@@ -68,6 +68,7 @@ There are a number of different gear, utility and trait setups that allow you to
 - <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 69.8%bd
 
 </Warning>
+</Advanced>
 
 <Divider text="Equipment"/>
 
@@ -391,13 +392,16 @@ You will want the following weapons to swap to durning fractal runs:
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
+<Advanced>
 To share quickness you will need at least two <Specialization name="Firebrand" text="Firebrands"/>. You can see the traits required in the Build Variants section further down the page.
+</Advanced>
 
 You will want the following weapons to swap to durning fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
 - A staff for <Boon name="Might"/> pre-stacking.
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
+
 
 </Character>
 </CharacterWithAr>
