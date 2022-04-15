@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-15T11:40:46.806Z
+date: 2022-04-15T11:43:52.365Z
 ---
 
 <Warning>
@@ -782,6 +782,7 @@ Which precasts you can do will rely on the amount of energy you have before taki
 8. Take the _Mistlock Singularity_.
 
 It is recommended to use separate precast templates to cast different utility and weapon skills.
+Just make sure that both templates use the same traits to not get the status reset on swap.
 
 </Card>
 
