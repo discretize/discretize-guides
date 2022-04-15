@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-15T11:43:52.365Z
+date: 2022-04-15T11:47:45.198Z
 ---
 
 <Warning>
@@ -30,7 +30,9 @@ This build guide is not complete, gear and sections may change regularly as we e
 
 </Warning>
 
-The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides Conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through Spheres and blasting fire fields. It can also swap a traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
+The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides Conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through Spheres and blasting fire fields. It can also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
+
+This build has less burst than the <Specialization text="Power Weaver" name="Weaver"/> but offers some extra utility through the boons your Jade Spheres provide.
 
 Unfortunately this build is pretty squishy. It has some defensive utility in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, however you will use them during your normal rotation and not always be in the correct attunement when you need the defense, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
 
@@ -688,7 +690,7 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 | <Trait name="Spectacular Sphere" size="big" disableText/> | If your group has absolutely no <Boon name="Might"/> from other sources, you can also run this to provide extra <Boon name="Might"/> as well as <Boon name="Fury"/>. However, this comes at a significant DPS loss of around 10%.                                                                                |
 
 <Traits unembossed traits1="Arcane" traits1Selected="Arcane Precision, Final Shielding, Bountiful Power"/>
-On the Quickness variant, you can run Arcane instead of Fire. This will trade in some damage for extra uptime on other boons such as <Boon name="Might"/> or <Boon name="Swiftness"/>. This also gives you some free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. You can either adjust your gear accordingly, or run the same geatup and enjoy the higher boon duration, making upkeeping boons easier.
+On the Quickness variant, you can run Arcane instead of Fire. This will trade in some damage for extra uptime on other boons such as <Boon name="Might"/> or <Boon name="Swiftness"/>. This also gives you some free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. You can either adjust your gear accordingly, or run the same gear setup and enjoy the higher boon duration, making upkeeping boons easier.
 
 |                                                     |                                                                                                                                                                   |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
