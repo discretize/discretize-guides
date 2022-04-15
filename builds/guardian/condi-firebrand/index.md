@@ -7,6 +7,7 @@ specialization: Firebrand
 skills: []
 archive: false
 hidden: false
+hasBeginner: false
 conditions:
   - Burning
   - Vulnerability
