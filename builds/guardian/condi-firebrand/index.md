@@ -2,7 +2,7 @@
 title: Condi (Quick) Firebrand
 hidden: false
 archive: false
-hasBeginner: false
+hasBeginner: true
 rating: Meta
 role: Condi Damage
 profession: Guardian
@@ -27,7 +27,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-date: 2022-04-15T14:05:59.503Z
+date: 2022-04-15T14:15:00.567Z
 conditions:
   - Burning
   - Vulnerability
@@ -43,6 +43,7 @@ benchmark:
 
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide permanent <Boon name="Quickness"/> (if necessary) to the party while dealing high consistent DPS. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
 
+<Advanced>
 This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
 
 - Permanent <Boon name="Quickness"/>.
@@ -50,11 +51,12 @@ This build has tremendous amounts of self-sustain and is therefore also a great 
 - <Skill id="41780"/> for heals.
 - <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
 - Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
+</Advanced>
 
 Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
 
 <Beginner>
-This beginner version will focus on dealing good DPS while helping out the group with some <Boon name="Quickness"/>. Use the gear for DPS/Quick Share listed below. For the full <Boon name="Quickness"/> variant, check out the advanced guide.
+This beginner version will focus on dealing good DPS while helping out the group with some <Boon name="Quickness"/>. For the full <Boon name="Quickness"/> variant, check out the advanced guide.
 </Beginner>
 
 
@@ -73,7 +75,7 @@ There are a number of different gear, utility and trait setups that allow you to
 
 <CharacterWithAr> 
 
-<Character title="Quickbrand 162ar (41.7%bd)" gear={{
+<Character advanced title="Quickbrand 162ar (41.7%bd)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -181,7 +183,7 @@ You will want the following weapons to swap to durning fractal runs:
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
 </Character>
-<Character title="Quickbrand 222ar (41.7%bd)" gear={{
+<Character advanced title="Quickbrand 222ar (41.7%bd)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -637,6 +639,13 @@ Whenever your <Skill name="Tome of Justice"/> is up, enter it and do the followi
 
 **Step 4: Torch 4**
 
+Lastly, add <Skill name="Zealots Flame"/> to your rotation.
+
+- If you press <Skill name="Zealots Flame"/>, you will gain a stack of <Skill name="Zealots Fire"/> that you can throw at your enemy.
+- <Trait name="Radiant fire"/> will give you an additional <Skill name="Zealots Fire"/> every 10 seconds.
+- Once you have 2 charges, throw both of them.
+
+Note: Unless you execute the rotation perfectly, this will eventually de-sync. Once this happens, just use both the <Skill name="Zealots Fire"/> you get from <Trait name="Radiant fire"/> and <Skill name="Zealots Flame"/> off-cooldown.
 
 
 </Card>
