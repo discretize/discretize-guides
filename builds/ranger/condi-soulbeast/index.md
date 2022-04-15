@@ -45,9 +45,7 @@ Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained dama
 This build is rather self sufficient due to:
 
 - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
-
 - Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
-
 - High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
 
 Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
@@ -202,7 +200,6 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 If you do not have a Jade Bot Core: Tier 10, you will have slightly lower duration on your non-bleeding conditions but the build does not change!
 
 </Character>
-
 <Character title="Afflicted Runes" gear={{
   "profession": "Ranger",
   "weight": "medium",

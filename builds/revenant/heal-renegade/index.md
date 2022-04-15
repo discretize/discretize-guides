@@ -36,8 +36,8 @@ boons:
   - name: Resistance
     uptime: On Demand
     variant: Party
-code: "[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 4
   - 1
@@ -318,9 +318,11 @@ With <Skill id="45773"/> you can sustain your group for the whole time you have 
 <GridItem sm="12">
 <Card title="Legends">
 
-<Message>
+<Information>
+
 You will need to reconsider the legends you are running in almost every fractal and therefore it is a nice habit to develop to check them after each fractal you have done. Some fractals demand three to four different legends in only one fractal. Below you will find the three most common setups that will serve you fine as well as a description of the skills in each legend.
-</Message>
+
+</Information>
 
 ## Legends Setups:
 
