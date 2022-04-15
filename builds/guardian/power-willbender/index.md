@@ -1,12 +1,12 @@
 ---
 title: Power Willbender
+hidden: false
+archive: false
 rating: Good
 role: Power Damage
 profession: Guardian
 specialization: Willbender
 skills: null
-archive: false
-hidden: false
 conditions:
   - Vulnerability
   - Blinded
@@ -21,14 +21,14 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: '[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 4
   - 3
   - 2
   - 4
-date: 2022-03-21T22:18:11.184Z
+date: 2022-04-15T11:49:44.472Z
 ---
 
 <Warning>
@@ -588,7 +588,7 @@ This is just a suggested opener. Depending on the encounter and the length of th
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="OiH1BLuJpo" caption="by Nagy"/>
+<Video youtube="-OiH1BLuJpo" caption="by Nagy"/>
 </Card>
 </GridItem>
 </Grid>
