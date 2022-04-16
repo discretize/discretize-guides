@@ -27,7 +27,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-date: 2022-04-15T14:17:16.933Z
+date: 2022-04-16T09:13:43.199Z
 conditions:
   - Burning
   - Vulnerability
@@ -40,8 +40,7 @@ benchmark:
     by: TJ [SC]
     youtube: U1yYDskt3Cw
 ---
-
-The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide permanent <Boon name="Quickness"/> (if necessary) to the party while dealing high consistent DPS. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
+The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide permanent <Boon name="Quickness"/> (if necessary) to the party while dealing high consistent DPS. Your tomes are by far your most important skills; they enable you to do great DPS as well as support and heal your allies. Tomes cover almost the entire toolbox of defensive capabilities such as boons like <Boon name="Stability"/>, <Boon name="Resistance"/>, but also reflects and pulls and condi cleanses. Knowing where to find these defensive skills is an important part of supporting your team as a DPS player. 
 
 <Advanced>
 This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
@@ -177,7 +176,7 @@ There are a number of different gear, utility and trait setups that allow you to
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
 
-You will want the following weapons to swap to durning fractal runs:
+You will want the following weapons to swap to during fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
 - A staff for <Boon name="Might"/> pre-stacking.
@@ -284,7 +283,7 @@ You will want the following weapons to swap to durning fractal runs:
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
 
-You will want the following weapons to swap to durning fractal runs:
+You will want the following weapons to swap to during fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
 - A staff for <Boon name="Might"/> pre-stacking.
@@ -396,7 +395,7 @@ You will want the following weapons to swap to durning fractal runs:
 To share quickness you will need at least two <Specialization name="Firebrand" text="Firebrands"/>. You can see the traits required in the Build Variants section further down the page.
 </Advanced>
 
-You will want the following weapons to swap to durning fractal runs:
+You will want the following weapons to swap to during fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
 - A staff for <Boon name="Might"/> pre-stacking.
@@ -617,7 +616,7 @@ On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrat
 </Advanced>
 
 <Beginner>
-<Card title="Step-by-Step Rotation">
+
 **Step 1: Quickness**
 
 - Use 1 charge of <Skill name="Mantra of Solace"/> and all charges of <Skill name="Mantra of Potence"/>.
@@ -635,7 +634,7 @@ Start by using the following 3 skills off-cooldown in this order of priority:
 **Step 3: F1 Tome**
 
 Whenever your <Skill name="Tome of Justice"/> is up, enter it and do the following rotation:
-1.  <TomeSkill name="Chapter 2: Ignite Burst"/>
+1. <TomeSkill name="Chapter 2: Ignite Burst"/>
 2. <TomeSkill name="Chapter 4: Scorched Aftermath"/>
 3. <TomeSkill name="Epilogue: Ashes of the Just"/>
 4. <TomeSkill name="Chapter 1: Searing Spell"/>
@@ -651,6 +650,4 @@ Lastly, add <Skill name="Zealots Flame"/> to your rotation.
 
 Note: Unless you execute the rotation perfectly, this will eventually de-sync. Once this happens, just use both the <Skill name="Zealots Fire"/> you get from <Trait name="Radiant fire"/> and <Skill name="Zealots Flame"/> off-cooldown.
 
-
-</Card>
 </Beginner>
