@@ -2,6 +2,7 @@
 title: Power Virtuoso
 hidden: false
 archive: false
+hasBeginner: true
 rating: good
 role: Power Damage
 profession: Mesmer
@@ -15,14 +16,14 @@ boons:
   - name: Fury
     uptime: 100% - On Demand
     variant: Self
-code: '[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 3
   - 4
-date: 2022-03-30T23:22:28.158Z
+date: 2022-04-16T19:46:01.418Z
 ---
 
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
@@ -151,7 +152,7 @@ This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Tr
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character  title="162 AR (Banner)" gear={{
+<Character advanced title="162 AR (Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -268,7 +269,7 @@ This build assumes you have either <Skill name="Banner of Discipline"/> or <Trai
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
-<Character  title="222 AR (No Banner)" gear={{
+<Character advanced title="222 AR (No Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -385,7 +386,7 @@ This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Tr
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>  
-<Character title="222 AR (Banner)" gear={{
+<Character advanced title="222 AR (Banner)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -510,15 +511,26 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <GridItem sm="7">
 <Card title="Extra Weapons">
 
+<Advanced>
+
 - Greatswords, Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+
+</Advanced>
+
 - For some T4 bosses with one phase or in CM kills with long phases swapping Greatsword for Sword / Focus or Pistol will result in lower burst but higher sustained DPS.
 - Focus is very useful to use in T4 fractals to pull groups of enemies with <Skill name="Temporal Curtain"/>
+
+<Advanced>
+
 - Torch for stealth, blasting and precasting
 - Staff for precasting at certain bosses.
 - Shield for blocks if you are skipping with <Specialization name="Chronomancer"/>
 
+</Advanced>
+
 </Card>
 <Traits traits1="Dueling" traits1Selected="Phantasmal Fury,Fencers Finesse,Superiority Complex" traits2="Domination" traits2Selected="Bountiful Blades,Egotism,Vicious Expression" traits3="Virtuoso" traits3Selected="Mental Focus,Phantasmal Blades,Bloodsong"/>
+
 <Card title="Situational Traits">
 
 |                                                            |                                                                         |
@@ -529,6 +541,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 You can go this Illusions variant over the Domination traitline when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small"/> as well.
 
+
+<Advanced>
 <Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
 
 Utilize Mirage for skips!
@@ -541,17 +555,49 @@ Utilize Mirage for skips!
 
 Situationally used for <Skill name="Continuum Split"/>, which can be useful when stealthing your group with <Skill name="Mass Invisibility"/> or any utility you want to use twice. Additionally allows for shield to be equipped giving you a very strong block with <Skill id="30769"/> and <Skill id="29649"/>. In niche cases can be used for some self <Boon name="alacrity"/> through <Trait name="Flow of Time"/> and <Trait name="Improved Alacrity"/>.
 
+</Advanced>
 </Card>
 </GridItem>
 
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
+Swap out <Skill name="Mantra of Pain"/> before any other skill.
+
+<Beginner>
 
 |                                                              |                                                                                                                                                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill name="Blade Renewal" size="big" disableText/>         | For prestacking blades                                                                                                                                                                     |
+| <Skill name="Blade Renewal" size="big" disableText/>         | For prestacking blades before the fight                                                                                                                                                                    |
+| <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
+| <Skill name="Signet of Humility" size="big" disableText/>    | Very high CC, can be casted while the boss is spawning in.                                                                                                                                 |
+
+
+<Divider text="CC Skills"/>
+
+
+|                                      |                       |
+| ------------------------------------ | --------------------- |
+| <Skill name="Bladesong Dissonance"/> | 50 damage (per Blade) |
+| <Skill name="Counter Blade"/>        | 200 damage            |
+| <Skill name="Into the Void"/>        | 150 damage            |
+| <Skill name="Signet of Humility"/>   | 600 damage            |
+| <Skill name="Illusionary Wave"/>     | 150 damage            |
+| <Skill name="Magic Bullet"/>         | 250 damage            |
+| <Skill name="Phantasmal Mage"/>      | 100 damage            |
+| <Condition name="Slow"/>             | 50 damage per second  |
+
+
+
+
+
+</Beginner>
+
+<Advanced>
+
+|                                                              |                                                                                                                                                                                            |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <Skill name="Blade Renewal" size="big" disableText/>         | For prestacking blades before the fight                                                                                                                                                                    |
 | <Skill name="Mimic" size="big" disableText/>                 | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
 | <Skill name="Null Field" size="big" disableText/>            | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
 | <Skill name="Signet of Inspiration" size="big" disableText/> | For precasting before the boss.                                                                                                                                                            |
@@ -568,13 +614,19 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 | <Skill name="Jaunt" size="big" disableText/>                 | 450 range blink, 3 charges.                                                                                                                                                                |
 | <Skill name="Illusionary Ambush" size="big" disableText/>    | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
 
+</Advanced>
+
 </Card>
 </GridItem>
 </Grid>
 
+
+<Advanced>
 <Divider text="Details"/>
 
+
 <Grid>
+
 <GridItem sm="8">
 <Card title="Skill priority">
 
@@ -602,6 +654,8 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 </Card>
 </GridItem>
 
+
+
 <GridItem sm="4">
 <Card title="CC skills">
 
@@ -620,10 +674,60 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 </GridItem>
 </Grid>
 
+</Advanced>
+
 <Divider text="Rotation / Skill usage"/>
 
+
 <Grid>
-<GridItem xs="12" sm="6">
+<GridItem xs="12" sm="7">
+
+<Beginner>
+
+<Card title="Step by Step Rotation">
+
+**Step 1: Phantasms**
+
+We'll start off with the basic rotation for summoning Phantasms. This is the backbone of the rotation and practising this part for a bit will get you set up well for the rest of the rotation.
+1. Start on Greatsword and use <Skill name="Phantasmal Berserker"/>, then swap to Dagger/Sword.
+2. Use <Skill name="Phantasmal Swordsman"/> and <Skill name="Phantasmal Disenchanter"/>.
+3. Reset your cooldowns with <Skill name="Signet of the Ether"/> and cast both Phantasms again.
+4. Wait on Dagger/Sword until you can cast one more <Skill name="Phantasmal Swordsman"/>, then swap back to Greatsword.
+5. Use <Skill name="Phantasmal Berserker"/> right away.
+6. Use <Skill name="Phantasmal Disenchanter"/> when it comes back.
+7. Wait for one more <Skill name="Phantasmal Berserker"/> and then swap back to Dagger/Sword.
+8. Repeat from Step 2. (skipping the <Skill name="Phantasmal Disenchanter"/> in that step.)
+
+**Step 2: F1 Shatter**
+
+Next, we will incorporate our F1 Shatter <Skill name="Bladesong Harmony"/>.
+- Use it only when you have 5 Blades stocked.
+- Use it for the first time after your initial <Skill name="PHantasmal Berserker"/>.
+- Use it off-cooldown but only with 5 Blades afterwards.
+
+
+**Step 3: Weapon Skills**
+
+In Step 3, we will incorporate other Weapon Skills. We will add multiple skills at once so take your time if you feel like you struggle with this.
+
+1. Cast <Skill name="Bladecall"/> right after swapping to Dagger/Sword.
+2. Cast <Skill name="Unstable Bladestorm"/> right before your Heal Signet.
+3. Use both skills off-cooldown afterwards until you swap to Greatsword.
+4. Cast  <Skill name="Mirror Blade"/> and <Skill name="Mind Stab"/> right after <Skill name="PHantasmal Berserker"/> and use them off-cooldown until you swap back to Dagger/Sword.
+5. Repeat from Step 1.
+
+
+**Step 4: Utility Skills**
+
+Lastly, we will add the remaining Utility Skills to the rotation.
+
+- Cast <Skill name="Rain of Swords"/> at the start of the fight and then use it off-cooldown.
+- Cast <Skill name="Mantra of Pain"/> off-cooldown as well. This skill is an instant-cast and can therefore be used while casting other skills.
+
+</Card>
+</Beginner>
+
+<Advanced>
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
@@ -656,15 +760,26 @@ At the boss (prespawned bosses)
 - You can also precast <Skill name="Phantasmal Warlock"/>.
 
 </Card>
+</Advanced>
 </GridItem>
 
-<GridItem xs="12" sm="6">
 
-<Card title="Greatsword Golem Rotation">
+
+<GridItem xs="12" sm="5">
+
+<Card title="Step-by-Step Video">
+
+<Video caption="by Ascers" youtube="10c1XNlXeVk"/>
+</Card>
+
+
+
+<Card title="Golem Rotation">
 
 <Video caption="by Tipcat [CnD]" youtube="92FJUY1IKh4"/>
 </Card>
 
+<Advanced>
 <Card title="Opener">
 
 These is a basic opener, you will need to adapt this depending on the boss and cooldowns.
@@ -688,6 +803,7 @@ These is a basic opener, you will need to adapt this depending on the boss and c
 15. <Skill name="Phantasmal Disenchanter"/>
 
 </Card>
+</Advanced>
 
 </GridItem>
 </Grid>
