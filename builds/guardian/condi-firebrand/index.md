@@ -18,7 +18,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-code: '[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 4
@@ -27,13 +27,13 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-date: 2022-04-16T09:13:43.199Z
+date: 2022-04-16T23:21:08.876Z
 conditions:
   - Burning
   - Vulnerability
   - Crippled
   - Bleeding
-cmGuide: ''
+cmGuide: ""
 benchmark:
   small:
     dps: 36732
@@ -396,6 +396,165 @@ You will want the following weapons to swap to during fractal runs:
 <Advanced>
 To share quickness you will need at least two <Specialization name="Firebrand" text="Firebrands"/>. You can see the traits required in the Build Variants section further down the page.
 </Advanced>
+
+You will want the following weapons to swap to during fractal runs:
+
+- Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
+- A staff for <Boon name="Might"/> pre-stacking.
+- If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
+
+</Character>
+
+<Character advanced title="Raid Quickbrand 162ar (69.8%bd)" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Viper",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper"
+  ],
+  "attributes": {
+    "Health": 19315,
+    "Armor": 2514,
+    "Power": 2721,
+    "Precision": 1801,
+    "Toughness": 1243,
+    "Vitality": 1767,
+    "Ferocity": 300,
+    "Condition Damage": 2698,
+    "Expertise": 673,
+    "Concentration": 560,
+    "Healing Power": 250,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.44866666666666666,
+    "Boon Duration": 0.4733333333333334,
+    "Critical Chance": 0.7314285714285714,
+    "Critical Damage": 1.7,
+    "Power Coefficient": 2229,
+    "Burning Coefficient": 14.2733,
+    "Bleeding Coefficient": 2.4,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Burning Duration": 0.55,
+    "Resolution Duration": 0.25,
+    "Quickness Duration": 0.3,
+    "Effective Power": 6387.22098,
+    "Power DPS": 5482.139223881401,
+    "Siphon DPS": 0,
+    "Bleeding Damage": 275.82,
+    "Bleeding Stacks": 3.4767999999999994,
+    "Bleeding DPS": 958.9709759999998,
+    "Burning Damage": 947.35275,
+    "Burning Stacks": 28.527568933333338,
+    "Burning DPS": 27025.670879807905,
+    "Confusion Damage": 325.443,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 293.07,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 411.93,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 33466.78107968931,
+    "Effective Health": 96632656.71641792,
+    "Survivability": 49126.92258079203,
+    "Effective Healing": 465,
+    "Healing": 465
+  },
+  "runeId": 83338,
+  "runeName": "Firebrand",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Axe",
+    "weapon1MainSigil1Id": 44944,
+    "weapon1OffType": "Torch",
+    "weapon1OffSigilId": 24624,
+    "weapon2MainType": "Scepter",
+    "weapon2MainSigil1Id": 44944,
+    "weapon2MainSigil2Id": 24624
+  },
+  "consumables": {
+    "foodId": 97767,
+    "utilityId": 48916
+  },
+  "skills": {
+    "healId": 41714,
+    "utility1Id": 40915,
+    "utility2Id": 9187,
+    "utility3Id": 9128,
+    "eliteId": 29965
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}}>
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
+
+This setup is the same as the Raid/Strike <Specialization name="Firebrand" text="Condi Quickbrand"/> build. The only difference is due to the extra <Attribute name="boon duration"/> gained from <Item id="75427"/>, you can safely run <Trait name="Legendary Lore"/> for more damage. While it deals a bit less damage than the <Item id="24765"/> builds, it allows you to use the same build in multiple areas of the game.
+
+If you have short phases and are confident maintaing <Boon name="Quickness"/>, <Instability name="Boon Overload"/> or you have over 195 <Attribute name="Agony Resistance"/>, you can use <Item id="48917"/>.
 
 You will want the following weapons to swap to during fractal runs:
 
