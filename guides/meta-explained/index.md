@@ -1,6 +1,6 @@
 ---
 title: Building an Effective Comp
-date: 2022-04-15T23:22:42.257Z
+date: 2022-04-16T22:04:21.115Z
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
 ---
@@ -41,11 +41,11 @@ Although both condition and power builds preform great in PuGs, it is recommende
 
 |                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Boon name="Alacrity"/> source | |
-| <Boon name="Quickness"/> source | | 
-| <br/><Specialization name="Mechanist" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/> | Pick any of the condition classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
-| <Specialization name="Mechanist" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/>      | Pick any of the condition classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
-| <br/><Specialization name="Mechanist" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/> | Pick any of the condition classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
+| <Boon name="Alacrity"/> source | <BuildLink build="Heal Mechanist" specialization="Mechanist"/><br/><BuildLink build="Condi Alac Renegade" specialization="Renegade"/><br/><BuildLink build="Power Renegade" specialization="Renegade"/><br/>While there are other <Boon name="Alacrity"/> providers such as <Specialization name="Specter" text="Alacrity Specter"/> or <Specialization name="Mirage" text="Alacrity Mirage"/> that can be played, they tend to be more of a niche pick. This does not mean that they are bad but they will force the group to compensate for support or damage with other roles.  |
+| <Boon name="Quickness"/> source | <BuildLink build="Heal Firebrand" specialization="Firebrand"/><br/><BuildLink build="Celestial Firebrand" specialization="Firebrand"/><br/><BuildLink build="Condi Firebrand" specialization="Firebrand"/><br/><BuildLink build="Condi Harbinger" specialization="Harbinger"/><br/>While there are other <Boon name="Alacrity"/> providers such as <Specialization name="Catalyst" text="Quick Catalyst"/> or <Specialization name="Scrapper" text="Quick Scrapper"/> that can be played, they tend to be more of a niche pick. This does not mean that they are bad but they will force the group to compensate for support or damage with other roles.  | 
+| <br/><Specialization name="Mechanist" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/> | Pick any of the classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
+| <Specialization name="Mechanist" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/>      | Pick any of the classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
+| <br/><Specialization name="Mechanist" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><br/><Specialization name="Firebrand" disableText/><Specialization name="Specter" disableText/><Specialization name="Virtuoso" disableText/> | Pick any of the classes as damage dealers offered in the [What Should I Play section](/guides/what-should-i-play) |
 
 </Tab>
 <Tab title="Power Comp">
@@ -77,7 +77,7 @@ It is important to note, that each challenge mote encounter has a different most
 
 With the May 11th 2021 balance patch came a huge shake up to the fractal META due to the <Effect name="Exposed"/> change. Instead of being a 50% damage modifier, it was nerfed to 30% power and buffed to 100% condi damage. This has led to condition builds becoming competitive with power builds on many fractals. This has led to a massive shake up of the fractal META and a big split between daily run comps and boss kill comps. For individual bosses power still shines and in most cases can get much faster kills than condi comps can (apart from Ensolyss and 100CM), but for full runs due to the minimal time needed to precast, ease of the comp and the fact it gets similar if not faster times to power runs, for most groups condi comps tend to be a safer pick.
 
-With this in mind we have two comps we use for our runs. A <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Deadeye" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/> comp for runs where people want to get in and out asap with minimal effort. And a <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/> comp for days when groups want to get some faster boss kills requiring more co-ordination.
+With this in mind we have two comps we use for our runs. A <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Specter" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/> comp for runs where people want to get in and out asap with minimal effort. And a <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/> comp for days when groups want to get some faster boss kills requiring more co-ordination.
 
 <Warning>
 For groups such as PuGs or statics less focused on optimal strats and comps the meta changes entirely. To find out more information about what changes scroll down to the bottom of the page.
@@ -110,7 +110,18 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 <BuildLink build="Condi Firebrand" specialization="Firebrand"/>
 </Tab>
 
-<Tab specialization="Soulbeast">
+<Tab specialization="Specter">
+
+- Currently both <Specialization name="Daredevil" text="Condi Daredevil"/> and <Specialization name="Deadeye" text="Condi Deadeye"/> are viable options.
+- Both builds have the highest burst of any condi class in the game
+- Provides strong party dps buffs through <Skill name="Spider Venom"/> and <Skill name="Skale Venom"/>.
+- Provides a massive amount of CC by sharing <Skill name="Basilisk Venom"/>.
+- Has high mobility with many blinks, portals and <Effect name="Stealth"/>, great for skips and completing T4s fast.
+
+<BuildLink build="Condi Specter" specialization="Specter"/>
+</Tab>
+
+<Tab title="DPS">
 
 - Deals high damage, especially on encounters with longer phases such as Ensloyss and 100CM.
 - Provides strong party DPS boosts through <Skill name="vulture stance"/> while also helping with <Boon name="Might"/> generation.
@@ -119,16 +130,6 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 - Brings a good amount of CC with <Skill name="Concussion Shot"/> and <Skill id="46432"/>.
 
 <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>
-</Tab>
-<Tab specialization="Deadeye">
-
-- Currently both <Specialization name="Daredevil" text="Condi Daredevil"/> and <Specialization name="Deadeye" text="Condi Deadeye"/> are viable options.
-- Both builds have the highest burst of any condi class in the game
-- Provides strong party dps buffs through <Skill name="Spider Venom"/> and <Skill name="Skale Venom"/>.
-- Provides a massive amount of CC by sharing <Skill name="Basilisk Venom"/>.
-- Has high mobility with many blinks, portals and <Effect name="Stealth"/>, great for skips and completing T4s fast.
-
-<BuildLink build="Condi Deadeye" specialization="Deadeye"/>
 </Tab>
 </Tabs>
 
