@@ -23,7 +23,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-04-16T11:44:56.102Z
+date: 2022-04-16T19:46:01.418Z
 ---
 
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
@@ -512,19 +512,25 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Card title="Extra Weapons">
 
 <Advanced>
+
 - Greatswords, Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
+
 </Advanced>
 
 - For some T4 bosses with one phase or in CM kills with long phases swapping Greatsword for Sword / Focus or Pistol will result in lower burst but higher sustained DPS.
 - Focus is very useful to use in T4 fractals to pull groups of enemies with <Skill name="Temporal Curtain"/>
+
 <Advanced>
+
 - Torch for stealth, blasting and precasting
 - Staff for precasting at certain bosses.
 - Shield for blocks if you are skipping with <Specialization name="Chronomancer"/>
+
 </Advanced>
 
 </Card>
 <Traits traits1="Dueling" traits1Selected="Phantasmal Fury,Fencers Finesse,Superiority Complex" traits2="Domination" traits2Selected="Bountiful Blades,Egotism,Vicious Expression" traits3="Virtuoso" traits3Selected="Mental Focus,Phantasmal Blades,Bloodsong"/>
+
 <Card title="Situational Traits">
 
 |                                                            |                                                                         |
@@ -556,9 +562,10 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
+Swap out <Skill name="Mantra of Pain"/> before any other skill.
 
 <Beginner>
+
 |                                                              |                                                                                                                                                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <Skill name="Blade Renewal" size="big" disableText/>         | For prestacking blades before the fight                                                                                                                                                                    |
@@ -566,8 +573,8 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 | <Skill name="Signet of Humility" size="big" disableText/>    | Very high CC, can be casted while the boss is spawning in.                                                                                                                                 |
 
 
+<Divider text="CC Skills"/>
 
-<Card title="CC skills">
 
 |                                      |                       |
 | ------------------------------------ | --------------------- |
@@ -580,7 +587,7 @@ Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
 | <Skill name="Phantasmal Mage"/>      | 100 damage            |
 | <Condition name="Slow"/>             | 50 damage per second  |
 
-</Card>
+
 
 
 
