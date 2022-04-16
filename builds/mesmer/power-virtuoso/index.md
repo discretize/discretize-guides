@@ -3,20 +3,20 @@ title: Power Virtuoso
 hidden: false
 archive: false
 hasBeginner: true
-rating: good
+rating: Good
 role: Power Damage
 profession: Mesmer
 specialization: Virtuoso
 conditions:
   - Vulnerability
 boons:
-  - name: MIght
+  - name: Might
     variant: Self
     uptime: 25 Stacks - On Demand
   - name: Fury
     uptime: 100% - On Demand
     variant: Self
-code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -541,7 +541,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 You can go this Illusions variant over the Domination traitline when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small"/> as well.
 
-
 <Advanced>
 <Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
 
@@ -566,15 +565,13 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 
 <Beginner>
 
-|                                                              |                                                                                                                                                                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill name="Blade Renewal" size="big" disableText/>         | For prestacking blades before the fight                                                                                                                                                                    |
-| <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
-| <Skill name="Signet of Humility" size="big" disableText/>    | Very high CC, can be casted while the boss is spawning in.                                                                                                                                 |
-
+|                                                           |                                                            |
+| --------------------------------------------------------- | ---------------------------------------------------------- |
+| <Skill name="Blade Renewal" size="big" disableText/>      | For prestacking blades before the fight                    |
+| <Skill name="Feedback" size="big" disableText/>           | Mainly for Artsariiv to reflect Taw Shot.                  |
+| <Skill name="Signet of Humility" size="big" disableText/> | Very high CC, can be casted while the boss is spawning in. |
 
 <Divider text="CC Skills"/>
-
 
 |                                      |                       |
 | ------------------------------------ | --------------------- |
@@ -587,17 +584,13 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | <Skill name="Phantasmal Mage"/>      | 100 damage            |
 | <Condition name="Slow"/>             | 50 damage per second  |
 
-
-
-
-
 </Beginner>
 
 <Advanced>
 
 |                                                              |                                                                                                                                                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill name="Blade Renewal" size="big" disableText/>         | For prestacking blades before the fight                                                                                                                                                                    |
+| <Skill name="Blade Renewal" size="big" disableText/>         | For prestacking blades before the fight                                                                                                                                                    |
 | <Skill name="Mimic" size="big" disableText/>                 | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
 | <Skill name="Null Field" size="big" disableText/>            | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
 | <Skill name="Signet of Inspiration" size="big" disableText/> | For precasting before the boss.                                                                                                                                                            |
@@ -620,10 +613,8 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 </GridItem>
 </Grid>
 
-
 <Advanced>
 <Divider text="Details"/>
-
 
 <Grid>
 
@@ -654,8 +645,6 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 </Card>
 </GridItem>
 
-
-
 <GridItem sm="4">
 <Card title="CC skills">
 
@@ -678,7 +667,6 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 
 <Divider text="Rotation / Skill usage"/>
 
-
 <Grid>
 <GridItem xs="12" sm="7">
 
@@ -689,6 +677,7 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 **Step 1: Phantasms**
 
 We'll start off with the basic rotation for summoning Phantasms. This is the backbone of the rotation and practising this part for a bit will get you set up well for the rest of the rotation.
+
 1. Start on Greatsword and use <Skill name="Phantasmal Berserker"/>, then swap to Dagger/Sword.
 2. Use <Skill name="Phantasmal Swordsman"/> and <Skill name="Phantasmal Disenchanter"/>.
 3. Reset your cooldowns with <Skill name="Signet of the Ether"/> and cast both Phantasms again.
@@ -701,10 +690,10 @@ We'll start off with the basic rotation for summoning Phantasms. This is the bac
 **Step 2: F1 Shatter**
 
 Next, we will incorporate our F1 Shatter <Skill name="Bladesong Harmony"/>.
+
 - Use it only when you have 5 Blades stocked.
 - Use it for the first time after your initial <Skill name="PHantasmal Berserker"/>.
 - Use it off-cooldown but only with 5 Blades afterwards.
-
 
 **Step 3: Weapon Skills**
 
@@ -713,9 +702,8 @@ In Step 3, we will incorporate other Weapon Skills. We will add multiple skills 
 1. Cast <Skill name="Bladecall"/> right after swapping to Dagger/Sword.
 2. Cast <Skill name="Unstable Bladestorm"/> right before your Heal Signet.
 3. Use both skills off-cooldown afterwards until you swap to Greatsword.
-4. Cast  <Skill name="Mirror Blade"/> and <Skill name="Mind Stab"/> right after <Skill name="PHantasmal Berserker"/> and use them off-cooldown until you swap back to Dagger/Sword.
+4. Cast <Skill name="Mirror Blade"/> and <Skill name="Mind Stab"/> right after <Skill name="PHantasmal Berserker"/> and use them off-cooldown until you swap back to Dagger/Sword.
 5. Repeat from Step 1.
-
 
 **Step 4: Utility Skills**
 
@@ -763,16 +751,12 @@ At the boss (prespawned bosses)
 </Advanced>
 </GridItem>
 
-
-
 <GridItem xs="12" sm="5">
 
 <Card title="Step-by-Step Video">
 
 <Video caption="by Ascers" youtube="10c1XNlXeVk"/>
 </Card>
-
-
 
 <Card title="Golem Rotation">
 
