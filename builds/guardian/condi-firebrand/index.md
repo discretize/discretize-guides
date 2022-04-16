@@ -1,18 +1,13 @@
 ---
 title: Condi (Quick) Firebrand
+hidden: false
+archive: false
+hasBeginner: true
 rating: Meta
 role: Condi Damage
 profession: Guardian
 specialization: Firebrand
 skills: []
-archive: false
-hidden: false
-hasBeginner: false
-conditions:
-  - Burning
-  - Vulnerability
-  - Crippled
-  - Bleeding
 boons:
   - name: Quickness
     uptime: 100%
@@ -23,7 +18,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-cmGuide: ''
+code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 4
@@ -32,17 +27,22 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-code: '[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-03-22T19:20:10.236Z
+date: 2022-04-16T09:13:43.199Z
+conditions:
+  - Burning
+  - Vulnerability
+  - Crippled
+  - Bleeding
+cmGuide: ""
 benchmark:
   small:
     dps: 36732
     by: TJ [SC]
     youtube: U1yYDskt3Cw
 ---
+The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide permanent <Boon name="Quickness"/> (if necessary) to the party while dealing high consistent DPS. Your tomes are by far your most important skills; they enable you to do great DPS as well as support and heal your allies. Tomes cover almost the entire toolbox of defensive capabilities such as boons like <Boon name="Stability"/>, <Boon name="Resistance"/>, but also reflects and pulls and condi cleanses. Knowing where to find these defensive skills is an important part of supporting your team as a DPS player. 
 
-The **<Specialization text="Condi Firebrand" name="Firebrand"/>** can provide permanent <Boon name="Quickness"/> (if necessary) to the party while dealing high consistent DPS. Your tomes are by far your most important skills, they enable you to do great DPS as well as support and heal your allies. Thanks to those, the build is able to adapt to various situations with <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and pulls.
-
+<Advanced>
 This build has tremendous amounts of self-sustain and is therefore also a great build for soloing content:
 
 - Permanent <Boon name="Quickness"/>.
@@ -50,9 +50,15 @@ This build has tremendous amounts of self-sustain and is therefore also a great 
 - <Skill id="41780"/> for heals.
 - <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
 - Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
+</Advanced>
 
 Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
 
+<Beginner>
+This beginner version will focus on dealing good DPS while helping out the group with some <Boon name="Quickness"/>. For the full <Boon name="Quickness"/> variant, check out the advanced guide.
+</Beginner>
+
+<Advanced>
 <Warning>
 
 There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
@@ -61,11 +67,15 @@ There are a number of different gear, utility and trait setups that allow you to
 - <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 69.8%bd
 
 </Warning>
+</Advanced>
 
 <Divider text="Equipment"/>
 
+
+
 <CharacterWithAr> 
-<Character title="Quickbrand 162ar (41.7%bd)" gear={{
+
+<Character advanced title="Quickbrand 162ar (41.7%bd)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -166,14 +176,14 @@ There are a number of different gear, utility and trait setups that allow you to
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
 
-You will want the following weapons to swap to durning fractal runs:
+You will want the following weapons to swap to during fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
 - A staff for <Boon name="Might"/> pre-stacking.
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
 </Character>
-<Character title="Quickbrand 222ar (41.7%bd)" gear={{
+<Character advanced title="Quickbrand 222ar (41.7%bd)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -273,13 +283,15 @@ You will want the following weapons to swap to durning fractal runs:
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
 
-You will want the following weapons to swap to durning fractal runs:
+You will want the following weapons to swap to during fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
 - A staff for <Boon name="Might"/> pre-stacking.
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
 </Character>
+
+
 <Character title="DPS/Quick Share" gear={{
     "profession": "Guardian",
     "weight": "Heavy",
@@ -379,32 +391,47 @@ You will want the following weapons to swap to durning fractal runs:
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
+<Advanced>
 To share quickness you will need at least two <Specialization name="Firebrand" text="Firebrands"/>. You can see the traits required in the Build Variants section further down the page.
+</Advanced>
 
-You will want the following weapons to swap to durning fractal runs:
+You will want the following weapons to swap to during fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
 - A staff for <Boon name="Might"/> pre-stacking.
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
+
 </Character>
 </CharacterWithAr>
+
+
 
 <Divider text="Build"/>
 
 <Grid>
 <GridItem sm="7">
+<Advanced>
 <Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Loremaster"/>
+</Advanced>
+<Beginner>
+<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Legendary Lore,Loremaster"/>
+</Beginner>
 
+<Advanced>
 <Warning>
 This build provides permanent <Boon name="Quickness"/>. For different variants, such as multiple DPS Firebrands or full DPS, see below.
 </Warning>
+</Advanced>
 
+<Advanced>
 <Divider text="Build Variants"/>
+
 
 <Card title="Full DPS variant">
 
 You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS by making minor adjustments to the build.
+
 
 <Grid>
 <GridItem sm="4">
@@ -416,6 +443,8 @@ You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS 
 </GridItem>
 </Grid>
 </Card>
+
+
 
 <Card title="Quickness Share Variant">
 
@@ -432,14 +461,19 @@ This build assumes you are playing in a comp with multiple <Specialization name=
 </Grid>
 </Card>
 
+
 <Card title="Solo variant">
 
 If your are playing solo you can swap Virtues trait line with Zeal and run <Skill name="swordofjustice"/>. This will help you to maintain <Boon name="Might"/> on yourself and <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
 
 </Card>
+</Advanced>
 </GridItem>
 
+
+
 <GridItem sm="5">
+<Advanced>
 <Card title="Situational Skills">
 
 |                                                         |                                                                                                                          |
@@ -459,6 +493,8 @@ If your are playing solo you can swap Virtues trait line with Zeal and run <Skil
 | <Skill name="Mantra of lore" size="big" disableText/>   | Cleanses multiple conditions thanks to charges.                                                                          |
 
 </Card>
+</Advanced>
+
 <Card title="Defiance Bar Damage">
 
 |                                                                                    |                                                                                |
@@ -474,6 +510,7 @@ If your are playing solo you can swap Virtues trait line with Zeal and run <Skil
 </GridItem>
 </Grid>
 
+<Advanced>
 <Divider text="Details"/>
 
 To keep up <Boon name="Quickness"/>:
@@ -509,8 +546,10 @@ The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are grea
 - There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
 - You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example a 2nd reflect. However only do this when absolutely needed as you will not have access to the boons and healing your weapon skills provide.
 
-<Divider text="Rotation / Skill usage"/>
+</Advanced>
 
+<Divider text="Rotation / Skill usage"/>
+<Advanced>
 <Grid>
 <GridItem sm="6">
 <Card title="Rotation">
@@ -574,3 +613,41 @@ On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrat
 </Card>
 </GridItem>
 </Grid>
+</Advanced>
+
+<Beginner>
+
+**Step 1: Quickness**
+
+- Use 1 charge of <Skill name="Mantra of Solace"/> and all charges of <Skill name="Mantra of Potence"/>.
+- Whenever a charge comes back, use both Mantras once again. Keep <Skill name="Mantra of Potence"/> at 0 charges and <Skill name="Mantra of Solace"/> at 2 charges for when you need healing. You can cast these while casting other skills as they are instant-casts.
+- Use <Skill name="Feel My Wrath"/> off-cooldown.
+Note: Using <Skill name="Mantra of Solace"/> more often than every 7 seconds will not result in more <Boon name="Quickness"/> due to the cooldown of <Trait name="Liberator's Vow"/>.
+
+**Step 2: Basic Skills**
+
+Start by using the following 3 skills off-cooldown in this order of priority:
+1. <Skill name="Purging Flames"/>
+2. <Skill name="Symbol of Vengeance"/>
+3. <Skill name="Blazing Edge"/> 
+
+**Step 3: F1 Tome**
+
+Whenever your <Skill name="Tome of Justice"/> is up, enter it and do the following rotation:
+1. <TomeSkill name="Chapter 2: Ignite Burst"/>
+2. <TomeSkill name="Chapter 4: Scorched Aftermath"/>
+3. <TomeSkill name="Epilogue: Ashes of the Just"/>
+4. <TomeSkill name="Chapter 1: Searing Spell"/>
+5. <TomeSkill name="Chapter 2: Ignite Burst"/>
+
+**Step 4: Torch 4**
+
+Lastly, add <Skill name="Zealots Flame"/> to your rotation.
+
+- If you press <Skill name="Zealots Flame"/>, you will gain a stack of <Skill name="Zealots Fire"/> that you can throw at your enemy.
+- <Trait name="Radiant fire"/> will give you an additional <Skill name="Zealots Fire"/> every 10 seconds.
+- Once you have 2 charges, throw both of them.
+
+Note: Unless you execute the rotation perfectly, this will eventually de-sync. Once this happens, just use both the <Skill name="Zealots Fire"/> you get from <Trait name="Radiant fire"/> and <Skill name="Zealots Flame"/> off-cooldown.
+
+</Beginner>
