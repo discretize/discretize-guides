@@ -1,6 +1,6 @@
 ---
 title: Building an Effective Comp
-date: 2022-04-16T22:55:00.442Z
+date: 2022-04-16T22:55:27.525Z
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
 ---
@@ -61,7 +61,7 @@ Although both condition and power builds preform great in PuGs, it is recommende
 </Tab>
 </Tabs>
 
-## What are the differences between the meta and how PuGs play?
+## What are the differences between the organized groups and how PuGs play?
 
 One of the biggest difference is, that they don't always understand how their actions translate into the game. Learning to do the mechanics correctly, flawlessly, and reliably is - in the beginning - the most important task. PuGs assume the worst usually, so one player in the party is a healer instead.
 
