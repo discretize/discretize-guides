@@ -1,5 +1,5 @@
 ---
-title: Fractal Basics
+title: New Player Guide
 date: 2022-04-04T10:01:57.062Z
 image: ./images/lobby.jpg
 description: A beginners guide to being successful in fractals.
