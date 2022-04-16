@@ -32,7 +32,7 @@ Starting atlevel 20, players need to deal with <Effect name="Agony"/> which requ
 
 <Warning>
 
-Be aware of <Effect name="Agony"/>; it reduces your healing by 70% per stack. Never use your heal skill while you are under the effect of <Effect name="Agony"/>.
+Be aware of <Effect name="Agony"/>; it reduces your healing and barriers by 70% per stack. Never use your heal skill while you are under the effect of <Effect name="Agony"/>.
 
 </Warning>
 
@@ -81,6 +81,8 @@ The fractal specific potions influence the way builds are designed. Each of them
 | <Item id="76150"/> | <Attribute name="Toughness"/>     | 243 <Attribute name="Toughness"/>                                               |
 | <Item id="75427"/> | <Attribute name="Concentration"/> | 243 <Attribute name="Concentration"/> = 16.2% <Attribute name="Boon Duration"/> |
 
+These potions are invaluable and later on starting at T3 or T4 highly recommended to use as the fractals get harder. Hover over the items to read about the other effects of each potion. Keep in mind, that each large potion stacks up to three times.
+
 ---
 
 ## Navigating the Discretize website
@@ -118,7 +120,7 @@ Learn more about your character and what you can bring to a group by reading [Wh
 
 | Tier | max. required <Attribute name="Agony Resistance"/> | Instabilities | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ---- | -------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | 17                                                 | 0             | This tier is meant as an introduction to fractals. Mechanics and incoming damage are very forgiving. Group DPS requirements are low.                                                                                                                                                                                                                                                                                                                                         |
+| 1    | 17                                                 | 0             | This tier is meant as an introduction to fractals. Mechanics and incoming damage are very forgiving. Group DPS requirements are low. The only recommendation is to have at least full exotic gear.                                                                                                                                                                                                                                                                           |
 | 2    | 61                                                 | 1             | Tier 2 fractals should be played in a full party of 5. The mechanics hit slightly harder, and bosses and mobs have increased health, requiring more DPS to effectively clear. The party begins to encounter mistlock instabilities and <Effect name="Agony"/>.                                                                                                                                                                                                               |
 | 3    | 106                                                | 2             | Tier 3 fractals introduce 2 mistlock instabilities at once, while also increasing the damage from mobs and number of mechanics. The mechanics are less forgiving, and the group will need higher DPS to effectively clear. When starting in tier 3 fractals you are expected to have some knowledge about your class and how fractals work. You will no doubt start learning more advanced tactics and how to adapt to more demanding encounters here, preparing you for T4. |
 | 4    | 150                                                | 3             | When running tier 4 fractals you should be confident with your both your class and the mechanics of the fractal. T4 groups will expect you to play your part and adapt to help the group however possible. Key boons become a requirement to effectively clear the content. Running with optimal utility and food as well as fractal potions (<Item id="71659" disableText/>, <Item id="76150" disableText/>, <Item id="75427" disableText/>) is expected.                   |
