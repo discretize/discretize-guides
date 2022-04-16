@@ -1,6 +1,6 @@
 ---
 title: Building an Effective Comp
-date: 2022-04-16T22:52:04.578Z
+date: 2022-04-16T22:55:00.442Z
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
 ---
@@ -69,7 +69,7 @@ Another difference is that PuGs often claim, that CC is solely the job of the <S
 
 Many PuGs like to play <Specialization name="Firebrand"/> or <Specialization name="Scourge"/>. That is just fine as you don't know what to expect of your fellow PuG mates and you prefer to be self-sufficient. But please don't be afraid to run more supportive skills such as <Skill name="Sanctuary"/> or <Skill name="Spectral Grasp"/>! It is more worth it than the +500 DPS you gain from having a minor dps utility instead.
 
-## What is the current fractal meta?
+## What are strong comps for organised groups?
 
 <Warning>
 It is important to note, that each challenge mote encounter has a different most effective tactic available (meta), which is often different to the proposed compositions below. Discretize focuses on clearing daily fractals efficiently, and the proposed compositions brings enough utility to deal with all situations that are occurring in fractals without needing to relog to another character. 
