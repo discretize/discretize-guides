@@ -1,6 +1,6 @@
 ---
 title: Building an Effective Comp
-date: 2022-04-16T22:55:27.525Z
+date: 2022-04-17T22:11:53.071Z
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
 ---
@@ -77,7 +77,7 @@ It is important to note, that each challenge mote encounter has a different most
 
 With the May 11th 2021 balance patch came a huge shake up to the fractal META due to the <Effect name="Exposed"/> change. Instead of being a 50% damage modifier, it was nerfed to 30% power and buffed to 100% condi damage. This has led to condition builds becoming competitive with power builds on many fractals. This has led to a massive shake up of the fractal META and a big split between daily run comps and boss kill comps. For individual bosses power still shines and in most cases can get much faster kills than condi comps can (apart from Ensolyss and 100CM), but for full runs due to the minimal time needed to precast, ease of the comp and the fact it gets similar if not faster times to power runs, for most groups condi comps tend to be a safer pick.
 
-With this in mind we have two comps we use for our runs. A <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Soulbeast,Specter" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Sun Spirit/CC/DPS,Venoms/CC/DPS" size="small"/> comp for runs where people want to get in and out asap with minimal effort. And a <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/> comp for days when groups want to get some faster boss kills requiring more co-ordination.
+With this in mind we have two comps we use for our runs. A <Composition name="Daily Condi" composition="Renegade,Firebrand,Firebrand,Specter, DPS" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Venoms/CC/DPS, Any DPS" size="small"/> comp for runs where people want to get in and out asap with minimal effort. And a <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/> comp for days when groups want to get some faster boss kills requiring more co-ordination.
 
 <Warning>
 For groups such as PuGs or statics less focused on optimal strats and comps the meta changes entirely. To find out more information about what changes scroll down to the bottom of the page.
@@ -123,13 +123,9 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 
 <Tab title="DPS">
 
-- Deals high damage, especially on encounters with longer phases such as Ensloyss and 100CM.
-- Provides strong party DPS boosts through <Skill name="vulture stance"/> while also helping with <Boon name="Might"/> generation.
-- Provides a unique damage modifier with <Skill name="sun spirit"/>
-- Can bring <Skill name="Moa Stance"/> allowing your <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> to play a very offensive build with minimal boon duration.
-- Brings a good amount of CC with <Skill name="Concussion Shot"/> and <Skill id="46432"/>.
+- Currently bulds such as <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>, <BuildLink build="Condi Virtuoso" specialization="Virtuoso"/>, <BuildLink build="Condi Harbinger" specialization="Harbinger"/>, <BuildLink build="Power Holosmith" specialization="Holosmith"/> (with <Trait name="Pinpoint Distribution"/>) are all strong choices.
+- In reality any build (power or condi) works providing it can help meet the concepts listed at the top of the page.
 
-<BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>
 </Tab>
 </Tabs>
 
