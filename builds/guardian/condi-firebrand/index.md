@@ -27,7 +27,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-date: 2022-04-16T23:21:08.876Z
+date: 2022-04-17T07:13:00.749Z
 conditions:
   - Burning
   - Vulnerability
@@ -481,24 +481,24 @@ You will want the following weapons to swap to during fractal runs:
   "runeId": 83338,
   "runeName": "Firebrand",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    37130,
+    37130
   ],
   "weapons": {
     "weapon1MainType": "Axe",
@@ -511,7 +511,8 @@ You will want the following weapons to swap to during fractal runs:
   },
   "consumables": {
     "foodId": 97767,
-    "utilityId": 48916
+    "utilityId": 48916,
+    "infusion": "Malign +9 Agony Infusion"
   },
   "skills": {
     "healId": 41714,
