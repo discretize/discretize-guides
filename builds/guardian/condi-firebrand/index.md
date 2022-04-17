@@ -27,7 +27,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-date: 2022-04-17T16:53:18.896Z
+date: 2022-04-17T19:24:30.425Z
 conditions:
   - Burning
   - Vulnerability
@@ -45,11 +45,17 @@ benchmark:
 
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** is a self-sufficient DPS build, which is not entirely relying on support from the party. This is achieved by bringing slightly more than 50% <Boon name="Quickness" /> to the party. Don't be fooled though; the DPS sacrifice is neglectible so that the <Specialization text="Condi Firebrand" name="Firebrand"/> maintains consistent very high DPS. In addition to that, a free utility slot allows the <Specialization text="Condi Firebrand" name="Firebrand"/> to adapt to almost any situation and fill the parties needs ideally.
 
-The beginner version should not be played in the slot of a <Boon name="Quickness" />-provider. Instead, it is a fully fledged DPS class! The added <Boon name="Quickness" /> will help to cover potential gaps in <Boon name="Quickness"/> application and alleviate some of stress the <Boon name="Quickness" />-provider might face. Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend to get started with this build - even though it might be suboptimal while being in Tier 1 or 2 fractals and keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning it is much more important to learn about fractal mechanics and your skills rather than have optimal gear.
+The beginner version should not be played in the slot of a <Boon name="Quickness" />-provider. Instead, it is a fully fledged DPS class! The added <Boon name="Quickness" /> will help to cover potential gaps in <Boon name="Quickness"/> application and alleviate some of stress the <Boon name="Quickness" />-provider might face. 
 
 This is a great build to get started in fractals as you provide a base amount of supportive utilty. As you progress through fractals and discover new depths of the immersive gameplay of Guild Wars 2, you can tweak this build more and more. Before reading the advanced version of this page, we recommend to acquire an in depth understanding of your CC skills and when to use them efficiently. You also should be able to hit more than 45% <Boon name="Quickness"/> uptime (measure this with the [arc-dps](https://www.deltaconnected.com/arcdps/) boon table [addon](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
 
 The advanced page provides a more complete overview over all the utility the <Specialization name="Guardian"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
+
+<Information>
+
+Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend to get started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+
+</Information>
 
 </Beginner>
 
