@@ -23,7 +23,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-04-17T10:11:56.655Z
+date: 2022-04-17T13:32:33.766Z
 ---
 <Advanced>
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
@@ -726,6 +726,19 @@ Lastly, we will add the remaining Utility Skills to the rotation.
 - Cast <Skill name="Mantra of Pain"/> off-cooldown as well. This skill is an instant-cast and can therefore be used while casting other skills.
 
 </Card>
+
+<Card title="Improving Further">
+Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
+
+There will be a few additional things on the advanced page to improve further but if you got to here, you already know the most important things and these will have less total impact that what you learned so far.
+
+The additional steps are:
+
+- Use other Shatter skills (F2/F3) for extra damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to always have 5 Blades back for when your <Skill name="Bladesong Harmony"/> comes back.
+- Precast additional skills before the encounter starts to get a bigger spike of damage at the start of the fight.
+
+</Card>
+
 </Beginner>
 
 <Advanced>
