@@ -27,7 +27,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-date: 2022-04-17T07:13:00.749Z
+date: 2022-04-17T13:46:42.599Z
 conditions:
   - Burning
   - Vulnerability
@@ -698,9 +698,10 @@ The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are grea
 </Advanced>
 
 <Divider text="Rotation / Skill usage"/>
-<Advanced>
 <Grid>
-<GridItem sm="6">
+<GridItem sm="7">
+
+<Advanced>
 <Card title="Rotation">
 
 <Warning>
@@ -734,37 +735,10 @@ Starting on Axe:
 
 When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 </Card>
-</GridItem>
-
-<GridItem sm="6">
-<Card title="Golem rotation">
-
-<Video youtube="XbbfgCUGwlY" caption="by Frenzy"/>
-</Card>
-
-<Card title="Precasting">
-
-<Warning>
-
-The most important part is to get the precast of Ashes of the Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
-</Warning>
-
-1.  Use <Skill name="hallowedground"/>
-2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
-3.  While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
-4.  Use <Skill name="Feelmywrath"/>
-5.  Open <Skill id="44364"/> and use <TomeSkill name="Epilogue: Ashes of the Just"/>
-6.  Take the _Mistlock Singularity_
-7.  Use <Skill name="Feelmywrath"/> again
-
-On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrath"/> for <Skill name="Renewed Focus"/>:
-
-</Card>
-</GridItem>
-</Grid>
 </Advanced>
 
 <Beginner>
+<Card title="Step-by-Step Rotation">
 
 **Step 1: Quickness**
 
@@ -801,4 +775,40 @@ Lastly, add <Skill name="Zealots Flame"/> to your rotation.
 
 Note: Unless you execute the rotation perfectly, this will eventually de-sync. Once this happens, just use both the <Skill name="Zealots Fire"/> you get from <Trait name="Radiant fire"/> and <Skill name="Zealots Flame"/> off-cooldown.
 
+</Card>
 </Beginner>
+
+
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Golem rotation">
+
+<Video youtube="XbbfgCUGwlY" caption="by Frenzy"/>
+</Card>
+
+<Advanced>
+<Card title="Precasting">
+
+<Warning>
+
+The most important part is to get the precast of Ashes of the Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
+</Warning>
+
+1.  Use <Skill name="hallowedground"/>
+2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
+3.  While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+4.  Use <Skill name="Feelmywrath"/>
+5.  Open <Skill id="44364"/> and use <TomeSkill name="Epilogue: Ashes of the Just"/>
+6.  Take the _Mistlock Singularity_
+7.  Use <Skill name="Feelmywrath"/> again
+
+On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrath"/> for <Skill name="Renewed Focus"/>:
+
+</Card>
+</Advanced>
+
+</GridItem>
+</Grid>
+
+
