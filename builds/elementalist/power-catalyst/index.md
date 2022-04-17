@@ -1,30 +1,27 @@
 ---
+title: Power (Quick) Catalyst
+hidden: false
+archive: true
+rating: Good
+role: Power Damage
+profession: Elementalist
+specialization: Catalyst
+conditions:
+  - Burning
+  - Chilled
+  - Vulnerability
+boons:
+  - name: Quickness
+    uptime: 100%
+    variant: group
+code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 3
   - 3
   - 3
   - 3
-boons:
-  - name: Quickness
-    uptime: 100%
-    variant: group
-  - name: Might
-    uptime: null
-    variant: party
-title: Power (Quick) Catalyst
-hidden: false
-archive: true
-rating: Good
-profession: Elementalist
-specialization: Catalyst
-code: '[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-03-20T16:36:08.287Z
-role: Power Damage
-conditions:
-  - Burning
-  - Chilled
-  - Vulnerability
+date: 2022-04-17T07:25:00.287Z
 ---
 
 <Warning>
@@ -33,16 +30,19 @@ This build guide is not complete, gear and sections may change regularly as we e
 
 </Warning>
 
-The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides <Boon name="Quickness"/>, conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
+The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and blasting fire fields. It can also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
+This build has less burst than the <Specialization text="Power Weaver" name="Weaver"/> but offers some extra utility through the boons your Jade Spheres provide.
 
-This build has one of the most harder rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+Unfortunately, the survivability of this build is on the lower end. It has some defensive utility in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, however, you will use them during your normal rotation and not always be in the correct attunement when you need the defense, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
+
+This build has one of the harder rotations in the game but is very enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>
-<Character title="162 Agony Resistance" gear={{
+
+<Character title="DPS - 162 AR" gear={{
   "profession": "Elementalist",
   "weight": "Light",
   "gear": [
@@ -50,7 +50,6 @@ This build has one of the most harder rotations in game which makes it enjoyable
     "Berserker",
     "Berserker",
     "Berserker",
-    "Dragon",
     "Berserker",
     "Berserker",
     "Berserker",
@@ -62,13 +61,13 @@ This build has one of the most harder rotations in game which makes it enjoyable
     "Berserker"
   ],
   "attributes": {
-    "Health": 14175,
+    "Health": 16465,
     "Armor": 2410,
-    "Power": 4434,
-    "Precision": 2669,
+    "Power": 4316,
+    "Precision": 2595,
     "Toughness": 1443,
-    "Vitality": 1253,
-    "Ferocity": 2188,
+    "Vitality": 1482,
+    "Ferocity": 2171,
     "Condition Damage": 750,
     "Expertise": 0,
     "Concentration": 243,
@@ -76,8 +75,8 @@ This build has one of the most harder rotations in game which makes it enjoyable
     "Agony Resistance": 162,
     "Condition Duration": 0,
     "Boon Duration": 0.162,
-    "Critical Chance": 1.1147619047619048,
-    "Critical Damage": 2.958666666666667,
+    "Critical Chance": 1.1095238095238096,
+    "Critical Damage": 2.947333333333333,
     "Power Coefficient": 3804,
     "Burning Coefficient": 6.67,
     "Bleeding Coefficient": 5.78,
@@ -86,26 +85,28 @@ This build has one of the most harder rotations in game which makes it enjoyable
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Burning Duration": 0.2,
-    "Effective Power": 38445.32192049862,
-    "Power DPS": 56313.4403487011,
-    "Bleeding Damage": 118.38816773437502,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 41575.06501475929,
+    "Power DPS": 60897.78487337094,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 120.0289715625,
     "Bleeding Stacks": 5.78,
-    "Bleeding DPS": 684.2836095046877,
-    "Burning Damage": 436.8876786914063,
+    "Bleeding DPS": 693.7674556312501,
+    "Burning Damage": 442.942734609375,
     "Burning Stacks": 8.004,
-    "Burning DPS": 3496.848980246016,
-    "Confusion Damage": 145.86482457421877,
+    "Burning DPS": 3545.3136478134375,
+    "Confusion Damage": 147.886441828125,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 138.70852488281253,
+    "Poison Damage": 140.63095921875,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 175.46186650781252,
+    "Torment Damage": 177.89368471875,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 60494.572938451805,
-    "Effective Health": 67983582.08955225,
-    "Survivability": 34562.06511924365,
+    "Damage": 65276.61597681563,
+    "Effective Health": 87740519.62410171,
+    "Survivability": 44606.263154093394,
     "Effective Healing": 390,
     "Healing": 390
   },
@@ -134,30 +135,540 @@ This build has one of the most harder rotations in game which makes it enjoyable
   "weapons": {
     "weapon1MainType": "Hammer",
     "weapon1MainSigil1Id": 24615,
-    "weapon1MainSigil2Id": 24868
+    "weapon1MainSigil2Id": 24868,
+    "weapon2MainSigil2Id": 24868
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 9443,
-    "infusion": "Mighty +9 Agony Infusion"
+    "utilityId": 50082
   },
   "skills": {
-    "healId": 62827,
-    "utility1Id": 5734,
+    "healId": 5503,
+    "utility1Id": 62965,
     "utility2Id": 62698,
-    "utility3Id": 62965,
+    "utility3Id": 5734,
     "eliteId": 5516
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
-}}>
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "frostSpirit",
+      "gw2id": 12497,
+      "type": "Skill"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}} >
 
-Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
+This is the default setup for the full DPS variant of the build. Gear does not change with higher AR, <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/>.
 
-The stat selection will not change with higher AR / <Trait name="Spotter"/> / <Skill name="Banner of Discipline"/>.
+You can swap some Berserker pieces to Dragon for a minor DPS loss (as long as you still reach crit-cap).
 
-If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specialist"/>, you can use the gear below. However, due to the conversion from <Attribute name="Agony Resistance"/> to <Attribute name="Concentration"/> it is more dps increase to play <Trait name="Empowered Empowerment"/> and use diviner gear to make up boon duration.
+Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name="Elemental Empowerment"/>.
 
 </Character>
+
+
+<Character title="Quick - 162 AR" gear={{
+  "profession": "Elementalist",
+  "weight": "Light",
+  "gear": [
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 15235,
+    "Armor": 2310,
+    "Power": 3983,
+    "Precision": 2406,
+    "Toughness": 1343,
+    "Vitality": 1359,
+    "Ferocity": 1946,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 582,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.38799999999999996,
+    "Critical Chance": 1.0195238095238095,
+    "Critical Damage": 2.7973333333333334,
+    "Power Coefficient": 3804,
+    "Burning Coefficient": 6.67,
+    "Bleeding Coefficient": 5.78,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Burning Duration": 0.2,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 36414.702989402,
+    "Power DPS": 53339.05666988264,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 120.0289715625,
+    "Bleeding Stacks": 5.78,
+    "Bleeding DPS": 693.7674556312501,
+    "Burning Damage": 442.942734609375,
+    "Burning Stacks": 8.004,
+    "Burning DPS": 3545.3136478134375,
+    "Confusion Damage": 147.886441828125,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 140.63095921875,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 177.89368471875,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 57717.887773327326,
+    "Effective Health": 77817247.09784412,
+    "Survivability": 39561.386424933466,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Hammer",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1MainSigil2Id": 24868,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 50082
+  },
+  "skills": {
+    "healId": 5503,
+    "utility1Id": 62965,
+    "utility2Id": 62698,
+    "utility3Id": 5734,
+    "eliteId": 5516
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "spotter",
+      "gw2id": 1016,
+      "type": "Trait"
+    },
+    {
+      "id": "frostSpirit",
+      "gw2id": 12497,
+      "type": "Skill"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}} >
+
+This version assumes that you have either <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/>. If you have neither, use <Item name="Bowl of Curry Butternut Squash Soup"/> or swap your Shoulders and 1 Ring from Berserker to Assassin.
+
+You can swap some Berserker pieces to Dragon for a minor DPS loss (as long as you still reach crit-cap).
+
+The build aims for 38% boon duration which is enough to upkeep <Boon name="Quickness"/> while playing with <Trait name="Sphere Specialist"/>, given everyone stands in your <Skill id="62940"/> for its full duration every time you cast it. If you want to use more or less boon duration and still crit-cap, use the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name="Elemental Empowerment"/>.
+
+</Character>
+
+
+<Character title="Quick - 222 AR" gear={{
+  "profession": "Elementalist",
+  "weight": "Light",
+  "gear": [
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 15235,
+    "Armor": 2400,
+    "Power": 4002,
+    "Precision": 2422,
+    "Toughness": 1433,
+    "Vitality": 1359,
+    "Ferocity": 1974,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 570,
+    "Healing Power": 0,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.38,
+    "Critical Chance": 1.0271428571428571,
+    "Critical Damage": 2.816,
+    "Power Coefficient": 3804,
+    "Burning Coefficient": 6.67,
+    "Bleeding Coefficient": 5.78,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Burning Duration": 0.2,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 36832.56635743561,
+    "Power DPS": 53951.129158138254,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 120.0289715625,
+    "Bleeding Stacks": 5.78,
+    "Bleeding DPS": 693.7674556312501,
+    "Burning Damage": 442.942734609375,
+    "Burning Stacks": 8.004,
+    "Burning DPS": 3545.3136478134375,
+    "Confusion Damage": 147.886441828125,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 140.63095921875,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 177.89368471875,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 58329.96026158294,
+    "Effective Health": 80849087.89386402,
+    "Survivability": 41102.739142788014,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Hammer",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1MainSigil2Id": 24868,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 50082
+  },
+  "skills": {
+    "healId": 5503,
+    "utility1Id": 62965,
+    "utility2Id": 62698,
+    "utility3Id": 5734,
+    "eliteId": 5516
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "frostSpirit",
+      "gw2id": 12497,
+      "type": "Skill"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}} >
+
+This version assumes neither <Trait name="Spotter"/> nor <Skill name="Banner of Discipline"/>. If you have one of them, the gear stays the same.
+
+You can swap some Berserker pieces to Dragon for a minor DPS loss (as long as you still reach crit-cap).
+
+The build aims for 38% boon duration which is enough to upkeep <Boon name="Quickness"/> while playing with <Trait name="Sphere Specialist"/>, given everyone stands in your <Skill id="62940"/> for its full duration every time you cast it. If you want to use more or less boon duration and still crit-cap, use the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name="Elemental Empowerment"/>.
+
+</Character>
+
+
+<Character title="Arcane - 162 AR" gear={{
+  "profession": "Elementalist",
+  "weight": "Light",
+  "gear": [
+    "Diviner",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 15235,
+    "Armor": 2400,
+    "Power": 3762,
+    "Precision": 2472,
+    "Toughness": 1433,
+    "Vitality": 1359,
+    "Ferocity": 2028,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 572,
+    "Healing Power": 0,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.3813333333333333,
+    "Critical Chance": 1.0509523809523809,
+    "Critical Damage": 2.852,
+    "Power Coefficient": 3804,
+    "Burning Coefficient": 6.67,
+    "Bleeding Coefficient": 5.78,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 34251.096111938925,
+    "Power DPS": 50169.876630656785,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 120.0289715625,
+    "Bleeding Stacks": 5.78,
+    "Bleeding DPS": 693.7674556312501,
+    "Burning Damage": 442.942734609375,
+    "Burning Stacks": 6.67,
+    "Burning DPS": 2954.428039844531,
+    "Confusion Damage": 147.886441828125,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 140.63095921875,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 177.89368471875,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 53957.82212613257,
+    "Effective Health": 80849087.89386402,
+    "Survivability": 41102.739142788014,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Hammer",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1MainSigil2Id": 24868,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 50082
+  },
+  "skills": {
+    "healId": 5503,
+    "utility1Id": 62965,
+    "utility2Id": 62698,
+    "utility3Id": 5734,
+    "eliteId": 5516
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "frostSpirit",
+      "gw2id": 12497,
+      "type": "Skill"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "assassinsPresence",
+      "gw2id": 1786,
+      "type": "Trait"
+    }
+  ]
+}} >
+
+If you are running Arcane instead of Fire, you can take this setup to reach 38% boon duration due to the extra free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. At 198 or more Agony Resistance, you can run full Berserker.
+
+This version assumes neither <Trait name="Spotter"/> nor <Skill name="Banner of Discipline"/>. If you have one of them, the gear stays the same.
+
+You can swap some Berserker pieces to Dragon for a minor DPS loss (as long as you still reach crit-cap).
+
+The build aims for 38% boon duration which is enough to upkeep <Boon name="Quickness"/> while playing with <Trait name="Sphere Specialist"/>, given everyone stands in your <Skill id="62940"/> for its full duration every time you cast it. If you want to use more or less boon duration and still crit-cap, use the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name="Elemental Empowerment"/>.
+
+</Character>
+
 </CharacterWithAr>
 
 <Divider text="Build"/>
@@ -170,11 +681,21 @@ If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specia
 
 <Card title="Situational Traits">
 
+
 |                                                     |                                                                                                                                                                   |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Fresh Air" size="big" disableText/>    | Will have a greater burst if playing <Specialization name="Catalyst" text="Quick Catalyst"/>                                                                      |
 | <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="endlesschoyapiatatonic"/>. |
+| <Trait name="Sphere Specialist" size="big" disableText/> | Use this if you are responsible for providing <Boon name="Quickness"/>.                                                                                |
+| <Trait name="Spectacular Sphere" size="big" disableText/> | If your group has absolutely no <Boon name="Might"/> from other sources, you can also run this to provide extra <Boon name="Might"/> as well as <Boon name="Fury"/>. However, this comes at a significant DPS loss of around 10%.                                                                                |
+
+<Traits unembossed traits1="Arcane" traits1Selected="Arcane Precision, Final Shielding, Bountiful Power"/>
+On the Quickness variant, you can run Arcane instead of Fire. This will trade in some damage for extra uptime on other boons such as <Boon name="Might"/> or <Boon name="Swiftness"/>. This also gives you some free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. You can either adjust your gear accordingly, or run the same gear setup and enjoy the higher boon duration, making upkeeping boons easier.
+
+|                                                     |                                                                                                                                                                   |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Arcane Resurrection" size="big" disableText/> | When running Arcane, you can use this for some group rezzing ability. You will trade in some personal defense from <Trait name="Final Shielding"/>.                                                                                |
+
 
 </Card>
 
@@ -213,7 +734,8 @@ If you want to provide <Boon name="Quickness"/> using <Trait name="Sphere Specia
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Heal                                                            |                                                                                                                                                                                                                                                                                                                                            |
 | <Skill name="Arcane Brilliance" size="big" disableText/>        | Take it for additional <Boon name="Might"/> from fire fields.                                                                                                                                                                                                                                                                              |
-| <Skill name="Signet of Restoration" size="big" disableText/>    | Helps with keeping up <Item name="scholar"/> when burst heal is not needed.                                                                                                                                                                                                                                                                |
+| <Skill name="Soothing Water" size="big" disableText/>    | Strong heal over time         and condi cleanse.                                                                                                                                                                                                                                                     |
+| <Skill name="Glyph of Elemental Harmony" size="big" disableText/>    | Strong burst heal.                                                                                                                                                                                                                                                     |
 | Offensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
 | <Skill name="Conjure Lightning Hammer" size="big" disableText/> | Good on larger hitboxes and fast phase times instead of <Skill name="Shattering Ice"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                           |
 | <Skill name="Conjure Frostbow" size="big" disableText/>         | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.                                                                                                                                                                                                                                                |
@@ -250,13 +772,19 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 
 If a _Mistlock Singularity_ is present you should precast boons and particular effects for better group performance.
 
-- Start on <Skill id="5492"/> and cast <Skill id="63458"/> to provide a fire field.
-- Blast it using <Skill name="Molten End"/>, then attune to <Skill id="5495"/> and cast <Skill name="Ground Pound"/>, then attune to <Skill id="5494"/> and cast <Skill name="Shock Blast"/>.
-- Precast <Skill id="5506"/> and <Skill id="5635"/>, and swap back to your regular utility skills
-- Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5492"/>.
-- Take the _Mistlock Singularity_.
+Which precasts you can do will rely on the amount of energy you have before taking the _Mistlock Singularity_. Prioritize precasting the Jade Sphere in <Skill name="Air Attunement"/> if you only have 10 energy as firefields can be provided by other skills.
+
+1. Start on <Skill id="5492"/> and cast <Skill id="63458"/> to provide a fire field. Alternatively, use an off-hand Dagger to provide a fire field with <Skill name="Ring of Fire"/>.
+2. Blast it using <Skill name="Molten End"/>.
+3. If you started with full energy, you can swap to <Skill name="Water Attunement"/> and use <Skill id="62723"/> to prolong the duration of <Skill name="Shattering Ice"/>.
+4. Attune to <Skill id="5495"/> and cast <Skill name="Ground Pound"/>.
+5. Attune to <Skill id="5494"/> and cast <Skill name="Shock Blast"/>. If you
+6. Precast <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. You can also precast <Skill id="5635"/> and then swap back to your regular utility skills.
+7. Cast <Skill id="5516"/>.
+8. Take the _Mistlock Singularity_.
 
 It is recommended to use separate precast templates to cast different utility and weapon skills.
+Just make sure that both templates use the same traits to not get the status reset on swap.
 
 </Card>
 
