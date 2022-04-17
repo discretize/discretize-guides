@@ -23,7 +23,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-04-17T10:11:12.099Z
+date: 2022-04-17T10:11:56.655Z
 ---
 <Advanced>
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
@@ -41,7 +41,7 @@ It can bring a decent amount of CC while offering good burst damage and great su
 
 The beginner version of the guide will focus on the most important utility options and try to teach the Greatsword version of the build step-by-step while also having notes for the Sword/Focus variant.
 
-Once you are confident with the utility options provided here, or if you ever feel something is missing, head over and check out the advanced page for some extra options like 
+Once you are confident with the utility options provided here, or if you ever feel something is missing, head over and check out the advanced page for some extra (lesss common) options.
 
 
 
