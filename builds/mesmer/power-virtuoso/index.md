@@ -23,14 +23,29 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-04-16T23:12:45.113Z
+date: 2022-04-17T10:11:12.099Z
 ---
-
-The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
+<Advanced>
+The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
 You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as Sword auto-attack chains when playing the Sword/Focus variant.
 
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
+
+</Advanced>
+
+<Beginner>
+The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
+
+It can bring a decent amount of CC while offering good burst damage and great sustained DPS, as well as being able to adapt to bring a ton of extra utility such as <Boon name="Stability"/> or a reflect from the <Specialization name="Mesmer"/> toolkit.
+
+The beginner version of the guide will focus on the most important utility options and try to teach the Greatsword version of the build step-by-step while also having notes for the Sword/Focus variant.
+
+Once you are confident with the utility options provided here, or if you ever feel something is missing, head over and check out the advanced page for some extra options like 
+
+
+
+</Beginner>
 
 <Divider text="Equipment"/>
 
@@ -579,8 +594,6 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | <Skill name="Into the Void"/>        | 150 damage            |
 | <Skill name="Signet of Humility"/>   | 600 damage            |
 | <Skill name="Illusionary Wave"/>     | 150 damage            |
-| <Skill name="Magic Bullet"/>         | 250 damage            |
-| <Skill name="Phantasmal Mage"/>      | 100 damage            |
 | <Condition name="Slow"/>             | 50 damage per second  |
 
 </Beginner>
