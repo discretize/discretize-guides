@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-15T11:47:45.198Z
+date: 2022-04-17T07:25:00.287Z
 ---
 
 <Warning>
@@ -30,11 +30,11 @@ This build guide is not complete, gear and sections may change regularly as we e
 
 </Warning>
 
-The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides Conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through Spheres and blasting fire fields. It can also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
+The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and blasting fire fields. It can also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
 This build has less burst than the <Specialization text="Power Weaver" name="Weaver"/> but offers some extra utility through the boons your Jade Spheres provide.
 
-Unfortunately this build is pretty squishy. It has some defensive utility in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, however you will use them during your normal rotation and not always be in the correct attunement when you need the defense, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
+Unfortunately, the survivability of this build is on the lower end. It has some defensive utility in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, however, you will use them during your normal rotation and not always be in the correct attunement when you need the defense, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
 
 This build has one of the harder rotations in the game but is very enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
