@@ -27,7 +27,7 @@ classification:
   - 3
 compositions:
   - name: _CRGB
-date: 2022-04-17T07:13:00.749Z
+date: 2022-04-17T19:24:30.425Z
 conditions:
   - Burning
   - Vulnerability
@@ -45,11 +45,17 @@ benchmark:
 
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** is a self-sufficient DPS build, which is not entirely relying on support from the party. This is achieved by bringing slightly more than 50% <Boon name="Quickness" /> to the party. Don't be fooled though; the DPS sacrifice is neglectible so that the <Specialization text="Condi Firebrand" name="Firebrand"/> maintains consistent very high DPS. In addition to that, a free utility slot allows the <Specialization text="Condi Firebrand" name="Firebrand"/> to adapt to almost any situation and fill the parties needs ideally.
 
-The beginner version should not be played in the slot of a <Boon name="Quickness" />-provider. Instead, it is a fully fledged DPS class! The added <Boon name="Quickness" /> will help to cover potential gaps in <Boon name="Quickness"/> application and alleviate some of stress the <Boon name="Quickness" />-provider might face.
+The beginner version should not be played in the slot of a <Boon name="Quickness" />-provider. Instead, it is a fully fledged DPS class! The added <Boon name="Quickness" /> will help to cover potential gaps in <Boon name="Quickness"/> application and alleviate some of stress the <Boon name="Quickness" />-provider might face. 
 
 This is a great build to get started in fractals as you provide a base amount of supportive utilty. As you progress through fractals and discover new depths of the immersive gameplay of Guild Wars 2, you can tweak this build more and more. Before reading the advanced version of this page, we recommend to acquire an in depth understanding of your CC skills and when to use them efficiently. You also should be able to hit more than 45% <Boon name="Quickness"/> uptime (measure this with the [arc-dps](https://www.deltaconnected.com/arcdps/) boon table [addon](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
 
 The advanced page provides a more complete overview over all the utility the <Specialization name="Guardian"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
+
+<Information>
+
+Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend to get started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+
+</Information>
 
 </Beginner>
 
@@ -698,9 +704,10 @@ The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are grea
 </Advanced>
 
 <Divider text="Rotation / Skill usage"/>
-<Advanced>
 <Grid>
-<GridItem sm="6">
+<GridItem sm="7">
+
+<Advanced>
 <Card title="Rotation">
 
 <Warning>
@@ -734,37 +741,10 @@ Starting on Axe:
 
 When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 </Card>
-</GridItem>
-
-<GridItem sm="6">
-<Card title="Golem rotation">
-
-<Video youtube="XbbfgCUGwlY" caption="by Frenzy"/>
-</Card>
-
-<Card title="Precasting">
-
-<Warning>
-
-The most important part is to get the precast of Ashes of the Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
-</Warning>
-
-1.  Use <Skill name="hallowedground"/>
-2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
-3.  While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
-4.  Use <Skill name="Feelmywrath"/>
-5.  Open <Skill id="44364"/> and use <TomeSkill name="Epilogue: Ashes of the Just"/>
-6.  Take the _Mistlock Singularity_
-7.  Use <Skill name="Feelmywrath"/> again
-
-On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrath"/> for <Skill name="Renewed Focus"/>:
-
-</Card>
-</GridItem>
-</Grid>
 </Advanced>
 
 <Beginner>
+<Card title="Step-by-Step Rotation">
 
 **Step 1: Quickness**
 
@@ -801,4 +781,40 @@ Lastly, add <Skill name="Zealots Flame"/> to your rotation.
 
 Note: Unless you execute the rotation perfectly, this will eventually de-sync. Once this happens, just use both the <Skill name="Zealots Fire"/> you get from <Trait name="Radiant fire"/> and <Skill name="Zealots Flame"/> off-cooldown.
 
+</Card>
 </Beginner>
+
+
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Golem rotation">
+
+<Video youtube="XbbfgCUGwlY" caption="by Frenzy"/>
+</Card>
+
+<Advanced>
+<Card title="Precasting">
+
+<Warning>
+
+The most important part is to get the precast of Ashes of the Just right! You have to start the fight quickly to not lose the stacks since they only last 10 seconds!
+</Warning>
+
+1.  Use <Skill name="hallowedground"/>
+2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
+3.  While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
+4.  Use <Skill name="Feelmywrath"/>
+5.  Open <Skill id="44364"/> and use <TomeSkill name="Epilogue: Ashes of the Just"/>
+6.  Take the _Mistlock Singularity_
+7.  Use <Skill name="Feelmywrath"/> again
+
+On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrath"/> for <Skill name="Renewed Focus"/>:
+
+</Card>
+</Advanced>
+
+</GridItem>
+</Grid>
+
+
