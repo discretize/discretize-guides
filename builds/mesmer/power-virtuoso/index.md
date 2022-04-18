@@ -23,7 +23,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-04-17T13:32:33.766Z
+date: 2022-04-18T10:29:38.550Z
 ---
 <Advanced>
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
@@ -787,7 +787,7 @@ This video shows the step-by-step approach to the rotation listed on the left.
 </Beginner>
 
 <Card title="Golem Rotation">
-This video shows the golem rotation for the Greatsword variant.
+This video shows the full rotation for the Greatsword variant on the golem. It will slightly vary from the step-by-step version.
 
 <Video caption="by Tipcat [CnD]" youtube="92FJUY1IKh4"/>
 </Card>
