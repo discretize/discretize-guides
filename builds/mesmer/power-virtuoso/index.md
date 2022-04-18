@@ -16,21 +16,36 @@ boons:
   - name: Fury
     uptime: 100% - On Demand
     variant: Self
-code: '[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 3
   - 4
-date: 2022-04-16T19:46:01.418Z
+date: 2022-04-18T10:29:38.550Z
 ---
+<Advanced>
+The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
-The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
-
-You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as Sword auto-attack chains when playing the Focus/Pistol variant.
+You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as Sword auto-attack chains when playing the Sword/Focus variant.
 
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
+
+</Advanced>
+
+<Beginner>
+The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
+
+It can bring a decent amount of CC while offering good burst damage and great sustained DPS, as well as being able to adapt to bring a ton of extra utility such as <Boon name="Stability"/> or a reflect from the <Specialization name="Mesmer"/> toolkit.
+
+The beginner version of the guide will focus on the most important utility options and try to teach the Greatsword version of the build step-by-step while also having notes for the Sword/Focus variant.
+
+Once you are confident with the utility options provided here, or if you ever feel something is missing, head over and check out the advanced page for some extra (lesss common) options.
+
+
+
+</Beginner>
 
 <Divider text="Equipment"/>
 
@@ -142,7 +157,7 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
     "utility1Id": 10267,
     "utility2Id": 45425,
     "utility3Id": 10211,
-    "eliteId": 24755
+    "elite": "Signet of Humility"
   },
   "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
@@ -259,7 +274,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility1Id": 10267,
     "utility2Id": 45425,
     "utility3Id": 10211,
-    "eliteId": 24755
+    "elite": "Signet of Humility"
   },
   "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
 }}>
@@ -376,7 +391,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility1Id": 10267,
     "utility2Id": 45425,
     "utility3Id": 10211,
-    "eliteId": 24755
+    "elite": "Signet of Humility"
   },
   "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
@@ -493,7 +508,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility1Id": 10267,
     "utility2Id": 45425,
     "utility3Id": 10211,
-    "eliteId": 24755
+    "elite": "Signet of Humility"
   },
   "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
 }}>
@@ -511,17 +526,15 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <GridItem sm="7">
 <Card title="Extra Weapons">
 
+
+- You can run Sword/Focus instead of Greatsword. This will result in lower burst damage but slightly higher sustained damage. Therefore, it can make sense to run this version when bosses have long phases. Above 10 seconds into the phase, they will be roughly equal, at 25 seconds, the Sword/Focus variant will pull ahead slightly.
+- If you want to run one variant on all fights, Greatsword is highly recommended.
+- Focus specifically is very useful to use in T4 fractals to pull groups of enemies together with <Skill name="Temporal Curtain"/> to cleave them down more easily.
+
 <Advanced>
 
+- You can run Pistol instead of Focus on fights with multiple enemies when deciding to run this variant as <Skill name="Phantasmal Warden"/> does not always attack your target.
 - Greatswords, Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-
-</Advanced>
-
-- For some T4 bosses with one phase or in CM kills with long phases swapping Greatsword for Sword / Focus or Pistol will result in lower burst but higher sustained DPS.
-- Focus is very useful to use in T4 fractals to pull groups of enemies with <Skill name="Temporal Curtain"/>
-
-<Advanced>
-
 - Torch for stealth, blasting and precasting
 - Staff for precasting at certain bosses.
 - Shield for blocks if you are skipping with <Specialization name="Chronomancer"/>
@@ -535,7 +548,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |                                                            |                                                                         |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------- |
-| <Trait name="Empowered Illusions" size="big" disableText/> | If you're playing with Sword / Focus (or Pistol) instead of Greatsword. |
+| <Trait name="Empowered Illusions" size="big" disableText/> | Take this trait if you're playing with Sword/Focus instead of Greatsword. |
 
 <Traits traits1="Illusions" traits1Selected="Shatter Storm,Phantasmal Haste,Phantasmal Force" unembossed/>
 
@@ -567,9 +580,10 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 
 |                                                           |                                                            |
 | --------------------------------------------------------- | ---------------------------------------------------------- |
+| <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                                            |
 | <Skill name="Blade Renewal" size="big" disableText/>      | For prestacking blades before the fight                    |
 | <Skill name="Feedback" size="big" disableText/>           | Mainly for Artsariiv to reflect Taw Shot.                  |
-| <Skill name="Signet of Humility" size="big" disableText/> | Very high CC, can be casted while the boss is spawning in. |
+| <Skill name="Thousand Cuts" size="big" disableText/> | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed. |
 
 <Divider text="CC Skills"/>
 
@@ -580,8 +594,6 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | <Skill name="Into the Void"/>        | 150 damage            |
 | <Skill name="Signet of Humility"/>   | 600 damage            |
 | <Skill name="Illusionary Wave"/>     | 150 damage            |
-| <Skill name="Magic Bullet"/>         | 250 damage            |
-| <Skill name="Phantasmal Mage"/>      | 100 damage            |
 | <Condition name="Slow"/>             | 50 damage per second  |
 
 </Beginner>
@@ -590,12 +602,13 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 
 |                                                              |                                                                                                                                                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                                            |
 | <Skill name="Blade Renewal" size="big" disableText/>         | For prestacking blades before the fight                                                                                                                                                    |
 | <Skill name="Mimic" size="big" disableText/>                 | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
 | <Skill name="Null Field" size="big" disableText/>            | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
 | <Skill name="Signet of Inspiration" size="big" disableText/> | For precasting before the boss.                                                                                                                                                            |
 | <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
-| <Skill name="Signet of Humility" size="big" disableText/>    | Very high CC, can be casted while the boss is spawning in.                                                                                                                                 |
+| <Skill name="Thousand Cuts" size="big" disableText/> | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed. |
 | **Skips**                                                    |                                                                                                                                                                                            |
 | <Skill name="Blade Leap" size="big" disableText/>            | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |
 | <Skill name="Returning Edge" size="big" disableText/>        | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                               |
@@ -713,6 +726,19 @@ Lastly, we will add the remaining Utility Skills to the rotation.
 - Cast <Skill name="Mantra of Pain"/> off-cooldown as well. This skill is an instant-cast and can therefore be used while casting other skills.
 
 </Card>
+
+<Card title="Improving Further">
+Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
+
+There will be a few additional things on the advanced page to improve further but if you got to here, you already know the most important things and these will have less total impact that what you learned so far.
+
+The additional steps are:
+
+- Use other Shatter skills (F2/F3) for extra damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to always have 5 Blades back for when your <Skill name="Bladesong Harmony"/> comes back.
+- Precast additional skills before the encounter starts to get a bigger spike of damage at the start of the fight.
+
+</Card>
+
 </Beginner>
 
 <Advanced>
@@ -753,15 +779,30 @@ At the boss (prespawned bosses)
 
 <GridItem xs="12" sm="5">
 
+<Beginner>
 <Card title="Step-by-Step Video">
-
+This video shows the step-by-step approach to the rotation listed on the left.
 <Video caption="by Ascers" youtube="10c1XNlXeVk"/>
 </Card>
+</Beginner>
 
 <Card title="Golem Rotation">
+This video shows the full rotation for the Greatsword variant on the golem. It will slightly vary from the step-by-step version.
 
 <Video caption="by Tipcat [CnD]" youtube="92FJUY1IKh4"/>
 </Card>
+
+<Beginner>
+<Card title="Sword/Focus Variant">
+
+If you are using Sword/Focus instead of Greatsword, follow the same step-by-step guide but make the follwoing changes:
+
+- Replace <Skill name="Phantasmal Berserker"/> with <Skill name="Phantasmal Warden"/>. You will only be able to cast it once each time you are on the Sword/Focus weapon set (while <Skill name="Phantasmal Berserker"/> can be casted twice per Greatsword Loop.)
+- Instead of spamming <Skill name="Mirror Blade"/> and <Skill name="Mind Stab"/> off-cooldown, use <Skill name="Blurred Frenzy"/> off-cooldown on Sword/Focus.
+- Try to finish your auto-attack chains on Sword if possible.
+
+</Card>
+</Beginner>
 
 <Advanced>
 <Card title="Opener">
