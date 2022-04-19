@@ -18,7 +18,7 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 5
   - 4
@@ -33,7 +33,7 @@ conditions:
   - Vulnerability
   - Crippled
   - Bleeding
-cmGuide: ""
+cmGuide: ''
 benchmark:
   small:
     dps: 36732
@@ -45,7 +45,7 @@ benchmark:
 
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** is a self-sufficient DPS build, which is not entirely relying on support from the party. This is achieved by bringing slightly more than 50% <Boon name="Quickness" /> to the party. Don't be fooled though; the DPS sacrifice is neglectible so that the <Specialization text="Condi Firebrand" name="Firebrand"/> maintains consistent very high DPS. In addition to that, a free utility slot allows the <Specialization text="Condi Firebrand" name="Firebrand"/> to adapt to almost any situation and fill the parties needs ideally.
 
-The beginner version should not be played in the slot of a <Boon name="Quickness" />-provider. Instead, it is a fully fledged DPS class! The added <Boon name="Quickness" /> will help to cover potential gaps in <Boon name="Quickness"/> application and alleviate some of stress the <Boon name="Quickness" />-provider might face. 
+The beginner version should not be played in the slot of a <Boon name="Quickness" />-provider. Instead, it is a fully fledged DPS class! The added <Boon name="Quickness" /> will help to cover potential gaps in <Boon name="Quickness"/> application and alleviate some of stress the <Boon name="Quickness" />-provider might face.
 
 This is a great build to get started in fractals as you provide a base amount of supportive utilty. As you progress through fractals and discover new depths of the immersive gameplay of Guild Wars 2, you can tweak this build more and more. Before reading the advanced version of this page, we recommend to acquire an in depth understanding of your CC skills and when to use them efficiently. You also should be able to hit more than 45% <Boon name="Quickness"/> uptime (measure this with the [arc-dps](https://www.deltaconnected.com/arcdps/) boon table [addon](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
 
@@ -782,8 +782,22 @@ Lastly, add <Skill name="Zealots Flame"/> to your rotation.
 Note: Unless you execute the rotation perfectly, this will eventually de-sync. Once this happens, just use both the <Skill name="Zealots Fire"/> you get from <Trait name="Radiant fire"/> and <Skill name="Zealots Flame"/> off-cooldown.
 
 </Card>
-</Beginner>
 
+<Card title="Improving Further">
+
+Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
+
+There will be a few additional things on the advanced page to improve further but if you got to here, you already know the most important things and these will have less total impact that what you learned so far.
+
+The additional steps are:
+
+- Before opening your damage tome <Skill name="Tome of Justice"/>, swap to scepter and drop a <Skill name="Symbol of Punishment"/> (Sc2).
+- Do not auto-attack while on scepter. Scepter auto-attacks are your weakest skills. Instead fill the gaps with <Skill name="Cleansing Flame"/> (Torch 5) and <Skill name="Zealots Flame"/> (Torch 4).
+- Drop a final <Skill name="Symbol of Punishment"/> before swapping back to axe.
+
+</Card>
+
+</Beginner>
 
 </GridItem>
 
@@ -816,5 +830,3 @@ On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrat
 
 </GridItem>
 </Grid>
-
-
