@@ -192,7 +192,7 @@ After crossing the green line, the fight starts. After about one second, Ai dash
 </GridItem>
 
 <GridItem xs="12" sm="5">
-<GifPlayer caption="Collect orbs to jump in white circles" url="/static/fbd66c6c78c7f9b351c639cc33ac4f92/airphase.webm"/>
+<GifPlayer caption="Collect orbs to jump in white circles" url="https://cdn.discordapp.com/attachments/964638133725577366/965870787213029416/airphase.webm" />
 </GridItem>
 
 <GridItem xs="12" sm="12">
@@ -208,7 +208,7 @@ If you do not manage to bring her to 66%, she will dash twice and get <Effect na
 <Grid>
 <GridItem xs="12" sm="5">
 
-<GifPlayer caption="Dodge the Meteor AoE" url="/static/73dc54e8e6d2f829328364648e3ab5c7/meteor.webm"/>
+<GifPlayer caption="Dodge the Meteor AoE" url="https://cdn.discordapp.com/attachments/964638133725577366/965870788223836220/meteor.webm"/>
 </GridItem>
 
 <GridItem xs="12" sm="7">
@@ -235,7 +235,7 @@ After the 4th orb disappears, the boss dashes to the side and repeats the same p
 </GridItem>
 
 <GridItem xs="12" sm="5">
-<GifPlayer caption="Tethers during the water phase" url="/static/71809f195a42aca542b2fccefda41be8/watermemems.webm"/>
+<GifPlayer caption="Tethers during the water phase" url="https://cdn.discordapp.com/attachments/964638133725577366/965870788949467186/watermemems.webm"/>
 </GridItem>
 
 <GridItem xs="12" sm="12">
@@ -259,7 +259,7 @@ Be aware that every time a person dies, a Doubt spawns. It behaves like a Vindic
 
 <Grid>
 <GridItem xs="12" sm="5">
-<GifPlayer caption="Avoid getting hit by the lasor attack pattern" url="/static/5c315e28890f85924103b41b70baf8cb/shadowphasestartvol2.webm"/>
+<GifPlayer caption="Avoid getting hit by the lasor attack pattern" url="https://cdn.discordapp.com/attachments/964638133725577366/965870788534222868/shadowphasestartvol2.webm"/>
 </GridItem>
 
 <GridItem xs="12" sm="7">
@@ -288,7 +288,7 @@ Upon hitting 66% the boss will stop any current animation and fizzle any current
 
 <Grid>
 <GridItem xs="12" sm="4">
-<GifPlayer caption="CCing the Sorrow" url="/static/f03c9044ee341b8fa3f4f9bf5ca0789b/beamz.webm"/>
+<GifPlayer caption="CCing the Sorrow" url="https://cdn.discordapp.com/attachments/964638133725577366/965870787842150420/beamz.webm"/>
 </GridItem>
 
 <GridItem xs="12" sm="8">
