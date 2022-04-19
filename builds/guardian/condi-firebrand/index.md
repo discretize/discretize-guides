@@ -43,7 +43,7 @@ benchmark:
 
 <Beginner>
 
-The **<Specialization text="Condi Firebrand" name="Firebrand"/>** is a self-sufficient DPS build, which is not entirely relying on support from the party. This is achieved by bringing slightly more than 50% <Boon name="Quickness" /> to the party. Don't be fooled though; the DPS sacrifice is neglectible so that the <Specialization text="Condi Firebrand" name="Firebrand"/> maintains consistent very high DPS. In addition to that, a free utility slot allows the <Specialization text="Condi Firebrand" name="Firebrand"/> to adapt to almost any situation and fill the parties needs ideally.
+The **<Specialization text="Condi Firebrand" name="Firebrand"/>** is a self-sufficient DPS build, which is not entirely relying on support from the party. This is achieved by bringing slightly more than 50% <Boon name="Quickness" /> to the party. Further, this build brings <Boon name="Stability"/> for the team. Don't be fooled though; the DPS sacrifice is neglectible so that the <Specialization text="Condi Firebrand" name="Firebrand"/> maintains consistent very high DPS. In addition to that, a free utility slot allows the <Specialization text="Condi Firebrand" name="Firebrand"/> to adapt to almost any situation and fill the parties needs ideally.
 
 The beginner version should not be played in the slot of a <Boon name="Quickness" />-provider. Instead, it is a fully fledged DPS class! The added <Boon name="Quickness" /> will help to cover potential gaps in <Boon name="Quickness"/> application and alleviate some of stress the <Boon name="Quickness" />-provider might face.
 
@@ -397,13 +397,15 @@ You will want the following weapons to swap to during fractal runs:
       "utility1": "Mantra of Potence",
       "utility2": "Purging Flames",
       "utility3": "Sanctuary",
-      "elite": "Renewed Focus"
+      "elite": "Mantra of Liberation"
     },
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 <Advanced>
+
 To share quickness you will need at least two <Specialization name="Firebrand" text="Firebrands"/>. You can see the traits required in the Build Variants section further down the page.
+
 </Advanced>
 
 You will want the following weapons to swap to during fractal runs:
@@ -750,8 +752,7 @@ When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 
 - Use 1 charge of <Skill name="Mantra of Solace"/> and all charges of <Skill name="Mantra of Potence"/>.
 - Whenever a charge comes back, use both Mantras once again. Keep <Skill name="Mantra of Potence"/> at 0 charges and <Skill name="Mantra of Solace"/> at 2 charges for when you need healing. You can cast these while casting other skills as they are instant-casts.
-- Use <Skill name="Feel My Wrath"/> off-cooldown.
-  Note: Using <Skill name="Mantra of Solace"/> more often than every 7 seconds will not result in more <Boon name="Quickness"/> due to the cooldown of <Trait name="Liberator's Vow"/>.
+- Note: Using <Skill name="Mantra of Solace"/> more often than every 7 seconds will not result in more <Boon name="Quickness"/> due to the cooldown of <Trait name="Liberator's Vow"/>.
 
 **Step 2: Basic Skills**
 

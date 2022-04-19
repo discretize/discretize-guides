@@ -55,7 +55,7 @@ Skills that apply damage to the the breakbar are highlighted turquoise in the to
 </GridItem>
 <GridItem sm="3">
 
-<MDImage src="images/cchighlight.png" caption="The CC bar is underneath the health bar" />
+<MDImage src="images/cchighlight.png" caption="The amount of CC a skill deals (roughly) is highlighted in cyan" />
 
 </GridItem>
 </Grid>
