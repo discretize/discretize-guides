@@ -31,7 +31,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-04-19T18:58:32.496Z
+date: 2022-04-19T19:07:22.970Z
 ---
 
 The <Specialization name="Dragonhunter"/> is good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -587,6 +587,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <GridItem sm="7">
 <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 
+<Advanced>
+
 <Card title="Virtues">
 
 If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sharing <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>. You can drop the Radiance traitline for Virtues for more personal damage. Please note you will need to adjust your gear potentially to crit cap! Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
@@ -594,6 +596,8 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sh
 <Traits unembossed traits1="Virtues" traits1Selected="Unscathed Contender,Inspiring Virtue,Permeating Wrath"/>
 
 </Card>
+
+</Advanced>
   
 <Card title="CC skills">
 
@@ -613,6 +617,22 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sh
 <GridItem sm="5">
 <Card title="Situational Skills">
 
+<Beginner>
+
+You should drop <Skill name="Swordofjustice"/> first. 
+
+|                                                        |                                                                                                                                |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                                                                        |
+| <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                                                                   |
+| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                                                                   |
+| <Skill name="dragonsmaw" size="big" disableText/>     | When you are certain no extra <Boon name="Quickness"/> or <Boon name="Fury"/> is needed.                                                                |
+| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                                                            |
+
+</Beginner>
+
+<Advanced>
+
 |                                                        |                                                                                                                                |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                                                             |
@@ -628,6 +648,8 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sh
 | <Skill name="testoffaith" size="big" disableText/>     | Can be precasted for a bit of extra damage.                                                                                    |
 | <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds.                                            |
 
+</Advanced>
+
 </Card>
 </GridItem>
 </Grid>
@@ -641,12 +663,18 @@ Generally it is important to apply <Boon name="Resolution"/> when you are about 
 <Divider text="Rotation / Skill Usage"/>
 
 <Grid>
+
+<Advanced>
+
 <GridItem xs="12" sm="6">
+
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt their rotation to the amount of time a group needs to finish a phase.\
 For that reason you will find some general notes for skill usage here.
 </Card>
+
+
 
 <Card title="Precasting">
 
@@ -662,6 +690,8 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 </Card>
 </GridItem>
+</Advanced>
+
 
 <GridItem xs="12" sm="6">
 <Card title="Notes on skill usage:">
@@ -698,11 +728,12 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 14. <Skill name="Sword of Justice" profession="guardian"/>
 15. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
 16. <Skill name="Binding Blade" profession="guardian"/> (GS 5)
-
 17. If the phase lasts longer than this, continue with the SC rotation.
 
 </Card>
 </GridItem>
+
+<Advanced>
 
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
@@ -710,6 +741,8 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 <Video youtube="faIaiHFG1qI" caption="by Nagy"/>
 </Card>
 </GridItem>
+</Advanced>
+
 </Grid>
 
 <Divider text="Underwater combat"/>
