@@ -563,7 +563,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 **Rotation:**
 
-This is just a suggested opener. Depending on the encounter and the length of the phase you will want to start on different weapons and use different skills. <Specialization name="Willbender" text="Power Willbender"/> plays very similarly to <Specialization name="Dragonhunter" text="Power Dragonhunter"/>, if you need some ideas you can use the [Dragonhunter CM Guide](/cm-guides/guardian/power-dragonhunter/).
+This is just a suggested opener. Depending on the encounter and the length of the phase you will want to start on different weapons and use different skills. <Specialization name="Willbender" text="Power Willbender"/> plays very similarly to <Specialization name="Dragonhunter" text="Power Dragonhunter"/>, if you need some ideas you can use the [Dragonhunter CM Guide](/cm-guides/guardian/power-dragonhunter/static/).
 
 1.  <Skill name="banesignet" profession="guardian"/>
 2.  <Skill name="Symbol of Blades" profession="guardian"/> (Sword 2)
