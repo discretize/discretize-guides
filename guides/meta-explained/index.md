@@ -1,6 +1,6 @@
 ---
 title: Building an Effective Comp
-date: 2022-04-19T07:53:19.827Z
+date: 2022-04-19T07:54:20.025Z
 image: ./images/preview.png
 description: Everything around Meta and the current Meta composition
 ---
@@ -74,7 +74,7 @@ Many PuGs like to play <Specialization name="Firebrand"/> or <Specialization nam
 ## What are strong comps for organised groups?
 
 <Warning>
-It is important to note, that each challenge mote encounter has a different effective composition, which is often different to the proposed compositions below. Discretize focuses on clearing daily fractals efficiently, and the proposed compositions brings enough utility to deal with all situations that are occurring in fractals without needing to relog to another character. 
+It is important to note, that each challenge mote encounter has a different effective composition, which is often different to the proposed compositions below. Discretize focuses on clearing daily fractals efficiently, and the proposed compositions brings enough utility to deal with all situations that are occurring in fractals without needing to relog to another character for every boss or fractal. 
 </Warning>
 
 With the May 11th 2021 balance patch came a huge shake up to the fractal META due to the <Effect name="Exposed"/> change. Instead of being a 50% damage modifier, it was nerfed to 30% power and buffed to 100% condi damage, which has since been changed to a 10% power increase and 20% condition in March 2022.
