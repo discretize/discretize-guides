@@ -1,6 +1,6 @@
 ---
 title: Building an Effective Comp
-date: 2022-04-19T21:29:18.510Z
+date: 2022-04-19T21:29:40.199Z
 image: ./images/preview.png
 description: Everything around compositions in fractals
 ---
