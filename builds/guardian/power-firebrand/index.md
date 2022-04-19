@@ -1,12 +1,12 @@
 ---
 title: Power (Quick) Firebrand
+hidden: false
+archive: false
 rating: Power Meta
 role: Power Damage
 author: ganymed.3541
 profession: Guardian
 specialization: Firebrand
-archive: false
-hidden: false
 skills:
   - 9093
   - 9153
@@ -22,7 +22,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: '[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: static
 classification:
   - 5
@@ -30,7 +30,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-03-15T09:03:33.453Z
+date: 2022-04-19T18:33:33.129Z
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing good DPS.
@@ -41,7 +41,7 @@ Using <Skill name="Bane Signet"/> to break defiance bars also increases your all
 
 <Warning>
 
-Its worth mentioning that <Specialization text="Power Quickness Firebrand" name="Firebrand"/> is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run <BuildLink build="Condi Firebrand" specialization="Firebrand"/> as it provides much higher sustained DPS.
+Its worth mentioning that <Specialization text="Power Quickness Firebrand" name="Firebrand"/> is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run <BuildLink build="Condi Firebrand" specialization="Firebrand"/> as it provides much higher sustained DPS. If you can't evaluate yourself if this build is a good pick for you party, you should not be playing it!
 
 </Warning>
 
