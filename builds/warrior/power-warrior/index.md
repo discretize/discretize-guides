@@ -1,18 +1,33 @@
 ---
-title: 'Banner Warrior'
-date: '2021-02-24'
-rating: 'Other'
-archive: true
+title: Banner Warrior
 hidden: false
-role: 'Support'
-profession: 'Warrior'
-specialization: 'Warrior'
-benchmark: { small: { dps: 27838, by: 'Allan [SC]', youtube: 'EWxjRKrRNRg' } }
-skills: [14407, 14405, 45252, 45333]
-traits: [1482]
-conditions: ['Vulnerability']
-code: '[&DQIEGws9MxamAKcAogGpAKwAqgCqAKwAfAHuAAAAAAAAAAAAAAAAAAAAAAA=]'
-classification: [4, 2, 4, 2, 4]
+archive: true
+rating: Other
+role: Support
+profession: Warrior
+specialization: Warrior
+skills:
+  - 14407
+  - 14405
+  - 45252
+  - 45333
+traits:
+  - 1482
+conditions:
+  - Vulnerability
+code: "[&DQIEGws9MxamAKcAogGpAKwAqgCqAKwAfAHuAAAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 4
+  - 2
+  - 4
+  - 2
+  - 4
+date: 2022-04-19T19:17:26.309Z
+benchmark:
+  small:
+    dps: 27838
+    by: Allan [SC]
+    youtube: EWxjRKrRNRg
 ---
 
 <Tabs>
@@ -426,7 +441,7 @@ Everything else stays the same.
 
 If the Mistlock Singularity is easily accessible and close to the encounter:
 
-- for very short encounters (<50 seconds) pre cast <Skill id="14407"/> <Skill id="14405"/> <Skill id="14408"/> or <Skill id="14528"/> and <Skill id="14419"/> and use <Skill id="14516"/> and <Skill id="14410"/> instead of the usual <Skill id="14407"/> and <Skill id="14405"/>. Activate <Skill id="14410"/> during burst phase (e.g. right before using <Skill id="14399"/>)
+- for very short encounters (< 50 seconds) pre cast <Skill id="14407"/> <Skill id="14405"/> <Skill id="14408"/> or <Skill id="14528"/> and <Skill id="14419"/> and use <Skill id="14516"/> and <Skill id="14410"/> instead of the usual <Skill id="14407"/> and <Skill id="14405"/>. Activate <Skill id="14410"/> during burst phase (e.g. right before using <Skill id="14399"/>)
 - for longer encounters (>50 seconds) use e.g. <Skill id="12363"/> before picking up the Mistlock Singularity
 
 Several Warrior skills involving movement and or leaps such as <Skill id="14446"/>, <Skill id="14447"/> <Skill id="45252"/> <Skill id="46233"/> <Skill id="14424"/> <Skill id="14502"/> and <Skill id="14366"/> cannot be canceled by stow/draw weapons but by using weapon swap.
