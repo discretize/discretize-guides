@@ -9,10 +9,10 @@ This page introduces all the builds on this website by giving a very short overv
 
 Outline:
 
-1. **Condi:** These builds utilize condition damage as their main damage source. Due to <Effect name="Exposed"/> now granting 100% increased <Attribute name="Condition Damage"/> these builds perform well in daily clears. [Click here](/guides/meta-explained) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
-2. **Power:** These builds utilize power damage as their main damage source. These builds perform well in daily clears, but require more coordination to play, and also in more organised groups looking to push for faster kill times. [Click here](/guides/meta-explained) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
-3. **Hybrid:** It is not possible to unambiguously assign a hybrid build to any of the other categories. For example a hybrid build might be dealing damage while also providing more party support, which is especially strong in PuG groups. It could also have a rather mixed damage distribution (power vs. condition damage). [Click here](/guides/meta-explained) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
-4. **Heal:** These builds are full support builds. Due to the current META these builds are less effective due to the general tankiness and support most builds can bring, but are a great option for newer groups who would like more of a safety net to complete their fractals. [Click here](/guides/meta-explained) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
+1. **Condi:** These builds utilize condition damage as their main damage source. Due to <Effect name="Exposed"/> now granting 100% increased <Attribute name="Condition Damage"/> these builds perform well in daily clears. [Click here](/guides/effective-comp) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
+2. **Power:** These builds utilize power damage as their main damage source. These builds perform well in daily clears, but require more coordination to play, and also in more organised groups looking to push for faster kill times. [Click here](/guides/effective-comp) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
+3. **Hybrid:** It is not possible to unambiguously assign a hybrid build to any of the other categories. For example a hybrid build might be dealing damage while also providing more party support, which is especially strong in PuG groups. It could also have a rather mixed damage distribution (power vs. condition damage). [Click here](/guides/effective-comp) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
+4. **Heal:** These builds are full support builds. Due to the current META these builds are less effective due to the general tankiness and support most builds can bring, but are a great option for newer groups who would like more of a safety net to complete their fractals. [Click here](/guides/effective-comp) to find out more about how and why these builds are played. These builds are not ranked but sorted alphabetically; please check the overview of each build to see if it is right for you.
 
 <Divider text="Condi builds"/>
 
@@ -31,7 +31,6 @@ This build is mainly to be used in condition comps. In power comps <BuildLink bu
 Condi <Specialization name="Renegade"/> is an unique build that may only be played in condition comps, since it performs much better than <BuildLink build="Power Renegade" specialization="Renegade"/>. Condi <Specialization name="Renegade"/> has decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively. Finally, to top it off this build has high CC capabilities with <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
 
 Condi <Specialization name="Renegade"/> is pretty independent due to its rather good mobility (<Skill id="28029"/>, <Skill id="27917"/>) and permanent 25 <Boon name="Might"/> thanks to <Skill id="44076"/> and <Trait id="1781"/>.
-
 
 </Card>
 
@@ -57,7 +56,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 
 <Card specialization="Harbinger" title="Condi (Quick) Harbinger">
 
-| Build                                                           | Synergy             | DPS                | Independence        | Basics              | Mastery             |
+| Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
 | --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Condi Harbinger" specialization="Harbinger"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="4"/> |
 
@@ -122,8 +121,8 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 <Card specialization="Specter" title="Condi Specter">
 
-| Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
-| --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| Build                                                       | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| ----------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Condi Specter" specialization="Specter"/> | <Rating value="5"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="3"/> |
 
 The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. The value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target.
@@ -134,8 +133,8 @@ At the same time it can generate large amounts of <Effect name="Barrier"/> for y
 
 <Card specialization="Virtuoso" title="Condi Virtuoso">
 
-| Build                                                     | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
-| --------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| Build                                                         | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| ------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Condi Virtuoso" specialization="Virtuoso"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="1"/> | <Rating value="3"/> |
 
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
@@ -154,7 +153,7 @@ The <Specialization name="Mesmer"/>also provides an optimal skipping toolset for
 
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak), and will almost always outperform <BuildLink build="Power Weaver" specialization="Weaver"/> (if you find yourself in a slow group, this build can also be an attractive choice for ''slower'' encounters like Ensolyss and Arkk).
 
-Condi <Specialization name="Weaver"/> can deal very high amounts of damage, and even rival [META](/guides/meta-explained) builds like <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> and <BuildLink build="Condi Firebrand" specialization="Firebrand"/> when played properly.
+Condi <Specialization name="Weaver"/> can deal very high amounts of damage, and even rival [META](/guides/effective-comp) builds like <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> and <BuildLink build="Condi Firebrand" specialization="Firebrand"/> when played properly.
 
 This build is naturally tanky due to its rotation, having easy access to skills that provide evasion frames with <Skill name="Earthen Vortex"/>, barrier with <Skill name="Lava Skin"/>, condition cleansing with <Skill name="Magnetic Wave"/> and even <Skill name="Obsidian Flesh"/>, a powerful skill that grants <Effect name="Invulnerability"/> against most attacks. It can also bring some group utility in the form of projectile destruction with <Skill name="Swirling Winds"/>.
 
@@ -164,8 +163,8 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
 
 <Card specialization="Willbender" title="Condi Willbender">
 
-| Build                                                     | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
-| --------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| Build                                                             | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| ----------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Condi Willbender" specialization="Willbender"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="3"/> |
 
 The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC and mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party with <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
@@ -203,8 +202,8 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
 
 <Card specialization="Bladesworn" title="Banner Bladesworn">
 
-| Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
-| --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| Build                                                             | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| ----------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Power Bladesworn" specialization="Bladesworn"/> | <Rating value="3"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="2"/> | <Rating value="4"/> |
 
 The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favour of short damage spikes. Unfortunately if enemies dont phase or die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
@@ -212,7 +211,6 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situational
 Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
 The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone. Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
-
 
 </Card>
 
@@ -327,8 +325,8 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 
 <Card specialization="Virtuoso" title="Power Virtuoso">
 
-| Build                                                           | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
-| --------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| Build                                                         | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| ------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Power Virtuoso" specialization="Virtuoso"/> | <Rating value="3"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="3"/> | <Rating value="4"/> |
 
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is the strongest power build for <Specialization name="Mesmer"/> in fractals.
@@ -355,8 +353,8 @@ Also this build depends pretty much on supports and boon uptimes, as it can't pr
 
 <Card specialization="Willbender" title="Power Willbender">
 
-| Build                                                     | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
-| --------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| Build                                                             | Synergy             | DPS                 | Independence        | Basics              | Mastery             |
+| ----------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | <BuildLink build="Power Willbender" specialization="Willbender"/> | <Rating value="4"/> | <Rating value="4"/> | <Rating value="3"/> | <Rating value="2"/> | <Rating value="4"/> |
 
 <Specialization name="Willbender" text="Power Willbender"/> has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="62532"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>. It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
@@ -391,7 +389,7 @@ There are Four variants on the site; a low AR Celestial variant, a high AR Celes
 
 <Warning>
 
-This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities.
+This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/effective-comp). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities.
 
 </Warning>
 
@@ -409,7 +407,7 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
 
 <Warning>
 
-This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a hybrid variant that is in-between the full heal and damage versions called [Celestial Firebrand](/builds/guardian/celestial-firebrand) for parties wanting to transition to no heal runs.
+This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/effective-comp). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a hybrid variant that is in-between the full heal and damage versions called [Celestial Firebrand](/builds/guardian/celestial-firebrand) for parties wanting to transition to no heal runs.
 
 </Warning>
 

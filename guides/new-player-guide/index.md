@@ -112,7 +112,7 @@ Fractals are designed to gradually introduce you to the game mode and mechanics 
 
 There tends to be a gap that starts to appear in around T3, leading to the "T3 phenomenon"; a tier with more demand on the players meeting with players who are unaware or unwilling to adapt their build or play to meet that demand. This demand and disparity only increase in T4, making the focus on both team play and individual adaptation highly important to clear any encounter and continue improving as a player.
 
-A key part of this adaptation includes using an appropriate build, with traits and gear stats that fit your role in the group. While gear, traits, and builds will not matter much in your first adventures in fractals, they will make a large difference in later tiers. This invariably leads to a META or "best" way to tackle these encounters, explained in [META Explained](/meta-explained).
+A key part of this adaptation includes using an appropriate build, with traits and gear stats that fit your role in the group. While gear, traits, and builds will not matter much in your first adventures in fractals, they will make a large difference in later tiers. It is adviced to get a rough overview over building effective [team compositions](/guides/effective-comps) as it will increase the success rate.
 
 While there are no hard-set rules or things you "must" bring to clear an encounter, finding the best way your character can strengthen and serve the group as you learn can help make fractals more enjoyable and satisfying to play for both yourself and your party.
 

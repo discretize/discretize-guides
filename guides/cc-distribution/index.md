@@ -19,7 +19,7 @@ Once you break an enemy's defiance bar they will gain an effect named <Effect na
 
 </Card>
 
-This guide's aim is to help you understand how your team should cooperate to break all the CC bars. The present <Specialization name="Firebrand"/> + <Specialization name="Renegade"/> meta demands CC contributions from every member of the party, **even the DPS players!** A list of CC skills along with their defiance bar damage can be found on each class respective [Build page](/builds).
+This guide's aim is to help you understand how your team should cooperate to break all the CC bars. The present <Specialization name="Firebrand"/> + <Specialization name="Renegade"/> reign demands CC contributions from every member of the party, **even the DPS players!** A list of CC skills along with their defiance bar damage can be found on each class respective [Build page](/builds).
 
 In Tier 4 fractals (T4) a breakbar usually does not exceed 600 units, nevertheless, it is everyone's responsibility to break bars as quickly as possible. In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for their lack of CC with additional CC skills.
 
@@ -57,10 +57,6 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 </Card>
 </GridItem>
 </Grid>
-
-<Divider text="What now?" />
-
-### We recommend taking a look at group compositions and what is the meta for organized groups and PuGs [here](guides/meta-explained). Alternatively, you can look below and see how we utilize CC skills to break the Defiance Bars on the Challenge Mode bosses.
 
 <Divider text="Challenge Mode CC distributions" />
 
