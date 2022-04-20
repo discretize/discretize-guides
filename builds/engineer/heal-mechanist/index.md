@@ -42,7 +42,7 @@ classification:
   - 2
   - 1
   - 2
-date: 2022-03-20T23:28:10.092Z
+date: 2022-04-20T18:03:57.447Z
 ---
 <Warning>
 
@@ -288,7 +288,7 @@ Tomes also have the passive effect from the Virtues. Through <Trait name="Lorema
 
 <Skill name="Crash Down" text="Jade Mech"/>:
 
-- Your jade mech is your main source of <Boon name="Alacrity"/> generation, while also providing a significant portion of your other boons. It inherits your concentration and healing power thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
+Your jade mech is your main source of <Boon name="Alacrity"/> generation, while also providing a significant portion of your other boons. It inherits your concentration and healing power thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
 -  <Skill name="Explosive Knuckle"/> and your Mechs auto attacks will slowly generate a small amount of might thanks to <Trait name="Mech Arms: High-Impact Drivers"/>.
 - <Skill name="Crisis Zone"/> grants <Boon name="Alacrity"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and <Boon name="Aegis"/> to 5 targets. It also is a condition cleanse and a stun break.
 - <Skill name="Barrier Blast"/> pulses <Boon name="Might"/> abd <Boon name="Fury"/> to 5 targets resulting in 30 seconds of <Boon name="Might" text="15 Might"/> and <Boon name="Fury"/> being shared. It also generates a large amount of <Effect name="Barrier"/> which in turn generates <Boon name="Alacrity"/> thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
@@ -296,38 +296,31 @@ Tomes also have the passive effect from the Virtues. Through <Trait name="Lorema
 - Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesnt work you may have to recall it instead.
 - Remember your Mech commands will generate boons in a radius around your Mech. Make sure it is in range of you and your party before using them! 
 
-<Skill name="Med Kit" />:
+<Skill name="Med Kit"/>:
 
-- Your Med Kit is your main source of healing.
-- <TomeSkill name="Chapter 1: Searing Spell"/> and <TomeSkill name="Chapter 2: Ignite Burst"/> are mostly useless on <Specialization name="Firebrand" text="Heal Firebrand"/>.
-- <TomeSkill name="Chapter 3: Heated Rebuke"/> is a CC. It pulls enemies together and can be used from range.
-- <TomeSkill name="Chapter 4: Scorched Aftermath"/> creates a Fire Field that can be used to blast <Boon name="Might"/>.
-- <TomeSkill name="Epilogue: Ashes of the Just"/> grants an effect to allies that makes them inflict burning on their next attacks. This scales with <Attribute name="Condition Damage"/> so be careful when using this skill or skip it entirely when running with <Specialization name="Firebrand" text="Condi Firebrands"/>.
-- When running Radiance, dealing damage with any skill in this Tome will trigger <Trait name="Wrath of Justice"/> and share the <Attribute name="Condition Damage"/> to allies through <Trait name="Perfect Inscriptions"/>.
-- When running Radiance killing certain enemies will lower the cooldown on this Tome. Keep in mind this will not reset the skills in the Tome.
-- A common rotation in this Tome is 4-(5)-exit.
+Your Med Kit is your main source of healing. It has a mixture of condi cleanse, supportive boon generation and burst healing thanks to <Trait name="Health Insurance"/>
+- <Skill name="Med Blaster"/> and <Skill name="Bandage Blast"/> provide a small amount of healing to your party
+- <Skill name="Cleansing Field"/> will cleanse up to 4 conditions over 3 seconds, while also providing a water field that can be used for blast heals.
+- <Skill name="Vital Burst"/> is a large group heal that should be used to recover from high incoming damage.
+- <Skill name="Infusion Bomb"/> is a blast finisher that can be used to blast your water field from <Skill name="Vital Burst"/> for burst healing. It also provides some <Boon name="Regeneration"/>, <Boon name="Vigor"/> and <Boon name="Swiftness"/>.
+- Remember that many skills in <Skill name="Med Kit"/> heal in a small radius so make sure you are close to your party.
 
 <Skill name="Elixir Gun" />:
 
-- Use this Tome for emergency healing and cleansing.
-- <TomeSkill name="Chapter 1: Desert Bloom"/> heals in a cone in front of you.
-- <TomeSkill name="Chapter 2: Radiant Recovery"/> heals and cleanses conditions.
-- <TomeSkill name="Chapter 3: Azure Sun"/> gives some boons but will rarely be used.
-- <TomeSkill name="Chapter 4: Shining River"/> places a healing field that can also be blasted for extra healing.
-- <TomeSkill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an incoming healing modifier.
-- When running Virtues entering this Tome also cleanses conditions.
-- Common rotations in this Tome are 2-5-4-1-2 for maximum sustained healing or 5-4-2-1-1 for maximum burst healing.
+Provides some aditional support through condi cleanse, some burst healing and slow CC.
+- <Skill name="Tranquilizer Dart"/> applies <Condition name="Weakness"/> for some slow CC.
+- <Skill name="Glob Shot"/> applies <Condition name="Crippled"/> for some slow CC. When hitting an enemy it will also share <Boon name="Swiftness"/> to allies.
+- <Skill name="Fumigate"/> is a mass condi cleanse, cleansing up to 5 conditions from allies. It also applies a small amount of <Condition name="Vulnerability"/>.
+- <Skill name="Acid Bomb"/> is a blast finisher. Also since it is an Elixir it grants <Boon name="might"/> through <Trait name="HGH"/>
+- <Skill name="Super Elixir"/> is a burst heal, Once hit it also creates an area of continual healing for 10 seconds, making this one of your best healing abilities. It also condi cleanses and grants <Boon name="might"/> through <Trait name="HGH"/>
+- While not every skill in this kit is commonly used, in particular the condi cleanse and burst heal are very useful in high pressure situations.
 
 <Skill name="Elite Mortar Kit"/>:
 
-- Use this Tome for massive <Boon name="Stability"/>, <Boon name="Resistance"/> or a reflect.
-- <TomeSkill name="Chapter 1: Unflinching Charge"/> grants <Boon name="Stability"/>.
-- <TomeSkill name="Chapter 2: Daring Challenge"/> inflicts 1 second of <Condition name="Taunt"/> on the enemy which is a 75/s soft CC.
-- <TomeSkill name="Chapter 3: Valiant Bulwark"/> places a bubble that reflects incoming projectiles.
-- <TomeSkill name="Chapter 4: Stalwart Stand"/> places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
-- <TomeSkill name="Epilogue: Unbroken Lines"/> provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
-- There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
-- You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example a 2nd reflect. However only do this when absolutely needed as you will not have access to the boons and healing your weapon skills provide.
+While not every skill is commonly used, it still provides some slow CC and has acess to a strong AoE pulsing heal.
+- <Skill name="Endothermic Shell"/> applies a large amount of slow CC through <Condition name="Chilled"/>.
+- <SKill name="Flash Shell"/> applies some slow cc through <Condition name="Blinded"/>.
+- <Skill name="Elixir Shell"/> is a strong AoE pulsing heal that can be used proactively before high pressure situations. It also grants <Boon name="might"/> through <Trait name="HGH"/>.
 
 </Card>
 
