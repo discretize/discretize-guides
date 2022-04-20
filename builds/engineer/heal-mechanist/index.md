@@ -42,7 +42,7 @@ classification:
   - 2
   - 1
   - 2
-date: 2022-04-20T18:03:57.447Z
+date: 2022-04-20T22:34:34.082Z
 ---
 <Warning>
 
@@ -328,22 +328,17 @@ While not every skill is commonly used, it still provides some slow CC and has a
 
 <Card title="Standard Boons">
 
-- <Boon name="Quickness" /> will be provided by using <Skill name="Mantra of Solace" /> (which
-  triggers <Trait name="Liberators Vow" /> every 7 seconds algning nicely with the recharge time of the skill with Alacrity and <Trait name="Weighty Terms"/>) and <Skill name="Mantra of Potence" />. You can use <Skill name="Mantra of Potence" /> down to 0 charges whenever you are stacked with your group.
-- <Boon name="Might" /> comes from different sources. <Skill name="Empower" /> is
-  a big source of <Boon name="Might" /> and should be used off-cooldown whenever
-  you are on Staff and on the group. Using <Skill name="Tome of Justice" /> Skill
-  4 and blasting it with <Skill name="Holy Strike" /> will also grant <Boon name="Might" /> and
-  give others the option to also blast additional <Boon name="Might" />. Using <Skill name="Mantra of Potence" /> as mentioned above will also contribute to <Boon name="Might" /> generation.
-- <Boon name="Fury" /> will be provided through <Skill name="Symbol of Vengeance" />
-  . Make sure to use this off-cooldown when on the Axe weapon set while people are
-  stacked together. Try to use this skill 2 times before swapping to Staff.
-- <Boon name="Swiftness" /> mainly comes from <Skill name="Symbol of Swiftness" />
-  . Make sure to use this whenever you are on Staff.
-- <Boon name="Regeneration" /> will be provided through <Skill name="Mantra of Lore" /> when
-  equipped. You can keep 2 charges for condi cleanse while providing some <Boon name="Regeneration" /> whenever it goes back to 3 charges.
-- Your main source of <Boon name="Protection"/> comes from <Skill name="Mantra of Solace"/>. You can use it whenever you need it for healing but make sure to use it often enough to trigger <Trait name="Liberator's Vow"/> for <Boon name="Quickness"/>. Some <Boon name="Protection"/> can be provided through <Skill name="Shield of Judgment"/>. <Skill name="Tome of Courage"/> offers some <Boon name="Protection"/> from Skill 5 as well but you do not want to use this Tome just for a small boost in <Boon name="Protection"/>.
-- <Boon name="Resolution" /> is provided through <Skill name="Mantra of Solace" /> and <Skill name="Mantra of Liberation" />. If you think you will not need all 3 charges for <Boon name="Stability" />, you can use <Skill name="Mantra of Liberation" /> down to 2 charges in order to to keep up permanent <Boon name="Resolution" /> for the group alongside <Skill name="Mantra of Solace" />.
+- <Boon name="Alacrity"/> is applied by two methods. The first is <Skill name="Crisis Zone"/>, which should be preseed off cooldown. In addition to this through the trait <Trait name="Mech Frame: Channeling Conduits"/>, when you apply <Effect name="Barrier"/> you will also share <Boon name="Alacrity"/>. With high <Attribute name="Boon Duration"/> it is very easy to upkeep 100% duration.
+- <Boon name="Might"/> is mainly generated from <Skill name="Barrier Burst"/>, which will allow you to easily maintain 15 stacks. Outside of this you slowly generate <Boon name="Might"/> thanks to <Trait name="HGH"/>, which slowly will ramp might up to 25 stacks over time. If <Boon name="Might"/> is really suffering, you can also use utility skills such as <Skill name="Flame Turret"/> along with <Trait name="Experimental Turrets"/> to help.
+- <Boon name="Fury" /> will be provided through pressing <Skill name="Barrier Burst"/> off cooldown. As long as you have at least 62.5% <Attribute name="Boon Duration"/> you will be able to maintain 100% duration.
+- <Boon name="Swiftness"/> 
+- <Boon name="Regeneration"/>
+- <Boon name="Protection"/>
+- <Boon name="Stability"/>
+- <Boon name="Aegis"/>
+- <Boon name="Vigor"/>
+- <Effect name="Barrier"/> helps to provide <Boon name="Alacrity"/> through the trait <Trait name="Mech Frame: Channeling Conduits"/>, while providing excellent damage mitigation. You have 3 main methods of generating <Effect name="Barrier"/>; <Trait name="Mech Core: Barrier Engine"/> passivley generates it over time, Your utility skills <Skill name="Barrier Burst"/> and <Skill name="Barrier Signet"/> and finally by using <Skill name="Barrier Blast" /> Your third auto attack skill on Mace.
+
 
 </Card>
 
