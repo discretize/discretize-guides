@@ -42,7 +42,7 @@ classification:
   - 2
   - 1
   - 2
-date: 2022-04-20T22:34:34.082Z
+date: 2022-04-21T07:52:00.922Z
 ---
 <Warning>
 
@@ -282,9 +282,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 
 A large part of the support is generated through the use of your Jade Mech and Kits.
 
-Entering a Tome has a csat time and your Skill 5 on both weapon sets can cancel skill casts so make sure to not spam the 5 button when entering the Tome or you might end up cancelling the Tome.
-
-Tomes also have the passive effect from the Virtues. Through <Trait name="Loremaster"/> those passive effects will be kept even if the Tomes are on cooldown.
+Engineering kits can be opened instantly to give acess to 5 new skills, which when closed again return you back to your weapon set. Each individual kit skill will have its own cooldown, although as you play the class you come to get a feel for when each skill will be availible.
 
 <Skill name="Crash Down" text="Jade Mech"/>:
 
@@ -330,13 +328,13 @@ While not every skill is commonly used, it still provides some slow CC and has a
 
 - <Boon name="Alacrity"/> is applied by two methods. The first is <Skill name="Crisis Zone"/>, which should be preseed off cooldown. In addition to this through the trait <Trait name="Mech Frame: Channeling Conduits"/>, when you apply <Effect name="Barrier"/> you will also share <Boon name="Alacrity"/>. With high <Attribute name="Boon Duration"/> it is very easy to upkeep 100% duration.
 - <Boon name="Might"/> is mainly generated from <Skill name="Barrier Burst"/>, which will allow you to easily maintain 15 stacks. Outside of this you slowly generate <Boon name="Might"/> thanks to <Trait name="HGH"/>, which slowly will ramp might up to 25 stacks over time. If <Boon name="Might"/> is really suffering, you can also use utility skills such as <Skill name="Flame Turret"/> along with <Trait name="Experimental Turrets"/> to help.
-- <Boon name="Fury" /> will be provided through pressing <Skill name="Barrier Burst"/> off cooldown. As long as you have at least 62.5% <Attribute name="Boon Duration"/> you will be able to maintain 100% duration.
-- <Boon name="Swiftness"/> 
-- <Boon name="Regeneration"/>
-- <Boon name="Protection"/>
-- <Boon name="Stability"/>
-- <Boon name="Aegis"/>
-- <Boon name="Vigor"/>
+- <Boon name="Fury" /> will be provided through pressing <Skill name="Barrier Burst"/> off cooldown. As long as you have at least 62.5% <Attribute name="Boon Duration"/> you will be able to maintain 100% uptime.
+- <Boon name="Swiftness"/> is provided mainly through <Skill name="Glob Shot"/> and <Skill name="Infusion Bomb"/>.
+- <Boon name="Regeneration"/> can be maintained permanantly by using <Skill name="Energizing Slam"/> off cooldown. When using <Skill name="Med Kit"/>, you also share it when using <Skill name="Bandage Blast"/> and <Skill name="Infusion Bomb"/>.
+- <Boon name="Protection"/> can be maintained permanantly by using <Skill name="Crisis Zone"/> off cooldown.
+- <Boon name="Stability"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill name="Crisis Zone"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
+- <Boon name="Aegis"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill name="Crisis Zone"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
+- <Boon name="Vigor"/> can be maintained permanantly by using <Skill name="Energizing Slam"/> off cooldown. When using <Skill name="Med Kit"/>, you also share it when using <Skill name="Infusion Bomb"/>.
 - <Effect name="Barrier"/> helps to provide <Boon name="Alacrity"/> through the trait <Trait name="Mech Frame: Channeling Conduits"/>, while providing excellent damage mitigation. You have 3 main methods of generating <Effect name="Barrier"/>; <Trait name="Mech Core: Barrier Engine"/> passivley generates it over time, Your utility skills <Skill name="Barrier Burst"/> and <Skill name="Barrier Signet"/> and finally by using <Skill name="Barrier Blast" /> Your third auto attack skill on Mace.
 
 
@@ -344,16 +342,12 @@ While not every skill is commonly used, it still provides some slow CC and has a
 
 <Card title="Pre-Stacking Boons">
 
-- Provide a Fire Field if needed. <TomeSkill name="Chapter 4: Scorched Aftermath"/> in <Skill name="Tome of Justice"/> provides a short Fire Field. <Skill name="Hallowed Ground"/> provides a longer Fire Field as well as extra <Boon name="Resolution"/> but has to be specifically slotted for pre-stacking.
-- <Skill name="Holy Strike" /> to blast <Boon name="Might" />.
-- <Skill name="Empower" /> and cast every equipped Mantra as often as you can during the cast.
-- <Skill name="Feel My Wrath" /> if you have it equipped.
-- <Skill name="Bane Signet" /> if you can start the fight within 10 seconds of usage.
-- Take the singularity.
-- <Skill name="Empower" /> and use <Skill name="Mantra of Potence" /> once during
-  this cast.
-- <Skill name="Symbol of Swiftness" /> on the way to the boss and swap to Axe before
-  the fight starts to place <Skill name="Symbol of Vengeance" />.
+- To provide most of your boons, you can simiply cast <Skill name="Crisis Zone"/>, <Skill name="Barrier Burst"/> and <Skill name="Energizing Slam"/>.
+- If there is no fire field you can provide one with <Skill name="Napalm"/> (Skill 4) in <Skill name="Flamethrower"/>.
+- To blast your firefield  to share <Boon name="Might"/>, <Specialization name="Engineer"/> has blast finishers on many of its skills. Your most acessible blasts on <Specialization name="Mechanist" text="Heal Mechanist"/> are:
+  - <Skill name="Acid Bomb"/> in <Skill name="Elixir Gun"/>
+  - <Skill name="Infusion Bomb"/> in <Skill name="Med Kit"/>
+  - if you used <Skill name="Flamethrower"/> to provide a firefield, <Skill name="Flame Blast"/>
 
 </Card>
 
