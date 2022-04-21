@@ -42,11 +42,11 @@ classification:
   - 2
   - 1
   - 2
-date: 2022-04-21T07:52:00.922Z
+date: 2022-04-21T17:49:43.427Z
 ---
 <Warning>
 
-This build is very common in PuGs. It is part of a composition called PuG Meta. More info about this composition can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities.
+This build is very common in PuGs. It is currently the best heal build to use in PuGs. More info about this can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities.
 
 </Warning>
 
@@ -198,7 +198,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
   traits1="Inventions"
   traits1Selected="Over Shield, Soothing Detonation, Medical DIspersion Field"
   traits2="Alchemy"
-  traits2Selected="Health Insurance, Comeback Cure, HGH"
+  traits2Selected="Health Insurance, Backpack Regenerator, HGH"
   traits3="Mechanist"
   traits3Selected="Mech Arms: High-Impact Drivers, Mech Frame: Channeling Conduits, Mech Core: Barrier Engine"
 />
@@ -297,10 +297,10 @@ Your jade mech is your main source of <Boon name="Alacrity"/> generation, while 
 <Skill name="Med Kit"/>:
 
 Your Med Kit is your main source of healing. It has a mixture of condi cleanse, supportive boon generation and burst healing thanks to <Trait name="Health Insurance"/>
-- <Skill name="Med Blaster"/> and <Skill name="Bandage Blast"/> provide a small amount of healing to your party
+- <Skill name="Med Blaster"/> and <Skill name="Bandage Blast"/> provide a large amount of constant healing to your party.
 - <Skill name="Cleansing Field"/> will cleanse up to 4 conditions over 3 seconds, while also providing a water field that can be used for blast heals.
 - <Skill name="Vital Burst"/> is a large group heal that should be used to recover from high incoming damage.
-- <Skill name="Infusion Bomb"/> is a blast finisher that can be used to blast your water field from <Skill name="Vital Burst"/> for burst healing. It also provides some <Boon name="Regeneration"/>, <Boon name="Vigor"/> and <Boon name="Swiftness"/>.
+- <Skill name="Infusion Bomb"/> is a blast finisher that can be used to blast your water field from <Skill name="Cleansing Field"/> for burst healing. It also provides some <Boon name="Regeneration"/>, <Boon name="Vigor"/> and <Boon name="Swiftness"/>.
 - Remember that many skills in <Skill name="Med Kit"/> heal in a small radius so make sure you are close to your party.
 
 <Skill name="Elixir Gun" />:
@@ -331,7 +331,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 - <Boon name="Fury" /> will be provided through pressing <Skill name="Barrier Burst"/> off cooldown. As long as you have at least 62.5% <Attribute name="Boon Duration"/> you will be able to maintain 100% uptime.
 - <Boon name="Swiftness"/> is provided mainly through <Skill name="Glob Shot"/> and <Skill name="Infusion Bomb"/>.
 - <Boon name="Regeneration"/> can be maintained permanantly by using <Skill name="Energizing Slam"/> off cooldown. When using <Skill name="Med Kit"/>, you also share it when using <Skill name="Bandage Blast"/> and <Skill name="Infusion Bomb"/>.
-- <Boon name="Protection"/> can be maintained permanantly by using <Skill name="Crisis Zone"/> off cooldown.
+- <Boon name="Protection"/> can be maintained permanantly by using <Skill name="Crisis Zone"/> off cooldown. Additionally using you Shield skills will also share some through <Trait name="Over SHield"/>.
 - <Boon name="Stability"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill name="Crisis Zone"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
 - <Boon name="Aegis"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill name="Crisis Zone"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
 - <Boon name="Vigor"/> can be maintained permanantly by using <Skill name="Energizing Slam"/> off cooldown. When using <Skill name="Med Kit"/>, you also share it when using <Skill name="Infusion Bomb"/>.
@@ -348,6 +348,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
   - <Skill name="Acid Bomb"/> in <Skill name="Elixir Gun"/>
   - <Skill name="Infusion Bomb"/> in <Skill name="Med Kit"/>
   - if you used <Skill name="Flamethrower"/> to provide a firefield, <Skill name="Flame Blast"/>
+  - <Skill name="Magnetic Inversion"/>, the second activation of Shield 4.
 
 </Card>
 
@@ -355,37 +356,26 @@ While not every skill is commonly used, it still provides some slow CC and has a
 
 <Card title="Sustained Healing">
 
-- Try to keep your group alive as well as you can through sustained healing and use your burst healing only when it is needed. Keep in mind that active damage mitigation through avoiding attacks or blocking them is very valuable and will help a lot more than a slight increase in healing numbers.
-- A lot of consistent healing comes from your symbols through <Trait name="Writ of Persistence"/>. Since you want to use <Skill name="Symbol of Vengeance"/> and <Skill name="Symbol of Swiftness"/> off-cooldown anyways to provide boons, This will give you a nice amount of healing through the entire fight. Same goes for <Skill name="Empower"/>.
-- Thanks to <Trait name="Selfless Daring"/> you will also heal at the end of a dodge roll. Make sure to keep enough endurance to avoid mechanics but otherwise feel free to use up dodges for healing.
-- If <Skill name="Mantra of Lore"/> is equipped, it will provide <Boon name="Regeneration"/> to your group so make sure to use it down to 2 charges whenever it goes back up to 3.
-- If Mace is equipped the auto-attacks will provide a good amount of healing and <Skill name="Symbol of Faith"/> will provide extra <Boon name="Regeneration"/>.
+- A large amount of your sustsined healing comes from traits. <Trait name="Soothing Detonation"/>, <Trait name="Compounding Chemicals"/> and <Trait name="Backpack Regenerator"/> generate a lot of passive healing to yourself, which is then shared with <Trait name="Medical Dispersion Field"/> and amplified with <Trait name="Health Insurance"/>.
+- When under constant pressure <Skill name="Super Elixir"/> and <Skill name="Elixir Shell"/> can be used. It is reccomended to use <Skill name="Super Elixir"/> first due to its shorter cooldwon.
+- If your parties hp is not full you can use <Skill name="Med Blaster"/> in <Skill name="Med Kit"/> which is very strong. However you should first consider other abilities to heal your party quicker, since you want to maximize your time on mace to generste <Effect name="Barrier"/>.
+- Your best form of sustained healing is to keep your <Effect name="Barrier"/> uptime high. By using <Skill name="Barrier Blast"/>, <Skill name="Barrier Burst"/> and if needed <Skill name="Barrier Signet"/>, your party will not lose much health due to tanking damage.
 
 </Card>
 
 <Card title="Burst Healing">
 
-- For emergency situations you have some smaller burst healing options as well
-  as your <Skill name="Tome of Resolve" />.
-- If you are swapping to Staff when
-  healing is needed keep in mind that <Skill name="Symbol of Swiftness" />
-  provides healing over time while <Skill name="Holy Strike" /> and
-  <Skill name="Empower" /> provide burst healing.
-- <Skill name="Bow of Truth" /> is a great option for high burst healing when slotted.
-- <Skill name="Tome of Resolve" /> is the biggest source of burst healing and should
-  be used as a last resort due to its long cooldown. However due to the cast of both
-  opening the Tome and the skills within, make sure to not hesitate too long. If
-  the healing does not need to be immediate you can use 2-5-4-1-2, if you need the
-  instant burst healing you can use 5-4-2-1-1.
+- <Skill name="Vital Burst"/> and <Skill name="Bandage Blast"/> can be used for some burst healing.
+- Aditionally you have 21 water fields with <Skill name="Cleansing Field"/> and <Skill name="Elixir Shell"/> which can then be blasted with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> and <Skill name="Infusion Bomb"/> for massive healing.
+- If you dont have any burst healing abilities up, you can use <Skill name="Barrier Signet"/> for a large amount of <Effect name="Barrier"/> to help sustain your party while you heal them back up.
+- If you are anticipating a large amount of incoming damage using <Skill name="Super Elixir"/> or <Skill name="Elixir Shell"/> before for strong healing over time can be useful.
 
 </Card>
 
 <Card title="Condition Cleanse">
 
-- If a lot of condition cleanse is needed you will most likely slot <Skill name="Mantra of Lore"/> which will then be your main reliable source of condition cleanse while also providing some extra <Boon name="Regeneration"/>.
-- Blasting Light Fields also causes area condition cleanse. On Staff you can place <Skill name="Symbol of Swiftness"/> and blast it with <Skill name="Holy Strike"/>.
-- In <Skill name="Tome of Resolve" /> <TomeSkill name="Chapter 2: Radiant Recovery"/> and <TomeSkill name="Epilogue: Eternal Oasis"/> will cleanse conditions as well,
-  however same as with burst healing this is often a last resort. When running Virtues,
-  opening this Tome will also cleanse conditions.
+- Your strongest condition cleanse is <Skill name="Fumigate"/> in <Skill name="Elixir Gun"/>, removing up to 5 conditions on 5 targets.
+- Blasting Light Fields also causes area condition cleanse. You can place light fields with <Skill name="Super Elixir"/> or <Skill name="Flash Shell"/> and then blast with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> or <Skill name="Infusion Bomb"/>.
+- If you have a high amount of condition pressure you can use <Skill name="Cleansing Field"/> or <Skill name="Super Elixir"/> for a longer lasting condition cleanse over time.
 
 </Card>
