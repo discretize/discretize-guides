@@ -1,7 +1,7 @@
 ---
 title: Fractal CM Mechanics
-date: 2022-04-24T18:52:54.297Z
-image: ./images/whatshouldiplaylogo.png
+date: 2022-04-24T20:14:42.378Z
+image: ./images/reflect.jpg
 description: An in depth guide to <Specialization name="Firebrand" text="Heal
   Firebrand"/> in CMs
 hidden: "true"
