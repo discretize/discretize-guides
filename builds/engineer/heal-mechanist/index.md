@@ -35,7 +35,7 @@ boons:
   - name: Aegis
     variant: party
     uptime: On Demand
-code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 2
@@ -44,6 +44,7 @@ classification:
   - 2
 date: 2022-04-21T17:49:43.427Z
 ---
+
 <Warning>
 
 This build is very common in PuGs. It is currently the best heal build to use in PuGs. More info about this can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities.
@@ -150,7 +151,7 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
     "weapon1MainType": "Mace",
     "weapon1MainSigil1Id": 74326,
     "weapon1OffType": "Shield",
-    "weapon1OffSigilId": 24639,
+    "weapon1OffSigilId": 24639
   },
   "consumables": {
     "foodId": 91690,
@@ -186,9 +187,10 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
       "type": "Trait"
     }
   ]
-  }}
->
+}}>
+
 Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces but make sure you are maintaining as close to 100% <Attribute name="boon duration"/> as possible. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
 </Character>
 </CharacterWithAr>
 
@@ -208,19 +210,19 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 <GridItem sm="6">
 <Card title="Common Utility Skills">
 
-|                                                               |                                                                                                                    |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                  |
-| <Skill name="Shift Signet" size="big" disableText/>           | Allows extra mobility when running through trash mobs and provides a useful stunbreak                              |
+|                                                               |                                                                                                                     |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                    |
+| <Skill name="Shift Signet" size="big" disableText/>           | Allows extra mobility when running through trash mobs and provides a useful stunbreak                               |
 | <Skill name="Thumper Turret" size="big" disableText/>         | Deals a large amount of CC. If using <Trait name="Experimental Turrets"/> will also share <Boon name="Protection"/> |
-| <Skill name="Flame Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Might"/>                  |
-| <Skill name="Rifle Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Fury"/>                   |
-| <Skill name="Net Turret" size="big" disableText/>             | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Swiftness"/>              |
-| <Skill name="Rocket Turret" size="big" disableText/>          | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Resolution"/>             |
-| <Skill name="Tool Kit" size="big" disableText/>               | Has access to a block with <Skill id="5998"/> and a pull with <Skill id="5996"/>                          |
-| <Skill name="Throw Mine" size="big" disableText/>             | Can be used for some emergency boonstrip                                                                           |
+| <Skill name="Flame Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Might"/>                           |
+| <Skill name="Rifle Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Fury"/>                            |
+| <Skill name="Net Turret" size="big" disableText/>             | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Swiftness"/>                       |
+| <Skill name="Rocket Turret" size="big" disableText/>          | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Resolution"/>                      |
+| <Skill name="Tool Kit" size="big" disableText/>               | Has access to a block with <Skill id="5998"/> and a pull with <Skill id="5996"/>                                    |
+| <Skill name="Throw Mine" size="big" disableText/>             | Can be used for some emergency boonstrip                                                                            |
 | <Skill name="Overclock Signet" size="big" disableText/>       | Can be used to resummon your mech if <Skill name="Crash Down"/> is on cooldown                                      |
-| <Skill name="Sneak Gyro" size="big" disableText/>             | A <Specialization name="Scrapper"/> skill, used for group <Effect name="Stealth"/> in T4 fractals.                 |
+| <Skill name="Sneak Gyro" size="big" disableText/>             | A <Specialization name="Scrapper"/> skill, used for group <Effect name="Stealth"/> in T4 fractals.                  |
 
 </Card>
 
@@ -230,11 +232,11 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 
 <Card title="Situational Traits">
 
-|                                                                  |                                                                                                                        |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <Trait name="Experimental Turrets" size="big" disableText/>      | Taken if you are running turret skills. Grant boons depending on the deployed skills.                                  |
-| <Trait name="Purity of Purpose" size="big" disableText/>         | Useful on condi heavy and boonstrip heavy encounters to mass condi cleans and generate boons.                      |
-| <Trait name="Gyroscopic Acceleration" size="big" disableText/>   | In the <Specialization name="Scrapper"/> traitline. Useful to share <Effect name="superspeed"/> for movement and skips. |
+|                                                                |                                                                                                                         |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Experimental Turrets" size="big" disableText/>    | Taken if you are running turret skills. Grant boons depending on the deployed skills.                                   |
+| <Trait name="Purity of Purpose" size="big" disableText/>       | Useful on condi heavy and boonstrip heavy encounters to mass condi cleans and generate boons.                           |
+| <Trait name="Gyroscopic Acceleration" size="big" disableText/> | In the <Specialization name="Scrapper"/> traitline. Useful to share <Effect name="superspeed"/> for movement and skips. |
 
 </Card>
 
@@ -271,7 +273,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 <GridItem sm="6">
 <Card title="Shield">
 
-- <Skill name="Magnetic Shield" /> offers projectile reflection and some CC when released though <Skill name="Magnetic Inversion  "/>. 
+- <Skill name="Magnetic Shield" /> offers projectile reflection and some CC when released though <Skill name="Magnetic Inversion  "/>.
 - <Skill name="Static Shield" /> can be used as a long block which CCs any enemies attacking you. After the block is over it will cc with <Skill name="Throw Shield"/>.
 
 </Card>
@@ -287,16 +289,18 @@ Engineering kits can be opened instantly to give acess to 5 new skills, which wh
 <Skill name="Crash Down" text="Jade Mech"/>:
 
 Your jade mech is your main source of <Boon name="Alacrity"/> generation, while also providing a significant portion of your other boons. It inherits your concentration and healing power thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
--  <Skill name="Explosive Knuckle"/> and your Mechs auto attacks will slowly generate a small amount of might thanks to <Trait name="Mech Arms: High-Impact Drivers"/>.
+
+- <Skill name="Explosive Knuckle"/> and your Mechs auto attacks will slowly generate a small amount of might thanks to <Trait name="Mech Arms: High-Impact Drivers"/>.
 - <Skill name="Crisis Zone"/> grants <Boon name="Alacrity"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and <Boon name="Aegis"/> to 5 targets. It also is a condition cleanse and a stun break.
 - <Skill name="Barrier Blast"/> pulses <Boon name="Might"/> abd <Boon name="Fury"/> to 5 targets resulting in 30 seconds of <Boon name="Might" text="15 Might"/> and <Boon name="Fury"/> being shared. It also generates a large amount of <Effect name="Barrier"/> which in turn generates <Boon name="Alacrity"/> thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
 - You can summon your Mech using <Skill name="Crash Down"/> and recall it with <Skill name="Recall Mech"/>
 - Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesnt work you may have to recall it instead.
-- Remember your Mech commands will generate boons in a radius around your Mech. Make sure it is in range of you and your party before using them! 
+- Remember your Mech commands will generate boons in a radius around your Mech. Make sure it is in range of you and your party before using them!
 
 <Skill name="Med Kit"/>:
 
 Your Med Kit is your main source of healing. It has a mixture of condi cleanse, supportive boon generation and burst healing thanks to <Trait name="Health Insurance"/>
+
 - <Skill name="Med Blaster"/> and <Skill name="Bandage Blast"/> provide a large amount of constant healing to your party.
 - <Skill name="Cleansing Field"/> will cleanse up to 4 conditions over 3 seconds, while also providing a water field that can be used for blast heals.
 - <Skill name="Vital Burst"/> is a large group heal that should be used to recover from high incoming damage.
@@ -306,6 +310,7 @@ Your Med Kit is your main source of healing. It has a mixture of condi cleanse, 
 <Skill name="Elixir Gun" />:
 
 Provides some aditional support through condi cleanse, some burst healing and slow CC.
+
 - <Skill name="Tranquilizer Dart"/> applies <Condition name="Weakness"/> for some slow CC.
 - <Skill name="Glob Shot"/> applies <Condition name="Crippled"/> for some slow CC. When hitting an enemy it will also share <Boon name="Swiftness"/> to allies.
 - <Skill name="Fumigate"/> is a mass condi cleanse, cleansing up to 5 conditions from allies. It also applies a small amount of <Condition name="Vulnerability"/>.
@@ -316,8 +321,9 @@ Provides some aditional support through condi cleanse, some burst healing and sl
 <Skill name="Elite Mortar Kit"/>:
 
 While not every skill is commonly used, it still provides some slow CC and has acess to a strong AoE pulsing heal.
+
 - <Skill name="Endothermic Shell"/> applies a large amount of slow CC through <Condition name="Chilled"/>.
-- <SKill name="Flash Shell"/> applies some slow cc through <Condition name="Blinded"/>.
+- <Skill name="Flash Shell"/> applies some slow cc through <Condition name="Blinded"/>.
 - <Skill name="Elixir Shell"/> is a strong AoE pulsing heal that can be used proactively before high pressure situations. It also grants <Boon name="might"/> through <Trait name="HGH"/>.
 
 </Card>
@@ -337,14 +343,13 @@ While not every skill is commonly used, it still provides some slow CC and has a
 - <Boon name="Vigor"/> can be maintained permanantly by using <Skill name="Energizing Slam"/> off cooldown. When using <Skill name="Med Kit"/>, you also share it when using <Skill name="Infusion Bomb"/>.
 - <Effect name="Barrier"/> helps to provide <Boon name="Alacrity"/> through the trait <Trait name="Mech Frame: Channeling Conduits"/>, while providing excellent damage mitigation. You have 3 main methods of generating <Effect name="Barrier"/>; <Trait name="Mech Core: Barrier Engine"/> passivley generates it over time, Your utility skills <Skill name="Barrier Burst"/> and <Skill name="Barrier Signet"/> and finally by using <Skill name="Barrier Blast" /> Your third auto attack skill on Mace.
 
-
 </Card>
 
 <Card title="Pre-Stacking Boons">
 
 - To provide most of your boons, you can simiply cast <Skill name="Crisis Zone"/>, <Skill name="Barrier Burst"/> and <Skill name="Energizing Slam"/>.
 - If there is no fire field you can provide one with <Skill name="Napalm"/> (Skill 4) in <Skill name="Flamethrower"/>.
-- To blast your firefield  to share <Boon name="Might"/>, <Specialization name="Engineer"/> has blast finishers on many of its skills. Your most acessible blasts on <Specialization name="Mechanist" text="Heal Mechanist"/> are:
+- To blast your firefield to share <Boon name="Might"/>, <Specialization name="Engineer"/> has blast finishers on many of its skills. Your most acessible blasts on <Specialization name="Mechanist" text="Heal Mechanist"/> are:
   - <Skill name="Acid Bomb"/> in <Skill name="Elixir Gun"/>
   - <Skill name="Infusion Bomb"/> in <Skill name="Med Kit"/>
   - if you used <Skill name="Flamethrower"/> to provide a firefield, <Skill name="Flame Blast"/>
