@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-24T17:53:32.046Z
+date: 2022-04-24T18:04:30.583Z
 ---
 
 <Warning>
@@ -784,15 +784,25 @@ Certain traits interact with your sphere, namely:
 </Card>
 
 <Card title="Connect 4 Mini-Game">
-The unique mechanic for the Hammer weapon set is the Skill 3.
+The unique mechanic for the Hammer weapon set is the Skill 3. Mastering it is very important for the rotation.
+- Pressing a skill 3 such as <Skill name="Crescent Wind"/> will summon an orb circling around you dealing damage to enemies in its way.
+- The orb will last for 15 seconds and grant access to using <Skill name="Grand Finale"/> on this attunement while active
+- The orb will grant a passive bonus like crit-chance in the case of <Skill name="Air Attunement"/> wihle active.
 
-Pressing a skill 3 such as <Skill name="Crescent Wind"/> will summon an orb circling around you dealing damage to enemies in its way. The orb will last for 15 seconds and grant access to using <Skill name="Grand Finale"/> on this attunement while active as well as a passive bonus like crit-chance in the case of <Skill name="Air Attunement"/>.
+Connecting multiple orbs:
+- If you swap to a different attunement and use the skill 3 there, it will cast the according orb and refresh the duration of any currently active orb.
+- <Skill name="Grand Finale"/> will replace the skill 3 on any attunement that you have the active orb from already. It will send out all current orbs to your target to deal damage.
+- You will want to get all 4 orbs up, send them all at once with <Skill name="Grand Finale"/> and repeat this loop during your entire rotation.
+- The hardest part will be the first loop as you can accidentally double press the skill 3 sending out the first projectiles as <Skill name="Grand Finale"/> is not yet on-cooldown in this loop.
 
-If you swap to a different attunement and use the skill 3 there, it will cast the according orb and refresh the duration of any currently active orb. <Skill name="Grand Finale"/> will replace the skill 3 on any attunement that you have the active orb from already. It will send out all current orbs to your target to deal damage.
+Your Attunement rotation will try to maximize uptime on the offensive buffs from <Skill name="Crescent Wind"/> and <Skill name="Flame Wheel"/> and will therefore be:
+1. <Skill name="Air Attunement"/>
+2. <Skill name="Fire Attunement"/>
+3. <Skill name="Water Attunement"/>
+4. <Skill name="Earth Attunement"/>
+5. Repeat
 
-</Card>
-
-<Card title="Unique Buffs">
+You will cast <Skill name="Grand Finale"/> in <Skill name="Air Attunement"/> after the first loop and try to minimize downtime before getting back your offensive buffs from <Skill name="Crescent Wind"/> and <Skill name="Flame Wheel"/>.
 
 </Card>
 
@@ -802,7 +812,14 @@ If you swap to a different attunement and use the skill 3 there, it will cast th
 <Card title="Hammer Skills">
 All of your Hammer skills are useful in some situation and all with the exception of <Skill name="Wind Storm"/> (Air 4) and <Skill name="Immutable Stone"/> (Earth 4) will be used for DPS.
 
-If you need to auto-attack to bridge the gap between skills, you'd ideally want to only do so in <Skill name="Earth Attunement"/> and partially <Skill name="Air Attunement"/>
+If you need to auto-attack to bridge the gap between skills, you'd ideally want to only do so in <Skill name="Earth Attunement"/> and partially <Skill name="Air Attunement"/>.
+
+Some of them bring nice extra utility, like:
+- <Skill name="Crashing Font"/> heals you for each enemy you hit with it.
+- <Skill name="Cleansing Typhoon"/> cleanses conditions from you.
+- <Skill name="Whirling Stones"/> blocks projectiles.
+
+This can sometimes be quite handy, however all of these skills are used in the rotation so you will not want to delay them too long usually.
 
 </Card>
 
@@ -816,6 +833,10 @@ For example, <Skill name="Relentless Fire"/> will grant you a damage increase fo
 </Card>
 
 <Card title="Conjures">
+
+</Card>
+
+<Card title="Unique Buffs">
 
 </Card>
 
