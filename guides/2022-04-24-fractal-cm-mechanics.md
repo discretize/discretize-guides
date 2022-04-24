@@ -1,13 +1,11 @@
 ---
 title: Fractal CM Mechanics
-date: 2022-04-24T18:33:30.661Z
+date: 2022-04-24T18:52:54.297Z
 image: ./images/whatshouldiplaylogo.png
 description: An in depth guide to <Specialization name="Firebrand" text="Heal
   Firebrand"/> in CMs
 hidden: "true"
 ---
-
-<Divider text="Introduction"/>
 
 # What is Damage Mitigation?
 
