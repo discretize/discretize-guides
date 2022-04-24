@@ -7,15 +7,13 @@ role: Power Damage
 profession: Elementalist
 specialization: Catalyst
 conditions:
-  - name: Burning
-  - name: Chilled
-  - name: Vulnerability
-    uptime: 10 stacks
+  - Burning
+  - Chilled
+  - Vulnerability
 boons:
   - name: Quickness
-    uptime: 100% 
-  - name: Might
-    uptime: 9 stacks
+    uptime: 100%
+    variant: group
 code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
@@ -23,8 +21,14 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-17T07:25:00.287Z
+date: 2022-04-24T17:05:05.591Z
 ---
+
+<Warning>
+
+This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
+
+</Warning>
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and blasting fire fields. It can also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
@@ -671,9 +675,25 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 
 <Grid>
   
-<GridItem sm="7">
+<GridItem sm="6">
+
+<Card title="Swap Weapons">
+
+- Hammers with <Item name="Night" type="Sigil"/>
+- Hammers with <Item name="Serpent Slaying" type="Sigil"/>
+- Hammers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
+- A staff to precast <Skill name="Meteor Shower"/> on some encounters
+- Weapons to precast <Boon name="Might"/>
+
+</Card>
 
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Catalyst" traits3Selected="Vicious Empowerment,Empowering Auras,Empowered Empowerment"/>
+
+<Card title="Quickness Variant">
+
+<Traits unembossed traits1="Catalyst" traits1Selected="Vicious Empowerment,Empowering Auras,Sphere Specialist"/>
+
+</Card>
 
 <Card title="Situational Traits">
 
@@ -682,8 +702,11 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                |
 | <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="endlesschoyapiatatonic"/>. |
-| <Trait name="Sphere Specialist" size="big" disableText/> | Use this if you are responsible for providing <Boon name="Quickness"/>.                                                                                |
 | <Trait name="Spectacular Sphere" size="big" disableText/> | If your group has absolutely no <Boon name="Might"/> from other sources, you can also run this to provide extra <Boon name="Might"/> as well as <Boon name="Fury"/>. However, this comes at a significant DPS loss of around 10%.                                                                                |
+
+</Card>
+
+<Card title="Arcane">
 
 <Traits unembossed traits1="Arcane" traits1Selected="Arcane Precision, Final Shielding, Bountiful Power"/>
 On the Quickness variant, you can run Arcane instead of Fire. This will trade in some damage for extra uptime on other boons such as <Boon name="Might"/> or <Boon name="Swiftness"/>. This also gives you some free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. You can either adjust your gear accordingly, or run the same gear setup and enjoy the higher boon duration, making upkeeping boons easier.
@@ -692,6 +715,33 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="Arcane Resurrection" size="big" disableText/> | When running Arcane, you can use this for some group rezzing ability. You will trade in some personal defense from <Trait name="Final Shielding"/>.                                                                                |
 
+
+</Card>
+
+</GridItem>
+
+<GridItem sm="6">
+
+<Card title="Situational Skills">
+
+|                                                                 |                                                                                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Heal                                                            |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Arcane Brilliance" size="big" disableText/>        | Take it for additional <Boon name="Might"/> from fire fields.                                                                                                                                                                                                                                                                              |
+| <Skill name="Soothing Water" size="big" disableText/>    | Strong heal over time         and condi cleanse.                                                                                                                                                                                                                                                     |
+| <Skill name="Glyph of Elemental Harmony" size="big" disableText/>    | Strong burst heal.                                                                                                                                                                                                                                                     |
+| Conjures                                                     |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | Good on larger hitboxes and fast phase times instead of <Skill name="Shattering Ice"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                           |
+| <Skill name="Conjure Frostbow" size="big" disableText/>         | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.                                                                                                                                                                                                                                                |
+| <Skill name="Conjure Earth Shield" size="big" disableText/>     | Precasted for additional cc on encounters like Artsariiv.                                                                                                                                                                                                                                                                                  |
+| Defensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Arcane Shield" size="big" disableText/>            | Provides three blocks for things like the console in [Aetherblade Fractal](/fractals/aetherblade).                                                                                                                                                                                                                                         |
+| <Skill name="Armor of Earth" size="big" disableText/>           | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>.                                                                                                                                                                                                                                           |
+| <Skill name="Fortified Earth" size="big" disableText/>          | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).                                                                                                                                                                                                                    |
+| Utility                                                         |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Lightning Flash" size="big" disableText/>          | A teleport with a range of 900 units. Very important skill for certain skips. |
+| <Skill name="Arcane Wave" size="big" disableText/>              | Useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                                                                                                                                            |
+| <Skill name="Invigorating Air" size="big" disableText/>         | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                                                                                                                            |
 
 </Card>
 
@@ -707,43 +757,6 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 | <Skill id="5747" size="big" disableText/>                                                                              | 150 with <Control name="Pull"/>          |
 | <Skill name="Chilling Crack" size="big" disableText/> <br/> <Skill name="Rain of Blows" size="big" disableText/> <br/> | 33 / s with <Condition name="Chilled"/>  |
 | <Skill name="Crescent Wind" size="big" disableText/>                                                                   | 20 / s with <Condition name="Weakness"/> |
-
-</Card>
-
-</GridItem>
-
-<GridItem sm="5">
-
-<Card title="Swap Weapons">
-
-- Hammers with <Item name="Night" type="Sigil"/>
-- Hammers with <Item name="Serpent Slaying" type="Sigil"/>
-- Hammers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
-- A staff to precast <Skill name="Meteor Shower"/> on some encounters
-- Weapons to precast <Boon name="Might"/>
-
-</Card>
-
-<Card title="Situational Skills">
-
-|                                                                 |                                                                                                                                                                                                                                                                                                                                            |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Heal                                                            |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Arcane Brilliance" size="big" disableText/>        | Take it for additional <Boon name="Might"/> from fire fields.                                                                                                                                                                                                                                                                              |
-| <Skill name="Soothing Water" size="big" disableText/>    | Strong heal over time         and condi cleanse.                                                                                                                                                                                                                                                     |
-| <Skill name="Glyph of Elemental Harmony" size="big" disableText/>    | Strong burst heal.                                                                                                                                                                                                                                                     |
-| Offensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | Good on larger hitboxes and fast phase times instead of <Skill name="Shattering Ice"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                           |
-| <Skill name="Conjure Frostbow" size="big" disableText/>         | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.                                                                                                                                                                                                                                                |
-| Defensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Arcane Shield" size="big" disableText/>            | Provides three blocks for things like the console in [Aetherblade Fractal](/fractals/aetherblade).                                                                                                                                                                                                                                         |
-| <Skill name="Armor of Earth" size="big" disableText/>           | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>.                                                                                                                                                                                                                                           |
-| <Skill name="Fortified Earth" size="big" disableText/>          | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).                                                                                                                                                                                                                    |
-| <Skill name="Conjure Earth Shield" size="big" disableText/>     | Precasted for additional cc on encounters like Artsariiv.                                                                                                                                                                                                                                                                                  |
-| Utility                                                         |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Lightning Flash" size="big" disableText/>          | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
-| <Skill name="Arcane Wave" size="big" disableText/>              | Also Useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                                                                                                                                            |
-| <Skill name="Invigorating Air" size="big" disableText/>         | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                                                                                                                            |
 
 </Card>
 
