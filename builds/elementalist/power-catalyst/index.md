@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-24T17:28:18.341Z
+date: 2022-04-24T17:35:55.971Z
 ---
 
 <Warning>
@@ -763,15 +763,28 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 </GridItem>
 </Grid>
 
+
 <Divider text="Details"/>
+
+<Grid>
+
+<GridItem sm="6">
 
 <Card title="Jade Spheres">
 
 </Card>
 
 <Card title="Connect 4">
+The unique mechanic for the Hammer weapon set is the Skill 3.
+
+Pressing a skill 3 such as <Skill name="Crescent Wind"/> will summon an orb circling around you dealing damage to enemies in its way. The orb will last for 15 seconds and grant access to using <Skill name="Grand Finale"/> on this attunement while active as well as a passive bonus like crit-chance in the case of <Skill name="Air Attunement"/>.
+
+If you swap to a different attunement and use the skill 3 there, it will cast the according orb and refresh the duration of any currently active orb. <Skill name="Grand Finale"/> will replace the skill 3 on any attunement that you have the active orb from already. It will send out all current orbs to your target to deal damage.
 
 </Card>
+
+</GridItem>
+<GridItem sm="6">
 
 <Card title="Hammer Skills">
 
@@ -780,6 +793,9 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 <Card title="Utility Skills">
 
 </Card>
+
+</GridItem>
+</Grid>
 
 <Divider text="Providing Boons"/>
 
@@ -790,6 +806,7 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 <Card title="Quickness">
 
 </Card>
+
 
 
 <Divider text="Rotation / Skill usage"/>
