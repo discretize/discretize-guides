@@ -2,6 +2,8 @@
 title: Heal Alacrity Mechanist
 rating: Good
 role: Support
+archive: false
+hidden: false
 author: Parpage.9867
 profession: Engineer
 specialization: Mechanist
