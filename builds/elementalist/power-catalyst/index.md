@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-24T17:35:55.971Z
+date: 2022-04-24T17:40:38.772Z
 ---
 
 <Warning>
@@ -774,7 +774,7 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 
 </Card>
 
-<Card title="Connect 4">
+<Card title="Connect 4 Mini-Game">
 The unique mechanic for the Hammer weapon set is the Skill 3.
 
 Pressing a skill 3 such as <Skill name="Crescent Wind"/> will summon an orb circling around you dealing damage to enemies in its way. The orb will last for 15 seconds and grant access to using <Skill name="Grand Finale"/> on this attunement while active as well as a passive bonus like crit-chance in the case of <Skill name="Air Attunement"/>.
@@ -791,6 +791,11 @@ If you swap to a different attunement and use the skill 3 there, it will cast th
 </Card>
 
 <Card title="Utility Skills">
+As a Catalyst, you gain access to Augments. You will be using 2 of them as default, namely <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. Other Aguments listed in the situational skills section can also be useful.
+
+Augments grant you a buff and gain a bonus effect when casted near their corresponding sphere. This is usually either a duration increase for the buff or a cooldown decrease for the skill.
+
+For example, <Skill name="Relentless Fire"/> will grant you a damage increase for 5 seconds. This is increased by 3 additional seconds when casted near a <Skill id="63458"/>. Therefore you usually want to use them in the corresponding attunement.
 
 </Card>
 
