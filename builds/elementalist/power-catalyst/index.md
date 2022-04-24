@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-24T17:40:38.772Z
+date: 2022-04-24T17:53:32.046Z
 ---
 
 <Warning>
@@ -771,6 +771,15 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 <GridItem sm="6">
 
 <Card title="Jade Spheres">
+As a Catalyst, your unique class mechanic is the energy system and your Jade Sphere.
+- You build up energy by attacking your enemy up to a maximum of 30.
+- Your F5 skill will cost 10 energy and cast a Jade Sphere based on your current attunement, for example <Skill id="63458"/>.
+- Your Jade Spheres damage enemies and provide boons to allies within for their duration. They also act as combo fields.
+- This means even on the full DPS build, you will provide some boons to help out the group.
+
+Certain traits interact with your sphere, namely:
+- <Trait name="Sphere Specialist"/> doubles the duration of the boons applied, making it possible to provide 100% uptime on boons like <Boon name="Quickness"/>.
+- <Trait name="Spectacular Sphere"/> makes your Sphere grant an extra boon based on the attunement. This allows you to provide <Boon name="Fury"/> in <Skill name="Air Attunement"/> for example.
 
 </Card>
 
@@ -783,10 +792,17 @@ If you swap to a different attunement and use the skill 3 there, it will cast th
 
 </Card>
 
+<Card title="Unique Buffs">
+
+</Card>
+
 </GridItem>
 <GridItem sm="6">
 
 <Card title="Hammer Skills">
+All of your Hammer skills are useful in some situation and all with the exception of <Skill name="Wind Storm"/> (Air 4) and <Skill name="Immutable Stone"/> (Earth 4) will be used for DPS.
+
+If you need to auto-attack to bridge the gap between skills, you'd ideally want to only do so in <Skill name="Earth Attunement"/> and partially <Skill name="Air Attunement"/>
 
 </Card>
 
@@ -796,6 +812,10 @@ As a Catalyst, you gain access to Augments. You will be using 2 of them as defau
 Augments grant you a buff and gain a bonus effect when casted near their corresponding sphere. This is usually either a duration increase for the buff or a cooldown decrease for the skill.
 
 For example, <Skill name="Relentless Fire"/> will grant you a damage increase for 5 seconds. This is increased by 3 additional seconds when casted near a <Skill id="63458"/>. Therefore you usually want to use them in the corresponding attunement.
+
+</Card>
+
+<Card title="Conjures">
 
 </Card>
 
