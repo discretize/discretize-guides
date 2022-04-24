@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-24T17:05:05.591Z
+date: 2022-04-24T17:28:18.341Z
 ---
 
 <Warning>
@@ -762,6 +762,35 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 
 </GridItem>
 </Grid>
+
+<Divider text="Details"/>
+
+<Card title="Jade Spheres">
+
+</Card>
+
+<Card title="Connect 4">
+
+</Card>
+
+<Card title="Hammer Skills">
+
+</Card>
+
+<Card title="Utility Skills">
+
+</Card>
+
+<Divider text="Providing Boons"/>
+
+<Card title="Might">
+
+</Card>
+
+<Card title="Quickness">
+
+</Card>
+
 
 <Divider text="Rotation / Skill usage"/>
 
