@@ -1,6 +1,6 @@
 ---
 title: Fractal CM Mechanics
-date: 2022-04-24T20:36:20.307Z
+date: 2022-04-24T21:18:27.927Z
 image: ./images/reflect.jpg
 description: An in depth guide to <Specialization name="Firebrand" text="Heal
   Firebrand"/> in CMs
@@ -24,9 +24,7 @@ hidden: "true"
 - Reflect: \"Is a combat mechanic that returns incoming projectile attacks to their source, including the properties of the projectiles.\" What this means is that if a player reflects a projectile; if that projectile would otherwise apply <Condition name="Chilled"/>, <Condition name="Immobile"/>, <Condition name="Burning"/>	 etc or CC (crowd control as mentioned above <Control name="Knockback"/>, <Control name="Knockdown"/>, <Control name="Stun"/> etc) it will do nothing to the players and instead reflect back at the boss. This includes adds on sirens reef for example! Situational, well timed, reflect can therefor play a huge part in damage mitigation when playing <Specialization name="Firebrand" text="Heal Firebrand"/>.
 
 
-<Divider text="Boss Mechanics"/>
-
-## MAMA 
+<Divider text="MAMA"/>
 
 ##### Cascade of Torment (Beyblade attack): 
 <Grid>
@@ -99,10 +97,7 @@ This attack can easily be blocked with careful timing of <Boon name="Aegis"/>. B
 </GridItem>
 </Grid>
 
-<Divider/>
-
-## Siax 
-
+<Divider text="Siax"/>
 
 ##### Summon nightmare hallucination: 
 <Grid>
@@ -149,10 +144,7 @@ Another example of the importance of providing <Boon name="Aegis"/> for the grou
 </GridItem>
 </Grid>
 
-<Divider/>
-
-## Ensolyss 
-
+<Divider text="Ensolyss"/>
 
 ##### Upswing: 
 <Grid>
@@ -232,8 +224,7 @@ Both <Boon name="Aegis"/> and <Boon name="Stability"/> are effective at both mit
 </GridItem>
 </Grid>
 
-## Skorvald 
-
+<Divider text="Skorvald"/>
 
 ##### Anomaly knockback:  
 <Grid>
@@ -279,10 +270,7 @@ This is the single most important attack to mitigate for a <Specialization name=
 </GridItem>
 </Grid>
 
-<Divider/>
-
-## Artsariiv 
-
+<Divider text="Artsariiv"/>
 
 ##### Beaming smile:
 <Grid>
@@ -343,10 +331,7 @@ A quite obviously large dark orange AoE that <Control name="Knockdown"/>'s playe
 </GridItem>
 </Grid>
 
-<Divider/>
-
-## Arkk 
-
+<Divider text="Arkk"/>
 
 ##### Blinding radiance: 
 <Grid>
@@ -423,3 +408,17 @@ Pizza slices! A remarkably easy telegraph indicated with orange AoEs (pizza slic
 </GridItem>
 </Grid>
 
+<Divider text="Ai, Keeper of the Peak"/>
+
+##### Attack:
+<Grid>
+<GridItem>
+  
+</GridItem>
+
+<GridItem>
+
+<GifPlayer caption="" url=""/>
+
+</GridItem>
+</Grid>
