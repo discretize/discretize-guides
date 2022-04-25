@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-24T18:04:30.583Z
+date: 2022-04-25T17:56:39.944Z
 ---
 
 <Warning>
@@ -30,13 +30,13 @@ This build guide is not complete, gear and sections may change regularly as we e
 
 </Warning>
 
-The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and blasting fire fields. It can also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
+The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and blasting fire fields. It can also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-This build has less burst than the <Specialization text="Power Weaver" name="Weaver"/> but offers some extra utility through the boons your Jade Spheres provide.
+This build has less burst than the <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres.
 
-Unfortunately, the survivability of this build is on the lower end. It has some defensive utility in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, however, you will use them during your normal rotation and not always be in the correct attunement when you need the defense, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
+Unfortunately, the survivability of this build is on the lower end. While some defensive utilities are available in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, you will use them during your normal rotation and not always be in the correct attunement when you need the defense. Therefore, it is recommended to have high awareness of the encounters and good class knowledge before picking up this build. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/> since taking one hit of <Instability name="We Bleed Fire"/> will remove significant amounts of HP.
 
-This build has one of the harder rotations in the game but is very enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+This build has one of the harder rotations in the game but is very enjoyable to play - if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -727,7 +727,7 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 |                                                                 |                                                                                                                                                                                                                                                                                                                                            |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Heal                                                            |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Arcane Brilliance" size="big" disableText/>        | Take it for additional <Boon name="Might"/> from fire fields.                                                                                                                                                                                                                                                                              |
+| <Skill name="Arcane Brilliance" size="big" disableText/>        | Additional <Boon name="Might"/> by blasting fire fields.                                                                                                                                                                                                                                                                              |
 | <Skill name="Soothing Water" size="big" disableText/>    | Strong heal over time         and condi cleanse.                                                                                                                                                                                                                                                     |
 | <Skill name="Glyph of Elemental Harmony" size="big" disableText/>    | Strong burst heal.                                                                                                                                                                                                                                                     |
 | Conjures                                                     |                                                                                                                                                                                                                                                                                                                                            |
@@ -771,31 +771,37 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 <GridItem sm="6">
 
 <Card title="Jade Spheres">
+
 As a Catalyst, your unique class mechanic is the energy system and your Jade Sphere.
 - You build up energy by attacking your enemy up to a maximum of 30.
 - Your F5 skill will cost 10 energy and cast a Jade Sphere based on your current attunement, for example <Skill id="63458"/>.
-- Your Jade Spheres damage enemies and provide boons to allies within for their duration. They also act as combo fields.
-- This means even on the full DPS build, you will provide some boons to help out the group.
+- Your Jade Spheres damage enemies and provide boons to allies while they are active. They also act as combo fields.
+- This means, even on the full DPS build you will provide some boons to help out the group.
 
 Certain traits interact with your sphere, namely:
+
 - <Trait name="Sphere Specialist"/> doubles the duration of the boons applied, making it possible to provide 100% uptime on boons like <Boon name="Quickness"/>.
 - <Trait name="Spectacular Sphere"/> makes your Sphere grant an extra boon based on the attunement. This allows you to provide <Boon name="Fury"/> in <Skill name="Air Attunement"/> for example.
 
 </Card>
 
 <Card title="Connect 4 Mini-Game">
-The unique mechanic for the Hammer weapon set is the Skill 3. Mastering it is very important for the rotation.
-- Pressing a skill 3 such as <Skill name="Crescent Wind"/> will summon an orb circling around you dealing damage to enemies in its way.
-- The orb will last for 15 seconds and grant access to using <Skill name="Grand Finale"/> on this attunement while active
+
+The unique mechanic for the Hammer weapon set is the `third skill`. Mastering it is very important for the rotation.
+
+- Pressing a third skill such as <Skill name="Crescent Wind"/> will summon an orb circling around you dealing damage to enemies in its way.
+- The orb will last for 15 seconds and grants access to <Skill name="Grand Finale"/> on this attunement while active
 - The orb will grant a passive bonus like crit-chance in the case of <Skill name="Air Attunement"/> wihle active.
 
 Connecting multiple orbs:
-- If you swap to a different attunement and use the skill 3 there, it will cast the according orb and refresh the duration of any currently active orb.
-- <Skill name="Grand Finale"/> will replace the skill 3 on any attunement that you have the active orb from already. It will send out all current orbs to your target to deal damage.
-- You will want to get all 4 orbs up, send them all at once with <Skill name="Grand Finale"/> and repeat this loop during your entire rotation.
-- The hardest part will be the first loop as you can accidentally double press the skill 3 sending out the first projectiles as <Skill name="Grand Finale"/> is not yet on-cooldown in this loop.
 
-Your Attunement rotation will try to maximize uptime on the offensive buffs from <Skill name="Crescent Wind"/> and <Skill name="Flame Wheel"/> and will therefore be:
+- If you swap to a different attunement and use the third skill there, it will cast the according orb and refresh the duration of any currently active orb.
+- <Skill name="Grand Finale"/> will replace the third skill on any attunement that you have the active orb from already. It will send out all current orbs to your target to deal damage.
+- Your goal is to get all 4 orbs up at the same time, send them all at once with <Skill name="Grand Finale"/> and repeat this loop during your entire rotation.
+- The hardest part will be the first loop as you can accidentally double press the third skill sending out the first projectiles as <Skill name="Grand Finale"/> is not yet on-cooldown for this loop.
+
+Your attunement rotation will try to maximize uptime on the offensive buffs from <Skill name="Crescent Wind"/> and <Skill name="Flame Wheel"/> and will therefore be:
+
 1. <Skill name="Air Attunement"/>
 2. <Skill name="Fire Attunement"/>
 3. <Skill name="Water Attunement"/>
@@ -810,6 +816,7 @@ You will cast <Skill name="Grand Finale"/> in <Skill name="Air Attunement"/> aft
 <GridItem sm="6">
 
 <Card title="Hammer Skills">
+
 All of your Hammer skills are useful in some situation and all with the exception of <Skill name="Wind Storm"/> (Air 4) and <Skill name="Immutable Stone"/> (Earth 4) will be used for DPS.
 
 If you need to auto-attack to bridge the gap between skills, you'd ideally want to only do so in <Skill name="Earth Attunement"/> and partially <Skill name="Air Attunement"/>.
@@ -824,11 +831,12 @@ This can sometimes be quite handy, however all of these skills are used in the r
 </Card>
 
 <Card title="Utility Skills">
-As a Catalyst, you gain access to Augments. You will be using 2 of them as default, namely <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. Other Aguments listed in the situational skills section can also be useful.
+
+As a Catalyst, you gain access to Augments. You will be using two of them by default, namely <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. Other Aguments listed in the situational skills section can also be useful.
 
 Augments grant you a buff and gain a bonus effect when casted near their corresponding sphere. This is usually either a duration increase for the buff or a cooldown decrease for the skill.
 
-For example, <Skill name="Relentless Fire"/> will grant you a damage increase for 5 seconds. This is increased by 3 additional seconds when casted near a <Skill id="63458"/>. Therefore you usually want to use them in the corresponding attunement.
+For example, <Skill name="Relentless Fire"/> will grant you a damage increase for 5 seconds. This is increased by 3 additional seconds when casted near a <Skill id="63458"/>. Therefore, you usually want to use them in the corresponding attunement.
 
 </Card>
 
