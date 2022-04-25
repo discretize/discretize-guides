@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-25T21:25:38.032Z
+date: 2022-04-25T22:11:02.721Z
 ---
 
 <Warning>
@@ -882,6 +882,9 @@ Traits that interact with Elemental Empowerment stacks are:
 This section covers the Quickness variant. Parts of this section can apply to the full DPS variant too as it provides some boons as well.
 </Warning>
 
+<Grid>
+<GridItem sm="6">
+
 <Card title="Jade Spheres">
 
 Your Jade Spheres are your main source of most boons. They have a 240 radius and last for 5 seconds, meaning they will tick 6 times. In order to get all of the boons, everyone has to stand inside them for the full duration. This means placement and timing is key to provide good boon uptime.
@@ -901,15 +904,34 @@ Keep in mind that you will only regain energy while hitting an enemy and try to 
 
 </Card>
 
+</GridItem>
+<GridItem sm="6">
+
 <Card title="Quickness">
 - Your <Boon name="Quickness"/> sources are very straight forward. It only comes from your <Skill id="63459"/>. Refer to the Jade Sphere section for extra tricks.
+- Your entire <Boon name="Quickness"/> coming from a single skill does not mean that this is easy to ukpeep properly. Timing it right to have the entire group be able to stand in the Sphere for its entire duration without ever delaying it much can get quite tricky and is one of the major difficulties of playing Catalyst in fractals as a <Boon name="Quickness"/> provider.
 
 </Card>
 
 <Card title="Other Boons">
-- Due to using your <Skill id="63461"/> every time you are in <Skill name="Water Attunement"/>, you will passively provide <Boon name="Resolution"/> to your group.
+Due to using your <Skill id="63461"/> every time you are in <Skill name="Water Attunement"/>, you will passively provide <Boon name="Resolution"/> to your group.
+
+While playing with the Arcane trait line, you will also provide the following boons by swapping through your attunements:
+- <Boon name="Regeneration"/> from <Skill name="Water Attunement"/> (approx. 40% uptime)
+- <Boon name="Protection"/> from <Skill name="Earth Attunement"/> (approx. 40% uptime)
+- <Boon name="Swiftness"/> from <Skill name="Air Attunement"/> (approx. 65% uptime)
+
+While playing with <Trait name="Spectacular Sphere"/>, you will also provide the following extra boons when activating your Jade Spheres:
+- Extra <Boon name="Might"/> in <Skill name="Fire Attunement"/> (approx. 7-8 extra stacks in a long fight)
+- <Boon name="Fury"/> in <Skill name="Air Attunement"/> (approx. 80% uptime)
+- <Boon name="Vigor"/> in <Skill name="Water Attunement"/>
+- <Boon name="Resistance"/> in <Skill name="Earth Attunement"/> (this is not in the standard rotation, but gives a nice option for situational <Boon name="Resistance"/>)
 
 </Card>
+
+
+</GridItem>
+</Grid>
 
 
 <Divider text="Rotation / Skill usage"/>
