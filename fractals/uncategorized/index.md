@@ -163,7 +163,7 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 
 <Tab specialization="Firebrand">
 
-Drop a <Skill name="Wall of Reflection"/> first on Raving Asura, slightly offset towards your party. Once all four golems become active at the same time, go into <Skill name="Tome of Courage"/> and use <TomeSkill name="Chapter 3: Valiant Bulwark"/> to help avoiding the projectiles and reduce incoming damage with <TomeSkill name="Epilogue: Unbroken Lines"/>.
+Drop a <Skill name="Wall of Reflection"/> first on Raving Asura, slightly offset towards your party. Once all four golems become active at the same time, go into <Skill name="Tome of Courage"/> and use <MissingSkill name="Chapter 3: Valiant Bulwark"/> to help avoiding the projectiles and reduce incoming damage with <MissingSkill name="Epilogue: Unbroken Lines"/>.
 </Tab>
 </Tabs>
 </GridItem>

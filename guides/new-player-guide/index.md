@@ -326,7 +326,7 @@ Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone 
 - <Specialization name="Ranger"/>:
   - <Skill id="12504"/> (Torch 5)
 - <Specialization name="Firebrand"/>:
-  - <TomeSkill name="Chapter 4: Scorched Aftermath"/> in <Skill id="44364"/>
+  - <MissingSkill name="Chapter 4: Scorched Aftermath"/> in <Skill id="44364"/>
   - <Skill id="9253"/>
 - <Specialization name="Renegade"/>:
   - <Skill id="45773"/> (<Skill id="41858"/> Elite Skill)

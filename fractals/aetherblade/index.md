@@ -159,7 +159,7 @@ Stay in <Skill id="5492"/> after the last trash group for <Boon name="Might"/> s
 
 <Tab specialization="Guardian">
 
-You can use <Skill name="Binding Blade"/> and <TomeSkill name="Chapter 3: Heated Rebuke"/> to group the mobs.
+You can use <Skill name="Binding Blade"/> and <MissingSkill name="Chapter 3: Heated Rebuke"/> to group the mobs.
 </Tab>
 <Tab specialization="Necromancer">
 

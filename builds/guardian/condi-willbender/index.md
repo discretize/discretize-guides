@@ -216,6 +216,7 @@ You will want the following weapons to swap to durning fractal runs:
 <Grid>
 <GridItem sm="6">
 <Card title="Skill Priority">
+
 In general for fractals there is no set rotation for <Specialization name="Willbender" text="Condi Willbender"/>. Instead you want to adapt your rotation depending on phase length and cooldowns. You can use the skill priority list below to see what your most important skills are. In general though make sure to prioritise using <Skill name="Rushing Justice"/> to maintin <Skill id="62618"/> and aim for maximum uptime of <Trait name="lethal tempo"/>.
 
 1. <Skill name="Rushing Justice"/>
@@ -245,9 +246,13 @@ You can also precast stacks of <Trait name="lethal tempo"/> using your virtue sk
 <Card title="Golem rotation">
 
 <Video youtube="x76DgzoGCnA" caption="Sword rotation by Support Hero"/>
+
 Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+
 <Video youtube="mCOEGlJkRJ0" caption="Greatsword rotation by [CnD] DaedDee"/>
+
 Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+
 </Card>
 </GridItem>
 </Grid>
