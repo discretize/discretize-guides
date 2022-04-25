@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-25T17:56:39.944Z
+date: 2022-04-25T21:25:38.032Z
 ---
 
 <Warning>
@@ -764,7 +764,7 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 </Grid>
 
 
-<Divider text="Details"/>
+<Divider text="Skill Explanation"/>
 
 <Grid>
 
@@ -785,9 +785,9 @@ Certain traits interact with your sphere, namely:
 
 </Card>
 
-<Card title="Connect 4 Mini-Game">
+<Card title="Hammer 3">
 
-The unique mechanic for the Hammer weapon set is the `third skill`. Mastering it is very important for the rotation.
+The unique mechanic for the Hammer weapon set is the third skill. Mastering it is very important for the rotation.
 
 - Pressing a third skill such as <Skill name="Crescent Wind"/> will summon an orb circling around you dealing damage to enemies in its way.
 - The orb will last for 15 seconds and grants access to <Skill name="Grand Finale"/> on this attunement while active
@@ -809,6 +809,16 @@ Your attunement rotation will try to maximize uptime on the offensive buffs from
 5. Repeat
 
 You will cast <Skill name="Grand Finale"/> in <Skill name="Air Attunement"/> after the first loop and try to minimize downtime before getting back your offensive buffs from <Skill name="Crescent Wind"/> and <Skill name="Flame Wheel"/>.
+
+</Card>
+<Card title="Empowering Auras">
+<Trait name="Empowering Auras"/> is a buff unique to Catalyst. It grants a 2% outgoing damage buff capping at 5 stacks.
+
+Traits that interact with Elemental Empowerment stacks are:
+- <Trait name="Empowering Auras"/> gives you a stack whenever you gain an aura.
+- <Trait name="Elemental Epitome"/> provides you an aura every time you combo. Actively helping to blast <Boon name="Might"/> at the Singularity is therefore even more beneficial, even if you just do it for your personal DPS.
+
+
 
 </Card>
 
@@ -841,10 +851,25 @@ For example, <Skill name="Relentless Fire"/> will grant you a damage increase fo
 </Card>
 
 <Card title="Conjures">
+Conjures are specific to the Elementalist class.
+- Casting a Conjure skill will give the weapon to you as a bundle replacing your weapon skills and leave one copy on the ground for yourself or an ally to pick up.
+- In fractals, you will mostly use these to precast additional damage at the start of the fight and between phases. Some Conjures will be used only for CC.
+
+The most common Conjure you will always run is <Skill name="Conjure Fiery Greatsword"/> (FGS).
+- <Skill name="Firestorm"/> is the most used skill on this weapon. It deals constant damage in the targeted area and can therefore be precasted before the fight or between phases for extra burst.
+- If you pick up the FGS in the middle of your rotation, <Skill name="Fiery Rush"/> usually offers more damage than auto-attacking on your regular weapon set. It also rushes you to the enemy and is therefore great for mobility.
+- <Skill name="Fiery Whirl"/> is also great for mobility. It also does a decent amount of damage when used with the Special Action Key to get multiple hits on Arkk.
 
 </Card>
 
-<Card title="Unique Buffs">
+<Card title="Elemental Empowerment">
+<Trait name="Elemental Empowerment"/> is a buff unique to Catalyst. It grants a 1% bonus to all stats capping at 10 stacks.
+
+Traits that interact with Elemental Empowerment stacks are:
+- <Trait name="Vicious Empowerment"/> gives 2 stacks whenever you disable a foe.
+- <Trait name="Elemental Empowerment"/> gives 3 stacks while in combat.
+- <Trait name="Elemental Epitome"/> gives 1 stack every time you gain an aura and grants an aura when doing a combo.
+- <Trait name="Empowered Empowerment"/> doubles the effectiveness at 10 stacks (DPS build only).
 
 </Card>
 
@@ -853,14 +878,38 @@ For example, <Skill name="Relentless Fire"/> will grant you a damage increase fo
 
 <Divider text="Providing Boons"/>
 
+<Warning>
+This section covers the Quickness variant. Parts of this section can apply to the full DPS variant too as it provides some boons as well.
+</Warning>
+
+<Card title="Jade Spheres">
+
+Your Jade Spheres are your main source of most boons. They have a 240 radius and last for 5 seconds, meaning they will tick 6 times. In order to get all of the boons, everyone has to stand inside them for the full duration. This means placement and timing is key to provide good boon uptime.
+
+This will be especially tricky in split phases with additional enemies such as Skorvald as you want to rotate through your attunements for the boons but still be in <Skill name="Air Attunement"/> when the next phase starts. This usually means keeping up your attunement rotation but potentially skipping over other parts of the rotation such as the utility skills (or even Hammer 3) depending on the time the split phase takes.
+
+Keep in mind that you will only regain energy while hitting an enemy and try to manage it accordingly.
+
+</Card>
+
 <Card title="Might">
+- You can help with pre-casting <Boon name="Might"/> as you have a ton of blast finishers in your kit, even without swapping weapons. See the precast section below for more information.
+- Your main source of <Boon name="Might"/> in-combat is your <Skill id="63458"/>. It ticks a total of 6 times giving you 6 stacks. These stacks will last approx. 27 seconds thanks to the recommended Boon Duration on the Quickness variant and <Trait name="Sphere Specialist"/>.
+- You will keep up 1 extra stack of <Boon name="Might"/> when running Arcane. However, this is barely worth mentioning and you will usualy run this trait line for other reasons.
+- You will usually drop your <Skill id="63459"/> right before your <Skill id="63458"/> and therefore not gain much value from blasting. If this proves to be an issue (which it usually should not), you could swap <Skill name="Fire Attunement"/> and <Skill name="Air Attunement"/> in your rotation.
+- If there are no other sources of <Boon name="Might"/> in your group, you can swap to <Trait name="Spectacular Sphere"/> to provide an additional 5 stacks of <Boon name="Might"/> every time you cast <Skill id="63458"/>.
 
 </Card>
 
 <Card title="Quickness">
+- Your <Boon name="Quickness"/> sources are very straight forward. It only comes from your <Skill id="63459"/>. Refer to the Jade Sphere section for extra tricks.
 
 </Card>
 
+<Card title="Other Boons">
+- Due to using your <Skill id="63461"/> every time you are in <Skill name="Water Attunement"/>, you will passively provide <Boon name="Resolution"/> to your group.
+
+</Card>
 
 
 <Divider text="Rotation / Skill usage"/>
