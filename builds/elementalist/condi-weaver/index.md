@@ -6,16 +6,11 @@ archive: false
 hidden: false
 profession: Elementalist
 specialization: Weaver
-skills:
-  - 43638
-  - 5542
-  - 40183
 conditions:
-  - Burning
-  - Vulnerability
-  - Crippled
-  - Bleeding
-  - Chilled
+  - name: Burning
+  - name: Crippled
+  - name: Bleeding
+  - name: Chilled
 code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
@@ -27,15 +22,9 @@ date: 2022-03-28T17:12:13.596Z
 cmGuide: ''
 ---
 
-<Warning>
-
-This build performs best in [Sunqua Peak](/fractals/sunqua-peak). Outside of this fractal, it will fall behind <BuildLink build="Power Weaver" specialization="Weaver"/> due to its fairly slower damage ramp-up.
-
-</Warning>
-
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak), and will almost always outperform <BuildLink build="Power Weaver" specialization="Weaver"/> (if you find yourself in a slow group, this build can also be an attractive choice for ''slower'' encounters like Ensolyss and Arkk).
 
-Condi <Specialization name="Weaver"/> can deal very high amounts of damage, and even rival [META](/guides/meta-explained) builds like <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> and <BuildLink build="Condi Firebrand" specialization="Firebrand"/> when played properly.
+Condi <Specialization name="Weaver"/> can deal very high amounts of damage, and even rival strong builds like <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> and <BuildLink build="Condi Firebrand" specialization="Firebrand"/> when played properly.
 
 This build is naturally tanky due to its rotation, having easy access to skills that provide evasion frames with <Skill name="Earthen Vortex"/>, barrier with <Skill name="Lava Skin"/>, condition cleansing with <Skill name="Magnetic Wave"/> and even <Skill name="Obsidian Flesh"/>, a powerful skill that grants <Effect name="Invulnerability"/> against most attacks. It can also bring some group utility in the form of projectile destruction with <Skill name="Swirling Winds"/>.
 

@@ -16,13 +16,13 @@ traits:
   - 2018
   - 853
 conditions:
-  - Vulnerability
-  - Weakness
-  - Crippled
-  - Chilled
-  - Poisoned
-  - Blinded
-  - Slow
+  - name: Vulnerability
+  - name: Weakness
+  - name: Crippled
+  - name: Chilled
+  - name: Poisoned
+  - name: Blinded
+  - name: Slow
 boons:
   - name: Quickness
     uptime: 100%

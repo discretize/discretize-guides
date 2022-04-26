@@ -4,15 +4,9 @@ rating: Good
 role: Power Damage
 profession: Warrior
 specialization: Berserker
-skills:
-  - 14407
-  - 14405
-traits:
-  - 1444
-  - 1977
-  - 2049
 conditions:
-  - Vulnerability
+  - name: Vulnerability
+    uptime: 5 stacks
 boons:
   - name: Quickness
     uptime: 50%

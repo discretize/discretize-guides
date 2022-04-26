@@ -8,7 +8,8 @@ role: Power Damage
 profession: Mesmer
 specialization: Virtuoso
 conditions:
-  - Vulnerability
+  - name: Vulnerability
+    uptime: 25 stacks
 boons:
   - name: Might
     variant: Self
@@ -23,7 +24,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-04-18T10:29:38.550Z
+date: 2022-04-26T03:20:08.291Z
 ---
 
 <Advanced>
@@ -38,13 +39,11 @@ The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 
 
 <Beginner>
 
-The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
+The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS, as well as being able to adapt to bring a ton of extra utility such as <Boon name="Stability"/> or a reflect from the <Specialization name="Mesmer"/> toolkit.
 
-It can bring a decent amount of CC while offering good burst damage and great sustained DPS, as well as being able to adapt to bring a ton of extra utility such as <Boon name="Stability"/> or a reflect from the <Specialization name="Mesmer"/> toolkit.
+The beginner version of the guide will focus on the most important utility options and try to teach the Greatsword version of the build which has a good amount of extra burst while also having notes for the Sword/Focus variant which can be useful for slightly more sustained damage and nice utility through <Skill name="Temporal Curtain"/>.
 
-The beginner version of the guide will focus on the most important utility options and try to teach the Greatsword version of the build step-by-step while also having notes for the Sword/Focus variant.
-
-Once you are confident with the utility options provided here, or if you ever feel something is missing, head over and check out the advanced page for some extra (lesss common) options.
+The advanced page provides a more complete overview of all the utility the <Specialization name="Mesmer"/> has to offer. Once you are able to exceute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
 
 <Information>
 

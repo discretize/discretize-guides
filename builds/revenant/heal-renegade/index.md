@@ -16,7 +16,7 @@ traits:
   - 1786
   - 1814
 conditions:
-  - Vulnerability
+  - name: Vulnerability
 boons:
   - name: Alacrity
     variant: Party

@@ -5,13 +5,9 @@ role: Condi Damage
 author: PineappleMan.1430
 profession: Revenant
 specialization: Renegade
-skills:
-  - 45773
-  - 27505
-traits:
-  - 2182
 conditions:
-  - Vulnerability
+  - name: Vulnerability
+    uptime: 15 stacks
 boons:
   - name: Alacrity
     uptime: 100%

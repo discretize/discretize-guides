@@ -12,19 +12,21 @@ skills:
   - 30039
   - 9153
   - 9251
-conditions: []
+conditions:
+  - name: Vulnerability
+    uptime: 25 stacks
 boons:
   - name: Quickness
     uptime: ~10%
     variant: group
-  - name: Quickness
-    uptime: ~25%
-    variant: self
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+  - name: Fury
+    uptime: 80%
+    variant: group
 cmGuide: static
+code: '[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4

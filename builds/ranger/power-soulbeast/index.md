@@ -1,11 +1,4 @@
 ---
-skills:
-  - 45717
-  - 12497
-  - 12639
-  - 12638
-effects:
-  - Stealth
 title: Power Soulbeast
 rating: Power Meta
 role: Power Damage
@@ -20,7 +13,8 @@ classification:
   - 4
 date: 2022-03-28T17:58:39.930Z
 conditions:
-  - Vulnerability
+  - name: Vulnerability
+    uptime: 20 stacks
 cmGuide: pug
 archive: false
 hidden: false

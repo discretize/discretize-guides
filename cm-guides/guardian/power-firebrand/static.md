@@ -65,7 +65,7 @@ Note that you have to position yourself correctly so the symbols don't put you i
 <Tab title="Tome opener">
 
 - Start on sword set
-- Cast <Skill name="tome of justice"/><br/><TomeSkill name="chapterscorchedaftermath"/><br/><TomeSkill name="epilogueashesofthejust"/>
+- Cast <Skill name="tome of justice"/><br/><MissingSkill name="chapterscorchedaftermath"/><br/><MissingSkill name="epilogueashesofthejust"/>
 - <Skill name="Symbolofblades"/>
 - <Skill name="shieldofwrath"/>
 - weaponswap to place <Skill name="Symbol of Resolution"/> while she is still invulnerable.
@@ -80,7 +80,7 @@ Note that you have to position yourself correctly so the symbols don't put you i
 
 <IdealRotation title="Prestack">
 
-1.  Blast a fire field to generate <Boon name="Might"/> (<Skill name="Hallowed Ground"/> or <TomeSkill name="chapterscorchedaftermath"/>+<Skill name="saveyourselves"/> for <Boon name="Resolution"/> uptime)
+1.  Blast a fire field to generate <Boon name="Might"/> (<Skill name="Hallowed Ground"/> or <MissingSkill name="chapterscorchedaftermath"/>+<Skill name="saveyourselves"/> for <Boon name="Resolution"/> uptime)
 1.  <Skill name="Feelmywrath"/>, <Skill name="mantra of potence"/> and <Skill name="mantra of solace"/> to generate <Boon name="Quickness"/>
 1.  <Skill name="BaneSignet"/>
 1.  Take the _Mistlock Singularity_ and move to the boss
@@ -123,7 +123,7 @@ Note that you have to position yourself correctly so the symbols don't put you i
 <CMInformation title="Phase 2">
 
 1. <Skill name="sword of justice"/>
-1. <TomeSkill name="chapterscorchedaftermath"/>
+1. <MissingSkill name="chapterscorchedaftermath"/>
 1. <Skill name="Symbol of Resolution"/>
 1. <Skill name="Whirling Wrath"/>
 1. <Skill name="Ray of Judgment"/>
@@ -169,7 +169,7 @@ if Mama is about to phase (50% HP), keep <Skill name="zealots defense"/> for eit
 
 <CMInformation title="Phase 4">
 
-For the final phase you want to drop some <Boon name="Stability"/> from <Skill name="tome of courage"/> as well as dropping a <TomeSkill name="chapterscorchedaftermath"/> from <Skill name="tome of justice"/> for stacking <Boon name="Might"/> before MAMA reaches the party (Ideally right when the third add dies)
+For the final phase you want to drop some <Boon name="Stability"/> from <Skill name="tome of courage"/> as well as dropping a <MissingSkill name="chapterscorchedaftermath"/> from <Skill name="tome of justice"/> for stacking <Boon name="Might"/> before MAMA reaches the party (Ideally right when the third add dies)
 
 1. <Skill name="swordofjustice"/>
 1. <Skill name="Symbol of Resolution"/>
@@ -236,7 +236,7 @@ if Mama is about to phase (50% HP), keep <Skill name="zealots defense"/> for eit
 
 <CMInformation title="Phase 3">
 
-1. <TomeSkill name="ChapterHeatedRebuke"/>
+1. <MissingSkill name="ChapterHeatedRebuke"/>
 1. <Skill name="bane signet"/>
 1. <Skill name="swordofjustice"/>
 1. <Skill name="Symbol of Blades"/>
@@ -260,7 +260,7 @@ if Mama is about to phase (50% HP), keep <Skill name="zealots defense"/> for eit
 
 <CMInformation title="Phase 4">
 
-For the final phase you want to drop some <Boon name="Stability"/> from <Skill name="tome of courage"/> as well as dropping a <TomeSkill name="chapterscorchedaftermath"/> from <Skill name="tome of justice"/> for stacking <Boon name="Might"/> before MAMA reaches the party (Ideally right when the third add dies). If your party is a bit slow on the cc, you can also squeeze in a <TomeSkill name="ChapterHeatedRebuke"/>.
+For the final phase you want to drop some <Boon name="Stability"/> from <Skill name="tome of courage"/> as well as dropping a <MissingSkill name="chapterscorchedaftermath"/> from <Skill name="tome of justice"/> for stacking <Boon name="Might"/> before MAMA reaches the party (Ideally right when the third add dies). If your party is a bit slow on the cc, you can also squeeze in a <MissingSkill name="ChapterHeatedRebuke"/>.
 
 1. <Skill name="swordofjustice"/>
 1. <Skill name="Symbol of Resolution"/>
@@ -330,7 +330,7 @@ The following written guide is based on the cc strategy, if you are skipping p1 
 
 <CMInformation title="Phase 1">
 
-1. Precast symbols and/or <TomeSkill name="chapterscorchedaftermath"/> + <TomeSkill name="epilogueashesofthejust"/>
+1. Precast symbols and/or <MissingSkill name="chapterscorchedaftermath"/> + <MissingSkill name="epilogueashesofthejust"/>
 1. <Skill name="swordofjustice"/>
 1. <Skill name="zealots defense"/>
 1. <Skill name="Ray of Judgment"/>
@@ -400,7 +400,7 @@ As in phase 2 the skill-order should be modified to make sure you get multiple h
 1. <Skill name="Ray of Judgment"/>
 1. <Skill name="Shield of wrath"/>
 1. weapon swap
-1. <TomeSkill name="chapterscorchedaftermath"/> if you have time
+1. <MissingSkill name="chapterscorchedaftermath"/> if you have time
 1. <Skill name="Symbol of Resolution"/>
 1. <Skill name="Bindingblade"/> (Do not miss it)
 1. <Skill name="Whirling Wrath"/>
@@ -434,7 +434,7 @@ As in phase 2 the skill-order should be modified to make sure you get multiple h
 
 When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Firebrand"/> this means your signets such as <Skill name="Banesignet"/>.
 
-As soon as you see <Skill name="moastance"/> from the <Specialization name="Soulbeast"/> on your bar lay down a fire field with <TomeSkill name="chapterscorchedaftermath"/> (F1-4), close the tome, blast with <Skill name="Shieldofwrath"/> (Focus 5) and stack boons with your mantras. To maximize the duration of <Skill name="Banesignet"/> use it as late as possible! You do not need to wait for the full aftercast before taking the _Mistlock Singularity_.
+As soon as you see <Skill name="moastance"/> from the <Specialization name="Soulbeast"/> on your bar lay down a fire field with <MissingSkill name="chapterscorchedaftermath"/> (F1-4), close the tome, blast with <Skill name="Shieldofwrath"/> (Focus 5) and stack boons with your mantras. To maximize the duration of <Skill name="Banesignet"/> use it as late as possible! You do not need to wait for the full aftercast before taking the _Mistlock Singularity_.
 
 </InformationBlock>
 
@@ -451,7 +451,7 @@ The symbol precast priority is as always: Mace > Scepter > GS > Sw > Staff
   
 <IdealRotation>
 
-1.  <TomeSkill name="chapterscorchedaftermath"/> (F1-4)
+1.  <MissingSkill name="chapterscorchedaftermath"/> (F1-4)
 2.  <Skill name="Shieldofwrath"/> (Focus 5)
 3.  1x <Skill name="Mantra of solace"/>
 4.  3x <Skill name="Mantra of potence" />
@@ -503,7 +503,7 @@ For fast transitioning leap with <Skill name="Leapoffaith"/> towards the left si
 
 <InformationBlock title="Island 2">
 
-Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right when you land so your party has the chance to blast some <Boon name="Might"/>. While the anomaly is evading you can drop your <Skill name="symbolofresolution"/> and start casting <Skill name="whirlingwrath"/> just before you jump to avoid the <Control name="Knockback"/> circle attack.  
+Drop a <MissingSkill name="chapterscorchedaftermath"/> (F1-4) right when you land so your party has the chance to blast some <Boon name="Might"/>. While the anomaly is evading you can drop your <Skill name="symbolofresolution"/> and start casting <Skill name="whirlingwrath"/> just before you jump to avoid the <Control name="Knockback"/> circle attack.  
 Again, for fast transitioning leap with <Skill name="Leapoffaith"/> towards the left side of the rift and swap weapons in the rift.
 </InformationBlock>
 
@@ -515,7 +515,7 @@ Drop a <Skill name="Swordofjustice"/> as soon as you land to quickly ramp up <Co
 
 <InformationBlock title="Island 4">
 
-Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right when you land so your party has the chance to blast some <Boon name="Might"/>. While the anomaly is evading blast <Boon name="Might"/> with <Skill name="Shieldofwrath"/>. Share your <Skill name="Banesignet"/> already! This is not an issue since phase 2 and 3 are each about 6-8 seconds long; so for the majority of the fight <Skill name="Banesignet"/> will be up. Just before the anomaly finishes its evade frame drop a <Skill name="Swordofjustice"/> for quick <Condition name="Vulnerability"/> ramp-up.  
+Drop a <MissingSkill name="chapterscorchedaftermath"/> (F1-4) right when you land so your party has the chance to blast some <Boon name="Might"/>. While the anomaly is evading blast <Boon name="Might"/> with <Skill name="Shieldofwrath"/>. Share your <Skill name="Banesignet"/> already! This is not an issue since phase 2 and 3 are each about 6-8 seconds long; so for the majority of the fight <Skill name="Banesignet"/> will be up. Just before the anomaly finishes its evade frame drop a <Skill name="Swordofjustice"/> for quick <Condition name="Vulnerability"/> ramp-up.  
 During our testing applying one stack of <Boon name="Stability"/> with <Skill name="Mantraofliberation"/> was not enough to reliably not get knockbacked by the anomaly, so it is recommended to jump!  
 You should stay at the anomaly till the very last moment since you do not have any important skills to precast on skorvald.
 
@@ -573,7 +573,7 @@ Rotation on Artsariiv depends on whether your <Specialization name="Renegade"/> 
 
 When prestacking in fractals we want to stack as many useful boons with as much duration as possible, these being <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/>, <Boon name="Alacrity"/> and <Boon name="Swiftness"/>. We can also cast useful unique effects, for a <Specialization name="Firebrand"/> this means your signets such as <Skill name="Banesignet"/>.
 
-Ideally everyone waits at Artsariiv together to give the <Specialization name="Renegade"/> more time to ~~precast~~ lag the game with casting <Boon name="Resistance"/>. Take the portal and lay down a fire field with <TomeSkill name="chapterscorchedaftermath"/> (F1-4), close the tome, blast with <Skill name="Shieldofwrath"/> (Focus 5), <Skill name="hammerofwisdom"/> and stack boons with your mantras. To maximize the duration of <Skill name="Banesignet"/> use it as late as possible! You do not need to wait for the full aftercast before taking the _Mistlock Singularity_. If you are very quick, cast <Skill name="banesignet"/> again, however, this is only worth it if your party instatriggers the boss.
+Ideally everyone waits at Artsariiv together to give the <Specialization name="Renegade"/> more time to ~~precast~~ lag the game with casting <Boon name="Resistance"/>. Take the portal and lay down a fire field with <MissingSkill name="chapterscorchedaftermath"/> (F1-4), close the tome, blast with <Skill name="Shieldofwrath"/> (Focus 5), <Skill name="hammerofwisdom"/> and stack boons with your mantras. To maximize the duration of <Skill name="Banesignet"/> use it as late as possible! You do not need to wait for the full aftercast before taking the _Mistlock Singularity_. If you are very quick, cast <Skill name="banesignet"/> again, however, this is only worth it if your party instatriggers the boss.
 
 </InformationBlock>
 
@@ -587,7 +587,7 @@ Immediately start precasting your symbols. The symbol precast priority is as alw
   
 <IdealRotation>
 
-1.  <TomeSkill name="chapterscorchedaftermath"/> (F1-4)
+1.  <MissingSkill name="chapterscorchedaftermath"/> (F1-4)
 2.  <Skill name="Shieldofwrath"/> (Focus 5)
 3.  <Skill name="Hammerofwisdom"/>
 4.  1x <Skill name="Mantra of solace"/>
@@ -632,16 +632,16 @@ Switch weapons as soon as possible and cast <Skill name="Ray of Judgment"/> firs
 
 <InformationBlock title="Middle Add">
 
-Open a <Skill name="Tomeofjustice"/> and use <TomeSkill name="Chapter 3: Heated Rebuke"/>. Don't close your tome yet.
+Open a <Skill name="Tomeofjustice"/> and use <MissingSkill name="Chapter 3: Heated Rebuke"/>. Don't close your tome yet.
 
 </InformationBlock>
 
 <InformationBlock title="Southeast add">
 
 Use <Skill name="Banesignet"/> as soon as you see the rock gazelle charging with <Skill id="43636"/> at the add.  
-Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right after so your party has the chance to blast some <Boon name="Might"/>. If your party is slow you can blast the fire field with <Skill name="Shield of wrath"/>! Dont forget to cast <Boon name="Quickness"/> for your party (they ~~precast~~ cause lag).
+Drop a <MissingSkill name="chapterscorchedaftermath"/> (F1-4) right after so your party has the chance to blast some <Boon name="Might"/>. If your party is slow you can blast the fire field with <Skill name="Shield of wrath"/>! Dont forget to cast <Boon name="Quickness"/> for your party (they ~~precast~~ cause lag).
 
-It is advisable to precast <TomeSkill name="epilogueashesofthejust"/> as well since it will deal about 30k damage in <Condition name="Burning"/>, which is substantial for the <Specialization name="Firebrand" text="Power Firebrand"/>.
+It is advisable to precast <MissingSkill name="epilogueashesofthejust"/> as well since it will deal about 30k damage in <Condition name="Burning"/>, which is substantial for the <Specialization name="Firebrand" text="Power Firebrand"/>.
 
 </InformationBlock>
 
@@ -658,9 +658,9 @@ It is advisable to precast <TomeSkill name="epilogueashesofthejust"/> as well si
 Make sure to step back so that you will puke with your <Skill name="mantraofsolace"/> on your party to give <Boon name="Aegis"/> against the expanding circle <Control name="Knockback"/> attack.  
 Cycle through your dps skill starting with <Skill name="Ray of Judgment"/> (Focus 4) due to it being a ticking damage skill. Swap to greatsword and finish the phase with as many skills as you can.
 
-Before following Artsariiv to the corner it is expected to heal the <Skill name="Frostspirit"/> with <Skill name="tomeofresolve"/>: <TomeSkill name="Epilogue: Eternal Oasis"/>, <TomeSkill name="Chapter 4: Shining River"/>, <TomeSkill name="Chapter 3: Azure Sun"/>. Use your <SpecialActionKey name="hypernovalaunch"/> to jump to Artsariiv.
+Before following Artsariiv to the corner it is expected to heal the <Skill name="Frostspirit"/> with <Skill name="tomeofresolve"/>: <MissingSkill name="Epilogue: Eternal Oasis"/>, <MissingSkill name="Chapter 4: Shining River"/>, <MissingSkill name="Chapter 3: Azure Sun"/>. Use your <SpecialActionKey name="hypernovalaunch"/> to jump to Artsariiv.
 
-Finish the phase on greatsword. Do not swap to sword since you will need to use your CC abilities on greatsword to complete the split phase quickly. In case your team is slow you can carry them by reflecting Artsariiv's `Taw Shot` attack with <TomeSkill name="Chapter 3: Valiant Bulwark"/>.
+Finish the phase on greatsword. Do not swap to sword since you will need to use your CC abilities on greatsword to complete the split phase quickly. In case your team is slow you can carry them by reflecting Artsariiv's `Taw Shot` attack with <MissingSkill name="Chapter 3: Valiant Bulwark"/>.
 
 </InformationBlock>
 
@@ -686,17 +686,17 @@ Finish the phase on greatsword. Do not swap to sword since you will need to use 
 
 <InformationBlock title="Middle Add">
 
-Open a <Skill name="Tomeofjustice"/> and use <TomeSkill name="Chapter 3: Heated Rebuke"/>. Don't close your tome yet.
+Open a <Skill name="Tomeofjustice"/> and use <MissingSkill name="Chapter 3: Heated Rebuke"/>. Don't close your tome yet.
 
 </InformationBlock>
 
 <InformationBlock title="Southwest adds">
 
-Use <SpecialActionKey name="hypernovalaunch"/> as soon as you can to jump to the two southwest adds. You will cc these two adds together with the <Specialization name="Dragonhunter"/>. Since <Skill name="Bindingblade"/> for CC cannot applied at the same time you need to hurry to not slow down your party. Leap with <Skill name="leapoffaith"/> against the corder southwest add, swap weapons immediately and open <Skill name="tomeofjustice"/> and cc the west add with <TomeSkill name="Chapter 3: Heated Rebuke"/>.
+Use <SpecialActionKey name="hypernovalaunch"/> as soon as you can to jump to the two southwest adds. You will cc these two adds together with the <Specialization name="Dragonhunter"/>. Since <Skill name="Bindingblade"/> for CC cannot applied at the same time you need to hurry to not slow down your party. Leap with <Skill name="leapoffaith"/> against the corder southwest add, swap weapons immediately and open <Skill name="tomeofjustice"/> and cc the west add with <MissingSkill name="Chapter 3: Heated Rebuke"/>.
 
 Jump back into the middle while still having targeted the west add. Cast <Skill name="feelmywrath"/> so your party friends can ~~precast~~ lag the game. Finish the west add with <Skill name="banesignet"/>.
 
-Drop a <TomeSkill name="chapterscorchedaftermath"/> (F1-4) right after so your party has the chance to blast some <Boon name="Might"/>. Before closing the tome use <TomeSkill name="epilogueashesofthejust"/>. Blast the fire field with <Skill name="Shield of wrath"/> and finish the fight as described in phase 2.
+Drop a <MissingSkill name="chapterscorchedaftermath"/> (F1-4) right after so your party has the chance to blast some <Boon name="Might"/>. Before closing the tome use <MissingSkill name="epilogueashesofthejust"/>. Blast the fire field with <Skill name="Shield of wrath"/> and finish the fight as described in phase 2.
 </InformationBlock>
 
 </CMInformation>

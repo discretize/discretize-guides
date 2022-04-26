@@ -176,12 +176,12 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
 <GridItem sm="5">
 <Card title="Defiance Bar Damage">
 
-|                                                                                    |                                |
-| ---------------------------------------------------------------------------------- | ------------------------------ |
-| <Skill id="45402"/>                                                                | 150 damage                     |
-| <Skill name="Shield of Absorption"/>                                               | 150 damage                     |
-| <TomeSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/>    | 150 damage                     |
-| <TomeSkill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s |
+|                                                                                       |                                |
+| ------------------------------------------------------------------------------------- | ------------------------------ |
+| <Skill id="45402"/>                                                                   | 150 damage                     |
+| <Skill name="Shield of Absorption"/>                                                  | 150 damage                     |
+| <MissingSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/>    | 150 damage                     |
+| <MissingSkill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s |
 
 </Card>
 </GridItem>
@@ -233,32 +233,32 @@ All Tomes are built in a similar way:
 <Skill name="Tome of Justice" />:
 
 - Use this Tome mainly for providing a Fire Field.
-- <TomeSkill name="Chapter 1: Searing Spell"/> and <TomeSkill name="Chapter 2: Ignite Burst"/> are mostly useless on <Specialization name="Firebrand" text="Heal Firebrand"/>.
-- <TomeSkill name="Chapter 3: Heated Rebuke"/> is a CC. It pulls enemies together and can be used from range.
-- <TomeSkill name="Chapter 4: Scorched Aftermath"/> creates a Fire Field that can be used to blast <Boon name="Might"/>.
-- <TomeSkill name="Epilogue: Ashes of the Just"/> grants an effect to allies that makes them inflict burning on their next attacks.
+- <MissingSkill name="Chapter 1: Searing Spell"/> and <MissingSkill name="Chapter 2: Ignite Burst"/> are mostly useless on <Specialization name="Firebrand" text="Heal Firebrand"/>.
+- <MissingSkill name="Chapter 3: Heated Rebuke"/> is a CC. It pulls enemies together and can be used from range.
+- <MissingSkill name="Chapter 4: Scorched Aftermath"/> creates a Fire Field that can be used to blast <Boon name="Might"/>.
+- <MissingSkill name="Epilogue: Ashes of the Just"/> grants an effect to allies that makes them inflict burning on their next attacks.
 - When running Radiance killing certain enemies will lower the cooldown on this Tome. Keep in mind this will not reset the skills in the Tome.
 - A common rotation in this Tome is 4-(5)-exit.
 
 <Skill name="Tome of Resolve" />:
 
 - Use this Tome for emergency healing and cleansing.
-- <TomeSkill name="Chapter 1: Desert Bloom"/> heals in a cone in front of you.
-- <TomeSkill name="Chapter 2: Radiant Recovery"/> heals and cleanses conditions.
-- <TomeSkill name="Chapter 3: Azure Sun"/> gives some boons but will rarely be used.
-- <TomeSkill name="Chapter 4: Shining River"/> places a healing field that can also be blasted for extra healing.
-- <TomeSkill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an incoming healing modifier.
+- <MissingSkill name="Chapter 1: Desert Bloom"/> heals in a cone in front of you.
+- <MissingSkill name="Chapter 2: Radiant Recovery"/> heals and cleanses conditions.
+- <MissingSkill name="Chapter 3: Azure Sun"/> gives some boons but will rarely be used.
+- <MissingSkill name="Chapter 4: Shining River"/> places a healing field that can also be blasted for extra healing.
+- <MissingSkill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an incoming healing modifier.
 - When running Virtues entering this Tome also cleanses conditions.
 - Common rotations in this Tome are 2-5-4-1-2 for maximum sustained healing or 5-4-2-1-1 for maximum burst healing.
 
 <Skill name="Tome of Courage" />:
 
 - Use this Tome for massive <Boon name="Stability"/>, <Boon name="Resistance"/> or a reflect.
-- <TomeSkill name="Chapter 1: Unflinching Charge"/> grants <Boon name="Stability"/>.
-- <TomeSkill name="Chapter 2: Daring Challenge"/> inflicts 1 second of <Condition name="Taunt"/> on the enemy which is a 75/s soft CC.
-- <TomeSkill name="Chapter 3: Valiant Bulwark"/> places a bubble that reflects incoming projectiles.
-- <TomeSkill name="Chapter 4: Stalwart Stand"/> places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
-- <TomeSkill name="Epilogue: Unbroken Lines"/> provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
+- <MissingSkill name="Chapter 1: Unflinching Charge"/> grants <Boon name="Stability"/>.
+- <MissingSkill name="Chapter 2: Daring Challenge"/> inflicts 1 second of <Condition name="Taunt"/> on the enemy which is a 75/s soft CC.
+- <MissingSkill name="Chapter 3: Valiant Bulwark"/> places a bubble that reflects incoming projectiles.
+- <MissingSkill name="Chapter 4: Stalwart Stand"/> places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
+- <MissingSkill name="Epilogue: Unbroken Lines"/> provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
 - There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
 - You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example a 2nd reflect. However only do this when absolutely needed as you will not have access to the boons and healing your weapon skills provide.
 
@@ -276,7 +276,7 @@ For maximum benefit you need to do a complicated precast rotation that uses almo
 
 Starting on Staff:
 
-1.  <TomeSkill name="Chapter 4: Scorched Aftermath"/> (Tome 1-4)
+1.  <MissingSkill name="Chapter 4: Scorched Aftermath"/> (Tome 1-4)
 2.  <Skill name="Holy Strike"/> (Staff 2)
 3.  _Swap to Axe / Focus_
 4.  _Swap to Scepter / Focus_
@@ -288,13 +288,13 @@ Starting on Staff:
 10. <Skill name="Symbol of Swiftness"/> (Staff 3)
 11. _Swap to Axe / Focus_
 12. <Skill name="Symbol of Vengeance"/> (Axe 2)
-13. <TomeSkill name="Chapter 2: Daring Challenge"/> (Tome 3-2)
-14. <TomeSkill name="Chapter 4: Stalwart Stand"/> (Tome 3-4)
-15. <TomeSkill name="Epilogue: Unbroken Lines"/> (Tome 3-5)
-16. <TomeSkill name="Chapter 3: Valiant Bulwark"/> (Tome 3-3)
-17. <TomeSkill name="Chapter 1: Unflinching Charge"/> (Tome 3-1)
-18. <TomeSkill name="Chapter 3: Azure Sun"/> (Tome 2-3)
-19. <TomeSkill name="Chapter 1: Desert Bloom"/> (Tome 2-1)
+13. <MissingSkill name="Chapter 2: Daring Challenge"/> (Tome 3-2)
+14. <MissingSkill name="Chapter 4: Stalwart Stand"/> (Tome 3-4)
+15. <MissingSkill name="Epilogue: Unbroken Lines"/> (Tome 3-5)
+16. <MissingSkill name="Chapter 3: Valiant Bulwark"/> (Tome 3-3)
+17. <MissingSkill name="Chapter 1: Unflinching Charge"/> (Tome 3-1)
+18. <MissingSkill name="Chapter 3: Azure Sun"/> (Tome 2-3)
+19. <MissingSkill name="Chapter 1: Desert Bloom"/> (Tome 2-1)
 20. _Swap to Axe / Shield_
 21. <Skill name="Shield of Judgment"/> (Shield 4)
 22. <Skill name="Symbol of Vengeance"/> (Axe 2)

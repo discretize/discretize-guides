@@ -1,14 +1,12 @@
 ---
 author: Casual Sophie - Jin Su Liang.9036
 specialization: Renegade
-skills:
-  - 45773
-  - 27505
-traits:
-  - 1786
 boons:
   - name: Alacrity
     uptime: 100%
+    variant: party
+  - name: Might
+    uptime: 10 stacks
     variant: party
 code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 classification:
@@ -23,15 +21,16 @@ rating: Power Meta
 role: Power Damage
 profession: Revenant
 conditions:
-  - Vulnerability
+  - name: Vulnerability
+    uptime: 10 stacks
 cmGuide: pug
 archive: false
 hidden: false
 ---
 
-The <Specialization name="Renegade"/> is the profession with the most support and utility among all META classes. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
+The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
-Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other META classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
+Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other damage dealing classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 

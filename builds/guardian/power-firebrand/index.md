@@ -7,14 +7,11 @@ role: Power Damage
 author: ganymed.3541
 profession: Guardian
 specialization: Firebrand
-skills:
-  - 9093
-  - 9153
-  - 9251
 conditions:
-  - Vulnerability
-  - Blinded
-  - Crippled
+  - name: Vulnerability
+    uptime: 25 stacks
+  - name: Blinded
+  - name: Crippled
 boons:
   - name: Quickness
     uptime: 100%
@@ -22,7 +19,10 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: group
-code: "[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+  - name: Fury
+    uptime: 100%
+    variant: group
+code: '[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: static
 classification:
   - 5
@@ -484,14 +484,14 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Card title="Defiance Bar Damage">
 
-|                                                   |            |
-| ------------------------------------------------- | ---------- |
-| <Skill id="9093"/>                                | 300 damage |
-| <Skill id="9226"/> (after <Skill id="9147"/>)     | 150 damage |
-| <Skill name="Hammer of Wisdom"/>                  | 200 damage |
-| <TomeSkill name="Chapter 3: Heated Rebuke"/> (F1) | 150 damage |
-| <Skill name="Chains of light"/>                   | 250 damage |
-| <Skill name="Sanctuary"/>                         | 750 damage |
+|                                                      |            |
+| ---------------------------------------------------- | ---------- |
+| <Skill id="9093"/>                                   | 300 damage |
+| <Skill id="9226"/> (after <Skill id="9147"/>)        | 150 damage |
+| <Skill name="Hammer of Wisdom"/>                     | 200 damage |
+| <MissingSkill name="Chapter 3: Heated Rebuke"/> (F1) | 150 damage |
+| <Skill name="Chains of light"/>                      | 250 damage |
+| <Skill name="Sanctuary"/>                            | 750 damage |
 
 </Card>
 <Card title="Alternative Weapons">
@@ -563,9 +563,9 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 </p>
 
 - <Skill name="Tome of Justice"/> (F1):
-  - <TomeSkill name="chapterscorchedaftermath"/> is a ticking AoE, good for single target and great for AoE DPS, provides fire field so make sure to use it before the fight to stack some might
-  - <TomeSkill name="epilogue ashes of the just"/> makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
-  - <TomeSkill name="Chapter 3: Heated Rebuke"/> is an AoE pull (150 defiance bar damage)
+  - <MissingSkill name="chapterscorchedaftermath"/> is a ticking AoE, good for single target and great for AoE DPS, provides fire field so make sure to use it before the fight to stack some might
+  - <MissingSkill name="epilogue ashes of the just"/> makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
+  - <MissingSkill name="Chapter 3: Heated Rebuke"/> is an AoE pull (150 defiance bar damage)
   - Often these skills are used as an opener
 - <Skill name="Tome of Resolve"/> (F2):
   - Skill 2 is a party condition cleanse
@@ -599,7 +599,7 @@ For that reason you can find a video with openers, that are efficient to use her
 
 If you have a _Mistlock Singularity_ present you can use these skills for precasts:
 
-1.  Cast <Skill name="tome of justice"/>: <TomeSkill name="chapterscorchedaftermath"/> and <TomeSkill name="Epilogue: Ashes of the just"/>
+1.  Cast <Skill name="tome of justice"/>: <MissingSkill name="chapterscorchedaftermath"/> and <MissingSkill name="Epilogue: Ashes of the just"/>
 2.  Blast the fire field by casting <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 3.  Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4.  Use <Skill name="Stand your ground"/> or <Skill name="saveyourselves"/>
