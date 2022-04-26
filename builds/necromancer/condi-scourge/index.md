@@ -5,22 +5,17 @@ role: Condi Damage
 author: 'Discord: Amerikajinn#9784'
 profession: Necromancer
 specialization: Scourge
-skills:
-  - 10606
-  - 44663
-  - 10602
-traits:
-  - 801
-  - 905
-  - 2164
-  - 2121
+boons:
+  - name: Might
+    uptime: 20 stacks
 conditions:
-  - Vulnerability
-  - Weakness
-  - Crippled
-  - Chilled
-  - Poisoned
-  - Blinded
+  - name: Vulnerability
+    uptime: 20 stacks
+  - name: Weakness
+  - name: Crippled
+  - name: Chilled
+  - name: Poisoned
+  - name: Blinded
 code: '[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: ''
 classification:
@@ -30,11 +25,6 @@ classification:
   - 2
   - 3
 date: 2022-03-28T17:31:00.066Z
-benchmark:
-  small:
-    dps: 37044
-    by: Prud
-    youtube: 6NbhBMCyjmw
 archive: false
 hidden: false
 ---
