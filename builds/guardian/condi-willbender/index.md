@@ -8,10 +8,9 @@ skills: null
 archive: false
 hidden: false
 conditions:
-  - Burning
-  - Vulnerability
-  - Crippled
-  - Bleeding
+  - name: Burning
+  - name: Crippled
+  - name: Bleeding
 boons:
   - name: Quickness
     uptime: ~10%
