@@ -25,20 +25,13 @@ classification:
   - 5
   - 2
   - 3
-compositions:
-  - name: _CRGB
 date: 2022-04-17T19:24:30.425Z
 conditions:
-  - Burning
-  - Vulnerability
-  - Crippled
-  - Bleeding
+  - name: Burning
+  - name: Vulnerability
+  - name: Crippled
+  - name: Bleeding
 cmGuide: ''
-benchmark:
-  small:
-    dps: 36732
-    by: TJ [SC]
-    youtube: U1yYDskt3Cw
 ---
 
 <Beginner>
