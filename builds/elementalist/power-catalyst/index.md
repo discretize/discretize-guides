@@ -1,7 +1,7 @@
 ---
 title: Power (Quick) Catalyst
 hidden: false
-archive: true
+archive: false
 rating: Good
 role: Power Damage
 profession: Elementalist
@@ -11,11 +11,7 @@ conditions:
   - name: Chilled
   - name: Vulnerability
     uptime: 10 stacks
-boons:
-  - name: Quickness
-    uptime: 100% 
-  - name: Might
-    uptime: 9 stacks
+boons: []
 code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
@@ -23,7 +19,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-26T03:12:33.469Z
+date: 2022-04-26T17:17:58.256Z
 ---
 The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
