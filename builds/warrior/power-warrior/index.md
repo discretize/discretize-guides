@@ -14,7 +14,7 @@ skills:
 traits:
   - 1482
 conditions:
-  - Vulnerability
+  - name: Vulnerability
 code: '[&DQIEGws9MxamAKcAogGpAKwAqgCqAKwAfAHuAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4

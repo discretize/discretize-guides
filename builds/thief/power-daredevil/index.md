@@ -10,7 +10,11 @@ specialization: 'Daredevil'
 benchmark: { small: { dps: 35070, by: 'L E F T [dP]', youtube: 'UD7TaxND8vc' } }
 skills: [13132, 13014, 13044, 13065, 13025]
 traits: [2047]
-conditions: ['Vulnerability', 'Crippled', 'Blinded', 'Weakness']
+conditions:
+  - name: 'Vulnerability'
+  - name: 'Crippled'
+  - name: 'Blinded'
+  - name: 'Weakness'
 effects: ['Stealth']
 code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 ---

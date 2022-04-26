@@ -17,7 +17,12 @@ boons:
   - name: Protection
   - name: Vigor
   - name: Stability
-conditions: ['Weakness', 'Vulnerability', 'Blinded', 'Burning', 'Bleeding']
+conditions:
+  - name: 'Weakness'
+  - name: 'Vulnerability'
+  - name: 'Blinded'
+  - name: 'Burning'
+  - name: 'Bleeding'
 code: '[&DQYRPikvMBsXARcBQgHLAL4BTgFQAVABlwCZEgAAAAAAAAAAAAAAAAAAAAA=]'
 ---
 

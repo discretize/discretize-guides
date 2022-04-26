@@ -18,9 +18,9 @@ specialization: Mirage
 code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-01-12T02:05:45.106Z
 conditions:
-  - Bleeding
-  - Poisoned
-  - Burning
+  - name: Bleeding
+  - name: Poisoned
+  - name: Burning
 cmGuide: ''
 benchmark:
   small:
