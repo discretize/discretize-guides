@@ -21,7 +21,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-26T03:06:10.188Z
+date: 2022-04-26T03:12:33.469Z
 ---
 The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and blasting fire fields. It can also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
@@ -1018,6 +1018,12 @@ Which precasts you can do will rely on the amount of energy you have before taki
 
 It is recommended to use separate precast templates to cast different utility and weapon skills.
 Just make sure that both templates use the same traits to not get the status reset on swap.
+
+</Card>
+
+<Card title="Extra Info">
+- One possible way of adapting your rotation to your phase timing is skipping auto-attacks in <Skill name="Earth Attunement"/> to get to your big damaging skills in <Skill name="Air Attunement"/> like <Skill name="Grand Finale"/> faster if the phase is about to end.
+- Try to move away from your target early if you know it will go <Effect name="Invulnerability"/> like MAMA. Hitting an <Effect name="Invulnerability"/> target with your Hammer 3 orbs will make them disappear which can cause confusion in your rotation as you will not be ableto cast <Skill name="Grand Finale"/> unless the orb corresponding to the attunement you are in is active. You will also lose important damage buffs this way. You can reset your rotation from this happening by using <Skill name="Grand Finale"/> in <Skill name="Earth Attunement"/> if you notice it early enough so you can start over by activating <Skill name="Crescent Wind"/> in <Skill name="Air Attunement"/>.
 
 </Card>
 
