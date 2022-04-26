@@ -6,22 +6,19 @@ profession: Guardian
 specialization: Dragonhunter
 archive: false
 hidden: false
-skills:
-  - 30783
-  - 30039
-  - 9153
-  - 9251
-conditions: []
+conditions:
+  - name: Vulnerability
+    uptime: 25 stacks
 boons:
   - name: Quickness
     uptime: ~10%
     variant: group
-  - name: Quickness
-    uptime: ~25%
-    variant: self
   - name: Might
     uptime: 2 stacks
     variant: party
+  - name: Fury
+    uptime: 80%
+    variant: group
 code: '[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3

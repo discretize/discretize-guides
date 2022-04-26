@@ -6,16 +6,11 @@ archive: false
 hidden: false
 profession: Elementalist
 specialization: Weaver
-skills:
-  - 43638
-  - 5542
-  - 40183
 conditions:
-  - Burning
-  - Vulnerability
-  - Crippled
-  - Bleeding
-  - Chilled
+  - name: Burning
+  - name: Crippled
+  - name: Bleeding
+  - name: Chilled
 code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
@@ -26,12 +21,6 @@ classification:
 date: 2022-03-28T17:12:13.596Z
 cmGuide: ''
 ---
-
-<Warning>
-
-This build performs best in [Sunqua Peak](/fractals/sunqua-peak). Outside of this fractal, it will fall behind <BuildLink build="Power Weaver" specialization="Weaver"/> due to its fairly slower damage ramp-up.
-
-</Warning>
 
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak), and will almost always outperform <BuildLink build="Power Weaver" specialization="Weaver"/> (if you find yourself in a slow group, this build can also be an attractive choice for ''slower'' encounters like Ensolyss and Arkk).
 

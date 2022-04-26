@@ -8,13 +8,12 @@ profession: Warrior
 specialization: BLadesworn
 skills: null
 traits: null
-conditions: null
+conditions:
+  - name: Vulnerability
+    uptime: 7 stacks
 boons:
   - name: Might
     uptime: 12 Stacks
-    variant: party
-  - name: Fury
-    uptime: 100&
     variant: party
 code: '[&DQIEHzMWRCunAAAAAAAAAKwACgCqAKIBnACcAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
@@ -25,12 +24,6 @@ classification:
   - 4
 date: 2022-03-28T17:47:07.547Z
 ---
-
-<Warning>
-
-This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
-
-</Warning>
 
 The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favour of short damage spikes. Unfortunately if enemies dont phase or die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
 

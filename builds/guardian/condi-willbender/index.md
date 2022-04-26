@@ -8,10 +8,9 @@ skills: null
 archive: false
 hidden: false
 conditions:
-  - Burning
-  - Vulnerability
-  - Crippled
-  - Bleeding
+  - name: Burning
+  - name: Crippled
+  - name: Bleeding
 boons:
   - name: Quickness
     uptime: ~10%
@@ -31,12 +30,6 @@ classification:
   - 3
 date: 2022-03-26T19:38:24.409Z
 ---
-
-<Warning>
-
-This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
-
-</Warning>
 
 The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC and mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party with <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
 

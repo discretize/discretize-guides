@@ -6,13 +6,10 @@ rating: Good
 role: Condi Damage
 profession: Mesmer
 specialization: Virtuoso
-boons:
-  - name: Fury
-    variant: Self
-    uptime: 100%
-  - name: Might
-    variant: Self
-    uptime: 25 Stacks
+conditions:
+  - name: Vulnerability
+    uptime: 25 stacks
+  - name: Bleeding
 code: '[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3

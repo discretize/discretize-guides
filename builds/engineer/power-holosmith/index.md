@@ -1,11 +1,4 @@
 ---
-skills:
-  - 42938
-  - 42842
-  - 42009
-  - 30815
-effects:
-  - Stealth
 title: Power Holosmith
 rating: Good
 archive: false
@@ -15,10 +8,11 @@ author: Ascers.6082
 profession: Engineer
 specialization: Holosmith
 conditions:
-  - Vulnerability
-  - Blinded
-  - Crippled
-  - Immobile
+  - name: Vulnerability
+    uptime: 20 Stacks
+  - name: Blinded
+  - name: Crippled
+  - name: Immobile
 code: '[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: ''
 classification:
