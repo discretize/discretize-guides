@@ -8,7 +8,7 @@ conditions:
   - name: Vulnerability
     uptime: 20 stacks
   - name: Weakness
-  - name: Immobilize
+  - name: Immobile
   - name: Poisoned
   - name: Bleeding
   - name: Torment
