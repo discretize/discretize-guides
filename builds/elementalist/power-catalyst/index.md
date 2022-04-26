@@ -7,17 +7,15 @@ role: Power Damage
 profession: Elementalist
 specialization: Catalyst
 conditions:
-  - Burning
-  - Chilled
-  - Vulnerability
+  - name: Burning
+  - name: Chilled
+  - name: Vulnerability
     uptime: 10 stacks
 boons:
   - name: Quickness
-    uptime: 100%
-    variant: group
+    uptime: 100% 
   - name: Might
     uptime: 9 stacks
-    variant: group
 code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
