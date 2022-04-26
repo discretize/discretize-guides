@@ -8,18 +8,19 @@ profession: Guardian
 specialization: Willbender
 skills: null
 conditions:
-  - Vulnerability
-  - Blinded
-  - Crippled
+  - name: Vulnerability
+    uptime: 25 stacks
+  - name: Blinded
+  - name: Crippled
 boons:
   - name: Quickness
     uptime: ~10%
     variant: group
-  - name: Quickness
-    uptime: ~25%
-    variant: self
   - name: Might
     uptime: 2 stacks
+    variant: party
+  - name: Fury
+    uptime: 80%
     variant: party
 code: '[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
