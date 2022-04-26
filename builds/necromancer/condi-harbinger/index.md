@@ -23,6 +23,9 @@ boons:
   - name: Regeneration
     uptime: 45% (50% party on Quickness variant)
     variant: self
+conditions:
+  - name: Vulnerability
+    uptime: 20 stacks
 code: '[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3

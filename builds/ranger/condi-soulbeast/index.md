@@ -5,34 +5,22 @@ role: Condi Damage
 profession: Ranger
 archive: false
 hidden: false
-skills:
-  - 45717
-  - 12498
-  - 12508
-  - 46432
 classification:
   - 5
   - 4
   - 3
   - 2
   - 3
-compositions:
-  - name: _CRGB
-    roles: DPS/CC/Quickness,DPS/CC/Quickness,DPS/Moa,DPS/Sun Spirit,DPS/Alacrity/CC
-    composition: Firebrand,Firebrand,Soulbeast,Soulbeast,Renegade
 specialization: Soulbeast
 code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-03-28T17:42:00.313Z
 conditions:
-  - Bleeding
-  - Poisoned
-  - Burning
+  - name: Vulnerability
+    uptime: 10 stacks
+  - name: Bleeding
+  - name: Poisoned
+  - name: Burning
 cmGuide: pug
-benchmark:
-  small:
-    dps: 36197
-    by: Eren
-    youtube: WSuDmiuAwC8
 ---
 
 <Warning>

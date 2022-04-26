@@ -8,14 +8,8 @@ role: Power Damage
 profession: Mesmer
 specialization: Virtuoso
 conditions:
-  - Vulnerability
-boons:
-  - name: Might
-    variant: Self
-    uptime: 25 Stacks - On Demand
-  - name: Fury
-    uptime: 100% - On Demand
-    variant: Self
+  - name: Vulnerability
+    uptime: 25 stacks
 code: '[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3

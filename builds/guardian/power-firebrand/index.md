@@ -7,20 +7,20 @@ role: Power Damage
 author: ganymed.3541
 profession: Guardian
 specialization: Firebrand
-skills:
-  - 9093
-  - 9153
-  - 9251
 conditions:
-  - Vulnerability
-  - Blinded
-  - Crippled
+  - name: Vulnerability
+    uptime: 25 stacks
+  - name: Blinded
+  - name: Crippled
 boons:
   - name: Quickness
     uptime: 100%
     variant: group
   - name: Might
     uptime: 2 stacks
+    variant: group
+  - name: Fury
+    uptime: 100%
     variant: group
 code: '[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: static

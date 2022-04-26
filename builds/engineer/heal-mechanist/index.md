@@ -9,9 +9,10 @@ profession: Engineer
 specialization: Mechanist
 traits: []
 conditions:
-  - Burning
-  - Confusion
-  - Vulnerability
+  - name: Burning
+  - name: Confusion
+  - name: Vulnerability
+    uptime: 5 Stacks  
 boons:
   - name: Alacrity
     uptime: 100%
@@ -30,13 +31,7 @@ boons:
     variant: Party
   - name: Protection
     variant: Party
-    uptime: On Demand
-  - name: Stability
-    uptime: On Demand
-    variant: party
-  - name: Aegis
-    variant: party
-    uptime: On Demand
+    uptime: 100%
 code: '[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4

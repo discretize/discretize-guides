@@ -5,14 +5,9 @@ role: Support
 author: Ascers.6082
 profession: Guardian
 specialization: Firebrand
-skills:
-  - 9093
-  - 9153
-  - 9251
 conditions:
-  - Vulnerability
-  - Blinded
-  - Crippled
+  - name: Blinded
+  - name: Crippled
 boons:
   - name: Quickness
     uptime: 150%

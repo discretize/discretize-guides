@@ -4,14 +4,14 @@ rating: Good
 role: Condi Damage
 profession: Thief
 specialization: Specter
-skills: null
 conditions:
-  - Vulnerability
-  - Weakness
-  - Immobilize
-  - Poisoned
-  - Bleeding
-  - Torment
+  - name: Vulnerability
+    uptime: 20 stacks
+  - name: Weakness
+  - name: Immobilize
+  - name: Poisoned
+  - name: Bleeding
+  - name: Torment
 boons: null
 cmGuide: ''
 classification:
@@ -26,12 +26,6 @@ date: 2022-03-20T17:44:08.565Z
 archive: false
 hidden: false
 ---
-
-<Warning>
-
-This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
-
-</Warning>
 
 The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. The value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target.
 

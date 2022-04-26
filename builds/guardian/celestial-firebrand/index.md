@@ -6,13 +6,6 @@ rating: Good
 role: Hybrid
 profession: Guardian
 specialization: Firebrand
-skills:
-  - 9128
-  - 9084
-  - 9155
-  - 9175
-conditions:
-  - Burning
 boons:
   - name: Quickness
     uptime: 100%

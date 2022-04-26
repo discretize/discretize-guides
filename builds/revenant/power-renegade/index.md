@@ -1,14 +1,12 @@
 ---
 author: Casual Sophie - Jin Su Liang.9036
 specialization: Renegade
-skills:
-  - 45773
-  - 27505
-traits:
-  - 1786
 boons:
   - name: Alacrity
     uptime: 100%
+    variant: party
+  - name: Might
+    uptime: 10 stacks
     variant: party
 code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 classification:
@@ -23,7 +21,8 @@ rating: Power Meta
 role: Power Damage
 profession: Revenant
 conditions:
-  - Vulnerability
+  - name: Vulnerability
+    uptime: 10 stacks
 cmGuide: pug
 archive: false
 hidden: false
