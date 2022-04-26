@@ -21,15 +21,8 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-25T22:11:02.721Z
+date: 2022-04-26T03:06:10.188Z
 ---
-
-<Warning>
-
-This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
-
-</Warning>
-
 The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and blasting fire fields. It can also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
 This build has less burst than the <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres.
@@ -937,16 +930,76 @@ While playing with <Trait name="Spectacular Sphere"/>, you will also provide the
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
-<GridItem xs="12" sm="6">
+<GridItem xs="12" sm="7">
+
+<Card title="Step-by-Step Rotation">
+This is a step-by-step explanation of the Catalyst rotation. The rotation will be the same for the DPS and <Boon name="Quickness"/> variant. A mostly complete written rotation and some extra info can be found at step 3. The steps do not indicate what skills do the most damage, it merely demonstrates a possible way to learn the rotation.
+
+**Step 1: Attunement Rotation/Hammer 3**
+
+In the first step, we will take a look at the Hammer 3 skill. All of the orbs are instant-casts while <Skill name="Grand Finale"/> is not.
+
+1. Start in <Skill name="Air Attunement"/> and cast <Skill name="Crescent Wind"/>.
+2. Swap to <Skill name="Fire Attunement"/> and cast <Skill name="Flame Wheel"/>.
+3. Swap to <Skill name="Water Attunement"/> and cast <Skill name="Icy Coil"/>.
+4. Swap to <Skill name="Earth Attunement"/> and cast <Skill name="Rocky Loop"/>.
+5. Swap back to <Skill name="Air Attunement"/> and cast <Skill name="Grand Finale"/>.
+6. Repeat from step 1 (the cooldowns will take a bit to recover as we are not using any other skills yet)
+
+This will maximize uptime of the 2 offensive buffs from Hammer 3 and make sure that you always use <Skill name="Grand Finale"/> with all 4 orbs up. Make sure to not double-tap the skill on the first loop or you will cast <Skill name="Grand Finale"/> early losing your buffs and extra damage from sending all 4 orbs. In later loops, the skill will be on-cooldown so this will not be an issue.
+
+**Step 2: Jade Sphere and Augments**
+
+Now it is time to take a look at the Jade Sphere and Augments, namely <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. These become stronger when cast near the coresponding Sphere. We will have enough energy to cast our Jade Sphere is Air, Fire and Water. Use the Augments right after casting the corresponding Sphere. We will also use <Skill name="Relentless Fire"/> as a timer for counting auto-attacks in <Skill name="Earth Attunement"/> as this is our strongest auto-attack.
+
+1. Start in <Skill name="Air Attunement"/> and cast <Skill name="Crescent Wind"/> and <Skill id="62940"/>.
+2. Swap to <Skill name="Fire Attunement"/> and cast <Skill name="Flame Wheel"/> and <Skill id="63396"/>, followed by <Skill name="Relentless Fire"/>.
+3. Swap to <Skill name="Water Attunement"/> and cast <Skill name="Icy Coil"/> and <Skill id="62723"/>, followed by <Skill name="SHattering Ice"/>.
+4. Swap to <Skill name="Earth Attunement"/> and cast <Skill name="Rocky Loop"/>. Use <Skill name="Stonestrike"/> until <Skill name="Relentless Fire"/> has around 7-9 seconds cooldown left.
+5. Swap back to <Skill name="Air Attunement"/> and cast <Skill name="Grand Finale"/>.
+6. Repeat from step 1
+
+**Step 3: Hammer Skills**
+
+All of your Hammer skills except <Skill name="Wind Storm"/> (Air 4) and <Skill name="Immutable Stone"/> (Earth 4) are worth using in your rotation. Once you swap to an attunement, cast all good weapon skills in that attunement. You can use longer channels such as <Skill name="Hurricane of Pain"/> to use your Hammer 3 and Jade Spheres as well as attunement swap during their casts. The rotation will look like this:
+
+1. Start in <Skill name="Air Attunement"/> and cast <Skill name="Shock Blast"/> and <Skill name="Hurricane of Pain"/>. 
+2. Use<Skill name="Crescent Wind"/> and <Skill id="62940"/> during the cast, swap to <Skill name="Fire Attunement"/> and cast <Skill name="Flame Wheel"/> and <Skill id="63396"/>
+3. Once <Skill name="Hurricane of Pain"/> finishes its channel, use <Skill name="Relentless Fire"/>, <Skill name="Molten End"/>, <Skill name="Triple Sear"/> and <Skill name="Surging Flames"/>.
+4. Swap to <Skill name="Water Attunement"/> and cast <Skill name="Icy Coil"/> and <Skill id="62723"/>, followed by <Skill name="Shattering Ice"/>.
+5. Use <Skill name="Cleansing Typhoon"/>, <Skill name="Crashing Font"/> and <Skill name="Rain of Blows"/>.
+6. Swap to <Skill name="Earth Attunement"/> and cast <Skill name="Rocky Loop"/>, followed by <Skill name="Ground Pound"/> and <Skill name="Whirling Stones"/>.
+7. Use <Skill name="Stonestrike"/> until <Skill name="Relentless Fire"/> has around 7-9 seconds cooldown left.
+8. Swap back to <Skill name="Air Attunement"/> and cast <Skill name="Hurricane of Pain"/>, followed by <Skill name="Grand Finale"/>. Cast <Skill id="62940"/> once you have enough energy. Use <Skill name="Shock Blast"/> when it is back.
+6. Repeat from step 2 (skipping the <Skill id="62940"/> as you already casted it in step 8).
+
+You can focus on only using Hammer 2 in each attunement first if you struggle to press everything at once.
+ 
+**Note:** Not all skills will always be off-cooldown in this rotation. It is usually worth waiting for the following skills (as all their cooldowns should be the same as <Skill name="Relentless Fire"/> meaning you will not delay your rotation):
+- <Skill name="Molten End"/> (only when running Fire trait line)
+- <Skill name="Crashing Font"/>
+- <Skill name="Shock Blast"/>
+
+**Step 4: Glyph of Storms and Conjures**
+
+The last skills we need to incorporate are <Skill name="Glyph of Storms"/> and <Skill name="Conjure Fiery Greatsword"/> (as well as other Conjures if we're running any).
+
+Cast <Skill name="Glyph of Storms"/> at the start of the fight in <Skill name="Air Attunement"/>. You will be able to cast it approx. every 3 loops in <Skill name="Air Attunement"/>.
+
+In fractals, you will mostly use Conjures to precast skills at the start of the fight or between phases. The most important skills are <Skill name="Invoke Lightning"/> from <Skill name="Conjure Lightning Hammer"/> as well as <Skill name="Firestorm"/> from <Skill name="Conjure Fiery Greatsword"/>.
+
+In a golem situation (long single phase, no <Effect name="Exposed"/> to take advantage of), the highest damage is using <Skill name="Conjure Fiery Greatsword"/> skill 4 and 5 in <Skill name="Earth Attunement"/> instead of some <Skill name="Stonestrike"/>.
+
+</Card>
+
+</GridItem>
+
+<GridItem xs="12" sm="5">
 
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
 </Card>
-
-</GridItem>
-
-<GridItem xs="12" sm="6">
 
 <Card title="Precasting">
 
@@ -968,10 +1021,6 @@ Just make sure that both templates use the same traits to not get the status res
 
 </Card>
 
-<Card title="Catalyst Rotation">
-
-<Video caption="" youtube=""/>
-</Card>
 
 </GridItem>
 </Grid>
