@@ -5,6 +5,9 @@ boons:
   - name: Alacrity
     uptime: 100%
     variant: party
+  - name: Might
+    uptime: 10 stacks
+    variant: party
 code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
 classification:
   - 5
