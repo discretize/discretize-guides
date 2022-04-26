@@ -7,10 +7,10 @@ hidden: false
 profession: Elementalist
 specialization: Weaver
 conditions:
-  - Burning
-  - Crippled
-  - Bleeding
-  - Chilled
+  - name: Burning
+  - name: Crippled
+  - name: Bleeding
+  - name: Chilled
 code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
