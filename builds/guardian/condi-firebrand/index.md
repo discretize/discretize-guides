@@ -9,7 +9,10 @@ profession: Guardian
 specialization: Firebrand
 skills: []
 boons:
-  - name: Quickness
+  - name: Might
+    uptime: 5 stacks
+    variant: party
+  - name: Fury
     uptime: 100%
     variant: party
   - name: Stability
