@@ -10,9 +10,13 @@ conditions:
   - Burning
   - Chilled
   - Vulnerability
+    uptime: 10 stacks
 boons:
   - name: Quickness
     uptime: 100%
+    variant: group
+  - name: Might
+    uptime: 9 stacks
     variant: group
 code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
@@ -23,12 +27,6 @@ classification:
   - 3
 date: 2022-04-17T07:25:00.287Z
 ---
-
-<Warning>
-
-This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
-
-</Warning>
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and blasting fire fields. It can also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
