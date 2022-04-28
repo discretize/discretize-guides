@@ -33,7 +33,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-04-28T00:41:20.780Z
+date: 2022-04-28T01:16:33.065Z
 ---
 
 The <Specialization name="Dragonhunter"/> is a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and high <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -751,7 +751,7 @@ Now it is time to incorporate another strong utility skill, <Skill name="Sword o
 
 **Step 4: Sword skills**
 
-This last step will not contribute much to your consistent DPS but can increase your burst by a good amount which is especially important on fights with shorter phases. We will use <Skill name="Symbol of Blades"/> and <Skill name="Zealots Defense"/> once at the start of the fight, then swap to Greatsword and only swap back shortly before the boss dies or phases to cast these 2 skills again.
+This last step will not contribute much to your consistent DPS but can increase your burst by a good amount which is especially important on fights with shorter phases. We will use <Skill name="Symbol of Blades"/> and <Skill name="Zealots Defense"/> at the start of the fight, then swap to Greatsword and do our regular rotation.
 
 The opener should now look like this:
 1. <Skill name="Sword of Justice"/>
