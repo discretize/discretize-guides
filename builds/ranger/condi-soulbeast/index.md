@@ -1,26 +1,27 @@
 ---
 title: Condi Soulbeast
+hidden: false
+archive: false
+hasBeginner: true
 rating: Meta
 role: Condi Damage
 profession: Ranger
-archive: false
-hidden: false
-classification:
-  - 5
-  - 4
-  - 3
-  - 2
-  - 3
 specialization: Soulbeast
-code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-03-28T17:42:00.313Z
 conditions:
   - name: Vulnerability
     uptime: 10 stacks
   - name: Bleeding
   - name: Poisoned
   - name: Burning
+code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: pug
+classification:
+  - 5
+  - 4
+  - 3
+  - 2
+  - 3
+date: 2022-04-28T05:02:16.627Z
 ---
 
 <Warning>
@@ -37,6 +38,12 @@ This build is rather self sufficient due to:
 - High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
 
 Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
+
+<Beginner>
+
+This guide will focus on the Shortbow + Dagger/Torch variant of the build with <Trait name="Light on your Feet"/> which is the most used version in fractals. There are some alternatives for specific situations with slightly varying rotations. Once you are able to exceute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills, trait swaps or other weapon variants.
+
+</Beginner>
 
 <Divider text="Equipment"/>
 
@@ -188,7 +195,7 @@ Overall this is a very well rounded build that is rewarding to play in both PuGs
 If you do not have a Jade Bot Core: Tier 10, you will have slightly lower duration on your non-bleeding conditions but the build does not change!
 
 </Character>
-<Character title="Afflicted Runes" gear={{
+<Character advanced title="Afflicted Runes" gear={{
   "profession": "Ranger",
   "weight": "medium",
   "gear": [
@@ -345,7 +352,24 @@ This build uses the Jade Bot Core: Tier 10 in combination with 14 <Item name="Sp
 <Grid>
 <GridItem sm="7">
 <Traits traits1Id="33" traits1="Wilderness Survival" traits1SelectedIds="1099,1101,1701" traits2Id="30" traits2="Skirmishing" traits2SelectedIds="1069,1846,1912" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2161,2128"/>
+
+<Beginner>
+
+<Card title="Defiance Bar Damage">
+
+|                                            |                                                                                   |
+| ------------------------------------------ | --------------------------------------------------------------------------------- |
+| <Skill id="46432" size="big" disableText/> | 300 damage (F2 in <Skill id="42944"/>)                                            |
+| <Skill id="12508" size="big" disableText/> | 200 damage (Shortbow 5)                                                           |
+| <Skill id="12507" size="big" disableText/> | 50/s <Condition name="Immobile"/>, 15/s <Condition name="Crippled"/> (Shortbow 4) |
+| <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3)       |
+
+</Card>
+
+</Beginner>
+
 </GridItem>
+
 
 <GridItem sm="5">
 <Card title="Situational Skills">
@@ -353,23 +377,29 @@ This build uses the Jade Bot Core: Tier 10 in combination with 14 <Item name="Sp
 |                                                       |                                                                                                                                                                                                                                                                                     |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Sun Spirit" size="big" disableText/>     | Your standard 3rd utility. Provides a partywide damage increase by causing you and allies to periodically inflict <Condition name="Burning"/>.                                                                                                                                      |
-| <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Sun Spirit"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
+| <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Vulture Stance"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
 | <Skill name="Vipers Nest" size="big" disableText/>    | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>.                                                                                                                                    |
-| <Skill name="Bear stance" size="big" disableText/>    | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>.                                                                                                                                                                                                    |
-| <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. Very useful on 100CM!                                                                                                                          |
+| <Skill name="Bear stance" size="big" disableText/>    | A party-wide condi cleanse through <Trait name="leaderofthepack"/>.                                                                                                                                                                                                    |
+| <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if your party needs a long lasting condi cleanse. Very useful on 100CM!                                                                                                                          |
 
 </Card>
 <Card title="Pets">
 
-|                                            |                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="46432" size="big" disableText/> | [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>.                                                                                                                                                        |
-| <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets. Only take Bristleback if you can consistently get 5+ hits from <Skill name="Rain of Spikes"/> without delaying the skill too much. |
-| <Skill id="44514" size="big" disableText/> | [Lynx](https://wiki.guildwars2.com/wiki/Juvenile_Lynx) - Best single target CDPS pet. Taken if you don't need the CC from Warthog                                                                                                                                                                             |
+[Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>.
+
+<Advanced>
+
+[Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets. Only take Bristleback if you can consistently get 5+ hits from <Skill name="Rain of Spikes"/> without delaying the skill too much.
+
+</Advanced>
+
+[Lynx](https://wiki.guildwars2.com/wiki/Juvenile_Lynx) - Best single target CDPS pet. Taken if you don't need the CC from Warthog
 
 </Card>
 </GridItem>
 </Grid>
+
+<Advanced>
 
 <Divider text="Further information"/>
 
@@ -411,8 +441,12 @@ Running an off-hand Dagger is similar DPS to Torch providing you can flank perma
 </GridItem>
 </Grid>
 
+</Advanced>
+
 <Divider text="Rotation / Skill usage"/>
 
+
+<Advanced>
 <Grid>
 <GridItem sm="6">
 <Card title="Information">
@@ -503,3 +537,70 @@ As a <Specialization name="Soulbeast" text="Condi Soulbeast"/> we have three imp
 
 </GridItem>
 </Grid>
+</Advanced>
+
+<Beginner>
+
+<Grid>
+<GridItem xs="12" sm="7">
+<Card title="Step-by-Step Rotation">
+
+**Step 1: Weapon Rotation**
+
+The highest priority skills are your weapon skills, namely skill 2,4 and 5 on both sets. The weapon skill rotation will be the backbone of your rotation and you will not want to interrupt it for any other skill. Any further steps will introduce more skills to fill the gaps between your weapon skills, so it is a good idea to spend some time practising this step.
+
+The weapon rotation is:
+1. Start on Shortbow and use <Skill name="Poison Volley"/>, <Skill name="Crippling Shot"/> and <Skill name="Concussion Shot"/>.
+2. Swap to Dagger/Torch and use <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and <Skill name="Bonfire"/>.
+3. Keep using these skills off-cooldown. Your 3rd <Skill name="Double Arc"/> and 2nd <Skill name="Throw Torch"/> should come back at the same time. Use them and swap back to Shortbow.
+4. Use <Skill name="Poison Volley"/>, <Skill name="Crippling Shot"/> and <Skill name="Concussion Shot"/> off-cooldown (with this priority) until you used <Skill name="Poison Volley"/> 3 times.
+5. Repeat from step 2.
+
+**Step 2: Beastmode Skills**
+
+Your <Skill name="Beastmode"/> skills will fill some gaps in your weapon rotation. Use them off-cooldown but do not interrupt or delay yoru weapon rotation for them. The priority depends on the Pet you are using.
+
+For Lynx, the priority is:
+1. <Skill id="44514"/>
+2. <Skill id="40588"/>
+
+For Warthog, the priority is:
+1. <Skill id="46432"/>
+2. <Skill id="41406"/>
+3. <Skill id="40588"/>
+ 
+Keep in mind that <Skill id="46432"/> is also a CC skill, so delay it for breakbars if necessary but try not to delay it for too long if possible.
+
+
+**Step 3: Utility Skills**
+
+Next up, we want to incorporate our Utility Skills
+
+**Step 4: Easy Precasts**
+
+Lastly, we will look at some easy precasts you can (almost) always do with low effort but good reward.
+
+</Card>
+
+
+<Card title="Improving Further">
+Once you are comfortable with the above steps, you are basically doing the full rotation and will be able to deal great damage.
+
+There will be a few additional things on the advanced page to improve further but if you got to here, you already know the most important things and these will have less total impact than what you learned so far.
+
+Most of the additional steps will be extra precasts to have a higher damage spike or help with providing boons for your party at the Mistlock Singularity.
+
+</Card>
+
+</GridItem>
+<GridItem xs="12" sm="5">
+
+<Card title="Shortbow Golem Rotation">
+This video shows the full rotation on the golem.
+
+<Video youtube="iKKWM4F3ayg" caption="by Eren"/>
+
+</Card>
+</GridItem>
+</Grid>
+</Beginner>
