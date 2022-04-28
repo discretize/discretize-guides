@@ -19,7 +19,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-28T18:22:57.869Z
+date: 2022-04-28T18:29:43.125Z
 ---
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
@@ -803,6 +803,7 @@ You will cast <Skill name="Grand Finale"/> in <Skill name="Air Attunement"/> aft
 
 </Card>
 <Card title="Empowering Auras">
+
 <Trait name="Empowering Auras"/> is a buff unique to Catalyst. It grants a 2% outgoing damage buff capping at 5 stacks.
 
 Traits that interact with Elemental Empowerment stacks are:
@@ -842,6 +843,7 @@ For example, <Skill name="Relentless Fire"/> will grant you a damage increase fo
 </Card>
 
 <Card title="Conjures">
+
 Conjures are specific to the Elementalist class.
 - Casting a Conjure skill will give the weapon to you as a bundle replacing your weapon skills and leave one copy on the ground for yourself or an ally to pick up.
 - In fractals, you will mostly use these to precast additional damage at the start of the fight and between phases. Some Conjures will be used only for CC.
@@ -854,6 +856,7 @@ The most common Conjure you will always run is <Skill name="Conjure Fiery Greats
 </Card>
 
 <Card title="Elemental Empowerment">
+
 <Trait name="Elemental Empowerment"/> is a buff unique to Catalyst. It grants a 1% bonus to all stats capping at 10 stacks.
 
 Traits that interact with Elemental Empowerment stacks are:
@@ -887,6 +890,7 @@ Keep in mind that you will only regain energy while hitting an enemy and try to 
 </Card>
 
 <Card title="Might">
+
 - You can help with pre-casting <Boon name="Might"/> as you have a ton of blast finishers in your kit, even without swapping weapons. See the precast section below for more information.
 - Your main source of <Boon name="Might"/> in-combat is your <Skill id="63458"/>. It ticks a total of 6 times giving you 6 stacks. These stacks will last approx. 27 seconds thanks to the recommended Boon Duration on the Quickness variant and <Trait name="Sphere Specialist"/>.
 - You will keep up 1 extra stack of <Boon name="Might"/> when running Arcane. However, this is barely worth mentioning and you will usualy run this trait line for other reasons.
@@ -899,12 +903,14 @@ Keep in mind that you will only regain energy while hitting an enemy and try to 
 <GridItem sm="6">
 
 <Card title="Quickness">
+
 - Your <Boon name="Quickness"/> sources are very straight forward. It only comes from your <Skill id="63459"/>. Refer to the Jade Sphere section for extra tricks.
 - Your entire <Boon name="Quickness"/> coming from a single skill does not mean that this is easy to ukpeep properly. Timing it right to have the entire group be able to stand in the Sphere for its entire duration without ever delaying it much can get quite tricky and is one of the major difficulties of playing Catalyst in fractals as a <Boon name="Quickness"/> provider.
 
 </Card>
 
 <Card title="Other Boons">
+
 Due to using your <Skill id="63461"/> every time you are in <Skill name="Water Attunement"/>, you will passively provide <Boon name="Resolution"/> to your group.
 
 While playing with the Arcane trait line, you will also provide the following boons by swapping through your attunements:
@@ -931,6 +937,7 @@ While playing with <Trait name="Spectacular Sphere"/>, you will also provide the
 <GridItem xs="12" sm="7">
 
 <Card title="Step-by-Step Rotation">
+
 This is a step-by-step explanation of the Catalyst rotation. The rotation will be the same for the DPS and <Boon name="Quickness"/> variant. A mostly complete written rotation and some extra info can be found at step 3. The steps do not indicate what skills do the most damage, it merely demonstrates a possible way to learn the rotation.
 
 **Step 1: Attunement Rotation/Hammer 3**
