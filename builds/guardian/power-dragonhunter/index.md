@@ -33,7 +33,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-04-28T00:29:59.804Z
+date: 2022-04-28T00:41:20.780Z
 ---
 
 The <Specialization name="Dragonhunter"/> is a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and high <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -715,7 +715,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 **Step 0: Bane Signet**
 
 <Skill name="Bane Signet"/> grants you a passive boost to your <Attribute name="Power"/>. Its active will inflict a high amount of CC on your target and share the passive with your allies for 10 seconds through <Trait name="Perfect Inscriptions"/>. Therefore you want to do the following:
-- If a Mistlock Singularity is present, cast <Skill name="Bane Signet"/> there to share its buff, then take the singularity.
+- If a Mistlock Singularity is present, cast <Skill name="Bane Signet"/> there to share its buff right before you run into the fight, then take the singularity.
 - If a boss starts with a breakbar, you'll want to cast <Skill name="Bane Signet"/> at the start to help with breaking the bar while also sharing its passive to your allies to enhance their burst damage as well.
 - If a boss does not get a breakbar early into the fight, you can use <Skill name="Bane Signet"/> before the fight starts to share the passive and start right with your burst when the boss spawns.
 
@@ -784,6 +784,8 @@ The additional steps are:
 </GridItem>
 
 <GridItem xs="12" sm="5">
+
+<Advanced>
 <Card title="Standard Opener">
 
 **Rotation:**
@@ -807,17 +809,13 @@ The additional steps are:
 17. If the phase lasts longer than this, continue with the SC rotation.
 
 </Card>
-</GridItem>
+</Advanced>
 
-<Advanced>
-
-<GridItem xs="12" sm="5">
 <Card title="Golem Rotation">
-
+This video shows the full rotation on the golem. It will slightly vary from the step-by-step version. It also uses the raid setup so numbers will not be comparable.
 <Video youtube="faIaiHFG1qI" caption="by Nagy"/>
 </Card>
 </GridItem>
-</Advanced>
 
 </Grid>
 
