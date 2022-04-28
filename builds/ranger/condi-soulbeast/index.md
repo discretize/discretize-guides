@@ -21,7 +21,7 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-04-28T05:02:16.627Z
+date: 2022-04-28T23:12:32.338Z
 ---
 
 <Warning>
@@ -574,11 +574,19 @@ Keep in mind that <Skill id="46432"/> is also a CC skill, so delay it for breakb
 
 **Step 3: Utility Skills**
 
-Next up, we want to incorporate our Utility Skills
+Next up, we want to incorporate our Utility Skills. These will generally also be used off-cooldown with a higher priority than the <Skill name="Beastmode"/> skills.
+
+- When running with <Skill name="Sun Spirit"/>, make sure to keep in on the group as best as possible. If you know the boss will not move within the next 15 seconds, you can use <Skill name="Solar Flare"/> as an extra filler skill to inflict some <Condition name="Burning"/>.
+- <Skill name="One Wolf Pack"/> is your highest priority utility skill. Use it off-cooldown but don't waste it in split phases. Make sure everyone is in your range and can attack the boss when you cast it.
+- When running <Skill name="Vipers Nest"/>, use it off-cooldown but make sure to not use it right before the boss moves.
+- <Skill name="Sharpening Stone"/> and <Skill name="Vulture Stance"/> are instant-cast so you can use them off-cooldown, even while casting other skills. Make sure to be in range of your allies when using <Skill name="Vulture Stance"/>.
 
 **Step 4: Easy Precasts**
 
-Lastly, we will look at some easy precasts you can (almost) always do with low effort but good reward.
+Lastly, we will look at some easy precasts you can (almost) always do with low effort but good reward:
+
+1. <Skill name="Double Arc"/>, <Skill name="Crippling Shot"/> and <Skill name="Sharpening Stone"/> all provide a boost to your next attacks after being used. You can use these before the fight if you do not get into combat by doing so (no other enemies around). This becomes even more efficient if a Mistlock Singularity is present to reset the skill cooldowns.
+2. If a Mistlock Singularity is present, you can cast your Stances as well, namely <Skill name="One Wolf Pack"/> and <Skill name="Vulture Stance"/>.
 
 </Card>
 
