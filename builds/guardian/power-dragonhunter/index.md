@@ -25,7 +25,7 @@ boons:
   - name: Fury
     uptime: 80%
     variant: group
-code: "[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: static
 classification:
   - 3
@@ -40,7 +40,7 @@ The <Specialization name="Dragonhunter"/> is a good and easy to play build for f
 
 The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> has access to blocks with <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds. It also benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
-Unfortunately, the <Specialization name="Dragonhunter"/> is relying on fast CC to capitalize on the immediate high burst damage. Playing this build in slower groups therefore might not be as rewarding as the condi builds of <Specialization name="Guardian"/>. Sharing <Skill name="bane signet"/> with a party that cant capitalize on the unique buff might also be frustrating. 
+Unfortunately, the <Specialization name="Dragonhunter"/> is relying on fast CC to capitalize on the immediate high burst damage. Playing this build in slower groups therefore might not be as rewarding as the condi builds of <Specialization name="Guardian"/>. Sharing <Skill name="bane signet"/> with a party that cant capitalize on the unique buff might also be frustrating.
 
 <Beginner>
 
@@ -215,152 +215,152 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Character>
 <Character title="162 AR (Banner)" gear={{
-  "profession": "Guardian",
-  "weight": "Heavy",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Dragon",
-    "Berserker",
-    "Berserker",
-  ],
-  "attributes": {
-    "Health": 14265,
-    "Armor": 2514,
-    "Power": 3832,
-    "Precision": 2370,
-    "Toughness": 1243,
-    "Vitality": 1262,
-    "Ferocity": 1567,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1.0023809523809524,
-    "Critical Damage": 2.5446666666666666,
-    "Power Coefficient": 3361,
-    "Burning Coefficient": 1.92,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 34382.27098304175,
-    "Power DPS": 44497.03995918496,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 96.3125,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 355.421875,
-    "Burning Stacks": 1.92,
-    "Burning DPS": 682.41,
-    "Confusion Damage": 118.665625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 112.84375,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 142.74375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 45319.19995918496,
-    "Effective Health": 53129200,
-    "Survivability": 27010.269445856633,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-  "weapons": {
-    "weapon1MainType": "Greatsword",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1MainSigil2Id": 24868,
-    "weapon2MainType": "Sword",
-    "weapon2MainSigil1Id": 24615,
-    "weapon2OffType": "Focus",
-    "weapon2OffSigilId": 24868
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 50082
-  },
-  "skills": {
-    "healId": 21664,
-    "utility1Id": 9168,
-    "utility2Id": 30364,
-    "utility3Id": 9093,
-    "eliteId": 29965
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "spotter",
-      "gw2id": 1016,
-      "type": "Trait"
-    },
-    {
-      "id": "frostSpirit",
-      "gw2id": 12497,
-      "type": "Skill"
-    },
-    {
-      "id": "jade-bot-base",
-      "type": "Text"
-    },
-    {
-      "id": "jade-bot-per-tier",
-      "type": "Text"
-    },
-    {
-      "id": "assassinsPresence",
-      "gw2id": 1786,
-      "type": "Trait"
-    }
-  ]
+   "profession":"Guardian",
+   "weight":"Heavy",
+   "gear":[
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Berserker",
+      "Dragon",
+      "Berserker",
+      "Berserker"
+   ],
+   "attributes":{
+      "Health":14265,
+      "Armor":2514,
+      "Power":3832,
+      "Precision":2370,
+      "Toughness":1243,
+      "Vitality":1262,
+      "Ferocity":1567,
+      "Condition Damage":750,
+      "Expertise":0,
+      "Concentration":243,
+      "Healing Power":0,
+      "Agony Resistance":162,
+      "Condition Duration":0,
+      "Boon Duration":0.162,
+      "Critical Chance":1.0023809523809524,
+      "Critical Damage":2.5446666666666666,
+      "Power Coefficient":3361,
+      "Burning Coefficient":1.92,
+      "Bleeding Coefficient":0,
+      "Poison Coefficient":0,
+      "Torment Coefficient":0,
+      "Confusion Coefficient":0,
+      "Flat DPS":0,
+      "Siphon Base Coefficient":139.75,
+      "Effective Power":34382.27098304175,
+      "Power DPS":44497.03995918496,
+      "Siphon DPS":139.75,
+      "Bleeding Damage":96.3125,
+      "Bleeding Stacks":0,
+      "Bleeding DPS":0,
+      "Burning Damage":355.421875,
+      "Burning Stacks":1.92,
+      "Burning DPS":682.41,
+      "Confusion Damage":118.665625,
+      "Confusion Stacks":0,
+      "Confusion DPS":0,
+      "Poison Damage":112.84375,
+      "Poison Stacks":0,
+      "Poison DPS":0,
+      "Torment Damage":142.74375,
+      "Torment Stacks":0,
+      "Torment DPS":0,
+      "Damage":45319.19995918496,
+      "Effective Health":53129200,
+      "Survivability":27010.269445856633,
+      "Effective Healing":390,
+      "Healing":390
+   },
+   "runeId":24836,
+   "runeName":"Scholar",
+   "infusions":[
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432,
+      49432
+   ],
+   "weapons":{
+      "weapon1MainType":"Greatsword",
+      "weapon1MainSigil1Id":24615,
+      "weapon1MainSigil2Id":24868,
+      "weapon2MainType":"Sword",
+      "weapon2MainSigil1Id":24615,
+      "weapon2OffType":"Focus",
+      "weapon2OffSigilId":24868
+   },
+   "consumables":{
+      "foodId":91805,
+      "utilityId":50082
+   },
+   "skills":{
+      "healId":21664,
+      "utility1Id":9168,
+      "utility2Id":30364,
+      "utility3Id":9093,
+      "eliteId":29965
+   },
+   "assumedBuffs":[
+      {
+         "id":"might",
+         "type":"Boon"
+      },
+      {
+         "id":"fury",
+         "type":"Boon"
+      },
+      {
+         "id":"vulnerability",
+         "type":"Condition"
+      },
+      {
+         "id":"spotter",
+         "gw2id":1016,
+         "type":"Trait"
+      },
+      {
+         "id":"frostSpirit",
+         "gw2id":12497,
+         "type":"Skill"
+      },
+      {
+         "id":"jade-bot-base",
+         "type":"Text"
+      },
+      {
+         "id":"jade-bot-per-tier",
+         "type":"Text"
+      },
+      {
+         "id":"assassinsPresence",
+         "gw2id":1786,
+         "type":"Trait"
+      }
+   ]
 }}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
@@ -621,15 +621,15 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sh
 
 <Beginner>
 
-You should drop <Skill name="Swordofjustice"/> first. 
+You should drop <Skill name="Swordofjustice"/> first.
 
-|                                                        |                                                                                                                                |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                                                                        |
-| <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                                                                   |
-| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                                                                   |
-| <Skill name="dragonsmaw" size="big" disableText/>     | When you are certain no extra <Boon name="Quickness"/> or <Boon name="Fury"/> is needed.                                                                |
-| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                                                            |
+|                                                   |                                                                                          |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| <Skill id="9153" size="big" disableText/>         | When <Boon name="Stability"/> or a stunbreak is needed.                                  |
+| <Skill id="9125" size="big" disableText/>         | Deals an additional 200 defiance bar damage.                                             |
+| <Skill id="9251" size="big" disableText/>         | A stationary reflect lasting for 10 seconds.                                             |
+| <Skill name="dragonsmaw" size="big" disableText/> | When you are certain no extra <Boon name="Quickness"/> or <Boon name="Fury"/> is needed. |
+| <Skill name="Sanctuary" size="big" disableText/>  | Huge CC and projectile destruction.                                                      |
 
 </Beginner>
 
@@ -666,8 +666,6 @@ Generally it is important to apply <Boon name="Resolution"/> when you are about 
 
 <Grid>
 
-
-
 <GridItem xs="12" sm="7">
 
 <Advanced>
@@ -677,8 +675,6 @@ Generally it is important to apply <Boon name="Resolution"/> when you are about 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt their rotation to the amount of time a group needs to finish a phase.\
 For that reason you will find some general notes for skill usage here.
 </Card>
-
-
 
 <Card title="Precasting">
 
@@ -714,27 +710,31 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 **Step 0: Bane Signet**
 
-<Skill name="Bane Signet"/> grants you a passive boost to your <Attribute name="Power"/>. Its active will inflict a high amount of CC on your target and share the passive with your allies for 10 seconds through <Trait name="Perfect Inscriptions"/>. Therefore you want to do the following:
+The <Skill name="Bane Signet"/> grants you a passive boost to your <Attribute name="Power"/>. Its active effect (when clicked) will inflict a high amount of CC (300 CC) on your target and share the passive with your allies for 10 seconds through <Trait name="Perfect Inscriptions"/>. Therefore, you want to do the following:
+
 - If a Mistlock Singularity is present, cast <Skill name="Bane Signet"/> there to share its buff right before you run into the fight, then take the singularity.
-- If a boss starts with a breakbar, you'll want to cast <Skill name="Bane Signet"/> at the start to help with breaking the bar while also sharing its passive to your allies to enhance their burst damage as well.
+- If a boss starts with a breakbar, you should cast <Skill name="Bane Signet"/> at the start to help with breaking the bar while also sharing its passive to your allies to enhance their burst damage as well.
 - If a boss does not get a breakbar early into the fight, you can use <Skill name="Bane Signet"/> before the fight starts to share the passive and start right with your burst when the boss spawns.
 
 **Step 1: Greatsword Skills**
 
-The first step just consists of using <Skill name="Symbol of Resolution"/>, <Skill name="Whirling Wrath"/> and <Skill name="Binding Blade"/> off-cooldown (in this order of priority if multiple come up at the same time).
-- <Skill name="Symbol of Resolution"/> and <Skill name="Whirling Wrath"/> are your 2 biggest damaging weapon skills on the Greatsword set.
-- Make sure to be in the hitbox of the enemy whenever possible for <Skill name="Whirling Wrath"/>.
-- <Skill name="Binding Blade"/> will deal more damage if you are in the hitbox while there is extra enemies around.
+The first step consists of using <Skill name="Symbol of Resolution"/>, <Skill name="Whirling Wrath"/> and <Skill name="Binding Blade"/> off-cooldown (in this order of priority if multiple come up at the same time).
+
+- <Skill name="Symbol of Resolution"/> and <Skill name="Whirling Wrath"/> are your 2 biggest damaging weapon skills on the Greatsword.
+- Make sure to be in the hitbox of the enemy whenever possible for <Skill name="Whirling Wrath"/>. <Skill name="Whirling Wrath"/> deals additional damage when casted inside a hitbox.
+- <Skill name="Binding Blade"/> will deal more damage if you are in the hitbox while there are extra enemies around.
 
 **Step 2: Trap + F1 Combo**
 
 Next up, it is time to incorporate <Skill name="Spear of Justice"/> and <Skill name="Procession of Blades"/>.
+
 - Try to always wait until both skills are up again and then cast <Skill name="Procession of Blades"/> first, followed by <Skill name="Spear of Justice"/>.
 - Using <Skill name="Spear of Justice"/> will tether you to your target making you deal increased damage while it is active due to <Trait name="Big Game Hunter"/>.
-- Your trap <Skill name="Procession of Blades"/> deals high damage and you therefore always want to cast it while being tethered to your target.
+- Your trap <Skill name="Procession of Blades"/> deals high damage and you therefore should always cast it while being tethered to your target.
 - If you kill certain enemies, your <Skill name="Spear of Justice"/> will reset due to <Trait name="Renewed Justice"/>. Wait until you get your trap back to cast both of them unless the boss will phase or die before this happens.
 
 The opener at this step looks like this:
+
 1. <Skill name="Procession of Blades"/>
 2. <Skill name="Spear of Justice"/>
 3. <Skill name="Symbol of Resolution"/>
@@ -746,14 +746,15 @@ The opener at this step looks like this:
 Now it is time to incorporate another strong utility skill, <Skill name="Sword of Justice"/>.
 
 - <Skill name="Sword of Justice"/> has 3 maximum charges. It summons a sword that will deal damage and inflict <Condition name="Vulnerability"/> on nearby enemies while it is active.
-- Its recharge time aligns with the cooldown of <Skill name="Spear of Justice"/> so we will always use 1 charge right before we cast our Trap + F1. This will give us a very strong burst.
-- The other charges can be used between other skill casts in our opener or any time we do not have another skill ready to use as we should always get 1 charge back when our F1 comes back up for our burst due to them having the same cooldown. Try to use them while <Skill name="Spear of Justice"/> though for the extra damage.
+- Its recharge time aligns with the cooldown of <Skill name="Spear of Justice"/> so we will always use 1 charge right before we cast our Trap + F1. This will enhance the burst damage further.
+- The other charges may be used between other skill casts in our opener or any time we do not have another skill ready to use as we should always get 1 charge back when our F1 comes back up for our burst due to them having the same cooldown. Try to use them while tethered to an enemy with <Skill name="Spear of Justice"/> for the extra damage.
 
 **Step 4: Sword skills**
 
 This last step will not contribute much to your consistent DPS but can increase your burst by a good amount which is especially important on fights with shorter phases. We will use <Skill name="Symbol of Blades"/> and <Skill name="Zealots Defense"/> at the start of the fight, then swap to Greatsword and do our regular rotation.
 
 The opener should now look like this:
+
 1. <Skill name="Sword of Justice"/>
 2. <Skill name="Procession of Blades"/>
 3. <Skill name="Spear of Justice"/>
@@ -773,6 +774,7 @@ Once you are comfortable with the above steps, you are already doing most of the
 There will be a few additional things on the advanced page to improve further but if you got to here, you already know the most important things and these will have less total impact than what you learned so far.
 
 The additional steps are:
+
 - Incorporate your Focus skills into the rotation, namely <Skill name="Ray of Judgment"/> and <Skill name="Shield of Wrath"/>.
 - Weapon swap more often on fights with long phases, usually after using <Skill name="Whirling Wrath"/>/<Skill name="Zealots Defense"/> twice on the respective weapon set.
 - Precasts: You can cast lasting skills such as <Skill name="Symbol of Blades"/> before the fight starts to get your damage up earlier and have 1 less cast in your opener.
@@ -812,7 +814,9 @@ The additional steps are:
 </Advanced>
 
 <Card title="Golem Rotation">
+
 This video shows the full rotation on the golem. It will slightly vary from the step-by-step version. It also uses the raid setup so numbers will not be comparable.
+
 <Video youtube="faIaiHFG1qI" caption="by Nagy"/>
 </Card>
 </GridItem>
