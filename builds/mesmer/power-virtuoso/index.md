@@ -12,9 +12,11 @@ conditions:
     uptime: 25 stacks
 boons:
   - name: Might
-    uptime: 25 Stacks (Self only)
+    variant: Self
+    uptime: 25 Stacks - On Demand
   - name: Fury
-    uptime: 100% (Self only)
+    uptime: 100% - On Demand
+    variant: Self
 code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
@@ -22,7 +24,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-04-29T09:35:36.841Z
+date: 2022-04-29T10:37:43.789Z
 ---
 
 <Advanced>
@@ -41,11 +43,11 @@ The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the str
 
 The beginner version of the guide will focus on the most important utility options and try to teach the Greatsword version of the build which has a good amount of extra burst while also having notes for the Sword/Focus variant which can be useful for slightly more sustained damage and nice utility through <Skill name="Temporal Curtain"/>.
 
-The advanced page provides a more complete overview of all the utility the <Specialization name="Mesmer"/> has to offer. Once you are able to exceute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
+The advanced page provides a more complete overview of all the utilities the <Specialization name="Mesmer"/> has to offer. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
 
 <Information>
 
-Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend to get started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
 
 </Information>
 
@@ -538,7 +540,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 - You can run Pistol instead of Focus on fights with multiple enemies when deciding to run this variant as <Skill name="Phantasmal Warden"/> does not always attack your target.
 - Greatswords, Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-- Torch for stealth, blasting and precasting
+- Torch for stealth, blasting, and precasting
 - Staff for precasting at certain bosses.
 - Shield for blocks if you are skipping with <Specialization name="Chronomancer"/>
 
@@ -653,11 +655,11 @@ If you lose yourself in the rotation follow this priority list.
 
 - <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
 
-Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that direct damageing skills such as <Skill id="62560"/> and auto-attacks get higher priority if the boss is close to phasing.
+Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that direct damaging skills such as <Skill id="62560"/> and auto-attacks get higher priority if the boss is close to phasing.
 
-Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not use too much CC on the breakbar and space out your big CC cooldowns like <Skill name="Signet of Humility"/> so they don't overlap with other powerful CC skills.
+Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not use too much CC on the break bar and space out your big CC cooldowns like <Skill name="Signet of Humility"/> so they don't overlap with other powerful CC skills.
 
-Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used for skips, blocks and damage mitigation. Make sure to read what they do and dont be afraid to swap to them situationally, ecpecially in T4s.
+Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used for skips, blocks, and damage mitigation. Make sure to read what they do and don't be afraid to swap to them situationally, especially in T4s.
 </Card>
 </GridItem>
 
@@ -692,7 +694,7 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 
 **Step 1: Phantasms**
 
-We'll start off with the basic rotation for summoning Phantasms. This is the backbone of the rotation and practising this part for a bit will get you set up well for the rest of the rotation.
+We'll start with the basic rotation for summoning Phantasms. This is the backbone of the rotation and practicing this part for a bit will get you set up well for the rest of the rotation.
 
 1. Start on Greatsword and use <Skill name="Phantasmal Berserker"/>, then swap to Dagger/Sword.
 2. Use <Skill name="Phantasmal Swordsman"/> and <Skill name="Phantasmal Disenchanter"/>.
@@ -708,8 +710,8 @@ We'll start off with the basic rotation for summoning Phantasms. This is the bac
 Next, we will incorporate our F1 Shatter <Skill name="Bladesong Harmony"/>.
 
 - Use it only when you have 5 Blades stocked.
-- Use it for the first time after your initial <Skill name="PHantasmal Berserker"/>.
-- Use it off-cooldown but only with 5 Blades afterwards.
+- Use it for the first time after your initial <Skill name="Phantasmal Berserker"/>.
+- Use it off-cooldown but only with 5 Blades afterward.
 
 **Step 3: Weapon Skills**
 
@@ -717,7 +719,7 @@ In Step 3, we will incorporate other Weapon Skills. We will add multiple skills 
 
 1. Cast <Skill name="Bladecall"/> right after swapping to Dagger/Sword.
 2. Cast <Skill name="Unstable Bladestorm"/> right before your Heal Signet.
-3. Use both skills off-cooldown afterwards until you swap to Greatsword.
+3. Use both skills off-cooldown afterward until you swap to Greatsword.
 4. Cast <Skill name="Mirror Blade"/> and <Skill name="Mind Stab"/> right after <Skill name="PHantasmal Berserker"/> and use them off-cooldown until you swap back to Dagger/Sword.
 5. Repeat from Step 1.
 
@@ -726,7 +728,7 @@ In Step 3, we will incorporate other Weapon Skills. We will add multiple skills 
 Lastly, we will add the remaining Utility Skills to the rotation.
 
 - Cast <Skill name="Rain of Swords"/> at the start of the fight and then use it off-cooldown.
-- Cast <Skill name="Mantra of Pain"/> off-cooldown as well. This skill is an instant-cast and can therefore be used while casting other skills.
+- Cast <Skill name="Mantra of Pain"/> off-cooldown as well. This skill is an instant cast and can therefore be used while casting other skills.
 
 </Card>
 
@@ -734,7 +736,7 @@ Lastly, we will add the remaining Utility Skills to the rotation.
 
 Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
 
-There will be a few additional things on the advanced page to improve further but if you got to here, you already know the most important things and these will have less total impact that what you learned so far.
+There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
 
 The additional steps are:
 
@@ -750,7 +752,7 @@ The additional steps are:
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
 
-It's important to note that phantasms do not benefit from most modifiers, unless it is stated to be the case.
+It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
 
 They do however benefit from <Effect name="Exposed"/>.
 </Card>
@@ -771,9 +773,9 @@ At the boss (spawnable bosses)
 1. Cast <Skill name="Rain of Swords"/>. Skip this step if you did not use <Skill name="Mimic"/> at the singularity.
 2. You can precast <Skill name="The Prestige"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
 3. Cast <Skill name="Rain of Swords"/> (again).
-4. Start casting <Skill name="Signet of Humility"/> if the boss starts with a breakbar.
+4. Start casting <Skill name="Signet of Humility"/> if the boss starts with a break bar.
 
-At the boss (prespawned bosses)
+At the boss (pre spawned bosses)
 
 - You can also precast <Skill name="Phantasmal Warlock"/>.
 
@@ -801,9 +803,9 @@ This video shows the full rotation for the Greatsword variant on the golem. It w
 <Beginner>
 <Card title="Sword/Focus Variant">
 
-If you are using Sword/Focus instead of Greatsword, follow the same step-by-step guide but make the follwoing changes:
+If you are using Sword/Focus instead of Greatsword, follow the same step-by-step guide but make the following changes:
 
-- Replace <Skill name="Phantasmal Berserker"/> with <Skill name="Phantasmal Warden"/>. You will only be able to cast it once each time you are on the Sword/Focus weapon set (while <Skill name="Phantasmal Berserker"/> can be casted twice per Greatsword Loop.)
+- Replace <Skill name="Phantasmal Berserker"/> with <Skill name="Phantasmal Warden"/>. You will only be able to cast it once each time you are on the Sword/Focus weapon set (while <Skill name="Phantasmal Berserker"/> can be cast twice per Greatsword Loop.)
 - Instead of spamming <Skill name="Mirror Blade"/> and <Skill name="Mind Stab"/> off-cooldown, use <Skill name="Blurred Frenzy"/> off-cooldown on Sword/Focus.
 - Try to finish your auto-attack chains on Sword if possible.
 
@@ -813,7 +815,7 @@ If you are using Sword/Focus instead of Greatsword, follow the same step-by-step
 <Advanced>
 <Card title="Opener">
 
-These is a basic opener, you will need to adapt this depending on the boss and cooldowns.
+There is a basic opener, you will need to adapt this depending on the boss and cooldowns.
 
 - Start on Greatsword
 
