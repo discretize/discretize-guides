@@ -1,9 +1,9 @@
 ---
 title: Heal Alacrity Mechanist
+hidden: false
+archive: false
 rating: Good
 role: Support
-archive: false
-hidden: false
 author: Parpage.9867
 profession: Engineer
 specialization: Mechanist
@@ -12,7 +12,7 @@ conditions:
   - name: Burning
   - name: Confusion
   - name: Vulnerability
-    uptime: 5 Stacks  
+    uptime: 5 Stacks
 boons:
   - name: Alacrity
     uptime: 100%
@@ -32,14 +32,14 @@ boons:
   - name: Protection
     variant: Party
     uptime: 100%
-code: '[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 2
   - 2
   - 1
   - 2
-date: 2022-04-21T17:49:43.427Z
+date: 2022-04-29T10:07:59.226Z
 ---
 
 <Warning>
@@ -48,7 +48,7 @@ This build is very common in PuGs. It is currently the best heal build to use in
 
 </Warning>
 
-The <Specialization name="Mechanist" text="Heal Alacrity Mechanist" /> provides permanent <Boon name="Might" />, <Boon name="Alacrity" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Vigor" />, as well as some <Boon name="Protection" />. It also has access to a small amount of <Boon name="Aegis" />, <Boon name="Stability" /> througt <Skill id="63293"/>.
+The <Specialization name="Mechanist" text="Heal Alacrity Mechanist" /> provides permanent <Boon name="Might" />, <Boon name="Alacrity" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Vigor" />, as well as some <Boon name="Protection" />. It also has access to a small amount of <Boon name="Aegis" />, <Boon name="Stability" /> through <Skill id="63293"/>.
 
 It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Super Elixir"/>, permanent <Boon name="Regeneration"/> and <Boon name="Vigor"/> that you get from <Skill name="Energizing Slam"/>. Whenever you use a Jade Golem skill it pumps out more healing when traited with <Trait name="Soothing Detonation"/>. You can also provide a huge amount of <Effect name="barrier"/> with <Skill id="63141"/>, <Skill name="Barrier Signet"/> and <Skill name="Barrier Blast"/> maintaing a near permanant uptime on your party.
 
@@ -287,9 +287,9 @@ Engineering kits can be opened instantly to give acess to 5 new skills, which wh
 
 Your jade mech is your main source of <Boon name="Alacrity"/> generation, while also providing a significant portion of your other boons. It inherits your concentration and healing power thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
 
-- <Skill name="Explosive Knuckle"/> and your Mechs auto attacks will slowly generate a small amount of might thanks to <Trait name="Mech Arms: High-Impact Drivers"/>.
-- <Skill name="Crisis Zone"/> grants <Boon name="Alacrity"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and <Boon name="Aegis"/> to 5 targets. It also is a condition cleanse and a stun break.
-- <Skill name="Barrier Blast"/> pulses <Boon name="Might"/> abd <Boon name="Fury"/> to 5 targets resulting in 30 seconds of <Boon name="Might" text="15 Might"/> and <Boon name="Fury"/> being shared. It also generates a large amount of <Effect name="Barrier"/> which in turn generates <Boon name="Alacrity"/> thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
+- <Skill id="63365"/> and your Mechs auto attacks will slowly generate a small amount of might thanks to <Trait name="Mech Arms: High-Impact Drivers"/>.
+- <Skill id="63293"/> grants <Boon name="Alacrity"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and <Boon name="Aegis"/> to 5 targets. It also is a condition cleanse and a stun break.
+- <Skill id="63141"/> pulses <Boon name="Might"/> abd <Boon name="Fury"/> to 5 targets resulting in 30 seconds of <Boon name="Might" text="15 Might"/> and <Boon name="Fury"/> being shared. It also generates a large amount of <Effect name="Barrier"/> which in turn generates <Boon name="Alacrity"/> thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
 - You can summon your Mech using <Skill name="Crash Down"/> and recall it with <Skill name="Recall Mech"/>
 - Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesnt work you may have to recall it instead.
 - Remember your Mech commands will generate boons in a radius around your Mech. Make sure it is in range of you and your party before using them!
@@ -329,14 +329,14 @@ While not every skill is commonly used, it still provides some slow CC and has a
 
 <Card title="Standard Boons">
 
-- <Boon name="Alacrity"/> is applied by two methods. The first is <Skill name="Crisis Zone"/>, which should be preseed off cooldown. In addition to this through the trait <Trait name="Mech Frame: Channeling Conduits"/>, when you apply <Effect name="Barrier"/> you will also share <Boon name="Alacrity"/>. With high <Attribute name="Boon Duration"/> it is very easy to upkeep 100% duration.
-- <Boon name="Might"/> is mainly generated from <Skill name="Barrier Burst"/>, which will allow you to easily maintain 15 stacks. Outside of this you slowly generate <Boon name="Might"/> thanks to <Trait name="HGH"/>, which slowly will ramp might up to 25 stacks over time. If <Boon name="Might"/> is really suffering, you can also use utility skills such as <Skill name="Flame Turret"/> along with <Trait name="Experimental Turrets"/> to help.
-- <Boon name="Fury" /> will be provided through pressing <Skill name="Barrier Burst"/> off cooldown. As long as you have at least 62.5% <Attribute name="Boon Duration"/> you will be able to maintain 100% uptime.
+- <Boon name="Alacrity"/> is applied by two methods. The first is <Skill id="63293"/>, which should be preseed off cooldown. In addition to this through the trait <Trait name="Mech Frame: Channeling Conduits"/>, when you apply <Effect name="Barrier"/> you will also share <Boon name="Alacrity"/>. With high <Attribute name="Boon Duration"/> it is very easy to upkeep 100% duration.
+- <Boon name="Might"/> is mainly generated from <Skill id="63141"/>, which will allow you to easily maintain 15 stacks. Outside of this you slowly generate <Boon name="Might"/> thanks to <Trait name="HGH"/>, which slowly will ramp might up to 25 stacks over time. If <Boon name="Might"/> is really suffering, you can also use utility skills such as <Skill name="Flame Turret"/> along with <Trait name="Experimental Turrets"/> to help.
+- <Boon name="Fury" /> will be provided through pressing <Skill id="63141"/> off cooldown. As long as you have at least 62.5% <Attribute name="Boon Duration"/> you will be able to maintain 100% uptime.
 - <Boon name="Swiftness"/> is provided mainly through <Skill name="Glob Shot"/> and <Skill name="Infusion Bomb"/>.
 - <Boon name="Regeneration"/> can be maintained permanantly by using <Skill name="Energizing Slam"/> off cooldown. When using <Skill name="Med Kit"/>, you also share it when using <Skill name="Bandage Blast"/> and <Skill name="Infusion Bomb"/>.
-- <Boon name="Protection"/> can be maintained permanantly by using <Skill name="Crisis Zone"/> off cooldown. Additionally using you Shield skills will also share some through <Trait name="Over SHield"/>.
-- <Boon name="Stability"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill name="Crisis Zone"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
-- <Boon name="Aegis"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill name="Crisis Zone"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
+- <Boon name="Protection"/> can be maintained permanantly by using <Skill id="63293"/> off cooldown. Additionally using you Shield skills will also share some through <Trait name="Over SHield"/>.
+- <Boon name="Stability"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill id="63293"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
+- <Boon name="Aegis"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill id="63293"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
 - <Boon name="Vigor"/> can be maintained permanantly by using <Skill name="Energizing Slam"/> off cooldown. When using <Skill name="Med Kit"/>, you also share it when using <Skill name="Infusion Bomb"/>.
 - <Effect name="Barrier"/> helps to provide <Boon name="Alacrity"/> through the trait <Trait name="Mech Frame: Channeling Conduits"/>, while providing excellent damage mitigation. You have 3 main methods of generating <Effect name="Barrier"/>; <Trait name="Mech Core: Barrier Engine"/> passivley generates it over time, Your utility skills <Skill name="Barrier Burst"/> and <Skill name="Barrier Signet"/> and finally by using <Skill name="Barrier Blast" /> Your third auto attack skill on Mace.
 
@@ -344,7 +344,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 
 <Card title="Pre-Stacking Boons">
 
-- To provide most of your boons, you can simiply cast <Skill name="Crisis Zone"/>, <Skill name="Barrier Burst"/> and <Skill name="Energizing Slam"/>.
+- To provide most of your boons, you can simiply cast <Skill id="63293"/>, <Skill id="63141"/> and <Skill name="Energizing Slam"/>.
 - If there is no fire field you can provide one with <Skill name="Napalm"/> (Skill 4) in <Skill name="Flamethrower"/>.
 - To blast your firefield to share <Boon name="Might"/>, <Specialization name="Engineer"/> has blast finishers on many of its skills. Your most acessible blasts on <Specialization name="Mechanist" text="Heal Mechanist"/> are:
   - <Skill name="Acid Bomb"/> in <Skill name="Elixir Gun"/>
@@ -361,7 +361,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 - A large amount of your sustsined healing comes from traits. <Trait name="Soothing Detonation"/>, <Trait name="Compounding Chemicals"/> and <Trait name="Backpack Regenerator"/> generate a lot of passive healing to yourself, which is then shared with <Trait name="Medical Dispersion Field"/> and amplified with <Trait name="Health Insurance"/>.
 - When under constant pressure <Skill name="Super Elixir"/> and <Skill name="Elixir Shell"/> can be used. It is reccomended to use <Skill name="Super Elixir"/> first due to its shorter cooldwon.
 - If your parties hp is not full you can use <Skill name="Med Blaster"/> in <Skill name="Med Kit"/> which is very strong. However you should first consider other abilities to heal your party quicker, since you want to maximize your time on mace to generste <Effect name="Barrier"/>.
-- Your best form of sustained healing is to keep your <Effect name="Barrier"/> uptime high. By using <Skill name="Barrier Blast"/>, <Skill name="Barrier Burst"/> and if needed <Skill name="Barrier Signet"/>, your party will not lose much health due to tanking damage.
+- Your best form of sustained healing is to keep your <Effect name="Barrier"/> uptime high. By using <Skill name="Barrier Blast"/>, <Skill id="63141"/> and if needed <Skill name="Barrier Signet"/>, your party will not lose much health due to tanking damage.
 
 </Card>
 
