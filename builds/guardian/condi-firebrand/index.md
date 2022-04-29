@@ -13,8 +13,10 @@ conditions:
   - name: Vulnerability
   - uptime: 12 stacks (using Sword of Justice)
 boons:
+  - name: Quickness
+    uptime: 100%
   - name: Might
-    uptime: 5 stacks
+    uptime: 7 stacks
     variant: party
   - name: Fury
     uptime: 100%
