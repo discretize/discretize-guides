@@ -21,7 +21,7 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-04-29T09:17:40.748Z
+date: 2022-04-29T09:32:29.278Z
 ---
 <Warning>
 
@@ -29,7 +29,7 @@ This build is strong in full condi groups ([team comps](/guides/effective-comp))
 
 </Warning>
 
-Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
+Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage that also provides strong party buffs with <Skill name="Sun Spirit"/>, <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
 
 This build is rather self sufficient due to:
 
@@ -603,7 +603,16 @@ Most of the additional steps will be extra precasts to have a higher damage spik
 </GridItem>
 <GridItem xs="12" sm="5">
 
+<Card title="Step-by-Step Video">
+
+This video shows the step-by-step approach to the rotation listed on the left.
+
+<Video youtube="jfMwOw722Z0" caption="by Ascers"/>
+
+</Card> 
+
 <Card title="Shortbow Golem Rotation">
+
 This video shows the full rotation on the golem.
 
 <Video youtube="iKKWM4F3ayg" caption="by Eren"/>
