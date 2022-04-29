@@ -7,9 +7,7 @@ role: Support
 author: Ascers.6082
 profession: Guardian
 specialization: Firebrand
-conditions:
-  - name: Blinded
-  - name: Crippled
+conditions: []
 boons:
   - name: Quickness
     uptime: 150%
@@ -18,7 +16,7 @@ boons:
     uptime: 23 stacks
     variant: group
   - name: Stability
-    uptime: 100%
+    uptime: On Demand
     variant: group
   - name: Aegis
     uptime: on demand
@@ -40,7 +38,7 @@ classification:
   - 3
   - 1
   - 2
-date: 2022-04-29T09:43:04.393Z
+date: 2022-04-29T11:55:35.374Z
 ---
 
 <Warning>
