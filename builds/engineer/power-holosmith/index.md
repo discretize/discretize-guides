@@ -10,9 +10,6 @@ specialization: Holosmith
 conditions:
   - name: Vulnerability
     uptime: 20 Stacks
-  - name: Blinded
-  - name: Crippled
-  - name: Immobile
 code: '[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: ''
 classification:
