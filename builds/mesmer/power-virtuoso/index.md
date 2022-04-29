@@ -10,13 +10,7 @@ specialization: Virtuoso
 conditions:
   - name: Vulnerability
     uptime: 25 stacks
-boons:
-  - name: Might
-    variant: Self
-    uptime: 25 Stacks - On Demand
-  - name: Fury
-    uptime: 100% - On Demand
-    variant: Self
+boons: []
 code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
@@ -24,7 +18,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-04-29T10:37:43.789Z
+date: 2022-04-29T11:43:43.231Z
 ---
 
 <Advanced>
