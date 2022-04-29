@@ -25,7 +25,7 @@ boons:
   - name: Fury
     uptime: 80%
     variant: group
-code: '[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: static
 classification:
   - 3
@@ -33,24 +33,24 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-04-28T01:16:33.065Z
+date: 2022-04-29T09:32:54.102Z
 ---
 
 The <Specialization name="Dragonhunter"/> is a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and high <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
 
 The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> has access to blocks with <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds. It also benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
-Unfortunately, the <Specialization name="Dragonhunter"/> is relying on fast CC to capitalize on the immediate high burst damage. Playing this build in slower groups therefore might not be as rewarding as the condi builds of <Specialization name="Guardian"/>. Sharing <Skill name="bane signet"/> with a party that cant capitalize on the unique buff might also be frustrating.
+Unfortunately, the <Specialization name="Dragonhunter"/> is relying on fast CC to capitalize on the immediate high burst damage. Playing this build in slower groups therefore might not be as rewarding as the condi builds of <Specialization name="Guardian"/>. Sharing <Skill name="bane signet"/> with a party that can't capitalize on the unique buff might also be frustrating.
 
 <Beginner>
 
-Before progressing to the advanced version of this page, we recommend to acquire an in depth understanding of your CC skills and when to use them efficiently. You should be able to hit consistentely high DPS, which you can verify with [arc-dps](https://www.deltaconnected.com/arcdps/). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
+Before progressing to the advanced version of this page, we recommend acquiring an in-depth understanding of your CC skills and when to use them efficiently. You should be able to hit consistently high DPS, which you can verify with [arc-dps](https://www.deltaconnected.com/arcdps/). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
 
-The advanced page provides a more complete overview over all the utility the <Specialization name="Guardian"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
+The advanced page provides a more complete overview of all the utilities the <Specialization name="Guardian"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
 
 <Information>
 
-Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend to get started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
 
 </Information>
 
@@ -593,7 +593,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Card title="Virtues">
 
-If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sharing <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>. You can drop the Radiance traitline for Virtues for more personal damage. Please note you will need to adjust your gear potentially to crit cap! Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
+If you can reliably upkeep <Boon name="Aegis"/>, and you don't gain value from sharing <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>. You can drop the Radiance trait line for Virtues for more personal damage. Please note you will need to adjust your gear potentially to crit cap! Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
 <Traits unembossed traits1="Virtues" traits1Selected="Unscathed Contender,Inspiring Virtue,Permeating Wrath"/>
 
@@ -673,7 +673,7 @@ Generally it is important to apply <Boon name="Resolution"/> when you are about 
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt their rotation to the amount of time a group needs to finish a phase.\
-For that reason you will find some general notes for skill usage here.
+For that reason, you will find some general notes for skill usage here.
 </Card>
 
 <Card title="Precasting">
@@ -692,10 +692,10 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <Card title="Notes on skill usage:">
 
-- Always start on sword
+- Always start on the sword
 - Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC.
 - Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
-- Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at **Artsariiv**, **Arkk**, **Siax** and **Ensolyss**.
+- Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at **Artsariiv**, **Arkk**, **Siax**, and **Ensolyss**.
 - Don't interrupt your GS auto-attack chain.
 - In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
 - Don't waste your key skills on meaningless adds.
@@ -713,8 +713,8 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 The <Skill name="Bane Signet"/> grants you a passive boost to your <Attribute name="Power"/>. Its active effect (when clicked) will inflict a high amount of CC (300 CC) on your target and share the passive with your allies for 10 seconds through <Trait name="Perfect Inscriptions"/>. Therefore, you want to do the following:
 
 - If a Mistlock Singularity is present, cast <Skill name="Bane Signet"/> there to share its buff right before you run into the fight, then take the singularity.
-- If a boss starts with a breakbar, you should cast <Skill name="Bane Signet"/> at the start to help with breaking the bar while also sharing its passive to your allies to enhance their burst damage as well.
-- If a boss does not get a breakbar early into the fight, you can use <Skill name="Bane Signet"/> before the fight starts to share the passive and start right with your burst when the boss spawns.
+- If a boss starts with a break bar, you should cast <Skill name="Bane Signet"/> at the start to help with breaking the bar while also sharing its passive to your allies to enhance their burst damage as well.
+- If a boss does not get a break bar early into the fight, you can use <Skill name="Bane Signet"/> before the fight starts to share the passive and start right with your burst when the boss spawns.
 
 **Step 1: Greatsword Skills**
 
@@ -747,11 +747,11 @@ Now it is time to incorporate another strong utility skill, <Skill name="Sword o
 
 - <Skill name="Sword of Justice"/> has 3 maximum charges. It summons a sword that will deal damage and inflict <Condition name="Vulnerability"/> on nearby enemies while it is active.
 - Its recharge time aligns with the cooldown of <Skill name="Spear of Justice"/> so we will always use 1 charge right before we cast our Trap + F1. This will enhance the burst damage further.
-- The other charges may be used between other skill casts in our opener or any time we do not have another skill ready to use as we should always get 1 charge back when our F1 comes back up for our burst due to them having the same cooldown. Try to use them while tethered to an enemy with <Skill name="Spear of Justice"/> for the extra damage.
+- The other charges may be used between other skill casts in our opener or any time we do not have another skill ready to use as we should always get one charge back when our F1 comes back up for our burst due to them having the same cooldown. Try to use them while tethered to an enemy with <Skill name="Spear of Justice"/> for the extra damage.
 
 **Step 4: Sword skills**
 
-This last step will not contribute much to your consistent DPS but can increase your burst by a good amount which is especially important on fights with shorter phases. We will use <Skill name="Symbol of Blades"/> and <Skill name="Zealots Defense"/> at the start of the fight, then swap to Greatsword and do our regular rotation.
+This last step will not contribute much to your consistent DPS but can increase your burst by a good amount which is especially important in fights with shorter phases. We will use <Skill name="Symbol of Blades"/> and <Skill name="Zealots Defense"/> at the start of the fight, then swap to Greatsword and do our regular rotation.
 
 The opener should now look like this:
 
@@ -771,7 +771,7 @@ The opener should now look like this:
 
 Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great burst damage and good consistent damage.
 
-There will be a few additional things on the advanced page to improve further but if you got to here, you already know the most important things and these will have less total impact than what you learned so far.
+There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
 
 The additional steps are:
 
