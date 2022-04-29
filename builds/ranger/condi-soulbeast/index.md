@@ -21,7 +21,7 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-04-29T09:32:29.278Z
+date: 2022-04-29T09:35:04.784Z
 ---
 <Warning>
 
@@ -603,13 +603,15 @@ Most of the additional steps will be extra precasts to have a higher damage spik
 </GridItem>
 <GridItem xs="12" sm="5">
 
+<Beginner>
 <Card title="Step-by-Step Video">
 
 This video shows the step-by-step approach to the rotation listed on the left.
 
 <Video youtube="jfMwOw722Z0" caption="by Ascers"/>
 
-</Card> 
+</Card>
+</Beginner>
 
 <Card title="Shortbow Golem Rotation">
 
