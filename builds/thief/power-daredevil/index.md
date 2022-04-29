@@ -1,29 +1,40 @@
 ---
-title: 'Power Daredevil'
-date: '2021-02-24'
-rating: 'Other'
 archive: true
+skills:
+  - 13132
+  - 13014
+  - 13044
+  - 13065
+  - 13025
+effects:
+  - Stealth
+title: Power Daredevil
 hidden: false
-role: 'Power Damage'
-profession: 'Thief'
-specialization: 'Daredevil'
-benchmark: { small: { dps: 35070, by: 'L E F T [dP]', youtube: 'UD7TaxND8vc' } }
-skills: [13132, 13014, 13044, 13065, 13025]
-traits: [2047]
+rating: Other
+role: Power Damage
+profession: Thief
+specialization: Daredevil
+traits:
+  - 2047
 conditions:
-  - name: 'Vulnerability'
-  - name: 'Crippled'
-  - name: 'Blinded'
-  - name: 'Weakness'
-effects: ['Stealth']
-code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
+  - name: Vulnerability
+  - name: Crippled
+  - name: Blinded
+  - name: Weakness
+code: "[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-04-29T10:53:24.186Z
+benchmark:
+  small:
+    dps: 35070
+    by: L E F T [dP]
+    youtube: UD7TaxND8vc
 ---
 
 The <Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="Stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable fast skips in T4s. <Specialization name="Daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="Daredevil"/> becomes quite hard to master.
 
 In fractals <Specialization name="Daredevil"/> falls behind other classes for several reasons:
 
-1. First reason is <Trait id="1268"/>, which forces <Specialization name="Daredevil"/> to constantly attack from behind or flank, which in some scenarios is not possible. (Note: with latest balance patch, keen observer got buffed, and with at least 204 Agony Resistance <Specialization name="Daredevil"/> no longer needs to flank).
+1. First reason is <Trait id="1268"/>, which forces <Specialization name="Daredevil"/> to constantly attack from behind or flank, which in some scenarios is not possible. (Note: with the latest balance patch, keen observer got buffed, and with at least 204 Agony Resistance <Specialization name="Daredevil"/> no longer needs to flank).
 2. Next reason is <Trait id="1257"/>, which depending on your group composition you may not receive as much of a damage bonus as you would in raids where 10 players put more condis to be on the boss.
 3. Because of <Trait id="2047"/>, you may be pushing your teammates on fractals with <Instability name="Social Awkwardness"/> instability into deadly zones.
 
