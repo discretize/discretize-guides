@@ -9,12 +9,13 @@ profession: Guardian
 specialization: Firebrand
 skills: []
 conditions:
-  - name: Burning
-  - name: Vulnerability
-  - uptime: 12 stacks (using Sword of Justice)
+  - 'Map { "name": "Burning" }'
+  - 'Map { "name": "Vulnerability" }'
+  - 'Map { "uptime": "12 stacks (using Sword of Justice)" }'
 boons:
   - name: Quickness
     uptime: 100%
+    variant: party
   - name: Might
     uptime: 7 stacks
     variant: party
@@ -35,7 +36,7 @@ classification:
   - 5
   - 2
   - 3
-date: 2022-04-29T09:39:36.006Z
+date: 2022-04-29T11:29:40.010Z
 ---
 
 <Beginner>
