@@ -15,8 +15,6 @@ classification:
   - 4
 date: 2022-03-28T17:10:34.646Z
 conditions:
-  - name: Burning
-  - name: Chilled
   - name: Vulnerability
     uptime: 10 stacks
 cmGuide: pug
