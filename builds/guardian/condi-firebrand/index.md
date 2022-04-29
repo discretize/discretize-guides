@@ -11,8 +11,7 @@ skills: []
 conditions:
   - name: Burning
   - name: Vulnerability
-  - name: Crippled
-  - name: Bleeding
+  - uptime: 12 stacks (using Sword of Justice)
 boons:
   - name: Might
     uptime: 5 stacks
