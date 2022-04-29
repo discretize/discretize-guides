@@ -1,5 +1,7 @@
 ---
 title: Heal Firebrand
+hidden: false
+archive: false
 rating: Good
 role: Support
 author: Ascers.6082
@@ -30,22 +32,20 @@ boons:
   - name: Resolution
     uptime: 78%
     variant: group
-code: '[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: 'pug'
+code: "[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: pug
 classification:
   - 4
   - 1
   - 3
   - 1
   - 2
-date: 2022-03-06T22:04:57.566Z
-archive: false
-hidden: false
+date: 2022-04-29T09:43:04.393Z
 ---
 
 <Warning>
 
-This build is very common in PuGs. More info about building effective team compositions can be found [here](/guides/effective-comp). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a new heal variant that is in-between the full heal and damage version called [Celestial Firebrand](/builds/guardian/celestial-firebrand) for parties wanting to transition to no heal runs.
+This build is very common in PuGs. More info about building effective team compositions can be found [here](/guides/effective-comp). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a new heal variant that is in-between the full heal and damage version called [Celestial Firebrand](/builds/guardian/celestial-firebrand) for parties wanting to transition to no heal runs.
 
 </Warning>
 
@@ -55,7 +55,7 @@ It offers a decent amount of healing through symbols, dodges, <Skill name="Mantr
 
 This build can provide good offensive support by sharing the 216 <Attribute name="Power"/> from <Skill name="Bane Signet"/> or 216 <Attribute name="Condition Damage"/> from <Skill name="Signet of Wrath"/> through <Trait name="Perfect Inscriptions"/> when running the Radiance trait line.
 
-The build is very flexible and can be adapted to the encounter, instabilities and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. The [CM Guides](/cm-guides/guardian/heal-firebrand/) will also give an overview of what you can run on different encounters.
+The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. The [CM Guides](/cm-guides/guardian/heal-firebrand/) will also give an overview of what you can run on different encounters.
 
 <Divider text="Equipment"/>
 
@@ -151,7 +151,7 @@ The build is very flexible and can be adapted to the encounter, instabilities an
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
-Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however, you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 </Character>
 </CharacterWithAr>
 
@@ -176,7 +176,7 @@ traits1="Radiance"
   />
 If you can afford to give up some healing for extra group DPS, you can swap out Virtues
 for Radiance. Your 3rd utility will then be either <Skill name="Bane Signet" /> or <Skill name="Signet of Wrath"/> to share the passive through <Trait name="Perfect Inscriptions"/> . In Condition-based groups you can also take advantage of the extra shared 216 <Attribute name="Condition Damage" /> from triggering <Trait name="Wrath of Justice" />.
-The advantage of this trait line is the increased group DPS. It gives up some passive healing from Virtues, the lower cooldown on Tomes and the 3rd open utility slot to achieve this.
+The advantage of this trait line is the increased group DPS. It gives up some passive healing from Virtues, the lower cooldown on Tomes, and the 3rd open utility slot to achieve this.
 
 </Card>
   
@@ -249,7 +249,7 @@ The advantage of this trait line is the increased group DPS. It gives up some pa
 - <Skill name="Core Cleave" /> does decent damage even as a healer.
 - <Skill name="Symbol of Vengeance" /> places a symbol that will pulse <Boon name="Fury" />
   . Due to <Trait name="Writ of Persistence" /> this will also passively heal allies
-  within. This skill should be used off-cooldown when on the Axe weapon set.
+  within. This skill should be used off cooldown when on the Axe weapon set.
 - <Skill name="Blazing Edge" /> can be used for CC or to pull adds together.
 - <Skill name="Shield of Judgment" /> grants <Boon name="Protection" /> and <Boon name="Aegis" />
   . This is a main source of on-demand <Boon name="Aegis" /> and adds some extra <Boon name="Protection"/> on top of what you get from <Skill name="Mantra of Solace"/>.
@@ -316,11 +316,11 @@ The advantage of this trait line is the increased group DPS. It gives up some pa
 
 Activating a Tome will replace your weapon skills and grant you 5 skill usages in the Tome. You can also leave the Tome early though.
 
-Entering a Tome has a cast time and your Skill 5 on both weapon sets can cancel skill casts so make sure to not spam the 5 button when entering the Tome or you might end up cancelling the Tome.
+Entering a Tome has a cast time and your Skill 5 on both weapon sets can cancel skill casts so make sure to not spam the 5 buttons when entering the Tome or you might end up canceling the Tome.
 
 Tomes also have the passive effect from the Virtues. Through <Trait name="Loremaster"/> those passive effects will be kept even if the Tomes are on cooldown.
 
-All Tomes are built in a similar way:
+All Tomes are built similarly:
 
 - Skill 1 creates an effect in a cone in front of you.
 - Skill 2 creates an effect around you.
@@ -359,7 +359,7 @@ All Tomes are built in a similar way:
 - <MissingSkill name="Chapter 4: Stalwart Stand"/> places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
 - <MissingSkill name="Epilogue: Unbroken Lines"/> provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
 - There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
-- You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example a 2nd reflect. However only do this when absolutely needed as you will not have access to the boons and healing your weapon skills provide.
+- You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example, a 2nd reflect. However only do this when needed as you will not have access to the boons and healing your weapon skills provide.
 
 </Card>
 
@@ -419,12 +419,12 @@ All Tomes are built in a similar way:
 <Card title="Stability">
 
 - Correct application of <Boon name="Stability"/> requires knowledge of the encounters and which attacks and be negated with <Boon name="Stability"/> without taking too much damage.
-- Make sure to not apply too much <Boon name="Stability"/> at once. For example if you use <Skill name="Stand Your Ground"/>, you will most likely not need to apply any more <Boon name="Stability"/> until the boon ends since it provides 5 stacks.
+- Make sure to not apply too much <Boon name="Stability"/> at once. For example, if you use <Skill name="Stand Your Ground"/>, you will most likely not need to apply any more <Boon name="Stability"/> until the boon ends since it provides 5 stacks.
 - <Skill name="Mantra of Liberation" /> is the easiest access to <Boon name="Stability" />. However keep in mind this only provides one stack.
 - The most common utility skill choice for extra <Boon name="Stability"/> is <Skill name="Stand Your Ground"/> but when the longer cooldown of <Skill name="Hallowed Ground"/> is not an issue that one can be used very well on stationary targets.
 - You can use <Skill name="Mantra of Liberation"/> and <Skill name="Stand Your Ground"/> while casting <Skill name="Empower"/> if an interrupt is incoming.
 - <Skill name="Tome of Courage" /> will also grant access to a very high amount of <Boon name="Stability" /> but is on a fairly long cooldown. Make sure to open the Tome ahead of time due to both the Tome and the skills within having a cast time.
-- Make sure to provide enough healing while in <Skill name="Tome of Courage"/> since it replaces your weapons skills. This can be achieved though dodges, utility skills or pre-placed symbols.
+- Make sure to provide enough healing while in <Skill name="Tome of Courage"/> since it replaces your weapons skills. This can be achieved through dodges, utility skills, or pre-placed symbols.
 
 </Card>
 </GridItem>
@@ -445,7 +445,7 @@ All Tomes are built in a similar way:
 
 <Card title="Burst Healing">
 
-- For emergency situations you have some smaller burst healing options as well
+- For emergencies you have some smaller burst healing options as well
   as your <Skill name="Tome of Resolve" />.
 - If you are swapping to Staff when
   healing is needed keep in mind that <Skill name="Symbol of Swiftness" />
@@ -453,7 +453,7 @@ All Tomes are built in a similar way:
   <Skill name="Empower" /> provide burst healing.
 - <Skill name="Bow of Truth" /> is a great option for high burst healing when slotted.
 - <Skill name="Tome of Resolve" /> is the biggest source of burst healing and should
-  be used as a last resort due to its long cooldown. However due to the cast of both
+  be used as a last resort due to its long cooldown. However, due to the cast of both
   opening the Tome and the skills within, make sure to not hesitate too long. If
   the healing does not need to be immediate you can use 2-5-4-1-2, if you need the
   instant burst healing you can use 5-4-2-1-1.
@@ -463,7 +463,7 @@ All Tomes are built in a similar way:
 <Card title="Condition Cleanse">
 
 - If a lot of condition cleanse is needed you will most likely slot <Skill name="Mantra of Lore"/> which will then be your main reliable source of condition cleanse while also providing some extra <Boon name="Regeneration"/>.
-- Blasting Light Fields also causes area condition cleanse. On Staff you can place <Skill name="Symbol of Swiftness"/> and blast it with <Skill name="Holy Strike"/>.
+- Blasting Light Fields also causes area condition to cleanse. On Staff you can place <Skill name="Symbol of Swiftness"/> and blast it with <Skill name="Holy Strike"/>.
 - In <Skill name="Tome of Resolve" /> <MissingSkill name="Chapter 2: Radiant Recovery"/> and <MissingSkill name="Epilogue: Eternal Oasis"/> will cleanse conditions as well,
   however same as with burst healing this is often a last resort. When running Virtues,
   opening this Tome will also cleanse conditions.
