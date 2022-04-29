@@ -21,15 +21,15 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-04-28T05:02:16.627Z
+date: 2022-04-29T09:54:22.806Z
 ---
-
 <Warning>
 
-This build is strong in full condi groups ([team comps](/guides/effective-comp)). In power groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
+This build is strong in full condi groups ([team comps](/guides/effective-comp)). In power groups this build will fall massively behind <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart.
+
 </Warning>
 
-Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group are playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
+Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage that also provides strong party buffs with <Skill name="Sun Spirit"/>, <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
 
 This build is rather self sufficient due to:
 
@@ -37,11 +37,11 @@ This build is rather self sufficient due to:
 - Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
 - High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
 
-Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
+Overall this is a very well-rounded build that is rewarding to play in both PuGs and organized teams alike.
 
 <Beginner>
 
-This guide will focus on the Shortbow + Dagger/Torch variant of the build with <Trait name="Light on your Feet"/> which is the most used version in fractals. There are some alternatives for specific situations with slightly varying rotations. Once you are able to exceute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills, trait swaps or other weapon variants.
+This guide will focus on the Shortbow + Dagger/Torch variant of the build with <Trait name="Light on your Feet"/> which is frequently played in fractals. There are some alternatives for specific situations with slightly varying rotations. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options, check out the advanced page for extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills, trait swaps, or other weapon variants.
 
 </Beginner>
 
@@ -150,7 +150,8 @@ This guide will focus on the Shortbow + Dagger/Torch variant of the build with <
   },
   "consumables": {
     "foodId": 91878,
-    "utilityId": 48917
+    "utilityId": 48917,
+    "infusion": "Malign +9 Agony Infusion"
   },
   "skills": {
     "healId": 31914,
@@ -574,11 +575,19 @@ Keep in mind that <Skill id="46432"/> is also a CC skill, so delay it for breakb
 
 **Step 3: Utility Skills**
 
-Next up, we want to incorporate our Utility Skills
+Next up, we want to incorporate our Utility Skills. These will generally also be used off-cooldown with a higher priority than the <Skill name="Beastmode"/> skills.
+
+- When running with <Skill name="Sun Spirit"/>, make sure to keep in on the group as best as possible. If you know the boss will not move within the next 15 seconds, you can use <Skill name="Solar Flare"/> as an extra filler skill to inflict some <Condition name="Burning"/>.
+- <Skill name="One Wolf Pack"/> is your highest priority utility skill. Use it off-cooldown but don't waste it in split phases. Make sure everyone is in your range and can attack the boss when you cast it.
+- When running <Skill name="Vipers Nest"/>, use it off-cooldown but make sure to not use it right before the boss moves.
+- <Skill name="Sharpening Stone"/> and <Skill name="Vulture Stance"/> are instant-cast so you can use them off-cooldown, even while casting other skills. Make sure to be in range of your allies when using <Skill name="Vulture Stance"/>.
 
 **Step 4: Easy Precasts**
 
-Lastly, we will look at some easy precasts you can (almost) always do with low effort but good reward.
+Lastly, we will look at some easy precasts you can (almost) always do with low effort but good reward:
+
+1. <Skill name="Double Arc"/>, <Skill name="Crippling Shot"/> and <Skill name="Sharpening Stone"/> all provide a boost to your next attacks after being used. You can use these before the fight if you do not get into combat by doing so (no other enemies around). This becomes even more efficient if a Mistlock Singularity is present to reset the skill cooldowns.
+2. If a Mistlock Singularity is present, you can cast your Stances as well, namely <Skill name="One Wolf Pack"/> and <Skill name="Vulture Stance"/>.
 
 </Card>
 
@@ -595,7 +604,18 @@ Most of the additional steps will be extra precasts to have a higher damage spik
 </GridItem>
 <GridItem xs="12" sm="5">
 
+<Beginner>
+<Card title="Step-by-Step Video">
+
+This video shows the step-by-step approach to the rotation listed on the left.
+
+<Video youtube="jfMwOw722Z0" caption="by Ascers"/>
+
+</Card>
+</Beginner>
+
 <Card title="Shortbow Golem Rotation">
+
 This video shows the full rotation on the golem.
 
 <Video youtube="iKKWM4F3ayg" caption="by Eren"/>
