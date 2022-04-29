@@ -21,7 +21,7 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-04-29T09:35:04.784Z
+date: 2022-04-29T09:54:22.806Z
 ---
 <Warning>
 
@@ -150,7 +150,8 @@ This guide will focus on the Shortbow + Dagger/Torch variant of the build with <
   },
   "consumables": {
     "foodId": 91878,
-    "utilityId": 48917
+    "utilityId": 48917,
+    "infusion": "Malign +9 Agony Infusion"
   },
   "skills": {
     "healId": 31914,
