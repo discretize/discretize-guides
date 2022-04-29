@@ -10,15 +10,7 @@ skills: null
 conditions:
   - name: Vulnerability
     uptime: 25 stacks
-  - name: Blinded
-  - name: Crippled
 boons:
-  - name: Quickness
-    uptime: ~10%
-    variant: group
-  - name: Might
-    uptime: 2 stacks
-    variant: party
   - name: Fury
     uptime: 80%
     variant: party
