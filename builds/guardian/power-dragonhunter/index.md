@@ -33,7 +33,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-04-29T09:34:17.941Z
+date: 2022-04-29T09:50:06.466Z
 ---
 
 The <Specialization name="Dragonhunter"/> is a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and high <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -160,7 +160,8 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 50082
+    "utilityId": 50082,
+    "infusion": "Mighty +9 Agony Infusion"
   },
   "skills": {
     "healId": 21664,
@@ -315,7 +316,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
    },
    "consumables":{
       "foodId":91805,
-      "utilityId":50082
+      "utilityId":50082,
+      "infusion": "Mighty +9 Agony Infusion"
    },
    "skills":{
       "healId":21664,
