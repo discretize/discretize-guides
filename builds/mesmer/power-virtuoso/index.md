@@ -17,14 +17,14 @@ boons:
   - name: Fury
     uptime: 100% - On Demand
     variant: Self
-code: '[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 3
   - 4
-date: 2022-04-26T03:20:08.291Z
+date: 2022-04-29T09:35:36.841Z
 ---
 
 <Advanced>
@@ -787,12 +787,14 @@ At the boss (prespawned bosses)
 
 <Beginner>
 <Card title="Step-by-Step Video">
+
 This video shows the step-by-step approach to the rotation listed on the left.
 <Video caption="by Ascers" youtube="10c1XNlXeVk"/>
 </Card>
 </Beginner>
 
 <Card title="Golem Rotation">
+
 This video shows the full rotation for the Greatsword variant on the golem. It will slightly vary from the step-by-step version.
 
 <Video caption="by Tipcat [CnD]" youtube="92FJUY1IKh4"/>
