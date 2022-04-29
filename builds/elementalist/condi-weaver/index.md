@@ -8,9 +8,7 @@ profession: Elementalist
 specialization: Weaver
 conditions:
   - name: Burning
-  - name: Crippled
   - name: Bleeding
-  - name: Chilled
 code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
