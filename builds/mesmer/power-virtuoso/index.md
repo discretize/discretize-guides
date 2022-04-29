@@ -12,11 +12,9 @@ conditions:
     uptime: 25 stacks
 boons:
   - name: Might
-    variant: Self
-    uptime: 25 Stacks - On Demand
+    uptime: 25 Stacks (Self only)
   - name: Fury
-    uptime: 100% - On Demand
-    variant: Self
+    uptime: 100% (Self only)
 code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
