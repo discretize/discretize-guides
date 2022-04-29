@@ -22,7 +22,7 @@ boons:
   - name: Fury
     uptime: 100%
     variant: group
-code: '[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLyo6PjZLFyYPehZIAUgBLQH+ALkBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: static
 classification:
   - 5
@@ -30,7 +30,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-04-19T18:33:33.129Z
+date: 2022-04-29T09:45:27.587Z
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing good DPS.
@@ -41,7 +41,7 @@ Using <Skill name="Bane Signet"/> to break defiance bars also increases your all
 
 <Warning>
 
-Its worth mentioning that <Specialization text="Power Quickness Firebrand" name="Firebrand"/> is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights or if you happen to be in a slower group (most PuG groups), you want to run <BuildLink build="Condi Firebrand" specialization="Firebrand"/> as it provides much higher sustained DPS. If you can't evaluate yourself if this build is a good pick for you party, you should not be playing it!
+Its worth mentioning that <Specialization text="Power Quickness Firebrand" name="Firebrand"/> is exceedingly strong when bosses phase quickly. For various T4 fractals, long fights, or if you happen to be in a slower group (most PuG groups), you want to run <BuildLink build="Condi Firebrand" specialization="Firebrand"/> as it provides much higher sustained DPS. If you can't evaluate yourself if this build is a good pick for your party, you should not be playing it!
 
 </Warning>
 
@@ -540,13 +540,13 @@ The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-drag
 - If the encounter allows you to, you can prestack the following symbols:
   - Equip Mace and precast <Skill name="Symbol of Faith"/>
   - Equip Scepter and precast <Skill name="Symbol of Punishment"/>
-  - And finally, equip Sword and cast <Skill name="Symbol of Blades"/>
+  - And finally, equip sword and cast <Skill name="Symbol of Blades"/>
   - This way, when the encounter starts, 3 symbols will hit the target and get up your stacks of <Trait name="symbolicavenger"/>
 - On greatsword:
   - Use <Skill name="Symbol of Resolution"/>, you should cancel the aftercast with weapon stowing or simply moving
   - Use <Skill name="Whirling Wrath"/> while standing in a symbol inside the target's hitbox (if done correctly it results in 14 hits)
 - On Sword:
-  - Use <Skill name="Ray of Judgment"/>, try if possible to cancel the aftercast with weapon swap, stow or <Skill name="Symbol of Blades"/>
+  - Use <Skill name="Ray of Judgment"/>, try if possible to cancel the aftercast with weapon swap, stow, or <Skill name="Symbol of Blades"/>
   - Use <Skill name="Symbol of Blades"/>
   - Use <Skill name="Zealots Defense"/>
   - <Skill name="Shield of Wrath"/> when you're not receiving hits - use it shortly before breaking defiance bars. Can also be used to help with stacking <Boon name="Might"/>
@@ -556,7 +556,7 @@ The DPS rotation is the same as [Power Dragonhunter](/builds/guardian/power-drag
   - <Skill name="Sword of Justice"/> for additional DPS and vulnerability. Also provides 3 seconds of <Condition name="Crippled"/>
   - Scepter plays the same as the sword, just without <Skill name="Zealots Defense"/>
 
-Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
+Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA, and hallucinations at Siax).
 
 <p>
 <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
@@ -585,7 +585,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
-For that reason you can find a video with openers, that are efficient to use here.
+For that reason, you can find a video with openers, that are efficient to use here.
 </Card>
 
 <Card title="Firebrand openers">
