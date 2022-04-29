@@ -21,15 +21,15 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-04-28T23:12:32.338Z
+date: 2022-04-29T09:17:40.748Z
 ---
-
 <Warning>
 
-This build is strong in full condi groups ([team comps](/guides/effective-comp)). In power groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
+This build is strong in full condi groups ([team comps](/guides/effective-comp)). In power groups this build will fall massively behind <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart.
+
 </Warning>
 
-Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group are playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
+Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
 
 This build is rather self sufficient due to:
 
@@ -37,11 +37,11 @@ This build is rather self sufficient due to:
 - Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
 - High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
 
-Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
+Overall this is a very well-rounded build that is rewarding to play in both PuGs and organized teams alike.
 
 <Beginner>
 
-This guide will focus on the Shortbow + Dagger/Torch variant of the build with <Trait name="Light on your Feet"/> which is the most used version in fractals. There are some alternatives for specific situations with slightly varying rotations. Once you are able to exceute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills, trait swaps or other weapon variants.
+This guide will focus on the Shortbow + Dagger/Torch variant of the build with <Trait name="Light on your Feet"/> which is frequently played in fractals. There are some alternatives for specific situations with slightly varying rotations. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options, check out the advanced page for extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills, trait swaps, or other weapon variants.
 
 </Beginner>
 
