@@ -8,6 +8,11 @@ role: Condi Damage
 profession: Guardian
 specialization: Firebrand
 skills: []
+conditions:
+  - name: Burning
+  - name: Vulnerability
+  - name: Crippled
+  - name: Bleeding
 boons:
   - name: Might
     uptime: 5 stacks
@@ -21,35 +26,30 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-code: '[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 5
   - 4
   - 5
   - 2
   - 3
-date: 2022-04-17T19:24:30.425Z
-conditions:
-  - name: Burning
-  - name: Vulnerability
-  - name: Crippled
-  - name: Bleeding
-cmGuide: ''
+date: 2022-04-29T09:39:36.006Z
 ---
 
 <Beginner>
 
-The **<Specialization text="Condi Firebrand" name="Firebrand"/>** is a self-sufficient DPS build, which is not entirely relying on support from the party. This is achieved by bringing slightly more than 50% <Boon name="Quickness" /> to the party. Further, this build brings <Boon name="Stability"/> for the team. Don't be fooled though; the DPS sacrifice is neglectable so that the <Specialization text="Condi Firebrand" name="Firebrand"/> maintains consistent very high DPS. In addition to that, a free utility slot allows the <Specialization text="Condi Firebrand" name="Firebrand"/> to adapt to almost any situation and fill the parties needs ideally.
+The **<Specialization text="Condi Firebrand" name="Firebrand"/>** is a self-sufficient DPS build, which is not entirely relying on support from the party. This is achieved by bringing slightly more than 50% <Boon name="Quickness" /> to the party. Further, this build brings <Boon name="Stability"/> for the team. Don't be fooled though; the DPS sacrifice is neglectable so that the <Specialization text="Condi Firebrand" name="Firebrand"/> maintains consistent very high DPS. In addition to that, a free utility slot allows the <Specialization text="Condi Firebrand" name="Firebrand"/> to adapt to almost any situation and fill the parties' needs ideally.
 
 The beginner version should not be played in the slot of a <Boon name="Quickness" />-provider. Instead, it is a fully fledged DPS class! The added <Boon name="Quickness" /> will help to cover potential gaps in <Boon name="Quickness"/> application and alleviate some of stress the <Boon name="Quickness" />-provider might face.
 
-This is a great build to get started in fractals as you provide a base amount of supportive utilty. As you progress through fractals and discover new depths of the immersive gameplay of Guild Wars 2, you can tweak this build more and more. Before reading the advanced version of this page, we recommend to acquire an in depth understanding of your CC skills and when to use them efficiently. You also should be able to hit more than 45% <Boon name="Quickness"/> uptime (measure this with the [arc-dps](https://www.deltaconnected.com/arcdps/) boon table [addon](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
+This is a great build to get started in fractals as you provide a base amount of supportive utility. As you progress through fractals and discover new depths of the immersive gameplay of Guild Wars 2, you can tweak this build more and more. Before reading the advanced version of this page, we recommend acquiring an in-depth understanding of your CC skills and when to use them efficiently. You also should be able to hit more than 45% <Boon name="Quickness"/> uptime (measure this with the [arc-dps](https://www.deltaconnected.com/arcdps/) boon table [addon](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
 
-The advanced page provides a more complete overview over all the utility the <Specialization name="Guardian"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
+The advanced page provides a more complete overview of all the utilities the <Specialization name="Guardian"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
 
 <Information>
 
-Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend to get started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
 
 </Information>
 
@@ -67,11 +67,11 @@ This build has tremendous amounts of self-sustain and is therefore also a great 
 - <Skill id="42259"/> for <Boon name="Stability"/>, <Boon name="Resistance"/>, reflects and damage reduction.
 - Optionally: <Skill name="litanyofwrath"/> for a 6s long high HP regeneration.
 
-Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider or for people that want to be more independent of their groups.
+Overall this build is one of the best picks for newer players, for PuGs as <Boon name="Quickness"/> provider, or for people that want to be more independent of their groups.
 
 <Warning>
 
-There are a number of different gear, utility and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
+There are several different gear, utility, and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
 
 - <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 41.7%bd
 - <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 69.8%bd
@@ -673,7 +673,7 @@ To keep up <Boon name="Quickness"/>:
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 - Keep in mind that equipping or stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
-Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA and hallucinations at Siax).
+Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA, and hallucinations at Siax).
 
 The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
@@ -697,7 +697,7 @@ The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are grea
 - <MissingSkill name="Chapter 4: Stalwart Stand"/> places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
 - <MissingSkill name="Epilogue: Unbroken Lines"/> provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
 - There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
-- You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example a 2nd reflect. However only do this when absolutely needed as you will not have access to the boons and healing your weapon skills provide.
+- You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example, a 2nd reflect. However only do this when needed as you will not have access to the boons and healing your weapon skills provide.
 
 </Advanced>
 
@@ -710,7 +710,7 @@ The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are grea
 
 <Warning>
 
-**Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast! Never interrupt your axe auto attack chain! Keep <Skill name="purgingflames"/> on cooldown!**
+**Make sure to only press <Skill id="9089"/> three times (twice to throw the projectile and once to activate the skill initially) or you will cancel a wasted cast! Never interrupt your axe auto-attack chain! Keep <Skill name="purgingflames"/> on cooldown!**
 
 </Warning>
 
@@ -784,7 +784,7 @@ Note: Unless you execute the rotation perfectly, this will eventually de-sync. O
 
 Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
 
-There will be a few additional things on the advanced page to improve further but if you got to here, you already know the most important things and these will have less total impact that what you learned so far.
+There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
 
 The additional steps are:
 
