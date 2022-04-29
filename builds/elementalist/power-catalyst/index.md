@@ -19,7 +19,7 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-29T09:28:01.633Z
+date: 2022-04-29T09:48:35.917Z
 ---
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
@@ -131,7 +131,8 @@ This build has one of the harder rotations in the game but is very enjoyable to 
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 50082
+    "utilityId": 50082,
+    "infusion": "Mighty +9 Agony Infusion"
   },
   "skills": {
     "healId": 5503,
@@ -285,7 +286,8 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 50082
+    "utilityId": 50082,
+    "infusion": "Mighty +9 Agony Infusion"
   },
   "skills": {
     "healId": 5503,
@@ -446,7 +448,8 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 50082
+    "utilityId": 50082,
+    "infusion": "Mighty +9 Agony Infusion"
   },
   "skills": {
     "healId": 5503,
@@ -601,7 +604,8 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 50082
+    "utilityId": 50082,
+    "infusion": "Mighty +9 Agony Infusion"
   },
   "skills": {
     "healId": 5503,
