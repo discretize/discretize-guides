@@ -131,7 +131,7 @@ Use `/gg` to reset mobs on the ship and use the _Mistlock Singularity_ to stack 
 You can use <Skill name="Corrosive Poison Cloud"/> to block the projectiles and <Skill name="Chilling Grasp"/> to pull enemies to you.
 </Tab>
 <Tab specialization="Guardian">
-Use <Skill name="Wall of Reflection"/> to keep enemy projectiles from hitting your group. <TomeSkill name="Chapter 3: Valiant Bulwark"/>, <TomeSkill name="Chapter 4: Stalwart Stand"/> and <TomeSkill name="Epilogue: Unbroken Lines"/> are helpful here for <Boon name="Stability"/> and <Boon name="Resistance"/>.
+Use <Skill name="Wall of Reflection"/> to keep enemy projectiles from hitting your group. <MissingSkill name="Chapter 3: Valiant Bulwark"/>, <MissingSkill name="Chapter 4: Stalwart Stand"/> and <MissingSkill name="Epilogue: Unbroken Lines"/> are helpful here for <Boon name="Stability"/> and <Boon name="Resistance"/>.
 </Tab>
 <Tab specialization="Renegade">
 You can use two different legends here (in addition to your default one, <Skill name="Legendary Renegade Stance"/>).

@@ -5,19 +5,9 @@ role: Power Damage
 author: 'Discord: Jes#6596'
 profession: Necromancer
 specialization: Reaper
-skills:
-  - 30792
-traits:
-  - 2020
-  - 2018
-  - 853
 conditions:
-  - Vulnerability
-  - Weakness
-  - Crippled
-  - Chilled
-  - Poisoned
-  - Blinded
+  - name: Vulnerability
+    uptime: 22 stacks
 code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: 'pug'
 classification:

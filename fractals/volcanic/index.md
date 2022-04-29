@@ -149,7 +149,7 @@ You have multiple options for your legend of choice:
 
 <Tab specialization="Firebrand">
 
-Use <TomeSkill name="Chapter 4: Stalwart Stand"/> for party wide <Boon name="Resistance"/>, <TomeSkill name="Chapter 3: Valiant Bulwark"/> to block enemy projectiles and <TomeSkill name="Chapter 3: Heated Rebuke"/> to pull in the enemies.
+Use <MissingSkill name="Chapter 4: Stalwart Stand"/> for party wide <Boon name="Resistance"/>, <MissingSkill name="Chapter 3: Valiant Bulwark"/> to block enemy projectiles and <MissingSkill name="Chapter 3: Heated Rebuke"/> to pull in the enemies.
 </Tab>
 
 <Tab specialization="Elementalist">

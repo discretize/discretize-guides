@@ -1,43 +1,30 @@
 ---
 title: Power Willbender
+hidden: false
+archive: false
 rating: Good
 role: Power Damage
 profession: Guardian
 specialization: Willbender
 skills: null
-archive: false
-hidden: false
 conditions:
-  - Vulnerability
-  - Blinded
-  - Crippled
+  - name: Vulnerability
+    uptime: 25 stacks
 boons:
-  - name: Quickness
-    uptime: ~10%
-    variant: group
-  - name: Quickness
-    uptime: ~25%
-    variant: self
-  - name: Might
-    uptime: 2 stacks
+  - name: Fury
+    uptime: 80%
     variant: party
-code: '[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 4
   - 3
   - 2
   - 4
-date: 2022-03-21T22:18:11.184Z
+date: 2022-04-29T09:46:55.887Z
 ---
 
-<Warning>
-
-This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
-
-</Warning>
-
-<Specialization name="Willbender" text="Power Willbender"/> has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="62532"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>. It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+The <Specialization name="Willbender" text="Power Willbender"/> has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="62532"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>. It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -472,7 +459,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Card title="Virtues">
 
-If you can reliably upkeep <Boon name="Aegis"/>, and you dont gain value from sharing <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>. You can drop the Radiance traitline for Virtues for more personal damage. Please note you will need to adjust your gear potentially to crit cap! Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
+If you can reliably upkeep <Boon name="Aegis"/>, and you don't gain value from sharing <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>. You can drop the Radiance trait line for Virtues for more personal damage. Please note you will need to adjust your gear potentially to crit cap! Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
 <Traits unembossed traits1="Virtues" traits1Selected="Unscathed Contender,Inspiring Virtue,Permeating Wrath"/>
 
@@ -526,7 +513,7 @@ Generally it is important to apply <Boon name="Resolution"/> when you are about 
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt their rotation to the amount of time a group needs to finish a phase.\
-For that reason you will find some general notes for skill usage here.
+For that reason, you will find some general notes for skill usage here.
 </Card>
 
 <Card title="Precasting">
@@ -550,7 +537,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 - Always start on sword
 - Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC.
 - Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
-- Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at **Artsariiv**, **Arkk**, **Siax** and **Ensolyss**.
+- Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at **Artsariiv**, **Arkk**, **Siax**, and **Ensolyss**.
 - Don't interrupt your GS auto-attack chain.
 - In certain scenarios (precasting symbols, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="Rushing Justice"/> out first.
 - Don't waste your key skills on meaningless adds.
@@ -563,7 +550,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 **Rotation:**
 
-This is just a suggested opener. Depending on the encounter and the length of the phase you will want to start on different weapons and use different skills. <Specialization name="Willbender" text="Power Willbender"/> plays very similarly to <Specialization name="Dragonhunter" text="Power Dragonhunter"/>, if you need some ideas you can use the [Dragonhunter CM Guide](/cm-guides/guardian/power-dragonhunter/).
+This is just a suggested opener. Depending on the encounter and the length of the phase you will want to start on different weapons and use different skills. <Specialization name="Willbender" text="Power Willbender"/> plays very similarly to <Specialization name="Dragonhunter" text="Power Dragonhunter"/>, if you need some ideas you can use the [Dragonhunter CM Guide](/cm-guides/guardian/power-dragonhunter/static/).
 
 1.  <Skill name="banesignet" profession="guardian"/>
 2.  <Skill name="Symbol of Blades" profession="guardian"/> (Sword 2)
@@ -588,7 +575,7 @@ This is just a suggested opener. Depending on the encounter and the length of th
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="OiH1BLuJpo" caption="by Nagy"/>
+<Video youtube="-OiH1BLuJpo" caption="by Nagy"/>
 </Card>
 </GridItem>
 </Grid>

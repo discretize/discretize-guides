@@ -6,15 +6,6 @@ profession: Elementalist
 specialization: Weaver
 archive: false
 hidden: false
-skills:
-  - 5734
-  - 5516
-  - 44451
-  - 5557
-traits:
-  - 1502
-  - 226
-  - 1503
 code: '[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
@@ -24,9 +15,8 @@ classification:
   - 4
 date: 2022-03-28T17:10:34.646Z
 conditions:
-  - Burning
-  - Chilled
-  - Vulnerability
+  - name: Vulnerability
+    uptime: 10 stacks
 cmGuide: pug
 ---
 

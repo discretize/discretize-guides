@@ -1,19 +1,28 @@
 ---
 title: Condi Specter
+hidden: false
+archive: false
 rating: Good
 role: Condi Damage
 profession: Thief
 specialization: Specter
-skills: null
 conditions:
-  - Vulnerability
-  - Weakness
-  - Immobilize
-  - Poisoned
-  - Bleeding
-  - Torment
-boons: null
-cmGuide: ''
+  - name: Vulnerability
+    uptime: 20 stacks
+  - name: Poisoned
+  - name: Bleeding
+  - name: Torment
+boons:
+  - name: Fury
+    uptime: 75%
+    variant: party
+  - name: Might
+    uptime: 3 stacks
+    variant: party
+  - name: Swiftness
+    uptime: 75%
+    variant: party
+cmGuide: ""
 classification:
   - 5
   - 4
@@ -21,19 +30,11 @@ classification:
   - 2
   - 3
 compositions: null
-code: '[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-03-20T17:44:08.565Z
-archive: false
-hidden: false
+code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-04-29T10:52:13.715Z
 ---
 
-<Warning>
-
-This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
-
-</Warning>
-
-The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. The value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and casted again as soon as your allies have consumed them by attacking the target.
+The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. The value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and cast again as soon as your allies have consumed them by attacking the target.
 
 At the same time it can generate large amounts of <Effect name="Barrier"/> for your party, some healing and a small amount of <Boon name="Might"/> and <Boon name="Swiftness"/> by targeting allied players.
 
@@ -158,10 +159,10 @@ At the same time it can generate large amounts of <Effect name="Barrier"/> for y
 
 If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
 
-The <Skill name="skelkvenom"/> is a much better option to support your party as it brings a tremendous amount of party heal.
-It's recommended to run a shortbow for additional movement during downtime and <Boon name="might"/> blasts on the _Mistlock Singularity_.
+The <Skill name="skelkvenom"/> is a much better option to support your party as it brings a tremendous amount of party healing.
+It's recommended to run a short bow for additional movement during downtime and <Boon name="might"/> blasts on the _Mistlock Singularity_.
 
-If you do not need the extra CC you can run a Dagger with <Item id="48911"/> instead of Pistol in your second weapon set.
+If you do not need the extra CC you can run a Dagger with <Item id="48911"/> instead of a Pistol in your second weapon set.
 
 </Character>  
 </CharacterWithAr>
@@ -264,7 +265,7 @@ In <Skill name="Enter Shadow Shroud" text="Shadow Shorud"/> you want to use:
 
 <Card title="Precasting">
 
-All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown. This is possible on Skorvald, Artsariiv, Arkk, MAMA and Ensolyss with the use of a <Item name="White Mantle Portal Device"/>, or on Siax without. It is also possible on the Sorrowful Spellcaster (Light & Dark Ai), but with a 1/4 chance of success.
+All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown. This is possible on Skorvald, Artsariiv, Arkk, MAMA, and Ensolyss with the use of a <Item name="White Mantle Portal Device"/>, or on Siax without. It is also possible on the Sorrowful Spellcaster (Light & Dark Ai), but with a 1/4 chance of success.
 
 - On 100CM, make sure to precast venoms on your <Skill id="13082"/> minions, as every boon and special ability effect currently on you will be stripped upon starting the encounter.
 - Spam <Skill name="clusterbomb"/> for <Boon name="might"/> blasts on the _Mistlock Singularity_.

@@ -5,8 +5,6 @@ image: ./images/arkk.jpg
 description: A collection of profession specific CM guides!
 ---
 
-<Divider text="Overview"/>
-
 <Grid>
 
 <GridItem>

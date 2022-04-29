@@ -2,42 +2,50 @@
 title: Condi (Quick) Harbinger
 hidden: false
 archive: false
+hasBeginner: false
 rating: Good
 role: Condi Damage
 profession: Necromancer
 specialization: Harbinger
 traits: []
+conditions:
+  - name: Vulnerability
+    uptime: 20 stacks
+  - name: Torment
+  - name: Bleeding
+  - name: Poison
+  - name: Burning
 boons:
   - name: Quickness
-    uptime: 25% (100% party in Quickness variant)
-    variant: self
+    uptime: 100% (using Quickness variant)
+    variant: (using Quickness variant)
   - name: Fury
-    uptime: 100% (party in Quickness variant)
-    variant: self
+    uptime: 100%
+    variant: (using Quickness variant)
   - name: Might
-    uptime: 12-13 stacks (~6 party on DPS variant, 13 party on Quickness variant)
-    variant: self
+    uptime: 6 stacks
+    variant: (13 stacks on Quickness variant)
   - name: Swiftness
-    uptime: 55% (65% party in Quickness variant)
-    variant: self
+    uptime: "65% "
+    variant: (using Quickness variant)
   - name: Regeneration
-    uptime: 45% (50% party on Quickness variant)
-    variant: self
-code: '[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
+    uptime: "50% "
+    variant: (using Quickness variant)
+code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 4
   - 3
   - 4
-date: 2022-03-28T17:30:09.277Z
+date: 2022-04-29T10:41:46.052Z
 ---
 
-The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
+The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkeep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> is more squishy than other <Specialization name="Necromancer"/> builds because it loses maximum health due to the <Effect name="Blight"/> mechanic and <Skill name="Harbinger Shroud"/> does not act as a second health bar. However, even with maximum <Effect name="Blight"/> stacks, you will still be at around 15k health.
 
-Due to being a condition based build, it will not benefit from slaying potions or <Item name="Impact" type="Sigil"/>.
+Due to being a condition-based build, it will not benefit from slaying potions or <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
@@ -306,7 +314,7 @@ You can also use <Item id="37130"/> if you do not have the Spiteful ones for a m
   ]
 }}>
 
-This build is only very slightly behind the Nightmare Runes setup in terms of DPS, but ift has the benefit of sharing a set with the Quickness variant, only requiring one Ring swap with 3 <Item name="Spiteful +9 Agony Infusion"/> for the Quickness variant sicne this build runs all 18 <Item name="Malign +9 Agony Infusion"/>.
+This build is only very slightly behind the Nightmare Runes setup in terms of DPS, but it has the benefit of sharing a set with the Quickness variant, only requiring one Ring swap with 3 <Item name="Spiteful +9 Agony Infusion"/> for the Quickness variant since this build runs all 18 <Item name="Malign +9 Agony Infusion"/>.
 
 </Character>
 
@@ -498,7 +506,7 @@ Use this setup if you are responsible for providing Quickness to your group.
 - <Skill name="Dark Barrage"/> fires out 6 bolts. If you stand too far away, some bolts will miss the target.
 - <Skill name="Devouring Cut"/> dashes you to your target and then damages enemies on impact. If you are already in melee range, you can cancel this skill right away and still deal damage. If above 5 <Effect name="Blight"/>, this attack will consume 5 stacks and deal extra damage.
 - <Skill name="Voracious Arc"/> leaps you into the targeted area while evading, deals damage and <Control name="Daze"/> the enemy. If above 10 <Effect name="Blight"/>, this attack will consume 10 stacks and deal extra damage.
-- <Skill name="Vital Draw"/> is the only Shroud skill you will not actively use in your rotation. However, it is a strong CC skill that will deal 300 breakbar damage to enemies around you.
+- <Skill name="Vital Draw"/> is the only Shroud skill you will not actively use in your rotation. However, it is a strong CC skill that will deal 300 break bar damage to enemies around you.
 
 </Card>
 
@@ -511,7 +519,7 @@ Use this setup if you are responsible for providing Quickness to your group.
 - As a <Specialization name="Harbinger"/> you gain access to Elixirs as utility skills.
 - Using an Elixir grants you Boons (that are shared with your allies when running <Trait name="Twisted Medicine"/>). Then the elixir will be thrown at your target location inflicting Conditions on your enemy.
 - If you are in the splash area of the Elixir, you gain <Effect name="Blight"/>.
-- If you are above the Blight threshold (5 for heal/utility, 10 for elite), you will lose this amount of <Effect name="Blight"/> to enhance the damage of the Elixir.
+- If you are above the Blight threshold (5 for heal/utility, 10 for the elite), you will lose this amount of <Effect name="Blight"/> to enhance the damage of the Elixir.
 - Using Elixirs will help us upkeep
 - The most commonly used Elixirs are <Skill name="Elixir of Promise"/>, <Skill name="Elixir of Risk"/> and <Skill name="Elixir of Anguish"/> with <Skill name="Elixir of Promise"/> being the most interesting one for damage due to its <Condition name="Poisoned"/> application and the other 2 giving very useful boons.
 - <Skill name="Elixir of Bliss"/> can help cleansing conditions while <Skill name="Elixir of Ignorance"/> acts as a stun-break. However keep in mind that delaying your Elixirs also means delaying your <Effect name="Blight"/> application.
@@ -555,7 +563,7 @@ Use this setup if you are responsible for providing Quickness to your group.
 - You gain Life Force when units around you die or from some skills, namely <Skill name="Weeping Shots"/>, <Skill name="Vile Blast"/> and <Skill name="Devouring Darkness"/> as well as entering <Skill name="Harbinger Shroud"/>.
 - Use <Skill name="Deathly Swarm"/> and <Skill name="Harbinger Shroud"/> (triggering <Trait name="Plague Sending"/>) to transfer Conditions you get from <Skill name="Blood is Power"/> and <Skill name="Plaguelands"/> to the boss.
 - Use all 3 Elixirs off-cooldown to keep up Blight. They have the same cooldown. Use <Skill name="Elixir of Promise"/> last to ensure you are using it above the Blight threshold doubling the duration of the <Condition name="Poisoned"/> it applies.
-- Try to stay on Pistol as much as possible. Ideally you will never use a single auto-attack on Scepter. It is just for using <Skill name="Devouring Darkness"/> and <Skill name="Grasping Dead"/> before and after every other <Skill name="Harbinger Shroud"/>.
+- Try to stay on Pistol as much as possible. Ideally, you will never use a single auto-attack on Scepter. It is just for using <Skill name="Devouring Darkness"/> and <Skill name="Grasping Dead"/> before and after every other <Skill name="Harbinger Shroud"/>.
 
 </Card>
 
@@ -582,7 +590,7 @@ After the Opener and your first Shroud Rotation is done, the loop will be:
 
 <Card title="Extra Information">
 
-- Fill any remaining gaps in the loop with Pistol auto-attacks.
+- Fill in any remaining gaps in the loop with Pistol auto-attacks.
 - <Skill name="Blood is Power"/> will recharge slightly more often than you enter <Skill name="Harbinger Shroud"/>. Use extra charges in combination with <Skill name="Deathly Swarm"/>. Otherwise use <Skill name="Deathly Swarm"/> for <Skill name="Plaguelands"/> when it comes off-cooldown.
 - <Skill name="Devouring Cut"/> has a cast-time but does its damage even if you cancel the skill right away.
 

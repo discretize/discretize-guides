@@ -1,44 +1,31 @@
 ---
 title: Condi Willbender
+hidden: false
+archive: false
 rating: Good
 role: Condi Damage
 profession: Guardian
 specialization: Willbender
 skills: null
-archive: false
-hidden: false
 conditions:
-  - Burning
-  - Vulnerability
-  - Crippled
-  - Bleeding
+  - name: Burning
+  - name: Vulnerability
+    uptime: 12 stacks (using Sword of Justice)
 boons:
-  - name: Quickness
-    uptime: ~10%
-    variant: group
-  - name: Quickness
-    uptime: ~25%
-    variant: self
   - name: Might
     uptime: 2 stacks
     variant: party
-code: '[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 2
   - 3
-date: 2022-03-26T19:38:24.409Z
+date: 2022-04-29T09:41:26.581Z
 ---
 
-<Warning>
-
-This build guide is not complete, gear and sections may change regularly as we explore the new elite spec and spend more time playing it in fractals!
-
-</Warning>
-
-The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC and mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party with <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
+The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC, and mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party with <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
 
 <Divider text="Equipment"/>
 
@@ -157,12 +144,12 @@ The <Specialization name="Willbender" text="Condition Willbender"/> is a strong 
 }} 
 >
 
-There are many different gear variations that can be run on this build that vary damage wise in certain situations. Overall when considering <Effect name="Exposed"/> and the fact you can share gear with <Specialization name="Firebrand" text ="Condi Firebrand"/> makes the setup below the best option for fractals. If you want to optimize for different situations you can use our [gear optimizer](https://optimizer.discretize.eu/).
+Many different gear variations can be run on this build that varies damage-wise in certain situations. Overall when considering <Effect name="Exposed"/> and the fact you can share gear with <Specialization name="Firebrand" text ="Condi Firebrand"/> makes the setup below the best option for fractals. If you want to optimize for different situations you can use our [gear optimizer](https://optimizer.discretize.eu/).
 
 This build also makes use of a <Item id="96613"/> gaining <Attribute name="Condition Damage"/> from <Trait name="Power of the Virtuous"/>. Removing this does not change the gear!
 
-If you need to swap a utility out, <Skill name="Signet of Wrath"/> is a minor dps increase and should be swapped out when other skills suit the encounter better.
-You will want the following weapons to swap to durning fractal runs:
+If you need to swap a utility out, <Skill name="Signet of Wrath"/> is a minor DPS increase and should be swapped out when other skills suit the encounter better.
+You will want the following weapons to swap to during fractal runs:
 
 - Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
 - A staff for <Boon name="Might"/> pre-stacking.
@@ -216,7 +203,8 @@ You will want the following weapons to swap to durning fractal runs:
 <Grid>
 <GridItem sm="6">
 <Card title="Skill Priority">
-In general for fractals there is no set rotation for <Specialization name="Willbender" text="Condi Willbender"/>. Instead you want to adapt your rotation depending on phase length and cooldowns. You can use the skill priority list below to see what your most important skills are. In general though make sure to prioritise using <Skill name="Rushing Justice"/> to maintin <Skill id="62618"/> and aim for maximum uptime of <Trait name="lethal tempo"/>.
+
+In general for fractals there is no set rotation for <Specialization name="Willbender" text="Condi Willbender"/>. Instead, you want to adapt your rotation depending on phase length and cooldowns. You can use the skill priority list below to see what your most important skills are. In general though make sure to prioritise using <Skill name="Rushing Justice"/> to maintain <Skill id="62618"/> and aim for maximum uptime of <Trait name="lethal tempo"/>.
 
 1. <Skill name="Rushing Justice"/>
 2. <Skill name="Purging Flames"/>
@@ -245,9 +233,13 @@ You can also precast stacks of <Trait name="lethal tempo"/> using your virtue sk
 <Card title="Golem rotation">
 
 <Video youtube="x76DgzoGCnA" caption="Sword rotation by Support Hero"/>
-Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+
+Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+
 <Video youtube="mCOEGlJkRJ0" caption="Greatsword rotation by [CnD] DaedDee"/>
-Please note the setup used in this benchmark is optimised for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+
+Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+
 </Card>
 </GridItem>
 </Grid>

@@ -1,17 +1,19 @@
 ---
 title: Condi (Alac) Renegade
+hidden: false
+archive: false
 rating: Meta
 role: Condi Damage
 author: PineappleMan.1430
 profession: Revenant
 specialization: Renegade
-skills:
-  - 45773
-  - 27505
-traits:
-  - 2182
 conditions:
-  - Vulnerability
+  - name: Vulnerability
+    uptime: 15 stacks
+  - name: Torment
+  - name: Burning
+  - name: Bleeding
+  - name: Poison
 boons:
   - name: Alacrity
     uptime: 100%
@@ -19,22 +21,20 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: '[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 4
   - 3
   - 4
   - 3
   - 5
-date: 2022-03-20T15:00:35.036Z
-archive: false
-hidden: false
+date: 2022-04-29T10:49:23.013Z
 ---
 
 <Warning>
 
-This build is mainly to be used in condition comps. In power comps <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support and being more versatile.
+This build is mainly to be used in condition comps. In power comps <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support, and more versatility.
 
 </Warning>
 
@@ -394,7 +394,7 @@ If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can b
 - <Skill id="45686"/>: self heal + pulsing area heal skill that can help <Skill id="12498"/> to stay alive
 - <Skill id="42949"/>: excellent damage source and applies a lot of <Condition name="Bleeding"/>
 - <Skill id="40485"/>: suboptimal on Condi <Specialization name="Renegade"/>, however, still a good source of <Condition name="Vulnerability"/>
-- <Skill id="41220"/>: very good CC skill that does a total of 600 breakbar damage
+- <Skill id="41220"/>: very good CC skill that does a total of 600 break bar damage
 - <Skill id="45773"/>: a situational skill that allows your party members to quickly replenish their health at the cost of damage when you are attuned to <Skill id="41858"/>
 
 <Skill id="28494"/> skills:
@@ -489,7 +489,7 @@ When you swap your legend first and then your weapon, you will be able to proc S
 <GridItem sm="6">
 <Card title="Precasting">
 
-In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don't, and you can play around the boonstripping thing.
+In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don't, and you can play around the boon-stripping.
 
 1.  If you can get in combat prestack <Item id="24609"/>
 2.  Be in <Skill id="28134"/> and press <Skill id="26937"/>
