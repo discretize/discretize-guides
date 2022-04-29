@@ -10,14 +10,12 @@ specialization: Firebrand
 conditions:
   - name: Vulnerability
     uptime: 25 stacks
-  - name: Blinded
-  - name: Crippled
 boons:
   - name: Quickness
     uptime: 100%
     variant: group
   - name: Might
-    uptime: 2 stacks
+    uptime: 5 stacks
     variant: group
   - name: Fury
     uptime: 100%

@@ -7,12 +7,7 @@ profession: Necromancer
 specialization: Reaper
 conditions:
   - name: Vulnerability
-    uptime: 22 stacks   
-  - name: Weakness
-  - name: Crippled
-  - name: Chilled
-  - name: Poisoned
-  - name: Blinded
+    uptime: 22 stacks
 code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: 'pug'
 classification:

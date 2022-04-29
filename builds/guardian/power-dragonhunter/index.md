@@ -7,21 +7,10 @@ rating: Power Meta
 role: Power Damage
 profession: Guardian
 specialization: Dragonhunter
-skills:
-  - 30783
-  - 30039
-  - 9153
-  - 9251
 conditions:
   - name: Vulnerability
     uptime: 25 stacks
 boons:
-  - name: Quickness
-    uptime: ~10%
-    variant: group
-  - name: Might
-    uptime: 2 stacks
-    variant: party
   - name: Fury
     uptime: 80%
     variant: group

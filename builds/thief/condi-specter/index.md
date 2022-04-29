@@ -7,12 +7,16 @@ specialization: Specter
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
-  - name: Weakness
-  - name: Immobilize
   - name: Poisoned
   - name: Bleeding
   - name: Torment
-boons: null
+boons:
+  - name: Fury
+    uptime: 75%
+  - name: Might
+    uptime: 3 stacks
+  - name: Swiftness
+    uptime: 75%
 cmGuide: ''
 classification:
   - 5

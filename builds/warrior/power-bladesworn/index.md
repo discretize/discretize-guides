@@ -13,8 +13,7 @@ conditions:
     uptime: 7 stacks
 boons:
   - name: Might
-    uptime: 12 Stacks
-    variant: party
+    uptime: 12 Stacks (using For Great Justice)
 code: '[&DQIEHzMWRCunAAAAAAAAAKwACgCqAKIBnACcAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3

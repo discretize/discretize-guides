@@ -11,11 +11,10 @@ boons:
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
-  - name: Weakness
-  - name: Crippled
-  - name: Chilled
+  - name: Torment
+  - name: Bleeding
+  - name: Burning
   - name: Poisoned
-  - name: Blinded
 code: '[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: ''
 classification:

@@ -9,23 +9,22 @@ specialization: Harbinger
 traits: []
 boons:
   - name: Quickness
-    uptime: 25% (100% party in Quickness variant)
-    variant: self
+    uptime: 100% (using Quickness variant)
   - name: Fury
-    uptime: 100% (party in Quickness variant)
-    variant: self
+    uptime: 100% (using Quickness variant)
   - name: Might
-    uptime: 12-13 stacks (~6 party on DPS variant, 13 party on Quickness variant)
-    variant: self
+    uptime: 6 stacks (13 stacks on Quickness variant)
   - name: Swiftness
-    uptime: 55% (65% party in Quickness variant)
-    variant: self
+    uptime: 65% (using Quickness variant)
   - name: Regeneration
-    uptime: 45% (50% party on Quickness variant)
-    variant: self
+    uptime: 50% (using Quickness variant)
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
+  - name: Torment
+  - name: Bleeding
+  - name: Poison
+  - name: Burning
 code: '[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3

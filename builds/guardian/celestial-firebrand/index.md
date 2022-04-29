@@ -19,6 +19,8 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
+Conditions:
+  - name: Burning
 code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: ""
 classification:

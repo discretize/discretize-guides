@@ -9,15 +9,9 @@ specialization: Willbender
 skills: null
 conditions:
   - name: Burning
-  - name: Crippled
-  - name: Bleeding
+  - name: Vulnerability
+    uptime: 12 stacks (using Sword of Justice)
 boons:
-  - name: Quickness
-    uptime: ~10%
-    variant: group
-  - name: Quickness
-    uptime: ~25%
-    variant: self
   - name: Might
     uptime: 2 stacks
     variant: party

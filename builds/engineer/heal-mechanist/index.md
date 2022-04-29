@@ -9,8 +9,6 @@ profession: Engineer
 specialization: Mechanist
 traits: []
 conditions:
-  - name: Burning
-  - name: Confusion
   - name: Vulnerability
     uptime: 5 Stacks
 boons:

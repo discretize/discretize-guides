@@ -9,11 +9,9 @@ conditions:
     uptime: 5 stacks
 boons:
   - name: Quickness
-    uptime: 50%
-    variant: self
+    uptime: 50% (Self)
   - name: Might
-    uptime: 12 stacks
-    variant: party
+    uptime: 12 stacks (using For Great Justice)
 code: '[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:

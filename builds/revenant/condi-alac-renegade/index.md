@@ -8,6 +8,10 @@ specialization: Renegade
 conditions:
   - name: Vulnerability
     uptime: 15 stacks
+  - name: Torment
+  - name: Burning
+  - name: Bleeding
+  - name: Poison
 boons:
   - name: Alacrity
     uptime: 100%
