@@ -19,13 +19,13 @@ classification:
   - 3
   - 3
   - 3
-date: 2022-04-28T18:29:43.125Z
+date: 2022-04-29T09:28:01.633Z
 ---
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through *Spheres* and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
 This build has less burst than the <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres.
 
-Unfortunately, the survivability of this build is on the lower end. While some defensive utilities are available in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, you will use them during your normal rotation and not always be in the correct attunement when you need the defense. Therefore, it is recommended to have high awareness of the encounters and good class knowledge before picking up this build. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/> since taking one hit of <Instability name="We Bleed Fire"/> will remove significant amounts of HP.
+Unfortunately, the survivability of this build is on the lower end. While some defensive utilities are available in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, you will use them during your normal rotation and not always be in the correct attunement when you need the defense. Therefore, it is recommended to have a high awareness of the encounters and good class knowledge before picking up this build. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/> since taking one hit of <Instability name="We Bleed Fire"/> will remove significant amounts of HP.
 
 This build has one of the harder rotations in the game but is very enjoyable to play - if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
@@ -700,7 +700,7 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 <Card title="Arcane">
 
 <Traits unembossed traits1="Arcane" traits1Selected="Arcane Precision, Final Shielding, Bountiful Power"/>
-On the Quickness variant, you can run Arcane instead of Fire. This will trade in some damage for extra uptime on other boons such as <Boon name="Might"/> or <Boon name="Swiftness"/>. This also gives you some free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. You can either adjust your gear accordingly, or run the same gear setup and enjoy the higher boon duration, making upkeeping boons easier.
+On the Quickness variant, you can run Arcane instead of Fire. This will trade in some damage for extra uptime on other boons such as <Boon name="Might"/> or <Boon name="Swiftness"/>. This also gives you some free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. You can either adjust your gear accordingly or run the same gear setup and enjoy the higher boon duration, making upkeeping boons easier.
 
 |                                                     |                                                                                                                                                                   |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -767,7 +767,7 @@ As a Catalyst, your unique class mechanic is the energy system and your Jade Sph
 - You build up energy by attacking your enemy up to a maximum of 30.
 - Your F5 skill will cost 10 energy and cast a Jade Sphere based on your current attunement, for example <Skill id="63458"/>.
 - Your Jade Spheres damage enemies and provide boons to allies while they are active. They also act as combo fields.
-- This means, even on the full DPS build you will provide some boons to help out the group.
+- This means, that even on the full DPS build you will provide some boons to help out the group.
 
 Certain traits interact with your sphere, namely:
 
@@ -780,15 +780,15 @@ Certain traits interact with your sphere, namely:
 
 The unique mechanic for the Hammer weapon set is the third skill. Mastering it is very important for the rotation.
 
-- Pressing a third skill such as <Skill name="Crescent Wind"/> will summon an orb circling around you dealing damage to enemies in its way.
+- Pressing a third skill such as <Skill name="Crescent Wind"/> will summon an orb circling you dealing damage to enemies in its way.
 - The orb will last for 15 seconds and grants access to <Skill name="Grand Finale"/> on this attunement while active
-- The orb will grant a passive bonus like crit-chance in the case of <Skill name="Air Attunement"/> wihle active.
+- The orb will grant a passive bonus like crit-chance in the case of <Skill name="Air Attunement"/> while active.
 
 Connecting multiple orbs:
 
-- If you swap to a different attunement and use the third skill there, it will cast the according orb and refresh the duration of any currently active orb.
+- If you swap to a different attunement and use the third skill there, it will cast the according to the orb and refresh the duration of any currently active orb.
 - <Skill name="Grand Finale"/> will replace the third skill on any attunement that you have the active orb from already. It will send out all current orbs to your target to deal damage.
-- Your goal is to get all 4 orbs up at the same time, send them all at once with <Skill name="Grand Finale"/> and repeat this loop during your entire rotation.
+- Your goal is to get all 4 orbs up at the same time, send them all at once with <Skill name="Grand Finale"/>, and repeat this loop during your entire rotation.
 - The hardest part will be the first loop as you can accidentally double press the third skill sending out the first projectiles as <Skill name="Grand Finale"/> is not yet on-cooldown for this loop.
 
 Your attunement rotation will try to maximize uptime on the offensive buffs from <Skill name="Crescent Wind"/> and <Skill name="Flame Wheel"/> and will therefore be:
@@ -807,8 +807,9 @@ You will cast <Skill name="Grand Finale"/> in <Skill name="Air Attunement"/> aft
 <Trait name="Empowering Auras"/> is a buff unique to Catalyst. It grants a 2% outgoing damage buff capping at 5 stacks.
 
 Traits that interact with Elemental Empowerment stacks are:
+
 - <Trait name="Empowering Auras"/> gives you a stack whenever you gain an aura.
-- <Trait name="Elemental Epitome"/> provides you an aura every time you combo. Actively helping to blast <Boon name="Might"/> at the Singularity is therefore even more beneficial, even if you just do it for your personal DPS.
+- <Trait name="Elemental Epitome"/> provides you an aura every time you combo. Actively helping to blast <Boon name="Might"/> at the Singularity is therefore even more beneficial, even if you just do it for your DPS.
 
 
 
@@ -819,36 +820,39 @@ Traits that interact with Elemental Empowerment stacks are:
 
 <Card title="Hammer Skills">
 
-All of your Hammer skills are useful in some situation and all with the exception of <Skill name="Wind Storm"/> (Air 4) and <Skill name="Immutable Stone"/> (Earth 4) will be used for DPS.
+All of your Hammer skills are useful in some situations and all except <Skill name="Wind Storm"/> (Air 4) and <Skill name="Immutable Stone"/> (Earth 4) will be used for DPS.
 
 If you need to auto-attack to bridge the gap between skills, you'd ideally want to only do so in <Skill name="Earth Attunement"/> and partially <Skill name="Air Attunement"/>.
 
 Some of them bring nice extra utility, like:
+
 - <Skill name="Crashing Font"/> heals you for each enemy you hit with it.
 - <Skill name="Cleansing Typhoon"/> cleanses conditions from you.
 - <Skill name="Whirling Stones"/> blocks projectiles.
 
-This can sometimes be quite handy, however all of these skills are used in the rotation so you will not want to delay them too long usually.
+This can sometimes be quite handy, however, all of these skills are used in the rotation so you will not want to delay them too long usually.
 
 </Card>
 
 <Card title="Utility Skills">
 
-As a Catalyst, you gain access to Augments. You will be using two of them by default, namely <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. Other Aguments listed in the situational skills section can also be useful.
+As a Catalyst, you gain access to augments. You will be using two of them by default, namely <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. Other augments listed in the situational skills section can also be useful.
 
-Augments grant you a buff and gain a bonus effect when casted near their corresponding sphere. This is usually either a duration increase for the buff or a cooldown decrease for the skill.
+Augments grant you a buff and gain a bonus effect when cast near their corresponding sphere. This is usually either a duration increase for the buff or a cooldown decrease for the skill.
 
-For example, <Skill name="Relentless Fire"/> will grant you a damage increase for 5 seconds. This is increased by 3 additional seconds when casted near a <Skill id="63458"/>. Therefore, you usually want to use them in the corresponding attunement.
+For example, <Skill name="Relentless Fire"/> will grant you a damage increase for 5 seconds. This is increased by 3 additional seconds when cast near a <Skill id="63458"/>. Therefore, you usually want to use them in the corresponding attunement.
 
 </Card>
 
 <Card title="Conjures">
 
 Conjures are specific to the Elementalist class.
+
 - Casting a Conjure skill will give the weapon to you as a bundle replacing your weapon skills and leave one copy on the ground for yourself or an ally to pick up.
 - In fractals, you will mostly use these to precast additional damage at the start of the fight and between phases. Some Conjures will be used only for CC.
 
 The most common Conjure you will always run is <Skill name="Conjure Fiery Greatsword"/> (FGS).
+
 - <Skill name="Firestorm"/> is the most used skill on this weapon. It deals constant damage in the targeted area and can therefore be precasted before the fight or between phases for extra burst.
 - If you pick up the FGS in the middle of your rotation, <Skill name="Fiery Rush"/> usually offers more damage than auto-attacking on your regular weapon set. It also rushes you to the enemy and is therefore great for mobility.
 - <Skill name="Fiery Whirl"/> is also great for mobility. It also does a decent amount of damage when used with the Special Action Key to get multiple hits on Arkk.
@@ -860,6 +864,7 @@ The most common Conjure you will always run is <Skill name="Conjure Fiery Greats
 <Trait name="Elemental Empowerment"/> is a buff unique to Catalyst. It grants a 1% bonus to all stats capping at 10 stacks.
 
 Traits that interact with Elemental Empowerment stacks are:
+
 - <Trait name="Vicious Empowerment"/> gives 2 stacks whenever you disable a foe.
 - <Trait name="Elemental Empowerment"/> gives 3 stacks while in combat.
 - <Trait name="Elemental Epitome"/> gives 1 stack every time you gain an aura and grants an aura when doing a combo.
@@ -881,9 +886,9 @@ This section covers the Quickness variant. Parts of this section can apply to th
 
 <Card title="Jade Spheres">
 
-Your Jade Spheres are your main source of most boons. They have a 240 radius and last for 5 seconds, meaning they will tick 6 times. In order to get all of the boons, everyone has to stand inside them for the full duration. This means placement and timing is key to provide good boon uptime.
+Your Jade Spheres are your main source of most boons. They have a 240 radius and last for 5 seconds, meaning they will tick 6 times. To get all of the boons, everyone has to stand inside them for the full duration. This means placement and timing are key to providing good boon uptime.
 
-This will be especially tricky in split phases with additional enemies such as Skorvald as you want to rotate through your attunements for the boons but still be in <Skill name="Air Attunement"/> when the next phase starts. This usually means keeping up your attunement rotation but potentially skipping over other parts of the rotation such as the utility skills (or even Hammer 3) depending on the time the split phase takes.
+This will be especially tricky in split phases with additional enemies such as Skorvald as you want to rotate through your attunements for the boons but still be in <Skill name="Air Attunement"/> when the next phase starts. This usually means keeping up your attunement rotation but potentially skipping over other parts of the rotation such as the utility skills (or even Hammer 3) depending on the time the split-phase takes.
 
 Keep in mind that you will only regain energy while hitting an enemy and try to manage it accordingly.
 
@@ -893,7 +898,7 @@ Keep in mind that you will only regain energy while hitting an enemy and try to 
 
 - You can help with pre-casting <Boon name="Might"/> as you have a ton of blast finishers in your kit, even without swapping weapons. See the precast section below for more information.
 - Your main source of <Boon name="Might"/> in-combat is your <Skill id="63458"/>. It ticks a total of 6 times giving you 6 stacks. These stacks will last approx. 27 seconds thanks to the recommended Boon Duration on the Quickness variant and <Trait name="Sphere Specialist"/>.
-- You will keep up 1 extra stack of <Boon name="Might"/> when running Arcane. However, this is barely worth mentioning and you will usualy run this trait line for other reasons.
+- You will keep up 1 extra stack of <Boon name="Might"/> when running Arcane. However, this is barely worth mentioning and you will usually run this trait line for other reasons.
 - You will usually drop your <Skill id="63459"/> right before your <Skill id="63458"/> and therefore not gain much value from blasting. If this proves to be an issue (which it usually should not), you could swap <Skill name="Fire Attunement"/> and <Skill name="Air Attunement"/> in your rotation.
 - If there are no other sources of <Boon name="Might"/> in your group, you can swap to <Trait name="Spectacular Sphere"/> to provide an additional 5 stacks of <Boon name="Might"/> every time you cast <Skill id="63458"/>.
 
@@ -905,7 +910,7 @@ Keep in mind that you will only regain energy while hitting an enemy and try to 
 <Card title="Quickness">
 
 - Your <Boon name="Quickness"/> sources are very straight forward. It only comes from your <Skill id="63459"/>. Refer to the Jade Sphere section for extra tricks.
-- Your entire <Boon name="Quickness"/> coming from a single skill does not mean that this is easy to ukpeep properly. Timing it right to have the entire group be able to stand in the Sphere for its entire duration without ever delaying it much can get quite tricky and is one of the major difficulties of playing Catalyst in fractals as a <Boon name="Quickness"/> provider.
+- Your entire <Boon name="Quickness"/> coming from a single skill does not mean that this is easy to upkeep properly. Timing it right to have the entire group be able to stand in the Sphere for its entire duration without ever delaying it much can get quite tricky and is one of the major difficulties of playing Catalyst in fractals as a <Boon name="Quickness"/> provider.
 
 </Card>
 
@@ -938,7 +943,7 @@ While playing with <Trait name="Spectacular Sphere"/>, you will also provide the
 
 <Card title="Step-by-Step Rotation">
 
-This is a step-by-step explanation of the Catalyst rotation. The rotation will be the same for the DPS and <Boon name="Quickness"/> variant. A mostly complete written rotation and some extra info can be found at step 3. The steps do not indicate what skills do the most damage, it merely demonstrates a possible way to learn the rotation.
+This is a step-by-step explanation of the Catalyst rotation. The rotation will be the same for the DPS and <Boon name="Quickness"/> variant. A mostly complete written rotation and some extra info can be found in step 3. The steps do not indicate what skills do the most damage, it merely demonstrates a possible way to learn the rotation.
 
 **Step 1: Attunement Rotation/Hammer 3**
 
@@ -951,18 +956,18 @@ In the first step, we will take a look at the Hammer 3 skill. All of the orbs ar
 5. Swap back to <Skill name="Air Attunement"/> and cast <Skill name="Grand Finale"/>.
 6. Repeat from step 1 (the cooldowns will take a bit to recover as we are not using any other skills yet)
 
-This will maximize uptime of the 2 offensive buffs from Hammer 3 and make sure that you always use <Skill name="Grand Finale"/> with all 4 orbs up. Make sure to not double-tap the skill on the first loop or you will cast <Skill name="Grand Finale"/> early losing your buffs and extra damage from sending all 4 orbs. In later loops, the skill will be on-cooldown so this will not be an issue.
+This will maximize the uptime of the 2 offensive buffs from Hammer 3 and make sure that you always use <Skill name="Grand Finale"/> with all 4 orbs up. Make sure to not double-tap the skill on the first loop or you will cast <Skill name="Grand Finale"/> early losing your buffs and extra damage from sending all 4 orbs. In later loops, the skill will be on-cooldown so this will not be an issue.
 
 **Step 2: Jade Sphere and Augments**
 
-Now it is time to take a look at the Jade Sphere and Augments, namely <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. These become stronger when cast near the coresponding Sphere. We will have enough energy to cast our Jade Sphere is Air, Fire and Water. Use the Augments right after casting the corresponding Sphere. We will also use <Skill name="Relentless Fire"/> as a timer for counting auto-attacks in <Skill name="Earth Attunement"/> as this is our strongest auto-attack.
+Now it is time to take a look at the Jade Sphere and Augments, namely <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. These become stronger when cast near the corresponding Sphere. We will have enough energy to cast our Jade Sphere in Air, Fire, and Water. Use the Augments right after casting the corresponding Sphere. We will also use <Skill name="Relentless Fire"/> as a timer for counting auto-attacks in <Skill name="Earth Attunement"/> as this is our strongest auto-attack.
 
 1. Start in <Skill name="Air Attunement"/> and cast <Skill name="Crescent Wind"/> and <Skill id="62940"/>.
 2. Swap to <Skill name="Fire Attunement"/> and cast <Skill name="Flame Wheel"/> and <Skill id="63396"/>, followed by <Skill name="Relentless Fire"/>.
 3. Swap to <Skill name="Water Attunement"/> and cast <Skill name="Icy Coil"/> and <Skill id="62723"/>, followed by <Skill name="SHattering Ice"/>.
 4. Swap to <Skill name="Earth Attunement"/> and cast <Skill name="Rocky Loop"/>. Use <Skill name="Stonestrike"/> until <Skill name="Relentless Fire"/> has around 7-9 seconds cooldown left.
 5. Swap back to <Skill name="Air Attunement"/> and cast <Skill name="Grand Finale"/>.
-6. Repeat from step 1
+6. Repeat step 1
 
 **Step 3: Hammer Skills**
 
@@ -976,11 +981,12 @@ All of your Hammer skills except <Skill name="Wind Storm"/> (Air 4) and <Skill n
 6. Swap to <Skill name="Earth Attunement"/> and cast <Skill name="Rocky Loop"/>, followed by <Skill name="Ground Pound"/> and <Skill name="Whirling Stones"/>.
 7. Use <Skill name="Stonestrike"/> until <Skill name="Relentless Fire"/> has around 7-9 seconds cooldown left.
 8. Swap back to <Skill name="Air Attunement"/> and cast <Skill name="Hurricane of Pain"/>, followed by <Skill name="Grand Finale"/>. Cast <Skill id="62940"/> once you have enough energy. Use <Skill name="Shock Blast"/> when it is back.
-6. Repeat from step 2 (skipping the <Skill id="62940"/> as you already casted it in step 8).
+6. Repeat from step 2 (skipping the <Skill id="62940"/> as you already cast it in step 8).
 
 You can focus on only using Hammer 2 in each attunement first if you struggle to press everything at once.
  
 **Note:** Not all skills will always be off-cooldown in this rotation. It is usually worth waiting for the following skills (as all their cooldowns should be the same as <Skill name="Relentless Fire"/> meaning you will not delay your rotation):
+
 - <Skill name="Molten End"/> (only when running Fire trait line)
 - <Skill name="Crashing Font"/>
 - <Skill name="Shock Blast"/>
@@ -1010,7 +1016,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 
 If a _Mistlock Singularity_ is present you should precast boons and particular effects for better group performance.
 
-Which precasts you can do will rely on the amount of energy you have before taking the _Mistlock Singularity_. Prioritize precasting the Jade Sphere in <Skill name="Air Attunement"/> if you only have 10 energy as firefields can be provided by other skills.
+Which precasts you can do will rely on the amount of energy you have before taking the _Mistlock Singularity_. Prioritize precasting the Jade Sphere in <Skill name="Air Attunement"/> if you only have 10 energy as fire fields can be provided by other skills.
 
 1. Start on <Skill id="5492"/> and cast <Skill id="63458"/> to provide a fire field. Alternatively, use an off-hand Dagger to provide a fire field with <Skill name="Ring of Fire"/>.
 2. Blast it using <Skill name="Molten End"/>.
@@ -1022,13 +1028,13 @@ Which precasts you can do will rely on the amount of energy you have before taki
 8. Take the _Mistlock Singularity_.
 
 It is recommended to use separate precast templates to cast different utility and weapon skills.
-Just make sure that both templates use the same traits to not get the status reset on swap.
+Just make sure that both templates use the same traits to not get the status to reset on swap.
 
 </Card>
 
 <Card title="Extra Info">
 - One possible way of adapting your rotation to your phase timing is skipping auto-attacks in <Skill name="Earth Attunement"/> to get to your big damaging skills in <Skill name="Air Attunement"/> like <Skill name="Grand Finale"/> faster if the phase is about to end.
-- Try to move away from your target early if you know it will go <Effect name="Invulnerability"/> like MAMA. Hitting an <Effect name="Invulnerability"/> target with your Hammer 3 orbs will make them disappear which can cause confusion in your rotation as you will not be ableto cast <Skill name="Grand Finale"/> unless the orb corresponding to the attunement you are in is active. You will also lose important damage buffs this way. You can reset your rotation from this happening by using <Skill name="Grand Finale"/> in <Skill name="Earth Attunement"/> if you notice it early enough so you can start over by activating <Skill name="Crescent Wind"/> in <Skill name="Air Attunement"/>.
+- Try to move away from your target early if you know it will go <Effect name="Invulnerability"/> like MAMA. Hitting an <Effect name="Invulnerability"/> target with your Hammer 3 orbs will make them disappear which can confuse your rotation as you will not be able to cast <Skill name="Grand Finale"/> unless the orb corresponding to the attunement you are in is active. You will also lose important damage buffs this way. You can reset your rotation from this happening by using <Skill name="Grand Finale"/> in <Skill name="Earth Attunement"/> if you notice it early enough so you can start over by activating <Skill name="Crescent Wind"/> in <Skill name="Air Attunement"/>.
 
 </Card>
 
