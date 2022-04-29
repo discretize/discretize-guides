@@ -37,7 +37,7 @@ classification:
   - 2
   - 1
   - 2
-date: 2022-04-29T10:32:43.174Z
+date: 2022-04-29T11:30:58.165Z
 ---
 
 <Warning>
@@ -336,7 +336,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 - <Boon name="Stability"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill id="63293"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
 - <Boon name="Aegis"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill id="63293"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
 - <Boon name="Vigor"/> can be maintained permanantly by using <Skill name="Energizing Slam"/> off cooldown. When using <Skill name="Med Kit"/>, you also share it when using <Skill name="Infusion Bomb"/>.
-- <Effect name="Barrier"/> helps to provide <Boon name="Alacrity"/> through the trait <Trait name="Mech Frame: Channeling Conduits"/>, while providing excellent damage mitigation. You have 3 main methods of generating <Effect name="Barrier"/>; <Trait name="Mech Core: Barrier Engine"/> passivley generates it over time, Your utility skills <Skill name="Barrier Burst"/> and <Skill name="Barrier Signet"/> and finally by using <Skill name="Barrier Blast" /> Your third auto attack skill on Mace.
+- <Effect name="Barrier"/> helps to provide <Boon name="Alacrity"/> through the trait <Trait name="Mech Frame: Channeling Conduits"/>, while providing excellent damage mitigation. You have 3 main methods of generating <Effect name="Barrier"/>; <Trait name="Mech Core: Barrier Engine"/> passivley generates it over time, Your utility skills <Skill id="63141"/> and <Skill name="Barrier Signet"/> and finally by using <Skill name="Barrier Blast" /> Your third auto attack skill on Mace.
 
 </Card>
 
