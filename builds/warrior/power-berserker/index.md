@@ -1,5 +1,7 @@
 ---
 title: Banner Berserker
+hidden: false
+archive: false
 rating: Good
 role: Power Damage
 profession: Warrior
@@ -9,10 +11,12 @@ conditions:
     uptime: 5 stacks
 boons:
   - name: Quickness
-    uptime: 50% (Self)
+    uptime: 50%
+    variant: self
   - name: Might
-    uptime: 12 stacks (using For Great Justice)
-code: '[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]'
+    uptime: "12 stacks "
+    variant: (using For Great Justice)
+code: "[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: pug
 classification:
   - 4
@@ -20,9 +24,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-03-20T17:27:31.785Z
-archive: false
-hidden: false
+date: 2022-04-29T10:54:20.208Z
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
@@ -376,7 +378,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 - Only use <Skill name="Throw axe" profession="warrior"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
 - Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase.
 - Keep in mind that <Skill name="Crushing Blow"/> inflicts <Condition name="Vulnerability" count={10}/>! This can be often used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst. If the foe is disabled it even inflicts <Condition name="Vulnerability" count={20} />
-- It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t <Effect name="Exposed"/> if that means it will be back up right before another burst window.
+- You must be in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t <Effect name="Exposed"/> if that means it will be back up right before another burst window.
 - Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
 
 **Extra notes:**
@@ -418,7 +420,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
-For that reason you can find a video with openers, that are efficient to use here.
+For that reason, you can find a video with openers, that are efficient to use here.
 
 </Card>
 
