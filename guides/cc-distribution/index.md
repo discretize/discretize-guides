@@ -1,6 +1,6 @@
 ---
 title: CC Distribution
-date: 2022-04-07T19:32:33.485Z
+date: 2022-04-29T10:58:38.139Z
 image: ./images/preview.jpg
 description: Learn how to contribute your share of CC to break all the bars.
 ---
@@ -11,17 +11,17 @@ description: Learn how to contribute your share of CC to break all the bars.
 <GridItem sm="6">
 <Card title="What is a Defiance bar?">
 
-The [Defiance bar](https://wiki.guildwars2.com/wiki/Defiance_bar) (also called a breakbar) is a very important mechanic in fractals mainly due to its ability to let players do more damage to a mob for a certain amount of time after breaking it.
+The [Defiance bar](https://wiki.guildwars2.com/wiki/Defiance_bar) (also called a break bar) is a very important mechanic in fractals mainly due to its ability to let players do more damage to a mob for a certain amount of time after breaking it.
 
-Usually elite or higher mobs will have a defiance bar in fractals, your goal should be to break this bar as fast as possible. In order to break a defiance bar, you need to use CC skills on the enemy whose breakbar you want to break. The size of the bar varies from boss to boss and between mobs too, what matters is that you should break it.
+Usually elite or higher mobs will have a defiance bar in fractals, your goal should be to break this bar as fast as possible. To break a defiance bar, you need to use CC skills on the enemy whose break bar you want to break. The size of the bar varies from boss to boss and between mobs too, what matters is that you should break it.
 
 Once you break an enemy's defiance bar they will gain an effect named <Effect name="Exposed"/>, which means they take **10% more power damage** and **20% more condition damage** for **10 seconds** (in most cases). They will also usually be <Control name="Stun" text="Stunned"/>, which means they are unable to attack you or deal damage to you. The <Control name="Stun" text="Stunned"/> will usually last for a **shorter duration** than <Effect name="Exposed"/>.
 
 </Card>
 
-This guide's aim is to help you understand how your team should cooperate to break all the CC bars. The present <Specialization name="Firebrand"/> + <Specialization name="Renegade"/> reign demands CC contributions from every member of the party, **even the DPS players!** A list of CC skills along with their defiance bar damage can be found on each class respective [Build page](/builds).
+This guide aims to help you understand how your team should cooperate to break all the CC bars. The present <Specialization name="Firebrand"/> + <Specialization name="Renegade"/> reign demands CC contributions from every member of the party, **even the DPS players!** A list of CC skills along with their defiance bar damage can be found on each class's respective [Build page](/builds).
 
-In Tier 4 fractals (T4) a breakbar usually does not exceed 600 units, nevertheless, it is everyone's responsibility to break bars as quickly as possible. In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for their lack of CC with additional CC skills.
+In Tier 4 fractals (T4) a break bar usually does not exceed 600 units, nevertheless, it is everyone's responsibility to break bars as quickly as possible. In PuG (Pick up Group, players from the LFG system) runs, where you can rely on the fact that 4 out of 5 people did not read this page it is very much recommended to make up for their lack of CC with additional CC skills.
 
 <Warning>
 
@@ -35,7 +35,7 @@ In Tier 4 fractals (T4) a breakbar usually does not exceed 600 units, neverthele
 
 CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_effect). A Crowd Control skill is any skill that disables an enemy or even a group of enemies and therefore deals damage to a defiance bar, it can be split into soft CC or hard CC
 
-**Hard CC** skills usually inflict the enemy with some kind of movement effect like <Control name="Stun"/> or <Control name="Knockback"/>. As they disable the enemy right now they deal defiance bar damage **instantaneously**. This is the most commonly used type of CC skills to break a defiance bar.
+**Hard CC** skills usually inflict the enemy with some kind of movement effect like <Control name="Stun"/> or <Control name="Knockback"/>. As they disable the enemy right now they deal defiance bar damage **instantaneously**. This is the most commonly used type of CC skill to break a defiance bar.
 
 **Soft CC** skills are those which apply conditions, they inflict damage to the Defiance bar **over time**, depending upon the condition. Since you want to get the <Effect name="Exposed"/> effect as soon as possible you can't rely on soft CC breaking a bar of 2000 as seen below it will take quite a while.
 
@@ -67,7 +67,7 @@ CC is an acronym for [Crowd Control](https://wiki.guildwars2.com/wiki/Control_ef
 
 <Boss name="MAMA" hideRotation>
 
-At 1800 MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800, each MAMA becomes the most CC heavy fractal boss in the game.
+At 1800 MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800, each MAMA becomes the most CC-heavy fractal boss in the game.
 
 </Boss>
 
@@ -93,9 +93,9 @@ At 2000 Siax has a medium-sized defiance bar that will need to be broken twice i
 
 <Boss name="Ensolyss" hideRotation>
 
-At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizable defiance bars, but since condi is now played here you actually want to delay them to maximise the times your conditions have to ramp up. In phase 1 ideally you will break just before Ensolyss does his slam attack. In phase 2+3 ideally you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Also if you want to go for faster times on this boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
+At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizable defiance bars, but since condi is now played here you want to delay them to maximize the times your conditions have to ramp up. In phase 1 ideally, you will break just before Ensolyss does his slam attack. In phase 2+3 ideally, you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Also if you want to go for faster times on this boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
 
-**Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your groups DPS changes the time you want to CC. There is no schedule below and instead the common skills you have available, because it will vary between groups.**
+**Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your group's DPS changes the time you want to CC. There is no schedule below because it will vary between groups; instead the common CC skills you have available .**
 
 </Boss>
 
@@ -116,7 +116,7 @@ At 2200, Skorvald the Shattered has one of the largest defiance bars out of all 
 
 <Boss name="Artsariiv" hideRotation>
 
-At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if you want to skip the anomaly. The good news is if you do mid strat (which you should do if you are an organised group) you get to completely ignore it, this means you can focus your CC on the split phases. On the first split each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
+At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if you want to skip the anomaly. The good news is if you do mid strat (which you should do if you are an organized group) you get to completely ignore it, this means you can focus your CC on the split phases. On the first split, each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
 
 </Boss>
 
@@ -153,7 +153,7 @@ At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if yo
 
 <Boss name="Arkk" hideRotation>
 
-At 1800, Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50% and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favour, providing a 232 damage CC. **Everyone** should use this to CC! But be ready to use other skills if the bar doesn't break.
+At 1800, Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50%, and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favor, providing a 232 damage CC. **Everyone** should use this to CC! But be ready to use other skills if the bar doesn't break.
 
 Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance"/> buff by using CC after each bloom phase with either weapon skills or the <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/>. The <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/> is a 232 CC ability and should be used by **EVERYONE** if breakbars are slow on Arkk, the Archdiviner and the Gladiator.
 
@@ -165,7 +165,7 @@ Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance
 
 <Boss name="LightAi" hideRotation>
 
-At 3200, Ai has the largest defiance bar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like Ensolyss this cc schedule should be adjusted to fit your groups DPS. Also if you want to go for faster times on this boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
+At 3200, Ai has the largest defiance bar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen, you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like Ensolyss this cc schedule should be adjusted to fit your group's DPS. Also if you want to go for faster times on this boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
 
 </Boss>
 
@@ -184,7 +184,7 @@ At 3200, Ai has the largest defiance bar in fractals. Bear in mind the following
 
 <Boss name="Mama" hideRotation>
 
-At 1800, MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800, each MAMA becomes the most CC heavy fractal boss in the game. There are 2 variations of the daily comp that work equally well check the tabs below for the schedule/classes that suit you best. The <Specialization name="Berserker"/> is run due to the CC and damage on the Knights it provides is invaluable in daily runs and is worth to swap to just for MAMA (if playing a comp without one) and swapping back during the alters. <Specialization name="Berserker"/> needs to take an offhand mace with <Item id="24639"/> in addition to <Skill name="wildblow"/> and <Skill name="bullscharge"/>.
+At 1800, MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800, each MAMA becomes the most CC-heavy fractal boss in the game. There are 2 variations of the daily comp that work equally well check the tabs below for the schedule/classes that suit you best. The <Specialization name="Berserker"/> is run due to the CC and damage on the Knights it provides is invaluable in daily runs and is worth swapping to just for MAMA (if playing a comp without one) and swapping back during the alters. <Specialization name="Berserker"/> needs to take an offhand mace with <Item id="24639"/> in addition to <Skill name="wildblow"/> and <Skill name="bullscharge"/>.
 
 </Boss>
 
@@ -218,7 +218,7 @@ At 1800, MAMA has a small defiance bar, but you need to break it three times dur
 
 <Boss name="Siax" hideRotation>
 
-At 2000, Siax has a medium-sized defiance bar that shouldn't really need to be broken in an organised group, since you should have more than enough DPS to ignore it. If you do want to break it you should only need to break it once, unless your group is slow, where you may need to also break it in P3.
+At 2000, Siax has a medium-sized defiance bar that shouldn't need to be broken in an organized group, since you should have more than enough DPS to ignore it. If you do want to break it you should only need to break it once, unless your group is slow, where you may need to also break it in P3.
 
 </Boss>
 
@@ -229,9 +229,9 @@ At 2000, Siax has a medium-sized defiance bar that shouldn't really need to be b
 
 <Boss name="Ensolyss" hideRotation>
 
-At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizable defiance bars, but since condi is now played here you actually want to delay them to maximise the times your conditions have to ramp up. In phase 1 ideally you will break just before Ensolyss does his slam attack. In phase 2+3 ideally you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Additionally if you have someone that can play <BuildLink build="Condi Deadeye" specialization="Deadeye"/> or <Specialization name="Daredevil" text="Condi Daredevil"/>, it is worth replacing a <Specialization name="Firebrand" text ="Condi Firebrand"/> for a huge damage increase, or alternatively a <Specialization name="Soulbeast" text ="Condi Soulbeast"/>
+At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizable defiance bars, but since condi is now played here you want to delay them to maximize the times your conditions have to ramp up. In phase 1 ideally, you will break just before Ensolyss does his slam attack. In phase 2+3 ideally, you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Additionally if you have someone that can play <BuildLink build="Condi Deadeye" specialization="Deadeye"/> or <Specialization name="Daredevil" text="Condi Daredevil"/>, it is worth replacing a <Specialization name="Firebrand" text ="Condi Firebrand"/> for a huge damage increase, or alternatively a <Specialization name="Soulbeast" text ="Condi Soulbeast"/>
 
-**Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your groups DPS changes the time you want to CC. There is no schedule below and instead the common skills you have available, because it will vary between groups.**
+**Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your group's DPS changes the time you want to CC. There is no schedule below because it will vary between groups; instead the common skills you have available.**
 
 </Boss>
 
@@ -252,7 +252,7 @@ At 2200, Skorvald the Shattered has one of the largest defiance bars out of all 
 
 <Boss name="Artsariiv" hideRotation>
 
-At 2100, Artsariiv has a large defiance bar that needs to be broken quickly if you want to skip the anomaly. The good news is if you do mid strat (which you should do if you are an organised group playing power) you get to completely ignore it, this means you can focus your CC on the split phases. On the first split each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
+At 2100, Artsariiv has a large defiance bar that needs to be broken quickly if you want to skip the anomaly. The good news is if you do mid strat (which you should do if you are an organized group playing power) you get to completely ignore it, this means you can focus your CC on the split phases. On the first split, each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
 
 </Boss>
 
@@ -300,7 +300,7 @@ Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance
 
 <Boss name="DarkAi" hideRotation>
 
-At 3200, Ai has the largest defiance bar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like Ensolyss this cc schedule should be adjusted to fit your groups DPS, but especially if you are running a <BuildLink build="Condi Deadeye" specialization="Deadeye"/> or <Specialization name="Daredevil" text="Condi Daredevil"/> you will need to change things.
+At 3200, Ai has the largest defiance bar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen, you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like Ensolyss this cc schedule should be adjusted to fit your group's DPS, but especially if you are running a <BuildLink build="Condi Deadeye" specialization="Deadeye"/> or <Specialization name="Daredevil" text="Condi Daredevil"/> you will need to change things.
 
 </Boss>
 
