@@ -1,7 +1,7 @@
 ---
 title: Condi Virtuoso
-archive: false
 hidden: false
+archive: false
 rating: Good
 role: Condi Damage
 profession: Mesmer
@@ -10,19 +10,19 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
   - name: Bleeding
-code: '[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 4
   - 1
   - 3
-date: 2022-03-30T23:27:12.639Z
+date: 2022-04-29T10:39:11.313Z
 ---
 
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
 
-It offers great sustained DPS with a very simple rotation. On top of that it also has a high range and great sustain due to <Trait name="Jagged Mind"/>. At the same time it is quite an independant class with great boon generation, being able to upkeep a good amount of self <Boon name="fury"/> and <Boon name="Might"/> and if traited <Boon name="Quickness"/> from traits in the Dueling and Illusions traitlines. On top of this <Specialization name="Mesmer"/> can also help provide a significant amount of <Condition name="Vulnerability"/> from <Skill name="Phantasmal Warden"/>.
+It offers great sustained DPS with a very simple rotation. On top of that, it also has a high range and great sustain due to <Trait name="Jagged Mind"/>. At the same time it is quite an independent class with great boon generation, being able to upkeep a good amount of self <Boon name="fury"/> and <Boon name="Might"/> and if traited <Boon name="Quickness"/> from traits in the Dueling and Illusions trait lines. On top of this <Specialization name="Mesmer"/> can also help provide a significant amount of <Condition name="Vulnerability"/> from <Skill name="Phantasmal Warden"/>.
 
 The <Specialization name="Mesmer"/> also provides an optimal skipping toolset for T4 fractals which should be utilized.
 
@@ -343,7 +343,7 @@ We chose the <Item type="Sigil" name="Agony"/> variant over the <Item type="Sigi
 <Card title="Extra Weapons">
 
 - Pistol instead of Sword for short phases/extra CC
-- Torch for stealth, blasting and precasting
+- Torch for stealth, blasting, and precasting
 - Staff for precasting at certain bosses.
 - Shield for blocks if you are skipping with <Specialization name="Chronomancer"/>
 - Sword (in main-hand) for a 600 leap on <Specialization name="Virtuoso"/> or skips on <Specialization name="Mirage"/>
@@ -407,7 +407,7 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
 
-It's important to note that phantasms do not benefit from most modifiers, unless it is stated to be the case.
+It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
 
 They do however benefit from <Effect name="Exposed"/>.
 </Card>
@@ -423,7 +423,7 @@ They do however benefit from <Effect name="Exposed"/>.
 - <Trait name="Deadly Blades"/> gives you a 5% damage modifier after using a Bladesong. You'll want to keep up this buff as much as you can.
 
 - <Trait name="Bloodsong"/> stocks extra blades when you inflict enough <Condition name="Bleeding"/> and will make sure that you are always at 5 Blades for your Bladesongs as long as you keep attacking.
-- <Trait name="Sharper Images"/> makes your Phantasms inflict <Condition name="Bleeding"/> on critical hits, making multi-hit Phantasms stronger. <Trait name="Phantasmal Fury"/> combined with the gear choices will ensure ciritcal hits of your Phantasms.
+- <Trait name="Sharper Images"/> makes your Phantasms inflict <Condition name="Bleeding"/> on critical hits, making multi-hit Phantasms stronger. <Trait name="Phantasmal Fury"/> combined with the gear choices will ensure critical hits of your Phantasms.
 
 </Card>
 </GridItem>
@@ -443,9 +443,9 @@ If you lose yourself in the exact rotation, follow this priority list.
 
 Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that direct damaging skills such as Bladecall and auto-attacks get higher priority if the boss is close to phasing.
 
-Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not use too much CC on the breakbar and space out your big CC cooldowns like Signet of Humility so they don't overlap with other powerful CC skills.
+Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not use too much CC on the break bar and space out your big CC cooldowns like Signet of Humility so they don't overlap with other powerful CC skills.
 
-Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used for skips, blocks and damage mitigation. Make sure to read what they do and dont be afraid to swap to them situationally, ecpecially in T4s.
+Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used for skips, blocks, and damage mitigation. Make sure to read what they do and don't be afraid to swap to them situationally, especially in T4s.
 
 </Card>
 
@@ -484,9 +484,9 @@ At the boss (spawnable bosses)
 
 1. You can cast <Skill name="Rain of Swords"/> and then swap back to another utility skill. Skip this step if you did not use <Skill name="Mimic"/> at the singularity.
 2. You can precast <Skill name="The Prestige"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
-3. Start casting <Skill name="Signet of Humility"/> if the boss starts with a breakbar.
+3. Start casting <Skill name="Signet of Humility"/> if the boss starts with a break bar.
 
-At the boss (prespawned bosses)
+At the boss (pre spawned bosses)
 
 - You can also precast <Skill name="Phantasmal Warlock"/>.
 
@@ -497,7 +497,7 @@ At the boss (prespawned bosses)
 <GridItem sm="6">
 <Card title="Golem Opener">
 
-These is a basic opener used on the golem for sustained DPS , you will need to adapt this depending on the boss and cooldowns.
+There is a basic opener used on the golem for sustained DPS, you will need to adapt this depending on the boss and cooldowns.
 
 - Start on Dagger/Sword (or Pistol)
 
