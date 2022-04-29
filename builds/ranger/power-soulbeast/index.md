@@ -1,23 +1,23 @@
 ---
 title: Power Soulbeast
+hidden: false
+archive: false
 rating: Power Meta
 role: Power Damage
 profession: Ranger
 specialization: Soulbeast
-code: '[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]'
+code: "[&DQQgPwgaNyp5AAAAvAC9AKUBpQEAALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 5
   - 3
   - 3
   - 4
-date: 2022-03-28T17:58:39.930Z
+date: 2022-04-29T10:47:59.100Z
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
 cmGuide: pug
-archive: false
-hidden: false
 ---
 
 The <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
@@ -30,7 +30,7 @@ This build is rather self-sufficient due to:
 - High CC with <Skill id="45743"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
 - High mobility via <Skill name="monarchsleap"/>, <Skill id="45743"/> and <Skill id="12521"/>
 
-Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
+Overall this is a very well-rounded build that is rewarding to play in both PuGs and organized teams alike.
 
 <Divider text="Equipment"/>
 
@@ -932,13 +932,13 @@ In PuGs, however, it is quite hard to predict when the boss will be CC'd as well
 For your First weapon set you have a choice of 3 weapons:
 
 - Longbow is a default pick for fractal <Specialization name="Soulbeast"/> as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however, you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus.
-- Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. Greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck auto-attacking) and you don't have time for another Longbow burst.
+- Greatsword on the other hand offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. The greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck auto-attacking) and you don't have time for another Longbow burst.
 - Warhorn is your final option and can be taken if your phases are short enough to not need to swap back after Sword/Axe AND you will not be able to cast another <Skill name="Barrage"/> during the fight. "
 
-For your second weapon set you always want Axe off-hand, but main hand you have a choice of 3 weapons again:
+For your second weapon set, you always want Axe off-hand, but for main-hand, you have a choice of 3 weapons again:
 
-- **You should mostly run a main-hand sword as it offers higher burst potential than dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
-- You may take a main-hand axe (to fill with <Skill name="wintersbite"/>) for certain encounters, such as midburn Artsariiv, where you almost never auto attack with your dual wielding weapons set.
+- **You should mostly run a main-hand sword as it offers higher burst potential than a dagger in all situations.** It also offers nice movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
+- You may take a main-hand axe (to fill with <Skill name="wintersbite"/>) for certain encounters, such as mid burn Artsariiv, where you rarely auto-attack with your dual-wielding weapons set.
 - Dagger, although its lower DPS than Sword in fractals can be taken and also has <Skill name="Instinctive Engage"/> which is a nice source of <Boon name="Quickness"/>.
 
 **Pets:**
@@ -982,7 +982,7 @@ For that reason you can find a video below with openers for each of the CM bosse
 
 <Video youtube="jUyBMhlq13o" caption="by Ares [EoE]"/>
 
-Note: The golem benchmark uses a different build setup to the ones above due to its use in raids. Check the description of the benchmark for a link to the build used.
+Note: The golem benchmark uses a different build setup than the ones above due to its use in raids. Check the description of the benchmark for a link to the build used.
 </Card>
 
 <Card title="Golem Rotation">
@@ -1067,12 +1067,12 @@ Many thanks to Elu \[SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4f
 
 <Traits traits1Id="32" traits1="Beastmastery" traits1SelectedIds="1606,1047,1066" unembossed/>
 
-Your other traitlines remain the same as on land. The reason for swapping traits here is to provide a 10% damage increase and cooldown reduction on spear skills.
+Your other train lines remain the same as on land. The reason for swapping traits here is to provide a 10% damage increase and cooldown reduction on spear skills.
 </Card>
 
 <Card title="Underwater Rotation">
 
-For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> (Harpoon Gun 3) and <Skill name="Mercy Shot"/> (Harpoon Gun 4) to precast damage into <Skill name="Sicem"/>. Outside of that precasting, you want to camp Spear since <Skill name="Man o war"/> (Spear 5), <Skill name="Swirling Strike"/> (Spear 2), as well as your auto-attack chain deal good damage. You should swap back to Harpoon gun at the start of the split-phase of the Jellyfish Beast to range the split adds as well as allowing you to restart your rotation when the split-phase ends.
+For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/>. You want to start on Harpoon gun and use <Skill id="12528"/> (Harpoon Gun 3) and <Skill name="Mercy Shot"/> (Harpoon Gun 4) to precast damage into <Skill name="Sicem"/>. Outside of that precasting, you want to camp Spear since <Skill name="Man o war"/> (Spear 5), <Skill name="Swirling Strike"/> (Spear 2), as well as your auto-attack chain deals good damage. You should swap back to Harpoon gun at the start of the split-phase of the Jellyfish Beast to range the split adds as well as allow you to restart your rotation when the split-phase ends.
 
 **Bonus Tips:**
 
