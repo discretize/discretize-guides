@@ -10,9 +10,6 @@ conditions:
   - name: Vulnerability
     uptime: 5 stacks
 boons:
-  - name: Quickness
-    uptime: 50%
-    variant: self
   - name: Might
     uptime: "12 stacks "
     variant: (using For Great Justice)
@@ -24,7 +21,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-04-29T10:54:20.208Z
+date: 2022-04-29T11:43:11.788Z
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
