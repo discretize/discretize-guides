@@ -21,7 +21,7 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-04-29T10:46:15.609Z
+date: 2022-04-29T11:40:09.644Z
 ---
 <Warning>
 
@@ -593,6 +593,7 @@ Lastly, we will look at some easy precasts you can (almost) always do with low e
 
 
 <Card title="Improving Further">
+
 Once you are comfortable with the above steps, you are doing the full rotation and will be able to deal great damage.
 
 There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
