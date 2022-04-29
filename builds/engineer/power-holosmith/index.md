@@ -1,8 +1,8 @@
 ---
 title: Power Holosmith
-rating: Good
-archive: false
 hidden: false
+archive: false
+rating: Good
 role: Power Damage
 author: Ascers.6082
 profession: Engineer
@@ -18,7 +18,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-03-06T22:03:28.519Z
+date: 2022-04-29T10:33:54.297Z
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
@@ -35,7 +35,7 @@ The build benefits from slaying potions such as <Item name="Powerful Potion of s
 
 The main thing the build lacks compared to other Power DPS classes is a unique party buff for Power compositions like <Specialization text="Power Dragonhunter" name="Dragonhunter"/>'s <Skill name="Bane Signet"/> share.
 
-There are 3 different versions of <Specialization text="Power Holosmith" name="Holosmith"/>, namely Sword ECSU, Sword PBM and Rifle PBM. They are named after:
+There are 3 different versions of <Specialization text="Power Holosmith" name="Holosmith"/>, namely Sword ECSU, Sword PBM, and Rifle PBM. They are named after:
 
 - The weapon they are holding, Sword+Shield vs Rifle.
 - The Grandmaster Holosmith Trait they use, Enhanced Capacity Storage Unit (ECSU) vs Photonic Blasting Module (PBM).
@@ -243,8 +243,8 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 - Use <Skill id="42163"/> off-cooldown. This skill can be used inside the hitbox when multiple enemies are around to hit the boss multiple times. If this can be done, for example on Ensolyss, you can delay this skill for that.
 - <Skill id="5808"/> can be used to mitigate damage in add heavy fights.
 - When running off-hand Pistol, <Skill name="Blowtorch"/> is used instead of <Skill name="Freeze Grenade"/> in step 20.
-- When running off-hand Pistol, <Skill id="5830"/> can help in controlling movement of enemies without breakbar.
-- Try to manage your Heat in split phases. Ideally you always want to be back at 90 Heat when starting to burst in a new phase.
+- When running off-hand Pistol, <Skill id="5830"/> can help in controlling the movement of enemies without break bar.
+- Try to manage your Heat in split phases. Ideally, you always want to be back at 90 Heat when starting to burst into a new phase.
 - <Skill name="Poison Grenade" profession="Engineer"/> will not always be up at the same step as its cooldown is higher than the duration of your loop. The general idea of using 2 extra damaging skills while cooling down still applies.
 
 </Card>
@@ -265,7 +265,7 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 
 - Make sure that you will start the fight on your desired Heat (usually 90).
 - You want to make sure to always at least pre-cast <Skill name="Laser Disk"/> before taking the singularity.
-- You can either swap utility skills manually or via template. Make sure to have the same traits in both templates selected if you choose the template route.
+- You can either swap utility skills manually or via a template. Make sure to have the same traits in both templates selected if you choose the template route.
 - If this is taken care of, you can do the following extra pre-casts:
   1. Equip <Skill name="Thumper Turret"/>, <Skill name="Bomb Kit"/> and <Skill name="Flamethrower"/>.
   2. Place <Skill name="Big Ol Bomb"/>.

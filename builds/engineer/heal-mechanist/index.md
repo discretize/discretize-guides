@@ -37,12 +37,12 @@ classification:
   - 2
   - 1
   - 2
-date: 2022-04-29T10:07:59.226Z
+date: 2022-04-29T10:32:43.174Z
 ---
 
 <Warning>
 
-This build is very common in PuGs. It is currently the best heal build to use in PuGs. More info about this can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It therefore shines most in less experienced groups as well as when you have bad instabilities.
+This build is very common in PuGs. It is currently the best heal build to use in PuGs. More info about this can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities.
 
 </Warning>
 
@@ -269,7 +269,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 <Card title="Shield">
 
 - <Skill name="Magnetic Shield" /> offers projectile reflection and some CC when released though <Skill name="Magnetic Inversion  "/>.
-- <Skill name="Static Shield" /> can be used as a long block which CCs any enemies attacking you. After the block is over it will cc with <Skill name="Throw Shield"/>.
+- <Skill name="Static Shield" /> can be used as a long block that CCs any enemies attacking you. After the block is over it will cc with <Skill name="Throw Shield"/>.
 
 </Card>
 </GridItem>
@@ -279,7 +279,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 
 A large part of the support is generated through the use of your Jade Mech and Kits.
 
-Engineering kits can be opened instantly to give acess to 5 new skills, which when closed again return you back to your weapon set. Each individual kit skill will have its own cooldown, although as you play the class you come to get a feel for when each skill will be availible.
+Engineering kits can be opened instantly to give access to 5 new skills, which when closed again return you to your weapon set. Each kit skill will have its separate cooldown, although as you play the class you come to get a feel for when each skill will be available.
 
 <Skill name="Crash Down" text="Jade Mech"/>:
 
@@ -289,12 +289,12 @@ Your jade mech is your main source of <Boon name="Alacrity"/> generation, while 
 - <Skill id="63293"/> grants <Boon name="Alacrity"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and <Boon name="Aegis"/> to 5 targets. It also is a condition cleanse and a stun break.
 - <Skill id="63141"/> pulses <Boon name="Might"/> abd <Boon name="Fury"/> to 5 targets resulting in 30 seconds of <Boon name="Might" text="15 Might"/> and <Boon name="Fury"/> being shared. It also generates a large amount of <Effect name="Barrier"/> which in turn generates <Boon name="Alacrity"/> thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
 - You can summon your Mech using <Skill name="Crash Down"/> and recall it with <Skill name="Recall Mech"/>
-- Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesnt work you may have to recall it instead.
+- Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesn't work you may have to recall it instead.
 - Remember your Mech commands will generate boons in a radius around your Mech. Make sure it is in range of you and your party before using them!
 
 <Skill name="Med Kit"/>:
 
-Your Med Kit is your main source of healing. It has a mixture of condi cleanse, supportive boon generation and burst healing thanks to <Trait name="Health Insurance"/>
+Your Med Kit is your main source of healing. It has a mixture of condi cleanse, supportive boon generation, and burst healing thanks to <Trait name="Health Insurance"/>
 
 - <Skill name="Med Blaster"/> and <Skill name="Bandage Blast"/> provide a large amount of constant healing to your party.
 - <Skill name="Cleansing Field"/> will cleanse up to 4 conditions over 3 seconds, while also providing a water field that can be used for blast heals.
@@ -304,18 +304,18 @@ Your Med Kit is your main source of healing. It has a mixture of condi cleanse, 
 
 <Skill name="Elixir Gun" />:
 
-Provides some aditional support through condi cleanse, some burst healing and slow CC.
+Provides some additional support through condi cleanse, some burst healing, and slow CC.
 
 - <Skill name="Tranquilizer Dart"/> applies <Condition name="Weakness"/> for some slow CC.
 - <Skill name="Glob Shot"/> applies <Condition name="Crippled"/> for some slow CC. When hitting an enemy it will also share <Boon name="Swiftness"/> to allies.
 - <Skill name="Fumigate"/> is a mass condi cleanse, cleansing up to 5 conditions from allies. It also applies a small amount of <Condition name="Vulnerability"/>.
 - <Skill name="Acid Bomb"/> is a blast finisher. Also since it is an Elixir it grants <Boon name="might"/> through <Trait name="HGH"/>
-- <Skill name="Super Elixir"/> is a burst heal, Once hit it also creates an area of continual healing for 10 seconds, making this one of your best healing abilities. It also condi cleanses and grants <Boon name="might"/> through <Trait name="HGH"/>
-- While not every skill in this kit is commonly used, in particular the condi cleanse and burst heal are very useful in high pressure situations.
+- <Skill name="Super Elixir"/> is a burst heal, Once hit it also creates an area of continual healing for 10 seconds, making this one of your best healing abilities. It also condi-cleanses and grants <Boon name="might"/> through <Trait name="HGH"/>
+- While not every skill in this kit is commonly used, in particular, the condi cleanse and burst heal are very useful in high-pressure situations.
 
 <Skill name="Elite Mortar Kit"/>:
 
-While not every skill is commonly used, it still provides some slow CC and has acess to a strong AoE pulsing heal.
+While not every skill is commonly used, it still provides some slow CC and has access to a strong AoE pulsing heal.
 
 - <Skill name="Endothermic Shell"/> applies a large amount of slow CC through <Condition name="Chilled"/>.
 - <Skill name="Flash Shell"/> applies some slow cc through <Condition name="Blinded"/>.
@@ -358,7 +358,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 
 - A large amount of your sustsined healing comes from traits. <Trait name="Soothing Detonation"/>, <Trait name="Compounding Chemicals"/> and <Trait name="Backpack Regenerator"/> generate a lot of passive healing to yourself, which is then shared with <Trait name="Medical Dispersion Field"/> and amplified with <Trait name="Health Insurance"/>.
 - When under constant pressure <Skill name="Super Elixir"/> and <Skill name="Elixir Shell"/> can be used. It is reccomended to use <Skill name="Super Elixir"/> first due to its shorter cooldwon.
-- If your parties hp is not full you can use <Skill name="Med Blaster"/> in <Skill name="Med Kit"/> which is very strong. However you should first consider other abilities to heal your party quicker, since you want to maximize your time on mace to generste <Effect name="Barrier"/>.
+- If your parties hp is not full you can use <Skill name="Med Blaster"/> in <Skill name="Med Kit"/> which is very strong. However, you should first consider other abilities to heal your party quicker since you want to maximize your time on mace to generate <Effect name="Barrier"/>.
 - Your best form of sustained healing is to keep your <Effect name="Barrier"/> uptime high. By using <Skill name="Barrier Blast"/>, <Skill id="63141"/> and if needed <Skill name="Barrier Signet"/>, your party will not lose much health due to tanking damage.
 
 </Card>
@@ -367,7 +367,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 
 - <Skill name="Vital Burst"/> and <Skill name="Bandage Blast"/> can be used for some burst healing.
 - Aditionally you have 21 water fields with <Skill name="Cleansing Field"/> and <Skill name="Elixir Shell"/> which can then be blasted with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> and <Skill name="Infusion Bomb"/> for massive healing.
-- If you dont have any burst healing abilities up, you can use <Skill name="Barrier Signet"/> for a large amount of <Effect name="Barrier"/> to help sustain your party while you heal them back up.
+- If you don't have any burst healing abilities up, you can use <Skill name="Barrier Signet"/> for a large amount of <Effect name="Barrier"/> to help sustain your party while you heal them back up.
 - If you are anticipating a large amount of incoming damage using <Skill name="Super Elixir"/> or <Skill name="Elixir Shell"/> before for strong healing over time can be useful.
 
 </Card>
@@ -376,6 +376,6 @@ While not every skill is commonly used, it still provides some slow CC and has a
 
 - Your strongest condition cleanse is <Skill name="Fumigate"/> in <Skill name="Elixir Gun"/>, removing up to 5 conditions on 5 targets.
 - Blasting Light Fields also causes area condition cleanse. You can place light fields with <Skill name="Super Elixir"/> or <Skill name="Flash Shell"/> and then blast with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> or <Skill name="Infusion Bomb"/>.
-- If you have a high amount of condition pressure you can use <Skill name="Cleansing Field"/> or <Skill name="Super Elixir"/> for a longer lasting condition cleanse over time.
+- If you have a high amount of condition pressure you can use <Skill name="Cleansing Field"/> or <Skill name="Super Elixir"/> for a longer-lasting condition cleanse over time.
 
 </Card>

@@ -1,11 +1,11 @@
 ---
 title: Power Chronomancer
+hidden: false
+archive: true
 rating: Good
 role: Power Damage
-author: 'Discord: [CnD] Tipcat#0698'
+author: "Discord: [CnD] Tipcat#0698"
 profession: Mesmer
-archive: true
-hidden: false
 specialization: Chronomancer
 skills:
   - 10311
@@ -30,20 +30,20 @@ boons:
   - name: Might
     uptime: 25 stacks
     variant: self - on demand
-code: '[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: 2022-01-12T01:53:33.017Z
+date: 2022-04-29T10:35:34.916Z
 ---
 
 The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long ramp-up times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
 
-To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation on the go and push the limits of your class, but even then you will probably be a hinderance for your group.
+To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation on the go and push the limits of your class, but even then you will probably be a hindrance for your group.
 
 You'll provide boon removal through your clones, auto-attack chains, <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
 
@@ -251,12 +251,12 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Card title="Extra Weapons">
 
 - Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-- Pistol is faster but lower burst so swap accordingly depending on your group.
+- Pistol is faster but has lower burst so swap accordingly depending on your group.
   - Use it on Arkk to not wipe your group since the Warden 'protects' the Balls from your SAK.
-- Torch for stealth, blasting and precasting
+- Torch for stealth, blasting, and precasting
 - Greatsword for precasting at certain bosses.
 - Staff for precasting at certain bosses.
-- Shield for CC, blocks and precasting.
+- Shield for CC, blocks, and precasting.
 
 </Card>
 <Traits traits1="Dueling" traits1Selected="Phantasmal Fury,Fencers Finesse,Superiority Complex" traits2="Domination" traits2Selected="Empowered Illusions,Egotism,Vicious Expression" traits3="Chronomancer" traits3Selected="Time Catches Up,Improved Alacrity,Chronophantasma"/>
@@ -322,14 +322,14 @@ If you lose yourself in the rotation follow this priority list.
     - <Skill id="10282"/>
 2.  Use <Skill id="21750"/> to recharge them all.
 3.  Use <Skill name="Split Second"/> with three clones as much as possible only delay it for <Effect name="Exposed"/>
-4.  Use <Skill name="Rewinder"/> whenever you don't have any clones, situationally you can shatter it with three clones such as in your burst rotation or when a phase is about to end and <Skill name="Split Second"/> is on cooldown.
+4.  Use <Skill name="Rewinder"/> whenever you don't have any clones, situationally you can shatter it with three clones such as in your burst rotation or when a phase is about to end, and <Skill name="Split Second"/> is on cooldown.
 5.  Use <Skill id="10334"/> and <Skill id="30525"/> (if used) off recharge.
 
 - <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
 
 Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that <Skill name="Blurred Frenzy"/> and auto-attacks get higher priority if the boss is close to phasing.
 
-Utilize <Skill name="Time Sink"/> for CC, but also remember to not use too much CC on the breakbar and space out your big CC cooldowns like <Skill name="Signet of Humility"/> or <Skill name="Gravity Well"/> so they don't overlap with other powerful CC skills.
+Utilize <Skill name="Time Sink"/> for CC, but also remember to not use too much CC on the break bar and space out your big CC cooldowns like <Skill name="Signet of Humility"/> or <Skill name="Gravity Well"/> so they don't overlap with other powerful CC skills.
 
 Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used twice with <Skill id="29830"/> if needed. Cast <Skill id="10173"/> to quickly get up another illusion.
 </Card>
@@ -362,9 +362,9 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
-For that reason you can find a video with openers, that are efficient to use here.
+For that reason, you can find a video with openers, that are efficient to use here.
 
-It's important to note that phantasms do not benefit from most modifiers, unless it is stated to be the case.
+It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
 
 They do however benefit from <Effect name="Exposed"/>.
 </Card>
@@ -381,13 +381,13 @@ At the Mistlock Singularity
 - Blast fire fields with <Skill name="The Prestige"/>.
 - Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
 - Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
-- Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
+- Additionally, you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
 
 At the boss (spawnable bosses)
 
 - You can precast <Skill name="The Prestige"/>, <Skill name="Tides of Time"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
 
-At the boss (prespawned bosses)
+At the boss (pre spawned bosses)
 
 - Precast rotation. Start on Staff or Shield.
 
