@@ -1,5 +1,5 @@
 ---
-title: Building an Effective Comp
+title: Teamcomp 101
 date: 2022-04-19T22:34:27.240Z
 image: ./images/preview.png
 description: Everything around compositions in fractals
