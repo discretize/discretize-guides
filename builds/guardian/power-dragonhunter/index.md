@@ -3,7 +3,7 @@ title: Power Dragonhunter
 hidden: false
 archive: false
 hasBeginner: true
-rating: Power Meta
+rating: Meta
 role: Power Damage
 profession: Guardian
 specialization: Dragonhunter

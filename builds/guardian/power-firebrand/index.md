@@ -2,7 +2,7 @@
 title: Power (Quick) Firebrand
 hidden: false
 archive: false
-rating: Power Meta
+rating: Meta
 role: Power Damage
 author: ganymed.3541
 profession: Guardian

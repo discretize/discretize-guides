@@ -13,7 +13,7 @@ conditions:
   - name: Bleeding
   - name: Poisoned
   - name: Burning
-code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
   - 5
@@ -23,6 +23,7 @@ classification:
   - 3
 date: 2022-04-29T11:40:09.644Z
 ---
+
 <Warning>
 
 This build is strong in full condi groups ([team comps](/guides/effective-comp)). In power groups this build will fall massively behind <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart.
@@ -371,17 +372,16 @@ This build uses the Jade Bot Core: Tier 10 in combination with 14 <Item name="Sp
 
 </GridItem>
 
-
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                       |                                                                                                                                                                                                                                                                                     |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Sun Spirit" size="big" disableText/>     | Your standard 3rd utility. Provides a partywide damage increase by causing you and allies to periodically inflict <Condition name="Burning"/>.                                                                                                                                      |
+|                                                       |                                                                                                                                                                                                                                                                                         |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Sun Spirit" size="big" disableText/>     | Your standard 3rd utility. Provides a partywide damage increase by causing you and allies to periodically inflict <Condition name="Burning"/>.                                                                                                                                          |
 | <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Vulture Stance"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
-| <Skill name="Vipers Nest" size="big" disableText/>    | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>.                                                                                                                                    |
-| <Skill name="Bear stance" size="big" disableText/>    | A party-wide condi cleanse through <Trait name="leaderofthepack"/>.                                                                                                                                                                                                    |
-| <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if your party needs a long lasting condi cleanse. Very useful on 100CM!                                                                                                                          |
+| <Skill name="Vipers Nest" size="big" disableText/>    | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>.                                                                                                                                        |
+| <Skill name="Bear stance" size="big" disableText/>    | A party-wide condi cleanse through <Trait name="leaderofthepack"/>.                                                                                                                                                                                                                     |
+| <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if your party needs a long lasting condi cleanse. Very useful on 100CM!                                                                                                                                                                                       |
 
 </Card>
 <Card title="Pets">
@@ -445,7 +445,6 @@ Running an off-hand Dagger is similar DPS to Torch providing you can flank perma
 </Advanced>
 
 <Divider text="Rotation / Skill usage"/>
-
 
 <Advanced>
 <Grid>
@@ -551,6 +550,7 @@ As a <Specialization name="Soulbeast" text="Condi Soulbeast"/> we have three imp
 The highest priority skills are your weapon skills, namely skills 2,4, and 5 on both sets. The weapon skill rotation will be the backbone of your rotation and you will not want to interrupt it for any other skill. Any further steps will introduce more skills to fill the gaps between your weapon skills, so it is a good idea to spend some time practicing this step.
 
 The weapon rotation is:
+
 1. Start on Shortbow and use <Skill name="Poison Volley"/>, <Skill name="Crippling Shot"/> and <Skill name="Concussion Shot"/>.
 2. Swap to Dagger/Torch and use <Skill name="Double Arc"/>, <Skill name="Throw Torch"/> and <Skill name="Bonfire"/>.
 3. Keep using these skills off-cooldown. Your 3rd <Skill name="Double Arc"/> and 2nd <Skill name="Throw Torch"/> should come back at the same time. Use them and swap back to Shortbow.
@@ -562,16 +562,17 @@ The weapon rotation is:
 Your <Skill name="Beastmode"/> skills will fill some gaps in your weapon rotation. Use them off-cooldown but do not interrupt or delay your weapon rotation for them. The priority depends on the Pet you are using.
 
 For Lynx, the priority is:
+
 1. <Skill id="44514"/>
 2. <Skill id="40588"/>
 
 For Warthog, the priority is:
+
 1. <Skill id="46432"/>
 2. <Skill id="41406"/>
 3. <Skill id="40588"/>
- 
-Keep in mind that <Skill id="46432"/> is also a CC skill, so delay it for break bars if necessary but try not to delay it for too long if possible.
 
+Keep in mind that <Skill id="46432"/> is also a CC skill, so delay it for break bars if necessary but try not to delay it for too long if possible.
 
 **Step 3: Utility Skills**
 
@@ -590,7 +591,6 @@ Lastly, we will look at some easy precasts you can (almost) always do with low e
 2. If a Mistlock Singularity is present, you can cast your Stances as well, namely <Skill name="One Wolf Pack"/> and <Skill name="Vulture Stance"/>.
 
 </Card>
-
 
 <Card title="Improving Further">
 

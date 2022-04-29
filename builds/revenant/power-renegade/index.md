@@ -17,7 +17,7 @@ classification:
   - 5
 date: 2022-03-29T01:54:06.400Z
 title: Power Alac Renegade
-rating: Power Meta
+rating: Meta
 role: Power Damage
 profession: Revenant
 conditions:

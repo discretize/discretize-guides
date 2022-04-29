@@ -17,7 +17,7 @@ conditions:
   - name: Burning
 boons:
   - name: Quickness
-    uptime: 100% (using Quickness variant)
+    uptime: 100%
     variant: (using Quickness variant)
   - name: Fury
     uptime: 100%
@@ -26,12 +26,12 @@ boons:
     uptime: 6 stacks
     variant: (13 stacks on Quickness variant)
   - name: Swiftness
-    uptime: "65% "
+    uptime: '65%'
     variant: (using Quickness variant)
   - name: Regeneration
-    uptime: "50% "
+    uptime: '50%'
     variant: (using Quickness variant)
-code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4

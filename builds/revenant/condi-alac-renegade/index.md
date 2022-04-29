@@ -2,6 +2,7 @@
 title: Condi (Alac) Renegade
 hidden: false
 archive: false
+hasBeginner: false
 rating: Meta
 role: Condi Damage
 author: PineappleMan.1430
@@ -21,8 +22,8 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: "[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 4
   - 3
