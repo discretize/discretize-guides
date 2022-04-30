@@ -13,7 +13,7 @@ conditions:
     uptime: 20 stacks
   - name: Torment
   - name: Bleeding
-  - name: Poison
+  - name: Poisoned
   - name: Burning
 boons:
   - name: Quickness

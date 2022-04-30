@@ -14,7 +14,7 @@ conditions:
   - name: Torment
   - name: Burning
   - name: Bleeding
-  - name: Poison
+  - name: Poisoned
 boons:
   - name: Alacrity
     uptime: 100%
