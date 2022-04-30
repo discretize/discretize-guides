@@ -30,7 +30,7 @@ boons:
   - name: Protection
     variant: Party
     uptime: 100%
-code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 2
@@ -366,7 +366,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 <Card title="Burst Healing">
 
 - <Skill name="Vital Burst"/> and <Skill name="Bandage Blast"/> can be used for some burst healing.
-- Aditionally you have 21 water fields with <Skill name="Cleansing Field"/> and <Skill name="Elixir Shell"/> which can then be blasted with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> and <Skill name="Infusion Bomb"/> for massive healing.
+- Aditionally you have 2 water fields with <Skill name="Cleansing Field"/> and <Skill name="Elixir Shell"/> which can then be blasted with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> and <Skill name="Infusion Bomb"/> for massive healing.
 - If you don't have any burst healing abilities up, you can use <Skill name="Barrier Signet"/> for a large amount of <Effect name="Barrier"/> to help sustain your party while you heal them back up.
 - If you are anticipating a large amount of incoming damage using <Skill name="Super Elixir"/> or <Skill name="Elixir Shell"/> before for strong healing over time can be useful.
 
