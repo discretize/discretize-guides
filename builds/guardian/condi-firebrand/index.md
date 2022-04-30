@@ -36,7 +36,7 @@ classification:
   - 5
   - 2
   - 3
-date: 2022-04-29T11:29:40.010Z
+date: 2022-04-30T10:47:11.566Z
 ---
 
 <Beginner>
@@ -718,19 +718,19 @@ The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are grea
 
 Starting on Axe:
 
-1.  <Skill name="purgingflames"/>
+1.  <Skill name="Symbol of Vengeance"/> (Axe 2)
 2.  <Skill id="9104"/> (Torch 4)
-3.  <Skill name="Symbol of Vengeance"/> (Axe 2)
-4.  <Skill id="9089"/> (Torch 4)
-5.  Weapon Swap
-6.  <Skill name="Symbol of Punishment"/> (Scepter 2)
-7.  <Skill id="9089"/> (Torch 4)
-8.  <Skill name="Tome of Justice"/> (F1)
-9.  <MissingSkill name="Chapter 2: Ignite Burst"/>
-10. <MissingSkill name="Chapter 4: Scorched Aftermath"/>
-11. <MissingSkill name="Epilogue: Ashes of the Just"/>
-12. <MissingSkill name="Chapter 1: Searing Spell"/>
-13. <MissingSkill name="Chapter 2: Ignite Burst"/>
+3.  <Skill name="purgingflames"/>
+4.  Weapon Swap
+5.  <Skill name="Symbol of Punishment"/> (Scepter 2)
+6.  <Skill name="Tome of Justice"/> (F1)
+7.  <MissingSkill name="Chapter 2: Ignite Burst"/>
+8.  <MissingSkill name="Epilogue: Ashes of the Just"/>
+9.  <MissingSkill name="Chapter 4: Scorched Aftermath"/>
+10. <MissingSkill name="Chapter 1: Searing Spell"/>
+11. <MissingSkill name="Chapter 2: Ignite Burst"/>
+12. <Skill id="9089"/> (Torch 4)
+13. <Skill id="9089"/> (Torch 4)
 14. <Skill name="Cleansing Flame"/> (Torch 5)
 15. <Skill name="Symbol of Punishment"/> (Scepter 2)
 16. <Skill id="9104"/> (Torch 4)
@@ -803,7 +803,7 @@ The additional steps are:
 <GridItem sm="5">
 <Card title="Golem rotation">
 
-<Video youtube="XbbfgCUGwlY" caption="by Frenzy"/>
+<Video youtube="AvtmpM3jJDQ" caption="by Support Hero"/>
 </Card>
 
 <Advanced>
