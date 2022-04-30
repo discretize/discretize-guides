@@ -30,14 +30,14 @@ boons:
   - name: Protection
     variant: Party
     uptime: 100%
-code: '[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 2
   - 2
   - 1
   - 2
-date: 2022-04-29T11:30:58.165Z
+date: 2022-04-30T21:32:51.548Z
 ---
 
 <Warning>
@@ -208,7 +208,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 |                                                               |                                                                                                                     |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                    |
-| <Skill name="Shift Signet" size="big" disableText/>           | Allows extra mobility when running through trash mobs and provides a useful stunbreak                               |
+| <Skill name="Shift Signet" size="big" disableText/>           | Can be used as a stunbreak and also allows greater control of your mech porting it and yourself to your target. Additionally can be used as a dps increase,                               |
 | <Skill name="Thumper Turret" size="big" disableText/>         | Deals a large amount of CC. If using <Trait name="Experimental Turrets"/> will also share <Boon name="Protection"/> |
 | <Skill name="Flame Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Might"/>                           |
 | <Skill name="Rifle Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Fury"/>                            |
@@ -289,7 +289,7 @@ Your jade mech is your main source of <Boon name="Alacrity"/> generation, while 
 - <Skill id="63293"/> grants <Boon name="Alacrity"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and <Boon name="Aegis"/> to 5 targets. It also is a condition cleanse and a stun break.
 - <Skill id="63141"/> pulses <Boon name="Might"/> abd <Boon name="Fury"/> to 5 targets resulting in 30 seconds of <Boon name="Might" text="15 Might"/> and <Boon name="Fury"/> being shared. It also generates a large amount of <Effect name="Barrier"/> which in turn generates <Boon name="Alacrity"/> thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
 - You can summon your Mech using <Skill name="Crash Down"/> and recall it with <Skill name="Recall Mech"/>
-- Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesn't work you may have to recall it instead.
+- Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesn't work you may have to recall it instead. Alternatively if <Skill name="Shift Signet"/> is availible, this can be used to port your Mech to your target.
 - Remember your Mech commands will generate boons in a radius around your Mech. Make sure it is in range of you and your party before using them!
 
 <Skill name="Med Kit"/>:
