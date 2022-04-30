@@ -146,7 +146,7 @@ These builds assume a Tier 10 Jade Bot Core. The extra Vitality benefits Weaver 
     "utility3Id": 5734,
     "eliteId": 5516
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"
@@ -300,7 +300,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility3Id": 5734,
     "eliteId": 5516
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"
@@ -459,7 +459,7 @@ If you have neither, use the 162 AR (No Banner) build or use <Item id="12486"/>.
     "utility3Id": 5734,
     "eliteId": 5516
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"
@@ -613,7 +613,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility3Id": 5734,
     "eliteId": 5516
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"

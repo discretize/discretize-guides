@@ -159,7 +159,7 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
     "utility3Id": 63262,
     "eliteId": 30800
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
     {
       "id": "might",
       "type": "Boon"

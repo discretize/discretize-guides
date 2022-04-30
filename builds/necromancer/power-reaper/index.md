@@ -127,7 +127,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
       "utility3": "Signet of Spite",
       "elite": "Lich Form"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 You will be crit-capped in <Skill name="Reapers Shroud"/>.

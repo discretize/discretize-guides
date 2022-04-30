@@ -15,7 +15,7 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -140,7 +140,7 @@ The <Specialization name="Willbender" text="Condition Willbender"/> is a strong 
     "utility2Id": 9187,
     "eliteId": 62561
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 9151, "type": "Skill"}, {"id": "jade-bot-per-tier", "value": 10, "type": "Text"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 9151, "type": "Skill"}, {"id": "jade-bot-per-tier", "value": 10, "type": "Text"}]
 }} 
 >
 

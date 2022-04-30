@@ -11,9 +11,9 @@ conditions:
     uptime: 5 stacks
 boons:
   - name: Might
-    uptime: "12 stacks "
+    uptime: '12 stacks '
     variant: (using For Great Justice)
-code: "[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
   - 4
@@ -123,7 +123,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
     "utility3": "Banner of Discipline",
     "elite": "Head Butt"
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
 
 This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed.
@@ -218,7 +218,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility3": "Banner of Discipline",
     "elite": "Head Butt"
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
 
 Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
@@ -313,7 +313,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility3": "Banner of Discipline",
     "elite": "Head Butt"
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!

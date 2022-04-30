@@ -161,7 +161,7 @@ This guide will focus on the Shortbow + Dagger/Torch variant of the build with <
     "utility3Id": 12498,
     "eliteId": 45717
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
     {
       "id": "might",
       "type": "Boon"
@@ -309,7 +309,7 @@ If you do not have a Jade Bot Core: Tier 10, you will have a slightly lower dura
     "utility3Id": 12498,
     "eliteId": 45717
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
     {
       "id": "might",
       "type": "Boon"

@@ -22,7 +22,7 @@ boons:
   - name: Swiftness
     uptime: 75%
     variant: party
-cmGuide: ""
+cmGuide: ''
 classification:
   - 5
   - 4
@@ -30,7 +30,7 @@ classification:
   - 2
   - 3
 compositions: null
-code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-04-29T10:52:13.715Z
 ---
 
@@ -154,7 +154,7 @@ At the same time it can generate large amounts of <Effect name="Barrier"/> for y
       "utility3": "Spider Venom",
       "elite": "Basilisk Venom"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"id": "jade-bot-per-tier", "value": 10, "type": "Text"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"id": "jade-bot-per-tier", "value": 10, "type": "Text"}]
 }}>
 
 If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.

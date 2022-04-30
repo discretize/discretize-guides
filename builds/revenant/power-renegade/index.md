@@ -124,7 +124,7 @@ To see how the <Specialization name="Renegade"/> is played in Pick Up Groups ref
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
@@ -215,7 +215,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
@@ -306,7 +306,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
@@ -397,7 +397,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!

@@ -28,8 +28,8 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 5
   - 4
@@ -181,7 +181,7 @@ There are several different gear, utility, and trait setups that allow you to ma
       "utility3": "Sanctuary",
       "elite": "Feel My Wrath"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
@@ -288,7 +288,7 @@ You will want the following weapons to swap to during fractal runs:
     "utility3Id": 9128,
     "eliteId": 29965
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
@@ -397,7 +397,7 @@ You will want the following weapons to swap to during fractal runs:
       "utility3": "Sanctuary",
       "elite": "Mantra of Liberation"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 <Advanced>
@@ -527,7 +527,7 @@ You will want the following weapons to swap to during fractal runs:
     "utility3Id": 9128,
     "eliteId": 29965
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"

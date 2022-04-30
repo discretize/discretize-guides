@@ -130,7 +130,7 @@ This guide will focus mainly on the Sword ECSU variant since it is the most flex
       "utility3": "Laser Disk",
       "elite": "Prime Light Beam"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 Due to the naturally high crit-chance from the Firearms Trait Line, this build does not rely on high Agony Resistance to reach crit-cap. You will only need higher Agony Resistance or Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>. You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.

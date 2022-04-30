@@ -153,7 +153,7 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
       "legend1": "legendarydemonstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
@@ -266,7 +266,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
       "legend1": "legendarydemonstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
@@ -358,7 +358,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
       "legend1": "legendarydemonstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can both play <Trait name="Righteous Rebel"/> to provide <Boon name="alacrity"/>,

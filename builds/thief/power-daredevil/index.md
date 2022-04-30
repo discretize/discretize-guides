@@ -6,8 +6,6 @@ skills:
   - 13044
   - 13065
   - 13025
-effects:
-  - Stealth
 title: Power Daredevil
 hidden: false
 rating: Other
@@ -21,7 +19,7 @@ conditions:
   - name: Crippled
   - name: Blinded
   - name: Weakness
-code: "[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-04-29T10:53:24.186Z
 benchmark:
   small:
@@ -149,7 +147,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
     "utility3Id": 13046,
     "eliteId": ""
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
     {
       "id": "might",
       "type": "Boon"

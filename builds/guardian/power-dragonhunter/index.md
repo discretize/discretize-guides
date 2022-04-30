@@ -14,7 +14,7 @@ boons:
   - name: Fury
     uptime: 80%
     variant: group
-code: "[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: static
 classification:
   - 3
@@ -159,7 +159,7 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
     "utility3Id": 9093,
     "eliteId": 29965
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
     {
       "id": "might",
       "type": "Boon"
@@ -456,7 +456,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Bane Signet",
       "elite": "Dragons Maw"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
@@ -562,7 +562,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Bane Signet",
       "elite": "Dragons Maw"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
@@ -804,7 +804,6 @@ The additional steps are:
 </Card>
 </Advanced>
 
-
 <Beginner>
 
 <Card title="Step-by-Step Video">
@@ -813,8 +812,7 @@ This video shows the step-by-step approach to the rotation listed on the left.
 
 <Video youtube="03nlPL24KWE" caption="by Ascers"/>
 
-</Card> 
-
+</Card>
 
 </Beginner>
 

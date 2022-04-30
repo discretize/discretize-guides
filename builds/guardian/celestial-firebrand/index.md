@@ -21,8 +21,8 @@ boons:
     variant: group
 Conditions:
   - name: Burning
-code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 4
   - 3
@@ -138,7 +138,7 @@ There are several different gear, utility, and trait setups that allow you to ma
       "utility3": "Sanctuary",
       "elite": "Feel my Wrath"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 **This is the standard build with high boon duration which allows it to be played with lower Agony Resistance and has an easier time maintaining boons. This build also has the advantage of working in other content such as Raids and Strike Missions**
@@ -234,7 +234,7 @@ Check the build section for some common gear variations. You can also use our [g
       "utility3": "Sanctuary",
       "elite": "Feel my Wrath"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 **This is an option for a Celestial build with high Agony Resistance. It deals slightly less damage then the Seraph variant, but has the advantage of some extra survivability with extra <Attribute name="Vitality"/> and <Attribute name="Toughness"/>.**
@@ -330,7 +330,7 @@ Check the build section for some common gear variations. You can also use our [g
       "utility3": "Sanctuary",
       "elite": "Feel my Wrath"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 **This build provides slightly higher damage than the Celestial build in fractals due to having higher <Attribute name="Condition Damage"/> and <Effect name="Exposed"/>, whilst still providing more than enough support for most groups.**
@@ -426,7 +426,7 @@ Check the build section for some common gear variations. You can also use our [g
       "utility3": "Sanctuary",
       "elite": "Feel my Wrath"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 **This build has much higher <Attribute name="Concentration"/> and <Attribute name="Healing Power"/> , with the trade-off being it deals less damage. This variant is more suited to use in groups who are less confident and require more support or if you want to have more of a safety net to carry your party.**

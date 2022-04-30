@@ -11,7 +11,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 boons: []
-code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -159,7 +159,7 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
     "utility3Id": 10211,
     "elite": "Signet of Humility"
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
@@ -276,7 +276,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility3Id": 10211,
     "elite": "Signet of Humility"
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
 }}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
@@ -393,7 +393,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility3Id": 10211,
     "elite": "Signet of Humility"
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
@@ -510,7 +510,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility3Id": 10211,
     "elite": "Signet of Humility"
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
 }}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.

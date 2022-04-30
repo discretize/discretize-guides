@@ -30,7 +30,7 @@ boons:
   - name: Resolution
     uptime: 78%
     variant: group
-code: "[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
   - 4
@@ -146,7 +146,7 @@ The build is very flexible and can be adapted to the encounter, instabilities, a
       "utility3": "Sanctuary",
       "elite": "Feel My Wrath"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however, you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!

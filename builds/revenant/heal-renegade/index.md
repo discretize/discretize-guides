@@ -162,7 +162,7 @@ Feel free to run full Harrier if you are confident that you don't need the extra
       "legend1": "legendarycentaurstance",
       "legend2": "legendaryrenegadestance"
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
     {
       "id": "might",
       "type": "Boon"
