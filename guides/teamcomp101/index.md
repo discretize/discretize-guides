@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: 2022-04-29T11:32:38.745Z
+date: 2022-05-01T17:57:39.125Z
 image: ./images/preview.png
 description: Everything around compositions in fractals
 ---
@@ -96,11 +96,14 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 <Tab specialization="Renegade">
 
 - Provides permanent <Boon name="Alacrity"/> and around 10 stacks of <Boon name="Might"/>.
-- Deals a large amount of CC through <Skill name="Darkrazors Daring"/> and <Skill name="Scorchrazor"/>
+- Deals a large amount of CC through <Skill name="Darkrazors Daring"/>, <Skill name="Scorchrazor"/> and <Skill name="Surge of the Mists"/>
 - Deals a good amount of damage, coming close or beating other classes on some encounters
 - Has blinks available from skills such as <Skill name="phasetraversal"/>
+- Depending on the encounter power or condi can be stronger. In T4s typically for trash mobs playing power is   better, with condi played on bosses. In CMs power will be stronger on Skorvald, Arkk and MAMA, with condi    being stronger on Artsariiv, Ensolyss and 100CM. Although both builds are perfectly playable everywhere if you don't want to swap
 
 <BuildLink build="Condi Alac Renegade" specialization="Renegade"/>
+<br/>
+<BuildLink build="Power Renegade" specialization="Renegade"/>
 </Tab>
 
 <Tab specialization="Firebrand">
@@ -128,7 +131,7 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 
 <Tab title="DPS">
 
-- Currently bulds such as <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>, <BuildLink build="Condi Virtuoso" specialization="Virtuoso"/>, <BuildLink build="Condi Harbinger" specialization="Harbinger"/>, <BuildLink build="Power Holosmith" specialization="Holosmith"/> (with <Trait name="Pinpoint Distribution"/>) are all strong choices.
+- Currently bulds such as <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>, <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, <BuildLink build="Condi Virtuoso" specialization="Virtuoso"/>, <BuildLink build="Condi Harbinger" specialization="Harbinger"/>, <BuildLink build="Power Holosmith" specialization="Holosmith"/> (with <Trait name="Pinpoint Distribution"/>) are all strong choices.
 - In reality any build (power or condi) works providing it can help meet the concepts listed at the top of the page.
 
 </Tab>
