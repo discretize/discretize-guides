@@ -482,14 +482,14 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Card title="Defiance Bar Damage">
 
-|                                                      |            |
-| ---------------------------------------------------- | ---------- |
-| <Skill id="9093"/>                                   | 300 damage |
-| <Skill id="9226"/> (after <Skill id="9147"/>)        | 150 damage |
-| <Skill name="Hammer of Wisdom"/>                     | 200 damage |
-| <MissingSkill name="Chapter 3: Heated Rebuke"/> (F1) | 150 damage |
-| <Skill name="Chains of light"/>                      | 250 damage |
-| <Skill name="Sanctuary"/>                            | 750 damage |
+|                                               |            |
+| --------------------------------------------- | ---------- |
+| <Skill id="9093"/>                            | 300 damage |
+| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage |
+| <Skill name="Hammer of Wisdom"/>              | 200 damage |
+| <Skill name="Chapter 3: Heated Rebuke"/> (F1) | 150 damage |
+| <Skill name="Chains of light"/>               | 250 damage |
+| <Skill name="Sanctuary"/>                     | 750 damage |
 
 </Card>
 <Card title="Alternative Weapons">
@@ -561,16 +561,21 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 </p>
 
 - <Skill name="Tome of Justice"/> (F1):
-  - <MissingSkill name="chapterscorchedaftermath"/> is a ticking AoE, good for single target and great for AoE DPS, provides fire field so make sure to use it before the fight to stack some might
-  - <MissingSkill name="epilogue ashes of the just"/> makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
-  - <MissingSkill name="Chapter 3: Heated Rebuke"/> is an AoE pull (150 defiance bar damage)
+
+  - <Skill name="chapterscorchedaftermath"/> is a ticking AoE, good for single target and great for AoE DPS, provides fire field so make sure to use it before the fight to stack some might
+  - <Skill name="epilogue ashes of the just"/> makes your surrounding allies inflict <Condition name="Burning"/> - worth using as precast
+  - <Skill name="Chapter 3: Heated Rebuke"/> is an AoE pull (150 defiance bar damage)
   - Often these skills are used as an opener
+
 - <Skill name="Tome of Resolve"/> (F2):
+
   - Skill 2 is a party condition cleanse
   - Skill 3 grants <Boon name="Vigor"/>, <Boon name="Regeneration"/> and <Boon name="Swiftness"/>
   - Skill 4 is a good party heal
   - Skill 5 increases healing on allies for 8s by 33% and converts up to 5 conditions to boons
+
 - <Skill name="Tome of Courage"/> (F3):
+
   - Skill 1 grants <Boon name="Stability"/> and <Boon name="Swiftness"/>
   - Skill 3 is a 5s reflect
   - Skill 4 grants <Boon name="Resistance"/> and breaks stun
@@ -597,7 +602,7 @@ For that reason, you can find a video with openers, that are efficient to use he
 
 If you have a _Mistlock Singularity_ present you can use these skills for precasts:
 
-1.  Cast <Skill name="tome of justice"/>: <MissingSkill name="chapterscorchedaftermath"/> and <MissingSkill name="Epilogue: Ashes of the just"/>
+1.  Cast <Skill name="tome of justice"/>: <Skill name="chapterscorchedaftermath"/> and <Skill name="Epilogue: Ashes of the just"/>
 2.  Blast the fire field by casting <Skill name="Holy Strike"/> or <Skill name="mightyblow"/>
 3.  Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4.  Use <Skill name="Stand your ground"/> or <Skill name="saveyourselves"/>

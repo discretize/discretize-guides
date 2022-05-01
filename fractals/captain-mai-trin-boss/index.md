@@ -83,7 +83,7 @@ Play Greatsword with <Skill name="blood reckoning"/> for maximum cleave with dou
 
 <Tab specialization="Firebrand">
 
-Bring <Skill name="mantraofliberation"/> and <Skill name="wallofreflection"/>. Coordinate with your <Specialization name="Renegade"/>! Use your pulls on <Skill name="Blazing Edge"/> and <MissingSkill name="Chapter 3: Heated Rebuke"/> to stack up the additional adds.
+Bring <Skill name="mantraofliberation"/> and <Skill name="wallofreflection"/>. Coordinate with your <Specialization name="Renegade"/>! Use your pulls on <Skill name="Blazing Edge"/> and <Skill name="Chapter 3: Heated Rebuke"/> to stack up the additional adds.
 
 </Tab>
 </Tabs>
