@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-05-01T04:28:40.446Z
+date: 2022-05-01T07:56:20.062Z
 ---
 
 The <Specialization name="Willbender" text="Power Willbender"/> is an easy to play build for fractals. It has many similarities with the <Specialization text="Power Dragonhunter" name="Dragonhunter"/> has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -156,7 +156,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Character>
 
-<Character title="162 AR (Banner)" gear={{
+<Character advanced title="162 AR (Banner)" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
