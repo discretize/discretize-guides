@@ -31,7 +31,7 @@ classification:
   - 2
   - 3
 compositions: null
-date: 2022-05-01T03:31:49.934Z
+date: 2022-05-01T09:20:42.556Z
 cmGuide: ""
 ---
 The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. It offers large amounts of <Effect name="Barrier"/> for your party, some healing and a small amount of <Boon name="Might"/> and <Boon name="Swiftness"/> by targeting allied players.
@@ -344,7 +344,23 @@ In <Skill name="Enter Shadow Shroud" text="Shadow Shorud"/> you want to use:
 </GridItem>
 
 <GridItem sm="5">
+
+<Beginner>
+<Card title="Step-by-Step Video">
+
+This video shows the step-by-step approach to the rotation listed on the left.
+
+<Video youtube="HPwciFIKlAA" caption="by Ascers"/>
+
+</Card>
+</Beginner>
+
 <Card title="Golem rotation">
+
+<Beginner>
+This video shows the full golem rotation. It optimizes the use of <Item type="Sigil" name="Doom"/> and <Trait name="Quick Pockets"/>.
+</Beginner>
+
 <Video youtube="7ZjQJmms_Dw" caption="by Incera"/>
 </Card>
 
