@@ -31,13 +31,29 @@ classification:
   - 2
   - 3
 compositions: null
-date: 2022-05-01T02:50:12.281Z
+date: 2022-05-01T03:31:49.934Z
 cmGuide: ""
 ---
+The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. It offers large amounts of <Effect name="Barrier"/> for your party, some healing and a small amount of <Boon name="Might"/> and <Boon name="Swiftness"/> by targeting allied players.
 
-The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. The value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and cast again as soon as your allies have consumed them by attacking the target.
+<Advanced>
 
-At the same time it can generate large amounts of <Effect name="Barrier"/> for your party, some healing and a small amount of <Boon name="Might"/> and <Boon name="Swiftness"/> by targeting allied players.
+The value of this build comes from the pure damage that it will bring, which is inflated by the **<Specialization text="Condi Soulbeast" name="Soulbeast"/>**'s <Skill id="40498"/>, on top of Venom Skills which can be precast on the _Mistlock Singularity_, and cast again as soon as your allies have consumed them by attacking the target.
+
+</Advanced>
+
+<Beginner>
+
+The beginner version of this guide will focus on the most important utility options and try to teach a slightly simplified rotation step-by-step while giving some notes on what you can do to optimize in the future.
+
+The advanced page provides a more complete overview of the utilities the <Specialization name="Thief"/> has to offer. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
+
+<Information>
+
+Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+
+</Information>
+</Beginner>
 
 <Divider text="Equipment"/>
 
@@ -137,7 +153,7 @@ At the same time it can generate large amounts of <Effect name="Barrier"/> for y
       "weapon1MainType": "Scepter",
       "weapon1MainSigil1": "Doom",
       "weapon1OffType": "Dagger",
-      "weapon1OffSigil": "Torment",
+      "weapon1OffSigil": "Bursting",
       "weapon2MainType": "Scepter",
       "weapon2MainSigil1": "Doom",
       "weapon2OffType": "Pistol",
@@ -158,12 +174,15 @@ At the same time it can generate large amounts of <Effect name="Barrier"/> for y
     "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"id": "jade-bot-per-tier", "value": 10, "type": "Text"}]
 }}>
 
+<Advanced>
 If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
 
-The <Skill name="skelkvenom"/> is a much better option to support your party as it brings a tremendous amount of party healing.
-It's recommended to run a short bow for additional movement during downtime and <Boon name="might"/> blasts on the _Mistlock Singularity_.
+It's recommended to have a short bow for additional movement during downtime and <Boon name="might"/> blasts on the _Mistlock Singularity_.
+</Advanced>
 
-If you do not need the extra CC you can run a Dagger with <Item id="48911"/> instead of a Pistol in your second weapon set.
+The <Skill name="skelkvenom"/> is a great option to support your party as it brings a tremendous amount of party healing.
+
+If you do not need the extra CC you can remove the Pistol so your Dagger counts for both sets. This allows you to swap freely for <Item type="Sigil" name="Doom"/> and <Trait name="Quick Pockets"/>.
 
 </Character>  
 </CharacterWithAr>
@@ -180,24 +199,14 @@ If you do not need the extra CC you can run a Dagger with <Item id="48911"/> ins
 <Trait id="1277"/> over <Trait id="1190"/> on <Instability name="No Pain, No Gain"/> days, or when boonstrip is needed.
 <Traits traits1="Trickery" traits1Selected="Thrill of the Crime,Bountiful Theft,Quick Pockets" unembossed/>
 
+<Advanced>
 ### Alacrity Variant
 
 Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alacrity"/> source. You will need to adjust your gear using the [gear optimizer](https://optimizer.discretize.eu/) to gain at least 43% <Attribute name="Boon Duration"/> if you want to upkeep it permanantly.
 
 <Traits traits1="Specter" traits1Selected="Consume Shadows,Traversing Dusk,Strength of Shadows" unembossed/>
 <Skills heal="Well of Gloom" utility1="Well of Bounty" utility2="Well of Sorrow" utility3="Spider Venom" elite="Basilisk Venom" unembossed/>
-
-</Card>
-<Card title="Defiance Bar Damage">
-
-|                                            |                                                        |
-| ------------------------------------------ | ------------------------------------------------------ |
-| <Skill id="13132" size="big" disableText/> | 150 Defiance bar damage per ally (Up to 750 CC).       |
-| <Skill id="63155" size="big" disableText/> | Mind Shock (skill 5) 150 Defiance bar damage           |
-| <Skill id="13020" size="big" disableText/> | 150 Defiance bar damage.                               |
-| <Skill id="13012" size="big" disableText/> | 200 Defiance bar damage (260 with <Item id="24639"/>). |
-| <Skill id="13019" size="big" disableText/> | <Condition name="Crippled"/> 15/s Defiance bar damage. |
-| <Skill id="13093" size="big" disableText/> | <Condition name="Immobile"/> 50/s Defiance bar damage. |
+</Advanced>
 
 </Card>
 </GridItem>
@@ -207,7 +216,7 @@ Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alac
 
 |                                                       |                                                                                                                                              |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="13093" size="big" disableText/>            | A situational damage ability, to take over <Skill name="Thousand Needles"/> on moving targets.                                               |
+| <Skill id="13093" size="big" disableText/>            | A situational damage ability; take this over <Skill name="Thousand Needles"/> on moving targets.                                               |
 | <Skill name="signetofmalice" size="big" disableText/> | Highest sustained healing.                                                                                                                   |
 | <Skill name="skelkvenom" size="big" disableText/>     | Best party healing.                                                                                                                          |
 | <Skill id="13020" size="big" disableText/>            | Taken over <Skill name="Prepare Thousand Needles"/> when extra CC is needed (particularly useful on MAMA).                                   |
@@ -215,6 +224,7 @@ Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alac
 
 </Card>
 
+<Advanced>
 <Card title="Useful skills for skips">
 
 |                                            |                                                                                                           |
@@ -227,6 +237,20 @@ Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alac
 | <Skill id="13038" size="big" disableText/> | One way portal, useful if you don't have <Item id="78978"/>.                                              |
 | <Skill id="13025" size="big" disableText/> | 900 range shadowstep, useful for some skips.                                                              |
 | <Skill id="13041" size="big" disableText/> | Used as a blast finisher to stack <Effect name="Stealth"/>.                                               |
+
+</Card>
+</Advanced>
+
+<Card title="CC Skills">
+
+|                                            |                                                        |
+| ------------------------------------------ | ------------------------------------------------------ |
+| <Skill id="13132" size="big" disableText/> | 150 Defiance bar damage per ally (up to 750 CC).       |
+| <Skill id="63155" size="big" disableText/> | Mind Shock (skill 5) does 150 Defiance bar damage.     |
+| <Skill id="13020" size="big" disableText/> | 150 Defiance bar damage.                               |
+| <Skill id="13012" size="big" disableText/> | 200 Defiance bar damage (260 with <Item id="24639"/>). |
+| <Skill id="13019" size="big" disableText/> | <Condition name="Crippled"/> 15/s Defiance bar damage. |
+| <Skill id="13093" size="big" disableText/> | <Condition name="Immobile"/> 50/s Defiance bar damage. |
 
 </Card>
 
@@ -245,14 +269,14 @@ Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alac
 **Step 1: Scepter 3 and F1**
 
 In the first step, we will focus on spending our Initiative and gaining some of it back.
-- Our main skill we want to spend it on is <Skill name="Twilight Combo"/>.
+- The main skill we want to spend it on is <Skill name="Twilight Combo"/>.
 - Besides that, we will just auto-attack on Scepter. Finishing auto-attack chains is not necessary.
 - When low on Initiative, use <Skill name="Siphon"/> to gain back some through <Trait name="Kleptomaniac"/>. Be careful as this skill can cancel other skills you are currently casting.
 
 **Step 2: Shadow Shroud**
 
 Next up, we want to incorporate <Skill name="Enter Shadow Shroud"/>. This will be useful for gaining back Initiative instead of auto-attacking on Scepter for too long.
-- When at low Initiative, enter <Skill name="Enter Shadow Shroud"/> as soon as possible.
+- When at low Initiative, use <Skill name="Enter Shadow Shroud"/> as soon as possible.
 - This will trigger <Trait name="Quick Pockets"/> and give you back some Initiative (unless you recently weapon swapped before).
 - Use Skills 2,4 and 5 off-cooldown in Shroud.
 There is 2 options to track how long you want to stay in Shroud:
