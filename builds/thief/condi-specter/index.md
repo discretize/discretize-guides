@@ -31,7 +31,7 @@ classification:
   - 2
   - 3
 compositions: null
-date: 2022-05-01T15:55:07.648Z
+date: 2022-05-01T15:57:15.542Z
 cmGuide: ""
 ---
 The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. It offers large amounts of <Effect name="Barrier"/> for your party, some healing and a small amount of <Boon name="Might"/> and <Boon name="Swiftness"/> by targeting allied players.
@@ -283,7 +283,7 @@ Next up, we want to incorporate <Skill name="Enter Shadow Shroud"/>. This will b
 - Use Skills 2,4 and 5 off-cooldown in Shroud.
 There is 2 options to track how long you want to stay in Shroud:
 1. Leave Shroud when your Initiative is almost full.
-2. Leave Shroud after the 3rd time casting skill 2 (if you entered at 3-4 Initiative) or after casting 2 additional auto-attacks after the 2nd time (if you entered at 0-1 initiative).
+2. Leave Shroud after the 3rd time casting skill 2 (if you entered at 0-1 Initiative) or after casting 2 additional auto-attacks after the 2nd time (if you entered at 3-4 initiative).
 
 The 2nd way is more future-proof due to being independant of <Trait name="Quick Pockets"/> timings if you have to swap to Pistol during the fight or when you move on to using a 2nd Dagger to trigger <Trait name="Quick Pockets"/> at different times..
 
