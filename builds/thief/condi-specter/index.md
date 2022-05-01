@@ -31,7 +31,7 @@ classification:
   - 2
   - 3
 compositions: null
-date: 2022-05-01T09:20:42.556Z
+date: 2022-05-01T15:23:14.242Z
 cmGuide: ""
 ---
 The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. It offers large amounts of <Effect name="Barrier"/> for your party, some healing and a small amount of <Boon name="Might"/> and <Boon name="Swiftness"/> by targeting allied players.
@@ -175,9 +175,11 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
 }}>
 
 <Advanced>
+
 If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
 
 It's recommended to have a short bow for additional movement during downtime and <Boon name="might"/> blasts on the _Mistlock Singularity_.
+
 </Advanced>
 
 The <Skill name="skelkvenom"/> is a great option to support your party as it brings a tremendous amount of party healing.
