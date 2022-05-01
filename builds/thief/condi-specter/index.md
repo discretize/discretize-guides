@@ -31,7 +31,7 @@ classification:
   - 2
   - 3
 compositions: null
-date: 2022-04-30T12:43:01.377Z
+date: 2022-05-01T02:50:12.281Z
 cmGuide: ""
 ---
 
@@ -254,16 +254,19 @@ In the first step, we will focus on spending our Initiative and gaining some of 
 Next up, we want to incorporate <Skill name="Enter Shadow Shroud"/>. This will be useful for gaining back Initiative instead of auto-attacking on Scepter for too long.
 - When at low Initiative, enter <Skill name="Enter Shadow Shroud"/> as soon as possible.
 - This will trigger <Trait name="Quick Pockets"/> and give you back some Initiative (unless you recently weapon swapped before).
-- Use Skills 2,4 and 5 off-cooldown in Shroud. Leave Shroud when your Initiative is almost full.
-- Alternatively, leave Shroud after the 3rd time casting skill 2 (if entering at 3-4 Initiative) or after the 2nd time (if entering at 0-1 initiative). This way is more future-proof due to being independant of <Trait name="Quick Pockets"/> timings if you have to swap to Pistol or use a 2nd set with another Dagger to trigger it.
+- Use Skills 2,4 and 5 off-cooldown in Shroud.
+There is 2 options to track how long you want to stay in Shroud:
+1. Leave Shroud when your Initiative is almost full.
+2. Leave Shroud after the 3rd time casting skill 2 (if you entered at 3-4 Initiative) or after casting 2 additional auto-attacks after the 2nd time (if you entered at 0-1 initiative).
+The 2nd way is more future-proof due to being independant of <Trait name="Quick Pockets"/> timings if you have to swap to Pistol during the fight or when you move on to using a 2nd Dagger to trigger <Trait name="Quick Pockets"/> at different times..
 
 **Step 3: Venoms**
 
 The first utility skills we will incorporate will be the venoms, namely <Skill name="Spider Venom"/> and <Skill name="Skale Venom"/>.
-- Venoms give a buff to ourselves and 4 allies that will make the next attacks inflict various conditions. The damage will count towards your damage and scale with your stats.
+- Venoms give a buff to ourselves and 4 allies that will make the next attacks inflict various conditions. It will count towards your damage and scale with your stats.
 - This also means they will be a lot more effective in a real fight "with allies" compared to the golem.
 - Use these skills off-cooldown. They are instant-casts and can therefore be used while casting other skills.
-- Use <Skill name="Basilisk Venom"/> whenever its CC is needed.
+- Use <Skill name="Basilisk Venom"/> whenever its CC is needed. This one does have a cast-time though.
 - If a Mistlock Singularity is present, you can even precast them there before taking the singularity to reset your skills and use them again once the first ones are used up. This will ensure massive burst damage at the start of the fight.
 
 **Step 4: Thousand Needles**
